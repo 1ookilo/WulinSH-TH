@@ -2879,7 +2879,7 @@ UIModMain_LayerLocal_boxRightHead_boxProgress_txtPublishTitle,Uploading
 UIModMain_LayerLocal_btnPublish_txt,Upload
 UIModMain_LayerLocal_btnDisclaimer_txt,"<#D3D3D3>By submitting this mod, you agree to the</color><u>Steam Workshop Terms of Service</u>"
 UIModMain_LayerLocal_btnShowLocal_txtName,Local Mods
-MainMenuUI_Bg_Buttons_en_ModButton_Text(TMP),Workshop
+MainMenuUI_Bg_Buttons_en_ModButton_Text(TMP),Workshop,เวิร์คช็อป
 MainMenuUI_Bg_Buttons_cn_ModButton_Text(TMP),Creative Workshop
 UIModMain_LayerLocal_boxEmpty_txt,There are no\nmods yet
 TradingWithFactionUI_Buy_btnOneTouchAll_txt,One-click Buy
