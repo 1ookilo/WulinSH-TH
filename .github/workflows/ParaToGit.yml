@@ -20,6 +20,7 @@ jobs:
         unzip -q -o download -d Wulinpy/GenerateCSVtoXSLX/csv_input
         mv Wulinpy/GenerateCSVtoXSLX/csv_input/utf8/* Wulinpy/GenerateCSVtoXSLX/csv_input
         rm -r Wulinpy/GenerateCSVtoXSLX/csv_input/utf8
+        rm -r download
     - name: List Extracted Files
       run: |
         ls Wulinpy/GenerateCSVtoXSLX/csv_input        
