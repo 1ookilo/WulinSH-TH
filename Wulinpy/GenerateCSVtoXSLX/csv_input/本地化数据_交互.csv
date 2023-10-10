@@ -1,0 +1,194 @@
+﻿﻿NpcParalyze_通用_CanNotParalyze,This character cannot be immobilized.
+NpcSteal_通用_CanNotSteal,This character cannot steal.
+NpcPoision_通用_CanNotPoision,This character cannot poison.
+NpcAssassin_通用_CanNotAssassin,This character cannot ambush.
+NpcAssassin_通用_RunAway,Murder! Murder!
+NpcAssassin_通用_KaiGan,Dare you ambush me?
+NpcPoision_通用_RunAway,"What suspicious thing are you feeding me!|Oh my god, someone is poisoning!"
+NpcPoision_通用_KaiGan,You are so bold!|Who gave you the courage to poison me!
+PlayerAssassin_通用_OverTop,Run!
+PlayerAssassin_通用_Seckill,"Hmph, that's all.|Easy as pie!"
+PlayerAssassin_通用_Unseckill,I didn't hit... do you believe...
+PlayerPoision_通用_MaximumPoision,The poison in this person is deep enough.
+PlayerPoision_通用_NothingPoision,Out of poison.
+PlayerPoision_通用_PoisionSuccess,Poisoning succeeded.
+Paralyze_通用_LackStamina,"No stamina left.|Can't act without stamina.|So tired, can I rest?|Stamina is exhausted."
+Steal_通用_LackStamina,"No stamina left.|Can't act without stamina.|So tired, can I rest?|Stamina is exhausted."
+Poison_通用_LackStamina,"No stamina left.|Can't act without stamina.|So tired, can I rest?|Stamina is exhausted."
+Assassin_通用_LackStamina,"No stamina left.|Can't act without stamina.|So tired, can I rest?|Stamina is exhausted."
+NpcSteal_通用_PlayerTalk,"Easily done!|Easy as pie~|Too easy!|Hehe, got something for free.|So-called unseen and unheard~|This treasure is mine!"
+NpcSteal_通用_NothingSteal,"Not a single thing, what a pauper!"
+NpcFactionBuy_通用_RefuseSameFactionOnly,"You are not a disciple of this sect, you have no right to get anything from {NpcJobTalk:自我称呼}."
+NpcInvite_OK,Agree to let {Char1Name} join the team.
+NpcInvite_Cancel,Think about it again.
+Gifting_RelationInfo,Current Relations: {0} ({1}).
+Gifting_FondInfo,Favorite Item: {0}.
+Gifting_FondItemSeparator,、
+Gifting_FondItemNone,
+NpcGifting_RelationInfoGood,"Your relationship is very good, you can get the following help"
+NpcGifting_RelationInfoBad,"You seem to be at odds with each other, the other party doesn't want to deal with you."
+NpcGifting_RelationInfoNotGood,"You are not getting along well, it may have some negative effects on you."
+NpcGifting_RelationUnlockFight,"Enemies meet with red eyes, they will attack you without hesitation"
+NpcGifting_RelationUnlockFightCoward,"Unwilling to have any contact with you, will only stay away from you"
+NpcGifting_RelationUnlockBuy,You can <#00ff00>Buy</color> items from their shop
+NpcGifting_RelationUnlockSell,You can <#00ff00>Sell</color> items they are interested in
+NpcGifting_RelationUnlockTrade,Exchange items in your inventory with {Char1Name}'s possessions<#00ff00></color>
+NpcGifting_RelationUnlockTeach,You can get {HL0} by meeting the specified requirements when <#00ff00>Request</color>
+NpcGifting_RelationUnlockJoinAllie,"If {Char1Name} is present in the battle, they will definitely not stand by"
+NpcGifting_RelationThesholdInfo,The current Relations can be increased to <#{0}>{1}</color>
+NpcGifting_RelationUnlockInvite,"You have a deep relationship, you can <#00ff00>Invite</color> {Char1Name} to join the team"
+NpcGifting_RelationTheshold,Relations can be further improved after completing the <#ff8800>{0}</color> event
+NpcGifting_RelationTeachAbility,"Considered as Intimate, you can learn <#00ff00>{0}{1}</color> from them"
+NpcGifting_RelationMax,The Relations between you no longer need to be Gift
+NpcGifting_RepWithLevel,{0} (Fame{1} level)
+NpcGifting_NoRepMale,"Your Fame is much different from <#ffff00>{0}</color>, he will not accept any of your gifts"
+NpcGifting_NoRepFemale,"Your Fame is much different from <#ffff00>{0}</color>, she will not accept any of your gifts"
+NpcGifting_ItemRarity0,<#68cf24>{0}</color>
+NpcGifting_ItemRarity1,<#00c6f3>{0}</color>
+NpcGifting_ItemRarity2,<#c851ff>{0}</color>
+NpcGifting_ItemRarity3,<#d09a09>{0}</color>
+FactionTrading_Treasurys,{1} has gold: {0}
+FactionTrading_FameRelationNoChange,Relations with {0} have reached {1}
+FactionTrading_FameRelation,"Relations with {0} have reached {1}, you can enjoy a {2}% discount"
+FactionTrading_TreasurysCoinNoyEnough,%c%The other party does not have enough money
+NpcInteractive_动物_Like,What do you want to do with it?
+NpcInteractive_动物_Dislike,What do you want to do with it?
+NpcInteractive_物品,What do you want to do with it?
+NpcPetInvite_InteractiveLow,"I don't understand its beast language, I can't interact with it."
+NpcPetInvite_AlreadyHasPet,"Unless you Release the existing pet, you cannot Adopt a new pet."
+NpcPetInvite_RelationLow,You can only Adopt when Relations reach {0}
+PlayerCurse_Stamina,"Stamina is too low, it's best to rest|It turns out that wandering in the world is not only mentally tired, but also physically tired|I'm so tired recently"
+PlayerCurse_Mood,"Ah, my life is so hard|Ah, how can I live this life|Why am I always the unlucky one?|How long will this life last|Why is everything I do so unsuccessful|This world is too tiring|I don't know how long I can hold on|Ah~"
+NpcLeaveTeam_通用_LeaveTalk,"If there is anything that {NpcJobTalk:自我称呼} can help in the future, you can find {NpcJobTalk:自我称呼} in {0}. The road is long, we will meet again."
+PetLeaveTeam_Window,Are you planning to let {0} Run away from the team?
+PetLeaveTeam_通用_LeaveTalk,"It should go back to {0} and wait for me, I'll go find it when I miss it."
+NpcInvite_通用_ReqAddPropLow,Your <size=200%><b>{0}</b></size> is too low!
+NpcInvite_通用_ReqAddPropHigh,Your <size=200%><b>{0}</b></size> is too high!
+NpcSeat_通用_BreakSeat,This is too much!
+NpcSeat_通用_CantBreakSeat,"Anyway, I can't hide, you decide."
+NpcJobTalk_第二人称脏话_通用,
+NpcJobTalk_脏话_通用,
+NpcJobTalk_口号_通用,
+IsLock_Default,%c%Need {0}
+IsLock_Tip_Param0,%c%I need {0} to open it
+ObjectLockConfirmWindow,"After Open, {0} will be consumed!\nContinue?"
+ObjectLockUnlocked,Unlock successful
+IsLock_PropDefault,%c%{0} needs to reach {1}
+IsLock_PropAbility,%c%Need {0}{1} level
+Friendly_贸首,Nemesis
+Friendly_切齿,Despise
+Friendly_憎恨,Loath
+Friendly_厌恶,Hate
+Friendly_漠视,Detest
+Friendly_认识,Known
+Friendly_友好,Friendly
+Friendly_亲密,Close
+Friendly_知己,Intimate
+Friendly_莫逆,Devoted
+Friendly_生死,Inseparable
+Friendly_陌生,Stranger
+PetHeal_没有选择,%c%No item selected to Feed
+PetFeed_吃饱,"%c%No need to feed anymore, already full."
+NpcTeaching_通用_IsFactionTalk,"I'm not from the same sect as you, I can't teach you."
+NpcTeaching_通用_NoTeacheingTalk,{NpcJobTalk:自我称呼} has a {0}. {1}
+NoTeachingTalk_ConsumeCondition,You need to exchange it with {0}.
+NoTeachingTalk_PremiseCondition,{0} is required.
+NpcTeahing_通用_TaughtTalk,I have nothing more to teach you.
+NpcTeahing_通用_MeetTalk,Are you sure you want to continue learning with {NpcJobTalk:自我称呼}?
+NpcTeahing_通用_ConsumeTalk,You need {0} to give you {1}.
+NpcTeahing_通用_SuccessTeach,{NpcJobTalk:自我称呼} has nothing more to teach {NpcJobTalk:第二人称}.
+NpcTeahing_通用_ContinueTalk,Are you sure you want to consume {0} to get {1}?
+NpcTeahing_通用_NotReady,It seems that {NpcJobTalk:第二人称} is not ready yet.
+NpcTeahing_通用_StadyBook,Are you sure you want to continue learning with {NpcJobTalk:自我称呼}?
+NpcTeahing_通用_FreeTeach,"Since we are destined, I will teach you."
+NpcTeachAbility_通用_Apply,"Now {PlayerSurName}{NpcJobTalk:第二人称敬语} and {NpcJobTalk:自我称呼} are <color=#c44b0e>Inseparable</color>,\n{NpcJobTalk:自我称呼} will teach some <color=#c44b0e>{0}</color> to {PlayerSurName}{NpcJobTalk:第二人称敬语}."
+BH_Kill0,Eliminate the threat of {faction} ({num})
+BH_Item0,Collect {rarity}{type} ({num})
+BH_Item1,Collect {namenum}
+BH_Kill1,Capture the criminal {name}
+BH_Kill2,Kill {name} in {map}
+BH_Kill3,Kill {name}
+BH_Kill4,Kill {name} ({num})
+BH_Prize,"Trustworthy+{0}, {faction}Relations+{1}"
+BH_LessQua,Refresh after {0}
+BH_Done,Delivered
+BH_Cancel,Abandoned
+BH_BtnCancel,Abandon
+BH_BtnDone,Hand in
+BH_BtnAccept,Accept
+BH_NoLimitTime,No limit
+BH_PassLimit,Overdue
+BH_SelectIDWarning,"Delivery area is full, please allocate quantity reasonably"
+BH_MaxActiveNum,%c%The number of bounty tasks accepted has reached the limit
+BH_AcceptTip,%c%Accepted {0} bounty tasks
+BH_CancelConfirm,Abandoning the task will reduce Trustworthy by <color=#FF0000>{0}</color> points and {1}Relations by <color=#FF0000>{2}</color> points.
+BH_DoneTip,<color=#2D8776>Please return to {0} to deliver the completed task</color>
+BH_CancelTip,"Failed to catch the wanted target on the bounty notice in time, seems like I have to give up!"
+BH_CancelTip_Boss,"Failed to eliminate the target base within the time limit, seems like I have to give up!"
+BH_NpcDead,"The criminal has been subdued, you can go to collect the reward~"
+BH_BossDead,"It has been eliminated, you can go to collect the reward~"
+BH_BulletinClose,There's nothing left here.
+BH_InternalOpen,Join <#c44b0e>{0}</color> to accept tasks here
+BH_PermitItem,Lack of {0}! Unable to accept the task
+MiningBatch_ToolTip,"Lacking <#c44b0e>{0}</color>, unable to gather.|Can't do without <#c44b0e>{0}</color>.|Need to have <#c44b0e>{0}</color> to gather.|Go get a <#c44b0e>{0}</color> first."
+Mining_ToolBroken,"Oh no! The tool is broken, what bad luck.|Oh, the tool is broken!|Ah!! The tool is broken!"
+Mining_PrizeSpe,What a pleasant surprise!
+Mining_PrizeBest,"This, this is... really lucky!|Wow! I hit the jackpot!|There really are good things!|No mistake, this luster is——"
+Mining_ToolNotEnough,"How can I gather without a tool...|I don't have the ability to gather with bare hands!|You need a tool to gather.|Gathering with bare hands is too difficult.|I really can't do it without a tool!|Even if I'm skilled, I still need a tool."
+Mining_EnergyNotEnough,I'm exhausted... let me rest for a while.|I can't hold the tool steady anymore...|Let me rest for a while...|People need to rest!|
+Mining_TimesNotEnough,"There's nothing left to gather here.|Even if I want to gather, there's nothing left.|I've gathered everything here.|There's really nothing left here.|Forget it, there's nothing left here."
+caiji_kuangwu,Pickaxe
+caiji_famu,Axe
+caiji_diaoyu,Fishing rod
+caiji_caiyao,Sickle
+caiji_zhuochong,Worm-catching net
+Competition_SecondPlace_Friendly,"As expected of Brother {PlayerSurName}, you're really skilled, I admire you greatly.\nLooking forward to our next competition, we'll see who's better then."
+Competition_SecondPlace_Unfriendly,"{PlayerName}! I'll remember the humiliation of losing to you today, we'll see!\nNext time, I'll show {NpcJobTalk:第二人称脏话} how powerful {NpcJobTalk:自我称呼} really is."
+Competition_CompereEndFull,"The champion of this competition is {1}, the runner-up is {2}, and the third place is {3}. The {0} is over, everyone can leave now."
+Competition_CompereEndAbsent,"The champion of this competition is {1}, the runner-up is {2}. The {0} is over, everyone can leave now."
+Competition_HiddenStart,"I didn't expect that no one dared to participate in this competition.\nI can't let you easily win the championship, let me see how capable you are now!"
+StealWarning_Person,"<#ff8888>{0}</color>'s item, taking it without permission will reduce <#ffff00>Propriety</color>,\ndo you want to continue?"
+StealWarning_Faction,"<#ff8888>{0}</color>'s item, taking it without permission will reduce <#ffff00>Propriety</color>,\ndo you want to continue?"
+InteractiveCircle_交谈,Talk
+InteractiveCircle_邀请,Invite
+InteractiveCircle_HL_邀请,<#62FB9C>Invite
+InteractiveCircle_掌门,<#62FB9C>Leader
+InteractiveCircle_易物,Trade
+InteractiveCircle_购买,Buy
+InteractiveCircle_出售,Sell
+InteractiveCircle_送礼,Gift
+InteractiveCircle_请教,Request
+InteractiveCircle_学艺,Learn
+InteractiveCircle_驱赶,Banish
+InteractiveCircle_查看,Info
+InteractiveCircle_驻足,Stop
+InteractiveCircle_放养,Raise
+InteractiveCircle_治疗,Heal
+InteractiveCircle_喂食,Feed
+InteractiveCircle_领养,Adopt
+InteractiveCircle_放生,Release
+InteractiveCircle_破解,Crack
+InteractiveCircle_开启,Open
+InteractiveCircle_鉴定,Appraise
+InteractiveCircle_马车,<#62FB9C>Depart
+InteractiveCircle_骑乘,Set Off
+InteractiveCircle_HL_骑乘,<#62FB9C>Depart
+Authenticate_Introduction,"Young hero, I can appraise {0} here, spending a little money can help you a lot!"
+Authenticate_NeedRelation,But looking at our relations... it's better to go further.
+Authenticate_NoConsume,"Get lost!|Don't bother me if there's nothing.|What? If you don't let me appraise, why are you looking for me?"
+Authenticate_HasConsume,Thank you for your patronage!|Welcome to come again!|All are good goods!|Are you satisfied with the result?
+PetNaming_Window,Please name your pet
+PetNaming_Intro,What name do you want to give it?
+PetNaming_Accept,"Great! From now on, you'll be called <#c44b0e>{0}</color>!"
+PetNaming_Denied,"This name is not good, I'll try others."
+InstanctBattle_通用_AskAvoid,"I don't want to hurt the innocent, you better run away quickly!"
+InstanctBattle_通用_AllieBetray,"If you hurt my fellow, don't blame me for turning against you."
+InstanctBattle_通用_TeammateHit,Don't attack my fellow anymore.
+InstanctBattle_通用_TeammateHitBySelf,Don't force me to fight against my own people.
+InstanctBattle_通用_TeammateBetray,The result of oppression is resistance.
+NpcTeachAbility_通用_LackRelation,"You and I are not well acquainted, there's nothing I can teach you."
+NpcTeachAbility_通用_Introduction,"Now we are Intimate,\nI can teach you {0} points of {1};\nIt will cost {2} Coin, consume {3} Stamina, {4}."
+NpcTeachAbility_通用_ReConfirm,Are you sure you want to continue learning with me?
+NpcLeaveTeam_通用_AutoLeaveTalk,"Our Relations have made us distrust each other, I will return to {0}, the road of the rivers and lakes is long, see you if we are destined."
+NpcCart_通用_Refuse,"I can carry anyone, but not you!"
+NpcBath_通用_Saw,"Who are you, so annoying!|Stay away from me!|Ruffian!|Why is there a man here?|Ah... this..."

@@ -1,0 +1,82 @@
+﻿﻿TipsString_sencelimit,Scene limit
+TipsString_uselimit,Use limit
+TipsString_Notlimit,No limit
+TipsString_battleUse,Combat usage
+TipsString_UnbattleUse,Non-combat usage
+TipsString_Type,Type
+TipsString_SZJG,Cooldown
+TipsString_CD,{0} actions
+TipsString_BondCD,Only one use per battle
+TipsString_XTSX,Core stat
+TipsString_KungfuMoveData,External skill moves
+TipsString_KungfuMoveDataProb,(Trigger probability: {0}%)
+GameLog_CantSaveWhenNpcPercepting,Cannot save when noticed by NPC
+Loading_Tip,"Some collected resources will recover over time.|The lower the quality of the gathering tool used, the easier it is to damage.|The higher the quality of the gathered item, the more skill experience gained.|The higher the gathering skill level, the less likely the tool is to damage.|The higher the gathering skill level, the more likely to produce high-quality items.|If seen by hostile people, they may ambush you.|Don't cause trouble in town, or you will be arrested by the officers.|Some scenes will reveal hidden passages when destroyed.|Don't provoke Neutral characters, they will join your opponents to beat you.|The more achievements activated, the more attribute points can be allocated when creating a new character.|The more achievements activated, the more initial traits can be selected when creating a new character.|Sect skills are generally only taught to sect disciples, outsiders have no chance!|Completing tasks commissioned by the sect bulletin board can improve sect relations.|Greeting the sect leader daily can improve relations with them.|Sect events will be triggered when relations reach 30, 60, 100.|Choosing to leave the sect will clear all gained sect contributions.|Killing key characters of the sect may lead to the destruction of the sect.|Sect contributions can be used to buy exclusive items from the sect leader.|The greater the fame, the easier it is to improve relations with others when gifting.|Visiting other sects requires a certain level of personal Fame.|Challenging the leader of other sects requires a certain level of personal Fame.|At the auction, it's actually the closest time to the treasures...|Don't pick up items with owners lightly, it will damage the Relations with the owner.|When any character reaches extreme positive or negative, the protagonist can gain a special status.|When Relations with others reach 60, a small amount of Benevolence can be increased.|Performing actions such as Ambush, Poison, Steal, etc., will reduce Benevolence.|Picking up items with owners is a behavior that damages Propriety.|Completing tasks on the bulletin board on time can increase Trustworthy.|Abandoning teammates and retreating actively in battle is a behavior that damages Righteous!|To be an upright person, please stay away from all kinds of lowly behaviors.|People's vision generally weakens at night, but animals are just the opposite.|When any of the five-dimensional attributes reach 10, the Character can gain a special status.|Passive represents different combat styles, comprehension points can improve understanding.|Offering the other party's favorite Item during Trade will have additional added value.|Attacking at close range behind the target will cause greater damage.|Attacking at close range on the side of the target will cause more damage.|Frequent use of martial arts can also improve martial arts Level.|After being hit 5 times, attacking the target can trigger a Rage strike!|The more Spirit cost for the ultimate move, the more obvious the Super Move effect.|Powerful martial arts cannot be used continuously and need time for Recovery.|Learning external skills can increase Attack power, and internal skills can increase HP and MP.|Setting internal skills as the main skill can maximize its effectiveness in battle.|Forcing to Equip inappropriate equipment will greatly reduce the effect.|The protagonist can increase Constitution by eating food, up to 10.|Mining, Lumbering, Gathering, Fishing can increase the protagonist's Strength, up to 10.|The protagonist can increase Intelligence by burning incense, up to 10.|The protagonist can increase Dexterity by traveling around, up to 10.|Luck can be increased through ItemAppraise, up to 10.|The twelve Animal rings are useless, don't bother collecting them.|As a chivalrous person, supporting legitimate games is also a virtue!"
+RoamingUiTip_Stamina,"<#FEFAF0>The higher the Stamina value, the better the temporary effect, and vice versa.</color>\n<#FEFAF0>Actions such as Mining, Lumbering, Fishing, etc., require the consumption of Stamina.</color>\n<#FEFAF0>Stamina will decay over time.</color>\n<#FEFAF0>Cannot interact with other characters in the state of Extreme fatigue.</color>\n<#FEFAF0>Stamina can be recovered through sleep and eating Main.</color>"
+RoamingUiTip_Mood,"<#FEFAF0>The higher the Mood value, the better the temporary effects obtained, and vice versa.</color>\n<#FEFAF0>If Mood exceeds 60, it will slowly return to normal on its own.</color>\n<#FEFAF0>When Stamina is low, Mood decreases over time.</color>\n<#FEFAF0>Both defeat in battle and retreat will reduce Mood.</color>\n<#FEFAF0>Eating desserts and berries can recover Mood.</color>\n<#FEFAF0>Choosing to rest in a comfortable bed can recover Mood, such as staying in an inn.</color>"
+RoamingUiTip_Rep,"<#FEFAF0>The higher your Fame, the more effective your Gifts to others will be. Conversely, the lower your Fame, the weaker your Gifts will be.</color>\n<#FEFAF0>Joining certain sects requires a certain level of Fame as a prerequisite.</color>\n<#FEFAF0>Activating important events in the Jianghu requires a certain level of Fame.</color>\n<#FEFAF0>Completing tasks on the bulletin boards in towns and sects may reward Fame Experience.</color>\n<#FEFAF0>Winning championships in various Arenas rewards Fame Experience.</color>\n<#FEFAF0>Eliminating sects can earn a large amount of Fame Experience.</color>"
+RoamingUiTip_Coin,<#FEFAF0>Important Money for trading with other characters.</color>\n<#FEFAF0>You can earn Coin by selling items.</color>\n<#FEFAF0>Completing tasks on the bulletin boards in towns and factions may reward Coin.</color>\n<#FEFAF0>Getting rare items and participating in auctions can make you rich overnight!</color>
+RoamingUiTip_FTributePoint,<#FEFAF0>You can exchange items in the faction store</color>\n<#FEFAF0>Obtained by completing bounty tasks</color>
+RoamingUiTipHead_Stamina,<#FFE7B0>Stamina</color>
+RoamingUiTipHead_Mood,<#FFE7B0>Mood</color>
+RoamingUiTipHead_Rep,<#FFE7B0>Fame (Level {0})</color>
+RoamingUiTipHead_Coin,<#FFE7B0>Coin</color>
+RoamingUiTipHead_FTributePoint,Sect contribution
+RoamingUiTipValue_Stamina,<#FFD779>{0}/{1}</color>
+RoamingUiTipValue_Mood,<#59F3DF>{0}/{1}</color>
+RoamingUiTipValue_Rep,<#E277FF>{0}/{1}</color>
+RoamingUiTipValue_Coin,<#FFE7B0>{0} Coin</color>
+RoamingUiTipValue_FTributePoint,<#FFE7B0>{0}</color>
+KungfuTip_CostEp,MP cost {0}
+TipTitle_CostEp,MP cost
+TipTiTle_CostAccu,Spirit cost
+Tip_NeedWeapon,Weapon
+Unlimited,No limit
+TipTitle_InternalKungfuProp,Internal stats
+TipTitle_MainInternalKungfuEffect,Main Internal effect
+TipTitle_SubInternalKungfuEffect,Sub Internal effect
+TipTitle_OuternalProp,External stats
+TipTitle_OuternalDamage,Power
+TipTitle_InternalKungfuEffect,Effect
+TipTitle_OuternalKungfuEffect,External effect (activated when using this skill)
+TipHead_ItemType,Type
+TipTitle_EquipReq,Requirement
+TipTitle_MainProp,Main stats
+TipTitle_AddtionProp,Sub stats
+TipTitle_JingMai,Meridian
+TipTitle_InterForceType,Internal type
+TipTitle_BookEffect,Manual effect
+TipTitle_MaxPropAddition,Max Level stats
+TipTitle_BookInternalKungfu,Read to learn
+TipTitle_BookOuternalKungfu,Read to learn
+TipTitle_AddtionEffect,Additional effects
+Suffix_Level,Level
+TipTitle_AppraisementReq,Appraisal requirement
+TipTitle_UseEffect,Effect
+TipTitle_BuffDuration,Effective in limited duration
+TipTitle_HidWepDamage,Power
+TipTitle_PropAddition,Current stats
+SkillTip_Damage,Damage <color=#ffffff>{0}</color>
+SkillTip_CostEp,MP cost <color=#ffffff>{0}</color>
+Tip_WeaponUnfit,"Incorrect weapon held, can't use"
+TipTitle_UniqueProp,Super Move stats
+TipTitle_UniqueEffect,Super Move effect
+TipTitle_UniqueDamage,Power
+GrayPillTips,Can take up to five attribute-enhancing Pills.
+BH_PrizeItemTip,Rewards depend on the task completion status
+TipTitle_BondProp,Love Skill stats
+TipHead_BondDamage,Power
+TipHead_BondRange,Range
+TipValue_BindRange,Within 4 spaces of main character
+TipHead_BondEffect,Love Skill effect
+CabTip1,You are already here!
+CabTip2,Not enough Coin!
+CabProgressStart,Travel started
+CabProgressEnd,Travel ended
+CabProgressEndByCancel,Travel interrupted
+CabPetStuff,Insufficient pet Full {0}! Can't ride!
+CabDisable,"The horse cart function is currently unavailable, please continue the story!"
+CabIconNotExist,The horse cart function is currently unavailable!
+UIBondsPlace,<size=150%>Press space to place Wedding Stone
+UIBondsStop,<size=150%>Press space to stop
+UIBondsExit,<size=150%>Press any key to exit

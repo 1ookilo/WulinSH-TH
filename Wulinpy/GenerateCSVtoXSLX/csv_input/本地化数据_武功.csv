@@ -1,0 +1,1525 @@
+﻿﻿KungfuInfo_Level,The {0}th layer
+KungfuInfo_NameWithLevel,{0}{1}
+KungfuDesc_市井拳法,"A boxing technique commonly used by street thugs, the punches are chaotic but effective."
+KungfuDesc_逍遥扇舞,"The moves are as graceful as flowing clouds and water, dancing with the fan, dazzling."
+KungfuDesc_龙蛇笔法,"The brush moves like a dancing dragon and snake, catching the enemy off guard."
+KungfuDesc_泛沧浪,"Aspiring to sail a flat boat on the five lakes, abandoning fame and fortune as if discarding chaff, carrying the wind and moon to play with the clouds and water, treating worldly affairs as if they were floating dust."
+KungfuDesc_音波功,"Use MP to attack enemies with sound waves, achieving a deafening effect."
+KungfuDesc_霸王卸甲,"The tune is solemn and tragic, making the listener clench their fists and shed tears."
+KungfuDesc_地趟刀法,"A sword technique that complements ground rolling movements, emphasizing the combination of upper and lower, and the integration of form and spirit."
+KungfuDesc_游龙剑法,"Moving like a dragon emerging from the water, still as a spiritual cat catching a mouse."
+KungfuDesc_逍遥拳法,"Once the unique martial arts of a certain Jianghu sect, the punches are free and easy, delicate and agile."
+KungfuDesc_蟠龙棍法,"A stick technique created by the founding emperor of Zhao, now common among ordinary people."
+KungfuDesc_疾风刺,"Stab with a dagger like a thunderstorm, catching the enemy off guard."
+KungfuDesc_六合枪法,"Combining the essence of six spear techniques into one, the movements are simple and fast, and the spear techniques are rich and changeable in an instant."
+KungfuDesc_开山掌,"Extremely fierce, each palm strike has the power to split mountains and rocks."
+KungfuDesc_贪狼剑法,"Like a greedy wolf descending to the world, devouring all obstacles."
+KungfuDesc_霹雳刀法,"The sword is swift, as fast as thunder."
+KungfuDesc_混元棍法,"With the momentum of Mountain Breaker, shock the world."
+KungfuDesc_七杀枪法,"There are seven moves, each one directly attacking the enemy's vital points, each move is critical."
+KungfuDesc_高山流水,"A guqin tune passed down from ancient times, between the strings there are towering mountains and trickling streams."
+KungfuDesc_银蛇流光,Strike the enemy off guard with the posture of a silver snake coming out of its hole.
+KungfuDesc_一刀绝尘,"Deal damage to enemies within a fan-shaped range (5-grid radius) in front of you;\nIf not breaking defense: additionally inflict 10 points of Bleeding on the enemy;\n   If breaking defense: additionally inflict 10% of the enemy's maximum HP in damage, and inflict 20 points of Bleeding."
+KungfuDesc_太极十三势,"Deal damage to enemies within a 3-grid radius of yourself and knock them back 2 grids;\nIf not breaking defense: 35% chance to trigger Stagger, Disassembly, Slowed, Broken bone on the enemy;\n   If breaking defense: additionally inflict 15% of the enemy's maximum HP in damage, and trigger Stagger, Disassembly, Slowed, Broken bone on the enemy;"
+KungfuDesc_平地惊雷,"Deal damage to enemies within a fan-shaped range (5-grid radius) in front of you;\nIf not breaking defense: no additional effects;\n   If breaking defense: additionally inflict 10% of the enemy's maximum HP in damage, 50% chance to trigger Vulnerable effect."
+KungfuDesc_石灰漫天,"Deal damage to enemies within a fan-shaped range (4-grid radius) in front of you;\nIf not breaking defense: additionally inflict 10 points of Blinded on the enemy;\n   If breaking defense: additionally inflict 5% of the enemy's maximum HP in damage, and inflict 20 points of Blinded."
+KungfuDesc_十字追魂,"Deal damage to enemies within a 5-grid radius and 1-grid radius around yourself;\nIf not breaking defense: additionally inflict 10 points of Bleeding on the enemy;\n   If breaking defense: additionally inflict 10% of the enemy's maximum HP in damage, and inflict 20 points of Bleeding."
+KungfuDesc_天罗地网,Summon 3 constables to assist in battle within a 3x5 area in front of you.
+KungfuDesc_人海战术,"Summon 5 soldiers to assist in battle within a 4x5 area in front of you, upgraded to 5 generals assisting in battle when your own Level reaches 60."
+KungfuDesc_直捣黄龙,"Deal damage to enemies within a 6x3 range in front of you and knock them back 1 grid;\nIf not breaking defense: additionally reduce the enemy's Qi by 125 points;\n   If breaking defense: additionally inflict 15% of the enemy's maximum HP in damage, and reduce the enemy's Qi by 250 points."
+KungfuDesc_前仆后继,"Increase the Action Speed of friendly characters within a 3-grid radius of yourself by 50%, which expires after 2 actions."
+KungfuDesc_浊浪排空,"Inflicts damage on enemies within a radius of 3 squares around oneself and knocks them back 1 square;\nWithout breaking defense: additionally inflicts 20 points of Internal Injury on the enemy;\n   Breaking defense: additionally inflicts 15% of the enemy's maximum HP in damage, and inflicts 40 points of Internal Injury, increases own Critical by 15% (lasts for 2 actions)."
+KungfuDesc_万剑归宗,"Inflicts damage on enemies within a radius of 4 squares around oneself;\nWithout breaking defense: no additional effects;\n   Breaking defense: additionally inflicts 20% of the enemy's maximum HP in damage, for every 3 points higher own Sword is than the enemy's Sword, inflicts 1 point of Bleeding on them."
+KungfuDesc_枯木逢春,Recovers 25% of lost HP for allies within a radius of 2 squares around oneself.
+KungfuDesc_儒门春秋,"Inflicts damage on enemies within a fan-shaped range (radius of 5 squares) in front of oneself;\nWithout breaking defense: 35% chance to trigger Confuse effect on the enemy;\n   Breaking defense: additionally inflicts 15% of the enemy's maximum HP in damage, and triggers Confuse effect; when Propriety is above 50, for every point above, reduces enemy's energy by 5 points."
+KungfuDesc_菩提金身,Allies within a radius of 3 squares around oneself gain 1 instance of No damage when hit effect.
+KungfuDesc_退避三舍,"Inflicts damage on enemies within a radius of 3 squares around oneself and knocks them back 3 squares;\nWithout breaking defense: no additional effects;\n   Breaking defense: additionally inflicts 10% of the enemy's maximum HP in damage, and prevents them from moving in their next action."
+KungfuDesc_财迷心窍,"Inflicts damage on enemies within a radius of 3 squares around oneself;\nWithout breaking defense: 35% chance to trigger Charm effect on the enemy (lasts for 2 actions);\n   Breaking defense: additionally inflicts 20% of the enemy's maximum HP in damage, 75% chance to trigger Charm effect on the enemy (lasts for 2 actions)."
+KungfuDesc_乾坤一掷,"Inflicts damage on enemies within a 5x1 range in front of oneself;\nWithout breaking defense: no additional effects;\n   Breaking defense: additionally inflicts 5% of the enemy's maximum HP in damage, for every 10 points higher own Throwing is than the enemy's Throwing, inflicts 1 point of Bleeding on them."
+KungfuDesc_暴雨梨花,"Inflicts damage on enemies within a fan-shaped range (radius of 4 squares) in front of oneself;\nWithout breaking defense: no additional effects;\n   Breaking defense: additionally inflicts 10% of the enemy's maximum HP in damage, for every 7 points higher own Throwing is than the enemy's Throwing, inflicts 1 point of Bleeding on them."
+KungfuDesc_满天花雨,"Inflicts damage on enemies within a radius of 4 squares around oneself;\nWithout breaking defense: no additional effects;\n   Breaking defense: additionally inflicts 15% of the enemy's maximum HP in damage, for every 5 points higher own Throwing is than the enemy's Throwing, inflicts 1 point of Bleeding on them."
+KungfuDesc_撒石灰粉,"Deal damage to enemies within a fan-shaped range (4-grid radius) in front of you;\nIf not breaking defense: additionally inflict 10 points of Blinded on the enemy;\n   If breaking defense: additionally inflict 5% of the enemy's maximum HP in damage, and inflict 20 points of Blinded."
+KungfuDesc_红莲业火,"Inflicts damage on enemies within a radius of 4 squares around oneself;\nWithout breaking defense: 25% chance to trigger Vulnerable effect on the enemy (lasts for 1 action);\n   Breaking defense: additionally inflicts 10% of the enemy's maximum HP in damage, 50% chance to trigger Vulnerable effect on the enemy (lasts for 1 action)."
+KungfuDesc_迷情熏香,"Inflicts damage on enemies within a range of 1 square in front of oneself;\nWithout breaking defense: no additional effects;\n   Breaking defense: additionally inflicts 5% of the enemy's maximum HP in damage, 50% chance to trigger Charm effect on the enemy (lasts for 1 action)."
+KungfuDesc_七息断魂雾,"Inflicts damage on enemies within a fan-shaped range (radius of 4 squares) in front of oneself;\nWithout breaking defense: additionally inflicts 10 points of Poisoned on the enemy;\n   Breaking defense: additionally inflicts 10% of the enemy's maximum HP in damage, and inflicts 20 points of Poisoned, reduces enemy's current MP by 10%."
+KungfuDesc_酥筋化骨香,"Inflict damage on enemies within a 4-tile radius of yourself;\nWithout breaking defense: additionally reduce enemy Action Speed by 10%, Critical, Parry, Evasion by 5% (lasts for 2 actions);\n   With breaking defense: additionally reduce enemy Action Speed by 20%, Critical, Parry, Evasion by 10% (lasts for 2 actions)."
+KungfuDesc_飞腿扬沙,"Inflict damage on enemies within a 3-tile horizontal range in front of you;\nWithout breaking defense: additionally inflict 10 points of Blinded on the enemy;\n   With breaking defense: additionally inflict damage equal to 10% of the enemy's maximum HP, and inflict 20 points of Blinded."
+KungfuDesc_投石问路,"Inflict damage on enemies within a 5x1 range in front of you;\nWithout breaking defense: no additional effects;\n   With breaking defense: additionally inflict damage equal to 10% of the enemy's maximum HP, for every 7 points your Throwing is higher than the enemy's, inflict 1 point of Internal Injury."
+KungfuDesc_铜锤灌顶,"Inflict damage on enemies within a 1-tile range in front of you;\nWithout breaking defense: 25% chance to trigger Unconscious effect on the enemy (lasts for 1 action);\n   With breaking defense: additionally inflict damage equal to 10% of the enemy's maximum HP, 50% chance to trigger Unconscious effect on the enemy (lasts for 1 action)."
+KungfuDesc_穿云一枪,"Inflict damage on enemies within a 5x1 range in front of you;\nWithout breaking defense: additionally inflict 10 points of Bleeding on the enemy;\n   With breaking defense: additionally inflict damage equal to 10% of the enemy's maximum HP, and inflict 20 points of Bleeding."
+KungfuDesc_召唤猎犬,Summon 1 hound within a 3x3 range in front of you.
+KungfuDesc_地动山摇,"Inflict damage on enemies within a fan-shaped range (4-tile radius) in front of you;\nWithout breaking defense: additionally inflict 10 points of Internal Injury on the enemy;\n   With breaking defense: additionally inflict damage equal to 10% of the enemy's maximum HP, and inflict 20 points of Internal Injury."
+KungfuDesc_石破天惊,"Inflict damage on enemies within a 3-tile radius of yourself and knock them back 1 tile;\nWithout breaking defense: 35% chance to trigger Broken bone effect on the enemy (lasts for 2 actions);\n   With breaking defense: additionally inflict damage equal to 15% of the enemy's maximum HP, and trigger Broken bone effect on the enemy (lasts for 2 actions)."
+KungfuDesc_梨花奥义,"Inflict damage on enemies within a 7x3 range in front of you;\nWithout breaking defense: no additional effects;\n   With breaking defense: additionally inflict damage equal to 15% of the enemy's maximum HP, for every 5 points your Long is higher than the enemy's, inflict 1 point of Sealed."
+KungfuDesc_一剑破万法,"Inflict damage on enemies within a 6x3 range in front of you;\nWithout breaking defense: no additional effects;\n   With breaking defense: additionally inflict damage equal to 15% of the enemy's maximum HP, for every 5 points your Sword is higher than the enemy's, inflict 1 point of Bleeding."
+KungfuDesc_天地无极,"Inflict the following effects on enemies within a radius of 5 squares of yourself;\nUnbroken Defense: Trigger Stagger, Disassemble, Slowed, Broken Bone on the enemy;\nBroken Defense: For every additional 100MP of your current MP, inflict an additional 1% damage on the enemy, up to 35%; and trigger Stagger, Disassemble, Slowed, Broken Bone on them, after triggering, your MP Cost is emptied, then recover 10% of your maximum MP value with each action (lasts for 3 actions)."
+KungfuDesc_剑意勃发,"Inflict damage on enemies within a 4-tile radius of yourself;\nWithout breaking defense: additionally inflict 10 points of Bleeding on the enemy, and reduce 100 points of their Qi;\n   With breaking defense: additionally inflict damage equal to 10% of the enemy's maximum HP, and inflict 20 points of Bleeding, reduce 175 points of their Qi."
+KungfuDesc_虫豸为伴,Summon 2 Scorpions to assist in battle within a 3x5 area in front of you.
+KungfuDesc_金刚撞钟,Inflict damage on enemies within a 4x1 range in front and knock them back 1 square;\nNo defense break: No additional effects;\n   Defense break: Inflict an additional 10% of the enemy's max HP as damage.
+KungfuDesc_奉旨讨逆,Summon 4 level 60 generals to assist in battle within a semicircular range of 4 squares in front.
+KungfuDesc_一剑破苍穹,"Inflict damage on enemies within a 6x3 range in front;\nNo defense break: 35% chance to trigger either Confuse, Cut tendon, or Vulnerable effect on the enemy;\n   Defense break: Inflict an additional 20% of the enemy's max HP as damage, and trigger Confuse, Cut tendon, Vulnerable effects on them; for every 3 points your Sword is higher than the enemy's, inflict 1 point of Bleeding."
+KungfuDesc_罢黜百家,"Knock back enemies within a 4-square radius of yourself by 3 squares, reduce their Qi by 1000 points, and inflict 25 points of Poisoned, 25 points of Bleeding, 25 points of Internal Injury, 25 points of Sealed, 25 points of Blinded; reduce your own Poisoned, Bleeding, Internal Injury, Sealed, Blinded by 50%, and increase Action Speed by 50% (lasts for 2 actions)."
+KungfuDesc_纸醉金迷,"Inflict damage on enemies within a 3-square radius of yourself;\nNo defense break: 35% chance to trigger Charm effect on the enemy (lasts for 1 action);\n   Defense break: Inflict an additional 15% of the enemy's max HP as damage, and 75% chance to trigger Charm effect on the enemy (lasts for 1 action)."
+KungfuDesc_伸腿瞪眼丸,"Inflict damage on enemies within a 5x5 range in front;\nNo defense break: Inflict an additional 15 points of Internal Injury, 15 points of Sealed, 15 points of Blinded on the enemy;\n   Defense break: Inflict an additional 15% of the enemy's max HP as damage, and inflict 30 points of Internal Injury, 30 points of Sealed, 30 points of Blinded on them."
+KungfuDesc_定鼎中原,"Inflict damage on enemies within a 5-square radius of yourself;\nNo defense break: 35% chance to trigger either Internal break, Broken bone, or Vulnerable effect on the enemy (lasts for 2 actions);\n   Defense break: Inflict an additional 20% of the enemy's max HP as damage, and trigger Internal break, Broken bone, Vulnerable effects on them (lasts for 2 actions)."
+KungfuDesc_叱咤一枪,"Inflict damage on enemies within a 7x3 range in front;\nNo defense break: 25% chance to trigger Vulnerable effect on the enemy (lasts for 1 action);\n   Defense break: Inflict an additional 10% of the enemy's max HP as damage, and 50% chance to trigger Vulnerable effect on the enemy (lasts for 1 action)."
+KungfuDesc_旋风斩,"Inflict damage on enemies within a 2-square radius of yourself;\nNo defense break: Inflict an additional 10 points of Bleeding on the enemy;\n   Defense break: Inflict an additional 10% of the enemy's max HP as damage, and inflict 20 points of Bleeding on them."
+KungfuDesc_烛龙一剑,"Charge and inflict damage on enemies within a 6x1 range in front;\nNo defense break: 25% chance to trigger Vulnerable effect on the enemy (lasts for 1 action);\n   Defense break: Inflict an additional 10% of the enemy's max HP as damage, and 50% chance to trigger Vulnerable effect on the enemy (lasts for 1 action)."
+KungfuDesc_雷劫万千,"Inflict damage on enemies within a semicircular range of 5 squares in front;\nNo defense break: Inflict an additional 20 points of Internal Injury on the enemy, and reduce their Qi by 100 points;\n   Defense break: Inflict an additional 15% of the enemy's max HP as damage, inflict 40 points of Internal Injury on them, and reduce their Qi by 175 points."
+KungfuDesc_追星赶月,"Inflict damage on enemies within a 5x1 range in front;\nWithout breaking defense: 25% chance to trigger Cut tendon effect on enemy (lasts 1 action);\n   Breaking defense: Inflict additional 10% of enemy's max HP as damage, 50% chance to trigger Cut tendon effect on enemy (lasts 1 action)."
+KungfuDesc_飞箸穿云,Inflict damage on enemies within a 5x1 range in front;\nWithout breaking defense: No additional effects;\n   Breaking defense: Inflict additional 10% of enemy's max HP as damage.
+KungfuDesc_断子绝孙腿,"Inflict damage on enemy within 1 square in front;\nWithout breaking defense: 25% chance to trigger Vulnerable effect on enemy (lasts 1 action);\n   Breaking defense: Inflict additional 15% of male enemy's max HP as damage, 50% chance to trigger Vulnerable effect on enemy (lasts 1 action)."
+KungfuDesc_推山填海,"Inflict damage on enemies within a 4-square radius fan-shaped range in front;\nWithout breaking defense: Inflict additional 10 points of Internal Injury on enemy;\n   Breaking defense: Inflict additional 10% of enemy's max HP as damage, and inflict 20 points of Internal Injury."
+KungfuDesc_山崩地裂,"Inflict damage on enemies within a 3-square radius around self;\nWithout breaking defense: 25% chance to trigger Broken bone effect on enemy (lasts 1 action);\n   Breaking defense: Inflict additional 10% of enemy's max HP as damage, 50% chance to trigger Broken bone effect on enemy (lasts 1 action)."
+KungfuDesc_生机回春,Recover 10% of lost HP and MP for allies within a 3-square radius around self.
+KungfuDesc_杨枝甘露,Recover 25% of max HP for self within a 3-square radius.
+KungfuDesc_飞蝶穿花,Inflict damage on enemies within a 5x1 range in front;\nWithout breaking defense: No additional effects;\n   Breaking defense: Inflict additional 10% of enemy's max HP as damage.
+KungfuDesc_剑影纷纷,Inflict damage on enemies within a 3-square radius cross-shaped range around self;\nWithout breaking defense: No additional effects;\n   Breaking defense: Inflict additional 10% of enemy's max HP as damage.
+KungfuDesc_劳燕分飞,Inflict damage on enemies within a 4-square radius fan-shaped range in front;\nWithout breaking defense: No additional effects;\n   Breaking defense: Inflict additional 10% of enemy's max HP as damage.
+KungfuDesc_杀生证道,"Inflict damage on enemies within a 5-square radius fan-shaped range in front, each enemy defeated in this combat increases damage by 10%, up to 100%.\nWithout breaking defense: No additional effects;\n   Breaking defense: Inflict additional 20% of enemy's max HP as damage."
+KungfuDesc_七佛灭罪真言,"Inflict damage on enemies within a 5-square radius around self;\nWithout breaking defense: 35% chance to trigger Slumber effect on enemy (lasts 2 actions);\n   Breaking defense: Inflict additional 20% of enemy's max HP as damage, 75% chance to trigger Slumber effect on enemy (lasts 2 actions)."
+KungfuDesc_搜山检海,"Pull a character within a 6-square radius diamond-shaped range around self to the front, if it's an enemy, inflict additional damage, if it's an ally, they get 15% final damage reduction until their next action.\nWithout breaking defense: No additional effects;\n   Breaking defense: Inflict additional 15% of enemy's max HP as damage."
+KungfuDesc_轰地雷,"Inflict damage on enemies within a 2-square radius around self and knock them back 1 square;\nWithout breaking defense: Reduce enemy's energy by 100 points;\n   Breaking defense: Inflict additional 15% of enemy's max HP as damage, and reduce enemy's energy by 175 points."
+KungfuDesc_倒转乾坤,"Pull enemies within a radius of 7 squares to yourself and inflict damage, converting 10% of the damage dealt into your own HP.\nUnbroken Defense: No additional effects;\n   Broken Defense: Inflict an additional 20% of the enemy's maximum HP as damage."
+KungfuDesc_天地不仁,"Inflict damage on enemies within a radius of 5 squares around yourself;\nUnbroken Defense: No additional effects;\n   Broken Defense: For non-boss enemies lower than your own Level, there is a chance to trigger Instant death, the higher the Level difference, the higher the probability."
+KungfuDesc_否极泰来,"Inflict damage on enemies within a 5-grid radius of yourself;\nIf the defense is not broken: no additional effects;\nIf the defense is broken: inflict an additional 20% of the enemy's maximum HP in damage, and the next attack will definitely be critical and combo."
+KungfuDesc_六字大明咒,"Inflict damage on enemies within a 5-grid radius of yourself;\nIf the defense is not broken: reduce the enemy's Defense by 8% (lasts for 2 actions).\nIf the defense is broken: inflict an additional 20% of the enemy's maximum HP in damage, and reduce the enemy's Defense by 15% (lasts for 3 actions)."
+KungfuDesc_天籁魔音,"Inflict damage on enemies within a 6-grid radius of yourself;\nIf the defense is not broken: reduce the enemy's Attack by 5% and Action Speed by 10% (lasts for 2 actions).\nIf the defense is broken: inflict an additional 15% of the enemy's maximum HP in damage (30% of the maximum HP for male enemies), and reduce the enemy's Attack by 8% and Action Speed by 15% (lasts for 2 actions)."
+KungfuDesc_千山鸟飞绝,"Inflict damage on enemies within a semi-circular range of 4 squares in front of you. If any enemy is defeated in this attack, the ultimate move will trigger again if there are still enemies in range."
+KungfuDesc_九流归一,"Inflict damage on enemies within a radius of 5 squares of yourself and pull them to your side;\nUnbroken Defense: No additional effects;\nBroken Defense: Inflict additional damage equal to 25% of the enemy's maximum HP, and 25% of this percentage damage will be converted into your own HP; the enemy's current MP decreases by 10%; recover 10% of your own MP."
+BondKungfuEffect_望穿秋水,"Inflict damage on enemies within your range, after release both sides gain the effect of ""<#29F161>Accuracy increased by 50%</color>, when triggering a critical hit, <#29F161>critical damage increased by 25%</color>, lasts for 2 actions""."
+BondKungfuEffect_比翼连枝,"Inflict damage on enemies within your range, after release both sides gain the effect of ""<#29F161>Action Speed increased by 15%, Evasion increased by 10%</color>, lasts for 2 actions""."
+BondKungfuEffect_珠联璧合,"Inflict damage on enemies within your range, after release both sides gain the effect of ""<#29F161>Critical increased by 10%</color>, when triggering a critical hit, <#29F161>critical damage increased by 15%</color>, lasts for 2 actions""."
+BondKungfuEffect_花开富贵,"Inflict damage on enemies within your range, after release both sides gain the effect of ""Spirit <#29F161>increased by an additional 50%</color>, lasts for 2 actions""."
+BondKungfuEffect_吟风弄月,"Inflict damage on enemies within your range, after release both sides gain the effect of ""after action, <#29F161>recover 10% of lost HP</color>, lasts for 2 actions""."
+BondKungfuEffect_相濡以沫,"Inflict damage on enemies within your range, after release both sides gain the effect of ""when using martial arts, only consume <#29F161>30% MP</color>, when attacking, <#29F161>final damage increased by 15%</color>, lasts for 2 actions""."
+BondKungfuEffect_海角天涯,"Inflict damage on enemies within your range, after release both sides gain the effect of ""<#29F161>Combo rate increased by 10%</color>, <#29F161>Critical increased by 10%</color>, lasts for 2 actions""."
+BondKungfuEffect_白首相随,"Inflict damage on enemies within self range, after release both parties gain effect【<#29F161>Parry increase by 10%</color>, <#29F161>When Parry is triggered, ParryDamage reduce effect increase by 15</color>, lasts for 2 actions】."
+BondKungfuEffect_龙凤呈祥,"Inflict damage on enemies within self range, after release both parties gain effect【<#29F161>Combo rate increase by 10%</color>, <#29F161>Action Speed increase by 25%</color>, lasts for 2 actions】."
+BondKungfuEffect_金风玉露,"Inflict damage on enemies within self range and knock back 2 squares, reduce 300 points of energy gathering."
+BondKungfuEffect_风花雪月,"Inflict damage on enemies within self range, and inflict Internal Injury effect on the enemy, the higher the Musical of both parties, the higher the enemy's Internal Injury effect."
+BondKungfuEffect_其利断金,"Inflict damage on enemies within self range, after release both parties' next Attack will definitely be Critical."
+BondKungfuEffect_佳偶天成,"Inflict damage on enemies within self range, the higher the Musical of both parties in this Attack, the higher the final Increases Damage obtained."
+BondKungfuEffect_百无禁忌,"Inflict damage on enemies within self range, and inflict Poisoned effect on the enemy, the higher the Toxicology of both parties, the higher the enemy's Poisoned effect."
+BondKungfuEffect_并蒂莲开,"Inflict damage on enemies within self range, and inflict Bleeding effect on the enemy, the higher the Short of both parties, the higher the enemy's Bleeding effect."
+BondKungfuEffect_海誓山盟,"Inflict damage on enemies within self range, the higher the Blade of both parties in this Attack, the higher the final Increases Damage obtained."
+BondKungfuEffect_暗香浮动,"Increase the Attack of friendly characters in range by 10%, Defense by 10%, and Action Speed by 25%, lasts for 1 action."
+BondKungfuEffect_凤舞九天,"Inflict damage on enemies within self range, after release both parties gain effect【<#29F161>Attack increase by 25%</color>, lasts for 1 action】."
+KunfuName_结缔,Assist
+KunfuName_蓄力,Charge
+KunfuName_防御,Defense
+KunfuName_调息,Regen
+KunfuName_施毒,Poison
+KunfuName_解毒,Detoxify
+KunfuName_治疗,Heal
+KunfuName_轻身,Speed Up
+KunfuName_暗器,Throwing
+KunfuName_铁砂掌,Iron Sand Palm
+KunfuName_金刚刀法,Vajra Blade Technique
+KunfuName_九阳大神功,Nine Yang Divine Skill
+KunfuName_吸星大法,Energy Taker Technique
+KunfuName_左右互搏,Ambidextrous Combat
+KunfuName_野狼普攻,Attack
+KunfuName_蛇普攻,Attack
+KunfuName_熊普攻,Attack
+KunfuName_野猪普攻,Attack
+KunfuName_猫普攻,Attack
+KunfuName_家禽普攻,Attack
+KunfuName_野狼王普攻,Attack
+KunfuName_野猪王普攻,Attack
+KunfuName_毒蝎普攻,Attack
+KunfuName_狗普攻,Attack
+KunfuName_牛普攻,Attack
+KunfuName_猴普攻,Attack
+KunfuName_马普攻,Attack
+KunfuName_老虎普攻,Attack
+KunfuName_白猿普攻,Attack
+KunfuName_熊猫普攻,Attack
+KunfuName_机关人普攻,Attack
+KunfuName_动物撕咬,Bite
+KunfuName_动物撕裂,Tear
+KunfuName_动物冲撞,Slam
+KunfuName_动物顶撞,Rush
+KunfuName_动物猛击,Strong Attack
+KunfuName_动物啮咬,Chew
+KunfuName_动物毒刺,Poisonous Vine
+KunfuName_动物吐息,Earth Breath
+KunfuName_动物喷火,Flame Breath
+KunfuName_动物狼捕食,Finishing Strike
+KunfuName_动物碎骨击,Finishing Strike
+KunfuName_动物千斤顶,Finishing Strike
+KunfuName_动物狂犬吠,Finishing Strike
+KunfuName_动物斗鸡啄,Finishing Strike
+KunfuName_动物蝎尾刺,Finishing Strike
+KunfuName_动物蛇牙毒,Finishing Strike
+KunfuName_动物百爪千挠,Finishing Strike
+KunfuName_动物致命一击,Finishing Strike
+KunfuName_撕咬,Bite
+KunfuName_撕裂,Tear
+KunfuName_冲撞,Slam
+KunfuName_顶撞,Rush
+KunfuName_猛击,Strong Attack
+KunfuName_啮咬,Chew
+KunfuName_毒刺,Poisonous Vine
+KunfuName_吐息,Earth Breath
+KunfuName_喷火,Flame Breath
+KunfuName_狼捕食,Finishing Strike
+KunfuName_碎骨击,Finishing Strike
+KunfuName_千斤顶,Finishing Strike
+KunfuName_狂犬吠,Finishing Strike
+KunfuName_斗鸡啄,Finishing Strike
+KunfuName_蝎尾刺,Finishing Strike
+KunfuName_蛇牙毒,Finishing Strike
+KunfuName_百爪千挠,Finishing Strike
+KunfuName_致命一击,Finishing Strike
+KunfuName_普通攻击：拳掌,Normal Attack
+KunfuName_普通攻击：剑,Normal Attack
+KunfuName_普通攻击：刀,Normal Attack
+KunfuName_普通攻击：棍,Normal Attack
+KunfuName_普通攻击：枪,Normal Attack
+KunfuName_普通攻击：扇,Normal Attack
+KunfuName_普通攻击：匕首,Normal Attack
+KunfuName_普通攻击：笔,Normal Attack
+KunfuName_普通攻击：琴,Normal Attack
+KunfuName_普通攻击：箫,Normal Attack
+KunfuName_普通攻击：琵琶,Normal Attack
+KunfuName_一刀绝尘,Marvelous Blade
+KunfuName_太极十三势,Taichi Thirteen Forms
+KunfuName_平地惊雷,Shattering Thunder
+KunfuName_石灰漫天,Quicklime Rain
+KunfuName_十字追魂,Soul Chaser Word
+KunfuName_天罗地网,No Escape
+KunfuName_人海战术,Human Wave Tactic
+KunfuName_直捣黄龙,Ferocious Dragon Charge
+KunfuName_前仆后继,New Future
+KunfuName_浊浪排空,Dust Clearing
+KunfuName_万剑归宗,Ten Thousand Swords
+KunfuName_枯木逢春,Revitalization
+KunfuName_儒门春秋,Confucius Era
+KunfuName_菩提金身,Buddha Golden Body
+KunfuName_退避三舍,Fall Back
+KunfuName_财迷心窍,Money Over Survival
+KunfuName_乾坤一掷,Decisive Throw
+KunfuName_暴雨梨花,Rainstorm Flower
+KunfuName_满天花雨,Scattered Petals
+KunfuName_撒石灰粉,Throw Quicklime
+KunfuName_红莲业火,Red Lotus Sinful Flame
+KunfuName_迷情熏香,Neutralizing Incense
+KunfuName_七息断魂雾,Soul Breaker Mist
+KunfuName_酥筋化骨香,Muscle Relaxant Incense
+KunfuName_飞腿扬沙,Flying Sand Kick
+KunfuName_投石问路,Throw Rock
+KunfuName_铜锤灌顶,Head Buster
+KunfuName_穿云一枪,Piercing Spear
+KunfuName_召唤猎犬,Summon Hound
+KunfuName_地动山摇,Earthquake
+KunfuName_石破天惊,Tremor
+KunfuName_梨花奥义,Pear Blossom Essence
+KunfuName_一剑破万法,One Sword Annihilation
+KunfuName_天地无极,Infinity World
+KunfuName_剑意勃发,Sword Qi Explosion
+KunfuName_虫豸为伴,Friend of Bugs
+KunfuName_金刚撞钟,Diamond Rush
+KunfuName_奉旨讨逆,Extermination Decree
+KunfuName_一剑破苍穹,Heaven Breaker
+KunfuName_罢黜百家,Only One School
+KunfuName_纸醉金迷,Drown In Riches
+KunfuName_伸腿瞪眼丸,Overbearing Stance
+KunfuName_定鼎中原,World Conqueror
+KunfuName_叱咤一枪,Devastating Spear
+KunfuName_旋风斩,Wind Cyclone
+KunfuName_烛龙一剑,Dragon Sword
+KunfuName_雷劫万千,Thunder Tribulation
+KunfuName_追星赶月,Star Chaser
+KunfuName_飞箸穿云,Cloud Piercing Chopstick
+KunfuName_断子绝孙腿,Cruel Crotch Kick
+KunfuName_推山填海,Mountain Mover
+KunfuName_山崩地裂,Mountain Breaker
+KunfuName_生机回春,Life Replenishment
+KunfuName_杨枝甘露,Water of Life
+KunfuName_飞蝶穿花,Fluttering Butterfly
+KunfuName_剑影纷纷,Sword Shadows
+KunfuName_劳燕分飞,Painful Separation
+KunfuName_杀生证道,Slaughtering Way
+KunfuName_七佛灭罪真言,Seven Buddha Punishment Word
+KunfuName_搜山检海,Leave No Stone Untouched
+KunfuName_轰地雷,Destruction Mines
+KunfuName_倒转乾坤,Full Reversal
+KunfuName_天地不仁,Cruel World
+KunfuName_否极泰来,Overcoming Hardship
+KunfuName_六字大明咒,Six Character Charm
+KunfuName_天籁魔音,Tianlai Magic Sound
+KunfuName_千山鸟飞绝,The Silent Mountains
+KunfuName_九流归一,Nine Flow Unification
+KunfuName_望穿秋水,Endearing Wait
+KunfuName_比翼连枝,Together As One
+KunfuName_珠联璧合,Happy Together
+KunfuName_花开富贵,Gorgeous Flower
+KunfuName_吟风弄月,Under The Moon
+KunfuName_相濡以沫,A Friend In Need
+KunfuName_海角天涯,Faraway Place
+KunfuName_白首相随,Accompanied by aging
+KunfuName_龙凤呈祥,Dragon and Phoenix
+KunfuName_金风玉露,Golden Season
+KunfuName_风花雪月,Fenghua Xueyue
+KunfuName_其利断金,Pull Together
+KunfuName_佳偶天成,A Happy Marriage
+KunfuName_百无禁忌,Nothing is a taboo
+KunfuName_并蒂莲开,Lotus Blossom
+KunfuName_海誓山盟,Oath of Love
+KunfuName_暗香浮动,Fragrant Assault
+KunfuName_凤舞九天,Phoenix Dance Heavens
+KunfuName_市井拳法,Scoundrel Fist
+KunfuName_罗汉拳法,Arhat Fist
+KunfuName_一指禅,Zen Finger
+KunfuName_逍遥拳法,Carefree Fist
+KunfuName_奔雷掌法,Quick Palm
+KunfuName_朱砂掌法,Cinnabar Palm
+KunfuName_连环掌,Continuous Palm
+KunfuName_黑虎拳,Black Tiger Fist
+KunfuName_雷云掌,Thundercloud Palm
+KunfuName_封穴手,Meridian Sealing Hand
+KunfuName_广袖流云,Drifting Cloud
+KunfuName_飞花指,Flying Flower Finger
+KunfuName_玲珑掌,Sparkling Palm
+KunfuName_菩提掌,Buddha Palm
+KunfuName_花拳绣腿,Amateurish Strike
+KunfuName_五行拳,Five Elements Fist
+KunfuName_七巧如意手,Dexterous Hand
+KunfuName_迷魂毒掌,Enchanted Poison Palm
+KunfuName_闪电五连击,Five Thunderbolts
+KunfuName_秋风掌法,Autumn Wind Palm Technique
+KunfuName_空空拳法,Empty Fist
+KunfuName_寒魄冰心掌,Frozen Heart Palm
+KunfuName_清心玉女掌,Mind Clearing Maiden Palm
+KunfuName_大力金刚掌,Powerful Diamond Palm
+KunfuName_凌空点穴手,Far Sealing Hand
+KunfuName_灵蛇缠丝掌,Snake Bound Palm
+KunfuName_伤情别离掌,Breakup Palm
+KunfuName_降龙伏虎拳,Dragon Slaying Fist
+KunfuName_玄阴化骨手,Bone Melting Nether Hand
+KunfuName_太极拳,Taichi Fist
+KunfuName_五毒掌,Five Poisons Palm
+KunfuName_破空拳,Breakthrough Fist
+KunfuName_醉仙拳,Wine God Fist
+KunfuName_断魂爪,Soul Destroyer Claw
+KunfuName_般若掌,Prajna Palm
+KunfuName_幻灭指,Disintegrating Finger
+KunfuName_碧落黄泉,Death Road
+KunfuName_破庙拳法,Abandoned Temple Fist
+KunfuName_断情掌,Cruel Palm
+KunfuName_通天手,Omnipotent Hand
+KunfuName_碎玉掌,Jewel Breaker Palm
+KunfuName_四相掌,Four Generals Palm
+KunfuName_野球拳,Rock Paper Scissor
+KunfuName_开山掌,Mountain Clear Palm
+KunfuName_玄天指,Ether Finger
+KunfuName_降霜拳法,Frostfall Fist Technique
+KunfuName_悲欢指法,Bitter Joy Finger Technique
+KunfuName_撼天指法,Heaven Shaking Finger
+KunfuName_如来大悲掌,Vairocana Kindness Palm
+KunfuName_如来神掌,Vairocana Godly Palm
+KunfuName_八极奔雷掌,Baji Quick Palm
+KunfuName_灭天掌,Sky Destroyer Palm
+KunfuName_紫薇惊龙掌,Dragon King Palm
+KunfuName_烈阳拳,Solar Fist
+KunfuName_翻云遮天手,Heaven Engulfed Hand
+KunfuName_贯云指,Cloud Piercing Finger
+KunfuName_万民掌,People's Palm
+KunfuName_地趟刀法,Earth Blade
+KunfuName_伏虎刀法,Tiger Taming Blade
+KunfuName_三才刀法,Trinity Blade
+KunfuName_疾风斩,Wind Blade
+KunfuName_开山刀法,Mountain Clear Blade
+KunfuName_荡寇刀法,Bandit Killer Blade
+KunfuName_疾风八斩法,Octagonal Wind Blade
+KunfuName_火云刀法,Flaming Cloud Blade
+KunfuName_九苗刀法,Nine Cats Blade
+KunfuName_九江刀法,Nine Rivers Blade
+KunfuName_柳生刀法,Willow Blade
+KunfuName_西域刀法,Xiyu Blade
+KunfuName_风沙刀法,Sandstorm Blade
+KunfuName_大蛮刀法,Brutal Blade
+KunfuName_合月镰三式,Moon Phase Three Forms
+KunfuName_修罗刀法,Shura Blade
+KunfuName_破甲刀法,Armor Breaker Blade
+KunfuName_剔骨刀法,Bone Cleaver Blade
+KunfuName_柴刀刀法,Lumbering Blade
+KunfuName_雁行刀法,Wild Goose Blade
+KunfuName_霹雳刀法,Thunder Blade
+KunfuName_破军刀法,Ruinous Star Blade
+KunfuName_独狼刀法,Cruel Wolf Blade
+KunfuName_碧磷刀法,Jade Blade
+KunfuName_怒流刀法,Furious Blade
+KunfuName_七旋斩,Seven Spins Blade
+KunfuName_纵横刀诀,Roaming Blade
+KunfuName_烈火刀法,Flaming Blade
+KunfuName_盘空刀法,Empty Blade
+KunfuName_庖丁解牛法,Ox Killer Blade
+KunfuName_叱咤刀法,Wind Cloud Blade
+KunfuName_无双刀法,Peerless Blade
+KunfuName_九幽玄刹刀,Nether Killing Blade
+KunfuName_蛮荒霸道斩,Savage Primal Blade
+KunfuName_一刀斩,One Blade
+KunfuName_天魔刀法,Archdemon Blade
+KunfuName_吞鲸刀法,Devouring Blade
+KunfuName_鬼轮斩,Demonic Circle Blade
+KunfuName_回风剑法,Wind Reversal Sword
+KunfuName_九宫剑法,Nine Diagrams Sword
+KunfuName_七星剑法,Seven Stars Sword
+KunfuName_浣纱剑法,Huansha Sword
+KunfuName_莲花妙剑,Lotus Flower Sword
+KunfuName_倾城剑法,Alluring Sword
+KunfuName_太乙剑法,Taiyi Sword
+KunfuName_须弥剑法,Sumeru Sword
+KunfuName_游龙剑法,Dragon Roaming Sword
+KunfuName_青萍剑法,Blue Weed Sword
+KunfuName_柔云剑法,Gentle Cloud Sword
+KunfuName_玉女剑法,Maiden Sword
+KunfuName_贪狼剑法,Flirting Star Sword
+KunfuName_苍穹剑法,Heaven Sword
+KunfuName_广寒剑法,Moon Palace Sword
+KunfuName_太虚十八剑,Taixu Eighteen Swords
+KunfuName_赤焰剑法,Burning Flame Sword
+KunfuName_太极剑法,Taichi Sword
+KunfuName_无情剑法,Emotionless Sword
+KunfuName_落霞剑法,Sunset Sword
+KunfuName_凌尘剑法,Mortal Sword
+KunfuName_岁寒三友,Three Friends of Winter
+KunfuName_炎霜剑法,Burning Mist Sword
+KunfuName_忘忧剑法,Forgotten Sword
+KunfuName_星月剑法,Moon Star Sword
+KunfuName_素女剑法,Pure Maiden Sword
+KunfuName_贪生剑法,Survival Sword
+KunfuName_无锋剑法,Windless Sword
+KunfuName_求败九式,Dugu Nine Swords
+KunfuName_破天剑法,Sky Breaker Sword
+KunfuName_磐龙剑法,Dragon Sword
+KunfuName_无极剑法,Infinity Sword
+KunfuName_无名剑法,Nameless Sword
+KunfuName_浮华掠影剑,Illusion Sword
+KunfuName_恶煞枪法,Evil Spear
+KunfuName_腐尸枪法,Rotting Spear
+KunfuName_雷霆枪法,Thunder Spear
+KunfuName_捕兽叉法,Beast Taming Trident
+KunfuName_破阵大枪,Formation Breaker Spear
+KunfuName_六合枪法,Six Forms Spear
+KunfuName_梅花枪法,Flower Spear
+KunfuName_中平枪法,Middle Stance Spear
+KunfuName_霸王枪法,Emperor Spear
+KunfuName_黄泉引路枪,Death Bringer Spear
+KunfuName_七杀枪法,Power Star Spear
+KunfuName_叶家枪法,Ye Family Spear
+KunfuName_飞龙枪法,Wyvern Spear
+KunfuName_虎啸穿云枪,Tiger Howl Spear
+KunfuName_梨花枪法,Pear Blossom Spear
+KunfuName_百鸟朝凰枪,Phoenix Ascension Spear
+KunfuName_七探蛇盘枪,Scouting Snake Spear
+KunfuName_沥泉枪法,Slipstream Spear
+KunfuName_九黎巫叉,Jiuli Trident
+KunfuName_叫花棒法,Beggar Staff
+KunfuName_六合棍法,Six Forms Staff
+KunfuName_韦陀杖法,Veda Staff
+KunfuName_蟠龙棍法,Dragon Staff
+KunfuName_大力棍法,Brutal Staff
+KunfuName_普渡杖法,Enlighten Staff
+KunfuName_狼牙棒,Battle Mace
+KunfuName_杀威棒法,Prestige Destroyer Staff
+KunfuName_扫地棍法,Trash Sweeping Staff
+KunfuName_翻江浆法,River Whirling
+KunfuName_混元棍法,Origin Staff
+KunfuName_金刚降魔杵,Evil Destroyer Diamond Staff
+KunfuName_游龙锏法,Roaming Dragon Staff
+KunfuName_云林棍法,Cloud Forest Staff
+KunfuName_玄煞棍法,Nether Killing Staff
+KunfuName_鸿蒙锏法,Nothingness Staff
+KunfuName_疯魔棍法,Insanity Staff
+KunfuName_紧那罗王棍,Kinnara Staff
+KunfuName_风云天龙棍,Sky Dragon Wind Staff
+KunfuName_天罡棍法,Polaris Staff
+KunfuName_天罡飞龙杖,Polaris Wyvern Staff
+KunfuName_达摩杖法,Dharma Staff
+KunfuName_撼地锤,Tremor Hammer
+KunfuName_弓箭散射,Area Shot
+KunfuName_精准射击,Precision Shot
+KunfuName_擂山锤法,Thunder Mountain Hammer
+KunfuName_金刚锤法,Diamond Hammer
+KunfuName_流云飞扇,Drifting Cloud Fan
+KunfuName_袖里回风,Returning Wind
+KunfuName_飞燕回翔,Swallow Reversal
+KunfuName_大鹏展翅,Wing Spreading
+KunfuName_逍遥扇舞,Carefree Rain
+KunfuName_狂风扇诀,Tornado Fan
+KunfuName_游龙戏凤,Dragon Phoenix Fan
+KunfuName_风卷残云式,Storming Cloud Fan
+KunfuName_逍遥游,Carefree Life
+KunfuName_君子好逑,Gentleman's Courtship
+KunfuName_如意扇法,Wish Granted Fan
+KunfuName_扇舞春秋,Spring and Autumn Fan
+KunfuName_蝶恋花,Flirting Butterfly
+KunfuName_锥心刺,Heart Piercer
+KunfuName_灵蛇刺,Spirit Snake
+KunfuName_追风短打,Wind Chaser
+KunfuName_破空梭,Wind Breaker
+KunfuName_疾风刺,Wind Stab
+KunfuName_云龙三现,Cloud Dragon Three Strikes
+KunfuName_银蛇流光,Silver Snake Mirage
+KunfuName_风雷刺法,Thunderstorm Strike
+KunfuName_海蛟夺命刺,Sea Serpent Head Hunter Stab
+KunfuName_刺秦要诀,Killer's Secret
+KunfuName_泼墨笔法,Octagonal Inking Pen
+KunfuName_画里乾坤,World Inside Painting
+KunfuName_龙蛇笔法,Dragon Snake Pen
+KunfuName_春秋笔谱,Spring and Autumn Pen
+KunfuName_阎王贴,Death Invitation
+KunfuName_挥翰成风,Frozen Storm
+KunfuName_寒食帖,Cold Food Observance
+KunfuName_寒江独钓,Fishing Alone in Cold River
+KunfuName_曹全碑,Cao Quan Steele
+KunfuName_幽谷图,Quiet Valley Drawing
+KunfuName_丧乱贴,Funeral Post
+KunfuName_兰亭序,Orchid Pavillion Preface
+KunfuName_江山多娇,Country Full of Beauties
+KunfuName_阳关三叠,Triassis Yangguan
+KunfuName_泛沧浪,Floating Blue
+KunfuName_出水芙蓉,Out of Water Hibiscus
+KunfuName_西江月,Moon over West River
+KunfuName_惊鸿一梦,A Dream of Graceful Beauty
+KunfuName_高山流水,Mountain and River
+KunfuName_蝶舞天涯,Dancing Butterfly Over Skyline
+KunfuName_潇湘水云,River Water and Cloud
+KunfuName_广陵散,Guangling Melody
+KunfuName_傲江湖,Proud Wanderer
+KunfuName_碧涧流泉,Flowing Mountain Stream
+KunfuName_音波功,Soundwave Attack
+KunfuName_暗香凌波,Hidden Fragrance Wave
+KunfuName_催心五调,Heart Stimulation Five Tunes
+KunfuName_鹧鸪天,Partridge Day
+KunfuName_梅花三弄,Plum Flower Three Lanes
+KunfuName_万蛊谣,Ancient Song
+KunfuName_阳春白雪,Spring White Snow
+KunfuName_塞外秋风,Wind Outside Great Wall
+KunfuName_霸王卸甲,Armor Breaker Emperor
+KunfuName_汉宫秋月,Autumn Palace Moon
+KunfuName_渡红尘,Mortal Life
+KunfuName_笑红尘,Laughing at the World
+KunfuName_十面埋伏,Full Directional Ambush
+KunfuName_玄煞劲,Nether Killing Force
+KunfuName_乱环诀,Mystic Circle Manual
+KunfuName_金钟罩,Golden Bell Technique
+KunfuName_摄心术,Mind Taker Skill
+KunfuName_龙虎功,Dragon Tiger Manual
+KunfuName_莽牛劲,Ox Power
+KunfuName_飞刀术,Flying Blade Skill
+KunfuName_腐毒功,Poison Technique
+KunfuName_汗青集,Historical Record
+KunfuName_御兽术,Beast Taming Skill
+KunfuName_金匮要略,Golden Manual
+KunfuName_调息法,Breathing Technique
+KunfuName_冰魄功,Ice Spirit Move
+KunfuName_拳掌要诀,Fist Mastery
+KunfuName_剑法典籍,Sword Mastery
+KunfuName_刀术秘卷,Blade Mastery
+KunfuName_长兵纪要,Long Weapon Mastery
+KunfuName_短兵汇编,Short Weapon Mastery
+KunfuName_乐谱精粹,Musical Mastery
+KunfuName_儒雅风流,Elegant Romanticist
+KunfuName_吐故纳新术,Embrace The Future
+KunfuName_混元劲,Origin Technique
+KunfuName_胎息功,Fetal Breathing Guide
+KunfuName_五禽戏,Five Animal Forms
+KunfuName_破甲劲,Armor Breaker Move
+KunfuName_凌波诀,Wave Rider Technique
+KunfuName_回春术,Revitalization Technique
+KunfuName_捕风诀,Wind Walker Manual
+KunfuName_叶家心法,Ye Family Technique
+KunfuName_雾隐术,Hidden Mist Skill
+KunfuName_多情诀,Passionate Manual
+KunfuName_铁浮屠,Levitational Steel
+KunfuName_淬毒术,Toxication Skill
+KunfuName_永字八法,Calligraphy Eight Techniques
+KunfuName_叹息法,Sigh Method
+KunfuName_逆经转脉,Meridian Reversal
+KunfuName_太极玄,Nether Taichi
+KunfuName_横练金身,Forging Golden Body
+KunfuName_飞刀秘传,Flying Blade Secret Manual
+KunfuName_五毒秘法,Five Poisons Secret Move
+KunfuName_散功大法,Resetting Technique
+KunfuName_洛神步,God Step
+KunfuName_云隐术,Hidden Cloud Skill
+KunfuName_无心流,Heartless Style
+KunfuName_藏剑秘卷,Hidden Sword Secret Manual
+KunfuName_武穆秘典,Yue Fei Secret Manual
+KunfuName_兽王诀,Beast King Technique
+KunfuName_四圣心源,Four Saints Origin
+KunfuName_海纳百川,Great Ocean Manual
+KunfuName_盛世春秋,Glorious Era
+KunfuName_寒阴真气,Cold Yin Energy
+KunfuName_纯阳功,Pure Yang Skill
+KunfuName_玄阴诀,Nether Yin Manual
+KunfuName_凌云步,Cloud Walker Step
+KunfuName_睡梦心经,Dreaming Sutra
+KunfuName_兽吼功,Beast Howling Move
+KunfuName_天星诀,Celestial Star Manual
+KunfuName_玄元心经,Nether Origin Sutra
+KunfuName_罗刹毒经,Raksha Poison Sutra
+KunfuName_益寿延年功,Longevity Technique
+KunfuName_圣火燎原,Holy Flame Spreading
+KunfuName_梦蝶心经,Dream Butterfly Sutra
+KunfuName_莽苍诀,Reckless Sky Technique
+KunfuName_无心无为功,Serene Move
+KunfuName_寻龙术,Dragon Seeker Manual
+KunfuName_九流心源,Nine Origins
+KunfuName_剑心通明诀,Omniscient Sword Manual
+KunfuName_妙音诀,Wonderful Sound Formula
+KunfuName_九州诀,Nine Provinces Manual
+KunfuName_紫薇龙气,Dragon King Aura
+KunfuName_轩辕宝鉴,Xuan Yuan Records
+KunfuName_天魔噬魂术,Archdemon's Soul Eating Skill
+KunfuName_阴阳挪移功,Yin Yang Reversal Move
+KunfuName_无极混元功,Infinity Origin Move
+KunfuName_摩诃无量,Endless Maha
+KunfuName_梵天圣功,Holy Brahma Technique
+KunfuName_天女散花,Celestial Lady Scattering Flowers
+KunfuName_巫蛊毒功,Ancient Sage Poison Technique
+KunfuName_霓裳羽衣经,Dancing Garment Sutra
+KunfuName_一刀流,One Blade Style
+KunfuName_无锋剑意,Windless Sword Qi
+KunfuName_通天伏魔功,Omnipotent Demon Sealing Move
+KunfuName_兽血祭,Beast Blood Ritual
+KunfuName_祈禳大法,Prayer Manual
+KunfuName_儒十三经,Confucius Thirteen Sutras
+KunfuName_九霄真经,Heaven Sutra
+KunfuName_惊涛骇浪诀,Tsunami Manual
+KunfuName_大日如来经,Vairocana Solar Sutra
+KunfuName_满江红,Prismatic River
+KunfuName_烈阳心法,Solar Manual
+KunfuName_无极洞心法,Infinity Manual
+KunfuName_黄帝阴符经,Emperor Yin Yang Sutra
+先天属性_市井拳法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_罗汉拳法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_一指禅,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_逍遥拳法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_奔雷掌法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_朱砂掌法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_连环掌,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_黑虎拳,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_雷云掌,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_封穴手,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_广袖流云,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_飞花指,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_玲珑掌,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_菩提掌,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_花拳绣腿,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_五行拳,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_七巧如意手,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_迷魂毒掌,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_秋风掌法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_空空拳法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_寒魄冰心掌,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_清心玉女掌,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_大力金刚掌,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_凌空点穴手,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_灵蛇缠丝掌,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_伤情别离掌,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_降龙伏虎拳,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_玄阴化骨手,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_太极拳,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_五毒掌,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_破空拳,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_醉仙拳,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_断魂爪,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_般若掌,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_幻灭指,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_碧落黄泉,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_破庙拳法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_断情掌,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_通天手,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_碎玉掌,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_四相掌,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_野球拳,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_开山掌,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_玄天指,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_降霜拳法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_悲欢指法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_撼天指法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_如来神掌,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_八极奔雷掌,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_灭天掌,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_紫薇惊龙掌,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_烈阳拳,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_翻云遮天手,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_贯云指,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_万民掌,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_回风剑法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_九宫剑法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_七星剑法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_浣纱剑法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_莲花妙剑,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_倾城剑法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_太乙剑法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_须弥剑法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_游龙剑法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_青萍剑法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_柔云剑法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_玉女剑法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_贪狼剑法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_苍穹剑法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_广寒剑法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_太虚十八剑,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_赤焰剑法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_太极剑法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_无情剑法,"When <#29F161>Benevolence</color> is negative, the lower the <#29F161>Benevolence</color>, the higher the additional damage."
+先天属性_落霞剑法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_凌尘剑法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_岁寒三友,"When <#29F161>Righteous</color> is positive, the higher the <#29F161>Righteous</color>, the higher the additional damage."
+先天属性_炎霜剑法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_忘忧剑法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_星月剑法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_素女剑法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_贪生剑法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_无锋剑法,"When <#29F161>Courage</color> is positive, the higher the <#29F161>Courage</color>, the higher the additional damage."
+先天属性_求败九式,"When <#29F161>Wisdom</color> is positive, the higher the <#29F161>Wisdom</color>, the higher the additional damage."
+先天属性_破天剑法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_磐龙剑法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_无极剑法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_无名剑法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_浮华掠影剑,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_地趟刀法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_伏虎刀法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_三才刀法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_疾风斩,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_开山刀法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_荡寇刀法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_疾风八斩法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_火云刀法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_九苗刀法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_九江刀法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_柳生刀法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_西域刀法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_风沙刀法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_大蛮刀法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_合月镰三式,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_修罗刀法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_破甲刀法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_剔骨刀法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_柴刀刀法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_雁行刀法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_霹雳刀法,"When <#29F161>Courage</color> is positive, the higher the <#29F161>Courage</color>, the higher the additional damage."
+先天属性_破军刀法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_独狼刀法,"When <#29F161>Righteous</color> is negative, the lower the <#29F161>Righteous</color>, the higher the additional damage."
+先天属性_碧磷刀法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_怒流刀法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_七旋斩,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_纵横刀诀,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_烈火刀法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_盘空刀法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_庖丁解牛法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_叱咤刀法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_无双刀法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_九幽玄刹刀,"The higher the enemy's <#29F161>Sealed</color>, the higher your own damage."
+先天属性_蛮荒霸道斩,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_一刀斩,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_天魔刀法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_吞鲸刀法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_鬼轮斩,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_恶煞枪法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_腐尸枪法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_雷霆枪法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_捕兽叉法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_破阵大枪,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_六合枪法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_梅花枪法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_中平枪法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_霸王枪法,"When <#29F161>Courage</color> is positive, the higher the <#29F161>Courage</color>, the higher the additional damage."
+先天属性_黄泉引路枪,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_七杀枪法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_叶家枪法,"When <#29F161>Courage</color> is positive, the higher the <#29F161>Courage</color>, the higher the additional damage."
+先天属性_飞龙枪法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_虎啸穿云枪,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_梨花枪法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_百鸟朝凰枪,"The higher the enemy's <#29F161>Blinded</color>, the higher your own damage."
+先天属性_七探蛇盘枪,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_沥泉枪法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_九黎巫叉,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_叫花棒法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_六合棍法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_韦陀杖法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_蟠龙棍法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_大力棍法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_普渡杖法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_狼牙棒,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_杀威棒法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_扫地棍法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_翻江浆法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_混元棍法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_金刚降魔杵,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_游龙锏法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_云林棍法,Increase or decrease damage based on the difference in <#29F161>Luck</color>.
+先天属性_玄煞棍法,"When <#29F161>Courage</color> is positive, the higher the <#29F161>Courage</color>, the higher the additional damage."
+先天属性_鸿蒙锏法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_疯魔棍法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_紧那罗王棍,"When <#29F161>Benevolence</color> is positive, the higher the <#29F161>Benevolence</color>, the higher the additional damage."
+先天属性_风云天龙棍,"The higher the enemy's <#29F161>Sealed</color>, the higher your own damage."
+先天属性_天罡棍法,"The higher the enemy's <#29F161>Internal Injury</color>, the higher your own damage."
+先天属性_天罡飞龙杖,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
+先天属性_达摩杖法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_撼地锤,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_擂山锤法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_金刚锤法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
+先天属性_流云飞扇,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_袖里回风,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_飞燕回翔,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_大鹏展翅,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_逍遥扇舞,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_狂风扇诀,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_游龙戏凤,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_风卷残云式,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_逍遥游,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_君子好逑,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_如意扇法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_扇舞春秋,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_蝶恋花,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_锥心刺,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_灵蛇刺,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_追风短打,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_破空梭,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_疾风刺,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_云龙三现,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_银蛇流光,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_风雷刺法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_海蛟夺命刺,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_刺秦要诀,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_泼墨笔法,Increase or decrease damage based on the difference in <#29F161>Intelligence</color>.
+先天属性_画里乾坤,Increase or decrease damage based on the difference in <#29F161>Intelligence</color>.
+先天属性_龙蛇笔法,Increase or decrease damage based on the difference in <#29F161>Intelligence</color>.
+先天属性_春秋笔谱,Increase or decrease damage based on the difference in <#29F161>Intelligence</color>.
+先天属性_阎王贴,Increase or decrease damage based on the difference in <#29F161>Intelligence</color>.
+先天属性_挥翰成风,Increase or decrease damage based on the difference in <#29F161>Intelligence</color>.
+先天属性_寒食帖,Increase or decrease damage based on the difference in <#29F161>Intelligence</color>.
+先天属性_寒江独钓,Increase or decrease damage based on the difference in <#29F161>Intelligence</color>.
+先天属性_曹全碑,Increase or decrease damage based on the difference in <#29F161>Intelligence</color>.
+先天属性_幽谷图,Increase or decrease damage based on the difference in <#29F161>Intelligence</color>.
+先天属性_丧乱贴,Increase or decrease damage based on the difference in <#29F161>Intelligence</color>.
+先天属性_兰亭序,Increase or decrease damage based on the difference in <#29F161>Intelligence</color>.
+先天属性_江山多娇,Increase or decrease damage based on the difference in <#29F161>Intelligence</color>.
+先天属性_阳关三叠,Increase or decrease damage based on the difference in <#29F161>current MP</color>.
+先天属性_泛沧浪,Increase or decrease damage based on the difference in <#29F161>current MP</color>.
+先天属性_出水芙蓉,Increase or decrease damage based on the difference in <#29F161>current MP</color>.
+先天属性_西江月,Increase or decrease damage based on the difference in <#29F161>current MP</color>.
+先天属性_惊鸿一梦,Increase or decrease damage based on the difference in <#29F161>current MP</color>.
+先天属性_高山流水,Increase or decrease damage based on the difference in <#29F161>current MP</color>.
+先天属性_蝶舞天涯,Increase or decrease damage based on the difference in <#29F161>current MP</color>.
+先天属性_潇湘水云,Increase or decrease damage based on the difference in <#29F161>current MP</color>.
+先天属性_广陵散,Increase or decrease damage based on the difference in <#29F161>current MP</color>.
+先天属性_傲江湖,Increase or decrease damage based on the difference in <#29F161>current MP</color>.
+先天属性_碧涧流泉,Increase or decrease damage based on the difference in <#29F161>current MP</color>.
+先天属性_音波功,Increase or decrease damage based on the difference in <#29F161>current MP</color>.
+先天属性_暗香凌波,Increase or decrease damage based on the difference in <#29F161>current MP</color>.
+先天属性_催心五调,Increase or decrease damage based on the difference in <#29F161>current MP</color>.
+先天属性_鹧鸪天,Increase or decrease damage based on the difference in <#29F161>current MP</color>.
+先天属性_梅花三弄,Increase or decrease damage based on the difference in <#29F161>current MP</color>.
+先天属性_万蛊谣,Increase or decrease damage based on the difference in <#29F161>current MP</color>.
+先天属性_阳春白雪,Increase or decrease damage based on the difference in <#29F161>current MP</color>.
+先天属性_塞外秋风,Increase or decrease damage based on the difference in <#29F161>current MP</color>.
+先天属性_霸王卸甲,Increase or decrease damage based on the difference in <#29F161>current MP</color>.
+先天属性_汉宫秋月,Increase or decrease damage based on the difference in <#29F161>current MP</color>.
+先天属性_渡红尘,Increase or decrease damage based on the difference in <#29F161>current MP</color>.
+先天属性_笑红尘,Increase or decrease damage based on the difference in <#29F161>current MP</color>.
+先天属性_十面埋伏,Increase or decrease damage based on the difference in <#29F161>current MP</color>.
+KungfuCastBuff_弓箭散射附带buff1,Effect One
+KungfuCastBuff_破军刀法buff1,Effect One
+KungfuCastBuff_破军刀法buff2,Effect Two
+KungfuCastBuff_独狼刀法buff1,Effect One
+KungfuCastBuff_独狼刀法buff2,Effect Two
+KungfuCastBuff_怒流刀法buff1,Effect One
+KungfuCastBuff_怒流刀法buff2,Effect Two
+KungfuCastBuff_七旋斩buff1,Effect One
+KungfuCastBuff_七旋斩buff2,Effect Two
+KungfuCastBuff_盘空刀法buff1,Effect One
+KungfuCastBuff_盘空刀法buff2,Effect Two
+KungfuCastBuff_庖丁解牛法buff1,Effect One
+KungfuCastBuff_庖丁解牛法buff2,Effect Two
+KungfuCastBuff_叱咤刀法buff1,Effect One
+KungfuCastBuff_叱咤刀法buff2,Effect Two
+KungfuCastBuff_蛮荒霸道斩buff1,Effect One
+KungfuCastBuff_蛮荒霸道斩buff2,Effect Two
+KungfuCastBuff_蛮荒霸道斩buff3,Effect Three
+KungfuCastBuff_天魔刀法buff1,Effect One
+KungfuCastBuff_天魔刀法buff2,Effect Two
+KungfuCastBuff_天魔刀法buff3,Effect Three
+KungfuCastBuff_鬼轮斩buff1,Effect One
+KungfuCastBuff_鬼轮斩buff2,Effect Two
+KungfuCastBuff_鬼轮斩buff3,Effect Three
+KungfuCastBuff_纵横刀诀buff1,Effect One
+KungfuCastBuff_纵横刀诀buff2,Effect Two
+KungfuCastBuff_吞鲸刀法buff1,Effect One
+KungfuCastBuff_吞鲸刀法buff2,Effect Two
+KungfuCastBuff_吞鲸刀法buff3,Effect Three
+KungfuCastBuff_贪狼剑法buff1,Effect One
+KungfuCastBuff_贪狼剑法buff2,Effect Two
+KungfuCastBuff_苍穹剑法buff1,Effect One
+KungfuCastBuff_苍穹剑法buff2,Effect Two
+KungfuCastBuff_太极剑法buff1,Effect One
+KungfuCastBuff_太极剑法buff2,Effect Two
+KungfuCastBuff_无情剑法buff1,Effect One
+KungfuCastBuff_无情剑法buff2,Effect Two
+KungfuCastBuff_岁寒三友buff1,Effect One
+KungfuCastBuff_岁寒三友buff2,Effect Two
+KungfuCastBuff_忘忧剑法buff1,Effect One
+KungfuCastBuff_忘忧剑法buff2,Effect Two
+KungfuCastBuff_素女剑法buff1,Effect One
+KungfuCastBuff_素女剑法buff2,Effect Two
+KungfuCastBuff_贪生剑法buff1,Effect One
+KungfuCastBuff_贪生剑法buff2,Effect Two
+KungfuCastBuff_无锋剑法buff1,Effect One
+KungfuCastBuff_无锋剑法buff2,Effect Two
+KungfuCastBuff_求败九式buff1,Effect One
+KungfuCastBuff_求败九式buff2,Effect Two
+KungfuCastBuff_无极剑法buff1,Effect One
+KungfuCastBuff_无极剑法buff2,Effect Two
+KungfuCastBuff_无极剑法buff3,Effect Three
+KungfuCastBuff_无名剑法buff1,Effect One
+KungfuCastBuff_无名剑法buff2,Effect Two
+KungfuCastBuff_无名剑法buff3,Effect Three
+KungfuCastBuff_浮华掠影剑buff1,Effect One
+KungfuCastBuff_浮华掠影剑buff2,Effect Two
+KungfuCastBuff_浮华掠影剑buff3,Effect Three
+KungfuCastBuff_破天剑法buff1,Effect One
+KungfuCastBuff_破天剑法buff2,Effect Two
+KungfuCastBuff_破天剑法buff3,Effect Three
+KungfuCastBuff_秋风掌法buff1,Effect One
+KungfuCastBuff_空空拳法buff1,Effect One
+KungfuCastBuff_空空拳法buff2,Effect Two
+KungfuCastBuff_大力金刚掌buff1,Effect One
+KungfuCastBuff_大力金刚掌buff2,Effect Two
+KungfuCastBuff_凌空点穴手buff1,Effect One
+KungfuCastBuff_凌空点穴手buff2,Effect Two
+KungfuCastBuff_灵蛇缠丝掌buff1,Effect One
+KungfuCastBuff_灵蛇缠丝掌buff2,Effect Two
+KungfuCastBuff_伤情别离掌buff1,Effect One
+KungfuCastBuff_伤情别离掌buff2,Effect Two
+KungfuCastBuff_降龙伏虎拳buff1,Effect One
+KungfuCastBuff_降龙伏虎拳buff2,Effect Two
+KungfuCastBuff_玄阴化骨手buff1,Effect One
+KungfuCastBuff_玄阴化骨手buff2,Effect Two
+KungfuCastBuff_太极拳buff1,Effect One
+KungfuCastBuff_太极拳buff2,Effect Two
+KungfuCastBuff_醉仙拳buff1,Effect One
+KungfuCastBuff_醉仙拳buff2,Effect Two
+KungfuCastBuff_般若掌buff1,Effect One
+KungfuCastBuff_般若掌buff2,Effect Two
+KungfuCastBuff_破庙拳法buff1,Effect One
+KungfuCastBuff_破庙拳法buff2,Effect Two
+KungfuCastBuff_断情掌buff1,Effect One
+KungfuCastBuff_断情掌buff2,Effect Two
+KungfuCastBuff_通天手buff1,Effect One
+KungfuCastBuff_通天手buff2,Effect Two
+KungfuCastBuff_野球拳buff1,Effect One
+KungfuCastBuff_野球拳buff2,Effect Two
+KungfuCastBuff_开山掌buff1,Effect One
+KungfuCastBuff_开山掌buff2,Effect Two
+KungfuCastBuff_玄天指buff1,Effect One
+KungfuCastBuff_玄天指buff2,Effect Two
+KungfuCastBuff_降霜拳法buff1,Effect One
+KungfuCastBuff_降霜拳法buff2,Effect Two
+KungfuCastBuff_降霜拳法buff3,Effect Three
+KungfuCastBuff_悲欢指法buff1,Effect One
+KungfuCastBuff_悲欢指法buff2,Effect Two
+KungfuCastBuff_悲欢指法buff3,Effect Three
+KungfuCastBuff_撼天指法buff1,Effect One
+KungfuCastBuff_撼天指法buff2,Effect Two
+KungfuCastBuff_撼天指法buff3,Effect Three
+KungfuCastBuff_如来神掌buff1,Effect One
+KungfuCastBuff_如来神掌buff2,Effect Two
+KungfuCastBuff_如来神掌buff3,Effect Three
+KungfuCastBuff_八极奔雷掌buff1,Effect One
+KungfuCastBuff_八极奔雷掌buff2,Effect Two
+KungfuCastBuff_八极奔雷掌buff3,Effect Three
+KungfuCastBuff_破空拳buff1,Effect One
+KungfuCastBuff_破空拳buff2,Effect Two
+KungfuCastBuff_断魂爪buff1,Effect One
+KungfuCastBuff_断魂爪buff2,Effect Two
+KungfuCastBuff_幻灭指buff1,Effect One
+KungfuCastBuff_幻灭指buff2,Effect Two
+KungfuCastBuff_碧落黄泉buff1,Effect One
+KungfuCastBuff_碧落黄泉buff2,Effect Two
+KungfuCastBuff_紫薇惊龙掌buff1,Effect One
+KungfuCastBuff_紫薇惊龙掌buff2,Effect Two
+KungfuCastBuff_紫薇惊龙掌buff3,Effect Three
+KungfuCastBuff_翻云遮天手buff1,Effect One
+KungfuCastBuff_翻云遮天手buff2,Effect Two
+KungfuCastBuff_翻云遮天手buff3,Effect Three
+KungfuCastBuff_贯云指buff1,Effect One
+KungfuCastBuff_贯云指buff2,Effect Two
+KungfuCastBuff_贯云指buff3,Effect Three
+KungfuCastBuff_灭天掌buff1,Effect One
+KungfuCastBuff_灭天掌buff2,Effect Two
+KungfuCastBuff_灭天掌buff3,Effect Three
+KungfuCastBuff_万民掌buff1,Effect One
+KungfuCastBuff_万民掌buff2,Effect Two
+KungfuCastBuff_万民掌buff3,Effect Three
+KungfuCastBuff_万民掌buff4,Effect Four
+KungfuCastBuff_金刚降魔杵buff1,Effect One
+KungfuCastBuff_金刚降魔杵buff2,Effect Two
+KungfuCastBuff_云林棍法buff1,Effect One
+KungfuCastBuff_云林棍法buff2,Effect Two
+KungfuCastBuff_玄煞棍法buff1,Effect One
+KungfuCastBuff_玄煞棍法buff2,Effect Two
+KungfuCastBuff_疯魔棍法buff1,Effect One
+KungfuCastBuff_疯魔棍法buff2,Effect Two
+KungfuCastBuff_紧那罗王棍buff1,Effect One
+KungfuCastBuff_紧那罗王棍buff2,Effect Two
+KungfuCastBuff_达摩杖法buff1,Effect One
+KungfuCastBuff_达摩杖法buff2,Effect Two
+KungfuCastBuff_达摩杖法buff3,Effect Three
+KungfuCastBuff_霸王枪法buff1,Effect One
+KungfuCastBuff_霸王枪法buff2,Effect Two
+KungfuCastBuff_叶家枪法buff1,Effect One
+KungfuCastBuff_叶家枪法buff2,Effect Two
+KungfuCastBuff_飞龙枪法buff1,Effect One
+KungfuCastBuff_飞龙枪法buff2,Effect Two
+KungfuCastBuff_梨花枪法buff1,Effect One
+KungfuCastBuff_梨花枪法buff2,Effect Two
+KungfuCastBuff_沥泉枪法buff1,Effect One
+KungfuCastBuff_沥泉枪法buff2,Effect Two
+KungfuCastBuff_沥泉枪法buff3,Effect Three
+KungfuCastBuff_擂山锤法buff1,Effect One
+KungfuCastBuff_擂山锤法buff2,Effect Two
+KungfuCastBuff_金刚锤法buff1,Effect One
+KungfuCastBuff_金刚锤法buff2,Effect Two
+KungfuCastBuff_七杀枪法buff1,Effect One
+KungfuCastBuff_七杀枪法buff2,Effect Two
+KungfuCastBuff_虎啸穿云枪buff1,Effect One
+KungfuCastBuff_虎啸穿云枪buff2,Effect Two
+KungfuCastBuff_黄泉引路枪buff1,Effect One
+KungfuCastBuff_黄泉引路枪buff2,Effect Two
+KungfuCastBuff_九黎巫叉buff1,Effect One
+KungfuCastBuff_九黎巫叉buff2,Effect Two
+KungfuCastBuff_九黎巫叉buff3,Effect Three
+KungfuCastBuff_高山流水buff1,Effect One
+KungfuCastBuff_高山流水buff2,Effect Two
+KungfuCastBuff_广陵散buff1,Effect One
+KungfuCastBuff_广陵散buff2,Effect Two
+KungfuCastBuff_广陵散buff3,Effect Three
+KungfuCastBuff_潇湘水云buff1,Effect One
+KungfuCastBuff_潇湘水云buff2,Effect Two
+KungfuCastBuff_傲江湖buff1,Effect One
+KungfuCastBuff_傲江湖buff2,Effect Two
+KungfuCastBuff_傲江湖buff3,Effect Three
+KungfuCastBuff_蝶舞天涯buff1,Effect One
+KungfuCastBuff_蝶舞天涯buff2,Effect Two
+KungfuCastBuff_惊鸿一梦buff1,Effect One
+KungfuCastBuff_惊鸿一梦buff2,Effect Two
+KungfuCastBuff_寒江独钓buff1,Effect One
+KungfuCastBuff_寒江独钓buff2,Effect Two
+KungfuCastBuff_江山多娇buff1,Effect One
+KungfuCastBuff_江山多娇buff2,Effect Two
+KungfuCastBuff_江山多娇buff3,Effect Three
+KungfuCastBuff_云龙三现buff1,Effect One
+KungfuCastBuff_云龙三现buff2,Effect Two
+KungfuCastBuff_刺秦要诀buff1,Effect One
+KungfuCastBuff_刺秦要诀buff2,Effect Two
+KungfuCastBuff_刺秦要诀buff3,Effect Three
+KungfuCastBuff_蝶恋花buff1,Effect One
+KungfuCastBuff_蝶恋花buff2,Effect Two
+KungfuCastBuff_蝶恋花buff3,Effect Three
+KungfuCastBuff_阎王贴buff1,Effect One
+KungfuCastBuff_阎王贴buff2,Effect Two
+KungfuCastBuff_挥翰成风buff1,Effect One
+KungfuCastBuff_挥翰成风buff2,Effect Two
+KungfuCastBuff_寒食帖buff1,Effect One
+KungfuCastBuff_寒食帖buff2,Effect Two
+KungfuCastBuff_曹全碑buff1,Effect One
+KungfuCastBuff_曹全碑buff2,Effect Two
+KungfuCastBuff_幽谷图buff1,Effect One
+KungfuCastBuff_幽谷图buff2,Effect Two
+KungfuCastBuff_丧乱贴buff1,Effect One
+KungfuCastBuff_丧乱贴buff2,Effect Two
+KungfuCastBuff_兰亭序buff1,Effect One
+KungfuCastBuff_兰亭序buff2,Effect Two
+KungfuCastBuff_兰亭序buff3,Effect Three
+KungfuCastBuff_逍遥游buff1,Effect One
+KungfuCastBuff_逍遥游buff2,Effect Two
+KungfuCastBuff_君子好逑buff1,Effect One
+KungfuCastBuff_君子好逑buff2,Effect Two
+KungfuCastBuff_如意扇法buff1,Effect One
+KungfuCastBuff_如意扇法buff2,Effect Two
+KungfuCastBuff_扇舞春秋buff1,Effect One
+KungfuCastBuff_扇舞春秋buff2,Effect Two
+KungfuCastBuff_扇舞春秋buff3,Effect Three
+KungfuCastBuff_风卷残云式buff1,Effect One
+KungfuCastBuff_风卷残云式buff2,Effect Two
+KungfuCastBuff_风雷刺法buff1,Effect One
+KungfuCastBuff_风雷刺法buff2,Effect Two
+KungfuCastBuff_海蛟夺命刺buff1,Effect One
+KungfuCastBuff_海蛟夺命刺buff2,Effect Two
+KungfuCastBuff_鹧鸪天buff1,Effect One
+KungfuCastBuff_鹧鸪天buff2,Effect Two
+KungfuCastBuff_梅花三弄buff1,Effect One
+KungfuCastBuff_梅花三弄buff2,Effect Two
+KungfuCastBuff_万蛊谣buff1,Effect One
+KungfuCastBuff_万蛊谣buff2,Effect Two
+KungfuCastBuff_万蛊谣buff3,Effect Three
+KungfuCastBuff_霸王卸甲buff1,Effect One
+KungfuCastBuff_霸王卸甲buff2,Effect Two
+KungfuCastBuff_笑红尘buff1,Effect One
+KungfuCastBuff_笑红尘buff2,Effect Two
+KungfuCastBuff_笑红尘buff3,Effect Three
+KungfuCastBuff_十面埋伏buff1,Effect One
+KungfuCastBuff_十面埋伏buff2,Effect Two
+KungfuCastBuff_十面埋伏buff3,Effect Three
+KungfuCastBuff_汉宫秋月buff1,Effect Two
+KungfuCastBuff_汉宫秋月buff2,Effect Three
+KungfuCastBuff_狼捕食buff1,Effect One
+KungfuCastBuff_碎骨击buff1,Effect One
+KungfuCastBuff_千斤顶buff1,Effect One
+KungfuCastBuff_狂犬吠buff1,Effect One
+KungfuCastBuff_斗鸡啄buff1,Effect One
+KungfuCastBuff_蝎尾刺buff1,Effect One
+KungfuCastBuff_蛇牙毒buff1,Effect One
+KungfuCastBuff_百爪千挠buff1,Effect One
+KungfuCastBuffInfo_弓箭散射附带buff1,Cause 5 points of Bleeding to the enemy when attacking.
+KungfuCastBuffInfo_破军刀法buff1,"When the main internal power is positive, cause 10 points of Internal Injury to the enemy."
+KungfuCastBuffInfo_破军刀法buff2,"When EquipWeapon is <#c851ff>Cold Saw</color>, Critical increases by 10%, Critical Increases Damage by 30%, and final Increases Damage by 15%."
+KungfuCastBuffInfo_独狼刀法buff1,"When the protagonist's Propriety reaches -100, Critical increases by 10%."
+KungfuCastBuffInfo_独狼刀法buff2,"When there are no teammates in the battlefield, Attack Increases Damage by 100%."
+KungfuCastBuffInfo_怒流刀法buff1,"When EquipEpic or above knife series Weapon, cause 10 points of Bleeding to the enemy."
+KungfuCastBuffInfo_怒流刀法buff2,"The higher the enemy's Bleeding, the higher the damage received, with each point of Bleeding increasing final damage by 0.5%."
+KungfuCastBuffInfo_七旋斩buff1,"When Dexterity reaches 10, cause 10 points of Blinded to the enemy."
+KungfuCastBuffInfo_七旋斩buff2,"When Qinggong reaches 300, final Increases Damage by 30%."
+KungfuCastBuffInfo_盘空刀法buff1,"When the main internal power is positive, cause 10 points of Bleeding to the enemy."
+KungfuCastBuffInfo_盘空刀法buff2,"When EquipWeapon is <#c851ff>Officer blade</color>, final Increases Damage by 45%."
+KungfuCastBuffInfo_庖丁解牛法buff1,"When EquipWeapon is <#c851ff>Black iron blade</color>, Attack can Pierce enemy's Legendary or below armor attributes and effects."
+KungfuCastBuffInfo_庖丁解牛法buff2,"The higher the protagonist's Cooking Level, the higher the damage. Levels 1-5 increase damage by 10%, 20%, 30%, 40%, 50% respectively."
+KungfuCastBuffInfo_叱咤刀法buff1,"When the protagonist's Courage reaches 100, it causes 10 points of Bleeding to the enemy."
+KungfuCastBuffInfo_叱咤刀法buff2,"When EquipEpic or above knife series Weapon, the final Increases Damage by 30%."
+KungfuCastBuffInfo_蛮荒霸道斩buff1,"When learning <#d09a09>Endless Maha</color> internal skill, self Critical increases by 15%, causing 15 points of Internal Injury to the enemy."
+KungfuCastBuffInfo_蛮荒霸道斩buff2,"When EquipLegendary knife series Weapon, the final Increases Damage by 25%."
+KungfuCastBuffInfo_蛮荒霸道斩buff3,"The higher the enemy's Internal Injury, the higher the damage they receive. Each point of Internal Injury increases the final damage by 1%."
+KungfuCastBuffInfo_天魔刀法buff1,"The higher the Benevolence, the lower the damage, up to a 25% reduction in final damage; the lower the Benevolence, the higher the damage, up to a 50% increase in final damage."
+KungfuCastBuffInfo_天魔刀法buff2,"The higher the Righteous, the lower the damage, up to a 25% reduction in final damage; the lower the Righteous, the higher the damage, up to a 50% increase in final damage."
+KungfuCastBuffInfo_天魔刀法buff3,"The higher the Trustworthy, the lower the damage, up to a 25% reduction in final damage; the lower the Trustworthy, the higher the damage, up to a 50% increase in final damage."
+KungfuCastBuffInfo_鬼轮斩buff1,"When Dexterity reaches 15, it causes 15 points of Bleeding to the enemy."
+KungfuCastBuffInfo_鬼轮斩buff2,"The higher the Qinggong, the higher the damage. Every 10 points of Qinggong increases the final damage by 1%, up to a 25% increase."
+KungfuCastBuffInfo_鬼轮斩buff3,"The higher the enemy's Bleeding, the higher the damage they receive. Each point of Bleeding increases the final damage by 1%."
+KungfuCastBuffInfo_纵横刀诀buff1,"When Strength reaches 10, it causes 10 points of Internal Injury to the enemy."
+KungfuCastBuffInfo_纵横刀诀buff2,"When Courage is above 0, every 10 points increase the final damage by 3.5%."
+KungfuCastBuffInfo_吞鲸刀法buff1,"When Strength reaches 15, inflict 15 points of Internal Injury on the enemy."
+KungfuCastBuffInfo_吞鲸刀法buff2,"When the main internal force is <#d09a09>Tsunami Manual</color>, a Critical hit will definitely trigger a Combo."
+KungfuCastBuffInfo_吞鲸刀法buff3,"The higher the enemy's Internal Injury, the higher the damage received, each point of Internal Injury increases the final damage by 0.8%."
+KungfuCastBuffInfo_贪狼剑法buff1,"When the protagonist's Courage reaches 100, Critical increases by 10%."
+KungfuCastBuffInfo_贪狼剑法buff2,"When Sword reaches 50, the final Increases Damage by 30%."
+KungfuCastBuffInfo_苍穹剑法buff1,"When Sword reaches 50, it causes 10 points of Internal Injury to the enemy."
+KungfuCastBuffInfo_苍穹剑法buff2,"When EquipEpic or above sword series Weapon, the final Increases Damage by 30%."
+KungfuCastBuffInfo_太极剑法buff1,"When learning <#c851ff>Nether Taichi</color> internal skill, inflict Internal break effect on enemies with main internal skill below Legendary (lasts for 2 actions)【<#F3DE99>Internal break: Unable to trigger Main Internal effect</color>】."
+KungfuCastBuffInfo_太极剑法buff2,"For every point that self Sword is higher than the enemy's, the enemy's energy gathering decreases by 1 point, up to a maximum of 100 points."
+KungfuCastBuffInfo_无情剑法buff1,"When Sword reaches 50, it causes 10 points of Bleeding to the enemy."
+KungfuCastBuffInfo_无情剑法buff2,"When there are no teammates in the battlefield, Attack Increases Damage by 100%."
+KungfuCastBuffInfo_岁寒三友buff1,"When the protagonist's internal skill is harmonious, it causes 10 points of Internal Injury to the enemy."
+KungfuCastBuffInfo_岁寒三友buff2,"When EquipEpic or above sword series Weapon, the final Increases Damage by 30%."
+KungfuCastBuffInfo_忘忧剑法buff1,"When EquipWeapon is <#c851ff>Shadow sword</color>, it causes 10 points of Blinded and reduces 25 points of Spirit to the enemy."
+KungfuCastBuffInfo_忘忧剑法buff2,"When Dexterity reaches 10, it causes 10 points of Bleeding to the enemy."
+KungfuCastBuffInfo_素女剑法buff1,"When Benevolence reaches 100, it reduces 25 points of Spirit to the enemy."
+KungfuCastBuffInfo_素女剑法buff2,"When releasing martial arts as a female, the final Increases Damage by 45%."
+KungfuCastBuffInfo_贪生剑法buff1,"When the protagonist's internal skill is Yin, it causes 10 points of Bleeding to the enemy."
+KungfuCastBuffInfo_贪生剑法buff2,"When Courage is below 0, every 1 point decrease in Courage increases the final damage by 0.5%."
+KungfuCastBuffInfo_无锋剑法buff1,"When the protagonist's internal skill is Yang, Attack can Pierce enemy's Legendary or below armor attributes and effects."
+KungfuCastBuffInfo_无锋剑法buff2,"When Strength reaches 10, Critical increases by 15%, Critical Increases Damage by 25%, and the final Increases Damage by 15%."
+KungfuCastBuffInfo_求败九式buff1,"When Sword reaches 75, the enemy's Legendary and below Weapon cannot function; when Sword reaches 200, the enemy's any quality Weapon cannot function (lasts for 1 action)."
+KungfuCastBuffInfo_求败九式buff2,"When Dexterity reaches 10, Action Speed increases by 15% after Attack, until the next action."
+KungfuCastBuffInfo_无极剑法buff1,"When the main internal force is harmonious, Attack can Pierce the enemy's armor properties and effects."
+KungfuCastBuffInfo_无极剑法buff2,"When Sword reaches 100, it finally Increases Damage by 30%."
+KungfuCastBuffInfo_无极剑法buff3,"When you learn the <#d09a09>Infinity Origin Move</color> internal force, it finally Increases Damage by 70%."
+KungfuCastBuffInfo_无名剑法buff1,"When the main internal force is positive, this Attack will definitely Critical on the enemy."
+KungfuCastBuffInfo_无名剑法buff2,"When Sword reaches 100, it finally Increases Damage by 50%."
+KungfuCastBuffInfo_无名剑法buff3,"When equipping a Legendary sword series Weapon, it finally Increases Damage by 75%."
+KungfuCastBuffInfo_浮华掠影剑buff1,"When Sword reaches 150, for every 1 point increase in Sword, it finally Increases Damage by 1%, up to a maximum of 150%."
+KungfuCastBuffInfo_浮华掠影剑buff2,"For every enemy defeated, your own Action Speed increases by 15 points, lasting until the end of the battle."
+KungfuCastBuffInfo_浮华掠影剑buff3,"For every 1 point that your own Dexterity is higher than the enemy's Dexterity, it reduces the enemy's charge by 10 points, up to a maximum reduction of 300 points."
+KungfuCastBuffInfo_破天剑法buff1,"When the main internal strength is Legendary Yang, this Attack on the enemy will definitely be Critical."
+KungfuCastBuffInfo_破天剑法buff2,Reduce the enemy's current MP by 15%.
+KungfuCastBuffInfo_破天剑法buff3,"The higher the enemy's Internal Injury, the higher the damage they receive. Every 1 point of Internal Injury increases final damage by 1.5%."
+KungfuCastBuffInfo_秋风掌法buff1,"Reduce 35 points of energy gathering from the enemy when attacking, if Critical is triggered, reduce 75 points of energy gathering."
+KungfuCastBuffInfo_空空拳法buff1,"Passive activation of【Damage transfer】, finally Increases Damage by 25%."
+KungfuCastBuffInfo_空空拳法buff2,"Passive activation of【Deadly strike】, finally Increases Damage by 25%."
+KungfuCastBuffInfo_大力金刚掌buff1,"When the protagonist's internal skill is Yang, Attack can Pierce enemy's Legendary or below armor attributes and effects."
+KungfuCastBuffInfo_大力金刚掌buff2,"When Benevolence is above 0, every 10 points higher causes 1 point of Internal Injury to the enemy; when Benevolence is below 0, every 1 point lower causes 1 point of Internal Injury to oneself."
+KungfuCastBuffInfo_凌空点穴手buff1,"For every 100 points that your current MP is higher than the enemy's current MP, it causes 1 point of Sealed to the enemy, up to a maximum of 15 points of Sealed."
+KungfuCastBuffInfo_凌空点穴手buff2,"The higher the enemy's Sealed, the higher the damage they receive, with each point of Sealed increasing the final Damage by 0.3%."
+KungfuCastBuffInfo_灵蛇缠丝掌buff1,"When the main internal force is negative, it causes 10 points of Poisoned to the enemy."
+KungfuCastBuffInfo_灵蛇缠丝掌buff2,"For every 20 points that your own Toxicology is higher than the enemy's Toxicology, it causes 1 point of Poisoned to the enemy, up to a maximum of 15 points of Poisoned."
+KungfuCastBuffInfo_伤情别离掌buff1,"When the main internal skill is Yin, inflict Vulnerable effect on the enemy (lasts for 1 action)【<#F3DE99>Vulnerable: Must be Critical when attacked</color>】."
+KungfuCastBuffInfo_伤情别离掌buff2,"When Mood is below 50, every 1 point lower finally Increases Damage by 1%."
+KungfuCastBuffInfo_降龙伏虎拳buff1,"For every 1 point that your own Fist is higher than the enemy's Fist, it finally Increases Damage by 0.15%."
+KungfuCastBuffInfo_降龙伏虎拳buff2,"When Stamina is above 50, every 1 point higher finally Increases Damage by 0.5%."
+KungfuCastBuffInfo_玄阴化骨手buff1,"When the main internal force is negative, it causes 10 points of Internal Injury to the enemy."
+KungfuCastBuffInfo_玄阴化骨手buff2,"For every 25 points that your current MP is higher than the enemy's current MP, it reduces the enemy's current MP by 0.1%, up to a maximum reduction of 5%."
+KungfuCastBuffInfo_太极拳buff1,"When you learn the <#c851ff>Nether Taichi</color> internal force, it causes 10 points of Internal Injury to the enemy."
+KungfuCastBuffInfo_太极拳buff2,"For every 100 points that your current MP is higher than the enemy's current MP, it causes 1 point of Internal Injury to the enemy, up to a maximum of 15 points of Internal Injury."
+KungfuCastBuffInfo_醉仙拳buff1,"When in ""Drunk"" state, final Increases Damage by 30%, when Critical is triggered, Critical Increases Damage by 10%."
+KungfuCastBuffInfo_醉仙拳buff2,"After Attack, your own Evasion increases by 15%, lasting until the next action."
+KungfuCastBuffInfo_般若掌buff1,"When the main internal force is positive, it randomly reduces the enemy's charge by 75~200 points."
+KungfuCastBuffInfo_般若掌buff2,"When Benevolence is above 0, every 10 points increase final damage by 4.5%; when Benevolence is below 0, every 10 points decrease final damage by 6%."
+KungfuCastBuffInfo_破庙拳法buff1,"When your Fist is higher than the enemy's Fist by every 10 points, it causes 1 point of Internal Injury to the enemy, up to a maximum of 15 points of Internal Injury."
+KungfuCastBuffInfo_破庙拳法buff2,"The higher the enemy's Internal Injury, the higher the damage they receive. Every 1 point of Internal Injury increases final damage by 0.3%."
+KungfuCastBuffInfo_断情掌buff1,Inflict Vulnerable effect on the enemy when in full blood state (lasts for 1 action)【<#F3DE99>Vulnerable: Must be Critical when attacked</color>】.
+KungfuCastBuffInfo_断情掌buff2,"When there is no bonded partner, final damage increases by 30%. For each female partner bonded, final damage decreases by 10%, up to a maximum decrease of 90%."
+KungfuCastBuffInfo_通天手buff1,"Passive activation of【Thunderous spirit】, final damage increases by 18%."
+KungfuCastBuffInfo_通天手buff2,"Passive activation of【Bolsterous spirit】, final damage increases by 18%."
+KungfuCastBuffInfo_野球拳buff1,"There is a 33% chance to cause the enemy's armor to fall off, rendering it ineffective; there is also a 33% chance to cause your own armor to fall off, which will recover after the next action."
+KungfuCastBuffInfo_野球拳buff2,"When your Fist is higher than the enemy's Fist by every 2 points, final damage increases by 1%, up to a maximum increase of 100%."
+KungfuCastBuffInfo_开山掌buff1,"When the main internal force is positive, Critical increases by 15%, Critical damage increases by 15%."
+KungfuCastBuffInfo_开山掌buff2,"When your Strength is higher than the enemy's Constitution by every 1 point, final damage increases by 5%, up to a maximum increase of 50%."
+KungfuCastBuffInfo_玄天指buff1,"When the main internal force is negative, reduce the enemy's energy by 100 points."
+KungfuCastBuffInfo_玄天指buff2,"For every 100 points that your current MP is higher than the enemy's current MP, it causes 1 point of Sealed to the enemy, up to a maximum of 15 points of Sealed."
+KungfuCastBuffInfo_降霜拳法buff1,"When the main internal skill is Harmonious, reduce 100 points of energy gathering from the enemy."
+KungfuCastBuffInfo_降霜拳法buff2,"For every point that your Strength is higher than the enemy's Dexterity, there is a 1% chance to inflict the 【Disable armor】 effect on the enemy, lasting until the enemy's next action."
+KungfuCastBuffInfo_降霜拳法buff3,"When the enemy is under the 【Disable armor】 effect, this Attack will definitely be Critical."
+KungfuCastBuffInfo_悲欢指法buff1,"When Mood is above 50, for every point above, increase your own Action Speed by 0.2%, lasting until the next action; when Mood is below 50, for every point below, reduce the enemy's energy gathering by 5 points."
+KungfuCastBuffInfo_悲欢指法buff2,"When Mood is above 50, inflict 5 points of Internal Injury on the enemy; when Mood is 50 or below, inflict 5 points of Bleeding on the enemy;"
+KungfuCastBuffInfo_悲欢指法buff3,The final damage of the Attack randomly increases by 10%~50%.
+KungfuCastBuffInfo_撼天指法buff1,"When the main internal force is Legendary negative internal force, inflict 15 points of Sealed on the enemy."
+KungfuCastBuffInfo_撼天指法buff2,"When equipping Legendary Fist Weapon, reduce the enemy's energy by 150 points."
+KungfuCastBuffInfo_撼天指法buff3,"For every 200 points that your current MP is higher than the enemy's current MP, the final damage increases by 5%, up to 120%."
+KungfuCastBuffInfo_如来神掌buff1,"When you learn the <#d09a09>Holy Brahma Technique</color> internal force, Critical increases by 25%, Critical damage increases by 25%."
+KungfuCastBuffInfo_如来神掌buff2,"When the main internal force is <#d09a09>Vairocana Solar Sutra</color>, inflict【Internal break】, 【Vulnerable】, and 【Disable armor】effects on the enemy, lasting until the enemy's next action."
+KungfuCastBuffInfo_如来神掌buff3,"When Benevolence is above 0, every 10 points increase final damage by 6%; when Benevolence is below 0, every 10 points decrease final damage by 4.5%.\nWhen Propriety is above 0, every 10 points increase final damage by 6%; when Propriety is below 0, every 10 points decrease final damage by 4.5%."
+KungfuCastBuffInfo_八极奔雷掌buff1,"When the main internal force is Legendary positive internal force, inflict 15 points of Internal Injury on the enemy."
+KungfuCastBuffInfo_八极奔雷掌buff2,"When your Strength is higher than the enemy's Constitution by every 1 point, reduce the enemy's energy by 20 points."
+KungfuCastBuffInfo_八极奔雷掌buff3,"The higher the enemy's Internal Injury, the higher the damage they receive. Every 1 point of Internal Injury increases final damage by 1.5%."
+KungfuCastBuffInfo_破空拳buff1,"Passive activation of【Power build-up】, Critical increases by 15%, Critical damage increases by 15%."
+KungfuCastBuffInfo_破空拳buff2,"When equipping Epic or higher Fist Weapon, final damage increases by 30%."
+KungfuCastBuffInfo_断魂爪buff1,"When the protagonist's internal skill is Yin, it causes 10 points of Bleeding to the enemy."
+KungfuCastBuffInfo_断魂爪buff2,"The higher the enemy's Bleeding, the higher the damage they receive. Each point of Bleeding increases the final damage by 1%."
+KungfuCastBuffInfo_幻灭指buff1,"When your Dexterity is higher than the enemy's Dexterity by every 1 point, inflict 3 points of Sealed on the enemy, up to a maximum of 15 points of Sealed."
+KungfuCastBuffInfo_幻灭指buff2,"The higher the enemy's Sealed, the higher the damage they receive, with each point of Sealed increasing the final Damage by 0.3%."
+KungfuCastBuffInfo_碧落黄泉buff1,"When the main internal force is negative, it causes 10 points of Poisoned to the enemy."
+KungfuCastBuffInfo_碧落黄泉buff2,"The higher the enemy's Poisoned, the higher the damage they receive. Every 1 point of Poisoned increases final damage by 1%."
+KungfuCastBuffInfo_紫薇惊龙掌buff1,"When the main internal force is <#d09a09>Dragon King Aura</color>, the enemy cannot Parry and Evasion when attacked, and you are immune to Reflect damage."
+KungfuCastBuffInfo_紫薇惊龙掌buff2,"For every point that your Dexterity is higher than the enemy's Dexterity, reduce the enemy's energy gathering by 30 points."
+KungfuCastBuffInfo_紫薇惊龙掌buff3,"For each level that your Fame is higher than the enemy's Fame, the final damage increases by 10%;\nWhen your Fame level reaches 8, the final damage increases by 100%."
+KungfuCastBuffInfo_翻云遮天手buff1,"For every point your Dexterity is higher than the enemy's Dexterity, inflict 2 points of Blinded on the enemy, up to a maximum of 20 points of Blinded."
+KungfuCastBuffInfo_翻云遮天手buff2,"For every 50 points that your Qinggong is higher than the enemy's Qinggong, reduce the enemy's Movement Range by 1 grid (lasting for 1 action)."
+KungfuCastBuffInfo_翻云遮天手buff3,"The higher the enemy's Blinded, the higher the damage received, each point of Blinded increases the final damage by 1.5%."
+KungfuCastBuffInfo_贯云指buff1,"When the main internal strength is <#d09a09>Nine Provinces Manual</color>, this AttackPierce the opponent's armor."
+KungfuCastBuffInfo_贯云指buff2,"For every 100 points your current MP is higher than the enemy's current MP, inflict 1 point of Sealed on the enemy, up to a maximum of 20 points of Sealed."
+KungfuCastBuffInfo_贯云指buff3,"The higher the enemy's Sealed, the higher the damage they receive. For every 1 point of Sealed, the final Increases Damage is 1.5%."
+KungfuCastBuffInfo_灭天掌buff1,"When the main internal force is negative, Attack can Pierce the enemy's armor attributes and effects."
+KungfuCastBuffInfo_灭天掌buff2,"For every 100 points that your current MP is higher than the enemy's current MP, the enemy's Action Speed decreases by 1%, up to a maximum of 30% (expires when the enemy next acts); and reduces the enemy's energy gathering by 500 points."
+KungfuCastBuffInfo_灭天掌buff3,"The less HP, the higher the final damage. When HP is full, the final Increases Damage by 60%, and for every 1% decrease in HP, the final damage increases by an additional 1%."
+KungfuCastBuffInfo_万民掌buff1,"When Spirit reaches 100 or above, this Attack will definitely be Critical."
+KungfuCastBuffInfo_万民掌buff2,"When you learn the <#d09a09>Nine Provinces Manual</color> internal skill, this Attack Combo increases by 25%."
+KungfuCastBuffInfo_万民掌buff3,"After the Attack, absorb 50% of the enemy's Spirit to replenish yourself."
+KungfuCastBuffInfo_万民掌buff4,"For every additional 2 points of your Fist, the final Increases Damage by 1%."
+KungfuCastBuffInfo_金刚降魔杵buff1,"When the protagonist's internal skill is Yang, Attack can Pierce enemy's Legendary or below armor attributes and effects."
+KungfuCastBuffInfo_金刚降魔杵buff2,"When Benevolence is above 0, for every 10 points, the final Increases Damage is 3.5%; when Benevolence is below 0, for every 10 points, the final damage decreases by 6%."
+KungfuCastBuffInfo_云林棍法buff1,"When Propriety is above 0, for every 10 points, the final Increases Damage is 3.5%."
+KungfuCastBuffInfo_云林棍法buff2,"When Benevolence is above 0, for every 10 points, the final Increases Damage is 3.5%; when Benevolence is below 0, for every 10 points, the final damage decreases by 6%."
+KungfuCastBuffInfo_玄煞棍法buff1,"When the main internal force is negative, reduce the enemy's energy by 100 points."
+KungfuCastBuffInfo_玄煞棍法buff2,"For every point your Strength is higher than the enemy's Dexterity, reduce the enemy's Parry and Evasion by 2%, until the enemy's next action."
+KungfuCastBuffInfo_疯魔棍法buff1,"Your Critical increases by 25%, CriticalIncreases Damage by 30%."
+KungfuCastBuffInfo_疯魔棍法buff2,"After the Attack, you are not controlled, when being attacked, you must be Critical, and it will be lifted after 2 actions."
+KungfuCastBuffInfo_紧那罗王棍buff1,"For every point your Strength is higher than the enemy's Constitution, your Critical increases by 2%, CriticalIncreases Damage by 3%."
+KungfuCastBuffInfo_紧那罗王棍buff2,"For every point your Strength is higher than the enemy's Dexterity, the final Increases Damage is 5%, up to a maximum of 50%."
+KungfuCastBuffInfo_达摩杖法buff1,"If the main internal skill is Legendary Yang internal skill, inflict the Disable technique effect on the enemy (lasting for 1 action)【<#F3DE99>Disable technique: Unable to use martial arts and special moves</color>】."
+KungfuCastBuffInfo_达摩杖法buff2,"When EquipLegendary staff series Weapon, Attack can Pierce the enemy's armor attributes and effects."
+KungfuCastBuffInfo_达摩杖法buff3,"When Benevolence is above 0, for every 10 points, the final Increases Damage is 11%; when Benevolence is below 0, for every 10 points, the final damage decreases by 9%."
+KungfuCastBuffInfo_霸王枪法buff1,"For every point your Strength is higher than the enemy's Dexterity, your Critical increases by 5%, CriticalIncreases Damage by 2%."
+KungfuCastBuffInfo_霸王枪法buff2,"When your Strength is higher than the enemy's Constitution by every 1 point, final damage increases by 5%, up to a maximum increase of 50%."
+KungfuCastBuffInfo_叶家枪法buff1,"When Relations with Ye Family Battalion is above 0, for every 10 points of Relations, the final Increases Damage is 4.5%."
+KungfuCastBuffInfo_叶家枪法buff2,"When EquipEpic or above spear series Weapon, inflict 10 points of Bleeding on the enemy, reduce 25 points of Spirit and 65 points of Qi."
+KungfuCastBuffInfo_飞龙枪法buff1,"Passive activation【Marked target】, inflict 10 points of Internal Injury on the enemy."
+KungfuCastBuffInfo_飞龙枪法buff2,"When EquipEpic or above spear series Weapon, the final Increases Damage is 30%."
+KungfuCastBuffInfo_梨花枪法buff1,"When EquipWeapon is <#c851ff>Pear Blossom</color>, inflict 10 points of Bleeding and 10 points of Sealed on the enemy, the final Increases Damage is 10%."
+KungfuCastBuffInfo_梨花枪法buff2,"When Courage is above 0, every 10 points increase the final damage by 3.5%."
+KungfuCastBuffInfo_沥泉枪法buff1,"When EquipWeapon is <#d09a09>Slipstream Spear</color>, inflict 15 points of Bleeding on the enemy, reduce 50 points of Spirit, Attack can Pierce the enemy's armor attributes and effects."
+KungfuCastBuffInfo_沥泉枪法buff2,"For every 4 points your Long is higher than the enemy's, the final Increases Damage is 1.3%."
+KungfuCastBuffInfo_沥泉枪法buff3,"When Relations with Ye Family Battalion is above 0, for every 10 points of Relations, the final Increases Damage is 5.5%."
+KungfuCastBuffInfo_擂山锤法buff1,"Passive activation【First blood】, inflict 10 points of Internal Injury on the enemy."
+KungfuCastBuffInfo_擂山锤法buff2,"For every point your Strength is higher than the enemy's Constitution, reduce the enemy's Qi by 20 points, up to a maximum of 200 points."
+KungfuCastBuffInfo_金刚锤法buff1,AttackPierce enemy's armor attributes and effects.
+KungfuCastBuffInfo_金刚锤法buff2,"For every 5 points higher your Long is than the enemy's Long, final damage increases by 1%."
+KungfuCastBuffInfo_七杀枪法buff1,"When the main internal force is <#c851ff>Yue Fei Secret Manual</color>, Critical increases by 10%, Critical damage increases by 15%."
+KungfuCastBuffInfo_七杀枪法buff2,"After killing the enemy with this attack, the next attack combo rate increases by 15%, and the final damage increases by 45%."
+KungfuCastBuffInfo_虎啸穿云枪buff1,"For every point that your Strength is higher than the enemy's Constitution, your Critical increases by 5%, Critical Increases Damage by 2%."
+KungfuCastBuffInfo_虎啸穿云枪buff2,"When Strength reaches 10, for every additional point, the final Increases Damage by 5%, up to a maximum of 50%."
+KungfuCastBuffInfo_黄泉引路枪buff1,"If the main internal skill is Epic or above Yin internal skill, inflict 10 points of Poisoned on the enemy."
+KungfuCastBuffInfo_黄泉引路枪buff2,"The higher the enemy's Poisoned, the higher the damage they receive, for every 1 point of Poisoned, the final Increases Damage by 0.5%."
+KungfuCastBuffInfo_九黎巫叉buff1,"For every additional 10 points of your Toxicology, inflict 1 point of Poisoned on the enemy."
+KungfuCastBuffInfo_九黎巫叉buff2,"After this Attack kills the enemy, the next Attack Critical increases by 10%, and the triggered Critical Increases Damage by 25%."
+KungfuCastBuffInfo_九黎巫叉buff3,"The higher the enemy's Poisoned, the higher the damage they receive, for every 1 point of Poisoned, the final Increases Damage by 1.5%."
+KungfuCastBuffInfo_高山流水buff1,"When Musical reaches 50, it reduces the enemy's energy by 100 points."
+KungfuCastBuffInfo_高山流水buff2,"When equipping Epic or higher Musical Weapon, final damage increases by 30%."
+KungfuCastBuffInfo_广陵散buff1,"For every 10 points higher your Musical is than the enemy's Musical, it causes 1 point of Internal Injury to the enemy, up to a maximum of 20 points of Internal Injury."
+KungfuCastBuffInfo_广陵散buff2,"For every 10 points higher your current MP is than the enemy's current MP, it reduces the enemy's energy by 1 point, up to a maximum reduction of 300 points."
+KungfuCastBuffInfo_广陵散buff3,"The higher the enemy's Internal Injury, the higher the damage they receive. For every 1 point of Internal Injury, the final damage increases by 1.2%."
+KungfuCastBuffInfo_潇湘水云buff1,"For every 10 points higher your Musical is than the enemy's Musical, it causes 1 point of Internal Injury to the enemy, up to a maximum of 15 points of Internal Injury."
+KungfuCastBuffInfo_潇湘水云buff2,"The higher the enemy's Internal Injury, the higher the damage they receive. For every 1 point of Internal Injury, the final damage increases by 0.5%."
+KungfuCastBuffInfo_傲江湖buff1,"For every 125 points that your current MP is higher than the enemy's current MP, inflict 1 point of Internal Injury on the enemy, up to a maximum of 25 points of Internal Injury."
+KungfuCastBuffInfo_傲江湖buff2,"The higher the enemy's Internal Injury, the higher the damage they receive. For every 1 point of Internal Injury, the final damage increases by 1.2%."
+KungfuCastBuffInfo_傲江湖buff3,"For every additional point of Mood, the final Increases Damage by 0.3%."
+KungfuCastBuffInfo_蝶舞天涯buff1,"When your current MP is higher than the enemy's current MP, inflict the Internal break effect on the enemy (lasting for 1 action)【<#F3DE99>Internal break: Unable to trigger Main Internal effect</color>】."
+KungfuCastBuffInfo_蝶舞天涯buff2,"This Attack reduces the enemy's Action Speed by 15%, lasting until the enemy's next action."
+KungfuCastBuffInfo_惊鸿一梦buff1,"For every 10 points that your Musical is higher than the enemy's Musical, there is a 1% chance to inflict the 【Unconcious】 effect on the enemy, lasting until the enemy's next action."
+KungfuCastBuffInfo_惊鸿一梦buff2,"For every 10 points higher your Musical is than the enemy's Musical, it causes 1 point of Internal Injury to the enemy, up to a maximum of 15 points of Internal Injury."
+KungfuCastBuffInfo_寒江独钓buff1,"When equipping Epic or higher pen-type Weapon, it makes the enemy's Legendary or lower Weapon ineffective."
+KungfuCastBuffInfo_寒江独钓buff2,"The higher the protagonist's Fishing Level, the higher the damage. Levels 1-5 increase damage by 10%, 20%, 30%, 40%, 50% respectively."
+KungfuCastBuffInfo_江山多娇buff1,"For every 1 level higher your Fame Level is than the enemy's, it reduces the enemy's energy by 50 points."
+KungfuCastBuffInfo_江山多娇buff2,"When Wisdom is higher than 0, for every 5 points higher, it causes 1 point of Blinded to the enemy."
+KungfuCastBuffInfo_江山多娇buff3,"The higher the protagonist's Appraise Artwork Level, the higher the damage. Levels 1-5 increase damage by 25%, 50%, 75%, 100%, 125% respectively."
+KungfuCastBuffInfo_云龙三现buff1,"For every 1 point higher your Dexterity is than the enemy's Dexterity, it causes 3 points of Bleeding to the enemy, up to a maximum of 15 points of Bleeding."
+KungfuCastBuffInfo_云龙三现buff2,"The higher the Qinggong, the higher the damage. For every 5 points of Qinggong, final damage increases by 1%, up to a maximum increase of 40%."
+KungfuCastBuffInfo_刺秦要诀buff1,"For every point your Dexterity is higher than the enemy's Dexterity, inflict 2 points of Blinded on the enemy, up to a maximum of 20 points of Blinded."
+KungfuCastBuffInfo_刺秦要诀buff2,"For every 1 point higher your Dexterity is than the enemy's Constitution, it causes 2 points of Bleeding to the enemy, up to a maximum of 20 points of Bleeding."
+KungfuCastBuffInfo_刺秦要诀buff3,"The higher the enemy's Bleeding, the higher the damage they receive, with each point of Bleeding increasing the final damage by 1.6%."
+KungfuCastBuffInfo_蝶恋花buff1,"When equipping Epic or higher fan-type Weapon, there is a 15% chance to cause Charm effect on the enemy."
+KungfuCastBuffInfo_蝶恋花buff2,"For every 1 level higher your Fame Level is than the enemy's, it increases the chance to cause Charm effect on the enemy by 3%."
+KungfuCastBuffInfo_蝶恋花buff3,"For every 1 level higher your Luck is than the enemy's Luck, it increases the chance to cause Charm effect on the enemy by 1%."
+KungfuCastBuffInfo_阎王贴buff1,"The higher the Spirit value, the higher the damage. For every 1 point of Spirit, final damage increases by 0.15%."
+KungfuCastBuffInfo_阎王贴buff2,"The lower the current HP value, the higher the damage. For every 10% decrease in HP, final damage increases by 6%."
+KungfuCastBuffInfo_挥翰成风buff1,"For every 10 points higher your Short is than the enemy's Short, it causes 1 point of Blinded to the enemy, up to a maximum of 15 points of Blinded."
+KungfuCastBuffInfo_挥翰成风buff2,"For every 1 level higher your Fame is than the enemy's Fame, final damage increases by 6%."
+KungfuCastBuffInfo_寒食帖buff1,"Passive activation of 【Unmovable】, causes 10 points of Bleeding to the enemy."
+KungfuCastBuffInfo_寒食帖buff2,"When Stamina is below 50, for every 1 point lower, final damage increases by 1%."
+KungfuCastBuffInfo_曹全碑buff1,"Passive activation of 【Mighty】, final damage increases by 18%."
+KungfuCastBuffInfo_曹全碑buff2,"Passive activation of【Thunderous spirit】, final damage increases by 18%."
+KungfuCastBuffInfo_幽谷图buff1,"The higher the protagonist's Appraise Artwork Level, the higher the damage. Levels 1-5 increase damage by 10%, 20%, 30%, 40%, 50% respectively."
+KungfuCastBuffInfo_幽谷图buff2,"The higher the enemy's Blinded, the higher the damage they receive. For every 1 point of Blinded, the final damage increases by 0.5%."
+KungfuCastBuffInfo_丧乱贴buff1,"For every 1 point your Dexterity is higher than the enemy's Dexterity, inflict 1 point of Blinded on the enemy, up to a maximum of 15 points of Blinded."
+KungfuCastBuffInfo_丧乱贴buff2,"When Mood is below 50, every 1 point lower finally Increases Damage by 1%."
+KungfuCastBuffInfo_兰亭序buff1,"Passive activation of 【Calculated strike】, this attack reduces enemy's Parry and Evasion by 100%."
+KungfuCastBuffInfo_兰亭序buff2,"When Mood is above 50, for every additional point, final Damage increases by 3%."
+KungfuCastBuffInfo_兰亭序buff3,"When equipping a Legendary pen-type Weapon, there is a 35% chance to inflict Internal break on the enemy."
+KungfuCastBuffInfo_逍遥游buff1,"For each point that your Dexterity is higher than the enemy's Dexterity, you inflict 3 points of Internal Injury on the enemy, up to a maximum of 15 points of Internal Injury."
+KungfuCastBuffInfo_逍遥游buff2,"The higher the Qinggong, the higher the damage. For every 5 points of Qinggong, final damage increases by 1%, up to a maximum increase of 40%."
+KungfuCastBuffInfo_君子好逑buff1,"For each bond formed with a woman, final Damage increases by 5%."
+KungfuCastBuffInfo_君子好逑buff2,"When Propriety is above 50, for every additional point, reduce enemy's energy gathering by 5 points."
+KungfuCastBuffInfo_如意扇法buff1,"Passive activation of 【Windwalker】, final Damage increases by 18%."
+KungfuCastBuffInfo_如意扇法buff2,"Passive activation of 【Deadly strike】, final Damage increases by 18%."
+KungfuCastBuffInfo_扇舞春秋buff1,"When the main internal skill is <#d09a09>Confucius Thirteen Sutras</color>, there is a 35% chance to inflict the Disable technique effect on the enemy (lasting for 1 action)【<#F3DE99>Disable technique: Unable to use martial arts and special moves</color>】."
+KungfuCastBuffInfo_扇舞春秋buff2,"For every level that your Fame is higher than the enemy's Fame, the final damage increases by 3%."
+KungfuCastBuffInfo_扇舞春秋buff3,"If Benevolence is above 0, every 10 points increase the final damage by 6%; if Righteous is above 0, every 10 points increase the final damage by 6%."
+KungfuCastBuffInfo_风卷残云式buff1,"For every 1 point your Dexterity is higher than the enemy's Dexterity, inflict 3 points of Blinded on the enemy, up to a maximum of 15 points of Blinded."
+KungfuCastBuffInfo_风卷残云式buff2,"Passive activation of [Windwalker], final damage increases by 30%."
+KungfuCastBuffInfo_风雷刺法buff1,"For every 1 point your Dexterity is higher than the enemy's Dexterity, inflict 1 point of Blinded on the enemy, up to a maximum of 15 points of Blinded."
+KungfuCastBuffInfo_风雷刺法buff2,"For every 2 points that your Dexterity is higher than the enemy's Dexterity, this Attack Critical increases by 1%."
+KungfuCastBuffInfo_海蛟夺命刺buff1,"For every 1 point your Dexterity is higher than the enemy's Constitution, inflict 1 point of Bleeding on the enemy, up to a maximum of 15 points of Bleeding."
+KungfuCastBuffInfo_海蛟夺命刺buff2,"The higher the enemy's Bleeding, the higher the damage received, with each point of Bleeding increasing final damage by 0.5%."
+KungfuCastBuffInfo_鹧鸪天buff1,"Reduce the enemy's Spirit by 25 points when attacking, and gain an additional 25 points of Spirit for yourself."
+KungfuCastBuffInfo_鹧鸪天buff2,"For every 10 points higher your Musical is than the enemy's Musical, it causes 1 point of Internal Injury to the enemy, up to a maximum of 15 points of Internal Injury."
+KungfuCastBuffInfo_梅花三弄buff1,"For every 10 points your Musical is higher than the enemy's Musical, reduce the enemy's Action Speed by 1%, up to a maximum reduction of 15%, lasting until the enemy's next action."
+KungfuCastBuffInfo_梅花三弄buff2,"When the main internal force is Yin, the final Increases Damage is 30%."
+KungfuCastBuffInfo_万蛊谣buff1,"For every 125 points your current MP is higher than the enemy's current MP, inflict 1 point of Poisoned on the enemy, up to a maximum of 25 points of Poisoned."
+KungfuCastBuffInfo_万蛊谣buff2,"Passive activation of ""Deadly strike"", the higher the enemy's Poisoned, the higher the damage they receive, with each point of Poisoned increasing the final Increases Damage by 1.3%."
+KungfuCastBuffInfo_万蛊谣buff3,"When equipping a Legendary flute-type Weapon, inflict the Slumber effect on the enemy (lasts for 2 actions)【<#F3DE99>Slumber: Guaranteed Critical when attacked, and immediately wakes up</color>】."
+KungfuCastBuffInfo_霸王卸甲buff1,"For every 5 points your Musical is higher than the enemy's Musical, reduce the enemy's Critical, Parry, and Evasion by 1%, lasting until the enemy's next action."
+KungfuCastBuffInfo_霸王卸甲buff2,"The higher the enemy's Internal Injury, the higher the damage they receive. For every 1 point of Internal Injury, the final damage increases by 0.5%."
+KungfuCastBuffInfo_笑红尘buff1,"For every 10 points your Musical is higher than the enemy's Musical, reduce the enemy's Spirit by 25 points, up to a maximum reduction of 500 points."
+KungfuCastBuffInfo_笑红尘buff2,"After an attack, if a Critical is triggered, inflict the Internal break effect on the enemy (lasts for 2 actions)【<#F3DE99>Internal break: Unable to trigger Main Internal effect</color>】."
+KungfuCastBuffInfo_笑红尘buff3,"For every level that your Fame is higher than the enemy's Fame, the final damage increases by 8%;\nIf your Fame Level reaches level 8, the final damage increases by 60%."
+KungfuCastBuffInfo_十面埋伏buff1,"When attacking, inflict the Vulnerable effect on the enemy (lasts for 2 actions)【<#F3DE99>Vulnerable: Guaranteed to be Critical when attacked</color>】."
+KungfuCastBuffInfo_十面埋伏buff2,"When attacking, reduce the enemy's Attack and Defense by 15%, lasting for 2 actions."
+KungfuCastBuffInfo_十面埋伏buff3,"After attacking, your Combo increases by 15%, Action Speed increases by 15%, lasts until the next action."
+KungfuCastBuffInfo_汉宫秋月buff1,"For every 10 points your Musical is higher than the enemy's Musical, reduce the enemy's Spirit by 10 points, up to a maximum reduction of 250 points."
+KungfuCastBuffInfo_汉宫秋月buff2,"If the enemy's Spirit is less than 650, the final Increases Damage of this attack is 75%, and inflict 10 points of Internal Injury on them."
+KungfuCastBuffInfo_狼捕食buff1,Inflict <#FE2929>15 points of Bleeding</color> on the enemy.
+KungfuCastBuffInfo_碎骨击buff1,Inflict Broken bone effect on the enemy【<#F3DE99>Broken bone: Attack damage is further reduced by 15%</color>】.
+KungfuCastBuffInfo_千斤顶buff1,Inflict <#FE2929>15 points of Internal Injury</color> on the enemy.
+KungfuCastBuffInfo_狂犬吠buff1,Inflict <#FE2929>15 points of Bleeding</color> on the enemy.
+KungfuCastBuffInfo_斗鸡啄buff1,Inflict <#FE2929>15 points of Blinded</color> on the enemy.
+KungfuCastBuffInfo_蝎尾刺buff1,Inflict <#FE2929>15 points of Poisoned</color> on the enemy.
+KungfuCastBuffInfo_蛇牙毒buff1,Inflict <#FE2929>15 points of Poisoned</color> on the enemy.
+KungfuCastBuffInfo_百爪千挠buff1,Inflict <#FE2929>15 points of Bleeding</color> on the enemy.
+KungfuMove_招式三千雷动,Three Thousand Thunderbolts
+KungfuMove_招式先破后立,"Break First, Build Later"
+KungfuMove_招式形单影只,Lone Shadow
+KungfuMove_招式饮鸩止渴,Drink Poison to Quench Thirst
+KungfuMove_招式挥刀断流,Cutting Off the Flow
+KungfuMove_招式目迷神离,"Eyes Lost, Spirit Gone"
+KungfuMove_招式所向披靡,Undefeated
+KungfuMove_招式烈焰焚身,Flames Engulfing Body
+KungfuMove_招式八方风雨,Eight Directions Storm
+KungfuMove_招式游刃有余,Effortless Blade
+KungfuMove_招式针锋相对,Needle Against Needle
+KungfuMove_招式独占鳌头,Monopolizing the Head of the Turtle
+KungfuMove_招式横扫四海,Sweeping Across the Four Seas
+KungfuMove_招式万象森罗,All Things in the Universe
+KungfuMove_招式万劫不复,Irreversible Doom
+KungfuMove_招式斩筋断脉,Severing Tendons and Veins
+KungfuMove_招式摧枯拉朽,Destroying the Weak
+KungfuMove_招式居合斩,Iai Slash
+KungfuMove_招式肋一寸,One Inch to the Ribs
+KungfuMove_招式魂飞魄散,"Soul Scattered, Spirit Gone"
+KungfuMove_招式魂不守舍,Soul Not Guarding the Body
+KungfuMove_招式燕返,Swallow Returns
+KungfuMove_招式一闪,A Flash
+KungfuMove_招式翻江倒海,Turning Rivers and Seas
+KungfuMove_招式风起浪涌,"Wind Rising, Waves Surging"
+KungfuMove_招式顾盼生姿,Graceful Glance
+KungfuMove_招式煞冲霄汉,Dashing to the Sky
+KungfuMove_招式天道无常,Unpredictable Heaven
+KungfuMove_招式阴晴圆缺,Changing Moon and Sun
+KungfuMove_招式神游物外,Spirit Roaming Beyond
+KungfuMove_招式烈焰滔滔,Blazing Flames
+KungfuMove_招式如封似闭,Sealing wind
+KungfuMove_招式口是心非,Saying One Thing and Meaning Another
+KungfuMove_招式日落西山,Sunset in the West
+KungfuMove_招式故步自封,Sticking to Old Ways
+KungfuMove_招式同气连枝,Branches of the Same Root
+KungfuMove_招式抱冰握火,"Holding Ice, Grasping Fire"
+KungfuMove_招式乐不思蜀,Optimistic
+KungfuMove_招式月明星稀,"Moon Bright, Stars Sparse"
+KungfuMove_招式仪态万方,Graceful Posture
+KungfuMove_招式虚张声势,Empty Threats
+KungfuMove_招式大巧不工,Great Skill Without Effort
+KungfuMove_招式荡剑破兵,"Sweeping Sword, Breaking Soldiers"
+KungfuMove_招式一剑凌云,One Sword Piercing the Clouds
+KungfuMove_招式山河色变,Mountains and Rivers Changing Color
+KungfuMove_招式见龙在田,Seeing the Dragon in the Field
+KungfuMove_招式潜龙勿用,"Hidden Dragon, Don't Use"
+KungfuMove_招式无中生有,Creating Something Out of Nothing
+KungfuMove_招式动极生静,Extreme Movement Creates Stillness
+KungfuMove_招式大成若缺,Great Perfection Seems Lacking
+KungfuMove_招式大象无形,Great Shape Without Form
+KungfuMove_招式目眩神迷,"Eyes Dazzled, Spirit Lost"
+KungfuMove_招式虚幻泡影,Illusory Bubble Shadow
+KungfuMove_招式以虚御实,Using False to Defeat Real
+KungfuMove_招式傲雪凌霜,"Proud Snow, Defying Frost"
+KungfuMove_招式冰清玉洁,Pure as Ice and Jade
+KungfuMove_招式护生斩业,"Protecting Life, Cutting Off Karma"
+KungfuMove_招式点穴截脉,Immobilize Meridian Break
+KungfuMove_招式灵蛇吐信,Spirit Snake Spits Venom
+KungfuMove_招式形销骨立,"Form Disappears, Bones Stand"
+KungfuMove_招式啖精化气,"Eating Essence, Transforming Qi"
+KungfuMove_招式掩手肱捶,"Covering Hand, Elbow Hammer"
+KungfuMove_招式五毒俱全,Five Poisons Complete
+KungfuMove_招式沛莫能御,Overwhelming and Unstoppable
+KungfuMove_招式醉饮乾坤,Drunk Drinking Heaven and Earth
+KungfuMove_招式索命勾魂,Suo Ming Soul Hook
+KungfuMove_招式无声无色,Silent and Colorless
+KungfuMove_招式难逃生天,Hard to Escape from Heaven
+KungfuMove_招式无计可施,No Strategy Available
+KungfuMove_招式灵机一动,Spirit Machine Moves
+KungfuMove_招式义断情绝,"Righteous Breaks, Feelings Cut Off"
+KungfuMove_招式如影随形,Shadow Follows Shape
+KungfuMove_招式玉碎瓦全,"Jade Broken, Tile Whole"
+KungfuMove_招式四相合一,Four Phases Combine into One
+KungfuMove_招式言而有信,Words and Deeds Match
+KungfuMove_招式开山裂石,"Opening Mountains, Breaking Stones"
+KungfuMove_招式白虹贯日,White Rainbow Piercing the Sun
+KungfuMove_招式指天为誓,Swearing to the Sky
+KungfuMove_招式一指乾坤,One Finger Heaven and Earth
+KungfuMove_招式佛动山河,Buddha Moves Mountains
+KungfuMove_招式佛光普照,Buddha's Light Shines Everywhere
+KungfuMove_招式分金裂石,Splitting Gold and Breaking Stones
+KungfuMove_招式动如雷霆,Mighty as the Thunder
+KungfuMove_招式山河裂变,Mountain and River Transformation
+KungfuMove_招式破天碎地,Breaking the Sky and Shattering the Earth
+KungfuMove_招式龙翔在天,Dragon Soaring in the Sky
+KungfuMove_招式紫气东来,Purple Qi from the East
+KungfuMove_招式积芒破势,Accumulated Light Breaking Momentum
+KungfuMove_招式融金藏锋,Melting Gold and Hiding Blade
+KungfuMove_招式遮云蔽日,Cloud Cover and Sun Block
+KungfuMove_招式固步自封,Self-Sealing Steps
+KungfuMove_招式星移斗转,Star Shift and Dipper Turn
+KungfuMove_招式揽月九天,Moon Grabbing in Nine Heavens
+KungfuMove_招式开天辟地,Opening the Sky and Creating the Earth
+KungfuMove_招式慑服外道,Subduing Heretics
+KungfuMove_招式龙腾四海,Dragon Soaring Across Four Seas
+KungfuMove_招式慈悲为怀,Compassion in Heart
+KungfuMove_招式步步紧逼,Step by Step Pressure
+KungfuMove_招式天地初分,The First Division of Heaven and Earth
+KungfuMove_招式疯癫入魔,Madness and Possession
+KungfuMove_招式拨云见日,Parting Clouds to See the Sun
+KungfuMove_招式风起云涌,Wind Rising and Clouds Surging
+KungfuMove_招式移星换斗,Moving Stars and Changing Dippers
+KungfuMove_招式推山填海,Mountain Mover
+KungfuMove_招式一飞冲天,Soaring into the Sky
+KungfuMove_招式飞龙在天,Flying Dragon in the Sky
+KungfuMove_招式放下屠刀,Laying Down the Butcher's Knife
+KungfuMove_招式佛渡有缘,Buddha Crosses the Destined
+KungfuMove_招式力拔山河,Strength to Pull Mountains and Rivers
+KungfuMove_招式死生由命,Life and Death by Fate
+KungfuMove_招式十步一杀,Kill Every Ten Steps
+KungfuMove_招式解甲归田,Disarming and Returning to the Fields
+KungfuMove_招式亢龙有悔,Regret of the Arrogant Dragon
+KungfuMove_招式扶摇直上,Rising Straight to the Sky
+KungfuMove_招式夜叉探海,Demon Diving into the Sea
+KungfuMove_招式有凤来仪,Phoenix's Grace
+KungfuMove_招式走鸾飞凤,Walking Phoenix Flying Phoenix
+KungfuMove_招式怪蟒翻身,Strange Python Turning Over
+KungfuMove_招式打蛇七寸,Strike the Snake's Seven Inches
+KungfuMove_招式丢兵弃甲,Abandoning Weapons and Armor
+KungfuMove_招式直捣黄龙,Ferocious Dragon Charge
+KungfuMove_招式失魂落魄,Losing Soul and Spirit
+KungfuMove_招式销气化功,Dissipating Qi into Achievement
+KungfuMove_招式一锤定音,One Hammer to Set the Tone
+KungfuMove_招式千锤百炼,Thousand Hammer Hundred Refinement
+KungfuMove_招式百转千回,Hundred Turns Thousand Times
+KungfuMove_招式曲高和寡,High Pitch and Few Companions
+KungfuMove_招式凄凄切切,Sad and Heartbreaking
+KungfuMove_招式触景生情,Touching Scene and Feeling
+KungfuMove_招式冲冠一怒,Angry Crown
+KungfuMove_招式舍命刺韩,Risking Life to Stab Han
+KungfuMove_招式梦里乞花,Begging Flowers in Dreams
+KungfuMove_招式叫月穿云,Calling Moon Through Clouds
+KungfuMove_招式笑看风云,Laughing at Wind and Clouds
+KungfuMove_招式天下无双,Unrivaled in the World
+KungfuMove_招式行尸走肉,Walking Dead
+KungfuMove_招式神失梦迷,Lost in Dreams
+KungfuMove_招式秋月无边,Endless Autumn Moon
+KungfuMove_招式一世情缘,A Lifetime of Love
+KungfuMove_招式怒发冲冠,Angry Hair Rushing to the Crown
+KungfuMove_招式靖康雪耻,Avenging the Humiliation of Jingkang
+KungfuMove_招式四面楚歌,Surrounded on All Sides
+KungfuMove_招式腹背受敌,Flanked
+KungfuMove_招式处之泰然,Calm and Composed
+KungfuMove_招式泼墨如雨,Ink Rain
+KungfuMove_招式苦雨萧瑟,Bitter Rain and Desolate Wind
+KungfuMove_招式愿者上钩,Willing to Take the Bait
+KungfuMove_招式乡明而治,Village Enlightenment and Governance
+KungfuMove_招式清泉临石,Clear Spring by the Stone
+KungfuMove_招式烟波浩渺,Vast Smoke and Waves
+KungfuMove_招式沧海一粟,Grain in the Blue Sea
+KungfuMove_招式气象万千,Thousands of Weather Phenomena
+KungfuMove_招式绝代风华,Peerless Elegance
+KungfuMove_招式呼之欲出,Vivid and Lifelike
+KungfuMove_招式银光乍现,Silver Light Suddenly Appears
+KungfuMove_招式风驰电掣,Wind Speed and Lightning Speed
+KungfuMove_招式以杀止杀,Kill to Stop Killing
+KungfuMove_招式视死如归,Facing Death as Going Home
+KungfuMove_招式飞沙走石,Flying Sand and Walking Stones
+KungfuMove_招式儒雅风流,Elegant Romanticist
+KungfuMove_招式罢黜百家,Only One School
+KungfuMove_招式随心所欲,Doing Whatever You Want
+KungfuMove_招式不战屈人,Subduing People Without Fighting
+KungfuMove_招式以理服人,Convincing People with Reason
+KungfuMove_招式流连忘返,Lingering and Unwilling to Leave
+KungfuMove_招式望穿秋水,Endearing Wait
+KungfuMove_招式狼捕食,Wolf Hunting
+KungfuMove_招式碎骨击,Bone Crushing Strike
+KungfuMove_招式千斤顶,Thousand Pound Lift
+KungfuMove_招式狂犬吠,Rabid Dog Barking
+KungfuMove_招式斗鸡啄,Chicken Pecking
+KungfuMove_招式蝎尾刺,Scorpion Tail Sting
+KungfuMove_招式蛇牙毒,Snake Fang Poison
+KungfuMove_招式百爪千挠,Hundred Claws Thousand Scratches
+KungfuLevel_1,One
+KungfuLevel_2,Two
+KungfuLevel_3,Three
+KungfuLevel_4,Four
+KungfuLevel_5,Five
+KungfuLevel_6,Six
+KungfuLevel_7,Seven
+KungfuLevel_8,Eight
+KungfuLevel_9,Nine
+KungfuLevel_10,Ten
+ButtonTip_Heal,"Heal friendly Characters within a certain range, RecoveryHP{0} points, Bleeding value decreases by {1} points."
+ButtonTip_Poison,"Poison enemy Characters within a certain range, Poisoned value increases by {0} points."
+ButtonTip_Detoxify,"Detoxify friendly Characters within a certain range, Poisoned value decreases by {0} points."
+ButtonTip_Focus,"After using Charge, the final damage caused by the next action Increases by 50%."
+ButtonTip_Defence,"After using Defense, the final damage received before the next action is reduced by 50%."
+ButtonTip_Breath,"Help friendly Characters within a certain range to recuperate, Internal Injury value decreases by {0} points."
+ButtonTip_EnhanceSpeed,"After using Speed Up, Movement Range increases by 1 square, Action Speed increases by 25 points, lasts until the next action."
+KungfuDesc_闪电五连击,
