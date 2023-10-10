@@ -17,9 +17,9 @@ jobs:
         curl -O -J -L --header "Authorization: ${{ secrets.PARATRANZ_ROOT }}" https://paratranz.cn/api/projects/8405/artifacts/download
     - name: Extrack
       run: |
-        unzip -q -o download -d Wulinpy/GenerateCSVtoXSLX/csv_input
-        mv Wulinpy/GenerateCSVtoXSLX/csv_input/utf8/* Wulinpy/GenerateCSVtoXSLX/csv_input
-        rm -r Wulinpy/GenerateCSVtoXSLX/csv_input/utf8
+        unzip -q -o download -d Wulinpy/GenerateCSVtoXSLX
+        mv Wulinpy/GenerateCSVtoXSLX/utf8/* Wulinpy/GenerateCSVtoXSLX/csv_input
+        rm -r Wulinpy/GenerateCSVtoXSLX/utf8
         rm -r download
     - name: List Extracted Files
       run: |
