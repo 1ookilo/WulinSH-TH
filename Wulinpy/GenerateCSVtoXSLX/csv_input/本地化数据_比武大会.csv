@@ -1,0 +1,11 @@
+﻿﻿CompetitionRoundTitle,Round {0}
+猫狗大战,Martial Arts Tournament
+CompetitionFinalRoundTitle,Final Battle
+AudienceCheer_Normal,Cut him!|Good hit!|Beautiful!|Impressive!|Hit him fast!|Start fighting!|Put some strength into it!|Didn't you eat?|Come on!|Keep going!!|Hit him hard!|Attack his lower body!|Hit his chin!|Left hook!|Right hook!|Don't go easy!
+AudienceCheer_UniqueSkill,This move is powerful!|Good move!|Exciting!|Amazing!!|Oh!|It looks painful.|Awesome!|Keep hitting!|Don't stop!|Take his life while he's sick!|The victory will be decided on the Horse!|He can't even stand!|You're going to win!|Give him another move!|Don't be soft-hearted!
+AudienceCheer_HpLessThan30Percent,Keep hitting!|Don't stop!|Take his life while he's sick!|The victory will be decided on the Horse!|He can't even stand!|You're going to win!|Give him another move!|Don't be soft-hearted!|Cut him!|Good hit!|Beautiful!|Impressive!|Hit him fast!|Start fighting!|Put some strength into it!|Didn't you eat?|Come on!|Keep going!!|Hit him hard!|Attack his lower body!|Hit his chin!|Left hook!|Right hook!|Don't go easy!
+AudienceCheer_FinalHit,He won!|Well fought!|So exciting!|Let's have another round!|This money is well spent!|I could do it too!|Impressive!|This move is powerful!|Good move!|Exciting!|Amazing!!|Oh!|It looks painful.|Awesome!
+啊6,Ah 7
+啊7,Ah 8
+啊8,Ah 9
+啊9,Ah 10

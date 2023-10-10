@@ -1,0 +1,40 @@
+name: GenerateJSON
+on:
+  schedule:
+    - cron: '5 4,12 * * *'
+  workflow_dispatch:
+
+jobs:
+  run_script_replace:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.10.11
+
+    - name: Set up Git user
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'     
+
+    - name: Install package
+      run: |
+        pip install pandas
+        pip install openpyxl
+
+    - name: Run patch.py
+      run: | 
+        python Wulinpy/src/csvtoxslx.py
+        rm -r BepInEx/plugins/Seiryu.Wulin.NET6/Translations/LocData.json
+        python Wulinpy/src/xslxtojson.py
+
+    - name: Push changes
+      run: |        
+        git add .
+        commitMessage=$(date +'%m-%d')' Update Translated'
+        git commit -m "$commitMessage"
+        git push https://github-actions[bot]:${{ secrets.GH_TOKEN }}@github.com/1ookilo/WulinSH-TH

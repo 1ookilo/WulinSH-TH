@@ -1,0 +1,408 @@
+key,original,translation,context
+TraitInlo_Kungfu,Initial external power {0},,初始外功{0}
+TraitInlo_Item,Carrying {0},,携带{0}
+TraitInlo_Spliter,，,,，
+TraitInlo_ItemSpliter,、,,、
+TraitInlo_ItemSpliterLast,And,,和
+TraitInlo_End,。,,。
+,,,
+TraitDesc_书香门第1,"Born into a scholarly family, you love to compose poetry, and your free and easy style is reflected in the vast landscape.",,出身于书香门第的你，独爱吟诗作赋，千里江山映尽了你的潇洒飘逸。
+TraitDesc_书香门第2,"Born into a scholarly family, you are skilled in calligraphy, and your ambition is evident in every stroke of your brush.",,出身于书香门第的你，使得一手好笔墨，挥毫泼墨之间，尽是气贯苍穹之志。
+TraitDesc_书香门第3,"Born in a scholarly family, you have a preference for string and wind instruments. Your fingertips dance, captivating the hearts of others.",,出身于书香门第的你，偏爱丝竹之器，指尖飞舞，让人心驰神往。
+TraitDesc_落魄乐师1,"You were once a musician untouched by worldly affairs, but now you have fallen from grace. All that accompanies you is a Parasol Tree and your lofty aspirations.",,你曾经是个不沾俗事的乐师，如今却已虎落平阳，陪伴你的除了一腔清志，唯有一把梧桐琴。
+TraitDesc_落魄乐师2,"You were once a musician untouched by worldly affairs, but now your family has fallen on hard times. Only the wooden flute still accompanies you as you travel the world.",,你曾经是个不沾俗事的乐师，如今却已家道中落，唯有木萧仍陪伴你踏足天下河山。
+TraitDesc_落魄乐师3,"You were once a musician untouched by worldly affairs, but now you have become a lone goose. You hold your Lute tightly, still wanting to spread your music throughout the world.",,你曾经是个不沾俗事的乐师，如今却已成离群孤雁，你抱紧怀里的琵琶，仍旧想把乐章传遍天下。
+TraitDesc_武学世家1,"You come from a Martial Arts family, and your Earth Blade skills are already quite impressive! After a disaster at home, you managed to escape, but had to wander the world.",,你出自武学世家，所学地趟刀法已颇具火候！家中遭遇变故，你虽逃出生天，却不得不流落江湖。
+TraitDesc_武学世家2,"You come from a Martial Arts family, and the family's Dragon Roaming Sword is unpredictable! After a disaster at home, you managed to escape, but had to wander the world.",,你出自武学世家，家传游龙剑法夭娆多变！家中遭遇变故，你虽逃出生天，却不得不流落江湖。
+TraitDesc_武学世家3,"You come from a Martial Arts family, and your Carefree Fist is elegant and transcendent! After a disaster at home, you managed to escape, but had to wander the world.",,你出自武学世家，一手逍遥拳法飘逸出尘！家中遭遇变故，你虽逃出生天，却不得不流落江湖。
+TraitDesc_武学世家4,"You come from a Martial Arts family, and the family's Dragon Staff is powerful! After a disaster at home, you managed to escape, but had to wander the world.",,你出自武学世家，家传蟠龙棍法虎虎生风！家中遭遇变故，你虽逃出生天，却不得不流落江湖。
+TraitDesc_武学世家5,"You come from a Martial Arts family, and your Wind Stab is chilling! After a disaster at home, you managed to escape, but had to wander the world.",,你出自武学世家，一招疾风刺令人胆寒！家中遭遇变故，你虽逃出生天，却不得不流落江湖。
+TraitDesc_武学世家6,"You come from a Martial Arts family, and you are skilled in the Six Forms Spear! After a disaster at home, you managed to escape, but had to wander the world.",,你出自武学世家，耍得一手六合枪法！家中遭遇变故，你虽逃出生天，却不得不流落江湖。
+TraitDesc_拳法宗师,"You have mastered the art of boxing, and can be called a grandmaster. Your Mountain Clear Palm has the power of ten thousand pounds, capable of breaking mountains and rocks, and is invincible.",,你拳法大成，堪称宗师，一式开山掌有万钧之力，开山破石，无往不利。
+TraitDesc_剑法宗师,"You have mastered the art of swordsmanship, and can be called a grandmaster. Your Flirting Star Sword is undefeated, and there are few opponents where your Dawn sword goes.",,你剑法大成，堪称宗师，一式贪狼剑法所向披靡，青冥剑所到之处，鲜有敌手。
+TraitDesc_刀法宗师,"You have mastered the art of knife, and can be called a grandmaster. Your Thunder Blade is like a thunderbolt, shaking the earth and sky, and is extremely domineering.",,你刀法大成，堪称宗师，一式霹雳刀法宛如炸雷，惊天动地，霸气异常。
+TraitDesc_棍法宗师,"You have mastered the art of stick, and can be called a grandmaster. Your Origin Staff is like the Great Sage reborn, stirring up the world and alarming the four seas.",,你棍法大成，堪称宗师，一式混元棍法如大圣再世，搅得天地震颤，四海惊动。
+TraitDesc_枪法宗师,"You have mastered the art of spear, and can be called a grandmaster. Your Power Star Spear has repelled countless masters. With the Emperor Spear in hand, one man can hold the pass against ten thousand.",,你枪法大成，堪称宗师，一式七杀枪法击退无数高手，霸王枪在手，一夫当关，万夫莫开。
+TraitDesc_音律宗师,"You are a world-renowned master of performance, and your Mountain and River tune is popular all over the world. But in the end, the song is too high for the masses, and it is hard to find a confidant.",,你已是名扬天下的演奏大师，一曲高山流水风靡天下但终究曲高和寡，难觅知音。
+TraitDesc_短兵宗师,"You are a legend in the world of assassins. Your Silver Snake Mirage is as fast as lightning, unpredictable, and no one can stop you within five steps.",,你是杀手界的传奇，一招银蛇流光势出如电，诡异莫测，五步之内无人能挡。
+,,,
+TraitName_书香门第1,※Scholarly Family※,,※书香门第※
+TraitName_书香门第2,※Scholarly Family※,,※书香门第※
+TraitName_书香门第3,※Scholarly Family※,,※书香门第※
+TraitName_落魄乐师1,※Down-and-out Musician※,,※落魄乐师※
+TraitName_落魄乐师2,※Down-and-out Musician※,,※落魄乐师※
+TraitName_落魄乐师3,※Down-and-out Musician※,,※落魄乐师※
+TraitName_武学世家1,※Martial Arts Family※,,※武学世家※
+TraitName_武学世家2,※Martial Arts Family※,,※武学世家※
+TraitName_武学世家3,※Martial Arts Family※,,※武学世家※
+TraitName_武学世家4,※Martial Arts Family※,,※武学世家※
+TraitName_武学世家5,※Martial Arts Family※,,※武学世家※
+TraitName_武学世家6,※Martial Arts Family※,,※武学世家※
+TraitName_拳法宗师,※Boxing Grandmaster※,,※拳法宗师※
+TraitName_剑法宗师,※Swordsmanship Grandmaster※,,※剑法宗师※
+TraitName_刀法宗师,※Knife Grandmaster※,,※刀法宗师※
+TraitName_棍法宗师,※Stick Grandmaster※,,※棍法宗师※
+TraitName_枪法宗师,※Spear Grandmaster※,,※枪法宗师※
+TraitName_音律宗师,※Musical Grandmaster※,,※音律宗师※
+TraitName_短兵宗师,※Short Grandmaster※,,※短兵宗师※
+,,,
+TraitName_暗器入门,,,暗器入门
+TraitName_毒术入门,,,毒术入门
+TraitName_短兵入门,,,短兵入门
+TraitName_拳掌入门,,,拳掌入门
+TraitName_耍刀入门,,,耍刀入门
+TraitName_医术入门,,,医术入门
+TraitName_音律入门,,,音律入门
+TraitName_御剑入门,,,御剑入门
+TraitName_长兵入门,,,长兵入门
+TraitName_福泽深厚,,,福泽深厚
+TraitName_身强体健,,,身强体健
+TraitName_龙精虎猛,,,龙精虎猛
+TraitName_聪颖灵巧,,,聪颖灵巧
+TraitName_深仁厚泽,,,深仁厚泽
+TraitName_慷慨仗义,,,慷慨仗义
+TraitName_文质彬彬,,,文质彬彬
+TraitName_才智过人,,,才智过人
+TraitName_一诺千金,,,一诺千金
+TraitName_力拔山河,,,力拔山河
+TraitName_先天邪气,,,先天邪气
+TraitName_手脚灵活,Quick reflex,,手脚灵活
+TraitName_身材矮小,Short stature,,身材矮小
+,,,
+TraitName_暗器精通,Throwing Mastery,,暗器精通
+TraitName_毒术精通,Toxicology Mastery,,毒术精通
+TraitName_短兵精通,Short Mastery,,短兵精通
+TraitName_拳掌精通,Fist Mastery,,拳掌精通
+TraitName_耍刀精通,Blade master,,耍刀精通
+TraitName_医术精通,Medical Mastery,,医术精通
+TraitName_音律精通,Musical Mastery,,音律精通
+TraitName_御剑精通,Sword master,,御剑精通
+TraitName_长兵精通,Long Mastery,,长兵精通
+TraitName_骨骼清奇,Unique Skeleton,,骨骼清奇
+TraitName_良才美玉,Talented Beauty,,良才美玉
+TraitName_越战越勇,Battle maniac,,越战越勇
+TraitName_速战速决,,,速战速决
+TraitName_得心应手,Upwind,,得心应手
+TraitName_熟能生巧,Practice makes perfect,,熟能生巧
+TraitName_山林猎手,Wild hunter,,山林猎手
+TraitName_福泽深厚,Good fortune,,福泽深厚
+TraitName_身强体健,Hardened,,身强体健
+TraitName_龙精虎猛,Stalwart,,龙精虎猛
+TraitName_聪颖灵巧,Smart,,聪颖灵巧
+TraitName_误打误撞,Random attack,,误打误撞
+TraitName_见招拆招,Good blocker,,见招拆招
+,,,
+TraitName_暗器奇才,Throwing talent,,暗器奇才
+TraitName_毒术奇才,Toxicology talent,,毒术奇才
+TraitName_短兵奇才,Short weapon talent,,短兵奇才
+TraitName_拳掌奇才,Fist talent,,拳掌奇才
+TraitName_耍刀奇才,Blade talent,,耍刀奇才
+TraitName_医术奇才,Medical talent,,医术奇才
+TraitName_音律奇才,Musical talent,,音律奇才
+TraitName_御剑奇才,Sword talent,,御剑奇才
+TraitName_长兵奇才,Long weapon talent,,长兵奇才
+TraitName_特异毒体,Poisonous body,,特异毒体
+TraitName_暗器精研,Throwing master,,暗器精研
+TraitName_动如雷霆,Mighty as the Thunder,,动如雷霆
+TraitName_雪上加霜,Poison expert,,雪上加霜
+TraitName_妙手仁心,Medical expert,,妙手仁心
+TraitName_身先士卒,Front guard,,身先士卒
+TraitName_身轻如燕,Light body,,身轻如燕
+TraitName_目无全牛,Beast killer,,目无全牛
+TraitName_免疫中毒,Poison Immunity,,免疫中毒
+TraitName_免疫封穴,Seal Immunity,,免疫封穴
+TraitName_免疫流血,Bleed Immunity,,免疫流血
+TraitName_免疫致盲,Blind Immunity,,免疫致盲
+TraitName_免疫内伤,Internal Injury Immunity,,免疫内伤
+TraitName_触类旁通,Analyzing,,触类旁通
+TraitName_大器晚成,Slow starter,,大器晚成
+TraitName_庄周梦蝶,Dream training,,庄周梦蝶
+TraitName_手到擒来,Easy as pie,,手到擒来
+TraitName_心灵手巧,Dexterous hands,,心灵手巧
+TraitName_火眼金睛,Eye for details,,火眼金睛
+TraitName_谋生有道,Survival expert,,谋生有道
+TraitName_歪门邪道,Street boy,,歪门邪道
+TraitName_道貌岸然,Pretentious,,道貌岸然
+TraitName_惺惺相惜,Sympathetic,,惺惺相惜
+TraitName_异性相吸,Sex appeal,,异性相吸
+TraitName_乐不思蜀,Optimistic,,乐不思蜀
+TraitName_立竿见影,Regenerative body,,自愈体质
+TraitName_身如鬼魅,Rapid response,,身如鬼魅
+TraitName_随手烟尘,Dust thrower,,随手烟尘
+TraitName_精通兽语,Animal whisperer,,精通兽语
+TraitName_辣手摧花,Female hater,,辣手摧花
+TraitName_嫉恶如仇,Evil slayer,,嫉恶如仇
+TraitName_战意凛然,Burning spirit,,战意凛然
+TraitName_妙手空空,Sleight of hand,,妙手空空
+TraitName_明察秋毫,Discerning eyes,,明察秋毫
+TraitName_玄门正宗,Authentic sect,,玄门正宗
+TraitName_众志成城,United we stand,,众志成城
+TraitName_飞星连珠,Throwing expert,,飞星连珠
+TraitName_九流杂学,Streetwise,,九流杂学
+TraitName_逆流而上,Upstream walk,,逆流而上
+TraitName_兵器亲和,Weapon expert,,兵器亲和
+TraitName_医术精研,Medical master,,医术精研
+TraitName_儒者之风,Disciples of Confucius,,儒者之风
+TraitName_菩提禅心,Buddha heart,,菩提禅心
+TraitName_摸金校尉,Tomb raider,,摸金校尉
+TraitName_日进斗金,Daily income,,日进斗金
+TraitName_毒蛊寄生,Poisonous parasite,,毒蛊寄生
+TraitName_皮糙肉厚,Hardy,,皮糙肉厚
+TraitName_心宽体胖,Happy fatty,,心宽体胖
+TraitName_酩酊醉意,Bad drunker,,酩酊醉意
+TraitName_交游广阔,Resourceful,,交游广阔
+TraitName_动如脱兔,Like a rabbit,,动如脱兔
+TraitName_护花使者,Feminism,,护花使者
+TraitName_国公世子,Son of noble,,国公世子
+TraitName_文武状元,Top achiever,,文武状元
+,,,
+TraitName_所向披靡,Undefeated,,所向披靡
+TraitName_天煞孤星,Lone wanderer,,天煞孤星
+TraitName_财大气粗,Power of money,,财大气粗
+TraitName_死里逃生,Survival instinct,,死里逃生
+TraitName_兵器精通,Weapon master,,兵器精通
+TraitName_影子护卫,Secret guardian,,影子护卫
+TraitName_神行无忌,Fast runner,,神行无忌
+TraitName_草木皆兵,Perfect adaptation,,草木皆兵
+TraitName_无师自通,Ravenous reader,,无师自通
+TraitName_心有灵犀,Effective learner,,心有灵犀
+TraitName_万里独行,Loner,,万里独行
+TraitName_自带毒疮,Poisonous skin,,自带毒疮
+TraitName_贪生怕死,Coward,,贪生怕死
+TraitName_劫后余生,Quick recover,,劫后余生
+TraitName_体力充沛,Wholesome,,体力充沛
+TraitName_圣贤传人,The Saint,,圣贤传人
+TraitName_邪魔外道,The Devil,,邪魔外道
+TraitName_天命弱鸡,Absolute weakling,,天命弱鸡
+TraitName_扮猪吃虎,Fake newcomer,,扮猪吃虎
+TraitName_武林盟主,Jianghu Master,,武林盟主
+TraitName_武林霸主,Jianghu Conqueror,,武林霸主
+TraitName_多情浪子,Romantic lover,,多情浪子
+TraitName_千王之王,God of gambling,,千王之王
+TraitName_转世佛子,Reincarnated monk,,转世佛子
+TraitName_碧血丹心,Path of loyalty,,碧血丹心
+TraitName_知行合一,Unity of Knowledge and Action,,知行合一
+TraitName_替天行道,Acting for the heavens,,替天行道
+TraitName_匹夫有责,Every man has his duty,,匹夫有责
+TraitName_博采众长,Learn from everyone,,博采众长
+TraitName_追命阎罗,Death master,,追命阎罗
+,,,
+TraitName_伙伴特征身材矮小,Short stature,,身材矮小
+TraitName_伙伴特征妙手空空,Sleight of hand,,妙手空空
+TraitName_伙伴特征手脚灵活,Quick reflex,,手脚灵活
+TraitName_伙伴特征酩酊醉意,Bad drunker,,酩酊醉意
+TraitName_伙伴特征皮糙肉厚,Hardy,,皮糙肉厚
+TraitName_伙伴特征暴躁失控,Berserker,,暴躁失控
+TraitName_伙伴特征毒不走空,Fast poisoner,,毒不走空
+TraitName_伙伴特征掌中带毒,Poisonous touch,,掌中带毒
+TraitName_伙伴特征衣袖藏毒,Hidden poison,,衣袖藏毒
+TraitName_伙伴特征心宽体胖,Happy fatty,,心宽体胖
+TraitName_伙伴特征行动迟缓,Sluggish,,行动迟缓
+TraitName_伙伴特征先发制人,First strike,,先发制人
+TraitName_伙伴特征动如脱兔,Like a rabbit,,动如脱兔
+TraitName_伙伴特征狐假虎威,Dependant,,狐假虎威
+TraitName_伙伴特征金针刺穴,Meridian piercer,,金针刺穴
+TraitName_伙伴特征医有所成,Medical knowledge,,医有所成
+TraitName_伙伴特征妙手仁心,Medical expert,,妙手仁心
+TraitName_伙伴特征不解风情,Unaffectionate,,不解风情
+TraitName_伙伴特征子凭父贵,Powerful father,,子凭父贵
+TraitName_伙伴特征落井下石,Chance taker,,落井下石
+TraitName_伙伴特征山林猎手,Wild hunter,,山林猎手
+TraitName_伙伴特征如履平地,Walker,,如履平地
+TraitName_伙伴特征多年积习,Trash sweeper,,多年积习
+TraitName_伙伴特征远离是非,Back away,,远离是非
+TraitName_伙伴特征粗通拳脚,Fist user,,粗通拳脚
+TraitName_伙伴特征道听途说,Rumour listener,,道听途说
+TraitName_伙伴特征医者自医,Self-healing doctor,,医者自医
+TraitName_伙伴特征柔情似水,Gentle care,,柔情似水
+TraitName_伙伴特征冷若冰霜,Icy glare,,冷若冰霜
+TraitName_伙伴特征锱铢必较,Accountant,,锱铢必较
+TraitName_伙伴特征金刚体魄,Diamond body,,金刚体魄
+TraitName_伙伴特征偃武息戈,Blow over,,偃武息戈
+TraitName_伙伴特征来去飘忽,Gone with the wind,,来去飘忽
+TraitName_伙伴特征春燕回翔,Swallow flight,,春燕回翔
+TraitName_伙伴特征疏而不漏,Precision,,疏而不漏
+TraitName_伙伴特征刀剑无眼,Sharp edge,,刀剑无眼
+TraitName_伙伴特征暴虐不仁,Tyrannical,,暴虐不仁
+TraitName_伙伴特征勇猛无挡,Bravery,,勇猛无挡
+TraitName_伙伴特征锐不可当,Dangerous aura,,锐不可当
+TraitName_伙伴特征所向披靡,Dangerous aura,,锐不可当
+TraitName_伙伴特征身形鬼魅,Ghostly mirage,,身形鬼魅
+TraitName_伙伴特征滚滚波涛,Force waves,,滚滚波涛
+TraitName_伙伴特征淬毒手段,Poisonous strike,,淬毒手段
+TraitName_伙伴特征势不可挡,Unstoppable,,势不可挡
+TraitName_伙伴特征玄门正宗,Authentic sect,,玄门正宗
+TraitName_伙伴特征特异毒体,Poisonous body,,特异毒体
+TraitName_伙伴特征毒蛊寄生,Poisonous parasite,,毒蛊寄生
+TraitName_伙伴特征不求甚解,Skimming,,不求甚解
+TraitName_伙伴特征风头正盛,Eminent,,风头正盛
+TraitName_伙伴特征兄妹双簧,Brother and sister,,兄妹双簧
+TraitName_伙伴特征隐身匿形,Unseen visage,,隐身匿形
+TraitName_伙伴特征前朝皇族,Royal blood,,前朝皇族
+TraitName_伙伴特征免死金牌,Death-exemption Plate,,免死金牌
+TraitName_伙伴特征孟尝遗风,Good comrades,,孟尝遗风
+TraitName_伙伴特征醉生梦死,Drunken life,,醉生梦死
+TraitName_伙伴特征灵台清明,Clear mind,,灵台清明
+TraitName_伙伴特征逍遥二仙,Carefree duo,,逍遥二仙
+TraitName_伙伴特征金刚护体,Vajra protection,,金刚护体
+TraitName_伙伴特征佛法加持,Buddhism protection,,佛法加持
+TraitName_伙伴特征涅槃重生,Nirvana restoration,,涅槃重生
+TraitName_伙伴特征离经叛道,Deviant,,离经叛道
+TraitName_伙伴特征荤腥不忌,Meat eater,,荤腥不忌
+TraitName_伙伴特征磨刀霍霍,Sharpened edge,,磨刀霍霍
+TraitName_伙伴特征得心应手,Upwind,,得心应手
+TraitName_伙伴特征水寨寨主,Lord of Water Camp,,水寨寨主
+TraitName_伙伴特征暗劲激发,Hidden force,,暗劲激发
+TraitName_伙伴特征喜怒无常,Moody,,喜怒无常
+TraitName_伙伴特征铁骨铮铮,Fearless,,铁骨铮铮
+TraitName_伙伴特征目不视物,Eyesight lost,,目不视物
+TraitName_伙伴特征听声辨位,Auditory sight,,听声辨位
+TraitName_伙伴特征连珠射艺,Continuous throwing,,连珠射艺
+TraitName_伙伴特征暗器奇才,Throwing talent,,暗器奇才
+TraitName_伙伴特征琴棋书画,Four arts,,琴棋书画
+TraitName_伙伴特征步步为营,Careful step,,步步为营
+TraitName_伙伴特征势大力沉,Muscular,,势大力沉
+TraitName_伙伴特征大器晚成,Slow starter,,大器晚成
+TraitName_伙伴特征识破剑招,Sword breaker,,识破剑招
+TraitName_伙伴特征武道奇才,Martial prodigy,,武道奇才
+TraitName_伙伴特征剑锋披靡,Lethal sword,,剑锋披靡
+TraitName_伙伴特征国色天香,Gorgeous beauty,,国色天香
+TraitName_伙伴特征自惭形秽,Ashamed,,自惭形秽
+TraitName_伙伴特征倾国倾城,Overwhelming beauty,,倾国倾城
+TraitName_伙伴特征暗送无常,Secret strike,,暗送无常
+TraitName_伙伴特征深究其理,Careful examiner,,深究其理
+TraitName_伙伴特征脏街之主,Street master,,脏街之主
+TraitName_伙伴特征如封似闭,Sealing wind,,如封似闭
+TraitName_伙伴特征死里逃生,Survival instinct,,死里逃生
+TraitName_伙伴特征日进斗金,Daily income,,日进斗金
+TraitName_伙伴特征雁过拔毛,Dirty hands,,雁过拔毛
+TraitName_伙伴特征斤斤计较,Economical,,斤斤计较
+TraitName_伙伴特征野心勃勃,Ambitious,,野心勃勃
+TraitName_伙伴特征众将听命,Give orders,,众将听命
+TraitName_伙伴特征先斩后奏,Executioner,,先斩后奏
+TraitName_伙伴特征余音绕梁,Reverberation,,余音绕梁
+TraitName_伙伴特征大音稀声,Precious sound,,大音稀声
+TraitName_伙伴特征江湖郎中,Street doctor,,江湖郎中
+TraitName_伙伴特征久病成医,Long illness,,久病成医
+TraitName_伙伴特征目无全牛,Beast killer,,目无全牛
+TraitName_伙伴特征九黎圣女,Jiuli Saintess,,九黎圣女
+TraitName_伙伴特征心有灵犀,Effective learner,,心有灵犀
+TraitName_伙伴特征武学奇才,Martial genius,,武学奇才
+TraitName_伙伴特征举一反三,Fast learner,,举一反三
+TraitName_伙伴特征三花聚顶,Three flowers converge,,三花聚顶
+TraitName_伙伴特征尽忠报国,Loyalty,,尽忠报国
+TraitName_伙伴特征血战到底,To the death,,血战到底
+TraitName_伙伴特征绝境逢生,Against all odds,,绝境逢生
+TraitName_伙伴特征舍身修罗,Shura sacrifice,,舍身修罗
+TraitName_伙伴特征杀生护生,Kill to protect,,杀生护生
+TraitName_伙伴特征内劲反震,Internal impact,,内劲反震
+TraitName_伙伴特征随心所欲,Arbitrarily,,随心所欲
+TraitName_伙伴特征一招生死,Life or death,,一招生死
+TraitName_伙伴特征剑意勃发,Sword Qi Explosion,,剑意勃发
+TraitName_伙伴特征战意凛凛,Raging spirit,,战意凛凛
+TraitName_伙伴特征杀意盎然,Killing intent,,杀意盎然
+TraitName_伙伴特征不留余力,All-out attack,,不留余力
+TraitName_伙伴特征七星阵眼,Formation center,,七星阵眼
+TraitName_伙伴特征我见犹怜,Lovely visage,,我见犹怜
+TraitName_伙伴特征天生神力,Herculean strength,,天生神力
+TraitName_伙伴特征金枝玉叶,Rich maiden,,金枝玉叶
+TraitName_伙伴特征叶家统帅,Ye faction leader,,叶家统帅
+TraitName_伙伴特征近身侍卫,Bodyguards,,近身侍卫
+TraitName_伙伴特征铁血近卫,Blood guards,,铁血近卫
+TraitName_伙伴特征气场威压,Suppressing aura,,气场威压
+TraitName_伙伴特征气劲贯体,Suppressing attack,,气劲贯体
+TraitName_伙伴特征绵里藏针,Force reflection,,绵里藏针
+TraitName_伙伴特征皇室贵胄,Royal noble,,皇室贵胄
+TraitName_伙伴特征侠肝义胆,Courageous,,侠肝义胆
+TraitName_伙伴特征御剑精通,Sword master,,御剑精通
+TraitName_伙伴特征熟能生巧,Practice makes perfect,,熟能生巧
+TraitName_伙伴特征将门虎女,General's daughter,,将门虎女
+TraitName_伙伴特征身先士卒,Front guard,,身先士卒
+TraitName_伙伴特征发挥失常,Capriciousness,,发挥失常
+TraitName_伙伴特征皇权特许,Royal prestige,,皇权特许
+TraitName_伙伴特征身如鬼魅,Rapid response,,身如鬼魅
+TraitName_伙伴特征随手烟尘,Dust thrower,,随手烟尘
+TraitName_伙伴特征长兵奇才,Long weapon talent,,长兵奇才
+TraitName_伙伴特征邋遢道人,Ragged Taoist,,邋遢道人
+TraitName_伙伴特征先天罡气,Origin Qi,,先天罡气
+TraitName_伙伴特征以静制动,Readied,,以静制动
+TraitName_伙伴特征道玄宗主,Taoist sect leader,,道玄宗主
+TraitName_伙伴特征九转回魂,Reversal technique,,九转回魂
+TraitName_伙伴特征真气护体,Reflective Qi,,真气护体
+TraitName_伙伴特征立竿见影,Regenerative body,,自愈体质
+TraitName_伙伴特征谦谦君子,Modest gentleman,,谦谦君子
+TraitName_伙伴特征触类旁通,Analyzing,,触类旁通
+TraitName_伙伴特征儒家传人,Confucius's successor,,儒家传人
+TraitName_伙伴特征袖里青蛇,Hidden snake,,袖里青蛇
+TraitName_伙伴特征恨天不公,World hater,,恨天不公
+TraitName_伙伴特征繁华楼主,Bustling House owner,,繁华楼主
+TraitName_伙伴特征妙手空空2,Sleight of hand,,妙手空空
+TraitName_伙伴特征好事成双,Lucky,,好事成双
+TraitName_伙伴特征踏雪无痕,Traceless step,,踏雪无痕
+TraitName_伙伴特征释家传人,Qi family's successor,,释家传人
+TraitName_伙伴特征所向披靡2,Undefeated,,所向披靡
+TraitName_伙伴特征杀意腾腾,Killing aura,,杀意腾腾
+TraitName_伙伴特征战意昂扬,Spirited,,战意昂扬
+TraitName_伙伴特征越战越勇,Battle maniac,,越战越勇
+TraitName_伙伴特征速战速决,Blitz attack,,速战速决
+TraitName_伙伴特征耍刀精通,Blade master,,耍刀精通
+TraitName_伙伴特征医术精研,Medical master,,医术精研
+TraitName_伙伴特征医者自医2,Self-healing doctor,,医者自医
+TraitName_伙伴特征嫉恶如仇,Evil slayer,,嫉恶如仇
+TraitName_伙伴特征战意凛然,Burning spirit,,战意凛然
+TraitName_伙伴特征剑不空回,Bloodied sword,,剑不空回
+TraitName_伙伴特征法不容情,No mercy,,法不容情
+TraitName_伙伴特征志得意满,Exhilarated,,志得意满
+TraitName_伙伴特征飞燕凌波,Swallow ascend,,飞燕凌波
+TraitName_伙伴特征身轻如燕,Light body,,身轻如燕
+TraitName_伙伴特征皇室贵胄2,Royal noble,,皇室贵胄
+TraitName_伙伴特征扬名立万,Storyteller,,扬名立万
+TraitName_伙伴特征去伪存真,Verification,,去伪存真
+TraitName_伙伴特征一目十行,Fast reader,,一目十行
+TraitName_伙伴特征势如破竹,Unrelenting attack,,势如破竹
+TraitName_伙伴特征荒蛮狼性,Wild instinct,,荒蛮狼性
+TraitName_伙伴特征燕军元帅,Yan Army commander,,燕军元帅
+TraitName_伙伴特征扇里藏针,Hidden needle,,扇里藏针
+TraitName_伙伴特征聚沙成塔,Power of unity,,聚沙成塔
+TraitName_伙伴特征力破千钧,Heroic vigor,,力破千钧
+TraitName_伙伴特征一触即发,Nerve-racking,,一触即发
+TraitName_伙伴特征天煞孤星,Lone wanderer,,天煞孤星
+TraitName_伙伴特征催心夺魄,Soul attacker,,催心夺魄
+TraitName_伙伴特征罡气护体,Protective Qi,,罡气护体
+TraitName_伙伴特征追命阎罗,Death master,,追命阎罗
+TraitName_伙伴特征移花接木,Spirit transfer,,移花接木
+TraitName_伙伴特征宠妹狂人,Sister complex,,宠妹狂人
+TraitName_伙伴特征生无可恋,Suicidal rage,,生无可恋
+TraitName_伙伴特征书狂画痴,Art lover,,书狂画痴
+TraitName_伙伴特征银钩铁画,Pen of steel,,银钩铁画
+TraitName_伙伴特征画痴书狂,Book lover,,画痴书狂
+TraitName_伙伴特征妙笔生花,Colorful pen,,妙笔生花
+TraitName_伙伴特征天生媚骨,Born charming,,天生媚骨
+TraitName_伙伴特征怜香惜玉,Cherish beauty,,怜香惜玉
+TraitName_伙伴特征裙下之臣,Servant under the skirt,,裙下之臣
+TraitName_伙伴特征不让须眉,Brave and fearless,,不让须眉
+TraitName_伙伴特征厚积薄发,Accumulate slowly and strike swiftly,,厚积薄发
+TraitName_伙伴特征血战不退,Fight to the death,,血战不退
+TraitName_伙伴特征品萧弄笛,Play the flute,,品萧弄笛
+TraitName_伙伴特征风情万种,Full of charm,,风情万种
+TraitName_伙伴特征生财有道,Know how to make money,,生财有道
+TraitName_伙伴特征燕国郡主,Lady of Yan Kingdom,,燕国郡主
+TraitName_伙伴特征杀伐果决,Decisive in killing,,杀伐果决
+TraitName_伙伴特征杀敌立威,Gain reputation through killing enemies,,杀敌立威
+TraitName_伙伴特征窈窕淑女,Gentle and graceful lady,,窈窕淑女
+TraitName_伙伴特征花中魁首,Leader among flowers,,花中魁首
+TraitName_伙伴特征断情绝欲,Cut off all desires,,断情绝欲
+TraitName_伙伴特征天籁妙音,Heavenly music,,天籁妙音
+TraitName_伙伴特征此恨绵绵,Endless regret,,此恨绵绵
+TraitName_伙伴特征绝代风华,Peerless Elegance,,绝代风华
+TraitName_伙伴特征听声辩位,Identify location by sound,,听声辩位
+TraitName_伙伴特征以小博大,Achieve big with small,,以小博大
+TraitName_伙伴特征输赢天定,"Win or lose, it's fate",,输赢天定
+TraitName_伙伴特征九黎之主,Lord of Jiuli,,九黎之主
+TraitName_伙伴特征养蛊为患,Raising gu causes trouble,,养蛊为患
+TraitName_伙伴特征精研毒术,Deep study of Toxicology,,精研毒术
+TraitName_伙伴特征酒酣尽兴,Enjoying the wine,,酒酣尽兴
+TraitName_伙伴特征战意盎然,Spirit is abundant,,战意盎然
+TraitName_伙伴特征古之恶来,Evil comes from the ancient times,,古之恶来
+TraitName_伙伴特征目盲耳聪,"Blind in sight, sharp in hearing",,目盲耳聪
+,,,

@@ -1,0 +1,1573 @@
+﻿﻿Talking_dating,Inquire
+Talking_cup,Wine glass
+Talking_trouble,Tricky
+Talking_ambition,Ambition
+Talking_freesleep,Free
+Talking_qiecuo,Spar
+Talking_treasure,Present treasure
+Talking_fan,Cattail fan
+Talking_leavecity,Leave the city
+Talking_serve,Serve
+Talking_map,Map
+M1101-2-1_talk,Jade pendant
+R10003-2_talk,Delicacy
+Talking_20004-4,Wish
+Talking_20006-3,Worry
+Talking_auction,Auction
+Talking_hero,Sign up
+Talking_train,Training
+Talking_trainee,Apprentice
+Talking_coach,Horse carriage
+Talking_Yang,Remnant
+Talking_Talk,Chat
+Talking_Makemoney,Make money
+Talking_Marry,Propose
+Talking_Salary,Salary
+Talking_Promotion,Promotion
+Talking_work,Task
+Talking_kitchenknife,Kitchen knife
+Talking_Breakarray,Break through the formation
+Talking_recommend,Recommendation
+Talking_ring,Arena
+Talking_zhaoqin,Propose marriage
+Talking_Destory,Siege
+Talking_Needhelp,Ask for help
+Talking_Marryinto,Marry into
+Talking_Letters,Letter
+Talking_Ask,Inquire
+Talking_Dowry,Dowry
+Talking_Crucible,Practice
+Talking_Answer,Answer questions
+Talking_Test1,Court exam
+Talking_Test2,County exam
+Talking_Test3,Provincial exam
+Talking_Assost,Flirt
+Talking_Negotiate,Negotiate
+Talking_Contribution,Donate
+Talking_Test,Test
+Talking_Fojing,Buddhist scripture
+Talking_Mail,Deliver letter
+Talking_Pry,Spy
+Talking_Minor,Small competition
+Talking_Across,Pass
+Talking_Beads,Prayer beads
+Talking_Eliminate,Clear out
+Talking_Assassinate,Assassinate
+Talking_Opponent,Nemesis
+Talking_Chuzheng,Expedition
+Talking_Duanwu,Dragon Boat Festival
+Talking_Exam,Compare
+Talking_Army,Join the army
+Talking_Book,Receive book
+Talking_EliminateBandits,Pacify rebels
+Talking_Convert,Accept surrender
+Talking_WolfSkin,Wolf skin
+Talking_SoldierPay,Military pay
+Talking_ChickenPlay,Cockfight
+Talking_Disabuse,Solve doubts
+Talking_Poem,Match poems
+Talking_Mission,Mission
+Talking_Rich,Get rich
+Talking_Meet,Pay a visit
+Talking_Livinglong,Longevity
+Talking_Heal,Heal
+Talking_SecretScript,Manual
+Talking_Boat,Take a boat
+Talking_Surrender,Surrender
+Talking_Edict,Handwritten order
+Talking_Qin,Play the zither
+Talking_Sacrifice,Sacrifice
+Talking_Testgu,Test the poison
+Talking_Flute,Play the flute
+Talking_Securegu,Cure the poison
+Talking_Disease,Hidden disease
+Talking_SpringWater,Spring water
+Role1-1_npcname1,Man in black
+Role1-1_npcname2,Handsome constable
+Role1-1_npcname3,Handsome Crime Investigation Bureau disciple
+Role1-1_npcname4,Nest of Swallow disciple
+Role3-7_npcname1,Chuxiang City soldier
+Role1-1option1_dialog,(How should I treat this constable?)
+Role1-1option2_dialog,(How should I treat this masked woman?)
+Role1-1option1_1,Tie him up first!
+Role1-1option1_2,"To be safe, cut the grass and remove the roots."
+Role1-1option1_3,<color=#0574a8>Help him stand up</color>.
+Role1-1option1_4,<color=#0574a8>Untie him and help him stand up</color>.
+Role1-1option1_5,Let's wait and see.
+Role1-1option1_6,<color=#0574a8>Untie her and help her stand up</color>.
+Role1-1option1_7,Tie her up first!
+Role1-1option1_8,<color=#0574a8>Help her stand up</color>.
+Role1-1option1_9,<color=#0574a8>Untie her and help her stand up</color>.
+Role1-1option2_1,"Alright, let's do as you say."
+Role1-1option2_2,Reject this suggestion.
+Role1-1option2_3,I'll help you run away from here.
+Role1-1option2_4,"Excuse me, Run away."
+Role1-1option2_5,"Alright, let's take her away."
+Role1-1option3_1,Just pay a visit.<color=#097a76>(1 quarter)</color>
+Role1-1option3_2,Forget it.
+Role1-2option1_dialog,"Could it be the plot where a mysterious master teaches a unique martial art?\nUnfortunately, I can only choose one. Which one should I choose?"
+Role1-2option1_1,"<color=#097a76>""Armor Breaker Move""</color> Manual. (Yang-style internal strength, increases damage)"
+Role1-2option1_2,"<color=#097a76>""Wave Rider Technique""</color> Manual. (Yin-style internal strength, increases speed)"
+Role1-2option1_3,"<color=#097a76>""Revitalization Technique""</color> Manual. (Balanced internal strength, recovers HP)"
+Role1-2option1_4,It's more appropriate to take all the money on you.
+Role1-2option1_5,It's more appropriate to share half of the credit for capturing the female thief.
+Role1-2option2_1,Untie her and let her go.
+Role1-2option2_2,Untie her and let her go.
+Role1-2option2_3,Quietly run away.
+Role1-3name,The first night in the martial world
+Role1-3overview1,"Rest in the Ruined Shrine for three shichen, waiting for Luo Qianxue to heal."
+Role1-3overview2,"Rest in the Ruined Shrine for three shichen, waiting for Hua Qingqing to heal."
+Role1-3-3option1_1,Help her untie the rope.
+Role1-3-3option1_2,"Be thorough in your actions, leave no survivors."
+Role1-3-3option1_3,Think again about what to do.
+Role1-3-3option1_4,Help her untie the rope.
+Role1-4name,Forage in the forest
+Role1-4-1name,Forage to stave off hunger
+Role1-4overview1,Hunt some Wild game in the Lost Forest to stave off hunger.
+Role1-4overview2,Collect 5 <color=#c44b0e>berries</color>.
+Role1-4overview3,Bring the 5 berries you picked back to the Ruined Shrine.
+Role1-4overview4,Bring the Snake meat you got back to the Ruined Shrine.
+Role1-4option1_dialog,Let me see what you've gained from this trip.
+Role1-4option1_1,Hand over 5 berries.<color=#097a76>(5 bunches of berries)</color>
+Role1-4option1_2,Hand over 1 piece of Snake meat.<color=#097a76>(1 portion of Snake meat)</color>
+Role1-4option1_3,Hand over 1 piece of Wild boar meat.<color=#097a76>(1 portion of Wild boar meat)</color>
+Role1-4option1_4,"I'm sorry, I really couldn't find anything edible..."
+Role1-4-1overview1,Find some food in the forest to replenish Stamina.
+Role1-5_option1_dialog,What do you want to know?
+Role1-5-1_option1_1,Inquire about the origin of Nest of Swallow.
+Role1-5-1_option1_2,Ask what can be learned from Nest of Swallow.
+Role1-5-1_option1_3,Agree to join Nest of Swallow.<color=#0574a8>[Join the sect]</color>
+Role1-5-1_option1_4,Don't want to join for now.
+Role1-5-3_option1_1,"Go ahead and make your move!<color=#097a76>(2 ke, Stamina 10, solo fight)</color>"
+Role1-5-3_option1_2,Not ready yet.
+Role1-6name,Travel to Nameless village
+Role1-6overview1,"Go to Nameless village, where you might be able to <color=#c44b0e>inquire</color> about how to run away from this place."
+Role1-6overview2,"If you want to go to other places, first settle in Nameless village and wait for the Horse carriage to arrive."
+Role1-6overview3,"The Horse carriage has arrived at the village entrance, you can set off for other towns if you want."
+Role1-5-2_option1_1,Inquire about the origin of the Crime Investigation Bureau.
+Role1-5-2_option1_2,Ask what can be learned from the Crime Investigation Bureau.
+Role1-5-2_option1_3,Agree to join the Crime Investigation Bureau<color=#0574a8>[Join the sect]</color>
+Role1-5-2_option1_4,Don't want to join for now.
+Role1-6-2_option1_1,Zhongzhou·Daliang City.<color=#097a76>(12 shichen)</color>
+Role1-6-2_option1_2,Wuyue·Lin'an City.<color=#097a76>(12 shichen)</color>
+Role1-6-2_option1_3,Xiangfan·Chuxiang City.<color=#097a76>(12 shichen)</color><color=#0574a8>[Recommended]</color>
+Role1-6-2_option1_4,Don't want to go anywhere for now.
+Role1-6-3_option1_dialog,"Young man, where are you planning to go this time?"
+Role1-6-3_option1_1,"Zhongzhou·Daliang City.<color=#097a76>(500 wen, 12 shichen)</color>"
+Role1-6-3_option1_2,"Wuyue·Lin'an City.<color=#097a76>(500 wen, 12 shichen)</color>"
+Role1-6-3_option1_3,"Xiangfan·Chuxiang City.<color=#097a76>(500 wen, 12 shichen)</color><color=#0574a8>[Recommended]</color>"
+Role1-6-3_option1_5,"Nameless area·Nameless village.<color=#097a76>(500 wen, 12 shichen)</color>"
+Role1-6-2_option2_1,Set off now!
+Role1-6-2_option2_2,Let me think about it.
+Role1-7name,Join a sect
+Role1-7_overview1,"· Pass various stages of tests to gain talents and unique skills.\n· Maintain good relations with senior sect members to request martial arts.\n· Complete sect bulletin board tasks to improve sect relations.\n· Leaving the sect voluntarily will result in punishment, unless you pass the final test perfectly."
+Role1-7-1name,Sect life
+Role1-7-1_overview1,"Train to level <color=#097a76>20</color> in the sect. You can use wooden dummies for training, or spar with training disciples."
+Role1-7-1_overview2,"When sect relations reach <color=#097a76>30</color>, pass the sect test, and the sect leader will teach you the sect's talent."
+Role1-7-1_overview3,"When sect relations reach <color=#097a76>60</color>, pass the sect test, and the sect leader will teach you the sect's unique skill."
+Role1-7-1_overview4,"When the sect leader's relations reach <color=#097a76>80</color>, you can request the sect's most powerful martial arts from him."
+Role1-7-1_overview5,"When sect relations reach <color=#097a76>100</color>, pass the sect test to graduate perfectly and leave the sect."
+Role1-5name,Three-day appointment
+Role1-5overview1,Return to the Ruined shrine to meet Hua Qingqing in three days.
+Role1-5overview2,Return to the Ruined shrine to meet Luo Qianxue in three days.
+Role1-5overview3,"The appointed day has arrived, go to the Ruined shrine to meet Hua Qingqing."
+Role1-5overview4,"The appointed day has arrived, go to the Ruined shrine to meet Luo Qianxue."
+Role1-8name,Life in Jianghu
+Role1-8overview1,Raise your fame to <color=#097a76>Famous</color>.\nComplete bulletin board tasks or tasks commissioned by other characters to gain fame.
+Role1-8overview2,Raise your fame to <color=#097a76>Reputable</color>.\nComplete bulletin board tasks or tasks commissioned by other characters to gain fame.
+Role1-8overview3,Raise your fame to <color=#097a76>Reputable</color> by completing tasks on the town bulletin board.
+Role1-8overview4,Go to the <color=#097a76>Linlang Temple</color> in the Nameless area to choose your future aspirations.
+Role1-9overview1,Become a Jianghu Master!
+Role1-9overview2,Become the strongest person!
+Role1-9overview3,Become a respected hero!
+Role1-9overview4,I haven't decided yet.
+Role1-9-1name,Jianghu Master
+Role1-9-1overview1,"Become the champion of the <color=#097a76>Youth Hero Association</color> in any region, or reach <color=#097a76>Famous</color> fame."
+Role1-9-1overview2,"When relations with any ordinary sect reach 100, complete its related events to get <color=#097a76>1 Earthly Fiend Card</color>."
+Role1-9-1overview3,"When relations with any five ordinary sects reach 100, complete their related events to get <color=#097a76>5 Earthly Fiend Cards</color>."
+Role1-9-1overview4,"When relations with any two major sects reach 100, complete their related events to get <color=#097a76>2 Heaven Spirits Cards</color>."
+Role1-9-1overview5,Sword Test Platform is holding a prestige conference.
+Role1-9-2name,The strongest person
+Role1-9-2overview1,"Become the champion of the <color=#097a76>Youth Hero Association</color> in any region, or reach <color=#097a76>Reputable</color> Fame."
+Role1-9-2overview2,"Participate in the <color=#097a76>Grand Championship</color> of the Youth Hero Association co-hosted by three regions, or reach <color=#097a76>Rising Star</color> Fame."
+Role1-9-2overview3,Challenge and defeat the leaders of any five ordinary sects.
+Role1-9-2overview4,Challenge and defeat the leaders of the four major sects of the Three Religions and Nine Streams.
+Role1-9-2overview5,Participate in the Peak Swordsmanship Conference.
+Role1-9-3name,Great Hero
+Role1-9-3overview1,Reach 100 Relations in any town.
+Role1-9-3overview2,"Reach 100 Relations in Daliang, Lin'an, and Chuxiang."
+Role1-9-3overview3,Clear the Japanese trouble in Lin'an City.
+Role1-9-3overview4,Go north to rescue the emperor.
+Role1-9-3overview5,Relieve the danger of Chuxiang City.
+Role2-1name,Visit the Pacifying Envoy
+Role2-1overview1,Go to <color=#c44b0e>Chuxiang City</color> and deliver the letter to <color=#c44b0e>Pacifying Envoy·Lü Wenhuan</color>.
+Role2-1overview2,"To meet the Pacifying Envoy smoothly, first reach <color=#c44b0e>Close</color> Relations with the housekeeper."
+Role2-1overview3,"To meet Lü Wenhuan, you need to Invite <color=#c44b0e>Lü Zixu</color>, or get the <color=#c44b0e>Luminous cup</color>."
+Role2-1overview4,Deliver the <color=#c44b0e>Luminous cup</color> to the General's mansion.
+Role2-1overview5,Go to the General's mansion with <color=#c44b0e>Lü Zixu</color>.
+Role2-2_option1_1,Ready! <color=#097a76>(Specific battle)</color>
+Role2-2_option1_2,Not ready yet.
+Role2-20_name,Beside the couch
+Role2-20_overview1,Eliminate the Dirty Street forces!
+Role2-20_overview2,Tell Lü Wenhuan that the Dirty Street has been eliminated.
+Role2-21_name,Deliver letter
+Role2-21_option1_1,Absolutely cannot surrender!
+Role2-21_option1_2,Surrender is not necessarily a bad idea.
+Role2-21_overview1,Go to the Palace Camp in Yanguo and deliver the letter to Wan Yan Wuzhu!
+Role2-21_overview2,Tell Lü Wenhuan about Wan Yan Wuzhu's reply.
+Role2-21_overview3,Tell Lü Wenhuan about what happened at the Palace Camp.
+Role2-23_name,Dangerous as a pile of eggs
+Role2-23_overview1,There are <color=#c44b0e>five</color> days left before the Yan army besieges Chuxiang City.
+Role2-23_overview2,There are <color=#c44b0e>four</color> days left before the Yan army besieges Chuxiang City.
+Role2-23_overview3,There are <color=#c44b0e>three</color> days left before the Yan army besieges Chuxiang City.
+Role2-23_overview4,There are <color=#c44b0e>two</color> days left before the Yan army besieges Chuxiang City.
+Role2-23_overview5,There is <color=#c44b0e>one</color> day left before the Yan army besieges Chuxiang City.
+Role2-23_overview6,"Chuxiang City is besieged by the Yan army, and the danger is imminent."
+Role2-30-0_option1_1,Go out of the city to meet the enemy!
+Role2-30-0_option1_2,Just watch the changes.
+Role2-30-1_option1_1,Go to the rescue!
+Role2-30-1_option1_2,Run away in the distance.
+Role2-30-2_option1_1,Go outside the city to defeat the Yan army!
+Role2-30-2_option1_2,Run away in the distance.
+Role2-31-2_option1_1,Join Yan country and pledge loyalty to Wan Yan Wuzhu!
+Role2-31-2_option1_2,"Refuse to be wooed, swear to death not to surrender! <color=#c44b0e>(Start the war directly)</color>"
+Role3-1_option1_1,Discipline the soldiers of the General's mansion.<color=#c44b0e>(Specific battle)</color>
+Role3-1_option1_2,Just watch the changes.
+Role3-2_NPCname,Soldiers
+Role3-2_option1_1,"Join the Ye Family Battalion, swear allegiance to the death!"
+Role3-2_option1_2,Let me think about it.
+Role3-4_name,Ye Family Battalion training
+Role3-4_overview1,Martial arts Formation Breaker Spear reaches the sixth level or personal strength reaches level 25.
+Role3-4_overview2,Pass the assessment of the main general of the Beiwei Army.
+Role3-4_option1_1,Ready! <color=#097a76>(Specific battle)</color>
+Role3-4_option1_2,Not ready yet.
+Role3-5_name,Camp competition
+Role3-5_overview1,Find the main general of the Beiwei Army to sign up for the camp competition.
+Role3-5_option1_1,Ready!
+Role3-5_option1_2,Not ready yet.
+Role3-6_option1_1,Keep moving!
+Role3-6_option1_2,Stop moving.
+Role3-7_option1_1,"New recruits' single combat training.<color=#097a76>(Stamina10, 2 quarters, solo fight)</color>"
+Role3-7_option1_2,"Team combat training.<color=#097a76>(Stamina10, 2 quarters, specific battle, only the protagonist fights)</color>"
+Role3-7_option1_3,"Large team combat training.<color=#097a76>(Stamina10, 2 quarters, specific battle, only the protagonist fights)</color>"
+Role3-7_option1_4,"One against a thousand combat training.<color=#097a76>(Stamina10, 2 quarters, specific battle, only the protagonist fights)</color>"
+Role3-7_option1_5,Not ready yet.
+Role3-7-1_option1_1,"One against three combat training.<color=#097a76>(Stamina10, 2 quarters, specific battle, only the protagonist fights)</color>"
+Role3-7-1_option1_2,"One against ten combat training.<color=#097a76>(Stamina10, 2 quarters, specific battle, only the protagonist fights)</color>"
+Role3-7-1_option1_3,"Accept all challengers!<color=#097a76>(Stamina10, 2 quarters, specific battle, only the protagonist fights)</color>"
+Role3-8name,Pacify Xiangfan
+Role3-8_overview1,Eliminate the three bandit forces in Xiangfan.
+Role3-8_overview2,Return to the Ye Family Battalion camp to report.
+Role3-9name,Recruit Blue Wind Camp
+Role3-9overview1,Go to Blue Wind Camp to recruit Kong Dangjia.
+Role3-9overview2,Return to the Ye Family Battalion camp to report.
+Role3-9overview3,Find Kong Yidao's acquaintances to help persuade.
+Role3-9_option1_1,Blue Wind Camp has been eliminated.
+Role3-9_option1_2,Abandon this task.
+Role3-9_option1_3,Not planning to give up.
+Role3-10name,Recruit Nest of Swallow
+Role3-10overview1,Go to Nest of Swallow to recruit Bu Juechen.
+Role3-10overview2,Return to the Ye Family Battalion camp to report.
+Role3-10_option1_1,Choose 100 guan money.<color=#097a76>(100 guan)</color>
+Role3-10_option1_2,Choose Lunar stone.<color=#097a76>(1 Lunar stone)</color>
+Role3-10_option1_3,Choose to eliminate Crime Investigation Bureau.<color=#097a76>(Eliminate Crime Investigation Bureau)</color>
+Role3-10_option1_4,"Teach the skill of Steal.<color=#097a76>(Stamina50, 1 shichen)</color>"
+Role3-10_option1_5,Let me think about it.
+Role3-10_option2_1,Bu Juechen is dead.
+Role3-10_option2_2,Abandon this task.
+Role3-10_option2_3,Not planning to give up.
+R10059-4_option1_1,Pay <color=#c44b0e>20 liang Scrap silver</color>.<color=#097a76>(20 liang Scrap silver)</color>
+R10059-4_option1_2,"Pay <color=#c44b0e>10 taels of Scrap silver</color>.<color=#097a76>(Scrap silver 10 taels, Persuade level 3 Advance)</color>"
+R10059-4_option1_3,Challenge <color=#c44b0e>Group Dog Bite Elephant Formation</color>.<color=#097a76>(Specific battle)</color>
+R10059-4_option1_4,Excuse oneself and run away
+Role3-11name,Kill wolves for their skins.
+Role3-11overview1,Head to Wild Wolf Valley and collect 10 Wolf skins.
+Role3-11overview2,Return to Ye Family Battalion camp and hand over the Wolf skins to the soldier at the Armory gate.
+Role3-11overview3,"If you have spare time, you can help the soldiers collect Wolf skins."
+Role3-11_option1_1,Agree to help.
+Role3-11_option1_2,Not free for now.
+Role3-12_name,Marshal summons
+Role3-12_overview1,Marshal Ye has something to find you.
+Role3-14_option1_1,Suggest supporting Kang Wang.
+Role3-14_option1_2,Disagree with supporting Kang Wang.
+Role3-15_name,Kang Wang's command
+Role3-15_overview1,"Kang Wang's command will be delivered in <color=#c44b0e>five days</color>, wait patiently for the news during this period."
+Role3-15_overview2,Kang Wang's command will be delivered in <color=#c44b0e>four days</color>.
+Role3-15_overview3,Kang Wang's command will be delivered in <color=#c44b0e>three days</color>.
+Role3-15_overview4,Kang Wang's command will be delivered in <color=#c44b0e>two days</color>.
+Role3-15_overview5,Kang Wang's command will be delivered <color=#c44b0e>tomorrow</color>.
+Role3-15_overview6,"Kang Wang's command should have arrived, go to the wilderness to find the Ye Family Battalion soldier for the connection."
+Role3-15_overview7,Return to Ye Family Battalion camp to accept the mission.
+Role3-15_overview8,Go to Chuxiang City General's mansion to persuade Lü Wenhuan to join Kang Wang.
+Role3-15_overview9,Report the result to Kang Wang or Ye Pengju.
+Role3-15_overview10,Report the result to Ye Pengju.
+Role3-16_name,Ask for military pay
+Role3-16_overview1,Return to Ye Family Battalion camp to accept the mission.
+Role3-16_overview2,"Go to Daliang City, have a secret meeting with <color=#c44b0e>Qi Wang</color> at Duke Ji's manor."
+Role3-16_overview3,"Use the ""sneak"" method to distract the guards and sneak into Duke Ji's manor."
+Role3-16_overview4,Give the military pay to Kang Wang or Ye Pengju.
+Role3-16_overview5,Give the military pay to Ye Pengju.
+Role3-17_name,Save the king
+Role3-17_overview1,Return to Ye Family Battalion camp to accept the mission.
+Role3-17_overview2,Go to Palace Camp to rescue Xuan He Emperor.
+Role3-17_overview3,Escape from Palace Camp as soon as possible!
+Role3-17_overview4,Report the result to Ye Pengju.
+Role3-17_option1_1,Enter the secret passage!
+Role3-17_option1_2,Do not enter for now.
+Role3-22_name,The Emperor summons
+Role3-22_overview,Go to the palace to meet the emperor.
+Role3-24_option1_1,"Force your way in, who dares to stop me! <color=#c44b0e>(Specific battle)</color>"
+Role3-24_option1_2,"The Imperial token is here, as if the Emperor is present! <color=#097a76>(Show the Imperial token)</color>"
+Role3-24_option1_3,State your name.
+Role3-24_option1_4,Turn around and run away.
+Role3-26_option1_1,Indeed true!
+Role3-26_option1_2,"Nonsense, pure slander!!"
+Role3-26_option2_1,Step forward to rescue! <color=#c44b0e>(Specific battle)</color>
+Role3-26_option2_2,Stop and do not move forward.
+Role3-26_option2_3,Show the Imperial token! <color=#097a76>(1 Imperial token)</color>
+Role3-26_name,Supreme Court storm
+Role3-26_overview1,Eliminate the Yan Yun Iron Army within <color=#c44b0e>{TagNum:Role3-26十天倒计时}</color> days and rescue Marshal Ye.
+Role3-26_overview2,Eliminate the Yan Yun Iron Army within <color=#c44b0e>9</color> days and rescue Marshal Ye.
+Role3-26_overview3,Eliminate the Yan Yun Iron Army within <color=#c44b0e>8</color> days and rescue Marshal Ye.
+Role3-26_overview4,Eliminate the Yan Yun Iron Army within <color=#c44b0e>7</color> days and rescue Marshal Ye.
+Role3-26_overview5,Eliminate the Yan Yun Iron Army within <color=#c44b0e>6</color> days and rescue Marshal Ye.
+Role3-26_overview6,<color=#c44b0e>5</color> days to eliminate the Yan Yun Iron Army and save Marshal Ye.
+Role3-26_overview7,<color=#c44b0e>4</color> days to eliminate the Yan Yun Iron Army and save Marshal Ye.
+Role3-26_overview8,<color=#c44b0e>3</color> days to eliminate the Yan Yun Iron Army and save Marshal Ye.
+Role3-26_overview9,<color=#c44b0e>2</color> days to eliminate the Yan Yun Iron Army and save Marshal Ye.
+Role3-26_overview10,<color=#c44b0e>1</color> day to eliminate the Yan Yun Iron Army and save Marshal Ye.
+Role3-26_overview11,<color=#c44b0e>{TagNum:Role3-26十天倒计时}</color> days to return to the Supreme Court and rescue Marshal Ye.
+Role3-26_overview12,"The ten-day deadline has passed, hurry back to the Supreme CourtInfo to check on Marshal Ye."
+Role3-26_overview13,<color=#c44b0e>Today is the last day to eliminate the Yan Yun Iron Army and save Marshal Ye.</color>
+M1100-6_option1_dialog,(What do I want to know?)
+M1100-6_option1_1,Tell me about this village and its surroundings.
+M1100-6_option1_2,Who are the important figures in the village?
+M1100-6_option1_3,How can I make money in the village?
+M1100-6_option1_4,Is there any tricky issue that needs to be solved here?
+M1100-6_option1_5,"I'm new to the martial world, any advice?"
+M1100-6_option1_6,Nothing I want to know for now.
+M1100-13name,Tricky issue
+M1100-13overview1,Find a way to deal with the Blue Wind Camp. You can kill Kong Yidao or invite him to join your team.
+M1100-13overview2,"Successfully dealt with Qingfeng Camp, tell Bao Dating about this."
+M1100-26name,The troubles of the Flower Shopkeeper
+M1100-26overview1,Get along well with the Flower Shopkeeper and ask about her troubles.
+M20300-63_option1_dialog,"(Pets are not allowed in Lin'an City, what should I do?)"
+M20300-63_option1_1,"I have some money to show my respect to you two, hope you can make an exception.<color=#097a76>(200 Wen)</color>"
+M20300-63_option1_2,"Brother, considering our relations, can you turn a blind eye to this~<color=#097a76>(Relations reach 60)</color>"
+M20300-63_option1_3,"What kind of stupid rule is this? I'm going in today, dare you stop me?<color=#097a76>(Strength reaches 8)</color>"
+M20300-63_option1_4,There's such a rule... Alright then...
+Role2-4_option1_1,Decide to serve Lü Wenhuan.
+Role2-4_option1_2,Let me think about it.
+Role2-7_name,Task·General's mansion
+Role2-7_overview1,Go to the Grocery store to buy three stones of food.
+Role2-7_overview2,Go to the Blacksmith's forge to buy forty weapons.
+Role2-7_overview3,Choose a shop in Chuxiang City to collect taxes.
+Role2-7_overview4,Drive the troublemakers out of Chuxiang City.
+Role2-7_overview5,Train the Armory guards.
+Role2-7_overview6,Return to the General's mansion to report.
+Role2-7_overview7,"Today's tasks are done, you can find more tasks tomorrow."
+Role2-7_overview8,You can take today's tasks from the appeaser·Lü Wenhuan.
+Role2-7_option1_1,Abandon the task.
+Role2-7_option1_2,Not completed yet.
+Role2-7_option2_1,Buy food.
+Role2-7_option2_2,Buy weapons.
+Role2-7_option2_3,Collect taxes from the shop.
+Role2-7_option2_4,Maintain public order.
+Role2-7_option2_5,Train soldiers.
+Role2-7_option2_6,Choose not to for now.
+Role2-7_option3_1,Spend money to buy food.<color=#097a76>(3600 Wen)</color>
+Role2-7_option3_2,Spend money to buy food.<color=#097a76>(3420 Wen)</color>
+Role2-7_option3_3,Spend money to buy food.<color=#097a76>(3240 Wen)</color>
+Role2-7_option3_4,Spend money to buy food.<color=#097a76>(2880 Wen)</color>
+Role2-7_option3_5,Spend money to buy food.<color=#097a76>(2520 Wen)</color>
+Role2-7_option3_6,Spend money to buy food.<color=#097a76>(2160 Wen)</color>
+Role2-7_option3_7,Buy later.
+Role2-7_option4_1,Help and buy weapons.<color=#097a76>(6000 Wen)</color>
+Role2-7_option4_2,Help and buy weapons.<color=#097a76>(5600 Wen)</color>
+Role2-7_option4_3,Help and buy weapons.<color=#097a76>(5400 Wen)</color>
+Role2-7_option4_4,Help and buy weapons.<color=#097a76>(4800 Wen)</color>
+Role2-7_option4_5,Help and buy weapons.<color=#097a76>(4200 Wen)</color>
+Role2-7_option4_6,Help and buy weapons.<color=#097a76>(3600 Wen)</color>
+Role2-7_option4_7,Buy later.
+Role2-15_option1_1,Absolutely cannot surrender!
+Role2-15_option1_2,Surrender is not necessarily a bad idea.
+M20100-1_option1_1,Buy the map.<color=#097a76>(500 Wen)</color>
+M20100-1_option1_2,"It's too expensive, I can't afford it."
+M20100-4_option1_1,I want to challenge you one-on-one!<color=#097a76>(Main character duel)</color>
+M20100-4_option1_2,I want to compete with you in strength!<color=#097a76>(Strength reaches 6)</color>
+M20100-4_option1_3,I want to compete with you in the skill of Stealing!<color=#097a76>(Steal level 3 Advance)</color>
+M20100-4_option1_4,"If you don't return my things, don't blame me for being ruthless!<color=#097a76>(Start the war directly)</color>"
+M20100-4_option1_5,"You have more people, I admit defeat, goodbye!"
+M20100-4_option2_1,Let's be friends and let this matter go.
+M20100-4_option2_2,"Just compensate me with something, just a token."
+M20100-4_option2_3,"Compensate me with 10 Guan, or this matter is not over!"
+M20100-5_option1_1,"Better to avoid trouble, give him <color=#c44b0e>500 wen</color>.<color=#097a76>(500 wen)</color>"
+M20100-5_option1_2,Refuse to pay and drive him away with harsh words.<color=#097a76>(Persuade level 2 Intermediate)</color>
+M20100-5_option1_3,Pretend not to see.
+M20100-7_option1_1,"Who's afraid of who, if she scams me, I'll scam her back!"
+M20100-7_option1_2,"She's also getting old, just compensate her."
+M20100-7_option1_3,Scare her with a pet!<color=#097a76>(Pet accompanies)</color>
+M20100-7_option1_4,"I happen to know a little about medical, let me check for you.<color=#097a76>(Medical reaches 50)</color>"
+R20025-1_option1_1,"Here's the money, please prepare a room for me.<color=#097a76>(200 Wen)</color>"
+R20025-1_option1_2,Is there a <color=#c44b0e>free</color> place for me to stay for the night?
+R20025-1_option1_3,"The room is too expensive, I insist on staying for free! <color=#097a76>(Solo by the protagonist)</color>"
+R20025-1_option1_4,"It's so expensive, never mind, I won't sleep."
+R20025-2_option1_1,"Let's look around first, I can't always be hungry."
+R20025-2_option1_2,"This is too impolite, let's wait for the shopkeeper to come back."
+R20025-4_option1_dialog,"(Hua Siniang's dowry... I wonder what it is, she's so generous.\nThe price is not small, is this thing really worth it...)"
+R20025-4_option1_1,"I'll buy it, just as you said, 10 taels. <color=#097a76>(10 taels)</color>"
+R20025-4_option1_2,"This thing is worth at most 5 guan.<color=#097a76>(Mercantile level 3 Advance, 5000 wen)</color>"
+R20025-4_option1_3,"You can pawn it, I'm not interested!"
+R20025-4_option1_4,"I don't have enough money right now, let me gather some..."
+R20005-4_overview1,"The Cattail fan of the Village Head of Nameless village is missing, if you have time, help him find it."
+R20005-4_name,Cattail fan of the Village Head
+R20005-4_option1_1,"I can give it to you, but you have to give me 200 wen for my trouble!"
+R20005-4_option1_2,"Here you go, don't lose it again."
+R20005-4_option1_3,Want it? Beg me and I'll give it to you!
+R20005-5_name,The protection of the Village Head
+R20005-5_overview1,The Village Head of Nameless village has something to ask you.
+R20006-1_option1_1,"Yes, I'm here to be an apprentice. <color=#097a76>(Stamina20, 1 shichen)</color>"
+R20006-1_option1_2,"I'm not here to be an apprentice, you've got the wrong person."
+R20006-2_name,Iron Ore shortage
+R20006-2_overview1,Help blacksmith Wang Dachui collect 8 pieces of Iron mine.
+R20006-2_overview2,Give the collected Iron mine to blacksmith Wang Dachui.
+R20006-2_option1_dialog,"(The blacksmith brother asked me to get 5 pieces of Iron Ore in <color=#c44b0e>half a day</color>, should I help?)"
+R20006-2_option1_1,"Okay, I'll go get it for you right away."
+R20006-2_option1_2,I suddenly remembered that I have something to do...
+R20009-1_option（1）_dialog,"Big brother, do you want to play a guessing game?"
+R20009-1_option（2）_dialog,"Why, big brother, are you not convinced?"
+R20009-1_options1_1,Let's get started!
+R20009-1_options1_2,"Forget it, I have something else to do..."
+R20009-1_options1_3,"Sorry, I didn't see clearly, could you say it again?"
+R20009-1_options1_1（1）,Sky
+R20009-1_options1_1（2）,Thunder
+R20009-1_options1_1（3）,Tired
+R20009-1_options1_1（2）（1）,Also
+R20009-1_options1_1（2）（2）,Earth
+R20009-1_options1_1（2）（3）,Soil
+R20009-1_options1_1（2）（1）（1）,Child
+R20009-1_options1_1（2）（1）（2）,Son
+R20009-1_options1_1（2）（1）（3）,Daughter
+R20010-1_name,Hide and Seek
+R20010-1_overview_1,You can go play with Xiao Ya anytime.
+R20010-1_overview_4,Find three children in the village.
+R20010-1_overview_2,Talk to Xiao Ya.
+R20010-1_overview_3,Did not find three children within the time limit.
+R20010-1_npcname_1,Xiao Ya
+R20010-1_npcname_2,Xiao Hua
+R20010-1_npcname_3,Xiao Bao
+R20010-1_option1_1,Let's play on the Horse!
+R20010-1_option1_2,Busy with something.
+R20022-1_option1_1,"Listening to the medical knowledge with respect. <color=#097a76>(Stamina20, 1 shichen)</color>"
+R20022-1_option1_2,"I'm more interested in your Herbs. <color=#097a76>(Stamina20, 1 shichen)</color>"
+R20022-1_option1_3,"Excuse me, Run away."
+R20022-4_option1_1,Agree to let the old man stay here to study medicine.
+R20022-4_option1_2,Disagree with the old man staying.
+R10003-1_name,Village Beggar
+R10003-1_overview1,Find the dirty little beggar in the village and get back the money he stole.
+R10003-1_option1_dialog,"Sir, where did you bump into, we have our own plaster, if you don't mind, please accept it.\nIt's a bit dirty, but it's definitely useful for reducing swelling and relieving pain!"
+R10003-1_option1_1,"Okay, then I'll take this plaster."
+R10003-1_option1_2,"You want to send me away with a plaster, are you treating me like a beggar?"
+R10003-1_option1_3,"Forget it, I won't stoop to your level."
+R10003-1_option2_dialog,(It seems he won't admit it unless I show him some colors!)
+R10003-1_option2_1,I'll beat you up to see if you'll behave! <color=#097a76>(Solo fight by protagonist)</color>
+R10003-1_option2_2,"Maybe I was wrong, I'll look again."
+R10003-1_option3_dialog,"(This kid finally admitted it, so...)"
+R10003-1_option3_1,Give me back my money and I won't hit you!
+R10003-1_option3_2,"Forget it, keep the money."
+R10003-1_option4_dialog,(It seems he won't admit it unless I show him some colors!)
+R10003-1_option4_1,I'll beat you up to see if you'll behave! <color=#097a76>(Solo fight by protagonist)</color>
+R10003-1_option4_2,"Maybe I was wrong, I'll look again."
+R10003-1_name_1,Dirty little beggar
+R20001-3_name,Hunter's request
+R20001-3_talk,Bow repair
+R20001-3_overview1,The hunter needs your help.
+R20001-3_overview2,Find a blacksmith to repair the hunting bow.
+R20001-3_overview3,Meet the blacksmith's requirements and find a way to get Dog meat.
+R20001-3_overview4,Give the Dog meat to the blacksmith.
+R20001-3_overview5,Return the Steel bow to the hunter.
+R20001-3_overview6,"Give the ""Dog meat"" to the blacksmith."
+R20001-3option1_1,"No problem, I'll deliver it right away."
+R20001-3option1_2,I don't have time.
+R20001-3option2_1,There's only one dog in the village...<color=#c44b0e>(Direct combat)</color>
+R20001-3option2_2,"This is Brother Liu's pet dog, better not to harm it."
+R20001-4_name,Hunter's past
+R20001-4_talk,Story
+R20001-4_overview1,"The hunter's Alcoholic is acting up, some Sweet potato wine can help him recall the past."
+R20001-4option1_1,This bottle of <color=#c44b0e>Sweet potato wine</color> is for you.<color=#097a76>(Sweet potato wine 1 jar)</color>
+R20001-4option1_1_1,These 3 bottles of <color=#c44b0e>Sweet potato wine</color> are for you.<color=#097a76>(Sweet potato wine 3 jars)</color>
+R20001-4option1_2,"Don't get me wrong, I have nothing to give you."
+R20001-4option2_1,"Just like now, a hunter who hunts for a living."
+R20001-4option2_2,A scholar who later abandoned literature to learn martial arts.
+R20001-4option2_3,A soldier who hides his identity here.
+R20001-4option2_4,A freeloader who was driven out by his wife.
+R20001-4option3_1,Are there no descendants of the Yang family?
+R20001-4option3_2,Is General Yang's martial arts lost now?
+R20001-4option3_3,Did General Yang leave any relics?
+R20002-1_option1_dialog,"There's a Woodcutter ahead being attacked by poisonous snakes, it doesn't look good.\nShould I go and help?"
+R20002-1_option1_1,Help out!<color=#c44b0e>(Specific battle)</color>
+R20002-1_option1_2,Don't want to meddle in other's business.
+M1101-1_talking,Accommodation
+M1101-1_option1_dialog,Should I stay at the inn?
+M1101-1_option1_1,I want to stay.<color=#097a76>(200 coins)</color>
+M1101-1_option1_2,I want to stay.<color=#097a76>(500 coins)</color>
+M1101-1_option1_3,I want to stay.
+M1101-1_option1_4,Let me think about it...
+M1101-2_varname,A weary girl
+M1101-2_name,Ye Yinping dines and dashes
+M1101-2option_1_dialogue,"(But it seems she can't avoid the same fate as me, should I help her?)"
+M1101-2option_1_1,I'll pay for her.<color=#097a76>(500 coins)</color>
+M1101-2option_1_2,"I don't have enough money, I really can't help..."
+M1101-2-1_name,Jade pendant
+M1101-2-1option_1_dialogue,"(Five Guan is 5000 coins, this is not a small amount, should I buy this jade pendant?)"
+M1101-2-1option_1_1,"Bite the bullet, I'll buy this <color=#c44b0e>Lotus gem jade pendant</color>!<color=#097a76>(5000 coins)</color>"
+M1101-2-1option_1_2,"Too expensive, can't afford to buy."
+M1101-3_name,Provocative diner
+M1101-3option1_1,I'll cook to satisfy the boss~<color=#097a76>(Cooking level 1 Beginner)</color>
+M1101-3option1_2,"Master Pang, here's 500 wen to appease your anger!<color=#097a76>(500 wen)</color>"
+M1101-3option1_3,No need to reason with troublemakers!<color=#097a76>(Specific battle)</color>
+M1101-3option1_4,"This has nothing to do with me, I'll step aside for now."
+M1101-4_name,Stay overnight at the inn
+M1101-4option1_1,"I'll let you have the room, I'll find somewhere else to rest."
+M1101-4option1_2,"First come, first served, I'm not in the habit of giving way."
+M1101-4_npcname1,Heroic lady
+M1100-2_npcname1,Jianghu person A
+M1100-2_npcname2,Jianghu person B
+M1600-1_npcname1,Audience
+M1600-1_npcname2,Zhao Kingdom soldier
+M1600-1_npcname3,Bandit leader
+M1600-1option1_dialog,"(These guys look tough, how would those great heroes handle this situation?)"
+M1600-1option1_1,"(Act pitiful, they won't have the heart to bully me.)"
+M1600-1option1_2,"(Show admiration, they won't give me a hard time when they're happy.)"
+M1600-1option1_3,"(Don't show weakness, act tough and they'll be scared off.)"
+M1600-1option1_4,"(Stay silent, if I'm not noticed, I won't get into trouble.)"
+M1600-1option1_5,(Slip away quietly when no one is looking.)
+M1600-1option2_dialog,How should these bandits be dealt with?
+M1600-1option2_1,"Cut the weeds and dig up the roots, so they won't do harm again."
+M1600-1option2_2,"Send them to the government, I believe the government will make a fair judgement."
+M1600-1option2_3,"Let these people go, hoping they can turn over a new leaf."
+M1600-1option2_4,"Demand a ransom, give them a chance to redeem themselves."
+M1600-3option1_1,Go to Info.<color=#097a76>(1 ke)</color>
+M1600-3option1_2,Go another time.
+M1600-3option1_3,Go to Ferry.<color=#097a76>(1 ke)</color>
+M1600-4option1_1,Go to Info.<color=#097a76>(1 shichen)</color>
+M1600-4option1_2,Go to West Pass.<color=#097a76>(1 shichen)</color>
+A15003-1_overview,Subdue the Wild Boar King - Gang Lie in Lost Forest.
+A15003-1_name,Subdue Gang Lie
+A15003-1_option1_1_dialog,"This wild boar seems to be the leader of the pack, it looks quite temperamental. How should I subdue it?"
+A15003-1_option1_1,Use a bunch of berries to soothe its mood<color=#097a76>(Small berries 10 bunches)</color>
+A15003-1_option1_2,Teach it a lesson!<color=#097a76>(Specific battle)</color>
+A15003-1_option1_3,The best strategy is to retreat!
+A15002-1_name,Subdue Chi Jing
+A15002-1_option1_1_dialog,"This brown bear has red eyes, it seems to be a special breed. It seems very angry at me, a stranger. How should I subdue it?"
+A15002-1_option1_1,Communicate with it in beast language!<color=#097a76>(Beast Taming level 2 Intermediate)</color>
+A15002-1_option1_2,Provoke this red-eyed brown bear<color=#097a76>(Protagonist solo)</color>
+A15002-1_option1_3,The best strategy is to retreat!
+A15001-1_name,Subdue Xiao Yue
+A15001-1_option1_1_dialog,"This creature with silver-white fur looks tough to deal with, what should I do to subdue it?"
+A15001-1_option1_1,Tame it with Beast Taming skills!<color=#097a76>(Beast Taming level 1 Beginner)</color>
+A15001-1_option1_2,Teach this white wolf a lesson!<color=#097a76>(Protagonist solo fight)</color>
+A15001-1_option1_3,The best strategy is to retreat!
+A15007-1_option1_1,Teach the white ape a lesson!<color=#097a76>(Protagonist solo)</color>
+A15007-1_option1_2,The best strategy is to retreat!
+A15007-1_option2_1,Subdue the white ape with force!<color=#097a76>(Protagonist solo)</color>
+A15007-1_option2_2,The best strategy is to retreat!
+A15008-1_option1_1,Feed Mushroom bun.<color=#097a76>(Mushroom bun 5 portions)</color>
+A15008-1_option1_2,Talk about it later.
+A15008-2_option1_1,"Preach to the monkey.<color=#097a76>(Buddhist comprehension 50, currently {TagNum:佛法感悟}, one shichen)</color>"
+A15008-2_option1_2,Talk about it later.
+A15008-3_option1_1,Fight with the monkey.<color=#097a76>(Solo fight)</color>
+A15008-3_option1_2,Talk about it later.
+A15008-5_option1_1,Ask it to help copy.<color=#097a76>(2 shichen)</color>
+A15008-5_option1_2,Do it yourself!
+Pick-1_option1_1,"Start digging!<color=#097a76>(Iron shovel 1 piece, 4 ke)</color>"
+Pick-1_option1_2,Give up for now.
+Pick-1_option1_3,"Start digging!<color=#097a76>(Iron shovel 1 piece, 1 shichen)</color>"
+M20328-2_option1_1,"Since I'm here, how can I leave without a taste of your charm? <color=#c44b0e>(Start the fight)</color>"
+M20328-2_option1_2,"I apologize for my rudeness, I'll run away now."
+M20328-2_option2_dialog,"{PlayerSurName} Sir, I have prepared a question for you. Would you like to try it?"
+M20328-2_option2_1,"Please, Miss Qincheng, ask your question. <color=#097a76>(1 shichen)</color>"
+M20328-2_option2_2,I didn't come here to answer questions!
+R20025-5_name,Shadow outside the window
+R20025-5_overview1,"From Zi Shi to Chou Shi, go to the Nameless village inn to help Hua Siniang deal with the shadow."
+R20025-5_overview2,It's time to go to the Nameless village inn to help Hua Siniang deal with the shadow.
+R20025-5_Npcname,Stranger's voice
+R20025-8_name,Chasing the killer·Part 1
+R20025-8_overview1,"Find out who hired the assassin to kill Hua Siniang, first go to the town inn to find out how to find the <color=#c44b0e>Black Robe Group</color>."
+R20025-8_option1_1,Give him 2 liang of Scrap silver. <color=#097a76>(2 liang of Scrap silver)</color>
+R20025-8_option1_2,"Considering our Relations, talking about money is too much. <color=#097a76>(Relations reach 40)</color>"
+R20025-8_option1_3,Find another way.
+R20025-8_option2_1,Give him 10 liang of Scrap silver. <color=#097a76>(10 liang of Scrap silver)</color>
+R20025-8_option2_2,"We're both in the jianghu, can you do me a favor?"
+R20025-9_name,Chasing the killer·Part 2
+R20025-9_overview1,Go to the Black Robe Group headquarters in Daliang City (Zhangyue Casino).
+R20025-9_option1_1,Challenge ten of you! <color=#097a76>(Specific battle)</color>
+R20025-9_option1_2,Win all your money!
+R20025-9_option1_3,I need to think about it.
+R20025-10_name,Chasing the killer·Part 3
+R20025-10_overview1,"Go to Duke Kang's manor in Lin'an City, confront the chief clerk."
+R20025-10_option1_1,"Inform Kang Wang, let Kang Wang decide."
+R20025-10_option1_2,Let Hua Siniang do it herself.
+R20025-10_option1_3,Spare his life...
+R20025-11_option1_1,Place the <color=#c44b0e>Wedding Stone</color>. <color=#097a76>(1 Wedding Stone)</color>
+R20025-11_option1_2,"I was too impulsive just now, I regret it."
+R20004-4_name,Bao Dating's wish
+R20004-4_overview1,Help Bao Dating find a piece of jewelry exclusive to Hua Siniang.
+R20004-4_option1_1,"Alright, for the sake of our Relations, I'll help you."
+R20004-4_option1_2,You should do this yourself.
+R20004-4_option2_1,"Great, let's wander the jianghu together."
+R20004-4_option2_2,I think... it's a bit inconvenient...
+R20006-3_name,Blacksmith's debt
+R20006-3_overview1,"Blacksmith·Wang Dachui owes the innkeeper Hua Siniang 2000 wen, and is worried because he can't pay it back."
+R20006-3_option1_1,Help Blacksmith·Wang Dachui pay off his debt. <color=#097a76>(2000 wen)</color>
+R20006-3_option1_2,Let me think about it.
+R20022-2_name,Doctor's wish
+R20022-2_overview1,Help Doctor·Baitouweng find Lingzhi in Lost Forest.
+R20022-2_option1_1,"Alright, I'll help you find Lingzhi."
+R20022-2_option1_2,"I'm too busy recently, I really don't have any free time."
+R20022-2_option2_1,"Then I'll leave everything to you, senior."
+R20022-2_option2_2,"Thank you for your kindness, senior, but I still want to wander the jianghu alone."
+R10003-2_name,Hong Xiaoqi's request
+R10003-2_overview1,"Go to the shop of the flower shopkeeper to buy Homemade tofu, Braised chicken, Fresh fish soup."
+R10003-2_overview2,Deliver the purchased dishes to Hong Xiaoqi.
+R10003-2_option1,"How can the boss's cooking skills compare with mine!<color=#097a76>(Cooking level 1 Beginner, 4 ke)</color>"
+R10003-2_option2,I'll treat you to a meal.
+R10003-2_option3,(PierceHong Xiaoqi silently runs away.)
+R10003-2option1_dialog,"(This guy is drooling with hunger, how should I respond?)"
+R10003-5_option1_1,Donate 10 Wen. <color=#097a76>(10 Wen)</color>
+R10003-5_option1_2,Donate 100 Wen. <color=#097a76>(100 Wen)</color>
+R10003-5_option1_3,Donate 1000 Wen. <color=#097a76>(1000 Wen)</color>
+R10003-5_option1_4,Turn around and run away.
+R20001-5_name,Old illness
+R20001-5_overview1,The old disease on Hunter·Liu Shiba needs <color=#c44b0e>Lingzhi</color> as the main medicine to be cured. But where can I find this Lingzhi?
+R10059-1_name,Mangy dog
+R10059-1_overview1,Go to Chuxiang City Prison to inquire about the case.
+R10059-1_overview2,"Try to pay the ransom, or go to Ding's house to find out the situation.\nOr..."
+R10059-1_overview3,Go to Prison to redeem people.
+R10059-1_overview4,Let Er Mazi run away from Chuxiang City.
+R10059-1_overview5,Find a way to rescue Er Mazi.
+R10059-1_overview6,Tell Er Mazi about Miss Ding's idea.
+R10059-1_overview7,Tell Ding about Er Mazi running away from Chuxiang City.
+R10059-1_overview8,Tell Miss Ding about Er Mazi running away from Chuxiang City.
+R10059-1_overview9,Inform Jiang Nanguai that the matter has been resolved.
+R10059-1_option1_1,"Here is the ransom, for you. <color=#097a76>(5000 Wen)</color>"
+R10059-1_option1_2,"It's expensive, let me think about it."
+R10059-1_option2_1,Agree to Mr. Ding's request.
+R10059-1_option2_2,Refuse Mr. Ding's request.
+R10059-1_option3_1,"It's the ransom paid by Mr. Ding, he wants you to run away from Chuxiang City forever."
+R10059-1_option3_2,"Actually Miss Ding, she..."
+R10059-1_option3_3,"I saved you, you should show some gratitude, right?"
+R10059-1_option3_4,"No problem, just checking on you."
+R10059-1_option4_1,"Old man, the matter is done."
+R10059-1_option4_2,"It's not done yet, old man, please wait."
+R10005-1_option1_1,Give her a big scare!
+R10005-1_option1_2,Join the crowd.
+R10005-1_option1_3,Drive her away!<color=#097a76>(Solo fight)</color>
+R10005-1_option1_4,"Forget it, it's none of my business."
+R10005-1_NPCname1,Childish female voice
+R10005-1_NPCname2,Little girl
+R10005-4_option1_1,Help Caidie test the poison.
+R10005-4_option1_2,Refuse to help.
+R10005-6_option1_1,Exorcise the blood poison!
+R10005-6_option1_2,Keep it for a lifetime.
+R10005-10_option1_1,"I swear, I truly like you."
+R10005-10_option1_2,I just treat you as my sister...
+R10048-0_name,Fu Bu Bingwei's challenge
+R10048-0_overview,Fu Bu Bingwei challenges you to a duel at the Ruined Shrine in Lin'an City!
+R10048-0_option1_1,Accept the challenge! <color=#c44b0e>(Protagonist's solo fight)</color>
+R10048-0_option1_2,Fight another day.
+R10048-2_option1_dialog,"He is more powerful than when we first met, should I stop him?"
+R10048-2_option1_1,Stop Fu Bu Bingwei from being violent! <color=#097a76>(Protagonist's solo fight)</color>
+R10048-2_option1_2,"You uncivilized, everyone has the right to punish you! <color=#097a76>(Specific battle)</color>"
+R10048-2_option1_3,Just watch the changes.
+R10048-3_option1_1,Fight for the innkeeper! <color=#c44b0e>(Protagonist's solo fight)</color>
+R10048-3_option1_2,Just watch the changes.
+R10048-4_name,Cloud Sea Cliff appointment
+R10048-4_overview,Fu Bu Bingwei challenges you to a duel at <color=#c44b0e>Cloud Sea Cliff</color>.
+R10048-4_option1_1,Execute Fu Bu Bingwei to avoid future troubles!
+R10048-4_option1_2,"Spare his life, let the tiger return to the mountain."
+R10067-1_option1_1,Speak out and criticize! <color=#097a76>(Protagonist's solo fight)</color>
+R10067-1_option1_2,Flatter and compliment.<color=#097a76>(Persuade level 1 Beginner)</color>
+R10067-1_option1_3,Throw a stone to teach him a lesson!<color=#097a76>(Throwing reaches 50)</color>
+R10067-1_option1_4,"Whatever, let him be..."
+R10067-2_option1_1,Greet with a fist and palm salute.
+R10067-2_option1_2,Greet with a prayer-like gesture.
+R10067-2_option1_3,Kneel and kowtow.
+R10067-2_option1_4,An awkward yet proper smile.
+R10067-3_option1_1,My fists are itching for a fight.<color=#097a76>(Solo fight)</color>
+R10067-3_option1_2,"I'm a bit short on cash lately, can you lend me some?<color=#097a76>(Relations reach 10)</color>"
+R10067-3_option1_3,"Nothing much, I'll take my leave!"
+R20005-7_option1_1,"I won't lie, I was thinking the same."
+R20005-7_option1_2,"No, no, no, that's not why I'm here..."
+M20300-66_option1_1,Is this money enough to show my sincerity?<color=#097a76>(500 Wen)</color>
+M20300-66_option1_2,Casually flex your arm muscles.<color=#097a76>(Strength reaches 8)</color>
+M20300-66_option1_3,Stare at the performer with a malevolent look.<color=#097a76>(Benevolence less than -50)</color>
+M20300-66_option1_4,Come back later.
+M20300-67_option1_1,Three plays of Peony Pavilion and Lv Dongbin.
+M20300-67_option1_2,"Time is money, and it's hard to buy."
+M20300-67_option1_3,Money can't buy happiness.
+M20300-67_option1_4,"Flowers have fragrance, moon has shade."
+M20300-68_name,Underground Arena
+M20300-68_overview1,Today is the opening day of the Underground Arena in Lin'an City.
+M20300-68_overview2,The Underground Arena in Lin'an City is not open today.
+M20300-68_option1_1,Please repeat that.
+M20300-68_option1_2,Understood.
+M20300-68_option2_1,Sign up for the Underground Arena.<color=#097a76>(500 Wen)</color>
+M20300-68_option2_2,Let me think about it.
+M20200-11_option1_1,Please repeat that.
+M20200-11_option1_2,Understood.
+M20200-11_option2_1,"Participate in the ""Yellow"" level Arena.<color=#097a76>(500 Wen)</color>"
+M20200-11_option2_2,"Participate in the ""Mysterious"" level Arena.<color=#097a76>(2000 Wen)</color>"
+M20200-11_option2_3,"Participate in the ""Earth"" level Arena.<color=#097a76>(10 Guan)</color>"
+M20200-11_option2_4,"Participate in the ""Heaven"" level Arena.<color=#097a76>(30 Guan)</color>"
+M20200-11_option2_5,Let me think about it.
+M20209-1_name,Glittering Artifact Auction
+M20209-1_option1_1,Please repeat that.
+M20209-1_option1_2,Understood.
+M20209-1_option2_1,Participate in the auction.<color=#097a76>(At least 1 shichen)</color>
+M20209-1_option2_2,Let me think about it.
+M20209-1_overview1,The Glittering Artifact House auction in Daliang City is open today.
+M20209-1_overview2,The Glittering Artifact House auction in Daliang City is not open today.
+M20209-1_overview3,"Due to the Treasure Competition, the auction is closed today."
+M20209-2_name,Treasure Competition
+M20209-2_overview1,"Today is the day of the Treasure Competition, go to Daliang City to participate."
+M20209-2_overview2,Settle accounts with Shi Wansan.
+M20209-2_option1_1,Participate in the Treasure Competition.<color=#097a76>(At least 1 shichen)</color>
+M20209-2_option1_2,Let me think about it.
+M20209-2_option2_1,Finish him off once and for all.<color=#0574a8>(Kill Shi Wansan.)</color>
+M20209-2_option2_2,What can you offer for your life?
+M1000-1_name,A hundred days deadline
+M1000-1_overview1,"<color=#c44b0e>A major event will occur in 100 days</color>, you need to improve your strength before then to change the course of events."
+M1000-1-1_option1_1,I wonder which sects I can join.
+M1000-1-1_option1_2,Not planning to live under someone else's roof.
+M1000-1-2_option1_1,Unsure how to invite companions.
+M1000-1-2_option1_2,Just want to wander the world alone.
+M1000-1-5_name,Jianghu Conqueror
+M1000-1-5_overview1,"Head to the Ritual Platform, using thunderous methods to deter many sects."
+M1000-1-5_option1_1,"Though millions of people, I go forward! <color=#c44b0e>(Specific battle, only the protagonist fights)</color>"
+M1000-1-5_option1_2,Not ready yet.
+M1000-1-5_option2_1,Achieve the <color=#c44b0e>Jianghu Conqueror</color> ending. <color=#0574a8>(Game over)</color>
+M1000-1-5_option2_2,Continue to travel in Jianghu.
+M1000-1-5_NPCname1,Everyone
+M1000-2_NPCname1,A middle-aged man who is not frivolous
+M1000-2_NPCname2,A messenger from Duke Kang's manor
+M1000-2_option1_1,"I'll take this Hero Card, please send my regards to Duke Kang."
+M1000-2_option1_2,"There's no such thing as a free lunch, I won't take this post!"
+M1000-3_NPCname1,A graceful woman
+M1000-3_overview1,"The Glittering Artifact House in Daliang City is about to hold a <color=#c44b0e>treasure auction</color>, don't miss it after the deadline."
+B1000-11_name,Seven-day Heartbreak
+B1000-11_overview1,Find someone from the Jiuli tribe in Lin'an City to request a way to unlock the Seven-day Heartbreak Gu.
+B1000-11_overview2,Find a way to remove the poison of the Seven-day Heartbreak Gu.
+M1103-1_option1_1,"It's just a jar, just smash it."
+M1103-1_option1_2,"Look closely, there seems to be Machinery on this jar.<color=#097a76>(Machinery level 1 Beginner)</color>"
+M1103-1_option1_3,Think of other ways.
+M20100-12-1_option1_1,Place the Soft cushion here. <color=#097a76>(1 Soft cushion)</color>
+M20100-12-1_option1_2,Let me think about it.
+M20100-12-2_option1_1,"Prepare to kowtow! <color=#c44b0e>(The ground here is hard, don't try unless you have a hard head)</color>"
+M20100-12-2_option2_1,Continue to kowtow!
+M20100-12-2_option2_2,End it here. <color=#c44b0e>(All previous efforts will be abandoned)</color>
+M20100-12-3_option1_1,Prepare to kowtow!
+M20100-12-4_option1_1,"Pray for the people of Chuxiang City. <color=#097a76>(Stamina 1, 1 quarter of an hour)</color>"
+M20100-12-4_option1_2,Run away when there's nothing to do.
+Role4-2_name,The Sorrow of Chuxiang
+Role4-2_overview1,"The iron hooves of the Yan Kingdom are already at the gates of Chuxiang City, trapping Chuxiang City in a siege."
+Role4-2_overview2,"The Yan Kingdom launched a fierce attack, the soldiers and civilians of Chuxiang City resisted together, if nothing unexpected happens, they can hold out for at most ten days."
+Role4-2_overview3,"The situation in Chuxiang City is already precarious, the city is about to fall!"
+Role4-3_option1_1,Intervene! <color=#c44b0e>(Start the battle directly)</color>
+Role4-3_option1_2,"Forget it, don't startle the snake in the grass."
+Role4-4_option1_1,"Okay, I'll escort you to Chuxiang City."
+Role4-4_option1_2,"I can't even protect myself now, good luck to us all."
+Role4-4_name,Escort
+Role4-4_overview1,Find the middle-aged man and his family in the village to the east of Chuxiang City.
+Role4-4_overview2,Escort the middle-aged man's family from outside Chuxiang City to Chuxiang City.
+Role4-5_name,Yan Yun Soul Arrest
+Role4-5_overview1,<color=#c44b0e>Kill Lü Wenhuan within three days</color> to get the antidote for the Soul Arrest Pill.
+Role4-5_option1_1,Give your real name.
+Role4-5_option1_2,Make up an identity.
+Role4-5_option1_3,Turn around and run away.
+Role4-5_option2_1,"Wan Yan Wuzhu, I'm here to assassinate you! <color=#c44b0e>(Start the battle directly)</color>"
+Role4-5_option2_2,"I've long admired the Marshal, I beg you to take me in."
+Role4-5_option2_3,"Just passing by, taking a casual stroll."
+Role4-5_option3_1,Take the Pill.
+Role4-5_option3_2,Refuse to take the Pill.
+Role4-5_option4_1,"This person can't be trusted, to avoid future troubles, kill Wan Yan Wuzhu."
+Role4-5_option4_2,"If he can keep his word, it wouldn't hurt to let him off the hook."
+Role4-5_option5_1,"Marshal, I have killed Lü Wenhuan."
+Role4-5_option5_2,I'm here to take your life!<color=#c44b0e>(Start the battle immediately)</color>
+Role4-5_option5_3,"Not yet, Marshal, please wait a bit longer."
+Role4-6_name,Great Hero
+Role4-6_overview1,Deliver the news of the Yan army's retreat to Chuxiang City.
+Role4-7_option1_1,Assist the side of Chuxiang City.<color=#c44b0e>(Start the battle immediately)</color>
+Role4-7_option1_2,Assist the side of Yan Yun Iron Army.<color=#c44b0e>(Start the battle immediately)</color>
+Role4-9_option1_1,Burn their food and grass!<color=#097a76>(Burning torch1)</color>
+Role4-9_option1_2,Wait a bit longer.
+Role4-11_option1_1,Propose to attack Chuxiang City.<color=#c44b0e>(Start the battle immediately)</color>
+Role4-11_option1_2,"Wan Yan Wuzhu, today is your day of death!<color=#c44b0e>(Start the battle immediately)</color>"
+Role4-11_option1_3,Pay respects to the Marshal.
+Role5-1_option1_1,I trust you!
+Role5-1_option1_2,I don't trust you.
+Role5-1_option2_1,I am willing to serve the Marshal!<color=#0574a8>(Join the Yan Yun Iron Army)</color>
+Role5-1_option2_2,I'd rather die than submit!
+Role5-2_name,Yan Yun Secret Letter
+Role5-2_overview1,Deliver the secret letter to <color=#c44b0e>Lü Wenhuan at the General's mansion in Chuxiang City</color>.
+Role5-2_overview2,Report the news to Wan Yan Wuzhu.
+Role5-3_name,Train Soldiers
+Role5-3_overview,Find the <color=#c44b0e>Training Officer</color> in the camp and ask for his cooperation in training the soldiers.
+Role5-3_option1_1,Let's have another match!<color=#097a76>(Specific Battle)</color>
+Role5-3_option1_2,Not ready yet.
+Role5-3-1_option1_1,"Train the soldiers of Yan.<color=#097a76>(2 quarters, Stamina10, Specific Battle)</color>"
+Role5-3-1_option1_2,"Train the centurions of Yan.<color=#097a76>(2 quarters, Stamina10, Specific Battle)</color>"
+Role5-3-1_option1_3,"Train the commanders of Yan.<color=#097a76>(2 quarters, Stamina10, Specific Battle)</color>"
+Role5-3-1_option1_4,Not ready yet.
+Role5-4_name,Scout the Armory
+Role5-4_overview1,"Go to Chuxiang City, infiltrate the Armory camp, and investigate the situation of food, weapons, and war horses."
+Role5-4_overview2,Return to the Palace Camp and report to the Marshal.
+Role5-6_name,Heavenly Punishment to the General's Mansion
+Role5-6_overview1,Go to Chuxiang City and assassinate <color=#c44b0e>Lü Wenhuan</color>.
+Role5-7_name,Ye Family Defense Map
+Role5-7_overview1,Enter the Ye Family Battalion camp and find the <color=#c44b0e>Ye Family Battalion military map</color>.
+Role5-7_overview2,"Eliminate the elite army, victorious army, and white-stepping army indicated on the defense map."
+Role5-7_option1_1,Infiltrate the camp and start the battle!<color=#c44b0e>(Specific Battle)</color>
+Role5-7_option1_2,Attack head-on!<color=#c44b0e>(Specific Battle)</color>
+Role5-7_option1_3,Not ready yet.
+Role5-7_option1_4,Avoid stirring up trouble.
+Role5-8_name,Eliminate the Ye Family Battalion
+Role5-8_overview1,Eliminate the <color=#c44b0e>Ye Family Battalion</color>.
+Role5-9_option1_1,"The time is ripe, suggest to set out immediately!"
+Role5-9_option1_2,"The time is not ripe yet, suggest to postpone the expedition."
+Role5-10_name,The enemy is at the gates.
+Role5-10_overview1,Head to Xiangfan's Southern Invader camp and meet up with Wan Yan Wuzhu!
+Role5-10_overview2,Attack Chuxiang City!
+Role5-10_option1_1,<color=#c44b0e>Attack Chuxiang City!</color>
+Role5-10_option1_2,Sneak into the city.
+Role5-10_option1_3,Wait a moment.
+Role5-11_name,Pigeon Express
+Role5-11_overview1,"Received a message from the pigeon, hurry back to Southern Invader camp."
+Role5-11_overview2,Go to Wuyue's Buddha Temple and assist Tie Mianren.
+Role5-11_overview3,"The task with Nine Factions Sect has failed, return to Southern Invader camp to apologize."
+Role5-11_overview4,"The task with Nine Factions Sect has finally succeeded, return to Southern Invader camp to report."
+Role5-12_option1_1,Challenge Hui Yuan!<color=#097a76>(Solo fight by protagonist)</color>
+Role5-12_option1_2,Challenge Zhong Yangzi!<color=#097a76>(Solo fight by protagonist)</color>
+Role5-12_option1_3,Challenge Cai Yuanchang!<color=#097a76>(Solo fight by protagonist)</color>
+M20100-63_option1_dialog,"(Pets are not allowed in Chuxiang City, what should I do?)"
+M20100-63_option1_1,"I have some money to show my respect to you two, hope you can make an exception.<color=#097a76>(200 Wen)</color>"
+M20100-63_option1_2,"Brother, considering our relations, can you turn a blind eye to this~<color=#097a76>(Relations reach 60)</color>"
+M20100-63_option1_3,"What kind of stupid rule is this? I'm going in today, dare you stop me?<color=#097a76>(Strength reaches 8)</color>"
+M20100-63_option1_4,There's such a rule... Alright then...
+M20200-63_option1_dialog,"(Pets are not allowed in Daliang City, what should I do?)"
+M20200-63_option1_1,"I have some money to show my respect to you two, hope you can make an exception.<color=#097a76>(200 Wen)</color>"
+M20200-63_option1_2,"Brother, considering our relations, can you turn a blind eye to this~<color=#097a76>(Relations reach 60)</color>"
+M20200-63_option1_3,"What kind of stupid rule is this? I'm going in today, dare you stop me?<color=#097a76>(Strength reaches 8)</color>"
+M20200-63_option1_4,There's such a rule... Alright then...
+M20101-2_option1_1,Settle the conflict between the two sides with your own money.<color=#097a76>(10000 Wen)</color>
+M20101-2_option1_2,Help the General's mansion side.<color=#097a76>(Specific battle)</color>
+M20101-2_option1_3,Help the Dirty Street side.<color=#097a76>(Specific battle)</color>
+M20101-2_option1_4,"Don't meddle in others' affairs, just watch the changes."
+M20101-2_option1_5,"Dislike both sides, teach them a lesson together!<color=#097a76>(Specific fight)</color>"
+M20301-1option_3,I want to stay at the inn.
+M20301-1option_6,Stay at the inn again<color=#097a76>(200 Wen)</color>
+R10056-1_option1_1,Criticize the Daoist's improper behavior.<color=#097a76>(Solo fight by protagonist)</color>
+R10056-1_option1_2,Invite the Daoist for a drink.<color=#097a76>(Toxicology reaches 50)</color>
+R10056-1_option1_3,Don't meddle in others' affairs.
+R10056-1_option2_1,Deal with the disciples of the Jiuli Tribe alone.<color=#c44b0e>(Specific battle)</color>
+R10056-1_option2_2,Invite the Daoist to fight the enemy together.<color=#c44b0e>(Specific battle)</color>
+R10056-1_option2_3,The whole team fights the enemy together.<color=#c44b0e>(Specific battle)</color>
+R10056-1_option2_4,Tell the other party that you are from the Jiuli Tribe.
+R10056-1_option2_5,The best strategy is to retreat!
+M20103-2_name,Military food stolen
+M20103-2_overview1,Go to the city's Armory to find out the situation.
+M20103-2_overview2,Prepare to ambush at the Armory granary until nightfall.
+M20103-2_option1_1,Are there any casualties among the Armory soldiers?
+M20103-2_option1_2,Is there any damage to the Armory's wall?
+M20103-2_option1_3,What is the damage to the granary?
+M20103-2_option1_4,When did the crime happen?
+M20103-2_option1_5,No more questions.
+M20103-2_option2_1,Have you seen any suspicious people?
+M20103-2_option2_2,Who has been to the granary?
+M20103-2_option2_3,Were you guarding here all night?
+M20103-2_option2_4,Are there any signs of damage to the granary?
+M20103-2_option2_5,I understand everything.
+M20103-2_option3_1,How did the criminal enter the granary.
+M20103-2_option3_2,When did the criminal commit the crime.
+M20103-2_option3_3,How did the criminal transport the food out.
+M20103-2_option4_1,Let's ambush first.<color=#097a76>(Time passes to Zi Shi)</color>
+M20103-2_option4_2,Come back later.
+M20103-2_option5_1,"Caught them red-handed, arrest them!<color=#097a76>(Specific battle)</color>"
+M20103-2_option5_2,Play the long game and see what they're up to with the stolen military rations.
+M20103-2_option6_1,"We can't bend the law for personal reasons, take them back to see the prefect."
+M20103-2_option6_2,"I'll tell the prefect about the whereabouts of the food, you guys can go."
+M20103-2_option6_3,"As long as you stop stealing Chuxiang City's military rations, I'll let you go."
+M20103-2_option7_1,"Regardless, they've made a mistake and must be arrested.<color=#097a76>(Specific Battle)</color>"
+M20103-2_option7_2,"Let them go, tell the prefect about the whereabouts of the grain and let him make the decision."
+M20103-2_option7_3,Leave a warning and let them reflect on their actions.
+M20100-10_name,Martial Arts Exchange Tournament
+M20100-10_overview1,"If you want to participate in the competition between dojos, you can sign up with the master of Chuxiang Dojo."
+M20100-10_option1_1,Choose Chuxiang Dojo.
+M20100-10_option1_2,Choose Daliang Dojo.
+M20100-10_option1_3,Choose Lin'an Dojo.
+M20100-10_option1_4,I will fight on my own behalf!
+M20100-10_option1_5,Let me think about it.
+M20300-5_name,First arrival at Lin'an City
+M20300-5_overview1,"Go to the <color=#c44b0e>Hotel Delighted</color> in the city, you might hear something interesting."
+M20100-11_name,First arrival at Chuxiang City
+M20100-11_overview1,"Go to the <color=#c44b0e>Hotel Prosperous</color> in the city, you might hear something interesting."
+M20101-4-1_name,Go to the General's mansion
+M20101-4-1_overview1,"The <color=#c44b0e>General's mansion</color> in Chuxiang City is recruiting talents, why not go and see."
+M20101-6_option1_1,I'm ready!<color=#097a76>(At least 1 shichen)</color>
+M20101-6_option1_2,Not ready yet.
+M20101-6_option2_1,Is this your last word?<color=#0574a8>(Kill Jiang Nanguai.)</color>
+M20101-6_option2_2,"Indeed, I was wrong first, run away from here."
+M20101-5_name,Chuxiang Hero Meeting
+M20101-5_overview1,"If you want to participate in the Chuxiang Hero Meeting, first go to the <color=#c44b0e>Chuxiang Dojo</color> to participate in the preliminary competition."
+M20101-5_overview2,Go to the Chuxiang City Government Office to sign up for the Chuxiang Hero Meeting with the prefect.
+M20101-5_option1_1,Participate in the preliminary competition!
+M20101-5_option1_2,Not ready yet.
+M20101-5_option2_1,Ready!
+M20101-5_option2_2,Not ready yet.
+M20101-5_option3_1,Heard that winning the competition can become a Storyteller?
+M20101-5_option3_2,"The prize money for the Hero Meeting must be a lot, right?"
+M20101-5_option3_3,Are there any privileges only for the champion?
+M20101-5_option3_4,Are there any special prizes?
+M20105-1_option1_1,"Three successful forces.<color=#097a76>(60 wen, 2 ke, 10 Stamina, protagonist solo)</color>"
+M20105-1_option1_2,"Five successful forces.<color=#097a76>(100 wen, 2 ke, 10 Stamina, protagonist solo)</color>"
+M20105-1_option1_3,"Seven successful forces.<color=#097a76>(140 wen, 2 ke, 10 Stamina, protagonist solo)</color>"
+M20105-1_option1_4,"Ten successful forces!<color=#097a76>(200 wen, 2 ke, 10 Stamina, protagonist solo)</color>"
+M20105-1_option1_5,Not ready yet.
+M20105-1_option1_6,"Three successful forces.<color=#097a76>(2 ke, 10 Stamina, protagonist solo)</color>"
+M20105-1_option1_7,"Five successful forces.<color=#097a76>(2 ke, 10 Stamina, protagonist solo)</color>"
+M20105-1_option1_8,"Seven successful forces.<color=#097a76>(2 ke, 10 Stamina, protagonist solo)</color>"
+M20105-1_option1_9,"Full force! <color=#097a76>(2 quarters, 10Stamina, solo fight)</color>"
+M20105-2_option1_1,"Train the new disciples. <color=#097a76>(2 quarters, 10Stamina, specific fight)</color>"
+M20105-2_option1_2,"Train the disciples who have been in for several months. <color=#097a76>(2 quarters, 10Stamina, specific fight)</color>"
+M20105-2_option1_3,"Train the disciples who have been in for several years. <color=#097a76>(2 quarters, 10Stamina, specific fight)</color>"
+M20105-2_option1_4,"Train the strongest group of disciples in the martial arts school. <color=#097a76>(2 quarters, 10Stamina, specific fight)</color>"
+M20105-2_option1_5,"I'm not ready yet, I'll come back later."
+M20106-1_option1_1,I've been injured.
+M20106-1_option1_2,I'm feeling unwell.
+M20106-1_option1_3,I'm in good health...
+M20106-2_name,Find the doctor
+M20106-2_overview1,Go to Wild Wolf Valley to find the doctor.
+M20106-2_overview2,Tell the young medicine boy at Charity House about the doctor.
+M20106-2_overview3,The doctor will return to Charity House in a few days.
+M20106-2_overview4,Find a way to deceive the young medicine boy.
+M20106-2_option1_1,Go help! <color=#c44b0e>(specific fight)</color>
+M20106-2_option1_2,So many wolves... I'd better run first.
+M20106-2_option2_1,"I'll accompany you, sir. <color=#097a76>(6 shichen)</color>"
+M20106-2_option2_2,"I have other things to do, good luck, sir."
+M20106-2_option3_1,"Alright, let's go back. (Return to Chuxiang City)"
+M20106-2_option3_2,I'd like to stay here for a while. (Continue to stay at Refugee Camp)
+M20200-4_overview1,"Go to the <color=#c44b0e>Hotel Drifting Cloud</color> in the city, you might hear something interesting."
+M20200-4_name,First time in Daliang City
+M5011-1_option1_1,Put the <color=#c44b0e>Animal ring - The Mouse</color> into the groove.
+M5011-1_option1_2,Put the <color=#c44b0e>Animal ring - The Ox</color> into the groove.
+M5011-1_option1_3,Put the <color=#c44b0e>Animal ring - The Tiger</color> into the groove.
+M5011-1_option1_4,Put the <color=#c44b0e>Animal ring - The Rabbit</color> into the groove.
+M5011-1_option1_5,Put the <color=#c44b0e>Animal ring - The Dragon</color> into the groove.
+M5011-1_option1_6,Put the <color=#c44b0e>Animal ring - The Snake</color> into the groove.
+M5011-1_option1_7,Put the <color=#c44b0e>Animal ring - The Horse</color> into the groove.
+M5011-1_option1_8,Put the <color=#c44b0e>Animal ring - The Goat</color> into the groove.
+M5011-1_option1_9,Put the <color=#c44b0e>Animal ring - The Monkey</color> into the groove.
+M5011-1_option1_10,Put the <color=#c44b0e>Animal ring - The Rooster</color> into the groove.
+M5011-1_option1_11,Put the <color=#c44b0e>Animal ring - The Dog</color> into the groove.
+M5011-1_option1_12,Put the <color=#c44b0e>Animal ring - The Pig</color> into the groove.
+M5011-1_option1_13,Turn around and run away.
+Day-2_option1_1,Bet 6 Wen on the curse. <color=#097a76>(6 Wen)</color>
+Day-2_option1_2,Bet 66 Wen on the curse. <color=#097a76>(66 Wen)</color>
+Day-2_option1_3,Bet 666 Wen on the curse. <color=#097a76>(666 Wen)</color>
+Day-2_option1_4,"Return the favor, no money given."
+Day-11_option1_1,Likes salty taste.
+Day-11_option1_2,Likes sweet taste.
+Day-11_option1_3,Likes bland taste.
+Day-11_option1_4,Likes tasteless.
+Day-12_option1_1,Interested in participating.
+Day-12_option1_2,Not free for now.
+Day-15_option1_1,Yellow rice bean paste zongzi!
+Day-15_option1_2,Cured meat sausage zongzi!
+Day-15_option1_3,Lotus root cold cake zongzi!
+Day-15_option1_4,Salt and pepper pea zongzi!
+Day-15_option1_5,Don't want to choose.
+Day-15_option2_1,Defeat the <color=#c44b0e>cured meat sausage zongzi</color>!
+Day-15_option2_2,Let's talk about it later.
+Day-15_option3_1,Defeat the <color=#c44b0e>lotus root cold cake zongzi</color>!
+Day-15_option3_2,Let's talk about it later.
+Day-15_option4_1,Defeat the <color=#c44b0e>salt and pepper pea zongzi</color>!
+Day-15_option4_2,Let's talk about it later.
+Day-15_option5_1,Defeat the <color=#c44b0e>yellow rice bean paste zongzi</color>!
+Day-15_option5_2,Let's talk about it later.
+M20100-14_option1_1,"Barge in, who dares to stop me! <color=#c44b0e>(Start the fight directly)</color>"
+M20100-14_option1_2,Give Scrap silver to improve Relations. <color=#097a76>(Scrap silver 3 liang)</color>
+M20100-14_option1_3,Turn around and run away.
+R10090-2_option1_1,Agree with General Yang's ambition!
+R10090-2_option1_2,Not interested in this ambition.
+R10090-2_option2_1,Report Yang Yao Er!
+R10090-2_option2_2,Pretend this never happened.
+R10090-2_option3_1,"Since it's your father's legacy, I'll give it to you."
+R10090-2_option3_2,Why should I give you the gun I earned by my ability?
+R10090-4_option1_1,Agree to Yang Yao Er joining Ye Family Battalion.
+R10090-4_option1_2,Disagree with Yang Yao Er joining Ye Family Battalion.
+M20100-15_option1_1,"Barge in, who dares to stop me! <color=#c44b0e>(Start the fight directly)</color>"
+M20100-15_option1_2,Give Scrap silver to improve Relations. <color=#097a76>(Scrap silver 5 liang)</color>
+M20100-15_option1_3,Confess and run away.
+R10092-1_option1_1,"Comfort her, tell her not to care."
+R10092-1_option1_2,Compliment her and try to win her favor<color=#097a76>(Persuade level 3 Advance)</color>
+M20109-1_option1_1,Tell everyone the truth.
+M20109-1_option1_2,Defend White Cloud Temple.
+M20109-1_option1_3,Accuse White Cloud Temple.
+M20109-1_option1_4,"This is none of my business, I won't disturb."
+M20109-1_overview1,Punish the Taoist who gave you the Cold medicinal pill.
+M20109-1_overview2,Inform the White Cloud Temple Master of the result.
+M20109-1_name,White Cloud Storm
+M20109-1_npcname,People demanding justice
+R10046-1_option1_1,Ready! <color=#097a76>(Hero's solo fight)</color>
+R10046-1_option1_2,Not ready yet.
+M20300-8_option1_1,"I insist on entering, dare you stop me? <color=#c44b0e>(Start the fight directly)</color>"
+M20300-8_option1_2,"Give you this money as a token of respect, can you let me pass? <color=#097a76>(Scrap silver 2 liang)</color>"
+M20300-8_option1_3,"Considering our Relations, can you pretend you didn't see me? <color=#097a76>(Relations reach 60)</color>"
+M20300-8_option1_4,Turn around and run away.
+M20300-11_option1_1,Barge in. <color=#c44b0e>(Start the fight directly)</color>
+M20300-11_option1_2,Can you let me pass for the sake of money? <color=#097a76>(Scrap silver 10 liang)</color>
+M20300-11_option1_3,"Considering our Relations, can you pretend you didn't see me? <color=#097a76>(Relations reach 60)</color>"
+M20300-11_option1_4,Present the Hero Card.<color=#097a76>(Hero Card x1)</color>
+M20300-11_option1_5,Turn around and run away.
+M20100-18_option1_1,Barge in. <color=#c44b0e>(Start the fight directly)</color>
+M20100-18_option1_2,Can you let me pass for the sake of money? <color=#097a76>(Scrap silver 10 liang)</color>
+M20100-18_option1_3,"Considering our Relations, can you pretend you didn't see me? <color=#097a76>(Relations reach 60)</color>"
+M20100-18_option1_4,Let Lü Zixu handle it.<color=#097a76>(Lü Zixu accompanying)</color>
+M20100-18_option1_5,Turn around and run away.
+M20100-19_option1_1,Barge in. <color=#c44b0e>(Start the fight directly)</color>
+M20100-19_option1_2,Could you do me a favor for this silver?<color=#097a76>(Scrap silver x2)</color>
+M20100-19_option1_3,"Considering our Relations, can you pretend you didn't see me? <color=#097a76>(Relations reach 60)</color>"
+M20100-19_option1_4,Turn around and run away.
+M20300-16_option1_1,Barge in. <color=#c44b0e>(Start the fight directly)</color>
+M20300-16_option1_2,Could you do me a favor for this silver?<color=#097a76>(Scrap silver x15)</color>
+M20300-16_option1_3,"Considering our Relations, can you pretend you didn't see me? <color=#097a76>(Relations reach 60)</color>"
+M20300-16_option1_4,Turn around and run away.
+M20300-17_option1_1,I understand.
+M20300-17_option1_2,Could you please repeat that?
+M20300-17_option2_1,Enter the tower and seize the treasure!
+M20300-17_option2_2,Seize the treasure alone!<color=#097a76>(Fame reached level 7 Prominence)</color>
+M20300-17_option2_3,Ask about the rules again.
+M20300-17_option2_4,Let me think about it.
+M20300-17_option3_1,Send {TeamerName:1} to fight.
+M20300-17_option3_2,Send {TeamerName:2} to fight.
+M20300-17_option3_3,Send {TeamerName:3} to fight.
+M20300-17_option3_4,Send {TeamerName:4} to fight.
+M20300-17_option3_5,Send {TeamerName:5} to fight.
+M20300-17_option4_1,Give up on the treasure.<color=#c44b0e>(No more challenges)</color>
+M20300-17_option4_2,Don't give up.
+M20200-16_option1_1,Barge in. <color=#c44b0e>(Start the fight directly)</color>
+M20200-16_option1_2,Could you do me a favor for this silver?<color=#097a76>(Scrap silver x10)</color>
+M20200-16_option1_3,"Considering our Relations, can you pretend you didn't see me? <color=#097a76>(Relations reach 60)</color>"
+M20200-16_option1_4,Let Fuqing Junzhu handle it.<color=#097a76>(Fuqing Junzhu accompanying)</color>
+M20200-16_option1_5,Turn around and run away.
+M20200-16_option1_6,Introduce yourself as a Graduate and state your purpose.
+M5012-3_option1_1,Please repeat that.
+M5012-3_option1_2,Understood.
+M5012-3_option2_1,"Sign up for the ""Little Shrimp"" level."
+M5012-3_option2_2,"Sign up for the ""Chief"" level."
+M5012-3_option2_3,"Sign up for the ""Grandmaster"" level."
+M5012-3_option2_4,Don't sign up for now.
+M1500-1_option1_1,"Fortune favors the bold, let's see what treasures are inside!<color=#c44b0e>(Start the battle immediately)</color>"
+M1500-1_option1_2,"Better safe than sorry, don't go in."
+M20114-1_name,Wild Cat Problem
+M20114-1_overview1,Help the shopkeeper of Forgotten House deal with the wild cats stealing fish.
+M20114-1_overview2,Tell the shopkeeper of Forgotten House that the problem has been solved.
+M20114-2_option1_1,Feed a Golden carp.<color=#097a76>(Golden carp x1)</color>
+M20114-2_option1_2,Feed a Carp.<color=#097a76>(Carp x1)</color>
+M20114-2_option1_3,Feed a Crucian carp.<color=#097a76>(Crucian carp x1)</color>
+M20114-2_option1_4,Feed a Trout.<color=#097a76>(Trout x1)</color>
+M20114-2_option1_5,Feed a Bass.<color=#097a76>(Bass x1)</color>
+M20114-2_option1_6,Feed a Grass carp.<color=#097a76>(Grass carp x1)</color>
+M20114-2_option1_7,"Never mind, don't feed it."
+M1200-10_option1_1,Agree to help him get out.
+M1200-10_option1_2,Refuse to help him get out.
+M1200-10_option2_1,Lie that the official has joined the bandits.<color=#097a76>(Official seal x1)</color>
+M1200-10_option2_2,Tell the details and show the token.<color=#097a76>(Official seal x1)</color>
+M1200-10_option2_3,Just tell the details.
+M1200-10_option2_4,Pay a casual visit to the general.
+M1200-10_option3_1,Stick to your words and don't lie.<color=#097a76>(Specific Battle)</color>
+M1200-10_option3_2,Confess and run away.
+M1200-10_name,Official of the Blue Wind Camp
+M1200-10_overview1,"Go to Chuxiang City General's mansion and inform Lü Wenhuan of the truth, asking him to send troops to rescue the kidnapped official."
+M1200-10_npcname1,Faint voice
+M1200-12_option1_1,Eliminate the Blue Wind Camp!<color=#c44b0e>(Start Battle Immediately)</color>
+M1200-12_option1_2,Order the soldiers to clear the bandits outside the house.
+M1200-12_option1_3,Set fire to the mountain!
+M1200-13_option1_1,"Unfortunately, General Lü sent me to kill you and silence you."
+M1200-13_option1_2,"Stop talking nonsense, just kill him.<color=#0574a8>(Kill the Official)</color>"
+M1200-13_option2_1,"I'll let you run away, hoping you'll keep your word."
+M1200-13_option2_2,"No need for more words, I'll send you on your way.<color=#0574a8>(Kill the Official)</color>"
+M1200-15_overview1,"Assassinate the official trapped in the Blue Wind Camp for the Pacification Envoy, Lü Wenhuan."
+M1200-15_overview2,Find a way to rescue the official trapped in the Blue Wind Camp.
+M1200-15_overview3,"Report the results to the Pacification Envoy, Lü Wenhuan."
+M1200-15_option1_1,He won't be talking anymore.
+M1200-15_option1_2,I accidentally killed him...
+M1200-15_option1_3,I have rescued him.
+M1200-15_option1_4,"He must be hiding somewhere, I don't know where he is."
+M1200-15_option1_5,There's no progress yet.
+M1200-15_option2_1,Leaving you alive will only bring disaster to the people!<color=#0574a8>(Kill Lü Wenhuan)</color>
+M1200-15_option2_2,Spare his life for now.
+M20123-1_option1_1,"Alright, I'll chat with you."
+M20123-1_option1_2,"This is against decency, please respect yourself."
+M20123-1_option2_1,Pay the fine.<color=#097a76>(2000 Wen)</color>
+M20123-1_option2_2,I won't give you any money!<color=#097a76>(Specific Battle)</color>
+M20118-1_option1_1,Ask about the benefits of marrying into the Ding family.
+M20118-1_option1_2,<color=#0574a8>Agree to marry into the Ding family.</color>
+M20118-1_option1_3,Firmly refuse.
+M20118-1_option1_4,Haven't decided yet.
+M20118-1_option2_1,<color=#0574a8>Decide to marry into the Ding family!</color>
+M20118-1_option2_2,Let me think about it.
+M20118-3_option1_1,Rest and sleep.<color=#097a76>(Four shichen)</color>
+M20118-3_option1_2,Don't rest for now.
+M20118-3_option2_1,Cut the weeds and dig up the roots.<color=#0574a8>(Kill Miss Ding)</color>
+M20118-3_option2_2,Spare her life for old times' sake.
+R10071-1_option1_1,Understood.
+R10071-1_option1_2,Could you please repeat that?
+R10071-1_option2_1,I'll participate!
+R10071-1_option2_2,I need to prepare a bit more.
+R10071-1_option3_1,"First, explain to me why your daughter is so strong!"
+R10071-1_option3_2,"It's only 20 Guan, it's nothing!<color=#097a76>(20000 Wen)</color>"
+R10071-1_option3_3,I really don't have that much money on me...
+R10071-1_option3_4,"Forget it, I don't want this marriage!"
+R10071-1_name1,Martial Arts Contest for a Bride
+R10071-1_overview1,You can register for the martial arts contest for a bride at the Daliang City Arena from Si Shi to You Shi.
+R10071-2_name1,Propose at Duke Kang's Manor
+R10071-2_overview1,Go to Lin'an City·Duke Kang's Manor and propose to Kang Wang.
+R10071-2_overview2,Bring the treasure from the top of the Enlighten Tower to Kang Wang to gain his approval.
+R10071-2_overview3,Give the <color=#c44b0e>Mark of the Common People</color> to Kang Wang.
+R10071-2_overview4,Go to Duke Kang's Manor at the right time and propose to Kang Wang.
+R10071-2_option1_1,Agree to Kang Wang and get married immediately.
+R10071-2_option1_2,Not ready yet.
+R10015-2_option1_1,"Please spare me, Uncle Master.<color=#097a76>(Solo by protagonist)</color>"
+R10015-2_option1_2,Please spare me.<color=#097a76>(Solo by protagonist)</color>
+R10015-2_option1_3,Not ready yet.
+R10031-2_name,Family heirloom Kitchen knife
+R10031-2_overview1,Help Pao Chunqiu find the whereabouts of the Black iron blade in Daliang City.
+R10031-2_overview2,Give the Black iron blade to Pao Chunqiu.
+R10031-2_option1_1,Is this your family heirloom?<color=#097a76>(Black iron blade1)</color>
+R10031-2_option1_2,"I haven't found it yet, please wait a little longer, Brother Pao."
+R10031-2-1_option1_1,"Here's 10 guan, I'll redeem the knife.<color=#097a76>(10000 wen)</color>"
+R10031-2-1_option1_2,I won't redeem the knife for now.
+R10031-2-1_option1_3,"Here's 5 guan, I'll redeem the knife.<color=#097a76>(5000 wen)</color>"
+R10031-2-2_option1_1,"Could you please sharpen the knife for me, Master?<color=#097a76>(5000 wen)</color>"
+R10031-2-2_option1_2,"Excuse me, Run away."
+R10078-2_option1_1,"Please spare me, Captain Qiu.<color=#097a76>(Solo by protagonist)</color>"
+R10078-2_option1_2,Not ready yet.
+R10089-2_option1_1,Then I'll give you some pointers.<color=#097a76>(Solo by protagonist)</color>
+R10089-2_option1_2,"I have something else to do today, I'll accompany you another day."
+R10089-4_option1_1,"Give the ""Far Sealing Hand"" Manual to Fang Xiao Bai.<color=#097a76>(One Far Sealing Hand)</color>"
+R10089-4_option1_2,It's not the time yet.
+R10018-2_name,Four Gentlemen Formation
+R10018-2_overview1,You can go to the Confucius Temple to help Cai Youzhi break through the formation at midnight Zi Shi.
+R10018-2_option1_1,"Brother Cai, let me lend you a hand!<color=#097a76>(Specific battle)</color>"
+R10018-2_option1_2,I need to prepare a bit more.
+R10025-2_option1_1,Donate 50 guan.<color=#097a76>(50000 wen)</color>
+R10025-2_option1_2,I don't want to give it to him for now.
+R10025-2_option2_1,Donate 100 guan.<color=#097a76>(100000 wen)</color>
+R10025-2_option2_2,I don't want to donate money for now.
+R10077-0_option1_1,Bow respectfully!
+R10077-0_option1_2,Bow normally!
+R10084-0_option1_1,Admit to having met before.
+R10084-0_option1_2,Deny having met before.
+M5003-2_option1_1,"Go ahead and make your move!<color=#097a76>(Stamina10, 2 quarters, solo by protagonist)</color>"
+M5003-2_option1_2,Not ready yet.
+M5003-3_option1_1,I'll stand by the senior forever!<color=#c44b0e>(Fight immediately)</color>
+M5003-3_option1_2,"It's none of my business, I'm out of here."
+Pick-3_option1_1,"First come, first served, this treasure is naturally mine!<color=#c44b0e>(Fight immediately)</color>"
+Pick-3_option1_2,Run away obediently.
+M5007-1_option1_1,Go to <color=#c44b0e>Zhongzhou</color>.<color=#097a76>(12 shichen)</color>
+M5007-1_option1_2,Go to <color=#c44b0e>Xiangfan</color>.<color=#097a76>(12 shichen)</color>
+M5007-1_option1_3,Go to <color=#c44b0e>Wuyue</color>.<color=#097a76>(12 shichen)</color>
+M5007-1_option1_4,I haven't decided yet.
+M5008-1_option1_1,Go to <color=#c44b0e>Nameless area</color>.<color=#097a76>(12 shichen)</color>
+M5009-1_option1_1,Go to <color=#c44b0e>Jiujiang Water Camp</color><color=#097a76>(1 shichen)</color>
+M1000-7_option1_1,Pay the toll to avoid disaster.<color=#097a76>(Half of the money)</color>
+M1000-7_option1_2,I don't have money to give to you thieves!<color=#097a76>(Specific battle)</color>
+XS20300-1_name,Beggars blocking the door
+XS20300-1_overview0,"Beggars often harass street shops, please help to drive these annoying guys away."
+XS20300-1_overview1,Drive away the <color=#c44b0e>beggar</color> causing trouble at the entrance of Hotel Delighted.
+XS20300-1_overview2,Return to the bulletin board in Lin'an City to complete the task.
+XS20300-1_option1_1,Donate 100 Wen. <color=#097a76>(100 Wen)</color>
+XS20300-1_option1_2,Take action to drive him away. <color=#097a76>(Specific battle)</color>
+XS20300-2_overview1,Drive away the <color=#c44b0e>beggar</color> causing trouble at the entrance of Wine God Tower.
+XS20300-3_overview1,Drive away the <color=#c44b0e>beggar</color> causing trouble at the entrance of Exquisite Pavilion.
+XS20300-4_name,Trouble in the Market
+XS20300-4_overview0,"There are often ruffians causing trouble in the Market, we ask for the help of brave warriors to drive these troublemakers away."
+XS20300-4_overview1,Drive away the <color=#c44b0e>ruffian</color> causing trouble in the Lin'an City Market during the day.
+XS20300-5_name,Night Patrol in the City
+XS20300-5_overview0,"Thieves often appear in the city at night, we entrust brave warriors to patrol the city at night and catch all the thieves."
+XS20300-5_overview1,Drive away the thieves who appear near the Lin'an Government Office between <color=#c44b0e>11pm and 3am</color> every night.
+XS20300-6_overview1,Drive away the thieves who appear near the Maiden House between <color=#c44b0e>11pm and 3am</color> every night.
+XS20300-7_overview1,Drive away the thieves who appear near Duke Kang's manor between <color=#c44b0e>11pm and 3am</color> every night.
+XS20300-8_name,Treasure Hunt Puzzle
+XS20300-8_overview0,"A good Samaritan has buried something somewhere in the city. If anyone can find this item based on the clues, not only will they receive the item, but they will also receive an additional reward."
+XS20300-8_overview1,Find the buried item in Lin'an City based on the clues.
+XS20300-8_overview2,"Clue one, ""A thousand hammers and chisels come out of the deep mountains, and the raging fire burns as if it's nothing."""
+XS20300-8_overview3,"Clue two, ""A glance back and a smile, a hundred charms are born, the six palaces are colorless."""
+XS20300-8_overview4,"Clue three, ""Once you enter the palace gate, it's as deep as the sea, from then on, everyone you meet is a stranger."""
+XS20300-8_overview5,Find the location where the item is buried near the Lin'an Government Office.
+XS20300-8_option1_1,"Start digging! <color=#097a76>(Iron shovel1, 1 ke)</color>"
+XS20300-8_option1_2,Give up for now.
+XS20300-9_name,Escort the Merchant Ship
+XS20300-9_overview0,"Recently, the Merchant ship on the Above river has been repeatedly attacked by river pirates. We are now recruiting brave warriors with high martial arts skills to escort the Merchant ship across the river. There will be a generous reward upon completion."
+XS20300-9_overview1,Go to the outskirts of the city to escort the Merchant ship across the river.
+XS20300-9_option1_1,Agree to escort the Merchant ship. <color=#c44b0e>(6 shichen)</color>
+XS20300-9_option1_2,I'm not ready yet. <color=#097a76>(Give up the reward)</color>
+XS20200-1_overview1,Drive away the <color=#c44b0e>beggar</color> causing trouble at the entrance of Hotel Drifting Cloud.
+XS20200-1_overview2,Return to the bulletin board in Daliang City to complete the task.
+XS20200-2_overview1,Drive away the <color=#c44b0e>beggar</color> causing trouble at the entrance of Tower of Prosperity.
+XS20200-3_overview1,Drive away the <color=#c44b0e>beggar</color> causing trouble at the entrance of Golden Fortune Shop.
+XS20200-4_overview1,Drive away the <color=#c44b0e>ruffian</color> causing trouble in the Daliang City Market during the day.
+XS20200-5_overview1,Drive away the thieves who appear near the Daliang Government Office <color=#c44b0e>between midnight and 2 a.m.</color> every night.
+XS20200-6_overview1,Drive away the thieves who appear near the Glittering Artifact House <color=#c44b0e>between midnight and 2 a.m.</color> every night.
+XS20200-7_overview1,Drive away the thieves who appear near the Pawn shop <color=#c44b0e>between midnight and 2 a.m.</color> every night.
+XS20200-8_overview1,Find the hidden item in Daliang City according to the clues.
+XS20200-8_overview2,"Clue one, ""There is a path to the mountain of books through diligence, and a boat to the boundless sea of learning through hardship."""
+XS20200-8_overview3,"Clue two, ""Miraculous medicine and silver needles remove diseases, and the saintly heart calls back spring."""
+XS20200-8_overview4,"Clue three, ""Fine wine from Lanling and tulips, served in a jade bowl with Amber light."""
+XS20200-8_overview5,Find the place where something is buried near the Tower of Prosperity in Daliang.
+XS20200-9_overview1,Go to Zhongzhou Ferry to escort the Merchant ship across the river.
+XS20100-1_overview1,Drive away the <color=#c44b0e>beggars</color> causing trouble at the entrance of Hotel Prosperous.
+XS20100-1_overview2,Return to the bulletin board in Chuxiang City to complete the task.
+XS20100-2_overview1,Drive away the <color=#c44b0e>beggars</color> causing trouble at the entrance of Forgotten House.
+XS20100-3_overview1,Drive away the <color=#c44b0e>beggars</color> causing trouble at the entrance of Rare Artifact Shop.
+XS20100-4_overview1,Drive away the <color=#c44b0e>ruffians</color> causing trouble in the Chuxiang City Market during the day.
+XS20100-5_overview1,Catch the thieves who appear near the Ding family <color=#c44b0e>between midnight and 2 a.m.</color> every night.
+XS20100-6_overview1,Drive away the thieves who appear near the General's mansion <color=#c44b0e>between midnight and 2 a.m.</color> every night.
+XS20100-7_overview1,Drive away the thieves who appear near the Pawn shop <color=#c44b0e>between midnight and 2 a.m.</color> every night.
+XS20100-8_overview1,Find the hidden item in Chuxiang City according to the clues.
+XS20100-8_overview2,"Clue one, ""The rich have plenty of wine and meat, but there are frozen bones on the road."""
+XS20100-8_overview3,"Clue two, ""Punch the fierce tiger of the south mountain, kick the dragon of the north sea."""
+XS20100-8_overview4,"Clue three, ""Painted fans are always like clouds, and butterflies cluster on the mud-like grass."""
+XS20100-8_overview5,Find the place where something is buried near the Pink Attire Pavilion in Chuxiang.
+XS20100-9_name,Chuxiang Military Training
+XS20100-9_overview0,"The military power of Chuxiang City is weak and has not undergone real training for many years. Therefore, it entrusts powerful heroes to train the soldiers."
+XS20100-9_overview1,Discuss military training matters with the general of Chuxiang City Armory.
+Pick-6_option1_1,"See what is buried here. <color=#097a76>(Iron shovel1, Stamina10, 1 quarter)</color>"
+Pick-6_option1_2,Pray with incense. <color=#097a76>(Normal incense1)</color>
+Pick-6_option1_3,Turn around and run away.
+Pick-6_option2_1,Hand over the Ancient bamboo script. <color=#097a76>(Ancient bamboo script1)</color>
+Pick-6_option2_2,Hand over the score of Guangling Melody. <color=#097a76>(Guangling Melody score1)</color>
+Pick-6_option2_3,I won't hand over anything! <color=#c44b0e>(Start the fight immediately)</color>
+Pick-6_option3_1,Go up and say hello! <color=#c44b0e>(Start the fight immediately)</color>
+Pick-6_option3_2,Turn around and run away.
+M1000-10_option1_1,Go to Info.<color=#097a76>(2 quarters)</color>
+M1000-10_option1_2,Come back later.
+M5050-1_option1_1,"Meditate under the waterfall.<color=#097a76>(12 shichen, Stamina100)</color>"
+M5050-1_option1_2,Try again later.
+M1100-10_name,Seek revenge at Bandit Camp
+M1100-10_overview1,Go to Bandit Camp to rescue the kidnapped Xiao Bao.
+M1400-4_option1_1,Can't stand by and do nothing.<color=#c44b0e>(Specific battle)</color>
+M1400-4_option1_2,"He brought this on himself, don't interfere."
+M2170-1_option1_1,"You've done enough harm, I'm here to stop you!<color=#c44b0e>(Start battle immediately)</color>"
+M2170-1_option1_2,Just passing by.
+R10061-1_option1_1,Help out.<color=#c44b0e>(Specific battle)</color>
+R10061-1_option1_2,Just watch the changes.
+R10061-1_Npcname,Soft voice
+M20200-5_option1_1,Hand over Xiyu treasure.
+M20200-5_option1_2,Let the Western merchant search you.
+M20200-5_option1_3,Escape using Qinggong.<color=#097a76>(Qinggong100)</color>
+M20100-21_option1_1,Please repeat that.
+M20100-21_option1_2,Understood.
+M20100-21_option2_1,Join the cockfight.<color=#097a76>(500 wen)</color>
+M20100-21_option2_2,Let me think about it.
+M20100-21_option3_1,Continue!
+M20100-21_option3_2,Quit while you're ahead.
+M20121-1_option1_1,"Please give me a topic, sir."
+M20121-1_option1_2,"I have other things to do, maybe next time."
+M20103-3_option1_1,Sign up for the courtyard exam.<color=#097a76>(12 shichen)</color>
+M20103-3_option1_2,Let me think about it.
+M20219-1_option1_1,Ask the teacher for a topic.
+M20219-1_option1_2,Let me think about it.
+M20203-3_option1_1,Sign up for the township exam.<color=#097a76>(12 shichen)</color>
+M20203-3_option1_2,Let me think about it.
+M2030-1_option1_1,Sign up for the conference exam.<color=#097a76>(12 shichen)</color>
+M2030-1_option1_2,Let me think about it.
+M5016-1_option1_1,Start a conversation.
+M5016-1_option1_2,Quietly run away.
+R10006-2_option1_1,Believe what Shi Chen says.<color=#c44b0e>(Specific battle)</color>
+R10006-2_option1_2,Think Shi Chen is framing Lü Wenhuan.<color=#c44b0e>(Solo fight)</color>
+R10057-1_option1_1,Agree to fight with Niu Er!<color=#097a76>(Solo fight)</color>
+R10057-1_option1_2,Refuse to fight with Niu Er.
+R10058-1_option1_1,Give Li San 2000 wen.<color=#097a76>(2000 wen)</color>
+R10058-1_option1_2,"Excuse me, Run away."
+R10033-1_option1_1,Accept Ye Yun's challenge.<color=#097a76>(Solo fight)</color>
+R10033-1_option1_2,Refuse the challenge.
+R10033-2_option1_1,Agree with Ye Yun.<color=#c44b0e>(12 shichen)</color>
+R10033-2_option1_2,Not now.
+R10041-1_option1_1,"Please teach me, senior!<color=#097a76>(Stamina10, 2 quarters, Solo fight)</color>"
+R10041-1_option1_2,Not ready yet.
+M20302-4_option1_1,Ask passerby for 1000 wen.
+M20302-4_option1_2,Exchange information with passerby.
+M20302-4_option1_3,Tell him about the Underground Arena directly.
+M5052-1_name,Peak Debate
+M5052-1_overview,Prepare fully and go to the <color=#c44b0e>Peak of Challenge</color> to participate in the Peak Debate and compete for the top spot!
+M5052-1_option1_1,"Join the Peak Debate!<color=#097a76>(Qinggong200, partners leave)</color>"
+M5052-1_option1_2,"Excuse me, Run away."
+M5052-1_option2_1,Achieve the <color=#c44b0e>World's No.1</color> ending<color=#0574a8>(Game Over)</color>.
+M5052-1_option2_2,Continue to travel in Jianghu.
+R10035-1_option1_1,Sit down for a drink and assist the Prince of Yan.<color=#c44b0e>(Specific Battle)</color>
+R10035-1_option1_2,Teach the Prince of Yan a lesson together.<color=#097a76>(Specific Battle)</color>
+R10035-1_option1_3,Turn around and run away.
+R10035-2-1_option1_1,Listen to their conversation.
+R10035-2-1_option1_2,Ignore him.
+R10035-2-1_option2_1,Join the formation!<color=#097a76>(Specific Battle)</color>
+R10035-2-1_option2_2,Break the formation together!<color=#c44b0e>(Specific Battle)</color>
+R10035-2-1_option2_3,Not interested.
+R10035-2-2_option1_1,Help Wan Yan Liang defeat Hua Yan!<color=#c44b0e>(Direct Battle)</color>
+R10035-2-2_option1_2,Help Hua Yan repel Wan Yan Liang!<color=#c44b0e>(Specific Battle)</color>
+R10035-2-2_option1_3,Not interested.
+R10035-2-2_option2_1,"Give ""Translation of Vairocana Sutra - First half"" to Wan Yan Liang."
+R10035-2-2_option2_2,Refuse to give the translation to Wan Yan Liang.
+R10035-2-3_option1_1,Agree to break the formation together!<color=#097a76>(Specific Battle)</color>
+R10035-2-3_option1_2,Refuse to help.
+R10035-3_option1_1,"Give the ""Vairocana Solar Sutra"" to Wan Yan Liang.<color=#097a76>(Vairocana Solar Sutra 1 Volume)</color>"
+R10035-3_option1_2,Not planning to do this for now.
+School-2020-2_option1_1,Understood!
+School-2020-2_option1_2,"Please repeat, Abbot."
+School-2020-3_option1_1,Ready!
+School-2020-3_option1_2,Not ready yet.
+School-2020-4_option1_1,Go and check it out!
+School-2020-4_option1_2,Mind your own business.
+School-2020-4_option2_1,Break off with Xie E!<color=#c44b0e>(Specific Battle)</color>
+School-2020-4_option2_2,Pretend nothing happened.
+Kill-2020_talk,Exterminate
+Kill-2020_option1_1,Exterminate Shifa Temple!<color=#c44b0e>(Direct Battle)</color>
+Kill-2020_option1_2,"Don't take it seriously, it's just nonsense."
+NPC-2020-9_name,Lost Prayer Beads
+NPC-2020-9_overview,Help the eldest brother find the Sandalwood prayer beads.
+R10034-0_option1_1,Bow respectfully!
+R10034-0_option1_2,Bow normally!
+M10070-1_option1_1,I am the messenger of General Lu from Chuxiang City!
+M10070-1_option1_2,I came specifically to exterminate you!<color=#c44b0e>(Direct Battle)</color>
+M10070-1_option1_3,"Excuse me, Run away."
+M10070-1_option2_1,Why not!
+M10070-1_option2_2,Only a fool would believe your provocation!
+M10070-4_option1_1,Reveal your identity as Huiyuan.
+M10070-4_option1_2,Reveal your identity as an ordinary Jianghu person.
+M10070-4_option1_3,No comment.
+M10070-4_option1_4,Reveal your identity as Ye Family Battalion.
+M10070-4_option2_1,Risk your life to protect the emperor's escape!
+M10070-4_option2_2,It's not time to run away yet.
+M10070-5_option1_1,Accept the reward. (Achieve the <color=#0574a8>Official Reward</color> ending).
+M10070-5_option1_2,Refuse the reward and continue to wander the Jianghu.
+School-2030-1_name,Confucius Temple's Test
+School-2030-1_overview1,"Go to Daliang City and retrieve the jade bamboo from five types of people: those with difficulty walking, those who have lost their integrity, those who are disrespectful to the elderly, the Accountant, and those who remain silent."
+School-2030-1_overview2,Return to Confucius Temple to report.
+School-2030-1_option1_1,Request information about Confucius Temple.
+School-2030-1_option1_2,Inquire about the teachings of Confucius Temple.
+School-2030-1_option1_3,<color=#0574a8>Join Confucius Temple.</color>
+School-2030-1_option1_4,"Excuse me, Run away."
+School-2030-1_option2_1,"Choose the pen technique <color=#0574a8>""Spring and Autumn Pen""</color> (Intelligence enhances Power)"
+School-2030-1_option2_2,"Choose the fan technique <color=#0574a8>""Drifting Cloud Fan""</color> (Dexterity enhances Power)"
+School-2030-1_option3_1,Hand over the recommendation letter from Qi Wang.<color=#097a76>(1 recommendation letter from Qi Wang)</color>
+School-2030-1_option3_2,Don't hand it over for now.
+R10007-1_option1_1,"Brother Ling, please make your move! <color=#097a76>(2 ke, Stamina10, protagonist solo)</color>"
+R10007-1_option1_2,Come back later.
+Day-2030-2_option1_1,Step forward!
+Day-2030-2_option1_2,Come back later.
+Day-2030-2_option1_3,"Step forward! <color=#097a76>(Specific battle, only the protagonist can fight)</color>"
+Day-2030-3_option1_1,Ready!
+Day-2030-3_option1_2,Come back later.
+Day-2030-4_option1_1,Agree to the poetry contest!
+Day-2030-4_option1_2,Come back later.
+Story-2030-1_name,Confucius Temple Minor Contest
+Story-2030-1_overview,"Confucius Temple is about to hold a minor contest, you can sign up at the altar."
+Story-2030-1_option1_1,Ready!
+Story-2030-1_option1_2,Not ready yet.
+R10081-3_option1_1,Place the <color=#c44b0e>Wedding Stone</color>. <color=#097a76>(1 Wedding Stone)</color>
+R10081-3_option1_2,"I was too impulsive just now, I regret it."
+R10042-2_name,Linlang Go puzzle
+R10042-2_overview1,Solve the Linlang Go puzzle for Can Qi at Linlang Temple.
+R10042-2_overview2,Inform Can Qi that the Linlang Go puzzle has been solved.
+Story-2030-2_name,Mang Mountain Tomb
+Story-2030-2_overview1,"The master Cai Yuanchang has something to tell you, please go to Confucius Temple Dacheng Hall as soon as possible."
+Story-2030-2_overview2,Go to Mang Mountain Pit.
+Story-2030-2_overview3,Report what happened at Mang Mountain Pit to Cai Yuanchang.
+Story-2030-2_option1_1,"Choose the brushwork <color=#0574a8>""Frozen Storm""</color> (The higher the fame, the higher the damage)"
+Story-2030-2_option1_2,"Choose the fan technique <color=#0574a8>""Gentleman's Courtship""</color> (The more bonds, the higher the damage)"
+Story-2030-2_option2_1,Hand over the <color=#c44b0e>Cicada gem</color><color=#097a76>(1 Cicada gem)</color>
+Story-2030-2_option2_2,No other discoveries.
+Story-2030-2-1_option1_1,"Use MedicalHeal. <color=#097a76>(Medical100, Stamina50, 1 shichen)</color>"
+Story-2030-2-1_option1_2,Qu Wangyou steps in to heal. <color=#097a76>(4 ke)</color>
+Story-2030-2-1_option1_3,"Feed the Nine-times refined pill<color=#097a76>(1 Nine-times refined pill, 2 ke)</color>"
+Story-2030-2-1_option1_4,Cut the vein and feed blood. <color=#097a76>(Consequences unknown)</color>
+Story-2030-2-1_option1_5,Leave it alone.
+Story-2030-2-2_option1_1,Agree with Ming Bufan's suggestion.
+Story-2030-2-2_option1_2,Refuse Ming Bufan's suggestion. <color=#c44b0e>(Specific battle)</color>
+Story-2030-2-2_option2_1,Give half of the treasure to Ming Bufan as agreed.
+Story-2030-2-2_option2_2,Change your mind and keep all the treasures for yourself.<color=#c44b0e>(Specific battle)</color>
+M20215-1_option1_1,"Okay, I'll buy it! <color=#097a76>(5000 wen)</color>"
+M20215-1_option1_2,I'll think about it.
+M20215-1_option2_1,"Okay, I'll buy it! <color=#097a76>(10000 wen)</color>"
+M20215-1_option2_2,I'll think about it.
+M2110-1_option1_1,"Okay, I'll buy it! <color=#097a76>(10000 wen)</color>"
+M2110-1_option1_2,I'll think about it.
+M2110-1_option2_1,Insist on a refund! <color=#c44b0e>(Specific battle)</color>
+M2110-1_option2_2,Consider it as a loss to avoid disaster.
+Story-2030-3_name,Eliminate Tomb Raider Sect
+Story-2030-3_overview1,Eliminate Tomb Raider Sect!
+Story-2030-3_overview2,Return to Confucius Temple to report.
+Story-2030-3_option1_1,Agree!
+Story-2030-3_option1_2,Refuse!
+Story-2030-3-1_option1_1,Deciphering the unparalleled martial arts is important! <color=#097a76>(1 shichen)</color>
+Story-2030-3-1_option1_2,I can't let this masterpiece be destroyed in my hands.
+R10008-0_option1_1,Go out on the horse.
+R10008-0_option1_2,Ignore it. <color=#097a76>(Protagonist solo)</color>
+R10008-5_option1_1,Place the <color=#c44b0e>Wedding Stone</color>. <color=#097a76>(1 Wedding Stone)</color>
+R10008-5_option1_2,"I was too impulsive just now, I regret it."
+R10008-6_option1_1,Hand over 2 Dragon lice<color=#097a76>(2 Dragon lice)</color>
+R10008-6_option1_2,Come back later.
+R10008-6_option2_1,Save Ling Mengdie! <color=#097a76>(Lose 30% Max HP)</color>
+R10008-6_option2_2,I can't bear it.
+R10008-6_option3_1,Save Ling Mengdie! <color=#097a76>(Lose 15% Max HP)</color>
+R10008-6_option3_2,I can't bear it.
+Spe-2030-5_option1_1,Challenge! <color=#097a76>(Solo by protagonist)</color>
+Spe-2030-5_option1_2,Fall Back.
+M20222-1_option1_1,Accept Qi Wang's recommendation.
+M20222-1_option1_2,Reject Qi Wang's recommendation.
+School-2030-20_name,Longevity Tomb
+School-2030-20_overview1,"Go to Longevity Tomb, activate the bronze tripod in the main tomb, and note down the content that appears on the stele."
+School-2030-20_overview2,Return to Confucius Temple to report.
+School-2030-20_option1_1,Try to drip blood into the tripod.
+School-2030-20_option1_2,Talk about it later.
+School-2030-20_option2_1,Agree with Cai Yuanchang.
+School-2030-20_option2_2,Attack Cai Yuanchang.
+M20300-31_name,Wife of humble origin
+M20300-31_overview1,Go to Maiden House to find the woman's husband.
+M20300-31_overview2,Send a message to the Maiden House servant or the Maiden House owner.
+M20300-31_overview3,"Tell the woman, her husband is now in Epiphyllum Valley."
+M20300-31_option1_1,Join the crowd.
+M20300-31_option1_2,Don't meddle in other's business.
+M20300-31_option2_1,Help out<color=#097a76>(Specific fight)</color>
+M20300-31_option2_2,Wait and see
+M20300-31_npcname,Cold female voice
+M20300-32_name,Search for someone in Epiphyllum Valley
+M20300-32_overview1,Go to the pavilion in the middle of Epiphyllum Valley lake to find the woman's husband.
+M20300-32_overview2,Return to the entrance of Epiphyllum Valley to meet the woman.
+M20300-32_option1_1,I'm quite good at fighting<color=#c44b0e>(Solo fight by protagonist)</color>
+M20300-32_option1_2,I'm quite rich<color=#097a76>(10 Guan)</color>
+M20300-32_option1_3,I'm quite famous<color=#097a76>(Fame reached level 5 Famous)</color>
+M20300-32_option1_4,It's really hard to say...
+M20300-32_option2_1,"Beautiful, simply breathtaking!"
+M20300-32_option2_2,"Red skull, beauty is meaningless."
+M20300-32_option3_1,Please teach me!<color=#c44b0e>(Solo fight by protagonist)</color>
+M20300-32_option3_2,Gift to improve Relations.<color=#097a76>(Man TuoluoRelations40)</color>
+M20300-32_option3_3,Let me think about it.
+R20063-1_option1_1,Agree!
+R20063-1_option1_2,Refuse!
+R20063-2_option1_1,Place the <color=#c44b0e>Wedding Stone</color>. <color=#097a76>(1 Wedding Stone)</color>
+R20063-2_option1_2,"I was too impulsive just now, I regret it."
+M5030-0_option1_1,Agree with the rich merchant.
+M5030-0_option1_2,Refuse the rich merchant.
+M5030-0_option2_1,(Absolutely cannot bow to evil forces!)
+M5030-0_option2_2,"(Endure for a while, the sky is wide and the sea is wide...)"
+R10040-1_option1_1,Help out!<color=#c44b0e>(Specific battle)</color>
+R10040-1_option1_2,Stand by and watch.
+R10040-1_option2_1,"""Drive out the invaders and restore our land"""
+R10040-1_option2_2,"""Rescue the emperor to stabilize the people's hearts"""
+R10040-1_option2_3,"""Unify the world for the benefit of the people"""
+R10040-2_option1_1,Stay and fight alongside him!<color=#c44b0e>(Specific battle)</color>
+R10040-2_option1_2,Preserve one's life.
+Sur-2020_option1_1,"Conquer by force!<color=#097a76>(Specific battle, only {PlayerName} can fight)</color>"
+Sur-2020_option1_2,Buddhist enlightenment.
+Sur-2020_option1_3,Relations with Shifa Temple.
+Sur-2020_option1_4,Not ready yet.
+Sur-2070_option1_1,"Conquer by force!<color=#097a76>(Specific battle, only {PlayerName} can fight)</color>"
+Sur-2070_option1_2,Art of forging.
+Sur-2070_option1_3,Relations with Langya Sword Pavilion.
+Sur-2070_option1_4,Not ready yet.
+Sur-2010_option1_1,"Conquer by force!<color=#097a76>(Specific battle, only {PlayerName} can fight)</color>"
+Sur-2010_option1_3,Relations with Taoist Sect.
+Sur-2010_option1_4,Not ready yet.
+Sur-2030_option1_1,"Conquer by force!<color=#097a76>(Specific battle, only {PlayerName} can fight)</color>"
+Sur-2030_option1_2,Confucian enlightenment.
+Sur-2030_option1_3,Relations with Confucius Temple.
+Sur-2030_option1_4,Not ready yet.
+Sur-2030_option1_5,Show the Imperial token! <color=#097a76>(1 Imperial token)</color>
+Sur-2040_option1_1,"Conquer by force!<color=#097a76>(Specific battle, only {PlayerName} can fight)</color>"
+Sur-2040_option1_3,Relations with Crime Investigation Bureau.
+Sur-2040_option1_4,Not ready yet.
+Sur-2040_option1_5,Show the Imperial token! <color=#097a76>(1 Imperial token)</color>
+Sur-2050_option1_1,"Conquer by force!<color=#097a76>(Specific battle, only {PlayerName} can fight)</color>"
+Sur-2050_option1_3,Relations with Jiujiang Water Camp.
+Sur-2050_option1_4,Not ready yet.
+M5014-2_option1_1,"Hold the hand orders of Kang Wang and Qi Wang.<color=#097a76>(1 hand order from Kang Wang, 1 hand order from Qi Wang)</color>"
+M5014-2_option1_2,Plan to force through!<color=#c44b0e>(Specific battle)</color>
+M5014-2_option1_3,Hold the Imperial token!<color=#097a76>(1 Imperial token)</color>
+M5014-2_option1_4,Admire the general's demeanor.
+R10052-3_option1_1,Place the <color=#c44b0e>Wedding Stone</color>. <color=#097a76>(1 Wedding Stone)</color>
+R10052-3_option1_2,"I was too impulsive just now, I regret it."
+School-2120-1_name,Lobby Melody House
+School-2120-1_overview1,Go to Melody House to deliver a letter.
+School-2120-1_overview2,Return to the Jiuli tribe to find Miao Muli
+School-2120-1_option1_1,Agree to deliver the letter.
+School-2120-1_option1_2,Refuse to deliver the letter.
+School-2120-2_name,Virgin sacrifice
+School-2120-2_overview1,Find a virgin woman
+School-2120-2_option1_1,Sacrifice<color=#c44b0e>{TeamerName:1}</color>!
+School-2120-2_option1_2,Sacrifice<color=#c44b0e>{TeamerName:2}</color>!
+School-2120-2_option1_3,Sacrifice<color=#c44b0e>{TeamerName:3}</color>!
+School-2120-2_option1_4,Sacrifice<color=#c44b0e>{TeamerName:4}</color>!
+School-2120-2_option1_5,Sacrifice<color=#c44b0e>{TeamerName:5}</color>!
+School-2120-2_option1_6,I haven't decided yet.
+School-2120-3_name,Eliminate Melody House
+School-2120-3_overview1,Eradicate Melody House.
+School-2120-3_overview2,Inform Miao Muli about the eradication of Melody House.
+A15013-1_option1_1,Surrender the lizard! <color=#097a76>(Solo by the protagonist)</color>
+A15013-1_option1_2,"Don't stay for long, hurry up and run away!"
+Def-2120-1_option1_1,Force my way in! <color=#c44b0e>(Start the fight immediately)</color>
+Def-2120-1_option1_2,Let Miao Caidie handle it. <color=#097a76>(Miao Caidie accompanies)</color>
+Def-2120-1_option1_3,Turn around and run away.
+Def-2120-2_option1_1,Force my way in! <color=#c44b0e>(Start the fight immediately)</color>
+Def-2120-2_option1_2,Let Miao Caidie handle it. <color=#097a76>(Miao Caidie accompanies)</color>
+Def-2120-2_option1_3,Turn around and run away.
+Main10099-1_option1_1,Listen to him patiently.
+Main10099-1_option1_2,Pierce directly.
+Main10099-1_option2_1,Agree to become a disciple!
+Main10099-1_option2_2,Refuse to become a disciple.
+Main10099-1_option3_1,The best in the world!
+Main10099-1_option3_2,Unify the martial arts world!
+Main10099-1_option3_3,Defend the home and the country!
+Main10099-1_option3_4,The richest in the world!
+Main10099-1_option3_5,Surrounded by beauties!
+Main10099-2_name,Human Sentiments
+Main10099-2_overview1,Buy 5 portions of low-grade tea from the Peddler and give them to the doctor.
+Main10099-2_overview2,"Wait until the Peddler sets up his stall during the day, buy 5 portions of low-grade tea from him and give them to the doctor."
+Main10099-2_overview3,"Improve your relations with the doctor, Bai Touweng, to <color=#c44b0e>Close</color>."
+Main10099-2_overview4,"Complete the task entrusted by the doctor, Bai Touweng."
+Main10099-2_overview5,"<color=#c44b0e>Invite</color> the doctor, Bai Touweng, to join your team."
+Main10099-2_option1_1,Be a lone ranger!
+Main10099-2_option1_2,Venture into the martial arts world with others.
+R10099-1_name,The beginning of cultivation
+R10099-1_overview1,Level up to <color=#c44b0e>10</color>.
+R10099-1_overview2,Learn the Autumn Wind Palm Technique to the sixth level.
+R10099-1_overview3,Learn the Sigh Technique to the sixth level.
+R10099-1_overview4,Kill or subdue the red-haired wild boar in the depths of the Lost Forest.
+R10099-2_name,Master's test
+R10099-2_overview1,Go to the Nameless area and eradicate the Bandit Camp!
+R10099-2_overview2,Go to the Nameless village and find the Coachman to go to Chuxiang City.
+R10099-2_overview3,Go to the Nameless village and find the Coachman to go to Chuxiang City. <color=#c44b0e>(The Coachman arrives at the village on the 3rd day)</color>
+R10099-3_name,Meeting old friends
+R10099-3_overview1,Meet General Lu in Chuxiang City.
+R10099-4_name,Gather information
+R10099-4_overview1,Go to the Confucius Temple to gather information.
+R10099-4_overview2,Ask Cai Yuanchang about the whereabouts of Chu Kuangsheng.
+R10099-5_name,Rescue at the Cloud Forest Temple
+R10099-5_overview1,"Go to Lin'an City Cloud Forest Temple to save people. (The future is full of risks, it is recommended to reach at least level 70 before going to save people)"
+R10099-5_option1_1,Insist on entering!
+R10099-5_option1_2,Come back later.
+Dead10099-1_option1_1,Keep going!
+Dead10099-1_option1_2,Leave the sect.
+R10099-8_name,Fountain of Youth.
+R10099-8_overview1,"To go to the southwest region, you need to pass through the West Pass."
+R10099-8_overview2,Ask the martial artists in the southwest region about the news of the Fountain of Youth.
+R10099-8_overview3,Go to Nine Factions Sect·Senluo Hall in Wuyue to fulfill your master's wish.
+R10099-8_option1_1,Help Master fulfill his wish!
+R10099-8_option1_2,Wish Master a safe journey.
+Guide10099-2_name,Land of Fireworks
+Guide10099-2_overview1,Go to Maiden House.
+Guide10099-4_name,Establishing prestige in the Wind and Cloud Arena
+Guide10099-4_overview1,Participate in the Wind and Cloud Arena in Daliang City.
+Guide10099-5_name,The art of wealth
+Guide10099-5_overview1,Go to the Relic House in Lin'an City.

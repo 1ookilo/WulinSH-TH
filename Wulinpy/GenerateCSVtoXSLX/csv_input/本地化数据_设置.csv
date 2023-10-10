@@ -1,0 +1,147 @@
+﻿﻿GameLog_ApplySetting,Settings updated successfully
+Hotkey_RoamingMoveLeft,Move to the top left
+Hotkey_RoamingMoveRight,Move to the bottom right
+Hotkey_RoamingMoveUp,Move to the top right
+Hotkey_RoamingMoveDown,Move to the bottom left
+Hotkey_RoamingStealthSwitch,Stealth Switch
+Hotkey_RoamingActiveBattle,Open battle
+Hotkey_RoamingRole,Character
+Hotkey_RoamingInventory,Item
+Hotkey_RoamingKungfu,Martial Arts
+Hotkey_RoamingEnlightenment,Passive
+Hotkey_RoamingAbility,Skill
+Hotkey_RoamingRelation,Relations
+Hotkey_RoamingQuest,Journal
+Hotkey_RoamingNews,Rivers and Lakes News
+Hotkey_RoamingPet,Pets.
+Hotkey_RoamingEsc,System Menu
+Hotkey_StorySkipStory,Skip the entire plot
+Hotkey_StorySkipDialogue,Skip the current dialogue
+Hotkey_StoryOption1,Option 1
+Hotkey_StoryOption2,Option 2
+Hotkey_StoryOption3,Option 3
+Hotkey_StoryOption4,Option 4
+Hotkey_StoryOption5,Option 5
+Hotkey_StoryOption6,Option 6
+Hotkey_StoryOption7,Option 7
+Hotkey_StoryOption8,Option 8
+Hotkey_StealthSteal,Choose Steal
+Hotkey_StealthPoison,Choose Poison
+Hotkey_StealthParalyze,Choose Immobilize
+Hotkey_StealthAssassin,Choose Ambush
+Hotkey_StealthConfirm,Confirm Interaction
+Hotkey_QuickSave,Quick save
+Hotkey_QuickLoad,Quick Load
+Hotkey_BattleEsc,Deselect Martial Arts
+Hotkey_BattleUniqueSkill,Ultimate Move
+Hotkey_RoamingMeditation,Meditate (Long Press)
+Hotkey_RoamingMap,Map
+Hotkey_RoamingLog,Daily Log
+Hotkey_BattleKungfu1,Martial Art 1
+Hotkey_BattleKungfu2,Martial Art 2
+Hotkey_BattleKungfu3,Martial Art 3
+Hotkey_BattleKungfu4,Martial Art 4
+Hotkey_BattleKungfu5,Martial Art 5
+Hotkey_BattleKungfu6,Martial Art 6
+Hotkey_BattleKungfu7,Martial Art 7
+Hotkey_BattleKungfu8,Martial Art 8
+Hotkey_BattleKungfu9,Martial Art 9
+Hotkey_BattleInternalKungfu1,Inner Power 1
+Hotkey_BattleInternalKungfu2,Inner Power 2
+Hotkey_BattleInternalKungfu3,Inner Power 3
+Hotkey_BattleInternalKungfu4,Inner Power 4
+Hotkey_BattleInternalKungfu5,Inner Power 5
+Hotkey_BattleInternalKungfu6,Inner Power 6
+Hotkey_BattleInternalKungfu7,Inner Power 7
+Hotkey_BattleInternalEffect,Power Body
+Hotkey_BattleHidWep,Throwing
+Hotkey_BattleItem,Item
+Hotkey_BattleRest,Rest
+Hotkey_BattleRetreat,Retreat
+Hotkey_BattleSwitchAuto,Auto Battle
+Hotkey_BattleShowBattleZone,Info Battle Range
+Hotkey_BattleSwitchSpeed,Toggle Battle Speed
+Hotkey_BattleShortcutItem1,Quick Item 1
+Hotkey_BattleShortcutItem2,Quick Item 2
+Hotkey_BattleShortcutItem3,Quick Item 3
+Hotkey_BattleShortcutItem4,Quick Item 4
+Hotkey_BattleShortcutItem5,Quick Item 5
+Hotkey_BattleShortcutItem6,Quick Item 6
+Hotkey_BattleBondKungfu,Love Martial Art
+Hotkey_BattleSwitchUniqueSkill,Switch Ultimate Move
+HotkeyEnv_Roaming,Free Mode
+HotkeyEnv_Story,Story Mode
+HotkeyEnv_Stealth,Stealth Mode
+HotkeyEnv_Battle,Battle Mode
+Setting,Settings
+Setting_Game,Game
+Setting_Audio,Sound
+Setting_Graphic,Graphics
+Setting_Hotkey,Hotkeys
+Tab,Tabulation
+Hotkey_RoamingRun,Run
+LeftShift,Shift Up
+RightShift,Shift Up
+LeftControl,Control
+RightControl,Control
+LeftAlt,Shift
+RightAlt,Shift
+Space,Space
+Backspace,Backspace
+Return,Enter
+Escape,ESC
+KeypadEnter,Enter
+Alpha0,0
+Alpha1,1
+Alpha2,2
+Alpha3,3
+Alpha4,4
+Alpha5,5
+Alpha6,6
+Alpha7,7
+Alpha8,8
+Alpha9,9
+Keypad0,*0
+Keypad1,*1
+Keypad2,*2
+Keypad3,*3
+Keypad4,*4
+Keypad5,*5
+Keypad6,*6
+Keypad7,*7
+Keypad8,*8
+Keypad9,*9
+BackQuote,`
+HotkeyEditTip,Please Enter Key (Press ESC to Delete Shortcut)
+InvalidInput,Invalid Input
+HotkeyConflictConfirm,"Conflicts with the key {0} ({1}), clicking OK will delete the shortcut key of {0}"
+SettingNonSaveConfirm,Do you want to keep the changes?
+SettingTitle_Music,Background Music
+SettingTitle_Sfx,Game Sound Effects
+SettingTitle_DiaplayMode,Display Mode
+SettingTitle_Resolution,Resolution Selection
+ScreenDisplayMode_FullScreen,Full Screen Mode
+ScreenDisplayMode_Window,Window Mode
+ScreenDisplayMode_NoFrame,Borderless Window Mode
+SettingTitle_Language,Language
+SettingTitle_AutoSaveInterval,Auto Save Time
+SettingTitle_Font,Font
+Font0,Pixel Font
+Font1,Regular Font
+SettingValue_AutoSaveInterval,{0} minutes
+SettingTitle_ClickBattle,"Quickly switch between stealth, combat, and skip scenes"
+SettingTitle_BulkTrading,"Batch Buy, Sell, Appraise【Item quantity must be 5 or more】"
+SettingTitle_RunInBackground,Game continues to run in the background
+SettingTitle_ClickStoryOption,Quickly select plot options
+SettingTitle_PressMouseRun,"When moving with the mouse, the default movement mode is running"
+SettingTitle_KeyForceRun,"When moving with shortcut keys, the default movement mode is running"
+SettingTitle_UseConsumableReconfirm,Confirmation required when using consumables
+SettingTitle_BulkUseComsumable,Batch use available for some consumables
+SettingTitle_AutoBattleWhenStart,Automatically start combat after battle opens
+SettingTitle_DoubleSpeedWhenStart,2x speed is the default after battle opens
+SettingTitle_EpAndAccuAtkVisible,"MP, Rage continuously displayed after battle opens"
+SettingTitle_HpBarResident,HP continuously displayed after battle opens
+SettingTitle_OneTouchBuyFromHighToLow,One-click buy in order from high to low grade
+SettingTitle_OneTouchSellFromLowToHigh,One-click sell in order from low to high grade
+SettingTitle_AutoSave,Open auto-save (only saves when switching scenes and after battles)
+SettingTitle_AutoSaveWhenChangeSceneAndRoaming,Save every 10 minutes in free state (requires auto-save to be enabled)
