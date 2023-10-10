@@ -30,7 +30,11 @@ jobs:
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'         
     - name: Push changes
       run: |
-        git add Wulinpy/GenerateCSVtoXSLX/csv_input/*
-        commitMessage=$(date +'%m-%d')' ParaToGitWork'
-        git commit -m "$commitMessage"
-        git push https://github-actions[bot]:${{ secrets.GH_TOKEN }}@github.com/1ookilo/WulinSH-TH  
+        if [ -n "$(git status --porcelain)" ]; then
+          git add Wulinpy/GenerateCSVtoXSLX/csv_input/*
+          commitMessage=$(date +'%m-%d')' Update Translated'
+          git commit -m "$commitMessage"
+          git push https://github-actions[bot]:${{ secrets.GH_TOKEN }}@github.com/1ookilo/WulinSH-TH
+        else
+          echo "No changes in files. Skipping commit and push."
+        fi
