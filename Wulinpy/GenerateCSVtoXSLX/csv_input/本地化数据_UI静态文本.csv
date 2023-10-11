@@ -899,7 +899,7 @@ Button_Text(TMP),Deal
 Button_Pages_Text(TMP),Inventory1
 EarlyAccessCanvas_Text(TMP),Early Access Version
 EmptyTip_EmptyTipText_Text(TMP),"Hero, you have nothing in your bag."
-EscUI_EscUI_Main_Resume_Text(TMP),Return
+EscUI_EscUI_Main_Resume_Text(TMP),Return,ย้อนกลับ
 EscUI_EscUI_Main_Info_Text(TMP),Information
 EscUI_EscUI_Main_Save_Text(TMP),Save
 EscUI_EscUI_Main_Load_Text(TMP),Load
@@ -1060,7 +1060,7 @@ UITailorPanel_complete_Mask_panel_4_1_2,Attack     1000
 UITailorPanel_complete_Mask_panel_4_1_3,Attack     1000
 UITailorPanel_complete_animation_name_txt,Weapon Name
 UITailorPanel_complete_Button_txt,Click anywhere to close
-ConsoleUI_Return_Text(TMP),Return
+ConsoleUI_Return_Text(TMP),Return,ย้อนกลับ
 ConsoleUI_Text(TMP),Please enter the command
 ConsoleUI_Command_Image_InputField(TMP)_TextArea_Placeholder,Please enter the command
 ConsoleUI_Command_Image_InputField(TMP)_TextArea_Text,​
@@ -1276,8 +1276,8 @@ MainMenuUI_Bg_Buttons_AchieveButton_Text(TMP),Achieve,บรรลุ
 MainMenuUI_Bg_Buttons_IllustratedHandbookButton_Text(TMP),illustrated handbook,คู่มือภาพประกอบ
 MainMenuUI_Bg_Buttons_SettingButton_Text(TMP),Settings,ตั้งค่า
 MainMenuUI_Bg_Buttons_ExitButton_Text(TMP),Exit,ออก
-PlayerCreateUI_DiffSelect_Continue_Text(TMP),Next Step
-PlayerCreateUI_DiffSelect_Return_Text(TMP),Return
+PlayerCreateUI_DiffSelect_Continue_Text(TMP),Next Step,ขั้นตอนถัดไป
+PlayerCreateUI_DiffSelect_Return_Text(TMP),Return,ย้อนกลับ
 PlayerCreateUI_CharSheet_KongFu_Title,Initial Martial Arts
 PlayerCreateUI_CharSheet_KongFu_KungFuDisplayer_Name,Kitty Eighteen Palms
 PlayerCreateUI_CharSheet_KongFu_KungFuDisplayer_Text(TMP),Martial arts description martial arts description martial arts description martial arts description martial arts description martial arts description martial arts description martial arts description martial arts description martial arts description martial arts description.
@@ -1423,8 +1423,8 @@ PlayerCreateUI_CharSheet_Features_Features3_weijiesuo_Text(TMP),--- Not Selected
 PlayerCreateUI_CharSheet_Features_Features3_jiesuo_Name,Kitty
 PlayerCreateUI_CharSheet_Features_Features3_jiesuo_Text(TMP),Trait description trait description trait description trait description trait description.
 PlayerCreateUI_CharSheet_Choice_Text(TMP),Random Refresh
-PlayerCreateUI_CharSheet_Continue_Text(TMP),Next Step
-PlayerCreateUI_CharSheet_Return_Text(TMP),Return
+PlayerCreateUI_CharSheet_Continue_Text(TMP),Next Step,ขั้นตอนถัดไป
+PlayerCreateUI_CharSheet_Return_Text(TMP),Return,ย้อนกลับ
 PlayerCreateUI_CharSheet_SelectableTraits_SelectableTrait_Name,Kitty
 PlayerCreateUI_CharSheet_SelectableTraits_SelectableTrait(1)_Name,Kitty
 PlayerCreateUI_CharSheet_SelectableTraits_SelectableTrait(2)_Name,Kitty
@@ -1470,13 +1470,13 @@ PlayerCreateUI_UIAbility_Abilities_Title2_Text(TMP),Create
 PlayerCreateUI_UIAbility_Abilities_Title3_Text(TMP),Identify
 PlayerCreateUI_UIAbility_Abilities_Title4_Text(TMP),Life
 PlayerCreateUI_UIAbility_Abilities_Title5_Text(TMP),Market
-PlayerCreateUI_UIAbility_Continue_Text(TMP),Next Step
-PlayerCreateUI_UIAbility_Return_Text(TMP),Return
+PlayerCreateUI_UIAbility_Continue_Text(TMP),Next Step,ขั้นตอนถัดไป
+PlayerCreateUI_UIAbility_Return_Text(TMP),Return,ย้อนกลับ
 PlayerCreateUI_UIAbility_Info_Tip,"<#FEED62>Tip:</color> Skills that have reached the maximum level when clearing the game can be chosen to inherit when opening a new save. The higher the difficulty, the more choices you have. Try to unlock more max-level skills."
 PlayerCreateUI_UIAbility_Info_Title,Max Level Skill Selection
 PlayerCreateUI_UIAbility_Info_AbilitySelect,Please select 5 max-level skills (2/3)
 PlayerCreateUI_RoleName_Continue_Text(TMP),Venturing into the World
-PlayerCreateUI_RoleName_Return_Text(TMP),Return
+PlayerCreateUI_RoleName_Return_Text(TMP),Return,ย้อนกลับ
 PlayerCreateUI_RoleName_Title,"What is your name, young hero?"
 PlayerCreateUI_RoleName_Name_xing,Surname
 PlayerCreateUI_RoleName_Name_xing_Image_InputField(TMP)_TextArea_Placeholder,Small
@@ -2397,10 +2397,10 @@ UINewRole_Features_Features2_jiesuo_Text(TMP),Trait description trait descriptio
 UINewRole_Features_Features3_jiesuo_Name,Kitty
 UINewRole_Features_Features3_jiesuo_Text(TMP),Trait description trait description trait description trait description trait description.
 UINewRole_Choice_Text(TMP),Re-select
-UINewRole_Continue_Text(TMP),Next Step
-UINewRole_Return_Text(TMP),Return
+UINewRole_Continue_Text(TMP),Next Step,ขั้นตอนถัดไป
+UINewRole_Return_Text(TMP),Return,ย้อนกลับ
 UINewRole_RoleName_Continue_Text(TMP),Venturing into the World
-UINewRole_RoleName_Return_Text(TMP),Return
+UINewRole_RoleName_Return_Text(TMP),Return,ย้อนกลับ
 UINewRole_RoleName_Text(TMP),"What is your name, young hero?"
 UINewRole_RoleName_Name_xing,Surname
 UINewRole_RoleName_Name_xing_Image_Text(TMP),

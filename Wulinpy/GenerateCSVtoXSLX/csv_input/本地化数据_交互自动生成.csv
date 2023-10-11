@@ -1586,7 +1586,7 @@ NpcJobTalk_自我称呼_宦官,Our family
 NpcJobTalk_自我称呼_老和尚,Old monk
 NpcJobTalk_自我称呼_乡村中年人,Me
 NpcJobTalk_自我称呼_粗鲁中年人,Old man
-NpcJobTalk_自我称呼_通用,I
+NpcJobTalk_自我称呼_通用,I,ข้า
 NpcJobTalk_自我称呼_方小白,Little man
 NpcJobTalk_第二人称_释嗔,You,เจ้า
 NpcJobTalk_第二人称_蔡元常,You all
@@ -2483,7 +2483,7 @@ NpcSteal_付瑶琴_KaiGan,"You're plotting something, seeking death!|You're seek
 NpcDriveAway_付瑶琴_XCKaiGan,Uncivilized!
 NpcDriveAway_付瑶琴_KaiGan,This is too much!|Looking for death!|Today is your day of death!
 NpcTeach_付瑶琴_Refuse,You're not qualified to request from me.
-NpcJobTalk_自我称呼_付瑶琴,I
+NpcJobTalk_自我称呼_付瑶琴,I,ข้า
 NpcJobTalk_第二人称_付瑶琴,You
 NpcJobTalk_第二人称敬语_付瑶琴,You
 NpcHello_人妻付瑶琴_Common,Are you ready?|The time for revenge on those people has come...|It's time to make them pay!
