@@ -17,7 +17,7 @@
  <img src="img/Screenshot 2023-10-07 231649.png" width="99%" height="auto" />
 </div>
 
-- ไปยังไดเรกทอรีที่วงไว้ โฟลเดอร์เกม/BepInEx\plugins\Seiryu.Wulin.NET6\Translations แล้วดับเบิ้ลคลิ๊กที่ไฟล์ update_localization.bat 
+- ไปยังไดเรกทอรีที่วงไว้ โฟลเดอร์เกม BepInEx\plugins\Seiryu.Wulin.NET6\Translations แล้วดับเบิ้ลคลิ๊กที่ไฟล์ update_localization.bat 
 <div style="float: left; width: 100%;">
  <img src="img/Screenshot 2023-10-07 230309.png" width="99%" height="auto" />
 </div>
