@@ -58,9 +58,9 @@ Role1-1_1_3,"Stop struggling in vain, confess and accept your punishment!"
 Role1-1_1_4,{yell} Pah!\nDo you really think I'm afraid of you?
 Role1-1_2_1,"Hey, the famous Crime Investigation Bureau's head catcher, is nothing but a paper tiger!"
 Role1-1_2_2,"(The old injury flares up at this moment, hands and feet numb and weak, if this continues...)"
-Role1-1_2_3,Ah--
-Role1-1_2_4,<size=120%>Ah----</size>
-Role1-1_2_5,<size=200%>Achoo!!!!!!</size>
+Role1-1_2_3,Ah--,ฮะ--
+Role1-1_2_4,<size=120%>Ah----</size>,<size=120%>ฮาาา----</size>
+Role1-1_2_5,<size=200%>Achoo!!!!!!</size>,<size=200%>ฮัด-ชิ้ว!!!!!!</size>
 Role1-1_2_6,"Sorry, I didn't mean to disturb you two.\nYou continue, I'll go back to sleep in the tree."
 Role1-1_2_7,"Hey, you stop!"
 Role1-1_2_8,"Young hero, please wait!"
@@ -1841,7 +1841,7 @@ Role4-3_1_6,"Since you know, hurry up and come with us!\nIf you dawdle any longe
 Role4-3_1_7,"Sir, I heard that even if you go with you, you're half dead."
 Role4-3_1_8,I don't want to die...
 Role4-3_1_9,"What a nuisance.\nSince you don't want to go, then go to hell!"
-Role4-3_2_1,Ah--
+Role4-3_2_1,Ah--,ฮะ--
 Role4-3_2_2,Wasting my time!
 Role4-3_2_3,Let's go!
 Role4-3_3_1,{yell} Stop!
@@ -5239,7 +5239,7 @@ M1000-9_1_6,I was just worried about not being able to forget the wrong martial 
 M1000-9_1_7,"There are only a few of these pills, how could they be enough?\nWhy don't you give me a few more?"
 M1000-9_1_8,"This pill is extremely rare in the world. Some sects regard it as a treasure of the sect, and some auction houses will auction it as the finale. If you want it, you'll have to find a way to get it yourself."
 M1000-9_1_9,"Only use it as a last resort, remember, remember."
-B1000-1_1_1,Ah--
+B1000-1_1_1,Ah--,ฮะ--
 B1000-1_1_2,Ah--------
 B1000-1_1_3,{yell}<size=130%>Ah-choo!!!</size>
 B1000-11_1_1,Seven-day Heartbreak Gu... Seven days... Heartbreak...\nCould it be that I only have seven days left to live...
@@ -7355,13 +7355,13 @@ R10009-0_1_4,"What, you are the daughter of Marshal Ye?"
 R10009-0_1_5,"Hehe, I am indeed his unambitious daughter - Ye Yinping."
 R10009-0_1_6,"I am {PlayerName}, I apologize for my rudeness."
 R10009-6_1_1,Ah-
-R10009-6_1_2,Ah--
+R10009-6_1_2,Ah--,ฮะ--
 R10009-6_1_3,<size=150%>Achoo!!!</size>
 R10009-6_1_4,"{PlayerName}, where is this place?\nFlower petals are floating around everywhere, I've been allergic to pollen since I was a child, and I can't stop sneezing when stimulated."
 R10009-6_1_5,This is the moon...
 R10009-6_1_6,"No, no, I can't stay here!"
 R10009-6_1_7,Ah-
-R10009-6_1_8,Ah--
+R10009-6_1_8,Ah--,ฮะ--
 R10009-6_1_9,<size=150%>Achoo!!!</size>
 R10009-6_1_10,"{PlayerName}, you can stay here if you like, I'll wait for you outside."
 R10009-6_1_11,It seems I've outsmarted myself...
