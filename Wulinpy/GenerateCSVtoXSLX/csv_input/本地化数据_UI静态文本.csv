@@ -146,7 +146,7 @@ UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(8),Throwing
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(9),Knowledge
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text,Defense power
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(1),Action Speed
-UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(2),Sword
+UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(2),Sword,กระบี่
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(3),Long
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(4),Musical
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(5),Evasion
@@ -185,7 +185,7 @@ UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_tag_Text(3),Blade
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_tag_Text(4),Short
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_tag1_Text,Defense power
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_tag1_Text(1),Initial Action Point
-UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_tag1_Text(2),Sword
+UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_tag1_Text(2),Sword,กระบี่
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_tag1_Text(3),Long
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_tag1_Text(4),Musical
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_RoleInfo_gongji,100
@@ -509,7 +509,7 @@ UIBattleActorInfo_RoleInfor1_tag_Text(9),Knowledge
 UIBattleActorInfo_RoleInfor1_tag1_Text(10),MP
 UIBattleActorInfo_RoleInfor1_tag1_Text,Defense power
 UIBattleActorInfo_RoleInfor1_tag1_Text(1),Action Speed
-UIBattleActorInfo_RoleInfor1_tag1_Text(2),Sword
+UIBattleActorInfo_RoleInfor1_tag1_Text(2),Sword,กระบี่
 UIBattleActorInfo_RoleInfor1_tag1_Text(3),Long
 UIBattleActorInfo_RoleInfor1_tag1_Text(4),Musical
 UIBattleActorInfo_RoleInfor1_tag1_Text(5),Evasion
@@ -552,7 +552,7 @@ UIBattleActorInfo_RoleInfor_tag_Text(3),Blade
 UIBattleActorInfo_RoleInfor_tag_Text(4),Short
 UIBattleActorInfo_RoleInfor_tag1_Text,Defense power
 UIBattleActorInfo_RoleInfor_tag1_Text(1),Initial Action Point
-UIBattleActorInfo_RoleInfor_tag1_Text(2),Sword
+UIBattleActorInfo_RoleInfor_tag1_Text(2),Sword,กระบี่
 UIBattleActorInfo_RoleInfor_tag1_Text(3),Long
 UIBattleActorInfo_RoleInfor_tag1_Text(4),Musical
 UIBattleActorInfo_RoleInfor_RoleInfo_gongji,100
@@ -688,7 +688,7 @@ UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(8),Throwing
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(9),Knowledge
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text,Defense power
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(1),Action Speed
-UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(2),Sword
+UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(2),Sword,กระบี่
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(3),Long
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(4),Musical
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(5),Evasion
@@ -727,7 +727,7 @@ UIRoleMenuPanel_LeftPanel_RoleInfor_tag_Text(3),Blade
 UIRoleMenuPanel_LeftPanel_RoleInfor_tag_Text(4),Short
 UIRoleMenuPanel_LeftPanel_RoleInfor_tag1_Text,Defense power
 UIRoleMenuPanel_LeftPanel_RoleInfor_tag1_Text(1),Initial Action Point
-UIRoleMenuPanel_LeftPanel_RoleInfor_tag1_Text(2),Sword
+UIRoleMenuPanel_LeftPanel_RoleInfor_tag1_Text(2),Sword,กระบี่
 UIRoleMenuPanel_LeftPanel_RoleInfor_tag1_Text(3),Long
 UIRoleMenuPanel_LeftPanel_RoleInfor_tag1_Text(4),Musical
 UIRoleMenuPanel_LeftPanel_RoleInfor_RoleInfo_gongji,100
@@ -1298,7 +1298,7 @@ PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag1_Text(3),Medical
 PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag1_Text(4),Toxicology
 PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag1_Text(5),Throwing
 PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag2_Text,Fist
-PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag2_Text(1),Sword
+PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag2_Text(1),Sword,กระบี่
 PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag2_Text(2),Blade
 PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag2_Text(3),Long
 PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag2_Text(4),Short
@@ -1923,7 +1923,7 @@ UIPetsMainPanel_RoleInfor_tag_Text(3),Blade
 UIPetsMainPanel_RoleInfor_tag_Text(4),Short
 UIPetsMainPanel_RoleInfor_tag1_Text,Defense power
 UIPetsMainPanel_RoleInfor_tag1_Text(1),Initial Action Point
-UIPetsMainPanel_RoleInfor_tag1_Text(2),Sword
+UIPetsMainPanel_RoleInfor_tag1_Text(2),Sword,กระบี่
 UIPetsMainPanel_RoleInfor_tag1_Text(3),Long
 UIPetsMainPanel_RoleInfor_tag1_Text(4),Musical
 UIPetsMainPanel_RoleInfor_RoleInfo_gongji,100
@@ -2187,7 +2187,7 @@ UIDetailed_RoleInfo_RoleInfor_tag_Text(9),Knowledge
 UIDetailed_RoleInfo_RoleInfor_tag1_Text(10),MP
 UIDetailed_RoleInfo_RoleInfor_tag1_Text,Defense power
 UIDetailed_RoleInfo_RoleInfor_tag1_Text(1),Initial Action Point
-UIDetailed_RoleInfo_RoleInfor_tag1_Text(2),Sword
+UIDetailed_RoleInfo_RoleInfor_tag1_Text(2),Sword,กระบี่
 UIDetailed_RoleInfo_RoleInfor_tag1_Text(3),Long
 UIDetailed_RoleInfo_RoleInfor_tag1_Text(4),Musical
 UIDetailed_RoleInfo_RoleInfor_tag1_Text(5),Evasion
@@ -2286,7 +2286,7 @@ UINewRole_RoleInfo_RoleInfor_tag1_Text(3),Medical
 UINewRole_RoleInfo_RoleInfor_tag1_Text(4),Toxicology
 UINewRole_RoleInfo_RoleInfor_tag1_Text(5),Throwing
 UINewRole_RoleInfo_RoleInfor_tag2_Text,Fist
-UINewRole_RoleInfo_RoleInfor_tag2_Text(1),Sword
+UINewRole_RoleInfo_RoleInfor_tag2_Text(1),Sword,กระบี่
 UINewRole_RoleInfo_RoleInfor_tag2_Text(2),Blade
 UINewRole_RoleInfo_RoleInfor_tag2_Text(3),Long
 UINewRole_RoleInfo_RoleInfor_tag2_Text(4),Short
@@ -2493,7 +2493,7 @@ UIPackage1_RoleInfo_RoleInfor_tag_Text(3),Blade
 UIPackage1_RoleInfo_RoleInfor_tag_Text(4),Short
 UIPackage1_RoleInfo_RoleInfor_tag1_Text,Defense power
 UIPackage1_RoleInfo_RoleInfor_tag1_Text(1),Initial Action Point
-UIPackage1_RoleInfo_RoleInfor_tag1_Text(2),Sword
+UIPackage1_RoleInfo_RoleInfor_tag1_Text(2),Sword,กระบี่
 UIPackage1_RoleInfo_RoleInfor_tag1_Text(3),Long
 UIPackage1_RoleInfo_RoleInfor_tag1_Text(4),Musical
 UIPackage1_RoleInfo_RoleInfor_RoleInfo_gongji,100
@@ -2541,7 +2541,7 @@ UIPackage1_RoleInfo_RoleInfor1_tag_Text(8),Throwing
 UIPackage1_RoleInfo_RoleInfor1_tag_Text(9),Knowledge
 UIPackage1_RoleInfo_RoleInfor1_tag1_Text,Defense power
 UIPackage1_RoleInfo_RoleInfor1_tag1_Text(1),Initial Action Point
-UIPackage1_RoleInfo_RoleInfor1_tag1_Text(2),Sword
+UIPackage1_RoleInfo_RoleInfor1_tag1_Text(2),Sword,กระบี่
 UIPackage1_RoleInfo_RoleInfor1_tag1_Text(3),Long
 UIPackage1_RoleInfo_RoleInfor1_tag1_Text(4),Musical
 UIPackage1_RoleInfo_RoleInfor1_tag1_Text(5),Evasion

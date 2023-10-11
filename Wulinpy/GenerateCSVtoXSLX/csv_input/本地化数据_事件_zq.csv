@@ -89,13 +89,13 @@ Role1-1_npcname4,Nest of Swallow disciple
 Role3-7_npcname1,Chuxiang City soldier
 Role1-1option1_dialog,(How should I treat this constable?)
 Role1-1option2_dialog,(How should I treat this masked woman?)
-Role1-1option1_1,Tie him up first!
+Role1-1option1_1,Tie him up first!,มัดเขาไว้ก่อน!
 Role1-1option1_2,"To be safe, cut the grass and remove the roots."
 Role1-1option1_3,<color=#0574a8>Help him stand up</color>.
 Role1-1option1_4,<color=#0574a8>Untie him and help him stand up</color>.
 Role1-1option1_5,Let's wait and see.
 Role1-1option1_6,<color=#0574a8>Untie her and help her stand up</color>.
-Role1-1option1_7,Tie her up first!
+Role1-1option1_7,Tie her up first!,มัดนางไว้ก่อน!
 Role1-1option1_8,<color=#0574a8>Help her stand up</color>.
 Role1-1option1_9,<color=#0574a8>Untie her and help her stand up</color>.
 Role1-1option2_1,"Alright, let's do as you say."
