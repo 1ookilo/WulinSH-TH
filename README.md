@@ -22,7 +22,7 @@
  <img src="img/Screenshot 2023-10-07 230309.png" width="99%" height="auto" />
 </div>
 
-- รอ รอ รอ... อัพเดทคำแปล เสร็จแล้วก็เข้าเกมตามปกติ
+- รอ รอ รอ... อัพเดทคำแปล เสร็จแล้วก็เข้าเกมตามปกติ ซึ่งการเข้าเกมหลังจากที่เคยลง BepInEx ครั้งแรกจะใช้เวลานานสักพักนึง
 <div style="float: left; width: 100%;">
  <img src="img/Screenshot 2023-10-07 230326.png" width="99%" height="auto" />
 </div>
