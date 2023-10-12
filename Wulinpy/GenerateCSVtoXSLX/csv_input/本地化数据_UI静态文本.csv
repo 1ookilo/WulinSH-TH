@@ -1,12 +1,12 @@
 ﻿﻿UI_InstantKill,Instant death
-UI_NoRole,Empty slot
-UI_MyRole,Party
-UI_Character,Character
-UI_Item,Item
-UI_Kungfu,Martial Arts
-UI_Bag,Inventory
+UI_NoRole,Empty slot,ว่าง
+UI_MyRole,Party,ปารตี้
+UI_Character,Character,ตัวละคร
+UI_Item,Item,ไอเทม
+UI_Kungfu,Martial Arts,วรยุทธ์
+UI_Bag,Inventory,สัมภาระ
 UI_WuDao,Passive
-UI_Ability,Skill
+UI_Ability,Skill,ทักษะ
 UI_Relation,Relations
 UI_Task,Journal
 UIAbility_Cai,Pick

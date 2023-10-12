@@ -1,5 +1,5 @@
-﻿﻿BuffEffect_OnEnable,{0} gains <#00FF00>{1}</color> status
-BuffEffect_OnDisable,{0} removes <#00FF00>{1}</color> status
+﻿﻿BuffEffect_OnEnable,{0} gains <#00FF00>{1}</color> status,{0} ได้รับ สถานะ <#00FF00>{1}</color> 
+BuffEffect_OnDisable,{0} removes <#00FF00>{1}</color> status,{0} ลบสถานะ<#00FF00>{1}</color> 
 DebuffEffect_OnEnable,{0} gains <#FE2929>{1}</color> status
 DebuffEffect_OnDisable,{0} removes <#FE2929>{1}</color> status
 BuffNameColor_Debuff,<#FE2929>{0}</color>
