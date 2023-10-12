@@ -2422,7 +2422,7 @@ end005_3,"Behind the glory, you will bear more responsibilities."
 end005_4,"From now on, you will lead the heroes to rectify the chaotic world."
 syy_yanchu_1,Hmm?
 syy_yanchu_2,That was quick!
-syy_yanchu_3,"When I, the Crime Investigation Bureau, handle cases, there is never a time when I fail!",เมื่อข้าสำนักสืบสวนออกโรงรับคดี ไม่เคยมีครั้งไหนเลยที่จะล้มเหลว!
+syy_yanchu_3,"When I, the Crime Investigation Bureau, handle cases, there is never a time when I fail!",เมื่อยามใด สำนักสืบสวนของข้าออกโรงไขคดี ล้วนไม่เคยมีครั้งใด ที่จะล้มเหลว!
 syy_yanchu_4,Huh?
 syy_yanchu_5,The famous head of the Crime Investigation Bureau is nothing more than a paper tiger after all!,ถึงแม้จะเป็นหัวหน้าสำนักสืบสวนอันโด่งดัง แต่แท้จริงแล้วก็เป็นเพียงเสือกระดาษเท่านั้น!
 syy_yanchu_6,Washing Silk!
@@ -3123,7 +3123,7 @@ R10009-2-3_3_1,"I still want to visit other cities, maybe we will meet again."
 R10009-2-3_3_2,"{PlayerName}, see you later."
 R10009-3_2_1,"{PlayerName}, I heard that you are now the champion of the Hero Association?"
 R10009-3_2_2,"It turns out to be Miss Ye, I didn't expect you to be so well-informed."
-R10009-3_2_3,"I was planning to participate in the Hero Association, but I was delayed on the way. When I arrived, I found that the registration had ended and the competition was nearing its end."
+R10009-3_2_3,"I was planning to participate in the Hero Association, but I was delayed on the way. When I arrived, I found that the registration had ended and the competition was nearing its end.",เดิมทีข้าวางแผนว่าจะเข้างานชุมนุมชาวยุทธ์ แต่เนื่องด้วยว่าการเดินทางล่าช้า เมื่อมาถึงข้าพบว่าปิดการลงทะเบียนแล้วและการแข่งขันเอง นั้นก็กำลังสิ้นลง
 R10009-3_2_4,It's a pity that I didn't have a chance to compete with Miss Ye.
 R10009-3_2_5,"So you think so too, that's great!\nLet's have a competition here today, let me see the skill of the champion of the Hero Association!"
 R10009-3_2_6,"I was just being polite, don't take it seriously."
