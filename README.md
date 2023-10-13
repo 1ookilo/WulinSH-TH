@@ -54,7 +54,7 @@
  <img src="img/05ac20420ec9455a0edb9a5139022f4c!webp1280.webp" width="99%" height="auto" />
 </div>
 
-- เนื่องจาก Paratranz ไม่มีฟีเจอร์ translate ช่วย เลยแนะนำให้ไปลง Add-Ons Quickly translate อย่าง Google แปลภาษา, Simple Translate เอาเองนะครับ (ส่วนตัวผมใช้ Simple Translate เพราะชอบความ minimal ของ Simple Translate น่ะ)
+- เนื่องจาก Paratranz ไม่มีฟีเจอร์ translate ช่วย เลยแนะนำให้ไปลง Add-Ons พวก Quickly translate อย่าง Google แปลภาษา หรือ Simple Translate กันเอาเองนะ (ส่วนตัวผมใช้ Simple Translate อยู่)
 <div style="float: left; width: 100%;">
  <img src="img/firefox_isgqqQrT6e.gif" width="99%" height="auto" />
 </div>
