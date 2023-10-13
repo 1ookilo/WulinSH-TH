@@ -35,9 +35,28 @@
 # เปิดให้ช่วยแปล
 - [ลิงค์โปรเจคแปลใน ParaTranz](https://paratranz.cn/projects/8405) ถ้าใครสนใจอยากจะแปลก็ขอเชิญแวะไปแปลใน ParaTranz ได้เลยนะครับ บอทจะดึงคำแปลจาก paratranz ราวๆเที่ยง และราวๆ 2 ทุ่มของทุกวัน ให้ไปเช็คเปอร์เซ็นความคืบของการแปลในโปรเจค paratranz กันเอาเอง แล้วค่อยมา กด update_localization.bat ตามขั้นตอนรูปด้านบนเพื่ออัพเดทคำแปล 
 
+# การใช้งาน Paratranz เบื้องต้น
 - ถ้าเพิ่งเคยเข้าเว็บ ParaTranz เป็นครั้งแรกแล้วเป็นภาษาจีนให้คลิ๊กตามลูกศรเพื่อเปลี่ยนเป็นภาษาอังกฤษ
+
 <div style="float: left; width: 100%;">
  <img src="img/Screenshot 2023-10-07 235258.png" width="99%" height="auto" />
+</div>
+
+<div style="float: left; width: 100%;">
+ <img src="img/cee07e36b9f224d697249832414f14c1!webp1280.webp" width="99%" height="auto" />
+</div>
+<div style="float: left; width: 100%;">
+ <img src="img/1ec2137a1b819120bc82a250a5dcac99!webp1280.webp" width="99%" height="auto" />
+</div>
+
+- วิธีเช็คดูคำที่แปลไปแล้ว
+<div style="float: left; width: 100%;">
+ <img src="img/05ac20420ec9455a0edb9a5139022f4c!webp1280.webp" width="99%" height="auto" />
+</div>
+
+- เนื่องจาก Paratranz ไม่มีฟีเจอร์ translate ช่วย เลยแนะนำให้ไปลง Add-Ons Quickly translate อย่าง Google แปลภาษา, Simple Translate เอาเองนะครับ (ส่วนตัวผมใช้ Simple Translate เพราะชอบความ minimal ของ Simple Translate น่ะ)
+<div style="float: left; width: 100%;">
+ <img src="img/firefox_isgqqQrT6e.gif" width="99%" height="auto" />
 </div>
 
 # Disclaimer
