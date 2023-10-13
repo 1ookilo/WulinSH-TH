@@ -615,7 +615,7 @@ PackTab_KungfuBook_Outer_Fist,Fist
 PackTab_KungfuBook_Outer_Sword,Sword Series
 PackTab_KungfuBook_Outer_Blade,Knife Series
 PackTab_KungfuBook_Outer_Long,Long
-PackTab_KungfuBook_Outer_Short,Short
+PackTab_KungfuBook_Outer_Short,Short,อาวุธสั้น
 PackTab_KungfuBook_Outer_Music,Musical
 MainPropTip_Exp_UnMax,Innate {0} Experience: {1}/{2}
 MainPropTip_Exp_Max,Innate {0} Experience: Reached the limit

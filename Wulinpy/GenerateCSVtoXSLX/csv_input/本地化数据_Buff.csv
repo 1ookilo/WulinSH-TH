@@ -24,8 +24,8 @@ BuffPropUp_B_BattleWine,
 BuffPropUp_B_BattleMedicine,
 BuffInfo_致伤,"Chance to trigger injury effect, Bleeding<#FE2929>+10</color>."
 BuffInfo_timeAdd,Permanent
-BuffInfo_GameTimeLength_day,{0} days
-BuffInfo_GameTimeLength_hour,{0} shichen
+BuffInfo_GameTimeLength_day,{0} days,{0} วัน
+BuffInfo_GameTimeLength_hour,{0} shichen,{0} ชั่วโมง
 BuffInfo_GameTimeLength_quarter,{0} moment
 BuffInfo_GameTimeLength_BattleAction,Expires after {0} actions
 BuffInfo_GameTimeLength_Battle,Expires after participating in {0} battles
@@ -58,7 +58,7 @@ BuffInfo_团队体力效果_7,"When current Stamina is <#FE2929>0</color>, damag
 BuffInfo_团队心情效果_0,"Current Mood is above <#29F161>90</color>, combat increases EXP from defeating enemies by <#29F161>30%</color>"
 BuffInfo_团队心情效果_1,"Current Mood is above <#29F161>75</color>, combat increases EXP from defeating enemies by <#29F161>20%</color>"
 BuffInfo_团队心情效果_2,"Current Mood is above <#29F161>60</color>, combat increases EXP from defeating enemies by <#29F161>10%</color>"
-BuffInfo_团队心情效果_3,No effect bonuses
+BuffInfo_团队心情效果_3,No effect bonuses,ไม่มีโบนัสเอฟเฟกต์
 BuffInfo_团队心情效果_4,"Current Mood is below <#FE2929>45</color>, only <#FE2929>80%</color> of EXP is gained from defeating enemies in combat"
 BuffInfo_团队心情效果_5,"Current Mood is below <#FE2929>30</color>, only <#FE2929>40%</color> of EXP is gained from defeating enemies in combat"
 BuffInfo_团队心情效果_6,"Current Mood is below <#FE2929>15</color>, only <#FE2929>20%</color> of EXP is gained from defeating enemies in combat"

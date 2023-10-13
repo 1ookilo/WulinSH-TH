@@ -61,16 +61,16 @@ Role1-1_2_2,"(The old injury flares up at this moment, hands and feet numb and w
 Role1-1_2_3,Ah--,ฮะ--
 Role1-1_2_4,<size=120%>Ah----</size>,<size=120%>ฮาาา----</size>
 Role1-1_2_5,<size=200%>Achoo!!!!!!</size>,<size=200%>ฮัด-ชิ้ว!!!!!!</size>
-Role1-1_2_6,"Sorry, I didn't mean to disturb you two.\nYou continue, I'll go back to sleep in the tree."
+Role1-1_2_6,"Sorry, I didn't mean to disturb you two.\nYou continue, I'll go back to sleep in the tree.",อ่า โทษทีๆ ข้าไม่ต้องใจจะรบกวนท่านทั้งสองหรอกนะ \nเชิญพวกท่านทั้งสองสู้กันต่อเลย แหะๆ เดี๋ยวข้าจะกลับขึ้นไปนอนบนต้นไม้ต่อล่ะ
 Role1-1_2_7,"Hey, you stop!"
 Role1-1_2_8,"Young hero, please wait!"
 Role1-1_2_9,Do you two have any orders for me?
-Role1-1_2_10,"Help me deal with him, I'll pay you!"
-Role1-1_2_11,"Young hero, I'm from the Crime Investigation Bureau, on a mission to solve a case.\nThis woman is a thief from the Nest of Swallow, capturing her is a great merit!"
-Role1-1_2_12,"I just happened to be sleeping in this tree.\nI didn't see anything, I didn't hear anything, just pretend I don't exist."
-Role1-1_2_13,"Hmph, coward!"
-Role1-1_2_20,"Young hero, don't be fooled by her, she's just stalling for time!\nIf her accomplices arrive, it will be difficult to capture her then!"
-Role1-1_2_21,Who should I help? Such a headache-inducing choice...
+Role1-1_2_10,"Help me deal with him, I'll pay you!",ช่วยข้าจัดการกับเขา แล้วข้าจะตอบแทนให้เจ้า
+Role1-1_2_11,"Young hero, I'm from the Crime Investigation Bureau, on a mission to solve a case.\nThis woman is a thief from the Nest of Swallow, capturing her is a great merit!",จอมยุทธ์น้อย ข้าเป็นคนของสำนักสืบสวน อยู่ระหว่างไขคดี \nสตรีนางนี้คือหัวขโมยจาก รังนกนางแอ่น การจับกุมนางเป็นคุญธรรมอันใหญ่หลวง
+Role1-1_2_12,"I just happened to be sleeping in this tree.\nI didn't see anything, I didn't hear anything, just pretend I don't exist.",ข..ข้าเพียงบัญเอิญงับหลับอยู่บนต้นไม้นี้ \nข้าไม่รู้ ไม่เห็นอะไรทั้งสิ้น แสร้งทำเหมือนข้าไม่มีตัวตน อยู่ตรงนี้เถอะนะ 
+Role1-1_2_13,"Hmph, coward!","ฮึ่ม, เจ้าคนตาขาว!"
+Role1-1_2_20,"Young hero, don't be fooled by her, she's just stalling for time!\nIf her accomplices arrive, it will be difficult to capture her then!",จอมยุทธน้อย อย่าหลงกลนาง นางเพียงกำลังถ่วงเวลา!/n\nหากพวกของนางตามมาถึง มันจะเป็นการยากต่อการจัดการกับนางเสียแล้ว!
+Role1-1_2_21,Who should I help? Such a headache-inducing choice...,ข้าควรจะเลือกช่วยผู้ใดดี? ช่างเป็นตัวเลือกทีชวนน่าปวดหัวเสียจริง...
 Role1-1_3_1,(How should I treat this constable?)
 Role1-1_3_2,{yell} You're actually helping the tyrant!\nDo you know the consequences of doing this!
 Role1-1_3_3,"Chattering, so annoying!"

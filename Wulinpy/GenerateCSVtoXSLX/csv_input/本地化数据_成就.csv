@@ -16,7 +16,7 @@ AchievementName_4,Effective Learner
 AchievementName_5,Survival Instinct
 AchievementName_6,Throwing Master
 AchievementName_7,Poisonous Body
-AchievementName_8,Fast Runner
+AchievementName_8,Fast Runner,นักวิ่งลมกรด
 AchievementName_9,Poison Expert
 AchievementName_10,Medical Expert
 AchievementName_11,Medical Master
@@ -42,8 +42,8 @@ AchievementName_30,Poisonous Skin
 AchievementName_31,Jianghu Master
 AchievementName_32,Jianghu Conqueror
 AchievementName_33,Master of Fist
-AchievementName_34,Master of Sword
-AchievementName_35,Master of Blade
+AchievementName_34,Master of Sword,ปรมาจารย์ ดาบ
+AchievementName_35,Master of Blade,ปรมาจารย์ กระบี่
 AchievementName_36,Master of Long Weapon
 AchievementName_37,Master of Short Weapon
 AchievementName_38,Master of Music

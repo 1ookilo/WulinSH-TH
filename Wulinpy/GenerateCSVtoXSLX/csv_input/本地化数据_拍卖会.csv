@@ -23,4 +23,4 @@ AuctionTalk_TwoSecondsNoBidFromStart,So awkward|So awkward!|So awkward!!
 AuctionNews_Treasure,"{AuctionName0} presents the top auction item {ItemName0}, after a thrilling competition, it was finally won by {RoleName0}."
 AuctionEnterConfirm,Are you sure you want to pay {0} Coin to participate in {1}?
 AuctionConclusion,"Thank you all for participating in this {0}, the auction has successfully ended, thank you all for your support."
-AuctionStealed,"I can't believe that an auction item was stolen right under my nose! The auction has to end early, my apologies to everyone."
+AuctionStealed,"I can't believe that an auction item was stolen right under my nose! The auction has to end early, my apologies to everyone.",ข้าไม่อยากจะเชื่อเลยว่ารายการประมูลถูกขโมยไปใต้จมูกของข้า! การประมูลต้องจบลงก่อนกําหนดขอโทษพวกท่านทุกคนด้วย

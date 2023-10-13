@@ -5,7 +5,7 @@ UI_Character,Character,ตัวละคร
 UI_Item,Item,ไอเทม
 UI_Kungfu,Martial Arts,วรยุทธ์
 UI_Bag,Inventory,สัมภาระ
-UI_WuDao,Passive
+UI_WuDao,Passive,วิถียุทธ์
 UI_Ability,Skill,ทักษะ
 UI_Relation,Relations
 UI_Task,Journal
@@ -137,8 +137,8 @@ UIMenuPanel_UIRoleMenuPanel_LeftPanel_Equip2_Item_mark_Text(TMP),Equip
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text,Attack power
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(1),Qinggong
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(2),Fist
-UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(3),Blade
-UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(4),Short
+UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(3),Blade,ดาบ
+UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(4),Short,อาวุธสั้น
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(5),Accuracy
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(6),Critical
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(7),Medical
@@ -147,7 +147,7 @@ UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(9),Knowledge
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text,Defense power
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(1),Action Speed
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(2),Sword,กระบี่
-UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(3),Long
+UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(3),Long,อาวุธยาว
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(4),Musical
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(5),Evasion
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(6),Parry
@@ -181,12 +181,12 @@ UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_Additional1_jiqi,+20
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_tag_Text,Attack power
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_tag_Text(1),Qinggong
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_tag_Text(2),Fist
-UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_tag_Text(3),Blade
-UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_tag_Text(4),Short
+UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_tag_Text(3),Blade,ดาบ
+UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_tag_Text(4),Short,อาวุธสั้น
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_tag1_Text,Defense power
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_tag1_Text(1),Initial Action Point
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_tag1_Text(2),Sword,กระบี่
-UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_tag1_Text(3),Long
+UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_tag1_Text(3),Long,อาวุธยาว
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_tag1_Text(4),Musical
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_RoleInfo_gongji,100
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_RoleInfo_qinggong,100
@@ -499,8 +499,8 @@ UIBattleActorInfo_RoleInfor1_tag_Text(10),HP
 UIBattleActorInfo_RoleInfor1_tag_Text,Attack power
 UIBattleActorInfo_RoleInfor1_tag_Text(1),Qinggong
 UIBattleActorInfo_RoleInfor1_tag_Text(2),Fist
-UIBattleActorInfo_RoleInfor1_tag_Text(3),Blade
-UIBattleActorInfo_RoleInfor1_tag_Text(4),Short
+UIBattleActorInfo_RoleInfor1_tag_Text(3),Blade,ดาบ
+UIBattleActorInfo_RoleInfor1_tag_Text(4),Short,อาวุธสั้น
 UIBattleActorInfo_RoleInfor1_tag_Text(5),Accuracy
 UIBattleActorInfo_RoleInfor1_tag_Text(6),Critical
 UIBattleActorInfo_RoleInfor1_tag_Text(7),Medical
@@ -510,7 +510,7 @@ UIBattleActorInfo_RoleInfor1_tag1_Text(10),MP
 UIBattleActorInfo_RoleInfor1_tag1_Text,Defense power
 UIBattleActorInfo_RoleInfor1_tag1_Text(1),Action Speed
 UIBattleActorInfo_RoleInfor1_tag1_Text(2),Sword,กระบี่
-UIBattleActorInfo_RoleInfor1_tag1_Text(3),Long
+UIBattleActorInfo_RoleInfor1_tag1_Text(3),Long,อาวุธยาว
 UIBattleActorInfo_RoleInfor1_tag1_Text(4),Musical
 UIBattleActorInfo_RoleInfor1_tag1_Text(5),Evasion
 UIBattleActorInfo_RoleInfor1_tag1_Text(6),Parry
@@ -548,12 +548,12 @@ UIBattleActorInfo_RoleInfor1_item_txt,Kitty
 UIBattleActorInfo_RoleInfor_tag_Text,Attack power
 UIBattleActorInfo_RoleInfor_tag_Text(1),Qinggong
 UIBattleActorInfo_RoleInfor_tag_Text(2),Fist
-UIBattleActorInfo_RoleInfor_tag_Text(3),Blade
-UIBattleActorInfo_RoleInfor_tag_Text(4),Short
+UIBattleActorInfo_RoleInfor_tag_Text(3),Blade,ดาบ
+UIBattleActorInfo_RoleInfor_tag_Text(4),Short,อาวุธสั้น
 UIBattleActorInfo_RoleInfor_tag1_Text,Defense power
 UIBattleActorInfo_RoleInfor_tag1_Text(1),Initial Action Point
 UIBattleActorInfo_RoleInfor_tag1_Text(2),Sword,กระบี่
-UIBattleActorInfo_RoleInfor_tag1_Text(3),Long
+UIBattleActorInfo_RoleInfor_tag1_Text(3),Long,อาวุธยาว
 UIBattleActorInfo_RoleInfor_tag1_Text(4),Musical
 UIBattleActorInfo_RoleInfor_RoleInfo_gongji,100
 UIBattleActorInfo_RoleInfor_RoleInfo_qinggong,100
@@ -679,8 +679,8 @@ UIRoleMenuPanel_LeftPanel_Equip2_Item_mark_Text(TMP),Equip
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text,Attack power
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(1),Qinggong
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(2),Fist
-UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(3),Blade
-UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(4),Short
+UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(3),Blade,ดาบ
+UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(4),Short,อาวุธสั้น
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(5),Accuracy
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(6),Critical
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(7),Medical
@@ -689,7 +689,7 @@ UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(9),Knowledge
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text,Defense power
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(1),Action Speed
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(2),Sword,กระบี่
-UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(3),Long
+UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(3),Long,อาวุธยาว
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(4),Musical
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(5),Evasion
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(6),Parry
@@ -723,12 +723,12 @@ UIRoleMenuPanel_LeftPanel_RoleInfor1_Additional1_jiqi,+20
 UIRoleMenuPanel_LeftPanel_RoleInfor_tag_Text,Attack power
 UIRoleMenuPanel_LeftPanel_RoleInfor_tag_Text(1),Qinggong
 UIRoleMenuPanel_LeftPanel_RoleInfor_tag_Text(2),Fist
-UIRoleMenuPanel_LeftPanel_RoleInfor_tag_Text(3),Blade
-UIRoleMenuPanel_LeftPanel_RoleInfor_tag_Text(4),Short
+UIRoleMenuPanel_LeftPanel_RoleInfor_tag_Text(3),Blade,ดาบ
+UIRoleMenuPanel_LeftPanel_RoleInfor_tag_Text(4),Short,อาวุธสั้น
 UIRoleMenuPanel_LeftPanel_RoleInfor_tag1_Text,Defense power
 UIRoleMenuPanel_LeftPanel_RoleInfor_tag1_Text(1),Initial Action Point
 UIRoleMenuPanel_LeftPanel_RoleInfor_tag1_Text(2),Sword,กระบี่
-UIRoleMenuPanel_LeftPanel_RoleInfor_tag1_Text(3),Long
+UIRoleMenuPanel_LeftPanel_RoleInfor_tag1_Text(3),Long,อาวุธยาว
 UIRoleMenuPanel_LeftPanel_RoleInfor_tag1_Text(4),Musical
 UIRoleMenuPanel_LeftPanel_RoleInfor_RoleInfo_gongji,100
 UIRoleMenuPanel_LeftPanel_RoleInfor_RoleInfo_qinggong,100
@@ -903,7 +903,7 @@ EscUI_EscUI_Main_Resume_Text(TMP),Return,ย้อนกลับ
 EscUI_EscUI_Main_Info_Text(TMP),Information
 EscUI_EscUI_Main_Save_Text(TMP),Save
 EscUI_EscUI_Main_Load_Text(TMP),Load
-EscUI_EscUI_Main_Setting_Text(TMP),Settings
+EscUI_EscUI_Main_Setting_Text(TMP),Settings,ตั้งค่า
 EscUI_EscUI_Main_Quit_Text(TMP),Return to Main Menu
 EscUI_EscUI_Save_Window_Title_Text(TMP),Write Save
 EscUI_EscUI_Save_Window_ItemDisplayZone_ViewPort_Item_SaveSlotDisplayer_Valid_SlotName,Manual Save 1
@@ -1299,9 +1299,9 @@ PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag1_Text(4),Toxicology
 PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag1_Text(5),Throwing
 PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag2_Text,Fist
 PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag2_Text(1),Sword,กระบี่
-PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag2_Text(2),Blade
-PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag2_Text(3),Long
-PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag2_Text(4),Short
+PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag2_Text(2),Blade,ดาบ
+PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag2_Text(3),Long,อาวุธยาว
+PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag2_Text(4),Short,อาวุธสั้น
 PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag2_Text(5),Musical
 PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag3_Text,Benevolence
 PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag3_Text(1),Righteous
@@ -1591,8 +1591,8 @@ DropdownItem_NameBg_HotKeyName,Move Forward
 Option A,Option A
 Option B,Option B
 Option C,Option C
-UISetting_Center_BottomButtonGroup_ButtonReset_Text(TMP),Default Recovery
-UISetting_Center_BottomButtonGroup_ButtonApply_Text(TMP),Apply
+UISetting_Center_BottomButtonGroup_ButtonReset_Text(TMP),Default Recovery,กู้คืนค่าเริ่มต้น
+UISetting_Center_BottomButtonGroup_ButtonApply_Text(TMP),Apply,นำไปใช้
 UISetting_Center_AudioPanel_MusicSetting_Value_MusicVolumeValue,50
 UISetting_Center_AudioPanel_SfxVolumeSetting_Value_SfxVolumeValue,50
 UISetting_Center_HotkeyPanel_HotkeyEditPanel_HotkeyEditDesc,Please Enter Key (Press ESC to Delete Shortcut)
@@ -1919,12 +1919,12 @@ UIPetsMainPanel_Down_ScrollView_Viewport_Content_Item(9)_txt,Kitty
 UIPetsMainPanel_RoleInfor_tag_Text,Attack power
 UIPetsMainPanel_RoleInfor_tag_Text(1),Qinggong
 UIPetsMainPanel_RoleInfor_tag_Text(2),Fist
-UIPetsMainPanel_RoleInfor_tag_Text(3),Blade
-UIPetsMainPanel_RoleInfor_tag_Text(4),Short
+UIPetsMainPanel_RoleInfor_tag_Text(3),Blade,ดาบ
+UIPetsMainPanel_RoleInfor_tag_Text(4),Short,อาวุธสั้น
 UIPetsMainPanel_RoleInfor_tag1_Text,Defense power
 UIPetsMainPanel_RoleInfor_tag1_Text(1),Initial Action Point
 UIPetsMainPanel_RoleInfor_tag1_Text(2),Sword,กระบี่
-UIPetsMainPanel_RoleInfor_tag1_Text(3),Long
+UIPetsMainPanel_RoleInfor_tag1_Text(3),Long,อาวุธยาว
 UIPetsMainPanel_RoleInfor_tag1_Text(4),Musical
 UIPetsMainPanel_RoleInfor_RoleInfo_gongji,100
 UIPetsMainPanel_RoleInfor_RoleInfo_qinggong,100
@@ -2177,8 +2177,8 @@ UIDetailed_RoleInfo_RoleInfor_tag_Text(10),HP
 UIDetailed_RoleInfo_RoleInfor_tag_Text,Attack power
 UIDetailed_RoleInfo_RoleInfor_tag_Text(1),Qinggong
 UIDetailed_RoleInfo_RoleInfor_tag_Text(2),Fist
-UIDetailed_RoleInfo_RoleInfor_tag_Text(3),Blade
-UIDetailed_RoleInfo_RoleInfor_tag_Text(4),Short
+UIDetailed_RoleInfo_RoleInfor_tag_Text(3),Blade,ดาบ
+UIDetailed_RoleInfo_RoleInfor_tag_Text(4),Short,อาวุธสั้น
 UIDetailed_RoleInfo_RoleInfor_tag_Text(5),Accuracy
 UIDetailed_RoleInfo_RoleInfor_tag_Text(6),Critical
 UIDetailed_RoleInfo_RoleInfor_tag_Text(7),Medical
@@ -2188,7 +2188,7 @@ UIDetailed_RoleInfo_RoleInfor_tag1_Text(10),MP
 UIDetailed_RoleInfo_RoleInfor_tag1_Text,Defense power
 UIDetailed_RoleInfo_RoleInfor_tag1_Text(1),Initial Action Point
 UIDetailed_RoleInfo_RoleInfor_tag1_Text(2),Sword,กระบี่
-UIDetailed_RoleInfo_RoleInfor_tag1_Text(3),Long
+UIDetailed_RoleInfo_RoleInfor_tag1_Text(3),Long,อาวุธยาว
 UIDetailed_RoleInfo_RoleInfor_tag1_Text(4),Musical
 UIDetailed_RoleInfo_RoleInfor_tag1_Text(5),Evasion
 UIDetailed_RoleInfo_RoleInfor_tag1_Text(6),Parry
@@ -2287,9 +2287,9 @@ UINewRole_RoleInfo_RoleInfor_tag1_Text(4),Toxicology
 UINewRole_RoleInfo_RoleInfor_tag1_Text(5),Throwing
 UINewRole_RoleInfo_RoleInfor_tag2_Text,Fist
 UINewRole_RoleInfo_RoleInfor_tag2_Text(1),Sword,กระบี่
-UINewRole_RoleInfo_RoleInfor_tag2_Text(2),Blade
-UINewRole_RoleInfo_RoleInfor_tag2_Text(3),Long
-UINewRole_RoleInfo_RoleInfor_tag2_Text(4),Short
+UINewRole_RoleInfo_RoleInfor_tag2_Text(2),Blade,ดาบ
+UINewRole_RoleInfo_RoleInfor_tag2_Text(3),Long,อาวุธยาว
+UINewRole_RoleInfo_RoleInfor_tag2_Text(4),Short,อาวุธสั้น
 UINewRole_RoleInfo_RoleInfor_tag2_Text(5),Musical
 UINewRole_RoleInfo_RoleInfor_tag3_Text,Benevolence
 UINewRole_RoleInfo_RoleInfor_tag3_Text(1),Righteous
@@ -2489,12 +2489,12 @@ UIPackage1_RoleInfo_Radar_BaseProperties_txt_bili,30
 UIPackage1_RoleInfo_RoleInfor_tag_Text,Attack power
 UIPackage1_RoleInfo_RoleInfor_tag_Text(1),Qinggong
 UIPackage1_RoleInfo_RoleInfor_tag_Text(2),Fist
-UIPackage1_RoleInfo_RoleInfor_tag_Text(3),Blade
-UIPackage1_RoleInfo_RoleInfor_tag_Text(4),Short
+UIPackage1_RoleInfo_RoleInfor_tag_Text(3),Blade,ดาบ
+UIPackage1_RoleInfo_RoleInfor_tag_Text(4),Short,อาวุธสั้น
 UIPackage1_RoleInfo_RoleInfor_tag1_Text,Defense power
 UIPackage1_RoleInfo_RoleInfor_tag1_Text(1),Initial Action Point
 UIPackage1_RoleInfo_RoleInfor_tag1_Text(2),Sword,กระบี่
-UIPackage1_RoleInfo_RoleInfor_tag1_Text(3),Long
+UIPackage1_RoleInfo_RoleInfor_tag1_Text(3),Long,อาวุธยาว
 UIPackage1_RoleInfo_RoleInfor_tag1_Text(4),Musical
 UIPackage1_RoleInfo_RoleInfor_RoleInfo_gongji,100
 UIPackage1_RoleInfo_RoleInfor_RoleInfo_qinggong,100
@@ -2532,8 +2532,8 @@ UIPackage1_RoleInfo_RoleInfor_Interaction_Button(3)_Text(TMP),Leave team
 UIPackage1_RoleInfo_RoleInfor1_tag_Text,Attack power
 UIPackage1_RoleInfo_RoleInfor1_tag_Text(1),Qinggong
 UIPackage1_RoleInfo_RoleInfor1_tag_Text(2),Fist
-UIPackage1_RoleInfo_RoleInfor1_tag_Text(3),Blade
-UIPackage1_RoleInfo_RoleInfor1_tag_Text(4),Short
+UIPackage1_RoleInfo_RoleInfor1_tag_Text(3),Blade,ดาบ
+UIPackage1_RoleInfo_RoleInfor1_tag_Text(4),Short,อาวุธสั้น
 UIPackage1_RoleInfo_RoleInfor1_tag_Text(5),Accuracy
 UIPackage1_RoleInfo_RoleInfor1_tag_Text(6),Critical
 UIPackage1_RoleInfo_RoleInfor1_tag_Text(7),Medical
@@ -2542,7 +2542,7 @@ UIPackage1_RoleInfo_RoleInfor1_tag_Text(9),Knowledge
 UIPackage1_RoleInfo_RoleInfor1_tag1_Text,Defense power
 UIPackage1_RoleInfo_RoleInfor1_tag1_Text(1),Initial Action Point
 UIPackage1_RoleInfo_RoleInfor1_tag1_Text(2),Sword,กระบี่
-UIPackage1_RoleInfo_RoleInfor1_tag1_Text(3),Long
+UIPackage1_RoleInfo_RoleInfor1_tag1_Text(3),Long,อาวุธยาว
 UIPackage1_RoleInfo_RoleInfor1_tag1_Text(4),Musical
 UIPackage1_RoleInfo_RoleInfor1_tag1_Text(5),Evasion
 UIPackage1_RoleInfo_RoleInfor1_tag1_Text(6),Parry
@@ -2839,7 +2839,7 @@ RelationNpcBox_textNotKnow,Unknown
 UIBonds_btnStop_Text(TMP),Stop
 PlayerCreateUI_CharSheet_PerkGroup_Roaming_Title,Other
 PlayerCreateUI_CharSheet_PerkGroup_Battle_Title,Battle
-PlayerCreateUI_DiffSelect_DiffSelectGroup_Diff100_Background_Set_Text(TMP),Settings
+PlayerCreateUI_DiffSelect_DiffSelectGroup_Diff100_Background_Set_Text(TMP),Settings,ตั้งค่า
 CustomDiffUI_TagsGroup_TagsB_Text(TMP),Other
 CustomDiffUI_TagsGroup_TagsA_Text(TMP),Attribute Selection
 CustomDiffUI_Window_Title_info2,"After the character joins the team, the increased attributes and extra effects will be invalid due to the difficulty."
@@ -2853,8 +2853,8 @@ CustomDiffUI_Window_GroupA_SubGroup_AtkDef_Title,Attack and Defense attributes i
 CustomDiffUI_Window_GroupB_EnemyBuffGroup_Title,Npc Extra Status
 CustomDiffUI_Window_GroupB_SubGroup_AtkDef(1)_Title,NPC Auto Upgrade Frequency
 CustomDiffUI_Window_GroupB_SubGroup_AtkDef_Title,Kill to get EXP multiplier
-CustomDiffUI_Window_Revert_Text(TMP),Default Recovery
-CustomDiffUI_Window_Confirm_Text(TMP),Apply
+CustomDiffUI_Window_Revert_Text(TMP),Default Recovery,กู้คืนค่าเริ่มต้น
+CustomDiffUI_Window_Confirm_Text(TMP),Apply,นำไปใช้
 UIModMain_Main_txtTitle,Mod Manager
 UIModMain_LayerShop_toggleSubscription_txt,Subscribed Mods
 UIModMain_LayerShop_txtTitleFilterTags,Mod Categories

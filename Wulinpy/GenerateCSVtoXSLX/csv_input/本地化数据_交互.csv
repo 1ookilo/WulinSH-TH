@@ -6,7 +6,7 @@ NpcAssassin_通用_RunAway,Murder! Murder!
 NpcAssassin_通用_KaiGan,Dare you ambush me?
 NpcPoision_通用_RunAway,"What suspicious thing are you feeding me!|Oh my god, someone is poisoning!"
 NpcPoision_通用_KaiGan,You are so bold!|Who gave you the courage to poison me!
-PlayerAssassin_通用_OverTop,Run!
+PlayerAssassin_通用_OverTop,Run!,วื่ง !!
 PlayerAssassin_通用_Seckill,"Hmph, that's all.|Easy as pie!"
 PlayerAssassin_通用_Unseckill,I didn't hit... do you believe...
 PlayerPoision_通用_MaximumPoision,The poison in this person is deep enough.

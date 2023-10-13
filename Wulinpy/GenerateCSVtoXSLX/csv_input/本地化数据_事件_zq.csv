@@ -3,10 +3,10 @@ Talking_cup,Wine glass
 Talking_trouble,Tricky
 Talking_ambition,Ambition
 Talking_freesleep,Free
-Talking_qiecuo,Spar
+Talking_qiecuo,Spar,ประลอง
 Talking_treasure,Present treasure
 Talking_fan,Cattail fan
-Talking_leavecity,Leave the city
+Talking_leavecity,Leave the city,ออกจากเมือง
 Talking_serve,Serve
 Talking_map,Map
 M1101-2-1_talk,Jade pendant
@@ -945,8 +945,8 @@ M20105-2_option1_5,"I'm not ready yet, I'll come back later."
 M20106-1_option1_1,I've been injured.
 M20106-1_option1_2,I'm feeling unwell.
 M20106-1_option1_3,I'm in good health...
-M20106-2_name,Find the doctor
-M20106-2_overview1,Go to Wild Wolf Valley to find the doctor.
+M20106-2_name,Find the doctor,ค้นหาแพทย์
+M20106-2_overview1,Go to Wild Wolf Valley to find the doctor.,ไปที่ Wild Wolf Valley เพื่อค้นหาแพทย์
 M20106-2_overview2,Tell the young medicine boy at Charity House about the doctor.
 M20106-2_overview3,The doctor will return to Charity House in a few days.
 M20106-2_overview4,Find a way to deceive the young medicine boy.
@@ -991,7 +991,7 @@ Day-15_option2_2,Let's talk about it later.
 Day-15_option3_1,Defeat the <color=#c44b0e>lotus root cold cake zongzi</color>!
 Day-15_option3_2,Let's talk about it later.
 Day-15_option4_1,Defeat the <color=#c44b0e>salt and pepper pea zongzi</color>!
-Day-15_option4_2,Let's talk about it later.
+Day-15_option4_2,Let's talk about it later.,เอาไว้ค่อยคุยกันทีหลัง
 Day-15_option5_1,Defeat the <color=#c44b0e>yellow rice bean paste zongzi</color>!
 Day-15_option5_2,Let's talk about it later.
 M20100-14_option1_1,"Barge in, who dares to stop me! <color=#c44b0e>(Start the fight directly)</color>"
@@ -1019,7 +1019,7 @@ M20109-1_overview2,Inform the White Cloud Temple Master of the result.
 M20109-1_name,White Cloud Storm
 M20109-1_npcname,People demanding justice
 R10046-1_option1_1,Ready! <color=#097a76>(Hero's solo fight)</color>
-R10046-1_option1_2,Not ready yet.
+R10046-1_option1_2,Not ready yet.,ข้ายังไม่พร้อม
 M20300-8_option1_1,"I insist on entering, dare you stop me? <color=#c44b0e>(Start the fight directly)</color>"
 M20300-8_option1_2,"Give you this money as a token of respect, can you let me pass? <color=#097a76>(Scrap silver 2 liang)</color>"
 M20300-8_option1_3,"Considering our Relations, can you pretend you didn't see me? <color=#097a76>(Relations reach 60)</color>"

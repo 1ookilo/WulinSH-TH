@@ -1,4 +1,4 @@
-﻿﻿GameLog_ApplySetting,Settings updated successfully
+﻿﻿GameLog_ApplySetting,Settings updated successfully,อัพเดทการตั้งค่าสำเร็จ
 Hotkey_RoamingMoveLeft,Move to the top left
 Hotkey_RoamingMoveRight,Move to the bottom right
 Hotkey_RoamingMoveUp,Move to the top right
@@ -73,11 +73,11 @@ HotkeyEnv_Roaming,Free Mode
 HotkeyEnv_Story,Story Mode
 HotkeyEnv_Stealth,Stealth Mode
 HotkeyEnv_Battle,Battle Mode
-Setting,Settings
-Setting_Game,Game
-Setting_Audio,Sound
-Setting_Graphic,Graphics
-Setting_Hotkey,Hotkeys
+Setting,Settings,ตั้งค่า
+Setting_Game,Game,เกม
+Setting_Audio,Sound,เสียง
+Setting_Graphic,Graphics,กราฟฟิก
+Setting_Hotkey,Hotkeys,ฮอตคีย์
 Tab,Tabulation
 Hotkey_RoamingRun,Run
 LeftShift,Shift Up
@@ -116,32 +116,32 @@ HotkeyEditTip,Please Enter Key (Press ESC to Delete Shortcut)
 InvalidInput,Invalid Input
 HotkeyConflictConfirm,"Conflicts with the key {0} ({1}), clicking OK will delete the shortcut key of {0}"
 SettingNonSaveConfirm,Do you want to keep the changes?
-SettingTitle_Music,Background Music
-SettingTitle_Sfx,Game Sound Effects
-SettingTitle_DiaplayMode,Display Mode
-SettingTitle_Resolution,Resolution Selection
+SettingTitle_Music,Background Music,เสียงดนตรีเพลงประกอบ
+SettingTitle_Sfx,Game Sound Effects,เสียงเกมเอฟเฟค
+SettingTitle_DiaplayMode,Display Mode,โหมดการแสดงผล
+SettingTitle_Resolution,Resolution Selection,เลือกความละเอียดหน้าจอ
 ScreenDisplayMode_FullScreen,Full Screen Mode
 ScreenDisplayMode_Window,Window Mode
 ScreenDisplayMode_NoFrame,Borderless Window Mode
-SettingTitle_Language,Language
+SettingTitle_Language,Language,ภาษา
 SettingTitle_AutoSaveInterval,Auto Save Time
-SettingTitle_Font,Font
+SettingTitle_Font,Font,ฟอนต์
 Font0,Pixel Font
 Font1,Regular Font
 SettingValue_AutoSaveInterval,{0} minutes
-SettingTitle_ClickBattle,"Quickly switch between stealth, combat, and skip scenes"
-SettingTitle_BulkTrading,"Batch Buy, Sell, Appraise【Item quantity must be 5 or more】"
-SettingTitle_RunInBackground,Game continues to run in the background
+SettingTitle_ClickBattle,"Quickly switch between stealth, combat, and skip scenes",สลับระหว่างโหมดลอบเร้น โหมดต่อสู้และข้ามฉากอย่างรวดเร็ว
+SettingTitle_BulkTrading,"Batch Buy, Sell, Appraise【Item quantity must be 5 or more】",ซื้อขายและประเมินไอเท็มแบบชุด【จำนวนไอเท็มต้องมี 5 ชิ้น ขึ้นไปหรือมากกว่า】
+SettingTitle_RunInBackground,Game continues to run in the background,เกมยังคงทำงานในขณะที่พับจออยู่
 SettingTitle_ClickStoryOption,Quickly select plot options
-SettingTitle_PressMouseRun,"When moving with the mouse, the default movement mode is running"
-SettingTitle_KeyForceRun,"When moving with shortcut keys, the default movement mode is running"
-SettingTitle_UseConsumableReconfirm,Confirmation required when using consumables
-SettingTitle_BulkUseComsumable,Batch use available for some consumables
-SettingTitle_AutoBattleWhenStart,Automatically start combat after battle opens
-SettingTitle_DoubleSpeedWhenStart,2x speed is the default after battle opens
-SettingTitle_EpAndAccuAtkVisible,"MP, Rage continuously displayed after battle opens"
-SettingTitle_HpBarResident,HP continuously displayed after battle opens
-SettingTitle_OneTouchBuyFromHighToLow,One-click buy in order from high to low grade
-SettingTitle_OneTouchSellFromLowToHigh,One-click sell in order from low to high grade
-SettingTitle_AutoSave,Open auto-save (only saves when switching scenes and after battles)
-SettingTitle_AutoSaveWhenChangeSceneAndRoaming,Save every 10 minutes in free state (requires auto-save to be enabled)
+SettingTitle_PressMouseRun,"When moving with the mouse, the default movement mode is running",เมื่อเคลื่อนที่ด้วยการใช้เมาส์ การเคลื่อนไหวจะอยู่ในโหมดวิ่งเป็นค่าเริ่มต้น
+SettingTitle_KeyForceRun,"When moving with shortcut keys, the default movement mode is running",เมื่อเคลื่อนที่ด้วยการใช้ปุ่มคีย์บอร์ด การเคลื่อนไหวจะอยู่ในโหมดวิ่งเป็นค่าเริ่มต้น
+SettingTitle_UseConsumableReconfirm,Confirmation required when using consumables,มีการยืนยันเมื่อใช้ไอเท็มประเภทกดใช้
+SettingTitle_BulkUseComsumable,Batch use available for some consumables,อนุญาติให้ใช้ไอเท็มประเภทกดใช้บางชนิดเป็นแบบชุดได้
+SettingTitle_AutoBattleWhenStart,Automatically start combat after battle opens,หลังจากเข้าสู่โหมดต่อสู้ การต่อสู้อัตโนมัติจะถูกเปิดใช้งานเป็นค่าเริ่มต้น
+SettingTitle_DoubleSpeedWhenStart,2x speed is the default after battle opens,ความเร็ว 2x คือค่าเริ่มต้นหลังเข้าสู่โหมดต่อสู้
+SettingTitle_EpAndAccuAtkVisible,"MP, Rage continuously displayed after battle opens",เมื่อเข้าสู่โหมดต่อสู้ ค่าพลังภายในและค่าโกรธจะแสดงอย่างต่อเนื่อง
+SettingTitle_HpBarResident,HP continuously displayed after battle opens,เมื่อเข้าสู่โหมดต่อสู้ ค่าพลังชีวิตจะแสดงอย่างต่อเนื่อง
+SettingTitle_OneTouchBuyFromHighToLow,One-click buy in order from high to low grade,เปิดใช้หนึ่งคลิ๊กเพื่อสั่งซื้อสินค้าระดับสูงไปยังระดับต่ำ
+SettingTitle_OneTouchSellFromLowToHigh,One-click sell in order from low to high grade,เปิดใช้หนึ่งคลิ๊กเพื่อสั่งซื้อสินค้าระดับต่ำไปยังระดับสูง
+SettingTitle_AutoSave,Open auto-save (only saves when switching scenes and after battles),เปิดใช้เซฟเกมอัตโนมัติ (เฉพาะเซฟเมื่อสลับฉากและหลังการต่อสู้)
+SettingTitle_AutoSaveWhenChangeSceneAndRoaming,Save every 10 minutes in free state (requires auto-save to be enabled),เซฟเกมทุกๆ 10 นาที ในตอนที่อยู่ในสถานะว่าง (จำเป็นต้องเปิดใช้งานการเซฟเกมอัตโนมัติก่อน)
