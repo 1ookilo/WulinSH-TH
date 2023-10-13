@@ -61,40 +61,40 @@ Role1-1_2_2,"(The old injury flares up at this moment, hands and feet numb and w
 Role1-1_2_3,Ah--,ฮะ--
 Role1-1_2_4,<size=120%>Ah----</size>,<size=120%>ฮาาา----</size>
 Role1-1_2_5,<size=200%>Achoo!!!!!!</size>,<size=200%>ฮัด-ชิ้ว!!!!!!</size>
-Role1-1_2_6,"Sorry, I didn't mean to disturb you two.\nYou continue, I'll go back to sleep in the tree.",อ่า โทษทีๆ ข้าไม่ต้องใจจะรบกวนท่านทั้งสองหรอกนะ \nเชิญพวกท่านทั้งสองสู้กันต่อเลย แหะๆ เดี๋ยวข้าจะกลับขึ้นไปนอนบนต้นไม้ต่อล่ะ
+Role1-1_2_6,"Sorry, I didn't mean to disturb you two.\nYou continue, I'll go back to sleep in the tree.",อ่า โทษทีๆ ข้าไม่ตั้งใจจะรบกวนท่านทั้งสองหรอกนะ เชิญพวกท่านทั้งสองสู้กันต่อเลย แหะๆ เดี๋ยวข้าจะกลับขึ้นไปนอนบนต้นไม้ต่อล่ะ
 Role1-1_2_7,"Hey, you stop!"
 Role1-1_2_8,"Young hero, please wait!"
 Role1-1_2_9,Do you two have any orders for me?
 Role1-1_2_10,"Help me deal with him, I'll pay you!",ช่วยข้าจัดการกับเขา แล้วข้าจะตอบแทนให้เจ้า
-Role1-1_2_11,"Young hero, I'm from the Crime Investigation Bureau, on a mission to solve a case.\nThis woman is a thief from the Nest of Swallow, capturing her is a great merit!",จอมยุทธ์น้อย ข้าเป็นคนของสำนักสืบสวน อยู่ระหว่างไขคดี \nสตรีนางนี้คือหัวขโมยจาก รังนกนางแอ่น การจับกุมนางเป็นคุญธรรมอันใหญ่หลวง
-Role1-1_2_12,"I just happened to be sleeping in this tree.\nI didn't see anything, I didn't hear anything, just pretend I don't exist.",ข..ข้าเพียงบัญเอิญงับหลับอยู่บนต้นไม้นี้ \nข้าไม่รู้ ไม่เห็นอะไรทั้งสิ้น แสร้งทำเหมือนข้าไม่มีตัวตน อยู่ตรงนี้เถอะนะ 
+Role1-1_2_11,"Young hero, I'm from the Crime Investigation Bureau, on a mission to solve a case.\nThis woman is a thief from the Nest of Swallow, capturing her is a great merit!",จอมยุทธ์น้อย ข้าเป็นคนของสำนักสืบสวน อยู่ระหว่างไขคดี สตรีนางนี้คือหัวขโมยจาก รังนกนางแอ่น การจับกุมนางเป็นนับคุณธรรมอันใหญ่หลวง
+Role1-1_2_12,"I just happened to be sleeping in this tree.\nI didn't see anything, I didn't hear anything, just pretend I don't exist.",ข..ข้าเพียงบัญเอิญงีบหลับอยู่บนต้นไม้นี้ ข้าไม่รู้ ไม่เห็นอะไรทั้งสิ้น แสร้งทำเหมือนข้าไม่มีตัวตน อยู่ตรงนี้เถอะนะ 
 Role1-1_2_13,"Hmph, coward!","ฮึ่ม, เจ้าคนตาขาว!"
-Role1-1_2_20,"Young hero, don't be fooled by her, she's just stalling for time!\nIf her accomplices arrive, it will be difficult to capture her then!",จอมยุทธน้อย อย่าหลงกลนาง นางเพียงกำลังถ่วงเวลา!/n\nหากพวกของนางตามมาถึง มันจะเป็นการยากต่อการจัดการกับนางเสียแล้ว!
+Role1-1_2_20,"Young hero, don't be fooled by her, she's just stalling for time!\nIf her accomplices arrive, it will be difficult to capture her then!",จอมยุทธน้อย อย่าหลงกลนาง นางเพียงกำลังถ่วงเวลา! หากพวกของนางตามมาถึง มันจะเป็นการยากต่อการจัดการกับนางเสียแล้ว!
 Role1-1_2_21,Who should I help? Such a headache-inducing choice...,ข้าควรจะเลือกช่วยผู้ใดดี? ช่างเป็นตัวเลือกทีชวนน่าปวดหัวเสียจริง...
 Role1-1_3_1,(How should I treat this constable?)
-Role1-1_3_2,{yell} You're actually helping the tyrant!\nDo you know the consequences of doing this!
+Role1-1_3_2,{yell} You're actually helping the tyrant!\nDo you know the consequences of doing this!,{yell}เจ้าคิดจะช่วยคนชั่วนั้นจริงๆ! เจ้า รู้ผลที่ตามมาของการทำเช่นนี้หรือไม่?
 Role1-1_3_3,"Chattering, so annoying!"
 Role1-1_3_4,Let's tie you up first!
 Role1-1_3_5,You somehow find a rope and tie this handsome constable up tightly.
 Role1-1_3_6,"Accidentally, you touch something very soft..."
-Role1-1_3_7,"You, you, you're a woman?!"
-Role1-1_3_8,"You rascal, let me go!\nIf you let this thief go, the Crime Investigation Bureau won't let you off!"
-Role1-1_3_9,"We can't stay here for long, quickly <color=#c44b0e>help me up</color> and run away from here as soon as possible."
+Role1-1_3_7,"You, you, you're a woman?!",จะ.. เจ้า เจ้าเป็นสตรีรึ?!!!
+Role1-1_3_8,"You rascal, let me go!\nIf you let this thief go, the Crime Investigation Bureau won't let you off!",เจ้าคนสารเลว ปล่อยข้าซะ ถ้าเจ้ายังปล่อยโจรร้ายนี้ไป กองสืบสวนคดี จะไม่ละเว้นเจ้าไว้แน่!!
+Role1-1_3_9,"We can't stay here for long, quickly <color=#c44b0e>help me up</color> and run away from here as soon as possible.",เรามิอาจรั้งรอที่แห่งนี้ได้นาน เร็วเข้า<color=#c44b0e>ช่วยข้า</color> และไปจากที่แห่งนี้โดยไวเถิด
 Role1-1_3_1_9,"You rascal, let me go!"
-Role1-1_4_1,{yell} You're actually helping the tyrant!\nDo you know the consequences of doing this!
+Role1-1_4_1,{yell} You're actually helping the tyrant!\nDo you know the consequences of doing this!,{yell}เจ้าคิดจะช่วยคนชั่วนั้นจริงๆ! เจ้า รู้ผลที่ตามมาของการทำเช่นนี้หรือไม่?
 Role1-1_4_2,Is this your last word?
 Role1-1_4_3,Crime Investigation Bureau... won't... let you off...
 Role1-1_5_1,"You... behave yourself, don't move around!"
 Role1-1_5_2,"Sorry, I didn't realize you were a woman..."
 Role1-1_6_1,(How should I treat this masked woman?)
-Role1-1_6_2,"{yell}Hey! We are all people of the same path,\nleave a line for future encounters!"
-Role1-1_6_3,"{yell}Taking advantage of others' danger, what kind of hero are you!"
-Role1-1_6_4,"Wait and see, I won't let you go!"
+Role1-1_6_2,"{yell}Hey! We are all people of the same path,\nleave a line for future encounters!",{yell}นี่เจ้างั่ง! เราต่างเป็นคนในยุทธภพ อย่าได้ละทิ้งหนทาง วาสนาต่อกันในอนาคตเลย!
+Role1-1_6_3,"{yell}Taking advantage of others' danger, what kind of hero are you!",{yell})เจ้าคนหน้าไม่อาย ฉกฉวยประโยชน์จากหายนะของผู้อื่น สารเลวอย่างเจ้า เป็นจอมยุทธเช่นใดกัน!
+Role1-1_6_4,"Wait and see, I won't let you go!",คอยดูเหอะ ข้าไม่ปล่อยเจ้าไว้แน่
 Role1-1_6_5,"Chattering, so annoying!"
 Role1-1_6_6,Let's tie you up first!
 Role1-1_6_7,You somehow find a rope and tie this masked woman up tightly.
-Role1-1_6_8,"Hurry up and untie me, or you will regret it!"
-Role1-1_6_9,"The young hero really understands the big picture! Please <color=#c44b0e>help me up</color>, it's not safe here, we need to run away as soon as possible."
+Role1-1_6_8,"Hurry up and untie me, or you will regret it!",ปลดมันออกให้ข้าเดี๋ยวนี้นะ ไม่เช่นนั้น เจ้าจะต้องเสียใจ!
+Role1-1_6_9,"The young hero really understands the big picture! Please <color=#c44b0e>help me up</color>, it's not safe here, we need to run away as soon as possible.",จอมยุทธน้อย ช่างปราดเปรื่องยิ่งนัก เห็นแก่การณ์ใหญ่ โปรด <color=#c44b0e>ช่วยข้า</color> สถานที่แห่งนี้ไม่ปลอดภัย เราจำเป็นต้องจากไปโดยไวเท่าที่เป็นไปได้
 Role1-1_7_1,"I've helped you with your trouble, can you do me a favor now?"
 Role1-1_7_2,"What can I do for you, young hero?"
 Role1-1_7_3,"I seem to be lost and out of money, can you help me get out of here?"

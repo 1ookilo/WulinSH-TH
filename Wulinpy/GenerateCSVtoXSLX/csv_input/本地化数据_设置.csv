@@ -11,7 +11,7 @@ Hotkey_RoamingKungfu,Martial Arts
 Hotkey_RoamingEnlightenment,Passive
 Hotkey_RoamingAbility,Skill
 Hotkey_RoamingRelation,Relations
-Hotkey_RoamingQuest,Journal
+Hotkey_RoamingQuest,Journal,บันทึก
 Hotkey_RoamingNews,Rivers and Lakes News
 Hotkey_RoamingPet,Pets.
 Hotkey_RoamingEsc,System Menu
@@ -120,14 +120,14 @@ SettingTitle_Music,Background Music,เสียงดนตรีเพลง�
 SettingTitle_Sfx,Game Sound Effects,เสียงเกมเอฟเฟค
 SettingTitle_DiaplayMode,Display Mode,โหมดการแสดงผล
 SettingTitle_Resolution,Resolution Selection,เลือกความละเอียดหน้าจอ
-ScreenDisplayMode_FullScreen,Full Screen Mode
-ScreenDisplayMode_Window,Window Mode
-ScreenDisplayMode_NoFrame,Borderless Window Mode
+ScreenDisplayMode_FullScreen,Full Screen Mode,โหมดเต็มจอ
+ScreenDisplayMode_Window,Window Mode,โหมดหน้าต่าง
+ScreenDisplayMode_NoFrame,Borderless Window Mode,โหมดหน้าต่างไร้ขอบ
 SettingTitle_Language,Language,ภาษา
 SettingTitle_AutoSaveInterval,Auto Save Time
 SettingTitle_Font,Font,ฟอนต์
-Font0,Pixel Font
-Font1,Regular Font
+Font0,Pixel Font,ฟอนต์สไตล์พิกเซล
+Font1,Regular Font,ฟอนต์สไตล์ปกติ
 SettingValue_AutoSaveInterval,{0} minutes
 SettingTitle_ClickBattle,"Quickly switch between stealth, combat, and skip scenes",สลับระหว่างโหมดลอบเร้น โหมดต่อสู้และข้ามฉากอย่างรวดเร็ว
 SettingTitle_BulkTrading,"Batch Buy, Sell, Appraise【Item quantity must be 5 or more】",ซื้อขายและประเมินไอเท็มแบบชุด【จำนวนไอเท็มต้องมี 5 ชิ้น ขึ้นไปหรือมากกว่า】

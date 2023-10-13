@@ -1,4 +1,4 @@
-﻿﻿Talking_default,Talk
+﻿﻿Talking_default,Talk,พูดคุย
 Talking_learn,Request
 M1101-5_talking,Jewelry
 M1100-1_name,Small Village Bao Dating
@@ -7,7 +7,7 @@ M1100-2_name,Collect Herbs
 M1100-2_overview,Help the village doctor collect 5 Wolfberries.
 M1100-2_overview2,Give 5 Wolfberries to the doctor.
 M1100-2_overview3,Chat with the medicine-selling doctor.
-M1100-2_option1_dialog,"Young man, can you help me collect Wolfberries?"
+M1100-2_option1_dialog,"Young man, can you help me collect Wolfberries?",พ่อหนุ่ม เจ้าช่วยรวบรวมวูล์ฟเบอร์รี่ให้ข้าทีได้ไหม?
 M1100-2_option1_1,I'll go collect <color=#c44b0e>Wolfberries</color> right away.
 M1100-2_option1_2,"I really can't spare the time right now, let's talk about it later."
 M1100-3_name,Snake Gall in Wine
@@ -21,7 +21,7 @@ M1100-3_option2_1,"Alright, leave it to me."
 M1100-3_option2_2,I think it's better not to...
 M1100-5_name,Doctor's Free Clinic
 M1100-5_overview,"The doctor can heal the team for free once, recovering all HP and MP."
-M1100-5_talk,Heal
+M1100-5_talk,Heal,รักษา
 M1100-5_option1,I'll count on you then.<color=#097a76>(1 shichen)</color>
 M1100-5_option2,"I feel quite healthy, no need to heal for now."
 M1100-5option1_dialog,Do you need me to help you regulate your Qi and blood?

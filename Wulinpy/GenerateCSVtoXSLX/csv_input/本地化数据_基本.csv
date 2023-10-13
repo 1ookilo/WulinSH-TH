@@ -72,9 +72,9 @@ BattlePropModified_NegBleed,<#F55452>Bleeding{0}</color>
 BattlePropModified_NegBlind,<#F55452>Blind {0}</color>
 AutoBattle_NoEnemy,"%c%No enemies nearby, can't auto-battle"
 PlayerCreate_NameIllegal,"%c%The name contains sensitive words, please re-enter"
-PlayerCreate_TraitCount,Available achievement points: <#ffffff>{0}</color>
+PlayerCreate_TraitCount,Available achievement points: <#ffffff>{0}</color>,พอยต์ความสำเร็จที่มีอยู่: <#ffffff>{0}</color>
 PlayerCreate_AbilityCount,Please select {1} initial skills ({0}/{1})
-PlayerCreate_MainPropPoint,Available points: {0}
+PlayerCreate_MainPropPoint,Available points: {0},พอยต์ที่มีอยู่: {0}
 PlayerCreate_Item,Please select {1} sets of initial items ({0}/{1})
 PlayerCreate_AbilityTip,{0}：{1}
 PlayerCreate_EmptyTraitAvalible,"There are still points left for selection, \ndo you want to give up?"
@@ -291,7 +291,7 @@ StoryNote_Fail,Failed
 StoryNote_AddCheckFail,%c%Event tracking is full
 Time_Day,Sky
 Time_Hour,shichen
-Time_Quarter,Ke
+Time_Quarter,Ke,เค่อ
 Mining_Lucky,What a luck!
 Mining_Spe,What a pleasant surprise!
 GameLog_NoCoundJuezhao,%c%No selectable ultimate move
@@ -436,13 +436,13 @@ DiffName_1,<#34657A>Normal</color>
 DiffName_2,<#6B3F77>Hard</color>
 DiffName_3,<#7D3A34>Nightmare</color>
 DiffName_100,<#ffff44>Free</color>
-DiffInfo_0,"First time playing, recommended to start with this difficulty."
-DiffInfo_1,Suitable for players familiar with chess games and unwilling to auto-battle throughout.
-DiffInfo_2,Suitable for players who are good at researching various combinations and challenging difficulties.
-DiffInfo_3,"Whether to torture or be tortured, it's all in a thought!"
-DiffInfo_100,"<nobr>Choose settings to customize difficulty, the higher the difficulty, the higher the calculated coefficient!"
+DiffInfo_0,"First time playing, recommended to start with this difficulty.",หากคุณกำลังเล่นครั้งแรกขอแนะนำให้เริ่มต้นด้วยความยากนี้
+DiffInfo_1,Suitable for players familiar with chess games and unwilling to auto-battle throughout.,เหมาะสำหรับผู้เล่นที่มีความคุ้นเคยกับระบบ คุ้นชินกับเกมหมาก และ อยากเล่นผ่าน auto-battle
+DiffInfo_2,Suitable for players who are good at researching various combinations and challenging difficulties.,เหมาะสำหรับผู้เล่นที่เข้าใจระบบเป็นอย่างดี  และต้องการความยากที่ท้าทายขึ้น
+DiffInfo_3,"Whether to torture or be tortured, it's all in a thought!",ไม่ว่าจะข่มเหงหรือถูกข่มเหง ทุกสิ่งขึ้นอยู่กับความคิดเดียว
+DiffInfo_100,"<nobr>Choose settings to customize difficulty, the higher the difficulty, the higher the calculated coefficient!",<nobr>คุณสามารถปรับแต่งความยากได้โดยเลือกการตั้งค่า ยิ่งความยากสูง ค่าสัมประสิทธิ์ที่คำนวณก็จะยิ่งสูงขึ้น!
 DiffInfo_Lock,Achieve any <#d09a09>true·ending</color> to unlock
-DiffTip_Title,<#E6C899>Enemy bonus: {0}</color>
+DiffTip_Title,<#E6C899>Enemy bonus: {0}</color>,<#E6C899>โบนัส ศัตรู: {0}</color>
 DiffTip_Content,<#E6C899>•Experience multiplier for killing enemies: <#d09a09>{3}</color></color>
 DiffWarning_0,
 DiffWarning_1,<voffset=-0.5em><#E6C899>•Some character levels will dynamically grow with game time</color>
@@ -640,7 +640,7 @@ SteamPublishing,Uploading
 SteamPublish,Upload
 SteamModPath,Mod Directory:
 SteamPublishUpdate,Upload Update
-ModWarning_UseMod,"Warning! You have enabled mods, the game may not run correctly, this save will <#F55452>disable achievements, skill inheritance, free difficulty coefficient and other systems</color>! Do you wish to continue?"
+ModWarning_UseMod,"Warning! You have enabled mods, the game may not run correctly, this save will <#F55452>disable achievements, skill inheritance, free difficulty coefficient and other systems</color>! Do you wish to continue?",คำเตือน! คุณได้เปิดใช้งานม็อดแล้ว เกมอาจจะทำงานไม่ถูกต้องตามที่ควร ดังนั้นเซฟนี้จะ <#F55452>ปิดการได้รับความสำเร็จ</color> ในการเล่น! จะดำเนินการต่อหรือไม่?
 ModWarning_DifferentMod,"<size=36>Warning! You have modified the mod configuration of this save, the game may not run correctly, continue?</size>"
 ModWarning_DifferentMod_Removed,<#ff0000>\nDeleted mods:</color>\n{0}
 ModWarning_DifferentMod_New,<#ff0000>\nNew mods:</color>\n{0}

@@ -80,7 +80,7 @@ BuffInfo_怒气爆发,"After triggering Rage, self-inflicted Poisoned, Internal 
 BuffInfo_野生Buff_普通1,"Normal Character attribute bonus, HP, MP, Attack, Defense, Qinggong increase by 20%, bonus is lost after being Invited to the team."
 BuffInfo_野生Buff_精英1,"Elite Character attribute bonus, HP, MP, Attack, Defense, Qinggong increase by 50%, bonus is lost after being Invited to the team."
 BuffInfo_野生Buff_Boss1,"Boss Character attribute bonus, HP, MP, Attack, Defense increase by 100%, Qinggong increases by 50%, bonus is lost after being Invited to the team."
-BuffInfo_难度修正_0,"Attack damage decreases by <#29F161>20%</color>, final damage received when attacked increases by <#29F161>20%</color>; Attack, Defense, HP, Qinggong decrease by <#29F161>20%</color>."
+BuffInfo_难度修正_0,"Attack damage decreases by <#29F161>20%</color>, final damage received when attacked increases by <#29F161>20%</color>; Attack, Defense, HP, Qinggong decrease by <#29F161>20%</color>.","ความเสียหายพลังโจมตีลดลง <#29F161>20%</color>, ความเสียหายรวมเมื่อถูกโจมตีจะได้ที่ได้รับเพิ่มขึ้น<#29F161>20%</color>; พลังโจมตี, พลังป้องกัน, พลังชีวิต, วิชาตัวเบา ลดลง <#29F161>20%</color>."
 BuffInfo_难度修正_1,No attribute bonus.
 BuffInfo_难度修正_2,"Attack increases damage by <#FE2929>10%</color>, final damage received when Attacked is reduced by <#FE2929>10%</color>; Attack, Defense, HP increase by <#FE2929>20%</color>; Qinggong increases by <#FE2929>25%</color>."
 BuffInfo_难度修正_3,"Attack increases damage by <#FE2929>20%</color>, final damage received when Attacked is reduced by <#FE2929>20%</color>; Attack, Defense, HP increase by <#FE2929>40%</color>; Qinggong increases by <#FE2929>50%</color>."
@@ -595,7 +595,7 @@ BuffInfo_道貌岸然,"A thousand miles to send a goose feather, a light gift ca
 BuffInfo_惺惺相惜,"No matter who the other person is, you always seem to hit it off with them. When giving gifts to the same sex, the effect is increased by <#29F161>30%</color>."
 BuffInfo_异性相吸,"You are charming and attractive, always able to attract admirers wherever you go. When giving gifts to friends of the opposite sex, the effect is increased by <#29F161>30%</color>."
 BuffInfo_乐不思蜀,"An astonishing optimist, no matter what happens, your mood never worsens."
-BuffInfo_立竿见影,"Born with a regenerative body, your recovery skills are exceptional. When receiving HP and MP recovery effects, the <#29F161>recovery effect is doubled</color>."
+BuffInfo_立竿见影,"Born with a regenerative body, your recovery skills are exceptional. When receiving HP and MP recovery effects, the <#29F161>recovery effect is doubled</color>.",กำเนิดมาพร้อมกายพิเศษ ความสามารถในการฟื้นตัวที่ดีเยี่ยมเหนือปถุชน เมื่อได้รับผลการฟื้นฟู HP และ MP  <#29F161>ผลฟื้นฟูมีผลประสิทธิสองเท่า</color>.
 BuffInfo_身如鬼魅,"In the world of martial arts, speed is the key, <#29F161>Action Speed+20</color>."
 BuffInfo_随手烟尘,"Always carrying smoke-producing items with you, throwing them into people's eyes when they least expect it, it's really hard to guard against. <#29F161>Each attack will cause 10 points of blindness to the target</color>."
 BuffInfo_精通兽语,"Born with the ability to communicate with all kinds of wild beasts, it seems that only animals are your true friends. <#29F161>When communicating with animals, bypass the Beast Taming Skill restriction</color>."
@@ -659,7 +659,7 @@ BuffInfo_剧情道貌岸然,"A thousand miles to send a goose feather, a light g
 BuffInfo_剧情惺惺相惜,"No matter who the other person is, you always seem to hit it off with them. When giving gifts to the same sex, the effect is increased by <#29F161>30%</color>."
 BuffInfo_剧情异性相吸,"You are charming and attractive, always able to attract admirers wherever you go. When giving gifts to friends of the opposite sex, the effect is increased by <#29F161>30%</color>."
 BuffInfo_剧情乐不思蜀,"An astonishing optimist, no matter what happens, your mood never worsens."
-BuffInfo_剧情立竿见影,"Born with a regenerative body, your recovery skills are exceptional. When receiving HP and MP recovery effects, the <#29F161>recovery effect is doubled</color>."
+BuffInfo_剧情立竿见影,"Born with a regenerative body, your recovery skills are exceptional. When receiving HP and MP recovery effects, the <#29F161>recovery effect is doubled</color>.",กำเนิดมาพร้อมกายพิเศษ ความสามารถในการฟื้นตัวที่ดีเยี่ยมเหนือปถุชน เมื่อได้รับผลการฟื้นฟู HP และ MP  <#29F161>ผลฟื้นฟูมีผลประสิทธิสองเท่า</color>.
 BuffInfo_剧情身如鬼魅,"In the world of martial arts, speed is the key, <#29F161>Action Speed+20</color>."
 BuffInfo_剧情随手烟尘,"Always carrying smoke-producing items with you, throwing them into people's eyes when they least expect it, it's really hard to guard against. <#29F161>Each attack will cause 10 points of blindness to the target</color>."
 BuffInfo_剧情精通兽语,"Born with the ability to communicate with all kinds of wild beasts, it seems that only animals are your true friends. <#29F161>When communicating with animals, bypass the Beast Taming Skill restriction</color>."
@@ -686,7 +686,7 @@ BuffInfo_剧情酩酊醉意,"Everyone is drunk, only I am sober, every time you 
 BuffInfo_剧情交游广阔,"Good at dealing with everyone, can call brothers and sisters when meeting passers-by. <#29F161>Gift effect increased by 20%</color>."
 BuffInfo_剧情文武状元,"<#29F161>Strength+3, Intelligence+3, EXP required for martial arts upgrade reduced by 50%</color>."
 BuffInfo_所向披靡,"Wherever you go, no one dares to stand in your way. When an attack triggers a Critical, it increases the Combo rate by 25%, and a Combo will definitely trigger a Critical."
-BuffInfo_天煞孤星,"As a Lone wanderer destined by Accuracy, when you travel alone and kill the opponent through battle, you can get <#29F161>three times the EXP</color>, and <#29F161>get 100% of the final damage</color>."
+BuffInfo_天煞孤星,"As a Lone wanderer destined by Accuracy, when you travel alone and kill the opponent through battle, you can get <#29F161>three times the EXP</color>, and <#29F161>get 100% of the final damage</color>.","ลิขิตดวงดาราแห่งฟ้าดิน พเนจรเดียวดายผ่านผืนน้ำและทะเลสาบ เมื่อมีเพียงคุณเพียงคนในสรภูมิ คุณจะได้รับ <#29F161>EXP สามเท่า</color>, และ <#29F161>ทำ 100% ของพลังความเสียหายรวม</color>."
 BuffInfo_财大气粗,"Nothing is more insulting than hitting people with money! In battle, every 1000 coins you have can cause an additional 1 point of damage, up to 250 points."
 BuffInfo_死里逃生,"Excellent survival instincts always allow you to survive. In each battle, when you first suffer Critical damage, you will retain 1 point of health."
 BuffInfo_兵器精通,"Master of all kinds of weapons, even if the Weapon conditions are not met, the Accuracy rate will not be reduced."
@@ -717,7 +717,7 @@ BuffInfo_匹夫有责_光环,"During the battle, for each additional teammate, y
 BuffInfo_博采众长,"For each external skill learned to the tenth level, the basic Attack increases by 1%, 3%, 5% according to the quality of the martial arts; for each internal skill learned to the tenth level, the basic Defense increases by 1%, 3%, 5% according to the quality of the martial arts."
 BuffInfo_追命阎罗,"When attacking, triggering a critical hit has a 15% chance to get a combo, and triggering a combo has a 15% chance to act again."
 BuffInfo_剧情所向披靡,"If there are no worries, you can give it your all. When Attack triggers Critical, it increases Combo rate by 25%, and after triggering Combo, it will definitely Critical."
-BuffInfo_剧情天煞孤星,"As a Lone wanderer destined by Accuracy, when you travel alone and kill the opponent through battle, you can get <#29F161>three times the EXP</color>, and <#29F161>get 100% of the final damage</color>."
+BuffInfo_剧情天煞孤星,"As a Lone wanderer destined by Accuracy, when you travel alone and kill the opponent through battle, you can get <#29F161>three times the EXP</color>, and <#29F161>get 100% of the final damage</color>.","ลิขิตดวงดาราแห่งฟ้าดิน พเนจรเดียวดายผ่านผืนน้ำและทะเลสาบ เมื่อมีเพียงคุณเพียงคนในสรภูมิ คุณจะได้รับ <#29F161>EXP สามเท่า</color>, และ <#29F161>ทำ 100% ของพลังความเสียหายรวม</color>."
 BuffInfo_剧情财大气粗,"Nothing is more insulting than hitting people with money! In battle, every 1000 coins you have can cause an additional 1 point of damage, up to 250 points."
 BuffInfo_剧情死里逃生,"Excellent survival instincts always allow you to survive. In each battle, when you first suffer Critical damage, you will retain 1 point of health."
 BuffInfo_剧情兵器精通,"Master of all kinds of weapons, even if the Weapon conditions are not met, the Accuracy rate will not be reduced."
@@ -940,7 +940,7 @@ BuffInfo_伙伴特征扇里藏针,Causes <#FE2929>10 points of Sealed</color> to
 BuffInfo_伙伴特征聚沙成塔,"For every additional ally within a radius of 5 squares, the final damage increases by 5%."
 BuffInfo_伙伴特征力破千钧,"For every 1 point of Strength, the final damage increases by 2% when attacking."
 BuffInfo_伙伴特征一触即发,"For every damage taken, Action Speed increases by 25 points, which lasts until the next action."
-BuffInfo_伙伴特征天煞孤星,"As a Lone wanderer destined by Accuracy, when you travel alone and kill the opponent through battle, you can get <#29F161>three times the EXP</color>, and <#29F161>get 100% of the final damage</color>."
+BuffInfo_伙伴特征天煞孤星,"As a Lone wanderer destined by Accuracy, when you travel alone and kill the opponent through battle, you can get <#29F161>three times the EXP</color>, and <#29F161>get 100% of the final damage</color>.","ลิขิตดวงดาราแห่งฟ้าดิน พเนจรเดียวดายผ่านผืนน้ำและทะเลสาบ เมื่อมีเพียงคุณเพียงคนในสรภูมิ คุณจะได้รับ <#29F161>EXP สามเท่า</color>, และ <#29F161>ทำ 100% ของพลังความเสียหายรวม</color>."
 BuffInfo_伙伴特征催心夺魄,"After each attack, the enemy has a chance to get 5 points of Poisoned, 5 points of Bleeding, 5 points of Internal Injury, 5 points of Sealed, or 5 points of Blinded."
 BuffInfo_伙伴特征罡气护体,"Immune to Reflect damage, final damage taken when attacked is reduced by 15%."
 BuffInfo_伙伴特征追命阎罗,"When attacking, triggering a critical hit has a 15% chance to get a combo, and triggering a combo has a 15% chance to act again."
@@ -2051,12 +2051,12 @@ BuffName_宠物饱食Buff0,Full
 BuffName_宠物饱食Buff1,
 BuffName_宠物饱食Buff2,Hungry
 BuffName_宠物饱食Buff3,Weakness
-BuffName_宠物生命Buff0,Constitution
-BuffName_宠物生命Buff1,Constitution
-BuffName_宠物生命Buff2,Constitution
-BuffName_宠物生命Buff3,Constitution
-BuffName_宠物生命Buff4,Constitution
-BuffName_宠物生命Buff5,Constitution
+BuffName_宠物生命Buff0,Constitution,พลังกาย
+BuffName_宠物生命Buff1,Constitution,พลังกาย
+BuffName_宠物生命Buff2,Constitution,พลังกาย
+BuffName_宠物生命Buff3,Constitution,พลังกาย
+BuffName_宠物生命Buff4,Constitution,พลังกาย
+BuffName_宠物生命Buff5,Constitution,พลังกาย
 BuffName_宠物攻击Buff0,Attack
 BuffName_宠物攻击Buff1,Attack
 BuffName_宠物攻击Buff2,Attack
@@ -2429,7 +2429,7 @@ BuffName_道貌岸然,Pretentious
 BuffName_惺惺相惜,Sympathetic
 BuffName_异性相吸,Sex appeal
 BuffName_乐不思蜀,Optimistic
-BuffName_立竿见影,Regenerative body
+BuffName_立竿见影,Regenerative body,กายวิเศษ
 BuffName_身如鬼魅,Rapid response
 BuffName_随手烟尘,Dust thrower
 BuffName_精通兽语,Animal whisperer
@@ -2492,7 +2492,7 @@ BuffName_剧情道貌岸然,Pretentious
 BuffName_剧情惺惺相惜,Sympathetic
 BuffName_剧情异性相吸,Sex appeal
 BuffName_剧情乐不思蜀,Optimistic
-BuffName_剧情立竿见影,Regenerative body
+BuffName_剧情立竿见影,Regenerative body,กายวิเศษ
 BuffName_剧情身如鬼魅,Rapid response
 BuffName_剧情随手烟尘,Dust thrower
 BuffName_剧情精通兽语,Animal whisperer
@@ -2520,7 +2520,7 @@ BuffName_剧情交游广阔,Resourceful
 BuffName_剧情国公世子,Son of noble
 BuffName_剧情文武状元,Top achiever
 BuffName_所向披靡,Undefeated
-BuffName_天煞孤星,Lone wanderer
+BuffName_天煞孤星,Lone wanderer,เดียวดายพเนจร
 BuffName_财大气粗,Power of money
 BuffName_死里逃生,Survival instinct
 BuffName_兵器精通,Weapon master
@@ -2553,7 +2553,7 @@ BuffName_匹夫有责_光环,Every man has his duty
 BuffName_博采众长,Learn from everyone
 BuffName_追命阎罗,Death master
 BuffName_剧情所向披靡,Undefeated
-BuffName_剧情天煞孤星,Lone wanderer
+BuffName_剧情天煞孤星,Lone wanderer,เดียวดายพเนจร
 BuffName_剧情财大气粗,Power of money
 BuffName_剧情死里逃生,Survival instinct
 BuffName_剧情兵器精通,Weapon master
@@ -2737,7 +2737,7 @@ BuffName_伙伴特征以静制动,Readied
 BuffName_伙伴特征道玄宗主,Taoist sect leader
 BuffName_伙伴特征九转回魂,Reversal technique
 BuffName_伙伴特征真气护体,Reflective Qi
-BuffName_伙伴特征立竿见影,Regenerative body
+BuffName_伙伴特征立竿见影,Regenerative body,กายวิเศษ
 BuffName_伙伴特征谦谦君子,Modest gentleman
 BuffName_伙伴特征触类旁通,Analyzing
 BuffName_伙伴特征儒家传人,Confucius's successor
@@ -2776,7 +2776,7 @@ BuffName_伙伴特征扇里藏针,Hidden needle
 BuffName_伙伴特征聚沙成塔,Power of unity
 BuffName_伙伴特征力破千钧,Heroic vigor
 BuffName_伙伴特征一触即发,Nerve-racking
-BuffName_伙伴特征天煞孤星,Lone wanderer
+BuffName_伙伴特征天煞孤星,Lone wanderer,เดียวดายพเนจร
 BuffName_伙伴特征催心夺魄,Soul attacker
 BuffName_伙伴特征罡气护体,Protective Qi
 BuffName_伙伴特征追命阎罗,Death master
