@@ -1,0 +1,253 @@
+﻿﻿UIPropPoints,Initial available aptitude: <color=#ffffff>{0}</color>
+UITraitPoints,Initial achievement points: <color=#ffffff>{0}</color>
+UIPropPointsTip,"Every time you Unlock<#00ff00>{0}</color> achievements, you can allocate an additional attribute point when creating a character. The maximum additional attribute points are <#00ff00>{1}</color>, and the current additional attribute points are <#00ff00>{2}</color>"
+UITraitPointsTip,"Start with <#00ff00>{0}</color> achievement points. Each time you Unlock an achievement, you can get additional achievement points. You can use these points to choose suitable traits when starting the game."
+AchievementComplated,Unlock achievement <#ffff00>{0}</color>
+AchievementTraitPoints,You can get <#236c0f>{0}</color> achievement points
+AchievementPrizeTitle0,Initial items:
+AchievementPrizeTitle1,Initial traits:
+AchievementBottom,Tip 1: Achievement points from Unlock achievements can be used to choose suitable traits at the start of the game\nTip 2: Initial items from Unlock achievements can be chosen as starting items at the start of the game
+AchievementLockSecretName,？？？？？？
+AchievementLockSecretTip,？？？？？？？？？？？
+AchievementName_1,Undefeated
+AchievementName_2,High Stamina
+AchievementName_3,Ultra Speed
+AchievementName_4,Effective Learner
+AchievementName_5,Survival Instinct
+AchievementName_6,Throwing Master
+AchievementName_7,Poisonous Body
+AchievementName_8,Fast Runner,นักวิ่งลมกรด
+AchievementName_9,Poison Expert
+AchievementName_10,Medical Expert
+AchievementName_11,Medical Master
+AchievementName_12,Pretentious
+AchievementName_13,Power of Money
+AchievementName_14,Weapon Expert,เชี่ยวชาญอาวุธ
+AchievementName_15,Burning Spirit
+AchievementName_16,Sleight of Hand
+AchievementName_17,Discerning Eyes
+AchievementName_18,Authentic Taoist
+AchievementName_19,Easy as Pie,ง่ายเหมือนปอกกล้วย
+AchievementName_20,Dexterous Hands
+AchievementName_21,Eye for Details
+AchievementName_22,Survival Expert
+AchievementName_23,Scoundrel's Way
+AchievementName_24,Weapon Master
+AchievementName_25,Cowardice,ความขลาดเขลา
+AchievementName_26,The Saint,วิญญูชน
+AchievementName_27,The Devil,มารร้าย
+AchievementName_28,Village Hermits
+AchievementName_29,Chicken Hero
+AchievementName_30,Poisonous Skin
+AchievementName_31,Jianghu Master,ผู้นำยุทธภพ
+AchievementName_32,Jianghu Conqueror,ผู้พิชิตยุทธภพ
+AchievementName_33,Master of Fist,ปรมาจารย์หมัดมวย
+AchievementName_34,Master of Sword,ปรมาจารย์กระบี่
+AchievementName_35,Master of Blade,ปรมาจารย์ดาบ
+AchievementName_36,Master of Long Weapon,ปรมาจารย์ด้านอาวุธยาว
+AchievementName_37,Master of Short Weapon,ปรมาจารย์ด้านอาวุธสั้น
+AchievementName_38,Master of Music
+AchievementName_39,Feigning Weakness
+AchievementName_40,Destroy Blue Wind Camp
+AchievementName_41,Destroy Nest of Swallow
+AchievementName_42,Destroy Crime Investigation Bureau
+AchievementName_43,Destroy Langya Sword Pavillion
+AchievementName_44,Destroy Taoist Sect
+AchievementName_45,Easy Challenge
+AchievementName_46,Easy Challenge
+AchievementName_47,Easy Challenge
+AchievementName_48,Easy Challenge
+AchievementName_49,Easy Challenge
+AchievementName_50,Normal Challenge
+AchievementName_51,Normal Challenge
+AchievementName_52,Normal Challenge
+AchievementName_53,Normal Challenge
+AchievementName_54,Normal Challenge
+AchievementName_55,Hard Challenge
+AchievementName_56,Hard Challenge
+AchievementName_57,Hard Challenge
+AchievementName_58,Hard Challenge
+AchievementName_59,Hard Challenge
+AchievementName_60,Nightmare Challenge
+AchievementName_61,Nightmare Challenge
+AchievementName_62,Nightmare Challenge
+AchievementName_63,Nightmare Challenge
+AchievementName_64,Nightmare Challenge
+AchievementName_65,The First Coin
+AchievementName_66,Joining Sect
+AchievementName_67,Joining Sect
+AchievementName_68,Joining Sect
+AchievementName_69,Joining Sect
+AchievementName_70,Joining Sect
+AchievementName_71,Joining Faction
+AchievementName_72,Newcomer,ผู้มาใหม่
+AchievementName_73,Level 10
+AchievementName_74,Level 20
+AchievementName_75,Level 30
+AchievementName_76,Level 40
+AchievementName_77,Level 50
+AchievementName_78,Level 60
+AchievementName_79,Level 70
+AchievementName_80,Level 80
+AchievementName_81,Level 90
+AchievementName_82,Grand Master
+AchievementName_83,Recognized
+AchievementName_84,Well-known
+AchievementName_85,Reputable
+AchievementName_86,Rising Star
+AchievementName_87,Famous
+AchievementName_88,Acclaimed
+AchievementName_89,Prominent
+AchievementName_90,Revered
+AchievementName_91,Historical
+AchievementName_92,Legendary
+AchievementName_93,Blessing of Love
+AchievementName_94,The Romanticist
+AchievementName_95,Gambler
+AchievementName_96,God of Gambling
+AchievementName_97,Peak of Jianghu,อันดับหนึ่งของยุทธภพ
+AchievementName_98,Enlightened Monk
+AchievementName_99,Cake of God
+AchievementName_100,Direct Assault
+AchievementName_101,Imperial Noble
+AchievementName_102,Top Achiever
+AchievementName_103,Destroy Shifa Temple
+AchievementName_104,Join a Sect
+AchievementName_105,Foreign Duke
+AchievementName_106,Destroy Yan Empire
+AchievementName_107,Joining Sect
+AchievementName_108,Destroy Confucius Temple
+AchievementName_109,Confucius's Glory
+AchievementName_110,Heart of Buddha
+AchievementName_111,Confucius Saint
+AchievementName_112,Challenging Fate
+AchievementName_113,Spirit of Steel
+AchievementName_114,Hellish Journey
+AchievementName_115,Best of the Best
+AchievementName_116,Nine Factions Sect Master
+AchievementName_117,Dominating the Martial World
+AchievementName_118,Guardian of the Homeland
+AchievementName_119,Sole Possessor of Supremacy
+AchievementName_120,Join a Faction
+AchievementName_121,Join a Faction
+AchievementTip_1,Main Character's Strength stat reaches 15.
+AchievementTip_2,Main Character's Constitution stat reaches 15.
+AchievementTip_3,Main Character's Dexterity stat reaches 15.
+AchievementTip_4,Main Character's Intelligence stat reaches 15.
+AchievementTip_5,Main Character's Luck stat reaches 15.
+AchievementTip_6,Main Character's Throwing stat reaches 200.
+AchievementTip_7,Main Character's Toxicology stat reaches 200.
+AchievementTip_8,Main Character's Qinggong stat reaches 200.
+AchievementTip_9,Main Character's Toxicology stat reaches 100.
+AchievementTip_10,Main Character's Medical stat reaches 100.
+AchievementTip_11,Main Character's Medical stat reaches 200.
+AchievementTip_12,Achieve 100 relationship with 20 NPCs.
+AchievementTip_13,Gain a total of 100 Guans.
+AchievementTip_14,Complete all Langya Sword Pavillion events.
+AchievementTip_15,Complete all Blue Wind Camp events.
+AchievementTip_16,Complete all Nest of Swallow events.
+AchievementTip_17,Complete all Crime Investigation Bureau events.
+AchievementTip_18,Complete all Taoist Sect events.
+AchievementTip_19,Reach max level of any Resource skill.
+AchievementTip_20,Reach max level of any Craft skill.
+AchievementTip_21,Reach max level of any Appraise skill.
+AchievementTip_22,Reach max level of any Survival skill.
+AchievementTip_23,Reach max level of any Rogue skill.
+AchievementTip_24,Any weapon stat reaches 200.
+AchievementTip_25,Courage stat reaches -100.
+AchievementTip_26,All six personality stats reaches 100.
+AchievementTip_27,All six personality stats reaches -100.
+AchievementTip_28,"Recruit all Nameless Village characters (Hunter, Informant, Blacksmith, Doctor, Innkeeper)."
+AchievementTip_29,"Trigger ""Chicken Hero"" ending."
+AchievementTip_30,"Trigger ""Death by Poison"" ending."
+AchievementTip_31,Achieve Jianghu Master ending.
+AchievementTip_32,Achieve Jianghu Conqueror ending.
+AchievementTip_33,Main Character's Fist stat reaches 200.
+AchievementTip_34,Main Character's Sword stat reaches 200.
+AchievementTip_35,Main Character's Blade stat reaches 200.
+AchievementTip_36,Main Character's Long stat reaches 200.
+AchievementTip_37,Main Character's Short stat reaches 200.
+AchievementTip_38,Main Character's Musical stat reaches 200.
+AchievementTip_39,"At the start of the game, defeat Nest of Swallow's reinforcement force."
+AchievementTip_40,Destroy Blue Wind Camp in an official way.
+AchievementTip_41,Destroy Nest of Swallow in an official way.
+AchievementTip_42,Destroy Crime Investigation Bureau in an official way.
+AchievementTip_43,Destroy Langya Sword Pavillion in an official way.
+AchievementTip_44,Destroy Taoist Sect in an official way.
+AchievementTip_45,Survive 3 days in Easy Mode.,อยู่รอด 3 วันในโหมดง่าย
+AchievementTip_46,Survive 20 days in Easy Mode.
+AchievementTip_47,Survive 40 days in Easy Mode.
+AchievementTip_48,Survive 60 days in Easy Mode.
+AchievementTip_49,Survive 100 days in Easy Mode.
+AchievementTip_50,Survive 3 days in Normal Mode.
+AchievementTip_51,Survive 20 days in Normal Mode.
+AchievementTip_52,Survive 40 days in Normal Mode.
+AchievementTip_53,Survive 60 days in Normal Mode.
+AchievementTip_54,Survive 100 days in Normal Mode.
+AchievementTip_55,Survive 3 days in Hard Mode.
+AchievementTip_56,Survive 20 days in Hard Mode.
+AchievementTip_57,Survive 40 days in Hard Mode.
+AchievementTip_58,Survive 60 days in Hard Mode.
+AchievementTip_59,Survive 100 days in Hard Mode.
+AchievementTip_60,Survive 3 days in Nightmare Mode.
+AchievementTip_61,Survive 20 days in Nightmare Mode.
+AchievementTip_62,Survive 40 days in Nightmare Mode.
+AchievementTip_63,Survive 60 days in Nightmare Mode.
+AchievementTip_64,Survive 100 days in Nightmare Mode.
+AchievementTip_65,Gain a total of 1 Coin.
+AchievementTip_66,Join the Blue Wind Camp.,เข้าร่วมค่ายวายุคราม
+AchievementTip_67,Join the Nest of Swallow.
+AchievementTip_68,Join the Crime Investigation Bureau.
+AchievementTip_69,Join the Langya Sword Pavillion.
+AchievementTip_70,Join the Taoist Sect.
+AchievementTip_71,Join the General Faction.
+AchievementTip_72,Main Character reaches Level 5.
+AchievementTip_73,Main Character reaches Level 10.
+AchievementTip_74,Main Character reaches Level 20.
+AchievementTip_75,Main Character reaches Level 30.
+AchievementTip_76,Main Character reaches Level 40.
+AchievementTip_77,Main Character reaches Level 50.
+AchievementTip_78,Main Character reaches Level 60.
+AchievementTip_79,Main Character reaches Level 70.
+AchievementTip_80,Main Character reaches Level 80.
+AchievementTip_81,Main Character reaches Level 90.
+AchievementTip_82,Main Character reaches Level 100.
+AchievementTip_83,Fame reaches Level 1
+AchievementTip_84,Fame reaches Level 2
+AchievementTip_85,Fame reaches Level 3
+AchievementTip_86,Fame reaches Level 4
+AchievementTip_87,Fame reaches Level 5
+AchievementTip_88,Fame reaches Level 6
+AchievementTip_89,Fame reaches Level 7
+AchievementTip_90,Fame reaches Level 8
+AchievementTip_91,Fame reaches Level 9
+AchievementTip_92,Fame reaches Level 10
+AchievementTip_93,First time forming a good relationship with a female partner.
+AchievementTip_94,Formed a good relationship with 7 female partners.
+AchievementTip_95,Win all money from the dealer for the first time.
+AchievementTip_96,Win all money from the dealer 20 times in total.
+AchievementTip_97,"Trigger ""Peak of Jianghu"" ending."
+AchievementTip_98,"Trigger ""Enlightened Monk"" ending."
+AchievementTip_99,"Win the ""Dragon Cooking Contest""."
+AchievementTip_100,Storm into Yan Army Camp and annihilate all enemies.
+AchievementTip_101,"Rescue the Emperor from Yan Army Camp, then take his offer."
+AchievementTip_102,"Win the titles Provincial Top Examiner, Country Top Examiner and Top Achiever."
+AchievementTip_103,Destroy Shifa Temple in an official way.
+AchievementTip_104,Join the Shifa Temple
+AchievementTip_105,"Trigger ""Foreign Duke"" ending."
+AchievementTip_106,Destroy Yan Army.
+AchievementTip_107,Join the Confucius Temple.
+AchievementTip_108,Destroy Confucius Temple in an official way.
+AchievementTip_109,Complete all Confucius Temple events.
+AchievementTip_110,Complete all Shifa Temple events.
+AchievementTip_111,"Trigger ""Confucius Saint"" ending."
+AchievementTip_112,Achieve True Ending in Freedom Mode 300.
+AchievementTip_113,Achieve True Ending in Freedom Mode 600.
+AchievementTip_114,Achieve True Ending in Freedom Mode 900.
+AchievementTip_115,Achieve True Ending in Freedom Mode 1200.
+AchievementTip_116,"Trigger the ""Nine Factions Sect Master"" ending."
+AchievementTip_117,"After becoming a disciple in Nameless Village, you can become a Jianghu Master or Jianghu Conqueror."
+AchievementTip_118,"After becoming a disciple in Nameless Village, you can trigger the ""Loyalty"" ending."
+AchievementTip_119,"After becoming a disciple in Nameless Village, you can trigger the ""Number One in the World"" ending."
+AchievementTip_120,Join the Ye Family Battalion.
+AchievementTip_121,Join the Yan Yun Iron Army.

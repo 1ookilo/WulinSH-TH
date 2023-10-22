@@ -1,0 +1,395 @@
+﻿﻿TraitInlo_Kungfu,Initial external power {0}
+TraitInlo_Item,Carrying {0}
+TraitInlo_Spliter,，,，
+TraitInlo_ItemSpliter,、,、
+TraitInlo_ItemSpliterLast,And,และ
+TraitInlo_End,。,。
+TraitDesc_书香门第1,"Born into a scholarly family, you love to compose poetry, and your free and easy style is reflected in the vast landscape."
+TraitDesc_书香门第2,"Born into a scholarly family, you are skilled in calligraphy, and your ambition is evident in every stroke of your brush."
+TraitDesc_书香门第3,"Born in a scholarly family, you have a preference for string and wind instruments. Your fingertips dance, captivating the hearts of others."
+TraitDesc_落魄乐师1,"You were once a musician untouched by worldly affairs, but now you have fallen from grace. All that accompanies you is a Parasol Tree and your lofty aspirations."
+TraitDesc_落魄乐师2,"You were once a musician untouched by worldly affairs, but now your family has fallen on hard times. Only the wooden flute still accompanies you as you travel the world."
+TraitDesc_落魄乐师3,"You were once a musician untouched by worldly affairs, but now you have become a lone goose. You hold your Lute tightly, still wanting to spread your music throughout the world."
+TraitDesc_武学世家1,"You come from a Martial Arts family, and your Earth Blade skills are already quite impressive! After a disaster at home, you managed to escape, but had to wander the world."
+TraitDesc_武学世家2,"You come from a Martial Arts family, and the family's Dragon Roaming Sword is unpredictable! After a disaster at home, you managed to escape, but had to wander the world."
+TraitDesc_武学世家3,"You come from a Martial Arts family, and your Carefree Fist is elegant and transcendent! After a disaster at home, you managed to escape, but had to wander the world."
+TraitDesc_武学世家4,"You come from a Martial Arts family, and the family's Dragon Staff is powerful! After a disaster at home, you managed to escape, but had to wander the world."
+TraitDesc_武学世家5,"You come from a Martial Arts family, and your Wind Stab is chilling! After a disaster at home, you managed to escape, but had to wander the world."
+TraitDesc_武学世家6,"You come from a Martial Arts family, and you are skilled in the Six Forms Spear! After a disaster at home, you managed to escape, but had to wander the world."
+TraitDesc_拳法宗师,"You have mastered the art of boxing, and can be called a grandmaster. Your Mountain Clear Palm has the power of ten thousand pounds, capable of breaking mountains and rocks, and is invincible."
+TraitDesc_剑法宗师,"You have mastered the art of swordsmanship, and can be called a grandmaster. Your Flirting Star Sword is undefeated, and there are few opponents where your Dawn sword goes."
+TraitDesc_刀法宗师,"You have mastered the art of knife, and can be called a grandmaster. Your Thunder Blade is like a thunderbolt, shaking the earth and sky, and is extremely domineering."
+TraitDesc_棍法宗师,"You have mastered the art of stick, and can be called a grandmaster. Your Origin Staff is like the Great Sage reborn, stirring up the world and alarming the four seas."
+TraitDesc_枪法宗师,"You have mastered the art of spear, and can be called a grandmaster. Your Power Star Spear has repelled countless masters. With the Emperor Spear in hand, one man can hold the pass against ten thousand."
+TraitDesc_音律宗师,"You are a world-renowned master of performance, and your Mountain and River tune is popular all over the world. But in the end, the song is too high for the masses, and it is hard to find a confidant."
+TraitDesc_短兵宗师,"You are a legend in the world of assassins. Your Silver Snake Mirage is as fast as lightning, unpredictable, and no one can stop you within five steps."
+TraitName_书香门第1,※Scholarly Family※
+TraitName_书香门第2,※Scholarly Family※
+TraitName_书香门第3,※Scholarly Family※
+TraitName_落魄乐师1,※Down-and-out Musician※
+TraitName_落魄乐师2,※Down-and-out Musician※
+TraitName_落魄乐师3,※Down-and-out Musician※
+TraitName_武学世家1,※Martial Arts Family※
+TraitName_武学世家2,※Martial Arts Family※
+TraitName_武学世家3,※Martial Arts Family※
+TraitName_武学世家4,※Martial Arts Family※
+TraitName_武学世家5,※Martial Arts Family※
+TraitName_武学世家6,※Martial Arts Family※
+TraitName_拳法宗师,※Boxing Grandmaster※
+TraitName_剑法宗师,※Swordsmanship Grandmaster※
+TraitName_刀法宗师,※Knife Grandmaster※
+TraitName_棍法宗师,※Stick Grandmaster※
+TraitName_枪法宗师,※Spear Grandmaster※
+TraitName_音律宗师,※Musical Grandmaster※
+TraitName_短兵宗师,※Short Grandmaster※
+TraitName_暗器入门,
+TraitName_毒术入门,
+TraitName_短兵入门,
+TraitName_拳掌入门,
+TraitName_耍刀入门,
+TraitName_医术入门,
+TraitName_音律入门,
+TraitName_御剑入门,
+TraitName_长兵入门,
+TraitName_福泽深厚,
+TraitName_身强体健,
+TraitName_龙精虎猛,
+TraitName_聪颖灵巧,
+TraitName_深仁厚泽,
+TraitName_慷慨仗义,
+TraitName_文质彬彬,
+TraitName_才智过人,
+TraitName_一诺千金,
+TraitName_力拔山河,
+TraitName_先天邪气,
+TraitName_手脚灵活,Quick reflex,โต้ตอบว่องไว
+TraitName_身材矮小,Short stature
+TraitName_暗器精通,Throwing Mastery
+TraitName_毒术精通,Toxicology Mastery
+TraitName_短兵精通,Short Mastery,เชี่ยวชาญอาวุธสั้น
+TraitName_拳掌精通,Fist Mastery,เชี่ยวชาญหมัดมวย
+TraitName_耍刀精通,Blade master,ปรมาจารย์ดาบ
+TraitName_医术精通,Medical Mastery,ผู้เชี่ยวชาญแพทย์
+TraitName_音律精通,Musical Mastery,ปรมาจารย์ดนตรี
+TraitName_御剑精通,Sword master,ปรมาจารย์กระบี่
+TraitName_长兵精通,Long Mastery,ผู้เชียวชาญอาวุธยาว
+TraitName_骨骼清奇,Unique Skeleton
+TraitName_良才美玉,Talented Beauty
+TraitName_越战越勇,Battle maniac,คลั่งไคล้การต่อสู้
+TraitName_速战速决,
+TraitName_得心应手,Upwind,อยู่เหนือลม
+TraitName_熟能生巧,Practice makes perfect
+TraitName_山林猎手,Wild hunter,พรานป่า
+TraitName_误打误撞,Random attack,ตีมั่ว
+TraitName_见招拆招,Good blocker,ปัดป้องเก่ง
+TraitName_暗器奇才,Throwing talent,พรสวรรค์อาวุธลับ
+TraitName_毒术奇才,Toxicology talent,พรสวรรค์ด้านพิษ
+TraitName_短兵奇才,Short weapon talent,พรสวรรค์อาวุธสั้น
+TraitName_拳掌奇才,Fist talent,พรสวรรค์หมัดมวย
+TraitName_耍刀奇才,Blade talent,พรสวรรค์ดาบ
+TraitName_医术奇才,Medical talent,พรสวรรค์การแพทย์
+TraitName_音律奇才,Musical talent,พรสวรรค์ดนตรี
+TraitName_御剑奇才,Sword talent,พรสวรรค์กระบี่
+TraitName_长兵奇才,Long weapon talent,พรสวรรค์อาวุธยาว
+TraitName_特异毒体,Poisonous body,กายพิษ
+TraitName_暗器精研,Throwing master,ปรมาจารย์อาวุธลับ
+TraitName_动如雷霆,Mighty as the Thunder,ว่องไวดุจผีพราย 
+TraitName_雪上加霜,Poison expert,ปรจารย์พิษ
+TraitName_妙手仁心,Medical expert,เชี่ยวชาญการแพทย์
+TraitName_身先士卒,Front guard,ยามหน้าประตู
+TraitName_身轻如燕,Light body,ตัวเบา
+TraitName_目无全牛,Beast killer,นักล่าสัตว์ร้าย
+TraitName_免疫中毒,Poison Immunity
+TraitName_免疫封穴,Seal Immunity
+TraitName_免疫流血,Bleed Immunity
+TraitName_免疫致盲,Blind Immunity
+TraitName_免疫内伤,Internal Injury Immunity,ต้านทานบาดเจ็บภายใน
+TraitName_触类旁通,Analyzing,นักวิเคราะห์
+TraitName_大器晚成,Slow starter,คนหัวช้า
+TraitName_庄周梦蝶,Dream training,ฝึกฝนยามหลับ
+TraitName_手到擒来,Easy as pie,ง่ายเหมือนปอกกล้วย
+TraitName_心灵手巧,Dexterous hands
+TraitName_火眼金睛,Eye for details
+TraitName_谋生有道,Survival expert,เชียวชาญการเอาตัวรอด
+TraitName_歪门邪道,Street boy,เด็กข้างถนน
+TraitName_道貌岸然,Pretentious,อวดรู้
+TraitName_惺惺相惜,Sympathetic,เห็นอกเห็นใจ
+TraitName_异性相吸,Sex appeal,ดึงดูดสตรีเพศ
+TraitName_乐不思蜀,Optimistic,มองโลกในแง่ดี
+TraitName_立竿见影,Regenerative body,กายวิเศษ
+TraitName_身如鬼魅,Rapid response,ตอบสนองรวดเร็ว
+TraitName_随手烟尘,Dust thrower
+TraitName_精通兽语,Animal whisperer
+TraitName_辣手摧花,Female hater,ชิงชังสตรี
+TraitName_嫉恶如仇,Evil slayer
+TraitName_战意凛然,Burning spirit
+TraitName_妙手空空,Sleight of hand
+TraitName_明察秋毫,Discerning eyes
+TraitName_玄门正宗,Authentic sect
+TraitName_众志成城,United we stand
+TraitName_飞星连珠,Throwing expert
+TraitName_九流杂学,Streetwise
+TraitName_逆流而上,Upstream walk
+TraitName_兵器亲和,Weapon expert
+TraitName_医术精研,Medical master,ปรมาจารย์แพทย์
+TraitName_儒者之风,Disciples of Confucius
+TraitName_菩提禅心,Buddha heart
+TraitName_摸金校尉,Tomb raider
+TraitName_日进斗金,Daily income,รายได้รายวัน
+TraitName_毒蛊寄生,Poisonous parasite
+TraitName_皮糙肉厚,Hardy,แข็งกร้าว
+TraitName_心宽体胖,Happy fatty,อารมณ์ดี
+TraitName_酩酊醉意,Bad drunker
+TraitName_交游广阔,Resourceful
+TraitName_动如脱兔,Like a rabbit,รวดเร็วดั่งกระต่าย
+TraitName_护花使者,Feminism,ชื่นชมสตรี
+TraitName_国公世子,Son of noble
+TraitName_文武状元,Top achiever
+TraitName_所向披靡,Undefeated
+TraitName_天煞孤星,Lone wanderer,พเนจร​เดียวดาย
+TraitName_财大气粗,Power of money,พลังเงินตรา
+TraitName_死里逃生,Survival instinct
+TraitName_兵器精通,Weapon master,ปรมาจารย์อาวุธ
+TraitName_影子护卫,Secret guardian,ผู้อารักขาลับ
+TraitName_神行无忌,Fast runner,นักวิ่งลมกรด
+TraitName_草木皆兵,Perfect adaptation,การปรับตัวที่สมบูรณ์แบบ
+TraitName_无师自通,Ravenous reader
+TraitName_心有灵犀,Effective learner
+TraitName_万里独行,Loner,ผู้สันโดษ
+TraitName_自带毒疮,Poisonous skin
+TraitName_贪生怕死,Coward,ขลาดเขลา
+TraitName_劫后余生,Quick recover,ฟื้นฟูรวดเร็ว
+TraitName_体力充沛,Wholesome
+TraitName_圣贤传人,The Saint,วิญญูชน
+TraitName_邪魔外道,The Devil,มารร้าย
+TraitName_天命弱鸡,Absolute weakling
+TraitName_扮猪吃虎,Fake newcomer
+TraitName_武林盟主,Jianghu Master,ผู้นำยุทธภพ
+TraitName_武林霸主,Jianghu Conqueror,ผู้พิชิตยุทธภพ
+TraitName_多情浪子,Romantic lover,ยอดนักรัก
+TraitName_千王之王,God of gambling
+TraitName_转世佛子,Reincarnated monk,พุทธองค์กลับชาติ
+TraitName_碧血丹心,Path of loyalty
+TraitName_知行合一,Unity of Knowledge and Action
+TraitName_替天行道,Acting for the heavens
+TraitName_匹夫有责,Every man has his duty
+TraitName_博采众长,Learn from everyone
+TraitName_追命阎罗,Death master,ปรมาจารย์แห่งความตาย
+TraitName_伙伴特征身材矮小,Short stature
+TraitName_伙伴特征妙手空空,Sleight of hand
+TraitName_伙伴特征手脚灵活,Quick reflex,โต้ตอบว่องไว
+TraitName_伙伴特征酩酊醉意,Bad drunker
+TraitName_伙伴特征皮糙肉厚,Hardy,แข็งกร้าว
+TraitName_伙伴特征暴躁失控,Berserker,บ้าคลั่ง
+TraitName_伙伴特征毒不走空,Fast poisoner
+TraitName_伙伴特征掌中带毒,Poisonous touch
+TraitName_伙伴特征衣袖藏毒,Hidden poison
+TraitName_伙伴特征心宽体胖,Happy fatty,อารมณ์ดี
+TraitName_伙伴特征行动迟缓,Sluggish
+TraitName_伙伴特征先发制人,First strike
+TraitName_伙伴特征动如脱兔,Like a rabbit,รวดเร็วดั่งกระต่าย
+TraitName_伙伴特征狐假虎威,Dependant
+TraitName_伙伴特征金针刺穴,Meridian piercer
+TraitName_伙伴特征医有所成,Medical knowledge
+TraitName_伙伴特征妙手仁心,Medical expert
+TraitName_伙伴特征不解风情,Unaffectionate
+TraitName_伙伴特征子凭父贵,Powerful father
+TraitName_伙伴特征落井下石,Chance taker
+TraitName_伙伴特征山林猎手,Wild hunter
+TraitName_伙伴特征如履平地,Walker
+TraitName_伙伴特征多年积习,Trash sweeper
+TraitName_伙伴特征远离是非,Back away
+TraitName_伙伴特征粗通拳脚,Fist user
+TraitName_伙伴特征道听途说,Rumour listener
+TraitName_伙伴特征医者自医,Self-healing doctor
+TraitName_伙伴特征柔情似水,Gentle care
+TraitName_伙伴特征冷若冰霜,Icy glare
+TraitName_伙伴特征锱铢必较,Accountant
+TraitName_伙伴特征金刚体魄,Diamond body
+TraitName_伙伴特征偃武息戈,Blow over
+TraitName_伙伴特征来去飘忽,Gone with the wind
+TraitName_伙伴特征春燕回翔,Swallow flight
+TraitName_伙伴特征疏而不漏,Precision
+TraitName_伙伴特征刀剑无眼,Sharp edge
+TraitName_伙伴特征暴虐不仁,Tyrannical
+TraitName_伙伴特征勇猛无挡,Bravery
+TraitName_伙伴特征锐不可当,Dangerous aura
+TraitName_伙伴特征所向披靡,Dangerous aura
+TraitName_伙伴特征身形鬼魅,Ghostly mirage
+TraitName_伙伴特征滚滚波涛,Force waves
+TraitName_伙伴特征淬毒手段,Poisonous strike
+TraitName_伙伴特征势不可挡,Unstoppable
+TraitName_伙伴特征玄门正宗,Authentic sect
+TraitName_伙伴特征特异毒体,Poisonous body
+TraitName_伙伴特征毒蛊寄生,Poisonous parasite
+TraitName_伙伴特征不求甚解,Skimming
+TraitName_伙伴特征风头正盛,Eminent
+TraitName_伙伴特征兄妹双簧,Brother and sister
+TraitName_伙伴特征隐身匿形,Unseen visage
+TraitName_伙伴特征前朝皇族,Royal blood
+TraitName_伙伴特征免死金牌,Death-exemption Plate
+TraitName_伙伴特征孟尝遗风,Good comrades
+TraitName_伙伴特征醉生梦死,Drunken life
+TraitName_伙伴特征灵台清明,Clear mind
+TraitName_伙伴特征逍遥二仙,Carefree duo
+TraitName_伙伴特征金刚护体,Vajra protection
+TraitName_伙伴特征佛法加持,Buddhism protection
+TraitName_伙伴特征涅槃重生,Nirvana restoration
+TraitName_伙伴特征离经叛道,Deviant
+TraitName_伙伴特征荤腥不忌,Meat eater
+TraitName_伙伴特征磨刀霍霍,Sharpened edge
+TraitName_伙伴特征得心应手,Upwind,อยู่เหนือลม
+TraitName_伙伴特征水寨寨主,Lord of Water Camp
+TraitName_伙伴特征暗劲激发,Hidden force
+TraitName_伙伴特征喜怒无常,Moody
+TraitName_伙伴特征铁骨铮铮,Fearless
+TraitName_伙伴特征目不视物,Eyesight lost
+TraitName_伙伴特征听声辨位,Auditory sight
+TraitName_伙伴特征连珠射艺,Continuous throwing
+TraitName_伙伴特征暗器奇才,Throwing talent
+TraitName_伙伴特征琴棋书画,Four arts
+TraitName_伙伴特征步步为营,Careful step
+TraitName_伙伴特征势大力沉,Muscular
+TraitName_伙伴特征大器晚成,Slow starter
+TraitName_伙伴特征识破剑招,Sword breaker
+TraitName_伙伴特征武道奇才,Martial prodigy
+TraitName_伙伴特征剑锋披靡,Lethal sword
+TraitName_伙伴特征国色天香,Gorgeous beauty
+TraitName_伙伴特征自惭形秽,Ashamed
+TraitName_伙伴特征倾国倾城,Overwhelming beauty
+TraitName_伙伴特征暗送无常,Secret strike
+TraitName_伙伴特征深究其理,Careful examiner
+TraitName_伙伴特征脏街之主,Street master
+TraitName_伙伴特征如封似闭,Sealing wind
+TraitName_伙伴特征死里逃生,Survival instinct
+TraitName_伙伴特征日进斗金,Daily income,รายได้รายวัน
+TraitName_伙伴特征雁过拔毛,Dirty hands
+TraitName_伙伴特征斤斤计较,Economical
+TraitName_伙伴特征野心勃勃,Ambitious
+TraitName_伙伴特征众将听命,Give orders
+TraitName_伙伴特征先斩后奏,Executioner
+TraitName_伙伴特征余音绕梁,Reverberation
+TraitName_伙伴特征大音稀声,Precious sound
+TraitName_伙伴特征江湖郎中,Street doctor
+TraitName_伙伴特征久病成医,Long illness
+TraitName_伙伴特征目无全牛,Beast killer
+TraitName_伙伴特征九黎圣女,Jiuli Saintess
+TraitName_伙伴特征心有灵犀,Effective learner
+TraitName_伙伴特征武学奇才,Martial genius
+TraitName_伙伴特征举一反三,Fast learner
+TraitName_伙伴特征三花聚顶,Three flowers converge
+TraitName_伙伴特征尽忠报国,Loyalty,ผู้ภักดี
+TraitName_伙伴特征血战到底,To the death
+TraitName_伙伴特征绝境逢生,Against all odds
+TraitName_伙伴特征舍身修罗,Shura sacrifice
+TraitName_伙伴特征杀生护生,Kill to protect
+TraitName_伙伴特征内劲反震,Internal impact
+TraitName_伙伴特征随心所欲,Arbitrarily
+TraitName_伙伴特征一招生死,Life or death
+TraitName_伙伴特征剑意勃发,Sword Qi Explosion
+TraitName_伙伴特征战意凛凛,Raging spirit
+TraitName_伙伴特征杀意盎然,Killing intent
+TraitName_伙伴特征不留余力,All-out attack
+TraitName_伙伴特征七星阵眼,Formation center
+TraitName_伙伴特征我见犹怜,Lovely visage
+TraitName_伙伴特征天生神力,Herculean strength
+TraitName_伙伴特征金枝玉叶,Rich maiden
+TraitName_伙伴特征叶家统帅,Ye faction leader
+TraitName_伙伴特征近身侍卫,Bodyguards
+TraitName_伙伴特征铁血近卫,Blood guards
+TraitName_伙伴特征气场威压,Suppressing aura
+TraitName_伙伴特征气劲贯体,Suppressing attack
+TraitName_伙伴特征绵里藏针,Force reflection
+TraitName_伙伴特征皇室贵胄,Royal noble
+TraitName_伙伴特征侠肝义胆,Courageous
+TraitName_伙伴特征御剑精通,Sword master,ปรมาจารย์กระบี่
+TraitName_伙伴特征熟能生巧,Practice makes perfect
+TraitName_伙伴特征将门虎女,General's daughter
+TraitName_伙伴特征身先士卒,Front guard
+TraitName_伙伴特征发挥失常,Capriciousness
+TraitName_伙伴特征皇权特许,Royal prestige
+TraitName_伙伴特征身如鬼魅,Rapid response
+TraitName_伙伴特征随手烟尘,Dust thrower
+TraitName_伙伴特征长兵奇才,Long weapon talent,พรสวรรค์อาวุธยาว
+TraitName_伙伴特征邋遢道人,Ragged Taoist
+TraitName_伙伴特征先天罡气,Origin Qi,ปราณต้นกำเนิด
+TraitName_伙伴特征以静制动,Readied
+TraitName_伙伴特征道玄宗主,Taoist sect leader
+TraitName_伙伴特征九转回魂,Reversal technique
+TraitName_伙伴特征真气护体,Reflective Qi
+TraitName_伙伴特征立竿见影,Regenerative body,กายวิเศษ
+TraitName_伙伴特征谦谦君子,Modest gentleman
+TraitName_伙伴特征触类旁通,Analyzing,นักวิเคราะห์
+TraitName_伙伴特征儒家传人,Confucius's successor
+TraitName_伙伴特征袖里青蛇,Hidden snake
+TraitName_伙伴特征恨天不公,World hater
+TraitName_伙伴特征繁华楼主,Bustling House owner
+TraitName_伙伴特征妙手空空2,Sleight of hand
+TraitName_伙伴特征好事成双,Lucky,โชคดี
+TraitName_伙伴特征踏雪无痕,Traceless step
+TraitName_伙伴特征释家传人,Qi family's successor
+TraitName_伙伴特征所向披靡2,Undefeated
+TraitName_伙伴特征杀意腾腾,Killing aura,ไอสังหาร
+TraitName_伙伴特征战意昂扬,Spirited
+TraitName_伙伴特征越战越勇,Battle maniac,คลั่งไคล้การต่อสู้
+TraitName_伙伴特征速战速决,Blitz attack
+TraitName_伙伴特征耍刀精通,Blade master,ปรมาจารย์ดาบ
+TraitName_伙伴特征医术精研,Medical master,ปรมาจารย์แพทย์
+TraitName_伙伴特征医者自医2,Self-healing doctor
+TraitName_伙伴特征嫉恶如仇,Evil slayer
+TraitName_伙伴特征战意凛然,Burning spirit
+TraitName_伙伴特征剑不空回,Bloodied sword
+TraitName_伙伴特征法不容情,No mercy,ไร้ปราณี
+TraitName_伙伴特征志得意满,Exhilarated
+TraitName_伙伴特征飞燕凌波,Swallow ascend
+TraitName_伙伴特征身轻如燕,Light body,ตัวเบา
+TraitName_伙伴特征皇室贵胄2,Royal noble
+TraitName_伙伴特征扬名立万,Storyteller
+TraitName_伙伴特征去伪存真,Verification
+TraitName_伙伴特征一目十行,Fast reader
+TraitName_伙伴特征势如破竹,Unrelenting attack
+TraitName_伙伴特征荒蛮狼性,Wild instinct
+TraitName_伙伴特征燕军元帅,Yan Army commander
+TraitName_伙伴特征扇里藏针,Hidden needle
+TraitName_伙伴特征聚沙成塔,Power of unity
+TraitName_伙伴特征力破千钧,Heroic vigor
+TraitName_伙伴特征一触即发,Nerve-racking
+TraitName_伙伴特征天煞孤星,Lone wanderer,พเนจร​เดียวดาย
+TraitName_伙伴特征催心夺魄,Soul attacker
+TraitName_伙伴特征罡气护体,Protective Qi
+TraitName_伙伴特征追命阎罗,Death master,ปรมาจารย์แห่งความตาย
+TraitName_伙伴特征移花接木,Spirit transfer
+TraitName_伙伴特征宠妹狂人,Sister complex
+TraitName_伙伴特征生无可恋,Suicidal rage
+TraitName_伙伴特征书狂画痴,Art lover,ชื่นชมศิลปะ
+TraitName_伙伴特征银钩铁画,Pen of steel,พู่กันเหล็ก
+TraitName_伙伴特征画痴书狂,Book lover,หนอนหนังสือ
+TraitName_伙伴特征妙笔生花,Colorful pen
+TraitName_伙伴特征天生媚骨,Born charming
+TraitName_伙伴特征怜香惜玉,Cherish beauty
+TraitName_伙伴特征裙下之臣,Servant under the skirt
+TraitName_伙伴特征不让须眉,Brave and fearless
+TraitName_伙伴特征厚积薄发,Accumulate slowly and strike swiftly
+TraitName_伙伴特征血战不退,Fight to the death
+TraitName_伙伴特征品萧弄笛,Play the flute
+TraitName_伙伴特征风情万种,Full of charm
+TraitName_伙伴特征生财有道,Know how to make money
+TraitName_伙伴特征燕国郡主,Lady of Yan Kingdom
+TraitName_伙伴特征杀伐果决,Decisive in killing
+TraitName_伙伴特征杀敌立威,Gain reputation through killing enemies
+TraitName_伙伴特征窈窕淑女,Gentle and graceful lady
+TraitName_伙伴特征花中魁首,Leader among flowers
+TraitName_伙伴特征断情绝欲,Cut off all desires
+TraitName_伙伴特征天籁妙音,Heavenly music
+TraitName_伙伴特征此恨绵绵,Endless regret
+TraitName_伙伴特征绝代风华,Peerless Elegance
+TraitName_伙伴特征听声辩位,Identify location by sound
+TraitName_伙伴特征以小博大,Achieve big with small
+TraitName_伙伴特征输赢天定,"Win or lose, it's fate"
+TraitName_伙伴特征九黎之主,Lord of Jiuli
+TraitName_伙伴特征养蛊为患,Raising gu causes trouble
+TraitName_伙伴特征精研毒术,Deep study of Toxicology
+TraitName_伙伴特征酒酣尽兴,Enjoying the wine
+TraitName_伙伴特征战意盎然,Spirit is abundant
+TraitName_伙伴特征古之恶来,Evil comes from the ancient times
+TraitName_伙伴特征目盲耳聪,"Blind in sight, sharp in hearing"

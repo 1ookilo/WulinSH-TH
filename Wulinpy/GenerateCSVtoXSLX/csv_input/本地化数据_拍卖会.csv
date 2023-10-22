@@ -1,0 +1,26 @@
+﻿﻿AuctionName_101,Auction,ประมูล
+AuctionName_102,Auction,ประมูล
+AuctionName_103,Treasure Competition
+AuctionName_104,Dirty Street Auction,งานประมูลตรอกเล้าหมู
+AuctionName_105,Night Demon Square Auction,งานประมูลจัตุรัสปีศาจราตรี
+AuctionNormalItemIndroduction,"The next item for auction is {0}Item{2}, starting bid {3} Wen."
+AuctionTreasureIndroduction,"You are all in luck today, we will be showcasing our last mysterious item, {0}{1}{2}, starting bid {3} Wen, let's see who will take it home."
+AuctionCommissionChargeTip,Successful bids will be charged a <#62FF52>10%</color> service fee.
+AuctionCommissionEntrancePriceTip,You need to pay <size=-12> </size><#62FF52>{0}</color><size=-12> </size> Wen.
+AuctionTalk_NpcBid,"<size=36>I bid <size=48><#62FF52>{0}</color><size=36> Wen.|<size=36>I, I bid <size=48><#62FF52>{0}</color><size=36> Wen.|<size=36>Bid <size=48><#62FF52>{0}</color><size=36> Wen."
+AuctionTalk_PlayerBid,"<size=36>I bid <size=48><#62FF52>{0}</color><size=36> Wen.|<size=36>I, I bid <size=48><#62FF52>{0}</color><size=36> Wen.|<size=36>Bid <size=48><#62FF52>{0}</color><size=36> Wen."
+AuctionBidOneSuccess,Great! Let's congratulate {0} for winning {2} with a bid of {1} Wen!
+AuctionRemind,"{0}, {1} bid {2} Wen {3} times!","{0}, {1} เสนอราคา {2} ตำลึง {3} ครั้ง!"
+AuctionAbortive,"What a pity, it seems that everyone is not interested in this auction item!"
+AuctionTalk_IntroduceNormal_Other,Oh.|Oh!|Oh~|Oh!!|Oh~~,โอ้|โอ้! |โอ้~|โอ้! ! |โอ้~~
+AuctionTalk_BidMoreHalf_Other,The price has increased by 50%|The price has increased by 50%!|The price has increased by 50%!!
+AuctionTalk_BidDouble_Other,The price has doubled|The price has doubled!|The price has doubled!!
+AuctionTalk_BidSuccessNormal_Other,He succeeded|He succeeded!|He succeeded!!|He succeeded!!!
+AuctionTalk_PlayerFuckOff_Other,I'll snatch it tonight|I'll snatch it tonight!|I'll snatch it tonight!!
+AuctionTalk_PlayerBidSuccess_OtherFriendly,Impressive!|Impressive!|Truly remarkable!,น่าประทับใจ!|น่าประทับใจ!|น่าทึ่งจริงๆ!
+AuctionTalk_IntroduceTreasure_Other,This is amazing!|This is truly extraordinary!|Such a rare sight!
+AuctionTalk_TwoSecondsNoBidFromStart,So awkward|So awkward!|So awkward!!
+AuctionNews_Treasure,"{AuctionName0} presents the top auction item {ItemName0}, after a thrilling competition, it was finally won by {RoleName0}."
+AuctionEnterConfirm,Are you sure you want to pay {0} Coin to participate in {1}?
+AuctionConclusion,"Thank you all for participating in this {0}, the auction has successfully ended, thank you all for your support."
+AuctionStealed,"I can't believe that an auction item was stolen right under my nose! The auction has to end early, my apologies to everyone.",ข้าไม่อยากจะเชื่อเลยว่ารายการประมูลถูกขโมยไปใต้จมูกของข้า! การประมูลต้องจบลงก่อนกําหนดขอโทษพวกท่านทุกคนด้วย

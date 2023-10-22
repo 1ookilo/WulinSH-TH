@@ -1,0 +1,42 @@
+name: ParaToGit
+
+on:
+  schedule:
+    - cron: '0 4,12 * * *'
+  workflow_dispatch:
+
+jobs:
+  paracmd:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+    - name: Run build script
+      id: check_error
+      run: |
+        curl -O -J -L --header "Authorization: ${{ secrets.PARATRANZ_ROOT }}" https://paratranz.cn/api/projects/8405/artifacts/download
+    - name: Extrack
+      run: |
+        rm -r Wulinpy/GenerateCSVtoXSLX/csv_input
+        mkdir Wulinpy/GenerateCSVtoXSLX/csv_input
+        unzip -q -o download -d Wulinpy/GenerateCSVtoXSLX
+        mv Wulinpy/GenerateCSVtoXSLX/utf8/* Wulinpy/GenerateCSVtoXSLX/csv_input
+        rm -r Wulinpy/GenerateCSVtoXSLX/utf8
+        rm -r download
+    - name: List Extracted Files
+      run: |
+        ls Wulinpy/GenerateCSVtoXSLX/csv_input        
+    - name: Set up Git user
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'         
+    - name: Push changes
+      run: |
+        if [ -n "$(git status --porcelain)" ]; then
+          git add Wulinpy/GenerateCSVtoXSLX/csv_input/*
+          commitMessage=$(date +'%m-%d')' Update Translated'
+          git commit -m "$commitMessage"
+          git push https://github-actions[bot]:${{ secrets.GH_TOKEN }}@github.com/1ookilo/WulinSH-TH
+        else
+          echo "No changes in files. Skipping commit and push."
+        fi

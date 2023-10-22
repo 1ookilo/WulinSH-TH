@@ -1,0 +1,849 @@
+﻿﻿Talking_default,Talk,พูดคุย
+Talking_learn,Request,คำขอ
+M1101-5_talking,Jewelry,อัญมณี
+M1100-1_name,Small Village Bao Dating,Bao Dating แห่งหมู่บ้านเล็กๆ
+M1100-1_overview,Ask Bao Dating for ways to make money.,ถามวิธีหาเงินจาก Bao Dating
+M1100-2_name,Collect Herbs,รวบรวมสมุนไพร
+M1100-2_overview,Help the village doctor collect 5 Wolfberries.,ช่วยหมอในหมู่บ้านรวมรวม Wolfberries 5 ชิ้น
+M1100-2_overview2,Give 5 Wolfberries to the doctor.,มอบ Wolfberries 5 ชิ้น ให้แก่หมอ
+M1100-2_overview3,Chat with the medicine-selling doctor.,คุยกับคนขายยา
+M1100-2_option1_dialog,"Young man, can you help me collect Wolfberries?",พ่อหนุ่ม เจ้าช่วยรวบรวมวูล์ฟเบอร์รี่ให้ข้าทีได้ไหม?
+M1100-2_option1_1,I'll go collect <color=#c44b0e>Wolfberries</color> right away.,ข้าจะไปรวบรวม <color=#c44b0e>Wolfberries</color>เดี๋ยวนี้
+M1100-2_option1_2,"I really can't spare the time right now, let's talk about it later.",ตอนนี้ข้าไม่มีเวลา ค่อยมาคุยกันภายหลัง
+M1100-3_name,Snake Gall in Wine,สุราใส่ดีงู
+M1100-3_overview,Help the village butcher collect 5 Snake Galls.,ช่วยพ่อค้าเนื้อของหมู่บ้านรวบรวม ดีงู 5 ชิ้น
+M1100-3_overview2,Give the Snake Galls to the village butcher.,มอบ ดีงู ให้แก่พ่อค้าเนื้อของหมู่บ้าน
+M1100-3_option1_dialog,"(The butcher actually uses Snake Gall to make wine, this...)","(ที่จริงพ่อค้าเนื้อใช้ดีงูเพื่อทำสรุา, เรื่องนี้...)"
+M1100-3_option1_1,Snake Gall wine does have some benefits.<color=#097a76>(Medical reaches 30)</color>,สุราใส่ดีงูนี้มีสรรพคุณอยู่บ้าง <color=#097a76>(ทักษะทางแพทย์ระดับ 30)</color>
+M1100-3_option1_2,Snake Gall in wine... Can this be drunk?,สุราใส่ดีงู...ของแบบนี้ดื่มได้หรือ?
+M1100-3_option2_dialog,(Should I help the butcher collect Snake Galls?),(ข้าควรช่วยพ่อค้าเนื้อรวบรวมดีงูหรือไม่?)
+M1100-3_option2_1,"Alright, leave it to me.",ตกลง ให้ข้าจัดการเอง
+M1100-3_option2_2,I think it's better not to...,ข้าคิดว่าคงดีกว่าที่จะไม่...
+M1100-5_name,Doctor's Free Clinic,โรงหมอคนยาก
+M1100-5_overview,"The doctor can heal the team for free once, recovering all HP and MP.",หมอสามารถรักษาทั้งกลุ่มฟรีครั้งหนึ่ง ฟื้นฟูพลังทั้ง HP และ MP
+M1100-5_talk,Heal,รักษา
+M1100-5_option1,I'll count on you then.<color=#097a76>(1 shichen)</color>,เช่นนั้นขอฝากเจ้าด้วย <color=#097a76>(1 ชั่วยาม)</color>
+M1100-5_option2,"I feel quite healthy, no need to heal for now.",ข้ารู้สึกแข็งแรงดี มิจำเป็นต้องรักษาแล้ว
+M1100-5option1_dialog,Do you need me to help you regulate your Qi and blood?,อยากให้ข้าช่วยปรับลมปราณและกระแสโลหิตหรือไม่?
+M1100-11_name,Hide and Seek,เล่นซ่อนหา
+M1100-11_overview,Find 3 children.,ตามหาเด็ก 3 คน
+R20008-2_name,Xiao Bao's Secret,ความลับของเสี่ยวเป่า
+R20008-2_option（1）_dialog,"(He probably won't tell me his secret easily, should I listen to him?)",(เขาคงไม่เผยความลับต่อข้าโดยง่าย ข้าควรฟังข้าหรือไม่?)
+R20008-2_option1,"Of course, I want to know.",แน่นอน ข้าอยากรู้
+R20008-2_option2,I don't want to know.,ข้าไม่อยากรู้
+R20008-2_option3,"Alright, here you go.<color=#097a76>(Wooden sword x1)</color>",เอาล่ะ นี่ของเจ้า <color=#097a76>(Wooden sword x1) </color>
+R20008-2_option4,Let me think about it.,ข้าขอคิดดูก่อน
+R20008-2_overview1,Xiao Bao has something to tell you.,Xiao Bao มีเรื่องจะบอกท่าน
+R20008-2_overview2,Xiao Bao wants a Wooden sword.,Xiao Bao ต้องการ Wooden sword
+R20008-2_overview3,Give the Wooden sword to Xiao Bao.,มอบ Wooden sword ให้ Xiao Bao
+M1100-17_option1_dialog,"Want to learn Medical? Alright, kid, name a few medicinal herbs and their effects first.",อยากเรียนวิชาแพทย์หรือ? ได้สิ เจ้าหนู ก่อนอื่นลองบอกชื่อสมุนไพรแล้วสรรพคุณมาให้ข้าฟังดู
+M1100-17_option1_1,"I've loved Medical since I was a child, this won't be a problem for me.<color=#097a76>(Medical reaches 30)</color>",ตัวข้าชมชอบวิชาแพทย์มานับแต่เด็ก เรื่องนี้ย่อมไม่เป็นปัญหา <color=#097a76>(Medical reaches 30)</color>
+M1100-17_option1_2,Uh... I'm actually untrained in herbs.,เอ่อ...ที่จริง ข้าไม่เคยได้รับการฝึกเรื่องสมุนไพรหรอก
+M1100-19_option1_dialog,What do you want to know?,เจ้าอยากรู้เรื่องอะไรล่ะ?
+M1100-19_option1_1,I want to understand the classification of martial arts.,ข้าอยากเข้าใจการแยกประเภทของวรยุทธ์
+M1100-19_option1_2,I want to know what to pay attention to during a fight.,ข้าอยากรู้ว่าในยามต่อสู้ เราต้องใส่ใจในสิ่งใด
+M1100-19_option1_3,How do I distinguish different fighting styles?,ข้าจะแยกแยะรูปแบบการต่อสู้ได้อย่างไร
+M1100-19_option1_4,I have no more questions.,ข้าไม่มีคำถามอื่นใดอีกแล้ว
+M1100-24_option1_dialog,How much strength do you want me to use?,อยากให้ข้าใช้พลังกี่ส่วนดีล่ะ?
+M1100-24_option1_1,I want to challenge you at three-tenths of your strength!<color=#097a76>(Solo challenge)</color>,ข้าอยากประลองกับท่านที่ใช้พลังสามส่วน!<color=#097a76>(ประลองเดี่ยว)</color>
+M1100-24_option1_2,I want to challenge you at half of your strength!<color=#097a76>(Solo challenge)</color>,ข้าอยากประลองกับท่านที่ใช้พลังห้าส่วน!<color=#097a76>(ประลองเดี่ยว)</color>
+M1100-24_option1_3,I want to challenge you at seven-tenths of your strength!<color=#097a76>(Solo challenge)</color>,ข้าอยากประลองกับท่านที่ใช้พลังเจ็ดส่วน!<color=#097a76>(ประลองเดี่ยว)</color>
+M1100-24_option1_4,I want to challenge you at full strength!<color=#097a76>(Solo challenge)</color>,ข้าอยากประลองกับท่านแบบไม่ออมมือ!<color=#097a76>(ประลองเดี่ยว)</color>
+M1100-24_option1_5,I'll prepare and come back to request.,ข้าจะไปเตรียมพร้อมแล้วกลับไปทำภารกิจ
+M1104-1_name,Village Head's Gift,ของขวัญของผู้ใหญ่บ้าน
+M1104-1_overview1,Go talk to the Nameless village Village Head.,ไปคุยกับหัวหน้าหมู่บ้านไร้นาม
+M1104-1_overview2,Search for the Secret chamber in the Village leader's house.,ตามหาห้องลับในบ้านหัวหน้าหมู่บ้าน
+M1104-1_overview3,Open the Panlong Chest in the Secret chamber.,เปิดหีบมังกรขดในห้องลับ
+M1105-2_name,Forge Weapon,หลอมสร้างอาวุธ
+M1105-2_talking,Craft,สร้าง
+M1105-2_overview1,"After learning the recipe in your bag, use 2 Iron mines to forge a Cast iron sword."
+M1105-2_overview2,Talk to the blacksmith with the <color=#c44b0e>Cast iron sword</color> in hand.,คุยกับช่างตีเหล็กขณะที่ถือ<color=#c44b0e>กระบี่หล่อโลหะ</color>
+M1400-1_name,Lingzhi under the Tree,เห็ดหลินจืออยู่ใต้ต้นไม้
+M1400-1_overview,A Lingzhi is hidden under a pink-leafed tree in the Lost Forest.,เห็ดหลินจอซ่อนอยู่ใต้ต้นใบชมพูในป่าสาบสูญ
+M1700-1_name,Ferry across the River,ข้ามแม่น้ำด้วยเรือข้ามฝาก
+M1700-1_options1,[Pay] Pay 50 Wen to cross the river.,[จ่าย] จ่าย 50 ตำลึงเพื่อข้ามแม่น้ำ
+M1700-1_options2,[Pay] Pay 400 Wen to cross the river. (2 people in your party),[จ่าย] จ่าย 400 ตำลึงเพื่อข้ามแม่น้ำ (กลุ่มของท่านมี 2 คน)
+M1700-1_options3,[Pay] Pay 600 Wen to cross the river. (3 people in your party),[จ่าย] จ่าย 600 ตำลึงเพื่อข้ามแม่น้ำ (กลุ่มของท่านมี 3 คน)
+M1700-1_options4,[Pay] Pay 800 Wen to cross the river. (4 people in your party),[จ่าย] จ่าย 800 ตำลึงเพื่อข้ามแม่น้ำ (กลุ่มของท่านมี 4 คน)
+M1700-1_options5,[Pay] Pay 1 Guan to cross the river. (5 people in your party),[จ่าย] จ่าย 1 ชั่ง เพื่อข้ามแม่น้ำ (มีเพื่อน 5 คนในกลุ่ม)
+M1700-1_options6,[Pay] Pay 1 Guan and 200 Wen to cross the river. (6 people in your party),[จ่าย] จ่าย 1 ชั่ง 200 ตำลึงเพื่อข้ามแม่น้ำ (กลุ่มของท่านมี 6 คน)
+M1700-1_options7,[Run away] Don't cross the river for now.,[วิ่งหนี] ไม่ข้ามแม่น้ำตอนนี้
+End001_name,Supreme Dominance
+End001_overview,"Eliminate the Confucius Temple, Shifa Temple, Taoist Sect, and Nine Factions Sect.",กวาดล้าง วัดขงจื๊อ วัดเส้าหลิน ลัทธิเต๋า และนิกายเก้าฝ่าย
+End002_name,Leader of the Martial World,ประมุขยุทธภพ
+End002_overview,"Relations with Confucius Temple, Shifa Temple, Taoist Sect, and Nine Factions Sect reach Worship.",ความสัมพันธ์กับ วัดขงจื๊อ วัดเส้าหลิน ลัทธิเต๋า และนิกายเก้าฝ่ายถึงระดับ เคารพบูชา
+End003_name,Great Hero
+End003_overview,"Benevolence, Righteousness, Propriety, Wisdom, Faith, and Courage reach 100, main character reaches level 50."
+M2072-1_name,Longquan Sword Test
+M2072-1_overview,Participate in the Longquan Sword Test Tournament at the Sword Test Platform near the Sword Manor.
+M2072-2_name,Dragonfly Shakes the Big Tree
+M2072-2_overview,Go to the Sword Test Platform to see what the people from Dragonfly City are up to.
+1001_name,——
+1001_overview,——
+1002_name,Find a way to make money.,หาวิธีหาเงิน
+1002_overview,Save up 1000 Wen as soon as possible.,เก็บเงิน 1000 ตำลึงให้เร็วที่สุด
+1002_1_name,Save money to pay off debts,เก็บเงินเพื่อชำระหนี้
+1002_1_overview,Find the <color=#c44b0e>innkeeper</color> to redeem your belongings.
+1002_1_options01_01,[Pay] Help the innkeeper pay <color=#c44b0e>1000 Wen</color>.
+1002_1_options01_02,[Fight] Drive away this unreasonable guy.
+1002_1_options01_03,[Silence] Keep a low profile to stay safe.
+1002_2_name,Save money to pay off debts (not displayed)
+1002_2_overview,Not enough money to face the innkeeper.,มีเงินไม่พอจะพบหน้าเถ้าแก่
+1002_3_name,Escape from the fight (not displayed)
+1002_3_overview,Being ridiculed by the innkeeper.
+1003_name,Retrieve the jewelry box
+1003_overview,Run away from the inn and catch up with the sleazy middle-aged man
+1003-A_name,Retrieve the jewelry box
+1003-A_overview,"Found the sleazy man lingering under a big tree outside the bandit camp, not knowing what he's doing"
+1003-A_options01_01,[Fight] Go and ask for the jewelry box,[ต่อสู้] เข้าไปถามถึงกล่องอัญมณี
+1003-A_options01_02,[Silence] Wait and see,[เงียบ] รอดู
+1003-B_name,Retrieve the jewelry box
+1003-B_overview,"Didn't catch up with the sleazy man, he probably has entered the Blue Wind Camp"
+1003-C_name,Retrieve the jewelry box
+1003-C_overview,Return the retrieved jewelry box to the innkeeper,คืนกล่องอัญมณีให้กับเถ้าแก่
+1003-D_name,Search for someone in Blue Wind Camp,ตามหาคนผู้หนึ่งในค่ายวายุคราม
+1003-D_overview,Enter Blue Wind Camp to find the sleazy man and get back the jewelry box,ไปยังค่ายวายุคราม ตามหาชายสกปรก และนำกล่องอัญมณีกลับมา
+1004_name,Show off your martial arts,แสดงวิทยายุทธ
+1004_overview,
+1004_options01_01,[Fight] Drive away the guys from Blue Wind Camp,[ต่อสู้] ขับไล่คนจากค่ายวายุคราม
+1004_options01_02,[Silence] Better not to draw attention,[เงียบไว้] ไม่เป็นจุดสนใจจะดีกว่า
+1004-A_name,Prepare for the battle,เตรียมตัวต่อสู้
+1004-A_overview,"The people from Blue Wind Camp threatened to trouble Nameless village in a day, need to improve strength as soon as possible"
+1005_name,"Tong Daofu came to the village, he destroyed the village"
+1005_overview,
+1006_name,"Tong Daofu came to the village, he didn't destroy the village"
+1006_overview,
+1007_name,Ferry to Lin'an,ท่าเรือสู่หลินอัน
+1007_overview,
+1007_options01_01,[Take the boat] I want to go to Lin'an City,[ขึ้นเรือ] ข้าอยากไปเมืองหลินอัน
+1007_options01_02,"[Say goodbye] Wait a minute, I have something else to deal with",[บอกลา] รอสักครู่ ข้ามีบางอย่างต้องไปจัดการ
+2001_name,Vacant
+2001_overview,Vacant
+2001_options01_01,Vacant
+2001_options01_02,Vacant
+M1301-1_name,Siege of the Ruined shrine,ปิดล้อมศาลเจ้าร้าง
+M1301-1_overview,
+M1301-1_option（1）_dialog,"The uncle in the village seems to be surrounded by enemies, what should I do?"
+M1301-1_option（2）_dialog,"(This is a golden opportunity, what should I ask for?)"
+M1301-1_option（3）_dialog,I want to choose...
+M1301-1_options01_01,Help the down-and-out martial artist <color=#097a76>(Fight to the death)</color>
+M1301-1_options01_02,"Better to avoid trouble, it's best to leave"
+M1301-1_options02_01,"Help in emergency, sponsor some living expenses"
+M1301-1_options02_02,Why don't you teach me some self-defense moves
+M1301-1_options02_03,Give me a weapon as a souvenir
+M1301-1_options02_04,How can I covet wealth when helping others?
+M1301-1_options03_01,Hand-to-hand combat skills
+M1301-1_options03_02,Swordsmanship
+M1301-1_options03_03,Knife dancing skills
+M1301-1_options03_04,Spear and stick skills
+M1301-1_options04_01,A pair of Gloves
+M1301-1_options04_02,A long sword
+M1301-1_options04_03,A big knife
+M1301-1_options04_04,A stick
+M1301-1_options05_01,Re-select
+M1301-1_options05_02,No longer consider
+2003_name,Nameless village is attacked by wild boars,หมู่บ้านไร้นามถูกหมูป่าโจมตี
+2004_name,Mysterious iron spearhead Open event
+2004_options1_1,Hand over the <color=#c44b0e>Burning blade wine</color>
+2004_1_name,Mysterious iron spearhead 1
+2004_1_overview,Maybe the <color=#c44b0e>blacksmith</color> knows something
+2004_2_name,Mysterious iron spearhead 2
+2004_2_overview,Give the blacksmith a bowl of <color=#c44b0e>Burning blade wine</color>.
+2005_name,Improve relations with Lost Forest
+2005_overview,Giving Lingzhi to the Wild Boar King might have unexpected effects
+2005_options1_3,Think about it again
+2005_options1_2,Ignore it (<color=#c44b0e>irreversible</color>)
+2005_options1_1,Hand over the <color=#c44b0e>Lingzhi</color>
+2006_name,Improve relations with Wild Wolf Valley
+2006_overview,Giving 10 pieces of Wild boar meat to Wolf King Xiao Yue might have unexpected effects
+2006_options1_3,Think about it again
+2006_options1_2,Ignore it (<color=#c44b0e>irreversible</color>)
+2006_options1_1,Hand over <color=#c44b0e>10 pieces of Wild boar meat</color>
+2007_name,
+2007_overview,
+2007_overview_1,
+2008_name,Trouble in Lost Forest,ปัญหาในป่าสาปสูญ
+2008_overview,Head to the Lost Forest to deal with the <color=#c44b0e>Wild Boar King·Gang Lie</color> deep in the woods
+2008_overview_1,Return to the village and tell <color=#c44b0e>Village Head</color> that Gang Lie has been dealt with
+2008_detail,——
+2009_name,Rescue Liu Xiao Bao
+2009_overview,Go to Blue Wind Camp to rescue Liu Xiao Bao
+2010_name,Sell Wild boar meat
+2010_overview,
+2010_options01_01,Choose to sell for money
+2010_options01_02,Choose not to take money
+2010_options01_03,[Run away] Don't want to sell!
+2011_name,News about Lingzhi
+2011_overview,Heard there's a Lingzhi under a special big tree in Lost Forest
+2012_name,Village Head's Secret chamber
+2012_overview,"There's a Secret chamber in the Village leader's houseBedroom, use the Dragon key to open the Chest in the Secret chamber"
+2013_name,Wolf King of the Wild Wolf Valley
+2013_options1,Give the hunter the <color=#c44b0e>Wolf king fang</color>
+2013_options2,Don't give
+2014_name,Xiao Bao's Wooden sword
+2014_overview_1,"Xiao Bao admires you a lot, go have a chat with Xiao Bao"
+2014_overview_2,Go see the Woodcutter and see if there's a solution
+2014_overview_3,Find a piece of <color=#c44b0e>firewood</color> and give it to the Woodcutter
+2014_overview_4,Find the Woodcutter again later
+2014_overview_5,Give the <color=#c44b0e>Wooden sword</color> to Xiao Bao
+2015_name,Blacksmith's request
+2015_overview_1,Have a chat with the blacksmith
+2015_overview_2,Go to the <color=#c44b0e>village well</color> to fetch water
+2015_overview_3,Give the fetched water to the blacksmith
+2016_name,Village Head's request
+2016_overview_1,Village Head seems to have something to ask
+2016_overview_2,Stay at the Village leader's house until the Village Head returns
+2016_options1,Gladly accept
+2016_options2,Politely decline
+2016_options3,Wait a bit longer
+2016_options4,Decisively leave
+2016_3_options_1,Look around
+2016_3_options_2,Wait patiently
+2016_3_options_3,Take a nap
+M1200-2_options_1,Eat and drink together!
+M1200-2_options_2,Leave first due to other matters.
+M1200-3_1_options_1,Join the Blue Wind Camp.,เข้าร่วมค่ายวายุคราม
+M1200-3_1_options_2,Force your way in.
+M1200-3_4_options_1,Offer the Wolf king skin.<color=#097a76>(Wolf king skin)</color>
+M1200-3_4_options_2,Test of Strength.<color=#097a76>(Strength)</color>
+M1200-3_4_options_3,Test of combat.<color=#097a76>(Solo fight)</color>
+M1200-4_name,Investigate <color=#c44b0e>Second in command</color>.
+M1200-4_overview_1,Further improve relations with <color=#c44b0e>Leader</color>.
+M1200-4_overview_2,Check out the small path on the right side of the camp at night.
+M1200-5_name,Second in command's secret
+M1200-5_overview_1,Further improve relations with <color=#c44b0e>Second in command</color>.
+M1200-5_overview_2,Join forces with <color=#c44b0e>Second in command</color> to kill the Leader.
+M1200-5_overview_3,Chat with <color=#c44b0e>Second in command</color>.
+M1200-5_1_options_1,Agree with Second in command.
+M1200-5_1_options_2,Refuse Second in command.
+M1200-6_name,Discovered by the dog
+3001_name,First time going to Wild Wolf Valley from Hanging bridge
+3001_options01_01,[Item] Use a rope to climb down
+3001_options01_02,[Attribute] Use Qinggong to jump down
+3001_options01_03,"[Run away] Not interested, better to run away"
+3002_name,Going to Wild Wolf Valley from Hanging bridge again
+3003_name,Rescue the Woodcutter
+3003_options1,Go to rescue
+3003_options2,Ignore
+3004_name,Dog at the hunter's door
+3005_name,Ask Bao Dating from Nameless village for information
+3005_options1_1,Around Nameless village,รอบๆหมู่บ้านไร้นาม
+3005_options1_2,How to make money
+3005_options1_3,Blue Wind Camp,ค่ายวายุคราม
+3005_options1_5,Say goodbye
+3005_options1_1(1),Wild Wolf Valley
+3005_options1_1(2),Lost Forest,ป่าสาปสูญ
+3005_options1_1(3),"Never mind, I want to ask something else"
+3008_name,"Knowing that Tong Daofu destroyed Blue Wind Camp, go to scavenge."
+3008_options01_01,[Item] Feed him <color=#c44b0e>Lingzhi</color> for HP recovery
+3008_options01_02,[Attribute] Use <color=#c44b0e>500MP</color> to heal him
+3008_options01_03,"Helpless, can't do anything"
+M1400-3_name,Bandits in Lost Forest are surrounded by wild boars
+M1400-3_options1_1,"I don't care about them, it's a good thing if these bandits die here!"
+M1400-3_options1_2,"I can't just watch people die, I have to help.<color=#c44b0e>(Specific Battle)</color>"
+3010_name,Abandoned Temple Fist
+3011_name,Read the Sword Tombstone
+3011_options1_1,Try to read the tombstone
+3011_options2_1,Worship and bow
+3011_options2_2,Nothing special
+3014_name,Boatman refuses to ferry
+3015_name,First time climbing vines in Wild Wolf Valley
+3015_options01_01,[Climb] Climb the vine to get out
+3015_options01_02,[Stay] There are things to be resolved here
+3016_name,Climbing vines in Wild Wolf Valley again
+3017_name,Monster hunting in Lost Forest
+3017_options1,Continue Info
+3017_options2,Run away quickly
+3018_name,Monster hunting in Lost Forest
+3018_options1,Continue Info
+3018_options2,Run away quickly
+3019_name,"Start the plot, gossip with the farmer outside the door"
+3020_name,Ask the farmer where to get vegetables to sell
+3021_name,Ask the butcher where to get meat to sell
+3022_name,Ask Void about his origin
+3023_name,"Ask the woman about making money, she refuses to tell"
+3024_name,The woman tells you there are Lingzhi under the big tree in Lost Forest
+3025_name,"Scolded for being idle, despising knights"
+3026_name,Complain about the Iron Ban
+3027_name,Scold the protagonist for giving Xiao Bao a Wooden sword
+M1500-1_name,Treasure in Wild Wolf Valley
+M1500-1_overview_1,Go to the withered tree in <color=#c44b0e>Wild Wolf Valley</color> for Info
+3029_name,Eliminate Blue Wind Camp
+3030_name,Enter Lost Forest Level reminder event
+3030_1_options_1,Not going for now
+3030_1_options_2,Insist on going
+4001_name,Void begging for alms
+4001_options01_1,[Item] Choose to give five pancakes
+4001_options01_2,[Item] Choose to give five bowls of Pork soup
+4001_options01_3,[Run away] Excuse yourself and run away
+4002_name,Sandalwood prayer beads
+4002_options01_1,[Item] Agree to give Sandalwood prayer beads to Void
+4002_options01_2,[Refuse] Refuse to give Sandalwood prayer beads
+4005_name,Ye Yinping's obsession
+4005_options01_1,Exchange with martial arts Manual
+4005_options01_2,Invite Ye Yinping to join your party,ชักชวน เย่หยินผิง เข้าร่วมกลุ่มกับท่าน
+4005_options01_3,Give it to Ye Yinping without any conditions
+4005_options01_4,Not planning to transfer
+4010_name,Block the way
+4010_overview,
+4010_options01_01,[Battle] Fight for Ye Yinping,[ต่อสู้] สู้เพื่อเย่หยินผิง
+4010_options01_02,"[Silence] This is a private matter, it's not appropriate to interfere"
+2013_overview_1,Go to Wild Wolf Valley to kill the <color=#c44b0e>Wolf King</color> with the hunter
+2013_overview_2,"After improving your strength, go to Wild Wolf Valley to kill the <color=#c44b0e>Wolf King</color> with the hunter"
+2013_overview_3,The hunter seems to have something to say to you
+2013_overview_4,Meet the hunter at the Hanging bridge outside the village
+3005_options1_4,Stay at the inn (50 coins)
+3031_name,Talk to the butcher
+3031_overview,"Collected enough meat, go talk to the butcher"
+3032_name,Talk to the hunter
+3032_overview,"Collected enough skins, go talk to the hunter"
+10001_option1,Improve Relations (Spend 1000 coins to improve 10 points of power Relations)
+10001_option2,Repair Relations (Spend 2000 coins to improve 10 points of power Relations)
+10001_option3,Come to visit
+10001_option4,Force your way in (Battle will occur)
+10001_option5,"Nothing to do, run away"
+10001_option6,Eliminate the sect
+10100_option1_1,Ease Relations (Need to reach 50 Relations with Chai Wangsun)
+10100_option1_2,"Nothing to do, run away"
+10100_1option2_1,Ease Relations with <color=#c44b0e>Taoist Sect</color> (Spend 2 strings of coins)
+10100_1option2_2,Ease Relations with <color=#c44b0e>Shifa Temple</color> (Spend 2 strings of coins)
+10100_1option2_3,Improve relations with <color=#c44b0e>Confucius Temple</color> (Costs 2 coins)
+10100_1option2_4,Improve relations with <color=#c44b0e>Nine Factions Sect</color> (Costs 2 coins)
+10100_1option2_5,Improve relations with <color=#c44b0e>Ye Family Battalion</color> (Costs 2 coins)
+10100_1option2_6,Improve relations with <color=#c44b0e>Yelv Army</color> (Costs 2 coins)
+10100_1option2_7,Improve relations with <color=#c44b0e>Jiujiang Water Camp</color> (Costs 2 coins)
+10100_1option2_8,Improve relations with <color=#c44b0e>Linlang Academy</color> (Costs 2 coins)
+10100_1option2_9,Improve relations with <color=#c44b0e>Sword Mountain Villa</color> (Costs 2 coins)
+10100_1option2_10,"Nothing to do, run away"
+10101_opotion1,Sign up for competition
+10101_opotion2,Think about it again
+10102_opotion1,Sign up for competition (200 coins)
+10102_opotion2,Think about it again
+10200_option_1,Recover team's <color=#c44b0e>HP</color> (200 coins)
+10200_option_2,Recover team's <color=#c44b0e>MP</color> (200 coins)
+10200_option_3,Remove team's <color=#c44b0e>serious injuries</color> (400 coins)
+10200_option_4,Remove team's <color=#c44b0e>near-death status</color> (600 coins)
+10200_option_5,Remove other abnormalities (200 coins)
+10200_option_6,"Nothing to do, run away"
+10200_option_7,Remove team's <color=#c44b0e>blindness</color> (200 coins)
+10200_option_8,Remove team's <color=#c44b0e>broken bones</color> (200 coins)
+10200_option_9,Remove team's <color=#c44b0e>poison sores</color> (200 coins)
+10200_option_10,Remove team's <color=#c44b0e>confusion</color> (200 coins)
+10200_option_11,Remove team's <color=#c44b0e>blood loss</color> (200 coins)
+10200_option_1a,Recover team's <color=#c44b0e>HP</color> (400 coins)
+10200_option_2a,Recover team's <color=#c44b0e>MP</color> (400 coins)
+10200_option_3a,Remove team's <color=#c44b0e>serious injuries</color> (800 coins)
+10200_option_4a,Remove team's <color=#c44b0e>near-death status</color> (1200 coins)
+10200_option_5a,Remove other abnormalities (400 coins)
+10200_option_6a,"Nothing to do, run away"
+10200_option_7a,Remove team's <color=#c44b0e>blindness</color> (400 coins)
+10200_option_8a,Remove team's <color=#c44b0e>broken bones</color> (400 coins)
+10200_option_9a,Remove team's <color=#c44b0e>poison sores</color> (400 coins)
+10200_option_10a,Remove team's <color=#c44b0e>confusion</color> (400 coins)
+10200_option_11a,Remove team's <color=#c44b0e>blood loss</color> (400 coins)
+10201_option_1,Recover team's <color=#c44b0e>HP</color> (200 coins)
+10201_option_2,Recover team's <color=#c44b0e>MP</color> (200 coins)
+10201_option_3,Remove team's <color=#c44b0e>serious injuries</color> (400 coins)
+10201_option_4,Remove team's <color=#c44b0e>near-death status</color> (600 coins)
+10201_option_5,Remove other abnormalities (200 coins)
+10201_option_6,"Nothing to do, run away"
+10201_option_7,Remove team's <color=#c44b0e>blindness</color> (200 coins)
+10201_option_8,Remove team's <color=#c44b0e>broken bones</color> (200 coins)
+10201_option_9,Remove team's <color=#c44b0e>poison sores</color> (200 coins)
+10201_option_10,Remove team's <color=#c44b0e>confusion</color> (200 coins)
+10201_option_11,Remove team's <color=#c44b0e>blood loss</color> (200 coins)
+10201_option_1a,Recover team's <color=#c44b0e>HP</color> (400 coins)
+10201_option_2a,Recover team's <color=#c44b0e>MP</color> (400 coins)
+10201_option_3a,Remove team's <color=#c44b0e>serious injuries</color> (800 coins)
+10201_option_4a,Remove team's <color=#c44b0e>near-death status</color> (1200 coins)
+10201_option_5a,Remove other abnormalities (400 coins)
+10201_option_6a,"Nothing to do, run away"
+10201_option_7a,Remove team's <color=#c44b0e>blindness</color> (400 coins)
+10201_option_8a,Remove team's <color=#c44b0e>broken bones</color> (400 coins)
+10201_option_9a,Remove team's <color=#c44b0e>poison sores</color> (400 coins)
+10201_option_10a,Remove team's <color=#c44b0e>confusion</color> (400 coins)
+10201_option_11a,Remove team's <color=#c44b0e>blood loss</color> (400 coins)
+10202_option_1,Recover team's <color=#c44b0e>HP</color> (200 coins)
+10202_option_2,Recover team's <color=#c44b0e>MP</color> (200 coins)
+10202_option_3,Remove team's <color=#c44b0e>serious injuries</color> (400 coins)
+10202_option_4,Remove team's <color=#c44b0e>near-death status</color> (600 coins)
+10202_option_5,Remove other abnormalities (200 coins)
+10202_option_6,"Nothing to do, run away"
+10202_option_7,Remove team's <color=#c44b0e>blindness</color> (200 coins)
+10202_option_8,Remove team's <color=#c44b0e>broken bones</color> (200 coins)
+10202_option_9,Remove team's <color=#c44b0e>poison sores</color> (200 coins)
+10202_option_10,Remove team's <color=#c44b0e>confusion</color> (200 coins)
+10202_option_11,Remove team's <color=#c44b0e>blood loss</color> (200 coins)
+10202_option_1a,Recover team's <color=#c44b0e>HP</color> (400 coins)
+10202_option_2a,Recover team's <color=#c44b0e>MP</color> (400 coins)
+10202_option_3a,Remove team's <color=#c44b0e>serious injuries</color> (800 coins)
+10202_option_4a,Remove team's <color=#c44b0e>near-death status</color> (1200 coins)
+10202_option_5a,Remove other abnormalities (400 coins)
+10202_option_6a,"Nothing to do, run away"
+10202_option_7a,Remove team's <color=#c44b0e>blindness</color> (400 coins)
+10202_option_8a,Remove team's <color=#c44b0e>broken bones</color> (400 coins)
+10202_option_9a,Remove team's <color=#c44b0e>poison sores</color> (400 coins)
+10202_option_10a,Remove team's <color=#c44b0e>confusion</color> (400 coins)
+10202_option_11a,Remove team's <color=#c44b0e>blood loss</color> (400 coins)
+10203_option_1,Recover team's <color=#c44b0e>HP</color> (200 coins)
+10203_option_2,Recover team's <color=#c44b0e>MP</color> (200 coins)
+10203_option_3,Remove team's <color=#c44b0e>serious injuries</color> (400 coins)
+10203_option_4,Remove team's <color=#c44b0e>near-death status</color> (600 coins)
+10203_option_5,Remove other abnormalities (200 coins)
+10203_option_6,"Nothing to do, run away"
+10203_option_7,Remove team's <color=#c44b0e>blindness</color> (200 coins)
+10203_option_8,Remove team's <color=#c44b0e>broken bones</color> (200 coins)
+10203_option_9,Remove team's <color=#c44b0e>poison sores</color> (200 coins)
+10203_option_10,Remove team's <color=#c44b0e>confusion</color> (200 coins)
+10203_option_11,Remove team's <color=#c44b0e>blood loss</color> (200 coins)
+10203_option_1a,Recover team's <color=#c44b0e>HP</color> (400 coins)
+10203_option_2a,Recover team's <color=#c44b0e>MP</color> (400 coins)
+10203_option_3a,Remove team's <color=#c44b0e>serious injuries</color> (800 coins)
+10203_option_4a,Remove team's <color=#c44b0e>near-death status</color> (1200 coins)
+10203_option_5a,Remove other abnormalities (400 coins)
+10203_option_6a,"Nothing to do, run away"
+10203_option_7a,Remove team's <color=#c44b0e>blindness</color> (400 coins)
+10203_option_8a,Remove team's <color=#c44b0e>broken bones</color> (400 coins)
+10203_option_9a,Remove team's <color=#c44b0e>poison sores</color> (400 coins)
+10203_option_10a,Remove team's <color=#c44b0e>confusion</color> (400 coins)
+10203_option_11a,Remove team's <color=#c44b0e>blood loss</color> (400 coins)
+10300option_1,Stay at the Inn (200 Wen),พักแรม (200 ตำลึง)
+10300option_2,Think about it
+10300option_3,Well rested
+10300option_4,Insist on staying (Start a fight)
+10300option_5,Stay at the Inn again (200 Wen),พักแรมอีกครั้ง (200 ตำลึง)
+10301option_1,Stay at the Inn (200 Wen),พักแรม (200 ตำลึง)
+10301option_2,Think about it
+10301option_3,Well rested
+10301option_4,Insist on staying (Start a fight)
+10301option_5,Stay at the Inn again (200 Wen),พักแรมอีกครั้ง (200 ตำลึง)
+10302option_1,Stay at the Inn (200 Wen),พักแรม (200 ตำลึง)
+10302option_2,Think about it
+10302option_3,Well rested
+10302option_4,Insist on staying (Start a fight)
+10302option_5,Stay at the Inn again (200 Wen),พักแรมอีกครั้ง (200 ตำลึง)
+M20216-1option1,【Agree】
+M20216-1option2,
+M20216-1_ans1_1_1,Send feelings of mountains and rivers
+M20216-1_ans1_1_2,Read ancient and modern books
+M20216-1_ans1_1_3,Travel thousands of miles
+M20216-1_ans1_1_4,Recite a thousand autumn verses
+M20216-1_ans1_2_1,Break through a thousand people formation
+M20216-1_ans1_2_2,Travel with a sword
+M20216-1_ans1_2_3,Write a book as tall as oneself
+M20216-1_ans1_2_4,Help thousands of people
+M20216-1_ans1_3_1,Establish oneself through words and deeds
+M20216-1_ans1_3_2,Eat to satisfy hunger
+M20216-1_ans1_3_3,Sleep to relieve fatigue
+M20216-1_ans1_3_4,Practice martial arts to secure the people
+M20216-1_ans1_4_1,Gorgeous beauty
+M20216-1_ans1_4_2,Mountain Clear water show
+M20216-1_ans1_4_3,Sound of zither and books
+M20216-1_ans1_4_4,"Courage of the sword, heart of the zither"
+M20216-1_ans1_5_1,Earth nurtures all things
+M20216-1_ans1_5_2,Spring fills Heaven and Earth
+M20216-1_ans1_5_3,People add to Spring and Autumn
+M20216-1_ans1_5_4,History records the loyal and the treacherous
+M20216-1_ans1_6_1,Earth lasts forever
+M20216-1_ans1_6_2,Mountain Clear water show
+M20216-1_ans1_6_3,"Water is far, mountains are heavy"
+M20216-1_ans1_6_4,"Clouds are light, the day is beautiful"
+M20216-1_ans1_7_1,Literary and military strategies
+M20216-1_ans1_7_2,Sing praises of merits and virtues
+M20216-1_ans1_7_3,Tang and Song ancestors
+M20216-1_ans1_7_4,Tang poetry and Han literature
+M20216-1_ans2_1_1,Horse is not fat without grass
+M20216-1_ans2_1_2,Birds don't fly without insects
+M20216-1_ans2_1_3,Merchants are diligent when there is wealth
+M20216-1_ans2_1_4,The day is clear when there is sun
+M20216-1_ans2_2_1,New rain moistens hundreds of flowers
+M20216-1_ans2_2_2,Autumn frost chills thousands of grass
+M20216-1_ans2_2_3,Warm river wakes up fish and ducks
+M20216-1_ans2_2_4,Winter snow signifies a good harvest
+M20216-1_ans2_3_1,Spring rain is as precious as oil
+M20216-1_ans2_3_2,Clear spring flows over the rocks
+M20216-1_ans2_3_3,The scorching sun is high in the sky
+M20216-1_ans2_3_4,The forest is quieter with the cicadas' noise
+M20216-1_ans2_4_1,Nothing is difficult with diligence
+M20216-1_ans2_4_2,"As far as the eye can see, the world is in spring"
+M20216-1_ans2_4_3,Never turn back despite setbacks
+M20216-1_ans2_4_4,Peace prevails over the world
+M20216-1_ans2_5_1,The sun rises high
+M20216-1_ans2_5_2,"The wind is calm, the water flows long"
+M20216-1_ans2_5_3,Water and stone delay human intentions
+M20216-1_ans2_5_4,Flowers and moon sway the thoughts
+M20216-1_ans2_6_1,Start with shaking mountains and rivers
+M20216-1_ans2_6_2,Wind and thunder rise under the pen
+M20216-1_ans2_6_3,A thousand autumn moons above the head
+M20216-1_ans2_6_4,Writing as if inspired by the gods
+M20216-1_ans2_7_1,Every year there is surplus celebration
+M20216-1_ans2_7_2,Every year the flowers look the same
+M20216-1_ans2_7_3,Every year brings fortune to people
+M20216-1_ans2_7_4,Every year brings a satisfying spring
+M20216-1_ans3_1_1,A destitute scholar sleeps on the couch
+M20216-1_ans3_1_2,A beautiful woman accompanies the lonely
+M20216-1_ans3_1_3,Cold and quiet temple with few incense
+M20216-1_ans3_1_4,A thin red thread finally ties the fate
+M20216-1_ans3_2_1,"Fine rain connects like a thread, broken by the wind"
+M20216-1_ans3_2_2,"Wild grass cannot be burned out, it grows again in spring"
+M20216-1_ans3_2_3,"Blue Mountain is not old, but snow makes it white-haired"
+M20216-1_ans3_2_4,"The beauty was originally stunning, but she became haggard for him"
+M20216-1_ans3_3_1,"Clouds disperse and fog clears, the mountain is clearer"
+M20216-1_ans3_3_2,Sighing alone in the vast ocean
+M20216-1_ans3_3_3,"The moon on the branch, sorrow upon sorrow"
+M20216-1_ans3_3_4,"The sky connects with the water tail, water connects with the sky"
+M20216-1_ans3_4_1,"Wind and rain in harmony, praising the splendid year"
+M20216-1_ans3_4_2,Dragons soar and tigers leap to welcome the New Year
+M20216-1_ans3_4_3,The stars shift to bid farewell to the old year
+M20216-1_ans3_4_4,"Clouds rise and rosy clouds gather, piercing the rainbow"
+M20216-1_ans3_5_1,"The sea of learning is boundless, suffering is the boat"
+M20216-1_ans3_5_2,"Worn out iron shoes, nowhere to be found"
+M20216-1_ans3_5_3,"Climb to the top of the mountain, I am the peak"
+M20216-1_ans3_5_4,A newborn calf is not afraid of a tiger
+M20216-1_ans3_6_1,Doing things improperly is inhuman
+M20216-1_ans3_6_2,Open the window and let in the fragrance from outside
+M20216-1_ans3_6_3,Throw a stone and break the sky under the water
+M20216-1_ans3_6_4,Play the zither under the moon by the flowers
+M20216-1_ans3_7_1,Understanding human nature is literature
+M20216-1_ans3_7_2,Understanding human nature is a sage
+M20216-1_ans3_7_3,Laughing and scolding is literature
+M20216-1_ans3_7_4,Laughing and scolding is a sage
+M20216-1_ans_return,"Didn't hear clearly, listen again"
+M20100-1001option1,Compensate 200 Wen as an apology.<color=#097a76>(200 Wen)</color>
+M20100-1001option2,"Refuse to compensate, educate him personally."
+M20100-1001option3,"Refuse to compensate, the whole team will take action."
+M20100-1002option1,Ask about the method of cracking.<color=#097a76>(100 Wen)</color>
+M20100-1002option2,"Not enough money, 1 Guan, willing but unable."
+M20100-1002option3,"My fate is in my own hands, not believing in his words."
+M20100-1003option1,Buy Manual.<color=#097a76>(10000 Wen)</color>,ซื้อตำรา <color=#097a76>(10000 ตำลึง)</color>
+M20100-1003option2,"Not enough money, 10 Guan, willing but unable."
+M20100-1003option3,"Pierce the beggar's bragging, run away on your own."
+M20100-1003option4,Buy Manual.<color=#097a76>(1000 Wen)</color>,ซื้อตำรา<color=#097a76>(1000 ตำลึง)</color>
+M20100-1003option5,"Not enough money, 1 Guan, still can't afford it."
+M20100-1003option6,"Pierce the beggar's bragging, run away on your own."
+M20100-1003option7,Give the beggar 50 Wen.<color=#097a76>(50 Wen)</color>,มอบเงินให้ขอทาน 50 ตำลึง<color=#097a76>(50 ตำลึง)</color>
+M20100-1003option8,Help the beggar with 200 coins. <color=#097a76>(200 coins)</color>
+M20100-1003option9,Grant the beggar's request and run away.
+M20100-1004option1,Take out 100 coins and give them to the merchant. <color=#097a76>(100 coins)</color>
+M20100-1004option2,Take out 1 guan and give it to the merchant. <color=#097a76>(1000 coins)</color>
+M20100-1004option3,Demanding money through deception.
+M20100-1004option4,"Not enough money, let's go."
+M20100-1004option5,"Pierce, the merchant, speaks and runs away."
+M20100-1004option6,Insist on getting the money back.
+M20100-1004option7,Give up on the matter and let the merchant go.
+M20100-1005option1,Pick up the inventory.
+M20100-1005option2,Stay nearby and wait for the owner. <color=#097a76>(2 hours)</color>
+M20100-1005option3,Pierce takes the inventory and runs away.
+M20100-1005option4,Return the inventory.
+M20100-1005option5,Inform that you haven't seen the inventory.
+M20100-1005option6,Leave the Inventory behind.
+M20100-1005option7,Leave the Inventory where it is and run away on your own.
+M20100-1006option1,Help the old man up.
+M20100-1006option2,Pierce the old man and run away on your own.
+M20100-1006option3,Take the old man to the clinic. <color=#097a76>(1000 coins)</color>
+M20100-1006option4,Use Medical to treat the old man's injuries. <color=#097a76>(Medical reaches 60)</color>
+M20100-1006option5,Stop meddling and run away on your own.
+M20100-1006option6,Admit defeat and give 1 coin to the old man.
+M20100-1006option7,Report to the authorities and see how they judge.
+M20100-1006option8,"Forcefully run away, who dares to stop me!"
+M20100-1006option9,"A hero doesn't suffer losses, accept punishment. <color=#097a76>(10000)</color>"
+M20100-1006option10,"No money, no life!"
+Z001_name,Travel to Lin'an City.,เดินทางไปเมืองหลินอัน
+Z001_overview1,Go to <color=#c44b0e>Lin'an City</color> to broaden your horizons.
+Z001_overview2,Go to <color=#c44b0e>Lin'an Inn</color> and invite Ye Yinping to join the team.,ไปที่ <color=#c44b0e>โรงเตี๊ยมหลินอัน</color> และชักชวน เย่หยินผิง เข้าร่วมกลุ่ม
+Z001_overview3,Explore Lin'an City with Ye Yinping.,สำรวจเมืองหลินอันกับเย่หยินผิง
+Z001_option1,"[Normal Inquiry] Boss, who is that beggar?"
+Z001_option2,[Pretend] Pretend to be like the beggar just now.
+Z001_Npcname1,A ragged man.
+Z002_name,Travel to Lin'an City.,เดินทางไปเมืองหลินอัน
+Z002_overview1,Continue strolling around Lin'an City with Ye Yinping.
+Z002_option1,[Peaceful Solution] Maybe we should just let it go?
+Z002_option2,"[Lend a Hand] This is indeed too much, I'll go reason with him!"
+Z002_option3,"[Take Advantage] Dare to look down on me, take this!"
+Z002_option4,"[Fight Another Day] If you have the guts, let's fight another day"
+Z002_option5,[Run for Your Life] (Run away with all your might)
+Z002_Npcname1,Middle-aged Aunt
+Z002_Npcname2,Elderly Granny
+Z004_name,Sword Test Platform
+Z004_overview1,Head to the north of Lin'an City to the <color=#c44b0e>Sword Test Platform</color>
+Z004_option1,【Dragon Spring Sword Test?】
+Z004_option2,【Just Strolling Around】
+Z004_option3,【Join the Fight!】
+Z004_option4,【Join the Fight!!】
+Z004_option5,【Join the Fight!!!】
+Z004_npcname1,Ouye's Revival
+Z004_npcname2,Sword Saint
+Z004_npcname3,Mysterious Man in Black
+Z005_name,Linlang Academy
+Z005_overview1,Go to <color=#c44b0e>Linlang Academy</color> to retrieve the Xuanyuan Sword
+Z005_overview2,Pass the entrance exam of <color=#c44b0e>Linlang Academy</color>
+Z005_option1,《Cowherd and Weaver Girl》《Butterfly Lovers》《Meng Jiangnu》《Legend of the White Snake》
+Z005_option2,《Romance of the Three Kingdoms》《Journey to the West》《A Dream in Red Mansions》《Water Margin Story》,"""สามก๊ก"", ""ไซอิ๋ว"", ""ความฝันในหอแดง"", ""ซ้องกั๋ง 108 วีรบุรุษแห่งเขาเหลียงซาน"""
+Z005_option3,《The Peony Pavilion》《The West Chamber》《The Peach Blossom Fan》《Longevity Palace》
+Z005_option4,《Journey to the East》《Journey to the West》《Journey to the South》《Journey to the North》
+Z005_option5,"【Mulberry, Willow, Elm, Locust】"
+Z005_option6,"【Plum, Orchid, Bamboo, Chrysanthemum】"
+Z005_option7,"【Pine, Bamboo, Plum, Chrysanthemum】"
+Z005_option8,"【Plum, Tea, Lotus, Osmanthus】"
+Z005_option9,【Zhong Li Quan】
+Z005_option10,【Lu Dongbin】
+Z005_option11,【Li Xuan】
+Z005_option12,【Laozi】
+Z005-1_name,Shen Mengxi's Token
+Z005-1_overview1,Get on good terms with most villagers in Nameless Village
+Z005-1_overview2,The Village Head is waiting for you at home
+Z005-1_overview3,Bring the Animal ring - The Ox to find Shen Mengxi
+Z006_name,Question at Confucius Temple
+Z006_overview1,Go to the <color=#c44b0e>Confucius Temple</color> in the north of the map to find out!
+Z006_option1,【Continue Onwards】
+Z006_option2,【Come Back After Strengthening Forces】
+Z008_name,Reinforcements from Bianzhou
+Z008_overview1,Go to <color=#c44b0e>Bianzhou City</color> to help Ye Yinping out of trouble.
+Z008_overview2,Meet the spirited young man at the <color=#c44b0e>Tea shop</color> in Bianzhou City
+Z008_npcname1,Spirited Young Man
+Z009_name,Levitational Steel
+Z009_overview1,Rush to <color=#c44b0e>Levitational Steel</color> to rescue Ye Yinping
+Z009_option1,"【Rescue is Priority, Charge in Directly】"
+Z009_option2,"【Plan for the Long Term, Level Up First】"
+Z010_name,Conspiracy
+Z010_overview1,Find the <color=#c44b0e>Gusu Ruins</color> and stop Yelv Wuzhu's conspiracy
+Z010-1_name,Mission Accomplished
+Z010-1_overview1,Return the Xuanyuan Sword to <color=#c44b0e>Sword Mountain Villa</color> and hand it to the Sword Saint
+Z012_name,Battle is Imminent
+Z012_overview1,Head to Ye Family Battalion
+Z012_overview2,"Try to raise the Relations with the leaders of Shifa Temple, Taoist Sect, Jiujiang Water Camp, Nine Factions Sect, Confucius Temple and other forces to 80"
+M1000-8option1,Learn the ultimate move. <color=#097a76>(50 Wen)</color>,เรียนท่าไม้ตาย <color=#097a76>(50 ตำลึง)</color>
+M1000-8option2,Not interested.
+M1000-9option1,Learn the ultimate move. <color=#097a76>(500 Wen)</color>,เรียนท่าไม้ตาย <color=#097a76>(500 ตำลึง)</color>
+M1000-9option2,Not interested.
+M1000-10option1,Learn the ultimate move. <color=#097a76>(2000 Wen)</color>,เรียนท่าไม้ตาย <color=#097a76>(2000 ตำลึง)</color>
+M1000-10option2,Not interested.
+M1000-11option1,Learn the ultimate move. <color=#097a76>(20000 Wen)</color>,เรียนท่าไม้ตาย <color=#097a76>(20000 ตำลึง)</color>
+M1000-11option2,Not interested.
+M1000-8name,Ragged Beggar
+M1000-9name,Ragged Beggar
+M1000-10name,Ragged Beggar
+M1000-11name,Ragged Beggar
+M1101-8_name,Collect Ingredients
+M1101-8_talk,Ingredient
+M1101-8_overview1,Talk to the landlady.
+M1101-8_overview2,Get 5 Lettuce and 5 Wild boar meat.
+M1101-8_overview3,"Ingredients collected, go talk to the boss lady."
+M1101-8option_1_1,Leave it to me!
+M1101-8option_1_2,"Sorry, handle your own affairs."
+M1101-10_name,Feminism,ชื่นชมสตรี
+M1101-10option1_1,"Honorable ones talk, not fight. Hear me out.<color=#097a76>(Persuade reached Intermediate)</color>"
+M1101-10option1_2,"I'm not afraid of you, despite your harsh words!<color=#097a76>(Battle)</color>"
+M1101-10option1_3,"I'll stop bothering you, as the saying goes, a word to the wise is enough."
+M20300-1option1_dialogue,
+M20300-1option1_1,
+M20300-1option1_2,
+M20300-1option1_3,
+M20300-1option1_4,
+M20300-2option1_dialog,Do you have anything to prove your identity or origin?
+M20300-2option1_1,"You two soldiers have worked hard to guard the city, here's some money for tea.<color=#097a76>(500 Wen)</color>",ท่านทั้งสองทำงานหนักเพื่อปกป้องเมือง ข้าขอเลี้ยงน้ำชาพวกท่าน <color=#097a76>(500 ตำลึง)</color>
+M20300-2option1_2,"Ah, my background, it starts 20 years ago...<color=#097a76>(Persuade reached Intermediate)</color>"
+M20300-2option1_3,Find another way into the city.
+M20300-3option1_1,"I'll go with you to the Government Office, the innocent have nothing to fear."
+M20300-3option1_2,Dream on if you want to take me to the Government Office!<color=#097a76>(Specific Battle)</color>
+M20300-12option1_dialog,May I ask your business?
+M20300-12option1_1,"A member of the Ye family is visiting, please make it convenient.<color=#097a76>(Ye Yinpeng is accompanying)</color>"
+M20300-12option1_2,I'm here to celebrate the Duke's birthday.<color=#097a76>(Duke Chai's invitation card)</color>
+M20300-12option1_3,Can you give me some leeway considering our Relations?<color=#097a76>(Relations reached 60)</color>
+M20300-12option1_4,"Nothing, I'll take my leave."
+M20300-14option1_dialog,May I ask your business?
+M20300-14option1_1,"A member of the Ye family is visiting, please make it convenient.<color=#097a76>(Ye Yinpeng is accompanying)</color>"
+M20300-14option1_2,I'm here to celebrate the Duke's birthday.<color=#097a76>(Duke Chai's invitation card)</color>
+M20300-14option1_3,Can you give me some leeway considering our Relations?<color=#097a76>(Relations reached 60)</color>
+M20300-14option1_4,"Nothing, I'll take my leave."
+M20300-21_npcname1,Tipsy middle-aged man
+M20300-21_npcname2,Young Taoist
+M20300-21option1_dialog,"Look at this stubborn kid, he's even more troublesome than his master.\nYoung man, we're destined to meet, can you help me out?"
+M20300-21option1_1,Is this bottle of wine to your taste?<color=#097a76>(Jiannan wine1 pot)</color>
+M20300-21option1_2,"It's better to meet by chance than to invite, let me treat you today!<color=#097a76>(1000 Wen·one shichen)</color>"
+M20300-21option1_3,"It's hard for a clean official to settle domestic disputes, I can't interfere in your affairs."
+M20300-21option2_dialog,"Kid, you're so eager to please me, what do you want?"
+M20300-21option2_1,Give some martial arts tips.
+M20300-21option2_2,Request for martial arts stories.
+M20300-21option2_3,Nothing else.
+M20300-31_name,Search for people in Lin'an
+M20300-31_talk,Search for people
+M20300-31_overview1,"Get <color=#c44b0e>Monkey wine</color> to attract La Tazhang, or search every corner of Lin'an City."
+M20300-31_overview2,"Walk around the remote areas of Lin'an City with Monkey wine, you might discover something."
+M20300-31_overview3,Go to the bridge in the city and inform Chang Chunzi.
+M20300-31_overview4,Talk with Chang Chunzi.
+M20300-31option1_dialog,Where can I find Monkey wine in Lin'an City...\nCan you help me figure it out?
+M20300-31option1_1,I'll help you find your uncle.
+M20300-31option1_2,I'm really helpless.
+M20300-31option2_dialog,"{PlayerSurName} young hero, can you help me find my uncle now?",จอมยุทธน้อย{PlayerSurName} ท่านช่วยข้าตามหาท่านลุงตอนนี้เลยได้หรือไม่?
+M20300-31option2_1,I'll help you find your uncle.
+M20300-31option2_2,I still have no clue.
+M20300-31option3_dialog,What do you want to do?
+M20300-31option3_1,I'll exchange a pot of good wine with you.<color=#097a76>(Luofu spring wine1 pot)</color>
+M20300-31option3_2,Is this money enough to buy your Monkey wine? <color=#097a76>(2000 Wen)</color>,เงินเท่านี้พอซื้อสุราวานรหรือไม่ <color=#097a76>(2000 ตำลึง)</color>
+M20300-31option3_3,Or would you like me to teach you some advanced Beast Taming techniques? <color=#097a76>(Beast Taming reaches Advance)</color>
+M20300-31option3_4,"If you refuse a toast, you must drink a forfeit. I'm going to take it by force! <color=#097a76>(Start a fight directly)</color>"
+M20300-31option3_5,"Honorable people don't snatch what others like, let's find another way."
+M20300-31option4_dialog,"However, if you're willing to spar with me, I won't bother with that kid."
+M20300-31option4_1,"I'll accompany you till the end, but please show mercy. <color=#097a76>(Main character duels)</color>"
+M20300-31option4_2,I can't afford to hurt you by accident.
+M20300-31option5_dialog,"Come on, spar with me for a few more rounds!"
+M20300-31option5_1,"I'll accompany you till the end, but please show mercy. <color=#097a76>(Main character duels)</color>"
+M20300-31option5_2,I can't afford to hurt you by accident.
+R10009-1_npcname,A familiar female voice
+R10009-1_npcname2,Stranger woman
+R10009-1option1_dialog,"That little thief stole my things, we must get them back.\nBut that little thief is very slippery, will you come with me to catch him?"
+R10009-1option1_1,I'll go with you!
+R10009-1option1_2,"I have other things to do, I can't accompany you."
+R10009-1option2_1,"Just now, there was a suspicious person sneaking in... <color=#097a76>(Persuade reaches Advance)</color>"
+R10009-1option2_2,"Please accept this silver, General, and be lenient. <color=#097a76>(Scrap silver 15 Liang)</color>"
+R10009-1option2_3,Do we have to be so distant given our Relations? <color=#097a76>(Relations reach 60)</color>
+R10009-1option2_4,Let's run away now.
+R10009-1option3_1,Agree to wander the world with Ye Yinping.
+R10009-1option3_2,Refuse Ye Yinping's proposal.,ปฏิเสธข้อเสนอของเย่หยินผิง
+M20321-2_4option1_dialog,"(This Cai Youzhi is so arrogant and domineering, presumably no one dares to provoke the Confucius Temple behind him, should I step in at this time?)"
+M20321-2_4option1_1,(Ask Ye Yinping if he wants to intimidate him)<color=#097a76>(Ye Yinping)</color>
+M20321-2_4option1_2,So the Confucius Temple is just good at talking<color=#097a76>(Persuade reaches Advance)</color>
+M20321-2_4option1_3,(Speaking out of turn in this situation will definitely end badly)
+M20321-2_4option2_dialog,"(I've been watching the show for so long, isn't it time for me, the protagonist, to make my presence felt?)"
+M20321-2_4option2_1,(Stir up the crowd's emotions and fight together)<color=#097a76>(Persuade·4 level)</color>
+M20321-2_4option2_2,I'll take on the skills of Dragonfly City alone!<color=#097a76>(Main character duels)</color>
+M20321-2_4option2_3,"There's no need for all the sects to take action, we'll deal with you!<color=#097a76>(Contest)</color>"
+M20321-2_4option2_4,Being an audience is also good.
+M20300-61_name,Helping others is the source of happiness
+M20300-61_talk,Visit
+M20300-61_overview1,Come back at the same time the next day to treat the injured man's leg.
+M20300-61_overview2,Find a way to get Healing medicine to heal the injured man's leg.
+M20300-61_overview3,"Met the man with the injured leg, temporarily refuse to heal."
+M20300-61_npcname,A weak middle-aged man
+M20300-61_option1_4_dialog,"I've been stabbed and can't move, can you help me find some medicine?"
+M20300-61_option1_1,I have some knowledge in medical skills and can heal you. <color=#097a76>(Medical level 30)</color>
+M20300-61_option1_2,I have a bottle of medicine that can heal you. <color=#097a76>(1 bottle of Healing medicine)</color>
+M20300-61_option1_3,How can I save you?
+M20300-61_option1_4,"I'm sorry, I can't help you. Goodbye~"
+M20300-61_option2_4_dialog,"Young man, are you here to heal me?"
+M20300-61_option2_1,I'll continue to heal you with my medical skills. <color=#097a76>(Medical level 30)</color>
+M20300-61_option2_2,I brought Healing medicine to apply on you. <color=#097a76>(1 bottle of Healing medicine)</color>
+M20300-61_option2_3,I'm here to arrest you!<color=#c44b0e>(Specific battle)</color>
+M20300-61_option2_4,"Hang in there, I'm not ready yet."
+M20300-61_option3_1,Agree to join Shi Chen's team
+M20300-61_option3_2,Reject Shi Chen's proposal
+M1100-20_name,The rage of the rooster
+M1100-20_overview,Subdue the angry rooster.
+M20300-4_name,Bounty
+M20300-4_overview,Arrest the fugitive
+M20300-4_1_2_overview,Have you seen a man with a <color=#c44b0e>knife wound on his leg</color>?
+M20300-4option1_1,Met a man with a leg injury in the north of Lin'an City.
+M20300-4option1_2,I'll take you to find this person.
+M20300-4option1_3,Can you provide more details?
+M20300-4option1_4,"I haven't seen him, goodbye."
+M20306-1_name,Enemies meet
+M20306-2_name,It's better to resolve enmities than to keep them
+M20319-1_name,Maiden House puzzle
+M20319-1_overview1,"Crack the Maiden House puzzle: <color=#c44b0e>Monk with a painting, piano in Chu Pavilion, chess game hidden treasure, grass covering the gate</color>"
+M20319-1_overview2,Ask the host how to meet the courtesan.
+M20319-1option1_1,"Here is ten guan, please give me a riddle, host. <color=#097a76>(10000 wen)</color>"
+M20319-1option1_2,"I admire the lady's talent, can you give me a discount? <color=#097a76>(Persuade level Expert, 5000 wen)</color>"
+M20319-1option1_3,"Considering our relations, can you give me a discount? <color=#097a76>(Relations level 60, 5000 wen)</color>"
+M20319-1option1_4,I'm just here to watch
+M20319-1_1_2_overview,"Young man, are you here to solve the riddle? Please pay a deposit of 10 guan first."
+M20328-1_name,Maiden House upstairs
+M20300-51_option1_dialog,"(This guy's acting is really bad, he obviously wants to scam me, how should I respond?)"
+M20300-51_option1_1,"I'm really sorry, here's 200 wen as an apology. <color=#097a76>(200 wen)</color>"
+M20300-51_option1_2,"I don't have money, but if you want a fight, I can accompany you. <color=#097a76>(Main character fights alone)</color>"
+M20300-51_option1_3,Trying to scam a group of us is really unwise. <color=#097a76>(Start a fight directly)</color>
+M20300-52_option1_dialog,"(Listening to this Taoist priest speaking so seriously, but his appearance really makes me uneasy, how should I respond?)"
+M20300-52_option1_1,Offer 5 guan money to RequestCrack method. <color=#097a76>(5000 Wen)</color>
+M20300-52_option1_2,"I don't have much money, I really want to but I can't."
+M20300-52_option1_3,"I'm tough, I don't need the Crack method."
+M20300-53_1_option1_dialog,"(Beggars have often been extraordinary individuals since ancient times, but I can't figure out the background of the one in front of me, how should I respond?)"
+M20300-53_1_option1_1,(Take out 10 taels of money to BuyManual)<color=#097a76>(10000 wen)</color>
+M20300-53_1_option1_2,"I don't have much money, I really want to but I can't."
+M20300-53_1_option1_3,"I'll leave the opportunity to others, I'm not interested."
+M20300-53_1_option2_dialog,"(Is this beggar desperate for talent or just trying to squeeze my money bag dry, how should I respond?)"
+M20300-53_1_option2_1,(Take out 1 tael of money to BuyManual)<color=#097a76>(1000 wen)</color>
+M20300-53_1_option2_2,"I don't have much money, I really want to but I can't."
+M20300-53_1_option2_3,(Pierce the beggar's sincere gaze and Run away on my own)
+M20300-53_1_option3_dialog,"(Who would willingly lower their standards if not forced by life, should I help him out?)"
+M20300-53_1_option3_1,(Give the beggar 50 wen)<color=#097a76>(50 wen)</color>
+M20300-53_1_option3_2,(Give the beggar 500 wen)<color=#097a76>(500 wen)</color>
+M20300-53_1_option3_3,(Pierce the beggar's request and Run away on my own)
+M20300-54_1_option1_dialog,"(This guy looks like a wealthy person, but I'm not sure if his get-rich-quick opportunity is trustworthy, how should I respond?)"
+M20300-54_1_option1_1,(Take out 100 wen to give to the merchant)<color=#097a76>(100 wen)</color>
+M20300-54_1_option1_2,(Take out 10 taels of money to give to the merchant)<color=#097a76>(10000 wen)</color>
+M20300-54_1_option1_3,"I don't have much money, I really want to but I can't."
+M20300-54_1_option1_4,I'm not interested in making money.
+M20300-54_2_option2_dialog,"(I feel like I've been deceived by this guy, but he makes some sense, should I just let him go?)"
+M20300-54_1_option2_1,You're going to spit out every penny of my money!<color=#097a76>(Specific battle)</color>
+M20300-54_1_option2_2,"I'll take the loss on this money, I need to be more careful next time."
+M20321-1_option1_1,"I have an invitation, of course I can come in!<color=#097a76>(Duke Chai's invitation card)</color>"
+M20321-1_option1_2,Someone asked me to give this to you.<color=#097a76>(Rumor token)</color>
+M20321-1_option1_3,Someone poisoned the wine at the birthday banquet.
+M20321-1_option1_4,"Just passing by, sorry to disturb."
+M20321-1_option2_dialog,Would you like to join the Rumor Platform?
+M20321-1_option2_1,"I, {PlayerName}, am willing to join the Rumor Platform!"
+M20321-1_option2_2,"I'm not interested, excuse me!"
+M20321-3_option1_1,"I have an invitation, of course I can come in!<color=#097a76>(Duke Chai's invitation card)</color>"
+M20321-3_option1_2,Someone asked me to give this to you.<color=#097a76>(Rumor token)</color>
+M20321-3_option1_3,Someone poisoned the wine at the birthday banquet.
+M20321-3_option1_4,"Just passing by, sorry to disturb."
+M20321-3_option2_dialog,Would you like to join the Rumor Platform?
+M20321-3_option2_1,"I, {PlayerName}, am willing to join the Rumor Platform!"
+M20321-3_option2_2,"I'm not interested, excuse me!"
+M20316-1_option1_dialog,Do you know what kind of wine vessel can enhance the color of light-colored wine?
+M20316-1_option1_1,Gold cup
+M20316-1_option1_2,Luminous cup
+M20316-1_option1_3,Porcelain cup
+M20316-1_option1_4,Jade cup
+M20316-2_option1_1,What are the top sects in the martial arts world?
+M20316-2_option1_2,"I have important things to do, I'll listen to your high theory another day."
+M20316-2_option2_1,Help Cai Youzhi.<color=#097a76>(Specific battle)</color>
+M20316-2_option2_2,Help Shuo Shuren.<color=#097a76>(Specific battle)</color>
+M20300-22_option1_dialog,"Huh? That guy is sneaky, doesn't look like he's up to any good.\nShould I go check it out?"
+M20300-22_option1_1,(Stop this suspicious person as soon as possible)<color=#097a76>(Specific Battle)</color>
+M20300-22_option1_2,"Safety first, better not to stir up trouble."
+R10048-1_npcname1,A man in strange clothes
+R10048-1_option1_1,The one who should really get out is you!<color=#097a76>(Main character's solo fight)</color>
+R10048-1_option1_2,This arrogant guy really pisses me off! <color=#097a76>(Specific Battle)</color>
+R10048-1_option1_3,"Forget it, if you can't beat them, avoid them."
+M20307-1_option1_dialog,"This guy is too arrogant, he doesn't seem easy to deal with. But, should we just let him run away easily?"
+M20307-1_option1_1,(Challenge Fu Bu Bingwei)<color=#097a76>(Solo Fight)</color>
+M20307-1_option1_2,(Let him run away due to lack of strength)
+M20311-2_talk,Become a disciple
+M20311-2_option1_1,Join Shifa Temple<color=#097a76>(Benevolence)</color>
+M20311-2_option1_2,Donate to Shifa Temple<color=#097a76>(Money)</color>
+M20311-2_option1_3,"Nothing, just saying hello."
+M20311-2_option2_dialog,"If you are ready, follow me back to Shifa Temple."
+M20311-2_option2_1,"I'm ready, let's go now."
+M20311-2_option2_2,"I'm not ready, I have things to deal with."
+M20311-2_option3_dialog,Are you ready to join our Shifa Temple?
+M20311-2_option3_1,"I'm ready, let's go now."
+M20311-2_option3_2,"I'm not ready, I have things to deal with."
+M20304-1_npcname1,Acting Prefect
+M20304-1_option1_1,Rotten Food.
+M20304-1_option1_2,Ordinary Meal.
+M20304-1_option1_3,Delicious food.
+M20304-1_option1_4,Delicious dishes.
+M20304-1_option2_1,"Trust you once, I'll give you all my money.<color=#097a76>(All Money)</color>"
+M20304-1_option2_2,"One person does, one person is responsible, no need for others to take the blame for me."
+M20302_talking,Stay in the inn
+M20302option_1,Stay in the inn. <color=#097a76>(200 coins)</color>
+M20302option_2,Think about it.
+M20302option_3,Rest well.
+M20302option_4,Insist on staying.
+M20302option_5,Stay in the inn again. <color=#097a76>(200 coins)</color>
+S1000-21_1_option1_1,"This game is so fun, I want to keep playing!"
+S1000-21_1_option1_2,Such a crappy game doesn't deserve me to play!
+M20332-1_option1_1,Of course interested.
+M20332-1_option1_2,Not interested at all.
+M20332-1_option2_dialog,Which of the above options do you plan to choose?
+M20332-1_option2_1,Watch the new feature development screen.
+M20332-1_option2_2,Trial version power gift pack.
+battle_test_story_option1_1,Enter Battle 1
+battle_test_story_option1_2,Enter Battle 2
+battle_test_story_option1_3,Run away (can be triggered repeatedly)
+M1100-21_name,Go to Lin'an City to broaden your horizons.
+M1100-21_overview_1,Attend Chai Wangye's birthday banquet on the 10th day of Jianghu.
+M1100-23_name,Explore Time
+M1100-23_overview,"The main content of the trial version comes to an end, exploring around may discover new content."
+M1200-1_npcname,Official

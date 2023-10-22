@@ -1,0 +1,580 @@
+﻿﻿MapName_1000,Nameless area
+MapName_1001,Xiangfan
+MapName_1002,Zhongzhou
+MapName_1003,Wuyue
+MapName_1004,Southwest region
+MapName_1100_0,Vegetable field
+MapName_1100,Nameless village
+MapName_1101,Nameless hotel
+MapName_1104_0,Village leader's house
+MapName_1102,Village leader's house - Secret chamber
+MapName_1103,Village leader's house - Bedroom
+MapName_1104,Village leader's house - Main hall
+MapName_1105,Blacksmith's forge
+MapName_1106,Hunter's house
+MapName_1107,Woodcutter's house
+MapName_1108,Shabby house
+MapName_1109,Hotel - Guest room
+MapName_1200_0,Prison
+MapName_1200_1,Training field
+MapName_1200,Blue Wind Camp,ค่ายวายุคราม
+MapName_1201,Main chamber
+MapName_1202,Treasure room
+MapName_1203,Bedroom
+MapName_1204,Storehouse
+MapName_1300,Wasteland
+MapName_1301,Ruined shrine,ศาลเจ้าร้าง
+MapName_1302,Ruined shrine - Secret chamber
+MapName_1400,Lost Forest,ป่าสาปสูญ
+MapName_1401,Hanging bridge
+MapName_1402,Enlightenment zone,สถานที่ตื่นรู้
+MapName_1500,Wild Wolf Valley
+MapName_1501,Wolf King Cave
+MapName_1600,Cross Hill
+MapName_1700,Ferry
+MapName_2000,Half Full Studio
+MapName_5001,Graveyard
+MapName_5002,
+MapName_5003,Tea shop
+MapName_5004,Faraway village
+MapName_5005,Refugee Camp
+MapName_5006,
+MapName_5007,Nameless ferry
+MapName_5008,Xiangfan ferry
+MapName_5009,Wuyue ferry
+MapName_5011,Nameless cave
+MapName_5012,Sword Test Platform
+MapName_5013,Merchant ship
+MapName_5014,West Pass
+MapName_5015,Ritual Platform
+MapName_5016,God of Marriage's Shrine
+MapName_5018,
+MapName_5019,
+MapName_5020,Above river
+MapName_5022,Above river
+MapName_5025,Zhongzhou ferry
+MapName_5026,
+MapName_5029,Mountain cave
+MapName_5030,Sea Serpent Gang
+MapName_5033,Deserted Courtyard
+MapName_5034,
+MapName_5035,
+MapName_5036,
+MapName_5037,Palace hall
+MapName_5038,Cooking Contest
+MapName_5039,Supreme Court
+MapName_5040,Supreme Court - Court
+MapName_5041,Supreme Court - Prison
+MapName_5050,Waterfall Pond
+MapName_5051,Cloud Sea Cliff
+MapName_5052,Peak of Challenge
+MapName_6000,"Wuxian Mountain, Southwest foothills"
+MapName_6001,"Wuxian Mountain, Northeast foothills"
+MapName_6002,Wuxian Mountain·Mountain Peak
+MapName_20100_0,Market
+MapName_20100_1,Dirty Street
+MapName_20100_2,Mind Pond
+MapName_20100,Chuxiang City,เมืองฉู่เซียง
+MapName_20101,Hotel Prosperous
+MapName_20102,Hotel Prosperous - Guest room
+MapName_20103_0,Government Office
+MapName_20103,Government Office - Main hall
+MapName_20104,Government Office - Prison
+MapName_20105,Chuxiang Dojo,โรงฝึกฉู่เซียง
+MapName_20106,Charity House
+MapName_20107,Rare Artifact Shop
+MapName_20108,Grocery store
+MapName_20109,White Cloud Temple
+MapName_20110,Blacksmith's forge
+MapName_20111,Pink Attire Pavilion
+MapName_20112,Pawn shop
+MapName_20113,Tea shop
+MapName_20114,Forgotten House
+MapName_20115,Forgotten House - 2nd Floor
+MapName_20116_0,General's mansion
+MapName_20116,General's mansion - Main hall
+MapName_20117,Armory
+MapName_20118_0,Chuxiang Ding family's house
+MapName_20118,Chuxiang Ding family's house - Main hall
+MapName_20119,Chuxiang Ding family's house - Boudoir
+MapName_20120,Chuxiang Ding family's house - Secret chamber
+MapName_20121,Dragon Library
+MapName_20122,Residential house
+MapName_20123,Residential house
+MapName_20124,Residential house
+MapName_20195,Outside Chuxiang
+MapName_20196,
+MapName_20197,
+MapName_20198,
+MapName_20199,Chuxiang City,เมืองฉู่เซียง
+MapName_20200_0,Arena
+MapName_20200_1,Market
+MapName_20200_2,Tea shop
+MapName_20200,Daliang City
+MapName_20201,Hotel Drifting Cloud
+MapName_20202,Hotel Drifting Cloud - Guest room
+MapName_20203_0,Government Office
+MapName_20203,Government Office - Main hall
+MapName_20204,Government Office - Prison
+MapName_20205,Daliang Dojo
+MapName_20206,Clinic House
+MapName_20207,Clinic House - Exam room
+MapName_20208,Department store
+MapName_20209,Glittering Artifact House
+MapName_20210,Fragrance Square
+MapName_20211,Literature Bookstore
+MapName_20212,Cloud Flower Shop
+MapName_20213,Pawn shop
+MapName_20214,Cloud Fabric Shop
+MapName_20215,Golden Fortune Shop
+MapName_20216,Blacksmith's forge
+MapName_20217,Butcher's shop
+MapName_20218,Residential house
+MapName_20219,Imperial School
+MapName_20220_0,Baoguo Temple
+MapName_20220,Baoguo Temple
+MapName_20221,Tower of Prosperity
+MapName_20222_0,Duke Ji's manor
+MapName_20222,Duke Ji's manor - Main hall
+MapName_20223,Duke Ji's manor - Study
+MapName_20224,Duke Ji's manor - Bedroom
+MapName_20225,Duke Ji's manor - Guest room
+MapName_20226,Residential house
+MapName_20227,Residential house
+MapName_20228,Residential house
+MapName_20229,Zhangyue Casino
+MapName_20297,
+MapName_20298,
+MapName_20300,Lin'an City
+MapName_20300_0,Market
+MapName_20300_1,Pier
+MapName_20301,Safeguard Escort
+MapName_20302,Hotel Delighted
+MapName_20303,Hotel Delighted - Guest room
+MapName_20304_0,Government Office
+MapName_20304,Government Office - Main hall
+MapName_20305,Government Office - Study
+MapName_20306,Government Office - Prison
+MapName_20307,Lin'an Dojo
+MapName_20308,Health Center
+MapName_20309,Exquisite Pavilion
+MapName_20310,Grocery store
+MapName_20311,Cloud Forest Temple
+MapName_20312,Residential house
+MapName_20313,Residential house
+MapName_20314,Ruined shrine,ศาลเจ้าร้าง
+MapName_20315_0,Enlighten Tower
+MapName_20315,Enlighten Tower - 1st Floor
+MapName_20316_0,Wine God Tower
+MapName_20316,Wine God Tower - 1st Floor
+MapName_20317,Wine God Tower - 2nd Floor
+MapName_20318,Aroma House
+MapName_20319_0,Bamboo garden
+MapName_20319,Maiden House
+MapName_20320,Painting Shop
+MapName_20321_0,Flower garden
+MapName_20321_1,Duke Kang's manor
+MapName_20321,Duke Kang's manor - Main hall
+MapName_20322,Duke Kang's manor - Study
+MapName_20323,Duke Kang's manor - Bedroom
+MapName_20324,Duke Kang's manor - Princess's bedroom
+MapName_20325,Blacksmith's forge
+MapName_20326,Pawn shop
+MapName_20327,Wine God Tower - Kitchen
+MapName_20328,Maiden House - Boudoir
+MapName_20329,Enlighten Tower - 2nd Floor
+MapName_20330,Enlighten Tower - Last Floor
+MapName_20331,Relic House
+MapName_20332,Underground Arena
+MapName_20333,Ice Prison
+MapName_20334,Enlighten Tower - 3rd Floor
+MapName_20335,Enlighten Tower - 4th Floor
+MapName_20336,Enlighten Tower - 5th Floor
+MapName_20397,Outside Lin'an
+MapName_20398,
+MapName_2010_0,Zhenwu Sword Formation
+MapName_2010_1,Star Observatory
+MapName_2010,Taoist Sect
+MapName_2011,Zhenwu Hall
+MapName_2012,Alchemy room
+MapName_2013,Disciple's room
+MapName_2014_0,Star Chaser Pavilion
+MapName_2014,Star Chaser Pavilion - 1st Floor
+MapName_2015,Star Chaser Pavilion - 2nd Floor
+MapName_2016,Star Chaser Pavilion - 3rd Floor
+MapName_2017,Star Chaser Pavilion - 4th Floor
+MapName_2018,Cave of Infinity
+MapName_2020_0,Forest Tower
+MapName_2020_1,Inscripted monument
+MapName_2020_2,Training field
+MapName_2020_3,Pond
+MapName_2020_4,Big bell
+MapName_2020,Shifa Temple
+MapName_2021,Hall of Great Strength
+MapName_2022,Monk's room
+MapName_2023_0,Scripture Tower
+MapName_2023,Scripture Tower - 1st Floor
+MapName_2024,Scripture Tower - 2nd Floor
+MapName_2025,Scripture Tower - 3rd Floor
+MapName_2026,Kitchen
+MapName_2027,Repentance room
+MapName_2028,Arhat Hall
+MapName_2030_0,Saint's Stele
+MapName_2030,Confucius Temple
+MapName_2031,Dacheng Hall
+MapName_2032,Disciple's room
+MapName_2033,Literature Room
+MapName_2034,Ink House
+MapName_2035,Hall of righteousness
+MapName_2040,Crime Investigation Bureau
+MapName_2041,Interrogation Hall
+MapName_2042,Bedroom
+MapName_2043,Prison
+MapName_2050,Jiujiang Water Camp
+MapName_2051,Righteous Hall
+MapName_2052,Bedroom
+MapName_2053,Kitchen
+MapName_2060,Tiger Escort
+MapName_2061,Tiger Hall
+MapName_2062,Bedroom
+MapName_2063,Secret chamber
+MapName_2064,Storehouse
+MapName_2070,Langya Sword Pavilion
+MapName_2071,Three Feet Hall
+MapName_2072,Weapon Pavilion,หอศาสตรา
+MapName_2073,Disciple's room
+MapName_2074,Mine
+MapName_2080,Ye Family Battalion
+MapName_2081,Loyalty Hall
+MapName_2082,Soldier's tent
+MapName_2083,Armory
+MapName_2090,Plant Sect
+MapName_2091,Main hall
+MapName_2092,Alchemy room
+MapName_2100,Linlang Temple
+MapName_2101,Main hall
+MapName_2102,Linlang Go puzzle
+MapName_2110,Tomb Raider Sect
+MapName_2111,Great hall
+MapName_2120,Jiuli Tribe
+MapName_2121,Jiuli Tribe·Main Camp
+MapName_2122,Jiuli Tribe - Poison Dragon Cave
+MapName_2130,Night Demon Square
+MapName_2131,Great hall
+MapName_2139,
+MapName_2140,Nest of Swallow
+MapName_2150,Nine Factions Sect
+MapName_2151,Nine Factions Sect·Senluo Hall
+MapName_2155,Buddha Temple
+MapName_2156,Buddha Temple - 1st Floor
+MapName_2157,Buddha Temple - 2nd Floor
+MapName_2158,Buddha Temple - 3rd Floor
+MapName_2159,Buddha Temple - Lasst Floor
+MapName_2160,Melody House
+MapName_2161,Melody House·Yinfeng Tower
+MapName_2170,Bandit Camp
+MapName_2998,
+MapName_2999,Training area
+MapName_10010,Emperor Wu Mausoleum
+MapName_10020,Ancient Ruin of Shoufang
+MapName_10030,Suburds
+MapName_10031,Commander's tent
+MapName_10038,
+MapName_10039,Suburds
+MapName_10040,Horse King Cave
+MapName_10050,Mang Mountain Pit
+MapName_10060,Longevity Tomb
+MapName_10070,Palace Camp
+MapName_10071,Palace big tent
+MapName_10080,Yan Army Camp
+MapName_10100,Southern Invader camp
+MapName_10110,Soul Destroyer Forest
+MapName_10120,Epiphyllum Valley
+MapName_10130,Ye Family Battalion Camp
+WMapName_1000,Nameless area
+WMapName_1001,Xiangfan
+WMapName_1002,Zhongzhou
+WMapName_1003,Wuyue
+WMapName_1004,Southwest region
+WMapName_1100_0,Vegetable field
+WMapName_1100,Nameless village
+WMapName_1101,Nameless hotel
+WMapName_1104_0,Village leader's house
+WMapName_1102,Village leader's house - Secret chamber
+WMapName_1103,Village leader's house - Bedroom
+WMapName_1104,Village leader's house - Main hall
+WMapName_1105,Blacksmith's forge
+WMapName_1106,Hunter's house
+WMapName_1107,Woodcutter's house
+WMapName_1108,Shabby house
+WMapName_1109,Hotel - Guest room
+WMapName_1200_0,Prison
+WMapName_1200_1,Training field
+WMapName_1200,Blue Wind Camp,ค่ายวายุคราม
+WMapName_1201,Main chamber
+WMapName_1202,Treasure room
+WMapName_1203,Bedroom
+WMapName_1204,Storehouse
+WMapName_1300,Wasteland
+WMapName_1301,Ruined shrine,ศาลเจ้าร้าง
+WMapName_1302,Ruined shrine - Secret chamber
+WMapName_1400,Lost Forest,ป่าสาปสูญ
+WMapName_1401,Hanging bridge
+WMapName_1402,Enlightenment zone,สถานที่ตื่นรู้
+WMapName_1500,Wild Wolf Valley
+WMapName_1501,Wolf King Cave
+WMapName_1600,Cross Hill
+WMapName_1700,Ferry
+WMapName_2000,Half Full Studio
+WMapName_5001,Graveyard
+WMapName_5002,
+WMapName_5003,Tea shop
+WMapName_5004,Faraway village
+WMapName_5005,Refugee Camp
+WMapName_5006,
+WMapName_5007,Nameless ferry
+WMapName_5008,Xiangfan ferry
+WMapName_5009,Wuyue ferry
+WMapName_5011,Nameless cave
+WMapName_5012,Sword Test Platform
+WMapName_5013,Merchant ship
+WMapName_5014,West Pass
+WMapName_5015,Ritual Platform
+WMapName_5016,God of Marriage's Shrine
+WMapName_5018,
+WMapName_5019,
+WMapName_5020,Above river
+WMapName_5022,Above river
+WMapName_5025,Zhongzhou ferry
+WMapName_5026,
+WMapName_5029,Mountain cave
+WMapName_5030,Sea Serpent Gang
+WMapName_5033,Deserted Courtyard
+WMapName_5034,
+WMapName_5035,
+WMapName_5036,
+WMapName_5037,Traveling palace
+WMapName_5038,Cooking Contest
+WMapName_5039,Supreme Court
+WMapName_5050,Waterfall Pond
+WMapName_5051,Cloud Sea Cliff
+WMapName_5052,Peak of Challenge
+WMapName_6000,Wuxian Mountain
+WMapName_6001,"Wuxian Mountain, Northeast foothills"
+WMapName_6002,Wuxian Mountain·Mountain Peak
+WMapName_20100_0,Market
+WMapName_20100_1,Dirty Street
+WMapName_20100_2,Mind Pond
+WMapName_20100,Chuxiang City,เมืองฉู่เซียง
+WMapName_20101,Hotel Prosperous
+WMapName_20102,Hotel Prosperous - Guest room
+WMapName_20103_0,Government Office
+WMapName_20103,Government Office - Main hall
+WMapName_20104,Government Office - Prison
+WMapName_20105,Chuxiang Dojo,โรงฝึกฉู่เซียง
+WMapName_20106,Charity House
+WMapName_20107,Rare Artifact Shop
+WMapName_20108,Grocery store
+WMapName_20109,White Cloud Temple
+WMapName_20110,Blacksmith's forge
+WMapName_20111,Pink Attire Pavilion
+WMapName_20112,Pawn shop
+WMapName_20113,Tea shop
+WMapName_20114,Forgotten House
+WMapName_20115,Forgotten House - 2nd Floor
+WMapName_20116_0,General's mansion
+WMapName_20116,General's mansion - Main hall
+WMapName_20117,Armory
+WMapName_20118_0,Chuxiang Ding family's house
+WMapName_20118,Chuxiang Ding family's house - Main hall
+WMapName_20119,Chuxiang Ding family's house - Boudoir
+WMapName_20120,Chuxiang Ding family's house - Secret chamber
+WMapName_20121,Dragon Library
+WMapName_20122,Residential house
+WMapName_20123,Residential house
+WMapName_20124,Residential house
+WMapName_20195,Outside Chuxiang
+WMapName_20196,
+WMapName_20197,
+WMapName_20198,
+WMapName_20199,Chuxiang City,เมืองฉู่เซียง
+WMapName_20200_0,Arena
+WMapName_20200_1,Market
+WMapName_20200_2,Tea shop
+WMapName_20200,Daliang City
+WMapName_20201,Hotel Drifting Cloud
+WMapName_20202,Hotel Drifting Cloud - Guest room
+WMapName_20203_0,Government Office
+WMapName_20203,Government Office - Main hall
+WMapName_20204,Government Office - Prison
+WMapName_20205,Daliang Dojo
+WMapName_20206,Clinic House
+WMapName_20207,Clinic House - Exam room
+WMapName_20208,Department store
+WMapName_20209,Glittering Artifact House
+WMapName_20210,Fragrance Square
+WMapName_20211,Literature Bookstore
+WMapName_20212,Cloud Flower Shop
+WMapName_20213,Pawn shop
+WMapName_20214,Cloud Fabric Shop
+WMapName_20215,Golden Fortune Shop
+WMapName_20216,Blacksmith's forge
+WMapName_20217,Butcher's shop
+WMapName_20218,Residential house
+WMapName_20219,Imperial School
+WMapName_20220_0,Baoguo Temple
+WMapName_20220,Baoguo Temple
+WMapName_20221,Tower of Prosperity
+WMapName_20222_0,Duke Ji's manor
+WMapName_20222,Duke Ji's manor - Main hall
+WMapName_20223,Duke Ji's manor - Study
+WMapName_20224,Duke Ji's manor - Bedroom
+WMapName_20225,Duke Ji's manor - Guest room
+WMapName_20226,Residential house
+WMapName_20227,Residential house
+WMapName_20228,Residential house
+WMapName_20229,Zhangyue Casino
+WMapName_20297,
+WMapName_20298,
+WMapName_20300,Lin'an City
+WMapName_20300_0,Market
+WMapName_20300_1,Pier
+WMapName_20301,Safeguard Escort
+WMapName_20302,Hotel Delighted
+WMapName_20303,Hotel Delighted - Guest room
+WMapName_20304_0,Government Office
+WMapName_20304,Government Office - Main hall
+WMapName_20305,Government Office - Study
+WMapName_20306,Government Office - Prison
+WMapName_20307,Lin'an Dojo
+WMapName_20308,Health Center
+WMapName_20309,Exquisite Pavilion
+WMapName_20310,Grocery store
+WMapName_20311,Cloud Forest Temple
+WMapName_20312,Residential house
+WMapName_20313,Residential house
+WMapName_20314,Ruined shrine,ศาลเจ้าร้าง
+WMapName_20315_0,Enlighten Tower
+WMapName_20315,Enlighten Tower - 1st Floor
+WMapName_20316_0,Wine God Tower
+WMapName_20316,Wine God Tower - 1st Floor
+WMapName_20317,Wine God Tower - 2nd Floor
+WMapName_20318,Aroma House
+WMapName_20319_0,Bamboo garden
+WMapName_20319,Maiden House
+WMapName_20320,Painting Shop
+WMapName_20321_0,Flower garden
+WMapName_20321_1,Duke Kang's manor
+WMapName_20321,Duke Kang's manor - Main hall
+WMapName_20322,Duke Kang's manor - Study
+WMapName_20323,Duke Kang's manor - Bedroom
+WMapName_20324,Duke Kang's manor - Princess's bedroom
+WMapName_20325,Blacksmith's forge
+WMapName_20326,Pawn shop
+WMapName_20327,Wine God Tower - Kitchen
+WMapName_20328,Maiden House - Boudoir
+WMapName_20329,Enlighten Tower - 2nd Floor
+WMapName_20330,Enlighten Tower - Last Floor
+WMapName_20331,Relic House
+WMapName_20332,Underground Arena
+WMapName_20333,Ice Prison
+WMapName_20334,Enlighten Tower - 3rd Floor
+WMapName_20335,Enlighten Tower - 4th Floor
+WMapName_20336,Enlighten Tower - 5th Floor
+WMapName_20397,Outside Lin'an
+WMapName_20398,
+WMapName_2010_0,Zhenwu Sword Formation
+WMapName_2010_1,Star Observatory
+WMapName_2010,Taoist Sect
+WMapName_2011,Zhenwu Hall
+WMapName_2012,Alchemy room
+WMapName_2013,Disciple's room
+WMapName_2014_0,Star Chaser Pavilion
+WMapName_2014,Star Chaser Pavilion - 1st Floor
+WMapName_2015,Star Chaser Pavilion - 2nd Floor
+WMapName_2016,Star Chaser Pavilion - 3rd Floor
+WMapName_2017,Star Chaser Pavilion - 4th Floor
+WMapName_2018,Cave of Infinity
+WMapName_2020_0,Forest Tower
+WMapName_2020_1,Inscripted monument
+WMapName_2020_2,Training field
+WMapName_2020_3,Pond
+WMapName_2020_4,Big bell
+WMapName_2020,Shifa Temple
+WMapName_2021,Hall of Great Strength
+WMapName_2022,Monk's room
+WMapName_2023_0,Scripture Tower
+WMapName_2023,Scripture Tower - 1st Floor
+WMapName_2024,Scripture Tower - 2nd Floor
+WMapName_2025,Scripture Tower - 3rd Floor
+WMapName_2026,Kitchen
+WMapName_2027,Repentance room
+WMapName_2028,Arhat Hall
+WMapName_2030,Confucius Temple
+WMapName_2031,Hall of justice
+WMapName_2032,Disciple's room
+WMapName_2040,Crime Investigation Bureau
+WMapName_2041,Interrogation Hall
+WMapName_2042,Bedroom
+WMapName_2043,Prison
+WMapName_2050,Jiujiang Water Camp
+WMapName_2051,Righteous Hall
+WMapName_2052,Bedroom
+WMapName_2053,Kitchen
+WMapName_2060,Tiger Escort
+WMapName_2061,Tiger Hall
+WMapName_2062,Bedroom
+WMapName_2063,Secret chamber
+WMapName_2064,Storehouse
+WMapName_2070,Langya Sword Pavilion
+WMapName_2071,Three Feet Hall
+WMapName_2072,Weapon Pavilion,หอศาสตรา
+WMapName_2073,Disciple's room
+WMapName_2074,Mine
+WMapName_2080,Ye Family Battalion
+WMapName_2081,Loyalty Hall
+WMapName_2082,Soldier's tent
+WMapName_2083,Armory
+WMapName_2090,Plant Sect
+WMapName_2091,Main hall
+WMapName_2092,Alchemy room
+WMapName_2100,Linlang Temple
+WMapName_2101,Main hall
+WMapName_2102,Linlang Go puzzle
+WMapName_2110,Tomb Raider Sect
+WMapName_2111,Great hall
+WMapName_2120,Jiuli Tribe
+WMapName_2121,Jiuli Tribe·Main Camp
+WMapName_2122,Jiuli Tribe - Poison Dragon Cave
+WMapName_2130,Night Demon Square
+WMapName_2131,Great hall
+WMapName_2139,
+WMapName_2140,Nest of Swallow
+WMapName_2150,Nine Factions Sect
+WMapName_2151,Nine Factions Sect·Senluo Hall
+WMapName_2155,Buddha Temple
+WMapName_2156,Buddha Temple - 1st Floor
+WMapName_2157,Buddha Temple - 2nd Floor
+WMapName_2158,Buddha Temple - 3rd Floor
+WMapName_2159,Buddha Temple - Lasst Floor
+WMapName_2160,Melody House
+WMapName_2161,Melody House·Yinfeng Tower
+WMapName_2170,Bandit Camp
+WMapName_2998,
+WMapName_2999,Training area
+WMapName_10010,Emperor Wu Mausoleum
+WMapName_10020,Ancient Ruin of Shoufang
+WMapName_10030,Suburds
+WMapName_10031,Commander's tent
+WMapName_10038,
+WMapName_10039,Suburds
+WMapName_10040,Horse King Cave
+WMapName_10050,Mang Mountain Pit
+WMapName_10060,Longevity Tomb
+WMapName_10070,Palace Camp
+WMapName_10071,Palace big tent
+WMapName_10080,Yan Army Camp
+WMapName_10100,Southern Invader camp
+WMapName_10110,Soul Destroyer Forest
+WMapName_10120,Epiphyllum Valley
+WMapName_10130,Ye Family Battalion Camp

@@ -1,0 +1,435 @@
+﻿﻿CharPropName_Hp,HP,HP
+CharPropName_Ep,MP,MP
+CharPropName_生命,Max HP,HP สูงสุด
+CharPropInfo_生命,Character is defeated or dies when HP reaches 0 in battle.,ตัวละครจะตายหรือพ่ายแพ้เมื่อพลังชีวิตเหลือ 0 ในการต่อสู้
+CharPropName_内力,Max MP,MP สูงสุด
+CharPropInfo_内力,"MP cost when using martial arts, learning and upgrading internal skills can increase MP.",เสียกำลังภายในเพื่อใช้วรยุทธ เรียนรู้ และพัฒนาวิชากำลังภายในเพื่อเพิ่มกำลังภายใน
+CharPropName_体质,Constitution,สภาพร่างกาย
+CharPropInfo_体质,"Affects HP growth when Character levels up, some equipment equip conditions, activate <#29F161>Robust</color>【<#F3DE99>Max HP increase by 15%</color>】when Constitution reaches 10."
+CharPropName_臂力,Strength,ความแข็งแกร่ง
+CharPropInfo_臂力,"Affects Character's initial Critical chance, some equipment equip conditions, activate <#29F161>Brutal</color>【<#F3DE99>Final damage increase by 15% when attacking</color>】when Strength reaches 10."
+CharPropName_悟性,Intelligence,สติปัญญา
+CharPropInfo_悟性,"Affects Character's initial MP and Combo; the lower the Intelligence, the more <#29F161>initial MP</color> and <#29F161>Combo</color>; the higher the Intelligence, the more <#29F161>Attack</color> and <#29F161>Defense</color> increase when leveling up, activate <#29F161>Genius</color>【<#F3DE99>Experience required to learn martial arts reduced by 30%, MP loss when using external skills reduced by 20%</color>】when Intelligence reaches 10."
+CharPropName_敏捷,Dexterity,คล่องแคล่ว
+CharPropInfo_敏捷,"Affects Character's Initial Action Point, Action Speed, Qinggong, Evasion, activate <#29F161>First strike</color>【<#F3DE99>Start accumulating energy from 100 before each action</color>】when Dexterity reaches 10."
+CharPropName_福缘,Luck,โชค
+CharPropInfo_福缘,"Affects Character's initial Critical, Evasion, Parry, Combo, activate <#29F161>Lucky</color>【<#F3DE99>25% chance to drop an extra item when killing an enemy</color>】when Luck reaches 10."
+CharPropName_攻击,Attack,โจมตี
+CharPropInfo_攻击,"The higher the Attack, the greater the damage caused."
+CharPropName_防御,Defense,ป้องกัน
+CharPropInfo_防御,"The higher the Defense, the less damage received from enemies."
+CharPropName_医术,Medical,วิชาแพทย์
+CharPropInfo_医术,"The higher the Medical, the stronger the ""Heal"" and ""Regen"" effects, ""Heal"" and ""Regen"" can be obtained by learning special internal skills, maximum limit is 250 points, can be exceeded through traits and other effects."
+CharPropName_毒术,Toxicology,วิชาพิษ
+CharPropInfo_毒术,"The higher the Toxicology, the stronger the ""Poison"" and ""Detoxify"" effects, ""Poison"" and ""Detoxify"" can be obtained by learning special internal skills, maximum limit is 250 points, can be exceeded through traits and other effects."
+CharPropName_连击,Combo,โจมตีต่อเนื่อง
+CharPropInfo_连击,"There is a chance to trigger an additional external skill damage when using external skills, but it will only cause 50% damage; increasing Level, Luck, reducing Intelligence, and comprehending Passive can increase Combo rate."
+CharPropName_暗器,Throwing,อาวุธลับ
+CharPropInfo_暗器,"Character can choose to Throw Item Attack, the higher the Throwing, the further the Throwing distance of the Attack, maximum limit is 250 points, can be exceeded through traits and other effects."
+CharPropName_拳掌,Fist,หมัด
+CharPropInfo_拳掌,"Affects the learning conditions of fist, palm, and finger martial arts. During external attacks, damage is increased or decreased based on the difference in Fist between the two parties."
+CharPropName_御剑,Sword,กระบี่
+CharPropInfo_御剑,"Affects the learning conditions of sword martial arts. During external attacks, damage is increased or decreased based on the difference in Sword between the two parties."
+CharPropName_耍刀,Blade,ดาบ
+CharPropInfo_耍刀,"Affects the learning conditions of blade martial arts. During external attacks, damage is increased or decreased based on the difference in Blade between the two parties."
+CharPropName_长兵,Long,อาวุธยาว
+CharPropInfo_长兵,"Affects the learning conditions of long weapons such as spears and sticks. During external attacks, damage is increased or decreased based on the difference in Long between the two parties."
+CharPropName_短兵,Short,อาวุธสั้น
+CharPropInfo_短兵,"Affects the learning conditions of short weapons such as pens, fans, and daggers. During external attacks, damage is increased or decreased based on the difference in Short between the two parties."
+CharPropName_乐器,Musical,ดนตรี
+CharPropInfo_乐器,"Affects the learning conditions of musical weapons such as lutes, flutes, and lutes. During external attacks, damage is increased or decreased based on the difference in Musical between the two parties."
+CharPropName_最高专属值,Any external skill value
+CharPropName_轻功,Qinggong,วิชาตัวเบา
+CharPropInfo_轻功,"Affects the character's movement range and action speed, with a maximum increase of 7 movement range and 15 action speed points."
+CharPropInfo_移动,"Affects the character's movement range and action speed, with a maximum increase of 7 movement range and 15 action speed points."
+CharPropName_集气速度,Action Speed,ความเร็วท่าร่าง
+CharPropInfo_集气速度,Affects the character's speed during combat.,ส่งผลต่อความเร็วในการต่อสู้
+CharPropName_武学常识,Knowledge,ความรู้ด้านวรยุทธ
+CharPropInfo_武学常识,"When attacking, if Knowledge is higher than the opponent, it increases self Accuracy and Critical, and decreases the opponent's Parry and Evasion. If Knowledge is lower than the opponent, it decreases self Accuracy and Critical, and increases the opponent's Parry and Evasion. The maximum limit of Knowledge is 500 points."
+CharPropName_实战能力,Combat,การต่อสู้
+CharPropInfo_实战能力,"During combat, damage is increased or decreased based on the difference in Combat between the two parties, with a maximum limit of 500 points."
+CharPropName_命中,Accuracy,ความแม่นยำ
+CharPropInfo_命中,Affects the probability of the character's Accuracy target. The actual Accuracy probability = self Accuracy - opponent's Evasion.
+CharPropName_闪避,Evasion,หลบหลีก
+CharPropInfo_闪避,Affects whether the character can evade the opponent's attack.
+CharPropName_暴击,Critical
+CharPropInfo_暴击,"Affects the probability of the character triggering a Critical, which increases damage by an additional 50% when triggered."
+CharPropName_格挡,Parry,ปัดป้อง
+CharPropInfo_格挡,"Affects the probability of the character triggering a Parry, which increases damage reduction by an additional 50% when triggered. After triggering a Parry, the opponent will not be able to trigger a Critical."
+CharPropName_战意,Spirit
+CharPropInfo_战意,Both attacking and being attacked will gain Spirit points; the gained Spirit is used for ultimate moves; different ultimate moves require different amounts of Spirit; Spirit will no longer be gained after reaching 200.
+CharPropName_怒气,Rage,ระยะ
+CharPropInfo_怒气,Each hit can gain 10 Rage points; accumulating 50 Rage triggers Rage and Rage effects; Rage effects can reduce negative combat states and increase Action Speed; Rage effects can increase damage by 100% in the next action attack; Rage will no longer be gained after reaching 50.
+CharPropName_仁德,Benevolence
+CharPropInfo_仁德,"Kind-hearted and friendly to others. Reaching the upper limit of 100 activates <#29F161>Harmless</color>【<#F3DE99>Non-boss wild beasts in the wild will not actively attack you</color>】. Reaching the lower limit of -100 activates <#29F161>Infamy</color>【<#F3DE99>When you do evil, non-boss characters who are 15 levels lower than you will actively flee</color>】."
+CharPropName_义气,Righteous,ความดี
+CharPropInfo_义气,"Willing to take risks and self-sacrifice. Reaching the upper limit of 100 activates <#29F161>Virtuous</color>【<#F3DE99>Relations with other characters are increased by an additional 25% when improved</color>】. Reaching the lower limit of -100 activates <#29F161>Selfish</color>【<#F3DE99>Self EXP gain is doubled, but teammates' EXP gain is halved</color>】."
+CharPropName_礼节,Propriety
+CharPropInfo_礼节,"Treat others with respect and sincerity.\nUpon reaching the upper limit of 100, activate <#29F161>Courteous</color>【<#F3DE99>When meeting a non-enemy Character for the first time, Relations value increases by an additional 20</color>】.\nUpon reaching the lower limit of -100, activate <#29F161>Uncivilized</color>【<#F3DE99>Gift effect is only one-tenth of the Normal situation</color>】."
+CharPropName_智慧,Wisdom,ภูมิปัญญา
+CharPropInfo_智慧,"Be observant and act rationally.\nUpon reaching the upper limit of 100, activate <#29F161>Clever</color>【<#F3DE99>Intelligence+2</color>】.\nUpon reaching the lower limit of -100, activate <#29F161>Nitwit</color>【<#F3DE99>Luck+2</color>】."
+CharPropName_信用,Trustworthy
+CharPropInfo_信用,"Keep your word and honor your commitments.\nUpon reaching the upper limit of 100, activate <#29F161>Sincere</color>【<#F3DE99>The value of our items increases by 50% during Trade</color>】.\nUpon reaching the lower limit of -100, activate <#29F161>Knockoff</color>【<#F3DE99>The price of the Item to Sell increases by 50%</color>】."
+CharPropName_勇气,Courage
+CharPropInfo_勇气,"Be adventurous and fearless.\nUpon reaching the upper limit of 100, activate <#29F161>Valiant</color>【<#F3DE99>Damage of Characters in the team increases by 15%</color>】.\nUpon reaching the lower limit of -100, activate <#29F161>Dependant</color>【<#F3DE99>For each surviving teammate in battle, your damage increases by 15%</color>】."
+CharPropName_互搏,Combo
+CharPropInfo_互搏,"After an Attack in battle, if a counterattack is triggered, you can Attack again."
+CharPropName_治疗解锁,Unlock Heal
+CharPropName_施毒解锁,Unlock Poison
+CharPropName_蓄力解锁,Unlock Charge
+CharPropName_防御解锁,Unlock Defense
+CharPropName_调息解锁,Unlock Regen
+CharPropName_解毒解锁,Unlock Detoxify
+CharPropName_归元解锁,Unlock Regen
+CharPropName_轻身解锁,Unlock Speed Up
+CharPropName_D_Hp,HP
+CharPropName_D_Ep,MP
+CharPropName_D_Exp,EXP
+CharPropName_B_NegPoison,Poisoned
+CharPropName_B_NegInjure,Internal Injury
+CharPropName_B_NegSeal,Sealed
+CharPropName_B_NegBleed,Bleeding
+CharPropName_B_NegBlind,Blinded
+CharPropName_B_BattleWine,Number of drinks
+CharPropName_B_BattleMedicine,Number of medicines taken
+CharPropName_B_AccuAtk,Spirit
+CharPropName_B_AccuDef,Rage
+CharPropName_T_队伍体力,Stamina
+CharPropName_T_队伍心情,Mood
+CharPropName_队伍体力,Stamina
+CharPropName_队伍心情,Mood
+CharPropName_等级,Level
+CharPropName_体力,Stamina
+CharPropName_心情,Mood
+CharPropName_实战经验,EXP
+CharPropInfo_实战经验,Experience required to upgrade martial arts.
+CharPropName_击杀实战经验获得,Increases EXP from defeating enemies
+CharPropName_江湖历练,Jianghu Knowledge
+CharPropInfo_江湖历练,Experience required to upgrade Character.
+CharPropInfo_初始集气,"The higher the Initial Action Point, the greater the chance of going first in battle."
+CharPropName_濒死效果,Near-death Status
+CharPropName_额外伤害系数,Increases Damage
+CharPropName_内功加力触发,Probability of triggering internal force exertion
+CharPropName_内功护体触发,Probability of triggering internal force protection
+CharPropName_内力消耗,MP Cost
+CharPropName_集气伤害,Reduce Action Point
+CharPropName_战斗移动,Movement Range
+CharPropName_天赋气攻,Qi value
+CharPropName_天赋气防,Qi defense value
+CharPropName_天赋伤害减免,Decreases Damage received
+CharPropName_天赋外功伤害,Increases Damage
+CharPropName_天赋外功伤害_拳掌,Damage when using Fist techniques
+CharPropName_天赋外功伤害_御剑,Damage when using Sword techniques
+CharPropName_天赋外功伤害_耍刀,Damage when using Blade techniques
+CharPropName_天赋外功伤害_长兵,Damage when using Long Weapon techniques
+CharPropName_天赋外功伤害_短兵,Damage when using Short Weapon techniques
+CharPropName_天赋外功伤害_乐器,Damage when using Musical techniques
+CharPropName_天赋外功伤害_暗器,Damage when using Throwing weapons
+CharPropName_失明命中锁定,Sure Hit
+CharPropName_初始中毒,Initial Poisoned
+CharPropName_初始内伤,Initial Internal Injury
+CharPropName_初始流血,Initial Bleeding
+CharPropName_初始封穴,Initial Sealed
+CharPropName_初始致盲,Initial Blinded
+CharPropName_初始集气,Initial Action Point
+CharPropName_怒气获得,Spirit gained
+CharPropName_战意获得,Rage gained
+CharPropName_装备需求降低,Reduces Equipment's requirement
+CharPropName_江湖历练获得,Jianghu Knowledge gained
+CharPropName_实战经验获得,EXP gained
+CharPropName_武功升级经验,Martial Arts EXP required
+CharPropName_不良状态加成_NegPoison,Poison Immunity
+CharPropName_不良状态加成_NegInjure,Internal Injury Immunity,ต้านทานบาดเจ็บภายใน
+CharPropName_不良状态加成_NegBleed,Bleed Immunity
+CharPropName_不良状态加成_NegSeal,Seal Immunity
+CharPropName_不良状态加成_NegBlind,Blind Immunity
+CharPropName_全局恢复,HPRecovery effect
+CharPropName_生命上限,Max HP
+CharPropName_内力上限,Max MP
+CharPropName_体质经验,Constitution EXP
+CharPropName_臂力经验,Strength EXP
+CharPropName_悟性经验,Intelligence EXP
+CharPropName_敏捷经验,Dexterity EXP
+CharPropName_福缘经验,Luck EXP
+TeanPropModify_GenericUp,The {0} of the team has increased by {1} points
+TeanPropModify_GenericDown,The {0} of the team has decreased by {1} points
+CharacterPropModify_GenericUp,The {1} of {0} has increased by {2} points
+CharacterPropModify_GenericDown,The {1} of {0} has decreased by {2} points
+CharacterPropModify_LevelUp,The Level of {0} has increased by {1}
+CharacterPropModify_LevelDown,The Level of {0} has decreased by {1}
+CharacterPropModify_EgoStateUp,The character stance of {0} has increased by {1} points
+CharacterPropModify_EgoStateDown,The character stance of {0} has decreased by {1} points
+CharacterPropModify_ValueStateUp,The value stance of {0} has increased by {1} points
+CharacterPropModify_ValueStateDown,The value stance of {0} has decreased by {1} points
+CharacterPropModify_ZzPoint,{0} has gained {1} points of aptitude
+MoralModify_Up,<#D7A347>{0}</color><#5EB94F>increased</color> by {1} points
+MoralModify_Down,<#D7A347>{0}</color><#CE3C3B>decreased</color> by {1} points
+MoralModify_InGameUp,<#F2E846>{0}+{1}</color>
+MoralModify_InGameDown,<#F34242>{0}-{1}</color>
+MoralPreset_滥伤无辜,
+MoralPreset_不问自取,
+MoralPreset_颜面扫地,
+MoralPreset_顺手牵羊,
+MoralPreset_羞愧难当,
+MoralPreset_力退强敌,
+MoralPreset_临阵脱逃,
+MoodPreset_Mood,Mood{0}
+MoodPreset_技不如人,"Outmatched, {0}"
+MoodPreset_无功而返,"Returned empty-handed, {0}"
+MoodPreset_身心俱疲,"Exhausted, {0}","เหนื่อยล้า, {0}"
+MoodPreset_投其所好,
+MoodPreset_又没打着,
+MoodPreset_背后闷棍,
+MoodPreset_大郎喝药,
+MoodPreset_鸡汤来喽,
+MoodPreset_点穴失败,
+MoodPreset_葵花点穴,
+CharPropName_能力_采集_采矿,Mining,ขุดแร่
+CharPropName_能力_采集_伐木,Lumbering,ตัดไม้
+CharPropName_能力_采集_采药,Gathering
+CharPropName_能力_采集_钓鱼,Fishing
+CharPropName_能力_采集_捉虫,Worm-catching
+CharPropName_能力_制造_兵器,Craft Weapon
+CharPropName_能力_制造_护甲,Craft Armor
+CharPropName_能力_制造_食物,Cooking
+CharPropName_能力_制造_丹药,Alchemy
+CharPropName_能力_制造_饰品,Craft Accessory
+CharPropName_能力_制造_合成,Craft Tool
+CharPropName_能力_鉴定_字画,Appraise Artwork
+CharPropName_能力_鉴定_书籍,Appraise Book
+CharPropName_能力_鉴定_古董,Appraise Antique
+CharPropName_能力_鉴定_饰品,Appraise Accessory
+CharPropName_能力_鉴定_丹药,Appraise Medicine
+CharPropName_能力_市井_暗取,Steal
+CharPropName_能力_市井_点穴,Immobilize
+CharPropName_能力_市井_下毒,Poison
+CharPropName_能力_市井_机关,Machinery
+CharPropName_能力_市井_突袭,Ambush
+CharPropName_能力_生存_口才,Persuade
+CharPropName_能力_生存_经商,Mercantile
+CharPropName_能力_生存_探索,Explore,สำรวจ
+CharPropName_能力_生存_识图,Pathfinding
+CharPropName_能力_生存_驯兽,Beast Taming
+CharPropName_能力经验_采集_采矿,Mining EXP
+CharPropName_能力经验_采集_伐木,Lumbering EXP
+CharPropName_能力经验_采集_采药,Gathering EXP
+CharPropName_能力经验_采集_钓鱼,Fishing EXP
+CharPropName_能力经验_采集_捉虫,Worm-catching EXP
+CharPropName_能力经验_制造_兵器,Craft Weapon EXP
+CharPropName_能力经验_制造_护甲,Craft Armor EXP
+CharPropName_能力经验_制造_食物,Cooking EXP
+CharPropName_能力经验_制造_丹药,Alchemy EXP
+CharPropName_能力经验_制造_饰品,Craft Accessory EXP
+CharPropName_能力经验_制造_合成,Craft Tool EXP
+CharPropName_能力经验_鉴定_字画,Appraise Artwork EXP
+CharPropName_能力经验_鉴定_书籍,Appraise Book EXP
+CharPropName_能力经验_鉴定_古董,Appraise Antique EXP
+CharPropName_能力经验_鉴定_饰品,Appraise Accessory EXP
+CharPropName_能力经验_鉴定_丹药,Appraise Medicine EXP
+CharPropName_能力经验_市井_暗取,Steal EXP
+CharPropName_能力经验_市井_点穴,Immobilize EXP
+CharPropName_能力经验_市井_下毒,Poison EXP
+CharPropName_能力经验_市井_机关,Machinery EXP
+CharPropName_能力经验_市井_突袭,Ambush EXP
+CharPropName_能力经验_生存_口才,Persuade EXP
+CharPropName_能力经验_生存_经商,Mercantile EXP
+CharPropName_能力经验_生存_探索,Explore EXP,ประสบการณ์การสำรวจ
+CharPropName_能力经验_生存_识图,Pathfinding EXP
+CharPropName_能力经验_生存_驯兽,Beast Taming EXP
+CharPropName_宠物饱食度,Pet Fullness
+CharPropInfo_0_能力_采集_采矿,Raising SkillLevel can improve the success rate of Mining.
+CharPropInfo_1_能力_采集_采矿,Raising SkillLevel can improve the success rate of Mining.
+CharPropInfo_2_能力_采集_采矿,Raising SkillLevel can improve the success rate of Mining.
+CharPropInfo_3_能力_采集_采矿,Raising SkillLevel can improve the success rate of Mining.
+CharPropInfo_4_能力_采集_采矿,Raising SkillLevel can improve the success rate of Mining.
+CharPropInfo_5_能力_采集_采矿,"Increase the success rate of Mining, Level has reached Master, no need to improve."
+CharPropInfo_0_能力_采集_伐木,Increasing SkillLevel can improve the success rate of Lumbering.
+CharPropInfo_1_能力_采集_伐木,Increasing SkillLevel can improve the success rate of Lumbering.
+CharPropInfo_2_能力_采集_伐木,Increasing SkillLevel can improve the success rate of Lumbering.
+CharPropInfo_3_能力_采集_伐木,Increasing SkillLevel can improve the success rate of Lumbering.
+CharPropInfo_4_能力_采集_伐木,Increasing SkillLevel can improve the success rate of Lumbering.
+CharPropInfo_5_能力_采集_伐木,"Increase the success rate of Lumbering, Level has reached Master, no need to improve."
+CharPropInfo_0_能力_采集_采药,Increasing SkillLevel can improve the success rate of Gathering.
+CharPropInfo_1_能力_采集_采药,Increasing SkillLevel can improve the success rate of Gathering.
+CharPropInfo_2_能力_采集_采药,Increasing SkillLevel can improve the success rate of Gathering.
+CharPropInfo_3_能力_采集_采药,Increasing SkillLevel can improve the success rate of Gathering.
+CharPropInfo_4_能力_采集_采药,Increasing SkillLevel can improve the success rate of Gathering.
+CharPropInfo_5_能力_采集_采药,"Increase Gathering success rate, Level has reached Master, no need to upgrade."
+CharPropInfo_0_能力_采集_钓鱼,Increasing SkillLevel can improve the success rate of Fishing.
+CharPropInfo_1_能力_采集_钓鱼,Increasing SkillLevel can improve the success rate of Fishing.
+CharPropInfo_2_能力_采集_钓鱼,Increasing SkillLevel can improve the success rate of Fishing.
+CharPropInfo_3_能力_采集_钓鱼,Increasing SkillLevel can improve the success rate of Fishing.
+CharPropInfo_4_能力_采集_钓鱼,Increasing SkillLevel can improve the success rate of Fishing.
+CharPropInfo_5_能力_采集_钓鱼,"Increase Fishing success rate, Level has reached Master, no need to upgrade."
+CharPropInfo_0_能力_采集_捉虫,Increasing SkillLevel can improve the success rate of Worm-catching.
+CharPropInfo_1_能力_采集_捉虫,Increasing SkillLevel can improve the success rate of Worm-catching.
+CharPropInfo_2_能力_采集_捉虫,Increasing SkillLevel can improve the success rate of Worm-catching.
+CharPropInfo_3_能力_采集_捉虫,Increasing SkillLevel can improve the success rate of Worm-catching.
+CharPropInfo_4_能力_采集_捉虫,Increasing SkillLevel can improve the success rate of Worm-catching.
+CharPropInfo_5_能力_采集_捉虫,"Increase Worm-catching success rate, Level has reached Master, no need to upgrade."
+CharPropInfo_0_能力_制造_兵器,Unlock Craft WeaponSkill after increasing Level.
+CharPropInfo_1_能力_制造_兵器,Increasing SkillLevel can craft higher quality Weapons.
+CharPropInfo_2_能力_制造_兵器,Increasing SkillLevel can craft higher quality Weapons.
+CharPropInfo_3_能力_制造_兵器,Increasing SkillLevel can craft higher quality Weapons.
+CharPropInfo_4_能力_制造_兵器,Increasing SkillLevel can craft higher quality Weapons.
+CharPropInfo_5_能力_制造_兵器,"Craft higher quality Weapon, Level has reached Master."
+CharPropInfo_0_能力_制造_护甲,Unlock Craft ArmorSkill after increasing Level.
+CharPropInfo_1_能力_制造_护甲,Increasing SkillLevel can craft higher quality Armor.
+CharPropInfo_2_能力_制造_护甲,Increasing SkillLevel can craft higher quality Armor.
+CharPropInfo_3_能力_制造_护甲,Increasing SkillLevel can craft higher quality Armor.
+CharPropInfo_4_能力_制造_护甲,Increasing SkillLevel can craft higher quality Armor.
+CharPropInfo_5_能力_制造_护甲,"Craft higher quality Armor, Level has reached Master."
+CharPropInfo_0_能力_制造_食物,Unlock CookingSkill after increasing Level.
+CharPropInfo_1_能力_制造_食物,Increasing SkillLevel can cook higher quality Food.
+CharPropInfo_2_能力_制造_食物,Increasing SkillLevel can cook higher quality Food.
+CharPropInfo_3_能力_制造_食物,Increasing SkillLevel can cook higher quality Food.
+CharPropInfo_4_能力_制造_食物,Increasing SkillLevel can cook higher quality Food.
+CharPropInfo_5_能力_制造_食物,"Cook higher quality Food, Level has reached Master."
+CharPropInfo_0_能力_制造_丹药,Unlock AlchemySkill after increasing Level.
+CharPropInfo_1_能力_制造_丹药,Increasing SkillLevel can refine higher quality Medicine.
+CharPropInfo_2_能力_制造_丹药,Increasing SkillLevel can refine higher quality Medicine.
+CharPropInfo_3_能力_制造_丹药,Increasing SkillLevel can refine higher quality Medicine.
+CharPropInfo_4_能力_制造_丹药,Increasing SkillLevel can refine higher quality Medicine.
+CharPropInfo_5_能力_制造_丹药,"Refine higher quality Medicine, Level has reached Master."
+CharPropInfo_0_能力_制造_饰品,Unlock Craft ToolSkill after increasing Level.
+CharPropInfo_1_能力_制造_饰品,Increasing SkillLevel can craft higher quality Tools.
+CharPropInfo_2_能力_制造_饰品,Increasing SkillLevel can craft higher quality Tools.
+CharPropInfo_3_能力_制造_饰品,Increasing SkillLevel can craft higher quality Tools.
+CharPropInfo_4_能力_制造_饰品,Increasing SkillLevel can craft higher quality Tools.
+CharPropInfo_5_能力_制造_饰品,"Craft higher quality Tool, Level has reached Master."
+CharPropInfo_0_能力_制造_合成,Unlock Craft ToolSkill after increasing Level.
+CharPropInfo_1_能力_制造_合成,Increasing SkillLevel can craft higher quality Tools.
+CharPropInfo_2_能力_制造_合成,Increasing SkillLevel can craft higher quality Tools.
+CharPropInfo_3_能力_制造_合成,Increasing SkillLevel can craft higher quality Tools.
+CharPropInfo_4_能力_制造_合成,Increasing SkillLevel can craft higher quality Tools.
+CharPropInfo_5_能力_制造_合成,"Craft higher quality Tool, Level has reached Master."
+CharPropInfo_0_能力_鉴定_字画,"Used to Appraise unknown paintings and Calligraphy, Unlock this Skill after increasing Level."
+CharPropInfo_1_能力_鉴定_字画,"Used to Appraise unknown paintings and Calligraphy, increasing SkillLevel can Appraise higher Level paintings and Calligraphy."
+CharPropInfo_2_能力_鉴定_字画,"Used to Appraise unknown paintings and Calligraphy, increasing SkillLevel can Appraise higher Level paintings and Calligraphy."
+CharPropInfo_3_能力_鉴定_字画,"Used to Appraise unknown paintings and Calligraphy, increasing SkillLevel can Appraise higher Level paintings and Calligraphy."
+CharPropInfo_4_能力_鉴定_字画,"Used to Appraise unknown paintings and Calligraphy, increasing SkillLevel can Appraise higher Level paintings and Calligraphy."
+CharPropInfo_5_能力_鉴定_字画,"Skill has reached Master, can Appraise all unknown paintings and Calligraphy."
+CharPropInfo_0_能力_鉴定_书籍,"Used to appraise nameless books, level up to unlock this skill."
+CharPropInfo_1_能力_鉴定_书籍,"Used to appraise nameless books, level up skill to appraise higher level books."
+CharPropInfo_2_能力_鉴定_书籍,"Used to appraise nameless books, level up skill to appraise higher level books."
+CharPropInfo_3_能力_鉴定_书籍,"Used to appraise nameless books, level up skill to appraise higher level books."
+CharPropInfo_4_能力_鉴定_书籍,"Used to appraise nameless books, level up skill to appraise higher level books."
+CharPropInfo_5_能力_鉴定_书籍,"Skill has reached master level, can appraise all nameless books."
+CharPropInfo_0_能力_鉴定_古董,"Used to appraise nameless appliances and ornaments, level up to unlock this skill."
+CharPropInfo_1_能力_鉴定_古董,"Used to appraise nameless appliances and ornaments, level up skill to appraise higher level appliances and ornaments."
+CharPropInfo_2_能力_鉴定_古董,"Used to appraise nameless appliances and ornaments, level up skill to appraise higher level appliances and ornaments."
+CharPropInfo_3_能力_鉴定_古董,"Used to appraise nameless appliances and ornaments, level up skill to appraise higher level appliances and ornaments."
+CharPropInfo_4_能力_鉴定_古董,"Used to appraise nameless appliances and ornaments, level up skill to appraise higher level appliances and ornaments."
+CharPropInfo_5_能力_鉴定_古董,"Skill has reached master level, can appraise all nameless appliances and ornaments."
+CharPropInfo_0_能力_鉴定_饰品,"Used to appraise nameless accessories, level up to unlock this skill."
+CharPropInfo_1_能力_鉴定_饰品,"Used to appraise nameless accessories, level up skill to appraise higher level accessories."
+CharPropInfo_2_能力_鉴定_饰品,"Used to appraise nameless accessories, level up skill to appraise higher level accessories."
+CharPropInfo_3_能力_鉴定_饰品,"Used to appraise nameless accessories, level up skill to appraise higher level accessories."
+CharPropInfo_4_能力_鉴定_饰品,"Used to appraise nameless accessories, level up skill to appraise higher level accessories."
+CharPropInfo_5_能力_鉴定_饰品,"Skill has reached master level, can appraise all nameless accessories."
+CharPropInfo_0_能力_鉴定_丹药,"Used to appraise nameless medicines, level up to unlock this skill."
+CharPropInfo_1_能力_鉴定_丹药,"Used to appraise nameless medicines, level up skill to appraise higher level medicines."
+CharPropInfo_2_能力_鉴定_丹药,"Used to appraise nameless medicines, level up skill to appraise higher level medicines."
+CharPropInfo_3_能力_鉴定_丹药,"Used to appraise nameless medicines, level up skill to appraise higher level medicines."
+CharPropInfo_4_能力_鉴定_丹药,"Used to appraise nameless medicines, level up skill to appraise higher level medicines."
+CharPropInfo_5_能力_鉴定_丹药,"Skill has reached master level, can appraise all nameless medicines."
+CharPropInfo_0_能力_市井_暗取,Level up skill to increase steal success rate.
+CharPropInfo_1_能力_市井_暗取,Level up skill to increase steal success rate.
+CharPropInfo_2_能力_市井_暗取,Level up skill to increase steal success rate.
+CharPropInfo_3_能力_市井_暗取,Level up skill to increase steal success rate.
+CharPropInfo_4_能力_市井_暗取,Level up skill to increase steal success rate.
+CharPropInfo_5_能力_市井_暗取,"Increase Steal success rate, Skill has reached Master, no need to upgrade."
+CharPropInfo_0_能力_市井_点穴,Level up skill to increase immobilize success rate.
+CharPropInfo_1_能力_市井_点穴,Level up skill to increase immobilize success rate.
+CharPropInfo_2_能力_市井_点穴,Level up skill to increase immobilize success rate.
+CharPropInfo_3_能力_市井_点穴,Level up skill to increase immobilize success rate.
+CharPropInfo_4_能力_市井_点穴,Level up skill to increase immobilize success rate.
+CharPropInfo_5_能力_市井_点穴,"Increase Immobilize success rate, Skill has reached Master, no need to upgrade."
+CharPropInfo_0_能力_市井_下毒,Level up skill to increase poison success rate.
+CharPropInfo_1_能力_市井_下毒,Level up skill to increase poison success rate.
+CharPropInfo_2_能力_市井_下毒,Level up skill to increase poison success rate.
+CharPropInfo_3_能力_市井_下毒,Level up skill to increase poison success rate.
+CharPropInfo_4_能力_市井_下毒,Level up skill to increase poison success rate.
+CharPropInfo_5_能力_市井_下毒,"Increase Poison success rate, Skill has reached Master, no need to upgrade."
+CharPropInfo_0_能力_市井_机关,"Used to crack machinery (boxes, doors, etc.), level up to unlock this skill."
+CharPropInfo_1_能力_市井_机关,"Used to crack machinery, level up skill to crack higher level machinery."
+CharPropInfo_2_能力_市井_机关,"Used to crack machinery, level up skill to crack higher level machinery."
+CharPropInfo_3_能力_市井_机关,"Used to crack machinery, level up skill to crack higher level machinery."
+CharPropInfo_4_能力_市井_机关,"Used to crack machinery, level up skill to crack higher level machinery."
+CharPropInfo_5_能力_市井_机关,"Crack higher Level Machinery, Skill has reached Master, can Crack all Machinery."
+CharPropInfo_0_能力_市井_突袭,Level up skill to increase ambush success rate and damage effect.
+CharPropInfo_1_能力_市井_突袭,Level up skill to increase ambush success rate and damage effect.
+CharPropInfo_2_能力_市井_突袭,Level up skill to increase ambush success rate and damage effect.
+CharPropInfo_3_能力_市井_突袭,Level up skill to increase ambush success rate and damage effect.
+CharPropInfo_4_能力_市井_突袭,Level up skill to increase ambush success rate and damage effect.
+CharPropInfo_5_能力_市井_突袭,"Increase Ambush success rate and damage effect, Skill has reached Master, no need to upgrade."
+CharPropInfo_0_能力_生存_口才,"Used to unlock event trigger conditions or event options, level up to unlock this skill."
+CharPropInfo_1_能力_生存_口才,"Used to unlock event trigger conditions or event options, level up skill to unlock more events."
+CharPropInfo_2_能力_生存_口才,"Used to unlock event trigger conditions or event options, level up skill to unlock more events."
+CharPropInfo_3_能力_生存_口才,"Used to unlock event trigger conditions or event options, level up skill to unlock more events."
+CharPropInfo_4_能力_生存_口才,"Used to unlock event trigger conditions or event options, level up skill to unlock more events."
+CharPropInfo_5_能力_生存_口才,"Can Unlock more events, Skill has reached Master, can Unlock all events."
+CharPropInfo_0_能力_生存_经商,"When trading with other characters, the value of your items increases additionally, level up to unlock this skill."
+CharPropInfo_1_能力_生存_经商,"When trading with other characters, the value of your items increases additionally by 5%."
+CharPropInfo_2_能力_生存_经商,"When trading with other characters, the value of your items increases additionally by 10%."
+CharPropInfo_3_能力_生存_经商,"When trading with other characters, the value of your items increases additionally by 20%."
+CharPropInfo_4_能力_生存_经商,"When trading with other characters, the value of your items increases additionally by 30%."
+CharPropInfo_5_能力_生存_经商,"When trading with other characters, the value of your items increases additionally by 40%."
+CharPropInfo_0_能力_生存_探索,Level up skill to increase the probability of discovering hidden scenes.
+CharPropInfo_1_能力_生存_探索,Level up skill to increase the probability of discovering hidden scenes.
+CharPropInfo_2_能力_生存_探索,Level up skill to increase the probability of discovering hidden scenes.
+CharPropInfo_3_能力_生存_探索,Level up skill to increase the probability of discovering hidden scenes.
+CharPropInfo_4_能力_生存_探索,Level up skill to increase the probability of discovering hidden scenes.
+CharPropInfo_5_能力_生存_探索,"Increase the probability of discovering hidden scenes, Skill has reached Master, no need to upgrade."
+CharPropInfo_0_能力_生存_识图,"Level up skill to increase character's movement speed on the world map, saving time."
+CharPropInfo_1_能力_生存_识图,"Level up skill to increase character's movement speed on the world map, saving time."
+CharPropInfo_2_能力_生存_识图,"Level up skill to increase character's movement speed on the world map, saving time."
+CharPropInfo_3_能力_生存_识图,"Level up skill to increase character's movement speed on the world map, saving time."
+CharPropInfo_4_能力_生存_识图,"Level up skill to increase character's movement speed on the world map, saving time."
+CharPropInfo_5_能力_生存_识图,"Increase Character's movement speed on the big map, save time, Pathfinding Skill has reached Master, no need to upgrade."
+CharPropInfo_0_能力_生存_驯兽,"Increase pet attribute bonus, level up to unlock this skill."
+CharPropInfo_1_能力_生存_驯兽,"Pet HP increases by 20%, attack increases by 20%, defense increases by 20%, and movement speed on the world map increases when the pet follows."
+CharPropInfo_2_能力_生存_驯兽,"Pet HP increases by 40%, Attack increases by 40%, Defense increases by 40%, and the pet's movement speed on the large map increases when following."
+CharPropInfo_3_能力_生存_驯兽,"Pet HP increases by 60%, Attack increases by 60%, Defense increases by 60%, and the pet's movement speed on the large map increases when following."
+CharPropInfo_4_能力_生存_驯兽,"Pet HP increases by 80%, Attack increases by 80%, Defense increases by 80%, and the pet's movement speed on the large map increases when following."
+CharPropInfo_5_能力_生存_驯兽,"Pet HP increases by 100%, Attack increases by 100%, Defense increases by 100%, and the pet's movement speed on the large map increases when following."
+AbilityLevel_0,Untrained
+AbilityLevel_1,Beginner
+AbilityLevel_2,Intermediate
+AbilityLevel_3,Advance
+AbilityLevel_4,Expert
+AbilityLevel_5,Master
+ABilityLevel_0,Untrained
+ABilityLevel_1,Beginner
+ABilityLevel_2,Intermediate
+ABilityLevel_3,Advance
+ABilityLevel_4,Expert
+ABilityLevel_5,Master
+AbilityLevel_Up,%s%<#ff822f>{0}</color>Skill has been upgraded to <#ff5555>{1}</color>
+CharacterMainProp_Up,%s%{0}{1}+{2}
+CharPropName_名声级别,Fame Level
+CharPropName_名声经验,Fame
+RepLevel_0,Nobody,ไม่มีใครรู้จัก
+RepLevel_1,Recognized
+RepLevel_2,Well-known
+RepLevel_3,Reputable
+RepLevel_4,Rising Star
+RepLevel_5,Famous
+RepLevel_6,Acclaimed
+RepLevel_7,Prominence
+RepLevel_8,Revered
+RepLevel_9,Historical
+RepLevel_10,Legendary
+RepLevel_LevelUp,The Fame of {0} has reached {1}
+ItemUseCheckFailed_CantUse,%c%This item cannot be used
+ItemUseCheckFailed_CompareDataNotMatched,%c%The current character does not meet the conditions for using the item
+ItemUseCheckFailed_NotValid,%c%Invalid item
+CompareData_性别_Equal_1,For males only
+CompareData_性别_Unequal_1,For non-males only
+CompareData_等级_BiggerOrEqual,Need to reach level {0}
+CompareData_Generic_Equal,Character {0} equals {1}
+CompareData_Generic_Unequal,Character {0} cannot be {1}
+CompareData_Generic_Bigger,Character{0}>{1}
+CompareData_Generic_BiggerOrEqual,Character{0}≥{1}
+CompareData_Generic_Smaller,Character{0}＜{1}
+CompareData_Generic_SmallerOrEqual,Character{0}≤{1}

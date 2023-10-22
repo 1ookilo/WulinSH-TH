@@ -1,0 +1,257 @@
+key,original,translation,context
+UIPropPoints,Initial available aptitude: <color=#ffffff>{0}</color>,,开局可用资质：<color=#ffffff>{0}</color>
+UITraitPoints,Initial achievement points: <color=#ffffff>{0}</color>,,开局成就点数：<color=#ffffff>{0}</color>
+UIPropPointsTip,"Every time you Unlock<#00ff00>{0}</color> achievements, you can allocate an additional attribute point when creating a character. The maximum additional attribute points are <#00ff00>{1}</color>, and the current additional attribute points are <#00ff00>{2}</color>",,每解锁<#00ff00>{0}</color>个成就，在创角时可额外分配1点属性点，额外属性点上限为<#00ff00>{1}</color>，当前额外属性点为<#00ff00>{2}</color>
+UITraitPointsTip,"Start with <#00ff00>{0}</color> achievement points. Each time you Unlock an achievement, you can get additional achievement points. You can use these points to choose suitable traits when starting the game.",,开局初始<#00ff00>{0}</color>成就点，每解锁1个成就可以额外获得成就点，在开局时可以消耗成就点数选择适合自己的特征。
+AchievementComplated,Unlock achievement <#ffff00>{0}</color>,,解锁成就<#ffff00>{0}</color>
+AchievementTraitPoints,You can get <#236c0f>{0}</color> achievement points,,可以获得 <#236c0f>{0}</color> 成就点
+AchievementPrizeTitle0,Initial items:,,初始道具：
+AchievementPrizeTitle1,Initial traits:,,初始特征：
+AchievementBottom,"Tip 1: Achievement points from Unlock achievements can be used to choose suitable traits at the start of the game
+Tip 2: Initial items from Unlock achievements can be chosen as starting items at the start of the game",,"提示1：成就解锁的成就点可在开局消耗选择适合自己的特征
+提示2：成就解锁的初始道具可在开局作为初始道具进行选择"
+AchievementLockSecretName,？？？？？？,,？？？？？？
+AchievementLockSecretTip,？？？？？？？？？？？,,？？？？？？？？？？？
+AchievementName_1,Undefeated,,所向披靡
+AchievementName_2,High Stamina,,体力充沛
+AchievementName_3,Ultra Speed,,动如雷霆
+AchievementName_4,Effective Learner,,心有灵犀
+AchievementName_5,Survival Instinct,,死里逃生
+AchievementName_6,Throwing Master,,暗器精研
+AchievementName_7,Poisonous Body,,特异毒体
+AchievementName_8,Fast Runner,,神行无忌
+AchievementName_9,Poison Expert,,雪上加霜
+AchievementName_10,Medical Expert,,妙手仁心
+AchievementName_11,Medical Master,,医术精研
+AchievementName_12,Pretentious,,道貌岸然
+AchievementName_13,Power of Money,,财大气粗
+AchievementName_14,Weapon Expert,,兵器亲和
+AchievementName_15,Burning Spirit,,战意凛然
+AchievementName_16,Sleight of Hand,,妙手空空
+AchievementName_17,Discerning Eyes,,明察秋毫
+AchievementName_18,Authentic Taoist,,玄门正宗
+AchievementName_19,Easy as Pie,,手到擒来
+AchievementName_20,Dexterous Hands,,心灵手巧
+AchievementName_21,Eye for Details,,火眼金睛
+AchievementName_22,Survival Expert,,谋生有道
+AchievementName_23,Scoundrel's Way,,歪门邪道
+AchievementName_24,Weapon Master,,兵器精通
+AchievementName_25,Cowardice,,贪生怕死
+AchievementName_26,The Saint,,圣贤传人
+AchievementName_27,The Devil,,邪魔外道
+AchievementName_28,Village Hermits,,小村隐士
+AchievementName_29,Chicken Hero,,弱鸡大侠
+AchievementName_30,Poisonous Skin,,自带毒疮
+AchievementName_31,Jianghu Master,,武林盟主
+AchievementName_32,Jianghu Conqueror,,武林霸主
+AchievementName_33,Master of Fist,,拳法宗师
+AchievementName_34,Master of Sword,,剑法宗师
+AchievementName_35,Master of Blade,,刀法宗师
+AchievementName_36,Master of Long Weapon,,长兵宗师
+AchievementName_37,Master of Short Weapon,,短兵宗师
+AchievementName_38,Master of Music,,音律宗师
+AchievementName_39,Feigning Weakness,,扮猪吃虎
+AchievementName_40,Destroy Blue Wind Camp,,剿灭青风寨
+AchievementName_41,Destroy Nest of Swallow,,剿灭燕子窝
+AchievementName_42,Destroy Crime Investigation Bureau,,剿灭神捕门
+AchievementName_43,Destroy Langya Sword Pavillion,,剿灭琅琊剑阁
+AchievementName_44,Destroy Taoist Sect,,剿灭道玄宗
+AchievementName_45,Easy Challenge,,休闲挑战
+AchievementName_46,Easy Challenge,,休闲挑战
+AchievementName_47,Easy Challenge,,休闲挑战
+AchievementName_48,Easy Challenge,,休闲挑战
+AchievementName_49,Easy Challenge,,休闲挑战
+AchievementName_50,Normal Challenge,,正常挑战
+AchievementName_51,Normal Challenge,,正常挑战
+AchievementName_52,Normal Challenge,,正常挑战
+AchievementName_53,Normal Challenge,,正常挑战
+AchievementName_54,Normal Challenge,,正常挑战
+AchievementName_55,Hard Challenge,,困难挑战
+AchievementName_56,Hard Challenge,,困难挑战
+AchievementName_57,Hard Challenge,,困难挑战
+AchievementName_58,Hard Challenge,,困难挑战
+AchievementName_59,Hard Challenge,,困难挑战
+AchievementName_60,Nightmare Challenge,,修罗挑战
+AchievementName_61,Nightmare Challenge,,修罗挑战
+AchievementName_62,Nightmare Challenge,,修罗挑战
+AchievementName_63,Nightmare Challenge,,修罗挑战
+AchievementName_64,Nightmare Challenge,,修罗挑战
+AchievementName_65,The First Coin,,第一文钱
+AchievementName_66,Joining Sect,,加入门派
+AchievementName_67,Joining Sect,,加入门派
+AchievementName_68,Joining Sect,,加入门派
+AchievementName_69,Joining Sect,,加入门派
+AchievementName_70,Joining Sect,,加入门派
+AchievementName_71,Joining Faction,,投身阵营
+AchievementName_72,Newcomer,,初出茅庐
+AchievementName_73,Level 10,,初学乍练
+AchievementName_74,Level 20,,略有小成
+AchievementName_75,Level 30,,驾轻就熟
+AchievementName_76,Level 40,,融会贯通
+AchievementName_77,Level 50,,炉火纯青
+AchievementName_78,Level 60,,出类拔萃
+AchievementName_79,Level 70,,出神入化
+AchievementName_80,Level 80,,无与伦比
+AchievementName_81,Level 90,,深不可测
+AchievementName_82,Grand Master,,一代宗师
+AchievementName_83,Recognized,,有所耳闻
+AchievementName_84,Well-known,,小有名气
+AchievementName_85,Reputable,,名声鹊起
+AchievementName_86,Rising Star,,后起之秀
+AchievementName_87,Famous,,闻名遐迩
+AchievementName_88,Acclaimed,,如雷贯耳
+AchievementName_89,Prominent,,声名赫赫
+AchievementName_90,Revered,,举世闻名
+AchievementName_91,Historical,,震古烁今
+AchievementName_92,Legendary,,垂名青史
+AchievementName_93,Blessing of Love,,良缘天赐
+AchievementName_94,The Romanticist,,多情浪子
+AchievementName_95,Gambler,,小露一手
+AchievementName_96,God of Gambling,,千王之王
+AchievementName_97,Peak of Jianghu,,天下第一
+AchievementName_98,Enlightened Monk,,一代高僧
+AchievementName_99,Cake of God,,天下第一粽
+AchievementName_100,Direct Assault,,直捣黄龙
+AchievementName_101,Imperial Noble,,封官赐爵
+AchievementName_102,Top Achiever,,连中三元
+AchievementName_103,Destroy Shifa Temple,,剿灭释法寺
+AchievementName_104,Join a Sect,,加入门派
+AchievementName_105,Foreign Duke,,异姓封王
+AchievementName_106,Destroy Yan Empire,,驱除鞑虏
+AchievementName_107,Joining Sect,,加入门派
+AchievementName_108,Destroy Confucius Temple,,剿灭儒圣馆
+AchievementName_109,Confucius's Glory,,儒者之风
+AchievementName_110,Heart of Buddha,,菩提禅心
+AchievementName_111,Confucius Saint,,儒门圣贤
+AchievementName_112,Challenging Fate,,卧薪尝胆
+AchievementName_113,Spirit of Steel,,百炼成钢
+AchievementName_114,Hellish Journey,,无间炼狱
+AchievementName_115,Best of the Best,,天下无双
+AchievementName_116,Nine Factions Sect Master,,九流门主
+AchievementName_117,Unify the martial arts world.,,一统江湖
+AchievementName_118,Defend the country.,,保家卫国
+AchievementName_119,Monopolizing the Head of the Turtle,,独占鳌头
+AchievementName_120,Join a Faction,,投身阵营
+AchievementName_121,Join a Faction,,投身阵营
+AchievementTip_1,Main Character's Strength stat reaches 15.,,主角臂力达到15。
+AchievementTip_2,Main Character's Constitution stat reaches 15.,,主角体质达到15。
+AchievementTip_3,Main Character's Dexterity stat reaches 15.,,主角敏捷达到15。
+AchievementTip_4,Main Character's Intelligence stat reaches 15.,,主角悟性达到15。
+AchievementTip_5,Main Character's Luck stat reaches 15.,,主角福缘达到15。
+AchievementTip_6,Main Character's Throwing stat reaches 200.,,主角暗器达到200。
+AchievementTip_7,Main Character's Toxicology stat reaches 200.,,主角毒术达到200。
+AchievementTip_8,Main Character's Qinggong stat reaches 200.,,主角轻功达到200。
+AchievementTip_9,Main Character's Toxicology stat reaches 100.,,主角毒术达到100。
+AchievementTip_10,Main Character's Medical stat reaches 100.,,主角医术达到100。
+AchievementTip_11,Main Character's Medical stat reaches 200.,,主角医术达到200。
+AchievementTip_12,Achieve 100 relationship with 20 NPCs.,,20个NPC关系达到100。
+AchievementTip_13,Gain a total of 100 Guans.,,累计获得100贯钱。
+AchievementTip_14,Complete all Langya Sword Pavillion events.,,完成琅琊剑阁相关事件。
+AchievementTip_15,Complete all Blue Wind Camp events.,,完成青风寨相关事件。
+AchievementTip_16,Complete all Nest of Swallow events.,,完成燕子窝相关事件。
+AchievementTip_17,Complete all Crime Investigation Bureau events.,,完成神捕门相关事件。
+AchievementTip_18,Complete all Taoist Sect events.,,完成道玄宗相关事件。
+AchievementTip_19,Reach max level of any Resource skill.,,任一项采集类能力达到登峰造极。
+AchievementTip_20,Reach max level of any Craft skill.,,任一项制造类能力达到登峰造极。
+AchievementTip_21,Reach max level of any Appraise skill.,,任一项鉴定类能力达到登峰造极。
+AchievementTip_22,Reach max level of any Survival skill.,,任一项生存类能力达到登峰造极。
+AchievementTip_23,Reach max level of any Rogue skill.,,任一项市井类能力达到登峰造极。
+AchievementTip_24,Any weapon stat reaches 200.,,任意兵器值达到200。
+AchievementTip_25,Courage stat reaches -100.,,勇气达到-100。
+AchievementTip_26,All six personality stats reaches 100.,,六项品德全是100。
+AchievementTip_27,All six personality stats reaches -100.,,六项品德全是-100。
+AchievementTip_28,"Recruit all Nameless Village characters (Hunter, Informant, Blacksmith, Doctor, Innkeeper).",,无名小村猎户、包打听、铁匠、郎中、老板娘同时入队。
+AchievementTip_29,"Trigger ""Chicken Hero"" ending.",,触发“弱鸡大侠”结局。
+AchievementTip_30,"Trigger ""Death by Poison"" ending.",,触发“毒发身亡”结局。
+AchievementTip_31,Achieve Jianghu Master ending.,,达成武林盟主结局。
+AchievementTip_32,Achieve Jianghu Conqueror ending.,,达成武林霸主结局。
+AchievementTip_33,Main Character's Fist stat reaches 200.,,拳掌属性达到200。
+AchievementTip_34,Main Character's Sword stat reaches 200.,,御剑属性达到200。
+AchievementTip_35,Main Character's Blade stat reaches 200.,,耍刀属性达到200。
+AchievementTip_36,Main Character's Long stat reaches 200.,,长兵属性达到200。
+AchievementTip_37,Main Character's Short stat reaches 200.,,短兵属性达到200。
+AchievementTip_38,Main Character's Musical stat reaches 200.,,音律属性达到200。
+AchievementTip_39,"At the start of the game, defeat Nest of Swallow's reinforcement force.",,开局在野外击败燕子窝的援军。
+AchievementTip_40,Destroy Blue Wind Camp in an official way.,,光明正大的方式剿灭青风寨。
+AchievementTip_41,Destroy Nest of Swallow in an official way.,,光明正大的方式剿灭燕子窝。
+AchievementTip_42,Destroy Crime Investigation Bureau in an official way.,,光明正大的方式剿灭神捕门。
+AchievementTip_43,Destroy Langya Sword Pavillion in an official way.,,光明正大的方式剿灭琅琊剑阁。
+AchievementTip_44,Destroy Taoist Sect in an official way.,,光明正大的方式剿灭道玄宗。
+AchievementTip_45,Survive 3 days in Easy Mode.,,休闲模式下生存3天。
+AchievementTip_46,Survive 20 days in Easy Mode.,,休闲模式下生存20天。
+AchievementTip_47,Survive 40 days in Easy Mode.,,休闲模式下生存40天。
+AchievementTip_48,Survive 60 days in Easy Mode.,,休闲模式下生存60天。
+AchievementTip_49,Survive 100 days in Easy Mode.,,休闲模式下生存100天。
+AchievementTip_50,Survive 3 days in Normal Mode.,,正常模式下生存3天。
+AchievementTip_51,Survive 20 days in Normal Mode.,,正常模式下生存20天。
+AchievementTip_52,Survive 40 days in Normal Mode.,,正常模式下生存40天。
+AchievementTip_53,Survive 60 days in Normal Mode.,,正常模式下生存60天。
+AchievementTip_54,Survive 100 days in Normal Mode.,,正常模式下生存100天。
+AchievementTip_55,Survive 3 days in Hard Mode.,,困难模式下生存3天。
+AchievementTip_56,Survive 20 days in Hard Mode.,,困难模式下生存20天。
+AchievementTip_57,Survive 40 days in Hard Mode.,,困难模式下生存40天。
+AchievementTip_58,Survive 60 days in Hard Mode.,,困难模式下生存60天。
+AchievementTip_59,Survive 100 days in Hard Mode.,,困难模式下生存100天。
+AchievementTip_60,Survive 3 days in Nightmare Mode.,,修罗模式下生存3天。
+AchievementTip_61,Survive 20 days in Nightmare Mode.,,修罗模式下生存20天。
+AchievementTip_62,Survive 40 days in Nightmare Mode.,,修罗模式下生存40天。
+AchievementTip_63,Survive 60 days in Nightmare Mode.,,修罗模式下生存60天。
+AchievementTip_64,Survive 100 days in Nightmare Mode.,,修罗模式下生存100天。
+AchievementTip_65,Gain a total of 1 Coin.,,累计获得1文钱。
+AchievementTip_66,Join the Blue Wind Camp.,,加入青风寨。
+AchievementTip_67,Join the Nest of Swallow.,,加入燕子窝。
+AchievementTip_68,Join the Crime Investigation Bureau.,,加入神捕门。
+AchievementTip_69,Join the Langya Sword Pavillion.,,加入琅琊剑阁。
+AchievementTip_70,Join the Taoist Sect.,,加入道玄宗。
+AchievementTip_71,Join the General Faction.,,加入将军府。
+AchievementTip_72,Main Character reaches Level 5.,,主角达到5级。
+AchievementTip_73,Main Character reaches Level 10.,,主角达到10级。
+AchievementTip_74,Main Character reaches Level 20.,,主角达到20级。
+AchievementTip_75,Main Character reaches Level 30.,,主角达到30级。
+AchievementTip_76,Main Character reaches Level 40.,,主角达到40级。
+AchievementTip_77,Main Character reaches Level 50.,,主角达到50级。
+AchievementTip_78,Main Character reaches Level 60.,,主角达到60级。
+AchievementTip_79,Main Character reaches Level 70.,,主角达到70级。
+AchievementTip_80,Main Character reaches Level 80.,,主角达到80级。
+AchievementTip_81,Main Character reaches Level 90.,,主角达到90级。
+AchievementTip_82,Main Character reaches Level 100.,,主角达到100级。
+AchievementTip_83,Fame reaches Level 1,,名声达到1级。
+AchievementTip_84,Fame reaches Level 2,,名声达到2级。
+AchievementTip_85,Fame reaches Level 3,,名声达到3级。
+AchievementTip_86,Fame reaches Level 4,,名声达到4级。
+AchievementTip_87,Fame reaches Level 5,,名声达到5级。
+AchievementTip_88,Fame reaches Level 6,,名声达到6级。
+AchievementTip_89,Fame reaches Level 7,,名声达到7级。
+AchievementTip_90,Fame reaches Level 8,,名声达到8级。
+AchievementTip_91,Fame reaches Level 9,,名声达到9级。
+AchievementTip_92,Fame reaches Level 10,,名声达到10级。
+AchievementTip_93,First time forming a good relationship with a female partner.,,首次与女性伙伴缔结良缘。
+AchievementTip_94,Formed a good relationship with 7 female partners.,,与7名女性伙伴缔结良缘。
+AchievementTip_95,Win all money from the dealer for the first time.,,玩骰子首次赢光庄家大部分钱财。
+AchievementTip_96,Win all money from the dealer 20 times in total.,,玩骰子使庄家封盘，累计20次。
+AchievementTip_97,"Trigger ""Peak of Jianghu"" ending.",,触发“天下第一”结局。
+AchievementTip_98,"Trigger ""Enlightened Monk"" ending.",,触发“一代高僧”结局。
+AchievementTip_99,"Win the ""Dragon Cooking Contest"".",,在“龙舟论粽大赛”中胜出。
+AchievementTip_100,Storm into Yan Army Camp and annihilate all enemies.,,前往燕国行辕大营选择直接剿灭燕云铁军。
+AchievementTip_101,"Rescue the Emperor from Yan Army Camp, then take his offer.",,从燕云铁军中救出皇帝，接受皇帝封赏。
+AchievementTip_102,"Win the titles Provincial Top Examiner, Country Top Examiner and Top Achiever.",,获得解元、会元、状元身份。
+AchievementTip_103,Destroy Shifa Temple in an official way.,,光明正大的方式剿灭释法寺。
+AchievementTip_104,Join the Shifa Temple,,加入释法寺。
+AchievementTip_105,"Trigger ""Foreign Duke"" ending.",,触发“异姓封王”结局。
+AchievementTip_106,Destroy Yan Army.,,消灭燕云铁军势力中所有重要人物。
+AchievementTip_107,Join the Confucius Temple.,,加入儒圣馆。
+AchievementTip_108,Destroy Confucius Temple in an official way.,,光明正大的方式剿灭儒圣馆。
+AchievementTip_109,Complete all Confucius Temple events.,,完成儒圣馆相关事件。
+AchievementTip_110,Complete all Shifa Temple events.,,完成释法寺相关事件。
+AchievementTip_111,"Trigger ""Confucius Saint"" ending.",,触发“儒门圣贤”结局。
+AchievementTip_112,Achieve True Ending in Freedom Mode 300.,,自由难度下难度系数达到300 达成真结局。
+AchievementTip_113,Achieve True Ending in Freedom Mode 600.,,自由难度下难度系数达到600 达成真结局。
+AchievementTip_114,Achieve True Ending in Freedom Mode 900.,,自由难度下难度系数达到900 达成真结局。
+AchievementTip_115,Achieve True Ending in Freedom Mode 1200.,,自由难度下难度系数达到1200 达成真结局。
+AchievementTip_116,"Trigger the ""Nine Factions Sect Master"" ending.",,触发“九流门主”结局。
+AchievementTip_117,"After becoming a disciple in Nameless Village, you can become a Jianghu Master or Jianghu Conqueror.",,无名小村拜师后，最终成为武林盟主或武林霸主。
+AchievementTip_118,"After becoming a disciple in Nameless Village, you can trigger the ""Loyalty"" ending.",,无名小村拜师后，触发“尽忠报国”结局。
+AchievementTip_119,"After becoming a disciple in Nameless Village, you can trigger the ""Number One in the World"" ending.",,无名小村拜师后，触发“天下第一”结局。
+AchievementTip_120,Join the Ye Family Battalion.,,加入叶家军。
+AchievementTip_121,Join the Yan Yun Iron Army.,,加入燕云铁军。
+,,,

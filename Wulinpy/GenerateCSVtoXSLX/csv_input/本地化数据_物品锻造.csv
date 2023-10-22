@@ -1,0 +1,160 @@
+﻿﻿ForgeEffect_外功伤害加成1,<#EFD09F>Monumental</color>,<#EFD09F>อนุสาวรีย์</color>
+ForgeEffect_外功伤害加成2,<#EFD09F>Monumental</color>,<#EFD09F>อนุสาวรีย์</color>
+ForgeEffect_外功伤害加成3,<#EFD09F>Monumental</color>,<#EFD09F>อนุสาวรีย์</color>
+ForgeEffect_外功伤害减免1,<#EFD09F>Iron Bone</color>,<#EFD09F>กระดูกเหล็ก</color>
+ForgeEffect_外功伤害减免2,<#EFD09F>Iron Bone</color>,<#EFD09F>กระดูกเหล็ก</color>
+ForgeEffect_外功伤害减免3,<#EFD09F>Iron Bone</color>,<#EFD09F>กระดูกเหล็ก</color>
+ForgeEffect_生命增加1,<#EFD09F>Health Maintenance</color>,<#EFD09F>การดูแลสุขภาพ</color>
+ForgeEffect_生命增加2,<#EFD09F>Health Maintenance</color>,<#EFD09F>การดูแลสุขภาพ</color>
+ForgeEffect_生命增加3,<#EFD09F>Health Maintenance</color>,<#EFD09F>การดูแลสุขภาพ</color>
+ForgeEffect_生命增加4,<#EFD09F>Health Maintenance</color>,<#EFD09F>การดูแลสุขภาพ</color>
+ForgeEffect_生命百分比增加1,<#EFD09F>Longevity</color>
+ForgeEffect_生命百分比增加2,<#EFD09F>Longevity</color>
+ForgeEffect_生命百分比增加3,<#EFD09F>Longevity</color>
+ForgeEffect_生命百分比增加4,<#EFD09F>Longevity</color>
+ForgeEffect_内力增加1,<#EFD09F>Rest</color>
+ForgeEffect_内力增加2,<#EFD09F>Rest</color>
+ForgeEffect_内力增加3,<#EFD09F>Rest</color>
+ForgeEffect_内力百分比增加1,<#EFD09F>Consolidate</color>
+ForgeEffect_内力百分比增加2,<#EFD09F>Consolidate</color>
+ForgeEffect_内力百分比增加3,<#EFD09F>Consolidate</color>
+ForgeEffect_攻击增加1,<#EFD09F>Attack</color>
+ForgeEffect_攻击增加2,<#EFD09F>Attack</color>
+ForgeEffect_攻击增加3,<#EFD09F>Attack</color>
+ForgeEffect_攻击增加4,<#EFD09F>Attack</color>
+ForgeEffect_攻击增加5,<#EFD09F>Attack</color>
+ForgeEffect_攻击增加6,<#EFD09F>Attack</color>
+ForgeEffect_攻击增加7,<#EFD09F>Attack</color>
+ForgeEffect_攻击增加8,<#EFD09F>Attack</color>
+ForgeEffect_攻击增加9,<#EFD09F>Attack</color>
+ForgeEffect_攻击增加10,<#EFD09F>Attack</color>
+ForgeEffect_攻击增加11,<#EFD09F>Attack</color>
+ForgeEffect_攻击增加12,<#EFD09F>Attack</color>
+ForgeEffect_攻击增加13,<#EFD09F>Attack</color>
+ForgeEffect_防御增加1,<#EFD09F>Defense</color>
+ForgeEffect_防御增加2,<#EFD09F>Defense</color>
+ForgeEffect_防御增加3,<#EFD09F>Defense</color>
+ForgeEffect_防御增加4,<#EFD09F>Defense</color>
+ForgeEffect_防御增加5,<#EFD09F>Defense</color>
+ForgeEffect_防御增加6,<#EFD09F>Defense</color>
+ForgeEffect_防御百分比增加蓝,
+ForgeEffect_防御百分比增加紫,
+ForgeEffect_防御百分比增加黄,<#EFD09F>Iron Bone</color>,<#EFD09F>กระดูกเหล็ก</color>
+ForgeEffect_轻功增加1,<#EFD09F>Swift Swallow</color>
+ForgeEffect_轻功增加2,<#EFD09F>Swift Swallow</color>
+ForgeEffect_轻功增加3,<#EFD09F>Swift Swallow</color>
+ForgeEffect_轻功增加4,<#EFD09F>Swift Swallow</color>
+ForgeEffect_轻功减少1,<#EFD09F>Bound Feet</color>
+ForgeEffect_轻功减少2,<#EFD09F>Bound Feet</color>
+ForgeEffect_轻功减少3,<#EFD09F>Bound Feet</color>
+ForgeEffect_轻功减少4,<#EFD09F>Bound Feet</color>
+ForgeEffect_集气速度增加1,<#EFD09F>Divine Movement</color>
+ForgeEffect_集气速度增加2,<#EFD09F>Divine Movement</color>
+ForgeEffect_集气速度增加3,<#EFD09F>Divine Movement</color>
+ForgeEffect_集气速度减少1,<#EFD09F>Slow</color>
+ForgeEffect_集气速度减少2,<#EFD09F>Slow</color>
+ForgeEffect_集气速度减少3,<#EFD09F>Slow</color>
+ForgeEffect_命中增加1,<#EFD09F>See Through</color>
+ForgeEffect_命中增加2,<#EFD09F>See Through</color>
+ForgeEffect_命中增加3,<#EFD09F>See Through</color>
+ForgeEffect_命中增加4,<#EFD09F>See Through</color>
+ForgeEffect_命中增加5,<#EFD09F>See Through</color>
+ForgeEffect_命中减少1,
+ForgeEffect_命中减少2,
+ForgeEffect_命中减少3,
+ForgeEffect_命中减少4,
+ForgeEffect_闪避增加1,<#EFD09F>Elusive</color>
+ForgeEffect_闪避增加2,<#EFD09F>Elusive</color>
+ForgeEffect_闪避增加3,<#EFD09F>Elusive</color>
+ForgeEffect_闪避增加4,<#EFD09F>Elusive</color>
+ForgeEffect_闪避增加5,<#EFD09F>Elusive</color>
+ForgeEffect_闪避减少1,
+ForgeEffect_闪避减少2,
+ForgeEffect_闪避减少3,
+ForgeEffect_暴击增加1,<#EFD09F>Effort</color>
+ForgeEffect_暴击增加2,<#EFD09F>Effort</color>
+ForgeEffect_暴击增加3,<#EFD09F>Effort</color>
+ForgeEffect_暴击增加4,<#EFD09F>Effort</color>
+ForgeEffect_暴击增加5,<#EFD09F>Effort</color>
+ForgeEffect_暴击减少1,<#EFD09F>Disperse</color>
+ForgeEffect_暴击减少2,<#EFD09F>Disperse</color>
+ForgeEffect_暴击减少3,<#EFD09F>Disperse</color>
+ForgeEffect_暴击减少4,<#EFD09F>Disperse</color>
+ForgeEffect_暴击减少5,<#EFD09F>Disperse</color>
+ForgeEffect_格挡增加1,<#EFD09F>Hold Fast</color>
+ForgeEffect_格挡增加2,<#EFD09F>Hold Fast</color>
+ForgeEffect_格挡增加3,<#EFD09F>Hold Fast</color>
+ForgeEffect_格挡增加4,<#EFD09F>Hold Fast</color>
+ForgeEffect_格挡增加5,<#EFD09F>Hold Fast</color>
+ForgeEffect_格挡减少1,<#EFD09F>Lost Mind</color>
+ForgeEffect_格挡减少2,<#EFD09F>Lost Mind</color>
+ForgeEffect_格挡减少3,<#EFD09F>Lost Mind</color>
+ForgeEffect_格挡减少4,<#EFD09F>Lost Mind</color>
+ForgeEffect_格挡减少5,<#EFD09F>Lost Mind</color>
+ForgeEffect_医术增加1,<#EFD09F>Skilled Hand</color>
+ForgeEffect_医术增加2,<#EFD09F>Skilled Hand</color>
+ForgeEffect_医术增加3,<#EFD09F>Skilled Hand</color>
+ForgeEffect_医术增加4,<#EFD09F>Skilled Hand</color>
+ForgeEffect_医术增加5,<#EFD09F>Skilled Hand</color>
+ForgeEffect_医术增加6,<#EFD09F>Skilled Hand</color>
+ForgeEffect_医术百分比增加蓝,
+ForgeEffect_医术百分比增加紫,
+ForgeEffect_医术百分比增加黄,
+ForgeEffect_毒术增加1,<#EFD09F>Red Refinement</color>
+ForgeEffect_毒术增加2,<#EFD09F>Red Refinement</color>
+ForgeEffect_毒术增加3,<#EFD09F>Red Refinement</color>
+ForgeEffect_毒术增加4,<#EFD09F>Red Refinement</color>
+ForgeEffect_毒术增加5,<#EFD09F>Red Refinement</color>
+ForgeEffect_毒术增加6,<#EFD09F>Red Refinement</color>
+ForgeEffect_毒术百分比增加蓝,
+ForgeEffect_毒术百分比增加紫,
+ForgeEffect_毒术百分比增加黄,
+ForgeEffect_战斗移动增加1,<#EFD09F>Speed Up</color>
+ForgeEffect_战斗移动增加2,<#EFD09F>Speed Up</color>
+ForgeEffect_战斗移动增加3,<#EFD09F>Speed Up</color>
+ForgeEffect_战斗移动减少1,<#EFD09F>Heavy Load</color>
+ForgeEffect_战斗移动减少2,<#EFD09F>Heavy Load</color>
+ForgeEffect_战斗移动减少3,<#EFD09F>Heavy Load</color>
+ForgeEffect_连击增加1,<#EFD09F>Wave Stacking</color>
+ForgeEffect_连击增加2,<#EFD09F>Wave Stacking</color>
+ForgeEffect_连击增加3,<#EFD09F>Wave Stacking</color>
+ForgeEffect_连击增加4,<#EFD09F>Wave Stacking</color>
+ForgeEffect_连击增加5,<#EFD09F>Wave Stacking</color>
+ForgeEffect_寒铁拳套1,<#EFD09F>Chasing</color>
+ForgeEffect_昆仑1,
+ForgeEffect_昆仑2,
+ForgeEffect_降龙1,
+ForgeEffect_降龙2,
+ForgeEffect_乾坤1,
+ForgeEffect_乾坤2,
+ForgeEffect_开明1,
+ForgeEffect_开明2,
+ForgeEffect_少昊1,
+ForgeEffect_少昊2,
+ForgeEffect_北冥1,
+ForgeEffect_北冥2,
+ForgeEffect_倚天剑1,<#EFD09F>Dazzling</color>
+ForgeEffect_干将1,<#EFD09F>Bloodlust</color>
+ForgeEffect_干将2,<#EFD09F>Open Wound</color>
+ForgeEffect_轩辕1,<#EFD09F>Chasing</color>
+ForgeEffect_轩辕2,<#EFD09F>Cut Tendon</color>
+ForgeEffect_太乙刀1,<#EFD09F>Bloodlust</color>
+BuffPropPair_寒铁拳套1,"When performing a Side attack on the enemy, your own Combo increases by <#29F161>{寒铁拳套1多效果1%}</color>."
+BuffPropPair_昆仑1,
+BuffPropPair_昆仑2,
+BuffPropPair_降龙1,
+BuffPropPair_降龙2,
+BuffPropPair_乾坤1,
+BuffPropPair_乾坤2,
+BuffPropPair_开明1,
+BuffPropPair_开明2,
+BuffPropPair_少昊1,
+BuffPropPair_少昊2,
+BuffPropPair_北冥1,
+BuffPropPair_北冥2,
+BuffPropPair_倚天剑1,"When attacking, inflict <#FE2929>{倚天剑1多效果1} points of Blinded</color> on the enemy."
+BuffPropPair_干将1,"When attacking the enemy, you gain an additional <#29F161>{干将1多效果1} points of Spirit</color>."
+BuffPropPair_干将2,"When attacking, inflict <#FE2929>{干将2多效果1} points of Bleeding</color> on the enemy."
+BuffPropPair_轩辕1,"When performing a Side attack on the enemy, your own Combo increases by <#29F161>{轩辕1多效果1%}</color>."
+BuffPropPair_轩辕2,"When performing a Side attack on the enemy, there is a {轩辕2多效果1%} chance to trigger the <#FE2929>Cut tendon</color> effect on them【<#F3DE99>Cut tendon: Movement Range reduced by 3 squares</color>】."
+BuffPropPair_太乙刀1,"When attacking the enemy, you gain an additional <#29F161>{太乙刀1多效果1} points of Spirit</color>."
