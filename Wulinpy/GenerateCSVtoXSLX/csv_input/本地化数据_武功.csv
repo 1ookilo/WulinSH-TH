@@ -277,7 +277,7 @@ KunfuName_奔雷掌法,Quick Palm
 KunfuName_朱砂掌法,Cinnabar Palm
 KunfuName_连环掌,Continuous Palm
 KunfuName_黑虎拳,Black Tiger Fist,หมัดพยัคฆ์กาฬ
-KunfuName_雷云掌,Thundercloud Palm
+KunfuName_雷云掌,Thundercloud Palm,ฝ่ามือเมฆาอัสนี
 KunfuName_封穴手,Meridian Sealing Hand,หัตถ์ผนึกชีพจร
 KunfuName_广袖流云,Drifting Cloud
 KunfuName_飞花指,Flying Flower Finger
@@ -329,7 +329,7 @@ KunfuName_万民掌,People's Palm
 KunfuName_地趟刀法,Earth Blade
 KunfuName_伏虎刀法,Tiger Taming Blade
 KunfuName_三才刀法,Trinity Blade
-KunfuName_疾风斩,Wind Blade
+KunfuName_疾风斩,Wind Blade,ดาบวายุ
 KunfuName_开山刀法,Mountain Clear Blade
 KunfuName_荡寇刀法,Bandit Killer Blade
 KunfuName_疾风八斩法,Octagonal Wind Blade
@@ -345,7 +345,7 @@ KunfuName_修罗刀法,Shura Blade,ดาบอสุรา
 KunfuName_破甲刀法,Armor Breaker Blade
 KunfuName_剔骨刀法,Bone Cleaver Blade
 KunfuName_柴刀刀法,Lumbering Blade
-KunfuName_雁行刀法,Wild Goose Blade
+KunfuName_雁行刀法,Wild Goose Blade,ดาบห่านป่า
 KunfuName_霹雳刀法,Thunder Blade
 KunfuName_破军刀法,Ruinous Star Blade
 KunfuName_独狼刀法,Cruel Wolf Blade
@@ -364,8 +364,8 @@ KunfuName_一刀斩,One Blade
 KunfuName_天魔刀法,Archdemon Blade,เพลงดาบมารฟ้า
 KunfuName_吞鲸刀法,Devouring Blade
 KunfuName_鬼轮斩,Demonic Circle Blade
-KunfuName_回风剑法,Wind Reversal Sword
-KunfuName_九宫剑法,Nine Diagrams Sword
+KunfuName_回风剑法,Wind Reversal Sword,กระบี่ลมหวน
+KunfuName_九宫剑法,Nine Diagrams Sword,กระบี่เก้าวัง
 KunfuName_七星剑法,Seven Stars Sword,เพลงกระบี่เจ็ดดาว
 KunfuName_浣纱剑法,Huansha Sword,กระบี่ล่าสังหาร
 KunfuName_莲花妙剑,Lotus Flower Sword
@@ -388,16 +388,16 @@ KunfuName_凌尘剑法,Mortal Sword
 KunfuName_岁寒三友,Three Friends of Winter
 KunfuName_炎霜剑法,Burning Mist Sword
 KunfuName_忘忧剑法,Forgotten Sword
-KunfuName_星月剑法,Moon Star Sword
-KunfuName_素女剑法,Pure Maiden Sword
+KunfuName_星月剑法,Moon Star Sword,กระบี่จันทร์ดารา
+KunfuName_素女剑法,Pure Maiden Sword,กระบี่ดรุณี
 KunfuName_贪生剑法,Survival Sword
 KunfuName_无锋剑法,Windless Sword
-KunfuName_求败九式,Dugu Nine Swords
+KunfuName_求败九式,Dugu Nine Swords,เก้ากระบี่เดียวดาย
 KunfuName_破天剑法,Sky Breaker Sword
 KunfuName_磐龙剑法,Dragon Sword
 KunfuName_无极剑法,Infinity Sword
-KunfuName_无名剑法,Nameless Sword
-KunfuName_浮华掠影剑,Illusion Sword
+KunfuName_无名剑法,Nameless Sword,กระบี่ไร้นาม
+KunfuName_浮华掠影剑,Illusion Sword,กระบี่เงาลวง
 KunfuName_恶煞枪法,Evil Spear
 KunfuName_腐尸枪法,Rotting Spear
 KunfuName_雷霆枪法,Thunder Spear
@@ -409,7 +409,7 @@ KunfuName_中平枪法,Middle Stance Spear
 KunfuName_霸王枪法,Emperor Spear
 KunfuName_黄泉引路枪,Death Bringer Spear
 KunfuName_七杀枪法,Power Star Spear
-KunfuName_叶家枪法,Ye Family Spear
+KunfuName_叶家枪法,Ye Family Spear,เพลงหอกสกุลเย่
 KunfuName_飞龙枪法,Wyvern Spear
 KunfuName_虎啸穿云枪,Tiger Howl Spear
 KunfuName_梨花枪法,Pear Blossom Spear,หอกหลีฮวา
@@ -460,7 +460,7 @@ KunfuName_蝶恋花,Flirting Butterfly
 KunfuName_锥心刺,Heart Piercer
 KunfuName_灵蛇刺,Spirit Snake
 KunfuName_追风短打,Wind Chaser
-KunfuName_破空梭,Wind Breaker,คลื่นวายุ
+KunfuName_破空梭,Wind Breaker,ผ่าวายุ
 KunfuName_疾风刺,Wind Stab
 KunfuName_云龙三现,Cloud Dragon Three Strikes
 KunfuName_银蛇流光,Silver Snake Mirage
@@ -518,21 +518,21 @@ KunfuName_金匮要略,Golden Manual
 KunfuName_调息法,Breathing Technique
 KunfuName_冰魄功,Ice Spirit Move
 KunfuName_拳掌要诀,Fist Mastery,เชี่ยวชาญหมัดมวย
-KunfuName_剑法典籍,Sword Mastery
-KunfuName_刀术秘卷,Blade Mastery
-KunfuName_长兵纪要,Long Weapon Mastery
-KunfuName_短兵汇编,Short Weapon Mastery
-KunfuName_乐谱精粹,Musical Mastery
+KunfuName_剑法典籍,Sword Mastery,เชี่ยวชาญกระบี่
+KunfuName_刀术秘卷,Blade Mastery,เชี่ยวชาญดาบ
+KunfuName_长兵纪要,Long Weapon Mastery,ชำนาญอาวุธยาว
+KunfuName_短兵汇编,Short Weapon Mastery,ชำนาญอาวุธสั้น
+KunfuName_乐谱精粹,Musical Mastery,เชี่ยวชาญดนตรี
 KunfuName_儒雅风流,Elegant Romanticist
 KunfuName_吐故纳新术,Embrace The Future
 KunfuName_混元劲,Origin Technique
 KunfuName_胎息功,Fetal Breathing Guide
 KunfuName_五禽戏,Five Animal Forms
-KunfuName_破甲劲,Armor Breaker Move
-KunfuName_凌波诀,Wave Rider Technique
-KunfuName_回春术,Revitalization Technique
+KunfuName_破甲劲,Armor Breaker Move,วิชาทลายเกราะ
+KunfuName_凌波诀,Wave Rider Technique,วิชาท่องคลื่น
+KunfuName_回春术,Revitalization Technique,วิชาฟื้นฟู
 KunfuName_捕风诀,Wind Walker Manual
-KunfuName_叶家心法,Ye Family Technique
+KunfuName_叶家心法,Ye Family Technique,เคล็ดวิชาสกุลเย่
 KunfuName_雾隐术,Hidden Mist Skill
 KunfuName_多情诀,Passionate Manual
 KunfuName_铁浮屠,Levitational Steel
@@ -600,46 +600,46 @@ KunfuName_黄帝阴符经,Emperor Yin Yang Sutra
 先天属性_罗汉拳法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
 先天属性_一指禅,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
 先天属性_逍遥拳法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
-先天属性_奔雷掌法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_奔雷掌法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องตัว</color>
 先天属性_朱砂掌法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
-先天属性_连环掌,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_连环掌,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องตัว</color>
 先天属性_黑虎拳,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
-先天属性_雷云掌,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
-先天属性_封穴手,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
-先天属性_广袖流云,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
-先天属性_飞花指,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_雷云掌,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องตัว</color>
+先天属性_封穴手,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องตัว</color>
+先天属性_广袖流云,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องตัว</color>
+先天属性_飞花指,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องตัว</color>
 先天属性_玲珑掌,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
 先天属性_菩提掌,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
-先天属性_花拳绣腿,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_花拳绣腿,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องตัว</color>
 先天属性_五行拳,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
-先天属性_七巧如意手,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_七巧如意手,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องตัว</color>
 先天属性_迷魂毒掌,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
-先天属性_秋风掌法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
-先天属性_空空拳法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_秋风掌法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องตัว</color>
+先天属性_空空拳法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องตัว</color>
 先天属性_寒魄冰心掌,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
 先天属性_清心玉女掌,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
 先天属性_大力金刚掌,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
-先天属性_凌空点穴手,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
-先天属性_灵蛇缠丝掌,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
-先天属性_伤情别离掌,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_凌空点穴手,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องตัว</color>
+先天属性_灵蛇缠丝掌,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องตัว</color>
+先天属性_伤情别离掌,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องตัว</color>
 先天属性_降龙伏虎拳,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
-先天属性_玄阴化骨手,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_玄阴化骨手,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องตัว</color>
 先天属性_太极拳,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
-先天属性_五毒掌,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_五毒掌,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องตัว</color>
 先天属性_破空拳,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
 先天属性_醉仙拳,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
-先天属性_断魂爪,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_断魂爪,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องตัว</color>
 先天属性_般若掌,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
-先天属性_幻灭指,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
-先天属性_碧落黄泉,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_幻灭指,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องตัว</color>
+先天属性_碧落黄泉,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องตัว</color>
 先天属性_破庙拳法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
 先天属性_断情掌,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
 先天属性_通天手,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
-先天属性_碎玉掌,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_碎玉掌,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องตัว</color>
 先天属性_四相掌,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
 先天属性_野球拳,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
 先天属性_开山掌,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
-先天属性_玄天指,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_玄天指,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องตัว</color>
 先天属性_降霜拳法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
 先天属性_悲欢指法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
 先天属性_撼天指法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
@@ -1413,7 +1413,7 @@ KungfuMove_招式一指乾坤,One Finger Heaven and Earth,หนึ่งดร�
 KungfuMove_招式佛动山河,Buddha Moves Mountains,พระโพธิสัตว์ย้ายขุนเขา
 KungfuMove_招式佛光普照,Buddha's Light Shines Everywhere
 KungfuMove_招式分金裂石,Splitting Gold and Breaking Stones
-KungfuMove_招式动如雷霆,Mighty as the Thunder,ว่องไวดุจผีพราย 
+KungfuMove_招式动如雷霆,Mighty as the Thunder,รวดเร็วดุจอัสนี
 KungfuMove_招式山河裂变,Mountain and River Transformation
 KungfuMove_招式破天碎地,Breaking the Sky and Shattering the Earth
 KungfuMove_招式龙翔在天,Dragon Soaring in the Sky

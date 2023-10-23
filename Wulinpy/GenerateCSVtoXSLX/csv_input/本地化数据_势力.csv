@@ -4,9 +4,9 @@ FactionType_2,Village
 FactionType_3,Faction
 FactionElimated,%s%<color=#c44b0e>{0}</color> has been removed from the martial arts world!
 FactionFame_仇恨,Hatred
-FactionFame_对立,Opposition
+FactionFame_对立,Opposition,ปรปักษ์
 FactionFame_冷淡,Cold
-FactionFame_中立,Neutral
+FactionFame_中立,Neutral,เป็นกลาง
 FactionFame_友善,Friendly
 FactionFame_信赖,Trust
 FactionFame_钦佩,Admire
@@ -23,17 +23,17 @@ FactionName_剧情势力,Plot Forces
 FactionName_自由势力,Free Forces
 FactionName_剧情势力灭门归属,
 FactionName_苗彩蝶个人势力,
-FactionName_霖安城虚拟势力,Lin'an City
+FactionName_霖安城虚拟势力,Lin'an City,เมืองหลินอัน
 FactionName_楚襄城虚拟势力,Chuxiang City,เมืองฉู่เซียง
 FactionName_大梁城虚拟势力,Daliang City
 FactionName_上京城,Shangjing City
-FactionName_霖安城,Lin'an City
+FactionName_霖安城,Lin'an City,เมืองหลินอัน
 FactionName_霖安驿站,Lin'an Post Station
-FactionName_霖安客栈,Lin'an Inn
-FactionName_霖安铁匠铺,Lin'an Blacksmith's forge
+FactionName_霖安客栈,Lin'an Inn,โรงเตี๊ยมหลินอัน
+FactionName_霖安铁匠铺,Lin'an Blacksmith's forge,โรงตีเหล็กหลินอัน
 FactionName_霖安当铺,Lin'an Pawnshop
 FactionName_霖安珍品阁,Lin'an Exquisite Pavilion
-FactionName_霖安武馆,Lin'an Dojo
+FactionName_霖安武馆,Lin'an Dojo,โรงฝึกหลินอัน
 FactionName_霖安医馆,Lin'an Medical Hall
 FactionName_霖安杂货铺,Lin'an Grocery store
 FactionName_霖安成衣铺,Lin'an Clothing Shop
@@ -47,23 +47,23 @@ FactionName_芙蓉城,Furong City
 FactionName_云滇城,Yundian City
 FactionName_楼兰城,Loulan City
 FactionName_皇城司,Imperial City Department
-FactionName_儒圣馆,Confucius Temple
-FactionName_道玄宗,Taoist Sect
+FactionName_儒圣馆,Confucius Temple,วัดขงจื้อ
+FactionName_道玄宗,Taoist Sect,วัดขงจื้อ
 FactionName_释法寺,Shifa Temple
-FactionName_九流门,Nine Factions Sect
+FactionName_九流门,Nine Factions Sect,นิกายเก้าฝ่าย
 FactionName_妙音坊,Melody House
 FactionName_蚍蜉城,Dragonfly City
-FactionName_圣火宗,Holy Fire Sect
+FactionName_圣火宗,Holy Fire Sect,นิกายเพลิงศักด์สิทธิ์
 FactionName_藏剑山庄,Hidden Sword Manor
-FactionName_九黎部落,Jiuli Tribe
+FactionName_九黎部落,Jiuli Tribe,เผ่าจิ่วลี่
 FactionName_九江水寨,Jiujiang Water Camp
-FactionName_琳琅馆,Linlang Temple
-FactionName_叶家军,Ye Family Battalion
+FactionName_琳琅馆,Linlang Temple,วัดหลินหลาง
+FactionName_叶家军,Ye Family Battalion,กองพันตระกูลเย่
 FactionName_柴王阁,Chaiwang Pavilion
-FactionName_本草门,Plant Sect
+FactionName_本草门,Plant Sect,สำนักพงไพร
 FactionName_望东门,Wangdong Gate
-FactionName_万兽山庄,Ten Thousand Beast Manor
-FactionName_万安镖局,Wanan Escort Agency
+FactionName_万兽山庄,Ten Thousand Beast Manor,หมู่ตึกหมื่นอสูร
+FactionName_万安镖局,Wanan Escort Agency,สำนักคุ้มภัยหว่านอัน
 FactionName_夜摩坊,Night Demon Square
 FactionName_大漠鬼门,Desert Ghost Gate
 FactionName_刀马堂,Knife Horse Hall
@@ -71,18 +71,18 @@ FactionName_冷皮帮,Cold Skin Gang
 FactionName_铁浮屠,Levitational Steel
 FactionName_白云观,White Cloud Temple
 FactionName_六和塔,Six Harmony Tower
-FactionName_流民营,Refugee Camp
-FactionName_大王寨,Bandit Camp
+FactionName_流民营,Refugee Camp,ค่ายผู้ลี้ภัย
+FactionName_大王寨,Bandit Camp,ค่ายโจร
 FactionName_姑苏遗址,Gusu Ruins
 FactionName_朔方古迹,Ancient Ruin of Shoufang
 FactionName_新宋朝廷,New Song Dynasty Court
-FactionName_燕子窝,Nest of Swallow
-FactionName_燕云铁军,Yan Yun Iron Army
+FactionName_燕子窝,Nest of Swallow,รังนกนางแอ่น
+FactionName_燕云铁军,Yan Yun Iron Army,กองทัพเหล็กหยานหยู
 FactionName_风闻台,Wind News Platform
 FactionName_将军府,General's mansion
 FactionName_康王府,Duke Kang's manor
 FactionName_齐王府,Duke Ji's manor
-FactionName_神捕门,Crime Investigation Bureau
+FactionName_神捕门,Crime Investigation Bureau,สำนักสืบสวน
 FactionName_摸金门,Tomb Raider Sect
 FactionName_沙门岛,Shamen Island
 FactionName_天鹫宫,Tianjiu Palace
@@ -103,11 +103,11 @@ FactionName_无双宗,Unparalleled Sect
 FactionName_天道帮,Heavenly Dao Gang
 FactionName_保国会,National Protection Association
 FactionName_富贵门,Rich and Noble Gate
-FactionName_花丛派,Flower Sect
-FactionName_无名小村,Nameless village
+FactionName_花丛派,Flower Sect,สำนักบุปผา
+FactionName_无名小村,Nameless village,หมู่บ้านไร้นาม
 FactionName_青风寨,Blue Wind Camp,ค่ายวายุคราม
 FactionName_迷踪林,Lost Forest,ป่าสาปสูญ
-FactionName_野狼谷,Wild Wolf Valley
+FactionName_野狼谷,Wild Wolf Valley,หุบเขาหมาป่า
 FactionName_顺达镖局,Shunda Escort Agency
 FactionName_地下迷宫,Gusu Ruins
 FactionName_琅琊剑阁后山,
@@ -278,7 +278,7 @@ FactionLeader_10,Money
 FactionLeader_11,How much sincerity do you want to show to make friends with us?
 FactionLeader_12,Manual
 FactionLeader_13,Equipment,ของสวมใส่
-FactionLeader_14,Treasures
+FactionLeader_14,Treasures,สมบัติ
 FactionLeader_15,Think again
 FactionLeader_16,……
 FactionLeader_17,"With you, our future is promising!|{PlayerName} has been diligent recently, good job.|{PlayerName} is making rapid progress, well done."

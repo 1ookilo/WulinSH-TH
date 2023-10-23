@@ -100,7 +100,7 @@ BH_Title_5800015,Collect Medicine,รวบรวมยา
 BH_Title_5800016,Collect Herb,รวบรวมสมุนไพร
 BH_Title_5800017,Collect Bug,รวบรวมแมลง
 BH_Title_5800018,Collect Toxic,รวบรวมพิษ
-BH_Title_5800019,Collect Weapon,รวบรวอาวุธ
+BH_Title_5800019,Collect Weapon,รวบรวมอาวุธ
 BH_Title_5800020,Collect Armor,รวบรวมชุดเกราะ
 BH_Title_5800021,Collect Throwing,รวบรวมอาวูลับ
 BH_Title_5800022,Collect Food,รวบรวมอาหาร
@@ -179,7 +179,7 @@ BH_Title_40000027,Collect Bug
 BH_Title_40000028,Collect Toxic
 BH_Title_40000029,Collect Toy
 BH_Title_40000030,Collect Ornament
-BH_Title_40000031,Collect Weapon
+BH_Title_40000031,Collect Weapon,รวบรวมอาวุธ
 BH_Title_40000032,Collect Armor
 BH_Title_40000033,Collect Food
 BH_Title_40000034,Collect Side
@@ -194,7 +194,7 @@ BH_Title_40000042,Collect Bug
 BH_Title_40000043,Collect Toxic
 BH_Title_40000044,Collect Toy
 BH_Title_40000045,Collect Ornament
-BH_Title_40000046,Collect Weapon
+BH_Title_40000046,Collect Weapon,รวบรวมอาวุธ
 BH_Title_40000047,Collect Armor
 BH_Title_40000048,Collect Food
 BH_Title_40000049,Collect Side
@@ -209,7 +209,7 @@ BH_Title_40000057,Collect Bug
 BH_Title_40000058,Collect Toxic
 BH_Title_40000059,Collect Toy
 BH_Title_40000060,Collect Ornament
-BH_Title_20000001,Collect Weapon
+BH_Title_20000001,Collect Weapon,รวบรวมอาวุธ
 BH_Title_20000002,Collect Armor
 BH_Title_20000003,Collect Food
 BH_Title_20000004,Collect Side
@@ -224,7 +224,7 @@ BH_Title_20000012,Collect Bug
 BH_Title_20000013,Collect Toxic
 BH_Title_20000014,Collect Toy
 BH_Title_20000015,Collect Ornament
-BH_Title_20000016,Collect Weapon
+BH_Title_20000016,Collect Weapon,รวบรวมอาวุธ
 BH_Title_20000017,Collect Armor
 BH_Title_20000018,Collect Food
 BH_Title_20000019,Collect Side
@@ -239,7 +239,7 @@ BH_Title_20000027,Collect Bug
 BH_Title_20000028,Collect Toxic
 BH_Title_20000029,Collect Toy
 BH_Title_20000030,Collect Ornament
-BH_Title_20000031,Collect Weapon
+BH_Title_20000031,Collect Weapon,รวบรวมอาวุธ
 BH_Title_20000032,Collect Armor
 BH_Title_20000033,Collect Food
 BH_Title_20000034,Collect Side
@@ -254,7 +254,7 @@ BH_Title_20000042,Collect Bug
 BH_Title_20000043,Collect Toxic
 BH_Title_20000044,Collect Toy
 BH_Title_20000045,Collect Ornament
-BH_Title_20000046,Collect Weapon
+BH_Title_20000046,Collect Weapon,รวบรวมอาวุธ
 BH_Title_20000047,Collect Armor
 BH_Title_20000048,Collect Food
 BH_Title_20000049,Collect Side
@@ -272,7 +272,7 @@ BH_Title_20000060,Collect Ornament
 BH_Title_20000061,Sanction Horse King Cave
 BH_Title_20000062,Sanction Horse King Cave
 BH_Title_20000063,Sanction Horse King
-BH_Title_7100001,Collect Weapon
+BH_Title_7100001,Collect Weapon,รวบรวมอาวุธ
 BH_Title_7100002,Collect Armor
 BH_Title_7100003,Collect Fruit
 BH_Title_7100004,Collect Medicine,รวบรวมยา
@@ -281,7 +281,7 @@ BH_Title_7100006,Collect Ore
 BH_Title_7100007,Collect Wood
 BH_Title_7100008,Collect Herb,รวบรวมสมุนไพร
 BH_Title_7100009,Collect Ornament
-BH_Title_7100010,Collect Weapon
+BH_Title_7100010,Collect Weapon,รวบรวมอาวุธ
 BH_Title_7100011,Collect Armor
 BH_Title_7100012,Collect Fruit
 BH_Title_7100013,Collect Medicine,รวบรวมยา
@@ -290,7 +290,7 @@ BH_Title_7100015,Collect Ore
 BH_Title_7100016,Collect Wood
 BH_Title_7100017,Collect Herb,รวบรวมสมุนไพร
 BH_Title_7100018,Collect Ornament
-BH_Title_7100019,Collect Weapon
+BH_Title_7100019,Collect Weapon,รวบรวมอาวุธ
 BH_Title_7100020,Collect Armor
 BH_Title_7100021,Collect Fruit
 BH_Title_7100022,Collect Medicine,รวบรวมยา
@@ -656,9 +656,9 @@ BH_Title_6500033,Punish the Ringleader
 BH_Title_6500034,Punish the Ringleader
 BH_Title_7100040,Mine Ore
 BH_Title_7100041,Mine Ore
-BH_Title_7100042,Forge Weapon
+BH_Title_7100042,Forge Weapon,หลอมอาวุธ
 BH_Title_7100043,Mine Ore
-BH_Title_7100044,Forge Weapon
+BH_Title_7100044,Forge Weapon,หลอมอาวุธ
 BH_Title_5800053,Xiyu treasure
 BH_Title_5800054,Borrow Ornament
 BH_Desc_1010016,"Many brothers in the stronghold have been attacked by wild wolves. We can't let our brothers bleed in vain, we must make these evil wolves pay!"

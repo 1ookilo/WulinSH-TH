@@ -32,7 +32,7 @@ AchievementName_20,Dexterous Hands
 AchievementName_21,Eye for Details
 AchievementName_22,Survival Expert
 AchievementName_23,Scoundrel's Way
-AchievementName_24,Weapon Master
+AchievementName_24,Weapon Master,ปรมาจาย์อาวุธ
 AchievementName_25,Cowardice,ความขลาดเขลา
 AchievementName_26,The Saint,วิญญูชน
 AchievementName_27,The Devil,มารร้าย
@@ -91,7 +91,7 @@ AchievementName_79,Level 70
 AchievementName_80,Level 80
 AchievementName_81,Level 90
 AchievementName_82,Grand Master
-AchievementName_83,Recognized
+AchievementName_83,Recognized,เป็นที่ยอมรับ
 AchievementName_84,Well-known
 AchievementName_85,Reputable
 AchievementName_86,Rising Star

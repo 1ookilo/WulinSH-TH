@@ -1,6 +1,6 @@
 ﻿﻿UI_InstantKill,Instant death,เสียชีวิตทันที
 UI_NoRole,Empty slot,ว่าง
-UI_MyRole,Party,ปารตี้
+UI_MyRole,Party,กลุ่ม
 UI_Character,Character,ตัวละคร
 UI_Item,Item,ไอเทม
 UI_Kungfu,Martial Arts,วรยุทธ
@@ -27,8 +27,8 @@ RestoreRelationTab_Faction,Martial world grudges,ความแค้นใน�
 RestoreRelationTab_Person,Personal grudges,ความแค้นส่วนตัว
 RestoreRelation_NoFaction,The young hero is well-connected in the martial world and has no grudges with any factions.,จอมยุทธน้อยมีความสัมพันธ์อันดีในยุทธภพ และไร้ซึ่งความแค้นกับพรรคฝ่ายใด
 RestoreRelation_NoPerson,"The young hero is well-connected in the martial arts world, without any grudges or debts to anyone",จอมยุทธน้อยมีความสัมพันธ์อันดีในยุทธภพ และไร้ซึ่งความแค้นกับผู้ใด
-UIShortcutItemsSetting_Tip,Six types of Medicine and ThrowingItem can be set for quick use in battle
-UIShortcutItemsSetting_Entry,Quick settings,ตั้งค่ารวดเร็ว
+UIShortcutItemsSetting_Tip,Six types of Medicine and ThrowingItem can be set for quick use in battle,สามารถติดตั้งยาและอาวุธลับได้หกชนิด เพื่อใช้ในการต่อสู้ได้อย่างรวดเร็ว
+UIShortcutItemsSetting_Entry,Quick settings,ตั้งค่าด่วน
 UIShortcusItemsSetting_QuickSelect,Select all,เลือกทั้งหมด
 UIShortcusItemsSetting_Save,Save,บันทึก
 Authenticate_SelectTip,Select the number of items to Appraise,เลือกจำนวนสิ่งของที่จะตรวจสอบ
@@ -38,7 +38,7 @@ Authenticate_NoItem,The young hero has nothing to Appraise,จอมยุทธ
 Authenticate_ConfirmButton,Appraise,ตรวจสอบ
 Authenticate_AvailableTitle,Items that can be Appraised,สิ่งของที่สามารถตรวจสอบได้
 Authenticate_ResultTitle,Appraise results,ผลการตรวจสอบ
-ThankList,Production list,รายชื่อการผลิต
+ThankList,Production list,รายชื่อผู้พัฒนา
 UIThankList_Developers_Title,————Development Team————
 UIThankList_SpecialThanks_Content,"Ninety-nine Chongyang\nMatchmaker·Mo Xiaoxi\nShui Yun Haomiao\nYe Qi\nOvercoming Hardship\nl\nAmoeba\nsyy\nCasual\nDong Jun (\nGrow again\nXu You\nMao Yi Jun\nTian Xiaoluo\nyelan\nSummer without rain\nBelly\nNan Orange and Autumn Glow\nAh Zhao Zhao Zhao\nLiang Yi Ryo\nSilly and smooth\nヾ(*´∀｀*)5678iu67Iﾉだよ\nGroot\nAbove river playing flute_\nSuccessor.\nPulling silently\nGoku's dog\nXu Xu\nPurple sister thousand pieces\nAbout to become wood\nPoint\nNew bubble peak pudding cloud dragon\nChang Wuxin\nJoe\nUpright puppet\nOriginally thought\nDuan Wu\ntlovez\nAo Tian\nThe sound of the waves remains\nNai Lin loves you\nAngel LuvSic.\nRyukyu's sorrowful flower\nWoody\nGradually going far, gradually no book\nGolden man jade\nLook at me burning up\nAgan\nAh sigh\nYoung hero Wang Pingzhi\nblank\nCstloH\nDumb\nGentle.\nDrooling star\nOP\nChips Ahoy\nLittle star\nSecond hand\nAmiz\nL\nAttract wealth\nHorse fart park\nChen Ziyou\nKei\nCat head crazy rub\nSon Xuan\nSupport Xiao Bai\nSelling Soy milk at the bridge of regret\nThree gold\nStupid worry"
 制作人,Producer
@@ -70,8 +70,8 @@ UI&图标_Content,Zhang Shaojie
 UIThankList_EndTip,"""Hero's Adventure"" is now officially on sale on the Steam platform.\nThank you to all the young heroes who have been following ""Hero's Adventure"". Your support and love have helped the team to persevere.\nA journey of a thousand miles begins with a single step. ""Hero"" has just taken its first step, and there is a long way to go in the future. We will not let you down.\n\n<color=#ffff00>It's not easy for a domestic single-player survival game, thank you for supporting the genuine version!</color>"
 EATag,Early access,อยู่ระหว่างการพัฒนา
 BattleDragRoleTip,Drag your own Character to change the initial position,ลากตัวละครของท่านเพื่อเปลี่ยนตำแหน่งเริ่มต้น
-RemoveKungfu_Button,Forget,ลืม
-LogTab_All,All,มั้งหมด
+RemoveKungfu_Button,Forget,ถอดออก
+LogTab_All,All,ทั้งหมด
 LogTab_Normal,Daily,รายวัน
 LogTab_Battle,Battle,การต่อสู้
 TeachAbility,Learn,เรียนรู้
@@ -139,20 +139,20 @@ UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(1),Qinggong,วิช�
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(2),Fist,หมัด
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(3),Blade,ดาบ
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(4),Short,อาวุธสั้น
-UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(5),Accuracy
+UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(5),Accuracy,ความแม่นยำ
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(6),Critical
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(7),Medical
-UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(8),Throwing
+UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(8),Throwing,อาวุธลับ
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(9),Knowledge,ความรู้ด้านวรยุทธ
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text,Defense power
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(1),Action Speed
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(2),Sword,กระบี่
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(3),Long,อาวุธยาว
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(4),Musical
-UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(5),Evasion
-UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(6),Parry
-UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(7),Toxicology
-UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(8),Combo
+UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(5),Evasion,หลบหลีก
+UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(6),Parry,ปัดป้อง
+UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(7),Toxicology,ศาตร์พิษ
+UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(8),Combo,โจมตีต่อเนื่อง
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(9),Combat
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_RoleInfo_gongji,100
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_RoleInfo_qinggong,100
@@ -207,11 +207,11 @@ UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_Interaction_Button(1)_Text(TMP),
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_Interaction_Button(2)_Text(TMP),Trade
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_Interaction_Button(3)_Text(TMP),Leave team
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_Character_tag_Text,Benevolence
-UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_Character_tag_Text(1),Propriety
-UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_Character_tag_Text(2),Trustworthy
-UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_Character_tag(1)_Text,Righteous
+UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_Character_tag_Text(1),Propriety,มารยาท
+UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_Character_tag_Text(2),Trustworthy,ซื่อสัตย์
+UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_Character_tag(1)_Text,Righteous,คุณธรรม
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_Character_tag(1)_Text(1),Wisdom,ภูมิปัญญา
-UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_Character_tag(1)_Text(2),Courage
+UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_Character_tag(1)_Text(2),Courage,ความกล้าหาญ
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_Character_RoleInfo_rende,100
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_Character_RoleInfo_lijie,100
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_Character_RoleInfo_xinyong,100
@@ -221,15 +221,15 @@ UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor_Character_RoleInfo(1)_xinyong,10
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_PlayerInfo_PlayerInfo_Viewport_Content,"Biography of Yue Fei: Since the age of twenty, he has joined the army four times, starting from the 20th year of Jianyan. Biography of Yue Fei: Since the age of twenty, he has joined the army four times, starting from the 20th year of Jianyan. He has joined the army four times since the 20th year of Jianyan. Biography of Yue Fei: Since the age of twenty, he has joined the army four times, starting from the 20th year of Jianyan. He has joined the army four times since the 20th year of Jianyan. Biography of Yue Fei: Since the age of twenty, he has joined the army four times, starting from the 20th year of Jianyan. He has joined the army four times since the 20th year of Jianyan."
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_1_Text,Benevolence
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_1_rende,100
-UIMenuPanel_UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_2_Text,Righteous
+UIMenuPanel_UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_2_Text,Righteous,คุณธรรม
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_2_rende,100
-UIMenuPanel_UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_3_Text,Propriety
+UIMenuPanel_UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_3_Text,Propriety,มารยาท
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_3_rende,<color=#FF0000>100
-UIMenuPanel_UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_4_Text,Trustworthy
+UIMenuPanel_UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_4_Text,Trustworthy,ซื่อสัตย์
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_4_rende,100
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_5_Text,Wisdom,ภูมิปัญญา
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_5_rende,100
-UIMenuPanel_UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_6_Text,Courage
+UIMenuPanel_UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_6_Text,Courage,ความกล้าหาญ
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_6_rende,100
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_NpcInfo_npcBottom_songli_Text(TMP),Gift
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_NpcInfo_npcBottom_yiwu_Text(TMP),Trade
@@ -238,7 +238,7 @@ UIMenuPanel_UIRoleMenuPanel_LeftPanel_NpcInfo_npcBottom_leave_Text(TMP),Leave te
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_NpcInfo_Relation,[Intimate]
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_NpcInfo_Info_Viewport_Content,"Biography of Yue Fei: Since the age of twenty, he has joined the army four times, starting from the 20th year of Jianyan. Biography of Yue Fei: Since the age of twenty, he has joined the army four times, starting from the 20th year of Jianyan. He has joined the army four times since the 20th year of Jianyan. Biography of Yue Fei: Since the age of twenty, he has joined the army four times, starting from the 20th year of Jianyan. He has joined the army four times since the 20th year of Jianyan. Biography of Yue Fei: Since the age of twenty, he has joined the army four times, starting from the 20th year of Jianyan. He has joined the army four times since the 20th year of Jianyan."
 UIMenuPanel_UIPack_Package_Item_num,22
-UIMenuPanel_UIPack_Package_Item_mark_Text(TMP),Unknown
+UIMenuPanel_UIPack_Package_Item_mark_Text(TMP),Unknown,ไม่ทราบ
 UIMenuPanel_UIPack_Package_menu_Equipment_Text(TMP),Equipment,ของสวมใส่
 UIMenuPanel_UIPack_Package_menu_Equipment_Text(TMP)(1),Equipment,ของสวมใส่
 UIMenuPanel_UIPack_Package_menu_SecretBook_Text(TMP),Manual,ตำรา
@@ -259,61 +259,61 @@ UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_1_Name,Kitty Eighteen Palms
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_1_Lv,First level
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_1_State,Running
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_1_NotOpen_Text(TMP),Not open
-UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_1_waigong_Text(TMP),External
-UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_1_neigong_Text(TMP),Internal
+UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_1_waigong_Text(TMP),External,ภายนอก
+UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_1_neigong_Text(TMP),Internal,ภายใน
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_2_Name,Kitty Eighteen Palms
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_2_Lv,First level
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_2_State,Running
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_2_NotOpen_Text(TMP),Not open
-UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_2_waigong_Text(TMP),External
+UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_2_waigong_Text(TMP),External,ภายนอก
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_2_neigong_Text(TMP),Internal,ภายใน
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_3_Name,Kitty Eighteen Palms
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_3_Lv,First level
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_3_State,Running
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_3_NotOpen_Text(TMP),Not open
-UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_3_waigong_Text(TMP),External
+UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_3_waigong_Text(TMP),External,ภายนอก
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_3_neigong_Text(TMP),Internal,ภายใน
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_4_Name,Kitty Eighteen Palms
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_4_Lv,First level
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_4_State,Running
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_4_NotOpen_Text(TMP),Not open
-UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_4_waigong_Text(TMP),External
+UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_4_waigong_Text(TMP),External,ภายนอก
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_4_neigong_Text(TMP),Internal,ภายใน
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_5_Name,Kitty Eighteen Palms
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_5_Lv,First level
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_5_State,Running
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_5_NotOpen_Text(TMP),Not open
-UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_5_waigong_Text(TMP),External
+UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_5_waigong_Text(TMP),External,ภายนอก
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_5_neigong_Text(TMP),Internal,ภายใน
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_6_Name,Kitty Eighteen Palms
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_6_Lv,First level
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_6_State,Running
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_6_NotOpen_Text(TMP),Not open
-UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_6_waigong_Text(TMP),External
+UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_6_waigong_Text(TMP),External,ภายนอก
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_6_neigong_Text(TMP),Internal,ภายใน
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_7_Name,Kitty Eighteen Palms
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_7_Lv,First level
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_7_State,Running
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_7_NotOpen_Text(TMP),Not open
-UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_7_waigong_Text(TMP),External
+UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_7_waigong_Text(TMP),External,ภายนอก
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_7_neigong_Text(TMP),Internal,ภายใน
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_8_Name,Kitty Eighteen Palms
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_8_Lv,First level
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_8_State,Running
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_8_NotOpen_Text(TMP),Not open
-UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_8_waigong_Text(TMP),External
+UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_8_waigong_Text(TMP),External,ภายนอก
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_8_neigong_Text(TMP),Internal,ภายใน
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_9_Name,Kitty Eighteen Palms
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_9_Lv,First level
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_9_State,Running
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_9_NotOpen_Text(TMP),Not open
-UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_9_waigong_Text(TMP),External
+UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_9_waigong_Text(TMP),External,ภายนอก
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_9_neigong_Text(TMP),Internal,ภายใน
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_10_Name,Kitty Eighteen Palms
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_10_Lv,First level
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_10_State,Running
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_10_NotOpen_Text(TMP),Not open
-UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_10_waigong_Text(TMP),External
+UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_10_waigong_Text(TMP),External,ภายนอก
 UIMenuPanel_UIMartialArts_MartialArts_KongFu_KongFu_10_neigong_Text(TMP),Internal,ภายใน
 UIMenuPanel_UIMartialArts_MartialArts_UniqueSkill_Title,Mastered ultimate move
 UIMenuPanel_UIMartialArts_SetUp_UniqueSkill_Title,Battle ultimate move
@@ -321,12 +321,12 @@ UIMenuPanel_UIMartialArts_SetUp_UniqueSkill_NoThing_Text(TMP),--Select Super Mov
 UIMenuPanel_UIMartialArts_SetUp_UniqueSkill_SomeThing_Name_txt,Kitty Eighteen Palms
 UIMenuPanel_UIMartialArts_SetUp_UniqueSkill_SomeThing_Effect,Super Move effect
 UIMenuPanel_UIMartialArts_SetUp_UniqueSkill_SomeThing_Effect_txt,All characters within a radius of 2 squares of oneself suffer 1/8 of maximum HP damage and are dispersed to nearby empty spaces.
-UIMenuPanel_UIMartialArts_SetUp_neigong_Title,Main internal skill
-UIMenuPanel_UIMartialArts_SetUp_neigong_NoThing_Text(TMP),--Select Internal technique--,--เลือกทักษะพลังภายใน--
+UIMenuPanel_UIMartialArts_SetUp_neigong_Title,Main internal skill,กำลังภายในหลัก
+UIMenuPanel_UIMartialArts_SetUp_neigong_NoThing_Text(TMP),--Select Internal technique--,--เลือกทักษะกำลังภายใน--
 UIMenuPanel_UIMartialArts_SetUp_neigong_SomeThing_Name_Text(TMP),Kitty Eighteen Palms
 UIMenuPanel_UIMartialArts_SetUp_neigong_SomeThing_Effect,Main Internal effect
-UIMenuPanel_UIMartialArts_SetUp_xiulian_Title,Learn manual
-UIMenuPanel_UIMartialArts_SetUp_xiulian_NoThing_Text(TMP),--Select Manual--
+UIMenuPanel_UIMartialArts_SetUp_xiulian_Title,Learn manual,เรียนรู้ตำรา
+UIMenuPanel_UIMartialArts_SetUp_xiulian_NoThing_Text(TMP),--Select Manual--,--เลือกตำรา--
 UIMenuPanel_UIMartialArts_SetUp_xiulian_SomeThing_Quality_Name_Text(TMP),Kitty manual
 UIMenuPanel_UIMartialArts_SetUp_xiulian_SomeThing_FullLevel,Manual has been learned to the highest level
 UIMenuPanel_UIMartialArts_SetUp_xiulian_SomeThing_Level,Kitty Eighteen Palms
@@ -343,14 +343,14 @@ UIMenuPanel_UIMartialArts_SetUp_xiulian_SomeThing_Effect_neigong_shuxing,Attribu
 UIMenuPanel_UIMartialArts_SetUp_xiulian_SomeThing_Effect_neigong_shuixing_txt,"MP+20, HP+20, Defense+20"
 UIMenuPanel_UIMartialArts_SelectPanel_head_penel_txt,Select Super Move
 UIMenuPanel_UIMartialArts_SelectPanel_Button_Text(TMP),Confirm,ยืนยัน
-UIMenuPanel_NewAcupoint_Acupoint_env_Info_JmInfo_txt,Current effect
+UIMenuPanel_NewAcupoint_Acupoint_env_Info_JmInfo_txt,Current effect,ผลปัจจุบัน
 UIMenuPanel_NewAcupoint_Acupoint_env_Info_JmInfo_datongshuxing,Potential +1
 UIMenuPanel_NewAcupoint_Acupoint_env_Info_JmInfo_Big_tag,Unblocking effect:
 UIMenuPanel_NewAcupoint_Acupoint_env_Info_JmInfo_Big_info,There is a 30% chance to convert 20% of the damage into one's own HP.
 UIMenuPanel_NewAcupoint_Acupoint_env_Info_JmInfo_shuxing,Critical rate +50%
 UIMenuPanel_NewAcupoint_Acupoint_env_Info_JmInfo_btn_txt,Comprehend,เรียนรู้
 UIMenuPanel_NewAcupoint_Acupoint_env_Info_JmInfo_isDatong_Text(TMP),Comprehended,เรียนรู้แล้ว
-UIMenuPanel_NewAcupoint_Acupoint_env_Info_JmInfo_chongxue,Consume <color=#56FF62>{0}</color> Comprehension Points,ใช้ <color=#56FF62>{0}</color> แต้มเรียนรู้
+UIMenuPanel_NewAcupoint_Acupoint_env_Info_JmInfo_chongxue,Consume <color=#56FF62>{0}</color> Comprehension Points,ใช้แต้มเรียนรู้ <color=#56FF62>{0}</color> แต้ม
 UIMenuPanel_NewAcupoint_Acupoint_env_Info_JmInfo_chongxue_index,1,1
 UIMenuPanel_NewAcupoint_Acupoint_chongxuedian_tag,Current Comprehension Points,แต้มเรียนรู้ปัจจุบัน
 UIMenuPanel_NewAcupoint_Acupoint_chongxuedian_num,99
@@ -367,8 +367,8 @@ UIMenuPanel_NewAcupoint_JingMaiTag_xu_selectImg_name,Yin
 UIMenuPanel_NewAcupoint_JingMaiTag_shi_name,Thunder
 UIMenuPanel_NewAcupoint_JingMaiTag_shi_selectImg_name,Thunder
 UIMenuPanel_UIStoryNote_left_img_textbg_Text(TMP),A maximum of 3 event tasks can be tracked simultaneously
-UIMenuPanel_UIStoryNote_left_ToggleGroup_btn_name,Story
-UIMenuPanel_UIStoryNote_left_ToggleGroup_btn(1)_name,Rumor
+UIMenuPanel_UIStoryNote_left_ToggleGroup_btn_name,Story,เรื่องราว
+UIMenuPanel_UIStoryNote_left_ToggleGroup_btn(1)_name,Rumor,ข่าวลือ
 UIMenuPanel_UIStoryNote_left_ToggleGroup_btn(2)_name,Bounty
 UIMenuPanel_UIStoryNote_left_ToggleGroup_btn(3)_name,Archive
 UIMenuPanel_UIStoryNote_right_right0_txtTitle,Storyline Title
@@ -387,7 +387,7 @@ UIMenuPanel_UIStoryNote_right_right1_Scroll_Viewport_boxScrollArea_boxPrizeItem_
 UIMenuPanel_UIStoryNote_right_right1_Scroll_Viewport_boxScrollArea_boxPrizeItem_3_Text(TMP),2
 UIMenuPanel_UIStoryNote_right_right1_Scroll_Viewport_boxScrollArea_btnCommand_text,Abandon
 UIMenuPanel_UIStoryNote_right_right1_Scroll_Viewport_boxScrollArea_txtTip,"The commissioned task has been completed, please return to X to submit the task"
-UIMenuPanel_UIRelation_right_EmptyTip_Text(TMP),Choose any faction to see the Relations between the characters in the faction and yourself,เลือกฝ่ายใดก็ได้เพื่อดูความสัมพันธ์ระหว่างตัวละครในฝ่ายและตัวเจ้าเอง
+UIMenuPanel_UIRelation_right_EmptyTip_Text(TMP),Choose any faction to see the Relations between the characters in the faction and yourself,เลือกฝ่ายใดก็ได้เพื่อดูความสัมพันธ์ระหว่างเจ้าและตัวละครแต่ละฝ่าย
 UIMenuPanel_UIRelation_right_boxTitle_text,Storyline Title
 UIMenuPanel_UIRelation_right_Scroll_Viewport_boxScrollArea_text,Storyline Content Storyline Content Storyline Content Storyline Content Storyline Content Storyline Content Storyline Content Storyline Content Storyline Content
 UIMenuPanel_UIAbility_up_content_能力_采集_采矿_lv,1
@@ -422,7 +422,7 @@ UIMenuPanel_UIAbility_up_shi,Market
 UIMenuPanel_UIAbility_down_namePanel_name,Mining,ขุดแร่
 UIMenuPanel_UIAbility_down_namePanel_nameInfo,<color=#FF0000>(Master)
 UIMenuPanel_UIAbility_down_info,Content Storyline Content Storyline Content Storyline Content Storyline Content Storyline Content Storyline Content Storyline Content Storyline Content Storyline Content Storyline Content
-UIMenuPanel_UIAbility_down_tag,Skill Experience
+UIMenuPanel_UIAbility_down_tag,Skill Experience,ประสบการณ์ทักษะ
 UIMenuPanel_UIAbility_down_exp,10/200
 UIMenuPanel_UIAbility_down_Button_txt,Promote
 AblilityGrids_lv,1
@@ -433,7 +433,7 @@ UIAbility_up_shi,Market
 UIAbility_down_namePanel_name,Mining,ขุดแร่
 UIAbility_down_namePanel_nameInfo,<color=#FF0000>(Master)
 UIAbility_down_info,Content Storyline Content Storyline Content Storyline Content Storyline Content Storyline Content Storyline Content Storyline Content Storyline Content Storyline Content Storyline Content
-UIAbility_down_tag,Skill Experience
+UIAbility_down_tag,Skill Experience,ประสบการณ์ทักษะ
 UIAbility_down_exp,10/200
 UIAbility_down_Button_txt,Promote
 AchieveBox_title,Unrivaled in the World
@@ -451,7 +451,7 @@ UIAuctionEntrance_Center_PlayerAuctionGroup_Title,Auction Item
 UIAuctionEntrance_Center_OptionGroup_Exit_Text(TMP),Exit Auction
 UIAuctionEntrance_Center_OptionGroup_Enter_Text(TMP),Join Auction
 UIAuctionEntrance_Center_OptionGroup_EntrancePrice,A fee of<size=-12> </size><#62FF52>300</color><size=-12> </size>Wen is required
-全部,All,มั้งหมด
+全部,All,ทั้งหมด
 装备,Equipment,ของสวมใส่
 秘籍,Manual,ตำรา
 消耗品,Consumables,ของใช้
@@ -501,10 +501,10 @@ UIBattleActorInfo_RoleInfor1_tag_Text(1),Qinggong,วิชาตัวเบา
 UIBattleActorInfo_RoleInfor1_tag_Text(2),Fist,หมัด
 UIBattleActorInfo_RoleInfor1_tag_Text(3),Blade,ดาบ
 UIBattleActorInfo_RoleInfor1_tag_Text(4),Short,อาวุธสั้น
-UIBattleActorInfo_RoleInfor1_tag_Text(5),Accuracy
+UIBattleActorInfo_RoleInfor1_tag_Text(5),Accuracy,ความแม่นยำ
 UIBattleActorInfo_RoleInfor1_tag_Text(6),Critical
 UIBattleActorInfo_RoleInfor1_tag_Text(7),Medical
-UIBattleActorInfo_RoleInfor1_tag_Text(8),Throwing
+UIBattleActorInfo_RoleInfor1_tag_Text(8),Throwing,อาวุธลับ
 UIBattleActorInfo_RoleInfor1_tag_Text(9),Knowledge,ความรู้ด้านวรยุทธ
 UIBattleActorInfo_RoleInfor1_tag1_Text(10),MP
 UIBattleActorInfo_RoleInfor1_tag1_Text,Defense power
@@ -512,10 +512,10 @@ UIBattleActorInfo_RoleInfor1_tag1_Text(1),Action Speed
 UIBattleActorInfo_RoleInfor1_tag1_Text(2),Sword,กระบี่
 UIBattleActorInfo_RoleInfor1_tag1_Text(3),Long,อาวุธยาว
 UIBattleActorInfo_RoleInfor1_tag1_Text(4),Musical
-UIBattleActorInfo_RoleInfor1_tag1_Text(5),Evasion
-UIBattleActorInfo_RoleInfor1_tag1_Text(6),Parry
-UIBattleActorInfo_RoleInfor1_tag1_Text(7),Toxicology
-UIBattleActorInfo_RoleInfor1_tag1_Text(8),Combo
+UIBattleActorInfo_RoleInfor1_tag1_Text(5),Evasion,หลบหลีก
+UIBattleActorInfo_RoleInfor1_tag1_Text(6),Parry,ปัดป้อง
+UIBattleActorInfo_RoleInfor1_tag1_Text(7),Toxicology,ศาตร์พิษ
+UIBattleActorInfo_RoleInfor1_tag1_Text(8),Combo,โจมตีต่อเนื่อง
 UIBattleActorInfo_RoleInfor1_tag1_Text(9),Combat
 UIBattleActorInfo_RoleInfor1_RoleInfo_hp,1000/2000
 UIBattleActorInfo_RoleInfor1_RoleInfo_gongji,100,100
@@ -574,11 +574,11 @@ UIBattleActorInfo_RoleInfor_Interaction_Button(1)_Text(TMP),Spar
 UIBattleActorInfo_RoleInfor_Interaction_Button(2)_Text(TMP),Trade,แลกเปลี่ยน
 UIBattleActorInfo_RoleInfor_Interaction_Button(3)_Text(TMP),Leave team,ออกจากทีม
 UIBattleActorInfo_RoleInfor_Character_tag_Text,Benevolence
-UIBattleActorInfo_RoleInfor_Character_tag_Text(1),Propriety
-UIBattleActorInfo_RoleInfor_Character_tag_Text(2),Trustworthy
-UIBattleActorInfo_RoleInfor_Character_tag(1)_Text,Righteous
+UIBattleActorInfo_RoleInfor_Character_tag_Text(1),Propriety,มารยาท
+UIBattleActorInfo_RoleInfor_Character_tag_Text(2),Trustworthy,ซื่อสัตย์
+UIBattleActorInfo_RoleInfor_Character_tag(1)_Text,Righteous,คุณธรรม
 UIBattleActorInfo_RoleInfor_Character_tag(1)_Text(1),Wisdom,ภูมิปัญญา
-UIBattleActorInfo_RoleInfor_Character_tag(1)_Text(2),Courage
+UIBattleActorInfo_RoleInfor_Character_tag(1)_Text(2),Courage,ความกล้าหาญ
 UIBattleActorInfo_RoleInfor_Character_RoleInfo_rende,100,100
 UIBattleActorInfo_RoleInfor_Character_RoleInfo_lijie,100,100
 UIBattleActorInfo_RoleInfor_Character_RoleInfo_xinyong,100,100
@@ -595,8 +595,8 @@ UIBattleActorInfo_kongfu_CD,1,1
 UIBattleActorInfo_zhanyi_tag,Spirit
 UIBattleActorInfo_zhanyi_index,0,0
 UIBattleActorInfo_kongfu(1)_zhunei_Text(TMP),In the Sect
-UIBattleActorInfo_kongfu(1)_nei_Text(TMP),Internal
-UIBattleActorInfo_kongfu(1)_wai_Text(TMP),External
+UIBattleActorInfo_kongfu(1)_nei_Text(TMP),Internal,ภายใน
+UIBattleActorInfo_kongfu(1)_wai_Text(TMP),External,ภายนอก
 UIBattleActorInfo_kongfu(1)_lv,Six
 UIBattleActorInfo_kongfu(1)_noKongfu,Not Learned
 UIGoods_num,22
@@ -605,8 +605,8 @@ UIKongfu_Name,Kitty Eighteen Palms
 UIKongfu_Lv,First level
 UIKongfu_State,Running
 UIKongfu_NotOpen_Text(TMP),Not open
-UIKongfu_waigong_Text(TMP),External
-UIKongfu_neigong_Text(TMP),Internal
+UIKongfu_waigong_Text(TMP),External,ภายนอก
+UIKongfu_neigong_Text(TMP),Internal,ภายใน
 UIMartialArts_SkillPanel_SkillPanel_Name,Kitty Eighteen Palms
 UIMartialArts_SkillPanel_SkillPanel_State,Already in battle
 UIMartialArts_MartialArts_KongFu_Title,Learned martial arts
@@ -616,12 +616,12 @@ UIMartialArts_SetUp_UniqueSkill_NoThing_Text(TMP),--Select Super Move--
 UIMartialArts_SetUp_UniqueSkill_SomeThing_Name_txt,Kitty Eighteen Palms
 UIMartialArts_SetUp_UniqueSkill_SomeThing_Effect,Super Move effect
 UIMartialArts_SetUp_UniqueSkill_SomeThing_Effect_txt,All characters within a radius of 2 squares of oneself suffer 1/8 of maximum HP damage and are dispersed to nearby empty spaces.
-UIMartialArts_SetUp_neigong_Title,Main internal skill
-UIMartialArts_SetUp_neigong_NoThing_Text(TMP),--Select Internal technique--,--เลือกทักษะพลังภายใน--
+UIMartialArts_SetUp_neigong_Title,Main internal skill,กำลังภายในหลัก
+UIMartialArts_SetUp_neigong_NoThing_Text(TMP),--Select Internal technique--,--เลือกทักษะกำลังภายใน--
 UIMartialArts_SetUp_neigong_SomeThing_Name_Text(TMP),Kitty Eighteen Palms
 UIMartialArts_SetUp_neigong_SomeThing_Effect,Main Internal effect
-UIMartialArts_SetUp_xiulian_Title,Learn manual
-UIMartialArts_SetUp_xiulian_NoThing_Text(TMP),--Select Manual--
+UIMartialArts_SetUp_xiulian_Title,Learn manual,เรียนรู้ตำรา
+UIMartialArts_SetUp_xiulian_NoThing_Text(TMP),--Select Manual--,--เลือกตำรา--
 UIMartialArts_SetUp_xiulian_SomeThing_Quality_Name_Text(TMP),Kitty manual
 UIMartialArts_SetUp_xiulian_SomeThing_FullLevel,Manual has been learned to the highest level
 UIMartialArts_SetUp_xiulian_SomeThing_Level,Kitty Eighteen Palms
@@ -681,20 +681,20 @@ UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(1),Qinggong,วิชาตัว�
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(2),Fist,หมัด
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(3),Blade,ดาบ
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(4),Short,อาวุธสั้น
-UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(5),Accuracy
+UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(5),Accuracy,ความแม่นยำ
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(6),Critical
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(7),Medical
-UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(8),Throwing
+UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(8),Throwing,อาวุธลับ
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag_Text(9),Knowledge,ความรู้ด้านวรยุทธ
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text,Defense power
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(1),Action Speed
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(2),Sword,กระบี่
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(3),Long,อาวุธยาว
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(4),Musical
-UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(5),Evasion
-UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(6),Parry
-UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(7),Toxicology
-UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(8),Combo
+UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(5),Evasion,หลบหลีก
+UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(6),Parry,ปัดป้อง
+UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(7),Toxicology,ศาตร์พิษ
+UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(8),Combo,โจมตีต่อเนื่อง
 UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(9),Combat
 UIRoleMenuPanel_LeftPanel_RoleInfor1_RoleInfo_gongji,100
 UIRoleMenuPanel_LeftPanel_RoleInfor1_RoleInfo_qinggong,100
@@ -749,11 +749,11 @@ UIRoleMenuPanel_LeftPanel_RoleInfor_Interaction_Button(1)_Text(TMP),Spar
 UIRoleMenuPanel_LeftPanel_RoleInfor_Interaction_Button(2)_Text(TMP),Trade
 UIRoleMenuPanel_LeftPanel_RoleInfor_Interaction_Button(3)_Text(TMP),Leave team
 UIRoleMenuPanel_LeftPanel_RoleInfor_Character_tag_Text,Benevolence
-UIRoleMenuPanel_LeftPanel_RoleInfor_Character_tag_Text(1),Propriety
-UIRoleMenuPanel_LeftPanel_RoleInfor_Character_tag_Text(2),Trustworthy
-UIRoleMenuPanel_LeftPanel_RoleInfor_Character_tag(1)_Text,Righteous
+UIRoleMenuPanel_LeftPanel_RoleInfor_Character_tag_Text(1),Propriety,มารยาท
+UIRoleMenuPanel_LeftPanel_RoleInfor_Character_tag_Text(2),Trustworthy,ซื่อสัตย์
+UIRoleMenuPanel_LeftPanel_RoleInfor_Character_tag(1)_Text,Righteous,คุณธรรม
 UIRoleMenuPanel_LeftPanel_RoleInfor_Character_tag(1)_Text(1),Wisdom,ภูมิปัญญา
-UIRoleMenuPanel_LeftPanel_RoleInfor_Character_tag(1)_Text(2),Courage
+UIRoleMenuPanel_LeftPanel_RoleInfor_Character_tag(1)_Text(2),Courage,ความกล้าหาญ
 UIRoleMenuPanel_LeftPanel_RoleInfor_Character_RoleInfo_rende,100
 UIRoleMenuPanel_LeftPanel_RoleInfor_Character_RoleInfo_lijie,100
 UIRoleMenuPanel_LeftPanel_RoleInfor_Character_RoleInfo_xinyong,100
@@ -763,15 +763,15 @@ UIRoleMenuPanel_LeftPanel_RoleInfor_Character_RoleInfo(1)_xinyong,100
 UIRoleMenuPanel_LeftPanel_PlayerInfo_PlayerInfo_Viewport_Content,"Biography of Yue Fei: Since the age of twenty, he has joined the army four times, starting from the 20th year of Jianyan. Biography of Yue Fei: Since the age of twenty, he has joined the army four times, starting from the 20th year of Jianyan. He has joined the army four times since the 20th year of Jianyan. Biography of Yue Fei: Since the age of twenty, he has joined the army four times, starting from the 20th year of Jianyan. He has joined the army four times since the 20th year of Jianyan. Biography of Yue Fei: Since the age of twenty, he has joined the army four times, starting from the 20th year of Jianyan. He has joined the army four times since the 20th year of Jianyan."
 UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_1_Text,Benevolence
 UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_1_rende,100
-UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_2_Text,Righteous
+UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_2_Text,Righteous,คุณธรรม
 UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_2_rende,100
-UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_3_Text,Propriety
+UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_3_Text,Propriety,มารยาท
 UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_3_rende,<color=#FF0000>100
-UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_4_Text,Trustworthy
+UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_4_Text,Trustworthy,ซื่อสัตย์
 UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_4_rende,100
 UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_5_Text,Wisdom,ภูมิปัญญา
 UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_5_rende,100
-UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_6_Text,Courage
+UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_6_Text,Courage,ความกล้าหาญ
 UIRoleMenuPanel_LeftPanel_PlayerInfo_playerBottom_6_rende,100
 UIRoleMenuPanel_LeftPanel_NpcInfo_npcBottom_songli_Text(TMP),Gift
 UIRoleMenuPanel_LeftPanel_NpcInfo_npcBottom_yiwu_Text(TMP),Trade
@@ -810,7 +810,7 @@ BattleUI_Actions_ActionsGroup_InternalKungfuFunction_BattleSp_Breath_HotkeyNode_
 BattleUI_BattleControlGroup_SpeedButton_Text(TMP),x1
 BattleUI_BattleControlGroup_AutoBattleOffButton_Text(TMP),Auto
 BattleUI_BattleControlGroup_AutoBattleOnButton(1)_Text(TMP),Auto
-BattleUI_BattleControlGroup_AutoBattleText,Auto Battle ...
+BattleUI_BattleControlGroup_AutoBattleText,Auto Battle ...,ต่อสู้ อัตโนมัติ...
 BattleUI_ActionBar_Bar_NegBar_Label1,-500
 BattleUI_ActionBar_Bar_NegBar_Label2,-250
 BattleUI_ActionBar_Bar_NegBar_Label3,0,0
@@ -841,7 +841,7 @@ Test_TempWorldUI_TimeSlider_Text,Light Time
 Test_TempWorldUI_StealthMode_Text(TMP),Stealth Switch
 UISelectKongfuInBattle_content_head_penel_txt,Switch Main Internal Power
 UISelectKongfuInBattle_content_head_penel_txt_Unique,Switch Ultimate Move
-UISelectKongfuInBattle_confirm_Text(TMP),Select Internal technique,เลือกพลังภายใน
+UISelectKongfuInBattle_confirm_Text(TMP),Select Internal technique,เลือกกำลังภายใน
 UISelectKongfuInBattle_confirm_Text(TMP)_Unique,Select Super Move
 UISelectKongfuInBattle_cancel_Text(TMP),Cancel Internal Power
 UseHidWepInBattleUI_Window_TitleLayout_Text(TMP),Select Throwing
@@ -854,9 +854,9 @@ UseHidWepInBattleUI_Window_ItemDisplayZone__ViewPort_Grid_Item(5)_Text(TMP),22
 UseHidWepInBattleUI_Window_ItemDisplayZone__EmptyTip_EmptyTipText_Text(TMP),You currently have no Throwing in your backpack.
 UseHidWepInBattleUI_Window_EmptyTip_EmptyTipText_Text(TMP),You currently have no Throwing in your backpack.
 UseHidWepInBattleUI_Window_Button_Text(TMP),Confirm,ยืนยัน
-UseItemInBattleUI_ItemTypeButtons_Button1_On_Text(TMP),Medicine
+UseItemInBattleUI_ItemTypeButtons_Button1_On_Text(TMP),Medicine,ยา
 UseItemInBattleUI_ItemTypeButtons_Button2_On_Text(TMP),Beverage
-UseItemInBattleUI_ItemTypeButtons_Button1_Text(TMP),Medicine
+UseItemInBattleUI_ItemTypeButtons_Button1_Text(TMP),Medicine,ยา
 UseItemInBattleUI_ItemTypeButtons_Button2_Text(TMP),Beverage
 UseItemInBattleUI_Window_TitleLayout_Text(TMP),Select Item
 UseItemInBattleUI_Window_ItemDisplayZone__ViewPort_Grid_Item_Text(TMP),22
@@ -875,7 +875,7 @@ TaskCard_Bg_imgActive_text,Received
 TaskCard_Bg_txtAim,Kill the bandit leader\nKill the bandit leader\nKill the bandit leader
 TaskCard_Bg_txtAim_Text,Target:
 TaskCard_Bg_txtTimeLimit,3 days
-TaskCard_Bg_txtTimeLimit_Text,Duration:
+TaskCard_Bg_txtTimeLimit_Text,Duration:,ระยะเวลา:
 TaskCard_Bg_txtPrize,"Trustworthy+2, Lin'an City Relations+5","ความน่าเชื่อถือ +2 ,ความสัมพันธ์ ของเมืองหลินอัน +5"
 TaskCard_Bg_boxPrizeItem_0_Text(TMP),2
 TaskCard_Bg_boxPrizeItem_1_Text(TMP),2
@@ -897,7 +897,7 @@ UIBountySelectItem_txtAim,Collect Rare Dishes
 UIBountySelectItem_btnCommand_text,Hand in
 Button_Text(TMP),Deal
 Button_Pages_Text(TMP),Inventory1
-EarlyAccessCanvas_Text(TMP),Early Access Version
+EarlyAccessCanvas_Text(TMP),Early Access Version,อยู่ระหว่างการพัฒนา
 EmptyTip_EmptyTipText_Text(TMP),"Hero, you have nothing in your bag."
 EscUI_EscUI_Main_Resume_Text(TMP),Return,ย้อนกลับ
 EscUI_EscUI_Main_Info_Text(TMP),Information,ข้อมูล
@@ -929,8 +929,8 @@ NpcBigTalk_Bubble_Fliper_NamePanel_Text(TMP),Jianghu Big Shrimp
 NpcBigTalk_Bubble_Fliper_Text,"What would you like to order, sir?"
 Role_Rolestate_Life_Text(TMP),HP
 Role_Rolestate_Life_Text(TMP)(1),200/2000
-Role_Rolestate_Internalforce_Image_Text(TMP),MP
-Role_Rolestate_Internalforce_Image_Text(TMP)(1),200/2000
+Role_Rolestate_Internalforce_Image_Text(TMP),MP,MP
+Role_Rolestate_Internalforce_Image_Text(TMP)(1),200/2000,200/2000
 Role_Rolestate_Name_Text,Magical Afanti
 Role_NoRole_Text,No partners have joined yet
 SaveSlotDisplayer_Valid_SlotName,Manual Save 1
@@ -943,7 +943,7 @@ UIInputWindow_cancel_Text(TMP),Cancel,ยกเลิก
 UIInputWindow_confirm_Text(TMP),Confirm,ยืนยัน
 UIInputWindow_info,Are you sure you want to create a new save?
 UIInputWindow_InputField(TMP)_TextArea_Placeholder,Enter text...
-UIInputWindow_InputField(TMP)_TextArea_Text,Auto Save 1
+UIInputWindow_InputField(TMP)_TextArea_Text,Auto Save 1,บันทึกอัตโนมัติ 1
 UISelectItemConfirm_Image3_Text(TMP),Select Item
 UISelectItemConfirm_ItemDisplayZone_EmptyTip_EmptyTipText_Text(TMP),"Hero, you have nothing in your bag."
 UISelectItemConfirm_ItemDisplayZone__EmptyTip_EmptyTipText_Text(TMP),"Hero, you have nothing in your bag."
@@ -969,10 +969,10 @@ UIAlchemistPanel_item_bg_name,Green Blood Sword
 UIAlchemistPanel_item_name_grey,Green Blood Sword
 UIAlchemistPanel_leftPanel_Tip_nullTips,You have not obtained any forging blueprints yet.
 UIAlchemistPanel_leftPanel_check_dazao_txt,Can be refined
-UIAlchemistPanel_leftPanel_tittle_TypeItem_txt,Medicine
-UIAlchemistPanel_leftPanel_tittle_TypeItem_txt_c,Medicine
-UIAlchemistPanel_leftPanel_tittle_duyaoItem_txt,Poison
-UIAlchemistPanel_leftPanel_tittle_duyaoItem_txt_c,Poison
+UIAlchemistPanel_leftPanel_tittle_TypeItem_txt,Medicine,ยา
+UIAlchemistPanel_leftPanel_tittle_TypeItem_txt_c,Medicine,ยา
+UIAlchemistPanel_leftPanel_tittle_duyaoItem_txt,Poison,พิษ
+UIAlchemistPanel_leftPanel_tittle_duyaoItem_txt_c,Poison,พิษ
 UIAlchemistPanel_leftPanel_tittle_danyaoItem_txt,Pill
 UIAlchemistPanel_leftPanel_tittle_danyaoItem_txt_c,Pill
 UIAlchemistPanel_rightPanel_ImgBgPanel_tag,Alchemy Level:  Level
@@ -1071,7 +1071,7 @@ ConsoleUI_CommonCommands_Button_Console_Text(TMP),Millionaire
 ConsoleUI_CommonCommands_Button_Console(1)_Text(TMP),Instant death on
 ConsoleUI_CommonCommands_Button_Console(2)_Text(TMP),Instant death off
 ConsoleUI_CommonCommands_Button_Console(3)_Text(TMP),Teleport: Nameless village
-UIIllustratedHandbook_Center_CharacterDetail_CharacterName,Di Guangwen
+UIIllustratedHandbook_Center_CharacterDetail_CharacterName,Di Guangwen,ตี้กวงเหวิน
 UIIllustratedHandbook_Center_CharacterDetail_ScrollView_Viewport_Content_CharacterDesc,"Song Jiang was originally the sheriff of Yuncheng County in Shandong. He was discovered by Yan Poxi for his dealings with Chao Gai, so he killed Yan Poxi in anger and fled back home to hide. Later, he went to Qingfeng Fort to seek refuge with Hua Rong, but was framed by Liu Gao's wife during the lantern viewing at Qingfeng Fort and was imprisoned.\n\nSong Jiang was originally the sheriff of Zhicheng County in Shandong. He was discovered by Yan Poxi for his dealings with Chao Gai, so he killed Yan Poxi in anger and fled back home to hide. Later, he went to Qingfeng Fort to seek refuge with Hua Rong, but was framed by Liu Gao's wife during the lantern viewing at Qingfeng Fort and was imprisoned."
 GiftingWithNpcUI_EmptyTipPanel_EmptyTip_EmptyTipText_Text(TMP),There are no items in the inventory that meet the <#FCDB73>quality</color> requirements
 GiftingWithNpcUI_ItemDisplayZone__EmptyTipPanel_EmptyTip_EmptyTipText_Text(TMP),There are no items in the inventory that meet the <#FCDB73>quality</color> requirements
@@ -1120,10 +1120,10 @@ MiningBatchUI_txtDiffcultNum,Medium
 MiningBatchUI_txtBrokenRatio,Damage probability:
 MiningBatchUI_txtBrokenRatioNum,Very high
 MiningBatchUI_txtAutoCost,Auto
-StealPanelUI_bg_head_penel_txt,Steal
+StealPanelUI_bg_head_penel_txt,Steal,ขโมย
 StealPanelUI_bg_ItemBg_EmptyBagTip_tip_Text(TMP),"This person is too pitiful, he has nothing"
 StealPanelUI_bg_Success_txt,Success rate:
-StealPanelUI_bg_Success_num,100%
+StealPanelUI_bg_Success_num,100%,100%
 StealPanelUI_bg_UseUp_txt,Consumption:
 StealPanelUI_bg_UseUp_num,10
 StealPanelUI_bg_Time_img_num,1
@@ -1290,13 +1290,13 @@ PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag_Text(1),MP
 PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag_Text(2),Attack
 PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag_Text(3),Defense
 PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag_Text(4),Qinggong,วิชาตัวเบา
-PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag_Text(5),Accuracy
-PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag1_Text,Evasion
+PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag_Text(5),Accuracy,ความแม่นยำ
+PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag1_Text,Evasion,หลบหลีก
 PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag1_Text(1),Critical
-PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag1_Text(2),Parry
+PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag1_Text(2),Parry,ปัดป้อง
 PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag1_Text(3),Medical
-PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag1_Text(4),Toxicology
-PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag1_Text(5),Throwing
+PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag1_Text(4),Toxicology,ศาตร์พิษ
+PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag1_Text(5),Throwing,อาวุธลับ
 PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag2_Text,Fist,หมัด
 PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag2_Text(1),Sword,กระบี่
 PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag2_Text(2),Blade,ดาบ
@@ -1304,10 +1304,10 @@ PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag2_Text(3),Long,อาวุธย
 PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag2_Text(4),Short,อาวุธสั้น
 PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag2_Text(5),Musical
 PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag3_Text,Benevolence
-PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag3_Text(1),Righteous
-PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag3_Text(2),Propriety
+PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag3_Text(1),Righteous,คุณธรรม
+PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag3_Text(2),Propriety,มารยาท
 PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag3_Text(3),Wisdom,ภูมิปัญญา
-PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag3_Text(4),Trustworthy
+PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag3_Text(4),Trustworthy,ซื่อสัตย์
 PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_tag3_Text(5),Brave
 PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_RoleInfo_shengming,100
 PlayerCreateUI_CharSheet_RoleInfo_RoleInfor_RoleInfo_neili,100
@@ -1436,7 +1436,7 @@ PlayerCreateUI_CharSheet_SelectableTraits_SelectableTrait(7)_Name,Kitty
 PlayerCreateUI_CharSheet_SelectableTraits_SelectableTrait(8)_Name,Kitty
 PlayerCreateUI_CharSheet_SelectableTraits_SelectableTrait(9)_Name,Kitty
 PlayerCreateUI_CharSheet_TraitInfo_Title,Character Traits,ลักษณะตัวละคร
-PlayerCreateUI_CharSheet_TraitInfo_Count,Please select 3 initial traits (2/3)
+PlayerCreateUI_CharSheet_TraitInfo_Count,Please select 3 initial traits (2/3),โปรดเลือกลักษณะเริ่มต้น 3 อย่าง traits (2/3)
 PlayerCreateUI_CharSheet_ItemSelect_Title,Initial Items,สิ่งของเริ่มต้น
 PlayerCreateUI_CharSheet_ItemSelect_Count,"Please select 0 set of initial items (0, 0)","โปรดเลือกสิ่งของเริ่มต้น 0 ชิ้น (0, 0)"
 PlayerCreateUI_CharSheet_ItemSelect_EmptyTip_EmptyTipText_Text(TMP),No selectable Item
@@ -1477,7 +1477,7 @@ PlayerCreateUI_UIAbility_Info_Title,Max Level Skill Selection
 PlayerCreateUI_UIAbility_Info_AbilitySelect,Please select 5 max-level skills (2/3)
 PlayerCreateUI_RoleName_Continue_Text(TMP),Venturing into the World,เข้าสู่ยุทธภพ
 PlayerCreateUI_RoleName_Return_Text(TMP),Return,ย้อนกลับ
-PlayerCreateUI_RoleName_Title,"What is your name, young hero?",จอมยุทธน้อย ข้าขอทราบนามของท่านได้หรือไม่?
+PlayerCreateUI_RoleName_Title,"What is your name, young hero?",จอมยุทธน้อย ท่านมีนามว่าอะไร?
 PlayerCreateUI_RoleName_Name_xing,Surname,แซ่
 PlayerCreateUI_RoleName_Name_xing_Image_InputField(TMP)_TextArea_Placeholder,Small,เล็ก
 PlayerCreateUI_RoleName_Name_xing_Image_InputField(TMP)_TextArea_Text,​, 
@@ -1519,7 +1519,7 @@ RelationNpcBox_textName,Kitty
 RelationNpcBox_textValue,Friendly（30）
 RelationSubTitle_textName,Wudang,บู๊ตึ๊ง
 RelationSubTitle_textValue,Hatred (100)
-UIRelation_right_EmptyTip_Text(TMP),Choose any faction to see the Relations between the characters in the faction and yourself,เลือกฝ่ายใดก็ได้เพื่อดูความสัมพันธ์ระหว่างตัวละครในฝ่ายและตัวเจ้าเอง
+UIRelation_right_EmptyTip_Text(TMP),Choose any faction to see the Relations between the characters in the faction and yourself,เลือกฝ่ายใดก็ได้เพื่อดูความสัมพันธ์ระหว่างเจ้าและตัวละครแต่ละฝ่าย
 UIRelation_right_boxTitle_text,Storyline Title
 UIRelation_right_Scroll_Viewport_boxScrollArea_text,Storyline Content Storyline Content Storyline Content Storyline Content Storyline Content Storyline Content Storyline Content Storyline Content Storyline Content
 RoamingUI_RoamingHud_PlayerStateGroup_State_Stamina_StateBar_Text,80/100
@@ -1600,8 +1600,8 @@ StoryMainTitle_textMainName,Table of Contents
 StorySubTitle_textName,Storyline Title
 StorySubTitle_textTime,5 Days
 UIStoryNote_left_img_textbg_Text(TMP),A maximum of 3 event tasks can be tracked simultaneously
-UIStoryNote_left_ToggleGroup_btn_name,Story
-UIStoryNote_left_ToggleGroup_btn(1)_name,Rumor
+UIStoryNote_left_ToggleGroup_btn_name,Story,เรื่องราว
+UIStoryNote_left_ToggleGroup_btn(1)_name,Rumor,ข่าวลือ
 UIStoryNote_left_ToggleGroup_btn(2)_name,Bounty
 UIStoryNote_left_ToggleGroup_btn(3)_name,Archive
 UIStoryNote_right_right0_txtTitle,Storyline Title
@@ -1619,8 +1619,8 @@ UIStoryNote_right_right1_Scroll_Viewport_boxScrollArea_txtTip,"The commissioned 
 RolePanel_RoleBg_Text(TMP),No Partners Joined Currently
 RolePanel_RoleState_Life_img_txt,HP
 RolePanel_RoleState_Life_img_num,200/2000
-RolePanel_RoleState_InternalForce_img_txt,MP
-RolePanel_RoleState_InternalForce_img_num,200/2000
+RolePanel_RoleState_InternalForce_img_txt,MP,MP
+RolePanel_RoleState_InternalForce_img_num,200/2000,200/2000
 RolePanel_RoleState_Name_Text,Meng Zhan
 RolePanel_NoRole_Text,No partners have joined yet
 UIConfirmPanel_Bg_TextBg_txt,XXX has five Aston Martins\n<size=24>Satan's Aston Martin
@@ -1657,10 +1657,10 @@ UITeamPanel_Attribute_tag_Text(2),Affiliation
 UITeamPanel_Attribute_tag_Text(3),HP
 UITeamPanel_Attribute_tag_Text(4),Attack power,พลังโจมตี
 UITeamPanel_Attribute_tag_Text(5),Qinggong,วิชาตัวเบา
-UITeamPanel_Attribute_tag_Text(6),Accuracy
+UITeamPanel_Attribute_tag_Text(6),Accuracy,ความแม่นยำ
 UITeamPanel_Attribute_tag_Text(7),Critical
 UITeamPanel_Attribute_tag_Text(8),Medical
-UITeamPanel_Attribute_tag_Text(9),Throwing
+UITeamPanel_Attribute_tag_Text(9),Throwing,อาวุธลับ
 UITeamPanel_Attribute_tag_Text(10),Martial Arts
 UITeamPanel_Attribute_RoleInfo_sex,Male
 UITeamPanel_Attribute_RoleInfo_lv,Level 8
@@ -1824,8 +1824,8 @@ UIFormulaPanel_item_name_grey,Green Blood Sword
 UIFormulaPanel_leftPanel_Tip_Text(TMP),You have not obtained any forging blueprints yet.
 UIFormulaPanel_leftPanel_check_dazao_txt,Can Craft
 UIFormulaPanel_leftPanel_tittle_tag,Type
-UIFormulaPanel_leftPanel_dorpBg_Item_txt,All,มั้งหมด
-UIFormulaPanel_leftPanel_dorpBg_AllType,All,มั้งหมด
+UIFormulaPanel_leftPanel_dorpBg_Item_txt,All,ทั้งหมด
+UIFormulaPanel_leftPanel_dorpBg_AllType,All,ทั้งหมด
 UIFormulaPanel_rightPanel_bg_bg_tag,Crafting Level: Level
 UIFormulaPanel_rightPanel_bg_bg_index,5,5
 UIFormulaPanel_rightPanel_numPanel_bg_index,1,1
@@ -1886,13 +1886,13 @@ UIPetsMainPanel_Radar_Base_txt_bili,30
 UIPetsMainPanel_RoleInfor1_tag_Text(10),HP
 UIPetsMainPanel_RoleInfor1_tag_Text,Attack power,พลังโจมตี
 UIPetsMainPanel_RoleInfor1_tag_Text(1),Move
-UIPetsMainPanel_RoleInfor1_tag_Text(5),Accuracy
+UIPetsMainPanel_RoleInfor1_tag_Text(5),Accuracy,ความแม่นยำ
 UIPetsMainPanel_RoleInfor1_tag_Text(6),Critical
 UIPetsMainPanel_RoleInfor1_tag1_Text(9),Combat
 UIPetsMainPanel_RoleInfor1_tag1_Text,Defense power
 UIPetsMainPanel_RoleInfor1_tag1_Text(1),Action Speed
-UIPetsMainPanel_RoleInfor1_tag1_Text(5),Evasion
-UIPetsMainPanel_RoleInfor1_tag1_Text(6),Parry
+UIPetsMainPanel_RoleInfor1_tag1_Text(5),Evasion,หลบหลีก
+UIPetsMainPanel_RoleInfor1_tag1_Text(6),Parry,ปัดป้อง
 UIPetsMainPanel_RoleInfor1_RoleInfo_hp,1000/2000
 UIPetsMainPanel_RoleInfor1_RoleInfo_gongji,100
 UIPetsMainPanel_RoleInfor1_RoleInfo_qinggong,100
@@ -1945,11 +1945,11 @@ UIPetsMainPanel_RoleInfor_Interaction_Button(1)_Text(TMP),Spar
 UIPetsMainPanel_RoleInfor_Interaction_Button(2)_Text(TMP),Trade
 UIPetsMainPanel_RoleInfor_Interaction_Button(3)_Text(TMP),Leave team
 UIPetsMainPanel_RoleInfor_Character_tag_Text,Benevolence
-UIPetsMainPanel_RoleInfor_Character_tag_Text(1),Propriety
-UIPetsMainPanel_RoleInfor_Character_tag_Text(2),Trustworthy
-UIPetsMainPanel_RoleInfor_Character_tag(1)_Text,Righteous
+UIPetsMainPanel_RoleInfor_Character_tag_Text(1),Propriety,มารยาท
+UIPetsMainPanel_RoleInfor_Character_tag_Text(2),Trustworthy,ซื่อสัตย์
+UIPetsMainPanel_RoleInfor_Character_tag(1)_Text,Righteous,คุณธรรม
 UIPetsMainPanel_RoleInfor_Character_tag(1)_Text(1),Wisdom,ภูมิปัญญา
-UIPetsMainPanel_RoleInfor_Character_tag(1)_Text(2),Courage
+UIPetsMainPanel_RoleInfor_Character_tag(1)_Text(2),Courage,ความกล้าหาญ
 UIPetsMainPanel_RoleInfor_Character_RoleInfo_rende,100
 UIPetsMainPanel_RoleInfor_Character_RoleInfo_lijie,100
 UIPetsMainPanel_RoleInfor_Character_RoleInfo_xinyong,100
@@ -1958,72 +1958,72 @@ UIPetsMainPanel_RoleInfor_Character_RoleInfo(1)_lijie,100
 UIPetsMainPanel_RoleInfor_Character_RoleInfo(1)_xinyong,100
 UIPetsMainPanel_Item_txt,Kitty
 UIPetsMainPanel_kongfu_zhunei_Text(TMP),In the Sect
-UIPetsMainPanel_kongfu_nei_Text(TMP),Internal
-UIPetsMainPanel_kongfu_wai_Text(TMP),External
+UIPetsMainPanel_kongfu_nei_Text(TMP),Internal,ภายใน
+UIPetsMainPanel_kongfu_wai_Text(TMP),External,ภายนอก
 UIPetsMainPanel_kongfu_lv,Six
 UIPetsMainPanel_kongfu_NoKongfu,Not Learned
 UIPetsMainPanel_ScrollView_Viewport_SkillPanel_kongfu(1)_zhunei_Text(TMP),In the Sect
-UIPetsMainPanel_ScrollView_Viewport_SkillPanel_kongfu(1)_nei_Text(TMP),Internal
-UIPetsMainPanel_ScrollView_Viewport_SkillPanel_kongfu(1)_wai_Text(TMP),External
+UIPetsMainPanel_ScrollView_Viewport_SkillPanel_kongfu(1)_nei_Text(TMP),Internal,ภายใน
+UIPetsMainPanel_ScrollView_Viewport_SkillPanel_kongfu(1)_wai_Text(TMP),External,ภายนอก
 UIPetsMainPanel_ScrollView_Viewport_SkillPanel_kongfu(1)_lv,Six
 UIPetsMainPanel_ScrollView_Viewport_SkillPanel_kongfu(2)_zhunei_Text(TMP),In the Sect
-UIPetsMainPanel_ScrollView_Viewport_SkillPanel_kongfu(2)_nei_Text(TMP),Internal
-UIPetsMainPanel_ScrollView_Viewport_SkillPanel_kongfu(2)_wai_Text(TMP),External
+UIPetsMainPanel_ScrollView_Viewport_SkillPanel_kongfu(2)_nei_Text(TMP),Internal,ภายใน
+UIPetsMainPanel_ScrollView_Viewport_SkillPanel_kongfu(2)_wai_Text(TMP),External,ภายนอก
 UIPetsMainPanel_ScrollView_Viewport_SkillPanel_kongfu(2)_lv,Six
 UIPetsMainPanel_ScrollView_Viewport_SkillPanel_kongfu(3)_zhunei_Text(TMP),In the Sect
-UIPetsMainPanel_ScrollView_Viewport_SkillPanel_kongfu(3)_nei_Text(TMP),Internal
-UIPetsMainPanel_ScrollView_Viewport_SkillPanel_kongfu(3)_wai_Text(TMP),External
+UIPetsMainPanel_ScrollView_Viewport_SkillPanel_kongfu(3)_nei_Text(TMP),Internal,ภายใน
+UIPetsMainPanel_ScrollView_Viewport_SkillPanel_kongfu(3)_wai_Text(TMP),External,ภายนอก
 UIPetsMainPanel_ScrollView_Viewport_SkillPanel_kongfu(3)_lv,Six
 UIPetsMainPanel_ScrollView_Viewport_SkillPanel_kongfu(4)_zhunei_Text(TMP),In the Sect
-UIPetsMainPanel_ScrollView_Viewport_SkillPanel_kongfu(4)_nei_Text(TMP),Internal
-UIPetsMainPanel_ScrollView_Viewport_SkillPanel_kongfu(4)_wai_Text(TMP),External
+UIPetsMainPanel_ScrollView_Viewport_SkillPanel_kongfu(4)_nei_Text(TMP),Internal,ภายใน
+UIPetsMainPanel_ScrollView_Viewport_SkillPanel_kongfu(4)_wai_Text(TMP),External,ภายนอก
 UIPetsMainPanel_ScrollView_Viewport_SkillPanel_kongfu(4)_lv,Six
 UIWorldMapIcon_boxName_txtName,Cross Hill
-UIWorldMapManager_Map_1000_Viewport_Content_Test_Baiyuecun_boxName_txtName,Baiyue Village
-UIWorldMapManager_Map_1000_Viewport_Content_Test_Bencaomen_boxName_txtName,Plant Sect
-UIWorldMapManager_Map_1000_Viewport_Content_Test_Cuipingshan_boxName_txtName,Cuiping Mountain
+UIWorldMapManager_Map_1000_Viewport_Content_Test_Baiyuecun_boxName_txtName,Baiyue Village,หมู่บ้านไป๋เยว่
+UIWorldMapManager_Map_1000_Viewport_Content_Test_Bencaomen_boxName_txtName,Plant Sect,สำนักพงไพร
+UIWorldMapManager_Map_1000_Viewport_Content_Test_Cuipingshan_boxName_txtName,Cuiping Mountain,เขาซุยผิง
 UIWorldMapManager_Map_1000_Viewport_Content_Test_Dapubu_boxName_txtName,Big Waterfall
-UIWorldMapManager_Map_1000_Viewport_Content_Test_Daxueshan_boxName_txtName,Mount Daxue
+UIWorldMapManager_Map_1000_Viewport_Content_Test_Daxueshan_boxName_txtName,Mount Daxue,เขาต้าซือ
 UIWorldMapManager_Map_1000_Viewport_Content_Test_Feilongbang_boxName_txtName,Flying Dragon Gang,พรรคมังกรบิน
-UIWorldMapManager_Map_1000_Viewport_Content_Test_Huaximen_boxName_txtName,Flower Creek Village
+UIWorldMapManager_Map_1000_Viewport_Content_Test_Huaximen_boxName_txtName,Flower Creek Village,หมู่บ้านธารบุปผา
 UIWorldMapManager_Map_1000_Viewport_Content_Test_Hailongbang_boxName_txtName,Sea Dragon Gang,พรรคมังกรสมุทร
 UIWorldMapManager_Map_1000_Viewport_Content_Test_Jiulibulou_boxName_txtName,Jiuli Tribe,เผ่าจิ่วลี่
 UIWorldMapManager_Map_1000_Viewport_Content_Test_Lingxiaodong_boxName_txtName,Lingxiao Cave,ถ้ำหลิงเซียว
 UIWorldMapManager_Map_1000_Viewport_Content_Test_Longmenkezhan_boxName_txtName,Dragon Gate Inn,โรงเตี๊ยมประตูมังกร
-UIWorldMapManager_Map_1000_Viewport_Content_Test_Moyadong_boxName_txtName,Moyue Cave
+UIWorldMapManager_Map_1000_Viewport_Content_Test_Moyadong_boxName_txtName,Moyue Cave,ถ้ำโม่หยา
 UIWorldMapManager_Map_1000_Viewport_Content_Test_Mawangdong_boxName_txtName,Horse King Cave,ถ้ำราชาม้า
-UIWorldMapManager_Map_1000_Viewport_Content_Test_Qiucibuluo_boxName_txtName,Kucha Tribe
-UIWorldMapManager_Map_1000_Viewport_Content_Test_Qionghuagu_boxName_txtName,Epiphyllum Valley
+UIWorldMapManager_Map_1000_Viewport_Content_Test_Qiucibuluo_boxName_txtName,Kucha Tribe,เผ่าชิวสือ
+UIWorldMapManager_Map_1000_Viewport_Content_Test_Qionghuagu_boxName_txtName,Epiphyllum Valley,หุบเขาโบตั๋น
 UIWorldMapManager_Map_1000_Viewport_Content_Test_Shenghuozong_boxName_txtName,Holy Fire Sect,นิกายเพลิงศักด์สิทธิ์
 UIWorldMapManager_Map_1000_Viewport_Content_Test_Tianjiugong_boxName_txtName,Tianjiu Palace,วังเทียนจิ่ว
 UIWorldMapManager_Map_1000_Viewport_Content_Test_Taohuayuan_boxName_txtName,Peach Blossom Village,หมู่บ้านดอกเหมย
 UIWorldMapManager_Map_1000_Viewport_Content_Test_Taihuashandao_boxName_txtName,Mount Taihua,เขาไท่ฮัว
 UIWorldMapManager_Map_1000_Viewport_Content_Test_Wanshoushanzhuang_boxName_txtName,Ten Thousand Beast Manor,หมู่ตึกหมื่นอสูร
 UIWorldMapManager_Map_1000_Viewport_Content_Test_Yemofang_boxName_txtName,Night Demon House
-UIWorldMapManager_Map_1000_Viewport_Content_Test_Yancheng_boxName_txtName,Flame City
+UIWorldMapManager_Map_1000_Viewport_Content_Test_Yancheng_boxName_txtName,Flame City,เมืองอัคคี
 UIWorldMapManager_Map_1000_Viewport_Content_Test_Yanyuntiejun_boxName_txtName,Yan Yun Iron Army,กองทัพเหล็กหยานหยู
 UIWorldMapManager_Map_1000_Viewport_Content_CityIcon_5011_boxName_txtName,Nameless cave,ถ้ำไร้นาม
-UIWorldMapManager_Map_1000_Viewport_Content_CityIcon_2151_boxName_txtName,Linlang Temple
+UIWorldMapManager_Map_1000_Viewport_Content_CityIcon_2151_boxName_txtName,Linlang Temple,วัดหลินหลาง
 UIWorldMapManager_Map_1000_Viewport_Content_CityIcon_1600_boxName_txtName,Cross Hill
 UIWorldMapManager_Map_1000_Viewport_Content_CityIcon_1100_boxName_txtName,Nameless village,หมู่บ้านไร้นาม
 UIWorldMapManager_Map_1000_Viewport_Content_CityIcon_1301_boxName_txtName,Ruined shrine,ศาลเจ้าร้าง
 UIWorldMapManager_Map_1000_Viewport_Content_CityIcon_1400_boxName_txtName,Lost Forest,ป่าสาปสูญ
 UIWorldMapManager_Map_1000_Viewport_Content_StandTag_btnEnter_Text(TMP),Enter,เข้า
-UIWorldMapManager_Map_1001_Viewport_Content_Test_Baiyuecun_boxName_txtName,Baiyue Village
-UIWorldMapManager_Map_1001_Viewport_Content_Test_Bencaomen_boxName_txtName,Plant Sect
-UIWorldMapManager_Map_1001_Viewport_Content_Test_Cuipingshan_boxName_txtName,Cuiping Mountain
+UIWorldMapManager_Map_1001_Viewport_Content_Test_Baiyuecun_boxName_txtName,Baiyue Village,หมู่บ้านไป๋เยว่
+UIWorldMapManager_Map_1001_Viewport_Content_Test_Bencaomen_boxName_txtName,Plant Sect,สำนักพงไพร
+UIWorldMapManager_Map_1001_Viewport_Content_Test_Cuipingshan_boxName_txtName,Cuiping Mountain,เขาซุยผิง
 UIWorldMapManager_Map_1001_Viewport_Content_Test_Dapubu_boxName_txtName,Big Waterfall
-UIWorldMapManager_Map_1001_Viewport_Content_Test_Daxueshan_boxName_txtName,Mount Daxue
+UIWorldMapManager_Map_1001_Viewport_Content_Test_Daxueshan_boxName_txtName,Mount Daxue,เขาต้าซือ
 UIWorldMapManager_Map_1001_Viewport_Content_Test_Feilongbang_boxName_txtName,Flying Dragon Gang,พรรคมังกรบิน
-UIWorldMapManager_Map_1001_Viewport_Content_Test_Huaximen_boxName_txtName,Flower Creek Village
+UIWorldMapManager_Map_1001_Viewport_Content_Test_Huaximen_boxName_txtName,Flower Creek Village,หมู่บ้านธารบุปผา
 UIWorldMapManager_Map_1001_Viewport_Content_Test_Hailongbang_boxName_txtName,Sea Dragon Gang,พรรคมังกรสมุทร
 UIWorldMapManager_Map_1001_Viewport_Content_Test_Jiulibulou_boxName_txtName,Jiuli Tribe,เผ่าจิ่วลี่
 UIWorldMapManager_Map_1001_Viewport_Content_Test_Lingxiaodong_boxName_txtName,Lingxiao Cave,ถ้ำหลิงเซียว
 UIWorldMapManager_Map_1001_Viewport_Content_Test_Longmenkezhan_boxName_txtName,Dragon Gate Inn,โรงเตี๊ยมประตูมังกร
-UIWorldMapManager_Map_1001_Viewport_Content_Test_Moyadong_boxName_txtName,Moyue Cave
+UIWorldMapManager_Map_1001_Viewport_Content_Test_Moyadong_boxName_txtName,Moyue Cave,ถ้ำโม่หยา
 UIWorldMapManager_Map_1001_Viewport_Content_Test_Mawangdong_boxName_txtName,Horse King Cave,ถ้ำราชาม้า
-UIWorldMapManager_Map_1001_Viewport_Content_Test_Qiucibuluo_boxName_txtName,Kucha Tribe
-UIWorldMapManager_Map_1001_Viewport_Content_Test_Qionghuagu_boxName_txtName,Epiphyllum Valley
+UIWorldMapManager_Map_1001_Viewport_Content_Test_Qiucibuluo_boxName_txtName,Kucha Tribe,เผ่าชิวสือ
+UIWorldMapManager_Map_1001_Viewport_Content_Test_Qionghuagu_boxName_txtName,Epiphyllum Valley,หุบเขาโบตั๋น
 UIWorldMapManager_Map_1001_Viewport_Content_Test_Shenghuozong_boxName_txtName,Holy Fire Sect,นิกายเพลิงศักด์สิทธิ์
 UIWorldMapManager_Map_1001_Viewport_Content_Test_Tianjiugong_boxName_txtName,Tianjiu Palace,วังเทียนจิ่ว
 UIWorldMapManager_Map_1001_Viewport_Content_Test_Taohuayuan_boxName_txtName,Peach Blossom Village,หมู่บ้านดอกเหมย
@@ -2031,33 +2031,33 @@ UIWorldMapManager_Map_1001_Viewport_Content_Test_Taihuashandao_boxName_txtName,M
 UIWorldMapManager_Map_1001_Viewport_Content_Test_Wumingshandong_boxName_txtName,Nameless cave,ถ้ำไร้นาม
 UIWorldMapManager_Map_1001_Viewport_Content_Test_Wanshoushanzhuang_boxName_txtName,Ten Thousand Beast Manor,หมู่ตึกหมื่นอสูร
 UIWorldMapManager_Map_1001_Viewport_Content_Test_Yemofang_boxName_txtName,Night Demon House
-UIWorldMapManager_Map_1001_Viewport_Content_Test_Yancheng_boxName_txtName,Flame City
+UIWorldMapManager_Map_1001_Viewport_Content_Test_Yancheng_boxName_txtName,Flame City,เมืองอัคคี
 UIWorldMapManager_Map_1001_Viewport_Content_Test_Yanyuntiejun_boxName_txtName,Yan Yun Iron Army,กองทัพเหล็กหยานหยู
 UIWorldMapManager_Map_1001_Viewport_Content_CityIcon_5012_boxName_txtName,Sword Test Platform
 UIWorldMapManager_Map_1001_Viewport_Content_CityIcon_2070_boxName_txtName,Langya Sword Pavilion,ศาลากระบี่หลางหยา
-UIWorldMapManager_Map_1001_Viewport_Content_CityIcon_2121_boxName_txtName,Nest of Swallow
-UIWorldMapManager_Map_1001_Viewport_Content_CityIcon_2131_boxName_txtName,Crime Investigation Bureau
+UIWorldMapManager_Map_1001_Viewport_Content_CityIcon_2121_boxName_txtName,Nest of Swallow,รังนกนางแอ่น
+UIWorldMapManager_Map_1001_Viewport_Content_CityIcon_2131_boxName_txtName,Crime Investigation Bureau,สำนักสืบสวน
 UIWorldMapManager_Map_1001_Viewport_Content_CityIcon_1200_boxName_txtName,Blue Wind Camp,ค่ายวายุคราม
 UIWorldMapManager_Map_1001_Viewport_Content_CityIcon_1500_boxName_txtName,Wild Wolf Valley
 UIWorldMapManager_Map_1001_Viewport_Content_CityIcon_20100_boxName_txtName,Chuxiang City,เมืองฉู่เซียง
 UIWorldMapManager_Map_1001_Viewport_Content_CityIcon_5005_boxName_txtName,Refugee Camp
 UIWorldMapManager_Map_1001_Viewport_Content_StandTag_btnEnter_Text(TMP),Enter,เข้า
-UIWorldMapManager_Map_1002_Viewport_Content_Test_Baiyuecun_boxName_txtName,Baiyue Village
-UIWorldMapManager_Map_1002_Viewport_Content_Test_Bencaomen_boxName_txtName,Plant Sect
-UIWorldMapManager_Map_1002_Viewport_Content_Test_Cuipingshan_boxName_txtName,Cuiping Mountain
+UIWorldMapManager_Map_1002_Viewport_Content_Test_Baiyuecun_boxName_txtName,Baiyue Village,หมู่บ้านไป๋เยว่
+UIWorldMapManager_Map_1002_Viewport_Content_Test_Bencaomen_boxName_txtName,Plant Sect,สำนักพงไพร
+UIWorldMapManager_Map_1002_Viewport_Content_Test_Cuipingshan_boxName_txtName,Cuiping Mountain,เขาซุยผิง
 UIWorldMapManager_Map_1002_Viewport_Content_Test_Dapubu_boxName_txtName,Big Waterfall
-UIWorldMapManager_Map_1002_Viewport_Content_Test_Daxueshan_boxName_txtName,Mount Daxue
+UIWorldMapManager_Map_1002_Viewport_Content_Test_Daxueshan_boxName_txtName,Mount Daxue,เขาต้าซือ
 UIWorldMapManager_Map_1002_Viewport_Content_Test_Feilongbang_boxName_txtName,Flying Dragon Gang,พรรคมังกรบิน
-UIWorldMapManager_Map_1002_Viewport_Content_Test_Huaximen_boxName_txtName,Flower Creek Village
+UIWorldMapManager_Map_1002_Viewport_Content_Test_Huaximen_boxName_txtName,Flower Creek Village,หมู่บ้านธารบุปผา
 UIWorldMapManager_Map_1002_Viewport_Content_Test_Hailongbang_boxName_txtName,Sea Dragon Gang,พรรคมังกรสมุทร
 UIWorldMapManager_Map_1002_Viewport_Content_Test_Jiulibulou_boxName_txtName,Jiuli Tribe,เผ่าจิ่วลี่
 UIWorldMapManager_Map_1002_Viewport_Content_Test_Lingxiaodong_boxName_txtName,Lingxiao Cave,ถ้ำหลิงเซียว
 UIWorldMapManager_Map_1002_Viewport_Content_Test_Langyajiange_boxName_txtName,Langya Sword Pavilion,ศาลากระบี่หลางหยา
 UIWorldMapManager_Map_1002_Viewport_Content_Test_Longmenkezhan_boxName_txtName,Dragon Gate Inn,โรงเตี๊ยมประตูมังกร
-UIWorldMapManager_Map_1002_Viewport_Content_Test_Moyadong_boxName_txtName,Moyue Cave
+UIWorldMapManager_Map_1002_Viewport_Content_Test_Moyadong_boxName_txtName,Moyue Cave,ถ้ำโม่หยา
 UIWorldMapManager_Map_1002_Viewport_Content_Test_Mawangdong_boxName_txtName,Horse King Cave,ถ้ำราชาม้า
-UIWorldMapManager_Map_1002_Viewport_Content_Test_Qiucibuluo_boxName_txtName,Kucha Tribe
-UIWorldMapManager_Map_1002_Viewport_Content_Test_Qionghuagu_boxName_txtName,Epiphyllum Valley
+UIWorldMapManager_Map_1002_Viewport_Content_Test_Qiucibuluo_boxName_txtName,Kucha Tribe,เผ่าชิวสือ
+UIWorldMapManager_Map_1002_Viewport_Content_Test_Qionghuagu_boxName_txtName,Epiphyllum Valley,หุบเขาโบตั๋น
 UIWorldMapManager_Map_1002_Viewport_Content_Test_Shenghuozong_boxName_txtName,Holy Fire Sect,นิกายเพลิงศักด์สิทธิ์
 UIWorldMapManager_Map_1002_Viewport_Content_Test_Tianjiugong_boxName_txtName,Tianjiu Palace,วังเทียนจิ่ว
 UIWorldMapManager_Map_1002_Viewport_Content_Test_Taohuayuan_boxName_txtName,Peach Blossom Village,หมู่บ้านดอกเหมย
@@ -2065,7 +2065,7 @@ UIWorldMapManager_Map_1002_Viewport_Content_Test_Taihuashandao_boxName_txtName,M
 UIWorldMapManager_Map_1002_Viewport_Content_Test_Wumingshandong_boxName_txtName,Nameless cave,ถ้ำไร้นาม
 UIWorldMapManager_Map_1002_Viewport_Content_Test_Wanshoushanzhuang_boxName_txtName,Ten Thousand Beast Manor,หมู่ตึกหมื่นอสูร
 UIWorldMapManager_Map_1002_Viewport_Content_Test_Yemofang_boxName_txtName,Night Demon House
-UIWorldMapManager_Map_1002_Viewport_Content_Test_Yancheng_boxName_txtName,Flame City
+UIWorldMapManager_Map_1002_Viewport_Content_Test_Yancheng_boxName_txtName,Flame City,เมืองอัคคี
 UIWorldMapManager_Map_1002_Viewport_Content_Test_Yanyuntiejun_boxName_txtName,Yan Yun Iron Army,กองทัพเหล็กหยานหยู
 UIWorldMapManager_Map_1002_Viewport_Content_CityIcon_2010_boxName_txtName,Taoist Sect
 UIWorldMapManager_Map_1002_Viewport_Content_CityIcon_2020_boxName_txtName,Shifa Temple
@@ -2076,10 +2076,10 @@ UIWorldMapManager_Map_1002_Viewport_Content_CityIcon_2060_boxName_txtName,Tiger 
 UIWorldMapManager_Map_1002_Viewport_Content_CityIcon_2070_boxName_txtName,Melody House,หมู่ตึกท่วงทำนอง
 UIWorldMapManager_Map_1002_Viewport_Content_CityIcon_2080_boxName_txtName,Ye Family Battalion
 UIWorldMapManager_Map_1002_Viewport_Content_CityIcon_2111_boxName_txtName,Black Robe Group
-UIWorldMapManager_Map_1002_Viewport_Content_CityIcon_2121_boxName_txtName,Nest of Swallow
-UIWorldMapManager_Map_1002_Viewport_Content_CityIcon_2131_boxName_txtName,Crime Investigation Bureau
+UIWorldMapManager_Map_1002_Viewport_Content_CityIcon_2121_boxName_txtName,Nest of Swallow,รังนกนางแอ่น
+UIWorldMapManager_Map_1002_Viewport_Content_CityIcon_2131_boxName_txtName,Crime Investigation Bureau,สำนักสืบสวน
 UIWorldMapManager_Map_1002_Viewport_Content_CityIcon_2141_boxName_txtName,Chaiwang Pavilion
-UIWorldMapManager_Map_1002_Viewport_Content_CityIcon_2151_boxName_txtName,Linlang Temple
+UIWorldMapManager_Map_1002_Viewport_Content_CityIcon_2151_boxName_txtName,Linlang Temple,วัดหลินหลาง
 UIWorldMapManager_Map_1002_Viewport_Content_CityIcon_2161_boxName_txtName,Tomb Raider Guild
 UIWorldMapManager_Map_1002_Viewport_Content_CityIcon_1600_boxName_txtName,Cross Hill
 UIWorldMapManager_Map_1002_Viewport_Content_CityIcon_1100_boxName_txtName,Nameless village,หมู่บ้านไร้นาม
@@ -2094,22 +2094,22 @@ UIWorldMapManager_Map_1002_Viewport_Content_CityIcon_20100_boxName_txtName,Chuxi
 UIWorldMapManager_Map_1002_Viewport_Content_CityIcon_20200_boxName_txtName,Daliang City
 UIWorldMapManager_Map_1002_Viewport_Content_CityIcon_20300_boxName_txtName,Lin'an City
 UIWorldMapManager_Map_1002_Viewport_Content_StandTag_btnEnter_Text(TMP),Enter,เข้า
-UIWorldMapManager_Map_1003_Viewport_Content_Test_Baiyuecun_boxName_txtName,Baiyue Village
-UIWorldMapManager_Map_1003_Viewport_Content_Test_Bencaomen_boxName_txtName,Plant Sect
-UIWorldMapManager_Map_1003_Viewport_Content_Test_Cuipingshan_boxName_txtName,Cuiping Mountain
+UIWorldMapManager_Map_1003_Viewport_Content_Test_Baiyuecun_boxName_txtName,Baiyue Village,หมู่บ้านไป๋เยว่
+UIWorldMapManager_Map_1003_Viewport_Content_Test_Bencaomen_boxName_txtName,Plant Sect,สำนักพงไพร
+UIWorldMapManager_Map_1003_Viewport_Content_Test_Cuipingshan_boxName_txtName,Cuiping Mountain,เขาซุยผิง
 UIWorldMapManager_Map_1003_Viewport_Content_Test_Dapubu_boxName_txtName,Big Waterfall
-UIWorldMapManager_Map_1003_Viewport_Content_Test_Daxueshan_boxName_txtName,Mount Daxue
+UIWorldMapManager_Map_1003_Viewport_Content_Test_Daxueshan_boxName_txtName,Mount Daxue,เขาต้าซือ
 UIWorldMapManager_Map_1003_Viewport_Content_Test_Feilongbang_boxName_txtName,Flying Dragon Gang,พรรคมังกรบิน
-UIWorldMapManager_Map_1003_Viewport_Content_Test_Huaximen_boxName_txtName,Flower Creek Village
+UIWorldMapManager_Map_1003_Viewport_Content_Test_Huaximen_boxName_txtName,Flower Creek Village,หมู่บ้านธารบุปผา
 UIWorldMapManager_Map_1003_Viewport_Content_Test_Hailongbang_boxName_txtName,Sea Dragon Gang,พรรคมังกรสมุทร
 UIWorldMapManager_Map_1003_Viewport_Content_Test_Jiulibulou_boxName_txtName,Jiuli Tribe,เผ่าจิ่วลี่
 UIWorldMapManager_Map_1003_Viewport_Content_Test_Lingxiaodong_boxName_txtName,Lingxiao Cave,ถ้ำหลิงเซียว
 UIWorldMapManager_Map_1003_Viewport_Content_Test_Langyajiange_boxName_txtName,Langya Sword Pavilion,ศาลากระบี่หลางหยา
 UIWorldMapManager_Map_1003_Viewport_Content_Test_Longmenkezhan_boxName_txtName,Dragon Gate Inn,โรงเตี๊ยมประตูมังกร
-UIWorldMapManager_Map_1003_Viewport_Content_Test_Moyadong_boxName_txtName,Moyue Cave
+UIWorldMapManager_Map_1003_Viewport_Content_Test_Moyadong_boxName_txtName,Moyue Cave,ถ้ำโม่หยา
 UIWorldMapManager_Map_1003_Viewport_Content_Test_Mawangdong_boxName_txtName,Horse King Cave,ถ้ำราชาม้า
-UIWorldMapManager_Map_1003_Viewport_Content_Test_Qiucibuluo_boxName_txtName,Kucha Tribe
-UIWorldMapManager_Map_1003_Viewport_Content_Test_Qionghuagu_boxName_txtName,Epiphyllum Valley
+UIWorldMapManager_Map_1003_Viewport_Content_Test_Qiucibuluo_boxName_txtName,Kucha Tribe,เผ่าชิวสือ
+UIWorldMapManager_Map_1003_Viewport_Content_Test_Qionghuagu_boxName_txtName,Epiphyllum Valley,หุบเขาโบตั๋น
 UIWorldMapManager_Map_1003_Viewport_Content_Test_Shenghuozong_boxName_txtName,Holy Fire Sect,นิกายเพลิงศักด์สิทธิ์
 UIWorldMapManager_Map_1003_Viewport_Content_Test_Tianjiugong_boxName_txtName,Tianjiu Palace,วังเทียนจิ่ว
 UIWorldMapManager_Map_1003_Viewport_Content_Test_Taohuayuan_boxName_txtName,Peach Blossom Village,หมู่บ้านดอกเหมย
@@ -2117,7 +2117,7 @@ UIWorldMapManager_Map_1003_Viewport_Content_Test_Taihuashandao_boxName_txtName,M
 UIWorldMapManager_Map_1003_Viewport_Content_Test_Wumingshandong_boxName_txtName,Nameless cave,ถ้ำไร้นาม
 UIWorldMapManager_Map_1003_Viewport_Content_Test_Wanshoushanzhuang_boxName_txtName,Ten Thousand Beast Manor,หมู่ตึกหมื่นอสูร
 UIWorldMapManager_Map_1003_Viewport_Content_Test_Yemofang_boxName_txtName,Night Demon House
-UIWorldMapManager_Map_1003_Viewport_Content_Test_Yancheng_boxName_txtName,Flame City
+UIWorldMapManager_Map_1003_Viewport_Content_Test_Yancheng_boxName_txtName,Flame City,เมืองอัคคี
 UIWorldMapManager_Map_1003_Viewport_Content_Test_Yanyuntiejun_boxName_txtName,Yan Yun Iron Army,กองทัพเหล็กหยานหยู
 UIWorldMapManager_Map_1003_Viewport_Content_CityIcon_2010_boxName_txtName,Taoist Sect
 UIWorldMapManager_Map_1003_Viewport_Content_CityIcon_2020_boxName_txtName,Shifa Temple
@@ -2128,10 +2128,10 @@ UIWorldMapManager_Map_1003_Viewport_Content_CityIcon_2060_boxName_txtName,Tiger 
 UIWorldMapManager_Map_1003_Viewport_Content_CityIcon_2070_boxName_txtName,Melody House,หมู่ตึกท่วงทำนอง
 UIWorldMapManager_Map_1003_Viewport_Content_CityIcon_2080_boxName_txtName,Ye Family Battalion
 UIWorldMapManager_Map_1003_Viewport_Content_CityIcon_2111_boxName_txtName,Black Robe Group
-UIWorldMapManager_Map_1003_Viewport_Content_CityIcon_2121_boxName_txtName,Nest of Swallow
-UIWorldMapManager_Map_1003_Viewport_Content_CityIcon_2131_boxName_txtName,Crime Investigation Bureau
+UIWorldMapManager_Map_1003_Viewport_Content_CityIcon_2121_boxName_txtName,Nest of Swallow,รังนกนางแอ่น
+UIWorldMapManager_Map_1003_Viewport_Content_CityIcon_2131_boxName_txtName,Crime Investigation Bureau,สำนักสืบสวน
 UIWorldMapManager_Map_1003_Viewport_Content_CityIcon_2141_boxName_txtName,Chaiwang Pavilion
-UIWorldMapManager_Map_1003_Viewport_Content_CityIcon_2151_boxName_txtName,Linlang Temple
+UIWorldMapManager_Map_1003_Viewport_Content_CityIcon_2151_boxName_txtName,Linlang Temple,วัดหลินหลาง
 UIWorldMapManager_Map_1003_Viewport_Content_CityIcon_2161_boxName_txtName,Tomb Raider Guild
 UIWorldMapManager_Map_1003_Viewport_Content_CityIcon_1600_boxName_txtName,Cross Hill
 UIWorldMapManager_Map_1003_Viewport_Content_CityIcon_1100_boxName_txtName,Nameless village,หมู่บ้านไร้นาม
@@ -2179,10 +2179,10 @@ UIDetailed_RoleInfo_RoleInfor_tag_Text(1),Qinggong,วิชาตัวเบ�
 UIDetailed_RoleInfo_RoleInfor_tag_Text(2),Fist,หมัด
 UIDetailed_RoleInfo_RoleInfor_tag_Text(3),Blade,ดาบ
 UIDetailed_RoleInfo_RoleInfor_tag_Text(4),Short,อาวุธสั้น
-UIDetailed_RoleInfo_RoleInfor_tag_Text(5),Accuracy
+UIDetailed_RoleInfo_RoleInfor_tag_Text(5),Accuracy,ความแม่นยำ
 UIDetailed_RoleInfo_RoleInfor_tag_Text(6),Critical
 UIDetailed_RoleInfo_RoleInfor_tag_Text(7),Medical
-UIDetailed_RoleInfo_RoleInfor_tag_Text(8),Throwing
+UIDetailed_RoleInfo_RoleInfor_tag_Text(8),Throwing,อาวุธลับ
 UIDetailed_RoleInfo_RoleInfor_tag_Text(9),Knowledge,ความรู้ด้านวรยุทธ
 UIDetailed_RoleInfo_RoleInfor_tag1_Text(10),MP
 UIDetailed_RoleInfo_RoleInfor_tag1_Text,Defense power
@@ -2190,9 +2190,9 @@ UIDetailed_RoleInfo_RoleInfor_tag1_Text(1),Initial Action Point
 UIDetailed_RoleInfo_RoleInfor_tag1_Text(2),Sword,กระบี่
 UIDetailed_RoleInfo_RoleInfor_tag1_Text(3),Long,อาวุธยาว
 UIDetailed_RoleInfo_RoleInfor_tag1_Text(4),Musical
-UIDetailed_RoleInfo_RoleInfor_tag1_Text(5),Evasion
-UIDetailed_RoleInfo_RoleInfor_tag1_Text(6),Parry
-UIDetailed_RoleInfo_RoleInfor_tag1_Text(7),Toxicology
+UIDetailed_RoleInfo_RoleInfor_tag1_Text(5),Evasion,หลบหลีก
+UIDetailed_RoleInfo_RoleInfor_tag1_Text(6),Parry,ปัดป้อง
+UIDetailed_RoleInfo_RoleInfor_tag1_Text(7),Toxicology,ศาตร์พิษ
 UIDetailed_RoleInfo_RoleInfor_tag1_Text(8),Spar
 UIDetailed_RoleInfo_RoleInfor_tag1_Text(9),Combat
 UIDetailed_RoleInfo_RoleInfor_RoleInfo_shengming,1000/2000
@@ -2225,44 +2225,44 @@ UIDetailed_RoleInfo_RoleInfor_neili_yang_Text(TMP),Yang
 UIDetailed_RoleInfo_RoleInfor_neili_yin_Text(TMP),Yin
 UIDetailed_RoleInfo_KongFu_Skill_KongFu_zhuneigong_Text,In the Sect
 UIDetailed_RoleInfo_KongFu_Skill_KongFu_Level,Six
-UIDetailed_RoleInfo_KongFu_Skill_KongFu_waigong_Text(TMP),External
-UIDetailed_RoleInfo_KongFu_Skill_KongFu_neigong_Text(TMP),Internal
+UIDetailed_RoleInfo_KongFu_Skill_KongFu_waigong_Text(TMP),External,ภายนอก
+UIDetailed_RoleInfo_KongFu_Skill_KongFu_neigong_Text(TMP),Internal,ภายใน
 UIDetailed_RoleInfo_KongFu_Skill(1)_KongFu_zhuneigong_Text,In the Sect
 UIDetailed_RoleInfo_KongFu_Skill(1)_KongFu_Level,Six
-UIDetailed_RoleInfo_KongFu_Skill(1)_KongFu_waigong_Text(TMP),External
-UIDetailed_RoleInfo_KongFu_Skill(1)_KongFu_neigong_Text(TMP),Internal
+UIDetailed_RoleInfo_KongFu_Skill(1)_KongFu_waigong_Text(TMP),External,ภายนอก
+UIDetailed_RoleInfo_KongFu_Skill(1)_KongFu_neigong_Text(TMP),Internal,ภายใน
 UIDetailed_RoleInfo_KongFu_Skill(2)_KongFu_zhuneigong_Text,In the Sect
 UIDetailed_RoleInfo_KongFu_Skill(2)_KongFu_Level,Six
-UIDetailed_RoleInfo_KongFu_Skill(2)_KongFu_waigong_Text(TMP),External
-UIDetailed_RoleInfo_KongFu_Skill(2)_KongFu_neigong_Text(TMP),Internal
+UIDetailed_RoleInfo_KongFu_Skill(2)_KongFu_waigong_Text(TMP),External,ภายนอก
+UIDetailed_RoleInfo_KongFu_Skill(2)_KongFu_neigong_Text(TMP),Internal,ภายใน
 UIDetailed_RoleInfo_KongFu_Skill(3)_KongFu_zhuneigong_Text,In the Sect
 UIDetailed_RoleInfo_KongFu_Skill(3)_KongFu_Level,Six
-UIDetailed_RoleInfo_KongFu_Skill(3)_KongFu_waigong_Text(TMP),External
-UIDetailed_RoleInfo_KongFu_Skill(3)_KongFu_neigong_Text(TMP),Internal
+UIDetailed_RoleInfo_KongFu_Skill(3)_KongFu_waigong_Text(TMP),External,ภายนอก
+UIDetailed_RoleInfo_KongFu_Skill(3)_KongFu_neigong_Text(TMP),Internal,ภายใน
 UIDetailed_RoleInfo_KongFu_Skill(4)_KongFu_zhuneigong_Text,In the Sect
 UIDetailed_RoleInfo_KongFu_Skill(4)_KongFu_Level,Six
-UIDetailed_RoleInfo_KongFu_Skill(4)_KongFu_waigong_Text(TMP),External
-UIDetailed_RoleInfo_KongFu_Skill(4)_KongFu_neigong_Text(TMP),Internal
+UIDetailed_RoleInfo_KongFu_Skill(4)_KongFu_waigong_Text(TMP),External,ภายนอก
+UIDetailed_RoleInfo_KongFu_Skill(4)_KongFu_neigong_Text(TMP),Internal,ภายใน
 UIDetailed_RoleInfo_KongFu_Skill(5)_KongFu_zhuneigong_Text,In the Sect
 UIDetailed_RoleInfo_KongFu_Skill(5)_KongFu_Level,Six
-UIDetailed_RoleInfo_KongFu_Skill(5)_KongFu_waigong_Text(TMP),External
-UIDetailed_RoleInfo_KongFu_Skill(5)_KongFu_neigong_Text(TMP),Internal
+UIDetailed_RoleInfo_KongFu_Skill(5)_KongFu_waigong_Text(TMP),External,ภายนอก
+UIDetailed_RoleInfo_KongFu_Skill(5)_KongFu_neigong_Text(TMP),Internal,ภายใน
 UIDetailed_RoleInfo_KongFu_Skill(6)_KongFu_zhuneigong_Text,In the Sect
 UIDetailed_RoleInfo_KongFu_Skill(6)_KongFu_Level,Six
-UIDetailed_RoleInfo_KongFu_Skill(6)_KongFu_waigong_Text(TMP),External
-UIDetailed_RoleInfo_KongFu_Skill(6)_KongFu_neigong_Text(TMP),Internal
+UIDetailed_RoleInfo_KongFu_Skill(6)_KongFu_waigong_Text(TMP),External,ภายนอก
+UIDetailed_RoleInfo_KongFu_Skill(6)_KongFu_neigong_Text(TMP),Internal,ภายใน
 UIDetailed_RoleInfo_KongFu_Skill(7)_KongFu_zhuneigong_Text,In the Sect
 UIDetailed_RoleInfo_KongFu_Skill(7)_KongFu_Level,Six
-UIDetailed_RoleInfo_KongFu_Skill(7)_KongFu_waigong_Text(TMP),External
-UIDetailed_RoleInfo_KongFu_Skill(7)_KongFu_neigong_Text(TMP),Internal
+UIDetailed_RoleInfo_KongFu_Skill(7)_KongFu_waigong_Text(TMP),External,ภายนอก
+UIDetailed_RoleInfo_KongFu_Skill(7)_KongFu_neigong_Text(TMP),Internal,ภายใน
 UIDetailed_RoleInfo_KongFu_Skill(8)_KongFu_zhuneigong_Text,In the Sect
 UIDetailed_RoleInfo_KongFu_Skill(8)_KongFu_Level,Six
-UIDetailed_RoleInfo_KongFu_Skill(8)_KongFu_waigong_Text(TMP),External
-UIDetailed_RoleInfo_KongFu_Skill(8)_KongFu_neigong_Text(TMP),Internal
+UIDetailed_RoleInfo_KongFu_Skill(8)_KongFu_waigong_Text(TMP),External,ภายนอก
+UIDetailed_RoleInfo_KongFu_Skill(8)_KongFu_neigong_Text(TMP),Internal,ภายใน
 UIDetailed_RoleInfo_KongFu_Skill(9)_KongFu_zhuneigong_Text,In the Sect
 UIDetailed_RoleInfo_KongFu_Skill(9)_KongFu_Level,Six
-UIDetailed_RoleInfo_KongFu_Skill(9)_KongFu_waigong_Text(TMP),External
-UIDetailed_RoleInfo_KongFu_Skill(9)_KongFu_neigong_Text(TMP),Internal
+UIDetailed_RoleInfo_KongFu_Skill(9)_KongFu_waigong_Text(TMP),External,ภายนอก
+UIDetailed_RoleInfo_KongFu_Skill(9)_KongFu_neigong_Text(TMP),Internal,ภายใน
 UIGiveaway_Image3_Text(TMP),Gift
 UIGiveaway_Image5_Text,Tip: Give the other party their favorite items to improve your relations
 UIGiveaway_Button_Text(TMP),Confirm,ยืนยัน
@@ -2278,13 +2278,13 @@ UINewRole_RoleInfo_RoleInfor_tag_Text(1),MP
 UINewRole_RoleInfo_RoleInfor_tag_Text(2),Attack
 UINewRole_RoleInfo_RoleInfor_tag_Text(3),Defense
 UINewRole_RoleInfo_RoleInfor_tag_Text(4),Qinggong,วิชาตัวเบา
-UINewRole_RoleInfo_RoleInfor_tag_Text(5),Accuracy
-UINewRole_RoleInfo_RoleInfor_tag1_Text,Evasion
+UINewRole_RoleInfo_RoleInfor_tag_Text(5),Accuracy,ความแม่นยำ
+UINewRole_RoleInfo_RoleInfor_tag1_Text,Evasion,หลบหลีก
 UINewRole_RoleInfo_RoleInfor_tag1_Text(1),Critical
-UINewRole_RoleInfo_RoleInfor_tag1_Text(2),Parry
+UINewRole_RoleInfo_RoleInfor_tag1_Text(2),Parry,ปัดป้อง
 UINewRole_RoleInfo_RoleInfor_tag1_Text(3),Medical
-UINewRole_RoleInfo_RoleInfor_tag1_Text(4),Toxicology
-UINewRole_RoleInfo_RoleInfor_tag1_Text(5),Throwing
+UINewRole_RoleInfo_RoleInfor_tag1_Text(4),Toxicology,ศาตร์พิษ
+UINewRole_RoleInfo_RoleInfor_tag1_Text(5),Throwing,อาวุธลับ
 UINewRole_RoleInfo_RoleInfor_tag2_Text,Fist,หมัด
 UINewRole_RoleInfo_RoleInfor_tag2_Text(1),Sword,กระบี่
 UINewRole_RoleInfo_RoleInfor_tag2_Text(2),Blade,ดาบ
@@ -2292,10 +2292,10 @@ UINewRole_RoleInfo_RoleInfor_tag2_Text(3),Long,อาวุธยาว
 UINewRole_RoleInfo_RoleInfor_tag2_Text(4),Short,อาวุธสั้น
 UINewRole_RoleInfo_RoleInfor_tag2_Text(5),Musical
 UINewRole_RoleInfo_RoleInfor_tag3_Text,Benevolence
-UINewRole_RoleInfo_RoleInfor_tag3_Text(1),Righteous
-UINewRole_RoleInfo_RoleInfor_tag3_Text(2),Propriety
+UINewRole_RoleInfo_RoleInfor_tag3_Text(1),Righteous,คุณธรรม
+UINewRole_RoleInfo_RoleInfor_tag3_Text(2),Propriety,มารยาท
 UINewRole_RoleInfo_RoleInfor_tag3_Text(3),Wisdom,ภูมิปัญญา
-UINewRole_RoleInfo_RoleInfor_tag3_Text(4),Trustworthy
+UINewRole_RoleInfo_RoleInfor_tag3_Text(4),Trustworthy,ซื่อสัตย์
 UINewRole_RoleInfo_RoleInfor_tag3_Text(5),Brave
 UINewRole_RoleInfo_RoleInfor_RoleInfo_shengming,100
 UINewRole_RoleInfo_RoleInfor_RoleInfo_neili,100
@@ -2401,7 +2401,7 @@ UINewRole_Continue_Text(TMP),Next Step,ขั้นตอนถัดไป
 UINewRole_Return_Text(TMP),Return,ย้อนกลับ
 UINewRole_RoleName_Continue_Text(TMP),Venturing into the World,เข้าสู่ยุทธภพ
 UINewRole_RoleName_Return_Text(TMP),Return,ย้อนกลับ
-UINewRole_RoleName_Text(TMP),"What is your name, young hero?",จอมยุทธน้อย ข้าขอทราบนามของท่านได้หรือไม่?
+UINewRole_RoleName_Text(TMP),"What is your name, young hero?",จอมยุทธน้อย ท่านมีนามว่าอะไร?
 UINewRole_RoleName_Name_xing,Surname,แซ่
 UINewRole_RoleName_Name_xing_Image_Text(TMP),
 UINewRole_RoleName_Name_xing_Image_Text(TMP)(1),Shangguan
@@ -2514,11 +2514,11 @@ UIPackage1_RoleInfo_RoleInfor_Features_Features1_jiesuo_Text(TMP),Kitty
 UIPackage1_RoleInfo_RoleInfor_Features_Features1(1)_jiesuo_Text(TMP),Kitty
 UIPackage1_RoleInfo_RoleInfor_Features_Features1(2)_jiesuo_Text(TMP),Kitty
 UIPackage1_RoleInfo_RoleInfor_Character_tag_Text,Benevolence
-UIPackage1_RoleInfo_RoleInfor_Character_tag_Text(1),Propriety
-UIPackage1_RoleInfo_RoleInfor_Character_tag_Text(2),Trustworthy
-UIPackage1_RoleInfo_RoleInfor_Character_tag(1)_Text,Righteous
+UIPackage1_RoleInfo_RoleInfor_Character_tag_Text(1),Propriety,มารยาท
+UIPackage1_RoleInfo_RoleInfor_Character_tag_Text(2),Trustworthy,ซื่อสัตย์
+UIPackage1_RoleInfo_RoleInfor_Character_tag(1)_Text,Righteous,คุณธรรม
 UIPackage1_RoleInfo_RoleInfor_Character_tag(1)_Text(1),Wisdom,ภูมิปัญญา
-UIPackage1_RoleInfo_RoleInfor_Character_tag(1)_Text(2),Courage
+UIPackage1_RoleInfo_RoleInfor_Character_tag(1)_Text(2),Courage,ความกล้าหาญ
 UIPackage1_RoleInfo_RoleInfor_Character_RoleInfo_rende,100
 UIPackage1_RoleInfo_RoleInfor_Character_RoleInfo_lijie,100
 UIPackage1_RoleInfo_RoleInfor_Character_RoleInfo_xinyong,100
@@ -2534,19 +2534,19 @@ UIPackage1_RoleInfo_RoleInfor1_tag_Text(1),Qinggong,วิชาตัวเบ�
 UIPackage1_RoleInfo_RoleInfor1_tag_Text(2),Fist,หมัด
 UIPackage1_RoleInfo_RoleInfor1_tag_Text(3),Blade,ดาบ
 UIPackage1_RoleInfo_RoleInfor1_tag_Text(4),Short,อาวุธสั้น
-UIPackage1_RoleInfo_RoleInfor1_tag_Text(5),Accuracy
+UIPackage1_RoleInfo_RoleInfor1_tag_Text(5),Accuracy,ความแม่นยำ
 UIPackage1_RoleInfo_RoleInfor1_tag_Text(6),Critical
 UIPackage1_RoleInfo_RoleInfor1_tag_Text(7),Medical
-UIPackage1_RoleInfo_RoleInfor1_tag_Text(8),Throwing
+UIPackage1_RoleInfo_RoleInfor1_tag_Text(8),Throwing,อาวุธลับ
 UIPackage1_RoleInfo_RoleInfor1_tag_Text(9),Knowledge,ความรู้ด้านวรยุทธ
 UIPackage1_RoleInfo_RoleInfor1_tag1_Text,Defense power
 UIPackage1_RoleInfo_RoleInfor1_tag1_Text(1),Initial Action Point
 UIPackage1_RoleInfo_RoleInfor1_tag1_Text(2),Sword,กระบี่
 UIPackage1_RoleInfo_RoleInfor1_tag1_Text(3),Long,อาวุธยาว
 UIPackage1_RoleInfo_RoleInfor1_tag1_Text(4),Musical
-UIPackage1_RoleInfo_RoleInfor1_tag1_Text(5),Evasion
-UIPackage1_RoleInfo_RoleInfor1_tag1_Text(6),Parry
-UIPackage1_RoleInfo_RoleInfor1_tag1_Text(7),Toxicology
+UIPackage1_RoleInfo_RoleInfor1_tag1_Text(5),Evasion,หลบหลีก
+UIPackage1_RoleInfo_RoleInfor1_tag1_Text(6),Parry,ปัดป้อง
+UIPackage1_RoleInfo_RoleInfor1_tag1_Text(7),Toxicology,ศาตร์พิษ
 UIPackage1_RoleInfo_RoleInfor1_tag1_Text(8),Spar
 UIPackage1_RoleInfo_RoleInfor1_tag1_Text(9),Combat
 UIPackage1_RoleInfo_RoleInfor1_RoleInfo_gongji,100
@@ -2574,11 +2574,11 @@ UIPackage1_RoleInfo_RoleInfor1_Additional_qinggong,+20
 UIPackage1_RoleInfo_RoleInfor1_Additional1_fangyu,+20
 UIPackage1_RoleInfo_RoleInfor1_Additional1_jiqi,+20
 UIPackage1_RoleInfo_RoleInfor1_Character_tag_Text,Benevolence
-UIPackage1_RoleInfo_RoleInfor1_Character_tag_Text(1),Propriety
-UIPackage1_RoleInfo_RoleInfor1_Character_tag_Text(2),Trustworthy
-UIPackage1_RoleInfo_RoleInfor1_Character_tag(1)_Text,Righteous
+UIPackage1_RoleInfo_RoleInfor1_Character_tag_Text(1),Propriety,มารยาท
+UIPackage1_RoleInfo_RoleInfor1_Character_tag_Text(2),Trustworthy,ซื่อสัตย์
+UIPackage1_RoleInfo_RoleInfor1_Character_tag(1)_Text,Righteous,คุณธรรม
 UIPackage1_RoleInfo_RoleInfor1_Character_tag(1)_Text(1),Wisdom,ภูมิปัญญา
-UIPackage1_RoleInfo_RoleInfor1_Character_tag(1)_Text(2),Courage
+UIPackage1_RoleInfo_RoleInfor1_Character_tag(1)_Text(2),Courage,ความกล้าหาญ
 UIPackage1_RoleInfo_RoleInfor1_Character_RoleInfo_rende,100
 UIPackage1_RoleInfo_RoleInfor1_Character_RoleInfo_lijie,100
 UIPackage1_RoleInfo_RoleInfor1_Character_RoleInfo_xinyong,100
@@ -2647,38 +2647,38 @@ UITeam1_Pages_Button_Pages(5)_Text(TMP),Achievement
 UITeam1_Pages_Button_Pages(6)_Text(TMP),Illustration
 UITeam1_Rolebar_Role_Rolestate_Life_Text(TMP),HP
 UITeam1_Rolebar_Role_Rolestate_Life_Text(TMP)(1),200/2000
-UITeam1_Rolebar_Role_Rolestate_Internalforce_Image_Text(TMP),MP
-UITeam1_Rolebar_Role_Rolestate_Internalforce_Image_Text(TMP)(1),200/2000
+UITeam1_Rolebar_Role_Rolestate_Internalforce_Image_Text(TMP),MP,MP
+UITeam1_Rolebar_Role_Rolestate_Internalforce_Image_Text(TMP)(1),200/2000,200/2000
 UITeam1_Rolebar_Role_Rolestate_Name_Text,Magical Afanti
 UITeam1_Rolebar_Role_NoRole_Text,No partners have joined yet
 UITeam1_Rolebar_Role(1)_Rolestate_Life_Text(TMP),HP
 UITeam1_Rolebar_Role(1)_Rolestate_Life_Text(TMP)(1),200/2000
-UITeam1_Rolebar_Role(1)_Rolestate_Internalforce_Image_Text(TMP),MP
-UITeam1_Rolebar_Role(1)_Rolestate_Internalforce_Image_Text(TMP)(1),200/2000
+UITeam1_Rolebar_Role(1)_Rolestate_Internalforce_Image_Text(TMP),MP,MP
+UITeam1_Rolebar_Role(1)_Rolestate_Internalforce_Image_Text(TMP)(1),200/2000,200/2000
 UITeam1_Rolebar_Role(1)_Rolestate_Name_Text,Magical Afanti
 UITeam1_Rolebar_Role(1)_NoRole_Text,No partners have joined yet
 UITeam1_Rolebar_Role(2)_Rolestate_Life_Text(TMP),HP
 UITeam1_Rolebar_Role(2)_Rolestate_Life_Text(TMP)(1),200/2000
-UITeam1_Rolebar_Role(2)_Rolestate_Internalforce_Image_Text(TMP),MP
-UITeam1_Rolebar_Role(2)_Rolestate_Internalforce_Image_Text(TMP)(1),200/2000
+UITeam1_Rolebar_Role(2)_Rolestate_Internalforce_Image_Text(TMP),MP,MP
+UITeam1_Rolebar_Role(2)_Rolestate_Internalforce_Image_Text(TMP)(1),200/2000,200/2000
 UITeam1_Rolebar_Role(2)_Rolestate_Name_Text,Magical Afanti
 UITeam1_Rolebar_Role(2)_NoRole_Text,No partners have joined yet
 UITeam1_Rolebar_Role(3)_Rolestate_Life_Text(TMP),HP
 UITeam1_Rolebar_Role(3)_Rolestate_Life_Text(TMP)(1),200/2000
-UITeam1_Rolebar_Role(3)_Rolestate_Internalforce_Image_Text(TMP),MP
-UITeam1_Rolebar_Role(3)_Rolestate_Internalforce_Image_Text(TMP)(1),200/2000
+UITeam1_Rolebar_Role(3)_Rolestate_Internalforce_Image_Text(TMP),MP,MP
+UITeam1_Rolebar_Role(3)_Rolestate_Internalforce_Image_Text(TMP)(1),200/2000,200/2000
 UITeam1_Rolebar_Role(3)_Rolestate_Name_Text,Magical Afanti
 UITeam1_Rolebar_Role(3)_NoRole_Text,No partners have joined yet
 UITeam1_Rolebar_Role(4)_Rolestate_Life_Text(TMP),HP
 UITeam1_Rolebar_Role(4)_Rolestate_Life_Text(TMP)(1),200/2000
-UITeam1_Rolebar_Role(4)_Rolestate_Internalforce_Image_Text(TMP),MP
-UITeam1_Rolebar_Role(4)_Rolestate_Internalforce_Image_Text(TMP)(1),200/2000
+UITeam1_Rolebar_Role(4)_Rolestate_Internalforce_Image_Text(TMP),MP,MP
+UITeam1_Rolebar_Role(4)_Rolestate_Internalforce_Image_Text(TMP)(1),200/2000,200/2000
 UITeam1_Rolebar_Role(4)_Rolestate_Name_Text,Magical Afanti
 UITeam1_Rolebar_Role(4)_NoRole_Text,No partners have joined yet
 UITeam1_Rolebar_Role(5)_Rolestate_Life_Text(TMP),HP
 UITeam1_Rolebar_Role(5)_Rolestate_Life_Text(TMP)(1),200/2000
-UITeam1_Rolebar_Role(5)_Rolestate_Internalforce_Image_Text(TMP),MP
-UITeam1_Rolebar_Role(5)_Rolestate_Internalforce_Image_Text(TMP)(1),200/2000
+UITeam1_Rolebar_Role(5)_Rolestate_Internalforce_Image_Text(TMP),MP,MP
+UITeam1_Rolebar_Role(5)_Rolestate_Internalforce_Image_Text(TMP)(1),200/2000,200/2000
 UITeam1_Rolebar_Role(5)_Rolestate_Name_Text,Magical Afanti
 UITeam1_Rolebar_Role(5)_NoRole_Text,No partners have joined yet
 UITeam1_Attribute_Roleintroduction,
@@ -2688,10 +2688,10 @@ UITeam1_Attribute_Roleproperties_Text(2),Affiliation
 UITeam1_Attribute_Roleproperties_Text(3),HP
 UITeam1_Attribute_Roleproperties_Text(4),Attack power,พลังโจมตี
 UITeam1_Attribute_Roleproperties_Text(5),Qinggong,วิชาตัวเบา
-UITeam1_Attribute_Roleproperties_Text(6),Accuracy
+UITeam1_Attribute_Roleproperties_Text(6),Accuracy,ความแม่นยำ
 UITeam1_Attribute_Roleproperties_Text(7),Critical
 UITeam1_Attribute_Roleproperties_Text(8),Medical
-UITeam1_Attribute_Roleproperties_Text(9),Throwing
+UITeam1_Attribute_Roleproperties_Text(9),Throwing,อาวุธลับ
 UITeam1_Attribute_Roleproperties_Text(10),Martial Arts
 UITeam1_Attribute_Roleproperties(1)_Text,Identity
 UITeam1_Attribute_Roleproperties(1)_Text(1),Relations
@@ -2699,9 +2699,9 @@ UITeam1_Attribute_Roleproperties(1)_Text(2),Fame
 UITeam1_Attribute_Roleproperties(1)_Text(3),MP
 UITeam1_Attribute_Roleproperties(1)_Text(4),Defense power
 UITeam1_Attribute_Roleproperties(1)_Text(5),Gathering Qi
-UITeam1_Attribute_Roleproperties(1)_Text(6),Evasion
-UITeam1_Attribute_Roleproperties(1)_Text(7),Parry
-UITeam1_Attribute_Roleproperties(1)_Text(8),Toxicology
+UITeam1_Attribute_Roleproperties(1)_Text(6),Evasion,หลบหลีก
+UITeam1_Attribute_Roleproperties(1)_Text(7),Parry,ปัดป้อง
+UITeam1_Attribute_Roleproperties(1)_Text(8),Toxicology,ศาตร์พิษ
 UITeam1_Attribute_Roleproperties(2)_Text,Male
 UITeam1_Attribute_Roleproperties(2)_Text(1),Level 25
 UITeam1_Attribute_Roleproperties(2)_Text(2),No Sect
@@ -2835,7 +2835,7 @@ RoamingUI_BattleStealthControlGroup_SafeHarbourGroup_NormalGroup_Button_Meditati
 UICabMapManager_BottomControl_btnGo_txt,Set Off
 PlayerCreateUI_DiffSelect_Text(TMP)(1),"After selecting the difficulty, all max level skills can be inherited",หลังจากเลือกความยากแล้ว ทักษะทั้งหมดที่ถึงระดับสูงสุดสามารถสืบทอดในรอบถัดไปได้
 BattleUI_Actions_ActionsGroup_DownRightV_BattleSp_UniqueKungfu_BattleExit_InternalKungfu_Label,Ultimate Move
-RelationNpcBox_textNotKnow,Unknown
+RelationNpcBox_textNotKnow,Unknown,ไม่รู้จัก
 UIBonds_btnStop_Text(TMP),Stop
 PlayerCreateUI_CharSheet_PerkGroup_Roaming_Title,Other,อื่นๆ
 PlayerCreateUI_CharSheet_PerkGroup_Battle_Title,Battle

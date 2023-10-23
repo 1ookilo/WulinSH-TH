@@ -4,7 +4,7 @@ MapName_1002,Zhongzhou
 MapName_1003,Wuyue
 MapName_1004,Southwest region
 MapName_1100_0,Vegetable field
-MapName_1100,Nameless village
+MapName_1100,Nameless village,หมู่บ้านไร้นาม
 MapName_1101,Nameless hotel
 MapName_1104_0,Village leader's house
 MapName_1102,Village leader's house - Secret chamber
@@ -19,7 +19,7 @@ MapName_1200_0,Prison
 MapName_1200_1,Training field
 MapName_1200,Blue Wind Camp,ค่ายวายุคราม
 MapName_1201,Main chamber
-MapName_1202,Treasure room
+MapName_1202,Treasure room,ห้องสมบัติ
 MapName_1203,Bedroom
 MapName_1204,Storehouse
 MapName_1300,Wasteland
@@ -28,7 +28,7 @@ MapName_1302,Ruined shrine - Secret chamber
 MapName_1400,Lost Forest,ป่าสาปสูญ
 MapName_1401,Hanging bridge
 MapName_1402,Enlightenment zone,สถานที่ตื่นรู้
-MapName_1500,Wild Wolf Valley
+MapName_1500,Wild Wolf Valley,หุบเขาหมาป่า
 MapName_1501,Wolf King Cave
 MapName_1600,Cross Hill
 MapName_1700,Ferry
@@ -37,7 +37,7 @@ MapName_5001,Graveyard
 MapName_5002,
 MapName_5003,Tea shop
 MapName_5004,Faraway village
-MapName_5005,Refugee Camp
+MapName_5005,Refugee Camp,ค่ายผู้ลี้ภัย
 MapName_5006,
 MapName_5007,Nameless ferry
 MapName_5008,Xiangfan ferry
@@ -145,7 +145,7 @@ MapName_20228,Residential house
 MapName_20229,Zhangyue Casino
 MapName_20297,
 MapName_20298,
-MapName_20300,Lin'an City
+MapName_20300,Lin'an City,เมืองหลินอัน
 MapName_20300_0,Market
 MapName_20300_1,Pier
 MapName_20301,Safeguard Escort
@@ -155,7 +155,7 @@ MapName_20304_0,Government Office
 MapName_20304,Government Office - Main hall
 MapName_20305,Government Office - Study
 MapName_20306,Government Office - Prison
-MapName_20307,Lin'an Dojo
+MapName_20307,Lin'an Dojo,โรงฝึกหลินอัน
 MapName_20308,Health Center
 MapName_20309,Exquisite Pavilion
 MapName_20310,Grocery store
@@ -194,7 +194,7 @@ MapName_20397,Outside Lin'an
 MapName_20398,
 MapName_2010_0,Zhenwu Sword Formation
 MapName_2010_1,Star Observatory
-MapName_2010,Taoist Sect
+MapName_2010,Taoist Sect,วัดขงจื้อ
 MapName_2011,Zhenwu Hall
 MapName_2012,Alchemy room
 MapName_2013,Disciple's room
@@ -220,13 +220,13 @@ MapName_2026,Kitchen
 MapName_2027,Repentance room
 MapName_2028,Arhat Hall
 MapName_2030_0,Saint's Stele
-MapName_2030,Confucius Temple
+MapName_2030,Confucius Temple,วัดขงจื้อ
 MapName_2031,Dacheng Hall
 MapName_2032,Disciple's room
 MapName_2033,Literature Room
 MapName_2034,Ink House
 MapName_2035,Hall of righteousness
-MapName_2040,Crime Investigation Bureau
+MapName_2040,Crime Investigation Bureau,สำนักสืบสวน
 MapName_2041,Interrogation Hall
 MapName_2042,Bedroom
 MapName_2043,Prison
@@ -244,26 +244,26 @@ MapName_2071,Three Feet Hall
 MapName_2072,Weapon Pavilion,หอศาสตรา
 MapName_2073,Disciple's room
 MapName_2074,Mine
-MapName_2080,Ye Family Battalion
+MapName_2080,Ye Family Battalion,กองพันตระกูลเย่
 MapName_2081,Loyalty Hall
 MapName_2082,Soldier's tent
 MapName_2083,Armory
-MapName_2090,Plant Sect
+MapName_2090,Plant Sect,สำนักพงไพร
 MapName_2091,Main hall
 MapName_2092,Alchemy room
-MapName_2100,Linlang Temple
+MapName_2100,Linlang Temple,วัดหลินหลาง
 MapName_2101,Main hall
 MapName_2102,Linlang Go puzzle
 MapName_2110,Tomb Raider Sect
 MapName_2111,Great hall
-MapName_2120,Jiuli Tribe
+MapName_2120,Jiuli Tribe,เผ่าจิ่วลี่
 MapName_2121,Jiuli Tribe·Main Camp
 MapName_2122,Jiuli Tribe - Poison Dragon Cave
 MapName_2130,Night Demon Square
 MapName_2131,Great hall
 MapName_2139,
-MapName_2140,Nest of Swallow
-MapName_2150,Nine Factions Sect
+MapName_2140,Nest of Swallow,รังนกนางแอ่น
+MapName_2150,Nine Factions Sect,นิกายเก้าฝ่าย
 MapName_2151,Nine Factions Sect·Senluo Hall
 MapName_2155,Buddha Temple
 MapName_2156,Buddha Temple - 1st Floor
@@ -272,7 +272,7 @@ MapName_2158,Buddha Temple - 3rd Floor
 MapName_2159,Buddha Temple - Lasst Floor
 MapName_2160,Melody House
 MapName_2161,Melody House·Yinfeng Tower
-MapName_2170,Bandit Camp
+MapName_2170,Bandit Camp,ค่ายโจร
 MapName_2998,
 MapName_2999,Training area
 MapName_10010,Emperor Wu Mausoleum
@@ -297,7 +297,7 @@ WMapName_1002,Zhongzhou
 WMapName_1003,Wuyue
 WMapName_1004,Southwest region
 WMapName_1100_0,Vegetable field
-WMapName_1100,Nameless village
+WMapName_1100,Nameless village,หมู่บ้านไร้นาม
 WMapName_1101,Nameless hotel
 WMapName_1104_0,Village leader's house
 WMapName_1102,Village leader's house - Secret chamber
@@ -312,7 +312,7 @@ WMapName_1200_0,Prison
 WMapName_1200_1,Training field
 WMapName_1200,Blue Wind Camp,ค่ายวายุคราม
 WMapName_1201,Main chamber
-WMapName_1202,Treasure room
+WMapName_1202,Treasure room,ห้องสมบัติ
 WMapName_1203,Bedroom
 WMapName_1204,Storehouse
 WMapName_1300,Wasteland
@@ -321,7 +321,7 @@ WMapName_1302,Ruined shrine - Secret chamber
 WMapName_1400,Lost Forest,ป่าสาปสูญ
 WMapName_1401,Hanging bridge
 WMapName_1402,Enlightenment zone,สถานที่ตื่นรู้
-WMapName_1500,Wild Wolf Valley
+WMapName_1500,Wild Wolf Valley,หุบเขาหมาป่า
 WMapName_1501,Wolf King Cave
 WMapName_1600,Cross Hill
 WMapName_1700,Ferry
@@ -330,7 +330,7 @@ WMapName_5001,Graveyard
 WMapName_5002,
 WMapName_5003,Tea shop
 WMapName_5004,Faraway village
-WMapName_5005,Refugee Camp
+WMapName_5005,Refugee Camp,ค่ายผู้ลี้ภัย
 WMapName_5006,
 WMapName_5007,Nameless ferry
 WMapName_5008,Xiangfan ferry
@@ -436,7 +436,7 @@ WMapName_20228,Residential house
 WMapName_20229,Zhangyue Casino
 WMapName_20297,
 WMapName_20298,
-WMapName_20300,Lin'an City
+WMapName_20300,Lin'an City,เมืองหลินอัน
 WMapName_20300_0,Market
 WMapName_20300_1,Pier
 WMapName_20301,Safeguard Escort
@@ -446,7 +446,7 @@ WMapName_20304_0,Government Office
 WMapName_20304,Government Office - Main hall
 WMapName_20305,Government Office - Study
 WMapName_20306,Government Office - Prison
-WMapName_20307,Lin'an Dojo
+WMapName_20307,Lin'an Dojo,โรงฝึกหลินอัน
 WMapName_20308,Health Center
 WMapName_20309,Exquisite Pavilion
 WMapName_20310,Grocery store
@@ -485,7 +485,7 @@ WMapName_20397,Outside Lin'an
 WMapName_20398,
 WMapName_2010_0,Zhenwu Sword Formation
 WMapName_2010_1,Star Observatory
-WMapName_2010,Taoist Sect
+WMapName_2010,Taoist Sect,วัดขงจื้อ
 WMapName_2011,Zhenwu Hall
 WMapName_2012,Alchemy room
 WMapName_2013,Disciple's room
@@ -510,10 +510,10 @@ WMapName_2025,Scripture Tower - 3rd Floor
 WMapName_2026,Kitchen
 WMapName_2027,Repentance room
 WMapName_2028,Arhat Hall
-WMapName_2030,Confucius Temple
+WMapName_2030,Confucius Temple,วัดขงจื้อ
 WMapName_2031,Hall of justice
 WMapName_2032,Disciple's room
-WMapName_2040,Crime Investigation Bureau
+WMapName_2040,Crime Investigation Bureau,สำนักสืบสวน
 WMapName_2041,Interrogation Hall
 WMapName_2042,Bedroom
 WMapName_2043,Prison
@@ -531,26 +531,26 @@ WMapName_2071,Three Feet Hall
 WMapName_2072,Weapon Pavilion,หอศาสตรา
 WMapName_2073,Disciple's room
 WMapName_2074,Mine
-WMapName_2080,Ye Family Battalion
+WMapName_2080,Ye Family Battalion,กองพันตระกูลเย่
 WMapName_2081,Loyalty Hall
 WMapName_2082,Soldier's tent
 WMapName_2083,Armory
-WMapName_2090,Plant Sect
+WMapName_2090,Plant Sect,สำนักพงไพร
 WMapName_2091,Main hall
 WMapName_2092,Alchemy room
-WMapName_2100,Linlang Temple
+WMapName_2100,Linlang Temple,วัดหลินหลาง
 WMapName_2101,Main hall
 WMapName_2102,Linlang Go puzzle
 WMapName_2110,Tomb Raider Sect
 WMapName_2111,Great hall
-WMapName_2120,Jiuli Tribe
+WMapName_2120,Jiuli Tribe,เผ่าจิ่วลี่
 WMapName_2121,Jiuli Tribe·Main Camp
 WMapName_2122,Jiuli Tribe - Poison Dragon Cave
 WMapName_2130,Night Demon Square
 WMapName_2131,Great hall
 WMapName_2139,
-WMapName_2140,Nest of Swallow
-WMapName_2150,Nine Factions Sect
+WMapName_2140,Nest of Swallow,รังนกนางแอ่น
+WMapName_2150,Nine Factions Sect,นิกายเก้าฝ่าย
 WMapName_2151,Nine Factions Sect·Senluo Hall
 WMapName_2155,Buddha Temple
 WMapName_2156,Buddha Temple - 1st Floor
@@ -559,7 +559,7 @@ WMapName_2158,Buddha Temple - 3rd Floor
 WMapName_2159,Buddha Temple - Lasst Floor
 WMapName_2160,Melody House
 WMapName_2161,Melody House·Yinfeng Tower
-WMapName_2170,Bandit Camp
+WMapName_2170,Bandit Camp,ค่ายโจร
 WMapName_2998,
 WMapName_2999,Training area
 WMapName_10010,Emperor Wu Mausoleum

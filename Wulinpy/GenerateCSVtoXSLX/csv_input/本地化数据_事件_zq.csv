@@ -8,12 +8,12 @@ Talking_treasure,Present treasure
 Talking_fan,Cattail fan
 Talking_leavecity,Leave the city,ออกจากเมือง
 Talking_serve,Serve
-Talking_map,Map
+Talking_map,Map,แผนที่
 M1101-2-1_talk,Jade pendant,จี้หยก
 R10003-2_talk,Delicacy
 Talking_20004-4,Wish,ปรารถนา
 Talking_20006-3,Worry,กังวล
-Talking_auction,Auction
+Talking_auction,Auction,ประมูล
 Talking_hero,Sign up,ลงทะเบียน
 Talking_train,Training,ฝึกฝน
 Talking_trainee,Apprentice,ฝึกงาน
@@ -70,7 +70,7 @@ Talking_Mission,Mission
 Talking_Rich,Get rich
 Talking_Meet,Pay a visit
 Talking_Livinglong,Longevity
-Talking_Heal,Heal
+Talking_Heal,Heal,รักษา
 Talking_SecretScript,Manual
 Talking_Boat,Take a boat
 Talking_Surrender,Surrender
@@ -99,18 +99,18 @@ Role1-1option1_7,Tie her up first!,มัดนางไว้ก่อน!
 Role1-1option1_8,<color=#0574a8>Help her stand up</color>.,<color=#0574a8>พยุงนางลุกขึ้น</color>.
 Role1-1option1_9,<color=#0574a8>Untie her and help her stand up</color>.,<color=#0574a8>แก้มัดให้นาง แล้วพยุงให้ลุกขึ้น</color>.
 Role1-1option2_1,"Alright, let's do as you say.",ตกลง เอาอย่างท่านว่าเถอะ
-Role1-1option2_2,Reject this suggestion.,ปฏิเสธข้อเสนอของนาง
+Role1-1option2_2,Reject this suggestion.,ปฏิเสธข้อเสนอนี้
 Role1-1option2_3,I'll help you run away from here.
-Role1-1option2_4,"Excuse me, Run away."
-Role1-1option2_5,"Alright, let's take her away."
-Role1-1option3_1,Just pay a visit.<color=#097a76>(1 quarter)</color>,ลองเยี่ยมชมดู<color=#097a76>(สักครู่)</color>
+Role1-1option2_4,"Excuse me, Run away.",ขออภัย ข้าขอตัวก่อน
+Role1-1option2_5,"Alright, let's take her away.",ก็ได้ๆ พานางไปกันเถอะ
+Role1-1option3_1,Just pay a visit.<color=#097a76>(1 quarter)</color>,ลองเยี่ยมชมดู<color=#097a76>สักครู่</color>
 Role1-1option3_2,Forget it.,ช่างมันเถอะ
 Role1-2option1_dialog,"Could it be the plot where a mysterious master teaches a unique martial art?\nUnfortunately, I can only choose one. Which one should I choose?"
-Role1-2option1_1,"<color=#097a76>""Armor Breaker Move""</color> Manual. (Yang-style internal strength, increases damage)"
-Role1-2option1_2,"<color=#097a76>""Wave Rider Technique""</color> Manual. (Yin-style internal strength, increases speed)"
-Role1-2option1_3,"<color=#097a76>""Revitalization Technique""</color> Manual. (Balanced internal strength, recovers HP)"
-Role1-2option1_4,It's more appropriate to take all the money on you.
-Role1-2option1_5,It's more appropriate to share half of the credit for capturing the female thief.
+Role1-2option1_1,"<color=#097a76>""Armor Breaker Move""</color> Manual. (Yang-style internal strength, increases damage)","<color=#097a76>""เคล็ดวิชาทลายเกราะ""</color> (กำลังภายในหยาง, เพิ่มพลังโจมตี)"
+Role1-2option1_2,"<color=#097a76>""Wave Rider Technique""</color> Manual. (Yin-style internal strength, increases speed)","<color=#097a76>""เคล็ดวิชาท่องคลื่น""</color> (กำลังภายในหยิน เพิ่มความว่องไว)"
+Role1-2option1_3,"<color=#097a76>""Revitalization Technique""</color> Manual. (Balanced internal strength, recovers HP)","<color=#097a76>""เคล็ดวิชาฟื้นฟู""</color> (กำลังภายในสมดุล, ฟื้นฟูพลังชีวิต)"
+Role1-2option1_4,It's more appropriate to take all the money on you.,เจ้าให้เงินทั้งหมดแก่ข้าจะดีกว่านะ
+Role1-2option1_5,It's more appropriate to share half of the credit for capturing the female thief.,ข้าคิดว่าแบ่งความชอบในการจับนางโจรสาวคนละครึ่งน่าจะเหมาะกว่า
 Role1-2option2_1,Untie her and let her go.,แก้มัดแล้วปล่อยนางไป
 Role1-2option2_2,Untie her and let her go.,แก้มัดแล้วปล่อยนางไป
 Role1-2option2_3,Quietly run away.,ออกไปอย่างเงียบๆ
@@ -460,7 +460,7 @@ R20010-1_option1_1,Let's play on the Horse!
 R20010-1_option1_2,Busy with something.
 R20022-1_option1_1,"Listening to the medical knowledge with respect. <color=#097a76>(Stamina20, 1 shichen)</color>"
 R20022-1_option1_2,"I'm more interested in your Herbs. <color=#097a76>(Stamina20, 1 shichen)</color>"
-R20022-1_option1_3,"Excuse me, Run away."
+R20022-1_option1_3,"Excuse me, Run away.",ขออภัย ข้าขอตัวก่อน
 R20022-4_option1_1,Agree to let the old man stay here to study medicine.
 R20022-4_option1_2,Disagree with the old man staying.
 R10003-1_name,Village Beggar
@@ -1048,11 +1048,11 @@ M20300-17_option2_1,Enter the tower and seize the treasure!
 M20300-17_option2_2,Seize the treasure alone!<color=#097a76>(Fame reached level 7 Prominence)</color>
 M20300-17_option2_3,Ask about the rules again.
 M20300-17_option2_4,Let me think about it.
-M20300-17_option3_1,Send {TeamerName:1} to fight.
-M20300-17_option3_2,Send {TeamerName:2} to fight.
-M20300-17_option3_3,Send {TeamerName:3} to fight.
-M20300-17_option3_4,Send {TeamerName:4} to fight.
-M20300-17_option3_5,Send {TeamerName:5} to fight.
+M20300-17_option3_1,Send {TeamerName:1} to fight.,ส่ง {TeamerName:1} ไปสู้
+M20300-17_option3_2,Send {TeamerName:2} to fight.,ส่ง {TeamerName:2} ไปสู้
+M20300-17_option3_3,Send {TeamerName:3} to fight.,ส่ง {TeamerName:3} ไปสู้
+M20300-17_option3_4,Send {TeamerName:4} to fight.,ส่ง {TeamerName:4} ไปสู้
+M20300-17_option3_5,Send {TeamerName:5} to fight.,ส่ง {TeamerName:5} ไปสู้
 M20300-17_option4_1,Give up on the treasure.<color=#c44b0e>(No more challenges)</color>
 M20300-17_option4_2,Don't give up.
 M20200-16_option1_1,Barge in. <color=#c44b0e>(Start the fight directly)</color>
@@ -1150,7 +1150,7 @@ R10031-2-1_option1_1,"Here's 10 guan, I'll redeem the knife.<color=#097a76>(1000
 R10031-2-1_option1_2,I won't redeem the knife for now.
 R10031-2-1_option1_3,"Here's 5 guan, I'll redeem the knife.<color=#097a76>(5000 wen)</color>"
 R10031-2-2_option1_1,"Could you please sharpen the knife for me, Master?<color=#097a76>(5000 wen)</color>"
-R10031-2-2_option1_2,"Excuse me, Run away."
+R10031-2-2_option1_2,"Excuse me, Run away.",ขออภัย ข้าขอตัวก่อน
 R10078-2_option1_1,"Please spare me, Captain Qiu.<color=#097a76>(Solo by protagonist)</color>"
 R10078-2_option1_2,Not ready yet.
 R10089-2_option1_1,Then I'll give you some pointers.<color=#097a76>(Solo by protagonist)</color>
@@ -1290,7 +1290,7 @@ R10006-2_option1_2,Think Shi Chen is framing Lü Wenhuan.<color=#c44b0e>(Solo fi
 R10057-1_option1_1,Agree to fight with Niu Er!<color=#097a76>(Solo fight)</color>
 R10057-1_option1_2,Refuse to fight with Niu Er.
 R10058-1_option1_1,Give Li San 2000 wen.<color=#097a76>(2000 wen)</color>
-R10058-1_option1_2,"Excuse me, Run away."
+R10058-1_option1_2,"Excuse me, Run away.",ขออภัย ข้าขอตัวก่อน
 R10033-1_option1_1,Accept Ye Yun's challenge.<color=#097a76>(Solo fight)</color>
 R10033-1_option1_2,Refuse the challenge.
 R10033-2_option1_1,Agree with Ye Yun.<color=#c44b0e>(12 shichen)</color>
@@ -1303,7 +1303,7 @@ M20302-4_option1_3,Tell him about the Underground Arena directly.
 M5052-1_name,Peak Debate
 M5052-1_overview,Prepare fully and go to the <color=#c44b0e>Peak of Challenge</color> to participate in the Peak Debate and compete for the top spot!
 M5052-1_option1_1,"Join the Peak Debate!<color=#097a76>(Qinggong200, partners leave)</color>"
-M5052-1_option1_2,"Excuse me, Run away."
+M5052-1_option1_2,"Excuse me, Run away.",ขออภัย ข้าขอตัวก่อน
 M5052-1_option2_1,Achieve the <color=#c44b0e>World's No.1</color> ending<color=#0574a8>(Game Over)</color>.
 M5052-1_option2_2,Continue to travel in Jianghu.
 R10035-1_option1_1,Sit down for a drink and assist the Prince of Yan.<color=#c44b0e>(Specific Battle)</color>
@@ -1340,7 +1340,7 @@ R10034-0_option1_1,Bow respectfully!
 R10034-0_option1_2,Bow normally!
 M10070-1_option1_1,I am the messenger of General Lu from Chuxiang City!
 M10070-1_option1_2,I came specifically to exterminate you!<color=#c44b0e>(Direct Battle)</color>
-M10070-1_option1_3,"Excuse me, Run away."
+M10070-1_option1_3,"Excuse me, Run away.",ขออภัย ข้าขอตัวก่อน
 M10070-1_option2_1,Why not!
 M10070-1_option2_2,Only a fool would believe your provocation!
 M10070-4_option1_1,Reveal your identity as Huiyuan.
@@ -1357,7 +1357,7 @@ School-2030-1_overview2,Return to Confucius Temple to report.
 School-2030-1_option1_1,Request information about Confucius Temple.
 School-2030-1_option1_2,Inquire about the teachings of Confucius Temple.
 School-2030-1_option1_3,<color=#0574a8>Join Confucius Temple.</color>
-School-2030-1_option1_4,"Excuse me, Run away."
+School-2030-1_option1_4,"Excuse me, Run away.",ขออภัย ข้าขอตัวก่อน
 School-2030-1_option2_1,"Choose the pen technique <color=#0574a8>""Spring and Autumn Pen""</color> (Intelligence enhances Power)"
 School-2030-1_option2_2,"Choose the fan technique <color=#0574a8>""Drifting Cloud Fan""</color> (Dexterity enhances Power)"
 School-2030-1_option3_1,Hand over the recommendation letter from Qi Wang.<color=#097a76>(1 recommendation letter from Qi Wang)</color>

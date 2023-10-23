@@ -20,7 +20,7 @@ FondTag_毒物,Toxic,พิษ
 FondTag_食物,Food,อาหาร
 FondTag_主食,Main,อาหารหลัก
 FondTag_菜肴,Side
-FondTag_汤水,Soup,ซุป
+FondTag_汤水,Soup,น้ำแกง
 FondTag_甜食,Sweets,ขนม
 FondTag_水果,Fruit,ผลไม้
 FondTag_药品,Medicine,ยา
@@ -39,7 +39,7 @@ FondTag_水产,Aquatic,ประมง
 FondTag_河鲜,Fresh water,อาหารสดแม่น้ำ
 FondTag_鱼类,Fish,ปลา
 FondTag_茶叶,Tea leaf,ใบชา
-FondTag_绘画,Painting,จิตรกรรม
+FondTag_绘画,Painting,ภาพวาด
 FondTag_字帖,Calligraphy,ประดิษฐ์ตัวอักษร
 FondTag_玩具,Toy,ของเล่น
 FondTag_装饰,Ornament,เครื่องประดับ
@@ -108,11 +108,11 @@ UnitName_颗,Grain
 UnitName_组,Group
 UnitName_包,Pack
 UnitName_本,Book
-UnitName_封,Seal
+UnitName_封,Seal,ผนึก
 UnitName_堆,Pile
-UnitName_两,Two
+UnitName_两,Two,สอง
 UnitName_份,Portion
-UnitName_笼,Cage
+UnitName_笼,Cage,กรง
 UnitName_碗,Bowl
 UnitName_串,String
 UnitName_瓶,Bottle
@@ -150,11 +150,11 @@ ItemName_降龙,Dragon Slayer
 ItemName_乾坤,Heaven and Earth
 ItemName_开明,Enlightened
 ItemName_少昊,Freedom
-ItemName_北冥,North Sea
-ItemName_木剑,Wooden sword
-ItemName_黑铁剑,Black iron sword
+ItemName_北冥,North Sea,ทะเลเหนือ
+ItemName_木剑,Wooden sword,กระบี่ไม้
+ItemName_黑铁剑,Black iron sword,กระบี่เหล็กดำ
 ItemName_青铜剑,Bronze sword
-ItemName_生铁剑,Cast iron sword
+ItemName_生铁剑,Cast iron sword,กระบี่เหล็กหลอม
 ItemName_白虹剑,Rainbow sword
 ItemName_紫电剑,Lightning sword
 ItemName_游龙剑,Dragon sword
@@ -172,9 +172,9 @@ ItemName_九凤,Nine Phoenix
 ItemName_巨阙,The Giant
 ItemName_大石剑,Big stone sword
 ItemName_菜刀,Kitchen knife
-ItemName_剔骨尖刀,Bone remover knife
+ItemName_剔骨尖刀,Bone remover knife,มีดเลาะกระดูก
 ItemName_砍柴刀,Hatchet
-ItemName_大砍刀,Big blade
+ItemName_大砍刀,Big blade,ดาบใหญ่
 ItemName_砍山刀,Mountain blade
 ItemName_九环刀,Nine rings blade
 ItemName_宣花斧,Xuanhua axe
@@ -208,7 +208,7 @@ ItemName_混沌,Origin
 ItemName_烧火棍,Fire stick
 ItemName_木棍,Wooden stick,ท่อนไม้
 ItemName_木杵,Wooden hammer
-ItemName_竹竿,Bamboo stick
+ItemName_竹竿,Bamboo stick,กระบองไม้ไผ่
 ItemName_短棒,Short stick
 ItemName_镔铁杖,Steel staff
 ItemName_齐眉棍,Eyebrow staff
@@ -237,8 +237,8 @@ ItemName_浪淘沙,Waves Scouring the Sands
 ItemName_卜算子,Fortune Teller
 ItemName_祝融,Zhurong
 ItemName_夸父,Kuafu
-ItemName_青丘,Qingqiu
-ItemName_短剑,Short sword
+ItemName_青丘,Qingqiu,ชิงชิว
+ItemName_短剑,Short sword,กระบี่สั้น
 ItemName_匕首,Dagger,มีด
 ItemName_峨嵋刺,Emei dagger
 ItemName_短刀,Short blade
@@ -281,12 +281,12 @@ ItemName_绿绮,Green Beauty
 ItemName_绕梁,Lingering
 ItemName_号钟,Bell Sound
 ItemName_囚牛,Qiuniu
-ItemName_木箫,Wooden flute
+ItemName_木箫,Wooden flute,ขลุ่ยไม้
 ItemName_洞箫,Hole flute
-ItemName_竹箫,Bamboo flute
-ItemName_铁箫,Iron flute
+ItemName_竹箫,Bamboo flute,ขลุ่ยไม้ไผ่
+ItemName_铁箫,Iron flute,ขุล่ยเหล็ก
 ItemName_紫竹箫,Violet bamboo flute
-ItemName_玉屏箫,Jade flute
+ItemName_玉屏箫,Jade flute,ขลุ่ยหยก
 ItemName_九节箫,Nine-sections flute
 ItemName_枉凝眉,Vain Eyebrows
 ItemName_关山月,Mountain Moon
@@ -318,7 +318,7 @@ ItemName_百衲衣,Monk clothes
 ItemName_官差服,Official uniform
 ItemName_逍遥衣,Wanderer clothes
 ItemName_精铁内甲,Steel armor
-ItemName_锁子铠,Chain armor
+ItemName_锁子铠,Chain armor,เกราะโซ่
 ItemName_僧袍,Monk robe
 ItemName_道袍,Taoist robe
 ItemName_夜行衣,Night clothes
@@ -446,11 +446,11 @@ ItemName_袖箭,Shuriken
 ItemName_铜钱镖,Throwing coin
 ItemName_飞刀,Throwing blade
 ItemName_鸡毛箭,Feather arrow
-ItemName_毒镖,Poisoned dart
+ItemName_毒镖,Poisoned dart,ลูกดอกอาบยาพิษ
 ItemName_五毒梅花针,Five Poisons plum needle
 ItemName_铁胎丸,Steel ring
 ItemName_霹雳弹,Thunder bullet
-ItemName_玉毫针,Jade needle
+ItemName_玉毫针,Jade needle,เข็มหยก
 ItemName_霹雳雷火弹,Exploding thunder bullet
 ItemName_暴雨梨花钉,Violent storm pear needle
 ItemName_迷魂烟,Ecstasy smoke
@@ -564,7 +564,7 @@ ItemName_铁铲,Iron shovel
 ItemName_粗糙的矿镐,Simple pickaxe
 ItemName_粗糙的伐木斧,Simple hatchet
 ItemName_粗糙的长镐,Simple shovel
-ItemName_丁品檀香,Normal incense
+ItemName_丁品檀香,Normal incense,ธูป
 ItemName_青草,Green grass
 ItemName_破旧的包裹,Worn-out package
 ItemName_野猪牙,Wild boar fang
@@ -610,15 +610,15 @@ ItemName_断魂林地图,Soul Destroyer Forest Map
 ItemName_琼花谷地图,Map - Viburnum Valley
 ItemName_邙山穴地图,Mang Mountain Pit Map
 ItemName_长生冢地图,Longevity Tomb Map
-ItemName_霖安城地图,Map - Lin'an City
+ItemName_霖安城地图,Map - Lin'an City,แผนที่ - เมืองหลินอัน
 ItemName_楚襄城地图,Map - Chuxiang City,แผนที่ - เมืองฉู่เซียง
 ItemName_大梁城地图,Map - Daliang City,แผนที่ - เมืองต้าเหลียง
 ItemName_释法寺地图,Map - Shifa Temple,แผนที่ - วัดชี่ฟา
-ItemName_儒圣馆地图,Map - Confucius Temple
+ItemName_儒圣馆地图,Map - Confucius Temple,แผนที่ - วัดขงจื้อ
 ItemName_道玄宗地图,Map - Taoist Sect,แผนที่ - สำนักเต๋า
 ItemName_武帝陵地图,Map - Emperor Wu Mausoleum
-ItemName_野狼谷藏宝图,Treasure map
-ItemName_迷踪林藏宝图,Treasure map
+ItemName_野狼谷藏宝图,Treasure map,แผนที่สมบัติ
+ItemName_迷踪林藏宝图,Treasure map,แผนที่สมบัติ
 ItemName_谜之藏宝图·一,Secret treasure map - Part 1
 ItemName_谜之藏宝图·二,Secret treasure map - Part 2
 ItemName_谜之藏宝图·三,Secret treasure map - Part 3
@@ -650,7 +650,7 @@ ItemName_油条,Fritter
 ItemName_清汤面,Vegan noodle
 ItemName_花椒饼,Pan cake
 ItemName_饭团,Rice ball
-ItemName_米饭,Rice
+ItemName_米饭,Rice,ข้าว
 ItemName_鸡蛋饼,Egg cake
 ItemName_杂粮饼,Grain cake
 ItemName_一言难尽的面食,Unspeakable noodle
@@ -752,7 +752,7 @@ ItemName_菜汤,Mixed porridge
 ItemName_萝卜汤,Radish soup
 ItemName_豆浆,Soy milk
 ItemName_豆腐脑,Jellied beancurd
-ItemName_汤,Soup
+ItemName_汤,Soup,น้ำแกง
 ItemName_怪味汤,Strange soup
 ItemName_馄饨,Wonton
 ItemName_鲜鱼汤,Fresh fish soup
@@ -761,7 +761,7 @@ ItemName_山珍汤,Wild game soup
 ItemName_素鲜粥,Fresh porridge
 ItemName_海鲜粥,Seafood porridge
 ItemName_砂锅鸡汤,Chicken soup
-ItemName_胡辣汤,Spicy soup
+ItemName_胡辣汤,Spicy soup,แกงเผ็ด
 ItemName_杂拌粥,Mixed soup
 ItemName_养生蔬菜粥,Vegetable porridge
 ItemName_莲子粥,Lotus sweet soup
@@ -786,9 +786,9 @@ ItemName_雪花糕,Milk snow cake
 ItemName_糖糜乳糕浇,Custard
 ItemName_小浆果,Small berries,ผลไม้เล็กๆ
 ItemName_桑葚,Strawberry
-ItemName_葡萄,Grape
+ItemName_葡萄,Grape,องุ่น
 ItemName_山楂,Mulberry
-ItemName_橙子,Orange
+ItemName_橙子,Orange,ส้ม
 ItemName_鸭梨,Pear
 ItemName_桃子,Peach
 ItemName_石榴,Pomegranate
@@ -797,10 +797,10 @@ ItemName_青梅,Greengage
 ItemName_番茄,Tomato
 ItemName_西瓜,Watermelon
 ItemName_杨梅,Bayberry
-ItemName_椰子,Coconut
-ItemName_榴莲,Durian
-ItemName_跌打药,Healing powder
-ItemName_行气散,Energy powder
+ItemName_椰子,Coconut,มะพร้าว
+ItemName_榴莲,Durian,ทุเรียน
+ItemName_跌打药,Healing powder,ยาผงรักษาแผล
+ItemName_行气散,Energy powder,ยาผงฟื้นฟูปราณ
 ItemName_金疮药,Healing medicine
 ItemName_祛病丸,Illness removal pill
 ItemName_培元膏,Healing ointment
@@ -890,7 +890,7 @@ ItemName_长兵心得,Long weapon technique
 ItemName_短兵心得,Short weapon technique
 ItemName_音律心得,Musical technique
 ItemName_金石汇编,Ore compendium
-ItemName_炼兵精要,Military tactics
+ItemName_炼兵精要,Military tactics,กลศึก
 ItemName_传灯录,Record of the Transmission of the Lamp
 ItemName_黄帝内经,Esoteric Scripture of the Yellow Emperor
 ItemName_太平圣惠方,Peaceful Holy Benevolence Recipe
@@ -968,7 +968,7 @@ ItemName_黄花菜,Daylily
 ItemName_芹菜,Celery
 ItemName_苋菜,Amaranth
 ItemName_生菜,Lettuce
-ItemName_菠菜,Spinach
+ItemName_菠菜,Spinach,ผักโขม
 ItemName_花生,Peanut
 ItemName_蚕豆,Broad bean
 ItemName_黄豆,Soy bean
@@ -983,17 +983,17 @@ ItemName_豆腐,Tofu
 ItemName_土豆,Potato
 ItemName_胡萝卜,Carrot
 ItemName_面粉,Wheat flour
-ItemName_稻米,Rice
+ItemName_稻米,Rice,ข้าว
 ItemName_糯米粉,Glutinous rice
 ItemName_香米,Fragrant rice
 ItemName_芝麻,Sesame
-ItemName_花椒,Pepper
+ItemName_花椒,Pepper,พริกไทย
 ItemName_醋,Vinegar
 ItemName_酱油,Soy sauce
-ItemName_盐,Salt
-ItemName_辣椒,Chili
-ItemName_糖,Sugar
-ItemName_蜂蜜,Honey
+ItemName_盐,Salt,เกลือ
+ItemName_辣椒,Chili,พริก
+ItemName_糖,Sugar,น้ำตาล
+ItemName_蜂蜜,Honey,น้ำผึ้ง
 ItemName_蔗糖,Sugar cane
 ItemName_鸡肉,Chicken meat
 ItemName_鹅肉,Goose meat
@@ -1328,7 +1328,7 @@ ItemName_秋风掌法,Autumn Wind Palm Technique
 ItemName_破空拳,Breakthrough Fist
 ItemName_醉仙拳,Wine God Fist
 ItemName_断魂爪,Soul Destroyer Claw
-ItemName_般若掌,Prajna Palm
+ItemName_般若掌,Prajna Palm,ฝ่ามือปัญญา
 ItemName_幻灭指,Disintegrating Finger
 ItemName_碧落黄泉,Death Road
 ItemName_破庙拳法,Abandoned Temple Fist
@@ -1361,7 +1361,7 @@ ItemName_太乙剑法,Taiyi Sword
 ItemName_须弥剑法,Sumeru Sword
 ItemName_游龙剑法,Dragon Roaming Sword,กระบี่มังกรร่ายรำ
 ItemName_青萍剑法,Blue Weed Sword
-ItemName_玉女剑法,Maiden Sword
+ItemName_玉女剑法,Maiden Sword,กระบี่ดรุณีหยก
 ItemName_柔云剑法,Gentle Cloud Sword,กระบี่เมฆาละมุน
 ItemName_贪狼剑法,Flirting Star Sword
 ItemName_苍穹剑法,Heaven Sword
@@ -1383,12 +1383,12 @@ ItemName_求败九式,Dugu Nine Swords
 ItemName_破天剑法,Sky Breaker Sword
 ItemName_磐龙剑法,Dragon Sword
 ItemName_无极剑法,Infinity Sword
-ItemName_无名剑法,Nameless Sword
-ItemName_浮华掠影剑,Illusion Sword
-ItemName_地趟刀法,Earth Blade
+ItemName_无名剑法,Nameless Sword,กระบี่ไร้นาม
+ItemName_浮华掠影剑,Illusion Sword,กระบี่เงาลวง
+ItemName_地趟刀法,Earth Blade,ดาบพสุธา
 ItemName_伏虎刀法,Tiger Taming Blade
 ItemName_三才刀法,Trinity Blade
-ItemName_疾风斩,Wind Blade
+ItemName_疾风斩,Wind Blade,ดาบวายุ
 ItemName_开山刀法,Mountain Clear Blade
 ItemName_荡寇刀法,Bandit Killer Blade
 ItemName_疾风八斩法,Octagonal Wind Blade
@@ -1400,7 +1400,7 @@ ItemName_西域刀法,Xiyu Blade
 ItemName_风沙刀法,Sandstorm Blade
 ItemName_大蛮刀法,Brutal Blade
 ItemName_合月镰三式,Moon Phase Three Forms
-ItemName_修罗刀法,Shura Blade
+ItemName_修罗刀法,Shura Blade,ดาบอสุรา
 ItemName_破甲刀法,Armor Breaker Blade
 ItemName_剔骨刀法,Bone Cleaver Blade
 ItemName_柴刀刀法,Lumbering Blade
@@ -1483,7 +1483,7 @@ ItemName_扇舞春秋,Spring and Autumn Fan
 ItemName_锥心刺,Heart Piercer
 ItemName_灵蛇刺,Spirit Snake
 ItemName_追风短打,Wind Chaser
-ItemName_破空梭,Wind Breaker,คลื่นวายุ
+ItemName_破空梭,Wind Breaker,ผ่าวายุ
 ItemName_疾风刺,Wind Stab
 ItemName_云龙三现,Cloud Dragon Three Strikes
 ItemName_银蛇流光,Silver Snake Mirage
@@ -1551,9 +1551,9 @@ ItemName_吐故纳新术,Embrace The Future
 ItemName_混元劲,Origin Technique
 ItemName_胎息功,Fetal Breathing Guide
 ItemName_五禽戏,Five Animal Forms
-ItemName_破甲劲,Armor Breaker Move
-ItemName_凌波诀,Wave Rider Technique
-ItemName_回春术,Revitalization Technique
+ItemName_破甲劲,Armor Breaker Move,วิชาทลายเกราะ
+ItemName_凌波诀,Wave Rider Technique,วิชาท่องคลื่น
+ItemName_回春术,Revitalization Technique,วิชาฟื้นฟู
 ItemName_捕风诀,Wind Walker Manual
 ItemName_叶家心法,Ye Family Technique
 ItemName_雾隐术,Hidden Mist Skill
@@ -1619,7 +1619,7 @@ ItemName_满江红内功,Prismatic River
 ItemName_烈阳心法,Solar Manual
 ItemName_无极洞心法,Infinity Manual
 ItemName_黄帝阴符经,Emperor Yin Yang Sutra
-ItemName_基础武器图纸,Basic Weapon Blueprint
+ItemName_基础武器图纸,Basic Weapon Blueprint,แปลนอาวุธพื้นฐาน
 ItemName_基础武器图纸1,Military Weaponry Manual - Upper
 ItemName_兵械要术·下,Qimen Forging Manual
 ItemName_基础衣服图纸,Basic Armor Blueprint
@@ -3255,7 +3255,7 @@ ItemInfo_青雀头黛,"Deep gray eyebrow paint, makeup like ink.\n<#d09a09>Usage
 ItemInfo_铜黛,Eyebrow paint made from Malachite and blue Copper mine.\n<#d09a09>Usage: Gift</color>
 ItemInfo_黄色眉黛,Yellow eyebrow paint.\n<#d09a09>Usage: Gift</color>
 ItemInfo_螺子黛,"Formed by processing with indigo and lime water, it is black in color and shaped like ink.\n<#d09a09>Usage: Gift</color>"
-ItemInfo_红蓝花胭脂,Lipstick made from red and blue flowers.\n<#d09a09>Usage: Gift</color>,ชาดแต้มปากทำจากดอกไม้สีแดงและน้ำเงิน <#d09a09>ใช้ในการ: ให้เป็นของขวัญ</color>
+ItemInfo_红蓝花胭脂,Lipstick made from red and blue flowers.\n<#d09a09>Usage: Gift</color>,ชาดแต้มปากทำจากดอกไม้สีแดงและน้ำเงิน <#d09a09>ใช้สำหรับ: ให้เป็นของขวัญ</color>
 ItemInfo_绵胭脂,Made by dipping silk cotton in the juice of red and blue flowers.\n<#d09a09>Usage: Gift</color>
 ItemInfo_金花胭脂,"Lipstick made from gold foil or paper, dyed with the juice of red and blue flowers.\n<#d09a09>Usage: Gift</color>"
 ItemInfo_山花胭脂,Made from mountain swallow fat flowers.\n<#d09a09>Usage: Gift</color>
@@ -3648,7 +3648,7 @@ ItemInfo_北冥图纸,"After use, you can forge <#d09a09>North Sea</color>.","�
 ItemInfo_木剑图纸,"After use, you can forge <#68cf24>Wooden sword</color>.","หลังจากใช้, เจ้าสามารถสร้าง<#68cf24>ดาบไม้</color>"
 ItemInfo_黑铁剑图纸,"After use, you can forge <#68cf24>Black iron sword</color>.","หลังจากใช้, เจ้าสามารถสร้าง<#68cf24>ดาบเหล็กสีดำ</color>"
 ItemInfo_青铜剑图纸,"After use, you can forge <#68cf24>Bronze sword</color>.","หลังจากใช้, เจ้าสามารถสร้าง<#68cf24>ดาบสีบรอนซ์</color>"
-ItemInfo_生铁剑图纸,"After use, you can forge <#68cf24>Cast iron sword</color>.","หลังจากใช้, เจ้าสามารถสร้าง<#68cf24>ดาบเหล็กหล่อ</color>"
+ItemInfo_生铁剑图纸,"After use, you can forge <#68cf24>Cast iron sword</color>.","หลังจากใช้, เจ้าสามารถสร้าง<#68cf24>กระบี่เหล็กหลอม</color>"
 ItemInfo_白虹剑图纸,"After use, you can forge <#00c6f3>Rainbow sword</color>.","หลังจากใช้, เจ้าสามารถสร้าง<#00c6f3>ดาบสีรุ้ง</color>"
 ItemInfo_紫电剑图纸,"After use, you can forge <#00c6f3>Lightning sword</color>.","หลังจากใช้, เจ้าสามารถสร้าง<#00c6f3>ดาบสายฟ้า</color>"
 ItemInfo_游龙剑图纸,"After use, you can forge <#00c6f3>Dragon sword</color>.","หลังจากใช้, เจ้าสามารถสร้าง<#00c6f3>ดาบมังกร</color>"

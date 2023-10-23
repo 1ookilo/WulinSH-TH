@@ -1500,7 +1500,7 @@ Test-2070-1_1_3,"So it's the junior brother, what brings you to the Weapon Pavil
 Test-2070-1_option_1_1,Request identity of the other party.
 Test-2070-1_option_1_2,"Ask the senior brother for martial arts training. <color=#097a76>(Stamina 20, specific battle)</color>"
 Test-2070-1_option_1_3,Request information about the Weapon Pavilion.,ขอข้อมูลเกี่ยวกับหอศาสตรา
-Test-2070-1_option_1_4,"Excuse me, Run away."
+Test-2070-1_option_1_4,"Excuse me, Run away.",ขออภัย ข้าขอตัวก่อน
 Test-2070-1_2_1,What does the junior brother want to do in the Weapon Pavilion today?,น้องชาย เจ้าต้องการทำอะไรที่หอศาสตราล่ะ?
 Test-2070-1_3_1,"I am Du Gu Jianyi, the current chief disciple of Langya Sword Pavilion.",ข้าคือ ตู๋กูเจี้ยนอี้ ผู้นำศิษย์คนปัจจุบันของศาลากระบี่หลางหยา
 Test-2070-1_3_2,"Now I am ordered to guard the Weapon Pavilion, and at the same time bear the heavy responsibility of testing the martial arts level of the junior brothers."
@@ -1519,7 +1519,7 @@ Test-2070-1_9_1,"Junior brother, your foreplay is too short, I haven't enjoyed i
 Test-2070-1_10_1,"I am {PlayerName}, I have long admired the Weapon Pavilion, and I came to visit today.",ข้าน้อยคือ {PlayerName} ข้าเลื่อมใสหอศาสตรามานานแล้ว จึงมาเยี่ยมชมในวันนี้
 Test-2070-1_10_2,"I am Du Gu Jianyi, ordered to guard this place.\nThe Weapon Pavilion is a forbidden place in our sect, and no one is allowed to enter without the Pavilion Master's permission!",ข้าคือตู๋กูเจี้ยนอี้ ได้รับคำสั่งให้มาปกป้องสถานที่แห่งนี้\nหอศาตราคือสถานที่ต้องห้ามของสำนักเรา หากเจ้าสำนักไม่อนุญาตใครก็ไม่สามารถเข้าไปได้!
 Test-2070-1_option_3_1,Force your way in! <color=#c44b0e>(Start the fight directly)</color>
-Test-2070-1_option_3_2,"Excuse me, Run away."
+Test-2070-1_option_3_2,"Excuse me, Run away.",ขออภัย ข้าขอตัวก่อน
 Test-2070-1_11_1,It seems that you are determined to be an enemy of Langya Sword Pavilion!
 Test-2070-1_12_1,Now the divine weapons in this Weapon Pavilion are going to change their surname to {PlayerSurName}!,ตอนนี้อาวุธศักดิ์สิทธิ์ในหอศาสตรา จะเปลี่ยนชื่อเป็น {PlayerSurName}!
 Test-2070-1_13_1,"What are you doing here again?\nThe Weapon Pavilion is a forbidden place in our sect, and no one is allowed to enter without the Pavilion Master's permission!"
@@ -2428,7 +2428,7 @@ syy_yanchu_5,The famous head of the Crime Investigation Bureau is nothing more t
 syy_yanchu_6,Washing Silk!
 syy_yanchu_7,Wandering Dragon!,มังกรร่ายรำ!
 syy_yanchu_8,Wind Stab!
-syy_yanchu_9,Wind Breaker!,คลื่นวายุ!
+syy_yanchu_9,Wind Breaker!,ผ่าวายุ!
 syy_yanchu_10,That was close!
 syy_yanchu_11,Eh!? Just at this time...,อึก!? ทำไมต้องเป็นตอนนี้...
 syy_yanchu_12,Hmm? An opportunity!,หื้มม? เสร็จข้าล่ะ!
@@ -4084,40 +4084,40 @@ School-2010-4_33_5,"Never let that demon escape, the consequences are unpredicta
 School-2010-4_33_6,I will definitely remember the teachings of the master.
 BattleFieldInfo_School-2010-4释法寺传人vs儒圣馆传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle
 BattleFieldWin_School-2010-4释法寺传人vs儒圣馆传人,Defeat the heir of Confucius Temple.
-BattleFieldFail_School-2010-4释法寺传人vs儒圣馆传人,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2010-4儒圣馆传人vs释法寺传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2010-4释法寺传人vs儒圣馆传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2010-4儒圣馆传人vs释法寺传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2010-4儒圣馆传人vs释法寺传人,Defeat the heir of Shifa Temple.
-BattleFieldFail_School-2010-4儒圣馆传人vs释法寺传人,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2010-4vs释法寺传人儒圣馆传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2010-4儒圣馆传人vs释法寺传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2010-4vs释法寺传人儒圣馆传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2010-4vs释法寺传人儒圣馆传人,Defeat the heirs of Confucius Temple and Shifa Temple.
-BattleFieldFail_School-2010-4vs释法寺传人儒圣馆传人,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2010-4癞头癫vs儒圣馆传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2010-4vs释法寺传人儒圣馆传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2010-4癞头癫vs儒圣馆传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2010-4癞头癫vs儒圣馆传人,Defeat the heir of Confucius Temple.
-BattleFieldFail_School-2010-4癞头癫vs儒圣馆传人,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2010-4儒圣馆传人vs癞头癫,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2010-4癞头癫vs儒圣馆传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2010-4儒圣馆传人vs癞头癫,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2010-4儒圣馆传人vs癞头癫,Defeat Lai Toudian.
-BattleFieldFail_School-2010-4儒圣馆传人vs癞头癫,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2010-4vs儒圣馆传人癞头癫,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2010-4儒圣馆传人vs癞头癫,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2010-4vs儒圣馆传人癞头癫,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2010-4vs儒圣馆传人癞头癫,Defeat Lai Toudian and the heir of Confucius Temple.
-BattleFieldFail_School-2010-4vs儒圣馆传人癞头癫,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2010-4癞头癫vs蔡攸之,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2010-4vs儒圣馆传人癞头癫,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2010-4癞头癫vs蔡攸之,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2010-4癞头癫vs蔡攸之,Defeat Cai Youzhi.
-BattleFieldFail_School-2010-4癞头癫vs蔡攸之,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2010-4蔡攸之vs癞头癫,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2010-4癞头癫vs蔡攸之,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2010-4蔡攸之vs癞头癫,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2010-4蔡攸之vs癞头癫,Defeat Lai Toudian.
-BattleFieldFail_School-2010-4蔡攸之vs癞头癫,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2010-4vs癞头癫蔡攸之,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2010-4蔡攸之vs癞头癫,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2010-4vs癞头癫蔡攸之,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2010-4vs癞头癫蔡攸之,Defeat Lai Toudian and Cai Youzhi.
-BattleFieldFail_School-2010-4vs癞头癫蔡攸之,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2010-4释法寺传人vs蔡攸之,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2010-4vs癞头癫蔡攸之,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2010-4释法寺传人vs蔡攸之,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2010-4释法寺传人vs蔡攸之,Defeat Cai Youzhi.
-BattleFieldFail_School-2010-4释法寺传人vs蔡攸之,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2010-4蔡攸之vs释法寺传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2010-4释法寺传人vs蔡攸之,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2010-4蔡攸之vs释法寺传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2010-4蔡攸之vs释法寺传人,Defeat the heir of Shifa Temple.
-BattleFieldFail_School-2010-4蔡攸之vs释法寺传人,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2010-4vs蔡攸之释法寺传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2010-4蔡攸之vs释法寺传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2010-4vs蔡攸之释法寺传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2010-4vs蔡攸之释法寺传人,Defeat Cai Youzhi and the heir of Shifa Temple.
-BattleFieldFail_School-2010-4vs蔡攸之释法寺传人,<#61C3C8>{PlayerName}</color> is defeated
+BattleFieldFail_School-2010-4vs蔡攸之释法寺传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
 Role5-5_name,Request for annual tribute.
 Role5-5_talking,Embark on a mission.
 Role5-5_log_1,"Go to Daliang City, negotiate this year's annual tribute situation with Qi Wang at Duke Ji's manor."
@@ -4208,7 +4208,7 @@ School-2020-1_op_1_1,Request information about Shifa Temple.
 School-2020-1_op_1_2,Inquire about Shifa Temple's Martial Arts.
 School-2020-1_op_1_3,"Please enlighten me, master."
 School-2020-1_op_1_4,<color=#0574a8>Join Shifa Temple for cultivation.
-School-2020-1_op_1_5,"Excuse me, Run away."
+School-2020-1_op_1_5,"Excuse me, Run away.",ขออภัย ข้าขอตัวก่อน
 School-2020-1_3_1,"Shifa Temple has been established for hundreds of years, it was founded by a high monk from the east. Our temple has been passed down for more than thirty generations, during which many high monks have emerged, saving countless people, it is not an exaggeration to say that we have infinite merits."
 School-2020-1_3_2,"The Martial Arts of our temple are vast and varied, and are rumored by the world to be magical. In the eyes of this old monk, Martial Arts are just a means for the Buddha's Vajra to protect the Dharma, to truly save all beings, we need the subtle Dharma and compassion."
 School-2020-1_3_3,"Our Scripture Tower collects hundreds of thousands of archives of classics, history, and collections. As the saying goes, reading is beneficial. There was a peerless high monk in our temple who studied in the Scripture Tower for more than ten years, and finally stepped out of the tower, achieving the Buddha's golden body in one step!"
@@ -4245,12 +4245,12 @@ School-2020-1_15_1,Can you abstain from killing for the rest of your life?
 School-2020-1_15_2,"If someone tries to harm me, should I defend myself? Unintentional injuries or deaths may occur in a fight, does this count as breaking the precepts?"
 School-2020-1_15_3,"Enough talk, just answer yes or no!"
 School-2020-1_16_1,"{PlayerSurName} Benefactor, your six senses are not yet pure, it is indeed not suitable for you to become a monk now."
-School-2020-1_16_2,"Amitabha, {PlayerSurName} benefactor, you should go and deal with worldly matters first, there's no rush to become a monk."
+School-2020-1_16_2,"Amitabha, {PlayerSurName} benefactor, you should go and deal with worldly matters first, there's no rush to become a monk.",อมิตาพุทธ ประสก{PlayerSurName} เจ้าควรไปจัดการเรื่องทางโลกเสียก่อน ไม่จำเป็นต้องรีบเร่งที่จะบวช
 School-2020-1_17_1,"{PlayerName}, if you insist on becoming a monk, I will choose to run away, as if you never existed, and our friendship will be severed from then on!"
 School-2020-1_op_4_1,Still insist on becoming a monk!
 School-2020-1_op_4_2,Give up becoming a monk.
 School-2020-1_18_1,"{PlayerSurName} Benefactor, your six senses are not yet pure, it is indeed not suitable for you to become a monk now."
-School-2020-1_18_2,"Amitabha, {PlayerSurName} benefactor, you should go and deal with worldly matters first, there's no rush to become a monk."
+School-2020-1_18_2,"Amitabha, {PlayerSurName} benefactor, you should go and deal with worldly matters first, there's no rush to become a monk.",อมิตาพุทธ ประสก{PlayerSurName} เจ้าควรไปจัดการเรื่องทางโลกเสียก่อน ไม่จำเป็นต้องรีบเร่งที่จะบวช
 School-2020-1_19_1,"Good, good.\n{PlayerSurName}, you and I are destined, I will personally shave your head!"
 School-2020-1_19_2,"Thank you, master, for your fulfillment."
 School-2020-1_19_3,A moment later...
@@ -4593,42 +4593,42 @@ NPC-2020-7_3_3,"Being too familiar with you is not good, you're taking advantage
 NPC-2020-7_3_4,"Remember to be good to your senior brother, maybe one day he will need your help, don't forget to show some kindness."
 NPC-2020-7_3_5,"Your senior brother's business is my business, no doubt about it!"
 NPC-2020-7_3_6,"Remember your promise, it's worth our brotherhood."
-BattleFieldInfo_School-2020-6道玄宗传人vs儒圣馆传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldInfo_School-2020-6道玄宗传人vs儒圣馆传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2020-6道玄宗传人vs儒圣馆传人,Defeat <#61C3C8>all enemies</color>
-BattleFieldFail_School-2020-6道玄宗传人vs儒圣馆传人,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2020-6儒圣馆传人vs道玄宗传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2020-6道玄宗传人vs儒圣馆传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2020-6儒圣馆传人vs道玄宗传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2020-6儒圣馆传人vs道玄宗传人,Defeat <#61C3C8>all enemies</color>
-BattleFieldFail_School-2020-6儒圣馆传人vs道玄宗传人,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2020-6vs道玄宗传人儒圣馆传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2020-6儒圣馆传人vs道玄宗传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2020-6vs道玄宗传人儒圣馆传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2020-6vs道玄宗传人儒圣馆传人,Defeat <#61C3C8>all enemies</color>
-BattleFieldFail_School-2020-6vs道玄宗传人儒圣馆传人,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2020-6邋遢张vs儒圣馆传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2020-6vs道玄宗传人儒圣馆传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2020-6邋遢张vs儒圣馆传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2020-6邋遢张vs儒圣馆传人,Defeat <#61C3C8>all enemies</color>
-BattleFieldFail_School-2020-6邋遢张vs儒圣馆传人,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2020-6儒圣馆传人vs邋遢张,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2020-6邋遢张vs儒圣馆传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2020-6儒圣馆传人vs邋遢张,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2020-6儒圣馆传人vs邋遢张,Defeat <#61C3C8>all enemies</color>
-BattleFieldFail_School-2020-6儒圣馆传人vs邋遢张,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2020-6vs儒圣馆传人邋遢张,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2020-6儒圣馆传人vs邋遢张,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2020-6vs儒圣馆传人邋遢张,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2020-6vs儒圣馆传人邋遢张,Defeat <#61C3C8>all enemies</color>
-BattleFieldFail_School-2020-6vs儒圣馆传人邋遢张,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2020-6邋遢张vs蔡攸之,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2020-6vs儒圣馆传人邋遢张,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2020-6邋遢张vs蔡攸之,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2020-6邋遢张vs蔡攸之,Defeat <#61C3C8>all enemies</color>
-BattleFieldFail_School-2020-6邋遢张vs蔡攸之,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2020-6蔡攸之vs邋遢张,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2020-6邋遢张vs蔡攸之,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2020-6蔡攸之vs邋遢张,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2020-6蔡攸之vs邋遢张,Defeat <#61C3C8>all enemies</color>
-BattleFieldFail_School-2020-6蔡攸之vs邋遢张,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2020-6vs邋遢张蔡攸之,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2020-6蔡攸之vs邋遢张,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2020-6vs邋遢张蔡攸之,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2020-6vs邋遢张蔡攸之,Defeat <#61C3C8>all enemies</color>
-BattleFieldFail_School-2020-6vs邋遢张蔡攸之,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2020-6道玄宗传人vs蔡攸之,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2020-6vs邋遢张蔡攸之,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2020-6道玄宗传人vs蔡攸之,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2020-6道玄宗传人vs蔡攸之,Defeat <#61C3C8>all enemies</color>
-BattleFieldFail_School-2020-6道玄宗传人vs蔡攸之,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2020-6蔡攸之vs道玄宗传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2020-6道玄宗传人vs蔡攸之,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2020-6蔡攸之vs道玄宗传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2020-6蔡攸之vs道玄宗传人,Defeat <#61C3C8>all enemies</color>
-BattleFieldFail_School-2020-6蔡攸之vs道玄宗传人,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2020-6vs蔡攸之道玄宗传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2020-6蔡攸之vs道玄宗传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2020-6vs蔡攸之道玄宗传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2020-6vs蔡攸之道玄宗传人,Defeat <#61C3C8>all enemies</color>
-BattleFieldFail_School-2020-6vs蔡攸之道玄宗传人,<#61C3C8>{PlayerName}</color> is defeated
+BattleFieldFail_School-2020-6vs蔡攸之道玄宗传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
 School-2020-6_name,Three Sects Demon Suppression
 School-2020-6_talking,Demon Suppression
 School-2020-6_log_1,"Go to Taoist Sect and Confucius Temple, find Zhong Yangzi and Cai Yuanchang respectively, invite the successors of the two sects to meet at Shifa Temple."
@@ -5670,7 +5670,7 @@ School-2030-10_op_1_2,I don't understand.
 School-2030-10_19_1,"In that case, let's start now!"
 School-2030-10_20_1,I am here to learn from the two of you.
 School-2030-10_21_1,I am here to learn from the two of you.
-School-2030-10_22_1,"{PlayerSurName}, be careful."
+School-2030-10_22_1,"{PlayerSurName}, be careful.",{PlayerSurName} รักษาตัวด้วย
 School-2030-10_22_2,"{PlayerGivenName}, please enlighten me, junior brother!"
 School-2030-10_23_1,"The disciples of Confucius Temple are indeed well-deserved. This year, we will have to trouble {PlayerGivenName} to guard the demon."
 School-2030-10_24_1,I am here to learn from the two of you.
@@ -5686,7 +5686,7 @@ School-2030-10_31_1,"Whoever wants to go, go. I don't want to accompany that dem
 School-2030-10_31_2,I've long been tired of that demon. It's good to change people this time. I can take a break and have some fun.
 School-2030-10_32_1,Come and taste the flavor of my Full Recovery Pill.
 School-2030-10_33_1,I am here to learn from the two of you.
-School-2030-10_34_1,"{PlayerSurName}, be careful."
+School-2030-10_34_1,"{PlayerSurName}, be careful.",{PlayerSurName} รักษาตัวด้วย
 School-2030-10_34_2,"I'm itching, scratch me quickly."
 School-2030-10_35_1,I've long been tired of that demon. It's good to change people this time. I can take a break and have some fun.
 School-2030-10_36_1,You were seriously injured and gradually woke up after being unconscious for a few shichen.
@@ -5697,42 +5697,42 @@ School-2030-10_37_3,You have obtained the method to enter the Ice Prison from Ci
 School-2030-10_37_4,"Once the Ice Prison is opened, the entrance will automatically close once you enter; it will not reopen until five days later. Do not rush in without full confidence."
 School-2030-10_37_5,"Never let that demon escape, the consequences are unpredictable, remember."
 School-2030-10_38_1,"I will remember your teachings, Master."
-BattleFieldInfo_School-2030-10道玄宗传人vs释法寺传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldInfo_School-2030-10道玄宗传人vs释法寺传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2030-10道玄宗传人vs释法寺传人,Defeat <#61C3C8>all enemies</color>
-BattleFieldFail_School-2030-10道玄宗传人vs释法寺传人,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2030-10释法寺传人vs道玄宗传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2030-10道玄宗传人vs释法寺传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2030-10释法寺传人vs道玄宗传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2030-10释法寺传人vs道玄宗传人,Defeat <#61C3C8>all enemies</color>
-BattleFieldFail_School-2030-10释法寺传人vs道玄宗传人,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2030-10vs道玄宗传人释法寺传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2030-10释法寺传人vs道玄宗传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2030-10vs道玄宗传人释法寺传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2030-10vs道玄宗传人释法寺传人,Defeat <#61C3C8>all enemies</color>
-BattleFieldFail_School-2030-10vs道玄宗传人释法寺传人,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2030-10邋遢张vs释法寺传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2030-10vs道玄宗传人释法寺传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2030-10邋遢张vs释法寺传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2030-10邋遢张vs释法寺传人,Defeat <#61C3C8>all enemies</color>
-BattleFieldFail_School-2030-10邋遢张vs释法寺传人,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2030-10释法寺传人vs邋遢张,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2030-10邋遢张vs释法寺传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2030-10释法寺传人vs邋遢张,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2030-10释法寺传人vs邋遢张,Defeat <#61C3C8>all enemies</color>
-BattleFieldFail_School-2030-10释法寺传人vs邋遢张,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2030-10vs释法寺传人邋遢张,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2030-10释法寺传人vs邋遢张,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2030-10vs释法寺传人邋遢张,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2030-10vs释法寺传人邋遢张,Defeat <#61C3C8>all enemies</color>
-BattleFieldFail_School-2030-10vs释法寺传人邋遢张,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2030-10邋遢张vs癞头癫,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2030-10vs释法寺传人邋遢张,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2030-10邋遢张vs癞头癫,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2030-10邋遢张vs癞头癫,Defeat <#61C3C8>all enemies</color>
-BattleFieldFail_School-2030-10邋遢张vs癞头癫,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2030-10癞头癫vs邋遢张,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2030-10邋遢张vs癞头癫,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2030-10癞头癫vs邋遢张,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2030-10癞头癫vs邋遢张,Defeat <#61C3C8>all enemies</color>
-BattleFieldFail_School-2030-10癞头癫vs邋遢张,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2030-10vs邋遢张癞头癫,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2030-10癞头癫vs邋遢张,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2030-10vs邋遢张癞头癫,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2030-10vs邋遢张癞头癫,Defeat <#61C3C8>all enemies</color>
-BattleFieldFail_School-2030-10vs邋遢张癞头癫,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2030-10道玄宗传人vs癞头癫,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2030-10vs邋遢张癞头癫,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2030-10道玄宗传人vs癞头癫,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2030-10道玄宗传人vs癞头癫,Defeat <#61C3C8>all enemies</color>
-BattleFieldFail_School-2030-10道玄宗传人vs癞头癫,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2030-10癞头癫vs道玄宗传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2030-10道玄宗传人vs癞头癫,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2030-10癞头癫vs道玄宗传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2030-10癞头癫vs道玄宗传人,Defeat <#61C3C8>all enemies</color>
-BattleFieldFail_School-2030-10癞头癫vs道玄宗传人,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_School-2030-10vs癞头癫道玄宗传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldFail_School-2030-10癞头癫vs道玄宗传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+BattleFieldInfo_School-2030-10vs癞头癫道玄宗传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2030-10vs癞头癫道玄宗传人,Defeat <#61C3C8>all enemies</color>
-BattleFieldFail_School-2030-10vs癞头癫道玄宗传人,<#61C3C8>{PlayerName}</color> is defeated
+BattleFieldFail_School-2030-10vs癞头癫道玄宗传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
 School-2030-11_1_1,"Master, something terrible has happened! I failed, Lao Motou has broken free and escaped."
 School-2030-11_1_2,Confucius Temple is in great danger!
 School-2030-11_1_3,"Cai Yuanchang, you old fool, you should know that once I escape, I will come to settle the score with you first!"
@@ -6005,7 +6005,7 @@ R10008-1_1_7,
 R10008-1_1_8,What do you mean by that?
 R10008-1_op_1_dialog,(It seems that I have to fight with Ling Hongxuan to get in here!)
 R10008-1_op_1_1,Teach Ling Hongxuan a lesson (solo fight by the protagonist)
-R10008-1_op_1_2,"Excuse me, Run away."
+R10008-1_op_1_2,"Excuse me, Run away.",ขออภัย ข้าขอตัวก่อน
 R10008-1_2,"Player runs away, Ling Hongxuan recovers and stands in place, can be triggered again"
 R10008-1_3_1,Get lost!
 R10008-1_4_1,……
@@ -6194,7 +6194,7 @@ R10075-1_4_6,"I've been waiting for so many years, finally waited for this day, 
 R10075-1_4_7,"I will first sacrifice your blood to the God of Jiuli, then chop your body into pieces to feed the Gu worms!"
 R10075-1_4_8,You better survive and run away first!
 R10075-1_5_1,"If others do not provoke me, I will not provoke them. If they do, I will annihilate them completely!\nFrom today on, there is no need for the Jiuli tribe to exist."
-R10075-1_5_2,"{yell}{PlayerName}, kill him!"
+R10075-1_5_2,"{yell}{PlayerName}, kill him!","{yell}{PlayerName}, ฆ่ามัน!"
 R10075-1_5_3,Uh--
 R10075-1_5_4,"Quickly calm your mind, I will help you resist the inner demons!"
 R10075-1_6_1,"How could this happen, how could this happen!"

@@ -20,7 +20,7 @@ CharPropName_防御,Defense,ป้องกัน
 CharPropInfo_防御,"The higher the Defense, the less damage received from enemies."
 CharPropName_医术,Medical,วิชาแพทย์
 CharPropInfo_医术,"The higher the Medical, the stronger the ""Heal"" and ""Regen"" effects, ""Heal"" and ""Regen"" can be obtained by learning special internal skills, maximum limit is 250 points, can be exceeded through traits and other effects."
-CharPropName_毒术,Toxicology,วิชาพิษ
+CharPropName_毒术,Toxicology,ศาตร์พิษ
 CharPropInfo_毒术,"The higher the Toxicology, the stronger the ""Poison"" and ""Detoxify"" effects, ""Poison"" and ""Detoxify"" can be obtained by learning special internal skills, maximum limit is 250 points, can be exceeded through traits and other effects."
 CharPropName_连击,Combo,โจมตีต่อเนื่อง
 CharPropInfo_连击,"There is a chance to trigger an additional external skill damage when using external skills, but it will only cause 50% damage; increasing Level, Luck, reducing Intelligence, and comprehending Passive can increase Combo rate."
@@ -62,17 +62,17 @@ CharPropName_怒气,Rage,ระยะ
 CharPropInfo_怒气,Each hit can gain 10 Rage points; accumulating 50 Rage triggers Rage and Rage effects; Rage effects can reduce negative combat states and increase Action Speed; Rage effects can increase damage by 100% in the next action attack; Rage will no longer be gained after reaching 50.
 CharPropName_仁德,Benevolence
 CharPropInfo_仁德,"Kind-hearted and friendly to others. Reaching the upper limit of 100 activates <#29F161>Harmless</color>【<#F3DE99>Non-boss wild beasts in the wild will not actively attack you</color>】. Reaching the lower limit of -100 activates <#29F161>Infamy</color>【<#F3DE99>When you do evil, non-boss characters who are 15 levels lower than you will actively flee</color>】."
-CharPropName_义气,Righteous,ความดี
+CharPropName_义气,Righteous,คุณธรรม
 CharPropInfo_义气,"Willing to take risks and self-sacrifice. Reaching the upper limit of 100 activates <#29F161>Virtuous</color>【<#F3DE99>Relations with other characters are increased by an additional 25% when improved</color>】. Reaching the lower limit of -100 activates <#29F161>Selfish</color>【<#F3DE99>Self EXP gain is doubled, but teammates' EXP gain is halved</color>】."
-CharPropName_礼节,Propriety
+CharPropName_礼节,Propriety,มารยาท
 CharPropInfo_礼节,"Treat others with respect and sincerity.\nUpon reaching the upper limit of 100, activate <#29F161>Courteous</color>【<#F3DE99>When meeting a non-enemy Character for the first time, Relations value increases by an additional 20</color>】.\nUpon reaching the lower limit of -100, activate <#29F161>Uncivilized</color>【<#F3DE99>Gift effect is only one-tenth of the Normal situation</color>】."
 CharPropName_智慧,Wisdom,ภูมิปัญญา
 CharPropInfo_智慧,"Be observant and act rationally.\nUpon reaching the upper limit of 100, activate <#29F161>Clever</color>【<#F3DE99>Intelligence+2</color>】.\nUpon reaching the lower limit of -100, activate <#29F161>Nitwit</color>【<#F3DE99>Luck+2</color>】."
-CharPropName_信用,Trustworthy
+CharPropName_信用,Trustworthy,ซื่อสัตย์
 CharPropInfo_信用,"Keep your word and honor your commitments.\nUpon reaching the upper limit of 100, activate <#29F161>Sincere</color>【<#F3DE99>The value of our items increases by 50% during Trade</color>】.\nUpon reaching the lower limit of -100, activate <#29F161>Knockoff</color>【<#F3DE99>The price of the Item to Sell increases by 50%</color>】."
-CharPropName_勇气,Courage
+CharPropName_勇气,Courage,ความกล้าหาญ
 CharPropInfo_勇气,"Be adventurous and fearless.\nUpon reaching the upper limit of 100, activate <#29F161>Valiant</color>【<#F3DE99>Damage of Characters in the team increases by 15%</color>】.\nUpon reaching the lower limit of -100, activate <#29F161>Dependant</color>【<#F3DE99>For each surviving teammate in battle, your damage increases by 15%</color>】."
-CharPropName_互搏,Combo
+CharPropName_互搏,Combo,โจมตีต่อเนื่อง
 CharPropInfo_互搏,"After an Attack in battle, if a counterattack is triggered, you can Attack again."
 CharPropName_治疗解锁,Unlock Heal
 CharPropName_施毒解锁,Unlock Poison
@@ -93,7 +93,7 @@ CharPropName_B_NegBlind,Blinded
 CharPropName_B_BattleWine,Number of drinks
 CharPropName_B_BattleMedicine,Number of medicines taken
 CharPropName_B_AccuAtk,Spirit
-CharPropName_B_AccuDef,Rage
+CharPropName_B_AccuDef,Rage,ระยะ
 CharPropName_T_队伍体力,Stamina
 CharPropName_T_队伍心情,Mood
 CharPropName_队伍体力,Stamina
@@ -186,30 +186,30 @@ MoodPreset_点穴失败,
 MoodPreset_葵花点穴,
 CharPropName_能力_采集_采矿,Mining,ขุดแร่
 CharPropName_能力_采集_伐木,Lumbering,ตัดไม้
-CharPropName_能力_采集_采药,Gathering
+CharPropName_能力_采集_采药,Gathering,เก็บเกี่ยว
 CharPropName_能力_采集_钓鱼,Fishing
 CharPropName_能力_采集_捉虫,Worm-catching
-CharPropName_能力_制造_兵器,Craft Weapon
+CharPropName_能力_制造_兵器,Craft Weapon,สร้างอาวุธ
 CharPropName_能力_制造_护甲,Craft Armor
 CharPropName_能力_制造_食物,Cooking
 CharPropName_能力_制造_丹药,Alchemy
-CharPropName_能力_制造_饰品,Craft Accessory
+CharPropName_能力_制造_饰品,Craft Accessory,สร้างเครื่องประดับ
 CharPropName_能力_制造_合成,Craft Tool
 CharPropName_能力_鉴定_字画,Appraise Artwork
 CharPropName_能力_鉴定_书籍,Appraise Book
 CharPropName_能力_鉴定_古董,Appraise Antique
 CharPropName_能力_鉴定_饰品,Appraise Accessory
 CharPropName_能力_鉴定_丹药,Appraise Medicine
-CharPropName_能力_市井_暗取,Steal
+CharPropName_能力_市井_暗取,Steal,ขโมย
 CharPropName_能力_市井_点穴,Immobilize
-CharPropName_能力_市井_下毒,Poison
+CharPropName_能力_市井_下毒,Poison,พิษ
 CharPropName_能力_市井_机关,Machinery
 CharPropName_能力_市井_突袭,Ambush
 CharPropName_能力_生存_口才,Persuade
 CharPropName_能力_生存_经商,Mercantile
 CharPropName_能力_生存_探索,Explore,สำรวจ
 CharPropName_能力_生存_识图,Pathfinding
-CharPropName_能力_生存_驯兽,Beast Taming
+CharPropName_能力_生存_驯兽,Beast Taming,ฝึกฝนสัตว์
 CharPropName_能力经验_采集_采矿,Mining EXP
 CharPropName_能力经验_采集_伐木,Lumbering EXP
 CharPropName_能力经验_采集_采药,Gathering EXP
@@ -410,7 +410,7 @@ CharacterMainProp_Up,%s%{0}{1}+{2}
 CharPropName_名声级别,Fame Level
 CharPropName_名声经验,Fame
 RepLevel_0,Nobody,ไม่มีใครรู้จัก
-RepLevel_1,Recognized
+RepLevel_1,Recognized,เป็นที่ยอมรับ
 RepLevel_2,Well-known
 RepLevel_3,Reputable
 RepLevel_4,Rising Star

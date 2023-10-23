@@ -14,7 +14,7 @@
 10002_5_1,"Hehe, compared to what you've done in the past, this time you're much more rational!",เหอะเหอะ เปรียบกับสิ่งที่เจ้าเคยทำ ครั้งนี้นับว่าเจ้ามีเหตุผลขึ้นมาก 
 10002_6_1,"Good boy, you've got guts. Today, I'll kill you right here!",เด็กดี นับว่าเจ้ามีขวัญกล้า ข้าจะสังหารเจ้าเสียที่นี้ วันนี้!
 10002_7_1,……,......
-10002_8_1,"I didn't expect you to be this kind of person, I must have been blind before!",ไม่นึกเลยว่าเจ้าจะเป็นชนชั้นเช่นนี้ ก่อนนั้นตาข้าคงมืดบอดไปเป็นแน่!
+10002_8_1,"I didn't expect you to be this kind of person, I must have been blind before!",ไม่นึกเลยว่าเจ้าจะเป็นคนเช่นนี้ ก่อนนั้นตาข้าคงมืดบอดไปเป็นแน่!
 10002_8_2,"Enough talk, draw your sword!",เลิกพูดพล่ามได้แล้ว ชักกระบี่!
 10002_9_1,The sect is also my home.,สำนักยังเป็นดั่งบ้านของข้าอีกด้วย
 10002_9_2,"Now that the young hero wants to destroy my home, I must step in and assist, no offense!",ตอนนี้จอมยุทธ์ท่านนั้นต้องการทำลายบ้านของข้า ข้าเลยจำต้องเสนอหน้าออกมา อย่าหาว่าล่วงเกิน
@@ -117,7 +117,7 @@
 10011_3_1,"Hero {PlayerSurName}, please speak!"
 10011_4_1,"Thank you, hero {PlayerSurName}!"
 10011_5_1,"Hmph! In that case, I'll let you go this time!"
-10011_6_1,"Hero {PlayerSurName}, please come in!"
+10011_6_1,"Hero {PlayerSurName}, please come in!",จอมยุทธ{PlayerSurName} เชิญเข้ามาเถิด
 10011_7_1,"Look how fresh this is? Someone dares to challenge our Yelv army, brothers, attack!"
 10012_1_1,Who are you?
 10012_10_1,"{PlayerName}, have you thought it through?"
@@ -159,7 +159,7 @@
 10015_3_1,"Hero {PlayerSurName}, please speak!"
 10015_4_1,"Thank you, hero {PlayerSurName}!"
 10015_5_1,"Hmph! In that case, our grudges are settled!"
-10015_6_1,"Hero {PlayerSurName}, please come in!"
+10015_6_1,"Hero {PlayerSurName}, please come in!",จอมยุทธ{PlayerSurName} เชิญเข้ามาเถิด
 10015_7_1,It seems you're really tired of living!
 10016_1_1,"Young friend, hello!"
 10016_2_1,"It's young friend {PlayerSurName}, how have you been recently?"
@@ -177,7 +177,7 @@
 10017_3_1,"Hero {PlayerSurName}, please speak!"
 10017_4_1,"Thank you, hero {PlayerSurName}!"
 10017_5_1,"Hmph! In that case, our grudges are settled!"
-10017_6_1,"Hero {PlayerSurName}, please come in!"
+10017_6_1,"Hero {PlayerSurName}, please come in!",จอมยุทธ{PlayerSurName} เชิญเข้ามาเถิด
 10017_7_1,It seems you're really tired of living!
 10018_1_1,"Young friend, hello!"
 10018_2_1,"It's young friend {PlayerSurName}, how have you been recently?"
@@ -1803,7 +1803,7 @@ Z004_2_7,"At that time, my mentor, the owner of the Sword Collection Villa, will
 Z004_2_8,Abyss Dragon sword! It is said to be the sword that the owner used when he made his name
 Z004_2_9,"The secret of the villa? At the very least, it's a top-notch swordsmanship"
 Z004_3_1,"Good, this brother really has courage! So, this year's Dragon Spring Sword Test officially begins! The first battle, the charming Luo Sha from Shunda Escort Agency against {PlayerName}"
-Z004_4_1,"The first battle, {PlayerName} wins!"
+Z004_4_1,"The first battle, {PlayerName} wins!",ยกแรก ผู้ชนะคือ{PlayerName}
 Z004_4_2,"The second battle, Zhuge Jing from Jiujiang Water Camp against {PlayerName}"
 Z004_5_1,"The first battle, the charming Luo Sha from Shunda Escort Agency wins!"
 Z004_6_1,I can still... fight!
@@ -1817,7 +1817,7 @@ Z004_8_2,"Seeing that you're okay, my task is complete. A lot has happened while
 Z004_8_3,"Just as the competition was about to be decided, a man in black suddenly appeared, claiming to be <color=#c44b0e>Shen Mengxi from Linlang Academy</color>, and stole the divine weapon treasured by the Sword Collection Villa, the <color=#c44b0e>Xuanyuan Sword</color>."
 Z004_8_4,"This Shen Mengxi brazenly challenged the Sword Collection Villa, saying that if they wanted to retrieve the Xuanyuan Sword, they should come to Linlang Academy for a showdown. The Sword Saint announced publicly that whoever could retrieve the Xuanyuan Sword from the academy would be given the divine weapon."
 Z004_8_5,"It seems it's time for me to stand out, I will personally retrieve the Xuanyuan Sword!"
-Z004_9_1,"The second battle, {PlayerName} wins!"
+Z004_9_1,"The second battle, {PlayerName} wins!",ยกที่สอง ผู้ชนะคือ{PlayerName}
 Z004_9_2,"The third battle, the butcher Bao against {PlayerName}"
 Z004_9_3,"You really kept your word, and you made it to the finals, which made me underestimate you before."
 Z004_9_4,"Although you've committed many evils and are ruthless, you are still my senior! I can't go back on my word to honor my senior!"
@@ -1852,7 +1852,7 @@ Z005_6_6,"A jade flute under the bright moon, verdant beauty fills the east wind
 Z005_6_7,"So you are Shen Mengxi? You seem quite calm and composed, it seems you are fearless!"
 Z005_6_8,"Including you, you are the fifth person today who has been terrified upon hearing my name. Think about it, how could I, a half-disabled person, go to the manor to steal a sword, and leave traces for you to find?"
 Z005_6_9,"Who knows if you have been paralyzed for a long time and have become psychologically distorted! Extremely boring, causing trouble, and you are leisurely watching the drama..."
-Z005-1_1_1,I found this in the Nameless village!
+Z005-1_1_1,I found this in the Nameless village!,ข้าพบสิ่งนี้ในหมู่บ้านไร้นาม!
 Z005-1_1_2,(Handed out the Animal ring - The Ox)
 Z005-1_1_3,"I didn't expect that I, Shen Mengxi, would have the opportunity to re-enter the martial arts world in this life. Since someone has brought the Animal ring, I guess I am not breaking my oath."
 Z005-1_2_1,"Let's go, we have to let those people know how much it costs to slander the reputation of the Linlang Academy and me, Shen Mengxi!"
@@ -1881,7 +1881,7 @@ Z007_1_1,Please stop. Are you the young hero {PlayerName}?
 Z007_1_2,"I am, what can I do for you?"
 Z007_1_3,"Our young lady asked me to find you and give you a letter. As for what it is, you will know when you read the letter. I have military affairs to deal with, so I will run away first."
 Z007_1_4,"(Read the letter carefully) It turns out that Ye Yinping is now in Bianzhou City, and it seems that she has encountered some trouble and wants me to help. Now there is no clue about the Xuanyuan sword, so I might as well go to <color=#c44b0e>Bianzhou City</color> to help Ye Yinping."
-Z008_1_1,{PlayerName}You're finally here.
+Z008_1_1,{PlayerName}You're finally here.,{PlayerName} ในที่สุดเจ้าก็มา
 Z008_1_2,Who are you? How do you know my name?
 Z008_1_3,"This place is crowded, let's talk somewhere else. Let's meet at the <color=#c44b0e>Tea shop</color> in the city later."
 Z008_2_1,"The spirited young man revealed that he is Ye Yinping's brother - the young general of the Ye Family Battalion, Ye Yun. Ye Yinping was originally with him investigating a case of military intelligence theft. Ye Yinping suggested to invite you to assist in the investigation. However, due to the urgency, Ye Yinping went ahead to follow the clues, leaving Ye Yun here to meet you..."

@@ -72,14 +72,14 @@ End001_name,Supreme Dominance
 End001_overview,"Eliminate the Confucius Temple, Shifa Temple, Taoist Sect, and Nine Factions Sect.",กวาดล้าง วัดขงจื๊อ วัดเส้าหลิน ลัทธิเต๋า และนิกายเก้าฝ่าย
 End002_name,Leader of the Martial World,ประมุขยุทธภพ
 End002_overview,"Relations with Confucius Temple, Shifa Temple, Taoist Sect, and Nine Factions Sect reach Worship.",ความสัมพันธ์กับ วัดขงจื๊อ วัดเส้าหลิน ลัทธิเต๋า และนิกายเก้าฝ่ายถึงระดับ เคารพบูชา
-End003_name,Great Hero
+End003_name,Great Hero,จอมยุทธผู้ยิ่งใหญ่
 End003_overview,"Benevolence, Righteousness, Propriety, Wisdom, Faith, and Courage reach 100, main character reaches level 50."
 M2072-1_name,Longquan Sword Test
 M2072-1_overview,Participate in the Longquan Sword Test Tournament at the Sword Test Platform near the Sword Manor.
 M2072-2_name,Dragonfly Shakes the Big Tree
 M2072-2_overview,Go to the Sword Test Platform to see what the people from Dragonfly City are up to.
-1001_name,——
-1001_overview,——
+1001_name,——,——
+1001_overview,——,——
 1002_name,Find a way to make money.,หาวิธีหาเงิน
 1002_overview,Save up 1000 Wen as soon as possible.,เก็บเงิน 1000 ตำลึงให้เร็วที่สุด
 1002_1_name,Save money to pay off debts,เก็บเงินเพื่อชำระหนี้
@@ -180,26 +180,26 @@ M1301-1_options05_02,No longer consider
 2013_name,Wolf King of the Wild Wolf Valley
 2013_options1,Give the hunter the <color=#c44b0e>Wolf king fang</color>
 2013_options2,Don't give
-2014_name,Xiao Bao's Wooden sword
+2014_name,Xiao Bao's Wooden sword,กระบี่ไม้ของเสี่ยวเป่า
 2014_overview_1,"Xiao Bao admires you a lot, go have a chat with Xiao Bao"
 2014_overview_2,Go see the Woodcutter and see if there's a solution
 2014_overview_3,Find a piece of <color=#c44b0e>firewood</color> and give it to the Woodcutter
 2014_overview_4,Find the Woodcutter again later
 2014_overview_5,Give the <color=#c44b0e>Wooden sword</color> to Xiao Bao
-2015_name,Blacksmith's request
+2015_name,Blacksmith's request,คำขอจากช่างตีเหล็ก
 2015_overview_1,Have a chat with the blacksmith
 2015_overview_2,Go to the <color=#c44b0e>village well</color> to fetch water
 2015_overview_3,Give the fetched water to the blacksmith
-2016_name,Village Head's request
+2016_name,Village Head's request,คำขอจากหัวหน้าผู้บ้าน
 2016_overview_1,Village Head seems to have something to ask
 2016_overview_2,Stay at the Village leader's house until the Village Head returns
 2016_options1,Gladly accept
 2016_options2,Politely decline
 2016_options3,Wait a bit longer
 2016_options4,Decisively leave
-2016_3_options_1,Look around
+2016_3_options_1,Look around,มองไปรอบๆ
 2016_3_options_2,Wait patiently
-2016_3_options_3,Take a nap
+2016_3_options_3,Take a nap,งีบหลับสักครู่
 M1200-2_options_1,Eat and drink together!
 M1200-2_options_2,Leave first due to other matters.
 M1200-3_1_options_1,Join the Blue Wind Camp.,เข้าร่วมค่ายวายุคราม
@@ -230,8 +230,8 @@ M1200-6_name,Discovered by the dog
 3005_options1_1,Around Nameless village,รอบๆหมู่บ้านไร้นาม
 3005_options1_2,How to make money
 3005_options1_3,Blue Wind Camp,ค่ายวายุคราม
-3005_options1_5,Say goodbye
-3005_options1_1(1),Wild Wolf Valley
+3005_options1_5,Say goodbye,กล่าวคำอำลา
+3005_options1_1(1),Wild Wolf Valley,หุบเขาหมาป่า
 3005_options1_1(2),Lost Forest,ป่าสาปสูญ
 3005_options1_1(3),"Never mind, I want to ask something else"
 3008_name,"Knowing that Tong Daofu destroyed Blue Wind Camp, go to scavenge."
@@ -293,7 +293,7 @@ M1500-1_overview_1,Go to the withered tree in <color=#c44b0e>Wild Wolf Valley</c
 2013_overview_3,The hunter seems to have something to say to you
 2013_overview_4,Meet the hunter at the Hanging bridge outside the village
 3005_options1_4,Stay at the inn (50 coins)
-3031_name,Talk to the butcher
+3031_name,Talk to the butcher,คุยกับคนขายเนื้อ
 3031_overview,"Collected enough meat, go talk to the butcher"
 3032_name,Talk to the hunter
 3032_overview,"Collected enough skins, go talk to the hunter"

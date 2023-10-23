@@ -540,7 +540,7 @@ CharaName_死士,Desperate
 CharaName_江湖人,Vagabond
 CharaName_齐王护卫,King of Qi Guard
 CharaName_齐王精锐护卫,King of Qi Elite Guard
-CharaName_夺宝者,Treasure Hunter
+CharaName_夺宝者,Treasure Hunter,นักล่าสมบัติ
 CharaName_闲汉,Loafer
 CharaName_守关人,Gatekeeper
 CharaName_戒律弟子,Disciple of Precepts
@@ -663,7 +663,7 @@ CharaName_甜品商,Dessert Merchant
 CharaName_老郎中,Old Doctor
 CharaName_山中人,Mountain Man
 CharaName_行脚商,Peddler
-CharaName_珍宝商,Treasure Merchant
+CharaName_珍宝商,Treasure Merchant,พ่อค้าสมบัติ
 CharaName_俏丫鬟,Pretty Maid
 CharaName_酒中客,Wine Guest
 CharaName_摆渡人,Ferryman
@@ -912,7 +912,7 @@ CharaTitle_九黎部落,Jiuli Tribe,เผ่าจิ่วลี่
 CharaTitle_脏街,Dirty Street
 CharaTitle_摸金门,Tomb Raider Sect
 CharaTitle_玄衣会,Black Robe Group
-CharaTitle_燕子窝,Nest of Swallow
+CharaTitle_燕子窝,Nest of Swallow,รังนกนางแอ่น
 CharaTitle_虎威镖局,Tiger Escort
 CharaTitle_琅琊剑阁,Langya Sword Pavilion,ศาลากระบี่หลางหยา
 CharaTitle_万兽山庄,Ten Thousand Beast Manor

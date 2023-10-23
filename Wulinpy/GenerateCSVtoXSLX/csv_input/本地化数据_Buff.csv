@@ -4,22 +4,22 @@ DebuffEffect_OnEnable,{0} gains <#FE2929>{1}</color> status,{0}เงิน<#FE2
 DebuffEffect_OnDisable,{0} removes <#FE2929>{1}</color> status,{0}ลบ<#FE2929>{1}</color>สถานะ
 BuffNameColor_Debuff,<#FE2929>{0}</color>,<#FE2929>{0}</color>
 BuffNameColor_Buff,<#00FF00>{0}</color>,<#00FF00>{0}</color>
-BuffPropUp_Default,{lockey} increases <#29F161> {val}</color>,{lockey}เพิ่มขึ้น<#29F161>{val}</color>
+BuffPropUp_Default,{lockey} increases <#29F161> {val}</color>,{lockey} เพิ่มขึ้ น<#29F161> {val} </color>
 BuffPropDown_Default,{lockey} decreases <#FE2929> {val}</color>,{lockey}ลดลง<#FE2929>{val}</color>
-BuffPropDUp_Default,{lockey} increases <#29F161> {val}</color>,{lockey}เพิ่มขึ้น<#29F161>{val}</color>
+BuffPropDUp_Default,{lockey} increases <#29F161> {val}</color>,{lockey} เพิ่มขึ้ น<#29F161> {val} </color>
 BuffPropDDown_Default,{lockey} decreases <#FE2929> {val}</color>,{lockey}ลดลง<#FE2929>{val}</color>
-BuffPropRUp_Default,{lockey} overall increase <#29F161> {val}</color>,{lockey}เพิ่มขึ้นโดยรวม<#29F161>{val}</color>
+BuffPropRUp_Default,{lockey} overall increase <#29F161> {val}</color>,{lockey} เพิ่มขึ้นโดยรวม <#29F161> {val} </color>
 BuffPropRDown_Default,{lockey} overall decrease <#FE2929> {val}</color>,{lockey}ลดลงโดยรวม<#FE2929>{val}</color>
 BuffPropSRUp_Default,{lockey} personal attributes increase <#29F161> {val}</color>,{lockey}คุณลักษณะส่วนบุคคลเพิ่มขึ้น<#29F161>{val}</color>
 BuffPropSRDown_Default,{lockey} personal attributes decrease <#29F161> {val}</color>,{lockey}คุณลักษณะส่วนบุคคลลดลง<#29F161>{val}</color>
-BuffPropERUp_Default,{lockey} equipment attributes increase <#29F161> {val}</color>,{lockey}คุณสมบัติอุปกรณ์เพิ่มขึ้น<#29F161>{val}</color>
+BuffPropERUp_Default,{lockey} equipment attributes increase <#29F161> {val}</color>,{lockey} คุณสมบัติอุปกรณ์เพิ่มขึ้น <#29F161> {val} </color>
 BuffPropERDown_Default,{lockey} equipment attributes decrease <#29F161> {val}</color>,{lockey}คุณสมบัติอุปกรณ์ลดลง<#29F161>{val}</color>
-BuffPropUp_D_Hp,{lockey} Recovery <#29F161> {val}</color>,{lockey}กู้คืน<#29F161>{val}</color>
-BuffPropUp_D_Ep,{lockey} Recovery <#29F161> {val}</color>,{lockey}กู้คืน<#29F161>{val}</color>
-BuffPropRUp_D_Hp,{lockey} Recovery <#29F161> {val}</color>,{lockey}กู้คืน<#29F161>{val}</color>
-BuffPropRUp_D_Ep,{lockey} Recovery <#29F161> {val}</color>,{lockey}กู้คืน<#29F161>{val}</color>
-BuffPropUp_T_队伍体力,{lockey} Recovery <#29F161> {val}</color>,{lockey}กู้คืน<#29F161>{val}</color>
-BuffPropUp_T_队伍心情,{lockey} Recovery <#29F161> {val}</color>,{lockey}กู้คืน<#29F161>{val}</color>
+BuffPropUp_D_Hp,{lockey} Recovery <#29F161> {val}</color>,{lockey} ฟื้นฟู <#29F161> {val} </color>
+BuffPropUp_D_Ep,{lockey} Recovery <#29F161> {val}</color>,{lockey} ฟื้นฟู <#29F161> {val} </color>
+BuffPropRUp_D_Hp,{lockey} Recovery <#29F161> {val}</color>,{lockey} ฟื้นฟู <#29F161> {val} </color>
+BuffPropRUp_D_Ep,{lockey} Recovery <#29F161> {val}</color>,{lockey} ฟื้นฟู <#29F161> {val} </color>
+BuffPropUp_T_队伍体力,{lockey} Recovery <#29F161> {val}</color>,{lockey} ฟื้นฟู <#29F161> {val} </color>
+BuffPropUp_T_队伍心情,{lockey} Recovery <#29F161> {val}</color>,{lockey} ฟื้นฟู <#29F161> {val} </color>
 BuffPropUp_B_BattleWine,
 BuffPropUp_B_BattleMedicine,
 BuffInfo_致伤,"Chance to trigger injury effect, Bleeding<#FE2929>+10</color>.","มีโอกาสทำให้เกิดอาการบาดเจ็บ, เลือดออก<#FE2929>+10</color>"
@@ -2406,7 +2406,7 @@ BuffName_御剑奇才,Sword talent,พรสวรรค์กระบี่
 BuffName_长兵奇才,Long weapon talent
 BuffName_特异毒体,Poisonous body,กายพิษ
 BuffName_暗器精研,Throwing master
-BuffName_动如雷霆,Mighty as the Thunder,ว่องไวดุจผีพราย 
+BuffName_动如雷霆,Mighty as the Thunder,รวดเร็วดุจอัสนี
 BuffName_雪上加霜,Poison expert
 BuffName_妙手仁心,Medical expert
 BuffName_身先士卒,Front guard
@@ -2469,7 +2469,7 @@ BuffName_剧情御剑奇才,Sword talent
 BuffName_剧情长兵奇才,Long weapon talent
 BuffName_剧情特异毒体,Poisonous body
 BuffName_剧情暗器精研,Throwing master
-BuffName_剧情动如雷霆,Mighty as the Thunder,ว่องไวดุจผีพราย 
+BuffName_剧情动如雷霆,Mighty as the Thunder,รวดเร็วดุจอัสนี
 BuffName_剧情雪上加霜,Poison expert
 BuffName_剧情妙手仁心,Medical expert
 BuffName_剧情身先士卒,Front guard
