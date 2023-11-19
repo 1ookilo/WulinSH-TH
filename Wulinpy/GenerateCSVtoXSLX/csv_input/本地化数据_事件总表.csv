@@ -1,0 +1,71 @@
+﻿﻿StoryGroup_死亡结局,Death ending.,ฉากจบมรณะ
+StoryGroup_主线,Main storyline.,โครงเรื่องหลัก
+StoryGroup_伙伴的故事,Companion's story.,เรื่องราวของสหาย
+StoryGroup_楚襄城的故事,Story of Chuxiang City.,เรื่องราวของเมืองฉู่เซียง
+StoryGroup_十字坡的故事,Story of Cross Hill.,เรื่องราวของหุบเขาทางแยก
+StoryGroup_无名小村的故事,Story of Nameless village.,เรื่องราวของหมู่บ้านไร้นาม
+StoryGroup_迷踪林的故事,Story of Lost Forest.,เรื่องราวของป่าสาปสูญ
+StoryGroup_霖安城的故事,Story of Lin'an City.,เรื่องราวของเมืองหลินอัน
+StoryGroup_燕云铁军的故事,Story of Yan Yun Iron Army.,เรื่องราวของทัพเหล็กหยานหยุน
+StoryGroup_宠物,Pets.,สัตว์เลี้ยง
+StoryGroup_破庙的故事,Story of Ruined shrine.,เรื่องราวของศาลเจ้าร้าง
+StoryGroup_青风寨的故事,Story of Blue Wind Camp.,เรื่องราวของค่ายวายุคราม
+StoryGroup_藏宝图,Treasure map,แผนที่สมบัติ
+StoryGroup_大梁城的故事,Story of Daliang City.,เรื่องราวของเมืองต้าเหลียง
+StoryGroup_状态事件,Status events.,สถานะของเหตุการณ์
+StoryGroup_大地图事件,World map events.,เหตุการณ์บนแผนที่โลก
+StoryGroup_琳琅馆的故事,Story of Linlang Temple.,เรื่องราวของวัดหลินหลาง
+StoryGroup_无名山洞的故事,Story of Nameless cave.,เรื่องราวของถ้ำไร้นาม
+StoryGroup_节日庆典,Holiday celebrations.,การเฉลิมฉลองวันหยุด
+StoryGroup_野狼谷的故事,Story of Wild Wolf Valley.,เรื่องราวของหุบเขาหมาป่า
+StoryGroup_论道峰的故事,Story of Peak of Challenge.,เรื่องราวของยอดเขาแห่งการชิงชัย
+StoryGroup_夜摩坊的故事,Story of Night Demon Square.,เรื่องราวของจัตุรัสปีศาจราตรี
+StoryGroup_将军府的差事,The story of the General's mansion,เรื่องราวของจวนแม่ทัพ
+StoryGroup_行辕大营的故事,Story of Palace Camp.,เรื่องราวของค่ายทัพหลวง
+StoryGroup_楚襄城悬赏,Bounty of Chuxiang City.,ค่าหัวเมืองฉู่เซียง
+StoryGroup_大梁城悬赏,Bounty of Daliang City.,ค่าหัวของเมืองต้าเหลียง
+StoryGroup_霖安城悬赏,Bounty of Lin'an City.,ค่าหัวของเมืองหลินอัน
+StoryGroup_飞瀑峰的故事,Story of Feipu Peak.,เรื่องราวของยอดเขาเฟยปู้
+StoryGroup_大王寨的故事,Story of Bandit Camp.,เรื่องราวของค่ายโจร
+StoryGroup_月老祠的故事,Story of God of Marriage's Shrine.,เรื่องราวของศาลเจ้าเทพเจ้าแห่งการแต่งงาน
+StoryGroup_释法寺的故事,Story of Shifa Temple.,เรื่องราวของอารามฉีฟา
+StoryGroup_浮屠寺的故事,Story of Buddha Temple.,เรื่องราวของอารามพุทธะ
+StoryGroup_叶家军的故事,Story of Ye Family Battalion.,เรื่องราวของกองพันตระกูลเย่
+StoryGroup_新增无记录任务,New task without record.,งานใหม่โดยไม่มีการบันทึก
+StoryGroup_客栈事件,Inn events.,เหตุการณ์ในโรงเตี๊ยม
+StoryGroup_悬赏-缉拿要犯类型任务,Bounty - Wanted criminal type task.,ค่าหัว - ประเภทภารกิจตามล่าคนร้าย
+StoryGroup_青风寨事件,Blue Wind Camp events.,เหตุการณ์ค่ายวายุคราม
+StoryGroup_燕子窝事件,The story of Nest of Swallow.,เรื่องราวของรังนกนางแอ่น
+StoryGroup_神捕门事件,The story of Crime Investigation Bureau.,เรื่องราวของสำนักสืบสวน
+StoryGroup_琅琊剑阁事件,The story of Langya Sword Pavilion.,เรื่องราวของศาลากระบี่หลางหยา
+StoryGroup_灭门自动退门事件,Automatic exit event of extermination.,เหตุการณ์ทางออกอัตโนมัติหลังจากประตูถูกทำลาย
+StoryGroup_摸金门事件,The story of Tomb Raider Sect.,เรื่องราวของสำนักปล้นสุสาน
+StoryGroup_九江水寨事件,The story of Jiujiang Water Camp.,เรื่องราวของค่ายน้ำจิ่วเจียง
+StoryGroup_释法寺事件,Shifa Temple events.,เรื่องราวของอารามฉีฟา
+StoryGroup_儒圣馆的故事,The story of Confucius Temple.,เรื่องราวของวัดขงจื้อ
+StoryGroup_道玄宗的故事,The story of Taoist Sect.,เรื่องราวของสำนักเต๋า
+StoryGroup_江湖事件,Jianghu events.,เหตุการณ์ในยุทธภพ
+StoryGroup_霖安城事件,Lin'an City events.,เรื่องราวของเมืองหลินอัน
+StoryGroup_琳琅馆事件,Linlang Temple events.,เหตุการณ์วัดหลินหลาง
+StoryGroup_楚襄城事件,Chuxiang City events.,เหตุการณ์เมืองฉู่เซียง
+StoryGroup_临时事件,Temporary events.,เหตุการณ์ชั่วคราว
+StoryGroup_善后补漏事件,Follow-up events.,เหตุการณ์ที่ตามมา
+StoryGroup_5门派切磋新事件,New events of 5 sects' competition.,5 นิกายหารือเกี่ยวกับเหตุการณ์ใหม่
+StoryGroup_青风寨悬赏,Bounty of Blue Wind Camp.,ค่าหัวของค่ายวายุคราม
+StoryGroup_琅琊剑阁悬赏,Bounty of Langya Sword Pavilion.,ค่าหัวของศาลากระบี่หลางหยา
+StoryGroup_燕子窝悬赏,Bounty of Nest of Swallow.,ค่าหัวของรังนกนางแอ่น
+StoryGroup_神捕门悬赏,Bounty of Crime Investigation Bureau.,ค่าหัวของสำนักสืบสวน
+StoryGroup_道玄宗悬赏,Bounty of Taoist Sect.,ค่าหัวของลัทธิเต๋า
+StoryGroup_全局状态检测事件,Global status check event.,เหตุการณ์การตรวจสอบสถานะทั่วโลก
+StoryGroup_大梁城事件,Daliang City events.,เหตุการณ์ในเมืองต้าเหลียง
+StoryGroup_伙伴事件,Companion events.,เหตุการณ์ของสหาย
+StoryGroup_骰子事件1,Dice event 1.,กิจกรรมทอยเต๋า 1
+StoryGroup_骰子事件2,Dice event 2.,กิจกรรมทอยเต๋า 2
+StoryGroup_成就事件,Achievement events.,เหตุการณ์ความสำเร็จ
+StoryGroup_马车通知事件,Horse carriage notification event.,กิจกรรมแจ้งรถม้า
+StoryGroup_老魔头系列事件,Lao Motou series events.,เหตุการณ์ของเหลาโม่โถว
+StoryGroup_妙音坊的故事,The story of Melody House.,เรื่องราวของตำหนักบทเพลง
+StoryGroup_九黎部落的故事,The story of the Jiuli Tribe.,เรื่องราวของชนเผ่าจิ่วลี่
+StoryGroup_燕歌行的故事,Matters of the Sect,เรื่องราวของสำนัก
+StoryGroup_小虾米立志,Little shrimp's ambition,ปณิธานของเด็กน้อย
+StoryGroup_康王登基syy,Kang Wang's coronation.,พิธีราชาภิเษกของคังหวัง

@@ -1,0 +1,313 @@
+﻿﻿FactionType_0,Other,อื่นๆ
+FactionType_1,Sect,สำนัก
+FactionType_2,Village,หมู่บ้าน
+FactionType_3,Faction,ฝ่าย
+FactionElimated,%s%<color=#c44b0e>{0}</color> has been removed from the martial arts world!
+FactionFame_仇恨,Hatred,เกลียดชัง
+FactionFame_对立,Opposition,ปรปักษ์
+FactionFame_冷淡,Cold,เย็นชา
+FactionFame_中立,Neutral,เป็นกลาง
+FactionFame_友善,Friendly,เป็นมิตร
+FactionFame_信赖,Trust,เชื่อใจ
+FactionFame_钦佩,Admire,ชื่นชม
+FactionFame_敬重,Respect,เคารพ
+FactionFame_敬仰,Honored,มีเกียรติ
+FactionFame_崇拜,Worship,เคารพบูชา
+FactionFame_武朝,Wu Dynasty
+FactionFame_大蛮国,Great Barbarian Kingdom
+FactionFame_楼兰,Loulan,ลั่วหลาน
+FactionFame_南诏,Nanzhao,หนานจ้าว
+FactionFame_大夏,Great Xia
+FactionName_半瓶醋工作室,Half Amateur Studio
+FactionName_剧情势力,Plot Forces,กองกำลังโครงเรื่อง
+FactionName_自由势力,Free Forces,กองกำลังอิสระ
+FactionName_剧情势力灭门归属,
+FactionName_苗彩蝶个人势力,
+FactionName_霖安城虚拟势力,Lin'an City,เมืองหลินอัน
+FactionName_楚襄城虚拟势力,Chuxiang City,เมืองฉู่เซียง
+FactionName_大梁城虚拟势力,Daliang City,เมืองต้าเหลียง
+FactionName_上京城,Shangjing City,เมืองซ่างจิง
+FactionName_霖安城,Lin'an City,เมืองหลินอัน
+FactionName_霖安驿站,Lin'an Post Station,หลินอัน - สถานีไปรษณีย์
+FactionName_霖安客栈,Lin'an Inn,หลินอัน - โรงเตี๊ยม
+FactionName_霖安铁匠铺,Lin'an Blacksmith's forge,หลินอัน - โรงตีเหล็ก
+FactionName_霖安当铺,Lin'an Pawnshop,หลินอัน - โรงรับจำนำ
+FactionName_霖安珍品阁,Lin'an Exquisite Pavilion,หลินอัน - ศาลาปราณีต
+FactionName_霖安武馆,Lin'an Dojo,หลินอัน - โรงฝึก
+FactionName_霖安医馆,Lin'an Medical Hall,หลินอัน - ห้างยา
+FactionName_霖安杂货铺,Lin'an Grocery store,หลินอัน - ร้านขายของชำ
+FactionName_霖安成衣铺,Lin'an Clothing Shop,หลินอัน - ร้านเสื้อผ้า
+FactionName_霖安饰品店,Lin'an Jewelry Shop,หลินอัน - ร้านเครื่องประดับ
+FactionName_霖安太白楼,Lin'an Wine God Tower,หลินอัน - หอคอยเทพสุรา
+FactionName_霖安云林寺,Lin'an Cloud Forest Temple,หลินอัน - อารามป่าเมฆา
+FactionName_霖安群芳馆,Lin'an Maiden House,หลินอัน - ตำหนักพิสุทธิ์
+FactionName_楚襄城,Chuxiang City,เมืองฉู่เซียง
+FactionName_大梁城,Daliang City,เมืองต้าเหลียง
+FactionName_芙蓉城,Furong City,เมื่องฝูหรง
+FactionName_云滇城,Yundian City,เมืองหยุนเตียน
+FactionName_楼兰城,Loulan City,เมืองลั่วหลาน
+FactionName_皇城司,Imperial City Department,หน่วยมหาดเล็กวังหลวง
+FactionName_儒圣馆,Confucius Temple,วัดขงจื้อ
+FactionName_道玄宗,Taoist Sect,สำนักเต๋า
+FactionName_释法寺,Shifa Temple,อารามฉีฟา
+FactionName_九流门,Nine Factions Sect,นิกายเก้าฝ่าย
+FactionName_妙音坊,Melody House,ตำหนักบทเพลง
+FactionName_蚍蜉城,Dragonfly City,เมืองแมลงปอ
+FactionName_圣火宗,Holy Fire Sect,นิกายเพลิงศักด์สิทธิ์
+FactionName_藏剑山庄,Hidden Sword Manor,หมู่ตึกกระบี่ซ่อน
+FactionName_九黎部落,Jiuli Tribe,เผ่าจิ่วลี่
+FactionName_九江水寨,Jiujiang Water Camp,ค่ายน้ำจิ่วเจียง
+FactionName_琳琅馆,Linlang Temple,วัดหลินหลาง
+FactionName_叶家军,Ye Family Battalion,กองพันตระกูลเย่
+FactionName_柴王阁,Chaiwang Pavilion,ศาลาไฉหวัง
+FactionName_本草门,Plant Sect,สำนักพฤกษา
+FactionName_望东门,Wangdong Gate,ประตูมองตะวัน
+FactionName_万兽山庄,Ten Thousand Beast Manor,หมู่ตึกหมื่นอสูร
+FactionName_万安镖局,Wanan Escort Agency,สำนักคุ้มภัยหว่านอัน
+FactionName_夜摩坊,Night Demon Square,จัตุรัสปีศาจราตรี
+FactionName_大漠鬼门,Desert Ghost Gate,ประตูวิญญาณทะเลทราย
+FactionName_刀马堂,Knife Horse Hall,ห้องโถงม้ามีด
+FactionName_冷皮帮,Cold Skin Gang,พวกหนังน้ำแข็ง
+FactionName_铁浮屠,Levitational Steel,เจดีย์เหล็ก
+FactionName_白云观,White Cloud Temple,อารามเมฆขาว
+FactionName_六和塔,Six Harmony Tower,เจดีย์หกเหลี่ยม
+FactionName_流民营,Refugee Camp,ค่ายผู้ลี้ภัย
+FactionName_大王寨,Bandit Camp,ค่ายโจร
+FactionName_姑苏遗址,Gusu Ruins,ซากปรักหักพังกู่ซู
+FactionName_朔方古迹,Ancient Ruin of Shoufang,ซากปรักหักพังโบราณสถานโชวฟาง
+FactionName_新宋朝廷,New Song Dynasty Court,ศาลราชวงศ์ซ่งใหม่
+FactionName_燕子窝,Nest of Swallow,รังนกนางแอ่น
+FactionName_燕云铁军,Yan Yun Iron Army,กองทัพเหล็กหยานหยุน
+FactionName_风闻台,Wind News Platform,สถานีข่าวเวหา
+FactionName_将军府,General's mansion,จวนแม่ทัพ
+FactionName_康王府,Duke Kang's manor,ตำหนักองค์ชายคัง
+FactionName_齐王府,Duke Ji's manor,ตำหนักองค์ชายฉี
+FactionName_神捕门,Crime Investigation Bureau,สำนักสืบสวน
+FactionName_摸金门,Tomb Raider Sect,สำนักปล้นสุสาน
+FactionName_沙门岛,Shamen Island,เกาะชาเหมิน
+FactionName_天鹫宫,Tianjiu Palace,วังเทียนจิ่ว
+FactionName_飞鹰帮,Flying Eagle Gang,พรรคอินทรีเหิน
+FactionName_海蛟帮,Sea Jiao Gang,พรรคจ้าวสมุทร
+FactionName_琅琊剑阁,Langya Sword Pavilion,ศาลากระบี่หลางหยา
+FactionName_玄衣会,Black Robe Group,กลุ่มเสื้อคลุมดำ
+FactionName_保国寺,Baoguo Temple,วัดเป่ากั๋ว
+FactionName_珠光宝气楼,Glittering Artifact House,หอไข่มุก
+FactionName_繁华似锦楼,Tower of Prosperity,หอเจิดจรัส
+FactionName_云林寺,Yunlin Temple
+FactionName_聚财坊,Relic House,หอสมบัติ
+FactionName_长乐柜坊,Zhangyue Casino,บ่อนจางเยว่
+FactionName_镇西关,West Pass,ด่านชายแดนตะวันตก
+FactionName_月老祠,God of Marriage's Shrine,ศาลเจ้าเทพเจ้าแห่งการแต่งงาน
+FactionName_大理寺,Supreme Court,ศาลสูงสุด
+FactionName_无双宗,Unparalleled Sect,สำนักไร้เทียมทาน
+FactionName_天道帮,Heavenly Dao Gang,เส้นทางสวรรค์
+FactionName_保国会,National Protection Association,สมาคมพิทักษ์แผ่นดิน
+FactionName_富贵门,Rich and Noble Gate,ประตูมั่งคั่ง
+FactionName_花丛派,Flower Sect,สำนักบุปผา
+FactionName_无名小村,Nameless village,หมู่บ้านไร้นาม
+FactionName_青风寨,Blue Wind Camp,ค่ายวายุคราม
+FactionName_迷踪林,Lost Forest,ป่าสาปสูญ
+FactionName_野狼谷,Wild Wolf Valley,หุบเขาหมาป่า
+FactionName_顺达镖局,Shunda Escort Agency,สำนักคุ้มภัยชุนดา
+FactionName_地下迷宫,Gusu Ruins,เขาวงกตใต้ดิน
+FactionName_琅琊剑阁后山,
+FactionName_平安镖局,Safeguard Escort,สำนักคุ้มกัน
+FactionName_虎威镖局,Tiger Escort,สำนักคุ้มภัยพยัคฆา
+FactionName_斗技场,Underground Arena,ลานประลองใต้ดิน
+FactionName_脏街,Dirty Street,ตรอกเล้าหมู
+FactionName_楚襄丁家,Chuxiang Ding family's house,คฤหาสน์ตระกูลติงเมืองฉู่เซียง
+FactionName_琼花谷,Epiphyllum Valley,หุบเขาโบตั๋น
+FactionName_马王洞,Horse King Cave,ถ้ำราชาม้า
+FactionName_翠屏山,Cuiping Mountain,เขาซุยผิง
+FactionName_武帝陵,Emperor Wu's Mausoleum
+FactionName_邙山穴,Mang Mountain Pit,ถ้ำหลุมภูเขาหมาง
+FactionName_断魂林,Soul Destroyer Forest,ป่าวิญญาณสลาย
+FactionName_长生冢,Longevity Tomb,สุสานอมตะ
+FactionName_公用动物,
+FactionName_洪小七,
+FactionName_释嗔,
+FactionName_凌氏兄妹,
+FactionName_曼陀罗,
+FactionName_庖春秋,
+FactionName_穆再兴,
+FactionName_无名小村牛群,
+FactionName_无名小村流浪狗,
+FactionName_无名小村鹅群,Goose Flock,ฝูงห่าน
+FactionName_无名小村鸡群,Chicken Flock,ฝูงไก่
+FactionName_无名小村猫群,
+FactionName_艄公,
+FactionName_沈无欺,
+FactionName_楚狂生,
+FactionName_绛紫烟,
+FactionName_廖月龙,
+FactionName_李乐雅,
+FactionName_悬赏-偷盗者,
+FactionName_悬赏-野外流寇,
+FactionName_悬赏-采花大盗,
+FactionName_时文修,
+FactionName_方小白,
+FactionName_杨幺儿,
+FactionName_货郎,
+FactionName_落魄江湖人,
+FactionName_霖安开化塔护塔罗汉,
+FactionName_霖安花花公子,
+FactionName_霖安开路虎·张三,
+FactionName_霖安过江龙·李四,
+FactionName_车夫,
+FactionName_野狼王啸月,
+FactionName_赤睛棕熊赤睛,
+FactionName_野猪头目刚烈,
+FactionName_老虎山君,
+FactionName_白猿白首,
+FactionName_猴子追风,
+FactionName_熊猫玄霜,
+FactionName_机关奎牛,
+FactionName_茶博士,
+FactionName_狗王,
+FactionName_琅琊剑阁后山黑猿,
+FactionName_落单的野猪,
+FactionName_猫三花,
+FactionName_楚襄城野猫,
+FactionName_大梁城西域商人,
+FactionName_大梁城锦衣女子,
+FactionName_试剑台守卫,
+FactionName_宣和皇帝,
+FactionName_端午节剧情,
+FactionName_建炎皇帝,
+FactionName_秦会之,
+FactionName_燕歌行,
+FactionName_中州渡口伙计,
+FactionName_毒龙,
+FactionName_异变毒龙,
+FactionName_废弃院落,
+FactionName_人伢婆-大梁-丁,
+FactionName_草上飞-楚襄-丁,
+FactionName_破戒僧-霖安-乙,
+FactionName_独眼龙-楚襄-甲,
+FactionName_昆仑奴-霖安-丙,
+FactionName_邪教徒-大梁-丙,
+FactionName_有腿难行-腿脚不便的老者,
+FactionName_有勇无胆-鼻青脸肿的拳师,
+FactionName_有教无类-和蔼慈祥的老儒,
+FactionName_有言无信-精明市侩的商贩,
+FactionName_有口不言-哑口无言的婆婆,
+FactionInfo_燕国,"A minority group from the harsh northern lands. Under the leadership of Prince Wan Yan Wuzhu, they have repeatedly invaded the Zhao Kingdom, seizing the lands north of the Yangtze River. They are now eyeing the remaining half of the kingdom.",ชนกลุ่มน้อยจากดินแดนทางตอนเหนืออันโหดร้าย ภายใต้การนำขององค์ชายหวันหยานอู๋จู พวกเขาได้บุกแคว้นจ้าวซ้ำแล้วซ้ำเล่า โดยยึดดินแดนทางตอนเหนือของแม่น้ำแยงซี ตอนนี้พวกเขากำลังจับตาดูอีกครึ่งหนึ่งของแคว้นที่เหลือ
+FactionInfo_齐王府,"The power of Qi Wang in Daliang City. After the Yan army broke through Daliang City, they handed it over to Qi Wang for governance. Qi Wang, after taking power, indulges in calligraphy and poetry all day, being optimistic.",ด้วยอำนาจของกษัตริย์ฉีหวังแห่งต้าเหลียง หลังจากที่กองทัพหยานบุกโจมตีเมืองต้าเหลียง พวกเขาก็มอบให้ฉีหวังปกครอง หลังจากขึ้นสู่อำนาจ เขาหมกมุ่นอยู่กับงานจิตรกรรม และบทกวีตลอดทั้งวัน โดยไม่สนใจการปกครอง
+FactionInfo_康王府,"The power of Kang Wang in Lin'an City, managing the Wuyue region. With the assistance of Qin Huizhi, his power has rapidly grown and is regarded by the people of Wuyue as the legitimate faction of the current court.","อำนาจของคังหวังในเมืองหลินอัน, จัดการภูมิภาคหวู่เยว่ ด้วยความช่วยเหลือของฉินฮุ่ยจือ อำนาจของเขาก็ขยายใหญ่ขึ้นอย่างรวดเร็วและได้รับการยกย่องจากชาวหวู่เยว่ ว่าเป็นฝ่ายที่ชอบด้วยกฎหมายในปัจจุบัน"
+FactionInfo_上京城,
+FactionInfo_霖安城,"Wuyue, and even the most prosperous city in the south of the Yangtze River, is the fief of Kang Wang. This place is far from the front line and is a peaceful corner. People use boats for transportation and live comfortably. It is a land of fish and rice that everyone yearns for.","หวู่เยว่, และแม้แต่เมืองที่เจริญรุ่งเรืองที่สุดทางตอนใต้ของแม่น้ำแยงซีเกียงก็ยังเป็นพื้นที่ของคังหวัง ที่นี่อยู่ไกลจากแนวหน้าและเป็นพื้นที่ที่สงบ ประชาชนใช้เรือในการสัญจรและใช้ชีวิตอย่างสะดวกสบาย เป็นดินแดนอุดมสมบูรณ์ในน้ำมีปลาในนามีข้าว ที่ใครๆ ก็ใฝ่ฝันถึง"
+FactionInfo_楚襄城,"Located in the heart of Xiangfan, it has been a strategic military location since ancient times. Known for its easy defense and difficult attack, it is known as the first city in the Central Plains. Decades ago, when the Northern Yan invaded the south, they were defeated here."
+FactionInfo_大梁城,"The most prosperous city in Zhongzhou, once the capital of the Zhao Kingdom. After the Yan army occupied it, they did not loot this place. Now it is managed by Qi Wang and is still a scene of extravagant nightlife."
+FactionInfo_芙蓉城,
+FactionInfo_云滇城,
+FactionInfo_楼兰城,
+FactionInfo_皇城司,"An institution established by the Zhao Kingdom, led by the eunuch most trusted by the Zhao Emperor, specifically for monitoring the martial arts world. Despite the current turmoil, their presence can still be seen."
+FactionInfo_儒圣馆,"A Confucian academy with a long history. Under the leadership of the new dean, Cai Yuanchang, it embraces the new and recruits widely. With the assistance of the Four Arts and four virtuous people, the students are elegant and talented."
+FactionInfo_道玄宗,"A Taoist sect that has been established for hundreds of years, emphasizing self-cultivation and dual cultivation of Qi and sword. Under the leadership of Zhong Yangzi, the disciples aim to save the world and prioritize benevolence and righteousness. They are a model of the current martial arts righteous sect.",ลัทธิเต๋าก่อตั้งมาเป็นเวลาหลายร้อยปี โดยเน้นการฝึกฝนตนเอง ด้วยการฝึกฝนปราณและกระบี่ควบคู่กัน. ภายใต้การนำของ ฉงหยางสื่อ เหล่าสาวกตั้งเป้าที่จะช่วยเหลือยุทธจักรด้วยความเมตตากรุณาและความชอบธรรม พวกเขาเป็นแบบอย่างของพรรคฝ่ายธรรมะในปัจจุบัน.
+FactionInfo_释法寺,"It has always been a major sect of Buddhism in the world. In times of war, they not only help the souls who died in the war, but also provide shelter for refugees. There are countless monk soldiers who resist the Yan Kingdom under the instruction of the abbot, defending against foreign enemies."
+FactionInfo_九流门,"A new organization formed by a mysterious person. Because it recruits people regardless of their background and age, it has quickly grown into the largest force in the Central Plains. However, it is a mixed bag, and it is difficult to distinguish between good and evil. The current leader, Tie Mianren, is even more mysterious, and no one knows his true identity."
+FactionInfo_妙音坊,"Located in the southwest region, the mountain Clear water is beautiful, and the scenery is natural. All the disciples are young girls, each with a beautiful voice and good at dancing, like fairies. They are hostile to all men in the world, and no one knows the specific reason.",ตั้งอยู่ภาคตะวันตกเฉียงใต้ ภูเขาสวย น้ำใส ทิวทัศน์ธรรมชาติอันงดงาม ศิษย์ทุกคนเป็นล้วนเด็กสาว แต่ละคนมีเสียงไพเราะ ร่ายรำงดงาม ราวกับเทพธิดา พวกนางเป็นศัตรูกับชายทุกคนบนโลก โดยไม่มีผู้ใดรู้ถึงเหตุผล
+FactionInfo_蚍蜉城,"The stronghold established by Liu Sheng Wucang in the Central Plains, where people from Dongying often enter the Central Plains and provoke disputes everywhere, their true intentions are unknown.",ฐานที่มั่นที่ก่อตั้งโดยหลิวเซิงหวู่ชาง ในแผ่นดินจงหยวน ซึ่งผู้คนจากตงอิ๋ง มักจะเข้าไปในแผ่นดินจงหยวนและก่อให้เกิดความขัดแย้งในทุกที่ โดยไม่ทราบเจตนาที่แท้จริงของพวกเขา
+FactionInfo_沙门岛,"Shamen Island was originally a place where the Zhao Kingdom exiled criminals, but unexpectedly, these criminals formed their own faction and established their own power on Shamen Island."
+FactionInfo_圣火宗,"A major force in the far northwest, led by the leader Fang Xiaoian, dominates the northwest."
+FactionInfo_海蛟帮,"A group of water bandits who occupy the Nameless area on the water, they kidnap and sell people, and commit all kinds of evil. They often order their gang members to pretend to be rich businessmen to deceive people to go out to sea, and those who are fooled disappear from the world."
+FactionInfo_琅琊剑阁,"The place where Jian Chi retired and sealed his sword, inheriting the thousand-year-old sword-making technology of ancient and modern times, many of the divine weapons in the current martial arts world come from here."
+FactionInfo_九黎部落,"A foreign tribe in the southwest region, they believe in ancient fierce gods and are good at using witchcraft, and are regarded as heretics by the martial arts of the Central Plains. They have harassed the Central Plains many times in the early years, so they were isolated from the Central Plains by the Zhao State. Now, under the leadership of Miao Muli, they are growing stronger and gradually becoming a force not to be underestimated in the southwest region."
+FactionInfo_九江水寨,"Established a water village at the confluence of the nine rivers, in recent years it has gathered a large number of martial arts people, and it seems to have the momentum to divide half of the southern part of the Yangtze River."
+FactionInfo_琳琅馆,"A place that exists in legend, it is said that there is a fairy living here, guarding the balance of the martial arts world.",สถานที่ในตำนาน กล่าวกันว่ามีเทพธิดาอาศัยอยู่ที่นี่ คอยปกป้องความสมดุลของยุทธภพ
+FactionInfo_叶家军,"The Zhao Kingdom's army commanded by Ye Pengju. The army is strict in discipline and undefeated. It has defeated the Yan Kingdom's army many times, preserving half of the Zhao Kingdom's territory, and is therefore deeply loved by the people. It is also the last hope for many people to welcome back the Zhao Emperor."
+FactionInfo_柴王阁,"The residence of the former dynasty royal family Chai Wangye, although it is not a martial arts sect, it has a good relationship with various martial arts sects and has a considerable reputation in the martial arts world."
+FactionInfo_本草门,"All the disciples are doctors who are indifferent to the world and help the world. They take the treatment of diseases and saving people as their own responsibility, and it is also the place where countless doctors aspire. It is now in ruins, with only a piece of old land left."
+FactionInfo_神捕门,"Established in the early years of this dynasty, it is an organization that exists only to punish criminals, and vows to bring all the evil people in the world to justice. All the catchers in today's large and small cities come from the Crime Investigation Bureau.",ก่อตั้งขึ้นในช่วงปีแรก ๆ ของราชวงศ์ปัจจุบัน เป็นองค์กรที่ตั้งขึ้นเพื่อลงโทษอาชญากร และสาบานว่าจะนำผู้กระทำผิดทั้งหมดมาเข้าสู่กระบวนการยุติธรรม มือปราบทั้งหมดในเมืองใหญ่น้อยในปัจจุบัน ล้วนมาจากสำนักสืบสวน
+FactionInfo_万兽山庄,"A large mountain village in Bashu, good at beast taming. Under the leadership of Tang Tai Jun, it dominates the southwest, making the various parts of the southwest dare not offend."
+FactionInfo_虎威镖局,"Once the largest escort agency in the world, but a few years ago it encountered a change, the former head of the escort disappeared, and now it is taken over by the daughter of the head of the escort, Han Hongyu, but the situation of the escort agency is far from the past.","ครั้งหนึ่งเคยเป็นสำนักคุ้มภัยที่ใหญ่ที่สุดในโลก, แต่เมื่อไม่กี่ปีที่แล้วก็พบกับเหตุเปลี่ยนแปลงครั้งใหญ่, อดีตหัวหน้าสำนักคุ้มภัยหายตัวไป, และตอนนี้ถูกยึดครองโดยลูกสาวของหัวหน้าสำนักคุ้มภัย หาน หงหยู, แต่สถานการณ์ตอนนี้ของสำนักคุ้มภัยพยัคฆายังห่างไกลจากอดีตมากนัก"
+FactionInfo_夜摩坊,"A market outside Daliang City that only opens at night, it is very lively every night. There is an auction every night, and it has the posture of competing with the Glittering Artifact House.",ตลาดนอกเมืองต้าเหลียงที่เปิดเฉพาะตอนกลางคืนและคึกคักทุกคืน มีการประมูลทุกคืน และมีท่าทีแข่งขันกับหอไข่มุก
+FactionInfo_玄衣会,"A killer organization that only recognizes money and does not recognize people. As long as you are on their target list, there is only one way to die."
+FactionInfo_摸金门,"Mysterious organization, living by stealing cultural relics in ancient tombs, all the disciples are proficient in the technique of dividing gold and determining acupoints, and no one knows where their power is."
+FactionInfo_冷皮帮,"Located in the Flame City in the desert, it is the actual ruler of the Flame City, and has guarded the northwest desert for the Zhao Kingdom for several years."
+FactionInfo_燕云铁军,"The elite army of the Yan Kingdom, with strong soldiers and horses, is eyeing the Central Plains under the command of Wan Yan Wuzhu.",กองทัพชั้นยอดของอาณาจักรหยาน พร้อมด้วยทหารและม้าที่แข็งแกร่ง กำลังจับตาดูที่ราบภาคกลางภายใต้การบังคับบัญชาของหวันหยานอู๋จู
+FactionInfo_将军府,"The Chuxiang City garrison led by Lü Wenhuan, caught between multiple forces, is seeking a survival plan."
+FactionInfo_燕子窝,"Created by the legendary thief ""Yanzi Li"" who is at the top of Qinggong, his stealing technique and Qinggong are unparalleled in the world. Often in the blink of an eye, he has already pickpocketed, and there is no trace of him coming and going.","ก่อตั้งโดยจอมโจรในตำนาน ""เยี่ยนซีหลี่"" ผู้มีวิชาตัวเบาเป็นเลิศ ทักษะการขโมยของเขาและวิชาตัวเบาไม่มีใครทัดเทียมได้ ฉกชิงในพริบตา ไปมาไร้ร่องรอย"
+FactionInfo_珠光宝气楼,"Located in Daliang City, it has the most magnificent building in the whole Daliang City, with countless properties under it, and the treasures inside are dazzling. Regular auctions are held, with countless rare treasures waiting to be sold."
+FactionInfo_繁华似锦楼,"Based in Daliang City, it is the most drunken and golden place in the world. Here, the ugliness of human nature is fully exposed."
+FactionInfo_无名小村,"A nameless small village. The terrain here is vast, with few inhabitants. The villagers are self-sufficient, far away from the disputes of the outside world.",หมู่บ้านเล็กๆที่ไม่มีชื่อ ผืนดินกว้างใหญ่ มีผู้คนอาศัยอยู่ไม่มาก ชาวบ้านล้วนพึ่งพาตนเองได้ ห่างไกลจากความขัดแย้งภายนอก
+FactionInfo_青风寨,"A bandit nest led by Kong Yidao. Although they are a group of mountain bandits, they have put up the banner of ""doing justice on behalf of the heaven"". They never rob the common people, nor bully the weak. They only rob the ""unjust wealth"", and are a thorn in the side of the government."
+FactionInfo_迷踪林,"The forest near the Nameless village, with complex roads, is easy to get lost. There are poisonous snakes, wild boars and other beasts. Be careful when passing by.",ป่าใกล้ๆหมู่บ้านไร้นามที่มีเส้นทางสลับซับซ้อนหลงทางได้ง่าย มีงูพิษ หมูป่า และสัตว์อื่นๆ หากผ่านไปแถวนั้นต้องระวังตัวให้ดี
+FactionInfo_野狼谷,The deep mountain valley near the Nameless village has been occupied by wolves. The howling of wolves can be heard all year round. Travelers will detour when passing by.
+FactionInfo_脏街,"A lawless area in Chuxiang City, where even the government dare not enter at will. It is a gathering place for all kinds of criminals and vagrants, a lawless land."
+FactionInfo_风闻台,"A mysterious organization in the martial arts world. Their people are rarely seen, but they know everything about the martial arts world."
+FactionInfo_白云观,"A Taoist temple located in Chuxiang City, built by the emperor's order. It is bustling every day."
+FactionInfo_流民营,"A small camp built by the northern refugees outside Chuxiang City, providing a place for the poor displaced people in the storm."
+FactionInfo_大王寨,"A mountain stronghold in the Nameless area, where the leader Gui Jianchou is the king of the mountain, causing trouble in the world. Travelers passing through the Nameless area are often troubled by him."
+FactionInfo_保国寺,A large temple in Daliang City.,วัดใหญ่ในเมืองต้าเหลียง
+FactionInfo_云林寺,"A large temple in Lin'an City, said to have a Martial Arts Manual."
+FactionInfo_镇西关,"A pass in the Nameless area, always prepared for the invasion of foreign tribes from the southwest."
+FactionGuard_0,"You choose not to take the road to heaven, but to break into hell!|Since you dare to come, then stay!"
+FactionGuard_1,"It's young hero {PlayerSurName}, what can I do for you?"
+FactionGuard_2,Wandering around
+FactionGuard_3,"If it's young hero {PlayerSurName}, of course there's no problem.|Please come in quickly!"
+FactionGuard_4,"Since young hero {PlayerSurName} holds the token, we naturally dare not stop."
+FactionGuard_5,"You are not yet qualified to come and go freely, strive to make us recognize you more!"
+FactionGuard_6,Force through {0}
+FactionGuard_7,How dare you! Kill this villain on the spot!|How outrageous!
+FactionGuard_8,Run away,ออกไป
+FactionGuard_9,"{PlayerName}! You have made mistakes repeatedly, you must be punished today!"
+FactionGuard_10,Pay {0} coins,จ่าย {0} อีแปะ
+FactionGuard_11,This is an exception!
+FactionGuard_12,Pay {0} level {1} (quantity 1)
+FactionGuard_13,This is an exception!
+FactionGuard_14,Imprisonment for {0} days
+FactionGuard_15,Humph! Reflect on your actions!
+FactionGuard_16,Taste the flavor of {0}
+FactionGuard_17,This is an exception!
+FactionGuard_18,Start the fight!,เริ่มการต่อสู้!
+FactionGuard_19,"If you dare to resist, don't blame me for being rude!"
+FactionGuard_20,{PlayerName}! You will pay for your actions today!
+FactionGuard_21,"Humph! If you don't drink the toast, you have to drink the penalty, the crime is increased!"
+FactionLeader_0,Greeting
+FactionLeader_1,"Has young hero {PlayerSurName} made progress?|Young hero {PlayerSurName}, I hope you are well."
+FactionLeader_2,Spar,ประลอง
+FactionLeader_3,"In a martial arts contest, stop at the right time.",ในการประลองยุทธ โปรดหยุดมือเมื่อรู้ผล
+FactionLeader_4,Make friends
+FactionLeader_5,Join,เข้าร่วม
+FactionLeader_6,Pay respects,แสดงความเคารพ
+FactionLeader_7,{PlayerName} Keep working hard!|Did {PlayerName} slack off today?
+FactionLeader_8,{PlayerName} Let me give you some advice.
+FactionLeader_9,Leave the door
+FactionLeader_10,Money,เงิน
+FactionLeader_11,How much sincerity do you want to show to make friends with us?
+FactionLeader_12,Manual
+FactionLeader_13,Equipment,ของสวมใส่
+FactionLeader_14,Treasures,สมบัติ
+FactionLeader_15,Think again,ลองคิดอีกครั้ง
+FactionLeader_16,……,……
+FactionLeader_17,"With you, our future is promising!|{PlayerName} has been diligent recently, good job.|{PlayerName} is making rapid progress, well done."
+FactionLeader_18,{PlayerSurName} is indeed extraordinary!
+FactionLeader_19,"{PlayerName} needs to practice more!|Humph, it seems that {PlayerName} you haven't been very dedicated recently!"
+FactionLeader_20,"Has {PlayerSurName} overestimated himself?|Alas, {PlayerSurName} needs to practice more!"
+FactionLeader_21,You're not qualified yet! (Need Fame to reach {0})
+FactionLeader_TrialLevel_0,One success power
+FactionLeader_TrialLevel_1,Three success power
+FactionLeader_TrialLevel_2,Five success power
+FactionLeader_TrialLevel_3,Seven success power
+FactionLeader_TrialLevel_4,Full power
+FactionLeaderGetPresent_0,……,……
+FactionLeaderGetPresent_1,{PlayerSurName} appreciates your kindness.
+FactionLeaderGetPresent_2,{PlayerSurName} You're too kind!,{PlayerSurName} เจ้าช่างมีน้ำใจยิ่งนัก!
+FactionLeaderGetPresent_3,{NpcJobTalk:自我称呼} will make good use of this money.|{PlayerSurName} will remember your kindness.
+FactionPlayer_0,%s%{0} joins <#e1760d>{1}</color>,%s%{0} เข้าร่วม <#e1760d>{1}</color>
+FactionPlayer_1,%s%{0} leaves <#e1760d>{1}</color>,%s%{0} ออกจาก <#e1760d>{1}</color>
+FactionPlayer_2,%s%{0} joins <#0ebad9>{1}</color>,%s%{0} เข้าร่วม <#0ebad9>{1}</color>
+FactionPlayer_3,%s%{0} leaves <#0ebad9>{1}</color>,%s%{0} ออกจาก <#0ebad9>{1}</color>
+FactionFame_齐王登基,
+FactionName_残棋个人势力,
+FactionName_书狂个人势力,
+FactionName_画痴个人势力,
+FactionName_哑琴个人势力,
+FactionName_诸葛神机个人势力,
+FactionName_完颜昭宁个人势力,
+FactionName_新九流门,New Nine Factions Sect,นิกายเก้าฝ่ายใหม่
+FactionName_龙翔镖局总镖头,
+FactionName_M20100-2损道人替身,
+FactionName_R10003-5恶乞丐替身,
+FactionInfo_新九流门,"The Nine Factions Sect, which you have rebuilt by eradicating the old wounds, how will it develop in the future? Will it do good and help the world, or will it do evil and harm one side? All these are in your thoughts."

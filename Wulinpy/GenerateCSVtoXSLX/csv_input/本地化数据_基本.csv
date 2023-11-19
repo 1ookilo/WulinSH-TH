@@ -1,0 +1,689 @@
+﻿﻿common_tip_title,Hint,คำแนะนำ
+fcm_age_title,Age warning,คำเตือนด้านอายุ
+fcm_age_content,"""Hero's Adventure"" Age warning\n1. This game is an open-world martial arts game with a pixelated ancient theme, suitable for users aged 12 and above. It is recommended that minors use the game under the supervision of a guardian.\n2. The game has main and side storylines, which are advanced through dialogue, interaction, and combat. By simulating a real martial arts world, each user can realize their martial arts dream, enjoy enmity, and wander the world with a sword, making the game world more open and exploratory.\n3. The game has a real-name authentication system. Users who are authenticated as minors will be subject to the following game restrictions:\nMinors cannot use the game from 22:00 to 8:00 the next day, and cannot use it for more than 3 hours on statutory holidays, and cannot use it for more than 1.5 hours at other times.\n4. The game unfolds the plot based on a fictional world, adopts distinctive art design, unique pixel graphics, and high-quality game music. While experiencing the game, you should comply with relevant laws and regulations.","""Hero's Adventure"" คำเตือนด้านอายุ\n1. เกมนี้เป็นเกมศิลปะการต่อสู้แบบเปิดโลกกว้างที่มีธีมโบราณแบบพิกเซล เหมาะสำหรับผู้ใช้ที่มีอายุ 12 ปีขึ้นไป ขอแนะนำให้ผู้เยาว์เล่นเกมภายใต้การดูแลของผู้ปกครอง\n2. เกมมีเนื้อเรื่องหลักและเนื้อเรื่องเสริมซึ่งมีความก้าวหน้าผ่านบทสนทนา การโต้ตอบ และการต่อสู้ ด้วยการจำลองโลกศิลปะการต่อสู้ที่แท้จริง ผู้เล่นแต่ละคนสามารถจินตนาการถึงความฝันด้านศิลปะการต่อสู้ของตนเอง เพลิดเพลินกับการต่อสุู้ และออกท่องโลกไปกับกระบี่ ทำให้โลกของเกมเปิดกว้าง และน่าสำรวจมากขึ้น\n3. เกมมีระบบยืนยันตัวตนด้วยชื่อจริง ผู้ใช้ที่ได้รับการรับรองความถูกต้องว่าเป็นผู้เยาว์จะต้องปฏิบัติตามข้อจำกัดของเกมดังต่อไปนี้:\nผู้เยาว์ไม่สามารถเล่นเกมได้ตั้งแต่เวลา 22:00 น. ถึง 8:00 น. ของวันถัดไป และไม่สามารถเล่นเกิน 3 ชั่วโมงในวันหยุดตามกฎหมาย และไม่สามารถเล่นเกิน 1.5 ชั่วโมงในเวลาอื่นได้\n4. เกมดำเนินเนื้อเรื่องตามโลกสมมติ ใช้การออกแบบงานศิลปะที่โดดเด่น กราฟิกพิกเซลที่เป็นเอกลักษณ์ และเพลงในเกมคุณภาพสูง ขณะเล่นเกม คุณควรปฏิบัติตามกฎหมายและข้อบังคับที่เกี่ยวข้อง"
+billboard_steam_title,<b><size=48>v1.0 Update Announcement </size></b>
+billboard_steam_content,"<size=24><space=2em>V1.0 is live now! Over the 8-month journey with five major updates, Hero's Adventure has evolved with over 40 updates. With each content addition, the team has continuously adjusted aspects of the game that didn't offer the best experience. We hope our martial heroes can have an enjoyable time in this improved version of Hero's Adventure. We express our greatest gratitude to all players who have supported and provided feedback!\n\n<size=24><space=2em>In addition to new content like the ""Homestead,"" ""Jiujiang Water Camp,"" and ""Fame Events,"" the V1.0 update has adjusted over 400 existing events, introduced over 200 independent events, new bonded NPCs, and Easter egg storylines. Some older save files might run into some issues with the adjusted new events, we highly recommend<#d09a09>tarting a new playthrough for the best V1.0 experience.</color>.\n\n<size=24><space=2em>Check the detailed Patch Notes at the end. Any help needed during gameplay? Join our [Discord server](https://discord.gg/bcX8pry8ZV)!  \n\n<space=2em><#d09a09>[EA Commemorative Item]</color>\n<space=2em>- Eligibility: Players who bought/redeemed the game pre-official release (before 07:00 pm PST, 10:00 pm EST on November 15th).\n<space=2em>- How to claim: Get the EA Commemorative Item - Special Medal (Legendary) on character creation. It summons our game producer to aid you in battles.\n\n<space=2em><#d09a09>[More Events]</color>\n<space=2em>We are running giveaways with some partners, if you have any friends who would like a chance to get a free copy of Hero's Adventure, make sure to participate! More details about the giveaways in our latest Steam post\n\n<space=2em><#d09a09>V1.0.1115b48 Patchnote</color>\n<space=2em>[New content]\n<space=2em>1. New Homestead system and related maps\n<space=3em>To access: Achieve reputation level 4 (Rising Star). Unlock by completing relevant events at the Opulent Tower in Daliang City.\n<space=2em>2. New joinable faction ""Jiujiang Water Camp"" and related events\n<space=2em>3. Introduced ""Fame Events"" that are triggered by leveling up your reputation\n<space=2em>4. Numerous new and adjusted events\n<space=2em>5. New NPC duel feature\n<space=3em>Unlocks with an NPC relationship level of 40. First-time victory grants reputation and Jianghu experience.\n<space=2em>6. New Jianghu experience allocation system:\n<space=3em>Acquire Jianghu experience points by completing Jianghu events, town bounties, and duels. \n<space=2em>7. New counterattack mechanics\n<space=2em>8. Four new bondable characters: ""Man Tuoluo"", ""Wanyan Zhaoning"", ""Yi Zhihua"", ""Han Hongyu""\n<space=2em>9. New Martial Arts Additional Effects\n<space=2em>10. New traits: attribute buffs unlocked at 25 Points in all five attributes:\n<space=3em>Robust Vitality: Activates when Constitution >= 25, increases base defense by 10%.\n<space=3em>Exceptional Insight: Activates when Intelligence >= 25, upgrades all abilities' efficiency by 50%. [Mathematical Formula]\n<space=3em>Fortunate Soul: Activates when Luck >= 25, increases combo rate by 15%, counterattack rate by 15%.\n<space=3em>Graceful as a Swan: Activates when Agility >= 25, successful evasion, accumulates 150 Qi.\n<space=3em>Mighty Strength: Activates when Strength >= 25, increases base attack power by 10%.\n<space=2em>11. Six new Ultimate Moves\n<space=2em>12. New Batch of Accessories\n<space=2em>13. New Crafting Items: craft high-rarity gifts through multiple low-rarity gifts\n<space=2em>14. Added Pet Encyclopedia\n<space=2em>15. 8 new achievements, and 2 new True Endings\n<space=2em>16. New equipment acquisition method: chance of dropping equipment after victory in world map battles. (special icon)\n<space=2em>17. Entering battle and killing NPCs will have a chance to obtain the NPC's high-rarity loot. \n<space=2em>18. Opening cut scene now available in Traditional Chinese and English\n<space=2em>19. Added Xbox controller compatibility\n<space=2em>20. Added Steam Deck compatibility\n\n<space=2em>[Adjustments]\n<space=2em>1. Adjustments to some Martial Arts Additional Effects\n<space=2em>2. Adjustments to some traits aptitude buff effects:\n<space=3em>Robust: changed to increase current maximum health by 10%.\n<space=3em>Lucky: changed to 50% chance of triggering additional drops upon killing enemies.\n<space=3em>Brutal: changed to 15% increase in critical damage.\n<space=2em>3. Adjustments to low-quality weapon and armor additional effects: introducing dynamic attributes and different special techniques.\n<space=2em>4. Adjustments to Some Accessories Additional Effects.\n<space=2em>5. Adjustment to hidden weapons.\n<space=2em>6. Optimized main menu.\n<space=2em>7. The protagonist will no longer consume stamina when moving on the map while riding a pet.\n<space=2em>8. Adjustments to companion equipment management requirements: Requires a Relationship Level of 40 or higher.\n<space=2em>9. Combat ability display relocated to the top left corner, shown in icon form. In combat, for every 10 points difference in combat capabilities, gain a 1% damage boost\n<space=2em>10. Adjustments to some item crafting materials.\n<space=2em>11. Adjustments to material spots and distribution rate.\n<space=2em>12. ""Yin"" Martial Arts basic attribute changed to counterattack, adjustments to specific martial arts special effects.\n<space=3em>Caught Off Guard (""Fearless charge""): Temporarily increases this attack's combo rate by 2.5% for each point the protagonist's agility exceeds the enemy's highest agility.\n<space=3em>Resilient: Reduces final damage received by 1.5% for each point of constitution.\n<space=3em>Strong arm: Adds 1.5% final damage for each point of strength.\n<space=3em>Collateral damage: Deals splash damage equivalent to 25% of the protagonist's attack to enemies on the edge of the damage range.\n<space=3em>Out of the Blue (""Ghostly shadow""): After successfully triggering a counterattack, the attacker's Qi regeneration speed decreases by 20% until their next action.\n<space=3em>Flexibility: After triggering a counterattack, gain an additional 10 combat intent and 150 Qi.\n<space=3em>Lightning fast: Each time hit, temporarily stacks 5% counterattack rate until a counterattack is triggered or the battle ends, at which point the stack is cleared.\n<space=2em>13. Adjustments to how the main five Attributes influence Attack, Defense, Health, Critical, Evasion, Block, and Counterattack.\n<space=2em>14. Adjustments to some buff effects:\n<space=3em>Courteous: When meeting a non-hostile character for the first time, additional relationship points. If reputation level is lower than the target, +2 relationship; for every level higher, an additional +2 relationship. For example, with a reputation level of 2 and the target at level 1, the initial meeting relationship is +4.\n<space=3em>Royal son in law: If reputation is below level 6, treat it as level 6 for calculating the effectiveness of gift-giving to the opposite sex (decreased by 90%). Upon first meeting with an NPC lower than your reputation level, gain 20 relationship points . Gain 2 copper coins daily.\n<space=3em>Jianghu Master: Initial reputation level is 10, and the initial relationship with the six major sects is 60 (the effect of the original 60 relationships with the six major sect leaders is canceled, and the initial relationship with sects is changed from 40 to 60).\n<space=2em>15. Adjusted attribute increase spread for important characters.\n<space=2em>16. All Boss characters receive an additional 1 point in all five attributes on Hard Difficulty; Characters receive an additional 1 point in all five attributes on Asura Difficulty; Boss Characters receive an additional 2 points in all five attributes.\n<space=2em>17. Max spirit increased from 200 to 250.\n<space=2em>18. Event-Related Adjustments:\n<space=3em>Reducing the times of training event with Fu Yao Qin at the Immortality Spring to 5 times.\n<space=3em>Sea Serpent Gang event provides the Jade Seal synthesis formula when learning about it.\n<space=3em>Automatically trigger a relationship reward with the Lord upon becoming the royal son-in-law, eliminating the need to visit the Yuelao Temple.\n<space=3em>Removed the promotion and conferment of titles after rescuing the Emperor Xuanhe; after Lord Kang ascends the throne, triggering a scenario to confer the title of Duke upon merit.\n<space=3em>Inviting Shen Wuqi Conditions: Participating in the Night Demon Pavilion auction reduced from 20 times to 5 times.\n<space=3em>Peak Enlightenment Event Trigger Conditions: Require a reputation level of 8, attain the top position, and win a one-on-one duel against any of the three sect leaders.\n<space=3em>Yuan Zhixiang quest type change: Shifted from main quest to side quest type.\n<space=3em>Removal of Sect Bulletin Board: Sect characters now post daily tasks instead. Completing tasks from other sects improves sect relationships, while completing tasks within the sect rewards additional sect contributions.\n<space=3em>Added supplementary facial expressions for female characters for selected events.\n<space=3em>Jianghu Events Reward Adjustment: Added rewards for Jianghu experience.\n<space=3em>Changed the trigger of Fashi Pill Event: Changed the trigger of the Poisoning event of Du Yapuo.\n<space=2em>19. Beast Rings adjustment: \n<space=3em>Changed the auction prices and is now non-tradable.\n<space=2em>20. Yangexing Event Enhancement: \n<space=3em>Progress to a certain extent and you can exchange high-rarity items using sect contributions at Yangexing.\n<space=2em>21.Different levels of material gathering spots now have different assets.\n\n<space=2em>[Fixes]\n<space=2em>1. Fixed the issue with the Dancing Garment Sutra lacking related dialogue descriptions.\n<space=2em>2. Fixed the problem with Crime Investigation Bureau disciples having incorrect appearances after joining the Ye Family Battalion and getting kicked out.\n<space=2em>3. Fixed the issue where Eldest Brother dies after ringing the bell ten times and cannot turn in the task.\n<space=2em>4. Fixed the description of pet low satiety.\n<space=2em>5. Fixed the issue of weapons having lower-than-expected random attributes during forging.\n<space=2em>6. Optimized the slow pathfinding of Fu Yaoqin and the issue of not stopping at the Fountain of Youth.\n<space=2em>7. Streamlined the display of key attributes in the character interface in the English version.\n<space=2em>8. Fixed the out of bound issue of item tips text in the English version.\n<space=2em>9. Fixed a coin exploit in Relic House."
+StopQuit_Save,"%c%Synchronizing save data, please wait a moment",%c%กำลังบันทึกข้อมูลให้ตรงกัน โปรดรอสักครู่
+Achievement_Kill_Info,Defeat {count} enemies,กำจัดศัตรู {count} ตัว
+Achievement_Test_Info,Test test {count},ทดสอบ ทดสอบ {count}
+CoinUnit_Guan,Guan,ตำลึง
+CoinUnit_Wen,Coin,อีแปะ
+Hit_Miss,Evasion,หลบหลีก
+Hit_Resist,No damage,ไม่มีความเสียหาย
+Hit_DamageRtn,Reflect,สะท้อน
+Hit_DamageNear,Share,แบ่ง
+Hit_DamageSplash,Splash,กระจาย
+Hit_DamageIsFlank,Side attack,โจมตีด้านข้าง
+Hit_DamageIsBackStab,Back attack,โจมตีด้านหลัง
+Hit_DamageGuard,Parry,ปัดป้อง
+Hit_DamageTransfer,Transfer,โอนย้าย
+KungfuAvalible_EpLow,Not enough MP,MP ไม่พอ
+MiningGiveUp,Run away,ออกไป
+KungfuAvalibleLog_EpLow,"%c%Not enough MP, can't use {0}","%c%MP ไม่พอ, ไม่สามารถใช้ {0}"
+KungfuAvalible_SpUsed,Used,ถูกใช้
+KungfuAvalibleLog_SpUsed,%c%Can't use {0} again in this battle,%c%ไม่สามารถใช้{0}ซ้ำ ในการต่อสู้นี้
+KungfuAvalible_NoWeapon,Incorrect weapon,อาวุธไม่ถูกต้อง
+KungfuAvalibleLog_NoWeapon,"%c%Incorrect weapon equipped, can't use {0}","%c%ใส่อาวุธไม่ถูกต้อง, ไม่สามารถใช้{0}"
+KungfuAvalibleLog_AccuUniqueLow,%c%Activate after accumulating {0} Spirit
+KungfuAvalible_IsCooling,On cooldown,อยู่ระหว่างคูลดาวน์
+KungfuAvalibleLog_IsCooling,%c%Normal use after {0} actions
+AssistAvalibleLog_AccuUniqueLow,%c%Need to obtain {0} Spirit first to assist
+KungfuAvalibleLog_DisposableUsed,%c%Already used in this battle,%c%ใช้ไปแล้วในการต่อสู้นี้
+KungfuAvalible_DisposableUsed,Already used,ใช้ไปแล้ว
+KungfuAvalibleLog_NoBondTarget,%c%{0} did not assist,%c%{0} ช่วยเหลือไม่ได้
+KungfuAvalible_NoBondTarget,Can't use,ไม่สามารถใช้ได้
+KungfuAvalibleLog_NotInBondArea,"%c%Too far from {0}, can't use","%c%อยู่ห่างจาก {0}เกินไป, ไม่สามารถใช้ได้"
+KungfuAvalible_NotInBondArea,Can't use,ไม่สามารถใช้ได้
+NormalAttack_NotAvalible,%c%Exceeded normal attack range
+NormalAttack_NoKungfu,%c%Unable to attack,%c%โจมตีไม่ได้
+KungfuCastForbiden_NoPath,"%c%Path is blocked, can't use"
+KungfuCastForbiden_NoActor,%c%No target to use,%c%ไม่มีเป้าหมายให้ใช้
+KungfuCastForbiden_NoEmptyGround,%c%Can't use in this area,%c%ใช้ในพื้นที่นี้ไม่ได้
+KungfuCastForbiden_IsBlock,%c%Can't use in this area,%c%ใช้ในพื้นที่นี้ไม่ได้
+KungfuCastForbiden_CantCharge,"%c%No place to move, can't use"
+InBattle_InternalAtk,Boost</color>,เพิ่ม</color>
+InBattle_InternalDef,<#7C7CFF>Protection</color>
+InBattle_SecondWind,One-hit invincible
+BattleDamageStyle_Normal,<size=+12>{0},<size=+12>{0}
+BattleDamageStyle_DamageSplash,<size=+12>{0},<size=+12>{0}
+BattleDamageStyle_DamageRtn,<size=+12>{0},<size=+12>{0}
+BattleDamageStyle_DamageNear,<size=+12>{0},<size=+12>{0}
+BattleDamageStyle_Action,<#5FF2FF>Charge up<size=+12>{0}</color>,<#5FF2FF>รวบรวมปราณ<size=+12> {0} </color>
+BattleDamageStyle_Bleed,<#F55452>{0}</color>,<#F55452>{0}</color>
+BattleDamageStyle_Heal,<#94FF4D>HP<size=+12>{0}</color>,<#94FF4D>HP<size=+12>{0}</color>
+BattleDamageStyle_Ep,<#FFFFFF>MP<size=+12>{0}</color>,<#FFFFFF>MP<size=+12>{0}</color>
+BattleDamageStyle_Crit,<size=+12><#FF793E>Critical<size=+24>{0}</color>,<size=+12><#FF793E>คริติคอล<size=+24>{0}</color>
+BattleDamageStyle_Parry,Parry{0},ปัดป้อง{0}
+BattleDamageStyle_DamageGuard,<size=+12>{0}
+BattleDamageStyle_DamageTransfer,<size=+12>{0}
+BattleDamageStyle_UnknownDamage,<#F55452>HP{0}</color>
+InstantBattle_RetreatConfirm,"<#61C3C8>{0}</color> has left the combat area, do you want to exit the battle?"
+InstantBattle_RetreatFriend,<#61C3C8>{0}</color> successfully left the battle
+InstantBattle_RetreatEnemy,<#FF0000>{0}</color> successfully left the battle
+InstantBattle_TimeCost,This battle took a total of <#F55452>{0}</color>,ใช้เวลาต่อสู้ไปทั้งหมด <#F55452>{0}</color>
+BattleUseItemCount_Med,Used <#00ff00>{0}/{1}</color> in this battle
+BattleUseItemCount_Wine,Drank {0}/{1} in this battle
+BattlePropModified_Hp,
+BattlePropModified_Ep,MP{0},MP{0}
+BattlePropModified_NegPoison,<#F55452>Poisoned{0}</color>
+BattlePropModified_NegInjure,<#F55452>Internal Injury{0}</color>,<#F55452>บาดเจ็บภายใน {0}</color>
+BattlePropModified_NegSeal,<#F55452>Sealed{0}</color>
+BattlePropModified_NegBleed,<#F55452>Bleeding{0}</color>,<#F55452>เลือดไหล {0}</color>
+BattlePropModified_NegBlind,<#F55452>Blind {0}</color>
+AutoBattle_NoEnemy,"%c%No enemies nearby, can't auto-battle",%c%ไม่มีเป้าหมายอยู่ใกล้เคียง ไม่สามารถต่อสู้อัตโนมัติได้
+PlayerCreate_NameIllegal,"%c%The name contains sensitive words, please re-enter"
+PlayerCreate_TraitCount,Available achievement points: <#ffffff>{0}</color>,แต้มความสำเร็จที่มี: <#ffffff>{0}</color>
+PlayerCreate_AbilityCount,Please select {1} initial skills ({0}/{1}),โปรดเลือกทักษพเริ่มต้น {1} ทักษะ ({0}/{1})\n
+PlayerCreate_MainPropPoint,Available points: {0},แต้มที่มี: {0}
+PlayerCreate_Item,Please select {1} sets of initial items ({0}/{1}),โปรดเลือกสิ่งของเริ่มต้น {1} ชิ้น ({0}/{1})
+PlayerCreate_AbilityTip,{0}：{1},{0}：{1}
+PlayerCreate_EmptyTraitAvalible,"There are still points left for selection, \ndo you want to give up?",ยังเหลือแต้มความสำเร็จอยู่\nท่านต้องการข้ามไปหรือไม่?
+PlayerCreate_ItemtAvalible,"There are still items not selected, \ndo you want to give up the selection?",ยังเลือกสิ่งของเริ่มต้นไม่ครบ\nท่านยืนยันที่จะข้ามไปหรือไม่?
+PlayerCreate_PropPointAvalible,"There are still unallocated attributes available, \ndo you want to give up the allocation?",ยังมีแต้มที่ยังไม่ได้จัดสรรคงเหลืออยู่\nต้องการข้ามไปหรือไม่?
+PlayerCreate_AbilityAvalible,"There are still skills not selected, \ndo you want to give up the selection?"
+PlayerCreate_DiscardCharacterSheet,Are you sure you want to return to the difficulty selection screen? \nThe content of this screen will be reset!,ต้องการกลับไปหน้าเลือกระดับความยากหรือไม่?\nข้อมูลในหน้าจอปัจจุบันจะถูกล้างทั้งหมด
+PlayerCreate_MaxTrait,%c%The limit of selectable features has been reached
+PlayerCreate_MaxItem,%c%Can't carry more items
+PlayerCreate_LockItem,%c%This item has not been unlocked
+PlayerCreate_MaxAbility,%c%The limit of selectable skills has been reached
+PlayerCreate_LockAbility,%c%This skill has not been unlocked
+PlayerCreate_LockTraitMax,%c%Can only lock-on {0} features
+PlayerCreate_NoTraitPoints,%c%Not enough achievement points,%c%แต้มความสำเร็จไม่เพียงพอ
+PlayerCreate_TraitInfo0,"Fist, the origin of all arts. Sacrifice attack range and distance for extremely high damage.\n<color=yellow>Main sources: Shifa Temple, Taoist Sect, Town Martial Arts Hall</color>","หมัด: ต้นกำเนิดของศิลปะการต่อสู้ มีขอบเขตการโจมตีที่แคบและสั้น แลกกับพลังทำลายมหาศาล \n<color=yellow>สถานที่ฝึกฝนหลัก: อารามฉีฟา, สำนักเต๋า, หอฝึกยุทธประจำเมือง</color>"
+PlayerCreate_TraitInfo1,"Sword, the king of all weapons, the ancestor of short weapons. It's flexible and elegant, light and fast, widely spread, and popular among martial artists.\n<color=yellow>Main sources: Langya Sword Pavilion, Taoist Sect, Crime Investigation Bureau, Town Martial Arts Hall</color>","กระบี่: ราชาแห่งอาวุธทั้งมวล ต้นกำเนิดของอาวุธสั้น คล่องแคล่วและสง่างาม เบาและรวดเร็ว แพร่หลายเป็นที่นิยมของชาวยุทธ\n<color=yellow>สถานที่ฝึกฝนหลัก: ศาลากระบี่หลางหยา, สำนักเต๋า, สำนักสืบสวน, หอฝึกยุทธประจำเมือง</color>"
+PlayerCreate_TraitInfo2,"The sword, the leader of all weapons. It has been used in the army since ancient times, brave and fierce, strong and powerful, it is the strongest in short-range combat.\n<color=yellow>Main sources: Jiujiang Water Camp, Yan Yun Iron Army, Blue Wind Camp, Town Martial Arts Hall</color>","ดาบ: เป็นผู้นำของอาวุธทั้งปวง ใช้ในการรบมาตั้งแต่สมัยโบราณ กล้าหาญและดุดัน แข็งแกร่งและทรงพลัง เป็นอาวุธสั้นที่ทรงพลังที่สุด\n<color=yellow>สถานที่ฝึกฝนหลัก: ค่ายน้ำจิ่วเจียง, ทัพเหล็กหยานหยุน, ค่ายวายุคราม, หอฝึกยุทธประจำเมือง</color>"
+PlayerCreate_TraitInfo3,"Dagger. An inch short, an inch dangerous. Small and flexible, with concealed moves, as mighty as the thunder, defeating the enemy in one strike.\n<color=yellow>Main Source: Nest of Swallow</color>",มีด: ยาวเพียงหนึ่งนิ้ว แต่อันตรายอย่างมาก มีขนาดเล็กและยืดหยุ่น ซ่อนเร้นการเคลื่อนไหว จู่โจมดั่งสายฟ้า สังหารศัตรูในคราเดียว\n<color=yellow>สถานที่ฝึกฝนหลัก: รังนกนางแอ่น</color>
+PlayerCreate_TraitInfo4,"Fan. Incorporating the elegance of its own blade in Short weapon skill, with varied and elegant moves, loved by most literati.\n<color=yellow>Main Source: Confucius Temple, Imperial School</color>","พัด: ใช้ความคล่องแคล่วสง่างาม ผสมผสานกับทักษะอาวุธสั้น พร้อมการเคลื่อนไหวที่หลากหลายและสง่างาม เป็นที่ชื่นชอบของเหล่าบัณฑิตเป็นอย่างมาก\n<color=yellow>สถานที่ฝึกฝนหลัก: วัดขงจื้อ, สำนักบัณฑิตหลวง</color>"
+PlayerCreate_TraitInfo5,"Pen. Using the pen as a weapon, wielding it like a knife, splashing ink like arrows, painting a landscape with every move.\n<color=yellow>Main Source: Confucius Temple, Imperial School</color>","พู่กัน: ใช้พู่กันแทนอาวุธ กวัดแกว่งดั่งคมมีด สาดหมึกดั่งลูกศร รังสรรค์จิตกรรมในทุกการเคลื่อนไหว\n<color=yellow>สถานที่ฝึกฝนหลัก: วัดขงจื้อ, สำนักบัณฑิตหลวง</color>"
+PlayerCreate_TraitInfo6,"Staff, the ancestor of all weapons. Combining solidity and flexibility, balancing offense and defense, versatile.\n<color=yellow>Main Source: Shifa Temple, Town Martial Arts School</color>","ไม้เท้า: ต้นกำเนิดของอาวุธทั้งปวง ผสานความแข็งแกร่งและยืดหยุ่น สมดุลทั้งรุกและรับ ใช้งานได้หลากหลาย\n<color=yellow>สถานที่ฝึกฝนหลัก: อารามฉีฟา, โรงเรียนฝึกยุทธประจำเมือง</color>"
+PlayerCreate_TraitInfo7,"Spear, the king of all weapons. Combining hardness and softness, moving like a swimming dragon, leading to thousands of changes.\n<color=yellow>Main Source: Ye Family Battalion, Town Martial Arts School</color>","หอก: ราชาแห่งอาวุธยาว มีทั้งความแข็งและอ่อน เคลื่อนไหวราวมังกรแหวกว่าย แปรเปลี่ยนได้นับพัน\n<color=yellow>สถานที่ฝึกฝนหลัก: กองพันตระกูลเย่, โรงเรียนฝึกยุทธประจำเมือง</color>"
+PlayerCreate_TraitInfo8,"The flute. Using breath to drive the sound, capturing people's souls, its sound is distant, and you can control the enemy with sound from ten steps away.\n<color=yellow>Main sources: Melody House, Maiden House, Tower of Prosperity</color>","ขลุ่ย: ใช้ลมหายใจเพื่อขับเคลื่อนเสียง ดึงดูดจิตวิญญาณของผู้คน ส่งเสียงระยะไกล สามารถควบคุมศัตรูที่อยู่ห่างออกไปสิบก้าวได้\n<color=yellow>สถานที่ฝึกฝนหลัก: ตำหนักบทเพลง, ตำหนักพิสุทธิ์, หอเจิดจรัส</color>"
+PlayerCreate_TraitInfo9,"The lute, the king of all music. The combination of its sound and MP can break people's minds from several meters away.\n<color=yellow>Main sources: Melody House, Maiden House, Tower of Prosperity</color>","ผีผา: ราชาแห่งเครื่องดนตรี เมื่อเสียงของมันรวมกับพลังภายใน สามารถทำลายจิตใจของผู้คนในระยะไกลได้\n<color=yellow>สถานที่ฝึกฝนหลัก：ตำหนักบทเพลง, ตำหนักพิสุทธิ์, หอเจิดจรัส</color>"
+PlayerCreate_TraitInfo10,"The zither. By adding MP to your fingers and causing attacks through the vibration of the strings, the sound is varied and difficult to block, controlling the enemy invisibly.\n<color=yellow>Main sources: Melody House, Maiden House, Tower of Prosperity</color>","พิณ: รวบรวมลมปราณไว้ที่ปลายนิ้ว ใช้การสั่นของสายพิณเพื่อโจมตี เสียงแปรเปลี่ยนหลากหลายยากที่จะสกัดกั้น ควบคุมศัตรูรอบทิศ\n<color=yellow>สถานที่ผึกฝนหลัก: ตำหนักบทเพลง, ตำหนักพิสุทธิ์, หอเจิดจรัส</color>"
+PlayerCreate_TraitZone0,Fist Range (Level 10 Effect),ระยะหมัด (ประสิทธิภาพระดับ 10)
+PlayerCreate_TraitZone1,Sword Range (Level 10 Effect),ระยะกระบี่ (ประสิทธิภาพระดับ 10)
+PlayerCreate_TraitZone2,Blade Range (Level 10 Effect),ระยะดาบ (ประสิทธิภาพระดับ 10)
+PlayerCreate_TraitZone3,Short Weapon Range (Level 10 Effect),ระยะอาวุธสั้น (ประสิทธิภาพระดับ 10)
+PlayerCreate_TraitZone4,Fan Range (Level 10 Effect),ระยะพัด (ประสิทธิภาพระดับ 10)
+PlayerCreate_TraitZone5,Pen Range (Level 10 Effect),ระยะพู่กัน (ประสิทธิภาพระดับ 10)
+PlayerCreate_TraitZone6,Staff Range (Level 10 Effect),ระยะไม้เท้า (ประสิทธิภาพระดับ 10)
+PlayerCreate_TraitZone7,Spear Range (Level 10 Effect),ระยะหอก (ประสิทธิภาพระดับ 10)
+PlayerCreate_TraitZone8,Flute Range (Level 10 Effect),ระยะขลุ่ย (ประสิทธิภาพระดับ 10)
+PlayerCreate_TraitZone9,Lute Range (Level 10 Effect),ระยะผีผา (ประสิทธิภาพระดับ 10)
+PlayerCreate_TraitZone10,Guqin Range (Level 10 Effect),ระยะพิณ (ประสิทธิภาพระดับ 10)
+PlayerCreate_TraitRarityWindow,"The current list contains <#d09a09>Legendary features</color>, do you want to give up and randomize again?","รายการปัจจุบันมี <#d09a09>คุณสมบัติในตำนาน</color>, เจ้าต้องการยอมแพ้และสุ่มอีกครั้งหรือไม่?"
+PlayerCreate_TraitRarityWindowCheckInfo,Don't remind again for this character creation
+PlayerCreate_PropPointViaAchv,The current achievement adds an extra point of {0}
+PlayerCreate_TraitPointViaAchv,The current number of additional features to choose is {0}
+InputWindow_InputIllegal,"%c%The content you entered contains sensitive words, please re-enter"
+GameLog_Equip,%c%Equip successful,%c%สวมใส่สำเร็จ
+GameLog_UnEquip,%c%Unequip successful,%c%ถอนการติดตั้งแล้ว
+GameLog_WeaponNotMatching,%c%Some external skills cannot be used
+GameLog_GetEquipPenalty,%c%Equipment effect weakened
+GameLog_EquipBook,%c%Choose {0} to learn,%c% เลือก {0} เพื่อฝึกฝน
+GameLog_UnEquipBook_LvPeaked,"%c%Already at full weight, no need to learn"
+GameLog_UnEquipBook_NumPeaked,%c%The limit of learnable martial arts has been reached
+GameLog_UnEquipBook_dissatisfaction,%c%Do not meet the conditions to learn,%c%คุณสมบัติในการเรียนไม่ตรงตามเงื่อนไข
+GameLog_UnUseItem,%c%Cannot use item
+GameLog_UseItem,%c%Item used successfully
+GameLog_UnUseItem_dead,"%c%Near-death status, temporarily unable to use"
+GameLog_NoNeedUseItem,%c%No need to use item
+UIConfirm_EquipDebuffBook,Do you want to teach {0} to learn {1}?,ท่าต้องการให้ {0} เรียน {1} หรือไม่?
+UIConfirm_EquipOwnedDebuffBook,Do you want to transfer {3}'s {1} to {0} to learn?
+UIConfirm_UnEquipBook,Do you want to cancel {0} learning {1}?,ต้องการให้{0}ยกเลิกการเรียน{1} หรือไม่
+UIConfirm_EquipBook,Do you want to teach {0} to learn {1}?,ท่าต้องการให้ {0} เรียน {1} หรือไม่?
+UIConfirm_EquipOwnedBook,Do you want to transfer {2}'s {1} to {0} to learn?
+UIConfirm_UnEquip,Do you want to unequip {0}'s {1}?,ท่านต้องการถอด {1} ของ {0} หรือไม่?
+UIConfirm_Equip,Do you want to equip {0} with {1}?
+GameLog_UnDanYao,%c%Pill usage has reached its limit
+UIConfirm_WeaponNotMatching,"<size=24><#FF5809>(Weapon type mismatch, some Martial Arts will be ineffective after equipping)"
+UIConfirm_GetEquipPenalty,"<size=24><#FF5809>(Insufficient equip conditions, Accuracy or Action Speed will decrease after equipping)"
+UIConfirm_UseItem,Do you want to use {1} on {0}?
+BuffConflict_Generic,"There is already a similar item effect, continuing will overwrite it, do you confirm?"
+GameLog_MovePosInvalid,%c%Cannot move to this location,%c%ไม่สามารถไปที่จุดนี้ได้
+GameLog_InBattle_Exp,<#61C3C8>{0}</color> gained <#5CBD4C> {1} Jianghu Knowledge</color>,<#61C3C8>{0}</color> ได้รับ <#5CBD4C> {1} ประสบการณ์ยุทธ</color>
+GameLog_InBattle_KungfuExp,<#61C3C8>{0}</color> gained <#D7A347> {1} EXP</color>,<#61C3C8>{0}</color> ได้รับ <#D7A347> ค่าประสบการณ์ {1} </color>
+GameLog_InBattle_BattleExp,<#61C3C8>{0}</color> gained <#E16D79> {1} Combat</color>,<#61C3C8>{0}</color> ได้รับ <#E16D79> {1} พลังรบ</color>
+GameLog_TeamPack_NotEnoughCoin,%c%Not enough Coin,%c%มีเงินไม่พอ
+GameLog_TeamPack_NotEnoughFTributePoint,%c%Not enough Sect contribution,%c%ความดีความชอบสำนักไม่เพียงพอ
+GameLog_TeamPack_NotEnoughItem,%c%Not enough {0}
+GameLog_TeamPack_AddCoin,{1} gained <#FFED56>{0} Coin</color>,{1} ได้รับ <#FFED56>{0} อีแปะ</color>
+GameLog_TeamPack_RemoveCoin,{1} lost <#FFED56>{0} Coin</color>,{1} สูญเสีย <#FFED56>{0} อีแปะ</color>
+GameLog_TeamPack_AddFTributePoint,{1} gained <#FFED56>{0} Sect contribution</color>,{1} ได้รับ <#FFED56>{0} ค่าความดีความชอบสำนัก</color>
+GameLog_TeamPack_RemoveFTributePoint,{1} lost <#FFED56>{0} Sect contribution</color>,{1} สูญเสีย <#FFED56>{0} ความดีความชอบสำนัก</color>
+GameLog_TeamPack_AddItem,{1} gained {0},{1} ได้รับ {0}
+GameLog_TeamPack_RemoveItem,{1} lost {0},{1} สูญเสีย {0}
+GameLog_InBattle_LevelUp,%s%<#61C3C8>{0}</color> has leveled up to <#ff822f>{1}</color>,%s%<#61C3C8>{0}</color> เลื่อนระดับเป็น ระดับ <#ff822f>{1}</color>
+GameLog_InBattle_KungfuExpUp,<#61C3C8>{0}</color>'s {1} gained <#D7A347> {2} EXP</color>,{1} ของ <#61C3C8>{0}</color>  ได้รับ <#D7A347> ค่าประสบการณ์ {2} </color>
+GameLog_InBattle_KungfuExpLevelUp,<#61C3C8>{0}</color>'s {1} has leveled up to <#ff822f>{2}</color>,{1} ของ<#61C3C8>{0}</color> เลื่อนระดับเป็น <#ff822f>{2}</color>
+GameLog_InBattle_KungfuExpLevelUpNew,%s%<#ff5555>{0}</color> successfully comprehended {1},%s%<#ff5555>{0}</color> เข้าใจ {1} ได้สำเร็จ
+GameLog_KungfuRemove,{0} has forgotten {1}
+GameLog_InBattle_InternalKungfuChanged,{0} set the skill body to {1}
+GameLog_InBattle_InternalKungfuCanceled,{0} cancelled the skill body {1}
+GameLog_InBattle_AdditionAction,{0} gained an extra action
+GameLog_TeamExp,Gained <#5CBD4C> {0} Jianghu Knowledge</color>,ได้รับ <#5CBD4C>ประสบการณ์ยุทธ {0} </color>
+GameLog_TeamKungfuExp,Gained <#D7A347> {0} EXP</color>,ได้รับ <#D7A347>ค่าประสบการณ์ {0}</color>
+GameLog_BattleUseItemCap_Med,%c%<#61C3C8>{0}</color>Medicine usage has reached its limit
+GameLog_BattleUseItemCap_Wine,%c%<#61C3C8>{0}</color>Beverage usage has reached its limit
+GameLog_UseItem_Med,%c%<#61C3C8>{0}</color> took {1}
+GameLog_UseItem_Wine,%c%<#61C3C8>{0}</color> drank {1}
+GameLog_TeamAddCharacter,%s%<#ff5555>{0}</color> joined the team,%s%<#ff5555>{0}</color> เข้าร่วมกลุ่ม
+GameLog_TeamRemoveCharacter,<#ff5555>{0}</color> leave the team,<#ff5555>{0}</color> ออกจากกลุ่ม
+GameLog_TeamAddPet,%s%<#9544ba>{0}</color> has recognized you as its master
+GameLog_DefaultSimple,{0}
+CharacterPropModify_MoralUp,<#D7A347>{1}</color><#5EB94F>increased</color> by {2} points,<#D7A347>{1}</color><#5EB94F>เพิ่มขึ้น</color> {2} แต้ม
+CharacterPropModify_MoralDown,<#D7A347>{1}</color><#CE3C3B>decreased</color> by {2} points,<#D7A347>{1}</color><#CE3C3B>ลดลง</color> {2} แต้ม
+CharRelation_Up,Relations with <#DFC342>{0}</color> increased by <#FFA311>{1}</color> points,ความสัมพันธ์กับ <#DFC342>{0}</color> เพิ่มขึ้น <#FFA311>{1}</color> แต้ม
+CharRelation_Down,Relations with <#DFC342>{0}</color> decreased by <#FFA311>{1}</color> points,ความสัมพันธ์กับ <#DFC342>{0}</color> ลดลง <#FFA311>{1}</color> แต้ม
+CharRelation_Change,Relations with <#DFC342>{0}</color> reached <#FD6565>{1}</color>,ความสัมพันธ์กับ <#DFC342>{0}</color> ถึง <#FD6565>{1}</color>
+CharRelationFromDamageSameFaction_Up,"Damaged <#DFC342>{0}</color> fellow sect member, relations increased by <#FFA311>{1}</color> points"
+CharRelationFromDamageSameFaction_Down,"Damaged <#DFC342>{0}</color> fellow sect member, relations decreased by <#FFA311>{1}</color> points"
+CharRelationFromLevelup_Up,"<#DFC342>{0}</color> gained a lot of insight from fighting alongside you, <#DFC342>{0}</color> relations increased by <#FFA311>{1}</color>|<#DFC342>{0}</color> considers you an inseparable partner, <#DFC342>{0}</color> relations increased by <#FFA311>{1}</color>|<#DFC342>{0}</color> trusts you more after this battle, <#DFC342>{0}</color> relations increased by <#FFA311>{1}</color>|<#DFC342>{0}</color> greatly enjoyed fighting alongside you, <#DFC342>{0}</color> relations increased by <#FFA311>{1}</color>|<#DFC342>{0}</color> appreciates your efforts in this battle, <#DFC342>{0}</color> relations increased by <#FFA311>{1}</color>|<#DFC342>{0}</color>'s strength has further improved, <#DFC342>{0}</color> relations increased by <#FFA311>{1}</color>"
+CharRelationFromLevelup_Down,"<#DFC342>{0}</color> despises your performance in the battle, <#DFC342>{0}</color> relations decreased by <#FFA311>{1}</color>|You failed to protect <#DFC342>{0}</color>'s safety, <#DFC342>{0}</color> relations decreased by <#FFA311>{1}</color>|<#DFC342>{0}</color> does not recognize your strength in combat, <#DFC342>{0}</color>Relations decrease by <#FFA311>{1}</color>|<#DFC342>{0}</color> disapproves of your actions, <#DFC342>{0}</color>Relations decrease by <#FFA311>{1}</color>|<#DFC342>{0}</color> thinks you are not worthy of trust, <#DFC342>{0}</color>Relations decrease by <#FFA311>{1}</color>|<#DFC342>{0}</color> is now disappointed in you, <#DFC342>{0}</color>Relations decrease by <#FFA311>{1}</color>"
+CharRelationFromPlayerAction_Up,"<#DFC342>{0}</color> highly approves of your actions, Relations increase by <#FFA311>{1}</color> points"
+CharRelationFromPlayerAction_Down,"<#DFC342>{0}</color> is disgusted by your actions, Relations decrease by <#FFA311>{1}</color> points"
+FactionFame_Up,Relations with <#61C3C8>{0}</color> increase by <#FFA311>{1}</color> points, ความสัมพันธ์กับ <#61C3C8>{0}</color> เพิ่มขึ้น <#FFA311>{1}</color> แต้ม
+FactionFame_Down,Relations with <#61C3C8>{0}</color> decrease by <#FFA311>{1}</color> points,ความสัมพันธ์กับ <#61C3C8>{0}</color> ลดลง <#FFA311>{1}</color> แต้ม
+FactionFame_Change,Relations with <#61C3C8>{0}</color> reach <#FD6565>{1}</color>,ความสัมพันธ์กับ <#61C3C8>{0}</color> ถึง <#FD6565>{1}</color>
+Factiontrading_FameCheckFailed,Relations with <#DFC342>{0}</color> reach {1} can Buy
+Factiontrading_RelationCheckFailed,Relations with <#DFC342>{0}</color> reach {1} can Buy
+SaveInfo_AutoSave,Autosave slot {0},บันทึกอัตโนมัติ ช่องที่ {0}
+SaveInfo_Save,Save slot {0},บันทึกช่องที่ {0}
+SaveInfo_QuickSave,Quick save
+SaveInfo_AutoSaveFinished,%c%Auto save completed,%c%บันทึกอัตโนมัติเสร็จสิ้น
+SaveInfo_QuickSaveFinished,%c%Quick save successful
+SaveInfo_QuickLoadFinished,%c%Quick load successful
+SaveInfo_QuickSaveFailed,%c%Cannot quick save now
+SaveInfo_QuickLoadFailed,%c%Cannot quick load now
+SaveInfo_Map,{0},{0}
+SaveInfo_DateFormat,yyyy-MM-dd HH:mm
+SaveInfo_PlayTimeFormat,Game duration: {0} days {1} hours {2} minutes,ระยะเวลาของเกม: {0} วัน {1} ชั่วโมง {2} นาที
+SaveInfo_InGameTime,Game duration: {0} days {1} shichen,ระยะเวลาในเกม: {0} วัน {1} ชั่วยาม
+SaveInfo_ConfirmValid,"Are you sure you want to overwrite ""{0}""?\nThe overwritten save will be deleted.","แน่ใจหรือไม่ ที่จะเขียนทับ ""{0}""?\nบันทึกเกมที่ถูกเขียนทับจะถูกลบออก"
+SaveInfo_ConfirmInvalid,Are you sure you want to create a new save?,แน่ใจหรือไม่ที่จะบันทึกเกมใหม่?
+SaveInfo_LoadConfirm,Do you want to load this save?\nUnsaved progress will be lost.,ต้องการโหลดบันทึกนี้หรือไม่?\nข้อมูลความการเล่นที่ยังไม่บันทึกจะสูญหาย
+SaveInfo_LoadFailed,%s%Save file is corrupted
+SaveInfo_IsSaving,"%c%The system is writing another save, please wait"
+SaveInfo_DeleteConfirm,"Choose to delete ""<#ffff00>{0}</color>""?\n<size=24><#ff0000>(Note: The save cannot be recovered after deletion)</color></size>","ต้องการลบ ""<#ffff00>{0}</color>"" หรือไม่?\n<size=24><#ff0000>(หมายเหตุ:หลังจากลบแล้วจะไม่สามารถกู้คืน)</color></size>"
+Kungfu_PropNeed,Requirement,ความต้องการ
+Equip,Equipment,ของสวมใส่
+Equip_Weapon,Weapon,อาวุธ
+Equip_Weapon_None,Bare hands,มือเปล่า
+Equip_Weapon_Glove,Glove,ถุงมือ
+Equip_Weapon_Sword,Sword,กระบี่
+Equip_Weapon_Blade,Blade,ดาบ
+Equip_Weapon_Lance,Spear,หอก
+Equip_Weapon_Staff,Staff,ไม้เท้า
+Equip_Weapon_Fan,Fan,พัด
+Equip_Weapon_Dagger,Dagger,มีด
+Equip_Weapon_Brush,Brush,พู่กัน
+Equip_Weapon_Guqin,Zither,พิณ
+Equip_Weapon_Flute,Flute,ขลุ่ย
+Equip_Weapon_Pipa,Lute,ผีผา
+Equip_Armor,Inner armor,เกราะ
+Equip_Amulet,Accessory,เครื่องประดับ
+KungfuBook,Martial arts manual,ตำราวรยุทธ
+KungfuBook_Outer,External skill Manual,ตำราทักษะภายนอก
+KungfuBook_Outer_Fist,Fist skill Manual,ตำราทักษะหมัด
+KungfuBook_Outer_Sword,Sword skill Manual,ตำราทักษะกระบี่
+KungfuBook_Outer_Blade,Knife skill Manual,ตำราทักษะดาบ
+KungfuBook_Outer_Lance,Spear skill Manual,ตำราทักษะหอก
+KungfuBook_Outer_Staff,Stick skill Manual,ตำราวิชาไม้เท้า
+KungfuBook_Outer_Fan,Fan skill Manual,ตำราทักษะพัด
+KungfuBook_Outer_Dagger,Dagger skill Manual,ตำราทักษะมีด
+KungfuBook_Outer_Brush,Brush skill Manual,ตำราทักษะพู่กัน
+KungfuBook_Outer_Guqin,Zither skill Manual,ตำราทักษะพิณ
+KungfuBook_Outer_Flute,Flute skill Manual,ตำราทักษะขลุ่ย
+KungfuBook_Outer_Pipa,Lute skill Manual,ตำราทักษะผีผา
+KungfuBook_Inner,Internal skill Manual,ตำรากำลังภายใน
+Consumeable,Consumables,ของใช้
+Consumeable_Edible,Consumables,ของใช้
+Consumeable_Edible_Meal,Food,อาหาร
+Consumeable_Edible_Fruit,Fruit,อาหาร
+Consumeable_Edible_Wine,Beverage,เครื่องดื่ม
+Consumeable_Edible_Elixir,Pill,โอสถ
+Consumeable_Edible_Medicine,Medicine,ยา
+Consumeable_Material,Material,วัตถุดิบ
+Consumeable_Material_Vege,Ingredient,วัตถุดิบ
+Consumeable_Material_Meat,Meat,เนื้อ
+Consumeable_Material_Seafood,Aquatic,สัตว์น้ำ
+Consumeable_Material_Water,Quenching Material
+Consumeable_Material_Herb,Herb,สมุนไพร
+Consumeable_Material_Ore,Ore,แร่
+Consumeable_Material_Wood,Wood,ไม้
+Consumeable_Material_Hide,Leather weaving
+Consumeable_Material_Misc,Other Material,วัตถุดิบอื่นๆ
+Consumeable_Special,Appraise Chest
+Consumable_Chest,Appraise Chest,ของประเมิน
+Consumeable_Recipe,Recipe,ตำรา
+Consumeable_ChestItem,Item chest,หีบสมบัติ
+Misc,Other,อื่นๆ
+Misc_Treasure,Treasure,สมบัติ
+Misc_Treasure_Tea,Tea leaf,ใบชา
+Misc_Treasure_Copybook,Calligraphy
+Misc_Treasure_Painting,Painting,ภาพวาด
+Misc_Treasure_Antique,Decoration
+Misc_Treasure_Toy,Toy,ของเล่น
+Misc_Treasure_Makeup,Cosmetic,เครื่องสำอาง
+Misc_Treasure_Valuable,Appliance
+Misc_HidWep,Throwing,อาวุธลับ
+Misc_Quest,Important Item,สิ่งของสำคัญ
+Misc_Prop,Other,อื่นๆ
+Misc_Map,Map,แผนที่
+Misc_Poison,Poison,พิษ
+Consumeable_Edible_MageFood,Medicine,ยา
+Consumeable_Edible_MuggleFood,Consumable,ของใช้
+Consumeable_Material_Other,Other,อื่นๆ
+Misc_Map_Normal,Map,แผนที่
+Misc_Map_Treasure,Treasure map,แผนที่สมบัติ
+All,All,ทั้งหมด
+RoamingUI_StoryTimeLimit,Time limit: {0},เหลือเวลา: {0}
+InternalTypeShort_Yin,<#A7B6FF>Yin</color>,<#A7B6FF>หยิน</color>
+InternalTypeShort_Yang,<#FDF46C>Yang</color>,<#FDF46C>หยาง</color>
+InternalTypeShort_ALL,No limit,ไม่จำกัด
+InternalTypeShort_Mixed,<#6dffd4>Neutral</color>,<#6dffd4>เป็นกลาง</color>
+Practice_book_Of_Name,<#57ECDF>{0} Reading,<#57ECDF>{0} กำลังศึกษา
+Practice_Equip_Of_Name,<#57ECDF>{0} Equipped,<#57ECDF>{0} กำลังสวมใส่
+StoryNote_Complated,Completed
+StoryNote_Close,Closed
+StoryNote_TimeOut,Overdue
+StoryNote_Fail,Failed
+StoryNote_AddCheckFail,%c%Event tracking is full
+Time_Day,Sky,วัน
+Time_Hour,shichen,ชั่วยาม
+Time_Quarter,Ke,เค่อ
+Mining_Lucky,What a luck!
+Mining_Spe,What a pleasant surprise!
+GameLog_NoCoundJuezhao,%c%No selectable ultimate move,%c%ไม่มีท่าไม้ตายให้เลือก
+GameLog_NoCoundBook,%c%No Manual available
+GameLog_NoCoundkongfu,%c%No internal skills available,%c%ไม่มีกำลังภายในที่ใช้ได้
+GameLog_RoleLeaveTeam,Select {0} Run away team?
+GameLog_JMweidatong,%c%Need to comprehend the previous Passive
+GameLog_JMDotspend,"%c%Not enough acupoints, unable to break through"
+caijiceshi1,Digging and digging
+caijiceshi2,Praying and praying
+caijiceshi3,Sweeping and sweeping
+caiji_kuangshi,Mining…
+caiji_mucai,Chopping…
+caiji_shui,Catching…
+caiji_yaocai,Gathering…,กำลังเก็บเกี่ยว...
+caiji_shuichan,Fishing…
+caiji_shuijiao,Resting…,กำลังพักผ่อน...
+caiji_murenzhuang,Training…
+caiji_meihuazhuang,Training…
+caiji_fuqin,Playing music…
+caiji_guibai,Kowtowing…
+caiji_zhenjiu,Acupunturing…
+caiji_qidao,Praying…,อธิษฐาน…
+caiji_dazuo,Meditating…
+caiji_shudong,Searching…
+caiji_watu,Digging…
+caiji_jingshui,You need to consume <#FDF46C>{0}</color> to get <#00c6f3>Well water</color>\nDo you want to continue?
+caiji_fuqin1,You need to consume <#FDF46C>{0}</color> to increase Mood by 25 points\nDo you want to continue?
+mining_cost_time_tip0,"Need to consume <#FDF46C>{0}</color>,\ncontinue?"
+mining_cost_time_tip1,"Need to consume <#FDF46C>{0} ke</color>,\ncontinue?"
+mining_cost_skill_tip,Need {1} Skill to reach level {0}
+not_enough,Need {0}!,ต้องการ {0}!
+GameLog_NotGoods,%c%Lack of necessary Material
+stamina,Stamina,แรงกาย
+Quality0,Normal,ปกติ
+Quality1,Rare,หายาก
+Quality2,Epic,มหากาพย์
+Quality3,Legendary,ตำนาน
+GameLog_Duration,Duration,ระยะเวลา
+KongfuAchieveAdd,Reach above {0} layers
+NpcFriendly_Higher,Relations with {0} greater than {1}
+NpcFriendly_Lower,Relations with {0} less than {1}
+Something_Higher,{0} reaches {1}
+Something_Lower,{0} reaches {1}
+WorldString_武功,Martial Arts
+WorldString_势力关系,Power Relations
+WorldString_人物关系,Character Relations,ความสัมพันธ์ตัวละคร
+WorldString_属性,Attributes
+Relation_Dead,<#8e8e8e>Deceased</color>
+RoleLevel_已达历练上限,Max Level,ระดับสูงสุด
+RelationFormatUnknownShort,<#e8d360>Stranger</color>,<#e8d360>แปลกหน้า</color>
+RelationFormatUnknown,<#e8d360>Stranger（0）</color>,<#e8d360>คนแปลกหน้า（0）</color>
+RelationFormatShort,<#{1}>{0}</color>
+RelationFormat,<#{2}>{0}（{1}）</color>
+GameLog_ExpInsufficient,"%c%Insufficient Jianghu Knowledge, unable to improve Skill",%c%ประสบการณ์ยุทธไม่เพียงพอ ไม่สามารถเพิ่มระดับได้
+GameLog_NewlyObtained,Received rumor: <#68cf24>{0}</color>,ได้รับข่าวลือ: <#68cf24>{0}</color>
+NewlyObtained,Newly acquired
+Chest_NotEnoughSomeThing,"%c%Insufficient {0} Skill, unable to {1}!"
+Chest_NotEnough,"%c%Insufficient Skill, unable to Appraise!"
+Chest_Confirm,Confirm selection of {0}?
+Map_Confirm,Watch {0}?,ดู {0} ?
+Start,Start,เริ่ม
+Pause,Pause
+Difficulty_Ultra,Very high,สูงมาก
+Difficulty_High,高,สูง
+Difficulty_Normal,Medium,กลาง
+Difficulty_Easy,Low,ต่ำ
+Difficulty_VeryEasy,Very low,ต่ำมาก
+BattleActorTip_BottomMsg,Long press on character Info for full details,กดค้างที่ตัวละครเพื่อดูรายละเอียด
+Recipe_Confirm,Confirm learning {0}?,ยืนยันเรียนรู้ {0}?
+Recipe_Learnt,%s%Mastered the method of combining {0}
+Recipe_DntLearnt,"%c%Already mastered this combination method, cannot use"
+Recipe_LackOfAbilit,Need {0} Skill level {1},ต้องการ {0} ทักษะระดับ {1}
+Recipe_LackOfGoods,"Insufficient Material, unable to forge!","วัตถุดิบไม่เพียงพอ, ไม่สามารถหลอมได้!"
+Recipe_LackOfGoodsHC,"Insufficient Material, unable to synthesize!","วัตถุดิบไม่เพียงพอ, ไม่สามารถสังเคราะห์ได้!"
+Recipe_LackOfGoodsCook,"Insufficient Material, unable to craft!","วัตถุดิบไม่เพียงพอ, ไม่สามารถสร้างได้!"
+Recipe_LackOfGoodsDY,"Insufficient Material, unable to craft!","วัตถุดิบไม่เพียงพอ, ไม่สามารถสร้างได้!"
+Recipe_LackOfGoodsZY,"Insufficient Material, unable to craft!","วัตถุดิบไม่เพียงพอ, ไม่สามารถสร้างได้!"
+Recipe_NoSelect,Please select blueprint,กรุณาเลือกแบบแปลน
+Recipe_NoSelectElixi,Please select prescription,กรุณาเลือกตำรายา
+Recipe_NoSelectTailor,Please select blueprint,กรุณาเลือกแบบแปลน
+Recipe_NoSelectSundries,Please select blueprint,กรุณาเลือกแบบแปลน
+Recipe_NoSelectCook,Please select recipe,กรุณาเลือกตำราอาหาร
+Recipe_EffectTips,"The higher the forging Level, the more obvious the special effect"
+Recipe_ArmorEffectTips,"The higher the tailoring Level, the more obvious the special effect"
+BugReport_MailTitle,"Feedback on ""{0} (Level {1}, {2})"""
+BugReport_TimeOffset,"%c%You are submitting issues too quickly, please try again in 30 seconds"
+BugReport_SendSuccess,"%c%Issue submitted, thank you for your participation"
+BugReport_SendFaild,"%c%Submission failed, reason {0}"
+RogueAbilityNotLearnt,%c%{0} not learned
+SelectItemConfirm,Confirm selection of {0}?
+Forge_NoRecipe,You have not mastered any forging blueprints.
+Forge_NoRecipeHC,You have not mastered any synthesis blueprints.
+Forge_NoRecipeCook,You have not mastered any cooking recipes.
+Forge_NoRecipeDY,You have not mastered any Pill formulas.
+Forge_NoRecipeZY,You have not mastered any inner armor blueprints.
+Forge_NoRecipeWithType,No blueprints to display,ไม่มีแบบแปลนที่จะแสดง
+Forge_NoRecipeWithTypeHC,No synthesis blueprints to display,ไม่มีแบบแปลนที่จะแสดง
+Forge_NoRecipeWithTypeCook,No cooking recipes to display,ไม่มีตำราอาหารที่จะแสดง
+Forge_NoRecipeWithTypeDY,No Pill formulas to display,ไม่มีตำรายาที่จะแสดง
+Forge_NoRecipeWithTypeZY,No inner armor blueprints to display,ไม่มีแบบแปลนที่จะแสดง
+Collect_shuijiao,Rest for {0},พักผ่อน {0} 
+Collect_shuijiao1,Rest for {0} to recover 5 points of Stamina,พักผ่อนเป็นเวลา {0} เพื่อฟื้นฟูแรงกาย 5 แต้ม
+Collect_shuijiao2,Rest for {0}} to recover 10 points of Stamina,พักผ่อนเป็นเวลา {0} เพื่อฟื้นฟูแรงกาย 10 แต้ม
+Collect_shuijiao3,Rest for {0}} to recover 25 points of Stamina,พักผ่อนเป็นเวลา {0} เพื่อฟื้นฟูแรงกาย 25 แต้ม
+Collect_murenzhuang1,"Train {0}, consume 5 Stamina, gain EXP",ฝึกฝน {0} ใช้แรงกาย 5 หน่วย ได้รับค่าประสบการณ์
+Collect_murenzhuang2,"Train {0}, consume 10 Stamina, gain EXP",ฝึกฝน {0} ใช้แรงกาย 10 หน่วย ได้รับค่าประสบการณ์
+Collect_murenzhuang3,"Train {0}, consume 15 Stamina, gain EXP",ฝึกฝน {0} ใช้แรงกาย 15 หน่วย ได้รับค่าประสบการณ์
+Collect_meihuazhuang1,"Train {0}, consume 10 Stamina, gain 1 point of Qinggong",ฝึกฝน {0} ใช้แรงกาย 10 หน่วย ได้รับวิชาตัวเบา 1 แต้ม
+Collect_meihuazhuang2,"Train {0}, consume 20 Stamina, gain 2 points of Qinggong",ฝึกฝน {0} ใช้แรงกาย 20 หน่วย ได้รับวิชาตัวเบา 2 แต้ม
+Collect_meihuazhuang3,"Train {0}, consume 30 Stamina, gain 3 points of Qinggong",ฝึกฝน {0} ใช้แรงกาย 30 หน่วย ได้รับวิชาตัวเบา 3 แต้ม
+Collect_zhenjiu,Practice {0},ฝึกฝน {0}
+Collect_zhenjiu1,"Practice {0}, consume 15 Stamina",ฝึกฝน {0} ใช้แรงกาย 15 หน่วย
+Collect_guibai1,Choose to consume <#68cf24>Normal incense</color> to pray,เลือก <#68cf24>ธูปธรรมดา</color> เพื่อสวดภาวนา
+Collect_guibai2,Choose to consume <#00c6f3>Rare incense</color> to pray,เลือก <#00c6f3>ธูปหายาก</color> เพื่อสวดภาวนา
+Collect_guibai3,Choose to consume <#c851ff>Epic incense</color> to pray,เลือก <#c851ff>ธูปมหากาพย์</color> เพื่อสวดภาวนา
+Collect_guibai4,Choose to consume <#d09a09>Legendary incense</color> to pray,เลือก <#d09a09>ธูปตำนาน</color> เพื่อสวดภาวนา
+Collect_qidao1,Choose to consume <#68cf24>Normal incense</color> to pray,เลือก <#68cf24>ธูปธรรมดา</color> เพื่อสวดภาวนา
+Collect_qidao2,Choose to consume <#00c6f3>Rare incense</color> to pray,เลือก <#00c6f3>ธูปหายาก</color> เพื่อสวดภาวนา
+Collect_qidao3,Choose to consume <#c851ff>Epic incense</color> to pray,เลือก <#c851ff>ธูปมหากาพย์</color> เพื่อสวดภาวนา
+Collect_qidao4,Choose to consume <#d09a09>Legendary incense</color> to pray,เลือก <#d09a09>ธูปตำนาน</color> เพื่อสวดภาวนา
+Collect_dazuo1,Meditate for {0},นั่งสมาธิถึง {0}
+Collect_dazuo2,Meditate for {0},นั่งสมาธิถึง {0}
+Collect_dazuo3,Meditate for {0},นั่งสมาธิถึง {0}
+Collect_shuijiaojuqing,How long should I rest?,ข้าควรพักผ่อนนานเท่าไร?
+Collect_murenzhuangjuqing,How long should I train on the wooden dummy that can increase EXP?,ควรฝึกกับหุ่นไม้ที่เพื่อเพิ่มค่าประสบการณ์นานแค่ไหน?
+Collect_meihuazhuangjuqing,How long should I train on the wooden stake in the pond to improve Qinggong?,ควรฝึกบนเสาไม้ในบ่อนานเท่าไหร่ เพื่อพัฒนาวิชาตัวเบา?
+Collect_zhenjiujuqing,Should I practice acupuncture to improve Medical?,ข้าควรฝึกฝังเข็มเพื่อเพิ่มพูนวิชาแพทย์หรือไม่?
+Collect_qidaojuqing,Which incense should I choose for prayer?,ข้าควรเลือกธูปใดในการอธิษฐาน?
+Collect_dazuojuqing,How long should I meditate?,ควรนั่งสมาธินานแค่ไหน?
+NoSelectPoison,
+SetUpMainInternalSkill,Set {0} as the main internal force?
+UnSetMainInternalSkill,Cancel {0} as the main internal force?,ยกเลิก {0} เป็นกำลังภายในหลัก?
+InternalSkillLv,The {0}th level,ขั้นที่{0}
+learning,Learning,กำลังเรียน
+SetUpAceSkill,Set {0} as the combat skill?
+DiffUnlock,%s%Unlock difficulty: {0}
+DiffForSaveSlot,Difficulty: {0},ระดับความยาก: {0}
+DiffFreeScore,(Coefficient: {0}),(ค่าสัมประสิทธิ์: {0})
+DiffName_0,<#497442>Easy</color>,<#497442>ง่าย</color>
+DiffName_1,<#34657A>Normal</color>
+DiffName_2,<#6B3F77>Hard</color>
+DiffName_3,<#7D3A34>Nightmare</color>
+DiffName_100,<#ffff44>Free</color>
+DiffInfo_0,It's recommended for new players to start at this difficulty level.,สำหรับผู้เล่นใหม่ แนะนำให้เริ่มต้นด้วยความยากระดับนี้
+DiffInfo_1,Suitable for players familiar with turn-based game who prefer not to engage in full auto-battle mode.,เหมาะสำหรับผู้เล่นที่คุ้นเคยกับเกมแนวผลัดกันเดิน และไม่ต้องการเข้าร่วมโหมดการต่อสู้อัตโนมัติเต็มรูปแบบ
+DiffInfo_2,Suitable for players adept at analyzing various combinations and seeking a challenging experience.,เหมาะสำหรับผู้เล่นที่เข้าใจระบบ เป็นอย่างดีและต้องการประสบการณ์ที่ท้าทายมากขึ้น
+DiffInfo_3,"To dominate or be dominated, it all lies within a single thought!",จะอยู่เหนือผู้อื่น หรือถูกผู้อื่นครอบงำ ทุกอย่างอยู่ที่การตัดสินใจของเจ้า!
+DiffInfo_100,"<nobr>Difficulty settings are customizable. The higher the difficulty, the larger the calculated coefficient!"
+DiffInfo_Lock,Achieve any <#d09a09>true·ending</color> to unlock,บรรลุความสำเร็จ <#d09a09>ฉากจบอย่างแท้จริง</color> ใดก็ได้เพื่อปลดล็อก
+DiffTip_Title,<#E6C899>Enemy bonus: {0}</color>,<#E6C899>โบนัส ศัตรู: {0}</color>
+DiffTip_Content,<#E6C899>•Experience multiplier for killing enemies: <#d09a09>{3}</color></color>,<#E6C899>•รับคูณประสบการณ์โดยการฆ่าศัตรู: <#d09a09>{3}</color></color>
+DiffWarning_0,
+DiffWarning_1,
+DiffWarning_2,<voffset=-0.5em><#E6C899>•Some character levels and martial arts will dynamically grow with game time</color>,<voffset=-0.5em><#E6C899>•ระดับวิชาวรยุทธของ NPC จะเติบโตสอดคล้องกับเวลาในเกม</color>
+DiffWarning_3,"<voffset=-0.5em><#E6C899>•Some character levels and martial arts will dynamically grow with game time</color>\n<voffset=-0.5em><#E6C899>•In combat, the character with the higher level will gain resistance to Poisoned, Bleeding, Internal Injury, Sealed, Blinded effects, the greater the difference, the stronger the effect</color>\n\n<voffset=-0.5em><#FE2929>　Difficulty significantly increased, please choose carefully</color>","<voffset=-0.5em><#E6C899>•เลเวลของ NPC จะเติบโตสอดคล้องกับเวลาในเกม</color><voffset=-0.5em><#E6C899>•ในแบทเทิล NPC ที่ระดับสูงกว่าจะได้รับค่าต้านทานต่อเอฟเฟค พิษ, ตกเลือด, บาดเจ็บภายใน, ผนึก, ตาบอด ยิ่งระดับสูงมากยิ่งมีผลที่มากขึ้น</color><voffset=-0.5em><#FE2929>　ระดับความยากที่มากขึ้น กรุณาเลือกอย่างระวัง</color>"
+CustomDiff_HighestScore,Highest coefficient: <#ffffff>{0}</color>,ค่าสัมประสิทธิ์สูงสุด: <#ffffff>{0}</color>
+CustomDiff_CurScore,Current coefficient: <#ffffff>{0}</color>,ค่าสัมประสิทธิ์ตอนนี้: <#ffffff>{0}</color>
+CustomNpcGrowDiff_Tire1,Normal,ปกติ
+CustomNpcGrowDiff_Tire2,Medium
+CustomNpcGrowDiff_Tire3,高
+CustomDiff_ModifyConfirm,Do you want to keep the changes?
+WorldMapShow,%s%The path to <#34657A>{0}</color> is now open
+WorldMapCityShow,%s%Learn about <#34657A>{0}</color>'s news on <#34657A>{1}</color>,%s%ได้รับข่าวสารของ <#34657A>{0}</color> เกี่ยวกับ <#34657A>{1}</color>
+AutoSetMainInternalKungfu,%s%{0} has been set as the main internal skill,%s%{0} ได้รับการตั้งให้เป็นทักษะกำลังภายในหลัก
+And,And
+Or,Or
+Operation_Equip,EQ,สวมใส่
+Operation_LearnBook,LRN,เรียน
+Operation_Use,Use,ใช้
+Operation_Unknown,UNK
+UIReport_NoMap,No map,ไม่มีแผนที่
+UIReport_TipSplitLine,----------The following is system generated information----------
+UIReport_DeviceName,Device name
+UITitle_MainProp,Main stats,สถานะหลัก
+Forge_AddMainMat,Add main Material,ใส่วัตถุดิบหลัก
+Forge_AddSubMat,Add auxiliary Material,ใส่วัตถุดิบเสริม
+Forge_AddQuenchMat,Add quenching Material
+UI_KungfuState_None,Not Learned,ยังไม่เรียน
+UIKungfuRight_SelectUnique,Select Super Move,เลือกท่าไม้ตาย
+UIKungfuRight_SelectInternalKungfu,Select Internal technique,เลือกพลังภายใน
+UIKungfuRight_SelectBook,Select Manual,เลือกตำรา
+零,Zero
+一,One,หนึ่ง
+二,Two,สอง
+三,Three,สาม
+四,Four,สี่
+五,Five,ห้า
+六,Six,หก
+七,Seven,เจ็ด
+八,Eight,แปด
+九,Nine,เก้า
+十,Ten,สิบ
+白,White
+千,Thousand
+万,Ten thousand
+亿,Billion
+万亿,Trillion
+NpcMumble_通用_Percepting,What?|Am I seeing things?|Hmm?|This...|……|What's going on?|Let's go check it out...
+NpcMumble_非人类通用_Percepting,……,……
+JingMaiTitle_动,Swift as the Wind,ว่องไวปานสายลม
+JingMaiDesc_动,"Fast growth, suitable for quick attack strategy",ความไวสูง เหมาะสำหรับกลยุทธ์การโจมตีที่รวดเร็ว
+JingMaiTitle_静,Steadfast like the Mountain,มั่นคงดุจขุนเขา
+JingMaiDesc_静,"Tends to defense, adopts Readied strategy",พร้อมตั้งรับ เหมาะใช้กับกลยุทธ์ปักหลักคงที่
+JingMaiTitle_刚,Rapacious as the Fire,ร้อนแรงดั่งเปลวเพลิง
+JingMaiDesc_刚,"Highlights damage, goes all out to attack and heavily damage the enemy",เน้นความเสียหาย โจมตีเต็มที่ และสร้างความเสียหายอย่างหนักให้กับศัตรู
+JingMaiTitle_柔,Dense as the Forest,สงบดั่งผืนป่า
+JingMaiDesc_柔,"Calm on the surface, but deadly within, making the enemy suffer",เงียบสงบแต่แฝงไปด้วยอันตราย สร้างความลำบากให้ศัตรู
+JingMaiTitle_虚,Mysterious as the Night,ลึกลับดั่งราตรี
+JingMaiDesc_虚,Has unique strategies to deal with negative situations in battle,มีกลยุทธ์เฉพาะตัวเพื่อรับมือกับสถานการณ์ต่างๆในการต่อสู้
+JingMaiTitle_实,Mighty as the Thunder,ทรงอำนาจดุจอัสนี
+JingMaiDesc_实,Achieves maximum damage through instant burst,ระเบิดพลังทำลาย สร้างความเสียหายสูงสุด
+Teach_Confirm,Already decided,ตัดสินในแล้ว
+Teach_Cancel,Need to think a little,ขอคิดสักครู่
+RestoreRelation_LackItem,Insufficient {0},{0} ไม่เพียงพอ
+RestoreRelation_ConfirmTip,Do you want to consume {0}{1} to reconcile with {2}?
+RestoreRelation_FreePerson,Wandering martial artist
+ShortcutItemsFull,"The shortcut bar is full, click on the item in the shortcut bar to delete"
+ShortcutItemsNoAlternative,No selectable items,ไม่มีรายการให้เลือก
+ShortcutItemsSaved,Save successful,บันทึกสำเร็จ
+Text_Add,Increase,เพิ่มขึ้น
+Text_Sub,Decrease,ลดลง
+HPEP_ValueChanged_Log,{0}{1}{2}{3} points,{0}{1}{2}{3} แต้ม
+HPEP_PerChanged_Log,{0}{1}{2}{3}%
+Team_HPEP_ValueChanged_Log,The whole team {0}{1}{2} points,ทั้งกลุ่ม {0}{1}{2} แต้ม
+Team_HPEP_PerChanged_Log,The whole team {0}{1}{2}%
+ShortStangerName,This person
+Authenticate_AbilityTip,Can appraise up to {0},สามารถประเมินได้ถึง {0}
+Authenticate_AbilityTipItem,Level {0} {1},{0} ระดับ {1}
+Authenticate_SelectMax,Maximum ({0})
+Authenticate_LackCoin,Not enough gold!,เงินไม่พอ!
+UseChest_RationTip,Select the quantity to use
+BulkUseOverflowTips,(Continued use of <#FE2929>{0}</color> will overflow)
+ChestsResultTip,Obtain item
+AuthenticateTag_字画,Calligraphy and painting
+AuthenticateTag_书籍,Book,หนังสือ
+AuthenticateTag_古董,Antique,ของโบราณ
+AuthenticateTag_饰品,Jewelry,อัญมณี
+AuthenticateTag_丹药,Medicine,ยา
+RemoveKungfu_ReConfirm,"Choose to let {0} forget {1}?<voffset=-0.5em>\n<color=""red""><size=70%>Note: The attributes provided by this martial arts will also be cleared!</size></color>","ต้องการให้ {0} ถอด {1} ออกหรือไม่?<voffset=-0.5em>\n<color=""red""><size=70%>หมายเหตุ: คุณสมบัติที่ได้รับจากวิชานี้จะถูกล้างออกไปด้วย!</size></color>"
+RemoveKungfu_LackItem,Insufficient {0},{0} ไม่เพียงพอ
+BuyRationTitle,Select Buy quantity
+SellRationTitle,Select Sell quantity
+BattleLog_Start,{0}'s team enters battle,กลุ่มของ{0} เข้าสู่การต่อสู้
+BattleLog_Win,{0}'s team wins the battle,กลุ่มของ {0} ชนะการต่อสุู้
+BattleLog_Fail,{0}'s team loses the battle
+BattleLog_Retreat,{0}'s team successfully retreats
+BattleLog_NormalAttack,{0} performs a Normal Attack,{0} ทำการโจมตีปกติ
+BattleLog_UseOuterKungfu,{0} releases external skill {1},{0} ใช้วิชาภายนอก {1}
+BattleLog_UseUniqueSkill,{0} releases ultimate skill {1}
+BattleLog_SpecialAction,{0} performs <color=#ffff00>{1}</color>
+BattleLog_SetInnerKungfu,{0}'s main internal skill is set to {1}
+BattleLog_UnSetInnerKungfu,{0} cancels {1}'s main internal skill
+BattleLog_UseHitWep,{0} uses Throwing {1},{0} ใช้อาวุธลับ {1}
+BattleLog_UseItem,{0} uses Item {1}
+BattleLog_Defeat,{1} is defeated,{1} พ่ายแพ้แล้ว
+BattleLog_BeDamage,{0} takes <color=#F55452>{1} points of damage</color>,{0} ได้รับ<color=#F55452>ความเสียหาย {1} </color>
+BattleLog_BeDamageSpecial,{0} takes <color=#F55452>{1} points of {2} damage</color>,{0} รับ <color=#F55452>{1} แต้มของ {2} ความเสียหาย</color>
+BattleLog_Debuff,{0} takes <color=#F55452>{1} points of {2}</color>,{0} รับ <color=#F55452>{1} แต้มของ {2} </color>
+BattleLog_PropChange,{0}'s {1} increases by {2} points,{1} ของ {0} {2} {3} แต้ม
+BattleLog_UseBondKungfu,{0} releases bond martial arts {1},{0} ปล่อยวรยุทธ์สัมพันธ์ {1}
+BattleLog_ActiveKungfuBuff,{0} triggers Additional effects {1}
+集气,Gathering Qi,รวบรวมลมปราณ
+Min,Minimum
+Max,Max,สูงสุด
+SicBo_BetStartOr5s,"Place your bets now!|No more bets!|If you're just watching, run away, don't crowd around here|Betting on big or small pays 1:2; betting on numbers pays 1:3|Don't miss the chance to get rich, the more you bet, the more you win|Have you all placed your bets? The dice are about to roll!|Hurry up and place your bets, time waits for no one!|Any more bets? Any more bets?|Bet more, win more; bet less, win less!|Let's wait and see, will it be overnight riches or bankruptcy!|Opportunities are fleeting, don't miss your chance to get rich!|Three parts fate, seven parts struggle, how can you get rich without a fight!"
+SicBo_Settle_Big_Fail,"{0}, {1}, {2}——{3} points, big!","{0}, {1}, {2}——{3} แต้ม, สูง!"
+SicBo_Settle_Small_Fail,"{0}, {1}, {2}——{3} points, small!","{0}, {1}, {2}——{3} แต้ม, ต่ำ!"
+SicBo_Settle_Big_Win,"{0}, {1}, {2}——{3} points, big! Congratulations, you won {4} this round.","{0}, {1}, {2}——{3} แต้ม, สูง! ยินดีด้วย เจ้าชนะ {4} ในรอบนี้"
+SicBo_Settle_Small_Win,"{0}, {1}, {2}——{3} points, small! Congratulations, you won {4} this round.","{0}, {1}, {2}——{3} แต้ม, ต่ำ! ยินดีด้วย เจ้าชนะ {4} ในรอบนี้"
+SicBo_NpcJoin,"Try your luck at this table|This table is not bad|Add me, add me!|Can anyone tell me how long this round has been going on?|You guys follow my bets later.|Hurry up and place your bets, don't dawdle|I'm new here, please be patient|Who's got the hot hand at this table?|Let me see what the situation is now|Count me in!|This table looks like it's full of pros|Watch me dominate!"
+SicBo_NpcReJoin,"Again, again!|I don't believe I can't turn the tables this time|I just had bad luck last round|I just made a vow at the temple|I have to play another round today, or I won't be able to sleep|Eating and sleeping are not as important as playing this|I'm counting on this round to make a fortune!|I don't believe in bad luck today|I brought my wife's money this time, I'm sure to make a big profit|I'm going to have a good time today, no one is allowed to leave!|This table looks like it's full of pros|Let's keep going!"
+SicBo_Bet_Exit,"I'm out of money, I need to figure out how to get some more|Sigh, I've lost all my wife's money|I'm too tired, I'll go home and sleep and come back|I didn't check the almanac when I went out today, I'm so unlucky!|I'm done, I'm done|I can't stay up with you guys, I'm leaving first|I almost missed something important, I have to go|I'm out of money, I can't continue|I'm leaving, you guys continue|I'll go home and get some money, and then come back for a big fight!|No matter how much I have, it's not enough to lose, I'd better go|Quit while you're ahead, that's enough"
+SicBo_Bet_Bet,"Follow my bets, guaranteed to make a big profit!|Just one last round, win or lose depends on this round!|Bet a little first, Throw Rock|What are you guys waiting for, place your bets!|Should I bet big or small?|I'm going all in, I'm betting everything!|This round is a sure win if you bet big|This round is a sure win if you bet small|If you don't have money, get out of the way, don't waste time|Hey, what are you dazing at, hurry up and place your bets|Your money is as good as mine|Let me show you my courage!"
+SicBo_Settle_Fail,"<sprite=""ganga"">What's going on, I lost again|<sprite=""ganga"">Just a little bit more, what a pity|<sprite=""yiwen"">Is anyone cheating?|<sprite=""ku"">Such bad luck!|<sprite=""ganga"">Almost won this round|<sprite=""fennu"">Lost again? Are you messing with me?|<sprite=""lingluan"">Just lose, it doesn't matter if you lose all your money|<sprite=""fennu"">This is infuriating!|<sprite=""lingluan"">Can't lose anymore, not much money left in hand|<sprite=""chijing"">You guys are cheating, why do I always lose!|<sprite=""ku"">Oh God, let me win a round, please|<sprite=""fennu"">Damn it, God is screwing me over again!"
+SicBo_Settle_Win,"<sprite=""kaixin"">I won, I won!|<sprite=""kaiqiao"">Excellent, my luck is turning around today|<sprite=""kaixin"">Awesome, so awesome!|<sprite=""kaixin"">Beautiful! Never won so satisfyingly before|<sprite=""ku"">Finally won some money|Win one more round and then quit while you're ahead|<sprite=""haose"">All the money is mine, mine!|Only won this much? Boring|<sprite=""kaiqiao"">Oh, good start today, lucky|<sprite=""chijing"">Win, win, I won!|I will definitely be the winner of the next round!|I knew I should have bet more just now"
+SicBo_Option_ReJoin,Take out {0} as chips to continue!
+SicBo_Option_Leave,Talk about it later.,ไว้คุยเรื่องนี้ทีหลัง
+SicBo_ReJoinAsk,"Sir, you seem to be running out of chips, do you want to continue?"
+SicBo_LeaveConfirm,Do you want to quit the current game?
+SicBo_LackTempCoin,"You have no chips left, you can't bet!"
+SicBo_NoneBetType,"You need to select a betting area first, bet on big/small or numbers."
+Button_BondAssisted,Already used,ใช้ไปแล้ว
+Tip_AllLoversUsed,%c%There are no available martial arts skills that need Assist
+MoralFondnessDescItem,"When {0} {1}, there is a chance to improve each other's Relations."
+CabFromTo,<#9B8C6D>Always:</color>
+CabCostTime,<#9B8C6D>Time consumed:</color>
+CabCostCoin,<#9B8C6D>Cost:</color>
+CabTargetNoPoint,<#838281>(No post station at the destination)</color>
+CabDriveTitle,Go to: {0},ไปที่: {0}
+Meditation_Heal,<#94FF4D>HP {0}</color>,<#94FF4D>HP {0}</color>
+Meditation_Ep,<#FFFFFF>MP {0}</color>,<#FFFFFF>MP {0}</color>
+Meditation_Exp,<#D7A347>Practical {0}</color>
+MeditationStop_Stanima,"%c%Already extremely fatigued, unable to continue meditation"
+MeditationCantStart_Stanima,"%c%Insufficient Stamina, unable to meditate"
+MeditationCantStart_Sitting,"%c%Already sitting, unable to meditate"
+Meditation_TotalTime,This meditation session took a total of {0}
+ForgeWeaponLockTitle,<color=#ff0000>(Crafting {0} level Unlock)</color>
+ForgeArmorLockTitle,<color=#ff0000>(Crafting {0} level Unlock)</color>
+Time,Time
+ResetAcupointReconfirm,"Choosing to retrain will clear all Passive effects and return all comprehension points, are you sure?",การเลือกเรียนรู้ใหม่จะล้างพลังแฝงและคืนแต้มการเรียนรู้ทั้งหมด ท่านแน่ใจหรือไม่?
+ZzPointTip,"Each time a Character levels up by <#68cf24>{0} levels</color>, they gain 1 aptitude point. Aptitude points can be used to increase five-dimensional attributes. Consuming <#c851ff>Forgotten pill</color> can reset the five-dimensional aptitude gained from leveling up.",ในแต่ละครั้งที่ตัวละครเลเวลเพิ่มขึ้น <#68cf24>{0} ระดับ</color> พวกเขาจะได้รับแต้มสถานะ 1 แต้ม แต้มสถานะใช้เพื่อเพิ่มค่าสถานะทั้งห้าได้ การใช้ <#c851ff>โอสถลืมเลือน</color> สามารถล้างค่าสถานะที่ได้รับจากการเลื่อนระดับได้
+ZzPointNoEdited,No points have been added yet
+ZzPointResetLackItem,"Without Forgotten pill, reset is not possible.","ไม่สามารถดำเนินการได้ หากไม่มี""โอสถลืมเลือน"""
+ZzPointResetReconfirm,Consume one {0} to reset {1} <color=#33ff00>{2} points</color> upgrade aptitude?,ใช้หนึ่ง {0} เพื่อรีเซ็ต {1} <color=#33ff00>{2} คะแนน</color> เพิ่มระดับความถนัด?
+ForgeLevelTitle,Crafting Level: <color=#62FF52>{0}</color> level
+ForgeMaxLevelSuffix,(<color=#57F8C9>Max Level</color>),(<color=#57F8C9>ระดับสูงสุด</color>)
+ForgeBatchResultTitle,Synthesis Result
+TailorLevelTitle,Tailoring Level: <color=#62FF52>{0}</color> level
+CookLevelTitle,Cooking Level: <color=#62FF52>{0}</color> level
+AlchemistLevelTitle,Alchemy Level: <color=#62FF52>{0}</color> level
+SundriesLevelTitle,Synthesis Level: <color=#62FF52>{0}</color> level
+InBattleUniqueSwitch_Failed,"%c%The ultimate move has been set for battle, no need to set again"
+InBattleUniqueSwitch_Ok,{0} sets {1} as the ultimate move for battle
+NoUsedZzPoint,%c%No upgrade aptitude available for reset,%c%ไม่มีแต้มสถานะให้ล้าง
+BuyAll_LackCoin,%c%Not enough Coin,%c%มีเงินไม่พอ
+SellAll_LackCoin,%c%The other party does not have enough Coin
+Toggle_DisableBulkTrade,"Close batch Buy, Sell, Appraise prompt"
+PackTab_KungfuBook_Inner,Internal Strength,กำลังภายใน
+PackTab_KungfuBook_Outer_Fist,Fist,หมัด
+PackTab_KungfuBook_Outer_Sword,Sword Series,กระบี่
+PackTab_KungfuBook_Outer_Blade,Knife Series,ดาบ
+PackTab_KungfuBook_Outer_Long,Long,อาวุธยาว
+PackTab_KungfuBook_Outer_Short,Short,อาวุธสั้น
+PackTab_KungfuBook_Outer_Music,Musical,ดนตรี
+MainPropTip_Exp_UnMax,Innate {0} Experience: {1}/{2}
+MainPropTip_Exp_Max,Innate {0} Experience: Reached the limit
+MainPropTip_Origin,Innate {0}: {1}
+MainPropTip_Buff,Status Effect: {0}
+MainPropTip_Equip,Equipment Effect: {0}
+MainPropTip_Kungfu,Martial Arts Effect: {0}
+MainPropTip_Other,Other Sources: {0}
+SteamSortHot,Recently Popular
+SteamSortDownload,Most Subscribed
+SteamSortCreateTime,Newly Created
+SteamSortUpdateTime,Recently Updated
+SteamAll,All,ทั้งหมด
+SteamModNum,Total {0} mods
+SteamAuthor,Author:
+SteamTags,Tags:
+SteamModSize,Mod Size:
+SteamUpdateDate,Update Date:
+SteamDescription,Description:
+SteamDate,{0} Year {1} Month {2} Day
+SteamPublishing,Uploading
+SteamPublish,Upload
+SteamModPath,Mod Directory:
+SteamPublishUpdate,Upload Update
+ModWarning_UseMod,"Warning! You have enabled mods, the game may not run correctly, this save will <#F55452>disable achievements, skill inheritance, free difficulty coefficient and other systems</color>! Do you wish to continue?",คำเตือน! คุณได้เปิดใช้งานม็อดแล้ว เกมอาจจะทำงานไม่ถูกต้องตามที่ควร ดังนั้นเซฟนี้จะ <#F55452>ปิดการได้รับความสำเร็จ</color> ในการเล่น! จะดำเนินการต่อหรือไม่?
+ModWarning_DifferentMod,"<size=36>Warning! You have modified the mod configuration of this save, the game may not run correctly, continue?</size>"
+ModWarning_DifferentMod_Removed,<#ff0000>\nDeleted mods:</color>\n{0}
+ModWarning_DifferentMod_New,<#ff0000>\nNew mods:</color>\n{0}
+ModWarning_DifferentMod_Cur,<#ff0000>\nCurrently enabled mods:</color>\n{0}
+mod_firstopen_title,User Agreement
+mod_firstopen_content,"Welcome to use the ""Hero's Adventure - Road to Passion"" Mod (MOD) Editor.\nThis editor and the accompanying materials included in the editor will be freely available for community use. You can use this editor to create non-commercial game-related mods (MOD). Before creating content with this editor, you need to understand and ensure that the content created complies with the agreement of this agreement:\n1. Works created based on this editor do not contain any content that is prohibited or inappropriate in the ""User Agreement"". Those who violate or violate laws and regulations will be held responsible by the creators of the works for the works and their consequences. We will actively assist in establishing a connection with the author, promoting rectification, and deleting any text, pictures, etc. that do not comply with national laws, regulations, and policies.\n2. ""Hero's Adventure - Road to Passion"" respects the freedom of creation of each author, and does not have any pre-requirements for the world view, background setting, and content setting of works created based on this editor. At the same time, each work will not reflect any opinions and viewpoints of ""Hero's Adventure - Road to Passion"" itself. The creators of each work guarantee the content or the correctness of the content.\n3. If you have a copyright or intellectual property statement for some works created by this editor, and believe that there is a suspicion of infringement, you can contact us through the email [halfamateurstudio@gmail.com], and we will provide communication assistance."
+ModTag_剧情,Plot
+ModTag_角色,Character,ตัวละคร
+ModTag_外观,Appearance
+ModTag_音频,Audio
+ModTag_技能,Skills
+ModTag_道具,Items
+ModTag_其它,Other,อื่นๆ
+ModTag_非中文,Non-Chinese
+OneTouch_Buy_FromHighToLow,Automatically bulk buy in descending order of grade\n(Game settings can adjust the order of buying)
+OneTouch_Buy_FromLowToHigh,Automatically bulk buy in ascending order of grade\n(Game settings can adjust the order of buying)
+OneTouch_Sell_FromLowToHigh,Automatically bulk sell in ascending order of grade\n(Game settings can adjust the order of selling)
+OneTouch_Sell_FromHighToLow,Automatically sell in bulk from high to low grade\n(Game settings can adjust the sell order)
+OneTouch_Buy_SellOut,%c%Sold out
+OneTouch_Sell_SellOut,%c%Out of stock
+caiji_yiguanzhenjiu,It requires consuming <#FDF46C>{0}</color> and <#FDF46C>15Stamina</color> to gain 1 point of Medical. Do you wish to continue?,ต้องใช้ <#FDF46C>{0}</color> และ <#FDF46C>15 แรงกาย</color> เพื่อรับ 1 คะแนนวิชาแพทย์. เจ้าต้องการดำเนินการต่อหรือไม่?
+GameLog_TeamPack_AddItemFief,{1} obtained {0} (stored in the homeland)
+Value_Point,{0} pts.
+FiefDefaultName,{0}'s homeland
+Fief_Num_Level,(lv{0})
+FiefBuilding_None,Not Unlocked
+FiefLevelConditionTip0,Requires
+FiefLevelConditionTip1,Requires
+FiefUnlockLevel,{0} level\nUnlock
+FiefUnlockLevel1,{0} Level Unlock
+FiefPropertyTip,Each point of {0} from the placed companions increases {1} points of progress (Each companion can provide up to 40 points of progress)
+FiefPropertyTip0,Each placed pet increases {0} points of progress
+FiefPropertyTip1,Each bonded character increases {0} points of progress
+FiefPropertyTip2,Each level of Fame of the placed companions increases {0} points of progress
+FiefPropertyLine,[{0}pts]{1}
+FiefTipFullTeam,%c%No empty slots!
+FiefTipFullPet,%c%Already carrying a pet!
+FiefTipNpcCantEnter,%c%This character cannot enter the home
+FiefTipPetCantEnter,%c%This pet cannot enter the home
+FiefSaveFileUpgrade,"The save file version is too low, do you want to open the 'Homestead Sharing Function'?"
+FiefEditTitleTip,Rename your homestead
+FiefPrizeBuffTarget_全队,Full team
+FiefPrizeBuffTarget_宠物,Pets.
+FiefPrizeBuffTotal,{0}{1} total increase of {2}
+FiefPrizeBuffTotalPercent,{0}{1} total increase of {2}%
+GameLog_FiefResToFief,

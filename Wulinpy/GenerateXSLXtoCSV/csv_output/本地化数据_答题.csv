@@ -1,0 +1,1412 @@
+key,original,translation,context
+题库1_题目1,This is title 1,,这是题目1
+题库1_题目2,This is title 2,,这是题目2
+题库1_题目3,This is title 3,,这是题目3
+题库1_题目4,This is title 4,,这是题目4
+题库1_题目5,This is title 5,,这是题目5
+题库1_题目1_答案1,This is an answer. The number is: Question Bank 1_Title 1_Answer 1,,这是一个答案 编号是：题库1_题目1_答案1
+题库1_题目1_答案2,This is an answer. The number is: Question Bank 1_Title 1_Answer 2,,这是一个答案 编号是：题库1_题目1_答案2
+题库1_题目1_答案3,This is an answer. The number is: Question Bank 1_Title 1_Answer 3,,这是一个答案 编号是：题库1_题目1_答案3
+题库1_题目1_答案4,This is an answer. The number is: Question Bank 1_Title 1_Answer 4,,这是一个答案 编号是：题库1_题目1_答案4
+题库1_题目2_答案1,This is an answer. The number is: Question Bank 1_Title 2_Answer 1,,这是一个答案 编号是：题库1_题目2_答案1
+题库1_题目2_答案2,This is an answer. The number is: Question Bank 1_Title 2_Answer 2,,这是一个答案 编号是：题库1_题目2_答案2
+题库1_题目3_答案1,This is an answer. The number is: Question Bank 1_Title 3_Answer 1,,这是一个答案 编号是：题库1_题目3_答案1
+题库1_题目3_答案2,This is an answer. The number is: Question Bank 1_Title 3_Answer 2,,这是一个答案 编号是：题库1_题目3_答案2
+题库1_题目3_答案3,This is an answer with the code: QuestionBank1_Question3_Answer3,,这是一个答案 编号是：题库1_题目3_答案3
+题库1_题目4_答案1,This is an answer with the code: QuestionBank1_Question4_Answer1,,这是一个答案 编号是：题库1_题目4_答案1
+题库1_题目4_答案2,This is an answer with the code: QuestionBank1_Question4_Answer2,,这是一个答案 编号是：题库1_题目4_答案2
+题库1_题目4_答案3,This is an answer with the code: QuestionBank1_Question4_Answer3,,这是一个答案 编号是：题库1_题目4_答案3
+题库1_题目4_答案4,This is an answer with the code: QuestionBank1_Question4_Answer4,,这是一个答案 编号是：题库1_题目4_答案4
+题库1_题目5_答案1,This is an answer with the code: QuestionBank1_Question5_Answer1,,这是一个答案 编号是：题库1_题目5_答案1
+题库1_题目5_答案2,This is an answer with the code: QuestionBank1_Question5_Answer2,,这是一个答案 编号是：题库1_题目5_答案2
+题库1_题目5_答案3,This is an answer with the code: QuestionBank1_Question5_Answer3,,这是一个答案 编号是：题库1_题目5_答案3
+题库1_题目5_答案4,This is an answer with the code: QuestionBank1_Question5_Answer4,,这是一个答案 编号是：题库1_题目5_答案4
+,,,
+隆中书院老学究_题目1,"What is the next line after ""At the beginning, human nature is good""?",,“人之初，性本善”的下一句是什么？
+隆中书院老学究_题目2,"What is the line before ""The way of teaching, value in focus""?",,“教之道，贵以专”的上一句是什么？
+隆中书院老学究_题目3,"What is the next line after ""Jade, if not polished, does not become a tool""?",,“玉不琢，不成器”的下一句是什么？
+隆中书院老学究_题目4,"What is the next line after ""The ospreys cry, on the islet in the river""?",,“关关雎鸠，在河之洲”的下一句是什么？
+隆中书院老学究_题目5,"""The highest good is like water, water is good at ______""",,“上善若水，水善______”
+隆中书院老学究_题目6,"What is the next line after ""A tree as big as a man's embrace grows from a tiny shoot; A nine-storied tower rises from a heap of earth""?",,“合抱之木，生于毫末；九层之台，起于累土”的下一句是什么？
+隆中书院老学究_题目7,"What is the next line after ""Honorable and yet different""?",,“君子和而不同”的下一句是什么？
+隆中书院老学究_题目8,"""Man follows the earth, the earth follows the heaven, ___, ____""",,“人法地，地法天，___，____”
+隆中书院老学究_题目9,"What is the next line after ""The mountain does not tire of height; the ocean does not tire of depth""?",,“山不厌高，海不厌深”的下一句是什么？
+隆中书院老学究_题目10,"What is the next line after ""The movement of the sun and the moon is as if it were among them""?",,“日月之行，若出其中”的下一句是什么？
+隆中书院老学究_题目11,"What is the next line after ""Honorable and magnanimous""?",,“君子坦荡荡”的下一句是什么？
+隆中书院老学究_题目12,"What is the next line after ""Learning without thought is labor lost""?",,“学而不思则罔”的下一句是什么？
+隆中书院老学究_题目13,"What is the next line after ""Confucianists confuse the law with their writings""?",,“儒以文乱法”的下一句是什么？
+隆中书院老学究_题目14,"What is the next line after ""A long journey tests a horse's strength""?",,“路遥知马力”的下一句是什么？
+隆中书院老学究_题目15,"What is the next line after ""The waves behind drive on those before""?",,“长江后浪推前浪”的下一句是什么？
+隆中书院老学究_题目16,"What is the next line after ""Planning behind the curtain""?",,“运筹帷帐中”的下一句是什么？
+隆中书院老学究_题目17,"What is the next line after ""In poverty, one focuses on self-improvement""?",,“穷则独善其身”的下一句是什么？
+隆中书院老学究_题目18,"What is the next line after ""Cruel World, treating all things as straw dogs""?",,“天地不仁，以万物为刍狗”的下一句是什么？
+隆中书院老学究_题目19,"What is the next line after ""It's easy to paint the skin of a tiger, but not its bones""?",,“画虎画皮难画骨”的下一句是什么？
+隆中书院老学究_题目20,"What is the next line after ""A journey of a thousand miles begins with a single step""?",,“不积跬步，无以至千里”的下一句是什么？
+隆中书院老学究_题目21,"What is the next line after ""If a father does not teach his son, he is to blame""?",,“养不教，父之过。”的下一句是什么？
+隆中书院老学究_题目22,"What is the next line after ""At four years old, he could yield pears""?",,“融四岁，能让梨。”的下一句是什么？
+隆中书院老学究_题目23,"What is the next line after ""The three powers are heaven, earth and man""?",,“三才者，天地人。”的下一句是什么？
+隆中书院老学究_题目24,"What is the next line after ""The wise man is as good as water, Great Ocean Manual""?",,“智者上善若水，海纳百川”的下一句是什么？
+隆中书院老学究_题目25,"What is the next line after ""Respect the old, and extend it to others""?",,“老吾老，以及人之老”的下一句是什么？
+隆中书院老学究_题目1_答案1,"Nature is close, habit is far.",,性相近，习相远。
+隆中书院老学究_题目1_答案2,"Habit is close, nature is far.",,习相近，性相远。
+隆中书院老学究_题目1_答案3,"If not taught, nature will change.",,苟不教，性乃迁。
+隆中书院老学究_题目1_答案4,"The way of teaching, value in focus.",,教之道，贵以专。
+隆中书院老学究_题目2_答案1,"In the past, Mencius' mother chose her neighbors carefully.",,昔孟母，择邻处。
+隆中书院老学究_题目2_答案2,"If a child does not learn, it is like breaking the loom.",,子不学，断机杼。
+隆中书院老学究_题目2_答案3,"If a father does not teach his son, he is to blame.",,子不教，父之过。
+隆中书院老学究_题目2_答案4,"If not taught, nature will change.",,苟不教，性乃迁。
+隆中书院老学究_题目3_答案1,"If a child does not learn, it is like breaking the loom.",,子不学，断机杼。
+隆中书院老学究_题目3_答案2,"If a person does not learn, he does not know righteousness.",,人不学，不知义。
+隆中书院老学究_题目3_答案3,"If a person does not learn, he does not become a tool.",,人不学，不成器。
+隆中书院老学究_题目3_答案4,"If a tool is not sharpened, it is not worth money.",,器不磨，不值钱。
+隆中书院老学究_题目4_答案1,"A modest and virtuous young lady, I dream of her.",,窈窕淑女，寤寐求之。
+隆中书院老学究_题目4_答案2,"A modest and virtuous young lady, Honorable towards her.",,窈窕淑女，君子向之。
+隆中书院老学究_题目4_答案3,"A lady of grace, Gentleman's Courtship.",,窈窕淑女，君子好逑。
+隆中书院老学究_题目4_答案4,"A modest and virtuous young lady, a friend of the zither.",,窈窕淑女，琴瑟友之。
+隆中书院老学究_题目5_答案1,Benefits all things and does not compete.,,利万物而不争。
+隆中书院老学究_题目5_答案2,Moistens all things and makes no sound.,,润万物而无声。
+隆中书院老学究_题目5_答案3,Understands all things in silence.,,洞万物于无声。
+隆中书院老学究_题目5_答案4,Flows eastward and does not return.,,向东流而不还。
+隆中书院老学究_题目6_答案1,"A thousand-mile dike, destroyed by an ant hole.",,千里之堤，溃于蚁穴。
+隆中书院老学究_题目6_答案2,"Without accumulating small steps, there is no way to reach a thousand miles.",,不积跬步，无以千里。
+隆中书院老学究_题目6_答案3,A thousand-mile journey begins with a single step.,,千里之行，始于足下。
+隆中书院老学究_题目6_答案4,"The mighty river and sea, accumulate from small streams.",,滔滔江海，积于小流。
+隆中书院老学究_题目7_答案1,The petty man is always worried.,,小人长戚戚。
+隆中书院老学究_题目7_答案2,The petty man is inconsistent.,,小人出尔反尔。
+隆中书院老学究_题目7_答案3,The petty man agrees but does not harmonize.,,小人同而不和。
+隆中书院老学究_题目7_答案4,The petty man is timid and hesitant.,,小人畏畏缩缩。
+隆中书院老学究_题目8_答案1,"Heaven, earth and man, man can conquer heaven.",,天地人，人定胜天。
+隆中书院老学究_题目8_答案2,"Heaven's movement is strong, keep striving without rest.",,天行健，自强不息。
+隆中书院老学究_题目8_答案3,"When the blue sky dies, the yellow sky will rise.",,苍天死，黄天当立。
+隆中书院老学究_题目8_答案4,The way of heaven is the way of nature.,,天法道，道法自然。
+隆中书院老学究_题目9_答案1,"This is a humble room, but it is filled with my virtue.",,斯是陋室，惟吾德馨。
+隆中书院老学究_题目9_答案2,"How high is the sky, how deep is the sea.",,天有多高，海有多深。
+隆中书院老学究_题目9_答案3,"Duke Zhou fed the people, and all hearts turned to him.",,周公吐哺，天下归心。
+隆中书院老学究_题目9_答案4,"Where sincerity is, even metal and stone will open.",,精诚所至，金石为开。
+隆中书院老学究_题目10_答案1,A thousand-mile journey begins with a single step.,,千里之行，始于足下。
+隆中书院老学究_题目10_答案2,"The stars in the sky are brilliant, as if they come from within.",,星汉灿烂，若出其里。
+隆中书院老学究_题目10_答案3,"The world is vast, the starry sea is boundless.",,天地苍苍，星海茫茫。
+隆中书院老学究_题目10_答案4,"Heaven and Earth are Mysterious Yellow, the universe is Primal Land.",,天地玄黄，宇宙洪荒。
+隆中书院老学究_题目11_答案1,Evil can live for a thousand years.,,祸害活千年。
+隆中书院老学究_题目11_答案2,The petty man is always worried.,,小人长戚戚。
+隆中书院老学究_题目11_答案3,It's hard to raise a petty person.,,小人难养也。
+隆中书院老学究_题目11_答案4,A petty person is always happy.,,小人常乐乐。
+隆中书院老学究_题目12_答案1,To think without learning is dangerous.,,思而不学则殆。
+隆中书院老学究_题目12_答案2,"If you don't know, be Optimistic.",,罔则乐不思蜀。
+隆中书院老学究_题目12_答案3,It's not angering if people don't know.,,人不知而不愠。
+隆中书院老学究_题目12_答案4,To think without learning is shallow.,,思而不学则浅。
+隆中书院老学究_题目13_答案1,Retreat in order to advance.,,将以退为进。
+隆中书院老学究_题目13_答案2,A hero uses martial arts to break the law.,,侠以武犯禁。
+隆中书院老学究_题目13_答案3,A mother values her son.,,母以子为贵。
+隆中书院老学究_题目13_答案4,People regard food as their heaven.,,民以食为天。
+隆中书院老学究_题目14_答案1,Practice brings true knowledge.,,实践出真知。
+隆中书院老学究_题目14_答案2,The ends of the earth are as close as next door.,,天涯若比邻。
+隆中书院老学究_题目14_答案3,"Heaven is long, earth is also long.",,天长地也久。
+隆中书院老学究_题目14_答案4,Time reveals a person's heart.,,日久见人心。
+隆中书院老学究_题目15_答案1,The previous wave dies on the beach.,,前浪死在沙滩上。
+隆中书院老学究_题目15_答案2,"In front of a sick tree, a thousand trees bloom in spring.",,病树前头万木春。
+隆中书院老学究_题目15_答案3,New people in the world replace the old.,,世上新人赶旧人。
+隆中书院老学究_题目15_答案4,Each generation is stronger than the last.,,一代更比一代强。
+隆中书院老学究_题目16_答案1,Win a thousand miles away.,,决胜千里外。
+隆中书院老学究_题目16_答案2,Don't listen to the outside world.,,不闻窗外事。
+隆中书院老学究_题目16_答案3,Only hear the woman's sigh.,,但闻女叹息。
+隆中书院老学究_题目16_答案4,Only read the books of sages.,,只读圣贤书。
+隆中书院老学究_题目17_答案1,"If you are rich, you are not benevolent.",,富则为富不仁。
+隆中书院老学究_题目17_答案2,Death is heavier than Mount Tai.,,死则重于泰山。
+隆中书院老学究_题目17_答案3,"If you are successful, you are kind to the world.",,达则兼善天下。
+隆中书院老学究_题目17_答案4,"If you are rich, even chickens and dogs can ascend to heaven.",,发则鸡犬升天。
+隆中书院老学究_题目18_答案1,"The emperor is not benevolent, treating the world as fish meat.",,皇帝不仁，以天下为鱼肉。
+隆中书院老学究_题目18_答案2,"The mountains and rivers are unjust, with the tyrant as the ruler.",,山河不义，以霸者为君主。
+隆中书院老学究_题目18_答案3,"Cruel World, there is justice in the world.",,天地不仁，人间自有公道。
+隆中书院老学究_题目18_答案4,"The sage is not benevolent, treating the people as straw dogs.",,圣人不仁，以百姓为刍狗。
+隆中书院老学究_题目19_答案1,There will be a master painter.,,自有丹青妙手来。
+隆中书院老学究_题目19_答案2,"Know a person's face, but not their heart.",,知人知面不知心。
+隆中书院老学究_题目19_答案3,"Know a scholar's face, but not their heart.",,书人书面难书心。
+隆中书院老学究_题目19_答案4,Drawing a tiger but it turns out to be a dog.,,画虎不成反类犬。
+隆中书院老学究_题目20_答案1,"If you don't sweep your own house, you can't sweep the world.",,不扫一屋，无以扫天下。
+隆中书院老学究_题目20_答案2,"If you don't read books, you can't pass the exam.",,不读诗书，无以考功名。
+隆中书院老学究_题目20_答案3,"If you don't accumulate small streams, you can't form rivers and seas.",,不积小流，无以成江海。
+隆中书院老学究_题目20_答案4,"If you don't accumulate soil, you can't pile up Mount Tai.",,不积土丘，无以堆泰山。
+隆中书院老学究_题目21_答案1,"If the teaching is not strict, the teacher is lazy.",,教不严，师之惰。
+隆中书院老学究_题目21_答案2,"If the young do not learn, what will the old do?",,幼不学，老何为。
+隆中书院老学究_题目21_答案3,"If the child does not learn, it is not appropriate.",,子不学，非所宜。
+隆中书院老学究_题目21_答案4,"If not taught, nature will change.",,苟不教，性乃迁。
+隆中书院老学究_题目22_答案1,"In the past, Mencius' mother chose her neighbors carefully.",,昔孟母，择邻处。
+隆中书院老学究_题目22_答案2,"If the young do not learn, what will the old do?",,幼不学，老何为。
+隆中书院老学究_题目22_答案3,"Respect the elder, should know first.",,悌于长，宜先知。
+隆中书院老学究_题目22_答案4,"At the age of nine, can warm the bed.",,香九龄，能温席。
+隆中书院老学究_题目23_答案1,"The three lights are the sun, the moon, and the stars.",,三光者，日月星。
+隆中书院老学究_题目23_答案2,The three principles are the duties of the king and the minister.,,三纲者，君臣义。
+隆中书院老学究_题目23_答案3,The ten heavenly stems are from Jia to Gui.,,十干者，甲至癸。
+隆中书院老学究_题目23_答案4,"The twelve earthly branches, from Zi to Hai.",,十二支，子至亥。
+隆中书院老学究_题目24_答案1,The tyrant is the only one who is supreme.,,霸者一家独大，唯我独尊。
+隆中书院老学究_题目24_答案2,"The minister is below one person, but above ten thousand.",,臣者一人之下，万人之上。
+隆中书院老学究_题目24_答案3,"The benevolent person is like a high mountain, carrying heavy virtue.",,仁者高山仰止，厚德载物。
+隆中书院老学究_题目24_答案4,"The king is like Duke Zhou, all hearts turn to him.",,王者周公吐哺，天下归心。
+隆中书院老学究_题目25_答案1,"I feel cold, as do others.",,寒吾寒，以及人之寒。
+隆中书院老学究_题目25_答案2,"I was young, as were others.",,幼吾幼，以及人之幼。
+隆中书院老学究_题目25_答案3,"I worry, as do others.",,忧吾忧，以及人之忧。
+隆中书院老学究_题目25_答案4,"I am happy, as are others.",,乐吾乐，以及人之乐。
+,,,
+院试1_题目1,"""What is the next sentence of 'The frog in the well cannot speak of the sea, because it is confined to the void'?""",,“‘井蛙不可以语于海者，拘于虚也’的下一句是什么？”
+院试1_题目2,"""What is the next sentence of 'A thousand cups are too few when you meet an Intimate'?""",,“‘酒逢知己千杯少’的下一句是什么？”
+院试1_题目3,"""What is the next sentence of 'He who knows others is wise, he who knows himself is enlightened'?""",,“‘知人者智，自知者明’的下一句是什么？”
+院试2_题目1,"""What is the next sentence of 'Not seeing oneself, therefore enlightened'?""",,“‘不自见，故明’的下一句是什么？”
+院试2_题目2,"""What is the next sentence of 'Piling up soil to form a mountain, wind and rain will rise'?""",,“‘积土成山，风雨兴焉’的下一句是什么？”
+院试2_题目3,"""What is the next sentence of 'Persist and give up, rotten wood will not break'?""",,“‘锲而舍之，朽木不折’的下一句是什么？”
+院试3_题目1,"""What is the next sentence of 'If you don't climb high mountains, you won't know how high the sky is'?""",,“‘不登高山，不知天之高也’的下一句是什么？”
+院试3_题目2,"""What is the next sentence of 'A good farmer does not stop plowing because of drought or flood'?""",,“‘良农不为水旱不耕’的下一句是什么？”
+院试3_题目3,"""What is the next sentence of 'If the year is not cold, you won't know the strength of the pine and cypress'?""",,“‘岁不寒，无以知松柏’的下一句是什么？”
+院试4_题目1,"""What is the next sentence of 'A gentleman dies for his Intimate'?""",,“‘士为知己者死’的下一句是什么？”
+院试4_题目2,"""What is the next sentence of 'Drain the pond to fish, won't you catch them? But next year there will be no fish'?""",,“‘竭泽而渔，岂不获得？而明年无鱼’的下一句是什么？”
+院试4_题目3,"""What is the next sentence of 'Having ten good Horses is not as good as having one Bole'?""",,“‘得十良马，不若得一伯乐’的下一句是什么？”
+院试5_题目1,"""What is the next sentence of 'Without indifference, there is no way to clarify your ambition'?""",,“‘非淡泊无以明志’的下一句是什么？”
+院试5_题目2,"""What is the next sentence of 'Under the fragrant bait, there must be a hanging fish'?""",,“‘香饵之下，必有悬鱼’的下一句是什么？”
+院试5_题目3,"""What is the next line of 'Three years of good deeds, known by few'?""",,“‘积善三年，知之者少’的下一句是什么？”
+院试1_题目1_答案1,"The sparrow cannot speak to the eagle, for their ambitions differ.",,燕雀不可以语于鹰者，志不同也。
+院试1_题目1_答案2,"The mayfly cannot speak to the mountain, for their perspectives differ.",,蜉蝣不可以语于山者，眼界异也。
+院试1_题目1_答案3,"The summer insect cannot speak to the ice, for they are bound by time.",,夏虫不可以语于冰者，笃于时也。
+院试1_题目1_答案4,"The crooked man cannot speak to the Tao, for he is bound by teachings.",,曲士不可以语于道者，束于教也。
+院试1_题目2_答案1,Another round of 'Brotherhood'.,,再来一杯哥俩好。
+院试1_题目2_答案2,True friends are hard to find.,,知音难觅情意真。
+院试1_题目2_答案3,"Effective learner, one-stop solution.",,心有灵犀一点通。
+院试1_题目2_答案4,"If words are not to the point, it is an abuse.",,话不投机半句多。
+院试1_题目3_答案1,"The one who overcomes others is strong, the one who overcomes himself is powerful.",,胜人者有力，自胜者强。
+院试1_题目3_答案2,"The contented are rich, the ambitious have will.",,知足者富，强行者有志。
+院试1_题目3_答案3,"Know your enemy, win every battle.",,知己知彼，百战百胜。
+院试1_题目3_答案4,"Those who do not lose their place endure, those who die but do not perish have longevity.",,不失其所者久，死而不亡者寿。
+院试2_题目1_答案1,"Do not boast, thus merit is achieved.",,不自伐，故有功。
+院试2_题目1_答案2,"Only by not contending, can no one in the world contend with you.",,夫唯不争，故天下莫能与之争。
+院试2_题目1_答案3,"Do not be arrogant, thus you will endure.",,不自矜，故长。
+院试2_题目1_答案4,"Do not be self-righteous, thus you will shine.",,不自是，故彰。
+院试2_题目2_答案1,"Days and years pass, such is the passage of time.",,积日累岁，逝者如斯。
+院试2_题目2_答案2,"Good deeds accumulate to form virtue, and the divine is naturally attained.",,积善成德，神明自得。
+院试2_题目2_答案3,"Accumulate thickness to create radiance, and your descendants will be shaded.",,积厚流光，子孙荫之。
+院试2_题目2_答案4,"Accumulate water to form a deep pool, and the dragon will be born there.",,积水成渊，蛟龙生焉。
+院试2_题目3_答案1,"Where sincerity is, even metal and stone will open.",,精诚所至，金石为开。
+院试2_题目3_答案2,"Persist without giving up, and even metal and stone can be carved.",,锲而不舍，金石可镂。
+院试2_题目3_答案3,"With daily accumulation, even an iron rod can be ground into a needle.",,日积月累，铁杵成针。
+院试2_题目3_答案4,Ten mediocre horses can achieve success through perseverance.,,驽马十驾，功在不舍。
+院试3_题目1_答案1,"Without standing by a deep stream, one cannot know the thickness of the earth.",,不临深溪，不知地之厚也。
+院试3_题目1_答案2,"Without hearing the words left by the ancient kings, one cannot know the greatness of learning.",,不闻先王之遗言，不知学问之大也。
+院试3_题目1_答案3,"Without entering the tiger's den, how can one obtain tiger cubs?",,不入虎穴，焉得虎子也。
+院试3_题目1_答案4,"Without entering the cold pool, one cannot know the depth of the water.",,不入寒潭，不知水之深也。
+院试3_题目2_答案1,The honorable do not bend their waists for five pecks of rice.,,君子不为五斗米折腰。
+院试3_题目2_答案2,The gentleman does not abandon his path due to poverty.,,士君子不为贫穷怠乎道。
+院试3_题目2_答案3,A good merchant does not sell at a loss.,,良贾不为折阅不市。
+院试3_题目2_答案4,A man is not moved by a woman's beauty.,,丈夫不为女色所动。
+院试3_题目3_答案1,"If you don't sweep your own house, how can you sweep the world?",,屋不扫，无以扫天下。
+院试3_题目3_答案2,"Without time, one cannot see a person's heart.",,日不久，无以见人心。
+院试3_题目3_答案3,"Without learning, one cannot know filial piety and brotherly respect.",,人不学，无以知孝悌。
+院试3_题目3_答案4,"Without difficulty, one cannot know a gentleman.",,事不难，无以知君子。
+院试4_题目1_答案1,A country that seeks self-interest will perish.,,国为利己者亡。
+院试4_题目1_答案2,A woman who pleases herself will be beautiful.,,女为悦己者容。
+院试4_题目1_答案3,A family that is harmonious will prosper.,,家为和己者兴。
+院试4_题目1_答案4,Laws are established for those who break the rules.,,法为犯禁者立。
+院试4_题目2_答案1,"Killing the chicken to get the eggs, isn't it profitable? But there will be no eggs tomorrow.",,杀鸡取卵，岂不获得？而明日无卵。
+院试4_题目2_答案2,"Burning the forest to farm, isn't it profitable? But there will be no hunting next year.",,焚林而田，岂不获得？而明年无猎。
+院试4_题目2_答案3,"Burning the bush to farm, isn't it profitable? But there will be no animals next year.",,焚薮而田，岂不获得？而明年无兽。
+院试4_题目2_答案4,"Disbanding the army and scattering the horses, isn't it peaceful? But there will be no soldiers next year.",,止戈散马，岂不安乐？而明年无兵。
+院试4_题目3_答案1,Gaining a thousand miles of land is not as good as gaining a sage.,,得地千里，不若得一圣人。
+院试4_题目3_答案2,Gaining a thousand acres of farmland is not as good as gaining a god of agriculture.,,得田千亩，不若得一神农。
+院试4_题目3_答案3,Gaining ten good swords is not as good as gaining a blacksmith.,,得十良剑，不若得一欧冶。
+院试4_题目3_答案4,"There are always good horses in a thousand miles, but there are not always good horse trainers.",,千里马常有，而伯乐不常有。
+院试5_题目1_答案1,"Without tranquility, one cannot reach far.",,非宁静无以致远。
+院试5_题目1_答案2,"Without generosity, one cannot cover all.",,非宽大无以兼覆。
+院试5_题目1_答案3,"Without kindness and generosity, one cannot embrace the masses.",,非慈厚无以怀众。
+院试5_题目1_答案4,"Without fairness and justice, one cannot make decisions.",,非平正无以制断。
+院试5_题目2_答案1,"Jiang Taigong fishes, those who are willing will take the bait.",,姜太公钓鱼，愿者上钩。
+院试5_题目2_答案2,"Under heavy rewards, there must be brave men.",,重赏之下，必有死士。
+院试5_题目2_答案3,"In the beauty's scheme, there are often hidden plots.",,美人计中，多有玄机。
+院试5_题目2_答案4,"When the city gate catches fire, the fish in the moat suffer.",,城门失火，殃及池鱼。
+院试5_题目3_答案1,"Commit evil for a day, and it will be heard throughout the world.",,为恶一日，闻于天下。
+院试5_题目3_答案2,"If it does not crow, it is fine. Once it crows, it shocks people.",,不鸣则已，一鸣惊人。
+院试5_题目3_答案3,"Good begets good, evil begets evil.",,善有善报，恶有恶报。
+院试5_题目3_答案4,"Those who do good live long, those who accumulate virtue have blessings.",,行善者寿，积德者福。
+,,,
+太学馆对对子_题目1,Please complete the couplet: Nurturing the righteous qi of heaven and earth;,,请接下联：养天地正气；
+太学馆对对子_题目2,Please complete the couplet: A big belly can tolerate things that the world cannot tolerate;,,请接下联：大肚能容容天下难容之事；
+太学馆对对子_题目3,Please complete the couplet: How can a sparrow know the ambition of a swan;,,请接下联：燕雀安知鸿鹄志；
+太学馆对对子_题目4,Please complete the couplet: The body is a Buddha tree;,,请接下联：身是菩提树；
+太学馆对对子_题目5,Please complete the couplet: An old horse in the stable still aspires to gallop a thousand miles;,,请接下联：老骥伏枥志千里；
+太学馆对对子_题目6,"Please complete the couplet: Great Ocean Manual, tolerance is greatness;",,请接下联：海纳百川，有容乃大；
+太学馆对对子_题目7,"Please complete the couplet: The sound of wind, rain, and reading enters the ears;",,请接下联：风声雨声读书声声声入耳；
+太学馆对对子_题目8,Please complete the couplet: A tiger drinks a cup and gets drunk in the mountains;,,请接下联：猛虎一杯山中醉；
+太学馆对对子_题目9,Please complete the couplet: All mountains bow down to it;,,请接下联：万山拜其下；
+太学馆对对子_题目10,Please complete the couplet: Water flows from the jade ring;,,请接下联：水从碧玉环中去；
+太学馆对对子_题目11,Please complete the couplet: Favorable wind and rain;,,请接下联：风调雨顺；
+太学馆对对子_题目12,Please complete the couplet: The tomb door is locked by misty clouds;,,请接下联：霭霭墓门云气锁；
+太学馆对对子_题目13,Please complete the couplet: Three generations of a family buried in the same soil;,,请接下联：一门父子三抔土；
+太学馆对对子_题目14,Please complete the couplet: Three religions and nine schools of thought all return to the great path;,,请接下联：三教九流同归大道；
+太学馆对对子_题目15,Please complete the couplet: Teach your children and grandchildren to first teach yourself;,,请接下联：课子课孙先课己；
+太学馆对对子_题目16,Please complete the couplet: The sea is wide for fish to leap;,,请接下联：海阔凭鱼跃；
+太学馆对对子_题目17,"Please complete the couplet: Among men, a fine horse can gallop a thousand miles;",,请接下联：人中骐骥驰千里；
+太学馆对对子_题目18,Please complete the couplet: Moon under the water;,,请接下联：水底月；
+太学馆对对子_题目19,"Please complete the couplet: East, South, West, North;",,请接下联：东南西北；
+太学馆对对子_题目20,Please complete the couplet: Clouds mindlessly emerge from the mountains;,,请接下联：云无心以出岫；
+太学馆对对子_题目21,Please complete the couplet: Actions without shame under heaven and earth;,,请接下联：行止无愧天地；
+太学馆对对子_题目22,Please complete the couplet: Heard that mountain stones have no false colors;,,请接下联：既闻山石无假色；
+太学馆对对子_题目23,Please complete the couplet: Thousand autumns of ink and brush shock heaven and earth;,,请接下联：千秋笔墨惊天地；
+太学馆对对子_题目24,Please complete the couplet: Peace is originally set by the general;,,请接下联：太平本是将军定；
+太学馆对对子_题目25,Please complete the couplet: Destined to meet from a thousand miles away;,,请接下联：有缘千里来相会；
+太学馆对对子_题目26,Please complete the couplet: The sharpness of a treasure sword comes from grinding;,,请接下联：宝剑锋从磨砺出；
+太学馆对对子_题目27,Please complete the couplet: Holding a three-foot Longquan sword;,,请接下联：手提三尺龙泉剑；
+太学馆对对子_题目28,Please complete the couplet: Jade can be shattered but its whiteness cannot be changed;,,请接下联：玉可碎而不可改其白；
+太学馆对对子_题目29,Please complete the couplet: Good birds choose trees to nest;,,请接下联：良禽择木而栖；
+太学馆对对子_题目30,Please complete the couplet: Proud soldiers often lead to defeat since ancient times;,,请接下联：自古骄兵多致败；
+太学馆对对子_题目31,Please complete the couplet: Horse neighs when it meets a good master;,,请接下联：马逢伯乐而嘶；
+太学馆对对子_题目32,"Please complete the couplet: Draw a sword to cut water, water flows more;",,请接下联：抽刀断水水更流；
+太学馆对对子_题目33,Please complete the couplet: How can life always go as one wishes;,,请接下联：人生哪能多如意；
+太学馆对对子_题目34,Please complete the couplet: Ideal not to enjoy the sweet wine.,,请接下联：理想莫享醴。
+太学馆对对子_题目35,Please complete the couplet: A thousand cups of fine wine become self-knowledge;,,请接下联：美酒千杯成知已；
+太学馆对对子_题目36,"Please complete the couplet: One flower, one Buddha, one world;",,请接下联：一花一佛一世界；
+太学馆对对子_题目37,Please complete the couplet: Blue Mountain does not ink a thousand autumn paintings;,,请接下联：青山不墨千秋画；
+太学馆对对子_题目38,"Please complete the couplet: Fortune comes twice, today it comes;",,请接下联：福无双至今朝至；
+太学馆对对子_题目39,Please complete the couplet: Ancient and modern wonders belong to the rocky gorges;,,请接下联：古今奇观属岩壑；
+太学馆对对子_题目40,Please complete the couplet: All mountains are paintings;,,请接下联：有山皆图画；
+太学馆对对子_题目41,Please complete the couplet: Good books are not tired of reading and re-reading;,,请接下联：好书不厌看还读；
+太学馆对对子_题目42,Please complete the couplet: Ask the green ox who rode away;,,请接下联：问青牛何人骑去；
+太学馆对对子_题目43,Please complete the couplet: There are no mountains and rivers in the sky;,,请接下联：天上何曾有山水；
+太学馆对对子_题目44,Please complete the couplet: The clear wind intends to keep me from staying;,,请接下联：清风有意难留我；
+太学馆对对子_题目45,Please complete the couplet: Don't talk about worldly affairs facing Blue Mountain;,,请接下联：莫对青山谈事世；
+太学馆对对子_题目46,Please complete the couplet: Less water reveals the sand;,,请接下联：少水沙即现；
+太学馆对对子_题目47,Please complete the couplet: The moon under the water is like the moon in the sky;,,请接下联：水底月如天上月；
+太学馆对对子_题目48,Please complete the couplet: Righteous often slaughter the dog breed;,,请接下联：仗义每多屠狗辈；
+太学馆对对子_题目49,"Please complete the couplet: Small temple without monks, wind sweeps the ground;",,请接下联：庙小无僧风扫地；
+太学馆对对子_题目50,Please complete the couplet: Hungry chickens fight for beans;,,请接下联：鸡饥争豆斗；
+太学馆对对子_题目1_答案1,Discuss the rise and fall of ancient and modern times.,,谈古今兴亡。
+太学馆对对子_题目1_答案2,Discuss the elegance and charm of literature.,,论文雅风骚。
+太学馆对对子_题目1_答案3,Perfect people in ancient and modern times.,,法古今完人。
+太学馆对对子_题目1_答案4,Leave a lifetime of purity.,,留一世清白。
+太学馆对对子_题目2_答案1,Strike those who deserve to be struck with a stretch of the hand.,,伸手就打打天下该打之人。
+太学馆对对子_题目2_答案2,Laugh at those who are laughable in the world with a word.,,开口便笑笑世间可笑之人。
+太学馆对对子_题目2_答案3,Ride a horse to admire the flowers and the world's myriad of colors.,,走马观花观人间万紫千红。
+太学馆对对子_题目2_答案4,"Drown one's sorrows with wine, drown the sorrow that is hard to untangle.",,借酒浇愁浇一肠难解之愁。
+太学馆对对子_题目3_答案1,How can a mantis block the wheel of a cart.,,螳臂岂能当车轮。
+太学馆对对子_题目3_答案2,The dragon in the water laughs at the heroes.,,蛟龙潜水笑群雄。
+太学馆对对子_题目3_答案3,How can a firefly compete with the moonlight.,,萤火如何争月光。
+太学馆对对子_题目3_答案4,The giant bird laughs at the dove's words.,,鲲鹏反笑鸴鸠言。
+太学馆对对子_题目4_答案1,"One flower, one world.",,一花一世界。
+太学馆对对子_题目4_答案2,Heart like a clear mirror.,,心如明镜台。
+太学馆对对子_题目4_答案3,Heart like a bright lotus.,,心若灿莲花。
+太学馆对对子_题目4_答案4,Earth-born intertwined branches.,,地生连理枝。
+太学馆对对子_题目5_答案1,Always make heroes shed tears.,,长使英雄泪满襟。
+太学馆对对子_题目5_答案2,"Short awl in the bag, half-inch blade.",,短锥处囊半寸锋。
+太学馆对对子_题目5_答案3,Hang the sail directly to cross the sea.,,直挂云帆济沧海。
+太学馆对对子_题目5_答案4,Fierce horse neighs with great momentum.,,烈马长鸣势万钧。
+太学馆对对子_题目6_答案1,"A thousand-foot wall stands, desireless is firm.",,壁立千仞，无欲则刚。
+太学馆对对子_题目6_答案2,"Great sound is silent, great image is formless.",,大音希声，大象无形。
+太学馆对对子_题目6_答案3,"Knowing is easy, doing is hard, knowing and doing are one.",,知易行难，知行合一。
+太学馆对对子_题目6_答案4,"One careless move, the whole game is lost.",,一着不慎，满盘皆输。
+太学馆对对子_题目7_答案1,"Watermelon, winter melon, cantaloupe, melon, melon, ripe.",,西瓜冬瓜哈密瓜瓜瓜保熟。
+太学馆对对子_题目7_答案2,"Silk from silkworms, silk from mulberries, gold thread, thread, thread, buttoned.",,蚕丝桑丝金线丝丝丝入扣。
+太学馆对对子_题目7_答案3,"Family affairs, state affairs, world affairs, all affairs concern.",,家事国事天下事事事关心。
+太学馆对对子_题目7_答案4,"Relatives, lovers, strangers, everyone is self-endangered.",,亲人爱人陌生人人人自危。
+太学馆对对子_题目8_答案1,No money for three years of sobriety.,,不醉三年不要钱。
+太学馆对对子_题目8_答案2,Two cups of dragon sleep at the bottom of the sea.,,蛟龙两盏海底眠。
+太学馆对对子_题目8_答案3,Three bowls drunk can't pass the post.,,喝了三碗不过岗。
+太学馆对对子_题目8_答案4,Self-proclaimed lord is the wine fairy.,,自称爷是酒中仙。
+太学馆对对子_题目9_答案1,Wind rises between heaven and earth.,,风起天地间。
+太学馆对对子_题目9_答案2,Monkeys cry on both sides.,,猿啼两岸边。
+太学馆对对子_题目9_答案3,Lonely cloud lies here.,,孤云卧此中。
+太学馆对对子_题目9_答案4,Tall pines accompany my sleep.,,苍松伴我眠。
+太学馆对对子_题目10_答案1,People walk on the back of the dragon.,,人在苍龙背上行。
+太学馆对对子_题目10_答案2,Rushing to the sea without returning.,,奔流到海不复回。
+太学馆对对子_题目10_答案3,A lonely city in ten thousand mountains.,,一片孤城万仞山。
+太学馆对对子_题目10_答案4,"Moon shines on white sand, sun rises.",,月照白沙日上来。
+太学馆对对子_题目11_答案1,Bright moon in the sky.,,明月当空。
+太学馆对对子_题目11_答案2,The country is prosperous and the people are at peace.,,国泰民安。
+太学馆对对子_题目11_答案3,Blue mountains and green waters.,,青山绿水。
+太学馆对对子_题目11_答案4,Sun rises in the east.,,日出东方。
+太学馆对对子_题目12_答案1,Dense woods in the rain.,,森森陵木雨声中。
+太学馆对对子_题目12_答案2,Walking alone in the clouds and fog.,,踽踽独行云雾间。
+太学馆对对子_题目12_答案3,Rushing river flows eastward.,,滔滔江水向东流。
+太学馆对对子_题目12_答案4,Iron bones remain in the world.,,铮铮铁骨留人间。
+太学馆对对子_题目13_答案1,Four generations of three dukes pass on family traditions.,,四世三公传家风。
+太学馆对对子_题目13_答案2,A piece of ice heart in a jade pot.,,一片冰心在玉壶。
+太学馆对对子_题目13_答案3,"Two generations of articles, a hundred generations of spring.",,两世文章百代春。
+太学馆对对子_题目13_答案4,Three dynasties open to relieve the old minister's heart.,,三朝开济老臣心。
+太学馆对对子_题目14_答案1,A thousand rocks and ravines form a spectacle.,,千岩万壑合成奇观。
+太学馆对对子_题目14_答案2,A thousand words and ten thousand languages are earnest and sincere.,,千言万语苦口婆心。
+太学馆对对子_题目14_答案3,A thousand mountains and rivers are loyal and devoted.,,千山万水赤胆忠心。
+太学馆对对子_题目14_答案4,A thousand armies and ten thousand horses are full of momentum.,,千军万马气势如虹。
+太学馆对对子_题目15_答案1,"Know a person's face, but not their heart.",,知人知面不知心。
+太学馆对对子_题目15_答案2,Spare people when you can.,,得饶人处且饶人。
+太学馆对对子_题目15_答案3,"Become an immortal or a Buddha, but first become a human.",,成仙成佛且成人。
+太学馆对对子_题目15_答案4,"Worship gods and Buddhas, but first worship yourself.",,拜神拜佛先拜己。
+太学馆对对子_题目16_答案1,The sky is high and allows birds to fly.,,天高任鸟飞。
+太学馆对对子_题目16_答案2,All paths are deserted.,,万径人踪灭。
+太学馆对对子_题目16_答案3,A long journey tests a horse's strength.,,路遥知马力。
+太学馆对对子_题目16_答案4,"When far from home, one longs to return.",,地远思亲归。
+太学馆对对子_题目17_答案1,A brave man's heart never ages.,,壮士暮年心不已。
+太学馆对对子_题目17_答案2,A giant fish in the sea can reach the sky.,,海内鲲鹏举九天。
+太学馆对对子_题目17_答案3,I can go anywhere in the world.,,天涯海角任我行。
+太学馆对对子_题目17_答案4,A tiger's roar in the forest can be heard for miles.,,山林虎啸传万里。
+太学馆对对子_题目18_答案1,Flowers in the mirror.,,镜中花。
+太学馆对对子_题目18_答案2,Stars in the sky.,,天上星。
+太学馆对对子_题目18_答案3,Tigers in the forest.,,林中虎。
+太学馆对对子_题目18_答案4,Geese in the clouds.,,云中雁。
+太学馆对对子_题目19_答案1,Heaven and earth.,,天上地下。
+太学馆对对子_题目19_答案2,"Spring, summer, autumn, and winter.",,春夏秋冬。
+太学馆对对子_题目19_答案3,"South, north, west, and east.",,南北西东。
+太学馆对对子_题目19_答案4,Coming and going without a trace.,,来去无踪。
+太学馆对对子_题目20_答案1,Water that is too clear has no fish.,,水至清则无鱼。
+太学馆对对子_题目20_答案2,A person who doesn't learn has no skills.,,人不学则无术。
+太学馆对对子_题目20_答案3,"When the mountains are flat, heaven and earth merge.",,山无陵天地合。
+太学馆对对子_题目20_答案4,A bird knows when to return when it is tired of flying.,,鸟倦飞而知还。
+太学馆对对子_题目21_答案1,Justice is in the hearts of the people.,,公道自在人心。
+太学馆对对子_题目21_答案2,Praise and criticism have their own seasons.,,褒贬自有春秋。
+太学馆对对子_题目21_答案3,Let him talk east and west.,,管他说东道西。
+太学馆对对子_题目21_答案4,A body full of righteousness is awe-inspiring.,,一身正气凛然。
+太学馆对对子_题目22_答案1,Even grass and trees have a true fragrance.,,亦知草木有真香。
+太学馆对对子_题目22_答案2,Who says flowers and the moon have no true feelings?,,谁言花月无真情。
+太学馆对对子_题目22_答案3,But the sky is a good autumn.,,却道天色好个秋。
+太学馆对对子_题目22_答案4,"Looking at the mountains and rivers, there is no confidant.",,遍览山河无知音。
+太学馆对对子_题目23_答案1,Golden spears and iron horses come in dreams.,,金戈铁马入梦来。
+太学馆对对子_题目23_答案2,Human feelings are refined into literature.,,人情练达即文章。
+太学馆对对子_题目23_答案3,Clouds and mountains for miles are in the painting.,,万里云山入画图。
+太学馆对对子_题目23_答案4,"Speak not to astonish, but to the point of death.",,语不惊人死不休。
+太学馆对对子_题目24_答案1,I and the general untie the battle robe.,,朕与将军解战袍。
+太学馆对对子_题目24_答案2,The general is not allowed to see peace.,,不许将军见太平。
+太学馆对对子_题目24_答案3,One general's success is built on ten thousand bones.,,一将功成万骨枯。
+太学馆对对子_题目24_答案4,How many people return from wars in ancient times?,,古来征战几人回。
+太学馆对对子_题目25_答案1,People who are not destined to meet will not meet.,,无缘对面不相逢。
+太学馆对对子_题目25_答案2,Meeting doesn't necessarily mean knowing each other.,,相逢何必曾相识。
+太学馆对对子_题目25_答案3,Who in the world doesn't know you?,,天下谁人不识君。
+太学馆对对子_题目25_答案4,Meeting by chance is fate.,,萍水相逢都是缘。
+太学馆对对子_题目26_答案1,A person's face and peach blossoms are different reds.,,人面桃花别样红。
+太学馆对对子_题目26_答案2,Ten years of hard study ends in vain.,,十年寒窗终成空。
+太学馆对对子_题目26_答案3,The fragrance of plum blossoms comes from the bitter cold.,,梅花香自苦寒来。
+太学馆对对子_题目26_答案4,Burning fiercely as if it's nothing.,,烈火焚烧若等闲。
+太学馆对对子_题目27_答案1,Swear not to stop until the evil is cut down.,,不斩奸邪誓不休。
+太学馆对对子_题目27_答案2,Stepping on auspicious clouds and riding the wind.,,脚踩祥云踏风来。
+太学馆对对子_题目27_答案3,Why use a butcher's knife to kill a chicken?,,杀鸡焉用宰牛刀。
+太学馆对对子_题目27_答案4,Winning fame in life and after death.,,赢得生前身后名。
+太学馆对对子_题目28_答案1,"Cinnabar can be ground, but its redness cannot be taken away.",,丹可磨也而不可夺赤。
+太学馆对对子_题目28_答案2,"Bamboo can be burned, but its joints cannot be destroyed.",,竹可焚而不可毁其节。
+太学馆对对子_题目28_答案3,"A man can be killed, but his will cannot be taken away.",,匹夫可杀而不可夺志。
+太学馆对对子_题目28_答案4,"A gentleman can be killed, but not insulted.",,士可以杀而不可以辱。
+太学馆对对子_题目29_答案1,Honorable people do not stand under dangerous walls.,,君子不立危墙。
+太学馆对对子_题目29_答案2,It's good to rest under a big tree.,,大树下好乘凉。
+太学馆对对子_题目29_答案3,A wise minister chooses his master.,,贤臣择主而事。
+太学馆对对子_题目29_答案4,A centipede does not stop after death.,,百足死而不僵。
+太学馆对对子_题目30_答案1,A real man is always poisonous.,,向来无毒不丈夫。
+太学馆对对子_题目30_答案2,Underestimating the enemy often leads to failure.,,从来轻敌少成功。
+太学馆对对子_题目30_答案3,"Always pursue the enemy, but don't push too hard.",,一贯穷寇莫穷追。
+太学馆对对子_题目30_答案4,There is no joking in the army.,,素来军中无戏言。
+太学馆对对子_题目31_答案1,People die when they meet their loved ones.,,人遇知己而死。
+太学馆对对子_题目31_答案2,Birds fly into the blue sky.,,鸟入青云而飞。
+太学馆对对子_题目31_答案3,Fish live when they enter the sea.,,鱼入大海则活。
+太学馆对对子_题目31_答案4,Horses return wrapped in their own skin.,,马革裹尸而还。
+太学馆对对子_题目32_答案1,A river of spring water flows eastward.,,一江春水向东流。
+太学馆对对子_题目32_答案2,Raising a cup to drown sorrows only increases them.,,举杯销愁愁更愁。
+太学馆对对子_题目32_答案3,"Drawing a sword and looking around, feeling lost.",,拔剑四顾心茫然。
+太学馆对对子_题目32_答案4,The Yellow River keeps rolling in.,,不尽黄河滚滚来。
+太学馆对对子_题目33_答案1,Don't let the golden cup be empty under the moon.,,莫使金樽空对月。
+太学馆对对子_题目33_答案2,Half drunk and half awake is the real state.,,半醉半醒方为真。
+太学馆对对子_题目33_答案3,Being plain and simple is the truth.,,平平淡淡才是真。
+太学馆对对子_题目33_答案4,All things only need to be half satisfactory.,,万事只求半称心。
+太学馆对对子_题目34_答案1,Don't worry about money in the future.,,前途弗图钱。
+太学馆对对子_题目34_答案2,The future is yet to come.,,未来还未来。
+太学馆对对子_题目34_答案3,Officials don't change their positions.,,官宦不换官。
+太学馆对对子_题目34_答案4,Being the head of a household is not like having a home.,,当家无家当。
+太学馆对对子_题目35_答案1,Dare to laugh at Huang Chao for not being a man.,,敢笑黄巢不丈夫。
+太学馆对对子_题目35_答案2,A cup of clear tea can intoxicate.,,清茶一盏能醉人。
+太学馆对对子_题目35_答案3,Don't laugh at me for being drunk on the battlefield.,,醉卧沙场君莫笑。
+太学馆对对子_题目35_答案4,Two cups of dragon sleep at the bottom of the sea.,,蛟龙两盏海底眠。
+太学馆对对子_题目36_答案1,Every grass and tree is a Kunlun.,,一草一木一昆仑。
+太学馆对对子_题目36_答案2,"Three times of meditation, three times of extinction, three times of Buddha.",,三摩三藐三菩提。
+太学馆对对子_题目36_答案3,"Four seasons of peace, wind and rain in order.",,四季平安风雨顺。
+太学馆对对子_题目36_答案4,"Three lives and three worlds, always together.",,三生三世永相随。
+太学馆对对子_题目37_答案1,The clear water is like a mirror reflecting the colorful boat.,,碧水如镜映彩舟。
+太学馆对对子_题目37_答案2,The morning glow illuminates the mountains.,,朝霞映照满山红。
+太学馆对对子_题目37_答案3,The green water is a timeless zither without strings.,,绿水无弦万古琴。
+太学馆对对子_题目37_答案4,The plum blossom emits a unique fragrance in the cold winter.,,梅花独放冬青香。
+太学馆对对子_题目38_答案1,Joy fills the house.,,喜气洋洋福满家。
+太学馆对对子_题目38_答案2,"Misfortunes never come singly, they came last night.",,祸不单行昨夜行。
+太学馆对对子_题目38_答案3,May the blessings last forever.,,福泽天下永长存。
+太学馆对对子_题目38_答案4,"Five blessings come to the door, endless joy.",,五福临门乐无边。
+太学馆对对子_题目39_答案1,"The lanterns are brilliant, the night is young.",,华灯璀璨夜未央。
+太学馆对对子_题目39_答案2,"Famous people come and go, all are elegant.",,往来名士尽风流。
+太学馆对对子_题目39_答案3,The elegance of all ages is seen today.,,千古风流看今朝。
+太学馆对对子_题目39_答案4,"Blue water, blue mountains, and green trees are lush.",,碧水青山绿树茵。
+太学馆对对子_题目40_答案1,A real man is always poisonous.,,无毒不丈夫。
+太学馆对对子_题目40_答案2,"Without water, there is no literature.",,无水不文章。
+太学馆对对子_题目40_答案3,"No wind, no waves.",,无风不起浪。
+太学馆对对子_题目40_答案4,No wind comes from an empty cave.,,空穴不来风。
+太学馆对对子_题目41_答案1,"Why not leave and return, my friend?",,益友何妨去复来。
+太学馆对对子_题目41_答案2,Squandered fortune can still be regained.,,千金散尽还复来。
+太学馆对对子_题目41_答案3,A brave man leaves and never returns.,,壮士一去不复还。
+太学馆对对子_题目41_答案4,Savor the fine food and wine once more.,,珍馐美酒再品尝。
+太学馆对对子_题目42_答案1,For there is a source of living water.,,为有源头活水来。
+太学馆对对子_题目42_答案2,A yellow crane flies in from the sky.,,有黄鹤自天飞来。
+太学馆对对子_题目42_答案3,The waters of the Yellow River come from the heavens.,,黄河之水天上来。
+太学馆对对子_题目42_答案4,Where does the immortal wander?,,寻仙人何处游来。
+太学馆对对子_题目43_答案1,The right path in the world is full of vicissitudes.,,人间正道是沧桑。
+太学馆对对子_题目43_答案2,One must enjoy life when one is successful.,,人生得意须尽欢。
+太学馆对对子_题目43_答案3,I envy neither the mandarin ducks nor the immortals.,,不羡鸳鸯不羡仙。
+太学馆对对子_题目43_答案4,Isn't the world a place for immortals?,,人间岂不是神仙。
+太学馆对对子_题目44_答案1,The bright moon shines on people without intention.,,明月无心自照人。
+太学馆对对子_题目44_答案2,Willows grow into a grove without intention.,,无心插柳柳成荫。
+太学馆对对子_题目44_答案3,Thousands of rivers and mountains are all about love.,,万水千山总是情。
+太学馆对对子_题目44_答案4,Peach and plum trees form a path without words.,,桃李不言自成蹊。
+太学馆对对子_题目45_答案1,Don't let the golden cup be empty under the moon.,,莫使金樽空对月。
+太学馆对对子_题目45_答案2,Why play the lute to a cow?,,何必对牛空弹琴。
+太学馆对对子_题目45_答案3,Don't use words to occupy your time.,,休将文字占时名。
+太学馆对对子_题目45_答案4,The moon of today once shone on the ancients.,,今月曾经照古人。
+太学馆对对子_题目46_答案1,It is the earth embankment that forms.,,是土堤方成。
+太学馆对对子_题目46_答案2,The swan is a bird by the river.,,鸿是江边鸟。
+太学馆对对子_题目46_答案3,The silkworm is an insect of the world.,,蚕为天下虫。
+太学馆对对子_题目46_答案4,Lust is the greatest of all evils.,,万恶淫为首。
+太学馆对对子_题目47_答案1,The flower in the mirror is just a reflection.,,镜中花是镜中花。
+太学馆对对子_题目47_答案2,The flower in the dream seems real.,,梦中花似现实花。
+太学馆对对子_题目47_答案3,"Life is a dream, like the dream of the yellow millet.",,人生梦如梦黄粱。
+太学馆对对子_题目47_答案4,The person in the eye is the person in front.,,眼中人是面前人。
+太学馆对对子_题目48_答案1,A villain grinds another villain.,,恶人自有恶人磨。
+太学馆对对子_题目48_答案2,Heroes often see things similarly.,,英雄所见多略同。
+太学馆对对子_题目48_答案3,Those who betray often are scholars.,,负心多是读书人。
+太学馆对对子_题目48_答案4,"Why not leave and return, my friend?",,益友何妨去复来。
+太学馆对对子_题目49_答案1,The bright moon shines on people without intention.,,明月无心自照人。
+太学馆对对子_题目49_答案2,Willows grow into a grove without intention.,,无心插柳柳成荫。
+太学馆对对子_题目49_答案3,Peach and plum trees form a path without words.,,桃李不言自成蹊。
+太学馆对对子_题目49_答案4,"There is a Buddha in the high sky, lighting the moon.",,天高有佛月点灯。
+太学馆对对子_题目50_答案1,A cornered dog will jump over a wall.,,狗急也跳墙。
+太学馆对对子_题目50_答案2,Adding feet when painting a snake.,,画蛇再添足。
+太学馆对对子_题目50_答案3,The rat feels cool on the beam.,,鼠暑上梁凉。
+太学馆对对子_题目50_答案4,Fish fight when the net is broken.,,鱼死争网破。
+,,,
+乡试1_题目1,"""What is the next line of 'Clouds think of clothes, flowers think of faces'?""",,“‘云想衣裳花想容’的下一句是什么？”
+乡试1_题目2,"""What is the next line of 'Laughing to the sky, I walk out the door'?""",,“‘仰天大笑出门去’的下一句是什么？”
+乡试1_题目3,"""What is the next line of 'Kill a man every ten steps'?""",,“‘十步杀一人’的下一句是什么？”
+乡试2_题目1,"""What is the next line of 'Today's people don't see the moon of ancient times'?""",,“‘今人不见古时月’的下一句是什么？”
+乡试2_题目2,"""What is the next line of 'I was born with talent, it must be useful'?""",,“‘天生我材必有用’的下一句是什么？”
+乡试2_题目3,"""What is the next line of 'Old friend bids farewell to the Yellow Crane Tower'?""",,“‘故人西辞黄鹤楼’的下一句是什么？”
+乡试3_题目1,"""What is the next line of 'Raise a cup to invite the bright moon'?""",,“‘举杯邀明月’的下一句是什么？”
+乡试3_题目2,"""What is the next line of 'One must enjoy life when one is successful'?""",,“‘人生得意须尽欢’的下一句是什么？”
+乡试3_题目3,"""What is the next line of 'Having done the deed, I leave without a trace'?""",,“‘事了拂衣去’的下一句是什么？”
+乡试4_题目1,"""What is the next line of 'Once having seen the vast ocean, one can't be content with a pond'?""",,“‘曾经沧海难为水’的下一句是什么？”
+乡试4_题目2,"""What is the next line of 'Shoot the man before shooting the horse'?""",,“‘射人先射马’的下一句是什么？”
+乡试4_题目3,"""What is the next line of 'Died before the battle was won'?""",,“‘出师未捷身先死’的下一句是什么？”
+乡试5_题目1,"""What is the next line of 'Two orioles sing in the green willow'?""",,“‘两个黄鹂鸣翠柳’的下一句是什么？”
+乡试5_题目2,"""What is the next line of 'The window contains the thousand autumns of the West Ridge'?""",,“‘窗含西岭千秋雪’的下一句是什么？”
+乡试5_题目3,"""What is the next line of 'A moment of spring night is worth a thousand gold'?""",,“‘春宵一刻值千金’的下一句是什么？”
+乡试6_题目1,"""What is the next line of 'After the rain in the empty mountain'?""",,“‘空山新雨后’的下一句是什么？”
+乡试6_题目2,"""What is the next line of 'I urge you to drink another cup of wine'?""",,“‘劝君更尽一杯酒’的下一句是什么？”
+乡试6_题目3,"""What is the next line of 'The lonely smoke in the vast desert goes straight'?""",,“‘大漠孤烟直’的下一句是什么？”
+乡试7_题目1,"""What is the next line of 'Twenty-four bridges on a bright moonlit night'?""",,“‘二十四桥明月夜’的下一句是什么？”
+乡试7_题目2,"""What is the next line of 'A horseman in the red dust makes the princess laugh'?""",,“‘一骑红尘妃子笑’的下一句是什么？”
+乡试7_题目3,"""What is the next line of 'Rain pours down during the Qingming Festival'?""",,“‘清明时节雨纷纷’的下一句是什么？”
+乡试8_题目1,"""What is the next line of 'The broken spear sinks into the sand, the iron is not yet destroyed'?""",,“‘折戟沉沙铁未销’的下一句是什么？”
+乡试8_题目2,"""What is the next line of 'Where is the tavern, I ask'?""",,“‘借问酒家何处有’的下一句是什么？”
+乡试8_题目3,"""What is the next line of 'In the dead of night, I listen to the wind and rain'?""",,“‘夜阑卧听风吹雨’的下一句是什么？”
+乡试9_题目1,"""What is the next line of 'Startled awake from a dying illness'?""",,“‘垂死病中惊坐起’的下一句是什么？”
+乡试9_题目2,"""What is the next line of 'Taking a leisurely look at the flowers, I don't look back'?""",,“‘取次花丛懒回顾’的下一句是什么？”
+乡试9_题目3,"""What is the next line of 'White hair mourns the bright mirror'?""",,“‘白发悲明镜’的下一句是什么？”
+乡试10_题目1,"""What is the next line of 'Red beans grow in the south'?""",,“‘红豆生南国’的下一句是什么？”
+乡试10_题目2,"""What is the next line of 'Spring wind blows for ten miles on Yangzhou road'?""",,“‘春风十里扬州路’的下一句是什么？”
+乡试10_题目3,"""What is the next line of 'I urge you not to cherish your golden robe'?""",,“‘劝君莫惜金缕衣’的下一句是什么？”
+乡试1_题目1_答案1,Apply the new red begonia.,,涂抹新红上海棠。
+乡试1_题目1_答案2,Dress up on the jade tower in spring.,,春日凝妆上翠楼。
+乡试1_题目1_答案3,"The spring breeze brushes the railing, the dew is thick.",,春风拂槛露华浓。
+乡试1_题目1_答案4,Light or heavy makeup is always suitable.,,淡妆浓抹总相宜。
+乡试1_题目2_答案1,"Crying and wailing, I return home.",,哭哭啼啼回家来。
+乡试1_题目2_答案2,Return home until dawn.,,归来展转到五更。
+乡试1_题目2_答案3,With you until the west of Yelang.,,随君直到夜郎西。
+乡试1_题目2_答案4,We are not ordinary people.,,我辈岂是蓬蒿人。
+乡试1_题目3_答案1,Kill ten people in a hundred steps.,,百步杀十人。
+乡试1_题目3_答案2,Travel a thousand miles without leaving a trace.,,千里不留行。
+乡试1_题目3_答案3,Sword Qi cuts Heaven and Earth.,,剑气斩乾坤。
+乡试1_题目3_答案4,Hide your abilities and fame.,,深藏功与名。
+乡试2_题目1_答案1,The moon of today once shone on the ancients.,,今月曾经照古人。
+乡试2_题目1_答案2,The bright moon once shone on the ancients.,,明月曾经照古人。
+乡试2_题目1_答案3,When will the bright moon shine on me again?,,明月何时照我还。
+乡试2_题目1_答案4,Things change with the passing of time.,,物换星移几度秋。
+乡试2_题目2_答案1,There must be a way when the road reaches the mountain.,,路到山前必有车。
+乡试2_题目2_答案2,Who in the world doesn't know you?,,天下谁人不识君。
+乡试2_题目2_答案3,Squandered fortune can still be regained.,,千金散尽还复来。
+乡试2_题目2_答案4,I claim to be an immortal in wine.,,自称臣是酒中仙。
+乡试2_题目3_答案1,A yellow crane flies in from the sky.,,有黄鹤自天飞来。
+乡试2_题目3_答案2,Fireworks in March in Yangzhou.,,烟花三月下扬州。
+乡试2_题目3_答案3,"When I left, the snow covered the mountain road.",,去时雪满天山路。
+乡试2_题目3_答案4,With you until the west of Yelang.,,随君直到夜郎西。
+乡试3_题目1_答案1,I sing to the wandering moon.,,我歌月徘徊。
+乡试3_题目1_答案2,The moon surges the great river.,,月涌大江流。
+乡试3_题目1_答案3,Ride the moon and get drunk on the high platform.,,乘月醉高台。
+乡试3_题目1_答案4,Three people in the reflection.,,对影成三人。
+乡试3_题目2_答案1,How many people return from wars in ancient times?,,古来征战几人回。
+乡试3_题目2_答案2,There are no old friends after leaving Yangguan.,,西出阳关无故人。
+乡试3_题目2_答案3,Don't let the golden cup be empty under the moon.,,莫使金樽空对月。
+乡试3_题目2_答案4,Get drunk today if there is wine.,,今朝有酒今朝醉。
+乡试3_题目3_答案1,Travel a thousand miles without leaving a trace.,,千里不留行。
+乡试3_题目3_答案2,A thousand gold pieces will return.,,千金还复来。
+乡试3_题目3_答案3,Hide your abilities and fame.,,深藏功与名。
+乡试3_题目3_答案4,You come from your hometown.,,君自故乡来。
+乡试4_题目1_答案1,It's said that it rained at night in Bashan.,,却道巴山夜雨时。
+乡试4_题目1_答案2,"Except for Wushan, it's not a cloud.",,除却巫山不是云。
+乡试4_题目1_答案3,Peach blossoms still smile in the spring breeze.,,桃花依旧笑春风。
+乡试4_题目1_答案4,Get drunk today if there is wine.,,今朝有酒今朝醉。
+乡试4_题目2_答案1,"To catch a thief, catch the king first.",,擒贼先擒王。
+乡试4_题目2_答案2,"If you hit someone, aim for the face.",,打人要打脸。
+乡试4_题目2_答案3,"To kill a person, aim for the heart.",,杀人要诛心。
+乡试4_题目2_答案4,"To kill a snake, aim for seven inches.",,打蛇打七寸。
+乡试4_题目3_答案1,You must do this yourself.,,绝知此事要躬行。
+乡试4_题目3_答案2,Squandered fortune can still be regained.,,千金散尽还复来。
+乡试4_题目3_答案3,Always make heroes shed tears.,,长使英雄泪满襟。
+乡试4_题目3_答案4,Iron Horse enters the dream from the icy river.,,铁马冰河入梦来。
+乡试5_题目1_答案1,Three thousand favors in one body.,,三千宠爱在一身。
+乡试5_题目1_答案2,A line of egrets ascends to the blue sky.,,一行白鹭上青天。
+乡试5_题目1_答案3,Four seasons of joy shared with people.,,四时佳兴与人同。
+乡试5_题目1_答案4,A yellow crane comes flying from the sky.,,自有黄鹤天飞来。
+乡试5_题目2_答案1,The fragrance of plum blossoms comes from the bitter cold.,,梅花香自苦寒来。
+乡试5_题目2_答案2,Thousands of pear trees are in bloom.,,千树万树梨花开。
+乡试5_题目2_答案3,"A ship moored in the east of Wu, thousands of miles away.",,门泊东吴万里船。
+乡试5_题目2_答案4,"The mountain is clear and the water is clean, frost comes at night.",,山明水净夜来霜。
+乡试5_题目3_答案1,"Clouds want to dress, flowers want to look.",,云想衣裳花想容。
+乡试5_题目3_答案2,"Flowers have fragrance, moon has shade.",,花有清香月有阴。
+乡试5_题目3_答案3,Money can't buy happiness.,,有钱难买爷高兴。
+乡试5_题目3_答案4,"Time is money, and it's hard to buy.",,寸金难买寸光阴。
+乡试6_题目1_答案1,Hang on the southeast branch.,,自挂东南枝。
+乡试6_题目1_答案2,Carrying the moon and hoeing home.,,带月荷锄归。
+乡试6_题目1_答案3,Falling flowers fly into the house.,,落花入户飞。
+乡试6_题目1_答案4,The weather turns to autumn late.,,天气晚来秋。
+乡试6_题目2_答案1,Don't let the golden cup be empty under the moon.,,莫使金樽空对月。
+乡试6_题目2_答案2,Who in the world doesn't know you?,,天下谁人不识君。
+乡试6_题目2_答案3,There are no old friends after leaving Yangguan.,,西出阳关无故人。
+乡试6_题目2_答案4,Two cups of dragon sleep at the bottom of the sea.,,蛟龙两盏海底眠。
+乡试6_题目3_答案1,The long river sets the sun round.,,长河落日圆。
+乡试6_题目3_答案2,The heart is clear and pure.,,心中氤氲清。
+乡试6_题目3_答案3,The ends of the earth are as close as next door.,,天涯若比邻。
+乡试6_题目3_答案4,"The wind is right, a sail is hanging.",,风正一帆悬。
+乡试7_题目1_答案1,People walk on the back of the silver dragon.,,人在银龙背上行。
+乡试7_题目1_答案2,Where does the jade person teach flute playing?,,玉人何处教吹箫。
+乡试7_题目1_答案3,Whose jade flute heard the falling plum?,,谁家玉笛听落梅。
+乡试7_题目1_答案4,"A small bridge over a flowing river, the fragrance of osmanthus.",,小桥流水桂花香。
+乡试7_题目2_答案1,No one knows it's litchi coming.,,无人知是荔枝来。
+乡试7_题目2_答案2,The fragrance of plum blossoms comes from the bitter cold.,,梅花香自苦寒来。
+乡试7_题目2_答案3,Where does the jade person teach flute playing?,,玉人何处教吹箫。
+乡试7_题目2_答案4,"For her, I'm worn to a shadow.",,为伊消得人憔悴。
+乡试7_题目3_答案1,Travelers on the road are heartbroken.,,路上行人欲断魂。
+乡试7_题目3_答案2,"The grass looks green from afar, but not up close.",,草色遥看近却无。
+乡试7_题目3_答案3,The iron armor of the protector is cold and hard to wear.,,都护铁衣冷难着。
+乡试7_题目3_答案4,"In front of a sick tree, a thousand trees bloom in spring.",,病树前头万木春。
+乡试8_题目1_答案1,"Short awl in the bag, half-inch blade.",,短锥处囊半寸锋。
+乡试8_题目1_答案2,Recognize the previous dynasty by washing and grinding.,,自将磨洗认前朝。
+乡试8_题目1_答案3,"The long march of ten thousand miles, people have not returned.",,万里长征人未还。
+乡试8_题目1_答案4,A dance of swords moves all directions.,,一舞剑器动四方。
+乡试8_题目2_答案1,The shepherd boy points to the apricot flower village from afar.,,牧童遥指杏花村。
+乡试8_题目2_答案2,Children meet but do not know each other.,,儿童相见不相识。
+乡试8_题目2_答案3,Only see the Yangtze River flowing to the horizon.,,唯见长江天际流。
+乡试8_题目2_答案4,Don't let the golden cup be empty under the moon.,,莫使金樽空对月。
+乡试8_题目3_答案1,How many towers in the misty rain.,,多少楼台烟雨中。
+乡试8_题目3_答案2,Red maple and fishing fire against sorrowful sleep.,,江枫渔火对愁眠。
+乡试8_题目3_答案3,Iron Horse enters the dream from the icy river.,,铁马冰河入梦来。
+乡试8_题目3_答案4,Startled awake from a near-death illness.,,垂死病中惊坐起。
+乡试9_题目1_答案1,Iron Horse enters the dream from the icy river.,,铁马冰河入梦来。
+乡试9_题目1_答案2,Laugh and ask the guest where he comes from.,,笑问客从何处来。
+乡试9_题目1_答案3,The dark wind blows rain into the cold window.,,暗风吹雨入寒窗。
+乡试9_题目1_答案4,Why need to enter the Jade Gate Pass?,,何须生入玉门关。
+乡试9_题目2_答案1,Half of the river is green and half is red.,,半江瑟瑟半江红。
+乡试9_题目2_答案2,"Half for cultivation, half for you.",,半缘修道半缘君。
+乡试9_题目2_答案3,"Half a moat of spring water, a city of flowers.",,半壕春水一城花。
+乡试9_题目2_答案4,"The bell tolls at midnight, reaching the guest ship.",,夜半钟声到客船。
+乡试9_题目3_答案1,Black hair turns to snow at dusk.,,青丝暮成雪。
+乡试9_题目3_答案2,How many springs have been wasted in vain.,,虚劳几度春。
+乡试9_题目3_答案3,Hardly able to hold up a hairpin.,,浑欲不胜簪。
+乡试9_题目3_答案4,Youth changes into a worn fur.,,青春换敝裘。
+乡试10_题目1_答案1,How many branches have sprouted in spring.,,春来发几枝。
+乡试10_题目1_答案2,"When spring comes, it happens.",,当春乃发生。
+乡试10_题目1_答案3,Why the rush to pick?,,采撷何匆匆。
+乡试10_题目1_答案4,The sal tree is red in February.,,娑罗二月红。
+乡试10_题目2_答案1,Shallow grass can hide horse hooves.,,浅草才能没马蹄。
+乡试10_题目2_答案2,Red maple and fishing fire against sorrowful sleep.,,江枫渔火对愁眠。
+乡试10_题目2_答案3,Rolling up the pearl curtain is not as good.,,卷上珠帘总不如。
+乡试10_题目2_答案4,"Thick makeup or light makeup, both are suitable.",,浓妆淡抹总相宜。
+乡试10_题目3_答案1,Years wasted without seeing each other.,,虚度年华不相见。
+乡试10_题目3_答案2,Cherish your youth.,,劝君惜取少年时。
+乡试10_题目3_答案3,This resentment is endless.,,此恨绵绵无绝期。
+乡试10_题目3_答案4,Squandered fortune can still be regained.,,千金散尽还复来。
+,,,
+会试1_题目1,"""What is the next line of 'The mountain has wood, the wood has branches'?""",,“‘山有木兮木有枝’的下一句是什么？”
+会试1_题目2,"""What is the next line of 'Four hundred and eighty temples of the Southern Dynasties'?""",,“‘南朝四百八十寺’的下一句是什么？”
+会试1_题目3,"""What is the next line of 'In a low position, I dare not forget to worry about the country'?""",,“‘位卑未敢忘忧国’的下一句是什么？”
+会试2_题目1,"""What is the next line of 'Five-flower horse, thousand-gold fur'?""",,“‘五花马，千金裘”的下一句是什么？”
+会试2_题目2,"""What is the next line of 'Left to lead yellow, right to hold blue'?""",,“‘左牵黄，右擎苍’的下一句是什么？”
+会试2_题目3,"""What is the next line of 'The Roc flies with the wind in one day'?""",,“‘大鹏一日同风起’的下一句是什么？”
+会试3_题目1,"""'The tree that can be embraced grows from a tiny sprout; the nine-story tower begins with a heap of earth; the journey of a thousand miles starts from beneath one's feet.' Who said this?""",,“‘合抱之木，生于毫末；九层之台，起于累土；千里之行，始于足下。 ’出自哪位先哲之口？”
+会试3_题目2,"""'The highest good is like water, water benefits all things and does not compete.' Who said this?""",,“‘上善若水，水善利万物而不争。’出自哪位先哲之口？”
+会试3_题目3,"""'Life between heaven and earth, like a white horse passing a gap, suddenly.' Who is the sage who said this?""",,“‘人生天地之间，若白驹之过隙，忽然而已。’出自哪位先哲之口？”
+会试4_题目1,"""Which Archive does the quote 'Honorable is open and upright, while the villain is always in a hurry.' come from?""",,“‘君子坦荡荡，小人长戚戚。’出自哪本典籍？”
+会试4_题目2,"""Which Archive does the quote 'When poor, one should improve oneself; when rich, one should benefit the world.' come from?""",,“‘穷则独善其身，达则兼善天下。’出自哪本典籍？”
+会试4_题目3,"""Which Archive does the quote 'Learning without thinking leads to confusion, thinking without learning ends in danger.' come from?""",,“‘学而不思则罔，思而不学则殆。’出自哪本典籍？”
+会试5_题目1,"""Please complete the couplet: 'Since ancient times, talented people have faced many hardships;'""",,“请接下联：‘自古雄才多磨难；’”
+会试5_题目2,"""Please complete the couplet: 'Having seen through human nature, the autumn clouds are thick;'""",,“请接下联：‘人情阅尽秋云厚；’”
+会试5_题目3,"""Please complete the couplet: 'The art should start with diligent learning;'""",,“请接下联：‘术业宜从勤学起；’”
+会试6_题目1,"""Please complete the couplet: 'Poetry and books are not medicine, but they can cure vulgarity;'""",,“请接下联：‘诗书非药能医俗；’”
+会试6_题目2,"""Please complete the couplet: 'A room doesn't need to be large to be elegant;'""",,“请接下联：‘室雅何须大；’”
+会试6_题目3,"""Please complete the couplet: 'Calligraphy, painting, chess, and music shine through the ages;'""",,“请接下联：‘书画琴棋艺辉百代；’”
+会试7_题目1,"""What is the next line of 'A bird about to die, its song is sad;'?""",,“‘鸟之将死，其鸣也哀；’的下一句是什么？”
+会试7_题目2,"""What is the next line of 'If the name is not correct, then the words will not be smooth;'?""",,“‘名不正，则言不顺；’的下一句是什么？”
+会试7_题目3,"""What is the next line of 'If one's body is upright, one will act without being ordered;'?""",,“‘其身正，不令而行；’的下一句是什么？”
+会试8_题目1,"""What is the next line of 'Honorable cherish virtue, while villains cherish wealth;'?""",,“‘君子怀德，小人怀土；’的下一句是什么？”
+会试8_题目2,"""What is the next line of 'When three people walk together, there must be my teacher among them;'?""",,“‘三人行，必有我师焉；’的下一句是什么？”
+会试8_题目3,"""What is the next line of 'Do not worry about scarcity, but about inequality;'?""",,“‘不患寡而患不均；’的下一句是什么？”
+会试9_题目1,"""What is the next line of 'The world is bustling, all for profit;'?""",,“‘天下熙熙，皆为利来；’的下一句是什么？”
+会试9_题目2,"""What is the next line of 'The wise man worries a thousand times, there must be one mistake;'?""",,“‘智者千虑，必有一失；’的下一句是什么？”
+会试9_题目3,"""What is the next line of 'The limit of a strong crossbow, the arrow cannot penetrate the Lu's simple cloth;'?""",,“‘彊弩之极，矢不能穿鲁缟；’的下一句是什么？”
+会试10_题目1,"""What is the next line of 'Heaven's timing is not as good as the geographical advantage;'?""",,“‘天时不如地利；’的下一句是什么？”
+会试10_题目2,"""What is the next line of 'A man must degrade himself before others will degrade him;'?""",,“‘夫人必自侮，然后人侮之；’的下一句是什么？”
+会试10_题目3,"""Learn widely, ask carefully, ___, ___, ___.""",,“‘博学之，审问之，___，___，___。’”
+会试1_题目1_答案1,No sorrow is greater than parting in life.,,悲莫悲兮生别离。
+会试1_题目1_答案2,"My heart is pleased with you, but you don't know.",,心悦君兮君不知。
+会试1_题目1_答案3,"Thinking of you, I can't forget.",,追思君兮不可忘。
+会试1_题目1_答案4,"Missing my beloved, I can't forget.",,怀佳人兮不能忘。
+会试1_题目2_答案1,Recognize the previous dynasty by washing and grinding.,,自将磨洗认前朝。
+会试1_题目2_答案2,"This morning, everything is in front of my eyes.",,今朝都到眼前来。
+会试1_题目2_答案3,How many towers in the misty rain.,,多少楼台烟雨中。
+会试1_题目2_答案4,Flying into the homes of ordinary people.,,飞入寻常百姓家。
+会试1_题目3_答案1,I don't care if no one knows my name.,,哪怕无人知我名。
+会试1_题目3_答案2,Why should I avoid misfortune and pursue fortune?,,岂因祸福避趋之。
+会试1_题目3_答案3,"Even if things are settled, we must wait until the coffin is closed.",,事定犹须待阖棺。
+会试1_题目3_答案4,Enjoy the world's joy later.,,后天下之乐而乐。
+会试2_题目1_答案1,"A cart of charcoal, over a thousand jin.",,一车炭，千余斤。
+会试2_题目1_答案2,"Looking at the western capital, I'm hesitant.",,望西都，意踌躇。
+会试2_题目1_答案3,"A thousand gold is easy to get, but a general is hard to find.",,千金易得将难求。
+会试2_题目1_答案4,Call my son to exchange for fine wine.,,呼儿将出换美酒。
+会试2_题目2_答案1,"Looking northwest, shooting the sky wolf.",,西北望，射天狼。
+会试2_题目2_答案2,"Fur hat and mink coat, a thousand riders roll over the hill.",,锦帽貂裘，千骑卷平冈。
+会试2_题目2_答案3,"The prosperity of six generations, silently following the sound of the waves.",,六代繁华，暗逐逝波声。
+会试2_题目2_答案4,"A thousand miles of lonely graves, no place to talk about desolation.",,千里孤坟，无处话凄凉。
+会试2_题目3_答案1,Rising straight up ninety thousand miles.,,扶摇直上九万里。
+会试2_题目3_答案2,Soaring up ninety thousand miles.,,扶摇而上九万里。
+会试2_题目3_答案3,Fighting the wind and spreading wings to grab the sea.,,搏风展翅拿沧海。
+会试2_题目3_答案4,Flying into the homes of ordinary people.,,飞入寻常百姓家。
+会试3_题目1_答案1,Confucius.,,孔子。
+会试3_题目1_答案2,Laozi.,,老子。
+会试3_题目1_答案3,Mencius.,,孟子。
+会试3_题目1_答案4,Mozi.,,墨子。
+会试3_题目2_答案1,Confucius.,,孔子。
+会试3_题目2_答案2,Laozi.,,老子。
+会试3_题目2_答案3,Mencius.,,孟子。
+会试3_题目2_答案4,Mozi.,,墨子。
+会试3_题目3_答案1,Laozi.,,老子。
+会试3_题目3_答案2,Zhuangzi.,,庄子。
+会试3_题目3_答案3,Sunzi.,,孙子。
+会试3_题目3_答案4,Confucius.,,孔子。
+会试4_题目1_答案1,"""Analects of Confucius"".",,《论语》。
+会试4_题目1_答案2,"""The Doctrine of the Mean"".",,《中庸》。
+会试4_题目1_答案3,"""Mencius"".",,《孟子》。
+会试4_题目1_答案4,"""Tao Te Ching"".",,《道德经》。
+会试4_题目2_答案1,"""Analects of Confucius"".",,《论语》。
+会试4_题目2_答案2,"""The Doctrine of the Mean"".",,《中庸》。
+会试4_题目2_答案3,"""Mencius"".",,《孟子》。
+会试4_题目2_答案4,"""Tao Te Ching"".",,《道德经》。
+会试4_题目3_答案1,"""Analects of Confucius"".",,《论语》。
+会试4_题目3_答案2,"""The Doctrine of the Mean"".",,《中庸》。
+会试4_题目3_答案3,"""Mencius"".",,《孟子》。
+会试4_题目3_答案4,"""Tao Te Ching"".",,《道德经》。
+会试5_题目1_答案1,A real man is always poisonous.,,向来无毒不丈夫。
+会试5_题目1_答案2,A thousand hammers and a hundred refinements make steel.,,千锤百炼终成钢。
+会试5_题目1_答案3,There have always been few great men among the pampered.,,从来纨绔少伟男。
+会试5_题目1_答案4,Don't laugh at the young for their lack of success.,,莫笑年少不如意。
+会试5_题目2_答案1,"Know a person's face, but not their heart.",,知人知面不知心。
+会试5_题目2_答案2,The taste of the world has become as thin as gauze over the years.,,世味年来薄似纱。
+会试5_题目2_答案3,"The world has seen so much, the road to Shu is flat.",,世事经多蜀道平。
+会试5_题目2_答案4,"There are no two identical things, people's hearts are different.",,事无两样人心别。
+会试5_题目3_答案1,Don't say that old age is wasted.,,莫道老来空蹉跎。
+会试5_题目3_答案2,Don't wait for the flowers to fall before you break the branch.,,莫待无花空折枝。
+会试5_题目3_答案3,Youth does not stay for the young.,,韶华不为少年留。
+会试5_题目3_答案4,Always prevent playing with things from ruining a child's nature.,,长防玩物败儿性。
+会试6_题目1_答案1,"Spring and Autumn, no knife but beheads people.",,春秋无刀却斩人。
+会试6_题目1_答案2,Morality without roots can cultivate people.,,道德无根可树人。
+会试6_题目1_答案3,"A knife hangs over the word ""lust"".",,色字头上一把刀。
+会试6_题目1_答案4,The sun and the moon travel thousands of miles without feet.,,日月无足行万里。
+会试6_题目2_答案1,"Heaven and Earth, the sun and the moon are long.",,乾坤日月长。
+会试6_题目2_答案2,A thousand gold is not enough.,,千金不到头。
+会试6_题目2_答案3,The scent of wine floats in the deep alley.,,深巷飘酒香。
+会试6_题目2_答案4,The fragrance of flowers is not in their abundance.,,花香不在多。
+会试6_题目3_答案1,"The tones of gong, shang, jue, and zhi linger for three days.",,宫商角徵三日绕梁。
+会试6_题目3_答案2,Good ministers and generals will be remembered for a thousand years.,,贤臣良将千古流芳。
+会试6_题目3_答案3,Poetry and prose enlighten the world for a thousand years.,,诗词歌赋文启千秋。
+会试6_题目3_答案4,"Scholars, farmers, workers, and merchants all seek profit.",,士农工商唯利是图。
+会试7_题目1_答案1,"When a horse loses its front hoof, it whines in sorrow.",,马失前蹄，其鸣也悲。
+会试7_题目1_答案2,Even a dog can jump over a wall when it's desperate.,,狗到急时，也能跳墙。
+会试7_题目1_答案3,"When a person is about to die, their words are often kind.",,人之将死，其言也善。
+会试7_题目1_答案4,Even a villain speaks kindly when death is near.,,恶人将死，其言也善。
+会试7_题目2_答案1,"If words are harmonious, then actions will be successful.",,言若顺，则事必成。
+会试7_题目2_答案2,"If words are discordant, then reputation will be tarnished.",,言不顺，则名不正。
+会试7_题目2_答案3,"If reputation is upright, then words will be harmonious.",,名若正，则言必顺。
+会试7_题目2_答案4,"If words are discordant, then actions will fail.",,言不顺，则事不成。
+会试7_题目3_答案1,"If you are upright, you need not fear a crooked shadow.",,身正不怕影子斜。
+会试7_题目3_答案2,"If one's character is not upright, even commands will not be obeyed.",,其身不正，虽令不从。
+会试7_题目3_答案3,"What the superior does, the inferior will follow.",,上为之，下效之。
+会试7_题目3_答案4,"Therefore, if you want unity from top to bottom, you must be upright.",,是故欲上下同心，则其身必正。
+会试8_题目1_答案1,"Honorable people cherish courtesy, while petty people cherish gold.",,君子怀礼，小人怀金。
+会试8_题目1_答案2,"Honorable people uphold justice, while petty people seek favor.",,君子怀刑，小人怀惠。
+会试8_题目1_答案3,"Honorable people value virtue, while petty people harbor resentment.",,君子怀德，小人怀怨。
+会试8_题目1_答案4,"Honorable people treasure jade, while petty people seek profit.",,君子怀玉，小人怀利。
+会试8_题目2_答案1,"Choose the good and follow it, and change what is not good.",,择其善者而从之，其不善者而改之。
+会试8_题目2_答案2,"A teacher is one who imparts knowledge, guides learning, and solves doubts.",,师者，传道受业解惑者也。
+会试8_题目2_答案3,"Once a teacher, always a father.",,一日为师，终身为父。
+会试8_题目2_答案4,"Everyone has their strengths, do not be ashamed to ask questions.",,人各有长，不耻下问。
+会试8_题目3_答案1,"Do not fear poverty, but fear unrest.",,不患贫而患不安。
+会试8_题目3_答案2,"Do not fear harmony, but fear discord.",,不患和而患不同。
+会试8_题目3_答案3,"Do not fear sameness, but fear disharmony.",,不患同而患不和。
+会试8_题目3_答案4,"Do not fear lack of position, but fear lack of foundation.",,不患无位而患所以立。
+会试9_题目1_答案1,"The world is bustling, all for profit.",,天下攘攘，皆为利往。
+会试9_题目1_答案2,"The world is mediocre, all for salary.",,天下庸庸，皆为禄存。
+会试9_题目1_答案3,"The world is busy, all for wealth.",,天下碌碌，皆为财亡。
+会试9_题目1_答案4,"The world is spinning, all for power.",,天下绕绕，皆为权谋。
+会试9_题目2_答案1,"Mediocre people worry a thousand times, and will surely trouble themselves.",,庸者千虑，必自扰之。
+会试9_题目2_答案2,"Capable people worry once, and will never fail.",,能者一虑，万无一失。
+会试9_题目2_答案3,"Foolish people worry a thousand times, and will surely succeed once.",,愚者千虑，必有一得。
+会试9_题目2_答案4,"\n|Among a thousand worries of the patient, there must be one gain.",,患者千虑，必有一得。
+会试9_题目3_答案1,"First blood, then decline, and finally exhaustion.",,一鼓作气，再而衰，三而竭。
+会试9_题目3_答案2,"At the end of the storm, one cannot even float a feather.",,冲风之末，力不能漂鸿毛。
+会试9_题目3_答案3,"It's not that the beginning is not strong, but the end is weak.",,非初不劲，末力衰也。
+会试9_题目3_答案4,"If it's not convenient to fight, it's better to make peace.",,击之不便，不如和亲。
+会试10_题目1_答案1,Harmony among people is better than geographical advantage.,,地利不如人和。
+会试10_题目1_答案2,Those who have geographical advantage will rule the world.,,地利者得天下。
+会试10_题目1_答案3,"Those who follow the right path will have many helpers, those who lose the right path will have few.",,得道多助，失道寡助。
+会试10_题目1_答案4,"It's not that the city is not high, or the moat is not deep.",,城非不高也，池非不深也。
+会试10_题目2_答案1,"Self-inflicted disasters, cannot live.",,自作孽，不可活。
+会试10_题目2_答案2,A family must destroy itself before others destroy it.,,家必自毁，而后人毁之。
+会试10_题目2_答案3,A country must cut itself before others cut it.,,国必自伐，而后人伐之。
+会试10_题目2_答案4,Even a disaster from heaven can be defied.,,天作孽，犹可违。
+会试10_题目3_答案1,"Discern it clearly, act cautiously, think deeply.",,明辨之，慎行之，笃思之。
+会试10_题目3_答案2,"Act diligently, think carefully, discern clearly.",,笃行之，慎思之，明辨之。
+会试10_题目3_答案3,"Think carefully, discern clearly, act diligently.",,慎思之，明辨之，笃行之。
+会试10_题目3_答案4,"Discern clearly, think carefully, act diligently.",,明辨之，慎思之，笃行之。
+,,,
+儒圣馆看门对对子_题目1,Please complete the couplet: The clear wind and bright moon are priceless;,,请接下联：清风明月本无价；
+儒圣馆看门对对子_题目2,Please complete the couplet: It's hard to win when you meet a good opponent in chess;,,请接下联：棋逢敌手难相胜；
+儒圣馆看门对对子_题目3,"Please complete the couplet: There is an ancient pine at the door, and no messy stones in the courtyard;",,请接下联：门有古松庭无乱石；
+儒圣馆看门对对子_题目4,Please complete the couplet: Scooping up the moon in the water;,,请接下联：掬水月在手；
+儒圣馆看门对对子_题目1_答案1,All rivers and mountains are filled with affection.,,万水千山都是情。
+儒圣馆看门对对子_题目1_答案2,"Near the water and far from the mountain, all have feelings.",,近水远山皆有情。
+儒圣馆看门对对子_题目1_答案3,Ducks know first when the spring river is warm.,,春江水暖鸭先知。
+儒圣馆看门对对子_题目1_答案4,Blue water and Blue Mountain are a perfect match.,,碧水青山两相宜。
+儒圣馆看门对对子_题目2_答案1,"Speak not to astonish, but to the point of death.",,语不惊人死不休。
+儒圣馆看门对对子_题目2_答案2,"When meeting a good talent, don't be arrogant.",,将遇良才不敢骄。
+儒圣馆看门对对子_题目2_答案3,"In a narrow path, the brave wins.",,狭路相逢勇者胜。
+儒圣馆看门对对子_题目2_答案4,One general's success is built on ten thousand bones.,,一将功成万骨枯。
+儒圣馆看门对对子_题目3_答案1,"Autumn is suitable for the bright moon, and spring for the gentle wind.",,秋宜明月春则和风。
+儒圣馆看门对对子_题目3_答案2,There is a bright moon in the window and lotus flowers in the courtyard.,,窗有明月院有荷花。
+儒圣馆看门对对子_题目3_答案3,"People have feelings, and the world has truth and kindness.",,人有情怀世有真善。
+儒圣馆看门对对子_题目3_答案4,"Birds have their songs, and clouds have their paths.",,鸟有啼声云有行处。
+儒圣馆看门对对子_题目4_答案1,Pick up the light and shadow in the palm.,,拾光影于掌。
+儒圣馆看门对对子_题目4_答案2,Pull the wind and clouds for oneself.,,挽风云为己。
+儒圣馆看门对对子_题目4_答案3,Play with the flowers and the fragrance fills the clothes.,,弄花香满衣。
+儒圣馆看门对对子_题目4_答案4,Pick the stars and put them in the bosom.,,摘星辰入怀。
+,,,
+端午节太白楼_题目1,Who is the Dragon Boat Festival not commemorating?,,端午节不是为了纪念哪位历史名人？
+端午节太白楼_题目2,What is commonly eaten during the Dragon Boat Festival?,,端午节一般流行吃什么？
+端午节太白楼_题目3,Which activity is not a traditional custom of the Dragon Boat Festival?,,有哪个活动不是端午节的传统习俗？
+端午节太白楼_题目4,What is the significance of children wearing sachets during the Dragon Boat Festival?,,端午节小孩佩戴香囊的意义是什么？
+端午节太白楼_题目5,What flavor is the zongzi in Daliang City?,,大梁城的粽子是什么口味？
+端午节太白楼_题目1_答案1,Cao E.,,曹娥。
+端午节太白楼_题目1_答案2,Wu Zixu.,,伍子胥。
+端午节太白楼_题目1_答案3,King Zhuang of Chu.,,楚庄王。
+端午节太白楼_题目1_答案4,Qu Yuan.,,屈原。
+端午节太白楼_题目2_答案1,Eating zongzi.,,吃粽子。
+端午节太白楼_题目2_答案2,Eating dumplings.,,吃饺子。
+端午节太白楼_题目2_答案3,Eating yuanxiao.,,吃元宵。
+端午节太白楼_题目2_答案4,Eating mooncakes.,,吃月饼。
+端午节太白楼_题目3_答案1,Eating zongzi.,,吃粽子。
+端午节太白楼_题目3_答案2,Racing dragon boats.,,赛龙舟。
+端午节太白楼_题目3_答案3,Climbing high and picking chrysanthemums.,,登高采菊。
+端午节太白楼_题目3_答案4,Drinking realgar wine.,,饮雄黄酒。
+端午节太白楼_题目4_答案1,Good luck and happiness.,,吉祥如意。
+端午节太白楼_题目4_答案2,"A decoration, no special meaning.",,一种装饰，没有特殊意义。
+端午节太白楼_题目4_答案3,Cure diseases and protect oneself.,,治病防身。
+端午节太白楼_题目4_答案4,Exorcise and avoid plague.,,驱邪避瘟。
+端午节太白楼_题目5_答案1,Salty.,,咸味。
+端午节太白楼_题目5_答案2,Sweet.,,甜味。
+端午节太白楼_题目5_答案3,Tasteless.,,没味。
+端午节太白楼_题目5_答案4,None of the above.,,都不是。
+,,,
+端午节忘忧楼_题目1,When is the Dragon Boat Festival?,,端午节是哪一天？
+端午节忘忧楼_题目2,Which one is not another name for the Dragon Boat Festival?,,哪个不是端午节的别称？ 
+端午节忘忧楼_题目3,"What does the ""端"" in Dragon Boat Festival mean here?",,端午节的“端”字在这里是什么意思？
+端午节忘忧楼_题目4,What flavor is the zongzi in Lin'an City?,,霖安城的粽子是什么口味？
+端午节忘忧楼_题目5,"What are the five poisons to be eliminated during the Dragon Boat Festival, including snake, scorpion, centipede, and toad?",,端午节除五毒，蛇、蝎、蜈蚣、蟾蜍还包括什么？
+端午节忘忧楼_题目1_答案1,The fifth day of June in the lunar calendar.,,农历六月初五。
+端午节忘忧楼_题目1_答案2,The fifth day of June in the solar calendar.,,阳历六月初五。
+端午节忘忧楼_题目1_答案3,The fifth day of May in the solar calendar.,,阳历五月初五。
+端午节忘忧楼_题目1_答案4,The fifth day of May in the lunar calendar.,,农历五月初五。
+端午节忘忧楼_题目2_答案1,May Festival.,,五月节。
+端午节忘忧楼_题目2_答案2,Iris Festival.,,菖蒲节。
+端午节忘忧楼_题目2_答案3,June Festival.,,六月节。
+端午节忘忧楼_题目2_答案4,Orchid Bathing Festival.,,沐兰节。
+端午节忘忧楼_题目3_答案1,Upright.,,端正。
+端午节忘忧楼_题目3_答案2,Beginning.,,开端。
+端午节忘忧楼_题目3_答案3,End.,,末端。
+端午节忘忧楼_题目3_答案4,Holding.,,端着。
+端午节忘忧楼_题目4_答案1,Salty.,,咸味。
+端午节忘忧楼_题目4_答案2,Sweet.,,甜味。
+端午节忘忧楼_题目4_答案3,Tasteless.,,没味。
+端午节忘忧楼_题目4_答案4,None of the above.,,都不是。
+端午节忘忧楼_题目5_答案1,Gecko.,,壁虎。
+端午节忘忧楼_题目5_答案2,Caterpillar.,,毛毛虫。
+端午节忘忧楼_题目5_答案3,Spider.,,蜘蛛。
+端午节忘忧楼_题目5_答案4,Mouse.,,老鼠。
+,,,
+端午节繁华似锦楼_题目1,What is the significance of the ancient people drinking realgar wine during the Dragon Boat Festival?,,古人端午节涂饮雄黄酒的意义是？
+端午节繁华似锦楼_题目2,What flavor is the zongzi in Chuxiang City?,,楚襄城的粽子是什么口味？
+端午节繁华似锦楼_题目3,What are the four traditional festivals?,,四大传统节日是哪几个？
+端午节繁华似锦楼_题目4,Which totem worship from the ancient times did the Dragon Boat Festival originally evolve from?,,端午节最早是由上古时代哪个图腾祭祀演变而来？
+端午节繁华似锦楼_题目5,What are the flowers and plants used for exorcism and disease prevention during the Dragon Boat Festival?,,端午节布置的可驱邪祛病的花草是什么？
+端午节繁华似锦楼_题目1_答案1,Detoxify.,,解毒。
+端午节繁华似锦楼_题目1_答案2,Commemorate the White Snake.,,纪念白蛇。
+端午节繁华似锦楼_题目1_答案3,Exorcise and avoid plague.,,驱邪避瘟。
+端午节繁华似锦楼_题目1_答案4,Good luck and happiness.,,吉祥幸福。
+端午节繁华似锦楼_题目2_答案1,Salty.,,咸味。
+端午节繁华似锦楼_题目2_答案2,Sweet.,,甜味。
+端午节繁华似锦楼_题目2_答案3,Spicy flavor.,,辣味。
+端午节繁华似锦楼_题目2_答案4,None of the above.,,都不是。
+端午节繁华似锦楼_题目3_答案1,"New Year's Day, Spring Festival, Mid-Autumn Festival, National Day.",,元旦 春节 中秋 国庆。
+端午节繁华似锦楼_题目3_答案2,"Spring Festival, Qingming Festival, Dragon Boat Festival, Mid-Autumn Festival.",,春节 清明 端午 中秋。
+端午节繁华似锦楼_题目3_答案3,"New Year's Day, Spring Festival, Lantern Festival, Mid-Autumn Festival.",,元旦 春节 元宵 中秋。
+端午节繁华似锦楼_题目3_答案4,"Spring Festival, Dragon Boat Festival, Mid-Autumn Festival, Double Ninth Festival.",,春节 端午 中秋 重阳。
+端午节繁华似锦楼_题目4_答案1,Bai Ze.,,白泽。
+端午节繁华似锦楼_题目4_答案2,Loong.,,龙。
+端午节繁华似锦楼_题目4_答案3,Phoenix.,,凤凰。
+端午节繁华似锦楼_题目4_答案4,Kylin.,,麒麟。
+端午节繁华似锦楼_题目5_答案1,Rose.,,月季。
+端午节繁华似锦楼_题目5_答案2,Devil's Ivy.,,绿萝。
+端午节繁华似锦楼_题目5_答案3,Mugwort.,,艾草。
+端午节繁华似锦楼_题目5_答案4,Rose.,,蔷薇。
+,,,
+儒圣馆文人闹事_题目1,"Please complete the couplet: ""The moon under the water is the moon in the sky.""",,请接下联：“水底月为天上月。”
+儒圣馆文人闹事_题目2,"Please complete the couplet: ""The sky is a chessboard and the stars are the pieces, the sun and the moon compete for light.""",,请接下联：“天作棋盘星作子，日月争光。”
+儒圣馆文人闹事_题目3,"Please complete the couplet: ""The door faces a thousand bamboo.""",,请接下联：“门对千根竹。”
+儒圣馆文人闹事_题目4,"Please complete the couplet: ""Because of the lotus, we get the lotus root.""",,请接下联：“因荷而得藕。”
+儒圣馆文人闹事_题目5,"Please complete the couplet: ""Thinking of getting old before getting old.""",,请接下联：“未老思阁老。”
+儒圣馆文人闹事_题目6,"Please complete the couplet: ""The green water has no worries, but the wind wrinkles its face.""",,请接下联：“绿水本无忧，因风皱面。”
+儒圣馆文人闹事_题目7,"Please complete the couplet: ""Who was it that crawled through the dog hole to steal peaches yesterday?""",,请接下联：“昨日钻狗洞偷桃，不知是谁？”
+儒圣馆文人闹事_题目8,"Please complete the couplet: ""A big belly can tolerate things that the world cannot tolerate.""",,请接下联：“大肚能容，容天下难容之事。”
+儒圣馆文人闹事_题目9,"Please complete the couplet: ""The bright moon in the sky illuminates the three thousand realms.""",,请接下联：“天空明月三千界。”
+儒圣馆文人闹事_题目10,"Please complete the couplet: ""The chrysanthemum in golden autumn defies frost.""",,请接下联：“菊花金秋傲霜。”
+儒圣馆文人闹事_题目11,"Please complete the couplet: ""The New Year brings extra celebrations.""",,请接下联：“新年纳余庆。”
+儒圣馆文人闹事_题目12,"Please complete the couplet: ""The landscape of thousands of miles is like a brocade.""",,请接下联：“万里河山铺锦绣。”
+儒圣馆文人闹事_题目13,"Please complete the couplet: ""The lights of thousands of households are as bright as the autumn moon.""",,请接下联：“万家灯火同秋月。”
+儒圣馆文人闹事_题目14,"Please complete the couplet: ""The jade swallow welcomes spring, and spring always comes.""",,请接下联：“玉燕迎春春常到。”
+儒圣馆文人闹事_题目15,"Please complete the couplet: ""The spring lanterns of thousands of households celebrate the Lantern Festival.""",,请接下联：“万户春灯报元夜。”
+儒圣馆文人闹事_题目16,"Please complete the couplet: ""As the heavens add to the years, people add to their lives.""",,请接下联：“天增岁月人增寿。”
+儒圣馆文人闹事_题目17,"Please complete the couplet: ""This wood is firewood from the mountains.""",,请接下联：“此木为柴山山出。”
+儒圣馆文人闹事_题目18,"Please complete the couplet: ""Cordyceps sinensis has nine layers of skin.""",,请接下联：“冬虫夏草九重皮。”
+儒圣馆文人闹事_题目19,"Please complete the couplet: ""Once a person was a monk, but he could not become a Buddha?""",,请接下联：“人曾是僧，人弗能成佛？”
+儒圣馆文人闹事_题目20,"Please complete the couplet: ""The thatched cottage leaves a legacy for future generations.""",,请接下联：“草堂留后世。”
+儒圣馆文人闹事_题目21,"Please complete the couplet: ""Green and red everywhere, swallows and orioles everywhere.""",,请接下联：“绿绿红红处处莺莺燕燕。”
+儒圣馆文人闹事_题目22,"Please complete the couplet: ""Two, three, four, five.""",,请接下联：“二三四五。”
+儒圣馆文人闹事_题目23,"Please complete the couplet: ""No tin in Wuxi, no tin in Wuxi Mountain.""",,请接下联：“无锡锡山山无锡。”
+儒圣馆文人闹事_题目24,"Please complete the couplet: ""The tower lights up, layer upon layer of Kongming.""",,请接下联：“塔楼亮灯，层层孔明。”
+儒圣馆文人闹事_题目25,"Please complete the couplet: ""One sheep leads two lambs.""",,请接下联：“一羊引双羔。”
+儒圣馆文人闹事_题目26,"Please complete the couplet: ""Blue Mountain is fortunate to bury loyal bones.""",,请接下联：“青山有幸埋忠骨。”
+儒圣馆文人闹事_题目27,"Please complete the couplet: ""The silkworm is the insect of the world.""",,请接下联：“蚕为天下虫。”
+儒圣馆文人闹事_题目28,"Please complete the couplet: ""The green water has no worries, but the wind wrinkles its face.""",,请接下联：“绿水本无忧，因风皱面。”
+儒圣馆文人闹事_题目29,"Please complete the couplet: ""The bright moon in the sky illuminates the three thousand realms.""",,请接下联：“天空明月三千界。”
+儒圣馆文人闹事_题目1_答案1,The Sky Pavilion is the Cloud Pavilion.,,空中阁是云中阁。
+儒圣馆文人闹事_题目1_答案2,The flower in the mirror is the flower in the water.,,镜中花是水中花。
+儒圣馆文人闹事_题目1_答案3,The person in the eye is the person in front.,,眼中人是面前人。
+儒圣馆文人闹事_题目1_答案4,The love in the dream is the love in the heart.,,梦里情是心中情。
+儒圣馆文人闹事_题目2_答案1,"Snow is the silver screen, clouds are the curtains, the mountains and rivers are magnificent.",,雪为银屏云为帐，山河壮丽。
+儒圣馆文人闹事_题目2_答案2,"Thunder is the war drum, lightning is the flag, the wind and clouds meet.",,雷为战鼓电为旗，风云际合。
+儒圣馆文人闹事_题目2_答案3,"Fire is the Flame Emperor, water is the king, the weather is varied.",,火为炎帝水为王，气象万千。
+儒圣馆文人闹事_题目2_答案4,"Wind is the horse's head, rain is the whip, the spirit is thunderous.",,风为马头雨为鞭，雷霆万钧。
+儒圣馆文人闹事_题目3_答案1,A hundred paintings hang in the hall.,,堂悬百幅画。
+儒圣馆文人闹事_题目3_答案2,Ten thousand books are stored in the house.,,家藏万卷书。
+儒圣馆文人闹事_题目3_答案3,Half an acre of flowers are planted in the room.,,房插半亩花。
+儒圣馆文人闹事_题目3_答案4,Four maps are pasted on the wall.,,墙贴四方图。
+儒圣馆文人闹事_题目4_答案1,Plant chrysanthemums without seeking lotus.,,种菊不求荷。
+儒圣馆文人闹事_题目4_答案2,See peaches without thinking of plums.,,见桃不念李。
+儒圣馆文人闹事_题目4_答案3,Have apricots without needing plums.,,有杏不须梅。
+儒圣馆文人闹事_题目4_答案4,Get lotus without asking for lotus root.,,得莲不问藕。
+儒圣馆文人闹事_题目5_答案1,"Without talent, become a scholar.",,无才做秀才。
+儒圣馆文人闹事_题目5_答案2,"Without learning, become a famous scholar.",,不学成名士。
+儒圣馆文人闹事_题目5_答案3,Have ambition to become a teacher.,,有志当先生。
+儒圣馆文人闹事_题目5_答案4,A wise wife comes with age.,,老来得贤妻。
+儒圣馆文人闹事_题目6_答案1,"Blue Mountain is not old, but its snow is white.",,青山原不老，为雪白头。
+儒圣馆文人闹事_题目6_答案2,"Safflower has its own fragrance, because of the butterfly's graceful dance.",,红花自有香，因蝶舞翩翩。
+儒圣馆文人闹事_题目6_答案3,"White clouds have no fixed shape, they change with the wind.",,白云无定形，随风变幻化。
+儒圣馆文人闹事_题目6_答案4,"The Yellow River often has waves, because of the soil and sand.",,黄河常有澜，因土涌泥沙。
+儒圣馆文人闹事_题目7_答案1,Who knows about the carp that jumped over the dragon gate in the past?,,昔日逃龙门跃鲤，何人知晓。
+儒圣馆文人闹事_题目7_答案2,Isn't it you who climbed the moon platform to pick apricots at this time?,,此时登月台摘杏，岂非是尔。
+儒圣馆文人闹事_题目7_答案3,"In the future, when I climb the moon palace to pick osmanthus, I will definitely be there.",,他年步蟾宫攀桂，必定有我。
+儒圣馆文人闹事_题目7_答案4,"In the future, when I climb the phoenix tower to look at the immortals, I will definitely not be there.",,来日登凤阁望仙，定然无我。
+儒圣馆文人闹事_题目8_答案1,"Proudly, there are glorious things for the country.",,含胸自豪，有国家光荣之事。
+儒圣馆文人闹事_题目8_答案2,"With a wave of the hand, it's a farewell, leaving behind the hard-to-let-go feelings of the world.",,挥手即别，舍尘间难舍之情。
+儒圣馆文人闹事_题目8_答案3,"With a glance, you can see the wonders of the world.",,抬眼便看，见天地奇观之景。
+儒圣馆文人闹事_题目8_答案4,"With a laugh, you laugh at the ridiculous people in the world.",,开口便笑，笑世间可笑之人。
+儒圣馆文人闹事_题目9_答案1,People are drunk in the spring breeze on the twelfth floor.,,人醉春风十二楼。
+儒圣馆文人闹事_题目9_答案2,The ground is moist and the flowers are fragrant in all four seasons.,,地润花香四季春。
+儒圣馆文人闹事_题目9_答案3,The water is clear and the fish jump in the nine-bend river.,,水清鱼跃九曲河。
+儒圣馆文人闹事_题目9_答案4,The mountains are green and the birds sing in the eight winds.,,山青鸟语八方风。
+儒圣馆文人闹事_题目10_答案1,Orchids are fragrant in the summer garden.,,兰花夏香满园。
+儒圣馆文人闹事_题目10_答案2,Plum blossoms fight the snow in the deep winter.,,梅花隆冬斗雪。
+儒圣馆文人闹事_题目10_答案3,Lotus comes out of the waves in early summer.,,莲花初夏出波。
+儒圣馆文人闹事_题目10_答案4,Peach blossoms laugh at the east wind in spring.,,桃花春笑东风。
+儒圣馆文人闹事_题目11_答案1,Enjoy mooncakes during the Mid-Autumn Festival.,,中秋品月饼。
+儒圣馆文人闹事_题目11_答案2,Celebrate the New Year during the Spring Festival.,,春节报新禧。
+儒圣馆文人闹事_题目11_答案3,Enjoy the lanterns and the moon during the Lantern Festival.,,元宵赏灯月。
+儒圣馆文人闹事_题目11_答案4,Celebrate the long spring during the festival.,,佳节号长春。
+儒圣馆文人闹事_题目12_答案1,Songs and dances celebrate the prosperous times in all four seas.,,四海歌舞贺盛世。
+儒圣馆文人闹事_题目12_答案2,The whole city is filled with music and joy in times of peace.,,满城笙管乐太平。
+儒圣馆文人闹事_题目12_答案3,The people live in peace and enjoy a bountiful year.,,百姓安居享丰年。
+儒圣馆文人闹事_题目12_答案4,Laughter is shared across the five lakes and four seas.,,五湖四海同欢笑。
+儒圣馆文人闹事_题目13_答案1,Family love is shared across a thousand miles.,,千里亲情共圆缺。
+儒圣馆文人闹事_题目13_答案2,The earth is bright and the night is never dark.,,大地光明不夜天。
+儒圣馆文人闹事_题目13_答案3,Stars from all directions accompany the Mid-Autumn Festival.,,四方星辰伴中秋。
+儒圣馆文人闹事_题目13_答案4,Blessings from all directions are sent to the bright moon.,,八方祝福寄明月。
+儒圣馆文人闹事_题目14_答案1,The phoenix presents auspicious signs.,,珠凤呈祥祥瑞临。
+儒圣馆文人闹事_题目14_答案2,The jade rabbit delivers the full moon.,,玉兔送月月满园。
+儒圣馆文人闹事_题目14_答案3,The silver heron brings warmth to the returning people.,,银鹭送暖暖归人。
+儒圣馆文人闹事_题目14_答案4,The golden bird brings joy to the welcoming door.,,金雀报喜喜迎门。
+儒圣馆文人闹事_题目15_答案1,All families are happy when they are reunited.,,百家团圆乐团圆。
+儒圣馆文人闹事_题目15_答案2,A thousand miles of ice has not yet melted.,,千里冰封寒未消。
+儒圣馆文人闹事_题目15_答案3,Colorful clouds reflect the festival from all directions.,,十方彩霞映佳节。
+儒圣馆文人闹事_题目15_答案4,A day of auspicious snow signifies a bountiful year.,,一天瑞雪兆丰年。
+儒圣馆文人闹事_题目16_答案1,"The moon is full and the flowers are beautiful, everything goes as wished.",,月圆花好事如意。
+儒圣馆文人闹事_题目16_答案2,"Spring fills Heaven and Earth, and blessings fill the hall.",,春满乾坤福满堂。
+儒圣馆文人闹事_题目16_答案3,With age comes virtue and constant fortune.,,年高德厚禄常随。
+儒圣馆文人闹事_题目16_答案4,"The days are long, the wind is gentle, and the atmosphere is peaceful.",,日长风和气长安。
+儒圣馆文人闹事_题目17_答案1,Flowers bloom from the soil.,,由土生花花花开。
+儒圣馆文人闹事_题目17_答案2,Sounds come from the wind.,,从风得声声声响。
+儒圣馆文人闹事_题目17_答案3,Smoke is produced by fire.,,因火成烟夕夕多。
+儒圣馆文人闹事_题目17_答案4,Waves are created by water.,,为水成波澜澜起。
+儒圣馆文人闹事_题目18_答案1,Stone heart and fire eyes have souls.,,石心火眼有灵魂。
+儒圣馆文人闹事_题目18_答案2,Iron branches and silver leaves have no trunk.,,铁枝银叶无枝干。
+儒圣馆文人闹事_题目18_答案3,Wood bones and ice skin have no blood vessels.,,木骨冰肤无血脉。
+儒圣馆文人闹事_题目18_答案4,Jade leaves and golden flowers have the same root.,,玉叶金花一条根。
+儒圣馆文人闹事_题目19_答案1,"Grain and fire make autumn, and the sun dries the grain to make it fragrant.",,禾火为秋，禾日晒成香。
+儒圣馆文人闹事_题目19_答案2,"Snow and water make winter, and the moon shines on the cold river.",,雪水为冬，雪月照寒江。
+儒圣馆文人闹事_题目19_答案3,"Fruit and wind make summer, and the sun ripens the sweet fruit.",,果风为夏，果阳熟甜美。
+儒圣馆文人闹事_题目19_答案4,"Flowers and rain make spring, and the wind blows the flowers all over the garden.",,花雨为春，花风吹满园。
+儒圣馆文人闹事_题目20_答案1,Fame resounds in all directions.,,声名响四方。
+儒圣馆文人闹事_题目20_答案2,The painter's name is passed down through generations.,,画家传万代。
+儒圣馆文人闹事_题目20_答案3,Culture flourishes in the eight deserts.,,文化兴八荒。
+儒圣馆文人闹事_题目20_答案4,The poet's works last for a thousand autumns.,,诗圣著千秋。
+儒圣馆文人闹事_题目21_答案1,"Honor and disgrace, everything is in everyone's heart.",,荣荣辱辱事事人人心心。
+儒圣馆文人闹事_题目21_答案2,"Birds and beasts, everywhere there are mountains and waters.",,鸟鸟兽兽处处山山水水。
+儒圣馆文人闹事_题目21_答案3,"Spring and Autumn, every day and every month.",,春春秋秋时时日日月月。
+儒圣馆文人闹事_题目21_答案4,"Flowers and grass, every year and every morning and evening.",,花花草草年年暮暮朝朝。
+儒圣馆文人闹事_题目22_答案1,Three and four.,,三三四四。
+儒圣馆文人闹事_题目22_答案2,One and two.,,一一二二。
+儒圣馆文人闹事_题目22_答案3,"Six, seven, eight, nine.",,六七八九。
+儒圣馆文人闹事_题目22_答案4,Ten and a hundred.,,十十百百。
+儒圣馆文人闹事_题目23_答案1,Taihu Lake is an island in Taihu Lake.,,太湖湖岛岛太湖。
+儒圣馆文人闹事_题目23_答案2,The Yellow River is a loop in the Yellow River.,,黄河河套套黄河。
+儒圣馆文人闹事_题目23_答案3,The Yangtze River is a mouth in the Yangtze River.,,长江江口口长江。
+儒圣馆文人闹事_题目23_答案4,Dongting Lake is a lake in Dongting.,,洞庭庭湖湖洞庭。
+儒圣馆文人闹事_题目24_答案1,"Digging lotus roots in the lotus pond, each section is as white as Bai Juyi.",,荷塘抠藕，节节太白。
+儒圣馆文人闹事_题目24_答案2,"Planting flowers in the flower garden, each one is as beautiful as Li Bai.",,花园种花，朵朵李白。
+儒圣馆文人闹事_题目24_答案3,"Buying lanterns in the lantern market, each one is as bright as the moon.",,灯市买灯，盏盏明月。
+儒圣馆文人闹事_题目24_答案4,"Fishing on the stone bridge, each rod is as clever as Zhuge.",,石桥钓鱼，杆杆诸葛。
+儒圣馆文人闹事_题目25_答案1,Five dogs share four bones.,,五狗分四骨。
+儒圣馆文人闹事_题目25_答案2,Four chickens lay three eggs.,,四鸡下三蛋。
+儒圣馆文人闹事_题目25_答案3,Three cows plow two acres.,,三牛耕二亩。
+儒圣馆文人闹事_题目25_答案4,Two pigs share one trough.,,两猪共一槽。
+儒圣馆文人闹事_题目26_答案1,The yellow soil can't bury the wise.,,黄土难容埋贤士。
+儒圣馆文人闹事_题目26_答案2,The green water is heartless and drowns the righteous.,,碧水无情淹义士。
+儒圣馆文人闹事_题目26_答案3,White iron is innocent and casts the flatterer.,,白铁无辜铸佞臣。
+儒圣馆文人闹事_题目26_答案4,Red clay can't bear to burn the sage.,,红泥不堪烧圣人。
+儒圣馆文人闹事_题目27_答案1,The shrimp is the dragon in the water.,,虾为水里龙。
+儒圣馆文人闹事_题目27_答案2,The butterfly is the guest in the flower.,,蝶为花中客。
+儒圣馆文人闹事_题目27_答案3,The swan is a bird by the river.,,鸿是江边鸟。
+儒圣馆文人闹事_题目27_答案4,The bee is the king in the honey.,,蜂为蜜中王。
+儒圣馆文人闹事_题目28_答案1,"Blue Mountain is not old, but its snow is white.",,青山原不老，为雪白头。
+儒圣馆文人闹事_题目28_答案2,"Safflower has its own fragrance, and the butterfly dances gracefully.",,红花自有香，蝶舞翩翩。
+儒圣馆文人闹事_题目28_答案3,"White clouds have no fixed shape, they change with the wind.",,白云无定形，随风幻化。
+儒圣馆文人闹事_题目28_答案4,"The Yellow River often has waves, because of the soil and sand.",,黄河常有澜，因土涌沙。
+儒圣馆文人闹事_题目29_答案1,The water is clear and the fish jump in the nine-bend river.,,水清鱼跃九曲河。
+儒圣馆文人闹事_题目29_答案2,The mountains are green and the birds sing in the eight winds.,,山青鸟语八方风。
+儒圣馆文人闹事_题目29_答案3,The ground is moist and the flowers are fragrant in all four seasons.,,地润花香四季春。
+儒圣馆文人闹事_题目29_答案4,People are drunk in the spring breeze on the twelfth floor.,,人醉春风十二楼。
+,,,
+哑巴老太太猜字_题目1,Lost its heart,,失其心也
+哑巴老太太猜字_题目2,The sun rises in the east,,旭日东升
+哑巴老太太猜字_题目3,Hand without an inch of iron,,手无寸铁
+哑巴老太太猜字_题目4,Brothers and sisters,,兄弟姐妹
+哑巴老太太猜字_题目5,Thousands of words,,千言万语
+哑巴老太太猜字_题目6,Collusion between the top and the bottom,,上下串通
+哑巴老太太猜字_题目7,January 7th,,一月七日
+哑巴老太太猜字_题目8,Arrow Through the Heart,,一箭穿心
+哑巴老太太猜字_题目9,A Sudden Move,,迁来一口
+哑巴老太太猜字_题目10,Out of Place,,不在其位
+哑巴老太太猜字_题目11,Extra Generous,,格外大方
+哑巴老太太猜字_题目12,Beyond the Blue Mountain,,山外青山
+哑巴老太太猜字_题目13,The Emperor's New Clothes,,皇帝新装
+哑巴老太太猜字_题目14,One Big Two Small,,一大二小
+哑巴老太太猜字_题目15,Wave Goodbye,,挥手告别
+哑巴老太太猜字_题目1_答案1,Total,,共
+哑巴老太太猜字_题目1_答案2,Field,,田
+哑巴老太太猜字_题目1_答案3,Must,,必
+哑巴老太太猜字_题目1_答案4,Two,,二
+哑巴老太太猜字_题目2_答案1,Nine,,九
+哑巴老太太猜字_题目2_答案2,Day,,日
+哑巴老太太猜字_题目2_答案3,Mouth,,口
+哑巴老太太猜字_题目2_答案4,One,,一
+哑巴老太太猜字_题目3_答案1,Control,,控
+哑巴老太太猜字_题目3_答案2,Gold,,金
+哑巴老太太猜字_题目3_答案3,Empty,,空
+哑巴老太太猜字_题目3_答案4,Hit,,打
+哑巴老太太猜字_题目4_答案1,Catch,,捉
+哑巴老太太猜字_题目4_答案2,Many,,多
+哑巴老太太猜字_题目4_答案3,Argue,,吵
+哑巴老太太猜字_题目4_答案4,Peace,,平
+哑巴老太太猜字_题目5_答案1,Mouth,,口
+哑巴老太太猜字_题目5_答案2,Enough,,够
+哑巴老太太猜字_题目5_答案3,Five,,五
+哑巴老太太猜字_题目5_答案4,Ten,,十
+哑巴老太太猜字_题目6_答案1,One,,一
+哑巴老太太猜字_题目6_答案2,Card,,卡
+哑巴老太太猜字_题目6_答案3,Ten,,十
+哑巴老太太猜字_题目6_答案4,Mouth,,口
+哑巴老太太猜字_题目7_答案1,Ten,,十
+哑巴老太太猜字_题目7_答案2,Fat,,脂
+哑巴老太太猜字_题目7_答案3,Mouth,,口
+哑巴老太太猜字_题目7_答案4,Wax,,腊
+哑巴老太太猜字_题目8_答案1,Ten,,十
+哑巴老太太猜字_题目8_答案2,Must,,必
+哑巴老太太猜字_题目8_答案3,Small,,小
+哑巴老太太猜字_题目8_答案4,Die,,死
+哑巴老太太猜字_题目9_答案1,Thousand,,千
+哑巴老太太猜字_题目9_答案2,Meow,,咪
+哑巴老太太猜字_题目9_答案3,Fit,,适
+哑巴老太太猜字_题目9_答案4,Tongue,,舌
+哑巴老太太猜字_题目10_答案1,One,,一
+哑巴老太太猜字_题目10_答案2,Soil,,土
+哑巴老太太猜字_题目10_答案3,Stand,,立
+哑巴老太太猜字_题目10_答案4,People,,人
+哑巴老太太猜字_题目11_答案1,Mouth,,口
+哑巴老太太猜字_题目11_答案2,Day,,日
+哑巴老太太猜字_题目11_答案3,Return,,回
+哑巴老太太猜字_题目11_答案4,Lu,,吕
+哑巴老太太猜字_题目12_答案1,Green,,绿
+哑巴老太太猜字_题目12_答案2,Three,,三
+哑巴老太太猜字_题目12_答案3,Yue,,岳
+哑巴老太太猜字_题目12_答案4,Out,,出
+哑巴老太太猜字_题目13_答案1,Naked,,裸
+哑巴老太太猜字_题目13_答案2,Pretty,,靓
+哑巴老太太猜字_题目13_答案3,,,无
+哑巴老太太猜字_题目13_答案4,Attack,,袭
+哑巴老太太猜字_题目14_答案1,Soil,,土
+哑巴老太太猜字_题目14_答案2,People,,人
+哑巴老太太猜字_题目14_答案3,Dust,,尘
+哑巴老太太猜字_题目14_答案4,Nai,,奈
+哑巴老太太猜字_题目15_答案1,Mouth,,口
+哑巴老太太猜字_题目15_答案2,Another,,另
+哑巴老太太猜字_题目15_答案3,Knife,,刀
+哑巴老太太猜字_题目15_答案4,Army,,军
+,,,
+儒圣馆答疑解惑_题目1,"What does the ""shoe"" in ""Zheng people buy shoes"" mean?",,“郑人买履”的履是什么意思？
+儒圣馆答疑解惑_题目2,What is the origin of eating mooncakes during the Mid-Autumn Festival?,,中秋节吃月饼的来历是什么？
+儒圣馆答疑解惑_题目3,"What does ""coming but not going is impolite"" mean?",,“来而不往非礼也”是什么意思？
+儒圣馆答疑解惑_题目4,"What does the ""autumn"" in ""one day three autumns"" mean?",,“一日三秋”的秋是什么意思？
+儒圣馆答疑解惑_题目5,Why do we race dragon boats during the Dragon Boat Festival?,,端午节为什么要赛龙舟？
+儒圣馆答疑解惑_题目6,"Which book does ""A journey of a thousand miles begins with a single step"" come from?",,“千里之行始于足下”出自哪本书？
+儒圣馆答疑解惑_题目7,"Which dynasty did the ""Spring Festival"" originate from?",,“春节”起源于什么朝代
+儒圣馆答疑解惑_题目8,"What are the ""three obediences"" in ""three obediences and four virtues""?",,“三从四德”中的三从是什么？
+儒圣馆答疑解惑_题目9,"What does the ""joy"" in ""it's better to enjoy together than alone"" mean?",,“独乐乐不如众乐乐”的乐乐是什么意思？
+儒圣馆答疑解惑_题目10,"What does the ""drum"" in ""First blood"" mean?",,“一鼓作气”的鼓是什么意思？
+儒圣馆答疑解惑_题目11,"What does the ""autumn"" in ""a day without seeing you feels like three autumns"" mean?",,“一日不见如隔三秋”的秋是什么意思？
+儒圣馆答疑解惑_题目12,"Whose residence is the ""thatched cottage"" in ""three visits to the thatched cottage""?",,“三顾茅庐”的茅庐是谁的住所？
+儒圣馆答疑解惑_题目13,"Who is the author of ""Sing loudly in the day and must be drunk""?",,“白日放歌须纵酒”的作者是谁？
+儒圣馆答疑解惑_题目14,"What does the ""eye"" in ""painting the dragon and dotting the eye"" mean?",,“画龙点睛”的睛是什么意思？
+儒圣馆答疑解惑_题目15,"What does the ""worry"" in ""those who do not worry about the future must have immediate worries"" mean?",,“人无远虑必有近忧”的虑是什么意思？
+儒圣馆答疑解惑_题目16,"What does the ""gold"" in ""a word worth a thousand gold"" mean?",,“一字千金”的金是什么意思？
+儒圣馆答疑解惑_题目17,"What are the four books in ""Four Books and Five Classics""?",,“四书五经”中的四书是哪四本书？
+儒圣馆答疑解惑_题目18,"What does the ""cry"" in ""a cry that shocks everyone"" mean?",,“一鸣惊人”的鸣是什么意思？
+儒圣馆答疑解惑_题目19,"What does the ""peach and plum"" in ""peach and plum do not speak, but a path is formed beneath them"" mean?",,“桃李不言下自成蹊”的桃李是什么意思？
+儒圣馆答疑解惑_题目20,"What does the ""pot"" in ""break the pots and sink the boats"" mean?",,“破釜沉舟”的釜是什么意思？
+儒圣馆答疑解惑_题目21,"What does the ""silk"" in ""the spring silkworm may not stop until death, the silk it spits out until the end"" mean?",,“春蚕到死丝方尽”的丝是什么意思？
+儒圣馆答疑解惑_题目22,"What does the ""water"" in ""a belt of water"" mean?",,“一衣带水”的水是什么意思？
+儒圣馆答疑解惑_题目23,"What does the ""flower"" in ""a flower, a world"" mean?",,“一花一世界”的花是什么意思？
+儒圣馆答疑解惑_题目24,Why do we eat Tangyuan during the Lantern Festival?,,“元宵节”为什么要吃汤圆？
+儒圣馆答疑解惑_题目25,"What does the ""sea"" in ""all within the four seas are brothers"" mean?",,“四海之内皆兄弟”的海是什么意思？
+儒圣馆答疑解惑_题目26,"What does the ""firewood"" in ""sleep on brushwood and taste gall"" mean?",,“卧薪尝胆”的薪是什么意思？
+儒圣馆答疑解惑_题目27,"What does the ""cup"" in ""seeing a bow in a cup as a snake"" mean?",,“杯弓蛇影”的杯是什么意思？
+儒圣馆答疑解惑_题目28,"What does the ""see"" in ""seeing is believing"" mean?",,“百闻不如一见”的见是什么意思？
+儒圣馆答疑解惑_题目29,"Which three countries are in ""Romance of the Three Kingdoms""?",,“三国演义”中的三国是哪三个国家？
+儒圣馆答疑解惑_题目30,"What does the ""cave"" in ""without entering the tiger's den, how can one get the tiger's cub"" mean?",,“不入虎穴焉得虎子”的穴是什么意思？
+儒圣馆答疑解惑_题目31,"What does the ""morning"" in ""the plan of a day lies in the morning"" mean?",,“一日之计在于晨”的晨是什么意思？
+儒圣馆答疑解惑_题目32,Why do we wear sachets during the Dragon Boat Festival?,,“端午节”为什么要佩戴香包？
+儒圣馆答疑解惑_题目1_答案1,It refers to the foot.,,是指脚。
+儒圣馆答疑解惑_题目1_答案2,It refers to the road.,,是指路。
+儒圣馆答疑解惑_题目1_答案3,It refers to the shoes.,,是指鞋子。
+儒圣馆答疑解惑_题目1_答案4,It refers to the car.,,是指车。
+儒圣馆答疑解惑_题目2_答案1,Offerings for the moon god.,,祭祀月神的供品。
+儒圣馆答疑解惑_题目2_答案2,A signal for the uprising against the Yuan Dynasty.,,纪念反抗元朝的起义信号。
+儒圣馆答疑解惑_题目2_答案3,Symbolizes reunion.,,象征团圆的寓意。
+儒圣馆答疑解惑_题目2_答案4,A method of using surplus grain.,,利用余粮的方法。
+儒圣馆答疑解惑_题目3_答案1,It's impolite not to return a gift.,,收到别人礼物而不回礼，会不礼貌。
+儒圣馆答疑解惑_题目3_答案2,It's impolite not to attend when invited.,,别人邀请而不去赴约，会不礼貌。
+儒圣馆答疑解惑_题目3_答案3,It's impolite not to thank for help.,,别人给予帮助而不感谢，会不礼貌。
+儒圣馆答疑解惑_题目3_答案4,It's impolite not to correct after criticism.,,别人提出批评而不改正，会不礼貌。
+儒圣馆答疑解惑_题目4_答案1,Refers to the fruit on a tree.,,是指一棵树上的果实。
+儒圣馆答疑解惑_题目4_答案2,Refers to the later years of life.,,是指一生中的晚年。
+儒圣馆答疑解惑_题目4_答案3,Refers to the result of a matter.,,是指一件事情的结果。
+儒圣馆答疑解惑_题目4_答案4,Refers to the autumn of a year.,,是指一年中的秋天。
+儒圣馆答疑解惑_题目5_答案1,Pray for good weather.,,祈求风调雨顺。
+儒圣馆答疑解惑_题目5_答案2,Show off water skills.,,展示水上技艺。
+儒圣馆答疑解惑_题目5_答案3,Commemorate Qu Yuan's suicide by jumping into the river.,,纪念屈原投江自尽。
+儒圣馆答疑解惑_题目5_答案4,Banish water monsters.,,驱赶水中妖怪。
+儒圣馆答疑解惑_题目6_答案1,"From ""Mencius"".",,出自《孟子》。
+儒圣馆答疑解惑_题目6_答案2,"From ""Laozi"".",,出自《老子》。
+儒圣馆答疑解惑_题目6_答案3,"From ""Analects of Confucius"".",,出自《论语》。
+儒圣馆答疑解惑_题目6_答案4,"From ""Zhuangzi"".",,出自《庄子》。
+儒圣馆答疑解惑_题目7_答案1,Tang Dynasty.,,唐朝。
+儒圣馆答疑解惑_题目7_答案2,Yuan Dynasty.,,元朝。
+儒圣馆答疑解惑_题目7_答案3,Ming Dynasty.,,明朝。
+儒圣馆答疑解惑_题目7_答案4,Shang Dynasty.,,殷商时期。
+儒圣馆答疑解惑_题目8_答案1,"Children should obey their father, mother, and teacher.",,儿女要从父、从母、从师。
+儒圣馆答疑解惑_题目8_答案2,"Women should follow their father, husband, and son.",,妇女要从父、从夫、从子。
+儒圣馆答疑解惑_题目8_答案3,"Subjects should follow their king, the law, and the rites.",,臣子要从君、从法、从礼。
+儒圣馆答疑解惑_题目8_答案4,"Brothers should follow the elder, the kin, and the friend.",,弟兄要从长、从亲、从友。
+儒圣馆答疑解惑_题目9_答案1,It refers to the joy of playing music.,,是指演奏音乐的乐趣。
+儒圣馆答疑解惑_题目9_答案2,It refers to the pleasure of appreciating music.,,是指欣赏音乐的快乐。
+儒圣馆答疑解惑_题目9_答案3,It refers to the fun of collecting musical instruments.,,是指收集乐器的乐趣。
+儒圣馆答疑解惑_题目9_答案4,It uses repetition to highlight joy.,,是用叠字来突出快乐。
+儒圣馆答疑解惑_题目10_答案1,War drum.,,战鼓。
+儒圣馆答疑解惑_题目10_答案2,Gong and drum.,,锣鼓。
+儒圣馆答疑解惑_题目10_答案3,Applause.,,鼓掌。
+儒圣馆答疑解惑_题目10_答案4,Encouragement.,,鼓励。
+儒圣馆答疑解惑_题目11_答案1,Refers to the fruit on a tree.,,是指一棵树上的果实。
+儒圣馆答疑解惑_题目11_答案2,Refers to the later years of life.,,是指一生中的晚年。
+儒圣馆答疑解惑_题目11_答案3,Refers to the autumn of a year.,,是指一年中的秋天。
+儒圣馆答疑解惑_题目11_答案4,Refers to the result of a matter.,,是指一件事情的结果。
+儒圣馆答疑解惑_题目12_答案1,The residence of Liu Bei.,,刘备的住所。
+儒圣馆答疑解惑_题目12_答案2,The residence of Sun Quan.,,孙权的住所。
+儒圣馆答疑解惑_题目12_答案3,The residence of Zhuge Liang.,,诸葛亮的住所。
+儒圣馆答疑解惑_题目12_答案4,The residence of Cao Cao.,,曹操的住所。
+儒圣馆答疑解惑_题目13_答案1,Li Bai.,,李白。
+儒圣馆答疑解惑_题目13_答案2,Bai Juyi.,,白居易。
+儒圣馆答疑解惑_题目13_答案3,Du Fu.,,杜甫。
+儒圣馆答疑解惑_题目13_答案4,Li Qingzhao.,,李清照。
+儒圣馆答疑解惑_题目14_答案1,Spirit.,,精神。
+儒圣馆答疑解惑_题目14_答案2,Color.,,颜色。
+儒圣馆答疑解惑_题目14_答案3,Decoration.,,装饰。
+儒圣馆答疑解惑_题目14_答案4,Eyes.,,眼睛。
+儒圣馆答疑解惑_题目15_答案1,Worry or anxiety.,,担忧或者忧虑。
+儒圣馆答疑解惑_题目15_答案2,Hesitation or concern.,,犹豫或者顾虑。
+儒圣馆答疑解惑_题目15_答案3,Consideration or thinking.,,考虑或者思考。
+儒圣馆答疑解惑_题目15_答案4,Plan or scheme.,,计划或者筹划。
+儒圣馆答疑解惑_题目16_答案1,Metal.,,金属。
+儒圣馆答疑解惑_题目16_答案2,Money or value.,,钱财或者价值。
+儒圣馆答疑解惑_题目16_答案3,Gold.,,金色。
+儒圣馆答疑解惑_题目16_答案4,Fame and fortune.,,功名。
+儒圣馆答疑解惑_题目17_答案1,"""The Great Learning"", ""The Doctrine of the Mean"", ""Analects of Confucius"", ""Mencius"".",,《大学》《中庸》《论语》《孟子》。
+儒圣馆答疑解惑_题目17_答案2,"""Laozi"", ""Zhuangzi"", ""Book of Changes"", ""Tao Te Ching"".",,《老子》《庄子》《易经》《道德经》。
+儒圣馆答疑解惑_题目17_答案3,"""Book of Songs"", ""Book of Documents"", ""Book of Rites"", ""Spring and Autumn Annals"".",,《诗经》《尚书》《礼记》《春秋》。
+儒圣馆答疑解惑_题目17_答案4,"""Records of the Grand Historian"", ""Book of Han"", ""Book of the Later Han"", ""Records of the Three Kingdoms"".",,《史记》《汉书》《后汉书》《三国志》。
+儒圣馆答疑解惑_题目18_答案1,Fame or reputation.,,名声或者声誉。
+儒圣馆答疑解惑_题目18_答案2,Light or radiance.,,光明或者光芒。
+儒圣馆答疑解惑_题目18_答案3,Call or sound.,,叫声或者声音。
+儒圣馆答疑解惑_题目18_答案4,Warning or caution.,,警告或者警示。
+儒圣馆答疑解惑_题目19_答案1,Peach blossoms and plum blossoms.,,桃花和李花。
+儒圣馆答疑解惑_题目19_答案2,Peach trees and plum trees.,,桃树和李树。
+儒圣馆答疑解惑_题目19_答案3,Peach and plum.,,桃子和李子。
+儒圣馆答疑解惑_题目19_答案4,Students and disciples.,,学生和弟子。
+儒圣馆答疑解惑_题目20_答案1,Axe.,,斧。
+儒圣馆答疑解惑_题目20_答案2,Pot.,,锅。
+儒圣馆答疑解惑_题目20_答案3,Sickle.,,镰。
+儒圣馆答疑解惑_题目20_答案4,Hook.,,钩。
+儒圣馆答疑解惑_题目21_答案1,Silk.,,丝绸。
+儒圣馆答疑解惑_题目21_答案2,Silk thread.,,丝线。
+儒圣馆答疑解惑_题目21_答案3,Silk Road.,,丝路。
+儒圣馆答疑解惑_题目21_答案4,Silkworm silk.,,蚕丝。
+儒圣馆答疑解惑_题目22_答案1,Rain and dew.,,雨露甘霖。
+儒圣馆答疑解惑_题目22_答案2,Rivers and lakes.,,江河湖海。
+儒圣馆答疑解惑_题目22_答案3,Tears.,,泪水涟涟。
+儒圣馆答疑解惑_题目22_答案4,Ink wash painting.,,水墨浓淡。
+儒圣馆答疑解惑_题目23_答案1,Any flower.,,任何一朵花。
+儒圣馆答疑解惑_题目23_答案2,Peony.,,芍药。
+儒圣馆答疑解惑_题目23_答案3,Peony.,,牡丹。
+儒圣馆答疑解惑_题目23_答案4,Chrysanthemum.,,菊花。
+儒圣馆答疑解惑_题目24_答案1,Symbolizes reunion and harmony.,,象征团圆和和谐。
+儒圣馆答疑解惑_题目24_答案2,Symbolizes wealth and auspiciousness.,,象征富贵和吉祥。
+儒圣馆答疑解惑_题目24_答案3,Symbolizes sweetness and happiness.,,象征甜蜜和幸福。
+儒圣馆答疑解惑_题目24_答案4,Symbolizes softness and warmth.,,象征柔软和温暖。
+儒圣馆答疑解惑_题目25_答案1,Ocean or water area.,,海洋或者水域。
+儒圣馆答疑解惑_题目25_答案2,The world or the world.,,天下或者世界。
+儒圣馆答疑解惑_题目25_答案3,Border or national border.,,边界或者国界。
+儒圣馆答疑解惑_题目25_答案4,Scope or field.,,范围或者领域。
+儒圣馆答疑解惑_题目26_答案1,Salary.,,薪水。
+儒圣馆答疑解惑_题目26_答案2,Firewood.,,柴火。
+儒圣馆答疑解惑_题目26_答案3,Hardship.,,磨难。
+儒圣馆答疑解惑_题目26_答案4,Merit.,,功劳。
+儒圣馆答疑解惑_题目27_答案1,Trophy.,,奖杯。
+儒圣馆答疑解惑_题目27_答案2,Standard.,,标准。
+儒圣馆答疑解惑_题目27_答案3,Elegance.,,雅致。
+儒圣馆答疑解惑_题目27_答案4,Wine glass.,,酒杯。
+儒圣馆答疑解惑_题目28_答案1,Understanding or comprehension.,,理解或者领悟。
+儒圣馆答疑解惑_题目28_答案2,Meeting or encounter.,,相见或者相逢。
+儒圣馆答疑解惑_题目28_答案3,Seeing or witnessing.,,看见或者目睹。
+儒圣馆答疑解惑_题目28_答案4,Opinion or viewpoint.,,见解或者观点。
+儒圣馆答疑解惑_题目29_答案1,"Wei, Shu, and Wu.",,魏国、蜀国和吴国。
+儒圣馆答疑解惑_题目29_答案2,"Han, Xianbei, and Xiongnu.",,汉国、鲜卑国和匈奴国。
+儒圣馆答疑解惑_题目29_答案3,"Jin, Chu, and Qin.",,晋国、楚国和秦国。
+儒圣馆答疑解惑_题目29_答案4,"Song, Liao, and Jin.",,宋国、辽国和金国。
+儒圣馆答疑解惑_题目30_答案1,Danger.,,危险。
+儒圣馆答疑解惑_题目30_答案2,Opportunity.,,机会。
+儒圣馆答疑解惑_题目30_答案3,Nest.,,巢穴。
+儒圣馆答疑解惑_题目30_答案4,Privacy.,,隐私。
+儒圣馆答疑解惑_题目31_答案1,Tomorrow morning.,,明晨。
+儒圣馆答疑解惑_题目31_答案2,Dawn.,,黎明。
+儒圣馆答疑解惑_题目31_答案3,Today.,,当日。
+儒圣馆答疑解惑_题目31_答案4,Early morning.,,清晨。
+儒圣馆答疑解惑_题目32_答案1,Can repel mosquitoes and ward off evil.,,能够驱蚊避邪。
+儒圣馆答疑解惑_题目32_答案2,Can add beauty.,,能够增添美感。
+儒圣馆答疑解惑_题目32_答案3,Can convey feelings.,,能够传递情意。
+儒圣馆答疑解惑_题目32_答案4,Can preserve memories.,,能够保存记忆。
+,,,
+蔡攸之吟诗作对_题目1,"A boat full of moonlight sails away,",,满船明月从此去，
+蔡攸之吟诗作对_题目2,"Drinking horse across the autumn water,",,饮马渡秋水，
+蔡攸之吟诗作对_题目3,"Heaven creates me, I must have my use,",,天生我材必有用，
+蔡攸之吟诗作对_题目4,"A fragrance fills Chang'an,",,冲天香阵透长安，
+蔡攸之吟诗作对_题目5,"Who knows the hardship of the border,",,孰知不向边庭苦，
+蔡攸之吟诗作对_题目6,"Laugh and go out,",,一笑出门去，
+蔡攸之吟诗作对_题目7,"The world is like a tide, people like water,",,尘世如潮人如水，
+蔡攸之吟诗作对_题目8,"The whale has not swallowed the sea,",,鲸饮未吞海，
+蔡攸之吟诗作对_题目9,"Peach blossom seeks the sword guest,",,桃花寻剑客，
+蔡攸之吟诗作对_题目10,"Yellow sand battles wear golden armor,",,黄沙百战穿金甲，
+蔡攸之吟诗作对_题目11,"Dance with the lotus sword,",,起舞莲花剑，
+蔡攸之吟诗作对_题目12,"Peach and plum spring wind a cup of wine,",,桃李春风一杯酒，
+蔡攸之吟诗作对_题目13,"Jinghua makes friends with all the talents,",,京华结交尽奇士，
+蔡攸之吟诗作对_题目14,"Free and easy in the world for ten autumns,",,潇洒江湖十过秋，
+蔡攸之吟诗作对_题目15,"A flute, a sword, a lifetime's intention,",,一箫一剑平生意，
+蔡攸之吟诗作对_题目16,"A hall full of flowers drunk three thousand guests,",,满堂花醉三千客，
+蔡攸之吟诗作对_题目17,"Climb high and look far into the world,",,登高壮观天地间，
+蔡攸之吟诗作对_题目18,"Why not carry the Wu hook,",,男儿何不带吴钩，
+蔡攸之吟诗作对_题目19,"A body turns into a thousand miles,",,一身转战三千里，
+蔡攸之吟诗作对_题目20,"A meteor white jade inserted in the waist,",,流星白羽腰间插，
+蔡攸之吟诗作对_题目21,"Travel a thousand miles with a sword,",,仗剑行千里，
+蔡攸之吟诗作对_题目22,"Honorable death intimate,",,君子死知己，
+蔡攸之吟诗作对_题目23,"Heaven and earth, wind and dust, a three-foot sword,",,天地风尘三尺剑，
+蔡攸之吟诗作对_题目24,"Young people take risks as if they were flat ground,",,少年恃险若平地，
+蔡攸之吟诗作对_题目25,"Press the sword to clear the eight poles,",,按剑清八极，
+蔡攸之吟诗作对_题目26,The world's wind and clouds come out of my generation.,,天下风云出我辈，
+蔡攸之吟诗作对_题目27,"The small boat is gone from here,",,小舟从此逝，
+蔡攸之吟诗作对_题目28,"The roc rises with the wind in a day,",,大鹏一日同风起，
+蔡攸之吟诗作对_题目29,"Will be on the top of the mountain,",,会当凌绝顶，
+蔡攸之吟诗作对_题目30,"Life is full of joy, must be enjoyed,",,人生得意须尽欢，
+蔡攸之吟诗作对_题目1_答案1,Originally a lonely person in the rivers and lakes.,,本是江湖寂寞人。
+蔡攸之吟诗作对_题目1_答案2,Nothing in the rivers and mountains is an empty dream.,,无事江山空梦里。
+蔡攸之吟诗作对_题目1_答案3,Indifferent to the moonlight on the river reflecting people returning.,,无心江月照人归。
+蔡攸之吟诗作对_题目1_答案4,The sentimental river water follows people away.,,有情江水随人去。
+蔡攸之吟诗作对_题目2_答案1,The water is warm and the wind is like silk.,,水暖风如丝。
+蔡攸之吟诗作对_题目2_答案2,The water is muddy and the wind is like a saw.,,水浊风如锯。
+蔡攸之吟诗作对_题目2_答案3,The water is cold and the wind is like a knife.,,水寒风似刀。
+蔡攸之吟诗作对_题目2_答案4,The water is clear and the wind is like silk.,,水清风如绸。
+蔡攸之吟诗作对_题目3_答案1,A thousand autumns of achievements and immortal fame.,,千秋功业不朽名。
+蔡攸之吟诗作对_题目3_答案2,Never give up despite a thousand difficulties.,,千般艰难不放弃。
+蔡攸之吟诗作对_题目3_答案3,Never look back on a long journey of a thousand miles.,,千里迢迢不回头。
+蔡攸之吟诗作对_题目3_答案4,Squandered fortune can still be regained.,,千金散尽还复来。
+蔡攸之吟诗作对_题目4_答案1,"Everywhere you look, there are women in red makeup.",,满眼都是红妆人。
+蔡攸之吟诗作对_题目4_答案2,The ground is full of white jade halls.,,满地皆是白玉堂。
+蔡攸之吟诗作对_题目4_答案3,The city is full of golden armor.,,满城尽带黄金甲。
+蔡攸之吟诗作对_题目4_答案4,The sky is full of colorful clouds.,,满天飞舞彩云霞。
+蔡攸之吟诗作对_题目5_答案1,"Even in death, the heroic spirit remains.",,纵死亦有英灵在。
+蔡攸之吟诗作对_题目5_答案2,"Even in death, never forget the loyal heart.",,纵死不忘忠义心。
+蔡攸之吟诗作对_题目5_答案3,"Even in death, the heroic spirit cannot be extinguished.",,纵死难消英雄气。
+蔡攸之吟诗作对_题目5_答案4,"Even in death, the fragrance of the hero's bones can still be smelled.",,纵死犹闻侠骨香。
+蔡攸之吟诗作对_题目6_答案1,"A thousand miles without flowers, only snow.",,千里无花雪。
+蔡攸之吟诗作对_题目6_答案2,A thousand miles of falling flower wind.,,千里落花风。
+蔡攸之吟诗作对_题目6_答案3,A thousand miles of cloud with flowers.,,千里有花云。
+蔡攸之吟诗作对_题目6_答案4,"A thousand miles without flowers, only emptiness.",,千里无花空。
+蔡攸之吟诗作对_题目7_答案1,Only regret that there are few confidants in the rivers and lakes.,,只恨江湖少知音。
+蔡攸之吟诗作对_题目7_答案2,Only sigh that few people return to the rivers and lakes.,,只叹江湖几人回。
+蔡攸之吟诗作对_题目7_答案3,Only wish for more old friends in the rivers and lakes.,,只愿江湖多故人。
+蔡攸之吟诗作对_题目7_答案4,Only hope for no old grudges in the rivers and lakes.,,只求江湖无旧仇。
+蔡攸之吟诗作对_题目8_答案1,The sword light has already shone on the sea.,,剑光已照海。
+蔡攸之吟诗作对_题目8_答案2,The sword shadow has already startled the waves.,,剑影已惊涛。
+蔡攸之吟诗作对_题目8_答案3,The sword qi has already crossed the autumn.,,剑气已横秋。
+蔡攸之吟诗作对_题目8_答案4,The sword sound has already broken the autumn.,,剑声已断秋。
+蔡攸之吟诗作对_题目9_答案1,Don't ask where to return.,,不问归何处。
+蔡攸之吟诗作对_题目9_答案2,Don't hesitate to get drunk in the world.,,不惜醉红尘。
+蔡攸之吟诗作对_题目9_答案3,"Don't talk, just laugh with the spring breeze.",,不语笑春风。
+蔡攸之吟诗作对_题目9_答案4,Don't fear to chase the spring away.,,不畏逐春去。
+蔡攸之吟诗作对_题目10_答案1,Don't leave a cloud in Loulan.,,不留楼兰一片云。
+蔡攸之吟诗作对_题目10_答案2,"Don't break Loulan, never return.",,不破楼兰终不还。
+蔡攸之吟诗作对_题目10_答案3,"Don't see Loulan, just look back in vain.",,不见楼兰空回首。
+蔡攸之吟诗作对_题目10_答案4,"Don't forget Loulan, always remember.",,不忘楼兰永怀念。
+蔡攸之吟诗作对_题目11_答案1,Enjoy the flowers on a clear moonlit night.,,赏花清月夜。
+蔡攸之吟诗作对_题目11_答案2,Leave a shadow in the heart of the green moon.,,留影碧月心。
+蔡攸之吟诗作对_题目11_答案3,Sing a song under the bright moon.,,行歌明月弓。
+蔡攸之吟诗作对_题目11_答案4,Touch the sword and look at the moon in the sky.,,抚剑望月天。
+蔡攸之吟诗作对_题目12_答案1,Listen to the stories of the rivers and lakes for ten years.,,江湖故事十年听。
+蔡攸之吟诗作对_题目12_答案2,The night rain in the rivers and lakes has been on for ten years.,,江湖夜雨十年灯。
+蔡攸之吟诗作对_题目12_答案3,The bright moon in the rivers and lakes has been in love for ten years.,,江湖明月十年情。
+蔡攸之吟诗作对_题目12_答案4,Old friends in the rivers and lakes have been waiting for ten years.,,江湖旧友十年期。
+蔡攸之吟诗作对_题目13_答案1,"With the same ambition, we advance and retreat together.",,志气相投共进退。
+蔡攸之吟诗作对_题目13_答案2,"Wind and clouds follow each other, we succeed or fail together.",,风云相随共成败。
+蔡攸之吟诗作对_题目13_答案3,"With the same spirit, we are Inseparable.",,意气相期共生死。
+蔡攸之吟诗作对_题目13_答案4,"With the same courage, we share honor and disgrace.",,肝胆相照共荣辱。
+蔡攸之吟诗作对_题目14_答案1,The wine cup is always lingering.,,酒杯无日不迟留。
+蔡攸之吟诗作对_题目14_答案2,The wine shop is always meeting.,,酒肆无时不相逢。
+蔡攸之吟诗作对_题目14_答案3,The wine color is boundless and free.,,酒色无边不自由。
+蔡攸之吟诗作对_题目14_答案4,The wine song is silent and happy.,,酒歌无声不欢留。
+蔡攸之吟诗作对_题目15_答案1,Win a good name for fifteen springs.,,赢得美名十五春。
+蔡攸之吟诗作对_题目15_答案2,Bear all the crazy names for fifteen years.,,负尽狂名十五年。
+蔡攸之吟诗作对_题目15_答案3,Raise a heroic name for fifteen years.,,扬起英名十五载。
+蔡攸之吟诗作对_题目15_答案4,Leave a bad name for fifteen autumns.,,留下恶名十五秋。
+蔡攸之吟诗作对_题目16_答案1,A sword frost cold fourteen states.,,一剑霜寒十四州。
+蔡攸之吟诗作对_题目16_答案2,A sword red dust fourteen cities.,,一剑红尘十四城。
+蔡攸之吟诗作对_题目16_答案3,A sword romantic fourteen years.,,一剑风流十四年。
+蔡攸之吟诗作对_题目16_答案4,A sword hero fourteen peaks.,,一剑英雄十四峰。
+蔡攸之吟诗作对_题目17_答案1,The lonely smoke in the desert goes straight and never stops.,,大漠孤烟直不断。
+蔡攸之吟诗作对_题目17_答案2,The vast river goes away and never returns.,,大江茫茫去不还。
+蔡攸之吟诗作对_题目17_答案3,The big wind rises and the clouds fly.,,大风起兮云飞扬。
+蔡攸之吟诗作对_题目17_答案4,The heavy snow flies and there is no way home.,,大雪纷飞无归路。
+蔡攸之吟诗作对_题目18_答案1,Collect the five states of Guanshan.,,收取关山五十州。
+蔡攸之吟诗作对_题目18_答案2,Kill all the Spring and Autumn million soldiers.,,斩尽春秋百万兵。
+蔡攸之吟诗作对_题目18_答案3,Spill hot blood for a thousand miles.,,挥洒热血千里程。
+蔡攸之吟诗作对_题目18_答案4,"Bare-handed and unarmed, full of heroism.",,赤手空拳一身豪。
+蔡攸之吟诗作对_题目19_答案1,A flag once fluttered a million troops.,,一旗曾飘百万军。
+蔡攸之吟诗作对_题目19_答案2,A sword once blocked a million teachers.,,一剑曾当百万师。
+蔡攸之吟诗作对_题目19_答案3,A gun once resisted a million heroes.,,一枪曾敌百万雄。
+蔡攸之吟诗作对_题目19_答案4,A horse once ran a million mountains.,,一骑曾走百万山。
+蔡攸之吟诗作对_题目20_答案1,The sword flower autumn lotus light out of the box.,,剑花秋莲光出匣。
+蔡攸之吟诗作对_题目20_答案2,The chill of the sword's edge seeps into the skin.,,剑锋冰寒气入肤。
+蔡攸之吟诗作对_题目20_答案3,The shadow of the sword follows the stars.,,剑影星辰影随行。
+蔡攸之吟诗作对_题目20_答案4,The light of the sword reflects the moon.,,剑光月影相映照。
+蔡攸之吟诗作对_题目21_答案1,Unyielding spirit.,,豪情不灭志。
+蔡攸之吟诗作对_题目21_答案2,Daring to speak despite being small.,,微躯敢一言。
+蔡攸之吟诗作对_题目21_答案3,Unrelenting spirit.,,英魂不屈气。
+蔡攸之吟诗作对_题目21_答案4,Unchanging ambition.,,雄心不改行。
+蔡攸之吟诗作对_题目22_答案1,Swinging the sword to sever the long tassel.,,挥剑断长缨。
+蔡攸之吟诗作对_题目22_答案2,Drawing the sword to leave Yanjing.,,提剑出燕京。
+蔡攸之吟诗作对_题目22_答案3,Breaking the sword to enter the underworld.,,折剑入黄泉。
+蔡攸之吟诗作对_题目22_答案4,Hiding the sword to conceal the figure.,,隐剑藏身影。
+蔡攸之吟诗作对_题目23_答案1,The rivers and lakes are a poem of time.,,江湖岁月一篇诗。
+蔡攸之吟诗作对_题目23_答案2,The grudges of the rivers and lakes are settled with a stroke.,,江湖恩怨一笔勾。
+蔡攸之吟诗作对_题目23_答案3,The rivers and lakes are a dream of wind and clouds.,,江湖风云一场梦。
+蔡攸之吟诗作对_题目23_答案4,The stories of the rivers and lakes are a pot of wine.,,江湖故事一壶酒。
+蔡攸之吟诗作对_题目24_答案1,Holding twin blades alone to cut the autumn wind.,,独持双刀斩秋风。
+蔡攸之吟诗作对_题目24_答案2,Leaning on a long sword alone to face the clear autumn.,,独倚长剑凌清秋。
+蔡攸之吟诗作对_题目24_答案3,Holding a book and a zither alone to pass the autumn water.,,独抱琴书度秋水。
+蔡攸之吟诗作对_题目24_答案4,Riding a fast horse alone under the autumn moon.,,独骑快马走秋月。
+蔡攸之吟诗作对_题目25_答案1,Returning with a smile in the spring wind.,,归来笑春风。
+蔡攸之吟诗作对_题目25_答案2,Returning to listen to the night wind.,,归去听夜风。
+蔡攸之吟诗作对_题目25_答案3,Meeting the morning wind on the way back.,,归途遇早风。
+蔡攸之吟诗作对_题目25_答案4,Singing loudly in the wind after returning.,,归酣歌大风。
+蔡攸之吟诗作对_题目26_答案1,Tears fill the eyes when leaving the rivers and lakes.,,一别江湖泪满怀。
+蔡攸之吟诗作对_题目26_答案2,Time flies when entering the rivers and lakes.,,一入江湖岁月催。
+蔡攸之吟诗作对_题目26_答案3,A lifetime in the rivers and lakes is a dream hard to return.,,一生江湖梦难回。
+蔡攸之吟诗作对_题目26_答案4,The feelings for the rivers and lakes have faded with a smile.,,一笑江湖情已淡。
+蔡攸之吟诗作对_题目27_答案1,The solitary shadow at the edge of the sea.,,海角遗孤影。
+蔡攸之吟诗作对_题目27_答案2,The vastness of the sea and sky.,,海天共悠悠。
+蔡攸之吟诗作对_题目27_答案3,\n|Living the rest of my life by the river and sea.,,江海寄余生。
+蔡攸之吟诗作对_题目27_答案4,The moon rises over the sea.,,海上生明月。
+蔡攸之吟诗作对_题目28_答案1,Rising straight up ninety thousand miles.,,扶摇直上九万里。
+蔡攸之吟诗作对_题目28_答案2,"Flying high, gazing at ninety thousand mountains.",,高飞远望九万山。
+蔡攸之吟诗作对_题目28_答案3,"Breaking through the clouds, charging towards ninety thousand thunders.",,破云冲霄九万雷。
+蔡攸之吟诗作对_题目28_答案4,"Soaring in the vast sky, reaching ninety thousand layers.",,长空翱翔九万重。
+蔡攸之吟诗作对_题目29_答案1,A smile in an instant.,,一笑置之间。
+蔡攸之吟诗作对_题目29_答案2,A boundless view of the sky.,,一望无际天。
+蔡攸之吟诗作对_题目29_答案3,All mountains look small from a distance.,,一览众山小。
+蔡攸之吟诗作对_题目29_答案4,A flight beyond the sky.,,一飞冲天外。
+蔡攸之吟诗作对_题目30_答案1,Don't let the world leave regrets.,,莫让红尘空留恨。
+蔡攸之吟诗作对_题目30_答案2,Don't let the golden cup be empty under the moon.,,莫使金樽空对月。
+蔡攸之吟诗作对_题目30_答案3,Don't waste good wine.,,莫将美酒空浪费。
+蔡攸之吟诗作对_题目30_答案4,Don't refuse to return home drunk.,,莫辞花醉空归去。
+,,,

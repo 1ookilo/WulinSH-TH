@@ -1,0 +1,149 @@
+﻿﻿GameLog_ApplySetting,Settings updated successfully,อัพเดทการตั้งค่าสำเร็จ
+Hotkey_RoamingMoveLeft,Move to the top left,เคลื่อนไปด้านซ้ายบน
+Hotkey_RoamingMoveRight,Move to the bottom right,เคลื่อนไปด้านขวาล่าง
+Hotkey_RoamingMoveUp,Move to the top right,เคลื่อนไปด้านขวาบน
+Hotkey_RoamingMoveDown,Move to the bottom left,เคลื่อนไปด้านซ้ายล่าง
+Hotkey_RoamingStealthSwitch,Stealth Switch,ลอบเร้น
+Hotkey_RoamingActiveBattle,Open battle,เปิดศึก
+Hotkey_RoamingRole,Character,ตัวละคร
+Hotkey_RoamingInventory,Item,สิ่งของ
+Hotkey_RoamingKungfu,Martial Arts,วรยุทธ
+Hotkey_RoamingEnlightenment,Passive,พลังแฝง
+Hotkey_RoamingAbility,Skill,ทักษะ
+Hotkey_RoamingRelation,Relations,ความสัมพันธ์
+Hotkey_RoamingQuest,Journal,บันทึก
+Hotkey_RoamingNews,Rivers and Lakes News,ข่าวแม่น้ำและทะเลสาบ
+Hotkey_RoamingPet,Pets.,สัตว์เลี้ยง
+Hotkey_RoamingEsc,System Menu,เมนูระบบ
+Hotkey_StorySkipStory,Skip the entire plot,ข้ามเนื้อเรื่อง
+Hotkey_StorySkipDialogue,Skip the current dialogue,ข้ามบทสนทนา
+Hotkey_StoryOption1,Option 1,ตัวเลือกที่ 1
+Hotkey_StoryOption2,Option 2,ตัวเลือกที่ 2
+Hotkey_StoryOption3,Option 3,ตัวเลือกที่ 3
+Hotkey_StoryOption4,Option 4,ตัวเลือกที่ 4
+Hotkey_StoryOption5,Option 5,ทางเลือกที่ 5
+Hotkey_StoryOption6,Option 6,ตัวเลือกที่ 6
+Hotkey_StoryOption7,Option 7,ตัวเลือกที่ 7
+Hotkey_StoryOption8,Option 8,ตัวเลือกที่ 8
+Hotkey_StealthSteal,Choose Steal,ขโมย
+Hotkey_StealthPoison,Choose Poison,ยาพิษ
+Hotkey_StealthParalyze,Choose Immobilize,จี้จุด
+Hotkey_StealthAssassin,Choose Ambush,ซุ่มโจมตี
+Hotkey_StealthConfirm,Confirm Interaction,ยืนยันการโต้ตอบ
+Hotkey_QuickSave,Quick save,บันทึกด่วน
+Hotkey_QuickLoad,Quick Load,โหลดด่วน
+Hotkey_BattleEsc,Deselect Martial Arts,ยกเลิกการเลือกวรยุทธ
+Hotkey_BattleUniqueSkill,Ultimate Move,ท่าไม้ตาย
+Hotkey_RoamingMeditation,Meditate (Long Press),นั่งสมาธิ (กดค้าง)
+Hotkey_RoamingMap,Map,แผนที่
+Hotkey_RoamingLog,Daily Log,บันทึกประจำวัน
+Hotkey_BattleKungfu1,Martial Art 1,วรยุทธ 1
+Hotkey_BattleKungfu2,Martial Art 2,วรยุทธ 2
+Hotkey_BattleKungfu3,Martial Art 3,วรยุทธ 3
+Hotkey_BattleKungfu4,Martial Art 4,วรยุทธ 4
+Hotkey_BattleKungfu5,Martial Art 5,วรยุทธ 5
+Hotkey_BattleKungfu6,Martial Art 6,วรยุทธ 6
+Hotkey_BattleKungfu7,Martial Art 7,วรยุทธ 7
+Hotkey_BattleKungfu8,Martial Art 8,วรยุทธ 9
+Hotkey_BattleKungfu9,Martial Art 9,วรยุทธ 10
+Hotkey_BattleInternalKungfu1,Inner Power 1,พลังภายใน 1
+Hotkey_BattleInternalKungfu2,Inner Power 2,พลังภายใน 2
+Hotkey_BattleInternalKungfu3,Inner Power 3,พลังภายใน 3
+Hotkey_BattleInternalKungfu4,Inner Power 4,พลังภายใน 4
+Hotkey_BattleInternalKungfu5,Inner Power 5,พลังภายใน 5
+Hotkey_BattleInternalKungfu6,Inner Power 6,พลังภายใน 6
+Hotkey_BattleInternalKungfu7,Inner Power 7,พลังภายใน 7
+Hotkey_BattleInternalEffect,Power Body,พลังกาย
+Hotkey_BattleHidWep,Throwing,อาวุธลับ
+Hotkey_BattleItem,Item,สิ่งของ
+Hotkey_BattleRest,Rest,พักผ่อน
+Hotkey_BattleRetreat,Retreat,หนี
+Hotkey_BattleSwitchAuto,Auto Battle,ต่อสู้อัตโนมัติ
+Hotkey_BattleShowBattleZone,Info Battle Range,ระยะการต่อสู้
+Hotkey_BattleSwitchSpeed,Toggle Battle Speed,สลับความเร็ว
+Hotkey_BattleShortcutItem1,Quick Item 1,ช่องไอเทม 1
+Hotkey_BattleShortcutItem2,Quick Item 2,ช่องไอเทม 2
+Hotkey_BattleShortcutItem3,Quick Item 3,ช่องไอเทม 3
+Hotkey_BattleShortcutItem4,Quick Item 4,ช่องไอเทม 4
+Hotkey_BattleShortcutItem5,Quick Item 5,ช่องไอเทม 5
+Hotkey_BattleShortcutItem6,Quick Item 6,ช่องไอเทม 6
+Hotkey_BattleBondKungfu,Love Martial Art,รักวรยุทธ
+Hotkey_BattleSwitchUniqueSkill,Switch Ultimate Move,สลับท่าไม้ตาย
+HotkeyEnv_Roaming,Free Mode,โหมดอิสระ
+HotkeyEnv_Story,Story Mode,โหมดเนื้อเรื่อง
+HotkeyEnv_Stealth,Stealth Mode,โหมดซ่อนตัว
+HotkeyEnv_Battle,Battle Mode,โหมดการต่อสู้
+Setting,Settings,ตั้งค่า
+Setting_Game,Game,เกม
+Setting_Audio,Sound,เสียง
+Setting_Graphic,Graphics,กราฟฟิก
+Setting_Hotkey,Hotkeys,ปุ่มลัด
+Tab,Tabulation,Tab
+Hotkey_RoamingRun,Run,วิ่ง
+LeftShift,Shift Up,Shift
+RightShift,Shift Up,Shift
+LeftControl,Control,ควบคุม
+RightControl,Control,ควบคุม
+LeftAlt,Shift,Shift
+RightAlt,Shift,Shift
+Space,Space,Space
+Backspace,Backspace,Backspace
+Return,Enter,เข้า
+Escape,ESC,ESC
+KeypadEnter,Enter,เข้า
+Alpha0,0,0
+Alpha1,1,1
+Alpha2,2,2
+Alpha3,3,3
+Alpha4,4,4
+Alpha5,5,5
+Alpha6,6,6
+Alpha7,7,7
+Alpha8,8,8
+Alpha9,9,9
+Keypad0,*0,*0
+Keypad1,*1,*1
+Keypad2,*2,*2
+Keypad3,*3,*3
+Keypad4,*4,*4
+Keypad5,*5,*5
+Keypad6,*6,*6
+Keypad7,*7,*7
+Keypad8,*8,*8
+Keypad9,*9,*9
+BackQuote,`,.
+HotkeyEditTip,Please Enter Key (Press ESC to Delete Shortcut),กรุณากดปุ่ม (ปุ่ม ESC เพื่อลบคีย์ลัด) 
+InvalidInput,Invalid Input,ข้อมูลไม่ถูกต้อง
+HotkeyConflictConfirm,"Conflicts with the key {0} ({1}), clicking OK will delete the shortcut key of {0}",ขัดแย้งกับคีย์ {0} ({1}) การคลิกตกลงจะลบคีย์ลัดของ {0}
+SettingNonSaveConfirm,Do you want to keep the changes?,คุณต้องการเก็บการเปลี่ยนแปลงหรือไม่?
+SettingTitle_Music,Background Music,ดนตรีประกอบ
+SettingTitle_Sfx,Game Sound Effects,เสียงเอฟเฟค
+SettingTitle_DiaplayMode,Display Mode,โหมดการแสดงผล
+SettingTitle_Resolution,Resolution Selection,เลือกความละเอียดหน้าจอ
+ScreenDisplayMode_FullScreen,Full Screen Mode,โหมดเต็มจอ
+ScreenDisplayMode_Window,Window Mode,โหมดหน้าต่าง
+ScreenDisplayMode_NoFrame,Borderless Window Mode,โหมดหน้าต่างไร้ขอบ
+SettingTitle_Language,Language,ภาษา
+SettingTitle_AutoSaveInterval,Auto Save Time,เซฟอัตโนมัติ
+SettingTitle_Font,Font,แบบอักษร
+Font0,Pixel Font,ฟอนต์สไตล์พิกเซล
+Font1,Regular Font,ฟอนต์สไตล์ปกติ
+SettingValue_AutoSaveInterval,{0} minutes,{0}นาที
+SettingTitle_ClickBattle,"Quickly switch between stealth, combat, and skip scenes",สลับระหว่างโหมดลอบเร้น โหมดต่อสู้และข้ามฉากอย่างรวดเร็ว
+SettingTitle_BulkTrading,"Batch Buy, Sell, Appraise【Item quantity must be 5 or more】",ซื้อขายและประเมินสิ่งของแบบชุด【จำนวนไอเท็มต้องมี 5 ชิ้น ขึ้นไปหรือมากกว่า】
+SettingTitle_RunInBackground,Game continues to run in the background,เกมยังคงทำงานในขณะที่พับจออยู่
+SettingTitle_ClickStoryOption,Quickly select plot options,เลือกเนื้อเรื่องอย่างรวดเร็ว
+SettingTitle_PressMouseRun,"When moving with the mouse, the default movement mode is running",เมื่อเคลื่อนที่ด้วยการใช้เมาส์ การเคลื่อนไหวจะอยู่ในโหมดวิ่งเป็นค่าเริ่มต้น
+SettingTitle_KeyForceRun,"When moving with shortcut keys, the default movement mode is running",เมื่อเคลื่อนที่ด้วยการใช้ปุ่มคีย์บอร์ด การเคลื่อนไหวจะอยู่ในโหมดวิ่งเป็นค่าเริ่มต้น
+SettingTitle_UseConsumableReconfirm,Confirmation required when using consumables,การยืนยันเมื่อใช้สิ่งของประเภทของใช้
+SettingTitle_BulkUseComsumable,Batch use available for some consumables,อนุญาติให้ใช้สิ่งของประเภทของใช้บางชนิดแบบเป็นชุดได้
+SettingTitle_AutoBattleWhenStart,Automatically start combat after battle opens,หลังจากเข้าสู่โหมดต่อสู้ การต่อสู้อัตโนมัติจะถูกเปิดใช้งานเป็นค่าเริ่มต้น
+SettingTitle_DoubleSpeedWhenStart,2x speed is the default after battle opens,ความเร็ว 2x คือค่าเริ่มต้นหลังเข้าสู่โหมดต่อสู้
+SettingTitle_EpAndAccuAtkVisible,"MP, Rage continuously displayed after battle opens",เมื่อเข้าสู่โหมดต่อสู้ ค่าพลังภายในและค่าโทสะจะแสดงอย่างต่อเนื่อง
+SettingTitle_HpBarResident,HP continuously displayed after battle opens,เมื่อเข้าสู่โหมดต่อสู้ ค่าพลังชีวิตจะแสดงอย่างต่อเนื่อง
+SettingTitle_OneTouchBuyFromHighToLow,One-click buy in order from high to low grade,เปิดใช้หนึ่งคลิ๊กเพื่อสั่งซื้อสินค้าระดับสูงไปยังระดับต่ำ
+SettingTitle_OneTouchSellFromLowToHigh,One-click sell in order from low to high grade,เปิดใช้หนึ่งคลิ๊กเพื่อสั่งซื้อสินค้าระดับต่ำไปยังระดับสูง
+SettingTitle_AutoSave,Open auto-save (only saves when switching scenes and after battles),เปิดใช้เซฟเกมอัตโนมัติ (เฉพาะเซฟเมื่อสลับฉากและหลังการต่อสู้)
+SettingTitle_AutoSaveWhenChangeSceneAndRoaming,Save every 10 minutes in free state (requires auto-save to be enabled),เซฟเกมทุกๆ 10 นาที ในตอนที่อยู่ในสถานะว่าง (จำเป็นต้องเปิดใช้งานการเซฟเกมอัตโนมัติก่อน)
+SettingTitle_CloseLivingExpConfirmTip,Enable auto-confirmation for using Jianghu knowledge to upgrade character and martial arts level,"เปิดใช้งานการแจ้งเตือนเพื่อยืนยันอัตโนมัติสำหรับการใช้ค่า ""ประสบการณ์ยุทธ"" เพื่ออัพเกรดตัวละครและระดับวรยุทธ"
+SettingTitle_JoyStickVibration,Handle vibration,เปิดการสั่น

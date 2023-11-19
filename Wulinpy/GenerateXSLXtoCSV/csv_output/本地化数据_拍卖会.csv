@@ -1,0 +1,29 @@
+key,original,translation,context
+AuctionName_101,Auction,,拍卖会
+AuctionName_102,Auction,,拍卖会
+AuctionName_103,Treasure Competition,,竞宝大会
+AuctionName_104,Dirty Street Auction,,脏街拍卖会
+AuctionName_105,Night Demon Square Auction,,夜摩坊拍卖会
+AuctionNormalItemIndroduction,"The next item for auction is {0}Item{2}, starting bid {3} Wen.",,下面拍品是{0}物品{2}，起拍价{3}文。
+AuctionTreasureIndroduction,"You are all in luck today, we will be showcasing our last mysterious item, {0}{1}{2}, starting bid {3} Wen, let's see who will take it home.",,各位今天很幸运，我们将展示我们的最后一件神秘拍品，{0}{1}{2}，起拍价{3}文，花落谁家让我们拭目以待
+AuctionCommissionChargeTip,Successful bids will be charged a <#62FF52>10%</color> service fee.,,竞拍成功将扣除<#62FF52>10%</color>服务费用
+AuctionCommissionEntrancePriceTip,You need to pay <size=-12> </size><#62FF52>{0}</color><size=-12> </size> Wen.,,需缴纳<size=-12> </size><#62FF52>{0}</color><size=-12> </size>文
+AuctionTalk_NpcBid,"<size=36>I bid <size=48><#62FF52>{0}</color><size=36> Wen.|<size=36>I, I bid <size=48><#62FF52>{0}</color><size=36> Wen.|<size=36>Bid <size=48><#62FF52>{0}</color><size=36> Wen.",,<size=36>我出<size=48><#62FF52>{0}</color><size=36>文|<size=36>我、我出<size=48><#62FF52>{0}</color><size=36>文|<size=36>出价<size=48><#62FF52>{0}</color><size=36>文
+AuctionTalk_PlayerBid,"<size=36>I bid <size=48><#62FF52>{0}</color><size=36> Wen.|<size=36>I, I bid <size=48><#62FF52>{0}</color><size=36> Wen.|<size=36>Bid <size=48><#62FF52>{0}</color><size=36> Wen.",,<size=36>我出<size=48><#62FF52>{0}</color><size=36>文|<size=36>我、我出<size=48><#62FF52>{0}</color><size=36>文|<size=36>出价<size=48><#62FF52>{0}</color><size=36>文
+AuctionBidOneSuccess,Great! Let's congratulate {0} for winning {2} with a bid of {1} Wen!,,很好！让我们恭喜{0}以{1}文拍得{2}！
+AuctionRemind,"{0}, {1} bid {2} Wen {3} times!",,{0}，{1}出价{2}文{3}次！
+AuctionAbortive,"What a pity, it seems that everyone is not interested in this auction item!",,真是遗憾，看来大家对这件拍品不感兴趣！
+AuctionTalk_IntroduceNormal_Other,Oh.|Oh!|Oh~|Oh!!|Oh~~,,哦|哦！|哦~|哦！！|哦~~
+AuctionTalk_BidMoreHalf_Other,The price has increased by 50%|The price has increased by 50%!|The price has increased by 50%!!,,加价五成了|加价五成了！|加价五成了!!
+AuctionTalk_BidDouble_Other,The price has doubled|The price has doubled!|The price has doubled!!,,加价一倍了|加价一倍了！|加价一倍了!!
+AuctionTalk_BidSuccessNormal_Other,He succeeded|He succeeded!|He succeeded!!|He succeeded!!!,,他成功了|他成功了！|他成功了！！|他成功了！！！
+AuctionTalk_PlayerFuckOff_Other,I'll snatch it tonight|I'll snatch it tonight!|I'll snatch it tonight!!,,今晚我就抢过来|今晚我就抢过来！|今晚我就抢过来！！
+AuctionTalk_PlayerBidSuccess_OtherFriendly,Impressive!|Impressive!|Truly remarkable!,,厉害！|强啊！|真了不得！
+AuctionTalk_IntroduceTreasure_Other,This is amazing!|This is truly extraordinary!|Such a rare sight!,,这个厉害了！|这个可了不得！|这可难得一见啊！
+AuctionTalk_TwoSecondsNoBidFromStart,So awkward|So awkward!|So awkward!!,,好尴尬啊|好尴尬啊！|好尴尬啊！！
+AuctionNews_Treasure,"{AuctionName0} presents the top auction item {ItemName0}, after a thrilling competition, it was finally won by {RoleName0}.",,{AuctionName0}惊现顶级拍品{ItemName0}，经过一番精彩激烈的角逐，终于被{RoleName0}收获囊中。
+AuctionEnterConfirm,Are you sure you want to pay {0} Coin to participate in {1}?,,确定要支付{0}文铜钱参加{1}吗？
+AuctionConclusion,"Thank you all for participating in this {0}, the auction has successfully ended, thank you all for your support.",,感谢各位参加本次的{0}，本次拍卖圆满结束，感谢各位的捧场。
+AuctionStealed,"I can't believe that an auction item was stolen right under my nose! The auction has to end early, my apologies to everyone.",,"想不到在我眼皮底下竟然发生拍品失窃的事情!
+本次拍卖提前结束，各位抱歉了。"
+,,,

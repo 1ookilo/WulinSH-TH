@@ -1,0 +1,9 @@
+﻿﻿DMod_Active,"<#61C3C8>{0}</color> triggers {1}, {2}",<#61C3C8>{0}</color>แสดงผล{1}{2}
+DMod_FuWuShuangZhi,Additional gain of {0},ได้รับ {0} เพิ่มเติม
+DMod_ZhuangZhouMengDie,Gain EXP{0},ได้รับค่าประสบการณ์ {0}
+DMod_GetCoin,Gain Coin{0},ได้รับเงิน {0}
+DMod_KuangBaoYiNu,"Enter Berserk state, lose sanity and control",เข้าสู่สถานะบ้าคลั่ง สูญเสียสติและการควบคุม
+DMod_MingDingZuiYiOk,Drinking {0} temporarily enhances strength,การดื่ม {0} ช่วยเพิ่มพละกำลังชั่วคราว
+DMod_MingDingZuiYiFail,"But there is no wine to drink, suddenly Depression",แต่ไม่มีสุราให้ดื่ม พลันรู้สึกโศกเศร้าขึ้นมา
+DMod_LinLangQiJu2,The protagonist <#29F161>recovers 10% HP</color>,ตัวเอก<#29F161>ฟื้นฟู HP 10%</color>
+DMod_ZuiXianQuanOk,Drinking {0} enhances damage of this Attack,การดื่ม {0} ช่วยเพิ่มความเสียหายของการโจมตีนี้

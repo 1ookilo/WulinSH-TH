@@ -1,0 +1,27 @@
+﻿﻿AuctionName_101,Auction,ประมูล
+AuctionName_102,Auction,ประมูล
+AuctionName_103,Treasure Competition,งานค้นหาสมบัติ
+AuctionName_104,Dirty Street Auction,งานประมูลตรอกเล้าหมู
+AuctionName_105,Night Demon Square Auction,งานประมูลจัตุรัสปีศาจราตรี
+AuctionNormalItemIndroduction,"The next item for auction is {0}Item{2}, starting bid {3} Wen.","รายการต่อไปที่จะประมูลคือ {0}ไอเทม{2}, เริ่มเสนอราคา {3} อีแปะ."
+AuctionTreasureIndroduction,"You are all in luck today, we will be showcasing our last mysterious item, {0}{1}{2}, starting bid {3} Wen, let's see who will take it home.","วันนี้พวกท่านโชคดีเป็นอย่างยิ่ง เราจะนำเสนอสินค้าลับสุดท้ายของเรา, {0}{1}{2}, ราคาเริ่มต้นที่ {3} อีแปะ, มาดูกันว่าใครจะได้มันกลับบ้านไป"
+AuctionCommissionChargeTip,Successful bids will be charged a <#62FF52>10%</color> service fee.,เมื่อประมูลชนะจะถูกเรียกเก็บค่าธรรมเนียม <#62FF52>10%</color> เป็นค่าบริการ.
+AuctionCommissionEntrancePriceTip,You need to pay <size=-12> </size><#62FF52>{0}</color><size=-12> </size> Wen.,ท่านต้องจ่าย <size=-12> </size><#62FF52>{0}</color><size=-12> </size> อีแปะ.
+AuctionTalk_NpcBid,"<size=36>I bid <size=48><#62FF52>{0}</color><size=36> Wen.|<size=36>I, I bid <size=48><#62FF52>{0}</color><size=36> Wen.|<size=36>Bid <size=48><#62FF52>{0}</color><size=36> Wen.","<size=36>ข้าเสนอราคา <size=48><#62FF52>{0}</color><size=36> อีแปะ.|<size=36>ข้า, ข้าเสนอราคา <size=48><#62FF52>{0}</color><size=36> อีแปะ.|<size=36>เสนอราคา <size=48><#62FF52>{0}</color><size=36> อีแปะ."
+AuctionTalk_PlayerBid,"<size=36>I bid <size=48><#62FF52>{0}</color><size=36> Wen.|<size=36>I, I bid <size=48><#62FF52>{0}</color><size=36> Wen.|<size=36>Bid <size=48><#62FF52>{0}</color><size=36> Wen.","<size=36>ข้าเสนอราคา <size=48><#62FF52>{0}</color><size=36> อีแปะ.|<size=36>ข้า, ข้าเสนอราคา <size=48><#62FF52>{0}</color><size=36> อีแปะ.|<size=36>เสนอราคา <size=48><#62FF52>{0}</color><size=36> อีแปะ."
+AuctionBidOneSuccess,Great! Let's congratulate {0} for winning {2} with a bid of {1} Wen!,ยอดเยี่ยม! ขอแสดงความยินดีกับ {0} สำหรับการชนะ {2} ด้วยราคาเสนอ {1} อีแปะ!
+AuctionRemind,"{0}, {1} bid {2} Wen {3} times!","{0}, {1} เสนอราคา {2} อีแปะ {3} ครั้ง!"
+AuctionAbortive,"What a pity, it seems that everyone is not interested in this auction item!","น่าเสียดาย, ดูเหมือนว่าจะไม่มีใครสนใจประมูลสินค้าชิ้นนี้เลย!"
+AuctionTalk_IntroduceNormal_Other,Oh.|Oh!|Oh~|Oh!!|Oh~~,โอ้|โอ้! |โอ้~|โอ้! ! |โอ้~~
+AuctionTalk_BidMoreHalf_Other,The price has increased by 50%|The price has increased by 50%!|The price has increased by 50%!!,ราคาเพิ่มขึ้น 50%|ราคาเพิ่มขึ้น 50%!|ราคาเพิ่มขึ้น 50%!!
+AuctionTalk_BidDouble_Other,The price has doubled|The price has doubled!|The price has doubled!!,ราคาเพิ่มขึ้นเป็นสองเท่า|ราคาเพิ่มขึ้นเป็นสองเท่า!|ราคาเพิ่มขึ้นเป็นสองเท่า!!
+AuctionTalk_BidSuccessNormal_Other,He succeeded|He succeeded!|He succeeded!!|He succeeded!!!,เขาทำสำเร็จ|เขาทำสำเร็จ!|เขาทำสำเร็จ!!|เขาทำสำเร็จ!!!
+AuctionTalk_PlayerFuckOff_Other,I'll snatch it tonight|I'll snatch it tonight!|I'll snatch it tonight!!,ข้าจะขโมยมันคืนนี้|ข้าจะขโมยมันคืนนี้!|ข้าจะขโมยมันคืนนี้!!
+AuctionTalk_PlayerBidSuccess_OtherFriendly,Impressive!|Impressive!|Truly remarkable!,น่าประทับใจ!|น่าประทับใจ!|น่าทึ่งจริงๆ!
+AuctionTalk_IntroduceTreasure_Other,This is amazing!|This is truly extraordinary!|Such a rare sight!,น่าทึ่งมาก!|ไม่ธรรมดาจริงๆ!|เป็นภาพที่หาชมได้ยากนัก!
+AuctionTalk_TwoSecondsNoBidFromStart,So awkward|So awkward!|So awkward!!,น่าอึดอัดใจมาก|น่าอึดอัดใจมาก!|น่าอึดอัดใจมาก!!
+AuctionNews_Treasure,"{AuctionName0} presents the top auction item {ItemName0}, after a thrilling competition, it was finally won by {RoleName0}.",{AuctionName0} นำเสนอรายการประมูลอันดับต้นๆ {ItemName0} หลังจากการแข่งขันอันน่าตื่นเต้น ในที่สุด {RoleName0} ก็ชนะไป.
+AuctionEnterConfirm,Are you sure you want to pay {0} Coin to participate in {1}?,แน่ใจหรือไม่ว่าต้องการจ่าย {0} อีแปะ เพื่อเข้าร่วม {1}
+AuctionConclusion,"Thank you all for participating in this {0}, the auction has successfully ended, thank you all for your support.","ขอขอบคุณทุกท่านที่เข้าร่วมใน {0} นี้, การประมูลสิ้นสุดลงแล้ว, ขอขอบคุณทุกท่านที่ให้การสนับสนุน"
+AuctionStealed,"I can't believe that an auction item was stolen right under my nose! The auction has to end early, my apologies to everyone.",ข้าไม่อยากจะเชื่อเลยว่ารายการประมูลถูกขโมยไปใต้จมูกของข้า! การประมูลต้องจบลงก่อนกําหนดขอโทษพวกท่านทุกคนด้วย
+AuctionName_106,Treasure Competition,งานค้นหาสมบัติ

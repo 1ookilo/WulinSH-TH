@@ -1,0 +1,834 @@
+﻿﻿BattleFieldInfo_1005牛家村广场1,No limit to the number of partners in the war.,ไม่จำกัดจำนวนพันธมิตรในสงคราม
+BattleFieldInfo_1005牛家村广场2,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_1005牛家村广场3,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_1005牛家村广场4,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_2001牛家村吊桥1,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_2001牛家村吊桥2,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_2003-干野猪,No limit to the number of partners in the war.,ไม่จำกัดจำนวนพันธมิตรในสงคราม
+BattleFieldInfo_M1200-3-大当家单挑,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_M1200-4-大战二当家,No limit to the number of partners in the war.,ไม่จำกัดจำนวนพันธมิตรในสงคราม
+BattleFieldInfo_通缉,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldInfo_擂台战1,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_擂台战2,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_擂台战3,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_地下竞技场1,Up to 1 person can be deployed.,สามารถปรับใช้ได้สูงสุด 1 คน
+BattleFieldInfo_地下竞技场2,Up to 3 people can be deployed.,สามารถปรับใช้ได้สูงสุด 3 คน
+BattleFieldInfo_地下竞技场3,Up to 6 people can be deployed.,สามารถปรับใช้ได้สูงสุด 6 คน
+BattleFieldInfo_教训洪小七,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_教训洪小七,Defeat the <#61C3C8>dirty little beggar</color>.,เอาชนะ<#61C3C8>ขอทานสกปรกตัวน้อย</color>
+BattleFieldFail_教训洪小七,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_M20300-51战斗1,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_M20300-51战斗1,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20300-51战斗1,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20300-51战斗2,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20300-51战斗2,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20300-51战斗2,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20300-53战斗1,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20300-53战斗1,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20300-53战斗1,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20300-54战斗1,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20300-54战斗1,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20300-54战斗1,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20300-56战斗1,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20300-56战斗1,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20300-56战斗1,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20200-1006战斗1,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20200-1006战斗1,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20200-1006战斗1,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20300-1006战斗1,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20300-1006战斗1,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20300-1006战斗1,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Z002战斗,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldInfo_Z004单挑1,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_Z004单挑2,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_Z004单挑3,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_Z006战斗,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldInfo_Z008战斗,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_Z009战斗1,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldInfo_Z009战斗2,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldInfo_Z010战斗,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldInfo_M1101-10战斗1,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldInfo_M1101-10战斗2,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldInfo_M20300-31与耍猴人战斗,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_M20300-31与耍猴人战斗,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20300-31与耍猴人战斗,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_M20300-31与邋遢张战斗,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_M20300-31与邋遢张战斗,Defeat <#61C3C8>La Tazhang</color>.,สยบ<#61C3C8>ลาทาจาง</color>
+BattleFieldFail_M20300-31与邋遢张战斗,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_R10009-1 开化塔一层战斗,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_R10009-1 开化塔一层战斗,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10009-1 开化塔一层战斗,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_M20321-战斗1,Only <#61C3C8>Ye Yinping</color> is allowed to fight.,<#61C3C8>เย่หยินผิง</color>เท่านั้น ที่ได้รับอนุญาตให้ต่อสู้
+BattleFieldInfo_M20321-战斗2,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_M20321-战斗3,"Only <#61C3C8>{PlayerName}, Ye Yinping</color> are allowed to fight.","<#61C3C8>{PlayerName}, เย่หยินผิง</color>เท่านั้น ที่ได้รับอนุญาตให้ต่อสู้"
+BattleFieldInfo_M20321-战斗4,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_M20321-战斗5,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldInfo_M20321-战斗6,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_M20321-1战斗1,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldInfo_M20316-2战斗1,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_M20316-2战斗1,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20316-2战斗1,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_M20316-2战斗2,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_M20316-2战斗2,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20316-2战斗2,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_M20327-1战斗1,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_R10048-1战斗1,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10048-1战斗1,Defeat <#61C3C8>Fu Bu Bingwei</color>.,เอาชนะ <#61C3C8>ฟู่ปูปิงเว่ย</color>
+BattleFieldFail_R10048-1战斗1,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20307-1战斗1,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_R10048-2战斗1,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_R10048-2战斗1,Defeat <#61C3C8>Fu Bu Bingwei</color>.,เอาชนะ <#61C3C8>ฟู่ปูปิงเว่ย</color>
+BattleFieldFail_R10048-2战斗1,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_R10048-2战斗2,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10048-2战斗2,Defeat <#61C3C8>Fu Bu Bingwei</color>.,เอาชนะ <#61C3C8>ฟู่ปูปิงเว่ย</color>
+BattleFieldFail_R10048-2战斗2,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20328-2_战斗1,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_M20328-2_战斗2,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_M20300-3战斗1,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20300-3战斗1,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20300-3战斗1,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20300-3战斗2,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20300-3战斗2,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20300-3战斗2,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20300-3战斗3,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20300-3战斗3,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20300-3战斗3,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20300-3战斗4,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20300-3战斗4,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20300-3战斗4,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20300-3战斗5,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20300-3战斗5,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20300-3战斗5,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20300-4,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldInfo_M20300-61（1）,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldInfo_M20300-61,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_M20300-62战斗1,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldInfo_M20300-61战斗1,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_M20300-61战斗2,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldInfo_M1400-6,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_M1400-7,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_M1500-2,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_专属录像战斗1,
+BattleFieldInfo_专属录像战斗2,
+BattleFieldInfo_M1101-3战斗1,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M1101-3战斗1,Defeat the <#61C3C8>ruffian</color>.,เอาชนะ<#61C3C8>อันธพาล</color>
+BattleFieldFail_M1101-3战斗1,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M1100-武师初战,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_M1301-1战斗1,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldInfo_M1600-1十字坡战斗,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M1600-1十字坡战斗,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M1600-1十字坡战斗,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_M1600-1十字坡战斗-叶银瓶是队友,"<#61C3C8>{PlayerName}, Ye Yinping</color> join the fight, up to 6 people can be deployed.","<#61C3C8>{PlayerName}, เย่หยินผิง</color>เข้าร่วมการต่อสู้ สามารถร่วมต่อสู้ได้สูงสุด 6 คน"
+BattleFieldWin_M1600-1十字坡战斗-叶银瓶是队友,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M1600-1十字坡战斗-叶银瓶是队友,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_Role1-3-老板娘,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_Role1-5-单挑孔一刀,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_Role1-5-群殴孔一刀,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldInfo_Role1-5-单挑三个山贼,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldInfo_新Role1-1-落魄中年人单挑黑衣人,
+BattleFieldInfo_新Role1-1-被黑衣人围攻,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_新Role1-1-被黑衣人围攻,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_新Role1-1-被黑衣人围攻,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_新Role2-2-逗猫戏狗阵,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_新Role2-2-逗猫戏狗阵,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_新Role2-2-逗猫戏狗阵,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_新Role2-4-舞女战,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_新Role2-4-舞女战,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_新Role2-4-舞女战,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_新Role3-10-群狗咬象大阵,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_新Role3-10-群狗咬象大阵,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_新Role3-10-群狗咬象大阵,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_R20001-1野猪,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R20001-1野猪,Defeat <#61C3C8>all wild boars</color>.,เอาชนะ <#61C3C8>หมูป่าทั้งหมด</color>
+BattleFieldFail_R20001-1野猪,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10067-3群殴,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_R10067-3群殴,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10067-3群殴,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_M1400-3野猪,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M1400-3野猪,Defeat <#61C3C8>all wild boars</color>.,เอาชนะ <#61C3C8>หมูป่าทั้งหมด</color>
+BattleFieldFail_M1400-3野猪,Either <#61C3C8>all of our side</color> or <#61C3C8>two mountain bandits</color> are defeated.,<#61C3C8>ฝ่ายเราทุกคน</color>หรือ<#61C3C8>โจรภูเขาสองคน</color>พ่ายแพ้
+BattleFieldInfo_R20002-1迷踪林救樵夫,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R20002-1迷踪林救樵夫,Defeat <#61C3C8>all poisonous snakes</color>.,กำจัด<#61C3C8>งูพิษทั้งหมด</color>
+BattleFieldFail_R20002-1迷踪林救樵夫,Either <#61C3C8>all of our side</color> or <#61C3C8>Woodcutter</color> are defeated.,<#61C3C8>ฝ่ายเราทุกคน<#61C3C8>หรือ</color>คนตัดไม้</color>พ่ายแพ้
+BattleFieldInfo_Role1-5-1打洛千雪,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role1-5-1打洛千雪,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role1-5-1打洛千雪,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role1-5-2打燕子窝,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role1-5-2打燕子窝,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role1-5-2打燕子窝,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20101-2帮将军府,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20101-2帮将军府,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20101-2帮将军府,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20101-2帮脏街,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20101-2帮脏街,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20101-2帮脏街,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20101-2两边一起打,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20101-2两边一起打,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20101-2两边一起打,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20103-2粮仓抓人,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20103-2粮仓抓人,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20103-2粮仓抓人,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20103-2难民营抓人,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20103-2难民营抓人,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20103-2难民营抓人,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_三大武馆交流会,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_三大武馆交流会,Defeat the <#61C3C8>competition opponent</color>.,เอาชนะ<#61C3C8>คู่ต่อสู้</color>
+BattleFieldFail_三大武馆交流会,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_三大武馆挑战赛,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_三大武馆挑战赛,Defeat the <#61C3C8>competition opponent</color>.,เอาชนะ<#61C3C8>คู่ต่อสู้</color>
+BattleFieldFail_三大武馆挑战赛,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_M20105-2入门弟子,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20105-2入门弟子,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20105-2入门弟子,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20105-2数月弟子,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20105-2数月弟子,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20105-2数月弟子,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20105-2数年弟子,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20105-2数年弟子,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20105-2数年弟子,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20105-2最强弟子,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20105-2最强弟子,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20105-2最强弟子,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20106-2救郎中,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20106-2救郎中,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20106-2救郎中,Either <#61C3C8>all of our side</color> or <#61C3C8>the doctor</color> are defeated.,ทั้ง<#61C3C8>ฝั่งของเราทุกคน</color>หรือ<#61C3C8>หมอ</color>พ่ายแพ้
+BattleFieldInfo_M20101-6脏街教训,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20101-6脏街教训,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20101-6脏街教训,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20209-2珠光宝气楼,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20209-2珠光宝气楼,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20209-2珠光宝气楼,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20307-2入门弟子,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20307-2入门弟子,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20307-2入门弟子,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20307-2数月弟子,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20307-2数月弟子,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20307-2数月弟子,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20307-2数年弟子,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20307-2数年弟子,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20307-2数年弟子,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20307-2最强弟子,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20307-2最强弟子,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20307-2最强弟子,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20205-2入门弟子,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20205-2入门弟子,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20205-2入门弟子,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20205-2数月弟子,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20205-2数月弟子,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20205-2数月弟子,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20205-2数年弟子,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20205-2数年弟子,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20205-2数年弟子,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20205-2最强弟子,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20205-2最强弟子,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20205-2最强弟子,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20109-1打捕快,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20109-1打捕快,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20109-1打捕快,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20109-1打损道人,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20109-1打损道人,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20109-1打损道人,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10056-1单挑九黎弟子,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_R10056-1单挑九黎弟子,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10056-1单挑九黎弟子,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10056-1二人打九黎弟子,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_R10056-1二人打九黎弟子,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10056-1二人打九黎弟子,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10056-1群殴九黎弟子,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10056-1群殴九黎弟子,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10056-1群殴九黎弟子,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M1200-10将军府,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M1200-10将军府,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M1200-10将军府,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M1200-15将军府,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M1200-15将军府,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M1200-15将军府,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20123-1仙人跳,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_M20123-1仙人跳,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20123-1仙人跳,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_M20118-3丁小姐复仇,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_M20118-3丁小姐复仇,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20118-3丁小姐复仇,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_Role2-7打地痞,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role2-7打地痞,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role2-7打地痞,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role2-7训练士兵,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role2-7训练士兵,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role2-7训练士兵,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R100185-2蔡攸之四贤阵,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_R100185-2蔡攸之四贤阵,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R100185-2蔡攸之四贤阵,Either <#61C3C8>{PlayerName}</color> or <#61C3C8>Cai Youzhi</color> are defeated.,ทั้ง<#61C3C8>{PlayerName}</color>หรือ<#61C3C8>ไค โหยวจือ</color>พ่ายแพ้
+BattleFieldInfo_M2130-1夜摩坊群战,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M2130-1夜摩坊群战,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M2130-1夜摩坊群战,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M1000-7马王洞喽啰,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M1000-7马王洞喽啰,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M1000-7马王洞喽啰,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M1000-1-5武林霸主,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_M1000-1-5武林霸主,Teach these people who refuse to submit a lesson.,สอนคนเหล่านี้ที่ไม่เต็มใจที่จะยอมแพ้
+BattleFieldFail_M1000-1-5武林霸主,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_XS20300-1打乞丐,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_XS20300-1打乞丐,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_XS20300-1打乞丐,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_XS20300-2打乞丐,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_XS20300-2打乞丐,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_XS20300-2打乞丐,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_XS20300-3打乞丐,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_XS20300-3打乞丐,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_XS20300-3打乞丐,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_XS20300-4打泼皮,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_XS20300-4打泼皮,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_XS20300-4打泼皮,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_XS20300-5打黑衣人,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_XS20300-5打黑衣人,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_XS20300-5打黑衣人,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_XS20300-6打黑衣人,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_XS20300-6打黑衣人,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_XS20300-6打黑衣人,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_XS20300-7打黑衣人,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_XS20300-7打黑衣人,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_XS20300-7打黑衣人,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_XS20300-9打水贼前哨,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_XS20300-9打水贼前哨,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_XS20300-9打水贼前哨,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_XS20300-9打水贼大部队,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_XS20300-9打水贼大部队,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_XS20300-9打水贼大部队,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_XS20200-1打乞丐,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_XS20200-1打乞丐,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_XS20200-1打乞丐,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_XS20200-2打乞丐,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_XS20200-2打乞丐,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_XS20200-2打乞丐,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_XS20200-3打乞丐,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_XS20200-3打乞丐,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_XS20200-3打乞丐,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_XS20200-4打泼皮,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_XS20200-4打泼皮,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_XS20200-4打泼皮,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_XS20200-5打黑衣人,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_XS20200-5打黑衣人,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_XS20200-5打黑衣人,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_XS20200-6打黑衣人,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_XS20200-6打黑衣人,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_XS20200-6打黑衣人,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_XS20200-7打黑衣人,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_XS20200-7打黑衣人,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_XS20200-7打黑衣人,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_XS20200-9打水贼前哨,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_XS20200-9打水贼前哨,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_XS20200-9打水贼前哨,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_XS20200-9打水贼大部队,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_XS20200-9打水贼大部队,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_XS20200-9打水贼大部队,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_XS20100-1打乞丐,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_XS20100-1打乞丐,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_XS20100-1打乞丐,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_XS20100-2打乞丐,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_XS20100-2打乞丐,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_XS20100-2打乞丐,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_XS20100-3打乞丐,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_XS20100-3打乞丐,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_XS20100-3打乞丐,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_XS20100-4打泼皮,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_XS20100-4打泼皮,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_XS20100-4打泼皮,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_XS20100-5打黑衣人,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_XS20100-5打黑衣人,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_XS20100-5打黑衣人,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_XS20100-6打黑衣人,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_XS20100-6打黑衣人,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_XS20100-6打黑衣人,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_XS20100-7打黑衣人,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_XS20100-7打黑衣人,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_XS20100-7打黑衣人,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_XS20100-9打水贼前哨,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_XS20100-9打水贼前哨,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_XS20100-9打水贼前哨,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_XS20100-9练兵,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_XS20100-9练兵,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_XS20100-9练兵,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M5050-1打心魔,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_M5050-1打心魔,Defeat your own inner demons.,เอาชนะปีศาจภายในจิตใจของคุณเอง
+BattleFieldFail_M5050-1打心魔,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_M5050-1打黑衣人1,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_M5050-1打黑衣人1,Defeat the man in black.,เอาชนะชายชุดดำ
+BattleFieldFail_M5050-1打黑衣人1,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_M5050-1打黑衣人2,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_M5050-1打黑衣人2,Defeat the man in black.,เอาชนะชายชุดดำ
+BattleFieldFail_M5050-1打黑衣人2,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_M5050-1打黑衣人3,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_M5050-1打黑衣人3,Defeat the man in black.,เอาชนะชายชุดดำ
+BattleFieldFail_M5050-1打黑衣人3,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_M5050-1打黑衣人4,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_M5050-1打黑衣人4,Defeat the man in black.,เอาชนะชายชุดดำ
+BattleFieldFail_M5050-1打黑衣人4,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_M1400-4救山贼,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M1400-4救山贼,Defeat <#61C3C8>all wild boars</color>.,เอาชนะ <#61C3C8>หมูป่าทั้งหมด</color>
+BattleFieldFail_M1400-4救山贼,Either <#61C3C8>all of our side</color> or <#61C3C8>mountain bandit</color> are defeated.,<#61C3C8>ฝ่ายเราทุกคน</color>หรือ<#61C3C8>โจรภูเขา</color>พ่ายแพ้
+BattleFieldInfo_R10061-1救李乐雅,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10061-1救李乐雅,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10061-1救李乐雅,Either <#61C3C8>all of our side</color> or <#61C3C8>Li Leya</color> are defeated.,<#61C3C8>ฝ่ายเราทุกคน</color>หรือ<#61C3C8>หลี่เล่อหยา</color>พ่ายแพ้
+BattleFieldInfo_R20025-5救花四娘,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R20025-5救花四娘,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R20025-5救花四娘,Either <#61C3C8>all of our side</color> or <#61C3C8>Hua Siniang</color> are defeated.,<#61C3C8>ฝ่ายเราทุกคน</color>หรือ<#61C3C8>ฮวาซื่อเหนียง</color>พ่ายแพ้
+BattleFieldInfo_R20025-9挑战一枝花,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_R20025-9挑战一枝花,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R20025-9挑战一枝花,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_R20025-10康王府打主簿,"<#61C3C8>{PlayerName}</color> and <#61C3C8>Hua Siniang</color> join the fight, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color>และ<#61C3C8>ฮวาซื่อเหนียง</color>เข้าร่วมการต่อสู้ สามารถร่วมต่อสู้ได้สูงสุด 6 คน
+BattleFieldWin_R20025-10康王府打主簿,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R20025-10康王府打主簿,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R20004-6包打听寻仇,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_R20004-6包打听寻仇,Defeat <#61C3C8>Bao Dating</color>.,เอาชนะ <#61C3C8>เปาต้าถิง</color>
+BattleFieldFail_R20004-6包打听寻仇,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_花四娘结缘,<#61C3C8>{PlayerName}</color> and <#61C3C8>Hua Siniang</color> join the fight.,<#61C3C8>{PlayerName}</color>และ<#61C3C8>ฮวาซื่อเหนียง</color>เข้าร่วมการต่อสู้
+BattleFieldWin_花四娘结缘,"Pass the test of birth, aging, sickness, and death.",ผ่านการทดสอบการเกิด แก่ เจ็บ และตาย
+BattleFieldFail_花四娘结缘,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_叶银瓶结缘,<#61C3C8>{PlayerName}</color> and <#61C3C8>Ye Yinping</color> join the fight.,<#61C3C8>{PlayerName}</color>และ<#61C3C8>เย่หยินผิง</color>เข้าร่วมการต่อสู้
+BattleFieldWin_叶银瓶结缘,"Pass the test of birth, aging, sickness, and death.",ผ่านการทดสอบการเกิด แก่ เจ็บ และตาย
+BattleFieldFail_叶银瓶结缘,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_洛千雪结缘,<#61C3C8>{PlayerName}</color> and <#61C3C8>Luo Qianxue</color> join the fight.,<#61C3C8>{PlayerName}</color>และ<#61C3C8>ลั่วเฉียนเสวี่ย</color>เข้าร่วมการต่อสู้
+BattleFieldWin_洛千雪结缘,"Pass the test of birth, aging, sickness, and death.",ผ่านการทดสอบการเกิด แก่ เจ็บ และตาย
+BattleFieldFail_洛千雪结缘,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_华青青结缘,<#61C3C8>{PlayerName}</color> and <#61C3C8>Hua Qingqing</color> join the battle.,<#61C3C8>{PlayerName}</color>และ<#61C3C8>ฮวาชิงชิง</color>เข้าร่วมการต่อสู้
+BattleFieldWin_华青青结缘,"Pass the test of birth, aging, sickness, and death.",ผ่านการทดสอบการเกิด แก่ เจ็บ และตาย
+BattleFieldFail_华青青结缘,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_福箐郡主结缘,<#61C3C8>{PlayerName}</color> and <#61C3C8>Fuqing Junzhu</color> join the battle.,<#61C3C8>{PlayerName}</color>และ<#61C3C8>ฝูชิง จุนซู</color>เข้าร่วมการต่อสู้
+BattleFieldWin_福箐郡主结缘,"Pass the test of birth, aging, sickness, and death.",ผ่านการทดสอบการเกิด แก่ เจ็บ และตาย
+BattleFieldFail_福箐郡主结缘,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_曲忘忧结缘,<#61C3C8>{PlayerName}</color> and <#61C3C8>Qu Wangyou</color> join the battle.,<#61C3C8>{PlayerName}</color>และ<#61C3C8>ฉู่หวังโหย่ว</color>เข้าร่วมการต่อสู้
+BattleFieldWin_曲忘忧结缘,"Pass the test of birth, aging, sickness, and death.",ผ่านการทดสอบการเกิด แก่ เจ็บ และตาย
+BattleFieldFail_曲忘忧结缘,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_绛紫烟结缘,<#61C3C8>{PlayerName}</color> and <#61C3C8>Jiang Ziyan</color> join the battle.,<#61C3C8>{PlayerName}</color>และ<#61C3C8>เจียงจื่อเอียน</color>เข้าร่วมการต่อสู้
+BattleFieldWin_绛紫烟结缘,"Pass the test of birth, aging, sickness, and death.",ผ่านการทดสอบการเกิด แก่ เจ็บ และตาย
+BattleFieldFail_绛紫烟结缘,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10006-2帮释嗔,"<#61C3C8>{PlayerName}</color> and <#61C3C8>Shi Chen</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color>และ<#61C3C8>ชิเฉิน</color>เข้าร่วมการต่อสู้ได้มากถึง 6 คน.
+BattleFieldWin_R10006-2帮释嗔,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10006-2帮释嗔,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10033-2排山倒海大阵,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10033-2排山倒海大阵,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10033-2排山倒海大阵,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role2-31-1大决战1,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role2-31-1大决战1,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role2-31-1大决战1,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role2-31-1大决战2,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role2-31-1大决战2,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role2-31-1大决战2,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role2-31-1叶家军大决战1,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role2-31-1叶家军大决战1,Defeat <#61C3C8>all enemies</color> with the help of Ye Family Battalion.,ร่วมมือกองพันตรพกูลเย่ เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role2-31-1叶家军大决战1,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role2-31-1叶家军大决战2,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role2-31-1叶家军大决战2,Defeat <#61C3C8>all enemies</color> with the help of Ye Family Battalion.,ร่วมมือกองพันตรพกูลเย่ เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role2-31-1叶家军大决战2,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role2-31-1叶家军大决战3,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role2-31-1叶家军大决战3,Defeat <#61C3C8>all enemies</color> with the help of Ye Family Battalion.,ร่วมมือกองพันตรพกูลเย่ เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role2-31-1叶家军大决战3,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role2-31-1叶家军大决战4,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role2-31-1叶家军大决战4,Defeat <#61C3C8>all enemies</color> with the help of Ye Family Battalion.,ร่วมมือกองพันตรพกูลเย่ เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role2-31-1叶家军大决战4,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role2-31-2大决战1,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role2-31-2大决战1,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role2-31-2大决战1,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10035-1打完颜亮,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10035-1打完颜亮,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10035-1打完颜亮,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10035-1帮完颜亮,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10035-1帮完颜亮,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10035-1帮完颜亮,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10035-2-1帮完颜亮,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10035-2-1帮完颜亮,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10035-2-1帮完颜亮,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10035-2-1打完颜亮,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10035-2-1打完颜亮,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10035-2-1打完颜亮,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10035-2-2打完颜亮,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10035-2-2打完颜亮,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10035-2-2打完颜亮,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10035-2-3帮完颜亮,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_R10035-2-3帮完颜亮,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10035-2-3帮完颜亮,<#61C3C8>{PlayerName}</color> or <#61C3C8>Wan Yan Liang</color> is defeated.,<#61C3C8>{PlayerName}</color>หรือ<#61C3C8>วาน หยาน เหลียง</color>พ่ายแพ้
+BattleFieldInfo_Role5-2打将军府门卫,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role5-2打将军府门卫,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role5-2打将军府门卫,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role5-2打将军府护卫,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role5-2打将军府护卫,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role5-2打将军府护卫,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role5-3练兵,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role5-3练兵,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role5-3练兵,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role5-3-1士兵,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role5-3-1士兵,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role5-3-1士兵,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role5-3-1百夫长,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role5-3-1百夫长,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role5-3-1百夫长,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role5-3-1千夫长,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role5-3-1千夫长,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role5-3-1千夫长,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20300-17开化塔1层,Only 1 person can be deployed.,มีเพียง 1 คนเท่านั้นที่สามารถเข้าร่วมการต่อสู้ได้
+BattleFieldWin_M20300-17开化塔1层,Defeat the <#61C3C8>gatekeeper</color>.,เอาชนะ<#61C3C8>คนเฝ้าประตู</color>
+BattleFieldFail_M20300-17开化塔1层,The <#61C3C8>deployed character</color> is defeated.,<#61C3C8>บทบาทของความท้าทาย</color>พ่ายแพ้
+BattleFieldInfo_M20300-17开化塔2层,Only 1 person can be deployed.,มีเพียง 1 คนเท่านั้นที่สามารถเข้าร่วมการต่อสู้ได้
+BattleFieldWin_M20300-17开化塔2层,Defeat the <#61C3C8>gatekeeper</color>.,เอาชนะ<#61C3C8>คนเฝ้าประตู</color>
+BattleFieldFail_M20300-17开化塔2层,The <#61C3C8>deployed character</color> is defeated.,<#61C3C8>บทบาทของความท้าทาย</color>พ่ายแพ้
+BattleFieldInfo_M20300-17开化塔3层,Only 1 person can be deployed.,มีเพียง 1 คนเท่านั้นที่สามารถเข้าร่วมการต่อสู้ได้
+BattleFieldWin_M20300-17开化塔3层,Defeat <#61C3C8>Fu Bu Bingwei</color>.,เอาชนะ <#61C3C8>ฟู่ปูปิงเว่ย</color>
+BattleFieldFail_M20300-17开化塔3层,The <#61C3C8>deployed character</color> is defeated.,<#61C3C8>บทบาทของความท้าทาย</color>พ่ายแพ้
+BattleFieldInfo_M20300-17开化塔4层,Only 1 person can be deployed.,มีเพียง 1 คนเท่านั้นที่สามารถเข้าร่วมการต่อสู้ได้
+BattleFieldWin_M20300-17开化塔4层,Defeat the <#61C3C8>gatekeeper</color>.,เอาชนะ<#61C3C8>คนเฝ้าประตู</color>
+BattleFieldFail_M20300-17开化塔4层,The <#61C3C8>deployed character</color> is defeated.,<#61C3C8>บทบาทของความท้าทาย</color>พ่ายแพ้
+BattleFieldInfo_M20300-17开化塔5层,Only 1 person can be deployed.,มีเพียง 1 คนเท่านั้นที่สามารถเข้าร่วมการต่อสู้ได้
+BattleFieldWin_M20300-17开化塔5层,Defeat the <#61C3C8>gatekeeper</color>.,เอาชนะ<#61C3C8>คนเฝ้าประตู</color>
+BattleFieldFail_M20300-17开化塔5层,The <#61C3C8>deployed character</color> is defeated.,<#61C3C8>บทบาทของความท้าทาย</color>พ่ายแพ้
+BattleFieldInfo_School-2020-4打三师兄,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_School-2020-4打三师兄,Defeat the <#61C3C8>third elder brother</color>.,เอาชนะ<#61C3C8>พี่ชายคนที่สาม</color>
+BattleFieldFail_School-2020-4打三师兄,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role5-7偷袭选锋军,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role5-7偷袭选锋军,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role5-7偷袭选锋军,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role5-7正面选锋军,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role5-7正面选锋军,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role5-7正面选锋军,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role5-7偷袭胜捷军,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role5-7偷袭胜捷军,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role5-7偷袭胜捷军,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role5-7正面胜捷军,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role5-7正面胜捷军,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role5-7正面胜捷军,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role5-7偷袭踏白军,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role5-7偷袭踏白军,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role5-7偷袭踏白军,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role5-7正面踏白军,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role5-7正面踏白军,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role5-7正面踏白军,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M10070-5百夫长,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M10070-5百夫长,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M10070-5百夫长,<#61C3C8>All our members</color> or <#61C3C8>Xuan He Emperor</color> is defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> หรือ <#61C3C8>จักรพรรดิซวนเหอ</color> พ่ายแพ้
+BattleFieldInfo_M10070-5千夫长1,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M10070-5千夫长1,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M10070-5千夫长1,<#61C3C8>All our members</color> or <#61C3C8>Xuan He Emperor</color> is defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> หรือ <#61C3C8>จักรพรรดิซวนเหอ</color> พ่ายแพ้
+BattleFieldInfo_M10070-5千夫长2,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M10070-5千夫长2,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M10070-5千夫长2,<#61C3C8>All our members</color> or <#61C3C8>Xuan He Emperor</color> is defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> หรือ <#61C3C8>จักรพรรดิซวนเหอ</color> พ่ายแพ้
+BattleFieldInfo_M10070-5上京军将军,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M10070-5上京军将军,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M10070-5上京军将军,<#61C3C8>All our members</color> or <#61C3C8>Xuan He Emperor</color> is defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> หรือ <#61C3C8>จักรพรรดิซวนเหอ</color> พ่ายแพ้
+BattleFieldInfo_M10070-5中都军将军,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M10070-5中都军将军,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M10070-5中都军将军,<#61C3C8>All our members</color> or <#61C3C8>Xuan He Emperor</color> is defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> หรือ <#61C3C8>จักรพรรดิซวนเหอ</color> พ่ายแพ้
+BattleFieldInfo_M10070-5南京军将军,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M10070-5南京军将军,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M10070-5南京军将军,<#61C3C8>All our members</color> or <#61C3C8>Xuan He Emperor</color> is defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> หรือ <#61C3C8>จักรพรรดิซวนเหอ</color> พ่ายแพ้
+BattleFieldInfo_Role5-12群殴,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role5-12群殴,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role5-12群殴,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role3-1自己上,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role3-1自己上,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role3-1自己上,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role3-4考核,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_Role3-4考核,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role3-4考核,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_Role3-7新兵单人,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_Role3-7新兵单人,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role3-7新兵单人,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_Role3-7多人组队,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_Role3-7多人组队,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role3-7多人组队,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_Role3-7大型团队,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_Role3-7大型团队,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role3-7大型团队,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_Role3-7一骑当千,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_Role3-7一骑当千,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role3-7一骑当千,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_Role3-7-1以一挡三,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_Role3-7-1以一挡三,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role3-7-1以一挡三,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_Role3-7-1以一挡十,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_Role3-7-1以一挡十,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role3-7-1以一挡十,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_Role3-7-1来者不拒,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_Role3-7-1来者不拒,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role3-7-1来者不拒,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_Role3-15将军府,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role3-15将军府,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role3-15将军府,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role3-16齐王府守卫,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role3-16齐王府守卫,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role3-16齐王府守卫,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M10080-1偷袭上京军,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M10080-1偷袭上京军,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M10080-1偷袭上京军,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M10080-1正面上京军,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M10080-1正面上京军,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M10080-1正面上京军,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M10080-2偷袭南京军,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M10080-2偷袭南京军,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M10080-2偷袭南京军,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M10080-2正面南京军,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M10080-2正面南京军,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M10080-2正面南京军,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M10080-3偷袭中都军,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M10080-3偷袭中都军,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M10080-3偷袭中都军,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M10080-3正面中都军,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M10080-3正面中都军,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M10080-3正面中都军,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role3-22行宫,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role3-22行宫,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role3-22行宫,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role3-24硬闯,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role3-24硬闯,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role3-24硬闯,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role3-25硬闯,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role3-25硬闯,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role3-25硬闯,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role3-26铁面人,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role3-26铁面人,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role3-26铁面人,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role3-26劫狱,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role3-26劫狱,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role3-26劫狱,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role3-26室内埋伏,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role3-26室内埋伏,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role3-26室内埋伏,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Role3-26室外埋伏,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Role3-26室外埋伏,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Role3-26室外埋伏,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Day-2030-2闹事25级,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_Day-2030-2闹事25级,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Day-2030-2闹事25级,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_Day-2030-2闹事35级,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_Day-2030-2闹事35级,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Day-2030-2闹事35级,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_Day-2030-2闹事45级,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_Day-2030-2闹事45级,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Day-2030-2闹事45级,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_Day-2030-2闹事60级,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_Day-2030-2闹事60级,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Day-2030-2闹事60级,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_Story-2030-2-2命不凡,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Story-2030-2-2命不凡,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Story-2030-2-2命不凡,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M2110-1摸金门,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M2110-1摸金门,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M2110-1摸金门,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Story-2030-3摸金门,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Story-2030-3摸金门,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Story-2030-3摸金门,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Spe-2030-5书圣,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_Spe-2030-5书圣,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Spe-2030-5书圣,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_Spe-2030-5画圣,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_Spe-2030-5画圣,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Spe-2030-5画圣,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_Spe-2030-5棋圣,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_Spe-2030-5棋圣,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Spe-2030-5棋圣,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_Spe-2030-5琴圣,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_Spe-2030-5琴圣,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Spe-2030-5琴圣,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_Spe-2030-5四圣,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Spe-2030-5四圣,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Spe-2030-5四圣,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20300-31群芳馆小厮,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20300-31群芳馆小厮,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20300-31群芳馆小厮,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10040-1帮忙,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10040-1帮忙,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10040-1帮忙,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10040-2帮忙,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10040-2帮忙,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10040-2帮忙,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Sur-2020-臣服释法寺,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_Sur-2020-臣服释法寺,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Sur-2020-臣服释法寺,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_Sur-2070-臣服琅琊剑阁,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_Sur-2070-臣服琅琊剑阁,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Sur-2070-臣服琅琊剑阁,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_Sur-2010-臣服道玄宗,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_Sur-2010-臣服道玄宗,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Sur-2010-臣服道玄宗,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_Sur-2030-臣服儒圣馆,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_Sur-2030-臣服儒圣馆,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Sur-2030-臣服儒圣馆,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_Sur-2040-臣服神捕门,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_Sur-2040-臣服神捕门,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Sur-2040-臣服神捕门,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_Sur-2050-臣服九江水寨,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_Sur-2050-臣服九江水寨,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Sur-2050-臣服九江水寨,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_A15003-1打刚烈,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_A15003-1打刚烈,Defeated <#61C3C8>Gang Lie</color>.,เอาชนะ <#61C3C8>กังเลี่ย</color>
+BattleFieldFail_A15003-1打刚烈,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M5014-2闯关,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M5014-2闯关,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M5014-2闯关,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10005-10蛇阵,Only <#61C3C8>{PlayerName}</color> and <#61C3C8>Miao Caidie</color> are allowed to participate in the battle.,เท่านั้น<#61C3C8>{PlayerName}</color>และ<#61C3C8>เหมียว ไฉดี</color>ได้รับอนุญาตให้เข้าร่วมการต่อสู้ได้
+BattleFieldWin_R10005-10蛇阵,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10005-10蛇阵,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10099-3士兵,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10099-3士兵,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10099-3士兵,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10099-3侍女,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10099-3侍女,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10099-3侍女,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10099-4儒圣馆弟子,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10099-4儒圣馆弟子,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10099-4儒圣馆弟子,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10099-5云林寺,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10099-5云林寺,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10099-5云林寺,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20300-22阻止下毒,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20300-22阻止下毒,Defeat the <#61C3C8>suspicious guy</color>.,เอาชนะ<#61C3C8>ผู้ชายที่น่าสงสัย</color>
+BattleFieldFail_M20300-22阻止下毒,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldWin_M20300-4,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20300-4,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldWin_M20300-62战斗1,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20300-62战斗1,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_School-2070-13_战斗,"<#61C3C8>{PlayerName}</color> participate in the battle, up to 6 people can be deployed",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_School-2070-13_战斗,Defeat the <#61C3C8>man in black</color>,เอาชนะ <#61C3C8>ชายชุดดำ</color>
+BattleFieldFail_School-2070-13_战斗,<#61C3C8>All of us</color> are defeated,<#61C3C8>พวกเราทั้งหมด</color>พ่ายแพ้
+BattleFieldInfo_Sur-2030-臣服儒圣馆-替代,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_Sur-2030-臣服儒圣馆-替代,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Sur-2030-臣服儒圣馆-替代,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_Day-2010-2星宿大阵,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_Day-2010-2星宿大阵,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Day-2010-2星宿大阵,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_Day-2010-4黑衣人25级,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Day-2010-4黑衣人25级,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Day-2010-4黑衣人25级,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Day-2010-4黑衣人40级,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Day-2010-4黑衣人40级,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Day-2010-4黑衣人40级,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Day-2010-4黑衣人60级,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Day-2010-4黑衣人60级,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Day-2010-4黑衣人60级,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Day-2010-4黑衣人80级,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Day-2010-4黑衣人80级,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Day-2010-4黑衣人80级,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Spe-2050-2官兵,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Spe-2050-2官兵,Defeat <#61C3C8>all the guards</color>.,เอาชนะ <#61C3C8>ยามทั้งหมด</color>
+BattleFieldFail_Spe-2050-2官兵,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10045-1镖师考验,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_R10045-1镖师考验,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10045-1镖师考验,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_R10045-2-1劫镖1,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10045-2-1劫镖1,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10045-2-1劫镖1,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10045-2-1劫镖2,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10045-2-1劫镖2,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10045-2-1劫镖2,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10045-2-1劫镖3,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10045-2-1劫镖3,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10045-2-1劫镖3,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10045-2-2劫镖1,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10045-2-2劫镖1,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10045-2-2劫镖1,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10045-2-2劫镖2,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10045-2-2劫镖2,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10045-2-2劫镖2,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10045-2-2劫镖3,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10045-2-2劫镖3,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10045-2-2劫镖3,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10045-2-3劫镖1,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10045-2-3劫镖1,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10045-2-3劫镖1,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10045-2-3劫镖2,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10045-2-3劫镖2,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10045-2-3劫镖2,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10045-2-3劫镖3,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10045-2-3劫镖3,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10045-2-3劫镖3,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10045-3镖头,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_R10045-3镖头,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10045-3镖头,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_R10021-0曼陀罗战斗,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_R10021-0曼陀罗战斗,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10021-0曼陀罗战斗,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_R10021-0将军战斗,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10021-0将军战斗,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10021-0将军战斗,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20100-5脏街混混,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20100-5脏街混混,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20100-5脏街混混,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10036-3萧元霸-韩红玉是队友,"<#61C3C8>{PlayerName}</color> and <#61C3C8>Han Hongyu</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color>และ<#61C3C8>หานหงหยู</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10036-3萧元霸-韩红玉是队友,Defeat <#61C3C8>Xiao Yuanba</color>.,เอาชนะ <#61C3C8>เสี่ยวหยวนป้า</color>
+BattleFieldFail_R10036-3萧元霸-韩红玉是队友,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10036-3萧元霸-韩红玉不是队友,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10036-3萧元霸-韩红玉不是队友,Defeat <#61C3C8>Xiao Yuanba</color>.,เอาชนะ <#61C3C8>เสี่ยวหยวนป้า</color>
+BattleFieldFail_R10036-3萧元霸-韩红玉不是队友,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Day-2050-1富商,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Day-2050-1富商,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Day-2050-1富商,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Day-2050-1官员,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Day-2050-1官员,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Day-2050-1官员,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Day-2050-1太监,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Day-2050-1太监,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Day-2050-1太监,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Fame-12-1蒙面人1,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Fame-12-1蒙面人1,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Fame-12-1蒙面人1,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Fame-12-1蒙面人2,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Fame-12-1蒙面人2,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Fame-12-1蒙面人2,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Fame-12-1蒙面人3,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Fame-12-1蒙面人3,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Fame-12-1蒙面人3,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Fame-13-1大内侍卫1,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Fame-13-1大内侍卫1,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Fame-13-1大内侍卫1,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Fame-13-1大内侍卫2,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Fame-13-1大内侍卫2,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Fame-13-1大内侍卫2,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Fame-13-1大内侍卫3,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_Fame-13-1大内侍卫3,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Fame-13-1大内侍卫3,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10037-1单挑定风波,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_R10037-1单挑定风波,Defeat <#61C3C8>Ding Fengbo</color>.,เอาชนะ <#61C3C8>ติงเฟิงป๋อ</color>
+BattleFieldFail_R10037-1单挑定风波,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้แล้ว
+BattleFieldInfo_R10094-1秦阎罗单打,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10094-1秦阎罗单打,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10094-1秦阎罗单打,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10094-1男女混合双打,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10094-1男女混合双打,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10094-1男女混合双打,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10094-4一枝花,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10094-4一枝花,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10094-4一枝花,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10094-4太监,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10094-4太监,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10094-4太监,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10028-1士兵,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10028-1士兵,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10028-1士兵,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10028-1千夫长,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10028-1千夫长,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10028-1千夫长,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10028-2-1家丁,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10028-2-1家丁,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10028-2-1家丁,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10028-2-2家丁,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10028-2-2家丁,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10028-2-2家丁,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10028-2-3家丁,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10028-2-3家丁,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10028-2-3家丁,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10028-3夺印,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10028-3夺印,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10028-3夺印,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10028-4保护妹子,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10028-4保护妹子,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10028-4保护妹子,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10028-5住持,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10028-5住持,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10028-5住持,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20100-18硬闯将军府,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20100-18硬闯将军府,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20100-18硬闯将军府,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20200-16硬闯齐王府,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20200-16硬闯齐王府,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20200-16硬闯齐王府,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_M20300-11硬闯康王府,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_M20300-11硬闯康王府,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M20300-11硬闯康王府,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
