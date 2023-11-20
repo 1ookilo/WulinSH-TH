@@ -1126,28 +1126,28 @@ end013_2,"You have grown tired of the life here in the martial world, and starte
 end013_3,You firmly believe that you can find a pure land of your own.
 M1000-5_1_1,"There is a fork in the road ahead, a place you have never been to, could it be a new location to Explore?"
 M1000-5_1_2,"If your <color=#c44b0e>ExploreSkill</color> is further improved, you might discover more unknown places!"
-R20008-2_1_1,"Xiao Bao has a secret, do you want to know, big brother?"
-R20008-2_1_2,"(He probably won't tell me his secret easily, should I listen to him?)"
+R20008-2_1_1,"Xiao Bao has a secret, do you want to know, big brother?",เสี่ยวเปามีความลับอยากรู้ไหมพี่ใหญ่?
+R20008-2_1_2,"(He probably won't tell me his secret easily, should I listen to him?)",(เขาคงไม่เผยความลับต่อข้าโดยง่าย ข้าควรฟังข้าหรือไม่?)
 R20008-2_2_1,"If big brother wants to know the secret, please get Xiao Bao a <color=#c44b0e>Wooden sword</color>.","หากพี่ใหญ่ต้องการทราบความลับ, ได้โปรดหา <color=#c44b0e>กระบี่ไม้</color> ให้กับเสี่ยวเปา"
-R20008-2_5_1,"Big brother, why don't you have any curiosity?"
-R20008-2_5_2,"Well, never mind, Xiao Bao will tell you.\nUnder a tree with pink leaves in the <color=#c44b0e>Lost Forest</color>, there grows a big Lingzhi!"
-R20008-2_5_3,"However, if you go there late and the Lingzhi is eaten by the wild boars, you can't blame Xiao Bao."
+R20008-2_5_1,"Big brother, why don't you have any curiosity?",พี่ใหญ่ ทำไมพี่ไม่มีความอยากรู้บ้างล่ะ?
+R20008-2_5_2,"Well, never mind, Xiao Bao will tell you.\nUnder a tree with pink leaves in the <color=#c44b0e>Lost Forest</color>, there grows a big Lingzhi!",ไม่เป็นไรเสี่ยวเปาจะบอกเอง\nใต้ต้นไม้ที่มีใบสีชมพูใน <color=#c44b0e>ป่าสาปสูญ</color> มีเห็ดหลินจือต้นใหญ่เติบโตอยู่!
+R20008-2_5_3,"However, if you go there late and the Lingzhi is eaten by the wild boars, you can't blame Xiao Bao.",อย่างไรก็ตาม หากพี่ไปที่นั่นช้าและเห็ดหลินจือถูกหมูป่ากิน พี่จะโทษเสี่ยวเปาไม่ได้นะ
 R20008-2_3_1,Did big brother get the Wooden sword for Xiao Bao?,"พี่ใหญ่, ท่านได้กระบี่ไม้สำหรับเสี่ยวเปาหรือไม่?"
-R20008-2_3_2,(What should I do?)
+R20008-2_3_2,(What should I do?),(ข้าควรทำอย่างไรดี?)
 R20008-2_4_1,"Great, Xiao Bao finally has a Wooden sword of his own!","เยี่ยมมาก, ในที่สุดเสี่ยวเปาก็มีกระบี่ไม้เป็นของตัวเองแล้ว!"
-R20008-2_4_2,"The secret is -\nUnder a tree with pink leaves in the <color=#c44b0e>Lost Forest</color>, there grows a big Lingzhi!"
-R20008-2_4_3,"However, if you go there late and the Lingzhi is eaten by the wild boars, you can't blame Xiao Bao."
+R20008-2_4_2,"The secret is -\nUnder a tree with pink leaves in the <color=#c44b0e>Lost Forest</color>, there grows a big Lingzhi!",ความลับก็คือ-\nใต้ต้นไม้ที่มีใบสีชมพูใน <color=#c44b0e>ป่าสาปสูญ</color> มีเห็ดหลินจือต้นใหญ่เติบโตอยู่!
+R20008-2_4_3,"However, if you go there late and the Lingzhi is eaten by the wild boars, you can't blame Xiao Bao.",อย่างไรก็ตาม หากพี่ไปที่นั่นช้าและเห็ดหลินจือถูกหมูป่ากิน พี่จะโทษเสี่ยวเปาไม่ได้นะ
 M1100-3_1_1,"By the way, young man, if you go hunting in the Lost Forest, can you get me <color=#c44b0e>5 Snake galls</color>?",เออนี่ เจ้าหนุ่ม ถ้าเจ้าไปล่าสัตว์ที่ป่าสาปสูญ เจ้าช่วยนำ<color=#c44b0e>ดีงู 5 ชิ้น</color>มาให้ข้าได้ไหม?
 M1100-3_1_2,"Snake gall? What do you need Snake gall for, old man?","ดีงู? ท่านต้องการดีงูไปเพื่ออะไร, ตาแก่?"
-M1100-3_1_3,"Of course, it's for making wine, what else could I use it for?"
-M1100-3_1_4,"(The butcher actually uses Snake Gall to make wine, this...)"
-M1100-3_2_1,"Oh? What's the benefit? Tell me, young man!"
+M1100-3_1_3,"Of course, it's for making wine, what else could I use it for?",แน่นอนว่ามันเอาไว้หมักสุรา จะใช้ทำอะไรได้อีกล่ะ?
+M1100-3_1_4,"(The butcher actually uses Snake Gall to make wine, this...)",(จริงๆ แล้วคนขายเนื้อใช้น้ำดีงูในการหมักสุรา นี่...)
+M1100-3_2_1,"Oh? What's the benefit? Tell me, young man!","โอ้? มีประโยชน์อะไร? บอกมาได้เลย, หนุ่มน้อย!"
 M1100-3_2_2,"If the Snake gall wine is properly made, it can dispel wind, activate collaterals, form qi and blood, nourish yin and strengthen yang, dispel dampness and dispel cold.",หากทำสุราดีงูได้อย่างเหมาะสม ก็สามารถขับไล่ลม กระตุ้นการไหลเวียนของเลือดและลมปราน บำรุงหยินเสริมหยาง ขจัดความชื้น และขจัดความเย็น
 M1100-3_2_3,"In addition, there are also three Snake gall wines and five Snake gall wines made from the gall of three or five different snakes.",นอกจากนี้ยังมี สุราดองดีงูสามชนิดและสุราดองดีงูห้าชนิดที่ทำจากดีงูสามหรือห้าชนิดที่แตกต่างกัน
-M1100-3_2_4,"I didn't know it had these benefits!\nThe old doctor always says this is not good, that is not good, I don't quite understand."
+M1100-3_2_4,"I didn't know it had these benefits!\nThe old doctor always says this is not good, that is not good, I don't quite understand.",ข้าไม่รู้ว่ามันมีประโยชน์เหล่านี้!\nหมอเฒ่ามักบอกเสมอว่า ไม่ดี ไม่ดี ข้าก็ไม่ค่อยเข้าใจ
 M1100-3_2_5,The doctor must be afraid that you can't clean the Snake gall properly.\nYou just need to remove all the foreign objects in the Snake gall.,หมอต้องกลัวว่าจะเจ้าจะล้างดีงูไม่ถูกวิธี\nเจ้าเพียงแค่ต้องเอาสิ่งแปลกปลอมทั้งหมดที่อยู่ในถุงน้ำของดีงูออก
 M1100-3_2_6,"I see! I didn't expect you to know so much about this!\nI have a jar of Snake gall wine here, why don't you drink with me, young man!","ข้าเข้าใจแล้ว! ไม่คิดว่าเจ้าจะรู้เรื่องนี้มากขนาดนี้!\nดีข้ามีไหสุราดองดีงูอยู่ที่นี่ ทำไมไม่มาร่วมวงดื่มกับข้าล่ะ, พ่อหนุ่ม!"
-M1100-3_2_7,Then I'll take your offer.
+M1100-3_2_7,Then I'll take your offer.,แล้วข้าจะรับข้อเสนอของเจ้า
 M1100-3_2_8,"Hahaha, it's so enjoyable to have someone to drink with!\nBut the Snake gall wine just now was my last reserve.","ฮ่าฮ่าฮ่า, มันดีมากที่ได้มีคนมาร่วมดื่มด้วย!\nแต่สุราดองดีงูไหนี้เป็นสุราไหสุดท้ายของข้าแล้ว"
 M1100-3_3_1,"Of course! It has a unique taste!\nI've been drinking it for more than ten years, I just love it!"
 M1100-3_3_2,"Next time if there's a chance, let's have a drink together!"

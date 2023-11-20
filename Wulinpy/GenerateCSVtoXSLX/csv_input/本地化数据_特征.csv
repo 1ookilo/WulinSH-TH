@@ -153,7 +153,7 @@ TraitName_兵器精通,Weapon master,ปรมาจารย์อาวุธ
 TraitName_影子护卫,Secret guardian,ผู้พิทักษ์เงา
 TraitName_神行无忌,Fast runner,นักวิ่งลมกรด
 TraitName_草木皆兵,Perfect adaptation,ปรับตัวอย่างสมบูรณ์
-TraitName_无师自通,Ravenous reader,นักอ่านตัวยง
+TraitName_无师自通,Ravenous reader,เรียนรู้ได้เอง
 TraitName_心有灵犀,Effective learner,เรียนรู้อย่างมุ่งมั่น
 TraitName_万里独行,Loner,ผู้สันโดษ
 TraitName_自带毒疮,Poisonous skin,กายาพิษ
@@ -189,7 +189,7 @@ TraitName_伙伴特征行动迟缓,Sluggish,เฉี่อยชา
 TraitName_伙伴特征先发制人,First strike,โจมตีก่อน
 TraitName_伙伴特征动如脱兔,Like a rabbit,รวดเร็วดั่งกระต่าย
 TraitName_伙伴特征狐假虎威,Dependant,ผู้พึ่งพา
-TraitName_伙伴特征金针刺穴,Meridian piercer
+TraitName_伙伴特征金针刺穴,Meridian piercer,นักสกัดจุด
 TraitName_伙伴特征医有所成,Medical knowledge,ความรู้วิชาแพทย์
 TraitName_伙伴特征妙手仁心,Medical expert,เชี่ยวชาญการแพทย์
 TraitName_伙伴特征不解风情,Unaffectionate,ขาดเสน่ห์
@@ -198,7 +198,7 @@ TraitName_伙伴特征落井下石,Chance taker,นักฉวยโอกา�
 TraitName_伙伴特征山林猎手,Wild hunter,พรานป่า
 TraitName_伙伴特征如履平地,Walker,ผู้เดินเท้า
 TraitName_伙伴特征多年积习,Trash sweeper,นักปัดกวาด
-TraitName_伙伴特征远离是非,Back away
+TraitName_伙伴特征远离是非,Back away,ไปถูกที่ถูกเวลา
 TraitName_伙伴特征粗通拳脚,Fist user,ผู้ใช้วิชาหมัด
 TraitName_伙伴特征道听途说,Rumour listener,นักฟังข่าวลือ
 TraitName_伙伴特征医者自医,Self-healing doctor,หมอรักษาตน
@@ -206,14 +206,14 @@ TraitName_伙伴特征柔情似水,Gentle care,ดูแลอย่างสุ
 TraitName_伙伴特征冷若冰霜,Icy glare,สายตาดุจน้ำแข็ง
 TraitName_伙伴特征锱铢必较,Accountant,นักบัญชี
 TraitName_伙伴特征金刚体魄,Diamond body,กายเพชร
-TraitName_伙伴特征偃武息戈,Blow over
-TraitName_伙伴特征来去飘忽,Gone with the wind
+TraitName_伙伴特征偃武息戈,Blow over,ผนึกชีพจร
+TraitName_伙伴特征来去飘忽,Gone with the wind,จากไปกับสายลม
 TraitName_伙伴特征春燕回翔,Swallow flight,นางแอ่นเหิน
-TraitName_伙伴特征疏而不漏,Precision
-TraitName_伙伴特征刀剑无眼,Sharp edge
-TraitName_伙伴特征暴虐不仁,Tyrannical
-TraitName_伙伴特征勇猛无挡,Bravery
-TraitName_伙伴特征锐不可当,Dangerous aura
+TraitName_伙伴特征疏而不漏,Precision,ประมาทแต่ไม่พลาด
+TraitName_伙伴特征刀剑无眼,Sharp edge,กระบี่ไม่มีตา
+TraitName_伙伴特征暴虐不仁,Tyrannical,โหดร้ายทารุณ
+TraitName_伙伴特征勇猛无挡,Bravery,กล้าหาญ
+TraitName_伙伴特征锐不可当,Dangerous aura,ไม่หยุดยั้ง
 TraitName_伙伴特征所向披靡,Dangerous aura
 TraitName_伙伴特征身形鬼魅,Ghostly mirage,เงาหลอนลวงตา
 TraitName_伙伴特征滚滚波涛,Force waves,คลื่นพลัง
@@ -222,11 +222,11 @@ TraitName_伙伴特征势不可挡,Unstoppable,มิอาจหยุดยั
 TraitName_伙伴特征玄门正宗,Authentic sect,สำนักเที่ยงแท้
 TraitName_伙伴特征特异毒体,Poisonous body,กายพิษ
 TraitName_伙伴特征毒蛊寄生,Poisonous parasite,ปรสิตพิษ
-TraitName_伙伴特征不求甚解,Skimming
-TraitName_伙伴特征风头正盛,Eminent
+TraitName_伙伴特征不求甚解,Skimming,อย่าถามหาคำอธิบาย
+TraitName_伙伴特征风头正盛,Eminent,ทำการอย่างเต็มที่
 TraitName_伙伴特征兄妹双簧,Brother and sister,พี่ชายน้องสาว
-TraitName_伙伴特征隐身匿形,Unseen visage
-TraitName_伙伴特征前朝皇族,Royal blood
+TraitName_伙伴特征隐身匿形,Unseen visage,ล่องหน
+TraitName_伙伴特征前朝皇族,Royal blood,เชื้อสายราชวงศ์
 TraitName_伙伴特征免死金牌,Death-exemption Plate,ป้ายทองเว้นตาย
 TraitName_伙伴特征孟尝遗风,Good comrades,สหายดีงาม
 TraitName_伙伴特征醉生梦死,Drunken life,ชีวิตเมามาย
@@ -234,17 +234,17 @@ TraitName_伙伴特征灵台清明,Clear mind,จิตแจ่มใส
 TraitName_伙伴特征逍遥二仙,Carefree duo,คู่หูไร้ทุกข์โศก
 TraitName_伙伴特征金刚护体,Vajra protection,วัชระคุ้มกาย
 TraitName_伙伴特征佛法加持,Buddhism protection,พุทธะคุ้มกาย
-TraitName_伙伴特征涅槃重生,Nirvana restoration
-TraitName_伙伴特征离经叛道,Deviant
+TraitName_伙伴特征涅槃重生,Nirvana restoration,นิพพานเกิดใหม่
+TraitName_伙伴特征离经叛道,Deviant,ไม่เหมือนคนอื่น
 TraitName_伙伴特征荤腥不忌,Meat eater,คนกินเนื้อ
-TraitName_伙伴特征磨刀霍霍,Sharpened edge
+TraitName_伙伴特征磨刀霍霍,Sharpened edge,ลับมีดคมกริบ
 TraitName_伙伴特征得心应手,Upwind,อยู่เหนือลม
 TraitName_伙伴特征水寨寨主,Lord of Water Camp,เจ้าแห่งค่ายน้ำ
 TraitName_伙伴特征暗劲激发,Hidden force,กำลังลับ
 TraitName_伙伴特征喜怒无常,Moody,หงุดหงิด
 TraitName_伙伴特征铁骨铮铮,Fearless,ไร้ความกลัว
 TraitName_伙伴特征目不视物,Eyesight lost,สูญเสียสายตา
-TraitName_伙伴特征听声辨位,Auditory sight
+TraitName_伙伴特征听声辨位,Auditory sight,แยกด้วยเสียง
 TraitName_伙伴特征连珠射艺,Continuous throwing,อาวุธลับต่อเนื่อง
 TraitName_伙伴特征暗器奇才,Throwing talent,พรสวรรค์อาวุธลับ
 TraitName_伙伴特征琴棋书画,Four arts,สี่ศิลป์
@@ -252,20 +252,20 @@ TraitName_伙伴特征步步为营,Careful step,ย่างก้าวระ�
 TraitName_伙伴特征势大力沉,Muscular,บึกบึน
 TraitName_伙伴特征大器晚成,Slow starter,เริ่มต้นช้า
 TraitName_伙伴特征识破剑招,Sword breaker
-TraitName_伙伴特征武道奇才,Martial prodigy,อัจฉริยะการฝึกยุทธ
+TraitName_伙伴特征武道奇才,Martial prodigy,ผู้ชำนาญวรยุทธ์
 TraitName_伙伴特征剑锋披靡,Lethal sword,กระบี่สังหาร
 TraitName_伙伴特征国色天香,Gorgeous beauty,ความงามที่งดงาม
-TraitName_伙伴特征自惭形秽,Ashamed
+TraitName_伙伴特征自惭形秽,Ashamed,น่าละอาย
 TraitName_伙伴特征倾国倾城,Overwhelming beauty,ความงามเลิศล้ำ
 TraitName_伙伴特征暗送无常,Secret strike,จู่โจมลับ
-TraitName_伙伴特征深究其理,Careful examiner,ผู้คุมสอบเข้มงวด
-TraitName_伙伴特征脏街之主,Street master,เจ้าแห่งท้องถนน
-TraitName_伙伴特征如封似闭,Sealing wind
+TraitName_伙伴特征深究其理,Careful examiner,ตรวจสอบรอบคอบ
+TraitName_伙伴特征脏街之主,Street master,เจ้าแห่งตรอกเล้าหมู
+TraitName_伙伴特征如封似闭,Sealing wind,สกัดวายุ
 TraitName_伙伴特征死里逃生,Survival instinct,สัญชาตญาณเอาตัวรอด
 TraitName_伙伴特征日进斗金,Daily income,รายได้รายวัน
-TraitName_伙伴特征雁过拔毛,Dirty hands,มือสกปรก
+TraitName_伙伴特征雁过拔毛,Dirty hands,ถอนขนห่านป่า
 TraitName_伙伴特征斤斤计较,Economical,ประหยัด
-TraitName_伙伴特征野心勃勃,Ambitious
+TraitName_伙伴特征野心勃勃,Ambitious,ทะเยอทะยาน
 TraitName_伙伴特征众将听命,Give orders,มอบคำสั่ง
 TraitName_伙伴特征先斩后奏,Executioner
 TraitName_伙伴特征余音绕梁,Reverberation,เสียงก้องกังวาน
@@ -275,31 +275,31 @@ TraitName_伙伴特征久病成医,Long illness,โรคเรื้อรั�
 TraitName_伙伴特征目无全牛,Beast killer,นักล่าสัตว์ร้าย
 TraitName_伙伴特征九黎圣女,Jiuli Saintess,ธิดาเทพจิ่วลี่
 TraitName_伙伴特征心有灵犀,Effective learner,เรียนรู้อย่างมุ่งมั่น
-TraitName_伙伴特征武学奇才,Martial genius
+TraitName_伙伴特征武学奇才,Martial genius,อัจฉริยะด้านวรยุทธ
 TraitName_伙伴特征举一反三,Fast learner,เรียนรู้รวดเร็ว
 TraitName_伙伴特征三花聚顶,Three flowers converge,ไตรบุปผาบรรจบ
 TraitName_伙伴特征尽忠报国,Loyalty,ผู้ภักดี
-TraitName_伙伴特征血战到底,To the death
-TraitName_伙伴特征绝境逢生,Against all odds
-TraitName_伙伴特征舍身修罗,Shura sacrifice
+TraitName_伙伴特征血战到底,To the death,สู้ให้ถึงที่สุด
+TraitName_伙伴特征绝境逢生,Against all odds,ต่อต้านทุกอุปสรรค
+TraitName_伙伴特征舍身修罗,Shura sacrifice,สังเวยอสุรา
 TraitName_伙伴特征杀生护生,Kill to protect,สังหารเพื่อปกป้อง
 TraitName_伙伴特征内劲反震,Internal impact,กระแทกภายใน
-TraitName_伙伴特征随心所欲,Arbitrarily
+TraitName_伙伴特征随心所欲,Arbitrarily,ดังใจปรารถนา
 TraitName_伙伴特征一招生死,Life or death
 TraitName_伙伴特征剑意勃发,Sword Qi Explosion,ระเบิดกระบี่ปราณ
-TraitName_伙伴特征战意凛凛,Raging spirit
+TraitName_伙伴特征战意凛凛,Raging spirit,จิตวิญญาณแห่งการต่อสู้
 TraitName_伙伴特征杀意盎然,Killing intent,จิตสังหาร
 TraitName_伙伴特征不留余力,All-out attack,โจมตีสุดตัว
 TraitName_伙伴特征七星阵眼,Formation center,ศูนย์กลางค่ายกล
-TraitName_伙伴特征我见犹怜,Lovely visage
+TraitName_伙伴特征我见犹怜,Lovely visage,เห็นอกเห็นใจ
 TraitName_伙伴特征天生神力,Herculean strength,พละกำลังมหาศาล
-TraitName_伙伴特征金枝玉叶,Rich maiden
+TraitName_伙伴特征金枝玉叶,Rich maiden,กิ่งทองใบหยก
 TraitName_伙伴特征叶家统帅,Ye faction leader,ผู้นำฝ่ายเย่
 TraitName_伙伴特征近身侍卫,Bodyguards,องครักษ์
 TraitName_伙伴特征铁血近卫,Blood guards,ผู้พิทักษ์โลหิต
-TraitName_伙伴特征气场威压,Suppressing aura
-TraitName_伙伴特征气劲贯体,Suppressing attack
-TraitName_伙伴特征绵里藏针,Force reflection
+TraitName_伙伴特征气场威压,Suppressing aura,รังสีกดดัน
+TraitName_伙伴特征气劲贯体,Suppressing attack,ตีปราณทั่วร่าง
+TraitName_伙伴特征绵里藏针,Force reflection,เข็มที่ซ่อนอยู่
 TraitName_伙伴特征皇室贵胄,Royal noble
 TraitName_伙伴特征侠肝义胆,Courageous,อาจหาญ
 TraitName_伙伴特征御剑精通,Sword master,ปรมาจารย์กระบี่
@@ -307,13 +307,13 @@ TraitName_伙伴特征熟能生巧,Practice makes perfect,ยิ่งฝึก�
 TraitName_伙伴特征将门虎女,General's daughter,ธิดาแม่ทัพ
 TraitName_伙伴特征身先士卒,Front guard,ดูเป็นตัวอย่าง
 TraitName_伙伴特征发挥失常,Capriciousness,เอาแต่ใจ
-TraitName_伙伴特征皇权特许,Royal prestige
+TraitName_伙伴特征皇权特许,Royal prestige,ศักดิ์ศรีหลวง
 TraitName_伙伴特征身如鬼魅,Rapid response,ตอบสนองรวดเร็ว
 TraitName_伙伴特征随手烟尘,Dust thrower,จอมสาดทราย
 TraitName_伙伴特征长兵奇才,Long weapon talent,พรสวรรค์อาวุธยาว
 TraitName_伙伴特征邋遢道人,Ragged Taoist,นักพรตซอมซ่อ
 TraitName_伙伴特征先天罡气,Origin Qi,ปราณต้นกำเนิด
-TraitName_伙伴特征以静制动,Readied
+TraitName_伙伴特征以静制动,Readied,พรักพร้อม
 TraitName_伙伴特征道玄宗主,Taoist sect leader,เจ้าสำนักเต๋า
 TraitName_伙伴特征九转回魂,Reversal technique,ชีวิตคืนกลับ
 TraitName_伙伴特征真气护体,Reflective Qi,ปราณสะท้อน
@@ -323,14 +323,14 @@ TraitName_伙伴特征触类旁通,Analyzing,นักวิเคราะห�
 TraitName_伙伴特征儒家传人,Confucius's successor,ผู้สืบทอดขงจื๊อ
 TraitName_伙伴特征袖里青蛇,Hidden snake,อสรพิษซ่อน
 TraitName_伙伴特征恨天不公,World hater,ผู้ชังโลก
-TraitName_伙伴特征繁华楼主,Bustling House owner
+TraitName_伙伴特征繁华楼主,Bustling House owner,เจ้าบ้านคึกคัก
 TraitName_伙伴特征妙手空空2,Sleight of hand,มืออันว่องไว
 TraitName_伙伴特征好事成双,Lucky,โชคดี
 TraitName_伙伴特征踏雪无痕,Traceless step,ย่างก้าวไร้ร่องรอย
 TraitName_伙伴特征释家传人,Qi family's successor,ผู้สืบทอดตระกูลฉี
 TraitName_伙伴特征所向披靡2,Undefeated,ไร้พ่าย
 TraitName_伙伴特征杀意腾腾,Killing aura,ไอสังหาร
-TraitName_伙伴特征战意昂扬,Spirited
+TraitName_伙伴特征战意昂扬,Spirited,จิตวิญญาณสูง
 TraitName_伙伴特征越战越勇,Battle maniac,คลั่งไคล้การต่อสู้
 TraitName_伙伴特征速战速决,Blitz attack,จู่โจมสายฟ้าแลบ
 TraitName_伙伴特征耍刀精通,Blade master,ปรมาจารย์ดาบ
@@ -341,57 +341,57 @@ TraitName_伙伴特征战意凛然,Burning spirit,จิตวิญญาณล
 TraitName_伙伴特征剑不空回,Bloodied sword,กระบี่เปื้อนเลือด
 TraitName_伙伴特征法不容情,No mercy,ไร้ปราณี
 TraitName_伙伴特征志得意满,Exhilarated,เบิกบาน
-TraitName_伙伴特征飞燕凌波,Swallow ascend
+TraitName_伙伴特征飞燕凌波,Swallow ascend,นางแอ่นโผบิน
 TraitName_伙伴特征身轻如燕,Light body,ตัวเบา
 TraitName_伙伴特征皇室贵胄2,Royal noble
 TraitName_伙伴特征扬名立万,Storyteller,นักเล่านิทาน
-TraitName_伙伴特征去伪存真,Verification
-TraitName_伙伴特征一目十行,Fast reader
-TraitName_伙伴特征势如破竹,Unrelenting attack
+TraitName_伙伴特征去伪存真,Verification,พิสูจน์ความจริง
+TraitName_伙伴特征一目十行,Fast reader,อ่านอย่างรวดเร็ว
+TraitName_伙伴特征势如破竹,Unrelenting attack,พลังล้นหลาม
 TraitName_伙伴特征荒蛮狼性,Wild instinct,สัญชาตญาณสัตว์ป่า
 TraitName_伙伴特征燕军元帅,Yan Army commander,ผู้บัญชาการกองทัพหยาน
 TraitName_伙伴特征扇里藏针,Hidden needle,เข็มลับ
 TraitName_伙伴特征聚沙成塔,Power of unity,พลังแห่งความสามัคคี
-TraitName_伙伴特征力破千钧,Heroic vigor
-TraitName_伙伴特征一触即发,Nerve-racking
+TraitName_伙伴特征力破千钧,Heroic vigor,พลังวีรชน
+TraitName_伙伴特征一触即发,Nerve-racking,ประสาทหงุดหงิด
 TraitName_伙伴特征天煞孤星,Lone wanderer,พเนจร​เดียวดาย
-TraitName_伙伴特征催心夺魄,Soul attacker
+TraitName_伙伴特征催心夺魄,Soul attacker,ผู้โจมตีวิญญาณ
 TraitName_伙伴特征罡气护体,Protective Qi,ปราณคุ้มกาย
 TraitName_伙伴特征追命阎罗,Death master,ปรมาจารย์แห่งความตาย
-TraitName_伙伴特征移花接木,Spirit transfer
-TraitName_伙伴特征宠妹狂人,Sister complex
-TraitName_伙伴特征生无可恋,Suicidal rage
+TraitName_伙伴特征移花接木,Spirit transfer,รับสินบน
+TraitName_伙伴特征宠妹狂人,Sister complex,คลั่งรักน้องสาว
+TraitName_伙伴特征生无可恋,Suicidal rage,ชีวิตไร้รัก
 TraitName_伙伴特征书狂画痴,Art lover,ชื่นชมศิลปะ
 TraitName_伙伴特征银钩铁画,Pen of steel,พู่กันเหล็ก
 TraitName_伙伴特征画痴书狂,Book lover,หนอนหนังสือ
-TraitName_伙伴特征妙笔生花,Colorful pen
+TraitName_伙伴特征妙笔生花,Colorful pen,เขียนราวนางฟ้า
 TraitName_伙伴特征天生媚骨,Born charming,ทรงเสน่ห์แต่กำเนิด
-TraitName_伙伴特征怜香惜玉,Cherish beauty
-TraitName_伙伴特征裙下之臣,Servant under the skirt
+TraitName_伙伴特征怜香惜玉,Cherish beauty,หวงแหนความงาม
+TraitName_伙伴特征裙下之臣,Servant under the skirt,รับใช้ใต้กระโปรง
 TraitName_伙伴特征不让须眉,Brave and fearless,กล้าหาญและไม่เกรงกลัว
 TraitName_伙伴特征厚积薄发,Accumulate slowly and strike swiftly,สะสมพลังเชื่องช้าจู่โจมว่องไว
 TraitName_伙伴特征血战不退,Fight to the death,สู้จนเลือดหยดสุดท้าย
 TraitName_伙伴特征品萧弄笛,Play the flute,เป่าขลุ่ย
 TraitName_伙伴特征风情万种,Full of charm,เสน่ห์เหลือร้าย
 TraitName_伙伴特征生财有道,Know how to make money,รู้วิธีหาเงิน
-TraitName_伙伴特征燕国郡主,Lady of Yan Kingdom
-TraitName_伙伴特征杀伐果决,Decisive in killing
+TraitName_伙伴特征燕国郡主,Lady of Yan Kingdom,องค์หญิงแห่งแคว้นหยาน
+TraitName_伙伴特征杀伐果决,Decisive in killing,สังหารเด็ดขาด
 TraitName_伙伴特征杀敌立威,Gain reputation through killing enemies,สร้างชื่อจากการสังหารศัตรู
-TraitName_伙伴特征窈窕淑女,Gentle and graceful lady
-TraitName_伙伴特征花中魁首,Leader among flowers
-TraitName_伙伴特征断情绝欲,Cut off all desires
+TraitName_伙伴特征窈窕淑女,Gentle and graceful lady,สุภาพสตรีของข้า
+TraitName_伙伴特征花中魁首,Leader among flowers,ผู้นำบุปผา
+TraitName_伙伴特征断情绝欲,Cut off all desires,อกหัก
 TraitName_伙伴特征天籁妙音,Heavenly music,บทเพลงแห่งสวรรค์
-TraitName_伙伴特征此恨绵绵,Endless regret
-TraitName_伙伴特征绝代风华,Peerless Elegance
+TraitName_伙伴特征此恨绵绵,Endless regret,เกลียดชังไร้สิ้นสุด
+TraitName_伙伴特征绝代风华,Peerless Elegance,งามไร้ผู้เปรียบ
 TraitName_伙伴特征听声辩位,Identify location by sound,ใช้เสียงระบุตำแหน่ง
 TraitName_伙伴特征以小博大,Achieve big with small,ใช้น้อยชนะมาก
 TraitName_伙伴特征输赢天定,"Win or lose, it's fate",แพ้ชนะ ล้วนเป็นชะตากำหนด
-TraitName_伙伴特征九黎之主,Lord of Jiuli
-TraitName_伙伴特征养蛊为患,Raising gu causes trouble
+TraitName_伙伴特征九黎之主,Lord of Jiuli,เจ้าแห่งจิ่วลี่
+TraitName_伙伴特征养蛊为患,Raising gu causes trouble,พิษเจ้าปัญหา
 TraitName_伙伴特征精研毒术,Deep study of Toxicology,ศึกษาศาสตร์พิษอย่างลึกซึ้ง
 TraitName_伙伴特征酒酣尽兴,Enjoying the wine,เสพสุขสุรา
-TraitName_伙伴特征战意盎然,Spirit is abundant
-TraitName_伙伴特征古之恶来,Evil comes from the ancient times
+TraitName_伙伴特征战意盎然,Spirit is abundant,เต็มไปด้วยพลังใจ
+TraitName_伙伴特征古之恶来,Evil comes from the ancient times,ปีศาจจากอดีต
 TraitName_伙伴特征目盲耳聪,"Blind in sight, sharp in hearing",ดวงเนตรมืดบอด แต่มีหูปราดเปรียว
 TraitName_道法自然,Magic nature,เวทย์มนต์ธรรมชาติ
 TraitName_气血充盈,Replenishing qi and blood,เติมพลังปราณและเลือด

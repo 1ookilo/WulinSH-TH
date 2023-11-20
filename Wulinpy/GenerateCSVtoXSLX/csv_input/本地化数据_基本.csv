@@ -462,7 +462,7 @@ Or,Or
 Operation_Equip,EQ,สวมใส่
 Operation_LearnBook,LRN,เรียน
 Operation_Use,Use,ใช้
-Operation_Unknown,UNK
+Operation_Unknown,UNK,ไม่ทราบ
 UIReport_NoMap,No map,ไม่มีแผนที่
 UIReport_TipSplitLine,----------The following is system generated information----------
 UIReport_DeviceName,Device name
@@ -593,7 +593,7 @@ ForgeWeaponLockTitle,<color=#ff0000>(Crafting {0} level Unlock)</color>
 ForgeArmorLockTitle,<color=#ff0000>(Crafting {0} level Unlock)</color>
 Time,Time
 ResetAcupointReconfirm,"Choosing to retrain will clear all Passive effects and return all comprehension points, are you sure?",การเลือกเรียนรู้ใหม่จะล้างพลังแฝงและคืนแต้มการเรียนรู้ทั้งหมด ท่านแน่ใจหรือไม่?
-ZzPointTip,"Each time a Character levels up by <#68cf24>{0} levels</color>, they gain 1 aptitude point. Aptitude points can be used to increase five-dimensional attributes. Consuming <#c851ff>Forgotten pill</color> can reset the five-dimensional aptitude gained from leveling up.",ในแต่ละครั้งที่ตัวละครเลเวลเพิ่มขึ้น <#68cf24>{0} ระดับ</color> พวกเขาจะได้รับแต้มสถานะ 1 แต้ม แต้มสถานะใช้เพื่อเพิ่มค่าสถานะทั้งห้าได้ การใช้ <#c851ff>โอสถลืมเลือน</color> สามารถล้างค่าสถานะที่ได้รับจากการเลื่อนระดับได้
+ZzPointTip,"Each time a Character levels up by <#68cf24>{0} levels</color>, they gain 1 aptitude point. Aptitude points can be used to increase five-dimensional attributes. Consuming <#c851ff>Forgotten pill</color> can reset the five-dimensional aptitude gained from leveling up.",ในแต่ละครั้งที่ตัวละครเลเวลเพิ่มขึ้น <#68cf24>{0} ระดับ</color> พวกเขาจะได้รับแต้มค่าคุณสมบัติ 1 แต้ม แต้มค่าคุณสมบัติใช้เพื่อเพิ่มค่าคุณสมบัติทั้งห้าได้ การใช้ <#c851ff>โอสถลืมเลือน</color> สามารถล้างค่าคุณสมบัติที่ได้รับจากการเลื่อนระดับได้
 ZzPointNoEdited,No points have been added yet
 ZzPointResetLackItem,"Without Forgotten pill, reset is not possible.","ไม่สามารถดำเนินการได้ หากไม่มี""โอสถลืมเลือน"""
 ZzPointResetReconfirm,Consume one {0} to reset {1} <color=#33ff00>{2} points</color> upgrade aptitude?,ใช้หนึ่ง {0} เพื่อรีเซ็ต {1} <color=#33ff00>{2} คะแนน</color> เพิ่มระดับความถนัด?

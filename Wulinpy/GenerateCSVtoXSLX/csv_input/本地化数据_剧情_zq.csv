@@ -2891,13 +2891,13 @@ R20007-1_1_5,"Since I have a fate with you, young friend, I'll give you this <co
 R20007-1_1_6,"However, you'll have to find another place, young friend. This spot is already taken by me.",อย่างไรก็ดี สหายน้อยเจ้าไปหาที่อื่นเถอะ สถานที่แห่งนี้ข้านั่งอยู่ก่อนแล้ว
 R20008-1_1_1,"Big brother, are you afraid of bugs?",พี่ชาย ท่านกลัวแมลงหรือไม่?
 R20008-1_1_2,Bugs? How could a seven-foot-tall man like me be afraid of bugs!,แมลงงั้นหรือ? ชายหนุ่มสูงใหญ่อย่างข้าจะกลัวแมลงได้อย่าไร!
-R20008-1_1_3,"That's good, grandpa said bugs<color=#c44b0e>are poisonous</color>, and he doesn't let Xiao Bao catch bugs.\nXiao Ya and Xiao Hua said if Xiao Bao catches bugs, they won't play with Xiao Bao."
-R20008-1_1_4,"Since big brother is not afraid of bugs, I'll give this <color=#c44b0e>Worm-catching net</color> to big brother.\nThis was made by the blacksmith uncle for Xiao Bao, big brother, don't lose it!"
+R20008-1_1_3,"That's good, grandpa said bugs<color=#c44b0e>are poisonous</color>, and he doesn't let Xiao Bao catch bugs.\nXiao Ya and Xiao Hua said if Xiao Bao catches bugs, they won't play with Xiao Bao.",ดีเลย คุณปู่บอกว่าแมลง<color=#c44b0e>มีพิษ</color> และเขาไม่ยอมให้เสี่ยวเปาจับแมลง\nเซียวหยาและเสี่ยวหัวบอกว่าถ้าเสี่ยวเปาจับแมลงได้ พวกเขาจะไม่เล่นกับเสี่ยวเปา
+R20008-1_1_4,"Since big brother is not afraid of bugs, I'll give this <color=#c44b0e>Worm-catching net</color> to big brother.\nThis was made by the blacksmith uncle for Xiao Bao, big brother, don't lose it!",ในเมื่อพี่ใหญ่ไม่กลัวแมลง ข้าจะมอบ<color=#c44b0e>ตาข่ายดักหนอน</color>นี้ให้กับพี่ใหญ่\nนี่สร้างโดยลุงช่างตีเหล็กเพื่อเสี่ยวเปา พี่ใหญ่ อย่าพลาด!
 R20008-1_1_5,"Uh, thank you, Xiao Bao...",อา.. ขอบใจนะเสี่ยวเป่า...
-R20009-1_1_1,"Big brother, do you want to play a guessing game?"
-R20009-1_10_1,"Wow, big brother is awesome!"
-R20009-1_10_2,Here's a reward for you!
-R20009-1_2_1,"Little girl, ask your question!"
+R20009-1_1_1,"Big brother, do you want to play a guessing game?","ลูกพี่ใหญ่, มาเล่นเกมทายใจกันไหม?"
+R20009-1_10_1,"Wow, big brother is awesome!","ว้าว, พี่ใหญ่สุดยอดมาก!"
+R20009-1_10_2,Here's a reward for you!,นี่คือรางวัลสำหรับพี่!
+R20009-1_2_1,"Little girl, ask your question!","สาวน้อย, ถามมาหน่อยสิ!"
 R20009-1_2_2,"Need half, leave half"
 R20009-1_3_1,"Sorry, little girl, big brother has something to do, next time for sure!"
 R20009-1_3_2,Hmph! Why are all adults so busy?
@@ -2982,7 +2982,7 @@ R10003-1_1_1,Ouch!,โอ๊ย
 R10003-1_1_2,Hey! I'm talking to you——,เฮ้! เดินดูทางหน่อย——
 R10003-1_1_3,"I'm sorry, sir, I didn't see you there and bumped into you.",ขออภัยนายท่าน ข้ามิทันเห็นท่านอยู่ตรงนั้นจึงเผลอชนเข้าให้
 R10003-1_1_4,"Sir, where did you bump into, we have our own plaster, if you don't mind, please accept it.\nIt's a bit dirty, but it's definitely useful for reducing swelling and relieving pain!",นายท่านเจ็บตรงไหนหรือเปล่า ข้ามียาพอกที่เพิ่งใช้ไปแล้วติดตัวอยู่ หากท่านไม่รังเกียจ โปรดรับมันเอาไว้ \nอาจจะสกปรกหน่อย แต่รับรองว่าช่วยลดอาการบวมและแก้ปวดได้อย่างแน่นอน!
-R10003-1_2_1,"Alright, sir, just give me a moment, I'll tear it off right away.",ทราบแล้วขอรับนายท่าน ขอเวลาสักครู่ ข้าน้อยจtดึงมันออกมาเดี๋ยวนี้
+R10003-1_2_1,"Alright, sir, just give me a moment, I'll tear it off right away.",ทราบแล้วขอรับนายท่าน ขอเวลาสักครู่ ข้าน้อยจะดึงมันออกมาเดี๋ยวนี้
 R10003-1_2_2,"Uh, he really did tear it off his body...\nEw, it's so dirty...",เอ่อ ไอ้หมอนี่มันดึงออกมาจากตัวเขาจริงๆด้วย... \nแหวะ สกปรกชะมัด...
 R10003-1_2_3,"Well, never mind. I'm not hurt, just be more careful next time,\nit would be bad if you bumped into those kids.",ช่างเถอะ ข้าไม่เป็นไร แค่ระวังตัวหน่อยก็แล้วกัน มันจะไม่ดีถ้าเจ้าชนเด็กพวกนั้น
 R10003-1_2_4,"Alright, thank you for your advice, sir, I'll be more careful in the future!",ทราบแล้วๆ ขอบคุณสำหรับคำแนะนำนะขอรับนายท่าน ข้าจะระวังให้มากขึ้นในภายภาคหน้า
@@ -3263,26 +3263,26 @@ M1101-1_9_1,{yell}Stop!\nPay for your stay first!,{yell}ช้าก่อน!\n
 M1101-1_9_2,Thanks to Boss Hua for reminding...
 M1101-1_9_3,"Wait a minute, Fourth Lady, do I still need to pay to come back and rest now?"
 M1101-1_9_4,"I just made a habitual mistake~ Don't mind it, you must be tired these days, go upstairs and rest."
-M1101-2_1_1,"Boss, please prepare a table of food, I'm starving!"
-M1101-2_1_2,"Miss, are you alone?\nI'm afraid your small frame can't handle a table of food."
-M1101-2_1_3,"How do you know if you don't try, just go ahead and prepare it, boss."
-M1101-2_1_4,"Please hurry up, boss, I need to hit the road after eating."
-M1101-2_1_5,"Miss, please wait a moment, the food will be ready soon."
-M1101-2_1_6,This lady is showing off.
-M1101-2_1_7,"No matter, let's watch the fun."
-M1101-2_1_8,"Miss, your food is ready!"
-M1101-2_1_9,"What a feast!\nThank you, boss."
-M1101-2_1_10,"How can she finish all this food, there's going to be a good show."
+M1101-2_1_1,"Boss, please prepare a table of food, I'm starving!","เถ้าแก่เนี๊ย, กรุณาเตรียมโต๊ะอาหารด้วย ข้าหิวแล้ว!"
+M1101-2_1_2,"Miss, are you alone?\nI'm afraid your small frame can't handle a table of food.",แม่นาง เจ้ามาคนเดียวเหรอ?\nข้าเกรงว่าเจ้าตัวเล็กเกินจะกินอาหารทั้งโต๊ะได้
+M1101-2_1_3,"How do you know if you don't try, just go ahead and prepare it, boss.","จะรู้ได้เยี่ยงไรถ้าไม่ลอง ไปจัดเตรียมโต๊ะให้พร้อมเถอะ, เถ้าแก่"
+M1101-2_1_4,"Please hurry up, boss, I need to hit the road after eating.",กรุณารีบหน่อยเถอะเถ้าแก่ ข้ายังต้องออกเดินทางหลังจากกินข้าวเสร็จ
+M1101-2_1_5,"Miss, please wait a moment, the food will be ready soon.","แม่นาง, โปรดรอสักครู่ อาหารจะพร้อมเร็วๆ นี้"
+M1101-2_1_6,This lady is showing off.,แม่นางคนนี้กำลังเล่นใหญ่อยู่
+M1101-2_1_7,"No matter, let's watch the fun.","ไม่เป็นไร, เรามาดูความสนุกกัน"
+M1101-2_1_8,"Miss, your food is ready!",แม่นาง อาหารพร้อมแล้ว!
+M1101-2_1_9,"What a feast!\nThank you, boss.",ช่างเป็นงานฉลอง!\nขอบคุณเถ้าแก่เนี๊ย
+M1101-2_1_10,"How can she finish all this food, there's going to be a good show.",เธอจะทำอาหารทั้งหมดนี้ให้หมดได้ยังไง จะต้องมีการแสดงที่ดีแน่
 M1101-2_1_11,Burp~~,เอิ๊กก~
-M1101-2_1_12,Finally had a full meal~
-M1101-2_1_13,"She actually finished it all, what a big appetite..."
-M1101-2_1_14,"Miss, it's time to settle your bill, this meal costs 500 wen."
-M1101-2_1_15,I didn't bring any money.
-M1101-2_1_16,(Can you really dine and dash so brazenly?)
-M1101-2_1_17,"(We're both down on our luck, should I help her out?)"
-M1101-2_2_1,I'll pay for her.
-M1101-2_2_2,"Oh, when did you become so generous? You can barely support yourself with that little money, yet you want to stand up for others, you really don't know the taste of sorrow when you're young..."
-M1101-2_2_3,"Thank you, young master, for your timely help. I'm Ye Yinping. My father said that we can't take others' kindness for granted, I don't know how much this jade pendant is worth, but I'll give it to you."
+M1101-2_1_12,Finally had a full meal~,ในที่สุดก็ได้กินอิ่ม~
+M1101-2_1_13,"She actually finished it all, what a big appetite...",เธอจัดการทุกอย่างหมดจริงๆ ช่างเป็นความอยากอาหารอะไรกันเนี๊ย..
+M1101-2_1_14,"Miss, it's time to settle your bill, this meal costs 500 wen.","แม่นาง, ถึงเวลาชำระค่าอาหารแล้ว มื้อนี้ทั้งหมด 500 อีแปะ"
+M1101-2_1_15,I didn't bring any money.,ข้าไม่ได้พกเงินมาเลย
+M1101-2_1_16,(Can you really dine and dash so brazenly?),(คุณสามารถรับประทานอาหารและรีบอย่างโจ่งแจ้งได้จริงหรือ?)
+M1101-2_1_17,"(We're both down on our luck, should I help her out?)",(เราทั้งคู่ต่างก็โชคไม่ดี ข้าควรช่วยนางไหม?)
+M1101-2_2_1,I'll pay for her.,ข้าจะจ่ายเงินให้นางเอง
+M1101-2_2_2,"Oh, when did you become so generous? You can barely support yourself with that little money, yet you want to stand up for others, you really don't know the taste of sorrow when you're young...","โอ้, เจ้ามีน้ำใจขนาดนี้ตั้งแต่เมื่อไหร่? เจ้าแทบจะไม่สามารถเลี้ยงตัวเองด้วยเงินเพียงเล็กน้อยได้เลย แต่เจ้าก็ยังอยากยืนหยัดเพื่อผู้อื่น เจ้าไม่รู้รสชาติของความเศร้าโศกเลยจริงๆหรอ โอ้ เจ้ายังเด็กนักก..."
+M1101-2_2_3,"Thank you, young master, for your timely help. I'm Ye Yinping. My father said that we can't take others' kindness for granted, I don't know how much this jade pendant is worth, but I'll give it to you.",ขอบคุณจอมยุทธ์น้อยสำหรับความช่วยเหลือทันเวลาของท่าน ข้าชื่อ เย่ หยินผิง พ่อของข้าบอกว่าเราไม่สามารถเอาความมีน้ำใจของผู้อื่นมาเป็นของว่างได้ ข้าไม่รู้ว่าจี้หยกนี้ราคาเท่าไหร่ แต่ข้าขอมอบมันให้แก่ท่าน
 M1101-2_2_4,"Thank you for your hospitality, boss!\nHonestly, your cooking is really great~"
 M1101-2_2_5,What a sensible child...
 M1101-2_2_6,"Much better than some people, hmph!"
@@ -3293,7 +3293,7 @@ M1101-2_3_4,You... are you really willing to exchange this jade pendant for this
 M1101-2_3_5,"Once I, <color=#c44b0e>Ye Yinping</color>, make a promise, not even a swift horse can catch it!"
 M1101-2_3_6,"Thank you for your hospitality, boss!\nHonestly, your cooking is really great~"
 M1101-2_3_7,What a foolish girl who doesn't know the value of things...
-M1101-2_4_1,"Boss, please prepare a table of food, I'm starving!"
+M1101-2_4_1,"Boss, please prepare a table of food, I'm starving!","เถ้าแก่เนี๊ย, กรุณาเตรียมโต๊ะอาหารด้วย ข้าหิวแล้ว!"
 M1101-2_4_2,Isn't this Miss Ye? It's a coincidence to meet you here.
 M1101-2_4_3,"{PlayerSurName}Young hero! I didn't expect to meet you here!\nCome on, let's have a meal together, it's my treat."
 M1101-2_4_4,That would be too embarrassing...
@@ -4191,19 +4191,19 @@ R20025-11_8_4,Hmm?
 R20025-11_8_5,"In broad daylight, you're really not ashamed!"
 R20025-11_8_6,I hope I won't make the wrong choice this time.
 R20004-4_1_1,"Brother, why do you look so worried, is there something on your mind?"
-R20004-4_1_2,Sigh...
+R20004-4_1_2,Sigh...,เฮ้อ...
 R20004-4_1_3,"The flower falls willingly, but the water flows heartlessly.\nI'm afraid Hua Siniang and I are destined to be apart in this life."
 R20004-4_1_4,"It's rare for you to be self-aware.\nSince that's the case, why are you still lingering at the inn's door?"
-R20004-4_1_5,"I'm about to run away from this village, but there's one wish I haven't fulfilled before leaving.\nCould you help me get a piece of Siniang's jewelry as a keepsake for future thoughts?"
-R20004-4_1_6,Why me?
-R20004-4_1_7,"Brother, you look very familiar with Siniang, I can only ask you for help!"
+R20004-4_1_5,"I'm about to run away from this village, but there's one wish I haven't fulfilled before leaving.\nCould you help me get a piece of Siniang's jewelry as a keepsake for future thoughts?",ข้ากำลังจะหนีออกจากหมู่บ้านนี้ แต่มีความปรารถนาอย่างหนึ่งที่ข้าไม่ได้เติมเต็มก่อนออกเดินทาง\nท่านช่วยข้าหาเครื่องประดับของซื่อเหนียงเป็นของที่ระลึกสำหรับความคิดถึงในอนาคตได้ไหม?
+R20004-4_1_6,Why me?,ทำไมต้องเป็นข้า?
+R20004-4_1_7,"Brother, you look very familiar with Siniang, I can only ask you for help!","พี่ชาย, ท่านดูคุ้นเคยกับซื่อเหนียงมาก ข้าทำได้เพียงขอความช่วยเหลือจากท่านเท่านั้น!"
 R20004-4_2_1,"I want to help you, but I really can't."
 R20004-4_2_2,"{PlayerSurName} Brother, why do you say that?"
 R20004-4_2_3,"Hua Siniang is no longer at the inn, so of course you can't get what you want."
 R20004-4_2_4,"How could this be... Is my wish destined to be unfulfilled?\nI will find Si Niang even if I have to travel to the ends of the earth, {PlayerName} brother, let's meet again if fate allows."
 R20004-4_2_5,"Farewell, brother."
 R20004-4_2_6,"Si Niang, where have you gone..."
-R20004-4_3_1,"Seeing your devotion, I'll give it a try."
+R20004-4_3_1,"Seeing your devotion, I'll give it a try.",เห็นแก่ความจงรักภักดีของเจ้า ข้าจะลองดู
 R20004-4_4_1,"Knowing that it's a hopeless cause, why torture yourself like this.\nI can't help you with this."
 R20004-4_5_1,"Brother, have you gotten the item?"
 R20004-4_5_2,"It's not that easy, you'll have to wait for my news."
@@ -4399,7 +4399,7 @@ R20001-5_3_3,I'm going to find the doctor right now to help me make the medicine
 R20001-5_4_1,"Hey, hey, hey, Liu Shiba, where are you going?\nIt seems your eyes need treatment too, I'm right next to this kid and you can't see me."
 R20001-5_4_2,"Hahaha, I was too anxious, sorry!\nHere's the Lingzhi, please help me make the medicine, Old Bai."
 R20001-5_4_3,"Ah, I've been looking for a Lingzhi for more than ten years and haven't found one.\nIn just a few days, this kid found another one. It's really annoying."
-R20001-5_4_4,Old Bai makes the soup medicine and gives it to Liu Shiba...,โอไป๋ทำซุปยาแล้วมอบให้หลิวฉีปา...
+R20001-5_4_4,Old Bai makes the soup medicine and gives it to Liu Shiba...,โอไป๋ทำซุปยาแล้วมอบให้หลิวสือปา...
 R20001-5_4_5,"This medicine really works!\nNot only is my old illness gone, but I also feel stronger."
 R20001-5_4_6,"{PlayerSurName}Brother, I owe you a huge favor now.\nIf there's anything you need in the future, I'll help you without a second thought."
 R20001-5_4_7,"Of course, for the sake of {PlayerName}, I have added a lot of precious supplements for you. Although it won't transform your muscles and bones, it can at least strengthen your body."
@@ -13238,7 +13238,7 @@ R10028-1_3_1,I also want to see how capable you are to meddle in my affairs!
 R10028-1_4_1,I didn't expect there to be such a young master in the martial arts world of the Central Plains.
 R10028-1_4_2,What's your name? I need to know who I was defeated by today.
 R10028-1_4_3,"Before asking others, shouldn't you introduce yourself first?"
-R10028-1_4_4,"I am the Lady of Yan Kingdom, Wanyan Zhaoning."
+R10028-1_4_4,"I am the Lady of Yan Kingdom, Wanyan Zhaoning.",ข้าคือองค์หญิงแห่งแค้วนหยาน หวันหยานจ้าวหนิง
 R10028-1_5_1,What is your relationship with Wan Yan Wuzhu of the Yan Cloud Iron Army?
 R10028-1_5_2,He is my uncle.
 R10028-1_5_3,So you are from the Yan Cloud Iron Army!
@@ -13412,7 +13412,7 @@ R10028-4_5_6,"{PlayerName}, thank you for sparing my life. \nThis dagger is usel
 R10028-4_5_7,What are your plans for the future?
 R10028-4_5_8,"I don't want to have anything to do with Yan country anymore, only the ancient Buddha of the green lamp can end this life. \n{PlayerName}, we will no longer meet in the rivers and lakes."
 R10028-4_5_9,Could it be that Wanyan Zhaoning wants to become a nun!
-R10028-4_5_10,"Princess Wanyan, please wait..."
+R10028-4_5_10,"Princess Wanyan, please wait...",องค์หญิงหวันหยาน โปรดรอสักครู่...
 R10028-5_1_1,"Once you get rid of the three thousand troubles, the past will have nothing to do with you. Have you thought it through?"
 R10028-5_1_2,I...
 R10028-5_2_1,"I've thought it through, I beg the master to shave my head!"
@@ -13442,7 +13442,7 @@ R10028-5_5_3,"Wanyan Zhaoning, don't!"
 R10028-5_6_1,A moment later...
 R10028-5_6_2,"I give you the Dharma name Jing'an, from now on you will chant sutras and pray for all beings in this temple."
 R10028-5_6_3,Yes.
-R10028-5_6_4,Wanyan...
+R10028-5_6_4,Wanyan...,หวันหยาน...
 R10028-5_6_5,"Amitabha, {PlayerSurName}, my Dharma name is Jing'an."
 R10028-5_6_6,Jing'an...
 R10028-5_6_7,"Peace and tranquility, is this the life you want?"

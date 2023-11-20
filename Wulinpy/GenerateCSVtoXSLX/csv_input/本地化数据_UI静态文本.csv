@@ -985,10 +985,10 @@ UIAlchemistPanel_upTips_txt,Insufficient Material,วัตถุดิบไม
 UICookPanel_item_bg_name,Green Blood Sword,กระบี่เลือดมรกต
 UICookPanel_item_name_grey,Green Blood Sword,กระบี่เลือดมรกต
 UICookPanel_leftPanel_Tip_nullTips,You have not obtained any cooking recipes yet.
-UICookPanel_leftPanel_tittle_foodItem_txt,Main,หลัก
-UICookPanel_leftPanel_tittle_foodItem_txt_c,Main,หลัก
-UICookPanel_leftPanel_tittle_caiyaoItem_txt,Side
-UICookPanel_leftPanel_tittle_caiyaoItem_txt_c,Side
+UICookPanel_leftPanel_tittle_foodItem_txt,Main,จานหลัก
+UICookPanel_leftPanel_tittle_foodItem_txt_c,Main,จานหลัก
+UICookPanel_leftPanel_tittle_caiyaoItem_txt,Side,เครื่องเขียง
+UICookPanel_leftPanel_tittle_caiyaoItem_txt_c,Side,เครื่องเขียง
 UICookPanel_leftPanel_tittle_zhoutangItem_txt,Soup,น้ำแกง
 UICookPanel_leftPanel_tittle_zhoutangItem_txt_c,Soup,น้ำแกง
 UICookPanel_leftPanel_check_dazao_txt,Can be cooked

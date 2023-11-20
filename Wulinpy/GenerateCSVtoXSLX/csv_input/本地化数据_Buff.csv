@@ -82,8 +82,8 @@ BuffInfo_野生Buff_精英1,"Elite Character attribute bonus, HP, MP, Attack, De
 BuffInfo_野生Buff_Boss1,"Boss Character attribute bonus, HP, MP, Attack, Defense increase by 100%, Qinggong increases by 50%, bonus is lost after being Invited to the team.",โบนัส ค่าพลัง พลังชีวิต พลังภายใน พลังโจมตี พลังป้องกัน ของตัวละครหัวหน้าเพิ่มขึ้น 100% วิชาตัวเบาเพิ่มขึ้น 50% โบนัสนี้จะหายไปหากอยู่ในทีม
 BuffInfo_难度修正_0,"Attack damage decreases by <#29F161>20%</color>, final damage received when attacked increases by <#29F161>20%</color>; Attack, Defense, HP, Qinggong decrease by <#29F161>20%</color>.","ความเสียหายพลังโจมตีลดลง <#29F161>20%</color>, ความเสียหายรวมเมื่อถูกโจมตีจะได้ที่ได้รับเพิ่มขึ้น<#29F161>20%</color>; พลังโจมตี, พลังป้องกัน, พลังชีวิต, วิชาตัวเบา ลดลง <#29F161>20%</color>."
 BuffInfo_难度修正_1,No attribute bonus.,ไม่มี
-BuffInfo_难度修正_2,"Attack increases damage by <#FE2929>10%</color>, reduces final damage received by <#FE2929>10%</color> when attacked; Attack, Defense, HP increase by <#FE2929>20%</color>; Qinggong increases by <#FE2929>25%</color>; Boss Character's <#FE2929>five-dimensional aptitude increases by 1 point</color>."
-BuffInfo_难度修正_3,"Attack increases damage by <#FE2929>20%</color>, reduces final damage received by <#FE2929>20%</color> when attacked; Attack, Defense, HP increase by <#FE2929>40%</color>; Qinggong increases by <#FE2929>50%</color>; Elite Character's <#FE2929>five-dimensional aptitude increases by 1 point</color>, Boss Character's <#FE2929>five-dimensional aptitude increases by 2 points</color>."
+BuffInfo_难度修正_2,"Attack increases damage by <#FE2929>10%</color>, reduces final damage received by <#FE2929>10%</color> when attacked; Attack, Defense, HP increase by <#FE2929>20%</color>; Qinggong increases by <#FE2929>25%</color>; Boss Character's <#FE2929>five-dimensional aptitude increases by 1 point</color>.","เมื่อโจมตีความเสียหายเพิ่มขึ้น <#FE2929>10%</color>, เมื่อถูกโจมตีความเสียหายสุดท้ายลดลง <#FE2929>10%</color>; พลังโจมตี, พลังป้องกัน, HP เพิ่มขึ้น <#FE2929>20%</color>; วิชาตัวเบาเพิ่มขึ้น <#FE2929>25%</color>; ตัวละครระดับหัวหน้า <#FE2929>ค่าคุณสมบัติทั้งห้าเพิ่มขึ้น 1 ค่า</color>"
+BuffInfo_难度修正_3,"Attack increases damage by <#FE2929>20%</color>, reduces final damage received by <#FE2929>20%</color> when attacked; Attack, Defense, HP increase by <#FE2929>40%</color>; Qinggong increases by <#FE2929>50%</color>; Elite Character's <#FE2929>five-dimensional aptitude increases by 1 point</color>, Boss Character's <#FE2929>five-dimensional aptitude increases by 2 points</color>.","เมื่อโจมตีความเสียหายเพิ่มขึ้น <#FE2929>20%</color>, เมื่อถูกโจมตีความเสียหายสุดท้ายลดลง <#FE2929>20%</color>; พลังโจมตี, พลังป้องกัน, HP เพิ่มขึ้น <#FE2929>40%</color>; วิชาตัวเบาเพิ่มขึ้น <#FE2929>50%</color>; ตัวละครชั้นยอด <#FE2929>ค่าคุณสมบัติทั้งห้าเพิ่มขึ้น 1 ค่า</color>, ตัวละครระดับหัวหน้า <#FE2929>ค่าคุณสมบัติทั้งห้าเพิ่มขึ้น 2 ค่า</color>"
 BuffInfo_一见如故,"When Relations with the protagonist reach Close, receive Encouraged, after entering battle, <#29F161>Attack increases by 5%</color>, effect is lost after the battle ends.","เมื่อความสัมพันธ์กับตัวเอกถึงขั้น ""สนิทกัน"" จะได้รับบัฟ ""กำลังใจ"" เมื่อเข้าสู่การต่อสู้ <#29F161> พลังโจมตีจะเพิ่มขึ้น 5%</color> เอฟเฟกต์นี้จะหายไปเมื่อจบการต่อสู้"
 BuffInfo_情投意合,"When Relations with the protagonist reach Intimate, receive Encouraged, after entering battle, <#29F161>Attack increases by 5%, Defense increases by 5%</color>, effect is lost after the battle ends.",เมื่อความสัมพันธ์กับตัวละครเอกถึงความใกล้ชิด ได้รับกำลังใจ หลังจากเข้าสู่การต่อสู้ <#29F161>พลังโจมตีเพิ่มขึ้น 5% พลังป้องกันเพิ่มขึ้น 5%</color> และเอฟเฟกต์จะหายไปหลังการต่อสู้สิ้นสุดลง
 BuffInfo_患难与共,"When Relations with the protagonist reach Devoted, receive Encouraged, after entering battle, <#29F161>Attack increases by 10%, Defense increases by 10%</color>, effect is lost after the battle ends.","เมื่อความสนิทกับตัวละครเอกถึงขั้น ""อุทิศตัว"" ได้รับการสนับสนุน, หลังเข้าสู่การต่อสู้, <#29F161> พลังโจมตีเพิ่ม 10%, พลังป้องกันเพิ่ม 10%</color>, เอฟเฟกต์จะหายไปหลังการต่อสู้สิ้นสุดลง."
@@ -421,7 +421,7 @@ BuffInfo_内功_武穆秘典,"Each time you are attacked during the battle, you 
 BuffInfo_内功_兽王诀,"After entering the battle, for all friendly animal-type Characters on the field (excluding Assist), Increases Damage by 20%, Defense increases by 20%.",หลังจากเข้าสู่การต่อสู้ ตัวละครพรรคพวกประเภทสัตว์ทุกตัวในสนามรบ (ยกเว้นช่วยเหลือ) สร้างความเสียหายเพิ่มขึ้น 20% พลังป้องกันเพิ่มขึ้น 20%
 BuffInfo_内功_四圣心源,"Friendly Characters Recovery 5% of their maximum HP after each action, up to 75 points.",ตัวละครพรรคพวกจะฟื้นฟูพลังชีวิต 5% จากสูงสุดหลังจบตา มากสุดที่ 75
 BuffInfo_内功_四圣心源_光环,"Recovery 5% of maximum HP after each action, up to 75 points.",ฟื้นฟูพลังชีวิต 5% จากสูงสุดหลังจบตา มากสุดที่ 75
-BuffInfo_内功_海纳百川,"Each time you are attacked, you gain an additional 8% Increases Damage, up to a total of 40%, the Increases Damage gained is cleared when it's your turn to attack"
+BuffInfo_内功_海纳百川,"Each time you are attacked, you gain an additional 8% Increases Damage, up to a total of 40%, the Increases Damage gained is cleared when it's your turn to attack","ทุกครั้งที่ถูกโจมตี, ได้รับผลเพิ่มความเสียหายขึ้น 8% สูงสุด 40% ผลจะหายไปหลังจากโจมตี"
 BuffInfo_内功_盛世春秋,"After entering the battle, you gain an additional 50% Spirit, and when attacked, you reduce the enemy's Critical damage by 25%.",หลังจากเข้าสู่การต่อสู้ จะได้รับพลังใจเพิ่มขึ้น 50% และเมื่อถูกโจมตี ความเสียหายคริติคอลของศัตรูจะลดลง 25%
 BuffInfo_内功_寒阴真气,"Within a range of 3 squares of yourself, the enemy's Spirit value decreases by 100 after each action.",ศัตรูในระยะ 3 ช่องจากตนเอง จะเสียพลังใจ 100 แต้ม หลังจบตา
 BuffInfo_内功_寒阴真气_光环,"Affected by the enemy's Cold Yin Energy, your Spirit value decreases by 100 after each action.",ได้รับผลกระทบจากปราณเหมันต์ ค่าพลังใจลดลง 100 หลังจบตา
@@ -494,7 +494,7 @@ BuffInfo_御剑入门,
 BuffInfo_长兵入门,
 BuffInfo_福泽深厚,"Born under a lucky star, <#29F161>Intelligence+1, Luck+2</color>.",ถือกำเนิดภายใต้ดวงดาวแห่งโชค <#29F161>สติปัญญา+1 โชค+2</color>
 BuffInfo_身强体健,"Hardened, with exceptional skills, <#29F161>Constitution+2, Dexterity+1</color>.",แข็งแกร่งทนทานด้วยทักษะที่เหนือชั้น <#29F161>พลังกาย+2 คล่องแคล่ว+1</color>
-BuffInfo_龙精虎猛,"As strong as a bull, unstoppable, <#29F161>Strength+2, Constitution+1</color>."
+BuffInfo_龙精虎猛,"As strong as a bull, unstoppable, <#29F161>Strength+2, Constitution+1</color>.",แข็งแร็งดุจกระทิงที่ไม่อาจหยุดยั้ง <#29F161>พละกำลัง+2 พลังกาย+1</color>
 BuffInfo_聪颖灵巧,"Born clever, Genius, <#29F161>Intelligence+1, Dexterity+2</color>.",อัจฉริยะผู้เกิดมาพร้อมสติปัญญา <#29F161>สติปัญญา+1 คล่องแคล่ว+2</color>
 BuffInfo_深仁厚泽,
 BuffInfo_慷慨仗义,
@@ -620,9 +620,9 @@ BuffInfo_皮糙肉厚,"Born Hardy, ordinary attacks are like itching. <#29F161>E
 BuffInfo_心宽体胖,"Cheerful mood, carefree, naturally comfortable. <#29F161>Max HP increased by 10%</color>.",ร่าเริง ไร้กังวล เปี่ยมสุข <#29F161>พลังชีวิตสูงสุดเพิ่มขึ้น 10%</color>
 BuffInfo_酩酊醉意,"Everyone is drunk, only I am sober, every time you enter a battle, there is a chance to consume a bottle of wine and get a short-term effect bonus. If there is no wine to drink, it will cause Depression.",ผู้อื่นล้วนมัวเมา มีเพียงข้าที่แจ่มใส ทุกครั้งที่เข้าสู่การต่อสู้ จะมีโอกาสในการดื่มสุรา และได้รับผลเสริมระยะสั้น หากไม่มีสุราให้ดื่ม จะติดสถานะเศร้าโศก
 BuffInfo_交游广阔,"Good at dealing with everyone, can call brothers and sisters when meeting passers-by. <#29F161>Gift effect increased by 20%</color>.",เข้ากับผู้คนเก่งจนเรียกพี่เรียกน้องกับคนที่เพิ่งพบหน้าได้ <#29F161>ของขวัญมีผลเพิ่มขึ้น 20%</color>
-BuffInfo_动如脱兔,"After entering the battle, <#29F161>Movement Range increases by 1 square</color>, <#29F161>Action Speed increases by 10 points</color>."
-BuffInfo_护花使者,"Upon entering battle, protect female teammates within a 2-tile radius, female teammates receive 15% less damage when attacked."
-BuffInfo_护花使者_光环,"Upon entering battle, female teammates receive 15% less damage when attacked."
+BuffInfo_动如脱兔,"After entering the battle, <#29F161>Movement Range increases by 1 square</color>, <#29F161>Action Speed increases by 10 points</color>.",หลังจากเข้าสู่การต่อสู้ <#29F161>ระยะการเคลื่อนที่เพิ่มขึ้น 1 ช่อง</color> <#29F161>ความเร็วท่าร่างเพิ่มขึ้น 10</color>
+BuffInfo_护花使者,"Upon entering battle, protect female teammates within a 2-tile radius, female teammates receive 15% less damage when attacked.","หลังจากเข้าสู่การต่อสู้, จะปกป้องเพื่อนร่วมทีมหญิงในระยะ 2 ช่อง, และเพื่อนร่วมทีมหญิงได้รับความเสียหายน้อยลง 15% เมื่อถูกโจมตี"
+BuffInfo_护花使者_光环,"Upon entering battle, female teammates receive 15% less damage when attacked.","เมื่อเข้าสู่การต่อสู้, เพื่อนร่วมทีมหญิงจะได้รับความเสียหายน้อยลง 15% เมื่อถูกโจมตี"
 BuffInfo_国公世子,"<#29F161>Initial Fame level 5, initial Coin 20000, opposite sex Gift effect increased by 25%</color>.",<#29F161>ชื่อเสียงเริ่มต้นที่เลเวล 5 เงินเริ่มต้นที่ 20000 เหรียญ ของขวัญที่ให้เพศตรงข้ามมีผลเพิ่มขึ้น 25%</color>
 BuffInfo_文武状元,"<#29F161>Strength+3, Intelligence+3, EXP required for martial arts upgrade reduced by 50%</color>.",<#29F161>พละกำลัง+3 สติปัญญา+3 ค่าประสบการณ์ที่ใช้พัฒนาวิชายุทธลดลง 50% </color>
 BuffInfo_剧情暗器奇才,"A prodigy in Throwing, even a stone in hand is like an arrow. <#29F161>Throwing+30</color>.",อัจฉริยะด้านอาวุธลับ แม้เพียงก้อนหินในมือก็เปรียบได้ดั่งลูกศร <#29F161>อาวุธลับ+30</color>
@@ -699,16 +699,16 @@ BuffInfo_万里独行,"Friendship only affects the speed of drawing a sword! <#2
 BuffInfo_自带毒疮,"After years of learning poison skills, you have finally developed a poisonous body. <#29F161>When attacked, you will inflict 20 points of Poisoned effect on the attacker</color>.",หลังจากศึกษาศาสตร์พิษเป็นเวลาหลายปี ในที่สุดก็มีกายาพิษ <#29F161>เมื่อถูกโจมตี สร้างสถานะพิษ 20 แต้ม แก่ศัตรู</color>
 BuffInfo_贪生怕死,"Timid as a mouse, any slight disturbance will make you flee like a startled bird. <#29F161>In a wild battle, you can pierce through the battle range and escape directly when HP is below 20%</color>.","ขี้ขลาดเหมือนกับหนู, สิ่งรบกวนเล็กๆ จะทำให้คุณบินหนีเหมือนกับนกที่ตกใจ <#29F161>ในการต่อสู้ดุเดือด, คุณสามารถเดินทะลุขอบเขตการต่อสู้และหลบหนีได้โดยตรงเมื่อ HP ต่ำกว่า 20%</color>"
 BuffInfo_劫后余生,"Despite numerous hardships, you have survived and honed your survival skills. <#29F161>After each battle victory, you will recover 10% of your HP and MP</color>.",แม้จะผ่านความยากลำบากมากมาย ภัยพิบัติพบเจอกลับหลอมกายให้มั่นคง <#29F161>หลังจากชนะแบทเทิลแต่ล่ะรอบ คุณจะได้รับฟื้นพลัง 10% ของ HP และ MP</color>.
-BuffInfo_体力充沛,"Born Wholesome, seems to have endless strength, <#29F161>Stamina limit increases by 200</color>."
+BuffInfo_体力充沛,"Born Wholesome, seems to have endless strength, <#29F161>Stamina limit increases by 200</color>.",เกิดมาพร้อมแรงกายที่สมบูรณ์จนเหมือนไม่มีวันหมด <#29F161>แรงกายสูงสุดเพิ่มขึ้น 200</color>
 BuffInfo_圣贤传人,"You are the embodiment of a saint, a reincarnated sage! <#29F161>The initial values of the six virtues of benevolence, righteousness, propriety, wisdom, faith, and courage are 100</color>.",ดั่งนักบุญมาโปรดสัตว์ ดั่งเทพเซียนมาเกิดใหม่ <#29F161>ค่าความดีเริ่มต้นทั้ง 6 ค่าความดีเริ่มต้นทั้ง 6 ความเมตตา คุณธรรม มารยาท ภูมิปัญญา ความน่าเชื่อถือ และความกล้า เท่ากับ 100</color>
 BuffInfo_邪魔外道,"You are the terrifying demon that everyone talks about, even babies in their cradles dare not cry at the mention of your name. <#29F161>The initial values of the six virtues of benevolence, righteousness, propriety, wisdom, faith, and courage are -100</color>.",เป็นปีศาจสุดเหี้ยมโหดที่ผู้คนพากันหวาดกลัว เด็กร้องไห้ได้ยินนามยังหยุดร้อง <#29F161>ค่าความดีเริ่มต้นทั้ง 6 ความเมตตา คุณธรรม มารยาท ภูมิปัญญา ความน่าเชื่อถือ และความกล้า -100 </color>
 BuffInfo_天命弱鸡,"You are a pitiful person abandoned by the heavens, able to arouse everyone's sympathy, but you are oblivious to it, even enjoying it. <#29F161>Your five innate attributes will always be 1; Mood will never decrease; Gift effect increases by 500%; When hit by a Finishing Strike, you will not die but will retain 1 HP, effective once per battle</color>.",คนน่าสงสารที่ถูกสวรรค์ทอดทิ้ง ทุกผู้คนล้วนเห็นใจ แต่ท่านก็ไม่ได้ใส่ใจ กระทั่งสุขใจด้วยซ้ำ <#29F161>ค่าพลังเริ่มต้นทั้งห้าจะเป็น 1 เสมอ ค่าอารมณ์ไม่มีวันลด ของขวัญให้ผลเพิ่ม 500% เมื่อถูกโจมตีถึงตายจะยังเหลือพลังชีวิต 1 มีผลหนึ่งครั้งต่อการต่อสู้</color>
 BuffInfo_扮猪吃虎,Start at <#29F161>Level 50</color>.,เริ่มต้นที่ <#29F161>เลเวล 50</color>
-BuffInfo_武林盟主,"Start with 10 levels of Fame and 60 Relations with the six major factions (Taoist Sect, Shifa Temple, Confucius Temple, Langya Sword Pavilion, Nine Rivers Waterside Stronghold, Crime Investigation Bureau)."
+BuffInfo_武林盟主,"Start with 10 levels of Fame and 60 Relations with the six major factions (Taoist Sect, Shifa Temple, Confucius Temple, Langya Sword Pavilion, Nine Rivers Waterside Stronghold, Crime Investigation Bureau).","ชื่อเสียงเริ่มต้นที่ระดับ 10 และความสัมพันธ์เริ่มต้นกับหกสำนักหลักอยู่ที่ 60 (หกสำนักหลัก: สำนักเต๋า, อารามฉีฟา, วัดขงจื๊อ, ศาลากระบี่หลางหยา, ค่ายน้ำจิวเจียง, สำนักสืบสวน)"
 BuffInfo_武林霸主,"Start with <#29F161>Fame level 10</color>, initial <#29F161>Level 100</color>, initial <#FE2929>Benevolence -100</color>.",เริ่มต้นที่ <#29F161>ชื่อเสียงเลเวล 10</color> เริ่มต้นที่ <#29F161>เลเวล 100</color> ค่า <#FE2929>ความเมตตา -100</color>
 BuffInfo_多情浪子,"<#29F161>Gift effect to females increases by 50%</color>, provides protection to female teammates within a 3-grid range during battle, reducing the damage they receive by <#29F161>15% when attacked</color>.",<#29F161>ของขวัญที่ให้สตรีจะมีผลเพิ่มขึ้น 50%</color> ปกป้องพรรคพวกสตรีในระยะ 3 ช่องขณะต่อสู้ ลดความเสียหายที่พวกนางได้รับ <#29F161>15% เมื่อถูกโจมตี</color>
 BuffInfo_千王之王,"<#29F161>Accuracy increases by 50%</color>, after using Throwing, <#29F161>100% chance to act again</color> (cannot be triggered consecutively).",<#29F161>ความแม่นยำเพิ่มขึ้น 50%</color> หลังใช้อาวุธลับ <#29F161>100% ได้ตาเพิ่ม</color> (ไม่สามารถทำงานซ้ำติดกัน)
-BuffInfo_转世佛子,"<#29F161>Initial Benevolence 100, Intelligence +5</color>, when Benevolence is above 0, <#29F161>each point increases damage by 0.5% when attacking</color>; when Benevolence is below 0, <#FE2929>For every point reduction, the damage taken increases by 0.95% when being attacked.</color>."
+BuffInfo_转世佛子,"<#29F161>Initial Benevolence 100, Intelligence +5</color>, when Benevolence is above 0, <#29F161>each point increases damage by 0.5% when attacking</color>; when Benevolence is below 0, <#FE2929>For every point reduction, the damage taken increases by 0.95% when being attacked.</color>.",<#29F161>ศีลธรรมเริ่มต้น 100 สติปัญญา +5</color> เมื่อศีลธรรมมากกว่า 0 <#29F161> ทุกหนึ่งแต้มจะสร้างความเสียหายเพิ่มขึ้น 0.5% เมื่อโจมตี</color> เมื่อศีลธรรมน้อยกว่า 0 <#FE2929>ทุกหนึ่งแต้มที่ลดลงจะได้รับความเสียหายเพิ่มขึ้น 0.95% เมื่อถูกโจมตี</color>
 BuffInfo_碧血丹心,"<#29F161>Parry, Critical, Combo increase by 10%</color>, start the battle with <#29F161>initial Spirit of 100</color>.",<#29F161>ปัดป้อง คริติคอล โจมตีต่อเนื่อง เพิ่มขึ้น 10%</color> เริ่มการต่อสู้ด้วย <#29F161>พลังใจเริ่มต้น 100</color>
 BuffInfo_知行合一,"""If any of the 'Benevolence, Righteousness, Courtesy, Wisdom, Trust' attributes are below 100, during battle, <#FE2929>Critical, Parry, Accuracy, Evasion decrease by 10%, and EXP gained from defeating enemies decreases by 50%</color>.""\n""If all of the 'Benevolence, Righteousness, Courtesy, Wisdom, Trust' attributes are at 100, during battle, <#29F161>Critical, Parry, Accuracy, Evasion increase by 10%, and EXP gained from defeating enemies increases by 100%</color>.""","""หากค่า ความเมตตา คุณธรรม มารยาท ภูมิปัญญา ความน่าเชื่อถือ น้อยกว่า 100 ในการต่อสู้ <#FE2929>คริติคอล ปัดป้อง ความแม่นยำ หลบหลีก ลดลง 10% ค่าประสบการณ์ที่ได้รับจากการสังหารศัตรูลดลง 50%</color>""\n""หากค่า ความเมตตา คุณธรรม มารยาท ภูมิปัญญา ความน่าเชื่อถือ เท่ากับ 100 ในการต่อสู้ <#29F161>คริติคอล ปัดป้อง ความแม่นยำ หลบหลีก เพิ่มขึ้น 10% ค่าประสบการณ์ที่ได้รับจากการสังหารศัตรูเพิ่มขึ้น 100%</color>"""
 BuffInfo_替天行道,"When attacking, you will deal additional true damage to the enemy boss Character equal to your FameLevel*50; after entering the battle, all your Characters' Action Speed increases (status holder's FameLevel*1.5%), and all enemy Characters' Action Speed decreases (status holder's FameLevel*1.5%).",เมื่อโจมตี จะสร้างความเสียหายจริงใส่ตัวละครหัวหน้าเท่ากับ เลเวลชื่อเสียง*50 หลังจากเข้าสู่การต่อสู้ ตัวละครพรรคพวกทั้งหมดมีความเร็วท่าร่างเพิ่ม (ค่าชื่อเสียงของเรา*1.5%) และตัวละครศัตรูทั้งหมดมีความเร็วท่าร่างลดลง (ค่าชื่อเสียงของเรา*1.5%)
@@ -730,7 +730,7 @@ BuffInfo_剧情万里独行,"Friendship only affects the speed of drawing a swor
 BuffInfo_剧情自带毒疮,"After years of learning poison skills, you have finally developed a body with poison, <#29F161>when attacked in battle, you will inflict 20 points of Poisoned effect on the attacker</color>.",หลังจากศึกษาศาสตร์พิษเป็นเวลาหลายปี ในที่สุดก็มีกายาพิษ <#29F161>เมื่อถูกโจมตี สร้างสถานะพิษ 20 แต้ม แก่ศัตรู</color>
 BuffInfo_剧情贪生怕死,"Timid as a mouse, any slight disturbance will make you flee like a startled bird. <#29F161>In a wild battle, you can pierce through the battle range and escape directly when HP is below 20%</color>.","ขี้ขลาดเหมือนกับหนู, สิ่งรบกวนเล็กๆ จะทำให้คุณบินหนีเหมือนกับนกที่ตกใจ <#29F161>ในการต่อสู้ดุเดือด, คุณสามารถเดินทะลุขอบเขตการต่อสู้และหลบหนีได้โดยตรงเมื่อ HP ต่ำกว่า 20%</color>"
 BuffInfo_剧情劫后余生,"Despite numerous hardships, you have survived and honed your survival skills. <#29F161>After each battle victory, you will recover 10% of your HP and MP</color>.",แม้จะผ่านความยากลำบากมากมาย ภัยพิบัติพบเจอกลับหลอมกายให้มั่นคง <#29F161>หลังจากชนะแบทเทิลแต่ล่ะรอบ คุณจะได้รับฟื้นพลัง 10% ของ HP และ MP</color>.
-BuffInfo_剧情体力充沛,"Born Wholesome, seems to have endless strength, <#29F161>Stamina limit increases by 200</color>."
+BuffInfo_剧情体力充沛,"Born Wholesome, seems to have endless strength, <#29F161>Stamina limit increases by 200</color>.",เกิดมาพร้อมแรงกายที่สมบูรณ์จนเหมือนไม่มีวันหมด <#29F161>แรงกายสูงสุดเพิ่มขึ้น 200</color>
 BuffInfo_剧情圣贤传人,"You are the embodiment of a saint, a reincarnated sage! <#29F161>The initial values of the six virtues of benevolence, righteousness, propriety, wisdom, faith, and courage are 100</color>.",ดั่งนักบุญมาโปรดสัตว์ ดั่งเทพเซียนมาเกิดใหม่ <#29F161>ค่าความดีเริ่มต้นทั้ง 6 ค่าความดีเริ่มต้นทั้ง 6 ความเมตตา คุณธรรม มารยาท ภูมิปัญญา ความน่าเชื่อถือ และความกล้า เท่ากับ 100</color>
 BuffInfo_剧情邪魔外道,"You are the terrifying demon that everyone talks about, even babies in their cradles dare not cry at the mention of your name. <#29F161>The initial values of the six virtues of benevolence, righteousness, propriety, wisdom, faith, and courage are -100</color>.",เป็นปีศาจสุดเหี้ยมโหดที่ผู้คนพากันหวาดกลัว เด็กร้องไห้ได้ยินนามยังหยุดร้อง <#29F161>ค่าความดีเริ่มต้นทั้ง 6 ความเมตตา คุณธรรม มารยาท ภูมิปัญญา ความน่าเชื่อถือ และความกล้า -100 </color>
 BuffInfo_剧情扮猪吃虎,
@@ -739,9 +739,9 @@ BuffInfo_剧情武林霸主,"As a Jianghu Conqueror who has wiped out the six ma
 BuffInfo_剧情天命弱鸡,"You are a pitiful person abandoned by the heavens, able to arouse everyone's sympathy, but you are oblivious to it, even enjoying it. <#29F161>Your five innate attributes will always be 1; Mood will never decrease; Gift effect increases by 500%; When hit by a Finishing Strike, you will not die but will retain 1 HP, effective once per battle</color>.",คนน่าสงสารที่ถูกสวรรค์ทอดทิ้ง ทุกผู้คนล้วนเห็นใจ แต่ท่านก็ไม่ได้ใส่ใจ กระทั่งสุขใจด้วยซ้ำ <#29F161>ค่าพลังเริ่มต้นทั้งห้าจะเป็น 1 เสมอ ค่าอารมณ์ไม่มีวันลด ของขวัญให้ผลเพิ่ม 500% เมื่อถูกโจมตีถึงตายจะยังเหลือพลังชีวิต 1 มีผลหนึ่งครั้งต่อการต่อสู้</color>
 BuffInfo_剧情多情浪子,"<#29F161>Gift effect to females increases by 50%</color>, provides protection to female teammates within a 3-grid range during battle, reducing the damage they receive by <#29F161>15% when attacked</color>.",<#29F161>ของขวัญที่ให้สตรีจะมีผลเพิ่มขึ้น 50%</color> ปกป้องพรรคพวกสตรีในระยะ 3 ช่องขณะต่อสู้ ลดความเสียหายที่พวกนางได้รับ <#29F161>15% เมื่อถูกโจมตี</color>
 BuffInfo_剧情千王之王,"<#29F161>Accuracy increases by 50%</color>, after using Throwing, <#29F161>100% chance to act again</color> (cannot be triggered consecutively).",<#29F161>ความแม่นยำเพิ่มขึ้น 50%</color> หลังใช้อาวุธลับ <#29F161>100% ได้ตาเพิ่ม</color> (ไม่สามารถทำงานซ้ำติดกัน)
-BuffInfo_剧情转世佛子,"<#29F161>Initial Benevolence 100, Intelligence +5</color>, when Benevolence is above 0, <#29F161>each point increases damage by 0.5% when attacking</color>; when Benevolence is below 0, <#FE2929>For every point reduction, the damage taken increases by 0.95% when being attacked.</color>."
+BuffInfo_剧情转世佛子,"<#29F161>Initial Benevolence 100, Intelligence +5</color>, when Benevolence is above 0, <#29F161>each point increases damage by 0.5% when attacking</color>; when Benevolence is below 0, <#FE2929>For every point reduction, the damage taken increases by 0.95% when being attacked.</color>.",<#29F161>ศีลธรรมเริ่มต้น 100 สติปัญญา +5</color> เมื่อศีลธรรมมากกว่า 0 <#29F161> ทุกหนึ่งแต้มจะสร้างความเสียหายเพิ่มขึ้น 0.5% เมื่อโจมตี</color> เมื่อศีลธรรมน้อยกว่า 0 <#FE2929>ทุกหนึ่งแต้มที่ลดลงจะได้รับความเสียหายเพิ่มขึ้น 0.95% เมื่อถูกโจมตี</color>
 BuffInfo_剧情碧血丹心,"<#29F161>Parry, Critical, Combo increase by 10%</color>, start the battle with <#29F161>initial Spirit of 100</color>.",<#29F161>ปัดป้อง คริติคอล โจมตีต่อเนื่อง เพิ่มขึ้น 10%</color> เริ่มการต่อสู้ด้วย <#29F161>พลังใจเริ่มต้น 100</color>
-BuffInfo_剧情知行合一,"""If any of the 'Benevolence, Righteousness, Courtesy, Wisdom, Trust' attributes are below 100, during battle, <#FE2929>Critical, Parry, Accuracy, Evasion decrease by 10%, and EXP gained from defeating enemies decreases by 50%</color>.""\n""If all of the 'Benevolence, Righteousness, Courtesy, Wisdom, Trust' attributes are at 100, during battle, <#29F161>Critical, Parry, Accuracy, Evasion increase by 10%, and EXP gained from defeating enemies increases by 100%</color>."""
+BuffInfo_剧情知行合一,"""If any of the 'Benevolence, Righteousness, Courtesy, Wisdom, Trust' attributes are below 100, during battle, <#FE2929>Critical, Parry, Accuracy, Evasion decrease by 10%, and EXP gained from defeating enemies decreases by 50%</color>.""\n""If all of the 'Benevolence, Righteousness, Courtesy, Wisdom, Trust' attributes are at 100, during battle, <#29F161>Critical, Parry, Accuracy, Evasion increase by 10%, and EXP gained from defeating enemies increases by 100%</color>.""","""หากค่า ความเมตตา คุณธรรม มารยาท ภูมิปัญญา ความน่าเชื่อถือ น้อยกว่า 100 ในการต่อสู้ <#FE2929>คริติคอล ปัดป้อง ความแม่นยำ หลบหลีก ลดลง 10% ค่าประสบการณ์ที่ได้รับจากการสังหารศัตรูลดลง 50%</color>""\n""หากค่า ความเมตตา คุณธรรม มารยาท ภูมิปัญญา ความน่าเชื่อถือ เท่ากับ 100 ในการต่อสู้ <#29F161>คริติคอล ปัดป้อง ความแม่นยำ หลบหลีก เพิ่มขึ้น 10% ค่าประสบการณ์ที่ได้รับจากการสังหารศัตรูเพิ่มขึ้น 100%</color>"""
 BuffInfo_剧情替天行道,"When attacking, you will deal additional true damage to the enemy boss Character equal to your FameLevel*50; after entering the battle, all your Characters' Action Speed increases (status holder's FameLevel*1.5%), and all enemy Characters' Action Speed decreases (status holder's FameLevel*1.5%).",เมื่อโจมตี จะสร้างความเสียหายจริงใส่ตัวละครหัวหน้าเท่ากับ เลเวลชื่อเสียง*50 หลังจากเข้าสู่การต่อสู้ ตัวละครพรรคพวกทั้งหมดมีความเร็วท่าร่างเพิ่ม (ค่าชื่อเสียงของเรา*1.5%) และตัวละครศัตรูทั้งหมดมีความเร็วท่าร่างลดลง (ค่าชื่อเสียงของเรา*1.5%)
 BuffInfo_剧情匹夫有责,"During the battle, for each additional teammate, your own and your team's Characters' <#29F161>Parry increases by 2%, Parry Damage reduce effect increases by 5%</color>; for each additional enemy, your own and your team's Characters' <#29F161>Critical increases by 1% (up to 10%), Critical Damage increases by 3% (up to 30%)</color>.",ระหว่างการต่อสู้ ตัวละครพรรคพวกทุกคนและเราจะได้รับ <#29F161>ปัดป้องเพิ่มขึ้น 2% ความเสียหายที่ปัดป้องเพิ่มขึ้น 5% ต่อจำนวนพรรคพวก</color> ตัวละครพรรคพวกทุกคนและเราจะได้รับ <#29F161>คริติคอลเพิ่มขึ้น 1% (สูงสุดที่ 10%) ความเสียหายคริติคอลเพิ่มขึ้น 3% (สูงสุดที่ 30%) </color> ต่อจำนวนศัตรู
 BuffInfo_剧情博采众长,"For each external skill learned to the tenth level, the basic Attack increases by 1%, 3%, 5% according to the quality of the martial arts; for each internal skill learned to the tenth level, the basic Defense increases by 1%, 3%, 5% according to the quality of the martial arts.",ทุกวิชาภายนอกที่ฝึกฝนถึงเลเวล 10 จะเพิ่มพลังโจมตี 1% 3% 5% ตามระดับของวรยุทธนั้นๆ  ทุกวิชาพลังภายในที่ฝึกฝนถึงเลเวล 10 จะเพิ่มพลังป้องกัน 1% 3% 5% ตามระดับของวรยุทธนั้นๆ
@@ -794,13 +794,13 @@ BuffInfo_伙伴特征淬毒手段,Cause <#FE2929>5 points of Poisoned</color> to
 BuffInfo_伙伴特征势不可挡,"<#29F161>Critical+5%</color>, Attack<#29F161>target Parry-5%</color>.",<#29F161>คริติคอล+5%</color> <#29F161>เป้าหมายโจมตีปัดป้อง -5%</color>
 BuffInfo_伙伴特征玄门正宗,<#29F161>MP Cost reduced by 15%</color>.,<#29F161>ใช้กำลังภายในลดลง 15%</color>
 BuffInfo_伙伴特征毒蛊寄生,Attack enemy with 8 points of Poisoned; being hit will apply 8 points of Poisoned effect to the attacker.,เมื่อโจมตี สร้างสถานะพิษ 8 แต้ม แก่ศัตรู เมื่อถูกโจมตี สร้างสถานะพิษ 8 แต้ม แก่ผู้โจมตี
-BuffInfo_伙伴特征不求甚解,"The EXP required for martial arts upgrade is reduced by 50%, and the exclusive value obtained by external skill Learn is halved.",ค่าประสบการณ์ที่ใช้พัฒนาวิชายุทธลดลง 50% ค่าความเชี่ยวชาญที่เพิ่มขึ้นจากการเรียนรู้วิชาภายนอกลดลงครึ่งหนึ่ง
+BuffInfo_伙伴特征不求甚解,"The EXP required for martial arts upgrade is reduced by 50%, and the exclusive value obtained by external skill Learn is halved.",ค่าประสบการณ์ที่ใช้เพิ่มระดับวรยุทธลดลง 50% ค่าความเชี่ยวชาญที่ได้รับจากการเรียนรู้วรยุทธภายนอกลดลงครึ่งหนึ่ง
 BuffInfo_伙伴特征风头正盛,"After entering the battle, Initial Action Point 100, when full health, <#29F161>Action Speed+25</color>.",หลังจากเข้าสู่การต่อสู้ ปราณเคลื่อนที่เริ่มต้นที่ 100 หากพลังชีวิตเต็ม <#29F161>ความเร็วท่าร่าง +25</color>
 BuffInfo_伙伴特征兄妹双簧,"When Ling Mengdie is on the field and alive, self <#29F161>Increases Damage 30%</color>, <#29F161>Action Speed+10</color>.","เมื่อ Ling Mengdie อยู่ในการต่อสู้และยังมีชีวิตอยู่ เราได้ <#29F161>เพิ่มความเสียหาย 30%</color>, <#29F161>ความเร็ว+10</color>."
 BuffInfo_伙伴特征隐身匿形,"If no Attack is made in this action and there are other friendly Characters on the field, self enters stealth; moving or attacking again will remove stealth.",ถ้าหากไม่ได้โจมตีในตานี้ และยังมีตัวละครพรรคพวกอยู่ในสนามรบ เข้าสู่สถานะพรางตัว การเคลื่อนที่ หรือโจมตีจะปลดสถานะพรางตัว
 BuffInfo_伙伴特征前朝皇族,Gain Spirit<#29F161>extra increase by 35%</color>.,ได้รับพลังใจ<#29F161>เพิ่มขึ้น 35%</color>
-BuffInfo_伙伴特征免死金牌,"Invincible to Finishing Strike, Recovery 100% HP, effective once per battle."
-BuffInfo_伙伴特征孟尝遗风,"When all characters on our side Attack, <#29F161>Damage increases by 25%</color>, when attacked, <#29F161>damage is reduced by 25%</color>."
+BuffInfo_伙伴特征免死金牌,"Invincible to Finishing Strike, Recovery 100% HP, effective once per battle.","อยู่ยงคงกระพันเมื่อถูกโจมตีถึงตาย, ฟื้นฟูพลังชีวิต 100% ใช้ได้หนึ่งครั้งต่อการต่อสู้"
+BuffInfo_伙伴特征孟尝遗风,"When all characters on our side Attack, <#29F161>Damage increases by 25%</color>, when attacked, <#29F161>damage is reduced by 25%</color>.","เมื่อตัวละครทั้งหมดฝ่ายเราทั้งหมดโจมตี, <#29F161>เพิ่มความเสียหาย 25%</color>, เมื่อถูกโจมตี, <#29F161>ความเสียหายลดลง 25%</color>."
 BuffInfo_伙伴特征孟尝遗风_队友,"When attacking, <#29F161>Increases Damage 25%</color>, when attacked, <#29F161>damage reduced by 25%</color>.",เมื่อโจมตี <#29F161>สร้างความเสียหายเพิ่มขึ้น 25%</color> เมื่อถูกโจมตี <#29F161>ได้รับความเสียหายลดลง 25%</color>
 BuffInfo_伙伴特征醉生梦死,"When in a ""drunken"" state, triggering a Critical increases Damage by 25% and inflicts 10 points of Internal Injury on the enemy, while your own energy gathering speed increases by 15%, lasting until the end of the battle.","เมื่ออยู่ในสถานะ ""เมา"" การโจมตีคริติคอลจะสร้างความเสียหายเพิ่มขึ้น 25% และจะสร้างสถานะ บาดเจ็บภายใน 10 แต้ม แก่ศัตรู ขณะเดียวกัน จะได้รับค่าปราณเคลื่อนที่เพิ่มขึ้น 15% คงอยู่จนจบการต่อสู้"
 BuffInfo_伙伴特征醉生梦死没酒,"<#FE2929>Critical-10%, Evasion-10%, Parry-10%, Combo-5%</color>",<#FE2929>คริติคอล-10% หลบหลีก-10% ปัดป้อง-10% โจมตีต่อเนื่อง-5%</color>
@@ -830,18 +830,18 @@ BuffInfo_伙伴特征识破剑招,"When attacked by swordsmanship, <#29F161>fina
 BuffInfo_伙伴特征武道奇才,Experience required for martial arts upgrade reduced by 15%; Equip requirement reduced by 15%.,ค่าประสบการณ์ในการพัฒนาวรยุทธลดลง 15% เงื่อนไขสวมใส่ลดลง 15%
 BuffInfo_伙伴特征剑锋披靡,25% chance to trigger Instant death on non-Boss Characters below 30 levels of self.,มีโอกาส 25% ที่จะสังหารศัตรูที่ไม่ใช่หัวหน้าทันที หากมีเลเวลต่ำกว่าเรา 30 ลงไป
 BuffInfo_伙伴特征国色天香,"When attacked by male enemies, only 85% damage is received.",เมื่อถูกบุรุษโจมตี ได้รับความเสียหายเพียง 85%
-BuffInfo_伙伴特征自惭形秽,"When attacked by female enemies, only 85% damage is received.",เมื่อถูกสตรีโจมตี ได้รับความเสียหายเพียง 85%
+BuffInfo_伙伴特征自惭形秽,"When attacked by female enemies, only 85% damage is received.",เมื่อถูกโจมตีโดยศัตรูเพศหญิง ได้รับความเสียหายเพียง 85%
 BuffInfo_伙伴特征倾国倾城,"When attacked by male enemies, the final damage received is reduced by 50%; when attacked by female enemies, the final damage received is reduced by 25%.",เมื่อถูกบุรุษโจมตี ได้รับความเสียหายลดลง 50% เมื่อถูกสตรีโจมตี ได้รับความเสียหายลดลง 25%
 BuffInfo_伙伴特征暗送无常,Inflict <#FE2929>5 points of Bleeding</color> on the enemy during an Attack.,สร้างสถานะ <#FE2929>เลือดไหล 5 แต้ม</color> เมื่อโจมตีศัตรู
-BuffInfo_伙伴特征深究其理,"Experience required for martial arts upgrade increased by 50%, exclusive value gained from external skills Learn increased by 100%.",ค่าประสบการณ์ที่ใช้พัฒนาวิชายุทธเพิ่มขึ้น 50% ค่าความเชี่ยวชาญที่เพิ่มขึ้นจากการเรียนรู้วิชาภายนอกเพิ่มขึ้น 100%
+BuffInfo_伙伴特征深究其理,"Experience required for martial arts upgrade increased by 50%, exclusive value gained from external skills Learn increased by 100%.",ค่าประสบการณ์ที่ใช้เพิ่มระดับวรยุทธเพิ่มขึ้น 50% ค่าความเชี่ยวชาญที่ได้รับจากการเรียนวรยุทธภายนอกเพิ่มขึ้น 100%
 BuffInfo_伙伴特征脏街之主,"For each surviving ally, Attack<#29F161>Increases Damage by 5%</color>.",พรรคพวกหนึ่งคนที่ยังมีชีวิตจะทำให้ <#29F161>สร้างความเสียหายเพิ่มขึ้น 5%</color>
 BuffInfo_伙伴特征如封似闭,Causes <#FE2929>10 points of Sealed</color> to the enemy when Attacking.,สร้างสถานะ <#FE2929>สกัดจุด 10 แต้ม</color> เมื่อโจมตีศัตรู
-BuffInfo_伙伴特征死里逃生,"Invincible to Finishing Strike, only 1 drop of blood left, effective once per battle."
+BuffInfo_伙伴特征死里逃生,"Invincible to Finishing Strike, only 1 drop of blood left, effective once per battle.","อยู่ยงคงกระพันเมื่อถูกโจมตีถึงตาย, พลังชีวิตเหลือ 1 ใช้ได้หนึ่งครั้งต่อการต่อสู้"
 BuffInfo_伙伴特征日进斗金,Earns 75*Jianghu days of Coin each day.,ได้รับเงิน 75*วันที่ผ่านไป เหรียญต่อวัน
 BuffInfo_伙伴特征雁过拔毛,"15% chance to steal money from the target when Attacking, up to 100 Wen.",มีโอกาส 15% ที่จะขโมยเงินจากเป้าหมายเมื่อโจมตี สูงสุด 100 อีแปะ
 BuffInfo_伙伴特征斤斤计较,Martial arts MP consumption reduced by 25%.,พลังภายในที่เสียจากวรยุทธจะลดลง 25%
 BuffInfo_伙伴特征野心勃勃,"For each ally Character alive on the battlefield, Increases Damage by 3%, Damage reduction increases by 3%, Action Speed+2.",พรรคพวกหนึ่งคนที่ยังมีชีวิตจะทำให้ สร้างความเสียหายเพิ่มขึ้น 3% ได้รับความเสียหายลดลง 3% ความเร็วท่าร่าง+2
-BuffInfo_伙伴特征众将听命,"When all characters on our side Attack, Damage increases by 25%, when attacked, damage is reduced by 25%."
+BuffInfo_伙伴特征众将听命,"When all characters on our side Attack, Damage increases by 25%, when attacked, damage is reduced by 25%.","เมื่อตัวละครทั้งหมดฝ่ายเราทั้งหมดโจมตี เพิ่มความเสียหาย 25%, เมื่อถูกโจมตี ความเสียหายลดลง 25%"
 BuffInfo_伙伴特征众将听命_队友,"When attacking, <#29F161>Increases Damage 25%</color>, when attacked, <#29F161>damage reduced by 25%</color>.",เมื่อโจมตี <#29F161>สร้างความเสียหายเพิ่มขึ้น 25%</color> เมื่อถูกโจมตี <#29F161>ได้รับความเสียหายลดลง 25%</color>
 BuffInfo_伙伴特征先斩后奏,15% chance to Instant death when Attacking targets below level 30.,มีโอกาส 15% ที่จะสังหารเป้าหมายที่เลเวลต่ำกว่า 30 ทันที
 BuffInfo_伙伴特征余音绕梁,"When performing martial arts, ally Character's MP consumption reduced by 25%, enemy's MP consumption increased by 25%.",เมื่อใช้วรยุทธ พลังภายในที่พรรคพวกใช้จะลดลง 25% พลังภายในที่ศัตรูใช้จะเพิ่มขึ้น 25%
@@ -859,7 +859,7 @@ BuffInfo_伙伴特征心有灵犀,"Effective after ""Three flowers converge"" st
 BuffInfo_伙伴特征武学奇才,"Effective after ""Three flowers converge"" state is lifted, experience required for martial arts upgrade is reduced by 100%, exclusive value gained from learning external skills is increased by 100%.","มีผลหลังจากสถานะ ""ไตรบุปผาบรรจบ"" ได้หายไป ค่าประสบการณ์ที่ใช้พัฒนาวิชายุทธลดลง 100% ค่าความเชี่ยวชาญจากการเรียนรู้วิชาภายนอกเพิ่มขึ้น 100%"
 BuffInfo_伙伴特征举一反三,"Effective after ""Three flowers converge"" state is lifted, EXP gained from defeating enemies in battle is increased by 50%.","มีผลหลังจากสถานะ ""ไตรบุปผาบรรจบ"" ได้หายไป ค่าประสบการณ์ที่ได้จากการสังหารศัตรูในการต่อสู้เพิ่มขึ้น 50%"
 BuffInfo_伙伴特征三花聚顶,"As Level increases, the chance of triggering Slumber when it's your turn to act increases.",เมื่อเลเวลเพิ่มขึ้น โอกาสในการติดสถานะ หลับไหล ในแต่ละตาจะยิ่งเพิ่มขึ้น
-BuffInfo_伙伴特征尽忠报国,"Invincible to Finishing Strike, only 1 drop of blood left, effective once per battle."
+BuffInfo_伙伴特征尽忠报国,"Invincible to Finishing Strike, only 1 drop of blood left, effective once per battle.","อยู่ยงคงกระพันเมื่อถูกโจมตีถึงตาย, พลังชีวิตเหลือ 1 ใช้ได้หนึ่งครั้งต่อการต่อสู้"
 BuffInfo_伙伴特征血战到底,"When HP is below 25%, damage of Attack is increased by 50%, damage taken when attacked is reduced by 50%, Action Speed is increased by 25%.",เมื่อพลังชีวิตต่ำกว่า 25% สร้างความเสียหายเพิ่มขึ้น 50% ได้รับความเสียหายลดลง 50% ความเร็วท่าร่างเพิ่มขึ้น 25%
 BuffInfo_伙伴特征绝境逢生,"Within a radius of 2 squares, for each enemy, damage is increased by 2%, damage reduction is increased by 2%.",ศัตรูแต่ละคนในระยะ 2 ช่อง จะทำให้สร้างความเสียหายเพิ่มขึ้น 2% ได้รับความเสียหายลดลง 2%
 BuffInfo_伙伴特征舍身修罗,"When HP is below 25%, uncontrollable in battle, Critical is increased by 25%, Spirit gained is increased by 100%, Action Speed +15.",เมื่อพลังชีวิตต่ำกว่า 25% ควบคุมตัวเองไม่ได้ในการต่อสู้ คริติคอลเพิ่มขึ้น 25% ได้รับพลังใจเพิ่มขึ้น 100% ความเร็วท่าร่าง +15
@@ -870,7 +870,7 @@ BuffInfo_伙伴特征一招生死,"The first Attack in battle is guaranteed to C
 BuffInfo_伙伴特征剑意勃发,"Gain an extra 10 points of Spirit when triggering Critical, Evasion, Parry in battle.",เมื่อคริติคอล หลบหลีก ปัดป้อง ในการต่อสู้ ได้รับพลังใจเพิ่มขึ้น 10 แต้ม
 BuffInfo_伙伴特征战意凛凛,Spirit gain <#29F161>increases by an additional 100%</color>.,ได้รับพลังใจ <#29F161>เพิ่มขึ้นอีก 100%</color>
 BuffInfo_伙伴特征杀意盎然,15% chance of instant death when attacking targets below level 15.,มีโอกาส 15% ที่จะสังหารเป้าหมายที่เลเวลต่ำกว่า 15 ทันที
-BuffInfo_伙伴特征不留余力,"MP Cost increases by 100%, Damage increases by 30% when attacking."
+BuffInfo_伙伴特征不留余力,"MP Cost increases by 100%, Damage increases by 30% when attacking.",ใช้ MP เพิ่มขึ้น 100% สร้างความเสียหายเพิ่มขึ้น 30% เมื่อโจมตี
 BuffInfo_伙伴特征七星阵眼,"After entering battle, allies' Action Speed is increased by 15%, final damage of Attack is increased by 15%, Defense is increased by 15%, own Defense is reduced by 50%.",หลังจากเข้าสู่การต่อสู้ พรรคพวกได้รับความเร็วท่าร่างเพิ่มขึ้น 15% สร้างความเสียหายเพิ่มขึ้น 15% พลังป้องกันเพิ่มขึ้น 15% แต่พลังป้องกันของตนลดลง 50%
 BuffInfo_伙伴特征七星阵眼_光环,"Action Speed is increased by 15%, final damage of Attack is increased by 15%, Defense is increased by 15%.",ความเร็วท่าร่างเพิ่มขึ้น 15% สร้างความเสียหายเพิ่มขึ้น 15% พลังป้องกันเพิ่มขึ้น 15%
 BuffInfo_伙伴特征我见犹怜,"When attacked by male enemies, only half of the damage is received.",เมื่อถูกบุรุษโจมตี ได้รับความเสียหายเพียงครึ่งเดียว
@@ -880,9 +880,9 @@ BuffInfo_伙伴特征叶家统帅,"After entering battle, Characters of Ye Famil
 BuffInfo_伙伴特征叶家统帅_光环,Damage of Attack is increased by 25%.,การโจมตีสร้างความเสียหายเพิ่มขึ้น 25%
 BuffInfo_伙伴特征近身侍卫,4 generals of Ye Family Battalion appear on the field after the first action.,4 ขุนพลแห่งกองพันตระกูลเย่จะปรากฏตัวหลังจบตาแรก
 BuffInfo_伙伴特征铁血近卫,4 generals of Yan Kingdom appear on the field after the first action.,4 ขุนพลแห่งอาณาจักรหยานจะปรากฏตัวหลังจบตาแรก
-BuffInfo_伙伴特征气场威压,Causes a 15% decrease in Action Speed to enemies within a 5-grid range.
+BuffInfo_伙伴特征气场威压,Causes a 15% decrease in Action Speed to enemies within a 5-grid range.,ลดความเร็วท่าร่างลง 15% แก่ศัตรูที่อยู่ในระยะ 5 ช่อง
 BuffInfo_伙伴特征气场威压_光环,Action Speed decreases by 15%.,ความเร็วท่าร่างลดลง 15%
-BuffInfo_伙伴特征气劲贯体,Reduce enemy's <#FE2929>100 points of Qi</color> when attacked
+BuffInfo_伙伴特征气劲贯体,Reduce enemy's <#FE2929>100 points of Qi</color> when attacked,เมื่อโจมตี <#FE2929>ลดค่าปราณเคลื่อนที่ของศัตรู 100 แต้ม</color>
 BuffInfo_伙伴特征绵里藏针,Reflect 25% of the damage back to the opponent each time you are attacked.,สะท้อนความเสียหาย 25% กลับไปยังศัตรูเมื่อถูกโจมตี
 BuffInfo_伙伴特征皇室贵胄,6 generals appear on the field after the first action.,6 ขุนพลจะปรากฏตัวหลังจบตาแรก
 BuffInfo_伙伴特征侠肝义胆,"After joining the team, for every 10 points increase in the protagonist's Righteous, the final damage increases by 1% during Attack, and for every 10 points decrease, the final damage decreases by 1%.",หลังจากเข้าร่วมทีม ทุกๆ 10 แต้มที่เพิ่มขึ้นของค่า คุณธรรม ของตัวเอก จะทำให้สร้างความเสียหายได้เพิ่มขึ้น 1% และทุกๆ 10 แต้มที่ลดลง จะสร้างความเสียหายได้ลดลง 1%
@@ -899,7 +899,7 @@ BuffInfo_伙伴特征邋遢道人,"Immunity to Internal Injury, Seal, PierceBack
 BuffInfo_伙伴特征先天罡气,"Each time you are attacked, <#29F161>15% of the damage will be reflected back to the opponent</color>.",<#29F161>สะท้อนความเสียหาย 25% กลับไปยังศัตรู</color> เมื่อถูกโจมตี
 BuffInfo_伙伴特征以静制动,"Each time after being attacked, <#29F161>increase energy by 75 points</color>.",ทุกครั้งที่ถูกโจมตี <#29F161>ได้รับปราณเคลื่อนที่ 75 แต้ม</color>
 BuffInfo_伙伴特征道玄宗主,Spirit gain <#29F161>increases by an additional 100%</color>.,ได้รับพลังใจ <#29F161>เพิ่มขึ้นอีก 100%</color>
-BuffInfo_伙伴特征九转回魂,"Upon receiving a Finishing Strike, become Invincible, recover 100% HPMP, clear Poisoned, Bleeding, Sealed, Internal Injury, Blinded status, effective once per battle.",เมื่อถูกโจมตีถึงตาย จะเป็นอมตะ ฟื้นฟูพลังชีวิต และพลังภายใน 100% และล้างสถานะ พิษ เลือดไหล บาดเจ็บภายใน สกัดจุด ตาบอด ใช้ได้หนึ่งครั้งต่อการต่อสู้
+BuffInfo_伙伴特征九转回魂,"Upon receiving a Finishing Strike, become Invincible, recover 100% HPMP, clear Poisoned, Bleeding, Sealed, Internal Injury, Blinded status, effective once per battle.","อยู่ยงคงกระพันเมื่อถูกโจมตีถึงตาย, ฟื้นฟู HP และ MP 100% และล้างสถานะ พิษ เลือดไหล บาดเจ็บภายใน สกัดจุด ตาบอด มีผลหนึ่งครั้งต่อการต่อสู้"
 BuffInfo_伙伴特征真气护体,"After being hit, inflict 30 points of Internal Injury effect on the attacker.",เมื่อถูกโจมตี ผู้โจมตีจะได้รับสถานะบาดเจ็บภายใน 30 แต้ม
 BuffInfo_伙伴特征立竿见影,"When RecoveryHP and MP, the effect increases by 100%.",เมื่อฟื้นฟู HP และ MP ประสิทธิภาพจะเพิ่มขึ้น 100%
 BuffInfo_伙伴特征谦谦君子,Only receive 50% damage when attacked by female enemies; only inflict 50% damage when attacking females.,ได้รับความเสียหายเพียง 50% เมื่อถูกสตรีโจมตี สร้างความเสียหายเพียง 50% หากโจมตีสตรี
@@ -907,7 +907,7 @@ BuffInfo_伙伴特征触类旁通,The <#29F161>EXP gained from defeating the opp
 BuffInfo_伙伴特征儒家传人,"Gain an additional 50% Spirit<#29F161></color>, Evasion+8%, Accuracy+8%.",ได้รับพลังใจเพิ่มขึ้นอีก 50%<#29F161></color> หลบหลีก +8% ความแม่นยำ +8%
 BuffInfo_伙伴特征袖里青蛇,Inflict <#FE2929>10 points of Poisoned</color> on the enemy during an Attack.,สร้างสถานะ <#FE2929>พิษ 10 แต้ม</color> เมื่อโจมตีศัตรู
 BuffInfo_伙伴特征恨天不公,Gain an additional 50% Spirit<#29F161></color>.,ได้รับพลังใจเพิ่มขึ้นอีก 50%<#29F161></color>
-BuffInfo_伙伴特征繁华楼主,"Action Speed increases, the fewer characters on our side on the battlefield, the more it increases. Without teammates, Action Speed is an additional +50, for each additional teammate, Action Speed -10."
+BuffInfo_伙伴特征繁华楼主,"Action Speed increases, the fewer characters on our side on the battlefield, the more it increases. Without teammates, Action Speed is an additional +50, for each additional teammate, Action Speed -10.","ความเร็วท่าร่างเพิ่มขึ้น, ยิ่งมีพรรคพวกฝ่ายเราบนสนามรบน้อย ยิ่งเพิ่มมากขึ้น, หากไม่มีพรรคพวกเลย ความเร็วท่าร่าง +50 สำหรับพรรคพวกแต่ละคนที่มี ความเร็วท่าร่างจะลดลง -10"
 BuffInfo_伙伴特征妙手空空2,"Each time you Attack and hit the enemy, steal 1% of their gold, up to 50 coins per target per time.",ทุกครั้งที่โจมตีโดนศัตรู จะขโมยเงิน 1% ของศัตรู สูงสุดที่ 50 เหรียญต่อครั้งต่อเป้าหมาย
 BuffInfo_伙伴特征好事成双,25% chance to drop an extra item when killing an enemy.,มีโอกาส 25% ที่จะได้รับสิ่งของเพิ่มขึ้นจากการสังหารศัตรู
 BuffInfo_伙伴特征踏雪无痕,"<#29F161>Qinggong increases by 20 points, Action Speed increases by 20%</color>.",<#29F161>วิชาตัวเบาเพิ่มขึ้น 20 ความเร็วท่าร่างเพิ่มขึ้น 20%</color>
@@ -930,7 +930,7 @@ BuffInfo_伙伴特征身轻如燕,"After entering the battle, Movement Range inc
 BuffInfo_伙伴特征特异毒体,Toxicology limit 500.,ศาสตร์พิษสูงสุดเพิ่มเป็น 500
 BuffInfo_伙伴特征皇室贵胄2,6 generals appear on the field after the first action.,6 ขุนพลจะปรากฏตัวหลังจบตาแรก
 BuffInfo_伙伴特征扬名立万,"Good at helping others gain fame, can help the protagonist gain an extra 15% experience when gaining Fame Experience after joining the team.",เก่งในการช่วยผู้อื่นสร้างชื่อเสียง สามารถช่วยตัวละครเอกให้ได้รับค่าประสบการณ์ชื่อเสียงเพิ่มขึ้น 15% เมื่อเข้าร่วมทีม
-BuffInfo_伙伴特征去伪存真,"When Appraise Artwork Skill is below level 4, the skill effect is increased by an additional level.",เมื่อทักษะตรวจสอบงานศิลป์ต่ำกว่า 4 ผลของทักษะนี้เพิ่มอีก 1 เลเวล
+BuffInfo_伙伴特征去伪存真,"When Appraise Artwork Skill is below level 4, the skill effect is increased by an additional level.",เมื่อทักษะประเมินภาพวาดต่ำกว่าระดับ 4 ผลของทักษะนี้เพิ่มอีก 1 เลเวล
 BuffInfo_伙伴特征一目十行,The experience required to learn martial arts is reduced by 25%.,ค่าประสบการณ์ในการเรียนรู้วรยุทธลดลง 25%
 BuffInfo_伙伴特征势如破竹,"When HP is above 75%, Action Speed increases by 50 points, and final damage increases by 25% when attacking.",เมื่อพลังชีวิตมากกว่า 75% ความเร็วท่าร่างเพิ่มขึ้น 50 เมื่อโจมตี สร้างความเสียหายเพิ่มขึ้น 25%
 BuffInfo_伙伴特征荒蛮狼性,"When HP is below 35%, attacks will definitely hit the target and critical hits will definitely occur.",เมื่อพลังชีวิตต่ำกว่า 35% การโจมตีจะโดนศัตรูและติดคริติคอลแน่นอน
@@ -958,7 +958,7 @@ BuffInfo_伙伴特征裙下之臣,"Within a 2-tile radius of oneself, male enemy
 BuffInfo_伙伴特征裙下之臣_光环附属1,"<#FE2929>Attack decreases by 5%, Defense decreases by 5%</color>.",<#FE2929>พลังโจมตีลดลง 5% พลังป้องกันลดลง 5%</color>
 BuffInfo_伙伴特征不让须眉,"Upon entering battle, for each additional male teammate, your own Action Speed increases by 10 points and final Damage increases by 5%, with a maximum increase of 50 points for Action Speed and 25% for final damage.",เมื่อเข้าสู่การต่อสู้ พรรคพวกที่เป็นบุรุษแต่ละคน จะทำให้ ความเร็วท่าร่างเพิ่มขึ้น 10 แต้ม สร้างความเสียหายเพิ่มขึ้น 5% สูงสุดที่ ความเร็วท่าร่าง 50 แต้ม สร้างความเสียหายเพิ่มขึ้น 25%
 BuffInfo_伙伴特征厚积薄发,"When your own Blade reaches 150, upon entering battle, Critical increases by 10%, Parry increases by 10%, and Action Speed increases by 35 points.",เมื่อค่า ดาบ ถึง 150 เมื่อเข้าสู่การต่อสู้ คริติคอลเพิ่มขึ้น 10% ปัดป้องเพิ่มขึ้น 10% ความเร็วท่าร่างเพิ่มขึ้น 35 แต้ม
-BuffInfo_伙伴特征血战不退,"Invincible to Finishing Strike, only 1 drop of blood left, effective once per battle."
+BuffInfo_伙伴特征血战不退,"Invincible to Finishing Strike, only 1 drop of blood left, effective once per battle.","อยู่ยงคงกระพันเมื่อถูกโจมตีถึงตาย, พลังชีวิตเหลือ 1 ใช้ได้หนึ่งครั้งต่อการต่อสู้"
 BuffInfo_伙伴特征品萧弄笛,"When using flute martial arts to attack, the final Damage increases by 10%.",เมื่อใช้วิชาขลุ่ยโจมตี สร้างความเสียหายเพิ่มขึ้น 10%
 BuffInfo_伙伴特征风情万种,"Within a 2-tile range of yourself, the Action Speed of male enemy characters is reduced by 10%.",ในระยะ 2 ช่องจากตนเอง ศัตรูที่เป็นบุรุษจะมีความเร็วท่าร่างลดลง 10%
 BuffInfo_伙伴特征风情万种_光环附属1,Action Speed is reduced by 10%.,ความเร็วท่าร่างลดลง 10%
@@ -985,15 +985,15 @@ BuffInfo_伙伴特征古之恶来,"Upon entering battle, <#29F161>initial Spirit
 BuffInfo_伙伴特征目盲耳聪,"<#29F161>Accuracy increases by 50%</color>, Blind Immunity.","<#29F161>ความแม่นยำเพิ่มขึ้น 50%</color>, ต้านสถานะตาบอด"
 BuffInfo_血气方刚,"Strong body, full of vitality. Maximum HP value increased by 10%.",ร่างกายแข็งแกร่งทนทาน HP สูงสุดเพิ่มขึ้น 15%
 BuffInfo_聪颖过人,"Like a sudden enlightenment, as if guided by a sage, all problems are easily solved, <#29F161>the experience required to learn martial arts is reduced by 30%, and the MP loss when using external skills is reduced by 20%</color>.",ดั่งรู้แจ้งในพริบตา ดั่งมีเทพเซียนมาชี้นำ ทุกปัญหาล้วนแก้ไขได้โดยง่าย <#29F161>ค่าประสบการณ์ที่ใช้ในการเรียนรู้วรยุทธลดลง 30% การใช้ MP ลดลง 20% เมื่อใช้วรยุทธภายนอก<</color>
-BuffInfo_好事成双,"As if favored by the two elders of fortune and prosperity, you are a lucky star from heaven! 50% chance to drop an extra item when killing an enemy."
+BuffInfo_好事成双,"As if favored by the two elders of fortune and prosperity, you are a lucky star from heaven! 50% chance to drop an extra item when killing an enemy.",ดั่งได้รับความสนใจจากสองผู้เฒ่าแห่งโชคลาภและความรุ่งเรือง เหมือนดาวแห่งโชคหล่นจากฟ้า! มีโอกาส 50% ที่จะได้สิ่งของเพิ่มหลังจากสังหารศัตรู
 BuffInfo_先发制人,"Agile and quick, always taking the initiative in any situation, <#29F161>each action starts accumulating energy from 100</color>.","คล่องแคล่วว่องไว, เป็นฝ่ายลงมือก่อนในทุกสถานการณ์ <#29F161>ค่าปราณเคลื่อนที่เริ่มต้นจาก 100 ทุกรอบ</color>"
 BuffInfo_以力破巧,"Overwhelming power, any technique is worthless in front of absolute strength. Critical damage increases by 15% when Critical.",เหนือกว่าคือเหนือกว่า ต่อหน้าพลังอันเด็ดขาด ทักษะใดๆล้วนไม่มีผล <#29F161>เมื่อติดคริติคอล ความเสียหายคริติคอลจะเพิ่มขึ้น 15%</color>
 BuffInfo_人畜无害,"You are benevolent and merciful, not even willing to step on an ant, like a Buddha in the world, saving all beings. <#29F161>Non-boss wild animals in the wild will not attack you actively</color>.",เปี่ยมด้วยความเมตตาปราณี กระทั่งมดยังไม่ยอมเหยียบ เปรียบได้ดั่งพระโพธิสัตว์ลงมาช่วยเหลือมวลมนุษย์ <#29F161>สัตว์ป่าที่ไม่ใช่หัวหน้า จะไม่โจมตีก่อน</color>
 BuffInfo_恶名赫赫,"You are notorious, causing unrest wherever you go, even children dare not cry at the sound of your name. <#29F161>When you do evil, non-boss characters who are 15 levels below you will run away</color>.",ชื่อเสียงฉาวโฉ่ อยู่ที่ใดวุ่นวายที่นั่น กระทั่งเด็กเล็กยังไม่กล้าเอ่ยถึง <#29F161>เมื่อทำชั่ว ตัวละครที่ไม่ใช่หัวหน้า ที่เลเวลต่ำกว่าเรา 15 เลเวลจะวิ่งหนี</color>
 BuffInfo_义薄云天,"Your righteousness is well-known, you would risk your life for your friends, everyone in the martial arts world wants to befriend you. When improving relations with other characters, <#29F161>an additional 25% increase</color>.",เป็นที่เลื่องลือถึงคุณธรรม ยอมเสี่ยงชีวิตเพื่อสหาย คนทั่วหล้าล้วนอยากเป็นสหายด้วย เมื่อเพิ่มความสัมพันธ์กับตัวละครอื่น <#29F161>จะมีผลเพิ่มขึ้น 25%</color>
-BuffInfo_见利忘义1,"Righteous? Friends? What are these worth? It's most important to benefit oneself! <#29F161>EXP gained from killing enemies in battle increases by 100%, but EXP gained by teammates decreases by 50%</color>."
+BuffInfo_见利忘义1,"Righteous? Friends? What are these worth? It's most important to benefit oneself! <#29F161>EXP gained from killing enemies in battle increases by 100%, but EXP gained by teammates decreases by 50%</color>.",คุณธรรมรึ? สหายรึ? ของพวกนั้นน่ะไม่มีค่าอะไรทั้งนั้น? ตัวข้านั้นสำคัญที่สุด! <#29F161>ค่าประสบการณ์จากการสังหารศัตรูในการต่อสู้เพิ่มขึ้น 100% แต่พรรคพวกจะได้รับค่าประสบการณ์ลดลง 50%</color>
 BuffInfo_见利忘义2,"Suffering from injustice, <#29F161>the EXP gained from killing the opponent in battle is halved</color>.",เจ็บปวดเมื่อเห็นเรื่องอยุติธรรม <#29F161>ได้รับค่าประสบการณ์จากการสังหารศัตรูในการต่อสู้ลดลงครึ่งหนึ่ง</color>
-BuffInfo_彬彬有礼,"Your courteous demeanor always leaves a good first impression. When meeting a non-enemy character for the first time, if your Fame is lower than their Relations, it increases by 2 points, and for every level higher, it increases by an additional 2 points."
+BuffInfo_彬彬有礼,"Your courteous demeanor always leaves a good first impression. When meeting a non-enemy character for the first time, if your Fame is lower than their Relations, it increases by 2 points, and for every level higher, it increases by an additional 2 points.",ท่าทางที่สุภาพของคุณจะสร้างความประทับใจแรกที่ดีเสมอ เมื่อพบกับตัวละครที่ไม่ใช่ศัตรูเป็นครั้งแรก หากชื่อเสียงของคุณต่ำกว่าความสัมพันธ์ตัวละครนั้นจะเพิ่มขึ้น 2 แต้ม และสำหรับทุกระดับที่สูงขึ้น จะเพิ่มขึ้นอีก 2 แต้ม
 BuffInfo_无礼之徒,"You are unconventional, acting in a strange and unrestrained manner, it's extremely difficult to gain others' approval. <#29F161>The effect of gifts is only one-tenth of the normal situation</color>.",เป็นคนนอกคอก ประพฤติตัวแปลกประหลาดผิดขนบ ยากจะได้รับการยอมรับจากผู้อื่น <#29F161>การให้ของขวัญจะมีผลเพียง 1 ใน 10 ของปกติ</color>
 BuffInfo_童叟无欺,"In business, honesty is the foundation, only your sincerity can exchange for truly valuable things. <#29F161>When trading, the value of our items increases by 50%</color>.",ในโลกธุรกิจ ความซื่อสัตย์คือรากฐานของทุกสิ่ง มีเพียงความจริงใจเท่านั้นที่จะนำมาซึ่งทรัพย์สินมีค่า <#29F161>เมื่อแลกเปลี่ยน มูลค่าของสิ่งของเพิ่มขึ้น 50%</color>
 BuffInfo_以次充好,"Trustworthy? Only fools talk about trustworthiness! This stone of mine is the essence of the sun and the moon, not just picked up from the roadside, selling it for 10 guan is not too much, right? <#29F161>The price of items sold increases by 50%</color>.",ความน่าเชื่อถือรึ มีเพียงคนโง่เท่านั้นที่พูดเรื่องเช่นนั้น ก้อนหินในมือข้านี้ไม่ได้หยิบมาจากข้างทาง แต่เป็นถึงแก่นแท้แห่งตะวันจันทรา จะขายสักหมื่นเหรียญก็ไม่ถือว่าแพงเกินไปจริงไหม <#29F161>ขายสิ่งของได้ราคาเพิ่มขึ้น 50%</color>
@@ -1179,7 +1179,7 @@ BuffInfo_三足金蟾Buff1,"Every day, you will receive <#29F161>100 coins</colo
 BuffInfo_酒葫芦Buff1,"Immune to Drunk effect, drinking more alcohol can only result in Completely drunk effect.","ต้านทานสถานะเมา, การดื่มแอลกอฮอล์มากขึ้นจะส่งผลให้เกิดสถานะ ""เมามาย"" เท่านั้น"
 BuffInfo_檀木念珠Buff1,"The higher your Benevolence, the higher your Defense. For every point of Benevolence, <#29F161>the final Damage reduction effect increases by 0.15%</color>.","ยิ่งมีค่า""ศีลธรรม""สูงพลังป้องกันยิ่งสูงขึ้น, ทุกๆ แต้ม""ศีลธรรม""จะทำให้ <#29F161>ความเสียหายสุดท้ายที่ได้รับลดลง 0.15%</color>"
 BuffInfo_茱萸花Buff1,"After each action, <#29F161>reduce your own Poisoned and Bleeding status by 8 points</color>.",หลังจบตา <#29F161>ลดสถานะ พิษ และเลือดไหล 8 แต้ม</color>
-BuffInfo_牡丹花Buff1,"When giving a gift to the opposite sex, <#29F161>the effect of the gift increases by 50%</color>."
+BuffInfo_牡丹花Buff1,"When giving a gift to the opposite sex, <#29F161>the effect of the gift increases by 50%</color>.",เมื่อมอบของขวัญที่ให้กับเพศตรงข้าม <#29F161>ของขวัญจะให้ผลเพิ่มขึ้น 50%</color>
 BuffInfo_护心镜Buff1,"When attacked, the <#29F161>damage received is reduced by 10%</color>.",เมื่อถูกโจมตี <#29F161>จะได้รับความเสียหายลดลง 10%</color>
 BuffInfo_狗皮膏药Buff1,"After each action, <#29F161>recover 5% of lost HP, up to 50 points</color>.",หลังจบตา <#29F161> ฟื้นฟูพลังชีวิต 5% จากพลังชีวิตที่เสียไป มากสุดที่ 50</color>
 BuffInfo_静心玉环Buff1,"After each action, <#29F161>recover 5% of lost MP, up to 50 points</color>.",หลังจบตา <#29F161> ฟื้นฟูพลังภายใน 5% จากพลังภายในที่เสียไป มากสุดที่ 50</color>
@@ -1196,7 +1196,7 @@ BuffInfo_玉辟邪Buff1,"After each action, <#29F161>reduce Poisoned, Blinded, I
 BuffInfo_金雕长羽Buff1,"The higher your Courage, the higher your final damage. For every point of Courage, <#29F161>damage increases by an additional 0.25%</color>.",ยิ่งค่าความกล้าหาญสูง ยิ่งสร้างความเสียหายได้เพิ่มขึ้น ทุกๆแต้ม ความกล้าหาญ จะทำให้<#29F161>สร้างความเสียหายเพิ่มขึ้น 0.25%</color>
 BuffInfo_兽皮鼓Buff1,"When entering a battle and using Musical type martial arts, <#29F161>Damage increases by 12%</color>.",เมื่อเข้าสู่การต่อสู้ การใช้วิชาดนตรี <#29F161>จะสร้างความเสียหายเพิ่มขึ้น 12%</color>
 BuffInfo_云纹琉璃珠Buff1,<#29F161>Throwing increases by 20 points</color>.,<#29F161>อาวุธลับ เพิ่มขึ้น 20</color>
-BuffInfo_青铜面具Buff1,"Accuracy guarantees a Critical hit on the enemy, MP Cost increases by 100%, guaranteed to be Critically hit when Attacked, and the first five actions Attack are uncontrollable."
+BuffInfo_青铜面具Buff1,"Accuracy guarantees a Critical hit on the enemy, MP Cost increases by 100%, guaranteed to be Critically hit when Attacked, and the first five actions Attack are uncontrollable.","โจมตีโดนศัตรูจะติดคริติคอลแน่นอน, ใช้ MP เพิ่มขึ้น 100%, แต่เมื่อถูกโจมตีจะติดคริติคอลแน่นอน, และ 5 ตาแรกจะควบคุมตัวเองไม่ได้"
 BuffInfo_玉蝉Buff1,"When hit by a Finishing Strike, there is a <#29F161>25% chance of becoming Invincible, recovering 10% of maximum HP and 10% of maximum MP</color>. This can only occur once per battle.",เมื่อถูกโจมตีถึงตาย <#29F161>มีโอกาส 25% ที่จะเป็นอมตะ ฟื้นฟูพลังชีวิต และพลังภายใน 10% ของค่าสูงสุด</color> ผลนี้ใช้ได้หนึ่งครั้งต่อการต่อสู้
 BuffInfo_青风令牌Buff1,"When entering a battle, for every point of Righteousness, <#29F161>the Critical rate increases by an additional 0.1%</color>.",เมื่อเข้าสู่การต่อสู้ ทุกๆแต้มของค่า คุณธรรม จะทำให้ <#29F161>อัตราคริติคอลเพิ่มขึ้น 0.1%</color>
 BuffInfo_太极玉佩Buff1,"After each action, <#29F161>recover 75 MP</color>.",หลังจบตา <#29F161>ฟื้นฟูพลังภายใน 75</color>
@@ -1214,7 +1214,7 @@ BuffInfo_玄铁令牌Buff1,"If Fame Level is below 5, it will default to level 5
 BuffInfo_百草符Buff1,"After each action, <#29F161>recover 75 HP</color>.",หลังจบตา <#29F161>ฟื้นฟูพลังชีวิต 75</color>
 BuffInfo_百草符Buff2,<#29F161>Medical increases by 50 points</color>.,<#29F161>วิชาแพทย์เพิ่มขึ้น 50</color>
 BuffInfo_君子玉Buff1,"For everyone, <#29F161>Gift effect increases by 25%</color>.",สำหรับทุกคน <#29F161>ของขวัญจะให้ผลเพิ่มขึ้น 25%</color>
-BuffInfo_君子玉Buff2,"<#29F161>The increase or decrease of the 5 virtues ""Benevolence, Righteousness, Courtesy, Wisdom, Trust"" will increase or decrease by 100%</color>."
+BuffInfo_君子玉Buff2,"<#29F161>The increase or decrease of the 5 virtues ""Benevolence, Righteousness, Courtesy, Wisdom, Trust"" will increase or decrease by 100%</color>.","<#29F161>การเพิ่มขึ้นหรือลดลงของ 5 ค่า ""ความเมตตา คุณธรรม มารยาท ภูมิปัญญา และ ความเชื่อใจ"" จะเพิ่มขึ้นหรือลดลง 100%</color>"
 BuffInfo_菩提佛珠Buff1,"Immune to Charm, Taunt, Fear, Slumber, Confuse.",ต้านทานต่อสถานะ ลุ่มหลง ยั่วยุ กลัว หลับไหล สับสน 
 BuffInfo_通犀辟毒牌Buff1,Poison Immunity.,ต้านทานพิษ
 BuffInfo_通犀辟毒牌Buff2,<#29F161>Toxicology increases by 10 points</color>.,<#29F161>ศาสตร์พิษ เพิ่มขึ้น 10</color>
@@ -1223,7 +1223,7 @@ BuffInfo_游商令牌Buff2,<#29F161>Accuracy increases by 10%</color>.,<#29F161>
 BuffInfo_火焰令Buff1,"In battle, <#29F161>Movement Range increases by 1 square, Action Speed increases by 15%</color>.",ในการต่อสู้ <#29F161>ระยะเคลื่อนที่เพิ่มขึ้น 1 ช่อง ความเร็วท่าร่างเพิ่มขึ้น 15%</color>
 BuffInfo_透光镜Buff1,"Appraise Artwork, Antiques, Books<#29F161>growth rate increases by 100%</color>.",ทักษะประเมิน ภาพวาด ภาชนะ หนังสือ <#29F161>จะมีอัตราเติบโตเพิ่มขึ้น 100%</color>
 BuffInfo_透光镜Buff2,<#29F161>Accuracy increases by 10%</color>.,<#29F161>ความแม่นยำเพิ่มขึ้น 10%</color>
-BuffInfo_引虫香Buff1,"When catching bugs, the chance of encountering Epic bugs increases by 150%, and the chance of encountering Legendary bugs increases by 50%."
+BuffInfo_引虫香Buff1,"When catching bugs, the chance of encountering Epic bugs increases by 150%, and the chance of encountering Legendary bugs increases by 50%.",ระหว่างการจับแมลง จะมีโอกาสพบแมลงระดับมหากาพย์เพิ่มขึ้น 150% และจะมีโอกาสพบแมลงระดับตำนานเพิ่มขึ้น 50%
 BuffInfo_引虫香Buff2,<#29F161>Accuracy increases by 10%</color>.,<#29F161>ความแม่นยำเพิ่มขึ้น 10%</color>
 BuffInfo_大黑锅Buff1,Additional damage for Pierce Back attack.,สร้างความเสียหายเพิ่มเมื่อโจมตีด้านหลัง
 BuffInfo_百味调料罐Buff1,Cooking<#29F161>growth rate increases by 200%</color>.,ทักษะทำอาหาร <#29F161>มีอัตราเติบโตเพิ่มขึ้น 200%</color>
@@ -1243,7 +1243,7 @@ BuffInfo_神捕令Buff1_光环,"For every point increase in Benevolence, Damage 
 BuffInfo_神捕令Buff2_光环,"For every point increase in the opponent's Benevolence, Damage decreases by 0.1%, and Defense decreases by 0.1%.",ทุกๆค่าที่เพิ่มขึ้นของ ความเมตตา ของศัตรูจะทำให้ สร้างความเสียลดลง 0.1% พลังป้องกันลดลง 0.1%
 BuffInfo_平衡车Buff1,Combat Movement Range increases by 2 squares.,ระยะการเคลื่อนที่ในการต่อสู้เพิ่มขึ้น 2 ช่อง
 BuffInfo_平衡车Buff2,Qinggong increases by 70.,วิชาตัวเบาเพิ่มขึ้น 70
-BuffInfo_平衡车Buff3,<#29F161>Action Speed increases by 20</color>.
+BuffInfo_平衡车Buff3,<#29F161>Action Speed increases by 20</color>.,<#29F161>ความเร็วท่าร่างเพิ่มขึ้น 20</color>
 BuffInfo_皇族玉佩Buff1,The effect of Fame increases by 2 levels.,ผลของค่าชื่อเสียงเพิ่มขึ้น 2 เลเวล
 BuffInfo_皇族玉佩Buff2,Accuracy increases by 50%.,ความแม่นยำเพิ่มขึ้น 50%
 BuffInfo_皇族玉佩Buff3,Qinggong increases by 70.,วิชาตัวเบาเพิ่มขึ้น 70
@@ -1261,7 +1261,7 @@ BuffInfo_传国玉玺Buff3,"Attack increases by 10%, Defense increases by 10%.",
 BuffInfo_千机钥Buff1,Comes with a level 4 Machinery Skill.,มาพร้อมทักษะกลไก เลเวล 4
 BuffInfo_千机钥Buff2,Accuracy increases by 50%.,ความแม่นยำเพิ่มขึ้น 50%
 BuffInfo_千机钥Buff3,Qinggong increases by 70.,วิชาตัวเบาเพิ่มขึ้น 70
-BuffInfo_免死金牌Buff1,"Invincible to Finishing Strikes, recovers 50% of maximum HP and 50% of maximum MP, effective once per battle.",เป็นอมตะต่อการโจมตีถึงตาย จากนั้นฟื้นฟูพลังชีวิต และพลังภายใน 50% ของค่าสูงสุด ใช้ได้หนึ่งครั้งต่อการต่อสู้
+BuffInfo_免死金牌Buff1,"Invincible to Finishing Strikes, recovers 50% of maximum HP and 50% of maximum MP, effective once per battle.","อยู่ยงคงกระพันเมื่อถูกโจมตีถึงตาย, จากนั้นฟื้นฟู HP และ  MP 50% ของค่าสูงสุด มีผลหนึ่งครั้งต่อการต่อสู้"
 BuffInfo_免死金牌Buff2,"Increases maximum HP by 10%, increases maximum MP by 10%.",เพิ่มพลังชีวิตสูงสุด 10% เพิ่มพลังภายในสูงสุด 10%
 BuffInfo_高僧舍利Buff1,EXP gained from defeating opponents in battle increases by 30%.,ค่าประสบการณ์ที่ได้รับจากการสังหารศัตรูในการต่อสู้เพิ่มขึ้น 30%
 BuffInfo_高僧舍利Buff2,"Attack increases by 10%, Defense increases by 10%.",พลังโจมตีเพิ่มขึ้น 10% พลังป้องกันเพิ่มขึ้น 10%
@@ -1323,7 +1323,7 @@ BuffInfo_身负重伤,"<#FE2929>Your HP and Defense are reduced by 90%</color>, 
 BuffInfo_肩上抗人,"At the start of the battle, your <#FE2929>Movement Range is reduced by 3 squares</color>.",ในการเริ่มต้นของการต่อสู้ <#FE2929>ระยะเคลื่อนที่ลดลง 3 ช่อง</color>
 BuffInfo_毒发身亡,"After consumption, it will cause <#FE2929>Dead by poison</color>.",หลังจากใช้ จะสร้างสถานะ <#FE2929>ตายด้วยพิษ</color>
 BuffInfo_经行腹痛,"When it's your turn, there's a <#FE2929>15% chance that your HP will be reduced to 10% of the remaining HP</color>, and you will skip this action.",เมื่อถึงตา จะมี <#FE2929>โอกาส 15% ที่พลังชีวิตจะลดลงเหลือ 10% ของพลังชีวิตที่เหลือ</color> และตานี้จะถูกข้ามไป
-BuffInfo_丁家血蛊,"After each action, for each female teammate on the battlefield, <#FE2929>reduce self HP value by 10%</color>."
+BuffInfo_丁家血蛊,"After each action, for each female teammate on the battlefield, <#FE2929>reduce self HP value by 10%</color>.",หลังจากลงมือแต่ละครั้ง สำหรับพรรคพวกหญิงทุกคนบนสนามต่อสู้ <#FE2929>ลด HP ตัวเองลดลง 10%</color>
 BuffInfo_丁家姑爷,Receive <#29F161>1 Coin</color> for each day passed.,รับเงิน <#29F161>1 อีแปะ</color> ทุกวัน
 BuffInfo_废除内力,"The Energy you learned is lost, you need to learn it again, {ceft0}.","สูญเสียพลังปราณที่เคยเรียน, ต้องเรียนมันใหม่อีกครั้ง, {ceft0}."
 BuffInfo_神采奕奕,<#29F161>Gift effect increases by 15%</color>.,<#29F161>ของขวัญจะให้ผลเพิ่มขึ้น 15%</color>
@@ -1396,7 +1396,7 @@ BuffInfo_无心之失,"When attacking, randomly attach one of the following effe
 BuffInfo_幡然醒悟,"The Spirit gained <#29F161>increases by an additional 100%</color>, <#29F161>Critical increases by 10%</color>, when attacking, <#29F161>final Increases Damage by 25%</color>.","ค่าพลังใจได้รับ <#29F161>เพิ่มขึ้น 100%</color>, <#29F161>คริติคอลเพิ่มขึ้น 10%</color> เมื่อโจมตี <#29F161>ความเสียหายสุดท้ายเพิ่ม 25%</color>"
 BuffInfo_血蛊宿主,"For every additional point of self Poisoned effect, <#29F161>Increases Damage by 1%</color> when Attacking, <#29F161>Decreases Damage by 1%</color> when being Attacked, and <#29F161>Recovers 0.1% of lost HP</color> after action.","สำหรับทุกแต้มที่เพิ่มมาของสถานะพิษของตัวเอง, เมื่อโจมตี <#29F161>เพิ่มความเสียหาย 1%</color> เมื่อถูกโจมตี <#29F161>ลดความเสียหาย 1%</color> และ <#29F161>ฟื้นฟู 0.1% ของ HP ที่สูญเสีย</color> หลังการกระทำ."
 BuffInfo_财运亨通,"An extra 10% of money will be gained from any source; 1% of the enemy's money will be stolen each time you AttackAccuracy them, with a maximum of 250 per target each time; for every 1000 money, Attack power increases by 0.1%, up to a maximum of 20%.","จะได้รับเงินพิเศษ 10% เพิ่มจากทุกแหล่ง: เงินของศัตรู 1% จะถูกขโมยทุกครั้งที่โจมตีโดน สูงสุด 250 ต่อเป้าหมายในแต่ละครั้ง; ทุก ๆ 1,000 อีแปะ พลังโจมตีจะเพิ่มขึ้น 0.1% สูงสุด 20%"
-BuffInfo_雨露均沾,"For each additional female in the team, the self gains <#29F161>25% more EXP</color>; each bonded female in the team can gain a fifth of the protagonist's five attributes.","สำหรับพรรคพวกตัวละครหญิงที่เพิ่มเข้าทีมมาแต่ละคน, ตนเองจะได้รับ <#29F161>EXP เพิ่มขึ้น 25%</color>; สำหรับพรรคพวกตัวละครหญิงที่""ผูกสัมพันธ์""แต่ละคนในทีมจะได้รับหนึ่งในห้าของคุณลักษณะทั้งห้าของตัวเอก"
+BuffInfo_雨露均沾,"For each additional female in the team, the self gains <#29F161>25% more EXP</color>; each bonded female in the team can gain a fifth of the protagonist's five attributes.","สำหรับพรรคพวกตัวละครหญิงที่เพิ่มเข้าทีมมาแต่ละคน, ตนเองจะได้รับ <#29F161>ค่าประสบการณ์เพิ่มขึ้น 25%</color>; สำหรับพรรคพวกตัวละครหญิงที่""ผูกสัมพันธ์""แต่ละคนในทีมจะได้รับหนึ่งในห้าของคุณลักษณะทั้งห้าของตัวเอก"
 BuffInfo_经脉受损,"<#FE2929>Internal strength effects cannot take effect, Attack damage decreases by 50%</color>.","<#FE2929>ทำให้ผลลัพธ์ของกำลังภายในไม่แสดงผล, พลังโจมตีลดลง 50%</color>"
 BuffInfo_一气呵成,"After removing the ""<#FE2929>Meridian Damage</color>"" status, <#29F161>Attack Increases Damage by 100%, all external skills' cooldown status -1</color>.","หลังจากลบล้างสถานะ ""<#FE2929>เส้นลมปราณเสียหาย</color>"" แล้ว <#29F161>การโจมตีจะเพิ่มความเสียหาย 100% สถานะคูลดาวน์ของวรยุทธ์ภายนอกทั้งหมด -1</color>"
 BuffInfo_宁思一进,"After removing the ""<#FE2929>Meridian Damage</color>"" status, <#29F161>Initial Spirit 200</color> when entering battle, Spirit gain <#29F161>increases by 100%</color>.","หลังจากลบล้างสถานะ ""<#FE2929>เส้นลมปราณเสียหาย</color>"" แล้ว, เมื่อเข้าสู่การต่อสู้ <#29F161>พลังใจเริ่มต้น 200</color>, ได้รับพลังใจ<#29F161>เพิ่มขึ้นอีก 100%</color>"
@@ -1670,7 +1670,7 @@ BuffName_dong10,
 BuffName_dong11,Windwalker,ล่องเวหา
 BuffName_dong12,
 BuffName_dong13,
-BuffName_dong14,Caught off guard
+BuffName_dong14,Caught off guard,ไม่ทันระวังตัว
 BuffName_jing0,
 BuffName_jing1,
 BuffName_jing2,Resilient,ร่างกายยืดหยุ่น
@@ -2083,8 +2083,8 @@ BuffName_CustomDiff6,Inflicts Internal Injury,สร้างสถานะบ�
 BuffName_CustomDiff7,Inflicts Bleeding,สร้างสถานะเลือดไหล
 BuffName_CustomDiff8,Inflicts Sealed,สร้างสถานะสกัดจุด
 BuffName_CustomDiff9,Inflicts Blinded,สร้างสถานะตาบอด
-BuffName_CustomDiff10,Innate Protection
-BuffName_CustomDiff11,Innate Dominance
+BuffName_CustomDiff10,Innate Protection,คุ้มครองโดยกำเนิด
+BuffName_CustomDiff11,Innate Dominance,มีอำนาจเหนือโดยกำเนิด
 BuffName_CustomDiff12,Start Over,เริ่มใหม่
 BuffName_招式三千雷动,Stagger,ชะงัก
 BuffName_招式先破后立,Pierce,เจาะ
@@ -2327,7 +2327,7 @@ BuffName_御剑入门,
 BuffName_长兵入门,
 BuffName_福泽深厚,Good fortune,พรแห่งโชค
 BuffName_身强体健,Hardened,ทนทาน
-BuffName_龙精虎猛,Stalwart
+BuffName_龙精虎猛,Stalwart,กำยำ
 BuffName_聪颖灵巧,Smart,ฉลาด
 BuffName_深仁厚泽,
 BuffName_慷慨仗义,
@@ -2515,7 +2515,7 @@ BuffName_剧情毒蛊寄生,Poisonous parasite,ปรสิตพิษ
 BuffName_剧情皮糙肉厚,Hardy,แข็งกร้าว
 BuffName_剧情心宽体胖,Happy fatty,อารมณ์ดี
 BuffName_剧情酩酊醉意,Bad drunker,ขี้เมา
-BuffName_剧情交游广阔,Resourceful
+BuffName_剧情交游广阔,Resourceful,เจ้าปัญญา
 BuffName_剧情国公世子,Son of noble,บุตรชนชั้นสูง
 BuffName_剧情文武状元,Top achiever,สำเร็จสูงสุด
 BuffName_所向披靡,Undefeated,ไร้พ่าย
@@ -2526,7 +2526,7 @@ BuffName_兵器精通,Weapon master,ปรมาจารย์อาวุธ
 BuffName_影子护卫,Secret guardian,ผู้พิทักษ์เงา
 BuffName_神行无忌,Fast runner,นักวิ่งลมกรด
 BuffName_草木皆兵,Perfect adaptation,ปรับตัวอย่างสมบูรณ์
-BuffName_无师自通,Ravenous reader
+BuffName_无师自通,Ravenous reader,เรียนรู้ได้เอง
 BuffName_心有灵犀,Effective learner,เรียนรู้อย่างมุ่งมั่น
 BuffName_万里独行,Loner,ผู้สันโดษ
 BuffName_自带毒疮,Poisonous skin,กายพิษ
@@ -2559,7 +2559,7 @@ BuffName_剧情兵器精通,Weapon master,ปรมาจาย์อาวุ�
 BuffName_剧情影子护卫,Secret guardian,ผู้อารักขาลับ
 BuffName_剧情神行无忌,Fast runner,นักวิ่งลมกรด
 BuffName_剧情草木皆兵,Perfect adaptation,ปรับตัวอย่างสมบูรณ์
-BuffName_剧情无师自通,Ravenous reader
+BuffName_剧情无师自通,Ravenous reader,เรียนรู้ได้เอง
 BuffName_剧情心有灵犀,Effective learner,เรียนรู้อย่างมุ่งมั่น
 BuffName_剧情万里独行,Loner,ผู้สันโดษ
 BuffName_剧情自带毒疮,Poisonous skin,กายพิษ
@@ -2596,7 +2596,7 @@ BuffName_伙伴特征行动迟缓,Sluggish,เฉี่อยชา
 BuffName_伙伴特征先发制人,First strike,โจมตีก่อน
 BuffName_伙伴特征动如脱兔,Like a rabbit,รวดเร็วดั่งกระต่าย
 BuffName_伙伴特征狐假虎威,Dependant,ผู้พึ่งพา
-BuffName_伙伴特征金针刺穴,Meridian piercer
+BuffName_伙伴特征金针刺穴,Meridian piercer,นักสกัดจุด
 BuffName_伙伴特征医有所成,Medical knowledge,ความรู้วิชาแพทย์
 BuffName_伙伴特征妙手仁心,Medical expert,ผู้เชี่ยวชาญวิชาแพทย์
 BuffName_伙伴特征不解风情,Unaffectionate,ไม่เป็นที่รัก
@@ -2605,7 +2605,7 @@ BuffName_伙伴特征落井下石,Chance taker,นักฉวยโอกาส
 BuffName_伙伴特征山林猎手,Wild hunter,พรานป่า
 BuffName_伙伴特征如履平地,Walker,ผู้เดินเท้า
 BuffName_伙伴特征多年积习,Trash sweeper,นักปัดกวาด
-BuffName_伙伴特征远离是非,Back away
+BuffName_伙伴特征远离是非,Back away,ไปถูกที่ถูกเวลา
 BuffName_伙伴特征粗通拳脚,Fist user,ผู้ใช้วิชาหมัด
 BuffName_伙伴特征道听途说,Rumour listener,นักฟังข่าวลือ
 BuffName_伙伴特征医者自医,Self-healing doctor,หมอรักษาตน
@@ -2615,25 +2615,25 @@ BuffName_伙伴特征冷若冰霜,Icy glare,สายตาดุจน้ำแ
 BuffName_伙伴特征冷若冰霜_光环,Icy glare,สายตาดุจน้ำแข็ง
 BuffName_伙伴特征锱铢必较,Accountant,นักบัญชี
 BuffName_伙伴特征金刚体魄,Diamond body,กายเพชร
-BuffName_伙伴特征偃武息戈,Blow over
-BuffName_伙伴特征来去飘忽,Gone with the wind
+BuffName_伙伴特征偃武息戈,Blow over,ผนึกชีพจร
+BuffName_伙伴特征来去飘忽,Gone with the wind,จากไปกับสายลม
 BuffName_伙伴特征春燕回翔,Swallow flight,นางแอ่นเหิน
-BuffName_伙伴特征疏而不漏,Precision
-BuffName_伙伴特征刀剑无眼,Sharp edge
-BuffName_伙伴特征暴虐不仁,Tyrannical
-BuffName_伙伴特征勇猛无挡,Bravery
-BuffName_伙伴特征锐不可当,Dangerous aura
+BuffName_伙伴特征疏而不漏,Precision,ประมาทแต่ไม่พลาด
+BuffName_伙伴特征刀剑无眼,Sharp edge,กระบี่ไม่มีตา
+BuffName_伙伴特征暴虐不仁,Tyrannical,โหดร้ายทารุณ
+BuffName_伙伴特征勇猛无挡,Bravery,กล้าหาญ
+BuffName_伙伴特征锐不可当,Dangerous aura,ไม่หยุดยั้ง
 BuffName_伙伴特征身形鬼魅,Ghostly mirage,เงาหลอนลวงตา
 BuffName_伙伴特征滚滚波涛,Force waves,คลื่นพลัง
 BuffName_伙伴特征淬毒手段,Poisonous strike,การโจมตีแฝงพิษ
 BuffName_伙伴特征势不可挡,Unstoppable,มิอาจหยุดยั้ง
 BuffName_伙伴特征玄门正宗,Authentic sect,สำนักเที่ยงแท้
 BuffName_伙伴特征毒蛊寄生,Poisonous parasite,ปรสิตพิษ
-BuffName_伙伴特征不求甚解,Skimming
-BuffName_伙伴特征风头正盛,Eminent
+BuffName_伙伴特征不求甚解,Skimming,อย่าถามหาคำอธิบาย
+BuffName_伙伴特征风头正盛,Eminent,ทำการอย่างเต็มที่
 BuffName_伙伴特征兄妹双簧,Brother and sister,พี่ชายน้องสาว
-BuffName_伙伴特征隐身匿形,Unseen visage
-BuffName_伙伴特征前朝皇族,Royal blood
+BuffName_伙伴特征隐身匿形,Unseen visage,ล่องหน
+BuffName_伙伴特征前朝皇族,Royal blood,เชื้อสายราชวงศ์
 BuffName_伙伴特征免死金牌,Death-exemption Plate,ป้ายทองเว้นตาย
 BuffName_伙伴特征孟尝遗风,Good comrades,สหายดีงาม
 BuffName_伙伴特征孟尝遗风_队友,Good comrades,สหายดีงาม
@@ -2644,17 +2644,17 @@ BuffName_伙伴特征逍遥二仙,Carefree duo,คู่หูไร้ทุก
 BuffName_伙伴特征金刚护体,Vajra protection,วัชระคุ้มครอง
 BuffName_伙伴特征佛法加持,Buddhism protection,พุทธคุ้มครอง
 BuffName_伙伴特征佛法加持_队友,Buddhism protection,พุทธคุ้มครอง
-BuffName_伙伴特征涅槃重生,Nirvana restoration
-BuffName_伙伴特征离经叛道,Deviant
+BuffName_伙伴特征涅槃重生,Nirvana restoration,นิพพานเกิดใหม่
+BuffName_伙伴特征离经叛道,Deviant,ไม่เหมือนคนอื่น
 BuffName_伙伴特征荤腥不忌,Meat eater,คนกินเนื้อ
-BuffName_伙伴特征磨刀霍霍,Sharpened edge
+BuffName_伙伴特征磨刀霍霍,Sharpened edge,ลับมีดคมกริบ
 BuffName_伙伴特征得心应手,Upwind,อยู่เหนือลม
 BuffName_伙伴特征水寨寨主,Lord of Water Camp,เจ้าแห่งค่ายน้ำ
 BuffName_伙伴特征暗劲激发,Hidden force,กำลังลับ
 BuffName_伙伴特征喜怒无常,Moody,หงุดหงิด
 BuffName_伙伴特征铁骨铮铮,Fearless,ไร้ความกลัว
 BuffName_伙伴特征目不视物,Eyesight lost,สูญเสียสายตา
-BuffName_伙伴特征听声辨位,Auditory sight
+BuffName_伙伴特征听声辨位,Auditory sight,แยกด้วยเสียง
 BuffName_伙伴特征连珠射艺,Continuous throwing,อาวุธลับต่อเนื่อง
 BuffName_伙伴特征暗器奇才,Throwing talent,พรสวรรค์อาวุธลับ
 BuffName_伙伴特征琴棋书画,Four arts,สี่ศิลป์
@@ -2662,20 +2662,20 @@ BuffName_伙伴特征步步为营,Careful step,ย่างก้าวระม
 BuffName_伙伴特征势大力沉,Muscular,บึกบึน
 BuffName_伙伴特征大器晚成,Slow starter,เริ่มต้นช้า
 BuffName_伙伴特征识破剑招,Sword breaker,ทำลายกระบี่
-BuffName_伙伴特征武道奇才,Martial prodigy,อัจฉริยะการฝึกยุทธ
+BuffName_伙伴特征武道奇才,Martial prodigy,ผู้ชำนาญวรยุทธ์
 BuffName_伙伴特征剑锋披靡,Lethal sword,กระบี่สังหาร
 BuffName_伙伴特征国色天香,Gorgeous beauty,ความงามที่งดงาม
-BuffName_伙伴特征自惭形秽,Ashamed
+BuffName_伙伴特征自惭形秽,Ashamed,น่าละอาย
 BuffName_伙伴特征倾国倾城,Overwhelming beauty,ความงามเลิศล้ำ
-BuffName_伙伴特征暗送无常,Secret strike
-BuffName_伙伴特征深究其理,Careful examiner
-BuffName_伙伴特征脏街之主,Street master
-BuffName_伙伴特征如封似闭,Sealing wind
+BuffName_伙伴特征暗送无常,Secret strike,จู่โจมลับ
+BuffName_伙伴特征深究其理,Careful examiner,ตรวจสอบรอบคอบ
+BuffName_伙伴特征脏街之主,Street master,เจ้าแห่งตรอกเล้าหมู
+BuffName_伙伴特征如封似闭,Sealing wind,สกัดวายุ
 BuffName_伙伴特征死里逃生,Survival instinct,สัญชาตญาณเอาตัวรอด
 BuffName_伙伴特征日进斗金,Daily income,รายได้รายวัน
-BuffName_伙伴特征雁过拔毛,Dirty hands
+BuffName_伙伴特征雁过拔毛,Dirty hands,ถอนขนห่านป่า
 BuffName_伙伴特征斤斤计较,Economical,ประหยัด
-BuffName_伙伴特征野心勃勃,Ambitious
+BuffName_伙伴特征野心勃勃,Ambitious,ทะเยอทะยาน
 BuffName_伙伴特征众将听命,Give orders,มอบคำสั่ง
 BuffName_伙伴特征众将听命_队友,Give orders,มอบคำสั่ง
 BuffName_伙伴特征先斩后奏,Executioner,เพชรฆาต
@@ -2691,34 +2691,34 @@ BuffName_伙伴特征目无全牛,Beast killer,นักล่าสัตว์
 BuffName_伙伴特征九黎圣女,Jiuli Saintess,ธิดาเทพจิ่วลี่
 BuffName_伙伴特征九黎圣女_队友,Jiuli Saintess,ธิดาเทพจิ่วลี่
 BuffName_伙伴特征心有灵犀,Effective learner,เรียนรู้อย่างมุ่งมั่น
-BuffName_伙伴特征武学奇才,Martial genius
+BuffName_伙伴特征武学奇才,Martial genius,อัจฉริยะด้านวรยุทธ
 BuffName_伙伴特征举一反三,Fast learner,เรียนรู้รวดเร็ว
 BuffName_伙伴特征三花聚顶,Three flowers converge,ไตรบุปผาบรรจบ
 BuffName_伙伴特征尽忠报国,Loyalty,ความภักดี
-BuffName_伙伴特征血战到底,To the death
-BuffName_伙伴特征绝境逢生,Against all odds
-BuffName_伙伴特征舍身修罗,Shura sacrifice
+BuffName_伙伴特征血战到底,To the death,สู้ให้ถึงที่สุด
+BuffName_伙伴特征绝境逢生,Against all odds,ต่อต้านทุกอุปสรรค
+BuffName_伙伴特征舍身修罗,Shura sacrifice,สังเวยอสุรา
 BuffName_伙伴特征杀生护生,Kill to protect,สังหารเพื่อปกป้อง
 BuffName_伙伴特征内劲反震,Internal impact,กระแทกภายใน
-BuffName_伙伴特征随心所欲,Arbitrarily
+BuffName_伙伴特征随心所欲,Arbitrarily,ดังใจปรารถนา
 BuffName_伙伴特征一招生死,Life or death,ความเป็นความตาย
 BuffName_伙伴特征剑意勃发,Sword Qi Explosion,ระเบิดกระบี่ปราณ
-BuffName_伙伴特征战意凛凛,Raging spirit
+BuffName_伙伴特征战意凛凛,Raging spirit,จิตวิญญาณแห่งการต่อสู้
 BuffName_伙伴特征杀意盎然,Killing intent,จิตสังหาร
 BuffName_伙伴特征不留余力,All-out attack,โจมตีสุดตัว
 BuffName_伙伴特征七星阵眼,Formation center,ศูนย์กลางค่ายกล
 BuffName_伙伴特征七星阵眼_光环,Formation center,ศูนย์กลางค่ายกล
-BuffName_伙伴特征我见犹怜,Lovely visage
+BuffName_伙伴特征我见犹怜,Lovely visage,เห็นอกเห็นใจ
 BuffName_伙伴特征天生神力,Herculean strength,พละกำลังมหาศาล
-BuffName_伙伴特征金枝玉叶,Rich maiden
+BuffName_伙伴特征金枝玉叶,Rich maiden,กิ่งทองใบหยก
 BuffName_伙伴特征叶家统帅,Ye faction leader,ผู้นำฝ่ายเย่
 BuffName_伙伴特征叶家统帅_光环,Ye faction leader,ผู้นำฝ่ายเย่
 BuffName_伙伴特征近身侍卫,Bodyguards,องครักษ์
 BuffName_伙伴特征铁血近卫,Blood guards,ผู้พิทักษ์โลหิต
-BuffName_伙伴特征气场威压,Suppressing aura
-BuffName_伙伴特征气场威压_光环,Suppressing aura
-BuffName_伙伴特征气劲贯体,Suppressing attack
-BuffName_伙伴特征绵里藏针,Force reflection
+BuffName_伙伴特征气场威压,Suppressing aura,รังสีกดดัน
+BuffName_伙伴特征气场威压_光环,Suppressing aura,รังสีกดดัน
+BuffName_伙伴特征气劲贯体,Suppressing attack,ตีปราณทั่วร่าง
+BuffName_伙伴特征绵里藏针,Force reflection,เข็มที่ซ่อนอยู่
 BuffName_伙伴特征皇室贵胄,Royal noble,ราชวงค์ชั้นสูง
 BuffName_伙伴特征侠肝义胆,Courageous,อาจหาญ
 BuffName_伙伴特征御剑精通,Sword master,ปรมาจารย์กระบี่
@@ -2726,13 +2726,13 @@ BuffName_伙伴特征熟能生巧,Practice makes perfect,ยิ่งฝึก�
 BuffName_伙伴特征将门虎女,General's daughter,ธิดาแม่ทัพ
 BuffName_伙伴特征身先士卒,Front guard,ดูเป็นตัวอย่าง
 BuffName_伙伴特征发挥失常,Capriciousness,เอาแต่ใจ
-BuffName_伙伴特征皇权特许,Royal prestige
+BuffName_伙伴特征皇权特许,Royal prestige,ศักดิ์ศรีหลวง
 BuffName_伙伴特征身如鬼魅,Rapid response,ตอบสนองรวดเร็ว
 BuffName_伙伴特征随手烟尘,Dust thrower,จอมสาดทราย
 BuffName_伙伴特征长兵奇才,Long weapon talent,พรสวรรค์อาวุธยาว
 BuffName_伙伴特征邋遢道人,Ragged Taoist,นักพรตซอมซ่อ
 BuffName_伙伴特征先天罡气,Origin Qi,ปราณต้นกำเนิด
-BuffName_伙伴特征以静制动,Readied
+BuffName_伙伴特征以静制动,Readied,พรักพร้อม
 BuffName_伙伴特征道玄宗主,Taoist sect leader,เจ้าสำนักเต๋า
 BuffName_伙伴特征九转回魂,Reversal technique,ชีวิตคืนกลับ
 BuffName_伙伴特征真气护体,Reflective Qi,ปราณสะท้อน
@@ -2742,14 +2742,14 @@ BuffName_伙伴特征触类旁通,Analyzing,นักวิเคราะห์
 BuffName_伙伴特征儒家传人,Confucius's successor,ผู้สืบทอดขงจื๊อ
 BuffName_伙伴特征袖里青蛇,Hidden snake,อสรพิษซ่อน
 BuffName_伙伴特征恨天不公,World hater,ผู้ชังโลก
-BuffName_伙伴特征繁华楼主,Bustling House owner
+BuffName_伙伴特征繁华楼主,Bustling House owner,เจ้าบ้านคึกคัก
 BuffName_伙伴特征妙手空空2,Sleight of hand,มืออันว่องไว
 BuffName_伙伴特征好事成双,Lucky,โชคดี
 BuffName_伙伴特征踏雪无痕,Traceless step,ย่างก้าวไร้ร่องรอย
 BuffName_伙伴特征释家传人,Qi family's successor,ผู้สืบทอดตระกูลฉี
 BuffName_伙伴特征所向披靡2,Undefeated,ไร้พ่าย
 BuffName_伙伴特征杀意腾腾,Killing aura,ไอสังหาร
-BuffName_伙伴特征战意昂扬,Spirited
+BuffName_伙伴特征战意昂扬,Spirited,จิตวิญญาณสูง
 BuffName_伙伴特征越战越勇,Battle maniac,คลั่งการต่อสู้
 BuffName_伙伴特征速战速决,Blitz attack,จู่โจมสายฟ้าแลบ
 BuffName_伙伴特征耍刀精通,Blade master,ปรมาจารย์ดาบ
@@ -2760,38 +2760,38 @@ BuffName_伙伴特征战意凛然,Burning spirit,จิตวิญญาณล�
 BuffName_伙伴特征剑不空回,Bloodied sword,กระบี่เปื้อนเลือด
 BuffName_伙伴特征法不容情,No mercy,ไร้ปราณี
 BuffName_伙伴特征志得意满,Exhilarated,เบิกบาน
-BuffName_伙伴特征飞燕凌波,Swallow ascend
+BuffName_伙伴特征飞燕凌波,Swallow ascend,นางแอ่นโผบิน
 BuffName_伙伴特征身轻如燕,Light body,ตัวเบา
 BuffName_伙伴特征特异毒体,Poisonous body,กายพิษ
 BuffName_伙伴特征皇室贵胄2,Royal noble,ราชวงค์ชั้นสูง
 BuffName_伙伴特征扬名立万,Storyteller,นักเล่านิทาน
-BuffName_伙伴特征去伪存真,Verification
-BuffName_伙伴特征一目十行,Fast reader
-BuffName_伙伴特征势如破竹,Unrelenting attack
+BuffName_伙伴特征去伪存真,Verification,พิสูจน์ความจริง
+BuffName_伙伴特征一目十行,Fast reader,อ่านอย่างรวดเร็ว
+BuffName_伙伴特征势如破竹,Unrelenting attack,พลังล้นหลาม
 BuffName_伙伴特征荒蛮狼性,Wild instinct,สัญชาตญาณสัตว์ป่า
 BuffName_伙伴特征燕军元帅,Yan Army commander,ผู้บัญชาการกองทัพหยาน
-BuffName_伙伴特征燕军元帅_光环,Encouraged
+BuffName_伙伴特征燕军元帅_光环,Encouraged,ได้รับกำลังใจ
 BuffName_伙伴特征扇里藏针,Hidden needle,เข็มลับ
 BuffName_伙伴特征聚沙成塔,Power of unity,พลังแห่งความสามัคคี
-BuffName_伙伴特征力破千钧,Heroic vigor
-BuffName_伙伴特征一触即发,Nerve-racking
+BuffName_伙伴特征力破千钧,Heroic vigor,พลังวีรชน
+BuffName_伙伴特征一触即发,Nerve-racking,ประสาทหงุดหงิด
 BuffName_伙伴特征天煞孤星,Lone wanderer,พเนจร​เดียวดาย
-BuffName_伙伴特征催心夺魄,Soul attacker
+BuffName_伙伴特征催心夺魄,Soul attacker,ผู้โจมตีวิญญาณ
 BuffName_伙伴特征罡气护体,Protective Qi,ปราณคุ้มกาย
 BuffName_伙伴特征追命阎罗,Death master,ปรมาจารย์แห่งความตาย
-BuffName_伙伴特征移花接木,Spirit transfer
-BuffName_伙伴特征宠妹狂人,Sister complex
-BuffName_伙伴特征生无可恋,Suicidal rage
-BuffName_伙伴特征生无可恋_附属2,Suicidal rage
+BuffName_伙伴特征移花接木,Spirit transfer,รับสินบน
+BuffName_伙伴特征宠妹狂人,Sister complex,คลั่งรักน้องสาว
+BuffName_伙伴特征生无可恋,Suicidal rage,ชีวิตไร้รัก
+BuffName_伙伴特征生无可恋_附属2,Suicidal rage,ชีวิตไร้รัก
 BuffName_伙伴特征书狂画痴,Art lover,ชื่นชมศิลปะ
 BuffName_伙伴特征银钩铁画,Pen of steel,พู่กันโลหะ
 BuffName_伙伴特征画痴书狂,Book lover,หนอนหนังสือ
-BuffName_伙伴特征妙笔生花,Colorful pen
+BuffName_伙伴特征妙笔生花,Colorful pen,เขียนราวนางฟ้า
 BuffName_伙伴特征天生媚骨,Born charming,ทรงเสน่ห์แต่กำเนิด
 BuffName_伙伴特征天生媚骨_附属1,Charm,ลุ่มหลง
-BuffName_伙伴特征怜香惜玉,Cherish beauty
-BuffName_伙伴特征裙下之臣,Servant under the skirt
-BuffName_伙伴特征裙下之臣_光环附属1,Servant under the skirt
+BuffName_伙伴特征怜香惜玉,Cherish beauty,หวงแหนความงาม
+BuffName_伙伴特征裙下之臣,Servant under the skirt,รับใช้ใต้กระโปรง
+BuffName_伙伴特征裙下之臣_光环附属1,Servant under the skirt,รับใช้ใต้กระโปรง
 BuffName_伙伴特征不让须眉,Brave and fearless,กล้าหาญและไม่เกรงกลัว
 BuffName_伙伴特征厚积薄发,Accumulate slowly and strike swiftly,สะสมพลังเชื่องช้าจู่โจมว่องไว
 BuffName_伙伴特征血战不退,Fight to the death,สู้จนเลือดหยดสุดท้าย
@@ -2799,25 +2799,25 @@ BuffName_伙伴特征品萧弄笛,Play the flute,เป่าขลุ่ย
 BuffName_伙伴特征风情万种,Full of charm,เสน่ห์เหลือร้าย
 BuffName_伙伴特征风情万种_光环附属1,Full of charm,เสน่ห์เหลือร้าย - ออร่า
 BuffName_伙伴特征生财有道,Know how to make money,รู้วิธีหาเงิน
-BuffName_伙伴特征燕国郡主,Lady of Yan Kingdom
-BuffName_伙伴特征杀伐果决,Decisive in killing
+BuffName_伙伴特征燕国郡主,Lady of Yan Kingdom,องค์หญิงแห่งแคว้นหยาน
+BuffName_伙伴特征杀伐果决,Decisive in killing,สังหารเด็ดขาด
 BuffName_伙伴特征杀敌立威,Gain reputation through killing enemies,สร้างชื่อจากการสังหารศัตรู
-BuffName_伙伴特征窈窕淑女,Gentle and graceful lady
-BuffName_伙伴特征窈窕淑女_光环附属1,Gentle and graceful lady
-BuffName_伙伴特征花中魁首,Leader among flowers
-BuffName_伙伴特征断情绝欲,Cut off all desires
+BuffName_伙伴特征窈窕淑女,Gentle and graceful lady,สุภาพสตรีของข้า
+BuffName_伙伴特征窈窕淑女_光环附属1,Gentle and graceful lady,สุภาพสตรีของข้า
+BuffName_伙伴特征花中魁首,Leader among flowers,ผู้นำบุปผา
+BuffName_伙伴特征断情绝欲,Cut off all desires,อกหัก
 BuffName_伙伴特征天籁妙音,Heavenly music,บทเพลงแห่งสวรรค์
-BuffName_伙伴特征此恨绵绵,Endless regret
-BuffName_伙伴特征绝代风华,Peerless Elegance
+BuffName_伙伴特征此恨绵绵,Endless regret,เกลียดชังไร้สิ้นสุด
+BuffName_伙伴特征绝代风华,Peerless Elegance,งามไร้ผู้เปรียบ
 BuffName_伙伴特征听声辩位,Identify location by sound,ใช้เสียงระบุตำแหน่ง
 BuffName_伙伴特征以小博大,Achieve big with small,ใช้น้อยชนะมาก
 BuffName_伙伴特征输赢天定,"Win or lose, it's fate",แพ้ชนะ ล้วนเป็นชะตากำหนด
-BuffName_伙伴特征九黎之主,Lord of Jiuli
-BuffName_伙伴特征养蛊为患,Raising gu causes trouble
+BuffName_伙伴特征九黎之主,Lord of Jiuli,เจ้าแห่งจิ่วลี่
+BuffName_伙伴特征养蛊为患,Raising gu causes trouble,พิษเจ้าปัญหา
 BuffName_伙伴特征精研毒术,Deep study of Toxicology,ศึกษาศาสตร์พิษอย่างลึกซึ้ง
 BuffName_伙伴特征酒酣尽兴,Enjoying the wine,เสพสุขสุรา
-BuffName_伙伴特征战意盎然,Spirit is abundant
-BuffName_伙伴特征古之恶来,Evil comes from the ancient times
+BuffName_伙伴特征战意盎然,Spirit is abundant,เต็มไปด้วยพลังใจ
+BuffName_伙伴特征古之恶来,Evil comes from the ancient times,ปีศาจจากอดีต
 BuffName_伙伴特征目盲耳聪,"Blind in sight, sharp in hearing",ดวงเนตรมืดบอด แต่มีหูปราดเปรียว
 BuffName_劫后余生_附属,Recover 10% HP and MP,ฟื้นฟู HP และ MP 10%
 BuffName_撕咬,Bite,กัด
@@ -2870,17 +2870,17 @@ BuffName_经行腹痛,Stomachache,ปวดท้อง
 BuffName_经行腹痛_附属,Abdominal Pain,เจ็บหน้าท้อง
 BuffName_丁家血蛊,Ding family blood worm,หนอนโลหิตตระกูลติง
 BuffName_丁家姑爷,Ding family's son in law,บุตรเขยตระกูลติง
-BuffName_废除内力,Energy lost
-BuffName_神采奕奕,Good spirits
+BuffName_废除内力,Energy lost,สูญเสียพลัง
+BuffName_神采奕奕,Good spirits,กำลังใจดี
 BuffName_皇室驸马,Royal son in law,ราชบุตรเขย
-BuffName_蚀心穿肠,Heart eater
+BuffName_蚀心穿肠,Heart eater,กินหัวใจเจาะลำไส้
 BuffName_养兵千日1,Trained army,กองทัพผ่านการฝึก
 BuffName_养兵千日2,Trained army,กองทัพผ่านการฝึก
 BuffName_养兵千日3,Trained army,กองทัพผ่านการฝึก
 BuffName_养兵千日4,Trained army,กองทัพผ่านการฝึก
 BuffName_养兵千日5,Trained army,กองทัพผ่านการฝึก
 BuffName_军纪涣散,Morale lost,เสียขวัญ
-BuffName_琳琅棋局1,Coming late
+BuffName_琳琅棋局1,Coming late,มาช้า
 BuffName_琳琅棋局2,Selfless,เสียสละ
 BuffName_琳琅棋局3,Flanked,ขนาบข้าง
 BuffName_逆血行气,Blood reversal,โลหิตย้อนกลับ
@@ -2890,7 +2890,7 @@ BuffName_他人期许,Bearing hopes,แบกความหวัง
 BuffName_护佑少主,Protect little master,ปกป้องนายน้อย
 BuffName_私家小厨,Little housewife,แม่บ้านตัวน้อย
 BuffName_新仇旧恨,Vendetta,ความอาฆาต
-BuffName_情之守护,Protection of love
+BuffName_情之守护,Protection of love,ผู้พิทักษ์ความรัก
 BuffName_创伤未愈,Unhealed wound,แผลยังไม่หายดี
 BuffName_苦尽甘来,Overcoming hardship,ก้าวผ่านความยากลำบาก
 BuffName_鸡飞蛋打,Broken eggs,ทลายกล่องดวงใจ
@@ -2898,24 +2898,24 @@ BuffName_吃饱睡好,Well rest,นอนเต็มอิ่ม
 BuffName_昏睡脱力,Passed out,สลบ
 BuffName_琅琊铁匠,Langya blacksmith,ช่างตีเหล็กหลางหยา
 BuffName_琅琊铁匠_附属1,Langya blacksmith,ช่างตีเหล็กหลางหยา
-BuffName_雄鸡之威,Rooster pride
+BuffName_雄鸡之威,Rooster pride,พลังของไก่
 BuffName_秀才身份,Scholar,บัณฑิต
-BuffName_举人身份,Graduate
+BuffName_举人身份,Graduate,บัณฑิต
 BuffName_乡试解元,Provincial Top Examiner,สูงสุดของการสอบภูมิภาค
 BuffName_会试会元,Country Top Examiner,สูงสุดของการสอบประเทศ
 BuffName_虚弱脱力,Weakened,อ่อนแอ
-BuffName_善心未泯,Heart of benevolent
+BuffName_善心未泯,Heart of benevolent,ใจศีลธรรม
 BuffName_贡士身份,Recognized Scholar,ปราชญ์ที่ได้รับการยอมรับ.
 BuffName_牙尖嘴利,Sharp tongue,วาจาเราะร้าย
 BuffName_牙尖嘴利_附属1,Sharp tongue,วาจาเราะร้าย
-BuffName_生机勃发,Vibrant
+BuffName_生机勃发,Vibrant,มีชีวิตชีวา
 BuffName_老态龙钟,Old age,ชรา
 BuffName_病疾缠身,Sickly,ขี้โรค
 BuffName_死如灯灭,Close to the grave,ใกล้ตาย
-BuffName_本草秘术,Secret of plants
-BuffName_心思通明,Studious
+BuffName_本草秘术,Secret of plants,ความลับพฤกษา
+BuffName_心思通明,Studious,เอาใจใส่
 BuffName_软筋散之毒,Enfeeble pill Poison,โอสถพิษไร้พลัง
-BuffName_舍生取义,Righteous offering
+BuffName_舍生取义,Righteous offering,เสียสละเพื่อคุณธรรม
 BuffName_家传技艺,Inherited skill,ทักษะสืบทอด
 BuffName_家传技艺_附属1,Inherited skill,ทักษะสืบทอด
 BuffName_探囊取物,Pickpocket,ล้วงกระเป๋า
@@ -3002,7 +3002,7 @@ BuffName_相濡以沫,A Friend In Need,ช่วยเหลือซึ่ง�
 BuffName_海角天涯,Faraway Place,สุดขอบโลก
 BuffName_白首相随,Accompanied by Bai Shou,ร่วมมือกับไป๋เฉียว
 BuffName_龙凤呈祥,Dragon and Phoenix Auspicious,หงส์คู่มังกร
-BuffName_其利断金,Pull Together
+BuffName_其利断金,Pull Together,สองคนหนึ่งใจ
 BuffName_暗香浮动,Fragrant Assault,บุปผาหอมโชย
 BuffName_凤舞九天,Phoenix Dance Heavens,รำวิหคเพลิงสวรรค์
 BuffName_暖胃舒心,Warm and comfort,อบอุ่น และสุขสบาย
@@ -3020,13 +3020,13 @@ BuffName_我为君狂,Madly in love,คลั่งรัก
 BuffName_闻声天籁,Heavenly melody,ทำนองสวรรค์
 BuffName_共生血蛊,Symbiotic blood worm,หนอนโลหิตแฝงร่าง
 BuffName_怡情悦性,Pleasant and cheerful,ร่าเริงเพลิดเพลินใจ
-BuffName_情窦暗开,Pure heart and universal kindness
+BuffName_情窦暗开,Pure heart and universal kindness,รักถูกเปิดเผย
 BuffName_鸾凤合鸣,Phoenix in harmony,วิหคเพลิงประสาน
 BuffName_冲怒一冠,Mad charge,พุ่งชนอย่างบ้าบิ่น
-BuffName_痛不欲生,Desperated
+BuffName_痛不欲生,Desperated,สิ้นหวัง
 BuffName_肝肠寸断,Broken heart,ใจสลาย
 BuffName_黯然销魂,Demoralized,เสียขวัญ
-BuffName_生无可恋,Suicidal rage
+BuffName_生无可恋,Suicidal rage,ชีวิตไร้รัก
 BuffName_悲伤欲绝,Painful tears,หลั่งน้ำตาอย่างเจ็บปวด
 BuffName_庖丁解牛法buff1_附属,Disable armor,ปลดชุดเกราะ
 BuffName_太极剑法buff1_附属,Internal break,กำลังภายในติดขัด
@@ -3113,13 +3113,13 @@ BuffName_绝招菩提金身,Buddha Golden Body,กายาพุทธะทอ
 BuffName_酥筋化骨香buff1_附属1,Muscle Relaxant Incense,หอมทำลายกระดูก
 BuffName_酥筋化骨香buff1_附属2,Muscle Relaxant Incense,หอมทำลายกระดูก
 BuffName_天地无极buff1_附属2,Infinity World,ฟ้าดินไร้ประมาณ
-BuffName_绝招罢黜百家_附属,Only One School
+BuffName_绝招罢黜百家_附属,Only One School,ขับไล่ร้อยสำนัก
 BuffName_绝招搜山检海,Leave No Stone Untouched,ลองหมดทุกหนทาง
 BuffName_否极泰来buff1_附属1,Overcoming Hardship,ก้าวผ่านความยากลำบาก
 BuffName_六字大明咒buff1_附属1,Six Character Charm,มนตร์หกพยางค์
 BuffName_六字大明咒buff1_附属2,Six Character Charm,มนตร์หกพยางค์
-BuffName_天籁魔音buff1_附属1,Tianlai Magic Sound
-BuffName_天籁魔音buff1_附属2,Tianlai Magic Sound
+BuffName_天籁魔音buff1_附属1,Tianlai Magic Sound,เสียงมหัศจรรย์แห่งธรรมชาติ
+BuffName_天籁魔音buff1_附属2,Tianlai Magic Sound,เสียงมหัศจรรย์แห่งธรรมชาติ
 BuffInfo_绝招菩提金身,Get 1 time of being hit with No damage effect,ไม่ได้รับความเสียหายเมื่อถูกโจมตี 1 ครั้ง
 BuffInfo_酥筋化骨香buff1_附属1,"Action Speed -10%, Critical -5%, Parry -5%, Evasion -5%",ความเร็วท่าร่าง -10% คริติคอล -5% ปัดป้อง -5% หลบหลีก -5%
 BuffInfo_酥筋化骨香buff1_附属2,"Action Speed -20%, Critical -10%, Parry -10%, Evasion -10%",ความเร็วท่าร่าง -20% คริติคอล -10% ปัดป้อง -10% หลบหลีก -10%
@@ -3477,43 +3477,43 @@ BuffInfo_霹雳弹,Pierce enemy's armor properties and effects when attacked,เ
 BuffInfo_玉毫针,"25% chance to inflict <#FE2929>Disable technique</color> effect on the enemy when attacked, lasts until the enemy's next action",มีโอกาส 25% ที่จะสร้างเอฟเฟกต์ <#FE2929>ทำลายวิชา</color> ต่อศัตรูเมื่อถูกโจมตี คงอยู่จนกระทั่งการกระทำครั้งต่อไปของศัตรู
 BuffInfo_霹雳雷火弹,"Inflict <#FE2929>Disarm</color> and <#FE2929>Disable armor</color> effects on the enemy when attacked, lasts until the enemy's next action",สร้างสถานะ <#FE2929>ปลดอาวุธ</color> และ <#FE2929>ปลดชุดเกราะ</color> แก่ศัตรูเมื่อถูกโจมตี คงอยู่จนกระทั่งการกระทำถัดไปของศัตรู
 BuffInfo_暴雨梨花钉,"Reduce enemy's <#FE2929>250 points of Qi</color> and <#FE2929>10% of maximum HP</color> when attacked, up to 3000 points",ลด <#FE2929>ค่าปราณเคลื่อนที่ 250 แต้ม</color> ของศัตรูและ <#FE2929>10% ของ HP สูงสุด</color> เมื่อถูกโจมตี สูงสุด 3000 แต้ม
-BuffInfo_迷魂烟,"Inflict <#FE2929>Unconscious</color> effect on the enemy when attacked, lasts until the enemy's next action"
-BuffInfo_蚀筋化骨水,Reduce enemy's <#FE2929>10% of maximum MP</color>; enemy's next attack <#FE2929>final damage decreases by 35%</color> when attacked
-BuffInfo_夺命十三香,"Inflict <#FE2929>50 points of Poisoned, 50 points of Bleeding, 50 points of Internal Injury, 50 points of Blinded</color> on the enemy when attacked"
+BuffInfo_迷魂烟,"Inflict <#FE2929>Unconscious</color> effect on the enemy when attacked, lasts until the enemy's next action",สร้างสถานะ <#FE2929>หมดสติ</color> แก่ศัตรูเมื่อถูกโจมตี คงอยู่ถึงการกระทำครั้งต่อไปของศัตรู
+BuffInfo_蚀筋化骨水,Reduce enemy's <#FE2929>10% of maximum MP</color>; enemy's next attack <#FE2929>final damage decreases by 35%</color> when attacked,ลด <#FE2929>10% ของ MP สูงสุด</color> ของศัตรู; การโจมตีครั้งต่อไปของศัตรู <#FE2929>ความเสียหายสุดท้ายลดลง 35%</color> เมื่อถูกโจมตี
+BuffInfo_夺命十三香,"Inflict <#FE2929>50 points of Poisoned, 50 points of Bleeding, 50 points of Internal Injury, 50 points of Blinded</color> on the enemy when attacked","เมื่อถูกโจมตีจะทำให้ศัตรู <#FE2929>ติดพิษ 50 แต้ม, เลือดไหล 50 แต้ม, บาดเจ็บภายใน 50 แต้ม, ตาบอด 50 แต้ม</color>"
 BuffInfo_内功_怒潮心法,"After entering battle, Critical increases by 10%, Combo increases by 5%, after triggering Critical, Critical Increases Damage by 25%","หลังเข้าสู่การต่อสู้, คริติคอลเพิ่มขึ้น 10% โจมตีต่อเนื่องเพิ่มขึ้น 5%, หลังจากเกิดคริติคอล เพิ่มความเสียหายคริติคอล 25%"
 BuffInfo_内功_醉仙诀,"In ""Completely drunk"" state, if the enemy triggers Evasion or Parry when attacked, this attack will definitely Combo","ในสถานะ ""เมามาย"" หากศัตรูเกิด หลบหลีก หรือ ปัดป้อง เมื่อถูกโจมตี การโจมตีนี้จะโจมตีต่อเนื่องแน่นอน"
 BuffInfo_内功_驭人心经,"After entering battle, all human characters on your side except yourself <#29F161>Attack increases by 10%, Defense increases by 10%, Action Speed increases by 35 points</color>",หลังเข้าสู่การต่อสู้ ตัวละครที่เป็นมนุษย์ทั้งหมดจะอยู่เคียงข้างคุณ ยกเว้นตัวคุณเอง <#29F161>โจมตีเพิ่มขึ้น 10% ป้องกันเพิ่มขึ้น 10% ความเร็วท่าร่างเพิ่มขึ้น 35 แต้ม</color>
 BuffInfo_内功_驭人心经_光环_附属,"<#29F161>Attack increases by 10%, Defense increases by 10%, Action Speed increases by 35 points</color>",<#29F161>โจมตีเพิ่มขึ้น 10% ป้องกันเพิ่มขึ้น 10% ความเร็วท่าร่างเพิ่มขึ้น 35 แต้ม</color>
-BuffInfo_内功_烈阳焚天诀,"A Critical is guaranteed to Combo when attacking, and a Parry is guaranteed to Counter when attacked."
+BuffInfo_内功_烈阳焚天诀,"A Critical is guaranteed to Combo when attacking, and a Parry is guaranteed to Counter when attacked.","เมื่อโจมตีเกิดคริติคอลจะโจมตีต่อเนื่องแน่นอน, และเมื่อถูกโจมตีเกิดปัดป้องจะสวนกลับอย่างแน่นอน"
 BuffInfo_内功_九幽寒霜气,"Within a range of 3 squares of oneself, the enemy's Action Speed is reduced by 25%; among them, the main internal force is the enemy with positive attributes, Attack is additionally reduced by 15%, the main internal force is the enemy with negative attributes, Defense is additionally reduced by 15%, and the main internal force is the enemy with balanced attributes, Attack and Defense are additionally reduced by 10%.","ภายในระยะ 3 ช่องของตัวเอง, ความเร็วท่าร่างลดลง 25%,ในหมู่ศัตรู เมื่อกำลังภายในหลักของศัตรูเป็นหยาง พลังโจมตีจะลดลง 15%, เมื่อกำลังภายในหลักของศัตรูเป็นหยิน พลังป้องกันจะลดลง 15%, เมื่อกำลังภายในหลักของศัตรูเป็นกลาง พลังโจมตีและพลังป้องกันลดลงอีก 10%"
 BuffInfo_内功_九幽寒霜气_光环,"Action Speed is reduced by 25%, when the main internal force is positive, Attack is additionally reduced by 15%, when the main internal force is negative, Defense is additionally reduced by 15%, when the main internal force is balanced, Attack and Defense are additionally reduced by 10%.","ความเร็วท่าร่างลดลง 25%, เมื่อกำลังภายในหลักเป็นหยาง พลังโจมตีจะลดลง 15%, เมื่อกำลังภายในหลักเป็นหยิน พลังป้องกันจะลดลง 15%, เมื่อกำลังภายในหลักเป็นกลาง พลังโจมตีและ พลังป้องกันลดลงอีก 10%"
 BuffInfo_倒转乾坤,"Can learn the ultimate move ""<#d09a09>Full Reversal</color>"", the Book will be destroyed after use.","สามารถเรียนรู้ท่าไม้ตายขั้นสุดยอด ""<#d09a09>พลังเคลื่อนย้ายจักรวาล</color>"" หนังสือจะถูกทำลายหลังการใช้"
 BuffInfo_九流归一,"Can learn the ultimate move ""<#d09a09>Nine Flow Unification</color>"", the Book will be destroyed after use.","สามารถเรียนรู้ท่าไม้ตายขั้นสุดยอด ""<#d09a09>เก้าสายรวมเป็นหนึ่ง</color>"" หนังสือจะถูกทำลายหลังการใช้"
 BuffInfo_道法自然,"<#29F161>Action Speed increases by 15%</color>, when using external Attack, <#29F161>guaranteed Combo</color>, and Attack <#29F161>Pierces enemy armor attributes and effects</color>.",<#29F161>ความเร็วท่าร่างเพิ่มขึ้น 15%</color> เมื่อใช้วรยุทธภายนอกโจมตี <#29F161>โจมตีต่อเนื่องแน่นอน</color> และการโจมตี <#29F161>เจาะทะลุคุณสมบัติและประสิทธิภาพชุดเกราะของศัตรู</color>
 BuffInfo_气血充盈,The HP value effect affected by Constitution increases by 100%.,ประสิทธิภาพค่า HP ที่ได้รับผลจากพลังกายเพิ่มขึ้น 100%
-BuffInfo_特邀嘉宾,"A very special identity, with this identity, you can directly enter the easter egg scene after Nameless cave is Open."
+BuffInfo_特邀嘉宾,"A very special identity, with this identity, you can directly enter the easter egg scene after Nameless cave is Open.",เอกลักษณ์ตัวตนที่พิเศษมาก ด้วยเอกลักษณ์ตัวตนนี้ คุณสามารถเข้าสู่ฉากลับได้โดยตรงหลังจากถ้ำนิรนามเปิดแล้ว
 BuffInfo_剧情道法自然,"<#29F161>Action Speed increases by 15%</color>, when using external Attack, <#29F161>guaranteed Combo</color>, and Attack <#29F161>Pierces enemy armor attributes and effects</color>.",<#29F161>ความเร็วท่าร่างเพิ่มขึ้น 15%</color> เมื่อใช้วรยุทธภายนอกโจมตี <#29F161>โจมตีต่อเนื่องแน่นอน</color> และการโจมตี <#29F161>เจาะทะลุคุณสมบัติและประสิทธิภาพชุดเกราะของศัตรู</color>
 BuffInfo_剧情气血充盈,The HP value effect affected by Constitution increases by 100%.,ประสิทธิภาพค่า HP ที่ได้รับผลจากพลังกายเพิ่มขึ้น 100%
-BuffInfo_剧情财运亨通,"An extra 10% of money will be gained from any source; 1% of the enemy's money will be stolen each time you AttackAccuracy them, with a maximum of 250 per target each time; for every 1000 money, Attack power increases by 0.1%, up to a maximum of 20%."
-BuffInfo_剧情雨露均沾,"For each additional female in the team, the self gains <#29F161>25% more EXP</color>; each bonded female in the team can gain a fifth of the protagonist's five attributes."
-BuffInfo_剧情特邀嘉宾,"A very special identity, with this identity, you can directly enter the easter egg scene after Nameless cave is Open."
-BuffInfo_伙伴特征忍辱负重,"The higher the value of Poisoned, Bleeding, Internal Injury you receive, the higher the damage. For every 1 point of Attack received, <#29F161>the final Damage increases by 0.35%</color>."
-BuffInfo_伙伴特征百折不挠,"Each time you are attacked, you receive a Critical, your Action Speed increases by 15 points, lasting until the next action; when the enemy triggers Evasion or Parry when attacking, your Action Speed increases by 20 points, lasting until the next action."
-BuffInfo_伙伴特征不忘初心,"Invincible to Finishing Strike, Recovery 100% HP, effective once per battle."
-BuffInfo_伙伴特征洞悉弱点,"<#29F161>Critical increases by 20%</color>, when triggering Critical, <#29F161>Critical Damage increases by 50%</color>."
-BuffInfo_伙伴特征深藏不露,"When HP is below 50%, <#29F161>final damage increases by 30%</color>, damage taken when attacked <#29F161>reduces by 50%</color>, <#29F161>effects of Poisoned, Internal Injury, Bleeding, Blinded, Sealed are reduced by 50%</color>, <#29F161>action speed increases by 30%</color>."
-BuffInfo_伙伴特征武士精神,"When attacking, if there is only one enemy, the enemy's damage increases by 100%. If there are multiple enemies, each enemy shares an additional 100% damage."
+BuffInfo_剧情财运亨通,"An extra 10% of money will be gained from any source; 1% of the enemy's money will be stolen each time you AttackAccuracy them, with a maximum of 250 per target each time; for every 1000 money, Attack power increases by 0.1%, up to a maximum of 20%.","จะได้รับเงินพิเศษ 10% เพิ่มจากทุกแหล่ง: เงินของศัตรู 1% จะถูกขโมยทุกครั้งที่โจมตีโดน สูงสุด 250 ต่อเป้าหมายในแต่ละครั้ง; ทุกๆ 1,000 อีแปะ พลังโจมตีจะเพิ่มขึ้น 0.1% สูงสุด 20%"
+BuffInfo_剧情雨露均沾,"For each additional female in the team, the self gains <#29F161>25% more EXP</color>; each bonded female in the team can gain a fifth of the protagonist's five attributes.","สำหรับพรรคพวกตัวละครหญิงที่เพิ่มเข้าทีมมาแต่ละคน, ตนเองจะได้รับ <#29F161>ค่าประสบการณ์เพิ่มขึ้น 25%</color>; สำหรับพรรคพวกตัวละครหญิงที่""ผูกสัมพันธ์""แต่ละคนในทีมจะได้รับหนึ่งในห้าของคุณลักษณะทั้งห้าของตัวเอก"
+BuffInfo_剧情特邀嘉宾,"A very special identity, with this identity, you can directly enter the easter egg scene after Nameless cave is Open.",เอกลักษณ์ตัวตนที่พิเศษมาก ด้วยเอกลักษณ์ตัวตนนี้ คุณสามารถเข้าสู่ฉากลับได้โดยตรงหลังจากถ้ำนิรนามเปิดแล้ว
+BuffInfo_伙伴特征忍辱负重,"The higher the value of Poisoned, Bleeding, Internal Injury you receive, the higher the damage. For every 1 point of Attack received, <#29F161>the final Damage increases by 0.35%</color>.",ยิ่งคุณได้รับพิษ เลือดไหล บาดเจ็บภายในมากเท่าไร ความเสียหายก็จะยิ่งสูงขึ้นมากเท่านั้น ทุกๆ 1 แต้มของการโจมตีที่ได้รับ <#29F161>ความเสียหายสุดท้ายจะเพิ่มขึ้น 0.35%</color>
+BuffInfo_伙伴特征百折不挠,"Each time you are attacked, you receive a Critical, your Action Speed increases by 15 points, lasting until the next action; when the enemy triggers Evasion or Parry when attacking, your Action Speed increases by 20 points, lasting until the next action.","แต่ละครั้งที่คุณถูกโจมตี คุณจะได้รับคริติคอล ความเร็วท่าร่างเพิ่มขึ้น 15 แต้ม และคงอยู่จนถึงการกระทำถัดไป, เมื่อศัตรูเรียกใช้การหลบหลีกหรือปัดป้องเมื่อโจมตี ความเร็วท่าร่างของคุณจะเพิ่มขึ้น 20 แต้ม และคงอยู่จนถึงการกระทำครั้งต่อไป"
+BuffInfo_伙伴特征不忘初心,"Invincible to Finishing Strike, Recovery 100% HP, effective once per battle.","อยู่ยงคงกระพันเมื่อถูกโจมตีถึงตาย, ฟื้นฟูพลังชีวิต 100% ใช้ได้หนึ่งครั้งต่อการต่อสู้"
+BuffInfo_伙伴特征洞悉弱点,"<#29F161>Critical increases by 20%</color>, when triggering Critical, <#29F161>Critical Damage increases by 50%</color>.",<#29F161>คริติคอลเพิ่มขึ้น 20%</color> เมื่อทำให้เกิดคริติคอล <#29F161>ความเสียหายคริติคอลเพิ่มขึ้น 50%</color>
+BuffInfo_伙伴特征深藏不露,"When HP is below 50%, <#29F161>final damage increases by 30%</color>, damage taken when attacked <#29F161>reduces by 50%</color>, <#29F161>effects of Poisoned, Internal Injury, Bleeding, Blinded, Sealed are reduced by 50%</color>, <#29F161>action speed increases by 30%</color>.",เมื่อ HP ต่ำกว่า 50% <#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น 30%</color> ความเสียหายที่ได้รับเมื่อถูกโจมตี <#29F161>ลดลง 50%</color> <#29F161>ผลกระทบของพิษ บาดเจ็บภายใน เลือดไหล ตาบอด สกัดจุด ลดลง 50%</color> <#29F161>ความเร็วท่าร่างเพิ่มขึ้น 30%</color>
+BuffInfo_伙伴特征武士精神,"When attacking, if there is only one enemy, the enemy's damage increases by 100%. If there are multiple enemies, each enemy shares an additional 100% damage.","เมื่อโจมตี, หากมีศัตรูเพียงคนเดียว ความเสียหายของศัตรูจะเพิ่มขึ้น 100% หากมีศัตรูหลายตัว ศัตรูแต่ละตัวจะได้รับความเสียหายร่วมกันเพิ่มเติม 100%"
 BuffInfo_伙伴特征以攻代守,"When own HP is above 50%, Parry and Evasion are converted into Counter probability at a 1:1 ratio.","เมื่อ HP ของตัวเองมากกว่า 50%, การปัดป้องและการหลบหลีกจะถูกแปลงเป็นการสวนกลับในอัตราส่วน 1:1"
-BuffInfo_伙伴特征蚍蜉城主,"After entering battle, characters from Dragonfly City <#29F161>increase damage by 25% when attacking, reduce damage taken by 20% when attacked, and increase action speed by 15%</color>."
-BuffInfo_伙伴特征蚍蜉城主_光环,"<#29F161>Damage increases by 25% when attacking, damage taken reduces by 20% when attacked, action speed increases by 15%</color>."
+BuffInfo_伙伴特征蚍蜉城主,"After entering battle, characters from Dragonfly City <#29F161>increase damage by 25% when attacking, reduce damage taken by 20% when attacked, and increase action speed by 15%</color>.",หลังจากเข้าสู่การต่อสู้ ตัวละครจากเมืองแมลงปอ <#29F161>เพิ่มความเสียหาย 25% เมื่อโจมตี ลดความเสียหายที่ได้รับ 20% เมื่อถูกโจมตี และเพิ่มความเร็วท่าร่าง 15%</color>
+BuffInfo_伙伴特征蚍蜉城主_光环,"<#29F161>Damage increases by 25% when attacking, damage taken reduces by 20% when attacked, action speed increases by 15%</color>.",<#29F161>ความเสียหายเพิ่มขึ้น 25% เมื่อโจมตี ความเสียหายที่ได้รับลดลง 20% เมื่อถูกโจมตี ความเร็วท่าร่างเพิ่มขึ้น 15%</color>
 BuffInfo_伙伴特征以战养战,"During battle, for each enemy killed, you can recover 10% of your maximum HP.",ระหว่างการต่อสู้ ทุกครั้งที่สังหารศัตรู จะฟื้นฟู HP 10% ของ HP สูงสุด
-BuffInfo_伙伴特征形如鬼魅,<#29F161>Action speed increases by 20%</color>.
-BuffInfo_伙伴特征不择手段,"When attacking, inflict <#FE2929>10 points of Bleeding, 10 points of Poisoned</color> on the enemy."
-BuffInfo_伙伴特征斩草除根,"When attacking, a critical hit will definitely trigger a combo."
-BuffInfo_伙伴特征好战嗜杀,"When attacking, for each additional point of Spirit, <#29F161>final damage increases by 0.3%</color>."
-BuffInfo_伙伴特征玉手芊芊,"When attacking, inflict <#FE2929>10 points of Internal Injury, 10 points of Sealed</color> on the enemy."
-BuffInfo_伙伴特征摇曳多姿,"When attacked, trigger Evasion, gain an additional 10 points of Spirit, and increase energy by 100 points."
-BuffInfo_伙伴特征咫尺天涯,"When attacked, for every square the enemy is away from you, your <#29F161>Evasion temporarily increases by 10%</color>."
+BuffInfo_伙伴特征形如鬼魅,<#29F161>Action speed increases by 20%</color>.,<#29F161>ความเร็วท่าร่างเพิ่มขึ้น 20</color>
+BuffInfo_伙伴特征不择手段,"When attacking, inflict <#FE2929>10 points of Bleeding, 10 points of Poisoned</color> on the enemy.",เมื่อโจมตี ทำให้ศัตรูได้รับ <#FE2929>เลือดไหล 10 แต้ม และพิษ 10 แต้ม</color>
+BuffInfo_伙伴特征斩草除根,"When attacking, a critical hit will definitely trigger a combo.",เมื่อโจมตี การโจมตีคริติคอลจะโจมตีต่อเนื่องแน่นอน
+BuffInfo_伙伴特征好战嗜杀,"When attacking, for each additional point of Spirit, <#29F161>final damage increases by 0.3%</color>.",เมื่อโจมตี สำหรับแต่ละแต้มของพลังใจที่เพิ่มขึ้น <#29F161>ความเสียหายสุดท้ายจะเพิ่มขึ้น 0.3%</color>
+BuffInfo_伙伴特征玉手芊芊,"When attacking, inflict <#FE2929>10 points of Internal Injury, 10 points of Sealed</color> on the enemy.","เมื่อโจมตี, สร้างสถานะ <#FE2929>บาดเจ็บภายใน 10 แต้ม และสกัดจุด 10 แต้ม</color> แก่ศัตรู"
+BuffInfo_伙伴特征摇曳多姿,"When attacked, trigger Evasion, gain an additional 10 points of Spirit, and increase energy by 100 points.",เมื่อถูกโจมตี เรียกใช้การหลบหลีก จะได้รับค่าพลังใจเพิ่มอีก 10 แต้ม และได้รับค่าปราณเคลื่อนที่ 100 แต้ม
+BuffInfo_伙伴特征咫尺天涯,"When attacked, for every square the enemy is away from you, your <#29F161>Evasion temporarily increases by 10%</color>.","เมื่อถูกโจมตี, ในทุกๆ ช่องของศัตรูจะอยู่ห่างจากคุณ <#29F161>การหลบหลีกของคุณจะเพิ่มขึ้น 10% ชั่วคราว</color>"
 BuffInfo_千钧之力,Basic Attack increased by 10%.,เพิ่มพลังโจมตีพื้นฐาน 10%
 BuffInfo_气旺血足,<#29F161>Base Defense increases by 10%</color>.,<#29F161>พลังป้องกันพื้นฐานเพิ่มขึ้น 10%</color>
 BuffInfo_颖悟绝伦,The growth efficiency of all Skills increased by 50%.,ประสิทธิภาพการเติบโตของวรยุทธทั้งหมดเพิ่มขึ้น 50%
@@ -3521,13 +3521,13 @@ BuffInfo_福至心灵,"Combo rate increased by 15%, Counter increased by 15%.","
 BuffInfo_翩若惊鸿,"Trigger Evasion when attacked, gain 150 points of Qi.","เมื่อหลบหลีกได้หลังถูกโจมตี, ได้รับค่าปราณเคลื่อนที่ 150 แต้ม"
 BuffInfo_彩绣香囊Buff1,<#29F161>Max MP increases by 10%</color>.,<#29F161>MP สูงสุดเพิ่มขึ้น 10%</color>
 BuffInfo_粗糙的护身符Buff1,<#29F161>Base Defense increases by 10%</color>.,<#29F161>พลังป้องกันพื้นฐานเพิ่มขึ้น 10%</color>
-BuffInfo_香包Buff1,<#29F161>Action Speed increases by 5 points</color>.
-BuffInfo_花环Buff1,"When equipped by a female, damage taken when attacked <#29F161>reduces by 5%</color>."
-BuffInfo_艾草束Buff1,Effects of being Poisoned <#29F161>weaken by 50%</color>.
-BuffInfo_狼牙吊坠Buff1,"When attacking, gain an additional <#29F161>5 points of Spirit</color>."
+BuffInfo_香包Buff1,<#29F161>Action Speed increases by 5 points</color>.,<#29F161>ความเร็วท่าร่างเพิ่มขึ้น 5</color>
+BuffInfo_花环Buff1,"When equipped by a female, damage taken when attacked <#29F161>reduces by 5%</color>.",เมื่อสวมใส่โดยตัวละครหญิง ความเสียหายที่ได้รับเมื่อถูกโจมตี <#29F161>ลดลง 5%</color>
+BuffInfo_艾草束Buff1,Effects of being Poisoned <#29F161>weaken by 50%</color>.,ผลของการถูกพิษ <#29F161>ลดลง 50%</color>
+BuffInfo_狼牙吊坠Buff1,"When attacking, gain an additional <#29F161>5 points of Spirit</color>.",เมื่อโจมตี ได้รับ <#29F161>5 พลังใจ</color> เพิ่มเติม
 BuffInfo_长命锁Buff1,<#29F161>Max HP increases by 10%</color>.,<#29F161>พลังชีวิตสูงสุดเพิ่มขึ้น 10%</color>
 BuffInfo_玉石吊坠Buff1,<#29F161>Gift effect increases by 15%</color>.,<#29F161>ของขวัญจะให้ผลเพิ่มขึ้น 15%</color>
-BuffInfo_小强Buff1,"Affected by Finishing StrikeInvincible, only 1 HP left, effective 10 times per battle.","ได้รับผลคงกระพันจากการจู่โจมถึงตาย, พลังชีวิตเหลือ 1 HP มีผล 10 ครั้งต่อการต่อสู้"
+BuffInfo_小强Buff1,"Affected by Finishing StrikeInvincible, only 1 HP left, effective 10 times per battle.","ได้รับผลอยู่ยงคงกระพันเมื่อถูกโจมตีถึงตาย, พลังชีวิตเหลือ 1 HP มีผล 10 ครั้งต่อการต่อสู้"
 BuffInfo_奇特的吊坠Buff1,The growth rate during Beast Taming <#29F161>increases by 100%</color>.,อัตราการเติบโตระหว่างการฝึกสัตว์ <#29F161>เพิ่มขึ้น 100%</color>
 BuffInfo_鹅之羽毛Buff1,The growth rate during Fishing <#29F161>increases by 100%</color>.,อัตราการเติบโตระหว่างการตกปลา <#29F161>เพิ่มขึ้น 100%</color>
 BuffInfo_无名手札Buff1,The <#29F161>EXP gained from killing opponents in battle increased by 50%</color>.,<#29F161>ค่าประสบการณ์ที่ได้จากการสังหารศัตรูในการต่อสู้เพิ่มขึ้น 50%</color>
@@ -3540,8 +3540,8 @@ BuffInfo_特别勋章Buff1,Summon a growth-type Ban Ping Shenxiancu to assist in
 BuffInfo_游戏掌机Buff1,"Mood remains full and will not decrease, final damage of Attack increases by 10%.",ค่าอารมณ์ยังคงเต็มและจะไม่ลดลง ความเสียหายสุดท้ายของการโจมตีเพิ่มขึ้น 10%
 BuffInfo_信用卡Buff1,"Allows for one overdraft of property in shops, auctions, and other places.",อนุญาตให้ซื้อเกินจำนวนเงินที่มีอยู่ในร้านค้า การประมูล และสถานที่อื่นๆ ได้หนึ่งครั้ง
 BuffInfo_招财猫Buff1,"When Attacked, each Coin owned can offset 2 points of damage.","เมื่อถูกโจมตี, เหรียญแต่ละเหรียญสามารถชดเชยความเสียหายได้ 2 แต้ม"
-BuffInfo_虎牙仔Buff1,"When attacked, if Parry is triggered and Counter conditions are met, this attack will definitely Counter, with MP Cost increasing by 100%."
-BuffInfo_真·虚日鼠兽环Buff2,<#29F161>Action speed increases by 20%</color>.,<#29F161>ความเร็วท่าร่างเพิ่มขึ้น 20%</color>
+BuffInfo_虎牙仔Buff1,"When attacked, if Parry is triggered and Counter conditions are met, this attack will definitely Counter, with MP Cost increasing by 100%.",เมื่อถูกโจมตีเกิดปัดป้องหากตรงตามเงื่อนไขการสวนกลับ การโจมตีนี้จะสวนกลับอย่างแน่นอน แต่ใช้ค่า MP เพิ่มขึ้น 100%
+BuffInfo_真·虚日鼠兽环Buff2,<#29F161>Action speed increases by 20%</color>.,<#29F161>ความเร็วท่าร่างเพิ่มขึ้น 20</color>
 BuffInfo_真·牛金牛兽环Buff2,<#29F161>Max HP increases by 15%</color>.,<#29F161>HP สูงสุด เพิ่มขึ้น 15%</color>
 BuffInfo_真·尾火虎兽环Buff2,<#29F161>Attack increases by 10%</color>.,<#29F161>พลังโจมตีเพิ่มขึ้น 10%</color>
 BuffInfo_真·房日兔兽环Buff2,<#29F161>Effectiveness of HP and MP Recovery increases by 100%</color>.,<#29F161>ประสิทธิภาพของการฟื้นฟู HP และ MP เพิ่มขึ้น 100%</color>
@@ -3558,27 +3558,27 @@ BuffInfo_暗器_破绽,Guaranteed to be Critically hit when Attacked.,เมื�
 BuffInfo_暗器_缴械,Weapon properties and effects are nullified.,คุณสมบัติและประสิทธิภาพของอาวุธไร้ผล
 BuffInfo_暗器_卸甲2,Armor falls off and cannot function.,ชุดเกราะที่สวมใส่หลุดร่วง ไม่สามารถใช้ความสามารถได้
 BuffInfo_暗器_封招,Unable to use martial arts and special moves.,ไม่อาจใช้วรยุทธ และท่าไม้ตาย
-BuffInfo_暗器_昏迷,"Unable to act, guaranteed to be Critically hit when Attacked."
-BuffInfo_世俗所累,"After joining the protagonist's team, it will have a negative impact on the protagonist: <#FE2929>Protagonist's Fame effect is reduced by 3 levels, Gift effect is reduced by 50%</color>."
-BuffInfo_世俗所累_附属,"Affected by Yan Rurui's joining, <#FE2929>Fame effect is reduced by 3 levels, Gift effect is reduced by 50%</color>."
-BuffInfo_催魂散之毒,"Enter the battle with 100 points of Poisoned, HP decreases by 50%."
-BuffInfo_得道高僧,"When Benevolence is above 0, <#29F161>each point increases Attack damage by 0.5%</color>; when Benevolence is below 0, <#FE2929>each point decreases Attack damage by 0.95%</color>."
-BuffInfo_修为尽失,"Five-dimensional aptitude decreases by 80%, Energy lost."
+BuffInfo_暗器_昏迷,"Unable to act, guaranteed to be Critically hit when Attacked.","ไม่สามารถดำเนินการได้, เมื่อถูกโจมตี จะติดคริติคอลแน่นอน"
+BuffInfo_世俗所累,"After joining the protagonist's team, it will have a negative impact on the protagonist: <#FE2929>Protagonist's Fame effect is reduced by 3 levels, Gift effect is reduced by 50%</color>.",หลังจากเข้าร่วมทีมของตัวเอกแล้ว จะส่งผลเสียต่อตัวเอก: <#FE2929>ประสิทธิภาพชื่อเสียงของตัวเอกลดลง 3 ระดับ ผลของขวัญลดลง 50%</color>
+BuffInfo_世俗所累_附属,"Affected by Yan Rurui's joining, <#FE2929>Fame effect is reduced by 3 levels, Gift effect is reduced by 50%</color>.",รับผลกระทบจากการเข้าร่วมของ หยาน รุรุย <#FE2929>ประสิทธิภาพชื่อเสียงของตัวเอกลดลง 3 ระดับ ผลของขวัญลดลง 50%</color>
+BuffInfo_催魂散之毒,"Enter the battle with 100 points of Poisoned, HP decreases by 50%.","เข้าสู่การต่อสู้โดยมีแต้มพิษ 100 แต้ม, HP ลดลง 50%"
+BuffInfo_得道高僧,"When Benevolence is above 0, <#29F161>each point increases Attack damage by 0.5%</color>; when Benevolence is below 0, <#FE2929>each point decreases Attack damage by 0.95%</color>.",เมื่อศีลธรรมมีค่ามากกว่า 0 <#29F161>แต่ละแต้มจะเพิ่มพลังโจมตี 0.5%</color>; เมื่อศีลธรรมต่ำกว่า 0 <#FE2929>แต่ละแต้มจะลดพลังโจมตีลง 0.95%</color>
+BuffInfo_修为尽失,"Five-dimensional aptitude decreases by 80%, Energy lost.","คุณสมบัติหลักทั้งห้าลดลง 80%, สูญเสียพลัง"
 BuffInfo_风寒之症,Action Speed decreases by <#FE2929>15%</color>.,ความเร็วท่าร่างลดลง <#FE2929>15%</color>
 BuffInfo_以气御剑,"When fighting with Wooden sword as a weapon, <#29F161>Action Speed increases by 15 points, Combo increases by 10%, Counter increases by 10%, final damage increases by 25%</color>.","เมื่อต่อสู้โดยใช้""กระบี่ไม้""เป็นอาวุธ <#29F161>ความเร็วท่าร่างเพิ่มขึ้น 15 แต้ม, โจมตีต่อเนื่องเพิ่มขึ้น 10%, สวนกลับเพิ่มขึ้น 10% ความเสียหายสุดท้ายเพิ่มขึ้น 25%</color>"
 BuffInfo_右手残废,<#FE2929>The exclusive value of martial arts obtained from learning external skills is reduced by 50%</color>.,<#FE2929>คุณค่าพิเศษของวรยุทธที่ได้รับจากการเรียนรู้วรยุทธภายนอกลดลง 50%</color>
 BuffInfo_浴火蔷薇,"When fighting in the same team and the protagonist is present, Han Hongyu's <#29F161>Critical increases by 10%</color>, <#29F161>Combo increases by 10%</color>.","เมื่อต่อสู้ในทีมเดียวกันและมีตัวเอกอยู่, หานหงหยู <#29F161>คริติคอลเพิ่มขึ้น 10%</color>, <#29F161>โจมตีต่อเนื่องเพิ่มขึ้น 10%</color>"
-BuffInfo_家园_释门情谊,"<#E6C899>Shimen Friendship</color>: When <color=#98CBFD>Shi Chen</color> and <color=#98CBFD>Lai Toudian</color> are in the same scene at home, the scene progress increases by an additional <color=#FF9F39>20 points</color>."
-BuffInfo_家园_道门情谊,"<#E6C899>Daoist Friendship</color>: When <color=#98CBFD>Chang Chunzi</color> and <color=#98CBFD>La Tazhang</color> are in the same scene at home, the scene progress increases by an additional <color=#FF9F39>20 points</color>."
-BuffInfo_家园_剑阁情谊,"<#E6C899>Jiange Friendship</color>: When <color=#98CBFD>Ou Ye Heng</color>, <color=#98CBFD>Du Gu Jianyi</color>, and <color=#98CBFD>Wang Dachui</color> are in the same scene at home, the scene progress increases by an additional <color=#FF9F39>30 points</color>."
-BuffInfo_家园_儒门四闲,"<#E6C899>Four Scholars of Confucianism</color>: When <color=#98CBFD>Can Qi</color>, <color=#98CBFD>Ya Qin</color>, <color=#98CBFD>Shu Kuang</color>, <color=#98CBFD>Hua Chi</color> are in the same scene in the homeland, the scene progress increases by an additional <color=#FF9F39>40 points</color>."
-BuffInfo_家园_叶家儿郎,"<#E6C899>Ye Family's Sons</color>: When <color=#98CBFD>Ye Yun</color>, <color=#98CBFD>Ye Yinping</color> are in the same scene in the homeland, the scene progress increases by an additional <color=#FF9F39>20 points</color>."
-BuffInfo_家园_燕云铁军,"<#E6C899>Iron Army of Yan Yun</color>: When <color=#98CBFD>Wan Yan Liang</color>, <color=#98CBFD>Xiao Yuanba</color> are in the same scene in the homeland, the scene progress increases by an additional <color=#FF9F39>20 points</color>."
-BuffInfo_家园_妙音娘子,"<#E6C899>Charming Ladies</color>: When <color=#98CBFD>Fu Yaoqin</color>, <color=#98CBFD>Gu Qingcheng</color>, <color=#98CBFD>Yu Weier</color> are in the same scene in the homeland, the scene progress increases by an additional <color=#FF9F39>30 points</color>."
-BuffInfo_家园_神捕门下,"<#E6C899>Under Crime Investigation Bureau</color>: When <color=#98CBFD>Luo Qianxue</color>, <color=#98CBFD>Qiu Zhimo</color> are in the same scene in the homeland, the scene progress increases by an additional <color=#FF9F39>20 points</color>."
-BuffInfo_家园_能工巧匠,"<#E6C899>Skilled Craftsmen</color>: When <color=#98CBFD>Wang Dachui</color>, <color=#98CBFD>Ou Ye Heng</color> are placed in the Heavenly Workshop, the scene progress increases by an additional <color=#FF9F39>20 points</color> per person."
-BuffInfo_家园_豪气万千,"<#E6C899>Heroic Spirit</color>: When <color=#98CBFD>Kong Yidao</color>, <color=#98CBFD>Luo Tianxiong</color>, <color=#98CBFD>Bu Juechen</color>, <color=#98CBFD>Fu Yaoqin</color>, <color=#98CBFD>Han Hongyu</color> are placed in the Treasure Pavilion, each placement increases the scene progress by an extra <color=#FF9F39>10 points</color>."
-BuffInfo_家园_小村隐士,"<#E6C899>Hermit of the Small Village</color>: When <color=#98CBFD>Liu Shiba</color>, <color=#98CBFD>Bao Dating</color>, <color=#98CBFD>Wang Dachui</color>, <color=#98CBFD>Old White-haired Man</color>, <color=#98CBFD>Hua Siniang</color> are in the same scene at home, the scene progress increases by an additional <color=#FF9F39>50 points</color>."
+BuffInfo_家园_释门情谊,"<#E6C899>Shimen Friendship</color>: When <color=#98CBFD>Shi Chen</color> and <color=#98CBFD>Lai Toudian</color> are in the same scene at home, the scene progress increases by an additional <color=#FF9F39>20 points</color>.",<#E6C899>มิตรภาพสือเมน</color>: เมื่อ <color=#98CBFD>สือเฉิน</color> และ <color=#98CBFD>หล่ายโถ่วเตียน</color> อยู่ในฉากเดียวกันที่บ้าน ความคืบหน้าของฉากจะเพิ่มขึ้น เพิ่มเติม <color=#FF9F39>20 จุด</color>
+BuffInfo_家园_道门情谊,"<#E6C899>Daoist Friendship</color>: When <color=#98CBFD>Chang Chunzi</color> and <color=#98CBFD>La Tazhang</color> are in the same scene at home, the scene progress increases by an additional <color=#FF9F39>20 points</color>.",<#E6C899>มิตรภาพลัทธิเต๋า</color>: เมื่อ <color=#98CBFD>ฉางชุนจื่อ</color> และ <color=#98CBFD>ลาทาจาง</color> อยู่ในฉากเดียวกันที่บ้าน ความคืบหน้าของฉากจะเพิ่มขึ้น เพิ่มเติม <color=#FF9F39>20 จุด</color>
+BuffInfo_家园_剑阁情谊,"<#E6C899>Jiange Friendship</color>: When <color=#98CBFD>Ou Ye Heng</color>, <color=#98CBFD>Du Gu Jianyi</color>, and <color=#98CBFD>Wang Dachui</color> are in the same scene at home, the scene progress increases by an additional <color=#FF9F39>30 points</color>.","<#E6C899>มิตรภาพของเจียงเก๋อ</color>: เมื่อ <color=#98CBFD>อู๋เยว่เหิง</color>, <color=#98CBFD>ตู๋กูเจี้ยนอี้</color> และ <color=#98CBFD>หวังต้าชุย</color> อยู่ในฉากเดียวกันที่บ้าน ความคืบหน้าของฉากจะเพิ่มขึ้นอีก <color=#FF9F39>30 จุด</color>"
+BuffInfo_家园_儒门四闲,"<#E6C899>Four Scholars of Confucianism</color>: When <color=#98CBFD>Can Qi</color>, <color=#98CBFD>Ya Qin</color>, <color=#98CBFD>Shu Kuang</color>, <color=#98CBFD>Hua Chi</color> are in the same scene in the homeland, the scene progress increases by an additional <color=#FF9F39>40 points</color>.","<#E6C899>สี่นักวิชาการลัทธิขงจื๊อ</color>: เมื่อ <color=#98CBFD>คานฉี</color>, <color=#98CBFD>หยาฉิน</color>, <color=#98CBFD>Shu Kuang</color> color>, <color=#98CBFD>หัวฉี</color> อยู่ในฉากเดียวกันในบ้านเกิด ความคืบหน้าของฉากเพิ่มขึ้นอีก <color=#FF9F39>40 จุด</color>"
+BuffInfo_家园_叶家儿郎,"<#E6C899>Ye Family's Sons</color>: When <color=#98CBFD>Ye Yun</color>, <color=#98CBFD>Ye Yinping</color> are in the same scene in the homeland, the scene progress increases by an additional <color=#FF9F39>20 points</color>.","<#E6C899>บุตรตระกูลเย่</color>: เมื่อ <color=#98CBFD>เย่หยุน</color>, <color=#98CBFD>เย่หยินผิง</color> อยู่ในฉากเดียวกันในบ้านเกิด ฉากคืบหน้า เพิ่มขึ้นอีก <color=#FF9F39>20 จุด</color>"
+BuffInfo_家园_燕云铁军,"<#E6C899>Iron Army of Yan Yun</color>: When <color=#98CBFD>Wan Yan Liang</color>, <color=#98CBFD>Xiao Yuanba</color> are in the same scene in the homeland, the scene progress increases by an additional <color=#FF9F39>20 points</color>.","<#E6C899>กองทัพเหล็กแห่งหยานหยุน</color>: เมื่อ <color=#98CBFD>หวันหยานเหลียง</color>, <color=#98CBFD>เสี่ยวหยวนป้า</color> อยู่ในฉากเดียวกันที่บ้านเกิด ความคืบหน้าของฉากเพิ่มขึ้นอีก <color=#FF9F39>20 จุด</color>"
+BuffInfo_家园_妙音娘子,"<#E6C899>Charming Ladies</color>: When <color=#98CBFD>Fu Yaoqin</color>, <color=#98CBFD>Gu Qingcheng</color>, <color=#98CBFD>Yu Weier</color> are in the same scene in the homeland, the scene progress increases by an additional <color=#FF9F39>30 points</color>.","<#E6C899>สาวเจ้าเสน่ห์</color>: เมื่อ <color=#98CBFD>ฟู่เหยาฉิน</color>, <color=#98CBFD>กู่ชิงเฉิง</color>, <color=#98CBFD>หยูเว่ยเอ๋อ</color> อยู่ในฉากเดียวกันในบ้านเกิด ความคืบหน้าของฉากเพิ่มขึ้นอีก <color=#FF9F39>30 จุด</color>"
+BuffInfo_家园_神捕门下,"<#E6C899>Under Crime Investigation Bureau</color>: When <color=#98CBFD>Luo Qianxue</color>, <color=#98CBFD>Qiu Zhimo</color> are in the same scene in the homeland, the scene progress increases by an additional <color=#FF9F39>20 points</color>.","<#E6C899>สำนักสืบสวนอาชญากรรม</color>: เมื่อ <color=#98CBFD>ลั่วฉียนเสวี่ย</color>, <color=#98CBFD>ฉิวจีโม่</color> อยู่ในฉากเดียวกันในบ้านเกิด ฉากนั้น ความคืบหน้าเพิ่มขึ้นอีก <color=#FF9F39>20 จุด</color>"
+BuffInfo_家园_能工巧匠,"<#E6C899>Skilled Craftsmen</color>: When <color=#98CBFD>Wang Dachui</color>, <color=#98CBFD>Ou Ye Heng</color> are placed in the Heavenly Workshop, the scene progress increases by an additional <color=#FF9F39>20 points</color> per person.","<#E6C899>ช่างฝีมือผู้ชำนาญ</color>: เมื่อ <color=#98CBFD>หวังต้าชุย</color>, <color=#98CBFD>อู๋เยว่เหิง</color> ถูกวางไว้ในเวิร์คช็อปแห่งสวรรค์ ความคืบหน้าของฉากจะเพิ่มขึ้น เพิ่มเติม <color=#FF9F39>20 คะแนน</color> ต่อคน"
+BuffInfo_家园_豪气万千,"<#E6C899>Heroic Spirit</color>: When <color=#98CBFD>Kong Yidao</color>, <color=#98CBFD>Luo Tianxiong</color>, <color=#98CBFD>Bu Juechen</color>, <color=#98CBFD>Fu Yaoqin</color>, <color=#98CBFD>Han Hongyu</color> are placed in the Treasure Pavilion, each placement increases the scene progress by an extra <color=#FF9F39>10 points</color>.","<#E6C899>จิตวิญญาณของวีรบุรุษ</color>: เมื่อ <color=#98CBFD>ขงอี้เตา</color>, <color=#98CBFD>ลั่วเทียนเซี่ยง</color>, <color=#98CBFD>ปู้เจวี่ยเฉิน</color> , <color=#98CBFD>ฟู่เหยาฉิน</color>, <color=#98CBFD>หานหงหยู</color> ถูกวางไว้ใน ศาลาสมบัติ แต่ละตำแหน่งจะเพิ่มความคืบหน้าของฉากอีก <color=#FF9F39>10 แต้ม </color>"
+BuffInfo_家园_小村隐士,"<#E6C899>Hermit of the Small Village</color>: When <color=#98CBFD>Liu Shiba</color>, <color=#98CBFD>Bao Dating</color>, <color=#98CBFD>Wang Dachui</color>, <color=#98CBFD>Old White-haired Man</color>, <color=#98CBFD>Hua Siniang</color> are in the same scene at home, the scene progress increases by an additional <color=#FF9F39>50 points</color>.","<#E6C899>พรตแห่งหมู่บ้านเล็กๆ</color>: เมื่อ <color=#98CBFD>หลิวสือปา</color>, <color=#98CBFD>เปาต้าถิง</color>, <color=#98CBFD>หวังต้าชุย</color>, <color=#98CBFD>ผู้เฒ่าผมขาว</color>, <color=#98CBFD>ฮวาซินเหนียง</color> อยู่ในฉากเดียวกันที่บ้าน ความคืบหน้าของฉากเพิ่มขึ้นอีก <color=#FF9F39>50แต้ม</color>."
 BuffName_反击,Counter,สวนกลับ
 BuffName_彩绣香囊Buff1,<#EFD09F>Tranquilized</color>,<#EFD09F>เงียบสงบ</color>
 BuffName_粗糙的护身符Buff1,<#EFD09F>Protected</color>,<#EFD09F>ถูกป้องกัน</color>
@@ -3789,5 +3789,5 @@ BuffInfo_家园_江湖历练经验提升7,Gain Jianghu Knowledge increase by <#2
 BuffInfo_家园_江湖历练经验提升8,Gain Jianghu Knowledge increase by <#29F161>12%</color>,ได้รับค่าประสบการณ์ยุทธเพิ่มขึ้น <#29F161>12%</color>
 BuffInfo_家园_江湖历练经验提升9,Gain Jianghu Knowledge increase by <#29F161>14%</color>,ได้รับค่าประสบการณ์ยุทธเพิ่มขึ้น <#29F161>14%</color>
 BuffInfo_家园_江湖历练经验提升10,Gain Jianghu Knowledge increase by <#29F161>14%</color>,ได้รับค่าประสบการณ์ยุทธเพิ่มขึ้น <#29F161>14%</color>
-BuffInfo_家园_药食同源,"<#E6C899>Medicinal and Edible</color>: When placing <color=#98CBFD>Hua Siniang</color>, <color=#98CBFD>Qu Wangyou</color>, <color=#98CBFD>White-haired Old Man</color>, <color=#98CBFD>Pao Chunqiu</color> in Medicinal House, each person placed will additionally increase the scene progress by <color=#FF9F39>10 points</color>."
-BuffInfo_家园_悟性超群,"<#E6C899>Superior Intelligence</color>: When placing <color=#98CBFD>Du Gu Jianyi</color>, <color=#98CBFD>Ling Mengdie</color>, <color=#98CBFD>La Tazhang</color>, <color=#98CBFD>Wan Yan Liang</color>, <color=#98CBFD>Cai Youzhi</color>, <color=#98CBFD>Shuo Shuren</color> in Enlighten Steles Forest, each person placed will additionally increase the scene progress by <color=#FF9F39>10 points</color>."
+BuffInfo_家园_药食同源,"<#E6C899>Medicinal and Edible</color>: When placing <color=#98CBFD>Hua Siniang</color>, <color=#98CBFD>Qu Wangyou</color>, <color=#98CBFD>White-haired Old Man</color>, <color=#98CBFD>Pao Chunqiu</color> in Medicinal House, each person placed will additionally increase the scene progress by <color=#FF9F39>10 points</color>.","<#E6C899>อาหารและยา</color>: เมื่อวาง <color=#98CBFD>ฮวาซินเหนียง</color>, <color=#98CBFD>ฉู่หวังโหย่ว</color>, <color=#98CBFD>ผู้เฒ่าผมขาว</color>, <color=#98CBFD>เปาชุนชิว</color> ในหอยาแต่ละคนที่ถูกวางจะเพิ่มความคืบหน้าของฉากเพิ่มเติมอีก <color=#FF9F39>10 คะแนน</color>"
+BuffInfo_家园_悟性超群,"<#E6C899>Superior Intelligence</color>: When placing <color=#98CBFD>Du Gu Jianyi</color>, <color=#98CBFD>Ling Mengdie</color>, <color=#98CBFD>La Tazhang</color>, <color=#98CBFD>Wan Yan Liang</color>, <color=#98CBFD>Cai Youzhi</color>, <color=#98CBFD>Shuo Shuren</color> in Enlighten Steles Forest, each person placed will additionally increase the scene progress by <color=#FF9F39>10 points</color>.","<#E6C899>สติปัญญาล้ำเลิศ</color>: เมื่อวาง <color=#98CBFD>ตู๋กูเจี้ยนอี้</color>, <color=#98CBFD>หลิงเหมิงตี้</color>, <color=#98CBFD>ลาทาจาง</color> color>, <color=#98CBFD>หวันหยานเหลียง</color>, <color=#98CBFD>ไช่โหยวจื่อ</color>, <color=#98CBFD>โช่วชูเหริน</color> ในป่าศิลารู้แจ้ง แต่ละคนวาง จะเพิ่มความคืบหน้าของฉากเพิ่มเติมอีก <color=#FF9F39>10 คะแนน</color>"

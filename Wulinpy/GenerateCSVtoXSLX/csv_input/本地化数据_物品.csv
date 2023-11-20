@@ -291,7 +291,7 @@ ItemName_枉凝眉,Vain Eyebrows,ขลุ่ยคิ้วขมวด
 ItemName_关山月,Mountain Moon,ขลุ่ยภูผาจันทรา
 ItemName_冷沧浪,Blue Waves,ขลุ่ยคลื่นคราม
 ItemName_有凤来仪,Phoenix's Grace,ขลุ่ยห้วงวิหคเพลิง
-ItemName_碧海潮声,Sound of the Tide,ขลุ่ยเสียงคลื่นมรกต
+ItemName_碧海潮声,Sound of the Tide,ขลุ่ยคลื่นมรกต
 ItemName_笑傲江湖,Proud Wanderer,เย้ยยุทธจักร
 ItemName_硬木琵琶,Wooden lute,ผีผาไม้
 ItemName_鸡翅琵琶,Chicken wing lute,ผีผาไม้มะฮอกกานี
@@ -1013,7 +1013,7 @@ ItemName_河虾,River prawn,กุ้งแม่น้ำ
 ItemName_河蟹,River crab,ปูแม่น้ำ
 ItemName_鲤鱼,Carp,ปลาคาร์ป
 ItemName_鲫鱼,Crucian carp,ปลาคาร์พไม้กางเขน
-ItemName_鲟鱼,Trout,ปลาเทราท์
+ItemName_鲟鱼,Trout,ปลามังกร
 ItemName_鲈鱼,Bass,ปลากะพง
 ItemName_草鱼,Grass carp,ปลาเฉา
 ItemName_金鲤鱼,Golden carp,ปลาคาร์ปทอง
@@ -1787,7 +1787,7 @@ ItemName_枉凝眉图纸,Vain Eyebrows Blueprint,แบบแปลน - ขล�
 ItemName_关山月图纸,Mountain Moon Blueprint,แบบแปลน - ขลุ่ยภูผาจันทรา
 ItemName_冷沧浪图纸,Blue Waves Blueprint,แบบแปลน - ขลุ่ยคลื่นคราม
 ItemName_有凤来仪图纸,Phoenix's Grace Blueprint,แบบแปลน - ขลุ่ยห้วงวิหคเพลิง
-ItemName_碧海潮声图纸,Sound of the Tide Blueprint,แบบแปลน - ขลุ่ยเสียงคลื่นมรกต
+ItemName_碧海潮声图纸,Sound of the Tide Blueprint,แบบแปลน - ขลุ่ยคลื่นมรกต
 ItemName_笑傲江湖图纸,Proud Wanderer Blueprint,แบบแปลน - เย้ยยุทธจักร
 ItemName_硬木琵琶图纸,Wooden Lute Blueprint,แบบแปลน - ผีผาไม้
 ItemName_鸡翅琵琶图纸,Chicken Wing Lute Blueprint,แบบแปลน - ผีผาไม้มะฮอกกานี
@@ -3003,7 +3003,7 @@ ItemInfo_河虾,"Jumping River prawn.\n<#d09a09>Usage: Cooking, Gift</color>","�
 ItemInfo_河蟹,"Fist-sized blue River crab.\n<#d09a09>Usage: Cooking, Gift</color>","ปูแม่น้ำสีน้ำเงินขนาดเท่ากำปั้น.\n<#d09a09>ใช้สำหรับ: ทำอาหาร, ให้เป็นของขวัญ</color>"
 ItemInfo_鲤鱼,"Plump Carp material.\n<#d09a09>Usage: Cooking, Gift</color>","ปลาคาร์ปอวบอ้วน.\n<#d09a09>ใช้สำหรับ: ทำอาหาร, ให้เป็นของขวัญ</color>"
 ItemInfo_鲫鱼,"Spiky Crucian carp.\n<#d09a09>Usage: Cooking, Gift</color>","ปลาคาร์พไม้กางเขน.\n<#d09a09>ใช้สำหรับ: ทำอาหาร, ให้เป็นของขวัญ</color>"
-ItemInfo_鲟鱼,"Rare Trout.\n<#d09a09>Usage: Cooking, Gift</color>","ปลาเทราท์หายาก.\n<#d09a09>ใช้สำหรับ: ทำอาหาร, ให้เป็นของขวัญ</color>"
+ItemInfo_鲟鱼,"Rare Trout.\n<#d09a09>Usage: Cooking, Gift</color>","ปลามังกรหายาก.\n<#d09a09>ใช้สำหรับ: ทำอาหาร, ให้เป็นของขวัญ</color>"
 ItemInfo_鲈鱼,"Two-pound heavy Bass.\n<#d09a09>Usage: Cooking, Gift</color>","ปลากระพงหนักสองปอนด์.\n<#d09a09>ใช้สำหรับ: ทำอาหาร, ให้เป็นของขวัญ</color>"
 ItemInfo_草鱼,"Fresh Grass carp.\n<#d09a09>Usage: Cooking, Gift</color>","ปลาเฉาสดใหม่\n<#d09a09>ใช้สำหรับ: ทำอาหาร, ให้เป็นของขวัญ</color>"
 ItemInfo_金鲤鱼,"Rare golden Carp.\n<#d09a09>Usage: Cooking, Gift</color>","ปลาคาร์ปสีทองหายาก\n<#d09a09>ใช้สำหรับ: ทำอาหาร, ให้เป็นของขวัญ</color>"
@@ -3777,7 +3777,7 @@ ItemInfo_枉凝眉图纸,"After use, you can forge <#c851ff>Vain Eyebrows</color
 ItemInfo_关山月图纸,"After use, you can forge <#c851ff>Mountain Moon</color>.","หลังจากใช้, เจ้าสามารถสร้าง <#c851ff>ขลุ่ยภูผาจันทรา</color>"
 ItemInfo_冷沧浪图纸,"After use, you can forge <#c851ff>Blue Waves</color>.","หลังจากใช้, เจ้าสามารถสร้าง <#c851ff>ขลุ่ยคลื่นคราม</color>"
 ItemInfo_有凤来仪图纸,"After use, you can forge <#d09a09>Phoenix's Grace</color>.","หลังจากใช้, เจ้าสามารถสร้าง <#d09a09>ขลุ่ยห้วงวิหคเพลิง</color>"
-ItemInfo_碧海潮声图纸,"After use, you can forge <#d09a09>Sound of the Tide</color>.","หลังจากใช้, เจ้าสามารถสร้าง <#d09a09>ขลุ่ยเสียงคลื่นมรกต</color>"
+ItemInfo_碧海潮声图纸,"After use, you can forge <#d09a09>Sound of the Tide</color>.","หลังจากใช้, เจ้าสามารถสร้าง <#d09a09>ขลุ่ยคลื่นมรกต</color>"
 ItemInfo_笑傲江湖图纸,"After use, you can forge <#d09a09>Proud Wanderer</color>.","หลังจากใช้, เจ้าสามารถสร้าง <#d09a09>เย้ยยุทธจักร</color>"
 ItemInfo_硬木琵琶图纸,"After use, you can forge <#68cf24>Wooden lute</color>.","หลังจากใช้, เจ้าสามารถสร้าง <#68cf24>ผีผาไม้</color>"
 ItemInfo_鸡翅琵琶图纸,"After use, you can forge <#68cf24>Chicken wing lute</color>.","หลังจากใช้, เจ้าสามารถสร้าง <#68cf24>ผีผาไม้มะฮอกกานี</color>"
@@ -4167,7 +4167,7 @@ ItemName_保险柜钥匙,Safe Key,กุญแจตู้เซฟ
 ItemName_楚襄城特殊货物,Special Goods,สินค้าพิเศษ
 ItemName_大梁城特殊货物,Special Goods,สินค้าพิเศษ
 ItemName_霖安城特殊货物,Special Goods,สินค้าพิเศษ
-ItemName_大蟠桃,Big Peach,ลูกพีชใหญ่
+ItemName_大蟠桃,Big Peach,ลูกท้อสวรรค์
 ItemName_垂钓技法,Fishing Technique,เทคนิคการตกปลา
 ItemName_倒转乾坤,Full Reversal,พลังเคลื่อนย้ายจักรวาล
 ItemName_九流归一,Nine Flow Unification,เก้าสายรวมเป็นหนึ่ง

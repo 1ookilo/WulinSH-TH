@@ -544,7 +544,7 @@ BuffPropPair_穷奇3,"When attacking, reduce the enemy's <#29F161>{穷奇3多效
 BuffPropPair_定海神针1,Attack increases <#29F161>{定海神针1多效果1}</color>.,พลังโจมตีเพิ่มขึ้น <#29F161>{定海神针1多效果1}</color>.
 BuffPropPair_定海神针2,Basic Attack increases <#29F161>{定海神针2多效果1%}</color>.,พลังโจมตีพื้นฐานเพิ่มขึ้น <#29F161>{定海神针2多效果1%}</color>.
 BuffPropPair_定海神针3,"For non-boss characters below your level by 10, there is a <#29F161>{定海神针3多效果1%}</color> chance to trigger <#29F161>Instant death</color>.","สำหรับตัวละครที่ไม่ใช่บอสที่มีเลเวลต่ำกว่าเรา 10 เลเวล, มีโอกาส  <#29F161>{定海神针3多效果1%}</color> ที่จะทำให้เกิด <#29F161>สังหารทันที</color>"
-BuffPropPair_定海神针4,"When using martial arts, MP Cost <#FE2929>increases by 200%</color>, <#FE2929>Action Speed decreases by {定海神针4多效果1%}</color>.","เมื่อใช้วรยุทธ} ใช้ MP <#FE2929>เพิ่มขึ้น 200%</color>, <#FE2929>ความเร็วท่าร่างลดลงโดย{定海神针4多效果1%}</color>."
+BuffPropPair_定海神针4,"When using martial arts, MP Cost <#FE2929>increases by 200%</color>, <#FE2929>Action Speed decreases by {定海神针4多效果1%}</color>.","เมื่อใช้วรยุทธ, เสีย MP <#FE2929>เพิ่มขึ้น 200%</color>, <#FE2929>ความเร็วท่าร่างลดลงโดย{定海神针4多效果1%}</color>."
 BuffPropPair_九环锡杖1,"When attacking, inflict <#FE2929>{九环锡杖1多效果1} Internal Injury</color> on the enemy.",เมื่อโจมตี สร้างสถานะ <#FE2929>{九环锡杖1多效果1} บาดเจ็บภายใน</color> แก่ศัตรู
 BuffPropPair_九环锡杖2,"When attacking, there is a {九环锡杖2多效果1%} chance to trigger <#FE2929>Vulnerable</color> effect on the enemy.",เมื่อการโจมตี มีโอกาส {九环锡杖2多效果1%} ที่จะทำให้เกิดสถานะ <#FE2929>เปราะบาง</color> แก่ศัตรู
 BuffPropPair_亮银锤1,"When your Strength is higher than the enemy's Strength, for each additional point, when attacking, <#FE2929>damage increases by {亮银锤1多效果1%}</color>, up to a maximum increase of 15%."

@@ -440,14 +440,14 @@ R20009-1_options1_1,Let's get started!,เริ่มกันเลย
 R20009-1_options1_2,"Forget it, I have something else to do...",ช่างมันเถอะ ข้ามีบางอย่างต้องทำ...
 R20009-1_options1_3,"Sorry, I didn't see clearly, could you say it again?",ขอโทษนะ ข้าได้ยินไม่ชัด เจ้าพูดอีกครั้งได้มั้ย
 R20009-1_options1_1（1）,Sky,วัน
-R20009-1_options1_1（2）,Thunder,อัสนี
+R20009-1_options1_1（2）,Thunder,อัสนี (ข้อนี้)
 R20009-1_options1_1（3）,Tired,เหนื่อย
-R20009-1_options1_1（2）（1）,Also
-R20009-1_options1_1（2）（2）,Earth
+R20009-1_options1_1（2）（1）,Also,เหมือนกัน (ข้อนี้)
+R20009-1_options1_1（2）（2）,Earth,ปฐพี
 R20009-1_options1_1（2）（3）,Soil,ดิน
 R20009-1_options1_1（2）（1）（1）,Child,เด็ก
 R20009-1_options1_1（2）（1）（2）,Son,ลูกชาย
-R20009-1_options1_1（2）（1）（3）,Daughter,ลูกสาว
+R20009-1_options1_1（2）（1）（3）,Daughter,ลูกสาว (ข้อนี้)
 R20010-1_name,Hide and Seek,เล่นซ่อนหา
 R20010-1_overview_1,You can go play with Xiao Ya anytime.,เจ้าไปเล่นกับเสี่ยวหยาไปตลอดเลยนะ
 R20010-1_overview_4,Find three children in the village.,ตามหาเด็กสามคนในหมู่บ้าน
@@ -1067,10 +1067,10 @@ M20114-1_overview1,Help the shopkeeper of Forgotten House deal with the wild cat
 M20114-1_overview2,Tell the shopkeeper of Forgotten House that the problem has been solved.,บอกเจ้าของหอสุราลืมทุกข์ทุกข์ว่าปัญหาได้รับการแก้ไขแล้ว
 M20114-2_option1_1,Feed a Golden carp.<color=#097a76>(Golden carp x1)</color>,ให้อาหารด้วยปลาคาร์ปทองคำ <color=#097a76>(ปลาคาร์ปทองคำ)</color>
 M20114-2_option1_2,Feed a Carp.<color=#097a76>(Carp x1)</color>,ให้อาหารด้วยปลาคาร์ป <color=#097a76>(ปลาคาร์ป x1)</color>
-M20114-2_option1_3,Feed a Crucian carp.<color=#097a76>(Crucian carp x1)</color>
-M20114-2_option1_4,Feed a Trout.<color=#097a76>(Trout x1)</color>,ป้อนปลาเทราท์ <color=#097a76>(ปลาเทราท์ x1)</color>
-M20114-2_option1_5,Feed a Bass.<color=#097a76>(Bass x1)</color>,ป้อนปลากะพง <color=#097a76>(ปลากะพง x1)</color>
-M20114-2_option1_6,Feed a Grass carp.<color=#097a76>(Grass carp x1)</color>,ป้อนปลาเฉา <color=#097a76>(ปลาเฉา x1)</color>
+M20114-2_option1_3,Feed a Crucian carp.<color=#097a76>(Crucian carp x1)</color>,ให้อาหารด้วยปลาคาร์พไม้กางเขน <color=#097a76>(ปลาคาร์พไม้กางเขน x1)</color>
+M20114-2_option1_4,Feed a Trout.<color=#097a76>(Trout x1)</color>,ให้อาหารด้วยปลามังกร <color=#097a76>(ปลามังกร x1)</color>
+M20114-2_option1_5,Feed a Bass.<color=#097a76>(Bass x1)</color>,ให้อาหารด้วยปลากะพง <color=#097a76>(ปลากะพง x1)</color>
+M20114-2_option1_6,Feed a Grass carp.<color=#097a76>(Grass carp x1)</color>,ให้อาหารด้วยปลาเฉา <color=#097a76>(ปลาเฉา x1)</color>
 M20114-2_option1_7,"Never mind, don't feed it.",ช่างมัน ไม่ให้อาหาร
 M1200-10_option1_1,Agree to help him get out.,ตกลงช่วยเขาออกไป
 M1200-10_option1_2,Refuse to help him get out.,ปฏิเสธจะช่วยเขาออกไป
@@ -1933,12 +1933,12 @@ Talking_Withdraw,
 Role3-26_overview14,Marshal Ye should be waiting for the summons in the <color=#c44b0e>Prison of the Supreme Court</color>.
 Role3-26_overview15,Marshal Ye has been taken to the <color=#c44b0e>Supreme Court</color> for trial.
 Role3-26_overview16,Marshal Ye is about to be executed in the <color=#c44b0e>Wind Wave Pavilion within the Supreme Court</color>.
-R20011-3_option1_1,Buy<color=#c44b0e>Top-grade Pickaxe</color>.<color=#097a76>(2500 Coins)</color>
-R20011-3_option1_2,Buy<color=#c44b0e>Top-grade Sickle</color>.<color=#097a76>(2500 Coins)</color>
-R20011-3_option1_3,Buy<color=#c44b0e>Top-grade Fishing Rod</color>.<color=#097a76>(2500 Coins)</color>
-R20011-3_option1_4,Buy<color=#c44b0e>Superior Worm-catching Net</color>.<color=#097a76>(2500 Coins)</color>
-R20011-3_option1_5,Buy<color=#c44b0e>Superior Woodcutting Axe</color>.<color=#097a76>(2500 Coins)</color>
-R20011-3_option1_6,Nothing I want to buy.
+R20011-3_option1_1,Buy<color=#c44b0e>Top-grade Pickaxe</color>.<color=#097a76>(2500 Coins)</color>,ซื้อ<color=#c44b0e>เสียมชั้นยอด</color>.<color=#097a76>(2500 อีแปะ)</color>
+R20011-3_option1_2,Buy<color=#c44b0e>Top-grade Sickle</color>.<color=#097a76>(2500 Coins)</color>,ซื้อ<color=#c44b0e>เคียวชั้นยอด</color>.<color=#097a76>(2500 อีแปะ)</color>
+R20011-3_option1_3,Buy<color=#c44b0e>Top-grade Fishing Rod</color>.<color=#097a76>(2500 Coins)</color>,ซื้อ<color=#c44b0e>คันเบ็ดชั้นยอด</color>.<color=#097a76>(2500 อีแปะ)</color>
+R20011-3_option1_4,Buy<color=#c44b0e>Superior Worm-catching Net</color>.<color=#097a76>(2500 Coins)</color>,ซื้อ<color=#c44b0e>ตาข่ายจับแมลงชั้นยอด</color>.<color=#097a76>(2500 อีแปะ)</color>
+R20011-3_option1_5,Buy<color=#c44b0e>Superior Woodcutting Axe</color>.<color=#097a76>(2500 Coins)</color>,ซื้อ<color=#c44b0e>ขวานชั้นยอด</color>.<color=#097a76>(2500 อีแปะ)</color>
+R20011-3_option1_6,Nothing I want to buy.,ไม่มีอะไรที่ข้าต้องการซื้อ.
 R10099-15_option1_1,
 R10099-15_option1_2,
 Day-2070-1_name,
