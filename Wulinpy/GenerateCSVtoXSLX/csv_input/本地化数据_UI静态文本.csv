@@ -780,11 +780,11 @@ UIRoleMenuPanel_LeftPanel_NpcInfo_npcBottom_leave_Text(TMP),Leave team,ออก
 UIRoleMenuPanel_LeftPanel_NpcInfo_Relation,[Intimate],[ใกล้ชิด]
 UIRoleMenuPanel_LeftPanel_NpcInfo_Info_Viewport_Content,"Biography of Yue Fei: Since the age of twenty, he has joined the army four times, starting from the 20th year of Jianyan. Biography of Yue Fei: Since the age of twenty, he has joined the army four times, starting from the 20th year of Jianyan. He has joined the army four times since the 20th year of Jianyan. Biography of Yue Fei: Since the age of twenty, he has joined the army four times, starting from the 20th year of Jianyan. He has joined the army four times since the 20th year of Jianyan. Biography of Yue Fei: Since the age of twenty, he has joined the army four times, starting from the 20th year of Jianyan. He has joined the army four times since the 20th year of Jianyan."
 BattleUI_BeforeBattle_ActorSelectBg_RestrictGroup_JoinCondition_JoinConditionTitle,Battle Conditions:,เงื่อนไขการต่อสู้:
-BattleUI_BeforeBattle_ActorSelectBg_RestrictGroup_JoinCondition_JoinConditionContent,Only the protagonist and Li Bai can participate in the battle
+BattleUI_BeforeBattle_ActorSelectBg_RestrictGroup_JoinCondition_JoinConditionContent,Only the protagonist and Li Bai can participate in the battle,มีเพียงตัวเอกและหลี่ไป๋เท่านั้นที่สามารถเข้าร่วมการต่อสู้ได้
 BattleUI_BeforeBattle_ActorSelectBg_RestrictGroup_WinCondition_WinConditionTitle,Victory Conditions:,เงื่อนไขการเอาชนะ:
-BattleUI_BeforeBattle_ActorSelectBg_RestrictGroup_WinCondition_WinConditionContent,Only the protagonist and Li Bai can participate in the battle
+BattleUI_BeforeBattle_ActorSelectBg_RestrictGroup_WinCondition_WinConditionContent,Only the protagonist and Li Bai can participate in the battle,มีเพียงตัวเอกและหลี่ไป๋เท่านั้นที่สามารถเข้าร่วมการต่อสู้ได้
 BattleUI_BeforeBattle_ActorSelectBg_RestrictGroup_FailCondition_FailConditionTitle,Defeat Conditions:,เงื่อนไขการแพ้:
-BattleUI_BeforeBattle_ActorSelectBg_RestrictGroup_FailCondition_FailConditionContent,Only the protagonist and Li Bai can participate in the battle
+BattleUI_BeforeBattle_ActorSelectBg_RestrictGroup_FailCondition_FailConditionContent,Only the protagonist and Li Bai can participate in the battle,มีเพียงตัวเอกและหลี่ไป๋เท่านั้นที่สามารถเข้าร่วมการต่อสู้ได้
 BattleUI_BeforeBattle_ActorSelect_CharacterInfoPanelPrefab_FlyInTweener_JoinTweener_HpText,HP,HP
 BattleUI_BeforeBattle_ActorSelect_CharacterInfoPanelPrefab_FlyInTweener_JoinTweener_EpText,MP,MP
 BattleUI_BeforeBattle_ActorSelect_CharacterInfoPanelPrefab_FlyInTweener_Banner_Text,Join Battle,ร่วมต่อสู้
@@ -865,8 +865,8 @@ UseItemInBattleUI_Window_ItemDisplayZone__ViewPort_Grid_Item(2)_Text(TMP),22,22
 UseItemInBattleUI_Window_ItemDisplayZone__ViewPort_Grid_Item(3)_Text(TMP),22,22
 UseItemInBattleUI_Window_ItemDisplayZone__ViewPort_Grid_Item(4)_Text(TMP),22,22
 UseItemInBattleUI_Window_ItemDisplayZone__ViewPort_Grid_Item(5)_Text(TMP),22,22
-UseItemInBattleUI_Window_ItemDisplayZone__EmptyTip_EmptyTipText_Text(TMP),"Hero, you have nothing in your bag.",จอมยุทธ กระเป๋าของท่าว่างเปล่า
-UseItemInBattleUI_Window_EmptyTip_EmptyTipText_Text(TMP),"Hero, you have nothing in your bag.",จอมยุทธ กระเป๋าของท่าว่างเปล่า
+UseItemInBattleUI_Window_ItemDisplayZone__EmptyTip_EmptyTipText_Text(TMP),"Hero, you have nothing in your bag.",จอมยุทธ กระเป๋าของท่านว่างเปล่า
+UseItemInBattleUI_Window_EmptyTip_EmptyTipText_Text(TMP),"Hero, you have nothing in your bag.",จอมยุทธ กระเป๋าของท่านว่างเปล่า
 UseItemInBattleUI_Window_Button_Text(TMP),Confirm,ยืนยัน
 UseItemInBattleUI_Window_Button_UseText,Used in this round\n<#00ff00>{0}/{1}</color>,ใช้ในรอบนี้\n<#00ff00>{0}/{1}</color>
 TaskCard_Bg_txtTitle,Clear the bandits outside Lin'an City,กำจัดโจรด้านนอกเมืองหลินอัน
@@ -898,7 +898,7 @@ UIBountySelectItem_btnCommand_text,Hand in,ส่งมอบ
 Button_Text(TMP),Deal,แลกเปลี่ยน
 Button_Pages_Text(TMP),Inventory1
 EarlyAccessCanvas_Text(TMP),Official Version,เวอร์ชันอย่างเป็นทางการ
-EmptyTip_EmptyTipText_Text(TMP),"Hero, you have nothing in your bag."
+EmptyTip_EmptyTipText_Text(TMP),"Hero, you have nothing in your bag.",จอมยุทธ กระเป๋าของท่านว่างเปล่า
 EscUI_EscUI_Main_Resume_Text(TMP),Return,ย้อนกลับ
 EscUI_EscUI_Main_Info_Text(TMP),Information,ข้อมูล
 EscUI_EscUI_Main_Save_Text(TMP),Save,บันทึก
@@ -945,8 +945,8 @@ UIInputWindow_info,Are you sure you want to create a new save?,แน่ใจ�
 UIInputWindow_InputField(TMP)_TextArea_Placeholder,Enter text...,ป้อนข้อความ...
 UIInputWindow_InputField(TMP)_TextArea_Text,Auto Save 1,บันทึกอัตโนมัติ 1
 UISelectItemConfirm_Image3_Text(TMP),Select Item,เลือกสิ่งของ
-UISelectItemConfirm_ItemDisplayZone_EmptyTip_EmptyTipText_Text(TMP),"Hero, you have nothing in your bag."
-UISelectItemConfirm_ItemDisplayZone__EmptyTip_EmptyTipText_Text(TMP),"Hero, you have nothing in your bag."
+UISelectItemConfirm_ItemDisplayZone_EmptyTip_EmptyTipText_Text(TMP),"Hero, you have nothing in your bag.",จอมยุทธ กระเป๋าของท่านว่างเปล่า
+UISelectItemConfirm_ItemDisplayZone__EmptyTip_EmptyTipText_Text(TMP),"Hero, you have nothing in your bag.",จอมยุทธ กระเป๋าของท่านว่างเปล่า
 UISelectItemConfirm_ItemDisplayZone__ViewPort_Grid_Item_Text(TMP),22,22
 UISelectItemConfirm_ItemDisplayZone__ViewPort_Grid_Item(1)_Text(TMP),22,22
 UISelectItemConfirm_ItemDisplayZone__ViewPort_Grid_Item(2)_Text(TMP),22,22
@@ -967,7 +967,7 @@ UIWideSelectConfirm_Grid_IconPrefab(3)_Text(TMP),2,2
 UIWideSelectConfirm_Grid_IconPrefab(3)_Name,One Two Three Four Five Six Seven,หนึ่งสองสามสี่ห้าหกเจ็ด
 UIAlchemistPanel_item_bg_name,Green Blood Sword,กระบี่เลือดมรกต
 UIAlchemistPanel_item_name_grey,Green Blood Sword,กระบี่เลือดมรกต
-UIAlchemistPanel_leftPanel_Tip_nullTips,You have not obtained any forging blueprints yet.
+UIAlchemistPanel_leftPanel_Tip_nullTips,You have not obtained any forging blueprints yet.,เจ้ายังไม่ได้รับแบบแปลนใดๆ ที่ไว้สำหรับสร้าง
 UIAlchemistPanel_leftPanel_check_dazao_txt,Can be refined
 UIAlchemistPanel_leftPanel_tittle_TypeItem_txt,Medicine,ยา
 UIAlchemistPanel_leftPanel_tittle_TypeItem_txt_c,Medicine,ยา
@@ -1019,7 +1019,7 @@ UICookPanel_complete_animation_name_txt,Weapon Name,ชื่ออาวุธ
 UICookPanel_complete_Button_txt,Click anywhere to close,คลิกที่ว่างเพื่อปิด
 UISundriesPanel_item_bg_name,Green Blood Sword,กระบี่เลือดมรกต
 UISundriesPanel_item_name_grey,Green Blood Sword,กระบี่เลือดมรกต
-UISundriesPanel_leftPanel_Tip_nullTips,You have not obtained any forging blueprints yet.
+UISundriesPanel_leftPanel_Tip_nullTips,You have not obtained any forging blueprints yet.,เจ้ายังไม่ได้รับแบบแปลนใดๆ ที่ไว้สำหรับสร้าง
 UISundriesPanel_leftPanel_check_dazao_txt,Can be made,สร้างได้
 UISundriesPanel_leftPanel_tittle_tag,Miscellaneous List
 UISundriesPanel_rightPanel_bg_tag,Crafting Level:  Level
@@ -1031,7 +1031,7 @@ UISundriesPanel_rightPanel_ForgeBtn_txt,Start Crafting
 UISundriesPanel_upTips_txt,Insufficient Material,วัตถุดิบไม่พอ
 UITailorPanel_item_bg_name,Green Blood Sword,กระบี่เลือดมรกต
 UITailorPanel_item_name_grey,Green Blood Sword,กระบี่เลือดมรกต
-UITailorPanel_leftPanel_Tip_nullTips,You have not obtained any forging blueprints yet.
+UITailorPanel_leftPanel_Tip_nullTips,You have not obtained any forging blueprints yet.,เจ้ายังไม่ได้รับแบบแปลนใดๆ ที่ไว้สำหรับสร้าง
 UITailorPanel_leftPanel_check_dazao_txt,Can be tailored
 UITailorPanel_leftPanel_tittle_tag,Clothing List
 UITailorPanel_rightPanel_bg_tag,Tailoring Level:  Level
@@ -1821,7 +1821,7 @@ UIForgePanel_complete_Mask_panel_4_1_3,Attack     1000
 UIForgePanel_complete_Button_txt,Click on Blank Space to Close
 UIFormulaPanel_item_bg_name,Green Blood Sword,กระบี่เลือดมรกต
 UIFormulaPanel_item_name_grey,Green Blood Sword,กระบี่เลือดมรกต
-UIFormulaPanel_leftPanel_Tip_Text(TMP),You have not obtained any forging blueprints yet.
+UIFormulaPanel_leftPanel_Tip_Text(TMP),You have not obtained any forging blueprints yet.,เจ้ายังไม่ได้รับแบบแปลนใดๆ ที่ไว้สำหรับสร้าง
 UIFormulaPanel_leftPanel_check_dazao_txt,Can Craft,สามารถผลิต
 UIFormulaPanel_leftPanel_tittle_tag,Type,ประเภท
 UIFormulaPanel_leftPanel_dorpBg_Item_txt,All,ทั้งหมด

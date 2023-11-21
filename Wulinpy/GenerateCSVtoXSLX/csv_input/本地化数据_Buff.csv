@@ -866,7 +866,7 @@ BuffInfo_伙伴特征舍身修罗,"When HP is below 25%, uncontrollable in battl
 BuffInfo_伙伴特征杀生护生,"If an enemy is killed during an Attack, 20 points of Spirit are added.",ถ้าการโจมตีสังหารศัตรู ได้รับพลังใจ 20 แต้ม
 BuffInfo_伙伴特征内劲反震,"After being hit, 10 points of Internal Injury effect are applied to the attacker.",เมื่อถูกโจมตี ผู้โจมตีจะได้รับสถานะบาดเจ็บภายใน 10 แต้ม
 BuffInfo_伙伴特征随心所欲,Can learn any Manual regardless of learning conditions; Pierce the restriction of Accuracy decrease due to insufficient Weapon conditions; Pierce the restriction of Weapon equipment when releasing martial arts.,เรียนรู้คัมภีร์ได้โดยไม่สนใจเงื่อนไข สวมใส่อาวุธได้โดยไม่สูญเสียความแม่นยำหากไม่ผ่านเงื่อนไง สามารถใช้วรยุทธได้โดยไม่สนใจประเภทอาวุธ
-BuffInfo_伙伴特征一招生死,"The first Attack in battle is guaranteed to Combo, Accuracy, Critical.",การโจมตีแรกในการต่อสู้ จะติด โจมตีต่อเนื่อง โดน คริติคอล แน่นอน
+BuffInfo_伙伴特征一招生死,"The first Attack in battle is guaranteed to Combo, Accuracy, Critical.","การโจมตีแรกในการต่อสู้จะโจมตีต่อเนื่อง ,คริติคอล, และโดนแน่นอน"
 BuffInfo_伙伴特征剑意勃发,"Gain an extra 10 points of Spirit when triggering Critical, Evasion, Parry in battle.",เมื่อคริติคอล หลบหลีก ปัดป้อง ในการต่อสู้ ได้รับพลังใจเพิ่มขึ้น 10 แต้ม
 BuffInfo_伙伴特征战意凛凛,Spirit gain <#29F161>increases by an additional 100%</color>.,ได้รับพลังใจ <#29F161>เพิ่มขึ้นอีก 100%</color>
 BuffInfo_伙伴特征杀意盎然,15% chance of instant death when attacking targets below level 15.,มีโอกาส 15% ที่จะสังหารเป้าหมายที่เลเวลต่ำกว่า 15 ทันที
@@ -884,7 +884,7 @@ BuffInfo_伙伴特征气场威压,Causes a 15% decrease in Action Speed to enemi
 BuffInfo_伙伴特征气场威压_光环,Action Speed decreases by 15%.,ความเร็วท่าร่างลดลง 15%
 BuffInfo_伙伴特征气劲贯体,Reduce enemy's <#FE2929>100 points of Qi</color> when attacked,เมื่อโจมตี <#FE2929>ลดค่าปราณเคลื่อนที่ของศัตรู 100 แต้ม</color>
 BuffInfo_伙伴特征绵里藏针,Reflect 25% of the damage back to the opponent each time you are attacked.,สะท้อนความเสียหาย 25% กลับไปยังศัตรูเมื่อถูกโจมตี
-BuffInfo_伙伴特征皇室贵胄,6 generals appear on the field after the first action.,6 ขุนพลจะปรากฏตัวหลังจบตาแรก
+BuffInfo_伙伴特征皇室贵胄,6 generals appear on the field after the first action.,หลังจบตาแรก 6 ขุนพลจะปรากฏตัวมาช่วยเหลือในการต่อสู่
 BuffInfo_伙伴特征侠肝义胆,"After joining the team, for every 10 points increase in the protagonist's Righteous, the final damage increases by 1% during Attack, and for every 10 points decrease, the final damage decreases by 1%.",หลังจากเข้าร่วมทีม ทุกๆ 10 แต้มที่เพิ่มขึ้นของค่า คุณธรรม ของตัวเอก จะทำให้สร้างความเสียหายได้เพิ่มขึ้น 1% และทุกๆ 10 แต้มที่ลดลง จะสร้างความเสียหายได้ลดลง 1%
 BuffInfo_伙伴特征御剑精通,<#29F161>Sword+15</color>.,<#29F161>กระบี่ +15</color>
 BuffInfo_伙伴特征熟能生巧,The <#29F161>EXP gained from defeating the opponent in battle increases by 15%</color>.,<#29F161>ค่าประสบการณ์ที่ได้จากการสังหารศัตรูในการต่อสู้เพิ่มขึ้น 15%</color>
@@ -893,7 +893,7 @@ BuffInfo_伙伴特征身先士卒,"During battle, <#29F161>start with 100 energy
 BuffInfo_伙伴特征发挥失常,The final damage during Attack fluctuates randomly between 50% and 175%.,ความเสียหายผันผวนระหว่าง 50% - 175%
 BuffInfo_伙伴特征皇权特许,"During Attack, reduce the enemy's <#FE2929>energy by 75 points</color>.","ระหว่างโจมตี, ลดค่าปราณเคลื่อนที่ของ <#FE2929>ศัตรูลง 75 แต้ม</color>"
 BuffInfo_伙伴特征身如鬼魅,<#29F161>Action Speed+20</color>.,<#29F161>ความเร็วท่าร่าง +20</color>
-BuffInfo_伙伴特征随手烟尘,"During Attack, inflict <#FE2929>10 points of Blinded on the enemy</color>.",เมื่อโจมตี สร้างสถานะ <#FE2929>ตาบอด 10 แต้มแก่ศัตรู</color>
+BuffInfo_伙伴特征随手烟尘,"During Attack, inflict <#FE2929>10 points of Blinded on the enemy</color>.",ระหว่างโจมตี สร้างสถานะ <#FE2929>ตาบอด 10 แต้มแก่ศัตรู</color>
 BuffInfo_伙伴特征长兵奇才,<#29F161>Long+30</color>.,<#29F161>อาวุธยาว +30</color>
 BuffInfo_伙伴特征邋遢道人,"Immunity to Internal Injury, Seal, PierceBack attack, PierceSide attack.",ไม่ได้รับผล บาดเจ็บภายใน สกัดจุด โจมตีด้านหลัง โจมตีด้านข้าง
 BuffInfo_伙伴特征先天罡气,"Each time you are attacked, <#29F161>15% of the damage will be reflected back to the opponent</color>.",<#29F161>สะท้อนความเสียหาย 25% กลับไปยังศัตรู</color> เมื่อถูกโจมตี
@@ -928,7 +928,7 @@ BuffInfo_伙伴特征志得意满,Guaranteed accuracy when at full HP.,เมื
 BuffInfo_伙伴特征飞燕凌波,Action Speed increased by 10%.,ความเร็วท่าร่างเพิ่มขึ้น 10%
 BuffInfo_伙伴特征身轻如燕,"After entering the battle, Movement Range increases by 1 square.",หลังจากเข้าสู่การต่อสู้ ระยะการเคลื่อนที่จะเพิ่มขึ้น 1 ช่อง
 BuffInfo_伙伴特征特异毒体,Toxicology limit 500.,ศาสตร์พิษสูงสุดเพิ่มเป็น 500
-BuffInfo_伙伴特征皇室贵胄2,6 generals appear on the field after the first action.,6 ขุนพลจะปรากฏตัวหลังจบตาแรก
+BuffInfo_伙伴特征皇室贵胄2,6 generals appear on the field after the first action.,หลังจบตาแรก 6 ขุนพลจะปรากฏตัวมาช่วยเหลือในการต่อสู่
 BuffInfo_伙伴特征扬名立万,"Good at helping others gain fame, can help the protagonist gain an extra 15% experience when gaining Fame Experience after joining the team.",เก่งในการช่วยผู้อื่นสร้างชื่อเสียง สามารถช่วยตัวละครเอกให้ได้รับค่าประสบการณ์ชื่อเสียงเพิ่มขึ้น 15% เมื่อเข้าร่วมทีม
 BuffInfo_伙伴特征去伪存真,"When Appraise Artwork Skill is below level 4, the skill effect is increased by an additional level.",เมื่อทักษะประเมินภาพวาดต่ำกว่าระดับ 4 ผลของทักษะนี้เพิ่มอีก 1 เลเวล
 BuffInfo_伙伴特征一目十行,The experience required to learn martial arts is reduced by 25%.,ค่าประสบการณ์ในการเรียนรู้วรยุทธลดลง 25%
@@ -950,7 +950,7 @@ BuffInfo_伙伴特征生无可恋,"When Ling Mengdie is seriously injured and le
 BuffInfo_伙伴特征书狂画痴,"When Hua Chi is on the field and alive, the final damage increases by 15%, and Action Speed increases by 25.","เมื่อ หัวฉี อยู่ในการต่อสู้และยังมีชีวิตอยู่, ความเสียหายสุดท้ายเพิ่มขึ้น 15%, ความเร็วท่าร่างเพิ่มขึ้น 25."
 BuffInfo_伙伴特征银钩铁画,Causes <#FE2929>10 points of Sealed</color> to the enemy when Attacking.,สร้างสถานะ <#FE2929>สกัดจุด 10 แต้ม</color> เมื่อโจมตีศัตรู
 BuffInfo_伙伴特征画痴书狂,"Shu Kuang is present and alive in the same camp, <#29F161>final damage increases by 15%</color>, <#29F161>action speed +25</color>.",เมื่อ Shu Kuang อยู่ในทีมและมีชีวิตอยู่，<#29F161>ค่าความเสียหายสุดท้ายเพิ่มขึ้น 15%</color>，<#29F161>ความเร็วท่าร่าง +25</color>。
-BuffInfo_伙伴特征妙笔生花,"During Attack, inflict <#FE2929>10 points of Blinded on the enemy</color>.",เมื่อโจมตี สร้างสถานะ <#FE2929>ตาบอด 10 แต้มแก่ศัตรู</color>
+BuffInfo_伙伴特征妙笔生花,"During Attack, inflict <#FE2929>10 points of Blinded on the enemy</color>.",ระหว่างโจมตี สร้างสถานะ <#FE2929>ตาบอด 10 แต้มแก่ศัตรู</color>
 BuffInfo_伙伴特征天生媚骨,"When attacking, there is a 15% chance to Charm non-boss targets, lasting for one action.","เมื่อโจมตี มีโอกาส 15% ที่จะทำให้เป้าหมายที่ไม่ใช่หัวหน้าติดสถานะ ""ลุ่มหลง"" ผลจะคงอยู่หนึ่งตา"
 BuffInfo_伙伴特征天生媚骨_附属1,"Lost mind, help the enemy attack their own people.",เสียสติ ช่วยเหลือศัตรูโจมตีพวกเดียวกัน
 BuffInfo_伙伴特征怜香惜玉,"When attacked by male enemies, only half of the damage is received.",เมื่อถูกบุรุษโจมตี ได้รับความเสียหายเพียงครึ่งเดียว
@@ -2701,7 +2701,7 @@ BuffName_伙伴特征舍身修罗,Shura sacrifice,สังเวยอสุร
 BuffName_伙伴特征杀生护生,Kill to protect,สังหารเพื่อปกป้อง
 BuffName_伙伴特征内劲反震,Internal impact,กระแทกภายใน
 BuffName_伙伴特征随心所欲,Arbitrarily,ดังใจปรารถนา
-BuffName_伙伴特征一招生死,Life or death,ความเป็นความตาย
+BuffName_伙伴特征一招生死,Life or death,อยู่หรือตาย
 BuffName_伙伴特征剑意勃发,Sword Qi Explosion,ระเบิดกระบี่ปราณ
 BuffName_伙伴特征战意凛凛,Raging spirit,จิตวิญญาณแห่งการต่อสู้
 BuffName_伙伴特征杀意盎然,Killing intent,จิตสังหาร
@@ -3508,11 +3508,11 @@ BuffInfo_伙伴特征蚍蜉城主,"After entering battle, characters from Dragon
 BuffInfo_伙伴特征蚍蜉城主_光环,"<#29F161>Damage increases by 25% when attacking, damage taken reduces by 20% when attacked, action speed increases by 15%</color>.",<#29F161>ความเสียหายเพิ่มขึ้น 25% เมื่อโจมตี ความเสียหายที่ได้รับลดลง 20% เมื่อถูกโจมตี ความเร็วท่าร่างเพิ่มขึ้น 15%</color>
 BuffInfo_伙伴特征以战养战,"During battle, for each enemy killed, you can recover 10% of your maximum HP.",ระหว่างการต่อสู้ ทุกครั้งที่สังหารศัตรู จะฟื้นฟู HP 10% ของ HP สูงสุด
 BuffInfo_伙伴特征形如鬼魅,<#29F161>Action speed increases by 20%</color>.,<#29F161>ความเร็วท่าร่างเพิ่มขึ้น 20</color>
-BuffInfo_伙伴特征不择手段,"When attacking, inflict <#FE2929>10 points of Bleeding, 10 points of Poisoned</color> on the enemy.",เมื่อโจมตี ทำให้ศัตรูได้รับ <#FE2929>เลือดไหล 10 แต้ม และพิษ 10 แต้ม</color>
+BuffInfo_伙伴特征不择手段,"When attacking, inflict <#FE2929>10 points of Bleeding, 10 points of Poisoned</color> on the enemy.",เมื่อโจมตี สร้างสถานะ <#FE2929>เลือดไหล 10 แต้ม และพิษ 10 แต้ม</color> แก่ศัตรู
 BuffInfo_伙伴特征斩草除根,"When attacking, a critical hit will definitely trigger a combo.",เมื่อโจมตี การโจมตีคริติคอลจะโจมตีต่อเนื่องแน่นอน
 BuffInfo_伙伴特征好战嗜杀,"When attacking, for each additional point of Spirit, <#29F161>final damage increases by 0.3%</color>.",เมื่อโจมตี สำหรับแต่ละแต้มของพลังใจที่เพิ่มขึ้น <#29F161>ความเสียหายสุดท้ายจะเพิ่มขึ้น 0.3%</color>
 BuffInfo_伙伴特征玉手芊芊,"When attacking, inflict <#FE2929>10 points of Internal Injury, 10 points of Sealed</color> on the enemy.","เมื่อโจมตี, สร้างสถานะ <#FE2929>บาดเจ็บภายใน 10 แต้ม และสกัดจุด 10 แต้ม</color> แก่ศัตรู"
-BuffInfo_伙伴特征摇曳多姿,"When attacked, trigger Evasion, gain an additional 10 points of Spirit, and increase energy by 100 points.",เมื่อถูกโจมตี เรียกใช้การหลบหลีก จะได้รับค่าพลังใจเพิ่มอีก 10 แต้ม และได้รับค่าปราณเคลื่อนที่ 100 แต้ม
+BuffInfo_伙伴特征摇曳多姿,"When attacked, trigger Evasion, gain an additional 10 points of Spirit, and increase energy by 100 points.",เมื่อถูกโจมตี เกิดการหลบหลีก จะได้รับค่าพลังใจเพิ่มอีก 10 แต้ม และได้รับค่าปราณเคลื่อนที่ 100 แต้ม
 BuffInfo_伙伴特征咫尺天涯,"When attacked, for every square the enemy is away from you, your <#29F161>Evasion temporarily increases by 10%</color>.","เมื่อถูกโจมตี, ในทุกๆ ช่องของศัตรูจะอยู่ห่างจากคุณ <#29F161>การหลบหลีกของคุณจะเพิ่มขึ้น 10% ชั่วคราว</color>"
 BuffInfo_千钧之力,Basic Attack increased by 10%.,เพิ่มพลังโจมตีพื้นฐาน 10%
 BuffInfo_气旺血足,<#29F161>Base Defense increases by 10%</color>.,<#29F161>พลังป้องกันพื้นฐานเพิ่มขึ้น 10%</color>
@@ -3653,21 +3653,21 @@ BuffName_剧情雨露均沾,Benefit equally,แบ่งปันผลประ
 BuffName_剧情特邀嘉宾,Special Guest,แขกพิเศษ
 BuffName_伙伴特征忍辱负重,Bear humiliations and carry burdens,แบกรับความอัปยศอดสู
 BuffName_伙伴特征百折不挠,Indomitable,ไม่ย่อท้อ
-BuffName_伙伴特征不忘初心,Steadfast,มั่นคง
+BuffName_伙伴特征不忘初心,Steadfast,แน่วแน่
 BuffName_伙伴特征洞悉弱点,Exploiting Weakness,แสวงหาจุดอ่อน
 BuffName_伙伴特征深藏不露,Mysterious,ลึกลับ
-BuffName_伙伴特征武士精神,Martial Spirit,พลังใจยุทธ์
-BuffName_伙伴特征以攻代守,Defensive Attack,โจมตีป้องกัน
-BuffName_伙伴特征蚍蜉城主,Dragonfly Castle Lord,เจ้าแห่งเมืองแมลงปอ
-BuffName_伙伴特征蚍蜉城主_光环,Dragonfly Castle Lord,เจ้าแห่งเมืองแมลงปอ
-BuffName_伙伴特征以战养战,Fuel War with Warfare,เลี้ยงชีพด้วยการสู้รบ
-BuffName_伙伴特征形如鬼魅,Ghostly Body,เงาหลอน
-BuffName_伙伴特征不择手段,Unscrupulous,ไร้ยางอาย
-BuffName_伙伴特征斩草除根,Total Annihilation,กวาดล้างทั้งหมด
+BuffName_伙伴特征武士精神,Martial Spirit,จิตวิญญาณจอมยุทธ์
+BuffName_伙伴特征以攻代守,Defensive Attack,โจมตีคือป้องกัน
+BuffName_伙伴特征蚍蜉城主,Dragonfly Castle Lord,เจ้าเมืองแมลงปอ
+BuffName_伙伴特征蚍蜉城主_光环,Dragonfly Castle Lord,เจ้าเมืองแมลงปอ
+BuffName_伙伴特征以战养战,Fuel War with Warfare,เลี้ยงชีพด้วยสงคราม
+BuffName_伙伴特征形如鬼魅,Ghostly Body,ร่างภูติ
+BuffName_伙伴特征不择手段,Unscrupulous,สามหาว
+BuffName_伙伴特征斩草除根,Total Annihilation,ถอนรากถอนโคน
 BuffName_伙伴特征好战嗜杀,Bloodthirsty,กระหายเลือด
-BuffName_伙伴特征玉手芊芊,Jade Finger,นิ้วหยก
-BuffName_伙伴特征摇曳多姿,Elegant Visage,แกว่งไปมา
-BuffName_伙伴特征咫尺天涯,"So Close, Yet Worlds Apart",ใกล้ชิดกันเท่าโลกห่าง
+BuffName_伙伴特征玉手芊芊,Jade Finger,มือหยกมรกต
+BuffName_伙伴特征摇曳多姿,Elegant Visage,เคลื่อนหลบสง่างาม
+BuffName_伙伴特征咫尺天涯,"So Close, Yet Worlds Apart",ใกล้กันเท่าโลกห่าง
 BuffName_千钧之力,Great strength,พลังพันชั่ง
 BuffName_气旺血足,Vitality and vigor,พลังเต็มเปี่ยม
 BuffName_颖悟绝伦,Extraordinary insight,ความเข้าใจไร้ผู้เปรียบ
