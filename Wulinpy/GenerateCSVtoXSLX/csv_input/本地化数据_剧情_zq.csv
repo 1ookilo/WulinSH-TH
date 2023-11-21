@@ -643,13 +643,13 @@ Role2-5_1_2,"Our general is the most considerate of his subordinates, everyone i
 Role2-5_1_3,"The more you work for the General's mansion, the higher your status in the General's mansion, and the more generous your salary will be.",ยิ่งเจ้าทำงานให้กับจวนแม่ทัพมาก สถานะในจวนของเจ้าก็จะยิ่งมากตาม และรายได้ก็จะยิ่งมากเช่นกัน
 Role2-5_2_1,"Kid, you've already received your salary today, what are you doing here again!\nDon't think about muddling through under my watch!",เจ้าหนู เจ้าได้เบี้ยเลี้ยงของวันนี้ไปแล้วนี่ ยังมัวทำอะไรอยู่ที่นี่อีก!\nอย่าคิดว่าจะก่อเรื่องได้ขณะที่ข้าคอยดูแล!
 Role2-5_3_1,Let me see how much salary you should receive based on your current position...,ไหนดูซิตำแหน่งเจ้าตอนนี้ต้องได้เบี้ยเลี้ยงเท่าไร
-Role2-5_4_1,"You are currently a Du Tou, and your salary is 120 Wen."
-Role2-5_5_1,"You are currently a Ti Xie, and your salary is 260 Wen."
-Role2-5_6_1,"You are currently a Xiao Wei, and your salary is 580 Wen."
-Role2-5_7_1,"You are currently a Yu Hou, and your salary is 1350 Wen.\nThe general appreciates you so much, don't let him down."
-Role2-5_8_1,"You are currently a You Ji General, and your salary is 3300 Wen.\nKid, don't you feel hot with so much money every day?"
+Role2-5_4_1,"You are currently a Du Tou, and your salary is 120 Wen.",ตอนนี้เจ้าเป็น ตู้โถวแล้ว เบี้ยเลี้ยงเจ้า 120 อีแปะ
+Role2-5_5_1,"You are currently a Ti Xie, and your salary is 260 Wen.",ตอนนี้เจ้าเป็น ตี่เซี่ยแล้ว เบี้ยเลี้ยงเจ้า 260 อีแปะ
+Role2-5_6_1,"You are currently a Xiao Wei, and your salary is 580 Wen.",ตอนนี้เจ้าเป็น เสี่ยวเว่ยแล้ว เบี้ยเลี้ยงเจ้า 580 อีแปะ
+Role2-5_7_1,"You are currently a Yu Hou, and your salary is 1350 Wen.\nThe general appreciates you so much, don't let him down.",ตอนนี้เจ้าเป็น ยู่โหวแล้ว เบี้ยเลี้ยงเจ้า 1350 อีแปะ\nท่านแม่ทัพชื่นชมเจ้านัก อย่าทำให้ท่านผิดหวังล่ะ
+Role2-5_8_1,"You are currently a You Ji General, and your salary is 3300 Wen.\nKid, don't you feel hot with so much money every day?",ตอนนี้เจ้าเป็น แม่ทัพโหยวจี่แล้ว เบี้ยเลี้ยงเจ้า 3300 อีแปะ\nเจ้าหนู ได้เงินมากเช่นนี้ทุกวันไม่รู้สึกหนักบ้างรึ
 Role2-6_1_1,"The higher your position, the more daily salary, and the wider range of tasks you can choose.\nAs long as you do your job conscientiously, the general will not only promote you at the right time, but also give you more rewards!",ยิ่งมีเจ้ามีตำแหน่งสูง เบี้ยเลี้ยงแต่ละวันก็ยิ่งมาก และเจ้าก็เลือกงานได้มากขึ้นด้วย\nตราบใดที่เจ้าทำงานอย่างระมัดระวัง ไม่เพียงแต่ท่านแม่ทัพจะเลื่อนขั้นให้เจ้าเมื่อถึงเวลา เจ้ายังจะได้รางวัลมากขึ้นด้วย!
-Role2-6_2_1,"Are you not satisfied with being a You Ji General at such a young age?\nAs long as you wholeheartedly assist the general, you also have the opportunity to become a high-ranking official!"
+Role2-6_2_1,"Are you not satisfied with being a You Ji General at such a young age?\nAs long as you wholeheartedly assist the general, you also have the opportunity to become a high-ranking official!",ได้เป็นแม่ทัพโหยวจี่ตั้งแต่อายุน้อยเช่นนี้ เจ้ายังไม่พอใจอีกรึ\nแต่ตราบใดที่เจ้ายังจงรักภักดีต่อข้าแม่ทัพ เจ้าย่อมมีโอกาสได้เป็นข้าราชการตำแหน่งสูงแน่นอน!
 Role2-6_3_1,"{PlayerName}, the general appreciates your hard work and specially appoints you as the <color=#c44b0e>You Ji General</color>.",{PlayerName} ท่านแม่ทัพชื่นชมความมุ่งมั่นในการทำงานของเจ้า จึงได้แต่งตั้งเจ้าเป็น <color=#c44b0e>แม่ทัพ โหยวจี้</color> โดยเฉพาะ
 Role2-6_4_1,"Thank you, General!",ขอบคุณ ท่านแม่ทัพ!
 Role2-6_5_1,"{PlayerName}, the general appreciates your hard work and specially appoints you as the <color=#c44b0e>Du Tou</color>.",{PlayerName} ท่านแม่ทัพชื่นชมความมุ่งมั่นในการทำงานของเจ้า จึงได้แต่งตั้งเจ้าเป็น <color=#c44b0e>ตู้โถว</color> โดยเฉพาะ
@@ -740,25 +740,25 @@ Role2-15_2_4,"There is no complete egg under the overturned nest. Even if the ge
 Role2-15_2_5,"This matter is of great importance, and this general needs to think it over carefully.",นี่ถือเป็นเรื่องสำคัญมาก ข้าแม่ทัพต้องคิดให้ดีซะก่อน
 Role2-15_3_1,"You don't think your choice at this moment will lead to any consequences.\nAfter all, how could Lü Wenhuan completely trust you with such a major decision?\nBut what you don't know is that the speaker is unintentional, but the listener is intentional.\nYour choice is firmly remembered by those with ulterior motives..."
 Role2-15_4_1,"General, I believe whether to surrender or not depends on what kind of bargaining chip Yan Kingdom can offer.",ท่านแม่ทัพ ข้าคิดว่าควรจะยอมแพ้หรือไม่ ควรขึ้นอยู่กับข้อแลกเปลี่ยนที่ฝ่ายอาณาจักรจะเสนอให้ท่านมากกว่า
-Role2-15_4_2,"The general is not a royal family member, nor has he been granted a title. Even if the dynasty changes, the general is still the general, still a high official riding a fine Horse. If you refuse Yan Kingdom's surrender, Yan Kingdom will be furious and the army will come to the city. By then, the general may not even be able to keep his whole body."
-Role2-15_4_3,"But in doing so, a disgraceful note about this general will be left in the history books after a thousand autumns..."
-Role2-15_4_4,"History is written by the victors. When Yan country unifies the world and reshapes the mountains and rivers in the future, the general will be seen as a servant of the dragon who abandoned the darkness and embraced the light. Who would dare to mention the past?"
+Role2-15_4_2,"The general is not a royal family member, nor has he been granted a title. Even if the dynasty changes, the general is still the general, still a high official riding a fine Horse. If you refuse Yan Kingdom's surrender, Yan Kingdom will be furious and the army will come to the city. By then, the general may not even be able to keep his whole body.",ข้าแม่ทัพไม่ใช่ราชสกุลแล้วก็ไม่ได้มีตำแหน่งใหญ่อะไร ถึงจะเปลี่ยนราชวงศ์ ข้าแม่ทัพก็ยังคงเป็นแม่ทัพ ยังเป็นผู้ที่เลือกนายที่ดี หากเจ้าปฏิเสธไม่ยอมแพ้อาณาจักรหยาน พวกมันต้องโกรธเกรี้ยวยกทัพมาแน่ เช่นนั้น ข้าแม่ทัพคงไม่อาจมีร่างกายครบถ้วนสมบูรณ์แล้ว
+Role2-15_4_3,"But in doing so, a disgraceful note about this general will be left in the history books after a thousand autumns...",แต่หากทำเช่นนั้น เรื่องเสียเกียรตินี้คงจะได้ถูกบันทึก และกล่าวขาน คอยตราหน้าข้าไว้ในหนังสือประวัติศาสตร์ไปอีกนานแสนนาน...
+Role2-15_4_4,"History is written by the victors. When Yan country unifies the world and reshapes the mountains and rivers in the future, the general will be seen as a servant of the dragon who abandoned the darkness and embraced the light. Who would dare to mention the past?",ผู้ชนะได้เขียนประวัติศาสตร์ เมื่อใดอาณาจักรหยานสามารถรวบรวมโลกทั้งใบไว้ได้ ท่านแม่ทัพก็จะถือเป็นผู้กลับใจสู่แสงสว่าง ผู้เลือกจะรับใช้มังกรสวรรค์ จะมีใครกล้ากล่าวถึงอดีตอันใดอีก
 Role2-15_4_5,"This matter is of great importance, and this general needs to think it over carefully.",นี่ถือเป็นเรื่องสำคัญมาก ข้าแม่ทัพต้องคิดให้ดีซะก่อน
-Role2-16_1_1,"{PlayerName}, this general has received a secret report that Yan country is about to launch a southern invasion. Chuxiang City, located in a strategic location, is the gateway to Wu and Yue, and will undoubtedly be the first to bear the brunt of the attack."
-Role2-16_1_2,This general has made up his mind to share the fate of Chuxiang City!
-Role2-16_1_3,"{PlayerName}, you must complete the tasks that this general assigns to you every day. The so-called trained army is used for a moment, and you will see the effect when you fight against the Yan army in the future!"
-Role2-20_1_1,"{PlayerName}, have you heard of a saying?"
-Role2-20_1_2,Which saying is the general referring to?
-Role2-20_1_3,How can one sleep peacefully by the side of one's bed?
-Role2-20_1_4,"What do you mean, general?"
-Role2-20_1_5,"The Dirty Street force has been at a stalemate with this general in Chuxiang City for many years. Jiang Nanguai, that old invincible, has repeatedly instructed his subordinates to oppose the General's mansion and sabotage this general's plans."
-Role2-20_1_6,"Now the situation is turbulent, and a little carelessness will lead to nothing. This general will no longer tolerate traitors. There can only be one ruler in Chuxiang City, and that is me - Lü Wenhuan!"
-Role2-20_1_7,"The general wants you to completely eradicate the <color=#c44b0e>Dirty Street</color> forces, there can't be a trace of trouble within Chuxiang City!"
+Role2-16_1_1,"{PlayerName}, this general has received a secret report that Yan country is about to launch a southern invasion. Chuxiang City, located in a strategic location, is the gateway to Wu and Yue, and will undoubtedly be the first to bear the brunt of the attack.",{PlayerName} ข้าแม่ทัพได้รับรายงานลับว่าอาณาจักรหยานกำลังจะเริ่มรุกรานทิศใต้ เมืองฉู่เซียงนั้นตั้งอยู่ในตำแหน่งที่สำคัญต่อการรบมาก เป็นทั้งทางเข้าของ อู่ และ เย่ว ย่อมต้องเป็นเป้าหมายแรกของการโจมตีอย่างแน่นอน
+Role2-16_1_2,This general has made up his mind to share the fate of Chuxiang City!,ข้าแม่ทัพตัดสินใจได้แล้ว ข้าจะขอร่วมชะตากรรมกับเมืองฉู่เซียงนี้!
+Role2-16_1_3,"{PlayerName}, you must complete the tasks that this general assigns to you every day. The so-called trained army is used for a moment, and you will see the effect when you fight against the Yan army in the future!",{PlayerName} เจ้าต้องทำงานที่ข้าแม่ทัพมอบหมายให้เจ้าทุกวัน การฝึกฝนกองทัพนี้อาจจะใช้เวลาไม่นานนัก แต่เจ้าจะได้เห็นผลของมันเมื่อเราต้องสู้กับกองทัพหยานในภายหลัง
+Role2-20_1_1,"{PlayerName}, have you heard of a saying?",{PlayerName} เจ้าเคยได้ยินมาบ้างหรือไม่
+Role2-20_1_2,Which saying is the general referring to?,ท่านแม่ทัพหมายถึงอันไหนล่ะ
+Role2-20_1_3,How can one sleep peacefully by the side of one's bed?,จะให้ข้านอนหลับโดยที่มีคนอยู่ข้างเตียงได้ยังไง
+Role2-20_1_4,"What do you mean, general?",ท่านแม่ทัพหมายความว่ายังไง
+Role2-20_1_5,"The Dirty Street force has been at a stalemate with this general in Chuxiang City for many years. Jiang Nanguai, that old invincible, has repeatedly instructed his subordinates to oppose the General's mansion and sabotage this general's plans.",พวกตรอกเล้าหมูนั้นเป็นหอกข้างแคร่ของข้าแม่ทัพในเมืองฉู่เซียงมาหลายปี เจียงหนานไกว่ ไอเจ้าแก่ปีศาจนั่นคอยสั่งการลูกน้องให้ขัดขวางจวนแม่ทัพ และแผนการของข้ามาตลอด
+Role2-20_1_6,"Now the situation is turbulent, and a little carelessness will lead to nothing. This general will no longer tolerate traitors. There can only be one ruler in Chuxiang City, and that is me - Lü Wenhuan!",ตอนนี้สถานการณ์กำลังวุ่นวาย หากไม่ระมัดระวังเพียงเล็กน้อยก็อาจทำให้ทุกอย่างสูญสิ้น ข้าแม่ทัพจะไม่อดทนต่อพวกกบฏอีกต่อไป เมืองฉู่เซียงมีผู้นำได้เพียงคนเดียวเท่านั้น นั่นคือข้า ลู่เหวินหวน!
+Role2-20_1_7,"The general wants you to completely eradicate the <color=#c44b0e>Dirty Street</color> forces, there can't be a trace of trouble within Chuxiang City!",ข้าแม่ทัพต้องการให้เจ้ากวาดล้างพวก <color=#c44b0e>ตรอกเล้าหมู</color> ให้สิ้นซากซะ ไม่ให้มีตัวปัญหาเหลืออยู่ในเมืองฉู่เซียงอีก!
 Role2-20_2_1,"Oh, your appeasement is really ruthless, the old monster knew this day would come, if you guys from the General's mansion want to wipe out Dirty Street, then give it a try."
-Role2-20_2_2,"Little brat, do your master's bidding well, be careful not to be sold without knowing it."
-Role2-20_2_3,"Old monster, still so much nonsense when death is imminent, is this your last words?"
-Role2-20_2_4,"The old monster is waiting for you in Dirty Street, if you have the ability, come on over!"
-Role2-20_2_5,Jiang Nanguai threw a smoke bomb and escaped.
+Role2-20_2_2,"Little brat, do your master's bidding well, be careful not to be sold without knowing it.",เจ้าเด็กเวรเอ๋ย ทำตามคำสั่งเจ้านายได้ดีนี่ ระวังอย่าถูกมันขายโดยไม่รู้ตัวซะล่ะ
+Role2-20_2_3,"Old monster, still so much nonsense when death is imminent, is this your last words?",ปีศาจเฒ่า จะตายแล้วยังพล่ามอะไรไร้สาระอีก หมดคำสั่งเสียแล้วสินะ
+Role2-20_2_4,"The old monster is waiting for you in Dirty Street, if you have the ability, come on over!",ปีศาจเฒ่าจะรอเจ้าอยู่ในตรอกเล้าหมู ถ้าเจ้ามีปัญญาล่ะก็ มาได้ทุกเมื่อ!
+Role2-20_2_5,Jiang Nanguai threw a smoke bomb and escaped.,เจียงหนานไกว่ขว้างระเบิดควัน และหนีไปได้
 Role2-20_3_1,"Go and do your job, don't disappoint the general!"
 Role2-20_3_2,Yes!
 Role2-20_4_1,"Let me tell you again, the general wants you to completely eradicate the Dirty Street forces, leave no one behind!",ข้าจะบอกเจ้าอีกครั้ง ท่านแม่ทัพอยากให้เจ้ากวาดล้างกำลังของตรอกเล้าหมูให้สิ้นซาก อย่าให้ใครเหลือรอด!
@@ -830,62 +830,62 @@ Role2-31-1_14_2,I didn't expect you to be a traitor and willingly become a dog o
 Role2-31-1_14_3,"You're wrong, I'm just cooperating with Yan, it's mutually beneficial."
 Role2-31-1_15_1,"Wan Yan Wuzhu, it seems that your Yan Yun Iron Army is nothing more than that, in the end, we still have to rely on our Nine Factions Sect to take action.","หวันหยานอู๋จู ดูเหมือนว่ากองทัพเหล็กหยานหยุนของเจ้าก็ไม่มีอะไรมากไปกว่านั้นเลย, ในท้ายที่สุดเรายังคงต้องพึ่งพานิกายเก้าฝ่ายของเราในการลงมือ."
 Role2-31-1_15_2,"Nine Factions Sect? You are from the Nine Factions Sect!\nI can't believe you've fallen so low, willingly becoming the lapdogs of the Yan Kingdom!"
-Role2-31-1_15_3,"You're mistaken, the Nine Factions Sect is merely cooperating with the Yan Kingdom, it's a mutually beneficial relationship."
-Role2-31-1_16_1,"Tie Mianren, it's time for the Nine Factions Sect to stop playing coy. If you want to cooperate with me, show some sincerity!"
-Role2-31-1_16_2,"Don't worry, leave the ones you can't handle to the Nine Factions Sect."
-Role2-31-1_17_1,"I made it just in time!\n{PlayerName}, you've worked hard."
-Role2-31-1_18_1,"Ye, Ye Family Battalion, Ye Pengju!"
+Role2-31-1_15_3,"You're mistaken, the Nine Factions Sect is merely cooperating with the Yan Kingdom, it's a mutually beneficial relationship.",เจ้าเข้าใจผิดแล้ว นิกายเก้าฝ่ายร่วมมือกับอาณาจักรหยานเพียงผิวเผินเท่านั้น เป็นเพียงความสัมพันธ์เพือผลประโยชน์ร่วม
+Role2-31-1_16_1,"Tie Mianren, it's time for the Nine Factions Sect to stop playing coy. If you want to cooperate with me, show some sincerity!",เตี่ย เหมียนเหริน ถึงเวลาที่พวกเจ้านิกายเก้าฝ่ายจะเลิกหลบๆซ่อนๆแล้ว หากต้องการร่วมมือกับข้า ก็แสดงความจริงใจมาซะ!
+Role2-31-1_16_2,"Don't worry, leave the ones you can't handle to the Nine Factions Sect.",ไม่ต้องกังวลไป ปล่อยพวกที่เจ้ารับมือไม่ไหวให้นิกายเก้าฝ่ายจัดการเอง
+Role2-31-1_17_1,"I made it just in time!\n{PlayerName}, you've worked hard.",ทันเวลาพอดี!\n{PlayerName} ขอบคุณเจ้ามาก
+Role2-31-1_18_1,"Ye, Ye Family Battalion, Ye Pengju!",เย่ กองพันตระกูลเย่ เย่เผิงจู!
 Role2-31-1_18_2,"Wan Yan Wuzhu, it's been many years, and we finally meet again today.\nLet's settle our unfinished battle from years ago today!","หวันหยานอู๋จู, หลายปีผ่านไปแล้ว และในที่สุดเราก็ได้พบกันอีกครั้งในวันนี้\nวันนี้มายุติการต่อสู้ที่ยังไม่เสร็จเมื่อหลายปีก่อนกันเถอะ!"
-Role2-31-1_18_3,"Even the strongest ants are still ants, a nest of ants can be wiped out in one fell swoop!"
-Role2-31-1_19_1,"How could this happen!\nTie Mianren, isn't the Nine Factions Sect supposed to be invincible?"
-Role2-31-1_19_2,"Don't ask me, I have no idea what's going on!"
-Role2-31-1_19_3,"The reason is simple, you're too weak. In my eyes, you're the ants, and not even strong ones at that."
-Role2-31-1_19_4,"Hmph, trying to kill and destroy the heart?\nKid, you're still too green. Do you really think you can trap me with this handful of people?"
-Role2-31-1_19_5,See you later!
+Role2-31-1_18_3,"Even the strongest ants are still ants, a nest of ants can be wiped out in one fell swoop!",แม้จะเป็นมดที่แข็งแกร่งที่สุด ก็ยังเป็นแค่มดอยู่ดี ลงมือเพียงครั้งเดียวก็จัดการทั้งรังได้ง่ายๆ!
+Role2-31-1_19_1,"How could this happen!\nTie Mianren, isn't the Nine Factions Sect supposed to be invincible?",เกิดเรื่องแบบนี้ขึ้นได้ยังไงกัน!\nเตี่ยเหมียนเหิรน ไหนเจ้าบอกว่านิกายเก้าฝ่ายนั้นไร้เทียมทานไง
+Role2-31-1_19_2,"Don't ask me, I have no idea what's going on!",อย่ามาถามข้า ข้าเองก็ไม่รู้ว่ามันเกิดอะไรขึ้นเช่นกัน!
+Role2-31-1_19_3,"The reason is simple, you're too weak. In my eyes, you're the ants, and not even strong ones at that.",เหตุผลมันก็ง่ายๆ พวกเจ้าอ่อนแอเกินไป ในสายตาข้า พวกเจ้าก็เป็นแค่มด และก็ไม่ใช่มดที่แข็งแกร่งด้วยซ้ำ
+Role2-31-1_19_4,"Hmph, trying to kill and destroy the heart?\nKid, you're still too green. Do you really think you can trap me with this handful of people?",ฮึ่ม ลงมือต้องเล็งที่หัวหน้ารึ\nเด็กน้อย เจ้ายังอ่อนหัดเกินไป คิดเหรอว่าคนเพียงเท่านี้จะหยุดข้าได้
+Role2-31-1_19_5,See you later!,แล้วพบกันใหม่!
 Role2-31-1_20_1,"Wan Yan Wuzhu, where is the emperor now?\nIf you send the emperor back, I'll let you live!","หวันหยานอู๋จู, ตอนนี้องค์จักรพรรดิอยู่ที่ไหน?\nหากส่งตัวองค์จักรพรรดิมา ข้าจะปล่อยให้เจ้าได้มีชีวิตอยู่ต่อ!"
-Role2-31-1_20_2,"I really don't understand, what's so great about that waste that you're loyal to him. You've been stubborn for so many years, and you're still so naive."
-Role2-31-1_20_3,"Although your conditions are tempting, I'm afraid I can't accept them."
-Role2-31-1_20_4,"Before I set out, I've already used that waste as a sacrifice for my banner!"
-Role2-31-1_20_5,"I kept this waste before, planning to use him as a puppet emperor to control the lords, but you all acted on your own, and few cared about his life or death."
-Role2-31-1_20_6,"Instead, some people from the rivers and lakes who are loyal to Ming Bufan have been trying to rescue him, which is really annoying."
-Role2-31-1_20_7,"Such a waste, I'm afraid his only use was to ignite the blood of our Yan warriors at the moment of the sacrifice."
-Role2-31-1_20_8,"{yell} you villain, pay with your life!"
-Role2-31-1_20_9,"Ye Pengju, even if I die a thousand times, your emperor can't come back to life, hahaha..."
-Role2-31-1_20_10,Father!
-Role2-31-1_20_11,General Ye!
-Role2-31-1_20_12,"Upon hearing the shocking news, Ye Pengju was struck like a thunderbolt, and a mouthful of blood spurted out!"
-Role2-31-1_20_13,"Since ancient times, when the king is insulted, the minister dies... My Ye Family Battalion is incompetent, causing the emperor to be in danger... Now it's time to apologize to the emperor..."
-Role2-31-1_21_1,"Father, your ambition to conquer the north is not yet fulfilled, please pull yourself together!"
-Role2-31-1_22_1,"Daddy, you'll be okay, you'll be okay!"
+Role2-31-1_20_2,"I really don't understand, what's so great about that waste that you're loyal to him. You've been stubborn for so many years, and you're still so naive.",ข้าไม่เข้าใจจริงๆ ไอขยะนั่นมีดีอะไรเจ้าถึงได้ภักดีนัก หลายปีแล้วที่เจ้าดื้อรั้นมาตลอด แต่เจ้าก็ยังไร้เดียงสาไม่เปลี่ยน
+Role2-31-1_20_3,"Although your conditions are tempting, I'm afraid I can't accept them.",ถึงแม้เงื่อนไงจะน่าดึงดูดนัก น่าเสียดายที่ข้าไม่อาจตอบตกลง
+Role2-31-1_20_4,"Before I set out, I've already used that waste as a sacrifice for my banner!",ก่อนออกเดินทาง ข้าได้ใช้เจ้าขยะนั่นสังเวยแก่ธงรบไปแล้ว!
+Role2-31-1_20_5,"I kept this waste before, planning to use him as a puppet emperor to control the lords, but you all acted on your own, and few cared about his life or death.",ที่ข้าเก็บเจ้าขยะนี่ไว้ ก็เพราะต้องการใช้มันเป็นจักรพรรดิหุ่นเชิดคอยควบคุมอยู่ด้านหลัง แต่กลับแทบไม่มีคนสนใจความเป็นความตายของมันด้วยซ้ำ พวกเจ้าล้วนแต่ทำอะไรตามใจตนเองเพียงอย่างเดียว 
+Role2-31-1_20_6,"Instead, some people from the rivers and lakes who are loyal to Ming Bufan have been trying to rescue him, which is really annoying.",ในทางกลับกัน เจ้าพวกชาวยุทธที่ภักดีต่อหมิงปู่ฟ่านกลับพยายามจะช่วยมันแทน น่ารำคาญยิ่งนัก
+Role2-31-1_20_7,"Such a waste, I'm afraid his only use was to ignite the blood of our Yan warriors at the moment of the sacrifice.",ช่างไร้ค่านัก ดูเหมือนประโยชน์ที่ข้าจะใช้จากมันได้คงมีแต่สังเวยเพื่อปลุกใจเหล่าทหารหยานแล้ว
+Role2-31-1_20_8,"{yell} you villain, pay with your life!",{yell}เจ้าชาติชั่ว จงชดใช้ด้วยชีวิต!
+Role2-31-1_20_9,"Ye Pengju, even if I die a thousand times, your emperor can't come back to life, hahaha...",เย่เผิงจู ต่อให้ข้าจะตายนับพันรอบ จักรพรรดิของเจ้าก็ไม่อาจกลับมามีชีวติได้หรอก ฮ่าฮ่าฮ่า...
+Role2-31-1_20_10,Father!,ท่านพ่อ!
+Role2-31-1_20_11,General Ye!,แม่ทัพเย่!
+Role2-31-1_20_12,"Upon hearing the shocking news, Ye Pengju was struck like a thunderbolt, and a mouthful of blood spurted out!",หลังจากได้ทราบข่าวอันน่าตกใจ เย่เผิงจูก็หยุดนิ่งดั่งถูกสายฟ้าฟาดใส่ จากนั้นก็กระอักเลือกออกมา!
+Role2-31-1_20_13,"Since ancient times, when the king is insulted, the minister dies... My Ye Family Battalion is incompetent, causing the emperor to be in danger... Now it's time to apologize to the emperor...",นับแต่โบราณกาล หากจักรพรรดิถูกดูแคลน ข้าราชบริพารจะต้องตาย... กองพันตระกูลเย่ข้าไร้ความสามารถ ทำให้องค์จักรพรรดิอยู่ในอันตราย...บัดนี้ ถึงเวลาขออภัย และชดใช้พระองค์แล้ว...
+Role2-31-1_21_1,"Father, your ambition to conquer the north is not yet fulfilled, please pull yourself together!",ท่านพ่อ ปณิธานของท่านที่จะบุกตีทางทิศเหนือยังไม่สำเร็จเลย ท่านต้องตั้งสติไว้นะ!
+Role2-31-1_22_1,"Daddy, you'll be okay, you'll be okay!",พ่อคะ ท่านต้องไม่เป็นไร ท่านต้องไม่เป็นไร!
 Role2-31-1_23_1,{PlayerName}……,{PlayerName}……
-Role2-31-1_23_2,"General Ye, I'm here!"
-Role2-31-1_23_3,Chuxiang City... is safe... you did well...
-Role2-31-1_23_4,"The two things I've always wanted in my life... One is to bring back the emperor, but that's no longer possible... The other is to lead an army to the north and drive out those Yan people..."
-Role2-31-1_23_5,I... I... hope you can accomplish this in your lifetime...
-Role2-31-1_23_6,Death makes everything meaningless...
-Role2-31-1_23_7,But it's sad to see that the nine provinces are not united...
-Role2-31-1_23_8,The day when the king's army will conquer the Central Plains...
-Role2-31-1_23_9,Never forget... never forget to tell...
-Role2-31-1_23_10,"A loyal minister and a good general of a generation, burdened with guilt and regret, fell.\nThe Ye family escorted General Ye's coffin away, and you stood alone in the same place for a long time."
-Role2-31-1_23_11,"I, {PlayerName}, have taken up the northern expedition legacy of Marshal Ye!\nI swear to eradicate <color=#c44b0e>all Yan Army camps</color>, so that the people of Yan will never dare to set foot in the Central Plains again, to comfort Marshal Ye's spirit in heaven!"
-Role2-31-1_23_12,"This is, this is the Yan Army military map, it records the locations of the three main forces of Yan hidden in Zhongzhou, I originally planned to eradicate them one by one..."
+Role2-31-1_23_2,"General Ye, I'm here!",แม่ทัพเย่ ข้ามาแล้ว!
+Role2-31-1_23_3,Chuxiang City... is safe... you did well...,เมืองฉู่เซียง...ปลอดภัย...เจ้าทำได้ดีมาก...
+Role2-31-1_23_4,"The two things I've always wanted in my life... One is to bring back the emperor, but that's no longer possible... The other is to lead an army to the north and drive out those Yan people...",มีอยู่สองสิ่งที่ข้าต้องการในชีวิตนี้...หนึ่งคือนำตัวองค์จักรพรรดิกลับมา แต่นั่นคงเป็นไปไม่ได้แล้ว...อีกหนึ่งคือการยกทัพไปทิศเหนือ และขับไล่พวกชาวหยานออกไปซะ...
+Role2-31-1_23_5,I... I... hope you can accomplish this in your lifetime...,ข้า...ข้า...หวังว่าเจ้าจะทำมันได้สำเร็จ...
+Role2-31-1_23_6,Death makes everything meaningless...,หากตายทุกอย่างล้วนไร้ความหมาย...
+Role2-31-1_23_7,But it's sad to see that the nine provinces are not united...,แต่น่าเศร้าที่ทั้งเก้าแว่นแคว้นยังไม่รวมเป็นหนึ่ง...
+Role2-31-1_23_8,The day when the king's army will conquer the Central Plains...,วันที่ทัพขององค์ราชาจะยึดครองดินแดนภาคกลาง...
+Role2-31-1_23_9,Never forget... never forget to tell...,อย่าลืมเด็ดขาด...อย่าลืมบอก...
+Role2-31-1_23_10,"A loyal minister and a good general of a generation, burdened with guilt and regret, fell.\nThe Ye family escorted General Ye's coffin away, and you stood alone in the same place for a long time.",ข้าราชบริพารผู้จงรักภักดี และยอดแม่ทัพแห่งยุค ได้สิ้นชีพลงเพราะความรู้สึกผิด และเสียใจ\nตระกูลเย่ได้คุ้มกันโลงศพของแม่ทัพเย่กลับไป ส่วนตัวท่านยังคงยืนนิ่งอยู่ ณ ที่แห่งนั้นคนเดียวต่ออีกเป็นเวลานาน
+Role2-31-1_23_11,"I, {PlayerName}, have taken up the northern expedition legacy of Marshal Ye!\nI swear to eradicate <color=#c44b0e>all Yan Army camps</color>, so that the people of Yan will never dare to set foot in the Central Plains again, to comfort Marshal Ye's spirit in heaven!",ข้า {PlayerName} ขอรับสืบทอดการบุกตีทางทิศเหนือต่อจากแม่ทัพเย่!\nขอสาบานจะกวาดล้าง <color=#c44b0e>ค่ายทัพหยาน</color> ให้หมด ให้ชาวหยานไม่กล้าเหยียบเข้ามาในดินแดนภาคกลางอีก เพื่อปลอบประโลมวิญญาณของแม่ทัพเย่ในสวรรค์!
+Role2-31-1_23_12,"This is, this is the Yan Army military map, it records the locations of the three main forces of Yan hidden in Zhongzhou, I originally planned to eradicate them one by one...",นี่คือ นี่คือแผนที่การศึกของทัพหยาน มีตำแหน่งของกำลังหลักสามแห่งที่ซ่อนในจงโจวบันทึกอยู่ ซึ่งในตอนแรกข้าตั้งใจจะทำลายมันไปทีละแห่ง...
 Role2-31-1_24_1,"Wan Yan Wuzhu, the situation is gone now, if you withdraw your troops, you can save your life.","หวันหยานอู๋จู, ตอนนี้สถานการณ์คลี่คลายไปแล้ว, หากเจ้ายอมถอนกำลังทหาร เจ้าจะสามารถช่วยชีวิตตัวเจ้าเองได้"
-Role2-31-1_24_2,"In my Wan Yan family, there are only men who stand to die, and absolutely no cowards who kneel to beg for life."
-Role2-31-1_24_3,"As a general, it is honorable to die wrapped in horsehide.\nI will give you this honor!"
-Role2-31-1_24_4,"In my next life, I, the marshal, will definitely not lose to you..."
-Role2-31-1_24_5,"Huh, is Chuxiang City saved?"
-Role2-31-1_24_6,"{PlayerName}, you have made great contributions in this battle, and you will soon become a hero in the hearts of the people of Chuxiang City. Prepare to accept the praise of the people, I will lead the army back to the camp first."
-Role2-31-1_24_7,"Marshal Ye led the Ye Family Battalion back to the station without any intention of taking credit, as if they had just done something they should have done.\nIf it weren't for deliberate mention afterwards, I'm afraid no one would know that the Ye Family Battalion had once rushed to aid Chuxiang City, fought bloody battles with a group of martial arts heroes, and finally saved Chuxiang City from military disaster."
-Role2-31-1_25_1,"How could this happen!\nTie Mianren, isn't the Nine Factions Sect supposed to be invincible?"
-Role2-31-1_25_2,"Don't ask me, I have no idea what's going on!"
-Role2-31-1_25_3,"The reason is simple, you're too weak. In my eyes, you're the ants, and not even strong ones at that."
-Role2-31-1_25_4,"Hmph, trying to kill and destroy the heart?\nKid, you're still too green. Do you really think you can trap me with this handful of people?"
+Role2-31-1_24_2,"In my Wan Yan family, there are only men who stand to die, and absolutely no cowards who kneel to beg for life.",ในตระกูลหวันหยานของข้า มีแต่คนที่พร้อมสู้จนตัวตาย และไม่มีคนขี้ขลาด ที่คุกเข่าร้องขอชีวิตแม้แต่คนเดียว
+Role2-31-1_24_3,"As a general, it is honorable to die wrapped in horsehide.\nI will give you this honor!",ในฐานะแม่ทัพ การได้ตายในศึกสงครามเช่นนี้นับว่าเป็นเกียรติยิ่ง\nเช่นนั้นข้าจะให้เจ้าได้รับเกียรติที่ว่าซะ!
+Role2-31-1_24_4,"In my next life, I, the marshal, will definitely not lose to you...",ชาติหน้า ข้าแม่ทัพ จะไม่มีวันแพ้แก่เจ้าอีก...
+Role2-31-1_24_5,"Huh, is Chuxiang City saved?",หือ เมืองฉู่เซียงปลอดภัยแล้วรึยังนะ
+Role2-31-1_24_6,"{PlayerName}, you have made great contributions in this battle, and you will soon become a hero in the hearts of the people of Chuxiang City. Prepare to accept the praise of the people, I will lead the army back to the camp first.",{PlayerName} เจ้าได้ทำความชอบเป็นอย่างมากในการศึกครั้งนี้ และอีกไม่นานคงจะถือเป็นวีรบุรุษของชาวเมืองฉู่เซียงทุกคน เตรียมตัวรับคำสรรเสริญจากผู้คนเถอะ ส่วนข้าขอตัวนำทัพกลับค่ายไปก่อน
+Role2-31-1_24_7,"Marshal Ye led the Ye Family Battalion back to the station without any intention of taking credit, as if they had just done something they should have done.\nIf it weren't for deliberate mention afterwards, I'm afraid no one would know that the Ye Family Battalion had once rushed to aid Chuxiang City, fought bloody battles with a group of martial arts heroes, and finally saved Chuxiang City from military disaster.",แม่ทัพเย่นำกองพันตระกูลเย่กลับไปประจำการโดยไม่รับความชอบแม้แต่น้อย ดั่งเช่นเรื่องนี้เป็นเรื่องที่ต้องทำเป็นปกติ\nหากไม่ใช่ถูกกล่าวถึงในภายหลังล่ะก็ น่ากลัวว่าจะไม่มีผู้ใดล่วงรู้ว่า ครั้งหนึ่งกองพันตระกูลเย่เร่งรีบเดินทางมาช่วยเหลือเมืองฉู่เซียง ต่อสู้กับเหล่าจอมยุทธอย่างดุเดือด และในที่สุดก็ช่วยเมืองฉู่เซียงจนรอดพ้นจากหายนะได้สำเร็จ
+Role2-31-1_25_1,"How could this happen!\nTie Mianren, isn't the Nine Factions Sect supposed to be invincible?",เกิดเรื่องแบบนี้ขึ้นได้ยังไงกัน!\nเตี่ยเหมียนเหิรน ไหนเจ้าบอกว่านิกายเก้าฝ่ายนั้นไร้เทียมทานไง
+Role2-31-1_25_2,"Don't ask me, I have no idea what's going on!",อย่ามาถามข้า ข้าเองก็ไม่รู้ว่ามันเกิดอะไรขึ้นเช่นกัน!
+Role2-31-1_25_3,"The reason is simple, you're too weak. In my eyes, you're the ants, and not even strong ones at that.",เหตุผลมันก็ง่ายๆ พวกเจ้าอ่อนแอเกินไป ในสายตาข้า พวกเจ้าก็เป็นแค่มด และก็ไม่ใช่มดที่แข็งแกร่งด้วยซ้ำ
+Role2-31-1_25_4,"Hmph, trying to kill and destroy the heart?\nKid, you're still too green. Do you really think you can trap me with this handful of people?",ฮึ่ม ลงมือต้องเล็งที่หัวหน้ารึ\nเด็กน้อย เจ้ายังอ่อนหัดเกินไป คิดเหรอว่าคนเพียงเท่านี้จะหยุดข้าได้
 Role2-31-1_25_5,"Wan Yan Wuzhu, the situation is gone now, what do you have to say?","หวันหยานอู๋จู, ตอนนี้สถานการณ์คลี่คลายไปแล้ว, เจ้ามีอะไรจะพูดไหม?"
-Role2-31-1_25_6,"In my Wan Yan family, there are only men who stand to die, and absolutely no cowards who kneel to beg for life."
+Role2-31-1_25_6,"In my Wan Yan family, there are only men who stand to die, and absolutely no cowards who kneel to beg for life.",ในตระกูลหวันหยานของข้า มีแต่คนที่พร้อมสู้จนตัวตาย และไม่มีคนขี้ขลาด ที่คุกเข่าร้องขอชีวิตแม้แต่คนเดียว
 Role2-31-1_25_7,"Good, very good...",ดี ดีมาก...
-Role2-31-1_25_8,The dead civilians...
-Role2-31-1_25_9,The fallen soldiers...
-Role2-31-1_25_10,"Today, I will comfort the spirits of all of you in heaven with the head of the enemy chief!"
+Role2-31-1_25_8,The dead civilians...,เหล่าชาวประชาที่ล้มตาย...
+Role2-31-1_25_9,The fallen soldiers...,เหล่าทหารกล้าที่สิ้นชีพ...
+Role2-31-1_25_10,"Today, I will comfort the spirits of all of you in heaven with the head of the enemy chief!",วันนี้ ข้าจะปลอมประโลมเหล่าวิญญาณของพวกท่านในสวรรค์ ด้วยหัวของผู้นำศัตรู!
 Role2-31-1_25_11,"Chuxiang City, it's saved."
 Role2-31-1_26_1,The great hero is back!
 Role2-31-1_26_2,"Look, look!"
@@ -940,22 +940,22 @@ Role2-31-2_10_2,"(This guy is obviously trying to win me over, if I don't agree,
 Role2-31-2_11_1,"Very good, very good!"
 Role2-31-2_12_1,"You ruined my good deeds, boy, you deserve this today!"
 Role2-31-2_13_1,"Stinky boy, those who offend me should die, and you are no exception!"
-Role2-31-2_14_1,"Even if a god descends now, he can't save you, just accept your fate."
+Role2-31-2_14_1,"Even if a god descends now, he can't save you, just accept your fate.",ต่อให้เทพเซียนลงมาตอนนี้ก็ไม่อาจช่วยเจ้าได้ ยอมรับชะตากรรมซะเถอะ
 Role2-31-2_15_1,"Yiya~ If the king wants the minister to die, the minister has to be {Invincible}, eighteen years later, he will be a hero again~~~"
-Role2-31-2_16_1,Witnessing the fall of a young hero with my own eyes is also a pleasure.
-Role2-31-2_17_1,"{PlayerName}, nice to see you again, we finally meet again."
-Role2-31-2_17_2,I didn't expect you to be a traitor and willingly become a dog of Yan!
-Role2-31-2_17_3,"You're wrong, I'm just cooperating with them, it's a mutual benefit."
-Role2-31-2_18_1,It's your honor to die at the hands of my Nine Factions Sect.
-Role2-31-2_18_2,"Nine Factions Sect? You are from the Nine Factions Sect!\nI can't believe you've fallen so low, willingly becoming the lapdogs of the Yan Kingdom!"
-Role2-31-2_18_3,"You're wrong, the Nine Factions Sect is just cooperating with them, it's a mutual benefit."
-Role2-31-2_19_1,"Tie Mianren, your Nine Factions Sect should stop hiding your incompetence, if you want to cooperate with this marshal, you should show some sincerity!"
-Role2-31-2_19_2,"These guys, I haven't even taken them seriously yet!"
-Role2-31-2_20_1,It seems that the Nine Factions Sect needs to choose a new partner.
-Role2-31-2_20_2,"I didn't expect... to fail at the last moment, how unfair the heavens are to me..."
-Role2-31-2_21_1,"{PlayerName}, quickly cut down the Yan army's command flag on the stage, so that the Yan army's morale will collapse and they will be easily defeated."
-Role2-31-2_21_2,"Hehe, personally cutting down the Yan army's command flag is like making a significant mark in history."
-Role2-31-2_21_3,Why is this?!
+Role2-31-2_16_1,Witnessing the fall of a young hero with my own eyes is also a pleasure.,ได้เป็นพยานถึงความล้มเหลวของจอมยุทธน้อยด้วยตาตัวเองนี่ก็เป็นความเบิกบานใจไม่น้อย
+Role2-31-2_17_1,"{PlayerName}, nice to see you again, we finally meet again.",{PlayerName} ยินดีที่ได้พบ ในที่สุดเราก็ได้เจอกันอีก
+Role2-31-2_17_2,I didn't expect you to be a traitor and willingly become a dog of Yan!,ไม่นึกเลยว่าเจ้าจะเป็นกบฏ และยอมเป็นสุนัขรับใช้พวกหยาน!
+Role2-31-2_17_3,"You're wrong, I'm just cooperating with them, it's a mutual benefit.",เจ้าเข้าใจผิดแล้ว ข้าแค่ร่วมมือกับพวกเขาเท่านั้น เป็นเพียงผลประโยชน์ร่วมกัน
+Role2-31-2_18_1,It's your honor to die at the hands of my Nine Factions Sect.,นับว่าเจ้ามีเกียรติที่ได้ตายด้วยมือของนิกายเก้าฝ่าย
+Role2-31-2_18_2,"Nine Factions Sect? You are from the Nine Factions Sect!\nI can't believe you've fallen so low, willingly becoming the lapdogs of the Yan Kingdom!",นิกายเก้าฝ่าย เจ้ามาจากนิกายเก้าฝ่ายรึ!\nไม่อยากเชื่อเลยว่าพวกเจ้าจะตกต่ำขนาดนี้ กระทั่งยอมเป็นสุนัขรับใช้อาณาจักรหยาน!
+Role2-31-2_18_3,"You're wrong, the Nine Factions Sect is just cooperating with them, it's a mutual benefit.",เจ้าเข้าใจผิดแล้ว นิกายเก้าฝ่ายเพียงร่วมมือกับพวกเขา เป็นเพียงผลประโยชน์ร่วมกันเท่านั้น
+Role2-31-2_19_1,"Tie Mianren, your Nine Factions Sect should stop hiding your incompetence, if you want to cooperate with this marshal, you should show some sincerity!",เตี่ยเหมียนเหริน พวกเจ้านิกายเก้าฝ่ายเลิกควรเลิกซ่อนความไม่เอาไหนไปซะ หากอยากจะร่วมมือกับข้าแม่ทัพ ก็จงแสดงความจริงใจมาซะ!
+Role2-31-2_19_2,"These guys, I haven't even taken them seriously yet!",เจ้าพวกนี้ ข้ายังไม่ได้เอาจริงเลยสักนิด!
+Role2-31-2_20_1,It seems that the Nine Factions Sect needs to choose a new partner.,ดูเหมือนนิกายเก้าฝ่ายต้องเลือกพรรคพวกใหม่แล้วล่ะ
+Role2-31-2_20_2,"I didn't expect... to fail at the last moment, how unfair the heavens are to me...",ไม่นึกเลย...ว่าข้าจะมาล้มเหลวในตอนท้ายเช่นนี้ สวรรค์ช่างไม่ยุติธรรมกับข้า...
+Role2-31-2_21_1,"{PlayerName}, quickly cut down the Yan army's command flag on the stage, so that the Yan army's morale will collapse and they will be easily defeated.",{PlayerName} รีบหักธงของทัพหยานลงมาเร็ว พวกทัพหยานจะได้เสียขวัญกำลังใจ และจะได้จัดการได้ง่ายๆ
+Role2-31-2_21_2,"Hehe, personally cutting down the Yan army's command flag is like making a significant mark in history.",ฮิฮิ การได้หักธงทัพหยานด้วยตัวเองนี่ก็เหมือนเป็นเหตุการณ์สำคัญของประวัติศาสตร์เลยนะเนี่ย
+Role2-31-2_21_3,Why is this?!,ทำไม่เป็นเช่นนี้!
 Role2-31-2_21_4,"{PlayerName}, if you want to blame someone, blame yourself for being too monstrous. You are a threat to me sooner or later, it's better to prevent it before it happens!"
 Role2-31-2_21_5,"Thank you for everything you've done for this general, but it's worthless now.\nFarewell!"
 Role2-31-2_22_1,"Wan Yan Wuzhu originally planned to detain Lü Wenhuan again to blackmail and force the Chuxiang City defenders to surrender, but I disrupted his plan.",หวันหยานอู๋จู แต่เดิมวางแผนที่จะกักตัว ลู่เหวินหวน อีกครั้งเพื่อหักหลังและบังคับให้กองกำลังเมืองฉู่เซียงยอมจำนน แต่ข้าได้ไปขัดขวางแผนการของเขา
@@ -1257,7 +1257,7 @@ R10059-4_4_1,"Hehehe, thank you for your patronage.\nOld Monster will escort you
 R10059-4_4_2,"You are blindfolded and follow Jiang Nanguai through the narrow alley, turning left and right, not knowing how long you've walked...\nFinally--"
 R10059-4_5_1,"Alright, then 10 taels of silver, no less!"
 R10059-4_5_2,"This is an exception, little brat, Old Monster still has to do business!"
-R10059-4_6_1,Old Monster's personally trained <color=#c44b0e>Dog Bites Elephant Formation</color> will satisfy you!
+R10059-4_6_1,Old Monster's personally trained <color=#c44b0e>Dog Bites Elephant Formation</color> will satisfy you!,ปีศาจเฒ่าได้ชี้แนะเป็นการส่วนตัว <color=#c44b0e>ค่ายกลสุนัขกัดคชสาร</color> จะทำให้เจ้าพึงพอใจ!
 R10059-4_7_1,"Since you've broken this formation, Old Monster will keep his promise and escort you out of the city."
 R10059-4_7_2,"You are blindfolded and follow Jiang Nanguai through the narrow alley, turning left and right, not knowing how long you've walked...\nFinally--"
 R10059-4_8_1,"Hahaha, even the strongest elephant can still be killed by a pack of wild dogs!\nYou should go and practice more, I'll escort you out of the city when you break the formation."
@@ -4138,7 +4138,7 @@ R20025-10_10_9,"Don't, don't mess around!"
 R20025-10_10_10,"I, I can call for help!"
 R20025-10_10_11,Help!!
 R20025-10_10_12,"Siniang, be careful!"
-R20025-10_10_13,<size=300%>Cloud Piercing Chopstick!</size>
+R20025-10_10_13,<size=300%>Cloud Piercing Chopstick!</size>,<size=300%>ตะเกียบบินทะลวงเมฆา!</size>
 R20025-10_10_14,How is it possible...
 R20025-10_10_15,"It's over, everything is over..."
 R20025-10_10_16,"Heaven is merciful, but he chose his own path to death, and he can't blame others."
@@ -8759,7 +8759,7 @@ M1400-4_1_9,"What the, there's more?",อะไร ยังมีอีกห�
 M1400-4_1_10,"Babies, don't be angry, I still have berries...",เด็กๆ อย่าโกรธเลยนะ ข้ามีผลไม้ด้วยล่ะ...
 M1400-4_1_11,"Damn, why are the berries gone at this time...",บ้าจริง ทำไมผลไม้ต้องมาหมดเวลานี้...
 M1400-4_1_12,Think I'm easy to mess with!,คิดจะเล่นกับข้างั้นหรือ!
-M1400-4_1_13,Eat my Lime powder!,กินผงมะนาวของข้าซะ!
+M1400-4_1_13,Eat my Lime powder!,เอาผงปูนขาวของข้าไปกินซะ!
 M1400-4_1_14,It seems I have to use that move! You forced me!,ดูเหมือนว่าจะต้องใช้ท่านั้น! เจ้าบังคับข้าเองนะ!
 M1400-4_1_15,Huh——,ฮึ่ม——
 M1400-4_1_16,{yell} help!!!,{yell} ช่วยด้วยจ้าา!!!
@@ -12517,7 +12517,7 @@ R10099-6_2_25,"Alas, what bad luck!"
 R10099-6_4_2,"Before that, you need to quickly increase your Fame, so that you can get more valuable information."
 R10099-8_3_2,I didn't expect that I would have the chance to return to the peak of Passive in my lifetime...
 R10099-8_3_3,"Master, that move you just made was so cool, what kind of kung fu is that?"
-R10099-8_3_4,"That was a unique move that Master realized based on a martial art I saw before, called Nine Flow Unification!"
+R10099-8_3_4,"That was a unique move that Master realized based on a martial art I saw before, called Nine Flow Unification!",นั่นเป็นการสุดยอดวิชาไม้ตายที่อาจารย์ตระหนักได้จากวรยุทธ์ที่ข้าเคยเห็นมาก่อน เรียกว่า เก้าธารารวมเป็นหนึ่ง!
 R10099-8_3_5,When can I learn this unique move?
 R10099-8_3_6,"Master only has so much to offer, and you still want to take everything!\nYou've been coveting this A-grade internal skill for a long time, so I'll teach it to you today."
 R10099-8_3_7,"Disciple, we should go to the Cloud Forest Temple and take a risk. Otherwise, the people from the three schools will be anxious!"
@@ -12540,7 +12540,7 @@ R10099-11_12_1,Congratulations to my senior brother for finding a successor.
 R10099-11_13_1,"Hmph, no matter how talented, he can't surpass my disciple."
 R10099-11_14_1,"Good job, kid. Here's what I promised you!"
 R10099-12_1_1,"My disciple, I'm very pleased with your progress. From now on, the Nine Factions Sect is in your hands. Don't let down the hard work of your master and senior brothers."
-R10099-12_1_2,"The ultimate technique that I've spent my whole life perfecting is called Nine Flow Unification, which is far superior to that crappy Heaven and Earth Reversal."
+R10099-12_1_2,"The ultimate technique that I've spent my whole life perfecting is called Nine Flow Unification, which is far superior to that crappy Heaven and Earth Reversal.",สุดยอดวิทยายุทธขั้นสูงสุดที่ข้าใช้เวลาทั้งชีวิตเพื่อทำให้มันสมบูรณ์แบบเรียกว่า เก้าธารารวมเป็นหนึ่ง ซึ่งเหนือกว่าพลังเคลื่อนย้ายจักรวาลที่เส็งเคร็งมาก
 R10099-12_2_1,"Old man, want to have a competition?"
 R10099-12_2_2,"If you dare, teach your crappy technique to my disciple and let him see which one is more powerful."
 R10099-12_2_3,"Hmph, keep dreaming."

@@ -1688,11 +1688,11 @@ NpcJobTalk_第二人称敬语_方小白,Big brother,พี่ใหญ่
 NpcJobTalk_第二人称敬语_福箐郡主,Official
 NpcJobTalk_第二人称脏话_通用,You
 NpcJobTalk_第二人称脏话_苗木黎,Turtle son
-NpcJobTalk_第二人称脏话_释嗔,Dog hybrid
+NpcJobTalk_第二人称脏话_释嗔,Dog hybrid,เจ้าสนัขพันทาง
 NpcJobTalk_第二人称脏话_蔡元常,Rebel,กบฏ
 NpcJobTalk_第二人称脏话_邪戏子,Cheap person
 NpcJobTalk_第二人称脏话_秦会之,Rebel,กบฏ
-NpcJobTalk_第二人称脏话_慕容燕,Dog thief
+NpcJobTalk_第二人称脏话_慕容燕,Dog thief,เจ้าโจรสุนัขชั่ว
 NpcJobTalk_第二人称脏话_毒伢婆,Little beast
 NpcJobTalk_第二人称脏话_定海棠,Hooligan
 NpcJobTalk_第二人称脏话_剑痴,Beast
@@ -1701,8 +1701,8 @@ NpcJobTalk_第二人称脏话_月咏樱羽,Little thief
 NpcJobTalk_第二人称脏话_顾倾城,Hooligan
 NpcJobTalk_第二人称脏话_书生老年,Beast
 NpcJobTalk_第二人称脏话_少女,Rogue
-NpcJobTalk_第二人称脏话_官员儿子,Dog hybrid
-NpcJobTalk_第二人称脏话_男仆役,Dog thief
+NpcJobTalk_第二人称脏话_官员儿子,Dog hybrid,เจ้าสนัขพันทาง
+NpcJobTalk_第二人称脏话_男仆役,Dog thief,เจ้าโจรสุนัขชั่ว
 NpcJobTalk_第二人称脏话_女仆役,Little thief
 NpcJobTalk_第二人称脏话_文官,Traitor
 NpcJobTalk_第二人称脏话_将军,Hooligan

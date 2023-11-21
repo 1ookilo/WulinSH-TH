@@ -1390,7 +1390,7 @@ ItemName_三才刀法,Trinity Blade,ดาบสามสะท้าน
 ItemName_疾风斩,Wind Blade,ดาบวายุ
 ItemName_开山刀法,Mountain Clear Blade,ดาบสะบั้นภูผา
 ItemName_荡寇刀法,Bandit Killer Blade,ดาบสังหารโจร
-ItemName_疾风八斩法,Octagonal Wind Blade,แปดดาบตัดวายุ
+ItemName_疾风八斩法,Octagonal Wind Blade,8 ดาบตัดวายุ
 ItemName_火云刀法,Flaming Cloud Blade,เพลงดาบเมฆาอัคคี
 ItemName_九苗刀法,Nine Cats Blade,ดาบแมวเก้าแผล
 ItemName_九江刀法,Nine Rivers Blade,ดาบเก้าธารา
@@ -1443,7 +1443,7 @@ ItemName_九黎巫叉,Jiuli Trident,หอกตรีศูลจิ่วล�
 ItemName_撼地锤,Tremor Hammer,ค้อนสะเทือนปฐพี
 ItemName_擂山锤法,Thunder Mountain Hammer,ค้อนภูผาอัสนี
 ItemName_金刚锤法,Diamond Hammer,ค้อนวัชระ
-ItemName_叫花棒法,Beggar Staff,ไม้เท้าตีสุนัข
+ItemName_叫花棒法,Beggar Staff,ไม้ตีสุนัข
 ItemName_六合棍法,Six Forms Staff,พลองหกประสาน
 ItemName_韦陀杖法,Veda Staff,ตำราพลองพระเวท
 ItemName_蟠龙棍法,Dragon Staff,พลองมังกร
@@ -1539,14 +1539,14 @@ ItemName_御兽术,Beast Taming Skill,วิชาฝึกสัตว์
 ItemName_金匮要略,Golden Manual,ตำรายาห้องทอง
 ItemName_调息法,Breathing Technique,เคล็ดปรับลมหายใจ
 ItemName_冰魄功,Ice Spirit Move,พลังวิญญาณเหมันต์
-ItemName_拳掌要诀,Fist Mastery,เชี่ยวชาญหมัดมวย
+ItemName_拳掌要诀,Fist Mastery,วิชาหมัดมวยพื้นฐาน
 ItemName_剑法典籍,Sword Mastery,วิชากระบี่พื้นฐาน
 ItemName_刀术秘卷,Blade Mastery,วิชาดาบพื้นฐาน
 ItemName_长兵纪要,Long Weapon Mastery,วิชาอาวุธยาวพื้นฐาน
 ItemName_短兵汇编,Short Weapon Mastery,วิชาอาวุธสั้นพื้นฐาน
 ItemName_乐谱精粹,Musical Mastery,วิชาดนตรีพื้นฐาน
 ItemName_儒雅风流,Elegant Romanticist,หรูหราสง่างาม
-ItemName_吐故纳新术,Embrace The Future,วิชาปรับลมปราณ
+ItemName_吐故纳新术,Embrace The Future,เคล็ดปรับลมปราณ
 ItemName_混元劲,Origin Technique,พลังต้นกำเนิด
 ItemName_胎息功,Fetal Breathing Guide,ลมปราณครรภ์ทารก
 ItemName_五禽戏,Five Animal Forms,กายบริหารห้าสัตว
@@ -1574,14 +1574,14 @@ ItemName_藏剑秘卷,Hidden Sword Secret Manual,คัมภีร์ลับ�
 ItemName_武穆秘典,Yue Fei Secret Manual,ตำราลับงักฮุย
 ItemName_兽王诀,Beast King Technique,วิชาราชาสัตว์ร้าย
 ItemName_四圣心源,Four Saints Origin,สี่หัวใจศักดิ์สิทธิ์
-ItemName_海纳百川,Great Ocean Manual,พลังรวมมหาสมุทร
+ItemName_海纳百川,Great Ocean Manual,พลังรวมสมุทร
 ItemName_盛世春秋,Glorious Era,ยุครุ่งเรือง
 ItemName_寒阴真气,Cold Yin Energy,พลังปราณเหมันต์
 ItemName_纯阳功,Pure Yang Skill,พลังหยางบริสุทธิ์
 ItemName_玄阴诀,Nether Yin Manual,เคล็ดหยินภายใน
 ItemName_凌云步,Cloud Walker Step,ท่าเท้าท่องคลื่น
 ItemName_睡梦心经,Dreaming Sutra,นิมิตรสูตร
-ItemName_兽吼功,Beast Howling Move,วิชาอสูรคำราม
+ItemName_兽吼功,Beast Howling Move,ราชสีห์คำราม
 ItemName_天星诀,Celestial Star Manual,เคล็ดวิชาดาวสวรรค์
 ItemName_玄元心经,Nether Origin Sutra,พลังรวมปราณ
 ItemName_罗刹毒经,Raksha Poison Sutra,รากษกพิษยสูตร
@@ -4170,7 +4170,7 @@ ItemName_霖安城特殊货物,Special Goods,สินค้าพิเศษ
 ItemName_大蟠桃,Big Peach,ลูกท้อสวรรค์
 ItemName_垂钓技法,Fishing Technique,เทคนิคการตกปลา
 ItemName_倒转乾坤,Full Reversal,พลังเคลื่อนย้ายจักรวาล
-ItemName_九流归一,Nine Flow Unification,เก้าสายรวมเป็นหนึ่ง
+ItemName_九流归一,Nine Flow Unification,เก้าธารารวมเป็นหนึ่ง
 ItemName_小河蚌,Small River Clam,หอยแม่น้ำเล็ก
 ItemName_巫咸银鱼,Wuxian Whitebait,ปลาเกล็ดเงินอู๋เซี่ยน
 ItemName_山胭脂花,Mountain Rouge Flower,ดอกลิปสติกสีแดงภูเขา

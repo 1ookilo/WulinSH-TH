@@ -201,7 +201,7 @@ KunfuName_退避三舍,Fall Back,ถอยบ้านสามหลัง
 KunfuName_财迷心窍,Money Over Survival,เห็นแก่อามิสสินจ้าง
 KunfuName_乾坤一掷,Decisive Throw,ขว้างจักรวาล
 KunfuName_暴雨梨花,Rainstorm Flower,มรสุมเข็มบุปผา
-KunfuName_满天花雨,Scattered Petals,กลีบดอกกระจัดกระจาย
+KunfuName_满天花雨,Scattered Petals,กระจายกลีบบุปผา
 KunfuName_撒石灰粉,Throw Quicklime,โปรยปูนขาว
 KunfuName_红莲业火,Red Lotus Sinful Flame,เพลิงอเวจีบัวโลหิต
 KunfuName_迷情熏香,Neutralizing Incense,เสน่ห์หอม
@@ -220,7 +220,7 @@ KunfuName_天地无极,Infinity World,ฟ้าดินไร้ประมา
 KunfuName_剑意勃发,Sword Qi Explosion,เจตน์กระบี่ทิ่มทะลวง
 KunfuName_虫豸为伴,Friend of Bugs,มิตรหนอนแมลง
 KunfuName_金刚撞钟,Diamond Rush,วัชระลั่นระฆัง
-KunfuName_奉旨讨逆,Extermination Decree,ไล่ตามการกบฏ
+KunfuName_奉旨讨逆,Extermination Decree,ไล่ปราบกบฏ
 KunfuName_一剑破苍穹,Heaven Breaker,หนึ่งกระบี่ทะลวงสวรรค์
 KunfuName_罢黜百家,Only One School,ขับไล่ร้อยสำนัก
 KunfuName_纸醉金迷,Drown In Riches,มีเงินท่วมหัว
@@ -231,7 +231,7 @@ KunfuName_旋风斩,Wind Cyclone,พายุหมุน
 KunfuName_烛龙一剑,Dragon Sword,กระบี่แปลงมังกร
 KunfuName_雷劫万千,Thunder Tribulation,ทัณฑ์ฟ้าเหลือคณา
 KunfuName_追星赶月,Star Chaser,ไล่ดาวคว้าจันทร์
-KunfuName_飞箸穿云,Cloud Piercing Chopstick,ตะเกียบบินทะลวงเมฆ
+KunfuName_飞箸穿云,Cloud Piercing Chopstick,ตะเกียบบินทะลวงเมฆา
 KunfuName_断子绝孙腿,Cruel Crotch Kick,ท่าเท้าสะบั้นเยื่อใย
 KunfuName_推山填海,Mountain Mover,เคลื่อนภูผาถมสมุทร
 KunfuName_山崩地裂,Mountain Breaker,เขาถล่มดินทลาย
@@ -250,7 +250,7 @@ KunfuName_否极泰来,Overcoming Hardship,ก้าวผ่านความ�
 KunfuName_六字大明咒,Six Character Charm,มนตร์หกพยางค์
 KunfuName_天籁魔音,Tianlai Magic Sound,เสียงมหัศจรรย์แห่งธรรมชาติ
 KunfuName_千山鸟飞绝,The Silent Mountains,พันขุนเขา ไร้นกบิน
-KunfuName_九流归一,Nine Flow Unification,เก้าสายรวมเป็นหนึ่ง
+KunfuName_九流归一,Nine Flow Unification,เก้าธารารวมเป็นหนึ่ง
 KunfuName_望穿秋水,Endearing Wait,รอรักนิรันดร์กาล
 KunfuName_比翼连枝,Together As One,รวมใจเป็นหนึ่ง
 KunfuName_珠联璧合,Happy Together,สุขใจด้วยกัน
@@ -332,7 +332,7 @@ KunfuName_三才刀法,Trinity Blade,ดาบสามสะท้าน
 KunfuName_疾风斩,Wind Blade,ดาบวายุ
 KunfuName_开山刀法,Mountain Clear Blade,ดาบสะบั้นภูผา
 KunfuName_荡寇刀法,Bandit Killer Blade,ดาบสังหารโจร
-KunfuName_疾风八斩法,Octagonal Wind Blade,แปดดาบตัดวายุ
+KunfuName_疾风八斩法,Octagonal Wind Blade,8 ดาบตัดวายุ
 KunfuName_火云刀法,Flaming Cloud Blade,เพลงดาบเมฆาอัคคี
 KunfuName_九苗刀法,Jiumiao Technique,ดาบแมวเก้าแผล
 KunfuName_九江刀法,Nine Rivers Blade,ดาบเก้าธารา
@@ -417,7 +417,7 @@ KunfuName_百鸟朝凰枪,Phoenix Ascension Spear,เพลงหอกวิห
 KunfuName_七探蛇盘枪,Scouting Snake Spear,เจ็ดหอกแสวงอสรพิษ
 KunfuName_沥泉枪法,Slipstream Spear,หอกธาราหยด
 KunfuName_九黎巫叉,Jiuli Trident,หอกตรีศูลจิ่วลี่
-KunfuName_叫花棒法,Beggar Staff,ไม้เท้าตีสุนัข
+KunfuName_叫花棒法,Beggar Staff,ไม้ตีสุนัข
 KunfuName_六合棍法,Six Forms Staff,พลองหกประสาน
 KunfuName_韦陀杖法,Veda Staff,พลองพระเวท
 KunfuName_蟠龙棍法,Dragon Staff,พลองมังกร
@@ -517,14 +517,14 @@ KunfuName_御兽术,Beast Taming Skill,วิชาฝึกสัตว์
 KunfuName_金匮要略,Golden Manual,ตำรายาห้องทอง
 KunfuName_调息法,Breathing Technique,เคล็ดปรับลมหายใจ
 KunfuName_冰魄功,Ice Spirit Move,พลังวิญญาณเหมันต์
-KunfuName_拳掌要诀,Fist Mastery,เชี่ยวชาญหมัดมวย
+KunfuName_拳掌要诀,Fist Mastery,วิชาหมัดมวยพื้นฐาน
 KunfuName_剑法典籍,Sword Mastery,วิชากระบี่พื้นฐาน
 KunfuName_刀术秘卷,Blade Mastery,วิชาดาบพื้นฐาน
 KunfuName_长兵纪要,Long Weapon Mastery,วิชาอาวุธยาวพื้นฐาน
 KunfuName_短兵汇编,Short Weapon Mastery,วิชาอาวุธสั้นพื้นฐาน
 KunfuName_乐谱精粹,Musical Mastery,วิชาดนตรีพื้นฐาน
 KunfuName_儒雅风流,Elegant Romanticist,หรูหราสง่างาม
-KunfuName_吐故纳新术,Embrace The Future,วิชาปรับลมปราณ
+KunfuName_吐故纳新术,Embrace The Future,เคล็ดปรับลมปราณ
 KunfuName_混元劲,Origin Technique,พลังต้นกำเนิด
 KunfuName_胎息功,Fetal Breathing Guide,ลมปราณครรภ์ทารก
 KunfuName_五禽戏,Five Animal Forms,กายบริหารห้าสัตว
@@ -552,14 +552,14 @@ KunfuName_藏剑秘卷,Hidden Sword Secret Manual,คัมภีร์ลับ
 KunfuName_武穆秘典,Yue Fei Secret Manual,ตำราลับงักฮุย
 KunfuName_兽王诀,Beast King Technique,วิชาราชาสัตว์ร้าย
 KunfuName_四圣心源,Four Saints Origin,สี่หัวใจศักดิ์สิทธิ์
-KunfuName_海纳百川,Great Ocean Manual,พลังรวมมหาสมุทร
+KunfuName_海纳百川,Great Ocean Manual,พลังรวมสมุทร
 KunfuName_盛世春秋,Glorious Era,ยุครุ่งเรือง
 KunfuName_寒阴真气,Cold Yin Energy,พลังปราณเหมันต์
 KunfuName_纯阳功,Pure Yang Skill,พลังหยางบริสุทธิ์
 KunfuName_玄阴诀,Nether Yin Manual,เคล็ดหยินภายใน
 KunfuName_凌云步,Cloud Walker Step,ท่าเท้าท่องคลื่น
 KunfuName_睡梦心经,Dreaming Sutra,นิมิตรสูตร
-KunfuName_兽吼功,Beast Howling Move,วิชาอสูรคำราม
+KunfuName_兽吼功,Beast Howling Move,ราชสีห์คำราม
 KunfuName_天星诀,Celestial Star Manual,เคล็ดวิชาดาวสวรรค์
 KunfuName_玄元心经,Nether Origin Sutra,พลังรวมปราณ
 KunfuName_罗刹毒经,Raksha Poison Sutra,รากษกพิษยสูตร
