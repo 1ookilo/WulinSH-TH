@@ -1637,8 +1637,8 @@ Day-2050-1_overview2,Have intercepted passing boats near Jiujiang Water Camp {Ta
 Day-2050-1_overview3,Wonder if the leader of Jiujiang Water Camp has any new arrangements today.
 R10099-3-1_name,Top priority
 R10099-3-1_overview1,"Raise Fame to <color=#c44b0e>Famous (level 5)</color>.\nYou can increase Fame through martial arts competitions, bounties, extermination or subduing Jianghu forces."
-R10099-3-2_name,Trouble from the Nine Factions Sect
-R10099-3-2_overview1,"Go to Chuxiang City, Lin'an City, Daliang City to solve the problems caused by the Nine Factions Sect."
+R10099-3-2_name,Trouble from the Nine Factions Sect,ปัญหาจากนิกายเก้าฝ่าย
+R10099-3-2_overview1,"Go to Chuxiang City, Lin'an City, Daliang City to solve the problems caused by the Nine Factions Sect.","ไปที่เมืองฉู่เซียง, เมืองหลินอัน, เมืองต้าเหลียง เพื่อแก้ปัญหาที่เกิดขึ้นจากนิกายเก้าฝ่าย"
 R10099-4_overview3,Go to Nameless village.
 R10099-4_overview4,"After preparations, meet with the master in Nameless village."
 R10099-4_option1_1,Ready to set off!
@@ -1674,8 +1674,8 @@ School-2040-5_overview5,Grasshopper has been captured.
 School-2040-5_overview6,Grasshopper has been killed.
 School-2040-5_overview7,The Crack Monk has been captured.
 School-2040-5_overview8,The Crack Monk has been killed.
-School-2040-5_overview9,The One-eyed Dragon has been captured.
-School-2040-5_overview10,The One-eyed Dragon has been killed.
+School-2040-5_overview9,The One-eyed Dragon has been captured.,มังกรตาเดียวถูกจับแล้ว
+School-2040-5_overview10,The One-eyed Dragon has been killed.,มังกรตาเดียวถูกสังหารแล้ว
 School-2040-5_overview11,The Kunlun Slave has been captured.
 School-2040-5_overview12,The Kunlun Slave has been killed.
 School-2040-5_overview13,The cultist has been captured.
@@ -1687,7 +1687,7 @@ School-2070-4_overview3,Forging skill reached level 4.
 School-2070-4_overview4,Forging skill reached level 5.
 Day-2070-1_option1_1,Help Wang Dachui with mining.
 Day-2070-1_option1_2,Maybe another day.
-R10044-3_name,Heaven Sword
+R10044-3_name,Heaven Sword,กระบี่อิงฟ้า
 R10044-3_overview1,Exchange for the blueprint of the Heaven Sword from Jian Chi.
 R10044-3_overview2,Collect the necessary materials according to the blueprint and reforge the Heaven Sword.
 R10044-3_overview3,Bring the Heaven Sword to Ou Ye Heng.
@@ -1695,7 +1695,7 @@ R10044-3_option1_1,Give the Heaven Sword to Ou Ye Heng. <color=#097a76>(1 Heaven
 R10044-3_option1_2,Not planning to do this for now.
 R10045-1_option1_1,Let me give it a try.
 R10045-1_option1_2,Maybe another day.
-R10045-1_option2_1,I'm ready. <color=#097a76>(Specific battle)</color>
+R10045-1_option2_1,I'm ready. <color=#097a76>(Specific battle)</color>,ข้าพร้อมแล้ว <color=#097a76>(เข้าสู่การต่อสู้)</color>
 R10045-1_option2_2,Not ready yet.
 R10045-2_option1_1,Escort ordinary goods.
 R10045-2_option1_2,Escort valuable goods. (Requires Tiger Escort reputation to reach 300)
