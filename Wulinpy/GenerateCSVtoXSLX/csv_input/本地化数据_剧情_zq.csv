@@ -2672,7 +2672,7 @@ R20025-1_5_1,"You've got some guts, kid. You can stay upstairs for free for four
 R20025-1_5_2,"If you think you can act recklessly because you're capable, I'll make sure you can't stay in the village!"
 R20025-1_5_3,"Innkeeper, where are you going?"
 R20025-1_5_4,"Alone with a woman, do you expect me to accompany you in the shop?\nI have my own place to live, no need for your concern."
-R20025-1_6_1,"Boss Hua, I was just joking, no need to take it so seriously..."
+R20025-1_6_1,"Boss Hua, I was just joking, no need to take it so seriously...",เถ้าแก่เนี้ยฮวา ข้าเพียงแค่ล้อเล่นเท่านั้น ไยท่านจึงได้จริงจังเช่นนี้...
 R20025-1_6_2,{yell}I don't want to see your pig face!\nTurn away from me!
 R20025-1_6_3,Is this better?
 R20025-1_6_4,Shut your mouth and be quiet!
@@ -2700,14 +2700,14 @@ R20025-2_4_1,I wonder if there's anything good to eat in the box...
 R20025-2_4_2,"{yell}You sneaky brat, what are you rummaging around for!"
 R20025-2_4_3,"Hello, boss. I'm just too hungry and looking for something to eat."
 R20025-2_4_4,"Behave yourself in my shop!\nIf I catch you sneaking around again, I'll kick you out and you won't be allowed back in!"
-R20025-2_4_5,"Hehe, don't be angry, Boss Hua, it won't happen again."
+R20025-2_4_5,"Hehe, don't be angry, Boss Hua, it won't happen again.",แหะๆ เถ้าแก่เนี้ยฮวาอย่าได้มีน้ำโหเลย ข้ารับรองว่ามันจะไม่เกิดขึ้นอีก
 R20025-2_6_1,"Why haven't you left yet, what are you doing hanging around in the shop?"
 R20025-2_6_2,"Thank you for letting me stay, Boss Hua. I should at least thank you before I leave."
 R20025-2_6_3,"Good boy, you know the rules.\nYou must be hungry, there's <color=#c44b0e>Steamed bun</color> on the stove, you can have it.","เด็กดี, เจ้ารู้กฎดีนี่,\nถ้าเจ้าหิว, บนเตามี<color=#c44b0e>ซาลาเปานึ่ง</color>อยู่, เจ้าเอาไปกินเถอะ."
-R20025-3_1_1,"I might have to stay in the village for a few days.\nI'll need your help with food and lodging during these days, Boss Hua."
+R20025-3_1_1,"I might have to stay in the village for a few days.\nI'll need your help with food and lodging during these days, Boss Hua.",ข้าจะพักที่หมู่บ้านสักสองสามวัน\nข้าต้องรบกวนท่านเรื่องอาหารและที่พักแล้ว เถ้าแก่เนี้ยฮวา 
 R20025-3_1_2,"No problem, as long as you have money, nothing is a problem.",ไม่มีปัญหา ตราบใดที่เจ้ามีเงินจ่าย ไม่มีปัญหาแน่นอน
 R20025-3_1_3,"I'm new here and worried about money.\nI'm so poor that I can't even afford to stay in your inn, Boss Hua.",ข้าเพิ่งมาถึงที่นี่ และมีปัญหาเรื่องเงิน\nตอนนี้ข้าจนมาก ไม่สามารถพักแรมที่โรงเตี๊ยมของท่านได้หรอกเถ้าแก่เนี้ยฮวา
-R20025-3_1_4,"There are so many ways to make money, you have hands and feet, you won't starve to death, will you?\nIf you want to know how to make money, go talk to <color=#c44b0e>Bao Dating</color> outside the door."
+R20025-3_1_4,"There are so many ways to make money, you have hands and feet, you won't starve to death, will you?\nIf you want to know how to make money, go talk to <color=#c44b0e>Bao Dating</color> outside the door.",มีวิธีหาเงินตั้งมากมาย เจ้ามีมือมีเท้ายังไงก็ไม่อดตายหรอก\nหากเจ้าอยากรู้วิธีหาเงินล่ะก็ ลองไปถาม<color=#c44b0e>เปาต้าถิง</color>ที่อยู่หน้าประตูสิ
 R20025-3_2_1,Your cooking skills are quite good in theory.\nWhy is this shop so deserted then?
 R20025-3_2_2,"The world is not peaceful, and there are fewer travelers passing by.\nThe villagers in our village just come to the shop for a few drinks, who would stay in the shop?"
 R20025-3_2_3,"Our area hasn't been invaded by those barbarians from the north, has it?\nWhy do you say the world is not peaceful?"
@@ -2737,7 +2737,7 @@ R20025-4_4_2,"(Strange, why is there a vague sense of unease in my heart)"
 R20025-4_5_1,Don't keep me waiting too long.
 R20025-4_6_1,"Have you collected enough money, are you going to buy it or not?"
 R20005-1_1_1,"I am the Village Head of this Nameless village.\nYou seem to be new here, are you?",ข้าคือหัวหน้าหมู่บ้านแห่งนี้\nเจ้าเพิ่งมาใหม่สินะ?
-R20005-1_2_1,"Greetings, elder. My name is {PlayerName},\nI just arrived and might stay in the village for a while, I might need your help."
+R20005-1_2_1,"Greetings, elder. My name is {PlayerName},\nI just arrived and might stay in the village for a while, I might need your help.",คารวะท่านผู้เฒ่า ข้า{PlayerName} \nเพิ่งเดินทางมาถึงหมู่บ้านนี้ และอาจพักอยู่ที่นี่ระยะหนึ่ง \nข้าอาจจะต้องขอความช่วยเหลือจากท่านในบางเรื่อง
 R20005-1_2_2,"Hmm, Courteous, very good, I like you.",อืมม เป็นคนสุภาพอ่อนน้อม ข้าชอบเจ้า
 R20005-1_2_3,"I am the Village Head of this village, feel free to find me if you need anything.\nI hope you will continue to behave well and become a person who is Honored by everyone.",ข้าเป็นหัวหน้าหมู่บ้านของหมู่บ้านแห่งนี้ หากเจ้าต้องการอะไร ตามหาข้าได้เสมอ\nข้าหวังว่าเจ้าจะประพฤติตัวดีต่อไปและกลายเป็นคนที่ได้รับเกียรติจากทุกคน
 R20005-1_2_4,"Thank you for your kind words, Village Head.",ขอบคุณสำหรับคำอวยพร ท่านหัวหน้าหมู่บ้าน
@@ -2771,7 +2771,7 @@ R20005-4_1_2,"It is indeed this fan, thank you, {PlayerSurName} for finding it.\
 R20005-4_2_1,"The world is going downhill, people are not as good as they used to be...\nYou are so young, I didn't expect you to be so greedy."
 R20005-4_3_1,"{PlayerSurName}, you are truly Honorable."
 R20005-4_4_1,"{yell}, you are a disgrace! A gentleman can be killed but not insulted, I don't want this Cattail fan anymore!"
-R20004-1_1_1,I am the model guide who knows everything and speaks everything - Bao Dating.\nI know everything about the big and small things in the surrounding villages!,ข้าคือแบบอย่างของผู้ชี้นำที่รู้สิ่งใดก็พูดสิ่งนั้น - เปาต้าถิง\nข้ารู้ทุกสิ่งทุกอย่างเกี่ยวกับเรื่องเล็กเรื่องใหญ่ในหมู่บ้านแห่งนี้!
+R20004-1_1_1,I am the model guide who knows everything and speaks everything - Bao Dating.\nI know everything about the big and small things in the surrounding villages!,ข้าคือผู้แนะนำที่รู้ทุกอย่าง และสามารถบอกเจ้าได้ทุกสิ่ง - เปาต้าถิง\nไม่ว่าจะเป็นเรื่องใหญ่น้อยใดๆที่เกิดขึ้นรอบๆหมู่บ้านแห่งนี้ข้ารู้หมดทั้งสิ้น!
 R20004-2_1_1,"Hua Siniang is the Yi Zhihua of this village, there are many people who want to pursue her!\nBut her personality is quite... you know, so not many people dare to approach her."
 R20004-2_2_1,"Do you know the origin of the name of the doctor, Bai Touweng?\nLet me tell you a secret, he just passed the age of forty, I don't know why he looks so old.",เจ้าทราบหรือไม่ว่าที่มาของชื่อของหมอ ไป่โถวเวิ่งนั้น ได้มาอย่างไร? \nข้าจะบอกความลับให้กับเจ้าอย่างหนึ่ง เขาเพิ่งจะย่างเข้าสู่วัยสี่สิบ แต่ข้าไม่รู้เหตุใดจึงดูแก่ชรานัก
 R20004-2_3_1,"The farming tools in the village are all made by the blacksmith, Wang Dachui, his craftsmanship is top-notch.\nI heard that he used to make swords and armor in the army, I don't know why he ended up here.",เครื่องมือทำไร่นาในหมู่บ้านทั้งหมดล้วนถูกสร้างขึ้นโดยช่างตีเหล็ก หวังต้าชุยฝีมือของเขานั้นยอดเยี่ยมยิ่งนัก\nข้าได้ยินมาว่าเขาเคยเป็นช่างตีดาบและเกราะให้กับกองทัพ แต่ข้าไม่รู้ว่าเขามาลงเอยที่นี่ได้อย่างไร
@@ -2891,14 +2891,14 @@ R20007-1_1_5,"Since I have a fate with you, young friend, I'll give you this <co
 R20007-1_1_6,"However, you'll have to find another place, young friend. This spot is already taken by me.",อย่างไรก็ดี สหายน้อยเจ้าไปหาที่อื่นเถอะ สถานที่แห่งนี้ข้านั่งอยู่ก่อนแล้ว
 R20008-1_1_1,"Big brother, are you afraid of bugs?",พี่ชาย ท่านกลัวแมลงหรือไม่?
 R20008-1_1_2,Bugs? How could a seven-foot-tall man like me be afraid of bugs!,แมลงงั้นหรือ? ชายหนุ่มสูงใหญ่อย่างข้าจะกลัวแมลงได้อย่าไร!
-R20008-1_1_3,"That's good, grandpa said bugs<color=#c44b0e>are poisonous</color>, and he doesn't let Xiao Bao catch bugs.\nXiao Ya and Xiao Hua said if Xiao Bao catches bugs, they won't play with Xiao Bao.",ดีเลย คุณปู่บอกว่าแมลง<color=#c44b0e>มีพิษ</color> และเขาไม่ยอมให้เสี่ยวเปาจับแมลง\nเซียวหยาและเสี่ยวหัวบอกว่าถ้าเสี่ยวเปาจับแมลงได้ พวกเขาจะไม่เล่นกับเสี่ยวเปา
-R20008-1_1_4,"Since big brother is not afraid of bugs, I'll give this <color=#c44b0e>Worm-catching net</color> to big brother.\nThis was made by the blacksmith uncle for Xiao Bao, big brother, don't lose it!",ในเมื่อพี่ใหญ่ไม่กลัวแมลง ข้าจะมอบ<color=#c44b0e>ตาข่ายดักหนอน</color>นี้ให้กับพี่ใหญ่\nนี่สร้างโดยลุงช่างตีเหล็กเพื่อเสี่ยวเปา พี่ใหญ่ อย่าพลาด!
+R20008-1_1_3,"That's good, grandpa said bugs<color=#c44b0e>are poisonous</color>, and he doesn't let Xiao Bao catch bugs.\nXiao Ya and Xiao Hua said if Xiao Bao catches bugs, they won't play with Xiao Bao.",ดีเลย ท่านปู่บอกว่า แมลงล้วน<color=#c44b0e>มีพิษ</color> และห้าไม่ให้เสี่ยวเป่าจับแมลง\nเสี่ยวหยาและเสี่ยวหัวบอกว่า ถ้าเสี่ยวเป่าจับแมลงได้ พวกเขาจะไม่เล่นกับเสี่ยวเปา
+R20008-1_1_4,"Since big brother is not afraid of bugs, I'll give this <color=#c44b0e>Worm-catching net</color> to big brother.\nThis was made by the blacksmith uncle for Xiao Bao, big brother, don't lose it!",ในเมื่อพี่ชายไม่กลัวแมลง ข้าจะมอบ<color=#c44b0e>ตาข่ายดักหนอน</color>นี้ให้กับพี่\nตาข่ายนี้ท่านลุงช่างตีเหล็กทำให้กับเสี่ยวเป่า พี่ชายอย่าทำหายเชียวนะ!
 R20008-1_1_5,"Uh, thank you, Xiao Bao...",อา.. ขอบใจนะเสี่ยวเป่า...
-R20009-1_1_1,"Big brother, do you want to play a guessing game?","ลูกพี่ใหญ่, มาเล่นเกมทายใจกันไหม?"
-R20009-1_10_1,"Wow, big brother is awesome!","ว้าว, พี่ใหญ่สุดยอดมาก!"
+R20009-1_1_1,"Big brother, do you want to play a guessing game?",พี่ชาย มาเล่นเกมทายคำกันไหม?
+R20009-1_10_1,"Wow, big brother is awesome!",ว้าว พี่ชายสุดยอดมาก!
 R20009-1_10_2,Here's a reward for you!,นี่คือรางวัลสำหรับพี่!
-R20009-1_2_1,"Little girl, ask your question!","สาวน้อย, ถามมาหน่อยสิ!"
-R20009-1_2_2,"Need half, leave half"
+R20009-1_2_1,"Little girl, ask your question!",แม่นางน้อย เชิญถามมาได้เลย!
+R20009-1_2_2,"Need half, leave half",อะไรเอ่ย ต้องการครึ่งหนึ่ง เหลือไว้ครึ่งหนึ่ง
 R20009-1_3_1,"Sorry, little girl, big brother has something to do, next time for sure!"
 R20009-1_3_2,Hmph! Why are all adults so busy?
 R20009-1_3_3,Promise me you'll play with me next time!
@@ -2912,9 +2912,9 @@ R20009-1_4_6,"Don't cry, little sister, I'll really play with you next time"
 R20009-1_5_1,"Big brother is so stupid, haha!"
 R20009-1_5_2,I won't play with you anymore!
 R20009-1_6_1,"Why, big brother, are you not convinced?"
-R20009-1_7_1,"Wow! Big brother is so smart, let's continue!"
-R20009-1_8_1,"There's no water in the pond, no soil on the ground"
-R20009-1_9_1,"More children are good, fewer children are wonderful"
+R20009-1_7_1,"Wow! Big brother is so smart, let's continue!",ว้าว! พี่ชายเก่งจัง ไปต่อเลยนะ!
+R20009-1_8_1,"There's no water in the pond, no soil on the ground",ไม่มีน้ำในบ่อ ไม่มีดินบนพื้น
+R20009-1_9_1,"More children are good, fewer children are wonderful",มีลูกหลายคนก็ดี มีลูกน้อยคนยิ่งยอดเยี่ยม
 R20010-1_1_1,"Big brother, do you want to play hide and seek?"
 R20010-1_1_2,"Uh, are we the only two playing?"
 R20010-1_1_3,I'm in too!
@@ -2947,12 +2947,12 @@ R20010-1_7_1,Thank you for playing hide and seek with us.
 R20010-1_7_2,Here's a reward for you~
 R20010-1_7_3,"Big brother, you're here!"
 R20010-1_8_1,"Big brother, you didn't find us at all last time, you're so silly!"
-R20011-1_1_1,"North-South Grocery, spanning ancient and modern times, good prices with sincerity.\nYoung man, are you here to buy something? I guarantee we have what you want!",สินค้าจากทางเหนือและใต้ ทั้งของโบราณและของใหม่ ราคาเป็นมิตรและจริงใจ\nน้องชาย เจ้าต้องการซื้ออะสิ่งใดหรือไม่? ข้ารับรองว่ามีของที่เจ้าต้องการแน่นอน!
+R20011-1_1_1,"North-South Grocery, spanning ancient and modern times, good prices with sincerity.\nYoung man, are you here to buy something? I guarantee we have what you want!",สินค้าจากทางเหนือและใต้ ทั้งของโบราณและของใหม่ ราคาเป็นมิตรและจริงใจ\nน้องชาย เจ้าต้องการซื้อสิ่งใดหรือไม่? ข้ารับรองว่ามีของที่เจ้าต้องการแน่นอน!
 R20011-1_1_2,"Peddler brother, you're carrying so much merchandise all over the place, huh?",พี่ชาย ท่านขนสินค้ามากมายจากทุกที่มาขายเลยหรือ?
 R20011-1_1_3,"Isn't that what business is all about?\nEvery place has its own specialties, and you might be able to sell them at a high price in another place.",การค้าขายย่อมเป็นเช่นนั้นมิใช่หรือ?\nทุกๆที่ล้วนมีสินค้าพิเศษเฉพาะตัว และเจ้าสามารถนำไปขายในราคาที่สูงขึ้นได้ในสถานที่อื่นๆ
 R20011-1_1_4,"That makes sense, but what if no one wants to buy it? Wouldn't that be a big loss?",ก็สมเหตุสมผลดี แต่ถ้าไม่มีใครอยากซื้อล่ะ? นั่นจะไม่เป็นการขาดทุนหรอกหรือ?
 R20011-1_1_5,"That's where experience comes in. There's no shortcut to this, you just have to do business with more people.\nThe more business you do, the more naturally you'll know how to buy low and sell high.",นั่นขึ้นอยู่กับประสบการณ์ ไม่มีทางลัด เจ้าเพียงแค่ต้องทำการค้ากับผู้คนมากขึ้น\nยิ่งเจ้าค้าขายมากเท่าไร เจ้าก็ยิ่งรู้วิธีการซื้อในราคาที่ถูกและนำไปขายได้ราคาแพงได้เอง
-R20011-1_1_6,"So you need to accumulate mercantile experience through constant buying and selling. I see, I think I understand now!","ดังนั้นเจ้าต้องสะสมประสบการณ์การค้าผ่านการซื้อและการขายอย่างต่อเนื่อง, เข้าใจแล้ว ข้าคิดว่าข้าเข้าใจแล้ว!"
+R20011-1_1_6,"So you need to accumulate mercantile experience through constant buying and selling. I see, I think I understand now!",ดังนั้นข้าจึงต้องสะสมประสบการณ์การทำการค้า ผ่านการซื้อและการขายอย่างต่อเนื่องสินะ เข้าใจแล้ว ข้าคิดว่าข้าเข้าใจแล้ว!
 R20011-1_1_7,"Hey, wait a minute, you've been chatting with me for so long, are you going to buy something or not?",เดี๋ยว รอก่อน เจ้าคุยกับข้ามาตั้งนาน ตกลงเจ้าจะซื้อสินค้าหรือไม่?
 R20011-1_1_8,"Next time, I'll definitely buy next time!",ไว้คราวหน้านะ คราวหน้าข้าจะซื้อแน่นอน!
 R20012-1_1_1,"Young man, are you here to learn mining skills?",น้องชาย อยากจะเรียนรู้ทักษะการขุดแร่ไหม?
@@ -2968,7 +2968,7 @@ R20022-1_1_4,"I am Bai Touweng, an expert in medicine and pharmacology. I'm just
 R20022-1_2_1,"To know by observation is divine, to know by hearing is saintly, to know by asking is skillful, to know by pulse-taking is clever. The four words of observation, hearing, asking, and pulse-taking are the guiding principles of medicine...",ดูแล้วรู้ ว่ากันว่าคือหมอเทพโอสถ ฟังแล้วรู้ ว่ากันว่าคือหมอมือหนึ่ง ถามแล้วรู้ ว่ากันว่าคือหมอมีฝีมือ จับชีพจรแล้วรู้ ว่ากันว่าคือหมอมีความเชียวชาญ 'ดู ฟัง ถาม จับ' สี่คำนี้ แท้จริงแล้วเป็นหัวใจสำคัญของการแพทย์
 R20022-1_2_2,"Bai Touweng talks eloquently, explaining those obscure medical theories to you one by one.",ไป่โถวเวิ่งพูดอย่างน้ำไหลไฟดับ อธิบายทฤษฎีการแพทย์อันซับซ้อนเหล่านั้นให้เจ้าฟังทีละข้อทีละข้อ
 R20022-1_2_3,One shichen later...,หนึ่งชั่วยามต่อมา
-R20022-1_2_4,"I admire you, I really do!\nI apologize for any offense I may have caused earlier.",นับถือๆ นับถือยิ่งนัก!\nข้าน้อยล่วงเกินท่านแล้วๆ
+R20022-1_2_4,"I admire you, I really do!\nI apologize for any offense I may have caused earlier.",นับถือๆ นับถือยิ่งนัก!\nข้าน้อยล่วงเกินท่านแล้ว ล่วงเกินท่านแล้ว
 R20022-1_2_5,"Tell me, what do you admire about me?",บอกข้ามาเถิด เจ้านับถือข้าเรื่องใด?
 R20022-1_2_6,"Your persuasion skills are amazing, you can talk non-stop for a shichen without repeating yourself.",ฝีปากของท่านช่างน่าอัศจรรย์ยิ่ง ท่านพูดไม่หยุดพักตลอดทั้งชั่วยามโดยที่เรื่องที่พูดนั้นไม่ซ้ำกันได้เลย
 R20022-1_3_1,I didn't expect you to see the wonders of these herbs!\nLet me explain them to you in detail...,ข้าไม่นึกว่าเจ้าจะเข้าใจความวิเศษของสมุนไพรเหล่านี้!\nขอให้ข้าอธิบายให้เจ้าฟังอย่างละเอียดเลยละกัน...
@@ -3256,11 +3256,11 @@ M1101-1_3_1,"Thank you for your patronage~\n{PlayerSurName}Young master, your ro
 M1101-1_4_1,"Hmph, since you have the courage to stay in my inn, be prepared to be fleeced."
 M1101-1_5_1,"Why so formal? This inn is now your home, I've already prepared the room for you, just go upstairs."
 M1101-1_6_1,{yell}Stop!\nPay for your stay first!,{yell}ช้าก่อน!\nต้องจ่ายค่าที่พักก่อนนะ!
-M1101-1_6_2,"Thanks to Boss Hua for reminding me, otherwise I would have forgotten to pay today's room fee."
+M1101-1_6_2,"Thanks to Boss Hua for reminding me, otherwise I would have forgotten to pay today's room fee.",ขอบคุณเถ้าแก่เนี้ยฮวาที่เตือน ไม่งั้นค่าคงลืมจ่ายค่าห้องเสียแล้ว
 M1101-1_7_1,"{PlayerSurName}Young master, I'm here to remind you that your stay has expired."
 M1101-1_8_1,"What are you dawdling in the room for!\nHurry up and leave, your stay has expired."
 M1101-1_9_1,{yell}Stop!\nPay for your stay first!,{yell}ช้าก่อน!\nต้องจ่ายค่าที่พักก่อนนะ!
-M1101-1_9_2,Thanks to Boss Hua for reminding...
+M1101-1_9_2,Thanks to Boss Hua for reminding...,ขอบคุณเถ้าแก่เนี้ยฮวาที่ช่วยเตือน...
 M1101-1_9_3,"Wait a minute, Fourth Lady, do I still need to pay to come back and rest now?"
 M1101-1_9_4,"I just made a habitual mistake~ Don't mind it, you must be tired these days, go upstairs and rest."
 M1101-2_1_1,"Boss, please prepare a table of food, I'm starving!","เถ้าแก่เนี๊ย, กรุณาเตรียมโต๊ะอาหารด้วย ข้าหิวแล้ว!"
@@ -3371,7 +3371,7 @@ M1100-1_1_1,{yell} Cluck cluck cluck!
 M1100-1_1_2,"Oh no, this rooster seems to have gone berserk!\nDid my stealing of chicken eggs or provoking the hens upset it?"
 M1100-1_2_1,"I'm going to be the strongest man in the world, I won't be defeated by a feathered beast!"
 M1100-1_3_1,"I can't believe I was made a mess by a rooster, how embarrassing...\nIt seems that even these seemingly insignificant animals should not be provoked easily..."
-Role1-6_1_1,I am the model guide who knows everything and speaks everything - Bao Dating.\nI know everything about the big and small things in the surrounding villages!,ข้าคือแบบอย่างของผู้ชี้นำที่รู้สิ่งใดก็พูดสิ่งนั้น - เปาต้าถิง\nข้ารู้ทุกสิ่งทุกอย่างเกี่ยวกับเรื่องเล็กเรื่องใหญ่ในหมู่บ้านแห่งนี้!
+Role1-6_1_1,I am the model guide who knows everything and speaks everything - Bao Dating.\nI know everything about the big and small things in the surrounding villages!,ข้าคือผู้แนะนำที่รู้ทุกอย่าง และสามารถบอกเจ้าได้ทุกสิ่ง - เปาต้าถิง\nไม่ว่าจะเป็นเรื่องใหญ่น้อยใดๆที่เกิดขึ้นรอบๆหมู่บ้านแห่งนี้ข้ารู้หมดทั้งสิ้น!
 Role1-6_1_2,"Judging from your name, you must know a lot.",ดูจากนามของเจ้าแล้ว ข้าว่าเจ้าคงรู้อะไรอยู่ไม่น้อย
 Role1-6_1_3,"Could you tell me how to get out of this nameless area and go somewhere else?\nI've been lost in the vicinity for several days, now I'm cold and hungry, I can't hold on much longer.",ท่านผู้รู้ ช่วยชี้ทางให้ข้าออกจากดินแดนไร้ชื่อแห่งนี้เพื่อไปยังที่อื่นได้หรือไม่?\nข้าหลงทางอยู่ในละแวกนี้มาหลายวันแล้ว ตอนนี้ข้าทั้งหิวแล้วก็หนาว ข้าคงทนต่อไปได้อีกไม่นาน
 Role1-6_1_4,I see...,ข้าเข้าใจๆ...

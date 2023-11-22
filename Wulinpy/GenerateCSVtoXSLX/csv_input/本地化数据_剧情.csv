@@ -343,9 +343,9 @@
 1004_3_1,"{PlayerSurName} young man, I should be grateful for your righteous action, but you've brought some trouble to the village."
 1004_3_10,Didn't expect this kid to be quite capable.
 1004_3_11,{PlayerGivenName} brother is a great hero!
-1004_3_12,{PlayerSurName} big brother is so awesome!
-1004_3_13,{PlayerGivenName} brother is the best!
-1004_3_14,It's really impressive.
+1004_3_12,{PlayerSurName} big brother is so awesome!,พี่{PlayerSurName}สุดยอดจริงๆ!
+1004_3_13,{PlayerGivenName} brother is the best!,พี่{PlayerGivenName}ยอดเยี่ยมที่สุด!
+1004_3_14,It's really impressive.,ช่างน่าประทับใจจริงๆ
 1004_3_2,"The one-day deadline they mentioned, I'm afraid it's not a joke, this village might be in trouble after a day."
 1004_3_3,"Haven't you ever thought about resisting? You can't just sit and wait for death, wouldn't that just encourage those people's arrogance."
 1004_3_4,"Resist? Easier said than done. How can the old, weak, sick, and young in this village possibly confront the fierce and evil men of Blue Wind Camp who are armed with weapons? They are all ruthless devils."
@@ -353,7 +353,7 @@
 1004_3_6,"Sigh, let's leave it to fate..."
 1004_3_7,"The great hero is here, but he turns a blind eye, it's really speechless."
 1004_3_8,"But to wipe out the Blue Wind Camp, we should plan for the long term..."
-1004_3_9,"{PlayerSurName} brother, well done!"
+1004_3_9,"{PlayerSurName} brother, well done!",พี่{PlayerSurName} ทำได้ดีมาก!
 1004_4_1,"Hmph! So useless, I thought he was a real hero.",ฮึ่ม! ไร้ประโยชน์ชะมัด นึกว่าหมอนั่นจะเป็นวีรบุรุษซะอีก
 1004_4_10,"Good intentions are not rewarded, it's really annoying."
 1004_4_2,"Old man, don't count on these amateurs to stand up for you! You'd better advise these villagers to leave here as soon as possible, so they don't bring trouble on themselves after a day!"
@@ -2264,7 +2264,7 @@ M20306-1_1_5,"Fine, I'll cooperate with you for now. We'll see what happens when
 M20306-1_2_1,"How did you get here?\nYou bastard, I'll make you regret betraying me!"
 M20306-1_2_2,I just love the look on your face when you can't stand me but can't do anything about it!
 M20306-1_2_3,"Kid, just you wait and see!"
-M20306-2_1_1,How did you get in?
+M20306-2_1_1,How did you get in?,เจ้าเข้ามาได้อย่างไร?
 M20306-2_1_2,A mere Lin'an City Prison can't hold me.
 M20306-2_1_3,What are you planning to do?
 M20306-2_1_4,"Of course, I'm going to let you run away. Otherwise, I would have attacked you when you weren't looking."

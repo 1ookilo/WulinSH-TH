@@ -3,7 +3,7 @@ NpcSteal_通用_CanNotSteal,This character cannot steal.,ตัวละคร�
 NpcPoision_通用_CanNotPoision,This character cannot poison.,ตัวละครนี้ไม่สามารถวางยาพิษได้
 NpcAssassin_通用_CanNotAssassin,This character cannot ambush.,ตัวละครนี้ไม่สามารถลอบโจมตีได้
 NpcAssassin_通用_RunAway,Murder! Murder!,ฆาตรกรรม! ฆาตรกรรม!
-NpcAssassin_通用_KaiGan,How dare you ambush me?
+NpcAssassin_通用_KaiGan,How dare you ambush me?,กล้าลอบโจมตีข้างั้นหรือ?
 NpcPoision_通用_RunAway,"What suspicious thing are you feeding me!|Oh my god, someone is poisoning!",แกเอาอะไรให้ข้ากิน!|แย่ล่ะ นี่มันยาพิษ!
 NpcPoision_通用_KaiGan,You are so bold!|Who gave you the courage to poison me!,แกกล้ามาก|ใครให้แกมาวางยาพิษข้า
 PlayerAssassin_通用_OverTop,Run!,วื่ง !!
@@ -47,7 +47,7 @@ NpcGifting_ItemRarity0,<#68cf24>{0}</color>,<#68cf24>{0}</color>
 NpcGifting_ItemRarity1,<#00c6f3>{0}</color>,<#00c6f3>{0}</color>
 NpcGifting_ItemRarity2,<#c851ff>{0}</color>,<#c851ff>{0}</color>
 NpcGifting_ItemRarity3,<#d09a09>{0}</color>,<#d09a09>{0}</color>
-FactionTrading_Treasurys,{1} has gold: {0},{1} มีทองคำ: {0}
+FactionTrading_Treasurys,{1} has gold: {0},{1} มีเงิน: {0}
 FactionTrading_FameRelationNoChange,Relations with {0} have reached {1},ความสัมพันธ์กับ {0} ถึงระดับ {1}
 FactionTrading_FameRelation,"Relations with {0} have reached {1}, you can enjoy a {2}% discount",ความสัมพันธ์กับ {0} ถึง {1} แล้ว เจ้าสามารถเพลิดเพลินกับส่วนลด {2}%
 FactionTrading_TreasurysCoinNoyEnough,%c%The other party does not have enough money,%c%อีกฝ่ายมีเงินไม่เพียงพอ
