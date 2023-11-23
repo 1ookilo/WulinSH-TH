@@ -2755,13 +2755,13 @@ R20005-2_1_7,"Hahaha, this painting is not even ranked in my collection..."
 R20005-2_1_8,"Ahem, I've said too much...\nI got carried away, I hope you don't mind."
 R20005-2_1_9,"Not at all, I learned a lot from listening to you talk about painting."
 R20005-2_1_10,"Hehe, that's good.\nMaster {PlayerSurName}, please feel free to look around, I'll continue to enjoy the painting."
-R20005-3_1_1,"""Scholars confuse the law with literature, heroes violate the law with martial arts""...\nIt's hard to live in this world."
-R20005-3_2_1,"Xiao Bao practices martial arts every day, he refuses to settle down and learn to read and write.\nHe's just like his father, what am I supposed to do?"
-R20005-3_3_1,"Young man, don't learn from those brutes who only know how to fight.\nLearn more about how to benefit the world, it's good for both the country and the people."
-R20005-3_4_1,"It's not peaceful outside, it's quite nice to be self-sufficient in this village."
-R20005-3_5_1,"Xiao Bao says he wants to be a hero when he grows up, or at least a martial arts champion.\nJust thinking about it gives me a headache."
-R20005-3_6_1,"Xiao Bao's father was a hot-blooded man who stood up for others, and he was killed by a group of brutes...\nAh... I don't dare to tell Xiao Bao the truth, I just lie to him that his father is still traveling."
-R20005-3_7_1,"I don't look down on all martial artists.\nLike Marshal Ye, who is brave and patriotic, leading the Ye Family Battalion to quell bandits and rebels everywhere, I Admire him very much."
+R20005-3_1_1,"""Scholars confuse the law with literature, heroes violate the law with martial arts""...\nIt's hard to live in this world.","""บัณฑิตตีความกฎหมายผิดเพี้ยนราวกับเป็นวรรณกรรม วีรบุรุษละเมิดกฎหมายด้วยวิทยายุทธ์""...\nช่างยากเย็นนักที่จะดำรงอยู่ในโลกเช่นนี้"
+R20005-3_2_1,"Xiao Bao practices martial arts every day, he refuses to settle down and learn to read and write.\nHe's just like his father, what am I supposed to do?",เสี่ยวเปาฝึกฝนวิทยายุทธทุกวัน เด็กนั้นไม่ยอมนั่งเรียนเขียนอ่าน\nช่างเหมือนกับบิดาของมันเสียจริง ข้าจะทำอย่างไรดี?
+R20005-3_3_1,"Young man, don't learn from those brutes who only know how to fight.\nLearn more about how to benefit the world, it's good for both the country and the people.",เจ้าหนุ่ม จงอย่าประพฤติตนเยี่ยงเหล่าคนป่าเถื่อนที่รู้จักแต่การฆ่าฟัน\nจงหมั่นศึกษาวิชาที่จะช่วยเหลือบ้านเมือง ย่อมเป็นคุณแก่ทั้งแผ่นดินและปวงประชา
+R20005-3_4_1,"It's not peaceful outside, it's quite nice to be self-sufficient in this village.",ภายนอกนั้นวุ่นวาย อยู่อย่างสงบในหมู่บ้านแห่งนี้พึ่งพาตนเองบ้าง ก็ไม่เลวนัก
+R20005-3_5_1,"Xiao Bao says he wants to be a hero when he grows up, or at least a martial arts champion.\nJust thinking about it gives me a headache.",เสี่ยวเปาเจ้าเด็กน้อยมันพูดว่า เมื่อโตขึ้นปรารถนาจะเป็นวีรบุรุษ\nเพียงแค่คิดข้าก็ปวดหัวเสียแล้ว
+R20005-3_6_1,"Xiao Bao's father was a hot-blooded man who stood up for others, and he was killed by a group of brutes...\nAh... I don't dare to tell Xiao Bao the truth, I just lie to him that his father is still traveling.",พ่อของเสี่ยวเปาเป็นคนเลือดร้อน มักออกหน้าแทนผู้อื่น แล้วก็ต้องจบชีวิตลงด้วยน้ำมือของกลุ่มคนชั่ว...\nเฮอ... ข้าไม่กล้าเล่าความจริงนั้นให้กับเสี่ยวเปา ข้าเพียงแสร้งบอกว่าบิดาของตนนั้นยังคงออกท่องยุทธภพอยู่
+R20005-3_7_1,"I don't look down on all martial artists.\nLike Marshal Ye, who is brave and patriotic, leading the Ye Family Battalion to quell bandits and rebels everywhere, I Admire him very much.",ข้าไม่ได้กล่าวดูแคลนเหล่าผู้ฝึกยุทธทั้งหลาย ดั่งเช่นแม่ทัพเย่ผู้กล้าหาญและรักชาติ\nนำทัพตระกูลเย่ออกปราบโจรผู้ร้ายและกบฏทั่วแผ่นดิน ข้านับถือท่านผู้นี้ยิ่งนัก
 R20005-3_8_1,"As for that so-called leader of the scholars, Cai Yuanchang, I don't think he lives up to his name.\nThe so-called ""a minister should die for his sovereign"", the current emperor has been kidnapped, but he is safe and sound, holding a high position, he doesn't have the spirit of a scholar at all.",เจ้าคนที่นามว่า ใช่ หยวนฉาง ที่เป็นผู้นำของเหล่าบัณฑิตนั้น ข้าว่าเจ้านั้นมันช่างไม่สมกับชื่อเสียงของมันเลยเสียจริง\nดังที่ว่ากันว่า 'ขุนนางพึ่งสละชีพเพื่อองค์ฮองเต้' บัดนี้ฮ่องเต้ถูกลักพาตัวไป แต่บุรุษผู้นี้กลับอยู่รอดปลอดภัย \nยังคงนั่งอยู่บนตำแหน่งสูงศักดิ์ ช่างไร้ซึ่งความกล้าหาญและศักดิ์ศรีของบัณฑิตยิ่งนัก
 R20005-3_9_1,"There are often some unclaimed items in the town pawnshop, among which there are many hidden gems.\nIf you are proficient in Appraise, you can naturally pick up the bargains and restore their original appearance."
 R20005-3_10_1,"I don't know where I lost my Cattail fan.\nIt's been with me for many years, it would be a pity if it was lost."
@@ -2837,16 +2837,16 @@ R20006-1_2_9,"Here's a blueprint for you. Familiarize yourself with it, then try
 R20006-1_2_10,Why are all the weapon blueprints so mediocre?
 R20006-1_2_11,"Do you want to reach the sky in one step, a novice wanting to forge divine weapons?\nStart with these simple weapons to hone your basic skills."
 R20006-1_3_1,"Sorry, I thought you were here to apply for an apprenticeship.\nI only have farming tools for sale now, see if you need anything.",ขออภัยด้วย ข้านึกเจ้ามาสมัครฝึกงาน\nตอนนี้ข้ามีแค่เครื่องมือทำสวนขาย เจ้าลองดูว่ามีอะไรที่เจ้าต้องการบ้าง
-R20006-2_1_1,"Young man, if you have time, could you do me a favor?"
-R20006-2_1_2,"What favor, let's hear it?"
-R20006-2_1_3,I'm running out of iron ore.\nCould you get me <color=#c44b0e>8 pieces of iron ore</color>?
-R20006-2_2_1,"As for how to get iron ore, you can ask the quarryman in the village.\nI'll be waiting here for your good news, don't let me down."
-R20006-2_3_1,"You go ahead with your work, we'll talk when you're free."
-R20006-2_4_1,"You're just in time! I knew I could count on you, you're a man of your word!"
-R20006-2_4_2,"This is the protective armor I used when I was young. I've been taking good care of it over the years,\nIf you don't mind, I'll give it to you."
-R20006-2_5_1,"Why are you only here now!\nAh, this batch... it's all ruined!"
-R20006-2_5_2,"I'll buy this ore.\nAh, if I had known, I would have gone myself..."
-R20006-2_6_1,"Do you have time to help me get some iron ore, young man?"
+R20006-2_1_1,"Young man, if you have time, could you do me a favor?",เจ้าหนุ่ม หากเจ้าพอมีเวลา ช่วยเหลือข้าอะไรสักอย่างได้ไหม? 
+R20006-2_1_2,"What favor, let's hear it?",มีเรื่องอันใดให้ช่วยหรือ เชิญเล่ามาเถิด?
+R20006-2_1_3,I'm running out of iron ore.\nCould you get me <color=#c44b0e>8 pieces of iron ore</color>?,แร่เหล็กของข้ากำลังใกล้จะหมด\nเจ้าช่วยหาแร่เหล็กให้ข้าสัก<color=#c44b0e> 8 ก้อน</color>ได้ไหม?
+R20006-2_2_1,"As for how to get iron ore, you can ask the quarryman in the village.\nI'll be waiting here for your good news, don't let me down.",ส่วนเรื่องจะหาแร่เหล็กอย่างไรนั้น เจ้าจงไปถามช่างหินในหมู่บ้านนี้ดูเสีย\nข้าจะเฝ้ารอข่าวดีจากเจ้าอยู่ที่นี้ อย่าได้ทำให้ข้าผิดหวังล่ะ
+R20006-2_3_1,"You go ahead with your work, we'll talk when you're free.",เจ้าเชิญทำงานของเจ้าต่อเถิด เมื่อเจ้าว่างแล้วเราค่อยมาคุยกัน
+R20006-2_4_1,"You're just in time! I knew I could count on you, you're a man of your word!",เจ้ามาได้เวลาจริงๆ ข้ารู้อยู่แล้วว่าเจ้าไว้วางใจได้ ต้องเป็นคนรักษาคำพูด! 
+R20006-2_4_2,"This is the protective armor I used when I was young. I've been taking good care of it over the years,\nIf you don't mind, I'll give it to you.",นี่คือเกราะป้องกันที่ข้าใช้สมัยยังหนุ่ม ข้าดูแลมันอย่างดีมาตลอดหลายปีที่ผ่านมา\nหากเจ้าไม่รังเกียจ ข้าจะมอบให้กับเจ้า
+R20006-2_5_1,"Why are you only here now!\nAh, this batch... it's all ruined!",เหตุใดเจ้าจึงถึงเพิ่งมาเอาตอนนี้\nอ๊า ผลงานของข้า... เสียหายหมดแล้ว!
+R20006-2_5_2,"I'll buy this ore.\nAh, if I had known, I would have gone myself...",ข้าจะต้องไปซื้อแร่ ต้องไปซื้อแร่\nอ๊า หากข้ารู้เช่นนี้ ข้าก็คงไปเองแล้ว...
+R20006-2_6_1,"Do you have time to help me get some iron ore, young man?",น้องชาย มีเวลาช่วยข้าไปหาแร่เหล็กให้หน่อยได้ไหม?
 R20006-3_1_1,Sigh...
 R20006-3_1_2,"Old man, you look worried. What's bothering you?"
 R20006-3_1_3,"Ah, don't laugh at me, brother. I, the hopeless Alcoholic, have done it again.\nI now owe Hua Siniang 2000 wen just for drinks."

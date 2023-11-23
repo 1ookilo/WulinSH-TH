@@ -5,7 +5,7 @@ Talking_ambition,Ambition,ปณิธาน
 Talking_freesleep,Free
 Talking_qiecuo,Spar,ประลอง
 Talking_treasure,Present treasure,แสดงสมบัติ
-Talking_fan,Cattail fan,พัดใบตาล
+Talking_fan,Cattail fan,พัดสาน
 Talking_leavecity,Leave the city,ออกจากเมือง
 Talking_serve,Serve,รับใช้
 Talking_map,Map,แผนที่
@@ -247,7 +247,7 @@ Role3-5_option1_1,Ready!,พร้อม!
 Role3-5_option1_2,Not ready yet.,ข้ายังไม่พร้อม
 Role3-6_option1_1,Keep moving!,ไปต่อ!
 Role3-6_option1_2,Stop moving.,หยุดเคลื่อนไหว
-Role3-7_option1_1,"New recruits' single combat training.<color=#097a76>(Stamina10, 2 quarters, solo fight)</color>","การฝึกการต่อสู้เดี่ยวของผู้รับสมัครใหม่<color=#097a76> (Stamina10, 2 quarters, solo fight)</color>"
+Role3-7_option1_1,"New recruits' single combat training.<color=#097a76>(Stamina10, 2 quarters, solo fight)</color>","การฝึกการต่อสู้เดี่ยวของผู้รับสมัครใหม่<color=#097a76>(แรงกาย 10, 2 เค่อ, ต่อสู้คนเดียว)</color>"
 Role3-7_option1_2,"Team combat training.<color=#097a76>(Stamina10, 2 quarters, specific battle, only the protagonist fights)</color>","การฝึกฝนต่อสู้เป็นกลุ่ม <color=#097a76> (แรงกาย 10, ครึ่งชั่วยาม, เข้าสู่การต่อสู้, เข้าต่อสู้เฉพาะตัวเอก)</color>"
 Role3-7_option1_3,"Large team combat training.<color=#097a76>(Stamina10, 2 quarters, specific battle, only the protagonist fights)</color>","การฝึกฝนต่อสู้เป็นกลุ่มใหญ่ <color=#097a76> (แรงกาย 10, ครึ่งชั่วยาม, เข้าสู่การต่อสู้, เข้าต่อสู้เฉพาะตัวเอก)</color>"
 Role3-7_option1_4,"One against a thousand combat training.<color=#097a76>(Stamina10, 2 quarters, specific battle, only the protagonist fights)</color>","การฝึกฝน หนึ่งต้านพัน <color=#097a76> (แรงกาย 10, 2 ชั่วยาม, เข้าสู่การต่อสู้, มีแค่ตัวเอกที่สู้)</color>"
@@ -326,19 +326,19 @@ Role3-26_option2_1,Step forward to rescue! <color=#c44b0e>(Specific battle)</col
 Role3-26_option2_2,Stop and do not move forward.,หยุด และไม่เดินหน้า
 Role3-26_option2_3,Show the Imperial token! <color=#097a76>(1 Imperial token)</color>,แสดงตราจักรพรรดิ! <color=#097a76>(1 ตราจักรพรรดิ)</color>
 Role3-26_name,Supreme Court storm,บุกศาลสูงสุด
-Role3-26_overview1,Eliminate the Yan Yun Iron Army within <color=#c44b0e>{TagNum:Role3-26十天倒计时}</color> days and save Marshal Ye. (The location of the remaining Yan Army forces can be found on the Yan Army military map.)
-Role3-26_overview2,Eliminate the Yan Yun Iron Army within <color=#c44b0e>9</color> days and save Marshal Ye. (The location of the remaining Yan Army forces can be found on the Yan Army military map.)
-Role3-26_overview3,Eliminate the Yan Yun Iron Army within <color=#c44b0e>8</color> days and save Marshal Ye. (The location of the remaining Yan Army forces can be found on the Yan Army military map.)
-Role3-26_overview4,Eliminate the Yan Yun Iron Army within <color=#c44b0e>7</color> days and save Marshal Ye. (The location of the remaining Yan Army forces can be found on the Yan Army military map.)
-Role3-26_overview5,Eliminate the Yan Yun Iron Army within <color=#c44b0e>6</color> days and save Marshal Ye. (The location of the remaining Yan Army forces can be found on the Yan Army military map.)
-Role3-26_overview6,Eliminate the Yan Yun Iron Army within <color=#c44b0e>5</color> days and save Marshal Ye. (The location of the remaining Yan Army forces can be found on the Yan Army military map.)
-Role3-26_overview7,Eliminate the Yan Yun Iron Army within <color=#c44b0e>4</color> days and save Marshal Ye. (The location of the remaining Yan Army forces can be found on the Yan Army military map.)
-Role3-26_overview8,Eliminate the Yan Yun Iron Army within <color=#c44b0e>3</color> days and save Marshal Ye. (The location of the remaining Yan Army forces can be found on the Yan Army military map.)
-Role3-26_overview9,Eliminate the Yan Yun Iron Army within <color=#c44b0e>2</color> days and save Marshal Ye. (The location of the remaining Yan Army forces can be found on the Yan Army military map.)
-Role3-26_overview10,Eliminate the Yan Yun Iron Army within <color=#c44b0e>1</color> day and save Marshal Ye. (The location of the remaining Yan Army forces can be found on the Yan Army military map.)
-Role3-26_overview11,Return to the Supreme Court within <color=#c44b0e>{TagNum:Role3-26十天倒计时}</color> days to rescue Marshal Ye.
+Role3-26_overview1,Eliminate the Yan Yun Iron Army within <color=#c44b0e>{TagNum:Role3-26十天倒计时}</color> days and save Marshal Ye. (The location of the remaining Yan Army forces can be found on the Yan Army military map.),กวาดล้างกองทัพเหล็กหยานหยุนภายใน<color=#c44b0e>{TagNum:Role3-26十天倒计时}</color> วัน และช่วยเหลือแม่ทัพใหญ่เย่. (ตำแหน่งของกองกำลังกองทัพหยานที่เหลือสามารถดูได้จากแผนที่ทหารของกองทัพหยาน)
+Role3-26_overview2,Eliminate the Yan Yun Iron Army within <color=#c44b0e>9</color> days and save Marshal Ye. (The location of the remaining Yan Army forces can be found on the Yan Army military map.),กวาดล้างกองทัพเหล็กหยานหยุนภายใน <color=#c44b0e>9</color> วัน และช่วยแม่ทัพใหญ่เย่. (ตำแหน่งของกองกำลังกองทัพหยานที่เหลือสามารถดูได้จากแผนที่ทหารของกองทัพหยาน)
+Role3-26_overview3,Eliminate the Yan Yun Iron Army within <color=#c44b0e>8</color> days and save Marshal Ye. (The location of the remaining Yan Army forces can be found on the Yan Army military map.),กวาดล้างกองทัพเหล็กหยานหยุนภายใน <color=#c44b0e>8</color> วัน และช่วยแม่ทัพใหญ่เย่. (ตำแหน่งของกองกำลังกองทัพหยานที่เหลือสามารถดูได้จากแผนที่ทหารของกองทัพหยาน)
+Role3-26_overview4,Eliminate the Yan Yun Iron Army within <color=#c44b0e>7</color> days and save Marshal Ye. (The location of the remaining Yan Army forces can be found on the Yan Army military map.),กวาดล้างกองทัพเหล็กหยานหยุนภายใน <color=#c44b0e>7</color> วัน และช่วยแม่ทัพเย่. (ตำแหน่งของกองกำลังกองทัพหยานที่เหลือสามารถดูได้จากแผนที่ทหารของกองทัพหยาน)
+Role3-26_overview5,Eliminate the Yan Yun Iron Army within <color=#c44b0e>6</color> days and save Marshal Ye. (The location of the remaining Yan Army forces can be found on the Yan Army military map.),กวาดล้างกองทัพเหล็กหยานหยุนภายใน <color=#c44b0e>6</color> วัน และช่วยแม่ทัพเย่. (ตำแหน่งของกองกำลังกองทัพหยานที่เหลือสามารถดูได้จากแผนที่ทหารของกองทัพหยาน)
+Role3-26_overview6,Eliminate the Yan Yun Iron Army within <color=#c44b0e>5</color> days and save Marshal Ye. (The location of the remaining Yan Army forces can be found on the Yan Army military map.),เหลือเวลา <color=#c44b0e>5</color> วันในการกวาดล้างกองทัพเหล็กหยานหยุน และช่วยแม่ทัพเย่. (ตำแหน่งของกองกำลังกองทัพหยานที่เหลือสามารถดูได้จากแผนที่ทหารของกองทัพหยาน)
+Role3-26_overview7,Eliminate the Yan Yun Iron Army within <color=#c44b0e>4</color> days and save Marshal Ye. (The location of the remaining Yan Army forces can be found on the Yan Army military map.),เหลือเวลา <color=#c44b0e>4</color> วันในการกวาดล้างกองทัพเหล็กหยานหยุน และช่วยแม่ทัพเย่. (ตำแหน่งของกองกำลังกองทัพหยานที่เหลือสามารถดูได้จากแผนที่ทหารของกองทัพหยาน)
+Role3-26_overview8,Eliminate the Yan Yun Iron Army within <color=#c44b0e>3</color> days and save Marshal Ye. (The location of the remaining Yan Army forces can be found on the Yan Army military map.),เหลือเวลา <color=#c44b0e>3</color> วันในการกวาดล้างกองทัพเหล็กหยานหยุน และช่วยแม่ทัพใหญ่เย่. (ตำแหน่งของกองกำลังกองทัพหยานที่เหลือสามารถดูได้จากแผนที่ทหารของกองทัพหยาน)
+Role3-26_overview9,Eliminate the Yan Yun Iron Army within <color=#c44b0e>2</color> days and save Marshal Ye. (The location of the remaining Yan Army forces can be found on the Yan Army military map.),เหลือเวลา <color=#c44b0e>2</color> วันในการกวาดล้างกองทัพเหล็กหยานหยุน และช่วยแม่ทัพเย่. (ตำแหน่งของกองกำลังกองทัพหยานที่เหลือสามารถดูได้จากแผนที่ทหารของกองทัพหยาน)
+Role3-26_overview10,Eliminate the Yan Yun Iron Army within <color=#c44b0e>1</color> day and save Marshal Ye. (The location of the remaining Yan Army forces can be found on the Yan Army military map.),เหลือเวลา <color=#c44b0e>1</color> วันในการกวาดล้างกองทัพเหล็กหยานหยุน และช่วยแม่ทัพเย่. (ตำแหน่งของกองกำลังกองทัพหยานที่เหลือสามารถดูได้จากแผนที่ทหารของกองทัพหยาน)
+Role3-26_overview11,Return to the Supreme Court within <color=#c44b0e>{TagNum:Role3-26十天倒计时}</color> days to rescue Marshal Ye.,กลับไปที่ศาลสูงสุดภายใน <color=#c44b0e>{TagNum:Role3-26十天倒计时}</color> วันเพื่อช่วยเหลือแม่ทัพเย่.
 Role3-26_overview12,"The ten-day deadline has passed, hurry back to the Supreme CourtInfo to check on Marshal Ye.",เส้นตาย 10 วัน ผ่านไปแล้ว รีบกลับไปศาลสูงสุดเพื่อตรวจสอบแม่ทัพเย่
-Role3-26_overview13,<color=#c44b0e>Today is the deadline to eliminate the Yan Yun Iron Army and rescue Marshal Ye.</color> (The location of the remaining forces of the Yan Army can be found on the InfoYan Army military map.)
+Role3-26_overview13,<color=#c44b0e>Today is the deadline to eliminate the Yan Yun Iron Army and rescue Marshal Ye.</color> (The location of the remaining forces of the Yan Army can be found on the InfoYan Army military map.),<color=#c44b0e>วันนี้เป็นวันสุดท้ายในการกวาดล้างกองทัพเหล็กหยานหยุน และช่วยแม่ทัพเย่</color>. (ตำแหน่งของกองกำลังกองทัพหยานที่เหลือสามารถดูได้จากแผนที่ทหารของกองทัพหยาน)
 M1100-6_option1_dialog,(What do I want to know?),(ข้าอยากรู้เรื่องอะไร)
 M1100-6_option1_1,Tell me about this village and its surroundings.,บอกเกี่ยวกับหมู่บ้าน และพื้นที่โดยรอบ
 M1100-6_option1_2,Who are the important figures in the village?,ใครคือพวกคนสำคัญในหมู่บ้าน
@@ -419,8 +419,8 @@ R20025-4_option1_1,"I'll buy it, just as you said, 10 taels. <color=#097a76>(10 
 R20025-4_option1_2,"This thing is worth at most 5 guan.<color=#097a76>(Mercantile level 3 Advance, 5000 wen)</color>","เจ้านี่มีค่าอย่างมากก็ 5 ตำลึงเท่านั้นเอง <color=#097a76>(ค้าขายเลเวล 3, 5000 อีแปะ)</color>"
 R20025-4_option1_3,"You can pawn it, I'm not interested!",ท่านเอาไปขายเถอะ ข้าไม่สนใจ
 R20025-4_option1_4,"I don't have enough money right now, let me gather some...",ตอนนี้ข้ายังไม่มีเงิน ขอข้าเก็บเงินก่อนนะ
-R20005-4_overview1,"The Cattail fan of the Village Head of Nameless village is missing, if you have time, help him find it."
-R20005-4_name,Cattail fan of the Village Head
+R20005-4_overview1,"The Cattail fan of the Village Head of Nameless village is missing, if you have time, help him find it.",พัดสานของหัวหน้าหมู่บ้านหมู่บ้านนิรนามหายไป หากเจ้ามีเวลา ช่วยเขาตามหามันที
+R20005-4_name,Cattail fan of the Village Head,พัดสานของหัวหน้าหมู่บ้าน
 R20005-4_option1_1,"I can give it to you, but you have to give me 200 wen for my trouble!",ข้าจะให้ท่านก็ได้ แต่ท่านต้องจ่ายข้ามา 200 อีแปะเป็นค่าเหนื่อยนะ
 R20005-4_option1_2,"Here you go, don't lose it again.",เอ้านี่ อย่าทำหายอีกล่ะ
 R20005-4_option1_3,Want it? Beg me and I'll give it to you!,อยากได้เหรอ อ้อนวอนข้าสิแล้วข้าจะให้!
@@ -500,7 +500,7 @@ R20001-4option1_2,"Don't get me wrong, I have nothing to give you.",อย่า
 R20001-4option2_1,"Just like now, a hunter who hunts for a living.",ตอนนี้ เป็นเพียงนายพรานที่ล่าสัตว์เพื่อประทังชีวิต
 R20001-4option2_2,A scholar who later abandoned literature to learn martial arts.,บัณฑิตที่ภายหลังละทิ้งการเรียนเพื่อศึกษาวิชายุทธ
 R20001-4option2_3,A soldier who hides his identity here.,ทหารที่ซ่อนตัวตนอยู่ที่นี่
-R20001-4option2_4,A freeloader who was driven out by his wife.
+R20001-4option2_4,A freeloader who was driven out by his wife.,คนที่หาผลประโยชน์จากผู้อื่นความถูกขับไล่ออกไปโดยภรรยาของเขา
 R20001-4option3_1,Are there no descendants of the Yang family?,เช่นนี้แล้วตระกูลหยางก็ไม่มีทายาทแล้วงั้นรึ
 R20001-4option3_2,Is General Yang's martial arts lost now?,เคล็ดวิชาของแม่ทัพหยางสาปสูญไปแล้วอย่างนั้นหรือ?
 R20001-4option3_3,Did General Yang leave any relics?,แม่ทัพหยางได้ทิ้งสมบัติตกทอดไว้หรือไม่?
@@ -522,7 +522,7 @@ M1101-2-1_name,Jade pendant,จี้หยก
 M1101-2-1option_1_dialogue,"(Five Guan is 5000 coins, this is not a small amount, should I buy this jade pendant?)",(ห้าตำลึง คือ 5000 อีแปะ ไม่ใช่เงินน้อยๆ ควรซื้อจี้หยกนี้ดีไหม)
 M1101-2-1option_1_1,"Bite the bullet, I'll buy this <color=#c44b0e>Lotus gem jade pendant</color>!<color=#097a76>(5000 coins)</color>",กัดฟัน ข้าตกลงซื้อ <color=#c44b0e>สร้อยคอบัวหยก</color>!<color=#097a76>(5000 อีแปะ)</color>
 M1101-2-1option_1_2,"Too expensive, can't afford to buy.",แพงเกินไป ซื้อไม่ไหว
-M1101-3_name,Provocative diner
+M1101-3_name,Provocative diner,อาหารเย็นที่ยั่วยวน
 M1101-3option1_1,I'll cook to satisfy the boss~<color=#097a76>(Cooking level 1 Beginner)</color>,ข้าจะทำให้หัวหน้าพอใจเอง~<color=#097a76>(ทำอาหารระดับ 1)</color>
 M1101-3option1_2,"Master Pang, here's 500 wen to appease your anger!<color=#097a76>(500 wen)</color>",ท่านผัง นี่ 500 อีแปะเพื่อบรรเทาความโกรธของท่าน! <color=#097a76>(500 อีแปะ)</color>
 M1101-3option1_3,No need to reason with troublemakers!<color=#097a76>(Specific battle)</color>,ไม่จำเป็นต้องใช้เหตุผลกับพวกชอบก่อปัญหาหรอก! <color=#097a76>(เข้าสู่การต่อสู้)</color>
@@ -703,7 +703,7 @@ M20300-66_option1_1,Is this money enough to show my sincerity?<color=#097a76>(50
 M20300-66_option1_2,Casually flex your arm muscles.<color=#097a76>(Strength reaches 8)</color>,เบ่งกล้ามแขนอวด <color=#097a76>(พละกำลังถึง 8)</color>
 M20300-66_option1_3,Stare at the performer with a malevolent look.<color=#097a76>(Benevolence less than -50)</color>,จ้องมองผู้แสดงด้วยสายตามุ่งร้าย<color=#097a76> (ศีลธรรมน้อยกว่า -50)</color>
 M20300-66_option1_4,Come back later.,กลับมาวันหลัง
-M20300-67_option1_1,Three plays of Peony Pavilion and Lv Dongbin.
+M20300-67_option1_1,Three plays of Peony Pavilion and Lv Dongbin.,ละครสามเรื่องของศาลาดอกโบตั๋นและลู่ตงปิน
 M20300-67_option1_2,"Time is money, and it's hard to buy.",เวลาเป็นเงินเป็นทอง ยากจะหาอะไรมาแทนได้
 M20300-67_option1_3,Money can't buy happiness.,เงินซื้อความสุขไม่ได้
 M20300-67_option1_4,"Flowers have fragrance, moon has shade.","ดอกไม้มีกลิ่น, พระจันทร์มีเงา"
@@ -721,7 +721,7 @@ M20200-11_option2_2,"Participate in the ""Mysterious"" level Arena.<color=#097a7
 M20200-11_option2_3,"Participate in the ""Earth"" level Arena.<color=#097a76>(10 Guan)</color>","เข้าร่วมลานประลองระดับ ""ดิน"" <color=#097a76>(10 ตำลึง)</color>"
 M20200-11_option2_4,"Participate in the ""Heaven"" level Arena.<color=#097a76>(30 Guan)</color>","เข้าร่วมลานประลองระดับ ""ฟ้า"" <color=#097a76>(30 ตำลึง)</color>"
 M20200-11_option2_5,Let me think about it.,ขอคิดดูก่อน
-M20209-1_name,Glittering Artifact Auction
+M20209-1_name,Glittering Artifact Auction,งานประมูลสินค้าหอไข่มุก
 M20209-1_option1_1,Please repeat that.,พูดซ้ำได้หรือไม่
 M20209-1_option1_2,Understood.,เข้าใจแล้ว
 M20209-1_option2_1,Participate in the auction.<color=#097a76>(At least 1 shichen)</color>,เข้าร่วมงานประมูล <color=#097a76>(อย่างน้อย 1 ชั่วยาม)</color>
@@ -760,7 +760,7 @@ M20100-12-2_option1_1,"Prepare to kowtow! <color=#c44b0e>(The ground here is har
 M20100-12-2_option2_1,Continue to kowtow!,คำนับต่อไป!
 M20100-12-2_option2_2,End it here. <color=#c44b0e>(All previous efforts will be abandoned)</color>,พอแค่นี้ <color=#c44b0e>(ความพยายามก่อนหน้าจะหายไป)</color>
 M20100-12-3_option1_1,Prepare to kowtow!,เตรียมตัวคำนับ!
-M20100-12-4_option1_1,"Pray for the people of Chuxiang City. <color=#097a76>(Stamina 1, 1 quarter of an hour)</color>"
+M20100-12-4_option1_1,"Pray for the people of Chuxiang City. <color=#097a76>(Stamina 1, 1 quarter of an hour)</color>","สวดมนตร์ให้แก่ชาวเมืองฉู่เซียง <color=#097a76>(แรงกาย 1, 1 เค่อ)</color>"
 M20100-12-4_option1_2,Run away when there's nothing to do.,ไม่มีอะไรให้ทำ 
 Role4-2_name,The Sorrow of Chuxiang,ความเศร้าโศกของฉู่เซียง
 Role4-2_overview1,"The iron hooves of the Yan Kingdom are already at the gates of Chuxiang City, trapping Chuxiang City in a siege.",เหล่าอาชาเหล็กแห่งอาณาจักรหยานมาถึงหน้าประตูเมืองฉู่เซียงแล้ว เตรียมตัวล้อมปราบเมืองฉู่เซียง
@@ -773,7 +773,7 @@ Role4-4_option1_2,"I can't even protect myself now, good luck to us all.",ตั
 Role4-4_name,Escort,คุ้มกัน
 Role4-4_overview1,Find the middle-aged man and his family in the village to the east of Chuxiang City.,ตามหาชายวัยกลางคน และครอบครัว ในหมู่บ้านทางตะวันออกของเมืองฉู่เซียง
 Role4-4_overview2,Escort the middle-aged man's family from outside Chuxiang City to Chuxiang City.,พาครอบครัวของชายวัยกลางคนจากนอกเมืองฉู่เซียงเข้าไปในเมือง
-Role4-5_name,Yan Yun Soul Arrest
+Role4-5_name,Yan Yun Soul Arrest,หยานหยุนจับกุมวิญญาณ
 Role4-5_overview1,<color=#c44b0e>Kill Lü Wenhuan within three days</color> to get the antidote for the Soul Arrest Pill.,<color=#c44b0e>สังหารลู่เหวินหวนภายใน 3 วัน</color>เพื่อหายาแก้พิษยาจับวิญญาณ
 Role4-5_option1_1,Give your real name.,บอกชื่อจริงให้
 Role4-5_option1_2,Make up an identity.,บอกชื่อปลอม
@@ -942,7 +942,7 @@ M20106-2_name,Find the doctor,ตามหาหมอ
 M20106-2_overview1,Go to Wild Wolf Valley to find the doctor.,ไปที่ หุบเขาหมาป่า เพื่อค้นหาหมอ
 M20106-2_overview2,Tell the young medicine boy at Charity House about the doctor.,บอกเด็กร้านยาที่หอเยียวยาเรื่องเกี่ยวกับหมอ
 M20106-2_overview3,The doctor will return to Charity House in a few days.,หมอจะกลับมาที่หอเยียวยาภายในไม่กี่วันนี้
-M20106-2_overview4,Find a way to deceive the young medicine boy.
+M20106-2_overview4,Find a way to deceive the young medicine boy.,หาวิธีที่จะหลอกล่อเด็กร้านยา
 M20106-2_option1_1,Go help! <color=#c44b0e>(specific fight)</color>,เข้าช่วย! <color=#c44b0e>(เข้าสู่การต่อสู้)</color>
 M20106-2_option1_2,So many wolves... I'd better run first.,มีหมาป่ามากเกินไป...ข้าหนีก่อนดีกว่า
 M20106-2_option2_1,"I'll accompany you, sir. <color=#097a76>(6 shichen)</color>",ข้าจะไปกับท่านเองขอรับ <color=#097a76>(6 ชั่วยาม)</color>
@@ -964,9 +964,9 @@ M5011-1_option1_10,Put the <color=#c44b0e>Animal ring - The Rooster</color> into
 M5011-1_option1_11,Put the <color=#c44b0e>Animal ring - The Dog</color> into the groove.,วาง <color=#c44b0e>แหวนนักษัตร - จอ</color> ลงบนแท่น
 M5011-1_option1_12,Put the <color=#c44b0e>Animal ring - The Pig</color> into the groove.,วาง <color=#c44b0e>แหวนนักษัตร - กุน</color> ลงบนแท่น
 M5011-1_option1_13,Turn around and run away.,หันหลัง และวิ่งหนี
-Day-2_option1_1,Bet 6 Wen on the curse. <color=#097a76>(6 Wen)</color>
-Day-2_option1_2,Bet 66 Wen on the curse. <color=#097a76>(66 Wen)</color>
-Day-2_option1_3,Bet 666 Wen on the curse. <color=#097a76>(666 Wen)</color>
+Day-2_option1_1,Bet 6 Wen on the curse. <color=#097a76>(6 Wen)</color>,เดิมพัน 6 อีแปะกับคำสาป <color=#097a76>(6 อีแปะ)</color>
+Day-2_option1_2,Bet 66 Wen on the curse. <color=#097a76>(66 Wen)</color>,เดิมพัน 66 อีแปะกับคำสาป <color=#097a76>(66 อีแปะ)</color>
+Day-2_option1_3,Bet 666 Wen on the curse. <color=#097a76>(666 Wen)</color>,เดิมพัน 666 อีแปะกับคำสาป <color=#097a76>(666 อีแปะ)</color>
 Day-2_option1_4,"Return the favor, no money given.",ตอบแทนบุญคุณ ไม่ให้เงิน
 Day-11_option1_1,Likes salty taste.,ชอบรสเค็ม
 Day-11_option1_2,Likes sweet taste.,ชอบรสหวาน
@@ -1017,12 +1017,12 @@ M20300-8_option1_1,"I insist on entering, dare you stop me? <color=#c44b0e>(Star
 M20300-8_option1_2,"Give you this money as a token of respect, can you let me pass? <color=#097a76>(Scrap silver 2 liang)</color>",ให้เงินนี้แทนความเคารพ ขอผ่านไปได้มั้ย <color=#097a76>(เศษเงิน 2 ชิ้น)</color>
 M20300-8_option1_3,"Considering our Relations, can you pretend you didn't see me? <color=#097a76>(Relations reach 60)</color>",เราสนิทกันเช่นนี้ เจ้าช่วยทำเป็นไม่เห็นข้าได้หรือไม่ <color=#097a76>(ความสัมพันธ์ถึง 60)</color>
 M20300-8_option1_4,Turn around and run away.,หันหลังและจากไป
-M20300-11_option1_1,Force my way in.<color=#c44b0e>(Specific Battle)</color>
+M20300-11_option1_1,Force my way in.<color=#c44b0e>(Specific Battle)</color>,ฝ่าเข้าไป <color=#c44b0e>(เข้าสู่การต่อสู้)</color>
 M20300-11_option1_2,Can you let me pass for the sake of money? <color=#097a76>(Scrap silver 10 liang)</color>,เพื่อเงินนี้ข้าขอผ่านไปได้มั้ย <color=#097a76>(เศษเงิน 10 ชิ้น)</color>
 M20300-11_option1_3,"Considering our Relations, can you pretend you didn't see me? <color=#097a76>(Relations reach 60)</color>",เราสนิทกันเช่นนี้ เจ้าช่วยทำเป็นไม่เห็นข้าได้หรือไม่ <color=#097a76>(ความสัมพันธ์ถึง 60)</color>
 M20300-11_option1_4,Present the Hero Card.<color=#097a76>(Hero Card x1)</color>,แสดงเทียบจอมยุทธ์ <color=#097a76>(เทียบจอมยุทธ์ x1)</color>
 M20300-11_option1_5,Turn around and run away.,หันหลังและจากไป
-M20100-18_option1_1,Force my way in.<color=#c44b0e>(Specific Battle)</color>
+M20100-18_option1_1,Force my way in.<color=#c44b0e>(Specific Battle)</color>,ฝ่าเข้าไป <color=#c44b0e>(เข้าสู่การต่อสู้)</color>
 M20100-18_option1_2,Can you let me pass for the sake of money? <color=#097a76>(Scrap silver 10 liang)</color>,เพื่อเงินนี้ข้าขอผ่านไปได้มั้ย <color=#097a76>(เศษเงิน 10 ชิ้น)</color>
 M20100-18_option1_3,"Considering our Relations, can you pretend you didn't see me? <color=#097a76>(Relations reach 60)</color>",เราสนิทกันเช่นนี้ เจ้าช่วยทำเป็นไม่เห็นข้าได้หรือไม่ <color=#097a76>(ความสัมพันธ์ถึง 60)</color>
 M20100-18_option1_4,Let Lü Zixu handle it.<color=#097a76>(Lü Zixu accompanying)</color>,ปล่อยให้ลู่จีซู่จัดการ <color=#097a76>(ลู่จีซู่ตามไปด้วย)</color>
@@ -1048,17 +1048,17 @@ M20300-17_option3_4,Send {TeamerName:4} to fight.,ส่ง {TeamerName:4} ไ�
 M20300-17_option3_5,Send {TeamerName:5} to fight.,ส่ง {TeamerName:5} ไปสู้
 M20300-17_option4_1,Give up on the treasure.<color=#c44b0e>(No more challenges)</color>,ยอมแพ้เรื่องสมบัติ <color=#c44b0e>(ไม่มีการท้าทายอีก)</color>
 M20300-17_option4_2,Don't give up.,ไม่ยอมแพ้
-M20200-16_option1_1,Force my way in.<color=#c44b0e>(Specific Battle)</color>
+M20200-16_option1_1,Force my way in.<color=#c44b0e>(Specific Battle)</color>,ฝ่าเข้าไป <color=#c44b0e>(เข้าสู่การต่อสู้)</color> 
 M20200-16_option1_2,Could you do me a favor for this silver?<color=#097a76>(Scrap silver x10)</color>,เพื่อเงินนี้เจ้าช่วยอะไรข้าหน่อยได้มั้ย <color=#097a76> (เศษเงิน x10)</color>
 M20200-16_option1_3,"Considering our Relations, can you pretend you didn't see me? <color=#097a76>(Relations reach 60)</color>",เราสนิทกันเช่นนี้ เจ้าช่วยทำเป็นไม่เห็นข้าได้หรือไม่ <color=#097a76>(ความสัมพันธ์ถึง 60)</color>
 M20200-16_option1_4,Let Fuqing Junzhu handle it.<color=#097a76>(Fuqing Junzhu accompanying)</color>,ปล่อยให้ ฝูชิงจุนชู จัดการ <color=#097a76>(ฝูชิงจุนชูอยู่ในทีม)</color>
 M20200-16_option1_5,Turn around and run away.,หันหลังและจากไป
-M20200-16_option1_6,Introduce yourself as a Graduate and state your purpose.
+M20200-16_option1_6,Introduce yourself as a Graduate and state your purpose.,แนะนำตัวเองในฐานะบัณฑิตและบอกวัตถุประสงค์
 M5012-3_option1_1,Please repeat that.,พูดซ้ำได้หรือไม่
 M5012-3_option1_2,Understood.,เข้าใจแล้ว.
-M5012-3_option2_1,"Sign up for the ""Little Shrimp"" level."
-M5012-3_option2_2,"Sign up for the ""Chief"" level."
-M5012-3_option2_3,"Sign up for the ""Grandmaster"" level."
+M5012-3_option2_1,"Sign up for the ""Little Shrimp"" level.","ลงทะเบียนในระดับ ""กุ้งแห้ง"""
+M5012-3_option2_2,"Sign up for the ""Chief"" level.","ลงทะเบียนในระดับ ""หัวหน้า"""
+M5012-3_option2_3,"Sign up for the ""Grandmaster"" level.","ลงทะเบียนในระดับ ""ปรมาจารย์"""
 M5012-3_option2_4,Don't sign up for now.,ยังไม่ลงทะเบียน
 M1500-1_option1_1,"Fortune favors the bold, let's see what treasures are inside!<color=#c44b0e>(Start the battle immediately)</color>",โชคชะตาจะเข้าข้างผู้กล้า ไหนดูซิว่ามีสมบัติอะไรข้างใน! <color=#c44b0e>(เริ่มการต่อสู้ทันที)</color>
 M1500-1_option1_2,"Better safe than sorry, don't go in.",ปลอดภัยไว้ก่อน ไม่เข้าไป
@@ -1123,7 +1123,7 @@ R10071-1_option3_2,"It's only 20 Guan, it's nothing!<color=#097a76>(20000 Wen)</
 R10071-1_option3_3,I really don't have that much money on me...,ข้าไม่ได้มีเงินติดตัวมากขนาดนั้น
 R10071-1_option3_4,"Forget it, I don't want this marriage!",ช่างมันเถอะ ข้าไม่ต้องการแต่งงานแล้ว!
 R10071-1_name1,Martial Arts Contest for a Bride,การประลองเลือกคู่
-R10071-1_overview1,You can register for the martial arts contest for a bride at the Daliang City Arena from Si Shi to You Shi.
+R10071-1_overview1,You can register for the martial arts contest for a bride at the Daliang City Arena from Si Shi to You Shi.,เจ้าสามารถลงทะเบียนการแข่งขันการประลองเลือกคู่ได้ที่สนามประลองเมืองต้าเหลียงในยาม Si Shi ถึง You Shi
 R10071-2_name1,Propose at Duke Kang's Manor,ขอแต่งงานที่ตำหนักองค์ชายคัง
 R10071-2_overview1,Go to Lin'an City·Duke Kang's Manor and propose to Kang Wang.,ไปยังเมืองหลินอัน·ตำหนักองค์ชายคังเพื่อทำการขอแต่งงาน
 R10071-2_overview2,Bring the treasure from the top of the Enlighten Tower to Kang Wang to gain his approval.,นำสมบัติจากหอรู้แจ้งไปให้คังหวังเพื่อให้เขาอณุญาต
@@ -1151,7 +1151,7 @@ R10089-2_option1_2,"I have something else to do today, I'll accompany you anothe
 R10089-4_option1_1,"Give the ""Far Sealing Hand"" Manual to Fang Xiao Bai.<color=#097a76>(One Far Sealing Hand)</color>","มอบตำรา ""ดรรชนีสกัดจุดกลางอากาศ"" ให้กับฟางเสี่ยวไป๋ <color=#097a76>(ดรรชนีสกัดจุดกลางอากาศ)</color>"
 R10089-4_option1_2,It's not the time yet.,ยังไม่ถึงเวลา
 R10018-2_name,Four Gentlemen Formation,ค่ายกลสี่ปราชญ์
-R10018-2_overview1,You can go to the Confucius Temple to help Cai Youzhi break through the formation at midnight Zi Shi.
+R10018-2_overview1,You can go to the Confucius Temple to help Cai Youzhi break through the formation at midnight Zi Shi.,เจ้าสามารถไปที่วัดขงจื้อเพื่อช่วยไช่โหยวจื่อฝ่าแนวหินในเวลากลางคืนยาม Zi Shi
 R10018-2_option1_1,"Brother Cai, let me lend you a hand!<color=#097a76>(Specific battle)</color>",พี่ไช่ ให้ข้าช่วยนะ! <color=#097a76>(เข้าสู่การต่อสู้)</color>
 R10018-2_option1_2,I need to prepare a bit more.,ข้อต้องเตรียมตัวอีกเล็กน้อย
 R10025-2_option1_1,Donate 50 guan.<color=#097a76>(50000 wen)</color>,บริจาค 50 ตำลึง <color=#097a76>(50000)</color>
@@ -1193,11 +1193,11 @@ XS20300-5_overview1,Drive away the thieves who appear near the Lin'an Government
 XS20300-6_overview1,Drive away the thieves who appear near the Maiden House between <color=#c44b0e>11pm and 3am</color> every night.,"ไล่โจรที่ปรากฏตัวใกล้ๆ ""ตำหนักพิสุทธิ์"" ระหว่าง <color=#c44b0e> 4 ทุ่ม ถึง ตี 3</color>ของทุกคืน"
 XS20300-7_overview1,Drive away the thieves who appear near Duke Kang's manor between <color=#c44b0e>11pm and 3am</color> every night.,ไล่โจรที่ปรากฏตัวใกล้ๆ ตำหนักองค์ชายคัง ระหว่าง <color=#c44b0e> 4 ทุ่ม ถึง ตี 3</color>ของทุกคืน
 XS20300-8_name,Treasure Hunt Puzzle,ปริศนาล่าสมบัติ
-XS20300-8_overview0,"A good Samaritan has buried something somewhere in the city. If anyone can find this item based on the clues, not only will they receive the item, but they will also receive an additional reward."
+XS20300-8_overview0,"A good Samaritan has buried something somewhere in the city. If anyone can find this item based on the clues, not only will they receive the item, but they will also receive an additional reward.",ชาวสะมาเรียผู้ใจดีได้ฝังบางสิ่งไว้ที่ไหนสักแห่งในเมือง หากใครสามารถค้นหาไอเท็มนี้ตามเบาะแส ไม่เพียงแต่พวกเขาจะได้รับไอเท็ม แต่ยังจะได้รับรางวัลเพิ่มเติมอีกด้วย
 XS20300-8_overview1,Find the buried item in Lin'an City based on the clues.,ตามหาสิ่งของที่ถูกฝังไว้ในเมืองหลินอันตามคำใบ้
-XS20300-8_overview2,"Clue one, ""A thousand hammers and chisels come out of the deep mountains, and the raging fire burns as if it's nothing."""
-XS20300-8_overview3,"Clue two, ""A glance back and a smile, a hundred charms are born, the six palaces are colorless."""
-XS20300-8_overview4,"Clue three, ""Once you enter the palace gate, it's as deep as the sea, from then on, everyone you meet is a stranger."""
+XS20300-8_overview2,"Clue one, ""A thousand hammers and chisels come out of the deep mountains, and the raging fire burns as if it's nothing.""",เบาะแสที่หนึ่ง “ค้อนและสิ่วจำนวนนับพันออกมาจากภูเขาลึก ไฟที่ลุกโชนก็ลุกโชนราวกับไม่มีอะไรเลย”
+XS20300-8_overview3,"Clue two, ""A glance back and a smile, a hundred charms are born, the six palaces are colorless.""","เบาะแสที่สอง ""มองย้อนกลับไปและยิ้ม เสน่ห์นับร้อยเกิดขึ้น พระราชวังทั้งหกไม่มีสี"""
+XS20300-8_overview4,"Clue three, ""Once you enter the palace gate, it's as deep as the sea, from then on, everyone you meet is a stranger.""",เบาะแสที่สาม “เมื่อเข้าไปในประตูวังแล้ว มันก็ลึกราวกับทะเล ตั้งแต่นั้นมา ทุกคนที่คุณพบก็เป็นคนแปลกหน้า”
 XS20300-8_overview5,Find the location where the item is buried near the Lin'an Government Office.,ตามหาที่อยู่ของสิ่งของที่ฝังไว้ใกล้ๆ ศาลาว่าการมืองหลินอัน
 XS20300-8_option1_1,"Start digging! <color=#097a76>(Iron shovel1, 1 ke)</color>","เริ่มขุด! <color=#097a76>(พลั่วเหล็ก 1 ชิ้น, 1 เค่อ)</color>"
 XS20300-8_option1_2,Give up for now.,ยอมแพ้ไปก่อน
@@ -1215,15 +1215,15 @@ XS20200-5_overview1,Drive away the thieves who appear near the Daliang Governmen
 XS20200-6_overview1,Drive away the thieves who appear near the Glittering Artifact House <color=#c44b0e>between midnight and 2 a.m.</color> every night.,ขับไล่พวกหัวขโมยที่ปรากฏใกล้กับหอไข่มุก <color=#c44b0e>ระหว่างเที่ยงคืนถึงตี 2</color> ทุกคืน
 XS20200-7_overview1,Drive away the thieves who appear near the Pawn shop <color=#c44b0e>between midnight and 2 a.m.</color> every night.,ไล่โจรที่ปรากฏตัวใกล้ๆ โรงจำนำ ระหว่าง <color=#c44b0e> เที่ยงคืน ถึง ตี 2</color>ของทุกคืน
 XS20200-8_overview1,Find the hidden item in Daliang City according to the clues.,ตามหาสิ่งของที่ถูกซ่อนไว้ในเมืองต้าเหลียงตามคำใบ้
-XS20200-8_overview2,"Clue one, ""There is a path to the mountain of books through diligence, and a boat to the boundless sea of learning through hardship."""
-XS20200-8_overview3,"Clue two, ""Miraculous medicine and silver needles remove diseases, and the saintly heart calls back spring."""
-XS20200-8_overview4,"Clue three, ""Fine wine from Lanling and tulips, served in a jade bowl with Amber light."""
+XS20200-8_overview2,"Clue one, ""There is a path to the mountain of books through diligence, and a boat to the boundless sea of learning through hardship.""","เบาะแสที่หนึ่ง ""มีเส้นทางสู่ภูเขาหนังสือด้วยความขยันหมั่นเพียร และมีเรือสู่ทะเลแห่งการเรียนรู้อันไร้ขอบเขตผ่านความยากลำบาก"""
+XS20200-8_overview3,"Clue two, ""Miraculous medicine and silver needles remove diseases, and the saintly heart calls back spring.""","เบาะแสที่สอง ""ยามหัศจรรย์และเข็มเงินช่วยขจัดโรคได้ และหัวใจที่ศักดิ์สิทธิ์ก็เรียกฤดูใบไม้ผลิกลับมา"""
+XS20200-8_overview4,"Clue three, ""Fine wine from Lanling and tulips, served in a jade bowl with Amber light.""","เบาะแสที่สาม ""สุราชั้นดีจากหลานหลิงและทิวลิป เสิร์ฟในชามหยกพร้อมไฟสีเหลืองอำพัน"""
 XS20200-8_overview5,Find the place where something is buried near the Tower of Prosperity in Daliang.,ตามหาของที่ถูกฝังไว้ใกล้ๆหอเจิดจรัสเมืองต้าเหลียง
 XS20200-9_overview1,Go to Zhongzhou Ferry to escort the Merchant ship across the river.,ไปยังท่าเรือจงโจวเพื่อคุ้มกันเรือพ่อค้าเดินทาง
 XS20100-1_overview1,Drive away the <color=#c44b0e>beggars</color> causing trouble at the entrance of Hotel Prosperous.,ไล่ <color=#c44b0e>ขอทาน</color> ที่สร้างปัญหาหน้าทางเข้าโรงเตี๊ยมรุ่งโรจน์
 XS20100-1_overview2,Return to the bulletin board in Chuxiang City to complete the task.,กลับไปยังกระดานภารกิจเมืองหลินอันเพื่อสำเร็จภารกิจ
 XS20100-2_overview1,Drive away the <color=#c44b0e>beggars</color> causing trouble at the entrance of Forgotten House.,ขับไล่<color=#c44b0e>ขอทาน</color>ที่ก่อให้เกิดปัญหาที่ทางเข้าหอสุราลืมทุกข์
-XS20100-3_overview1,Drive away the <color=#c44b0e>beggars</color> causing trouble at the entrance of Rare Artifact Shop.
+XS20100-3_overview1,Drive away the <color=#c44b0e>beggars</color> causing trouble at the entrance of Rare Artifact Shop.,ขับไล่ <color=#c44b0e>ขอทาน</color> ออกไป ซึ่งก่อให้เกิดปัญหาที่ทางเข้าของร้านขายของหายาก
 XS20100-4_overview1,Drive away the <color=#c44b0e>ruffians</color> causing trouble in the Chuxiang City Market during the day.,ไล่ <color=#c44b0e>อันธพาล</color> ที่สร้างปัญหาในตลาดเมืองฉู่เซียงช่วงสว่าง
 XS20100-5_overview1,Catch the thieves who appear near the Ding family <color=#c44b0e>between midnight and 2 a.m.</color> every night.,จับโจรที่ปรากฏตัวใกล้ๆ บ้านตระกูลติง ระหว่าง <color=#c44b0e> เที่ยงคืน ถึง ตี 2</color>ของทุกคืน
 XS20100-6_overview1,Drive away the thieves who appear near the General's mansion <color=#c44b0e>between midnight and 2 a.m.</color> every night.,ไล่โจรที่ปรากฏตัวใกล้ๆ จวนแม่ทัพ ระหว่าง <color=#c44b0e> เที่ยงคืน ถึง ตี 2</color>ของทุกคืน
@@ -1244,7 +1244,7 @@ Pick-6_option2_2,Hand over the score of Guangling Melody. <color=#097a76>(Guangl
 Pick-6_option2_3,I won't hand over anything! <color=#c44b0e>(Start the fight immediately)</color>,ข้าจะไม่ให้อะไรทั้งนั้น!<color=#c44b0e>(เริ่มการต่อสู้ทันที)</color>
 Pick-6_option3_1,Go up and say hello! <color=#c44b0e>(Start the fight immediately)</color>,เข้าไป และทักทาย!<color=#c44b0e>(เริ่มการต่อสู้ทันที)</color>
 Pick-6_option3_2,Turn around and run away.,หันหลังและจากไป
-M1000-10_option1_1,Go to Info.<color=#097a76>(2 quarters)</color>
+M1000-10_option1_1,Go to Info.<color=#097a76>(2 quarters)</color>,ไปที่ข้อมูล<color=#097a76>(ครึ่งชั่วยาม)</color>
 M1000-10_option1_2,Come back later.,กลับมาวันหลัง
 M5050-1_option1_1,"Meditate under the waterfall.<color=#097a76>(12 shichen, Stamina100)</color>","ทำสมาธิใต้น้ำตก <color=#097a76>(12 ชั่วยาม, แรงกาย 100)</color>"
 M5050-1_option1_2,Try again later.,ลองใหม่คราวหลัง
@@ -1268,13 +1268,13 @@ M20100-21_option3_1,Continue!,เล่นต่อ!
 M20100-21_option3_2,Quit while you're ahead.,เลิกขณะที่ยังได้เปรียบอยู่
 M20121-1_option1_1,"Please give me a topic, sir.",เชิญบอกหัวข้อมาเถอะ
 M20121-1_option1_2,"I have other things to do, maybe next time.",ข้ามีเรื่องอื่นต้องทำ ไว้คราวหน้าเถอะ
-M20103-3_option1_1,Sign up for the courtyard exam.<color=#097a76>(12 shichen)</color>
+M20103-3_option1_1,Sign up for the courtyard exam.<color=#097a76>(12 shichen)</color>,ลงทะเบียนสอบสนาม<color=#097a76>(12 ชั่วยาม)</color>
 M20103-3_option1_2,Let me think about it.,ขอคิดดูก่อน
 M20219-1_option1_1,Ask the teacher for a topic.,ถามหัวข้อจากอาจารย์
 M20219-1_option1_2,Let me think about it.,ขอคิดดูก่อน
-M20203-3_option1_1,Sign up for the township exam.<color=#097a76>(12 shichen)</color>
+M20203-3_option1_1,Sign up for the township exam.<color=#097a76>(12 shichen)</color>,ลงทะเบียนสอบเทศบาล<color=#097a76>(12 ชั่วยาม)</color>
 M20203-3_option1_2,Let me think about it.,ขอคิดดูก่อน
-M2030-1_option1_1,Sign up for the conference exam.<color=#097a76>(12 shichen)</color>
+M2030-1_option1_1,Sign up for the conference exam.<color=#097a76>(12 shichen)</color>,ลงทะเบียนสอบ <color=#097a76>(12 ชั่วยาม)</color>
 M2030-1_option1_2,Let me think about it.,ขอคิดดูก่อน
 M5016-1_option1_1,Start a conversation.,เริ่มบทสนทนา
 M5016-1_option1_2,Quietly run away.,ออกไปอย่างเงียบๆ
@@ -1282,13 +1282,13 @@ R10006-2_option1_1,Believe what Shi Chen says.<color=#c44b0e>(Specific battle)</
 R10006-2_option1_2,Think Shi Chen is framing Lü Wenhuan.<color=#c44b0e>(Solo fight)</color>,คิดว่าสือเฉินใส่ร้ายลู่เหวินหวน <color=#c44b0e>(สู้คนเดียว)</color>
 R10057-1_option1_1,Agree to fight with Niu Er!<color=#097a76>(Solo fight)</color>,ตกลงสู้กับหนิวเอ๋อ! <color=#097a76>(สู้คนเดียว)</color>
 R10057-1_option1_2,Refuse to fight with Niu Er.,ปฏิเสธที่จะสู้กับหนิวเอ๋อ
-R10058-1_option1_1,Give Li San 2000 wen.<color=#097a76>(2000 wen)</color>
+R10058-1_option1_1,Give Li San 2000 wen.<color=#097a76>(2000 wen)</color>,ให้หลี่ซาน 2000 อีแปะ<color=#097a76>(2000 อีแปะ)</color>
 R10058-1_option1_2,"Excuse me, Run away.",ขออภัย ข้าขอตัวก่อน
 R10033-1_option1_1,Accept Ye Yun's challenge.<color=#097a76>(Solo fight)</color>,รับคำท้าประลองของเย่หยุน<color=#097a76>(สู้คนเดียว)</color>
 R10033-1_option1_2,Refuse the challenge.,ปฏิเสธคำท้า
 R10033-2_option1_1,Agree with Ye Yun.<color=#c44b0e>(12 shichen)</color>,เห็นด้วยกับเย่หยุน <color=#c44b0e>(12 ชั่วยาม)</color>
 R10033-2_option1_2,Not now.,ยังไม่ใช่ตอนนี้
-R10041-1_option1_1,"Please teach me, senior!<color=#097a76>(Stamina10, 2 quarters, Solo fight)</color>"
+R10041-1_option1_1,"Please teach me, senior!<color=#097a76>(Stamina10, 2 quarters, Solo fight)</color>","ศิษย์พี่, โปรดชี้แนะ!<color=#097a76>(แรงกาย 10, 2 เค่อ, ต่อสู้คนเดียว)</color>"
 R10041-1_option1_2,Not ready yet.,ข้ายังไม่พร้อม
 M20302-4_option1_1,Ask passerby for 1000 wen.,ขอคนผ่านทาง 1000 อีแปะ
 M20302-4_option1_2,Exchange information with passerby.,แลกเปลี่ยนข้อมูลกับคนผ่านทาง
@@ -1322,7 +1322,7 @@ School-2020-3_option1_1,Ready!,พร้อม!
 School-2020-3_option1_2,Not ready yet.,ข้ายังไม่พร้อม
 School-2020-4_option1_1,Go and check it out!,เข้าไปดู!
 School-2020-4_option1_2,Mind your own business.,สนใจเรื่องของตัวเองดีกว่า
-School-2020-4_option2_1,Break off with Xie E!<color=#c44b0e>(Specific Battle)</color>
+School-2020-4_option2_1,Break off with Xie E!<color=#c44b0e>(Specific Battle)</color>,ตัดความสัมพันธ์กับเซียเอ้อร์!<color=#c44b0e>(เข้าสู่การต่อสู้)</color>
 School-2020-4_option2_2,Pretend nothing happened.,ทำเหมือนไม่มีอะไรเกิดขึ้น
 Kill-2020_talk,Exterminate,กำจัด
 Kill-2020_option1_1,Exterminate Shifa Temple!<color=#c44b0e>(Direct Battle)</color>,กำจัดอารามฉีฟา!<color=#c44b0e>(ต่อสู้โดยตรง)</color>
@@ -1333,7 +1333,7 @@ R10034-0_option1_2,Bow normally!,คารวะตามปกติ!
 M10070-1_option1_1,I am the messenger of General Lu from Chuxiang City!,ข้าเป็นคนส่งสารของแม่ทัพลู่จากเมืองฉู่เซียง!
 M10070-1_option1_2,I came specifically to exterminate you!<color=#c44b0e>(Direct Battle)</color>,ข้ามาที่นี่เพื่อกำจัดเจ้าโดยเฉพาะ! <color=#c44b0e>(เข้าสู่การต่อสู้)</color>
 M10070-1_option1_3,"Excuse me, Run away.",ขออภัย ข้าขอตัวก่อน
-M10070-1_option2_1,Why not!
+M10070-1_option2_1,Why not!,ทำไมจะไม่!
 M10070-1_option2_2,Only a fool would believe your provocation!,มีแต่คนโง่เท่านั้นแหละที่จะหลงกลการยั่วยุของเจ้า!
 M10070-4_option1_1,Reveal your identity as Huiyuan.,แสดงตนเป็นฮุ่ยหยวน
 M10070-4_option1_2,Reveal your identity as an ordinary Jianghu person.,แสดงตนเป็นชาวยุทธธรรมดาคนหนึ่ง
@@ -1403,7 +1403,7 @@ Story-2030-3_option1_1,Agree!,ตกลง!
 Story-2030-3_option1_2,Refuse!,ปฏิเสธ!
 Story-2030-3-1_option1_1,Deciphering the unparalleled martial arts is important! <color=#097a76>(1 shichen)</color>,การแก้ปริศนาวรยุทธไร้ผู้ต้านสำคัญกว่า! <color=#097a76>(1 ชั่วยาม)</color>
 Story-2030-3-1_option1_2,I can't let this masterpiece be destroyed in my hands.,ข้าจะไม่ปล่อยให้ผลงานชิ้นเอกต้องถูกทำลายในมือข้า
-R10008-0_option1_1,Go out on the horse.
+R10008-0_option1_1,Go out on the horse.,ออกไปขี่ม้า
 R10008-0_option1_2,Ignore it. <color=#097a76>(Protagonist solo)</color>,ช่างมัน <color=#097a76>(ตัวเอกสู้คนเดียว)</color>
 R10008-5_option1_1,Place the <color=#c44b0e>Wedding Stone</color>. <color=#097a76>(1 Wedding Stone)</color>,วาง <color=#c44b0e>ศิลาวิวาห์</color>.<color=#097a76>(1 ศิลาวิวาห์)</color>
 R10008-5_option1_2,"I was too impulsive just now, I regret it.",ข้าใจร้อนเกินไป ข้าผิดไปแล้ว
@@ -1414,7 +1414,7 @@ R10008-6_option2_2,I can't bear it.,ข้าทนไม่ไหว
 R10008-6_option3_1,Save Ling Mengdie! <color=#097a76>(Lose 15% Max HP)</color>,ช่วยหลิงเหมิงตี้! <color=#097a76>(เสียพลังชีวิตสูงสุด 15%)</color>
 R10008-6_option3_2,I can't bear it.,ข้าทนไม่ไหว
 Spe-2030-5_option1_1,Challenge! <color=#097a76>(Solo by protagonist)</color>,ท้าประลอง! <color=#097a76>(ตัวเอกสู้คนเดียว)</color>
-Spe-2030-5_option1_2,Fall Back.
+Spe-2030-5_option1_2,Fall Back.,ถอยกลับ
 M20222-1_option1_1,Accept Qi Wang's recommendation.,ยอมรับการแนะนำของฉีหวัง
 M20222-1_option1_2,Reject Qi Wang's recommendation.,ปฏิเสธการแนะนำของฉีหวัง
 School-2030-20_name,Longevity Tomb,สุสานอมตะ
@@ -1422,12 +1422,12 @@ School-2030-20_overview1,"Go to Longevity Tomb, activate the bronze tripod in th
 School-2030-20_overview2,Return to Confucius Temple to report.,กลับไปรายงานที่วัดขงจื๊อ
 School-2030-20_option1_1,Try to drip blood into the tripod.,ลองหยดเลือดลงไปในแท่น
 School-2030-20_option1_2,Talk about it later.,ไว้คุยเรื่องนี้ทีหลัง
-School-2030-20_option2_1,Ask for benefits.
-School-2030-20_option2_2,Leave Confucius Temple.
-M20300-31_name,Wife of humble origin
+School-2030-20_option2_1,Ask for benefits.,ขอผลประโยชน์.
+School-2030-20_option2_2,Leave Confucius Temple.,ออกจากวัดขงจื้อ
+M20300-31_name,Wife of humble origin,ภรรยาผู้มีต้นกำเนิดต่ำต้อย
 M20300-31_overview1,Go to Maiden House to find the woman's husband.,ไปที่ตำหนักพิสุทธิ์ เพื่อค้นหาสามีของผู้หญิงคนนั้น
 M20300-31_overview2,Send a message to the Maiden House servant or the Maiden House owner.,ส่งข้อความให้คนรับใช้ของตำหนักพิสุทธิ์ หรือเจ้าของตำหนักพิสุทธิ์
-M20300-31_overview3,"Tell the woman, her husband is now in Epiphyllum Valley."
+M20300-31_overview3,"Tell the woman, her husband is now in Epiphyllum Valley.",บอกแม่นางคนนั้นว่า ตอนนี้สามีของเธออยู่ที่หุบเขาโบตั๋น
 M20300-31_option1_1,Join the crowd.,เข้าไปมุง
 M20300-31_option1_2,Don't meddle in other's business.,ไม่ยุ่งเรื่องคนอื่น
 M20300-31_option2_1,Help out<color=#097a76>(Specific fight)</color>,ให้ความช่วยเหลือ<color=#097a76>(เข้าสู่การต่อสู้)</color>
@@ -1441,12 +1441,12 @@ M20300-32_option1_2,I'm quite rich<color=#097a76>(10 Guan)</color>,ข้าค�
 M20300-32_option1_3,I'm quite famous<color=#097a76>(Fame reached level 5 Famous)</color>,ข้าค่อนข้างมีชื่อ<color=#097a76>(ชื่อเสียงถึงเลเวล 5)</color>
 M20300-32_option1_4,It's really hard to say...,มันก็พูดยาก...
 M20300-32_option2_1,"Beautiful, simply breathtaking!",ช่างงดงามจนแทบลืมหายใจ!
-M20300-32_option2_2,"Red skull, beauty is meaningless."
+M20300-32_option2_2,"Red skull, beauty is meaningless.",กระโหลกแดง งดงามไม่มีความหมาย
 M20300-32_option3_1,Please teach me!<color=#c44b0e>(Solo fight by protagonist)</color>,สั่งสอนด้วย! <color=#c44b0e>(ตัวเอกสู้คนเดียว)</color>
 M20300-32_option3_2,Gift to improve Relations.<color=#097a76>(Man TuoluoRelations40)</color>,ให้ของขวัญเพื่อเพิ่มความสัมพันธ์ <color=#097a76>(ความสัมพันธ์กับ ม่านถัวหลัว ถึง 40)</color>
 M20300-32_option3_3,Let me think about it.,ขอคิดดูก่อน
-R20063-1_option1_1,Top scholar status.
-R20063-1_option1_2,Guerrilla general.
+R20063-1_option1_1,Top scholar status.,สถานะปราชญ์ชั้นนำ
+R20063-1_option1_2,Guerrilla general.,กองโจรทั่วไป!
 R20063-2_option1_1,Place the <color=#c44b0e>Wedding Stone</color>. <color=#097a76>(1 Wedding Stone)</color>,วาง <color=#c44b0e>ศิลาวิวาห์</color>.<color=#097a76>(1 ศิลาวิวาห์)</color>
 R20063-2_option1_2,"I was too impulsive just now, I regret it.",ข้าใจร้อนเกินไป ข้าผิดไปแล้ว
 M5030-0_option1_1,Agree with the rich merchant.,เห็นด้วยกับพ่อค้ามั่งมี
@@ -1489,7 +1489,7 @@ M5014-2_option1_3,Hold the Imperial token!<color=#097a76>(1 Imperial token)</col
 M5014-2_option1_4,Admire the general's demeanor.,ชื่นชมกิริยาของแม่ทัพ
 R10052-3_option1_1,Place the <color=#c44b0e>Wedding Stone</color>. <color=#097a76>(1 Wedding Stone)</color>,วาง <color=#c44b0e>ศิลาวิวาห์</color>.<color=#097a76>(1 ศิลาวิวาห์)</color>
 R10052-3_option1_2,"I was too impulsive just now, I regret it.",ข้าใจร้อนเกินไป ข้าผิดไปแล้ว
-School-2120-1_name,Lobby Melody House
+School-2120-1_name,Lobby Melody House,ห้องรับรองตำหนักบทเพลง
 School-2120-1_overview1,Go to Melody House to deliver a letter.,ไปยังตำหนักบทเพลงเพื่อส่งจดหมาย
 School-2120-1_overview2,Return to the Jiuli tribe to find Miao Muli,กลับไปยังเผ่าจิ่วลี่เพื่อตามหา เมี้ยวมู่หลี
 School-2120-1_option1_1,Agree to deliver the letter.,ตกลงไปส่งจดหมาย
@@ -1502,9 +1502,9 @@ School-2120-2_option1_3,Sacrifice<color=#c44b0e>{TeamerName:3}</color>!,สั�
 School-2120-2_option1_4,Sacrifice<color=#c44b0e>{TeamerName:4}</color>!,สังเวย<color=#c44b0e>{TeamerName:4}</color>!
 School-2120-2_option1_5,Sacrifice<color=#c44b0e>{TeamerName:5}</color>!,สังเวย<color=#c44b0e>{TeamerName:5}</color>!
 School-2120-2_option1_6,I haven't decided yet.,ยังไม่ได้ตัดสินใจ
-School-2120-3_name,Eliminate Melody House
-School-2120-3_overview1,Eradicate Melody House.
-School-2120-3_overview2,Inform Miao Muli about the eradication of Melody House.
+School-2120-3_name,Eliminate Melody House,กวาดล้างตำหนักบทเพลง
+School-2120-3_overview1,Eradicate Melody House.,ถอนรากถอนโคนตำหนักบทเพลง
+School-2120-3_overview2,Inform Miao Muli about the eradication of Melody House.,แจ้งกับเมี้ยวมู่ลี่ เกี่ยวกับการกวาดล้างตำหนักบทเพลง
 A15013-1_option1_1,Surrender the lizard! <color=#097a76>(Solo by the protagonist)</color>,กำราบกิ้งก่า <color=#097a76>(ตัวเอกสู้คนเดียว)</color>
 A15013-1_option1_2,"Don't stay for long, hurry up and run away!",อย่าอยู่นานเกินไป รีบจากไป!
 Def-2120-1_option1_1,Force my way in! <color=#c44b0e>(Start the fight immediately)</color>,ฝ่าเข้าไป <color=#c44b0e>(เริ่มการต่อสู้ทันที)</color>
@@ -1551,7 +1551,7 @@ R10099-5_option1_2,Come back later.,กลับมาวันหลัง
 Dead10099-1_option1_1,Keep going!,ไปต่อ!
 Dead10099-1_option1_2,Leave the sect.,ออกจากสำนัก
 R10099-8_name,Fountain of Youth.,น้ำพุแห่งความเยาว์วัย
-R10099-8_overview1,"To go to the southwest region, you need to pass through the <color=#c44b0e>Nameless Region West Border Patrol</color> checkpoint."
+R10099-8_overview1,"To go to the southwest region, you need to pass through the <color=#c44b0e>Nameless Region West Border Patrol</color> checkpoint.",เพื่อจะไปยังแดนตะวันตกเฉียงใต้ ต้องผ่านทางด่านชายแดนตะวันตก <color=#c44b0e>จุดตรวจด่านชายแดนตะวันตกเขตนิรนาม</color>
 R10099-8_overview2,Ask the martial artists in the southwest region about the news of the Fountain of Youth.,ถามผู้ฝึกยุทธในเขตตะวันตกเฉียงใต้เกี่ยวกับน้ำพุแห่งความเยาว์วัย
 R10099-8_overview3,Go to Nine Factions Sect·Senluo Hall in Wuyue to fulfill your master's wish.,ไปยังนิกายเก้าฝ่าย หอเสิ่นลั่วในอู่เยี่ยว์เพื่อทำตามความประสงค์ของอาจารย์
 R10099-8_option1_1,Help Master fulfill his wish!,ช่วยอาจารย์ทำตามเป้าหมาย!
@@ -1562,48 +1562,48 @@ Guide10099-4_name,Establishing prestige in the Wind and Cloud Arena,สร้า
 Guide10099-4_overview1,Participate in the Wind and Cloud Arena in Daliang City.,เข้าร่วมลานประลองวายุเมฆาในเมืองต้าเหลียง
 Guide10099-5_name,The art of wealth,ศิลปะแห่งความมั่งคั่ง
 Guide10099-5_overview1,Go to the Relic House in Lin'an City.,ไปที่หอสมบัติเมืองหลินอัน
-Talking_Solve,Crack
-Talking_Agate,Agate
+Talking_Solve,Crack,ถอดรหัส
+Talking_Agate,Agate,หินโมรา
 Talking_Jewelry,Jewelry,เครื่องประดับ
 Talking_Seize,Arrest,จับกุม
 Talking_Help,Help,ช่วยเหลือ
-Talking_YiTian,Heaven Reliant
-Talking_Blackmonkey,Hei Yuan
-Talking_BlackShadow,Shadow
-Talking_RefiningMedicine,Alchemy
+Talking_YiTian,Heaven Reliant,พึ่งพาสวรรค์
+Talking_Blackmonkey,Hei Yuan,เฮยหยวน
+Talking_BlackShadow,Shadow,เงาดำ
+Talking_RefiningMedicine,Alchemy,ปรุงยา
 Talking_Patrol,Patrol,ลาดตระเวน
-Talking_Scripture,Beg for scriptures
+Talking_Scripture,Beg for scriptures,ขอคัมภีร์
 Talking_Clean,Clean up,ปัดกวาด
-Talking_Application,Enlist
-Talking_Escort,Escort
-Talking_Tuoji,Defect
-Talking_Exchange,Exchange
-Talking_Apprentice,Recruit disciples
-Talking_Etiology,Cause of illness
-Talking_Entrust,Commission
-Talking_Challenge,Challenge
-R10049-1_option1_1,"Promise to tell her the story, then give her the item."
-R10049-1_option1_2,Stimulate her acupoints with MP.<color=#097a76>(Medical100)</color>
-R10049-1_option1_3,Intimidate her with words.<color=#097a76>(Persuade level 5 Master)</color>
-R10049-1_option1_4,Pretend to flirt with her.
-R10049-1_option2_1,Give it to Yue Yong Yingyu.
-R10049-1_option2_2,Keep it for yourself.
-M20209-0_option1_1,Introduce yourself again!
-M20209-0_option1_2,Turn around and run away.
-M5050-2_option1_1,Pick it up!
-M5050-2_option1_2,Don't pick it up.
-M1100-10_overview2,Rush back to Nameless village as soon as possible.
-School-2020-3_name,Small martial arts competition
-School-2020-3_overview1,Reach level 20 before challenging Hui Yuan in the small martial arts competition.
-School-2020-3_overview2,Wait for the small competition to reopen.
-School-2020-3_overview3,The small martial arts competition at Shifa Temple has reopened.
-NPC-2020-9_overview1,Help the eldest brother find the Sandalwood prayer beads.
-NPC-2020-9_overview2,Help the eldest brother of Shifa Temple retrieve the Sandalwood prayer beads.
-NPC-2020-9_overview3,The prayer beads you found might be the ones lost by the eldest brother.
-NPC-2020-9_option1_1,Return the Sandalwood prayer beads.<color=#097a76>(Sandalwood prayer beads 1 string)</color>
+Talking_Application,Enlist,สมัครเข้า
+Talking_Escort,Escort,คุ้มกัน
+Talking_Tuoji,Defect,ตรวจพบ
+Talking_Exchange,Exchange,แลกเปลี่ยน
+Talking_Apprentice,Recruit disciples,รับสมัครลูกศิษย์
+Talking_Etiology,Cause of illness,สาเหตุของการเจ็บป่วย
+Talking_Entrust,Commission,ว่าจ้าง
+Talking_Challenge,Challenge,ประลอง
+R10049-1_option1_1,"Promise to tell her the story, then give her the item.",สัญญาว่าจะเล่าเรื่องให้นางฟัง จากนั้นมอบสิ่งของให้นาง
+R10049-1_option1_2,Stimulate her acupoints with MP.<color=#097a76>(Medical100)</color>,กระตุ้นจุดชีพจรของนางด้วย MP<color=#097a76>(ทักษะการแพทย์ 100)</color>
+R10049-1_option1_3,Intimidate her with words.<color=#097a76>(Persuade level 5 Master)</color>,ข่มขู่นางด้วยคำพูด <color=#097a76>(โน้มน้าวถึงระดับ 5)</color>
+R10049-1_option1_4,Pretend to flirt with her.,แกล้งทำเป็นแทะโลมนาง
+R10049-1_option2_1,Give it to Yue Yong Yingyu.,มอบให้เย่ว์หยงหยิงหยู
+R10049-1_option2_2,Keep it for yourself.,เก็บไว้เพื่อตัวเอง
+M20209-0_option1_1,Introduce yourself again!,แนะนำตัวเองอีกครั้ง!
+M20209-0_option1_2,Turn around and run away.,หันหลังกลับแล้ววิ่งหนี
+M5050-2_option1_1,Pick it up!,หยิบมันขึ้นมา!
+M5050-2_option1_2,Don't pick it up.,อย่าหยิบมันขึ้นมา
+M1100-10_overview2,Rush back to Nameless village as soon as possible.,รีบกลับไปที่หมู่บ้านนิรนามโดยเร็วที่สุด
+School-2020-3_name,Small martial arts competition,งานประลองวรยุทธ์เล็กๆ
+School-2020-3_overview1,Reach level 20 before challenging Hui Yuan in the small martial arts competition.,ถึงระดับ 20 ก่อนที่จะท้าทาย ฮุ่ยหยวน ในการแข่งขันงานประลองวรยุทธ์เล็กๆ
+School-2020-3_overview2,Wait for the small competition to reopen.,รองานประลองวรยุทธ์เล็กๆ เปิดอีกครั้ง
+School-2020-3_overview3,The small martial arts competition at Shifa Temple has reopened.,งานประลองวรยุทธ์เล็กๆ\ ที่อารามฉีฟาได้จัดขึ้นอีกครั้ง
+NPC-2020-9_overview1,Help the eldest brother find the Sandalwood prayer beads.,ช่วยศิษย์พี่ใหญ่หาลูกประคำไม้จันทน์
+NPC-2020-9_overview2,Help the eldest brother of Shifa Temple retrieve the Sandalwood prayer beads.,ช่วยศิษย์พี่ใหญ่ของอารามฉีฟาตามหาลูกประคำไม้จันทน์กลับคืนมา
+NPC-2020-9_overview3,The prayer beads you found might be the ones lost by the eldest brother.,ลูกประคำที่เจ้าพบอาจเป็นลูกประคำที่ศิษย์พี่ใหญ่ทำหายไป
+NPC-2020-9_option1_1,Return the Sandalwood prayer beads.<color=#097a76>(Sandalwood prayer beads 1 string)</color>,คืนลูกประคำไม้จันทน์<color=#097a76>(ลูกประคำไม้จันทน์ 1 เส้น)</color>
 NPC-2020-9_option1_2,Talk about it later.,ไว้คุยเรื่องนี้ทีหลัง
-M10070-1_option1_4,Introduce yourself and claim to visit the Yan Army commander.
-Story-2030-1_overview1,"Confucius Temple is about to hold a minor contest, you can sign up at the altar."
+M10070-1_option1_4,Introduce yourself and claim to visit the Yan Army commander.,แนะนำตัวเองและอ้างว่ามาเยี่ยมผู้บัญชาการกองทัพหยาน
+Story-2030-1_overview1,"Confucius Temple is about to hold a minor contest, you can sign up at the altar.",วัดขงจื้อกำลังจะจัดการแข่งขันย่อย สามารถสมัครได้ที่แท่นบูชา
 Story-2030-1_overview2,The small martial arts competition at Confucius Temple will reopen in 3 days.
 Story-2030-1_overview3,The small martial arts competition at Confucius Temple has reopened.
 School-2030-20_option2_3,Attack Cai Yuanchang.

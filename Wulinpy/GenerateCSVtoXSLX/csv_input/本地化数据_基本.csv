@@ -436,9 +436,9 @@ DiffName_1,<#34657A>Normal</color>
 DiffName_2,<#6B3F77>Hard</color>
 DiffName_3,<#7D3A34>Nightmare</color>
 DiffName_100,<#ffff44>Free</color>
-DiffInfo_0,It's recommended for new players to start at this difficulty level.,สำหรับผู้เล่นใหม่ แนะนำให้เริ่มต้นด้วยความยากระดับนี้
+DiffInfo_0,It's recommended for new players to start at this difficulty level.,สำหรับผู้เล่นใหม่ แนะนำให้เริ่มต้นด้วยความยากในระดับนี้
 DiffInfo_1,Suitable for players familiar with turn-based game who prefer not to engage in full auto-battle mode.,เหมาะสำหรับผู้เล่นที่คุ้นเคยกับเกมแนวผลัดกันเดิน และไม่ต้องการเข้าร่วมโหมดการต่อสู้อัตโนมัติเต็มรูปแบบ
-DiffInfo_2,Suitable for players adept at analyzing various combinations and seeking a challenging experience.,เหมาะสำหรับผู้เล่นที่เข้าใจระบบ เป็นอย่างดีและต้องการประสบการณ์ที่ท้าทายมากขึ้น
+DiffInfo_2,Suitable for players adept at analyzing various combinations and seeking a challenging experience.,เหมาะสำหรับผู้เล่นที่เข้าใจระบบ เป็นอย่างดี และผู้ที่ต้องการประสบการณ์ที่ท้าทายมากขึ้น
 DiffInfo_3,"To dominate or be dominated, it all lies within a single thought!",จะอยู่เหนือผู้อื่น หรือถูกผู้อื่นครอบงำ ทุกอย่างอยู่ที่การตัดสินใจของเจ้า!
 DiffInfo_100,"<nobr>Difficulty settings are customizable. The higher the difficulty, the larger the calculated coefficient!"
 DiffInfo_Lock,Achieve any <#d09a09>true·ending</color> to unlock,บรรลุความสำเร็จ <#d09a09>ฉากจบอย่างแท้จริง</color> ใดก็ได้เพื่อปลดล็อก

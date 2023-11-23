@@ -719,8 +719,8 @@ M20300-61_npcname,A weak middle-aged man
 M20300-61_option1_4_dialog,"I've been stabbed and can't move, can you help me find some medicine?"
 M20300-61_option1_1,I have some knowledge in medical skills and can heal you. <color=#097a76>(Medical level 30)</color>
 M20300-61_option1_2,I have a bottle of medicine that can heal you. <color=#097a76>(1 bottle of Healing medicine)</color>
-M20300-61_option1_3,How can I save you?
-M20300-61_option1_4,"I'm sorry, I can't help you. Goodbye~"
+M20300-61_option1_3,How can I save you?,ข้าจะช่วยเจ้าได้อย่างไร?
+M20300-61_option1_4,"I'm sorry, I can't help you. Goodbye~",ขออภัย ข้าคงช่วยเจ้าไม่ได้ ขอลาก่อน~
 M20300-61_option2_4_dialog,"Young man, are you here to heal me?"
 M20300-61_option2_1,I'll continue to heal you with my medical skills. <color=#097a76>(Medical level 30)</color>
 M20300-61_option2_2,I brought Healing medicine to apply on you. <color=#097a76>(1 bottle of Healing medicine)</color>
@@ -812,12 +812,12 @@ M20307-1_option1_2,(Let him run away due to lack of strength)
 M20311-2_talk,Become a disciple
 M20311-2_option1_1,Join Shifa Temple<color=#097a76>(Benevolence)</color>
 M20311-2_option1_2,Donate to Shifa Temple<color=#097a76>(Money)</color>
-M20311-2_option1_3,"Nothing, just saying hello."
+M20311-2_option1_3,"Nothing, just saying hello.",ไม่มีอะไร ข้าแค่มาทักทาย
 M20311-2_option2_dialog,"If you are ready, follow me back to Shifa Temple."
-M20311-2_option2_1,"I'm ready, let's go now."
+M20311-2_option2_1,"I'm ready, let's go now.",ข้าพร้อมแล้ว ไปกันเถอะ
 M20311-2_option2_2,"I'm not ready, I have things to deal with."
 M20311-2_option3_dialog,Are you ready to join our Shifa Temple?
-M20311-2_option3_1,"I'm ready, let's go now."
+M20311-2_option3_1,"I'm ready, let's go now.",ข้าพร้อมแล้ว ไปกันเถอะ
 M20311-2_option3_2,"I'm not ready, I have things to deal with."
 M20304-1_npcname1,Acting Prefect
 M20304-1_option1_1,Rotten Food.
@@ -826,7 +826,7 @@ M20304-1_option1_3,Delicious food.
 M20304-1_option1_4,Delicious dishes.
 M20304-1_option2_1,"Trust you once, I'll give you all my money.<color=#097a76>(All Money)</color>"
 M20304-1_option2_2,"One person does, one person is responsible, no need for others to take the blame for me."
-M20302_talking,Stay in the inn
+M20302_talking,Stay in the inn,พักแรมที่โรงเตี๊ยม
 M20302option_1,Stay in the inn. <color=#097a76>(200 coins)</color>
 M20302option_2,Think about it.
 M20302option_3,Rest well.

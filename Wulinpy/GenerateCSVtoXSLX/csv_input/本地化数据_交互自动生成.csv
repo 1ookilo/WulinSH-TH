@@ -1575,7 +1575,7 @@ NpcJobTalk_自我称呼_少女,Little girl,สาวน้อย
 NpcJobTalk_自我称呼_老婆婆,Old body
 NpcJobTalk_自我称呼_官员儿子,This Yanei
 NpcJobTalk_自我称呼_男仆役,Little man,หนุ่มน้อย
-NpcJobTalk_自我称呼_女仆役,Slave
+NpcJobTalk_自我称呼_女仆役,Slave,สาวใช้
 NpcJobTalk_自我称呼_文官,This official
 NpcJobTalk_自我称呼_将军,This general
 NpcJobTalk_自我称呼_和尚,Poor monk
@@ -1595,12 +1595,12 @@ NpcJobTalk_第二人称_华严禅师,Benefactor
 NpcJobTalk_第二人称_慧元禅师,Benefactor
 NpcJobTalk_第二人称_癞头癫,Benefactor
 NpcJobTalk_第二人称_毒伢婆,Little brother,น้องชาย
-NpcJobTalk_第二人称_顾倾城,Son
+NpcJobTalk_第二人称_顾倾城,Son,คุณชาย
 NpcJobTalk_第二人称_书生中青年,You,เจ้า
 NpcJobTalk_第二人称_老人,Little brother,น้องชาย
 NpcJobTalk_第二人称_老婆婆,Little brother,น้องชาย
-NpcJobTalk_第二人称_男仆役,Guest
-NpcJobTalk_第二人称_女仆役,Son
+NpcJobTalk_第二人称_男仆役,Guest,แขก
+NpcJobTalk_第二人称_女仆役,Son,คุณชาย
 NpcJobTalk_第二人称_文官,Hero,จอมยุทธ
 NpcJobTalk_第二人称_和尚,Benefactor
 NpcJobTalk_第二人称_道士,Benefactor
@@ -1611,7 +1611,7 @@ NpcJobTalk_第二人称_乡村中年人,Little brother,น้องชาย
 NpcJobTalk_第二人称_粗鲁中年人,Little brother,น้องชาย
 NpcJobTalk_第二人称_通用,You,เจ้า
 NpcJobTalk_第二人称_江南怪,Stinky little ghost
-NpcJobTalk_第二人称_方小白,Guest
+NpcJobTalk_第二人称_方小白,Guest,แขก
 NpcJobTalk_第二人称_福箐郡主,Official,เจ้าหน้าที่
 NpcJobTalk_第二人称敬语_长春子,Young hero,จอมยุทธน้อย
 NpcJobTalk_第二人称敬语_苗木黎,Brother,น้องชาย
@@ -1638,7 +1638,7 @@ NpcJobTalk_第二人称敬语_华严禅师,Benefactor,ผู้มีพระ�
 NpcJobTalk_第二人称敬语_慧元禅师,Benefactor
 NpcJobTalk_第二人称敬语_癞头癫,Brother,น้องชาย
 NpcJobTalk_第二人称敬语_秦会之,Young hero,จอมยุทธน้อย
-NpcJobTalk_第二人称敬语_慕容燕,Son
+NpcJobTalk_第二人称敬语_慕容燕,Son,คุณชาย
 NpcJobTalk_第二人称敬语_恶乞丐,Brother,น้องชาย
 NpcJobTalk_第二人称敬语_毒伢婆,Little brother,น้องชาย
 NpcJobTalk_第二人称敬语_庖春秋,Brother
@@ -1659,22 +1659,22 @@ NpcJobTalk_第二人称敬语_韩红玉,Brother
 NpcJobTalk_第二人称敬语_独孤剑一,Brother
 NpcJobTalk_第二人称敬语_柳生武藏,Little friend,สหายน้อย
 NpcJobTalk_第二人称敬语_服部兵卫,Young hero,จอมยุทธน้อย
-NpcJobTalk_第二人称敬语_月咏樱羽,Son,ลูกชาย
+NpcJobTalk_第二人称敬语_月咏樱羽,Son,คุณชาย
 NpcJobTalk_第二人称敬语_孔一刀,Brother,น้องชาย
 NpcJobTalk_第二人称敬语_计百出,Worthy brother
-NpcJobTalk_第二人称敬语_顾倾城,Son
+NpcJobTalk_第二人称敬语_顾倾城,Son,คุณชาย
 NpcJobTalk_第二人称敬语_江南怪,Stinky little ghost
-NpcJobTalk_第二人称敬语_书生中青年,Son
+NpcJobTalk_第二人称敬语_书生中青年,Son,คุณชาย
 NpcJobTalk_第二人称敬语_书生老年,Little friend,สหายน้อย
 NpcJobTalk_第二人称敬语_老人,Little brother,น้องชาย
 NpcJobTalk_第二人称敬语_妇女,Little brother,น้องชาย
-NpcJobTalk_第二人称敬语_少女,Son
+NpcJobTalk_第二人称敬语_少女,Son,คุณชาย
 NpcJobTalk_第二人称敬语_老婆婆,Little brother,น้องชาย
 NpcJobTalk_第二人称敬语_官员儿子,Brother
-NpcJobTalk_第二人称敬语_男仆役,Son
-NpcJobTalk_第二人称敬语_女仆役,Son
+NpcJobTalk_第二人称敬语_男仆役,Son,คุณชาย
+NpcJobTalk_第二人称敬语_女仆役,Son,คุณชาย
 NpcJobTalk_第二人称敬语_文官,Hero,จอมยุทธ
-NpcJobTalk_第二人称敬语_将军,Son
+NpcJobTalk_第二人称敬语_将军,Son,คุณชาย
 NpcJobTalk_第二人称敬语_和尚,Benefactor,ผู้มีพระคุณ
 NpcJobTalk_第二人称敬语_道士,Benefactor,ผู้มีพระคุณ
 NpcJobTalk_第二人称敬语_年轻和尚,Benefactor,ผู้มีพระคุณ
@@ -2377,7 +2377,7 @@ NpcDriveAway_严如蕊_XCKaiGan,Don't force sister to do it.|Sister won't stoop 
 NpcDriveAway_严如蕊_KaiGan,Sister is not easy to provoke!|You're asking for trouble!|Don't blame sister for being ruthless!
 NpcTeach_严如蕊_Refuse,There's nothing sister can teach you here.|Let's talk when you make sister happy.
 NpcJobTalk_自我称呼_严如蕊,Sister,พี่สาว
-NpcJobTalk_第二人称_严如蕊,Son
+NpcJobTalk_第二人称_严如蕊,Son,คุณชาย
 NpcJobTalk_第二人称敬语_严如蕊,You,เจ้า
 NpcMumble_严如蕊_Formation,"You will protect sister, right?|Alas, really rough."
 NpcHello_人妻严如蕊_Common,"{PlayerSurName}, how have you been?|{PlayerSurName}, sister has been waiting for you for a long time.|{PlayerSurName}, what about running away with sister as promised?|{PlayerSurName}, you must be tired from the journey."

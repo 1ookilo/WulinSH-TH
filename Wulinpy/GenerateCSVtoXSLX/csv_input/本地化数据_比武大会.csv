@@ -5,7 +5,7 @@ AudienceCheer_Normal,Cut him!|Good hit!|Beautiful!|Impressive!|Hit him fast!|Sta
 AudienceCheer_UniqueSkill,This move is powerful!|Good move!|Exciting!|Amazing!!|Oh!|It looks painful.|Awesome!|Keep hitting!|Don't stop!|Take his life while he's sick!|The victory will be decided on the Horse!|He can't even stand!|You're going to win!|Give him another move!|Don't be soft-hearted!,นี่เป็นการเคลื่อนไหวที่ยอดเยี่ยม! | เดินหน้าดี! |มหัศจรรย์! |สุดเจ๋ง! ! |โอ้! |มองแล้วเจ็บ.. |สุดเจ๋ง! |สู้ต่อไป! |อย่าหยุด! |ฆ่าเขาในขณะที่เขาป่วย! | ผู้ชนะจะได้เห็นเร็วๆ นี้! |เขาทนไม่ไหวแล้ว! |ชนะแน่นอน! |อีกหนึ่งก้าว! |อย่าใจอ่อน!
 AudienceCheer_HpLessThan30Percent,Keep hitting!|Don't stop!|Take his life while he's sick!|The victory will be decided on the Horse!|He can't even stand!|You're going to win!|Give him another move!|Don't be soft-hearted!|Cut him!|Good hit!|Beautiful!|Impressive!|Hit him fast!|Start fighting!|Put some strength into it!|Didn't you eat?|Come on!|Keep going!!|Hit him hard!|Attack his lower body!|Hit his chin!|Left hook!|Right hook!|Don't go easy!,ต่อไป! |อย่าหยุด! |ฆ่าเขาในขณะที่เขาป่วย! | ผู้ชนะจะได้เห็นเร็วๆ นี้! |เขาทนไม่ไหวแล้ว! |ชนะแน่นอน! |อีกหนึ่งก้าว! |อย่าใจอ่อน! |ตัดเขา! |เล่นดี! |สวย! |สุดเจ๋ง! |ตีเขาเร็วเข้า! |สู้ๆ! | ทำงานหนัก! |ไม่กินเหรอ? |เอาน่า! |เอาน่า! ! |จัดหนัก! |โจมตีเขา! |ตีเขาที่คาง! |ฮุคซ้าย! |ตัวพิมพ์ใหญ่ขวา! |อย่าปล่อยนะ!
 AudienceCheer_FinalHit,He won!|Well fought!|So exciting!|Let's have another round!|This money is well spent!|I could do it too!|Impressive!|This move is powerful!|Good move!|Exciting!|Amazing!!|Oh!|It looks painful.|Awesome!,ขาชนะ! | ทำได้ดีมาก! |ช่างวิเศษจริงๆ! |อีกครั้งหนึ่ง! |ใช้เงินคุ้ม! | ฉันก็เย็ดฉันได้เหมือนกัน! |สุดเจ๋ง! | ท่านี้สุดยอด! | เดินหน้าดี! |มหัศจรรย์! |สุดเจ๋ง! ! |โอ้! |มองแล้วเจ็บ.. |สุดเจ๋ง!
-啊6,Ah 7
-啊7,Ah 8
-啊8,Ah 9
-啊9,Ah 10
+啊6,Ah 7,อ้ะ 7
+啊7,Ah 8,อ้ะ 8
+啊8,Ah 9,อ้ะ 9
+啊9,Ah 10,อ้ะ 10
