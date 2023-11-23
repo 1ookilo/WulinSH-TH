@@ -3,7 +3,7 @@
 # Hero's Adventure:Road to Passion ภาษาไทย 
 ม็อดแปลเกม Hero's Adventure:Road to Passion ภาษาไทย
 
-[![Version](https://img.shields.io/github/release/1ookilo/WulinSH-TH.svg?label=Version)](https://github.com/1ookilo/WulinSH-TH/releases/latest) [![pagefacebook](https://img.shields.io/badge/Facebook-Like-blue?logo=facebook)](https://www.facebook.com/profile.php?id=100089883355742) [![Hero's Adventure:Road to Passion TH Community](https://img.shields.io/badge/Join-FBGroup-blue?logo=facebook)](https://www.facebook.com/groups/1397983044265668)
+[![Version](https://img.shields.io/github/release/1ookilo/WulinSH-TH.svg?label=Version)](https://github.com/1ookilo/WulinSH-TH/releases/latest) [![pagefacebook](https://img.shields.io/badge/Facebook-Like-blue?logo=facebook)](https://www.facebook.com/profile.php?id=100089883355742) [![Hero's Adventure:Road to Passion TH Community](https://img.shields.io/badge/Join-FBGroup-blue?logo=facebook)](https://www.facebook.com/groups/1397983044265668) [![Wuxia & Xianxia TH Hub](https://img.shields.io/badge/Join-Discord-blue?logo=discord)](https://discord.gg/ppC9F2NNky)
 </div>
 
 # วิธีติดตั้ง
