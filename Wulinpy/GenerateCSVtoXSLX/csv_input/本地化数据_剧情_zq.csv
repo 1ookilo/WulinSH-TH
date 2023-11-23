@@ -736,7 +736,7 @@ Role2-15_1_4,"(General Lu is asking me about my opinion on this Disable techniqu
 Role2-15_2_1,"General, there are things in life that we should do and things that we shouldn't do. Surrendering to the enemy is not the true nature of a man!",ท่านแม่ทัพ ชีวิตคนเรามีเรื่องที่ควร และไม่ควรทำอย่างเด็ดขาด และการยอมแพ้ศัตรูนั้นก็มิใช่สิ่งที่ลูกผู้ชายพึงกระทำ!
 Role2-15_2_2,"The northern Daliang City is almost under the control of Yan Kingdom. If they take Chuxiang City, only Lin'an City will be left struggling alone, and it will eventually become a possession of Yan Kingdom. By then, it will be too late to regret when the country is no longer a country!",ตอนนี้เมืองต้าเหลียงทางทิศเหนือก็แทบจะอยู่ใต้ปกครองของอาณาจักรหยานอยู่แล้ว หากพวกมันได้เมืองฉู่เซียงไปอีก จะเหลือเพียงเมืองหลินอันแห่งเดียว และในไม่ช้าก็คงตกเป็นของอาณาจักรหยานเป็นแน่ เมื่อถึงตอนนั้นชาติได้สูญสิ้นไป ก็คงสายเกินไปที่จะเสียใจแล้ว
 Role2-15_2_3,"This general is just a warrior. Even if the dynasty changes, it has little to do with us Relations. Isn't it the same to be a high official and ride a fine Horse? Why bother to block the way?",ข้าแม่ทัพเป็นเพียงนักรบคนหนึ่ง ถึงจะมีการเปลี่ยนราชวงศ์ ก็ไม่ได้มีผลกระทบอะไรกับเรานัก มิใช่ต่างอะไรกับการเลือกนายที่ดีเท่านั้นรึ เหตุใดต้องไปขัดขวางด้วย
-Role2-15_2_4,"There is no complete egg under the overturned nest. Even if the general surrenders the city and makes a contribution, Yan Kingdom will not trust a surrendered general to guard the city for them. Perhaps the day when the overall situation is settled will be the time for Yan Kingdom to kill the donkey after grinding."
+Role2-15_2_4,"There is no complete egg under the overturned nest. Even if the general surrenders the city and makes a contribution, Yan Kingdom will not trust a surrendered general to guard the city for them. Perhaps the day when the overall situation is settled will be the time for Yan Kingdom to kill the donkey after grinding.",โบราณว่าไว้ อย่าเลี้ยงลูกเสือลูกจระเข้ แม้ท่านแม่ทัพจะทำความชอบด้วยการยอมแพ้มอบเมืองให้ แต่อาณาจักรหยานคงไม่มีทางเชื่อใจให้แม่ทัพที่พึ่งยอมแพ้ดูแลเมืองให้แน่ หลังจากจัดการเรื่องราวทุกอย่างเรียบร้อย คงถึงเวลาที่อาณาจักรหยานจะขุดรากถอนโคนแล้ว
 Role2-15_2_5,"This matter is of great importance, and this general needs to think it over carefully.",นี่ถือเป็นเรื่องสำคัญมาก ข้าแม่ทัพต้องคิดให้ดีซะก่อน
 Role2-15_3_1,"You don't think your choice at this moment will lead to any consequences.\nAfter all, how could Lü Wenhuan completely trust you with such a major decision?\nBut what you don't know is that the speaker is unintentional, but the listener is intentional.\nYour choice is firmly remembered by those with ulterior motives..."
 Role2-15_4_1,"General, I believe whether to surrender or not depends on what kind of bargaining chip Yan Kingdom can offer.",ท่านแม่ทัพ ข้าคิดว่าควรจะยอมแพ้หรือไม่ ควรขึ้นอยู่กับข้อแลกเปลี่ยนที่ฝ่ายอาณาจักรจะเสนอให้ท่านมากกว่า
@@ -886,22 +886,22 @@ Role2-31-1_25_7,"Good, very good...",ดี ดีมาก...
 Role2-31-1_25_8,The dead civilians...,เหล่าชาวประชาที่ล้มตาย...
 Role2-31-1_25_9,The fallen soldiers...,เหล่าทหารกล้าที่สิ้นชีพ...
 Role2-31-1_25_10,"Today, I will comfort the spirits of all of you in heaven with the head of the enemy chief!",วันนี้ ข้าจะปลอมประโลมเหล่าวิญญาณของพวกท่านในสวรรค์ ด้วยหัวของผู้นำศัตรู!
-Role2-31-1_25_11,"Chuxiang City, it's saved."
-Role2-31-1_26_1,The great hero is back!
-Role2-31-1_26_2,"Look, look!"
-Role2-31-1_26_3,"Here comes, here comes, the great hero {PlayerSurName} is back!"
-Role2-31-1_26_4,"{PlayerName}, well done!"
-Role2-31-1_26_5,Truly a hero out of youth
+Role2-31-1_25_11,"Chuxiang City, it's saved.",เมืองฉู่เซียงปลอดภัยแล้ว
+Role2-31-1_26_1,The great hero is back!,ท่านยอดวีรบุรุษกลับมาแล้ว!
+Role2-31-1_26_2,"Look, look!",ดูสิ ดูสิ!
+Role2-31-1_26_3,"Here comes, here comes, the great hero {PlayerSurName} is back!",มาแล้ว มาแล้ว ท่านวีรบุรุษ{PlayerSurName} กลับมาแล้ว!
+Role2-31-1_26_4,"{PlayerName}, well done!",{PlayerName} ทำได้ดีมาก!
+Role2-31-1_26_5,Truly a hero out of youth,ช่างเป็นวีรบุรุษย์วัยเยาว์อย่างแท้จริง
 Role2-31-1_26_6,What are you doing?,เจ้ากำลังทำอะไร?
-Role2-31-1_26_7,"Young hero {PlayerSurName}, you and your group repelled the besieging Yan army and relieved the crisis of Chuxiang City, it's really amazing!"
-Role2-31-1_26_8,"When the people heard the news, they came to welcome you heroes!"
-Role2-31-1_26_9,"Young hero {PlayerSurName}, please follow me into the city.\nA banquet has been prepared for you, today the whole city is celebrating, no return without getting drunk!"
-Role2-31-1_26_10,"I didn't expect that I, {PlayerName}, could also become a great hero honored by everyone!"
-Role2-31-1_28_1,"With my Ye Family Battalion here, we will never allow Yan to touch a hair!"
-Role2-31-2_1_1,"Lü Wenhuan, do you plan to defend the city with so few people and horses?"
-Role2-31-2_1_2,"The soldiers are not in the quantity but in the quality, just the {PlayerName} under my command can be worth a thousand, so Marshal Wan Yan doesn't need to worry about my army."
-Role2-31-2_2_1,"{PlayerGivenName} brother, you and I each serve our own master, today we don't need to show mercy."
-Role2-31-2_3_1,"{PlayerSurName}, finally I can have a good fight with you!"
+Role2-31-1_26_7,"Young hero {PlayerSurName}, you and your group repelled the besieging Yan army and relieved the crisis of Chuxiang City, it's really amazing!",จอมยุทธน้อย {PlayerSurName} ท่านและสหายได้ขับไล่กองทัพหยานออกไป และทำให้เมืองฉู่เซียงรอดพ้นจากวิกฤต ช่างสุดยอดยิ่ง!
+Role2-31-1_26_8,"When the people heard the news, they came to welcome you heroes!",เหล่าผู้คนพอได้ยินข่าว ก็ออกมาต้อนรับพวกท่าน!
+Role2-31-1_26_9,"Young hero {PlayerSurName}, please follow me into the city.\nA banquet has been prepared for you, today the whole city is celebrating, no return without getting drunk!",จอมยุทธน้อย {PlayerSurName} โปรดตามข้าเข้าเมืองด้วย\nงานเลี้ยงถูกจัดเตรียมไว้ให้ท่านแล้ว วันนี้ทั้งเมืองจะเฉลิมฉลองกัน ไม่เมาไม่กลับ!
+Role2-31-1_26_10,"I didn't expect that I, {PlayerName}, could also become a great hero honored by everyone!",ไม่คิดเลยว่าข้า {PlayerName} จะได้เป็นวีรบุรุษที่ทุกคนให้เกียรติเช่นนี้!
+Role2-31-1_28_1,"With my Ye Family Battalion here, we will never allow Yan to touch a hair!",กองพันตระกูลเย่อยู่นี่แล้ว เราจะไม่ยอมให้ชาวหยานแตะแม้แต่ปลายเล็บ!
+Role2-31-2_1_1,"Lü Wenhuan, do you plan to defend the city with so few people and horses?",ลู่เหวินหวน เจ้าวางแผนจะปกป้องเมืองด้วยจำนวนคนเพียงเท่านี้รึ
+Role2-31-2_1_2,"The soldiers are not in the quantity but in the quality, just the {PlayerName} under my command can be worth a thousand, so Marshal Wan Yan doesn't need to worry about my army.",ทหารเหล่านี้เน้นคุณภาพไม่เน้นปริมาณ เพียงแค่ {PlayerName} คนเดียวภายใต้คำสั่งข้าก็เปรียบได้ดั่งทัพนับพัน ดังนั้นแม่ทัพหวันหยานไม่จำเป็นต้องกังวลเรื่องกองทัพข้า
+Role2-31-2_2_1,"{PlayerGivenName} brother, you and I each serve our own master, today we don't need to show mercy.",พี่ {PlayerGivenName} ข้าและท่านต่างก็รับใช้นายคนละฝั่ง วันนี้ไม่จำเป็นต้องปราณี
+Role2-31-2_3_1,"{PlayerSurName}, finally I can have a good fight with you!",{PlayerSurName} ในที่สุดข้าก็ได้สู้กับเจ้า!
 Role2-31-2_4_1,"I, the marshal, will test the strength of your Lü Wenhuan with this vanguard army."
 Role2-31-2_5_1,"General Lu hid quite well!\nAlthough this battle is just a small test, it has forced me to reassess the chips in your hand."
 Role2-31-2_5_2,"Now, am I, Lü Wenhuan, qualified to talk about the follow-up matters with Marshal Wan Yan?"
@@ -10857,19 +10857,19 @@ M20300-32_2_5,Let me think about which aspect I excel in...
 M20300-32_3_1,"Epiphyllum Valley doesn't accept trash, roll back where you came from."
 M20300-32_4_1,"There are many who can fight, who do you think you are? If you have the ability, defeat me first, then talk big."
 M20300-32_5_1,"You do have some skills, but even if you pass my test, you may not necessarily see the master."
-M20300-32_5_2,What do you mean? Speak clearly!
+M20300-32_5_2,What do you mean? Speak clearly!,เจ้าหมายความว่าอย่างไร? พูดมาให้ชัดๆ!
 M20300-32_6_1,"You vulgar people who only know that money opens the way!\nEven if you pass my test, you may not necessarily see the master."
-M20300-32_6_2,What do you mean? Speak clearly!
+M20300-32_6_2,What do you mean? Speak clearly!,เจ้าหมายความว่าอย่างไร? พูดมาให้ชัดๆ!
 M20300-32_7_1,"I am {PlayerName}, am I recognized?"
-M20300-32_7_2,"You, you are {PlayerName}!"
+M20300-32_7_2,"You, you are {PlayerName}!",เจ้า เจ้าคือ{PlayerName}!
 M20300-32_7_3,"Please enter the valley, the road ahead is not peaceful, good luck."
-M20300-32_7_4,What do you mean? Speak clearly!
+M20300-32_7_4,What do you mean? Speak clearly!,เจ้าหมายความว่าอย่างไร? พูดมาให้ชัดๆ!
 M20300-32_8_1,I didn't expect there to be such a beauty in the world!
 M20300-32_8_2,"I am {PlayerName}, I have something to disturb the beauty."
 M20300-32_9_1,"There is no self, no person, no sentient being, no life, red powder skull, white bone flesh, Amitabha.",ไม่มีตัวตน ไม่มีบุคคล ไม่มีสรรพสัตว์ ไม่มีชีวิต กะโหลกผงสีแดง เนื้อกระดูกสีขาว อมิตาพุทธ
 M20300-32_9_2,"I am a monk, my secular name is {PlayerName}, I have something to disturb the female donor."
 M20300-32_10_1,Do you think I'm beautiful?
-M20300-32_10_2,This...
+M20300-32_10_2,This...,นี่...
 M20300-32_11_1,"Women dress for those who please them, I am Man Tuoluo, nice to meet you, Mr. {PlayerSurName}."
 M20300-32_12_1,"You are a monk with lust, it seems you are a flower monk.\nI, Man Tuoluo, am afraid I'm going to have an eye-opener today."
 M20300-32_13_1,"I've heard that you Central Plains men are pretentious, today I really got to see it.\nI, Man Tuoluo, nice to meet you, Mr. {PlayerSurName}."
@@ -12226,14 +12226,14 @@ M20302-5_1_4,"I should go to the doctor in the city to understand the situation,
 M20302-5_2_1,"I came here for the strange disease in the city, can you please tell me more about the situation of this strange disease?"
 M20302-5_2_2,"It's strange to say that hundreds of people in the city are sick at the same time, and the symptoms are basically the same. At first, I thought it was a cold, but there are also symptoms of diarrhea and shortness of breath, which is puzzling."
 M20302-5_2_3,"I have asked each patient in detail about their onset of illness, hoping to find a commonality and trace the source of the disease..."
-M20302-5_2_4,"Have you found anything, sir?"
+M20302-5_2_4,"Have you found anything, sir?",เจออะไรบ้างไหมขอรับ?
 M20302-5_2_5,It's the water source. These patients have almost all fetched water from the well near Pier in the past few days. This is their only common experience.
 M20302-5_2_6,Could there be a problem with the water in the well?
 M20302-5_2_7,What's strange is that I have specifically fetched some well water for observation and found nothing unusual. I didn't get sick after drinking it either.
 M20302-5_2_8,"However, some patients have mentioned that the <color=#c44b0e>well water fetched at night is sweeter than that during the day</color>. I don't know what the difference is."
 M20302-5_2_9,It seems I need to go to the well and take a look.
 M20302-5_3_1,This seems to be the well that the doctor mentioned...
-M20302-5_3_2,I didn't find anything unusual.
+M20302-5_3_2,I didn't find anything unusual.,ข้ายังไม่พบสิ่งใดผิดปกติ
 M20302-5_3_3,"Could the patients' statement that ""<color=#c44b0e>the well water fetched at night is sweeter than that during the day</color>"" be the key to the difference in water quality? It seems I should come back at night."
 M5052-1_27_1,"Congratulations {PlayerName}, you are the world's number one..."
 M5052-1_27_2,Wait a minute!!!
@@ -12247,7 +12247,7 @@ M5052-1_27_9,Ha——!!!
 M5052-1_27_10,"{PlayerName} my friend, this person has already mastered his martial arts, don't be careless!"
 M5052-1_27_11,"Thank you for the reminder, senior."
 M5052-1_27_12,"{yell} Little guy, take my iron fist!"
-M5052-1_27_13,What a powerful fist!
+M5052-1_27_13,What a powerful fist!,ช่างเป็นหมัดที่ทรงพลังจริงๆ!
 M5052-1_27_14,Look at my Finishing Strike that has gathered twenty years of power!
 M5052-1_27_15,It seems that it's true that the new generation surpasses the old one after thirty years.
 M5052-1_27_16,"Little guy, the title of the world's number one is yours now!"
@@ -12878,7 +12878,7 @@ Fame-10_7_1,"Long heard of, but never seen.\nThe famous {PlayerName}, today we f
 Fame-10_7_2,"Who are you, why did you kidnap my women!"
 Fame-10_7_3,"Allow me to introduce myself, I am Liu Sheng Wucang, the city lord of Dragonfly City, nice to meet you."
 Fame-10_7_4,"I'm not interested in chatting with you, just let my women go!"
-Fame-10_8_1,"{PlayerSurName}, we meet again."
+Fame-10_8_1,"{PlayerSurName}, we meet again.",{PlayerSurName} เราพบกันอีกแล้ว
 Fame-10_8_2,"It's you, Fu Bu Bingwei!"
 Fame-10_9_1,You're still alive!
 Fame-10_9_2,"Thanks to you, I'm not the same as I used to be!"
@@ -12897,7 +12897,7 @@ Fame-10_13_1,"{PlayerSurName}, you really deserve to be the first war god of Chi
 Fame-10_13_2,"If that's the case, you guys get out of here as soon as possible!\nIf you dare to set foot on Fish Island again, I swear I will eradicate your Dragonfly City!"
 Fame-10_13_3,"This knife manual is my painstaking work, as a compensation for disturbing your family, please accept it."
 Fame-10_13_4,"Thank you for your mercy, {PlayerSurName}."
-Fame-10_13_5,……
+Fame-10_13_5,……,……
 Fame-10_14_1,"I thought I would never see you again, brother."
 Fame-10_15_1,I'm glad you came to rescue me in such a dangerous place.
 Fame-10_16_1,I knew you couldn't bear to leave me.
@@ -12909,7 +12909,7 @@ Fame-10_21_1,You did well this time.
 Fame-10_22_1,"You risked your life, what if something happened to you?"
 Fame-10_23_1,"They are all bad people, they said they would throw us into the sea to feed the fish if you didn't come..."
 Fame-10_24_1,"Those guys from Dragonfly City are asking for death, they dared to put me in a cage!"
-Fame-10_25_1,…………
+Fame-10_25_1,…………,…………
 Fame-10_26_1,"You are more important than me, it's not worth taking such a big risk to save me."
 Fame-10_27_1,As long as everything is safe...
 Fame-10_28_1,I don't feel safe without you.
@@ -13253,9 +13253,9 @@ R10028-1_7_3,"You've heard of the Yan Cloud Iron Army, haven't you?"
 R10028-1_7_4,"The Grand Marshal of the Yan Cloud Iron Army, Wan Yan Wuzhu, is my uncle!"
 R10028-1_7_5,"You, you are from the Yan Cloud Iron Army!"
 R10028-1_7_6,"Not bad, now you know how powerful this county master is!"
-R10028-1_7_7,……
+R10028-1_7_7,……,……
 R10028-1_8_1,Now you should tell me your name.
-R10028-1_8_2,I am {PlayerName}.
+R10028-1_8_2,I am {PlayerName}.,ข้าคือ {PlayerName}
 R10028-1_8_3,"Hero, stop wasting your time talking to her!\nHurry, kill this old woman to prevent her from causing harm to others."
 R10028-1_8_4,"I, the county master, am now powerless, do as you wish."
 R10028-1_8_5,"This woman is the Lady of Yan Kingdom, she must hold an important position in the Yan Cloud Iron Army, why not..."
@@ -13394,8 +13394,8 @@ R10028-4_1_7,"A tiger falling into the plain is bullied by a dog, the once glori
 R10028-4_2_1,Isn't it a bit too much for so many people to bully a weak woman?
 R10028-4_2_2,"Kid, this girl is not a weak woman, she is the Lady of Yan Kingdom, who used to be able to command hundreds of people and had countless masters around her, a tough character."
 R10028-4_2_3,"Kid, this is none of your business, get out of here before you lose your life in the wilderness."
-R10028-4_2_4,{PlayerName}……
-R10028-4_2_5,"{yell}, get out of here now!"
+R10028-4_2_4,{PlayerName}……,{PlayerName}……
+R10028-4_2_5,"{yell}, get out of here now!",{yell}ออกไปจากที่นี่!
 R10028-4_2_6,"I'm the kind of person who can't stand being pushed around, if you don't want me to meddle, I'll meddle to the end!"
 R10028-4_3_1,"Princess Wan Yan, how do you feel now?"
 R10028-4_3_2,Are you here to mock me?
@@ -13414,13 +13414,13 @@ R10028-4_5_8,"I don't want to have anything to do with Yan country anymore, only
 R10028-4_5_9,Could it be that Wanyan Zhaoning wants to become a nun!
 R10028-4_5_10,"Princess Wanyan, please wait...",องค์หญิงหวันหยาน โปรดรอสักครู่...
 R10028-5_1_1,"Once you get rid of the three thousand troubles, the past will have nothing to do with you. Have you thought it through?"
-R10028-5_1_2,I...
+R10028-5_1_2,I...,ข้า...
 R10028-5_2_1,"I've thought it through, I beg the master to shave my head!"
 R10028-5_2_2,"Good, good, put down the butcher's knife and become a Buddha on the spot, I will save you, the destined one..."
 R10028-5_3_1,A moment later...
 R10028-5_3_2,"I give you the Dharma name Jing'an, from now on you will chant sutras and pray for all beings in this temple."
 R10028-5_3_3,Yes.
-R10028-5_3_4,Amitabha...
+R10028-5_3_4,Amitabha...,อามิตาพุทธ...
 R10028-5_3_5,Wanyan... Master Jing'an...
 R10028-5_3_6,Perhaps this is the best destination for Wanyan Zhaoning.
 R10028-5_4_1,"{yell}Wanyan Zhaoning, I won't let you become a nun!"
@@ -13498,7 +13498,7 @@ R10028-7_2_26,It's a deal!!
 R10028-7_3_1,"The two of them ended up completely drunk, not remembering anything that happened afterwards..."
 R10028-7_3_2,Ahhhhhhhh!!!!!
 R10028-7_3_3,"{PlayerName}, you're a bastard!!!"
-R10028-7_3_4,What's going on?!!
+R10028-7_3_4,What's going on?!!,เกิดอะไรขึ้น?!!
 R10028-7_3_5,Aren't you a man anymore? How can you not admit what happened!
 R10028-7_4_1,"Miss Wan Yan, please calm down. We were both drunk last night, I really don't know what happened."
 R10028-7_4_2,"Besides, we were so drunk, even if we wanted something to happen, we wouldn't have been able to!"

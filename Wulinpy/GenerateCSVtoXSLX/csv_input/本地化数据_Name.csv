@@ -242,9 +242,9 @@ CharaName_店小二,Waiter,เสี่ยวเอ้อ
 CharaName_铁匠,Blacksmith,ช่างตีเหล็ก
 CharaName_朝奉,Courtier,ข้าหลวง
 CharaName_保镖,Bodyguard,ผู้คุ้มกัน
-CharaName_伙计,Clerk,เสมียน
+CharaName_伙计,Clerk,เสี่ยวเอ้อ
 CharaName_知府,Prefect,นายอำเภอ
-CharaName_师爷,Clerk,เสมียน
+CharaName_师爷,Clerk,กุนซือ
 CharaName_捕头,Constable,มือปราบ
 CharaName_馆主,Dojokeeper,เจ้าของโรงฝึก
 CharaName_郎中,Doctor,หมอ
@@ -286,7 +286,7 @@ CharaName_丁小姐,Miss Ding,แม่นางติง
 CharaName_护院,Guardian,ผู้พิทักษ์
 CharaName_院长,Dean,คณบดี
 CharaName_刘寡妇,Widow Liu,แม่หม้ายหลิว
-CharaName_管家,Butler,พ่อบ้าน
+CharaName_管家,Butler,แม่บ้าน
 CharaName_侍妾,Concubine,สนม
 CharaName_士兵,Soldier,ทหาร
 CharaName_将领,General,แม่ทัพ
@@ -304,7 +304,7 @@ CharaName_楼主,Building owner,เจ้าของตึก
 CharaName_仆人,Servant,คนรับใช้
 CharaName_妇女,Woman,หญิงสาว
 CharaName_小孩,Child,เด็ก
-CharaName_管事,Steward,พ่อบ้าน
+CharaName_管事,Steward,ขันที
 CharaName_西域商人,Western merchant,พ่อค้าตะวันตก
 CharaName_锦衣女子,Woman in brocade,ผู้หญิงในชุดผ้า
 CharaName_老黄牛,Old yellow ox,วัวเหลืองเฒ่า
@@ -476,7 +476,7 @@ CharaName_嚣张的武人,Arrogant Warrior,นักรบเย่อหยิ�
 CharaName_博学的书生,Learned Scholar,ปราชญ์ผู้รอบรู้
 CharaName_多年参赛者,Long-time Participant,ผู้เข้าแข่งขาประจำ
 CharaName_凑数的路人,Filler Bystander,คนแก้ขัดข้างทาง
-CharaName_耍剑的少年,Sword-playing Youth,เด็กชายกำลังเล่นกระบี่
+CharaName_耍剑的少年,Sword-playing Youth,มือกระบี่ฝึกหัด
 CharaName_懒散的家丁,Lazy Servant,คนรับใช้เกียจคร้าน
 CharaName_黑衣人头领,Black-clothed Leader,หัวหน้าคนชุดดำ
 CharaName_楚襄武馆弟子,Chuxiang Dojo Disciple,ศิษย์โรงฝึกฉู่เซียง
