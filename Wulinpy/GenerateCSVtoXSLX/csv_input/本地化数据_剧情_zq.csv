@@ -36,7 +36,7 @@ end027_4,"So far, the title of ""the world's number one"" is well-deserved, you 
 end030_1,"By the grace of heaven, the emperor decrees:",ด้วยบัญชาแห่งสวรรค์ ฝ่าบาททรงมีราชโองการ:
 end030_2,"You have judged the situation and put the greater good before your own family, which greatly comforts my heart. I grant you the title of Duke of Dingguo, in charge of the Imperial City Department, overseeing Jianghu, by my decree!",เจ้าประเมินสถานการณ์ และเลือกให้ความสำคัญกับภาพรวมมากยิ่งกว่าครอบครัวของตนซะอีก ทำให้ข้าปลาบปลื้มใจยิ่ง รับราชโองการ มอบตำแหน่งอ๋องแห่งติงกั้ว มีอำนาจควบคุมสำนักหลวง คอยดูแลทั่วทั้งยุทธภพ
 end030_3,The imperial edict caused a stir among the ministers!,พระบัญชาของฝ่าบาททำให้เหล่าขุนนางปั่นป่วนกันไปหมด!
-end030_4,"There were those who risked their lives to remonstrate, those who resigned in anger, and those who were envious."
+end030_4,"There were those who risked their lives to remonstrate, those who resigned in anger, and those who were envious.",มีทั้งผู้ที่ยอมเสี่ยงชีวิตเพื่อเป็นตัวอย่าง ผู้ที่ยอมแพ้ไปด้วยความโกรธ และผู้ที่อิจฉาริษยา
 end030_5,"However, you don't care at all, and calmly accept the decree and thank for the grace.",ถึงอย่างนั้น ท่านก็ไม่ได้สนใจแม้แต่น้อย และรับราชโองการ รวมถึงขอบคุณพระมหากรุณาธิคุณอย่างสงบ
 end031_1,"You have earned the trust of Wan Yan Wuzhu, and with his recommendation, the emperor of Yan Kingdom exceptionally granted you the title of king despite your different surname.",เจ้าได้รับความไว้วางใจจาก หวันหยานอู๋จู และด้วยคำแนะนำของเขา จักรพรรดิแห่งอาณาจักรหยานจึงมอบตำแหน่งกษัตริย์ให้กับเจ้าเป็นพิเศษ แม้ว่าเจ้าจะมีนามสกุลต่างกันก็ตาม
 end031_2,"You were granted the title of Han King, and ruled over Xiangfan and Wuyue, becoming the first king of a different surname in the history of Yan Kingdom with such power.",เจ้าได้รับตำแหน่งฮันคิงและปกครองเซียงฟานและวู่เยว่กลายเป็นกษัตริย์องค์แรกของนามสกุลที่แตกต่างกันในประวัติศาสตร์ของอาณาจักรหยานที่มีอำนาจดังกล่าว
@@ -759,7 +759,7 @@ Role2-20_2_2,"Little brat, do your master's bidding well, be careful not to be s
 Role2-20_2_3,"Old monster, still so much nonsense when death is imminent, is this your last words?",ปีศาจเฒ่า จะตายแล้วยังพล่ามอะไรไร้สาระอีก หมดคำสั่งเสียแล้วสินะ
 Role2-20_2_4,"The old monster is waiting for you in Dirty Street, if you have the ability, come on over!",ปีศาจเฒ่าจะรอเจ้าอยู่ในตรอกเล้าหมู ถ้าเจ้ามีปัญญาล่ะก็ มาได้ทุกเมื่อ!
 Role2-20_2_5,Jiang Nanguai threw a smoke bomb and escaped.,เจียงหนานไกว่ขว้างระเบิดควัน และหนีไปได้
-Role2-20_3_1,"Go and do your job, don't disappoint the general!"
+Role2-20_3_1,"Go and do your job, don't disappoint the general!",ไปทำงานเจ้าซะ อย่าทำให้แม่ทัพผิดหวัง!
 Role2-20_3_2,Yes!
 Role2-20_4_1,"Let me tell you again, the general wants you to completely eradicate the Dirty Street forces, leave no one behind!",ข้าจะบอกเจ้าอีกครั้ง ท่านแม่ทัพอยากให้เจ้ากวาดล้างกำลังของตรอกเล้าหมูให้สิ้นซาก อย่าให้ใครเหลือรอด!
 Role2-20_5_1,How's the work going?,งานเป็นอย่างไรบ้าง
@@ -778,58 +778,58 @@ Role2-21_2_4,"Under the overturned nest, there are no intact eggs. Even if the g
 Role2-21_2_5,"You're right, wait a moment, the general will reply to Yan Kingdom right away, tell them not to dream!",เจ้าพูดถูก รอข้าสักครู่ ข้าแม่ทัพจะตอบกลับไปยังอาณาจักรหยานเดี๋ยวนี้ ให้พวกมันฝันไปเถอะ
 Role2-21_3_1,"General, I believe whether to surrender or not depends on what kind of bargaining chip Yan Kingdom can offer.",ท่านแม่ทัพ ข้าว่าจะยอมแพ้หรือไม่ย่อมขึ้นอยู่กับข้อแลกเปลี่ยนที่อาณาจักรหยานจะมอบให้
 Role2-21_3_2,"The general is not a royal family member, nor has he been granted a title. Even if the dynasty changes, the general is still the general, still a high official riding a fine Horse. If you refuse Yan Kingdom's surrender, Yan Kingdom will be furious and the army will come to the city. By then, the general may not even be able to keep his whole body.",ข้าแม่ทัพไม่ใช่เชื้อพระวงศ์ อีกทั้งก็ไม่ได้รับมอบตำแหน่งอะไร แม้ราชวงศ์จะเปลี่ยนไป ข้าแม่ทัพก็จะยังคงเป็นแม่ทัพ ยังคงเป็นข้าราชการชั้นสูงที่เลือกม้าดีขี่ หากเจ้าปฏิเสธจะยอมแพ้แก่อาณาจักรหยาน พวกมันคงโกรธเกรี้ยว และยกทัพมาเป็นแน่ เมื่อถึงตอนนั้น ข้าแม่ทัพคงไม่อาจรักษาร่างกายไว้ครบถ้วนได้
-Role2-21_3_3,"After all, a thousand years later, there will be a disgraceful note about the general in the history books..."
-Role2-21_3_4,"History is written by the victors. In the future, when Yan Kingdom unifies the world and rebuilds the mountains and rivers, the general will be a servant who has abandoned the dark and followed the dragon, who dares to mention the past."
-Role2-21_3_5,"You're right, wait outside for a moment, the general will reply to Yan Kingdom right away, expressing his willingness to surrender."
+Role2-21_3_3,"After all, a thousand years later, there will be a disgraceful note about the general in the history books...",ยังไงซะ อีกพันปีให้หลัง เรื่องราวน่าอัปยศของข้าก็คงถูกบันทึกเอาไว้ในหน้าประวัติศาสตร์แล้ว
+Role2-21_3_4,"History is written by the victors. In the future, when Yan Kingdom unifies the world and rebuilds the mountains and rivers, the general will be a servant who has abandoned the dark and followed the dragon, who dares to mention the past.",ผู้ชนะเป็นคนเขียนประวัติศาสตร์ ในอนาคต เมื่ออาณาจักรหยานสามารถรวมรวมโลกทั้งใบเป็นหนึ่ง ท่านแม่ทัพก็จะถือเป็นผู้กลับใจสู่แสงสว่าง ยอมรับใช้มังกรสวรรค์ ใครจะกล้าพูดถึงอดีตอีก
+Role2-21_3_5,"You're right, wait outside for a moment, the general will reply to Yan Kingdom right away, expressing his willingness to surrender.",เจ้าพูดถูก ไปรอข้างนอกสักครู่เถอะ ข้าแม่ทัพจะตอบกลับอาณาจักรหยานเดี๋ยวนี้ บอกว่าข้ายินยอมพ่ายแพ้
 Role2-21_4_1,Half a shichen later...,ครึ่งชั่วยามต่อมา
 Role2-21_4_2,"{PlayerName}, you are the person the general trusts the most, you will act as the general's messenger, you must deliver this letter to the great marshal of Yan Kingdom - Wan Yan Wuzhu!",{PlayerName} เจ้าคือบุคคลที่นายพลเชื่อใจมากที่สุด เจ้าจะทำหน้าที่เป็นผู้ส่งสารของนายพล เจ้าต้องส่งจดหมายนี้ถึงจอมพลผู้ยิ่งใหญ่แห่งอาณาจักรหยาน - หวันหยานอู๋จู!
-Role2-21_4_3,"I don't know where the great marshal of Yan Kingdom is now, where should I go to find him?"
+Role2-21_4_3,"I don't know where the great marshal of Yan Kingdom is now, where should I go to find him?",ข้าไม่รู้ว่าตอนนี้แม่ทัพใหญ่ของอาณาจักรหยานอยู่ที่ไหน ข้าควรไปหาเขาที่ไหนดี
 Role2-21_4_4,"Wan Yan Wuzhu is stationed at the <color=#c44b0e>Yan Kingdom Palace Camp in Zhongzhou</color>, this is where all the people of Yan Kingdom gather.",หวันหยานอู๋จูประจำการอยู่ที่ <color=#c44b0e>ค่ายกองทัพหลวงหยานในจงโจว</color> ซึ่งเป็นที่ที่ผู้คนในอาณาจักรหยานมารวมตัวกัน
 Role2-21_4_5,I will definitely fulfill my mission and personally deliver the letter to Wan Yan Wuzhu!,ข้าจะทำภารกิจของข้าให้สำเร็จอย่างแน่นอนและส่งจดหมายถึงหวันหยานอู๋จูเป็นการส่วนตัว!
-Role2-21_5_1,"{PlayerName}, on this trip to Yan Kingdom, the honor and disgrace of the people of Chuxiang City are all on you, don't tarnish the face of the General's mansion!"
-Role2-21_6_1,"General, the letter has been delivered."
+Role2-21_5_1,"{PlayerName}, on this trip to Yan Kingdom, the honor and disgrace of the people of Chuxiang City are all on you, don't tarnish the face of the General's mansion!",{PlayerName} การไปหาอาณาจักรหยานครานี้ จะเป็นเกียรติ หรืออับอายขายหน้าล้วนขึ้นกับเจ้าแล้ว อย่าทำให้จวนแม่ทัพเสียชื่อล่ะ
+Role2-21_6_1,"General, the letter has been delivered.",ท่านแม่ทัพ จดหมายถูกส่งเรียบร้อยแล้ว
 Role2-21_6_2,What did Wan Yan Wuzhu say?,หวันหยานอู๋จู กล่าวว่าอะไรนะ?
-Role2-21_6_3,"Head south immediately, attack Chuxiang City in five days!"
-Role2-21_6_4,"Hmph, a fallen tiger still wants to show off its power.\nIt's time to let the world know how powerful the general is!"
-Role2-21_7_1,"General, the letter has been delivered."
+Role2-21_6_3,"Head south immediately, attack Chuxiang City in five days!",ยกทัพไปทิศใต้ทันที โจมตีเมืองฉู่เซียงในอีกห้าวัน!
+Role2-21_6_4,"Hmph, a fallen tiger still wants to show off its power.\nIt's time to let the world know how powerful the general is!",ฮึ่ม เป็นแค่เสือเขี้ยวหักยังอยากจะอวดความสามารถอีกงั้นรึ\nถึงเวลาที่จะแสดงให้โลกเห็นแล้วว่าข้าแม่ทัพแข็งแกร่งแค่ไหน!
+Role2-21_7_1,"General, the letter has been delivered.",ท่านแม่ทัพ จดหมายถูกส่งเรียบร้อยแล้ว
 Role2-21_7_2,What did Wan Yan Wuzhu say?,หวันหยานอู๋จู กล่าวว่าอะไรนะ?
-Role2-21_7_3,"Head south immediately, attack Chuxiang City in five days!"
+Role2-21_7_3,"Head south immediately, attack Chuxiang City in five days!",ยกทัพไปทิศใต้ทันที โจมตีเมืองฉู่เซียงในอีกห้าวัน!
 Role2-21_7_4,"As expected. Let's put on a good show with these barbarians from Yan, let them suffer a bit, this general won't be looked down upon by them."
-Role2-30-0_1_1,"General, the Yan army is already at the city gate."
-Role2-30-0_1_2,"In your opinion, should we go out of the city to meet the enemy, or just wait and see?"
-Role2-30-0_2_1,Good!\nThat's exactly what this general has been waiting for!
+Role2-30-0_1_1,"General, the Yan army is already at the city gate.",ท่านแม่ทัพ กองทัพหยานมาถึงหน้าประตูเมืองแล้ว
+Role2-30-0_1_2,"In your opinion, should we go out of the city to meet the enemy, or just wait and see?",ในความคิดเจ้า พวกเราควรออกไปเจอศัตรูที่หน้าเมือง หรือควรรอดูก่อนดีล่ะ
+Role2-30-0_2_1,Good!\nThat's exactly what this general has been waiting for!,ดี!\nข้าแม่ทัพกำลังรอคำพูดนี้ของเจ้าอยู่!
 Role2-30-0_2_2,"Summon {Horse}, let's meet these barbarians from Yan!"
 Role2-30-0_3_1,"This general thinks the same.\nFirst blood, then decline, and finally exhaustion, it's a good time to grind their spirit."
 Role2-30-0_4_1,What brings you to my General's mansion?,อะไรทำให้เจ้ามาที่จวนแม่ทัพของข้า?
-Role2-30-0_4_2,"The Yan army is already at the city gate, please send troops to resist the enemy quickly, general!"
-Role2-30-0_4_3,This general has his own plan.\nThis kind of military affairs does not need a child to remind this general.
-Role2-30-1_1_1,"The Chuxiang City ahead is under siege by the Yan army, do you want to go to the rescue?"
-Role2-30-2_1_1,"Now Chuxiang City is under siege by the Yan army, do you want to go out of the city to defeat the Yan army?"
+Role2-30-0_4_2,"The Yan army is already at the city gate, please send troops to resist the enemy quickly, general!",กองทัพหยานมาถึงหน้าประตูเมืองแล้ว ได้โปรดส่งทหารไปต้านศัตรูเร็วๆเถอะ ท่านแม่ทัพ!
+Role2-30-0_4_3,This general has his own plan.\nThis kind of military affairs does not need a child to remind this general.,ข้าแม่ทัพมีแผนอยู่แล้ว\nไม่จำเป็นต้องให้เด็กเช่นเจ้ามาเตือนเรื่องการศึกหรอก
+Role2-30-1_1_1,"The Chuxiang City ahead is under siege by the Yan army, do you want to go to the rescue?",เมืองฉู่เซียงกำลังถูกกองทัพหยานบุกโจมตี ท่านต้องการไปช่วยเหลือหรือไม่
+Role2-30-2_1_1,"Now Chuxiang City is under siege by the Yan army, do you want to go out of the city to defeat the Yan army?",เมืองฉู่เซียงกำลังจะถูกกองทัพหยานบุกโจมตี ท่านต้องการจะออกจากเมืองไปโค่นล้มกองทัพหยานหรือไม่
 Role2-30-3_1_1,"Marshal Ye, Wan Yan Wuzhu of Yan is leading his army southward, now the city of Chuxiang is under siege, please send troops to support!","จอมพลเย่, หวันหยานอู๋จูแห่งแคว้นหยานกำลังนำกองทัพของเขามุ่งหน้าลงใต้ ตอนนี้เมืองฉุ่เซียงถูกปิดล้อม โปรดส่งกองกำลังไปสนับสนุน!"
-Role2-30-3_1_2,"What a trick to feint east and attack west!\nThe Ye Family Battalion has been harassed in several camps these days, and the soldiers in each camp have been busy dealing with it. Their real goal is Chuxiang City!"
-Role2-30-3_1_3,"This marshal will summon all the camps to rush to Chuxiang City for rescue. I'm afraid I'll have to ask the young hero to hold back the Yan army for a while, so as not to let the Yan army break the city too early and cause a massacre."
+Role2-30-3_1_2,"What a trick to feint east and attack west!\nThe Ye Family Battalion has been harassed in several camps these days, and the soldiers in each camp have been busy dealing with it. Their real goal is Chuxiang City!",กลยุทธ์หลอกตีตะวันออกแล้วเข้าตีตะวันตก!\nหลายวันนี้ค่ายกองพันตระกูลเย่ถูกรบกวนมาโดยตลอด ทำให้ทหารของพวกเขาไม่อาจมีเวลาคิดไตร่ตรอง แต่เป้าหมายที่แท้จริงกลับเป็นเมืองฉู่เซียง!
+Role2-30-3_1_3,"This marshal will summon all the camps to rush to Chuxiang City for rescue. I'm afraid I'll have to ask the young hero to hold back the Yan army for a while, so as not to let the Yan army break the city too early and cause a massacre.",ข้าจะส่งสัญญาณให้ค่ายทหารทุกค่ายบุกไปช่วยเหลือเมืองฉู่เซียง คงต้องขอให้จอมยุทธน้อยช่วยยื้อกองทัพหยานไว้สักพัก ไม่ให้พวกมันบุกตีเมืองสังหารผู้คน
 Role2-30-3_1_4,Yes!
-Role2-31-1_1_1,"{PlayerName}, you refused to serve this marshal before, today you will regret it.\nThis marshal will see how you alone can stop my thousands of {Horse}!"
-Role2-31-1_2_1,"Oh, is this marshal seeing things?\nHow come only one little guy came out to die in such a big Chuxiang City?"
-Role2-31-1_3_1,"To deal with your mob, I alone am enough."
-Role2-31-1_4_1,"{PlayerGivenName} brother, you and I each serve our own master, today we don't need to show mercy."
-Role2-31-1_5_1,"{PlayerSurName}, finally I can have a good fight with you!"
-Role2-31-1_6_1,"Chuxiang City is something this marshal must have, no one can stop it. Since you want to hit a rock with an egg, then I will fulfill your wish!"
-Role2-31-1_7_1,I didn't expect that you few could actually withstand the thousands of {Horse} of this marshal!
-Role2-31-1_7_2,"With only a few of you left, are you planning to retreat or do you have any other tricks?"
-Role2-31-1_7_3,Retreat? What a joke!
-Role2-31-1_7_4,"Even if tens of thousands or hundreds of thousands of Yan people die, this outcome will not change!"
-Role2-31-1_8_1,"So you have a backup plan, no wonder you are fearless."
+Role2-31-1_1_1,"{PlayerName}, you refused to serve this marshal before, today you will regret it.\nThis marshal will see how you alone can stop my thousands of {Horse}!",{PlayerName} ก่อนหน้านี้เจ้าปฏิเสธจะรับใช้ข้า วันนี้เจ้าจะต้องเสียใจ\nข้าแม่ทัพขอดูหน่อยว่าเจ้าคนเดียวจะหยุด{Horse}นับพันของข้ายังไง!
+Role2-31-1_2_1,"Oh, is this marshal seeing things?\nHow come only one little guy came out to die in such a big Chuxiang City?",โอ้ นี่ข้าเห็นภาพหลอนรึเปล่าน่ะ\nเจ้าตัวน้อยคนนึงจะออกมาฆ่าตัวตายเพื่อปกป้องเมืองฉู่เซียงเนี่ยนะ
+Role2-31-1_3_1,"To deal with your mob, I alone am enough.",จะจัดการกับคนอ่อนแอเช่นพวกเจ้า ข้าคนเดียวก็พอแล้ว
+Role2-31-1_4_1,"{PlayerGivenName} brother, you and I each serve our own master, today we don't need to show mercy.",พี่ {PlayerGivenName} ท่านและข้าต่างรับใช้นายต่างฝั่ง วันนี้ไม่จำเป็นต้องมีเมตตาใดๆต่อกัน
+Role2-31-1_5_1,"{PlayerSurName}, finally I can have a good fight with you!",{PlayerSurName} ในที่สุดข้าก็ได้สู้กับท่านซะที!
+Role2-31-1_6_1,"Chuxiang City is something this marshal must have, no one can stop it. Since you want to hit a rock with an egg, then I will fulfill your wish!",เมืองฉู่เซียงเป็นเมืองที่ข้าแม่ทัพจำเป็นต้องได้มา ไม่ว่าใครก็ไม่อาจหยุดได้ ในเมื่อเจ้าอยากใช้ไข่กระทบหิน เช่นนั้นข้าก็จะสนองให้!
+Role2-31-1_7_1,I didn't expect that you few could actually withstand the thousands of {Horse} of this marshal!,ไม่นึกเลยว่าพวกเจ้าไม่กี่คนจะสามารถรับมือกับ {Horse} นับพันของข้าได้จริงๆ!
+Role2-31-1_7_2,"With only a few of you left, are you planning to retreat or do you have any other tricks?",เหลือคนเพียงเท่านี้ ต่อไปเจ้าวางแผนจะถอย หรือใช้แผนการอะไรกันล่ะ
+Role2-31-1_7_3,Retreat? What a joke!,ถอยรึ ล้อเล่นน่า!
+Role2-31-1_7_4,"Even if tens of thousands or hundreds of thousands of Yan people die, this outcome will not change!",ต่อให้ต้องมีทหารหยานนับพันนับหมื่นต้องตาย ก็ไม่อาจเปลี่ยนแปลงสิ่งที่จะเกิดขึ้นได้อยู่ดี!
+Role2-31-1_8_1,"So you have a backup plan, no wonder you are fearless.",เจ้ายังมีแผนสำรองอยู่นี่เอง ถึงได้ไม่ดูหวาดกลัวเลย
 Role2-31-1_9_1,"You ruined my good deeds, boy, you deserve this today!"
 Role2-31-1_10_1,"Stinky boy, those who offend me should die, and you are no exception!"
-Role2-31-1_11_1,"Even if a god descends now, he can't save you, just accept your fate."
+Role2-31-1_11_1,"Even if a god descends now, he can't save you, just accept your fate.",ต่อให้เทพเซียนลงมาตอนนี้ ก็ไม่อาจช่วยเจ้าได้ ยอมรับชะตาซะเถอะ
 Role2-31-1_12_1,"Yiya~ If the king wants the minister to die, the minister has to be {Invincible}, eighteen years later, he will be a hero again~~~"
-Role2-31-1_13_1,Witnessing the fall of a young hero with my own eyes is also a pleasure.
-Role2-31-1_14_1,"{PlayerName}, nice to see you again, we finally meet again."
-Role2-31-1_14_2,I didn't expect you to be a traitor and willingly become a dog of Yan!
-Role2-31-1_14_3,"You're wrong, I'm just cooperating with Yan, it's mutually beneficial."
+Role2-31-1_13_1,Witnessing the fall of a young hero with my own eyes is also a pleasure.,ได้เป็นพยานเห็นความพ่ายแพ้ของจอมยุทธน้อยด้วยตาตัวเองก็ถือเป็นความสุขไม่น้อย
+Role2-31-1_14_1,"{PlayerName}, nice to see you again, we finally meet again.",{PlayerName} ยินดีที่ได้พบกันอีก ในที่สุดเราก็ได้พบกัน
+Role2-31-1_14_2,I didn't expect you to be a traitor and willingly become a dog of Yan!,ข้าไม่คิดเลยว่าเจ้าจะเป็นกบฏ เป็นสุนัขรับใช้พวกหยาน!
+Role2-31-1_14_3,"You're wrong, I'm just cooperating with Yan, it's mutually beneficial.",เจ้าเข้าใจผิดแล้ว ข้าเพียงแค่ร่วมมือกับทัพหยานเท่านั้น เป็นเพียงผลประโยชน์ร่วมกัน
 Role2-31-1_15_1,"Wan Yan Wuzhu, it seems that your Yan Yun Iron Army is nothing more than that, in the end, we still have to rely on our Nine Factions Sect to take action.","หวันหยานอู๋จู ดูเหมือนว่ากองทัพเหล็กหยานหยุนของเจ้าก็ไม่มีอะไรมากไปกว่านั้นเลย, ในท้ายที่สุดเรายังคงต้องพึ่งพานิกายเก้าฝ่ายของเราในการลงมือ."
-Role2-31-1_15_2,"Nine Factions Sect? You are from the Nine Factions Sect!\nI can't believe you've fallen so low, willingly becoming the lapdogs of the Yan Kingdom!"
+Role2-31-1_15_2,"Nine Factions Sect? You are from the Nine Factions Sect!\nI can't believe you've fallen so low, willingly becoming the lapdogs of the Yan Kingdom!",นิกายเก้าฝ่าย เจ้ามาจากนิกายเก้าฝ่ายรึ!\nไม่อยากเชื่อเลยว่าพวกเจ้าจะตกต่ำถึงเพียงนี้ ถึงขนาดยอมเป็นหมารับใช้อาณาจักรหยาน!
 Role2-31-1_15_3,"You're mistaken, the Nine Factions Sect is merely cooperating with the Yan Kingdom, it's a mutually beneficial relationship.",เจ้าเข้าใจผิดแล้ว นิกายเก้าฝ่ายร่วมมือกับอาณาจักรหยานเพียงผิวเผินเท่านั้น เป็นเพียงความสัมพันธ์เพือผลประโยชน์ร่วม
 Role2-31-1_16_1,"Tie Mianren, it's time for the Nine Factions Sect to stop playing coy. If you want to cooperate with me, show some sincerity!",เตี่ย เหมียนเหริน ถึงเวลาที่พวกเจ้านิกายเก้าฝ่ายจะเลิกหลบๆซ่อนๆแล้ว หากต้องการร่วมมือกับข้า ก็แสดงความจริงใจมาซะ!
 Role2-31-1_16_2,"Don't worry, leave the ones you can't handle to the Nine Factions Sect.",ไม่ต้องกังวลไป ปล่อยพวกที่เจ้ารับมือไม่ไหวให้นิกายเก้าฝ่ายจัดการเอง
@@ -927,17 +927,17 @@ Role2-31-2_7_6,So what if we can't? It's just a matter of life and death.
 Role2-31-2_7_7,"It's not just one or two deaths, but tens of thousands, even hundreds of thousands of people will die. According to the Yan army's practice, those who refuse to surrender will face a massacre after the war, leaving no survivors..."
 Role2-31-2_7_8,Have you ever thought that your momentary bravery could lead to the death of countless innocent people? How can you bear it?
 Role2-31-2_7_9,"A good bird chooses a tree to nest, this general is just finding a home for himself and a way out for Chuxiang City, what's wrong with that?"
-Role2-31-2_7_10,……
-Role2-31-2_7_11,"Marshal Wan Yan, how do you plan to settle me?"
+Role2-31-2_7_10,……,……
+Role2-31-2_7_11,"Marshal Wan Yan, how do you plan to settle me?",แม่ทัพหวานหยาน ท่านมีแผนจะทำอย่างไรกับข้ากัน
 Role2-31-2_7_12,"Our Yan Kingdom's Horse Supervisor is missing a small official to feed the horses, which is just right for General Lü.\nWith such sincerity from this marshal, I believe General Lü will not refuse.","ผู้ดูแลม้าแห่งอาณาจักรหยานของเราหายไปไม่มีคนคอยให้อาหารม้า, ซึ่งเหมาะที่จะให้นายพลลู่ไป\nด้วยความจริงใจจากจอมพลคนนี้, ข้าเชื่อว่านายพลลู่จะไม่ปฏิเสธ"
-Role2-31-2_7_13,"I didn't expect Marshal Wan Yan to be a humorous person, but this joke seems a bit inappropriate."
-Role2-31-2_7_14,This marshal never jokes.
-Role2-31-2_8_1,"This is my reward for you, don't be ungrateful!"
-Role2-31-2_8_2,……
-Role2-31-2_9_1,"{PlayerName}, although this marshal loves talents, he hates traitors the most, so this place will be your burial ground!"
+Role2-31-2_7_13,"I didn't expect Marshal Wan Yan to be a humorous person, but this joke seems a bit inappropriate.",ไม่นึกเลยว่าแม่ทัพหวานหยานจะเป็นคนมีอารมณ์ขันเช่นนี้ แต่มุกตลกเช่นนี้ออกจะไม่เหมาะสมสักหน่อย
+Role2-31-2_7_14,This marshal never jokes.,ข้าแม่ทัพไม่เคยพูดล้อเล่น
+Role2-31-2_8_1,"This is my reward for you, don't be ungrateful!",นี่คือรางวัลแก่เจ้า รับไปเถอะ!
+Role2-31-2_8_2,……,……
+Role2-31-2_9_1,"{PlayerName}, although this marshal loves talents, he hates traitors the most, so this place will be your burial ground!",{PlayerName} แม้ข้าแม่ทัพจะชื่นชมผู้มีความสามารถ แต่ข้าเกลียดคนทรยศที่สุด ดังนั้นแล้ว ที่นี่จะเป็นหลุมศพของเจ้า!
 Role2-31-2_10_1,"{PlayerName}, as the saying goes, ""birds follow the phoenix to fly far"", if you follow this marshal, you can easily get wealth and honor; if you are an enemy of this marshal, you will die without a burial place!"
-Role2-31-2_10_2,"(This guy is obviously trying to win me over, if I don't agree, he might turn against me immediately, what should I do?)"
-Role2-31-2_11_1,"Very good, very good!"
+Role2-31-2_10_2,"(This guy is obviously trying to win me over, if I don't agree, he might turn against me immediately, what should I do?)",(เห็นได้ชัดว่าคนๆนี้พยายามชนะใจเรา ถ้าเราไม่ตกลก เขาอาจจะหันกลับมาจู่โจมได้ทันที ควรทำอย่างไรดี)
+Role2-31-2_11_1,"Very good, very good!",ดีมาก ดีมาก!
 Role2-31-2_12_1,"You ruined my good deeds, boy, you deserve this today!"
 Role2-31-2_13_1,"Stinky boy, those who offend me should die, and you are no exception!"
 Role2-31-2_14_1,"Even if a god descends now, he can't save you, just accept your fate.",ต่อให้เทพเซียนลงมาตอนนี้ก็ไม่อาจช่วยเจ้าได้ ยอมรับชะตากรรมซะเถอะ
@@ -956,51 +956,51 @@ Role2-31-2_20_2,"I didn't expect... to fail at the last moment, how unfair the h
 Role2-31-2_21_1,"{PlayerName}, quickly cut down the Yan army's command flag on the stage, so that the Yan army's morale will collapse and they will be easily defeated.",{PlayerName} รีบหักธงของทัพหยานลงมาเร็ว พวกทัพหยานจะได้เสียขวัญกำลังใจ และจะได้จัดการได้ง่ายๆ
 Role2-31-2_21_2,"Hehe, personally cutting down the Yan army's command flag is like making a significant mark in history.",ฮิฮิ การได้หักธงทัพหยานด้วยตัวเองนี่ก็เหมือนเป็นเหตุการณ์สำคัญของประวัติศาสตร์เลยนะเนี่ย
 Role2-31-2_21_3,Why is this?!,ทำไม่เป็นเช่นนี้!
-Role2-31-2_21_4,"{PlayerName}, if you want to blame someone, blame yourself for being too monstrous. You are a threat to me sooner or later, it's better to prevent it before it happens!"
-Role2-31-2_21_5,"Thank you for everything you've done for this general, but it's worthless now.\nFarewell!"
+Role2-31-2_21_4,"{PlayerName}, if you want to blame someone, blame yourself for being too monstrous. You are a threat to me sooner or later, it's better to prevent it before it happens!",{PlayerName} หากเจ้าจะโทษใคร ก็โทษตัวเจ้าเองเถอะที่แข็งแกร่งเกินไป ไม่ช้าก็เร็วเจ้าคงกลายเป็นเสี้ยนหนามต่อข้า ไม่อาจปล่อยให้ถึงวันนั้นได้!
+Role2-31-2_21_5,"Thank you for everything you've done for this general, but it's worthless now.\nFarewell!",ขอบคุณสำหรับทุกอย่างที่เจ้าทำให้ข้าแม่ทัพ แต่ตอนนี้มันไม่มีค่าอะไรแล้ว\nลาก่อน!
 Role2-31-2_22_1,"Wan Yan Wuzhu originally planned to detain Lü Wenhuan again to blackmail and force the Chuxiang City defenders to surrender, but I disrupted his plan.",หวันหยานอู๋จู แต่เดิมวางแผนที่จะกักตัว ลู่เหวินหวน อีกครั้งเพื่อหักหลังและบังคับให้กองกำลังเมืองฉู่เซียงยอมจำนน แต่ข้าได้ไปขัดขวางแผนการของเขา
-Role2-31-2_22_2,"Neither of these two are good people, now that they've both perished, it might not be a bad thing for Chuxiang City. The world should be much more peaceful from now on."
-Role2-31-2_23_1,"General Lü, good birds choose their trees to nest in, and you are no longer suitable for me."
-Role2-31-2_23_2,"{PlayerName}, you want to betray this general!"
-Role2-31-2_23_3,"If you can betray the court and show favor to the Yan Kingdom, why can't I betray you?"
-Role2-31-2_23_4,"{yell}, go to hell!"
+Role2-31-2_22_2,"Neither of these two are good people, now that they've both perished, it might not be a bad thing for Chuxiang City. The world should be much more peaceful from now on.",พวกเขาทั้งคู่ล้วนไม่ใช่คนดี ในเมื่อตอนนี้ถูกจัดการไปแล้ว ก็คงดีกับเมืองฉู่เซียงไม่น้อย จากนี้ไปโลกคงสงบสุขขึ้นมาก
+Role2-31-2_23_1,"General Lü, good birds choose their trees to nest in, and you are no longer suitable for me.",แม่ทัพลู่ นกที่ดีต้องเลือกต้นไม้ทำรัง ตอนนี้ท่านไม่คู่ควรให้ข้ารับใช้แล้ว
+Role2-31-2_23_2,"{PlayerName}, you want to betray this general!",{PlayerName} เจ้าจะทรยศข้าแม่ทัพรึ!
+Role2-31-2_23_3,"If you can betray the court and show favor to the Yan Kingdom, why can't I betray you?",ในเมื่อเจ้ายังทรยศเบื้องสูง และเข้าข้างอาณาจักรหยานได้ ทำไมข้าจะทรยศเจ้าไม่ได้ล่ะ
+Role2-31-2_23_4,"{yell}, go to hell!",{yell} ไปลงนรกซะ!
 Role2-31-2_23_5,"Do you think that by killing me, you can gain Wan Yan Wuzhu's trust?\nThose who are not of our kind, their hearts will be different, he will not trust you, an outsider.",เจ้าคิดว่าการฆ่าข้าจะทำให้คุณได้รับความไว้วางใจจาก หวันหยานอู๋จูหรอ?\nเข้าที่ไม่ใช่คนฝั่งเรา จิดใจจะแตกต่าง เขาไม่มีทางเชื่อใจเจ้า เจ้าคนนอก.
-Role2-31-2_23_6,"I don't need him to trust me, as long as I still have value to him, there is room for cooperation between us."
-Role2-31-2_23_7,"And you, you are no longer of any use, so what awaits you is only—death!"
-Role2-31-2_23_8,"{PlayerName}, if you are willing to serve me, this marshal will not let you down!\nFrom today, you are the right-hand man of this marshal, and these things are what you deserve."
-Role2-31-2_23_9,"Thank you, Marshal!\nI will devote myself to following the Marshal to the death!"
-Role2-31-2_23_10,"Lü Wenhuan is dead, and this Chuxiang City is now in the bag of this marshal. Next, we need to prepare for the attack on Lin'an City."
-Role2-31-2_23_11,"You go and rest first, I will have tasks for you later."
-Role2-31-2_23_12,Yes!
-Role2-32_1_1,"You killed the Yan Kingdom's Horse Marshal and defended Chuxiang City. Now you are the great hero of Chuxiang City, and your future is limitless."
-Role2-32_2_1,"It's all thanks to the general's cultivation, I will never forget the favor of the general in this life."
-Role2-32_2_2,This general admires men like you who are loyal and righteous.
-Role2-32_3_1,"You're too kind, sir, this is what I should do."
-Role2-32_3_2,This general admires your courage for the country and the people!
-Role2-32_4_1,"Come, drink this cup of celebration wine, this general celebrates your triumphant return!"
-Role2-32_4_2,"Thank you, general!"
-Role2-32_4_3,"You drank the wine handed by Lü Wenhuan in one gulp, and then you felt dizzy and fell unconscious."
+Role2-31-2_23_6,"I don't need him to trust me, as long as I still have value to him, there is room for cooperation between us.",ข้าไม่จำเป็นต้องให้เขาเชื่อใจ ตราบใดที่ข้ายังมีคุณค่าต่อเขาอยู่ ข้าก็ยังร่วมมือกับเข้าได้เสมอ
+Role2-31-2_23_7,"And you, you are no longer of any use, so what awaits you is only—death!",และเจ้า เจ้าไม่มีคุณค่าใดๆอีกแล้ว ดังนั้นสิ่งที่เหลืออยู่ก็มีเพียง--ความตาย!
+Role2-31-2_23_8,"{PlayerName}, if you are willing to serve me, this marshal will not let you down!\nFrom today, you are the right-hand man of this marshal, and these things are what you deserve.",{PlayerName} หากเจ้าอยากรับใช้ข้า ข้าแม่ทัพจะไม่ทำให้เจ้าผิดหวัง\nตั้งแต่วันนี้ไป เจ้าคือมือขวาของข้าแม่ทัพ และของเหล่านี้ก็คือสิ่งที่เจ้าคู่ควรจะได้รับ
+Role2-31-2_23_9,"Thank you, Marshal!\nI will devote myself to following the Marshal to the death!",ขอบคุณท่านแม่ทัพ!\nข้าจะขอถวายตัวติดตามท่านแม่ทัพไปจนตาย!
+Role2-31-2_23_10,"Lü Wenhuan is dead, and this Chuxiang City is now in the bag of this marshal. Next, we need to prepare for the attack on Lin'an City.",ลู่เหวินหวนตายไปแล้ว ตอนนี้เมืองฉู่เซียงนี้ก็ไม่ต่างอะไรกับลูกไก่ในกำมือของข้าแม่ทัพ ต่อไป พวกเราจะเตรียมตัวโจมตีเมืองหลินอัน
+Role2-31-2_23_11,"You go and rest first, I will have tasks for you later.",เจ้าไปพักก่อนเถอะ ข้าค่อยมอบงานให้เจ้าทีหลัง
+Role2-31-2_23_12,Yes!,ขอรับ!
+Role2-32_1_1,"You killed the Yan Kingdom's Horse Marshal and defended Chuxiang City. Now you are the great hero of Chuxiang City, and your future is limitless.",เจ้าสังหารผู้บัญชาการกองทัพหยาน และปกป้องเมืองฉู่เซียงไว้ ตอนนี้เจ้าถือเป็นยอดวีรบุรุษของเมืองฉู่เซียง อนาคตของเจ้าคงไม่อาจประมาณได้อีก
+Role2-32_2_1,"It's all thanks to the general's cultivation, I will never forget the favor of the general in this life.",ทุกอย่างต้องขอบคุณการสั่งสอนของท่านแม่ทัพ ข้าจะไม่มีวันลืมบุญคุณท่านไปตลอดชีวิต
+Role2-32_2_2,This general admires men like you who are loyal and righteous.,ข้าแม่ทัพชื่นชมผู้ที่ภักดี และเปี่ยมคุณธรรมเช่นเจ้านัก
+Role2-32_3_1,"You're too kind, sir, this is what I should do.",ท่านชมเกินไปแล้ว นี่ก็แค่สิ่งที่ข้าควรทำ
+Role2-32_3_2,This general admires your courage for the country and the people!,ข้าแม่ทัพขอชื่นชมความกล้าหาญที่เจ้ามีต่อประเทศชาติ และปวงประชา!
+Role2-32_4_1,"Come, drink this cup of celebration wine, this general celebrates your triumphant return!",มา ดื่มสุราฉลองนี้เถอะ ข้าแม่ทัพขอฉลองแก่การกลับมาจากชัยชนะของเจ้า!
+Role2-32_4_2,"Thank you, general!",ขอบคุณ ท่านแม่ทัพ!
+Role2-32_4_3,"You drank the wine handed by Lü Wenhuan in one gulp, and then you felt dizzy and fell unconscious.",ท่านดื่มสุราที่ลู่เหวินหวนมอบให้หมดในรวดเดียว จากนั้นก็รู้สึกมึนหัว และหมดสติ
 Role2-32_4_4,"Hey, traitor {PlayerName}, how did you collude with the Yan Kingdom, how did you collude with Wan Yan Wuzhu, confess now to avoid suffering!",เฮ้ คนทรยศ {PlayerName} เจ้าสมรู้ร่วมคิดกับแคว้นหยานได้อย่างไร เจ้าสมรู้ร่วมคิดกับหวันหยานอู๋จูได้อย่างไร สารภาพมาตอนนี้เพื่อหลีกเลี่ยงความทุกข์ทรมาน!
 Role2-32_5_1,"What happened, what collusion with the Yan Kingdom, who colluded with Wan Yan Wuzhu?",เกิดอะไรขึ้น การสมรู้ร่วมคิดอะไรกับอาณาจักรหยาน ใครที่สมรู้ร่วมคิดกับหวันหยานอู๋จู?
 Role2-32_5_2,"The evidence is conclusive, someone found some of your correspondence with Wan Yan Wuzhu, and someone saw you entering and exiting the Yan army's camp as if it were unguarded.",หลักฐานเป็นที่แน่ชัด มีคนพบการติดต่อของเจ้ากับหวันหยานอู๋จู และมีคนเห็นเจ้าเข้าและออกจากค่ายของกองทัพหยาน ราวกับว่าพวกเขาไม่มีการระวังป้องกัน
-Role2-32_5_3,"It must be someone framing me, sir, you can't just listen to one side of the story."
-Role2-32_5_4,"Now that there is both human and physical evidence, even if you want to deny it, it's useless."
-Role2-32_5_5,{yell} Bring the traitor {PlayerName} to the execution ground and execute him!
-Role2-32_5_6,"So eager, it seems that there is someone extraordinary who wants my life."
-Role2-32_5_7,"You, you, what are you going to do?"
-Role2-32_5_8,"Don't be nervous, just reminding you of some things."
-Role2-32_5_9,"It was me, who fought bloody battles to solve the crisis of Chuxiang City!"
-Role2-32_5_10,"It was me, who made the Yan Yun Iron Army outside the city annihilated!"
-Role2-32_5_11,"When I was alone and defended the city, making it impossible for the Yan army to cross the thunder pond, what were you doing?"
-Role2-32_5_12,"A group of cowards as timid as mice, as stupid as pigs, who only know how to scheme against their own people every day, what right do they have to judge me?"
-Role2-32_5_13,"Rebellion, rebellion, seize them, no mercy!"
-Role2-32_6_1,"I never thought that I, {PlayerName}, would so quickly go from being a great hero to a traitor that everyone wants to beat. It turns out that people's hearts are so easily manipulated, it's really sad."
-Role2-32_6_2,"Find a way to leave the city as soon as possible, I don't want to stay in this place of right and wrong for a moment longer."
+Role2-32_5_3,"It must be someone framing me, sir, you can't just listen to one side of the story.",ต้องมีคนใส่ร้ายข้าแน่ๆ ท่านจะฟังความข้างเดียวเช่นนี้ไม่ได้นะ
+Role2-32_5_4,"Now that there is both human and physical evidence, even if you want to deny it, it's useless.",บัดนี้มีทั้งพยาน และหลักฐาน ต่อให้เจ้าจะปฏิเสธยังไงก็คงไม่มีประโยชน์
+Role2-32_5_5,{yell} Bring the traitor {PlayerName} to the execution ground and execute him!,{yell} นำตัวกบฏ {PlayerName} เข้ามายังลานประหาร และสำเร็จโทษซะ!
+Role2-32_5_6,"So eager, it seems that there is someone extraordinary who wants my life.",ช่างกระตือรือร้นนัก ดูเหมือนจะมีคนไม่ธรรมดาต้องการชีวิตข้าสินะ
+Role2-32_5_7,"You, you, what are you going to do?",เจ้า เจ้าจะทำอะไรน่ะ
+Role2-32_5_8,"Don't be nervous, just reminding you of some things.",ไม่ต้องกังวลไป เพียงแค่ทบทวนความจำพวกท่านเล็กน้อย
+Role2-32_5_9,"It was me, who fought bloody battles to solve the crisis of Chuxiang City!",ว่าข้า คือผู้ที่ต่อสู้อย่างดุเดือดเพื่อยุติหายนะของเมืองฉู่เซียง!
+Role2-32_5_10,"It was me, who made the Yan Yun Iron Army outside the city annihilated!",ว่าข้า คือผู้ที่สังหารกองทัพเหล็กหยานหยุนจนเกลี้ยงที่นอกเมือง
+Role2-32_5_11,"When I was alone and defended the city, making it impossible for the Yan army to cross the thunder pond, what were you doing?",ตอนที่ข้ายืนหยัดเพียงผู้เดียว และปกป้องเมืองไว้ กองทัพหยานทั้งหมดล้วนไม่อาจข้ามธารน้ำไปได้แม้แต่คนเดียว แล้วพวกเจ้าคิดว่าตัวเองเป็นใครกัน
+Role2-32_5_12,"A group of cowards as timid as mice, as stupid as pigs, who only know how to scheme against their own people every day, what right do they have to judge me?",พวกกลุ่มคนขี้ขลาด พวกตาขาวดั่งมุสิก โง่เขลาดั่งสุกรเช่นพวกเจ้า รู้จักแต่วางแผนหักหลังพวกเดียวกันเองทุกวี่ทุกวัน พวกเจ้ามีสิทธิอะไรมาตัดสินโทษข้า
+Role2-32_5_13,"Rebellion, rebellion, seize them, no mercy!",กบฏ กบฏ จับตัวมันไว้ อย่าปล่อยให้รอด!
+Role2-32_6_1,"I never thought that I, {PlayerName}, would so quickly go from being a great hero to a traitor that everyone wants to beat. It turns out that people's hearts are so easily manipulated, it's really sad.",ไม่นึกเลยว่าข้า {PlayerName} จะเปลี่ยนจากมหาวีรบุรุษเป็นกบฏที่ผู้คนอยากทำร้ายได้รวดเร็วเพียงนี้ แท้จริงแล้วจิตใจผู้คนช่างถูกควบคุมได้ง่ายดายนัก น่าเศร้าจริงๆ
+Role2-32_6_2,"Find a way to leave the city as soon as possible, I don't want to stay in this place of right and wrong for a moment longer.",ต้องหาทางออกจากเมืองให้เร็วที่สุด ข้าไม่อยากอยู่ในสถานที่ที่ไม่รู้จักผิดถูกเช่นนี้ต่อไปอีกแม้แต่วินาทีเดียว
 Role2-32_7_1,"They say I have secret connections with Yan Kingdom, they say I collude with Wan Yan Wuzhu?\nDid you guys get something wrong?",พวกเขาบอกว่าข้ามีความสัมพันธ์ลับๆ กับอาณาจักรหยาน พวกเขาบอกว่าข้าสมรู้ร่วมคิดกับหวันหยานอู๋จู?\nพวกเจ้าเข้าใจอะไรผิดหรือเปล่า?
 Role2-32_7_2,"The evidence is conclusive, someone found some of your correspondence with Wan Yan Wuzhu, and someone saw you entering and exiting the Yan army's camp as if it were unguarded.",หลักฐานเป็นที่แน่ชัด มีคนพบการติดต่อของเจ้ากับหวันหยานอู๋จู และมีคนเห็นเจ้าเข้าและออกจากค่ายของกองทัพหยาน ราวกับว่าพวกเขาไม่มีการระวังป้องกัน
 Role2-32_7_3,"You might as well say, where did this correspondence come from, what evidence is there on it that it's a letter between me and Wan Yan Wuzhu?",เจ้าอาจพูดได้เช่นกันว่าจดหมายโต้ตอบนี้มาจากไหน มีหลักฐานอะไรว่าเป็นจดหมายระหว่างข้ากับหวันหยานอู๋จู
-Role2-32_7_4,"{PlayerName}, I trusted you, but I didn't expect you to be a traitor who betrayed the country!"
-Role2-32_7_5,It's really my fault for not disciplining the people in the General's mansion properly.
+Role2-32_7_4,"{PlayerName}, I trusted you, but I didn't expect you to be a traitor who betrayed the country!",{PlayerName} ข้าเชื่อใจเจ้า แต่ไม่นึกเลยว่าเจ้าจะเป็นกบฏที่ทรยศประเทศชาติ!
+Role2-32_7_5,It's really my fault for not disciplining the people in the General's mansion properly.,เป็นความผิดข้าจริงๆที่ไม่ยอมสั่งสอนระเบียบวินัยกับคนในจวนแม่ทัพให้ดี
 Role2-32_7_6,"This thief should be dealt with by military law, but considering the gravity of the situation, I have to avoid suspicion and send him to the government office for punishment according to national law!"
 Role2-32_7_7,The pacifying envoy is indeed impartial.
 Role2-32_7_8,"{yell}Lü Wenhuan, you framed me!"
@@ -1051,28 +1051,28 @@ Role3-1_2_2,"Kid, don't look for trouble, this is none of your business, get los
 Role3-1_2_3,"I'm itching for a fight today, come and exercise with me."
 Role3-1_2_4,You're looking for death!
 Role3-1_3_1,"Spare me, good man, spare me!","ไว้ชีวิตข้าเถอะ, พ่อคนดี, ไว้ชีวิตข้าที!"
-Role3-1_3_2,"What a bunch of spineless cowards, get lost!"
-Role3-1_3_3,Good skills!
-Role3-1_4_1,"As expected of {PlayerSurName} brother, great skills indeed!"
-Role3-1_4_2,"Brother Ye is too kind, I just can't stand these military bullies oppressing the people."
-Role3-1_4_3,"Brother {PlayerSurName}, don't be modest. With your skills, it's a pity not to serve the country. If Brother {PlayerSurName} is also interested, you can sign up for the army at the <color=#c44b0e>Ye Family Battalion camp</color>. I look forward to the day when we can fight side by side!"
-Role3-1_4_4,"I have to lead the team to patrol around, so I won't catch up with Brother {PlayerSurName} anymore. Let's meet another day."
-Role3-1_4_5,"Take care, Brother Ye."
-Role3-1_5_1,"I am Ye Yun from the Ye Family Battalion, may I ask for your name, young hero?"
+Role3-1_3_2,"What a bunch of spineless cowards, get lost!",ก็แค่พวกขี้ขลาดใจคด ไสหัวไป!
+Role3-1_3_3,Good skills!,ฝีมือเยี่ยม!
+Role3-1_4_1,"As expected of {PlayerSurName} brother, great skills indeed!",อย่างที่คิดไว้ พี่ {PlayerSurName} ฝีมือเยี่ยมจริงๆ!
+Role3-1_4_2,"Brother Ye is too kind, I just can't stand these military bullies oppressing the people.",พี่เย่ชมเกินไปแล้ว ข้าแค่ไม่อาจทนดูทหารพวกนี้รังแกผู้คนได้
+Role3-1_4_3,"Brother {PlayerSurName}, don't be modest. With your skills, it's a pity not to serve the country. If Brother {PlayerSurName} is also interested, you can sign up for the army at the <color=#c44b0e>Ye Family Battalion camp</color>. I look forward to the day when we can fight side by side!",พี่ {PlayerSurName} อย่าถ่อมตัวเลย ฝีมือเช่นท่าน น่าเสียดายนักที่ไม่ได้รับใช้ประเทศชาติ หากพี่ {PlayerSurName} สนใจล่ะก็ ท่านสามารถมาสมัครเข้า <color=#c44b0e>กองพันตระกูลเย่</color> ได้ ข้าจะเฝ้ารอวันที่ได้ต่อสู้เคียงข้างท่าน!
+Role3-1_4_4,"I have to lead the team to patrol around, so I won't catch up with Brother {PlayerSurName} anymore. Let's meet another day.",ข้ายังต้องออกตรวจตรารอบๆอีก คงไม่อาจอยู่คุยกับพี่ {PlayerSurName} ต่อได้ ไว้พบกันวันหลัง
+Role3-1_4_5,"Take care, Brother Ye.",ดูแลตัวเองด้วย พี่เย่
+Role3-1_5_1,"I am Ye Yun from the Ye Family Battalion, may I ask for your name, young hero?",ข้า เย่หยุน จากกองพันตระกูลเย่ ขอทราบชื่อจอมยุทธน้อยได้หรือไม่
 Role3-1_5_2,I am {PlayerName}.,ข้าคือ {PlayerName}
-Role3-1_6_1,I heard about you from my sister Ye Yinping's letter. She mentioned that she met a courageous young hero during her travels. I didn't expect to meet you here today.
-Role3-1_6_2,"So you're Sister Yinping's brother, my apologies for the oversight."
-Role3-1_7_1,"I see you're quite capable. Our Ye Family Battalion is recruiting soldiers. If you're interested in serving the country, you can sign up at the <color=#c44b0e>Ye Family Battalion camp</color>."
-Role3-1_7_2,"I have to lead the team to patrol around, so let's part ways for now. We'll meet again another day."
-Role3-1_8_1,"Grateful for the righteous action of {PlayerSurName}.\nPlease stay, let this old man show some hospitality to express my gratitude."
-Role3-1_8_2,You are a great hero!
-Role3-1_8_3,I wish we had such a man in our family!
-Role3-1_8_4,My old man was just as handsome when he was young!
-Role3-1_8_5,I wonder what kind of lady is worthy of {PlayerSurName}...
-Role3-1_8_6,"I'm flattered, I'm flattered."
-Role3-1_8_7,"The villagers took out their spare food and prepared a decent meal for you.\nUnable to refuse their kindness, you reluctantly accept the invitation."
-Role3-1_9_1,"As you say goodbye, you take out some coins and quietly leave them in the houses of a few villagers..."
-Role3-1_10_1,"As you say goodbye, you take out all your coins and quietly leave them in the houses of a few villagers..."
+Role3-1_6_1,I heard about you from my sister Ye Yinping's letter. She mentioned that she met a courageous young hero during her travels. I didn't expect to meet you here today.,ข้าเคยได้ยินเรื่องของท่านผ่านจดหมายของน้องสาวข้า เย่หยินผิง นางบอกว่าได้พบจอมยุทธวัยเยาว์กล้าหาญผู้หนึ่งระหว่างเดินทาง ไม่นึกเลยว่าวันนี้จะได้พบท่านที่นี่
+Role3-1_6_2,"So you're Sister Yinping's brother, my apologies for the oversight.",ที่แท้ท่านก็พี่ชายของ น้องสาวยินผิงนี่เอง ต้องขอโทษที่ข้าไม่ทราบมาก่อน
+Role3-1_7_1,"I see you're quite capable. Our Ye Family Battalion is recruiting soldiers. If you're interested in serving the country, you can sign up at the <color=#c44b0e>Ye Family Battalion camp</color>.",ข้าเห็นว่าท่านมีฝีมือไม่น้อย กองพันตระกูลเย่ของเรากำลังรับสมัครทหารอยู่ หากท่านสนใจรับใช้ประเทศชาติ สามารถมาสมัครเข้า <color=#c44b0e>กองพันตระกูลเย่</color> ได้นะ
+Role3-1_7_2,"I have to lead the team to patrol around, so let's part ways for now. We'll meet again another day.",ข้ายังต้องนำทหารตรวจตราพื้นที่โดยรอบอีก วันนี้คงต้องลากันแล้ว แล้วพบกันใหม่วันหลัง
+Role3-1_8_1,"Grateful for the righteous action of {PlayerSurName}.\nPlease stay, let this old man show some hospitality to express my gratitude.",ขอบคุณที่ท่าน{PlayerSurName} กระทำการด้วยคุณธรรม\nได้โปรดอยู่ที่นี่ก่อนเถอะ ให้ตาเฒ่าคนนี้ได้ตอบแทนน้ำใจแก่ท่าน
+Role3-1_8_2,You are a great hero!,ท่านช่างเป็นยอดวีรบุรุษ!
+Role3-1_8_3,I wish we had such a man in our family!,หวังว่าตระกูลเราจะมีคนเช่นท่านบ้าง!
+Role3-1_8_4,My old man was just as handsome when he was young!,ตาแก่ของข้าตอนหนุ่มๆก็หล่อเหมือนท่านแหละ!
+Role3-1_8_5,I wonder what kind of lady is worthy of {PlayerSurName}...,อยากรู้จริงๆว่าสตรีแบบไหนถึงจะคู่ควรกับท่าน {PlayerSurName}...
+Role3-1_8_6,"I'm flattered, I'm flattered.",ชมเกินไแล้ว ชมเกินไปแล้ว
+Role3-1_8_7,"The villagers took out their spare food and prepared a decent meal for you.\nUnable to refuse their kindness, you reluctantly accept the invitation.",ชาวบ้านได้นำอาหารที่เก็บสำรองไว้มาเตรียมอาหารดีๆแก่ท่าน\nด้วยความที่ไม่อาจปฏิเสธพวกเข้าได้ จึงได้แต่ยอมรับคำชวนด้วยความกระอักกระอ่วนใจ
+Role3-1_9_1,"As you say goodbye, you take out some coins and quietly leave them in the houses of a few villagers...",ขณะที่ร่ำลา ท่านก็ได้นำเงินบางส่วนออกมา และทิ้งมันไว้ในบ้านชาวบ้านอย่างเงียบๆ...
+Role3-1_10_1,"As you say goodbye, you take out all your coins and quietly leave them in the houses of a few villagers...",ขณะที่ร่ำลา ท่านก็ได้นำเงินทั้งหมดออกมา และทิ้งมันไว้ในบ้านของชาวบ้านอย่างเงียบๆ...
 Role3-1_11_1,"Why not take the Wu hook, it's time to visit the Ye Family Battalion."
 Role3-1_12_1,"Guys, let's teach the vanguard officer of the Ye Family Battalion a lesson today, so he'll be scared shitless when he sees our General's mansion!"
 Role3-1_13_1,"Spare me, General, spare me!","ไว้ชีวิตข้า, ท่านแม่ทัพ ได้โปรดไว้ชีวิตข้าเถอะ!"
@@ -1084,18 +1084,18 @@ Role3-1_13_6,"Get lost, don't dirty my eyes."
 Role3-1_14_1,"Brother Ye, you're good."
 Role3-1_14_2,"I didn't expect to see {PlayerSurName} here, I'm embarrassed."
 Role3-1_14_3,"Our Ye Family Battalion is recruiting soldiers. If you are interested in serving the country, you can come to the <color=#c44b0e>Ye Family Battalion camp</color> to enlist. I look forward to the day when we can fight side by side!"
-Role3-1_14_4,"I have to lead the team to patrol around, so I won't catch up with Brother {PlayerSurName} anymore. Let's meet another day."
+Role3-1_14_4,"I have to lead the team to patrol around, so I won't catch up with Brother {PlayerSurName} anymore. Let's meet another day.",ข้ายังต้องออกตรวจตรารอบๆอีก คงไม่อาจอยู่คุยกับพี่ {PlayerSurName} ต่อได้ ไว้พบกันวันหลัง
 Role3-1_14_5,"Take care, General Ye."
 Role3-1_15_1,I am Ye Yun from the Ye Family Battalion. May I ask the name of the brother who is watching from the sidelines?
 Role3-1_15_2,I am {PlayerName}.,ข้าคือ {PlayerName}
-Role3-1_16_1,I heard about you from my sister Ye Yinping's letter. She mentioned that she met a courageous young hero during her travels. I didn't expect to meet you here today.
-Role3-1_16_2,"So you're Sister Yinping's brother, my apologies for the oversight."
+Role3-1_16_1,I heard about you from my sister Ye Yinping's letter. She mentioned that she met a courageous young hero during her travels. I didn't expect to meet you here today.,ข้าเคยได้ยินเรื่องของท่านผ่านจดหมายของน้องสาวข้า เย่หยินผิง นางบอกว่าได้พบจอมยุทธวัยเยาว์กล้าหาญผู้หนึ่งระหว่างเดินทาง ไม่นึกเลยว่าวันนี้จะได้พบท่านที่นี่
+Role3-1_16_2,"So you're Sister Yinping's brother, my apologies for the oversight.",ที่แท้ท่านก็พี่ชายของ น้องสาวยินผิงนี่เอง ต้องขอโทษที่ข้าไม่ทราบมาก่อน
 Role3-1_17_1,"Our Ye Family Battalion is recruiting soldiers. If you are interested in serving the country, you can come to the <color=#c44b0e>Ye Family Battalion camp</color> to enlist."
-Role3-1_17_2,"I have to lead the team to patrol around, so let's part ways for now. We'll meet again another day."
+Role3-1_17_2,"I have to lead the team to patrol around, so let's part ways for now. We'll meet again another day.",ข้ายังต้องนำทหารตรวจตราพื้นที่โดยรอบอีก วันนี้คงต้องลากันแล้ว แล้วพบกันใหม่วันหลัง
 Role3-1_18_1,The old man thanks General Ye.
 Role3-1_18_2,Brother Ye is a great hero!
-Role3-1_18_3,I wish we had such a man in our family!
-Role3-1_18_4,My old man was just as handsome when he was young!
+Role3-1_18_3,I wish we had such a man in our family!,หวังว่าตระกูลเราจะมีคนเช่นท่านบ้าง!
+Role3-1_18_4,My old man was just as handsome when he was young!,ตาแก่ของข้าตอนหนุ่มๆก็หล่อเหมือนท่านแหละ!
 Role3-1_18_5,I wonder what kind of lady is worthy of General Ye...
 Role3-1_18_6,"There's nothing for me to do here, I should run away."
 Role3-1_18_7,"Why not take the Wu hook, it's time to visit the Ye Family Battalion."
