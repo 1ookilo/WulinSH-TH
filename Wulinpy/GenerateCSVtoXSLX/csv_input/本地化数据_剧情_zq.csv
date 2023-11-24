@@ -902,31 +902,31 @@ Role2-31-2_1_1,"Lü Wenhuan, do you plan to defend the city with so few people a
 Role2-31-2_1_2,"The soldiers are not in the quantity but in the quality, just the {PlayerName} under my command can be worth a thousand, so Marshal Wan Yan doesn't need to worry about my army.",ทหารเหล่านี้เน้นคุณภาพไม่เน้นปริมาณ เพียงแค่ {PlayerName} คนเดียวภายใต้คำสั่งข้าก็เปรียบได้ดั่งทัพนับพัน ดังนั้นแม่ทัพหวันหยานไม่จำเป็นต้องกังวลเรื่องกองทัพข้า
 Role2-31-2_2_1,"{PlayerGivenName} brother, you and I each serve our own master, today we don't need to show mercy.",พี่ {PlayerGivenName} ข้าและท่านต่างก็รับใช้นายคนละฝั่ง วันนี้ไม่จำเป็นต้องปราณี
 Role2-31-2_3_1,"{PlayerSurName}, finally I can have a good fight with you!",{PlayerSurName} ในที่สุดข้าก็ได้สู้กับเจ้า!
-Role2-31-2_4_1,"I, the marshal, will test the strength of your Lü Wenhuan with this vanguard army."
-Role2-31-2_5_1,"General Lu hid quite well!\nAlthough this battle is just a small test, it has forced me to reassess the chips in your hand."
-Role2-31-2_5_2,"Now, am I, Lü Wenhuan, qualified to talk about the follow-up matters with Marshal Wan Yan?"
-Role2-31-2_5_3,"I, the marshal, will be waiting for you at the Southern Invader camp at any time!"
-Role2-31-2_5_4,"Are you inviting me into the urn?\nIf General Lü comes to your territory, won't he be like a fish on the chopping board?"
-Role2-31-2_5_5,"If you come, there is room for negotiation; if you don't, what's the harm in another siege?"
-Role2-31-2_5_6,"Venture into the tiger's den to capture the tiger's cub, this general will surely go as promised!"
-Role2-31-2_5_7,Retreat!
-Role2-31-2_5_8,"With the retreat of the Yan Kingdom's army, the crisis in Chuxiang City has temporarily come to an end.\nThe next day, Lü Wenhuan, under your escort, went to the Southern Invader camp of Yan Kingdom."
-Role2-31-2_5_9,"This general has arrived as promised, Marshal Wan Yan, please show some sincerity."
-Role2-31-2_5_10,"No one would refuse the sincerity of this marshal, because those who refuse are already dead."
+Role2-31-2_4_1,"I, the marshal, will test the strength of your Lü Wenhuan with this vanguard army.",ข้า ผู้เป็นแม่ทัพ จะทดสอบความแข็งแกร่งของลู่เหวินหวนด้วยกองทัพทหารแนวหน้านี้
+Role2-31-2_5_1,"General Lu hid quite well!\nAlthough this battle is just a small test, it has forced me to reassess the chips in your hand.",แม่ทัพลู่ซ่อนฝีมือได้ดี!\nแม้การต่อสู้นี้จะเป็นแค่การทดสอบเล็กๆ แต่ก็ทำให้ข้าต้องประเมินไพ่ในมือของเจ้าใหม่แล้ว
+Role2-31-2_5_2,"Now, am I, Lü Wenhuan, qualified to talk about the follow-up matters with Marshal Wan Yan?",บัดนี้ ข้า ลู่เหวินหวน มีค่าคู่ควรจะพูดคุยกับแม่ทัพหวานหยานรึยังล่ะ
+Role2-31-2_5_3,"I, the marshal, will be waiting for you at the Southern Invader camp at any time!",ข้าจะรอเจ้าที่ค่ายรุกรานทิศใต้อยู่ทุกเมื่อ!
+Role2-31-2_5_4,"Are you inviting me into the urn?\nIf General Lü comes to your territory, won't he be like a fish on the chopping board?",นี่เจ้าจะข้าไปตายงั้นรึ\nหากแม่ทัพลู่เข้าไปยังพื้นที่ของเจ้า ไม่ใช่จะกลายเป็นปลาบนเขียงหรอกรึ
+Role2-31-2_5_5,"If you come, there is room for negotiation; if you don't, what's the harm in another siege?",หากเจ้ามา ก็แสดงว่าเรายังต่อรองกันได้อยู่ แต่หากไม่ ก็แค่บุกตีเมืองอีกสักรอบไม่เห็นจะลำบากอะไร
+Role2-31-2_5_6,"Venture into the tiger's den to capture the tiger's cub, this general will surely go as promised!",ไม่เข้าถ้ำเสือไม่ได้ลูกเสือ ข้าแม่ทัพต้องไปตามสัญญาอย่างแน่นอน!
+Role2-31-2_5_7,Retreat!,ถอยทัพ!
+Role2-31-2_5_8,"With the retreat of the Yan Kingdom's army, the crisis in Chuxiang City has temporarily come to an end.\nThe next day, Lü Wenhuan, under your escort, went to the Southern Invader camp of Yan Kingdom.",จากการถอยทัพของกองทัพอาณาจักรหยาน วิกฤตของเมืองฉู่เซียงจึงยุติลงเป็นการชั่วคราว\nวันต่อมา ลู่เหวินหวน ภายใต้การคุ้มกันของท่าน ก็ได้เดินทางไปยังค่ายรุกรานทิศใต้ของอาณาจักรหยาน
+Role2-31-2_5_9,"This general has arrived as promised, Marshal Wan Yan, please show some sincerity.",ข้าแม่ทัพมาตามสัญญาแล้ว แม่ทัพหวันหยาน โปรดแสดงความจริงใจด้วย
+Role2-31-2_5_10,"No one would refuse the sincerity of this marshal, because those who refuse are already dead.",ไม่เคยมีใครปฏิเสธความจริงใจของข้า เพราะทุกคนที่ปฏิเสธล้วนตายไปหมดแล้ว
 Role2-31-2_5_11,"What do you mean by this, Marshal?",นี่หมายความว่าเช่นไร ท่านแม่ทัพใหญ่?
-Role2-31-2_5_12,"The Yan Kingdom is in desperate need of talents. If General Lü switches sides, we will definitely value and use him."
+Role2-31-2_5_12,"The Yan Kingdom is in desperate need of talents. If General Lü switches sides, we will definitely value and use him.",อาณาจักรกำลังต้องการผู้มีความสามารถ หากแม่ทัพลู่ยอมเปลี่ยนฝั่ง พวกเราจะให้ค่า และดูแลท่านเป็นอย่างดี
 Role2-31-2_6_1,"Our Yan Kingdom's Horse Supervisor is missing a small official to feed the horses, which is just right for General Lü.\nWith such sincerity from this marshal, I believe General Lü will not refuse.","ผู้ดูแลม้าแห่งอาณาจักรหยานของเราหายไปไม่มีคนคอยให้อาหารม้า, ซึ่งเหมาะที่จะให้นายพลลู่ไป\nด้วยความจริงใจจากจอมพลคนนี้, ข้าเชื่อว่านายพลลู่จะไม่ปฏิเสธ"
-Role2-31-2_6_2,"I didn't expect Marshal Wan Yan to be a humorous person, but this joke seems a bit inappropriate."
-Role2-31-2_6_3,This marshal never jokes.
-Role2-31-2_7_1,Switch sides? Are you dreaming?!\nWe are here to negotiate a ceasefire and retreat!
-Role2-31-2_7_2,Hahahaha——
-Role2-31-2_7_3,"General Lü, your subordinates are really naive."
-Role2-31-2_7_4,"General, please explain what is going on?"
-Role2-31-2_7_5,"{PlayerName}, do you think that Chuxiang City can withstand the tiger and wolf army of Yan Kingdom?"
-Role2-31-2_7_6,So what if we can't? It's just a matter of life and death.
-Role2-31-2_7_7,"It's not just one or two deaths, but tens of thousands, even hundreds of thousands of people will die. According to the Yan army's practice, those who refuse to surrender will face a massacre after the war, leaving no survivors..."
-Role2-31-2_7_8,Have you ever thought that your momentary bravery could lead to the death of countless innocent people? How can you bear it?
-Role2-31-2_7_9,"A good bird chooses a tree to nest, this general is just finding a home for himself and a way out for Chuxiang City, what's wrong with that?"
+Role2-31-2_6_2,"I didn't expect Marshal Wan Yan to be a humorous person, but this joke seems a bit inappropriate.",ไม่นึกว่าแม่ทัพหวันหยานจะเป็นคนมีอารมณ์ขันเช่นนี้ แต่มุกตลกนี้ออกจะดูไม่เหมาะสมสักหน่อย
+Role2-31-2_6_3,This marshal never jokes.,ข้าแม่ทัพไม่เคยพูดล้อเล่น
+Role2-31-2_7_1,Switch sides? Are you dreaming?!\nWe are here to negotiate a ceasefire and retreat!,เปลี่ยนฝั่งงั้นรึ เจ้าฝันอยู่รึไง!\nพวกเรามาที่นี่เพื่อเจรจาสงบศึก และถอยทัพต่างหาก!
+Role2-31-2_7_2,Hahahaha——,ฮ่าฮ่าฮ่าฮ่า——
+Role2-31-2_7_3,"General Lü, your subordinates are really naive.",แม่ทัพลู่ ผู้ติดตามของท่านช่างอ่อนต่อโลกจริงๆ
+Role2-31-2_7_4,"General, please explain what is going on?",ท่านแม่ทัพ โปรดอธิบายให้ข้าฟังด้วย
+Role2-31-2_7_5,"{PlayerName}, do you think that Chuxiang City can withstand the tiger and wolf army of Yan Kingdom?",{PlayerName} เจ้าคิดรึว่าเมืองฉู่เซียงจะสามารถต้านทานกองทัพที่เข้มแข็งของอาณาจักรหยานได้
+Role2-31-2_7_6,So what if we can't? It's just a matter of life and death.,ไม่ได้เป็นยังไงล่ะ ก็แค่อยู่หรือตายเท่านั้น
+Role2-31-2_7_7,"It's not just one or two deaths, but tens of thousands, even hundreds of thousands of people will die. According to the Yan army's practice, those who refuse to surrender will face a massacre after the war, leaving no survivors...",มันไม่ใช่แค่การตายของคนสองคน แต่เป็นความตายของผู้คนนับหมื่น หรืออาจจะนับแสนที่ต้องตาย ตามธรรมเนียมของกองทัพหยานแล้ว ผู้ที่ไม่ยอมแพ้จะต้องถูกสังหารหมู่หลังจบศึก ไม่อาจมีผู้เหลือรอดแม้แต่คนเดียว...
+Role2-31-2_7_8,Have you ever thought that your momentary bravery could lead to the death of countless innocent people? How can you bear it?,เจ้าเคยคิดหรือไม่ว่าความกล้าเพียงชั่วครู่ของเจ้าอาจจะนำไปสู่การตายของผู้บริสุทธิ์จำนวนนับไม่ถ้วน เจ้าแบกรับมันได้รึ
+Role2-31-2_7_9,"A good bird chooses a tree to nest, this general is just finding a home for himself and a way out for Chuxiang City, what's wrong with that?",นกที่ดีเลือกไม้ทำรัง ข้าแม่ทัพเพียงแค่หาที่อยู่ให้ตนเอง และหาทางออกให้เมืองฉู่เซียง มีที่ใดไม่ถูกต้อง
 Role2-31-2_7_10,……,……
 Role2-31-2_7_11,"Marshal Wan Yan, how do you plan to settle me?",แม่ทัพหวานหยาน ท่านมีแผนจะทำอย่างไรกับข้ากัน
 Role2-31-2_7_12,"Our Yan Kingdom's Horse Supervisor is missing a small official to feed the horses, which is just right for General Lü.\nWith such sincerity from this marshal, I believe General Lü will not refuse.","ผู้ดูแลม้าแห่งอาณาจักรหยานของเราหายไปไม่มีคนคอยให้อาหารม้า, ซึ่งเหมาะที่จะให้นายพลลู่ไป\nด้วยความจริงใจจากจอมพลคนนี้, ข้าเชื่อว่านายพลลู่จะไม่ปฏิเสธ"
@@ -1003,53 +1003,53 @@ Role2-32_7_4,"{PlayerName}, I trusted you, but I didn't expect you to be a trait
 Role2-32_7_5,It's really my fault for not disciplining the people in the General's mansion properly.,เป็นความผิดข้าจริงๆที่ไม่ยอมสั่งสอนระเบียบวินัยกับคนในจวนแม่ทัพให้ดี
 Role2-32_7_6,"This thief should be dealt with by military law, but considering the gravity of the situation, I have to avoid suspicion and send him to the government office for punishment according to national law!"
 Role2-32_7_7,The pacifying envoy is indeed impartial.
-Role2-32_7_8,"{yell}Lü Wenhuan, you framed me!"
+Role2-32_7_8,"{yell}Lü Wenhuan, you framed me!",{yell}ลู่เหวินหวน เจ้าใส่ความข้า!
 Role2-32_7_9,"{PlayerName}, I had long suspected that you and Wan Yan Wuzhu had made a secret agreement to stage a play during this siege, in order to wipe out the Chuxiang City garrison in one fell swoop, and then use this to curry favor and serve as your Nomination Certificate for surrendering to Yan Kingdom.",{PlayerName} ข้าสงสัยมานานแล้วว่าเจ้ากับ หวันหยานอู๋จู ได้ทำข้อตกลงลับในการแสดงละครในระหว่างการปิดล้อมครั้งนี้ เพื่อกวาดล้างกองทหารรักษาการณ์เมืองฉู่เซียงในคราวเดียว แล้วใช้สิ่งนี้เพื่อประจบประแจงและรับใช้เป็นใบรับรองการแต่งตั้งของเจ้าสำหรับการยอมจำนนต่ออาณาจักรยาน
 Role2-32_7_10,"I turned the tables and took advantage of the Yan army's complacency, sending a group of martial arts experts to infiltrate the enemy's ranks and assassinate Wan Yan Wuzhu unexpectedly, causing chaos in the Yan army and forcing them to retreat and flee.",ข้าพลิกสถานการณ์ใช้ประโยชน์จากความพึงพอใจของกองทัพหยาน โดยส่งกลุ่มจอมยุทธ์กลุ่มหนึ่งเพื่อแทรกซึมเข้าไปในกองทัพศัตรูและสังหารหวันหยานอู๋จูโดยไม่คาดคิด ทำให้เกิดความสับสนวุ่นวายในกองทัพหยาน และบังคับให้พวกเขาล่าถอยและหนี
-Role2-32_7_11,The pacifying envoy is indeed a master strategist!
-Role2-32_7_12,"Seeing that your original scheme could not succeed, you shamelessly took credit for repelling the enemy, portraying yourself as a great hero who saved the people from fire and water, misleading the public and confusing the situation."
-Role2-32_7_13,I've never seen such a shameless person!
-Role2-32_7_14,"In order to avoid startling the snake and causing complications, I didn't make a fuss and pretended to be close to you, planning to capture you and send you to the government office."
-Role2-32_7_15,{yell}{PlayerName}——！
-Role2-32_7_16,"Now that there is both human and physical evidence, even if you want to deny it, it's useless."
-Role2-32_7_17,{yell} Bring the traitor {PlayerName} to the execution ground and execute him!
-Role2-32_7_18,"Do you really think I'm like a fish on a chopping board, at your mercy?"
-Role2-32_7_19,"Trained army, use it at once!"
-Role2-32_7_20,Hahahaha——
-Role2-32_7_21,"At the end of your life, what are you playing at?"
-Role2-32_7_22,"Your framing and shifting of blame was full of holes, why would anyone believe it without a doubt?"
-Role2-32_7_23,"It's none of my business, it's none of my business..."
-Role2-32_7_24,"You were too anxious, afraid that the truth would be revealed, so you hurriedly made me the scapegoat, and then there would be no evidence."
-Role2-32_7_25,"It seems you forgot one thing, one thing that could be critical..."
+Role2-32_7_11,The pacifying envoy is indeed a master strategist!,ข้านี่ช่างเป็นยอดนักกลยุทธ์จริงๆ!
+Role2-32_7_12,"Seeing that your original scheme could not succeed, you shamelessly took credit for repelling the enemy, portraying yourself as a great hero who saved the people from fire and water, misleading the public and confusing the situation.",เมื่อเห็นว่าแผนการแรกไม่สำเร็จ เจ้ากลับน่าไม่อายรับความดีความชอบในการขับไล่ศัตรู ทำตัวเป็นยอดวีรบุรุษที่ช่วยเหลือผู้คนจากภัยอันตราย ชี้นำผู้คนในทางที่ผิด และทำให้สถานการณ์วุ่นวาย
+Role2-32_7_13,I've never seen such a shameless person!,ข้าไม่เคยเห็นผู้ใดหน้าไม่อายช่นนี้!
+Role2-32_7_14,"In order to avoid startling the snake and causing complications, I didn't make a fuss and pretended to be close to you, planning to capture you and send you to the government office.",เพื่อที่จะไม่แหวกหญ้าให้งูตื่น ข้าจึงไม่กระโตกกระตากทำเป็นใกล้ชิดกับเจ้า วางแผนที่จะจับกุม และส่งเจ้าให้ราชสำนัก
+Role2-32_7_15,{yell}{PlayerName}——！,{yell}{PlayerName} ——！
+Role2-32_7_16,"Now that there is both human and physical evidence, even if you want to deny it, it's useless.",บัดนี้มีทั้งพยาน และหลักฐาน ต่อให้เจ้าจะปฏิเสธไง ก็ไม่มีทางหนีพ้น
+Role2-32_7_17,{yell} Bring the traitor {PlayerName} to the execution ground and execute him!,{yell}นำตัวกบฏ {PlayerName} มายังลานประหาร และสังหารเขาซะ!
+Role2-32_7_18,"Do you really think I'm like a fish on a chopping board, at your mercy?",คิดจริงๆรึว่าข้าจะเป็นปลาบนเขียงให้เจ้าจัดการตามใจชอบ
+Role2-32_7_19,"Trained army, use it at once!",ทหาร ใช้มันสักทีสิ!
+Role2-32_7_20,Hahahaha——,ฮ่าฮ่าฮ่าฮ่า——
+Role2-32_7_21,"At the end of your life, what are you playing at?",ใกล้จะตายอยู่แล้ว ยังจะเล่นอะไรอีก
+Role2-32_7_22,"Your framing and shifting of blame was full of holes, why would anyone believe it without a doubt?",แผนการใส่ความ และกลับกลอกของเจ้ามีแต่ช่องโหว่ จะมีใครที่เชื่อโดยไม่สงสัยกัน
+Role2-32_7_23,"It's none of my business, it's none of my business...",ไม่ใช่ธุระของข้า ไม่ใช่ธุระของข้า...
+Role2-32_7_24,"You were too anxious, afraid that the truth would be revealed, so you hurriedly made me the scapegoat, and then there would be no evidence.",เจ้าตื่นกลัวเกินไป กลัวว่าความจริงจะถูกเปิดเผย จึงรีบใช้ข้าเป็นแพะรับบาป เพื่อไม่ให้มีหลักฐานหลงเหลือ
+Role2-32_7_25,"It seems you forgot one thing, one thing that could be critical...",แต่ดูเหมือนเจ้าจะลืมสิ่งหนึ่งไป สิ่งหนึ่งที่อาจจะสำคัญเป็นอย่างมาก...
 Role2-32_7_26,"Don't think that just because this is the Chuxiang City Government Office, I will let you judge and sentence me.",อย่าคิดว่าเพียงเพราะที่นี่คือศาลาว่าการเมืองฉู่เซียง ข้าจะให้เจ้าตัดสินและตัดสินข้า
-Role2-32_7_27,"Don't think that just because you are the dignified pacifying envoy, I will hesitate to act."
-Role2-32_7_28,Don't think that you can scare me with a few rotten fish and shrimps.
-Role2-32_7_29,What are you trying to say?
-Role2-32_7_30,"General's mansion, you are dismissed from now on."
-Role2-32_8_1,"If you want to touch my old man, you have to get past me first!"
-Role2-32_9_1,"Lü Wenhuan is the instigator of this incident, but with his death, I'm afraid no one can clear my name of this treason."
-Role2-32_9_2,"I was originally a great hero who saved Chuxiang City from danger, but now I've become a rat that everyone shouts and beats, I really don't want to stay in Chuxiang City for a moment longer."
-Role3-1_1_1,"Sir, we really don't know what law we have broken, why are you doing this to us?"
-Role3-1_1_2,"Hand over all your Gold and valuables obediently, and I, the military master, will spare you."
-Role3-1_1_3,"Master, times are tough, nine out of ten houses are empty, and all that's left in the village are the old, weak, sick, and disabled. There's no Gold or valuables to give to you, Master."
-Role3-1_1_4,"Damn it, another poor village!"
-Role3-1_1_5,"In that case, I'll have to take your heads to make up for the numbers. I, the military master, don't want to make this trip for nothing."
-Role3-1_1_6,"What, what did you say?! Why do you want our lives?"
-Role3-1_1_7,"Enough with the nonsense, you've lived long enough anyway. Consider it a favor to me, the military master. I'll make sure to burn more paper money for you to pave your way."
+Role2-32_7_27,"Don't think that just because you are the dignified pacifying envoy, I will hesitate to act.",อย่าคิดว่าเพียงเพราะเจ้าเป็นฑูตความสงบ แล้วข้าจะลังเลไม่ลงมือ
+Role2-32_7_28,Don't think that you can scare me with a few rotten fish and shrimps.,อย่าคิดว่าเจ้าจะทำให้ข้ากลัวได้ ด้วยพวกอ่อนแอไม่กี่คน
+Role2-32_7_29,What are you trying to say?,เจ้าพยายามจะบอกอะไรกันแน่
+Role2-32_7_30,"General's mansion, you are dismissed from now on.",จวนแม่ทัพ จากนี้ไปจะไม่มีสถานที่นี้อีก
+Role2-32_8_1,"If you want to touch my old man, you have to get past me first!",คิดจะแตะต้องตาแก่ของข้า เจ้าต้องผ่านข้าไปให้ได้ก่อน!
+Role2-32_9_1,"Lü Wenhuan is the instigator of this incident, but with his death, I'm afraid no one can clear my name of this treason.",เรื่องนี้เป็นเพราะลู่เหวินหวนก่อขึ้น แต่เขาตายไปเช่นนี้ น่ากลัวว่าคงไม่มีใครสามารถแก้ต่างความผิดฐานกบฏนี้แล้ว
+Role2-32_9_2,"I was originally a great hero who saved Chuxiang City from danger, but now I've become a rat that everyone shouts and beats, I really don't want to stay in Chuxiang City for a moment longer.",ข้าที่ตอนแรกเป็นยอดวีรบุรุษผู้ช่วยเหลือเมืองฉู่เซียงจากอันตราย แต่ตอนนี้กลับต้องกลายเป็นหนูที่ถูกขับไล่ไสส่งเช่นนี้ ข้าไม่อยากอยู่ในเมืองฉู่เซียงต่อไปอีกแม้แต่วินาทีเดียว
+Role3-1_1_1,"Sir, we really don't know what law we have broken, why are you doing this to us?",ท่าน พวกเราไม่รู้จริงๆว่าทำผิดกฏหมายข้อใดไป ท่านทำเช่นนี้กับเราทำไมรึ
+Role3-1_1_2,"Hand over all your Gold and valuables obediently, and I, the military master, will spare you.",ส่งเงิน และของมีค่าทั้งหมดมาแต่โดยดี และข้า ท่านผู้บัญชาการจะไว้ชีวิต
+Role3-1_1_3,"Master, times are tough, nine out of ten houses are empty, and all that's left in the village are the old, weak, sick, and disabled. There's no Gold or valuables to give to you, Master.",นายท่าน ช่วงนี้สถานการณ์ไม่ดียิ่ง บ้านเก้าในสิบหลังล้วนแต่ว่างเปล่า ทั้งหมู่บ้านก็เหลือเพียงคนแก่ คนอ่อนแอ คนป่วย และคนพิการเท่านั้น พวกเราไม่มีเงิน หรือของมีค่าให้นายท่านหรอก
+Role3-1_1_4,"Damn it, another poor village!",เวรเอ๊ย หมู่บ้านจนๆอีกแล้วรึ!
+Role3-1_1_5,"In that case, I'll have to take your heads to make up for the numbers. I, the military master, don't want to make this trip for nothing.",เช่นนั้น ข้าคงต้องของหัวของพวกเจ้าเป็นการชดเชยแทนแล้ว ข้า ท่านผู้บัญชาการ ไม่อยากให้การมาครั้งนี้สูญเปล่าสักเท่าไร
+Role3-1_1_6,"What, what did you say?! Why do you want our lives?",อะไร ท่านว่าอะไรนะ จะต้องการชีวิตพวกเราไปทำไม
+Role3-1_1_7,"Enough with the nonsense, you've lived long enough anyway. Consider it a favor to me, the military master. I'll make sure to burn more paper money for you to pave your way.",หยุดพูดจาไร้สาระ ยังไงเจ้าก็อยู่มาตั้งนานมากแล้ว คิดซะว่าทำประโยชน์แก่ข้า ข้าขอยืนยันจะเผากระดาษเงินกระดาษทองตามไปให้เยอะๆ
 Role3-1_1_8,"Killing the innocent to claim credit, truly a case of the upper beam not being straight and the lower beam being crooked."
-Role3-1_1_9,"The Ye Family Battalion is here, we're saved!"
-Role3-1_1_10,"What the hell is the Ye Family Battalion, meddling in other people's business!"
+Role3-1_1_9,"The Ye Family Battalion is here, we're saved!",กองพันตระกูลเย่มาแล้ว พวกเรารอดแล้ว!
+Role3-1_1_10,"What the hell is the Ye Family Battalion, meddling in other people's business!",กองพันตระกูลเย่เป็นตัวอะไร ถึงได้มายุ่งเรื่องของคนอื่น!
 Role3-1_1_11,"Let them go, and I'll spare you from being Invincible."
-Role3-1_1_12,"Hmph, a baby who hasn't even shed his baby hair dares to speak wildly."
-Role3-1_1_13,"Our marshal's orders are as solid as a mountain, but it's not that the Ye Family Battalion is afraid of the General's mansion. You'd better watch your mouths."
-Role3-1_1_14,"You Ye Family Battalion have been blown up to be so amazing, I don't believe in evil, today is a good day to teach you a lesson, so you won't be so arrogant in the future!"
-Role3-1_1_15,Damn it...
-Role3-1_1_16,"Don't any of you move, I'll take care of these wastes alone, even if I'm held accountable by military law, it has nothing to do with you."
-Role3-1_1_17,"(The soldiers of the General's mansion started the trouble first, and then provoked the Ye Family Battalion. These people really don't seem like good guys. Should I teach them a lesson for the Ye Family Battalion?)"
-Role3-1_2_1,"Hey, your eating manners are too ugly, even I, a passerby, can't stand it."
-Role3-1_2_2,"Kid, don't look for trouble, this is none of your business, get lost!"
-Role3-1_2_3,"I'm itching for a fight today, come and exercise with me."
-Role3-1_2_4,You're looking for death!
+Role3-1_1_12,"Hmph, a baby who hasn't even shed his baby hair dares to speak wildly.",หืม เด็กน้อยที่ขนยังไม่ขึ้นกลับกล้าพูดจาสามหาวเช่นนี้
+Role3-1_1_13,"Our marshal's orders are as solid as a mountain, but it's not that the Ye Family Battalion is afraid of the General's mansion. You'd better watch your mouths.",คำสั่งของแม่ทัพเรานั้นหนักหน่วงดั่งขุนเขา แต่ไม่ใช่ว่าพวกเรากองพันตระกูลเย่กลัวจวนแม่ทัพ ทางที่ดีเจ้าระวังปากไว้จะดีกว่านะ
+Role3-1_1_14,"You Ye Family Battalion have been blown up to be so amazing, I don't believe in evil, today is a good day to teach you a lesson, so you won't be so arrogant in the future!",พวกเจ้ากองพันตระกูลเย่ถูกยกยอว่าวิเศษวิโสนัก ข้าไม่เชื่อหรอก วันนี้วันดีที่จะได้สอนบทเรียนแก่พวกเจ้า ภายภาคหน้าจะได้ไม่โอหังอีก!
+Role3-1_1_15,Damn it...,บ้าเอ๊ย...
+Role3-1_1_16,"Don't any of you move, I'll take care of these wastes alone, even if I'm held accountable by military law, it has nothing to do with you.",พวกเจ้าไม่ต้องลงมือ ข้าจะจัดการเจ้าพวกขยะนี้คนเดียว ต่อให้ข้าต้องโทษทหาร ก็ไม่เกี่ยวข้องอะไรกับพวกเจ้า
+Role3-1_1_17,"(The soldiers of the General's mansion started the trouble first, and then provoked the Ye Family Battalion. These people really don't seem like good guys. Should I teach them a lesson for the Ye Family Battalion?)",(ทหารของจวนแม่ทัพเป็นคนก่อเรื่องก่อน และยังไปยั่วยุกองพันตระกูลเย่ คนพวกนี้ดูจะไม่ใช่คนดีจริงๆ ควรลงมือสั่งสอนแทนกองพันตระกูลเย่หรือไม่)
+Role3-1_2_1,"Hey, your eating manners are too ugly, even I, a passerby, can't stand it.",เฮ้ มารยาทการกินเจ้านี่ช่างแย่ยิ่งนัก ขนาดข้าแค่ผ่านมา ยังไม่อาจทนไหว
+Role3-1_2_2,"Kid, don't look for trouble, this is none of your business, get lost!",เด็กน้อย อย่าหาเรื่องให้ตัวเองดีกว่า นี่ไม่ใช่ธุระกงการของเจ้า ไสหัวไปซะ!
+Role3-1_2_3,"I'm itching for a fight today, come and exercise with me.",วันนี้ข้ากำลังคันไม้คันมือพอดี มาช่วยให้ข้าได้ออกแรงหน่อยสิ
+Role3-1_2_4,You're looking for death!,หาที่ตาย!
 Role3-1_3_1,"Spare me, good man, spare me!","ไว้ชีวิตข้าเถอะ, พ่อคนดี, ไว้ชีวิตข้าที!"
 Role3-1_3_2,"What a bunch of spineless cowards, get lost!",ก็แค่พวกขี้ขลาดใจคด ไสหัวไป!
 Role3-1_3_3,Good skills!,ฝีมือเยี่ยม!
@@ -1074,13 +1074,13 @@ Role3-1_8_7,"The villagers took out their spare food and prepared a decent meal 
 Role3-1_9_1,"As you say goodbye, you take out some coins and quietly leave them in the houses of a few villagers...",ขณะที่ร่ำลา ท่านก็ได้นำเงินบางส่วนออกมา และทิ้งมันไว้ในบ้านชาวบ้านอย่างเงียบๆ...
 Role3-1_10_1,"As you say goodbye, you take out all your coins and quietly leave them in the houses of a few villagers...",ขณะที่ร่ำลา ท่านก็ได้นำเงินทั้งหมดออกมา และทิ้งมันไว้ในบ้านของชาวบ้านอย่างเงียบๆ...
 Role3-1_11_1,"Why not take the Wu hook, it's time to visit the Ye Family Battalion."
-Role3-1_12_1,"Guys, let's teach the vanguard officer of the Ye Family Battalion a lesson today, so he'll be scared shitless when he sees our General's mansion!"
+Role3-1_12_1,"Guys, let's teach the vanguard officer of the Ye Family Battalion a lesson today, so he'll be scared shitless when he sees our General's mansion!",พวกเรา วันนี้มาสั่งสอนพวกแนวหน้ากองพันตระกูลเย่กันเถอะ คราวหน้าพวกมันเจอคนของจวนแม่ทัพเราอีก จะได้กลัวจนขี้หดตดตายไม่โอหังอีก!
 Role3-1_13_1,"Spare me, General, spare me!","ไว้ชีวิตข้า, ท่านแม่ทัพ ได้โปรดไว้ชีวิตข้าเถอะ!"
-Role3-1_13_2,"What a bunch of losers, how can Lu's family defend Chuxiang City with you guys!"
-Role3-1_13_3,"General Ye, watch your words!"
-Role3-1_13_4,"What's there to be afraid of, I don't believe these people dare to tell Lü Wenhuan about today's incident."
-Role3-1_13_5,"No, no, I will definitely keep my mouth shut."
-Role3-1_13_6,"Get lost, don't dirty my eyes."
+Role3-1_13_2,"What a bunch of losers, how can Lu's family defend Chuxiang City with you guys!",มีแต่พวกขี้แพ้ ตระกูลลู่จะปกป้องเมืองฉู่เซียงด้วยทหารแบบพวกเจ้าได้ยังไง
+Role3-1_13_3,"General Ye, watch your words!",แม่ทัพเย่ ระวังคำพูดด้วย!
+Role3-1_13_4,"What's there to be afraid of, I don't believe these people dare to tell Lü Wenhuan about today's incident.",มีอะไต้องกลัวกัน ข้าไม่เชื่อว่าเจ้าพวกนั้นจะกล้าบอกลู่เหวินหวนเรื่องวันนี้หรอก
+Role3-1_13_5,"No, no, I will definitely keep my mouth shut.",ไม่ ไม่ ข้าจะปิดปากให้สนิท
+Role3-1_13_6,"Get lost, don't dirty my eyes.",ไสหัวไป อย่ามาเกะกะลูกตาข้า
 Role3-1_14_1,"Brother Ye, you're good."
 Role3-1_14_2,"I didn't expect to see {PlayerSurName} here, I'm embarrassed."
 Role3-1_14_3,"Our Ye Family Battalion is recruiting soldiers. If you are interested in serving the country, you can come to the <color=#c44b0e>Ye Family Battalion camp</color> to enlist. I look forward to the day when we can fight side by side!"
@@ -2791,7 +2791,7 @@ R20004-2_15_1,"Occasionally, you will see passing travelers. If they can't affor
 R20004-2_16_1,"The tree next to the well must be decades old. It was there when I was a child.\nHowever, according to the elders, it was once struck by lightning and has not grown leaves since then.",ต้นไม้ข้างบ่อน้ำนั้นคงมีอายุหลายสิบปีเป็นแน่แท้ ข้าเห็นมันมาตั้งแต่ยังเป็นเด็ก \nแต่ตามคำบอกเล่าของเหล่าผู้เฒ่า ต้นไม้ต้นนั้นเคยถูกฟ้าผ่า และไม่เคยแตกใบอีกเลยนับแต่นั้นมา
 R20004-2_17_1,"There is a <color=#c44b0e>Bandit Camp</color> to the northeast of the village. Their leader is known as ""Gui Jianchou"" in the martial arts world. Everyone inside is a ruthless killer, so you must be very careful.","ทางทิศตะวันออกเฉียงเหนือของหมู่บ้าน มี <color=#c44b0e>ค่ายโจร</color> ตั้งอยู่ หัวหน้าของพวกเขาเป็นที่รู้จักในนาม ""กุ้ยเจี๋ยนโชว"" ของยุทธภพ ทุกคนที่อยู่ในค่ายล้วนเป็นฆาตกรอำมหิต ดังนั้นเจ้าต้องระวังตัวให้มากๆ"
 R20004-2_18_1,"I heard that recently there is a group of people, pretending to be rich businessmen in Ferry, specifically deceiving people to board the ship and go out to sea under the pretext of getting rich, and then, those who are deceived have no afterwards.",ข้าได้ยินมาว่า เมื่อไม่นานมานี้ มีกลุ่มคนปลอมตัวเป็นพ่อค้าผู้ร่ำรวยอยู่ที่ท่าเรือ  และล่อลวงผู้คนให้ขึ้นเรือ อ้างว่าจะพาไปหาความร่ำรวย แล้วผู้ที่หลงเชื่อก็หายตัวไปอย่างไร้ร่องรอย
-R20004-3_1_1,"Speaking of making money, there are many ways. Let me tell you one by one...",ถึงเรื่องการหาเงินนั้น มีหนทางอยู่มากมาย มาม่ะเดี๋ยวข้าจะเล่าให้เจ้าฟังทีละอย่าง...
+R20004-3_1_1,"Speaking of making money, there are many ways. Let me tell you one by one...",พูดถึงเรื่องการหาเงินนั้น มีหนทางอยู่มากมาย มาม่ะเดี๋ยวข้าจะเล่าให้เจ้าฟังทีละอย่าง...
 R20004-3_1_2,"The Ore you mined can be Sold to the blacksmith, and the Herb you collected can be recycled by the doctor.",แร่ที่เจ้าขุดมาได้ นำไปขายให้ช่างตีเหล็กได้ ส่วนสมุนไพรที่เจ้าเก็บมาได้ นำไปให้หมอปรุงยาได้
 R20004-3_1_3,"The Wood you get from Lumbering can be sold to the Woodcutter, and the Aquatic you catch can be sold to the shopkeeper.",ไม้ที่เจ้าตัดได้ให้นำไปขายให้กับคนตัดไม้ ส่วนปลาที่เจ้าจับได้ก็นำไปขายให้กับพ่อค้า
 R20004-3_1_4,"If you are brave enough, you can go hunting for wild animals.\nThe Leather you get can be sold to the hunter, and the Meat can be sold to the butcher.",หากเจ้ามีความกล้าพอ ก็ลองออกล่าสัตว์ในป่าดู\nหนังสัตว์ที่เจ้าหามา ให้นำไปขายให้นายพรานได้ ส่วนเนื้อสัตว์ ก็ให้นำไปขายให้กับคนขาย

@@ -1730,7 +1730,7 @@ NpcMumble_野狼王啸月_Roaming,"Mastiff~ Whimper, Mastiff~ Whimper~|Roar~|Whi
 NpcMumble_赤睛棕熊赤睛_Roaming,Roar~|Roar~
 NpcMumble_野猪头目刚烈_Roaming,Humph~squeak~|Humph~humph~|Humph~
 NpcMumble_猎户的大黑狗_Roaming,Whimper~|Woof~|Roar~
-NpcMumble_无名小村大公鸡_Roaming,Oh oh oh~|Giggle~
+NpcMumble_无名小村大公鸡_Roaming,Oh oh oh~|Giggle~,อุ๊ก อุ๊ก อุ๊ก~|กระต๊าก~
 NpcMumble_无名小村猎户_Roaming,"That secret has been hidden for many years...|I'm craving for wine again, but I'm out of money.|I wonder how long this peaceful life will last.|Many things have been forgotten, I guess.|I miss the old days.|I have no chance to show off my skills, {NpcJobTalk:自我称呼}.|The new kid is interesting.|I should go to Lost Forest to hunt wild game for money."
 NpcMumble_无名小村樵夫_Roaming,Chopping wood is a stamina activity.|Lost Forest is too dangerous.|I wish I had the skills of a hunter.|Hunting is more profitable.|What will happen to Xiao Hua if {NpcJobTalk:自我称呼} is not around.|Chopping wood day after day is so boring.|There are quite a few woods of good quality in Lost Forest.|My life is so plain.,การตัดไม้เป็นกิจกรรมที่ต้องใช้กำลัง|ป่าสาปสูญอันตรายมาก|ข้าอยากมีทักษะนักล่าบ้าง|การล่าสัตรว์ทำเงินได้มากกว่า|จะเกิดอะไรขึ้นกับเสี่ยวฮวาหหาก{NpcJobTalk:自我称呼}ไม่ได้อยู่แถวนี้|ตัดไม้ทั้งวันน่าเบื่อเหลือเกิน|ในป่าสาปสูญมีไม้คุณภาพดีอยู่บ้าง|ชีวิตข้าเรียบง่ายมาก
 NpcMumble_无名小村农夫_Roaming,"Facing the yellow earth with my back to the sky...|What you sow, so shall you reap.|Wasting food is shameful.|There's no harvest in drought.|Why are there chicken eggs in this field?|This field has everything {NpcJobTalk:自我称呼} wants.|Radish for safety.|Farming makes {NpcJobTalk:自我称呼} happy.|This year's harvest seems good.|That kid might be eyeing the stuff in the field."

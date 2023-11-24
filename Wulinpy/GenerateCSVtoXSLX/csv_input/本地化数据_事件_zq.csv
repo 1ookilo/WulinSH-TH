@@ -1651,8 +1651,8 @@ R10099-11_option1_3,Choose <color=#c44b0e>{TeamerName:3}</color>.
 R10099-11_option1_4,Choose <color=#c44b0e>{TeamerName:4}</color>.
 R10099-11_option1_5,Choose <color=#c44b0e>{TeamerName:5}</color>.
 R10099-11_option1_6,Not found yet.
-Guide10099-11_name,Linlang Temple Go Puzzle
-Guide10099-11_overview1,Go to Linlang Temple to crack the Go puzzle.
+Guide10099-11_name,Linlang Temple Go Puzzle,ปริศนาหมากล้อมวัดหลินหลาง
+Guide10099-11_overview1,Go to Linlang Temple to crack the Go puzzle.,ไปที่วัดหลินหลางเพื่อไขปริศนาหมากล้อม
 School-2140-5_name,The Way of Stealing
 School-2140-5_overview1,Steal skill reached level 3.
 School-2140-5_overview2,Steal skill reached level 4.
@@ -1711,17 +1711,17 @@ R10045-4_overview2,Inform Han Hongyu of Xiao Yuanba's death.
 School-2070-5_option1_1,Accept the challenge <color=#097a76>(Solo fight)</color>,รับคำท้า <color=#097a76>(ต่อสู้คนเดียว)</color>
 School-2070-5_option1_2,Talk about it later.
 School-2070-6_option1_1,Accept the challenge <color=#097a76>(Solo fight)</color>,รับคำท้า <color=#097a76>(ต่อสู้คนเดียว)</color>
-School-2070-6_option1_2,Talk about it later.
+School-2070-6_option1_2,Talk about it later.,ไว้คุยเรื่องนี้ทีหลัง
 School-2070-7_option1_1,Accept the challenge <color=#097a76>(Solo fight)</color>,รับคำท้า <color=#097a76>(ต่อสู้คนเดียว)</color>
-School-2070-7_option1_2,Talk about it later.
+School-2070-7_option1_2,Talk about it later.,ไว้คุยเรื่องนี้ทีหลัง
 School-2070-8_option1_1,Accept the challenge <color=#097a76>(Solo fight)</color>,รับคำท้า <color=#097a76>(ต่อสู้คนเดียว)</color>
-School-2070-8_option1_2,Talk about it later.
+School-2070-8_option1_2,Talk about it later.,ไว้คุยเรื่องนี้ทีหลัง
 School-2070-9_option1_1,Accept the challenge <color=#097a76>(Solo fight)</color>,รับคำท้า <color=#097a76>(ต่อสู้คนเดียว)</color>
-School-2070-9_option1_2,Talk about it later.
+School-2070-9_option1_2,Talk about it later.,ไว้คุยเรื่องนี้ทีหลัง
 School-2070-10_option1_1,Accept the challenge <color=#097a76>(Solo fight)</color>,รับคำท้า <color=#097a76>(ต่อสู้คนเดียว)</color>
-School-2070-10_option1_2,Talk about it later.
+School-2070-10_option1_2,Talk about it later.,ไว้คุยเรื่องนี้ทีหลัง
 School-2070-11_option1_1,Accept the challenge <color=#097a76>(Solo fight)</color>,รับคำท้า <color=#097a76>(ต่อสู้คนเดียว)</color>
-School-2070-11_option1_2,Talk about it later.
+School-2070-11_option1_2,Talk about it later.,ไว้คุยเรื่องนี้ทีหลัง
 School-2070-12_name,Trouble at the back mountain
 School-2070-12_overview1,Solve the problem caused by Hei Yuan on the back mountain of the Sword Pavilion.
 School-2070-12_option1_1,Communicate with it in beast language.<color=#097a76>(Beast Taming Level 4 Expert)</color>
@@ -1731,7 +1731,7 @@ School-2070-13_name,Midnight Shadow
 School-2070-13_log_start,"Ever since the trouble with Hei Yuan in the back mountain was solved, strange noises have been heard from the end of the back mountain in the middle of the night, I don't know why."
 School-2070-13_log_1,Go to the back mountain of the Sword Pavilion in the middle of the night to investigate.
 Day-2010-2_option1_1,Meditate. <color=#097a76>(1 shichen)</color>
-Day-2010-2_option1_2,Talk about it later.
+Day-2010-2_option1_2,Talk about it later.,ไว้คุยเรื่องนี้ทีหลัง
 Day-2010-2_option1_3,Meditate and comprehend.<color=#097a76>(2 shichen)</color>
 Day-2010-3_name,Alchemy
 Day-2010-3_overview1,Refine <color=#c44b0e>6 Illness removal pills</color> and give them to Taoist Sect·Apothecary.
@@ -1754,17 +1754,17 @@ Day-2010-4_overview1,Patrol in front of Taoist Sect's Star Chaser Pavilion from 
 Day-2010-4_overview2,You have completed today's patrol for the Taoist Sect.\nYou have participated in the Taoist Sect patrol {TagNum:道玄宗巡逻} times.
 Day-2010-4_overview3,I wonder if Master Chongyang has any new arrangements today.
 Day-2010-4_overview4,Continue patrolling in front of Taoist Sect's Star Chaser Pavilion at night.
-Day-2010-5_name,Clean the statue
+Day-2010-5_name,Clean the statue,ทำความสะอาดรูปปั้น
 Day-2010-5_overview1,You can clean the Zhenwu statue today.
 Day-2010-5_overview2,You have cleaned the Zhenwu statue today.\nYou have cleaned the Zhenwu statue {TagNum:清理真武像} times.
 Day-2010-5_option1_1,"Start cleaning on the Horse.<color=#097a76>(Stamina 10, 1 shichen)</color>"
-Day-2010-5_option1_2,Come back later.
+Day-2010-5_option1_2,Come back later.,กลับมาวันหลัง
 Day-2010-5_option2_1,Start the Machinery!
 Day-2010-5_option2_2,Indifferent.
 Day-2020-9_option1_1,Donate 1 guan.<color=#097a76>(1000 Coin)</color>
 Day-2020-9_option1_2,Donate 10 guan.<color=#097a76>(10 guan)</color>
 Day-2020-9_option1_3,Donate 30 guan.<color=#097a76>(30 guan)</color>
-Day-2020-9_option1_4,Talk about it later.
+Day-2020-9_option1_4,Talk about it later.,ไว้คุยเรื่องนี้ทีหลัง
 Test-2050_option1_1,"Three successful forces.<color=#097a76>(Stamina 10, 2 ke, solo protagonist)</color>"
 Test-2050_option1_2,"Five successful forces.<color=#097a76>(Stamina 10, 2 ke, solo protagonist)</color>"
 Test-2050_option1_3,"Seven successful forces.<color=#097a76>(Stamina 10, 2 ke, solo protagonist)</color>"

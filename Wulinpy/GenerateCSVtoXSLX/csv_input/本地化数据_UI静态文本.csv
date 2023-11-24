@@ -425,7 +425,7 @@ UIMenuPanel_UIAbility_down_info,Content Storyline Content Storyline Content Stor
 UIMenuPanel_UIAbility_down_tag,Skill Experience,ประสบการณ์ทักษะ
 UIMenuPanel_UIAbility_down_exp,10/200,10/200
 UIMenuPanel_UIAbility_down_Button_txt,Promote,เลื่อนขั้น
-AblilityGrids_lv,1
+AblilityGrids_lv,1,1
 UIAbility_up_zao,Create,สร้าง
 UIAbility_up_jian,Identify,พิสูจน์
 UIAbility_up_sheng,Life,ชีวิต
@@ -1593,8 +1593,8 @@ Option B,Option B
 Option C,Option C
 UISetting_Center_BottomButtonGroup_ButtonReset_Text(TMP),Default Recovery,กู้คืนค่าเริ่มต้น
 UISetting_Center_BottomButtonGroup_ButtonApply_Text(TMP),Apply,นำไปใช้
-UISetting_Center_AudioPanel_MusicSetting_Value_MusicVolumeValue,50
-UISetting_Center_AudioPanel_SfxVolumeSetting_Value_SfxVolumeValue,50
+UISetting_Center_AudioPanel_MusicSetting_Value_MusicVolumeValue,50,50
+UISetting_Center_AudioPanel_SfxVolumeSetting_Value_SfxVolumeValue,50,50
 UISetting_Center_HotkeyPanel_HotkeyEditPanel_HotkeyEditDesc,Please Enter Key (Press ESC to Delete Shortcut)
 StoryMainTitle_textMainName,Table of Contents
 StorySubTitle_textName,Storyline Title
@@ -1617,7 +1617,7 @@ UIStoryNote_right_right1_Scroll_Viewport_boxScrollArea_txtPrize,"Trustworthy+2, 
 UIStoryNote_right_right1_Scroll_Viewport_boxScrollArea_btnCommand_text,Abandon
 UIStoryNote_right_right1_Scroll_Viewport_boxScrollArea_txtTip,"The commissioned task has been completed, please return to X to submit the task"
 RolePanel_RoleBg_Text(TMP),No Partners Joined Currently
-RolePanel_RoleState_Life_img_txt,HP
+RolePanel_RoleState_Life_img_txt,HP,HP
 RolePanel_RoleState_Life_img_num,200/2000,200/2000
 RolePanel_RoleState_InternalForce_img_txt,MP,MP
 RolePanel_RoleState_InternalForce_img_num,200/2000,200/2000
@@ -2729,7 +2729,7 @@ UITeam1_Attribute_Roleproperties(4)_Text(5),str,พละกำลัง
 UITeam1_Attribute_Roleproperties(4)_Text(6),50,50
 UITeam1_Attribute_Roleproperties(4)_Text(7),70,70
 UITeam1_Attribute_Roleproperties(4)_Text(8),10,10
-UITeam1_Attribute_Roleproperties(4)_Text(9),20
+UITeam1_Attribute_Roleproperties(4)_Text(9),20,20
 UITeam1_Attribute_Roleproperties(4)_Text(10),30,30
 UITeam1_Attribute_Roleproperties(5)_Text(1),Fist[200],หมัด[200]
 UITeam1_Attribute_Roleproperties(5)_Text(2),Fist[200],หมัด[200]
