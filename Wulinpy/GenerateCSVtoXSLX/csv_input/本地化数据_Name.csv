@@ -140,7 +140,7 @@ CharaName_释,Shi,สือ
 CharaName_凌,Ling,หลิง
 CharaName_佟,Tong,ตง
 CharaName_重,Zhong,ฉง
-CharaName_方,Square,จตุรัส
+CharaName_方,Square,ฟาง
 CharaName_柴,Chai,ไฉ
 CharaName_邋遢张,Zhang Lata,จางลาถ่า
 CharaName_蔡,Cai,ไช่
@@ -253,7 +253,7 @@ CharaName_厨师,Chef,พ่อครัว
 CharaName_守塔将军,Tower guarding general,แม่ทัพเฝ้าหอคอย
 CharaName_住持,Abbot,เจ้าอาวาส
 CharaName_家丁,Servant,คนรับใช้
-CharaName_商贩,Merchant,พ่อค้า
+CharaName_商贩,Merchant,คนขาย
 CharaName_丫鬟,Servant girl,หญิงรับใช้
 CharaName_侍女,Maid,แม่บ้าน
 CharaName_护卫,Guard,ยาม
@@ -277,7 +277,7 @@ CharaName_中年,Middle-aged,วัยกลางคน
 CharaName_孤寡老妇人,Lonely old widow,แม่ม่ายชราโดดเดี่ยว
 CharaName_武者,Warrior,นักรบ
 CharaName_主簿,Registrar,นายทะเบียน
-CharaName_庄家,Landlord,เจ้าของที่ดิน
+CharaName_庄家,Landlord,เจ้ามือบ่อน
 CharaName_路人,Passerby,คนผ่านทาง
 CharaName_观主,Temple master,เจ้าอาวาส
 CharaName_道士,Taoist priest,นักพรตเต๋า
@@ -894,7 +894,7 @@ CharaTitle_擂台,Arena,ลานประลอง
 CharaTitle_留香坊,Fragrance Square,จตุรัสเครื่องหอม
 CharaTitle_繁华似锦楼,Tower of Prosperity,หอเจิดจรัส
 CharaTitle_青风寨,Spring Breeze Stronghold,ค่ายวายุคราม
-CharaTitle_大王寨,Bandit Chief Stronghold,หัวหน้าค่ายโจร
+CharaTitle_大王寨,Bandit Chief Stronghold,ค่ายหัวหน้าโจร
 CharaTitle_释法寺,Buddhist Temple,อารามฉีฟา
 CharaTitle_道玄宗,Taoist Sect,สำนักเต๋า
 CharaTitle_儒圣馆,Confucius Temple,วัดขงจื้อ
