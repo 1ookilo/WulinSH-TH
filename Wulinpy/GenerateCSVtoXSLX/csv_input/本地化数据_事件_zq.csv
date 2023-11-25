@@ -181,7 +181,7 @@ Role1-9overview1,Become a Jianghu Master!,เป็นผู้นำยุท�
 Role1-9overview2,Become the strongest person!,เป็นผู้ที่แข็งแกร่งที่สุด!
 Role1-9overview3,Become a respected hero!,เป็นวีรบุรุษที่ได้รับการยอมรับนับถือ!
 Role1-9overview4,I haven't decided yet.,ยังไม่ได้ตัดสินใจ
-Role1-9-1name,Jianghu Master,天下第一
+Role1-9-1name,Jianghu Master,ผู้นำยุทธภพ
 Role1-9-1overview1,"Become the champion of the <color=#097a76>Youth Hero Association</color> in any region, or reach <color=#097a76>Famous</color> fame.",เป็นผู้ชนะแห่ง <color=#097a76>สมาพันธ์จอมยุทธรุ่นเยาว์</color> ในเขตใดก็ได้ หรือมีเชื่องเสียงถึงขั้น <color=#097a76>โด่งดัง</color>
 Role1-9-1overview2,"When relations with any ordinary sect reach 100, complete its related events to get <color=#097a76>1 Earthly Fiend Card</color>.",เมื่อมีความสัมพันธ์กับสำนักธรรมดาถึง 100 ทำภารกิจที่เกี่ยวข้องให้สำเร็จเพื่อจะได้ <color=#097a76>แผ่นป้ายโลกียอสูร</color>
 Role1-9-1overview3,"When relations with any five ordinary sects reach 100, complete their related events to get <color=#097a76>5 Earthly Fiend Cards</color>.",เมื่อมีความสัมพันธ์กับสำนักธรรมดา 5 สำนัก ถึง 100 ทำภารกิจที่เกี่ยวข้องให้สำเร็จเพื่อจะได้ <color=#097a76> 5 แผ่นป้ายโลกียอสูร</color>
@@ -1844,7 +1844,7 @@ Fame-8_name,Loyal to the Country
 Fame-8_option1_1,Marshal Ye is innocent!,แม่ทัพเย่เป็นผู้บริสุทธิ์!
 Fame-8_option1_2,Agree with Jian Yan Emperor's decision.
 Fame-8_overview1,Go to the Supreme Court to understand the situation.
-Fame-9_name,Eliminate Nine Factions Sect
+Fame-9_name,Eliminate Nine Factions Sect,กำจัดนิกายเก้าฝ่าย
 Fame-9_overview1,Eradicate Nine Factions Sect!
 Fame-10_name,Beauty's Calamity
 Fame-10_overview1,You can go to Fish Island to save people from Lin'an City Pier.

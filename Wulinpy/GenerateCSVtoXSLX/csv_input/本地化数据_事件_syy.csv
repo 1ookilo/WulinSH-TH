@@ -2132,11 +2132,11 @@ School-2010-2_4_15,"I've heard that a wicked old woman has recently appeared in 
 School-2010-2_4_16,"That's right, it doesn't matter if I tell you.\nYou can't even protect yourselves, do you still want to stand up for them?"
 School-2010-2_4_17,(Lighting the special sandalwood made by the old woman and placing it in the incense burner),(จุดไฟธูปไม้จันทน์พิเศษที่หญิงชราทำแล้ววางไว้ในกระถางธูป)
 School-2010-2_op_1_dialog,"{PlayerName}, what is the noble purpose of the Taoist Sect?"
-School-2010-2_op_1_1,"Eliminate evil and kindness, maintain the righteous path of the world!"
+School-2010-2_op_1_1,"Eliminate evil and kindness, maintain the righteous path of the world!",ขจัดความชั่วร้ายและความเมตตา รักษาวิธีอันชอบธรรมของโลก!
 School-2010-2_op_1_2,"Forget about everything, cut off all troubles!"
 School-2010-2_op_1_3,"Educate all people, benevolence influences the world!"
 School-2010-2_op_2_dialog,"Now that the villain is right in front of you, what should you do?"
-School-2010-2_op_2_1,Eliminate evil completely!
+School-2010-2_op_2_1,Eliminate evil completely!,ขจัดความชั่วร้ายให้หมดสิ้น!
 School-2010-2_op_2_2,Persuade her to repent and be good.
 School-2010-2_op_2_3,Give her a way out.
 School-2010-2_5_1,"Young man, the old woman admires your courage, but also worries about your brain.\nDo you really not see the situation? Do you think you've been poisoned normally?"
@@ -2643,7 +2643,7 @@ XS2040-2_3_1,I'd rather die than go to the Crime Investigation Bureau with you!
 XS2040-2_3_2,"What is the identity of these people, they would rather commit suicide than go to the Crime Investigation Bureau for trial."
 XS2040-2_4_1,"Although the means are not honorable, the mission is still completed."
 NpcMumble_XS2040-2_蒙面人1_Roaming,"The Crime Investigation Bureau are all useless, good-for-nothings.|Those guys at the Government Office are also freeloading.|Brothers, we've done so many jobs and nothing happened.|This Daliang City is really rich.|After finishing this job today, I must go and have some fun.|Brothers, let me go ahead and scout the road.",สำนักงานสืบสวนอาชญากรรมล้วนไร้ประโยชน์และไร้ประโยชน์|พวกที่ศาลาว่าการก็ว่างงานเช่นกัน|พี่น้อง เราทำงานมามากมายและไม่มีอะไรเกิดขึ้น|เมืองต้าเหลียงนี้รวยมาก|หลังจากเสร็จสิ้น วันนี้งานนี้ต้องไปเล่นให้สนุกนะ|พี่น้องทั้งหลาย ให้ข้าออกไปสำรวจถนนก่อนนะ
-XS2040-3_name,Eliminate Evil
+XS2040-3_name,Eliminate Evil,ขจัดความชั่วร้าย
 XS2040-3_log_start,"There are many bandits and villains in Zhongzhou, who harm the people. Disciples of the Crime Investigation Bureau, go and eliminate these thieves, and bring peace to the people."
 XS2040-3_log_1,Go to Zhongzhou to eliminate the bandits!
 XS2040-3_1_1,"Good sirs, please spare me."
@@ -2664,7 +2664,7 @@ XS2040-3_3_5,Seamless Combat  Middle-aged man defaults to our side
 XS2040-3_4_1,"Thanks to the hero of the Crime Investigation Bureau for stepping in, my mother's life-saving money is finally safe."
 XS2040-3_4_2,"You go and treat your mother.\nAs long as our Crime Investigation Bureau exists, we will not tolerate these guys doing evil!"
 XS2040-3_5_1,"Although the bandits were eliminated, the middle-aged man could not be saved, I feel guilty."
-XS2040-4_name,Eliminate Evil
+XS2040-4_name,Eliminate Evil,ขจัดความชั่วร้าย
 XS2040-4_log_start,"There are many bandits and villains in Zhongzhou, who harm the people. Disciples of the Crime Investigation Bureau, go and eliminate these thieves, and bring peace to the people."
 XS2040-4_log_1,Go to Zhongzhou to eliminate the villains!
 XS2040-4_1_1,What are you going to do? Why are you stopping me?
@@ -2680,7 +2680,7 @@ XS2040-4_3_1,"{yell}Crime Investigation Bureau{PlayerName} is here!\nYou audacio
 XS2040-4_4_1,"Thank you, young hero, for saving my life."
 XS2040-4_4_2,"This is the duty of our Crime Investigation Bureau disciples, no need to thank."
 XS2040-4_5_1,"Although the bandits were eliminated, the young woman could not be saved, I feel guilty."
-XS2040-5_name,Eliminate Evil
+XS2040-5_name,Eliminate Evil,ขจัดความชั่วร้าย
 XS2040-5_log_start,"There are many bandits and villains in Zhongzhou, who harm the people. Disciples of the Crime Investigation Bureau, go and eliminate these thieves, and bring peace to the people."
 XS2040-5_log_1,Go to Zhongzhou to eliminate the lawless!
 XS2040-5_1_1,"What are you going to do!\nI have a bodyguard, don't seek your own death!"
@@ -2697,7 +2697,7 @@ XS2040-5_4_2,"I just did what a disciple of the Crime Investigation Bureau shoul
 XS2040-5_4_3,"We merchants value fairness, you saved me, you should accept the reward, otherwise it would be looking down on me."
 XS2040-5_4_4,"Alright, then I'll accept it respectfully."
 XS2040-5_5_1,"Although the bandits were eliminated, the merchant could not be saved, I feel guilty."
-XS2010-1_name,Eliminate Evil
+XS2010-1_name,Eliminate Evil,ขจัดความชั่วร้าย
 XS2010-1_log_start,"There are many bandits and villains in Xiangfan, who commit many evils and harm the people. Taoist Sect disciples, go and eliminate these thieves and bring peace to the people."
 XS2010-1_log_1,Go to Xiangfan and eliminate the outlaws!
 XS2010-1_1_1,"Good sirs, please spare me."
@@ -2718,7 +2718,7 @@ XS2010-1_3_5,Seamless Combat  Middle-aged man defaults to our side
 XS2010-1_4_1,"Thanks to the hero of the Taoist Sect for stepping in, my mother's life-saving money is finally safe."
 XS2010-1_4_2,"You go and treat your mother.\nAs long as our Taoist Sect exists, we will not tolerate these guys doing evil!"
 XS2010-1_5_1,"Although the bandits were eliminated, the middle-aged man could not be saved, I feel guilty."
-XS2010-2_name,Eliminate Evil
+XS2010-2_name,Eliminate Evil,ขจัดความชั่วร้าย
 XS2010-2_log_start,"There are many bandits and villains in Xiangfan, who commit many evils and harm the people. Taoist Sect disciples, go and eliminate these thieves and bring peace to the people."
 XS2010-2_log_1,Go to Xiangfan and eliminate the outlaws!
 XS2010-2_1_1,What are you going to do? Why are you stopping me?
@@ -2734,7 +2734,7 @@ XS2010-2_3_1,"{yell}Taoist Sect{PlayerName} is here!\nYou audacious scoundrels, 
 XS2010-2_4_1,"Thank you, young hero, for saving my life."
 XS2010-2_4_2,"This is what we, the disciples of Taoist Sect, should do. There's no need for thanks."
 XS2010-2_5_1,"Although the bandits were eliminated, the young woman could not be saved, I feel guilty."
-XS2010-3_name,Eliminate Evil
+XS2010-3_name,Eliminate Evil,ขจัดความชั่วร้าย
 XS2010-3_log_start,"There are many bandits and villains in Xiangfan, who commit many evils and harm the people. Taoist Sect disciples, go and eliminate these thieves and bring peace to the people."
 XS2010-3_log_1,Go to Xiangfan and eliminate the outlaws!
 XS2010-3_1_1,"What are you going to do!\nI have a bodyguard, don't seek your own death!"
@@ -5329,7 +5329,7 @@ School-2030-2-1_1_2,"Indeed it's with the old man, I wonder if you could give it
 School-2030-2-1_1_3,"Half of my life was saved by you, this little thing is nothing, why not give it to you, take it!"
 School-2030-2-1_1_4,"Thank you, old man."
 School-2030-2-1_1_5,"Good deeds will be rewarded, good deeds will be rewarded~"
-School-2030-3_name,Eliminate violence and help the weak
+School-2030-3_name,Eliminate violence and help the weak,ขจัดความรุนแรงและช่วยเหลือผู้อ่อนแอ
 School-2030-3_talking,Punish
 School-2030-3_log_1,Go to the market to find the two young men who attacked the boxer.
 School-2030-3_log_2,"The problem has been solved, reply to the boxer."
@@ -6219,7 +6219,7 @@ School-2160-1_10_4,"Boy, what's your name? Why are you helping Melody House?"
 School-2160-1_10_5,"I am {PlayerName}, I can't stand those strangely dressed guys bullying you girls."
 School-2160-1_11_1,"Master, this man once taught the Jiuli Tribe a lesson, saving the people in the ruined courtyard from torment."
 School-2160-1_12_1,"Master, he is the one who solved the puzzle in Lin'an City Maiden House...","เจ้าตำหนัก, เขาคือคนที่ไขปริศนาตำหนักพิสุทธิ์ได้ทั้งหมดในเมืองหลินอัน..."
-School-2160-1_12_2,It's Miss Qincheng...,นั่นคือแม่นางชิงเฉิง...
+School-2160-1_12_2,It's Miss Qincheng...,นางคือแม่นางชิงเฉิง...
 School-2160-1_13_1,……
 School-2160-1_13_2,"Young man surnamed {PlayerSurName}, Melody House will be closed for the next <color=#c44b0e>three days</color>. Please don't linger here."
 School-2160-1_13_3,"Alright, since I'm not needed for now, I'll run away."
@@ -6519,10 +6519,10 @@ Wish-2_log_4,"The minimum level of all team Characters reaches level 30, with at
 Wish-2_log_5,"One of your martial arts attributes (such as Fist, Sword, etc.) reaches 50 through learning from an external skill Manual."
 Wish-2_log_6,Reach level 4 Rising Star in Fame.\n(Completing town bounties can earn Fame)
 Wish-2_log_7,One of your martial arts attributes reaches 100 through learning from an external skill Manual.
-Wish-2_log_8,Eliminate or subdue the Crime Investigation Bureau.
-Wish-2_log_9,Eliminate Jiujiang Water Camp.
-Wish-2_log_10,Eliminate Langya Sword Pavilion
-Wish-2_log_11,Eliminate Taoist Sect
+Wish-2_log_8,Eliminate or subdue the Crime Investigation Bureau.,กำจัดหรือโค่นล้มสำนักสืบสวน
+Wish-2_log_9,Eliminate Jiujiang Water Camp.,กำจัดค่ายน้ำจิ่วเจียง
+Wish-2_log_10,Eliminate Langya Sword Pavilion,กำจัดศาลากระบี่หลางหยา
+Wish-2_log_11,Eliminate Taoist Sect,กำจัดสำนักเต๋า
 Wish-2_log_12,Destroy Shifa Temple,ทำลายอารามฉีฟา
 Wish-2_log_13,Destroy Confucius Temple,ทำลายวัดขงจื้อ
 Wish-2_log_14,Reach level 7 Prominence in Fame.
@@ -6534,7 +6534,7 @@ Wish-2_log_19,Subdue the Shifa Temple.
 Wish-2_log_20,Subdue the Confucius Temple.
 Wish-2_log_21,Reach level 7 Prominence in Fame.
 Wish-2_log_22,Prepare to welcome the most glorious moment of your life on the Ritual Platform!
-Wish-2_log_23,Eliminate Crime Investigation Bureau
+Wish-2_log_23,Eliminate Crime Investigation Bureau,กำจัดสำนักสืบสวน
 Wish-2_1_1,"Since the royal road can't be taken anymore, it can only be turned into a tyrant's road, and the six major factions can only be eliminated one by one."
 Wish-3_name,Defend the country.
 Wish-3_log_1,Level up to at least 15 in <color=#c44b0e>Lost Forest</color>.,เพิ่มระดับอย่างน้อย 15 ใน <color=#c44b0e>ป่าสาปสูญ</color>
@@ -6676,7 +6676,7 @@ XS1200-2_log_3,I wonder if the head of the Blue Wind Camp has any new arrangemen
 XS1200-2_3_1,"We can't do this kind of business too often. We need to take it slow, otherwise who would dare to pass by here in the future."
 XS1200-2_4_1,A wealthy man who is unkind to the poor is passing by with money he has swindled. It is said that the bodyguards he hired are weak and easy to defeat. Interested brothers can go and check it out.
 XS1200-2_5_1,This time the information is accurate. The wealthy man who escaped by luck before has appeared nearby again. It is said that the bodyguards he hired are highly skilled and numerous. Brothers who are confident in their own abilities can go and check it out.
-XS1200-4_talking,Eliminate evil
+XS1200-4_talking,Eliminate evil,ขจัดความชั่วร้าย
 XS1200-4_log_2,Have cleared {TagNum:清风寨杀官} corrupt officials near the Blue Wind Camp.
 XS1200-4_log_3,I wonder if the head of the Blue Wind Camp has any new arrangements today.
 XS1200-4_3_1,"Today's task has been completed. Dealing with these corrupt officials is not an overnight job, there's no need to rush."
@@ -6739,12 +6739,12 @@ XS2040-2_log_2,You have participated in {TagNum:神捕门巡城} Daliang City pa
 XS2040-2_log_3,I wonder if Chief Luo has any new arrangements today.
 XS2040-2_5_1,"There won't be any more thieves sneaking into Daliang City today, you can rest now."
 XS2040-2_6_1,"Thieves often appear in Daliang City at midnight, the Crime Investigation Bureau is commissioned to patrol the city at night and catch the thieves as soon as possible."
-XS2040-3_talking,Eliminate evil
+XS2040-3_talking,Eliminate evil,ขจัดความชั่วร้าย
 XS2040-3_log_2,You have participated in {TagNum:中州剿匪} operations to eliminate bandits in Zhongzhou.
 XS2040-3_log_3,I wonder if Sister Qianxue has any new arrangements today.
 XS2040-3_6_1,"I haven't received any other news about bandits for now. When I do, I might need your help again."
 XS2040-3_7_1,"Today we received news that bandits have appeared in Zhongzhou, committing all kinds of evil deeds. Unfortunately, I have other urgent tasks now, otherwise I would not stand by and do nothing."
-XS2040-4_talking,Eliminate evil
+XS2040-4_talking,Eliminate evil,ขจัดความชั่วร้าย
 XS2040-4_log_2,You have participated in {TagNum:中州剿匪2} operations to eliminate villains in Zhongzhou.
 XS2040-4_log_3,I wonder if Brother Qiu has any new arrangements today.
 XS2040-4_6_1,"The evil bandits should be quiet for now. If they stubbornly continue their wrongdoings, we will have to be ruthless!"
@@ -6937,7 +6937,7 @@ School-2050-2_15_5,I'll bring it to you right away!
 School-2050-2_15_6,"You look more pleasing to the eye than the previous owner, I don't need to say much."
 School-2050-2_15_7,"Yes, sir! Yes, sir!"
 School-2050-3_name,Kang Wang's envoy
-School-2050-3_talking,Special envoy
+School-2050-3_talking,Special envoy,ทูตพิเศษ
 School-2050-3_log_1,Go to the river to chase the special envoy.
 School-2050-3_log_2,Return to Jiujiang Water Camp to report.
 School-2050-3_1_1,"If you're not strong enough, don't rush to stand out, or you'll lose your life."

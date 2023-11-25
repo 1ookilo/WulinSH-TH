@@ -8028,28 +8028,28 @@ R10035-4_1_1,"It's better not to get too close when the enemy is unclear, to avo
 R10035-4_2_1,"We still have an old account that hasn't been settled, don't think I will help you."
 R10035-4_3_1,"Only by traveling in the martial arts world can you learn from all families. One day, I will break through the bottleneck and become the number one in the world!"
 R10035-4_4_1,"Your team has no extra positions, even if I want to help you, I can't."
-R10036-0_1_1,"I am {PlayerName}, may I ask your name?"
-R10036-0_1_2,Xiao Yuanba.
+R10036-0_1_1,"I am {PlayerName}, may I ask your name?",ข้าคือ{PlayerName} ขอทราบนามของท่านได้หรือไม่?
+R10036-0_1_2,Xiao Yuanba.,เสี่ยวหยวนป้า
 R10036-0_1_3,You don't look like a Central Plains person?
 R10036-0_1_4,None of your business!
-R10036-0_1_5,Are you a foreigner?
+R10036-0_1_5,Are you a foreigner?,เจ้าเป็นคนต่างถิ่นงั้นหรือ?
 R10036-0_1_6,"Keep your curiosity to yourself, and you will live longer."
 R10036-2_1_1,Those who are not of my race must have different hearts! I don't trust anyone other than the Yan Yun Iron Army!
-R10036-2_2_1,"If you don't want to die, get out of here!!!"
+R10036-2_2_1,"If you don't want to die, get out of here!!!",ถ้ายังไม่อยากตายก็ออกไปซะ!!
 R10036-2_3_1,"Since you have joined the Yan Yun Iron Army, you are my brother. Fight for the brotherhood, and never regret even if you die!"
 R10036-2_4_1,"Your team has no vacancies, wait until you have a place for me before you come to me."
-R10037-0_1_1,"I am {PlayerName}, may I ask your name?"
-R10037-0_2_1,"I am Ding Fengbo, the master of Jiujiang Water Camp.\nWhat brings the young hero here?"
-R10037-0_3_1,"I am Ding Fengbo, the master of Jiujiang Water Camp.\n{PlayerName}, you dare to come to my Jiujiang Water Camp, you are quite bold."
-R10038-0_1_1,"I am {PlayerName}, may I ask your name?"
+R10037-0_1_1,"I am {PlayerName}, may I ask your name?",ข้าคือ{PlayerName} ขอทราบนามของท่านได้หรือไม่?
+R10037-0_2_1,"I am Ding Fengbo, the master of Jiujiang Water Camp.\nWhat brings the young hero here?",ข้าคือติงเฟิงป๋อ ผู้นำของค่ายน้ำจิ่วเจียง\nไม่ทราบว่าอะไรพาท่านจอมยุทธมาถึงที่นี่?
+R10037-0_3_1,"I am Ding Fengbo, the master of Jiujiang Water Camp.\n{PlayerName}, you dare to come to my Jiujiang Water Camp, you are quite bold.",ข้าคือติงเฟิงป๋อ ผู้นำของค่ายน้ำจิ่วเจียง\n{PlayerName} เจ้ากล้ามากที่มาถึงค่ายน้ำจิ่วเจียงแห่งนี้ กล้ามากจริงๆ
+R10038-0_1_1,"I am {PlayerName}, may I ask your name?",ข้าคือ{PlayerName} ขอทราบนามของท่านได้หรือไม่?
 R10038-0_1_2,"I am the descendant of Zhuge Wolong, Zhu Ge Shenji, currently serving as the military adviser of the water camp."
 R10038-0_1_3,"So it's Mr. Zhuge, my apologies for the oversight."
-R10039-0_1_1,"I am {PlayerName}, may I ask the young lady's name?"
-R10039-0_1_2,"Do you flirt with all the ladies like this?\nWe are strangers, isn't this a bit rude?"
+R10039-0_1_1,"I am {PlayerName}, may I ask the young lady's name?",ข้าคือ{PlayerName} ไม่ทราบว่าแม่นางมีนามว่าอะไร?
+R10039-0_1_2,"Do you flirt with all the ladies like this?\nWe are strangers, isn't this a bit rude?",เจ้าจีบสตรีแบบนี้ทุกคนเลยหรือ?\nเราไม่เคยพบกันมาก่อน นี่ออกจะหยาบคายไปหน่อยหรือไม่?
 R10039-0_1_3,"Well, I admit it was a bit presumptuous."
-R10039-0_1_4,I apologize to the young lady.
+R10039-0_1_4,I apologize to the young lady.,ขออภัยแม่นางน้อย
 R10039-0_1_5,"Hmph, since you seem sincere in your apology, I'll tell you.\nMy name is Ding Haitang, I am the younger sister of Ding Fengbo, the Lord of Water Camp."
-R10041-0_1_1,"I am {PlayerName}, may I ask your name, elder?"
+R10041-0_1_1,"I am {PlayerName}, may I ask your name, elder?",ข้าคือ{PlayerName} ขอทราบนามผู้อาวุโสได้หรือไม่?
 R10041-0_1_2,"I am Fu Yaozi, the master of Linlang Temple."
 R10041-0_1_3,"The grudges of the martial arts world never end, if you get into trouble, I can mediate on behalf of Linlang Temple to avoid irreversible situations."
 R10041-0_1_4,"Thank you for your guidance, senior!"
@@ -9949,20 +9949,20 @@ M2155-5_36_10,"I've said it before, I, {PlayerName}, will avenge you!"
 M2155-5_36_11,……,……
 M2155-5_36_12,"Hongyu thanks the young hero {PlayerSurName} here, please help us, Tiger Escort, to seek justice!","หงหยู ขอขอบท่านจอมยุทธ์หนุ่ม {PlayerSurName} มา ณ ที่นี่, โปรดช่วยพวกเราสำนักคุ้มภัยพยัคฆา, เพื่อแสวงหาความยุติธรรม!"
 M2155-5_36_13,"Leave it to me, I've got this!"
-M2155-5_37_1,"I apologize for the late rescue, please punish me, boss."
+M2155-5_37_1,"I apologize for the late rescue, please punish me, boss.",ขออภัยที่มาช่วยเหลือช้า หัวหน้าโปรดลงโทษข้าด้วย
 M2155-5_37_2,"You risked your life to save me, not only are you not at fault, but you've done a great deed."
 M2155-5_37_3,"Why was the boss not in Nest of Swallow, how did he get caught here?"
 M2155-5_37_4,"It's all because of greed, I fell into someone else's carefully designed trap, it's a disgrace, let's not talk about it."
 M2155-5_37_5,"Boss, you should hurry back to Nest of Swallow to hold the fort, so as not to be taken advantage of by the enemy."
-M2155-5_37_6,"{PlayerName}, I'll go back to Nest of Swallow first, you be careful out there."
+M2155-5_37_6,"{PlayerName}, I'll go back to Nest of Swallow first, you be careful out there.",{PlayerName} ข้าจะกลับไปที่รังนกนางแอ่นก่อน เจ้าอยู่ข้างนอกระวังตัวด้วย
 M2155-5_38_1,"Boss Bu, let's run away while the guard is down."
 M2155-5_38_2,"Today's life-saving grace, Nest of Swallow owes {PlayerSurName} a favor, we will repay it in the future."
 M2155-5_39_1,"Good man, now is the time to run away while the guard is slack."
 M2155-5_39_2,"I am Bu Juechen, the boss of Nest of Swallow.\nToday's life-saving grace, Nest of Swallow owes you a favor, we will repay it in the future."
 M2155-5_40_1,"Sect leader, let's run away while the guard is down."
-M2155-5_40_2,"Today's life-saving grace, Tomb Raider Sect owes {PlayerSurName} a favor, we will repay it in the future.","พระคุณในการช่วยชีวิตในวันนี้, พวกเราสำนักปล้นสุสานเป็นหนี้บุญคุณ {PlayerSurName} เราจะตอบแทนมันในอนาคต"
+M2155-5_40_2,"Today's life-saving grace, Tomb Raider Sect owes {PlayerSurName} a favor, we will repay it in the future.",พระคุณในการช่วยชีวิตในวันนี้ พวกเราสำนักปล้นสุสานเป็นหนี้บุญคุณท่าน{PlayerSurName}แล้ว เราจะตอบแทนในวันหน้าแน่นอน
 M2155-5_41_1,"Good man, now is the time to run away while the guard is slack."
-M2155-5_41_2,"I am Ming Bufan, the sect leader of Tomb Raider Sect.\nToday's life-saving grace, Tomb Raider Sect owes you a favor, we will repay it in the future.","ข้าชื่อ Ming Bufan ผู้นำนิกายของ Tomb Raider Sect\nพระคุณในการช่วยชีวิตในวันนี้, พวกเราสำนักปล้นสุสานเป็นหนี้บุญคุณเจ้า, เราจะตอบแทนมันในอนาคต"
+M2155-5_41_2,"I am Ming Bufan, the sect leader of Tomb Raider Sect.\nToday's life-saving grace, Tomb Raider Sect owes you a favor, we will repay it in the future.",ข้าชื่อหมิงปู้ฟาน ผู้นำของสำนักปล้นสุสาน\nพระคุณในการช่วยชีวิตวันนี้ สำนักปล้นสุสานเป็นหนี้บุญคุณเจ้าแล้ว พวกเราจะตอบแทนในวันหน้า
 M2155-8_1_1,"Since you all have come to Buddha Temple as guests, don't think about leaving so easily, so as not to say that I, the sect leader, am not hospitable."
 M2155-8_1_2,"The mantis stalks the cicada, unaware of the oriole behind..."
 M2155-8_1_3,"The Nine Factions Sect has put on quite a show, isn't it a bit overkill?"
@@ -11953,16 +11953,16 @@ R10021-0_8_1,"Epiphyllum Valley is no longer safe, it seems I need to run away f
 R10021-0_8_2,"People like me, if we lose our protection, will sooner or later become someone else's caged canary. This is my fate, what can I do?"
 R10021-0_8_3,Maybe I can help you.
 R10021-0_8_4,"Throughout history, for every faithful lover, there is a heartless man. I don't believe in my own luck, nor do I believe in anyone's promises anymore."
-R10021-0_8_5,……
+R10021-0_8_5,……,……
 R10021-0_8_6,"However, you seem to be different from others, perhaps..."
 R10021-1_1_1,"I won't trust anyone anymore, especially men, so don't bother trying."
 R10021-1_2_1,Your current <color=#c44b0e>Trustworthy</color> is not enough to make me trust you.
 R10021-1_3_1,"It's time to let you know my name. My name comes from a strange flower in my hometown - Man Tuoluo, which can drive people mad and also lead to their destruction."
 R10021-1_3_2,"Your sincere eyes encourage me to make another crazy choice. I choose to trust you, hoping that I didn't make the wrong choice this time."
-R10021-1_4_1,Do you think I'm beautiful?
+R10021-1_4_1,Do you think I'm beautiful?,เจ้าคิดว่าข้างดงามหรือไม่?
 R10021-1_5_1,"There's no place for me in your team right now, don't keep me waiting too long~"
-R10021-2_1_1,"{PlayerName}, I have a question and I hope you can answer me honestly."
-R10021-2_1_2,I will tell you everything I know.
+R10021-2_1_1,"{PlayerName}, I have a question and I hope you can answer me honestly.",{PlayerName} ข้ามีคำถาม และหวังว่าท่านจะตอบอย่างตรงไปตรงมา
+R10021-2_1_2,I will tell you everything I know.,ข้าจะบอกทุกสิ่งที่ข้ารู้
 R10021-2_1_3,"Before this, how many girls have you made vows of love with?"
 R10021-2_1_4,"(This is a tricky question, how should I answer?)"
 R10021-2_2_1,"I don't care how many people you've had feelings for, or how many vows you've made; I just want to know if you can continue to be sincere to me, and not deceive me."
@@ -11973,23 +11973,23 @@ R10021-2_4_1,I didn't expect you to be such a playboy.
 R10021-2_4_2,"I don't care how many people you've had feelings for, or how many vows you've made; I just want to know if you can continue to be sincere to me, and not deceive me."
 R10021-2_4_3,"You didn't disappoint me, that's enough for me."
 R10021-2_5_1,It seems you might need to think carefully here before you can answer me.
-R10021-2_5_2,……
-R10021-2_6_1,"{PlayerName}, can you answer my question now?"
+R10021-2_5_2,……,……
+R10021-2_6_1,"{PlayerName}, can you answer my question now?",{PlayerName} ตอนนี้เจ้าจะตอบคำถามของข้าได้หรือยัง?
 R10021-2_6_2,"Before this, how many girls have you made vows of love with?"
 R10021-2_7_1,"I don't care how many people you've had feelings for, or how many vows you've made; I just want to know if you can continue to be sincere to me, and not deceive me."
 R10021-2_7_2,"But, you lied to me just now, you betrayed my trust in you, can you still make me feel safe?"
 R10021-2_7_3,"I was too cautious just now, fearing that a wrong answer would cause unnecessary trouble. I didn't expect that she just wanted a truthful answer, it seems I overthought it."
 R10035-3_8_1,"I originally planned to copy the demonic technique I learned and give it to you, but since you've already learned the Vairocana Solar Sutra, I don't want there to be a second person in the world who has mastered both Buddha and demon techniques, so I'll give up on this idea."
 R10035-3_9_1,"You gift me the Vairocana Solar Sutra, and I will copy the demonic skill I've learned and give it to you. We are of the same kind, we should help each other."
-R10036-0_2_1,Xiao Yuanba!
+R10036-0_2_1,Xiao Yuanba!,เสี่ยว-หยวน-ป้า!
 R10036-0_2_2,The girl by your side seems to have a fiery temper.
 R10036-0_2_3,"She, she seems excited to see a master."
 R10036-0_2_4,I'm not interested in fighting with girls.
 R10036-3_1_1,Hey!
 R10036-3_1_2,Ah-ha!
-R10036-3_1_3,Who dares to spy on me practicing?
+R10036-3_1_3,Who dares to spy on me practicing?,ใครกล้าแอบดูข้าตอนกำลังฝึก?
 R10036-3_2_1,"I happened to be here and saw you showing off your spear skills, so I stopped to watch."
-R10036-3_3_1,"Brother Yuanba, don't misunderstand, it's me!"
+R10036-3_3_1,"Brother Yuanba, don't misunderstand, it's me!",พี่หยวนป้าอย่าเข้าใจผิด นี่ข้าเอง!
 R10036-3_4_1,"Central Plains man, are you trying to steal my spear skills?"
 R10036-3_4_2,"Your spear skills are fierce and brutal, with a strong killing intent. Only a brave man with astonishing strength can control it. How can ordinary people dare to hope for it?"
 R10036-3_4_3,"You Central Plains people are hypocritical, don't think you can deceive me!"
@@ -12857,7 +12857,7 @@ Fame-8_7_2,"It's all thanks to Master's teachings, I can't disgrace our sect at 
 Fame-8_8_1,"You have done something that greatly disappoints me, you actually chose to frame Marshal Ye on the spot!"
 Fame-8_8_2,"You may have your own difficulties, but let me tell you, there are things to do and not to do in life. If you only care about your own gains and losses, and ignore righteousness and morality, what's the difference between you and those people from the Nine Factions Sect now!"
 Fame-8_8_3,"This will not happen again, if you do such a bastard thing again, I will have to clean up the sect myself."
-Fame-8_8_4,I know I was wrong.
+Fame-8_8_4,I know I was wrong.,ข้ารู้ดีว่าข้าผิด
 Fame-9_1_1,"""The location of the Nine Factions Sect's main altar has now been found, it is near Lin'an City. Now the Nine Factions Sect is in internal and external troubles, it is a great opportunity to annihilate them in one fell swoop! ——Rumor Platform"""
 Fame-9_2_1,"Disciple, time waits for no one, it's time to clean up this filthy Nine Factions Sect."
 Fame-10_1_1,"Another pigeon letter from the Rumor Platform, I wonder what it's going to tell me this time."
@@ -12880,7 +12880,7 @@ Fame-10_7_3,"Allow me to introduce myself, I am Liu Sheng Wucang, the city lord 
 Fame-10_7_4,"I'm not interested in chatting with you, just let my women go!"
 Fame-10_8_1,"{PlayerSurName}, we meet again.",{PlayerSurName} เราพบกันอีกแล้ว
 Fame-10_8_2,"It's you, Fu Bu Bingwei!"
-Fame-10_9_1,You're still alive!
+Fame-10_9_1,You're still alive!,เจ้ายังไม่ตาย!
 Fame-10_9_2,"Thanks to you, I'm not the same as I used to be!"
 Fame-10_10_1,"{PlayerSurName}, I didn't expect us to meet again in this way."
 Fame-10_10_2,Hmph!

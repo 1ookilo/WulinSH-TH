@@ -264,7 +264,7 @@ M1400-3_options1_2,"I can't just watch people die, I have to help.<color=#c44b0e
 3023_name,"Ask the woman about making money, she refuses to tell",ถามนางเรื่องหาเงิน นางไม่ยอมปริปาก
 3024_name,The woman tells you there are Lingzhi under the big tree in Lost Forest,ผู้หญิงคนนั้นบอกคุณว่ามีเห็ดหลินจืออยู่ใต้ต้นไม้ใหญ่ในป่าสาปสูญ
 3025_name,"Scolded for being idle, despising knights",ถูกดุว่าเกียจคร้านและดูหมิ่นอัศวิน
-3026_name,Complain about the Iron Ban
+3026_name,Complain about the Iron Ban,ร้องทุกข์ต่อกฎเหล็กที่ไม่เป็นธรรม
 3027_name,Scold the protagonist for giving Xiao Bao a Wooden sword,ดุตัวเอกที่มอบกระบี่ไม้ให้กับเสี่ยวเปา
 M1500-1_name,Treasure in Wild Wolf Valley,สมบัติในหุบเขาหมาป่า
 M1500-1_overview_1,Go to the withered tree in <color=#c44b0e>Wild Wolf Valley</color> for Info,ไปที่ต้นไม้เหี่ยวใน <color=#c44b0e>หุบเขาหมาป่า</color> เพื่อดูข้อมูล
@@ -688,8 +688,8 @@ M20300-31option4_dialog,"However, if you're willing to spar with me, I won't bot
 M20300-31option4_1,"I'll accompany you till the end, but please show mercy. <color=#097a76>(Main character duels)</color>",ข้ายินดีเป็นเพื่อนเล่นให้จนกว่าท่านจะพอใจ แต่ได้โปรดออมมือด้วย <color=#097a76>(ตัวละครหลักเริ่มการต่อสู้)</color>
 M20300-31option4_2,I can't afford to hurt you by accident.,ข้าคงชดใช้มิได้หากบังเอิญทำท่านบาดเจ็บ
 M20300-31option5_dialog,"Come on, spar with me for a few more rounds!",เอาน่า มาประลองกับข้าอีกสักตาสองตาเถิด!
-M20300-31option5_1,"I'll accompany you till the end, but please show mercy. <color=#097a76>(Main character duels)</color>"
-M20300-31option5_2,I can't afford to hurt you by accident.
+M20300-31option5_1,"I'll accompany you till the end, but please show mercy. <color=#097a76>(Main character duels)</color>",ข้ายินดีเป็นเพื่อนเล่นให้จนกว่าท่านจะพอใจ แต่ได้โปรดออมมือด้วย<color=#097a76>(ตัวละครหลักเริ่มการต่อสู้)</color>
+M20300-31option5_2,I can't afford to hurt you by accident.,ข้าคงชดใช้มิได้หากบังเอิญทำท่านบาดเจ็บ
 R10009-1_npcname,A familiar female voice,เสียงสตรีที่ฟังคุ้นหู
 R10009-1_npcname2,Stranger woman,หญิงแปลกหน้า
 R10009-1option1_dialog,"That little thief stole my things, we must get them back.\nBut that little thief is very slippery, will you come with me to catch him?",เจ้าโจรตัวน้อยนั่นขโมยของข้าไป เราต้องตามไปเอาคืน \nแต่โจรตัวน้อยนั่นลื่นอย่างกับปลาไหล เจ้าจะช่วยตามข้าไปจับมันหรือไม่?
@@ -698,8 +698,8 @@ R10009-1option1_2,"I have other things to do, I can't accompany you.",ข้า�
 R10009-1option2_1,"Just now, there was a suspicious person sneaking in... <color=#097a76>(Persuade reaches Advance)</color>"
 R10009-1option2_2,"Please accept this silver, General, and be lenient. <color=#097a76>(Scrap silver 15 Liang)</color>"
 R10009-1option2_3,Do we have to be so distant given our Relations? <color=#097a76>(Relations reach 60)</color>
-R10009-1option2_4,Let's run away now.
-R10009-1option3_1,Agree to wander the world with Ye Yinping.
+R10009-1option2_4,Let's run away now.,รีบหนีกันเถิด
+R10009-1option3_1,Agree to wander the world with Ye Yinping.,ตกลงที่จะท่องเที่ยวโลกไปกับเย่หยินผิง
 R10009-1option3_2,Refuse Ye Yinping's proposal.,ปฏิเสธข้อเสนอของเย่หยินผิง
 M20321-2_4option1_dialog,"(This Cai Youzhi is so arrogant and domineering, presumably no one dares to provoke the Confucius Temple behind him, should I step in at this time?)"
 M20321-2_4option1_1,(Ask Ye Yinping if he wants to intimidate him)<color=#097a76>(Ye Yinping)</color>

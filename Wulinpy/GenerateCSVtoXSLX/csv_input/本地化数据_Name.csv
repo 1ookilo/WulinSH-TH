@@ -304,7 +304,7 @@ CharaName_楼主,Building owner,เจ้าของตึก
 CharaName_仆人,Servant,คนรับใช้
 CharaName_妇女,Woman,หญิงสาว
 CharaName_小孩,Child,เด็ก
-CharaName_管事,Steward,ขันที
+CharaName_管事,Steward,ผู้ดูแล
 CharaName_西域商人,Western merchant,พ่อค้าตะวันตก
 CharaName_锦衣女子,Woman in brocade,ผู้หญิงในชุดผ้า
 CharaName_老黄牛,Old yellow ox,วัวเหลืองเฒ่า
@@ -386,7 +386,7 @@ CharaName_踏白军,Tabai Army,กองทัพท่าไป๋
 CharaName_下隐,Junior Hermit,ฤาษีรุ่นน้อง
 CharaName_上隐,Senior Hermit,ฤาษีอาวุโส
 CharaName_干将,Ganjiang,กันเจียง
-CharaName_族人,Clanman,คนในตระกูล
+CharaName_族人,Clanman,คนในเผ่า
 CharaName_蛊人,Gu Man,กู่หมาน
 CharaName_练功弟子,Training Disciple,ศิษย์ในการฝึกฝน
 CharaName_镖头,Escort Leader,หัวหน้าสำนักคุ้มภัย
@@ -628,7 +628,7 @@ CharaName_赤炼,Chi Lian,ชิเหลียน
 CharaName_母夜叉,Yakshi or Witch,มารดาปีศาจราตรี
 CharaName_拦路虎,Roadblock Tiger,เสือกั้นถนน
 CharaName_截江龙,River-cutting Dragon,มังกรตัดแม่น้ำ
-CharaName_上三杆,Top Poles Man
+CharaName_上三杆,Top Poles Man,ยอดบุรุษผู้กล้าหาญ
 CharaName_神无救,Shen WuJiu,เสินหวู่จิ่ว
 CharaName_白无常,White Grim Reaper,ยมทูตขาว
 CharaName_黑无常,Black Grim Reaper,ยมทูตทมิฬ
@@ -678,9 +678,9 @@ CharaName_赛华佗,Sai Huatuo,ไซฮัวโถว
 CharaName_影子护卫,Shadow guardian,ผู้พิทักษ์เงา
 CharaName_侍卫,Guard,ยาม
 CharaName_九流门死士,Nine Factions Sect Desperate,จนตรอกนิกายเก้าฝ่าย
-CharaName_沉鱼落雁,Alluring beauty
+CharaName_沉鱼落雁,Alluring beauty,งามล้ำค่าดุจบุปผา
 CharaName_劫匪,Robber,โจร
-CharaName_兵痞,Army Riffraff
+CharaName_兵痞,Army Riffraff,กองทัพขอทาน
 CharaName_周玉汤,Zhou Yutang,โจวหยูถัง
 CharaName_孙三娘,Sun Sanniang,ซันสันเนียง
 CharaName_陆仁贾,Lu Renjia,หลู่เหรินเจีย
@@ -688,11 +688,11 @@ CharaName_自信的刀客,Confident Swordsman,มือกระบี่เป�
 CharaName_白面书生,White-faced Scholar,บัณฑิตหน้าขาว
 CharaName_火凤凰,Fire Phoenix,วิหคเพลิง
 CharaName_齐钰,Qi Yu,ฉีหยู
-CharaName_狂虎,Kuang Hu
+CharaName_狂虎,Kuang Hu,กวงหู
 CharaName_战雄飞,Zhan Xiongfei,จ้านซงเฟย
 CharaName_夜枭,Ye Xiao,เย่เซียว
-CharaName_震山虎,Zhen Shanhu
-CharaName_赛尉迟,Sai Yuchi
+CharaName_震山虎,Zhen Shanhu,เจิน ชานหู
+CharaName_赛尉迟,Sai Yuchi,ซือหยูฉี
 CharaName_索命,Suo Ming,โซวหมิง
 CharaName_习剑的道士,Taoist Practicing Sword,นักพรตฝึกกระบี่
 CharaName_翻江龙,Overturning River Dragon,มังกรพลิกน้ำ
@@ -706,17 +706,17 @@ CharaName_铜钱豹,Coin Leopard,เสือดาวทอง
 CharaName_求败,Invincible,แสวงหาความพ่ายแพ้
 CharaName_加藤小太郎,Kato Kotaro,คาโต้ โคทาโร่
 CharaName_瘦狼,Thin Wolf,หมาป่าผอมโซ
-CharaName_四郎,Four Lang
+CharaName_四郎,Four Lang,ซีหลาง
 CharaName_刺客,Assassin,นักฆ่า
 CharaName_强盗,Robber,โจร
 CharaName_密探,Spy,สายลับ
 CharaName_弓兵,Archer,มือธนู
-CharaName_恶霸,Bully
+CharaName_恶霸,Bully,ข่มเหงรังแก
 CharaName_猎户,Hunter,นักล่า
 CharaName_猎犬,Hunting Dog,หมาล่าเนื้อ
 CharaName_巨熊,Giant Bear,หมียักษ์
 CharaName_盗墓人,Tomb Raider,โจรปล้นสุสาน
-CharaName_路霸,Road Bully
+CharaName_路霸,Road Bully,อันธพาลข้างถนน
 CharaName_暗探,Secret Detective,นักสืบลับ
 CharaName_猿猴,Monkey,ลิง
 CharaName_食人虎,Man-eating Tiger,เสือกินคน
@@ -737,7 +737,7 @@ CharaName_彩蝶,Caidie,ไฉตี้
 CharaName_嗔,Chen,เฉิน
 CharaName_鸿轩,Hongxuan,หงซวน
 CharaName_梦蝶,Mengdie,เมิงเตี๋ย
-CharaName_道辅,Daofu
+CharaName_道辅,Daofu,เต้าฟู่
 CharaName_鹏举,Pengju,เผิงจิว
 CharaName_阳子,Yangzi,หยางสื่อ
 CharaName_啸天,Xiaoian,เสี่ยวเทียน
@@ -747,7 +747,7 @@ CharaName_攸之,Youzhi,โหย่วจือ
 CharaName_绝尘,Juechen,เจวี่ยเฉิน
 CharaName_会之,Huizhi,ฮุ่ยจือ
 CharaName_春秋,Chunqiu,ชุนชิว
-CharaName_阎罗,Yanluo
+CharaName_阎罗,Yanluo,หยานหลัว
 CharaName_云,Yun,หยุน
 CharaName_乌珠,Wuzhu,อู๋จู
 CharaName_亮,Liang,เหลียง
@@ -759,8 +759,8 @@ CharaName_再兴,Zaixing,ไซซิง
 CharaName_恒,Heng,เหิง
 CharaName_红玉,Hongyu,หงหยู
 CharaName_剑一,Jianyi,เจี้ยนอี้
-CharaName_武藏,Wucang
-CharaName_兵卫,Bingwei
+CharaName_武藏,Wucang,หวู่ชาง
+CharaName_兵卫,Bingwei,ปิงเว่ย
 CharaName_樱羽,Yingyu,อิ๋งอวี
 CharaName_一刀,Yidao,อี้เตา
 CharaName_百出,Baichu,ไป๋ฉู่
@@ -771,19 +771,19 @@ CharaName_三,Three,สาม
 CharaName_月龙,Yuelong,เยว่หลง
 CharaName_乐雅,Leya,เล่อหยา
 CharaName_文修,Wenxiu,เหวินซิ่ว
-CharaName_万三,Wansan
-CharaName_本草,Bencao
+CharaName_万三,Wansan,วังซาน
+CharaName_本草,Bencao,บังเฉา
 CharaName_文桓,Wenhuan,เหวินหวน
-CharaName_子虚,Zixu
+CharaName_子虚,Zixu,จีซู่
 CharaName_罗冲,Luochong,หลัวจง
 CharaName_浮名,Fuming,ฝูหมิง
 CharaName_天,Sky,ท้องฟ้า
-CharaName_诗楼,Shilou
+CharaName_诗楼,Shilou,ซือลู่
 CharaName_姬,Ji,จี้
-CharaName_不凡,Bufan
-CharaName_之墨,Zhimo
-CharaName_狂,Kuang
-CharaName_痴,Chi
+CharaName_不凡,Bufan,ปู้ฟาน
+CharaName_之墨,Zhimo,ฉิวโม่
+CharaName_狂,Kuang,กวง
+CharaName_痴,Chi,ชี
 CharaName_琴,Qin,ฉิน
 CharaName_南天,Nantian,หนานเทียน
 CharaName_天雄,Tianxiong,เทียนซง
@@ -794,7 +794,7 @@ CharaName_婉儿,Wan'er,หว่านเอ๋อ
 CharaName_小白,Xiao Bai,เสี่ยวไป๋
 CharaName_幺儿,Yao'er,เหยาเอ๋อ
 CharaName_神仙醋,Shenxiancu,เสิ่นเซียนซู
-CharaName_见愁,Jianchou
+CharaName_见愁,Jianchou,เจียนโจว
 CharaName_皇帝,Emperor,ฮ่องเต้
 CharaName_十八,Shiba,ฉีปา
 CharaName_大锤,Dachui,ต้าชุย
@@ -812,7 +812,7 @@ CharaName_昭宁,Zhaoning,จ้าวหนิง
 CharaName_付,Fu,ฟู่
 CharaName_瑶琴,Yaoqin,เหยาฉิน
 CharaName_鱼,Yu,หยู
-CharaName_歌行,Gexing
+CharaName_歌行,Gexing,เกือซิง
 CharaName_毒龙,lizard,กิ้งก่า
 CharaName_异变毒龙,Heteromorphic lizard,ตะกวดพิษกลายพันธุ์
 CharaName_帮主,Master ,หัวหน้าแก๊งค์
@@ -825,11 +825,11 @@ CharaName_琼花谷·守关人,Epiphyllum Valley Gatekeeper,ผู้เฝ้�
 CharaName_蓬头垢面的乞丐,A disheveled beggar,ขอทานสกปรก
 CharaName_博士,Doctor,หมอ
 CharaName_行人,Pedestrian,คนเดินเท้า
-CharaTitle_族长,Clan Leader
+CharaTitle_族长,Clan Leader,หัวหน้าเผ่า
 CharaTitle_指挥使,Commander,ผู้บัญชาการ
 CharaTitle_元帅,Marshal,แม่ทัพใหญ่
 CharaTitle_掌门,Sect Leader,เจ้าสำนัก
-CharaTitle_圣主,Sage Lord
+CharaTitle_圣主,Sage Lord,ปราชญ์ผู้ยิ่งใหญ่
 CharaTitle_馆主,Sect Leader,เจ้าสำนัก
 CharaTitle_老大,Boss,หัวหน้า
 CharaTitle_住持,Abbot,เจ้าอาวาส
@@ -838,12 +838,12 @@ CharaTitle_阁主,Pavilion Master,เจ้าศาลา
 CharaTitle_总镖头,Chief Escort,หัวหน้าผู้คุ้มกัน
 CharaTitle_城主,City Lord,เจ้าเมือง
 CharaTitle_楼主,Building owner,เจ้าของตึก
-CharaTitle_安抚使,Pacifying Envoy
-CharaTitle_门主,Gate Master
+CharaTitle_安抚使,Pacifying Envoy,ผู้พิทักษ์ความสงบสุข
+CharaTitle_门主,Gate Master,ผู้พิทักษ์ประตู
 CharaTitle_坊主,Abbot,เจ้าอาวาส
 CharaTitle_岛主,Island Master,เจ้าเกาะ
 CharaTitle_总捕头,Chief Catcher,หัวหน้ามือปราบ
-CharaTitle_庄主,Manor Lord
+CharaTitle_庄主,Manor Lord,เจ้าครองแคว้น
 CharaTitle_小二,Waiter,เสี่ยวเอ้อ
 CharaTitle_长乐柜坊,Zhangyue Casino,บ่อนจางเยว่
 CharaTitle_猎户,Hunter,นักล่า
@@ -925,69 +925,69 @@ CharaTitle_大理寺,Supreme Court,ศาลสูงสุด
 CharaTitle_马王洞,Horse King Cave,ถ้ำราชาม้า
 CharaTitle_琼花谷,Snowflower Valley,หุบเขาโบตั๋น
 CharaTitle_流民,Refugee,ผู้ลี้ภัย
-CharaTitle_通缉,Wanted
-CharaTitle_武学大师,Martial Arts Master
+CharaTitle_通缉,Wanted,ปรารถนา
+CharaTitle_武学大师,Martial Arts Master,ปรมาจารย์แห่งวิชายุทธ
 CharaTitle_将军府,General's mansion,จวนแม่ทัพ
 CharaTitle_选锋军,Elite Army,ทัพฉวนเฟิง
 CharaTitle_胜捷军,Shengjie Army,กองทัพเซิ่งเจี๋ย
 CharaTitle_踏白军,Vanguard Army,กองทัพท่าไป๋
-CharaTitle_横江军,Cross River Army
-CharaTitle_游奕军,Wandering Army
-CharaTitle_破敌军,Enemy Breaking Army
-CharaTitle_五方军,Five Directions Army
-CharaTitle_流寇,Roving Bandit
+CharaTitle_横江军,Cross River Army,กองทัพข้ามแม่น้ำ
+CharaTitle_游奕军,Wandering Army,กองทัพพเนจร
+CharaTitle_破敌军,Enemy Breaking Army,กองทัพพิชิตศัตรู
+CharaTitle_五方军,Five Directions Army,กองทัพห้าทิศ
+CharaTitle_流寇,Roving Bandit,โจรอันธพาล
 CharaTitle_上京军,Capital Army,กองทัพหลวง
-CharaTitle_南京军,Southern Capital Army
-CharaTitle_中都军,Central Army
+CharaTitle_南京军,Southern Capital Army,กองทัพหลวงทิศใต้
+CharaTitle_中都军,Central Army,กองทัพกลาง
 CharaTitle_文人,literati,บัณฑิต
 CharaTitle_皇室,Royal Family,ราชวงศ์
 CharaTitle_山贼,Brigand,โจรภูเขา
 CharaTitle_混混,Ruffian,อันธพาล
 CharaTitle_劫匪,Bandit,โจร
 CharaTitle_点穴手,Immobilize Hand,ฝ่ามือจี้จุด
-CharaTitle_一招大师,One Move Master
-CharaTitle_天地双侠,Twin Heroes of Heaven and Earth
-CharaTitle_神捕,Detective Masters
+CharaTitle_一招大师,One Move Master,ปรมาจารย์วิชายุทธ์หนึ่งกระบวนท่า
+CharaTitle_天地双侠,Twin Heroes of Heaven and Earth,สองวีรบุรุษสวรรค์และปฐพี
+CharaTitle_神捕,Detective Masters,นวนิยายสืบสวน
 CharaTitle_盗墓贼,Tomb Raider,โจรปล้นสุสาน
 CharaTitle_忍者,Ninja,นินจา
 CharaTitle_北斗拳,North Star Fist,หมัดดาวเหนือ
 CharaTitle_移山观,Mountain Moving Observatory,หอสังเกตการณ์ภูผาเคลื่อน
 CharaTitle_海蛟帮,Hai Jiao Gang,พรรคมังกรทะเล
 CharaName_薇儿,Wei'er,เว่ยเอ๋อ
-CharaName_威严冷傲的中年人,A stern and aloof middle-aged man
-CharaName_绿帽子小哥,Green hat guy
-CharaName_隆兴,Longxing
-CharaName_和谐之猫,Meowalot
-CharaName_小E掌柜,Mr.E
-CharaName_二九,twenty nIne
-CharaName_小鬼,Xiao Gui
+CharaName_威严冷傲的中年人,A stern and aloof middle-aged man,ชายวัยกลางคนผู้เคร่งขรึมและห่างเหิน
+CharaName_绿帽子小哥,Green hat guy,ชายผู้ถูกภรรยานอกใจ
+CharaName_隆兴,Longxing,หลงซิง
+CharaName_和谐之猫,Meowalot,เหมียวอ้วน
+CharaName_小E掌柜,Mr.E,คุณชายอี
+CharaName_二九,twenty nIne,ยี่สิบเก้า
+CharaName_小鬼,Xiao Gui,เสี่ยวกุ๋ย
 CharaName_石老猫,syygogo
 CharaName_迪女王,Di Queen
 CharaName_骁骐,Seven,เจ็ด
-CharaName_张少杰,Zhang Shaojie
+CharaName_张少杰,Zhang Shaojie,จางเฉาเจี๋ย
 CharaName_冯骏,Feng Jun,เฟิงจุน
-CharaName_螺纹,Thread
-CharaName_逆风笑,Ni Fengxiao
-CharaName_书匣子,Shu Xiazi
-CharaName_练功捕头,Kung fu catcher
+CharaName_螺纹,Thread,เส้นใย
+CharaName_逆风笑,Ni Fengxiao,หนี่เฟิงเซียว
+CharaName_书匣子,Shu Xiazi,ซูเซียจือ
+CharaName_练功捕头,Kung fu catcher,ผู้พิทักษ์ความยุติธรรมด้วยวิทยายุทธ
 CharaName_空空儿,Kong Kong'er
-CharaName_趟子手,Tang Zi Hand
+CharaName_趟子手,Tang Zi Hand,มือแห่งถังจื่อ
 CharaName_付瑶琴,Fu Yaoqin,ฟู่เหยาฉิน
-CharaName_保镖头目,Bodyguard leader
-CharaName_特使,Special envoy
+CharaName_保镖头目,Bodyguard leader,หัวหน้าผู้คุ้มกัน
+CharaName_特使,Special envoy,ทูตพิเศษ
 CharaName_总镖头,Chief Escort,หัวหน้าผู้คุ้มกัน
-CharaName_账房先生,Accountant
-CharaName_首席,Chief
-CharaName_新的掌柜,New shopkeeper
-CharaName_风闻台使者,Windrumor Platform Messenger
-CharaName_二掌柜,Second shopkeeper
-CharaName_贴身侍卫,Personal bodyguard
+CharaName_账房先生,Accountant,นักบัญชี
+CharaName_首席,Chief,หัวหน้า
+CharaName_新的掌柜,New shopkeeper,เจ้าของร้านหน้าใหม่
+CharaName_风闻台使者,Windrumor Platform Messenger,ผู้ส่งสารข่าวลือ
+CharaName_二掌柜,Second shopkeeper,เจ้าของร้านคนที่สอง
+CharaName_贴身侍卫,Personal bodyguard,องครักษ์ส่วนตัว
 CharaName_船夫,Boatman,คนพายเรือ
 CharaName_管事太监,Steward eunuch,พ่อบ้านขันที
 CharaName_齐王府护卫,Guard of Duke Ji's manor,ยามตำหนักองค์ชายฉี
-CharaName_护国将军,National defense general
-CharaName_镇国将军,National security general
-CharaName_保国将军,National protection general
+CharaName_护国将军,National defense general,สมาคมพิทักษ์ผู้ยิ่งใหญ่แห่งแผ่นดิน
+CharaName_镇国将军,National security general,สมาคมพิทักษ์ผู้รักษาความมั่นคง
+CharaName_保国将军,National protection general,สมาคมพิทักษ์ปกป้องแผ่นดิน
 CharaName_大内弓手,Palace archer,คนยิงธนูหลวง
 CharaName_掌印太监,Seal holding eunuch,ขันทีถือตราประทับ
 CharaName_秉笔太监,Pen holding eunuch,ขันทีถือพู่กัน
