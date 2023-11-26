@@ -695,49 +695,49 @@ R10009-1_npcname2,Stranger woman,หญิงแปลกหน้า
 R10009-1option1_dialog,"That little thief stole my things, we must get them back.\nBut that little thief is very slippery, will you come with me to catch him?",เจ้าโจรตัวน้อยนั่นขโมยของข้าไป เราต้องตามไปเอาคืน \nแต่โจรตัวน้อยนั่นลื่นอย่างกับปลาไหล เจ้าจะช่วยตามข้าไปจับมันหรือไม่?
 R10009-1option1_1,I'll go with you!,ข้าจะไปกับท่าน!
 R10009-1option1_2,"I have other things to do, I can't accompany you.",ข้ามีเรื่องอื่นต้องทำ จึงไม่อาจไปกับเจ้าได้
-R10009-1option2_1,"Just now, there was a suspicious person sneaking in... <color=#097a76>(Persuade reaches Advance)</color>"
-R10009-1option2_2,"Please accept this silver, General, and be lenient. <color=#097a76>(Scrap silver 15 Liang)</color>"
-R10009-1option2_3,Do we have to be so distant given our Relations? <color=#097a76>(Relations reach 60)</color>
+R10009-1option2_1,"Just now, there was a suspicious person sneaking in... <color=#097a76>(Persuade reaches Advance)</color>",เมื่อสักครู่นี้ มีคนน่าสงสัยแอบเข้ามา... <color=#097a76>(การชักชวนไปถึงขั้นสูง)</color>
+R10009-1option2_2,"Please accept this silver, General, and be lenient. <color=#097a76>(Scrap silver 15 Liang)</color>",โปรดยอมรับเงินนี้ ท่านนายพล และกรุณาผ่อนปรนด้วย <color=#097a76>(เศษเงิน 15 ชิ้น)</color>
+R10009-1option2_3,Do we have to be so distant given our Relations? <color=#097a76>(Relations reach 60)</color>,เราต้องห่างกันขนาดนี้เลยเหรอเมื่อพิจารณาจากความสัมพันธ์ของเรา? <color=#097a76> (ความสัมพันธ์ถึง 60)</color>
 R10009-1option2_4,Let's run away now.,รีบหนีกันเถิด
 R10009-1option3_1,Agree to wander the world with Ye Yinping.,ตกลงที่จะท่องยุทธภพไปกับเย่หยินผิง
 R10009-1option3_2,Refuse Ye Yinping's proposal.,ปฏิเสธข้อเสนอของเย่หยินผิง
-M20321-2_4option1_dialog,"(This Cai Youzhi is so arrogant and domineering, presumably no one dares to provoke the Confucius Temple behind him, should I step in at this time?)"
-M20321-2_4option1_1,(Ask Ye Yinping if he wants to intimidate him)<color=#097a76>(Ye Yinping)</color>
-M20321-2_4option1_2,So the Confucius Temple is just good at talking<color=#097a76>(Persuade reaches Advance)</color>
-M20321-2_4option1_3,(Speaking out of turn in this situation will definitely end badly)
-M20321-2_4option2_dialog,"(I've been watching the show for so long, isn't it time for me, the protagonist, to make my presence felt?)"
-M20321-2_4option2_1,(Stir up the crowd's emotions and fight together)<color=#097a76>(Persuade·4 level)</color>
-M20321-2_4option2_2,I'll take on the skills of Dragonfly City alone!<color=#097a76>(Main character duels)</color>
-M20321-2_4option2_3,"There's no need for all the sects to take action, we'll deal with you!<color=#097a76>(Contest)</color>"
+M20321-2_4option1_dialog,"(This Cai Youzhi is so arrogant and domineering, presumably no one dares to provoke the Confucius Temple behind him, should I step in at this time?)",(Cai Youzhi ผู้นี้เย่อหยิ่งและถูกครอบงำ คงจะไม่มีใครกล้ายั่วยุวิหารขงจื้อที่อยู่ด้านหลังเขา ฉันควรก้าวเข้ามาในเวลานี้หรือไม่ ?)
+M20321-2_4option1_1,(Ask Ye Yinping if he wants to intimidate him)<color=#097a76>(Ye Yinping)</color>,(ถามเย่ หยินผิงว่าเขาต้องการข่มขู่เขาไหม)<color=#097a76>(เย่ หยินปิง)</color>
+M20321-2_4option1_2,So the Confucius Temple is just good at talking<color=#097a76>(Persuade reaches Advance)</color>,วัดขงจื้อจึงพูดได้ดี<color=#097a76>(การชักชวนไปถึงขั้นสูง)</color>
+M20321-2_4option1_3,(Speaking out of turn in this situation will definitely end badly),(ผลที่ตามมาของการพูดไร้สาระในสถานการณ์เช่นนี้จะเลวร้ายลงอย่างแน่นอน)
+M20321-2_4option2_dialog,"(I've been watching the show for so long, isn't it time for me, the protagonist, to make my presence felt?)",(ข้าดูละครมานานแล้ว ถึงเวลาที่ข้าพระเอกจะแสดงตัวตนแล้วไม่ใช่เหรอ?)
+M20321-2_4option2_1,(Stir up the crowd's emotions and fight together)<color=#097a76>(Persuade·4 level)</color>,(ปลุกปั่นอารมณ์ของทุกคนและต่อสู้ไปด้วยกัน)<color=#097a76>(โน้มน้าว ระดับ 4)</color>
+M20321-2_4option2_2,I'll take on the skills of Dragonfly City alone!<color=#097a76>(Main character duels)</color>,ข้ามาที่นี่เพื่อเรียนรู้ทักษะของเมืองแมลงปอเพียงลำพัง!<color=#097a76>(การต่อสู้ของตัวละครหลัก)</color>
+M20321-2_4option2_3,"There's no need for all the sects to take action, we'll deal with you!<color=#097a76>(Contest)</color>",ไม่จำเป็นต้องให้ทุกนิกายดำเนินการ เราจะจัดการกับเจ้า!<color=#097a76>(การประกวด)</color>
 M20321-2_4option2_4,Being an audience is also good.,เป็นผู้ชมบ้างก็ดีเช่นกัน
-M20300-61_name,Helping others is the source of happiness
-M20300-61_talk,Visit
-M20300-61_overview1,Come back at the same time the next day to treat the injured man's leg.
-M20300-61_overview2,Find a way to get Healing medicine to heal the injured man's leg.
-M20300-61_overview3,"Met the man with the injured leg, temporarily refuse to heal."
-M20300-61_npcname,A weak middle-aged man
-M20300-61_option1_4_dialog,"I've been stabbed and can't move, can you help me find some medicine?"
-M20300-61_option1_1,I have some knowledge in medical skills and can heal you. <color=#097a76>(Medical level 30)</color>
-M20300-61_option1_2,I have a bottle of medicine that can heal you. <color=#097a76>(1 bottle of Healing medicine)</color>
+M20300-61_name,Helping others is the source of happiness,การช่วยเหลือผู้อื่นเป็นรากฐานของความสุข
+M20300-61_talk,Visit,เยี่ยม
+M20300-61_overview1,Come back at the same time the next day to treat the injured man's leg.,วันรุ่งขึ้นกลับมารักษาชายที่ได้รับบาดเจ็บที่ขาอีกครั้ง
+M20300-61_overview2,Find a way to get Healing medicine to heal the injured man's leg.,หาวิธีการรับยารักษาเพื่อรักษาขาของชายผู้บาดเจ็บ
+M20300-61_overview3,"Met the man with the injured leg, temporarily refuse to heal.",ข้าเห็นชายคนหนึ่งมีอาการบาดเจ็บที่ขาและปฏิเสธการรักษา
+M20300-61_npcname,A weak middle-aged man,ชายวัยกลางคนที่อ่อนแอ
+M20300-61_option1_4_dialog,"I've been stabbed and can't move, can you help me find some medicine?",ข้าถูกแทงขยับไม่ได้ เจ้าช่วยหายารักษาให้หน่อยได้ไหม?
+M20300-61_option1_1,I have some knowledge in medical skills and can heal you. <color=#097a76>(Medical level 30)</color>,ข้ามีความรู้ด้านการแพทย์อยู่บ้าง ข้าสามารถรักษาท่านได้ <color=#097a76>(ระดับการแพทย์ 30)</color>
+M20300-61_option1_2,I have a bottle of medicine that can heal you. <color=#097a76>(1 bottle of Healing medicine)</color>,ข้ามียารักษาที่สามารถรักษาท่านได้ <color=#097a76>(ยารักษา 1 )</color>
 M20300-61_option1_3,How can I save you?,ข้าจะช่วยเจ้าได้อย่างไร?
 M20300-61_option1_4,"I'm sorry, I can't help you. Goodbye~",ขออภัย ข้าคงช่วยเจ้าไม่ได้ ขอลาก่อน~
-M20300-61_option2_4_dialog,"Young man, are you here to heal me?"
-M20300-61_option2_1,I'll continue to heal you with my medical skills. <color=#097a76>(Medical level 30)</color>
-M20300-61_option2_2,I brought Healing medicine to apply on you. <color=#097a76>(1 bottle of Healing medicine)</color>
-M20300-61_option2_3,I'm here to arrest you! <color=#c44b0e>(Solo fight by the protagonist)</color>
-M20300-61_option2_4,"Hang in there, I'm not ready yet."
-M20300-61_option3_1,Agree to join Shi Chen's team
-M20300-61_option3_2,Reject Shi Chen's proposal
-M1100-20_name,The rage of the rooster
-M1100-20_overview,Subdue the angry rooster.
-M20300-4_name,Bounty
-M20300-4_overview,Arrest the fugitive
-M20300-4_1_2_overview,Have you seen a man with a <color=#c44b0e>knife wound on his leg</color>?
-M20300-4option1_1,Met a man with a leg injury in the north of Lin'an City.
-M20300-4option1_2,I'll take you to find this person.
-M20300-4option1_3,Can you provide more details?
-M20300-4option1_4,"I haven't seen him, goodbye."
-M20306-1_name,Enemies meet
+M20300-61_option2_4_dialog,"Young man, are you here to heal me?",น้องชาย เจ้ามาที่นี่เพื่อรักษาข้าใช่ไหม?
+M20300-61_option2_1,I'll continue to heal you with my medical skills. <color=#097a76>(Medical level 30)</color>,ข้าจะรักษาท่านต่อไปด้วยทักษะทางการแพทย์ของข้า <color=#097a76>(ระดับการแพทย์ 30)</color>
+M20300-61_option2_2,I brought Healing medicine to apply on you. <color=#097a76>(1 bottle of Healing medicine)</color>,ข้านำยารักษามาให้ท่าน <color=#097a76>(ยารักษา 1)</color>
+M20300-61_option2_3,I'm here to arrest you! <color=#c44b0e>(Solo fight by the protagonist)</color>,ข้ามาที่นี่เพื่อจับกุมคุณ! <color=#c44b0e>(การต่อสู้เดี่ยวโดยตัวเอก)</color>
+M20300-61_option2_4,"Hang in there, I'm not ready yet.",รอก่อน ข้ายังไม่พร้อม
+M20300-61_option3_1,Agree to join Shi Chen's team,ตกลงที่จะเข้าร่วมทีมของ ชิเฉิน
+M20300-61_option3_2,Reject Shi Chen's proposal,ปฏิเสธข้อเสนอของ ชิเฉิน
+M1100-20_name,The rage of the rooster,ความโกรธของไก่ตัวผู้
+M1100-20_overview,Subdue the angry rooster.,ปราบไก่ตัวผู้
+M20300-4_name,Bounty,เงินรางวัล
+M20300-4_overview,Arrest the fugitive,จับกุมผู้หลบหนี
+M20300-4_1_2_overview,Have you seen a man with a <color=#c44b0e>knife wound on his leg</color>?,เจ้าเคยเห็นผู้ชายที่มี <color=#c44b0e>แผลถูกมีดที่ขาหรือไม่</color>?
+M20300-4option1_1,Met a man with a leg injury in the north of Lin'an City.,พบชายคนหนึ่งที่มีอาการบาดเจ็บที่ขาทางตอนเหนือของเมืองหลินอัน
+M20300-4option1_2,I'll take you to find this person.,ข้าจะพาท่านไปหาคนนี้เอง
+M20300-4option1_3,Can you provide more details?,ท่านสามารถให้รายละเอียดเพิ่มเติมได้หรือไม่?
+M20300-4option1_4,"I haven't seen him, goodbye.",ข้าไม่เห็นเลย ขออภัย
+M20306-1_name,Enemies meet,ศัตรูมาพบกัน
 M20306-2_name,It's better to resolve enmities than to keep them
 M20319-1_name,Maiden House puzzle,ปริศนาตำหนักพิสุทธิ์
 M20319-1_overview1,"Crack the Maiden House puzzle: <color=#c44b0e>Monk with a painting, piano in Chu Pavilion, chess game hidden treasure, grass covering the gate</color>","ไขปริศนาตำหนักพิสุทธิ์: <color=#c44b0e>พระกับภาพวาด, พิณในตำหนัก, หมากรุกที่ซ่อนอยู่ร้านสมบัติ, ลายมือในศาลาว่าการ</color>"

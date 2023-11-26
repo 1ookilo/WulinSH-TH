@@ -1090,10 +1090,10 @@ Kill-2040_5_1,"{PlayerName}, you harbor evil intentions, you deserve to be punis
 Kill-2040_7_1,"You seem to have heard the opponent's last breath...\nThe battle is over.\nThis place once judged the good and evil of the martial arts world,\nWhether it's impartial or a lackey of the court.\nGood and evil are just people's wishful thinking.\nAnd for you, all of this has become unimportant.\nLet the people of the martial arts world say what they want to say...",ท่านเหมือนได้ยินลมหายใจสุดท้ายของศัตรู...\nการต่อสู้จบลงแล้ว\nที่แห่งนี้เคยเป็นสถานที่ซึ่งตัดสินดีชั่วในยุทธภพ\nไม่ว่าจะเป็นกลาง หรือเป็นสุนัขรับใช้ของเบื้องสูง\nจะดีจะเลวล้วนเป็นเพียงความคิดของผู้คน\nและสำหรับท่าน มันล้วนไม่สำคัญ\nชาวยุทธอยากพูดอะไรก็ปล่อยให้พูดไปเถอะ
 Kill-2040_7_2,"The Crime Investigation Bureau, they are all a bunch of nobodies!\nWith this level of strength, they want to maintain the order of the martial arts world, it's simply a dream!",สำนักสืบสวน ก็แค่พวกคนไร้ชื่อเสียง!\nด้วยฝีมือเพียงเท่านี้ คิดอยากจะยืนหยัดในยุทธภพงั้นรึ ฝันไปเถอะ!
 Kill-2040_8_1,"So strong, worthy of the Crime Investigation Bureau!\nThe best plan is to retreat!",ช่างแข็งแกร่งนัก สมแล้วที่เป็นสำนักสืบสวน!\nทางที่ดีรีบหนีดีกว่า!
-School-2040-1_talk,Assessment
+School-2040-1_talk,Assessment,การประเมิน
 School-2040-1_1_1,"{PlayerName}, you have been with the Crime Investigation Bureau for some time now, and today we have prepared an entry-level assessment to test your strength.",{PlayerName} เจ้าก็อยู่ในสำนักสืบสวนมาสักพักแล้ว วันนี้ข้าได้เตรียมบททดสอบแรกเข้าไว้ เพื่อทดสอบฝีมือของเจ้า
 School-2040-1_1_2,"If you are ready for the assessment, let's start on the horse."
-School-2040-1_option_1_1,Ask about the assessment rules.
+School-2040-1_option_1_1,Ask about the assessment rules.,ถามถึงกฎเกณฑ์การประเมิน
 School-2040-1_option_1_2,Participate in the assessment. <color=#097a76>(Specific battle)</color>,เข้าร่วมการทดสอบ<color=#097a76>(เข้าสู่การต่อสู้)</color>
 School-2040-1_option_1_3,Not ready yet.,ข้ายังไม่พร้อม
 School-2040-1_2_1,"The assessment is for you to face the four constables of our bureau alone. If you can beat them by yourself, you will have passed the entry-level assessment.",บททดสอบของเจ้าคือการต่อสู้กับมือปราบของเรา 4 คนด้วยตัวคนเดียว หากเจ้าชนะได้ ก็ถือว่าผ่านการทดสอบแรกเข้า
@@ -1129,7 +1129,7 @@ School-2040-2_5_4,"Your merit this time is too great, I must reward you heavily!
 School-2040-2_5_5,"I will now teach you our sect's ultimate move, <color=#c44b0e>No Escape</color>.",ตอนนี้ข้าจะสอนเจ้าถึงวิทยายุทธไม้ตายของสำนักเรา <color=#c44b0e>แหฟ้าตาข่ายดิน</color>
 School-2040-2_5_6,"The beauty of this move is that if we are outnumbered, it can call for fellow sect members to Assist and turn the tide; if the situation is unfavorable, fellow sect members will rush to hold off the enemy, buying you a chance to survive."
 School-2040-2_5_7,"Your merit this time is too great, in addition to the sect's ultimate move, I must reward you heavily!"
-School-2040-2_6_1,"Qianxue, step forward!"
+School-2040-2_6_1,"Qianxue, step forward!",เฉียนเสวี่ย ก้าวออกมา!
 School-2040-2_6_2,Yes!,ใช่!
 School-2040-2_6_3,"Qianxue, how do you feel about these days of experience with {PlayerName}?"
 School-2040-2_6_4,"Although {PlayerSurName} is a junior disciple, his experience and martial arts cultivation are above me. These days of experience have benefited me greatly."
@@ -1137,20 +1137,20 @@ School-2040-2_6_5,I hope you two can work together sincerely. Whether the Crime 
 School-2040-2_6_6,Subordinates obey!
 School-2040-2_7_1,"This task requires a high level of strength, it's best if you can find some reliable friends in the martial arts world to help you complete this task."
 School-2040-2_8_1,Come find me when you've thought it through.,คิดถี่ถ้วนแล้วก็มาหาข้าละกัน
-School-2040-3_1_1,What happened?
+School-2040-3_1_1,What happened?,เกิดอะไรขึ้น!
 School-2040-3_1_2,"Luo Tianxiong, I heard that a few small sects have caused heavy casualties to you, and now only a few cats are left. I really don't know what the need for the Crime Investigation Bureau is."
 School-2040-3_2_1,"Have you heard? A few days ago, a young hero wiped out three notorious thief dens, the Bandit Camp, Blue Wind Camp, and Sea Jiao Gang, all by himself."
 School-2040-3_2_2,"Our family has Recognized, but what does this have to do with you?"
-School-2040-3_2_3,That young hero is from our Crime Investigation Bureau!
+School-2040-3_2_3,That young hero is from our Crime Investigation Bureau!,นั่นจอมยุทธน้อยจากสำนักสืบสวนของเรา!
 School-2040-3_2_4,"{PlayerName}, step forward and let Tong Daofu of the Imperial City Department see!"
-School-2040-3_2_5,"{PlayerName}, pay respects to the Chief Catcher!"
+School-2040-3_2_5,"{PlayerName}, pay respects to the Chief Catcher!",{PlayerName} ทำความเคารพท่านหัวหน้ามือปราบ!
 School-2040-3_2_6,"{PlayerName}, pay respects to Lord Tong!"
 School-2040-3_2_7,"Our family thought it was some three-headed six-armed immortal descending to the earth, but it turns out to be a mortal of flesh and blood."
 School-2040-3_3_1,"Although my Crime Investigation Bureau is not what it used to be, we can still find some promising talents. With proper cultivation, we will soon restore the former glory of the Crime Investigation Bureau."
 School-2040-3_3_2,"As for Lord Tong's Imperial City Division, it's like a tree without roots, a river without a source. I wonder if there will be any need for its existence in a few years, when Lord Tong can no longer move?"
-School-2040-3_3_3,"You, you..."
+School-2040-3_3_3,"You, you...",เจ้า เจ้า...
 School-2040-3_3_4,"{PlayerName}, step forward and let Tong Daofu of the Imperial City Department see!"
-School-2040-3_3_5,"{PlayerName}, pay respects to the Chief Catcher!"
+School-2040-3_3_5,"{PlayerName}, pay respects to the Chief Catcher!",{PlayerName} ทำความเคารพท่านหัวหน้ามือปราบ!
 School-2040-3_3_6,"{PlayerName}, pay respects to Lord Tong!"
 School-2040-3_3_7,"Kid, since the Chief Catcher values you so much, I will have to keep an eye on you in the future."
 School-2040-3_4_1,"Lord Tong, you didn't come to the Crime Investigation Bureau today just to show off, did you?"
@@ -1378,7 +1378,7 @@ School-2070-1_2_3,Only by passing this test will you become a true disciple of L
 School-2070-1_3_1,Don't let me down!
 School-2070-1_4_1,Indeed extraordinary!\nIt seems that Langya Sword Pavilion has a successor.,วิเศษจริงๆ!\nดูเหมือนว่าศาลากระบี่หลางหยาจะมีผู้สืบทอดแล้ว
 School-2070-1_5_1,"Don't be arrogant if you win, don't be discouraged if you lose. Since you lost, go down and practice hard, and then come to compete."
-School-2070-2_name,Suspicious person
+School-2070-2_name,Suspicious person,บุคคลที่น่าสงสัย
 School-2070-2_log_1,Find all suspicious people in Langya Sword Pavilion.,ค้นหาผู้ต้องสงสัยทั้งหมดในศาลากระบี่หลางหยา
 School-2070-2_log_2,"Inform the pavilion master, Jian Chi, of the progress of the matter."
 School-2070-2_1_1,"{PlayerName}, there have been suspicious people lurking among the disciples of our pavilion recently. The old man orders you to find them all within <color=#c44b0e>two shichen</color> to prevent the Sword Pavilion from suffering unexpected events. Remember, don't miss any corner, including the back mountain."
@@ -2955,13 +2955,13 @@ R10009-1_3_5,"Damn, it's an ambush!"
 R10009-1_4_1,"I'll give you back the Money bag, I really messed up this time.\nI have old people and children to take care of, please let me go.",ข้าจะคืนถุงเงินให้เจ้า ครั้งนี้ข้าทำจริงๆ\nข้ามีคนแก่และลูกๆ ที่ต้องดูแลโปรดปล่อยข้าไปเถอะ
 R10009-1_4_2,(Checked the Money bag carefully and nothing is missing),(ตรวจสอบถุงเงินอย่างระมัดระวังและไม่มีอะไรหายไป)
 R10009-1_4_3,"You can go, if you steal again and bump into me, be careful I'll break your hand!"
-R10009-1_4_4,I dare not... I dare not anymore
+R10009-1_4_4,I dare not... I dare not anymore,ข้ามิกล้า... มิกล้าแล้ว
 R10009-1_4_5,I'm really lucky to meet you here!\nThank you for helping me get my Money bag back.,ข้าโชคดีมากที่ได้พบเจ้าที่นี่!\nขอบใจมากที่ช่วยข้าเอาถุงเงินของข้าคืน
 R10009-1_4_6,Haven't you returned to the Ye Family Battalion camp yet? Aren't you afraid of your father's punishment?
 R10009-1_4_7,"It's not easy to have a chance to come out, I have to have fun before I go back."
 R10009-1_5_1,"But, I've had enough fun, it's time to go back.\nRemember to come to the Ye Family Battalion to play when you are free~"
 R10009-1_6_1,"I still want to visit other cities, maybe we will meet again."
-R10009-1_6_2,"{PlayerName}, see you later."
+R10009-1_6_2,"{PlayerName}, see you later.",{PlayerName} ไว้พบกัน
 R10009-1_7_1,"Two naive kids, really asking for trouble.\nI'll take the money in this Money bag, consider it as a gift to me.",เด็กไร้เดียงสาสองคนถามหาเรื่องจริงๆ\nข้าจะเอาเงินใส่ถุงเงินนี้ ถือว่าเป็นของขวัญสำหรับข้า
 R10009-1_7_2,"{yell} You damn thief, give me back my Money bag!",{yell} ไอ้โจรชั่ว เอาถุงเงินของข้าคืนมา!
 R10009-2_1_1,"Miss Ye, didn't expect to meet you here again."
@@ -5078,7 +5078,7 @@ Role3-21_2_2,"I am {PlayerName}, here to..."
 Role3-21_2_3,"So it's Lord {PlayerSurName}, His Majesty is waiting for you, I apologize for the offense just now, please enter the hall."
 Role3-21_3_1,"Hey, {PlayerName}, I didn't expect you to walk into the trap yourself!"
 Role3-21_op_1_1,Force your way into the traveling palace!
-Role3-21_op_1_2,Turn around and run away.
+Role3-21_op_1_2,Turn around and run away.,หันหลังและจากไป
 Role3-21_5_1,"All guards listen to the order, this is a rebel from the Ye Family Battalion, a criminal wanted by His Majesty, quickly arrest him!"
 Role3-21_5_2,……
 Role3-21_5_3,"Don't you dare move, do you want to be traitors too?"
@@ -5895,8 +5895,8 @@ Spe-2030-3_41_1,"It must be because I came in a hurry today and didn't show enou
 Spe-2030-3_42,"After finishing speaking, turn around and walk out."
 Spe-2030-3_43,"Walk from the door to the designated location, looking at the protagonist."
 Spe-2030-3_44_1,Stop doing boring things and come play a game of chess with me!
-Spe-2030-3_op_4_1,Agree to play chess.
-Spe-2030-3_op_4_2,Not interested.
+Spe-2030-3_op_4_1,Agree to play chess.,ตกลงที่จะเล่นหมากรุก
+Spe-2030-3_op_4_2,Not interested.,ไม่สนใจ
 Spe-2030-3_45_1,You have no say in this!
 Spe-2030-3_46_1,"You hold the black pieces, I hold the white pieces, black goes first, white goes second."
 Spe-2030-3_47_1,I admit defeat. It seems I still need to polish my chess skills.
@@ -5906,9 +5906,9 @@ Spe-2030-3_49_1,"I'll let you go today, I'll come to find you another day."
 Spe-2030-3_50_1,What a disappointment!
 Spe-2030-3_51,"After finishing speaking, turn around and walk out."
 Spe-2030-3_52,"Walk from the door to the designated location, looking at the protagonist."
-Spe-2030-3_53_1,…………
+Spe-2030-3_53_1,…………,…………
 Spe-2030-3_54_1,"After finishing speaking, turn around and walk out."
-Spe-2030-3_55_1,"{PlayerName}, are you going to waste all your time here?"
+Spe-2030-3_55_1,"{PlayerName}, are you going to waste all your time here?",{PlayerName} เจ้าจะมัวเสียเวลาอยู่ที่นี่ทำไม?
 Spe-2030-3_55_2,"I have pleaded with Mr. Siye and spared you from punishment. This is the only time, don't take it for granted!"
 Spe-2030-3_55_3,"If you only do those low-level things, you are not worthy to be my brother!"
 end035_1,"You are diligent and studious, never ceasing to read."
@@ -5923,7 +5923,7 @@ Day-2030-1_talking,Morning class
 Day-2030-1_1_1,"The morning class has already started, go find a seat and sit down to read the books of the sages, don't waste this great time."
 Day-2030-1_5_1,"At the beginning of man, the nature is good|If the child does not learn, the loom is broken|Heaven and earth Mysterious Yellow, universe Primal Land|Leap year makes a year, the musical scale adjusts the sun|Zhao, Qian, Sun, Li, Zhou, Wu, Zheng, Wang|Feng, Chen, Chu, Wei, Jiang, Shen, Han, Yang|Honorable people are guided by justice, while the ignoble are guided by profit|It's not scarcity we should fear, but inequality; not poverty, but unrest|An army's commander can be captured, but a man's will cannot be taken|You throw a peach to me, I give you a plum in return|A lady of elegance and grace, a gentleman's courtship|Hold your hand, and grow old with you|Do not do to others what you do not want done to yourself|Honorable people are open and candid, while the ignoble are always in fear"
 Day-2030-1_5_2,One shichen later...,หนึ่งชั่วยามต่อมา
-Day-2030-5_talking,Play chess
+Day-2030-5_talking,Play chess,เล่นหมากรุก
 Day-2030-5_1_1,Are you trying to probe my thoughts through chess? I won't give you the chance.
 Day-2030-5_1_2,(This guy is really serious)
 Day-2030-5_2_1,"Kid, come and play a game of chess with me!"
@@ -6584,53 +6584,53 @@ BattleFieldFail_M20209-2对战江湖人,<#61C3C8>All of us</color> are defeated,
 BattleFieldInfo_Role3-21对战佟道辅,<#61C3C8>All of your team</color> participate in the battle
 BattleFieldWin_Role3-21对战佟道辅,Defeat <#61C3C8>All Enemies</color>
 BattleFieldFail_Role3-21对战佟道辅,<#61C3C8>All of us</color> are defeated,<#61C3C8>พวกเราทั้งหมด</color>พ่ายแพ้
-BattleFieldInfo_Role3-21对战5将军,<#61C3C8>All of your team</color> participate in the battle
-BattleFieldWin_Role3-21对战5将军,Defeat <#61C3C8>All Enemies</color>
+BattleFieldInfo_Role3-21对战5将军,<#61C3C8>All of your team</color> participate in the battle,<#61C3C8>พรรคพวกทุกคน</color> เข้าร่วมการต่อสู้
+BattleFieldWin_Role3-21对战5将军,Defeat <#61C3C8>All Enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_Role3-21对战5将军,<#61C3C8>All of us</color> are defeated,<#61C3C8>พวกเราทั้งหมด</color>พ่ายแพ้
-BattleFieldInfo_M20100-23主角儒圣馆,<#61C3C8>All of your team</color> participate in the battle
-BattleFieldWin_M20100-23主角儒圣馆,Defeat <#61C3C8>All Enemies</color>
+BattleFieldInfo_M20100-23主角儒圣馆,<#61C3C8>All of your team</color> participate in the battle,<#61C3C8>พรรคพวกทุกคน</color> เข้าร่วมการต่อสู้
+BattleFieldWin_M20100-23主角儒圣馆,Defeat <#61C3C8>All Enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_M20100-23主角儒圣馆,<#61C3C8>All of us</color> are defeated,<#61C3C8>พวกเราทั้งหมด</color>พ่ายแพ้
-BattleFieldInfo_M20100-23主角释法寺,<#61C3C8>All of your team</color> participate in the battle
-BattleFieldWin_M20100-23主角释法寺,Defeat <#61C3C8>All Enemies</color>
+BattleFieldInfo_M20100-23主角释法寺,<#61C3C8>All of your team</color> participate in the battle,<#61C3C8>พรรคพวกทุกคน</color> เข้าร่วมการต่อสู้
+BattleFieldWin_M20100-23主角释法寺,Defeat <#61C3C8>All Enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_M20100-23主角释法寺,<#61C3C8>All of us</color> are defeated,<#61C3C8>พวกเราทั้งหมด</color>พ่ายแพ้
-BattleFieldInfo_M20100-23主角道玄宗,<#61C3C8>All of your team</color> participate in the battle
-BattleFieldWin_M20100-23主角道玄宗,Defeat <#61C3C8>All Enemies</color>
+BattleFieldInfo_M20100-23主角道玄宗,<#61C3C8>All of your team</color> participate in the battle,<#61C3C8>พรรคพวกทุกคน</color> เข้าร่วมการต่อสู้
+BattleFieldWin_M20100-23主角道玄宗,Defeat <#61C3C8>All Enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_M20100-23主角道玄宗,<#61C3C8>All of us</color> are defeated,<#61C3C8>พวกเราทั้งหมด</color>พ่ายแพ้
-BattleFieldInfo_M20100-23主角三不是,<#61C3C8>All of your team</color> participate in the battle
-BattleFieldWin_M20100-23主角三不是,Defeat <#61C3C8>All Enemies</color>
+BattleFieldInfo_M20100-23主角三不是,<#61C3C8>All of your team</color> participate in the battle,<#61C3C8>พรรคพวกทุกคน</color> เข้าร่วมการต่อสู้
+BattleFieldWin_M20100-23主角三不是,Defeat <#61C3C8>All Enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_M20100-23主角三不是,<#61C3C8>All of us</color> are defeated,<#61C3C8>พวกเราทั้งหมด</color>พ่ายแพ้
-BattleFieldInfo_M20100-24_对战路人损道人,<#61C3C8>All of your team</color> participate in the battle
-BattleFieldWin_M20100-24_对战路人损道人,Defeat <#61C3C8>All Enemies</color>
+BattleFieldInfo_M20100-24_对战路人损道人,<#61C3C8>All of your team</color> participate in the battle,<#61C3C8>พรรคพวกทุกคน</color> เข้าร่วมการต่อสู้
+BattleFieldWin_M20100-24_对战路人损道人,Defeat <#61C3C8>All Enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_M20100-24_对战路人损道人,<#61C3C8>All of us</color> are defeated,<#61C3C8>พวกเราทั้งหมด</color>พ่ายแพ้
-BattleFieldInfo_M2000-22战斗鹅,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldInfo_M2000-22战斗鹅,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_M2000-22战斗鹅,Defeated the <#61C3C8>Big White Goose</color>
-BattleFieldFail_M2000-22战斗鹅,<#61C3C8>{PlayerName}</color> is defeated
-School-2010-B3_10_4,"{PlayerSurName}, take care of yourself."
+BattleFieldFail_M2000-22战斗鹅,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
+School-2010-B3_10_4,"{PlayerSurName}, take care of yourself.",{PlayerSurName} ดูแลตัวเองด้วย
 School-1010-1_6_1,"All newcomers to the stronghold must go through a test before they are qualified to work for the stronghold. You look too weak now, why bother to ask for trouble? Let's get your level up to <color=#c44b0e>15</color> first."
-School-1010-3_talking,Sworn Brothers
+School-1010-3_talking,Sworn Brothers,พี่น้องร่วมสาบาน
 School-1010-3_2_3,I can only seek another way and find a new place to settle down.
-School-1010-3_3_13,"With the promise of the big brother, I will feel more secure in doing things in the future."
-School-1010-3_6_1,"{PlayerSurName} brother, with your skills and means, it's really a waste to be in this Blue Wind Camp. If you don't mind, I, old Kong, want to become inseparable brothers with you. What do you think?"
-School-1010-3_op_1_dialog,"(The big boss is sincere, how should I respond?)"
-School-1010-3_op_1_1,Agree to become sworn brothers with the big boss.
-School-1010-3_op_1_2,Politely decline the big boss's kindness.
+School-1010-3_3_13,"With the promise of the big brother, I will feel more secure in doing things in the future.",ด้วยคำสัญญาของพี่ใหญ่ ทำให้ข้ารู้สึกมั่นใจในการกระทำสิ่งต่างๆในภายภาคหน้า
+School-1010-3_6_1,"{PlayerSurName} brother, with your skills and means, it's really a waste to be in this Blue Wind Camp. If you don't mind, I, old Kong, want to become inseparable brothers with you. What do you think?",น้อง{PlayerSurName} ด้วยทักษะและความสามารถของเจ้า มันช่างน่าเสียดายจริงๆหากจะต้องอยู่ในค่ายวายุครามแห่งนี้ ถ้าเจ้าไม่รังเกียจ ข้าพี่ใหญ่ขง อยากสาบานเป็นพี่น้องกับเจ้า เจ้าคิดเห็นว่าอย่างไร?
+School-1010-3_op_1_dialog,"(The big boss is sincere, how should I respond?)",(หัวหน้าใหญ่จริงจังกับเรื่องนี้ ข้าจะตอบอย่างไรดี?)
+School-1010-3_op_1_1,Agree to become sworn brothers with the big boss.,ตกลงสาบานเป็นพี่น้องกับหัวหน้าใหญ่
+School-1010-3_op_1_2,Politely decline the big boss's kindness.,ปฏิเสธน้ำใจของหัวหน้าใหญ่อย่างสุภาพ
 School-1010-3_7_1,"Haha, it's okay, it's me, old Kong, who was too abrupt. What I said is always valid. Whenever you want to recognize me, old Kong, as your big brother, you can find me anytime."
-School-1010-3_8_1,"{PlayerSurName} brother, how do you consider the matter of becoming sworn brothers?"
+School-1010-3_8_1,"{PlayerSurName} brother, how do you consider the matter of becoming sworn brothers?",น้อง{PlayerSurName} เจ้าคิดอย่างไรเกี่ยวกับการสาบานเป็นพี่น้อง?
 School-1010-3_9_1,"Hahaha, it's better to choose a day than hit the day. How about we become inseparable brothers under the witness of all the brothers in this Righteous Hall today?","ฮ่าฮ่าฮ่า, เลือกวันได้ดี แล้ววันนี้เราจะกลายเป็นพี่น้องร่วมสาบานภายใต้สักขีพยานของพี่น้องทุกคนในหอคุณธรรมนี้ได้อย่างไร"
-School-1010-3_9_2,It's all up to the big boss.
-School-1010-3_9_3,"I, Kong Yidao!"
-School-1010-3_9_4,{PlayerName}。
-School-1010-3_9_5,Become inseparable brothers today
-School-1010-3_9_6,"Not seeking to be born in the same year, same month"
-School-1010-3_9_7,"But seeking to die in the same year, same month"
-School-1010-3_9_8,If there is any violation...
-School-1010-3_9_9,"Listen up, you thieves of Blue Wind Camp!"
+School-1010-3_9_2,It's all up to the big boss.,ทุกอย่างขึ้นอยู่กับท่านหัวหน้าใหญ่
+School-1010-3_9_3,"I, Kong Yidao!",ข้า ขงอี้เตา!
+School-1010-3_9_4,{PlayerName}。,{PlayerName}
+School-1010-3_9_5,Become inseparable brothers today,วันนี้ขอสาบานเป็นพี่น้อง
+School-1010-3_9_6,"Not seeking to be born in the same year, same month",แม้มิได้เกิดเดือนเดียวปีเดียวกัน
+School-1010-3_9_7,"But seeking to die in the same year, same month",แต่จะขอตายเดือนเดียวปีเดียวกัน
+School-1010-3_9_8,If there is any violation...,หากมีการฝ่าฝืนใดๆ...
+School-1010-3_9_9,"Listen up, you thieves of Blue Wind Camp!",เหล่าโจรแห่งค่ายวายุครามจงฟัง!
 School-1010-3_9_10,"You harm the people and are full of evil! Today, I am here on the orders of the pacification commissioner to flatten your stronghold!"
 School-1010-3_9_11,"It's that guy with the surname Lu who is causing trouble again, even messing up the good things between me and {PlayerSurName} brother, he is simply intolerable!"
 School-1010-3_9_12,"{PlayerSurName} brother, come with me to see how many guts they have to come to Blue Wind Camp and talk big!"
 School-1010-3_9_13,"Go back and tell your master that if he wants to exchange the lives of my brothers in Blue Wind Camp for his own bright future, I absolutely refuse!"
 School-1010-3_9_14,"Big brother, rest assured, we swear to live and die with Blue Wind Camp!"
-School-1010-3_9_15,"Good brother, I've had enough in this life!"
+School-1010-3_9_15,"Good brother, I've had enough in this life!",พี่น้องที่ดี ชีวิตนี้ข้าพึงพอใจแล้ว!
 School-1010-3_9_16,{yell}<size=150%>Cut the grass and remove the roots\nLeave no one!</size>
 Skill-2140_6_1,"This time, our Nest of Swallow really picked up a treasure. I didn't expect you to be so proficient in the way of stealing. The future growth of Nest of Swallow depends on you!"
 School-2140-1_7_1,You new disciples who have just joined the Nest of Swallow are still too weak and haven't shown any outstanding character. Come find me when you reach <color=#c44b0e>level 15</color>.
@@ -6647,11 +6647,11 @@ School-2040-4_talking,Crisis
 School-2040-4_5_1,"{PlayerName}, we are now facing a crisis that could lead to the destruction of the Crime Investigation Bureau at any time, and I want to know your attitude at this moment."
 School-2040-4_op_1_dialog,A crisis that could lead to the destruction of the Crime Investigation Bureau at any time...\nMy attitude...
 School-2040-4_op_1_1,Stand or fall with the Crime Investigation Bureau! (High-intensity battle)
-School-2040-4_op_1_2,Let me think about it
+School-2040-4_op_1_2,Let me think about it,ให้ข้าคิดดูก่อน
 School-2040-4_6_1,"Good, I knew I didn't misjudge you!\nNext, let's welcome our distinguished guest together."
 School-2070-1_6_1,"The Langya Sword Pavilion has a rule that new disciples must pass the test arranged by the old man to truly become a disciple of the Sword Pavilion. Your current strength is too weak, wait until you reach <color=#c44b0e>level 25</color> to talk."
 School-2070-1_6_2,"During this time, you can spar with the <color=#c44b0e>practice disciple</color> of our pavilion to quickly improve your own level."
-School-2070-2_talking,Suspicious
+School-2070-2_talking,Suspicious,น่าสงสัย
 School-2070-2_log_3,Come back to Jian Chi for a task when you reach level 35.
 School-2070-2_log_4,You can now go to Jian Chi to accept the task of investigating suspicious people.
 School-2070-2_13_1,"Recently, there have been suspicious individuals lurking around this pavilion. I originally planned to assign you to investigate this matter. However, your skills are too weak to undertake this task. Let's wait until your strength improves further."
@@ -6729,7 +6729,7 @@ XS2140-1_13_1,"It's a pity that we couldn't save this brother, this mission is c
 XS2140-1_13_2,The head catcher just said that they will eventually find the location of Nest of Swallow. Could it be that Nest of Swallow has been too ostentatious recently?
 XS2140-1_14_1,"That was too dangerous just now, I almost lost my life.\nAlas, I failed to rescue the brother from the prison, this mission is considered a failure."
 XS2140-1_14_2,The head catcher just said that they will eventually find the location of Nest of Swallow. Could it be that Nest of Swallow has been too ostentatious recently?
-XS2040-1_talking,Patrol
+XS2040-1_talking,Patrol,ลาดตระเวน
 XS2040-1_log_2,You have participated in {TagNum:神捕门巡逻} Crime Investigation Bureau patrols.
 XS2040-1_log_3,I wonder if Chief Luo has any new arrangements today.
 XS2040-1_8_1,"Those who dared to offend the Crime Investigation Bureau have been mostly dealt with, at least today should be more peaceful."
@@ -6996,10 +6996,10 @@ School-2050-3_12_2,"{PlayerName} You've worked hard.\nYou handled this matter ap
 School-2050-3_12_3,I will teach you my unique skill as a reward.
 School-2050-3_12_4,"Thank you, leader."
 School-2050-3_13_1,"The special envoy should still be Above river, not far away, you must personally deliver the silver ticket to him."
-School-2050-4_name,Hongmen Banquet
-School-2050-4_talking,Attend the banquet
+School-2050-4_name,Hongmen Banquet,งานเลี้ยงหงเหมิน
+School-2050-4_talking,Attend the banquet,เข้าร่วมงานเลี้ยง
 School-2050-4_log_1,Go to Lin'an CityDuke Kang's manor to meet Kang Wang.
-School-2050-4_log_2,Return to Jiujiang Water Camp to report.
+School-2050-4_log_2,Return to Jiujiang Water Camp to report.,กลับไปรายงานที่ค่ายน้ำจิ่วเจียง
 School-2050-4_1_1,"I'm not very confident about entrusting this task to you, let's think it over."
 School-2050-4_1_2,"(It seems that the leader still has doubts about my strength, I'll come back when my Level reaches 50.)"
 School-2050-4_2_1,"Kang Wang invites me to a banquet in Lin'an City, there's no good wine or banquet, I wonder what he's up to."

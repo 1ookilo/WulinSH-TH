@@ -336,7 +336,7 @@ UIMenuPanel_UIMartialArts_SetUp_xiulian_SomeThing_Level_jiangyan,EXP,ค่า�
 UIMenuPanel_UIMartialArts_SetUp_xiulian_SomeThing_Level_jiangyan_txt,10000/10000,10000/10000
 UIMenuPanel_UIMartialArts_SetUp_xiulian_SomeThing_Effect_Text(TMP),Next level effect,ผลของระดับถัดไป
 UIMenuPanel_UIMartialArts_SetUp_xiulian_SomeThing_Effect_waigong_weili,Power,พลัง
-UIMenuPanel_UIMartialArts_SetUp_xiulian_SomeThing_Effect_waigong_weili_txt,200
+UIMenuPanel_UIMartialArts_SetUp_xiulian_SomeThing_Effect_waigong_weili_txt,200,200
 UIMenuPanel_UIMartialArts_SetUp_xiulian_SomeThing_Effect_waigong_shuxing,Attribute bonus,คุณสมบัติเพิ่มเติม
 UIMenuPanel_UIMartialArts_SetUp_xiulian_SomeThing_Effect_waigong_shuixing_txt,          
 UIMenuPanel_UIMartialArts_SetUp_xiulian_SomeThing_Effect_neigong_shuxing,Attribute bonus,คุณสมบัติเพิ่มเติม
@@ -353,7 +353,7 @@ UIMenuPanel_NewAcupoint_Acupoint_env_Info_JmInfo_isDatong_Text(TMP),Comprehended
 UIMenuPanel_NewAcupoint_Acupoint_env_Info_JmInfo_chongxue,Consume <color=#56FF62>{0}</color> Comprehension Points,ใช้แต้มเรียนรู้ <color=#56FF62>{0}</color> แต้ม
 UIMenuPanel_NewAcupoint_Acupoint_env_Info_JmInfo_chongxue_index,1,1
 UIMenuPanel_NewAcupoint_Acupoint_chongxuedian_tag,Current Comprehension Points,แต้มเรียนรู้ปัจจุบัน
-UIMenuPanel_NewAcupoint_Acupoint_chongxuedian_num,99
+UIMenuPanel_NewAcupoint_Acupoint_chongxuedian_num,99,99
 UIMenuPanel_NewAcupoint_JingMaiTag_dong_name,Wind,ลม
 UIMenuPanel_NewAcupoint_JingMaiTag_dong_selectImg_name,Wind,ลม
 UIMenuPanel_NewAcupoint_JingMaiTag_jing_name,Mountain,เขา
@@ -434,7 +434,7 @@ UIAbility_down_namePanel_name,Mining,ขุดแร่
 UIAbility_down_namePanel_nameInfo,<color=#FF0000>(Master),<color=#FF0000>(อาจารย์)
 UIAbility_down_info,Content Storyline Content Storyline Content Storyline Content Storyline Content Storyline Content Storyline Content Storyline Content Storyline Content Storyline Content Storyline Content
 UIAbility_down_tag,Skill Experience,ประสบการณ์ทักษะ
-UIAbility_down_exp,10/200
+UIAbility_down_exp,10/200,10/200
 UIAbility_down_Button_txt,Promote
 AchieveBox_title,Unrivaled in the World
 AchieveBox_msg,Achievement content uncertain number of words Achievement content uncertain number of words Achievement content uncertain number of words Achievement content uncertain number of words Achievement content uncertain number of words
@@ -991,30 +991,30 @@ UICookPanel_leftPanel_tittle_caiyaoItem_txt,Side,เครื่องเขี�
 UICookPanel_leftPanel_tittle_caiyaoItem_txt_c,Side,เครื่องเขียง
 UICookPanel_leftPanel_tittle_zhoutangItem_txt,Soup,น้ำแกง
 UICookPanel_leftPanel_tittle_zhoutangItem_txt_c,Soup,น้ำแกง
-UICookPanel_leftPanel_check_dazao_txt,Can be cooked
+UICookPanel_leftPanel_check_dazao_txt,Can be cooked,ทำอาหารได้
 UICookPanel_rightPanel_ImgBgPanel_tag,Cooking Level:  Level
 UICookPanel_rightPanel_ImgBgPanel_index,5,5
 UICookPanel_rightPanel_numPanel_bg_index,1,1
 UICookPanel_rightPanel_numPanel_InputField_TextArea_Placeholder,1,1
 UICookPanel_rightPanel_numPanel_InputField_TextArea_Text,​
-UICookPanel_rightPanel_ForgeBtn_txt,Start Cooking
+UICookPanel_rightPanel_ForgeBtn_txt,Start Cooking,เริ่มทำอาหาร
 UICookPanel_upTips_txt,Insufficient Material,วัตถุดิบไม่พอ
 UICookPanel_complete_Mask_panel_1_1_tittle,Main stats,สถานะหลัก
-UICookPanel_complete_Mask_panel_1_1_1,Attack     1000
-UICookPanel_complete_Mask_panel_1_1_2,Attack     1000
-UICookPanel_complete_Mask_panel_1_1_3,Attack     1000
+UICookPanel_complete_Mask_panel_1_1_1,Attack     1000,Attack     1000
+UICookPanel_complete_Mask_panel_1_1_2,Attack     1000,Attack     1000
+UICookPanel_complete_Mask_panel_1_1_3,Attack     1000,Attack     1000
 UICookPanel_complete_Mask_panel_2_1_tittle,Main stats,สถานะหลัก
-UICookPanel_complete_Mask_panel_2_1_1,Attack     1000
-UICookPanel_complete_Mask_panel_2_1_2,Attack     1000
-UICookPanel_complete_Mask_panel_2_1_3,Attack     1000
+UICookPanel_complete_Mask_panel_2_1_1,Attack     1000,Attack     1000
+UICookPanel_complete_Mask_panel_2_1_2,Attack     1000,Attack     1000
+UICookPanel_complete_Mask_panel_2_1_3,Attack     1000,Attack     1000
 UICookPanel_complete_Mask_panel_3_1_tittle,Main stats,สถานะหลัก
 UICookPanel_complete_Mask_panel_3_1_1,Attack     1000Attack     1000Attack     1000Attack     1000Attack     1000Attack     1000
-UICookPanel_complete_Mask_panel_3_1_2,Attack     1000
-UICookPanel_complete_Mask_panel_3_1_3,Attack     1000
+UICookPanel_complete_Mask_panel_3_1_2,Attack     1000,Attack     1000
+UICookPanel_complete_Mask_panel_3_1_3,Attack     1000,Attack     1000
 UICookPanel_complete_Mask_panel_4_1_tittle,Main stats,สถานะหลัก
-UICookPanel_complete_Mask_panel_4_1_1,Attack     1000
-UICookPanel_complete_Mask_panel_4_1_2,Attack     1000
-UICookPanel_complete_Mask_panel_4_1_3,Attack     1000
+UICookPanel_complete_Mask_panel_4_1_1,Attack     1000,Attack     1000
+UICookPanel_complete_Mask_panel_4_1_2,Attack     1000,Attack     1000
+UICookPanel_complete_Mask_panel_4_1_3,Attack     1000,Attack     1000
 UICookPanel_complete_animation_name_txt,Weapon Name,ชื่ออาวุธ
 UICookPanel_complete_Button_txt,Click anywhere to close,คลิกที่ว่างเพื่อปิด
 UISundriesPanel_item_bg_name,Green Blood Sword,กระบี่เลือดมรกต
@@ -1036,35 +1036,35 @@ UITailorPanel_leftPanel_check_dazao_txt,Can be tailored
 UITailorPanel_leftPanel_tittle_tag,Clothing List
 UITailorPanel_rightPanel_bg_tag,Tailoring Level:  Level
 UITailorPanel_rightPanel_bg_index,5,5
-UITailorPanel_rightPanel_ForgeBtn_txt,Start tailoring
+UITailorPanel_rightPanel_ForgeBtn_txt,Start tailoring,เริ่มตัดเย็บ
 UITailorPanel_EffectPanel_tag,"Note: The higher the tailoring skill, the stronger the special effect"
 UITailorPanel_EffectPanel_Text(TMP),Special effect
 UITailorPanel_EffectPanel_EffectItem_EffectName,Special name
 UITailorPanel_EffectPanel_EffectItem_info,"When using knife martial arts, there is a 10%-30% chance to attack again","เมื่อใช้วรยุทธประเภทมีด,มีโอกาศ 10%-30% ที่จะโจมตีอีกครั้ง"
 UITailorPanel_upTips_txt,Insufficient Material,วัตถุดิบไม่พอ
 UITailorPanel_complete_Mask_panel_1_1_tittle,Main stats,สถานะหลัก
-UITailorPanel_complete_Mask_panel_1_1_1,Attack     1000
-UITailorPanel_complete_Mask_panel_1_1_2,Attack     1000
-UITailorPanel_complete_Mask_panel_1_1_3,Attack     1000
+UITailorPanel_complete_Mask_panel_1_1_1,Attack     1000,Attack     1000
+UITailorPanel_complete_Mask_panel_1_1_2,Attack     1000,Attack     1000
+UITailorPanel_complete_Mask_panel_1_1_3,Attack     1000,Attack     1000
 UITailorPanel_complete_Mask_panel_2_1_tittle,Main stats,สถานะหลัก
-UITailorPanel_complete_Mask_panel_2_1_1,Attack     1000
-UITailorPanel_complete_Mask_panel_2_1_2,Attack     1000
-UITailorPanel_complete_Mask_panel_2_1_3,Attack     1000
+UITailorPanel_complete_Mask_panel_2_1_1,Attack     1000,Attack     1000
+UITailorPanel_complete_Mask_panel_2_1_2,Attack     1000,Attack     1000
+UITailorPanel_complete_Mask_panel_2_1_3,Attack     1000,Attack     1000
 UITailorPanel_complete_Mask_panel_3_1_tittle,Main stats,สถานะหลัก
 UITailorPanel_complete_Mask_panel_3_1_1,Attack     1000Attack     1000Attack     1000Attack     1000Attack     1000Attack     1000
-UITailorPanel_complete_Mask_panel_3_1_2,Attack     1000
-UITailorPanel_complete_Mask_panel_3_1_3,Attack     1000
+UITailorPanel_complete_Mask_panel_3_1_2,Attack     1000,Attack     1000
+UITailorPanel_complete_Mask_panel_3_1_3,Attack     1000,Attack     1000
 UITailorPanel_complete_Mask_panel_4_1_tittle,Main stats,สถานะหลัก
-UITailorPanel_complete_Mask_panel_4_1_1,Attack     1000
-UITailorPanel_complete_Mask_panel_4_1_2,Attack     1000
-UITailorPanel_complete_Mask_panel_4_1_3,Attack     1000
+UITailorPanel_complete_Mask_panel_4_1_1,Attack     1000,Attack     1000
+UITailorPanel_complete_Mask_panel_4_1_2,Attack     1000,Attack     1000
+UITailorPanel_complete_Mask_panel_4_1_3,Attack     1000,Attack     1000
 UITailorPanel_complete_animation_name_txt,Weapon Name,ชื่ออาวุธ
 UITailorPanel_complete_Button_txt,Click anywhere to close
 ConsoleUI_Return_Text(TMP),Return,ย้อนกลับ
-ConsoleUI_Text(TMP),Please enter the command
-ConsoleUI_Command_Image_InputField(TMP)_TextArea_Placeholder,Please enter the command
-ConsoleUI_Command_Image_InputField(TMP)_TextArea_Text,​
-ConsoleUI_CommanError,Invalid command
+ConsoleUI_Text(TMP),Please enter the command,โปรดป้อนคำสั่ง
+ConsoleUI_Command_Image_InputField(TMP)_TextArea_Placeholder,Please enter the command,โปรดป้อนคำสั่ง
+ConsoleUI_Command_Image_InputField(TMP)_TextArea_Text,​,
+ConsoleUI_CommanError,Invalid command,คำสั่งไม่ถูกต้อง
 ConsoleUI_CommanOk,Execution successful
 ConsoleUI_CommonTitle,---------Common commands---------
 ConsoleUI_CommonCommands_Button_Console_Text(TMP),Millionaire
@@ -1268,7 +1268,7 @@ MainMenuUI_Bg_TeamName,Half Amateur Studio,Half Amateur Studio
 MainMenuUI_Bg_CopyRightMask_CopyRightText,"Publisher: Anhui Xinhua Electronic Audiovisual Publishing House  Copyright owner: Beijing Prime Magic Square Technology Co., Ltd.  Approval number:                  Publication number:","Publisher: Anhui Xinhua Electronic Audiovisual Publishing House  Copyright owner: Beijing Prime Magic Square Technology Co., Ltd.  Approval number:                  Publication number:"
 MainMenuUI_Bg_Buttons_ModButton_Text(TMP),Creative Workshop,Creative Workshop
 MainMenuUI_Bg_BillboardButton_Text(TMP),Ann.,ประกาศ
-MainMenuUI_Bg_WishListButton_Text(TMP)(1),Add to Wishlist
+MainMenuUI_Bg_WishListButton_Text(TMP)(1),Add to Wishlist,เพิ่มในสิ่งที่อยากได้
 MainMenuUI_Bg_Buttons_ContinueButton_Text(TMP),Continue,เล่นต่อ
 MainMenuUI_Bg_Buttons_StartButton_Text(TMP),Start,เริ่ม
 MainMenuUI_Bg_Buttons_LoadButton_Text(TMP),Load,โหลด
@@ -1638,7 +1638,7 @@ UIItemTIps_LeftOrRight_left,Internal Force Protection
 UIItemTIps_LeftOrLongRight_left,Internal Force Protection
 UIItemTIps_LeftOrLongRight_Text_Text,sdfsdfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 UIItemTIps_RoamingTitle_RoamingTitleHead,Fame (Level 1),ชื่อเสียง (ระดับ 1)
-UIItemTIps_RoamingTitle_RoamingTitleValue,100/100
+UIItemTIps_RoamingTitle_RoamingTitleValue,100/100,100/100
 UIItemTIps_RoamingItem_RoamingItemContent,Joining some sects requires a certain level of Fame as a prerequisite.
 UITeamPanel_Attribute_txt,con,พลังกาย
 UITeamPanel_Attribute_Text(2),Talent,พรสวรรค์
@@ -1646,15 +1646,15 @@ UITeamPanel_Attribute_Text(3),luk,โชค
 UITeamPanel_Attribute_Text(4),dex,คล่องแคล่ว
 UITeamPanel_Attribute_Text(5),str,พละกำลัง
 UITeamPanel_Attribute_Roleintroduction,"Cat, a main character in Jin Yong's novel ""The Heaven Sword and Dragon Saber"", the founder of Wudang Sect, Cat, a main character in Jin Yong's novel ""The Heaven Sword and Dragon Saber"", the founder of Wudang Sect, a main character, the founder of Wudang Sect, a main character.","แคท, ตัวละครหลักในนวนิยายของกิมย้งเรื่อง ""กระบี่อิงฟ้า ดาบฆ่ามังกร"", ผู้ก่อตั้งสำนักบู๊ตึ๊ง, แคท, ตัวละครหลักในนวนิยายของกิมย้งเรื่อง ""กระบี่อิงฟ้า ดาบฆ่ามังกร"", ผู้ก่อตั้งสำนักบู๊ตึ๊ง, ตัวละครหลัก, ผู้ก่อตั้งสำนักบู๊ตึ๊ง, ตัวละครหลัก"
-UITeamPanel_Attribute_BaseProperties_txt_tizhi,50
-UITeamPanel_Attribute_BaseProperties_txt_zizhi,70
-UITeamPanel_Attribute_BaseProperties_txt_fuyuan,10
-UITeamPanel_Attribute_BaseProperties_txt_minjie,20
-UITeamPanel_Attribute_BaseProperties_txt_bili,30
-UITeamPanel_Attribute_tag_Text,Gender
+UITeamPanel_Attribute_BaseProperties_txt_tizhi,50,50
+UITeamPanel_Attribute_BaseProperties_txt_zizhi,70,70
+UITeamPanel_Attribute_BaseProperties_txt_fuyuan,10,10
+UITeamPanel_Attribute_BaseProperties_txt_minjie,20,20
+UITeamPanel_Attribute_BaseProperties_txt_bili,30,30
+UITeamPanel_Attribute_tag_Text,Gender,เพศ
 UITeamPanel_Attribute_tag_Text(1),Level,ระดับ
 UITeamPanel_Attribute_tag_Text(2),Affiliation,สังกัด
-UITeamPanel_Attribute_tag_Text(3),HP
+UITeamPanel_Attribute_tag_Text(3),HP,HP
 UITeamPanel_Attribute_tag_Text(4),Attack power,พลังโจมตี
 UITeamPanel_Attribute_tag_Text(5),Qinggong,วิชาตัวเบา
 UITeamPanel_Attribute_tag_Text(6),Accuracy,ความแม่นยำ
@@ -1665,7 +1665,7 @@ UITeamPanel_Attribute_tag_Text(10),Martial Arts,วรยุทธ
 UITeamPanel_Attribute_RoleInfo_sex,Male
 UITeamPanel_Attribute_RoleInfo_lv,Level 8
 UITeamPanel_Attribute_RoleInfo_menPai,No Sect,ไร้สำนัก
-UITeamPanel_Attribute_RoleInfo_hp,2000/2000
+UITeamPanel_Attribute_RoleInfo_hp,2000/2000,2000/2000
 UITeamPanel_Attribute_RoleInfo_atck,100,100
 UITeamPanel_Attribute_RoleInfo_qingGong,100,100
 UITeamPanel_Attribute_RoleInfo_mingZhong,100,100
@@ -1675,7 +1675,7 @@ UITeamPanel_Attribute_RoleInfo_anQi,100,100
 UITeamPanel_Attribute_RoleInfo_two_shenFen,Civilian
 UITeamPanel_Attribute_RoleInfo_two_guanXi,Close
 UITeamPanel_Attribute_RoleInfo_two_mingSheng,Nobody,ไม่มีใครรู้จัก
-UITeamPanel_Attribute_RoleInfo_two_neiLi,2000/2000
+UITeamPanel_Attribute_RoleInfo_two_neiLi,2000/2000,2000/2000
 UITeamPanel_Attribute_RoleInfo_two_neiLi_tag,[Yang],[หยาง]
 UITeamPanel_Attribute_RoleInfo_two_fangYu,100,100
 UITeamPanel_Attribute_RoleInfo_two_jiQi,100,100
@@ -2884,7 +2884,7 @@ MainMenuUI_Bg_Buttons_cn_ModButton_Text(TMP),Creative Workshop
 UIModMain_LayerLocal_boxEmpty_txt,There are no\nmods yet
 TradingWithFactionUI_Buy_btnOneTouchAll_txt,One-click Buy,ซื้อในครั้งเดียว
 TradingWithFactionUI_Sell_btnOneTouchAll_txt,One-click Sell,ขายในครั้งเดียว
-UIModMain_LayerMapQuary_boxItems_btnSaveID_Text(TMP),Set save point
+UIModMain_LayerMapQuary_boxItems_btnSaveID_Text(TMP),Set save point,ตั้งค่าจุดบันทึก
 UIModMain_LayerMapQuary_btnEnterMap_Text(TMP),Enter map,เข้าสู่แผนที่
 UIModMain_LayerMapQuary_boxAreaString_boxTools_toggleDraw_Label,Draw\nCoordinates
 UIModMain_LayerMapQuary_boxAreaString_boxTools_toggleClear_Label,Erase\nCoordinates
@@ -2906,7 +2906,7 @@ UIBattleActorInfo_kongfu_chuzhan_Text(TMP),Deploy
 PlayerCreateUI_RoleName_Fief_Info,"Once Open, the building levels in the home base are shared across all saves."
 PlayerCreateUI_RoleName_Fief_Title,Open cross-save home base progress sharing
 UIFiefMain_btnEnter_Text(TMP),Enter
-UIFiefMain_layer_boxBottom_boxInfo_btnClose_Text(TMP),Exit
+UIFiefMain_layer_boxBottom_boxInfo_btnClose_Text(TMP),Exit,ออก
 UIFiefMain_layer_boxBottom_boxInfo_boxTitle_Text(TMP),Companion
 UIFiefMain_layer_boxBottom_boxLevel_boxLevelCondition_txtLevelNeedNpc,Character required in team,ตัวละครที่ต้องการในกลุ่ม
 UIFiefMain_layer_boxBottom_boxLevel_txtTipMaxLv,Maximum Level reached
@@ -2923,7 +2923,7 @@ UIFiefSetting_txt,Idle
 UIFiefSetting_boxLeftWork_scrollScorePrize_Viewport_Content_lineTitle0_Text(TMP),Scene bonus
 UIFiefSetting_boxLeftWork_scrollScorePrize_Viewport_Content_lineTitle1_Text(TMP),Special bonus
 UIFiefKungfu_txtTip,Note: The engraved martial arts will be overwritten by the new martial arts.
-UIFiefKungfu_btnIn_Text(TMP),Engrave
+UIFiefKungfu_btnIn_Text(TMP),Engrave,สลัก
 UIFiefKungfu_btnOut_Text(TMP),Imprint
 UIFiefKungfu_imgUsed_Text(TMP),Imprinted
 UIFiefEquip_btnIn_Text(TMP),Place
@@ -2931,5 +2931,5 @@ UIFiefEquip_btnOut_Text(TMP),Take
 UIFiefEquip_imgUsed_Text(TMP),Taken
 UIFiefKungfu_EmptyTip_Text(TMP),Requires a max level Legendary martial arts for the main character.
 UIFiefEquip_EmptyTip_Text(TMP),"Requires Legendary Weapon, Armor, Accessory."
-UIFiefMain_layer_boxBottom_boxInfo_btnOpenSetting_Text(TMP),Edit
+UIFiefMain_layer_boxBottom_boxInfo_btnOpenSetting_Text(TMP),Edit,แก้ไข
 UIFiefSetting_layer_txtMingingPrizeTip,

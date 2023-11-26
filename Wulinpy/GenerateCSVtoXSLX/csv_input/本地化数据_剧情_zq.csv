@@ -10998,7 +10998,7 @@ M5030-1_1_2,"You're asking about the whereabouts of the Imperial Seal, right? Ou
 M5030-1_1_3,"The Imperial Seal has been through wars and is said to have been split into three pieces, called the Seal of the Sky Dome, the Seal of the People, and the Seal of the State."
 M5030-1_1_4,"The Seal of the Sky Dome was carried by the old emperor. Since the old emperor went hunting in Yan country and never returned, the whereabouts of the Seal of the Sky Dome is unknown."
 M5030-1_1_5,"Someone once saw the Seal of the State in a certain place in the southwest region, but this person was delirious when he revealed the news, and he died not long after."
-M5030-1_1_6,……
+M5030-1_1_6,……,……
 M5030-1_1_7,"Continue, any clues about the Mark of the Common People?"
 M5030-1_1_8,"I only heard that the Mark of the Common People was guarded by the Imperial City Department back then, I don't know the other details."
 M5030-1_1_9,"Hmm, you need to further investigate, this is very important to us!"
@@ -11013,7 +11013,7 @@ M5030-1_1_17,"Guards, throw these people into the river to feed the fish!"
 M5030-1_2_1,"After a bloody battle, the Sea Serpent Gang was wiped out, and the people of Dragonfly City fled in panic.\nYou came to Lin'an City with the officers..."
 M5030-1_2_2,"{PlayerSurName} has made great contributions in helping to suppress the bandits, you can go to the Lin'an Government Office later to receive the reward from the prefect, we have to go back to report, we'll leave first.",{PlayerSurName} ได้มีส่วนร่วมอย่างมากในการช่วยปราบปรามพวกโจร เจ้าสามารถไปที่ศาลาว่าการเมืองหลินอัน ในภายหลังเพื่อรับรางวัลจากนายอำเภอ เราต้องกลับไปรายงาน เราจะออกไปก่อน
 M5030-1_3_1,"It seems that there has just been a fight here, why are the people of the Sea Serpent Gang dying out so quickly?"
-M5030-1_3_2,Who are you...?
+M5030-1_3_2,Who are you...?,เจ้าเป็นใคร...?
 M5030-1_3_3,"The government received news that the recent disappearances in many places are related to the Sea Serpent Gang, so we came to investigate today. However, the current situation seems a bit inexplicable."
 M5030-1_3_4,"You are one step too late, the Sea Serpent Gang has been removed from the rivers and lakes.\nBut, I can take advantage of your boat to get out of this damn place."
 M5030-1_4_1,You came to Lin'an City with the officers...
@@ -11048,7 +11048,7 @@ R10040-1_6_1,"Where did you learn your Pear Blossom Spear, sir?",ท่านเ
 R10040-1_6_2,Can you tell that I can use Pear Blossom?,เจ้าบอกได้ไหมว่า ข้าสามารถใช้วิชาหอกหลีฮวาได้
 R10040-1_6_3,"I have been immersed in Pear Blossom Spear for many years, just now I heard the wind and footsteps when you launched the spear, so I am sure it is Pear Blossom Spear without a doubt.",ข้าหมกมุ่นอยู่กับวิชาหอกหลีฮวามานานหลายปี ในตอนนี้ข้าได้ยินเสียงลม และเสียงฝีเท้าของเจ้าเมื่อแทงหอกออกมา ข้ามั่นใจว่ามันคือวิชาหอกหลีฮวาอย่างไม่ต้องสงสัย
 R10040-1_7_1,"How come you also know Pear Blossom Spear, this Pear Blossom is the secret of my Yang family that is not passed on!",เจ้ารู้จักวิชาหอกหลีฮวาได้อย่างไร นี่เป็นความลับของตระกูลหยางของข้า!
-R10040-1_7_2,Are you... Yao'er?
+R10040-1_7_2,Are you... Yao'er?,เจ้าคือ... เหยาเอ๋อ?
 R10040-1_7_3,Are you... Brother Zai Xing?,ท่านคือ... พี่ไจ๋ซิง?
 R10040-1_7_4,"Now I have changed my surname to Mu to avoid revenge.\nI didn't expect Yao'er, you are still alive!"
 R10040-1_7_5,"Brother Zai Xing, let me introduce you, this is Young Hero {PlayerSurName}, a trustworthy hero, the Pear Blossom Spear was given to him by me.",พี่ไจ๋ซิง ข้าขอแนะนำให้รู้จักจอมยุทธน้อย {PlayerSurName} ที่น่านับถือ ข้าได้มอบเคล็ดวิชาหอกหลีฮวาให้กับเขา
@@ -11275,7 +11275,7 @@ R10052-0-1_7_2,"Hmm, thank you for your hard work, Master {PlayerSurName}."
 R10052-2_1_1,"Master {PlayerSurName}, please respect yourself, unless the owner agrees or I favor you, I can't leave with you."
 R10052-2_2_1,"I don't want to spoil your mood, Master {PlayerSurName}, please feel free to do as you please."
 R10052-2_3_1,"I am at your disposal, Master {PlayerSurName}."
-R10052-2_4_1,"Your team is full, I can't join."
+R10052-2_4_1,"Your team is full, I can't join.",กลุ่มของเจ้าเต็มแล้ว ข้าเข้าร่วมไม่ได้
 R10052-3_1_1,This is the God of Marriage's Shrine...
 R10052-3_1_2,Miss Overwhelming Beauty actually knows this place.
 R10052-3_1_3,"I often hear those rich businessmen sweet-talking the girls in the pleasure quarters, this God of Marriage's Shrine is often used to express feelings."
@@ -11920,7 +11920,7 @@ R10021-0_1_1,I didn't expect there to be such a beauty in the world!
 R10021-0_1_2,"I am {PlayerName}, sorry to disturb you, beautiful lady."
 R10021-0_2_1,"There is no self, no person, no sentient being, no life, red powder skull, white bone flesh, Amitabha."
 R10021-0_2_2,"I am a monk, my secular name is {PlayerName}, sorry to disturb you, lady."
-R10021-0_3_1,Do you think I'm beautiful?
+R10021-0_3_1,Do you think I'm beautiful?,เจ้าว่าข้างามหรือไม่?
 R10021-0_3_2,This...
 R10021-0_4_1,"In that case, would you like to stay and keep me company?\nThis place has clear mountains and water, being buried between this landscape is also your good fortune."
 R10021-0_4_2,What do you mean by that?
@@ -11940,7 +11940,7 @@ R10021-0_7_10,"I can't promise you anything, but if you want to keep me here, I'
 R10021-0_7_11,"You men, all you know is to bully weak women!\nWhat do you want to do to me?"
 R10021-0_7_12,"Your legs are your own, I have no intention of stopping you, nor do I plan to retaliate against you."
 R10021-0_7_13,Hmph!
-R10021-0_7_14,"Beautiful lady, where are you going?"
+R10021-0_7_14,"Beautiful lady, where are you going?",คนสวย เจ้ากำลังจะไปไหน?
 R10021-0_7_15,"Indeed, she is full of charm and seductively beautiful. The money spent is well worth it."
 R10021-0_7_16,It seems that it was that greedy fellow who guided you here.
 R10021-0_7_17,Where did this kid come from? Could he be this beauty's lover?
@@ -11951,7 +11951,7 @@ R10021-0_7_21,Go reincarnate with your beautiful dreams!
 R10021-0_7_22,I'll help you!
 R10021-0_8_1,"Epiphyllum Valley is no longer safe, it seems I need to run away from here earlier, who knows what kind of character will come next."
 R10021-0_8_2,"People like me, if we lose our protection, will sooner or later become someone else's caged canary. This is my fate, what can I do?"
-R10021-0_8_3,Maybe I can help you.
+R10021-0_8_3,Maybe I can help you.,บางทีข้าอาจช่วยเจ้าได้
 R10021-0_8_4,"Throughout history, for every faithful lover, there is a heartless man. I don't believe in my own luck, nor do I believe in anyone's promises anymore."
 R10021-0_8_5,……,……
 R10021-0_8_6,"However, you seem to be different from others, perhaps..."
@@ -13461,53 +13461,53 @@ R10028-6_1_1,"You have the nerve to find me? You spineless man, get lost!!!"
 R10028-6_2_1,"{PlayerName}, even if I am now dependent on others, I don't want to act according to others' faces!"
 R10028-6_3_1,I hope being with you can fulfill my original intention.
 R10028-6_4_1,"Your team has no vacancies, it seems you are not ready to run away with me."
-R10028-7_1_1,"{PlayerName}, I want to drink, dare you drink with me till we're drunk?"
+R10028-7_1_1,"{PlayerName}, I want to drink, dare you drink with me till we're drunk?",{PlayerName} ข้าอยากดื่มสุรา เจ้ากล้าดื่มกับข้าจนเมาหรือไม่?
 R10028-7_1_2,You? The dignified princess actually drinks?
 R10028-7_1_3,"All of us Yan women can ride horses and drink. \nOn the contrary, the men in your Wu Yue region are even weaker than ordinary women."
 R10028-7_1_4,"Don't change the subject, do you dare to drink with me or not?"
 R10028-7_1_5,"If the princess commands, of course I will accompany her to the end!"
-R10028-7_1_6,"I've told you, I'm no longer the Lady of Yan Kingdom, if you call me princess again, I'll think you're deliberately mocking me!"
-R10028-7_1_7,"Sorry, sorry, it was a slip of the tongue. From now on I'll call you Zhaoning, is that okay?"
+R10028-7_1_6,"I've told you, I'm no longer the Lady of Yan Kingdom, if you call me princess again, I'll think you're deliberately mocking me!",ข้าบอกแล้วไงว่าข้าไม่ใช่องค์หญิงแห่งแคว้นหยานอีกต่อไป หากเจ้าเรียกข้าว่าองค์หญิงอีกครั้ง จะถือว่าเจ้าจงใจเยาะเย้ยข้าแล้ว!
+R10028-7_1_7,"Sorry, sorry, it was a slip of the tongue. From now on I'll call you Zhaoning, is that okay?",ขออภัย ขออภัยที่ข้าพลั้งปากไป จากนี้ไปข้าจะเรียกท่านว่าจ้าวหนิงดีหรือไม่?
 R10028-7_1_8,That's more like it.
 R10028-7_2_1,"{PlayerName}, have you ever drunk with other girls in a tavern?"
 R10028-7_2_2,"Other girls are not as bold and free as you Yan women, those who dare to drink in public in a tavern are as rare as phoenix feathers and unicorn horns."
 R10028-7_2_3,"You wouldn't happen to have something on your mind, planning to drown your sorrows in drink?"
 R10028-7_2_4,"When I was a princess, no one dared to drink with me; now that I'm alone, it's even harder to find a like-minded drinking buddy, don't you think my life, Wanyan Zhaoning, is very miserable?"
-R10028-7_2_5,(Drinks all the wine in the cup in one gulp)
+R10028-7_2_5,(Drinks all the wine in the cup in one gulp),(ดื่มสุรารวดเดียวหมดจอก)
 R10028-7_2_6,"As your like-minded but not life-exchanging friend, I will accompany you today no matter how much you drink."
-R10028-7_2_7,(Drinks all the wine in the cup in one gulp)
+R10028-7_2_7,(Drinks all the wine in the cup in one gulp),(ดื่มสุรารวดเดียวหมดจอก)
 R10028-7_2_8,"{PlayerName}, from the beginning you were against me, whether it was standing up for the little thief, or publicly dealing with my servants in the Three Teachings, even the Seal of the Common People you wanted to snatch from me..."
-R10028-7_2_9,(Another gulp of wine)
+R10028-7_2_9,(Another gulp of wine),(ดื่มสุราอีกจอก)
 R10028-7_2_10,"My plan was perfect, but I ran into you, my nemesis, which caused me to fail again and again, I hate you so much."
 R10028-7_2_11,"It's just a coincidence, I didn't mean to oppose you, today I'll use this cup of wine to apologize to you."
 R10028-7_2_12,(Also drinks all the wine in one gulp)
 R10028-7_2_13,"Clan uncle Wan Yan Wuzhu, if he hadn't been stubborn and ignored my advice, how could he have ended up like this..."
 R10028-7_2_14,"The more he looks down on me, the more I want to prove to him that women can also strategize, women can also win a thousand miles away!"
-R10028-7_2_15,(Another gulp of wine)
+R10028-7_2_15,(Another gulp of wine),(ดื่มสุราอีกจอก)
 R10028-7_2_16,"Salute to you, a heroine among women!"
-R10028-7_2_17,(Drinks it all in one gulp)
-R10028-7_2_18,"My mother... died in the war... Since I was a child, I've always dreamed of how wonderful it would be if there was no war..."
+R10028-7_2_17,(Drinks it all in one gulp),(ดื่มรวดเดียวหมด)
+R10028-7_2_18,"My mother... died in the war... Since I was a child, I've always dreamed of how wonderful it would be if there was no war...",ท่านแม่ของข้า... ตายในสงคราม... ตั้งแต่ข้ายังเล็ก ข้าใฝ่ฝันมาตลอดว่าหากไม่มีสงครามมันจะวิเศษเพียงใด...
 R10028-7_2_19,"As long as there is greed, there will be conflict, and with conflict comes war.\nA single general's success comes at the cost of thousands of lives, how many of those who ultimately profit will care about the lives of ordinary people."
 R10028-7_2_20,"{PlayerName}, I ask you... if one day you hold great power... can you rule with benevolence and love for the people... and avoid conflict with surrounding forces..."
 R10028-7_2_21,(Who can promise what the future holds...)
 R10028-7_2_22,"{PlayerName}... Promise me, don't start a war unless it's absolutely necessary... War is too terrible..."
-R10028-7_2_23,(Drink heavily)
+R10028-7_2_23,(Drink heavily),(ดื่มอยากหนักหน่วง)
 R10028-7_2_24,"I promise you, when I have great power in the future, I will never act recklessly with weapons, and I will always put the people first!"
 R10028-7_2_25,Deal!
 R10028-7_2_26,It's a deal!!
-R10028-7_3_1,"The two of them ended up completely drunk, not remembering anything that happened afterwards..."
-R10028-7_3_2,Ahhhhhhhh!!!!!
-R10028-7_3_3,"{PlayerName}, you're a bastard!!!"
+R10028-7_3_1,"The two of them ended up completely drunk, not remembering anything that happened afterwards...",ทั้งสองคนเมาจนเมามายจนจำไม่ได้ว่าหลังจากนั้นเกิดอะไรขึ้นบ้าง...
+R10028-7_3_2,Ahhhhhhhh!!!!!,อ๊าาาาาาาาา!!!!!
+R10028-7_3_3,"{PlayerName}, you're a bastard!!!",{PlayerName} เจ้าคนสารเลว!!!
 R10028-7_3_4,What's going on?!!,เกิดอะไรขึ้น?!!
-R10028-7_3_5,Aren't you a man anymore? How can you not admit what happened!
-R10028-7_4_1,"Miss Wan Yan, please calm down. We were both drunk last night, I really don't know what happened."
+R10028-7_3_5,Aren't you a man anymore? How can you not admit what happened!,เจ้ายังเป็นลูกผู้ชายอยู่หรือไม่? เหตุใดจึงไม่ยอมรับสิ่งที่เกิดขึ้น!
+R10028-7_4_1,"Miss Wan Yan, please calm down. We were both drunk last night, I really don't know what happened.",แม่นางหวันหยานโปรดสงบสติอารมณ์ก่อน เมื่อคืนเราต่างเมาด้วยกันทั้งคู่ ข้าไม่รู้จริงๆว่าเกิดอะไรขึ้น
 R10028-7_4_2,"Besides, we were so drunk, even if we wanted something to happen, we wouldn't have been able to!"
-R10028-7_4_3,"{PlayerName}, if you dare to do it, you should dare to admit it. You're not a man, I misjudged you!"
-R10028-7_4_4,"I really don't know anything, why won't you believe me?"
-R10028-7_5_1,"I was out of control after drinking, I can't control myself, please punish me, Miss Zhao Ning.\nI did such a ridiculous thing, I {PlayerName} am willing to take full responsibility."
+R10028-7_4_3,"{PlayerName}, if you dare to do it, you should dare to admit it. You're not a man, I misjudged you!",{PlayerName} หากเจ้ากล้าทำ ไยเจ้าจึงไม่กล้ายอมรับ เจ้ามันไม่ใช่ลูกผู้ชาย ข้าดูเจ้าผิดไป!
+R10028-7_4_4,"I really don't know anything, why won't you believe me?",ข้าไม่รู้อะไรเลยจริงๆ ทำไมเจ้าถึงไม่เชื่อข้าล่ะ?
+R10028-7_5_1,"I was out of control after drinking, I can't control myself, please punish me, Miss Zhao Ning.\nI did such a ridiculous thing, I {PlayerName} am willing to take full responsibility.",ข้าดื่มจนเมามาย ไม่สามารถควบคุมตัวเองไม่ได้ แม่นางจ้าวหนิงโปรดลงโทษข้าด้วย\nข้าทำสิ่งที่ไร้ยางอาย ข้า{PlayerName} ยินดีที่จะรับผิดชอบอย่างเต็มที่
 R10028-7_5_2,Can I really trust you in the future after what you've done to me?
-R10028-7_5_3,"I, {PlayerName}, swear to the heavens, if I ever betray Miss Zhaoning in this life, I shall die under the chaotic blade and be dismembered!"
-R10028-7_5_4,"{PlayerName}, remember this, we women of Yan are the most chaste and heroic. If you die, I will not live alone!"
+R10028-7_5_3,"I, {PlayerName}, swear to the heavens, if I ever betray Miss Zhaoning in this life, I shall die under the chaotic blade and be dismembered!",ข้า{PlayerName} ขอสาบานต่อฟ้า หากข้าทรยศต่อแม่นางจ้าวหนิง ขอให้ขายตายด้วยคมหอกคมดาบ และถูกสับเป็นชิ้นๆ!
+R10028-7_5_4,"{PlayerName}, remember this, we women of Yan are the most chaste and heroic. If you die, I will not live alone!",{PlayerName}จงจำไว้ พวกเราสตรีชาวหยานเป็นผู้บริสุทธิ์และกล้าหาญ หากเจ้าตาย ข้าจะไม่ยอมมีชีวิตอยู่คนเดียว!
 R10028-7_5_5,"Rest assured, we will definitely be together until the end of time, until the seas run dry and the stones go soft."
 R20011-2_1_1,"Brother, you only sell a few cheap goods every day to make a few coins, why don't you sell some high-priced good things, wouldn't that make more money?"
 R20011-2_1_2,"Rural people don't recognize good things, and good things are not cheap, so they are naturally not cost-effective for the people here."
