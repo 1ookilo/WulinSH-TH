@@ -71,7 +71,7 @@ BattleFieldInfo_M20330-1_8门战斗,"<#61C3C8>{PlayerName}</color> participate i
 BattleFieldWin_M20330-1_8门战斗,Defeat <#61C3C8>Fu Bu Bingwei</color>,เอาชนะ <#61C3C8>ฟู่ปูปิงเว่ย</color>
 BattleFieldFail_M20330-1_8门战斗,<#61C3C8>All of us</color> are defeated,<#61C3C8>พวกเราทั้งหมด</color>พ่ายแพ้
 BattleFieldInfo_M2101-3_琳琅棋局,"<#61C3C8>{PlayerName}</color> participate in the battle, up to 6 people can be deployed",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
-BattleFieldWin_M2101-3_琳琅棋局,Crack the <#61C3C8>Linlang Go puzzle</color>,แก้กลหมาก <#61C3C8>หลินหลาง</color>
+BattleFieldWin_M2101-3_琳琅棋局,Crack the <#61C3C8>Linlang Go puzzle</color>,แก้ปริศนา <#61C3C8>กลหมากล้อมหลินหลาง</color>
 BattleFieldFail_M2101-3_琳琅棋局,<#61C3C8>All of us</color> are defeated,<#61C3C8>พวกเราทั้งหมด</color>พ่ายแพ้
 BattleFieldInfo_School-2070-2_大战黑衣人,"<#61C3C8>{PlayerName}</color> participate in the battle, up to 6 people can be deployed",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
 BattleFieldWin_School-2070-2_大战黑衣人,Defeat the <#61C3C8>man in black</color>,เอาชนะ<#61C3C8>ชายชุดดำ</color>
@@ -672,7 +672,7 @@ Quit-3300_2_2,"Forget it! The fate is not yet! From this moment on, {PlayerName}
 Quit-3300_2_3,You go!,ไปซะ!
 Quit-3300_3_1,Monks don't lie.,ผู้ออกบวชไม่มุสา
 Quit-3300_3_2,"{PlayerName}, don't do this again, remember! Remember!",{PlayerName} อย่าทำเช่นนี้อีก จำไว้นะ! จำไว้!
-Quit-1010_1_1,"What? {PlayerName}, you want to quit Blue Wind Camp?",อะไรนะ {PlayerName} เจ้าอยากออกจากค่ายวายุครามรึ
+Quit-1010_1_1,"What? {PlayerName}, you want to quit Blue Wind Camp?",อะไรนะ? {PlayerName} เจ้าอยากออกจากค่ายวายุครามรึ?
 Quit-1010_option_1_dialog,<color=#c44b0e>Quitting Blue Wind Camp</color> means that all your efforts in the mountain village will be in vain. Don't be impulsive!,<color=#c44b0e>ออกจากค่ายวายุคราม</color> นั่นหมายความว่าทุกอย่างที่เจ้าทำมาที่นี่จะสูญเปล่านะ อย่าหุนหันสิ!
 Quit-1010_option_1_1,Already decided! <color=#097a76>(Protagonist single challenge)</color>,ตัดสินใจแล้ว! <color=#097a76>(ตัวเอกสู้คนเดียว)</color>
 Quit-1010_option_1_2,Think about it again...,คิดดูอีกครั้ง...
@@ -2168,7 +2168,7 @@ School-2010-2_11_1,"I was so close, I could have..."
 School-2010-2_11_2,Uh--
 School-2010-2_11_3,"Boy, the old woman will send you on your way first, then that old thing!"
 School-2010-2_11_4,"Hmph, you really have no idea about the situation in front of you."
-School-2010-2_11_5,What? How come you're not poisoned!
+School-2010-2_11_5,What? How come you're not poisoned!,เป็นไปได้ยังไง? ทำไมเจ้าถึงไม่ถูกวางยาพิษ!
 School-2010-2_11_6,"Leave the antidote, or die!"
 School-2010-2_11_7,"You were seriously injured and unconscious, slumbering for a whole day and night..."
 School-2010-2_12_1,"{PlayerName}, you're awake. How are your injuries?"
@@ -3007,7 +3007,7 @@ R10009-2-1_op_2_3,Give <color=#c44b0e>Zhao Wangcai</color> five strokes of the c
 R10009-2-1_op_2_4,No punishment for now.
 R10009-2-1_3_1,"You audacious commoner Zhao Wangcai, you obviously stole the old lady's Inventory, confess quickly to avoid further punishment!"
 R10009-2-1_4_1,Uh...,อา..
-R10009-2-1_4_2,What?! He was scared to death.
+R10009-2-1_4_2,What?! He was scared to death.,อะไร?! เขากลัวจนตาย.
 R10009-2-1_4_3,"Miss Ye, you have such a great official power, you actually scared someone to death! If it weren't for Marshal Ye's sake, I would have punished you for killing!"
 R10009-2-1_4_4,"Both of you, please leave the court, I don't want to see you now!"
 R10009-2-1_5_1,"Spare me, sir, I confess, I did steal the old lady's Inventory.","ไว้ชีวิตข้าเถอะนายท่าน, ข้าสารภาพ, ข้าขโมยของของแม่เฒ่านั้นจริงๆ"
@@ -3023,7 +3023,7 @@ R10009-2-1_15_2,"Both of you, please leave the court, I don't want to see you no
 R10009-2-1_7_1,"Impudent commoner Zhao Wangcai, since you refuse to confess, you will be beaten with three heavy planks first!"
 R10009-2-1_7_2,I'm innocent!|Ah...|It's not me.|You've got the wrong person!|Wa...
 R10009-2-1_8_1,Ouch...
-R10009-2-1_8_2,What?! You actually beat him to death.
+R10009-2-1_8_2,What?! You actually beat him to death.,อะไร?! เจ้ารังแกเขาจนตายจริงๆ
 R10009-2-1_8_3,"Miss Ye, you're quite authoritative, you actually beat a man to death!\nIf it weren't for Marshal Ye's sake, this office would have punished you for taking a life!"
 R10009-2-1_8_4,"Both of you, please leave the court, I don't want to see you now!"
 R10009-2-1_9_1,"I'm innocent, please don't wrong a good person, Miss."
@@ -3037,7 +3037,7 @@ R10009-2-1_op_3_3,Punish <color=#c44b0e>Li Maodan</color> with five heavy planks
 R10009-2-1_op_3_4,No punishment for now.
 R10009-2-1_11_1,"Impudent commoner Li Maodan, it's clear that you stole the old lady's Inventory, confess quickly to avoid further pain!"
 R10009-2-1_12_1,Uh...,อา..
-R10009-2-1_12_2,What?! He was scared to death.
+R10009-2-1_12_2,What?! He was scared to death.,อะไร?! เขากลัวจนตาย.
 R10009-2-1_12_3,"Miss Ye, you have such a great official power, you actually scared someone to death! If it weren't for Marshal Ye's sake, I would have punished you for killing!"
 R10009-2-1_12_4,"Both of you, please leave the court, I don't want to see you now!"
 R10009-2-1_13_1,"I confess, it was indeed me who stole this old lady's Inventory.\nLater, Zhao Wangcai chased after me, he wouldn't let me go, so we started fighting."
@@ -3054,7 +3054,7 @@ R10009-2-1_18_1,"Impudent commoner Li Maodan, since you refuse to confess, you w
 R10009-2-1_18_2,I'm innocent!|Ah...|It's not me.|You've got the wrong person!|Wa...
 R10009-2-1_19_1,Ouch...
 R10009-2-1_19_2,Zhao Wangcai fades out.
-R10009-2-1_19_3,What?! You actually beat him to death.
+R10009-2-1_19_3,What?! You actually beat him to death.,อะไร?! เจ้ารังแกเขาจนตายจริงๆ
 R10009-2-1_19_4,"Miss Ye, you're quite authoritative, you actually beat a man to death!\nIf it weren't for Marshal Ye's sake, this office would have punished you for taking a life!"
 R10009-2-1_19_5,"Both of you, please leave the court, I don't want to see you now!"
 R10009-2-1_20_1,"Without any evidence, you're wronging me, I won't accept this!"
@@ -3228,7 +3228,7 @@ R10064-3_4_16,Or the five guys who repay kindness with ingratitude that I just s
 R10064-3_4_17,"Or the group of rotten fish and shrimps you brought with you, showing their teeth and claws?"
 R10064-3_4_18,"Since you guys don't want to be human, then I'll send you to reincarnate. In your next life, you'll surely get what you wish for!"
 R10064-3_5_1,"Junior sister, spare me, I know I was wrong.\nOur Plant Sect is already declining, we can't fight each other anymore.","ศิษย์น้องหญิง, โปรดไว้ชีวิตข้า ข้ารู้ว่าข้าหลงผิดไป\nสำนักพฤกษาของเราเสื่อมถอยลง, เราไม่สามารถต่อสู้กันเองได้อีกต่อไปแล้ว"
-R10064-3_5_2,……
+R10064-3_5_2,……,……
 R10064-3_5_3,Now you remember that you are a member of the Plant Sect?\nNow you remember that we can't fight each other?,ตอนนี้เจ้าพึ่งจะจำได้ว่าเจ้าเป็นศิษย์ของสำนักพฤกษา?\nตอนนี้เจ้าพึ่งจะจำได้ว่าเราไม่ควรต่อสู้กัน?
 R10064-3_5_4,"Junior sister, I have worked so hard to make the Plant Sect famous!","ศิษย์น้องหญิง, ข้าทำงานหนักมากเพื่อทำให้สำนักพฤกษามีชื่อเสียง!"
 R10064-3_5_5,"You are using the name of the Plant Sect to make money, you are tarnishing the Plant Sect, and the reputation you are spreading is a bad one!","เจ้าใช้ชื่อของสำนักพฤกษาเพื่อชื่อเสียงเงินทอง, เจ้ากำลังทำให้สำนักพฤกษามัวหมอง และชื่อเสียงที่เจ้ากำลังสร้างนั้นมันก็ไม่เห็นมีเรื่องดีเลยสักเรื่อง!"
@@ -3238,7 +3238,7 @@ R10064-3_5_8,"Junior sister, with my brain and your medical skills, we can defin
 R10064-3_5_9,"""Whether the Plant Sect is declining or thriving, I have no regrets in my heart"" - these were the words the master said to me before he died, and now I give them to you.",“ไม่ว่าสำนักพฤกษาจะถดถอยหรือเจริญรุ่งเรือง ข้าก็ไม่เคยเสียใจในใจ” นี่คือคำพูดที่อาจารย์พูดกับข้าก่อนที่ท่านจะเสีย และตอนนี้ข้าจะมอบมันให้กับเจ้า
 R10064-3_5_10,"Senior brother, the master once told us to help each other and not to kill each other. I won't hurt you, you run away, the Plant Sect has nothing to do with you from now on.","ศิษย์พี่, อาจารย์เคยบอกให้เราช่วยเหลือกันไม่ฆ่ากันเอง. ข้าจะไม่ทำร้ายเจ้า เจ้าจากไปสะ สำนักพฤกษากับเจ้านับจากนี้ไป ไม่ขอข้องเกี่ยวกันอีก."
 R10064-3_5_11,"Humph, since junior sister doesn't want to make the Plant Sect prosperous, then we have different paths and I won't accompany you.","ฮึมมม, หากศิษย์น้องหญิงไม่ต้องการทำให้สำนักพฤกษาเจริญรุ่งเรือง ได้เราก็มีเส้นทางที่แตกต่างกันและข้าจะไม่ขอข้องเกี่ยวกับเจ้า"
-R10064-3_5_12,Stop~
+R10064-3_5_12,Stop~,หยุด~
 R10064-3_5_13,"Kid, we'll settle our accounts later, you better take care of your life."
 R10064-3_op_1_1,Kill the evil man here.
 R10064-3_op_1_2,Let the evil man go.
@@ -3273,27 +3273,27 @@ R10064-3_op_2_6,Do not save for now.
 R10064-3_11_1,A moment later...
 R10064-3_11_2,Finally survived...
 R10064-3_12_1,"Damn it, you took so long, making me suffer so much!"
-R10064-3_13_1,Ah--,ฮะ--
+R10064-3_13_1,Ah--,อ่า--
 R10064-3_14_1,"I feel so uncomfortable, it's like every joint is twisted and deformed, it's so painful!!!!"
 R10064-3_15_1,A moment later...
 R10064-3_15_2,"Phew, I got my life back..."
 R10064-3_16_1,"Don't expect me to thank you, this is what you should do!"
-R10064-3_17_1,Ah--,ฮะ--
+R10064-3_17_1,Ah--,อ่า--
 R10064-3_18_1,"It feels like there are several chaotic energies rampaging inside me, as if my meridians are about to burst, please save me."
 R10064-3_19_1,A moment later...
 R10064-3_19_2,"Phew, finally feel better.",ฟู่ว~ รู้สึกดีขึ้นเยอะเลย
 R10064-3_20_1,"In consideration of your rescue, here's a piece of advice for you: this place is full of disputes, better run away as soon as possible."
-R10064-3_21_1,Ah--,ฮะ--
+R10064-3_21_1,Ah--,อ้า--
 R10064-3_22_1,"I'm beyond saving, still don't know what poison I've been afflicted with, I'm not willing to die like this!!!"
 R10064-3_23_1,A moment later...
 R10064-3_23_2,I'm actually cured! It's miraculous!
 R10064-3_24_1,"Thank you, young man."
-R10064-3_25_1,Ah--,ฮะ--
+R10064-3_25_1,Ah--,อ้า--
 R10064-3_26_1,"Hehehe... I'm so cold, so cold..."
 R10064-3_27_1,A moment later...
 R10064-3_27_2,"I'm not cold anymore, I'm cured!!!"
 R10064-3_28_1,"Unexpectedly, you managed to get your hands on the rare Thunderstruck wood. It's a waste to use it for healing."
-R10064-3_29_1,Ah--,ฮะ--
+R10064-3_29_1,Ah--,อ้า--
 R10064-4_1_1,"You little brat, I've been waiting here for a long time!"
 R10064-4_1_2,"I let you run away back then, don't you regret it?"
 R10064-4_1_3,"Regret? I didn't do anything wrong, what is there to regret?"
@@ -3304,15 +3304,15 @@ R10064-4_2_3,"I was just unwilling to go with the flow, unwilling to deal with t
 R10064-4_2_4,"Damn it, there can't be two tigers on one mountain. Your medical skills are superior to mine. What's the point of my existence then? You, you..."
 R10064-4_2_5,Go to hell!!!
 R10064-4_2_6,"Miss Qu, be careful!",แม่นางฉู่ ระวัง!
-R10064-4_3_1,"Junior sister, junior sister, save, save me..."
+R10064-4_3_1,"Junior sister, junior sister, save, save me...","ศิษย์น้อง, ศิษย์น้องหญิง ช่วย.. ช่วยข้าด้วย..."
 R10064-4_3_2,"Thank you, young hero {PlayerSurName} for helping me clean up my sect."
 R10064-4_3_3,Don't you blame me for killing your former senior brother?
 R10064-4_3_4,"He was not only my senior brother, but also the youngest son whom my mentor loved the most...\nI couldn't bring myself to do it, so it was only fitting for you to do it."
 R10064-4_4_1,"What right do you, a beast blinded by greed, have to be the master of the Plant Sect!","ถูกของเจ้า, สัตว์ร้ายที่ตาบอดด้วยความโลภ ต้องเป็นเจ้าแห่งสำนักพฤกษา!"
 R10064-4_4_2,"Hehehe, I'll let you see my true power and tell you why I'm qualified to be the master of the Plant Sect!","ฮี ฮิฮี, ข้าจะให้เจ้าได้เห็นพลังที่แท้จริงของข้า และบอกเจ้าว่าทำไมข้าถึงมีคุณสมบัติที่จะเป็นเจ้าสำนักพฤกษา!"
-R10064-4_5_1,"Junior sister, junior sister, save, save me..."
+R10064-4_5_1,"Junior sister, junior sister, save, save me...","ศิษย์น้อง, ศิษย์น้องหญิง ช่วย.. ช่วยข้าด้วย..."
 R10064-4_5_2,"Still hoping that Miss Qu will soften her heart and save him when he's on the brink of death, he's really hopeless."
-R10084-4_talking,Mission
+R10084-4_talking,Mission,ภารกิจ
 R10084-4_1_1,"{PlayerName}, Luo Qianxue!",{PlayerName} ลั่วเฉียนเสวี่ย!
 R10084-4_1_2,I'm here!
 R10084-4_1_3,"Recently, we received news that there have been sightings of men in black taking children in and out of a mountain cave in Zhongzhou. We suspect it's a base for child trafficking."
@@ -3357,7 +3357,7 @@ R10084-4_6_2,Hmm?,อืมม?
 R10084-4_6_3,"We did nothing wrong this time. Although we were punished by the Chief Catcher, we feel incredibly relieved. The long-standing frustration in our hearts has finally disappeared."
 R10084-4_6_4,"{PlayerName}, thank you."
 R10092-2_1_1,"Don't bother me, my Steal skill is not yet perfected, I don't want to hold everyone back."
-R10092-2_2_1,Get lost——!!!
+R10092-2_2_1,Get lost——!!!,ไสหัวไป——!!!
 R10092-2_3_1,"Hey, you're not a member of Nest of Swallow anymore, why are you still bothering me?"
 R10092-2_4_1,"Even if you've run away from Nest of Swallow, I'm still yours, I don't mind being entangled with you."
 R10092-2_5_1,"It's a pity that your team is already full, I can't accompany you to wander the martial arts world for now."
@@ -3453,10 +3453,10 @@ R10050-1_8_3,"Seeing that he couldn't kill you, Kong Yidao had to dodge and leav
 R10050-1_9_1,"The Jianghu Master's golden order is here! Kong Yidao of Blue Wind Camp, am I qualified now?"
 R10050-1_10_1,"A single golden order can Invite any sect leader to serve you. Although it only lasts for <color=#c44b0e>ten days</color>, it's enough for you to do a lot."
 R10050-1_10_2,You're willing to waste a Jianghu Master token for me!
-R10050-1_10_3,"So, do you accept my Invite?"
+R10050-1_10_3,"So, do you accept my Invite?",เจ้ายอมรับคำเชิญของข้าหรือไม่?
 R10050-1_10_4,"In obedience to the Jianghu Master's order, Kong Yidao is willing to serve {PlayerName} like a dog and horse in this life!"
 R10050-1_11_1,What! You're willing to waste a Jianghu Master token for me!
-R10050-1_11_2,"So, do you accept my Invite?"
+R10050-1_11_2,"So, do you accept my Invite?",เจ้ายอมรับคำเชิญของข้าหรือไม่?
 R10050-1_11_3,"In obedience to the Jianghu Master's order, Kong Yidao is willing to serve {PlayerName} like a dog and horse in this life!"
 R10050-1_12_1,"{PlayerName}, our relationship has long been severed, why are you still looking for me!"
 R10050-1_13_1,"With me, Kong Yidao here, who dares to bully my brother, I'll chop him with a knife!","กับข้า, ขงอี้เตา ที่นี่ใครกล้ารังแกพี่ชายของข้า ข้าจะชำแหละมันด้วยมีดนี่!"
@@ -3473,19 +3473,19 @@ R10022-1_5_1,Is this a drug to control people's minds? You want to control me wi
 R10022-1_5_2,"Since you've seen through it, I'll have to take matters into my own hands and make you submit."
 R10022-1_6_1,"You forced Bu Juechen to take the Heart Broken pill. After a while, Bu Juechen's eyes became hazy, and he seemed confused.",เจ้าบังคับให้ปู้เจวี่ยเฉินกินยาหัวใจสลาย หลังจากนั้นไม่นาน ดวงตาของปู้เจวี่ยเฉินก็พร่ามัว และดูสับสน
 R10022-1_6_2,"Bu Juechen, I want you to recognize me as your master, I need your skills to do some things."
-R10022-1_6_3,Yes... master...
+R10022-1_6_3,Yes... master...,ขอรับ... นายท่าน...
 R10022-1_7_1,The Heart Broken pill has worn off...,ยาหัวใจสลายหมดฤทธิ์แล้ว...
-R10022-1_7_2,What?
+R10022-1_7_2,What?,อะไรนะ?
 R10022-1_7_3,"Hehehe, {PlayerName}, you were the first to be unrighteous, don't blame me for being rude!"
 R10022-1_8_1,"Bu Juechen, I've treated you well on this journey, and you're trying to kill me!"
 R10022-1_8_2,"As the leader of Nest of Swallow, I've been at your beck and call these days, which is a great humiliation! From now on, Nest of Swallow and you {PlayerName} are irreconcilable!"
 R10022-1_8_3,"Seeing that he couldn't get rid of you, Bu Juechen had to dodge and return to Nest of Swallow."
 R10022-1_9_1,"The Jianghu Master's golden order is here!\nNest of Swallow's Bu Juechen, am I qualified now?"
 R10022-1_10_1,"Humph, a golden order can invite any sect leader to serve you, although it only lasts for <color=#c44b0e>ten days</color>, it's enough for you to do a lot of things."
-R10022-1_10_2,"So, do you accept my Invite?"
+R10022-1_10_2,"So, do you accept my Invite?",เจ้ายอมรับคำเชิญของข้าหรือไม่?
 R10022-1_10_3,I will follow the orders of the Jianghu Master!,ข้าจะปฏิบัติตามคำสั่งของผู้นำยุทธภพ!
 R10022-1_11_1,"I didn't expect you to think so highly of me, even willing to use a Jianghu Master token."
-R10022-1_11_2,"So, do you accept my Invite?"
+R10022-1_11_2,"So, do you accept my Invite?",เจ้ายอมรับคำเชิญของข้าหรือไม่?
 R10022-1_11_3,I will follow the orders of the Jianghu Master!,ข้าจะปฏิบัติตามคำสั่งของผู้นำยุทธภพ!
 R10022-1_15_1,"The ten-day limit of the Jianghu Master token has arrived, you're on your own, I won't accompany you."
 R10022-1_16_1,"Although the ten-day agreement has not arrived, but this time you let me run away, then our agreement is terminated."
@@ -3507,7 +3507,7 @@ R10083-1_6_1,"You forced Luo Tianxiong to take the Heart Broken pill, and after 
 R10083-1_6_2,"From now on, serve me and obey my orders!"
 R10083-1_6_3,Yes... Master...
 R10083-1_7_1,The Heart Broken pill has worn off...,ยาหัวใจสลายหมดฤทธิ์แล้ว...
-R10083-1_7_2,What?
+R10083-1_7_2,What?,อะไรนะ?
 R10083-1_7_3,"{PlayerName}, how dare you drug me, the head of the Bureau, you shameless villain!"
 R10083-1_8_1,"Luo Tianxiong, I've treated you well all the way, and you want to kill me!"
 R10083-1_8_2,"I, Luo Tianxiong, am the head of the Crime Investigation Bureau. These days, I've been helping the enemy, which is a great humiliation! From now on, the Crime Investigation Bureau and you {PlayerName} will never stop fighting!"
@@ -3530,19 +3530,19 @@ R10043-1_5_1,"Do you think I'm a three-year-old child, trying to deceive me into
 R10043-1_5_2,"Since you've seen through it, I'll have to take matters into my own hands and make you submit."
 R10043-1_6_1,"You forced Jian Chi to take the Heart Broken pill, after a while, Jian Chi's eyes were blurred, and his mind was confused.",เจ้าบังคับให้ มารกระบี่ กินยาหัวใจสลาย หลังจากนั้นไม่นาน มารกระบี่ ดวงตาของ ก็พร่ามัว และจิตใจของเขาสับสน
 R10043-1_6_2,Join my team and become the sharp sword of the Head hunter in my hand.
-R10043-1_6_3,Yes... Yes...
+R10043-1_6_3,Yes... Yes...,ใช่... ใช่...
 R10043-1_7_1,I'm free! I'm free!!!
-R10043-1_7_2,What?
+R10043-1_7_2,What?,อะไรนะ?
 R10043-1_7_3,"{PlayerName}, you shameless brat, dare to control me with drugs, you should be punished!"
 R10043-1_8_1,"Senior Jian Chi, I have treated you well all the way, but you want to kill me!",ผู้อาวุโสมารกระบี่ ข้าปฏิบัติต่อท่านอย่างดีตลอดมา แต่ท่านกลับต้องการสังหารข้าอย่างนั้นหรือ!
 R10043-1_8_2,"Words are useless!\n{PlayerName}, Langya Sword Pavilion will never coexist with you from now on!"
 R10043-1_8_3,"Seeing that he couldn't get rid of you, Jian Chi had to dodge and return to Langya Sword Pavilion."
 R10043-1_9_1,"Jianghu Master's gold order is here!\nJian Chi, the master of Langya Pavilion, am I qualified now?"
 R10043-1_10_1,"Humph, a golden order can invite any sect leader to serve you, although it only lasts for <color=#c44b0e>ten days</color>, it's enough for you to do a lot of things."
-R10043-1_10_2,"So, do you accept my Invite?"
+R10043-1_10_2,"So, do you accept my Invite?",เจ้ายอมรับคำเชิญของข้าหรือไม่?
 R10043-1_10_3,I will follow the orders of the Jianghu Master!,ข้าจะปฏิบัติตามคำสั่งของผู้นำยุทธภพ!
 R10043-1_11_1,I didn't expect you to use a Jianghu Master token to invite me out of the mountain.
-R10043-1_11_2,"So, do you accept my Invite?"
+R10043-1_11_2,"So, do you accept my Invite?",เจ้ายอมรับคำเชิญของข้าหรือไม่?
 R10043-1_11_3,I will follow the orders of the Jianghu Master!
 R10043-1_15_1,"The ten-day limit of the Jianghu Master token has arrived, I will not accompany you anymore."
 R10043-1_16_1,"Although the ten-day agreement has not arrived, but this time you let me run away, then our agreement is terminated."
@@ -3550,7 +3550,7 @@ R10043-1_12_1,"My Langya Sword Pavilion does not welcome you!\nIf you don't want
 R10043-1_13_1,"In order to support the younger generation, my long-abandoned sharp blade should be unsheathed."
 R10043-1_14_1,"Your team doesn't even have a vacancy, how do you want me to help you."
 R10012-1_1_1,"Yes... (Zhong Yangzi just numbly agrees, without any actual reaction, because there are no extra spots in the team.)"
-R10012-1_2_1,Yes... master...
+R10012-1_2_1,Yes... master...,ขอรับ... นายท่าน...
 R10012-1_3_1,"The team has no extra space, unable to invite him to join the team."
 R10012-1_4_1,"Given the current situation, you don't have enough reasons to let the old way step into the rivers and lakes."
 R10012-1_op_1_dialog,(How should I invite Zhong Yangzi to join my team?),(ข้าจะเชิญ ฉงหยางสื่อ เข้าร่วมกลุ่มของข้าได้อย่างไร?)
@@ -3562,19 +3562,19 @@ R10012-1_5_2,"The head of the Taoist Sect is really knowledgeable!\nThis pill is
 R10012-1_6_1,"You forced Zhong Yangzi to take the Heart Broken pill, after a while, Zhong Yangzi's eyes were blurred, and his mind was confused.","เจ้าบังคับให้ ฉงหยางสื่อ กินยาหัวใจสลาย, หลังจากนั้นไม่นานดวงตาของ ฉงหยางสื่อ ก็พร่ามัว และจิตใจของเขาก็สับสน."
 R10012-1_6_2,"Zhong Yangzi, you are one of the top masters in the world, if I don't make good use of your strength, it would be the greatest disrespect to you.","ฉงหยางสื่อ ท่านเป็นหนึ่งในปรมาจารย์แถวหน้าของยุทธจักร, หากข้าไม่ใช้พละกำลังของท่านให้เกิดประโยชน์ มันจะเป็นการดูหมิ่นท่านอย่างที่ถึงที่สุด."
 R10012-1_6_3,"Submit under my feet, I will show you a new world!"
-R10012-1_6_4,Yes... Yes...
+R10012-1_6_4,Yes... Yes...,ใช่... ใช่...
 R10012-1_7_1,The Heart Broken pill is now ineffective for the old way...,ตอนนี้ยาหัวใจสลาย ใช้ไม่ได้ผลแบบเก่าแล้ว...
-R10012-1_7_2,What?
+R10012-1_7_2,What?,อะไรนะ?
 R10012-1_7_3,"{PlayerName}, your disaster is here!"
 R10012-1_8_1,"Zhong Yangzi, I have treated you well all the way, but you want to kill me!","ฉงหยางสื่อ,ข้าปฏิบัติต่อท่านอย่างดีมาโดยตลอด, แต่ท่าน! ต้องการจะฆ่าข้า!"
 R10012-1_8_2,"{PlayerName}, those who do evil will kill themselves!\nFrom now on, the Taoist Sect will never coexist with you!"
 R10012-1_8_3,"Seeing that he couldn't get rid of you, Zhong Yangzi had to dodge and return to the Taoist Sect.","เมื่อเห็นว่าเขากำจัดคุณไม่ได้, ฉงหยางสื่อ จึงหลบหนีกลับไปที่ลัทธิเต๋า."
 R10012-1_9_1,"Jianghu Master's gold order is here!\nHead of the Taoist Sect, do I have a reason to invite you back to the rivers and lakes now?"
 R10012-1_10_1,"A single golden order can Invite any sect leader to serve you. Although it only lasts for <color=#c44b0e>ten days</color>, it's enough for you to do a lot."
-R10012-1_10_2,"So, do you accept my Invite?"
+R10012-1_10_2,"So, do you accept my Invite?",เจ้ายอมรับคำเชิญของข้าหรือไม่?
 R10012-1_10_3,I will follow the orders of the Jianghu Master!
 R10012-1_11_1,I didn't expect you to use a Jianghu Master token to invite me out of the mountain.
-R10012-1_11_2,"So, do you accept my Invite?"
+R10012-1_11_2,"So, do you accept my Invite?",เจ้ายอมรับคำเชิญของข้าหรือไม่?
 R10012-1_11_3,I will follow the orders of the Jianghu Master!
 R10012-1_15_1,"The ten-day limit of the Jianghu Master token has arrived, I will not accompany you anymore."
 R10012-1_16_1,"Although the ten-day agreement has not arrived, but this time you let me run away, then our agreement is terminated."
@@ -3595,17 +3595,17 @@ R10024-1_6_1,"You forced Hui Yuan to take the Heart Broken pill, and after a whi
 R10024-1_6_2,"Master Hui Yuan, let go of your obsession.\nFrom now on, I {PlayerName} will be your new faith, worship at my feet.",ไต้ซือฮุ่ยหยวน จงละทิ้งความหลงใหลของท่าน.\nจากนี้ไป ข้า {PlayerName} จะเป็นศรัทธาใหม่ของท่าน นมัสการแทบเท้าของข้า.
 R10024-1_6_3,Amitabha...
 R10024-1_7_1,"Donor, the Heart Broken pill you gave me has now been detoxified.","ประสก, ยาหัวใจสลาย ที่เจ้าให้ข้าได้ถูกขจัดพิษออกไปแล้ว"
-R10024-1_7_2,What?
+R10024-1_7_2,What?,อะไรนะ?
 R10024-1_7_3,"Donor, you have committed heavy sins, let me enlighten you."
 R10024-1_8_1,"Master Hui Yuan, I have treated you well along the way, and you want to kill me!","ไต้ซือฮุ่ยหยวน,ข้าปฏิบัติต่อท่านอย่างดีมาโดยตลอด, แต่ท่านกลับต้องการสังหารข้าอย่างนั้นหรือ!"
 R10024-1_8_2,"Amitabha, The Devil should be punished by everyone.\nDonor, you have now entered the evil path, and from now on, Shifa Temple will be incompatible with you!"
 R10024-1_8_3,"Seeing that he could not get rid of you, Hui Yuan had to dodge and return to Shifa Temple.","เมื่อเห็นว่าเขากำจัดคุณไม่ได้, ฮุ่ยหยวน จึงได้หลบหนีกลับไปที่อารามฉีฟา."
 R10024-1_9_1,"Jianghu Master's gold order is here!\nMaster Hui Yuan, am I qualified now?"
 R10024-1_10_1,"A single golden order can Invite any sect leader to serve you. Although it only lasts for <color=#c44b0e>ten days</color>, it's enough for you to do a lot."
-R10024-1_10_2,"So, do you accept my Invite?"
+R10024-1_10_2,"So, do you accept my Invite?",เจ้ายอมรับคำเชิญของข้าหรือไม่?
 R10024-1_10_3,I will follow the order of Jianghu Master!
 R10024-1_11_1,I didn't expect you to use a Jianghu Master token to invite me back into the world.
-R10024-1_11_2,"So, do you accept my Invite?"
+R10024-1_11_2,"So, do you accept my Invite?",เจ้ายอมรับคำเชิญของข้าหรือไม่?
 R10024-1_11_3,I will follow the order of Jianghu Master!
 R10024-1_15_1,"The ten-day limit of the Jianghu Master token has arrived, I will return to Shifa Temple, {PlayerSurName} donor, see you later."
 R10024-1_16_1,"Although the ten-day agreement has not arrived, but this time you let me run away, then our agreement is terminated."
@@ -3626,19 +3626,19 @@ R10017-1_5_2,"Since you have seen it, I have to do it myself and serve the maste
 R10017-1_6_1,"You forced Cai Yuanchang to take the Heart Broken pill, and after a while, Cai Yuanchang's eyes were blurred, and his mind was confused.",เจ้าบังคับให้ ไช่หยวนฉาง กินยาหัวใจสลาย หลังจากนั้นไม่นาน  ดวงตาของ ไช่หยวนฉาง ก็พร่ามัว และจิตใจของเขาสับสน
 R10017-1_6_2,"The master of Confucius Temple is nothing more than that, and he still bows his head in front of me."
 R10017-1_6_3,"Cai Yuanchang, from now on I will be your master, you must listen to me!"
-R10017-1_6_4,Yes... master...
+R10017-1_6_4,Yes... master...,ขอรับ... นายท่าน...
 R10017-1_7_1,The Heart Broken pill has worn off...,ยาหัวใจสลายหมดฤทธิ์แล้ว...
-R10017-1_7_2,What?
+R10017-1_7_2,What?,อะไรนะ?
 R10017-1_7_3,"{PlayerName}, how dare you let me recognize you as the master!\nThief, looking for death!!!"
 R10017-1_8_1,"Cai Yuanchang, I have treated you well along the way, and you want to kill me!"
 R10017-1_8_2,"Thief, you are lucky today, I want to see how long you can be arrogant!"
 R10017-1_8_3,"Seeing that he could not get rid of you, Cai Yuanchang had to dodge and return to Confucius Temple."
 R10017-1_9_1,"Jianghu Master's gold order is here!\nMaster Cai Yuanchang of Confucius Temple, am I qualified now?"
 R10017-1_10_1,"A single golden order can Invite any sect leader to serve you. Although it only lasts for <color=#c44b0e>ten days</color>, it's enough for you to do a lot."
-R10017-1_10_2,"So, do you accept my Invite?"
+R10017-1_10_2,"So, do you accept my Invite?",เจ้ายอมรับคำเชิญของข้าหรือไม่?
 R10017-1_10_3,I will follow the order of Jianghu Master!
 R10017-1_11_1,"Since you have the Jianghu Master token in your hand, you naturally have this qualification."
-R10017-1_11_2,"So, do you accept my Invite?"
+R10017-1_11_2,"So, do you accept my Invite?",เจ้ายอมรับคำเชิญของข้าหรือไม่?
 R10017-1_11_3,I will follow the order of Jianghu Master!
 R10017-1_15_1,"The ten-day limit of the Jianghu Master token has arrived, I have fulfilled my promise and can't accompany you."
 R10017-1_16_1,"Although the ten-day agreement has not arrived, but this time you let me run away, then our agreement is terminated."
@@ -5966,14 +5966,14 @@ Day-2030-8-2_op_1_1,That's exactly what I had in mind! (Protagonist duels)
 Day-2030-8-2_op_1_2,Refuse to spar.
 Day-2030-8-2_2_1,You'd better think it over. I'm in a good mood today. Don't regret missing the opportunity.
 Day-2030-8-2_3_1,What kind of garbage kung fu have you learned? You're no match for me.
-Day-2030-8-2_4_1,"You've actually learned Hua Chi's unique martial art, Quiet Valley Drawing!","คุณได้เรียนรู้วิทยายุทธอันเป็นเอกลักษณ์ของ ฮวาชือ แล้ว, วาดภาพหุบเขาสงบ!"
-Day-2030-8-2_4_2,You defeated me with Hua Chi's martial arts. How can I hold my head up in front of that kid in the future!
+Day-2030-8-2_4_1,"You've actually learned Hua Chi's unique martial art, Quiet Valley Drawing!",เจ้าได้เรียนรู้วิทยายุทธอันเป็นเอกลักษณ์ของ ฮวาชือ แล้ว วาดภาพหุบเขาสงบ!
+Day-2030-8-2_4_2,You defeated me with Hua Chi's martial arts. How can I hold my head up in front of that kid in the future!,เจ้าเอาชนะข้าด้วยวรยุทธ์ของฮวาชือ ข้าจะเชิดหัวต่อหน้าเด็กคนนั้นได้ยังไงในอนาคต!
 Day-2030-8-2_4_3,"You have to learn one of my martial arts, or don't come to me in the future!"
 Day-2030-8-2_5_1,"Have you learned the martial arts I taught you? If you don't learn my martial arts, don't come to me again."
 Day-2030-8-2_6_1,"You're not planning to perfunctory me, are you? This Cao Quan Steele's kung fu is my painstaking creation. You have to practice it to justify me.",เจ้าไม่ได้ตั้งใจจะแกล้งข้าใช่ไหม? วิทยายุทธ อนุสาวรีย์เฉาฉวน นี้เป็นการสร้างสรรค์อย่างอุตสาหะของข้า. เจ้าต้องฝึกมันเพื่อพิสูจน์ให้ข้าเห็น.
 Day-2030-8-2_7_1,"That's more like it. When you make something of yourself in the future, I'll be proud!"
 Day-2030-8-1_1_1,"You have added many valuable paintings to my Ink House over this period of time. As a token of my gratitude, I will give you a martial arts manual that I created myself."
-Day-2030-8-1_1_2,"Don't let Shu Kuang know that I gave you this manual, or I won't be able to live in peace."
+Day-2030-8-1_1_2,"Don't let Shu Kuang know that I gave you this manual, or I won't be able to live in peace.",อย่าให้ ซูกวง รู้ว่าข้าได้ให้ตำราเล่มนี้แก่เจ้า ไม่เช่นนั้นข้าจะไม่สามารถอยู่อย่างสงบสุขได้
 R10008-1_1_1,"Stop, what are you going to do?"
 R10008-1_1_2,Is this a forbidden area of the sect?
 R10008-1_1_3,No!

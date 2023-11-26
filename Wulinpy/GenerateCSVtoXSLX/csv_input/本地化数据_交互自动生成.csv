@@ -1522,7 +1522,7 @@ NpcJobTalk_自我称呼_苗木黎,I,ข้า
 NpcJobTalk_自我称呼_洪小七,We,พวกเรา
 NpcJobTalk_自我称呼_苗彩蝶,Colorful Butterfly.,ผีเสื้อหลากสี
 NpcJobTalk_自我称呼_释嗔,Me,ข้า
-NpcJobTalk_自我称呼_凌鸿轩,Below
+NpcJobTalk_自我称呼_凌鸿轩,Below,ข้างล่าง
 NpcJobTalk_自我称呼_凌梦蝶,I,ข้า
 NpcJobTalk_自我称呼_叶银瓶,This lady,สตรีผู้นี้
 NpcJobTalk_自我称呼_佟道辅,Our family,ครอบครัวเรา
@@ -1532,7 +1532,7 @@ NpcJobTalk_自我称呼_方啸天,This seat
 NpcJobTalk_自我称呼_柴王爷,This king
 NpcJobTalk_自我称呼_邋遢张,This Taoist master
 NpcJobTalk_自我称呼_蔡元常,Old man,ชายชรา
-NpcJobTalk_自我称呼_蔡攸之,Below
+NpcJobTalk_自我称呼_蔡攸之,Below,ข้างล่าง
 NpcJobTalk_自我称呼_损道人,Little Taoist
 NpcJobTalk_自我称呼_邪戏子,Slave family,บ่าว
 NpcJobTalk_自我称呼_贝师爷,Humble person
@@ -1551,23 +1551,23 @@ NpcJobTalk_自我称呼_完颜乌珠,This general
 NpcJobTalk_自我称呼_完颜亮,I,ข้า
 NpcJobTalk_自我称呼_萧元霸,Me,ข้า
 NpcJobTalk_自我称呼_定风波,Some home,บ้านบางหลัง
-NpcJobTalk_自我称呼_诸葛神机,Below
+NpcJobTalk_自我称呼_诸葛神机,Below,ข้างล่าง
 NpcJobTalk_自我称呼_定海棠,I,ข้า
 NpcJobTalk_自我称呼_穆再兴,I,ข้า
 NpcJobTalk_自我称呼_扶摇子,Old man,ชายชรา
-NpcJobTalk_自我称呼_残棋,Below
+NpcJobTalk_自我称呼_残棋,Below,ข้างล่าง
 NpcJobTalk_自我称呼_剑痴,Old man,ชายชรา
 NpcJobTalk_自我称呼_欧冶恒,I,ข้า
 NpcJobTalk_自我称呼_韩红玉,I,ข้า
 NpcJobTalk_自我称呼_独孤剑一,I,ข้า
 NpcJobTalk_自我称呼_柳生武藏,Humble person
-NpcJobTalk_自我称呼_服部兵卫,Below
+NpcJobTalk_自我称呼_服部兵卫,Below,ข้างล่าง
 NpcJobTalk_自我称呼_月咏樱羽,I,ข้า
 NpcJobTalk_自我称呼_孔一刀,Some home
-NpcJobTalk_自我称呼_计百出,Below
+NpcJobTalk_自我称呼_计百出,Below,ข้างล่าง
 NpcJobTalk_自我称呼_顾倾城,Slave family,บ่าว
 NpcJobTalk_自我称呼_江南怪,Old monster
-NpcJobTalk_自我称呼_书生中青年,Below
+NpcJobTalk_自我称呼_书生中青年,Below,ข้างล่าง
 NpcJobTalk_自我称呼_书生老年,Old man,ผู้เฒ่า
 NpcJobTalk_自我称呼_老人,Old man,ผู้เฒ่า
 NpcJobTalk_自我称呼_妇女,Slave family,บ่าว
@@ -1629,48 +1629,48 @@ NpcJobTalk_第二人称敬语_方啸天,Brother,น้องชาย
 NpcJobTalk_第二人称敬语_柴王爷,Young hero,จอมยุทธน้อย
 NpcJobTalk_第二人称敬语_邋遢张,Kid,เจ้าหนู
 NpcJobTalk_第二人称敬语_蔡元常,Young hero,จอมยุทธน้อย
-NpcJobTalk_第二人称敬语_蔡攸之,Brother,น้อง
-NpcJobTalk_第二人称敬语_损道人,Worthy brother
-NpcJobTalk_第二人称敬语_邪戏子,Big official
-NpcJobTalk_第二人称敬语_贝师爷,Worthy brother
+NpcJobTalk_第二人称敬语_蔡攸之,Brother,น้องชาย
+NpcJobTalk_第二人称敬语_损道人,Worthy brother,น้องชายที่คู่ควร
+NpcJobTalk_第二人称敬语_邪戏子,Big official,คนใหญ่คนโต
+NpcJobTalk_第二人称敬语_贝师爷,Worthy brother,น้องชายที่คู่ควร
 NpcJobTalk_第二人称敬语_步绝尘,Little brother,น้องชาย
 NpcJobTalk_第二人称敬语_华严禅师,Benefactor,ผู้มีพระคุณ
-NpcJobTalk_第二人称敬语_慧元禅师,Benefactor
+NpcJobTalk_第二人称敬语_慧元禅师,Benefactor,ผู้มีพระคุณ
 NpcJobTalk_第二人称敬语_癞头癫,Brother,น้องชาย
 NpcJobTalk_第二人称敬语_秦会之,Young hero,จอมยุทธน้อย
 NpcJobTalk_第二人称敬语_慕容燕,Son,คุณชาย
 NpcJobTalk_第二人称敬语_恶乞丐,Brother,น้องชาย
 NpcJobTalk_第二人称敬语_毒伢婆,Little brother,น้องชาย
-NpcJobTalk_第二人称敬语_庖春秋,Brother
-NpcJobTalk_第二人称敬语_秦阎罗,Brother
-NpcJobTalk_第二人称敬语_叶云,Brother
+NpcJobTalk_第二人称敬语_庖春秋,Brother,น้องชาย
+NpcJobTalk_第二人称敬语_秦阎罗,Brother,น้องชาย
+NpcJobTalk_第二人称敬语_叶云,Brother,น้องชาย
 NpcJobTalk_第二人称敬语_完颜乌珠,Young hero,จอมยุทธน้อย
-NpcJobTalk_第二人称敬语_完颜亮,Brother
-NpcJobTalk_第二人称敬语_萧元霸,Brother
+NpcJobTalk_第二人称敬语_完颜亮,Brother,น้องชาย
+NpcJobTalk_第二人称敬语_萧元霸,Brother,น้องชาย
 NpcJobTalk_第二人称敬语_定风波,Brother,น้องชาย
-NpcJobTalk_第二人称敬语_诸葛神机,Brother
+NpcJobTalk_第二人称敬语_诸葛神机,Brother,น้องชาย
 NpcJobTalk_第二人称敬语_定海棠,Young hero,จอมยุทธน้อย
-NpcJobTalk_第二人称敬语_穆再兴,Brother
-NpcJobTalk_第二人称敬语_扶摇子,Little friend
-NpcJobTalk_第二人称敬语_残棋,Brother
+NpcJobTalk_第二人称敬语_穆再兴,Brother,น้องชาย
+NpcJobTalk_第二人称敬语_扶摇子,Little friend,สหายน้อย
+NpcJobTalk_第二人称敬语_残棋,Brother,น้องชาย
 NpcJobTalk_第二人称敬语_剑痴,Little friend,สหายน้อย
-NpcJobTalk_第二人称敬语_欧冶恒,Brother
-NpcJobTalk_第二人称敬语_韩红玉,Brother
-NpcJobTalk_第二人称敬语_独孤剑一,Brother
+NpcJobTalk_第二人称敬语_欧冶恒,Brother,น้องชาย
+NpcJobTalk_第二人称敬语_韩红玉,Brother,น้องชาย
+NpcJobTalk_第二人称敬语_独孤剑一,Brother,น้องชาย
 NpcJobTalk_第二人称敬语_柳生武藏,Little friend,สหายน้อย
 NpcJobTalk_第二人称敬语_服部兵卫,Young hero,จอมยุทธน้อย
 NpcJobTalk_第二人称敬语_月咏樱羽,Son,คุณชาย
 NpcJobTalk_第二人称敬语_孔一刀,Brother,น้องชาย
-NpcJobTalk_第二人称敬语_计百出,Worthy brother
+NpcJobTalk_第二人称敬语_计百出,Worthy brother,น้องชายที่คู่ควร
 NpcJobTalk_第二人称敬语_顾倾城,Son,คุณชาย
-NpcJobTalk_第二人称敬语_江南怪,Stinky little ghost
+NpcJobTalk_第二人称敬语_江南怪,Stinky little ghost,ผีน้อยตัวเหม็น
 NpcJobTalk_第二人称敬语_书生中青年,Son,คุณชาย
 NpcJobTalk_第二人称敬语_书生老年,Little friend,สหายน้อย
 NpcJobTalk_第二人称敬语_老人,Little brother,น้องชาย
 NpcJobTalk_第二人称敬语_妇女,Little brother,น้องชาย
 NpcJobTalk_第二人称敬语_少女,Son,คุณชาย
 NpcJobTalk_第二人称敬语_老婆婆,Little brother,น้องชาย
-NpcJobTalk_第二人称敬语_官员儿子,Brother
+NpcJobTalk_第二人称敬语_官员儿子,Brother,น้องชาย
 NpcJobTalk_第二人称敬语_男仆役,Son,คุณชาย
 NpcJobTalk_第二人称敬语_女仆役,Son,คุณชาย
 NpcJobTalk_第二人称敬语_文官,Hero,จอมยุทธ
@@ -1685,7 +1685,7 @@ NpcJobTalk_第二人称敬语_乡村中年人,Brother,น้องชาย
 NpcJobTalk_第二人称敬语_粗鲁中年人,Brother,น้องชาย
 NpcJobTalk_第二人称敬语_通用,Young hero,จอมยุทธน้อย
 NpcJobTalk_第二人称敬语_方小白,Big brother,พี่ใหญ่
-NpcJobTalk_第二人称敬语_福箐郡主,Official
+NpcJobTalk_第二人称敬语_福箐郡主,Official,เจ้าหน้าที่
 NpcJobTalk_第二人称脏话_通用,You
 NpcJobTalk_第二人称脏话_苗木黎,Turtle son
 NpcJobTalk_第二人称脏话_释嗔,Dog hybrid,เจ้าสนัขพันทาง

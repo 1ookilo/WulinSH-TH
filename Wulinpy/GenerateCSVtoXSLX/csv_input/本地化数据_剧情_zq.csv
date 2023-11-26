@@ -2763,14 +2763,14 @@ R20005-3_5_1,"Xiao Bao says he wants to be a hero when he grows up, or at least 
 R20005-3_6_1,"Xiao Bao's father was a hot-blooded man who stood up for others, and he was killed by a group of brutes...\nAh... I don't dare to tell Xiao Bao the truth, I just lie to him that his father is still traveling.",พ่อของเสี่ยวเปาเป็นคนเลือดร้อน มักออกหน้าแทนผู้อื่น แล้วก็ต้องจบชีวิตลงด้วยน้ำมือของกลุ่มคนชั่ว...\nเฮอ... ข้าไม่กล้าเล่าความจริงนั้นให้กับเสี่ยวเปา ข้าเพียงแสร้งบอกว่าบิดาของตนนั้นยังคงออกท่องยุทธภพอยู่
 R20005-3_7_1,"I don't look down on all martial artists.\nLike Marshal Ye, who is brave and patriotic, leading the Ye Family Battalion to quell bandits and rebels everywhere, I Admire him very much.",ข้าไม่ได้กล่าวดูแคลนเหล่าผู้ฝึกยุทธทั้งหลาย ดั่งเช่นแม่ทัพเย่ผู้กล้าหาญและรักชาติ\nนำทัพตระกูลเย่ออกปราบโจรผู้ร้ายและกบฏทั่วแผ่นดิน ข้านับถือท่านผู้นี้ยิ่งนัก
 R20005-3_8_1,"As for that so-called leader of the scholars, Cai Yuanchang, I don't think he lives up to his name.\nThe so-called ""a minister should die for his sovereign"", the current emperor has been kidnapped, but he is safe and sound, holding a high position, he doesn't have the spirit of a scholar at all.",เจ้าคนที่นามว่า ใช่ หยวนฉาง ที่เป็นผู้นำของเหล่าบัณฑิตนั้น ข้าว่าเจ้านั้นมันช่างไม่สมกับชื่อเสียงของมันเลยเสียจริง\nดังที่ว่ากันว่า 'ขุนนางพึ่งสละชีพเพื่อองค์ฮองเต้' บัดนี้ฮ่องเต้ถูกลักพาตัวไป แต่บุรุษผู้นี้กลับอยู่รอดปลอดภัย \nยังคงนั่งอยู่บนตำแหน่งสูงศักดิ์ ช่างไร้ซึ่งความกล้าหาญและศักดิ์ศรีของบัณฑิตยิ่งนัก
-R20005-3_9_1,"There are often some unclaimed items in the town pawnshop, among which there are many hidden gems.\nIf you are proficient in Appraise, you can naturally pick up the bargains and restore their original appearance."
-R20005-3_10_1,"I don't know where I lost my Cattail fan.\nIt's been with me for many years, it would be a pity if it was lost."
-R20005-3_11_1,Only those who are recognized by the villagers are eligible to get the things I guard.
-R20005-4_1_1,"Village Head, is this Cattail fan the one you lost?"
-R20005-4_1_2,"It is indeed this fan, thank you, {PlayerSurName} for finding it.\nCould you return it to me? I would be very grateful."
-R20005-4_2_1,"The world is going downhill, people are not as good as they used to be...\nYou are so young, I didn't expect you to be so greedy."
-R20005-4_3_1,"{PlayerSurName}, you are truly Honorable."
-R20005-4_4_1,"{yell}, you are a disgrace! A gentleman can be killed but not insulted, I don't want this Cattail fan anymore!"
+R20005-3_9_1,"There are often some unclaimed items in the town pawnshop, among which there are many hidden gems.\nIf you are proficient in Appraise, you can naturally pick up the bargains and restore their original appearance.",ในโรงรับจำนำของเมืองมักมีสิ่งของ ที่เจ้าของไม่มาไถ่ถอนอยู่เสมอ ท่ามกลางสิ่งของเหล่านั้นก็ย่อมมีอัญมณีล้ำค่าซ่อนอยู่มากมาย \nหากเจ้าเชี่ยวชาญในวิชาการประเมินค่า  ย่อมหยิบฉวยของดีราคาถูกมาครอบครองได้ และฟื้นคืนสภาพเดิมของมันได้
+R20005-3_10_1,"I don't know where I lost my Cattail fan.\nIt's been with me for many years, it would be a pity if it was lost.",ข้าไม่รู้ว่าพัดสานของข้าหายไปไหน ของสิ่งนี้อยู่ข้างกายข้ามาช้านาน \nน่าเสียดายเหลือเกินหากต้องสูญเสียมันไป
+R20005-3_11_1,Only those who are recognized by the villagers are eligible to get the things I guard.,ผู้ใดที่ได้รับการยอมรับจากบรรดาชาวบ้าน ย่อมเหมาะสมที่จะได้รับสิ่งของที่เฝ้าดูแลรักษา
+R20005-4_1_1,"Village Head, is this Cattail fan the one you lost?",ท่านหัวหน้าหมู่บ้าน พัดสานเล่มนี้ ใช่อันที่ท่านทำหายไปหรือไม่?
+R20005-4_1_2,"It is indeed this fan, thank you, {PlayerSurName} for finding it.\nCould you return it to me? I would be very grateful.",ใช่แล้ว นี่แหละพัดของข้า ขอบคุณเจ้ามาก {PlayerSurName} ที่อุตส่าห์หามันเจอ\nเจ้าช่วยคืนมันให้กับข้าได้หรือไม่? หากได้ ข้าก็จะรู้สึกซาบซึ้งยิ่งนัก
+R20005-4_2_1,"The world is going downhill, people are not as good as they used to be...\nYou are so young, I didn't expect you to be so greedy.",โลกนี้กำลังเสื่อมถอย คนเราไม่มีคุณความดีเหมือนแต่ก่อน... \nเจ้ายังเยาว์วัย ข้าไม่คิดว่าเจ้าจะละโมบเช่นนี้
+R20005-4_3_1,"{PlayerSurName}, you are truly Honorable.",{PlayerSurName} เจ้าช่างมีคุณธรรมสูงส่งยิ่งนัก
+R20005-4_4_1,"{yell}, you are a disgrace! A gentleman can be killed but not insulted, I don't want this Cattail fan anymore!",{yell} เจ้าช่างต่ำช้ายิ่งนัก! ลูกผู้ชายฆ่าได้ แต่หยามไม่ได้ ข้าไม่ต้องการพัดเล่มนี้อีกต่อไปแล้ว
 R20004-1_1_1,I am the model guide who knows everything and speaks everything - Bao Dating.\nI know everything about the big and small things in the surrounding villages!,ข้าคือผู้แนะนำที่รู้ทุกอย่าง และสามารถบอกเจ้าได้ทุกสิ่ง - เปาต้าถิง\nไม่ว่าจะเป็นเรื่องใหญ่น้อยใดๆที่เกิดขึ้นรอบๆหมู่บ้านแห่งนี้ข้ารู้หมดทั้งสิ้น!
 R20004-2_1_1,"Hua Siniang is the Yi Zhihua of this village, there are many people who want to pursue her!\nBut her personality is quite... you know, so not many people dare to approach her."
 R20004-2_2_1,"Do you know the origin of the name of the doctor, Bai Touweng?\nLet me tell you a secret, he just passed the age of forty, I don't know why he looks so old.",เจ้าทราบหรือไม่ว่าที่มาของชื่อของหมอ ไป่โถวเวิ่งนั้น ได้มาอย่างไร? \nข้าจะบอกความลับให้กับเจ้าอย่างหนึ่ง เขาเพิ่งจะย่างเข้าสู่วัยสี่สิบ แต่ข้าไม่รู้เหตุใดจึงดูแก่ชรานัก
@@ -2856,7 +2856,7 @@ R20006-3_1_6,"I've sent you plenty of drinks, isn't that enough?"
 R20006-3_1_7,How many times have you sent good drinks?\nSometimes I want to taste some good wine too.
 R20006-3_1_8,Your Alcoholic is really a bottomless pit...
 R20006-3_2_1,"Wang Dachui, for the sake of {PlayerGivenName}, I'll forgive your debt."
-R20006-3_2_2,What? Are you serious?
+R20006-3_2_2,What? Are you serious?,อะไรนะ? เจ้าจริงจังไหม?
 R20006-3_2_3,"Of course, when have I ever gone back on my word?\nBut this is for the sake of {PlayerGivenName}, if he needs something in the future..."
 R20006-3_2_4,"Understood! Brother, you really have a lot of influence, I'm truly impressed.\nIf you need me in the future, just come find me, I'll accompany you through hell and high water!"
 R20006-3_3_1,"Brother, Hua Siniang is no longer in the village, she said something about family matters."
@@ -2868,7 +2868,7 @@ R20006-3_4_2,"That guy owes me so much money, if he doesn't pay back soon, I'll 
 R20006-3_5_1,"As long as the money is paid back, there can't be much resentment between neighbors.\nTell that blacksmith for me, if he's thirsty, he can come to the shop for a drink, I'm not stingy."
 R20006-3_6_1,"Go away, I'm busy!\nDon't mess with me."
 R20006-3_7_1,"Brother, you can go to Hua Siniang's shop for a drink again.\nI've paid back all the money you owe."
-R20006-3_7_2,What? Are you serious?
+R20006-3_7_2,What? Are you serious?,อะไรนะ? เจ้าจริงจังไหม?
 R20006-3_7_3,"Good brother, I really appreciate it!"
 R20006-3_7_4,"Having a reliable brother like you is my blessing!\nIf you need me in the future, just come find me, I'll accompany you through hell and high water!"
 R20006-4_1_1,"I just want to live a quiet life in this village, I don't want to go anywhere.",ข้าไม่อยากออกไปไหน ข้าแค่อยากอยู่เงียบๆในหมู่บ้านแห่งนี้
@@ -3424,7 +3424,7 @@ Role1-6-4_1_6,Is there anything I need to be aware of when riding your horse car
 Role1-6-4_1_7,"<color=#097a76>The further you go, the longer it takes, and the more expensive the fare. In some places, we can't stay, so after we drop you off, we have to run away.</color>"
 Role1-6-4_1_8,"That sounds reasonable, but the cost of going back and forth is not small, it hurts just thinking about it."
 Role1-6-4_1_9,"I heard that some animals can be ridden as mounts after being tamed, then naturally you can go wherever you want, saving the cost of riding a horse carriage."
-Role1-6-4_1_10,Is there such a good thing? Where can I find them?
+Role1-6-4_1_10,Is there such a good thing? Where can I find them?,มีสิ่งดีๆ เช่นนี้ด้วยหรือ? ข้าจะหาพวกมันได้ที่ไหน?
 Role1-6-4_1_11,"Young man, you're going off topic, are you still going to ride this horse carriage or not?"
 Role1-6-4_1_12,"Sorry, sorry, before I find my own exclusive mount, I'll have to trouble you more."
 R10053-1_1_1,"Ever since the emperor was invited to the north for a ""hunt"", the Zhao kingdom has been falling apart."
@@ -7153,7 +7153,7 @@ R10071-1_2_3,"In addition, the host is generous, so there is no registration fee
 R10071-1_2_4,Did you hear that clearly?
 R10071-1_3_1,What do you think? Are you interested in participating in this martial arts competition for marriage?
 R10071-1_4_1,"If {PlayerName} young hero is interested in this martial arts competition for marriage, please register with me during Si Shi to You Shi. If you miss the time, you will miss the chance of marriage."
-R10071-1_5_1,Good! I wish you success!
+R10071-1_5_1,Good! I wish you success!,ดี! ข้าขอให้เจ้าประสบความสำเร็จ!
 R10071-1_6_1,"Alas, it's a pity, it seems this marriage is not destined for me."
 R10071-1_6_2,"No, I can't just leave like this, at least I have to see the beauty of this young lady!"
 R10071-1_6_3,{yell} Who else is not convinced!
@@ -8132,37 +8132,37 @@ R10083-0_1_1,"I am {PlayerName}, may I ask your name?"
 R10083-0_1_2,"Head of the Crime Investigation Bureau, Luo Tianxiong."
 R10083-0_1_3,"So it's Head Luo, my apologies."
 R10079-0_1_1,"I am {PlayerName}, may I ask your name?"
-R10079-0_1_2,I am Shu Kuang from Confucius Temple.\nDoes Brother {PlayerSurName} also know calligraphy?
+R10079-0_1_2,I am Shu Kuang from Confucius Temple.\nDoes Brother {PlayerSurName} also know calligraphy?,ข้าชื่อซูกวงจากวัดขงจื้อ\nน้อง {PlayerSurName} รู้จักงานเขียนด้วยหรือเปล่า?
 R10079-0_1_3,"Hehe, untrained."
 R10079-0_1_4,"In that case, no need for further conversation."
 R10079-0_2_1,"I didn't expect the master of the Lightning Gate in Daliang City to be you in disguise, truly amazing."
 R10079-0_2_2,"I, {PlayerName}, didn't know your identity that day, I was disrespectful, please forgive me."
-R10079-0_2_3,"At first, I just thought it was fun to play, but I didn't expect to meet a brave young man like you. Although I lost the bet with Hua Chi, it was worth it!"
-R10079-0_2_4,"I am Shu Kuang from Confucius Temple, I love to imitate famous calligraphy. If you come across any rare calligraphy, don't forget to leave a few copies for me."
+R10079-0_2_3,"At first, I just thought it was fun to play, but I didn't expect to meet a brave young man like you. Although I lost the bet with Hua Chi, it was worth it!","ตอนแรกก็แค่คิดว่ามันน่าสนุกที่จะเล่น แต่ไม่คิดว่าจะเจอหนุ่มกล้าอย่างเจ้า แม้ว่าข้าจะแพ้เดิมพันกับฮวาชือ,แต่มันก็คุ้มค่า!"
+R10079-0_2_4,"I am Shu Kuang from Confucius Temple, I love to imitate famous calligraphy. If you come across any rare calligraphy, don't forget to leave a few copies for me.","ข้าชื่อซูกวงจากวัดขงจื้อ, ข้าชอบเลียนแบบงานประดิษฐ์ตัวอักษรที่มีชื่อเสียง หากเจ้าพบเห็นอักษรวิจิตรหายากอย่าลืมทิ้งสำเนาไว้ให้ข้าบ้าง"
 R10079-0_3_1,"I didn't expect the master of the Lightning Gate in Daliang City to be you in disguise, truly amazing."
 R10079-0_3_2,"I, {PlayerName}, didn't know your identity that day, I was disrespectful, please forgive me."
-R10079-0_3_3,"I am one of the Four Sages of Confucius Temple, Shu Kuang!\nNo matter how you managed to get into Confucius Temple, if you didn't pass my test that day, don't expect me to be nice to you in the future."
+R10079-0_3_3,"I am one of the Four Sages of Confucius Temple, Shu Kuang!\nNo matter how you managed to get into Confucius Temple, if you didn't pass my test that day, don't expect me to be nice to you in the future.","ข้าเป็นหนึ่งในสี่ปราชญ์แห่งวัดขงจื้อ, ซูกวง!\nไม่ว่าเจ้าจะเข้ามาในวัดขงจื้อได้อย่างไร หากเจ้าไม่ผ่านการทดสอบของข้าในวันนั้น อย่าคาดหวังว่าข้าจะทำดีกับเจ้าในอนาคต"
 R10079-0_4_1,"Student {PlayerName}, may I ask your name?"
-R10079-0_4_2,"I am one of the Four Sages of the Confucius Temple, Shu Kuang!\nDon't expect me to be nice to you if you become a disciple of the Confucius Temple without passing my test."
-R10079-1_1_1,"Hua Chi hasn't run away from Confucius Temple, how can I leave him here alone."
-R10079-1_2_1,"Wherever Hua Chi goes, I will follow. If he stays in Confucius Temple, I will stay with him!"
+R10079-0_4_2,"I am one of the Four Sages of the Confucius Temple, Shu Kuang!\nDon't expect me to be nice to you if you become a disciple of the Confucius Temple without passing my test.","ข้าเป็นหนึ่งในสี่ปราชญ์แห่งวัดขงจื้อ, ซูกวง!\nอย่าคาดหวังว่าข้าจะดีกับเจ้าหากเจ้าเป็นศิษย์ของวัดขงจื้อโดยไม่ผ่านการทดสอบของข้า"
+R10079-1_1_1,"Hua Chi hasn't run away from Confucius Temple, how can I leave him here alone.",ฮวาชือไม่ได้หลบหนีจากวัดขงจื้อ ข้าจะทิ้งเขาไว้ที่นี่คนเดียวได้อย่างไร
+R10079-1_2_1,"Wherever Hua Chi goes, I will follow. If he stays in Confucius Temple, I will stay with him!",ฮวาชือไปทางไหนข้าก็จะตามไป ถ้าเขาอยู่ในวัดขงจื้อ ข้าก็จะอยู่กับเขา!
 R10079-1_3_1,"You had the audacity to write on my painting, with your scribbles, the mood of my painting is completely lost, it's better if you stay away from me!"
 R10079-1_4_1,"We are inseparable, your painting only complements my writing!"
 R10079-1_5_1,"Kid named {PlayerSurName}, make room in your team for me to join!"
-R10079-1_6_1,"If you want to invite Shu Kuang, it seems you have to invite Hua Chi first."
+R10079-1_6_1,"If you want to invite Shu Kuang, it seems you have to invite Hua Chi first.",หากเจ้าต้องการเชิญซูกวง ดูเหมือนว่าเจ้าต้องเชิญฮวาชือก่อน
 R10080-0_1_1,"I am {PlayerName}, may I ask your name?"
-R10080-0_1_2,"I'm a little-known painter in Confucius Temple, people call me Hua Chi."
+R10080-0_1_2,"I'm a little-known painter in Confucius Temple, people call me Hua Chi.",ข้าเป็นจิตรกรที่ไม่ค่อยมีใครรู้จักแห่งวัดขงจื้อ ผู้คนเรียกข้าว่าฮวาชือ
 R10080-0_2_1,"I, {PlayerName}, didn't know your identity that day, I was disrespectful, please don't take it to heart."
-R10080-0_2_2,"I am Hua Chi, one of the Four Sages of Confucius Temple, apart from painting, I don't take anything else to heart."
+R10080-0_2_2,"I am Hua Chi, one of the Four Sages of Confucius Temple, apart from painting, I don't take anything else to heart.",ข้าชื่อฮวาชือ หนึ่งในสี่ปราชญ์แห่งวัดขงจื้อ นอกเหนือจากการวาดภาพแล้ว ในหัวใจข้าไม่คำนึงถึงสิ่งอื่นใดอีก
 R10080-0_2_3,"By the way, what did you say your name was just now?"
 R10080-0_2_4,Student {PlayerName}.
 R10080-0_2_5,"This Confucius Temple has new people coming and going every day, I see who looks almost the same, if I remember you wrong in the future, don't blame me."
 R10080-0_3_1,"I, {PlayerName}, didn't know your identity that day, I was disrespectful, please don't take it to heart."
-R10080-0_3_2,"I am Hua Chi, one of the Four Sages of Confucius Temple, apart from painting, I don't take anything else to heart."
+R10080-0_3_2,"I am Hua Chi, one of the Four Sages of Confucius Temple, apart from painting, I don't take anything else to heart.",ข้าชื่อฮวาชือ หนึ่งในสี่ปราชญ์แห่งวัดขงจื้อ นอกเหนือจากการวาดภาพแล้ว ในหัวใจข้าไม่คำนึงถึงสิ่งอื่นใดอีก
 R10080-0_3_3,"By the way, you just said that you had offended me, what did you do to me, I don't remember at all."
 R10080-0_3_4,"Nothing, nothing, just polite words."
 R10080-0_4_1,"Student {PlayerName}, may I ask your name?"
-R10080-0_4_2,"There's no need to be so formal, just call me Hua Chi.\nDon't forget to bring me some unappraised artworks when you have time, I'll help you identify them."
+R10080-0_4_2,"There's no need to be so formal, just call me Hua Chi.\nDon't forget to bring me some unappraised artworks when you have time, I'll help you identify them.",ไม่จำเป็นต้องเป็นทางการขนาดนั้น เรียกข้าว่าฮวาชือก็ได้\nอย่าลืมนำผลงานศิลปะที่ไม่ได้รับการประเมินมาให้ข้าเมื่อเจ้ามีเวลา ข้าจะช่วยเจ้าระบุมัน
 R10080-1_1_1,"Don't disturb me, don't hinder me from conceiving my painting."
 R10080-1_1_2,It seems that I have to cater to his preferences to successfully invite him.
 R10080-1_2_1,"Stay away from me, you are hindering my writing."
@@ -8185,7 +8185,7 @@ R10081-0_3_1,"I am {PlayerName}, may I ask the girl's name?"
 R10081-0_3_2,……
 R10081-0_3_3,"I took the jade bamboo from you by any means that day, you won't still be brooding about it, right?"
 R10081-0_3_4,……
-R10081-0_3_5,"You stare at me like this, I'm really a little hairy in my heart, anyway, you don't speak, mostly a mute, I'll just call you Ya Qin."
+R10081-0_3_5,"You stare at me like this, I'm really a little hairy in my heart, anyway, you don't speak, mostly a mute, I'll just call you Ya Qin.",เจ้าจ้องมองข้าแบบนี้ ข้ารู้สึกขนลุกเล็กน้อยในใจ อย่างไรก็ตามเจ้าไม่พูดส่วนใหญ่เป็นใบ้ ข้าจะเรียกเจ้าว่าหยาฉิน
 R10081-0_3_6,"This girl doesn't look easy to mess with, let's go quickly."
 R10081-1_1_1,"(Indifferent to your invite, as if you don't exist)"
 R10081-1_2_1,"(Gave you a fierce look, then ignored you)"
@@ -8193,15 +8193,15 @@ R10081-1_2_2,"It seems to be very cold to me, is there a gap in the relations?"
 R10081-1_3_1,"(Nodded slightly, as if accepting your invite)"
 R10081-1_4_1,(Pointed at your crowded team and shook his head gently)
 R10081-1_5_1,"We've known each other for so long, but I still don't know your name. How should I address you in the future?"
-R10081-1_5_2,"(Gestures ""Ya Qin"" in the air)"
-R10081-1_5_3,Ya Qin?
+R10081-1_5_2,"(Gestures ""Ya Qin"" in the air)","(ท่าทาง ""หยา ฉิน"" ในอากาศ)"
+R10081-1_5_3,Ya Qin?,หยาฉิน?
 R10081-1_5_4,(Nods slightly)
-R10081-1_5_5,"Miss Ya Qin, let's get going."
+R10081-1_5_5,"Miss Ya Qin, let's get going.","แม่นางหยาฉิน, ไปกันเถอะ"
 R10081-2_2_1,……
 R10081-2_2_2,Now you shouldn't be so irritable.
 R10081-2_3_1,"Can't afford to provoke, really can't afford to provoke."
 R10081-3_1_1,"Are you curious about what this place is?\nThis is the God of Marriage's Shrine, where men and women form a marriage..."
-R10081-3_1_2,Miss Ya Qin seems to be very unhappy...
+R10081-3_1_2,Miss Ya Qin seems to be very unhappy...,แม่นางหยาฉินดูเหมือนจะไม่มีความสุขมากๆ...
 R10081-3_1_3,"I was wrong, don't take it seriously if I make a joke!"
 R10081-3_2_1,……
 R10081-3_2_2,"Are you curious about what this place is?\nThis is the God of Marriage's Shrine, where men and women form a marriage..."
@@ -8209,32 +8209,32 @@ R10081-3_2_3,"I hope to get the blessing of the old moon with you, let the old m
 R10081-3_3_1,Wedding Stone... I seem to have forgotten to bring it.
 R10081-3_3_2,……
 R10081-3_3_3,I was really careless...
-R10081-3_3_4,Miss Ya Qin wait for me!
+R10081-3_3_4,Miss Ya Qin wait for me!,แม่นางหยาฉิน รอข้าด้วย!
 R10081-3_4_1,Do you want to place the <color=#c44b0e>Wedding Stone</color> on the shrine?
 R10081-3_5_1,……
 R10081-3_5_2,This seems a bit childish...
-R10081-3_5_3,Miss Ya Qin wait for me!
+R10081-3_5_3,Miss Ya Qin wait for me!,แม่นางหยาฉิน รอข้าด้วย!
 R10081-3_6_1,"You place the Wedding Stone on the shrine, and the two of you begin to pray devoutly."
 R10081-3_7_1,……
 R10081-3_7_2,"It exploded, the Wedding Stone actually exploded!"
 R10081-3_7_3,……
 R10081-3_7_4,Is God playing with me?...
-R10081-3_7_5,Miss Ya Qin wait for me!
+R10081-3_7_5,Miss Ya Qin wait for me!,แม่นางหยาฉิน รอข้าด้วย!
 R10081-3_8_1,Success!
-R10081-3_8_2,"Miss Ya Qin, it seems that our fate is destined by heaven, even the old moon has approved it!"
+R10081-3_8_2,"Miss Ya Qin, it seems that our fate is destined by heaven, even the old moon has approved it!",แม่นางหยาฉิน ดูเหมือนว่าโชคชะตาของเราถูกกำหนดโดยสวรรค์ แม้แต่พระจันทร์เก่าก็ยังเห็นด้วย!
 R10081-3_8_3,I will protect you for the rest of my life and will not let you suffer any harm.
 R10081-3_8_4,(Showed a barely noticeable faint smile)
 R10042-0_1_1,"I am {PlayerName}, may I ask your name?"
-R10042-0_1_2,"The disabled are not worth mentioning, my name is Can Qi."
+R10042-0_1_2,"The disabled are not worth mentioning, my name is Can Qi.","คนพิการไม่มีค่าให้ต้องกล่าวถึง, ข้าชื่อคานฉี"
 R10042-0_2_1,"Student {PlayerName} pays respects to the teacher, it seems that the teacher's legs have not shown obvious signs of improvement."
 R10042-0_2_2,"Now that you have entered the Confucius Temple, you don't have to pretend."
 R10042-0_2_3,"The teacher's leg disease seems to be more than just the surface symptoms, I guess there should be other injuries, if the teacher can tell, the student can prescribe the right medicine."
-R10042-0_2_4,"I am just a half-disabled person in the Confucius Temple, no need to bother.\nJust call me Can Qi in the future, the disabled."
+R10042-0_2_4,"I am just a half-disabled person in the Confucius Temple, no need to bother.\nJust call me Can Qi in the future, the disabled.","ข้าเป็นเพียงคนพิการครึ่งร่างแห่งวัดขงจื๊อ ไม่จำเป็นต้องกังวล\nเพียงเรียกข้าคานฉีในอนาคต, คนพิการ"
 R10042-0_3_1,"Student {PlayerName}, greeting to you, sir.\nIf I had known your identity earlier that day, I would have done my utmost to save you."
 R10042-0_3_2,"Humph, so if you didn't know my identity, you would have let me die?"
-R10042-0_3_3,"Life is like a game of chess, and people's hearts are unpredictable.\nI, Can Qi, am just a half-crippled man from the Confucius Temple, there's no need for you to put on airs here."
+R10042-0_3_3,"Life is like a game of chess, and people's hearts are unpredictable.\nI, Can Qi, am just a half-crippled man from the Confucius Temple, there's no need for you to put on airs here.",ชีวิตก็เหมือนเกมหมากรุก และหัวใจของผู้คนก็คาดเดาไม่ได้\nข้าคานฉีเป็นเพียงชายพิการครึ่งร่างจากวัดขงจื๊อ เจ้าไม่จำเป็นต้องมาออกอากาศที่นี่
 R10042-0_4_1,"I, the student {PlayerName}, pay my respects to you, sir."
-R10042-0_4_2,"I, Can Qi, am just a half-crippled man from the Confucius Temple, I can't accept such a big gift from you.\nYou have Qi Wang backing you up, you don't need to be polite to me, a useless man."
+R10042-0_4_2,"I, Can Qi, am just a half-crippled man from the Confucius Temple, I can't accept such a big gift from you.\nYou have Qi Wang backing you up, you don't need to be polite to me, a useless man.","ข้า, คานฉี, เป็นเพียงชายพิการครึ่งหนึ่งจากวัดขงจื้อ ข้าไม่สามารถรับของขวัญชิ้นใหญ่เช่นนี้จากเจ้าได้\nเจ้ามีหวังฉีคอยสนับสนุนเจ้า เจ้าไม่จำเป็นต้องสุภาพกับข้า คนไร้ประโยชน์"
 R10042-1_1_1,"Play a few games with me first, let me see how good your chess skills are, otherwise, there's no need to talk."
 R10042-1_1_2,……
 R10042-1_2_1,"Given our relationship, I can't trust you now."
@@ -8242,20 +8242,20 @@ R10042-1_3_1,"As long as you don't mind me being a cripple, I'll accompany you t
 R10042-1_4_1,"Your team has no extra space, even if I want to help you, I can't."
 R10042-2_1_1,"You're so good at chess, I have a task for you."
 R10042-2_1_2,What is it?
-R10042-2_1_3,"Linlang Temple, Linlang Go puzzle!"
+R10042-2_1_3,"Linlang Temple, Linlang Go puzzle!","วัดหลินหลาง, กลหมากล้อมหลินหลาง!"
 R10042-2_1_4,Are you asking me to help you crack this chess game?
 R10042-2_1_5,"Yes, this chess game has troubled me for many years. If I can't crack it, I won't rest in peace!"
 R10042-2_2_1,"Alright, I'll give it a try."
 R10042-2_3_1,"No need to bother, I've already cracked this chess game."
 R10042-2_3_2,Tell me the solution in detail!
-R10042-2_3_3,You tell Can Qi the method to crack the Linlang Go puzzle in detail.
+R10042-2_3_3,You tell Can Qi the method to crack the Linlang Go puzzle in detail.,เจ้าบอกคานฉีถึงวิธีการแก้ปริศนากลหมากล้อมหลินหลางอย่างละเอียด
 R10042-2_3_4,"So that's how it is, that's how it is!"
 R10042-2_3_5,"Thank you for helping me solve the puzzle that has troubled me for years. Here's a manual for you, we owe each other nothing."
-R10042-2_4_1,How's the progress on cracking the Linlang Go puzzle?
+R10042-2_4_1,How's the progress on cracking the Linlang Go puzzle?,ความคืบหน้าในการแก้ปริศนากลหมากล้อมหลินหลางถึงไหนแล้ว?
 R10042-2_5_1,"Don't rush, it's not that easy to crack, give me more time."
 R10042-2_6_1,I've already cracked it.
 R10042-2_6_2,Tell me the solution in detail!
-R10042-2_6_3,You tell Can Qi the method to crack the Linlang Go puzzle in detail.
+R10042-2_6_3,You tell Can Qi the method to crack the Linlang Go puzzle in detail.,เจ้าบอกคานฉีถึงวิธีการแก้ปริศนากลหมากล้อมหลินหลางอย่างละเอียด
 R10042-2_6_4,"So that's how it is, that's how it is!"
 R10042-2_6_5,"Thank you for helping me solve the puzzle that has troubled me for years. Here's a manual for you, we owe each other nothing."
 R10072-0_1_1,"I am {PlayerName}, may I ask your name?"
@@ -8906,27 +8906,27 @@ M20121-1_1_2,"Why do you sigh, sir?",เหตุใดท่านจึงถ�
 M20121-1_1_3,"I sigh because the young people nowadays only know how to fight, but they are all ignorant and unlearned..."
 M20121-1_1_4,"If this continues, I'm afraid no one will inherit our ancestors' knowledge..."
 M20121-1_1_5,How do you know I'm not knowledgeable when you're not me?
-M20121-1_1_6,"Hehe, if you don't agree, I'll test you!"
-M20121-1_2_1,"Do you have time for me to test you, young friend?"
-M20121-1_3_1,You should go back and read more.
-M20121-1_4_1,"How about it, sir? Am I knowledgeable?"
-M20121-1_4_2,"Don't be too proud too soon!\nLet me think about it, I'll give you a few more questions tomorrow."
-M20121-1_4_3,"Just bring it on, I'll surprise you sooner or later!"
-M20121-1_5_1,"I'm tired. If you want to answer questions, come back tomorrow."
-M20121-1_6_1,"Young friend, I've prepared a few more questions for you. Dare to try?"
-M20121-1_7_1,"Do you have time to answer the questions, young friend?"
-M20121-1_8_1,"You are indeed talented, I was biased before."
+M20121-1_1_6,"Hehe, if you don't agree, I'll test you!",อิอิ ถ้าข้าไม่เห็นด้วย ข้าจะลองทดสอบเจ้า!
+M20121-1_2_1,"Do you have time for me to test you, young friend?","เจ้ามีเวลาให้ข้าทดสอบเจ้าไหม, สหายน้อย?"
+M20121-1_3_1,You should go back and read more.,เจ้าควรกลับไปศึกษาเพิ่มเติม
+M20121-1_4_1,"How about it, sir? Am I knowledgeable?","เป็นไงบ้าง, ท่าน? ข้ามีความรู้หรือไม่?"
+M20121-1_4_2,"Don't be too proud too soon!\nLet me think about it, I'll give you a few more questions tomorrow.",อย่าเพิ่งภูมิใจจนเกินไป!\nขอข้าลองคิดดู พรุ่งนี้ข้าจะถามคำถามเพิ่มเติมสักสองสามข้อ
+M20121-1_4_3,"Just bring it on, I'll surprise you sooner or later!",เพียงแค่นำมันมา ข้าจะทำให้เจ้าประหลาดใจไม่ช้าก็เร็ว!
+M20121-1_5_1,"I'm tired. If you want to answer questions, come back tomorrow.",ข้าเหนื่อยแล้ว. หากต้องการตอบคำถามกลับมาพรุ่งนี้
+M20121-1_6_1,"Young friend, I've prepared a few more questions for you. Dare to try?","สหายน้อย, ช้าได้เตรียมคำถามไว้ให้เจ้าแล้ว เจ้าอยากจะลองไหม?"
+M20121-1_7_1,"Do you have time to answer the questions, young friend?","เจ้ามีเวลาตอบคำถามไหม, สหายน้อย?"
+M20121-1_8_1,"You are indeed talented, I was biased before.",เจ้ามีความสามารถจริงๆ ข้าเคยดูแคลนมาก่อน
 M20121-1_8_2,"With your talent, it's a pity to be buried in the market. I want to recommend you to take the imperial examination. Are you willing?",ด้วยความสามารถของเจ้า มันน่าเสียดายที่ต้องถูกฝังอยู่ในตลาด ข้าอยากจะแนะนำให้เจ้าไปสอบบัณฑิตหลวง เจ้าเต็มใจไหม?
-M20121-1_8_3,Is there such an opportunity? That would be great.
+M20121-1_8_3,Is there such an opportunity? That would be great.,มีโอกาสเช่นนี้ด้วยหรือ? มันจะดีมาก.
 M20121-1_8_4,"Good, good. I'll write a letter to the prefect. You can go to the Government Office to register for the imperial examination.","ดี, ดี ข้าจะเขียนจดหมายถึงนายอำเภอ เจ้าสามารถไปที่ศาลาว่าการเพื่อลงทะเบียนสอบบัณฑิตหลวงได้"
-M20121-1_8_5,I wish you success in the examination and a bright future.
-M20121-1_8_6,"Thank you, sir."
+M20121-1_8_5,I wish you success in the examination and a bright future.,ข้าขอให้เจ้าประสบความสำเร็จในการสอบและมีอนาคตที่สดใส
+M20121-1_8_6,"Thank you, sir.",ขอบคุณท่าน.
 M20103-3_1_1,"I, {PlayerName}, pay my respects to the prefect.\nI have received the recommendation from the principal of the academy and came to register for the imperial examination.",ข้า {PlayerName} ขอแสดงความเคารพอย่างสมบูรณ์\nข้าได้รับคำแนะนำจากอาจารย์ใหญ่ของสถาบันการศึกษาและมาลงทะเบียนสอบบัณฑิตหลวง
-M20103-3_1_2,"Hmm, I did receive the principal's recommendation letter."
+M20103-3_1_2,"Hmm, I did receive the principal's recommendation letter.",อืม ข้าได้รับจดหมายแนะนำตัวจากอาจารย์แล้ว
 M20103-3_1_3,"I remind you, young hero, if you want to take the imperial examination, it will take at least one day. If you fail, you can come back and register again.",ข้าขอเตือนเจ้าจอมยุทธ์หนุ่มว่าถ้าเจ้าต้องการสอบบัณฑิตหลวงก็ต้องใช้เวลาอย่างน้อยหนึ่งวัน หากล้มเหลวเจ้าสามารถกลับมาลงทะเบียนใหม่ได้
 M20103-3_1_4,"Have you decided to take the imperial examination, young hero?",เจ้าตัดสินใจเข้าสอบบัณฑิตหลวงแล้วหรือยังจอมยุทธ์หนุ่ม?
-M20103-3_2_1,Come back when you've made up your mind.
-M20103-3_3_1,"Alright, please follow me, young hero..."
+M20103-3_2_1,Come back when you've made up your mind.,กลับมาใหม่เมื่อเจ้าตัดสินใจได้แล้ว
+M20103-3_3_1,"Alright, please follow me, young hero...",เอาล่ะ ฝากติดตามข้ามา จอมยุทธ์หนุ่ม...
 M20103-3_3_2,"You follow the prefect to the examination site.\nThe room is very narrow, you can't even stretch your arms. All you have in front of you is a table and chair, and the answer sheet on the table."
 M20103-3_4_1,"The examination is over, please hand in your paper, young hero."
 M20103-3_4_2,"Thank you for your hard work, young hero. The results of the examination will be announced in three days. I will inform you by carrier pigeon."
@@ -10367,9 +10367,9 @@ R10008-6_17_9,"No wonder I've been feeling uneasy lately, so that's why..."
 R10008-6_17_10,"Brother, we, the Ling siblings, will never be separated. I'm coming to find you..."
 R10008-6_17_11,"Mengdie, don't do anything stupid!"
 R10008-6_17_12,"Ling Mengdie cut off her own life with a sword, the greatest sorrow is the death of the heart.\nA wisp of soul scattered with the wind, to another world to follow her brother."
-Talk-2030-1_1_1,"There are morning classes every day at <color=#c44b0e>Chen Shi</color>, learning is endless, and reviewing old knowledge can lead to new insights.|There are often ignorant youngsters causing trouble outside the Confucius Temple, they are all attention seekers, it's really annoying.|After passing the imperial examination, you can find the head of the academy to participate in the <color=#c44b0e>metropolitan examination</color>. If you pass the metropolitan examination, you can become a Recognized Scholar.|A Recognized Scholar can host a <color=#c44b0e>question and answer session</color> once a day to answer the simple questions of the students.|As a disciple of Confucianism, you must pay respect to the statue of Confucius in our sect.|Shu Kuang and Hua Chi often collect unappraised Calligraphy and Paintings for our sect. Helping them find Calligraphy and Paintings can not only improve your relations with them, but also earn Sect contribution.|Some of the ancient books obtained in our sect cannot be read directly. You need to go back to the <color=#c44b0e>Disciple's room and sit at the desk</color> to carefully read and understand the profound meaning within.","มีชั้นเรียนช่วงเช้าทุกวันยาม <color=#c44b0e>เฉิน ซี</color> การเรียนรู้ไม่มีที่สิ้นสุด และการทบทวนความรู้เก่าสามารถนำไปสู่ความเข้าใจใหม่|มักมีเด็กโง่เขลาที่สร้างปัญหานอกวัดขงจื้อ พวกเขาทั้งหมดเป็นผู้เรียกร้องความสนใจ มันน่ารำคาญจริงๆ|หลังจากผ่านการทดสอบของจักรวรรดิแล้ว เจ้าจะพบหัวหน้าสถาบันการศึกษาเพื่อเข้าร่วม<color=#c44b0e>การสอบในเขตนครหลวง</color> หากเจ้าผ่านการสอบเขตเมือง เจ้าสามารถเป็น ""ปราชญ์ที่ได้รับการยอมรับ"" ได้|""ปราชญ์ที่ได้รับการยอมรับ"" สามารถจัด<color=#c44b0e>เซสชันคำถามและคำตอบ</color>วันละครั้งเพื่อตอบคำถามง่ายๆ ของนักเรียน|ในฐานะ สาวกของวัดขงจื๊อ เจ้าต้องเคารพรูปปั้นของขงจื๊อในนิกายของเรา|Shu Kuang และ Hua Chi มักจะรวบรวมการประดิษฐ์ตัวอักษรและภาพวาดที่ไม่ได้รับการประเมินสำหรับสำนักของเรา การช่วยเหลือพวกเขาในการค้นหาการประดิษฐ์ตัวอักษรและภาพวาดไม่เพียงแต่จะปรับปรุงความสัมพันธ์ของเจ้ากับพวกเขาเท่านั้น แต่ยังได้รับความดีความชอบสำนักด้วย|หนังสือโบราณบางเล่มที่ได้รับในนิกายของเราไม่สามารถอ่านได้โดยตรง เจ้าต้องกลับไปที่ <color=#c44b0e>ห้องของลูกศิษย์และนั่งที่โต๊ะ</color> เพื่ออ่านและทำความเข้าใจความหมายอันลึกซึ้งภายในอย่างละเอียด"
+Talk-2030-1_1_1,"There are morning classes every day at <color=#c44b0e>Chen Shi</color>, learning is endless, and reviewing old knowledge can lead to new insights.|There are often ignorant youngsters causing trouble outside the Confucius Temple, they are all attention seekers, it's really annoying.|After passing the imperial examination, you can find the head of the academy to participate in the <color=#c44b0e>metropolitan examination</color>. If you pass the metropolitan examination, you can become a Recognized Scholar.|A Recognized Scholar can host a <color=#c44b0e>question and answer session</color> once a day to answer the simple questions of the students.|As a disciple of Confucianism, you must pay respect to the statue of Confucius in our sect.|Shu Kuang and Hua Chi often collect unappraised Calligraphy and Paintings for our sect. Helping them find Calligraphy and Paintings can not only improve your relations with them, but also earn Sect contribution.|Some of the ancient books obtained in our sect cannot be read directly. You need to go back to the <color=#c44b0e>Disciple's room and sit at the desk</color> to carefully read and understand the profound meaning within.","มีชั้นเรียนช่วงเช้าทุกวันยาม <color=#c44b0e>เฉิน ซี</color> การเรียนรู้ไม่มีที่สิ้นสุด และการทบทวนความรู้เก่าสามารถนำไปสู่ความเข้าใจใหม่|มักมีเด็กโง่เขลาที่สร้างปัญหานอกวัดขงจื้อ พวกเขาทั้งหมดเป็นผู้เรียกร้องความสนใจ มันน่ารำคาญจริงๆ|หลังจากผ่านการทดสอบของจักรวรรดิแล้ว เจ้าจะพบหัวหน้าสถาบันการศึกษาเพื่อเข้าร่วม<color=#c44b0e>การสอบในเขตนครหลวง</color> หากเจ้าผ่านการสอบเขตเมือง เจ้าสามารถเป็น ""ปราชญ์ที่ได้รับการยอมรับ"" ได้|""ปราชญ์ที่ได้รับการยอมรับ"" สามารถจัด<color=#c44b0e>เซสชันคำถามและคำตอบ</color>วันละครั้งเพื่อตอบคำถามง่ายๆ ของนักเรียน|ในฐานะ สาวกของวัดขงจื๊อ เจ้าต้องเคารพรูปปั้นของขงจื๊อในนิกายของเรา|ซูกวง และ ฮวาชือ มักจะรวบรวมการประดิษฐ์ตัวอักษรและภาพวาดที่ไม่ได้รับการประเมินสำหรับสำนักของเรา การช่วยเหลือพวกเขาในการค้นหาการประดิษฐ์ตัวอักษรและภาพวาดไม่เพียงแต่จะปรับปรุงความสัมพันธ์ของเจ้ากับพวกเขาเท่านั้น แต่ยังได้รับความดีความชอบสำนักด้วย|หนังสือโบราณบางเล่มที่ได้รับในนิกายของเราไม่สามารถอ่านได้โดยตรง เจ้าต้องกลับไปที่ <color=#c44b0e>ห้องของลูกศิษย์และนั่งที่โต๊ะ</color> เพื่ออ่านและทำความเข้าใจความหมายอันลึกซึ้งภายในอย่างละเอียด"
 Talk-2030-1_1_2,"You are a new disciple, this is the Map - Confucius Temple, you might need it in the future."
-Talk-2030-1_3_1,"The white-haired woman guarding the Sage's Stele is called Ya Qin. She has a bad temper, so don't provoke her if it's not necessary."
+Talk-2030-1_3_1,"The white-haired woman guarding the Sage's Stele is called Ya Qin. She has a bad temper, so don't provoke her if it's not necessary.",ผู้หญิงผมขาวที่ดูแลศิลา มีชื่อว่าหยาฉิน นางมีอารมณ์ไม่ดี ดังนั้นอย่ายั่วโมโหนางถ้าไม่จำเป็น
 Day-2030-2_1_1,Confucius Temple is known as the leader of the literary world. We have come today to learn from you. I wonder which one of you from Confucius Temple is willing to accept our challenge?
 Day-2030-2_2_1,"I am {PlayerName} from Confucius Temple, how would you like to challenge us?"
 Day-2030-2_3_1,"So it's the famous hero {PlayerSurName} here, we have offended you, we dare not disturb Confucius Temple again in the future."
@@ -12023,19 +12023,19 @@ R10037-1_5_2,It's worth it to consume a Heart Broken pill for the strength of th
 R10037-1_6_1,"You forced Ding Fengbo to take the Heart Broken pill, and after a while, Ding Fengbo's eyes were blurred and his mind was confused."
 R10037-1_6_2,"Ding Fengbo, you used to call the wind and summon the rain on the river, but now you can only submit under my feet!"
 R10037-1_6_3,"Ding Fengbo, from today on, I {PlayerName} am your master, your life and death are in my thoughts!"
-R10037-1_6_4,Yes... Yes...
+R10037-1_6_4,Yes... Yes...,ใช่... ใช่...
 R10037-1_7_1,"Finally, I am free..."
-R10037-1_7_2,What?
+R10037-1_7_2,What?,อะไรนะ?
 R10037-1_7_3,"Dare to confuse my mind and make me work for you, you're courting death!"
 R10037-1_8_1,"Ding Fengbo, with your current strength, you can't touch me at all, don't seek your own death!"
 R10037-1_8_2,"{PlayerName}, today's humiliation, will be repaid a thousand times!"
 R10037-1_8_3,"Seeing that Ding Fengbo couldn't get rid of you, he had to dodge and leave, returning to Jiujiang Water Camp."
 R10037-1_9_1,"Jianghu Master's gold order is here!\nJiujiang Water Camp leader, can you work for me now?"
 R10037-1_10_1,"A gold order can invite any powerful leader to serve you, although it only lasts for <color=#097a76>ten days</color>, it's enough for you to do a lot of things."
-R10037-1_10_2,"So, do you accept my Invite?"
+R10037-1_10_2,"So, do you accept my Invite?",เจ้ายอมรับคำเชิญของข้าหรือไม่?
 R10037-1_10_3,"Jiujiang Water Camp leader, Ding Fengbo accepts the order!"
 R10037-1_11_1,Jianghu Master token...
-R10037-1_11_2,"So, do you accept my Invite?"
+R10037-1_11_2,"So, do you accept my Invite?",เจ้ายอมรับคำเชิญของข้าหรือไม่?
 R10037-1_11_3,"Jiujiang Water Camp leader, Ding Fengbo accepts the order!"
 R10037-1_12_1,"The ten-day limit of the Jianghu Master token has arrived, I should return to the water camp."
 R10037-1_13_1,"Although the ten-day agreement has not arrived, but this time you let me run away, then our agreement is terminated."
@@ -12556,9 +12556,9 @@ Guide10099-11_2_1,"I haven't heard of him, master. Are you familiar with this ol
 Guide10099-11_2_2,"We've known each other for decades, we're very familiar. But he doesn't care to see me now."
 Guide10099-11_3_1,"I've visited a few times, he's like a real immortal.\nAre you familiar with this immortal, master?"
 Guide10099-11_3_2,"We've known each other for decades, we're very familiar. But he doesn't care to see me now."
-Guide10099-11_4_1,"What I want to tell you is, there's a <color=#c44b0e>Linlang Go puzzle</color> in his Linlang Temple. No one has cracked it for more than ten years. I want you to try it, you might get some benefits."
+Guide10099-11_4_1,"What I want to tell you is, there's a <color=#c44b0e>Linlang Go puzzle</color> in his Linlang Temple. No one has cracked it for more than ten years. I want you to try it, you might get some benefits.",สิ่งที่ข้าอยากจะบอกเจ้าคือ มี <color=#c44b0e>กลหมากล้อมหลินหลาง</color> อยู่ในวัดหลินหลางของเขา ไม่มีใครแก้มันมานานกว่าสิบปี ข้าอยากให้เจ้าลองเจ้าอาจจะได้รับประโยชน์บางอย่าง
 Guide10099-11_4_2,"As the master commands, the disciple will obey."
-Guide10099-11_5_1,"The chessboard in front of you is the key to triggering the Linlang Go puzzle. If you're ready, go and try your luck."
+Guide10099-11_5_1,"The chessboard in front of you is the key to triggering the Linlang Go puzzle. If you're ready, go and try your luck.",กระดานหมากที่อยู่ตรงหน้าเจ้าเป็นกุญแจสำคัญในการแก้กลหมากล้อมหลินหลาง หากเจ้าพร้อมก็ลองโชคของเจ้าดู
 Guide10099-11_6_1,"Hehe, don't let the water flow to others' fields."
 Guide10099-12_1_1,"The master has made a pact with Fu Yaozi inside, to sever all ties and never meet again in this life!\nIf you want to see him, don't drag the master along, the master is a man of his word."
 Guide10099-12_2_1,"You little rascal, you're trying to trap your master on purpose, aren't you!"

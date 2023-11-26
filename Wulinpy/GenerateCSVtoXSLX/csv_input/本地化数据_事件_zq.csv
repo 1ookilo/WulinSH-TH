@@ -1368,9 +1368,9 @@ Story-2030-1_option1_1,Ready!,พร้อม!
 Story-2030-1_option1_2,Not ready yet.,ข้ายังไม่พร้อม
 R10081-3_option1_1,Place the <color=#c44b0e>Wedding Stone</color>. <color=#097a76>(1 Wedding Stone)</color>,วาง <color=#c44b0e>ศิลาวิวาห์</color>.<color=#097a76>(1 ศิลาวิวาห์)</color>
 R10081-3_option1_2,"I was too impulsive just now, I regret it.",ข้าใจร้อนเกินไป ข้าผิดไปแล้ว
-R10042-2_name,Linlang Go puzzle,กลหมากหลินหลาง
-R10042-2_overview1,Solve the Linlang Go puzzle for Can Qi at Linlang Temple.,แก้กลหมากหลินหลางให้คานฉีที่อารามหลินหลาง
-R10042-2_overview2,Inform Can Qi that the Linlang Go puzzle has been solved.,แจ้งคานฉีว่าได้แก้กลหมากหลินหลางเรียบร้อยแล้ว
+R10042-2_name,Linlang Go puzzle,กลหมากล้อมหลินหลาง
+R10042-2_overview1,Solve the Linlang Go puzzle for Can Qi at Linlang Temple.,แก้กลหมากล้อมหลินหลางให้คานฉีที่วัดหลินหลาง
+R10042-2_overview2,Inform Can Qi that the Linlang Go puzzle has been solved.,แจ้งคานฉีว่าได้แก้กลหมากล้อมหลินหลางเรียบร้อยแล้ว
 Story-2030-2_name,Mang Mountain Tomb,สุสานภูเขาหมาง
 Story-2030-2_overview1,"The master Cai Yuanchang has something to tell you, please go to Confucius Temple Dacheng Hall as soon as possible.",ท่านไช่หยวนฉางมีบางอย่างจะบอกแก่ท่าน โปรดไปที่หอต้าเฉิงวัดขงจื๊อให้เร็วที่สุด
 Story-2030-2_overview2,Go to Mang Mountain Pit.,ไปที่ถ้ำหลุมภูเขาหมาง

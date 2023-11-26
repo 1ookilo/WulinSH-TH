@@ -472,7 +472,7 @@ Forge_AddSubMat,Add auxiliary Material,ใส่วัตถุดิบเส�
 Forge_AddQuenchMat,Add quenching Material
 UI_KungfuState_None,Not Learned,ยังไม่เรียน
 UIKungfuRight_SelectUnique,Select Super Move,เลือกท่าไม้ตาย
-UIKungfuRight_SelectInternalKungfu,Select Internal technique,เลือกพลังภายใน
+UIKungfuRight_SelectInternalKungfu,Select Internal technique,เลือกกำลังภายใน
 UIKungfuRight_SelectBook,Select Manual,เลือกตำรา
 零,Zero,ศูนย์
 一,One,หนึ่ง
@@ -488,9 +488,9 @@ UIKungfuRight_SelectBook,Select Manual,เลือกตำรา
 白,White,ขาว
 千,Thousand,พัน
 万,Ten thousand,หมื่น
-亿,Billion
-万亿,Trillion
-NpcMumble_通用_Percepting,What?|Am I seeing things?|Hmm?|This...|……|What's going on?|Let's go check it out...
+亿,Billion,พันล้าน
+万亿,Trillion,ล้านล้าน
+NpcMumble_通用_Percepting,What?|Am I seeing things?|Hmm?|This...|……|What's going on?|Let's go check it out...,อะไร?|ข้าเห็นอะไรมั้ย|หืม?|นี่...|……|เกิดอะไรขึ้น?|ไปดูกันเลย...
 NpcMumble_非人类通用_Percepting,……,……
 JingMaiTitle_动,Swift as the Wind,ว่องไวปานสายลม
 JingMaiDesc_动,"Fast growth, suitable for quick attack strategy",ความไวสูง เหมาะสำหรับกลยุทธ์การโจมตีที่รวดเร็ว
@@ -508,8 +508,8 @@ Teach_Confirm,Already decided,ตัดสินใจแล้ว
 Teach_Cancel,Need to think a little,ขอคิดสักครู่
 RestoreRelation_LackItem,Insufficient {0},{0} ไม่เพียงพอ
 RestoreRelation_ConfirmTip,Do you want to consume {0}{1} to reconcile with {2}?
-RestoreRelation_FreePerson,Wandering martial artist
-ShortcutItemsFull,"The shortcut bar is full, click on the item in the shortcut bar to delete"
+RestoreRelation_FreePerson,Wandering martial artist,จอมยุทธ์พเนจร
+ShortcutItemsFull,"The shortcut bar is full, click on the item in the shortcut bar to delete","แถบทางลัดเต็ม, คลิกที่รายการในแถบทางลัดเพื่อลบ"
 ShortcutItemsNoAlternative,No selectable items,ไม่มีรายการให้เลือก
 ShortcutItemsSaved,Save successful,บันทึกสำเร็จ
 Text_Add,Increase,เพิ่มขึ้น
@@ -517,16 +517,16 @@ Text_Sub,Decrease,ลดลง
 HPEP_ValueChanged_Log,{0}{1}{2}{3} points,{0}{1}{2}{3} แต้ม
 HPEP_PerChanged_Log,{0}{1}{2}{3}%,{0}{1}{2}{3}%
 Team_HPEP_ValueChanged_Log,The whole team {0}{1}{2} points,ทั้งกลุ่ม {0}{1}{2} แต้ม
-Team_HPEP_PerChanged_Log,The whole team {0}{1}{2}%
+Team_HPEP_PerChanged_Log,The whole team {0}{1}{2}%,ทั้งกลุ่ม {0}{1}{2}%
 ShortStangerName,This person,คนผู้นี้
 Authenticate_AbilityTip,Can appraise up to {0},สามารถประเมินได้ถึง {0}
 Authenticate_AbilityTipItem,Level {0} {1},{0} ระดับ {1}
 Authenticate_SelectMax,Maximum ({0}),สูงสุด ({0})
 Authenticate_LackCoin,Not enough gold!,เงินไม่พอ!
 UseChest_RationTip,Select the quantity to use,เลือกปริมาณที่จะใช้
-BulkUseOverflowTips,(Continued use of <#FE2929>{0}</color> will overflow)
-ChestsResultTip,Obtain item
-AuthenticateTag_字画,Calligraphy and painting
+BulkUseOverflowTips,(Continued use of <#FE2929>{0}</color> will overflow),(ใช้ <#FE2929>{0}</color> ต่อไปจะล้น)
+ChestsResultTip,Obtain item,ได้รับสิ่งของ
+AuthenticateTag_字画,Calligraphy and painting,งานเขียนและภาพวาด
 AuthenticateTag_书籍,Book,หนังสือ
 AuthenticateTag_古董,Antique,ของโบราณ
 AuthenticateTag_饰品,Jewelry,อัญมณี
@@ -542,20 +542,20 @@ BattleLog_Retreat,{0}'s team successfully retreats,กลุ่มของ{0} �
 BattleLog_NormalAttack,{0} performs a Normal Attack,{0} ทำการโจมตีปกติ
 BattleLog_UseOuterKungfu,{0} releases external skill {1},{0} ใช้วิชาภายนอก {1}
 BattleLog_UseUniqueSkill,{0} releases ultimate skill {1},{0} ใช้ท่าไม้ตาย {1}
-BattleLog_SpecialAction,{0} performs <color=#ffff00>{1}</color>
+BattleLog_SpecialAction,{0} performs <color=#ffff00>{1}</color>,{0} ดำเนินการ <color=#ffff00>{1}</color>
 BattleLog_SetInnerKungfu,{0}'s main internal skill is set to {1},ติดตั้ง {1} เป็นกำลังภายในหลักของ {0}
-BattleLog_UnSetInnerKungfu,{0} cancels {1}'s main internal skill
+BattleLog_UnSetInnerKungfu,{0} cancels {1}'s main internal skill,{0} ยกเลิก {1} ของกำลังภายในหลัก
 BattleLog_UseHitWep,{0} uses Throwing {1},{0} ใช้อาวุธลับ {1}
-BattleLog_UseItem,{0} uses Item {1}
+BattleLog_UseItem,{0} uses Item {1},{0} ใช้สิ่งของ {1}
 BattleLog_Defeat,{1} is defeated,{1} พ่ายแพ้แล้ว
 BattleLog_BeDamage,{0} takes <color=#F55452>{1} points of damage</color>,{0} ได้รับ<color=#F55452>ความเสียหาย {1} </color>
 BattleLog_BeDamageSpecial,{0} takes <color=#F55452>{1} points of {2} damage</color>,{0} รับ <color=#F55452>{1} แต้มของ {2} ความเสียหาย</color>
 BattleLog_Debuff,{0} takes <color=#F55452>{1} points of {2}</color>,{0} รับ <color=#F55452>{1} แต้มของ {2} </color>
 BattleLog_PropChange,{0}'s {1} increases by {2} points,{1} ของ {0} {2} {3} แต้ม
 BattleLog_UseBondKungfu,{0} releases bond martial arts {1},{0} ปล่อยวรยุทธ์สัมพันธ์ {1}
-BattleLog_ActiveKungfuBuff,{0} triggers Additional effects {1}
+BattleLog_ActiveKungfuBuff,{0} triggers Additional effects {1},{0} เกิดผลเพิ่มเติม {1}
 集气,Gathering Qi,รวบรวมลมปราณ
-Min,Minimum
+Min,Minimum,ต่ำสุด
 Max,Max,สูงสุด
 SicBo_BetStartOr5s,"Place your bets now!|No more bets!|If you're just watching, run away, don't crowd around here|Betting on big or small pays 1:2; betting on numbers pays 1:3|Don't miss the chance to get rich, the more you bet, the more you win|Have you all placed your bets? The dice are about to roll!|Hurry up and place your bets, time waits for no one!|Any more bets? Any more bets?|Bet more, win more; bet less, win less!|Let's wait and see, will it be overnight riches or bankruptcy!|Opportunities are fleeting, don't miss your chance to get rich!|Three parts fate, seven parts struggle, how can you get rich without a fight!"
 SicBo_Settle_Big_Fail,"{0}, {1}, {2}——{3} points, big!","{0}, {1}, {2}——{3} แต้ม, สูง!"
