@@ -1,0 +1,91 @@
+key,original,translation,context
+NewsIssueTitle,Issue {0},,第{0}期
+NewsTitle_Introduction,Opening Remarks,,开篇语
+NewsTitle_FrontPage,News of This Issue,,本期要闻
+NewsTitle_Brief,Rivers and Lakes Briefing,,江湖简讯
+NewsTitle_Anecdote,Anecdotes and Tales,,逸闻掌故
+NewsTitle_PeopleComment,Character Review,,人物点评
+NewsTitle_KungfuComment,Martial Arts Review,,武功点评
+NewsTitle_Rank,Fame and Fortune List,,风云榜
+NewsTitle_Forces,Jianghu Trends,,江湖风云
+NewsTitle_Wanted,Bounty Hunting,,悬赏通缉
+NewsTitle_GameTips,Game Tips,,游戏小贴士
+CharPropName_综合,General,,综合
+NewsContent_Rank,"Current {0} Power Ranking
+First Place {1}
+Second Place {2}
+Third Place {3}",,"本期{0}实力排名
+魁首 {1}
+榜眼 {2}
+探花 {3}"
+NewsContent_Competition,"Current {0} Ranking
+First Place {1}
+Second Place {2}
+Third Place {3}",,"本期{0}排名
+魁首 {1}
+榜眼 {2}
+探花 {3}"
+NewsContent_Wanted,"{0}'s {1} has made an enemy of {2}, and is about to face the full force of {2}.",,{0}的{1}与{2}交恶，即将面临{2}上下全力追杀。
+NewsContent_UnitedWanted,{0} and {1} have jointly issued a bounty in the martial world. Any disciple who discovers {2} can execute him on the spot.,,{0}联合{1}共同发出江湖通缉，门下弟子一经发现{2}踪迹，可立刻将其当场绞杀。
+TestKey_开篇语,"To assist all martial artists in navigating the Jianghu, this newsletter officially begins its serialization. We hope that with the help of this newsletter, all martial artists can carve out their own place in these turbulent times.",,为帮助各位侠士行走江湖，本小报正式开始连载，希望各位大侠在这片动荡的时局中在本小报的帮助下能够闯出自己的一片天地。
+AuctionHiddenNews,"{0} has unveiled a top-tier auction item {1}. After a thrilling competition, it was finally won by {2}.",,{0}惊现顶级拍品{1}，经过一番精彩激烈的角逐，终于被{2}收获囊中。
+NewsContent_UnitedWanted_Seperator,、,,、
+TestKey_逸闻掌故_1,"Five years ago, Bianjing fell, two sects were captured by Beiyan, Kang Wang fled in panic, and with the escort of eight heroes, he finally escaped and established a new Song regime in Lin'an City, vowing to resist Beiyan to the end.",,五年前，汴京沦陷，二宗被北燕俘获，康王仓皇出逃，在八位大侠的护送下历经磨难终于逃出生天，并在霖安城重新建立新宋政权，誓和北燕抗争到底。
+TestKey_逸闻掌故_2,"Ten years ago, the Beiyan cavalry frequently harassed the northern border of the Great Song. The Song soldiers, long accustomed to peace, were unable to resist the fierce Beiyan cavalry, and the border people were plunged into dire straits. The fate of the Great Song was hanging by a thread.",,十年前，北燕铁骑频频骚扰我大宋北疆，大宋官兵安逸已久，无法抵抗来势汹汹的北燕骑兵，一时间兵败如山倒，边境百姓陷于水深火热之中，大宋国运危如累卵。
+TestKey_逸闻掌故_3,"Five years ago, after the fall of Bianjing, Beiyan, in order to consolidate the northern situation, supported Liu as the king and established a puppet regime with the name ""Qi"".",,五年前，汴京沦陷之后，北燕为巩固北方局势，拥刘欲为君，以“齐”为国号建立了傀儡政权。
+TestKey_逸闻掌故_4,"Fifteen years ago, Emperor Huizong wrongly believed in slander, and the Yang family was tragically exterminated. The world-shaking Yang Family Pear Blossom Spear also disappeared from the world. As a result, the northern Yan country was able to breathe and develop, eventually leading to the fall of Bianjing.",,十五年前，徽帝错信谗言，杨家一族惨遭灭门，威震天下的杨家梨花枪法也从此不见于世，更是因此，北方燕国得以喘息发展，最终导致汴京沦陷。
+TestKey_逸闻掌故_5,"Twelve years ago, Fang Xiaoian established the ""Holy Fire Sect"" in the Tianshan Mountains of the Western Regions, widely recruiting talents from all over the world. It quickly grew into a force not to be underestimated. The Great Song sent troops to encircle and suppress it several times, but all returned in vain.",,十二年前，方啸天于西域天山创立“圣火宗”，广招天下志士，很快壮大成为不容小觑的一股势力，大宋多次派兵围剿均铩羽而归。
+TestKey_逸闻掌故_6,"Fourteen years ago, some Japanese people landed in the Great Song from the East Sea and built a city on an island in the East Sea, named ""Dragonfly City"". The Great Song navy spent several years but could not find the location of Dragonfly City. Now, there are often Japanese martial artists challenging the major sects of the Central Plains. They are ruthless and do not respect martial ethics, and are despised by all major sects.",,十四年前，有倭族人自东海登录大宋，并在东海一海岛上自建起一城池，名为“蚍蜉城”。大宋海军耗时数年也未能找到蚍蜉城的所在，现如今常有倭人武师挑战中原各大门派，其人下手狠辣不讲武德，被各大门派不齿。
+TestKey_逸闻掌故_7,"Four years ago, the abbot of Shifa Temple, Master Foyin, closed himself off for meditation due to internal injuries and has not yet emerged.",,四年前，释法寺住持佛印大师因内伤闭关静修，至今仍未出关。
+TestKey_逸闻掌故_8,"Five years ago, when Beiyan broke through Bianjing City, eight anonymous heroes defended Bianjing City together. They faced the enemy's offensive without fear, fighting a thousand enemies alone, but in the end, they could not reverse the situation and could only protect Kang Wang to retreat to Lin'an.",,五年前，北燕攻破汴京城，时有八位匿名大侠在汴京城协力守护汴京，面对敌兵攻势毫无惧色，以一当千，但终究难以扭转大势，只能护着康王南下霖安。
+TestKey_人物点评_1,"Chai Wangye: A descendant of the former royal family, he is wealthy and was granted a royal title for supporting Kang Wang's ascension to the throne. He is one of the three pillars of the New Song.",,柴王爷：前朝皇室的后代，财力颇丰，凭着拥护康王登基而获封王爵，是新宋三大栋梁之一。
+TestKey_人物点评_2,"Ye Pengju: The marshal of the Ye Family Battalion, he is highly skilled and upright, treats his soldiers like his own children, and has repelled Beiyan's offensive many times. He is one of the three pillars of the New Song.",,叶鹏举：叶家军的元帅，本事高强且为人正直、带兵如子，多次击溃北燕的攻势，是新宋三大栋梁之一。
+TestKey_人物点评_3,"Master Hua Yan: The current abbot of Shifa Temple. In his youth, he roamed the Jianghu with a hot blood, committed countless killings, but later repented and devoted himself to studying Buddhism, becoming a high monk.",,华严禅师：释法寺的现任住持，年轻时曾凭借一腔热血行走江湖，犯下杀孽无数，后经感化浪子回头精修佛法，已成一代高僧。
+TestKey_人物点评_4,"La Tazhang: The junior brother of Zhong Yangzi, the head of the Taoist Sect. He is unconventional and eccentric, but he is a martial genius with high martial arts skills.",,邋遢张：道玄宗的掌门重阳子的师弟，行事作风无拘无束且疯疯癫癫，但却是个武学奇才，武功高强。
+TestKey_人物点评_5,"Jian Chi: As his name suggests, he is obsessed with swords. His swordsmanship has reached a state of perfection, and no one has been able to match him to this day. He has retired from the martial arts world for several years and is currently the owner of the Sword Mountain Villa.",,剑痴：人如其名，好剑如痴，剑术已臻化境，至今无人能敌，退隐江湖数年，为当今藏剑山庄的庄主。
+TestKey_人物点评_6,"Liu Sheng Wucang: The leader of Dragonfly City, born into the Liu Sheng swordsmanship family, once exterminated the sword-making family, the Ouye family.",,柳生武藏：蚍蜉城的领导者，出身自柳生剑道世家，曾经剿灭铸剑世家欧冶家。
+TestKey_人物点评_7,"Chen Yao: The leader of Jiujiang Water Camp. With the slogan ""equality of nobility and poverty, equal distribution of wealth"", he has gathered a large number of followers and is a great hero in the martial arts world.",,陈幺：九江水寨的首领，凭借“等贵贱、均贫富”的口号，聚集了大量的追随者，是江湖一大豪侠。
+TestKey_人物点评_8,"Tang Tai Jun: The old owner of the Ten Thousand Beasts Villa, he is decisive and sensible. He has suffered a lot of hardships for helping the Ye Family Battalion resist the Northern Yan, but he has never wavered. Now he has retired due to old age.",,唐太君：万兽山庄的老庄主，为人果断且明事理，曾因帮助叶家军抗击北燕而蒙受许多磨难却毫不动摇。现在因年事已高隐居庄中。
+TestKey_人物点评_9,Hong Xiaoqi: A small beggar who has struggled in the Nameless Village. He is unruly and rogue. It's best to stay away from him.,,洪小七：在无名小村摸爬滚打的一小乞丐，性格无赖不羁，泼皮无赖，要是遇见他最好离远点。
+TestKey_人物点评_10,"Nameless hotel owner: The owner of the inn in Nameless Village. She runs the inn alone. Her cooking skills and appearance are unparalleled, but her temper is really...",,无名客栈老板娘：无名小村客栈老板娘，独自一人经营客栈，手艺和长相都是一绝，可惜脾气实在是……
+TestKey_人物点评_11,"Nameless village Village Head: A former top scholar, he has been the Village Head for a lifetime. His son suffered misfortune due to venturing into the martial arts world, so he has a prejudice against martial artists.",,无名小村村长：曾经的状元郎，担任村长一辈子，其子因为外出闯荡江湖而惨遭不幸，因而对江湖人士心存偏见。
+TestKey_人物点评_12,"Nameless village hunter: The hunter of Nameless Village, his hunting skills are top-notch, but he always keeps a distance from people and never makes deep friendships. His big wolf dog is extremely fierce, so be careful.",,无名小村猎户：无名小村的猎户，打猎本事一流，却向来和人保持距离，从不深交。他养的大狼狗凶猛至极，一定要小心。
+TestKey_人物点评_13,"Kong Yidao: The leader of Blue Wind Camp, he is highly skilled and generous. As the leader of the bandits, he always restrains his subordinates, so the Blue Wind Camp area has not been troubled by bandits.",,孔一刀：青风寨的大当家，本领高强且为人豪放，作为山贼的头领却处处约束手下，因此青风寨一带并没有被山贼所累。
+TestKey_人物点评_14,"Ye Yinpeng: The beloved daughter of Ye Pengju, she is in her prime, full of enthusiasm, and does not want to be under her father's protection. She wants to venture out into the martial arts world.",,叶银屏：叶鹏举的爱女，正值豆蔻，有一腔热血，不想安于父亲的保护之下，想要外出闯荡江湖。
+TestKey_人物点评_15,"Ye Yun: Ye Pengju's eldest son, he inherited his father's high skills, but he is hot-tempered and disobedient. He has repeatedly made military exploits and violated military regulations, but he is also a rare talent.",,叶云：叶鹏举的长子，继承了父亲的高强本领，但却性格暴躁，不受管教，屡立战功也屡犯军规，却也是不可多得的人才。
+TestKey_武功点评_1,"Dugu Nine Swords: Jian Chi's masterpiece of Martial Arts, it seems ordinary but can counter various Martial Arts, reaching the realm of winning without a move.",,求败九式：剑痴对武学的大成之作，看似平平无奇却可以反制各家武学，达到了无招胜有招的境界。
+TestKey_武功点评_2,"Thousand Miles of Rivers and Mountains: The calligraphy manual of Confucius Temple, the tip of the pen is all about the thousand miles of rivers and mountains of the Song Dynasty, it is extremely mysterious and also hides killing intent, making it difficult for people to resist.",,千里江山：儒圣馆的笔法秘籍，笔锋落处均是大宋的千里江山，玄美至极同时又暗藏杀机，让人难以招架。
+TestKey_武功点评_3,"Windless Sword: The ultimate swordsmanship of Jian Chi, it no longer hurts people with the sword edge but can also control people under the sword, it is a profound swordsmanship.",,无锋剑法：剑痴领剑法的极致，不再以剑锋伤人却也能制人于剑下，是高深莫测的剑法。
+TestKey_武功点评_4,"Thunder Spear: The entry-level Martial Arts of Ye Family Battalion, a spear technique used on the battlefield, emphasizing that the spear is as fast as thunder, often the hand rises and the spear has arrived, catching the enemy off guard.",,雷霆枪法：叶家军的入门武学，战场使用的枪法，讲究出枪如雷，往往是手起而枪已至，让敌兵措手不及。
+TestKey_武功点评_5,"Pear Blossom Spear: The unique spear technique of the Yang family, when used, it is like pear blossoms falling, extremely beautiful.",,梨花枪法：杨家的枪法绝学，使出时如同梨花纷落，华美至极。
+TestKey_武功点评_6,"Earth Blade: One of the street knife techniques, often used by rogues, it is difficult to enter the elegant hall.",,地趟刀法：街头刀法之一，往往是泼皮无赖使用的套路，难登大雅之堂。
+TestKey_武功点评_7,"Taizu Long Fist: It is rumored to be created by the Emperor Taizu of the Song Dynasty, it is the basic technique for martial artists today.",,太祖长拳：传闻是大宋太祖皇帝所创，是当今武林人士习武的基本招式。
+TestKey_武功点评_8,"Celestial Fist Technique: The fist technique of Melody House, each move is extremely soft and beautiful, like a celestial being descending, making people confused and even forgetting that they are in a fight.",,天仙拳法：妙音坊的拳法，一招一式都柔美至极，如天仙降临，让人意乱情迷甚至忘了身处战斗之中。
+TestKey_武功点评_9,"Thousand Silk Pull: The tune of the Gu Immortal Sect, combined with the sect's own poison technique, makes the listener feel as if there are thousands of spiders crawling inside their body, unknowingly they have been poisoned.",,千丝引：蛊仙教的曲调，配合蛊仙教自己的毒功，让听闻之人感到如有千蛛在体内爬动，不知不觉之中就已经身中剧毒。
+TestKey_武功点评_10,"Battle Mace Method: A stick technique that Yelv army soldiers must learn, emphasizing stability, accuracy, and ruthlessness. Paired with the Battle Mace as a weapon, it is extremely lethal.",,狼牙棒法：耶律军军人必学的棍法，讲究稳、准、狠三字，搭配狼牙棒作为武器，杀伤力十足。
+TestKey_武功点评_11,"Wumu Book: A mental method summarized by Ye Pengju himself, rarely seen by others. It is said to contain not only the techniques of breathing and qi circulation, but also the insights of leading troops in battle.",,武穆书：叶鹏举自己总结归纳的心法，旁人难得一见，据说不只有吐纳运气的技巧，还有领兵作战的心得。
+TestKey_武功点评_12,"Taichi Fist: A boxing method understood by Zhong Yangzi based on Tai Chi and Bagua, emphasizing the combination of movement and stillness to counteract.",,太极拳：重阳子根据太极八卦领悟的拳法，讲究动静结合后发制人。
+TestKey_武功点评_13,"Vairocana Godly Palm: A secret palm technique hidden in the scripture library of Shifa Temple. It is rarely seen in the martial arts world. It is said to be like the coming of the Tathagata, exterminating all the demons in the world when used.",,如来神掌：释法寺内藏经阁中秘藏的掌法，武林中鲜有人有缘一见，据说使出时如同如来降世，诛灭天下邪魔。
+TestKey_武功点评_14,"One Blade: The unique sword technique of Dragonfly City, named One Blade, meaning only one blade is needed. The move is extremely swift, making it unclear when one has been hit.",,一刀斩：蚍蜉城的刀法绝学，取名一刀斩意为只需一刀，出手极为迅捷，让人搞不清自己何时中刀。
+TestKey_武功点评_15,"Herbal Medical Canon: The secret medical canon of the Plant Sect, which almost includes the rescue methods for all diseases.",,本草医典：本草门的秘传医典，几乎收录了事件所有病症的救助之法。
+TestKey_游戏小贴士_1,Gathering and crafting do not consume time.,,采集和制造不会消耗时间。
+TestKey_游戏小贴士_2,Time continues even if you stand still.,,站在原地不动时间也会继续。
+TestKey_游戏小贴士_3,Everyone has their own schedule.,,每一个人都有自己的作息时间。
+TestKey_游戏小贴士_4,Remember to rest and avoid overworking.,,要注意休息，不要过度劳累。
+TestKey_游戏小贴士_5,"Sleeping on a straw mat can cause colds, please take precautions.",,草席睡觉会得风寒，请注意防护
+TestKey_游戏小贴士_6,Please avoid being seen by others when sneaking.,,潜行时请不要被其他人看见。
+TestKey_游戏小贴士_7,"Every choice is important, please be cautious.",,每一个选择都很重要，请谨慎。
+TestKey_游戏小贴士_8,Some objects can be destroyed.,,有些物件是可以破坏的。
+TestKey_游戏小贴士_9,Don't take things that belong to others.,,有主的东西不要乱拿。
+TestKey_游戏小贴士_10,Committing crimes in the city will result in arrest.,,在城内行凶会被捕快缉拿归案。
+TestKey_游戏小贴士_11,Everyone has their own preferences.,,每个人都有自己喜欢的东西。
+TestKey_游戏小贴士_12,Some things will happen even if you don't participate.,,有些事即便你不参与也会发生。
+TestKey_游戏小贴士_13,"Please support the official version, do not buy pirated items.",,请支持正版，不要买盗版物品。
+TestKey_游戏小贴士_14,Some places prohibit animals from entering.,,有些地方是禁止动物入内的。
+TestKey_游戏小贴士_15,"There are many paths in life, and success can come from any of them.",,人生有很多条路，行行出状元。
+TestKey_游戏小贴士_16,Powerful martial arts are often harder to obtain.,,厉害的武功往往更难获得。
+TestKey_游戏小贴士_17,Using martial arts requires the corresponding weapon.,,使用武功必须要有对应的武器。
+TestKey_本期要闻_1,"The world-renowned courtesan - Miss Qincheng is visiting Lin'an City Maiden House, those who want to see her beauty should seize the opportunity!",,誉满天下的花魁——倾城姑娘莅临霖安城群芳馆，想要一睹芳泽的各位可要抓紧机会！
+TestKey_江湖简讯_1,"The Grand Marshal of the Yan Kingdom's army suddenly died, the Iron Army of Yan and Yun is leaderless, the remaining troops have retreated to the north, and the crisis in Chuxiang City has been resolved!",,燕国兵马大元帅暴毙身亡，燕云铁军群龙无首，残余兵马已经撤军北归，楚襄城危机解除！
+TestKey_江湖简讯_2,"For some unknown reason, the Grand Marshal of the Yan Kingdom's army hastily led the Iron Army of Yan and Yun to retreat to the Yan Kingdom. Chuxiang City has once again escaped from the war. It seems that there is a divine will protecting the people of Chuxiang City.",,不知何故，燕国兵马大元帅仓促率领燕云铁军撤回燕国，楚襄城再一次幸免于兵祸，冥冥之中，似有天意庇护楚襄城的百姓。
+,,,

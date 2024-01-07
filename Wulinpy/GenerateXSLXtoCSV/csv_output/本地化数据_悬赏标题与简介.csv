@@ -1,0 +1,704 @@
+key,original,translation,context
+BH_Title_1010001,Hand over Food,,上缴食物
+BH_Title_1010002,Hand over Fruit,,上缴水果
+BH_Title_1010003,Hand over Meat,,上缴肉食
+BH_Title_1010004,Hand over Wine,,上缴酒
+BH_Title_1010005,Hand over Food,,上缴食物
+BH_Title_1010006,Hand over Fruit,,上缴水果
+BH_Title_1010007,Hand over Meat,,上缴肉食
+BH_Title_1010008,Hand over Wine,,上缴酒
+BH_Title_1010009,Hand over Weapon,,上缴武器
+BH_Title_1010010,Hand over Armor,,上缴护甲
+BH_Title_1010011,Kill the wild boar,,击杀野猪
+BH_Title_1010012,Kill the snake,,击杀蛇
+BH_Title_1010013,Kill the wild boar,,击杀野猪
+BH_Title_1010014,Kill the snake,,击杀蛇
+BH_Title_1010015,Kill the wild boar,,击杀野猪
+BH_Title_30000001,Collect Food,,搜集食物
+BH_Title_30000002,Collect Fruit,,搜集水果
+BH_Title_30000003,Collect Meat,,搜集肉食
+BH_Title_30000004,Collect Wine,,搜集酒
+BH_Title_30000005,Collect Medicine,,搜集药品
+BH_Title_30000006,Collect Side,,搜集菜肴
+BH_Title_30000007,Collect Aquatic,,搜集水产
+BH_Title_30000008,Collect Wood,,搜集木材
+BH_Title_30000009,Collect Ore,,搜集矿石
+BH_Title_30000010,Collect Weapon,,搜集武器
+BH_Title_30000011,Collect Armor,,搜集护甲
+BH_Title_30000012,Collect Herb,,搜集药材
+BH_Title_30000013,Collect Food,,搜集食物
+BH_Title_30000014,Collect Fruit,,搜集水果
+BH_Title_30000015,Collect Meat,,搜集肉食
+BH_Title_30000016,Collect Wine,,搜集酒
+BH_Title_30000017,Collect Medicine,,搜集药品
+BH_Title_30000018,Collect Side,,搜集菜肴
+BH_Title_30000019,Collect Aquatic,,搜集水产
+BH_Title_30000020,Collect Wood,,搜集木材
+BH_Title_30000021,Collect Ore,,搜集矿石
+BH_Title_30000022,Collect Weapon,,搜集武器
+BH_Title_30000023,Collect Armor,,搜集护甲
+BH_Title_30000024,Collect Herb,,搜集药材
+BH_Title_30000025,Collect Food,,搜集食物
+BH_Title_30000026,Collect Fruit,,搜集水果
+BH_Title_30000027,Collect Wine,,搜集酒
+BH_Title_30000028,Collect Medicine,,搜集药品
+BH_Title_30000029,Collect Side,,搜集菜肴
+BH_Title_30000030,Collect Aquatic,,搜集水产
+BH_Title_30000031,Collect Wood,,搜集木材
+BH_Title_30000032,Collect Ore,,搜集矿石
+BH_Title_30000033,Collect Weapon,,搜集武器
+BH_Title_30000034,Collect Armor,,搜集护甲
+BH_Title_30000035,Collect Herb,,搜集药材
+BH_Title_30000036,Collect Food,,搜集食物
+BH_Title_30000037,Collect Fruit,,搜集水果
+BH_Title_30000038,Collect Wine,,搜集酒
+BH_Title_30000039,Collect Medicine,,搜集药品
+BH_Title_30000040,Collect Side,,搜集菜肴
+BH_Title_30000041,Collect Wood,,搜集木材
+BH_Title_30000042,Collect Ore,,搜集矿石
+BH_Title_30000043,Collect Weapon,,搜集武器
+BH_Title_30000044,Collect Armor,,搜集护甲
+BH_Title_30000045,Kill the wild wolf,,击杀野狼
+BH_Title_30000046,Kill the wild wolf,,击杀野狼
+BH_Title_30000047,Wolf King Xiao Yue,,狼王啸月
+BH_Title_3200001,Collect Weapon,,搜集武器
+BH_Title_3200002,Collect Armor,,搜集护甲
+BH_Title_3200003,Collect Fruit,,搜集水果
+BH_Title_3200004,Collect Medicine,,搜集药品
+BH_Title_3200005,Collect Herb,,搜集药材
+BH_Title_3200006,Collect Bug,,搜集虫子
+BH_Title_3200007,Collect Ornament,,搜集摆件
+BH_Title_3200008,Collect Weapon,,搜集武器
+BH_Title_3200009,Collect Armor,,搜集护甲
+BH_Title_3200010,Collect Fruit,,搜集水果
+BH_Title_3200011,Collect Medicine,,搜集药品
+BH_Title_3200012,Collect Herb,,搜集药材
+BH_Title_3200013,Collect Bug,,搜集虫子
+BH_Title_3200014,Collect Ornament,,搜集摆件
+BH_Title_3200015,Collect Fruit,,搜集水果
+BH_Title_3200016,Collect Medicine,,搜集药品
+BH_Title_3200017,Collect Herb,,搜集药材
+BH_Title_3200018,Collect Bug,,搜集虫子
+BH_Title_3200019,Collect Ornament,,搜集摆件
+BH_Title_3200020,Kill the wild wolf,,击杀野狼
+BH_Title_3200021,Kill the wild wolf,,击杀野狼
+BH_Title_3200022,Wolf King Xiao Yue,,狼王啸月
+BH_Title_5800001,Collect Weapon,,搜集武器
+BH_Title_5800002,Collect Armor,,搜集护甲
+BH_Title_5800003,Collect Throwing,,搜集暗器
+BH_Title_5800004,Collect Food,,搜集食物
+BH_Title_5800005,Collect Side,,搜集菜肴
+BH_Title_5800006,Collect Medicine,,搜集药品
+BH_Title_5800007,Collect Herb,,搜集药材
+BH_Title_5800008,Collect Bug,,搜集虫子
+BH_Title_5800009,Collect Toxic,,搜集毒物
+BH_Title_5800010,Collect Weapon,,搜集武器
+BH_Title_5800011,Collect Armor,,搜集护甲
+BH_Title_5800012,Collect Throwing,,搜集暗器
+BH_Title_5800013,Collect Food,,搜集食物
+BH_Title_5800014,Collect Side,,搜集菜肴
+BH_Title_5800015,Collect Medicine,,搜集药品
+BH_Title_5800016,Collect Herb,,搜集药材
+BH_Title_5800017,Collect Bug,,搜集虫子
+BH_Title_5800018,Collect Toxic,,搜集毒物
+BH_Title_5800019,Collect Weapon,,搜集武器
+BH_Title_5800020,Collect Armor,,搜集护甲
+BH_Title_5800021,Collect Throwing,,搜集暗器
+BH_Title_5800022,Collect Food,,搜集食物
+BH_Title_5800023,Collect Side,,搜集菜肴
+BH_Title_5800024,Collect Medicine,,搜集药品
+BH_Title_5800025,Collect Herb,,搜集药材
+BH_Title_5800026,Collect Bug,,搜集虫子
+BH_Title_5800027,Collect Toxic,,搜集毒物
+BH_Title_5800028,Collect Weapon,,搜集武器
+BH_Title_5800029,Collect Armor,,搜集护甲
+BH_Title_5800030,Collect Throwing,,搜集暗器
+BH_Title_5800031,Collect Food,,搜集食物
+BH_Title_5800032,Collect Side,,搜集菜肴
+BH_Title_5800033,Collect Medicine,,搜集药品
+BH_Title_5800034,Collect Herb,,搜集药材
+BH_Title_5800035,Collect Bug,,搜集虫子
+BH_Title_5800036,Collect Toxic,,搜集毒物
+BH_Title_5800037,Provoke Crime Investigation Bureau,,寻衅神捕门
+BH_Title_5800038,Provoke Crime Investigation Bureau,,寻衅神捕门
+BH_Title_5800039,Kill Luo Qianxue,,击杀洛千雪
+BH_Title_5800040,Kill Qiu Zhimo,,击杀裘之墨
+BH_Title_5800041,Kill Luo Tianxiong,,击杀洛天雄
+BH_Title_6500001,Collect Weapon,,搜集武器
+BH_Title_6500002,Collect Armor,,搜集护甲
+BH_Title_6500003,Collect Fruit,,搜集水果
+BH_Title_6500004,Collect Medicine,,搜集药品
+BH_Title_6500005,Collect - Wine,,搜集-酒
+BH_Title_6500006,Collect Weapon,,搜集武器
+BH_Title_6500007,Collect Armor,,搜集护甲
+BH_Title_6500008,Collect Fruit,,搜集水果
+BH_Title_6500009,Collect Medicine,,搜集药品
+BH_Title_6500010,Collect - Wine,,搜集-酒
+BH_Title_6500011,Sanction Nest of Swallow,,制裁燕子窝
+BH_Title_6500012,Sanction Nest of Swallow,,制裁燕子窝
+BH_Title_6500013,Sanction Bu Juechen,,制裁步绝尘
+BH_Title_6500014,Sanction Hua Qingqing,,制裁华青青
+BH_Title_6500015,Sanction Tomb Raider Sect,,制裁摸金门
+BH_Title_6500016,Sanction Tomb Raider Sect,,制裁摸金门
+BH_Title_6500017,Sanction Ming Bufan,,制裁命不凡
+BH_Title_6500018,Catch the thief,,缉拿偷盗者
+BH_Title_6500019,Catch the notorious thief,,缉拿江洋大盗
+BH_Title_6500020,Catch the flower thief,,缉拿采花大盗
+BH_Title_6500021,Catch the old woman,,缉拿人伢婆
+BH_Title_6500022,Catch the grasshopper,,缉拿草上飞
+BH_Title_6500023,Catch the monk who broke the precepts,,缉拿破戒僧
+BH_Title_6500024,Catch the one-eyed dragon,,缉拿独眼龙
+BH_Title_6500025,Catch the Kunlun slave,,缉拿昆仑奴
+BH_Title_6500026,Catch the cultist,,缉拿邪教徒
+BH_Title_40000001,Collect Weapon,,搜集武器
+BH_Title_40000002,Collect Armor,,搜集护甲
+BH_Title_40000003,Collect Food,,搜集食物
+BH_Title_40000004,Collect Side,,搜集菜肴
+BH_Title_40000005,Collect Fruit,,搜集水果
+BH_Title_40000006,Collect Medicine,,搜集药品
+BH_Title_40000007,Collect Aquatic,,搜集水产
+BH_Title_40000008,Collect Ore,,搜集矿石
+BH_Title_40000009,Collect - Wine,,搜集-酒
+BH_Title_40000010,Collect Wood,,搜集木材
+BH_Title_40000011,Collect Herb,,搜集药材
+BH_Title_40000012,Collect Bug,,搜集虫子
+BH_Title_40000013,Collect Toxic,,搜集毒物
+BH_Title_40000014,Collect Toy,,搜集玩具
+BH_Title_40000015,Collect Ornament,,搜集摆件
+BH_Title_40000016,Collect Weapon,,搜集武器
+BH_Title_40000017,Collect Armor,,搜集护甲
+BH_Title_40000018,Collect Food,,搜集食物
+BH_Title_40000019,Collect Side,,搜集菜肴
+BH_Title_40000020,Collect Fruit,,搜集水果
+BH_Title_40000021,Collect Medicine,,搜集药品
+BH_Title_40000022,Collect Aquatic,,搜集水产
+BH_Title_40000023,Collect Ore,,搜集矿石
+BH_Title_40000024,Collect - Wine,,搜集-酒
+BH_Title_40000025,Collect Wood,,搜集木材
+BH_Title_40000026,Collect Herb,,搜集药材
+BH_Title_40000027,Collect Bug,,搜集虫子
+BH_Title_40000028,Collect Toxic,,搜集毒物
+BH_Title_40000029,Collect Toy,,搜集玩具
+BH_Title_40000030,Collect Ornament,,搜集摆件
+BH_Title_40000031,Collect Weapon,,搜集武器
+BH_Title_40000032,Collect Armor,,搜集护甲
+BH_Title_40000033,Collect Food,,搜集食物
+BH_Title_40000034,Collect Side,,搜集菜肴
+BH_Title_40000035,Collect Fruit,,搜集水果
+BH_Title_40000036,Collect Medicine,,搜集药品
+BH_Title_40000037,Collect Aquatic,,搜集水产
+BH_Title_40000038,Collect Ore,,搜集矿石
+BH_Title_40000039,Collect - Wine,,搜集-酒
+BH_Title_40000040,Collect Wood,,搜集木材
+BH_Title_40000041,Collect Herb,,搜集药材
+BH_Title_40000042,Collect Bug,,搜集虫子
+BH_Title_40000043,Collect Toxic,,搜集毒物
+BH_Title_40000044,Collect Toy,,搜集玩具
+BH_Title_40000045,Collect Ornament,,搜集摆件
+BH_Title_40000046,Collect Weapon,,搜集武器
+BH_Title_40000047,Collect Armor,,搜集护甲
+BH_Title_40000048,Collect Food,,搜集食物
+BH_Title_40000049,Collect Side,,搜集菜肴
+BH_Title_40000050,Collect Fruit,,搜集水果
+BH_Title_40000051,Collect Medicine,,搜集药品
+BH_Title_40000052,Collect Aquatic,,搜集水产
+BH_Title_40000053,Collect Ore,,搜集矿石
+BH_Title_40000054,Collect - Wine,,搜集-酒
+BH_Title_40000055,Collect Wood,,搜集木材
+BH_Title_40000056,Collect Herb,,搜集药材
+BH_Title_40000057,Collect Bug,,搜集虫子
+BH_Title_40000058,Collect Toxic,,搜集毒物
+BH_Title_40000059,Collect Toy,,搜集玩具
+BH_Title_40000060,Collect Ornament,,搜集摆件
+BH_Title_20000001,Collect Weapon,,搜集武器
+BH_Title_20000002,Collect Armor,,搜集护甲
+BH_Title_20000003,Collect Food,,搜集食物
+BH_Title_20000004,Collect Side,,搜集菜肴
+BH_Title_20000005,Collect Fruit,,搜集水果
+BH_Title_20000006,Collect Medicine,,搜集药品
+BH_Title_20000007,Collect Aquatic,,搜集水产
+BH_Title_20000008,Collect Ore,,搜集矿石
+BH_Title_20000009,Collect - Wine,,搜集-酒
+BH_Title_20000010,Collect Wood,,搜集木材
+BH_Title_20000011,Collect Herb,,搜集药材
+BH_Title_20000012,Collect Bug,,搜集虫子
+BH_Title_20000013,Collect Toxic,,搜集毒物
+BH_Title_20000014,Collect Toy,,搜集玩具
+BH_Title_20000015,Collect Ornament,,搜集摆件
+BH_Title_20000016,Collect Weapon,,搜集武器
+BH_Title_20000017,Collect Armor,,搜集护甲
+BH_Title_20000018,Collect Food,,搜集食物
+BH_Title_20000019,Collect Side,,搜集菜肴
+BH_Title_20000020,Collect Fruit,,搜集水果
+BH_Title_20000021,Collect Medicine,,搜集药品
+BH_Title_20000022,Collect Aquatic,,搜集水产
+BH_Title_20000023,Collect Ore,,搜集矿石
+BH_Title_20000024,Collect - Wine,,搜集-酒
+BH_Title_20000025,Collect Wood,,搜集木材
+BH_Title_20000026,Collect Herb,,搜集药材
+BH_Title_20000027,Collect Bug,,搜集虫子
+BH_Title_20000028,Collect Toxic,,搜集毒物
+BH_Title_20000029,Collect Toy,,搜集玩具
+BH_Title_20000030,Collect Ornament,,搜集摆件
+BH_Title_20000031,Collect Weapon,,搜集武器
+BH_Title_20000032,Collect Armor,,搜集护甲
+BH_Title_20000033,Collect Food,,搜集食物
+BH_Title_20000034,Collect Side,,搜集菜肴
+BH_Title_20000035,Collect Fruit,,搜集水果
+BH_Title_20000036,Collect Medicine,,搜集药品
+BH_Title_20000037,Collect Aquatic,,搜集水产
+BH_Title_20000038,Collect Ore,,搜集矿石
+BH_Title_20000039,Collect - Wine,,搜集-酒
+BH_Title_20000040,Collect Wood,,搜集木材
+BH_Title_20000041,Collect Herb,,搜集药材
+BH_Title_20000042,Collect Bug,,搜集虫子
+BH_Title_20000043,Collect Toxic,,搜集毒物
+BH_Title_20000044,Collect Toy,,搜集玩具
+BH_Title_20000045,Collect Ornament,,搜集摆件
+BH_Title_20000046,Collect Weapon,,搜集武器
+BH_Title_20000047,Collect Armor,,搜集护甲
+BH_Title_20000048,Collect Food,,搜集食物
+BH_Title_20000049,Collect Side,,搜集菜肴
+BH_Title_20000050,Collect Fruit,,搜集水果
+BH_Title_20000051,Collect Medicine,,搜集药品
+BH_Title_20000052,Collect Aquatic,,搜集水产
+BH_Title_20000053,Collect Ore,,搜集矿石
+BH_Title_20000054,Collect - Wine,,搜集-酒
+BH_Title_20000055,Collect Wood,,搜集木材
+BH_Title_20000056,Collect Herb,,搜集药材
+BH_Title_20000057,Collect Bug,,搜集虫子
+BH_Title_20000058,Collect Toxic,,搜集毒物
+BH_Title_20000059,Collect Toy,,搜集玩具
+BH_Title_20000060,Collect Ornament,,搜集摆件
+BH_Title_20000061,Sanction Horse King Cave,,制裁马王洞
+BH_Title_20000062,Sanction Horse King Cave,,制裁马王洞
+BH_Title_20000063,Sanction Horse King,,制裁马王爷
+BH_Title_7100001,Collect Weapon,,搜集武器
+BH_Title_7100002,Collect Armor,,搜集护甲
+BH_Title_7100003,Collect Fruit,,搜集水果
+BH_Title_7100004,Collect Medicine,,搜集药品
+BH_Title_7100005,Collect Aquatic,,搜集水产
+BH_Title_7100006,Collect Ore,,搜集矿石
+BH_Title_7100007,Collect Wood,,搜集木材
+BH_Title_7100008,Collect Herb,,搜集药材
+BH_Title_7100009,Collect Ornament,,搜集摆件
+BH_Title_7100010,Collect Weapon,,搜集武器
+BH_Title_7100011,Collect Armor,,搜集护甲
+BH_Title_7100012,Collect Fruit,,搜集水果
+BH_Title_7100013,Collect Medicine,,搜集药品
+BH_Title_7100014,Collect Aquatic,,搜集水产
+BH_Title_7100015,Collect Ore,,搜集矿石
+BH_Title_7100016,Collect Wood,,搜集木材
+BH_Title_7100017,Collect Herb,,搜集药材
+BH_Title_7100018,Collect Ornament,,搜集摆件
+BH_Title_7100019,Collect Weapon,,搜集武器
+BH_Title_7100020,Collect Armor,,搜集护甲
+BH_Title_7100021,Collect Fruit,,搜集水果
+BH_Title_7100022,Collect Medicine,,搜集药品
+BH_Title_7100023,Collect Aquatic,,搜集水产
+BH_Title_7100024,Collect Ore,,搜集矿石
+BH_Title_7100025,Collect Wood,,搜集木材
+BH_Title_7100026,Collect Herb,,搜集药材
+BH_Title_7100027,Collect Ornament,,搜集摆件
+BH_Title_7100028,Collect Weapon,,搜集武器
+BH_Title_7100029,Collect Armor,,搜集护甲
+BH_Title_7100030,Collect Fruit,,搜集水果
+BH_Title_7100031,Collect Medicine,,搜集药品
+BH_Title_7100032,Collect Aquatic,,搜集水产
+BH_Title_7100033,Collect Ore,,搜集矿石
+BH_Title_7100034,Collect Wood,,搜集木材
+BH_Title_7100035,Collect Herb,,搜集药材
+BH_Title_7100036,Collect Ornament,,搜集摆件
+BH_Title_7100037,Sanction Horse King Cave,,制裁马王洞
+BH_Title_7100038,Sanction Horse King Cave,,制裁马王洞
+BH_Title_7100039,Sanction Horse King,,制裁马王爷
+BH_Desc_1010001,"The brothers in the stockade are short of Food recently, find some Food for them.",,寨子里的兄弟们最近食物紧缺，给兄弟们找一些食物来。
+BH_Desc_1010002,"The brothers in the stockade need to replenish some Fruit recently, find some Fruit for them.",,寨子里的兄弟们最近需要补充点水果，给兄弟们找一些水果来。
+BH_Desc_1010003,"The brothers in the stockade have been eating poorly recently, find some Meat for them.",,寨子里的兄弟们最近伙食很差，给兄弟们找一些肉食来。
+BH_Desc_1010004,"The brothers in the stockade have no wine to drink recently, find some Wine for them.",,寨子里的兄弟们最近没有酒喝了，给兄弟们找一些酒来。
+BH_Desc_1010005,"The brothers in the stockade are short of Food recently, find some Food for them.",,寨子里的兄弟们最近食物紧缺，给兄弟们找一些食物来。
+BH_Desc_1010006,"The brothers in the stockade need to replenish some Fruit recently, find some Fruit for them.",,寨子里的兄弟们最近需要补充点水果，给兄弟们找一些水果来。
+BH_Desc_1010007,"The brothers in the stockade have been eating poorly recently, find some Meat for them.",,寨子里的兄弟们最近伙食很差，给兄弟们找一些肉食来。
+BH_Desc_1010008,"The brothers in the stockade have no wine to drink recently, find some Wine for them.",,寨子里的兄弟们最近没有酒喝了，给兄弟们找一些酒来。
+BH_Desc_1010009,"The brothers in the stockade don't have handy weapons recently, find some Weapon for them.",,寨子里的兄弟们最近没有称手的家伙了，给兄弟们找一些武器来。
+BH_Desc_1010010,"The brothers in the stockade have been beaten up recently, find some Armor for them.",,寨子里的兄弟们最近总被挨揍，给兄弟们找一些护甲来。
+BH_Desc_1010011,"The wild boars in the Lost Forest have been very arrogant recently, some of the brothers in the stockade almost lost their lives, go teach them a lesson!",,迷踪林林的野猪最近非常嚣张，寨里的有的兄弟险些丧了命，去教训他们一下！
+BH_Desc_1010012,"The snakes in the Lost Forest have been very arrogant recently, some of the brothers in the stockade almost lost their lives, go teach them a lesson!",,迷踪林林的蛇最近非常嚣张，寨里的有的兄弟险些丧了命，去教训他们一下！
+BH_Desc_1010013,"The wild boars in the Lost Forest have been very arrogant recently, some of the brothers in the stockade almost lost their lives, go teach them a lesson!",,迷踪林林的野猪最近非常嚣张，寨里的有的兄弟险些丧了命，去教训他们一下！
+BH_Desc_1010014,"The snakes in the Lost Forest have been very arrogant recently, some of the brothers in the stockade almost lost their lives, go teach them a lesson!",,迷踪林林的蛇最近非常嚣张，寨里的有的兄弟险些丧了命，去教训他们一下！
+BH_Desc_1010015,"The wild boars in the Lost Forest have been very arrogant recently, some of the brothers in the stockade almost lost their lives, go teach them a lesson!",,迷踪林林的野猪最近非常嚣张，寨里的有的兄弟险些丧了命，去教训他们一下！
+BH_Desc_30000001,"Assist civilians, Chuxiang City is buying Food at a high price.",,援助平民，楚襄城高价收购食物。
+BH_Desc_30000002,The merchants in the city are buying Fruit at a high price.,,城内商贩高价收购水果。
+BH_Desc_30000003,The merchants in the city are buying Meat at a high price.,,城内商贩高价收购肉食。
+BH_Desc_30000004,The merchants in the city are buying - Wine at a high price.,,城内商贩高价收购-酒。
+BH_Desc_30000005,The merchants in the city are buying Medicine at a high price.,,城内商贩高价收购药品。
+BH_Desc_30000006,The merchants in the city are buying Side at a high price.,,城内商贩高价收购菜肴。
+BH_Desc_30000007,The merchants in the city are buying Aquatic at a high price.,,城内商贩高价收购水产。
+BH_Desc_30000008,The merchants in the city are buying Wood at a high price.,,城内商贩高价收购木材。
+BH_Desc_30000009,The merchants in the city are buying Ore at a high price.,,城内商贩高价收购矿石。
+BH_Desc_30000010,The merchants in the city are buying Weapon at a high price.,,城内商贩高价收购武器。
+BH_Desc_30000011,The merchants in the city are buying Armor at a high price.,,城内商贩高价收购护甲。
+BH_Desc_30000012,The merchants in the city are buying Herb at a high price.,,城内商贩高价收购药材。
+BH_Desc_30000013,Merchants in the city are buying Food at high prices.,,城内商贩高价收购食物。
+BH_Desc_30000014,The merchants in the city are buying Fruit at a high price.,,城内商贩高价收购水果。
+BH_Desc_30000015,The merchants in the city are buying Meat at a high price.,,城内商贩高价收购肉食。
+BH_Desc_30000016,The merchants in the city are buying - Wine at a high price.,,城内商贩高价收购-酒。
+BH_Desc_30000017,The merchants in the city are buying Medicine at a high price.,,城内商贩高价收购药品。
+BH_Desc_30000018,The merchants in the city are buying Side at a high price.,,城内商贩高价收购菜肴。
+BH_Desc_30000019,The merchants in the city are buying Aquatic at a high price.,,城内商贩高价收购水产。
+BH_Desc_30000020,The merchants in the city are buying Wood at a high price.,,城内商贩高价收购木材。
+BH_Desc_30000021,The merchants in the city are buying Ore at a high price.,,城内商贩高价收购矿石。
+BH_Desc_30000022,The merchants in the city are buying Weapon at a high price.,,城内商贩高价收购武器。
+BH_Desc_30000023,The merchants in the city are buying Armor at a high price.,,城内商贩高价收购护甲。
+BH_Desc_30000024,The merchants in the city are buying Herb at a high price.,,城内商贩高价收购药材。
+BH_Desc_30000025,Merchants in the city are buying Food at high prices.,,城内商贩高价收购食物。
+BH_Desc_30000026,The merchants in the city are buying Fruit at a high price.,,城内商贩高价收购水果。
+BH_Desc_30000027,The merchants in the city are buying - Wine at a high price.,,城内商贩高价收购-酒。
+BH_Desc_30000028,The merchants in the city are buying Medicine at a high price.,,城内商贩高价收购药品。
+BH_Desc_30000029,The merchants in the city are buying Side at a high price.,,城内商贩高价收购菜肴。
+BH_Desc_30000030,The merchants in the city are buying Aquatic at a high price.,,城内商贩高价收购水产。
+BH_Desc_30000031,The merchants in the city are buying Wood at a high price.,,城内商贩高价收购木材。
+BH_Desc_30000032,The merchants in the city are buying Ore at a high price.,,城内商贩高价收购矿石。
+BH_Desc_30000033,The merchants in the city are buying Weapon at a high price.,,城内商贩高价收购武器。
+BH_Desc_30000034,The merchants in the city are buying Armor at a high price.,,城内商贩高价收购护甲。
+BH_Desc_30000035,The merchants in the city are buying Herb at a high price.,,城内商贩高价收购药材。
+BH_Desc_30000036,Merchants in the city are buying Food at high prices.,,城内商贩高价收购食物。
+BH_Desc_30000037,The merchants in the city are buying Fruit at a high price.,,城内商贩高价收购水果。
+BH_Desc_30000038,The merchants in the city are buying - Wine at a high price.,,城内商贩高价收购-酒。
+BH_Desc_30000039,The merchants in the city are buying Medicine at a high price.,,城内商贩高价收购药品。
+BH_Desc_30000040,The merchants in the city are buying Side at a high price.,,城内商贩高价收购菜肴。
+BH_Desc_30000041,The merchants in the city are buying Wood at a high price.,,城内商贩高价收购木材。
+BH_Desc_30000042,The merchants in the city are buying Ore at a high price.,,城内商贩高价收购矿石。
+BH_Desc_30000043,The merchants in the city are buying Weapon at a high price.,,城内商贩高价收购武器。
+BH_Desc_30000044,The merchants in the city are buying Armor at a high price.,,城内商贩高价收购护甲。
+BH_Desc_30000045,"Wild Wolf Valley is overrun with wolves, offering high rewards for martial artists to kill them!",,野狼谷野狼泛滥，高价雇佣江湖人士前往击杀！
+BH_Desc_30000046,"Wild Wolf Valley is overrun with wolves, offering high rewards for martial artists to kill them!",,野狼谷野狼泛滥，高价雇佣江湖人士前往击杀！
+BH_Desc_30000047,"The Wolf King Xiao Yue in Wild Wolf Valley has been unusually restless lately, offering high rewards for martial artists to kill him!",,野狼谷狼王啸月最近躁动异常，高价雇佣江湖人士前往击杀！
+BH_Desc_3200001,"Our sect is currently lacking Weapon, please sect disciples collect them quickly.",,"宗内现在缺乏武器,请门派弟子速速收集。"
+BH_Desc_3200002,"Our sect is currently lacking armor, please sect disciples collect them quickly.",,"宗内现在缺乏护甲,请门派弟子速速收集。"
+BH_Desc_3200003,"Our sect is currently lacking Fruit, please sect disciples collect them quickly.",,"宗内现在缺乏水果,请门派弟子速速收集。"
+BH_Desc_3200004,"Our sect is currently lacking Medicine, please sect disciples collect them quickly.",,"宗内现在缺乏药品,请门派弟子速速收集。"
+BH_Desc_3200005,"Our sect is currently lacking Herb, please sect disciples collect them quickly.",,"宗内现在缺乏药材,请门派弟子速速收集。"
+BH_Desc_3200006,"Our sect is currently lacking Bug, please sect disciples collect them quickly.",,"宗内现在缺乏虫子,请门派弟子速速收集。"
+BH_Desc_3200007,"Our sect is currently lacking Ornament, please sect disciples collect them quickly.",,"宗内现在缺乏摆件,请门派弟子速速收集。"
+BH_Desc_3200008,"Our sect is currently lacking Weapon, please sect disciples collect them quickly.",,"宗内现在缺乏武器,请门派弟子速速收集。"
+BH_Desc_3200009,"Our sect is currently lacking armor, please sect disciples collect them quickly.",,"宗内现在缺乏护甲,请门派弟子速速收集。"
+BH_Desc_3200010,"Our sect is currently lacking Fruit, please sect disciples collect them quickly.",,"宗内现在缺乏水果,请门派弟子速速收集。"
+BH_Desc_3200011,"Our sect is currently lacking Medicine, please sect disciples collect them quickly.",,"宗内现在缺乏药品,请门派弟子速速收集。"
+BH_Desc_3200012,"Our sect is currently lacking Herb, please sect disciples collect them quickly.",,"宗内现在缺乏药材,请门派弟子速速收集。"
+BH_Desc_3200013,"Our sect is currently lacking Bug, please sect disciples collect them quickly.",,"宗内现在缺乏虫子,请门派弟子速速收集。"
+BH_Desc_3200014,"Our sect is currently lacking Ornament, please sect disciples collect them quickly.",,"宗内现在缺乏摆件,请门派弟子速速收集。"
+BH_Desc_3200015,"Our sect is currently lacking Fruit, please sect disciples collect them quickly.",,"宗内现在缺乏水果,请门派弟子速速收集。"
+BH_Desc_3200016,"Our sect is currently lacking Medicine, please sect disciples collect them quickly.",,"宗内现在缺乏药品,请门派弟子速速收集。"
+BH_Desc_3200017,"Our sect is currently lacking Herb, please sect disciples collect them quickly.",,"宗内现在缺乏药材,请门派弟子速速收集。"
+BH_Desc_3200018,"Our sect is currently lacking Bug, please sect disciples collect them quickly.",,"宗内现在缺乏虫子,请门派弟子速速收集。"
+BH_Desc_3200019,"Our sect is currently lacking Ornament, please sect disciples collect them quickly.",,"宗内现在缺乏摆件,请门派弟子速速收集。"
+BH_Desc_3200020,"Wild Wolf Valley is overrun with wolves, hoping for sect disciples to kill them!",,野狼谷野狼泛滥，希望宗内弟子前往击杀！
+BH_Desc_3200021,"Wild Wolf Valley is overrun with wolves, hoping for sect disciples to kill them!",,野狼谷野狼泛滥，希望宗内弟子前往击杀！
+BH_Desc_3200022,"The Wolf King Xiao Yue in Wild Wolf Valley has been unusually restless lately, hoping for sect disciples to kill him!",,野狼谷狼王啸月最近躁动异常，希望宗内弟子前往击杀！
+BH_Desc_5800001,"Our gang is currently lacking Weapon, please gang members collect them quickly.",,"帮派现在缺乏武器,请帮内人员速速收集。"
+BH_Desc_5800002,"Our gang is currently lacking armor, please gang members collect them quickly.",,"帮派现在缺乏护甲,请帮内人员速速收集。"
+BH_Desc_5800003,"Our gang is currently lacking Throwing, please gang members collect them quickly.",,"帮派现在缺乏暗器,请帮内人员速速收集。"
+BH_Desc_5800004,"Our gang is currently lacking Food, please gang members collect them quickly.",,"帮派现在缺乏食物,请帮内人员速速收集。"
+BH_Desc_5800005,"Our gang is currently lacking Side, please gang members collect them quickly.",,"帮派现在缺乏菜肴,请帮内人员速速收集。"
+BH_Desc_5800006,"Our gang is currently lacking Medicine, please gang members collect them quickly.",,"帮派现在缺乏药品,请帮内人员速速收集。"
+BH_Desc_5800007,"Our gang is currently lacking Herb, please gang members collect them quickly.",,"帮派现在缺乏药材,请帮内人员速速收集。"
+BH_Desc_5800008,"Our gang is currently lacking Bug, please gang members collect them quickly.",,"帮派现在缺乏虫子,请帮内人员速速收集。"
+BH_Desc_5800009,"Our gang is currently lacking Toxic, please gang members collect them quickly.",,"帮派现在缺乏毒物,请帮内人员速速收集。"
+BH_Desc_5800010,"Our gang is currently lacking Weapon, please gang members collect them quickly.",,"帮派现在缺乏武器,请帮内人员速速收集。"
+BH_Desc_5800011,"Our gang is currently lacking armor, please gang members collect them quickly.",,"帮派现在缺乏护甲,请帮内人员速速收集。"
+BH_Desc_5800012,"Our gang is currently lacking Throwing, please gang members collect them quickly.",,"帮派现在缺乏暗器,请帮内人员速速收集。"
+BH_Desc_5800013,"Our gang is currently lacking Food, please gang members collect them quickly.",,"帮派现在缺乏食物,请帮内人员速速收集。"
+BH_Desc_5800014,"Our gang is currently lacking Side, please gang members collect them quickly.",,"帮派现在缺乏菜肴,请帮内人员速速收集。"
+BH_Desc_5800015,"Our gang is currently lacking Medicine, please gang members collect them quickly.",,"帮派现在缺乏药品,请帮内人员速速收集。"
+BH_Desc_5800016,"Our gang is currently lacking Herb, please gang members collect them quickly.",,"帮派现在缺乏药材,请帮内人员速速收集。"
+BH_Desc_5800017,"Our gang is currently lacking Bug, please gang members collect them quickly.",,"帮派现在缺乏虫子,请帮内人员速速收集。"
+BH_Desc_5800018,"Our gang is currently lacking Toxic, please gang members collect them quickly.",,"帮派现在缺乏毒物,请帮内人员速速收集。"
+BH_Desc_5800019,"Our gang is currently lacking Weapon, please gang members collect them quickly.",,"帮派现在缺乏武器,请帮内人员速速收集。"
+BH_Desc_5800020,"Our gang is currently lacking armor, please gang members collect them quickly.",,"帮派现在缺乏护甲,请帮内人员速速收集。"
+BH_Desc_5800021,"Our gang is currently lacking Throwing, please gang members collect them quickly.",,"帮派现在缺乏暗器,请帮内人员速速收集。"
+BH_Desc_5800022,"Our gang is currently lacking Food, please gang members collect them quickly.",,"帮派现在缺乏食物,请帮内人员速速收集。"
+BH_Desc_5800023,"Our gang is currently lacking Side, please gang members collect them quickly.",,"帮派现在缺乏菜肴,请帮内人员速速收集。"
+BH_Desc_5800024,"Our gang is currently lacking Medicine, please gang members collect them quickly.",,"帮派现在缺乏药品,请帮内人员速速收集。"
+BH_Desc_5800025,"Our gang is currently lacking Herb, please gang members collect them quickly.",,"帮派现在缺乏药材,请帮内人员速速收集。"
+BH_Desc_5800026,"Our gang is currently lacking Bug, please gang members collect them quickly.",,"帮派现在缺乏虫子,请帮内人员速速收集。"
+BH_Desc_5800027,"Our gang is currently lacking Toxic, please gang members collect them quickly.",,"帮派现在缺乏毒物,请帮内人员速速收集。"
+BH_Desc_5800028,"Our gang is currently lacking Weapon, please gang members collect them quickly.",,"帮派现在缺乏武器,请帮内人员速速收集。"
+BH_Desc_5800029,"Our gang is currently lacking armor, please gang members collect them quickly.",,"帮派现在缺乏护甲,请帮内人员速速收集。"
+BH_Desc_5800030,"Our gang is currently lacking Throwing, please gang members collect them quickly.",,"帮派现在缺乏暗器,请帮内人员速速收集。"
+BH_Desc_5800031,"Our gang is currently lacking Food, please gang members collect them quickly.",,"帮派现在缺乏食物,请帮内人员速速收集。"
+BH_Desc_5800032,"Our gang is currently lacking Side, please gang members collect them quickly.",,"帮派现在缺乏菜肴,请帮内人员速速收集。"
+BH_Desc_5800033,"Our gang is currently lacking Medicine, please gang members collect them quickly.",,"帮派现在缺乏药品,请帮内人员速速收集。"
+BH_Desc_5800034,"Our gang is currently lacking Herb, please gang members collect them quickly.",,"帮派现在缺乏药材,请帮内人员速速收集。"
+BH_Desc_5800035,"Our gang is currently lacking Bug, please gang members collect them quickly.",,"帮派现在缺乏虫子,请帮内人员速速收集。"
+BH_Desc_5800036,"Our gang is currently lacking Toxic, please gang members collect them quickly.",,"帮派现在缺乏毒物,请帮内人员速速收集。"
+BH_Desc_5800037,"The Crime Investigation Bureau has recently arrested many of our brothers, avenge our brothers!",,神捕门的人最近抓了我们很多兄弟，为兄弟们报仇！
+BH_Desc_5800038,"The Crime Investigation Bureau has recently arrested many of our brothers, avenge our brothers!",,神捕门的人最近抓了我们很多兄弟，为兄弟们报仇！
+BH_Desc_5800039,"Luo Qianxue has recently arrested many of our brothers, avenge our brothers!",,洛千雪最近抓了我们很多兄弟，为兄弟们报仇！
+BH_Desc_5800040,"Qiu Zhimo has recently arrested many of our brothers, avenge our brothers!",,裘之墨最近抓了我们很多兄弟，为兄弟们报仇！
+BH_Desc_5800041,"Luo Tianxiong has recently arrested many of our brothers, avenge our brothers!",,洛天雄最近抓了我们很多兄弟，为兄弟们报仇！
+BH_Desc_6500001,"Our school is currently lacking Weapon, please school members collect them quickly.",,"门内现在缺乏武器,请门内人员速速收集。"
+BH_Desc_6500002,"Our school is currently lacking armor, please school members collect them quickly.",,"门内现在缺乏护甲,请门内人员速速收集。"
+BH_Desc_6500003,"Our school is currently lacking Fruit, please school members collect them quickly.",,"门内现在缺乏水果,请门内人员速速收集。"
+BH_Desc_6500004,"Our school is currently lacking Medicine, please school members collect them quickly.",,"门内现在缺乏药品,请门内人员速速收集。"
+BH_Desc_6500005,"Our school is currently lacking - wine, please school members collect them quickly.",,"门内现在缺乏-酒,请门内人员速速收集。"
+BH_Desc_6500006,"Our school is currently lacking Weapon, please school members collect them quickly.",,"门内现在缺乏武器,请门内人员速速收集。"
+BH_Desc_6500007,"Our school is currently lacking armor, please school members collect them quickly.",,"门内现在缺乏护甲,请门内人员速速收集。"
+BH_Desc_6500008,"Our school is currently lacking Fruit, please school members collect them quickly.",,"门内现在缺乏水果,请门内人员速速收集。"
+BH_Desc_6500009,"Our school is currently lacking Medicine, please school members collect them quickly.",,"门内现在缺乏药品,请门内人员速速收集。"
+BH_Desc_6500010,"Our school is currently lacking - wine, please school members collect them quickly.",,"门内现在缺乏-酒,请门内人员速速收集。"
+BH_Desc_6500011,"Nest of Swallow has been committing crimes frequently recently, those with Skill in the school, go quickly!",,燕子窝最近作案频繁，门内有能力的人员速速前往！
+BH_Desc_6500012,"Nest of Swallow has been committing crimes frequently recently, those with Skill in the school, go quickly!",,燕子窝最近作案频繁，门内有能力的人员速速前往！
+BH_Desc_6500013,"It is heard that Bu Juechen of Nest of Swallow has been committing crimes frequently recently, those with Skill in the school, go quickly!",,听闻燕子窝的步绝尘最近作案频繁，门内有能力的人员速速前往！
+BH_Desc_6500014,"It is heard that Hua Qingqing of Nest of Swallow has been committing crimes frequently recently, those with Skill in the school, go quickly!",,听闻燕子窝的华青青最近作案频繁，门内有能力的人员速速前往！
+BH_Desc_6500015,"Tomb Raider Sect has been committing crimes frequently recently, those with Skill in the school, go quickly!",,摸金门最近作案频繁，门内有能力的人员速速前往！
+BH_Desc_6500016,"Tomb Raider Sect has been committing crimes frequently recently, those with Skill in the school, go quickly!",,摸金门最近作案频繁，门内有能力的人员速速前往！
+BH_Desc_6500017,"It is heard that Ming Bufan of Tomb Raider Sect has been committing crimes frequently recently, those with Skill in the school, go quickly!",,听闻摸金门的命不凡最近作案频繁，门内有能力的人员速速前往！
+BH_Desc_6500018,"Recently, many people have spotted a ""thief"" in Daliang City, please school members go and arrest him quickly!",,近日多人发现“偷盗者”出现在大梁城内，请门人前往速速缉拿！
+BH_Desc_6500019,"Recently, many people have spotted a ""great river and sea thief"" in Daliang City, please school members go and arrest him quickly!",,近日多人发现“江洋大盗”出现在大梁城内，请门人前往速速缉拿！
+BH_Desc_6500020,"Recently, many people have spotted a ""flower picking thief"" in Daliang City, please school members go and arrest him quickly!",,近日多人发现“采花大盗”出现在大梁城内，请门人前往速速缉拿！
+BH_Desc_6500021,"A spy from Daliang City reported that a wanted criminal known as ""Human Granny"" has appeared in the city, please school members go and arrest her quickly!",,大梁城探子回报，城内出现人称“人伢婆”的通缉犯，请门人前往速速缉拿！
+BH_Desc_6500022,"A spy from Chuxiang City reported that a wanted criminal known as ""Grass on the Fly"" has appeared in the city, please school members go and arrest him quickly!",,楚襄城探子回报，城内出现人称“草上飞”的通缉犯，请门人前往速速缉拿！
+BH_Desc_6500023,"A spy from Lin'an City reported that a wanted criminal known as ""Broken Precept Monk"" has appeared in the city, please school members go and arrest him quickly!",,霖安城探子回报，城内出现人称“破戒僧”的通缉犯，请门人前往速速缉拿！
+BH_Desc_6500024,"The scout from Chuxiang City reports that a wanted criminal known as ""One-eyed Dragon"" has appeared in the city. Sect members, please apprehend him immediately!",,楚襄城探子回报，城内出现人称“独眼龙”的通缉犯，请门人前往速速缉拿！
+BH_Desc_6500025,"The scout from Lin'an City reports that a wanted criminal known as ""Kunlun Slave"" has appeared in the city. Sect members, please apprehend him immediately!",,霖安城探子回报，城内出现人称“昆仑奴”的通缉犯，请门人前往速速缉拿！
+BH_Desc_6500026,"The scout from Daliang City reports that a wanted criminal known as ""Cultist"" has appeared in the city. Sect members, please apprehend him immediately!",,大梁城探子回报，城内出现人称“邪教徒”的通缉犯，请门人前往速速缉拿！
+BH_Desc_40000001,The merchants in the city are buying Weapon at a high price.,,城内商贩高价收购武器。
+BH_Desc_40000002,The merchants in the city are buying Armor at a high price.,,城内商贩高价收购护甲。
+BH_Desc_40000003,Merchants in the city are buying Food at high prices.,,城内商贩高价收购食物。
+BH_Desc_40000004,The merchants in the city are buying Side at a high price.,,城内商贩高价收购菜肴。
+BH_Desc_40000005,The merchants in the city are buying Fruit at a high price.,,城内商贩高价收购水果。
+BH_Desc_40000006,The merchants in the city are buying Medicine at a high price.,,城内商贩高价收购药品。
+BH_Desc_40000007,The merchants in the city are buying Aquatic at a high price.,,城内商贩高价收购水产。
+BH_Desc_40000008,The merchants in the city are buying Ore at a high price.,,城内商贩高价收购矿石。
+BH_Desc_40000009,The merchants in the city are buying - Wine at a high price.,,城内商贩高价收购-酒。
+BH_Desc_40000010,The merchants in the city are buying Wood at a high price.,,城内商贩高价收购木材。
+BH_Desc_40000011,The merchants in the city are buying Herb at a high price.,,城内商贩高价收购药材。
+BH_Desc_40000012,Merchants in the city are buying Bug at a high price.,,城内商贩高价收购虫子。
+BH_Desc_40000013,Merchants in the city are buying Toxic at a high price.,,城内商贩高价收购毒物。
+BH_Desc_40000014,Merchants in the city are buying Toy at a high price.,,城内商贩高价收购玩具。
+BH_Desc_40000015,Merchants in the city are buying Ornament at a high price.,,城内商贩高价收购摆件。
+BH_Desc_40000016,The merchants in the city are buying Weapon at a high price.,,城内商贩高价收购武器。
+BH_Desc_40000017,The merchants in the city are buying Armor at a high price.,,城内商贩高价收购护甲。
+BH_Desc_40000018,Merchants in the city are buying Food at high prices.,,城内商贩高价收购食物。
+BH_Desc_40000019,The merchants in the city are buying Side at a high price.,,城内商贩高价收购菜肴。
+BH_Desc_40000020,The merchants in the city are buying Fruit at a high price.,,城内商贩高价收购水果。
+BH_Desc_40000021,The merchants in the city are buying Medicine at a high price.,,城内商贩高价收购药品。
+BH_Desc_40000022,The merchants in the city are buying Aquatic at a high price.,,城内商贩高价收购水产。
+BH_Desc_40000023,The merchants in the city are buying Ore at a high price.,,城内商贩高价收购矿石。
+BH_Desc_40000024,The merchants in the city are buying - Wine at a high price.,,城内商贩高价收购-酒。
+BH_Desc_40000025,The merchants in the city are buying Wood at a high price.,,城内商贩高价收购木材。
+BH_Desc_40000026,The merchants in the city are buying Herb at a high price.,,城内商贩高价收购药材。
+BH_Desc_40000027,Merchants in the city are buying Bug at a high price.,,城内商贩高价收购虫子。
+BH_Desc_40000028,Merchants in the city are buying Toxic at a high price.,,城内商贩高价收购毒物。
+BH_Desc_40000029,Merchants in the city are buying Toy at a high price.,,城内商贩高价收购玩具。
+BH_Desc_40000030,Merchants in the city are buying Ornament at a high price.,,城内商贩高价收购摆件。
+BH_Desc_40000031,The merchants in the city are buying Weapon at a high price.,,城内商贩高价收购武器。
+BH_Desc_40000032,The merchants in the city are buying Armor at a high price.,,城内商贩高价收购护甲。
+BH_Desc_40000033,Merchants in the city are buying Food at high prices.,,城内商贩高价收购食物。
+BH_Desc_40000034,The merchants in the city are buying Side at a high price.,,城内商贩高价收购菜肴。
+BH_Desc_40000035,The merchants in the city are buying Fruit at a high price.,,城内商贩高价收购水果。
+BH_Desc_40000036,The merchants in the city are buying Medicine at a high price.,,城内商贩高价收购药品。
+BH_Desc_40000037,The merchants in the city are buying Aquatic at a high price.,,城内商贩高价收购水产。
+BH_Desc_40000038,The merchants in the city are buying Ore at a high price.,,城内商贩高价收购矿石。
+BH_Desc_40000039,The merchants in the city are buying - Wine at a high price.,,城内商贩高价收购-酒。
+BH_Desc_40000040,The merchants in the city are buying Wood at a high price.,,城内商贩高价收购木材。
+BH_Desc_40000041,The merchants in the city are buying Herb at a high price.,,城内商贩高价收购药材。
+BH_Desc_40000042,Merchants in the city are buying Bug at a high price.,,城内商贩高价收购虫子。
+BH_Desc_40000043,Merchants in the city are buying Toxic at a high price.,,城内商贩高价收购毒物。
+BH_Desc_40000044,Merchants in the city are buying Toy at a high price.,,城内商贩高价收购玩具。
+BH_Desc_40000045,Merchants in the city are buying Ornament at a high price.,,城内商贩高价收购摆件。
+BH_Desc_40000046,The merchants in the city are buying Weapon at a high price.,,城内商贩高价收购武器。
+BH_Desc_40000047,The merchants in the city are buying Armor at a high price.,,城内商贩高价收购护甲。
+BH_Desc_40000048,Merchants in the city are buying Food at high prices.,,城内商贩高价收购食物。
+BH_Desc_40000049,The merchants in the city are buying Side at a high price.,,城内商贩高价收购菜肴。
+BH_Desc_40000050,The merchants in the city are buying Fruit at a high price.,,城内商贩高价收购水果。
+BH_Desc_40000051,The merchants in the city are buying Medicine at a high price.,,城内商贩高价收购药品。
+BH_Desc_40000052,The merchants in the city are buying Aquatic at a high price.,,城内商贩高价收购水产。
+BH_Desc_40000053,The merchants in the city are buying Ore at a high price.,,城内商贩高价收购矿石。
+BH_Desc_40000054,The merchants in the city are buying - Wine at a high price.,,城内商贩高价收购-酒。
+BH_Desc_40000055,The merchants in the city are buying Wood at a high price.,,城内商贩高价收购木材。
+BH_Desc_40000056,The merchants in the city are buying Herb at a high price.,,城内商贩高价收购药材。
+BH_Desc_40000057,Merchants in the city are buying Bug at a high price.,,城内商贩高价收购虫子。
+BH_Desc_40000058,Merchants in the city are buying Toxic at a high price.,,城内商贩高价收购毒物。
+BH_Desc_40000059,Merchants in the city are buying Toy at a high price.,,城内商贩高价收购玩具。
+BH_Desc_40000060,Merchants in the city are buying Ornament at a high price.,,城内商贩高价收购摆件。
+BH_Desc_20000001,The merchants in the city are buying Weapon at a high price.,,城内商贩高价收购武器。
+BH_Desc_20000002,The merchants in the city are buying Armor at a high price.,,城内商贩高价收购护甲。
+BH_Desc_20000003,Merchants in the city are buying Food at high prices.,,城内商贩高价收购食物。
+BH_Desc_20000004,The merchants in the city are buying Side at a high price.,,城内商贩高价收购菜肴。
+BH_Desc_20000005,The merchants in the city are buying Fruit at a high price.,,城内商贩高价收购水果。
+BH_Desc_20000006,The merchants in the city are buying Medicine at a high price.,,城内商贩高价收购药品。
+BH_Desc_20000007,The merchants in the city are buying Aquatic at a high price.,,城内商贩高价收购水产。
+BH_Desc_20000008,The merchants in the city are buying Ore at a high price.,,城内商贩高价收购矿石。
+BH_Desc_20000009,The merchants in the city are buying - Wine at a high price.,,城内商贩高价收购-酒。
+BH_Desc_20000010,The merchants in the city are buying Wood at a high price.,,城内商贩高价收购木材。
+BH_Desc_20000011,The merchants in the city are buying Herb at a high price.,,城内商贩高价收购药材。
+BH_Desc_20000012,Merchants in the city are buying Bug at a high price.,,城内商贩高价收购虫子。
+BH_Desc_20000013,Merchants in the city are buying Toxic at a high price.,,城内商贩高价收购毒物。
+BH_Desc_20000014,Merchants in the city are buying Toy at a high price.,,城内商贩高价收购玩具。
+BH_Desc_20000015,Merchants in the city are buying Ornament at a high price.,,城内商贩高价收购摆件。
+BH_Desc_20000016,The merchants in the city are buying Weapon at a high price.,,城内商贩高价收购武器。
+BH_Desc_20000017,The merchants in the city are buying Armor at a high price.,,城内商贩高价收购护甲。
+BH_Desc_20000018,Merchants in the city are buying Food at high prices.,,城内商贩高价收购食物。
+BH_Desc_20000019,The merchants in the city are buying Side at a high price.,,城内商贩高价收购菜肴。
+BH_Desc_20000020,The merchants in the city are buying Fruit at a high price.,,城内商贩高价收购水果。
+BH_Desc_20000021,The merchants in the city are buying Medicine at a high price.,,城内商贩高价收购药品。
+BH_Desc_20000022,The merchants in the city are buying Aquatic at a high price.,,城内商贩高价收购水产。
+BH_Desc_20000023,The merchants in the city are buying Ore at a high price.,,城内商贩高价收购矿石。
+BH_Desc_20000024,The merchants in the city are buying - Wine at a high price.,,城内商贩高价收购-酒。
+BH_Desc_20000025,The merchants in the city are buying Wood at a high price.,,城内商贩高价收购木材。
+BH_Desc_20000026,The merchants in the city are buying Herb at a high price.,,城内商贩高价收购药材。
+BH_Desc_20000027,Merchants in the city are buying Bug at a high price.,,城内商贩高价收购虫子。
+BH_Desc_20000028,Merchants in the city are buying Toxic at a high price.,,城内商贩高价收购毒物。
+BH_Desc_20000029,Merchants in the city are buying Toy at a high price.,,城内商贩高价收购玩具。
+BH_Desc_20000030,Merchants in the city are buying Ornament at a high price.,,城内商贩高价收购摆件。
+BH_Desc_20000031,The merchants in the city are buying Weapon at a high price.,,城内商贩高价收购武器。
+BH_Desc_20000032,The merchants in the city are buying Armor at a high price.,,城内商贩高价收购护甲。
+BH_Desc_20000033,Merchants in the city are buying Food at high prices.,,城内商贩高价收购食物。
+BH_Desc_20000034,The merchants in the city are buying Side at a high price.,,城内商贩高价收购菜肴。
+BH_Desc_20000035,The merchants in the city are buying Fruit at a high price.,,城内商贩高价收购水果。
+BH_Desc_20000036,The merchants in the city are buying Medicine at a high price.,,城内商贩高价收购药品。
+BH_Desc_20000037,The merchants in the city are buying Aquatic at a high price.,,城内商贩高价收购水产。
+BH_Desc_20000038,The merchants in the city are buying Ore at a high price.,,城内商贩高价收购矿石。
+BH_Desc_20000039,The merchants in the city are buying - Wine at a high price.,,城内商贩高价收购-酒。
+BH_Desc_20000040,The merchants in the city are buying Wood at a high price.,,城内商贩高价收购木材。
+BH_Desc_20000041,The merchants in the city are buying Herb at a high price.,,城内商贩高价收购药材。
+BH_Desc_20000042,Merchants in the city are buying Bug at a high price.,,城内商贩高价收购虫子。
+BH_Desc_20000043,Merchants in the city are buying Toxic at a high price.,,城内商贩高价收购毒物。
+BH_Desc_20000044,Merchants in the city are buying Toy at a high price.,,城内商贩高价收购玩具。
+BH_Desc_20000045,Merchants in the city are buying Ornament at a high price.,,城内商贩高价收购摆件。
+BH_Desc_20000046,The merchants in the city are buying Weapon at a high price.,,城内商贩高价收购武器。
+BH_Desc_20000047,The merchants in the city are buying Armor at a high price.,,城内商贩高价收购护甲。
+BH_Desc_20000048,Merchants in the city are buying Food at high prices.,,城内商贩高价收购食物。
+BH_Desc_20000049,The merchants in the city are buying Side at a high price.,,城内商贩高价收购菜肴。
+BH_Desc_20000050,The merchants in the city are buying Fruit at a high price.,,城内商贩高价收购水果。
+BH_Desc_20000051,The merchants in the city are buying Medicine at a high price.,,城内商贩高价收购药品。
+BH_Desc_20000052,The merchants in the city are buying Aquatic at a high price.,,城内商贩高价收购水产。
+BH_Desc_20000053,The merchants in the city are buying Ore at a high price.,,城内商贩高价收购矿石。
+BH_Desc_20000054,The merchants in the city are buying - Wine at a high price.,,城内商贩高价收购-酒。
+BH_Desc_20000055,The merchants in the city are buying Wood at a high price.,,城内商贩高价收购木材。
+BH_Desc_20000056,The merchants in the city are buying Herb at a high price.,,城内商贩高价收购药材。
+BH_Desc_20000057,Merchants in the city are buying Bug at a high price.,,城内商贩高价收购虫子。
+BH_Desc_20000058,Merchants in the city are buying Toxic at a high price.,,城内商贩高价收购毒物。
+BH_Desc_20000059,Merchants in the city are buying Toy at a high price.,,城内商贩高价收购玩具。
+BH_Desc_20000060,Merchants in the city are buying Ornament at a high price.,,城内商贩高价收购摆件。
+BH_Desc_20000061,"The thieves in the Horse King Cave have been extremely arrogant lately. Martial artists, please go and punish them!",,马王洞内的贼人最近异常嚣张，请武林人士前去制裁！
+BH_Desc_20000062,"The thieves in the Horse King Cave have been extremely arrogant lately. Martial artists, please go and punish them!",,马王洞内的贼人最近异常嚣张，请武林人士前去制裁！
+BH_Desc_20000063,"The ""Horse King"" in the Horse King Cave has been extremely arrogant lately. Martial artists, please go and punish him!",,马王洞内的“马王爷”最近异常嚣张，请武林人士前去制裁！
+BH_Desc_7100001,"The Sword Pavilion urgently needs Weapon, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需武器，请剑阁弟子速速搜集。
+BH_Desc_7100002,"The Sword Pavilion urgently needs armor, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需护甲，请剑阁弟子速速搜集。
+BH_Desc_7100003,"The Sword Pavilion urgently needs Fruit, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需水果，请剑阁弟子速速搜集。
+BH_Desc_7100004,"The Sword Pavilion urgently needs Medicine, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需药品，请剑阁弟子速速搜集。
+BH_Desc_7100005,"The Sword Pavilion urgently needs Aquatic, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需水产，请剑阁弟子速速搜集。
+BH_Desc_7100006,"The Sword Pavilion urgently needs Ore, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需矿石，请剑阁弟子速速搜集。
+BH_Desc_7100007,"The Sword Pavilion urgently needs Wood, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需木材，请剑阁弟子速速搜集。
+BH_Desc_7100008,"The Sword Pavilion urgently needs Herb, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需药材，请剑阁弟子速速搜集。
+BH_Desc_7100009,"The Sword Pavilion urgently needs Ornament, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需摆件，请剑阁弟子速速搜集。
+BH_Desc_7100010,"The Sword Pavilion urgently needs Weapon, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需武器，请剑阁弟子速速搜集。
+BH_Desc_7100011,"The Sword Pavilion urgently needs armor, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需护甲，请剑阁弟子速速搜集。
+BH_Desc_7100012,"The Sword Pavilion urgently needs Fruit, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需水果，请剑阁弟子速速搜集。
+BH_Desc_7100013,"The Sword Pavilion urgently needs Medicine, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需药品，请剑阁弟子速速搜集。
+BH_Desc_7100014,"The Sword Pavilion urgently needs Aquatic, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需水产，请剑阁弟子速速搜集。
+BH_Desc_7100015,"The Sword Pavilion urgently needs Ore, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需矿石，请剑阁弟子速速搜集。
+BH_Desc_7100016,"The Sword Pavilion urgently needs Wood, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需木材，请剑阁弟子速速搜集。
+BH_Desc_7100017,"The Sword Pavilion urgently needs Herb, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需药材，请剑阁弟子速速搜集。
+BH_Desc_7100018,"The Sword Pavilion urgently needs Ornament, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需摆件，请剑阁弟子速速搜集。
+BH_Desc_7100019,"The Sword Pavilion urgently needs Weapon, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需武器，请剑阁弟子速速搜集。
+BH_Desc_7100020,"The Sword Pavilion urgently needs armor, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需护甲，请剑阁弟子速速搜集。
+BH_Desc_7100021,"The Sword Pavilion urgently needs Fruit, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需水果，请剑阁弟子速速搜集。
+BH_Desc_7100022,"The Sword Pavilion urgently needs Medicine, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需药品，请剑阁弟子速速搜集。
+BH_Desc_7100023,"The Sword Pavilion urgently needs Aquatic, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需水产，请剑阁弟子速速搜集。
+BH_Desc_7100024,"The Sword Pavilion urgently needs Ore, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需矿石，请剑阁弟子速速搜集。
+BH_Desc_7100025,"The Sword Pavilion urgently needs Wood, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需木材，请剑阁弟子速速搜集。
+BH_Desc_7100026,"The Sword Pavilion urgently needs Herb, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需药材，请剑阁弟子速速搜集。
+BH_Desc_7100027,"The Sword Pavilion urgently needs Ornament, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需摆件，请剑阁弟子速速搜集。
+BH_Desc_7100028,"The Sword Pavilion urgently needs Weapon, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需武器，请剑阁弟子速速搜集。
+BH_Desc_7100029,"The Sword Pavilion urgently needs armor, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需护甲，请剑阁弟子速速搜集。
+BH_Desc_7100030,"The Sword Pavilion urgently needs Fruit, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需水果，请剑阁弟子速速搜集。
+BH_Desc_7100031,"The Sword Pavilion urgently needs Medicine, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需药品，请剑阁弟子速速搜集。
+BH_Desc_7100032,"The Sword Pavilion urgently needs Aquatic, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需水产，请剑阁弟子速速搜集。
+BH_Desc_7100033,"The Sword Pavilion urgently needs Ore, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需矿石，请剑阁弟子速速搜集。
+BH_Desc_7100034,"The Sword Pavilion urgently needs Wood, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需木材，请剑阁弟子速速搜集。
+BH_Desc_7100035,"The Sword Pavilion urgently needs Herb, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需药材，请剑阁弟子速速搜集。
+BH_Desc_7100036,"The Sword Pavilion urgently needs Ornament, disciples of the Sword Pavilion, please collect them quickly.",,剑阁现在急需摆件，请剑阁弟子速速搜集。
+BH_Desc_7100037,"The thieves in the Horse King Cave have been extremely arrogant lately. Disciples of the Sword Pavilion, please go and punish them!",,马王洞内的贼人最近异常嚣张，请剑阁弟子前去制裁！
+BH_Desc_7100038,"The thieves in the Horse King Cave have been extremely arrogant lately. Disciples of the Sword Pavilion, please go and punish them!",,马王洞内的贼人最近异常嚣张，请剑阁弟子前去制裁！
+BH_Desc_7100039,"The ""Horse King"" in the Horse King Cave has been extremely arrogant lately. Disciples of the Sword Pavilion, please go and punish him!",,马王洞内的“马王爷”最近异常嚣张，请剑阁弟子前去制裁！
+skip,,,新版悬赏
+skip,,,新版悬赏
+skip,,,新版悬赏
+skip,,,新版悬赏
+BH_Title_1010016,Wolf Trouble,,野狼祸患
+BH_Title_1010017,Food Shortage,,粮食短缺
+BH_Title_1010021,Wolf Trouble,,野狼祸患
+BH_Title_1010025,Punish the Evil,,惩戒恶人
+BH_Title_1010026,Punish the Evil,,惩戒恶人
+BH_Title_30000057,Hunt the Wolf King·Xiao Yue,,捕杀狼王·啸月
+BH_Title_30000058,Collect Wolf Fang,,收集狼牙
+BH_Title_30000059,Collect Wolf Skin,,收集狼皮
+BH_Title_30000060,Hunt Wild Wolves,,捕猎野狼
+BH_Title_30000061,Hunt Wild Wolves,,捕猎野狼
+BH_Title_3200023,Refine Pill,,炼制丹药
+BH_Title_3200024,Refine Pill,,炼制丹药
+BH_Title_3200025,Refine Pill,,炼制丹药
+BH_Title_3200026,Refine Pill,,炼制丹药
+BH_Title_3200027,Refine Pill,,炼制丹药
+BH_Title_3200031,Hunt Wild Wolves,,捕猎野狼
+BH_Title_3200032,Hunt Wild Wolves,,捕猎野狼
+BH_Title_5800042,Hand in Scrap Silver,,上缴碎银
+BH_Title_5800043,Hand in Scrap Silver,,上缴碎银
+BH_Title_5800044,Hand in Scrap Silver,,上缴碎银
+BH_Title_5800045,Hand in Scrap Silver,,上缴碎银
+BH_Title_5800046,Hand in Scrap Silver,,上缴碎银
+BH_Title_5800047,Hand in Scrap Silver,,上缴碎银
+BH_Title_5800048,Hand in Scrap Silver,,上缴碎银
+BH_Title_5800049,Hand in Scrap Silver,,上缴碎银
+BH_Title_5800050,Kill Luo Qianxue,,击杀洛千雪
+BH_Title_6500032,Punish the Ringleader,,首恶必诛
+BH_Title_6500033,Punish the Ringleader,,首恶必诛
+BH_Title_6500034,Punish the Ringleader,,首恶必诛
+BH_Title_7100040,Mine Ore,,开采矿石
+BH_Title_7100041,Mine Ore,,开采矿石
+BH_Title_7100042,Forge Weapon,,打造兵器
+BH_Title_7100043,Mine Ore,,开采矿石
+BH_Title_7100044,Forge Weapon,,打造兵器
+BH_Title_5800053,Xiyu treasure,,西域珠宝
+BH_Title_5800054,Borrow Ornament,,借用饰品
+BH_Desc_1010016,"Many brothers in the stronghold have been attacked by wild wolves. We can't let our brothers bleed in vain, we must make these evil wolves pay!",,山寨兄弟多人遭受野狼袭击，不能让兄弟们白白流血负伤，要让这群恶狼付出代价！
+BH_Desc_1010017,"Our stronghold is short of food, we urgently need to purchase a batch of Wheat Flour. All brothers in the stronghold, please work together to complete this.",,本山寨粮食短缺，急需采购一批面粉，请山寨众兄弟协力完成。
+BH_Desc_1010021,"Many brothers in the stronghold have been attacked by wild wolves. We can't let our brothers bleed in vain, we must make these evil wolves pay!",,山寨兄弟多人遭受野狼袭击，不能让兄弟们白白流血负伤，要让这群恶狼付出代价！
+BH_Desc_1010025,"Niu Er from Chuxiang City is bullying people with his power, causing many complaints from the people! Whoever can get rid of him will be heavily rewarded!",,楚襄城的牛二狗仗人势，作威作福，百姓颇多怨言！诸位兄弟谁能将其除去，必有重奖！
+BH_Desc_1010026,"Li San from Chuxiang City is bullying people with his power, causing many complaints from the people! Whoever can get rid of him will be heavily rewarded!",,楚襄城的李三狗仗人势，作威作福，百姓颇多怨言！诸位兄弟谁能将其除去，必有重奖！
+BH_Desc_30000057,"The Wolf King·Xiao Yue has gathered a pack of wolves in the valley, causing many casualties. Whoever can hunt this beast will be heavily rewarded!",,狼王·啸月聚集群狼盘踞山谷屡伤人命，为祸甚大！若能捕杀此獠，必有重金相谢！
+BH_Desc_30000058,The city's shop is planning to make a batch of Wolf Fang Amulets and urgently needs a large supply of Wolf Fangs. Those who can provide will be heavily rewarded!,,城内商铺近来要打造一批狼牙吊坠，现急需大量狼牙供应。若有提供者必有重谢！
+BH_Desc_30000059,The city's shop has received an order for a Wolf Skin Bedding but is short of Wolf Skin. Those who can provide will be heavily rewarded!,,城内店铺接到一匹狼皮被褥订单，苦于缺少狼皮供应。若有提供者必有重谢！
+BH_Desc_30000060,People passing through the valley are often attacked by wild wolves. The wolves in the valley need to be eliminated as soon as possible to ensure the safety of the people.,,百姓途径山谷经常遭受野狼袭击，需尽快将山谷中野狼除去，确保百姓平安。
+BH_Desc_30000061,People passing through the valley are often attacked by wild wolves. The wolves in the valley need to be eliminated as soon as possible to ensure the safety of the people.,,百姓途径山谷经常遭受野狼袭击，需尽快将山谷中野狼除去，确保百姓平安。
+BH_Desc_3200023,Our sect urgently needs a large amount of Illness Removal Pills. You can get the corresponding formula by completing the pharmacist task in the Alchemy Room.,,本门急需大量祛病丸。炼丹房完成药师任务可获得相应配方。
+BH_Desc_3200024,Our sect urgently needs a large amount of Seven Stars Pills. You can get the corresponding formula by completing the pharmacist task in the Alchemy Room.,,本门急需大量七星丹。炼丹房完成药师任务可获得相应配方。
+BH_Desc_3200025,Our sect urgently needs a large amount of Revitalization Pills. You can get the corresponding formula by completing the pharmacist task in the Alchemy Room.,,本门急需大量回春丹。炼丹房完成药师任务可获得相应配方。
+BH_Desc_3200026,Our sect urgently needs a large amount of Enlighten Pills. You can get the corresponding formula by completing the pharmacist task in the Alchemy Room.,,本门急需大量开悟丹。炼丹房完成药师任务可获得相应配方。
+BH_Desc_3200027,Our sect urgently needs a large amount of Blue Wave Powder. You can get the corresponding formula by completing the pharmacist task in the Alchemy Room.,,本门急需大量凌波散。炼丹房完成药师任务可获得相应配方。
+BH_Desc_3200031,The civilians of Xiangfan often suffer from wolf attacks when passing through the valley. It is necessary to eliminate the wolves as soon as possible to ensure the safety of the people.,,襄樊地区百姓途径山谷经常遭受野狼袭击，需尽快将野狼除去，确保百姓平安。
+BH_Desc_3200032,The civilians of Xiangfan often suffer from wolf attacks when passing through the valley. It is necessary to eliminate the wolves as soon as possible to ensure the safety of the people.,,襄樊地区百姓途径山谷经常遭受野狼袭击，需尽快将野狼除去，确保百姓平安。
+BH_Desc_5800042,"Many merchants in the city carry Scrap silver with them. Instead of letting it sit idle, it would be better to find a way to obtain it to support our sect.",,城内商户多有碎银携带身上，于其闲置无用，不如设法取来资助本门。
+BH_Desc_5800043,"Many merchants in the city carry Scrap silver with them. Instead of letting it sit idle, it would be better to find a way to obtain it to support our sect.",,城内商户多有碎银携带身上，于其闲置无用，不如设法取来资助本门。
+BH_Desc_5800044,"Many merchants in the city carry Scrap silver with them. Instead of letting it sit idle, it would be better to find a way to obtain it to support our sect.",,城内商户多有碎银携带身上，于其闲置无用，不如设法取来资助本门。
+BH_Desc_5800045,"Many merchants in the city carry Scrap silver with them. Instead of letting it sit idle, it would be better to find a way to obtain it to support our sect.",,城内商户多有碎银携带身上，于其闲置无用，不如设法取来资助本门。
+BH_Desc_5800046,"Many merchants in the city carry Scrap silver with them. Instead of letting it sit idle, it would be better to find a way to obtain it to support our sect.",,城内商户多有碎银携带身上，于其闲置无用，不如设法取来资助本门。
+BH_Desc_5800047,"Many merchants in the city carry Scrap silver with them. Instead of letting it sit idle, it would be better to find a way to obtain it to support our sect.",,城内商户多有碎银携带身上，于其闲置无用，不如设法取来资助本门。
+BH_Desc_5800048,"Many merchants in the city carry Scrap silver with them. Instead of letting it sit idle, it would be better to find a way to obtain it to support our sect.",,城内商户多有碎银携带身上，于其闲置无用，不如设法取来资助本门。
+BH_Desc_5800049,"Many merchants in the city carry Scrap silver with them. Instead of letting it sit idle, it would be better to find a way to obtain it to support our sect.",,城内商户多有碎银携带身上，于其闲置无用，不如设法取来资助本门。
+BH_Desc_5800050,Luo Qianxue of the Crime Investigation Bureau has repeatedly made things difficult for our disciples and interfered with our affairs. He is a major threat to our sect and must be eliminated as soon as possible!,,神捕门洛千雪屡次为难本门弟子，干扰本门行事，是本门心腹大患，需尽快将其除去！
+BH_Desc_6500032,"Kong Yidao, the leader of the Blue Wind Camp, has been committing evil for many years, repeatedly ordering his subordinates to rob and harm merchants. Such a villain must be severely punished as a warning to others.",,青风寨首领孔一刀为恶多年，屡次指使手下劫掠客商伤人性命，如此恶徒需严加惩处，以儆效尤。
+BH_Desc_6500033,"Ming Bufan, the leader of the Tomb Raider Sect, is blinded by greed. He has been leading his disciples to steal tomb treasures for many years. Such a villain must be killed to deter others.",,摸金门首领命不凡利欲熏心，长年率领门徒摸金盗墓窃取陪葬物品，如此恶贼需杀一儆百震慑宵小。
+BH_Desc_6500034,"Bu Juechen, the leader of the Nest of Swallow, is insatiable in his greed, repeatedly ordering his subordinates to steal from merchants. Such a villain must be killed to appease public anger.",,燕子窝首领步绝尘贪财无厌，屡次指使手下盗取商户财物，如此恶贼不杀不足以平民愤。
+BH_Desc_7100040,"Our sect is in short supply of Ore, and urgently needs to replenish a batch of EpicOre. Please handle this as soon as possible, disciples of our sect.",,本门矿石紧缺，急需补充一批乙级矿石，请本门弟子从速办理。
+BH_Desc_7100041,"Our sect is in short supply of Ore, and urgently needs to replenish a batch of RareOre. Please handle this as soon as possible, disciples of our sect.",,本门矿石紧缺，急需补充一批丙级矿石，请本门弟子从速办理。
+BH_Desc_7100042,"Our sect is in short supply of weapons, and urgently needs to replenish a batch of Rare weapons. Please handle this as soon as possible, disciples of our sect.",,本门兵器紧缺，急需补充一批丙级兵器，请本门弟子从速办理。
+BH_Desc_7100043,"Our sect is in short supply of Ore, and urgently needs to replenish a batch of NormalOre. Please handle this as soon as possible, disciples of our sect.",,本门矿石紧缺，急需补充一批丁级矿石，请本门弟子从速办理。
+BH_Desc_7100044,"Our sect is in short supply of weapons, and urgently needs to replenish a batch of Normal weapons. Please handle this as soon as possible, disciples of our sect.",,本门兵器紧缺，急需补充一批丁级兵器，请本门弟子从速办理。
+BH_Desc_5800053,"In Daliang City, there are Western merchants carrying a large amount of Xiyu treasure, which is thought to be of great value. We can find a way to obtain it to support our sect.",,大梁城内西域商人携带大量西域珠宝，料想应该是价值连城，可设法将其取来，资助本门。
+BH_Desc_5800054,"In Daliang City, there is a woman in brocade who flaunts her wealth every day, with many jewelry and accessories on her. ""Borrowing"" a few pieces should not bother her.",,大梁城中有一位锦衣女子每日四处招摇，身上珠宝饰品繁多，“借用”几件想必不会在意。
+,,,
