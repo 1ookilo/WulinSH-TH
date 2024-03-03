@@ -1769,7 +1769,7 @@ Z002_9_3,"Good, I'll trust you this time! The <color=#c44b0e>Sword Test Platform
 Z002_9_4,"Good! Once a word is spoken, even four horses cannot chase it back!"
 Z003_1_1,"{PlayerName}, I'm really sorry! I received a pigeon letter from my father saying that there is an urgent matter that needs my attention. I can only part ways with you here, you can find me at the Ye Family Battalion in the future."
 Z004_1_1,May I ask if the young hero is here to participate in the Dragon Spring Sword Test Tournament of our manor?,ข้าขอถามได้ไหมว่า จอมยุทธน้อยมาที่นี่เพื่อเข้าร่วมการแข่งขันงานชุมนุมวิจารณ์กระบี่มังกรฤดูใบไม้ผลิในคฤหาสน์ของเราใช่หรือไม่?
-Z004_10_1,"The second battle, Zhuge Jing from Jiujiang Fotress won!",การประลองรอบสอง จูกัดจิง จากค่ายน้ำจิ่วเจียงเป็นฝ่ายชนะ!
+Z004_10_1,"The second battle, Zhuge Jing from Jiujiang Fotress won!",การประลองรอบสอง จูเก๋อจิง จากค่ายน้ำจิ่วเจียงเป็นฝ่ายชนะ!
 Z004_11_1,"The third battle, the butcher Bao won!",ผู้ชนะรอบที่สามคือ พ่อค้าเนื้อเป่า!
 Z004_12_1,"The third battle, {PlayerName} won!",ผู้ชนะรอบที่สามคือ {PlayerName}!
 Z004_12_10,"No need to chase. You're not his match, let him go."
@@ -1804,7 +1804,7 @@ Z004_2_8,Abyss Dragon sword! It is said to be the sword that the owner used when
 Z004_2_9,"The secret of the villa? At the very least, it's a top-notch swordsmanship"
 Z004_3_1,"Good, this brother really has courage! So, this year's Dragon Spring Sword Test officially begins! The first battle, the charming Luo Sha from Shunda Escort Agency against {PlayerName}","ดี, น้องชายท่านนี้มีความกล้าจริงๆ! ดังนั้น งานชุมนุมวิจารณ์กระบี่มังกรฤดูใบไม้ผลิในปีนี้จึงเริ่มต้นขึ้นอย่างเป็นทางการ! การต่อสู้ครั้งแรก ลั่วซา ผู้มากเสน่ห์จากสำนักคุ้มภัยชุนดา ปะทะ {PlayerName}"
 Z004_4_1,"The first battle, {PlayerName} wins!",ยกแรก ผู้ชนะคือ{PlayerName}
-Z004_4_2,"The second battle, Zhuge Jing from Jiujiang Fotress against {PlayerName}",การประลองรอบสอง จูกัดจิง จากค่ายน้ำจิ่วเจียงเจอกับ{PlayerName}
+Z004_4_2,"The second battle, Zhuge Jing from Jiujiang Fotress against {PlayerName}",การประลองรอบสอง จูเก๋อจิง จากค่ายน้ำจิ่วเจียงเจอกับ{PlayerName}
 Z004_5_1,"The first battle, the charming Luo Sha from Shunda Escort Agency wins!"
 Z004_6_1,I can still... fight!
 Z004_7_1,"What's going on, why is there no one here?"

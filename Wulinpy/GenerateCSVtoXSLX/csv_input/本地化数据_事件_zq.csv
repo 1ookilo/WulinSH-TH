@@ -808,9 +808,9 @@ Role5-3_name,Train Soldiers,ฝีกฝนทหาร
 Role5-3_overview,Find the <color=#c44b0e>Training Officer</color> in the camp and ask for his cooperation in training the soldiers.,ตามหา <color=#c44b0e>เจ้าหน้าที่ฝึกฝน</color> ในค่าย และขอความร่วมมือเพื่อฝึกทหาร
 Role5-3_option1_1,Let's have another match!<color=#097a76>(Specific Battle)</color>,ประลองกันอีกรอบเถอะ! <color=#097a76>(เข้าสู่การต่อสู้)</color>
 Role5-3_option1_2,Not ready yet.,ยังไม่พร้อม
-Role5-3-1_option1_1,"Train the soldiers of Yan.<color=#097a76>(2 Ke, Stamina10, Specific Battle)</color>","ฝึกพลทหารหยาน <color=#097a76>(10 แรงกาย, 2 เค่อ, เข้าสู่การต่อสู้)</color>"
-Role5-3-1_option1_2,"Train the centurions of Yan.<color=#097a76>(2 Ke, Stamina10, Specific Battle)</color>","ฝีกนายร้อยทัพหยาน <color=#097a76>(10 แรงกาย, 2 เค่อ, เข้าสู่การต่อสู้)</color>"
-Role5-3-1_option1_3,"Train the commanders of Yan.<color=#097a76>(2 Ke, Stamina10, Specific Battle)</color>","ฝึกผู้บัญชาการทัพหยาน <color=#097a76>(10 แรงกาย, 2 เค่อ, เข้าสู่การต่อสู้)</color>"
+Role5-3-1_option1_1,"Train the soldiers of Yan.<color=#097a76>(2 Ke, Stamina10, Specific Battle)</color>","ฝึกพลทหารเยี่ยน <color=#097a76>(10 แรงกาย, 2 เค่อ, เข้าสู่การต่อสู้)</color>"
+Role5-3-1_option1_2,"Train the centurions of Yan.<color=#097a76>(2 Ke, Stamina10, Specific Battle)</color>","ฝีกนายร้อยทัพเยี่ยน <color=#097a76>(10 แรงกาย, 2 เค่อ, เข้าสู่การต่อสู้)</color>"
+Role5-3-1_option1_3,"Train the commanders of Yan.<color=#097a76>(2 Ke, Stamina10, Specific Battle)</color>","ฝึกผู้บัญชาการทัพเยี่ยน <color=#097a76>(10 แรงกาย, 2 เค่อ, เข้าสู่การต่อสู้)</color>"
 Role5-3-1_option1_4,Not ready yet.,ข้ายังไม่พร้อม
 Role5-4_name,Scout the Armory,สอดแนมคลังแสง
 Role5-4_overview1,"Go to Chuxiang City, infiltrate the Armory camp, and investigate the situation of food, weapons, and war horses.",ไปยังเมืองฉู่เซียง ลอบเข้าคลังแสง และตรวจสอบเสบียง อาวุธ และม้าศึก
@@ -835,13 +835,13 @@ Role5-10_option1_1,<color=#c44b0e>Attack Chuxiang City!</color>,<color=#c44b0e>�
 Role5-10_option1_2,Sneak into the city.,ลอบเข้าเมือง
 Role5-10_option1_3,Wait a moment.,รอสักครู่
 Role5-11_name,Pigeon Express,พิราบส่งสาร
-Role5-11_overview1,"Received a message from the pigeon, hurry back to Southern Camp.",รับข้อความจากพิราบ รีบกลับไปยังค่ายหยานทิศใต้
+Role5-11_overview1,"Received a message from the pigeon, hurry back to Southern Camp.",รับข้อความจากพิราบ รีบกลับไปยังค่ายทางใต้ทัพเยี่ยน
 Role5-11_overview2,Go to Wuyue's Buddha Temple and assist Tie Mianren.,ไปยังอารมพุทธะที่เขตหวู่เยว่ และช่วยเหลือ เถี่ยเหมียนเหริน
-Role5-11_overview3,"The task with Nine Factions Sect has failed, return to Southern Camp to apologize.",ภารกิจของนิกายเก้าฝ่ายล้มเหลว กลับไปยังค่ายหยานทิศใต้เพื่อขออภัยโทษ
-Role5-11_overview4,"The task with Nine Factions Sect has finally succeeded, return to Southern Camp to report.",ภารกิจของนิกายเก้าฝ่ายล้มเหลว กลับไปยังค่ายหยานทิศใต้เพื่อรายงาน
+Role5-11_overview3,"The task with Nine Factions Sect has failed, return to Southern Camp to apologize.",ภารกิจของนิกายเก้าฝ่ายล้มเหลว กลับไปยังค่ายทางใต้ทัพเยี่ยนเพื่อขออภัยโทษ
+Role5-11_overview4,"The task with Nine Factions Sect has finally succeeded, return to Southern Camp to report.",ภารกิจของนิกายเก้าฝ่ายล้มเหลว กลับไปยังค่ายทางใต้ทัพเยี่ยนเพื่อรายงาน
 Role5-12_option1_1,Challenge Hui Yuan!<color=#097a76>(Solo fight by protagonist)</color>,ประลองกับฮุ่ยหยวน <color=#097a76>(ประลองเดี่ยวตัวละครเอกเท่านั้น)</color>
 Role5-12_option1_2,Challenge Zhong Yangzi!<color=#097a76>(Solo fight by protagonist)</color>,ประลองกับฉงหยางสื่อ <color=#097a76>(ตัวละครเอกประลองเดี่ยวเท่านั้น)</color>
-Role5-12_option1_3,Challenge Cai Yuanchang!<color=#097a76>(Solo fight by protagonist)</color>,ท้าประลองไช่หยานฉาง! <color=#097a76>(ตัวเอกสู้คนเดียว)</color>
+Role5-12_option1_3,Challenge Cai Yuanchang!<color=#097a76>(Solo fight by protagonist)</color>,ท้าประลองไช่หยวนฉาง! <color=#097a76>(ตัวเอกสู้คนเดียว)</color>
 M20100-63_option1_dialog,"(Pets are not allowed in Chuxiang City, what should I do?)",(เมืองฉู่เซียงไม่ให้นำสัตว์เลี้ยงเข้า ควรทำยังไงดี)
 M20100-63_option1_1,Will this change your mind? (<color=#097a76>200 Wen</color>),ข้าพอจะมีเงินเพื่อแสดงความนับถือต่อท่านทั้งสอง หวังว่าท่านจะพอยกเว้นได้นะ <color=#097a76>(200 อีแปะ)</color>
 M20100-63_option1_2,"Brother, considering our relations, can you turn a blind eye to this~<color=#097a76>(Relations reach 60)</color>",พี่น้อง เราสนิทกันเช่นนี้ ท่านทำเป็นมองไม่เห็นได้หรือไม่~<color=#097a76>(ความสัมพันธ์ถึง 60)</color>
@@ -1299,7 +1299,7 @@ M5052-1_option1_1,"Join the Peak Debate!<color=#097a76>(Qinggong200, partners le
 M5052-1_option1_2,"Excuse me, I'll be on my way.",ขออภัย ข้าขอตัวก่อน
 M5052-1_option2_1,Achieve the <color=#c44b0e>World's No.1</color> ending<color=#0574a8>(Game Over)</color>.,ได้รับฉากจบ <color=#c44b0e>อันดับ 1 ของโลก</color> <color=#0574a8>(Game Over)</color>
 M5052-1_option2_2,Continue to travel in Jianghu.,ท่องยุทธภพต่อไป
-R10035-1_option1_1,Sit down for a drink and assist the Prince of Yan.<color=#c44b0e>(Specific Battle)</color>,นั่งลงดื่ม และช่วยองค์ชายหยาน <color=#c44b0e>(เข้าสู่การต่อสู้)</color>
+R10035-1_option1_1,Sit down for a drink and assist the Prince of Yan.<color=#c44b0e>(Specific Battle)</color>,นั่งลงดื่ม และช่วยองค์ชายเยี่ยน <color=#c44b0e>(เข้าสู่การต่อสู้)</color>
 R10035-1_option1_2,Teach the Prince of Yan a lesson together.<color=#097a76>(Specific Battle)</color>,สั่งสอนองค์ชายเยี่ยนด้วยกัน <color=#097a76>(เข้าสู่การต่อสู้)</color>
 R10035-1_option1_3,Turn around and leave.,หันกลับแล้วจากไป
 R10035-2-1_option1_1,Listen to their conversation.,ฟังบทสนทนา
@@ -1310,7 +1310,7 @@ R10035-2-1_option2_3,Not interested.,ไม่สนใจ.
 R10035-2-2_option1_1,Help Wanyan Liang defeat Hua Yan!<color=#c44b0e>(Direct Battle)</color>,ช่วยหวันเหยียนเหลียงเอาชนะฮวาเหยียน!<color=#c44b0e>(ต่อสู้โดยตรง)</color>
 R10035-2-2_option1_2,Help Hua Yan repel Wanyan Liang!<color=#c44b0e>(Specific Battle)</color>,ช่วยฮวาเหยียนขับไล่หวันเหยียนเหลียง! <color=#c44b0e>(เข้าสู่การต่อสู้)</color>
 R10035-2-2_option1_3,Not interested.,ไม่สนใจ.
-R10035-2-2_option2_1,"Give ""Translation of Vairocana Sutra - First half"" to Wanyan Liang.","มอบ ""ฉบับแปลของไวโรจนะสูตร - ครึ่งแรก"" แก่หวานหยานเหลียง"
+R10035-2-2_option2_1,"Give ""Translation of Vairocana Sutra - First half"" to Wanyan Liang.","มอบ ""ฉบับแปลของไวโรจนะสูตร - ครึ่งแรก"" แก่หวานเหยียนเหลียง"
 R10035-2-2_option2_2,Refuse to give the translation to Wanyan Liang.,ไม่มอบฉบับแปลให้กับหวันเหยียนเหลียง
 R10035-2-3_option1_1,Agree to break the formation together!<color=#097a76>(Specific Battle)</color>,ตกลงจะทลายค่ายกลด้วยกัน!<color=#097a76>(เข้าสู่การต่อสู้)</color>
 R10035-2-3_option1_2,Refuse to help.,ปฏิเสธ
@@ -1508,10 +1508,10 @@ School-2120-3_overview2,Inform Miao Muli about the eradication of Melody House.,
 A15013-1_option1_1,Surrender the lizard! <color=#097a76>(Solo by the protagonist)</color>,กำราบกิ้งก่า! <color=#097a76>(ตัวเอกสู้คนเดียว)</color>
 A15013-1_option1_2,"Don't stay for long, hurry up and run away!",อย่าอยู่นานเกิน รีบและจากไปดีกว่า!
 Def-2120-1_option1_1,Force my way in! <color=#c44b0e>(Start the fight immediately)</color>,ฝ่าเข้าไป <color=#c44b0e>(เริ่มการต่อสู้ทันที)</color>
-Def-2120-1_option1_2,Let Miao Caidie handle it. <color=#097a76>(Miao Caidie accompanies)</color>,ปล่อยให้เมี้ยวไฉ่ตี้จัดการ <color=#097a76>(เมี้ยวไฉ่ตี้อยู่ในทีม)</color>
+Def-2120-1_option1_2,Let Miao Caidie handle it. <color=#097a76>(Miao Caidie accompanies)</color>,ให้เมี้ยว ไฉ่ตี้จัดการ <color=#097a76>(เมี้ยวไฉ่ตี้ร่วมทีม)</color>
 Def-2120-1_option1_3,Turn around and leave.,หันกลับแล้วจากไป
 Def-2120-2_option1_1,Force my way in! <color=#c44b0e>(Start the fight immediately)</color>,ฝ่าเข้าไป <color=#c44b0e>(เริ่มการต่อสู้ทันที)</color>
-Def-2120-2_option1_2,Let Miao Caidie handle it. <color=#097a76>(Miao Caidie accompanies)</color>,ปล่อยให้เมี้ยวไฉ่ตี้จัดการ <color=#097a76>(เมี้ยวไฉ่ตี้อยู่ในทีม)</color>
+Def-2120-2_option1_2,Let Miao Caidie handle it. <color=#097a76>(Miao Caidie accompanies)</color>,ให้เมี้ยว ไฉ่ตี้จัดการ <color=#097a76>(เมี้ยวไฉ่ตี้ร่วมทีม)</color>
 Def-2120-2_option1_3,Turn around and leave.,หันกลับแล้วจากไป
 Main10099-1_option1_1,Listen to him patiently.,ตั้งใจฟัง
 Main10099-1_option1_2,Ignore him.,เดินผ่านไป
@@ -1960,8 +1960,8 @@ R10045-2_overview8,Deliver the goods to the shopkeeper at Daliang CityGolden For
 R10045-2_overview9,Deliver the goods to the shopkeeper of Wine God Tower in Lin'an City.,ส่งสินค้าให้กับเจ้าของหอคอยเทพสุราในเมืองหลินอัน
 R10045-2_overview10,"The escort mission has been completed, you can get new goods from Han Hongyu.",ภารกิจคุ้มกันสินค้าสำเร็จแล้ว สามารถไปรับสินค้าใหม่ได้จาก หานหงหยู
 M20302-5_overview4,Something has been done to the Info well.,บ่อน้ำนี้ถูกทำอะไรบางอย่างไว้
-Fame-8_overview2,Go to the Jian Yan Emperor's palace to vindicate Marshal Ye.,ไปยังวังหลวงจักรพรรดิเจี้ยนเหยียนเพื่อแก้ต่างให้แม่ทัพเย่
-Fame-8_overview3,"After being summoned by the Jian Yan Emperor, go to the palace to receive the reward.",หลังจากถูกจักรพรรดิเจี้ยนเหยียนเรียกตัว ไปวังหลวงเพื่อรับรางวัล
+Fame-8_overview2,Go to the Jian Yan Emperor's palace to vindicate Marshal Ye.,ไปยังวังหลวงฮ่องเต้เจี้ยนเหยียนเพื่อแก้ต่างให้แม่ทัพเย่
+Fame-8_overview3,"After being summoned by the Jian Yan Emperor, go to the palace to receive the reward.",หลังจากถูกฮ่องเต้เจี้ยนเหยียนเรียกไปเข้าเฝ้า ไปวังหลวงเพื่อรับพระราชทานรางวัล
 R10094-1_overview4,Please level up to at least 50 before seeking Yi Zhihua to participate in the Inseparable game.,เพิ่มเลเวลเป็นอย่างน้อย 50 ก่อนไปหา ยี่จื่อหัว เพื่อเข้าร่วมแข่งพนันชี้เป็นชี้ตาย
 R10028-4_option3_1,Go take a look.,ลองไปดู
 R10028-4_option3_2,Let's talk about it later.,ไว้คุยเรื่องนี้ทีหลัง
@@ -2057,16 +2057,16 @@ R10005-4_option2_5,Choose the blue bug. <color=#097a76>(Dexterity reaches 5)</co
 R10005-4_option2_6,Talk about it later.,ไว้คุยเรื่องนี้ทีหลัง
 R10081-2_name,Play the zither without speaking,บรรเลงพิณโดยไม่พูดอะไร
 R10081-2_overview1,Find a highly skilled doctor to diagnose the injury of the silent woman in the Confucius Temple.
-R10081-2_overview2,Find a highly skilled doctor to diagnose Ya Qin's injury.
+R10081-2_overview2,Find a highly skilled doctor to diagnose Ya Qin's injury.,ตามหาหมอเก่งๆไปดูอาการบาดเจ็บของหยาฉิน
 R10081-2_overview3,"Find the score of Guangling Melody, and get the Treasure map by accepting the treasure hunting commission on the bulletin boards in Chuxiang City, Daliang City, and Lin'an City."
 R10081-2_overview4,"Find the score of Guangling Melody, Li Leya who stole the score may know its whereabouts."
 R10081-2_overview5,"Take Fu Yaoqin to Confucius Temple, or bring the cold and silent woman to see Fu Yaoqin, to HealInternal Injury."
-R10081-2_overview6,"Take Fu Yaoqin to Confucius Temple, or bring Ya Qin to see Fu Yaoqin, to HealInternal Injury for Ya Qin."
-R10081-2_overview7,Bring the score of Guangling Melody to Fu Yaoqin.
-R10081-2_overview8,"If you want to HealYa Qin's Internal Injury, it seems that you can only go to the Melody House in the Southwest region with Ya Qin to ask for help from the owner."
+R10081-2_overview6,"Take Fu Yaoqin to Confucius Temple, or bring Ya Qin to see Fu Yaoqin, to HealInternal Injury for Ya Qin.",เชิญฟู่เหยาฉินไปที่วัดขงจื๊อ หรือพาหยาฉินไปพบฟู่เหยาฉินเพื่อรักษาอาการบาดเจ็บภายในของหยาฉิน
+R10081-2_overview7,Bring the score of Guangling Melody to Fu Yaoqin.,นำบันทึกเพลงลำนำแห่งกว่างหลิงไปให้ฟู่เหยาฉิน
+R10081-2_overview8,"If you want to HealYa Qin's Internal Injury, it seems that you can only go to the Melody House in the Southwest region with Ya Qin to ask for help from the owner.",หากท่านต้องการช่วยรักษาอาการบาดเจ็บภายในของหยาฉิน ท่านต้องไปที่ตำหนักบทเพลงในแดนตะวันตกเฉียงใต้กับหยาฉิน เพื่อขอความช่วยเหลือจากเจ้าของตำหนัก
 R10081-2_overview9,Get along well with other seniors in Confucius Temple and find out who hurt this cold and silent woman.
 R10081-2_overview10,Get along well with other seniors in Confucius Temple and find out who hurt Ya Qin.
-R10081-2_overview11,Find the score of Guangling Melody.
+R10081-2_overview11,Find the score of Guangling Melody.,ตามหาบันทึกเพลงลำนำแห่งกว่างหลิง
 R10094-1_overview5,Wait until the debt is paid off before coming to Lin'an City·Relic House to participate in the Inseparable game.
 R10086-1_name,Missing Cat,แมวที่หายไป
 R10086-1_overview1,"If you see a cat with white fur and many dark spots on its body, please tell Lu Jian Nan in front of the Chuxiang City inn.",ถ้าหากเจ้าเจอแมวที่มีขนขาวลายจุดสีดำ กรุณาแจ้งต่อ ลู่ เจียนหนาน ที่อยู่หน้าโรงเตี๊ยมเมืองฉู่เซียง
@@ -2081,7 +2081,7 @@ M2190-3_overview2,Go to the Beast Manor's main hall to see what happened.,ไป
 M2190-3_option1_1,Take a sneak peek.,แอบดู
 M2190-3_option1_2,Better wait a bit longer.,รออีกสักหน่อยดีกว่า
 M2190-4_name,Seek medical advice.,เสาะหาแพทย์
-M2190-4_overview1,Go to the Plant House in the Southwest region to find a doctor for help.,ไปยังตำหนักพฤกษาในตะวันตกเฉียงใต้เพื่อขอความช่วยเหลือจากหมอ
+M2190-4_overview1,Go to the Plant House in the Southwest region to find a doctor for help.,ไปยังตำหนักพฤกษาในแดนตะวันตกเฉียงใต้เพื่อขอความช่วยเหลือจากหมอ
 M2190-4_overview2,Go to Cloud Camp to find a doctor.,ไปยังค่ายเมฆาแล้วตาหาท่านหมอ
 M2190-4_overview3,Bring a dog to the Plant House to find the whereabouts of the doctor.
 M2190-4_overview4,Return to the Plant House to see if Wind Chaser has tracked down the doctor's location.
@@ -2134,21 +2134,21 @@ R10038-1_option2_1,"Sacrifice oneself, prioritize the water village."
 R10038-1_option2_2,"If a man does not care for himself, he will be punished by heaven and earth."
 R10038-1_option3_1,Fight for your own position.
 R10038-1_option3_2,"Believe that the leader will not be biased, I must not be working hard enough."
-R10038-1_option3_3,Find another way.
+R10038-1_option3_3,Find another way.,หาทางอื่น
 R10038-1_option4_1,"I am a senior, the wealth is naturally mine."
 R10038-1_option4_2,"Everyone has contributed, the wealth should be evenly distributed to everyone."
 R10038-1_option4_3,"Reward according to merit, those who contribute more naturally get more wealth."
 R10038-1_option5_1,"Maintain the status quo, continue to dominate the nine Above river."
 R10038-1_option5_2,Trust the leader and follow the direction set by the leader.
 R10038-1_option5_3,We should mediate from both sides and establish our own power in the chaotic world.
-R10038-1_option6_1,Duke Kang.
-R10038-1_option6_2,Duke Qi.
+R10038-1_option6_1,Duke Kang.,อ๋องคัง
+R10038-1_option6_2,Duke Qi.,อ๋องฉี
 R10038-1_option6_3,Yan Army.,กองทัพเยี่ยน
 R10038-1_option6_4,Others besides these.
 R10038-2_option1_1,Play chess with Zhuge Shenji.<color=#097a76>(Specific Battle)</color>
 R10038-2_option1_2,"I have something else to do, let's talk later."
-R10038-3_name,Deliver a letter to Lin'an City
-R10038-3_overview1,Deliver the letter to the Prefect of Lin'an City.
+R10038-3_name,Deliver a letter to Lin'an City,นำจดหมายไปส่งที่เมืองหลินอัน
+R10038-3_overview1,Deliver the letter to the Prefect of Lin'an City.,นำจดหมายไปส่งให้เจ้าเมืองหลินอัน
 R10038-3_overview2,Report this to Zhuge Shenji.
 R10038-3_overview3,Report what happened to Ding Fengbo.
 R10038-3_option1_1,"Pretend not to know, put it back in the envelope."
@@ -2156,8 +2156,8 @@ R10038-3_option1_2,Hide it secretly by myself.
 R10038-3_option2_1,Return the banknote.<color=#097a76>(Pawnshop Banknote1)</color>
 R10038-3_option2_2,Return 20 Guan.<color=#097a76>(20 Guan)</color>
 R10038-3_option2_3,Refuse to pay back!<color=#097a76>(Specific Battle)</color>
-R10038-3-1_option1_1,Exchange.
-R10038-3-1_option1_2,Do not exchange for now.
+R10038-3-1_option1_1,Exchange.,แลกเปลี่ยน
+R10038-3-1_option1_2,Do not exchange for now.,ยังไม่แลกเปลี่ยนตอนนี้
 R10038-4_name,Midnight Letter
 R10038-4_overview1,Zi Shi takes Zhuge Shenji's letter to the Pier of Lin'an City.
 R10038-4_overview2,Report what happened to Zhuge Shenji.
@@ -2252,10 +2252,10 @@ M2225-2_option1_2,Don't meddle in other's business.
 M2225-2_npcname,Voice of the tea merchant
 M20400-8_option1_1,Help Ren Zhongheng.<color=#c44b0e>(Specific battle)</color>,ช่วย เหริน จงเหิง <color=#c44b0e>(เข้าสู่การต่อสู้)</color>
 M20400-8_option1_2,Refuse to take action.
-M20400-9_option1_1,Agree with He Denuo.
-M20400-9_option1_2,Refuse He Denuo.
-M20400-9_option2_1,Agree with He Denuo.
-M20400-9_option2_2,Disagree with He Denuo.
+M20400-9_option1_1,Agree with He Denuo.,เห็นด้วยกับเหอเต๋อนัว
+M20400-9_option1_2,Refuse He Denuo.,ปฏิเสธเหอเต๋อนัว
+M20400-9_option2_1,Agree with He Denuo.,เห็นด้วยกับเหอเต๋อนัว
+M20400-9_option2_2,Disagree with He Denuo.,ไม่เห็นด้วยกับเหอเต๋อนัว
 R10004-2_name,Mission of the Xuanwu Envoy
 R10004-2_overview1,Eliminate the branch of Cold Skin Gang near the Holy Fire Sect.,กวาดล้างสาขาของพรรคมังสาเหมันต์ใกล้นิกายไฟศักดิ์สิทธิ์ทั้งหมด
 R10004-2_overview2,Return to the Holy Fire Sect to report to the Xuanwu Envoy.
