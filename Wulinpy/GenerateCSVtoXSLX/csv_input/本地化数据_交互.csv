@@ -1,0 +1,206 @@
+﻿﻿NpcParalyze_通用_CanNotParalyze,This character cannot be immobilized.,ตัวละครนี้ไม่สามารถเคลื่อนไหวได้
+NpcSteal_通用_CanNotSteal,This character cannot steal.,ตัวละครนี้ไม่สามารถขโมยได้
+NpcPoision_通用_CanNotPoision,This character cannot poison.,ตัวละครนี้ไม่สามารถวางยาพิษได้
+NpcAssassin_通用_CanNotAssassin,This character cannot ambush.,ตัวละครนี้ไม่สามารถลอบโจมตีได้
+NpcAssassin_通用_RunAway,Murder! Murder!,ฆาตรกรรม! ฆาตรกรรม!
+NpcAssassin_通用_KaiGan,How dare you ambush me?,กล้าลอบโจมตีข้างั้นหรือ?
+NpcPoision_通用_RunAway,"What suspicious thing are you feeding me!|Oh my god, someone is poisoning!",แกเอาอะไรให้ข้ากิน!|แย่ล่ะ นี่มันยาพิษ!
+NpcPoision_通用_KaiGan,You are so bold!|Who gave you the courage to poison me!,แกกล้ามาก|ใครให้แกมาวางยาพิษข้า
+PlayerAssassin_通用_OverTop,Run!,วื่ง !!
+PlayerAssassin_通用_Seckill,"Hmph, that's all.|Easy as pie!",ฮึ่ม ก็แค่นั้นแหละ|ง่ายเหมือนปอกกล้วย!
+PlayerAssassin_通用_Unseckill,I didn't hit... do you believe...,ข้าไม่ได้โจมตี... เจ้าเชื่อข้าไหม...
+PlayerPoision_通用_MaximumPoision,The poison in this person is deep enough.,พิษในร่างกายผู้นี้ค่อนข้างลึก
+PlayerPoision_通用_NothingPoision,Out of poison.,พิษหมดแล้ว
+PlayerPoision_通用_PoisionSuccess,Poisoning succeeded.,วางยาพิษสำเร็จ
+Paralyze_通用_LackStamina,"No stamina left.|Can't act without stamina.|So tired, can I rest?|Stamina is exhausted.",ไม่มีแรงเหลือแล้ว|ทำอะไรไม่ได้ถ้าหมดแรง|เหนื่อยมากข้าขอพักได้ไหม|หมดเรี่ยวหมดแรง
+Steal_通用_LackStamina,"No stamina left.|Can't act without stamina.|So tired, can I rest?|Stamina is exhausted.",ไม่มีแรงเหลือแล้ว|ทำอะไรไม่ได้ถ้าหมดแรง|เหนื่อยมากข้าขอพักได้ไหม|หมดเรี่ยวหมดแรง
+Poison_通用_LackStamina,"No stamina left.|Can't act without stamina.|So tired, can I rest?|Stamina is exhausted.",ไม่มีแรงเหลือแล้ว|ทำอะไรไม่ได้ถ้าหมดแรง|เหนื่อยมากข้าขอพักได้ไหม|หมดเรี่ยวหมดแรง
+Assassin_通用_LackStamina,"No stamina left.|Can't act without stamina.|So tired, can I rest?|Stamina is exhausted.",ไม่มีแรงเหลือแล้ว|ทำอะไรไม่ได้ถ้าหมดแรง|เหนื่อยมากข้าขอพักได้ไหม|หมดเรี่ยวหมดแรง
+NpcSteal_通用_PlayerTalk,"Easily done!|Easy as pie~|Too easy!|Hehe, got something for free.|So-called unseen and unheard~|This treasure is mine!",ง่ายนิดเดียว!|ง่ายมาก~|ง่ายเกินไป!|อิอิ ได้ของฟรีแล้ว|เรียกได้ว่าไม่มีใครเห็นและได้ยิน~|สมบัติชิ้นนี้เป็นของข้า!
+NpcSteal_通用_NothingSteal,"Not a single thing, what a pauper!",ไม่มีอะไรเลย อนาถาอะไรเช่นนี้!
+NpcFactionBuy_通用_RefuseSameFactionOnly,"You are not a disciple of this sect, you have no right to get anything from {NpcJobTalk:自我称呼}.",เจ้าไม่ใช่ศิษย์ของนิกายนี้ เจ้าไม่มีสิทธิ์ได้รับอะไรจาก{NpcJobTalk:自我称呼}
+NpcInvite_OK,Agree to let {Char1Name} join the team.,ตกลงที่จะให้ {Char1Name} เข้าร่วมกลุ่ม
+NpcInvite_Cancel,Think about it again.,คิดดูอีกครั้ง
+Gifting_RelationInfo,Current Relations: {0} ({1}).,ความสัมพันธ์ปัจจุบัน: {0} ({1})
+Gifting_FondInfo,Favorite Item: {0}.,รายการโปรด: {0}
+Gifting_FondItemSeparator,、,、
+Gifting_FondItemNone,
+NpcGifting_RelationInfoGood,"Your relationship is very good, you can get the following help",ความสัมพันธ์ของเจ้าดีมาก เจ้าสามารถขอความช่วยเหลือได้
+NpcGifting_RelationInfoBad,"You seem to be at odds with each other, the other party doesn't want to deal with you.",ดูเหมือนเจ้าจะไม่ลงรอยกัน อีกฝ่ายไม่ต้องการเจรจากับเจ้า
+NpcGifting_RelationInfoNotGood,"You are not getting along well, it may have some negative effects on you.",เจ้าเข้ากันได้ไม่ดีนัก มันอาจจะส่งผลเสียต่อเจ้าบ้าง
+NpcGifting_RelationUnlockFight,"Enemies meet with red eyes, they will attack you without hesitation",เกลียดชังจนตาแดงก่ำ พวกเขาจะโจมตีเจ้าโดยไม่ลังเล
+NpcGifting_RelationUnlockFightCoward,"Unwilling to have any contact with you, will only stay away from you",ไม่อยากข้องเกี่ยวกับเจ้า อยู่ห่างๆข้าไว้
+NpcGifting_RelationUnlockBuy,You can <#00ff00>Buy</color> items from their shop,เจ้าสามารถ <#00ff00>ซื้อ</color> รายการจากร้านค้าของพวกเขาได้
+NpcGifting_RelationUnlockSell,You can <#00ff00>Sell</color> items they are interested in,เจ้าสามารถ <#00ff00>ขาย</color> รายการที่พวกเขาสนใจได้
+NpcGifting_RelationUnlockTrade,Exchange items in your inventory with {Char1Name}'s possessions<#00ff00></color>,แลกเปลี่ยนสิ่งของในกระเป๋าของเจ้ากับสิ่งของของ {Char1Name}<#00ff00></color>
+NpcGifting_RelationUnlockTeach,You can get {HL0} by meeting the specified requirements when <#00ff00>Request</color>,เจ้าสามารถรับ {HL0} ได้โดยปฏิบัติตามข้อกำหนดที่ระบุเมื่อ <#00ff00>คำขอ</color>
+NpcGifting_RelationUnlockJoinAllie,"If {Char1Name} is present in the battle, they will definitely not stand by",หาก {Char1Name} อยู่ในการต่อสู้ พวกเขาจะไม่ยอมนิ่งเฉยดูเจ้าโดนทำร้ายแน่นอน
+NpcGifting_RelationThesholdInfo,The current Relations can be increased to <#{0}>{1}</color>,ความสัมพันธ์ปัจจุบันสามารถเพิ่มเป็น <#{0}>{1}</color>
+NpcGifting_RelationUnlockInvite,"You have a deep relationship, you can <#00ff00>Invite</color> {Char1Name} to join the team",เจ้ามีความสัมพันธ์ที่ลึกซึ้ง เจ้าสามารถ <#00ff00>เชิญ</color> {Char1Name} เข้าร่วมทีมได้
+NpcGifting_RelationTheshold,Relations can be further improved after completing the <#ff8800>{0}</color> event,ความสัมพันธ์จะเพิ่มขึ้นหลังจากเสร็จสิ้นอีเว้นต์ <#ff8800>{0}</color>
+NpcGifting_RelationTeachAbility,"Considered as Intimate, you can learn <#00ff00>{0}{1}</color> from them",สนิทสนมกัน ท่านสามารถเรียนรู้ <#00ff00>{1} {0}</color> จากพวกเขาได้
+NpcGifting_RelationMax,The Relations between you no longer need to be Gift,ความสัมพันธ์ระหว่างเจ้าไม่จำเป็นต้องให้ของขวัญอีกต่อไป
+NpcGifting_RepWithLevel,{0} (Fame{1} level),{0} (ชื่อเสียง ระดับ {1})
+NpcGifting_NoRepMale,"Your Fame is much different from <#ffff00>{0}</color>, he will not accept any of your gifts",ชื่อเสียงของเจ้าแตกต่างจาก <#ffff00>{0}</color> มาก เขาจะไม่รับของขวัญใด ๆ จากเจ้า
+NpcGifting_NoRepFemale,"Your Fame is much different from <#ffff00>{0}</color>, she will not accept any of your gifts",ชื่อเสียงของเจ้าแตกต่างจาก <#ffff00>{0}</color> มาก เขาจะไม่รับของขวัญใด ๆ จากเจ้า
+NpcGifting_ItemRarity0,<#68cf24>{0}</color>,<#68cf24>{0}</color>
+NpcGifting_ItemRarity1,<#00c6f3>{0}</color>,<#00c6f3>{0}</color>
+NpcGifting_ItemRarity2,<#c851ff>{0}</color>,<#c851ff>{0}</color>
+NpcGifting_ItemRarity3,<#d09a09>{0}</color>,<#d09a09>{0}</color>
+FactionTrading_Treasurys,{1} has gold: {0},{1} มีเงิน: {0}
+FactionTrading_FameRelationNoChange,Relations with {0} have reached {1},ความสัมพันธ์กับ {0} ถึงระดับ {1}
+FactionTrading_FameRelation,"Relations with {0} have reached {1}, you can enjoy a {2}% OFF discount everytime shopping here.",ความสัมพันธ์กับ {0} ถึง {1} แล้ว เจ้าสามารถเพลิดเพลินกับส่วนลด {2}% ทุกครั้งที่มาซื้อสินค้าที่นี่
+FactionTrading_TreasurysCoinNoyEnough,%c%The other party does not have enough money,%c%อีกฝ่ายมีเงินไม่เพียงพอ
+NpcInteractive_动物_Like,What do you want to do with it?,เจ้าต้องการทำอะไรกับมัน?
+NpcInteractive_动物_Dislike,What do you want to do with it?,เจ้าต้องการทำอะไรกับมัน?
+NpcInteractive_物品,What do you want to do with it?,เจ้าต้องการทำอะไรกับมัน?
+NpcPetInvite_InteractiveLow,"I don't understand its beast language, I can't interact with it.",ข้าไม่เข้าใจภาษาสัตว์ร้ายของมัน ข้าไม่สามารถโต้ตอบกับมันได้
+NpcPetInvite_AlreadyHasPet,"Unless you Release the existing pet, you cannot Adopt a new pet.",เว้นแต่เจ้าจะปล่อยสัตว์เลี้ยงที่มีอยู่ เจ้าจะไม่สามารถรับเลี้ยงสัตว์เลี้ยงตัวใหม่ได้
+NpcPetInvite_RelationLow,You can only Adopt when Relations reach {0},เจ้าสามารถรับได้เมื่อความสัมพันธ์ถึง {0} เท่านั้น
+PlayerCurse_Stamina,"Stamina is too low, it's best to rest|It turns out that wandering in the world is not only mentally tired, but also physically tired|I'm so tired recently",อ่อนล้าเหลือเกิน พักผ่อนก่อนดีที่สุด|การท่องยุทธภพไม่ได้แค่เหนื่อยใจเท่านั้น แต่ยังเหนื่อยกายอีกด้วย|ช่วงนี้ข้าเหนื่อยจริงๆ
+PlayerCurse_Mood,"Ah, my life is so hard|Ah, how can I live this life|Why am I always the unlucky one?|How long will this life last|Why is everything I do so unsuccessful|This world is too tiring|I don't know how long I can hold on|Ah~",อ่าห์ ชีวิตข้าลำบากนัก|อ่าห์ ชีวิตนี้ข้าจะอยู่ได้อย่างไร|ทำไมข้าถึงโชคร้ายตลอด?|ชีวิตนี้จะอยู่ได้นานแค่ไหน|ทำไมทุกอย่างที่ข้าทำจึงไม่ประสบผลสำเร็จ|โลกนี้ช่างเหนื่อยเหลือเกิน|ข้าไม่รู้ว่าจะอดทนได้นานแค่ไหน|อ่าห์~
+NpcLeaveTeam_通用_LeaveTalk,"If there is anything that {NpcJobTalk:自我称呼} can help in the future, you can find {NpcJobTalk:自我称呼} in {0}. The road is long, we will meet again.",หากมีสิ่งใดที่{NpcJobTalk:自我称呼}สามารถช่วยได้ในอนาคต เจ้าสามารถค้นหา{NpcJobTalk:自我称呼}ได้ใน {0} หนทางยังอีกยาวไกล เราจะได้พบกันใหม่
+PetLeaveTeam_Window,Are you planning to let {0} Run away from the team?,เจ้าวางแผนที่จะปล่อยให้ {0} ออกจากทีมหรือไม่?
+PetLeaveTeam_通用_LeaveTalk,"It should go back to {0} and wait for me, I'll go find it when I miss it.",มันควรจะกลับไปที่ {0} แล้วรอข้าก่อน ข้าจะไปหามันเมื่อข้าคิดถึงมัน
+NpcInvite_通用_ReqAddPropLow,Your <size=200%><b>{0}</b></size> is too low!,<size=200%><b>{0}</b></size> ของคุณต่ำเกินไป!
+NpcInvite_通用_ReqAddPropHigh,Your <size=200%><b>{0}</b></size> is too high!,ของเจ้า<size=200%><b>{0}</b></size>สูงเกินไป!
+NpcSeat_通用_BreakSeat,This is too much!,นี่มันเกินไปแล้ว!
+NpcSeat_通用_CantBreakSeat,"Anyway, I can't hide, you decide.",ยังไงก็ตาม ข้ามิอาจหลบซ่อนได้อีก เจ้าก็ตัดสินใจเถอะ
+NpcJobTalk_第二人称脏话_通用,
+NpcJobTalk_脏话_通用,
+NpcJobTalk_口号_通用,
+IsLock_Default,%c%Need {0},%c%ต้องใช้ {0}
+IsLock_Tip_Param0,%c%I need {0} to open it,%c%ข้าต้องใช้ {0} เพื่อเปิดมัน
+ObjectLockConfirmWindow,"After Open, {0} will be consumed!\nContinue?","หลังจากเปิดแล้ว {0} จะถูกใช้\nดำเนินการต่อหรือไม่?"
+ObjectLockUnlocked,Unlock successful,ปลดล็อคสำเร็จ
+IsLock_PropDefault,%c%{0} needs to reach {1},%c%{0} ต้องถึงระดับ {1}
+IsLock_PropAbility,%c%Need {0}{1} level,%c%ต้องการ {0} {1} ระดับ
+Friendly_贸首,Nemesis,คู่ปรับ
+Friendly_切齿,Despise,รังเกียจ
+Friendly_憎恨,Loath,ไม่ชอบ
+Friendly_厌恶,Hate,เกลียด
+Friendly_漠视,Detest,เหม็นน้ำหน้า
+Friendly_认识,Known,รู้จัก
+Friendly_友好,Friendly,เป็นมิตร
+Friendly_亲密,Close,สนิทกัน
+Friendly_知己,Intimate,ผู้รู้ใจ
+Friendly_莫逆,Devoted,ผู้อุทิศตัว
+Friendly_生死,Inseparable,แยกจากมิได้
+Friendly_陌生,Stranger,คนแปลกหน้า
+PetHeal_没有选择,%c%No item selected to Feed,%c%ไม่มีสิ่งของให้กิน
+PetFeed_吃饱,"%c%No need to feed anymore, already full.",%c%ไม่ต้องให้อาหารแล้ว ท้องจะแตก
+NpcTeaching_通用_IsFactionTalk,"I'm not from the same sect as you, I can't teach you.",ข้าไม่ได้มาจากสำนักเดียวกับเจ้า ไม่อาจสอนเจ้าได้
+NpcTeaching_通用_NoTeacheingTalk,{NpcJobTalk:自我称呼} has a {0}. {1},{NpcJobTalk:自我称呼}มี {0} {1}
+NoTeachingTalk_ConsumeCondition,You need to exchange it with {0}.,ต้องแลกเปลี่ยนกับ {0}
+NoTeachingTalk_PremiseCondition,{0} is required.,ต้องใช้ {0}
+NpcTeahing_通用_TaughtTalk,I have nothing more to teach you.,ข้าไม่มีสิ่งใดจะสอนเจ้าแล้ว
+NpcTeahing_通用_MeetTalk,Are you sure you want to continue learning with {NpcJobTalk:自我称呼}?,แน่ใจหรือว่าอยากจะเรียนกับ{NpcJobTalk:自我称呼}ต่อ?
+NpcTeahing_通用_ConsumeTalk,You need {0} to give you {1}.,เจ้าต้องมี {0} เพื่อให้ {1} แก่เจ้า
+NpcTeahing_通用_SuccessTeach,{NpcJobTalk:自我称呼} has nothing more to teach {NpcJobTalk:第二人称}.,{NpcJobTalk:自我称呼}ไม่มีอะไรจะสอน{NpcJobTalk:第二人称}อีกแล้ว
+NpcTeahing_通用_ContinueTalk,Are you sure you want to consume {0} to get {1}?,เจ้าแน่ใจหรือไม่ว่าต้องการใช้ {0} เพื่อรับ {1}?
+NpcTeahing_通用_NotReady,It seems that {NpcJobTalk:第二人称} is not ready yet.,ดูเหมือน {NpcJobTalk:第二人称} จะยังไม่พร้อม
+NpcTeahing_通用_StadyBook,Are you sure you want to continue learning with {NpcJobTalk:自我称呼}?,แน่ใจหรือว่าอยากจะเรียนกับ{NpcJobTalk:自我称呼}ต่อ?
+NpcTeahing_通用_FreeTeach,"Since we are destined, I will teach you.",ในเมื่อฟ้าลิขิตเราให้มาเจอกัน ข้าก็จะสอนเจ้าเอง
+NpcTeachAbility_通用_Apply,"Now {PlayerSurName}{NpcJobTalk:第二人称敬语} and {NpcJobTalk:自我称呼} are <color=#c44b0e>Inseparable</color>,\n{NpcJobTalk:自我称呼} will teach some <color=#c44b0e>{0}</color> to {PlayerSurName}{NpcJobTalk:第二人称敬语}.","บัดนี้{NpcJobTalk:第二人称敬语}{PlayerSurName}กับ{NpcJobTalk:自我称呼}นั้นผูกพันกัน<color=#c44b0e>มิอาจแยกจากกันได้</color>\n {NpcJobTalk:自我称呼}จะถ่ายทอดวิชา<color=#c44b0e>{0}</color>แก่เจ้า{NpcJobTalk:第二人称敬语}{PlayerSurName}"
+BH_Kill0,Eliminate the threat of {faction} ({num}),ขจัดภัยของ {faction} ({num})
+BH_Item0,Collect {rarity}{type} ({num}),รวบรวม {rarity}{type} ({num})
+BH_Item1,Collect {namenum},รวบรวม {namenum}
+BH_Kill1,Capture the criminal {name},จับกุม {name} ผู้เป็นอาชญากร
+BH_Kill2,Kill {name} in {map},สังหาร {name} ใน {map}
+BH_Kill3,Kill {name},สังหาร {name}
+BH_Kill4,Kill {name} ({num}),สังหาร {name} ({num})
+BH_Prize,"Trustworthy+{0}, {faction}Relations+{1}",ความน่าเชื่อถือ +{0} ความสัมพันธ์กับ {faction} +{1}
+BH_LessQua,Refresh after {0},รีเฟรชหลังจาก {0} 
+BH_Done,Delivered,ส่งมอบ
+BH_Cancel,Abandoned,ถูกละทิ้ง
+BH_BtnCancel,Abandon,ละทิ้ง
+BH_BtnDone,Hand in,ส่งมอบ
+BH_BtnAccept,Accept,ยอมรับ
+BH_NoLimitTime,No limit,ไม่จำกัด
+BH_PassLimit,Overdue,เลยเวลา
+BH_SelectIDWarning,"Delivery area is full, please allocate quantity reasonably",พื้นที่จัดส่งเต็ม กรุณาจัดสรรปริมาณตามสมควร
+BH_MaxActiveNum,%c%The number of bounty tasks accepted has reached the limit,%c% จำนวนภารกิจที่รับได้ถึงขีดจำกัด
+BH_AcceptTip,%c%Accepted {0} bounty tasks,%c% รับแล้ว {0} ภารกิจ
+BH_CancelConfirm,Abandoning the task will reduce Trustworthy by <color=#FF0000>{0}</color> points and {1}Relations by <color=#FF0000>{2}</color> points.,การทิ้งภารกิจจะลดความน่าเชื่อถือลง <color=#FF0000>{0}</color> แต้ม และลด {1} ความสัมพันธ์ลง<color=#FF0000>{2}</color>แต้ม
+BH_DoneTip,<color=#2D8776>Please return to {0} to deliver the completed task</color>,<color=#2D8776> โปรดกลับไปยัง {0} เพื่อส่งภารกิจที่ทำสำเร็จ</color>
+BH_CancelTip,"Failed to catch the wanted target on the bounty notice in time, seems like I have to give up!",จับเป้าหมายได้ไม่ทันเวลา คงต้องยอมแพ้แล้ว!
+BH_CancelTip_Boss,"Failed to eliminate the target base within the time limit, seems like I have to give up!",กวาดล้างฐานที่มั่นเป้าหมายได้ไม่ทันเวลา คงต้องยอมแพ้แล้ว!
+BH_NpcDead,"The criminal has been subdued, you can go to collect the reward~",จับกุมอาชญากรได้แล้ว สามารถกลับไปเพื่อรับรางวัล
+BH_BossDead,"It has been eliminated, you can go to collect the reward~",กวาดล้างเรียบร้อยแล้ว สามารถกลับไปเพื่อรับรางวัล~
+BH_BulletinClose,There's nothing left here.,ไม่มีอะไรเหลือที่นี่แล้ว
+BH_InternalOpen,Join <#c44b0e>{0}</color> to accept tasks here,เข้าร่วม <#c44b0e>{0}</color> เพื่อรับภารกิจที่นี่
+BH_PermitItem,Lack of {0}! Unable to accept the task,ขาด {0}! รับภารกิจไม่ได้
+MiningBatch_ToolTip,"Lacking <#c44b0e>{0}</color>, unable to gather.|Can't do without <#c44b0e>{0}</color>.|Need to have <#c44b0e>{0}</color> to gather.|Go get a <#c44b0e>{0}</color> first.",ขาด <#c44b0e>{0}</color> ไม่สามารถเก็บเกี่ยวได้|ทำไม่ได้หากไม่มี <#c44b0e>{0}</color>.|ต้องการ <#c44b0e>{0}</color> เพื่อเก็บเกี่ยว|ไปหา <#c44b0e>{0}</color> มาก่อน
+Mining_ToolBroken,"Oh no! The tool is broken, what bad luck.|Oh, the tool is broken!|Ah!! The tool is broken!",ไม่นะ! เครื่องมือพัง โชคร้ายจริงๆ |โอ๊ะ เครื่องมือพัง!|อ๊ะ! เครื่องมือพัง!
+Mining_PrizeSpe,What a pleasant surprise!,ช่างน่าประหลาดใจนัก!
+Mining_PrizeBest,"This, this is... really lucky!|Wow! I hit the jackpot!|There really are good things!|No mistake, this luster is——",นี่ นี่มัน...โชคดีจริงๆ!|ว้าว! ได้แจ๊คพอตแฮะ!|มีของดีจริงๆด้วย!|ไม่ผิดแน่ แสงวาววับนี่มัน——
+Mining_ToolNotEnough,"How can I gather without a tool...|I don't have the ability to gather with bare hands!|You need a tool to gather.|Gathering with bare hands is too difficult.|I really can't do it without a tool!|Even if I'm skilled, I still need a tool.",ไม่มีเครื่องมือจะเก็บเกี่ยวได้ยังไง...|เราไม่เก่งพอจะเก็บเกี่ยวด้วยมือเปล่านะ!|ต้องใช้อุปกรณ์เพื่อเก็บเกี่ยวนะ|เก็บเกี่ยวด้วยมือเปล่ามันยากเกินไป|ไม่มีเครื่องมือแล้วทำไม่ได้จริงๆ!|ต่อให้มีฝีมือแค่ไหน ก็จำเป็นต้องใช้เครื่องมือ
+Mining_EnergyNotEnough,I'm exhausted... let me rest for a while.|I can't hold the tool steady anymore...|Let me rest for a while...|People need to rest!|,หมดแรงแล้ว...ให้พักสักหน่อยเถอะ| ถือเครื่องมือไม่มั่นแล้วแฮะ...| ให้พักสักหน่อยเถอะ...|ทุกคนจำเป็นต้องพักผ่อนนะ!|
+Mining_TimesNotEnough,"There's nothing left to gather here.|Even if I want to gather, there's nothing left.|I've gathered everything here.|There's really nothing left here.|Forget it, there's nothing left here.",ไม่มีอะไรเหลือให้เก็บเกี่ยวแล้ว| ต่อให้อยากเก็บเกี่ยว แต่ก็ไม่มีอะไรเหลือแล้ว| เก็บเกี่ยวทุกอย่างตรงนี้หมดแล้ว |ไม่มีอะไรเหลือตรงนี้แล้วจริงๆ|ช่างมันเถอะ ไม่มีอะไรเหลือตรงนี้แล้ว
+caiji_kuangwu,Pickaxe,เสียม
+caiji_famu,Axe,ขวาน
+caiji_diaoyu,Fishing rod,คันเบ็ด
+caiji_caiyao,Sickle,เคียว
+caiji_zhuochong,Worm-catching net,ตาข่ายจับแมลง
+Competition_SecondPlace_Friendly,"As expected of Brother {PlayerSurName}, you're really skilled, I admire you greatly.\nLooking forward to our next competition, we'll see who's better then.","เป็นอย่างที่คิดไว้ พี่{PlayerSurName}ช่างมีฝีมือจริงๆ ตัวข้าชื่นชมท่านนัก\nข้าจะรอการประลองกับท่านคราวหน้า จะได้รู้ว่าผู้ใดมีฝีมือเหนือกว่า"
+Competition_SecondPlace_Unfriendly,"{PlayerName}! I'll remember the humiliation of losing to you today, we'll see!\nNext time, I'll show {NpcJobTalk:第二人称脏话} how powerful {NpcJobTalk:自我称呼} really is.","{PlayerName}! ข้าจะจำความอัปยศอดสูที่พ่ายแพ้ให้กับเจ้าในวันนี้เอาไว้!\nคราวหน้าข้าจะแสดงให้{NpcJobTalk:第二人称脏话}ว่า{NpcJobTalk:自我称呼}นั้นแข็งแกร่งแค่ไหน คอยดู!"
+Competition_CompereEndFull,"The champion of this competition is {1}, the runner-up is {2}, and the third place is {3}. The {0} is over, everyone can leave now.",ผู้ชนะการแข่งขันคือ {1} ตามมาด้วย {2} และอันดับสามคือ {3} การประลองจบลงแล้ว ขอเชิญทุกคนไปได้
+Competition_CompereEndAbsent,"The champion of this competition is {1}, the runner-up is {2}. The {0} is over, everyone can leave now.",ผู้ชนะการแข่งขันคือ {1} ตามมาด้วย {2} การประลองจบลงแล้ว ขอเชิญทุกคนไปได้
+Competition_HiddenStart,"I didn't expect that no one dared to participate in this competition.\nI can't let you easily win the championship, let me see how capable you are now!","ไม่คิดเลยว่าจะไม่มีใครกล้าเข้าร่วมการแข่งขันนี้\nข้าไม่ยอมให้เจ้าชนะง่ายๆหรอก แสดงฝีมือให้ข้าเห็นหน่อย!"
+StealWarning_Person,"<#ff8888>{0}</color>'s item, taking it without permission will reduce <#ffff00>Propriety</color>,\ndo you want to continue?"," <#ff8888>{0}</color> หากหยิบไปโดยไม่ได้รับอนุญาตจะลดค่า<#ffff00>มารยาท</color>ลง\nเจ้าต้องการดำเนินการต่อไหม?"
+StealWarning_Faction,"<#ff8888>{0}</color>'s item, taking it without permission will reduce <#ffff00>Propriety</color>,\ndo you want to continue?"," <#ff8888>{0}</color> หากหยิบไปโดยไม่ได้รับอนุญาตจะลดค่า<#ffff00>มารยาท</color>ลง\nเจ้าต้องการดำเนินการต่อไหม?"
+InteractiveCircle_交谈,Talk,สนทนา
+InteractiveCircle_邀请,Invite,ชักชวน
+InteractiveCircle_HL_邀请,<#62FB9C>Invite,<#62FB9C>ชักชวน
+InteractiveCircle_掌门,<#62FB9C>Leader,<#62FB9C>หัวหน้า
+InteractiveCircle_易物,Trade,แลก
+InteractiveCircle_购买,Buy,ซื้อ
+InteractiveCircle_出售,Sell,ขาย
+InteractiveCircle_送礼,Gift,ของขวัญ
+InteractiveCircle_请教,Request,คำขอ
+InteractiveCircle_学艺,Learn,เรียนรู้
+InteractiveCircle_驱赶,Banish,ไล่
+InteractiveCircle_查看,Info,ข้อมูล
+InteractiveCircle_驻足,Stop,หยุด
+InteractiveCircle_放养,Raise,ยกระดับ
+InteractiveCircle_治疗,Heal,รักษา
+InteractiveCircle_喂食,Feed,ให้อาหาร
+InteractiveCircle_领养,Adopt,รับเลี้ยง
+InteractiveCircle_放生,Release,ปล่อย
+InteractiveCircle_破解,Crack,ปลดล็อค
+InteractiveCircle_开启,Open,เปิด
+InteractiveCircle_鉴定,Appraise,ประเมิน
+InteractiveCircle_马车,<#62FB9C>Depart,<#62FB9C>เดินทาง
+InteractiveCircle_骑乘,Set Off,เดินทาง
+InteractiveCircle_HL_骑乘,<#62FB9C>Depart,<#62FB9C>เดินทาง
+Authenticate_Introduction,"Young hero, I can appraise {0} here, spending a little money can help you a lot!",จอมยุทธน้อย ข้าสามารถตรวจสอบ {0} ได้ ใช้จ่ายเงินเพียงเล็กน้อยจะเป็นประโยชน์กับท่านอย่างมาก!
+Authenticate_NeedRelation,But looking at our relations... it's better to go further.,แต่ดูความสัมพันธ์ของเรา...ไปต่อดีกว่า
+Authenticate_NoConsume,"Get lost!|Don't bother me if there's nothing.|What? If you don't let me appraise, why are you looking for me?",ไสหัวไปซะ!|ถ้าไม่มีอะไรก็อย่ามารบกวนข้า| อะไร ถ้าไม่มีอะไรให้ตรวจสอบ จะมาหาข้าทำไม
+Authenticate_HasConsume,Thank you for your patronage!|Welcome to come again!|All are good goods!|Are you satisfied with the result?,ขอบคุณที่อุดหนุน! |แล้วมาใหม่นะ!| ที่นี่ของดีทุกชิ้นเลย!| ผลออกมาพอใจหรือไม่
+PetNaming_Window,Please name your pet,โปรดตั้งชื่อให้สัตว์เลี้ยง
+PetNaming_Intro,What name do you want to give it?,อยากให้ชื่ออะไรกับมัน
+PetNaming_Accept,"Great! From now on, you'll be called <#c44b0e>{0}</color>!",เยี่ยม! จากนี้ไป ข้าจะเรียกเจ้าว่า <#c44b0e>{0}</color>!
+PetNaming_Denied,"This name is not good, I'll try others.",ชื่อนี้ไม่ดีเลย ลองอันอื่นละกัน
+InstanctBattle_通用_AskAvoid,"I don't want to hurt the innocent, you better run away quickly!",ข้าไม่อยากทำร้ายคนบริสุทธ์ ทางที่ดีเจ้ารีบหนีไปซะ!
+InstanctBattle_通用_AllieBetray,"If you hurt my fellow, don't blame me for turning against you.",ถ้าเจ้าทำร้ายเพื่อนของข้า อย่าหาว่าข้าหันไปต่อต้านเจ้า
+InstanctBattle_通用_TeammateHit,Don't attack my fellow anymore.,อย่าโจมตีสหายข้าอีก
+InstanctBattle_通用_TeammateHitBySelf,Don't force me to fight against my own people.,อย่าบังคับให้ข้าต้องสู้กับพวกเดียวกันเลย
+InstanctBattle_通用_TeammateBetray,"You are unkind, don't blame me for being unjust!",เจ้าใจร้าย อย่าหาว่าข้าไม่ยุติธรรมนะ!
+NpcTeachAbility_通用_LackRelation,"You and I are not well acquainted, there's nothing I can teach you.",เจ้ากับข้ายังไม่คุ้นเคยกันดี ข้าไม่มีสิ่งใดจะสอนเจ้าหรอกนะ
+NpcTeachAbility_通用_Introduction,"Now we are Intimate,\nI can teach you {0} points of {1};\nIt will cost {2} Coin, consume {3} Stamina, {4}.","ตอนนี้เราสนิทสนมกัน\nข้าสามารถสอนเจ้า {0} แต้มของ {1};\nมันจะมีราคา {2} อีแปะ, ใช้ {3} แรงกาย {4}"
+NpcTeachAbility_通用_ReConfirm,Are you sure you want to continue learning with me?,เจ้ายังอยากจะเรียนรู้กับข้าต่อไหม
+NpcLeaveTeam_通用_AutoLeaveTalk,"Our Relations have made us distrust each other, I will return to {0}, the road of the rivers and lakes is long, see you if we are destined.",ความสัมพันธ์ของเราทำให้เราไม่ไว้วางใจซึ่งกันและกัน ข้าจะกลับไปที่ {0} ถนนสายแม่น้ำและทะเลสาบทอดยาว เจอกันหากโชคชะตากำหนดไว้
+NpcCart_通用_Refuse,"I can carry anyone, but not you!",ข้าจะแบกใครก็ได้ ที่ไม่ใช่เจ้า!
+NpcBath_通用_Saw,So annoying!|Stay away from me!|Ruffian!|Why is there a man here?|Ah... this...,น่ารำคาญนัก!|อยู่ห่างๆข้านะ!|อันธพาล!|ทำไมมีผู้ชายอยู่ที่นี่|อ๊ะ...นี่...
+NpcGifting_RelationUnlockDuel,Challenging him in a <#00ff00>duel</color> can increase your own EXP,ท้าทายเขาในการ<#00ff00>ประลอง</color> จะสามารถเพิ่มค่าประสบการณ์ของเจ้าได้
+InteractiveCircle_比武,Duel,ประลอง
+NpcDuel_通用_Refuse,"We barely know each other, not {0}, let's forget about this.",เราแทบจะไม่รู้จักกันเลย ไม่ใช่ {0} ลืมเรื่องนี้ซะเถอะ
+NpcDuel_通用_Info,"If you win, you can get {2}Jianghu Knowledge, {3}FameExperience. Are you sure you want to duel with me?","หากเจ้าชนะ, เจ้าจะได้รับ {2}ค่าประสบการณ์ยุทธ, {3}ค่าประสบการณ์ชื่อเสียง เจ้าแน่ใจหรือว่าต้องการประลองกับข้า?"
+NpcDuel_通用_NoStamina,It seems you are not ready yet.,ดูเหมือนว่าเจ้าจะยังไม่พร้อม
+NpcDuel_Selection0,"Start the duel! <color=#097a76>(25Stamina, 2 Ke)</color>","เริ่มการประลอง! <color=#097a76>(25 แรงกาย, 2 เค่อ)</color>"
+NpcDuel_Selection1,Talk about it later.,ไว้คุยเรื่องนี้ทีหลัง
+NpcLeaveTeam_通用_LeaveTalkToFiej,I will be waiting for you at {0}.,ข้าจะรอเจ้าที่ {0}
+NpcLeaveTeam_SelectionOld,【{0}】,【{0}】
+NpcLeaveTeam_SelectionFiej,【{0}】,【{0}】
+NpcLeaveTeam_Ask,Where should <#c44b0e>{0}</color> go?,<#c44b0e>{0}</color> ข้าควรไปที่ไหน?
+InteractiveCircle_装备,Equipment,ของสวมใส่

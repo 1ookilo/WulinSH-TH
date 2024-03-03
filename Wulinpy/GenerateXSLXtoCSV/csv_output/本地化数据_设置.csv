@@ -1,0 +1,149 @@
+key,original,translation,context
+GameLog_ApplySetting,Settings updated successfully,,设置更改成功
+Hotkey_RoamingMoveLeft,Move to the top left,,向左上移动
+Hotkey_RoamingMoveRight,Move to the bottom right,,向右下移动
+Hotkey_RoamingMoveUp,Move to the top right,,向右上移动
+Hotkey_RoamingMoveDown,Move to the bottom left,,向左下移动
+Hotkey_RoamingStealthSwitch,Stealth Switch,,潜行开关
+Hotkey_RoamingActiveBattle,Open battle,,开启战斗
+Hotkey_RoamingRole,Character,,角色
+Hotkey_RoamingInventory,Item,,物品
+Hotkey_RoamingKungfu,Martial Arts,,武学
+Hotkey_RoamingEnlightenment,Passive,,武道
+Hotkey_RoamingAbility,Skill,,能力
+Hotkey_RoamingRelation,Relations,,关系
+Hotkey_RoamingQuest,Journal,,记事
+Hotkey_RoamingNews,Rivers and Lakes News,,江湖小报
+Hotkey_RoamingPet,Pets.,,宠物
+Hotkey_RoamingEsc,System Menu,,系统菜单
+Hotkey_StorySkipStory,Skip the entire plot,,跳过整段剧情
+Hotkey_StorySkipDialogue,Skip the current dialogue,,跳过当前对白
+Hotkey_StoryOption1,Option 1,,选项1
+Hotkey_StoryOption2,Option 2,,选项2
+Hotkey_StoryOption3,Option 3,,选项3
+Hotkey_StoryOption4,Option 4,,选项4
+Hotkey_StoryOption5,Option 5,,选项5
+Hotkey_StoryOption6,Option 6,,选项6
+Hotkey_StoryOption7,Option 7,,选项7
+Hotkey_StoryOption8,Option 8,,选项8
+Hotkey_StealthSteal,Choose Steal,,选择暗取
+Hotkey_StealthPoison,Choose Poison,,选择下毒
+Hotkey_StealthParalyze,Choose Immobilize,,选择点穴
+Hotkey_StealthAssassin,Choose Ambush,,选择突袭
+Hotkey_StealthConfirm,Confirm Interaction,,确定交互
+Hotkey_QuickSave,Quick save,,快速存档
+Hotkey_QuickLoad,Quick Load,,快速读档
+Hotkey_BattleEsc,Deselect Martial Arts,,取消选中的武功
+Hotkey_BattleUniqueSkill,Ultimate Move,,绝招
+Hotkey_RoamingMeditation,Meditate (Long Press),,打坐（长按）
+Hotkey_RoamingMap,Map,,地图
+Hotkey_RoamingLog,Daily Log,,日常记录
+Hotkey_BattleKungfu1,Martial Art 1,,武功1
+Hotkey_BattleKungfu2,Martial Art 2,,武功2
+Hotkey_BattleKungfu3,Martial Art 3,,武功3
+Hotkey_BattleKungfu4,Martial Art 4,,武功4
+Hotkey_BattleKungfu5,Martial Art 5,,武功5
+Hotkey_BattleKungfu6,Martial Art 6,,武功6
+Hotkey_BattleKungfu7,Martial Art 7,,武功7
+Hotkey_BattleKungfu8,Martial Art 8,,武功8
+Hotkey_BattleKungfu9,Martial Art 9,,武功9
+Hotkey_BattleInternalKungfu1,Inner Power 1,,内功1
+Hotkey_BattleInternalKungfu2,Inner Power 2,,内功2
+Hotkey_BattleInternalKungfu3,Inner Power 3,,内功3
+Hotkey_BattleInternalKungfu4,Inner Power 4,,内功4
+Hotkey_BattleInternalKungfu5,Inner Power 5,,内功5
+Hotkey_BattleInternalKungfu6,Inner Power 6,,内功6
+Hotkey_BattleInternalKungfu7,Inner Power 7,,内功7
+Hotkey_BattleInternalEffect,Power Body,,功体
+Hotkey_BattleHidWep,Throwing,,暗器
+Hotkey_BattleItem,Item,,物品
+Hotkey_BattleRest,Rest,,休息
+Hotkey_BattleRetreat,Retreat,,撤退
+Hotkey_BattleSwitchAuto,Auto Battle,,自动战斗
+Hotkey_BattleShowBattleZone,Info Battle Range,,查看交战范围
+Hotkey_BattleSwitchSpeed,Toggle Battle Speed,,战斗速度切换
+Hotkey_BattleShortcutItem1,Quick Item 1,,快捷物品1
+Hotkey_BattleShortcutItem2,Quick Item 2,,快捷物品2
+Hotkey_BattleShortcutItem3,Quick Item 3,,快捷物品3
+Hotkey_BattleShortcutItem4,Quick Item 4,,快捷物品4
+Hotkey_BattleShortcutItem5,Quick Item 5,,快捷物品5
+Hotkey_BattleShortcutItem6,Quick Item 6,,快捷物品6
+Hotkey_BattleBondKungfu,Love Martial Art,,情缘武功
+Hotkey_BattleSwitchUniqueSkill,Switch Ultimate Move,,切换绝招
+HotkeyEnv_Roaming,Free Mode,,自由模式
+HotkeyEnv_Story,Story Mode,,剧情模式
+HotkeyEnv_Stealth,Stealth Mode,,潜行模式
+HotkeyEnv_Battle,Battle Mode,,战斗模式
+Setting,Settings,,设置
+Setting_Game,Game,,游戏
+Setting_Audio,Sound,,声音
+Setting_Graphic,Graphics,,图像
+Setting_Hotkey,Hotkeys,,快捷键
+Tab,Tabulation,,制表
+Hotkey_RoamingRun,Run,,奔跑
+LeftShift,Shift Up,,上档
+RightShift,Shift Up,,上档
+LeftControl,Control,,控制
+RightControl,Control,,控制
+LeftAlt,Shift,,换挡
+RightAlt,Shift,,换挡
+Space,Space,,空格
+Backspace,Backspace,,退格
+Return,Enter,,回车
+Escape,ESC,,ESC
+KeypadEnter,Enter,,回车
+Alpha0,0,,0
+Alpha1,1,,1
+Alpha2,2,,2
+Alpha3,3,,3
+Alpha4,4,,4
+Alpha5,5,,5
+Alpha6,6,,6
+Alpha7,7,,7
+Alpha8,8,,8
+Alpha9,9,,9
+Keypad0,*0,,*0
+Keypad1,*1,,*1
+Keypad2,*2,,*2
+Keypad3,*3,,*3
+Keypad4,*4,,*4
+Keypad5,*5,,*5
+Keypad6,*6,,*6
+Keypad7,*7,,*7
+Keypad8,*8,,*8
+Keypad9,*9,,*9
+BackQuote,`,,`
+HotkeyEditTip,Please Enter Key (Press ESC to Delete Shortcut),,请输入按键（按ESC删除快捷键）
+InvalidInput,Invalid Input,,无效输入
+HotkeyConflictConfirm,"Conflicts with the key {0} ({1}), clicking OK will delete the shortcut key of {0}",,与【{0}】({1})按键冲突，点击确定将会删除【{0}】的快捷键
+SettingNonSaveConfirm,Do you want to keep the changes?,,是否要保留更改？
+SettingTitle_Music,Background Music,,背景音乐
+SettingTitle_Sfx,Game Sound Effects,,游戏音效
+SettingTitle_DiaplayMode,Display Mode,,显示模式
+SettingTitle_Resolution,Resolution Selection,,分辨率选择
+ScreenDisplayMode_FullScreen,Full Screen Mode,,全屏模式
+ScreenDisplayMode_Window,Window Mode,,窗口模式
+ScreenDisplayMode_NoFrame,Borderless Window Mode,,无边框窗口模式
+SettingTitle_Language,Language,,语言
+SettingTitle_AutoSaveInterval,Auto Save Time,,自动存档时间
+SettingTitle_Font,Font,,字体
+Font0,Pixel Font,,像素字体
+Font1,Regular Font,,普通字体
+SettingValue_AutoSaveInterval,{0} minutes,,{0}分钟
+SettingTitle_ClickBattle,"Quickly switch between stealth, combat, and skip scenes",,快速切换潜行、战斗、跳过剧情
+SettingTitle_BulkTrading,"Batch Buy, Sell, Appraise【Item quantity must be 5 or more】",,批量购买、出售、鉴定【物品数量需满足5个】
+SettingTitle_RunInBackground,Game continues to run in the background,,游戏保持后台运行
+SettingTitle_ClickStoryOption,Quickly select plot options,,快速选择剧情选项
+SettingTitle_PressMouseRun,"When moving with the mouse, the default movement mode is running",,使用鼠标移动时，默认移动方式为跑
+SettingTitle_KeyForceRun,"When moving with shortcut keys, the default movement mode is running",,使用快捷键移动时，默认移动方式为跑
+SettingTitle_UseConsumableReconfirm,Confirmation required when using consumables,,使用消耗品时需再次确认
+SettingTitle_BulkUseComsumable,Batch use available for some consumables,,使用部分消耗品时可批量使用
+SettingTitle_AutoBattleWhenStart,Automatically start combat after battle opens,,战斗开启后默认开启自动战斗
+SettingTitle_DoubleSpeedWhenStart,2x speed is the default after battle opens,,战斗开启后默认开启2倍速
+SettingTitle_EpAndAccuAtkVisible,"MP, Rage continuously displayed after battle opens",,战斗开启后内力、怒气持续显示
+SettingTitle_HpBarResident,HP continuously displayed after battle opens,,战斗开启后生命持续显示
+SettingTitle_OneTouchBuyFromHighToLow,One-click buy in order from high to low grade,,一键购买根据品级由高到低的顺序进行购买
+SettingTitle_OneTouchSellFromLowToHigh,One-click sell in order from low to high grade,,一键出售根据品级由低到高的顺序进行出售
+SettingTitle_AutoSave,Open auto-save (only saves when switching scenes and after battles),,开启自动存档（仅切换场景和战斗结算时存档）
+SettingTitle_AutoSaveWhenChangeSceneAndRoaming,Save every 10 minutes in free state (requires auto-save to be enabled),,自由状态下每10分钟进行一次存档（需要开启自动存档才能选择）
+,,,

@@ -1,0 +1,849 @@
+﻿﻿Talking_default,Talk,พูดคุย
+Talking_learn,Request,คำขอ
+M1101-5_talking,Jewelry,อัญมณี
+M1100-1_name,Small Village Bao Dating,เปาต้าถิงแห่งหมู่บ้านเล็กๆ
+M1100-1_overview,Ask Bao Dating for ways to make money.,ถามวิธีหาเงินจากเปาต้าถิง
+M1100-2_name,Collect Herbs,รวบรวมสมุนไพร
+M1100-2_overview,Help the village doctor collect 5 Wolfberries.,ช่วยหมอในหมู่บ้านรวมรวม เก๋ากี้ 5 ชิ้น
+M1100-2_overview2,Give 5 Wolfberries to the doctor.,มอบ เก๋ากี้ 5 ชิ้น ให้แก่หมอ
+M1100-2_overview3,Chat with the medicine-selling doctor.,คุยกับคนขายยา
+M1100-2_option1_dialog,"Young man, can you help me collect Wolfberries?",พ่อหนุ่ม เจ้าช่วยรวบรวม เก๋ากี้ ให้ข้าทีได้ไหม?
+M1100-2_option1_1,I'll go collect <color=#c44b0e>Wolfberries</color> right away.,ข้าจะไปรวบรวม <color=#c44b0e>เก๋ากี้</color>เดี๋ยวนี้
+M1100-2_option1_2,"I really can't spare the time right now, let's talk about it later.",ตอนนี้ข้าไม่มีเวลา ค่อยมาคุยกันภายหลัง
+M1100-3_name,Snake Gall in Wine,สุราดองดีงู
+M1100-3_overview,Help the village butcher collect 5 Snake Galls.,ช่วยพ่อค้าเนื้อของหมู่บ้านรวบรวม ดีงู 5 ชิ้น
+M1100-3_overview2,Give the Snake Galls to the village butcher.,มอบ ดีงู ให้แก่พ่อค้าเนื้อของหมู่บ้าน
+M1100-3_option1_dialog,"(The butcher actually uses Snake Gall to make wine, this...)","(ที่จริงพ่อค้าเนื้อใช้ดีงูเพื่อทำสรุา, เรื่องนี้...)"
+M1100-3_option1_1,Snake Gall wine does have some benefits.<color=#097a76>(Medical reaches 30)</color>,สุราดองดีงูนี้มีสรรพคุณอยู่บ้าง <color=#097a76>(ทักษะทางแพทย์ระดับ 30)</color>
+M1100-3_option1_2,Snake Gall in wine... Can this be drunk?,สุราดองดีงู...ของแบบนี้ดื่มได้หรือ?
+M1100-3_option2_dialog,(Should I help the butcher collect Snake Galls?),(ข้าควรช่วยพ่อค้าเนื้อรวบรวมดีงูหรือไม่?)
+M1100-3_option2_1,"Alright, leave it to me.",ตกลง ให้ข้าจัดการเอง
+M1100-3_option2_2,I think it's better not to...,ข้าคิดว่าคงดีกว่าที่จะไม่...
+M1100-5_name,Doctor's Free Clinic,โรงหมอคนยาก
+M1100-5_overview,"The doctor can heal the team for free once, recovering all HP and MP.",หมอสามารถรักษาทั้งกลุ่มฟรีครั้งหนึ่ง ฟื้นฟูพลังทั้ง HP และ MP
+M1100-5_talk,Heal,รักษา
+M1100-5_option1,I'll count on you then.<color=#097a76>(1 shichen)</color>,เช่นนั้นขอฝากเจ้าด้วย <color=#097a76>(1 ชั่วยาม)</color>
+M1100-5_option2,"I feel quite healthy, no need to heal for now.",ข้ารู้สึกแข็งแรงดี มิจำเป็นต้องรักษาแล้ว
+M1100-5option1_dialog,Do you need me to help you regulate your Qi and blood?,อยากให้ข้าช่วยปรับลมปราณและกระแสโลหิตหรือไม่?
+M1100-11_name,Hide and Seek,เล่นซ่อนหา
+M1100-11_overview,Find 3 children.,ตามหาเด็ก 3 คน
+R20008-2_name,Xiao Bao's Secret,ความลับของเสี่ยวเป่า
+R20008-2_option（1）_dialog,"(He probably won't tell me his secret easily, should I listen to him?)",(เขาคงไม่เผยความลับต่อข้าโดยง่าย ข้าควรฟังข้าหรือไม่?)
+R20008-2_option1,"Of course, I want to know.",แน่นอน ข้าอยากรู้
+R20008-2_option2,I don't want to know.,ข้าไม่อยากรู้
+R20008-2_option3,"Alright, here you go.<color=#097a76>(Wooden sword x1)</color>",เอาล่ะ นี่ของเจ้า <color=#097a76>(กระบี่ไม้ x1) </color>
+R20008-2_option4,Let me think about it.,ข้าขอไตร่ตรองสักครู่
+R20008-2_overview1,Xiao Bao has something to tell you.,เสี่ยวเป่ามีเรื่องจะบอกท่าน
+R20008-2_overview2,Xiao Bao wants a Wooden sword.,เสี่ยวเป่า ต้องการ กระบี่ไม้
+R20008-2_overview3,Give the Wooden sword to Xiao Bao.,มอบ กระบี่ไม้ ให้ เสี่ยวเป่า
+M1100-17_option1_dialog,"Want to learn Medical? Alright, kid, name a few medicinal herbs and their effects first.",อยากเรียนวิชาแพทย์หรือ? ได้สิ เจ้าหนู ก่อนอื่นลองบอกชื่อสมุนไพรแล้วสรรพคุณมาให้ข้าฟังดู
+M1100-17_option1_1,"I've loved Medical since I was a child, this won't be a problem for me.<color=#097a76>(Medical reaches 30)</color>",ตัวข้าชมชอบวิชาแพทย์มานับแต่เด็ก เรื่องนี้ย่อมไม่เป็นปัญหา <color=#097a76>(วิชาแพทย์ถึง 30)</color>
+M1100-17_option1_2,Uh... I'm actually untrained in herbs.,เอ่อ... ที่จริงแล้ว ข้าไม่รู้อะไรเกี่ยวกับสมุนไพรเลย
+M1100-19_option1_dialog,What do you want to know?,เจ้าอยากรู้เรื่องอะไรล่ะ?
+M1100-19_option1_1,I want to understand the classification of martial arts.,ข้าอยากเข้าใจการแยกประเภทของวรยุทธ์
+M1100-19_option1_2,I want to know what to pay attention to during a fight.,ข้าอยากรู้ว่าในยามต่อสู้ เราต้องใส่ใจในสิ่งใด
+M1100-19_option1_3,How do I distinguish different fighting styles?,ข้าจะแยกแยะรูปแบบการต่อสู้ได้อย่างไร
+M1100-19_option1_4,I have no more questions.,ข้าไม่มีคำถามอื่นใดอีกแล้ว
+M1100-24_option1_dialog,How much strength do you want me to use?,อยากให้ข้าใช้พลังกี่ส่วนดีล่ะ?
+M1100-24_option1_1,I want to challenge you at three-tenths of your strength!<color=#097a76>(Solo challenge)</color>,ข้าอยากประลองกับท่านที่ใช้พลังสามส่วน!<color=#097a76>(ประลองเดี่ยว)</color>
+M1100-24_option1_2,I want to challenge you at half of your strength!<color=#097a76>(Solo challenge)</color>,ข้าอยากประลองกับท่านที่ใช้พลังห้าส่วน!<color=#097a76>(ประลองเดี่ยว)</color>
+M1100-24_option1_3,I want to challenge you at seven-tenths of your strength!<color=#097a76>(Solo challenge)</color>,ข้าอยากประลองกับท่านที่ใช้พลังเจ็ดส่วน!<color=#097a76>(ประลองเดี่ยว)</color>
+M1100-24_option1_4,I want to challenge you at full strength!<color=#097a76>(Solo challenge)</color>,ข้าอยากประลองกับท่านแบบไม่ออมมือ!<color=#097a76>(ประลองเดี่ยว)</color>
+M1100-24_option1_5,I'll prepare and come back to request.,ข้าจะไปเตรียมพร้อมแล้วกลับไปทำภารกิจ
+M1104-1_name,Village Head's Gift,ของขวัญของผู้ใหญ่บ้าน
+M1104-1_overview1,Go talk to the Nameless village Village Head.,ไปคุยกับหัวหน้าหมู่บ้านไร้นาม
+M1104-1_overview2,Search for the Secret chamber in the Village head's house.,ค้นหาห้องลับในบ้านของหัวหน้าหมู่บ้าน
+M1104-1_overview3,Open the Panlong Chest in the Secret chamber.,เปิดหีบสมบัติมังกรในห้องลับ
+M1105-2_name,Forge Weapon,หลอมสร้างอาวุธ
+M1105-2_talking,Craft,สร้าง
+M1105-2_overview1,"After learning the recipe in your bag, use 2 Iron mines to forge a Cast iron sword.",หลังจากเรียนรู้สูตรในกระเป๋า ใช้ 2 แร่เหล็ก เพื่อหลอม กระบี่หลอมโลหะ
+M1105-2_overview2,Talk to the blacksmith with the <color=#c44b0e>Cast iron sword</color> in hand.,คุยกับช่างตีเหล็กขณะที่ถือ<color=#c44b0e>กระบี่หล่อโลหะ</color>
+M1400-1_name,Lingzhi under the Tree,เห็ดหลินจืออยู่ใต้ต้นไม้
+M1400-1_overview,A Lingzhi is hidden under a pink-leafed tree in the Lost Forest.,เห็ดหลินจอซ่อนอยู่ใต้ต้นใบชมพูในป่าสาบสูญ
+M1700-1_name,Ferry across the River,ข้ามแม่น้ำด้วยเรือข้ามฝาก
+M1700-1_options1,[Pay] Pay 50 Wen to cross the river.,[จ่าย] จ่าย 50 อีแปะเพื่อข้ามแม่น้ำ
+M1700-1_options2,[Pay] Pay 400 Wen to cross the river. (2 people in your party),[จ่าย] จ่าย 400 อีแปะเพื่อข้ามแม่น้ำ (กลุ่มของท่านมี 2 คน)
+M1700-1_options3,[Pay] Pay 600 Wen to cross the river. (3 people in your party),[จ่าย] จ่าย 600 อีแปะเพื่อข้ามแม่น้ำ (กลุ่มของท่านมี 3 คน)
+M1700-1_options4,[Pay] Pay 800 Wen to cross the river. (4 people in your party),[จ่าย] จ่าย 800 อีแปะเพื่อข้ามแม่น้ำ (กลุ่มของท่านมี 4 คน)
+M1700-1_options5,[Pay] Pay 1 Guan to cross the river. (5 people in your party),[จ่าย] จ่าย 1 ตำลึง เพื่อข้ามแม่น้ำ (มีเพื่อน 5 คนในกลุ่ม)
+M1700-1_options6,[Pay] Pay 1 Guan and 200 Wen to cross the river. (6 people in your party),[จ่าย] จ่าย 1 ตำลึง 200 อีแปะ เพื่อข้ามแม่น้ำ (กลุ่มของท่านมี 6 คน)
+M1700-1_options7,[Run away] Don't cross the river for now.,[วิ่งหนี] ไม่ข้ามแม่น้ำตอนนี้
+End001_name,Supreme Dominance,อำนาจสูงสุด
+End001_overview,"Eliminate the Confucius Temple, Shifa Temple, Taoist Sect, and Nine Factions Sect.",กวาดล้าง วัดขงจื๊อ อารามฉีฟา สำนักเต๋า และนิกายเก้าฝ่าย
+End002_name,Leader of the Martial World,ประมุขยุทธภพ
+End002_overview,"Relations with Confucius Temple, Shifa Temple, Taoist Sect, and Nine Factions Sect reach Worship.",ความสัมพันธ์กับ วัดขงจื๊อ อารามฉีฟา สำนักเต๋า และนิกายเก้าฝ่ายถึงระดับ เคารพบูชา
+End003_name,Great Hero,จอมยุทธ์ผู้ยิ่งใหญ่
+End003_overview,"Benevolence, Righteousness, Propriety, Wisdom, Faith, and Courage reach 100, main character reaches level 50.",ศีลธรรม คุณธรรม มารยาท ภูมิปัญญา ซื่อสัตย์ และกล้าหาญถึง 100 ตัวละครหลักถึงระดับ 50
+M2072-1_name,Longquan Sword Test,งานชุมนุมวิจารณ์กระบี่หลงฉวน
+M2072-1_overview,Participate in the Longquan Sword Test Tournament at the Sword Test Platform near the Sword Manor.,เข้าร่วมงานชุมนุมวิจารณ์กระบี่หลงฉวนที่งานลานประลองทดสอบกระบี่ของเคหะกระบี่
+M2072-2_name,Dragonfly Shakes the Big Tree,แมลงปอเขย่าต้นไม้ใหญ่
+M2072-2_overview,Go to the Sword Test Platform to see what the people from Dragonfly City are up to.,ไปที่ลานประลองทดสอบกระบี่เพื่อดูว่าคนจากเมืองแมลงปอต้องการอะไร
+1001_name,——,——
+1001_overview,——,——
+1002_name,Find a way to make money.,หาวิธีหาเงิน
+1002_overview,Save up 1000 Wen as soon as possible.,เก็บเงินให้ได้ 1000 อีแปะโดยเร็วที่สุด
+1002_1_name,Save money to pay off debts,เก็บเงินเพื่อชำระหนี้
+1002_1_overview,Find the <color=#c44b0e>innkeeper</color> to redeem your belongings.,ตามหา<color=#c44b0e>เถ้าแก่</color> เพื่อรับของคืน
+1002_1_options01_01,[Pay] Help the innkeeper pay <color=#c44b0e>1000 Wen</color>.,[จ่าย] ช่วยเถ้าแก่จ่ายเงิน <color=#c44b0e>1000 อีแปะ</color>
+1002_1_options01_02,[Fight] Drive away this unreasonable guy.,[ต่อสู้] ขับไล่คนไร้เหตุผล
+1002_1_options01_03,[Silence] Keep a low profile to stay safe.,[เงียบไว้] ทำตัวสงบเสงี่ยมจะได้ปลอดภัย
+1002_2_name,Save money to pay off debts (not displayed),เก็บเงินเพื่อชำระหนี้ (ไม่แสดง)
+1002_2_overview,Not enough money to face the innkeeper.,มีเงินไม่พอจะพบหน้าเถ้าแก่
+1002_3_name,Escape from the fight (not displayed),หนีจากการต่อสู้ (ไม่แสดง)
+1002_3_overview,Being ridiculed by the innkeeper.,ถูกเถ้าแก่เยาะเย้ย
+1003_name,Retrieve the jewelry box,รับกล่องอัญมณีคืน
+1003_overview,Run away from the inn and catch up with the sleazy middle-aged man,หนีจากโรงเตี๊ยม และไล่ตามชายวัยกลางคนสกปรก
+1003-A_name,Retrieve the jewelry box,รับกล่องอัญมณีคืน
+1003-A_overview,"Found the sleazy man lingering under a big tree outside the bandit camp, not knowing what he's doing",พบชายสกปรกนอนอยู่ใต้ต้นไม้ใหญ่นอกค่ายโจรไม่รู้ว่ากำลังทำอะไรอยู่
+1003-A_options01_01,[Fight] Go and ask for the jewelry box,[ต่อสู้] เข้าไปถามถึงกล่องอัญมณี
+1003-A_options01_02,[Silence] Wait and see,[เงียบ] รอดู
+1003-B_name,Retrieve the jewelry box,นำกล่องอัญมณีกลับมา
+1003-B_overview,"Didn't catch up with the sleazy man, he probably has entered the Blue Wind Camp",ตามชายสกปรกไม่ทัน เขาคงได้เข้าสู่ค่ายวายุครามแล้ว
+1003-C_name,Retrieve the jewelry box,นำกล่องอัญมณีกลับมา
+1003-C_overview,Return the retrieved jewelry box to the innkeeper,คืนกล่องอัญมณีให้กับเถ้าแก่
+1003-D_name,Search for someone in Blue Wind Camp,ตามหาคนผู้หนึ่งในค่ายวายุคราม
+1003-D_overview,Enter Blue Wind Camp to find the sleazy man and get back the jewelry box,ไปยังค่ายวายุคราม ตามหาชายสกปรก และนำกล่องอัญมณีกลับมา
+1004_name,Show off your martial arts,แสดงวิทยายุทธ
+1004_overview,
+1004_options01_01,[Fight] Drive away the guys from Blue Wind Camp,[ต่อสู้] ขับไล่คนจากค่ายวายุคราม
+1004_options01_02,[Silence] Better not to draw attention,[เงียบไว้] ไม่เป็นจุดสนใจจะดีกว่า
+1004-A_name,Prepare for the battle,เตรียมตัวต่อสู้
+1004-A_overview,"The people from Blue Wind Camp threatened to trouble Nameless village in a day, need to improve strength as soon as possible",คนจากค่ายวายุครามขู่ว่าจะสร้างปัญหาให้กับหมู่บ้านไร้นามในวันหน้า จำเป็นต้องเพิ่มความแข็งแกร่งโดยเร็วที่สุด
+1005_name,"Tong Daofu came to the village, he destroyed the village",ถงเต๋าฟู่ มาที่หมู่บ้าน เขาถล่มหมู่บ้านไปแล้ว
+1005_overview,
+1006_name,"Tong Daofu came to the village, he didn't destroy the village",ถงเต๋าฟู่ มาที่หมู่บ้าน เขาไม่ได้ทำอะไรกับหมู่บ้านเลย
+1006_overview,
+1007_name,Ferry to Lin'an,ท่าเรือสู่หลินอัน
+1007_overview,
+1007_options01_01,[Take the boat] I want to go to Lin'an City,[ขึ้นเรือ] ข้าอยากไปเมืองหลินอัน
+1007_options01_02,"[Say goodbye] Wait a minute, I have something else to deal with",[บอกลา] รอสักครู่ ข้ามีบางอย่างต้องไปจัดการ
+2001_name,Vacant,ว่างเปล่า
+2001_overview,Vacant,ว่างเปล่า
+2001_options01_01,Vacant,ว่างเปล่า
+2001_options01_02,Vacant,ว่างเปล่า
+M1301-1_name,Siege of the Dilapidated Temple,ปิดล้อมศาลเจ้าร้าง
+M1301-1_overview,
+M1301-1_option（1）_dialog,"The uncle in the village seems to be surrounded by enemies, what should I do?",ลุงในหมู่บ้านดูเหมือนจะถูกศัตรูรายล้อม ข้าควรทำอย่างไร?
+M1301-1_option（2）_dialog,"(This is a golden opportunity, what should I ask for?)",(โอกาสทองเช่นนี้ ข้าควรขอสิ่งใดดี?)
+M1301-1_option（3）_dialog,I want to choose...,ข้าขอเลือก...
+M1301-1_options01_01,Help the down-and-out martial artist <color=#097a76>(Fight to the death)</color>,ช่วยนักศิลปะการต่อสู้ที่หมดหวัง <color=#097a76>(สู้ตาย)</color>
+M1301-1_options01_02,"Better to avoid trouble, it's best to leave",ไม่เอาดีกว่า เดี๋ยวเกิดเรื่องขึ้นมาจะเดือดร้อนเปล่าๆ
+M1301-1_options02_01,"Help in emergency, sponsor some living expenses",ช่วยเหลือฉุกเฉิน สนับสนุนค่าครองชีพบางส่วน
+M1301-1_options02_02,Why don't you teach me some self-defense moves,ทำไมเจ้าไม่สอนท่าป้องกันตัวให้ข้าบ้าง
+M1301-1_options02_03,Give me a weapon as a souvenir,มอบอาวุธให้ข้าเป็นของที่ระลึก
+M1301-1_options02_04,How can I covet wealth when helping others?,ข้าจะโลภความมั่งคั่งเมื่อช่วยเหลือผู้อื่นได้อย่างไร?
+M1301-1_options03_01,Hand-to-hand combat skills,ทักษะการต่อสู้แบบประชิดตัว
+M1301-1_options03_02,Swordsmanship,วิชากระบี่
+M1301-1_options03_03,Knife dancing skills,ทักษะระบำมีด
+M1301-1_options03_04,Spear and stick skills,ทักษะหอกและไม้เท้า
+M1301-1_options04_01,A pair of Gloves,ถุงมือคู่หนึ่ง
+M1301-1_options04_02,A long sword,กระบี่ยาว
+M1301-1_options04_03,A big knife,ดาบใหญ่
+M1301-1_options04_04,A stick,ไม้เท้า
+M1301-1_options05_01,Re-select,เลือกอีกครั้ง
+M1301-1_options05_02,No longer consider,ไม่พิจารณาอีกต่อไป
+2003_name,Nameless village is attacked by wild boars,หมู่บ้านไร้นามถูกหมูป่าโจมตี
+2004_name,Mysterious iron spearhead Open event,เปิดงานหัวหอกเหล็กลึกลับ
+2004_options1_1,Hand over the <color=#c44b0e>Burning blade wine</color>,ส่งมอบ<color=#c44b0e>สุราเผาดาบ</color>
+2004_1_name,Mysterious iron spearhead 1,หัวหอกเหล็กลึกลับ1
+2004_1_overview,Maybe the <color=#c44b0e>blacksmith</color> knows something,บางที<color=#c44b0e>ช่างตีเหล็ก</color>อาจจะรู้อะไรบางอย่าง
+2004_2_name,Mysterious iron spearhead 2,หัวหอกเหล็กลึกลับ2
+2004_2_overview,Give the blacksmith a bowl of <color=#c44b0e>Burning blade wine</color>.,มอบ <color=#c44b0e>สุราเผาดาบ</color> ให้กับช่างตีเหล็ก
+2005_name,Improve relations with Lost Forest,ปรับปรุงความสัมพันธ์กับป่าสาปสูญ
+2005_overview,Giving Lingzhi to the Wild Boar King might have unexpected effects,การให้เห็ดหลินจือแก่ราชาหมูป่าอาจมีผลที่ไม่คาดคิด
+2005_options1_3,Think about it again,ลองคิดดูอีกครั้ง
+2005_options1_2,Ignore it (<color=#c44b0e>irreversible</color>),ไม่ต้องสนใจมัน (<color=#c44b0e>ไม่สามารถย้อนกลับได้</color>)
+2005_options1_1,Hand over the <color=#c44b0e>Lingzhi</color>,ส่งมอบ<color=#c44b0e>เห็ดหลินจือ</color>
+2006_name,Improve relations with Wild Wolf Valley,ปรับปรุงความสัมพันธ์กับหุบเขาหมาป่า
+2006_overview,Giving 10 pieces of Wild boar meat to Wolf King Xiao Yue might have unexpected effects,การให้เนื้อหมูป่า 10 ชิ้นแก่ราชาหมาป่าเสี่ยวเยว่อาจมีผลที่ไม่คาดคิด
+2006_options1_3,Think about it again,คิดดูอีกครั้ง
+2006_options1_2,Ignore it (<color=#c44b0e>irreversible</color>),ไม่ต้องสนใจมัน (<color=#c44b0e>ไม่สามารถย้อนกลับได้</color>)
+2006_options1_1,Hand over <color=#c44b0e>10 pieces of Wild boar meat</color>,ส่งมอบ <color=#c44b0e>เนื้อหมูป่า 10 ชิ้น</color>
+2007_name,
+2007_overview,
+2007_overview_1,
+2008_name,Trouble in Lost Forest,ปัญหาในป่าสาปสูญ
+2008_overview,Head to the Lost Forest to deal with the <color=#c44b0e>Wild Boar King·Gang Lie</color> deep in the woods,มุ่งหน้าไปยังป่าสาบสูญเพื่อจัดการกับ <color=#c44b0e>ราชาหมูป่า กังเลี่ย</color> ที่อยู่ลึกเข้าไปในป่า
+2008_overview_1,Return to the village and tell <color=#c44b0e>Village Head</color> that Gang Lie has been dealt with,กลับไปที่หมู่บ้านแล้วบอก <color=#c44b0e>หัวหน้าหมู่บ้าน</color> ว่า กังเลี่ย ถูกจัดการแล้ว
+2008_detail,——,——
+2009_name,Rescue Liu Xiao Bao,ช่วยเหลือหลิวเสี่ยวเป่า
+2009_overview,Go to Blue Wind Camp to rescue Liu Xiao Bao,ไปที่ค่ายลมสีน้ำเงินเพื่อช่วยเหลือหลิวเสี่ยวเป่า
+2010_name,Sell Wild boar meat,ขายเนื้อหมูป่า
+2010_overview,
+2010_options01_01,Choose to sell for money,เลือกขายเพื่อเงิน
+2010_options01_02,Choose not to take money,เลือกที่จะไม่รับเงิน
+2010_options01_03,[Run away] Don't want to sell!,[หนี] ไม่อยากขาย!
+2011_name,News about Lingzhi,ข่าวเกี่ยวกับเห็ดหลินจือ
+2011_overview,Heard there's a Lingzhi under a special big tree in Lost Forest,ได้ยินมาว่ามีเห็ดหลินจืออยู่ใต้ต้นไม้ใหญ่พิเศษในป่าสาปสูญ
+2012_name,Village Head's Secret chamber,ห้องลับของหัวหน้าหมู่บ้าน
+2012_overview,"There's a Secret chamber in the Village head's house - Bedroom, use the Dragon key to open the Chest in the Secret chamber",มีห้องลับอยู่ในบ้านของหัวหน้าหมู่บ้าน ห้องนอน ใช้กุญแจมังกรเพื่อเปิดหีบในห้องลับ
+2013_name,Wolf King of the Wild Wolf Valley,ราชาหมาป่าแห่งหุบเขาหมาป่า
+2013_options1,Give the hunter the <color=#c44b0e>Wolf king fang</color>,มอบ <color=#c44b0e>เขี้ยวราชาหมาป่า</color> ให้กับนักล่า
+2013_options2,Don't give,อย่าให้
+2014_name,Xiao Bao's Wooden sword,กระบี่ไม้ของเสี่ยวเป่า
+2014_overview_1,"Xiao Bao admires you a lot, go have a chat with Xiao Bao",เสี่ยวเป่าชื่นชมคุณมาก ไปคุยกับเสี่ยวเป่าสิ
+2014_overview_2,Go see the Woodcutter and see if there's a solution,ไปพบคนตัดฟืนและดูว่ามีวิธีแก้ปัญหาหรือไม่
+2014_overview_3,Find a piece of <color=#c44b0e>firewood</color> and give it to the Woodcutter,ค้นหา<color=#c44b0e>ฟืน</color>ชิ้นหนึ่งแล้วมอบให้คนตัดไม้
+2014_overview_4,Find the Woodcutter again later,ค้นหาคนตัดไม้อีกครั้งในภายหลัง
+2014_overview_5,Give the <color=#c44b0e>Wooden sword</color> to Xiao Bao,มอบ<color=#c44b0e>กระบี่ไม้</color>ให้กับเสี่ยวเป่า
+2015_name,Blacksmith's request,คำขอจากช่างตีเหล็ก
+2015_overview_1,Have a chat with the blacksmith,พูดคุยกับช่างตีเหล็ก
+2015_overview_2,Go to the <color=#c44b0e>village well</color> to fetch water,ไปที่<color=#c44b0e>บ่อน้ำของหมู่บ้าน</color>เพื่อตักน้ำ
+2015_overview_3,Give the fetched water to the blacksmith,มอบน้ำที่ได้มาให้กับช่างตีเหล็ก
+2016_name,Village Head's request,คำขอจากหัวหน้าหมู่บ้าน
+2016_overview_1,Village Head seems to have something to ask,หัวหน้าหมู่บ้านดูเหมือนมีเรื่องจะถาม
+2016_overview_2,Stay at the Village head's house until the Village Head returns,อยู่บ้านของหัวหน้าหมู่บ้านจนกว่าหัวหน้าหมู่บ้านจะกลับมา
+2016_options1,Gladly accept,ยอมรับด้วยความยินดี
+2016_options2,Politely decline,ปฏิเสธอย่างสุภาพ
+2016_options3,Wait a bit longer,รออีกสักหน่อย
+2016_options4,Decisively leave,ออกไปอย่างเด็ดเดี่ยว
+2016_3_options_1,Look around,มองไปรอบๆ
+2016_3_options_2,Wait patiently,รออย่างอดทน
+2016_3_options_3,Take a nap,งีบหลับสักครู่
+M1200-2_options_1,Eat and drink together!,กินดื่มไปพร้อมๆ กัน!
+M1200-2_options_2,Leave first due to other matters.,ออกไปก่อนเพราะเรื่องอื่น
+M1200-3_1_options_1,Join the Blue Wind Camp.,เข้าร่วมค่ายวายุคราม
+M1200-3_1_options_2,Force your way in.,บุกเข้าไปข้างใน
+M1200-3_4_options_1,Offer the Wolf king skin.<color=#097a76>(Wolf king skin)</color>,เสนอหนังราชาหมาป่า<color=#097a76>(หนังราชาหมาป่า)</color>
+M1200-3_4_options_2,Test of Strength.<color=#097a76>(Strength)</color>,ทดสอบพละกำลัง<color=#097a76>(พละกำลัง)</color>
+M1200-3_4_options_3,Test of combat.<color=#097a76>(Solo fight)</color>,ทดสอบการต่อสู้<color=#097a76>(ต่อสู้เดี่ยว)</color>
+M1200-4_name,Investigate <color=#c44b0e>Second in command</color>.,ตรวจสอบ <color=#c44b0e>ผู้บังคับบัญชาคนที่สอง</color>
+M1200-4_overview_1,Further improve relations with <color=#c44b0e>Leader</color>.,ปรับปรุงความสัมพันธ์กับ <color=#c44b0e>ผู้นำ</color> ให้ดียิ่งขึ้น
+M1200-4_overview_2,Check out the small path on the right side of the camp at night.,ลองสังเกตเส้นทางเล็กๆ ทางด้านขวาของค่ายในเวลากลางคืน
+M1200-5_name,Second in command's secret,ที่สองในความลับของคำสั่ง
+M1200-5_overview_1,Further improve relations with <color=#c44b0e>Second in command</color>.,ปรับปรุงความสัมพันธ์เพิ่มเติมด้วย <color=#c44b0e>ผู้บังคับบัญชาคนที่สอง</color>
+M1200-5_overview_2,Join forces with <color=#c44b0e>Second in command</color> to kill the Leader.,รวมพลังกับ <color=#c44b0e>ผู้บังคับบัญชาคนที่สอง</color> เพื่อสังหารผู้นำ
+M1200-5_overview_3,Chat with <color=#c44b0e>Second in command</color>.,แชทกับ <color=#c44b0e>ผู้บังคับบัญชาคนที่สอง</color>
+M1200-5_1_options_1,Agree with Second in command.,เห็นด้วยกับผู้บังคับบัญชาคนที่สอง
+M1200-5_1_options_2,Refuse Second in command.,ปฏิเสธผู้บังคับบัญชาคนที่สอง
+M1200-6_name,Discovered by the dog,ถูกค้นพบโดยสุนัข
+3001_name,First time going to Wild Wolf Valley from Hanging bridge,ครั้งแรกที่ไปหุบเขาหมาป่าจากสะพานแขวน
+3001_options01_01,[Item] Use a rope to climb down,[Item] ใช้เชือกปีนลงมา
+3001_options01_02,[Attribute] Use Qinggong to jump down,[คุณสมบัติ] ใช้วิชาตัวเบาเพื่อกระโดดลงมา
+3001_options01_03,"[Run away] Not interested, better to run away",[หนี] ไม่สนใจ หนีดีกว่า
+3002_name,Going to Wild Wolf Valley from Hanging bridge again,มุ่งหน้าสู่หุบเขาหมาป่าจากสะพานแขวนอีกครั้ง
+3003_name,Rescue the Woodcutter,ช่วยชีวิตคนตัดไม้
+3003_options1,Go to rescue,ไปช่วยเหลือ
+3003_options2,Ignore,ไม่สนใจ
+3004_name,Dog at the hunter's door,สุนัขที่ประตูนายพราน
+3005_name,Ask Bao Dating from Nameless village for information,ถามข้อมูลจากเปาต้าถิงแห่งหมู่บ้านไร้นาม
+3005_options1_1,Around Nameless village,รอบๆหมู่บ้านไร้นาม
+3005_options1_2,How to make money,วิธีหาเงิน
+3005_options1_3,Blue Wind Camp,ค่ายวายุคราม
+3005_options1_5,Say goodbye,กล่าวคำอำลา
+3005_options1_1(1),Wild Wolf Valley,หุบเขาหมาป่า
+3005_options1_1(2),Lost Forest,ป่าสาปสูญ
+3005_options1_1(3),"Never mind, I want to ask something else",ลืมไปเสียเถอะ ข้าเพียงอยากจะถามอีกเรื่อง
+3008_name,"Knowing that Tong Daofu destroyed Blue Wind Camp, go to scavenge.",เมื่อรู้ว่า ถงเต๋าฟู่ ทำลายค่ายวายุคราม ก็ไปเก็บกวาดงาน
+3008_options01_01,[Item] Feed him <color=#c44b0e>Lingzhi</color> for HP recovery,[Item] ป้อน <color=#c44b0e>เห็ดหลินจือ</color> แก่เขาเพื่อฟื้นฟู HP
+3008_options01_02,[Attribute] Use <color=#c44b0e>500MP</color> to heal him,[คุณสมบัติ] ใช้ <color=#c44b0e>500MP</color> เพื่อรักษาเขา
+3008_options01_03,"Helpless, can't do anything",หมดหนทางทำอะไรไม่ได้เลย
+M1400-3_name,Bandits in Lost Forest are surrounded by wild boars,โจรในป่าสาปสูญ ถูกรายล้อมไปด้วยหมูป่า
+M1400-3_options1_1,"I don't care about them, it's a good thing if these bandits die here!",ข้าไม่สนใจพวกมัน มันคงจะดีถ้าโจรพวกนี้ตายที่นี่!
+M1400-3_options1_2,"I can't just watch people die, I have to help.<color=#c44b0e>(Specific Battle)</color>",ข้าไม่สามารถดูคนตายได้ แต่ข้าต้องช่วย<color=#c44b0e>(เข้าสู่การต่อสู้)</color>
+3010_name,Abandoned Temple Fist,หมัดสิ้นรำลึกสถาน
+3011_name,Read the Sword Tombstone,อ่านป้ายสุสานกระบี่
+3011_options1_1,Try to read the tombstone,ลองอ่านป้ายสุสานดู
+3011_options2_1,Worship and bow,กราบไหว้และกราบ
+3011_options2_2,Nothing special,ไม่มีอะไรพิเศษ
+3014_name,Boatman refuses to ferry,คนพายเรือไม่ยอมขึ้นเรือข้ามฟาก
+3015_name,First time climbing vines in Wild Wolf Valley,ครั้งแรกกับการปีนเถาวัลย์ในหุบเขาหมาป่า
+3015_options01_01,[Climb] Climb the vine to get out,[ปีน] ปีนเถาวัลย์เพื่อออกไป
+3015_options01_02,[Stay] There are things to be resolved here,[อยู่] มีหลายสิ่งที่ต้องแก้ไขที่นี่
+3016_name,Climbing vines in Wild Wolf Valley again,ปีนเถาวัลย์ใน หุบเขาหมาป่า อีกครั้ง
+3017_name,Monster hunting in Lost Forest,การล่าสัตว์ประหลาดในป่าสาปสูญ
+3017_options1,Continue Info,ข้อมูลต่อ
+3017_options2,Run away quickly,รีบหนีไปซะ
+3018_name,Monster hunting in Lost Forest,การล่าสัตว์ประหลาดในป่าสาปสูญ
+3018_options1,Continue Info,ข้อมูลต่อ
+3018_options2,Run away quickly,รีบหนีไปซะ
+3019_name,"Start the plot, gossip with the farmer outside the door",เริ่มโครงเรื่อง ซุบซิบกับชาวนานอกประตู
+3020_name,Ask the farmer where to get vegetables to sell,ถามชาวนาว่าจะไปขายผักที่ไหน
+3021_name,Ask the butcher where to get meat to sell,ถามคนขายเนื้อว่าจะไปขายเนื้อที่ไหน
+3022_name,Ask Void about his origin,ถามความว่างเปล่าเกี่ยวกับต้นกำเนิดของเขา
+3023_name,"Ask the woman about making money, she refuses to tell",ถามนางเรื่องหาเงิน นางไม่ยอมปริปาก
+3024_name,The woman tells you there are Lingzhi under the big tree in Lost Forest,ผู้หญิงคนนั้นบอกคุณว่ามีเห็ดหลินจืออยู่ใต้ต้นไม้ใหญ่ในป่าสาปสูญ
+3025_name,"Scolded for being idle, despising knights",ถูกดุว่าเกียจคร้านและดูหมิ่นอัศวิน
+3026_name,Complain about the Iron Ban,ร้องทุกข์ต่อกฎเหล็กที่ไม่เป็นธรรม
+3027_name,Scold the protagonist for giving Xiao Bao a Wooden sword,ดุตัวเอกที่มอบกระบี่ไม้ให้กับเสี่ยวเป่า
+M1500-1_name,Treasure in Wild Wolf Valley,สมบัติในหุบเขาหมาป่า
+M1500-1_overview_1,Go to the withered tree in <color=#c44b0e>Wild Wolf Valley</color> for Info,ไปที่ต้นไม้เหี่ยวใน <color=#c44b0e>หุบเขาหมาป่า</color> เพื่อดูข้อมูล
+3029_name,Eliminate Blue Wind Camp,กำจัดค่ายวายุคราม
+3030_name,Enter Lost Forest Level reminder event,เข้าร่วมกิจกรรมเตือนความจำระดับป่าสาปสูญ
+3030_1_options_1,Not going for now,ไม่ได้ไปตอนนี้
+3030_1_options_2,Insist on going,ยืนกรานที่จะไป
+4001_name,Void begging for alms,ขอทานเป็นความว่าเปล่า
+4001_options01_1,[Item] Choose to give five pancakes,[รายการ] เลือกให้แพนเค้กห้าชิ้น
+4001_options01_2,[Item] Choose to give five bowls of Pork soup,[รายการ] เลือกให้ซุปหมูห้าชาม
+4001_options01_3,[Run away] Excuse yourself and run away,[วิ่งหนี] ขอโทษแล้ววิ่งหนีไป
+4002_name,Sandalwood prayer beads,ลูกประคำไม้จันทน์
+4002_options01_1,[Item] Agree to give Sandalwood prayer beads to Void,[Item] ตกลงที่จะมอบลูกประคำไม้จันทน์ให้กับความว่างเปล่า
+4002_options01_2,[Refuse] Refuse to give Sandalwood prayer beads,[ปฏิเสธ] ปฏิเสธที่จะให้ลูกประคำไม้จันทน์
+4005_name,Ye Yinping's obsession,ความหลงไหลของเย่หยินผิง
+4005_options01_1,Exchange with martial arts Manual,แลกเปลี่ยนกับคู่มือศิลปะการต่อสู้
+4005_options01_2,Invite Ye Yinping to join your party,ชักชวน เย่หยินผิง เข้าร่วมกลุ่มกับท่าน
+4005_options01_3,Give it to Ye Yinping without any conditions,มอบให้ เย่หยินผิง โดยไม่มีเงื่อนไขใด ๆ
+4005_options01_4,Not planning to transfer,ไม่คิดจะโอน
+4010_name,Block the way,ขวางทางไว้
+4010_overview,
+4010_options01_01,[Battle] Fight for Ye Yinping,[ต่อสู้] สู้เพื่อเย่หยินผิง
+4010_options01_02,"[Silence] This is a private matter, it's not appropriate to interfere",[ความเงียบ] นี่เป็นเรื่องส่วนตัว ไม่เหมาะสมที่จะเข้าไปยุ่ง
+2013_overview_1,Go to Wild Wolf Valley to kill the <color=#c44b0e>Wolf King</color> with the hunter,ไปที่หุบเขาหมาป่าเพื่อสังหาร <color=#c44b0e>ราชาหมาป่า</color> พร้อมกับนักล่า
+2013_overview_2,"After improving your strength, go to Wild Wolf Valley to kill the <color=#c44b0e>Wolf King</color> with the hunter",หลังจากปรับปรุงความแข็งแกร่งของคุณแล้ว ไปที่หุบเขาหมาป่าเพื่อสังหาร <color=#c44b0e>ราชาหมาป่า</color> พร้อมกับนักล่า
+2013_overview_3,The hunter seems to have something to say to you,ดูเหมือนว่านายพรานจะมีอะไรบางอย่างจะพูดกับท่าน
+2013_overview_4,Meet the hunter at the Hanging bridge outside the village,พบกับนักล่าที่สะพานแขวนนอกหมู่บ้าน
+3005_options1_4,Stay at the inn (50 coins),พักที่โรงเตี๊ยม (50 อีแปะ)
+3031_name,Talk to the butcher,คุยกับคนขายเนื้อ
+3031_overview,"Collected enough meat, go talk to the butcher",รวบรวมเนื้อได้เพียงพอแล้วไปคุยกับคนขายเนื้อ
+3032_name,Talk to the hunter,พูดคุยกับนายพราน
+3032_overview,"Collected enough skins, go talk to the hunter",รวบรวมหนังให้ครบ แล้วไปคุยกับนายพราน
+10001_option1,Improve Relations (Spend 1000 coins to improve 10 points of power Relations),"ปรับปรุงความสัมพันธ์ (ใช้ 1,000 อีแปะเพื่อปรับปรุงความสัมพันธ์เชิงอำนาจ 10 คะแนน)"
+10001_option2,Repair Relations (Spend 2000 coins to improve 10 points of power Relations),"ซ่อมแซมความสัมพันธ์ (ใช้ 2,000 อีแปะเพื่อปรับปรุงความสัมพันธ์ด้านอำนาจ 10 คะแนน)"
+10001_option3,Come to visit,มาเยี่ยมชม
+10001_option4,Force your way in (Battle will occur),บุกเข้าไปข้างใน (เข้าสู่การต่อสู้)
+10001_option5,"Nothing to do, run away",ไม่มีอะไรทำ หนีไปซะ
+10001_option6,Eliminate the sect,กำจัดนิกาย
+10100_option1_1,Ease Relations (Need to reach 50 Relations with Chai Wangsun),ความสัมพันธ์ที่ง่ายดาย (ต้องถึง 50 ความสัมพันธ์กับไฉหวังชุน)
+10100_option1_2,"Nothing to do, run away",ไม่มีอะไรทำ หนีไปซะ
+10100_1option2_1,Ease Relations with <color=#c44b0e>Taoist Sect</color> (Spend 2 strings of coins),กระชับความสัมพันธ์กับ <color=#c44b0e>สำนักเต๋า</color> (ใช้ 2000 อีแปะ)
+10100_1option2_2,Ease Relations with <color=#c44b0e>Shifa Temple</color> (Spend 2 strings of coins),กระชับความสัมพันธ์กับ <color=#c44b0e>วัดฉีฟา</color> (ใช้ 2000 อีแปะ)
+10100_1option2_3,Improve relations with <color=#c44b0e>Confucius Temple</color> (Costs 2 coins),ปรับปรุงความสัมพันธ์กับ <color=#c44b0e>วัดขงจื้อ</color> (ราคา 2 ตำลึง)
+10100_1option2_4,Improve relations with <color=#c44b0e>Nine Factions Sect</color> (Costs 2 coins),ปรับปรุงความสัมพันธ์กับ <color=#c44b0e>นิกายเก้าฝ่าย</color> (ราคา 2 ตำลึง)
+10100_1option2_5,Improve relations with <color=#c44b0e>Ye Family Battalion</color> (Costs 2 coins),ปรับปรุงความสัมพันธ์กับ <color=#c44b0e>กองพันตระกูลเย่</color> (ราคา 2 ตำลึง)
+10100_1option2_6,Improve relations with <color=#c44b0e>Yelv Army</color> (Costs 2 coins),ปรับปรุงความสัมพันธ์กับ <color=#c44b0e>กองทัพเย่ลู่</color> (ราคา 2 ตำลึง)
+10100_1option2_7,Improve relations with <color=#c44b0e>Jiujiang Fotress</color> (Costs 2 coins),ปรับปรุงความสัมพันธ์กับ <color=#c44b0e>ค่ายน้ำจิ่วเจียง</color> (ราคา 2 กำลัง)
+10100_1option2_8,Improve relations with <color=#c44b0e>Linlang Academy</color> (Costs 2 coins),ปรับปรุงความสัมพันธ์กับ <color=#c44b0e>สถาบันหลินหลาง</color> (ราคา 2 ตำลึง)
+10100_1option2_9,Improve relations with <color=#c44b0e>Sword Mountain Villa</color> (Costs 2 coins),ปรับปรุงความสัมพันธ์กับ <color=#c44b0e>คฤหาสน์ภูเขากระบี่</color> (ราคา 2 ตำลึง)
+10100_1option2_10,"Nothing to do, run away",ไม่มีอะไรทำ หนีไปซะ
+10101_opotion1,Sign up for competition,ลงทะเบียนเข้าร่วมการแข่งขัน
+10101_opotion2,Think about it again,คิดดูอีกครั้ง
+10102_opotion1,Sign up for competition (200 coins),ลงทะเบียนเข้าร่วมการแข่งขัน (200 อีแปะ)
+10102_opotion2,Think about it again,คิดดูอีกครั้ง
+10200_option_1,Recover team's <color=#c44b0e>HP</color> (200 coins),กู้คืน <color=#c44b0e>HP</color> ของทีม (200 อีแปะ)
+10200_option_2,Recover team's <color=#c44b0e>MP</color> (200 coins),กู้คืน <color=#c44b0e>MP</color> ของทีม (200 อีแปะ)
+10200_option_3,Remove team's <color=#c44b0e>serious injuries</color> (400 coins),ลบ<color=#c44b0e>การบาดเจ็บสาหัส</color>ของทีมออก (400 อีแปะ)
+10200_option_4,Remove team's <color=#c44b0e>near-death status</color> (600 coins),ลบ<color=#c44b0e>สถานะใกล้ตาย</color>ของทีมออก (600 อีแปะ)
+10200_option_5,Remove other abnormalities (200 coins),ลบความผิดปกติอื่นๆ (200 อีแปะ)
+10200_option_6,"Nothing to do, run away",ไม่มีอะไรทำ หนีไปซะ
+10200_option_7,Remove team's <color=#c44b0e>blindness</color> (200 coins),ลบ<color=#c44b0e>ตาบอด</color>ของทีม (200 อีแปะ)
+10200_option_8,Remove team's <color=#c44b0e>broken bones</color> (200 coins),ลบ<color=#c44b0e>กระดูกหัก</color>ของทีมออก (200 อีแปะ)
+10200_option_9,Remove team's <color=#c44b0e>poison sores</color> (200 coins),ลบ<color=#c44b0e>แผลพิษ</color>ของทีม (200 อีแปะ)
+10200_option_10,Remove team's <color=#c44b0e>confusion</color> (200 coins),ลบ<color=#c44b0e>ความสับสน</color>ของทีม (200 อีแปะ)
+10200_option_11,Remove team's <color=#c44b0e>blood loss</color> (200 coins),ลบ<color=#c44b0e>การสูญเสียเลือด</color>ของทีมออก (200 อีแปะ)
+10200_option_1a,Recover team's <color=#c44b0e>HP</color> (400 coins),กู้คืน <color=#c44b0e>HP</color> ของทีม (400 อีแปะ)
+10200_option_2a,Recover team's <color=#c44b0e>MP</color> (400 coins),กู้คืน <color=#c44b0e>MP</color> ของทีม (400 อีแปะ)
+10200_option_3a,Remove team's <color=#c44b0e>serious injuries</color> (800 coins),ลบ<color=#c44b0e>การบาดเจ็บสาหัส</color>ของทีมออก (800 อีแปะ)
+10200_option_4a,Remove team's <color=#c44b0e>near-death status</color> (1200 coins),ลบ<color=#c44b0e>สถานะใกล้ตาย</color>ของทีมออก (1200 อีแปะ)
+10200_option_5a,Remove other abnormalities (400 coins),ลบความผิดปกติอื่นๆ (400 อีแปะ)
+10200_option_6a,"Nothing to do, run away",ไม่มีอะไรทำ หนีไปซะ
+10200_option_7a,Remove team's <color=#c44b0e>blindness</color> (400 coins),ลบ<color=#c44b0e>ตาบอด</color>ของทีม (400 อีแปะ)
+10200_option_8a,Remove team's <color=#c44b0e>broken bones</color> (400 coins),ลบ<color=#c44b0e>กระดูกหัก</color>ของทีมออก (400 อีแปะ)
+10200_option_9a,Remove team's <color=#c44b0e>poison sores</color> (400 coins),ลบ<color=#c44b0e>แผลพิษ</color>ของทีม (400 อีแปะ)
+10200_option_10a,Remove team's <color=#c44b0e>confusion</color> (400 coins),ลบ<color=#c44b0e>ความสับสน</color>ของทีม (400 อีแปะ)
+10200_option_11a,Remove team's <color=#c44b0e>blood loss</color> (400 coins),ลบ<color=#c44b0e>การสูญเสียเลือด</color>ของทีมออก (400 อีแปะ)
+10201_option_1,Recover team's <color=#c44b0e>HP</color> (200 coins),กู้คืน <color=#c44b0e>HP</color> ของทีม (200 อีแปะ)
+10201_option_2,Recover team's <color=#c44b0e>MP</color> (200 coins),กู้คืน <color=#c44b0e>MP</color> ของทีม (200 อีแปะ)
+10201_option_3,Remove team's <color=#c44b0e>serious injuries</color> (400 coins),ลบ<color=#c44b0e>การบาดเจ็บสาหัส</color>ของทีมออก (400 อีแปะ)
+10201_option_4,Remove team's <color=#c44b0e>near-death status</color> (600 coins),ลบ<color=#c44b0e>สถานะใกล้ตาย</color>ของทีมออก (600 อีแปะ)
+10201_option_5,Remove other abnormalities (200 coins),ลบความผิดปกติอื่นๆ (200 อีแปะ)
+10201_option_6,"Nothing to do, run away",ไม่มีอะไรทำ หนีไปซะ
+10201_option_7,Remove team's <color=#c44b0e>blindness</color> (200 coins),ลบ<color=#c44b0e>ตาบอด</color>ของทีม (200 อีแปะ)
+10201_option_8,Remove team's <color=#c44b0e>broken bones</color> (200 coins),ลบ<color=#c44b0e>กระดูกหัก</color>ของทีมออก (200 อีแปะ)
+10201_option_9,Remove team's <color=#c44b0e>poison sores</color> (200 coins),ลบ<color=#c44b0e>แผลพิษ</color>ของทีม (200 อีแปะ)
+10201_option_10,Remove team's <color=#c44b0e>confusion</color> (200 coins),ลบ<color=#c44b0e>ความสับสน</color>ของทีม (200 อีแปะ)
+10201_option_11,Remove team's <color=#c44b0e>blood loss</color> (200 coins),ลบ<color=#c44b0e>การสูญเสียเลือด</color>ของทีมออก (200 อีแปะ)
+10201_option_1a,Recover team's <color=#c44b0e>HP</color> (400 coins),กู้คืน <color=#c44b0e>HP</color> ของทีม (400 อีแปะ)
+10201_option_2a,Recover team's <color=#c44b0e>MP</color> (400 coins),กู้คืน <color=#c44b0e>MP</color> ของทีม (400 อีแปะ)
+10201_option_3a,Remove team's <color=#c44b0e>serious injuries</color> (800 coins),ลบ<color=#c44b0e>การบาดเจ็บสาหัส</color>ของทีมออก (800 อีแปะ)
+10201_option_4a,Remove team's <color=#c44b0e>near-death status</color> (1200 coins),ลบ<color=#c44b0e>สถานะใกล้ตาย</color>ของทีมออก (1200 อีแปะ)
+10201_option_5a,Remove other abnormalities (400 coins),ลบความผิดปกติอื่นๆ (400 อีแปะ)
+10201_option_6a,"Nothing to do, run away",ไม่มีอะไรทำ หนีไปซะ
+10201_option_7a,Remove team's <color=#c44b0e>blindness</color> (400 coins),ลบ<color=#c44b0e>ตาบอด</color>ของทีม (400 อีแปะ)
+10201_option_8a,Remove team's <color=#c44b0e>broken bones</color> (400 coins),ลบ<color=#c44b0e>กระดูกหัก</color>ของทีมออก (400 อีแปะ)
+10201_option_9a,Remove team's <color=#c44b0e>poison sores</color> (400 coins),ลบ<color=#c44b0e>แผลพิษ</color>ของทีม (400 อีแปะ)
+10201_option_10a,Remove team's <color=#c44b0e>confusion</color> (400 coins),ลบ<color=#c44b0e>ความสับสน</color>ของทีม (400 อีแปะ)
+10201_option_11a,Remove team's <color=#c44b0e>blood loss</color> (400 coins),ลบ<color=#c44b0e>การสูญเสียเลือด</color>ของทีมออก (400 อีแปะ)
+10202_option_1,Recover team's <color=#c44b0e>HP</color> (200 coins),กู้คืน <color=#c44b0e>HP</color> ของทีม (200 อีแปะ)
+10202_option_2,Recover team's <color=#c44b0e>MP</color> (200 coins),กู้คืน <color=#c44b0e>MP</color> ของทีม (200 อีแปะ)
+10202_option_3,Remove team's <color=#c44b0e>serious injuries</color> (400 coins),ลบ<color=#c44b0e>การบาดเจ็บสาหัส</color>ของทีมออก (400 อีแปะ)
+10202_option_4,Remove team's <color=#c44b0e>near-death status</color> (600 coins),ลบ<color=#c44b0e>สถานะใกล้ตาย</color>ของทีมออก (600 อีแปะ)
+10202_option_5,Remove other abnormalities (200 coins),ลบความผิดปกติอื่นๆ (200 อีแปะ)
+10202_option_6,"Nothing to do, run away",ไม่มีอะไรทำ หนีไปซะ
+10202_option_7,Remove team's <color=#c44b0e>blindness</color> (200 coins),ลบ<color=#c44b0e>ตาบอด</color>ของทีม (200 อีแปะ)
+10202_option_8,Remove team's <color=#c44b0e>broken bones</color> (200 coins),ลบ<color=#c44b0e>กระดูกหัก</color>ของทีมออก (200 อีแปะ)
+10202_option_9,Remove team's <color=#c44b0e>poison sores</color> (200 coins),ลบ<color=#c44b0e>แผลพิษ</color>ของทีม (200 อีแปะ)
+10202_option_10,Remove team's <color=#c44b0e>confusion</color> (200 coins),ลบ<color=#c44b0e>ความสับสน</color>ของทีม (200 อีแปะ)
+10202_option_11,Remove team's <color=#c44b0e>blood loss</color> (200 coins),ลบ<color=#c44b0e>การสูญเสียเลือด</color>ของทีมออก (200 อีแปะ)
+10202_option_1a,Recover team's <color=#c44b0e>HP</color> (400 coins),กู้คืน <color=#c44b0e>HP</color> ของทีม (400 อีแปะ)
+10202_option_2a,Recover team's <color=#c44b0e>MP</color> (400 coins),กู้คืน <color=#c44b0e>MP</color> ของทีม (400 อีแปะ)
+10202_option_3a,Remove team's <color=#c44b0e>serious injuries</color> (800 coins),ลบ<color=#c44b0e>การบาดเจ็บสาหัส</color>ของทีมออก (800 อีแปะ)
+10202_option_4a,Remove team's <color=#c44b0e>near-death status</color> (1200 coins),ลบ<color=#c44b0e>สถานะใกล้ตาย</color>ของทีมออก (1200 อีแปะ)
+10202_option_5a,Remove other abnormalities (400 coins),ลบความผิดปกติอื่นๆ (400 อีแปะ)
+10202_option_6a,"Nothing to do, run away",ไม่มีอะไรทำ หนีไปซะ
+10202_option_7a,Remove team's <color=#c44b0e>blindness</color> (400 coins),ลบ<color=#c44b0e>ตาบอด</color>ของทีม (400 อีแปะ)
+10202_option_8a,Remove team's <color=#c44b0e>broken bones</color> (400 coins),ลบ<color=#c44b0e>กระดูกหัก</color>ของทีมออก (400 อีแปะ)
+10202_option_9a,Remove team's <color=#c44b0e>poison sores</color> (400 coins),ลบ<color=#c44b0e>แผลพิษ</color>ของทีม (400 อีแปะ)
+10202_option_10a,Remove team's <color=#c44b0e>confusion</color> (400 coins),ลบ<color=#c44b0e>ความสับสน</color>ของทีม (400 อีแปะ)
+10202_option_11a,Remove team's <color=#c44b0e>blood loss</color> (400 coins),ลบ<color=#c44b0e>การสูญเสียเลือด</color>ของทีมออก (400 อีแปะ)
+10203_option_1,Recover team's <color=#c44b0e>HP</color> (200 coins),กู้คืน <color=#c44b0e>HP</color> ของทีม (200 อีแปะ)
+10203_option_2,Recover team's <color=#c44b0e>MP</color> (200 coins),กู้คืน <color=#c44b0e>MP</color> ของทีม (200 อีแปะ)
+10203_option_3,Remove team's <color=#c44b0e>serious injuries</color> (400 coins),ลบ<color=#c44b0e>การบาดเจ็บสาหัส</color>ของทีมออก (400 อีแปะ)
+10203_option_4,Remove team's <color=#c44b0e>near-death status</color> (600 coins),ลบ<color=#c44b0e>สถานะใกล้ตาย</color>ของทีมออก (600 อีแปะ)
+10203_option_5,Remove other abnormalities (200 coins),ลบความผิดปกติอื่นๆ (200 อีแปะ)
+10203_option_6,"Nothing to do, run away",ไม่มีอะไรทำ หนีไปซะ
+10203_option_7,Remove team's <color=#c44b0e>blindness</color> (200 coins),ลบ<color=#c44b0e>ตาบอด</color>ของทีม (200 อีแปะ)
+10203_option_8,Remove team's <color=#c44b0e>broken bones</color> (200 coins),ลบ<color=#c44b0e>กระดูกหัก</color>ของทีมออก (200 อีแปะ)
+10203_option_9,Remove team's <color=#c44b0e>poison sores</color> (200 coins),ลบ<color=#c44b0e>แผลพิษ</color>ของทีม (200 อีแปะ)
+10203_option_10,Remove team's <color=#c44b0e>confusion</color> (200 coins),ลบ<color=#c44b0e>ความสับสน</color>ของทีม (200 อีแปะ)
+10203_option_11,Remove team's <color=#c44b0e>blood loss</color> (200 coins),ลบ<color=#c44b0e>การสูญเสียเลือด</color>ของทีมออก (200 อีแปะ)
+10203_option_1a,Recover team's <color=#c44b0e>HP</color> (400 coins),กู้คืน <color=#c44b0e>HP</color> ของทีม (400 อีแปะ)
+10203_option_2a,Recover team's <color=#c44b0e>MP</color> (400 coins),กู้คืน <color=#c44b0e>MP</color> ของทีม (400 อีแปะ)
+10203_option_3a,Remove team's <color=#c44b0e>serious injuries</color> (800 coins),ลบ<color=#c44b0e>การบาดเจ็บสาหัส</color>ของทีมออก (800 อีแปะ)
+10203_option_4a,Remove team's <color=#c44b0e>near-death status</color> (1200 coins),ลบ<color=#c44b0e>สถานะใกล้ตาย</color>ของทีมออก (1200 อีแปะ)
+10203_option_5a,Remove other abnormalities (400 coins),ลบความผิดปกติอื่นๆ (400 อีแปะ)
+10203_option_6a,"Nothing to do, run away",ไม่มีอะไรทำ หนีไปซะ
+10203_option_7a,Remove team's <color=#c44b0e>blindness</color> (400 coins),ลบ<color=#c44b0e>ตาบอด</color>ของทีม (400 อีแปะ)
+10203_option_8a,Remove team's <color=#c44b0e>broken bones</color> (400 coins),ลบ<color=#c44b0e>กระดูกหัก</color>ของทีมออก (400 อีแปะ)
+10203_option_9a,Remove team's <color=#c44b0e>poison sores</color> (400 coins),ลบ<color=#c44b0e>แผลพิษ</color>ของทีม (400 อีแปะ)
+10203_option_10a,Remove team's <color=#c44b0e>confusion</color> (400 coins),ลบ<color=#c44b0e>ความสับสน</color>ของทีม (400 อีแปะ)
+10203_option_11a,Remove team's <color=#c44b0e>blood loss</color> (400 coins),ลบ<color=#c44b0e>การสูญเสียเลือด</color>ของทีมออก (400 อีแปะ)
+10300option_1,Stay at the Inn (200 Wen),พักแรม (200 อีแปะ)
+10300option_2,Think about it,ลองคิดดูสิ
+10300option_3,Well rested,พักผ่อนอย่างดี
+10300option_4,Insist on staying (Start a fight),ยืนกรานที่จะอยู่ (เริ่มการต่อสู้)
+10300option_5,Stay at the Inn again (200 Wen),พักแรมอีกครั้ง (200 อีแปะ)
+10301option_1,Stay at the Inn (200 Wen),พักแรม (200 อีแปะ)
+10301option_2,Think about it,ลองคิดดูสิ
+10301option_3,Well rested,พักผ่อนอย่างดี
+10301option_4,Insist on staying (Start a fight),ยืนกรานที่จะอยู่ (เริ่มการต่อสู้)
+10301option_5,Stay at the Inn again (200 Wen),พักแรมอีกครั้ง (200 อีแปะ)
+10302option_1,Stay at the Inn (200 Wen),พักแรม (200 อีแปะ)
+10302option_2,Think about it,ลองคิดดูสิ
+10302option_3,Well rested,พักผ่อนอย่างดี
+10302option_4,Insist on staying (Start a fight),ยืนกรานที่จะอยู่ (เริ่มการต่อสู้)
+10302option_5,Stay at the Inn again (200 Wen),พักแรมอีกครั้ง (200 อีแปะ)
+M20216-1option1,【Agree】,【เห็นด้วย】
+M20216-1option2,
+M20216-1_ans1_1_1,Send feelings of mountains and rivers,ส่งความรู้สึกแห่งขุนเขาและแม่น้ำ
+M20216-1_ans1_1_2,Read ancient and modern books,อ่านหนังสือโบราณและสมัยใหม่
+M20216-1_ans1_1_3,Travel thousands of miles,เดินทางหลายพันลี้
+M20216-1_ans1_1_4,Recite a thousand autumn verses,ท่องกลอนฤดูใบไม้ร่วงนับพัน
+M20216-1_ans1_2_1,Break through a thousand people formation,ทะลวงขบวนผู้คนนับพัน
+M20216-1_ans1_2_2,Travel with a sword,เดินทางด้วยกระบี่
+M20216-1_ans1_2_3,Write a book as tall as oneself,เขียนหนังสือให้สูงเท่ากับตัวเอง
+M20216-1_ans1_2_4,Help thousands of people,ช่วยเหลือผู้คนนับพัน
+M20216-1_ans1_3_1,Establish oneself through words and deeds,ตั้งตนด้วยคำพูดและการกระทำ
+M20216-1_ans1_3_2,Eat to satisfy hunger,กินเพื่อสนองความหิว
+M20216-1_ans1_3_3,Sleep to relieve fatigue,นอนหลับเพื่อคลายความเหนื่อยล้า
+M20216-1_ans1_3_4,Practice martial arts to secure the people,ฝึกวรยุทธเพื่อช่วยเหลือผู้คน
+M20216-1_ans1_4_1,Gorgeous beauty,ความงามที่งดงาม
+M20216-1_ans1_4_2,Mountain Clear water show,โชว์ขุนเขาน้ำใส
+M20216-1_ans1_4_3,Sound of zither and books,เสียงกู่ฉินและหนังสือ
+M20216-1_ans1_4_4,"Courage of the sword, heart of the zither",ความกล้าหาญของกระบี่ หัวใจแห่งพิณ
+M20216-1_ans1_5_1,Earth nurtures all things,โลกหล่อเลี้ยงทุกสิ่ง
+M20216-1_ans1_5_2,Spring fills Heaven and Earth,ฤดูใบไม้ผลิเติมเต็มสวรรค์และโลก
+M20216-1_ans1_5_3,People add to Spring and Autumn,ผู้คนเพิ่มเข้าสู่ฤดูใบไม้ผลิและฤดูใบไม้ร่วง
+M20216-1_ans1_5_4,History records the loyal and the treacherous,ประวัติศาสตร์บันทึกผู้ภักดีและผู้ทรยศ
+M20216-1_ans1_6_1,Earth lasts forever,โลกคงอยู่ตลอดไป
+M20216-1_ans1_6_2,Mountain Clear water show,โชว์ขุนเขาน้ำใส
+M20216-1_ans1_6_3,"Water is far, mountains are heavy",น้ำอยู่ไกล ภูเขาหนัก
+M20216-1_ans1_6_4,"Clouds are light, the day is beautiful",เมฆมีแสงสว่าง วันนั้นสวยงาม
+M20216-1_ans1_7_1,Literary and military strategies,ยุทธศาสตร์วรรณกรรมและการทหาร
+M20216-1_ans1_7_2,Sing praises of merits and virtues,ร้องเพลงสรรเสริญคุณธรรมและคุณธรรม
+M20216-1_ans1_7_3,Tang and Song ancestors,บรรพบุรุษถังและซ่ง
+M20216-1_ans1_7_4,Tang poetry and Han literature,กวีถังและวรรณกรรมฮั่น
+M20216-1_ans2_1_1,Horse is not fat without grass,ม้าไม่อ้วนถ้าไม่มีหญ้า
+M20216-1_ans2_1_2,Birds don't fly without insects,นกไม่บินโดยไม่มีแมลง
+M20216-1_ans2_1_3,Merchants are diligent when there is wealth,พ่อค้าจะขยันเมื่อมีทรัพย์
+M20216-1_ans2_1_4,The day is clear when there is sun,วันที่ชัดเจนเมื่อมีแสงแดด
+M20216-1_ans2_2_1,New rain moistens hundreds of flowers,ฝนใหม่ทำให้ดอกไม้หลายร้อยดอกชุ่มฉ่ำ
+M20216-1_ans2_2_2,Autumn frost chills thousands of grass,น้ำค้างแข็งในฤดูใบไม้ร่วงทำให้หญ้าหลายพันต้นเย็นยะเยือก
+M20216-1_ans2_2_3,Warm river wakes up fish and ducks,แม่น้ำอุ่นปลุกปลาและเป็ด
+M20216-1_ans2_2_4,Winter snow signifies a good harvest,หิมะในฤดูหนาวหมายถึงการเก็บเกี่ยวที่ดี
+M20216-1_ans2_3_1,Spring rain is as precious as oil,ฝนฤดูใบไม้ผลิมีค่าเท่ากับน้ำมัน
+M20216-1_ans2_3_2,Clear spring flows over the rocks,น้ำพุใสไหลผ่านโขดหิน
+M20216-1_ans2_3_3,The scorching sun is high in the sky,พระอาทิตย์ที่แผดจ้าอยู่สูงขึ้นไปบนท้องฟ้า
+M20216-1_ans2_3_4,The forest is quieter with the cicadas' noise,ป่าจะเงียบกว่าด้วยเสียงจั๊กจั่น
+M20216-1_ans2_4_1,Nothing is difficult with diligence,ไม่มีอะไรยากด้วยความขยัน
+M20216-1_ans2_4_2,"As far as the eye can see, the world is in spring",เท่าที่ตามองเห็น โลกกำลังอยู่ในฤดูใบไม้ผลิ
+M20216-1_ans2_4_3,Never turn back despite setbacks,อย่าหันหลังกลับแม้จะพ่ายแพ้
+M20216-1_ans2_4_4,Peace prevails over the world,สันติภาพมีชัยเหนือโลก
+M20216-1_ans2_5_1,The sun rises high,พระอาทิตย์ขึ้นสูงแล้ว
+M20216-1_ans2_5_2,"The wind is calm, the water flows long",ลมสงบน้ำไหลยาว
+M20216-1_ans2_5_3,Water and stone delay human intentions,น้ำและหินชลอความตั้งใจของมนุษย์
+M20216-1_ans2_5_4,Flowers and moon sway the thoughts,ดอกไม้และดวงจันทร์แกว่งไปมาในความคิด
+M20216-1_ans2_6_1,Start with shaking mountains and rivers,เริ่มต้นด้วยภูเขาและแม่น้ำที่สั่นสะเทือน
+M20216-1_ans2_6_2,Wind and thunder rise under the pen,ลมและฟ้าร้องดังขึ้นใต้ปากกา
+M20216-1_ans2_6_3,A thousand autumn moons above the head,มีดวงจันทร์ในฤดูใบไม้ร่วงนับพันดวงอยู่เหนือหัว
+M20216-1_ans2_6_4,Writing as if inspired by the gods,เขียนราวกับว่าได้รับแรงบันดาลใจจากเทพเจ้า
+M20216-1_ans2_7_1,Every year there is surplus celebration,ทุกปีจะมีการเฉลิมฉลองส่วนเกิน
+M20216-1_ans2_7_2,Every year the flowers look the same,ทุกปีดอกไม้จะมีลักษณะเหมือนเดิม
+M20216-1_ans2_7_3,Every year brings fortune to people,ทุกปีจะนำโชคลาภมาสู่ผู้คน
+M20216-1_ans2_7_4,Every year brings a satisfying spring,ทุกปีจะมีฤดูใบไม้ผลิที่น่าพึงพอใจ
+M20216-1_ans3_1_1,A destitute scholar sleeps on the couch,บัณฑิตผู้ยากจนคนหนึ่งนอนบนโซฟา
+M20216-1_ans3_1_2,A beautiful woman accompanies the lonely,หญิงสาวสวยมาพร้อมกับความเหงา
+M20216-1_ans3_1_3,Cold and quiet temple with few incense,วัดเย็นและเงียบสงบมีธูปน้อย
+M20216-1_ans3_1_4,A thin red thread finally ties the fate,ในที่สุดด้ายแดงเส้นบางก็ผูกโชคชะตาไว้
+M20216-1_ans3_2_1,"Fine rain connects like a thread, broken by the wind",ฝนที่โปรยปรายเชื่อมโยงกันเหมือนเส้นด้ายที่ถูกลมพัดมา
+M20216-1_ans3_2_2,"Wild grass cannot be burned out, it grows again in spring",หญ้าป่าไม่สามารถถูกเผาได้ แต่จะเติบโตอีกครั้งในฤดูใบไม้ผลิ
+M20216-1_ans3_2_3,"Blue Mountain is not old, but snow makes it white-haired",ภูเขาครามไม่แก่ แต่หิมะทำให้มีผมสีขาว
+M20216-1_ans3_2_4,"The beauty was originally stunning, but she became haggard for him",เดิมทีความงามนั้นน่าทึ่งมาก แต่เธอก็ซีดเซียวสำหรับเขา
+M20216-1_ans3_3_1,"Clouds disperse and fog clears, the mountain is clearer",เมฆกระจายตัวและหมอกจางลง ภูเขาก็ชัดเจนยิ่งขึ้น
+M20216-1_ans3_3_2,Sighing alone in the vast ocean,ถอนหายใจคนเดียวในมหาสมุทรอันกว้างใหญ่
+M20216-1_ans3_3_3,"The moon on the branch, sorrow upon sorrow",พระจันทร์บนกิ่งไม้ โศกเศร้าครั้งแล้วครั้งเล่า
+M20216-1_ans3_3_4,"The sky connects with the water tail, water connects with the sky",ท้องฟ้าเชื่อมต่อกับหางน้ำ น้ำเชื่อมต่อกับท้องฟ้า
+M20216-1_ans3_4_1,"Wind and rain in harmony, praising the splendid year",ลมและฝนประสานกัน ยกย่องปีอันรุ่งโรจน์
+M20216-1_ans3_4_2,Dragons soar and tigers leap to welcome the New Year,มังกรเหินและเสือกระโดดต้อนรับปีใหม่
+M20216-1_ans3_4_3,The stars shift to bid farewell to the old year,ดาราเคลื่อนตัวเพื่ออำลาปีเก่า
+M20216-1_ans3_4_4,"Clouds rise and rosy clouds gather, piercing the rainbow",เมฆลอยขึ้นและเมฆสีดอกกุหลาบรวมตัวกันทะลุสายรุ้ง
+M20216-1_ans3_5_1,"The sea of learning is boundless, suffering is the boat",ทะเลแห่งการเรียนรู้ไม่มีที่สิ้นสุด ความทุกข์คือเรือ
+M20216-1_ans3_5_2,"Worn out iron shoes, nowhere to be found",รองเท้าเหล็กชำรุดหาที่ไหนไม่ได้แล้ว
+M20216-1_ans3_5_3,"Climb to the top of the mountain, I am the peak",ปีนขึ้นไปบนยอดเขา ข้าคือจุดสูงสุด
+M20216-1_ans3_5_4,A newborn calf is not afraid of a tiger,ลูกวัวแรกเกิดไม่กลัวเสือ
+M20216-1_ans3_6_1,Doing things improperly is inhuman,การทำสิ่งที่ไม่เหมาะสมนั้นไร้มนุษยธรรม
+M20216-1_ans3_6_2,Open the window and let in the fragrance from outside,เปิดหน้าต่างแล้วปล่อยให้กลิ่นหอมจากภายนอกเข้ามา
+M20216-1_ans3_6_3,Throw a stone and break the sky under the water,ขว้างก้อนหินทำลายท้องฟ้าใต้น้ำ
+M20216-1_ans3_6_4,Play the zither under the moon by the flowers,เล่นพิณใต้แสงจันทร์ข้างดอกไม้
+M20216-1_ans3_7_1,Understanding human nature is literature,การเข้าใจธรรมชาติของมนุษย์คือวรรณกรรม
+M20216-1_ans3_7_2,Understanding human nature is a sage,การเข้าใจธรรมชาติของมนุษย์เป็นปราชญ์
+M20216-1_ans3_7_3,Laughing and scolding is literature,การหัวเราะและการดุด่าเป็นวรรณกรรม
+M20216-1_ans3_7_4,Laughing and scolding is a sage,การหัวเราะและการดุด่าเป็นปราชญ์
+M20216-1_ans_return,"Didn't hear clearly, listen again",ฟังไม่ชัด พูดอีกครั้ง
+M20100-1001option1,Compensate 200 Wen as an apology.<color=#097a76>(200 Wen)</color>,ชดเชย 200 อีแปะเป็นการขอโทษ<color=#097a76>(200 อีแปะ)</color>
+M20100-1001option2,"Refuse to compensate, educate him personally.",ปฏิเสธที่จะชดเชยให้การศึกษาเขาเป็นการส่วนตัว
+M20100-1001option3,"Refuse to compensate, the whole team will take action.",ปฏิเสธที่จะชดเชยทั้งทีมจะดำเนินการ
+M20100-1002option1,Ask about the method of cracking.<color=#097a76>(100 Wen)</color>,สอบถามวิธีแยก<color=#097a76>(100 อีแปะ)</color>
+M20100-1002option2,"Not enough money, 1 Guan, willing but unable.",เงินไม่พอ 1 ตำลึง เต็มใจแต่ทำไม่ได้
+M20100-1002option3,"My fate is in my own hands, not believing in his words.",ชะตากรรมของข้าอยู่ในมือของข้าเอง ไม่เชื่อในคำพูดของเขา
+M20100-1003option1,Buy Manual.<color=#097a76>(10000 Wen)</color>,ซื้อตำรา <color=#097a76>(10000 อีแปะ)</color>
+M20100-1003option2,"Not enough money, 10 Guan, willing but unable.",เงินไม่พอ 10 ตำลึง เต็มใจแต่ทำไม่ได้
+M20100-1003option3,"Pierce the beggar's bragging, run away on your own.",เพิกเฉยต่อคำโอ้อวดของคนขอทานแล้วออกไปเอง
+M20100-1003option4,Buy Manual.<color=#097a76>(1000 Wen)</color>,ซื้อตำรา<color=#097a76>(1000 อีแปะ)</color>
+M20100-1003option5,"Not enough money, 1 Guan, still can't afford it.",เงินไม่พอ 1 ตำลึง ก็ยังจ่ายไม่ได้
+M20100-1003option6,"Pierce the beggar's bragging, run away on your own.",เพิกเฉยต่อคำโอ้อวดของคนขอทานแล้วออกไปเอง
+M20100-1003option7,Give the beggar 50 Wen.<color=#097a76>(50 Wen)</color>,มอบเงินให้ขอทาน 50 อีแปะ<color=#097a76>(50 อีแปะ)</color>
+M20100-1003option8,Help the beggar with 200 coins. <color=#097a76>(200 coins)</color>,ช่วยขอทานด้วย 200 อีแปะ <color=#097a76>(200 อีแปะ)</color>
+M20100-1003option9,Grant the beggar's request and run away.,ทำตามคำขอขอทานแล้ววิ่งหนีไป
+M20100-1004option1,Take out 100 coins and give them to the merchant. <color=#097a76>(100 coins)</color>,นำเหรียญ 100 อีแปะออกมามอบให้พ่อค้า <color=#097a76>(100 อีแปะ)</color>
+M20100-1004option2,Take out 1 guan and give it to the merchant. <color=#097a76>(1000 coins)</color>,"นำเงินออกมา 1 ตำลึงมอบให้พ่อค้า <color=#097a76>(1,000 อีแปะ)</color>"
+M20100-1004option3,Demanding money through deception.,เรียกร้องเงินโดยการหลอกลวง
+M20100-1004option4,"Not enough money, let's go.",เงินไม่พอ ลุยเลย
+M20100-1004option5,"Pierce, the merchant, speaks and runs away.",เพิกเฉยต่อคำพูดของพ่อค้าและจากไป
+M20100-1004option6,Insist on getting the money back.,ยืนกรานที่จะรับเงินคืน
+M20100-1004option7,Give up on the matter and let the merchant go.,เลิกเรื่องแล้วปล่อยพ่อค้าไป
+M20100-1005option1,Pick up the inventory.,หยิบสัมภาระ
+M20100-1005option2,Stay nearby and wait for the owner. <color=#097a76>(2 hours)</color>,อยู่ใกล้ๆรอเจ้าของ <color=#097a76>(2 ชั่วโมง)</color>
+M20100-1005option3,Pierce takes the inventory and runs away.,เพิกเฉยต่อพัสดุและออกไป
+M20100-1005option4,Return the inventory.,คืนสัมภาระ
+M20100-1005option5,Inform that you haven't seen the inventory.,แจ้งว่ายังไม่เห็นกระเป๋า
+M20100-1005option6,Leave the Inventory behind.,ทิ้งสัมภาระไว้เบื้องหลัง
+M20100-1005option7,Leave the Inventory where it is and run away on your own.,ทิ้งสัมภาระไว้ที่เดิมแล้ววิ่งหนีไปด้วยตัวเอง
+M20100-1006option1,Help the old man up.,ช่วยชายชราลุกขึ้น
+M20100-1006option2,Pierce the old man and run away on your own.,เพิกเฉยต่อชายชราและจากไปด้วยตัวคุณเอง
+M20100-1006option3,Take the old man to the clinic. <color=#097a76>(1000 coins)</color>,"พาชายชราไปโรงหมอ <color=#097a76>(1,000 อีแปะ)</color>"
+M20100-1006option4,Use Medical to treat the old man's injuries. <color=#097a76>(Medical reaches 60)</color>,ใช้การแพทย์เพื่อรักษาอาการบาดเจ็บของชายชรา <color=#097a76>(ค่ารักษาพยาบาลถึง60)</color>
+M20100-1006option5,Stop meddling and run away on your own.,หยุดยุ่งแล้ววิ่งหนีไปเอง
+M20100-1006option6,Admit defeat and give 1 coin to the old man.,ยอมรับความพ่ายแพ้และมอบเหรียญ 1 ตำลึงให้กับชายชรา
+M20100-1006option7,Report to the authorities and see how they judge.,รายงานต่อเจ้าหน้าที่และดูว่าพวกเขาตัดสินอย่างไร
+M20100-1006option8,"Forcefully run away, who dares to stop me!",หลีกไปซะ ใครกล้าหยุดข้า!
+M20100-1006option9,"A hero doesn't suffer losses, accept punishment. <color=#097a76>(10000)</color>",ผู้ชายที่ดีจะรับผลที่ตามมาในทันที และยอมรับการลงโทษ <color=#097a76>(10000)</color>
+M20100-1006option10,"No money, no life!",ไม่มีเงิน ไม่มีชีวิต!
+Z001_name,Travel to Lin'an City.,เดินทางไปเมืองหลินอัน
+Z001_overview1,Go to <color=#c44b0e>Lin'an City</color> to broaden your horizons.,ไปที่ <color=#c44b0e>เมืองหลินอัน</color> เพื่อขยายขอบเขตอันไกลโพ้นของเจ้า
+Z001_overview2,Go to <color=#c44b0e>Lin'an Inn</color> and invite Ye Yinping to join the team.,ไปที่ <color=#c44b0e>โรงเตี๊ยมหลินอัน</color> และชักชวน เย่หยินผิง เข้าร่วมกลุ่ม
+Z001_overview3,Explore Lin'an City with Ye Yinping.,สำรวจเมืองหลินอันกับเย่หยินผิง
+Z001_option1,"[Normal Inquiry] Boss, who is that beggar?",[สอบถามปกติ] เจ้านาย ใครคือขอทาน?
+Z001_option2,[Pretend] Pretend to be like the beggar just now.,[แกล้ง] แกล้งทำเป็นเหมือนขอทานเมื่อครู่นี้
+Z001_Npcname1,A ragged man.,ผู้ชายมอมแมม
+Z002_name,Travel to Lin'an City.,เดินทางไปเมืองหลินอัน
+Z002_overview1,Continue strolling around Lin'an City with Ye Yinping.,เดินเล่นรอบเมืองหลินอัน กับ เย่หยินผิง
+Z002_option1,[Peaceful Solution] Maybe we should just let it go?,[สันติวิธี] บางทีเราควรปล่อยมันไปใช่ไหม?
+Z002_option2,"[Lend a Hand] This is indeed too much, I'll go reason with him!",[ให้ยืมมือ] นี่มันมากเกินไปจริงๆ ข้าจะไปหาเหตุผลกับเขา!
+Z002_option3,"[Take Advantage] Dare to look down on me, take this!",[ใช้ประโยชน์] กล้าดูถูกข้า รับนี่ไป!
+Z002_option4,"[Fight Another Day] If you have the guts, let's fight another day",[สู้อีกวัน] ถ้ากล้า ก็สู้วันอื่นเถอะ
+Z002_option5,[Run for Your Life] (Run away with all your might),[วิ่งเพื่อชีวิตของคุณ] (วิ่งหนีสุดกำลัง)
+Z002_Npcname1,Middle-aged Aunt,ป้าวัยกลางคน
+Z002_Npcname2,Elderly Granny,ยายอาวุโส
+Z004_name,Sword Test Platform,ลานประลองทดสอบกระบี่
+Z004_overview1,Head to the north of Lin'an City to the <color=#c44b0e>Sword Test Platform</color>,มุ่งหน้าไปทางเหนือของเมืองหลินอัน ไปยัง <color=#c44b0e>ลานประลองทดสอบกระบี่</color>
+Z004_option1,【Dragon Spring Sword Test?】,【งานชุมนุมวิจารณ์กระบี่มังกรฤดูใบไม้ผลิ?】
+Z004_option2,【Just Strolling Around】,【แค่เดินเล่นเฉยๆ】
+Z004_option3,【Join the Fight!】,【ร่วมต่อสู้!】
+Z004_option4,【Join the Fight!!】,【ร่วมต่อสู้!】
+Z004_option5,【Join the Fight!!!】,【ร่วมต่อสู้!】
+Z004_npcname1,Ouye's Revival,การฟื้นคืนชีพของอูเย่
+Z004_npcname2,Sword Saint,เซียนกระบี่
+Z004_npcname3,Mysterious Man in Black,ชายลึกลับชุดดำ
+Z005_name,Linlang Academy,สถาบันหลินหลาง
+Z005_overview1,Go to <color=#c44b0e>Linlang Academy</color> to retrieve the Xuanyuan Sword,ไปที่ <color=#c44b0e>สถาบันหลินหลาง</color> เพื่อดึงกระบี่ซวนหยวน
+Z005_overview2,Pass the entrance exam of <color=#c44b0e>Linlang Academy</color>,ผ่านการสอบเข้าของ <color=#c44b0e>สถาบันหลินหลาง</color>
+Z005_option1,《Cowherd and Weaver Girl》《Butterfly Lovers》《Meng Jiangnu》《Legend of the White Snake》,《คนเลี้ยงวัวและสาวทอผ้า》《 คนรักผีเสื้อ 》《 ท่านหญิงเหมิงเจียง 》《 ตำนานงูขาว 》
+Z005_option2,《Romance of the Three Kingdoms》《Journey to the West》《A Dream in Red Mansions》《Water Margin Story》,"""สามก๊ก"", ""ไซอิ๋ว"", ""ความฝันในหอแดง"", ""ซ้องกั๋ง 108 วีรบุรุษแห่งเขาเหลียงซาน"""
+Z005_option3,《The Peony Pavilion》《The West Chamber》《The Peach Blossom Fan》《Longevity Palace》,《ศาลาดอกโบตั๋น》《หอการค้าตะวันตก》《พัดดอกท้อ》《พระราชวังอายุยืน》
+Z005_option4,《Journey to the East》《Journey to the West》《Journey to the South》《Journey to the North》,《การเดินทางไปทางทิศตะวันออก》《การเดินทางไปทางทิศตะวันตก》《การเดินทางไปทางทิศใต้》《การเดินทางไปทางทิศเหนือ》
+Z005_option5,"【Mulberry, Willow, Elm, Locust】","【มัลเบอร์รี่, วิลโลว์, เอล์ม, ตั๊กแตน】"
+Z005_option6,"【Plum, Orchid, Bamboo, Chrysanthemum】",【พลัม กล้วยไม้ ไผ่ ดอกเบญจมาศ】
+Z005_option7,"【Pine, Bamboo, Plum, Chrysanthemum】","【สน, ไม้ไผ่, พลัม, ดอกเบญจมาศ】"
+Z005_option8,"【Plum, Tea, Lotus, Osmanthus】",【บ๊วย ชา ดอกบัว ดอกหมื่นลี้】
+Z005_option9,【Zhong Li Quan】,【ฉงลี่เฉวียน】
+Z005_option10,【Lu Dongbin】,【หลู่ชุนหยาง】
+Z005_option11,【Li Xuan】,【หลี่ซวน】
+Z005_option12,【Laozi】,【เล่าจื๊อ】
+Z005-1_name,Shen Mengxi's Token,เหรียญตราเสินเมิ่งซี
+Z005-1_overview1,Get on good terms with most villagers in Nameless Village,มีความสัมพันธ์ที่ดีกับชาวบ้านส่วนใหญ่ในหมู่บ้านไร้นาม
+Z005-1_overview2,The Village Head is waiting for you at home,หัวหน้าหมู่บ้านกำลังรอเจ้าอยู่ที่บ้าน
+Z005-1_overview3,Bring the Animal ring - The Ox to find Shen Mengxi,นำแหวนนักษัตร - ฉลู ไปหา เสินเมิ่งซี
+Z006_name,Question at Confucius Temple,คำถามที่วัดขงจื้อ
+Z006_overview1,Go to the <color=#c44b0e>Confucius Temple</color> in the north of the map to find out!,ไปที่<color=#c44b0e>วัดขงจื้อ</color>ทางทิศเหนือของแผนที่เพื่อตามหา!
+Z006_option1,【Continue Onwards】,【ดำเนินการต่อไปข้างหน้า】
+Z006_option2,【Come Back After Strengthening Forces】,【กลับมาอีกครั้งหลังจากเสริมความแข็งแกร่ง】
+Z008_name,Reinforcements from Bianzhou,กำลังเสริมจากเปี้ยนโจว
+Z008_overview1,Go to <color=#c44b0e>Bianzhou City</color> to help Ye Yinping out of trouble.,ไปที่<color=#c44b0e>เมืองเปี้ยนโจว</color>เพื่อช่วยเย่หยินผิงแก้ปัญหา
+Z008_overview2,Meet the spirited young man at the <color=#c44b0e>Tea shop</color> in Bianzhou City,พบกับชายหนุ่มผู้ร่าเริงที่<color=#c44b0e>ร้านน้ำชา</color>ในเมืองเปียนโจว
+Z008_npcname1,Spirited Young Man,ชายหนุ่มผู้มีจิตวิญญาณ
+Z009_name,Levitational Steel,เจดีย์เหล็ก
+Z009_overview1,Rush to <color=#c44b0e>Levitational Steel</color> to rescue Ye Yinping,รีบไปที่ <color=#c44b0e>เจดีย์เหล็ก</color> เพื่อช่วยเหลือ เย่หยินผิง
+Z009_option1,"【Rescue is Priority, Charge in Directly】",【การช่วยเหลือคือสิ่งสำคัญ พุ่งเข้ามาโดยตรง】
+Z009_option2,"【Plan for the Long Term, Level Up First】",【วางแผนระยะยาว เพิ่มระดับก่อน】
+Z010_name,Conspiracy,การกบฏ
+Z010_overview1,Find the <color=#c44b0e>Gusu Ruins</color> and stop Yelv Wuzhu's conspiracy,ค้นหา <color=#c44b0e>ซากปรักหักพังกู่ซู</color> และหยุดแผนการสมรู้ร่วมคิดของ เย่ลู่หวู่จู้
+Z010-1_name,Mission Accomplished,ภารกิจเสร็จสมบูรณ์
+Z010-1_overview1,Return the Xuanyuan Sword to <color=#c44b0e>Sword Mountain Villa</color> and hand it to the Sword Saint,คืนกระบี่ซวนหยวนให้กับ <color=#c44b0e>คฤหาสน์ภูเขากระบี่</color> และมอบให้กับเซียนกระบี่
+Z012_name,Battle is Imminent,การต่อสู้ใกล้เข้ามาแล้ว
+Z012_overview1,Head to Ye Family Battalion,มุ่งหน้าไปยังกองพันตระกูลเย่
+Z012_overview2,"Try to raise the Relations with the leaders of Shifa Temple, Taoist Sect, Jiujiang Fotress, Nine Factions Sect, Confucius Temple and other forces to 80",พยายามยกระดับความสัมพันธ์กับผู้นำอารามฉีฟา สำนักเต๋า ค่ายน้ำจิ่วเจียง นิกายเก้าฝ่าย วัดขงจื้อ และกองกำลังอื่นๆ เป็น 80
+M1000-8option1,Learn the ultimate move. <color=#097a76>(50 Wen)</color>,เรียนท่าไม้ตาย <color=#097a76>(50 อีแปะ)</color>
+M1000-8option2,Not interested.,ไม่สนใจ.
+M1000-9option1,Learn the ultimate move. <color=#097a76>(500 Wen)</color>,เรียนท่าไม้ตาย <color=#097a76>(500 อีแปะ)</color>
+M1000-9option2,Not interested.,ไม่สนใจ.
+M1000-10option1,Learn the ultimate move. <color=#097a76>(2000 Wen)</color>,เรียนท่าไม้ตาย <color=#097a76>(2000 อีแปะ)</color>
+M1000-10option2,Not interested.,ไม่สนใจ.
+M1000-11option1,Learn the ultimate move. <color=#097a76>(20000 Wen)</color>,เรียนท่าไม้ตาย <color=#097a76>(20000 อีแปะ)</color>
+M1000-11option2,Not interested.,ไม่สนใจ.
+M1000-8name,Ragged Beggar,ขอทานมอมแมม
+M1000-9name,Ragged Beggar,ขอทานมอมแมม
+M1000-10name,Ragged Beggar,ขอทานมอมแมม
+M1000-11name,Ragged Beggar,ขอทานมอมแมม
+M1101-8_name,Collect Ingredients,รวบรวมวัตถุดิบ
+M1101-8_talk,Ingredient,วัตถุดิบ
+M1101-8_overview1,Talk to the landlady.,คุยกับเจ้าของบ้าน.
+M1101-8_overview2,Get 5 Lettuce and 5 Wild boar meat.,รับผักกาดหอม 5 ชิ้นและเนื้อหมูป่า 5 ชิ้น
+M1101-8_overview3,"Ingredients collected, go talk to the boss lady.",รวบรวมส่วนผสมไปคุยกับเจ้านายหญิง
+M1101-8option_1_1,Leave it to me!,ปล่อยเป็นหน้าที่ของข้า!
+M1101-8option_1_2,"Sorry, handle your own affairs.",ขออภัย จัดการเรื่องของตัวเองเถอะ
+M1101-10_name,Feminism,ชื่นชมสตรี
+M1101-10option1_1,"Honorable ones talk, not fight. Hear me out.<color=#097a76>(Persuade reached Intermediate)</color>",ผู้มีเกียรติพูดไม่ทะเลาะกัน ฟังข้าหน่อยสิ<color=#097a76>(การโน้มน้าวใจถึงระดับกลาง)</color>
+M1101-10option1_2,"I'm not afraid of you, despite your harsh words!<color=#097a76>(Battle)</color>",ข้าไม่กลัวเจ้าแม้ว่าเจ้าจะพูดจารุนแรงก็ตาม!<color=#097a76>(ต่อสู้)</color>
+M1101-10option1_3,"I'll stop bothering you, as the saying goes, a word to the wise is enough.",ข้าจะหยุดรบกวนเจ้า ดังคำกล่าวที่ว่า แค่คนฉลาดก็เพียงพอแล้ว
+M20300-1option1_dialogue,
+M20300-1option1_1,
+M20300-1option1_2,
+M20300-1option1_3,
+M20300-1option1_4,
+M20300-2option1_dialog,Do you have anything to prove your identity or origin?,เจ้ามีอะไรที่จะพิสูจน์ตัวตนหรือที่มาของเจ้าหรือไม่?
+M20300-2option1_1,"You two soldiers have worked hard to guard the city, here's some money for tea.<color=#097a76>(500 Wen)</color>",ท่านทั้งสองทำงานหนักเพื่อปกป้องเมือง ข้าขอเลี้ยงน้ำชาพวกท่าน <color=#097a76>(500 อีแปะ)</color>
+M20300-2option1_2,"Ah, my background, it starts 20 years ago...<color=#097a76>(Persuade reached Intermediate)</color>",อา เบื้องหลังของข้า เริ่มต้นเมื่อ 20 ปีที่แล้ว...<color=#097a76>(การชักจูงถึงระดับกลาง)</color>
+M20300-2option1_3,Find another way into the city.,หาทางเข้าไปในเมืองอีกทางหนึ่ง
+M20300-3option1_1,"I'll go with you to the Government Office, the innocent have nothing to fear.",ข้าจะไปศาลาว่าการกับเจ้า ผู้บริสุทธิ์ไม่มีอะไรต้องกลัว
+M20300-3option1_2,Dream on if you want to take me to the Government Office!<color=#097a76>(Specific Battle)</color>,ฝันไปเถอะ ถ้าจะพาข้าไปที่ศาลาว่าการ!<color=#097a76>(ศึกเฉพาะ)</color>
+M20300-12option1_dialog,May I ask your business?,ข้าขอถามธุรกิจของท่านได้ไหม?
+M20300-12option1_1,"A member of the Ye family is visiting, please make it convenient.<color=#097a76>(Ye Yinpeng is accompanying)</color>",มีสมาชิกในตระกูลเย่มาเยี่ยม โปรดอำนวยความสะดวก<color=#097a76>(เย่ หยินเผิงมาด้วย)</color>
+M20300-12option1_2,I'm here to celebrate the Duke's birthday.<color=#097a76>(Duke Chai's invitation card)</color>,ข้ามาที่นี่เพื่อเฉลิมฉลองวันเกิดของท่านอ๋อง<color=#097a76>(เทียบเชิญของอ๋องไฉ)</color>
+M20300-12option1_3,Can you give me some leeway considering our Relations?<color=#097a76>(Relations reached 60)</color>,เจ้าช่วยข้าโดยมองถึงความสัมพันธ์เก่าก่อนของเราหน่อยได้ไหม<color=#097a76>(ความสัมพันธ์ถึง 60)</color>
+M20300-12option1_4,"Nothing, I'll take my leave.",ไม่มีอะไร ข้าจะขอลาออก
+M20300-14option1_dialog,May I ask your business?,ข้าขอถามธุรกิจของท่านได้ไหม?
+M20300-14option1_1,"A member of the Ye family is visiting, please make it convenient.<color=#097a76>(Ye Yinpeng is accompanying)</color>",มีสมาชิกในตระกูลเย่มาเยี่ยม โปรดอำนวยความสะดวก<color=#097a76>(เย่ หยินเผิงมาด้วย)</color>
+M20300-14option1_2,I'm here to celebrate the Duke's birthday.<color=#097a76>(Duke Chai's invitation card)</color>,ข้ามาที่นี่เพื่อเฉลิมฉลองวันเกิดของท่านอ๋อง<color=#097a76>(เทียบเชิญของอ๋องไฉ)</color>
+M20300-14option1_3,Can you give me some leeway considering our Relations?<color=#097a76>(Relations reached 60)</color>,เจ้าช่วยข้าโดยมองถึงความสัมพันธ์เก่าก่อนของเราหน่อยได้ไหม<color=#097a76>(ความสัมพันธ์ถึง 60)</color>
+M20300-14option1_4,"Nothing, I'll take my leave.",ไม่มีอะไร ข้าจะขอลาออก
+M20300-21_npcname1,Tipsy middle-aged man,ชายวัยกลางคนขี้เมา
+M20300-21_npcname2,Young Taoist,นักพรตน้อย
+M20300-21option1_dialog,"Look at this stubborn kid, he's even more troublesome than his master.\nYoung man, we're destined to meet, can you help me out?","ดูเด็กหัวรั้นคนนี้สิ เขาลำบากกว่าอาจารย์ของเขาด้วยซ้ำ\nหนุ่มน้อย เราถูกกำหนดมาให้ได้พบกันแล้ว เจ้าช่วยข้าหน่อยได้ไหม?"
+M20300-21option1_1,Is this bottle of wine to your taste?<color=#097a76>(Jiannan wine1 pot)</color>,เจ้าชอบสุราไหนี้ไหม?<color=#097a76>(สุราเจียนหนาน1 ไห)</color>
+M20300-21option1_2,"It's better to meet by chance than to invite, let me treat you today!<color=#097a76>(1000 Wen·one shichen)</color>","พบกันโดยบังเอิญดีกว่าถูกเชิญให้มาพบ, วันนี้ให้ข้าเลี้ยงเอง!<color=#097a76>(1,000 อีแปะ หนึ่งชั่วโมง)</color>"
+M20300-21option1_3,"It's hard for a clean official to settle domestic disputes, I can't interfere in your affairs.",เป็นเรื่องยากสำหรับข้าราชการที่เที่ยงธรรมที่จะจัดการกับข้อพิพาทภายในประเทศ แต่ข้าไม่สามารถควบคุมงานของท่านได้
+M20300-21option2_dialog,"Kid, you're so eager to please me, what do you want?",เจ้าหนู เจ้ากระตือรือร้นที่จะทำให้ข้าพอใจมาก เจ้าต้องการอะไร?
+M20300-21option2_1,Give some martial arts tips.,ให้คำแนะนำศิลปะการต่อสู้บางอย่าง
+M20300-21option2_2,Request for martial arts stories.,ขอเรื่องราวศิลปะการต่อสู้
+M20300-21option2_3,Nothing else.,ไม่มีอะไรอีกแล้ว.
+M20300-31_name,Search for people in Lin'an,ค้นหาผู้คนในหลินอัน
+M20300-31_talk,Search for people,ค้นหาผู้คน
+M20300-31_overview1,"Get <color=#c44b0e>Monkey wine</color> to attract La Tazhang, or search every corner of Lin'an City.",รับ<color=#c44b0e>สุราวานร</color>เพื่อดึงดูด ลาทาจาง หรือค้นหาทุกซอกทุกมุมของเมืองหลินอัน
+M20300-31_overview2,"Walk around the remote areas of Lin'an City with Monkey wine, you might discover something.","ลองเดินไปรอบ ๆ บริเวณที่ที่เข้าถึงยากของเมืองหลินอัน พร้อม""สุราวานร"", เผื่อเจ้าจะพบเจออะไรบ้างอย่าง"
+M20300-31_overview3,Go to the bridge in the city and inform Chang Chunzi.,ไปที่สะพานในเมืองแล้วแจ้งฉางชุนจื่อ
+M20300-31_overview4,Talk with Chang Chunzi.,พูดคุยกับฉางชุนจื่อ
+M20300-31option1_dialog,"Where can I find Monkey wine in Lin'an City...\nCan you help me figure it out?","ข้าจะหาสุราวานรนี้ได้ที่ไหนในเมืองหลินอัน...\nเจ้าช่วยข้าคิดได้ไหม?"
+M20300-31option1_1,I'll help you find your uncle.,ข้าจะช่วยเจ้าตามหาลุงเจ้า
+M20300-31option1_2,I'm really helpless.,ข้าทำอะไรไม่ถูกจริงๆ
+M20300-31option2_dialog,"{PlayerSurName} young hero, can you help me find my uncle now?",จอมยุทธ์น้อย{PlayerSurName} ท่านช่วยข้าตามหาท่านลุงตอนนี้เลยได้หรือไม่?
+M20300-31option2_1,I'll help you find your uncle.,ข้าจะช่วยเจ้าตามหาลุงเจ้า
+M20300-31option2_2,I still have no clue.,ข้าไม่รู้เลย.
+M20300-31option3_dialog,What do you want to do?,เจ้าอยากทำอะไรล่ะ?
+M20300-31option3_1,I'll exchange a pot of good wine with you.<color=#097a76>(Luofu spring wine1 pot)</color>,ข้าจะแลกเปลี่ยนสุราชั้นยอดกับเจ้า<color=#097a76>(สุราใบไม้ผลิลั่วฟู 1 ไห)</color>
+M20300-31option3_2,Is this money enough to buy your Monkey wine? <color=#097a76>(2000 Wen)</color>,เงินเท่านี้พอซื้อสุราวานรหรือไม่ <color=#097a76>(2000 อีแปะ)</color>
+M20300-31option3_3,Or would you like me to teach you some advanced Beast Taming techniques? <color=#097a76>(Beast Taming reaches Advance)</color>,หรือเจ้าต้องการให้ข้าสอนเทคนิคการฝึกสัตว์ขั้นสูงแก่เจ้า? <color=#097a76>(การฝึกฝนสัตว์ถึงขั้นก้าวหน้า)</color>
+M20300-31option3_4,"If you refuse a toast, you must drink a forfeit. I'm going to take it by force! <color=#097a76>(Start a fight directly)</color>",ถ้าเจ้าไม่อยากได้น้ำใจ งั้นเจ้าก็กินน้ำโหของข้าไปแทนแล้วกัน! เห็นทีข้าคงต้องใช้กำลังบังคับแล้ว! <color=#097a76>(เริ่มการต่อสู้ทันที)</color>
+M20300-31option3_5,"Honorable people don't snatch what others like, let's find another way.",ผู้มีศักดิ์ศรีจะไม่ฉกฉวยสิ่งที่คนอื่นชอบไป หาหนทางอื่นเถอะ
+M20300-31option4_dialog,"However, if you're willing to spar with me, I won't bother with that kid.",อย่างไรเสีย หากเจ้ายอมประลองกับข้า ข้าก็จะไม่ยุ่งกับเจ้าเด็กนั่น
+M20300-31option4_1,"I'll accompany you till the end, but please show mercy. <color=#097a76>(Main character duels)</color>",ข้ายินดีเป็นเพื่อนเล่นให้จนกว่าท่านจะพอใจ แต่ได้โปรดออมมือด้วย <color=#097a76>(ตัวละครหลักเริ่มการต่อสู้)</color>
+M20300-31option4_2,I can't afford to hurt you by accident.,ข้าคงชดใช้มิได้หากบังเอิญทำท่านบาดเจ็บ
+M20300-31option5_dialog,"Come on, spar with me for a few more rounds!",เอาน่า มาประลองกับข้าอีกสักตาสองตาเถิด!
+M20300-31option5_1,"I'll accompany you till the end, but please show mercy. <color=#097a76>(Main character duels)</color>",ข้ายินดีเป็นเพื่อนเล่นให้จนกว่าท่านจะพอใจ แต่ได้โปรดออมมือด้วย<color=#097a76>(ตัวละครหลักเริ่มการต่อสู้)</color>
+M20300-31option5_2,I can't afford to hurt you by accident.,ข้าคงชดใช้มิได้หากบังเอิญทำท่านบาดเจ็บ
+R10009-1_npcname,A familiar female voice,เสียงสตรีที่ฟังคุ้นหู
+R10009-1_npcname2,Stranger woman,หญิงแปลกหน้า
+R10009-1option1_dialog,"That little thief stole my things, we must get them back.\nBut that little thief is very slippery, will you come with me to catch him?","เจ้าโจรตัวน้อยนั่นขโมยของข้าไป เราต้องตามไปเอาคืน \nแต่โจรตัวน้อยนั่นลื่นอย่างกับปลาไหล เจ้าจะช่วยตามข้าไปจับมันหรือไม่?"
+R10009-1option1_1,I'll go with you!,ข้าจะไปกับท่าน!
+R10009-1option1_2,"I have other things to do, I can't accompany you.",ข้ามีเรื่องอื่นต้องทำ จึงไม่อาจไปกับเจ้าได้
+R10009-1option2_1,"Just now, there was a suspicious person sneaking in... <color=#097a76>(Persuade reaches Advance)</color>",เมื่อสักครู่นี้ มีคนน่าสงสัยแอบเข้ามา... <color=#097a76>(การชักชวนไปถึงขั้นสูง)</color>
+R10009-1option2_2,"Please accept this silver, General, and be lenient. <color=#097a76>(Scrap silver 15 Liang)</color>",โปรดยอมรับเงินนี้ ท่านนายพล และกรุณาผ่อนปรนด้วย <color=#097a76>(เศษเงิน 15 ชิ้น)</color>
+R10009-1option2_3,Do we have to be so distant given our Relations? <color=#097a76>(Relations reach 60)</color>,เราต้องห่างกันขนาดนี้เลยเหรอเมื่อพิจารณาจากความสัมพันธ์ของเรา? <color=#097a76> (ความสัมพันธ์ถึง 60)</color>
+R10009-1option2_4,Let's run away now.,รีบหนีกันเถิด
+R10009-1option3_1,Agree to wander the world with Ye Yinping.,ตกลงที่จะท่องยุทธภพไปกับเย่หยินผิง
+R10009-1option3_2,Refuse Ye Yinping's proposal.,ปฏิเสธข้อเสนอของเย่หยินผิง
+M20321-2_4option1_dialog,"(This Cai Youzhi is so arrogant and domineering, presumably no one dares to provoke the Confucius Temple behind him, should I step in at this time?)",(ไช่โหยวจื่อผู้นี้เย่อหยิ่งและโอหัง คงจะไม่มีใครกล้ายั่วยุวัดขงจื้อที่อยู่ด้านหลังเขา ข้าควรก้าวเข้ามาในเวลานี้หรือไม่?)
+M20321-2_4option1_1,(Ask Ye Yinping if he wants to intimidate him)<color=#097a76>(Ye Yinping)</color>,(ถามเย่หยินผิงว่าต้องการจัดการเขาไหม)<color=#097a76>(เย่หยินผิง)</color>
+M20321-2_4option1_2,So the Confucius Temple is just good at talking<color=#097a76>(Persuade reaches Advance)</color>,วัดขงจื้อจึงพูดได้ดี<color=#097a76>(การชักชวนไปถึงขั้นสูง)</color>
+M20321-2_4option1_3,(Speaking out of turn in this situation will definitely end badly),(ผลที่ตามมาของการพูดไร้สาระในสถานการณ์เช่นนี้จะเลวร้ายลงอย่างแน่นอน)
+M20321-2_4option2_dialog,"(I've been watching the show for so long, isn't it time for me, the protagonist, to make my presence felt?)",(ข้าดูละครมานานแล้ว ถึงเวลาที่ข้าพระเอกจะแสดงตัวตนแล้วไม่ใช่เหรอ?)
+M20321-2_4option2_1,(Stir up the crowd's emotions and fight together)<color=#097a76>(Persuade·4 level)</color>,(ปลุกปั่นอารมณ์ของทุกคนและต่อสู้ไปด้วยกัน)<color=#097a76>(โน้มน้าว ระดับ 4)</color>
+M20321-2_4option2_2,I'll take on the skills of Dragonfly City alone!<color=#097a76>(Main character duels)</color>,ข้ามาที่นี่เพื่อเรียนรู้ทักษะของเมืองแมลงปอเพียงลำพัง!<color=#097a76>(การต่อสู้ของตัวละครหลัก)</color>
+M20321-2_4option2_3,"There's no need for all the sects to take action, we'll deal with you!<color=#097a76>(Contest)</color>",ไม่จำเป็นต้องให้ทุกนิกายดำเนินการ เราจะจัดการกับเจ้า!<color=#097a76>(การประกวด)</color>
+M20321-2_4option2_4,Being an audience is also good.,เป็นผู้ชมบ้างก็ดีเช่นกัน
+M20300-61_name,Helping others is the source of happiness,การช่วยเหลือผู้อื่นเป็นรากฐานของความสุข
+M20300-61_talk,Visit,เยี่ยม
+M20300-61_overview1,Come back at the same time the next day to treat the injured man's leg.,วันรุ่งขึ้นกลับมารักษาชายที่ได้รับบาดเจ็บที่ขาอีกครั้ง
+M20300-61_overview2,Find a way to get Healing medicine to heal the injured man's leg.,หาวิธีการรับยารักษาเพื่อรักษาขาของชายผู้บาดเจ็บ
+M20300-61_overview3,"Met the man with the injured leg, temporarily refuse to heal.",ข้าเห็นชายคนหนึ่งมีอาการบาดเจ็บที่ขาและปฏิเสธการรักษา
+M20300-61_npcname,A weak middle-aged man,ชายวัยกลางคนที่อ่อนแอ
+M20300-61_option1_4_dialog,"I've been stabbed and can't move, can you help me find some medicine?",ข้าถูกแทงขยับไม่ได้ เจ้าช่วยหายารักษาให้หน่อยได้ไหม?
+M20300-61_option1_1,I have some knowledge in medical skills and can heal you. <color=#097a76>(Medical level 30)</color>,ข้ามีความรู้ด้านการแพทย์อยู่บ้าง ข้าสามารถรักษาท่านได้ <color=#097a76>(ระดับการแพทย์ 30)</color>
+M20300-61_option1_2,I have a bottle of medicine that can heal you. <color=#097a76>(1 bottle of Healing medicine)</color>,ข้ามียารักษาที่สามารถรักษาท่านได้ <color=#097a76>(ยารักษา 1 )</color>
+M20300-61_option1_3,How can I save you?,ข้าจะช่วยเจ้าได้อย่างไร?
+M20300-61_option1_4,"I'm sorry, I can't help you. Goodbye~",ขออภัย ข้าคงช่วยเจ้าไม่ได้ ขอลาก่อน~
+M20300-61_option2_4_dialog,"Young man, are you here to heal me?",น้องชาย เจ้ามาที่นี่เพื่อรักษาข้าใช่ไหม?
+M20300-61_option2_1,I'll continue to heal you with my medical skills. <color=#097a76>(Medical level 30)</color>,ข้าจะรักษาท่านต่อไปด้วยทักษะทางการแพทย์ของข้า <color=#097a76>(ระดับการแพทย์ 30)</color>
+M20300-61_option2_2,I brought Healing medicine to apply on you. <color=#097a76>(1 bottle of Healing medicine)</color>,ข้านำยารักษามาให้ท่าน <color=#097a76>(ยารักษา 1)</color>
+M20300-61_option2_3,I'm here to arrest you! <color=#c44b0e>(Solo fight by the protagonist)</color>,ข้ามาที่นี่เพื่อจับกุมคุณ! <color=#c44b0e>(การต่อสู้เดี่ยวโดยตัวเอก)</color>
+M20300-61_option2_4,"Hang in there, I'm not ready yet.",รอก่อน ข้ายังไม่พร้อม
+M20300-61_option3_1,Agree to join Shi Chen's team,ตกลงที่จะเข้าร่วมทีมของซื่อเฉิน
+M20300-61_option3_2,Reject Shi Chen's proposal,ปฏิเสธข้อเสนอของซื่อเฉิน
+M1100-20_name,The rage of the rooster,ความโกรธของไก่ตัวผู้
+M1100-20_overview,Subdue the angry rooster.,ปราบไก่ตัวผู้
+M20300-4_name,Bounty,เงินรางวัล
+M20300-4_overview,Arrest the fugitive,จับกุมผู้หลบหนี
+M20300-4_1_2_overview,Have you seen a man with a <color=#c44b0e>knife wound on his leg</color>?,เจ้าเคยเห็นผู้ชายที่มี <color=#c44b0e>แผลถูกมีดที่ขาหรือไม่</color>?
+M20300-4option1_1,Met a man with a leg injury in the north of Lin'an City.,พบชายคนหนึ่งที่มีอาการบาดเจ็บที่ขาทางตอนเหนือของเมืองหลินอัน
+M20300-4option1_2,I'll take you to find this person.,ข้าจะพาท่านไปหาคนนี้เอง
+M20300-4option1_3,Can you provide more details?,ท่านสามารถให้รายละเอียดเพิ่มเติมได้หรือไม่?
+M20300-4option1_4,"I haven't seen him, goodbye.",ข้าไม่เห็นเลย ขออภัย
+M20306-1_name,Enemies meet,ศัตรูมาพบกัน
+M20306-2_name,It's better to resolve enmities than to keep them,แก้ศัตรูได้ดีกว่ารักษาไว้
+M20319-1_name,Maiden House puzzle,ปริศนาตำหนักพิสุทธิ์
+M20319-1_overview1,"Crack the Maiden House puzzle: <color=#c44b0e>Monk with a painting, piano in Chu Pavilion, chess game hidden treasure, grass covering the gate</color>","ไขปริศนาตำหนักพิสุทธิ์: <color=#c44b0e>พระกับภาพวาด, พิณในตำหนัก, หมากรุกที่ซ่อนอยู่ร้านศาลาปราณีต, ลายมือในศาลาว่าการ</color>"
+M20319-1_overview2,Ask the host how to meet the courtesan.,ถามเจ้าของว่าจะพบกับนางโลมได้อย่างไร
+M20319-1option1_1,"Here is ten guan, please give me a riddle, host. <color=#097a76>(10000 wen)</color>",นี่เงิน 10 ตำลึง โปรดช่วยข้าไขปริศนาด้วยเถอะท่านเจ้าบ้าน <color=#097a76>(10000 อีแปะ)</color>
+M20319-1option1_2,"I admire the lady's talent, can you give me a discount? <color=#097a76>(Persuade level Expert, 5000 wen)</color>","ข้าชื่นชมความสามารถของท่าน ท่านให้ส่วนลดข้าได้ไหม? <color=#097a76>(ชักชวนระดับผู้เชี่ยวชาญ 5,000 อีแปะ)</color>"
+M20319-1option1_3,"Considering our relations, can you give me a discount? <color=#097a76>(Relations level 60, 5000 wen)</color>","ถ้าพูดถึงความสัมพันธ์ของเรา เจ้าให้ส่วนลดข้าได้ไหม?  <color=#097a76>(ความสัมพันธ์ ระดับ 60, 5000 อีแปะ)</color>"
+M20319-1option1_4,I'm just here to watch,ข้าแค่มาเพื่อดู
+M20319-1_1_2_overview,"Young man, are you here to solve the riddle? Please pay a deposit of 10 guan first.",จอมยุทธ์น้อย ท่านมาที่นี่เพื่อแก้ไขปริศนาใช่หรือไม่? กรุณาจ่ายเงินมัดจำ 10 ตำลึง ก่อน
+M20328-1_name,Maiden House upstairs,ชั้นบนตำหนักพิสุทธิ์
+M20300-51_option1_dialog,"(This guy's acting is really bad, he obviously wants to scam me, how should I respond?)",(การแสดงของผู้ชายคนนี้แย่มากจริง ๆ เห็นได้ชัดว่าเขาพยายามหลอกลวงข้า ข้าจะตอบกลับอย่างไร?)
+M20300-51_option1_1,"I'm really sorry, here's 200 wen as an apology. <color=#097a76>(200 wen)</color>",ข้าขอโทษจริงๆ นี่คือเงิน 200 อีแปะ เพื่อเป็นการขอโทษ.  <color=#097a76>(200 อีแปะ)</color>
+M20300-51_option1_2,"I don't have money, but if you want a fight, I can accompany you. <color=#097a76>(Main character fights alone)</color>",ข้าไม่มีเงิน แต่ถ้าเจ้าอยากจะต่อยตี ก็จัดมา <color=#097a76>(ตัวละครหลักต่อสู้คนเดียว)</color>
+M20300-51_option1_3,Trying to scam a group of us is really unwise. <color=#097a76>(Start a fight directly)</color>,มันไม่ฉลาดเลยที่จะหลอกลวงพวกของเรา.  <color=#097a76>(เริ่มการต่อสู้โดยตรง)</color>
+M20300-52_option1_dialog,"(Listening to this Taoist priest speaking so seriously, but his appearance really makes me uneasy, how should I respond?)",ฟังนักบวชลักธิเต่าท่านนี้พูดอย่างจริงจังมาก แต่รูปลักษณ์ของเขา ทำให้ข้ารู้สึกไม่สบายใจจริงๆ ข้าควรจะทำยังไง?
+M20300-52_option1_1,Offer 5 guan money to RequestCrack method. <color=#097a76>(5000 Wen)</color>,เสนอเงิน 5 ตำลึง เพื่อขอวิธีแก้เคล็ด <color=#097a76>(5000 อีแปะ)</color>
+M20300-52_option1_2,"I don't have much money, I really want to but I can't.",ข้าไม่ได้มีเงินมาก ข้าก็อยากทำจริงๆ แต่ข้าทำไม่ได้
+M20300-52_option1_3,"I'm tough, I don't need the Crack method.",ข้าเก่งอยู่ ไม่ต้องการวิธีแก้เคล็ดหรอก
+M20300-53_1_option1_dialog,"(Beggars have often been extraordinary individuals since ancient times, but I can't figure out the background of the one in front of me, how should I respond?)","(ตั้งแต่สมัยโบราณ, ขอทานมักจะเป็นบุคคลที่ไม่ธรรมดา ข้าไม่สามารถรู้ภูมิหลังของชายที่อยู่ตรงหน้าข้า ข้าจะตอบสนองอย่างไรดี?)"
+M20300-53_1_option1_1,(Take out 10 taels of money to BuyManual)<color=#097a76>(10000 wen)</color>,(นำเงิน 10 ตำลึงออกมาเพื่อซื้อคัมภีร์) <color=#097a76>(10000 อีแปะ)</color>
+M20300-53_1_option1_2,"I don't have much money, I really want to but I can't.",ข้าไม่ได้มีเงินมาก ข้าก็อยากทำจริงๆ แต่ข้าทำไม่ได้
+M20300-53_1_option1_3,"I'll leave the opportunity to others, I'm not interested.",ข้าจะทิ้งโอกาสให้คนอื่นข้าไม่สนใจ
+M20300-53_1_option2_dialog,"(Is this beggar desperate for talent or just trying to squeeze my money bag dry, how should I respond?)","(ขอทานคนนี้สิ้นหวังไร้ความสามารถหรือแค่พยายามรีดเงินของข้าจนหมด, ข้าควรตอบโต้อย่างไรดี)"
+M20300-53_1_option2_1,(Take out 1 tael of money to BuyManual)<color=#097a76>(1000 wen)</color>,(นำเงิน 1 ตำลึงออกมาเพื่อซื้อคัมภีร์) <color=#097a76>(1000 อีแปะ)</color>
+M20300-53_1_option2_2,"I don't have much money, I really want to but I can't.",ข้าไม่ได้มีเงินมาก ข้าก็อยากทำจริงๆ แต่ข้าทำไม่ได้
+M20300-53_1_option2_3,(Pierce the beggar's sincere gaze and Run away on my own),(ไม่สนใจสายตาจริงใจของขอทาน และเดินจากไป)
+M20300-53_1_option3_dialog,"(Who would willingly lower their standards if not forced by life, should I help him out?)",(ใครจะอยากให้ชีวิตตัวเองตกต่ำลง ถ้าไม่ถูกบังคับด้วยชีวิต ข้าควรช่วยเขาไหม?)
+M20300-53_1_option3_1,(Give the beggar 50 wen)<color=#097a76>(50 wen)</color>,(ให้เงินแก่ขอทาน 50 อีแปะ)<color=#097a76>(50 อีแปะ)</color>
+M20300-53_1_option3_2,(Give the beggar 500 wen)<color=#097a76>(500 wen)</color>,(ให้เงินแก่ขอทาน 500 อีแปะ)<color=#097a76>(500 อีแปะ)</color>
+M20300-53_1_option3_3,(Pierce the beggar's request and Run away on my own),(ไม่สนใจคำขอของขอทาน และเดินจากไป)
+M20300-54_1_option1_dialog,"(This guy looks like a wealthy person, but I'm not sure if his get-rich-quick opportunity is trustworthy, how should I respond?)",(คนๆนี้ดูแล้วมีฐานะ แต่ก็ไม่แน่ใจว่าโอกาสได้เงินง่ายๆเช่นนี้จะเชื่อถือได้มั้ย ควรทำยังไงดี)
+M20300-54_1_option1_1,(Take out 100 wen to give to the merchant)<color=#097a76>(100 wen)</color>,(นำเงิน 100 อีแปะให้แก่พ่อค้า) <color=#097a76>(100 อีแปะ)</color>
+M20300-54_1_option1_2,(Take out 10 taels of money to give to the merchant)<color=#097a76>(10000 wen)</color>,(นำเงิน 10 ตำลึงให้แก่พ่อค้า) <color=#097a76>(10000 อีแปะ)</color>
+M20300-54_1_option1_3,"I don't have much money, I really want to but I can't.",ข้าไม่ได้มีเงินมาก ข้าก็อยากทำจริงๆ แต่ข้าทำไม่ได้
+M20300-54_1_option1_4,I'm not interested in making money.,ข้าไม่มีความสนใจในการทำเงิน
+M20300-54_2_option2_dialog,"(I feel like I've been deceived by this guy, but he makes some sense, should I just let him go?)",(รู้สึกเหมือนจะถูกหลอกเลย แต่ที่พูดมาก็ดูสมเหตุสมผลนะ ควรปล่อยไปมั้ย)
+M20300-54_1_option2_1,You're going to spit out every penny of my money!<color=#097a76>(Specific battle)</color>,เอาเงินข้าคืนมาให้หมดซะ! <color=#097a76>(เข้าสู่การต่อสู้)</color>
+M20300-54_1_option2_2,"I'll take the loss on this money, I need to be more careful next time.",ข้าจะยอมขาดทุนเองก็ได้ คราวหน้าต้องระวังมากกว่านี้
+M20321-1_option1_1,"I have an invitation, of course I can come in!<color=#097a76>(Duke Chai's invitation card)</color>",ข้ามีเทียบเชิญ ข้าสามารถเข้าไปได้หรือยัง! <color=#097a76>(เทียบเชิญของอ๋องไฉ)</color>
+M20321-1_option1_2,Someone asked me to give this to you.<color=#097a76>(Rumor token)</color>,มีคนขอให้ข้ามอบสิ่งนี้ให้กับเจ้า<color=#097a76>(สัญลักษณ์ข่าวลือ)</color>
+M20321-1_option1_3,Someone poisoned the wine at the birthday banquet.,มีคนวางยาพิษในสุราของงานเลี้ยงวันเกิด
+M20321-1_option1_4,"Just passing by, sorry to disturb.",แค่ผ่านมาเฉยๆ ขอโทษที่รบกวน
+M20321-1_option2_dialog,Would you like to join the Rumor Platform?,เจ้าอยากเข้าร่วมกับ ลานลือเรื่อง หรือไม่
+M20321-1_option2_1,"I, {PlayerName}, am willing to join the Rumor Platform!",ข้า {PlayerName} ต้องการเข้า ลานลือเรื่อง!
+M20321-1_option2_2,"I'm not interested, excuse me!",ข้าไม่สนใจ ขอโทษนะ!
+M20321-3_option1_1,"I have an invitation, of course I can come in!<color=#097a76>(Duke Chai's invitation card)</color>",ข้ามีเทียบเชิญ ข้าสามารถเข้าไปได้หรือยัง! <color=#097a76>(เทียบเชิญของอ๋องไฉ)</color>
+M20321-3_option1_2,Someone asked me to give this to you.<color=#097a76>(Rumor token)</color>,มีคนขอให้ข้ามอบสิ่งนี้ให้กับเจ้า<color=#097a76>(สัญลักษณ์ข่าวลือ)</color>
+M20321-3_option1_3,Someone poisoned the wine at the birthday banquet.,มีคนวางยาพิษในสุราของงานเลี้ยงวันเกิด
+M20321-3_option1_4,"Just passing by, sorry to disturb.",แค่ผ่านมาเฉยๆ ขอโทษที่รบกวน
+M20321-3_option2_dialog,Would you like to join the Rumor Platform?,เจ้าอยากเข้าร่วมกับ ลานลือเรื่อง หรือไม่
+M20321-3_option2_1,"I, {PlayerName}, am willing to join the Rumor Platform!",ข้า {PlayerName} ต้องการเข้า ลานลือเรื่อง!
+M20321-3_option2_2,"I'm not interested, excuse me!",ข้าไม่สนใจ ขอโทษนะ!
+M20316-1_option1_dialog,Do you know what kind of wine vessel can enhance the color of light-colored wine?,เจ้ารู้ไหมว่าถังสุราแบบไหน ที่สามารถเพิ่มสีของสุราจางๆให้เข้มได้
+M20316-1_option1_1,Gold cup,ถ้วยทองคำ
+M20316-1_option1_2,Luminous cup,จอกเจิดจรัส
+M20316-1_option1_3,Porcelain cup,ถ้วยลายคราม
+M20316-1_option1_4,Jade cup,ถ้วยหยก
+M20316-2_option1_1,What are the top sects in the martial arts world?,สำนักชั้นนำของยุทธภพอะไรกัน?
+M20316-2_option1_2,"I have important things to do, I'll listen to your high theory another day.",ข้ามีเรื่องสําคัญที่ต้องทํา ไว้ภายภาคหน้าข้าจะฟังทฤษฎีขั้นสูงของเจ้า
+M20316-2_option2_1,Help Cai Youzhi.<color=#097a76>(Specific battle)</color>,ช่วยไช่โหยวจื่อ <color=#097a76>(เข้าสู่การต่อสู้)</color>
+M20316-2_option2_2,Help Shuo Shuren.<color=#097a76>(Specific battle)</color>,ช่วย โช่วชูเหริน <color=#097a76>(เข้าร่วมการต่อสู้)</color>
+M20300-22_option1_dialog,"Huh? That guy is sneaky, doesn't look like he's up to any good.\nShould I go check it out?","หือ ยายแก่ดูลับๆล่อๆนะ คงไม่มีเจตนาที่ดีแน่\nควรไปดูหน่อยดีมั้ย"
+M20300-22_option1_1,(Stop this suspicious person as soon as possible)<color=#097a76>(Specific Battle)</color>,(หยุดยั้งบุคคลต้องสงสัยรายนี้ให้เร็วที่สุด)<color=#097a76>(เข้าสู่การต่อสู้)</color>
+M20300-22_option1_2,"Safety first, better not to stir up trouble.","ความปลอดภัยต้องมาก่อน, อย่าสร้างปัญหาดีกว่า"
+R10048-1_npcname1,A man in strange clothes,ชายในชุดประหลาด
+R10048-1_option1_1,The one who should really get out is you!<color=#097a76>(Main character's solo fight)</color>,คนที่ต้องออกไปมันเจ้าต่างหาก! <color=#097a76>(ตัวเอกสู้คนเดียว)</color>
+R10048-1_option1_2,This arrogant guy really pisses me off! <color=#097a76>(Specific Battle)</color>,ไอเจ้าคนโอหังนี้ช่างทำให้ข้าหงุดหงิดนัก! <color=#097a76>(เข้าสู่การต่อสู้)</color>
+R10048-1_option1_3,"Forget it, if you can't beat them, avoid them.",ช่างมันเถอะ ถ้าสู้ไม่ได้ ก็เลี่ยงๆดีกว่า
+M20307-1_option1_dialog,"This guy is too arrogant, he doesn't seem easy to deal with. But, should we just let him run away easily?",หมอนี่โอหังเกินไแล้ว แถมยังดูจัดการไม่ได้ง่ายๆด้วย แต่เราควรปล่อยให้มันหนีไปง่ายๆเหรอ
+M20307-1_option1_1,(Challenge Hattori Hyoe)<color=#097a76>(Solo Fight)</color>,(ประลองกับ ฮาโตริ เฮียวเอะ) <color=#097a76>(ต่อสู้คนเดียว)</color>
+M20307-1_option1_2,(Let him run away due to lack of strength),(ปล่อยให้หนีไปเพราะไม่มีแรงเหลือ)
+M20311-2_talk,Become a disciple,เข้าเป็นศิษย์
+M20311-2_option1_1,Join Shifa Temple<color=#097a76>(Benevolence)</color>,เข้าอารามฉีฟา <color=#097a76>(ศีลธรรม)</color>
+M20311-2_option1_2,Donate to Shifa Temple<color=#097a76>(Money)</color>,บริจาคให้อารามฉีฟา <color=#097a76>(เงิน)</color>
+M20311-2_option1_3,"Nothing, just saying hello.",ไม่มีอะไร ข้าแค่มาทักทาย
+M20311-2_option2_dialog,"If you are ready, follow me back to Shifa Temple.",ถ้าพร้อมแล้ว ตามข้ากลับอารามฉีฟา
+M20311-2_option2_1,"I'm ready, let's go now.",ข้าพร้อมแล้ว ไปกันเถอะ
+M20311-2_option2_2,"I'm not ready, I have things to deal with.",ข้ายังไม่พร้อม ข้ายังมีเรื่องต้องจัดการ
+M20311-2_option3_dialog,Are you ready to join our Shifa Temple?,เจ้าพร้อมที่จะเข้าร่วม วัดชิฟา ของเราแล้วหรือยัง?
+M20311-2_option3_1,"I'm ready, let's go now.",ข้าพร้อมแล้ว ไปกันเถอะ
+M20311-2_option3_2,"I'm not ready, I have things to deal with.",ข้ายังไม่พร้อม ข้ายังมีเรื่องต้องจัดการ
+M20304-1_npcname1,Acting Prefect,รักษาการนายอำเภอ
+M20304-1_option1_1,Rotten Food.,อาหารที่่เน่าเสีย
+M20304-1_option1_2,Ordinary Meal.,อาหารธรรมดา
+M20304-1_option1_3,Delicious food.,อาหารอร่อย
+M20304-1_option1_4,Delicious dishes.,อาหารจานโปรด
+M20304-1_option2_1,"Trust you once, I'll give you all my money.<color=#097a76>(All Money)</color>",ข้าจะเชื่อเจ้าสักครั้ง จะให้เงินทั้งหมดแก่เจ้า <color=#097a76>(เงินทั้งหมด)</color>
+M20304-1_option2_2,"One person does, one person is responsible, no need for others to take the blame for me.",ทำคนเดียว รับผิดชอบคนเดียว ไม่ต้องให้คนอื่นมารับผิดชอบแทนข้า
+M20302_talking,Stay in the inn,พักแรมที่โรงเตี๊ยม
+M20302option_1,Stay in the inn. <color=#097a76>(200 coins)</color>,พักผ่อนในโรงเตี้ยม. <color=#097a76>(200 อีแปะ)</color>
+M20302option_2,Think about it.,ลองคิดดูสิ
+M20302option_3,Rest well.,ข้านอนเต็มอิ่มแล้ว
+M20302option_4,Insist on staying.,ยืนกรานที่จะอยู่
+M20302option_5,Stay in the inn again. <color=#097a76>(200 coins)</color>,พักผ่อนในโรงเตี้ยมอีกครั้ง. <color=#097a76>(200 coins)</color>
+S1000-21_1_option1_1,"This game is so fun, I want to keep playing!",เกมนี้สนุกมากจนข้าอยากจะเล่นต่อไป!
+S1000-21_1_option1_2,Such a crappy game doesn't deserve me to play!,เกมเส็งเคร็งเช่นนี้ไม่คู่ควร ให้ข้าเล่น!
+M20332-1_option1_1,Of course interested.,แน่นอนข้าสนใจ
+M20332-1_option1_2,Not interested at all.,ข้าไม่สนใจเลย
+M20332-1_option2_dialog,Which of the above options do you plan to choose?,ตัวเลือกใดที่เจ้าต้องการเลือกข้างต้น?
+M20332-1_option2_1,Watch the new feature development screen.,รับชมหน้าจอการพัฒนาฟีเจอร์ใหม่ๆ
+M20332-1_option2_2,Trial version power gift pack.,ชุดของขวัญพลัง เวอร์ชันทดลอง
+battle_test_story_option1_1,Enter Battle 1,เข้าสู่การต่อสู้ 1
+battle_test_story_option1_2,Enter Battle 2,เข้าสู่การต่อสู้ 2
+battle_test_story_option1_3,Run away (can be triggered repeatedly),หนี(สามารถเรียกใช้ซ้ำได้)
+M1100-21_name,Go to Lin'an City to broaden your horizons.,ไปที่เมืองหลินอันเพื่อขยายขอบเขตอันไกลโพ้นของคุณ
+M1100-21_overview_1,Attend Chai Wangye's birthday banquet on the 10th day of Jianghu.,เข้าร่วมงานเฉลิมฉลองวันเกิดของอ๋องไฉ ในวันที่ 10 ของยุทธภพ
+M1100-23_name,Explore Time,เวลาสำรวจ
+M1100-23_overview,"The main content of the trial version comes to an end, exploring around may discover new content.",เนื้อหาหลักของเวอร์ชันทดลองสิ้นสุดลง สามารถสํารวจรอบพบกับเนื้อหาใหม่ได้
+M1200-1_npcname,Official,เจ้าหน้าที่

@@ -1,0 +1,163 @@
+key,original,translation,context
+RandomBattle_0,Start Battle,,开战
+RandomBattle_1,Sophistry (Success Rate: {0}%),,诡辩（成功率：{0}%）
+RandomBattle_2,Escape (Success Rate: {0}%),,逃跑（成功率：{0}%）
+RandomBattle_3,Pay {0} Wen,,缴纳{0}文钱
+RandomBattle_4,Pay 1 {0}: {1},,缴纳1件{0}：{1}
+startTip_上京城,"The Government Office is looking for you everywhere, but you came to us!",,衙门到处缉拿你，没成想你倒主动送上门了！
+fightTip_上京城,"Assaulting a Government Office employee is a serious crime, are you ignorant of the law?",,殴打衙门职员可是罪加一等，你是个法盲吧？
+explainSuccessTip_上京城,"What you said makes sense, I can't refute it!",,你说的好像很有道理，我竟无法反驳！
+explainFailTip_上京城,"Confession is lenient, resistance is strict! Everything you say will be used as evidence, and lying will increase your punishment!",,坦白从宽，抗拒从严！你说的所有话都是呈堂证供，作假罪加一等！
+apologySuccessTip_上京城,"Since you are so sincere, go ahead, I didn't see anything!",,看在你这么有诚意的份上，快走吧，我什么都没看见！
+apologyItemQuitTip_ 上京城,"The Capital Prison welcomes you, come with me!",,上京牢房欢迎你，跟我走一趟吧！
+runAwaySuccessTip_上京城,"Arrogant people will fall sooner or later! Remember, the net of heaven is wide but lets nothing through!",,猖狂的人早晚会栽跟头的！要知道天网恢恢疏而不漏！
+runAwayFailTip_上京城,You think you can escape from the Government Office? That would be a disgrace to my uniform!,,衙门跟前还能让你畏罪潜逃？那还真是对不起自己的这身衣服！
+failMoneyTip_上京城,"The food has been scarce lately, we were just about to have a feast! Kid, you're in luck!",,近来伙食缩水严重，哥几个正好去打打牙祭！小子，你走大运了！
+failItemOtherTip_上京城,"How did you get such a valuable treasure? You must have stolen it, right? Confiscated!",,你怎么会有这样贵重的宝物？想必是从旁处顺手牵羊吧？没收了！
+failItemBagTip_上京城,"The goods are confiscated, you can go now, go wherever you want!",,东西充公，你可以走了，该去哪去哪吧！
+failBuffTip_上京城,I hope you reflect on your actions! Don't show up in public for a while!,,希望你回去好好反思！短期内不要出来招摇撞市了！
+startTip_霖安城,"The Government Office is looking for you everywhere, but you came to us!",,衙门到处缉拿你，没成想你倒主动送上门了！
+fightTip_霖安城,"Assaulting a Government Office employee is a serious crime, are you ignorant of the law?",,殴打衙门职员可是罪加一等，你是个法盲吧？
+explainSuccessTip_霖安城,"What you said makes sense, I can't refute it!",,你说的好像很有道理，我竟无法反驳！
+explainFailTip_霖安城,"Confession is lenient, resistance is strict! Everything you say will be used as evidence, and lying will increase your punishment!",,坦白从宽，抗拒从严！你说的所有话都是呈堂证供，作假罪加一等！
+apologySuccessTip_霖安城,"Since you are so sincere, go ahead, I didn't see anything!",,看在你这么有诚意的份上，快走吧，我什么都没看见！
+apologyItemQuitTip_ 霖安城,"Lin'an Prison welcomes you, come with me!",,霖安牢房欢迎你，跟我走一趟吧！
+runAwaySuccessTip_霖安城,"Arrogant people will fall sooner or later! Remember, the net of heaven is wide but lets nothing through!",,猖狂的人早晚会栽跟头的！要知道天网恢恢疏而不漏！
+runAwayFailTip_霖安城,You think you can escape from the Government Office? That would be a disgrace to my uniform!,,衙门跟前还能让你畏罪潜逃？那还真是对不起自己的这身衣服！
+failMoneyTip_霖安城,"The food has been scarce lately, we were just about to have a feast! Kid, you're in luck!",,近来伙食缩水严重，哥几个正好去打打牙祭！小子，你走大运了！
+failItemOtherTip_霖安城,"How did you get such a valuable treasure? You must have stolen it, right? Confiscated!",,你怎么会有这样贵重的宝物？想必是从旁处顺手牵羊吧？没收了！
+failItemBagTip_霖安城,"The goods are confiscated, you can go now, go wherever you want!",,东西充公，你可以走了，该去哪去哪吧！
+failBuffTip_霖安城,I hope you reflect on your actions! Don't show up in public for a while!,,希望你回去好好反思！短期内不要出来招摇撞市了！
+startTip_汴州城,"The Government Office is looking for you everywhere, but you came to us!",,衙门到处缉拿你，没成想你倒主动送上门了！
+fightTip_汴州城,"Assaulting a Government Office employee is a serious crime, are you ignorant of the law?",,殴打衙门职员可是罪加一等，你是个法盲吧？
+explainSuccessTip_汴州城,"What you said makes sense, I can't refute it!",,你说的好像很有道理，我竟无法反驳！
+explainFailTip_汴州城,"Confession is lenient, resistance is strict! Everything you say will be used as evidence, and lying will increase your punishment!",,坦白从宽，抗拒从严！你说的所有话都是呈堂证供，作假罪加一等！
+apologySuccessTip_汴州城,"Since you are so sincere, go ahead, I didn't see anything!",,看在你这么有诚意的份上，快走吧，我什么都没看见！
+apologyItemQuitTip_ 汴州城,"Bianliang Prison welcomes you, come with me!",,汴梁牢房欢迎你，跟我走一趟吧！
+runAwaySuccessTip_汴州城,"Arrogant people will fall sooner or later! Remember, the net of heaven is wide but lets nothing through!",,猖狂的人早晚会栽跟头的！要知道天网恢恢疏而不漏！
+runAwayFailTip_汴州城,You think you can escape from the Government Office? That would be a disgrace to my uniform!,,衙门跟前还能让你畏罪潜逃？那还真是对不起自己的这身衣服！
+failMoneyTip_汴州城,"The food has been scarce lately, we were just about to have a feast! Kid, you're in luck!",,近来伙食缩水严重，哥几个正好去打打牙祭！小子，你走大运了！
+failItemOtherTip_汴州城,"How did you get such a valuable treasure? You must have stolen it, right? Confiscated!",,你怎么会有这样贵重的宝物？想必是从旁处顺手牵羊吧？没收了！
+failItemBagTip_汴州城,"The goods are confiscated, you can go now, go wherever you want!",,东西充公，你可以走了，该去哪去哪吧！
+failBuffTip_汴州城,I hope you reflect on your actions! Don't show up in public for a while!,,希望你回去好好反思！短期内不要出来招摇撞市了！
+startTip_九流门,"You must be tired of living to walk into the trap! Brothers, let's make sure this kid doesn't leave!",,想来是活腻了，要不然怎么会自投罗网！兄弟们上，今日让这小子有来无回！
+fightTip_九流门,"You chose this! It seems that today, the Nine Factions Sect will be your burial ground!",,这是你自己选的！看来今日，九流门便会成为你的丧命之地！
+explainSuccessTip_九流门,"It seems you have a point! Go quickly, don't let my brothers see you again!",,好像是能说得通!快走吧，别再让兄弟们看见你！
+explainFailTip_九流门,Say it again and I'll cut off your tongue! Let's see if you can lie then!,,再说就把你的舌头割下来！看你今后还能不能说谎！
+apologySuccessTip_九流门,"Money can solve everything! Since you're willing to bleed, I'll spare your worthless life!",,钱能解决的事都不叫事！看在你肯放血的份上，就饶了你这条不值钱的小命好了！
+apologyItemQuitTip_ 九流门,"You dare to trick us! Be careful, we might take you back and give you to the butcher as meat bun filling!",,竟然敢捉弄我们！当心把你抓回去送给包屠户做肉包子的原材料！
+runAwaySuccessTip_九流门,"Forget it, escape this time, next time will be your death anniversary! Consider it a last hurrah!",,算了算了，这次逃走，下次就是忌日！算是临终前的回光返照得了！
+runAwayFailTip_九流门,Want to escape from the Nine Factions Sect? Still dreaming? Better think about how to please my brothers!,,想从九流门逃出去？梦没醒吗？还不如想想怎么讨好兄弟们！
+failMoneyTip_九流门,"Wouldn't it be better to do this earlier? Brothers, let's go! Let's eat meat!",,早这样不就好了吗？兄弟们走！吃肉去！
+failItemOtherTip_九流门,"How dare a nobody like you use such a thing? People need face, trees need bark, you can get lost now!",,像你这种小人物，怎么好意思用这种东西的？人要脸树要皮，你可以滚了！
+failItemBagTip_九流门,"Looking at your poor appearance, I didn't expect to find anything good on you! Go, go, go! Hurry up and leave!",,看你这穷酸相，也没指望能在你身上搜罗到什么好东西！滚滚滚！赶紧滚！
+failBuffTip_九流门,"Run for your life! Hahaha! If you cause trouble again, Nine Factions Sect will make you regret it! Enter vertically and exit horizontally!",,逃命去吧！哈哈哈！要是再来惹晦气，九流门定会让你吃不了兜着走！竖着进横着出！
+startTip_儒圣馆,"You've provoked me time and time again, today I'll let you know that Confucius Temple is not to be trifled with!",,你三番两次挑衅，今日便让你知道，儒圣馆不是吃素的！
+fightTip_儒圣馆,"You've got guts, today I'll let you see the power of Confucius Temple, and scare you out of your wits!",,真有胆量，今天便让你见识见识儒圣馆的厉害，吓破你的胆!
+explainSuccessTip_儒圣馆,"Hmph, I suppose you wouldn't dare to lie! But if there's a next time, you'll regret it for the rest of your life!",,哼，谅你这厮也不敢骗人！但若再有下次，定会让你后悔终身！
+explainFailTip_儒圣馆,A mouth that only speaks nonsense is better off being poisoned mute.,,只说胡话的嘴巴，更适合被毒哑。
+apologySuccessTip_儒圣馆,"Didn't expect you to be quite smart, knowing how to use money to get things done, this time I'll let you off the hook!",,没想到你还挺聪明的，知道用钱做事，这次便放你一马！
+apologyItemQuitTip_ 儒圣馆,"Man is here, heaven is watching. Such lowly behavior, aren't you afraid of divine punishment?!",,人在，做天在看。如此低端的行为，就不怕遭天谴吗？！
+runAwaySuccessTip_儒圣馆,I'll let you live a little longer for now!,,暂且让你先苟活一阵子！
+runAwayFailTip_儒圣馆,"Entering Confucius Temple's No Escape is like trying to fly with wings clipped! Instead of trying to escape, you might as well save your energy to beg for mercy!",,步入儒圣馆的天罗地网，等于插翅难飞！与其想办法逃走，不如留着力气跪地求饶！
+failMoneyTip_儒圣馆,"Disciples of Confucius Temple have always regarded money as dirt! This time is just to teach you a lesson, not coveting your possessions!",,儒圣馆弟子向来视金钱为粪土！这次只是为让你记住教训，并非贪恋你的身外之物！
+failItemOtherTip_儒圣馆,"Without these treasures by your side, you'll be too busy to bother us at Confucius Temple!",,没了这些宝贝傍身，想必你定自顾不暇，如此一来，便没精力再来儒圣馆捣乱了！
+failItemBagTip_儒圣馆,"Fighting with a weakling like you is a waste of time! It's only fair to get some benefits, otherwise it's too much of a loss!",,陪你这武功微末的菜鸡对战，简直是浪费时间！给些好处是情理之中，要不然太亏了！
+failBuffTip_儒圣馆,"If you want to save some face, don't set foot in Confucius Temple's territory again!",,若是还要些颜面，今后就不要再踏足儒圣馆的地界！
+startTip_藏剑山庄,"You little thief, dare to come here, do you think this is your home! It's not enough to quell the public's anger without punishment!",,你这宵小，竟还敢来，当这里是自己家吗！真是不诛不足以平众怒！
+fightTip_藏剑山庄,Being an enemy of Sword Mountain Villa is a self-destructive act!,,与藏剑山庄为敌，是自毁前程之举！
+explainSuccessTip_藏剑山庄,"Your words make sense, but you need to think thrice before you act in the future.",,阁下所言有理，但往后行事，还需三思而后行。
+explainFailTip_藏剑山庄,It's all nonsense! It seems you still don't know where you went wrong!,,简直是鬼话连篇！看来你还是不知自己错在何处！
+apologySuccessTip_藏剑山庄,"You're a slippery one, next time you won't get off so easily.",,你这滑头，下次可不会这么轻易蒙混过关了。
+apologyItemQuitTip_ 藏剑山庄,How despicable! You will pay a painful price for your ignorant actions!,,真是可恶！你会为你愚昧的行为，付出惨痛的代价！
+runAwaySuccessTip_藏剑山庄,Next time there won't be a chance for you to escape! Reflect on your actions!,,下次不会再给你逃生的机会了！好好反思吧！
+runAwayFailTip_藏剑山庄,"Didn't expect you to have such a cunning mind, just like a self-righteous clown!",,想不到你竟会有这种小心思，真像个自我感觉良好的跳梁小丑！
+failMoneyTip_藏剑山庄,"This money is not even enough to repair half a weapon! You look quite pitiful, I'll let you go this time.",,这些钱还不够修缮半件兵器的！看你也挺可怜的，这次便放过你了。
+failItemOtherTip_藏剑山庄,"A newbie in the martial arts world, how can you possess such a treasure? Before you make a name for yourself, it's better to leave it at Sword Mountain Villa for safekeeping!",,初入江湖的菜鸟，怎配拥有如此至宝？在你成名之前，还是将东西留在藏剑山庄代为保管吧！
+failItemBagTip_藏剑山庄,"Just some worthless trinkets, and a person who can't make it to the stage!",,不过是些拿不出手的玩意，人也一样登不得台面！
+failBuffTip_藏剑山庄,You think you can wander the martial arts world with your qualifications? It's laughable!,,就你这资质也妄想闯荡江湖？真是令人贻笑大方！
+startTip_九江水寨,"Good boy, you've walked right into the trap. You've saved us a lot of effort!",,好小子，自投罗网。倒是给兄弟们省了不少力气！
+fightTip_九江水寨,"Those who dare to challenge Jiujiang Water Camp, none of them ended well! Think it over!",,敢和我们九江水寨叫板的，都没有好下场！你可想清楚了！
+explainSuccessTip_九江水寨,"Alright, alright, your dilly-dallying is giving me a headache! I'll let you go!",,行吧行吧，墨迹的我头都大了！放过你了！
+explainFailTip_九江水寨,"Such a fake excuse, I'm afraid even a ghost wouldn't believe it!",,这么假的理由，怕是鬼都不信！
+apologySuccessTip_九江水寨,"You're quite savvy, knowing to spend money to save your own life! But it won't be so cheap next time!",,你还真是上道，知道花钱买自己的小命！不过下次可不会这么便宜了！
+apologyItemQuitTip_ 九江水寨,"Who are you trying to fool? If you really piss us off, there will be no way out for you!",,忽悠谁呢？真把我们惹急了你不会有退路的！
+runAwaySuccessTip_九江水寨,Damn it! You're as cunning as a loach!,,可恶！竟像条泥鳅一样狡猾！
+runAwayFailTip_九江水寨,"No matter how fast you run, you can't escape from the palm of our hand!",,任凭你跑的再快，也逃不出我们的手掌心！
+failMoneyTip_九江水寨,"Looking at your pocket cleaner than your face, but actually rich as oil! Interesting!",,看着兜比脸都干净，实际上富得流油！有点儿意思！
+failItemOtherTip_九江水寨,"It's a waste to leave these treasures to you! Trash should stay in the mud, stop pretending to be a big shot!",,这些宝贝留给你简直浪费！废物就应该老老实实待在泥里，装什么大尾巴狼！
+failItemBagTip_九江水寨,"We've taken the stuff, as for your people, Jiujiang Water Camp doesn't take in trash! Get lost!",,东西我们拿走了，至于你的人，九江水寨不收废物！滚得远远的吧！
+failBuffTip_九江水寨,"Go back to your gutter and stay put! If you're incompetent, don't come out and make a fool of yourself!",,滚回阴沟旮旯安分待着吧！没本事的愣头青就不要出来惹人笑话了！
+startTip_琳琅书院,"Daring to cause trouble in Linlang Academy, you must have eaten the heart of a bear and the gall of a leopard!",,敢来琳琅书院捣乱，真是吃了熊心豹子胆！
+fightTip_琳琅书院,"Since you're eager to walk into the trap, today will be your one-way trip!",,既然你急切于自投罗网，今日便叫你有来无回！
+explainSuccessTip_琳琅书院,"So it was a misunderstanding? We're sorry, we were impulsive.",,原来是一场误会？真是不好意思，是我们冲动了。
+explainFailTip_琳琅书院,You're talking nonsense! It seems we need to teach you a lesson!,,信口雌黄！看来不教训你是不行了！
+apologySuccessTip_琳琅书院,"Money isn't everything, but without money, you can't do anything. We'll reluctantly accept this time, but don't make it a habit!",,钱不是万能的，但没钱是万万不能的。这次就勉强收了，下不为例！
+apologyItemQuitTip_ 琳琅书院,"Where did you learn this boring trick from, some second-rate sorcerer?",,你这无聊的把戏，是和哪里不入流的术士学的？
+runAwaySuccessTip_琳琅书院,"You can't be lucky all the time, good luck to you!",,你不可能一直这么走运，自求多福吧！
+runAwayFailTip_琳琅书院,Thinking of escaping from Linlang Academy is like a fool's dream!,,想从琳琅书院逃出生天，简直是痴人说梦！
+failMoneyTip_琳琅书院,"It's good that you know your mistake, but don't make the same mistake again!",,知错便好，往后可不要知错犯错！
+failItemOtherTip_琳琅书院,"If you dare to offend again, you'll lose more than just things!",,下次胆敢再犯，少的可就不是东西了！
+failItemBagTip_琳琅书院,"Scholars only talk about reason, they don't shed blood. Remember this lesson and don't offend again!",,读书人只讲道理，不会见血。记住教训，日后莫再来犯！
+failBuffTip_琳琅书院,"How annoying! Don't show up in front of us again, or we'll beat you every time we see you!",,真是讨厌！别再出现在我们眼前，否则见你一次打你一次！
+startTip_释法寺,"The abbot has ordered, {player name} has committed grave sins, we must capture him alive!",,方丈有命，（玩家名）罪孽深重，需生擒此人！
+fightTip_释法寺,"In that case, I'll give you three moves! So you can't say the monk is bullying you!",,既如此，便让施主三招！免得说和尚欺负人！
+explainSuccessTip_释法寺,"In front of Buddha, we don't lie. I believe what you say.",,佛祖面前，不打诳语。贫僧相信施主所言。
+explainFailTip_释法寺,"In front of Buddha, how dare you speak wildly?",,佛祖面前，怎敢口出狂言？
+apologySuccessTip_释法寺,"Amitabha, this incense money, consider it as buying a lesson.",,阿弥陀佛，这香火钱，施主权当买个教训吧。
+apologyItemQuitTip_ 释法寺,Please respect the pure land of Buddhism!,,施主，佛门净地请自重！
+runAwaySuccessTip_释法寺,"You can hide on the first day of the lunar month, but not on the fifteenth!",,躲得过初一，躲不过十五！
+runAwayFailTip_释法寺,"The monk can run away, but the temple can't. Don't struggle in vain!",,跑得了和尚跑不了庙，施主不要做无谓的挣扎了！
+failMoneyTip_释法寺,Knowing your mistakes and correcting them is the greatest virtue.,,知错能改，善莫大焉。
+failItemOtherTip_释法寺,"I hope Buddha will feel your repentance, Amitabha.",,希望佛祖会感受到施主的悔过之心，阿弥陀佛。
+failItemBagTip_释法寺,"The sea of suffering is boundless, turn back is the shore. I hope you remember this lesson and repent as soon as possible.",,苦海无边，回头是岸。希望施主能记住这次教训，早日悔过自新。
+failBuffTip_释法寺,All things in the world have karma. I hope you can become a kind person after this.,,世间万物，皆有业障因果。希望施主经过此事后，做个善良之人。
+startTip_铁浮屠,"I was just worrying about where to find you, and you delivered yourself to my doorstep!",,正愁没地找你这杂碎，没想到自己送上门儿来了！
+fightTip_铁浮屠,"Did we hear wrong? It's good to be brave, but it's useless to lose your life!",,我们没听错吧？有胆量是好事，但白搭性命可就是无知了！
+explainSuccessTip_铁浮屠,"Sweet talk, if we find out it's fake, we'll send you to the king of hell!",,花言巧语，若是被我们发现是假的，就送你去阎王！
+explainFailTip_铁浮屠,"Such poor acting, and you still want to deceive Levitational Steel? How stupid!",,这么拙劣的演技，还妄想骗过铁浮屠？真是愚蠢至极！
+apologySuccessTip_铁浮屠,"It seems you're also a timid person who cherishes life! Levitational Steel won't stoop to crush an ant, get lost!",,看来你也是个胆小如鼠的惜命之人！铁浮屠不会屈尊碾碎一只蚂蚁，滚吧！
+apologyItemQuitTip_ 铁浮屠,"Dare to fool us, it seems you're really tired of living!",,敢愚弄我们，看来你真是活腻了！
+runAwaySuccessTip_铁浮屠,"It's just an insignificant ant, let it go!",,不过是只不足为据的蝼蚁，随他去吧！
+runAwayFailTip_铁浮屠,"A rabbit trying to escape the eyes of Haidongqing, how foolish!",,兔子竟企图逃过海东青的眼睛，真是愚蠢！
+failMoneyTip_铁浮屠,"With this money, you're worthless! Keep your life and run away!",,有了这些钱，你就没任何价值了！留着你这条命逃生去吧！
+failItemOtherTip_铁浮屠,"Our brothers just need such treasures, it's a bargain to exchange for your life!",,兄弟们正好缺这样的宝贝，换你一命，真是便宜你了！
+failItemBagTip_铁浮屠,"Exchange your life with worldly possessions, you've made a big profit! Go and thank Longevity Heaven! Haha!",,拿身外之物换你一命，你赚大了！快去向长生天叩首致谢吧！哈哈哈！
+failBuffTip_铁浮屠,Offending Levitational Steel won't end well! Next time we won't let you off so easily!,,得罪铁浮屠不会有好果子吃的！下次可就没这么容易放过你了！
+startTip_叶家军,"Ye Family Battalion is your sworn enemy, and you dare to come here!",,叶家军与你势不两立，竟然还敢前来作祟！
+fightTip_叶家军,"We're professionals when it comes to fighting, with your mediocre skills, you're just asking for humiliation!",,论打仗我们可是专业的，就你这三脚猫的功夫，简直是自取其辱！
+explainSuccessTip_叶家军,"We'll let you go this time! If there's a next time, we won't be lenient!",,这次就放过你！再有下次严惩不贷！
+explainFailTip_叶家军,The soldiers of Ye Family Battalion are no fools! Don't think you can fool them!,,叶家军的士兵可不是傻子！休想糊弄过去！
+apologySuccessTip_叶家军,"If you had admitted your mistake earlier, would you have fallen to this point? You can go now!",,若是早些认错至于沦落到这种地步吗？你走吧！
+apologyItemQuitTip_ 叶家军,You'll soon find out how foolish it is to mess with Ye Family Battalion!,,你很快就会知道，戏弄叶家军是件多么愚蠢的事情！
+runAwaySuccessTip_叶家军,"Hmph, forget it, don't chase the poor!",,哼，算了，穷寇莫追！
+runAwayFailTip_叶家军,"With your weak physique, even ten years of training won't help you outrun Ye Family Battalion!",,就你这破体格，再练十年也跑不过叶家军！
+failMoneyTip_叶家军,I was just worrying about not having money to buy military rations! Consider your contribution as a compensation! You can go now!,,正愁没钱买军粮呢！算你将功补过好了！你可以走了！
+failItemOtherTip_叶家军,Good weapons should be used by more capable people! They are of no value in your hands!,,好的兵器应该让更优秀的人来用！在你手中根本发挥不了什么价值！
+failItemBagTip_叶家军,"The things on you are somewhat useful, Ye Family Battalion only kills enemies, you can go!",,你身上这些东西还算有些用处，叶家军只斩敌国之人，你走吧！
+failBuffTip_叶家军,"You've had enough bitterness, don't cause trouble here in the future!",,苦头吃够了，今后就不要来此处捣乱！
+startTip_道玄宗,"What a coincidence, today I will rid the martial arts world of you, the troublemaker!",,真是冤家路窄，今日便为武林除掉你这祸害！
+fightTip_道玄宗,Just what I wanted! Everyone in Taoist Sect wishes to punish you!,,正中下怀！道玄宗上下恨不得将你人人得而诛之！
+explainSuccessTip_道玄宗,"What you said makes sense, after all, there is a cause for everything. But don't do it again next time.",,阁下所言的确不无道理，毕竟事出有因。不过下次不许这样了。
+explainFailTip_道玄宗,"You're talking nonsense without any remorse, if I don't teach you a lesson today, it would be a disgrace to the Taoist Sect disciples!",,满口胡诌毫无悔过之心，今日若不校训你，真是妄为道玄宗弟子！
+apologySuccessTip_道玄宗,"Since it's your first offense, the ignorant are not guilty, you can go!",,看你是初犯，所谓不知者无罪，你且走吧！
+apologyItemQuitTip_ 道玄宗,You take pleasure in making fun of others! It's a mistake upon a mistake! I won't let you off easily today!,,戏弄他人愉悦自己！简直是错上加错！今日断不会轻易放过你了！
+runAwaySuccessTip_道玄宗,"You're a cunning fox, you won't be so lucky next time!",,真是狡猾的狐狸，下次再见可不会这么好运了！
+runAwayFailTip_道玄宗,Trying to slip away under the eyes of Taoist Sect disciples is as difficult as climbing to the sky.,,想在道玄宗弟子的眼皮子底下溜走，堪比难如登天。
+failMoneyTip_道玄宗,"As the saying goes, spending money can avoid disasters. Today, since you've paid, I won't hold it against you!",,常言道破财消灾，今日看你出了钱的份上，便不与你计较了！
+failItemOtherTip_道玄宗,A petty thief like you shouldn't have such a top-quality item!,,像你这样的宵小之徒，不该有这样的上品！
+failItemBagTip_道玄宗,"These are just minor punishments, please don't do anything outrageous in the future and provoke public anger!",,这些只是微末惩戒，还请日后不要做出格的事情，再度引起众怒！
+failBuffTip_道玄宗,"I hope this lesson will make you remember, so you won't have to suffer the same in the future!",,希望通过这次教训能让你长记性，免得日后要吃同样的苦头！
+startTip_黑风寨,"You chose to break into hell when there's a road to heaven, kid! Today, we'll show you the right path, make your choice!",,天堂有路你不走，地狱无门你闯进来，小子！今天哥几个给你指条明路，你选吧！
+fightTip_黑风寨,"Good boy! You've got guts, but today you won't have any seeds to sow! Brothers, attack!",,好小子！有种，不过今日你就不再有种了可播种了！兄弟们上！
+explainSuccessTip_黑风寨,"Hmm! You seem to have a point, this time I'll let you go, but if we run into you again, I'll chop you up and feed you to the dogs.",,嗯！好像是有那么点儿道理，这次就他娘放过你，下回再让我们黑风寨撞见，老子准保把你剁了喂狗。
+explainFailTip_黑风寨,"Are you trying to fool the ghosts by burning paper money at the grave? Brothers, don't listen to his sweet talk, just chop these sons of bitches up!",,你他娘上坟烧报纸糊弄鬼呢？兄弟们，别听这小子花言巧语，直接上剁了这帮狗娘养的！
+apologySuccessTip_黑风寨,"Alright, alright, if you were this capable in the first place, you wouldn't be in this situation today. Get lost, and don't let us see you again!",,可以可以，你小子当初要是这么会办事儿，今天也不至于如此下场，滚吧，别让老子们再看到你！
+apologyItemQuitTip_ 黑风寨,"Huh? Are you messing with me? Brothers, attack and chop them up!",,嗯？你他娘的玩老子呢？兄弟给我上，剁了他们！
+runAwaySuccessTip_黑风寨,Damn! Where did he go? He disappeared in such a short time? Consider this bastard lucky!,,我擦！人呢？就这么会儿就跑没了？算这兔崽子走运！
+runAwayFailTip_黑风寨,"Come back here! You think you can run away in front of me? Do you know who I am? Brothers, chop them up!",,回来吧你！想在爷爷面前跑，也不看看爷爷是谁？兄弟们剁了他们！
+failMoneyTip_黑风寨,"Kid, didn't expect you to be so rich! Then leave some for us to build our stronghold! Hahahaha!",,小子，没想到你很富啊！那就留点给兄弟们建设寨子吧！哈哈哈哈哈！
+failItemOtherTip_黑风寨,"Hmph! It's a waste for you useless people to have these treasures, hand them over!",,哼！你们这些废物用这些宝贝真是暴殄天物，拿来吧你！
+failItemBagTip_黑风寨,"Didn't expect this kid to have so many good things in his bag, leave the things and get lost! The boss taught us not to slaughter.",,没想到这小子包里这么多好东西，东西留下，人滚吧！老大教育我们不屠戮。
+failBuffTip_黑风寨,"Hmph! This is what happens when you offend our Black Wind Stronghold, disappear from my sight and enjoy the rest of your life!",,哼！这就是得罪我们黑风寨的下场，快从老子眼前消失，回去好好享受余生吧！
+,,,
