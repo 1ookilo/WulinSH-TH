@@ -3903,8 +3903,8 @@ BuffInfo_宠物特征巨猿之力,Inflict <#FE2929>10 points of Internal Injury<
 BuffInfo_宠物特征猿臂轻身,"<#29F161>Evasion increases by 15%</color>. If Evasion is triggered when being attacked, and the conditions for Counter are met, the attack will definitely Counter."
 BuffInfo_宠物特征憨态可掬,"<#29F161>Parry increases by 10%</color>. When being attacked, the <#29F161>final damage received is reduced by 15%</color>."
 BuffInfo_宠物特征利爪暗藏,Inflict 10 points of Bleeding on the enemy when attacking.,สร้างสถานะเลือดไหล 10 แต้ม เมื่อโจมตี 
-BuffInfo_宠物特征忠心护主,"After being tamed as a pet, when the protagonist is within 2 squares, each time the protagonist is attacked, they only <#29F161>suffer 50% damage</color>, and the pet <#29F161>suffers the remaining 50% damage</color>."
-BuffInfo_宠物特征忠心护主_附属1,"When within 2 squares of the pet, each time you are attacked, you only <#29F161>suffer 50% of the damage</color>, and the pet <#29F161>suffers the remaining 50% of the damage</color>."
+BuffInfo_宠物特征忠心护主,"After being tamed as a pet, when the protagonist is within 2 squares, each time the protagonist is attacked, they only <#29F161>suffer 50% damage</color>, and the pet <#29F161>suffers the remaining 50% damage</color>.",หลังจากถูกฝึกให้เป็นสัตว์เลี้ยง เมื่อตัวละครเอกอยู่ในระยะ 2 ช่อง แต่ละครั้งที่ตัวละครเอกถูกโจมตี จะ<#29F161>ได้รับความเสียหายเพียง 50%</color> และสัตว์เลี้ยง <#29F161>ได้รับความเสียหายที่เหลืออีก 50%</color>
+BuffInfo_宠物特征忠心护主_附属1,"When within 2 squares of the pet, each time you are attacked, you only <#29F161>suffer 50% of the damage</color>, and the pet <#29F161>suffers the remaining 50% of the damage</color>.",เมื่ออยู่ในระยะ 2 ช่องของสัตว์เลี้ยง แต่ละครั้งที่คุณถูกโจมตี จะ <#29F161>ได้รับความเสียหายเพียง 50%</color> และสัตว์เลี้ยง <#29F161>ได้รับความเสียหายที่เหลืออีก 50%</color>
 BuffInfo_宠物特征黑猿之威,Reduce the enemy's <#FE2929>75-150 points of Qi accumulation</color> when attacking.
 BuffInfo_宠物特征淬毒之牙,Inflict <#FE2929>10 points of Poisoned</color> on the enemy when attacking.,เมื่อโจมตี สร้างสถานะ <#FE2929>พิษ 10 แต้ม</color> แก่ศัตรู
 BuffInfo_宠物特征剧毒之牙,Inflict <#FE2929>15 points of Poisoned</color> on the enemy when attacking.,เมื่อโจมตี สร้างสถานะ <#FE2929>พิษ 15 แต้ม</color> แก่ศัตรู
@@ -4156,7 +4156,7 @@ BuffName_伙伴特征大漠雄主_光环附属1,King of Desert
 BuffName_伙伴特征一刀断念,Forsaken Blade,ละทิ้งดาบ
 BuffName_伙伴特征刀意纵横,Blade Qi Explode
 BuffName_伙伴特征隐而不发,Biding Time
-BuffName_伙伴特征火蟾之毒,Flame Toad Venom
+BuffName_伙伴特征火蟾之毒,Flame Toad Venom,พิษคางคกอัคคี
 BuffName_伙伴特征肌肤异变,Skin Mutation
 BuffName_伙伴特征步步为先,Always Ahead
 BuffName_伙伴特征无妄之灾,Collateral Damage,ภัยไม่คาดคิด
@@ -4172,8 +4172,8 @@ BuffName_宠物特征巨猿之力,Ape Power
 BuffName_宠物特征猿臂轻身,Ape Agility
 BuffName_宠物特征憨态可掬,Pure and Honest
 BuffName_宠物特征利爪暗藏,Hidden Claws
-BuffName_宠物特征忠心护主,Loyal Pet
-BuffName_宠物特征忠心护主_附属1,Loyal Pet
+BuffName_宠物特征忠心护主,Loyal Pet,สัตว์เลี้ยงผู้ภักดี
+BuffName_宠物特征忠心护主_附属1,Loyal Pet,สัตว์เลี้ยงผู้ภักดี
 BuffName_宠物特征黑猿之威,Black Ape Aura
 BuffName_宠物特征淬毒之牙,Poisonous Fang
 BuffName_宠物特征剧毒之牙,Venomous Fang

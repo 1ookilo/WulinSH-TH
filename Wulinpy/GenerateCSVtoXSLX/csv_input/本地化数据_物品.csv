@@ -4391,7 +4391,7 @@ ItemName_九江水寨的信件,Jiujiang Water Camp Letter,จดหมายค�
 ItemName_拆封的信件,Seal Off Letter,จดหมายเปิดผนึก
 ItemName_招财当铺银票,Pawnshop Banknote,ตั๋วเงินโรงรับจำนำ
 ItemName_诸葛神机的密信,Zhuge Shenji Secret Letter,สารลับของจูเก๋อเฉินจี
-ItemName_诸葛神机的信件,Zhuge Shenji Letter,จดหมายของจูกัดเฉินจี
+ItemName_诸葛神机的信件,Zhuge Shenji Letter,จดหมายของจูเก๋อเฉินจี
 ItemName_黑色的药粉,Black Powder,ผงสีดำ
 ItemName_神牛宝图·残一,Divine Ox Treasure Map - Part 1,แผนที่สมบัติวัวศักดิ์สิทธิ์ - ส่วนที่ 1
 ItemName_神牛宝图·残二,Divine Ox Treasure Map - Part 2,แผนที่สมบัติวัวศักดิ์สิทธิ์ - ส่วนที่ 2
@@ -4420,7 +4420,7 @@ ItemName_硝石,Saltpeter,ดินประสิว
 ItemName_火硫磺,Fire Sulfur,กำมะถัน
 ItemName_斩天刀法,Heaven Cutting Blade Technique,เพลงดาบผ่าสวรรค์
 ItemName_分光流星刺,Luminary Meteor Strike,หนามดาวตกกระจายแสง
-ItemName_火蟾诀,Flame Toad Technique,พลังคางคกไฟ
+ItemName_火蟾诀,Flame Toad Technique,พลังคางคกอัคคี
 ItemName_圣火神功,Holy Fire Divine Skill,พลังไฟศักดิ์สิทธิ์
 ItemName_吠陀宝经,Vedas Scripture,คัมภีร์พระเวท
 ItemName_霸刀诀,Tyrant Blade Technique,วิชาดาบทรราช
@@ -4452,16 +4452,16 @@ ItemInfo_玉珠项链,A necklace crafted from special jade by the residents of S
 ItemInfo_乌金项圈,"The collar faintly exudes the aura of the king of beasts, inspiring awe in those who see it.",ปลอกคอที่เปล่งรัศมีของราชาแห่งสัตว์ร้ายออกมาเล็กน้อย สร้างความตกตะลึงแก่ผู้ที่เห็นมัน
 ItemInfo_震天雷,
 ItemInfo_甜龙竹笋,"Bamboo shoot of Sweet Dragon Bamboo, if you smell it carefully, it indeed has a faint sweet taste.",หน่อไม้ของไผ่มังกรหวาน ถ้าได้กลิ่นดีๆ ก็มีรสหวานจางๆ จริงๆ
-ItemInfo_九江水寨的信件,"A letter from Zhuge Shenji to the Prefect of Lin'an City, it seems to be quite thick.",จดหมายจากจูกัดเฉินจี ถึงนายอำเภอเมืองหลินอัน ดูเหมือนว่าจะค่อนข้างหนาไปหน่อย
-ItemInfo_拆封的信件,"A letter from Zhuge Shenji to the Prefect of Lin'an City, the letter is full of casual greetings.",จดหมายจากจูกัดเฉินจี ถึงนายอำเภอเมืองหลินอัน จดหมายเต็มไปด้วยคำทักทายแบบเป็นกันเอง
+ItemInfo_九江水寨的信件,"A letter from Zhuge Shenji to the Prefect of Lin'an City, it seems to be quite thick.",จดหมายจากจูเก๋อเฉินจี ถึงนายอำเภอเมืองหลินอัน ดูเหมือนว่าจะค่อนข้างหนาไปหน่อย
+ItemInfo_拆封的信件,"A letter from Zhuge Shenji to the Prefect of Lin'an City, the letter is full of casual greetings.",จดหมายจากจูเก๋อเฉินจี ถึงนายอำเภอเมืองหลินอัน จดหมายเต็มไปด้วยคำทักทายแบบเป็นกันเอง
 ItemInfo_招财当铺银票,"A silver ticket from the Pawn shop, with this ticket you can exchange for 20 copper coins at the Pawn shop.",ตั๋วเงินจากโรงรับจำนำ เจ้าสามารถใช้ตั๋วนี้แลกเป็นเหรียญทองแดง 20 เหรียญได้ที่โรงรับจำนำ
-ItemInfo_诸葛神机的密信,"A letter from Zhuge Shenji, to be delivered to Lin'an City Pier at Zi Shi, someone will come to collect it.",สารลับจากจูกัดเฉินจี ที่จะส่งไปยังท่าเรือเมืองหลินอันในยามจื่อ (Zi Shi) และจะมีคนมารับมันไป
-ItemInfo_诸葛神机的信件,A letter from Zhuge Shenji to Duke Kang.,จดหมายจากจูกัดเฉินจีถึงอ๋องคัง
+ItemInfo_诸葛神机的密信,"A letter from Zhuge Shenji, to be delivered to Lin'an City Pier at Zi Shi, someone will come to collect it.",สารลับจากจูเก๋อเฉินจี ที่จะส่งไปยังท่าเรือเมืองหลินอันในยามจื่อ (Zi Shi) และจะมีคนมารับมันไป
+ItemInfo_诸葛神机的信件,A letter from Zhuge Shenji to Duke Kang.,จดหมายจากจูเก๋อเฉินจีถึงอ๋องคัง
 ItemInfo_黑色的药粉,Black medicinal powder found in Shenji Pavilion.,ผงยาสีดำที่พบได้ในศาลาเฉินจี
 ItemInfo_神牛宝图·残一,"A broken map, the content drawn on it is unrecognizable.",แผนที่ที่เสียหาย เนื้อหาที่วาดไว้ไม่สามารถจดจำได้
 ItemInfo_神牛宝图·残二,"A broken map, the content drawn on it is unrecognizable.",แผนที่ที่เสียหาย เนื้อหาที่วาดไว้ไม่สามารถจดจำได้
 ItemInfo_神牛宝图·残三,"A broken map, the content drawn on it is unrecognizable.",แผนที่ที่เสียหาย เนื้อหาที่วาดไว้ไม่สามารถจดจำได้
-ItemInfo_金丝凤钗,"The hairpin of Jin Fengxiangyun, made of gold thread, very exquisite, it is a personal item of Feng Xuanji.",ปิ่นปักผมวิหคทองโบยบิน ทำจากลวดทองคำและประณีตมาก เป็นของใช้ส่วนตัวของเฟิงซวนจี้
+ItemInfo_金丝凤钗,"The hairpin of Jin Fengxiangyun, made of gold thread, very exquisite, it is a personal item of Feng Xuanji.",ปิ่นปักผมวิหคทองโบยบิน ทำจากลวดทองคำและประณีตมาก เป็นของใช้ส่วนตัวของเฟิงเสวียนจี
 ItemInfo_白灵山地图,"Featuring a depiction of the <#d09a11>Bailing Mountain</color> landscape, click for Info.",แสดงแผนที่ของ <#d09a11>ภูเขาไป๋หลิง</color> คลิกเพื่อดูข้อมูล
 ItemInfo_神牛宝图,"The sewn together Divine Ox Treasure Map, which records the location of the Divine Ox Treasury.",แผนที่สมบัติวัวศักดิ์สิทธิ์ที่เย็บติดกัน ซึ่งบันทึกตำแหน่งของคลังสมบัติวัวศักดิ์สิทธิ์
 ItemInfo_烤狼肉,<#d09a09>Usage: Take</color>,<#d09a09>การใช้งาน: กิน</color>
@@ -4485,7 +4485,7 @@ ItemInfo_硝石,"A grey crystal.\n<#d09a09>Purpose: Crafting equipment, Gift</co
 ItemInfo_火硫磺,"A brittle crystal with a yellow appearance.\n<#d09a09>Purpose: Crafting equipment, Gift</color>","คริสตัลเปราะที่มีลักษณะเป็นสีเหลือง\n<#d09a09>ใช้สำหรับ: สร้างอุปกรณ์, ให้เป็นของขวัญ</color>"
 ItemInfo_斩天刀法,"The unique knife technique of the Cold Skin GangMaster, with an unparalleled and domineering style, almost possessing the power to split the sky.",วิทยายุทธดาบอันเป็นเอกลักษณ์ของหัวหน้าพวกหนังน้ำแข็ง ด้วยรูปแบบที่ไม่มีใครเทียบได้ จนเกือบจะครอบครองพลังที่จะแยกท้องฟ้าออกจากกัน
 ItemInfo_分光流星刺,A record of the top assassination Martial Arts created by several generations of Assassin leaders.,บันทึกวิทยายุทธในการลอบสังหารระดับแนวหน้าที่สร้างขึ้นโดยผู้นำนักฆ่าหลายรุ่น
-ItemInfo_火蟾诀,"The internal skill mantra imprinted in the Flame Toad Cave.\nAfter learning, the battle Unlock<#29F161>Charge</color> special skill.","มนต์วิชากำลังภายในที่จารึกอยู่ในถ้ำคางคกไฟ\nหลังจากเรียนรู้ สามารถใช้ทักษะพิเศษ <#29F161>รวมปราณ</color> ในการต่อสู้ได้"
+ItemInfo_火蟾诀,"The internal skill mantra imprinted in the Flame Toad Cave.\nAfter learning, the battle Unlock<#29F161>Charge</color> special skill.","เคล็ดวิชากำลังภายในที่จารึกอยู่ในถ้ำคางคกอัคคี\nหลังจากเรียนรู้ สามารถใช้ทักษะพิเศษ <#29F161>รวมปราณ</color> ในการต่อสู้ได้"
 ItemInfo_圣火神功,"The secret skill of the Holy Fire Sect, it is said that only those who have mastered the Holy Fire Skill are qualified to succeed as the next leader of the Holy Fire Sect.\nAfter learning, the battle Unlock<#29F161>Defense</color> special skill.","วิทยายุทธลับของนิกายไฟศักดิ์สิทธิ์ ว่ากันว่าเฉพาะผู้ที่เชี่ยวชาญทักษะไฟศักดิ์สิทธิ์เท่านั้นจึงจะมีคุณสมบัติที่จะประสบความสำเร็จในฐานะผู้นำคนต่อไปของนิกายไฟศักดิ์สิทธิ์\nหลังจากเรียนรู้ จะสามารถใช้ท่าพิเศษ <#29F161>การป้องกัน</color> ในการต่อสู้"
 ItemInfo_吠陀宝经,"The supreme internal skill buried in the Divine Ox Treasury, it is said that those who have fully mastered this skill can be invincible in the world.\nAfter learning, the battle Unlock<#29F161>Heal</color> special skill.","วิทยายุทธกำลังภายในชั้นยอดที่ฝังอยู่ในคลังวัวศักดิ์สิทธิ์ ว่ากันว่าผู้ที่เชี่ยวชาญทักษะนี้อย่างเต็มที่สามารถอยู่ยงคงกระพันในโลกได้\nหลังจากเรียนรู้ สามารถใช้ทักษะพิเศษ <#29F161>รักษา</color> ในการต่อสู้ได้ "
 ItemInfo_霸刀诀,"It is said to be understood by the undefeated swordsman, it has an unparalleled power enhancement effect on any sword technique.\nAfter learning, the battle Unlock<#29F161>Charge</color> special skill.","ตามตำนาน อดีตนักดาบผู้ไม่เคยพ่ายแพ้ผู้นี้เข้าใจเรื่องนี้ และมีพลังที่ไม่มีใครเทียบได้และมีผลกับเทคนิคการใช้ดาบทุกชนิด\nสามารถใช้ทักษะพิเศษ <#29F161>รวมปราณ</color> ในการต่อสู้ได้ "

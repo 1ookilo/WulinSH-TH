@@ -1790,7 +1790,7 @@ SkillTip_boxInfo_boxAttackArea_Text,Attack Range:,ระยะโจมตี:
 SkillTip_boxInfo_boxAttackArea_txtValue,Forward 1111111111 Distance
 SkillTip_boxInfo_boxDamage_txtDamage,Damage <color=#ffffff>20000</color>,ความเสียหาย <color=#ffffff>20000</color>
 SkillTip_boxInfo_boxDamage_txtCostEP,MP cost <color=#ffffff>20000</color>,ใช้ MP <color=#ffffff>20000</color>
-SkillTip_boxInfo_boxExtra_Text,Additional effects:
+SkillTip_boxInfo_boxExtra_Text,Additional effects:,ประสิทธิภาพเพิ่มเติม:
 SkillTip_boxInfo_boxExtra_txtValue,Critical Rate 10%,อัตราคริติคอล 10%
 Goods_full_bg_txt,Auxiliary Material,วัตถุดิบเสริม
 GoodsPanel_content_head_penel_txt,Add Main Material,ใส่วัตถุดิบหลัก
@@ -2422,7 +2422,7 @@ UIPackage_selectUser_cancel_txt,Cancel,ยกเลิก
 UIPackage_selectUser_confirm_txt,LRN,เรียนรู้
 UIPackage_selectUser_role_bg_Name_txt,Meng Zhan Mediator
 UIPackage_selectUser_role_bg_IsOn,Can Learn,เรียนรู้ได้
-UIPackage_selectUser_role_bg_NoRoleTxt,No partners have joined yet
+UIPackage_selectUser_role_bg_NoRoleTxt,No partners have joined yet,ยังไม่มีพันธมิตรเข้าร่วม
 UIPackage1_Role_Title_Text(TMP),Party,กลุ่ม
 UIPackage1_Role_RoleInformation_Role_moren_NoRole_Text(TMP),Empty slot,ว่าง
 UIPackage1_Role_RoleInformation_Role_Name,Kitty,ลูกแมว
@@ -2630,7 +2630,7 @@ UIPackage2_InfoPanel_button_xiulian_txt,LRN,เรียนรู้
 UIPackage2_InfoPanel_button_xiulian_MaxLv_txt,Max Level Effect,สถานะระดับสูงสุด
 UIPackage2_InfoPanel_button_chuandai_txt,Equip,สวมใส่
 UIPackage2_InfoPanel_button_use_txt,Use,ใช้
-UIPackage2_InfoPanel_button_xiexia_txt,Unload
+UIPackage2_InfoPanel_button_xiexia_txt,Unload,ยกเลิกการโหลด
 UIPackage2_selectUser_top_txt,Select User,เลือกผู้ใช้
 UIPackage2_selectUser_cancel_txt,Cancel,ยกเลิก
 UIPackage2_selectUser_confirm_txt,LRN,เรียนรู้
@@ -2829,7 +2829,7 @@ PlayerCreateUI_CharSheet_ZonePreview_Static4,Rare,หายาก
 PlayerCreateUI_CharSheet_ZonePreview_Static5,Epic,มหากาพย์
 PlayerCreateUI_CharSheet_ZonePreview_Static6,Legendary,ตำนาน
 PlayerCreateUI_CharSheet_TraitInfo_InfoBg,Select Initial Martial Arts,เลือกวรยุทธเริ่มต้น
-BattleUI_Actions_UpDownAnimNode_IsAdditionActionButOnlyMove,Get Extra Move Chance
+BattleUI_Actions_UpDownAnimNode_IsAdditionActionButOnlyMove,Get Extra Move Chance,โอกาสที่จะได้รับการเคลื่อนที่เพิ่ม
 GiftingWithNpcUI_FunctionDisplayZone_ViewPort_Layout_FunctionItem_Complete_CompleteInfo,Learned,เรียนแล้ว
 RoamingUI_BattleStealthControlGroup_SafeHarbourGroup_NormalGroup_Button_Meditation_Text,Meditate,นั่งสมาธิ
 UICabMapManager_BottomControl_btnGo_txt,Set Off,เดินทาง
@@ -2855,33 +2855,33 @@ CustomDiffUI_Window_GroupB_SubGroup_AtkDef(1)_Title,NPC Auto Upgrade Frequency,�
 CustomDiffUI_Window_GroupB_SubGroup_AtkDef_Title,Kill to get EXP multiplier,ฆ่าเพื่อรับตัวคูณ EXP
 CustomDiffUI_Window_Revert_Text(TMP),Default,ค่าเริ่มต้น
 CustomDiffUI_Window_Confirm_Text(TMP),Apply,นำไปใช้
-UIModMain_Main_txtTitle,Mod Manager
-UIModMain_LayerShop_toggleSubscription_txt,Subscribed Mods
-UIModMain_LayerShop_txtTitleFilterTags,Mod Categories
+UIModMain_Main_txtTitle,Mod Manager,จัดการ Mod
+UIModMain_LayerShop_toggleSubscription_txt,Subscribed Mods,Mods ที่สมัครเป็นสมาชิก
+UIModMain_LayerShop_txtTitleFilterTags,Mod Categories,หมวดหมู่ Mod
 UIModMain_LayerShop_txtTitleName,Name,ชื่อ
-UIModMain_LayerShop_txtTitleTags,Tags
-UIModMain_LayerShop_txtTitleSubscription,Subscription Count
+UIModMain_LayerShop_txtTitleTags,Tags,Tags
+UIModMain_LayerShop_txtTitleSubscription,Subscription Count,จำนวนการสมัครสมาชิก
 UIModMain_LayerShop_txtSort,Sort,เรียง
 UIModMain_LayerShop_txtScore,Rating,อันดับ
-UIModMain_LayerShop_btnShowShop_txtName,Mod Store
-UIModMain_Main_btnShowLocal_txtName,Local Mods
-UIModMain_LayerShop_boxRightHead_boxProgress_txtPublishTitle,Downloading
+UIModMain_LayerShop_btnShowShop_txtName,Mod Store,ร้านค้า Mod
+UIModMain_Main_btnShowLocal_txtName,Local Mods,Mods ภายใน
+UIModMain_LayerShop_boxRightHead_boxProgress_txtPublishTitle,Downloading,กำลังดาวน์โหลด
 UIModMain_LayerShop_btnRefresh_txt,Refresh,รีเฟรช
-UIModMain_LayerShop_btnPageUp_txt,Previous Page
+UIModMain_LayerShop_btnPageUp_txt,Previous Page,ก่อนหน้า
 UIModMain_LayerShop_btnPageDown_txt,Next Page,ถัดไป
-UIModMain_LayerShop_btnSubscription_txt,Subscribe
-UIModMain_LayerShop_btnDelete_txt,Unsubscribe,เลิกติดตาม
+UIModMain_LayerShop_btnSubscription_txt,Subscribe,สมัครสมาชิก
+UIModMain_LayerShop_btnDelete_txt,Unsubscribe,ยกเลิกการสมัคร
 UIModMain_LayerLocal_txtTitleName,Name,ชื่อ
 UIModMain_LayerLocal_txtTitleDesc,Description,คำอธิบาย
 UIModMain_LayerLocal_txtTitleUsed,Enable,เปิดใช้งาน
-UIModMain_Main_btnShowShop_txtName,Mod Store
+UIModMain_Main_btnShowShop_txtName,Mod Store,ร้านค้า Mod
 UIModMain_LayerLocal_boxRightHead_boxProgress_txtPublishTitle,Uploading,กำลังอัพโหลด
 UIModMain_LayerLocal_btnPublish_txt,Upload,อัพโหลด
-UIModMain_LayerLocal_btnDisclaimer_txt,"<#D3D3D3>By submitting this mod, you agree to the</color><u>Steam Workshop Terms of Service</u>"
-UIModMain_LayerLocal_btnShowLocal_txtName,Local Mods,
+UIModMain_LayerLocal_btnDisclaimer_txt,"<#D3D3D3>By submitting this mod, you agree to the</color><u>Steam Workshop Terms of Service</u>","<#D3D3D3>การส่ง Mod นี้, แสดงว่าท่านยอมรับ</color><u>ข้อกำหนดในการให้บริการของ Steam Workshop</u>"
+UIModMain_LayerLocal_btnShowLocal_txtName,Local Mods,Mods ภายใน
 MainMenuUI_Bg_Buttons_en_ModButton_Text(TMP),Workshop,เวิร์คช็อป
 MainMenuUI_Bg_Buttons_cn_ModButton_Text(TMP),Steam Workshop,
-UIModMain_LayerLocal_boxEmpty_txt,"There are no\nmods yet"
+UIModMain_LayerLocal_boxEmpty_txt,"There are no\nmods yet","ขณะนี้ไม่มี\nMods ใด ๆ"
 TradingWithFactionUI_Buy_btnOneTouchAll_txt,One-click Buy,ซื้อในครั้งเดียว
 TradingWithFactionUI_Sell_btnOneTouchAll_txt,One-click Sell,ขายในครั้งเดียว
 UIModMain_LayerMapQuary_boxItems_btnSaveID_Text(TMP),Set save point,ตั้งค่าจุดบันทึก
@@ -2894,10 +2894,10 @@ UIModMain_LayerMapQuary_boxAreaString_boxData_boxCtrl_btnSearch_txt,Import,น�
 UIModMain_LayerMapQuary_boxAreaString_boxData_boxCtrl_btnCopy_txt,Copy,คัดลอก
 UIModMain_LayerMapQuary_boxAreaString_boxTitle_toggleMap_txt,Scene Coordinates
 UIModMain_LayerMapQuary_boxAreaString_boxTitle_toggleBattle_txt,Battlefield Coordinates
-UIControllerDisconnect_Bg_TextBg_txt,The controller has been disconnected!
+UIControllerDisconnect_Bg_TextBg_txt,The controller has been disconnected!,คอนโทรลเลอร์ถูกตัดการเชื่อมต่อ!
 UIModMain_Main_btnShowMapQuary_txtName,Scene Info,ข้อมูลฉาก
 创意工坊作者,——Mod Creator——,
-创意工坊作者_Content,"caps1ock\n扶摇\ndooki十安\n灵犀\n落叶归根\n奇怪的机器人\nTC大帝国\nKillerDJSH\n次元旅行者\n黄昏引烛\nAlleyCats\n围观的路人甲\nProtoype\n夜露死苦\n夜正长\nNull"
+创意工坊作者_Content,"caps1ock\n扶摇\ndooki十安\n灵犀\n落叶归根\n奇怪的机器人\nTC大帝国\nKillerDJSH\n次元旅行者\n黄昏引烛\nAlleyCats\n围观的路人甲\nProtoype\n夜露死苦\n夜正长\nNull",
 QA与攻略作者,——QA and Strategy Author——,
 QA与攻略作者_Content,"旧歌\n黑袍宰相\n云自摇\n嗷呜咩咩熊\n2R\n宋其亮\n天狼\n十四\n清风驻故里\n杉木\n卖瓜泼皮\n咸鱼ing\n翩翩风吹雪\n张吉来今天官宣没\n瞳光温暖清澈\n说书人九二\n风吟华旭",
 UIMenuPanel_UIRoleMenuPanel_LeftPanel_RoleInfor1_tag1_Text(10),CT,สวนกลับ
@@ -2938,8 +2938,8 @@ UIFiefEquip_txtTip,"Tip: You can only take the weekly target once, think thrice 
 PlayerCreateUI_CharSheet_RoleImage_PortraitSelectGroup_Toggle(1)_Info,Image Two,รูปที่ 2
 PlayerCreateUI_CharSheet_RoleImage_PortraitSelectGroup_Toggle_Info,Image One,รูปที่ 1
 PlayerCreateUI_CharSheet_RoleImage_PortraitSelectGroup_Title,Choose the portrait to use,เลือกรูปประจำตัว
-ConsoleUI_MoreTitle,---------More Commands---------
-UIFormulaPanel_EffectPanel_RealEndingSave,Keep learned recipes after clearing the true ending
+ConsoleUI_MoreTitle,---------More Commands---------,---------คำแนะนำเพิ่มเติม---------
+UIFormulaPanel_EffectPanel_RealEndingSave,Keep learned recipes after clearing the true ending,เก็บสูตรอาหารที่เรียนรู้ไว้แล้วหลังจากบรรลุฉากจบที่แท้จริง
 UIFiefSetting_layer_boxPage_Toggle(7)_Text(TMP),Main House,ตัวบ้าน
 ConsoleCommand_1,Teleport: Chuxiang City,เคลื่อนย้าย: เมืองฉู่เซียง
 ConsoleCommand_2,Teleport: Daliang City,เคลื่อนย้าย: เมืองต้าเหลียง
@@ -2948,33 +2948,33 @@ ConsoleCommand_4,Teleport: Taoist Sect,เคลื่อนย้าย: สำ
 ConsoleCommand_5,Teleport: Shifa Temple,เคลื่อนย้าย: อารามฉีฟา
 ConsoleCommand_6,Teleport: Confucius Temple,เคลื่อนย้าย: วัดขงจื้อ
 ConsoleCommand_7,Teleport: Linlang Temple,เคลื่อนย้าย: วัดหลินหลาง
-ConsoleCommand_11,Chuxiang CityRelations100
-ConsoleCommand_12,Daliang CityRelations100
-ConsoleCommand_13,Lin'an CityRelations100
-ConsoleCommand_14,Taoist SectRelations100
-ConsoleCommand_15,Shifa TempleRelations100
-ConsoleCommand_16,Confucius TempleRelations100
-ConsoleCommand_17,Linlang TempleRelations100
+ConsoleCommand_11,Chuxiang CityRelations100,ความสัมพันธ์เมืองฉู่เซียงถึง 100
+ConsoleCommand_12,Daliang CityRelations100,ความสัมพันธ์เมืองต้าเหลียงถึง 100
+ConsoleCommand_13,Lin'an CityRelations100,ความสัมพันธ์เมืองหลินอันถึง 100
+ConsoleCommand_14,Taoist SectRelations100,ความสัมพันธ์สำนักเต๋าถึง 100
+ConsoleCommand_15,Shifa TempleRelations100,ความสัมพันธ์อารามฉีฟาถึง 100
+ConsoleCommand_16,Confucius TempleRelations100,ความสัมพันธ์วัดขงจื้อถึง 100
+ConsoleCommand_17,Linlang TempleRelations100,ความสัมพันธ์วัดหลินหลางถึง 100
 ConsoleCommand_21,Time Skip 1 Day,ข้าม 1 วัน
 ConsoleCommand_22,Time Skip 5 Days,ข้าม 5 วัน
-ConsoleCommand_23,Protagonist gains 5000 Experience
-ConsoleCommand_24,Sect contribution5000
+ConsoleCommand_23,Protagonist gains 5000 Experience,ตัวเอกได้รับค่าประสบการณ์ 5000
+ConsoleCommand_24,Sect contribution5000,ความดีความชอบสำนัก 5000
 ConsoleCommand_25,Normal Game Speed,ความเร็วเกมปกติ
 ConsoleCommand_26,2x Game Speed,ความเร็วเกม x2
-UIFiefTipRole_bg_imgLine(1)_Text(TMP),Talent Attributes
-UIFiefTipRole_bg_imgLine(2)_Text(TMP)(1),Special bonus
-UIRelation_Right_Tip1,No Wanderers
-UIPagoda_layer_txt,Sky Breaker Tower
-UIPagoda_layer_txt1,Strength of this level (<#ff822f>Click on the avatar for Info details</color>)
+UIFiefTipRole_bg_imgLine(1)_Text(TMP),Talent Attributes,คุณสมบัติพรสวรรค์
+UIFiefTipRole_bg_imgLine(2)_Text(TMP)(1),Special bonus,โบนัสพิเศษ
+UIRelation_Right_Tip1,No Wanderers,ไม่มีผู้พเนจร
+UIPagoda_layer_txt,Sky Breaker Tower,หอสูงเทียมฟ้า
+UIPagoda_layer_txt1,Strength of this level (<#ff822f>Click on the avatar for Info details</color>),ความแกร่งของชั้นนี้ (<#ff822f>คลิกที่รูปประจำตัวเพื่อดูรายละเอียดข้อมูล</color>)
 UIPagoda_layer_txt(1),Difficulty Selection,เลือกระดับความยาก
 UIPagoda_layer_toggleDiff_0_txt,Easy,ง่าย
 UIPagoda_layer_toggleDiff_1_txt,Hard,ยาก
 UIPagoda_layer_toggleDiff_2_txt,Hell,นรก
-UIPagoda_layer_btnReset_Text(TMP),Reset
-UIPagoda_layer_txtTip,Every five levels cleared can apply a status to your team or the enemy team
-UIPagoda_layerPrizeSelect_Text(TMP),Please choose a reward
-UIPagoda_layer_btnShop_Text(TMP),Exchange Shop
-UIPagoda_layer_btnStart_Text(TMP),Challenge
+UIPagoda_layer_btnReset_Text(TMP),Reset,รีเซ็ต
+UIPagoda_layer_txtTip,Every five levels cleared can apply a status to your team or the enemy team,ทุกๆ ห้าระดับที่ผ่าน สามารถใช้สถานะกับทีมของเจ้าหรือทีมของศัตรูได้
+UIPagoda_layerPrizeSelect_Text(TMP),Please choose a reward,กรุณาเลือกของรางวัล
+UIPagoda_layer_btnShop_Text(TMP),Exchange Shop,ร้านแลกเปลี่ยน
+UIPagoda_layer_btnStart_Text(TMP),Challenge,ท้าทาย
 UIPagoda_layerPrizeSelect_btnOK_Text(TMP),Confirm,ยืนยัน
 UIPagoda_layer_btnPlayer_Text(TMP),Character Information,ข้อมูลตัวละคร
-UIPagoda_layerPrizeSelect_Tip,The status obtained will take effect in the next five levels of challenge
+UIPagoda_layerPrizeSelect_Tip,The status obtained will take effect in the next five levels of challenge,สถานะที่ได้รับจะมีผลในการท้าทายห้าระดับถัดไป

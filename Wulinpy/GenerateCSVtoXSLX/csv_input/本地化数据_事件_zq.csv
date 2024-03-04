@@ -2272,11 +2272,11 @@ R10105-3_overview1,Enter the Flame Sand Cave to investigate.
 R10105-3_overview2,You can report the situation of Flame Sand Cave to Feng Xuanji.
 R10105-4_name,Rush to the rescue of Chang'an Inn
 R10105-4_overview1,Go to Chang'an Inn for rescue.
-R10105-4_overview2,Return to the Holy Fire Sect to report to Feng Xuanji.
+R10105-4_overview2,Return to the Holy Fire Sect to report to Feng Xuanji.,กลับนิกายไฟศักดิ์สิทธิ์รายงานต่อเฟิงเสวียนจี
 R10105-4_option1_1,Charge in!<color=#c44b0e>(Immediate battle)</color>
 R10105-4_option1_2,Come back later.
 R10085-5_name,The Fall of the Vermilion Bird
-R10085-5_overview1,Find the right opportunity to assassinate Feng Xuanji.
+R10085-5_overview1,Find the right opportunity to assassinate Feng Xuanji.,ค้นหาโอกาสเหมาะในการลอบสังหารเฟิงเสวียนจี
 R10085-5_overview2,"You have completed the task assigned by Gu Qing Yang, you can return to the Holy Fire Sect to report."
 M2230-0_option1_1,Charge in!<color=#c44b0e>(Immediate battle)</color>
 M2230-0_option1_2,Run away in the distance.
@@ -2284,15 +2284,15 @@ M20400-11_option1_1,Help them heal the sick.<color=#097a76>Medical100</color>
 M20400-11_option1_2,"I'm sorry, I can't help."
 R10073-2_option1_1,Agree with the second master.<color=#c44b0e>(Specific battle)</color>
 R10073-2_option1_2,Politely refuse the second master.
-M2230-1_option1_1,Agree with Feng Xuanji.
-M2230-1_option1_2,Refuse Feng Xuanji.
+M2230-1_option1_1,Agree with Feng Xuanji.,เห็นด้วยกับเฟิงเสวียนจี
+M2230-1_option1_2,Refuse Feng Xuanji.,ปฏิเสธเฟิงเสวียนจี
 M2221-12_name,Ask for directions
 M2221-12_overview1,Ask Haitang Qiu for information.
 M1005-0_option1_1,Assist Zi Tian of Cold Skin Gang!<color=#c44b0e>(Specific battle)</color>
 M1005-0_option1_2,Assist the Holy Fire Sect!<color=#c44b0e>(Specific battle)</color>
 M1005-0_option1_3,Don't want to meddle in other's business.
 XYZY-1_name,Journey to the Western Regions
-XYZY-1_overview1,Go to the inn in Flame City.
+XYZY-1_overview1,Go to the inn in Flame City.,ไปที่โรงเตี๊ยมในเมืองอัคคี
 XYZY-1_overview2,Go to the Holy Fire Sect.
 XYZY-4_name,Divine Ox Treasury
 XYZY-4_overview1,Go to Divine Ox Treasury!
@@ -2307,11 +2307,11 @@ XYZY-4_option2_3,Keep everything for yourself!
 XYLP-3_name,Rescue Zi Tian
 XYLP-3_overview1,"Find the whereabouts of the second master, Zi Tian."
 XYLP-3_overview2,Go to Cold Skin Gang and talk to Huo Shilou.
-XYLP-3_overview3,Catch a Flame Toad to heal Zi Tian.
-XYLP-3_overview4,Bring the Flame Toad back to Cold Skin Gang.
+XYLP-3_overview3,Catch a Flame Toad to heal Zi Tian.,จับคางคกอัคคีไปเพื่อรักษาจื่อเทียน
+XYLP-3_overview4,Bring the Flame Toad back to Cold Skin Gang.,นำคางคกอัคคีกลับไปที่พรรคมังสาเหมันต์
 XYLP-3_overview5,Go to Flame Sand Cave to treat Zi Tian.
 XYLP-5_name,Gather information
-A15020-1_option1_1,Tame the Flame Toad!<color=#097a76>(Solo by protagonist)</color>
+A15020-1_option1_1,Tame the Flame Toad!<color=#097a76>(Solo by protagonist)</color>,สยบคางคกอัคคีให้เชื่อง! <color=#097a76>(ตัวเอกสู้คนเดียว)</color>
 A15020-1_option1_2,"Don't stay for long, hurry up and run away!"
 XYSH-2_name,Capture Zi Tian
 XYSH-2_overview1,"Search for the second master, Zi Tian."

@@ -455,7 +455,7 @@ WMapName_20312,Residential house,บ้านเรือน
 WMapName_20313,Residential house,บ้านเรือน
 WMapName_20314,Ruined shrine,ศาลเจ้าร้าง
 WMapName_20315_0,Enlightment Tower,หอรู้แจ้ง
-WMapName_20315,Enlightment Tower
+WMapName_20315,Enlightment Tower,หอรู้แจ้ง
 WMapName_20316_0,Wine God Tower,หอคอยเทพสุรา
 WMapName_20316,Wine God Tower - 1st Floor,หอคอยเทพสุรา - ชั้น 1
 WMapName_20317,Wine God Tower - 2nd Floor,หอคอยเทพสุรา - ชั้น 2
@@ -598,8 +598,8 @@ WMapName_5046,Traveling palace,พระราชวังท่องเที�
 WMapName_2065,Armory,คลังแสง
 MapName_5045,Goddess Temple,วิหารเทพธิดา
 MapName_507,Main House,ตัวบ้าน
-MapName_600,Sky Breaker Tower
-MapName_1005,Western Regions
+MapName_600,Sky Breaker Tower,หอสูงเทียมฟ้า
+MapName_1005,Western Regions,แดนตะวันตก
 MapName_5032,Sea of Flowers,ทะเลบุปผา
 MapName_5049,Bamboo Forest,ป่าไผ่
 MapName_5053,
@@ -609,14 +609,14 @@ MapName_5056,
 MapName_5057,
 MapName_5058,
 MapName_5059,Jade Gate,ด่านประตูหยก
-MapName_5060,Outside Jade Gate
-MapName_5061,Plum Blossom Village
-MapName_20400,Flame City
-MapName_20401,Flame City - Inn
-MapName_20402,Flame City - Inn Guest Room
-MapName_20420,Flame Sand Cave
-MapName_2055,Shenji Pavillion
-MapName_2056,Haitang Habitat
+MapName_5060,Outside Jade Gate,ด้านนอกด่านประตูหยก
+MapName_5061,Plum Blossom Village,หมู่บ้านดอกท้อ
+MapName_20400,Flame City,เมืองอัคคี
+MapName_20401,Flame City - Inn,เมืองอัคคี - โรงเตี๊ยม
+MapName_20402,Flame City - Inn Guest Room,เมืองอัคคี - ห้องพักโรงเตี๊ยม
+MapName_20420,Flame Sand Cave,ถ้ำทรายอัคคี
+MapName_2055,Shenji Pavillion,ศาลาเฉินจี
+MapName_2056,Haitang Habitat,ที่อยู่อาศัยไห่ถัง
 MapName_2180,Cloud Camp,ค่ายเมฆา
 MapName_2181,Cloud Camp - Meeting Hall,ค่ายเมฆา - โถงประชุม
 MapName_2182,Cloud Camp - Bedroom,ค่ายเมฆา - ห้องนอน
@@ -626,29 +626,29 @@ MapName_2192,Beast Manor·Guest Room,หมู่ตึกหมื่นอส�
 MapName_2200,Plant House,ตำหนักพฤกษา
 MapName_2201,Plant House - Main Hall,ตำหนักพฤกษา - โถงหลัก
 MapName_2211,Cold Skin Gang - Main Hall,พรรคมังสาเหมันต์ - โถงหลัก
-MapName_2220,Chang'an Inn
-MapName_2221,Chang'an Inn - Reception
-MapName_2222,Chang'an Inn - Hallway
-MapName_2223,Haitang Qiu's Room
-MapName_2224,Guest Room
-MapName_2225,Guest Room
-MapName_2226,Guest Room
-MapName_2227,Guest Room
-MapName_2228,Chang'an Inn - Kitchen
-MapName_2230,Holy Fire Sect
-MapName_2231,Divine Flame Sect - Main Hall
-MapName_10140,Bailing Mountain- Foot of Mountain
-MapName_10141,Bailing Mountain - Mountain Foot
-MapName_10142,Bailing Mountain - Mountain Cave
+MapName_2220,Chang'an Inn,โรงเตี๊ยมฉางอัน
+MapName_2221,Chang'an Inn - Reception,โรงเตี๊ยมฉางอัน - แผนกต้อนรับ
+MapName_2222,Chang'an Inn - Hallway,โรงเตี๊ยมฉางอัน - โถงทางเดิน
+MapName_2223,Haitang Qiu's Room,ห้องของไห่ถังฉิว
+MapName_2224,Guest Room,ห้องรับแขก
+MapName_2225,Guest Room,ห้องรับแขก
+MapName_2226,Guest Room,ห้องรับแขก
+MapName_2227,Guest Room,ห้องรับแขก
+MapName_2228,Chang'an Inn - Kitchen,โรงเตี๊ยมฉางอัน - ห้องครัว
+MapName_2230,Holy Fire Sect,นิกายไฟศักดิ์สิทธิ์
+MapName_2231,Divine Flame Sect - Main Hall,นิกายไฟศักดิ์สิทธิ์ - โถงหลัก
+MapName_10140,Bailing Mountain- Foot of Mountain,ภูเขาไป๋หลิง - ตีนเขา
+MapName_10141,Bailing Mountain - Mountain Foot,ภูเขาไป๋หลิง - เชิงเขา
+MapName_10142,Bailing Mountain - Mountain Cave,ภูเขาไป๋หลิง - ถ้ำ
 MapName_10143,Bailing Mountain·Peak,ภูเขาไป๋หลิง·ยอดเขา
 MapName_10144,Bailing Mountain·Peak Cave,ภูเขาไป๋หลิง·ถ้ำบนยอดเขา
-MapName_10145,Bailing Mountain·Snow Cabin
-MapName_10150,Flame Toad Cave
-MapName_10160,Divine Ox Treasury
-WMapName_600,Sky Breaker Tower
-WMapName_1005,Western Regions
+MapName_10145,Bailing Mountain·Snow Cabin,ภูเขาไป๋หลิง - กระท่อมบนภูเขาหิมะ
+MapName_10150,Flame Toad Cave,ถ้ำคางคกอัคคี
+MapName_10160,Divine Ox Treasury,คลังสมบัติวัวศักดิ์สิทธิ์
+WMapName_600,Sky Breaker Tower,หอสูงเทียมฟ้า
+WMapName_1005,Western Regions,แดนตะวันตก
 WMapName_2200,Plant House,ตำหนักพฤกษา
-WMapName_5031,Paddy
+WMapName_5031,Paddy,ข้าวเปลือก
 WMapName_5032,Sea of Flowers,ทะเลบุปผา
 WMapName_5049,Bamboo Forest,ป่าไผ่
 WMapName_5053,
@@ -658,17 +658,17 @@ WMapName_5056,
 WMapName_5057,
 WMapName_5058,
 WMapName_5059,Jade Gate,ด่านประตูหยก
-WMapName_5060,Outside Jade Gate
-WMapName_5061,Plum Blossom Village
-WMapName_20400,Flame City
-WMapName_20401,Flame City - Inn
-WMapName_20402,Flame City - Inn Guest Room
-WMapName_20420,Flame Sand Cave
+WMapName_5060,Outside Jade Gate,ด้านนอกด่านประตูหยก
+WMapName_5061,Plum Blossom Village,หมู่บ้านดอกท้อ
+WMapName_20400,Flame City,เมืองอัคคี
+WMapName_20401,Flame City - Inn,เมืองอัคคี - โรงเตี๊ยม
+WMapName_20402,Flame City - Inn Guest Room,เมืองอัคคี - ห้องพักโรงเตี๊ยม
+WMapName_20420,Flame Sand Cave,ถ้ำทรายอัคคี
 WMapName_2180,Cloud Camp,ค่ายเมฆา
 WMapName_2190,Ten Thousand Beast Manor,หมู่ตึกหมื่นอสูร
-WMapName_2220,Chang'an Inn
-WMapName_2230,Holy Fire Sect
-WMapName_2231,Divine Flame Sect - Main Hall
+WMapName_2220,Chang'an Inn,โรงเตี๊ยมฉางอัน
+WMapName_2230,Holy Fire Sect,นิกายไฟศักดิ์สิทธิ์
+WMapName_2231,Divine Flame Sect - Main Hall,นิกายไฟศักดิ์สิทธิ์ - โถงหลัก
 WMapName_10140,Bailing Mountain,ภูเขาไป๋หลิง
-WMapName_10150,Flame Toad Cave
-WMapName_10160,Divine Ox Treasury
+WMapName_10150,Flame Toad Cave,ถ้ำคางคกอัคคี
+WMapName_10160,Divine Ox Treasury,คลังสมบัติวัวศักดิ์สิทธิ์

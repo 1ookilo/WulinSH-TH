@@ -9,7 +9,7 @@ ControlTip_EnableOrDisable,Enable/Disable,เปิด/ปิด
 ControlTip_Stop,Stop,หยุด
 ControlTip_Cancel,Cancel,ยกเลิก
 ControlTip_ModSubDel,Subscribe/Unsubscribe,สมัคร/เลิกสมัคร
-ControlTip_ModDel,Unsubscribe,เลิกติดตาม
+ControlTip_ModDel,Unsubscribe,ยกเลิกการสมัคร
 ControlTip_Refresh,Refresh,รีเฟรช
 ControlTip_LongDesc,Info Details,รายละเอียด
 ControlTip_PageUp,Previous Page,ก่อนหน้า
