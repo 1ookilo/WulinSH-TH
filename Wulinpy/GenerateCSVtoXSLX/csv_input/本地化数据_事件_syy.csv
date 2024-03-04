@@ -7961,7 +7961,7 @@ R10085-0_2_1,"Since you are a friend of the Holy Fire Sect, I should treat you w
 R10085-0_3_1,"Since you are an enemy of the Holy Fire Sect, the long sword in my hand is about to be unsheathed for you!"
 R10085-0_4_1,"Humph, you have some skills."
 R10085-0_5_1,"Today is just a warning to you. If you continue to oppose the Holy Fire Sect, be careful not to be able to run away from the Western Regions alive."
-R10004-0_1_1,"I am {PlayerName}, may I ask how to address the hero?"
+R10004-0_1_1,"I am {PlayerName}, may I ask how to address the hero?",ข้ามีนามว่า {PlayerName} ไม่ทราบว่าท่านจอมยุทธมีนามว่ากระไร?
 R10004-0_2_1,"I am Ren Zhongheng, the Black Tortoise Envoy of the Holy Fire Sect, and I pay my respects to the Deputy Sect Leader."
 R10004-0_3_1,"Humph, what about the Kirin Envoy? Isn't it still ranked behind me, Ren Zhongheng, the Black Tortoise Envoy?"
 R10004-0_3_2,"Kid, I advise you to use your brain when dealing with people in the Holy Fire Sect. Don't offend people without knowing it."
@@ -7975,7 +7975,7 @@ R10105-0_1_5,"I am {PlayerName}, I was just lost in thought just now, and I was 
 R10105-0_1_6,"With the lady's appearance, she should not be a maid of the Holy Fire Sect. May I ask what position the lady holds in the Holy Fire Sect?"
 R10105-0_1_7,"I am Feng Xuanji, the Vermilion Bird Envoy of the Holy Fire Sect, in charge of intelligence and news."
 R10105-0_1_8,"{PlayerSurName} Young hero comes from the Central Plains, with broad knowledge. Perhaps in the future, I will have to request more from {PlayerSurName} young hero."
-R10068-0_1_1,"I am {PlayerName}, may I ask how to address the hero?"
+R10068-0_1_1,"I am {PlayerName}, may I ask how to address the hero?",ข้ามีนามว่า {PlayerName} ไม่ทราบว่าท่านจอมยุทธมีนามว่ากระไร?
 R10068-0_2_1,"I heard that you are the new deputy leader of the Holy Fire Sect?\nThe Holy Fire Sect is becoming more and more mixed, anyone can sit in the position of the deputy leader."
 R10068-0_2_2,It seems that you are quite unhappy about me becoming the deputy leader of the Holy Fire Sect?
 R10068-0_2_3,"Humph, not everyone can become the deputy leader!\nLet me test the quality of your deputy leadership."
@@ -7992,20 +7992,20 @@ R10068-0_4_4,I didn't expect you to be the White Tiger Envoy!
 R10068-0_4_5,"However, as one of the Four Holy Envoys of the Holy Fire Sect, why are you so dissatisfied with the sect?"
 R10068-0_4_6,"The current Fang Xiaoian is no longer the ambitious and heroic person he used to be. Under his leadership, the Holy Fire Sect will only exhaust its military power and make enemies on all sides. In a few years, the Holy Fire Sect will find it difficult to gain a foothold in the Western Regions."
 R10068-0_4_7,"Such an arrogant and conceited person is no longer worth my continued following. If it weren't for a bit of sentiment, I would have left the Holy Fire Sect long ago."
-R10068-0_5_1,I'm not interested in who you are.
-R10068-0_5_2,I see you're also a vagabond. Why not make friends?
-R10068-0_5_3,I don't need friends.
-R10068-0_5_4,……
-R10068-0_5_5,However...
-R10068-0_5_6,I would like to ask you for a favor.
+R10068-0_5_1,I'm not interested in who you are.,ข้าไม่สนใจว่าเจ้าเป็นใคร
+R10068-0_5_2,I see you're also a vagabond. Why not make friends?,เราต่างเป็นชาวยุทธเช่นเดียวกัน ไยจึงไม่ทำความรู้จักกันหน่อยเล่า?
+R10068-0_5_3,I don't need friends.,ข้าไม่ต้องการเพื่อน
+R10068-0_5_4,……,……
+R10068-0_5_5,However...,อย่างไรก็ตาม...
+R10068-0_5_6,I would like to ask you for a favor.,ข้ามีเรื่องอยากจะขอร้องเจ้าหน่อย
 R10068-0_5_7,What can I do for you?,เจ้าอยากให้ข้าช่วยอะไรไหม?
-R10068-0_5_8,Pass a message for me to a woman surnamed <color=#c44b0e>Phoenix</color> in the <color=#c44b0e>Sacred Fire Sect</color> of the Western Regions.
+R10068-0_5_8,Pass a message for me to a woman surnamed <color=#c44b0e>Phoenix</color> in the <color=#c44b0e>Sacred Fire Sect</color> of the Western Regions.,นำสารจากข้าไปบอกสตรีสกุล <color=#c44b0e>เฟิงหวง</color> ใน<color=#c44b0e>นิกายไฟศักดิ์สิทธิ์</color> ที่แดนตะวันตก
 R10068-0_5_9,Tell her that Yan Luochong's promise to her is still valid to this day.,บอกนางว่าคำสัญญาของเยี่ยนหลัวจงที่มีต่อนางยังคงมีผลจนถึงทุกวันนี้
-R10068-0_5_10,"I'm curious, what promise did you make to the woman surnamed Feng back then?"
-R10068-0_5_11,No comment.
-R10068-0_5_12,How can you be sure that I will go to the Western Regions to find the Holy Fire Sect in the future?
-R10068-0_5_13,"I can't be sure, but there's still a glimmer of hope."
-R10068-0_5_14,"You won't tell me who you are, yet you expect me to travel thousands of miles to the Western Regions to deliver a message for you?"
+R10068-0_5_10,"I'm curious, what promise did you make to the woman surnamed Feng back then?",ข้าสงสัยนักว่าสัญญาอันใดที่ท่านไปสัญญาไว้กับแม่นางสกุลเฟิงหวงกัน?
+R10068-0_5_11,No comment.,ข้าขอไม่ตอบ
+R10068-0_5_12,How can you be sure that I will go to the Western Regions to find the Holy Fire Sect in the future?,เจ้าแน่ใจได้ยังไงว่าข้าจะเดินทางไปแดนตะวันตก เพื่อไปเยือนนิกายไฟศักดิ์สิทธิ์ในอนาคต?
+R10068-0_5_13,"I can't be sure, but there's still a glimmer of hope.",ข้าไม่แน่ใจ แต่อย่างน้อยก็พอมีโอกาสบ้าง
+R10068-0_5_14,"You won't tell me who you are, yet you expect me to travel thousands of miles to the Western Regions to deliver a message for you?",เจ้าไม่บอกว่าเจ้าเป็นใคร แต่ยังหวังจะให้ข้าเดินทางนับหมื่นลี้ไปแดนตะวันตกเพื่อส่งสารให้เจ้าเนี่ยนะ?
 R10068-0_5_15,"I am the White Tiger Envoy of the Holy Fire Sect, Yan Luochong.",ข้าคือทูตพยัคฆ์ขาวแห่งนิกายไฟศักดิ์สิทธิ์ เยี่ยนหลัวจง
 R10068-0_6_1,(Taking out Feng Xuanji's Golden Thread Phoenix Hairpin) Do you recognize this item?
 R10068-0_6_2,How did you get this item?

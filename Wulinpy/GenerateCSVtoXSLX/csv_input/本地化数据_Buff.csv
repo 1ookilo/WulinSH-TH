@@ -4254,8 +4254,8 @@ BuffInfo_冰风影袭buff1_附属1,<#FE2929>Action Speed decreases by 15%</color
 BuffInfo_银狼闪buff1_附属1,Guaranteed to be Critical when attacked.,เมื่อถูกโจมตี การโจมตีจะติดคริติคอลแน่นอน
 BuffInfo_狂犬吠日buff1_附属1,"<#FE2929>Action Speed reduced by 25%</color>, when attacking, <#FE2929>final damage is reduced by 25%</color>.",<#FE2929>ลดความเร็วท่าร่างลง 25%</color> และเมื่อโจมตี <#FE2929>ความเสียหายสุดท้ายลดลง 25%</color>
 BuffName_先礼后兵_光环,Diplomacy Before Violence,ไม้นวมก่อนไม้แข็ง
-BuffName_钗头凤buff1_附属1,Phoenix Hairpin,ปิ่นปักผมวิหค
-BuffName_钗头凤buff1_附属2,Phoenix Hairpin,ปิ่นปักผมวิหค
+BuffName_钗头凤buff1_附属1,Phoenix Hairpin,ปิ่นปักผมวิหคเพลิงอมตะ
+BuffName_钗头凤buff1_附属2,Phoenix Hairpin,ปิ่นปักผมวิหคเพลิงอมตะ
 BuffName_羽吹雪buff1_附属1,Feather and blow snow,ขนนกพัดหิมะโปรย
 BuffName_圣火耀日buff1_附属1,Divine Flame Radiance,รังสีเปลวไฟศักดิ์สิทธิ์
 BuffName_圣火耀日buff1_附属2,Divine Flame Radiance,รังสีเปลวไฟศักดิ์สิทธิ์

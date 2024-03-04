@@ -926,7 +926,7 @@ BattleFieldInfo_M10140-3没有月咏樱羽,"<#61C3C8>{PlayerName}</color> join t
 BattleFieldWin_M10140-3没有月咏樱羽,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_M10140-3没有月咏樱羽,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color>พ่ายแพ้
 BattleFieldInfo_M10140-3白虎,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
-BattleFieldWin_M10140-3白虎,Defeat <#61C3C8>Frost Fang</color>.,เอาชนะ <#61C3C8>เขี้ยวน้ำแข็ง</color>
+BattleFieldWin_M10140-3白虎,Defeat <#61C3C8>Frost Fang</color>.,เอาชนะ <#61C3C8>เขี้ยวเหมันต์</color>
 BattleFieldFail_M10140-3白虎,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color>พ่ายแพ้
 BattleFieldInfo_A15009-1束云寨,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
 BattleFieldWin_A15009-1束云寨,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
