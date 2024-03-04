@@ -2094,8 +2094,8 @@ R10102-2_name,The prodigal son returns.
 R10102-2_overview1,Help Beast Manor find the young master Lu Jian Nan who is wandering outside.
 R10102-2_overview2,Persuade Lu Jian Nan to return to Beast Manor.
 R10102-2_overview3,Bring Lu Jian Nan back to Beast Manor.
-M2190-6_name,The difficulty of the Holy Mountain.
-M2190-6_overview1,Go to the Great Snow Mountain to stop Liu Fuming and his party.
+M2190-6_name,The difficulty of the Holy Mountain.,ความลำบากในภูเขาศักดิ์สิทธิ์
+M2190-6_overview1,Go to the Great Snow Mountain to stop Liu Fuming and his party.,ไปยังภูเขาไป๋หลิงเพื่อหยุดหลิวฝูหมิงและคนของเขา
 M2190-6_overview2,Find the location of the mountain god of the Great Snow Mountain.
 M10140-3_npcname1,A deep growl.
 M10140-3_npcname2,A majestic voice.
@@ -2112,9 +2112,9 @@ R10088-5_name,鸳鸯
 R10088-5_overview1,Propose to Tang Tai Jun.
 Kill-2190-2_option1_1,Destroy Beast Manor!<color=#c44b0e>(Direct Battle)</color>
 Kill-2190-2_option1_2,"Nonsense, don't take it seriously."
-R10102-4_name,The ambush of the Jiuli Tribe.
-R10102-4_overview1,Patrol around Beast Manor and clear the ambushed Jiuli Tribe people. (Remaining {TagNum:九黎部落埋伏万兽山庄} places)
-R10102-4_overview2,Tell the old hunter of Beast Manor the news of the complete elimination of the ambush.
+R10102-4_name,The ambush of the Jiuli Tribe.,การซุ่มโจมตีของเผ่าจิ่วลี่
+R10102-4_overview1,Patrol around Beast Manor and clear the ambushed Jiuli Tribe people. (Remaining {TagNum:九黎部落埋伏万兽山庄} places),ตรวจตรารอบๆหมู่ตึกหมื่นอสูรและจัดการเผ่าจิ่วลี่ที่ซุ่มอยู่รอบๆ (เหลืออีก {TagNum:九黎部落埋伏万兽山庄} ที่)
+R10102-4_overview2,Tell the old hunter of Beast Manor the news of the complete elimination of the ambush.,กลับไปแจ้งพรานชราแห่งหมู่ตึกหมื่นอสูรเกี่ยวกับการกำจัดกลุ่มซุ่มโจมตีเรียบร้อย
 R32858-1_option1_1,"Help.<color=#097a76>(Stamina10, 2 quarters, Specific Battle)</color>"
 R32858-1_option1_2,I have other things to do.
 R10103-1_npcname1,Beast Manor Disciple·A.,ศิษย์หมู่ตึกหมื่นอสูร·ก

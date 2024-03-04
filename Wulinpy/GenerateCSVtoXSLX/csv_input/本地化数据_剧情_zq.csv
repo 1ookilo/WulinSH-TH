@@ -15741,26 +15741,26 @@ R10088-1_4_2,"Speaking of which, I haven't properly thanked you, young hero. I d
 R10088-1_4_3,"Miss Wan, you're too polite. Beast Manor has given me a lot of things during this time...",แม่นางหว่าน ท่านใจดีไปแล้ว หมู่ตึกหมื่นอสูรเองก็ให้ของข้ามามากมายแล้ว....
 R10088-1_4_4,"Young hero, you saved the manor from disaster. No matter how many gifts we give you, it's not too much. Please don't refuse.",ท่านจอมยุทธน้อย ท่านได้ช่วยหมู่ตึกเราไว้จากหายนะ ต่อให้มอบข้าวของมากเพียงใดก็ไม่นับว่ามากมายเกินไปหรอกเจ้าค่ะ อย่าได้เกรงใจเลยนะเจ้าคะ
 R10088-1_4_5,"Since you've said so, alright, I'll accept it.",ในเมื่อแม่นางว่าอย่างนั้น ข้าจะรับไว้แล้วกัน
-M2190-6_1_1,"Report, there are visitors."
-M2190-6_2_1,"Wait, Uncle Jie, mother is still..."
-M2190-6_2_2,"The situation is special, please prepare, young master of the manor."
-M2190-6_2_3,"...Understood, let him in."
-M2190-6_2_4,...Should I step aside?
-M2190-6_2_5,"{PlayerSurName} brother, you are not an outsider, just stay."
-M2190-6_2_6,Alright.
+M2190-6_1_1,"Report, there are visitors.",ขอรายงาน มีผู้มาเยี่ยมเยียน
+M2190-6_2_1,"Wait, Uncle Jie, mother is still...",แต่ลุงเจี่ย ท่านแม่ยัง...
+M2190-6_2_2,"The situation is special, please prepare, young master of the manor.",สถานการณ์ไม่สู้ดีนัก กรุณาเตรียมตัวต้อนรับด้วย นายน้อยแห่งหมู่ตึก
+M2190-6_2_3,"...Understood, let him in.",...เข้าใจแล้ว ให้เข้ามาได้
+M2190-6_2_4,...Should I step aside?,...ข้าควรหลบไปก่อนไหม?
+M2190-6_2_5,"{PlayerSurName} brother, you are not an outsider, just stay.",พี่{PlayerSurName} ท่านไม่ใช่คนอื่นคนไกล เชิญฟังด้วยกันเถิด
+M2190-6_2_6,Alright.,ก็ได้
 M2190-6_2_7,"The manor owner is currently unavailable, and this young master is temporarily in charge of the manor affairs. What brings you here?"
 M2190-6_2_8,"Young master, I am a villager from the foot of the Western Holy Mountain, please save our mountain god!"
 M2190-6_2_9,"What do you mean, what happened to the Holy Mountain?"
-M2190-6_2_10,"A few days ago, a man from the Central Plains dressed in white, along with a group of evil men, went up the Holy Mountain. I was terrified and hid in the bushes, not daring to breathe, but I overheard their conversation..."
-M2190-6_2_11,"(This man in white must be Liu Fuming, and those evil men must be from the Cloud Camp...)"
-M2190-6_2_12,What did they say?
-M2190-6_2_13,"They said... they said they were going to, to kidnap the mountain god!"
+M2190-6_2_10,"A few days ago, a man from the Central Plains dressed in white, along with a group of evil men, went up the Holy Mountain. I was terrified and hid in the bushes, not daring to breathe, but I overheard their conversation...",หลายวันก่อนมีชายจากจงหยวนแต่งกายชุดขาว มากับพวกท่าทางชั่วร้าย ขึ้นไปยังภูเขาศักดิ์สิทธิ์ขอรับ ข้ากลัวมากเลยแอบอยู่ในพุ่มไม่กล้าแม้แต่จะหายใจ แต่บังเอิญได้ยินพวกมันคุยกันขอรับ...
+M2190-6_2_11,"(This man in white must be Liu Fuming, and those evil men must be from the Cloud Camp...)",(หมอนี่ต้องเป็นหลิวฝูหมิงแน่เลย ไอ้พวกท่าทางชั่วร้ายน่าจะเป็นโจรจากค่ายเมฆา...)
+M2190-6_2_12,What did they say?,พวกมันคุยอะไรกัน?
+M2190-6_2_13,"They said... they said they were going to, to kidnap the mountain god!",พวกมันพูดว่า... พูดมันพูดว่ามันจะไปลักพาตัวท่านเทพแห่งขุนเขาไปขอรับ!
 M2190-6_2_14,"Understood, you go back first, we will organize manpower to go to the Holy Mountain as soon as possible."
 M2190-6_2_15,"Alright, alright! Please stop them, young master!"
-M2190-6_2_16,"What did he mean by ""Holy Mountain"" and ""Mountain God""?"
+M2190-6_2_16,"What did he mean by ""Holy Mountain"" and ""Mountain God""?","ที่หมอนั่นพูดถึง ""ภูเขาศักดิ์สิทธิ์"" และ ""ท่านเทพแห่งขุนเขา"" มันหมายความว่าอะไรล่ะนั่น?"
 M2190-6_2_17,"{PlayerSurName} brother, you are from the Central Plains and may not be familiar with the situation here. To the west of here is a large snow mountain, which is regarded as a holy mountain by the local villagers."
 M2190-6_2_18,"It is rumored that a white tiger lives in the mountains, and the locals regard it as a mountain god. Every year during festivals, they arrange for villagers to go up the mountain to offer tributes, praying for peace and good weather."
-M2190-6_2_19,"I see, so Liu Fuming and his men are after this white tiger in the snow mountain?"
+M2190-6_2_19,"I see, so Liu Fuming and his men are after this white tiger in the snow mountain?",เข้าใจแล้ว งั้นแปลว่าหลิวฝูหมิงและคนของมัน จ้องจะจับพยัคฆ์ขาวในภูเขาหิมะลูกนี้สินะ?
 M2190-6_2_20,"Yes, it seems so."
 M2190-6_2_21,What are you going to do?
 M2190-6_2_22,"Of course we have to stop them. Beast Manor's foothold in the southwest is also thanks to the support of the locals. Isn't that right, cousin?"
@@ -15772,88 +15772,88 @@ M2190-6_2_27,"Cousin, {PlayerSurName} young hero, I will go with you."
 M2190-6_2_28,"Cousin, you stay in the manor to take care of mother. Leave the fighting to us men."
 M2190-6_2_29,"...Alright, {PlayerSurName} young hero, this is the supreme mental method of Beast Manor, I give it to you, I hope you can return safely."
 M2190-6_2_30,"Don't worry, we will definitely return safely!"
-M2190-6_3_1,But auntie...
-M2190-6_3_2,"The situation is special, you should temporarily take over the manor."
-M2190-6_3_3,……
-M2190-6_3_4,"Understood, let him in, Uncle Jie."
-M2190-6_3_5,...Should I step aside?
-M2190-6_3_6,"No need, {PlayerSurName} young hero is not an outsider, and with you here, I feel more at ease."
-M2190-6_3_7,"Alright, then I will help Miss Wan'er."
-M2190-6_3_8,"The manor owner is currently unavailable, and I am temporarily in charge of the manor affairs. What brings you here?"
-M2190-6_3_9,"I am a villager at the foot of the holy mountain in the west, please help save our mountain god!"
-M2190-6_3_10,Holy mountain... Mountain god... What happened?
-M2190-6_3_11,"A few days ago, a man from the Central Plains dressed in white, along with a group of evil men, went up the Holy Mountain. I was terrified and hid in the bushes, not daring to breathe, but I overheard their conversation..."
-M2190-6_3_12,"(This man in white must be Liu Fuming, and those evil men must be from the Cloud Camp...)"
-M2190-6_3_13,What did they say?
-M2190-6_3_14,"They said... they said they were going to, to kidnap the mountain god!"
-M2190-6_3_15,"I understand the situation, you go back first, we will organize people to help you as soon as possible."
-M2190-6_3_16,"Good, good! Please, you must stop those people!"
-M2190-6_3_17,"What did he mean by ""Holy Mountain"" and ""Mountain God""?"
-M2190-6_3_18,"{PlayerSurName} is a martial artist from the Central Plains, it's understandable if you're not familiar with the situation here. To the west of here is a large snow mountain, which the local villagers regard as a holy mountain."
-M2190-6_3_19,"It is rumored that a white tiger lives in the mountains, and the locals regard it as a mountain god. Every year during festivals, they arrange for villagers to go up the mountain to offer tributes, praying for peace and good weather."
-M2190-6_3_20,"I see, so Liu Fuming and his men are after this white tiger in the snow mountain?"
-M2190-6_3_21,"Hmm, it seems so..."
-M2190-6_3_22,What are you going to do?
-M2190-6_3_23,Of course we have to stop them. Beast Manor's foothold in the southwest is also thanks to the support of the locals.
-M2190-6_3_24,But...
-M2190-6_3_25,Now that my aunt is unconscious and there is a serious shortage of manpower in the manor...
-M2190-6_3_26,"I'll help you to the end, I'll go help!"
-M2190-6_3_27,"If {PlayerSurName} is willing to help, that would be great, but this is after all a matter within the manor..."
-M2190-6_3_28,"So much has happened, although I am not a disciple of Beast Manor, I have long considered myself part of the family. Please don't be a stranger, Miss Wan'er."
-M2190-6_3_29,"...In that case, it seems I was the one being a stranger. This is the highest level of martial arts in Beast Manor, I give it to you, hoping you can return safely."
-M2190-6_3_30,"Don't worry, I will definitely come back safely!"
-M10140-1_1_1,"You are from Beast Manor, right? You're finally here! ...But are you alone?"
-M10140-1_1_2,I'm enough.
-M10140-1_1_3,"It seems that you are quite confident in your own skills, then I won't say anything more. I have set up a simple camp here, you can rest here before going up the mountain. If you need emergency medicine, you can also buy it from me."
-M10140-1_1_4,"Very thoughtful, then I'll leave everything to you."
-M10140-1_1_5,"You're too polite, we are the ones asking for your help. We hope you can return victorious and save the mountain god!"
-M10140-1_1_6,"In addition, the mountain terrain is complex and there are many paths. You may get lost on your first visit, so I have drawn a map for you to help."
-M10140-1_1_7,"Also, there is no food on the mountain, only a pack of wild wolves. Our villagers have developed a recipe for roasted wolf meat. Although it's not delicious, it can be used as an emergency supplement for stamina. I'll teach it to the young hero."
-M10140-3_1_1,This person... seems to be from Cloud Camp...
+M2190-6_3_1,But auntie...,แต่ว่าท่านป้ายัง...
+M2190-6_3_2,"The situation is special, you should temporarily take over the manor.",สถานการณ์ไม่สู้ดีนัก เจ้าควรรับหน้าที่เจ้าแห่งหมู่ตึกชั่วคราว
+M2190-6_3_3,……,……
+M2190-6_3_4,"Understood, let him in, Uncle Jie.",เข้าใจแล้วเจ้าค่ะ เชิญเขาเข้ามาเลย ลุงเจี่ย
+M2190-6_3_5,...Should I step aside?,...ข้าควรหลบไปก่อนไหม?
+M2190-6_3_6,"No need, {PlayerSurName} young hero is not an outsider, and with you here, I feel more at ease.",ไม่ต้องเจ้าค่ะ ท่านจอมยุทธน้อย{PlayerSurName} ไม่ใช่คนอื่นคนไกล หากท่านอยู่ข้าคงวางใจมากขึ้นเจ้าค่ะ
+M2190-6_3_7,"Alright, then I will help Miss Wan'er.",ก็ได้ เช่นนั้นข้าจะอยู่ช่วยแม่นางหว่านเอ๋อเอง
+M2190-6_3_8,"The manor owner is currently unavailable, and I am temporarily in charge of the manor affairs. What brings you here?",ท่านเจ้าตึกมิสะดวกรับแขก ขณะนี้ข้าเป็นผู้รักษาการณ์แทนเท่าเจ้าตึก ท่านมาที่นี่ต้องการอะไร?
+M2190-6_3_9,"I am a villager at the foot of the holy mountain in the west, please help save our mountain god!",ข้าเป็นชาวบ้านที่ตีนเขาศักดิ์สิทธิ์ทางตะวันตกขอรับ ได้โปรดช่วยท่านเทพขุนเขาด้วยขอรับ!
+M2190-6_3_10,Holy mountain... Mountain god... What happened?,ภูเขาศักดิ์สิทธิ์... ท่านเทพแห่งขุนเขา... เกิดอะไรขึ้นกัน?
+M2190-6_3_11,"A few days ago, a man from the Central Plains dressed in white, along with a group of evil men, went up the Holy Mountain. I was terrified and hid in the bushes, not daring to breathe, but I overheard their conversation...",หลายวันก่อนมีชายจากจงหยวนแต่งกายชุดขาว มากับพวกท่าทางชั่วร้าย ขึ้นไปยังภูเขาศักดิ์สิทธิ์ขอรับ ข้ากลัวมากเลยแอบอยู่ในพุ่มไม่กล้าแม้แต่จะหายใจ แต่บังเอิญได้ยินพวกมันคุยกันขอรับ...
+M2190-6_3_12,"(This man in white must be Liu Fuming, and those evil men must be from the Cloud Camp...)",(หมอนี่ต้องเป็นหลิวฝูหมิงแน่เลย ไอ้พวกท่าทางชั่วร้ายน่าจะเป็นโจรจากค่ายเมฆา...)
+M2190-6_3_13,What did they say?,พวกมันคุยอะไรกัน?
+M2190-6_3_14,"They said... they said they were going to, to kidnap the mountain god!",พวกมันพูดว่า... พูดมันพูดว่ามันจะไปลักพาตัวท่านเทพแห่งขุนเขาไปขอรับ!
+M2190-6_3_15,"I understand the situation, you go back first, we will organize people to help you as soon as possible.",ข้าเข้าใจสถานการณ์แล้ว เจ้ากลับไปก่อน ข้าจะจัดสรรคนไปช่วยเจ้าให้เร็วที่สุด
+M2190-6_3_16,"Good, good! Please, you must stop those people!",ขอบคุณขอรับ ขอบคุณขอรับ ได้โปรดพวกท่านต้องหยุดพวกมันให้ได้นะขอรับ!
+M2190-6_3_17,"What did he mean by ""Holy Mountain"" and ""Mountain God""?","ที่หมอนั่นพูดถึง ""ภูเขาศักดิ์สิทธิ์"" และ ""ท่านเทพแห่งขุนเขา"" มันหมายความว่าอะไรล่ะนั่น?"
+M2190-6_3_18,"{PlayerSurName} is a martial artist from the Central Plains, it's understandable if you're not familiar with the situation here. To the west of here is a large snow mountain, which the local villagers regard as a holy mountain.",{PlayerSurName} ท่านเป็นจอมยุทธจากจงหยวน เลยอาจจะยังไม่เข้าใจสินะเจ้าคะ ในทางตะวันตกจากที่นี่นั้นมีภูเขาหิมะอยู่ลูกหนึ่ง ชาวบ้านแถวนั้นเรียกภูเขานี้ว่าภูเขาศักดิ์สิทธิ์เจ้าค่ะ
+M2190-6_3_19,"It is rumored that a white tiger lives in the mountains, and the locals regard it as a mountain god. Every year during festivals, they arrange for villagers to go up the mountain to offer tributes, praying for peace and good weather.",มีข่าวลือว่าบนภูเขาอาศัยพยัคฆ์ขาวตัวหนึ่ง ชาวบ้านในท้องถิ่นเคารพบูชาพยัคฆ์ขาวตัวนี้เสมือนเทพเจ้าแห่งขุนเขา ในทุกๆ เทศกาลสำคัญ ชาวบ้านจะจัดเตรียมเครื่องเซ่นไหว้และขึ้นเขาเพื่อบูชาพยัคฆ์ขาว เพื่อขอพรให้แคล้วคลาดปลอดภัยและฝนฟ้าตกตามฤดูกาลเจ้าค่ะ
+M2190-6_3_20,"I see, so Liu Fuming and his men are after this white tiger in the snow mountain?",เข้าใจแล้ว งั้นแปลว่าหลิวฝูหมิงและคนของมัน จ้องจะจับพยัคฆ์ขาวในภูเขาหิมะลูกนี้สินะ?
+M2190-6_3_21,"Hmm, it seems so...",ดูเหมือนจะเป็นอย่างนั้นเจ้าค่ะ...
+M2190-6_3_22,What are you going to do?,แล้วเจ้าจะทำยังไงต่อไป?
+M2190-6_3_23,Of course we have to stop them. Beast Manor's foothold in the southwest is also thanks to the support of the locals.,แน่นอนเจ้าค่ะ ว่าเราต้องหยุดพวกมัน หมู่ตึกหมื่นอสูรยืนหยัดได้ในแดนตะวันตกเฉียงใต้ได้ก็ต้องขอบคุณเหล่าชาวบ้านทั้งหลายเจ้าค่ะ
+M2190-6_3_24,But...,แต่...
+M2190-6_3_25,Now that my aunt is unconscious and there is a serious shortage of manpower in the manor...,ตอนนี้ท่านป้ายังไม่ได้สติ แถมกำลังคนยังขาดแคลนหนักมากเจ้าค่ะ...
+M2190-6_3_26,"I'll help you to the end, I'll go help!",ในเมื่อช่วยก็ต้องช่วยให้ถึงที่สุด ข้าจะไปช่วยเอง!
+M2190-6_3_27,"If {PlayerSurName} is willing to help, that would be great, but this is after all a matter within the manor...",หากท่าน{PlayerSurName} ประสงค์อยากไปช่วยเหลือ นั่นคงยอดเยี่ยมมากเลยเจ้าค่ะ แต่ว่านี่ก็เป็นเรื่องธุระของหมู่ตึกแท้ๆ...
+M2190-6_3_28,"So much has happened, although I am not a disciple of Beast Manor, I have long considered myself part of the family. Please don't be a stranger, Miss Wan'er.",เกิดเรื่องมากมายขนาดนี้ ถึงแม้ว่าข้าจะไม่ใช่ศิษย์ของหมู่ตึกหมื่นอสูร แต่ข้านั้นก็นับว่าตัวเองนั้นเป็นส่วนหนึ่งของตระกูลพวกเจ้าแล้ว มิต้องทำเป็นคนอื่นคนไกลไปได้หรอก แม่นางหว่านเอ๋อ
+M2190-6_3_29,"...In that case, it seems I was the one being a stranger. This is the highest level of martial arts in Beast Manor, I give it to you, hoping you can return safely.",...ดูเหมือนจะเป็นข้าเองที่ทำตัวเป็นคนอื่นคนไกลเสียได้ นี่เป็นตำราวรยุทธขั้นสูงสุดของหมู่ตึกหมื่นอสูรเจ้าค่ะ ข้าจะขอมอบให้ท่าน หวังว่าท่านจะกลับมาอย่างปลอดภัยนะเจ้าคะ
+M2190-6_3_30,"Don't worry, I will definitely come back safely!",ไม่ต้องห่วง ข้าจะกลับมาครบ 32 แน่!
+M10140-1_1_1,"You are from Beast Manor, right? You're finally here! ...But are you alone?",เจ้ามาจากหมู่ตึกหมื่นอสูรใช่ไหม เจ้ามาสักที! ...แต่เจ้ามาคนเดียวเองรึ?
+M10140-1_1_2,I'm enough.,แค่ข้าก็พอแล้ว
+M10140-1_1_3,"It seems that you are quite confident in your own skills, then I won't say anything more. I have set up a simple camp here, you can rest here before going up the mountain. If you need emergency medicine, you can also buy it from me.",ดูเหมือนว่าท่านจอมยุทธน้อยจะมั่นใจในฝีมือของตัวเองมากสินะ งั้นข้าก็ไม่พูดมากแล้ว ข้าได้ตั้งค่ายพักแรมแบบง่ายๆ ไว้ที่นี่ ท่านจอมยุทธน้อยสามารถพักผ่อนที่นี่ก่อนขึ้นเขาได้ หากท่านน้อยต้องการยาสามัญประจำบ้านก็สามารถซื้อจากข้าได้
+M10140-1_1_4,"Very thoughtful, then I'll leave everything to you.",เจ้าวางแผนได้ดีมาก ข้าขอฝากเจ้าด้วย
+M10140-1_1_5,"You're too polite, we are the ones asking for your help. We hope you can return victorious and save the mountain god!",มิต้องเกรงใจ พวกเราเป็นฝ่ายร้องขอความช่วยเหลือของท่าน ขอให้ท่านได้รับชัยชนะและช่วยท่านเทพแห่งขุนเขาสำเร็จ!
+M10140-1_1_6,"In addition, the mountain terrain is complex and there are many paths. You may get lost on your first visit, so I have drawn a map for you to help.",นอกจากนี้เส้นทางในหุบเขานั้นคดเคี้ยวซับซ้อนนัก ข้าได้ตระเตรียมแผนที่ไว้ให้ท่านแล้ว
+M10140-1_1_7,"Also, there is no food on the mountain, only a pack of wild wolves. Our villagers have developed a recipe for roasted wolf meat. Although it's not delicious, it can be used as an emergency supplement for stamina. I'll teach it to the young hero.",นอกจากนี้ บนภูเขาไม่มีอาหารอะไรเลย มีเพียงฝูงหมาป่า ชาวบ้านอย่างเราๆจึงได้คิดค้นสูตรอาหารสำหรับย่างเนื้อหมาป่า ถึงแม้จะไม่อร่อยมากนัก แต่สามารถช่วยประทังชีวิตและฟื้นฟูพลังงานได้ ข้าจะสอนให้ท่านจอมยุทธน้อยด้วย
+M10140-3_1_1,This person... seems to be from Cloud Camp...,ดูเหมือนหมอนี่... จะมาจากค่ายเมฆา...
 M10140-3_2_1,"Such a heavy injury, such a large tear wound, coupled with a lot of blood loss... If he doesn't get immediate treatment, he will..."
 M10140-3_3_1,"This open wound and blood loss, it's too late to save him..."
 M10140-3_4_1,"The open wounds on his body, no mistake, are tiger claw marks!"
 M10140-3_4_2,Have they already found the mountain god!?
 M10140-3_5_1,"The size of this open wound, it's not something ordinary animals can cause."
 M10140-3_5_2,Could this open wound have been caused by the white tiger here? Could they have already found the mountain god?
-M10140-3_6_1,"This size of a Tear wound... it's not something an ordinary weapon could cause... \nCould it be a tiger... Have they found the Mountain God?"
-M10140-3_7_1,"The arrangement here... It seems they wanted to rest in this Mountain cave, but were attacked by the White Tiger..."
-M10140-3_7_2,"Damn it, did I arrive a step too late after all..."
+M10140-3_6_1,"This size of a Tear wound... it's not something an ordinary weapon could cause... \nCould it be a tiger... Have they found the Mountain God?","แผลเปิดกว้างขนาดนี้... ไม่น่าใช่แผลจากอาวุธ...\nหรือจะเป็นเสือ... พวกมันเจอกับเทพแห่งขุนเขาหรอกหรือนี่?"
+M10140-3_7_1,"The arrangement here... It seems they wanted to rest in this Mountain cave, but were attacked by the White Tiger...",ดูจากข้าวของรอบๆ... ดูเหมือนพวกมันจะพักผ่อนอยู่ในถ้ำแห่งนี้ ก่อนจะถูกเสือขาวนั่นโจมตีสินะ...
+M10140-3_7_2,"Damn it, did I arrive a step too late after all...",บ้าเอ๊ย ข้าช้าไปก้าวหนึ่งหรือนี่...
 M10140-3_7_3,Roar--,โฮก--
-M10140-3_7_4,"That roar, could it be--!"
-M10140-3_7_5,"Tsk, this beast is really powerful, it actually injured so many of my brothers."
-M10140-3_7_6,"Hey, Boss Liu, you'll have to pay more for this."
-M10140-3_7_7,"The price is negotiable, just tie this guy up first."
-M10140-3_7_8,Alright!
+M10140-3_7_4,"That roar, could it be--!",เสียงคำรามนี่ หรือว่า—!
+M10140-3_7_5,"Tsk, this beast is really powerful, it actually injured so many of my brothers.",ชิ ไอ้สัตว์ตัวนี้นี่มันแรงดีจริงๆ ทำพี่น้องข้าเจ็บไปหมดแล้ว
+M10140-3_7_6,"Hey, Boss Liu, you'll have to pay more for this.",เฮ้ย ท่านหลิว ท่านต้องจ่ายเพิ่มแล้วนะแบบนี้
+M10140-3_7_7,"The price is negotiable, just tie this guy up first.",ราคาต่อรองได้แน่นอน เพียงมัดไอ้เจ้านี่เสียก่อน
+M10140-3_7_8,Alright!,ตามนั้น!
 M10140-3_7_9,Roar...,โฮก...
-M10140-3_7_10,"Alright, mission accomplished!"
-M10140-3_7_11,"Good, let's call it a day."
-M10140-3_8_1,"No, someone's coming."
-M10140-3_9_1,"No, it's not over yet."
-M10140-3_10_1,"You can leave, but let the White Tiger go!"
-M10140-3_10_2,"Tsk, you're really persistent!"
-M10140-3_10_3,Want this White Tiger? Let's see if you have the ability!
-M10140-3_11_1,"{PlayerName}, we have no past grudges, and my master has asked to spare your life, why do you keep ruining our plans!"
-M10140-3_12_1,"You're right, but it's our duty to help when we see injustice. \nBlame your bad luck for running into me."
-M10140-3_12_2,"Heh, bad luck, is it bad luck...\nGod, you're really biased!"
+M10140-3_7_10,"Alright, mission accomplished!",เรียบร้อย ภารกิจเสร็จสิ้น!
+M10140-3_7_11,"Good, let's call it a day.",ดี งั้นรีบกลับ
+M10140-3_8_1,"No, someone's coming.",ไม่ มีใครบางคนกำลังมา
+M10140-3_9_1,"No, it's not over yet.",ไม่ ยังไม่จบหรอกนะ
+M10140-3_10_1,"You can leave, but let the White Tiger go!",พวกเจ้าจะไปไหนก็ไป แต่ปล่อยเสือขาวตัวนี้ซะ!
+M10140-3_10_2,"Tsk, you're really persistent!",ชิ แกนี่ขี้ตื๊อจริงๆ!
+M10140-3_10_3,Want this White Tiger? Let's see if you have the ability!,อยากได้งั้นรึ ? ขอข้าดูฝีมือเจ้าหน่อยแล้วกัน!
+M10140-3_11_1,"{PlayerName}, we have no past grudges, and my master has asked to spare your life, why do you keep ruining our plans!",{PlayerName} เราไม่เคยบาดหมางกันมาก่อน นายท่านเองก็ขอให้ข้าไว้ชีวิตเจ้า ไยต้องมาพังแผนข้าด้วย!
+M10140-3_12_1,"You're right, but it's our duty to help when we see injustice. \nBlame your bad luck for running into me.","ถูกต้องเรามิเคยบาดหมาง แต่มันเป็นหน้าที่ของข้าหากข้าเห็นความอยุติธรรมก็ต้องปราบปราม\nโทษดวงของเจ้าเองแล้วกันที่โชคร้ายมาเจอข้า"
+M10140-3_12_2,"Heh, bad luck, is it bad luck...\nGod, you're really biased!","เฮอะ โชคร้าย ชะตาลิขิตรึ...\nสวรรค์ ไยท่านจึงเกลียดข้าเพียงนี้!"
 M10140-3_13_1,"Liu Fuming, {PlayerSurName} may have no grudge against you, but you attacked my mother, everyone in Beast Manor wants to kill you!"
 M10140-3_13_2,"Heh, Beast Manor is now just a bunch of dependants, if it wasn't for {PlayerName}'s interference, you wouldn't have a say today!"
-M10140-3_13_3,"Liu Fuming, you--!"
-M10140-3_14_1,"You're not as skilled, I'll give this Mountain God to you!"
-M10140-3_14_2,"Hey, don't think about running--!"
-M10140-3_14_3,{yell} roars!
-M10140-3_14_4,"Hey, wait, you're not going to fight me, are you? I just saved you..."
-M10140-3_14_5,{yell} roars--!!
-M10140-3_15_1,"You're really unreasonable, ungrateful, what kind of Mountain God are you!"
-M10140-3_15_2,{yell} roars--!!
-M10140-3_15_3,"You still have stamina... No choice, I have to fight!"
-M10140-3_16_1,"This White Tiger seems to have endless strength, you subdue it time and time again, but it keeps getting up and pouncing on you..."
-M10140-3_16_2,"So, you and this White Tiger repeat the fight over and over again, until two shichen later, you both are exhausted..."
-M10140-3_17_1,Meanwhile...
-M10140-3_17_2,"Damn {PlayerName}, always ruining my plans..."
-M10140-3_17_3,If it wasn't for the master's order not to kill him...
+M10140-3_13_3,"Liu Fuming, you--!",หลิว ฝูหมิง เจ้า—!
+M10140-3_14_1,"You're not as skilled, I'll give this Mountain God to you!",วันนี้ฝีมือข้าสู้เจ้าไม่ได้ เชิญเจ้าเอาท่านเทพแห่งขุนเขานี่ไปได้เลย!
+M10140-3_14_2,"Hey, don't think about running--!",เฮ้ย อย่าคิดหนีนะ—!
+M10140-3_14_3,{yell} roars!,{yell} โฮก!
+M10140-3_14_4,"Hey, wait, you're not going to fight me, are you? I just saved you...",เฮ้ย เดี๋ยวๆ เจ้าไม่ได้จะมาสู้กับข้าใช่ไหม? ข้าพึ่งช่วยเจ้าไปนะ...
+M10140-3_14_5,{yell} roars--!!,{yell} โฮก--!!
+M10140-3_15_1,"You're really unreasonable, ungrateful, what kind of Mountain God are you!",แกนี่ไร้เหตุผลเสียจริง เป็นท่านเทพแห่งขุนเขาพรรค์ไหนของแกกันเนี่ย!
+M10140-3_15_2,{yell} roars--!!,{yell} โฮก--!!
+M10140-3_15_3,"You still have stamina... No choice, I have to fight!",เจ้ายังดูมีแรงอยู่เลย... ไม่มีทางเลือก งั้นข้าก็ต้องสู้!
+M10140-3_16_1,"This White Tiger seems to have endless strength, you subdue it time and time again, but it keeps getting up and pouncing on you...",เจ้าเสือขาวตัวนี้ดูเหมือนจะมีกำลังวังชาไม่สิ้นสุด เจ้าปราบมันลงได้ครั้งแล้วครั้งเล่า แต่มันก็ลุกขึ้นสู้ใหม่ และพุ่งเข้าโจมตีเจ้าอีกครั้ง...
+M10140-3_16_2,"So, you and this White Tiger repeat the fight over and over again, until two shichen later, you both are exhausted...",หลังจากเจ้าและเสือขาวตัวนี้สู้รบปรบมือกันมาอย่างยาวนาน ผ่านไปถึงสองชั่วยามให้หลังพวกเจ้าทั้งคู่ต่างเหนื่อยล้า...
+M10140-3_17_1,Meanwhile...,ในขณะเดียวกัน...
+M10140-3_17_2,"Damn {PlayerName}, always ruining my plans...",บ้าเอ๊ย {PlayerName} มาขัดแผนข้าอยู่เรื่อย...
+M10140-3_17_3,If it wasn't for the master's order not to kill him...,ถ้าไม่ใช่เพราะนายท่านสั่งไว้ไม่ให้ฆ่ามันแล้วละก็...
 M10140-3_17_4,Roar!,โฮก!
-M10140-3_17_5,Is this... a lynx?
+M10140-3_17_5,Is this... a lynx?,นี่มัน... แมวป่ารึ?
 M10140-3_17_6,Why is Young Master Liu in such a hurry?
 M10140-3_17_7,"Who? Stop playing tricks, come out if you dare!"
 M10140-3_17_8,"Fine, I'll come out."
