@@ -692,7 +692,7 @@ BuffInfo_影子护卫,"Every time you encounter danger, someone will help you, a
 BuffInfo_神行无忌,"Being naughty since childhood and chased around by people, you have developed the ability to run fast, and you can <#29F161>move 2 extra squares in battle</color>.",ซุกซนจนถูกคนวิ่งไล่อยู่เสมอในวัยเด็ก ทำให้หล่อหลอมเป็นการวิ่งที่รวดเร็ว สามารถเคลื่อนที่ได้ <#29F161>เพิ่ม 2 ช่อง ในการต่อสู้</color>
 BuffInfo_草木皆兵,"Having a unique understanding of Weapons and martial arts, even if you hastily pick up the wrong Weapon, it will not cause any trouble, <#29F161>when using external skills, pierce the Weapon type restriction</color>.",มีความเข้าใจในอาวุธ และวรยุทธมากเป็นพิเศษ แม้จะรีบจนหยิบอาวุธผิดชนิดก็ไม่เป็นปัญหา <#29F161>เมื่อใช้วิชาภายนอก ไม่ต้องสนใจประเภทของอาวุธที่ใช้</color>
 BuffInfo_无师自通,"Having read widely and being able to recite fluently, no matter what book you look at, you can remember it at a glance, <#29F161>when learning from a manual, pierce any conditions</color>.",อ่านหนังสือมามากมาย และมีความจำเป็นเป็นเลิศ ไม่ว่าจะหนังสืออะไร ก็สามารถจำได้ในพริบตา <#29F161>เมื่อเรียนรู้วิชาจากตำราวรยุทธ ไม่ต้องสนเงื่อนไขในการเรียนรู้</color>
-BuffInfo_心有灵犀,"Excellent at learning skills, all knowledge is understood at a glance, <#29F161>when successfully learning from an external skill manual, the increased martial arts value will be twice the usual</color>.",เรียนรู้วิชาได้อย่างรวดเร็ว ศึกษารอบเดียวก็เข้าใจครบถ้วน <#29F161>เมื่อเรียนรู้วิชาภายนอกจากตำราวรยุทธสำเร็จ ค่าวรยุทธจะเพิ่มเป็นสองเท่า</color>
+BuffInfo_心有灵犀,"Excellent at learning skills, all knowledge is understood at a glance, <#29F161>when successfully learning from an external skill manual, the increased martial arts value will be twice the usual</color>.",เรียนรู้วิชาได้อย่างรวดเร็ว ศึกษารอบเดียวก็เข้าใจครบถ้วน <#29F161>เมื่อเรียนรู้วิชาภายนอกจากตำราวรยุทธสำเร็จ ค่าชำนาญอาวุธจะเพิ่มเป็นสองเท่า</color>
 BuffInfo_万里独行,"Friendship only affects the speed of drawing a sword! <#29F161>The fewer teammates, the higher the Action Speed. When there are no teammates, the Action Speed is an additional +25, and for each additional teammate, the Action Speed is -5</color>.",สหายและมิตรภาพเป็นเพียงสิ่งเหนี่ยวรั้งยากต่อการออกกระบี่!  <#29F161> ยิ่งมีเพื่อนร่วมทีมน้อยความเร็วท่าร่างก็จะยิ่งสูงขึ้น เมื่อไม่มีเพื่อนร่วมทีมความเร็วท่าร่างเพิ่มขึ้น 25 แต้ม และเพื่อนร่วมทีมแต่ล่ะคนที่ในทีมจะลดความเร็วท่าร่างลง 5 แต้ม</color>
 BuffInfo_自带毒疮,"After years of learning poison skills, you have finally developed a poisonous body. <#29F161>When attacked, you will inflict 20 points of Poisoned effect on the attacker</color>.",หลังจากศึกษาศาสตร์พิษเป็นเวลาหลายปี ในที่สุดก็มีกายาพิษ <#29F161>เมื่อถูกโจมตี สร้างสถานะพิษ 20 แต้ม แก่ศัตรู</color>
 BuffInfo_贪生怕死,"Timid as a mouse, any slight disturbance will make you flee like a startled bird. <#29F161>In a wild battle, you can pierce through the battle range and escape directly when HP is below 20%</color>.","ขี้ขลาดเหมือนกับหนู, สิ่งรบกวนเล็กๆ จะทำให้คุณบินหนีเหมือนกับนกที่ตกใจ <#29F161>ในการต่อสู้ดุเดือด, คุณสามารถเดินทะลุขอบเขตการต่อสู้และหลบหนีได้โดยตรงเมื่อ HP ต่ำกว่า 20%</color>"
@@ -723,7 +723,7 @@ BuffInfo_剧情影子护卫,"Every time you encounter danger, someone will help 
 BuffInfo_剧情神行无忌,"Being naughty since childhood and chased around by people, you have developed the ability to run fast, and you can <#29F161>move 2 extra squares in battle</color>.",ซุกซนจนถูกคนวิ่งไล่อยู่เสมอในวัยเด็ก ทำให้หล่อหลอมเป็นการวิ่งที่รวดเร็ว สามารถเคลื่อนที่ได้ <#29F161>เพิ่ม 2 ช่อง ในการต่อสู้</color>
 BuffInfo_剧情草木皆兵,"Having a unique understanding of Weapons and martial arts, even if you hastily pick up the wrong Weapon, it will not cause any trouble, <#29F161>when using external skills, pierce the Weapon type restriction</color>.",มีความเข้าใจในอาวุธ และวรยุทธมากเป็นพิเศษ แม้จะรีบจนหยิบอาวุธผิดชนิดก็ไม่เป็นปัญหา <#29F161>เมื่อใช้วิชาภายนอก ไม่ต้องสนใจประเภทของอาวุธที่ใช้</color>
 BuffInfo_剧情无师自通,"Having read widely and being able to recite fluently, no matter what book you look at, you can remember it at a glance, <#29F161>when learning from a manual, pierce any conditions</color>.",อ่านหนังสือมามากมาย และมีความจำเป็นเป็นเลิศ ไม่ว่าจะหนังสืออะไร ก็สามารถจำได้ในพริบตา <#29F161>เมื่อเรียนรู้วิชาจากตำราวรยุทธ ไม่ต้องสนเงื่อนไขในการเรียนรู้</color>
-BuffInfo_剧情心有灵犀,"Excellent at learning skills, all knowledge is understood at a glance, <#29F161>when successfully learning from an external skill manual, the increased martial arts value will be twice the usual</color>.",เรียนรู้วิชาได้อย่างรวดเร็ว ศึกษารอบเดียวก็เข้าใจครบถ้วน <#29F161>เมื่อเรียนรู้วิชาภายนอกจากตำราวรยุทธสำเร็จ ค่าวรยุทธจะเพิ่มเป็นสองเท่า</color>
+BuffInfo_剧情心有灵犀,"Excellent at learning skills, all knowledge is understood at a glance, <#29F161>when successfully learning from an external skill manual, the increased martial arts value will be twice the usual</color>.",เรียนรู้วิชาได้อย่างรวดเร็ว ศึกษารอบเดียวก็เข้าใจครบถ้วน <#29F161>เมื่อเรียนรู้วิชาภายนอกจากตำราวรยุทธสำเร็จ ค่าชำนาญอาวุธจะเพิ่มเป็นสองเท่า</color>
 BuffInfo_剧情万里独行,"Friendship only affects the speed of drawing a sword! <#29F161>The fewer teammates, the higher the Action Speed. When there are no teammates, the Action Speed is an additional +25, and for each additional teammate, the Action Speed is -5</color>.",สหายและมิตรภาพเป็นเพียงสิ่งเหนี่ยวรั้งยากต่อการออกกระบี่!  <#29F161> ยิ่งมีเพื่อนร่วมทีมน้อย Action Speed ก็จะยิ่งสูงขึ้น เมื่อไม่มีเพื่อนร่วมทีม Action Speed บวกเพิ่ม +25 และยิ่งมีเพื่อนร่วมทีมแต่ล่ะคนที่ในทีม จะยิ่งลด Action Speed ลง -5</color>
 BuffInfo_剧情自带毒疮,"After years of learning poison skills, you have finally developed a body with poison, <#29F161>when attacked in battle, you will inflict 20 points of Poisoned effect on the attacker</color>.",หลังจากศึกษาศาสตร์พิษเป็นเวลาหลายปี ในที่สุดก็มีกายาพิษ <#29F161>เมื่อถูกโจมตี สร้างสถานะพิษ 20 แต้ม แก่ศัตรู</color>
 BuffInfo_剧情贪生怕死,"Timid as a mouse, any slight disturbance will make you flee like a startled bird. <#29F161>In a wild battle, you can pierce through the battle range and escape directly when HP is below 20%</color>.","ขี้ขลาดเหมือนกับหนู, สิ่งรบกวนเล็กๆ จะทำให้คุณบินหนีเหมือนกับนกที่ตกใจ <#29F161>ในการต่อสู้ดุเดือด, คุณสามารถเดินทะลุขอบเขตการต่อสู้และหลบหนีได้โดยตรงเมื่อ HP ต่ำกว่า 20%</color>"
@@ -906,7 +906,7 @@ BuffInfo_伙伴特征儒家传人,"Gain an additional 50% Spirit<#29F161></color
 BuffInfo_伙伴特征袖里青蛇,Inflict <#FE2929>10 points of Poisoned</color> on the enemy during an Attack.,สร้างสถานะ <#FE2929>พิษ 10 แต้ม</color> เมื่อโจมตีศัตรู
 BuffInfo_伙伴特征恨天不公,Gain an additional 50% Spirit<#29F161></color>.,ได้รับพลังใจเพิ่มขึ้นอีก 50%<#29F161></color>
 BuffInfo_伙伴特征繁华楼主,"Action Speed increases, the fewer characters on our side on the battlefield, the more it increases. Without teammates, Action Speed is an additional +50, for each additional teammate, Action Speed -10.","ความเร็วท่าร่างเพิ่มขึ้น, ยิ่งมีพรรคพวกฝ่ายเราบนสนามรบน้อย ยิ่งเพิ่มมากขึ้น, หากไม่มีพรรคพวกเลย ความเร็วท่าร่างเพิ่มขึ้น 50 สำหรับพรรคพวกแต่ละคนที่มี ความเร็วท่าร่างจะลดลง 10"
-BuffInfo_伙伴特征妙手空空2,"Each time you Attack and hit the enemy, steal 1% of their gold, up to 50 coins per target per time.",ทุกครั้งที่โจมตีโดนศัตรู จะขโมยเงิน 1% ของศัตรู สูงสุดที่ 50 เหรียญต่อครั้งต่อเป้าหมาย
+BuffInfo_伙伴特征妙手空空2,"Each time you Attack and hit the enemy, steal 1% of their gold, up to 50 coins per target per time.",ทุกครั้งที่โจมตีโดนศัตรู จะขโมยเงิน 1% ของศัตรู สูงสุดที่ 50 อีแปะต่อครั้งต่อเป้าหมาย
 BuffInfo_伙伴特征好事成双,25% chance to drop an extra item when killing an enemy.,มีโอกาส 25% ที่จะได้รับสิ่งของเพิ่มขึ้นจากการสังหารศัตรู
 BuffInfo_伙伴特征踏雪无痕,"<#29F161>Qinggong increases by 20 points, Action Speed increases by 20%</color>.",<#29F161>วิชาตัวเบาเพิ่มขึ้น 20 ความเร็วท่าร่างเพิ่มขึ้น 20%</color>
 BuffInfo_伙伴特征释家传人,"Immune to Charm, Disable technique, Internal break, Broken bone, Cut tendon, Vulnerable during combat.","ทำให้สถานะ ลุ่มหลง, ทำลายวิชา, กำลังภายในติดขัด, กระดูกหัก, เอ็นเท้าขาด, เปราะบาง ไร้ผล"
@@ -1435,7 +1435,7 @@ BuffInfo_沉鱼落雁,"Upon entering battle, a mysterious woman is summoned to a
 BuffInfo_门派天赋战意凛然,Spirit gain is increased by an additional 50%.,ได้รับพลังใจเพิ่มขึ้นอีก 50%
 BuffInfo_门派天赋玄门正宗,Martial arts MP consumption reduced by 25%.,พลังภายในที่เสียจากวรยุทธจะลดลง 25%
 BuffInfo_门派天赋众志成城,"For each CharacterRelations that reaches 60, an additional 5 points of damage will be dealt in battle, up to a maximum of 100 additional points of damage.",ทุกตัวละครที่ความสัมพันธ์ถึง 60 จะทำให้ สร้างความเสียหายในการต่อสู้เพิ่มขึ้น 5 หน่วย สูงสุดที่ 100 หน่วย
-BuffInfo_门派天赋妙手空空,"Each time you Attack and hit the enemy, steal 1% of their gold, up to 50 coins per target per time.",ทุกครั้งที่โจมตีโดนศัตรู จะขโมยเงิน 1% ของศัตรู สูงสุดที่ 50 เหรียญต่อครั้งต่อเป้าหมาย
+BuffInfo_门派天赋妙手空空,"Each time you Attack and hit the enemy, steal 1% of their gold, up to 50 coins per target per time.",ทุกครั้งที่โจมตีโดนศัตรู จะขโมยเงิน 1% ของศัตรู สูงสุดที่ 50 อีแปะต่อครั้งต่อเป้าหมาย
 BuffInfo_门派天赋飞星连珠,"After using Throwing, there is a 25% chance to act again.",หลังจากใช้อาวุธลับ จะมีโอกาส 25% ที่จะได้เดินอีกตา
 BuffInfo_门派天赋明察秋毫,Accuracy+30%.,ความแม่นยำ +30%
 BuffInfo_门派天赋九流杂学,Five urban skills level up by 1.,ทักษะชีวิตในเมืองทั้งห้า เพิ่มขึ้น 1
@@ -1459,7 +1459,7 @@ BuffInfo_其利断金,Guaranteed to Critical when attacking.,เมื่อโ�
 BuffInfo_暗香浮动,"<#29F161>Attack increases by 10%, Defense increases by 10%, Action Speed increases by 25%</color>.","<#29F161>เพิ่มพลังโจมตี 10%, พลังป้องกัน 10% และความเร็วท่าร่าง 25%</color>"
 BuffInfo_凤舞九天,<#29F161>Increase Attack by 25%</color>.,<#29F161>พลังโจมตีเพิ่มขึ้น 25%</color>
 BuffInfo_暖胃舒心,"After joining the team, automatically recover <#29F161>30 points of Stamina</color>, <#29F161>20 points of Mood</color> every day.","หลังจากเข้าร่วมทีม, ฟื้นฟู <#29F161>แรงกาย 30 แต้ม Stamina</color> <#29F161>อารมณ์ 20 แต้ม Mood</color> โดยอัตโนมัติทุกวัน"
-BuffInfo_睚眦必报,"When fighting in the same team, if the protagonist is within 2 squares of Hua Qingqing, every time the protagonist is attacked, <#29F161>the attacker will receive 20 points of Bleeding</color>.","เมื่อลงต่อสู้ในทีมเดียวกัน, หากตัวละครเอกอยู่ในระยะ 2 ช่องของ ฮวาชิงชิง ทุกครั้งที่ตัวละครเอกถูกโจมตี <#29F161>ศัตรูผู้โจมตีจะได้รับเลือดออก 20 แต้ม</color>"
+BuffInfo_睚眦必报,"When fighting in the same team, if the protagonist is within 2 squares of Hua Qingqing, every time the protagonist is attacked, <#29F161>the attacker will receive 20 points of Bleeding</color>.","เมื่อลงต่อสู้ในฝั่งเดียวกัน, หากตัวละครเอกอยู่ในระยะ 2 ช่องของ ฮวาชิงชิง ทุกครั้งที่ตัวละครเอกถูกโจมตี <#29F161>ศัตรูผู้โจมตีจะได้รับสถานะเลือดไหล 20 แต้ม</color>"
 BuffInfo_感同身受,"When fighting in the same team, if the protagonist is within 1 square of Luo Qianxue, every time the protagonist is attacked, only <#29F161>80% of the damage is taken</color>, Luo Qianxue <#29F161>takes 20% of the damage</color> and additionally <#29F161>gains 10 points of Spirit</color>.","เมื่อลงต่อสู้อยู่ในทีมเดียวกัน, หากตัวละครเอกอยู่ในระยะ 1 ช่องของ ""ลั่วเฉียนเสวี่ย"" ทุกครั้งที่ตัวเอกถูกโจมตี จะมีเพียง <#29F161>80% ของความเสียหายเท่านั้น</color>ที่ได้รับ อีก <#29F161> 20% ของความเสียหาย</color> ลั่วเฉียนเสวี่ยจะรับไว้ และ <#29F161>ได้รับพลังใจเพิ่มเติม 10 แต้ม</color>"
 BuffInfo_郡主私房,"After joining the team, you can get <#29F161>coins</color> once a day, and the higher the relationship with the princess, the more coins you get.","หลังจาก""องค์หญิง""เข้าร่วมทีม, ตัวละครเอกจะได้รับ<#29F161>เงิน</color> 1 ครั้งต่อวัน, และยิ่งความสัมพันธ์กับเจ้าหญิงสูงเท่าไร ก็ยิ่งได้รับเหรียญมากขึ้นเท่านั้น."
 BuffInfo_春泥护花,"When fighting in the same team, if the protagonist is within 2 squares of Qu Wangyou, every time the protagonist is attacked, <#29F161>recover 5% of lost HP</color>, up to 120 points.","เมื่อลงต่อสู้ในทีมเดียวกัน, หากตัวละครเอกอยู่ภายใน 2 ช่องของ ""ฉู่หวังโหย่ว"" ทุกครั้งที่ตัวเอกถูกโจมตี <#29F161>ฟื้นฟู 5% ของ HP ที่สูญเสียไป</color> สูงสุด 120 แต้ม"
@@ -3885,76 +3885,76 @@ BuffInfo_伙伴特征杀一儆百,"When Attacking, if any enemy is killed, other
 BuffInfo_伙伴特征无间修罗,"During combat, when your own HP is below 50%, your <#29F161>Critical increases by 25%</color>, <#29F161>Combo increases by 25%</color>, and <#29F161>Action Speed increases by 20 points</color>.","ในระหว่างการต่อสู้ เมื่อ HP ของคุณต่ำกว่า 50% <#29F161>คริติคอลของคุณจะเพิ่มขึ้น 25%</color>, <#29F161>โจมตีต่อเนื่องเพิ่มขึ้น 25%</color> และ <#29F161>ความเร็วท่าร่างเพิ่มขึ้น 20 แต้ม</color>"
 BuffInfo_伙伴特征大漠雄主,"During combat, for each level your own Fame Level is higher than the enemy's, the enemy's <#FE2929>Action Speed decreases by 5%</color>.",เมื่อค่าชื่อเสียงปัจจุบันของคุณ สูงกว่า ค่าชื่อเสียงปัจจุบันของศัตรู <#FE2929>ความเร็วท่าร่างของศัตรูลดลง 5%</color>
 BuffInfo_伙伴特征一刀断念,"When attacking targets that are 15 levels lower than your own Level, there is a 15% chance of Instant death.",เมื่อโจมตีเป้าหมายที่มีเลเวลต่ำกว่าเลเวลของคุณ 15 เลเวล มีโอกาส 15% ที่ทำให้เกิดผลเสียชีวิตทันที
-BuffInfo_伙伴特征刀意纵横,"When Attacking, you inflict <#FE2929>10 points of Bleeding</color> on the enemy, if a Critical is triggered, it inflicts <#FE2929>25 points of Bleeding</color>."
-BuffInfo_伙伴特征隐而不发,"During combat, when your own HP is below 50%, your <#29F161>Critical increases by 10%</color>, <#29F161>Combo increases by 10%</color>, <#29F161>Counter increases by 10%</color>, and <#29F161>Action Speed increases by 20 points</color>."
-BuffInfo_伙伴特征火蟾之毒,"When Attacking, you inflict <#FE2929>15 points of Poison</color> on the enemy, and you receive <#FE2929>5 points of Internal Injury</color>."
-BuffInfo_伙伴特征肌肤异变,"When attacked, <#29F161>final damage received is reduced by 25%</color>, and the enemy attacker receives <#FE2929>5 points of Poison</color>."
-BuffInfo_伙伴特征步步为先,Each action starts with <#29F161>200 points of Qi accumulation</color>.
+BuffInfo_伙伴特征刀意纵横,"When Attacking, you inflict <#FE2929>10 points of Bleeding</color> on the enemy, if a Critical is triggered, it inflicts <#FE2929>25 points of Bleeding</color>.","เมื่อโจมตี จะสร้างสถานะ <#FE2929>เลือดไหล 10 แต้ม</color> แก่ศัตรู, หากติดคริติคอล จะสร้างสถานะ <#FE2929>เลือดไหล 25 แต้ม</color>"
+BuffInfo_伙伴特征隐而不发,"During combat, when your own HP is below 50%, your <#29F161>Critical increases by 10%</color>, <#29F161>Combo increases by 10%</color>, <#29F161>Counter increases by 10%</color>, and <#29F161>Action Speed increases by 20 points</color>.","ในระหว่างการต่อสู้ เมื่อ HP ของต่ำกว่า 50% <#29F161>คริติคอลจะเพิ่มขึ้น 10%</color>, <#29F161>โจมตีต่อเนื่องเพิ่มขึ้น 10%</color>, <#29F161>สวนกลับเพิ่มขึ้น 10%</color> และ <#29F161>ความเร็วท่าร่างเพิ่มขึ้น 20 แต้ม</color>"
+BuffInfo_伙伴特征火蟾之毒,"When Attacking, you inflict <#FE2929>15 points of Poison</color> on the enemy, and you receive <#FE2929>5 points of Internal Injury</color>.","เมื่อโจมตี จะสร้างสถานะ <#FE2929>พิษ 15 แต้ม</color> แก่ศัตรู, แต่ตนเองจะได้รับ <#FE2929>บาดเจ็บภายใน 5 แต้ม</color>"
+BuffInfo_伙伴特征肌肤异变,"When attacked, <#29F161>final damage received is reduced by 25%</color>, and the enemy attacker receives <#FE2929>5 points of Poison</color>.",เมื่อถูกโจมตี <#29F161>ความเสียหายสุดท้ายที่ได้รับลดลง 25%</color> และศัตรูผู้โจมตีจะได้รับ <#FE2929>พิษ 5 แต้ม</color>
+BuffInfo_伙伴特征步步为先,Each action starts with <#29F161>200 points of Qi accumulation</color>.,ก่อนลงมือแต่ละครั้งเริ่มต้นด้วย <#29F161>ค่าปราณเคลื่อนที่ 200</color>
 BuffInfo_伙伴特征无妄之灾,"After each Attack, the enemy has a chance to receive 10 points of Poison, 10 points of Bleeding, 10 points of Internal Injury, 10 points of Sealed, or 10 points of Blinded.","หลังจากการโจมตีแต่ละครั้ง ศัตรูมีโอกาสได้รับสถานะ พิษ 10 แต้ม, เลือดไหล 10 แต้ม, บาดเจ็บภายใน 10  แต้ม, สกัดจุด 10  แต้ม หรือตาบอด 10  แต้ม"
-BuffInfo_伙伴特征落袋为安,"For every 1000 Coin owned, <#29F161>final damage increases by 5%</color> during Attack, up to a maximum of 30% increase."
+BuffInfo_伙伴特征落袋为安,"For every 1000 Coin owned, <#29F161>final damage increases by 5%</color> during Attack, up to a maximum of 30% increase.","สำหรับเงินทุกๆ 1,000 อีแปะที่มีอยู่ ระหว่างการโจมตี<#29F161>ความเสียหายสุดท้ายจะเพิ่มขึ้น 5%</color> สูงสุด 30%"
 BuffInfo_伙伴特征何妨一醉,"When in ""Happy drunk"" state, triggering Critical<#29F161>increases damage by 50%</color>; when in ""Completely drunk"" state, triggering Critical<#29F161>increases damage by 100%</color>.","เมื่ออยู่ในสถานะ ""เมาจนสุข"" โจมตีเกิดคริติคอล<#29F161>เพิ่มความเสียหาย 50%</color>; เมื่ออยู่ในสถานะ ""เมามาย"" โจมตีเกิดคริติคอล<#29F161>จะเพิ่มความเสียหาย 100%</color>"
-BuffInfo_伙伴特征八面玲珑,When attacked by a human Character<#29F161>final damage received is reduced by 25%</color>.
-BuffInfo_伙伴特征出人意料,Each action starts with <#29F161>80~150 Qi accumulation</color>.
-BuffInfo_宠物特征尖牙利爪,Inflict 10 points of Bleeding on the enemy when attacking.,สร้างสถานะเลือดไหล 10 แต้ม เมื่อโจมตี 
+BuffInfo_伙伴特征八面玲珑,When attacked by a human Character<#29F161>final damage received is reduced by 25%</color>.,เมื่อถูกโจมตีโดยตัวละครมนุษย์<#29F161>ความเสียหายสุดท้ายที่ได้รับจะลดลง 25%</color>
+BuffInfo_伙伴特征出人意料,Each action starts with <#29F161>80~150 Qi accumulation</color>.,ก่อนลงมือแต่ละครั้งเริ่มต้นด้วย <#29F161>ค่าปราณเคลื่อนที่ 80-150</color>
+BuffInfo_宠物特征尖牙利爪,Inflict 10 points of Bleeding on the enemy when attacking.,เมื่อโจมตี สร้างสถานะเลือดไหล 10 แต้ม
 BuffInfo_宠物特征身大力沉,Main attributes of pet equipment increase by 50%.,ค่าสถานะหลักของอุปกรณ์สัตว์เลี้ยงเพิ่มขึ้น 50%
 BuffInfo_宠物特征横冲直撞,"Inflict 5 points of Internal Injury on the enemy when attacking, reduce energy gathering value by 50 points.",เมื่อโจมตี สร้างสถานะบาดเจ็บภายใน 5 แต้มแก่ศัตรู และลดค่าปราณเคลื่อนที่ลง 50 แต้ม
-BuffInfo_宠物特征鸡喙啄眼,Inflict 10 points of Blinded on the enemy when attacking.
-BuffInfo_宠物特征巨猿之力,Inflict <#FE2929>10 points of Internal Injury</color> on the enemy when attacking.
-BuffInfo_宠物特征猿臂轻身,"<#29F161>Evasion increases by 15%</color>. If Evasion is triggered when being attacked, and the conditions for Counter are met, the attack will definitely Counter."
-BuffInfo_宠物特征憨态可掬,"<#29F161>Parry increases by 10%</color>. When being attacked, the <#29F161>final damage received is reduced by 15%</color>."
-BuffInfo_宠物特征利爪暗藏,Inflict 10 points of Bleeding on the enemy when attacking.,สร้างสถานะเลือดไหล 10 แต้ม เมื่อโจมตี 
+BuffInfo_宠物特征鸡喙啄眼,Inflict 10 points of Blinded on the enemy when attacking.,เมื่อโจมตี สร้างสถานะตาบอด 10 แต้ม 
+BuffInfo_宠物特征巨猿之力,Inflict <#FE2929>10 points of Internal Injury</color> on the enemy when attacking.,เมื่อโจมตี สร้างสถานะ <#FE2929>บาดเจ็บภายใน 10 แต้ม</color> แก่ศัตรู
+BuffInfo_宠物特征猿臂轻身,"<#29F161>Evasion increases by 15%</color>. If Evasion is triggered when being attacked, and the conditions for Counter are met, the attack will definitely Counter.",<#29F161>หลบหลีกเพิ่มขึ้น 15%</color> หากหลบหลีกเมื่อถูกโจมตีและตรงตามเงื่อนไขในการสวนกลับ การโจมตีนั้นจะสวนกลับอย่างแน่นอน
+BuffInfo_宠物特征憨态可掬,"<#29F161>Parry increases by 10%</color>. When being attacked, the <#29F161>final damage received is reduced by 15%</color>.",<#29F161>ปัดป้องเพิ่มขึ้น 10%</color> เมื่อถูกโจมตี <#29F161>ความเสียหายสุดท้ายที่ได้รับจะลดลง 15%</color>
+BuffInfo_宠物特征利爪暗藏,Inflict 10 points of Bleeding on the enemy when attacking.,เมื่อโจมตี สร้างสถานะเลือดไหล 10 แต้ม
 BuffInfo_宠物特征忠心护主,"After being tamed as a pet, when the protagonist is within 2 squares, each time the protagonist is attacked, they only <#29F161>suffer 50% damage</color>, and the pet <#29F161>suffers the remaining 50% damage</color>.",หลังจากถูกฝึกให้เป็นสัตว์เลี้ยง เมื่อตัวละครเอกอยู่ในระยะ 2 ช่อง แต่ละครั้งที่ตัวละครเอกถูกโจมตี จะ<#29F161>ได้รับความเสียหายเพียง 50%</color> และสัตว์เลี้ยง <#29F161>ได้รับความเสียหายที่เหลืออีก 50%</color>
 BuffInfo_宠物特征忠心护主_附属1,"When within 2 squares of the pet, each time you are attacked, you only <#29F161>suffer 50% of the damage</color>, and the pet <#29F161>suffers the remaining 50% of the damage</color>.",เมื่ออยู่ในระยะ 2 ช่องของสัตว์เลี้ยง แต่ละครั้งที่คุณถูกโจมตี จะ <#29F161>ได้รับความเสียหายเพียง 50%</color> และสัตว์เลี้ยง <#29F161>ได้รับความเสียหายที่เหลืออีก 50%</color>
-BuffInfo_宠物特征黑猿之威,Reduce the enemy's <#FE2929>75-150 points of Qi accumulation</color> when attacking.
+BuffInfo_宠物特征黑猿之威,Reduce the enemy's <#FE2929>75-150 points of Qi accumulation</color> when attacking.,เมื่อโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ 75-150 แต้ม</color>ของศัตรู
 BuffInfo_宠物特征淬毒之牙,Inflict <#FE2929>10 points of Poisoned</color> on the enemy when attacking.,เมื่อโจมตี สร้างสถานะ <#FE2929>พิษ 10 แต้ม</color> แก่ศัตรู
 BuffInfo_宠物特征剧毒之牙,Inflict <#FE2929>15 points of Poisoned</color> on the enemy when attacking.,เมื่อโจมตี สร้างสถานะ <#FE2929>พิษ 15 แต้ม</color> แก่ศัตรู
 BuffInfo_宠物特征攻其不备,Inflict <#FE2929>8 points of Bleeding and 8 points of Blinded</color> on the enemy when attacking.,เมื่อโจมตี สร้างสถานะ <#FE2929>เลือดไหล 8 แต้ม และตาบอด 8 แต้ม</color> แก่ศัตรู
 BuffInfo_宠物特征锋牙利爪,"Inflict <#FE2929>15 points of Bleeding</color> on the enemy when attacking, and Pierce the enemy's armor properties and effects.",เมื่อโจมตี สร้างสถานะ <#FE2929>เลือดไหล 15 แต้ม</color> แก่ศัตรู และสามารถเจาะทะลุคุณสมบัติและประสิทธิภาพชุดเกราะของศัตรูได้
 BuffInfo_宠物特征狼之主,Summon three wild wolves to assist in battle after entering combat.,เรียกหมาป่าสามตัวมาช่วยในการต่อสู้ เมื่อเข้าสู่การต่อสู้
-BuffInfo_宠物特征熊之守护,"When fighting with the protagonist in the same team, if the protagonist is within 2 squares of it, each time the protagonist is attacked, they only <#29F161>suffer 30% of the damage</color>, and it <#29F161>suffers the remaining 70% of the damage</color>."
-BuffInfo_宠物特征熊之守护_附属1,"When within 2 squares of the pet, each time you are attacked, you only <#29F161>suffer 30% of the damage</color>, and the pet <#29F161>suffers the remaining 70% of the damage</color>."
-BuffInfo_宠物特征睚眦必报,"If Parry or Evasion is triggered when being attacked, and the conditions for Counter are met, the attack will definitely Counter."
-BuffInfo_宠物特征捕虫,"After being tamed as a pet, it will catch a Bug for the protagonist every day. The higher the Beast Taming Level, the higher the quality of the Item."
-BuffInfo_宠物特征难敌之势,Attack Pierce the enemy's armor properties and effects.
-BuffInfo_宠物特征灵猿献果,"After being tamed as a pet, it will collect a Fruit for the protagonist every day. The higher the Beast Taming Level, the higher the quality of the Item."
-BuffInfo_宠物特征破竹之势,"When attacking, if Parry is triggered, it will definitely Combo."
-BuffInfo_宠物特征猫的报恩,"After being tamed as a pet, it will catch an Aquatic for the protagonist every day. The higher the Beast Taming Level, the higher the quality of the Item."
-BuffInfo_宠物特征拾荒,"After being tamed as a pet, it will collect an unAppraised item for the protagonist every day. The higher the Beast Taming Level, the higher the quality of the Item."
-BuffInfo_宠物特征好勇斗狠,"For every 10% decrease in pet HP, <#29F161>final damage increases by 5%</color> when attacking."
-BuffInfo_宠物特征表皮渗毒,Inflict <#FE2929>5 points of Poisoned</color> on the enemy when attacking.
+BuffInfo_宠物特征熊之守护,"When fighting with the protagonist in the same team, if the protagonist is within 2 squares of it, each time the protagonist is attacked, they only <#29F161>suffer 30% of the damage</color>, and it <#29F161>suffers the remaining 70% of the damage</color>.",เมื่อร่วมต่อสู้กับตัวละครเอกในฝั่งเดียวกัน หากตัวละครเอกอยู่ในระยะ 2 ช่อง แต่ละครั้งที่ตัวละครเอกถูกโจมตี จะ<#29F161>ได้รับความเสียหายเพียง 30%</color> และ ตนเองจะ<#29F161>ได้รับความเสียหาย 70% ที่เหลือ</color>
+BuffInfo_宠物特征熊之守护_附属1,"When within 2 squares of the pet, each time you are attacked, you only <#29F161>suffer 30% of the damage</color>, and the pet <#29F161>suffers the remaining 70% of the damage</color>.",เมื่ออยู่ในระยะ 2 ช่องของสัตว์เลี้ยง แต่ละครั้งที่คุณถูกโจมตี จะ<#29F161>ได้รับความเสียหายเพียง 30%</color> และสัตว์เลี้ยงจะ<#29F161>ได้รับความเสียหายที่เหลืออีก 70%</color>
+BuffInfo_宠物特征睚眦必报,"If Parry or Evasion is triggered when being attacked, and the conditions for Counter are met, the attack will definitely Counter.",เมื่อถูกโจมตีหากเกิดปัดป้องหรือหลบหลีก และตรงตามเงื่อนไขในการสวนกลับ การโจมตีนั้นจะสวนกลับอย่างแน่นอน
+BuffInfo_宠物特征捕虫,"After being tamed as a pet, it will catch a Bug for the protagonist every day. The higher the Beast Taming Level, the higher the quality of the Item.",หลังจากถูกฝึกให้เป็นสัตว์เลี้ยงแล้ว มันจะจับแมลงให้กับตัวเอกทุกวัน ยิ่งระดับฝึกสัตว์สูงเท่าไร คุณภาพของสิ่งของก็จะยิ่งสูงขึ้นเท่านั้น
+BuffInfo_宠物特征难敌之势,Attack Pierce the enemy's armor properties and effects.,โจมตีทะลุคุณสมบัติและประสิทธิภาพชุดเกราะศัตรู
+BuffInfo_宠物特征灵猿献果,"After being tamed as a pet, it will collect a Fruit for the protagonist every day. The higher the Beast Taming Level, the higher the quality of the Item.",หลังจากถูกฝึกให้เป็นสัตว์เลี้ยงแล้ว มันจะเก็บผลไม้ให้กับตัวเอกทุกวัน ยิ่งระดับฝึกสัตว์สูงเท่าไร คุณภาพของสิ่งของก็จะยิ่งสูงขึ้นเท่านั้น
+BuffInfo_宠物特征破竹之势,"When attacking, if Parry is triggered, it will definitely Combo.",เมื่อโจมตี หากเกิดปัดป้อง จะโจมตีต่อเนื่องแน่นอน
+BuffInfo_宠物特征猫的报恩,"After being tamed as a pet, it will catch an Aquatic for the protagonist every day. The higher the Beast Taming Level, the higher the quality of the Item.",หลังจากถูกฝึกให้เป็นสัตว์เลี้ยงแล้ว มันจะจับสัตว์น้ำให้กับตัวเอกทุกวัน ยิ่งระดับฝึกสัตว์สูงเท่าไร คุณภาพของสิ่งของก็จะยิ่งสูงขึ้นเท่านั้น
+BuffInfo_宠物特征拾荒,"After being tamed as a pet, it will collect an unAppraised item for the protagonist every day. The higher the Beast Taming Level, the higher the quality of the Item.",หลังจากถูกฝึกให้เป็นสัตว์เลี้ยงแล้ว มันจะเก็บสิ่งของที่สามารถประเมินได้ให้กับตัวเอกทุกวัน ยิ่งระดับฝึกสัตว์สูงเท่าไร คุณภาพของสิ่งของก็จะยิ่งสูงขึ้นเท่านั้น
+BuffInfo_宠物特征好勇斗狠,"For every 10% decrease in pet HP, <#29F161>final damage increases by 5%</color> when attacking.",สำหรับ HP ของสัตว์เลี้ยงที่ลดลงทุกๆ 10% เมื่อโจมตี<#29F161>ความเสียหายสุดท้ายจะเพิ่มขึ้น 5%</color>
+BuffInfo_宠物特征表皮渗毒,Inflict <#FE2929>5 points of Poisoned</color> on the enemy when attacking.,เมื่อโจมตี สร้างสถานะ <#FE2929>พิษ 5 แต้ม</color> แก่ศัตรู
 BuffInfo_宠物特征剧毒之体,Inflict <#FE2929>10 points of Poisoned</color> on the enemy when attacking.,เมื่อโจมตี สร้างสถานะ <#FE2929>พิษ 10 แต้ม</color> แก่ศัตรู
-BuffInfo_宠物特征野性直觉,"<#29F161>Critical increases by 5%</color>, <#29F161>Parry increases by 5%</color>, <#29F161>Evasion increases by 5%</color>."
-BuffInfo_宠物特征震山虎啸,Inflict <#FE2929>10 points of Internal Injury</color> on the enemy when attacking.
-BuffInfo_宠物特征弱肉强食,<#29F161>10% of the damage dealt to the enemy will be converted into your own HP</color> when attacking.
-BuffInfo_宠物特征野性怒吼,"Each time being attacked, <#29F161>final damage increases by 10%</color>, effect clears after the next attack."
-BuffInfo_宠物特征贪吃成性,Recover 10% of lost HP after each action<#29F161></color>.
-BuffInfo_宠物特征耀武扬威,"During the battle, for each enemy killed, <#29F161>action speed increases by 5 points</color>, <#29F161>final damage increases by 15%</color>."
-BuffInfo_宠物特征狂暴之力,"When attacking, for each point of strength higher than the opponent, <#29F161>final damage increases by 5%</color>, up to a maximum increase of 50%."
-BuffInfo_宠物特征灵猿妙手,"Each time you Attack and hit the enemy, steal 1% of their gold, up to 50 coins per target per time."
-BuffInfo_宠物特征熊罴之力,"When attacking, for each point of strength higher than the opponent, <#29F161>critical hit chance increases by 5%</color>, <#29F161>final damage increases by 5%</color>, up to a maximum increase of 50%."
-BuffInfo_宠物特征猫之利爪,Attack Pierce the enemy's armor properties and effects.
-BuffInfo_宠物特征狗仗人势,"When attacking, for each teammate present, <#29F161>critical hit chance increases by 5%</color>, <#29F161>critical damage increases by 5%</color>."
-BuffInfo_宠物特征黑猿之怒,"Each time being attacked, <#29F161>action speed increases by 5 points, critical hit chance increases by 5%</color>, effect clears after the next action."
-BuffInfo_宠物特征毒云弥漫,"Upon entering battle, all enemies receive <#FE2929>25 points of poison</color>."
-BuffInfo_宠物特征毒云弥漫_光环,"Affected by Poison Cloud Dispersion, receive <#FE2929>25 points of poison</color> upon entering battle."
+BuffInfo_宠物特征野性直觉,"<#29F161>Critical increases by 5%</color>, <#29F161>Parry increases by 5%</color>, <#29F161>Evasion increases by 5%</color>.","<#29F161>คริติคอลเพิ่มขึ้น 5%</color>, <#29F161>ปัดป้องเพิ่มขึ้น 5%</color>, <#29F161>หลบหลีกเพิ่มขึ้น 5%</color>"
+BuffInfo_宠物特征震山虎啸,Inflict <#FE2929>10 points of Internal Injury</color> on the enemy when attacking.,เมื่อโจมตี สร้างสถานะ <#FE2929>บาดเจ็บภายใน 10 แต้ม</color> แก่ศัตรู
+BuffInfo_宠物特征弱肉强食,<#29F161>10% of the damage dealt to the enemy will be converted into your own HP</color> when attacking.,เมื่อโจมตี <#29F161>ความเสียหายที่สร้างแก่ศัตรู 10% จะถูกแปลงมาเป็น HP ของตัวเอง</color>
+BuffInfo_宠物特征野性怒吼,"Each time being attacked, <#29F161>final damage increases by 10%</color>, effect clears after the next attack.",แต่ละครั้งที่ถูกโจมตี <#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น 10%</color> สถานะนี้จะหายไปหลังจากโจมตีครั้งต่อไป
+BuffInfo_宠物特征贪吃成性,Recover 10% of lost HP after each action<#29F161></color>.,หลังลงมือ ฟื้นฟู<#29F161>10% ของ HP ที่เสียไป </color> 
+BuffInfo_宠物特征耀武扬威,"During the battle, for each enemy killed, <#29F161>action speed increases by 5 points</color>, <#29F161>final damage increases by 15%</color>.",ในระหว่างการต่อสู้ สำหรับศัตรูแต่ละตัวที่ถูกสังหาร <#29F161>ความเร็วท่าร่างเพิ่มขึ้น 5 แต้ม</color> <#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น 15%</color>
+BuffInfo_宠物特征狂暴之力,"When attacking, for each point of strength higher than the opponent, <#29F161>final damage increases by 5%</color>, up to a maximum increase of 50%.","เมื่อโจมตี ทุกๆ ค่าที่""พละกำลัง""ของคุณสูงกว่าของศัตรู <#29F161>ความเสียหายสุดท้ายจะเพิ่มขึ้น 5%</color> สูงสุด 50%"
+BuffInfo_宠物特征灵猿妙手,"Each time you Attack and hit the enemy, steal 1% of their gold, up to 50 coins per target per time.",ทุกครั้งที่โจมตีโดนศัตรู จะขโมยเงิน 1% ของศัตรู สูงสุดที่ 50 อีแปะต่อครั้งต่อเป้าหมาย
+BuffInfo_宠物特征熊罴之力,"When attacking, for each point of strength higher than the opponent, <#29F161>critical hit chance increases by 5%</color>, <#29F161>final damage increases by 5%</color>, up to a maximum increase of 50%.","เมื่อโจมตี ทุกๆ ค่าที่""พละกำลัง""ของคุณสูงกว่าของศัตรู <#29F161>คริติคอลเพิ่มขึ้น 5%</color>, <#29F161>ความเสียหายสุดท้ายจะเพิ่มขึ้น 5%</color> สูงสุด 50%"
+BuffInfo_宠物特征猫之利爪,Attack Pierce the enemy's armor properties and effects.,โจมตีทะลุคุณสมบัติและประสิทธิภาพชุดเกราะศัตรู
+BuffInfo_宠物特征狗仗人势,"When attacking, for each teammate present, <#29F161>critical hit chance increases by 5%</color>, <#29F161>critical damage increases by 5%</color>.",เมื่อโจมตี สำหรับเพื่อนร่วมทีมแต่ละคน <#29F161>คริติคอลเพิ่มขึ้น 5%</color> <#29F161>ความเสียหายคริติคอลเพิ่มขึ้น 5%</color>
+BuffInfo_宠物特征黑猿之怒,"Each time being attacked, <#29F161>action speed increases by 5 points, critical hit chance increases by 5%</color>, effect clears after the next action.","แต่ละครั้งที่ถูกโจมตี <#29F161>ความเร็วท่าร่างเพิ่มขึ้น 5 แต้ม, โอกาสคริติคอลเพิ่มขึ้น 5%</color> สถานะนี้จะหายไปหลังจากการลงมือครั้งถัดไป"
+BuffInfo_宠物特征毒云弥漫,"Upon entering battle, all enemies receive <#FE2929>25 points of poison</color>.",เมื่อเข้าสู่การต่อสู้ ศัตรูทั้งหมดได้รับสถานะ <#FE2929>พิษ 25 แต้ม</color>
+BuffInfo_宠物特征毒云弥漫_光环,"Affected by Poison Cloud Dispersion, receive <#FE2929>25 points of poison</color> upon entering battle.",โดยผลจากเมฆาพิษปกคลุม เมื่อเข้าสู่การต่อสู้ ได้รับสถานะ <#FE2929>พิษ 25 แต้ม</color>
 BuffInfo_宠物特征伺机而动,
-BuffInfo_宠物特征白虎之威,"Upon entering battle, all enemies' <#FE2929>action speed decreases by 15%, movement range decreases by 3 squares</color>."
-BuffInfo_宠物特征白虎之威_光环,"<#FE2929>Action speed decreases by 15%, movement range decreases by 3 squares</color>."
-BuffInfo_宠物特征冰雪之灵,"When attacking, reduce the enemy's <#FE2929>action speed by 10%</color>."
+BuffInfo_宠物特征白虎之威,"Upon entering battle, all enemies' <#FE2929>action speed decreases by 15%, movement range decreases by 3 squares</color>.","หลังจากเข้าสู่การต่อสู้ ศัตรูทั้งหมด<#FE2929>ความเร็วท่าร่างลดลง 15%, ระยะการเคลื่อนจะลดลง 3 ช่อง</color>"
+BuffInfo_宠物特征白虎之威_光环,"<#FE2929>Action speed decreases by 15%, movement range decreases by 3 squares</color>.","<#FE2929>ความเร็วท่าร่างลดลง 15%, ระยะการเคลื่อนจะลดลง 3 ช่อง</color>"
+BuffInfo_宠物特征冰雪之灵,"When attacking, reduce the enemy's <#FE2929>action speed by 10%</color>.",เมื่อโจมตี <#FE2929>ความเร็วท่าร่างของศัตรูลดลง 10%</color>
 BuffInfo_宠物特征冰雪之灵_附属1,Action Speed is reduced by 10%.,ความเร็วท่าร่างลดลง 10%
-BuffInfo_宠物特征利爪无情,"When attacking, for every 5 points of spirit, inflict <#FE2929>1 point of bleeding</color> on the enemy."
+BuffInfo_宠物特征利爪无情,"When attacking, for every 5 points of spirit, inflict <#FE2929>1 point of bleeding</color> on the enemy.",เมื่อโจมตี ทุกๆ 5 แต้มพลังใจ จะสร้างสถานะ<#FE2929>เลือดไหล 1 แต้ม</color>แก่ศัตรู
 BuffInfo_宠物特征同仇敌忾,
-BuffInfo_宠物特征毒性中和,Characters within a 2-square radius have Poison Immunity.
+BuffInfo_宠物特征毒性中和,Characters within a 2-square radius have Poison Immunity.,ตัวละครภายรอบตัว 2 ช่อง ได้รับต้านทานพิษ
 BuffInfo_宠物特征毒性中和_光环,Poison Immunity during combat.,ต้านทานพิษระหว่างการต่อสู้
-BuffInfo_宠物特征百发百中,Guaranteed Accuracy against enemies during Attack.
-BuffInfo_宠物特征毒性侵体,"For every 10 points that your Toxicology is higher than the enemy's, inflict <#FE2929>1 point of Poisoned</color> on the enemy.",ทุกๆ 10 แต้มที่ศาสตร์พิษของคุณสูงกว่าของศัตรู จะสร้างสถานะ<#FE2929>ติดพิษ 1 แต้ม</color>แก่ศัตรู 
-BuffInfo_宠物特征火毒蚀骨,"For every 10 points that your Toxicology is higher than the enemy's, inflict <#FE2929>2 points of Poisoned</color> on the enemy, and <#29F161>final damage increases by 1%</color> during Attack."
-BuffInfo_口才能力加成,"Upon entering battle, all teammates except yourself receive bonuses to attack, defense, and action speed. The higher your Persuade Level, the greater the bonus."
-BuffInfo_1级口才能力加成,"Affected by the protagonist's Persuade Skill, in this battle <#29F161>attack increases by 3%, defense increases by 3%, action speed increases by 5 points</color>."
-BuffInfo_2级口才能力加成,"Affected by the protagonist's Persuade Skill, in this battle <#29F161>attack increases by 5%, defense increases by 5%, action speed increases by 10 points</color>."
-BuffInfo_3级口才能力加成,"Affected by the protagonist's Persuade Skill, in this battle <#29F161>attack increases by 7%, defense increases by 7%, action speed increases by 15 points</color>."
-BuffInfo_4级口才能力加成,"Affected by the protagonist's Persuade Skill, in this battle <#29F161>attack increases by 9%, defense increases by 9%, action speed increases by 20 points</color>."
-BuffInfo_5级口才能力加成,"Affected by the protagonist's Persuade Skill, in this battle <#29F161>attack increases by 15%, defense increases by 15%, action speed increases by 30 points</color>."
+BuffInfo_宠物特征百发百中,Guaranteed Accuracy against enemies during Attack.,ระหว่างโจมตี จะโจมตีโดนศัตรูแน่นอน
+BuffInfo_宠物特征毒性侵体,"For every 10 points that your Toxicology is higher than the enemy's, inflict <#FE2929>1 point of Poisoned</color> on the enemy.",ทุกๆ 10 แต้มที่ศาสตร์พิษของคุณสูงกว่าของศัตรู จะสร้างสถานะ<#FE2929>พิษ 1 แต้ม</color>แก่ศัตรู 
+BuffInfo_宠物特征火毒蚀骨,"For every 10 points that your Toxicology is higher than the enemy's, inflict <#FE2929>2 points of Poisoned</color> on the enemy, and <#29F161>final damage increases by 1%</color> during Attack.",ทุกๆ 10 แต้มที่ศาสตร์พิษของคุณสูงกว่าของศัตรู จะสร้างสถานะ<#FE2929>พิษ 2 แต้ม</color>แก่ศัตรู และระหว่างโจมตี <#29F161>ความเสียหายสุดท้ายจะเพิ่มขึ้น 1%</color>
+BuffInfo_口才能力加成,"Upon entering battle, all teammates except yourself receive bonuses to attack, defense, and action speed. The higher your Persuade Level, the greater the bonus.",เมื่อเข้าสู่การต่อสู้ สหายทุกคนในกลุ่มยกเว้นตัวเองจะได้รับโบนัสการโจมตี การป้องกัน และความเร็วท่าร่าง ยิ่งระดับการโน้มน้าวใจของคุณสูงเท่าไร โบนัสก็จะยิ่งมากขึ้นเท่านั้น
+BuffInfo_1级口才能力加成,"Affected by the protagonist's Persuade Skill, in this battle <#29F161>attack increases by 3%, defense increases by 3%, action speed increases by 5 points</color>.",ทักษะโน้มน้าวของตัวเอกมีผลในการต่อสู้นี้ <#29F161>พลังโจมตีเพิ่มขึ้น 3% พลังป้องกันเพิ่มขึ้น 3% ความเร็วท่าร่างเพิ่มขึ้น 5 แต้ม</color>
+BuffInfo_2级口才能力加成,"Affected by the protagonist's Persuade Skill, in this battle <#29F161>attack increases by 5%, defense increases by 5%, action speed increases by 10 points</color>.",ทักษะโน้มน้าวของตัวเอกมีผลในการต่อสู้นี้ <#29F161>พลังโจมตีเพิ่มขึ้น 5% พลังป้องกันเพิ่มขึ้น 5% ความเร็วท่าร่างเพิ่มขึ้น 10 แต้ม</color>
+BuffInfo_3级口才能力加成,"Affected by the protagonist's Persuade Skill, in this battle <#29F161>attack increases by 7%, defense increases by 7%, action speed increases by 15 points</color>.",ทักษะโน้มน้าวของตัวเอกมีผลในการต่อสู้นี้ <#29F161>พลังโจมตีเพิ่มขึ้น 7% พลังป้องกันเพิ่มขึ้น 7% ความเร็วท่าร่างเพิ่มขึ้น 15 แต้ม</color>
+BuffInfo_4级口才能力加成,"Affected by the protagonist's Persuade Skill, in this battle <#29F161>attack increases by 9%, defense increases by 9%, action speed increases by 20 points</color>.",ทักษะโน้มน้าวของตัวเอกมีผลในการต่อสู้นี้ <#29F161>พลังโจมตีเพิ่มขึ้น 9% พลังป้องกันเพิ่มขึ้น 9% ความเร็วท่าร่างเพิ่มขึ้น 20 แต้ม</color>
+BuffInfo_5级口才能力加成,"Affected by the protagonist's Persuade Skill, in this battle <#29F161>attack increases by 15%, defense increases by 15%, action speed increases by 30 points</color>.",ทักษะโน้มน้าวของตัวเอกมีผลในการต่อสู้นี้ <#29F161>พลังโจมตีเพิ่มขึ้น 15% พลังป้องกันเพิ่มขึ้น 15% ความเร็วท่าร่างเพิ่มขึ้น 30 แต้ม</color>
 BuffInfo_火焰令Buff2,<#29F161>Combo rate +15%</color>.,<#29F161>โจมตีต่อเนื่องเพิ่มขึ้น 15%</color>
 BuffInfo_火焰令Buff3,"After equipping, all <#29F161>pen, fan, and dagger type short martial arts</color> can be used.",หลังจากสวมใส่  <#29F161>สามารถใช้วรยุทธ์ พู่กัน พัด และมีดสั้น</color> ทั้งหมดได้
 BuffInfo_火焰令Buff4,"<#29F161>Action Speed increases by 15%</color>, and after entering battle, <#29F161>Movement Range increases by 1 square</color>.",<#29F161>ความเร็วท่าร่างเพิ่มขึ้น 15%</color> และหลังจากเข้าสู่การต่อสู้ <#29F161>ระยะการเคลื่อนที่เพิ่มขึ้น 1 ช่อง</color> 
@@ -3962,16 +3962,16 @@ BuffInfo_伪·火焰令Buff1,"In battle, <#29F161>Movement Range increases by 1 
 BuffInfo_血玲珑吊坠Buff1,Attack power increases by <#29F161>1%</color>.,พลังโจมตีเพิ่มขึ้น <#29F161>1%</color>
 BuffInfo_血玲珑吊坠Buff2,EXP gain increases by <#29F161>30%</color>.,ค่าประสบการณ์ที่ได้รับเพิ่มขึ้น <#29F161>30%</color>
 BuffInfo_血玲珑吊坠Buff3,"Critical, Parry, Counter, Combo increase by <#29F161>3%</color>.",คริติคอล ปัดป้อง สวนกลับ โจมตีต่อเนื่อง เพิ่มขึ้น <#29F161>3%</color>
-BuffInfo_心系陆郎,"When fighting alongside Lu Jian Nan within a three-tile range, after each action, Lu Jian Nan will <#29F161>recover 10% of lost HP and MP</color>."
-BuffInfo_吾有狸奴,"After entering the battle, summon a Snow Velvet to assist in the fight. When Snow Velvet is present, Lu Jian Nan's <#29F161>critical increases by 8%, combo increases by 8%, counter increases by 8%</color>. If Snow Velvet dies after being summoned, Lu Jian Nan's <#FE2929>action speed decreases by 25%</color>."
-BuffInfo_寒气蚀骨,"After entering battle, <#FE2929>Movement Range decreases by 3 squares</color>, <#FE2929>Attack decreases by 25%, Defense decreases by 25%, Action Speed decreases by 25%</color>."
+BuffInfo_心系陆郎,"When fighting alongside Lu Jian Nan within a three-tile range, after each action, Lu Jian Nan will <#29F161>recover 10% of lost HP and MP</color>.",เมื่อต่อสู้เคียงข้างลู่เจี้ยนหนานในระยะสามช่อง หลังจากลงมือแต่ละครั้งลู่เจี้ยนหนานจะ <#29F161>ฟื้นฟู 10% ของ HP และ MP ที่สูญเสียไป</color>
+BuffInfo_吾有狸奴,"After entering the battle, summon a Snow Velvet to assist in the fight. When Snow Velvet is present, Lu Jian Nan's <#29F161>critical increases by 8%, combo increases by 8%, counter increases by 8%</color>. If Snow Velvet dies after being summoned, Lu Jian Nan's <#FE2929>action speed decreases by 25%</color>.","หลังจากเข้าสู่การต่อสู้ อัญเชิญ""เสือดาวหิมะ""มาช่วยในการต่อสู้ เมื่อเสือดาวหิมะปรากฏ <#29F161>คริติคอลของลู่เจี้ยนหนานเพิ่มขึ้น 8%, โจมตีต่อเนื่องเพิ่มขึ้น 8%, สวนกลับเพิ่มขึ้น 8%</color> หากเสือดาวหิมะตายหลังจากถูกอัญเชิญ <#FE2929>ความเร็วท่าร่างลดลง 25%</color>"
+BuffInfo_寒气蚀骨,"After entering battle, <#FE2929>Movement Range decreases by 3 squares</color>, <#FE2929>Attack decreases by 25%, Defense decreases by 25%, Action Speed decreases by 25%</color>.","หลังจากเข้าสู่การต่อสู้ <#FE2929>ระยะการเคลื่อนจะลดลง 3 ช่อง</color>, <#FE2929>พลังโจมตีลดลง 25%, พลังป้องกันลดลง 25%, ความเร็วท่าร่าง 25%</color>"
 BuffInfo_鸳俦凤侣,"<#FE2929>Defense decreases by 10%, Action Speed decreases by 10%</color>.",<#FE2929>พลังป้องกันลดลง 10% ความเร็วท่าร่างลดลง 10%</color>
 BuffInfo_情绕天涯,<#29F161>Counter increases by 15%</color>.,<#29F161>สวนกลับเพิ่มขึ้น 15%</color>
 BuffInfo_碧海青天,"<#29F161>Attack increases by 15%, Defense increases by 15%</color>.","<#29F161> พลังโจมตีเพิ่ม 15%, พลังป้องกันเพิ่ม 15%</color>"
-BuffInfo_祈愿三生,"When in the same team as the protagonist, the protagonist can receive half of Tang Wan Er's <#29F161>luck attribute bonus</color> (the bonus does not participate in attribute effect calculation). When fighting alongside the protagonist, after each action, Tang Wan Er recovers the protagonist's <#29F161>15% of lost HP and MP</color>."
-BuffInfo_精诚所至,"When fighting in the same team, after the protagonist and Feng Xuanji each receive an Attack, the other Character's <#29F161>Critical temporarily increases by 3%, Combo temporarily increases by 3%</color>, the temporary effects added after the next Attack are cleared."
-BuffInfo_同进共退,"When fighting in the same team, when the protagonist is within 2 squares of Haitang Qiu, after one of them Attacks, the other one gains <#29F161>300 Qi points</color>."
-BuffInfo_携手同心,"When fighting in the same team, if the protagonist is adjacent to Ding Haitang, Ding Haitang will gain a <#29F161>10% Attack boost</color> from the protagonist every time she attacks, and a <#29F161>10% Defense boost</color> when she is attacked."
+BuffInfo_祈愿三生,"When in the same team as the protagonist, the protagonist can receive half of Tang Wan Er's <#29F161>luck attribute bonus</color> (the bonus does not participate in attribute effect calculation). When fighting alongside the protagonist, after each action, Tang Wan Er recovers the protagonist's <#29F161>15% of lost HP and MP</color>.",เมื่ออยู่ในฝั่งเดียวกันกับตัวละครเอก ตัวละครเอกจะได้รับ <#29F161>ค่าโชคพิเศษ</color> ของถังหว่านเอ๋อครึ่งหนึ่ง (ค่าพิเศษไม่มีส่วนร่วมในการคำนวณสถานะคุณสมบัติ) หลังลงมือแต่ละครั้งถังหว่านเอ๋อฟื้นฟู <#29F161>15% ของ HP และ MP ที่สูญเสียไป</color> ของตัวละครเอก
+BuffInfo_精诚所至,"When fighting in the same team, after the protagonist and Feng Xuanji each receive an Attack, the other Character's <#29F161>Critical temporarily increases by 3%, Combo temporarily increases by 3%</color>, the temporary effects added after the next Attack are cleared.",เมื่อต่อสู้ในฝั่งเดียวกัน หลังจากที่ตัวละครเอกและเฟิงเสวียนจีต่างได้รับการโจมตี <#29F161>คริติคอลเพิ่มขึ้นชั่วคราว 3% โจมตีต่อเนื่องเพิ่มขึ้นชั่วคราว 3%</color> สถานะชั่วคราวจะเพิ่มหลังจากครั้งถัดไป หลังการโจมตีถูกเคลียร์แล้ว
+BuffInfo_同进共退,"When fighting in the same team, when the protagonist is within 2 squares of Haitang Qiu, after one of them Attacks, the other one gains <#29F161>300 Qi points</color>.",เมื่อลงต่อสู้ในฝั่งเดียวกัน หากตัวละครเอกอยู่ในระยะ 2 ช่องของไห่ถังฉิว หลังจากที่หนึ่งในนั้นโจมตี อีกตัวหนึ่งจะได้รับ <#29F161>ค่าปราณเคลื่อนที่ 300 แต้ม</color>
+BuffInfo_携手同心,"When fighting in the same team, if the protagonist is adjacent to Ding Haitang, Ding Haitang will gain a <#29F161>10% Attack boost</color> from the protagonist every time she attacks, and a <#29F161>10% Defense boost</color> when she is attacked.",เมื่อต่อสู้ในฝั่งเดียวกัน หากตัวละครเอกอยู่ติดกับติงไห่ถัง ติงไห่ถังจะได้รับ <#29F161>พลังโจมตี 10%</color> จากตัวละครเอกทุกครั้งที่นางโจมตี และ <#29F161>พลังป้องกัน 10% เพิ่ม</color> เมื่อนางถูกโจมตี
 BuffInfo_通天塔201,<#29F161>HP maximum increased by 25%</color>,<#29F161>HP สูงสุดเพิ่มขึ้น 25%</color>
 BuffInfo_通天塔202,<#29F161>Attack increased by 25%</color>,<#29F161>พลังโจมตีเพิ่มขึ้น 25%</color>
 BuffInfo_通天塔203,<#29F161>Defense increased by 25%</color>,<#29F161>พลังป้องกันเพิ่มขึ้น 25%</color>
@@ -3983,29 +3983,29 @@ BuffInfo_通天塔208,<#29F161>Accuracy increased by 3%</color>,<#29F161>คว�
 BuffInfo_通天塔209,<#29F161>Evasion increased by 3%</color>,<#29F161>หลบหลีกเพิ่มขึ้น 3%</color>
 BuffInfo_通天塔210,<#29F161>Critical increased by 3%</color>,<#29F161>คริติคอลเพิ่มขึ้น 3%</color>
 BuffInfo_通天塔211,<#29F161>Parry increased by 3%</color>,<#29F161>ปัดป้องเพิ่มขึ้น 3%</color>
-PagodaBuff_通天塔己方301,All team members' Character <#29F161>five attributes increase by 1 point</color>.
-PagodaBuff_通天塔己方302,All team members' Character <#29F161>Attack increases by 10%</color>.
-PagodaBuff_通天塔己方303,All team members' Character <#29F161>Defense increases by 10%</color>.
-PagodaBuff_通天塔敌方401,"When the enemy team is attacked, the effect of Poisoned <#FE2929>increases by 100%</color>."
-PagodaBuff_通天塔敌方402,"When the enemy team is attacked, the effect of Bleeding <#FE2929>increases by 100%</color>."
-PagodaBuff_通天塔敌方403,"When the enemy team is attacked, the effect of Internal Injury <#FE2929>increases by 100%</color>."
-PagodaBuff_通天塔敌方404,"When the enemy team is attacked, the effect of Blinded <#FE2929>increases by 100%</color>."
-PagodaBuff_通天塔敌方405,"When the enemy team is attacked, the effect of Sealed <#FE2929>increases by 100%</color>."
-PagodaBuff_通天塔敌方406,The enemy team's Armor falls off and cannot function.
-PagodaBuff_通天塔敌方407,The enemy team <#FE2929>loses 25% HP</color> when entering battle.
-PagodaBuff_通天塔敌方408,The MP Cost of the enemy team's martial arts <#FE2929>increases by 100%</color>.
-PagodaBuff_通天塔敌方409,The enemy team cannot gain any Spirit during combat<#FE2929></color>.
-PagodaBuff_通天塔敌方410,"After the enemy team enters combat, the cooldown status of all external skills increases by 1."
-PagodaBuff_通天塔敌方411,The enemy team cannot trigger Combo during combat<#FE2929></color>.
-PagodaBuff_通天塔敌方412,The enemy team cannot trigger Counter during combat<#FE2929></color>.
-PagodaBuff_通天塔敌方413,The enemy team cannot trigger Parry during combat<#FE2929></color>.
-PagodaBuff_通天塔敌方414,The enemy team cannot trigger Critical during combat<#FE2929></color>.
-PagodaBuff_通天塔敌方415,The enemy team cannot trigger Evasion during combat<#FE2929></color>.
-PagodaBuff_通天塔敌方416,"After the enemy team enters combat, the main internal skill becomes ineffective<#FE2929></color>."
-PagodaBuff_通天塔敌方417,The enemy team's Action Speed decreases by 15%<#FE2929></color>.
-PagodaBuff_通天塔敌方418,The enemy team starts with -150 Spirit each time they act<#FE2929></color>.
-PagodaBuff_通天塔敌方419,The enemy team's Movement Range decreases by 3 squares<#FE2929></color>.
-PagodaBuff_通天塔敌方420,The enemy team's final damage decreases by 25% when attacking<#FE2929></color>.
+PagodaBuff_通天塔己方301,All team members' Character <#29F161>five attributes increase by 1 point</color>.,สหายทุกคนในกลุ่ม <#29F161>ค่าพลังสถานะทั้ง 5 เพิ่มขึ้น 1 หน่วย</color>
+PagodaBuff_通天塔己方302,All team members' Character <#29F161>Attack increases by 10%</color>.,สหายทุกคนในกลุ่ม <#29F161>พลังโจมตีเพิ่มขึ้น 10%</color>
+PagodaBuff_通天塔己方303,All team members' Character <#29F161>Defense increases by 10%</color>.,สหายทุกคนในกลุ่ม <#29F161>พลังป้องกันเพิ่มขึ้น 10%</color>
+PagodaBuff_通天塔敌方401,"When the enemy team is attacked, the effect of Poisoned <#FE2929>increases by 100%</color>.",เมื่อฝั่งศัตรูถูกโจมตี ผลของพิษ <#FE2929>จะเพิ่มขึ้น 100%</color>
+PagodaBuff_通天塔敌方402,"When the enemy team is attacked, the effect of Bleeding <#FE2929>increases by 100%</color>.",เมื่อฝั่งศัตรูถูกโจมตี ผลของเลือดไหล <#FE2929>จะเพิ่มขึ้น 100%</color>
+PagodaBuff_通天塔敌方403,"When the enemy team is attacked, the effect of Internal Injury <#FE2929>increases by 100%</color>.",เมื่อฝั่งศัตรูถูกโจมตี ผลของบาดเจ็บภายใน <#FE2929>จะเพิ่มขึ้น 100%</color>
+PagodaBuff_通天塔敌方404,"When the enemy team is attacked, the effect of Blinded <#FE2929>increases by 100%</color>.",เมื่อฝั่งศัตรูถูกโจมตี ผลของตาบอด <#FE2929>จะเพิ่มขึ้น 100%</color>
+PagodaBuff_通天塔敌方405,"When the enemy team is attacked, the effect of Sealed <#FE2929>increases by 100%</color>.",เมื่อฝั่งศัตรูถูกโจมตี ผลของสกัดจุด <#FE2929>จะเพิ่มขึ้น 100%</color>
+PagodaBuff_通天塔敌方406,The enemy team's Armor falls off and cannot function.,ชุดเกราะที่สวมใส่หลุดร่วง ไม่สามารถใช้ความสามารถได้
+PagodaBuff_通天塔敌方407,The enemy team <#FE2929>loses 25% HP</color> when entering battle.,เมื่อเข้าสู่การต่อสู้ ฝั่งศัตรู <#FE2929>สูงเสีย HP 25%</color> 
+PagodaBuff_通天塔敌方408,The MP Cost of the enemy team's martial arts <#FE2929>increases by 100%</color>.,ฝั่งศัตรู วรยุทธใช้ค่า MP <#FE2929>เพิ่มขึ้น 100%</color>
+PagodaBuff_通天塔敌方409,The enemy team cannot gain any Spirit during combat<#FE2929></color>.,ฝั่งศัตรู <#FE2929>ระหว่างการต่อสู่จะไม่ได้รับพลังใจ</color>
+PagodaBuff_通天塔敌方410,"After the enemy team enters combat, the cooldown status of all external skills increases by 1.",หลังจากที่ฝั่งศัตรูเข้าสู่การต่อสู้ สถานะคูลดาวน์ของวิชาภายนอกทั้งหมดเพิ่มขึ้น 1
+PagodaBuff_通天塔敌方411,The enemy team cannot trigger Combo during combat<#FE2929></color>.,ฝั่งศัตรู ระหว่างการต่อสู้ <#FE2929>ไม่สามารถใช้ทำให้เกิดการโจมตีต่อเนื่องได้</color>
+PagodaBuff_通天塔敌方412,The enemy team cannot trigger Counter during combat<#FE2929></color>.,ฝั่งศัตรู ระหว่างการต่อสู้ <#FE2929>ไม่สามารถใช้ทำให้เกิดการสวนกลับได้</color>
+PagodaBuff_通天塔敌方413,The enemy team cannot trigger Parry during combat<#FE2929></color>.,ฝั่งศัตรู ระหว่างการต่อสู้ <#FE2929>ไม่สามารถใช้ทำให้เกิดการปัดป้องได้</color>
+PagodaBuff_通天塔敌方414,The enemy team cannot trigger Critical during combat<#FE2929></color>.,ฝั่งศัตรู ระหว่างการต่อสู้ <#FE2929>ไม่สามารถใช้ทำให้เกิดคริติคอลได้</color>
+PagodaBuff_通天塔敌方415,The enemy team cannot trigger Evasion during combat<#FE2929></color>.,ฝั่งศัตรู ระหว่างการต่อสู้ <#FE2929>ไม่สามารถใช้ทำให้เกิดการหลบหลีกได้</color>
+PagodaBuff_通天塔敌方416,"After the enemy team enters combat, the main internal skill becomes ineffective<#FE2929></color>.",หลังเข้าสู่การต่อสู้ ฝั่งศัตรู<#FE2929>กำลังภายในหลักจะไร้ผล</color>
+PagodaBuff_通天塔敌方417,The enemy team's Action Speed decreases by 15%<#FE2929></color>.,ฝั่งศัตรู <#FE2929>ความเร็วท่าร่างลดลง 15%</color>
+PagodaBuff_通天塔敌方418,The enemy team starts with -150 Spirit each time they act<#FE2929></color>.,แต่ละครั้งที่ฝั่งศัตรูลงมือ <#FE2929>พลังใจเริ่มต้น -150</color>
+PagodaBuff_通天塔敌方419,The enemy team's Movement Range decreases by 3 squares<#FE2929></color>.,ฝั่งศัตรู <#FE2929>ระยะการเคลื่อนจะลดลง 3 ช่อง</color>
+PagodaBuff_通天塔敌方420,The enemy team's final damage decreases by 25% when attacking<#FE2929></color>.,ฝั่งศัตรู เมื่อโจมตี <#FE2929>ความเสียหายสุดท้ายลดลง 25%</color>
 BuffInfo_通天塔己方301,All team members' five attributes increase by 1 point<#29F161></color>.,สหายทุกคนในกลุ่ม ค่าพลังสถานะทั้ง 5 <#29F161>ลดลง 1 หน่วย</color>
 BuffInfo_通天塔己方302,<#29F161>Attack increased by 10%</color>.,<#29F161>พลังโจมตีเพิ่มขึ้น 10%</color>
 BuffInfo_通天塔己方303,<#29F161>Defense increased by 10%</color>.,<#29F161> พลังป้องกันเพิ่มขึ้น 10%</color>
@@ -4029,12 +4029,12 @@ BuffInfo_通天塔敌方417,Action Speed decreases by <#FE2929>15%</color>.,ค�
 BuffInfo_通天塔敌方418,<#29F161>Start with -150 energy each action</color>.,<#29F161>ในแต่ละรอบเริ่มต้นด้วยค่าปราณเคลื่อนที่ -150</color>
 BuffInfo_通天塔敌方419,Movement Range reduced by 3 squares.,ระยะการเคลื่อนที่ลดลง 3 ช่อง
 BuffInfo_通天塔敌方420,Final damage reduced by 25% when attacking.,เมื่อโจมตี ความเสียหายสุดท้ายลดลง 25%
-BuffName_血债血偿,Bloody Vengeance
-BuffName_重伤残血,Low Health Injured
-BuffName_城镇祈祷7,Skill Upgrade
-BuffName_城镇祈祷17,Skill Upgrade
-BuffName_城镇祈祷27,Skill Upgrade
-BuffName_城镇祈祷37,Skill Upgrade
+BuffName_血债血偿,Bloody Vengeance,แก้แค้นนองเลือด
+BuffName_重伤残血,Low Health Injured,บาดเจ็บสาหัส
+BuffName_城镇祈祷7,Skill Upgrade,เพิ่มพลังฝึกปรือ
+BuffName_城镇祈祷17,Skill Upgrade,เพิ่มพลังฝึกปรือ
+BuffName_城镇祈祷27,Skill Upgrade,เพิ่มพลังฝึกปรือ
+BuffName_城镇祈祷37,Skill Upgrade,เพิ่มพลังฝึกปรือ
 BuffName_火焰令Buff2,<#EFD09F>Combo</color>,<#EFD09F>โจมตีต่อเนื่อง</color>
 BuffName_火焰令Buff3,<#EFD09F>Unrestricted</color>,<#EFD09F>ไม่จำกัด</color>
 BuffName_火焰令Buff4,<#EFD09F>Floating</color>,<#EFD09F>ล่องลอย</color>
@@ -4096,19 +4096,19 @@ BuffName_CustomDiff111,Superior,ล้ำเลิศ
 BuffName_CustomDiff112,Full Health Speed
 BuffName_CustomDiff113,Full Heath Critical
 BuffName_CustomDiff114,Full Heatl Parry
-BuffName_CustomDiff115,Tactical Strategist
-BuffName_CustomDiff116,Full Control
-BuffName_CustomDiff117,Flawless Plan
-BuffName_CustomDiff118,Fight to the Death
-BuffName_CustomDiff119,High Heath Damage Reduction
-BuffName_CustomDiff120,Endless Life Force
-BuffName_CustomDiff121,Continuous
+BuffName_CustomDiff115,Tactical Strategist,วางกลยุทธ์
+BuffName_CustomDiff116,Full Control,ควบคุมทั้งหมด
+BuffName_CustomDiff117,Flawless Plan,แผนไร้ที่ติ
+BuffName_CustomDiff118,Fight to the Death,สู้จนตาย
+BuffName_CustomDiff119,High Heath Damage Reduction,เลือดเยอะลดความเสียหาย
+BuffName_CustomDiff120,Endless Life Force,พลังชีวิตไร้ที่สิ้นสุด
+BuffName_CustomDiff121,Continuous,ต่อเนื่อง
 BuffName_CustomDiff122,All or Nothing
-BuffName_CustomDiff123,Side Attack Guard
-BuffName_CustomDiff124,Back Attack Guard
-BuffName_CustomDiff125,Prepare to Strike
-BuffName_CustomDiff126,Hidden Talent
-BuffName_CustomDiff127,Unending Battle Spirit
+BuffName_CustomDiff123,Side Attack Guard,ป้องกันโจมตีด้านข้าง
+BuffName_CustomDiff124,Back Attack Guard,ป้องกันโจมตีด้านหลัง
+BuffName_CustomDiff125,Prepare to Strike,เตรียมโจมตี
+BuffName_CustomDiff126,Hidden Talent,พรสวรรค์ที่ซ่อนอยู่
+BuffName_CustomDiff127,Unending Battle Spirit,จิตวิญญาณแห่งการต่อสู้ที่ไม่มีวันสิ้นสุด
 BuffName_CustomDiff128,Unmatched
 BuffName_CustomDiff129,Ignore Accessories
 BuffName_CustomDiff130,Ignore Armor
@@ -4120,8 +4120,8 @@ BuffName_CustomDiff135,Inner Qi Reflect
 BuffName_CustomDiff136,Venomous Attack
 BuffName_CustomDiff137,Close Combat
 BuffName_CustomDiff138,Blood Spurt Out
-BuffName_CustomDiff139,Inner Qi Explode
-BuffName_CustomDiff140,Heart of Healer
+BuffName_CustomDiff139,Inner Qi Explode,กำลังภายในปะทุ
+BuffName_CustomDiff140,Heart of Healer,หัวใจของผู้รักษา
 BuffName_内功_御兽术_光环,Beast Taming Skill,วิชาฝึกสัตว์
 BuffName_内功_兽王诀_光环,Beast King Technique,วิชาราชาสัตว์ร้าย
 BuffName_伙伴特征威震一方,Preeminent,โดดเด่น
@@ -4149,95 +4149,95 @@ BuffName_伙伴特征众星捧月,Popular,กว้างขวาง
 BuffName_伙伴特征凌波微步,Wave Riding Step,ทะยานคลื่น
 BuffName_伙伴特征动无常则,Irregular Movement,เคลื่อนไหวไร้กฎเกณฑ์
 BuffName_伙伴特征凶神之名,Infamy,ชื่อเทพมารร้าย
-BuffName_伙伴特征杀一儆百,Make An Example
+BuffName_伙伴特征杀一儆百,Make An Example,สังหารหนึ่งเตือนร้อย
 BuffName_伙伴特征无间修罗,Unbroken Shura,อสุราไร้สิ้นสุด
-BuffName_伙伴特征大漠雄主,King of Desert
-BuffName_伙伴特征大漠雄主_光环附属1,King of Desert
+BuffName_伙伴特征大漠雄主,King of Desert,ราชาทะเลทราย
+BuffName_伙伴特征大漠雄主_光环附属1,King of Desert,ราชาทะเลทราย
 BuffName_伙伴特征一刀断念,Forsaken Blade,ละทิ้งดาบ
-BuffName_伙伴特征刀意纵横,Blade Qi Explode
-BuffName_伙伴特征隐而不发,Biding Time
+BuffName_伙伴特征刀意纵横,Blade Qi Explode,เจตดาบปะทุ
+BuffName_伙伴特征隐而不发,Biding Time,ถ่วงเวลา
 BuffName_伙伴特征火蟾之毒,Flame Toad Venom,พิษคางคกอัคคี
-BuffName_伙伴特征肌肤异变,Skin Mutation
-BuffName_伙伴特征步步为先,Always Ahead
+BuffName_伙伴特征肌肤异变,Skin Mutation,แปรเปลี่ยนผิวหนัง
+BuffName_伙伴特征步步为先,Always Ahead,นำหน้าเสมอ
 BuffName_伙伴特征无妄之灾,Collateral Damage,ภัยไม่คาดคิด
-BuffName_伙伴特征落袋为安,Secure Profits
+BuffName_伙伴特征落袋为安,Secure Profits,ประกันกำไร
 BuffName_伙伴特征何妨一醉,Drunken Ignorance,เมาไม่รู้ลืม
-BuffName_伙伴特征八面玲珑,Smooth Operator
-BuffName_伙伴特征出人意料,Unexpected
-BuffName_宠物特征尖牙利爪,Teeth and Claws
-BuffName_宠物特征身大力沉,Sturdy Body
+BuffName_伙伴特征八面玲珑,Smooth Operator,ปฏิบัติราบรื่น
+BuffName_伙伴特征出人意料,Unexpected,ไม่นึกไม่ฝัน
+BuffName_宠物特征尖牙利爪,Teeth and Claws,ฟันและกรงเล็บ
+BuffName_宠物特征身大力沉,Sturdy Body,ร่างกายแข็งแรง
 BuffName_宠物特征横冲直撞,Powerful Charge,พุ่งชนเต็มกำลัง
-BuffName_宠物特征鸡喙啄眼,Eye Pecking
-BuffName_宠物特征巨猿之力,Ape Power
-BuffName_宠物特征猿臂轻身,Ape Agility
-BuffName_宠物特征憨态可掬,Pure and Honest
-BuffName_宠物特征利爪暗藏,Hidden Claws
+BuffName_宠物特征鸡喙啄眼,Eye Pecking,ไก่จิกตา
+BuffName_宠物特征巨猿之力,Ape Power,พลังวานร
+BuffName_宠物特征猿臂轻身,Ape Agility,วานรปราดเปรียว
+BuffName_宠物特征憨态可掬,Pure and Honest,น่ารักน่าเอ็นดู
+BuffName_宠物特征利爪暗藏,Hidden Claws,กรงเล็บที่ซ่อนอยู่
 BuffName_宠物特征忠心护主,Loyal Pet,สัตว์เลี้ยงผู้ภักดี
 BuffName_宠物特征忠心护主_附属1,Loyal Pet,สัตว์เลี้ยงผู้ภักดี
-BuffName_宠物特征黑猿之威,Black Ape Aura
-BuffName_宠物特征淬毒之牙,Poisonous Fang
-BuffName_宠物特征剧毒之牙,Venomous Fang
-BuffName_宠物特征攻其不备,Sudden Attack
-BuffName_宠物特征锋牙利爪,Wind Fang Sharp Claw
-BuffName_宠物特征狼之主,Wolf Lord
-BuffName_宠物特征熊之守护,Bear Protection
-BuffName_宠物特征熊之守护_附属1,Bear Protection
-BuffName_宠物特征睚眦必报,Vengeful
-BuffName_宠物特征捕虫,Worm-catching
-BuffName_宠物特征难敌之势,Unfavorable Situation
-BuffName_宠物特征灵猿献果,Ape Offers Fruit
-BuffName_宠物特征破竹之势,Destruction Force
-BuffName_宠物特征猫的报恩,Cat Returns Favor
-BuffName_宠物特征拾荒,Scavenging
-BuffName_宠物特征好勇斗狠,Brave and Fierce
-BuffName_宠物特征表皮渗毒,Poisoned Skin
-BuffName_宠物特征剧毒之体,Venomous Body
-BuffName_宠物特征野性直觉,Beastly Instinct
-BuffName_宠物特征震山虎啸,Tiger Howl
-BuffName_宠物特征弱肉强食,Law of Jungle
+BuffName_宠物特征黑猿之威,Black Ape Aura,พลังแห่งวานรดำ
+BuffName_宠物特征淬毒之牙,Poisonous Fang,เขี้ยวพิษ
+BuffName_宠物特征剧毒之牙,Venomous Fang,คมเขี้ยวพิษ
+BuffName_宠物特征攻其不备,Sudden Attack,การโจมตีฉับพลัน
+BuffName_宠物特征锋牙利爪,Wind Fang Sharp Claw,พายุเขี้ยวคมกรงเล็บ
+BuffName_宠物特征狼之主,Wolf Lord,เจ้าแห่งหมาป่า
+BuffName_宠物特征熊之守护,Bear Protection,ผู้พิทักษ์หมี
+BuffName_宠物特征熊之守护_附属1,Bear Protection,ผู้พิทักษ์หมี
+BuffName_宠物特征睚眦必报,Vengeful,พยาบาท
+BuffName_宠物特征捕虫,Worm-catching,จับหนอนแมลง
+BuffName_宠物特征难敌之势,Unfavorable Situation,พลังอันน่าเกรงขาม
+BuffName_宠物特征灵猿献果,Ape Offers Fruit,วานรมอบผลไม้
+BuffName_宠物特征破竹之势,Destruction Force,พลังทำลายล้าง
+BuffName_宠物特征猫的报恩,Cat Returns Favor,แมวสำนึกคุณ
+BuffName_宠物特征拾荒,Scavenging,คุ้ยกองขยะ
+BuffName_宠物特征好勇斗狠,Brave and Fierce,กล้าหาญและดุร้าย
+BuffName_宠物特征表皮渗毒,Poisoned Skin,ผิวหนังเป็นพิษ
+BuffName_宠物特征剧毒之体,Venomous Body,ร่างพิษ
+BuffName_宠物特征野性直觉,Beastly Instinct,สัญชาตญาณสัตว์ป่า
+BuffName_宠物特征震山虎啸,Tiger Howl,พยัคฆ์คำราม
+BuffName_宠物特征弱肉强食,Law of Jungle,กฎแห่งป่า
 BuffName_宠物特征野性怒吼,Wild Roar,เสียงคำรามป่าเถื่อน
-BuffName_宠物特征贪吃成性,Gluttony
-BuffName_宠物特征耀武扬威,Show off your martial arts
-BuffName_宠物特征狂暴之力,Violent Power
-BuffName_宠物特征灵猿妙手,Ape Dexterity
-BuffName_宠物特征熊罴之力,Bear Power
-BuffName_宠物特征猫之利爪,Cat Claw,กงเล็บแมว
-BuffName_宠物特征狗仗人势,Spineless Bully
-BuffName_宠物特征黑猿之怒,Black Ape Rage
-BuffName_宠物特征毒云弥漫,Poison Cloud Dispersion
-BuffName_宠物特征毒云弥漫_光环,Poison Cloud Dispersion
-BuffName_宠物特征伺机而动,Fast response
-BuffName_宠物特征白虎之威,White Tiger Aura
-BuffName_宠物特征白虎之威_光环,White Tiger Aura
-BuffName_宠物特征冰雪之灵,Spirit of Snow
-BuffName_宠物特征冰雪之灵_附属1,Spirit of Snow
-BuffName_宠物特征利爪无情,Merciless Claw
-BuffName_宠物特征同仇敌忾,Common Enemy
-BuffName_宠物特征毒性中和,Poison Neutralized
-BuffName_宠物特征毒性中和_光环,Poison Neutralized
+BuffName_宠物特征贪吃成性,Gluttony,ตะกละ
+BuffName_宠物特征耀武扬威,Show off your martial arts,แสดงฝีมือ
+BuffName_宠物特征狂暴之力,Violent Power,พลังรุนแรง
+BuffName_宠物特征灵猿妙手,Ape Dexterity,มือวิเศษของวานร
+BuffName_宠物特征熊罴之力,Bear Power,พลังหมี
+BuffName_宠物特征猫之利爪,Cat Claw,กรงเล็บแมว
+BuffName_宠物特征狗仗人势,Spineless Bully,อาศัยบารมีนาย
+BuffName_宠物特征黑猿之怒,Black Ape Rage,วานรดำเดือดดาล
+BuffName_宠物特征毒云弥漫,Poison Cloud Dispersion,เมฆาพิษปกคลุม
+BuffName_宠物特征毒云弥漫_光环,Poison Cloud Dispersion,เมฆาพิษปกคลุม
+BuffName_宠物特征伺机而动,Fast response,ตอบสนองรวดเร็ว
+BuffName_宠物特征白虎之威,White Tiger Aura,อำนาจพยัคฆ์ขาว
+BuffName_宠物特征白虎之威_光环,White Tiger Aura,อำนาจพยัคฆ์ขาว
+BuffName_宠物特征冰雪之灵,Spirit of Snow,วิญญาณหิมะ
+BuffName_宠物特征冰雪之灵_附属1,Spirit of Snow,วิญญาณหิมะ
+BuffName_宠物特征利爪无情,Merciless Claw,กรงเล็บไร้ปราณี
+BuffName_宠物特征同仇敌忾,Common Enemy,ศัตรูทั่วไป
+BuffName_宠物特征毒性中和,Poison Neutralized,ต่อต้านพิษ
+BuffName_宠物特征毒性中和_光环,Poison Neutralized,ต่อต้านพิษ
 BuffName_宠物特征百发百中,Never Miss,ไม่พลาดเป้า
-BuffName_宠物特征毒性侵体,Poison Erosion
-BuffName_宠物特征火毒蚀骨,Flame Poison Eating Bone
+BuffName_宠物特征毒性侵体,Poison Erosion,พิษกัดกร่อน
+BuffName_宠物特征火毒蚀骨,Flame Poison Eating Bone,พิษอัคคีกินกระดูก
 BuffName_口才能力加成,Silver-tongued,คารมคมคาย
 BuffName_1级口才能力加成,Silver-tongued,คารมคมคาย
 BuffName_2级口才能力加成,Silver-tongued,คารมคมคาย
 BuffName_3级口才能力加成,Silver-tongued,คารมคมคาย
 BuffName_4级口才能力加成,Silver-tongued,คารมคมคาย
 BuffName_5级口才能力加成,Silver-tongued,คารมคมคาย
-BuffName_心系陆郎,Heart of Gold
-BuffName_心系陆郎_光环_附属,Heart of Gold
-BuffName_吾有狸奴,Fox Owner
-BuffName_寒气蚀骨,Bone-chilling Cold
+BuffName_心系陆郎,Heart of Gold,หัวใจทองคำ
+BuffName_心系陆郎_光环_附属,Heart of Gold,หัวใจทองคำ
+BuffName_吾有狸奴,Fox Owner,เจ้าของสุนัขจิ้งจอก
+BuffName_寒气蚀骨,Bone-chilling Cold,หนาวสะท้านกระดูก
 BuffName_鸳俦凤侣,Love Birds Attack,คู่รักโจมตี
 BuffName_情绕天涯,Everlasting Love,รักนิรันดร์
 BuffName_碧海青天,Green Sea Blue Sky,ทะเลสีฟ้าท้องฟ้าสีคราม
-BuffName_祈愿三生,Pray for Luck
-BuffName_精诚所至,Unbroken Will
+BuffName_祈愿三生,Pray for Luck,อธิษฐานให้โชคดี
+BuffName_精诚所至,Unbroken Will,ตั้งใจไม่เสื่อมคลาย
 BuffName_同进共退,Fight Together,ต่อสู้ร่วมกัน
-BuffName_携手同心,Hand In Hand
+BuffName_携手同心,Hand In Hand,จับมือกัน
 BuffName_烈火刀法buff3_附属,Disable armor,ปลดชุดเกราะ
-BuffName_广寒剑法buff2_附属,Self-admiration
-BuffName_寒魄冰心掌buff1_附属,Freezing Water
+BuffName_广寒剑法buff2_附属,Self-admiration,ชื่นชมตนเอง
+BuffName_寒魄冰心掌buff1_附属,Freezing Water,หยดน้ำแข็ง
 BuffName_天罡飞龙杖buff3_附属,Disable armor,ปลดชุดเกราะ
 BuffName_猴子偷桃buff1_附属1,Monkey Steals Peach,วานรชิงลูกท้อ
 BuffName_猴子偷桃buff1_附属2,Vulnerable,เปราะบาง
@@ -4303,14 +4303,14 @@ BuffName_通天塔敌方413,Parry Failure,ปัดป้องล้มเห�
 BuffName_通天塔敌方414,Critical Failure,คริติคอลล้มเหลว
 BuffName_通天塔敌方415,Evasion Failure,หลบหลีกล้มเหลว
 BuffName_通天塔敌方416,Internal break,กำลังภายในติดขัด
-BuffName_通天塔敌方417,Slow Energy Gathering
+BuffName_通天塔敌方417,Slow Energy Gathering,รวบรวมค่าปราณเคลื่อนที่เชื่องช้า
 BuffName_通天塔敌方418,Slow Action,ลงมือเชื่องช้า
 BuffName_通天塔敌方419,Slow Movement,เคลื่อนไหวเชื่องช้า
 BuffName_通天塔敌方420,Damage Decay,สลายความเสียหาย
 BuffName_烤火蜥串1,Salamander Meat Skewer,เนื้อซาลาแมนเดอร์ย่างเสียบไม้
 BuffName_毒龙蛋,Immune to Poison,ภูมิคุ้มกันพิษ
 BuffName_血玲珑,Blood Jewel,อัญมณีโลหิต
-BuffInfo_血玲珑,"You gain <#29F161>50% more EXP</color>, <#29F161>Critical increases by 5%</color>, <#29F161>Parry increases by 5%</color>, <#29F161>Combo increases by 5%</color>, <#29F161>Counter increases by 5%</color>.","เจ้าจะได้รับ <#29F161>ค่าประสบการณ์เพิ่มขึ้น 50%</color>, <#29F161>เพิ่มคริติคอล 5%</color>, <#29F161>ปัดป้องเพิ่มขึ้น 5%</color>, <#29F161>โจมตีต่อเนื่องเพิ่มขึ้น 5%</color>, <#29F161>สวนกลับเพิ่มขึ้น 5%</color>"
+BuffInfo_血玲珑,"You gain <#29F161>50% more EXP</color>, <#29F161>Critical increases by 5%</color>, <#29F161>Parry increases by 5%</color>, <#29F161>Combo increases by 5%</color>, <#29F161>Counter increases by 5%</color>.","เจ้าจะได้รับ <#29F161>ค่าประสบการณ์เพิ่มขึ้น 50%</color>, <#29F161>คริติคอลเพิ่มขึ้น 5%</color>, <#29F161>ปัดป้องเพิ่มขึ้น 5%</color>, <#29F161>โจมตีต่อเนื่องเพิ่มขึ้น 5%</color>, <#29F161>สวนกลับเพิ่มขึ้น 5%</color>"
 BuffInfo_烤火蜥串1,"<#29F161>Critical increases by 5%</color>, <#29F161>Final Damage Increase by 5%</color>"," <#29F161>คริติคอลเพิ่มขึ้น 5%</color>, <#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น 5%</color>"
 BuffInfo_毒龙蛋,"Immune to Poison during battle; immune to ""Dead by poison"" effect after consuming Toxic.","ภูมิคุ้มกันต่อพิษระหว่างการต่อสู้ ภูมิคุ้มกันต่อสถานะ ""ตายด้วยพิษ"" หลังจากกินพิษ"
 BuffInfo_城镇祈祷7,Growth rate of all Skills <#29F161>increased by 15%</color>.,ประสิทธิภาพการเติบโตของวรยุทธทั้งหมด <#29F161>เพิ่มขึ้น 15%</color>

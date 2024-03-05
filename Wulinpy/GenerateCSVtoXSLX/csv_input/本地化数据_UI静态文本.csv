@@ -2922,7 +2922,7 @@ UIFiefSetting_boxPage_Toggle(6)_Text(TMP),Treasury,หอสมบัติ
 UIFiefSetting_txt,Idle
 UIFiefSetting_boxLeftWork_scrollScorePrize_Viewport_Content_lineTitle0_Text(TMP),Scene bonus,ฉากเพิ่มเติม
 UIFiefSetting_boxLeftWork_scrollScorePrize_Viewport_Content_lineTitle1_Text(TMP),Special bonus,โบนัสพิเศษ
-UIFiefKungfu_txtTip,Note: The engraved martial arts will be overwritten by the new martial arts.,โน้ต: วรยุทธ์ที่เคยถูกแกะสลักแล้วจะถูกแทนที่ด้วยวรยุทธ์ใหม่
+UIFiefKungfu_txtTip,Note: The engraved martial arts will be overwritten by the new martial arts.,เคล็ดลับ: : วรยุทธ์ที่เคยถูกสลักไว้จะถูกแทนที่ด้วยวรยุทธ์ใหม่
 UIFiefKungfu_btnIn_Text(TMP),Engrave,สลัก
 UIFiefKungfu_btnOut_Text(TMP),Imprint,ประทับ
 UIFiefKungfu_imgUsed_Text(TMP),Imprinted,ถูกประทับ
@@ -2932,9 +2932,9 @@ UIFiefEquip_imgUsed_Text(TMP),Taken,ใช้ไป
 UIFiefKungfu_EmptyTip_Text(TMP),Requires a max level Legendary martial arts for the main character.,ตัวละครหลักจำเป็นต้องมีวรยุทธ์ระดับตำนานขั้นสูงสุด
 UIFiefEquip_EmptyTip_Text(TMP),"Requires Legendary Weapon, Armor, Accessory.","จำเป็นต้องมีอาวุธ,ชุดเกราะ,เครื่องประดับระดับตำนาน."
 UIFiefMain_layer_boxBottom_boxInfo_btnOpenSetting_Text(TMP),Edit,แก้ไข
-UIFiefSetting_layer_txtMingingPrizeTip,"In Behind the Mountain, for every {0} points of accumulated Strength of partners, produce {2} pieces of Wood and {3} pieces of Stone Material every {1} minute.\nCurrently producing <color=#c44b0e>{4}</color> pieces of Wood Material and <color=#c44b0e>{5}</color> pieces of Stone Material every <color=#c44b0e>{1}</color> minutes.","ด้านหลังผู้เขา, ทุกๆ {0} พ้อยท์ที่มาจากค่าพละกำลังของสหาย, จะผลิต {2} ชิ้นส่วนของไม้ and {3} ชิ้นส่วนของหินในทุกๆ {1} นาที.\nตอนนี้กำลังผลิต <color=#c44b0e>{4}</color> วัตถุดิบชิ้นส่วนของไม้ and <color=#c44b0e>{5}</color> วัตถุดิบชิ้นส่วนของหินทุกๆ <color=#c44b0e>{1}</color> นาที."
+UIFiefSetting_layer_txtMingingPrizeTip,"In Behind the Mountain, for every {0} points of accumulated Strength of partners, produce {2} pieces of Wood and {3} pieces of Stone Material every {1} minute.\nCurrently producing <color=#c44b0e>{4}</color> pieces of Wood Material and <color=#c44b0e>{5}</color> pieces of Stone Material every <color=#c44b0e>{1}</color> minutes.","ด้านหลังภูเขา, ทุกๆ {0} แต้มที่มาจากค่าพละกำลังของสหาย, จะผลิตวัสดุไม้ {2} ชิ้น และวัสดุหิน {3} ชิ้นทุกๆ {1} นาที.\nปัจจุบันกำลังผลิต วัสดุไม้ <color=#c44b0e>{4}</color> ชิ้น และ วัสดุหิน<color=#c44b0e>{5}</color> ชิ้นทุกๆ <color=#c44b0e>{1}</color> นาที."
 UIIllustratedHandbook_Center_Title_Text(TMP),Lore,ภาพประกอบ
-UIFiefEquip_txtTip,"Tip: You can only take the weekly target once, think thrice before placing or taking.",เคล็ดลับ: ท่านสามารถรับได้เพียงครั้งเดียวต่อรายการ โปรดคิดให้รอบคอบก่อนวางหรือหยิบ
+UIFiefEquip_txtTip,"Tip: You can only take the weekly target once, think thrice before placing or taking.",เคล็ดลับ: ท่านสามารถหยิบได้เพียงครั้งเดียวต่อรายการ โปรดคิดให้รอบคอบก่อนวางหรือนำออก
 PlayerCreateUI_CharSheet_RoleImage_PortraitSelectGroup_Toggle(1)_Info,Image Two,รูปที่ 2
 PlayerCreateUI_CharSheet_RoleImage_PortraitSelectGroup_Toggle_Info,Image One,รูปที่ 1
 PlayerCreateUI_CharSheet_RoleImage_PortraitSelectGroup_Title,Choose the portrait to use,เลือกรูปประจำตัว

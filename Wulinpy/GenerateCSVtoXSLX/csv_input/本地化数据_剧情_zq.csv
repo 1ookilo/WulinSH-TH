@@ -3679,19 +3679,19 @@ A15001-1_6_10,"Old pal, once I've taken care of things, I'll come here to guard 
 A15001-2_1_1,"Now even the Wolf King has been tamed by me, let's see which of these wolf cubs dares to provoke me!"
 A15007-1_1_1,{yell} Roar~roar~,{yell} โฮก~ โฮก~
 A15007-1_1_2,Now there's a good show to watch.
-A15007-1_2_1,Woo~~woo~~
+A15007-1_2_1,Woo~~woo~~,อุ๊ๆ~~ อ๊ะๆ~~
 A15007-1_2_2,Woof~ Woof~,โฮ่ง~ โฮ่ง~
 A15007-1_2_3,"Trained army is a momentary soldier, it seems I don't need to take action myself."
-A15007-1_3_1,Woo~~woo~~
+A15007-1_3_1,Woo~~woo~~,อุ๊ๆ~~ อ๊ะๆ~~
 A15007-1_3_2,"It seems this white-haired monster is not easy to provoke, should I intervene?"
-A15007-1_4_1,Woo~~woo~~
+A15007-1_4_1,Woo~~woo~~,อุ๊ๆ~~ อ๊ะๆ~~
 A15007-1_4_2,Woof~ Woof~,โฮ่ง~ โฮ่ง~
 A15007-1_4_3,"Alright, you Dependant guy, don't push your luck, since it's already behaved, don't make it difficult for it."
-A15007-1_5_1,"What is the origin of this white ape here, how did it appear in the closed tomb.\nIf you want to enter the main tomb to treasure hunt, either find a way to avoid this monster, or subdue it."
-A15007-1_6_1,"This guy seems to be guarding this coffin and not letting anyone near.\nHow should I deal with it?"
-A15007-1_7_1,Woo~~woo~~
-A15007-1_7_2,"Now you know how powerful I am!\nYou better behave yourself, or else you'll risk your life."
-A15007-1_8_1,"What is the origin of this white ape here, how did it appear in the closed tomb.\nIf you want to enter the main tomb to treasure hunt, either find a way to avoid this monster, or subdue it."
+A15007-1_5_1,"What is the origin of this white ape here, how did it appear in the closed tomb.\nIf you want to enter the main tomb to treasure hunt, either find a way to avoid this monster, or subdue it.","แล้วเจ้าลิงขาวนี่มันมาอยู่ในสุสานปิดตายแบบนี้ได้ยังไงเนี่ย\nถ้าอยากจะเข้าไปล่าสมบัติในตัวสุสานหลัก ต้องหาทางหลบหลีกมัน ไม่ก็ต้องสยบมันลง"
+A15007-1_6_1,"This guy seems to be guarding this coffin and not letting anyone near.\nHow should I deal with it?","ดูเหมือนเจ้านี้จะปกป้องโลงศพนี่ไว้ ไม่ให้ใครเข้าใกล้เลย\nข้าควรทำยังไงดี?"
+A15007-1_7_1,Woo~~woo~~,อุ๊ๆ~~ อ๊ะๆ~~
+A15007-1_7_2,"Now you know how powerful I am!\nYou better behave yourself, or else you'll risk your life.","ทีนี้เจ้าก็รู้ว่าข้าแข็งแกร่งแค่ไหนแล้วใช่ไหม!\nเจ้าควรสำรวมหน่อยนะถ้าไม่อย่างนั้นได้ไปโลกหน้าแน่"
+A15007-1_8_1,"What is the origin of this white ape here, how did it appear in the closed tomb.\nIf you want to enter the main tomb to treasure hunt, either find a way to avoid this monster, or subdue it.","แล้วเจ้าลิงขาวนี่มันมาอยู่ในสุสานปิดตายแบบนี้ได้ยังไงเนี่ย\nถ้าอยากจะเข้าไปล่าสมบัติในตัวสุสานหลัก ต้องหาทางหลบหลีกมัน ไม่ก็ต้องสยบมันลง"
 A15007-1_9_1,"This guy looks very powerful, I'll deal with it when I'm stronger.",ท่าทางแข็งแกร่งจริงๆ รอข้าเก่งกว่านี้ก่อนค่อยมาจัดการเถอะ
 A15008-1_1_1,Squeak squeak squeak squeak squeak squeak squeak.,เจี๊ยก- เจี๊ยก~ เจี๊ยก เจี๊ยก เจี๊ยก เจี๊ยก- เจี๊ยก~
 A15008-1_1_2,I can't understand what it means at all.
@@ -8966,7 +8966,7 @@ M20219-1_11_1,"I didn't expect you to really pass preliminary examination! Alrig
 M20219-1_11_2,"You can go to the prefect to register later. I hope you don't follow my old path, wasting your talents teaching these kids!"
 M20219-2_1_1,"Sir, I have passed the provincial examination."
 M20219-2_1_2,"Good lad, I knew you could do it!"
-M20219-2_1_3,"I have a favor to ask, I wonder if you could write me a recommendation letter to participate in the imperial examination at the Confucius Temple?"
+M20219-2_1_3,"I have a favor to ask, I wonder if you could write me a recommendation letter to participate in the imperial examination at the Confucius Temple?",ข้ามีเรื่องอยากจะถาม อยากรู้ว่าเจ้าจะเขียนจดหมายแนะนำตัวให้เข้าร่วมการสอบระดับมณฑลที่วัดขงจื้อได้ไหม
 M20219-2_1_4,"You, how could you...",เจ้า ทำไมเจ้าถึง...
 M20219-2_1_5,"Earlier, sir mentioned Dojokeeper Cai as 'Brother Yuanchang,' and considering the fact that Imperial School also worships Confucius, I speculated that you must have a close connection with the Confucius Temple. It seems my guess was correct.","นายท่าน, ท่านบอกไว้ก่อนหน้านี้ว่าหัวหน้าของโรงเรียนไฉ่คือ ""พี่หยวนฉาง"" และสำนักบัณฑิตหลวงก็บูชาขงจื๊อด้วย ดังนั้นข้าน้อยเดาว่าท่านจะต้องมีความสัมพันธ์ใกล้ชิดกับวัดขงจื๊อ ดูเหมือนว่าข้าน้อยจะพูดถูก"
 M20219-2_1_6,"You are indeed smart. Yes, I do have some personal connections with Brother Yuan Chang."
@@ -9691,7 +9691,7 @@ M10070-5_5_8,"I, I'm afraid I can't make it...",ข้า ข้ากลัว�
 M10070-5_5_9,It's the deadly poison!,มันคือยาพิษร้ายแรง!
 M10070-5_5_10,"Your Majesty, pull yourself together, you'll be fine!",ฝ่าบาท ทรงรวบรวมสติไว้ พระองค์จะไม่เป็นอะไร!
 M10070-5_5_11,"Master, I'm coming to find you...",อาจารย์ ข้าจะไปหาท่าน...
-M10070-5_5_12,{yell} Who is it? who did it!!!
+M10070-5_5_12,{yell} Who is it? who did it!!!,{yell} ใคร! ใครเป็นคนทำ!!!
 M10070-5_6_1,"{PlayerName}, from now on, my life and property are entrusted to you.",{PlayerName} จากนี้ไป ชีวิตและทรัพย์สินของข้าได้รับความไว้วางใจจากเจ้า
 M10070-5_6_2,"I swear to protect your majesty with my life, please start your journey, your majesty!",ข้าน้อยสาบานว่าจะปกป้องฝ่าบาทด้วยชีวิต โปรดเริ่มเดินทางไปกันทางเถิด ฝ่าบาท!
 M10070-5_7_1,"{yell} Someone is breaking into the prison, come and reinforce!!!",{yell} มีผู้บุกเข้าไปในคุก มาเสริมกำลังเร็ว!!!
@@ -10700,7 +10700,7 @@ School-2030-20_1_6,Isn't such tomb-robbing behavior despised by our Confucius Te
 School-2030-20_1_7,"The curator wants you to explore the content of RelationsConfucius TempleInseparable's survival, so the matter is urgent. Compared with the rise and fall of the Confucius Temple, which do you think is more important, a small ancient tomb?"
 School-2030-20_1_8,The student understands.
 School-2030-20_2_1,"I have no idea where to start, my current Skill can't open this bronze door at all..."
-School-2030-20_3_1,I don't take small Machinery skills seriously...
+School-2030-20_3_1,I don't take small Machinery skills seriously...,กลไกเล็กน้อยแค่นี้ไม่ใช่ปัญหาของข้าแม้แต่น้อย...
 School-2030-20_4_1,"This must be the bronze tripod mentioned by the curator, but how to activate it..."
 School-2030-20_4_2,"There seems to be dried blood on the inner wall of the bronze tripod, could it be activated with fresh blood?"
 School-2030-20_5_1,"As drops of fresh blood dripped into the tripod, the inscriptions on the tripod body gradually became strange.\nPerhaps due to excessive blood loss, your mind begins to gradually become dizzy..."
@@ -16497,30 +16497,30 @@ R10105-2_1_5,"I don't believe in the blessings of the Matchmaker. When I was a c
 R10105-2_1_6,"So, I'd rather believe in myself. Only when I'm strong enough can I avoid being manipulated by others and become the true master of my own fate."
 R10105-2_1_7,"Let's go. Even the most beautiful scenery is just a fleeting beauty, and there's nothing worth lingering over."
 R10105-2_1_8,……
-M2221-1_1_1,"The Innkeeper mentioned that there's going to be a black sandstorm here, and he seemed quite apprehensive. What is this black sandstorm?"
-M2221-1_1_2,"Every year at the turn of spring and summer, there will be a strong storm in this western desert, carrying a large amount of sand and stones, sweeping across the entire western region, and the places it passes are as dark as night."
-M2221-1_1_3,"Under the black sandstorm, no living thing has a chance of survival. This is the only inn within a hundred miles, so staying in the inn at this time is the safest."
-M2221-1_1_4,How long does this black sandstorm last?
-M2221-1_1_5,"Generally speaking, it lasts no more than twelve shichen, which means you can only stay in the inn for these twelve shichen."
-M2221-1_2_1,The black sandstorm is coming. It's safest to stay in the inn at this time.
-M2221-2_1_1,"The fat man watching the play over there is with you, right? You guys should pay the room fee first."
-M2221-2_1_2,Where am I fat? I just have a big face~
-M2221-2_1_3,How much is the room fee here?
-M2221-2_1_4,"Room No.1, twenty guan!"
-M2221-2_1_5,"What, this is a rip-off! I've never stayed in Room No.1 before, and it costs twenty guan!"
-M2221-2_1_6,"Let me tell you, this inn is not a pay-per-day place. Once you've paid the room fee, you can stay as long as you want. If you stay for a year or half a year, who would think the daily room fee is expensive?"
-M2221-2_1_7,"Forget it, I won't argue with you.\nI'll stay in Room No.1, and you can find a cheap room for my bodyguard."
-M2221-2_1_8,"All the rooms here are Room No.1, and the price is twenty guan each.\nWhy don't you two squeeze in and make do?"
-M2221-2_1_9,No way!
-M2221-2_1_10,Get him a Room No.1 too. This place is a rip-off!
-M2221-2_1_11,"{PlayerSurName} young hero, you saved my life, but we have to separate business from personal matters. This room fee will be deducted from your commission."
-M2221-2_1_12,……
-M2221-2_2_1,I almost forgot there are three of you. Should I get a Room No.1 for your little clerk too?
+M2221-1_1_1,"The Innkeeper mentioned that there's going to be a black sandstorm here, and he seemed quite apprehensive. What is this black sandstorm?",ได้ยินเถ่าแก่เนี้ยพูดว่าที่นี่จะเกิดพายุทรายดำเร็วๆ นี้  ดูท่าทางของเขาแล้วเหมือนจะกลัวมาก  พายุทรายดำนี่มันคืออะไรกัน?
+M2221-1_1_2,"Every year at the turn of spring and summer, there will be a strong storm in this western desert, carrying a large amount of sand and stones, sweeping across the entire western region, and the places it passes are as dark as night.",ทุกๆปีในช่วงเปลี่ยนผ่านระหว่างฤดูใบไม้ผลิและฤดูร้อน ทะเลทรายทางตะวันตกจะเผชิญกับพายุที่รุนแรง พายุนี้พัดพาเอาหินทรายจำนวนมหาศาล กวาดล้างไปทั่วทั้งภูมิภาคตะวันตก สถานที่ที่พายุผ่านท้องฟ้าจะมืดมิดดั่งตอนกลางคืน
+M2221-1_1_3,"Under the black sandstorm, no living thing has a chance of survival. This is the only inn within a hundred miles, so staying in the inn at this time is the safest.",ใต้พายุทรายดำไม่มีอะไรรอดชีวิตได้ ในรัศมีใกล้ๆนี้มีเพียงโรงเตี๊ยมของข้าแห่งนี้เท่านั้น ดังนั้นการอยู่ในโรงเตี๊ยมตอนนี้จึงปลอดภัยที่สุด
+M2221-1_1_4,How long does this black sandstorm last?,แล้วพายุทรายดำนี่จะอยู่นานแค่ไหนเล่า?
+M2221-1_1_5,"Generally speaking, it lasts no more than twelve shichen, which means you can only stay in the inn for these twelve shichen.",โดยปกติไม่เคยอยู่นานเกิน สิบสองชั่วยาม เจ้าก็พักอยู่ที่นี่ไปก่อนแล้วกัน
+M2221-1_2_1,The black sandstorm is coming. It's safest to stay in the inn at this time.,พายุทรายดำกำลังมา ข้าควรอยู่ในนี้ดีกว่า
+M2221-2_1_1,"The fat man watching the play over there is with you, right? You guys should pay the room fee first.",ตาอ้วนที่ดูเจ้าต่อยตีกันมากับเจ้าใช่ไหม มาจ่ายข้าห้องก่อนเลยนะ
+M2221-2_1_2,Where am I fat? I just have a big face~,ข้าอ้วนตรงไหนเนี่ย? ข้าแค่หน้ากลมเฉยๆ~
+M2221-2_1_3,How much is the room fee here?,ห้องราคาเท่าใดเถ่าแก้เนี้ย?
+M2221-2_1_4,"Room No.1, twenty guan!",ห้องสวรรค์ชั้นหนึ่ง ยี่สิบตำลึงถ้วน!
+M2221-2_1_5,"What, this is a rip-off! I've never stayed in Room No.1 before, and it costs twenty guan!",จะบ้าเรอะ! นี่มันโรงเตี๊ยมปล้นสะดมชัดๆ ห้องสวรรค์ชั้นหนึ่งบ้าอะไร ราคายี่สิบตำลึง!
+M2221-2_1_6,"Let me tell you, this inn is not a pay-per-day place. Once you've paid the room fee, you can stay as long as you want. If you stay for a year or half a year, who would think the daily room fee is expensive?",ข้าจะขอชี้แจงเล็กน้อย ราคาของโรงเตี๊ยมนี้ไม่ใช่ราคาวันต่อวัน เมื่อเจ้าจ่ายค่าที่พักแล้ว เจ้าจะอยู่นานแค่ไหนก็ได้ จะอยู่สองสามปีก็ยังได้ เจ้ายังคิดว่าแพงไหม?
+M2221-2_1_7,"Forget it, I won't argue with you.\nI'll stay in Room No.1, and you can find a cheap room for my bodyguard.","ช่างมัน ข้าไม่เถียงเจ้าแล้ว\nข้าจะอยู่ไอ้ห้องสวรรค์ชั้นหนึ่งอะไรนั่น แล้วเจ้าก็หาห้องพักที่ถูกที่สุดให้ผู้คุ้มภัยข้าด้วย"
+M2221-2_1_8,"All the rooms here are Room No.1, and the price is twenty guan each.\nWhy don't you two squeeze in and make do?","ห้องที่นี่ทุกห้องเป็นห้องสวรรค์ชั้นหนึ่ง  ราคาเท่ากันยี่สิบตำลึง\nถ้าอย่างนั้นพวกเจ้าสองคนนอนรวมกัน  เบียดกันหน่อยน่าจะพอได้อยู่นะ?"
+M2221-2_1_9,No way!,ไม่เอาโว้ย!
+M2221-2_1_10,Get him a Room No.1 too. This place is a rip-off!,เอาห้องสวรรค์ชั้นหนึ่งให้เขาด้วย ที่นี่มันปล้นกันชัดๆแล้ว!
+M2221-2_1_11,"{PlayerSurName} young hero, you saved my life, but we have to separate business from personal matters. This room fee will be deducted from your commission.",ท่านจอมยุทธน้อย{PlayerSurName} ท่านช่วยชีวิตข้าไว้ก็จริงแต่ต้องแยกเรื่องงานกับเรื่องส่วนตัวด้วย ค่าห้องนี้จะถูกหักจากค่าคุ้มภัยของท่านนะ
+M2221-2_1_12,……,……
+M2221-2_2_1,I almost forgot there are three of you. Should I get a Room No.1 for your little clerk too?,ข้าลืมไปว่าพวกท่านมีกันสามคน ข้าควรจะเอาห้องสวรรค์ชั้นหนึ่งให้เสี่ยวเอ้อน้อยด้วยไหม?
 M2221-2_2_2,Just let him make do here for the night. I don't have any extra money.
-M2221-2_3_1,"The first room on the left side of the second floor corridor is your room, and the <color=#c44b0e>second room on the right</color> is the young hero's room."
-M2221-2_3_2,Shouldn't my bodyguard be arranged next to me for better protection?
-M2221-2_3_3,"The other rooms are already full, so I have to inconvenience you two."
-M2221-2_3_4,This money really hurts to spend.
+M2221-2_3_1,"The first room on the left side of the second floor corridor is your room, and the <color=#c44b0e>second room on the right</color> is the young hero's room.",ห้องแรกจากทางซ้ายของชั้นสองคือห้องของท่าน ส่วน <color=#c44b0e>ห้องที่สองจากทางขวา</color> เป็นของท่านจอมยุทธน้อย
+M2221-2_3_2,Shouldn't my bodyguard be arranged next to me for better protection?,ไม่ใช่ว่าผู้คุ้มภัยของข้าควรมาอยู่ใกล้ๆข้ารึไง จะได้ปกป้องข้าได้?
+M2221-2_3_3,"The other rooms are already full, so I have to inconvenience you two.",ห้องมันเต็มแล้ว ข้าเลยไม่อาจอำนวยความสะดวกให้พวกท่านได้
+M2221-2_3_4,This money really hurts to spend.,เฮ้อ เสียดายเงินชะมัด
 M2221-2_4_1,"Young hero, you've been on the road for a long time. Please pay for the room first so you can rest early."
 M2221-2_4_2,How much is the room rate here?
 M2221-2_4_3,"The best room, twenty taels."
@@ -16545,9 +16545,9 @@ M2221-2_7_2,"Shouldn't it be first come, first served?"
 M2221-2_7_3,"He came before you and looks richer than you, so it makes sense to arrange him first."
 M2221-2_7_4,"Alright, let him go first."
 M2221-2_7_5,"The fat man sitting over there, hurry up and pay the room fee!"
-M2221-2_7_6,Where am I fat? I just have a big face~
-M2221-2_7_7,How much is the room fee here?
-M2221-2_7_8,"Room No.1, twenty guan!"
+M2221-2_7_6,Where am I fat? I just have a big face~,ข้าอ้วนตรงไหนเนี่ย? ข้าแค่หน้ากลมเฉยๆ~
+M2221-2_7_7,How much is the room fee here?,ห้องราคาเท่าใดเถ่าแก้เนี้ย?
+M2221-2_7_8,"Room No.1, twenty guan!",ห้องสวรรค์ชั้นหนึ่ง ยี่สิบตำลึงถ้วน!
 M2221-2_7_9,"What, this is a rip-off! I've never stayed in Room No.1 before, and it costs twenty guan!"
 M2221-2_7_10,"Are you staying or not? If not, get out of here!"
 M2221-2_7_11,"Stay, no matter how expensive!"
@@ -16555,23 +16555,23 @@ M2221-2_8_1,"Almost forgot you two are together, should I open a best room for y
 M2221-2_8_2,Just let him make do here for the night. I don't have any extra money.
 M2221-2_9_1,This money really hurts to spend.
 M2221-2_9_2,Is it my turn now?
-M2221-3_1_1,"Open the door quickly, open the door!"
-M2221-3_1_2,"Don't dawdle, if you annoy me, I'll tear down your shop."
-M2221-3_1_3,Can't you let me have some peace?
-M2221-3_1_4,"I'm knocking on the door and you dare not open it, are you tired of living!"
-M2221-3_1_5,"So it's the Xuanwu Envoy who has graced us with his presence, who has upset you so much?"
-M2221-3_1_6,"Innkeeper, you made me and my brothers eat the northwest wind outside for a long time, how are you going to compensate me?"
-M2221-3_1_7,"{yell} Little Lame, we have a distinguished guest, make a few hard dishes to reward the Xuanwu Envoy."
-M2221-3_1_8,"No problem, leave it to me!"
-M2221-3_1_9,"Xuanwu Envoy, please come in, we have prepared a feast for you."
-M2221-3_1_10,"{yell} You little brats, you know what you should do, right?"
-M2221-3_1_11,Yes!
-M2221-3_1_12,"What do you mean by this, Xuanwu Envoy?"
-M2221-3_1_13,A sworn enemy of the Holy Fire Sect has infiltrated your Chang'an Inn. I will turn this place upside down to find him.
-M2221-3_1_14,Who dares to oppose the Holy Fire Sect?
-M2221-3_1_15,Don't ask what you shouldn't. It's for your own good.
-M2221-3_1_16,"Who is this Xuanwu Envoy, acting so high and mighty?"
-M2221-3_1_17,"Shh, keep it down. This is Ren Zhongheng, the Xuanwu Envoy of the Holy Fire Sect. He has a bad temper, don't provoke him."
+M2221-3_1_1,"Open the door quickly, open the door!",เปิดประตูเร็วเข้า เปิดประตู!
+M2221-3_1_2,"Don't dawdle, if you annoy me, I'll tear down your shop.",อย่าลีลามาก ถ้าเจ้าทำข้าหงุดหงิด ข้าจะพังร้านเจ้า
+M2221-3_1_3,Can't you let me have some peace?,ให้ข้าอยู่สบายๆหน่อยไม่ได้รึไงกัน?
+M2221-3_1_4,"I'm knocking on the door and you dare not open it, are you tired of living!",ข้าเคาะประตูแล้วยังไม่เปิด รนหาที่ตายใช่ไหม!
+M2221-3_1_5,"So it's the Xuanwu Envoy who has graced us with his presence, who has upset you so much?",อ้อ เป็นท่านฑูตเต่าดำนี่เองที่มา ไม่ทราบว่าผู้ใดทำท่านโมโหเช่นนี้เล่า?
+M2221-3_1_6,"Innkeeper, you made me and my brothers eat the northwest wind outside for a long time, how are you going to compensate me?",เถ้าแก่เนี้ย พวกเราอยู่ข้างนอก อดอยากตั้งนานเพราะเจ้า จะชดเชยพวกข้ายังไง?
+M2221-3_1_7,"{yell} Little Lame, we have a distinguished guest, make a few hard dishes to reward the Xuanwu Envoy.",{yell} ไอ้ขาเป๋ มีแขกผู้มีเกียรติมาเยือน ไปทำอาหารจานเด็ดมาเลี้ยงท่านทูตเต่าดำหน่อยเร็ว
+M2221-3_1_8,"No problem, leave it to me!",ไม่ต้องห่วง ปล่อยให้เป็นหน้าที่ข้าเถอะ !
+M2221-3_1_9,"Xuanwu Envoy, please come in, we have prepared a feast for you.",ท่านทูตเต่าดำ เชิญเข้ามาก่อนเถิด เราตระเตรียมอาหารไว้ให้ท่านแล้ว
+M2221-3_1_10,"{yell} You little brats, you know what you should do, right?",{yell} เฮ้ยเด็กๆ รู้ใช่ไหมต้องทำอะไร?
+M2221-3_1_11,Yes!,ขอรับ!
+M2221-3_1_12,"What do you mean by this, Xuanwu Envoy?",หมายความว่ายังไงท่านทูตเต่าดำ?
+M2221-3_1_13,A sworn enemy of the Holy Fire Sect has infiltrated your Chang'an Inn. I will turn this place upside down to find him.,ศัตรูตัวฉกาจของนิกายไฟศักดิ์สิทธิ์แอบซ่อนตัวอยู่ในโรงเตี๊ยมฉางอันของเจ้า ข้าจะขุดพื้นพลิกโรงเตี๊ยมแห่งนี้เพื่อหาตัวมันออกมาให้ได้!
+M2221-3_1_14,Who dares to oppose the Holy Fire Sect?,ผู้ใดกล้าไปแหย่นิกายไฟศักดิ์สิทธิ์ล่ะนี่
+M2221-3_1_15,Don't ask what you shouldn't. It's for your own good.,อย่าถามมาก ถ้าไม่อยากตาย
+M2221-3_1_16,"Who is this Xuanwu Envoy, acting so high and mighty?",ไอ้ทูตเต่าดำนี่มันเป็นใคร ทำไมมาทำตัวสูงส่งขมึงใส่ผู้อื่นแบบนี้?
+M2221-3_1_17,"Shh, keep it down. This is Ren Zhongheng, the Xuanwu Envoy of the Holy Fire Sect. He has a bad temper, don't provoke him.",เฮ้ย เบาๆ นี่คือ เหริน จงเหิง เป็นทูตเต่าดำจากนิกายไฟศักดิ์สิทธิ์ เขากำลังอารมณ์ไม่ดี อย่าไปยั่วเขาเลย
 M2221-4_1_1,"Hey, kid! Come here and answer a few questions for me."
 M2221-4_1_2,What can I do for the Xuanwu Envoy?
 M2221-4_1_3,"You're young but you recognize me, shows you're not ignorant."
@@ -16620,15 +16620,15 @@ M2221-5_2_1,"Please calm down, Xuanwu Envoy. If it's not to your taste, they wil
 M2221-5_2_2,"I want you to deliver it personally, or don't blame me for being ruthless."
 M2221-5_2_3,"Alright, I will deliver it to you personally later."
 M2221-5_3_1,"Get lost, you're annoying to look at."
-M2221-6_1_1,"Old Hunchback was also a wanderer in his youth, and knows some martial arts. If you're bored in the inn, you can always come to spar with Old Hunchback."
-M2221-6_2_1,Do you want to practice with Old Hunchback?
-M2221-6_3_1,"Don't hold back just because I'm old, Old Hunchback won't appreciate it."
-M2221-6_4_1,"Old Hunchback is indeed old, now it's the world of you young people."
-M2221-7_1_1,"I have a favor to ask, I wonder if you could do me this honor."
-M2221-7_1_2,"Please feel free to ask, there's no need to be polite."
-M2221-7_1_3,"Old Hunchback had a deviation in his Qi circulation during his practice years ago, which caused his body to deform. His internal injury has not healed to this day, and he suffers unbearable pain on stormy days."
-M2221-7_1_4,"You are one of the few travelers I trust, could you help me find someone proficient in medicine to treat Old Hunchback's injury?"
-M2221-7_1_5,"Rest assured, leave it to me."
+M2221-6_1_1,"Old Hunchback was also a wanderer in his youth, and knows some martial arts. If you're bored in the inn, you can always come to spar with Old Hunchback.",ตาแก่หลังค่อยผู้นี้เคยเป็นจอมยุทธสมัยยังหนุ่มๆ และพอจะรู้วรยุทธอยู่บ้าง หากเจ้าเบื่อก็มาลองประลองกับตาแก่หลังค่อมผู้นี้ได้
+M2221-6_2_1,Do you want to practice with Old Hunchback?,เจ้าต้องการประลองกับตาแก่หลังค่อมไหม?
+M2221-6_3_1,"Don't hold back just because I'm old, Old Hunchback won't appreciate it.",อย่าออมมือเพราะเห็นว่าข้าแก่ล่ะ ตาแกหลังค่อมผู้นี้ไม่ชอบ
+M2221-6_4_1,"Old Hunchback is indeed old, now it's the world of you young people.",ตาแก่หลังค่อมคงแก่ไปแล้วจริงๆ นี่เป็นยุคของเหล่าคนหนุ่มแล้วสินะ
+M2221-7_1_1,"I have a favor to ask, I wonder if you could do me this honor.",ข้ามีเรื่องอยากขอร้องท่าน ไม่รู้ท่านจะช่วยได้ไหม
+M2221-7_1_2,"Please feel free to ask, there's no need to be polite.",ว่ามาเถิด ไม่ต้องสุภาพ
+M2221-7_1_3,"Old Hunchback had a deviation in his Qi circulation during his practice years ago, which caused his body to deform. His internal injury has not healed to this day, and he suffers unbearable pain on stormy days.",ตาแก่หลังค่อมนั้น ฝึกฝนกำลังภายในผิดวิธีเมื่อหลายปีก่อน ส่งผลให้ตันเถียนแตกสลาย จนถึงปัจจุบันอาการบาดเจ็บภายในยังไม่หายดี ทกครั้งที่ฝนฟ้าคะนอง ตาแก่มักจะรู้สึกเจ็บปวดทรมาน
+M2221-7_1_4,"You are one of the few travelers I trust, could you help me find someone proficient in medicine to treat Old Hunchback's injury?",เจ้าเป็นหนึ่งในนักเดินทางที่ข้าเชื่อใจ เจ้าช่วยหาใครบางคนที่พอจะรักษาอาการขอตาแก่หลังค่อมได้ไหม?
+M2221-7_1_5,"Rest assured, leave it to me.",โปรดวางใจ ปล่อยเป็นหน้าที่ของข้า
 M2221-7_2_1,"Old Hunchback, the Innkeeper asked me to find someone to treat your injury."
 M2221-7_2_2,"I've given up hope on my decade-old ailment, the Innkeeper shouldn't bother for me."
 M2221-7_3_1,You consider this an incurable disease? It's a piece of cake for me.

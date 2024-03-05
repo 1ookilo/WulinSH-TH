@@ -4717,7 +4717,7 @@ Day-2020-7_talking,Commission
 Day-2020-7_1_1,"Junior brother, wait, I have a task for you!"
 Day-2020-7_op_1_dialog,"Help me clean up the Forest Tower, 1000 wen each time, will you do it?","ช่วยข้าทำความสะอาดวิหารป่า, ครั้งละ 1,000 อีแปะ จะทำไหม?"
 Day-2020-7_op_1_1,"Help me clean up the Forest Tower (<color=#c44b0e>consume 2 shichen, require Stamina35</color>).",ช่วยข้าทำความสะอาดวิหารป่า (<color=#c44b0e>ใช้เวลา 2 ชั่วยาม ต้องการ 35 แรงกาย</color>)
-Day-2020-7_op_1_2,I'm busy now.
+Day-2020-7_op_1_2,I'm busy now.,ข้ายุ่งอยู่
 Day-2020-7_2_1,"Hmph, asking you for help is a favor to you, you really don't appreciate it."
 Day-2020-7_3_1,"Go and do your job, don't keep me waiting."
 Day-2020-7_4_1,"Sigh, I owe you, consider it a contribution to the temple."
@@ -8152,13 +8152,13 @@ Fame-20_4_6,"To the west of Zhongzhou Region is the Western Regions, to get ther
 Fame-20_4_7,"This Blood Jewel... comes from the Cold Skin Gang in the Western Regions, it's extremely rare... (Blood continuously flows from the seven orifices)",ส่วนอัญมณีเลือดนั้น มันเป็นสินค้าพิเศษของพรรคมังสาเหมันต์ในแดนตะวันตก ค่อนข้าหายากและ... (เลือดต่างไหลออกจากทวารทั้งเจ็ด)
 Fame-20_4_8,"I didn't mean to kill you, why are you like this now?",ข้าไม่ได้ตั้งใจจะข้าเจ้า ทำไมเจ้าเป็นแบบนี้เนี่ย?
 Fame-20_4_9,"Cough, cough, {PlayerName}, sooner or later I will step on you, you are always my stepping stone to fame! (Turns and walks away, the coughing seems to get more frequent, and finally everything falls silent)",แค่ก แค่ก {PlayerName} อีกไม่นานข้าจะเหยียบย่ำเจ้าให้ได้ เจ้าจะเป็นบันไดให้ข้าไปสู่ความสำเร็จของข้า! (จอมยุทธผู้นี้หันหลังจากไปพร้อมไอถี่ขึ้นและถี่ยิ่งขึ้น จากนั้นไม่นานทุกอย่างก็เงียบสงัดลง)
-M5059-0_1_1,"Why should the flute complain about the willows, the spring breeze does not pass the Jade Gate..."
-M5059-0_1_2,"According to the situation here, it seems not easy to pass through this world-famous Jade Gate."
-M5059-0_1_3,"{yell} You bunch of stingy warriors want to pass, it's simply wishful thinking!"
-M5059-0_1_4,"{yell} If you don't get out of here, I'll slaughter you all as Horse bandits trying to cause trouble!"
-M5059-0_1_5,"Bring it on, I'm not afraid of you!"
-M5059-0_1_6,"It's better to be peaceful, why use weapons?"
-M5059-0_1_7,Who will get the deer is still unknown
+M5059-0_1_1,"Why should the flute complain about the willows, the spring breeze does not pass the Jade Gate...",ไฉนเลยขลุ่ยจึงด่าทอต้นอ้อ เพียงเพราะลมหวนมิเคยผ่านด่านประตูหยก...
+M5059-0_1_2,"According to the situation here, it seems not easy to pass through this world-famous Jade Gate.",ดูจากสถานการณ์แล้ว ไม่ง่ายเลยที่จะผ่านประตูหยกเลื่องชื่อแห่งนี้ไปได้
+M5059-0_1_3,"{yell} You bunch of stingy warriors want to pass, it's simply wishful thinking!",{yell} ไอ้พวกจอมยุทธตัวเหม็นคิดจะผ่านไปไม่ง่ายหรอก!
+M5059-0_1_4,"{yell} If you don't get out of here, I'll slaughter you all as Horse bandits trying to cause trouble!",{yell}หากพวกเจ้ายังไม่ไป ข้าจะผ่าร่างเจ้าให้เหมือนโจรเลยคอยดู
+M5059-0_1_5,"Bring it on, I'm not afraid of you!",ก็มาสิวะ คิดว่าข้ากลัวรึไง!
+M5059-0_1_6,"It's better to be peaceful, why use weapons?",จะสู้ไปทำไม ไยต้องหันอาวุธหากัน
+M5059-0_1_7,Who will get the deer is still unknown,ใครจะหมู่จะจ่าเดี๋ยวก็รู้
 M5059-0_1_8,I've been annoyed by you soldiers for a long time
 M5059-0_1_9,You want to kill the innocent in broad daylight!
 M5059-0_1_10,"No money, no life!"
@@ -8167,20 +8167,20 @@ M5059-0_1_12,"We won't die here today, will we?"
 M5059-0_op_1_dialog,"Both sides are at a stalemate, I should choose..."
 M5059-0_op_1_1,Pay a toll of twenty taels. <color=#097a76>(20000 Coins)</color>
 M5059-0_op_1_2,Drive away these Vagabonds.
-M5059-0_op_1_3,Ask the General how to get out.
+M5059-0_op_1_3,Ask the General how to get out.,ถามท่านแม่ทัพว่าจะผ่านไปได้ยังไง
 M5059-0_op_1_4,Force your way through! (Specific battle),ฝ่าเข้าไป! (เข้าสู่การต่อสู้)
-M5059-0_op_1_5,Show the Imperial token.
-M5059-0_op_1_6,Quietly run away.
+M5059-0_op_1_5,Show the Imperial token.,แสดงตราจักรพรรดิ
+M5059-0_op_1_6,Quietly run away.,ออกไปอย่างเงียบๆ
 M5059-0_op_1_dialog_2,"Both sides are still at a stalemate, I should choose..."
-M5059-0_2_1,"Generals, I'm new here, how can I get out of this Jade Gate?"
-M5059-0_2_2,"It seems you're not like those guys, you should be a reasonable person."
-M5059-0_2_3,"The toll is <color=#c44b0e>twenty taels</color>, you can go as soon as you pay."
-M5059-0_2_4,So expensive! No wonder these Vagabonds have objections.
-M5059-0_2_5,"What can we do, stationed in such a desolate place, our military pay is deducted a lot."
-M5059-0_2_6,"If there's no income, the soldiers will mutiny."
-M5059-0_2_7,"In short, if you have money, you can go to the Western Regions, whether you're treasure hunting or trading, it has nothing to do with us."
-M5059-0_2_8,"However, if you can help us drive away these Vagabonds, we can let you pass for free."
-M5059-0_op_1_dialog_3,Please allow me to think about it...
+M5059-0_2_1,"Generals, I'm new here, how can I get out of this Jade Gate?",ท่านแม่ทัพข้าพึ่งมาถึง ข้าจะผ่านประตูหยกแห่งนี้ไปได้ยังไงหรือท่าน?
+M5059-0_2_2,"It seems you're not like those guys, you should be a reasonable person.",ดูเหมือนเจ้าจะไม่ไร้เหตุผลเลยทีเดียว แบบนี้พอคุยกันได้
+M5059-0_2_3,"The toll is <color=#c44b0e>twenty taels</color>, you can go as soon as you pay.",ค่าผ่านทางทั้งหมด <color=#c44b0e>20 ตำลึง</color> ถ้าจ่ายก็ผ่านไปได้
+M5059-0_2_4,So expensive! No wonder these Vagabonds have objections.,แพงมาก! ไม่แปลกใจทำไมเหล่าจอมยุทธถึงพากันประท้วง
+M5059-0_2_5,"What can we do, stationed in such a desolate place, our military pay is deducted a lot.",จะให้ทำยังไง อยู่ชายแดนแบบนี้ พวกข้าไม่มีรายได้พอเลี้ยงลูกเมียหรอกนะ
+M5059-0_2_6,"If there's no income, the soldiers will mutiny.",หากไม่มีรายได้ เหล่าทหารก็จะพากันกบฎ
+M5059-0_2_7,"In short, if you have money, you can go to the Western Regions, whether you're treasure hunting or trading, it has nothing to do with us.",สั้นๆ ถ้ามีเงินเจ้าก็ไปแดนตะวันตกได้ จะไปล่าสมบัติค้าขายอะไร พวกข้าไม่สนทั้งนั้น
+M5059-0_2_8,"However, if you can help us drive away these Vagabonds, we can let you pass for free.",อย่างไรก็ตาม หากเจ้าช่วยพวกข้าไล่จอมยุทธเหล่านี้ออกไป ข้าให้เจ้าไปได้ฟรีๆเลย
+M5059-0_op_1_dialog_3,Please allow me to think about it...,ขอข้าคิดก่อนนะ...
 M5059-0_3_1,"Here are twenty taels, please accept, General."
 M5059-0_3_2,"Hmm, you're indeed reasonable.\nBut are you sure you don't want to consider the suggestion of passing for free?"
 M5059-0_3_3,"No, these guys look tough, I don't want to die here."
@@ -8220,49 +8220,49 @@ M5059-0_12_1,"Big brother, this kid doesn't have many helpers, why don't we take
 M5059-0_13_1,"Get lost, if you want to die, don't drag me into it!"
 M5059-0_14_1,"Open the gate, let him pass!",เปิดประตู ให้เขาเข้าไป!
 M5059-0_15_1,"You, what are you trying to do!",เจ้า เจ้าจะทำอะไรน่ะ!
-M5059-0_15_2,"You guards should be honored for guarding the border, but you exploit the pedestrians under the guise of duty, abusing your power for personal gain, this is an unforgivable crime!"
-M5059-0_15_3,"Now that you've incurred public wrath, today we will act for the heavens!"
-M5059-0_15_4,"I don't know you, don't drag me into your rebellion."
-M5059-0_15_5,The young man is too impulsive.
-M5059-0_15_6,"We were just talking, you really started a fight."
-M5059-0_15_7,"The people can't fight with the officials, this kid is crazy."
-M5059-0_15_8,"I'm just here to watch, don't look for me if you start a fight."
-M5059-0_15_9,"Kid, what did you just say, you want to act for the heavens?"
-M5059-0_15_10,Dare you repeat what you just said?
-M5059-0_15_11,"Since I can't count on those spineless cowards, I'll have to do it myself."
-M5059-0_16_1,"The Jade Gate is now unobstructed, I can now go to the Western Regions."
-M5059-0_17_1,"This gate doesn't seem very sturdy, I'll try to open it..."
-M5059-0_17_2,Hey!,นี่!
-M5059-0_17_3,Ha!
+M5059-0_15_2,"You guards should be honored for guarding the border, but you exploit the pedestrians under the guise of duty, abusing your power for personal gain, this is an unforgivable crime!",นายด่านประตูอย่างพวกเจ้าควรจะมีเกียรติที่ได้ปกป้องชายแดน แต่พวกเจ้าดันกลับมาใช้ช่องโหว่หลอกเอาเงินผู้คนโดยอ้างว่าเป็นหน้าที่ ใช้อำนาจในทางที่ไม่ชอบ นับว่าเป็นความผิดอาญาแผ่นดิน!
+M5059-0_15_3,"Now that you've incurred public wrath, today we will act for the heavens!",วันนี้เจ้าจะได้รับรู้ความโกรธของผู้คน วันนี้พวกเราจะกระทำเพื่อสวรรค์!
+M5059-0_15_4,"I don't know you, don't drag me into your rebellion.",เฮ้ย ข้าไม่รู้เรื่อง อย่าลากข้าไปเป็นกบฎ
+M5059-0_15_5,The young man is too impulsive.,ไอ้นี่บ้าใหญ่แล้ว
+M5059-0_15_6,"We were just talking, you really started a fight.",เราแค่มาโวยเฉยๆ ข้าไม่ได้จะมาสู้
+M5059-0_15_7,"The people can't fight with the officials, this kid is crazy.",บ้าหรือไงไปสู้กับทางการ
+M5059-0_15_8,"I'm just here to watch, don't look for me if you start a fight.",เฮ้ย ข้าไม่รู้เรื่อง อย่าลากข้าไปเป็นกบฎ
+M5059-0_15_9,"Kid, what did you just say, you want to act for the heavens?",ไอ้หนู เมื่อกี้ว่ายังไงนะ กระทำเพื่อสวรรค์หรือ?
+M5059-0_15_10,Dare you repeat what you just said?,กล้าพูดอีกทีไหมเล่า?
+M5059-0_15_11,"Since I can't count on those spineless cowards, I'll have to do it myself.",ในเมื่อไว้ใจไอ้พวกตาขาวไม่ได้ ข้าทำเองคนเดียวก็ได้
+M5059-0_16_1,"The Jade Gate is now unobstructed, I can now go to the Western Regions.",ประตูหยกไม่มีอะไรขวางต่อไปแล้ว ข้าสามารถไปยังแดนตะวันตกได้แล้ว
+M5059-0_17_1,"This gate doesn't seem very sturdy, I'll try to open it...",ประตูนี่ดูจะไม่หนักหนาอันใด ข้าลองเปิดเองดูได้...
+M5059-0_17_2,Hey!,ฮึบ!
+M5059-0_17_3,Ha!,ฮ่า!
 M5059-0_17_4,……,
-M5059-0_17_5,Break it for me!!!
-M5059-0_17_6,"The Jade Gate is now unobstructed, I can now go to the Western Regions."
+M5059-0_17_5,Break it for me!!!,จงพังเดี๋ยวนี้!!!
+M5059-0_17_6,"The Jade Gate is now unobstructed, I can now go to the Western Regions.",ประตูหยกไม่มีอะไรขวางต่อไปแล้ว ข้าสามารถไปยังแดนตะวันตกได้แล้ว
 M5059-0_18_1,(Shows Imperial token)
 M5059-0_18_2,"{yell}'s Imperial token is here, as if the emperor himself is present!"
 M5059-0_18_3,Long live the emperor!
 M5059-0_18_4,Open the Jade Gate!
 M5059-0_18_5,Yes!
 M5059-0_18_6,"Open the gate, see the young hero off!"
-M5060-0_1_1,"Gentlemen, please show mercy..."
-M5060-0_1_2,"You're lucky to run into me, we only want money and goods, no killing."
-M5060-0_1_3,"You can take the money, but these goods are my life."
-M5060-0_1_4,"You've traveled thousands of miles to the Western Regions for trade, these goods must be valuable, there's no reason to let go of the wealth at hand."
-M5060-0_1_5,"You, don't push your luck, the bodyguards I hired are not bad, you may not..."
-M5060-0_1_6,"Hehe, greedy guy who doesn't value his life."
-M5060-0_1_7,Ah!
-M5060-0_1_8,Such bad luck!
+M5060-0_1_1,"Gentlemen, please show mercy...",ท่านสุภาพบุรุษ เมตตาข้าเถิดขอรับ...
+M5060-0_1_2,"You're lucky to run into me, we only want money and goods, no killing.",เจ้าโชคดีแค่ไหนแล้ว พวกข้าอยากได้เพียงสินค้าและเงินทอง ไม่คิดฆ่า
+M5060-0_1_3,"You can take the money, but these goods are my life.",ท่านเอาเงินไปเท่าไหร่ก็เอาไปได้เลยขอรับ แต่สินค้าเหล่านี้เป็นดั่งชีวิตข้าเลยนะขอรับ
+M5060-0_1_4,"You've traveled thousands of miles to the Western Regions for trade, these goods must be valuable, there's no reason to let go of the wealth at hand.",เจ้าเดินทางมานับหมื่นลี้มายังแดนตะวันตกนี้ สินค้าพวกนี้ต้องมีราคาเป็นอย่างมาก ไม่มีเหตุผลเลยที่ข้าจะปล่อยเงินทองเหล่านี้หลุดลอยไป
+M5060-0_1_5,"You, don't push your luck, the bodyguards I hired are not bad, you may not...",เจ้า อย่ามาลองดีนักนะ ผู้คุมกันที่ข้าจ้างมาไม่ใช่เล่นๆทั้งนั้น เจ้าควรจะ...
+M5060-0_1_6,"Hehe, greedy guy who doesn't value his life.",ฮ่าฮ่าฮ่า ไอ้โลภนี้ไม่เห็นค่าชีวิตซะแล้ว
+M5060-0_1_7,Ah!,อ้าก!
+M5060-0_1_8,Such bad luck!,ลางไม่ดีอีกแล้ว!
 M5060-0_1_9,
-M5060-0_1_10,"You, you..."
-M5060-0_1_11,"Since the blade has tasted blood, it seems I have to send you all to reunite."
-M5060-0_op_1_dialog,"Just out of Jade Gate and there's trouble, should I meddle in this?"
+M5060-0_1_10,"You, you...",จ.. เจ้า...
+M5060-0_1_11,"Since the blade has tasted blood, it seems I have to send you all to reunite.",ในเมื่อดาบข้าได้ดื่มเลือดแล้ว ดูเหมือนข้าต้องส่งพวกเจ้าไปรวมญาติกันบนสวรรค์
+M5060-0_op_1_dialog,"Just out of Jade Gate and there's trouble, should I meddle in this?",ออกมาจากประตูหยกไม่ทันไรก็มีเรื่องซะแล้ว ข้าควรเข้าไปยุ่งดีไหม?
 M5060-0_op_1_1,Guard the tea merchant! (Specific battle),ปกป้องพ่อค้าชา (เข้าสู่การต่อสู้)
-M5060-0_op_1_2,Back away from this place.
-M5060-0_2,"The player turns around and runs away from the current scene, returning to the Western Regions map (near the Jade Gate)."
-M5060-0_3_1,Who are you?!
-M5060-0_3_2,"When seeing injustice, draw your sword to help."
-M5060-0_3_3,"The last one who bragged, now his grave is waist-high with grass, are you tired of living too?"
-M5060-0_3_4,"The last one who dared to threaten me, now doesn't even have a grave, are you sure you want to be my enemy?"
-M5060-0_3_5,"{yell}, you're courting death!"
+M5060-0_op_1_2,Back away from this place.,หลบไปจากที่นี้
+M5060-0_2,"The player turns around and runs away from the current scene, returning to the Western Regions map (near the Jade Gate).",คุณหันหลังกลับแล้วจากไป
+M5060-0_3_1,Who are you?!,แกเป็นใคร?!
+M5060-0_3_2,"When seeing injustice, draw your sword to help.",ข้าเพียงชักดาบเมื่อเห็นความอยุติธรรมก็เท่านั้น
+M5060-0_3_3,"The last one who bragged, now his grave is waist-high with grass, are you tired of living too?",ไอ้คนล่าสุดที่พูดไปล่าสุดตอนนี้ที่หน้าหลุมศพมันมีหญ้าสูงเท่าเอวแล้ว เจ้าเองก็อยากตายใช่ไหม?
+M5060-0_3_4,"The last one who dared to threaten me, now doesn't even have a grave, are you sure you want to be my enemy?",ไอ้คนล่าสุดที่กล้ามาขู่ข้า ตอนนี้ยังไม่มีหลุมให้อยู่เลย เจ้าแน่ใจนะจะมาหาเรื่องข้า?
+M5060-0_3_5,"{yell}, you're courting death!",{yell}รนหาที่ตาย!
 M5060-0_4_1,It's a pity that I couldn't save them...
 M5060-0_op_2_dialog,"The weather in the Western Regions is unpredictable, the sandstorm here is getting bigger, how should I deal with this cart of goods and two corpses?"
 M5060-0_op_2_1,Search the goods.
@@ -8274,18 +8274,18 @@ M5060-0_7_2,"He is beyond saving, I can't help him."
 M5060-0_7_3,"The Western Regions are too dangerous for you, you should go back where you came from."
 M5060-0_7_4,"I came with the Innkeeper, I can't let him die alone in the wilderness, I, I want to take him back..."
 M5060-0_7_5,"You escorted the little Clerk carrying the tea merchant's body back to Jade Gate.\nBefore parting, the little Clerk thanked you for saving his life and gave you a damaged map of the Western Regions, roughly indicating an inn.\nSeeing the sandstorm rising, you watched the little Clerk run away, and planned to go to the inn on the map to avoid the sandstorm."
-M5060-0_8_1,"Young hero, you are really capable, these blind guys are simply seeking their own death."
-M5060-0_8_2,"Young hero, you are so skilled, how about I hire you as a bodyguard?\nAs long as you ensure the safety of me and the goods, and can safely reach the Western Regions <color=#c44b0e>Flame City</color>."
-M5060-0_8_3,"The commission is 100 guan, 20 guan in advance, and the rest will be paid in full when we safely arrive at Flame City, how about it?"
-M5060-0_op_3_dialog,Let me think about it...
-M5060-0_op_3_1,Agree to be the tea merchant's bodyguard.
-M5060-0_op_3_2,Refuse to be the tea merchant's bodyguard.
-M5060-0_9_1,"I am {PlayerName}, from now on, I am your bodyguard."
-M5060-0_9_2,"Alright, I will rely on you, {PlayerSurName} young hero, all the way."
-M5060-0_10_1,"This is the Clerk I brought from the shop, his safety is also your responsibility."
-M5060-0_10_2,"Thank you, {PlayerSurName} hero."
-M5060-0_11_1,"The sandstorm is rising here, let's hurry up. There is an inn not far away, let's go there to avoid the sandstorm."
-M5060-0_12_1,"I'm used to being free and don't like restraint, I appreciate your kindness."
+M5060-0_8_1,"Young hero, you are really capable, these blind guys are simply seeking their own death.",ท่านจอมยุทธน้อย ท่านนี้ยอดยุทธจริงๆ ไอ้พวกตามืดหม่นเหล่านี้รนหาที่ตายแท้ๆ
+M5060-0_8_2,"Young hero, you are so skilled, how about I hire you as a bodyguard?\nAs long as you ensure the safety of me and the goods, and can safely reach the Western Regions <color=#c44b0e>Flame City</color>.","ท่านจอมยุทธน้อยดูเก่งกาจนัก ข้าจ้างท่านเป็นผู้คุ้มภัยเอาไหม?\nจนกว่าท่านจะพาเราและสินค้าไปส่งถึงแดนตะวันตกที่ <color=#c44b0e>เมืองอัคคี</color>"
+M5060-0_8_3,"The commission is 100 guan, 20 guan in advance, and the rest will be paid in full when we safely arrive at Flame City, how about it?",ค่าจ้างหากสำเร็จข้ามอบให้ 100 ตำลึงเลย ค่าจ่ายให้ท่านก่อนด้วย 20 ตำลึงเลยเอ้า ที่เหลือจะจ่ายเมื่อเราถึงเมืองอัคคี ท่านว่าอย่างไร?
+M5060-0_op_3_dialog,Let me think about it...,ให้ข้าคิดดูก่อน...
+M5060-0_op_3_1,Agree to be the tea merchant's bodyguard.,ตกลงจะคุ้มภัยให้พ่อค้าชา
+M5060-0_op_3_2,Refuse to be the tea merchant's bodyguard.,ปฎิเสธที่จะคุ้มภัยให้พ่อค้าชา
+M5060-0_9_1,"I am {PlayerName}, from now on, I am your bodyguard.",ข้า {PlayerName} จากนี้จะขอคุ้มภัยให้พวกท่าน
+M5060-0_9_2,"Alright, I will rely on you, {PlayerSurName} young hero, all the way.",ดี ข้ารบกวนท่านแล้วท่านจอมยุทธน้อย{PlayerSurName}
+M5060-0_10_1,"This is the Clerk I brought from the shop, his safety is also your responsibility.",เสี่ยเอ้อผู้นี้ข้าเองก็ไปซื้อตัวมาจากโรงเตี๊ยม ความปลอดภัยของเขาข้าก็ฝากท่านด้วยนะ
+M5060-0_10_2,"Thank you, {PlayerSurName} hero.",ขอบคุณท่านมาก ท่านจอมยุทธ{PlayerSurName}
+M5060-0_11_1,"The sandstorm is rising here, let's hurry up. There is an inn not far away, let's go there to avoid the sandstorm.",พายุทรายกำลังมาแล้ว รีบไปกันเถิด โรงเตี๊ยวอยู่ไม่ไกลจากที่นี่ รีบไปก่อนที่พายุทรายจะมา
+M5060-0_12_1,"I'm used to being free and don't like restraint, I appreciate your kindness.",ข้านั้นคุ้นเคยกับการเป็นอิสระเสียมากกว่า ขอบใจในความมีน้ำใจของท่านด้วย
 M5060-0_12_2,"In this vast Western Region, without a familiar guide, I'm afraid you'll never find your way out in your lifetime, and you'll die here alive."
 M5060-0_12_3,"Young hero, you might as well weigh it carefully before giving me an answer."
 M5060-0_13_1,"My answer is still the same, I'm not interested in being someone else's bodyguard."
@@ -8339,47 +8339,47 @@ Kill-2211_7_1,"I, He Denuo, am forever with Cold Skin Gang!",ข้า เหอ
 Kill-2211_8_1,"As the leaders of Cold Skin Gang fell one by one, the glory of Cold Skin Gang gradually faded.\nUntil the last person was killed, Cold Skin Gang became history.\nWhether the master of Cold Skin Gang was a hero or a villain is meaningless, and will soon be forgotten by most people.\nThe Flame City, which lost its master, still has endless life force and prosperity. This is the only mark left by Cold Skin Gang in the world."
 Kill-2211_8_2,"<size=250%><color=#E3170D>Cold Skin Gang, annihilated!</color></size>"
 Kill-2211_9_1,"It seems that there are still fish that escaped the net, and it's a pity that Cold Skin Gang was not wiped out in one fell swoop."
-M2221-0_4_1,"Finally, there's a place to rest. This long journey almost took half of my life."
-M2221-0_4_2,"This, something seems wrong here."
-M2221-0_5_1,"I, the general, think you look sleazy and not like a good person. You're probably a wanted criminal who escaped from somewhere else."
-M2221-0_5_2,"The net of heaven has wide meshes but lets nothing through. Now that you've run into me, the general, do you want to settle this publicly or privately?"
-M2221-0_5_3,"If you want to collect my life-saving money, it seems you've chosen the wrong person."
-M2221-0_5_4,"Cut the crap, either you go to jail for a few years, or you pay me, the general, and I'll let you go."
-M2221-0_5_5,"Fine, you resist arrest and commit violence, your crime is the same as rebellion!"
-M2221-0_5_6,"{yell}Guards, arrest the rebel in front of you!"
-M2221-0_5_7,"Yes, sir!"
-M2221-0_op_1_dialog,"This man is too straightforward, he actually confronts the soldiers, I should..."
+M2221-0_4_1,"Finally, there's a place to rest. This long journey almost took half of my life.",ในที่สุดก็มีที่ให้พักเสียที การเดินทางไกลครั้งนี้ข้าเหนื่อยหยั่งกับใช้เวลาไปครึ่งค่อนชีวิต
+M2221-0_4_2,"This, something seems wrong here.",เดี๋ยว มีบางอย่างแปลกๆ
+M2221-0_5_1,"I, the general, think you look sleazy and not like a good person. You're probably a wanted criminal who escaped from somewhere else.",ข้า แม่ทัพผู้นี้คิดว่าเจ้าท่าทางน่าสงสัยไม่น่าใช่คนดี เจ้าอาจจะเป็นโจรที่หลบหนีมาจากที่อื่นแน่ๆ
+M2221-0_5_2,"The net of heaven has wide meshes but lets nothing through. Now that you've run into me, the general, do you want to settle this publicly or privately?",สวรรค์มีตามิเคยปล่อยผู้ร้ายรอดไปได้ วันนี้เจ้ามาเจอข้า ท่านแม่ทัพผู้นี้ เจ้าอยากจะจัดการปัญหานี้เงียบๆหรืออยากให้ฝูงชนดูด้วยเล่า?
+M2221-0_5_3,"If you want to collect my life-saving money, it seems you've chosen the wrong person.",ถ้าเจ้าจะมาปล้นเงินที่ข้าเก็บมาทั้งชีวิต ข้าว่าท่านปล้นผิดคนแล้ว
+M2221-0_5_4,"Cut the crap, either you go to jail for a few years, or you pay me, the general, and I'll let you go.",หยุดพูดมาก จะไปติดคุกสักสองสามปี หรือจะจ่ายให้ท่านแม่ทัพผู้นี้ แล้วข้าจะปล่อยเจ้าไป
+M2221-0_5_5,"Fine, you resist arrest and commit violence, your crime is the same as rebellion!",ได้ ในเมื่อเจ้าขัดขืนการจับกุม และกล้าทำร้ายเจ้าพนักงาน ความผิดของเจ้าเท่ากับกบฎ!
+M2221-0_5_6,"{yell}Guards, arrest the rebel in front of you!",{yell}ทหาร จับกบฎตรงหน้าเจ้า!
+M2221-0_5_7,"Yes, sir!",ขอรับ!
+M2221-0_op_1_dialog,"This man is too straightforward, he actually confronts the soldiers, I should...",ชายผู้นี้นั้นขวานผ่าซากดีแท้ แถมยังกล้าไปท้าทหารพวกนี้อีก ข้าควรจะ...
 M2221-0_op_1_1,Help the man out! (Specific battle),ออกไปช่วย (เข้าสู่การต่อสู้)
-M2221-0_op_1_2,Just watch the changes.
-M2221-0_6_1,Where did this guy come from? Are you guys together?
-M2221-0_6_2,"I can't stand it when many people bully a few, especially you who exploit the people under the guise of legality."
-M2221-0_7_1,"{PlayerSurName}Young hero, you are my hired bodyguard, why bother to meddle in other people's business?"
-M2221-0_7_2,"You hide on the side first, so as not to hurt you when the fight starts."
-M2221-0_7_3,Reckless fool
-M2221-0_7_4,Sooner or later I will be killed by you
-M2221-0_8_1,"{yell}Arrest them, arrest them all, don't let anyone escape!"
-M2221-0_9_1,"Good man, spare my life, I was blinded by lard, I shouldn't have made enemies with you two!"
-M2221-0_9_2,It's better to...
-M2221-0_9_3,"Gentlemen, can you give me some face?"
-M2221-0_9_4,"This is a misunderstanding, let's have a drink and cool down."
-M2221-0_9_5,Who is this lady...?
-M2221-0_9_6,"I'm, uh, Haitang Qiu, the innkeeper of this inn."
-M2221-0_9_7,"Yes, yes, misunderstanding."
-M2221-0_9_8,"Innkeeper, serve the wine, I'll apologize to the two heroes!"
-M2221-0_9_9,Here comes the good wine~
-M2221-0_9_10,"I respect you two heroes, we don't fight, don't know each other, if you need my help in the future, just say it."
-M2221-0_9_11,I'm not interested in having relations with the court.
-M2221-0_9_12,"No problem, no problem. I still have military affairs to deal with, two heroes, we will meet again in the future."
-M2221-0_9_13,"Thank you for your righteous action, I'm not feeling well, I'll go back to my room to rest."
-M2221-0_9_14,"Please feel free to do as you wish, hero."
-M2221-0_9_15,"Phew, finally got rid of these army riffraff."
-M2221-0_9_16,"Old Hunchback, quickly close the shop door, there's going to be a black sandstorm on the Horse."
-M2221-0_9_17,"Little Lame, hurry back to the kitchen to cook, don't let the guests go hungry."
-M2221-0_9_18,Yes!
-M2221-0_9_19,Okay.
-M2221-0_9_20,(Closes the shop door tightly)
+M2221-0_op_1_2,Just watch the changes.,รอดูว่าจะเกิดอะไรขึ้น
+M2221-0_6_1,Where did this guy come from? Are you guys together?,ไอ้หมอนี่มาจากไหน? พวกแกสมรู้ร่วมคิดกันใช่ไหม?
+M2221-0_6_2,"I can't stand it when many people bully a few, especially you who exploit the people under the guise of legality.",คนหมู่มากมารุมคนหมู่น้อย ข้าเห็นแล้วรับไม่ได้ โดยเฉพาะไอ้พวกใช้ช่องโหว่กฎหมายอ้างว่าผู้อื่นทำผิดโต้งๆ
+M2221-0_7_1,"{PlayerSurName}Young hero, you are my hired bodyguard, why bother to meddle in other people's business?",จอมยุทธน้อย{PlayerSurName} ข้าจ้างท่านเป็นผู้คุ้มภัย ทำไมท่านต้องไปสอดเรื่องคนอื่นด้วย?
+M2221-0_7_2,"You hide on the side first, so as not to hurt you when the fight starts.",ท่านหลบไปก่อนเถิด จะได้ไม่โดนลูกหลงเอา
+M2221-0_7_3,Reckless fool,บ้าบิ่นจริงๆ
+M2221-0_7_4,Sooner or later I will be killed by you,สักวันข้าต้องตายเพราะเจ้านี่แน่ๆ
+M2221-0_8_1,"{yell}Arrest them, arrest them all, don't let anyone escape!",{yell}จับมัน จับพวกมันให้หมด อย่าให้ใครหนีไปได้!
+M2221-0_9_1,"Good man, spare my life, I was blinded by lard, I shouldn't have made enemies with you two!",ท่านพ่อพระ ได้โปรดไว้ชีวิตข้าน้อยด้วย ข้าเพียงดวงตามืดบอดเพราะความโลภ ข้าไม่ได้ต้องการมีเรื่องกับพวกท่านเลย!
+M2221-0_9_2,It's better to...,มันจะดีกว่านี้ถ้า...
+M2221-0_9_3,"Gentlemen, can you give me some face?",ท่านสุภาพบุรุษทั้งหลาย ไว้หน้าข้าหน่อยได้ไหม?
+M2221-0_9_4,"This is a misunderstanding, let's have a drink and cool down.",นี่คงเป็นเพียงการเข้าใจผิด มาดื่มให้ใจเย็นกันเถอะ
+M2221-0_9_5,Who is this lady...?,สตรีผู้นี้เป็นใครกัน...?
+M2221-0_9_6,"I'm, uh, Haitang Qiu, the innkeeper of this inn.",ข้า เอ่อ ไห่ถังฉิว เจ้าของโรงเตี๊ยมแห่งนี้
+M2221-0_9_7,"Yes, yes, misunderstanding.",ใช่ ใช่ มันเป็นเพียงการเข้าใจผิดแค่นั้น
+M2221-0_9_8,"Innkeeper, serve the wine, I'll apologize to the two heroes!",เถ้าแก่เนี้ย เอาสุราออกมา ข้าต้องขออภัยท่านผู้กล้าสองท่านนี้!
+M2221-0_9_9,Here comes the good wine~,สุราดีๆมาแล้ว~
+M2221-0_9_10,"I respect you two heroes, we don't fight, don't know each other, if you need my help in the future, just say it.",ข้าขอคารวะท่านผู้กล้าทั้งสอง เรามิเคยได้สู้รบกันมาก่อน และไม่รู้จักกันมาก่อน แต่หากท่านต้องการให้ข้าช่วยอะไรในภายภาคหน้า กรุณาบอกข้าได้เลย
+M2221-0_9_11,I'm not interested in having relations with the court.,ข้าไม่อยากยุ่งกับพวกทางการ
+M2221-0_9_12,"No problem, no problem. I still have military affairs to deal with, two heroes, we will meet again in the future.",ไม่มีปัญหาขอรับ ไม่มีปัญหาขอรับ ข้ายังมีธุระทางการทหารที่ต้องไปดูแล ท่านผู้กล้าทั้งสองรักษาตัวขอรับ
+M2221-0_9_13,"Thank you for your righteous action, I'm not feeling well, I'll go back to my room to rest.",ขอบคุณสำหรับการกระทำอันชอบธรรมของท่านด้วย ข้ารู้สึกไม่ดี ขอตัวกลับห้องพักก่อน
+M2221-0_9_14,"Please feel free to do as you wish, hero.",ตามสบาย ท่านจอมยุทธ
+M2221-0_9_15,"Phew, finally got rid of these army riffraff.",เฮ้อ ในที่สุดก็ไล่ไอ้พวกกองทัพขอทานนี่ไปได้
+M2221-0_9_16,"Old Hunchback, quickly close the shop door, there's going to be a black sandstorm on the Horse.",ตาแก่หลังค่อม  รีบไปปิดประตูร้านซะ  เดี๋ยวพายุทรายดำจะมาแล้ว
+M2221-0_9_17,"Little Lame, hurry back to the kitchen to cook, don't let the guests go hungry.",ไอ้ขาเป๋ รีบกลับเข้าครัวเลยไป อย่าให้แขกรอจนหิวสิ
+M2221-0_9_18,Yes!,ขอรับ!
+M2221-0_9_19,Okay.,ได้ๆ
+M2221-0_9_20,(Closes the shop door tightly),(ปิดประตูแน่น)
 M2221-0_10_1,He's asking for it! Take him down and lock him up in the jail to teach him a lesson.
-M2221-0_10_2,"Gentlemen, can you give me some face?"
+M2221-0_10_2,"Gentlemen, can you give me some face?",ท่านสุภาพบุรุษทั้งหลาย ไว้หน้าข้าหน่อยได้ไหม?
 M2221-0_10_3,Who are you to ask us to give you face?
 M2221-0_10_4,"You little rascal, you really haven't seen the world, she is the innkeeper of this Chang'an Inn, Haitang Qiu."
 M2221-0_10_5,"Let's all have a drink, gentlemen, let's cool down."
@@ -8391,32 +8391,32 @@ M2221-0_10_10,"If you knew you were taking guests away from the shop, it would b
 M2221-0_10_11,"Forget it, this general doesn't want to provoke the people of the Holy Fire Sect."
 M2221-0_10_12,"Kid, you're lucky. Dismiss, return to camp!"
 M2221-0_10_13,"Thank you for your righteous action, I'm not feeling well, I'll go back to my room to rest."
-M2221-0_10_14,"Phew, finally got rid of these army riffraff."
-M2221-0_10_15,"Old Hunchback, quickly close the shop door, there's going to be a black sandstorm on the Horse."
-M2221-0_10_16,"Little Lame, hurry back to the kitchen to cook, don't let the guests go hungry."
-M2221-0_10_17,Yes!
-M2221-0_10_18,Okay.
-M2221-0_10_19,(Closes the shop door tightly)
+M2221-0_10_14,"Phew, finally got rid of these army riffraff.",เฮ้อ ในที่สุดก็ไล่ไอ้พวกกองทัพขอทานนี่ไปได้
+M2221-0_10_15,"Old Hunchback, quickly close the shop door, there's going to be a black sandstorm on the Horse.",ตาแก่หลังค่อม  รีบไปปิดประตูร้านซะ  เดี๋ยวพายุทรายดำจะมาแล้ว
+M2221-0_10_16,"Little Lame, hurry back to the kitchen to cook, don't let the guests go hungry.",ไอ้ขาเป๋ รีบกลับเข้าครัวเลยไป อย่าให้แขกรอจนหิวสิ
+M2221-0_10_17,Yes!,ขอรับ!
+M2221-0_10_18,Okay.,ได้ๆ
+M2221-0_10_19,(Closes the shop door tightly),(ปิดประตูแน่น)
 M2221-0_11_1,"Spare me, hero, I was blinded by lard, I shouldn't have been your enemy!"
 M2221-0_11_2,It's better to...
 M2221-0_11_3,"Sir, could you give me a break?"
-M2221-0_11_4,"This is all a misunderstanding, let's all have a drink and cool down."
-M2221-0_11_5,Who is this lady...?
-M2221-0_11_6,"I'm, uh, Haitang Qiu, the innkeeper of this inn."
-M2221-0_11_7,"Yes, yes, misunderstanding."
-M2221-0_11_8,"Innkeeper, bring up the wine, I need to apologize to this hero!"
-M2221-0_11_9,Here comes the good wine~
-M2221-0_11_10,"I respect you, hero, we don't fight, don't know each other, if you need my help in the future, just say it."
-M2221-0_11_11,I'm not interested in having relations with the court.
-M2221-0_11_12,"No problem, no problem. I still have military affairs to deal with, hero, we will meet again in the future."
-M2221-0_11_13,"I'm not feeling well, I'll go back to my room to rest."
-M2221-0_11_14,"Please feel free to do as you wish, sir."
-M2221-0_11_15,"Phew, finally got rid of these army riffraff."
-M2221-0_11_16,"Old Hunchback, quickly close the shop door, there's going to be a black sandstorm on the Horse."
-M2221-0_11_17,"Little Lame, hurry back to the kitchen to cook, don't let the guests go hungry."
-M2221-0_11_18,Yes!
-M2221-0_11_19,Okay.
-M2221-0_11_20,(Closes the shop door tightly)
+M2221-0_11_4,"This is all a misunderstanding, let's all have a drink and cool down.",นี่คงเป็นเพียงการเข้าใจผิด มาดื่มให้ใจเย็นกันเถอะ
+M2221-0_11_5,Who is this lady...?,สตรีผู้นี้เป็นใครกัน...?
+M2221-0_11_6,"I'm, uh, Haitang Qiu, the innkeeper of this inn.",ข้า เอ่อ ไห่ถังฉิว เจ้าของโรงเตี๊ยมแห่งนี้
+M2221-0_11_7,"Yes, yes, misunderstanding.",ใช่ ใช่ มันเป็นเพียงการเข้าใจผิดแค่นั้น
+M2221-0_11_8,"Innkeeper, bring up the wine, I need to apologize to this hero!",เถ้าแก่เนี้ย เอาสุราออกมา ข้าต้องขออภัยท่านผู้กล้าสองท่านนี้!
+M2221-0_11_9,Here comes the good wine~,สุราดีๆมาแล้ว~
+M2221-0_11_10,"I respect you, hero, we don't fight, don't know each other, if you need my help in the future, just say it.",ข้าขอคารวะท่านผู้กล้าทั้งสอง เรามิเคยได้สู้รบกันมาก่อน และไม่รู้จักกันมาก่อน แต่หากท่านต้องการให้ข้าช่วยอะไรในภายภาคหน้า กรุณาบอกข้าได้เลย
+M2221-0_11_11,I'm not interested in having relations with the court.,ข้าไม่อยากยุ่งกับพวกทางการ
+M2221-0_11_12,"No problem, no problem. I still have military affairs to deal with, hero, we will meet again in the future.",ไม่มีปัญหาขอรับ ไม่มีปัญหาขอรับ ข้ายังมีธุระทางการทหารที่ต้องไปดูแล ท่านผู้กล้าทั้งสองรักษาตัวขอรับ
+M2221-0_11_13,"I'm not feeling well, I'll go back to my room to rest.",ขอบคุณสำหรับการกระทำอันชอบธรรมของท่านด้วย ข้ารู้สึกไม่ดี ขอตัวกลับห้องพักก่อน
+M2221-0_11_14,"Please feel free to do as you wish, sir.",ตามสบาย ท่านจอมยุทธ
+M2221-0_11_15,"Phew, finally got rid of these army riffraff.",เฮ้อ ในที่สุดก็ไล่ไอ้พวกกองทัพขอทานนี่ไปได้
+M2221-0_11_16,"Old Hunchback, quickly close the shop door, there's going to be a black sandstorm on the Horse.",ตาแก่หลังค่อม  รีบไปปิดประตูร้านซะ  เดี๋ยวพายุทรายดำจะมาแล้ว
+M2221-0_11_17,"Little Lame, hurry back to the kitchen to cook, don't let the guests go hungry.",ไอ้ขาเป๋ รีบกลับเข้าครัวเลยไป อย่าให้แขกรอจนหิวสิ
+M2221-0_11_18,Yes!,ขอรับ!
+M2221-0_11_19,Okay.,ได้ๆ
+M2221-0_11_20,(Closes the shop door tightly),(ปิดประตูแน่น)
 M2221-8_talking,Dice
 M2221-8_1_1,"Get out, I'm not in the mood right now."
 M2221-8_2_1,"You look like a newbie to dice, do you want me to explain the rules to you, so you don't lose everything."
@@ -8457,21 +8457,21 @@ M2228-0_5_1,"Dare to fight with me, without weighing your own strength, you just
 M2228-1_name,Running errands to deliver meals
 M2228-1_talking,Deliver meals
 M2228-1_log_1,Deliver meals to Ren Zhongheng and the guests on the second floor.
-M2228-1_1_1,"You're the only one in the kitchen, and now there are so many guests, can you handle it all by yourself?"
-M2228-1_1_2,"I'm used to it, it's not busy for more than a few times a year."
-M2228-1_1_3,"But the guests this time are all unusual, none of them are easy to provoke, I don't want to cause trouble for the Innkeeper, so I have to work day and night."
-M2228-1_1_4,"But if the cooked food is not delivered quickly, I'm afraid these gentlemen will make trouble; and I really can't get away for a while, I'm just worrying about this."
-M2228-1_1_5,"What's the difficulty in this, I'll help you deliver it."
-M2228-1_1_6,"You are a distinguished guest of the inn, how can I bother you with this errand."
-M2228-1_1_7,"Anyway, there's nothing to do right now, it's better to find something to do to pass the time."
-M2228-1_1_8,Thank you very much.
-M2228-1_1_9,"So, please help me deliver the meals to the Xuanwu Envoy on the first floor and the guests on the second floor."
-M2228-1_2_1,"It seems that the meals are not all delivered yet, could you please run another trip."
-M2228-1_3_1,"You've worked hard, this is the meal specially reserved for you."
+M2228-1_1_1,"You're the only one in the kitchen, and now there are so many guests, can you handle it all by yourself?",มีเจ้าคนเดียวในครัว แต่แขกมากมายขนาดนี้ เจ้าจะรับมือคนเดียวไหวรึ?
+M2228-1_1_2,"I'm used to it, it's not busy for more than a few times a year.",ข้าชินแล้วท่าน แถมเวลายุ่งๆก็แค่ไม่กี่ครั้งในรอบปีเท่านั้น
+M2228-1_1_3,"But the guests this time are all unusual, none of them are easy to provoke, I don't want to cause trouble for the Innkeeper, so I have to work day and night.",แต่แขกในคราวนี้ไม่ธรรมดาเลย พวกนั้นของขึ้นง่ายมาก ข้าไม่อยากทำให้ท่านเถ้าแก่เนี้ยมีปัญหา ข้าเลยต้องทำงานหามรุ่งหามค่ำ
+M2228-1_1_4,"But if the cooked food is not delivered quickly, I'm afraid these gentlemen will make trouble; and I really can't get away for a while, I'm just worrying about this.",แต่หากอาหารที่ปรุงเสร็จไม่รีบยกไปให้แขกโดยเร็ว ข้ากลัวว่าพวกคุณท่านเหล่านี้จะก่อปัญหาได้ ข้าคงโดนหาเรื่องสักพักหนึ่งแน่ๆ ข้าเลยกังวลอยู่
+M2228-1_1_5,"What's the difficulty in this, I'll help you deliver it.",จะไปยากอะไร งั้นข้าช่วยเจ้าแล้วกัน
+M2228-1_1_6,"You are a distinguished guest of the inn, how can I bother you with this errand.",ท่านเป็นแค่ผู้มีเกียรติ ข้าจะไปรบกวนท่านมาทำเรื่องเหนื่อยหน่ายเช่นนี้ได้ยังไง
+M2228-1_1_7,"Anyway, there's nothing to do right now, it's better to find something to do to pass the time.",ยังไงข้าก็ไม่มีอะไรทำอยู่แล้ว คิดซะว่าหาอะไรทำฆ่าเวลาแล้วกัน
+M2228-1_1_8,Thank you very much.,ขอบคุณท่านมากจริงๆ
+M2228-1_1_9,"So, please help me deliver the meals to the Xuanwu Envoy on the first floor and the guests on the second floor.",ได้โปรดกรุณานำอาหารเหล่านี้ยกไปให้ท่านทูตเต่าดำและแขกบนชั้นสองด้วยเถิด
+M2228-1_2_1,"It seems that the meals are not all delivered yet, could you please run another trip.",ดูเหมือนอาหารยังไม่ได้ยกไปให้แขกนะ ขอรบกวนท่านแขกไปอีกสักเที่ยวเถิด
+M2228-1_3_1,"You've worked hard, this is the meal specially reserved for you.",ท่านทำงานหนักขนาดนี้ ข้าเตรียมอาหารมื้อพิเศษไว้ให้ท่านแล้ว
 Def-2211_1_1,"This is the headquarters of the Cold Skin Gang, outsiders are not allowed to enter!"
 Def-2211_op_1_dialog,(What should I do if I want to get in?),(ข้าจะทำอย่างไรดี?)
-Def-2211_op_1_1,Force my way in! <color=#c44b0e>(Start the fight immediately)</color>
-Def-2211_op_1_2,Please state your name.
+Def-2211_op_1_1,Force my way in! <color=#c44b0e>(Start the fight immediately)</color>,ฝ่าเข้าไป <color=#c44b0e>(เริ่มการต่อสู้ทันที)</color>
+Def-2211_op_1_2,Please state your name.,กรุณาบอกชื่อของเจ้า
 Def-2211_op_1_3,Delivering a letter on behalf of the Holy Fire Sect.
 Def-2211_op_1_4,Turn around and run away,หันกลับแล้วจากไป
 Def-2211_op_1_5,Bribe the Guard.<color=#c44b0e>(Scrap silver10两)</color>
@@ -8486,8 +8486,8 @@ Def-2211_8_1,"Hmph, a dog of the Holy Fire Sect, get in!"
 Def-2211_9_1,"Bah, do you think we're like those greedy guys from the Holy Fire Sect? Keep your dirty money!"
 Def-2230_1_1,"This is the headquarters of the Holy Fire Sect, how dare you break in at will!"
 Def-2230_op_1_dialog,(What should I do if I want to get in?),(ข้าจะทำอย่างไรดี?)
-Def-2230_op_1_1,Force my way in! <color=#c44b0e>(Start the fight immediately)</color>
-Def-2230_op_1_2,Please state your name.
+Def-2230_op_1_1,Force my way in! <color=#c44b0e>(Start the fight immediately)</color>,ฝ่าเข้าไป <color=#c44b0e>(เริ่มการต่อสู้ทันที)</color>
+Def-2230_op_1_2,Please state your name.,กรุณาบอกชื่อของเจ้า
 Def-2230_op_1_3,Turn around and run away,หันกลับแล้วจากไป
 Def-2230_op_1_4,Bribe the Guard.<color=#c44b0e>(Scrap silver10两)</color>
 Def-2230_2_1,You don't know how to live!

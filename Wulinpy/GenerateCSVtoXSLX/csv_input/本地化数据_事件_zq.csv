@@ -2221,8 +2221,8 @@ M2221-1_overview2,"The black sandstorm has ended, you can leave the inn now."
 M2221-3_NpcName,Rough voice
 M2221-4_option1_1,Tell the truth!
 M2221-4_option1_2,Make up a story.
-M2221-6_option1_1,"Start the contest.<color=#097a76>(Stamina10, protagonist solo)</color>"
-M2221-6_option1_2,I'm busy now.
+M2221-6_option1_1,"Start the contest.<color=#097a76>(Stamina10, protagonist solo)</color>",เริ่มประลอง <color=#097a76>10 แรงกาย ตัวเอกสู้คนเดียว)</color> 
+M2221-6_option1_2,I'm busy now.,ข้ายุ่งอยู่
 M2221-7_name,Please heal the injury
 M2221-7_overview1,Find someone with a medical skill of 100 to heal Old Hunchback's injury.
 M2221-11_option1_1,Inquire about the news.<color=#097a76>(15000Coin)</color>
@@ -2271,7 +2271,7 @@ R10105-3_name,Investigate Flame Sand Cave
 R10105-3_overview1,Enter the Flame Sand Cave to investigate.
 R10105-3_overview2,You can report the situation of Flame Sand Cave to Feng Xuanji.
 R10105-4_name,Rush to the rescue of Chang'an Inn
-R10105-4_overview1,Go to Chang'an Inn for rescue.
+R10105-4_overview1,Go to Chang'an Inn for rescue.,ไปยังโรงเตี๊ยมฉางอันเพื่อช่วยเหลือ
 R10105-4_overview2,Return to the Holy Fire Sect to report to Feng Xuanji.,กลับนิกายไฟศักดิ์สิทธิ์รายงานต่อเฟิงเสวียนจี
 R10105-4_option1_1,Charge in!<color=#c44b0e>(Immediate battle)</color>
 R10105-4_option1_2,Come back later.
