@@ -444,4 +444,4 @@ CharPropName_家园实战经验获得增加,Gain EXP,ได้รับค่า
 CharPropName_家园江湖历练获得增加,Gain Jianghu Knowledge,ได้รับค่าประสบการณ์ยุทธ
 CharacterPropModify_AllTeamUp,The {1} of the whole team has increased by {2} points,{1} ของทั้งทีมเพิ่มขึ้น {2} แต้ม
 CharacterPropModify_AllTeamDown,The {1} of the whole team has decreased by {2} points,{1} ของทั้งทีมลดลง {2} แต้ม
-CharPropName_队伍暴击格挡反击连击提升,"Critical, Parry, Counter, Combo"
+CharPropName_队伍暴击格挡反击连击提升,"Critical, Parry, Counter, Combo","คริติคอล, ปัดป้อง, สวนกลับ, โจมตีต่อเนื่อง"
