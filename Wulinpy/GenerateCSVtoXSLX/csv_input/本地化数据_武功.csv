@@ -144,7 +144,7 @@ KunfuName_动物猛击,Strong Attack,โจมตีหนัก
 KunfuName_动物啮咬,Chew,กัด
 KunfuName_动物毒刺,Poisonous Vine,เหล็กในพิษ
 KunfuName_动物吐息,Earth Breath,ลมหายใจสัตว์
-KunfuName_动物喷火,Flame Breath,ลมหายใจเปลวไฟ
+KunfuName_动物喷火,Flame Breath,ลมหายใจเพลิง
 KunfuName_动物狼捕食,Finishing Strike,จู่โจมถึงตาย
 KunfuName_动物碎骨击,Finishing Strike,จู่โจมถึงตาย
 KunfuName_动物千斤顶,Finishing Strike,จู่โจมถึงตาย
@@ -1858,7 +1858,7 @@ KunfuName_先礼后兵,Diplomacy Before Violence,ไม้นวมก่อน�
 KunfuName_钗头凤,Phoenix Hairpin,ปิ่นปักผมวิหคเพลิงอมตะ
 KunfuName_羽吹雪,Feather and blow snow,ขนนกพัดหิมะโปรย
 KunfuName_流光溢彩,Prism Light,ลำแสงหลากสี
-KunfuName_圣火耀日,Divine Flame Radiance,รังสีเปลวไฟศักดิ์สิทธิ์
+KunfuName_圣火耀日,Divine Flame Radiance,แสงเพลิงสุริยะศักดิ์สิทธิ์
 KunfuName_风云一剑,Sword of Storm,พายุกระบี่
 KunfuName_惊天骇地,Devastating Strike,จู่โจมล้างผลาญ
 KunfuName_一刀破空,Air Breaking Blade,ดาบผ่านภา
@@ -1872,9 +1872,9 @@ KunfuName_鸳俦凤侣,Love Birds Attack,คู่รักโจมตี
 KunfuName_情绕天涯,Everlasting Love,รักนิรันดร์
 KunfuName_碧海青天,Green Sea Blue Sky,ทะเลสีฟ้าท้องฟ้าสีคราม
 KunfuName_斩天刀法,Heaven Cutting Blade Technique,เพลงดาบผ่าสวรรค์
-KunfuName_分光流星刺,Luminary Meteor Strike,หนามดาวตกกระจายแสง
+KunfuName_分光流星刺,Luminary Meteor Strike,พายุดาวตกกระจายแสง
 KunfuName_火蟾诀,Flame Toad Technique,พลังคางคกอัคคี
-KunfuName_圣火神功,Holy Fire Divine Skill,พลังไฟศักดิ์สิทธิ์
+KunfuName_圣火神功,Holy Fire Divine Skill,พลังเทพไฟศักดิ์สิทธิ์
 KunfuName_吠陀宝经,Vedas Scripture,คัมภีร์พระเวท
 KunfuName_霸刀诀,Tyrant Blade Technique,วิชาดาบทรราช
 先天属性_斩天刀法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>พละกำลัง</color>

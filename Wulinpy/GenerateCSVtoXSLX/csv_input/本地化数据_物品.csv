@@ -4370,7 +4370,7 @@ ItemName_龙胆,Dragon Courage,หอกเจตจำนงมังกร
 ItemName_碧玉杖,Jade Staff,พลองหยก
 ItemName_镇岳,Mountain Suppressor,กระบองเจิ้นเยว่
 ItemName_伪·火焰令,Fake·Flame Seal,ป้ายอัคคี (ปลอม)
-ItemName_血玲珑吊坠,Blood Jewel Pendant,จี้อัญมณีโลหิต
+ItemName_血玲珑吊坠,Blood Jewel Pendant,จี้อัญมณีเลือด
 ItemName_生锈爪套,Rusty Claw,กรงเล็บขึ้นสนิม
 ItemName_精铁爪刀,Steel Katar,กาตาร์เหล็กกล้า
 ItemName_精刚爪套,Steel Claw,กรงเล็บเหล็ก
@@ -4402,29 +4402,29 @@ ItemName_神牛宝图,Divine Ox Treasure Map,แผนที่สมบัต�
 ItemName_烤狼肉,Roasted Wolf Meat,เนื้อหมาป่าย่าง
 ItemName_烤火蜥串,Salamander Meat Skewer,เนื้อซาลาแมนเดอร์ย่างเสียบไม้
 ItemName_七窍归元丹,Seven Apertures Restoration Pill,โอสถเจ็ดฟื้นคืนพลัง
-ItemName_血玲珑,Blood Jewel,อัญมณีโลหิต
-ItemName_金石汇宗,Rare Metal Collection,ตำราสะสมโลหะหายาก
-ItemName_农林辑要,Farming Guide,คู่มือการทำฟาร์ม
-ItemName_本草图鉴,Herb Collection,ตำราภาพสมุนไพร
-ItemName_渔经,Book of Fish,ตำราสารานุกรมปลา
-ItemName_毒虫名录,Poison Insects Guide,ตำรารายชื่อสัตว์มีพิษ
-ItemName_百兵图志,Book of Weapons,ตำราแห่งอาวุธ
+ItemName_血玲珑,Blood Jewel,อัญมณีเลือด
+ItemName_金石汇宗,Rare Metal Collection,คัมภีร์แร่หินทองคำ
+ItemName_农林辑要,Farming Guide,คัมภีร์พรรณไม้ป่า
+ItemName_本草图鉴,Herb Collection,ตำราภาพพืชสมุนไพร
+ItemName_渔经,Book of Fish,คัมภีร์สารานุกรมสัตว์น้ำ
+ItemName_毒虫名录,Poison Insects Guide,คัมภีร์แมลงพิษ
+ItemName_百兵图志,Book of Weapons,คัมภีร์ศาสตราวุธ
 ItemName_衣甲广记,Armors Collection,ตำราภาพชุดเกราะ
-ItemName_食珍录,Cuisine Guide,ตำราคู่มืออาหาร
-ItemName_神农药经,Shennong Medicine Book,หนังสือยาเสินหนง
-ItemName_天工开物,Book of Machinery,ตำราเครื่องจักรกลไก
-ItemName_百兽图录 ,Beasts Collection ,ตำรารายชื่อสัตว์ร้าย
-ItemName_武经总要,Book of Martial Arts,ตำราแห่งวรยุทธ์
+ItemName_食珍录,Cuisine Guide,ตำราอาหารเลิศรส
+ItemName_神农药经,Shennong Medicine Book,คัมภีร์โอสถเสินหนง
+ItemName_天工开物,Book of Machinery,คัมภีร์สิ่งประดิษฐ์ธรรมชาติสร้าง
+ItemName_百兽图录 ,Beasts Collection ,ตำรา 100 สัตว์ร้าย
+ItemName_武经总要,Book of Martial Arts,คัมภีร์รวมยุทธ์
 ItemName_火蜥肉,Salamander's Meat,เนื้อซาลาแมนเดอร์
 ItemName_硝石,Saltpeter,ดินประสิว
 ItemName_火硫磺,Fire Sulfur,กำมะถัน
 ItemName_斩天刀法,Heaven Cutting Blade Technique,เพลงดาบผ่าสวรรค์
-ItemName_分光流星刺,Luminary Meteor Strike,หนามดาวตกกระจายแสง
+ItemName_分光流星刺,Luminary Meteor Strike,พายุดาวตกกระจายแสง
 ItemName_火蟾诀,Flame Toad Technique,พลังคางคกอัคคี
-ItemName_圣火神功,Holy Fire Divine Skill,พลังไฟศักดิ์สิทธิ์
+ItemName_圣火神功,Holy Fire Divine Skill,พลังเทพไฟศักดิ์สิทธิ์
 ItemName_吠陀宝经,Vedas Scripture,คัมภีร์พระเวท
 ItemName_霸刀诀,Tyrant Blade Technique,วิชาดาบทรราช
-ItemName_血玲珑吊坠图纸,Blueprint of Blood Jewel Pendant,แบบแปลน - จี้อัญมณีโลหิต
+ItemName_血玲珑吊坠图纸,Blueprint of Blood Jewel Pendant,แบบแปลน - จี้อัญมณีเลือด
 ItemName_霹雳弹图纸,Blueprint of Thunder bullet,แบบแปลน - ระเบิดอัสนี
 ItemName_震天雷图纸,Thunder Cracker Blueprint,แบบแปลน - ประทัดอัสนี
 ItemName_霹雳雷火弹图纸,Blueprint of Exploding thunder bullet,แบบแปลน - ระเบิดอัสนีบาต
@@ -4435,7 +4435,7 @@ ItemInfo_龙胆,"A long spear that was once used by a brave general, still sharp
 ItemInfo_碧玉杖,"A long stick made of unknown material, with a jade-like luster, hence the name. It was the weapon used by Tang Tai Jun in his youth.",พลองยาวที่ทำจากวัสดุที่ไม่ทราบชนิด มีความแวววาวเหมือนหยก จึงเป็นที่มาของชื่อ เป็นอาวุธที่ถังไท่จุนใช้เมื่อเขายังเด็ก
 ItemInfo_镇岳,"The weapon held by Tang Tai Jun, also a symbol of his identity. It's very heavy, and it's hard to imagine how Tang Tai Jun used it.",อาวุธที่ถือครองโดยถังไท่จุน ถือก็เป็นสัญลักษณ์ของตัวตนของเขาเช่นกัน มันหนักมากและยากที่จะจินตนาการว่าถังไท่จุน ใช้มันอย่างไร
 ItemInfo_伪·火焰令,"A token of the Holy Fire Sect believers, used to prove the identity of the Holy Fire Sect believers.",สัญลักษณ์ของผู้ศรัทธานิกายไฟศักดิ์สิทธิ์ ใช้เพื่อพิสูจน์ตัวตนของผู้ศรัทธานิกายไฟศักดิ์สิทธิ์
-ItemInfo_血玲珑吊坠,A pendant made of Blood Jewel.,จี้อัญมณีที่สร้างขึ้นจากหินอัญมณีโลหิต
+ItemInfo_血玲珑吊坠,A pendant made of Blood Jewel.,จี้อัญมณีที่สร้างขึ้นจากหินอัญมณีเลือด
 ItemInfo_生锈爪套,"A rusty claw cover made of steel, barely usable due to long-term use and lack of maintenance.",กรงเล็บขึ้นสนิมที่หลอมขึ้นจากเหล็ก เนื่องจากการใช้งานเป็นเวลานานและขาดการบำรุงรักษา ซึ่งดีกว่าไม่มีอะไรเลย
 ItemInfo_精铁爪刀,"A claw cover with a blade made of refined iron, looks very fierce, perfect for pets who like to fight.",กรงเล็บใบมีดทำจากเหล็กเนื้อดี ดูดุร้ายมาก เหมาะสำหรับสัตว์เลี้ยงที่ชื่นชอบการต่อสู้
 ItemInfo_精刚爪套,"A claw cover made of steel, with a spike designed on it, even experienced fighters can easily fall for it.",กรงเล็บที่ทำจากเหล็กซึ่งมีหนามแหลมที่ออกแบบมา แม้แต่นักสู้ที่มีประสบการณ์ก็สามารถล้มลงได้อย่างง่ายดาย
@@ -4467,13 +4467,13 @@ ItemInfo_神牛宝图,"The sewn together Divine Ox Treasure Map, which records t
 ItemInfo_烤狼肉,<#d09a09>Usage: Take</color>,<#d09a09>การใช้งาน: กิน</color>
 ItemInfo_烤火蜥串,<#d09a09>Usage: Take</color> (Lasts for 1 shichen),<#d09a09>การใช้งาน: กิน</color> (คงอยู่ 1 ชั่วยาม)
 ItemInfo_七窍归元丹,A precious pill used to retrain teammate's Passive.,ยาล้ำค่าที่ใช้ฝึกฝนพลังแฝง ของสหายร่วมทีมใหม่อีกครั้ง
-ItemInfo_血玲珑,"<#d09a09>Usage: Take</color>\nBlood-colored ore mined from Flame Sand Cave, greatly enhances the learning of martial arts.","<#d09a09>การใช้งาน: กิน</color>\nแร่อัญมณีโลหิตที่ขุดได้จากถ้ำทรายอัคคี ช่วยเพิ่มพูนการเรียนรู้วรยุทธ์อย่างมาก"
+ItemInfo_血玲珑,"<#d09a09>Usage: Take</color>\nBlood-colored ore mined from Flame Sand Cave, greatly enhances the learning of martial arts.","<#d09a09>การใช้งาน: กิน</color>\nแร่อัญมณีสีเลือดที่ขุดได้จากถ้ำทรายอัคคี ช่วยเพิ่มพูนการเรียนรู้วรยุทธ์อย่างมาก"
 ItemInfo_金石汇宗,"<#d09a09>Usage: Consume by reading</color>\nA book recording the mining experience of the ancients.","<#d09a09>การใช้งาน: ใช้ในการอ่าน</color>\nตำราบันทึกประสบการณ์การขุดแร่ของคนโบราณ"
 ItemInfo_农林辑要,"<#d09a09>Usage: Consume by reading</color>\nA book recording the woodcutting experience of the ancients.","<#d09a09>การใช้งาน: ใช้ในการอ่าน</color>\nตำราบันทึกประสบการณ์การตัดไม้ของคนโบราณ"
 ItemInfo_本草图鉴,"<#d09a09>Usage: Consume by reading</color>\nA book recording the gathering experience of the ancients.","<#d09a09>การใช้งาน: ใช้ในการอ่าน</color>\nตำราบันทึกประสบการณ์การเก็บเกี่ยวของคนโบราณ"
 ItemInfo_渔经,"<#d09a09>Usage: Consume by reading</color>\nA book recording the fishing experience of the ancients.","<#d09a09>การใช้งาน: ใช้ในการอ่าน</color>\nตำราบันทึกประสบการณ์การตกปลาของคนโบราณ"
 ItemInfo_毒虫名录,"<#d09a09>Purpose: Consumed upon reading</color>\nA book recording the ancient people's experience in bug catching.","<#d09a09>การใช้งาน: ใช้ในการอ่าน</color>\nตำราบันทึกประสบการณ์การจับแมลงของคนโบราณ"
-ItemInfo_百兵图志,"<#d09a09>Purpose: Consumed upon reading</color>\nA book recording the ancient people's experience in crafting.","<#d09a09>การใช้งาน: ใช้ในการอ่าน</color>\nตำราบันทึกประสบการณ์การสร้างสิ่งของของคนโบราณ"
+ItemInfo_百兵图志,"<#d09a09>Purpose: Consumed upon reading</color>\nA book recording the ancient people's experience in crafting.","<#d09a09>การใช้งาน: ใช้ในการอ่าน</color>\nตำราบันทึกประสบการณ์การหลอมสร้างอาวุธของคนโบราณ"
 ItemInfo_衣甲广记,"<#d09a09>Purpose: Consumed upon reading</color>\nA book recording the ancient people's experience in tailoring.","<#d09a09>การใช้งาน: ใช้ในการอ่าน</color>\nตำราบันทึกประสบการณ์การตัดเย็บของคนโบราณ"
 ItemInfo_食珍录,"<#d09a09>Purpose: Consumed upon reading</color>\nA book recording the ancient people's experience in cooking.","<#d09a09>การใช้งาน: ใช้ในการอ่าน</color>\nตำราบันทึกประสบการณ์การทำอาหารของคนโบราณ"
 ItemInfo_神农药经,"<#d09a09>Purpose: Consumed upon reading</color>\nA book recording the ancient people's experience in medicine making.","<#d09a09>การใช้งาน: ใช้ในการอ่าน</color>\nตำราบันทึกประสบการณ์การปรุงยาของคนโบราณ"

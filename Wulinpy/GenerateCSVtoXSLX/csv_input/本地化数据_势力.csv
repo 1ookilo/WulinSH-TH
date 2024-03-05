@@ -311,7 +311,7 @@ FactionName_M20100-2损道人替身,
 FactionName_R10003-5恶乞丐替身,
 FactionInfo_新九流门,"The Nine Factions Sect, which you have rebuilt by eradicating the old wounds, how will it develop in the future? Will it do good and help the world, or will it do evil and harm one side? All these are in your thoughts.",นิกายเก้าฝ่ายที่เจ้าสร้างขึ้นใหม่โดยการกำจัดแผลเก่าจะเป็นไปอย่างไรในอนาคต? จะทำดีช่วยโลกหรือจะทำเรื่องชั่วร้ายฝ่ายเดียว? ทั้งหมดนี้ล้วนอยู่ในเงื้อมมือของเจ้า
 FactionName_School-2010-2老婆婆演员,
-FactionType_4,Other
+FactionType_4,Other,อื่นๆ
 FactionName_凤璇玑个人势力,
 FactionName_燕罗冲个人势力,
 FactionName_炎城,Flame City,เมืองอัคคี
@@ -334,8 +334,8 @@ FactionName_火蟾蜍,
 FactionName_雪山居民,
 FactionName_共祭养的公鸡,
 FactionName_梨花羡,
-FactionInfo_炎城,"Originally the camp of the Cold Skin Gang, after years of development and renovation, it has now become one of the largest and most important commercial hubs on the important trade routes between the Central Plains and the Western countries, and is even known as the gathering place of hundreds of merchants."
-FactionInfo_束云寨,"A group of poachers in the southwest, who hunt rare animals and transport them to the Central Plains through special channels in exchange for a large amount of money."
-FactionInfo_本草居,"A clinic established in the southwest by Liu Bencao, a former disciple of the Herbology Sect, aiming to treat as many people as possible who are suffering from poisonous insects and miasma."
-FactionInfo_玉门关,"A major pass in the Zhongzhou Region, beyond the Jade Gate is the endless desert of the northwest region."
-FactionInfo_长安客栈,"An inn located in the northwest desert, it is the only place to stay and supply after leaving the Jade Gate and before entering Flame City. It is well-organized under the management of the young landlady Haitang Qiu."
+FactionInfo_炎城,"Originally the camp of the Cold Skin Gang, after years of development and renovation, it has now become one of the largest and most important commercial hubs on the important trade routes between the Central Plains and the Western countries, and is even known as the gathering place of hundreds of merchants.",เดิมทีเป็นค่ายของพรรคมังสาเหมันต์ หลังจากพัฒนาและปรับปรุงมาหลายปี ปัจจุบันได้กลายเป็นหนึ่งในศูนย์กลางการค้าที่ใหญ่ที่สุด และสำคัญที่สุดบนเส้นทางการค้าที่สำคัญระหว่างจงหยวนและแดนตะวันตก เป็นที่รู้จักในนามสถานที่แห่งรวมตัวของพ่อค้าหลายร้อยคน
+FactionInfo_束云寨,"A group of poachers in the southwest, who hunt rare animals and transport them to the Central Plains through special channels in exchange for a large amount of money.",กลุ่มนักล่าสัตว์ทางตะวันตกเฉียงใต้ ที่ล่าสัตว์หายากและขนส่งพวกมันไปยังจงหยวนผ่านช่องทางพิเศษเพื่อแลกกับเงินจำนวนมาก
+FactionInfo_本草居,"A clinic established in the southwest by Liu Bencao, a former disciple of the Herbology Sect, aiming to treat as many people as possible who are suffering from poisonous insects and miasma.",โรงหมอที่ก่อตั้งขึ้นทางตะวันตกเฉียงใต้โดยหลิวเปิ่นเฉา อดีตศิษย์สำนักพฤกษา โดยมีเป้าหมายที่จะรักษาผู้คนที่กำลังทุกข์ทรมานจากแมลงมีพิษและโรคประจำตัวให้ได้มากที่สุด
+FactionInfo_玉门关,"A major pass in the Zhongzhou Region, beyond the Jade Gate is the endless desert of the northwest region.",เส้นทางสำคัญในภูมิภาคจงโจว เลยจากด่านประตูหยกไปคือทะเลทรายอันไม่มีที่สิ้นสุดของภูมิภาคตะวันตกเฉียงเหนือ
+FactionInfo_长安客栈,"An inn located in the northwest desert, it is the only place to stay and supply after leaving the Jade Gate and before entering Flame City. It is well-organized under the management of the young landlady Haitang Qiu.",โรงเตี๊ยมขนาดเล็กที่ตั้งอยู่ในทะเลทรายทางตะวันตกเฉียงเหนือ เป็นสถานที่แห่งเดียวสำหรับเข้าพักและจัดหาสิ่งของหลังจากออกจากด่านประตูหยกและก่อนเข้าสู่เมืองอัคคี ได้รับการดูแลเป็นอย่างดีภายใต้การบริหารของไห่ถังฉิว สตรีเจ้าของที่

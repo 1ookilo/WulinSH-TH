@@ -4575,37 +4575,37 @@ NPC-2020-7_3_6,"Remember your promise, it's worth our brotherhood."
 BattleFieldInfo_School-2020-6道玄宗传人vs儒圣馆传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2020-6道玄宗传人vs儒圣馆传人,Defeat <#61C3C8>all enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_School-2020-6道玄宗传人vs儒圣馆传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
-BattleFieldInfo_School-2020-6儒圣馆传人vs道玄宗传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_School-2020-6儒圣馆传人vs道玄宗传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2020-6儒圣馆传人vs道玄宗传人,Defeat <#61C3C8>all enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_School-2020-6儒圣馆传人vs道玄宗传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
-BattleFieldInfo_School-2020-6vs道玄宗传人儒圣馆传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_School-2020-6vs道玄宗传人儒圣馆传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2020-6vs道玄宗传人儒圣馆传人,Defeat <#61C3C8>all enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_School-2020-6vs道玄宗传人儒圣馆传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
-BattleFieldInfo_School-2020-6邋遢张vs儒圣馆传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_School-2020-6邋遢张vs儒圣馆传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2020-6邋遢张vs儒圣馆传人,Defeat <#61C3C8>all enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_School-2020-6邋遢张vs儒圣馆传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
-BattleFieldInfo_School-2020-6儒圣馆传人vs邋遢张,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_School-2020-6儒圣馆传人vs邋遢张,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2020-6儒圣馆传人vs邋遢张,Defeat <#61C3C8>all enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_School-2020-6儒圣馆传人vs邋遢张,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
-BattleFieldInfo_School-2020-6vs儒圣馆传人邋遢张,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_School-2020-6vs儒圣馆传人邋遢张,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2020-6vs儒圣馆传人邋遢张,Defeat <#61C3C8>all enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_School-2020-6vs儒圣馆传人邋遢张,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
-BattleFieldInfo_School-2020-6邋遢张vs蔡攸之,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_School-2020-6邋遢张vs蔡攸之,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2020-6邋遢张vs蔡攸之,Defeat <#61C3C8>all enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_School-2020-6邋遢张vs蔡攸之,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
-BattleFieldInfo_School-2020-6蔡攸之vs邋遢张,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_School-2020-6蔡攸之vs邋遢张,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2020-6蔡攸之vs邋遢张,Defeat <#61C3C8>all enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_School-2020-6蔡攸之vs邋遢张,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
-BattleFieldInfo_School-2020-6vs邋遢张蔡攸之,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_School-2020-6vs邋遢张蔡攸之,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2020-6vs邋遢张蔡攸之,Defeat <#61C3C8>all enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_School-2020-6vs邋遢张蔡攸之,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
-BattleFieldInfo_School-2020-6道玄宗传人vs蔡攸之,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_School-2020-6道玄宗传人vs蔡攸之,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2020-6道玄宗传人vs蔡攸之,Defeat <#61C3C8>all enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_School-2020-6道玄宗传人vs蔡攸之,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
-BattleFieldInfo_School-2020-6蔡攸之vs道玄宗传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_School-2020-6蔡攸之vs道玄宗传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2020-6蔡攸之vs道玄宗传人,Defeat <#61C3C8>all enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_School-2020-6蔡攸之vs道玄宗传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
-BattleFieldInfo_School-2020-6vs蔡攸之道玄宗传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_School-2020-6vs蔡攸之道玄宗传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2020-6vs蔡攸之道玄宗传人,Defeat <#61C3C8>all enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_School-2020-6vs蔡攸之道玄宗传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
 School-2020-6_name,Three Sects Demon Suppression,รวมสามสำนักปราบปีศาจ
@@ -5676,40 +5676,40 @@ School-2030-10_37_3,You have obtained the method to enter the Ice Prison from Ci
 School-2030-10_37_4,"Once the Ice Prison is opened, the entrance will automatically close once you enter; it will not reopen until five days later. Do not rush in without full confidence."
 School-2030-10_37_5,"Never let that demon escape, the consequences are unpredictable, remember."
 School-2030-10_38_1,"I will remember your teachings, Master."
-BattleFieldInfo_School-2030-10道玄宗传人vs释法寺传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_School-2030-10道玄宗传人vs释法寺传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2030-10道玄宗传人vs释法寺传人,Defeat <#61C3C8>all enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_School-2030-10道玄宗传人vs释法寺传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
-BattleFieldInfo_School-2030-10释法寺传人vs道玄宗传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_School-2030-10释法寺传人vs道玄宗传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2030-10释法寺传人vs道玄宗传人,Defeat <#61C3C8>all enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_School-2030-10释法寺传人vs道玄宗传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
-BattleFieldInfo_School-2030-10vs道玄宗传人释法寺传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_School-2030-10vs道玄宗传人释法寺传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2030-10vs道玄宗传人释法寺传人,Defeat <#61C3C8>all enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_School-2030-10vs道玄宗传人释法寺传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
-BattleFieldInfo_School-2030-10邋遢张vs释法寺传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_School-2030-10邋遢张vs释法寺传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2030-10邋遢张vs释法寺传人,Defeat <#61C3C8>all enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_School-2030-10邋遢张vs释法寺传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
-BattleFieldInfo_School-2030-10释法寺传人vs邋遢张,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_School-2030-10释法寺传人vs邋遢张,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2030-10释法寺传人vs邋遢张,Defeat <#61C3C8>all enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_School-2030-10释法寺传人vs邋遢张,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
-BattleFieldInfo_School-2030-10vs释法寺传人邋遢张,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_School-2030-10vs释法寺传人邋遢张,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2030-10vs释法寺传人邋遢张,Defeat <#61C3C8>all enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_School-2030-10vs释法寺传人邋遢张,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
-BattleFieldInfo_School-2030-10邋遢张vs癞头癫,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_School-2030-10邋遢张vs癞头癫,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2030-10邋遢张vs癞头癫,Defeat <#61C3C8>all enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_School-2030-10邋遢张vs癞头癫,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
-BattleFieldInfo_School-2030-10癞头癫vs邋遢张,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_School-2030-10癞头癫vs邋遢张,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2030-10癞头癫vs邋遢张,Defeat <#61C3C8>all enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_School-2030-10癞头癫vs邋遢张,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
-BattleFieldInfo_School-2030-10vs邋遢张癞头癫,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_School-2030-10vs邋遢张癞头癫,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2030-10vs邋遢张癞头癫,Defeat <#61C3C8>all enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_School-2030-10vs邋遢张癞头癫,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
-BattleFieldInfo_School-2030-10道玄宗传人vs癞头癫,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_School-2030-10道玄宗传人vs癞头癫,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2030-10道玄宗传人vs癞头癫,Defeat <#61C3C8>all enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_School-2030-10道玄宗传人vs癞头癫,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
-BattleFieldInfo_School-2030-10癞头癫vs道玄宗传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_School-2030-10癞头癫vs道玄宗传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2030-10癞头癫vs道玄宗传人,Defeat <#61C3C8>all enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_School-2030-10癞头癫vs道玄宗传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
-BattleFieldInfo_School-2030-10vs癞头癫道玄宗传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_School-2030-10vs癞头癫道玄宗传人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_School-2030-10vs癞头癫道玄宗传人,Defeat <#61C3C8>all enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_School-2030-10vs癞头癫道玄宗传人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
 School-2030-11_1_1,"Master, something terrible has happened! I failed, Lao Motou has broken free and escaped."
@@ -6566,16 +6566,16 @@ R10099-9-1_6_3,"""How I wish I could have a mansion with thousands of rooms, to 
 R10099-9-1_6_4,"What a great and far-reaching vision, but it has been tarnished by people like Qin Huizhi, who have made the Nine Factions Sect filthy and have long abandoned their original mission and initial heart."
 R10099-9-1_6_5,"Destroy before establishing! From today, the old Nine Factions Sect no longer exists, and the new Nine Factions Sect is born!"
 R10099-9-1_6_6,"I, {PlayerName}, will be the master of this new Nine Factions Sect, and I will continue this unfinished great blueprint!"
-BattleFieldInfo_School-2050劫船,<#61C3C8>All of your team</color> participate in the battle
+BattleFieldInfo_School-2050劫船,<#61C3C8>All of your team</color> participate in the battle,<#61C3C8>พรรคพวกทุกคน</color> เข้าร่วมการต่อสู้
 BattleFieldWin_School-2050劫船,Defeat <#61C3C8>the bodyguards</color>
 BattleFieldFail_School-2050劫船,<#61C3C8>All of us</color> are defeated,<#61C3C8>พวกเราทั้งหมด</color>พ่ายแพ้
-BattleFieldInfo_School-2050-2太白楼战斗,<#61C3C8>All of your team</color> participate in the battle
+BattleFieldInfo_School-2050-2太白楼战斗,<#61C3C8>All of your team</color> participate in the battle,<#61C3C8>พรรคพวกทุกคน</color> เข้าร่วมการต่อสู้
 BattleFieldWin_School-2050-2太白楼战斗,Defeat <#61C3C8>the thugs</color>,เอาชนะ<#61C3C8>อันธพาล</color>
 BattleFieldFail_School-2050-2太白楼战斗,<#61C3C8>All of us</color> are defeated,<#61C3C8>พวกเราทั้งหมด</color>พ่ายแพ้
 BattleFieldInfo_School-2050-2马王洞战斗,<#61C3C8>All of your team</color> participate in the battle,<#61C3C8>พรรคพวกทุกคน</color> เข้าร่วมการต่อสู้
 BattleFieldWin_School-2050-2马王洞战斗,Defeat <#61C3C8>everyone in Horse King Cave</color>,เอาชนะ<#61C3C8>ทุกคนในถ้ำราชาม้า</color>
 BattleFieldFail_School-2050-2马王洞战斗,<#61C3C8>All of us</color> are defeated,<#61C3C8>พวกเราทั้งหมด</color>พ่ายแพ้
-BattleFieldInfo_Fame-1对战江湖人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ <#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_Fame-1对战江湖人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_Fame-1对战江湖人,Defeat <#61C3C8>Jianghu people</color>,เอาชนะ <#61C3C8>ชาวยุทธ</color>
 BattleFieldFail_Fame-1对战江湖人,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้
 BattleFieldInfo_M20209-2对战江湖人,<#61C3C8>All of your team</color> participate in the battle,<#61C3C8>พรรคพวกทุกคน</color> เข้าร่วมการต่อสู้
@@ -6602,7 +6602,7 @@ BattleFieldFail_M20100-23主角三不是,<#61C3C8>All of us</color> are defeated
 BattleFieldInfo_M20100-24_对战路人损道人,<#61C3C8>All of your team</color> participate in the battle,<#61C3C8>พรรคพวกทุกคน</color> เข้าร่วมการต่อสู้
 BattleFieldWin_M20100-24_对战路人损道人,Defeat <#61C3C8>All Enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_M20100-24_对战路人损道人,<#61C3C8>All of us</color> are defeated,<#61C3C8>พวกเราทั้งหมด</color>พ่ายแพ้
-BattleFieldInfo_M2000-22战斗鹅,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldInfo_M2000-22战斗鹅,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_M2000-22战斗鹅,Defeated the <#61C3C8>Big White Goose</color>,เอาชนะ<#61C3C8>ห่านขาวตัวใหญ่</color>
 BattleFieldFail_M2000-22战斗鹅,<#61C3C8>{PlayerName}</color> is defeated,<#61C3C8>{PlayerName}</color> พ่ายแพ้แล้ว
 School-2010-B3_10_4,"{PlayerSurName}, take care of yourself.",{PlayerSurName} ดูแลตัวเองด้วย
@@ -7876,24 +7876,24 @@ Role3-29_op_2_dialog,"The story of the Ye Family Battalion has come to an end he
 Fame-14_4_5,"Not only can you not persuade {PlayerName} to be loyal to me, but you also help the tyrant. Today, you will die together!"
 M1000-24_2_1,Three shichen later...,สามชั่วยามต่อมา...
 M1000-24_3_1,Six shichen later...,หกชั่วยามต่อมา...
-BattleFieldInfo_Fame-20对战江湖人,Only <#61C3C8>{PlayerName}</color> can participate in the battle
+BattleFieldInfo_Fame-20对战江湖人,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_Fame-20对战江湖人,Defeat <#61C3C8>Jianghu people</color>
 BattleFieldFail_Fame-20对战江湖人,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_M5059-0大战江湖人10人,<#61C3C8>All of your team</color> participate in the battle
-BattleFieldWin_M5059-0大战江湖人10人,Defeat <#61C3C8>All Enemies</color>
-BattleFieldFail_M5059-0大战江湖人10人,<#61C3C8>All of us</color> are defeated
-BattleFieldInfo_M5059-0大战江湖人5人,<#61C3C8>All of your team</color> participate in the battle
-BattleFieldWin_M5059-0大战江湖人5人,Defeat <#61C3C8>All Enemies</color>
-BattleFieldFail_M5059-0大战江湖人5人,<#61C3C8>All of us</color> are defeated
-BattleFieldInfo_M2221-0帮助战斗,Only <#61C3C8>{PlayerName}</color> can participate in the battle
-BattleFieldWin_M2221-0帮助战斗,Defeat <#61C3C8>All Enemies</color>
+BattleFieldInfo_M5059-0大战江湖人10人,<#61C3C8>All of your team</color> participate in the battle,<#61C3C8>พรรคพวกทุกคน</color> เข้าร่วมการต่อสู้
+BattleFieldWin_M5059-0大战江湖人10人,Defeat <#61C3C8>All Enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M5059-0大战江湖人10人,<#61C3C8>All of us</color> are defeated,<#61C3C8>พวกเราทั้งหมด</color>พ่ายแพ้
+BattleFieldInfo_M5059-0大战江湖人5人,<#61C3C8>All of your team</color> participate in the battle,<#61C3C8>พรรคพวกทุกคน</color> เข้าร่วมการต่อสู้
+BattleFieldWin_M5059-0大战江湖人5人,Defeat <#61C3C8>All Enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M5059-0大战江湖人5人,<#61C3C8>All of us</color> are defeated,<#61C3C8>พวกเราทั้งหมด</color>พ่ายแพ้
+BattleFieldInfo_M2221-0帮助战斗,Only <#61C3C8>{PlayerName}</color> can participate in the battle,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_M2221-0帮助战斗,Defeat <#61C3C8>All Enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_M2221-0帮助战斗,<#61C3C8>{PlayerName}</color> is defeated
-BattleFieldInfo_M2221-0看着战斗,Only <#61C3C8>Shi Wenxiu</color> can participate in the battle
-BattleFieldWin_M2221-0看着战斗,Defeat <#61C3C8>All Enemies</color>
-BattleFieldFail_M2221-0看着战斗,<#61C3C8>Shi Wenxiu</color> has been defeated
-BattleFieldInfo_XYSH-3对战冷皮,<#61C3C8>All of your team</color> participate in the battle
-BattleFieldWin_XYSH-3对战冷皮,Defeat <#61C3C8>All Enemies</color>
-BattleFieldFail_XYSH-3对战冷皮,<#61C3C8>All of us</color> are defeated
+BattleFieldInfo_M2221-0看着战斗,Only <#61C3C8>Shi Wenxiu</color> can participate in the battle,เฉพาะ<#61C3C8>สือเหวินซิ่ว</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_M2221-0看着战斗,Defeat <#61C3C8>All Enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_M2221-0看着战斗,<#61C3C8>Shi Wenxiu</color> has been defeated,<#61C3C8>สือเหวินซิ่ว</color> พ่ายแพ้แล้ว
+BattleFieldInfo_XYSH-3对战冷皮,<#61C3C8>All of your team</color> participate in the battle,<#61C3C8>พรรคพวกทุกคน</color> เข้าร่วมการต่อสู้
+BattleFieldWin_XYSH-3对战冷皮,Defeat <#61C3C8>All Enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_XYSH-3对战冷皮,<#61C3C8>All of us</color> are defeated,<#61C3C8>พวกเราทั้งหมด</color>พ่ายแพ้
 School-2050-5_41_1,"Damn, I don't know how uncle is doing!\n{PlayerName}, this is not the time to wander around, I'll go back to the water fortress first, you hurry up too!"
 M20201-4-2_14_1,"Life is the most important thing. If you are a rich lady, you should help others. If you really do as he said, you are not a doctor at all."
 M20201-4-2_14_2,"You, you——!"
@@ -8039,9 +8039,9 @@ R10074-1_1_9,"Therefore, I have ordered a temporary halt to the mining of the Bl
 R10074-1_1_10,"What a pity, it seems I am a step late."
 R10073-0_1_1,"I am {PlayerName}, may I ask who you are?"
 R10073-0_1_2,"I am Zi Tian, the second master of the Cold Skin Gang. I have an irreconcilable hatred with the Sacred Fire Sect. If you want to cause trouble for the Sacred Fire Sect, count me in."
-R10062-0_1_1,"I am {PlayerName}, may I ask your name, sir?"
-R10062-0_2_1,"Thank you for your help earlier, Shi Wenxiu thanks you here."
-R10062-0_2_2,"Drawing a sword to help when seeing injustice is my duty, Brother Shi doesn't need to be so polite."
+R10062-0_1_1,"I am {PlayerName}, may I ask your name, sir?",ข้าคือ{PlayerName} ขอทราบนามของท่านได้หรือไม่?
+R10062-0_2_1,"Thank you for your help earlier, Shi Wenxiu thanks you here.","ขอบใจในความช่วยเหลือของท่าน, สือเหวินซิ่วผู้นี้ขอขอบคุณจากใจ"
+R10062-0_2_2,"Drawing a sword to help when seeing injustice is my duty, Brother Shi doesn't need to be so polite.",ข้าเพียงชักดาบเมื่อเห็นความอยุติธรรมก็เท่านั้น พี่สือไม่ต้องสุภาพนัก
 R10062-0_3_1,"I'm not interested in your name, and who I am has nothing to do with you."
 R10106-0_1_1,"You'd better stay away from me, or you'll get infected with the Fire Toad poison on my body."
 R10106-0_1_2,Fire Toad poison?
@@ -8057,18 +8057,18 @@ R10106-0_3_4,"In a place like the Western Regions, you have to pay some price to
 R10106-0_3_5,"It is because of this Flame Toad Venom that I have become the fourth master of the Cold Skin Gang from a small Beggar who was Inseparable from fate. So, it's worth all the troubles I've been through over the years."
 R10106-0_3_6,"So you are the fourth master of the Cold Skin Gang, my apologies. I am {PlayerName}."
 R10106-0_3_7,Cold Skin Gang's He Denuo.,พรรคมังสาเหมันต์ เหอเต๋อนัว
-R10108-0_talking,Chat
-R10108-0_1_1,This place outside the pass is full of chaos. Isn't it very dangerous for the Innkeeper to open a shop here?
-R10108-0_1_2,"If it weren't for my Chang'an Inn providing a place for travelers to rest, most of the travelers going to the Western Regions from the Jade Gate would probably die trapped in the vast desert."
-R10108-0_1_3,"Although the accommodation here is expensive, it's better than losing your life in the vast desert. So there are many customers who are willing to spend a lot of money."
-R10108-0_1_4,"As long as there is money to be made, any danger is nothing to me. This is what they call seeking wealth in danger."
+R10108-0_talking,Chat,สนทนา
+R10108-0_1_1,This place outside the pass is full of chaos. Isn't it very dangerous for the Innkeeper to open a shop here?,ที่แห่งนี้ดูเต็มไปด้วยความโกลาหลมากมาย มาเปิดร้านแถวนี้ไม่คิดว่าอันตรายไปสำหรับเถ่าแก้เนี้ยหรือ?
+R10108-0_1_2,"If it weren't for my Chang'an Inn providing a place for travelers to rest, most of the travelers going to the Western Regions from the Jade Gate would probably die trapped in the vast desert.",หากไม่มีโรงเตี๊ยมฉางอันให้ที่พักพิงแก่เหล่านักเดินทางแล้วละก็ เหล่านักเดินทางที่มาจากทางประตูหยกคงได้ตายเพราะทะเลทรายแห่งนี้กันเกือบหมดแน่แท้
+R10108-0_1_3,"Although the accommodation here is expensive, it's better than losing your life in the vast desert. So there are many customers who are willing to spend a lot of money.",ที่นี่ค่าที่พักนั้นไม่ใช่น้อยๆ แต่ยังดีกว่าเอาชีวิตไปทิ้งไว้กลางทะเลทรายอันกว้างใหญ่ ดังนั้นจึงมีลูกค้าที่ยอมจ่ายเงินจำนวนมากอยู่ไม่น้อย
+R10108-0_1_4,"As long as there is money to be made, any danger is nothing to me. This is what they call seeking wealth in danger.","ตราบใดที่ทำเงินได้ ข้าก็ไม่เคยกลัวอันตรายใดๆ เขาถึงได้เรียกกันว่า ""เสี่ยงโชคลาภ"""
 R10108-0_2_1,"When I opened the inn, I was very careful with my calculations, fearing that my income would not cover my expenses. If I had half the courage of this girl, I would have been rich by now."
-R10108-0_3_1,The Innkeeper is brave and ambitious. It's a pity not to make a name in the martial arts world.
-R10108-0_3_2,"If I had the ability to do anything, I wouldn't be staying in this godforsaken place."
-R10108-0_3_3,"But you, {PlayerSurName}, with your demeanor, are not an ordinary Vagabond, are you? Do you have any plans for this trip to the Western Regions?"
-R10108-0_3_4,"Innkeeper, you're joking. I'm just here to broaden my horizons and join in the fun. What could I possibly be up to?"
-R10108-0_3_5,"Hehe, you can fool others, but you can't fool me. Since you don't want to tell, I won't force you."
-R10108-1_talking,Question
+R10108-0_3_1,The Innkeeper is brave and ambitious. It's a pity not to make a name in the martial arts world.,เถ่าแก่เนี้ยช่างกล้าหาญและทะเยอทะยานนัก น่าเสียดายที่ท่านไม่ได้ไปโลดแล่นอยู่ในยุทธภพแห่งนี้
+R10108-0_3_2,"If I had the ability to do anything, I wouldn't be staying in this godforsaken place.",ถ้าข้าเก่งมากพอ ข้าคงไม่ต้องมานอนจมอยู่ที่พรรค์นี้หรอกนะ
+R10108-0_3_3,"But you, {PlayerSurName}, with your demeanor, are not an ordinary Vagabond, are you? Do you have any plans for this trip to the Western Regions?",แต่สำหรับท่าน{PlayerSurName}  ช่างมีบุคลิกและท่าทางที่ไม่เหมือนชาวยุทธทั่วไป การเดินทางมายังดินแดนตะวันตกครั้งนี้ คงมีจุดประสงค์แอบแฝงอยู่แน่
+R10108-0_3_4,"Innkeeper, you're joking. I'm just here to broaden my horizons and join in the fun. What could I possibly be up to?",เถ้าแก่เนี้ยล้อข้าเล่นแล้ว ข้าเพียงมาเปิดหูเปิดตา หาความบันเทิงไปเรื่อย ข้าจะมามีจุดประสงค์แอบแฝงอันใดได้?
+R10108-0_3_5,"Hehe, you can fool others, but you can't fool me. Since you don't want to tell, I won't force you.",ฮิฮิ เจ้าหลอกคนอื่นได้แต่หลอกข้าไม่ได้หรอก ในเมื่อเจ้าไม่อยากพูด ข้าก็ไม่บังคับ
+R10108-1_talking,Question,ถาม
 R10108-1_1_1,"Innkeeper, did you ask Old Hunchback to charge me twenty-one Coins, twenty for the room and one for saving my life?"
 R10108-1_1_2,You scared me. I thought something had happened. Are you saying the room rate is too low?
 R10108-1_1_3,Why should I pay twenty coins for a room in a inn like this? I've never stayed in such a shabby and old room.
@@ -8116,7 +8116,7 @@ R10073-1_1_1,"I never easily help others, unless it is someone who is kind to th
 R10073-1_2_1,"Since Brother {PlayerSurName} has spoken, Zi Tian will surely follow even at the risk of his life."
 R10073-1_3_1,"I'm sorry, but Brother {PlayerSurName}'s team is full, I can't help you."
 R10062-1_1_1,We walk different paths and should not conspire together.
-R10062-1_2_1,"Since Brother {PlayerSurName} has a request, Shi Wenxiu will surely not refuse."
+R10062-1_2_1,"Since Brother {PlayerSurName} has a request, Shi Wenxiu will surely not refuse.",ในเมื่อน้องชาย{PlayerSurName} มีคำขอ สือเหวินซิ่วไม่อาจปฏิเสธอย่างแน่นอน
 R10062-1_3_1,"Brother {PlayerSurName}'s team has no spare slots, I can't join."
 R10106-1_1_1,"My Fire Toad poison is extremely dangerous to others, it's better for you to stay away from me if you want to live."
 R10106-1_2_1,"It's rare to meet a like-minded brother, since you've invited me, I must oblige."
@@ -8124,21 +8124,21 @@ R10106-1_3_1,Your team already has too many people.
 R10108-2_1_1,How much did you drink to get so drunk? I'm not someone who just follows anyone!
 R10108-2_2_1,"Finally, you've come to pick me up, my dear."
 R10108-2_3_1,"Hey, there's not a single spot left in your team, are you expecting me to starve?"
-Fame-20_1_1,"Great hero {PlayerSurName}, we meet again!",ผู้กล้า{PlayerSurName} ได้มาพบกันอีกแล้ว!
+Fame-20_1_1,"Great hero {PlayerSurName}, we meet again!",จอมยุทธ์{PlayerSurName} เราพบกันอีกแล้ว!
 Fame-20_1_2,Do we know each other?,เรารู้จักกันด้วยรึ?
 Fame-20_1_3,"Hmph, with your fame today, you naturally wouldn't remember a nobody who once challenged you.",ฮึ่ม เจ้าโด่งดังขนาดนี้ ไม่แปลกคงจะจำผู้มาท้าดวลไม่ได้เลยล่ะสิ
 Fame-20_1_4,You seem to be the guy who planned to make a name for himself by challenging others.,ข้าคือคนที่มีแผนว่าจะท้าประลองกับผู้อื่นเพื่อสร้างชื่อให้โด่งดังไงเล่า
 Fame-20_1_5,"Hmph, I came today specifically to wash away the shame of that day!",ฮึ่ยยย วันนี้ข้าจะมาขอล้างอายในอดีต!
 Fame-20_1_6,"Since you've been watching me in secret, you must know that I'm not the same as before. You were defeated by me that day, what's different about you today?",ในเมื่อเจ้าก็แอบดูข้ามานาน งั้นเจ้าก็ต้องรู้อ่ะสิว่าข้าไม่ใช่คนเดิมแล้ว เจ้าแพ้ข้าในวันนั้นแล้ววันนี้จะไปต่างอะไรกัน?
-Fame-20_1_7,"I had a series of fortunate encounters in the <color=#c44b0e>Western Regions</color>, and was lucky enough to use the divine object <color=#c44b0e>Blood Jewel</color> to greatly increase my power, something you, a frog in a well, could never experience.",ข้าได้โชคดีพบกับ<color=#c44b0e>แดนตะวันตก</color> และโชคดีได้สมบัติศักดิ์สิทธิ์ <color=#c44b0e>อัญมณีโลหิต</color> ด้วยสิ่งนี้มันทำให้ข้าแข็งแกร่งขึ้นอย่างมหาศาล! พลังที่กบในกะลาอย่างเจ้าคงไม่มีวันได้สัมผัสมันแน่นอน
-Fame-20_1_8,Western Regions... Blood Jewel...,แดนตะวันตก... อัญมณีโลหิต...
+Fame-20_1_7,"I had a series of fortunate encounters in the <color=#c44b0e>Western Regions</color>, and was lucky enough to use the divine object <color=#c44b0e>Blood Jewel</color> to greatly increase my power, something you, a frog in a well, could never experience.",ข้าออกท่องไปยัง<color=#c44b0e>แดนตะวันตก</color>หลายครา และโชคดีได้พบของศักดิ์สิทธิ์ <color=#c44b0e>อัญมณีเลือด</color> ด้วยสิ่งนี้มันทำให้ข้าแข็งแกร่งขึ้นอย่างมหาศาล! พลังที่กบในกะลาอย่างเจ้าคงไม่มีวันได้สัมผัส
+Fame-20_1_8,Western Regions... Blood Jewel...,แดนตะวันตก... อัญมณีเลือด...
 Fame-20_1_9,Can you tell me how you got the Blood Jewel and how you went to the Western Regions?,เจ้าบอกได้ไหมว่าเจ้าไปเอาอัญมณีเลือดที่ว่ามาจากไหน แล้วเจ้าไปยังแดนตะวันตกได้ยังไง?
 Fame-20_1_10,"If you want to know this information, you have to defeat me first!",ถ้าอยากรู้ก่อนชนะข้าให้ได้ก่อนแล้วกัน!
-Fame-20_2_1,"The famous hero {PlayerSurName} is indeed not a match for me, it seems that these highly praised martial arts masters are not as good as they are made out to be.",ดูเหมือนผู้กล้า{PlayerSurName} ผู้โด่งดังเองก็คงไม่อาจเป็นคู่ต่อสู้ให้ข้าได้ ดูท่าว่าวรยุทธที่โอ้อวดกันโดยเหล่าปรมาจารย์ยุทธพวกนั้นคงไม่ได้เจ๋งอยากที่คิด
-Fame-20_2_2,"Enough talk, I was just careless just now, let's have another match if you dare!",พูดมาก ข้าก็แค่ประมาทไปแค่นั้น แน่จริงก็มาสู้อีกครั้ง!
+Fame-20_2_1,"The famous hero {PlayerSurName} is indeed not a match for me, it seems that these highly praised martial arts masters are not as good as they are made out to be.",ดูเหมือนจอมยุทธ์{PlayerSurName}ผู้โด่งดัง ก็ไม่อาจเป็นคู่ต่อสู้ให้ข้าได้ ดูท่าว่าวรยุทธที่โอ้อวดกันโดยเหล่าปรมาจารย์ยุทธพวกนั้น ก็คงไม่ได้แน่อย่างที่คิด
+Fame-20_2_2,"Enough talk, I was just careless just now, let's have another match if you dare!",ช่างไร้สาระ ข้าก็แค่ประมาทไปแค่นั้นเอง ถ้าแน่จริงก็มาสู้กันอีกรอบหนึ่ง!
 Fame-20_2_3,"You're no longer worthy to be my opponent, but you should really go to the Western Regions to broaden your horizons, so you don't remain ignorant of the world outside your well.",เจ้าไม่คู่ควรจะเป็นคู่ต่อสู้ของข้าอีกต่อไป เจ้าควรไปเปิดหูเปิดตาที่ แดนตะวันตก ก่อนแล้วกัน เจ้าจะได้ไม่เป็นไอ้กบในกะลาที่อยู่แต่ในกะลาแบบนี้
 Fame-20_2_4,"The Western Regions are to the west of the Zhongzhou Region, and you need to pass through the <color=#c44b0e>Jade Gate</color> to get there.",แดนตะวันตกอยู่ทางตะวันตกของเขตจงโจว หากเจ้าอยากไปต้องข้าม <color=#c44b0e>ด่านประตูหยก</color> ถึงจะไปได้
-Fame-20_2_5,"As for the Blood Jewel, don't get your hopes up, it's a special product of the Cold Skin Gang in the Western Regions, extremely rare and only available to the destined.",ส่วนอัญมณีเลือดนั้น ก็อย่าหวังสูงไปแล้วกัน มันเป็นสินค้าพิเศษของพรรคมังสาเหมันต์ในแดนตะวันตก ค่อนข้าหายากและขายให้เพียงผู้ที่ชะตากำหนดไว้แล้วเท่านั้น
+Fame-20_2_5,"As for the Blood Jewel, don't get your hopes up, it's a special product of the Cold Skin Gang in the Western Regions, extremely rare and only available to the destined.",ส่วนอัญมณีเลือดนั้น ก็อย่าหวังสูงไปแล้วกัน มันเป็นของวิเศษจากพรรคมังสาเหมันต์ในแดนตะวันตก ค่อนข้าหายากและผู้ที่ชะตากำหนดไว้เท่านั้นถึงจะได้รับมัน
 Fame-20_3_1,"You don't seem to have made any progress, your proud journey to the Western Regions doesn't seem to have truly transformed you.",ดูเหมือนเจ้าก็ไม่ได้เก่งขึ้นสักเท่าไหร่นะ การเดินทางไปแดนตะวันตกอันน่าภูมิใจของเจ้าก็ไม่ได้ทำให้เจ้าเก่งขึ้นสิกกะติ๊ดเลยนี่
 Fame-20_3_2,"Hmph, what do you know! If it weren't for my self-restraint, you would have been a ghost under my blade by now.",ฮึ่ม เจ้าจะไปรู้อะไร! ถ้าข้าไม่ออมมือให้เจ้าแล้วละก็ ตอนนี้เจ้าคงได้กลายเป็นวิญญาณใต้คมดาบข้าไปแล้ว!
 Fame-20_3_3,"Did you only learn to brag in the Western Regions? If you have the ability, show all your skills, don't hide your incompetence, I'll make you admit defeat.",เจ้าไปร่ำเรียนวรยุทธการใช้ปากมาจากแดนตะวันตกมาหรือยังไง? ถ้ามีฝีมือก็อวดผีมือมา ไม่ใช่มาอวดแต่ปากของเจ้า ถ้ายังไม่พอก็เข้ามาอีกที ข้าจะทำให้เจ้ายอมรับความพ่ายแพ้อย่างแท้จริง
@@ -8655,7 +8655,7 @@ M20400-10_11_1,"How could you sneak in by yourself? If we were deadly struck by 
 M20400-10_11_2,"Fortunately, Master has granted you permission to enter the Flame Sand Cave. There should be no big problem. I was almost scared to death when I saw you were not here."
 M20400-10_11_3,You really are a coward.
 M20400-10_11_4,The last guy who deserted his post was whipped by the second master and suffered flesh wounds. I don't want to follow in his footsteps.
-R10062-2_1_1,"Thanks to {PlayerSurName} brother's help in Chang'an Inn that day, Shi Wenxiu recognizes you as a friend!"
+R10062-2_1_1,"Thanks to {PlayerSurName} brother's help in Chang'an Inn that day, Shi Wenxiu recognizes you as a friend!",ต้องขอบคุณความช่วยเหลือของน้องชาย{PlayerSurName} ในโรงเตี๊ยมฉางอันในวันนั้น สือเหวินซิ่วจำท่านได้ในฐานะสหาย!
 R10062-2_1_2,"If you need help in the future, just come to me."
 M20400-12_1_1,"{PlayerSurName}, can you do me a small favor?"
 M20400-12_1_2,What are you looking for me again?

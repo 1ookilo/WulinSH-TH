@@ -16572,31 +16572,31 @@ M2221-3_1_14,Who dares to oppose the Holy Fire Sect?,ผู้ใดกล้า
 M2221-3_1_15,Don't ask what you shouldn't. It's for your own good.,อย่าถามมาก ถ้าไม่อยากตาย
 M2221-3_1_16,"Who is this Xuanwu Envoy, acting so high and mighty?",ไอ้ทูตเต่าดำนี่มันเป็นใคร ทำไมมาทำตัวสูงส่งขมึงใส่ผู้อื่นแบบนี้?
 M2221-3_1_17,"Shh, keep it down. This is Ren Zhongheng, the Xuanwu Envoy of the Holy Fire Sect. He has a bad temper, don't provoke him.",เฮ้ย เบาๆ นี่คือ เหริน จงเหิง เป็นทูตเต่าดำจากนิกายไฟศักดิ์สิทธิ์ เขากำลังอารมณ์ไม่ดี อย่าไปยั่วเขาเลย
-M2221-4_1_1,"Hey, kid! Come here and answer a few questions for me."
-M2221-4_1_2,What can I do for the Xuanwu Envoy?
-M2221-4_1_3,"You're young but you recognize me, shows you're not ignorant."
-M2221-4_1_4,"Next, I'm going to ask you a few questions. Answer truthfully. If you lie, my iron rod will have to taste blood!"
-M2221-4_1_5,What does the Xuanwu Envoy want to ask?
-M2221-4_1_6,What's your name?
-M2221-4_2_1,"My surname is {PlayerSurName}, and my name is {PlayerGivenName}."
-M2221-4_2_2,"{PlayerName}, hmm, doesn't seem like a lie."
-M2221-4_3_1,My name is Wang Er Dan.
-M2221-4_3_2,"Wang Er Dan, hmm, it suits your character."
-M2221-4_4_1,What brings you to the Western Regions?
+M2221-4_1_1,"Hey, kid! Come here and answer a few questions for me.",เฮ้ย ไอ้หนู! มานี่แล้วตอบคำถามข้าเดี๋ยวนี้
+M2221-4_1_2,What can I do for the Xuanwu Envoy?,ให้ข้าช่วยอะไรเล่าท่านทูตเต่าดำ?
+M2221-4_1_3,"You're young but you recognize me, shows you're not ignorant.",ยังหนุ่มแต่รู้จักข้าแบบนี้ แปลว่าเจ้าก็ไม่ได้หูตาเหมือนบอด
+M2221-4_1_4,"Next, I'm going to ask you a few questions. Answer truthfully. If you lie, my iron rod will have to taste blood!",ต่อไปข้าจะถามแกสักสองสามคำ ตอบให้ดีๆ ถ้าแกโกหกล่ะก็พลองเหล็กข้าได้ดื่มเลือดแน่!
+M2221-4_1_5,What does the Xuanwu Envoy want to ask?,ท่านทูตเต่าดำอยากถามอะไรเล่า?
+M2221-4_1_6,What's your name?,แกชื่ออะไร?
+M2221-4_2_1,"My surname is {PlayerSurName}, and my name is {PlayerGivenName}.",ข้าแซ่{PlayerSurName} ชื่อ{PlayerGivenName}
+M2221-4_2_2,"{PlayerName}, hmm, doesn't seem like a lie.",{PlayerName} อืม... ดูเหมือนจะไม่ได้โกหก
+M2221-4_3_1,My name is Wang Er Dan.,ข้าชื่อ หวัง เอ้อ ต้าน
+M2221-4_3_2,"Wang Er Dan, hmm, it suits your character.",หวัง เอ้อ ต้าน ดูเข้ากับหน้าแกดี
+M2221-4_4_1,What brings you to the Western Regions?,แกมาทำอะไรที่แดนตะวันตกกัน?
 M2221-4_5_1,I heard there's a rare item called Blood Jewel in the Western Regions that can enhance a martial artist's skills. I'm here to try my luck and see if I can find a few.
 M2221-4_5_2,"Hmm, the Blood Jewel does have such an effect, it's worth your long journey to the Western Regions."
-M2221-4_6_1,"I heard that the grapes in the Western Regions are exceptionally sweet, so I came here to satisfy my craving."
-M2221-4_6_2,"Hmph, you seem to be quite interested."
-M2221-4_7_1,Do you know anyone in this inn who is against the Holy Fire Sect?
+M2221-4_6_1,"I heard that the grapes in the Western Regions are exceptionally sweet, so I came here to satisfy my craving.",ข้าได้ยินว่าองุ่นของแดนตะวันตกนั้นหวานเกินห้ามใจได้ ข้าเลยอยากมาลองชิมดูสักครั้ง
+M2221-4_6_2,"Hmph, you seem to be quite interested.",ฮึ่ม แกก็ดูจะสนใจได้
+M2221-4_7_1,Do you know anyone in this inn who is against the Holy Fire Sect?,เจ้ารู้ไหมว่ามีใครที่ดูบาดหมางกับนิกายไฟศักดิ์สิทธิ์บ้างในโรงเตี๊ยมนี้?
 M2221-4_8_1,The one-eyed man in the second room on the left upstairs seems to have a great grudge against the Holy Fire Sect.
-M2221-4_8_2,"Hmm, he must be the one we're looking for."
-M2221-4_8_3,"Kid, if what you said is true, you've done me a great favor."
+M2221-4_8_2,"Hmm, he must be the one we're looking for.",อืม น่าจะเป็นคนที่พวกเราตามหา
+M2221-4_8_3,"Kid, if what you said is true, you've done me a great favor.",ไอ้หนู ถ้าแกพูดจริง ถือว่าแกได้ช่วยข้าครั้งใหญ่เลย
 M2221-4_9_1,I haven't heard of anyone here who is against the Holy Fire Sect.
 M2221-4_9_2,"Hmph, I knew asking you would be a waste of time."
-M2221-4_10_1,The old man in the first room on the right upstairs seems to have a great grudge against the Holy Fire Sect.
-M2221-4_10_2,"Hmm, he must be the one we're looking for."
-M2221-4_10_3,"Kid, if what you said is true, you've done me a great favor."
-M2221-4_11_1,"Get lost, he's not the one we're looking for, don't get in my way."
+M2221-4_10_1,The old man in the first room on the right upstairs seems to have a great grudge against the Holy Fire Sect.,ชายชราคนที่อยู่ห้องแรกจากขวาสุดดูจะบาดหมางกับนิกายไฟศักดิ์สิทธิ์มากสุดๆอยู่นะ
+M2221-4_10_2,"Hmm, he must be the one we're looking for.",อืม น่าจะเป็นคนที่พวกเราตามหา
+M2221-4_10_3,"Kid, if what you said is true, you've done me a great favor.",ไอ้หนู ถ้าแกพูดจริง ถือว่าแกได้ช่วยข้าครั้งใหญ่เลย
+M2221-4_11_1,"Get lost, he's not the one we're looking for, don't get in my way.",ไสหัวไป หมอนั่นไม่ใช่คนที่ข้าตามหา อย่ามาขวางทางข้า
 M2221-4_12_1,"Does the Xuanwu Envoy have any other questions? If not, I'll be on my way."
 M2221-4_12_2,"Kid, are you trying to fool me?"
 M2221-4_12_3,"Everything you just said was a lie. Even if you're not the one we're looking for, you're probably up to no good. I'll have you arrested and interrogated!"
@@ -16609,17 +16609,17 @@ M2221-4_14_3,Who said he died in the inn? He clearly died in the outside sandsto
 M2221-4_15_1,"If you let him live, it will be endless trouble in the future."
 M2221-4_15_2,"If you kill me here, aren't you afraid that the Holy Fire Sect will make everyone here pay for it!"
 M2221-4_15_3,Who said you died in the inn? You clearly died in the outside sandstorm. Let the Holy Fire Sect settle the score with the sandstorm.
-M2221-5_1_1,"Hmm, what is it?"
-M2221-5_1_2,"The inn is short-staffed, I'm here to help deliver food."
-M2221-5_1_3,Why would they ask an outsider like you to deliver food? Why not have Haitang Qiu do it herself?
-M2221-5_1_4,"There must be something wrong with this food, you eat a bite first."
-M2221-5_1_5,"(You take a bite of the food, and there's nothing unusual)"
-M2221-5_1_6,(Takes the food and eats a small bite)
-M2221-5_1_7,"{yell}Tch, what is this, animal feed?"
-M2221-5_2_1,"Please calm down, Xuanwu Envoy. If it's not to your taste, they will prepare another dish for you."
-M2221-5_2_2,"I want you to deliver it personally, or don't blame me for being ruthless."
-M2221-5_2_3,"Alright, I will deliver it to you personally later."
-M2221-5_3_1,"Get lost, you're annoying to look at."
+M2221-5_1_1,"Hmm, what is it?",หือ นี่มันอะไร?
+M2221-5_1_2,"The inn is short-staffed, I'm here to help deliver food.",โรงเตี๊ยมขาดแคลนคนช่วย ข้าเลยมาส่งอาหารให้แทนโรงครัว
+M2221-5_1_3,Why would they ask an outsider like you to deliver food? Why not have Haitang Qiu do it herself?,แล้วคนนอกอย่างแกจะมาส่งอาหารทำไมวะ? ทำไมไห่ถังฉิวนางไม่มาทำเอง?
+M2221-5_1_4,"There must be something wrong with this food, you eat a bite first.",อาหารจานนี้ต้องมีบางอย่างแน่ๆ แกกินเข้าไปก่อนซิ
+M2221-5_1_5,"(You take a bite of the food, and there's nothing unusual)",(เจ้ากัดไปคำหนึ่ง ไม่มีอะไรแปลกๆ)
+M2221-5_1_6,(Takes the food and eats a small bite),(หยิบอาหารไปกัดคำหนึ่ง)
+M2221-5_1_7,"{yell}Tch, what is this, animal feed?",{yell}ถุ้ย อาหารสัตว์รึไงวะ?
+M2221-5_2_1,"Please calm down, Xuanwu Envoy. If it's not to your taste, they will prepare another dish for you.",ใจเย็นก่อนท่านทูตเต่าดำ หากไม่ถูกปากท่าน เดี๋ยวเราเตรียมจานใหม่ให้ท่านเอง
+M2221-5_2_2,"I want you to deliver it personally, or don't blame me for being ruthless.",ข้าอยากให้เจ้ามาส่งให้ข้าเอง ไม่อย่างนั้นอย่าหาว่าข้าเหี้ยมแล้วกัน
+M2221-5_2_3,"Alright, I will deliver it to you personally later.",ก็ได้ ข้าจะไปส่งให้ท่านด้วยตัวเองเอง
+M2221-5_3_1,"Get lost, you're annoying to look at.",ไสหัวไป เห็นหน้าเจ้าแล้วคันมือนัก
 M2221-6_1_1,"Old Hunchback was also a wanderer in his youth, and knows some martial arts. If you're bored in the inn, you can always come to spar with Old Hunchback.",ตาแก่หลังค่อยผู้นี้เคยเป็นจอมยุทธสมัยยังหนุ่มๆ และพอจะรู้วรยุทธอยู่บ้าง หากเจ้าเบื่อก็มาลองประลองกับตาแก่หลังค่อมผู้นี้ได้
 M2221-6_2_1,Do you want to practice with Old Hunchback?,เจ้าต้องการประลองกับตาแก่หลังค่อมไหม?
 M2221-6_3_1,"Don't hold back just because I'm old, Old Hunchback won't appreciate it.",อย่าออมมือเพราะเห็นว่าข้าแก่ล่ะ ตาแกหลังค่อมผู้นี้ไม่ชอบ
@@ -16670,52 +16670,52 @@ M2221-11_3_5,Do you want this information or not?
 M2221-11_4_1,"Don't try to bargain, I don't negotiate here, one piece of information costs fifteen guan!"
 M2221-11_5_1,"Most of the merchants from the Central Plains go to Flame City for trade. Flame City is known as the gathering place of hundreds of merchants. It's the territory of the Cold Skin Gang. As long as you don't do anything outrageous, it's quite safe in the city."
 M2221-11_5_2,"I've been searching everywhere, I'm just about to meet with the Cold Skin Gang!"
-M2222-0_1_1,"The master is resting, no one is allowed to disturb."
-M2222-0_2_1,I'm here to deliver food for the shop.
-M2222-0_2_2,We have our own food.
-M2222-0_2_3,You're quite cautious.
-M2222-0_3_1,"The master is resting, no one is allowed to disturb."
-M2222-0_4_1,I'm here to deliver food for the shop.
-M2222-0_4_2,We have our own food.
-M2222-0_4_3,You're quite cautious.
-M2222-0_5_1,"(There seems to be a dangerous aura emanating from the room, as if there's a very powerful person inside.)"
-M2222-0_6_1,I'm here to deliver food for the shop.
-M2222-0_7_1,Get out!!!
-M2222-0_8_1,"Such a strong MP, just a shout pushed me away, it seems the person inside is not easy to mess with, better run away."
-M2222-0_9_1,"Your MP is impressive, but I advise you not to seek your own death!"
-M2222-0_9_2,"Just a shout has such power, it seems the person inside is not easy to mess with, better run away."
-M2222-1_1_1,Who dares to hurt the people of the Holy Fire Sect!
-M2222-1_1_2,"We don't know what happened, we just flew out."
-M2222-1_1_3,You're useless!
-M2222-1_1_4,"No matter who it is, offending the Holy Fire Sect means death!"
-M2222-1_2_1,"The master is resting, no one is allowed to disturb."
-M2222-1_3_1,"The master is resting, no one is allowed to disturb."
-M2222-1_4_1,"{yell} dares to offend the Sacred Fire Sect in the Western Regions, you must be tired of living!"
-M2222-1_4_2,"Where did this fly come from, scram!!!"
-M2222-1_4_3,Puff-- (Spits out a mouthful of fresh blood)
-M2222-1_4_4,"This person is highly skilled, not the one we are looking for."
-M2222-1_4_5,"But he has insulted our Holy Fire Sect, shouldn't we teach him a lesson?"
-M2222-1_4_6,"Why did you have to provoke this kind of person!\nThis person's strength is not inferior to the sect leader, don't cause me trouble, shut your mouth immediately."
-M2222-1_4_7,"Ren Zhongheng, the Xuanwu Envoy of the Holy Fire Sect, pays his respects to the elder. I apologize for any offense I may have caused earlier, and I ask for your understanding."
-M2222-1_4_8,Get lost now.
-M2222-1_4_9,Yes!
-M2222-1_4_10,"If you dare to speak of what just happened, beware that I might kill you!"
-M2222-2_1_1,"This door is decorated in such a unique way, it's probably the Innkeeper's room. It's best not to enter casually."
-M2223-0_1_1,Have you never seen a woman before? You dare to barge into my room!
-M2223-0_2_1,"You audacious fellow, you should have been sent to meet the King of Hell long ago!"
-M2223-0_3_1,"{yell}Old Hunchback, Little Lame, where the hell are you guys!!!"
-M2223-0_4_1,"{yell}Little Lame, where the hell are you!!!"
-M2223-0_5_1,"{yell}Old Hunchback, get your ass in here now!!!"
+M2222-0_1_1,"The master is resting, no one is allowed to disturb.",นายท่านกำลังพักผ่อน ห้ามผู้ใดรบกวน
+M2222-0_2_1,I'm here to deliver food for the shop.,ข้ามาส่งอาหารให้แทนโรงครัว
+M2222-0_2_2,We have our own food.,เรามีอาหารส่วนตัวแล้ว
+M2222-0_2_3,You're quite cautious.,ขี้ระแวงจริงๆ
+M2222-0_3_1,"The master is resting, no one is allowed to disturb.",นายท่านกำลังพักผ่อน ห้ามผู้ใดรบกวน
+M2222-0_4_1,I'm here to deliver food for the shop.,ข้ามาส่งอาหารให้แทนโรงครัว
+M2222-0_4_2,We have our own food.,เรามีอาหารส่วนตัวแล้ว
+M2222-0_4_3,You're quite cautious.,ขี้ระแวงจริงๆ
+M2222-0_5_1,"(There seems to be a dangerous aura emanating from the room, as if there's a very powerful person inside.)",(ดูเหมือนจะมีคลื่นพลังอันตรายแพร่ออกมาจากในห้อง ด้านในน่าจะมีผู้ที่แข็งแกร่งสุดๆอยู่)
+M2222-0_6_1,I'm here to deliver food for the shop.,ข้ามาส่งอาหารให้แทนโรงครัว
+M2222-0_7_1,Get out!!!,ไสหัวไป!!!
+M2222-0_8_1,"Such a strong MP, just a shout pushed me away, it seems the person inside is not easy to mess with, better run away.",พลังปราณอะไรกันนี่ เพียงแค่ตะโกนก็ทำให้ข้ากระเด็นไปได้ ดูท่าคนด้านในไม่ใช่เล่นๆแน่ ข้าควรไปดีกว่า
+M2222-0_9_1,"Your MP is impressive, but I advise you not to seek your own death!",กำลังภายในเจ้ายอดเยี่ยมมาก แต่ข้าแนะนำว่าอย่ารนหาที่ตายเลย!
+M2222-0_9_2,"Just a shout has such power, it seems the person inside is not easy to mess with, better run away.",เพียงแค่ตะโกนก็ทรงพลังขนาดนี้ ดูท่าคนด้านในไม่ใช่เล่นๆแน่ ข้าควรไปดีกว่า
+M2222-1_1_1,Who dares to hurt the people of the Holy Fire Sect!,มันผู้ใดกล้าทำร้ายคนของนิกายไฟศักดิ์สิทธิ์กัน!
+M2222-1_1_2,"We don't know what happened, we just flew out.",ข้าไม่รู้ รู้ตัวอีกทีข้าก็ปลิวไปแล้ว
+M2222-1_1_3,You're useless!,ไอ้เจ้าตัวไร้ประโยชน์เอ้ย!
+M2222-1_1_4,"No matter who it is, offending the Holy Fire Sect means death!",ไม่ว่ามันจะเป็นใครกล้ามาหยามนิกายไฟศักดิ์สิทธิ์ มันผู้นั้นต้องตาย!
+M2222-1_2_1,"The master is resting, no one is allowed to disturb.",นายท่านกำลังพักผ่อน ห้ามผู้ใดรบกวน
+M2222-1_3_1,"The master is resting, no one is allowed to disturb.",นายท่านกำลังพักผ่อน ห้ามผู้ใดรบกวน
+M2222-1_4_1,"{yell} dares to offend the Sacred Fire Sect in the Western Regions, you must be tired of living!",{yell} กล้ามาหยามนิกายไฟศักดิ์สิทธิ์ในแดนตะวันตก เจ้ารนหาที่นักใช่ไหม!
+M2222-1_4_2,"Where did this fly come from, scram!!!",ไอ้แมลงหวี่นี่มาจากไหน ไสหัวไป!!!
+M2222-1_4_3,Puff-- (Spits out a mouthful of fresh blood),ถุ้ย-- (ถุยเลือดออกจากปาก)
+M2222-1_4_4,"This person is highly skilled, not the one we are looking for.",มันผู้นี้แข็งแกร่งมาก ไม่น่าใช่คนที่เราตามหาอยู่
+M2222-1_4_5,"But he has insulted our Holy Fire Sect, shouldn't we teach him a lesson?",แต่ว่าไอ้หมอนี่มันกล้ามาหยามนิกายไฟศักดิ์สิทธิ์ ไม่ใช่ว่าเราควรสั่งสอนมันหรือขอรับ?
+M2222-1_4_6,"Why did you have to provoke this kind of person!\nThis person's strength is not inferior to the sect leader, don't cause me trouble, shut your mouth immediately.","แกจะไปหาเรื่องคนแบบนี้ทำไมกันวะ!\nความแข็งแกร่งของคนผู้นี้คงไม่ด้วยไปกว่าท่านเจ้าสำนักแน่ๆ อย่าสร้างปัญหาให้ข้า หุบปากเจ้าเดี๋ยวนี้"
+M2222-1_4_7,"Ren Zhongheng, the Xuanwu Envoy of the Holy Fire Sect, pays his respects to the elder. I apologize for any offense I may have caused earlier, and I ask for your understanding.",เหริน จงเหิง ทูตเต่าดำจากนิกายไฟศักดิ์สิทธิ์ ขอคารวะท่านผู้อาวุโสด้วย ข้าขอโทษที่ไปก่อนความวุ่นวานก่อนหน้านี้ด้วย หวังว่าท่านคงเข้าใจ
+M2222-1_4_8,Get lost now.,ไสหัวไปได้แล้ว
+M2222-1_4_9,Yes!,ขอรับ!
+M2222-1_4_10,"If you dare to speak of what just happened, beware that I might kill you!",ถ้าเจ้ากล้าพูดเรื่องที่เกิดขึ้น ระวังหัวหลุดจากบ่าแน่!
+M2222-2_1_1,"This door is decorated in such a unique way, it's probably the Innkeeper's room. It's best not to enter casually.",ประตูบ้านนี้ตกแต่งแตกต่างจากบานอื่นมาก น่าจะเป็นห้องของเถ้าแก่เนี้ย ข้าไม่ควรเดินสุ่มๆเข้าไป
+M2223-0_1_1,Have you never seen a woman before? You dare to barge into my room!,ไม่เคยเห็นสตรีรึยังไง ถึงได้กล้าบุกเข้ามายังห้องข้า!
+M2223-0_2_1,"You audacious fellow, you should have been sent to meet the King of Hell long ago!",เจ้าเด็กบ้าบิ่น เตรียมไปพบกับยมบาลได้เลย!
+M2223-0_3_1,"{yell}Old Hunchback, Little Lame, where the hell are you guys!!!",{yell}ตาแก่หลังค่อม ไอ้ขาเป๋ พวกแกไปอยู่ไหนกันวะ!!!
+M2223-0_4_1,"{yell}Little Lame, where the hell are you!!!",{yell}ไอ้ขาเป๋ แกไปอยู่ไหนวะ!!!
+M2223-0_5_1,"{yell}Old Hunchback, get your ass in here now!!!",{yell}ตาแก่หลังค่อม สะบัดตูดมานี่เดี๋ยวนี้ !!!
 M2223-0_6_1,"Sigh, the situation just now was simply an endless deadlock, I had no choice."
-M2223-0_7_1,"I'm bored drinking alone, you're just in time, come play a game of finger-guessing with me."
+M2223-0_7_1,"I'm bored drinking alone, you're just in time, come play a game of finger-guessing with me.",ข้าดื่มคนเดียวกำลังเบื่อๆพอดีเลย เจ้ามาได้เวลาพอดี มาเล่นเป่ายิงฉุบกับข้ามา
 M2223-0_7_2,"You win a round, you get 2 strings of cash, lose a round, you only lose 1 string of cash, how about it?"
 M2223-0_8_1,"What a buzzkill, if you're not interested in keeping me company, then don't kill the mood here."
-M2223-0_9_1,"Great, let's get started!"
-M2223-0_10_1,What gesture should I make this round?
-M2223-0_chui,<size=250%>Hammer!</size>
-M2223-0_jian,<size=250%>Scissors!</size>
-M2223-0_bu,<size=250%>Rock!</size>
-M2223-0_11_1,"Come on, let's go again!"
+M2223-0_9_1,"Great, let's get started!",เยี่ยม งั้นมาเริ่มกันเลย!
+M2223-0_10_1,What gesture should I make this round?,ข้าจะออกอะไรดี?
+M2223-0_chui,<size=250%>Hammer!</size>,<size=250%>ค้อน!</size>
+M2223-0_jian,<size=250%>Scissors!</size>,<size=250%>กรรไกร!</size>
+M2223-0_bu,<size=250%>Rock!</size>,<size=250%>กระดาษ!</size>
+M2223-0_11_1,"Come on, let's go again!",เสมอ มาอีกรอบ!
 M2223-0_12_1,"Unbelievable, you actually won, let's continue!"
 M2223-0_13_1,"No more, no more, you've won all my money, what's the point of playing?"
 M2223-0_14_1,Satisfying! You finally got to see how powerful I am.
@@ -16736,99 +16736,99 @@ M2223-1_4_1,"Don't leave any survivors, to avoid retaliation from the Holy Fire 
 M2223-1_4_2,Won't killing the Xuanwu Envoy here cause trouble for you?
 M2223-1_4_3,Who said he died in the inn? He clearly died in the outside sandstorm.
 M2223-1_4_4,"The things that happen next are not suitable for young heroes to participate in, please step aside."
-M2223-1_5_1,"{yell}Old Hunchback, Little Lame, where the hell are you guys!!!"
-M2223-1_6_1,"{yell}Little Lame, where the hell are you!!!"
-M2223-1_7_1,"{yell}Old Hunchback, get your ass in here now!!!"
+M2223-1_5_1,"{yell}Old Hunchback, Little Lame, where the hell are you guys!!!",{yell}ตาแก่หลังค่อม ไอ้ขาเป๋ พวกแกไปอยู่ไหนกันวะ!!!
+M2223-1_6_1,"{yell}Little Lame, where the hell are you!!!",{yell}ไอ้ขาเป๋ แกไปอยู่ไหนวะ!!!
+M2223-1_7_1,"{yell}Old Hunchback, get your ass in here now!!!",{yell}ตาแก่หลังค่อม สะบัดตูดมานี่เดี๋ยวนี้ !!!
 M2223-1_8_1,"What a buzzkill, all of you go to hell!"
 M2223-1_8_2,……
 M2223-1_9_1,Aren't you afraid of trouble for killing the Xuanwu Envoy here?
 M2223-1_9_2,Who said he died in the inn? He clearly died in the outside sandstorm.
 M2223-1_9_3,"What happens here has nothing to do with the young hero, please step aside."
-M2224-0_1_1,"Breaking into someone else's room with ill intentions, you're asking for death!"
-M2224-0_2_1,"Your martial arts style is not from the Holy Fire Sect, you should not be from the Holy Fire Sect."
-M2224-0_2_2,What would you do if I were from the Holy Fire Sect?
-M2224-0_2_3,"If you were from the Holy Fire Sect, you would be dead by now."
-M2224-0_2_4,Do you have any grudges against the Holy Fire Sect?
-M2224-0_2_5,This has nothing to do with you.
-M2224-0_3_1,"The Xuanwu Envoy downstairs claims to be from the Holy Fire Sect, could it be..."
-M2224-0_3_2,Don't force me to kill you to keep you quiet.
-M2224-0_4_1,"Breaking into your room was my fault, but you didn't have to start fighting right away."
-M2224-0_4_2,"Ahem, your martial arts style is not from the Holy Fire Sect, you should not be from the Holy Fire Sect."
-M2224-0_4_3,What if I were from the Holy Fire Sect?
-M2224-0_4_4,Then it would be either you die or I die.
-M2224-0_4_5,Do you have any grudges against the Holy Fire Sect?
-M2224-0_4_6,This has nothing to do with you.
-M2224-0_5_1,"The Xuanwu Envoy downstairs claims to be from the Holy Fire Sect, could it be..."
-M2224-0_5_2,"They are after me, but they don't know my identity yet, I'm still safe for now."
-M2224-1_1_1,"You're seriously injured, if you don't heal soon, your injuries will get worse."
-M2224-1_1_2,"Time is of the essence for me, I can't afford any delay, besides, ordinary doctors can't treat my injuries."
-M2224-1_1_3,"(If I think of a way, maybe I can heal his injuries)"
-M2224-1_2_1,"I'm proficient in medical skills, let me try to heal your injuries."
-M2224-1_2_2,"A dead horse is better than a live horse doctor, anyway, the situation can't be worse than it is now."
-M2224-1_3_1,One shichen later...
-M2224-1_3_2,"It's indeed the Healing Hands technique, such severe injuries can actually be healed!"
-M2224-1_4_1,"Your injury is not difficult to treat, I have a method to try."
-M2224-1_4_2,"A dead horse is better than a live horse doctor, anyway, the situation can't be worse than it is now."
-M2224-1_5_1,One shichen later...
-M2224-1_5_2,"You actually used your MP to heal me, this, this..."
-M2224-1_6_1,"Your injury is not difficult to heal, I have a pill here that can be tried."
-M2224-1_6_2,"A dead horse is better than a live horse doctor, anyway, the situation can't be worse than it is now."
-M2224-1_7_1,A moment later...
-M2224-1_7_2,"What kind of medicine did you give me, it's so effective!"
-M2224-1_7_3,It's just a mere Heavenly Fragrance Life-Extending Pill.
-M2224-1_7_4,……
-M2224-1_8_1,"For the favor of healing and saving my life, Shi Wenxiu has nothing to repay, only this manual can be given to repay your great kindness."
-M2224-2_1_1,"Frozen Heart Palm, Shi Wenxiu, you've hidden your identity well!"
-M2224-2_1_2,"Alas, my identity has been exposed after all."
-M2224-2_1_3,Hand over the things and I'll spare your life.
-M2224-2_1_4,"Hmph, there's no one in the Cold Skin Gang who fears death!"
-M2224-2_1_5,I wonder if you can still be so tough later.
-M2224-2_1_6,Which side should I help in this situation?
-M2224-2_2_1,"Xuanwu Envoy, this person is not easy to deal with, let me provide Combat Support."
-M2224-2_2_2,"Good, don't let him escape!"
-M2224-2_3_1,"This thing is indeed on him, this trip is not in vain."
-M2224-2_3_2,What are you looking for?
-M2224-2_3_3,"This thing has no Relations with you, you don't need to inquire.\nHowever, you have helped me a lot. If you come to the Holy Fire Sect one day, I can recommend you."
-M2224-2_4_1,"This person is not easy to deal with, let me provide Combat Support."
-M2224-2_4_2,Thank you.
-M2224-2_5_1,The Holy Fire Sect would never expect that their Xuanwu Envoy would die here.
-M2224-2_6_1,Aren't you afraid of causing trouble for the Innkeeper by killing the Xuanwu Envoy here?
-M2224-2_6_2,"If she can run an inn in the Western Regions, she is not an ordinary woman, don't underestimate her."
-M2224-2_7_1,"If it weren't for the young hero's help this time, Shi Wenxiu might never have been able to leave this room. Young hero's great kindness, Shi Wenxiu will remember in his heart."
-M2224-2_7_2,"Brother Shi, you're too kind, it's just a helping hand."
-M2224-2_7_3,"If you ever go to Flame City in the future, be sure to come to Cold Skin Gang, I will recommend you to the big brother."
-M2224-2_8_1,"This thing is indeed on him, this trip is not in vain."
-M2224-2_9_1,The Holy Fire Sect would never expect that their Xuanwu Envoy would die here.
-M2224-3_1_1,"{PlayerSurName} Brother, what are you doing?"
-M2224-3_1_2,"The inn is short of hands, I'm helping to deliver food."
-M2224-3_1_3,"This inn really doesn't appreciate, they actually treat you like a Clerk."
-M2224-3_1_4,"It's okay, I'm free anyway."
-M2224-3_1_5,"{PlayerSurName} Brother personally delivers food, I must give face."
-M2224-3_1_6,(Takes the food and starts eating)
-M2224-3_2_1,What are you trying to do?
-M2224-3_2_2,"The inn is short of hands, I'm helping to deliver food."
-M2224-3_2_3,I'm not used to eating food from Strangers.
-M2224-3_2_4,"Are you afraid that the inn has Poisoned you, or that I have Poisoned you?"
-M2224-3_2_5,"In the martial arts world, one must be careful."
-M2224-3_2_6,"Whatever, eat or not, it's up to you."
-M2225-0_1_1,"So, young hero {PlayerSurName}, you are worried about my safety and plan to guard outside the door?"
-M2225-0_1_2,"I'm just wandering around, checking for any safety hazards. Seeing that you're okay, I'm relieved."
-M2225-0_1_3,"Thank you for your concern, young hero {PlayerSurName}."
-M2225-0_2_1,"We meet again, you didn't get lost in the desert, you're really lucky."
-M2225-0_2_2,"Thanks to you, it's just a desert, it can't bury me."
-M2225-0_2_3,"Hmph, the road ahead is long, without guidance, you can only return to the Central Plains."
-M2225-0_2_4,"There will be a way when the car reaches the mountain, you don't need to worry."
-M2225-1_1_1,What are you doing?
-M2225-1_1_2,"The inn is short of hands, I'm helping to deliver food."
-M2225-1_1_3,"You're my hired Bodyguard, but you're helping others. Do you still want your salary?"
-M2225-1_1_4,"It's just a helping hand, besides, you're not in danger now, you don't need protection."
-M2225-1_1_5,That's not acceptable!
-M2225-1_1_6,"Let me tell you, I hired you as my Bodyguard, you must protect me at all times, you can only follow my arrangements, otherwise you won't get a penny of the remaining salary!"
-M2225-1_1_7,"I've brought you the food, eat or not, it's up to you."
-M2225-1_2_1,"Yo, what is the great hero doing?"
-M2225-1_2_2,"The inn is short of hands, I'm helping to deliver food."
-M2225-1_2_3,"I thought you were so noble, but it seems a Coin can stump a hero.\nEven if you have great skills, you still end up running errands and delivering food."
-M2225-1_2_4,"I've brought you the food, eat or not, it's up to you."
+M2224-0_1_1,"Breaking into someone else's room with ill intentions, you're asking for death!",บุกเข้าห้องผู้อื่นมานับว่าเจตนาไม่ดี รนหาที่ตายซะแล้ว!
+M2224-0_2_1,"Your martial arts style is not from the Holy Fire Sect, you should not be from the Holy Fire Sect.",วรยุทธของเจ้าไม่ใช่วิชาของนิกายไฟศักดิ์สิทธิ์ เจ้าไม่ได้มาจากนิกายไฟศักดิ์สิทธิ์นี่
+M2224-0_2_2,What would you do if I were from the Holy Fire Sect?,แล้วจะทำไมถ้าข้ามาจากนิกายไฟศักดิ์สิทธิ์จริงๆ?
+M2224-0_2_3,"If you were from the Holy Fire Sect, you would be dead by now.",ถ้าเจ้ามาจากนิกายไฟศักดิ์สิทธิ์ เจ้าก็ตายไปแล้ว
+M2224-0_2_4,Do you have any grudges against the Holy Fire Sect?,เจ้าไปบาดหมางอะไรกับนิกายไฟศักดิ์สิทธิ์มา?
+M2224-0_2_5,This has nothing to do with you.,เรื่องนี้ไม่เกี่ยวข้องกับเจ้า 
+M2224-0_3_1,"The Xuanwu Envoy downstairs claims to be from the Holy Fire Sect, could it be...",ทูตเต่าดำข้างล่างอ้างว่าตัวเองมาจากนิกายไฟศักดิ์สิทธิ์ หรือว่า...
+M2224-0_3_2,Don't force me to kill you to keep you quiet.,อย่าบังคับให้ข้าปิดปากเจ้าล่ะ
+M2224-0_4_1,"Breaking into your room was my fault, but you didn't have to start fighting right away.",บุกเข้าห้องผู้อื่นมาก็เป็นความผิดข้าเอง แต่เจ้าก็ไม่เห็นต้องท้าต่อยตีทันทีสักหน่อย
+M2224-0_4_2,"Ahem, your martial arts style is not from the Holy Fire Sect, you should not be from the Holy Fire Sect.",อะแฮ่ม วรยุทธของเจ้าไม่ใช่วิชาของนิกายไฟศักดิ์สิทธิ์ เจ้าไม่ได้มาจากนิกายไฟศักดิ์สิทธิ์นี่
+M2224-0_4_3,What if I were from the Holy Fire Sect?,แล้วจะทำไมถ้าข้ามาจากนิกายไฟศักดิ์สิทธิ์จริงๆ?
+M2224-0_4_4,Then it would be either you die or I die.,ถ้าอย่างนั้นไม่เจ้าก็ข้าต้องตายกันไปข้าง
+M2224-0_4_5,Do you have any grudges against the Holy Fire Sect?,เจ้าไปบาดหมางอะไรกับนิกายไฟศักดิ์สิทธิ์มา?
+M2224-0_4_6,This has nothing to do with you.,เรื่องนี้ไม่เกี่ยวข้องกับเจ้า 
+M2224-0_5_1,"The Xuanwu Envoy downstairs claims to be from the Holy Fire Sect, could it be...",ทูตเต่าดำข้างล่างอ้างว่าตัวเองมาจากนิกายไฟศักดิ์สิทธิ์ หรือว่า...
+M2224-0_5_2,"They are after me, but they don't know my identity yet, I'm still safe for now.",พวกมันตามล่าข้า แต่พวกมันยังไม่รู้ตัวตนข้าตอนนี้ ข้ายังปลอดภัยอยู่
+M2224-1_1_1,"You're seriously injured, if you don't heal soon, your injuries will get worse.",เจ้าบาดเจ็บหนักนี่ ถ้าไม่รีบรักษา อาการคงแย่ลงหนักแน่
+M2224-1_1_2,"Time is of the essence for me, I can't afford any delay, besides, ordinary doctors can't treat my injuries.",เวลาของข้าเป็นเงินเป็นทอง ข้าช้าไม่ได้แล้ว อีกอย่างหมอทั่วไปรักษาอาการข้าไม่ได้หรอก
+M2224-1_1_3,"(If I think of a way, maybe I can heal his injuries)",(ลองคิดดู บางทีข้าอาจรักษาเขาได้)
+M2224-1_2_1,"I'm proficient in medical skills, let me try to heal your injuries.",ข้าเชี่ยวชาญการแพทย์ ให้ข้าลองรักษาดู
+M2224-1_2_2,"A dead horse is better than a live horse doctor, anyway, the situation can't be worse than it is now.",คงไม่มีอะไรเลวร้ายได้กว่านี้แล้ว เจ้าลองดูคงไม่เสียหาย
+M2224-1_3_1,One shichen later...,หนึ่งชั่วยามต่อมา...
+M2224-1_3_2,"It's indeed the Healing Hands technique, such severe injuries can actually be healed!",ช่างเป็นวิชาหัตถ์หมอเทวดาโดยแท้ แผลหนักขนาดนี้กลับรักษาได้!
+M2224-1_4_1,"Your injury is not difficult to treat, I have a method to try.",บาดแผลเจ้าไม่อยากจะรักษา ข้ามีวิธีอยู่
+M2224-1_4_2,"A dead horse is better than a live horse doctor, anyway, the situation can't be worse than it is now.",คงไม่มีอะไรเลวร้ายได้กว่านี้แล้ว เจ้าลองดูคงไม่เสียหาย
+M2224-1_5_1,One shichen later...,หนึ่งชั่วยามต่อมา...
+M2224-1_5_2,"You actually used your MP to heal me, this, this...",เจ้าใช้ลมปราณของเจ้ารักษาข้า นี่... จ..เจ้า...
+M2224-1_6_1,"Your injury is not difficult to heal, I have a pill here that can be tried.",บาดแผลเจ้าไม่อยากจะรักษา ข้าพอมียาเม็ดนี้อยู่
+M2224-1_6_2,"A dead horse is better than a live horse doctor, anyway, the situation can't be worse than it is now.",คงไม่มีอะไรเลวร้ายได้กว่านี้แล้ว เจ้าลองดูคงไม่เสียหาย
+M2224-1_7_1,A moment later...,สักครู่ต่อมา...
+M2224-1_7_2,"What kind of medicine did you give me, it's so effective!",เจ้าให้ยาอะไรข้ามา ยอดเยี่ยมจริงๆ!
+M2224-1_7_3,It's just a mere Heavenly Fragrance Life-Extending Pill.,ก็แค่โอสถหอมรักษาสวรรค์ธรรมดา
+M2224-1_7_4,……,……
+M2224-1_8_1,"For the favor of healing and saving my life, Shi Wenxiu has nothing to repay, only this manual can be given to repay your great kindness.",เพื่อตอบแทนที่ท่านช่วยชีวิตข้าไว้ สือเหวินซิ่วผู้นี้ไม่มีสิ่งใดตอบแทน มีเพียงตำราวรยุทธเล่มนี้ที่อาจพอตอบแทนท่านได้
+M2224-2_1_1,"Frozen Heart Palm, Shi Wenxiu, you've hidden your identity well!",ฝ่ามือใจน้ำแข็ง สือเหวินซิ่ว เจ้าปกปิดตัวตนได้ดียิ่งนัก!
+M2224-2_1_2,"Alas, my identity has been exposed after all.",ให้ตายเถอะ ตัวตนของข้าก็ถูกเปิดเผยจนได้
+M2224-2_1_3,Hand over the things and I'll spare your life.,มอบสิ่งของมาแล้วข้าจะไว้ชีวิตเจ้า
+M2224-2_1_4,"Hmph, there's no one in the Cold Skin Gang who fears death!",ฮึ่ม ไม่มีใครในพรรคมังสาเหมันต์ ที่กลัวตาย!
+M2224-2_1_5,I wonder if you can still be so tough later.,งั้นมาดูกันว่า หลังจากนี้เจ้ายังอวดเก่งแบบนี้ได้อีกไหม
+M2224-2_1_6,Which side should I help in this situation?,ในสถานการณ์เช่นนี้ ข้าควรช่วยฝ่ายไหนดี?
+M2224-2_2_1,"Xuanwu Envoy, this person is not easy to deal with, let me provide Combat Support.",ทูตเต่าดำ บุคคลนี้ไม่ใช่จัดการได้โดยง่าย ให้ข้าช่วยท่านสู้เอง
+M2224-2_2_2,"Good, don't let him escape!",ดี อย่าปล่อยให้มันหนีไปได้!
+M2224-2_3_1,"This thing is indeed on him, this trip is not in vain.",เป็นตามที่คิดไว้ ของสิ่งนี้อยู่กับเขา ในที่สุดการเดินทางครั้งนี้ก็ไม่ไร้ประโยชน์
+M2224-2_3_2,What are you looking for?,เจ้ากำลังมองหาอะไร?
+M2224-2_3_3,"This thing has no Relations with you, you don't need to inquire.\nHowever, you have helped me a lot. If you come to the Holy Fire Sect one day, I can recommend you.","สิ่งนี้ไม่เกี่ยวกับเจ้า เจ้าไม่จำเป็นต้องรู้\nแต่อย่างไรก็ตาม วันนี้เจ้าช่วยข้าได้มาก ถ้าวันหนึ่งเจ้ามาที่นิกายไฟศักดิ์สิทธิ์ ข้าสามารถแนะนำเจ้าได้"
+M2224-2_4_1,"This person is not easy to deal with, let me provide Combat Support.",บุคคลนี้ไม่ใช่จัดการได้โดยง่าย ให้ข้าช่วยท่านสู้เอง
+M2224-2_4_2,Thank you.,ขอบใจเจ้าแล้ว
+M2224-2_5_1,The Holy Fire Sect would never expect that their Xuanwu Envoy would die here.,นิกายไฟศักดิ์สิทธิ์ไม่เคยคาดคิดว่า ทูตเต่าดำของพวกเขาจะจบชีวิตลงที่นี่
+M2224-2_6_1,Aren't you afraid of causing trouble for the Innkeeper by killing the Xuanwu Envoy here?,เจ้าไม่กลัวที่จะสร้างปัญหาให้กับเจ้าของโรงเตี๊ยมด้วยการสังหารทูตเต่าดำที่นี่หรือ?
+M2224-2_6_2,"If she can run an inn in the Western Regions, she is not an ordinary woman, don't underestimate her.",หากนางสามารถเปิดโรงเตี๊ยมในแดนตะวันตกได้ นางต้องไม่ใช่สตรีธรรมดาแน่ อย่าประมาทนาง
+M2224-2_7_1,"If it weren't for the young hero's help this time, Shi Wenxiu might never have been able to leave this room. Young hero's great kindness, Shi Wenxiu will remember in his heart.",หากไม่ได้รับความช่วยเหลือจากจอมยุทธ์น้อยในครั้งนี้ สือเหวินซิ่วคงไม่สามารถออกจากห้องนี้ไปได้ ความมีน้ำใจอันยิ่งใหญ่ของจอมยุทธ์น้อย สือเหวินซิ่วจะจดจำไว้ชั่วชีวิต
+M2224-2_7_2,"Brother Shi, you're too kind, it's just a helping hand.",พี่สือ ท่านกล่าวเกินไป ข้าแค่ช่วยท่านเล็กๆ น้อยๆ 
+M2224-2_7_3,"If you ever go to Flame City in the future, be sure to come to Cold Skin Gang, I will recommend you to the big brother.",จากนี้ไปหากเจ้ามาที่เมืองอัคคี อย่าลืมแวะมาที่พรรคมังสาเหมันต์ ข้าจะแนะนำให้เจ้ารู้จักกับพี่ใหญ่ของข้า
+M2224-2_8_1,"This thing is indeed on him, this trip is not in vain.",เป็นตามที่คิดไว้ ของสิ่งนี้อยู่กับเขา ในที่สุดการเดินทางครั้งนี้ก็ไม่ไร้ประโยชน์
+M2224-2_9_1,The Holy Fire Sect would never expect that their Xuanwu Envoy would die here.,นิกายไฟศักดิ์สิทธิ์ไม่เคยคาดคิดว่า ทูตเต่าดำของพวกเขาจะจบชีวิตลงที่นี่
+M2224-3_1_1,"{PlayerSurName} Brother, what are you doing?",น้อง{PlayerSurName} เจ้ากำลังทำอะไร?
+M2224-3_1_2,"The inn is short of hands, I'm helping to deliver food.",โรงเตี๊ยมขาดแคลนคนช่วย ข้าเลยมาส่งอาหารให้แทนโรงครัว
+M2224-3_1_3,"This inn really doesn't appreciate, they actually treat you like a Clerk.",โรงเตี๊ยมนี้ไม่เห็นคุณค่ากันจริงๆ พวกเขาปฏิบัติต่อเจ้าเหมือนเสี่ยวเอ้อจริงๆ
+M2224-3_1_4,"It's okay, I'm free anyway.",ไม่เป็นไร ยังไงข้าก็ว่างอยู่แล้ว
+M2224-3_1_5,"{PlayerSurName} Brother personally delivers food, I must give face.",น้องชาย{PlayerSurName} มาเสิร์ฟอาหารด้วยตัวเอง ข้าควรไว้หน้าเขา
+M2224-3_1_6,(Takes the food and starts eating),(รับอาหารแล้วเริ่มกินทันที)
+M2224-3_2_1,What are you trying to do?,เจ้าคิดจะทำอะไร?
+M2224-3_2_2,"The inn is short of hands, I'm helping to deliver food.",โรงเตี๊ยมขาดแคลนคนช่วย ข้าเลยมาส่งอาหารให้แทนโรงครัว
+M2224-3_2_3,I'm not used to eating food from Strangers.,ข้าไม่กินอาหารจากคนแปลกหน้า
+M2224-3_2_4,"Are you afraid that the inn has Poisoned you, or that I have Poisoned you?",เจ้ากลัวโรงเตี๊ยมหรือข้าจะวางยาเจ้ารึไง?
+M2224-3_2_5,"In the martial arts world, one must be careful.",ในยุทธภพ ไม่ว่าผู้ใดก็ต้องระวังไว้ก่อน
+M2224-3_2_6,"Whatever, eat or not, it's up to you.",ก็แล้วแต่ เจ้าจะกินไม่กินก็แล้วแต่เจ้า
+M2225-0_1_1,"So, young hero {PlayerSurName}, you are worried about my safety and plan to guard outside the door?",แปลว่าท่านจอมยุทธน้อย{PlayerSurName} กังวลความปลอดภัยของข้าเลยตั้งใจจะป้องกันอยู่ด้านหน้าประตูสินะ?
+M2225-0_1_2,"I'm just wandering around, checking for any safety hazards. Seeing that you're okay, I'm relieved.",ข้าเพียงแค่ตรวจรอบๆเท่านั้น ดูว่าอาจมีอันตรายอะไรไหม ท่านไม่เป็นอะไร ข้าก็โล่งใจแล้ว
+M2225-0_1_3,"Thank you for your concern, young hero {PlayerSurName}.",ขอบคุณท่านจอมยุทธน้อย ในความเป็นห่วงของท่านมาก
+M2225-0_2_1,"We meet again, you didn't get lost in the desert, you're really lucky.",เจอกันอีกแล้ว เจ้าไม่หลงทางในทะเลทราย โชคดีจริงๆ
+M2225-0_2_2,"Thanks to you, it's just a desert, it can't bury me.",ขอบใจมาก มันก็แค่ทะเลทราย ฝังข้าไม่ได้หรอก
+M2225-0_2_3,"Hmph, the road ahead is long, without guidance, you can only return to the Central Plains.",ฮึ่ม ทางข้างหน้านั้นยาวไกล หากไม่มีการนำทาง เจ้าทำได้เพียงกลับไปยังจงหยวนเท่านั้น
+M2225-0_2_4,"There will be a way when the car reaches the mountain, you don't need to worry.",ต้องมีทางก่อน รถถึงจะผ่านภูเขาได้ เจ้าไม่ต้องกังวล
+M2225-1_1_1,What are you doing?,เจ้ากำลังทำอะไร?
+M2225-1_1_2,"The inn is short of hands, I'm helping to deliver food.",โรงเตี๊ยมขาดแคลนคนช่วย ข้าเลยมาส่งอาหารให้แทนโรงครัว
+M2225-1_1_3,"You're my hired Bodyguard, but you're helping others. Do you still want your salary?",เจ้าเป็นคนคุ้มภัยที่ข้าจ้างมาแต่ดันไปช่วยคนอื่นเนี่ยนะ ยังอยากได้เงินอยู่ไหมฮะ?
+M2225-1_1_4,"It's just a helping hand, besides, you're not in danger now, you don't need protection.",ข้าแค่ช่วยผู้อื่นเล็กๆน้อยๆเท่านั้น อีกอย่างรอบๆนี้ไม่มีอันตรายใดๆ ท่านไม่ต้องการคุ้มภัยแน่นหนาขนาดนั้น
+M2225-1_1_5,That's not acceptable!,ข้ายอมรับไม่ได้อยู่ดี!
+M2225-1_1_6,"Let me tell you, I hired you as my Bodyguard, you must protect me at all times, you can only follow my arrangements, otherwise you won't get a penny of the remaining salary!",ข้าบอกเจ้าไว้ก่อน ข้าจ้างเจ้ามาเป็นผู้คุ้มภัย หน้าที่ของเจ้าคือต้องปกป้องข้าทุกฝีก้าว เจ้าต้องเชื่อฟังข้าแต่เพียงผู้เดียว  ถ้าไม่เช่นนั้นข้าจะไม่จ่ายค่าจ้างที่เหลือให้เจ้าแม้แต่อีแปะเดียว!
+M2225-1_1_7,"I've brought you the food, eat or not, it's up to you.",ข้าเพียงเอาอาหารมาให้ท่าน จะกินไม่กินก็เรื่องของท่าน
+M2225-1_2_1,"Yo, what is the great hero doing?",ไง ท่านจอมยุทธ์ผู้ยิ่งใหญ่กำลังทำอะไรอยู่?
+M2225-1_2_2,"The inn is short of hands, I'm helping to deliver food.",โรงเตี๊ยมขาดแคลนคนช่วย ข้าเลยมาส่งอาหารให้แทนโรงครัว
+M2225-1_2_3,"I thought you were so noble, but it seems a Coin can stump a hero.\nEven if you have great skills, you still end up running errands and delivering food.","ข้าคิดว่าท่านสูงส่งดังพวกขุนนาง แต่ดูเหมือนว่าเงินก็ทำให้จอมยุทธ์สะดุดได้\nแม้ว่าท่านจะมีฝีมือที่ยอดเยี่ยมแค่ไหน แต่ท่านก็ยังต้องไปทำงานแบกห่าม และวิ่งบริการอาหารอยู่ดี"
+M2225-1_2_4,"I've brought you the food, eat or not, it's up to you.",ข้าเพียงเอาอาหารมาให้ท่าน จะกินไม่กินก็เรื่องของท่าน
 M2225-2_1_1,"Tell me honestly, who are you and why are you coming to the Western Regions?"
 M2225-2_1_2,"I, I was telling the truth just now."
 M2225-2_1_3,"Your eyes were evasive when you spoke, you must have lied."

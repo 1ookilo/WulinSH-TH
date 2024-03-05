@@ -2209,76 +2209,76 @@ R10039-7_overview1,Meet Ding Haitang in front of Duke Kang's manor in Lin'an Cit
 R10039-7_overview2,Return to Jiujiang Fotress to report the situation to Ding Fengbo.
 R10039-7_option1_1,Set off now!<color=#c44b0e>(Specific battle)</color>,ออกเดินทาง! <color=#c44b0e>(เข้าสู่การต่อสู้)</color>
 R10039-7_option1_2,Prepare a little.,เตรียมตัวเล็กน้อย
-R10039-9_option1_1,Place the <color=#c44b0e>Wedding Stone</color>. <color=#097a76>(1 Wedding Stone)</color>
+R10039-9_option1_1,Place the <color=#c44b0e>Wedding Stone</color>. <color=#097a76>(1 Wedding Stone)</color>,วาง <color=#c44b0e>ศิลาวิวาห์</color> <color=#097a76>(1 ศิลาวิวาห์)</color>
 R10039-9_option1_2,"I was too impulsive just now, I regret it.",ข้าใจร้อนเกินไป ข้าผิดไปแล้ว
 R10039-9_option2_1,Choose Princess Fuqing.,เลือกองค์หญิงฟู่ชิง
 R10039-9_option2_2,Choose Ding Haitang.,เลือกติง ไห่ถัง
-R10108-3_option1_1,Place the <color=#c44b0e>Wedding Stone</color>. <color=#097a76>(1 Wedding Stone)</color>
+R10108-3_option1_1,Place the <color=#c44b0e>Wedding Stone</color>. <color=#097a76>(1 Wedding Stone)</color>,วาง <color=#c44b0e>ศิลาวิวาห์</color> <color=#097a76>(1 ศิลาวิวาห์)</color>
 R10108-3_option1_2,"I was too impulsive just now, I regret it.",ข้าใจร้อนเกินไป ข้าผิดไปแล้ว
-M2221-1_name,Avoid the black sandstorm
-M2221-1_overview1,Wait for twelve shichen in the inn to avoid the black sandstorm.
-M2221-1_overview2,"The black sandstorm has ended, you can leave the inn now."
-M2221-3_NpcName,Rough voice
-M2221-4_option1_1,Tell the truth!
-M2221-4_option1_2,Make up a story.
+M2221-1_name,Avoid the black sandstorm,หลบเลี่ยงพายุทรายดำ
+M2221-1_overview1,Wait for twelve shichen in the inn to avoid the black sandstorm.,รอ สิบสองชั่วยาม ในโรงเตี๊ยมเพื่อหลบเลี่ยงพายุทรายดำ
+M2221-1_overview2,"The black sandstorm has ended, you can leave the inn now.",พายุทรายดำจบลงแล้ว เจ้าสามารถออกจากโรงเตี๊ยมได้แล้ว
+M2221-3_NpcName,Rough voice,เสียงแข็งกร้าว
+M2221-4_option1_1,Tell the truth!,บอกความจริง!
+M2221-4_option1_2,Make up a story.,โม้ขึ้นมา
 M2221-6_option1_1,"Start the contest.<color=#097a76>(Stamina10, protagonist solo)</color>",เริ่มประลอง <color=#097a76>10 แรงกาย ตัวเอกสู้คนเดียว)</color> 
 M2221-6_option1_2,I'm busy now.,ข้ายุ่งอยู่
-M2221-7_name,Please heal the injury
-M2221-7_overview1,Find someone with a medical skill of 100 to heal Old Hunchback's injury.
-M2221-11_option1_1,Inquire about the news.<color=#097a76>(15000Coin)</color>
-M2221-11_option1_2,Not interested.
-M2222-0_option1_1,Push the door and enter.
-M2222-0_option1_2,Stay away from here.
-M2222-0_npcname,Old voice
-M2223-0_option1_1,Play finger-guessing game with Haitang Qiu.
-M2223-0_option1_2,Not interested.
-M2223-0_option2_1,Rock!
-M2223-0_option2_2,Scissors!
-M2223-0_option2_3,Paper!
-M2223-0_option3_1,Keep playing.
-M2223-0_option3_2,Stop playing.
-M2223-1_option1_1,Help Ren Zhongheng.
+M2221-7_name,Please heal the injury,โปรดรักษาอาการบาดเจ็บ
+M2221-7_overview1,Find someone with a medical skill of 100 to heal Old Hunchback's injury.,หาใครที่มีวิชาแพทย์เกิน 100 เพื่อรักษาอาการของตาแก่หลังค่อม
+M2221-11_option1_1,Inquire about the news.<color=#097a76>(15000Coin)</color>,สอบถามข่าวสาน <color=#097a76>(15 ตำลึง)</color>
+M2221-11_option1_2,Not interested.,ไม่สนใจ
+M2222-0_option1_1,Push the door and enter.,เปิดประตูเข้าไป
+M2222-0_option1_2,Stay away from here.,อยู่ห่างๆ 
+M2222-0_npcname,Old voice,เสียงชรา
+M2223-0_option1_1,Play finger-guessing game with Haitang Qiu.,เล่นเป่ายิงฉุบกับไห่ถังฉิว
+M2223-0_option1_2,Not interested.,ไม่สนใจ
+M2223-0_option2_1,Rock!,ค้อน!
+M2223-0_option2_2,Scissors!,กรรไกร!
+M2223-0_option2_3,Paper!,กระดาษ!
+M2223-0_option3_1,Keep playing.,เล่นต่อไป
+M2223-0_option3_2,Stop playing.,หยุดเล่น
+M2223-1_option1_1,Help Ren Zhongheng.,ช่วย เหริน จงเหิง
 M2223-1_option1_2,Help Haitang Qiu.<color=#c44b0e>(Specific battle)</color>,ช่วย ไห่ถัง ฉิว <color=#c44b0e>(เข้าสู่การต่อสู้)</color>
-M2223-1_option1_3,Help neither.
-M2224-1_option1_1,Use MedicalHeal. (<color=#097a76>Medical80</color>)
-M2224-1_option1_2,Use MP to heal his injury.(<color=#097a76>Consume 1000Max MP</color>)
-M2224-1_option1_3,This pill may heal your injury.(<color=#097a76>Fragrance preservation pill1</color>)
-M2224-1_option1_4,"I'm sorry, I can't help."
+M2223-1_option1_3,Help neither.,ไม่ช่วยทั้งคู่
+M2224-1_option1_1,Use MedicalHeal. (<color=#097a76>Medical80</color>),ใช้ทักษาการแพทย์ <color=#097a76>(แพทย์ 80)</color>
+M2224-1_option1_2,Use MP to heal his injury.(<color=#097a76>Consume 1000Max MP</color>),ใช้ลมปราณช่วยรักษา <color=#097a76>(ลด MP สูงสุดลง 1000)</color>
+M2224-1_option1_3,This pill may heal your injury.(<color=#097a76>Fragrance preservation pill1</color>),ยานี่น่าจะช่วยเจ้าได้ <color=#097a76>Z(โอสถหอมรักษาสวรรค์)</color>
+M2224-1_option1_4,"I'm sorry, I can't help.",ขออภัย ข้าคงช่วยเจ้าไม่ได้
 M2224-2_option1_1,Help Ren Zhongheng.<color=#c44b0e>(Specific battle)</color>,ช่วย เหริน จงเหิง <color=#c44b0e>(เข้าสู่การต่อสู้)</color>
-M2224-2_option1_2,Help Shi Wenxiu.<color=#c44b0e>(Specific battle)</color>,ช่วย สือ เหวินซิ่ว <color=#c44b0e>(เข้าสู่การต่อสู้)</color>
-M2224-2_option1_3,Help neither.
-M2225-2_option1_1,Step up!<color=#c44b0e>(Solo by protagonist)</color>
-M2225-2_option1_2,Don't meddle in other's business.
-M2225-2_npcname,Voice of the tea merchant
+M2224-2_option1_2,Help Shi Wenxiu.<color=#c44b0e>(Specific battle)</color>,ช่วยสือเหวินซิ่ว <color=#c44b0e>(เข้าสู่การต่อสู้)</color>
+M2224-2_option1_3,Help neither.,ไม่ช่วยทั้งคู่
+M2225-2_option1_1,Step up!<color=#c44b0e>(Solo by protagonist)</color>,ก้าวไปข้างหน้า! <color=#c44b0e>(ตัวเอกสู้คนเดียว)</color>
+M2225-2_option1_2,Don't meddle in other's business.,อย่ายุ่งเรื่องคนอื่นดีกว่า
+M2225-2_npcname,Voice of the tea merchant,เสียงของพ่อค้าขายชา
 M20400-8_option1_1,Help Ren Zhongheng.<color=#c44b0e>(Specific battle)</color>,ช่วย เหริน จงเหิง <color=#c44b0e>(เข้าสู่การต่อสู้)</color>
-M20400-8_option1_2,Refuse to take action.
+M20400-8_option1_2,Refuse to take action.,ปฏิเสธที่จะเข้าไปยุ่ง
 M20400-9_option1_1,Agree with He Denuo.,เห็นด้วยกับเหอเต๋อนัว
 M20400-9_option1_2,Refuse He Denuo.,ปฏิเสธเหอเต๋อนัว
 M20400-9_option2_1,Agree with He Denuo.,เห็นด้วยกับเหอเต๋อนัว
 M20400-9_option2_2,Disagree with He Denuo.,ไม่เห็นด้วยกับเหอเต๋อนัว
-R10004-2_name,Mission of the Xuanwu Envoy
+R10004-2_name,Mission of the Xuanwu Envoy,ภารกิจของทูตเต่าดำ
 R10004-2_overview1,Eliminate the branch of Cold Skin Gang near the Holy Fire Sect.,กวาดล้างสาขาของพรรคมังสาเหมันต์ใกล้นิกายไฟศักดิ์สิทธิ์ทั้งหมด
-R10004-2_overview2,Return to the Holy Fire Sect to report to the Xuanwu Envoy.
+R10004-2_overview2,Return to the Holy Fire Sect to report to the Xuanwu Envoy.,กลับไปยังนิกายไฟศักดิ์สิทธิ์ แล้วรายงานต่อ ทูตเต่าดำ
 R10004-2_option1_1,Eliminate the branch of Cold Skin Gang!<color=#c44b0e>(Specific battle)</color>,กวาดล้างสาขาพรรคมังสาเหมันต์ <color=#c44b0e>(เข้าสู่การต่อสู้)</color>
 R10004-2_option1_2,Turn around and run away.,หันหลังและจากไป
-R10085-2_option1_1,Accept the challenge!<color=#097a76>(Solo by protagonist)</color>
-R10085-2_option1_2,Refuse the challenge.
-R10085-3_name,The Fall of the White Tiger
+R10085-2_option1_1,Accept the challenge!<color=#097a76>(Solo by protagonist)</color>,ยอมรับคำท้า! <color=#097a76>(ตัวเอกสู้คนเดียว)</color> 
+R10085-2_option1_2,Refuse the challenge.,ปฏิเสธคำท้า
+R10085-3_name,The Fall of the White Tiger,พยัคฆ์ขาวร่วงหล่น
 R10085-3_overview1,Go to Bailing Mountain in the Southwest region and kill Yan Luochong.,ไปที่ภูเขาไป่หลิง ในภูมิภาคตะวันตกเฉียงใต้แล้วสังหารเยี่ยนหลัวจง
 R10085-3_overview2,Go to Bailing Mountain in the Southwest region and kill an arrogant and cold swordsman.
 R10085-3_overview3,"You have completed the task assigned by Gu Qing Yang, you can return to the Holy Fire Sect to report."
-R10105-3_name,Investigate Flame Sand Cave
-R10105-3_overview1,Enter the Flame Sand Cave to investigate.
-R10105-3_overview2,You can report the situation of Flame Sand Cave to Feng Xuanji.
-R10105-4_name,Rush to the rescue of Chang'an Inn
+R10105-3_name,Investigate Flame Sand Cave,สำรวจถ้ำทรายอัคคี
+R10105-3_overview1,Enter the Flame Sand Cave to investigate.,เข้าไปยังถ้ำทรายอัคคีเพื่อสำรวจ
+R10105-3_overview2,You can report the situation of Flame Sand Cave to Feng Xuanji.,รายงานสถานการณ์ของถ้ำทรายอัคคีต่อ เฟิงเสวียนจี
+R10105-4_name,Rush to the rescue of Chang'an Inn,บุกไปช่วยโรงเตี๊ยมฉางอัน
 R10105-4_overview1,Go to Chang'an Inn for rescue.,ไปยังโรงเตี๊ยมฉางอันเพื่อช่วยเหลือ
 R10105-4_overview2,Return to the Holy Fire Sect to report to Feng Xuanji.,กลับนิกายไฟศักดิ์สิทธิ์รายงานต่อเฟิงเสวียนจี
-R10105-4_option1_1,Charge in!<color=#c44b0e>(Immediate battle)</color>
-R10105-4_option1_2,Come back later.
-R10085-5_name,The Fall of the Vermilion Bird
+R10105-4_option1_1,Charge in!<color=#c44b0e>(Immediate battle)</color>,บุกเข้าไป!<color=#c44b0e>(ต่อสู้ทันที)</color>
+R10105-4_option1_2,Come back later.,กลับมาวันหลัง
+R10085-5_name,The Fall of the Vermilion Bird,วิหคเพลิงอมตะร่วงหล่น
 R10085-5_overview1,Find the right opportunity to assassinate Feng Xuanji.,ค้นหาโอกาสเหมาะในการลอบสังหารเฟิงเสวียนจี
 R10085-5_overview2,"You have completed the task assigned by Gu Qing Yang, you can return to the Holy Fire Sect to report."
-M2230-0_option1_1,Charge in!<color=#c44b0e>(Immediate battle)</color>
+M2230-0_option1_1,Charge in!<color=#c44b0e>(Immediate battle)</color>,บุกเข้าไป!<color=#c44b0e>(ต่อสู้ทันที)</color>
 M2230-0_option1_2,Run away in the distance.
 M20400-11_option1_1,Help them heal the sick.<color=#097a76>Medical100</color>
 M20400-11_option1_2,"I'm sorry, I can't help."
