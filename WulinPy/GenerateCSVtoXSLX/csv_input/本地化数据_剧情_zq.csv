@@ -1313,11 +1313,11 @@ Role3-11_6_2,"I know why I'm here, I'm here to help you collect Wolf skins.",ข
 Role3-11_6_3,"The general is a man meant to achieve great deeds, how can he do these trivial things.\nThe task of collecting Wolf skins has been assigned to other soldiers. Please focus on your own duties, general.","ขุนพลผู้ยิ่งใหญ่ควรทุ่มเทให้กับภารกิจใหญ่ ไม่ควรเสียเวลากับเรื่องจิปาถะ\nการเก็บหนังหมาป่าได้มอบหมายให้ทหารคนอื่นแล้ว ขอท่านขุนพลจดจ่อกับหน้าที่ของตนเองเถิด"
 Role3-12_1_1,"{PlayerName}, Marshal Ye wants to see you, hope you can return to the camp as soon as possible.",ขุนพลเย่มีรับสั่งให้ {PlayerName} กลับค่ายโดยเร็วที่สุด
 Role3-12_1_2,"I know, I will go back as soon as possible.",ข้าทราบแล้ว ข้าจะกลับไปโดยเร็วที่สุด
-Role3-12_2_1,"{PlayerName}, although you have not been in the Ye Family Battalion for a long time, your military achievements are outstanding. Today, I promote you to the rank of <color=#c44b0e>Guerrilla General</color>. From now on, you can participate in military affairs, and your daily salary will be personally distributed by me."
+Role3-12_2_1,"{PlayerName}, although you have not been in the Ye Family Battalion for a long time, your military achievements are outstanding. Today, I promote you to the rank of <color=#c44b0e>Guerrilla General</color>. From now on, you can participate in military affairs, and your daily salary will be personally distributed by me.",{PlayerName} แม้ว่าเจ้าจะไม่ได้อยู่ในกองพันตระกูลเย่แล้ว แต่ความสำเร็จทางทหารของเจ้าก็โดดเด่น วันนี้ ข้าขอเลื่อนตำแหน่งให้เจ้าเป็น <color=#c44b0e>แม่ทัพหน่วยกองโจร</color> จากนี้ไป เจ้าสามารถเข้าร่วมในภารกิจของกองทัพได้ และข้าจะจ่ายเงินเดือนเป็นรายวันให้เกับเจ้าเป็นการส่วนตัว
 Role3-12_2_2,"Thank you, Marshal!",ขอบคุณ แม่ทัพใหญ่!
 Role3-13_1_1,"This is today's salary, you need to check it carefully.\nIn our Ye Family Battalion, we will never deduct salaries, but we will not make up for expired ones.","เงินเดือนวันนี้มาแล้ว ขอท่านตรวจสอบอย่างละเอียด\nในกองทัพเย่ของเรา เราไม่เคยหักเงินเดือน แต่หากท่านไม่ได้รับเงินเดือนที่ครบถ้วน กรุณาแจ้งให้เราทราบเพื่อแก้ไขโดยเร็ว"
 Role3-13_2_1,"You have already received today's salary, don't try to cheat here.",อย่ามาโกงวันนี้เจ้าได้ค่าจ้างไปแล้ว
-Role3-13_3_1,"General {PlayerSurName}, these salaries are squeezed out of the common people's teeth. As soldiers, we must be worthy of every penny of the people's hard-earned money."
+Role3-13_3_1,"General {PlayerSurName}, these salaries are squeezed out of the common people's teeth. As soldiers, we must be worthy of every penny of the people's hard-earned money.","ท่านนายพล{PlayerSurName}, เงินเดือนเหล่านี้ได้มาจากน้ำพักน้ำแรงของประชาชน ในฐานะทหารอย่างเรา เราต้องทำงานให้คุ้มค่ากับเงินทุกอีแปะที่ประชาชนหามาอย่างยากลำบาก"
 Role3-13_4_1,"General {PlayerSurName}, you have already received today's salary.",ขุนพล {PlayerSurName} ท่านได้รับเงินเดือนวันนี้เรียบร้อยแล้ว
 Role3-14_1_1,"Marshal Ye, it's really not easy for me to see you.",ขุนพลเย่ ข้าน้อยต้องฝ่าฟันอุปสรรคมากมายกว่าจะได้เข้าพบท่าน
 Role3-14_1_2,"After many years, Marshal Ye is still as heroic as ever, it's really admirable.",ผ่านมาหลายปี ขุนพลเย่ยังคงองอาจ เด็ดเดี่ยว เปี่ยมด้วยวีรกรรม น่าชื่นชมยิ่งนัก
@@ -1333,7 +1333,7 @@ Role3-14_3_8,"The Yan army originally intended to held His Imperial Majesty as a
 Role3-14_3_9,"The Yan army is delighted to see our country in chaos, hoping for internal strife and a waste of national strength through infighting so that they can easily conquer us one by one.\n","กองทัพเยี่ยนรู้สึกยินดีเป็นอย่างยิ่งที่ได้เห็นแคว้นของเราตกอยู่ในความสับสนวุ่นวาย โดยหวังว่าจะเกิดความขัดแย้งภายในและสูญเสียความแข็งแกร่งของแคว้นผ่านการต่อสู้กันเอง เพื่อให้พวกเขาสามารถพิชิตเราทีละคนได้อย่างง่ายดาย\n"
 Role3-14_3_10,"Among the current lords, only His Highness, Duke Kang has the talent and strategy, and is most qualified to inherit the throne. If His Highness, Duke Kang ascends the throne and unifies all regional lords, he will be able to recover the lost land in the future!","ในบรรดาเหล่าเจ้าผู้ครองแคว้น ณ เวลานี้ มีเพียงแต่ ""อ๋องคัง"" เท่านั้นที่ทรงคุณสมบัติเพียบพร้อมทั้งด้านสติปัญญาและกลยุทธ์ เหมาะสมที่สุดที่จะทรงครองราชย์หาก ""อ๋องคัง"" ได้ทรงครองราชย์และทรงรวบรวมแคว้นต่างๆ เข้าด้วยกัน ในอนาคต ย่อมทรงสามารถกู้คืนผืนแผ่นดินที่สูญเสียไปได้"
 Role3-14_4_1,(Isn't Duke Kang already dead? How can they still plan to support Duke Kang as emperor?),(อ๋องคังไม่ได้เสียชีวิตไปแล้วหรือ? ทำไมพวกนี้ถึงยังวางแผนที่จะสนับสนุนอ๋องคังให้เป็นฮ่องเต้?)
-Role3-14_5_1,So you want to be the minister of the dragon and establish the merit of support...
+Role3-14_5_1,So you want to be the minister of the dragon and establish the merit of support...,ปรากฎว่าเจ้าต้องการที่จะเป็นอัครเสนาบดี และมีส่วนร่วมในการสนับสนุนก่อตั้ง...
 Role3-14_5_2,"Marshal Ye commands tens of thousands in the Ye Family Battalions. Your intention could be a game-changer. May I know if you are willing to support His Highness, Duke Kang, in ascending to the throne and becoming the Emperor?",แม่ทัพเย่ มีทหารในสังกัดกว่าหมื่นคน ความตั้งใจของท่านอาจพลิกเกมได้ ข้าพเจ้าขอเรียนถามว่า ท่านยินดีสนับสนุนองค์ชายคัง ขึ้นครองราชย์เป็นฮ่องเต้หรือไม่
 Role3-14_5_3,"This is a major matter, please allow me to think about it. I will give you an answer at this time tomorrow.",เรื่องนี้สำคัญยิ่ง ข้าพเจ้าขอคิดดูก่อน ข้าพเจ้าจะให้คำตอบท่านในวันพรุ่งนี้ เวลาเดียวกันนี้
 Role3-14_5_4,"Since Marshal Ye has said so, then we will wait for the good news with Imperial Censor Qin.",ท่านแม่ทัพเย่พูดเช่นนี้ ข้าพเจ้ากับท่านผู้ตรวจการแผ่นดินฉิน คงต้องรอฟังข่าวดี
@@ -15005,36 +15005,36 @@ R10086-1_7_1,"Brother Lu, is this the Xuerong you lost?"
 R10086-1_7_2,Awoo?
 R10086-1_7_3,"{PlayerSurName} brother, don't make fun of me, this is clearly a white wolf."
 R10086-1_7_4,"Haha, just kidding, I will continue to help you find the cat."
-R10086-1_8_1,Xue... Xuerong!
-R10086-1_8_2,"No mistake, this is my Xuerong...\nXuerong, I finally see you, I was so worried..."
-R10086-1_8_3,"Wait, what's going on here..."
-R10086-1_8_4,"Thank you, {PlayerSurName} brother, for letting me meet Xuerong again.\nI really don't know how to repay this kindness..."
-R10086-1_8_5,"Brother Lu, are you saying that this snow leopard that I worked so hard to get is your lost cat?"
-R10086-1_8_6,"Snow leopard? {PlayerSurName} brother, you're joking, this is clearly a cat, just a bit bigger."
-R10086-1_8_7,Meow~
-R10086-1_8_8,"Listen, it can meow, how cute."
-R10086-1_8_9,"No, it doesn't look like a cat no matter how you look at it..."
-R10086-1_8_10,"Well, anyway, if it really is your Xuerong, it's a good thing to let it return to you. Although I'm a bit reluctant, I'll still let it go and let it reunite with its owner."
-R10086-1_8_11,"Thank you, {PlayerSurName} brother, please accept these small gifts."
-R10086-1_9_1,"Then I won't be polite.\nAlright, I have something else to do, I'll leave first."
-R10086-1_9_2,"Xuerong, let's go, let's continue our journey!"
-R10086-1_9_3,"What's wrong, Xuerong? Don't you want to travel with me?"
-R10086-1_9_4,Meow~
-R10086-1_9_5,...I see.
-R10086-1_9_6,"{PlayerSurName} brother, please wait!"
-R10086-1_9_7,"Brother Lu, is there anything else?"
-R10086-1_9_8,"{PlayerSurName} brother, I have another request."
-R10086-1_9_9,"Brother Lu, please don't hesitate to say it."
-R10086-1_9_10,"Xue Rong just told me that {PlayerSurName} has been taking good care of it these past few days, and it hopes to accompany {PlayerSurName} for a while longer."
-R10086-1_9_11,"This... Isn't it your pet, Brother Lu? It seems inappropriate for me to take it away..."
-R10086-1_9_12,"No relations, and this is also its wish."
-R10086-1_9_13,Then I would be rude not to accept~
-R10086-1_9_14,"By the way, here is a piece of beast accessory, which I transformed from its favorite toy when it was young. I'll give it to {PlayerSurName} as well."
-R10086-1_9_15,"Beast equipment, isn't that the technology of Beast Manor..."
-R10086-1_9_16,"{PlayerSurName}, you are indeed knowledgeable. I learned this technology from Beast Manor."
-R10086-1_9_17,"I see, what are your plans, Brother Lu?"
-R10086-1_9_18,"Well... I would like to wander around the martial arts world for a while longer. By the way, if {PlayerSurName} doesn't mind, let's travel together!"
-R10086-1_9_19,Then I'll have to rely on Brother Lu.
+R10086-1_8_1,Xue... Xuerong!,เสี่ย... เสี่ยหลง!
+R10086-1_8_2,"No mistake, this is my Xuerong...\nXuerong, I finally see you, I was so worried...","ไม่ผิดแน่ นี่คือเสี่ยหลงของข้า...\nเสี่ยหลง ในที่สุดข้าก็ได้พบเจ้า ข้าเป็นห่วงเจ้ามากจริงๆ ..."
+R10086-1_8_3,"Wait, what's going on here...",เดี๋ยวนะ นี่มันเรื่องอะไรกัน...
+R10086-1_8_4,"Thank you, {PlayerSurName} brother, for letting me meet Xuerong again.\nI really don't know how to repay this kindness...","ต้องขอบคุณน้องชาย{PlayerSurName}มาก ที่ทำให้ข้าได้พบกับเสี่ยหลงอีกครั้ง\nข้าไม่รู้จะตอบแทนน้ำใจนี้ยังไงจริงๆ..."
+R10086-1_8_5,"Brother Lu, are you saying that this snow leopard that I worked so hard to get is your lost cat?",พี่ลู่ ท่านกำลังบอกว่าเสือดาวหิมะที่ข้าพยายามอย่างหนักเพื่อให้ได้มา มันคือแมวที่หายไปของท่านเหรอ?
+R10086-1_8_6,"Snow leopard? {PlayerSurName} brother, you're joking, this is clearly a cat, just a bit bigger.",เสือดาวหิมะ? น้อง{PlayerSurName} กำลังล้อข้าเล่นอยู่แน่ๆ นี่มันแมวชัดๆ แค่มันตัวใหญ่กว่านิดหน่อย
+R10086-1_8_7,Meow~,เมี้ยว~
+R10086-1_8_8,"Listen, it can meow, how cute.",ฟังสิ มันร้องเมี๊ยวด้วย น่ารักจริงๆ
+R10086-1_8_9,"No, it doesn't look like a cat no matter how you look at it...",ไม่มีทาง มองยังไงมันก็ไม่เหมือนแมว...
+R10086-1_8_10,"Well, anyway, if it really is your Xuerong, it's a good thing to let it return to you. Although I'm a bit reluctant, I'll still let it go and let it reunite with its owner.",เอาเถอะ แม้ว่าข้าจะยังสับสนเล็กน้อย แต่ถ้ามันเป็นเสี่ยหลงของท่านจริงๆ ก็ถือเป็นเรื่องดีที่จะปล่อยให้มันกลับไปหาเจ้าของที่แท้จริงของมันอีกครั้ง
+R10086-1_8_11,"Thank you, {PlayerSurName} brother, please accept these small gifts.",ขอบคุณมาก น้อง{PlayerSurName} โปรดรับของขวัญเล็กๆ น้อยๆ ชิ้นนี้เพื่อตอบแทนความลำบากของเจ้าด้วย
+R10086-1_9_1,"Then I won't be polite.\nAlright, I have something else to do, I'll leave first.","งั้นข้าไม่เกรงใจ ขอรับไว้ล่ะนะ\nเอาล่ะ ข้ามีอย่างอื่นต้องทำ ข้าต้องขอตัวก่อน"
+R10086-1_9_2,"Xuerong, let's go, let's continue our journey!","เสี่ยหลง, ไปกันเถอะ ได้เวลาที่เราต้องไปท่องยุทธภพกันต่อ!"
+R10086-1_9_3,"What's wrong, Xuerong? Don't you want to travel with me?",เกิดอะไรขึ้นกับแก เสี่ยหลง? แกไม่อยากไปเที่ยวกับแล้วข้าเหรอ?
+R10086-1_9_4,Meow~,เหมียว~
+R10086-1_9_5,...I see.,...อย่างนี้เอง
+R10086-1_9_6,"{PlayerSurName} brother, please wait!",น้อง{PlayerSurName} ได้โปรดรอก่อน!
+R10086-1_9_7,"Brother Lu, is there anything else?","พี่ลู่, มีอะไรอีกไหม?"
+R10086-1_9_8,"{PlayerSurName} brother, I have another request.","น้อง{PlayerSurName}, ข้ามีเรื่องจะขออะไรเจ้าอย่าง"
+R10086-1_9_9,"Brother Lu, please don't hesitate to say it.","พี่ลู่, โปรดอย่าเกรงใจที่จะพูด"
+R10086-1_9_10,"Xue Rong just told me that {PlayerSurName} has been taking good care of it these past few days, and it hopes to accompany {PlayerSurName} for a while longer.",เสี่ยหลงเพิ่งบอกข้าว่า ที่ผ่านมาน้อง{PlayerSurName}ได้ดูแลมันเป็นอย่างดี และมันอยากจะอยู่กับน้อง{PlayerSurName}ไปอีกสักพัก
+R10086-1_9_11,"This... Isn't it your pet, Brother Lu? It seems inappropriate for me to take it away...",แต่นี่... มันเป็นสัตว์เลี้ยงของพี่ลู่ไม่ใช่เหรอ? มันดูไม่เหมาะสมที่ข้าจะพรากมันไปจากพี่...
+R10086-1_9_12,"No relations, and this is also its wish.",มันไม่สำคัญ และนี่ก็เป็นสิ่งที่มันต้องการ
+R10086-1_9_13,Then I would be rude not to accept~,ถ้าอย่างงั้น ข้าก็ไม่เกรงใจขอรับมันไว้ล่ะนะ~
+R10086-1_9_14,"By the way, here is a piece of beast accessory, which I transformed from its favorite toy when it was young. I'll give it to {PlayerSurName} as well.",อีกอย่าง นี่คือเครื่องประดับของสัตว์อีกชิ้นหนึ่ง สิ่งนี้เคยเป็นของเล่นชิ้นโปรดของมันเมื่อตอนที่ยังมันยังเด็ก ข้าขอมอบให้กับน้อง{PlayerSurName}เช่นกัน
+R10086-1_9_15,"Beast equipment, isn't that the technology of Beast Manor...",อุปกรณ์สัตว์ชิ้นนี้ มันคล้ายกับวิทยาการของหมู่ตึกหมื่นอสูร...
+R10086-1_9_16,"{PlayerSurName}, you are indeed knowledgeable. I learned this technology from Beast Manor.",น้อง{PlayerSurName} เจ้าช่างรอบรู้จริงๆ ข้าเรียนรู้วิทยาการนี้มาจากหมู่ตึกหมื่นอสูร
+R10086-1_9_17,"I see, what are your plans, Brother Lu?",อย่างนี้นี่เอง แล้วพี่ลู่มีแผนจะทำอะไรต่อ?
+R10086-1_9_18,"Well... I would like to wander around the martial arts world for a while longer. By the way, if {PlayerSurName} doesn't mind, let's travel together!",เอ่อ... ข้าอยากจะท่องไปในยุทธภพเพื่อฝึกวรยุทธสักพักหนึ่ง ยังไงก็ตาม ถ้าน้อง{PlayerSurName}ไม่ว่าอะไร เราก็มาเดินทางร่วมกันเถอะ!
+R10086-1_9_19,Then I'll have to rely on Brother Lu.,ถ้างั้นข้าคงต้องรบกวนพี่ลู่แล้ว
 A15015-1_1_1,Why are there so many people at the Glittering Artifact Auction today?,ทำไมวันนี้ถึงมีคนมายังหอไข่มุกมากมายขนาดนี้?
 A15015-1_1_2,"Brother, why are there so many people today?",พี่ชาย ทำไมวันนี้คนเยอะจังเลย?
 A15015-1_1_3,"You really don't know anything? Today, the auctioneer Shi is auctioning a special item, everyone is here for this auction item!",ท่านไม่รู้เรื่องจริงๆ รึ? วันนี้ท่านฉือกำลังจัดประมูลสินค้าพิเศษทุกคนมาที่นี่เพื่อประมูลสินค้านี้!
@@ -15134,12 +15134,12 @@ A15015-1_17_3,"Maybe when I master the Beast Taming skill to <color=#c44b0e>Mast
 A15015-1_18_1,Meow~,เมี้ยว~
 A15015-1_18_2,"I see, the little guy seems to be hungry and came here to catch fish, but it's a bit far from the water surface, it seems unable to catch any.",ข้าเข้าใจแล้ว เจ้าตัวน้อยนี่น่าจะหิวเลยพยายามมาจับปลาที่นี่ แต่มันเอื้อมไม่ถึงผิวน้ำ มันเลยไม่ได้ปลากซักตัว
 A15015-1_18_3,"If I have something it likes to eat, maybe I can get close to it.",ถ้าข้ามีอะไรให้มันกิน คงเข้าไปใกล้ได้แน่ๆ
-R20001-9_1_1,"I didn't expect that in such a short time, you have already tamed your own pet. Truly, the younger generation is to be feared."
-R20001-9_1_2,I just tried it out after hearing Brother Liu's introduction.
-R20001-9_1_3,"You don't have to be modest. When I tamed my first dog, it took me a full two weeks... You have extraordinary talent in this area, it's time to give these things to you."
-R20001-9_1_4,These are...
-R20001-9_1_5,"These are equipment that pets can use. With their help, your pet will definitely be able to assist you better."
-R20001-9_2_1,"Thank you, Brother Liu!"
+R20001-9_1_1,"I didn't expect that in such a short time, you have already tamed your own pet. Truly, the younger generation is to be feared.",ข้าไม่คิดว่าเจ้าจะฝึกสัตว์เลี้ยงให้เชื่องภายในช่วงเวลาอันสั้นเพียงนี้ ช่างเป็นคลื่นลูกใหม่น่ากลัวจริงๆ
+R20001-9_1_2,I just tried it out after hearing Brother Liu's introduction.,ข้าเพิ่งหัดลองทำหลังจะได้ฟังคำแนะนำของพี่ลู่
+R20001-9_1_3,"You don't have to be modest. When I tamed my first dog, it took me a full two weeks... You have extraordinary talent in this area, it's time to give these things to you.",เจ้าไม่จำเป็นต้องถ่อมตน ตอนที่ข้าเลี้ยงสุนัขตัวแรกให้เชื่อง ข้าใช้เวลาถึงสองสัปดาห์เต็ม... ในเมื่อเจ้ามีความสามารถพิเศษในด้านนี้ ถึงเวลาที่ข้าจะมอบสิ่งนี้ให้เจ้าแล้ว
+R20001-9_1_4,These are...,นั่นมัน...
+R20001-9_1_5,"These are equipment that pets can use. With their help, your pet will definitely be able to assist you better.",อุปกรณ์พวกนี้เป็นอุปกรณ์สำหรับสัตว์เลี้ยง ถ้าเจ้าติดตั้งให้กับมัน สัตว์เลี้ยงของเจ้าจะเก่งขึ้นเหมือนเสือติดปีก
+R20001-9_2_1,"Thank you, Brother Liu!",ขอบคุณมาก พี่ลู่!
 R20001-9_2_2,"You don't have to thank me. These were given to me by the disciple of Beast Manor who taught me Beast Taming skills. They've been worn out after so many years of use, and I can't repair them, but... they should still be able to help you."
 R20001-9_2_3,"As for better equipment, perhaps only in Beast Manor can you have a chance to obtain them."
 R20001-9_2_4,Where is this Beast Manor?
@@ -17624,14 +17624,14 @@ XYSH-2_4_4,"However, Zi Tian is far from an ordinary expert, the people sent may
 XYSH-2_5_1,"{PlayerSurName} Young hero, you've heard the situation. The Cold Skin Gang is despicable and shameless, even sending people to spy on our Holy Fire Sect. They must be fearless!"
 XYSH-2_5_2,"Now the Sacred Fire Sect is short of hands, dealing with this kind of martial arts expert is really hard, I, the Sect Leader, would like to ask the young hero to take a trip and assist the Sacred Fire Sect disciples in capturing the second in command of the Cold Skin Gang, there will be a great reward afterwards!"
 XYSH-2_5_3,I will do my best!
-XYSH-2_6_1,"Leader Huo, Sect Leader Fang of the Holy Fire Sect asked me to deliver a letter to you."
-XYSH-2_6_2,"You actually became a messenger for the Holy Fire Sect, you're really helping the tyrant."
-XYSH-2_6_3,(Hand Huo Shilou something)
-XYSH-2_6_4,"This, this is..."
-XYSH-2_6_5,This is a strand of hair from Brother Zi Tian!
-XYSH-2_6_6,{yell}What have you done to Brother Zi Tian?
-XYSH-2_6_7,"Brother Zi Tian is doing very well, Leader Huo, there's no need to worry."
-XYSH-2_6_8,"I, Huo, need to see Brother Zi Tian safe and sound before I can agree to the request in Sect Leader Fang's letter."
+XYSH-2_6_1,"Leader Huo, Sect Leader Fang of the Holy Fire Sect asked me to deliver a letter to you.","เจ้าพรรคฮั่ว, ท่านเจ้าสำนักฟางแห่งนิกายไฟศักดิ์สิทธิ์ให้ข้ามาส่งจดหมายถึงท่าน"
+XYSH-2_6_2,"You actually became a messenger for the Holy Fire Sect, you're really helping the tyrant.",เจ้ากลายมาเป็นผู้ส่งสารของนิกายไฟศักดิ์สิทธิ์ไปแล้ว เป็นการส่งเสริมพวกชั่วช้านั่นจริงๆ
+XYSH-2_6_3,(Hand Huo Shilou something),(ยื่นบางอย่างให้ฮั่วซื่อเหล่า)
+XYSH-2_6_4,"This, this is...","นี่, นี่มัน..."
+XYSH-2_6_5,This is a strand of hair from Brother Zi Tian!,นี่มันเส้นผมของน้องจื่อเทียน!
+XYSH-2_6_6,{yell}What have you done to Brother Zi Tian?,{yell}แกทำอะไรกับน้องจื่อเทียน?
+XYSH-2_6_7,"Brother Zi Tian is doing very well, Leader Huo, there's no need to worry.",พี่จื่อเทียนยังอยู่ดี ขอเจ้าพรรคฮั่วอย่าเพิ่งเป็นกังวล
+XYSH-2_6_8,"I, Huo, need to see Brother Zi Tian safe and sound before I can agree to the request in Sect Leader Fang's letter.",ข้า ฮั่วซื่อเหล่า ต้องการพบกับน้องจื่อเทียนอย่างปลอดภัยเสียก่อน จึงจะสามารถตกลงตามคำขอในจดหมายของเจ้าสำนักฟางได้
 XYSH-2_6_9,"Since you don't trust me, then so be it. When you figure out the pros and cons, come find me."
 XYSH-2_6_10,"Wait! Go back and tell Fang Xiaoian that I will send someone to deliver the item, and I hope he keeps his word!"
 XYSH-2_6_11,"Also, if Brother Zi Tian is missing even a single hair, my Cold Skin Gang will never stop fighting with the Holy Fire Sect!"

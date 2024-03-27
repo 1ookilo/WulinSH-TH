@@ -937,7 +937,7 @@
 3008_3_1,Cough... cough... cough...,แค่ก...แค่ก...
 3008_3_2,"Finally back from the brink of death, I can't bear to die at the hands of that eunuch.",ในที่สุดข้าก็รอดตาย ข้าทนไม่ได้จริงๆ ที่จะต้องมาตายด้วยน้ำมือของเจ้าขันทีนั่น
 3008_3_3,Did you save me? How could you use such a precious Lingzhi to save someone like me?,เจ้าช่วยข้าไว้เหรอ? เจ้าถึงกับต้องใช้เห็ดหลินจืออันล้ำค่าเช่นนี้เพื่อช่วยชีวิตคนอย่างข้า?
-3008_3_4,"Its greatest use is to save lives. Although it's a bit painful, seeing you near death, I didn't have time to think too much.",สิ่งนี้มีไว้เพื่อช่วยชีวิตผู้คน แม้ว่ามันจะเป็นสิ่งที่หายากและล้ำค่ามาก แต่เมื่อข้าเห็นท่านบาดเจ็บหนักถึงเพียงนี้ มันทำให้ข้าไม่มีเวลาคิดมาก
+3008_3_4,"Its greatest use is to save lives. Although it's a bit painful, seeing you near death, I didn't have time to think too much.",แม้ว่าเห็ดหลินจือจะเป็นสิ่งที่หายากและล้ำค่า แต่มันมีไว้สำหรับช่วยชีวิตผู้คน ในเมื่อข้าเห็นท่านบาดเจ็บหนักเจียนตายอยู่ตรงหน้า มันทำให้ข้าไม่อาจนิ่งดูดายได้
 3008_3_5,"A gentleman is ready to die for his friends. From now on, I, Ji Baichu, am willing to go through fire and water for you.",สุภาพบุรุษพร้อมที่จะยอมตายเพื่อสหาย จากนี้ไป ข้า จี้ไป๋ฉู่ พร้อมที่จะบุกน้ำลุยไฟเพื่อท่านแล้ว
 3008_4_1,"Young hero, your team is full. If you need Ji Baichu's help, you can invite me at the Righteous Hall of the Blue Wind Camp.",จอมยุทธน้อย กลุ่มของเจ้าเต็มแล้ว หากเจ้าต้องการความช่วยเหลือจาก จี้ไป๋ฉู่ เจ้าสามารถตามหาข้าได้ที่หอคุณธรรมแห่งค่ายวายุคราม
 3008_5_1,Cough... cough... cough...,แค่ก...แค่ก...
@@ -956,8 +956,8 @@
 3011_2_1,"So it is, and so it goes...",อย่างนี้ และอย่างนั้น...
 3011_2_2,So that's how it is!,อย่างนี้นี่เอง!
 3011_3_1,It seems I've gained some insight...,ดูเหมือนว่าข้าจะเข้าใจบางอย่างแล้ว...
-3011_3_2,"Thank you for the opportunity, senior!"
-3011_4_1,Is this all there is to it...
+3011_3_2,"Thank you for the opportunity, senior!",ขอบคุณผู้อาวุโสสำหรับโอกาส!
+3011_4_1,Is this all there is to it...,ไม่มีอะไรมากไปกว่านี้...
 3013_1_1,"Big brother, wait a moment!",พี่ใหญ่ รอเดี๋ยว!
 3013_1_2,"Big brother, you chased away the bad guys and saved the whole village. You are Xiao Bao's idol. You're leaving so soon, Xiao Bao doesn't know when he'll see you again.",พี่ชาย พี่ไล่ล่าคนเลวและช่วยคนทั้งหมู่บ้านไว้ พี่คือไอดอลของเสี่ยวเป่า พี่กำลังจะจากไปเร็วๆ นี้ เสี่ยวเป่าไม่รู้ว่าจะได้เจอกับพี่ชายอีกครั้งเมื่อไร
 3013_1_3,"We've prepared a special gift for you, big brother, to see you off.",พวกเราได้เตรียมของขวัญสุดพิเศษไว้ให้พี่ด้วยนะ แวะมาหาพวกเราด้วยนะพี่ชาย
@@ -973,10 +973,10 @@
 3017_1_2,Should I wait a little longer?,ควรจะรออีกสักหน่อยไหม?
 3018_1_1,There seems to be some movement?,ดูเหมือนว่ามีบางอย่างเคลื่อนไหว?
 3018_1_2,Should I wait a little longer?,ควรจะรออีกสักหน่อยไหม?
-3019_1_1,"Time waits for no one, I need to earn <color=#c44b0e>1000 wen</color> as soon as possible to run away from here."
-3019_1_10,"I love to hear about strange and unusual things, there's nothing in this Nameless village that I don't know about. If you're bored, feel free to chat with me about gossip and interesting stories."
-3019_1_2,"{PlayerSurName} young man, why are you out and about today? Aren't you afraid the landlady will starve you if you're not working off your debt at the inn?"
-3019_1_3,"When will I be able to pay off my debt by doing odd jobs at the inn. There are so many opportunities to make money outside, as long as I work hard, I don't believe I can't earn enough to pay off my debt."
+3019_1_1,"Time waits for no one, I need to earn <color=#c44b0e>1000 wen</color> as soon as possible to run away from here.","เวลาไม่เคยคอยใคร ข้าต้องหาเงิน <color=#c44b0e>1,000 อีแปะ</color> โดยเร็ว เพื่อที่จะได้ออกไปจากที่นี่"
+3019_1_10,"I love to hear about strange and unusual things, there's nothing in this Nameless village that I don't know about. If you're bored, feel free to chat with me about gossip and interesting stories.",ข้าเป็นคนชื่นชอบเกี่ยวกับเรื่องแปลก ๆ มากมาย ไม่มีความลับอะไรในหมู่บ้านนิรนามที่ข้าไม่รู้ ถ้าหากเจ้ารู้สึกเบื่อก็แวะมาคุยกับข้าเกี่ยวกับข่าวซุบซิบหรือเรื่องราวน่าสนใจได้ตลอดเวลา
+3019_1_2,"{PlayerSurName} young man, why are you out and about today? Aren't you afraid the landlady will starve you if you're not working off your debt at the inn?",เจ้าหนุ่ม{PlayerSurName} ทำไมวันนี้เจ้าถึงมีเวลาออกมาเที่ยวข้างนอกล่ะ? ถ้าเจ้าไม่ทำงานชดใช้หนี้ เจ้าไม่กลัวว่าเถ้าแก่เนี้ยจะให้เจ้าต้องอดอาหารเหรอ?
+3019_1_3,"When will I be able to pay off my debt by doing odd jobs at the inn. There are so many opportunities to make money outside, as long as I work hard, I don't believe I can't earn enough to pay off my debt.",ถ้าข้ายังทำงานเป็นเสี่ยวเอ้ออยู่ในโรงเตี๊ยมแห่งนี้ แล้วเมื่อไรข้าถึงจะมีปัญญาจ่ายหนี้ให้เถ้าแก่เนี้ย ในเมื่อข้างนอกนี้มีลู่ทางทำเงินได้อีกมากมาย ตราบใดที่ข้าขยัน ข้าย่อมสามารถหาเงินมาจ่ายหนี้ได้อย่างง่ายดาย
 3019_1_4,"I heard that one of your personal <color=#c44b0e>treasures</color> is pawned at the landlady's place, isn't it worth a lot of money? Don't you want to sell that treasure, so you can not only pay off your debt, but also have some money left over."
 3019_1_5,"But I'm curious, what's the story behind your treasure? I heard it looks quite unique, tell me about it."
 3019_1_6,"That thing looks like it's made of gold, but it's actually copper. The landlady said the inn is short of a copper incense burner, so if I can't pay off my debt, it's just right to use it as collateral. She plans to melt it down as material for the incense burner."
