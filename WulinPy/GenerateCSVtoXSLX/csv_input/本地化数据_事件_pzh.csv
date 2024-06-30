@@ -1,0 +1,91 @@
+﻿﻿Talking_yanyun,Yan Yun,เยี่ยนหยุน
+Talking_chuguan,Go out,ออกไป
+DBZX-0_name,Find the way to Yan Yun Region.,ค้นหาเส้นทางไปแคว้นเหยียนหยุน
+DBZX-0_overview1,Find the Coachman in the city and ask about the way to Yan Yun Region.,ค้นหา คนขับรถม้าในเมืองและถามเกี่ยวกับทางไป แคว้นเหยียนหยุน
+DBZX-1_name,Pass through Jin Yang Gate,ผ่านประตูจินหยาง
+DBZX-1_overview1,Leave the pass.,ผ่านด่าน
+DBZX-1_option1_1,Act along with the play. <color=#097a76>(Persuade reaches 3rd level Advance)</color>,ร่วมมือกันแสดง. <color=#097a76> (ทักษะโน้มน้าวอยู่ในระดับ 3) </color>
+DBZX-1_option1_2,"Why waste time, just break through! <color=#c44b0e>(Specific battle)</color>",จะมัวเสียเวลาทำไม แค่ทะลวงเข้าไป! <color=#c44b0e> (เข้าสู่การต่อสู้) </color>
+DBZX-1_option1_3,Bribe the General. <color=#097a76>(1000Coin)</color>,ติดสินบนแม่ทัพ <color=#097a76> (1000 อีแปะ) </color>
+DBZX-1_option1_4,Honestly say that you don't know these three people.,พูดตรงๆ ว่า ข้าไม่รู้จักสามคนนี้
+DBZX-2_NPCname1,Loud voice,เสียงดัง
+DBZX-2_NPCname2,Generous female voice,เสียง ผู้หญิงใจกว้าง
+DBZX-2_NPCname3,Deep voice,เสียงทุ้มต่ำ
+DBZX-2_option1_1,Help Duan Hongjin's side. <color=#c44b0e>(Specific battle)</color>,ช่วยเหลือฝั่งต้วนหงจิน <color=#c44b0e> (เข้าสู่การต่อสู้) </color>
+DBZX-2_option1_2,Help Wu Yue's side. <color=#c44b0e>(Specific battle)</color>,ช่วยเหลือฝั่งอู๋เยว่ <color=#c44b0e> (เข้าสู่การต่อสู้) </color>
+DBZX-2_option1_3,"This dispute has nothing to do with me, no need to get involved.",เรื่องนี้ไม่ใช่เรื่องของข้า ไม่จำเป็นต้องเข้าไปเกี่ยวข้อง
+DBZX-2_option1_4,"There must be a misunderstanding here, stop the fight! <color=#c44b0e>(Specific battle)</color>",นี่มันคงจะมีเรื่องเข้าใจผิด หยุดสู้กันซะ! <color=#c44b0e> (เข้าสู่การต่อสู้) </color>
+DBZX-3_Talking,Keep the appointment,ไปตามนัด
+DBZX-3_name,Go to the appointment in the snow,มาถึงตามนัดหมาย เดินเหยียบหิมะมา
+DBZX-3_overview1,Meet with Wu Yue and others at Xu Family Outpost tavern for a drink.,พบกับ อู๋เยว่ และคนอื่นๆ ที่ร้านเหล้าด่านนอกตระกูลซู เพื่อไปดื่ม
+DBZX-3_option1_1,Enter the tavern. <color=#0574a8>(You will not be able to act freely for a while)</color>,เข้าไปในโรงเตี๊ยม <color=#0574a8> (ไม่สามารถดำเนินการได้อย่างอิสระชั่วขณะหนึ่ง) </color>
+DBZX-3_option1_2,There are still things to do.,ยังมีสิ่งที่ต้องทำ
+DBZX-3_NPCname1,A voice full of energy.,เสียงที่เต็มไปด้วยพลัง
+R10112-2_name,Strong liquor and stories,สุราเข้มข้นและเรื่องราว
+R10112-2_overview1,"Sun Yogin invites you to have a drink at Xu Family Outpost tavern... Hopefully, you won't get involved in any incidents.",ซุน โยจิน ชวนท่านไปดื่มสุราที่โรงเตี๊ยมซูเจีย... หวังว่าท่านคงจะไม่ไปพัวพันเรื่องวุ่นวายอะไรเข้าอีกนะ
+R10112-2_overview2,Go to the lantern under the northern village entrance of Xu Family Outpost to meet Sun Yogin.,ไปพบซุนโยจินที่โคมไฟใต้ทางเข้าหมู่บ้านด้านทิศเหนือของซูเจีย
+R10112-2_overview3,Give Sun Yogin at Xu Family Outpost an answer after considering the result.,ให้ซุนโยจินที่ด่านหน้าตระกูลซูได้ รับคำตอบหลังจากพิจารณาผลลัพธ์แล้ว
+R10112-2_option1_1,Pig Wuneng?,ตือโป๊ยก่ายเหรอ?
+R10112-2_option1_2,Sha Wujing?,ซัวเจ๋งเหรอ?
+R10112-2_option1_3,White Dragon Horse?,ม้ามังกรขาวงั้นหรือ?
+R10112-2_option1_4,Fake Monkey King?,ราชาวานรตัวปลอม?
+R10112-2_option2_1,Indeed absurd.,ช่างโง่เขลาจริงๆ
+R10112-2_option2_2,It makes me feel uneasy.,นั่นทำให้ข้ารู้สึกไม่สบายใจเลย
+R10112-2_option2_3,I want to do it again.,ข้าจะทำมันอีกครั้ง
+R10112-2_option2_4,(Just a long sigh),(ได้แต่ถอนหายใจยาวๆ)
+R10112-2_option3_1,Count me in!,ฉันอยากร่วมงานนั้น!
+R10112-2_option3_2,I need to think about this...,ขอข้าคิดดูก่อน
+R10112-2_option3_3,Refuse.,ปฏิเสธ
+R10112-3_name,The real and fake Monkey King,ราชาวานรตัวจริงและตัวปลอม
+R10112-3_overview1,Prepare a pot of Jiannan wine and go to Xu Family Outpost to find Sun Yogin for rehearsal.,เตรียมสุราเจียนหนานและเข้าไปยังด่านนอกตระกูลซูเพื่อตามหา ซุนโยจิน เพื่อแจ้งข่าว
+R10112-3_overview2,Find the thief who stole Jiannan wine.,ตามหาโจรที่ขโมยสุราเจียนหนาน
+R10112-3_option1_1,"Ready! <color=#097a76>(6 shichen, 50 Stamina, 1 pot of Jiannan wine)</color>","พร้อม! <color=#097a76>(6 ชั่วยาม, 50 แรงกาย, สุราเจียนหนาน 1 ไห)</color>"
+R10112-3_option1_2,Wait a bit longer.,รออีกสักหน่อย
+R10112-3_option2_1,Erlang God!,เทพเอ้อหลาง!
+R10112-3_option2_2,Nezha!,นาจา!
+R10112-3_option2_3,Don't tell me I have to play Zhu Bajie?,อย่าบอกนะว่าข้าจะต้องเล่นเป็นตือโป๊ยก่าย?
+R10112-3_option3_1,Please repeat.,กล่าวอีกรอบได้ไหม
+R10112-3_option3_2,Got it!,เข้าใจแล้ว!
+R10112-3_option4_1,Longevity and youth!,อายุยืนยาวและเยาววัย!
+R10112-3_option4_2,Beauty and skin whitening!,งดงามและผิวขาวเนียน
+R10112-3_option4_3,Lubricate the intestines and relieve constipation!,หล่อลื่นลำไส้และบรรเทาอาการท้องผูก
+R10112-3_option4_4,(Attack the officials on the scene),(โจมตีกลุ่มเจ้าหน้าที่ที่อยู่ในฉาก)
+R10112-3_option5_1,A hundred thousand heavenly soldiers!,ทหารสวรรค์หนึ่งแสนนาย!
+R10112-3_option5_2,A hundred thousand steamed buns!,ซาลาเปานึ่งหนึ่งแสนก้อน
+R10112-3_option5_3,A hundred thousand Forgotten pills!,โอสถลืมเลือนหนึ่งแสนเม็ด
+R10112-3_option5_4,(Attack the officials on the scene),(โจมตีกลุ่มเจ้าหน้าที่ที่อยู่ในฉาก)
+R10112-3_option6_1,Yin and Yang bottles.,ขวดหยินหยาง
+R10112-3_option6_2,Octagonal bottle.,ขวดแปดเหลี่ยม
+R10112-3_option6_3,Nameless ornament.,เครื่องประดับไร้นาม
+R10112-3_option6_4,(Attack the officials on the scene),(โจมตีกลุ่มเจ้าหน้าที่ที่อยู่ในฉาก)
+R10112-3_option7_1,Only blood can wash away this hatred.,มีเพียงเลือดเท่านั้นที่จะล้างความเกลียดชังนี้ได้
+R10112-3_option7_2,"Better to let him suffer and endure, to shorten his life.",ดีกว่าการที่จะปล่อยให้เขาต้องทนทุกข์ทรมานและทำให้อายุสั้นลง
+R10112-3_option7_3,I can't make the decision for you.,ข้าไม่สามารถตัดสินใจแทนเจ้าได้
+R10049-0_option1_1,Step forward to help out.<color=#c44b0e>(Specific battle)</color>,ก้าวออกไปเพื่อช่วยเหลือ <color=#c44b0e>(เข้าสู่การต่อสู้)</color>
+R10049-0_option1_2,"If it doesn't concern you, don't trouble yourself.",ถ้าเจ้าไม่กังวล ก็อย่าสร้างปัญหาให้ตนเองเลย
+R10049-0_option2_1,Agree to take her sightseeing.<color=#0574a8>(Cannot run away from Daliang City for a while.)</color>,ตกลงพาเธอเที่ยวเมืองต้าเหลียง.<color=#0574a8>(ไม่สามารถออกจากเมืองต้าเหลียงได้ในระยะหนึ่ง.)</color>
+R10049-0_option2_2,Still have things to do.,ยังมีสิ่งที่ต้องทำ
+R10049-0_NPCname1,Elegant's voice,เสียงที่ของคนสง่างาม
+R10049-2_name,Feminism,ชื่นชมสตรี
+R10049-2_overview1,Take Liu Yueying around Daliang City.,พาหลิวเยว่อิงชมรอบๆ เมืองต้าเหลียง
+R10049-2_overview2,Take Liu Yueying to Daliang City Government Office.,พาหลิวเยว่อิงไปที่ศาลาว่าการเมืองต้าเหลี่ยง
+R10049-2_overview3,Take Liu Yueying to Daliang City Glittering Artifact Auction.,พาหลิวเยว่อิงไปที่งานประมูลสินค้าหอไข่มุกของเมืองต้าเหลียง
+R10049-2_overview4,Take Liu Yueying to Daliang City Tower of Prosperity.,พาหลิวเยว่อิงไปที่หอเจิดจรัสในเมืองต้าเหลียง
+R10049-2_overview5,Help lost children find their families with Liu Yueying.,ช่วยเหลือเด็กตามหาผู้ปกครองของเขากับหลิวเยว่อิง
+R10049-2_overview6,Take Liu Yueying to Daliang City Baoguo Temple.,พาหลิวเยว่อิงไปที่วัดเป่ากั๋ว
+R10049-2_overview7,Find Liu Yueying's lost hair ornament,ตามหาปิ่นปักผมที่หายไปของหลิวเยว่อิง
+R10049-2-1_name,Lost child,เด็กหลง
+R10049-2-1_Talking,Child,เด็ก
+R10049-2-1_overview1,"Help the lost child find his family. (Possibly wearing pink clothes, the SweetsMerchant at the small market may remember)","ช่วยเด็กหลงตามหาผู้ปกครองของเขา (อาจจะเป็นคนที่ใส่ชุดสีชมพู, ลองไปถามพ่อค้าขนมหวานในตลาด เขาอาจจะจำได้)"
+R10049-2-1_overview2,"Help the lost child find his family, his grandmother uses a crutch.","ช่วยเหลือเด็กหลงตามหาผู้ปกครองของเขา,คุณย่าของเขาใช้ไม้ค้ำยัน"
+R20726-3_option1Ask,"(Right, Master Shen is good at crafting, can I ask him to help combine these three seals?)","(ดีเลย, อาจารย์เฉิน มีทักษะสร้างสิ่งของที่ดี, ฉันจะขอให้เขาช่วยรวมตราทั้งสามดีไหม?)"
+R20726-3_option1_1,"Ask Master Shen for help.<color=#097a76>(Seal of the People 1, Seal of the State 1, Seal of the Sky 1)</color>","ขอความช่วยเหลือจากปรมาจารย์เสิน <color=#097a76>(ตราประทับแห่งปวงชน 1, ตราประทับแห่งรัฐ 1, ตราประทับแห่งสวรรค์ 1)</color>"
+R20726-3_option1_2,"Want to request tool crafting skills.<color=#097a76>(One shichen, 10 Stamina)</color>","ต้องการทักษะการประดิษฐ์เครื่องมือ<color=#097a76>(1 ชั่วยาม, แรงกาย 10)</color>"
+R20726-3_option1_3,Come back later.,ข้าจะกลับมาในภายหลัง
+R10049-11_option1_1,Of course it's true!,แน่นอน มันคือความจริง!
+R10049-11_option1_2,I find it hard to tell him what I really think of you.,ข้าพบว่ามันยากที่จะบอกเขาว่าข้าคิดอย่างไรกับเจ้า
+R10049-11_option1_3,...It's fake.,...นั่นมัน ของปลอม
+R10049-10_name,Dragon Tooth,เขี้ยวมังกร
+R10049-10_overview1,Go to Frozen Heart Lake with Tsukuyo Sakuraha to get Dragon Tooth.,ไปยังทะเลสาบแห่งหัวใจเยือกแข็งกับซึคุโยะ ซากุระฮะเพื่อหาฟันมังกร
+R10049-11_name,Dragonflies scatter,แมลงปอแตกรังบินว่อน
+R10049-11_overview1,Go to Great Ant City with Tsukuyo Sakuraha.,เดินทางไปยัง เมืองแมลงปอกับซึคุโยะ ซากุระฮะ
