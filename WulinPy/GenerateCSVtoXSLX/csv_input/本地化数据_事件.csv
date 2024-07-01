@@ -28,7 +28,7 @@ M1100-5option1_dialog,Do you need me to help you regulate your Qi and blood?,อ
 M1100-11_name,Hide and Seek,เล่นซ่อนหา
 M1100-11_overview,Find 3 children.,ตามหาเด็ก 3 คน
 R20008-2_name,Xiao Bao's Secret,ความลับของเสี่ยวเป่า
-R20008-2_option（1）_dialog,"(He probably won't tell me his secret easily, should I listen to him?)",(เขาคงไม่เผยความลับต่อข้าโดยง่าย ข้าควรฟังข้าหรือไม่?)
+R20008-2_option（1）_dialog,"(He probably won't tell me his secret easily, should I listen to him?)",(เขาคงไม่เผยความลับต่อข้าโดยง่าย ข้าควรฟังเขาหรือไม่?)
 R20008-2_option1,"Of course, I want to know.",แน่นอน ข้าอยากรู้
 R20008-2_option2,I don't want to know.,ข้าไม่อยากรู้
 R20008-2_option3,"Alright, here you go.<color=#097a76>(Wooden sword x1)</color>",เอาล่ะ นี่ของเจ้า <color=#097a76>(กระบี่ไม้ x1) </color>
