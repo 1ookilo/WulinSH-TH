@@ -3799,11 +3799,11 @@ CR005-4_1,"Despite your best efforts to dodge, you are still grazed by the incom
 CR006-1_1,"You rush to a highway pass, where several Officials are checking pedestrians.\nCoincidentally, the Officials found a fugitive on the run, who is quite skilled.",ข้าเร่งฝีเท้าไปยังด่านตรวจคนเดินบนทางหลวง เห็นเหล่าเจ้าหน้าที่กำลังตรวจตราผู้คนอย่างละเอียด ขณะนั้นเอง เหล่าเจ้าหน้าที่ก็พบเข้ากับนักโทษแหกคุกผู้หนึ่งซึ่งมีฝีมือร้ายกาจกำลังหลบหนี
 CR006_op_1_dialog,(Do you want to help)
 CR006_op_1_1,Help
-CR006_op_1_2,Run away in the chaos
-CR006-2_1,"You successfully help the Officials catch the fugitive.\nAs a thank you, they give you some Scrap silver."
+CR006_op_1_2,Run away in the chaos,หลีกหนีความวุ่นวาย
+CR006-2_1,"You successfully help the Officials catch the fugitive.\nAs a thank you, they give you some Scrap silver.","คุณช่วยเหลือเจ้าหน้าที่จับผู้หลบหนีได้สำเร็จ\nพวกเขาจึงมอบเศษเงินเพื่อเป็นการขอบคุณ"
 CR006-3_1,"Unexpectedly, your martial arts are not as good as theirs, and you are defeated first.\nThe Officials can only let the fugitive go helplessly.",ด้วยความคาดไม่ถึง ฝีมือของข้าด้อยกว่า ข้าจึงพ่ายแพ้ไปก่อน เหล่าเจ้าหน้าที่ทำได้เพียงปล่อยให้นักโทษหลบหนีไปด้วยความจนใจ.
-CR007-1_1,There is a strange Herb growing on the cliff by the road.
-CR007_op_1_dialog,(Do you want to pick it)
+CR007-1_1,There is a strange Herb growing on the cliff by the road.,มีสมุนไพรแปลกๆ งอกขึ้นอยู่บนหน้าผาริมถนน
+CR007_op_1_dialog,(Do you want to pick it),(ท่านต้องการหยิบมันหรือไม่)
 CR007_op_1_1,Go pick it (Strength>=8)
 CR007_op_1_2,Continue on your way
 CR007-2_1,"You climb the cliff barehanded and pick the Herb.\nAlthough it's a bit thrilling when you climb down the cliff,\nyou still safely reach the ground."
