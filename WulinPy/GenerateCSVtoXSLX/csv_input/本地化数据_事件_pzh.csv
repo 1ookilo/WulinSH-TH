@@ -1,0 +1,209 @@
+﻿﻿Talking_yanyun,Yan Yun,เยี่ยนหยุน
+Talking_chuguan,Go out,ออกไป
+DBZX-0_name,Find the way to Yan Yun Region.,ค้นหาเส้นทางไปยังแดนเยี่ยนหยุน
+DBZX-0_overview1,Find the Coachman in the city and ask about the way to Yan Yun Region.,ค้นหาคนขับรถม้าในเมือง และถามเกี่ยวกับเส้นทางไป แดนเยี่ยนหยุน
+DBZX-1_name,Pass through Jin Yang Gate,ผ่านประตูจินหยาง
+DBZX-1_overview1,Leave the pass.,ผ่านด่าน
+DBZX-1_option1_1,Act along with the play. <color=#097a76>(Persuade reaches 3rd level Advance)</color>,ร่วมมือกันแสดง. <color=#097a76> (ทักษะโน้มน้าวอยู่ในระดับ 3) </color>
+DBZX-1_option1_2,"Why waste time, just break through! <color=#c44b0e>(Specific battle)</color>",จะมัวเสียเวลาทำไม แค่ทะลวงเข้าไป! <color=#c44b0e> (เข้าสู่การต่อสู้) </color>
+DBZX-1_option1_3,Bribe the General. <color=#097a76>(1000Coin)</color>,ติดสินบนแม่ทัพ <color=#097a76> (1000 อีแปะ) </color>
+DBZX-1_option1_4,Honestly say that you don't know these three people.,พูดตรงๆ ว่า ข้าไม่รู้จักสามคนนี้
+DBZX-2_NPCname1,Loud voice,เสียงดัง
+DBZX-2_NPCname2,Generous female voice,เสียง ผู้หญิงใจกว้าง
+DBZX-2_NPCname3,Deep voice,เสียงทุ้มต่ำ
+DBZX-2_option1_1,Help Duan Hongjin's side. <color=#c44b0e>(Specific battle)</color>,ช่วยเหลือฝั่งต้วนหงจิน <color=#c44b0e> (เข้าสู่การต่อสู้) </color>
+DBZX-2_option1_2,Help Wu Yue's side. <color=#c44b0e>(Specific battle)</color>,ช่วยเหลือฝั่งอู๋เยว่ <color=#c44b0e> (เข้าสู่การต่อสู้) </color>
+DBZX-2_option1_3,"This dispute has nothing to do with me, no need to get involved.",เรื่องนี้ไม่ใช่เรื่องของข้า ไม่จำเป็นต้องเข้าไปเกี่ยวข้อง
+DBZX-2_option1_4,"There must be a misunderstanding here, stop the fight! <color=#c44b0e>(Specific battle)</color>",นี่มันคงจะมีเรื่องเข้าใจผิด หยุดสู้กันซะ! <color=#c44b0e> (เข้าสู่การต่อสู้) </color>
+DBZX-3_Talking,Keep the appointment,ไปตามนัด
+DBZX-3_name,Go to the appointment in the snow,มาถึงตามนัดหมาย เดินเหยียบหิมะมา
+DBZX-3_overview1,Meet with Wu Yue and others at Xu Family Outpost tavern for a drink.,พบกับ อู๋เยว่ และคนอื่นๆ ที่ร้านเหล้าด่านนอกตระกูลซู เพื่อไปดื่ม
+DBZX-3_option1_1,Enter the tavern. <color=#0574a8>(You will not be able to act freely for a while)</color>,เข้าไปในโรงเตี๊ยม <color=#0574a8> (ไม่สามารถดำเนินการได้อย่างอิสระชั่วขณะหนึ่ง) </color>
+DBZX-3_option1_2,There are still things to do.,ยังมีสิ่งที่ต้องทำ
+DBZX-3_NPCname1,A voice full of energy.,เสียงที่เต็มไปด้วยพลัง
+R10112-2_name,Strong liquor and stories,สุราเข้มข้นและเรื่องราว
+R10112-2_overview1,"Sun Yogin invites you to have a drink at Xu Family Outpost tavern... Hopefully, you won't get involved in any incidents.",ซุน โยจิน ชวนท่านไปดื่มสุราที่โรงเตี๊ยมซูเจีย... หวังว่าท่านคงจะไม่ไปพัวพันเรื่องวุ่นวายอะไรเข้าอีกนะ
+R10112-2_overview2,Go to the lantern under the northern village entrance of Xu Family Outpost to meet Sun Yogin.,ไปพบซุนโยจินที่โคมไฟใต้ทางเข้าหมู่บ้านด้านทิศเหนือของตระกูลซู
+R10112-2_overview3,Give Sun Yogin at Xu Family Outpost an answer after considering the result.,ให้ซุนโยจินที่ด่านหน้าตระกูลซูได้ รับคำตอบหลังจากพิจารณาผลลัพธ์แล้ว
+R10112-2_option1_1,Pig Wuneng?,ตือโป๊ยก่ายเหรอ?
+R10112-2_option1_2,Sha Wujing?,ซัวเจ๋งเหรอ?
+R10112-2_option1_3,White Dragon Horse?,ม้ามังกรขาวงั้นหรือ?
+R10112-2_option1_4,Fake Monkey King?,ราชาวานรตัวปลอม?
+R10112-2_option2_1,Indeed absurd.,ช่างโง่เขลาจริงๆ
+R10112-2_option2_2,It makes me feel uneasy.,นั่นทำให้ข้ารู้สึกไม่สบายใจเลย
+R10112-2_option2_3,I want to do it again.,ข้าจะทำมันอีกครั้ง
+R10112-2_option2_4,(Just a long sigh),(ได้แต่ถอนหายใจยาวๆ)
+R10112-2_option3_1,Count me in!,ฉันอยากร่วมงานนั้น!
+R10112-2_option3_2,I need to think about this...,ขอข้าคิดดูก่อน
+R10112-2_option3_3,Refuse.,ปฏิเสธ
+R10112-3_name,The real and fake Monkey King,ราชาวานรตัวจริงและตัวปลอม
+R10112-3_overview1,Prepare a pot of Jiannan wine and go to Xu Family Outpost to find Sun Yogin for rehearsal.,เตรียมสุราเจียนหนานและเข้าไปยังด่านนอกตระกูลซูเพื่อตามหา ซุนโยจิน เพื่อแจ้งข่าว
+R10112-3_overview2,Find the thief who stole Jiannan wine.,ตามหาโจรที่ขโมยสุราเจียนหนาน
+R10112-3_option1_1,"Ready! <color=#097a76>(6 shichen, 50 Stamina, 1 pot of Jiannan wine)</color>","พร้อม! <color=#097a76>(6 ชั่วยาม, 50 แรงกาย, สุราเจียนหนาน 1 ไห)</color>"
+R10112-3_option1_2,Wait a bit longer.,รออีกสักหน่อย
+R10112-3_option2_1,Erlang God!,เทพเอ้อหลาง!
+R10112-3_option2_2,Nezha!,นาจา!
+R10112-3_option2_3,Don't tell me I have to play Zhu Bajie?,อย่าบอกนะว่าข้าจะต้องเล่นเป็นตือโป๊ยก่าย?
+R10112-3_option3_1,Please repeat.,กล่าวอีกรอบได้ไหม
+R10112-3_option3_2,Got it!,เข้าใจแล้ว!
+R10112-3_option4_1,Longevity and youth!,อายุยืนยาวและเยาววัย!
+R10112-3_option4_2,Beauty and skin whitening!,งดงามและผิวขาวเนียน
+R10112-3_option4_3,Lubricate the intestines and relieve constipation!,หล่อลื่นลำไส้และบรรเทาอาการท้องผูก
+R10112-3_option4_4,(Attack the officials on the scene),(โจมตีกลุ่มเจ้าหน้าที่ที่อยู่ในฉาก)
+R10112-3_option5_1,A hundred thousand heavenly soldiers!,ทหารสวรรค์หนึ่งแสนนาย!
+R10112-3_option5_2,A hundred thousand steamed buns!,ซาลาเปานึ่งหนึ่งแสนก้อน
+R10112-3_option5_3,A hundred thousand Forgotten pills!,โอสถลืมเลือนหนึ่งแสนเม็ด
+R10112-3_option5_4,(Attack the officials on the scene),(โจมตีกลุ่มเจ้าหน้าที่ที่อยู่ในฉาก)
+R10112-3_option6_1,Yin and Yang bottles.,ขวดหยินหยาง
+R10112-3_option6_2,Octagonal bottle.,ขวดแปดเหลี่ยม
+R10112-3_option6_3,Nameless ornament.,เครื่องประดับไร้นาม
+R10112-3_option6_4,(Attack the officials on the scene),(โจมตีกลุ่มเจ้าหน้าที่ที่อยู่ในฉาก)
+R10112-3_option7_1,Only blood can wash away this hatred.,มีเพียงเลือดเท่านั้นที่จะล้างความเกลียดชังนี้ได้
+R10112-3_option7_2,"Better to let him suffer and endure, to shorten his life.",ดีกว่าการที่จะปล่อยให้เขาต้องทนทุกข์ทรมานและทำให้อายุสั้นลง
+R10112-3_option7_3,I can't make the decision for you.,ข้าไม่สามารถตัดสินใจแทนเจ้าได้
+R10049-0_option1_1,Step forward to help out.<color=#c44b0e>(Specific battle)</color>,ก้าวออกไปเพื่อช่วยเหลือ <color=#c44b0e>(เข้าสู่การต่อสู้)</color>
+R10049-0_option1_2,"If it doesn't concern you, don't trouble yourself.",ถ้าเจ้าไม่กังวล ก็อย่าสร้างปัญหาให้ตนเองเลย
+R10049-0_option2_1,Agree to take her sightseeing.<color=#0574a8>(Cannot run away from Daliang City for a while.)</color>,ตกลงพาเธอเที่ยวเมืองต้าเหลียง.<color=#0574a8>(ไม่สามารถออกจากเมืองต้าเหลียงได้ในระยะหนึ่ง.)</color>
+R10049-0_option2_2,Still have things to do.,ยังมีสิ่งที่ต้องทำ
+R10049-0_NPCname1,Elegant's voice,เสียงที่ของคนสง่างาม
+R10049-2_name,Feminism,ชื่นชมสตรี
+R10049-2_overview1,Take Liu Yueying around Daliang City.,พาหลิวเยว่อิงชมรอบๆ เมืองต้าเหลียง
+R10049-2_overview2,"Take Liu Yueying on a tour of the Dragon Head Shear, Tiger Head Shear, and Dog Head Shear at Daliang City Government Office.",พาหลิวเยว่อิงไปเยี่ยมชมเครื่องประหารทั้งสามที่ศาลาว่าการเมืองต้าเหลียง
+R10049-2_overview3,Take Liu Yueying to Daliang City Glittering Artifact Auction.,พาหลิวเยว่อิงไปที่งานประมูลสินค้าหอไข่มุกของเมืองต้าเหลียง
+R10049-2_overview4,Take Liu Yueying to Daliang City Tower of Prosperity.,พาหลิวเยว่อิงไปที่หอเจิดจรัสในเมืองต้าเหลียง
+R10049-2_overview5,Help the child find his lost family with Liu Yueying.,ช่วยเหลือเด็กน้อยตามหาผู้ปกครองของเขากับหลิวเยว่อิง
+R10049-2_overview6,Take Liu Yueying to Daliang City Baoguo Temple.,พาหลิวเยว่อิงไปที่วัดเป่ากั๋ว
+R10049-2_overview7,Find Liu Yueying's lost hair ornament,ตามหาปิ่นปักผมที่หายไปของหลิวเยว่อิง
+R10049-2-1_name,Lost child,เด็กหลง
+R10049-2-1_Talking,Child,เด็ก
+R10049-2-1_overview1,"Help the lost child find his family. (Possibly wearing pink clothes, the SweetsMerchant at the small market may remember)","ช่วยเด็กหลงตามหาผู้ปกครองของเขา (อาจจะเป็นคนที่ใส่ชุดสีชมพู, ลองไปถามพ่อค้าขนมหวานในตลาด เขาอาจจะจำได้)"
+R10049-2-1_overview2,"Help the lost child find his family, his grandmother uses a crutch.","ช่วยเหลือเด็กหลงตามหาผู้ปกครองของเขา,คุณย่าของเขาใช้ไม้ค้ำยัน"
+R20726-3_option1Ask,"(Right, Master Shen is good at crafting, can I ask him to help combine these three seals?)","(ดีเลย, อาจารย์เฉิน มีทักษะสร้างสิ่งของที่ดี, ฉันจะขอให้เขาช่วยรวมตราทั้งสามดีไหม?)"
+R20726-3_option1_1,"Ask Master Shen for help.<color=#097a76>(Seal of the People 1, Seal of the State 1, Seal of the Sky 1)</color>","ขอความช่วยเหลือจากปรมาจารย์เสิน <color=#097a76>(ตราประทับแห่งปวงชน 1, ตราประทับแห่งรัฐ 1, ตราประทับแห่งสวรรค์ 1)</color>"
+R20726-3_option1_2,"Want to request tool crafting skills.<color=#097a76>(One shichen, 10 Stamina)</color>","ต้องการทักษะการประดิษฐ์เครื่องมือ<color=#097a76>(1 ชั่วยาม, แรงกาย 10)</color>"
+R20726-3_option1_3,Come back later.,ข้าจะกลับมาในภายหลัง
+R10049-11_option1_1,Of course it's true!,แน่นอน มันคือความจริง!
+R10049-11_option1_2,I find it hard to tell him what I really think of you.,ข้าพบว่ามันยากที่จะบอกเขาว่าข้าคิดอย่างไรกับเจ้า
+R10049-11_option1_3,...It's fake.,...นั่นมัน ของปลอม
+R10049-10_name,Dragon Tooth,เขี้ยวมังกร
+R10049-10_overview1,Go to Frozen Heart Lake with Tsukuyo Sakuraha to get Dragon Tooth.,ไปยังทะเลสาบแห่งหัวใจเยือกแข็งกับซึคุโยะ ซากุระฮะเพื่อหาฟันมังกร
+R10049-11_name,Dragonflies scatter,แมลงปอแตกรังบินว่อน
+R10049-11_overview1,Go with Tsukuyo Sakuraha to borrow a boat from the owner of Deep Snow Manor to go to Great Ant City.,เดินทางไปยืมเรือจากเจ้าหมู่ตึกหิมะ เพื่อใช้ไปยัง เมืองแมลงปอกับซึคุโยะ ซากุระฮะ
+R10054-4_name,Night Market Good Friend,ตลาดยามราตรี สหายแสนดี
+R10054-4_talk,Chat,สนทนา
+R10054-4_overview1,Night Auction Market owner Shen Wuqi invites you to have tea and chat at the Night Auction Market.,เจ้าของตลาดประมูลราตรี เสินอู๋ฉี ชวนท่านไปจิบน้ำชาและสนทนายังตลาดประมูลราตรี
+R10054-4_overview2,Go to the auction stand at the Night Auction Market to see how much Shen Wuqi has lost.,ไปยังแท่นประมูลในงานประมูลของตลาดประมูลราตรี เพื่อดูว่า เสิ่นอู๋ฉี เสียเงินไปเท่าไหร่แล้ว
+R10054-4_overview3,Go to Daliang City with Shen Wuqi to find clues about the account book.,ไปที่เมืองต้าเหลียงพร้อมกับเสิ่นอู๋ฉีเพื่อหาเบาะแสของสมุดบัญชี
+R10054-4_overview4,"Shen Wuqi wants to hire you to find the account book in Daliang City, you can find him at the Night Auction Market.",เสิ่นอู๋ฉี ต้องการจ้างวานให้ท่านไปหาสมุดบัญชีในเมืองต้าเหลียง ท่านสามารถพบเขาได้ที่ตลาดประมูลราตรี
+R10054-4_NPCname1,Fierce Voice,เสียงอันดุร้าย
+R10054-4_NPCname2,Ferocious Voice,เสียงที่น่าสะพรึง
+R10054-4_NPCname3,Sinister Voice,เสียงลึกลับ
+R10054-4-2_name,Merchants never sleep,พ่อค้าไม่เคยหยุดพัก
+R10054-4-2_talk,Business War,สงครามการค้า
+R10054-4-2_overview1,"Visit the owners of Drifting Cloud Inn, Hall of Rejuvenation, and Blacksmith's forge in Daliang City with Shen Wuqi.","ไปพบเถ้าแก่โรงเตี๊ยมเคลื่อนเมฆา, โรงหมอ และโรงตีเหล็ก ในเมืองต้าเหลียงพร้อมกับเสิ่นอู๋ฉี"
+R10054-4-2_overview2,Find the troublemaker's location in Daliang City with Shen Wuqi based on the existing clues.,ตามหาที่อยู่ของผู้ก่อปัญหาในเมืองต้าเหลียงพร้อมกับเสิ่นอู๋ฉี ตามเบาะแสที่ได้มา
+R10054-4-2_overview3,"Due to an accident, the clues are incomplete, you can only try your luck in Daliang City.",อุบัติเหตุทำให้เบาะแสไม่ครบถ้วน! ตอนนี้โชคชะตากำหนดให้คุณต้องเสี่ยงดวง ลองหาชิ้นส่วนที่เหลืออยู่ทั้งหมดภายใน เมืองต้าเหลียง เท่านั้น
+R10046-3_name,Lin'an Arena,ลานประลองเมืองหลินอัน
+R10046-3_talk,Arena,ลานประลอง
+R10046-3_overview1,Dugu Jianyi asks you to find the Performing man in Lin'an City Market and ask about the underground Arena.,ตูกู เจี้ยนอี้ แนะนำให้ท่านค้นหาชายนักแสดงในตลาด หลิงอัน ชายผู้นี้รู้ข้อมูลเกี่ยวกับสนามประลองใต้ดิน
+R10046-3_overview2,Dugu Jianyi hopes you can go with him to participate in the underground Arena in Lin'an City.,ตูกู เจี้ยนอี้ หวังว่าท่านจะเดินทางไปกับเขาเพื่อเข้าร่วมการแข่งขันใต้ดินในเมืองหลินอัน
+R10046-3_overview3,Join Dugu Jianyi in the underground Arena of Lin'an City.,ร่วมการประลองใต้ดินในเมืองหลินอันกับ ตูกู เจี้ยนอี้
+R10046-3_overview4,Dugu Jianyi suggests bringing Ouye Heng to participate in the underground Arena.,ตูกู เจี้ยนอี้ เสนอให้พาอู๋เหว่ยเหิงไปร่วมการประลองใต้ดิน
+R10046-3_overview5,Join Dugu Jianyi in the underground Arena of Lin'an City.,ร่วมการประลองใต้ดินในเมืองหลินอันกับ ตูกู เจี้ยนอี้
+R10046-3_overview6,Join Dugu Jianyi in hunting down the prodigal son in Wuyue Region.,เข้าร่วม ล่าตัวลูกชายหัวเน่าในแคว้นอู่เย่ กับตูกู เจี้ยนอี้
+Role3-26_NPCname20,A majestic voice.,เสียงอันทรงอำนาจ
+Role3-26_NPCname21,Rough voice,เสียงแข็งกร้าว
+R10008-8_name,Only because I am in this mountain,มิอาจรับรู้หน้าตาแท้จริงเขาหลูซาน เพราะข้านั้นอยู่ท่ามกลางหลูซาน
+R10008-8_talk,Investigate,สืบสวน
+R10008-8_overview1,Check if Ling Mengdie has found the answer she wants.,ดูว่าหลิงเมิ่งเตี๋ยได้พบคำตอบที่นางตามหาหรือยัง
+R10008-8_overview2,Go to God of Marriage's Shrine with Ling Mengdie alone to seek the answer she wants.,ไปยังศาลเทพเจ้าด้ายแดงกับหลิงเมิ่งเตี๋ย เพียงสองคน เพื่อตามหาคำตอบที่นางตามหา
+R10008-8_overview3,Ask other people's stories at God of Marriage's Shrine with Ling Mengdie.,ร่วมฟังเรื่องราวผู้คนจาก ศาลเจ้าเทพเจ้าด้ายแดง กับหลิงเมิ่งเตี๊ย
+R10008-8_overview4,Go to the Imperial School in Daliang City with Ling Hongxuan and Ling Mengdie.,เดินทางไปสำนักบัณฑิตหลวงเมืองต้าเหลียงกับ หลิงหงฉวนและหลิงเมิ่งเตี๊ย
+R10008-8_overview5,"Ling Mengdie seems to have something on her mind after forming a bond with you, she might talk to you in a few days.",หลิงเมิ่งเตี๊ยดูเหมือนจะมีเรื่องในใจ หลังจากสร้างผูกมิตรกับคุณ เธออาจจะพูดคุยกับคุณในอีกไม่กี่วันข้างหน้า
+R10056-5_name,Gratitude is as toxic as poison,"""ความกตัญญูเปรียบเสมือนพิษร้าย"""
+R10056-5_talk,Research,วิจัย
+R10056-5_overview1,"Jiang Ziyan seems to have a dangerous plan that needs a helper, find her after raising Toxicology above 65.",ดูเหมือนเจียงจือเยียนจะมีแผนการสุดอันตรายที่ต้องการผู้ช่วย ไปหานางเมื่อทักษะพิษมากกว่า 65 แต้ม
+R10056-5_overview2,Go to the main camp of Jiuli Tribe with Jiang Ziyan to find her master's insights.,เดินทางไปค่ายหลักของเผ่าจิวหลี่กับเจียงจื่อเยี่ยน ตามหาคำสอนของอาจารย์เธอ
+R10056-5_overview3,Infiltrate the lizard den of Jiuli Tribe with Jiang Ziyan to complete her master's unfinished Poisonous worm experiment.,ลอบเข้าถ้ำกิ้งก่าเผ่าจิวหลี่กับเจียงจื่อเยี่ยน เพื่อสานต่อการทดลองหนอนพิษของอาจารย์เธอ
+R10056-5_overview4,"Catch 1 Spider, 1 Poisonous moth, 1 Scorpion, 1 Centipede, 1 Praying mantis, and 3 Stinkbugs for Jiang Ziyan.","จับแมงมุม 1 ตัว, หนอนพิษ 1 ตัว, แมงป่อง 1 ตัว, ตะขาบ 1 ตัว,ตัํกแตนตำข้าว 1 ตัว และแมลงสาบเหม็น 3 ตัว ให้เจียงจื่อเยี่ยน"
+R10056-5_overview5,Ring the bell of Shifa Temple with Jiang Ziyan when Stamina is less than 20 points.,สั่น ระฆังของ อารามฉีฟา เมื่อพลังกายเหลือต่ำกว่า 20 แต้ม ร่วมกับเจียงจื่อเยี่ยน
+R10056-5_overview6,"Discuss with Hui Yuan, the abbot of Shifa Temple, about borrowing the bell.",พูดคุยกับอาจารย์ฮุยหยวน เจ้าอาวาสอารามฉีฟา เรื่องการขอยืมระฆัง
+R10056-5_overview8,Ring the bell of Shifa Temple again with Jiang Ziyan when Mood is 100 points.,ลั่นระฆังของอารามฉีฟา อีกครั้งเมื่อจิตใจถึง 100 กับเจียงจื่อเยี่ยน
+R10056-5_overview9,Go to the main camp of Jiuli Tribe with Jiang Ziyan to get her master's notes from Miao Muli.,สู่ค่ายหลักเผ่าจิวหลี่ กับเจียงจื่อเยี่ยน เพื่อตามหาบันทึกของอาจารย์เธอจาก เมี้ยวมู่หลี่
+R10056-5_overview10,Go to the main camp of Jiuli Tribe with Jiang Ziyan to retrieve her master's notes.,มุ่งสู่ค่ายหลักเผ่าจิวหลี่ กับเจียงจื่อเยี่ยน เพื่อนำบันทึกของอาจารย์เธอกลับคืนมา
+R10025-6_name,Mirror in the cup,สะท้อนเงาในถ้วย
+R10025-6_talk,Investigate,สืบสวน
+R10025-6_overview1,Take Lai Toudian to Yunlin Temple in Lin'an City.,พาหล่ายโถ่วเตียน ไปวัดป่าเมฆาในเมืองหลินอัน
+R10025-6_overview2,Take Lai Toudian to the Dilapidated Temple in Lin'an City.,พาหล่ายโถ่วเตียน ไปยังวัดรกร้างในเมืองหลินอัน
+R10025-6_overview3,"Lai Toudian wants to meditate alone in the Dilapidated Temple in Lin'an City for a while, take him there when you have time.",หล่ายโถ่วเตียน ปรารถนาจะนั่งสมาธิตามลำพังในวัดรกร้างเมืองหลินอันสักพัก พาเขาไปเมื่อท่านมีเวลา
+R10025-6_overview4,"Lai Toudian has been meditating alone in the Dilapidated Temple in Lin'an City for a while, try to stay away from Lin'an City and not disturb him until he has achieved enlightenment.",หล่ายโถ่วเตียน กำลังนั่งสมาธิตามลำพังในวัดรกร้างเมืองหลินอัน พยายามหลีกเลี่ยงเมืองหลินอันและอย่ารบกวนเขาจนกว่าเขาจะบรรลุโพธิญาณ
+R10025-6_overview5,"Lai Toudian has been meditating alone in the Dilapidated Temple in Lin'an City for a while, go to the Dilapidated Temple to check on him.",หล่ายโถ่วเตียน นั่งสมาธิตามลำพังในวัดรกร้างเมืองหลินอันมานานแล้ว ไปที่วัดรกร้างเพื่อดูเขา
+R10025-6_overview6,"Help Lai Toudian collect 50 leaves and 50 pieces of bark, and dry them outdoors outside the Dilapidated Temple for half a shichen after collecting them.",ช่วยหล่ายโถ่วเตียน เก็บใบไม้ 50 ใบ และเปลือกไม้ 50 ชิ้น นำมาตากแดดไว้กลางแจ้งนอกวัดรกร้าง เป็นเวลาครึ่งชั่วยาม
+R10025-6_overview7,"Forget about the bark and leaves for now, go back to the Dilapidated Temple in Lin'an City to ask Lai Toudian for clarification.",ลืมเรื่องเปลือกไม้และใบไม้ไปก่อน กลับไปที่วัดรกร้างเมืองหลินอันเพื่อขอคำชี้แจงจาก หล่ายโถ่วเตียน
+R10025-6_overview8,Give Lai Toudian's wine to the three people in line.,แจกเหล้าของหล่ายโถ่วเตียน ให้กับผู้คนทั้งสามที่ยืนต่อแถว
+R10025-6_overview9,"Lai Toudian was captured by the Nine Factions Sect and taken to the Buddha Temple, go rescue him first.",หล่ายโถ่วเตียน ถูกจับโดยนิกายเก้าฝ่าย พาตัวไปที่อารามพุทธะ ไปช่วยเขาก่อน
+R10025-6_overview10,"After being rescued from the Buddha Temple, Lai Toudian returned to the Dilapidated Temple in Lin'an City to meditate again, check on him after a while.",หลังจากได้รับการช่วยเหลือจากอารามพุทธะ หล่ายโถ่วเตียน กลับมาที่วัดรกร้างเมืองหลินอันเพื่อนั่งสมาธิอีกครั้ง ไปดูเขาหลังจากผ่านไปสักพัก
+R10025-6_overview11,Check why the drinking Beggar hasn't woken up yet.,ไปดูว่าทำไมขอทานขี้เมาถึงยังไม่ตื่น
+R20063-5_name,Deep love is short-lived,ความรักอันลึกซึ้งนั้นสั้นนัก
+R20063-5_talk,Problem,ปัญหา
+R20063-5_overview1,"Maiden House needs Yan Rurui to return to the house to make decisions, take her back to Maiden House.",ตำหนักพิสุทธิ์ต้องการให้ เยี่ยนรุ่ยกลับมาที่ตำหนัก พาเธอไปที่ตำหนักพิสุทธิ์
+R20063-5_overview2,"Maiden House is facing a problem, it might be difficult for Yan Rurui to handle, go to Maiden House to help her.",ตำหนักพิสุทธิ์กำลังเผชิญปัญหา อาจจะเป็นเรื่องที่ยากเกินกว่าเยี่ยนรุ่ยจะจัดการได้ ไปที่ตำหนักพิสุทธิ์เพื่อช่วยเธอ
+R20063-5_overview3,Teach Lai Gou San a lesson at the Market in Lin'an City between Mao Shi and Shen Shi with Yan Rurui.,สอนบทเรียนให้ หล่ายกูซานในตลาดเมืองหลินอันระหว่างหม่าอ๋องและเสิ่นอ๋อง กับเยี่ยนรุ่ย
+R20063-5_overview4,"When diagnosing Miss Yan Tan, a teammate who is proficient in Medical/Toxicology/Gu art, or if you have high Medical/Toxicology/Catching Insects skills, you can find the corresponding Heal method.",เมื่อทำการตรวจอาการของแม่นางเยียนถาน หากเพื่อนร่วมทีมมีความรู้ความสามารถทางการแพทย์/พิษ/วิชากู่ หรือหากเจ้าเองมีทักษะทางการแพทย์/พิษ/จับแมลงที่สูง ก็จะสามารถหาวิธีรักษาที่ตรงกับอาการได้
+R20063-5_overview5,"After obtaining the Heal method, you can choose to Talk with Maid, Yan Tan, or Li Gongzi for the corresponding Heal. Note that you can only choose one Heal method",หลังจากได้วิธีรักษาแล้ว เจ้าสามารถเลือกพูดคุยกับสาวใช้ เยียนถาน หรือคุณชายหลี่ เพื่อรับการรักษาที่สอดคล้องกัน โปรดทราบว่าเจ้าสามารถเลือกวิธีการรักษาได้เพียงวิธีเดียวเท่านั้น
+DNJH-0_name,Journey to the southeast,เดินทางไปยังทิศตะวันออกเฉียงใต้
+DNJH-0_overview1,"Travel from Wuyue Region's Meishan Road to South-East Region, find King Chai and ask about the Windrumor Platform."
+DNJH-0_overview2,Find King Chai in South-East Region and ask about the Windrumor Platform.
+DNJH-0_overview3,Go to Phoenix Woods Harbor and find King Chai to ask about the Windrumor Platform.
+DNJH-0_overview4,Find a way to get an invitation to King Chai's birthday banquet and meet King Chai.,หาหนทางเพื่อที่จะเข้าร่วมงานเฉลิมฉลองวันเกิดของอ๋องไฉ และพบกับอ๋องไฉ
+DNJH-0_overview5,Go and challenge the four experts designated by King Chai to get an invitation to his birthday banquet.
+DNJH-0_overview6,Go to Duke Chai's Tower to attend King Chai's birthday banquet.
+DNJH-1_name,Reputation of Wolf,เป็นที่อื้อฉาว
+DNJH-1_talk,Floating Fame,เกียรติยศอันไร้ค่า
+DNJH-1_overview1,Go to Daliang CityTower of Prosperity and confront Liu Fuming.,ไปยังหอเจิดจรัสในเมืองต้าเหลียง เพื่อพบกับหลิวฝูหมิง
+DNJH-1_overview2,Go to the inn in Daliang City to inquire about Liu Fuming.,ไปยังโรงเตี้ยมในเมืองต้าเหลียงเพื่อสืบสวนเกี่ยวกับหลิวฝูหมิง
+DNJH-1_overview3,Go to Daliang CityGovernment Office to ask the man in white about Liu Fuming.
+DNJH-1_overview4,"When you're ready, go with the Daliang CityClerk to the Tower of Prosperity for the banquet."
+DNJH-1_NPCname1,A deep voice,เสียงทุ้มต่ำ
+DNJH-2_name,Prosperity like brocade,รุ่งเรืองดุจแพรพรรณ
+DNJH-2_overview1,Take a walk in the Tower of Prosperity and see what others are doing.,เดินเล่นในหอเจิดจรัศเพื่อดูว่าคนอื่นๆ กำลังทำอะไร
+DNJH-2_NPCname1,A sharp voice,เสียงแหลม
+DNJH-2_NPCname2,A young man's voice,เสียงชายเยาว์วัย
+DNJH-3_name,Bloody Banquet,งานฉลองสีเลือด
+DNJH-3_overview1,Find the murderer who killed Mr. Shi!,ตามหาฆาตกรที่สังหารคุณฉือ! 
+DNJH-3_overview2,"Sort out the clues, find Liu Fuming and deduce the real murderer.","รวบรวมเบาะแส, ค้นหาหลิวฝูหมิง และสรุปฆาตกรตัวจริง"
+DNJH-5_talk,Challenge,ท้าทาย
+DNJH-6_NPCname1,A robust voice,เสียงที่แข็งกร้าว
+DNJH-6_NPCname2,A majestic voice.,เสียงที่ทรงพลัง
+DNJH-6_NPCname3,A resolute voice,เสียงที่เด็ดเดี่ยว
+DNJH-7-1_name,Good blocker,อ่านขาด
+DNJH-7-1_overview1,Go to Phoenix Woods HarborGovernment Office and tell Han Anren about King Chai's preparations.,ไปยังศาลาว่าของการท่าเรือป่าหงส์ และบอก หาน อันเหริน เกี่ยวกับการเตรียมการของฮ่องเต้ไฉ
+DNJH-7-1_overview2,Go to South-East Barbarian CampInfo situation.
+DNJH-7-1_overview3,Hurry to Mei Pass Post!,ไปด่านเหมยเร็ว!
+DNJH-7-1_overview4,Inform Han Anren about what's going to happen.,แจ้ง หาน อันเหริน เกี่ยวกับเรื่องที่จะเกิดขึ้น
+DNJH-7-1_overview5,"Meet with Lu Yunlong, Han Zidu and Lu Chenxuan in the restaurant and ask if they have any discoveries.","พบกับ หลู่หยุนหลง, ฮันจือตู้ และ หลูเฉินซวน ในภัตตาคาร และถามว่าพวกเขาพบเจออะไรหรือไม่"
+DNJH-7-1_overview6,Go to Phoenix Woods HarborGovernment Office and tell Han Anren about your deductions.
+DNJH-7-1_overview7,
+DNJH-7-1_NPCname1,A man's voice,เสียงชายหนุ่ม
+DNJH-7-3_name,Chai King's Mansion,คฤหาสน์ฮ่องเต้ไฉ
+DNJH-7-3_overview1,Get ready and enter Duke Chai's Tower to investigate.,เตรียมตัวให้พร้อม และเข้าสู่หอคอยของอ๋องไฉ เพื่อสืบสวน
+DNJH-7-3_NPCname1,A woman's voice,เสียงสตรี
+DNJH-8_name,Distorting right and wrong,แยกแยะชั่วดี
+DNJH-8_NPCname1,Rude voice,เสียงหยาบคาย
+DNJH-8_overview1,Rest well today and wait for tomorrow.,พักผ่อนให้เต็มที่คืนนี้ แล้วพรุ่งนี้ค่อยว่ากันใหม่
+DNJH-8_overview2,Go to Phoenix Woods HarborGovernment Office and meet with Han Anren.,ไปยังศาลาว่าการของท่าเรือป่าหงส์และพบกับ หาน อันเหริน
+DNJH-8_NPCname2,Old voice,เสียงชรา
+DNJH-9_name,King Chai's Trial,การไต่สวนฮ่องเต้ไฉ
+DNJH-9_overview1,Go to Phoenix Woods HarborGovernment Office in a day to witness King Chai's trial.,ไปยังศาลาว่าการท่าเรือป่าหงส์ในหนึ่งวันเพื่อเป็นพยานการพิจารณาคดีของฮ่องเต้ไฉ
+DNJH-9_overview2,Go to Phoenix Woods HarborGovernment Office to witness King Chai's trial.,ไปยังศาลาว่าการท่าเรือป่าหงส์เพื่อเป็นพยานการพิจารณาคดีของฮ่องเต้ไฉ
+DNJH-9_NPCname1,King Chai's voice,เสียงของฮ่องเต้ไฉ
+DNJH-10_name,Chai Han Family,ตระกูลไฉหาน
+DNJH-10_overview1,Find and win over Youth with a Beautiful Face Han Zidu in South-East RegionThousands of Bamboo Creek or the tavern.,ตามหาแม่หญิงงามสะคราญล่มเมือง หาน จื่อตู้ ที่หุบไผ่นับพันหรือโรงเตี๊ยมบริเวณนั้น ที่แดนตะวันออกเฉียงใต้ 
+DNJH-10_overview2,Tell Ji Baichu the result.,ไปแจ้งผลกับจี๋ไป๋ฉู่
+DNJH-10-3_name,Where are the soldiers,พวกทหารอยู่ไหน
+DNJH-10-3_overview1,Go out of the city to find where Lu Yunlong has taken the soldiers.,ออกไปยังนอกเมืองเพื่อดูว่า หลู่ หยุนหลง พากองทหารไปที่ไหน
+DNJH-10_NPCname1,Ji Baichu's voice,เสียงของ จี้ไป๋ฉู่
+DNJH-11_name,Tactical Strategist,วางกลยุทธ์
+DNJH-11_overview1,"In two days, we will force Han Anren to release King Chai at the Government Office. In the meantime, take a look around.",ในอีกสองวัน เราจะบังคับ หาน อันเหริน ให้ปล่อยตัวฮ่องเต้ไฉที่ศาลาว่าการ ในระหว่างนั้นก็ไปสำรวจรอบๆเสีย
+DNJH-11_overview2,"Mr. Ji is dead, I don't know what will happen next, let's wait and see.",ท่านจี้สิ้นแล้วมิอาจคาดเดาได้ รอดูว่าจะเกิดอะไรขึ้นต่อไป
+DNJH-11_overview3,"Today is the planned day, go to Phoenix Woods HarborGovernment Office to check the situation.",วันนี้คือวันที่วางไว้ในแผนแล้ว ไปที่ศาลาว่าการท่าเรือป่าหงส์เพื่อตรวจสอบสถานการณ์

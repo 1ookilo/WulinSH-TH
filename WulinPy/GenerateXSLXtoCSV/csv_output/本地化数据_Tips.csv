@@ -1,0 +1,134 @@
+key,original,translation,context
+TipsString_sencelimit,Scene limit,,场景限制
+TipsString_uselimit,Use limit,,使用限制
+TipsString_Notlimit,No limit,,无限制
+TipsString_battleUse,Combat usage,,战斗使用
+TipsString_UnbattleUse,Non-combat usage,,非战斗使用
+TipsString_Type,Type,,类型 
+TipsString_SZJG,Cooldown,,施展间隔
+TipsString_CD,{0} actions,,{0}次行动
+TipsString_BondCD,Only one use per battle,,一场战斗仅施展一次
+TipsString_XTSX,Core stat,,先天加成
+TipsString_KungfuMoveData,External skill moves,,外功招式
+TipsString_KungfuMoveDataProb,(Trigger probability: {0}%),,（触发概率：{0}%）
+GameLog_CantSaveWhenNpcPercepting,Cannot save when noticed by NPC,,被NPC注意时无法保存
+Loading_Tip,"Some collected resources will recover over time.|The lower the quality of the gathering tool used, the easier it is to damage.|The higher the quality of the gathered item, the more skill experience gained.|The higher the gathering skill level, the less likely the tool is to damage.|The higher the gathering skill level, the more likely to produce high-quality items.|If seen by hostile individuals, they may attack you.|Don't cause trouble in town, or you will be arrested by the officers.|Some scenes will reveal hidden passages when destroyed.|Don't provoke Neutral characters, they will join your opponents to beat you.|The more achievements activated, the more attribute points can be allocated when creating a new character.|The more achievements activated, the more initial traits can be selected when creating a new character.|Sect skills are generally only taught to sect disciples, outsiders have no chance!|Completing daily tasks assigned by the sect can improve sect relations.|Greeting the sect leader daily can improve relations with them.|Sect contribution can be used to exchange for exclusive items at the sect leader's place.|Choosing to leave the sect will clear all gained sect contributions.|Killing key characters of the sect may lead to the destruction of the sect.|Sect contributions can be used to buy exclusive items from the sect leader.|The greater the fame, the easier it is to improve relations with others when gifting.|Winning a duel against a famous Jianghu person for the first time will earn you Fame.|Challenging the leader of other sects requires a certain level of personal Fame.|At the auction, it's actually the closest time to the treasures...|Don't pick up items with owners lightly, it will damage the Relations with the owner.|When any character reaches extreme positive or negative, the protagonist can gain a special status.|If your relations with others reach 40, they may assist you in a fight if they are nearby.|Performing actions such as Ambush, Poison, Steal, etc., will reduce Benevolence.|Picking up items with owners is a behavior that damages Propriety.|Completing tasks on the bulletin board on time can increase Trustworthy.|Abandoning teammates and retreating actively in battle is a behavior that damages Righteous!|To be an upright person, please stay away from all kinds of lowly behaviors.|People's vision generally weakens at night, but animals are just the opposite.|When any of the five-dimensional attributes reach 10, the Character can gain a special status.|Passive represents different combat styles, comprehension points can improve understanding.|Offering the other party's favorite Item during Trade will have additional added value.|Attacking at close range behind the target will cause greater damage.|Attacking at close range on the side of the target will cause more damage.|Frequent use of martial arts can also improve martial arts Level.|After being hit 5 times, attacking the target can trigger a Rage strike!|The more Power you consume, the stronger the Spirit cost of using a special move.|Powerful martial arts cannot be used continuously and need time for Recovery.|Learning external skills can increase Attack power, and internal skills can increase HP and MP.|Setting internal skills as the main skill can maximize its effectiveness in battle.|Forcing to Equip inappropriate equipment will greatly reduce the effect.|The protagonist can increase Constitution by eating food, up to 10.|Mining, Lumbering, Gathering, Fishing can increase the protagonist's Strength, up to 10.|The protagonist can increase Intelligence by burning incense, up to 10.|The protagonist can increase Dexterity by traveling around, up to 10.|Luck can be increased through ItemAppraise, up to 10.|The twelve Animal rings are key items to enter the mysterious scene, don't miss them.|As a chivalrous person, supporting legitimate games is also a virtue!",,"部分被采集的资源，经过一段时间会恢复如初。|使用的采集工具品质越低，越容易损坏。|采集产物品质越高，获得相应能力经验越多。|采集能力等级越高，采集工具越不容易损坏。|采集能力等级越高，越容易产出高品质物品。|被有敌意的人看到，对方可能会对你发起攻击。|在城镇里不要惹事，否则会遭到差役的抓捕。|一些场景被破坏后会发现隐藏的通道。|不要惹到中立的角色，他们会帮着对手一起揍你。|激活成就越多，新建角色时可分配属性点越多。|激活成就越多，新建角色时可选择初始特征越多。|门派武功一般只会传授给本门弟子，外人无缘！|完成门派人物委托的日常任务可提升门派关系。|与门派掌门每日请安，可提升跟对方的关系。|用门派贡献可到本门掌门处兑换门派专属物品。|主动选择退出门派，已获得的门派贡献将被清空。|把门派的关键角色击杀，也会导致该门派灭亡。|门派贡献可在掌门处购买本门的专属物品。|名声越大，送礼时越容易提升与对方的关系。|与有名望的江湖人首次比武胜利会获得名声。|挑战其他门派掌门会对个人名声有一定要求。|拍卖会上，其实是距离珍宝最近的时候……|有主之物不要轻易拾取，会破坏与主人的关系。|任一品格达到极正或极负，主角可获得特殊状态。|与他人关系达到40，在其附近开战他有可能出手相助。|进行突袭、下毒、暗取等行为，会减仁德。|拾取有主之物是有损礼节的行为。|按时完成布告板上的任务，可增加信用。|战斗中抛弃队友主动撤退，是有损义气的行为！|要做一名正直的人，请远离各种不入流的行为。|深夜晚间人们的视线普遍变弱，动物们恰恰相反。|任一项五维属性达到10，角色可获得特殊状态。|武道代表不同战斗风格，领悟点可提升理解程度。|易物时提供对方喜好的物品，会有额外附加价值。|在目标背后近距离攻击，会造成更大伤害。|在目标身侧近距离攻击，会造成较多伤害。|武功频繁使用也能提升武功等级。|挨打5次后攻击目标可触发会心一击！|施展绝招消耗战意，消耗越多的绝招威力越强大。|强力武功不能连续施展，需要一段时间进行恢复。|修炼外功可提升攻击力，内功可提升生命和内力。|把内功设为主功体，才能在战斗中发挥最大效用。|强行穿戴不合条件的装备，效果将会大打折扣。|主角进食饭菜可提升体质，上限为10。|采矿、伐木、采药、垂钓提升主角臂力，上限为10。|主角可通过烧香提升悟性，上限为10。|主角四处游历可提升敏捷，上限为10。|通过物品鉴定可提升福缘，上限为10。|十二兽环是前往神秘场景的关键道具，千万别错过了。|身为侠者，支持正版游戏也是一件美德！
+"
+RoamingUiTip_Stamina,"<#FEFAF0>The higher the Stamina value, the better the temporary effect, and vice versa.</color>
+<#FEFAF0>Actions such as Mining, Lumbering, Fishing, etc., require the consumption of Stamina.</color>
+<#FEFAF0>Stamina will decay over time.</color>
+<#FEFAF0>Cannot interact with other characters in the state of Extreme fatigue.</color>
+<#FEFAF0>Stamina can be recovered through sleep and eating Main.</color>",,"<#FEFAF0>体力数值越高，获得临时效果越好，反之则获得效果越差。</color>
+<#FEFAF0>进行采矿、伐木、垂钓等行为需要消耗体力。</color>
+<#FEFAF0>体力会随着时间流逝不断衰减。</color>
+<#FEFAF0>精疲力竭状态下无法跟其他人物互动。</color>
+<#FEFAF0>通过睡觉、吃主食可恢复体力。</color>"
+RoamingUiTip_Mood,"<#FEFAF0>The higher the Mood value, the better the temporary effects obtained, and vice versa.</color>
+<#FEFAF0>If Mood exceeds 60, it will slowly return to normal on its own.</color>
+<#FEFAF0>When Stamina is low, Mood decreases over time.</color>
+<#FEFAF0>Both defeat in battle and retreat will reduce Mood.</color>
+<#FEFAF0>Eating desserts and berries can recover Mood.</color>
+<#FEFAF0>Choosing to rest in a comfortable bed can recover Mood, such as staying in an inn.</color>",,"<#FEFAF0>心情数值越高，获得临时效果越好，反之则获得效果越差。</color>
+<#FEFAF0>心情超过60，会缓慢自动平复。</color>
+<#FEFAF0>当体力较低时，每隔一段时间心情随之减少。</color>
+<#FEFAF0>战斗失败和撤退都会减少心情</color>
+<#FEFAF0>食用甜品和浆果可恢复心情。</color>
+<#FEFAF0>选择使用舒适的床铺休息可恢复心情，如客栈住宿。</color>"
+RoamingUiTip_Rep,"<#FEFAF0>The higher your Fame, the more effective your Gifts to others will be. Conversely, the lower your Fame, the weaker your Gifts will be.</color>
+<#FEFAF0>Joining certain sects requires a certain level of Fame as a prerequisite.</color>
+<#FEFAF0>Activating important events in the Jianghu requires a certain level of Fame.</color>
+<#FEFAF0>Completing tasks on the bulletin boards in towns and sects may reward Fame Experience.</color>
+<#FEFAF0>Winning championships in various Arenas rewards Fame Experience.</color>
+<#FEFAF0>Eliminating sects can earn a large amount of Fame Experience.</color>",,"<#FEFAF0>自身名声越高，送礼给其他人物效果越明，相反名声越低，送礼效果越弱。</color>
+<#FEFAF0>加入部分门派需要一定名声作为前提。</color>
+<#FEFAF0>激活重要的江湖事件需要名声达到一定阶段。</color>
+<#FEFAF0>完成城镇、门派中布告板上的任务有机会奖励名声经验。</color>
+<#FEFAF0>各种的擂台比武获得冠军奖励名声经验。</color>
+<#FEFAF0>剿灭门派可获得大量的名声经验。</color>"
+RoamingUiTip_Coin,"<#FEFAF0>Important Money for trading with other characters.</color>
+<#FEFAF0>You can earn Coin by selling items.</color>
+<#FEFAF0>Completing tasks on the bulletin boards in towns and factions may reward Coin.</color>
+<#FEFAF0>Getting rare items and participating in auctions can make you rich overnight!</color>",,"<#FEFAF0>用来跟其他人物交易的重要货币。</color>
+<#FEFAF0>可通过出售道具赚取铜钱。</color>
+<#FEFAF0>完成城镇、门派中布告板上的任务有机会获得铜钱奖励。</color>
+<#FEFAF0>获得稀有物品参加拍卖有机会一夜暴富！</color>"
+RoamingUiTip_FTributePoint,"<#FEFAF0>You can exchange items in the faction store</color>
+<#FEFAF0>Obtained by completing bounty tasks</color>",,"<#FEFAF0>可以在门派商店交换道具</color>
+<#FEFAF0>通过完成悬赏任务获得</color>"
+RoamingUiTipHead_Stamina,<#FFE7B0>Stamina</color>,,<#FFE7B0>体力</color>
+RoamingUiTipHead_Mood,<#FFE7B0>Mood</color>,,<#FFE7B0>心情</color>
+RoamingUiTipHead_Rep,<#FFE7B0>Fame (Level {0})</color>,,<#FFE7B0>名声（{0}级）</color>
+RoamingUiTipHead_Coin,<#FFE7B0>Coin</color>,,<#FFE7B0>铜钱</color>
+RoamingUiTipHead_FTributePoint,Sect contribution,,门派贡献
+RoamingUiTipValue_Stamina,<#FFD779>{0}/{1}</color>,,<#FFD779>{0}/{1}</color>
+RoamingUiTipValue_Mood,<#59F3DF>{0}/{1}</color>,,<#59F3DF>{0}/{1}</color>
+RoamingUiTipValue_Rep,<#E277FF>{0}/{1}</color>,,<#E277FF>{0}/{1}</color>
+RoamingUiTipValue_Coin,<#FFE7B0>{0} Coin</color>,,<#FFE7B0>{0}文</color>
+RoamingUiTipValue_FTributePoint,<#FFE7B0>{0}</color>,,<#FFE7B0>{0}</color>
+KungfuTip_CostEp,MP cost {0},,消耗内力 {0}
+TipTitle_CostEp,MP cost,,消耗内力
+TipTiTle_CostAccu,Spirit cost,,消耗战意
+Tip_NeedWeapon,Weapon,,所需武器
+Unlimited,No limit,,不限
+TipTitle_InternalKungfuProp,Internal stats,,内功属性
+TipTitle_MainInternalKungfuEffect,Main Internal effect,,主内功效果
+TipTitle_SubInternalKungfuEffect,Sub Internal effect,,副内功效果
+TipTitle_OuternalProp,External stats,,外功属性
+TipTitle_OuternalDamage,Power,,外功威力
+TipTitle_InternalKungfuEffect,Effect,,内功效果
+TipTitle_OuternalKungfuEffect,External effect (activated when using this skill),,外功效果（释放武功时生效）
+TipHead_ItemType,Type,,类型   
+,,,无
+TipTitle_EquipReq,Requirement,,穿戴要求
+TipTitle_MainProp,Main stats,,主要属性
+TipTitle_AddtionProp,Sub stats,,附加属性
+TipTitle_JingMai,Meridian,,经脉
+TipTitle_InterForceType,Internal type,,内功类型
+TipTitle_BookEffect,Manual effect,,秘籍效果
+TipTitle_MaxPropAddition,Max Level stats,,满重属性
+TipTitle_BookInternalKungfu,Read to learn,,修炼后习得内功
+TipTitle_BookOuternalKungfu,Read to learn,,修炼后习得外功
+TipTitle_AddtionEffect,Additional effects,,附加效果
+Suffix_Level,Level,,级
+TipTitle_AppraisementReq,Appraisal requirement,,鉴定要求
+TipTitle_UseEffect,Effect,,使用效果
+TipTitle_BuffDuration,Effect duration,,持续时效
+TipTitle_HidWepDamage,Power,,威力
+TipTitle_PropAddition,Current stats,,当前加成
+SkillTip_Damage,Damage <color=#ffffff>{0}</color>,,伤害 <color=#ffffff>{0}</color>
+SkillTip_CostEp,MP cost <color=#ffffff>{0}</color>,,消耗内力 <color=#ffffff>{0}</color>
+Tip_WeaponUnfit,"Incorrect weapon held, can't use",,所持武器不符，无法施展
+TipTitle_UniqueProp,Super Move stats,,绝招属性
+TipTitle_UniqueEffect,Super Move effect,,绝招效果
+TipTitle_UniqueDamage,Power,,绝招威力
+GrayPillTips,Can take up to five attribute-enhancing Pills.,,可服用五维资质类丹药，最多服用五颗。
+BH_PrizeItemTip,Rewards depend on the task completion status,,奖励内容视任务完成情况而定
+TipTitle_BondProp,Love Skill stats,,情缘属性
+TipHead_BondDamage,Power,,情缘威力
+TipHead_BondRange,Range,,触发范围
+TipValue_BindRange,Within 4 spaces of main character,,主角援助且双方距离不超过4格
+TipHead_BondEffect,Love Skill effect,,情缘效果
+CabTip1,You are already here!,,您已经在这了！
+CabTip2,Not enough Coin!,,铜钱不足！
+CabProgressStart,Travel started,,旅程开始
+CabProgressEnd,Travel ended,,旅程结束
+CabProgressEndByCancel,Travel interrupted,,旅程中断
+CabPetStuff,Insufficient pet Full {0}! Can't ride!,,宠物饱食不足{0}！无法骑乘！
+CabDisable,"The horse cart function is currently unavailable, please continue the story!",,马车功能暂不可用，请继续推进剧情！
+CabIconNotExist,The horse cart function is currently unavailable!,,马车功能暂不可用！
+UIBondsPlace,<size=150%>Press space to place Wedding Stone,,<size=150%>按空格放置三生石
+UIBondsStop,<size=150%>Press space to stop,,<size=150%>按空格停止
+UIBondsExit,<size=150%>Press any key to exit,,<size=150%>按任意键退出
+LivingExp_CanNotUpgrade,"%c%Insufficient Jianghu Knowledge, unable to level up",,%c%江湖历练不足，无法提升等级
+LivingExp_ConfirmTip,Consume <#D7A347>{0} Jianghu Knowledge</color> to level up? Current <#D7A347>Jianghu Knowledge: {1}</color>,,"消耗<#D7A347>{0}点江湖历练</color>提升等级？
+当前<#D7A347>江湖历练：{1}</color>"
+LivingExp_ShowNum,Jianghu Knowledge: {0},,江湖历练：{0}
+LivingExp_ShowNumTip,"Jianghu Knowledge can be obtained by completing Jianghu events, town bounties, and martial arts competitions, and is stored in the Experience pool, with a maximum storage limit of {0};
+Jianghu Knowledge functions the same as EXP and can be used to increase Character Level and martial arts Level;
+Jianghu Knowledge needs to be manually allocated to the Character or other martial arts for leveling up.",,"通过完成江湖事件、城镇悬赏、比武获得江湖历练，并储存在经验池内，最高存储上限{0}；
+江湖历练作用同实战经验，可用于提升角色等级和武功等级；
+江湖历练需要手动分配给角色或其他武功进行提升。"
+tModLoader.DescriptionMax,%c%The description of the mod exceeds the limit,,%c%模组“描述”字数超过限制
+FiefTipUnlock,%s%{0} has been unlocked,,%s%{0}已解锁
+FiefTipLevelUp,%s%{0} Level has been increased,,%s%{0}等级已提升
+,,,

@@ -1,0 +1,587 @@
+﻿﻿CharaName_引导者,Junior Sister,น้องสาว
+CharaName_曼,Man,ชายหนุ่ม
+CharaName_泥丸真人,Spiritual master,นักพรตเต๋า
+CharaName_战,Zhan,จ้าน
+CharaName_黑手指,Hei Shouzhi,เฮย โจวฉื่อ
+CharaName_张,Zhang,จาง
+CharaName_赵,Zhao,จ้าว
+CharaName_陈,Chen,เฉิน
+CharaName_孙,Sun,ซุน
+CharaName_周,Zhou,โจว
+CharaName_远,Yuan,หยวน
+CharaName_明,Ming,หมิง
+CharaName_自,Zi,จื่อ
+CharaName_逸,Yi,ยี่
+CharaName_潜,Qian,เฉียน
+CharaName_风,Feng,เฟิง
+CharaName_静,Jing,จิง
+CharaName_高,Gao,เกา
+CharaName_慧心,Wise Heart,ฮ้วยซิน
+CharaName_明智,wise,หมิงจื่อ
+CharaName_虔诚,piety ,เชียงเฉิง
+CharaName_禅心,Zen Heart,ฉานซิน
+CharaName_净心,Pure Heart,จิงซิน
+CharaName_慈悲,mercy,ซือปา
+CharaName_虚空,Void,จื้อกง
+CharaName_智慧,wisdom,จือเฮว่
+CharaName_黑,Hei,เฮย
+CharaName_吴,Wu,อู๋
+CharaName_梅,Mei,เหมย
+CharaName_桃,Tao,เถา
+CharaName_竹,Zhu,จู้
+CharaName_莲,Lian,เหลียน
+CharaName_菊,Ju,จู
+CharaName_松,Song,ซ่ง
+CharaName_芙,Fu,ฟู่
+CharaName_江,Jiang,เจียง
+CharaName_烟,Yan,เหยียน
+CharaName_山,Shan,ชาน
+CharaName_潮,Chao,เฉา
+CharaName_黄,Huang,หวง
+CharaName_徐,Xu,ซู
+CharaName_朱,Zhu,จู้
+CharaName_林,Lin,หลิน
+CharaName_郑,Zheng,เจิ้ง
+CharaName_卢,Lu,ลู่
+CharaName_毛,Mao,เหมา
+CharaName_谢,Xie,เซีย
+CharaName_司徒,Situ,ซือถู
+CharaName_卫,Wei,เว่ย
+CharaName_申,Shen,เสิน
+CharaName_司马,Sima,ซือหม่า
+CharaName_锺,Zhong,ฉง
+CharaName_茅,Mao,เหมา
+CharaName_桂,Gui,กุ้ย
+CharaName_全,Quan,ฉวน
+CharaName_养,Yang,หยาง
+CharaName_微,Wei,เว่ย
+CharaName_席,Xi,ฉี
+CharaName_米,Mi,มี่
+CharaName_巩,Gong,กง
+CharaName_巫,Wu,วู
+CharaName_常,Chang,ฉาง
+CharaName_莫,Mo,โม
+CharaName_阴,Yin,หยิน
+CharaName_万,Wan,หวัน
+CharaName_屠,Tu,ถู
+CharaName_仲,Zhong,ฉง
+CharaName_古,Gu,กู่
+CharaName_狄,Di,ตี้
+CharaName_荣,Rong,หรง
+CharaName_利,Li,ลี่
+CharaName_危,Wei,เว่ย
+CharaName_熊,Xiong,สง
+CharaName_项,Xiang,เซี่ยง
+CharaName_乌,Wu,อู
+CharaName_沙,Sha,ซา
+CharaName_巢,Chao,เฉา
+CharaName_罗,Luo,หลัว
+CharaName_须,Xu,ซู
+CharaName_成,Cheng,เฉิง
+CharaName_苍,Cang,ฉัง
+CharaName_曾,Zeng,เฉิง
+CharaName_左,Zuo,จั่ว
+CharaName_乔,Qiao,เฉียว
+CharaName_安,An,อัน
+CharaName_索,Suo,โซว
+CharaName_国,Guo,กั๋ว
+CharaName_于,Yu,หยู
+CharaName_竺,Zhu,จู้
+CharaName_令狐,Linghu,หลิงหู
+CharaName_宣,Xuan,ซวน
+CharaName_钱,Qian,เฉียน
+CharaName_乐,Yue ,เยว่
+CharaName_鲁,Lu,ลู่
+CharaName_麻,Ma,หม่า
+CharaName_司空,Sikong,ซือคง
+CharaName_柏,Bai,ไป๋
+CharaName_左丘,Zuo,จั่ว
+CharaName_伯,Bo,ป๋อ
+CharaName_贝,Bei,เป่ย
+CharaName_陶,Tao,เถา
+CharaName_田,Tian,เถียน
+CharaName_儒圣馆守卫（弱）,Confucius Temple Guard,ผู้พิทักษ์วัดขงจื้อ (อ่อนหัด)
+CharaName_儒圣馆守卫（中）,Confucius Temple Guard,ผู้พิทักษ์วัดขงจื้อ (ขั้นกลาง)
+CharaName_儒圣馆守卫（强）,Confucius Temple Guard,ผู้พิทักษ์วัดขงจื้อ (ขั้นสูง)
+CharaName_道玄宗守卫（弱）,Taoist Sect Guard,ผู้พิทักษ์สำนักเต๋า (อ่อนหัด)
+CharaName_道玄宗守卫（中）,Taoist Sect Guard,ผู้พิทักษ์สำนักเต๋า (ขั้นกลาง)
+CharaName_道玄宗守卫（强）,Taoist Sect Guard,ผู้พิทักษ์สำนักเต๋า (ขั้นสูง)
+CharaName_释法寺守卫（弱）,Shifa Temple Guard,ผู้พิทักษ์อารามฉีฟา (อ่อนหัด)
+CharaName_释法寺守卫（中）,Shifa Temple Guard,ผู้พิทักษ์อารามฉีฟา (ขั้นกลาง)
+CharaName_释法寺守卫（强）,Shifa Temple Guard,ผู้พิทักษ์อารามฉีฟา (ขั้นสูง)
+CharaName_九流门守卫（弱）,Nine Factions Sect Guard,ผู้พิทักษ์นิกายเก้าฝ่าย (อ่อนหัด)
+CharaName_九流门守卫（中）,Nine Factions Sect Guard,ผู้พิทักษ์นิกายเก้าฝ่าย (ขั้นกลาง)
+CharaName_九流门守卫（强）,Nine Factions Sect Guard,ผู้พิทักษ์นิกายเก้าฝ่าย (ขั้นสูง)
+CharaName_妙音坊守卫（弱）,Melody House Guard,ผู้พิทักษ์ตำหนักบทเพลง (อ่อนหัด)
+CharaName_妙音坊守卫（中）,Melody House Guard,ผู้พิทักษ์ตำหนักบทเพลง (ขั้นกลาง)
+CharaName_妙音坊守卫（强）,Melody House Guard,ผู้พิทักษ์ตำหนักบทเพลง (ขั้นสูง)
+CharaName_九黎部落守卫（弱）,Jiuli Tribe Guard,ผู้พิทักษ์เผ่าจิ่วลี่ (อ่อนหัด)
+CharaName_九黎部落守卫（中）,Jiuli Tribe Guard,ผู้พิทักษ์เผ่าจิ่วลี่ (ขั้นกลาง)
+CharaName_九黎部落守卫（强）,Jiuli Tribe Guard,ผู้พิทักษ์เผ่าจิ่วลี่ (ขั้นสูง)
+CharaName_九江水寨守卫（弱）,Jiuli Tribe Guard,องครักษ์เผ่าจิ่วลี่ (อ่อนหัด)
+CharaName_九江水寨守卫（中）,Jiuli Tribe Guard,องครักษ์เผ่าจิ่วลี่ (ขั้นกลาง)
+CharaName_九江水寨守卫（强）,Jiuli Tribe Guard,องครักษ์เผ่าจิ่วลี่ (ขั้นสูง)
+CharaName_本草门守卫（弱）,Herbology Sect Guard,ผู้พิทักษ์สำนักพฤกษา (อ่อนหัด)
+CharaName_本草门守卫（中）,Herbology Sect Guard,ผู้พิทักษ์สำนักพฤกษา (ขั้นกลาง)
+CharaName_本草门守卫（强）,Herbology Sect Guard,ผู้พิทักษ์สำนักพฤกษา (ขั้นสูง)
+CharaName_万兽山庄守卫（弱）,Beast Manor Guard,ผู้พิทักษ์หมู่ตึกหมื่นอสูร (อ่อนหัด)
+CharaName_万兽山庄守卫（中）,Beast Manor Guard,ผู้พิทักษ์หมู่ตึกหมื่นอสูร (ขั้นกลาง)
+CharaName_万兽山庄守卫（强）,Beast Manor Guard,ผู้พิทักษ์หมู่ตึกหมื่นอสูร (ขั้นสูง)
+CharaName_燕子窝守卫（弱）,Swallow Nest Guard,ผู้พิทักษ์รังนกนางแอ่น (อ่อนหัด)
+CharaName_燕子窝守卫（中）,Swallow Nest Guard,ผู้พิทักษ์รังนกนางแอ่น (ขั้นกลาง)
+CharaName_燕子窝守卫（强）,Swallow Nest Guard,ผู้พิทักษ์รังนกนางแอ่น (ขั้นสูง)
+CharaName_神捕门守卫（弱）,Crime Investigation Bureau Guard,ผู้พิทักษ์สำนักสืบสวน (อ่อนหัด)
+CharaName_神捕门守卫（中）,Crime Investigation Bureau Guard,ผู้พิทักษ์สำนักสืบสวน (ขั้นกลาง)
+CharaName_神捕门守卫（强）,Crime Investigation Bureau Guard,ผู้พิทักษ์สำนักสืบสวน (ขั้นสูง)
+CharaName_虎威镖局守卫（弱）,Tiger Escort Guard,ผู้พิทักษ์สำนักคุ้มภัยพยัคฆา (อ่อนหัด)
+CharaName_虎威镖局守卫（中）,Tiger Escort Guard,ผู้พิทักษ์สำนักคุ้มภัยพยัคฆา (ขั้นกลาง)
+CharaName_虎威镖局守卫（强）,Tiger Escort Guard,ผู้พิทักษ์สำนักคุ้มภัยพยัคฆา (ขั้นสูง)
+CharaName_夜摩坊守卫（弱）,Night Auction Market Guard,ผู้พิทักษ์ตลาดประมูลราตรี (อ่อนหัด)
+CharaName_夜摩坊守卫（中）,Night Auction Market Guard,ผู้พิทักษ์ตลาดประมูลราตรี (ขั้นกลาง)
+CharaName_夜摩坊守卫（强）,Night Auction Market Guard,ผู้พิทักษ์ตลาดประมูลราตรี (ขั้นสูง)
+CharaName_琅琊剑阁守卫（弱）,Langya Sword Pavilion Guard,ผู้พิทักษ์ศาลากระบี่หลางหยา (อ่อนหัด)
+CharaName_琅琊剑阁守卫（中）,Langya Sword Pavilion Guard,ผู้พิทักษ์ศาลากระบี่หลางหยา (ขั้นกลาง)
+CharaName_琅琊剑阁守卫（强）,Langya Sword Pavilion Guard,ผู้พิทักษ์ศาลากระบี่หลางหยา (ขั้นสูง)
+CharaName_摸金门守卫（弱）,Tomb Raider Sect Guard,ผู้พิทักษ์สำนักปล้นสุสาน (อ่อนหัด)
+CharaName_摸金门守卫（中）,Tomb Raider Sect Guard,ผู้พิทักษ์สำนักปล้นสุสาน (ขั้นกลาง)
+CharaName_摸金门守卫（强）,Tomb Raider Sect Guard,ผู้พิทักษ์สำนักปล้นสุสาน (ขั้นสูง)
+CharaName_青风寨守卫（弱）,Blue Wind Camp Guard,ผู้พิทักษ์ค่ายวายุคราม (อ่อนหัด)
+CharaName_青风寨守卫（中）,Blue Wind Camp Guard,ผู้พิทักษ์ค่ายวายุคราม (ขั้นกลาง)
+CharaName_青风寨守卫（强）,Blue Wind Camp Guard,ผู้พิทักษ์ค่ายวายุคราม (ขั้นสูง)
+CharaName_叶家军守卫（弱）,Ye Family Battalion Guard,ผู้พิทักษ์กองพันตระกูลเย่ (อ่อนหัด)
+CharaName_叶家军守卫（中）,Ye Family Battalion Guard,ผู้พิทักษ์กองพันตระกูลเย่ (ขั้นกลาง)
+CharaName_叶家军守卫（强）,Ye Family Battalion Guard,ผู้พิทักษ์กองพันตระกูลเย่ (ขั้นสูง)
+CharaName_冷皮帮守卫（弱）,Cold Skin Gang Guard,ผู้พิทักษ์พรรคมังสาเหมันต์ (อ่อนหัด)
+CharaName_冷皮帮守卫（中）,Cold Skin Gang Guard,ผู้พิทักษ์พรรคมังสาเหมันต์ (ขั้นกลาง)
+CharaName_冷皮帮守卫（强）,Cold Skin Gang Guard,ผู้พิทักษ์พรรคมังสาเหมันต์ (ขั้นสูง)
+CharaName_圣火宗守卫（弱）,Divine Flame Sect Guard,ผู้พิทักษ์นิกายไฟศักดิ์สิทธิ์ (อ่อนหัด)
+CharaName_圣火宗守卫（中）,Divine Flame Sect Guard,ผู้พิทักษ์นิกายไฟศักดิ์สิทธิ์ (ขั้นกลาง)
+CharaName_圣火宗守卫（强）,Divine Flame Sect Guard,ผู้พิทักษ์นิกายไฟศักดิ์สิทธิ์ (ขั้นสูง)
+CharaName_山匪,Bandit,โจร
+CharaName_陀罗,TuoLuo,ถัวหลัว
+CharaName_雄飞,Xiongfei,ซงเฟย
+CharaName_剑飞,Jianfei,เจียนเฟย
+CharaName_烨磊,Yelei,เย่เหลย
+CharaName_龙虎,Longhu,หลงหู
+CharaName_云天,Yuntian,หยุนเทียน
+CharaName_鹰扬,Yingyang,หยิงหยาง
+CharaName_震天,Zhentian,เสินเทียน
+CharaName_峰涛,Fengtao,เฟิงเต๋า
+CharaName_长空,Changkong,ฉางขง
+CharaName_见清,Jianqing,เจียนฉิง
+CharaName_悟逍,Wuxiao,หวู่เซียว
+CharaName_在瑞,Zairui,ไซ่ลุ่ย
+CharaName_云高,Yungao,ยุนเกา
+CharaName_心明,Xinming,ซินหมิง
+CharaName_行者,Xingzhe,ซิงเจ๋อ
+CharaName_思云,Siyun,ซิหยุน
+CharaName_远者,Yuanzhe,หยวนเจ๋อ
+CharaName_手,Shou,โชว
+CharaName_旋风,Xuanfeng,ซวนฟง
+CharaName_铁手,Tieshou,เทียโช้ว
+CharaName_无前,Wuqian,อู๋เฉียน
+CharaName_无尽,Wujin,วูจิน
+CharaName_星星,Xingxing,ซิงซิง
+CharaName_大炮,Dapao,ต้าเปา
+CharaName_香雨,Xiangyu,เซียงหยู
+CharaName_花影,Huaying,ฮัวหยิง
+CharaName_月清,Yueqing,เยว่หยิง
+CharaName_心灵,Xinling,ซินหลิง
+CharaName_雪梅,Xuemei,ซัวเหมย
+CharaName_萍青,Pingqing,ปิงผิง
+CharaName_蓉心,Yongxin,หยงซิน
+CharaName_无痕,Wuhen,อู่เหิน
+CharaName_嘉莲,Jialian,เจี่ยเหลียน
+CharaName_湖隐,Huyin,ฮูหยิน
+CharaName_云泽,Yunze,หยุนเซ่อ
+CharaName_云影,Yunying,หยุนหยิ่ง
+CharaName_水行,Shuixing,ชุยซิง
+CharaName_湖客,Huke,ฮูเค่อ
+CharaName_汐心,Xixin,ซี่ซิง
+CharaName_雨行,Yuxing,หยู่ฉิง
+CharaName_大头,Datou,ต้าโถว
+CharaName_翠山,Cuishan,ฉุ่ยชาน
+CharaName_云舟,Yunzhou,หยุนโจว
+CharaName_雪岚,Xuelan,ซื่อหลาน
+CharaName_湖水,Hushui,ฮูเชว่
+CharaName_云波,Yunbo,หยุนโป้
+CharaName_林烟,Linyan,หลินหยาน
+CharaName_岚霜,Lanshuang,หลานช่วง
+CharaName_晓雪,Xiaoxue,เซี่ยวซื่อ
+CharaName_翠云,Cuiyun,ชุ่ยหยุน
+CharaName_瑞雨,Ruiyu,รุ่ยยี่
+CharaName_雪儿,Xue'er,ซื่อเอ้อร์
+CharaName_静静,Jingjing,จิงจิง
+CharaName_梦瑶,Mengyao,เมิ่งเหยา
+CharaName_慧婷,Huiting,ฮุ่ยถิง
+CharaName_雨薇,Yuwei,หยู่เว๋ย
+CharaName_风雨,Fengyu,ฟงหยู่
+CharaName_云飞,Yunfei,หยุนเฟย
+CharaName_山涛,Shantao,เชียนเทา
+CharaName_烟雨,Yanyu,เยี่ยนยวู่
+CharaName_波涵,Bohan,โป้หัน
+CharaName_岚翠,Lancui,หลันฉุ่ย
+CharaName_涛皓,Taohao,เทาเฮ่า
+CharaName_晓原,Xiaoyuan,เสี่ยวเหยียน
+CharaName_发,Fa,ฟา
+CharaName_宫燚,Gongyi,กงยี่
+CharaName_月华,Yuehua,เย่ฮวา
+CharaName_亚录,Yalu,หยาลู่
+CharaName_邦,Bang,ปัง
+CharaName_昌恒,Changheng,ฉางเหิง
+CharaName_世恒,Shiheng,ชี่เหิง
+CharaName_离敬,Lijing,หลีจิ้ง
+CharaName_光,Guang,กวง
+CharaName_明海,Minghai,หมิงไห่
+CharaName_良,Liang,เหลียง
+CharaName_仁承,Rencheng,เหรินเฉิง
+CharaName_博仁,Boren,ปั๋วเหริน
+CharaName_生文,Shengwen,เชิ่งเหวิน
+CharaName_文博,Wenbo,เหวินปั๋ว
+CharaName_雨帆,Yufan,หยู่ฝาน
+CharaName_谷文,Guwen,กู่เหวิน
+CharaName_问天,Wentian,เวิ่นเทียน
+CharaName_马旺,Mawang,หม่าหวัง
+CharaName_宇尘,Yuchen,ยูเฉิน
+CharaName_征,Zheng,เจิ้ง
+CharaName_仲言,Zhongyan,จงเหยียน
+CharaName_勇,Yong,หยง
+CharaName_德道,Dedao,เต้อเตา
+CharaName_泽金,Zejin,เซ๋อจิ้น
+CharaName_寿宇,Shouyu,โช้วหยู่
+CharaName_泽天,Zetian,เซ๋อเทียน
+CharaName_兴,Xing,ซิง
+CharaName_有,You,โหย่ว
+CharaName_远丰,Yuanfeng,หยวนฟง
+CharaName_文阳,Wenyang,เหวินหยาง
+CharaName_雨泽,Yuze,หยู่เซ๋อ
+CharaName_吉祥,Jixiang,จี่เฉียง
+CharaName_新豪,Xinhao,เสียนหาว
+CharaName_福,Fu,ฟู่
+CharaName_吉,Ji,จี้
+CharaName_弘易,Hongyi,หงอี้
+CharaName_长卿,Changqing,ฉางชิง
+CharaName_崇,Chong,ฉง
+CharaName_棋雷,Qilei,ฉีเล่ย
+CharaName_文萱,Wenxuan,เหวินซ่วน
+CharaName_俊辉,Junhui,จุ่นเฮว่
+CharaName_鸣,Ming,หมิง
+CharaName_梓坤,Zikun,ซื่อเควิน
+CharaName_章,Zhang,จาง
+CharaName_贤,Xian,เซียน
+CharaName_彬,Bin,ปิน
+CharaName_轩召,Xuanzhao,ชวนจ้าว
+CharaName_远宏,Yuanhong,หยวนหง
+CharaName_世翰,Shihan,ชื่อห่าน
+CharaName_浩宝,Haobao,เฮ่าเป่า
+CharaName_群雁,Qunyan,ฉุนเยว่
+CharaName_乐正,Lezheng,เยว่จง
+CharaName_之锋,Zhifeng,จื่อฟง
+CharaName_月冥,Yueming,เย่หมิง
+CharaName_贵,Gui,กุ้ย
+CharaName_远见,Yuanjian,หยวนเจี้ยน
+CharaName_峰,Feng,เฟิง
+CharaName_锐意,Ruiyi,รุ่ยยี่
+CharaName_乐皓,Lehao,เล่อเฮ่า
+CharaName_宇帆,Yufan,ยู่ฝาน
+CharaName_子淼,Zimiao,สือเหมี่ยว
+CharaName_昊靖,Haojing,เฮ่าจิง
+CharaName_为,Wei,เว่ย
+CharaName_博昌,Bochang,ปั๋วฉาง
+CharaName_月浩,Yuehao,เยว่เฮ่า
+CharaName_叶青,Yeqing,เยี่ยชิง
+CharaName_兵,Bing,ปิง
+CharaName_霖,Lin,หลิน
+CharaName_昌拓,Changtuo,ชางถั้ว
+CharaName_靳言,Jinyan,จิ้นเหยียน
+CharaName_文,Wen,เหวิน
+CharaName_德诚,Decheng,เต๋อเฉิง
+CharaName_励谷,Ligu,หลี่กู
+CharaName_旭畅,Xuchang,ชื่อชาง
+CharaName_启文,Qiwen,ชี่เหวิน
+CharaName_天俊,Tianjun,เทียนจุน
+CharaName_刘家带话小哥,Liu family messenger boy,เด็กส่งสารจากตระกูลหลิว
+CharaName_看客甲,Audience A,ผู้ชม - อี้
+CharaName_看客乙,Audience B,ผู้ชม - เอ้อร์
+CharaName_伪装的陈家带话小哥,Disguised Chen family messenger boy,เด็กส่งสารจากตระกูลเฉินที่ปลอมตัวมา
+CharaName_陈家带话小哥,Chen family messenger boy,เด็กส่งสารจากตระกูลเฉิน
+CharaName_内门弟子,Inner Disciple,ศิษย์ใน
+CharaName_外门弟子,Outer Disciple,ศิษย์นอก
+CharaName_蛇,Snake,งู
+CharaName_蝎子,Scorpion,แมงป่อง
+CharaName_虎,Tiger,พยัคฆ์
+CharaName_守塔人,Tower Watchman,ยามเฝ้าหอ
+CharaName_白衣学子,White clad student,บัณฑิตชุดขาว
+CharaName_医师,Physician,หมอ
+CharaName_道玄宗弟子,Taoist Sect Disciple,ลูกศิษย์สำนักเต๋า
+CharaName_村民,Villager,ชาวบ้าน
+CharaName_活神仙,Living immortal,เทพเซียน
+CharaName_夜摩坊弟子,Night Auction Market Disciple,ศิษย์ตลาดประมูลราตรี
+CharaName_释法寺弟子,Shifa Temple Disciple,ลูกศิษย์อารามฉีฟา
+CharaName_路人甲,Passerby A,คนผ่านทาง อี้
+CharaName_路人乙,Passerby B,คนผ่านทาง - เอ้อร์
+CharaName_路人丙,Passerby C,คนผ่านทาง - ซาน
+CharaName_路人丁,Passerby D,คนผ่านทาง - ซื่อ
+CharaName_稚童,Childhood,เพื่อนสมัยเด็ก
+CharaName_山贼头头,Bandit Leader,หัวหน้าโจร
+CharaName_莽山贼,Reckless Bandit,โจรบ้าบิ่น
+CharaName_愚山贼,Ignorant Bandit,โจรเอาแต่ใจ
+CharaName_面具人头子,Masked Man Leader,ผู้นำชายสวมหน้ากาก
+CharaName_面具人甲,Masked Man A,ชายสวมหน้ากาก - อี้
+CharaName_面具人乙,Masked Man B,ชายสวมหน้ากาก - เอ้อร์
+CharaName_云林寺主持,Yunlin Temple Abbot,เจ้าอาวาสวัดป่าเมฆา
+CharaName_云林寺武僧甲,Yunlin Temple Martial Monk A,พระนักรบวัดหยุนหลิน - อี้
+CharaName_云林寺武僧乙,Yunlin Temple Martial Monk B,พระนักรบวัดหยุนหลิน - เอ้อร์
+CharaName_云林寺武僧丙,Yunlin Temple Martial Monk C,พระนักรบวัดหยุนหลิน - ซาน
+CharaName_云林寺武僧丁,Yunlin Temple Martial Monk D,พระนักรบวัดหยุนหลิน - ซื่อ
+CharaName_九流门弟子,Nine Factions Sect Disciple,ศิษย์นิกายเก้าฝ่าย
+CharaName_富家子弟,Rich Young,นายน้อยผู้ร่ำรวย
+CharaName_恶奴,Damn Servants,คนรับใช้ชั่วร้าย
+CharaName_部落众,Tribal Members,สมาชิกเผ่า
+CharaName_水寨寨众,The villagers in the water village,ชาวบ้านหมู่บ้านริมน้ำ
+CharaName_官兵头子,Soldier Leader,หัวหน้าทหาร
+CharaName_士兵甲,Soldier A,ทหาร - อี้
+CharaName_士兵乙,Soldier B,ทหาร - เอ้อร์
+CharaName_本草门弟子,Herbology Sect  Disciple,ศิษย์สำนักพฤกษา
+CharaName_山庄弟子,Manor Disciple,ศิษย์หมู่ตึก
+CharaName_成年雪豹,Adult Snow Leopard,เสือดาวหิมะเต็มวัย
+CharaName_富商护卫甲,Rich Merchant Guard A,องครักษ์พ่อค้ามั่งมี - อี้
+CharaName_富商护卫丙,Rich Merchant Guard C,องครักษ์พ่อค้ามั่งมี - ซาน
+CharaName_富商护卫丁,Rich Merchant Guard D,องครักษ์พ่อค้ามั่งมี - เอ้อร์
+CharaName_差役头子,Bailiff Leader,หัวหน้าเจ้าหน้าที่
+CharaName_差役甲,Bailiff A,เจ้าหน้าที่ - อี้
+CharaName_差役乙,Bailiff B,เจ้าหน้าที่ - เอ้อร์
+CharaName_神捕门弟子,Crime Investigation Bureau Disciple,ศิษย์สำนักสืบสวน
+CharaName_考核教官,Assessment instructor,ครูฝึกผู้ประเมิน
+CharaName_跟班甲,Attendant A,ลูกน้อง - อี้
+CharaName_摸金门弟子,Tomb Raider Sect Disciple,ศิษย์สำนักปล้นสุสาน
+CharaName_青风寨弟兄,Blue Wind Camp Brothers,พี่น้องค่ายวายุคราม
+CharaName_叶家军士兵,Ye Family Battalion Soldier,ทหารกองพันตระกูลเย่
+CharaName_冷皮帮帮众,Cold Skin Gang Disciple,ศิษย์พรรคมังสาเหมันต์
+CharaName_壮汉甲,Strong Man A,ชายแข็งแรง - อี้
+CharaName_壮汉乙,Strong Man B,ชายแข็งแรง - เอ้อร์
+CharaName_壮汉丙,Strong Man C,ชายแข็งแรง - ซาน
+CharaName_圣火宗弟子,Divine Flame Sect Disciple,ศิษย์นิกายไฟศักดิ์สิทธิ์
+CharaName_考核将军,Assessment General,นายพลทดสอบ
+CharaName_醋小虾,Chu Xiaoxia,ฉู่ เซี่ยวเซีย
+CharaName_冷峻的声音,A cold and stern voice,น้ำเสียงเย็นชา
+CharaName_真正的陈家带话小哥,The real messenger boy from the Chen family,เด็กส่งสารจากตระกูลเฉินตัวจริง
+CharaName_狂放不羁的书生,Arrogant and unruly scholar,นักศึกษาท่างทางเกเรและเย่อหยิ่ง
+CharaName_重伤的僧人,Severely injured monk,หลวงจีนบาดเจ็บ
+CharaName_获救的僧人,The rescued monk,หลวงจีนที่ได้รับการช่วยเหลือ
+CharaName_医僧,Medical Monk,หลวงจีนแพทย์
+CharaName_戏腔女声,Dramatic female voice,เสียงผู้หญิงโศกเศร้า
+CharaName_戏腔男声,Dramatic male voice,เสียงเพศชายโศกเศร้า
+CharaName_剑阁弟子,Sword Pavilion Disciple,ศิษย์ศาลากระบี่หลางหยา
+CharaName_上官,Shangguan,ซางกวน
+CharaName_欧阳,Ouyang,โอวหยาง
+CharaName_夏侯,Xiahou,เซี่ย ซาง
+CharaName_诸葛,Zhuge,จูเก๋อ
+CharaName_东方,Dongfang,ตงฟาง
+CharaName_李,Li,หลี่
+CharaName_王,Wang,หวัง
+CharaName_冯,Feng,เฟิง
+CharaName_褚,Chu,ฉู่
+CharaName_蒋,Jiang,เจียง
+CharaName_沈,Shen,เสิ่น
+CharaName_韩,Han,หาน
+CharaName_杨,Yang,หยาง
+CharaName_秦,Qin,ฉิน
+CharaName_尤,You,โหยว
+CharaName_许,Xu,ซู
+CharaName_何,He,เหอ
+CharaName_吕,Lv,ลิ
+CharaName_施,Shi,ชือ
+CharaName_孔,Kong,ขง
+CharaName_曹,Cao,เฉา
+CharaName_严,Yan,เหยียน
+CharaName_华,Hua,ฮวา
+CharaName_金,Jin,จิน
+CharaName_魏,Wei,เว่ย
+CharaName_姜,Jiang,เจียง
+CharaName_喻,Yu,หยู
+CharaName_水,Shui,ฉุ่ย
+CharaName_窦,Dou,โต้ว
+CharaName_云,Yun,หยุน
+CharaName_苏,Su,ซู
+CharaName_潘,Pan,พัน
+CharaName_葛,Ge,เก่อ
+CharaName_奚,Xi,ชี
+CharaName_范,Fan,ฟ่าน
+CharaName_彭,Peng,เผิง
+CharaName_郎,Lang,หลาง
+CharaName_韦,Wei,เว่ย
+CharaName_昌,Chang,ฉาง
+CharaName_马,Ma,หม่า
+CharaName_苗,Miao,เมี้ยว
+CharaName_凤,Feng,เฟิง
+CharaName_花,Hua,ฮวา
+CharaName_方,Fang,ฟาง
+CharaName_任,Ren,เหริน
+CharaName_袁,Yuan,หยวน
+CharaName_柳,Liu,หลิว
+CharaName_鲍,Bao,เป้า 
+CharaName_史,Shi,สือ
+CharaName_岳,Yue,เยว่
+CharaName_过,Guo,กั้ว
+CharaName_清扬,Qingyang,ชิงหยาง
+CharaName_寻欢,Xunhuan,ฉินหวัน
+CharaName_春秋,Chunqiu,ชุนชิว
+CharaName_杀神,Shashen,ชาเฉิน
+CharaName_惊云,Jingyun,จิงหยุน
+CharaName_无极,Wuji,หวู่จี
+CharaName_一海,Yihai,อี้ไห่
+CharaName_行烈,Liexing,ฉิงเลี่ย
+CharaName_绝天,Juetian,จื๊อเทียน
+CharaName_南天,Nantian,หนานเทียน
+CharaName_北海,Beihai,เป่ยไห่
+CharaName_通神,Tongshen,ถงเฉิน
+CharaName_杨俊,Yangjun,หยางจุน
+CharaName_枫,Feng,เฟิง
+CharaName_听雪,Tingxue,ทิงฉื่อ
+CharaName_清远,Qingyuan,ชิงหยวน
+CharaName_黎明,Liming,ลิหมิง
+CharaName_清烈,Qinglie,ฉิงเลี่ย
+CharaName_之轩,Zhixuan,จือเฉียน
+CharaName_翻云,Fanyun,ฟานอิ๋น
+CharaName_泰来,Tailai,ไท่หลาย
+CharaName_重阳,Chongyang,ฉงหยาง
+CharaName_康,Kang,คัง
+CharaName_千叶,Qianye,เฉียนเย่
+CharaName_善均,Shanjun,ชานจุน
+CharaName_杀,Sha,ชา
+CharaName_金虹,Jinhong,จิงฮง
+CharaName_无望,Wuwang,วู่หวัง
+CharaName_璧,Bi,ปี้
+CharaName_城,Cheng,เฉิง
+CharaName_神逸,Shenyi,เฉินยี่
+CharaName_逊,Xun,ฉิ่น
+CharaName_若海,Ruohai,ลั่วไฮ่
+CharaName_志平,Zhiping,จื้อผิง
+CharaName_无缺,Wuque,หวูเชว่
+CharaName_铮,Zheng,เจิ้ง
+CharaName_宝驹,Baoju,เป่าจือ
+CharaName_摩智,Mozhi,โม๋จื้อ
+CharaName_冲,Chong,ฉง
+CharaName_无忌,Wuji,หวูจี้
+CharaName_铁心,Tiexin,เถี่ยซิน
+CharaName_开,Kai,ไค
+CharaName_毅山,Yishan,ยี่เฉียน
+CharaName_啸天,Xiaotian,เสี่ยวเทียน
+CharaName_我行,Woxing,หว่อฉิง
+CharaName_伯通,Botong,ปั๋วถง
+CharaName_孤城,Gucheng,กู้เฉิง
+CharaName_摘星,Zhaixing,ไช่ชิง
+CharaName_春华,Chunhua,ชุนหัว
+CharaName_开泰,Kaitai,ไคไท่
+CharaName_靖,Jing,จิง
+CharaName_锋,Feng,เฟิง
+CharaName_誉,Yu,หยู
+CharaName_秋,Qiu,ฉิว
+CharaName_尹,Yi,ยี่
+CharaName_梦,Meng,เมิ่ง
+CharaName_八月,Bayue,ป้าหยู
+CharaName_嫣嫣,YanYan,เหยียนเหยียน
+CharaName_婉清,Wanqing,ว๋านชิง
+CharaName_月,Yue,เยว่
+CharaName_绮思,Qisi,ฉีสือ
+CharaName_莲花,Lianhua,เหลียนฮวา
+CharaName_恋碟,Liandie,เลี่ยนเตี๋ย
+CharaName_韵,Yun,อวิ๋น
+CharaName_浅浅,Qianqian,เฉียนเฉียน
+CharaName_思晴,Siqing,ซื่อฉิง
+CharaName_媚娘,Meiniang,เหมยเนียง
+CharaName_芙蓉,Furong,ฝูหรง
+CharaName_夏沫,Xiamo,เซี่ยม้อ
+CharaName_缇娜,Tina,ทีน่า
+CharaName_幽妍,Youyan,โย่วเหยียน
+CharaName_屏蔚,PingWei,ผิงเว่ย
+CharaName_蓝樱,Lanying,หลานยิง
+CharaName_朵姬,Duoji,ตั่วจี้
+CharaName_夜旋,Yexuan,เย่เฉวียน
+CharaName_璎珞,Yingluo,หยิงลั่ว
+CharaName_颜离,Yanli,หยานลี่
+CharaName_如烟,Ruyan,รูเหยียน
+CharaName_清沙,Qingsha,ฉิงชา
+CharaName_婉儿,Waner,หว่านเอ๋อ
+CharaName_慕樱,Muying,มู่หยิง
+CharaName_莫奈,Monai,โม่หนาย
+CharaName_依娜,Yina,อี้หนา
+CharaName_丹,Dan,ต้าน
+CharaName_刘,Liu,หลิว
+CharaName_释心,Shixin,ฉื่อซิน
+CharaName_释名,Shiming,ชื่อหมิง
+CharaName_释我,Shiwo,ชื่อว่อ
+CharaName_释空,Shikong,ชื่อกง
+CharaName_释能,Shineng,ชื่อเหนิง
+CharaName_释净,Shijing,ชื่อจิง
+CharaName_释德,Shide,ชื่อเต๋อ
+CharaName_释惠,Shihui,ชื่อเฮว่
+CharaName_清,Qing,ชิง
+CharaName_杨子,Yangzi,หยางสื่อ
+CharaName_崖子,Yazi,หยาสื่อ
+CharaName_书远,Shuyuan,ชือหยวน
+CharaName_腾,Teng,เท้ง
+CharaName_狞,Ning,หนิง
+CharaName_大力,Dali,ต้าหลี่
+CharaName_石,Shi,ฉือ
+CharaName_大,Da,ต้า
+CharaName_二,Er,เอ้อร์
+CharaName_三,San,ซาน
+CharaName_无惧,Wuju,หวู่จู
+CharaName_无畏,Wuwei,หวู่เว่ย
+CharaName_无敌,Wudi,หวู่ตี้
+CharaName_琴,Qin,ฉิน
+CharaName_行健,Xingjian,ฉิงเจี้ยน
+CharaName_大牛,Daniu,ต้าเหนียว
+CharaName_老二,Laoer,เหลาเอ้อร์
+CharaName_无八,Wuba,หวูปา
+CharaName_子,Zi,จื่อ
+CharaName_屑,Xue,เสี่ย
+CharaName_狗,Gou,โก้ว
+CharaName_朋,Peng,เผิง
+CharaName_儒圣馆弟子,Confucius Temple Disciple,ศิษย์วัดขงจื๊อ
+CharaName_黑子,Black Piece,หมากดำ
+CharaName_白子,White Piece,หมากขาว
+CharaName_年轻女子,Young Woman,หญิงสาว
+CharaName_神秘人,Mysterious Man,บุรุษลึกลับ
+CharaName_山贼-甲,Mountain Bandit-A,โจรภูเขา - อี้
+CharaName_山贼-乙,Mountain Bandit-B,โจรภูเขา - เอ้อร์
+CharaName_狼,Wolf,หมาป่า
+CharaName_野猪,Wild Boar,หมูป่า
+CharaName_祭酒,Libationer,เจ้าพิธี
+CharaName_妙音坊弟子,Melody House Disciple,ศิษย์ตำหนักบทเพลง
+CharaName_家丁,Servant,คนรับใช้
+CharaName_蝮蛇,Viper,งูพิษ
+CharaName_毒蝎,Poisonous Scorpion,แมงป่องพิษ
+CharaName_猛虎,Fierce Tiger,เสือดุร้าย
+CharaName_燕子窝弟子,Swallow Nest disciple,ศิษย์รังนกนางแอ่น
+CharaName_镖师,Escort master,ผู้คุ้มภัย
+CharaName_机关人,Machinery Man,ช่างกล
+CharaName_西域商人,Western merchant,พ่อค้าแดนตะวันตก
+CharaName_个性跳脱的画师,Eccentric painter,จิตกรประหลาด
+CharaName_清冷无言的女子,Cold and silent woman,สตรีผู้เงียบงันและเย็นชา
+CharaName_不苟言笑的道士,A serious Taoist,นักพรตเต๋าท่าทีเคร่งเครียด
+CharaName_guid-1主角,Vinegar Shrimp,กุ้งผัดเปรี้ยวหวาน
+CharaName_女子,Woman,หญิงสาว
+CharaName_商人,Merchant,พ่อค้า
+CharaName_阴狠的流浪刀客,Sinister Wandering Swordsman,มือกระบี่พเนจร
+CharaName_滑稽的怪异老者,Funny Weird Old Man,ชายชราน่าขันพิลึก
+CharaName_嚣张的江湖剑客,Arrogant Wandering Swordsman,มือกระบี่พเนจรหยิ่งทระนง
+CharaName_满头大汗的铁匠,Sweating Blacksmith,ช่างตีเหล็กเหงื่อท่วม
+CharaName_普普通通的老人,Ordinary Old Man,ชายชราธรรมดา
+CharaName_鬼手神匠,Ghost Hand Divine Craftsman,ช่างฝีมือหัตถ์พระเจ้า
+CharaName_冷酷的流浪刀客,Cold Wandering Swordsman,มือกระบี่พเนจรสุดเท่
+CharaName_无名,Nameless,ไร้นาม
+CharaName_通天塔主人,Sky Breaker Tower Master,ปรมาจารย์แห่งหอสูงเทียมฟ้า
+CharaName_雄赳赳,Heroic,วีรชน
+CharaName_咯咯哒,Giggling,เอ้ก อี้ เอ้ก
+CharaName_冷峻的江湖刀客,The stern martial artist with a knife,มือดาบหน้านิ่ง
+CharaName_帅气的江湖剑客,The handsome martial artist with a sword,ชาวยุทธสุดหล่อ
+CharaName_喽啰甲,Thug A,อันธพาล - อี้
+CharaName_喽啰乙,Thug B,อันธพาล - เอ้อร์
+CharaName_门派余孽甲,Sect Remnant A,ศิษย์ที่เหลือรอด - อี้
+CharaName_门派余孽乙,Sect Remnant B,ศิษย์ที่เหลือรอด - เอ้อร์
+CharaName_扶摇子,
+CharaName_醋,
+CharaName_小虾,
