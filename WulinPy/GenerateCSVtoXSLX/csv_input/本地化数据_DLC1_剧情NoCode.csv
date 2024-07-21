@@ -36,28 +36,28 @@ guid-2_name,Heal,ฟื้นฟู
 guid-2_log,Click <color=#00FF00>Heal</color> and choose the main character to heal.,คลิก <color=#00FF00>รักษา</color> และเลือกตัวละครหลักที่จะรักษา
 guid-2_1_1,"Junior sister, this outcome is a bit different from what I expected...",ซือเม่ย... ผลลัพธ์มันช่าง... แตกต่างจากที่ข้าคาดการณ์ไว้ยิ่งนัก!
 guid-2_1_2,"Isn't it because you, Sect Leader Brother, overestimated yourself and rushed into their camp, shouting ""I want to fight ten of you!"" and then got beaten up, haha."
-guid-2_1_3,Our sect is even weaker than the Blue Wind Camp... Who could have guessed that!
+guid-2_1_3,Our sect is even weaker than the Blue Wind Camp... Who could have guessed that!,สำนักเรายังอ่อนแอกว่าค่ายวายุครามอีกงั้นรึ... ใครจะไปคาดคิดกัน!
 guid-2_1_4,"This grudge must be avenged! Blue Wind Camp, wait until I master my skills, I'll make you pay!",แค้นนี้ต้องชำระ! ค่ายวายุคราม รอข้าฝึกวิทยายุทธ์จนบรรลุก่อนเถอะ ข้าจะกลับมาล้างแค้นให้สาสม!
 guid-2_1_5,"Sect Leader Brother, don't rush to make threats. Your handsome face now looks like a pig's head. If you don't heal, it will be swollen for life."
-guid-2_1_6,"That won't do, my face is the face of our sect, it's very important.\nJunior sister, help me think of a solution!"
-guid-2_2_1,"Phew... Finally, I'm handsome again.\nBut why do I feel that my HP and MP haven't recovered to their best state?"
-guid-2_2_2,"As the saying goes, ""Muscle injuries take a hundred days to heal"". Even your cute junior sister can't make you, who is near death, vigorous and lively immediately."
-guid-2_2_3,"Junior sister, you must insist on healing me every day. I really don't like this feeling of being half-dead."
+guid-2_1_6,"That won't do, my face is the face of our sect, it's very important.\nJunior sister, help me think of a solution!","เช่นนั้นมิได้ดอก! ใบหน้านี้ช่างสำคัญยิ่ง เป็นถึงหน้าตาของสำนักเราเชียวนะ!\nศิษย์น้องหญิง เจ้าช่วยพี่คิดหน่อยเถิด!"
+guid-2_2_1,"Phew... Finally, I'm handsome again.\nBut why do I feel that my HP and MP haven't recovered to their best state?","ฮู่ววว... ในที่สุดก็หล่อเหลาเหมือนเดิมเสียที \nแต่อืม... เหตุใดข้าจึงรู้สึกว่า พลังลมปราณกับพลังภายในยังไม่ฟื้นฟูถึงขีดสุดนะ"
+guid-2_2_2,"As the saying goes, ""Muscle injuries take a hundred days to heal"". Even your cute junior sister can't make you, who is near death, vigorous and lively immediately.",ดั่งคำโบราณว่าไว้ 'บาดแผลกล้ามเนื้อต้องใช้เวลาร้อยวันจึงจะหาย' แม้แต่ศิษย์น้องหญิงร่วมสำนักผู้น่ารักของเจ้าก็ไม่อาจทำให้เจ้าที่ใกล้ม้วยมรณาฟื้นคืนชีพและกระปรี้กระเปร่าได้ในชั่วพริบตา
+guid-2_2_3,"Junior sister, you must insist on healing me every day. I really don't like this feeling of being half-dead.",ศิษย์น้องหญิง เจ้าต้องยืนกรานรักษาอาการข้าทุกวัน ข้าไม่ชอบความรู้สึกเหมือนอยู่ในภวังค์ระหว่างความเป็นความตายเช่นนี้เลย
 guid-3_name,Recruitment,รับสมัคร
-guid-3_log,Increase the number of disciples in the sect to <color=#00FF00>4</color> through <color=#00FF00>Recruitment</color>.
-guid-3_1_1,"Junior sister, I'm quite puzzled. Were you just standing by and watching when I was being beaten up by the Mountain Bandits of Blue Wind Camp?"
-guid-3_1_2,"What else could I do? Should I, a girl, get beaten up with you? In the end, there would be no one to help us heal."
+guid-3_log,Increase the number of disciples in the sect to <color=#00FF00>4</color> through <color=#00FF00>Recruitment</color>.,เพิ่มจำนวนศิษย์ในสำนักให้ถึง <color=#00FF00> 4 คน </color> ผ่านการ <color=#00FF00> รับสมัครผู้ฝึกวิชา </color>.
+guid-3_1_1,"Junior sister, I'm quite puzzled. Were you just standing by and watching when I was being beaten up by the Mountain Bandits of Blue Wind Camp?",ศิษย์น้องหญิง ข้ารู้สึกสงสัยยิ่งนัก เจ้าเพียงแต่ยืนดูอยู่เฉยๆ ตอนที่ข้าถูกพวกโจรภูเขาจากค่ายวายุคราม รุมซ้อมอย่างนั้นหรือ?
+guid-3_1_2,"What else could I do? Should I, a girl, get beaten up with you? In the end, there would be no one to help us heal.",ข้าจะทำเช่นไรได้อีกเล่า? เจ้าอยากให้สตรีน้อยเช่นข้าต้องร่วมชกต่อยกับเจ้าด้วยหรือ? ท้ายที่สุด จะไม่มีเหลือผู้ใดให้ช่วยรักษาบาดแผลของพวกเจ้า
 guid-3_1_3,Are there only two of us in our sect?
-guid-3_1_4,"Yes, I was about to remind the sect leader to recruit more people. Otherwise, now that you've become the sect leader, there's no one to do chores like fetching water and chopping wood."
+guid-3_1_4,"Yes, I was about to remind the sect leader to recruit more people. Otherwise, now that you've become the sect leader, there's no one to do chores like fetching water and chopping wood.",ใช่ ข้ากำลังจะเตือนเจ้าสำนักเรื่องการรับศิษย์เพิ่มเติมพอดี มิเช่นนั้น บัดนี้ที่ท่านได้ขึ้นเป็นเจ้าสำนักแล้ว จะไม่มีผู้ใดคอยทำงานเล็กๆ น้อยๆ เช่นตักน้ำหรือผ่าฟืน
 guid-3_1_5,"If possible, I would like to leave the sect and wander the world right now.\nOur sect is so desolate, how can we recruit people?"
-guid-3_1_6,"With the personal charm of your smart and cute junior sister~\nI'll help you recruit personally, and we'll definitely get talented young talents~"
+guid-3_1_6,"With the personal charm of your smart and cute junior sister~\nI'll help you recruit personally, and we'll definitely get talented young talents~","ด้วยเสน่ห์อันล้ำเลิศของศิษย์น้องหญิงผู้เฉลียวฉลาดและน่ารักของท่าน~\nข้าจะช่วยท่านคัดสรรศิษย์ด้วยตนเอง รับรองว่าจะได้ยอดฝีมือรุ่นเยาว์มาอย่างแน่นอน~"
 guid-4_name,Promote Disciple,เลื่อนขั้นลูกศิษย์
-guid-4_log,"Promote any disciple through the <color=#00FF00>Management</color> function, or directly enter the next round."
-guid-4_1_1,"Junior sister, why do I find that the money in the sect has suddenly decreased?"
-guid-4_1_2,"We just recruited two disciples, did you forget, sect leader?\nTalented people not only have high <color=#00FF00>recruitment costs</color>, but also need to pay a considerable salary every month."
-guid-4_1_3,"I thought with your charm, junior sister, you could gather a crowd with a single call. I didn't expect that we still need to spend money in the end."
-guid-4_1_4,"If you want to recruit people, don't be afraid to spend money. If the treatment is not good, why would people follow you? Is it because of your self-righteous handsome face?"
-guid-4_1_5,"I hope the spending can come to an end, otherwise if this continues, I, the new sect leader, can only declare bankruptcy and close the sect."
+guid-4_log,"Promote any disciple through the <color=#00FF00>Management</color> function, or directly enter the next round.",เลื่อนขั้นศิษย์คนใดก็ได้ผ่านระบบ <color=#00FF00> บริหารสำนัก </color> หรือเข้าสู่รอบถัดไปโดยตรง
+guid-4_1_1,"Junior sister, why do I find that the money in the sect has suddenly decreased?",ศิษย์น้องหญิง เหตุใดข้าจึงพบว่าเงินทองในคลังสำนักลดลงอย่างฉับพลันเช่นนี้?
+guid-4_1_2,"We just recruited two disciples, did you forget, sect leader?\nTalented people not only have high <color=#00FF00>recruitment costs</color>, but also need to pay a considerable salary every month.","พวกเราเพิ่งรับศิษย์ใหม่สองคนเข้าสำนัก ท่านเจ้าสำนักลืมไปแล้วหรือ?\nยอดฝีมือนั้นมิใช่เพียงมี <color=#00FF00>ค่าใช้จ่ายในการรับเข้าสำนัก </color> ที่สูงลิ่วเท่านั้น แต่ยังต้องจ่ายค่าตอบแทนรายเดือนอีกจำนวนมากอีกด้วย"
+guid-4_1_3,"I thought with your charm, junior sister, you could gather a crowd with a single call. I didn't expect that we still need to spend money in the end.",ข้านึกว่าด้วยเสน่ห์ของศิษย์น้องหญิง เพียงเอ่ยปากเรียกก็จะมีผู้คนหลั่งไหลมาสมัครเป็นศิษย์เสียอีก ไม่คาดคิดว่าท้ายที่สุดแล้วพวกเราก็ยังต้องสิ้นเปลืองเงินทองอยู่ดี
+guid-4_1_4,"If you want to recruit people, don't be afraid to spend money. If the treatment is not good, why would people follow you? Is it because of your self-righteous handsome face?",หากต้องการรับคนเข้าสำนัก อย่าได้กลัวการใช้จ่าย หากไม่ให้ผลตอบแทนที่ดี ผู้ใดเล่าจะยอมติดตามพวกเจ้า? หรือว่าพวกเจ้าคิดว่าโฉมหน้าอันงดงามที่เจ้าหลงตัวเองนักหนานั้นจะดึงดูดผู้คนได้?
+guid-4_1_5,"I hope the spending can come to an end, otherwise if this continues, I, the new sect leader, can only declare bankruptcy and close the sect.",ข้าหวังว่าการใช้จ่ายนี้จะสิ้นสุดลงเสียที มิเช่นนั้นหากยังคงเป็นเช่นนี้ต่อไป ข้าผู้เป็นเจ้าสำนักคนใหม่คงต้องประกาศล้มละลายและปิดสำนักเสียแล้ว
 guid-4_1_6,"Oh, this is far from enough. For such talented disciples, I suggest <color=#00FF00>promoting</color> them to more promising inner disciples. Although the monthly expenditure is slightly higher, it can maximize the growth limit, which is very cost-effective in the long run!"
 guid-4_1_7,Spending money again... My heart aches...
 guid-4_1_8,"If the sect leader doesn't know which disciple to promote for a while, why not <color=#00FF00>promote</color> your cutest junior sister first? I'm your most staunch supporter~"

@@ -1299,54 +1299,54 @@ R10054-4_0_2,"Brother Shen, your words are quite roundabout, what do you mean?"
 R10054-4_0_3,"It's not a big deal, I just want to chat with {PlayerSurName} brother, but it happens to be Zi Shi now, and I have to host the auction, so I can't get away."
 R10054-4_0_4,Please come and talk to me when {PlayerSurName} brother is free during non-Zi Shi.
 R10054-4_0_5,"Understood, I will come to you when Brother Shen is not busy."
-R10054-4_1_1,"{PlayerSurName} brother, do you have any free time to drink and chat with me recently?"
-R10054-4_1_2,"Brother Shen, do you have something important to say?"
-R10054-4_1_3,Of course there is something important. I got a bottle of fine wine that has been treasured by others for many years. Isn't it a big deal to share it with friends?
-R10054-4_1_4,Do you want to drink and chat with Shen Wuqi?
-R10054-4_option1_1,"Brother Shen, how could I refuse your kind invitation?"
-R10054-4_option1_2,"Sorry brother, I'm busy at the moment."
-R10054-4_2_1,"No problem, it would be bad to delay your important matters."
-R10054-4_2_2,"Wait until brother is free, then come to find Shen."
-R10054-4_3_1,"Brother, this is the VIP seat, only Shen's friends can come in."
-R10054-4_3_2,"VIP seat? There's not even a table or chair... You're not fooling me, are you?"
-R10054-4_3_3,"Don't mind these details. The ancients all sat on the ground, whether there are tables and chairs or not does not affect the joy of drinking. Brother, come and try this fine wine that I have treasured for many years!"
-R10054-4_3_1_1,"Brother, I can't drink, how about substituting tea for wine?"
-R10054-4_3_1_2,"Haha, I forgot that brother is a monk. I have both good wine and good tea, you can drink whatever you want!"
-R10054-4_3_1_3,This is really good tea! I feel like I won't be sleepy at all tonight!
-R10054-4_3_1_4,"Now I finally understand why the people at the Night Auction Market have the confidence to hold auctions at midnight, hahaha.",ในที่สุดข้าก็รู้แล้วว่าทำไมคนของตลาดประมูลราตรีถึงกล้าจัดงานประมูลยามดึกดื่น ฮ่าฮ่าฮ่า
-R10054-4_3_1_5,"Brother, you're too kind. This tea was bought at a high price from the Southwest region, and is only used to entertain friends. If it's for daily drinking, it would be too extravagant."
-R10054-4_3_2_1,This wine... is indeed a fine wine!
-R10054-4_3_2_2,"If it can please brother, it's the best!"
-R10054-4_4_1_1,Do you remember the scene when you and I first met?
-R10054-4_4_1_2,"We haven't known each other for long. I heard that there was a Night Auction Market here that held auctions at midnight, so I wanted to come and see."
-R10054-4_4_1_3,"I didn't expect that the treasures that appeared at the Night Auction Market auction were beyond my expectations, all kinds of heavenly treasures, all of which I had never heard of."
-R10054-4_4_1_4,What's more unexpected is that the owner of the Night Auction Market is so young and energetic. I thought the person who held the auction in the middle of the night would be a masked weirdo.
-R10054-4_4_1_5,"I see. To be honest, I've almost forgotten how I got to know you."
-R10054-4_4_1_6,Hmm? What's the reason for this?
-R10054-4_4_1_7,"Have you ever heard of ""Soul Departure Syndrome""?"
+R10054-4_1_1,"{PlayerSurName} brother, do you have any free time to drink and chat with me recently?",น้อง{PlayerSurName} เจ้ามีเวลาว่างๆมาดื่มชาและสนทนากับข้าเร็วๆนี้บ้างไหม?
+R10054-4_1_2,"Brother Shen, do you have something important to say?",พี่เสิ่นมีอะไรสำคัญจะพูดหรือเปล่า?
+R10054-4_1_3,Of course there is something important. I got a bottle of fine wine that has been treasured by others for many years. Isn't it a big deal to share it with friends?,แน่นอนเรื่องสำคัญมาก ข้าไปได้สุราดีที่เป็นสมบัติของผู้อื่นมาได้หลายปีแล้ว ข้าก็ต้องแบ่งปันกับสหายรู้ใจสิ
+R10054-4_1_4,Do you want to drink and chat with Shen Wuqi?,เจ้าอยากจะดื่มและสนทนากับเสิ่นอู๋ฉีไหม?
+R10054-4_option1_1,"Brother Shen, how could I refuse your kind invitation?",พี่เสิ่น ข้าจะไปปฎิเสธน้ำใจท่านได้ยังไงกัน?
+R10054-4_option1_2,"Sorry brother, I'm busy at the moment.",ขอโทษนะพี่ ข้ายุ่งอยู่ตอนนี้
+R10054-4_2_1,"No problem, it would be bad to delay your important matters.",ไม่ต้องห่วง ถ้ามันทำให้เจ้าเสียการณ์ใหญ่คงไม่ดีเอา
+R10054-4_2_2,"Wait until brother is free, then come to find Shen.",หากน้องชายว่างก็ค่อยมาหา พี่เสิ่นแล้วกัน
+R10054-4_3_1,"Brother, this is the VIP seat, only Shen's friends can come in.",น้องชาย นี่เป็นที่นั่งระดับแขกผู้มีเกียรติเลยนะ เฉพาะเพื่อนของพี่เสิ่นเท่านั้นถึงเข้ามาได้บอกเลย
+R10054-4_3_2,"VIP seat? There's not even a table or chair... You're not fooling me, are you?","ที่นั่งระดับแขกผู้มีเกียรติ? มีแต่โต๊ะกับเก้าอี้... ข้าว่านี่มันที่ระดับ ""เขียดผู้มีแกก"" แล้วกระมังท่านพี่?"
+R10054-4_3_3,"Don't mind these details. The ancients all sat on the ground, whether there are tables and chairs or not does not affect the joy of drinking. Brother, come and try this fine wine that I have treasured for many years!",เฮ้ยไม่ต้องเรื่องมากสิเอ้อ สมัยก่อนเขาก็นั่งกนบนพื้นด้วยซ้ำไป จะมีหรือไม่มีโต๊ะหรือเก้าอี้ก็ไม่ได้ทำให้การร่ำสุราเมรัยมันแย่ลงเสียหน่อย มาดื่มสุราดีที่ข้าเก็บไว้นานดีกว่าเถอะ!
+R10054-4_3_1_1,"Brother, I can't drink, how about substituting tea for wine?",พี่ชาย ข้าดื่มสุรามิได้ ขอเป็นน้ำชาแทนได้หรือไม่?
+R10054-4_3_1_2,"Haha, I forgot that brother is a monk. I have both good wine and good tea, you can drink whatever you want!",ฮ่าฮ่าฮ่า ข้าลืมไปเลยไอ้น้องชายเป็นพระนี่หว่า ข้ามีทั้งสุราดี ชาดี เจ้าจะดื่มอะไรก็ดื่มเลยแล้วกัน
+R10054-4_3_1_3,This is really good tea! I feel like I won't be sleepy at all tonight!,นี่มันชาดียิ่งนัก! ข้าว่าข้าได้ดีดทั้งคืนเป็นแน่!
+R10054-4_3_1_4,"Now I finally understand why the people at the Night Auction Market have the confidence to hold auctions at midnight, hahaha.",ข้าก็ว่าทำไมผู้คนที่งานประมูลราตรีมันถึงมีเรี่ยวแรงมานั่งจัดประมูลยามวิกาลได้ทุกวี่ทุกวัน ที่แท้ก็เป็นเช่นนี้ ฮ่าๆๆๆๆๆ
+R10054-4_3_1_5,"Brother, you're too kind. This tea was bought at a high price from the Southwest region, and is only used to entertain friends. If it's for daily drinking, it would be too extravagant.",น้องชาย เจ้าก็พูดไป ชานี่ข้าซื้อมาแพงมากจากแดนตะวันตกเฉียงใต้ ใช้เพียงแค่ให้สหายรู้ใจดื่มเท่านั้น หากมาดื่มทุกวันข้าถังแตกก่อนพอดี
+R10054-4_3_2_1,This wine... is indeed a fine wine!,สุรานี่... สุราดีแท้แน่นอน!
+R10054-4_3_2_2,"If it can please brother, it's the best!",ถ้าน้องชายชอบ ก็จัดปายยย อีกแก้ว!
+R10054-4_4_1_1,Do you remember the scene when you and I first met?,ว่าแต่เจ้าจำตอนที่เจ้าและข้าเจอกันครั้งแรกได้หรือไม่?
+R10054-4_4_1_2,"We haven't known each other for long. I heard that there was a Night Auction Market here that held auctions at midnight, so I wanted to come and see.",เราก็ไม่ได้รู้จักกันดีนักตอนนั้น ข้าได้ยินมาว่ามีการจัดประมูลราตรีขึ้นที่นี่ ข้าก็เลยมาเที่ยวเล่นเท่านั้น
+R10054-4_4_1_3,"I didn't expect that the treasures that appeared at the Night Auction Market auction were beyond my expectations, all kinds of heavenly treasures, all of which I had never heard of.",ไม่คิดว่าเหล่าสมบัติในงานประมูลนั้นเกิดคาดข้าไปมาก สมบัติทุกชิ้นล้วนล้ำค่าดั่งกับหล่นมาจากสวรรค์ ข้าไม่เคยได้ยินของพวกนี้มาก่อนทั้งนั้นเลย
+R10054-4_4_1_4,What's more unexpected is that the owner of the Night Auction Market is so young and energetic. I thought the person who held the auction in the middle of the night would be a masked weirdo.,ยิ่งไปกว่านั้น ข้าก็ไม่คาดคิดว่าเจ้าของตลาดประมูลราตรี จะหนุ่มแน่นและดูดีขนาดนี้ ข้ายังนึกว่าคนที่จัดงานประมูลยามวิกาลเช่นนี้จะเป็น 'คนปิดหน้าปิดตา' เสียอีก
+R10054-4_4_1_5,"I see. To be honest, I've almost forgotten how I got to know you.",อย่างนี้นี่เอง พูดตามตรงข้าก็เกือบลืมไปแล้วว่าข้าเจอเจ้าได้ยังไง
+R10054-4_4_1_6,Hmm? What's the reason for this?,หืมมม? แล้วท่านถามทำไมเนี่ย?
+R10054-4_4_1_7,"Have you ever heard of ""Soul Departure Syndrome""?","เจ้าเคยได้ยินเรื่อง ""อาการวิญญาณหลุดร่าง"" หรือไม่?"
 R10054-4_4_2_1,"Soul Departure Syndrome, I've read about it in a medical book. The symptoms are quite numerous, the most prominent of which is frequent memory loss."
-R10054-4_4_3_1,"Soul Departure Syndrome is a kind of mental illness, with many symptoms, the most common of which is frequent memory loss."
-R10054-4_4_3_2,"It's good that Miss Qu is here, otherwise I've never heard of this strange disease in my travels."
-R10054-4_4_3_3,"You guys continue to chat, I won't disturb you - and, you can't drink too much of this cup at once."
-R10054-4_4_3_4,"Alright, got it."
-R10054-4_4_4_1,"Soul Departure Syndrome, it sounds like a disease that Taoist priests and witch doctors use to deceive people."
-R10054-4_4_4_2,"No, no, Soul Departure Syndrome is a real disease, discovered by many doctors after observation and summary. Its lighter symptoms are frequent memory loss."
-R10054-4_4_4_3,"It turns out that my medical skills are not yet proficient, which has made Brother Shen laugh."
-R10054-4_5_1,"What Brother Shen means is that you suffer from amnesia, often forgetting things, so you forgot how to recognize me?"
-R10054-4_5_2,Indeed.
-R10054-4_5_3,"However, Brother Shen's condition doesn't seem to be very serious? At least I haven't noticed it during the time I've known you."
-R10054-4_5_4,"Thank you for your concern, my illness has passed its most severe stage, I opened the Night Auction Market to seek medicine from various sources, and now I have improved a lot."
-R10054-4_5_5,"At present, it's just occasionally forgetting some people's things, not remembering the way, often getting lost, forgetting words when writing, and forgetting words when speaking."
-R10054-4_5_6,I occasionally have the symptoms you mentioned... It seems that Brother Shen is almost completely recovered.
-R10054-4_5_7,"Haha, thank you for your kind words, Brother."
-R10054-4_6_1,"However, the beauty by your side seems... much more beautiful than the last time I saw her, as if she has become a different person?"
-R10054-4_6_2,"Oh, no, no, haha. I misspoke, my apologies! My apologies! Hahaha..."
-R10054-4_7_1,Hmm?
+R10054-4_4_3_1,"Soul Departure Syndrome is a kind of mental illness, with many symptoms, the most common of which is frequent memory loss.",อาการวิญญาณหลุดร่างเป็นอาการทางจิต มีหลายการพยากรณ์โรคนัก แต่โดยทั่วไปจะมีอาการสูญเสียความทรงจำ
+R10054-4_4_3_2,"It's good that Miss Qu is here, otherwise I've never heard of this strange disease in my travels.",ดีที่แม่นางฉู่อยู่ด้วยจริงๆ ไม่อย่างนั้นข้าคงไม่เคยได้ยินอาการอะไรเช่นนี้เป็นแน่
+R10054-4_4_3_3,"You guys continue to chat, I won't disturb you - and, you can't drink too much of this cup at once.",พวกท่านเชิญสนทนาต่อเถิด ข้าไม่รบกวนแล้ว ---อ้อแล้วก็อย่าดื่มเยอะไปในคราเดียวเล่า
+R10054-4_4_3_4,"Alright, got it.",ก็ได้ เข้าใจแล้ว
+R10054-4_4_4_1,"Soul Departure Syndrome, it sounds like a disease that Taoist priests and witch doctors use to deceive people.",อาการวิญญาณหลุดร่าง ฟังดูแล้วเหมือนพวกโรคภัยที่นักพรตเต๋าหรือพวกหมอผีเอาไว้หลอกคนยังไงไม่รู้
+R10054-4_4_4_2,"No, no, Soul Departure Syndrome is a real disease, discovered by many doctors after observation and summary. Its lighter symptoms are frequent memory loss.",ไม่หรอก ไม่ๆ อาการวิญญาณหลุดร่างนั้นเป็นโรคจริงๆ มีแพทย์มากมายต่างวินิจฉัยและศึกษามัน โดยทั่วไปอาการเริ่มต้นก็จะความจำเสื่อม
+R10054-4_4_4_3,"It turns out that my medical skills are not yet proficient, which has made Brother Shen laugh.",ดูเหมือนวิชาการแพทย์ของข้านั้นอ่อนหัดนัก คงจะทำให้พี่เสิ่นหัวเราะเยาะเอาเสียแล้ว
+R10054-4_5_1,"What Brother Shen means is that you suffer from amnesia, often forgetting things, so you forgot how to recognize me?",พี่เสิ่นจะบอกว่าท่านป่วยจากการความจำเสื่อม ลืมเรื่องราวมากมาย และสักวันก็อาจจะลืมข้าเช่นกันหรือ?
+R10054-4_5_2,Indeed.,ถูกต้องแล้ว
+R10054-4_5_3,"However, Brother Shen's condition doesn't seem to be very serious? At least I haven't noticed it during the time I've known you.",ถึงกระนั้นพี่เสิ่นก็ดูอาการปกติดี ยังไม่น่ามีปัญหาอะไรนะ? ข้ายังไม่รู้สึกเลยว่าท่านหลงๆลืมๆ
+R10054-4_5_4,"Thank you for your concern, my illness has passed its most severe stage, I opened the Night Auction Market to seek medicine from various sources, and now I have improved a lot.",ขอบคุณสำหรับความห่วงใย อาการป่วยของข้าผ่านช่วงที่ร้ายแรงที่สุดมาแล้ว  ข้าพเจ้าเปิดหอประมูลราตรีขึ้นมาก็เพื่อหาวิธีรักษาโรคจากหลายๆทาง เลยทำให้ตอนนี้ดีขึ้นมากแล้ว
+R10054-4_5_5,"At present, it's just occasionally forgetting some people's things, not remembering the way, often getting lost, forgetting words when writing, and forgetting words when speaking.",ตอนนี้เพียงแค่ปัญหาเล็กน้อยๆ เช่นบางครั้งลืมเรื่องราวของบางคน ลืมเส้นทางที่เคยเดินจนหลงทาง ลืมตัวอักษรตอนจะเขียน ลืมคำพูดตอนจะพูดนั่นแหละ
+R10054-4_5_6,I occasionally have the symptoms you mentioned... It seems that Brother Shen is almost completely recovered.,อาการที่พี่ชายพูดข้าก็เคยเป็นบ้างเหมือนกัน... ดูท่าทางแล้วท่านคงใกล้จะหายสนิทแล้ว
+R10054-4_5_7,"Haha, thank you for your kind words, Brother.",ฮ่าฮ่าฮ่า ขอบใจนะไอ้น้องชายที่พูด
+R10054-4_6_1,"However, the beauty by your side seems... much more beautiful than the last time I saw her, as if she has become a different person?","""แต่ว่า สตรีรูปงามที่อยู่เคียงข้างน้องชาย ดูเหมือนจะ…สวยงามกว่าตอนที่พบกันครั้งก่อนมาก  ราวกับว่าเป็นคนละคนเลยหรือไม่?"
+R10054-4_6_2,"Oh, no, no, haha. I misspoke, my apologies! My apologies! Hahaha...",อุ้ย ไม่ช่าย ไม่ช่ายยย ฮ่าฮ่าฮ่า ข้าพูดผิดนิดหน่อย ขออภ้ายยย ขออภัย! ก๊าก ฮ่าฮ่าฮ่าาา....
+R10054-4_7_1,Hmm?,หืม?
 R10054-4_7_2,"Not only is she much more beautiful than the last time I saw her, but her strength has also increased a lot, wouldn't you agree, {PlayerName}?"
 R10054-4_7_3,"It doesn't matter, no matter what happened in the past, the best arrangement is for you to be by my side at this moment."
 R10054-4_7_4,How can you see my face clearly through the mask?
 R10054-4_7_5,"Because my illness has been cured, thanks to {PlayerName}, I am no longer depressed all day, and naturally, my complexion has improved."
-R10054-4_7_6,(She pokes your waist hard with her finger.)
+R10054-4_7_6,(She pokes your waist hard with her finger.),(นางจี้เอวข้าอย่างแรงด้วยนิ้วนาง)
 R10054-4_7_7,Really? The servant girl at home also said that I have become more and more beautiful since I got married to the official!
 R10054-4_7_8,"If you praise me for being able to fight, I will be happier, hehe."
 R10054-4_7_9,"Knowing thousands and thousands of people, none of them are as good as her."
@@ -1376,18 +1376,18 @@ R10054-4_9_3,"I suspect you are using amnesia to mess with me! Be honest with yo
 R10054-4_9_4,"How can you say that, brother? I just told you, I really have the Disconnected Soul Syndrome."
 R10054-4_9_5,"Hiding behind the Disconnected Soul Syndrome won't help! You wait, I will return this to you double one day!"
 R10054-4_9_6,"Haha, let's not talk about this, I'll punish myself with a drink."
-R10054-4_10_0_1,"When I first met you, you were just a nameless rookie in the martial arts world."
-R10054-4_10_0_2,I wonder how you've been doing in the business world after all this time?
-R10054-4_10_0_3,"I thought Brother Shen would ask me how my martial arts skills are, but instead, you're interested in my performance in the business world."
-R10054-4_10_0_4,"Everyone cares about whether {0} you are tired or not, only I, Shen, care about whether you make a lot of money or not. Isn't that very considerate, very touching?"
-R10054-4_10_0_5,"Too considerate, so considerate that I thought you had ulterior motives and wanted to rob me."
-R10054-4_10_1_1,"I won't lie to you, I am now The Richest in the World, rich enough to rival a country, whenever I pass by any shop, I shout to buy all the goods of the day. Any auction item I like, I just double the price with my eyes closed until the other party gives up."
-R10054-4_10_1_2,"I didn't expect you to be a wealthy man now. I'm curious, which was the biggest profit you made on this money-making journey?"
-R10054-4_10_1_3,Which was the most profitable time in my martial arts career?
-R10054-4_option4_1,It's all accumulated from small trades.
-R10054-4_option4_2,Swallowing the dealer in the gambling house.
-R10054-4_option4_3,Auctioning at the auction.
-R10054-4_option4_4,"I'm sorry, I can't disclose that."
+R10054-4_10_0_1,"When I first met you, you were just a nameless rookie in the martial arts world.",ตอนที่ข้าเจอเจ้าครั้งแรก เจ้ายังเป็นหน้าใหม่ในยุทธภพอยู่เลย
+R10054-4_10_0_2,I wonder how you've been doing in the business world after all this time?,ข้ายังคิดอยู่เลยว่าเจ้าจะรอดไหมนะในโลกแห่งธุรกิจเช่นนี้?
+R10054-4_10_0_3,"I thought Brother Shen would ask me how my martial arts skills are, but instead, you're interested in my performance in the business world.",ข้ายังนึกว่าพี่จะถามข้าว่าฝึกฝนวิทยายุทธเป็นอย่างไรบ้าง  แต่กลับกลายเป็นว่าพี่สนใจฝีมือธุรกิจเสียมากกว่าเนี่ยนะ
+R10054-4_10_0_4,"Everyone cares about whether {0} you are tired or not, only I, Shen, care about whether you make a lot of money or not. Isn't that very considerate, very touching?","ทุกคนก็สนใจแค่ว่า{PlayerName}จะเหนื่อยหรือยังสู้ต่อได้ แต่ ข้า,เสิ่นผู้นี้ สนเพียงว่าเจ้าจะมีกินมีใช้หรือไม่แค่นั้น ไม่ใช่ว่านี่มันน่าซาบซึ้งใจมากกว่าเหรอ?"
+R10054-4_10_0_5,"Too considerate, so considerate that I thought you had ulterior motives and wanted to rob me.",ช่างใส่ใจเสียจริง ใส่ใจจนข้าเกือบคิดว่าพี่มีเจตนานร้าย คิดจะปล้นข้าซะแล้ว
+R10054-4_10_1_1,"I won't lie to you, I am now The Richest in the World, rich enough to rival a country, whenever I pass by any shop, I shout to buy all the goods of the day. Any auction item I like, I just double the price with my eyes closed until the other party gives up.","ข้าจะไม่โกหกท่าน ตอนนี้ข้านั้นคือผู้ที่ร่ำรวยที่สุดในโลกแล้ว รวยพอจะซื้อได้ทั้งแคว้น รวยขนาดว่าเดินผ่านร้านไหนข้าก็ต้องตะโกนว่า ""เหมาหมดเลยโว้ย"" ทั้งวัน แถมหากมีการประมูล ข้าก็ไม่ต้องคิดมากก็แค่เพิ่มราคาเป็นสองเท่าไปเรื่อยๆจนกว่าคนอื่นมันจะยอม"
+R10054-4_10_1_2,"I didn't expect you to be a wealthy man now. I'm curious, which was the biggest profit you made on this money-making journey?",โอ้โห ไม่คิดว่าเจ้าจะรวยอะไรขนาดนั้น แล้วเจ้าไปทำอะไรมารวยขนาดนั้นเล่าเนี่ย?
+R10054-4_10_1_3,Which was the most profitable time in my martial arts career?,ข้าทำยังไงถึงรวยมากที่สุดเหรอ?
+R10054-4_option4_1,It's all accumulated from small trades.,ข้าก็ขายของชิ้นเล็กชิ้นน้อยไปเรื่อย
+R10054-4_option4_2,Swallowing the dealer in the gambling house.,ข้าสูบเงินเจ้าบ่อนหมดทั้งบ่อยเลย
+R10054-4_option4_3,Auctioning at the auction.,ข้าเอาสินค้าไปประมูล
+R10054-4_option4_4,"I'm sorry, I can't disclose that.",โทษทีนะ ข้าบอกไม่ได้หรอก
 R10054-4_10_2_1,"My money-making career in the martial arts world is hunting and skinning beasts, woodcutting and mining, fishing and catching bugs, weaving and blacksmithing, appraising antiques, and then selling these things, making money from small trades."
 R10054-4_10_2_2,"I used to think that only those who work hard can make a fortune, and those who work physically have no chance of making a fortune. But {1} your experience has changed my mind. Admire! Admire!"
 R10054-4_10_2_3,"Brother Shen, you're flattering me. What's there to admire?"
@@ -1412,57 +1412,57 @@ R10054-4_10_5_3,"Given your character, brother, you must be really reluctant to 
 R10054-4_10_5_4,"Of course not, haha."
 R10054-4_10_6_1,"Speaking of this makes me uncomfortable, even though my talent in mercantile is already at the master level."
 R10054-4_10_6_2,"But I'm suffering from lack of opportunity, capital, and path, which makes my mercantile talent buried, only used for bargaining with merchants and other trivial matters."
-R10054-4_10_7_1,Now my wealth can only be considered just enough.
-R10054-4_10_7_2,"If I want to buy something I like without hesitation, I still have to think twice."
-R10054-4_10_8_1,"Don't be discouraged, brother. As the owner of the Night Auction Market, I can share with you the skills of making money at the auction."
-R10054-4_10_8_2,Really? I hope you won't hesitate to teach me!
-R10054-4_10_8_3,"The first way is the broad road, which is to find all kinds of natural treasures, rare coins, divine weapons, and then look for knowledgeable people at the right auction."
-R10054-4_10_8_4,How can I find knowledgeable people?
-R10054-4_10_8_5,"This is something you have to understand on your own. Let me give you a simple direction: carpenters love orewood, doctors love rare herbs."
-R10054-4_10_8_6,"If you have these things, you can wait for them to appear and then bring them to the auction stage. If there are multiple people bidding at the same time, haha, the final bid may scare you."
-R10054-4_10_8_7,"If you want to raise the price, you can also bid on your own auction items, but be careful not to be too greedy and lose in your own hands~"
-R10054-4_10_8_8,"So there are these tricks in the auction, thank you for your guidance, brother!"
-R10054-4_11_1,You guys at the Night Auction Market are too much!
-R10054-4_11_2,"Is this your business attitude? If you don't give an explanation, I won't let it go!"
-R10054-4_11_3,"Oh, so this is how the Night Auction Market does business, let's find another place to auction~"
-R10054-4_11_4,"Yes, last time there was always someone bidding against me, it must be someone from the Night Auction Market."
-R10054-4_11_5,The people at the Night Auction Market are totally unprofessional!
-R10054-4_11_6,"My coral is real, one for me and one for the palace, but he insists it's fake!"
-R10054-4_11_7,"Last time I bought an antique at a high price, it turned out to be defective. I suspect the Night Auction Market switched the auction items!"
-R10054-4_11_8,"The books at the Night Auction Market are pirated! When I opened it, it was ""Zhong Yangzi's Water Floods Shifa Temple""!"
-R10054-4_11_9,There are cockroaches in the buns at the Night Auction Market!
-R10054-4_11_10,"Everyone, please calm down! Calm down! Oh, how could there be a riot..."
-R10054-4_11_11,"Put away your weapons! These are our guests, don't be rude!"
-R10054-4_11_12,...Yes!
-R10054-4_11_13,"If someone deliberately causes trouble, we will be playing into their hands if we act..."
-R10054-4_11_14,"Sorry, brother, I have to leave."
-R10054-4_11_15,"Great, the owner is here."
-R10054-4_11_16,"Everyone, I am Shen Wuqi, the owner of the Night Auction Market. My name is honest, and so is my business. Honesty is the foundation of our Night Auction Market."
-R10054-4_11_17,If anyone has any questions...
-R10054-4_11_18,"{yell} It's him, he's harming people with counterfeit products!"
-R10054-4_11_19,{yell} The books at the Night Auction Market are fake! There are cockroaches in the buns!
-R10054-4_11_20,"{yell} The Night Auction Market is fraudulent in auctions, switching auction items!"
-R10054-4_11_21,These accusations are really outrageous...
-R10054-4_11_22,Should I stand up and help Brother Shen?
-R10054-4_option2_1,"Anyway, trust your brother first!"
-R10054-4_option2_2,"If the accusations are true, it's better not to get involved.<color=#0574a8>(End task)</color>"
-R10054-4_12_1,"You sit comfortably in the VIP seat, watching the scene descend into chaos."
-R10054-4_12_2,After the crowd below has dispersed...
+R10054-4_10_7_1,Now my wealth can only be considered just enough.,ตอนนี้ก็ถือได้ว่าพอมีกินมีใช้เหลือๆอยู่บ้าง
+R10054-4_10_7_2,"If I want to buy something I like without hesitation, I still have to think twice.",หากจะซื้ออะไรที่อยากได้ ก็ยังต้องคิดอีกสักรอบอยู่บ้าง
+R10054-4_10_8_1,"Don't be discouraged, brother. As the owner of the Night Auction Market, I can share with you the skills of making money at the auction.",ไม่ต้องห่วงหรอกไอ้น้องชาย ในฐานะเจ้าของตลาดประมูลราตรี ข้าจะขอเผยเคล็ดลับการทำเงินให้เจ้าฟัง
+R10054-4_10_8_2,Really? I hope you won't hesitate to teach me!,จริงนะ? ท่านไม่ลังเลที่จะสอนข้าเลยเหรอ!
+R10054-4_10_8_3,"The first way is the broad road, which is to find all kinds of natural treasures, rare coins, divine weapons, and then look for knowledgeable people at the right auction.",วิธีแรกคือ มุ่งหน้าสู่วิธีที่ทุกคนชอบทำกัน แสวงหาสมบัติล้ำค่า โบราณวัตถุหายาก อาวุธวิเศษ ชุดเกราะวิเศษ จากนั้นนำไปประมูลในตลาดที่เหมาะสม หาผู้รู้คุณค่ามาซื้อมันต่อ
+R10054-4_10_8_4,How can I find knowledgeable people?,แล้วข้าจะไปหาผู้รู้คุณค่าได้จากไหนกัน?
+R10054-4_10_8_5,"This is something you have to understand on your own. Let me give you a simple direction: carpenters love orewood, doctors love rare herbs.",เรื่องนี้เจ้าต้องลองค้นหาคำตอบด้วยตัวเอง ข้าขอเสนอแนวทางง่ายๆ ให้เจ้าลองพิจารณา ช่างไม้ช่างเหล็กชื่นชอบแร่ธาตุและไม้สัก  หมอยาชื่นชอบสมุนไพรหายาก
+R10054-4_10_8_6,"If you have these things, you can wait for them to appear and then bring them to the auction stage. If there are multiple people bidding at the same time, haha, the final bid may scare you.",หากท่านมีสิ่งของเหล่านี้ ก็สามารถรอจนกว่าจะมีผู้ซื้อที่ต้องการ แล้วค่อยนำไปประมูลก็ยังได้ ยิ่งถ้าหากมีหลายคนแย่งกันประมูล ฮ่าๆๆ ราคาที่เสนอในตอนท้ายอาจจะทำให้น้องชายตกใจจนแทบขี้แตกเลยทีเดียว
+R10054-4_10_8_7,"If you want to raise the price, you can also bid on your own auction items, but be careful not to be too greedy and lose in your own hands~",หากเจ้าต้องการที่จะเคาะราคาให้สูงขึ้น ก็สามารถแอบเข้าร่วมประมูลสิ่งของของตัวเองได้  แต่ระวังอย่าโลภมากจนขาดทุนเองนะ~
+R10054-4_10_8_8,"So there are these tricks in the auction, thank you for your guidance, brother!",นี่ก็เป็นเคล็ดลับในการประมูลสินะ ขอบคุณที่ชี้แนะมาก ท่านพี่!
+R10054-4_11_1,You guys at the Night Auction Market are too much!,พวกเจ้าที่ตลาดประมูลราตรีนี่เกินไปแล้วนะ!
+R10054-4_11_2,"Is this your business attitude? If you don't give an explanation, I won't let it go!",นี่รึหัวนักประกอบธุรกิจ? ถ้าข้าไม่ได้คำอธิบายอย่าหวังว่าข้าจะปล่อยเรื่องนี้ไปง่ายๆ!
+R10054-4_11_3,"Oh, so this is how the Night Auction Market does business, let's find another place to auction~",อ๋อเนี่ยเหรอวะ วิธีที่ตลาดประมูลราตรีทำธุรกิจกัน ข้าไปหาที่อื่นประมูลดีกว่า~
+R10054-4_11_4,"Yes, last time there was always someone bidding against me, it must be someone from the Night Auction Market.",ใช่ คราวที่แล้วก็มีคนมาเคาะราคาแข่งกับข้าอยู่นั่นแหละ ไอ้หมอนั่นต้องเป็นคนของตลาดประมูลราตรีเองแน่ๆ
+R10054-4_11_5,The people at the Night Auction Market are totally unprofessional!,คนที่นี่ไม่มีความเป็นมืออาชีพเลย!
+R10054-4_11_6,"My coral is real, one for me and one for the palace, but he insists it's fake!",ปะการังของข้าเป็นของแท้แน่นอน ข้ามีหนึ่งอัน ที่จวนอ๋องมีหนึ่งอัน  แต่พวกนั้นมาบอกว่าของข้าเป็นของปลอม!
+R10054-4_11_7,"Last time I bought an antique at a high price, it turned out to be defective. I suspect the Night Auction Market switched the auction items!",คราวก่อนข้าทุ่มเทประมูลซื้อวัตถุโบราณชิ้นหนึ่งมาอย่างยากลำบาก แต่กลับกลายเป็นของชำรุด ข้าสงสัยว่าตลาดประมูลราตรีแอบเปลี่ยนของแน่ๆ!
+R10054-4_11_8,"The books at the Night Auction Market are pirated! When I opened it, it was ""Zhong Yangzi's Water Floods Shifa Temple""!",หนังสือที่ตลาดประมูลราตรีเป็นหนังสือที่แอบคัดลอกอย่างผิดกฎหมายชัดๆ!
+R10054-4_11_9,There are cockroaches in the buns at the Night Auction Market!,มีแมลงสาบอยู่ในซาลาเปาที่ข้าซื้อมาจากตลาดประมูลราตรี!
+R10054-4_11_10,"Everyone, please calm down! Calm down! Oh, how could there be a riot...",ทุกท่านใจเย็นๆก่อนนะขอรับ! ใจเย็นๆ! โอ้เวรล่ะ นี่มันเหตุจราจลแล้ว
+R10054-4_11_11,"Put away your weapons! These are our guests, don't be rude!",เก็บอาวุธลงเดี๋ยวนี้! นั่นแขกของเรา ห้ามหยาบคาย!
+R10054-4_11_12,...Yes!,...ขอรับ!
+R10054-4_11_13,"If someone deliberately causes trouble, we will be playing into their hands if we act...",หากมีผู้อื่นคิดร้ายวางแผนสร้างปัญหาให้เรา การที่เราลงมือตอบโต้จะเข้าทางพวกนั้นเข้าให้……
+R10054-4_11_14,"Sorry, brother, I have to leave.",ข้าขออภัยน้องชาย ข้าต้องไปแล้ว
+R10054-4_11_15,"Great, the owner is here.",เยี่ยมเลย ท่านเจ้าของมาสักที
+R10054-4_11_16,"Everyone, I am Shen Wuqi, the owner of the Night Auction Market. My name is honest, and so is my business. Honesty is the foundation of our Night Auction Market.",ทุกท่านขอรับ ข้ามีนามว่าเสินอู๋ฉี ชื่อของข้าแปลว่าซื่อสัตย์ และธุรกิจของข้าก็เช่นกันขอรับ ความซื่อสัตย์นั้นเป็นรากฐานของตลาดประมูลราตรีแห่งนี้ขอรับ
+R10054-4_11_17,If anyone has any questions...,หากผู้ใดมีคำถาม...
+R10054-4_11_18,"{yell} It's him, he's harming people with counterfeit products!",{yell}นั่นไงหมอนั่น ไอ้หมอนี่แหละทำให้ชาวบ้านเจ็บตัวเพราะใช้ของปลอม!
+R10054-4_11_19,{yell} The books at the Night Auction Market are fake! There are cockroaches in the buns!,{yell}หนังสือก็ไปขโมยมา! มีแมลงสาปในซาลาเปาอีก!
+R10054-4_11_20,"{yell} The Night Auction Market is fraudulent in auctions, switching auction items!",{yell}ตลาดประมูลราตรีเป็นพวกขี้คด แอบสลับของประมูล!
+R10054-4_11_21,These accusations are really outrageous...,ดูเหมือนเรื่องชักเลยเถิดไปใหญ่แล้ว...
+R10054-4_11_22,Should I stand up and help Brother Shen?,ข้าควรไปช่วยพี่เสิ่นดีไหมนะ?
+R10054-4_option2_1,"Anyway, trust your brother first!",ยังไงก็เถอะ เชื่อในตัวพี่ชายก่อนแล้วกัน!
+R10054-4_option2_2,"If the accusations are true, it's better not to get involved.<color=#0574a8>(End task)</color>",ถ้าหากคำบ่นเหล่านั่นเป็นจริง ข้าไม่ควรไปข้องเกี่ยว <color=#0574a8>(จบเรื่องราว)</color>
+R10054-4_12_1,"You sit comfortably in the VIP seat, watching the scene descend into chaos.",คุณนั่งอย่างสบายใจเฉิบในที่แขกผู้มีเกียรติ ดูเหตุการณ์เป็นไปอย่างโกลาหล
+R10054-4_12_2,After the crowd below has dispersed...,หลังจากฝูงชนสลายตัว...
 R10054-4_12_3,"Brother Shen, are you alright?"
 R10054-4_12_4,"No harm done. The reputation of the Night Auction Market, built over such a long time, won't be ruined by a little commotion."
 R10054-4_12_5,"I'm sorry, brother. I didn't expect such a thing to happen while we were having a leisurely chat."
 R10054-4_12_6,"Brother, if you have something to do, I won't keep you. I still have some trivial matters to deal with here."
-R10054-4_13_1,"Brother Shen, you rest. I'll handle them."
-R10054-4_13_2,You all...
-R10054-4_option3_1,Listen to me.<color=#097a76>(Persuade level 4 Expert)</color>
-R10054-4_option3_2,Recognize who I am<color=#097a76>(Fame Level 5)</color>
-R10054-4_option3_3,"The one who started the commotion, come out! (<color=#097a76>Throwing 40</color>, specific battle)"
-R10054-4_option3_4,"Get out, all of you!<color=#c44b0e>(Specific battle)</color>"
+R10054-4_13_1,"Brother Shen, you rest. I'll handle them.",พี่เสิ่นท่านไปพักก่อนเถิด ข้าจะจัดการเอง
+R10054-4_13_2,You all...,พวกเจ้าทุกคนน่ะ...
+R10054-4_option3_1,Listen to me.<color=#097a76>(Persuade level 4 Expert)</color>,ฟังข้าก่อน <color=#097a76>(การโน้มน้าวใจถึงระดับเชี่ยวชาญ เลเวล 4)</color>
+R10054-4_option3_2,Recognize who I am<color=#097a76>(Fame Level 5)</color>,รู้ไหมว่าข้าเป็นใคร <color=#097a76>ชื่อเสียงถึงระดับ 5</color>
+R10054-4_option3_3,"The one who started the commotion, come out! (<color=#097a76>Throwing 40</color>, specific battle)",ไอ้คนที่เริ่มประเด็นออกมาเดี๋ยวนี้! <color=#097a76>อาวุธลับ 40 (เข้าสู่การต่อสู้)</color>
+R10054-4_option3_4,"Get out, all of you!<color=#c44b0e>(Specific battle)</color>",ไสหัวไปให้หมดเลย! <color=#c44b0e>เข้าสู่การต่อสู้</color>
 R10054-4_14_1,"(Taking a deep breath, you use your internal power to make your voice louder than the entire crowd.)"
 R10054-4_14_2,"Everyone, please calm down. I am here on behalf of the Night Auction Market to solve your problems."
 R10054-4_14_3,Can you make decisions? You have to compensate for my loss to solve the problem!
 R10054-4_14_4,"The gentleman who appraised the treasure, I have also seen the coral in the royal palace, and I think yours is more genuine."
-R10054-4_14_5,Really?
+R10054-4_14_5,Really?,จริงหรือ?
 R10054-4_14_6,"But I am not qualified to say. I can give you a few pawnshop addresses, mention my name, they are all my friends, they will help you appraise the authenticity."
 R10054-4_14_7,"Good, good, thank you!"
 R10054-4_14_8,"The customer who just said that the auction item was switched, can I see your auction item?"
@@ -1480,8 +1480,8 @@ R10054-4_14_19,……
 R10054-4_14_20,"If you want to auction antiques, the Glittering Artifact Auction in Daliang City is more suitable."
 R10054-4_14_21,"The one who just said that the book sold by the Night Auction Market is a pirated book, what was the name of the book... ""Zhong Yangzi's Flooded Shifa Temple""?"
 R10054-4_14_22,"The brother who bought the pirated book, do you still have the book? Someone wants to see it."
-R10054-4_14_0_1,Amitabha...
-R10054-4_14_1_1,Hmph...
+R10054-4_14_0_1,Amitabha...,อามิตาพุทธ...
+R10054-4_14_1_1,Hmph...,ฮึ่ม...
 R10054-4_15_1,"The friend who bought the pirated book, are you still here?"
 R10054-4_15_2,It seems that friend might be inconvenient.
 R10054-4_15_3,"Who else has had problems shopping at the Night Auction Market, come and line up behind me to see the Steward! As long as you can bring out the items sold by the Night Auction Market, we will definitely solve the problem!"
@@ -1489,43 +1489,43 @@ R10054-4_15_4,The first five in line will receive a gift!
 R10054-4_15_5,A gift?
 R10054-4_15_6,Don't push me! I'm first in line!
 R10054-4_15_7,"Several people immediately crowded in front of the Steward.\nIn the commotion, the other spectators dispersed, including those with ill intentions..."
-R10054-4_16_1,Who is this green onion? Get out of here!
-R10054-4_16_2,"Wait, this is {PlayerName}!"
-R10054-4_16_3,It's actually {PlayerName}! I didn't expect him to be a friend of Master Shen!
-R10054-4_16_4,What?
-R10054-4_16_5,"Yes, Master Shen is my friend."
-R10054-4_16_6,I guarantee with my reputation that such serious trading accidents will not happen in the Night Auction Market.
-R10054-4_16_7,"Of course, it's inevitable that the merchants of the Night Auction Market may cause problems due to mistakes."
-R10054-4_16_8,"Customers who suffer losses in the Night Auction Market can seek the Night Auction Market Steward behind me, I believe he will provide a proper solution."
-R10054-4_16_9,Really?
-R10054-4_16_10,"What about my coral? You appraised it as fake, do you know how much loss it caused me?"
-R10054-4_16_11,"Dear customer, I have friends who are experts in this field in every major town. You can take your treasure and mention my name, I believe they will help you appraise it seriously."
-R10054-4_16_12,Really? That's great!
-R10054-4_16_13,"Several people walked out of the crowd and lined up in front of the Steward.\nThe other spectators gradually dispersed, including those with ill intentions..."
-R10054-4_17_1,"Damn, I didn't expect a kid to control the situation with a few words."
-R10054-4_17_2,"Without relations, at least we..."
-R10054-4_17_3,"Brother Shen, are you sure these are the three?"
-R10054-4_17_4,"Yes, I just saw these three being harmed by my flawed antiques, pirated books, cockroach buns, and switched auction items, but I don't know why they didn't line up at the Steward's."
-R10054-4_17_5,"The three of you, I apologize for the losses you have suffered. If you have any problems, please tell me, and I will personally serve you."
-R10054-4_17_6,Knock them down and run away!
-R10054-4_18_1,"Uh, I feel like my bones are about to break..."
-R10054-4_18_2,"Don't worry, I still have questions for you."
-R10054-4_18_3,We four won't say anything!
-R10054-4_18_4,Four?
-R10054-4_18_5,Four?
-R10054-4_18_6,"Hehe, Shen Wuqi, go check your auction table..."
-R10054-4_18_7,Damn! There's a backup plan!
-R10054-4_18_8,"Hahahaha, this is the brutal business war!"
-R10054-4_18_9,Don't think about escaping!
-R10054-4_18_10,Never mind them! Let them go!
-R10054-4_18_11,"Strange, why did Brother Shen let them run away?"
-R10054-4_18_12,"Brother Shen ran to the auction table, let me go and see."
-R10054-4_19_1,"Damn, I can't believe I lost to such a small fry..."
-R10054-4_19_2,"Shen Wuqi is just a merchant after all, hahahaha!"
-R10054-4_19_3,"Shen Wuqi, if you can still crawl, go back and check your auction table!"
-R10054-4_19_4,"This is the brutal business war, hahahaha!"
-R10054-4_19_5,What? My auction table?
-R10054-4_19_6,What happened to Brother Shen's auction table? Let me go and see.
+R10054-4_16_1,Who is this green onion? Get out of here!,ไอ้เหม็นเขียวนี่ใคร ไสหัวไป!
+R10054-4_16_2,"Wait, this is {PlayerName}!",เดี๋ยวนั่นมัน {PlayerName}!
+R10054-4_16_3,It's actually {PlayerName}! I didn't expect him to be a friend of Master Shen!,{PlayerName}จริงๆด้วยๆ! ข้าไม่คิดเลยว่าเขาจะเป็นสหายของเจ้าของตลาดเสิ่น!
+R10054-4_16_4,What?,ฮะ?
+R10054-4_16_5,"Yes, Master Shen is my friend.",ใช่ท่านเสิ่นเป็นสหายของข้าเอง
+R10054-4_16_6,I guarantee with my reputation that such serious trading accidents will not happen in the Night Auction Market.,ข้าขอใช้ชื่อเสียงของข้าเป็นประกันว่าปัญหาร้ายแรงเหล่านั้นจะไม่มีทางเกิดขึ้นได้ในตลาดประมูลราตรีเด็ดขาด
+R10054-4_16_7,"Of course, it's inevitable that the merchants of the Night Auction Market may cause problems due to mistakes.",แน่นอนว่า บางครั้งมันก็หลีกเลี่ยงไม่ได้ที่พ่อค้าแม่ค้าในตลาดประมูลราตรีอาจจะทำผิดพลาดกันบ้าง
+R10054-4_16_8,"Customers who suffer losses in the Night Auction Market can seek the Night Auction Market Steward behind me, I believe he will provide a proper solution.",เหล่าลูกค้าที่พบปัญหาจากทางตลาดประมูลราตรีให้เชิญมาคุยกับผู้ดูแลตลาดประมูลราตรีด้านหลังข้าได้เลย ข้าคิดว่าเขาจะทำการแก้ปัญหาที่เหมาะสมให้อย่างแน่นอน
+R10054-4_16_9,Really?,จริงหรือ?
+R10054-4_16_10,"What about my coral? You appraised it as fake, do you know how much loss it caused me?",ปะการังของข้าเล่า? พวกเจ้ามาบอกว่าของปลอม รู้ไหมว่าข้าเสียรายได้ไปเท่าไหร่?
+R10054-4_16_11,"Dear customer, I have friends who are experts in this field in every major town. You can take your treasure and mention my name, I believe they will help you appraise it seriously.",ท่านลูกค้า ข้ามีเพื่อนผู้เชี่ยวชาญด้านการประเมินของเช่นนี้อยู่ทุกเมืองใหญ่ ท่านเอามันไปประเมินแล้วก็บอกชื่อข้าไปด้วย ข้าว่าพวกเขาจะประเมินมันให้อย่างดีเลย
+R10054-4_16_12,Really? That's great!,จริงเหรอ? เยี่ยมไปเลย!
+R10054-4_16_13,"Several people walked out of the crowd and lined up in front of the Steward.\nThe other spectators gradually dispersed, including those with ill intentions...","ผู้คนมากมายต่างมาเข้าแถวรอคิวกันหน้าผู้ดูแล\nเหล่าผู้ชมคนอื่นๆ ทยอยสลายตัวไป  รวมไปถึงผู้ที่ไม่หวังดีด้วย..."
+R10054-4_17_1,"Damn, I didn't expect a kid to control the situation with a few words.",บ้าเอ้ย ไม่คิดว่าเด็กนั่นจะมาควบคุมสถานการณ์ได้เพียงไม่กี่คำเลย
+R10054-4_17_2,"Without relations, at least we...",หากไม่มีคนมาหนุนให้ พวกเราอย่างน้อยก็...
+R10054-4_17_3,"Brother Shen, are you sure these are the three?",พี่เสิ่น ท่านแน่ใจใช่ไหมว่าเป็นสามคนนี้แน่?
+R10054-4_17_4,"Yes, I just saw these three being harmed by my flawed antiques, pirated books, cockroach buns, and switched auction items, but I don't know why they didn't line up at the Steward's.",ใช่ ข้าลอบสังเกตเห็นว่าทั้งสามคนนี้มีปัญหาเรื่อง ของโบราณชำรุด หนังสือเถื่อน ซาลาเปามีแมลงสาบ และของประมูลถูกสลับของ ทำไมพวกนี้มันถึงไม่ไปต่อแถวที่หน้าผู้ดูแลกันหนอ
+R10054-4_17_5,"The three of you, I apologize for the losses you have suffered. If you have any problems, please tell me, and I will personally serve you.",ท่านทั้งสามขอร้าบ ข้าขออภัยที่ทำให้พวกท่านต้องเดือดร้อนนะขอร้าบ หากท่านมีปัญหาอะไรก็บอกข้าได้เลย ข้ายินดีแก้ปัญหาให้พวกท่านเป็นการส่วนตัวขอร้าบ
+R10054-4_17_6,Knock them down and run away!,อัดพวกมันแล้วหนีเร็ว!
+R10054-4_18_1,"Uh, I feel like my bones are about to break...",อึก ข้ารู้สึกเหมือนกระดูกแตกเป็นเสี่ยงๆเลย...
+R10054-4_18_2,"Don't worry, I still have questions for you.",ไม่ต้องกังวลไปน้า ข้ายังมีคำถามจะถามอีกเพียบเลย
+R10054-4_18_3,We four won't say anything!,พวกเราทั้งสี่จะไม่พูดอะไรทั้งนั้น!
+R10054-4_18_4,Four?,สี่เหรอ?
+R10054-4_18_5,Four?,สี่เหรอ?
+R10054-4_18_6,"Hehe, Shen Wuqi, go check your auction table...",ฮี่ฮ๊่ เสิ่นอู๋ฉี ไปดูที่โต๊ะประมูลแสนรักของเจ้าซี่...
+R10054-4_18_7,Damn! There's a backup plan!,เวรแล้ว! มันมีแผนสำรอง!
+R10054-4_18_8,"Hahahaha, this is the brutal business war!",ก๊าก ฮ่าฮ่าฮ่าฮ่า นี่ละหนา สงครามธุรกิจแสนโหด!
+R10054-4_18_9,Don't think about escaping!,อย่าคิดว่าจะหนีเชียว!
+R10054-4_18_10,Never mind them! Let them go!,ช่างพวกมันเถอะ! ปล่อยมันไป!
+R10054-4_18_11,"Strange, why did Brother Shen let them run away?",แปลกจริง ทำไมพี่เสิ่นถึงจะปล่อยมันไปกัน?
+R10054-4_18_12,"Brother Shen ran to the auction table, let me go and see.",พี่เสิ่นไปที่โต๊ะประมูลเกิดอะไรขึ้นนะ? ข้าขอตามไปดูหน่อย
+R10054-4_19_1,"Damn, I can't believe I lost to such a small fry...",ไม่คิดเลยว่าข้าจะมาแพ้พวกแมลงหวี่เช่นนี้...
+R10054-4_19_2,"Shen Wuqi is just a merchant after all, hahahaha!",สุดท้ายเจ้าเสิ่นอู๋ฉีก็เป็นเพียงพ่อค้าสินะ ก๊าก ฮ่าฮ่าฮ่าฮ่า
+R10054-4_19_3,"Shen Wuqi, if you can still crawl, go back and check your auction table!",เสิ่นอู๋ฉี หากยังมีแรงก็ลองคลานไปดูที่โต๊ะประมูลแสนรักของเจ้าซี่...
+R10054-4_19_4,"This is the brutal business war, hahahaha!",ก๊าก ฮ่าฮ่าฮ่าฮ่า นี่ละหนา สงครามธุรกิจแสนโหด!
+R10054-4_19_5,What? My auction table?,อะไรนะ โต๊ะประมูลข้า?
+R10054-4_19_6,What happened to Brother Shen's auction table? Let me go and see.,พี่เสิ่นไปที่โต๊ะประมูลเกิดอะไรขึ้นนะ? ข้าขอตามไปดูหน่อย
 R10054-4_20_1,"Hey, you, you, you, you three come out."
 R10054-4_20_2,Huh?
 R10054-4_20_3,What?
@@ -1536,27 +1536,27 @@ R10054-4_20_7,He hit me!
 R10054-4_20_8,"You think I can't see you hiding in the crowd? Three people leading the disturbance, I saw it at a glance."
 R10054-4_20_9,"If anyone else really has a problem with shopping in the Night Auction Market, you can find the Steward behind me, he will give you a proper solution."
 R10054-4_20_10,"The Night Auction Market welcomes every customer, as for those who cause trouble in the crowd... they need to be ""welcomed"" even more."
-R10054-4_20_11,"{yell} Damn, retreat!"
-R10054-4_20_12,Trying to run?
-R10054-4_20_13,Wow! There's going to be a fight! Let's run away!
-R10054-4_21_1,"Uh, I feel like my bones are about to break..."
-R10054-4_21_2,"Don't worry, I still have questions for you."
-R10054-4_21_3,We four won't say anything!
-R10054-4_21_4,Four?
-R10054-4_21_5,Four?
-R10054-4_21_6,"Hehe, Shen Wuqi, go check your auction table..."
-R10054-4_21_7,Damn! There's a backup plan!
-R10054-4_21_8,"Hahahaha, this is the brutal business war!"
-R10054-4_21_9,Don't think about escaping!
-R10054-4_21_10,Never mind them! Let them go!
-R10054-4_21_11,"Strange, why did Brother Shen let them run away?"
-R10054-4_21_12,"Brother Shen ran to the auction table, let me go and see."
-R10054-4_22_1,"Damn, I can't believe I lost to such a small fry..."
-R10054-4_22_2,"Shen Wuqi is just a merchant after all, hahahaha!"
-R10054-4_22_3,"Shen Wuqi, if you can still crawl, go back and check your auction table!"
-R10054-4_22_4,"This is the brutal business war, hahahaha!"
-R10054-4_22_5,What? My auction table?
-R10054-4_22_6,What happened to Brother Shen's auction table? Let me go and see.
+R10054-4_20_11,"{yell} Damn, retreat!",{yell}บ้าเอ้ย ถอย!
+R10054-4_20_12,Trying to run?,ยังคิดจะหนีอีกรึ?
+R10054-4_20_13,Wow! There's going to be a fight! Let's run away!,โอ้โห เหมือนจะมีการต่อสู้กันแล้ว! หนีเร็ว!
+R10054-4_21_1,"Uh, I feel like my bones are about to break...",อึก ข้ารู้สึกเหมือนกระดูกแตกเป็นเสี่ยงๆเลย...
+R10054-4_21_2,"Don't worry, I still have questions for you.",ไม่ต้องกังวลไปน้า ข้ายังมีคำถามจะถามอีกเพียบเลย
+R10054-4_21_3,We four won't say anything!,พวกเราทั้งสี่จะไม่พูดอะไรทั้งนั้น!
+R10054-4_21_4,Four?,สี่เหรอ?
+R10054-4_21_5,Four?,สี่เหรอ?
+R10054-4_21_6,"Hehe, Shen Wuqi, go check your auction table...",ฮี่ฮ๊่ เสิ่นอู๋ฉี ไปดูที่โต๊ะประมูลแสนรักของเจ้าซี่...
+R10054-4_21_7,Damn! There's a backup plan!,เวรแล้ว! มันมีแผนสำรอง!
+R10054-4_21_8,"Hahahaha, this is the brutal business war!",ก๊าก ฮ่าฮ่าฮ่าฮ่า นี่ละหนา สงครามธุรกิจแสนโหด!
+R10054-4_21_9,Don't think about escaping!,อย่าคิดว่าจะหนีเชียว!
+R10054-4_21_10,Never mind them! Let them go!,ช่างพวกมันเถอะ! ปล่อยมันไป!
+R10054-4_21_11,"Strange, why did Brother Shen let them run away?",แปลกจริง ทำไมพี่เสิ่นถึงจะปล่อยมันไปกัน?
+R10054-4_21_12,"Brother Shen ran to the auction table, let me go and see.",พี่เสิ่นไปที่โต๊ะประมูลเกิดอะไรขึ้นนะ? ข้าขอตามไปดูหน่อย
+R10054-4_22_1,"Damn, I can't believe I lost to such a small fry...",ไม่คิดเลยว่าข้าจะมาแพ้พวกแมลงหวี่เช่นนี้...
+R10054-4_22_2,"Shen Wuqi is just a merchant after all, hahahaha!",สุดท้ายเจ้าเสิ่นอู๋ฉีก็เป็นเพียงพ่อค้าสินะ ก๊าก ฮ่าฮ่าฮ่าฮ่า
+R10054-4_22_3,"Shen Wuqi, if you can still crawl, go back and check your auction table!",เสิ่นอู๋ฉี หากยังมีแรงก็ลองคลานไปดูที่โต๊ะประมูลแสนรักของเจ้าซี่...
+R10054-4_22_4,"This is the brutal business war, hahahaha!",ก๊าก ฮ่าฮ่าฮ่าฮ่า นี่ละหนา สงครามธุรกิจแสนโหด!
+R10054-4_22_5,What? My auction table?,อะไรนะ โต๊ะประมูลข้า?
+R10054-4_22_6,What happened to Brother Shen's auction table? Let me go and see.,พี่เสิ่นไปที่โต๊ะประมูลเกิดอะไรขึ้นนะ? ข้าขอตามไปดูหน่อย
 R10054-4_23_1,"Look, this is the Night Auction Market's attitude towards customers!"
 R10054-4_23_2,"The Night Auction Market is so overbearing, what do they take us for!"
 R10054-4_23_3,"We can't let the Night Auction Market bully us like this, teach them a lesson!"
@@ -1569,48 +1569,48 @@ R10054-4_24_5,"Brother, your thunderous methods are indeed effective."
 R10054-4_24_6,"However... there are many considerations in business, it's better to leave such situations to me in the future."
 R10054-4_24_7,"The business world and the martial world are indeed different realms, perhaps I really didn't consider things properly."
 R10054-4_24_8,"Brother, please excuse me for a moment, I need to record this incident at the auction table, lest I forget and it causes problems later."
-R10054-4_24_9,Ah!!!
-R10054-4_24_10,What's going on? Is someone messing with the auction table?
-R10054-4_25_1,{yell} There's a dead crow stuck to the gong used to open the door!
-R10054-4_25_2,{yell} Someone poured boiling water on my orange tree!
-R10054-4_25_3,{yell} My fortune flower! Ahhh!
-R10054-4_25_4,Is this... the brutal reality of business warfare?
-R10054-4_25_5,This is the first time I've seen Brother Shen lose his composure...
-R10054-4_25_6,{yell} What do you know! These are the foundation of Night Auction Market!
-R10054-4_25_7,Didn't you just say that the foundation of Night Auction Market is honest business...
-R10054-4_25_8,This...
-R10054-4_25_9,"What happened? Brother Shen, did someone splash dog blood on the auction table?"
-R10054-4_25_10,My account book has been stolen.
-R10054-4_25_11,Account book?
-R10054-4_25_12,"I suffer from amnesia, besides keeping accounts, many important matters are also recorded in the account book."
-R10054-4_25_13,"Now that it's been stolen, this is what truly shakes the foundation of Night Auction Market."
-R10054-4_25_14,"Do you know how to find it, Brother Shen?"
-R10054-4_25_15,Let me think... Let me think...
-R10054-4_25_16,"Monk, these are the key information and portraits we just recorded."
-R10054-4_25_17,Is this information about those villains just now?
-R10054-4_25_18,"Yes, I have a poor memory, so I had to ask my clerks to help me record these."
-R10054-4_25_19,"So, Brother Shen, do you have a plan?"
-R10054-4_25_20,The one who stole my account book must be an accomplice of the instigator just now.
-R10054-4_25_21,They also mentioned business warfare...
-R10054-4_25_22,"When you mention business warfare now, I always think of the dead crow and the torment of the fortune tree... Only the theft of the account book seems plausible..."
-R10054-4_25_23,"Brother, I would like to hire you to help me retrieve this account book in Daliang City."
-R10054-4_25_24,"In business, we talk business, regardless of friendship. If you help me retrieve the account book, I am willing to pay you 20 taels of silver. Even if you can't find it, there's still 10 taels, what do you think?"
-R10054-4_25_34,"Shen Wuqi wants to pay me 20 taels of silver to help him find his account book, should I help?"
-R10054-4_option5_1,"For a friend, I would go through fire and water, why talk about money?"
-R10054-4_option5_2,"For these 20 taels, I will do my best!"
-R10054-4_option5_3,I have other things to do right now...
-R10054-4_26_1,"You talk business, but I would go through fire and water for a friend."
-R10054-4_26_2,"Whether it's 20 taels or 50 taels, don't mention it again."
-R10054-4_26_3,I didn't say 50 taels.
-R10054-4_26_4,"What? 100 taels? Stop it, no matter how much you increase the price, I won't accept it!"
-R10054-4_26_5,100 taels?
-R10054-4_26_6,What? You want to give me 1000 taels? You're insulting me!
-R10054-4_26_7,……
-R10054-4_26_8,Hahahahahahahahaha!
-R10054-4_26_9,Hahahahahaha!
-R10054-4_26_10,"If I didn't know {PlayerSurName} brother, I would have thought you were some corrupt official trying to extort me!"
-R10054-4_26_11,Let's head to Daliang City!
-R10054-4_26_1_1,"But brother, your team is full, this is not very convenient."
+R10054-4_24_9,Ah!!!,อ๊ากกกกกกกกกกก!!
+R10054-4_24_10,What's going on? Is someone messing with the auction table?,เกิดอะไรขึ้น มีคนมาวุ่นวายอะไรกับโต๊ะประมูลข้ากัน?
+R10054-4_25_1,{yell} There's a dead crow stuck to the gong used to open the door!,{yell}มีอีกกาตายมาแขวนอยู่กับฆ้องที่ข้าไว้ใช้ตีตอนเปิดประตู!
+R10054-4_25_2,{yell} Someone poured boiling water on my orange tree!,{yell}ใครมันเทน้ำร้อนใส่ต้นส้มข้า!
+R10054-4_25_3,{yell} My fortune flower! Ahhh!,{yell}ดอกไม้นำโชคของข้า! อ้ากกกกก!
+R10054-4_25_4,Is this... the brutal reality of business warfare?,นี่เหรอ... ความจริงอันโหดร้ายของสงครามธุรกิจแสนโหด?
+R10054-4_25_5,This is the first time I've seen Brother Shen lose his composure...,พึ่งเคยเห็นพี่เสิ่นน็อตหลุดขนาดนี้...
+R10054-4_25_6,{yell} What do you know! These are the foundation of Night Auction Market!,{yell}เจ้าจะไปรู้อะไรวะ! พวกนี้มันเป็นรากฐานของตลาดประมูลราตรีเชียวนะโว้ย!
+R10054-4_25_7,Didn't you just say that the foundation of Night Auction Market is honest business...,ไม่ใช่ว่าท่านพึ่งพูดไปเหรอว่าความซื่อสัตย์นั้นเป็นรากฐานของตลาดประมูลราตรีแห่งนี้...
+R10054-4_25_8,This...,นี่มัน...
+R10054-4_25_9,"What happened? Brother Shen, did someone splash dog blood on the auction table?",มีอะไรหรือพี่เสิ่น? ใครแอบเอาเลือดหมามาราดบนโต๊ะหรือไง?
+R10054-4_25_10,My account book has been stolen.,สมุดบัญชีถูกขโมยไปแล้ว
+R10054-4_25_11,Account book?,สมุดบัญชี?
+R10054-4_25_12,"I suffer from amnesia, besides keeping accounts, many important matters are also recorded in the account book.",ข้านั้นหลงๆลืมๆ นอกจากมันจะเก็บหลักฐานทางด้านบัญชีแล้ว มันยังมีธุระสำคัญที่ข้าจดไว้มากมายในสมุดนั้นอีกด้วย
+R10054-4_25_13,"Now that it's been stolen, this is what truly shakes the foundation of Night Auction Market.",มันโดนขโมยไปแล้ว อันนี้แหละได้สั่นคลอดรากฐานที่แท้จริงของตลาดประมูลราตรีแห่งนี้แน่ๆ
+R10054-4_25_14,"Do you know how to find it, Brother Shen?",ท่านรู้ไหมจะไปหาคืนได้จากที่ไหน พี่เสิ่น?
+R10054-4_25_15,Let me think... Let me think...,ขอข้าคิดก่อนนะ... ขอข้าคิดก่อนนะ...
+R10054-4_25_16,"Monk, these are the key information and portraits we just recorded.",ท่านผู้มีพระคุณ นี่คือข้อมูลสำคัญที่พวกเราเก็บมาไว้ได้
+R10054-4_25_17,Is this information about those villains just now?,นี่คือข้อมูลของพวกชั่วนั้นงั้นเหรอ?
+R10054-4_25_18,"Yes, I have a poor memory, so I had to ask my clerks to help me record these.",ใช่ ข้านั้นความจำสั้นนัก เลยต้องให้พวกเสมียนช่วยบันทึกไว้
+R10054-4_25_19,"So, Brother Shen, do you have a plan?",แล้วพี่เสิ่นมีแผนยังไง?
+R10054-4_25_20,The one who stole my account book must be an accomplice of the instigator just now.,คนที่ขโมยสมุดบัญชีของข้า ย่อมเป็นพวกเดียวกับคนที่เป็นหัวหน้าในการยุยงเมื่อครู่นี้แน่!
+R10054-4_25_21,They also mentioned business warfare...,พวกนั้นพูดถึงสงครามธุรกิจแสนโหด...
+R10054-4_25_22,"When you mention business warfare now, I always think of the dead crow and the torment of the fortune tree... Only the theft of the account book seems plausible...",พอท่านพูดถึงสงครามธุรกิจแสนโหด ข้าก็อดนึกถึงการเอากาไปติดกับฆ้อง การเอาน้ำร้อนไปราดต้นไม้มงคลทุกที  มีแค่การขโมยสมุดบัญชีนี่แหละที่ดูดีกว่าหน่อย...
+R10054-4_25_23,"Brother, I would like to hire you to help me retrieve this account book in Daliang City.",น้องชาย ข้าจะขอจ้างวานเจ้าให้ไปตามหาสมุดบัญชีนี้ที่เมืองต้าเหลียงที
+R10054-4_25_24,"In business, we talk business, regardless of friendship. If you help me retrieve the account book, I am willing to pay you 20 taels of silver. Even if you can't find it, there's still 10 taels, what do you think?",ธุรกิจย่อมเป็นธุรกิจ ไม่เกี่ยวกับเรื่องส่วนตัว หากเจ้าช่วยข้าหาสมุดบัญชีคืน ข้าพเจ้าจะจ่ายเงินให้เจ้า 20 ตำลึง แต่ถึงแม้จะหาคืนไม่ได้ ข้าก็จ่ายให้ 10 ตำลึงอยู่ดี เจ้าคิดว่าอย่างไร?
+R10054-4_25_34,"Shen Wuqi wants to pay me 20 taels of silver to help him find his account book, should I help?",เสิ่นอู๋ฉี ต้องการจ้างวานให้ข้าไปตามหาสมุดบัญชีในเมืองต้าเหลียงในราคา 20 ตำลึง ข้าควรช่วยเขาไหม?
+R10054-4_option5_1,"For a friend, I would go through fire and water, why talk about money?",เป็นสหายกันต่อให้บุกน้ำลุยไฟข้าก็ไม่หวั่น จะพูดเรื่องเงินทำไมเล่า?
+R10054-4_option5_2,"For these 20 taels, I will do my best!",เพื่อ 20 ตำลึงนี้ ข้าขอสู้ตาย!
+R10054-4_option5_3,I have other things to do right now...,ข้ามีอย่างอื่นต้องทำ...
+R10054-4_26_1,"You talk business, but I would go through fire and water for a friend.",ท่านมาพูดธุรกงธุรกิจอะไรกัน สำหรับข้าต่อให้บุกน้ำลุยไฟเพื่อสหาย ข้าก็ทำได้
+R10054-4_26_2,"Whether it's 20 taels or 50 taels, don't mention it again.",จะ 20 ตำลึงหรือ 50 ตำลึงก็ไม่ต้องพูดถึงมันหรอก
+R10054-4_26_3,I didn't say 50 taels.,ข้าไม่ได้พูด 50 ตำลึงสักคำ
+R10054-4_26_4,"What? 100 taels? Stop it, no matter how much you increase the price, I won't accept it!",อะไรนะ 100 ตำลึง? พอเลย พอเลย ถึงท่านจะให้ข้ามากเท่าไหร่ ข้าก็ไม่เอาหรอก!
+R10054-4_26_5,100 taels?,100 ตำลึง?
+R10054-4_26_6,What? You want to give me 1000 taels? You're insulting me!,อะไรนะ? ท่านจะให้ข้า 1000 ตำลึง!? ท่านจะทำให้ข้าเสียหน้าเหรอ!
+R10054-4_26_7,……,……
+R10054-4_26_8,Hahahahahahahahaha!,ก๊าก ฮ่าฮ่าฮ่าฮ่าฮ่าฮ่าฮ่า!
+R10054-4_26_9,Hahahahahaha!,ฮ่าฮ่าฮ่าฮ่าฮ่าฮ่า!
+R10054-4_26_10,"If I didn't know {PlayerSurName} brother, I would have thought you were some corrupt official trying to extort me!",ถ้าข้าไม่ได้รู้จักน้อง{PlayerSurName} ข้าคงนึกว่ากำลังเจอพวกกังฉินมาขูดรีดข้าอยู่แน่ๆ!
+R10054-4_26_11,Let's head to Daliang City!,ไปเมืองต้าเหลียงกันเถอะ!
+R10054-4_26_1_1,"But brother, your team is full, this is not very convenient.",น้องชาย ทีมของเจ้าเต็มอยู่ ข้าไปด้วยไม่ได้
 R10054-4_26_2_1,"Excellent, with you as my helper, retrieving the account book is almost a sure thing!"
 R10054-4_26_3_1,"No worries, just come and help me when you're free."
 R10054-4_27_1,"So, Brother Shen, do you have a plan?"
@@ -1626,7 +1626,7 @@ R10054-4-1_1,"Brother, as long as the account book is not returned, it's hard fo
 R10054-4-1_2,Are you ready to help me retrieve the account book?
 R10054-4-1_3,"The reward is still as agreed before, 20 guan if found, and 10 guan even if failed."
 R10054-4-1_option1,Ready!
-R10054-4-1_option2,I have other things to do right now...
+R10054-4-1_option2,I have other things to do right now...,ข้ามีอย่างอื่นต้องทำ...
 R10054-4-2_0_1,"Brother Shen, we've arrived at Daliang City, how do you plan to start searching?"
 R10054-4-2_0_2,"{PlayerSurName} Brother, do you know why I let them go?"
 R10054-4-2_0_3,"I guess, is it to use them as bait to lure the snake out of the hole?"
