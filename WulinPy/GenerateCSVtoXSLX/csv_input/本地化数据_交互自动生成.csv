@@ -3772,12 +3772,12 @@ NpcChangeWeapon_鹰兄_Refuse,"Hehehe, surely the great hero {PlayerSurName} wou
 NpcMumble_二九_Dead,Forgot to save the game...
 NpcBattleReact_二九_JoinEnemy,The last one to leave is responsible for turning off the lights
 NpcBattleReact_二九_Involve,The last one to leave is responsible for turning off the lights
-NpcInteractive_月咏樱羽_Like,What are you going to do to her?
-NpcInteractive_月咏樱羽_Dislike,What are you going to do to her?
+NpcInteractive_月咏樱羽_Like,What are you going to do to her?,เจ้าจะทำอะไรกับนาง?
+NpcInteractive_月咏樱羽_Dislike,What are you going to do to her?,เจ้าจะทำอะไรกับนาง?
 NpcHello_月咏樱羽_SelfIntroHigh,"How are you, young master."
 NpcHello_月咏樱羽_SelfIntroLow,"How are you, young master."
 NpcHello_月咏樱羽_Common,"Are you well, young master?|Greetings, young master.|You look good lately, young master."
-NpcHello_月咏樱羽_Like,"Just thinking about you, and here you are.|Always happy to see you, young master.|You came to see me, young master."
+NpcHello_月咏樱羽_Like,"Just thinking about you, and here you are.|Always happy to see you, young master.|You came to see me, young master.",คิดถึงคุณชาย คุณชายก็มาเลย|ข้าดีใจที่ได้เจอคุณชายทุกครั้งเลย|ท่านมาหาข้าแล้วหรือ คุณชาย
 NpcHello_月咏樱羽_Dislike,Please keep your distance from me.|Speak quickly if you have something to say.
 NpcHello_月咏樱羽_Hate,Please get out of my sight.|It's disgusting.
 NpcTrading_月咏樱羽_Refuse,I'm not quite sure about giving the item to you.
@@ -3801,8 +3801,8 @@ NpcSteal_月咏樱羽_KaiGan,I won't forgive you!|Prepare yourself!
 NpcDriveAway_月咏樱羽_XCKaiGan,"Why are you doing this, young master?|You're making me uncomfortable."
 NpcDriveAway_月咏樱羽_KaiGan,I won't forgive you!|Prepare yourself!|You've angered me.|I won't allow you to do this.
 NpcTeach_月咏樱羽_Refuse,"This is not appropriate.|You're being too abrupt, young master."
-NpcHello_人妻月咏樱羽_Common,"Young master, you're back.|I was just thinking about you, and here you are.|Are you tired, young master?"
-NpcHello_人妻月咏樱羽_Like,"Young master, you're back.|I was just thinking about you, and here you are.|Are you tired, young master?"
+NpcHello_人妻月咏樱羽_Common,"Young master, you're back.|I was just thinking about you, and here you are.|Are you tired, young master?",คุณชาย ท่านกลับมาแล้วหรือ|คิดถึงคุณชาย คุณชายก็มาเลย|เหนื่อยไหม คุณชาย?
+NpcHello_人妻月咏樱羽_Like,"Young master, you're back.|I was just thinking about you, and here you are.|Are you tired, young master?",คุณชาย ท่านกลับมาแล้วหรือ|คิดถึงคุณชาย คุณชายก็มาเลย|เหนื่อยไหม คุณชาย?
 NpcHello_人妻月咏樱羽_Dislike,We need to cool down.|Come find me after you've reflected on your actions.|Your presence is troubling me.|You're going a bit too far.
 NpcHello_人妻月咏樱羽_Hate,You've gone too far!|How did we end up like this?|Speak quickly.|(She seems to be ignoring you.)
 NpcTrading_人妻月咏樱羽_Refuse,I'm not quite sure about giving the item to you.
