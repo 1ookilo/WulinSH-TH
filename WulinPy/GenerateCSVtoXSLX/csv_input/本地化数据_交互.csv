@@ -178,7 +178,7 @@ Authenticate_NeedRelation,But looking at our relations... it's better to go furt
 Authenticate_NoConsume,"Get lost!|Don't bother me if there's nothing.|What? If you don't let me appraise, why are you looking for me?",ไสหัวไปซะ!|ถ้าไม่มีอะไรก็อย่ามารบกวนข้า| อะไร ถ้าไม่มีอะไรให้ตรวจสอบ จะมาหาข้าทำไม
 Authenticate_HasConsume,Thank you for your patronage!|Welcome to come again!|All are good goods!|Are you satisfied with the result?,ขอบคุณที่อุดหนุน! |แล้วมาใหม่นะ!| ที่นี่ของดีทุกชิ้นเลย!| ผลออกมาพอใจหรือไม่
 PetNaming_Window,Please name your pet,โปรดตั้งชื่อให้สัตว์เลี้ยง
-PetNaming_Intro,What name do you want to give it?,อยากให้ชื่ออะไรกับมัน
+PetNaming_Intro,What name do you want to give it?,จะตั้งชื่อมันว่าอะไร?
 PetNaming_Accept,"Great! From now on, you'll be called <#c44b0e>{0}</color>!",เยี่ยม! จากนี้ไป ข้าจะเรียกเจ้าว่า <#c44b0e>{0}</color>!
 PetNaming_Denied,"This name is not good, I'll try others.",ชื่อนี้ไม่ดีเลย ลองอันอื่นละกัน
 InstanctBattle_通用_AskAvoid,"I don't want to hurt the innocent, you better run away quickly!",ข้าไม่อยากทำร้ายคนบริสุทธ์ ทางที่ดีเจ้ารีบหนีไปซะ!

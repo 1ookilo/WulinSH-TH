@@ -21,7 +21,7 @@ CharaName_风姿绰约的女郎,Graceful girl,สาวน้อยที่ส�
 CharaName_冷酷的中年人,Cold middle-aged man,คุณลุงเย็นชา
 CharaName_神情肃穆的僧人,Solemn monk,หลวงจีนผู้เคร่งขรึม
 CharaName_沉默内敛的僧人,Silent and introverted monk,หลวงจีนผู้เงียบขรึม
-CharaName_肮脏邋遢的头陀,Sloppy monk,หลวงจีนทุศีล
+CharaName_肮脏邋遢的头陀,Sloppy monk,หลวงจีนสกปรก
 CharaName_贼眉鼠眼的官员,Sneaky-looking official,เจ้าหน้าที่ที่ดูลับ ๆ ล่อ ๆ
 CharaName_脾气暴躁的官员,Hot-tempered official,เจ้าหน้าที่หัวร้อน
 CharaName_冷漠高傲的女子,Cold and arrogant woman,ผู้หญิงเย็นชาและเย่อหยิ่ง
@@ -466,7 +466,7 @@ CharaName_无聊人,Bored Man,คนน่าเบื่อ
 CharaName_看热闹的闲汉,Busybody,คนยุ่ง
 CharaName_商人·甲,Merchant·A,พ่อค้า เจี่ย
 CharaName_商人·乙,Merchant·B,พ่อค้า ข.
-CharaName_破戒的和尚,Oathsbreak Monk,หลวงจีนสัตย์ปฏิญาณ
+CharaName_破戒的和尚,Oathsbreak Monk,หลวงจีนผู้หลงผิด
 CharaName_还俗的道士,Secular Taoist,ผู้แสวงหาวิถีเต๋า
 CharaName_沉默的武人,Silent Warrior,นักรบไร้เสียง
 CharaName_嚣张的武人,Arrogant Warrior,นักรบเย่อหยิ่ง
@@ -483,9 +483,9 @@ CharaName_打手,Henchman,ผู้ติดตาม
 CharaName_执法弟子,Law Enforcement Disciple,ศิษย์ผู้บังคับใช้กฎหมาย
 CharaName_一只眼的江湖客,One-eyed Wanderer,ผู้พเนจรตาเดียว
 CharaName_老当益壮的脏乞丐,Strong Dirty Beggar,ขอทานสกปรกที่แข็งแกร่ง
-CharaName_不守清规的破戒僧,Rule-breaking Renegade Monk,หลวงจีนที่ฝ่าฝืนกฎ
+CharaName_不守清规的破戒僧,Rule-breaking Renegade Monk,หลวงจีนละเมิดพระวินัย
 CharaName_不甘寂寞的店小二,Lonely Waiter,เสี่ยวเอ้อผู้โดดเดี่ยว
-CharaName_霸气侧漏的虬髯客,Dominant Bearded Guest,แขกมีเคราที่โดดเด่น
+CharaName_霸气侧漏的虬髯客,Dominant Bearded Guest,แขกเคราหนา
 CharaName_深藏不露的黑衣人,Shrewd Black Man,ชายชุดดำลึกลับ
 CharaName_忧郁阴沉的江湖客,Gloomy Wanderer,ผู้หลงทางที่มืดมน
 CharaName_风度翩翩的公子哥,Graceful Young Gentleman,สุภาพบุรุษหนุ่มผู้สง่างาม
@@ -837,7 +837,7 @@ CharaTitle_城主,City Lord,เจ้าเมือง
 CharaTitle_楼主,Building owner,เจ้าของตึก
 CharaTitle_安抚使,Pacifying Envoy,เจ้าเมือง
 CharaTitle_门主,Sect Leader,เจ้าสำนัก
-CharaTitle_坊主,Abbot,หัวหน้า
+CharaTitle_坊主,Abbot,เจ้าอาวาส
 CharaTitle_岛主,Island Master,เจ้าเกาะ
 CharaTitle_总捕头,Chief,หัวหน้ามือปราบ
 CharaTitle_庄主,Manor Lord,เจ้าหมู่ตึก

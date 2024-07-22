@@ -895,16 +895,16 @@ R10049-2_2_9_2,"I heard that there is a Glittering Artifact Auction in Daliang C
 R10049-2_2_9_3,"Okay, then I will take Miss Liu to see it.",ได้เลย งั้นข้าจะพาไปที่นั่นเอง
 R10049-2_3_0_1,"Miss Liu, this is the Glittering Artifact Auction.",แม่นางหลิว ที่นี่คือหอไข่มุก
 R10049-2_3_0_2,This is the Glittering Artifact Auction...,นี่หรือ หอไข่มุก...
-R10049-2_3_1_1,"You have not received an invitation from the host, it's not appropriate to stay here for long, please leave quickly!",เจ้าไม่ได้รับเทียบเชิญจากท่านเจ้าหอ ไม่สมควรจะมายืนเกะกะอยู่แถวนี้นัก กรุณารีบออกไปเสีย!
-R10049-2_3_1_2,"I have a request for the building owner, and I will leave after asking.",ข้ามีเรื่องอยากสอบถามจากท่านเจ้าหอ หากถามเสร็จแล้วจะขอจากไปเลย
-R10049-2_3_1_3,"Did you receive an invitation from the building owner? If not, the building owner will not see you, please leave quickly!",พวกเจ้ามีเทียบเชิญของท่านเจ้าหอไหมเล่า? หากไม่มีคำเชิญ นายท่านไม่เสียเวลามาเจอพวกเจ้าหรอก ออกไปให้ไวเลย!
+R10049-2_3_1_1,"You have not received an invitation from the host, it's not appropriate to stay here for long, please leave quickly!",เจ้าไม่ได้รับเทียบเชิญจากเถ้าแก่ ไม่สมควรจะมายืนเกะกะอยู่แถวนี้นัก กรุณารีบออกไปเสีย!
+R10049-2_3_1_2,"I have a request for the building owner, and I will leave after asking.",ข้ามีเรื่องอยากสอบถามจากเถ้าแก่ หากถามเสร็จแล้วจะขอจากไปเลย
+R10049-2_3_1_3,"Did you receive an invitation from the building owner? If not, the building owner will not see you, please leave quickly!",พวกเจ้ามีเทียบเชิญของเถ้าแก่ไหมเล่า? หากไม่มีคำเชิญ นายท่านไม่เสียเวลามาเจอพวกเจ้าหรอก ออกไปให้ไวเลย!
 R10049-2_3_1_4,Wait a moment.,รอสักครู่
 R10049-2_3_1_5,"I am the building owner of the Glittering Artifact Auction. Judging from your accent, you are not from the Central Plains, right? What can I do for you?",ข้าคือเจ้าของสถานที่ประมูลสิ่งค้า หอไข่มุกแห่งนี้ ดูจากสำเนียงของท่านแล้ว ท่านไม่ใช่คนจงหยวนใช่ไหม? มีอะไรที่ข้าพอจะช่วยท่านได้บ้างขอรับ?
 R10049-2_3_1_6,"My name is Liu Yueying, and I have a request for the building owner on behalf of my father.",ข้ามีนามว่า หลิวเยว่อิง มีเรื่องอยากจะรบกวนท่านเจ้าของหอแทนบิดาสักเรื่อง
 R10049-2_3_1_7,"Liu Yueying... I see, please follow me.",แม่นางหลิวเยว่อิง...งั้นหรือ ได้โปรดเชิญตามข้ามา
-R10049-2_3_1_8,"Young hero, did you receive an invitation from the building owner?",จอมยุทธ์น้อย เจ้ามีเทียบเชิญของท่านเจ้าหอไหมเล่า?
+R10049-2_3_1_8,"Young hero, did you receive an invitation from the building owner?",จอมยุทธ์น้อย เจ้ามีเทียบเชิญของเถ้าแก่ไหมเล่า?
 R10049-2_3_1_9,I'm with Miss Liu.,ข้ามากับแม่นางหลิว
-R10049-2_3_1_10,"According to the rules of this building, those who have not received an invitation from the building owner cannot stay here, please leave quickly, young hero.",ตามกฎของที่นี่ หากเจ้าไม่ได้รับเทียบเชิญจากท่านเจ้าหอ ก็ไม่สามารถเข้ามาได้ กรุณารีบออกไปเสีย!
+R10049-2_3_1_10,"According to the rules of this building, those who have not received an invitation from the building owner cannot stay here, please leave quickly, young hero.",ตามกฎของที่นี่ หากเจ้าไม่ได้รับเทียบเชิญจากเถ้าแก่ ก็ไม่สามารถเข้ามาได้ กรุณารีบออกไปเสีย!
 R10049-2_3_1_11,"Even if I'm with Miss Liu, it's not okay?",แม้ว่าข้าจะมากับแม่นางหลิว ก็ไม่ได้งั้นเหรอ?
 R10049-2_3_1_12,"Even if you come with the emperor, it's not okay.",ต่อให้เจ้าจะมากับองค์ฮ่องเต้ ก็ไม่ได้อยู่ดี
 R10049-2_3_1_13,I didn't expect the rules of the Glittering Artifact Auction to be so strict...,ข้าไม่ได้คาดคิดว่ากฎของหอประมูลหอไข่มุกจะเข้มงวดขนาดนี้...
@@ -4671,7 +4671,7 @@ DNJH-3-1_0_3,"There seems to be a reddish palm print on Mr. Shi's back, and some
 DNJH-3-1_0_4,"It's a jade hairpin, it's broken."
 DNJH-3-1_1_1,There's nothing else worth noting.
 DNJH-3-2_0_1,"{PlayerSurName} Constable, ask anything, I really have no relations with Mr. Shi's death!"
-DNJH-3-2_0_2,(What should I ask?)
+DNJH-3-2_0_2,(What should I ask?),(ข้าควรถามอะไรดี?)
 DNJH-3-2_option1_1,Ask what happened after you ran away.
 DNJH-3-2_option1_2,Ask who touched Mr. Shi.
 DNJH-3-2_option1_3,No more questions.
@@ -4735,7 +4735,7 @@ DNJH-3-5_1_6,"Later, you, Constable, came."
 DNJH-3-5_2_1,"Apart from falling, Mr. Shi didn't seem strange, but the building owner got very drunk after a few drinks, which you, Constable, should also know."
 DNJH-3-5_3_1,"I hope {PlayerSurName}Constable can catch the criminal as soon as possible, I have to go back to do business."
 DNJH-3-6_0_1,"{PlayerSurName}Constable, I have always been a good citizen, you must investigate clearly."
-DNJH-3-6_0_2,(What should I ask?)
+DNJH-3-6_0_2,(What should I ask?),(ข้าควรถามอะไรดี?)
 DNJH-3-6_option1_1,Ask about what happened at the banquet.
 DNJH-3-6_option1_2,Ask if he noticed anything unusual about Mr. Shi.
 DNJH-3-6_option1_3,I heard you knocked over General Yao's wine glass?
@@ -4767,7 +4767,7 @@ DNJH-3-7_0_1,"Ah, such bad luck, the deal didn't go through, and this happened..
 DNJH-3-7_0_2,"{PlayerSurName}Constable, I've been with you all the time, there's nothing to ask, right?"
 DNJH-3-7_0_3,"It's routine, please understand."
 DNJH-3-7_0_4,"Ah... alright, ask away."
-DNJH-3-7_0_5,(What should I ask?)
+DNJH-3-7_0_5,(What should I ask?),(ข้าควรถามอะไรดี?)
 DNJH-3-7_option1_1,Ask about what happened at the banquet.
 DNJH-3-7_option1_2,Ask if he noticed anything unusual about Mr. Shi.
 DNJH-3-7_option1_3,No more questions.
@@ -4776,7 +4776,7 @@ DNJH-3-7_1_2,"(Indeed, Boss Chen has been with me all the time.)"
 DNJH-3-7_2_1,"I don't know, I never left my seat and didn't pay attention to others."
 DNJH-3-7_3_1,Ah... why am I so unlucky?
 DNJH-3-8_0_1,"Ah, this kind of thing is really bad for the heart..."
-DNJH-3-8_0_2,(What should I ask?)
+DNJH-3-8_0_2,(What should I ask?),(ข้าควรถามอะไรดี?)
 DNJH-3-8_option1_1,Ask about what happened at the banquet.
 DNJH-3-8_option1_2,Ask if he noticed anything unusual about Mr. Shi.
 DNJH-3-8_option1_3,No more questions.
@@ -4789,7 +4789,7 @@ DNJH-3-8_3_1,"Ah, at my age, I really can't stand shocks."
 DNJH-3-9_0_1,Master Shi... is dead...
 DNJH-3-9_0_2,Can I ask Dean Lu a few questions?
 DNJH-3-9_0_3,"Ah... Constable, please ask."
-DNJH-3-9_0_4,(What should I ask?)
+DNJH-3-9_0_4,(What should I ask?),(ข้าควรถามอะไรดี?)
 DNJH-3-9_option1_1,Ask about what happened at the banquet.
 DNJH-3-9_option1_2,Ask if he noticed anything unusual about Mr. Shi.
 DNJH-3-9_option1_3,No more questions.
@@ -4801,7 +4801,7 @@ DNJH-3-9_3_1,Sigh...
 DNJH-3-10_0_1,"What brings you to me? Do you suspect me to be the murderer?\nThe current situation is the last thing I wanted."
 DNJH-3-10_0_2,"Everyone present could be the murderer, including me."
 DNJH-3-10_1_3,"Well, go ahead and ask."
-DNJH-3-10_1_4,(What should I ask?)
+DNJH-3-10_1_4,(What should I ask?),(ข้าควรถามอะไรดี?)
 DNJH-3-10_option1_1,Ask where Liu Fuming was during the banquet.
 DNJH-3-10_option1_2,Ask if there are any clues about the poison that Mr. Shi was poisoned with.
 DNJH-3-10_option1_3,No more questions.
@@ -4836,7 +4836,7 @@ DNJH-3-11_3_8,"(In a low voice) You don't need to know, I'll explain it to you l
 DNJH-3-11_3_9,"Haha, why are you all spinning..."
 DNJH-3-11_3_10,"This person is actually from the court, it seems this banquet is not simple..."
 DNJH-3-12_0_1,"Constable, feel free to ask me anything, I will tell you everything I know."
-DNJH-3-12_0_2,(What should I ask?)
+DNJH-3-12_0_2,(What should I ask?),(ข้าควรถามอะไรดี?)
 DNJH-3-12_option1_1,Ask when she had contact with Mr. Shi.
 DNJH-3-12_option1_2,Ask if there is anything noteworthy about Mr. Shi.
 DNJH-3-12_option1_3,Is there anything else noteworthy?
@@ -4976,7 +4976,7 @@ DNJH-4_11_7,"Combining the fact that Mr. Shi tripped when he ran away from his s
 DNJH-4_11_8,"At this time, Mr. Shi was in a state of excitement due to being poisoned, and didn't feel any pain. This also explains that Mr. Shi couldn't have been poisoned after this!"
 DNJH-4_11_9,"Tsk... I admit defeat, you're right, but I only did this one thing, everything else has nothing to do with me!"
 DNJH-4_11_10,"No, speaking of things related to you, there's one more thing related to you."
-DNJH-4_11_11,What are you talking about?
+DNJH-4_11_11,What are you talking about?,เจ้ากำลังพูดถึงอะไร?
 DNJH-4_11_12,Of course it's about General Yao's wine cup being knocked over.
 DNJH-4_11_13,This has nothing to do with me! I didn't touch his wine cup at all!
 DNJH-4_11_14,"Hmph, trying to deny such a trivial matter, you're not acting like a man!"
@@ -4996,7 +4996,7 @@ DNJH-4_option5_2,No!
 DNJH-4_15_1,"Wait, I remember it wasn't like this..."
 DNJH-4_15_2,Is there a problem?
 DNJH-4_15_3,"I remember, at that time, the Maid should have been standing between General Yao and me..."
-DNJH-4_15_4,Are you sure?
+DNJH-4_15_4,Are you sure?,ท่านแน่ใจ?
 DNJH-4_15_5,"I am sure, General Yao should be able to confirm it too!"
 DNJH-4_15_6,...It seems to be like that.
 DNJH-4_16_1,"No, you once said, ""I was by the table at the time and saw everything clearly."""
@@ -5255,7 +5255,7 @@ DNJH-6_1_11_4,"I can't stand it anymore, it's too stinky!!"
 DNJH-6_1_11_5,"Hahaha, I'm back, I won!"
 DNJH-6_1_11_6,"Damn, just a little bit..."
 DNJH-6_1_11_7,Sigh... I must have misjudged.
-DNJH-6_1_11_8,What are you talking about?
+DNJH-6_1_11_8,What are you talking about?,เจ้ากำลังพูดถึงอะไร?
 DNJH-6_1_11_9,I made a bet with them to see how long you could stand it before coming back. I won!
 DNJH-6_1_11_10,What's so good about betting on this...
 DNJH-6_1_12_1,……
