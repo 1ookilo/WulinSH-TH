@@ -6058,11 +6058,11 @@ Def-2160_6_2,"The master has ordered, no men are allowed in Melody House!\nWei'e
 Def-2160_6_3,……,……
 Def-2160_6_4,"Don't worry Wei'er, I'll think of another way."
 Def-2160_7_1,"Well, I've heard about this from the sisters, and the master said he would make an exception for you. Since that's the case, we won't stop you. But you must behave yourself in Melody House to avoid trouble!",ก็ดี ข้าได้ยินมากจากพวกพี่สาวแล้ว แถมท่านเจ้าตำหนักเองก็ยกเว้นให้เจ้าแล้วด้วย ถ้าเป็นเช่นนั้นเราจะไม่หยุดเจ้า แต่เจ้าต้องสำรวมเมื่ออยู่ในตำหนักบทเพลงด้วย!
-Def-2160_9_1,"Don't you know that the Jiuli Tribe is our sworn enemy at Melody House? By delivering their letter, are you declaring war on us?"
-Def-2160_9_2,"I'm just the messenger, I don't want to get involved in your sect affairs."
-Def-2160_9_3,"Maybe you're a spy sent by the Jiuli Tribe, trying to probe Melody House under the guise of delivering a letter. Sisters, kick him out."
+Def-2160_9_1,"Don't you know that the Jiuli Tribe is our sworn enemy at Melody House? By delivering their letter, are you declaring war on us?",ท่านไม่ทราบหรอกหรือว่า เผ่าจิ่วหลี่นั้น เป็นศัตรูคู่อาฆาตของเราที่ ตำหนักบทเพลง การส่งจดหมายของพวกมันมา หมายความว่าท่านกำลังประกาศสงครามกับพวกเราใช่หรือไม่?
+Def-2160_9_2,"I'm just the messenger, I don't want to get involved in your sect affairs.",ข้าเป็นเพียงผู้ส่งสารเท่านั้น ข้าไม่อยากมีส่วนเกี่ยวข้องกับเรื่องราวภายในสำนักของท่าน
+Def-2160_9_3,"Maybe you're a spy sent by the Jiuli Tribe, trying to probe Melody House under the guise of delivering a letter. Sisters, kick him out.",หรือว่าเจ้าจะเป็นสายลับของเผ่าจิ่วหลี่ ที่แฝงตัวมาสืบหาข้อมูลตำหนักบทเพลง ภายใต้หน้ากากผู้ส่งสาร พี่น้อง! ไล่เขาออกไปให้พ้น!
 Def-2160_10_1,"Get out of here, don't dirty the place of Melody House!",ออกไปซะ อย่าทำให้ตำหนักบทเพลงต้องสกปรก!
-Def-2160_11_1,"Don't make an enemy for Melody House. I'm just here to deliver a letter, don't force me to join forces with the Jiuli Tribe against you."
+Def-2160_11_1,"Don't make an enemy for Melody House. I'm just here to deliver a letter, don't force me to join forces with the Jiuli Tribe against you.",ข้าไม่มีเจตนาเป็นศัตรูกับตำหนักทเพลง ข้ามาที่นี่เพื่อส่งจดหมายตามหน้าที่เท่านั้น อย่าบีบบังคับให้ข้าต้องต่อสู้กับพวกท่าน!
 Def-2160_11_2,Hmph!
 M5014-2-3_1_1,"You audacious rebel, when will you surrender!",ไอ้กบฎชั่วช้า ไม่คิดยอมแพ้อีกรึ!
 M5014-2-3_1_2,"It seems that the guard of West Border Patrol has called for reinforcements, they are more confident now.",ดูเหมือนว่าทหารของด่านชายแดนตะวันตกได้เรียกกำลังเสริมแล้ว ตอนนี้พวกเขามั่นใจมากขึ้นแล้ว
@@ -8916,7 +8916,7 @@ XYSH-4_3_8,Great idea! This will save a lot of trouble.,อย่างนี้
 XYSH-4_3_9,"Let me make it clear in advance, Chai Wang wants half of the things in this Divine Ox Treasury!",ข้าขอชี้แจงล่วงหน้า อ๋องไฉ ต้องการครอบครองครึ่งหนึ่งของสิ่งของในคลังสมบัติเทพวัวนี้!
 XYSH-4_3_10,"Our Divine Flame Sect  has invested a lot of manpower and resources for this treasure, Chai Wang's appetite seems a bit too big.",นิกายไฟศักดิ์สิทธิ์ของเราได้ลงทุนกำลังคนและทรัพยากรไปมากกับสมบัตินี้ ดูเหมือนความกระหายอยากของอ๋องไฉ จะมีมากเกินควรไปหน่อย
 XYSH-4_3_11,"After the task is completed, I will teach you the Vedas Scripture. With your Intelligence, if you can combine the techniques of the scripture with your Holy Fire Skill, it will definitely help you break through the bottleneck and improve your skills rapidly!",หลังจากเสร็จสิ้นภารกิจแล้ว ข้าจะสอนคัมภีร์พระเวทแก่เจ้า ด้วยสติปัญญาของเจ้า หากสามารถรวมวิชาในคัมภีร์พระเวทให้เข้ากับทักษะไฟศักดิ์สิทธิ์ของเจ้าได้ มันจะช่วยให้เจ้าก้าวข้ามข้อจำกัดและเพิ่มพูนวรยุทธเจ้าได้อย่างก้าวกระโดด!
-XYSH-4_3_12,"If that's the case, I, as the sect leader, will personally ride a Horse to assist King Chai in obtaining the Divine Ox Treasury.",หากเป็นเช่นนั้น ข้าในฐานะผู้นำนิกายจะขวบม้าเป็นการส่วนตัวเพื่อไปช่วยเหลือ อ๋องไฉ ในการครอบครองคลังสมบัติเทพวัวนี้
+XYSH-4_3_12,"If that's the case, I, as the sect leader, will personally ride a Horse to assist King Chai in obtaining the Divine Ox Treasury.",หากเป็นเช่นนั้น ข้าในฐานะผู้นำนิกายจะขวบม้าเป็นการส่วนตัวเพื่อไปช่วยเหลืออ๋องไฉ ในการครอบครองคลังสมบัติเทพวัวนี้
 XYSH-4_3_13,"When you are ready to reveal the Divine Ox Treasury, don't forget to inform me.",เมื่อท่านพร้อมที่จะเปิดเผยคลังสมบัติเทพวัวแล้ว อย่าลืมแจ้งข้าด้วย
 XYSH-4_4_1,"Five days later, the Divine Flame Sect  publicly displayed the Divine Ox Treasury Treasure map, clearly marking the location of the Divine Ox Treasury. The treasure that had been buried for a hundred years finally reappeared.",ห้าวันหลังจากนิกายไฟศักดิ์สิทธิ์ได้แสดงแผนที่สมบัติคลังสมบัติเทพวัวต่อสาธารณะ ซึ่งระบุตำแหน่งของคลังสมบัติเทพวัวอย่างชัดเจน สมบัติที่ถูกฝังไว้เป็นเวลาร้อยปีก็ปรากฏขึ้นอีกครั้งในที่สุด
 XYSH-4_4_2,"Fang Xiaoian really revealed the Divine Ox Treasury, but it's unknown who will end up with this treasure.",ฟางเสี่ยวเทียนเปิดเผยสมบัติเทพวัวจริงๆ แต่ไม่รู้ว่าใครจะได้ครอบครองสมบัติชิ้นนี้
