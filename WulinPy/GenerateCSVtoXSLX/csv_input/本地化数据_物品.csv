@@ -665,7 +665,7 @@ ItemName_鲜笋包,Bamboo shoot bun,ซาลาเปาหน่อไม้
 ItemName_糖饼,Sweet cake,ขนมเปี๊ยะน้ำตาล
 ItemName_鸡肉饼,Chicken cake,ไก่ทอดก้อน
 ItemName_鲜肉包,Meat bun,ซาลาเปาเนื้อ
-ItemName_蛋黄酥,Egg yolk,เค้กไข่แดง
+ItemName_蛋黄酥,Egg yolk,ขนมเปี๊ยะไข่แดง
 ItemName_卤肉饭,Pork rice,ข้าวหมูตุ๋น
 ItemName_海鲜饭,Seafood rice,ข้าวแห้งทะเล
 ItemName_蛋炒饭,Omelette rice,ข้าวไข่เจียว
@@ -673,13 +673,13 @@ ItemName_杂馅饺子,Mixed dumpling,เกี๊ยวไส้รวม
 ItemName_咸肉粽,Bacon dumpling,บ๊ะจ่างไส้หมู
 ItemName_蜜枣粽,Candied apple dumpling,บ๊ะจ่างแอปเปิ้ลเชื่อม
 ItemName_清水粽,Plain dumpling,บ๊ะจ่างข้าว
-ItemName_如意凉糕,Rice cake,เค้กข้าว
-ItemName_莲蓉香饼,Lotus biscuit,เค้กเม็ดบัว
+ItemName_如意凉糕,Rice cake,ขนมเหลียงเกา
+ItemName_莲蓉香饼,Lotus biscuit,เซียงปิ่งไส้ลูกบัว
 ItemName_七巧点心,Seven Artifacts dessert,ขนมหวานเจ็ดศิลป์
 ItemName_碎金饭,Golden fried rice,ข้าวผัดเลิศรส
 ItemName_金玉满堂,Dish of Prosperity,ขนมหยกทองเต็มบ้าน
 ItemName_三鲜包,Three fresh buns,ซาลาเปาสามสดชื่น
-ItemName_芙蓉饼,Hibiscus cake,เค้กดอกชบา
+ItemName_芙蓉饼,Hibiscus cake,ขนมดอกชบา
 ItemName_八宝蒸糕,Eight treasure pudding,ขนมกล้วยสมบัติแปดประการ
 ItemName_罗汉斋,Buddha's delight,ความสุขของพระพุทธเจ้า
 ItemName_吉祥如意包,Big fortune,ถุงทรัพย์มงคล
@@ -781,7 +781,7 @@ ItemName_蜜饯姜片,Candied ginger,ขิงอบแห้ง
 ItemName_蜜饯李子,Candied plum,ลูกพลัมเชื่อม
 ItemName_梅子姜,Plum ginger,พลัมขิง
 ItemName_冰雪冷元子,Frozen snow,หิมะแช่แข็ง
-ItemName_雪花糕,Milk snow cake,เค้กนมหิมะ
+ItemName_雪花糕,Milk snow cake,ขนมนมหิมะ
 ItemName_糖糜乳糕浇,Custard,คัสตาร์ด
 ItemName_小浆果,Small berries,ผลไม้เล็กๆ
 ItemName_桑葚,Strawberry,สตรอเบอร์รี่
@@ -1343,7 +1343,7 @@ ItemName_悲欢指法,Bitter Joy Finger Technique,ดรรชนีระคน
 ItemName_撼天指法,Heaven Shaking Finger,ดรรชนีสะเทือนสวรรค์
 ItemName_如来大悲掌,Vairocana Kindness Palm,ฝ่ามือยูไลเปี่ยมการุณย์
 ItemName_如来神掌,Vairocana Godly Palm,ฝ่ามือยูไล
-ItemName_八极奔雷掌,Baji Quick Palm,ฝ่ามือแปดทิศอัสนี
+ItemName_八极奔雷掌,Baji Quick Palm,ฝ่ามืออัสนีแปดทิศ
 ItemName_灭天掌,Sky Destroyer Palm,ฝ่ามือทำลายสวรรค์
 ItemName_紫薇惊龙掌,Dragon King Palm,ฝ่ามือราชันมังกร
 ItemName_烈阳拳,Solar Fist,หมัดสุรีย์ผลาญ
@@ -1381,9 +1381,9 @@ ItemName_无锋剑法,Windless Sword,เพลงกระบี่ไร้ค�
 ItemName_求败九式,Dugu Nine Swords,เก้ากระบี่เดียวดาย
 ItemName_破天剑法,Sky Breaker Sword,เพลงกระบี่ทลายฟ้า
 ItemName_磐龙剑法,Dragon Sword,เพลงกระบี่มังกร
-ItemName_无极剑法,Infinity Sword,เพลงกระบี่ไร้สิ้นสุด
+ItemName_无极剑法,Infinity Sword,เพลงกระบี่ไร้ขอบเขต
 ItemName_无名剑法,Nameless Sword,เพลงกระบี่ไร้นาม
-ItemName_浮华掠影剑,Illusion Sword,กระบี่เงาลวง
+ItemName_浮华掠影剑,Illusion Sword,เพลงกระบี่มายาลวง
 ItemName_地趟刀法,Earth Blade,ดาบพสุธา
 ItemName_伏虎刀法,Tiger Taming Blade,ดาบปราบพยัคฆ์
 ItemName_三才刀法,Trinity Blade,ดาบสามสะท้าน
@@ -1889,7 +1889,7 @@ ItemName_花椒饼食谱,Pan Cake Recipe,ตำราอาหาร - แป้
 ItemName_饭团食谱,Rice Ball Recipe,ตำราอาหาร - ข้าวปั้น
 ItemName_米饭食谱,Rice Recipe,ตำราอาหาร - ข้าว
 ItemName_鸡蛋饼食谱,Egg Cake Recipe,ตำราอาหาร - ไข่เจียว
-ItemName_杂粮饼食谱,Grain Cake Recipe,ตำราอาหาร - เค้กธัญพืช
+ItemName_杂粮饼食谱,Grain Cake Recipe,ตำราอาหาร - แป้งทอดธัญพืช
 ItemName_一言难尽的面食食谱,Unspeakable Noodle Recipe,ตำราอาหาร - เมี่ยนสือ
 ItemName_菠菜面食谱,Spinach Noodle Recipe,ตำราอาหาร - บะหมี่ผักโขม
 ItemName_鸡丝面食谱,Chicken Noodle Recipe,ตำราอาหาร - ก๋วยเตี๋ยวไก่
@@ -1903,18 +1903,18 @@ ItemName_鲜笋包食谱,Bamboo Shoot Bun Recipe,ตำราอาหาร - �
 ItemName_糖饼食谱,Sweet Cake Recipe,ตำราอาหาร - ขนมเปี๊ยะน้ำตาล
 ItemName_鸡肉饼食谱,Chicken Cake Recipe,ตำราอาหาร - ไก่ทอดก้อน
 ItemName_鲜肉包食谱,Meat Bun Recipe,ตำราอาหาร - ซาลาเปาเนื้อ
-ItemName_蛋黄酥食谱,Egg Yolk Recipe,ตำราอาหาร - เค้กไข่แดง
+ItemName_蛋黄酥食谱,Egg Yolk Recipe,ตำราอาหาร - ขนมเปี๊ยะไข่แดง
 ItemName_卤肉饭食谱,Pork Rice Recipe,ตำราอาหาร - ข้าวหมูตุ๋น
 ItemName_海鲜饭食谱,Seafood Rice Recipe,ตำราอาหาร - ข้าวแห้งทะเล
 ItemName_蛋炒饭食谱,Omelette Rice Recipe,ตำราอาหาร - ข้าวไข่เจียว
 ItemName_杂馅饺子食谱,Mixed Dumpling Recipe,ตำราอาหาร - เกี๊ยวไส้รวม
-ItemName_如意凉糕食谱,Rice Cake Recipe,ตำราอาหาร - เค้กข้าว
-ItemName_莲蓉香饼食谱,Lotus Biscuit Recipe,ตำราอาหาร - เค้กเม็ดบัว
+ItemName_如意凉糕食谱,Rice Cake Recipe,ตำราอาหาร - ขนมเหลียงเกา
+ItemName_莲蓉香饼食谱,Lotus Biscuit Recipe,ตำราอาหาร - เซียงปิ่งไส้ลูกบัว
 ItemName_七巧点心食谱,Seven Artifacts Dessert Recipe,ตำราอาหาร - ขนมหวานเจ็ดศิลป์
 ItemName_碎金饭食谱,Golden Fried Rice Recipe,ตำราอาหาร - ข้าวผัดเลิศรส
 ItemName_金玉满堂食谱,Dish of Prosperity Recipe,ตำราอาหาร - ขนมหยกทองเต็มบ้าน
 ItemName_三鲜包食谱,Three Fresh Buns Recipe,ตำราอาหาร - ซาลาเปาสามสดชื่น
-ItemName_芙蓉饼食谱,Hibiscus Cake Recipe,ตำราอาหาร - เค้กดอกชบา
+ItemName_芙蓉饼食谱,Hibiscus Cake Recipe,ตำราอาหาร - ขนมดอกชบา
 ItemName_八宝蒸糕食谱,Eight Treasure Pudding Recipe,ตำราอาหาร - ขนมกล้วยสมบัติแปดประการ
 ItemName_罗汉斋食谱,Buddha's Delight Recipe,ตำราอาหาร - ความสุขของพระพุทธเจ้า
 ItemName_吉祥如意包食谱,Big Fortune Recipe,ตำราอาหาร - ถุงทรัพย์มงคล
@@ -2015,7 +2015,7 @@ ItemName_蜜饯姜片食谱,Candied Ginger Recipe,ตำราอาหาร - 
 ItemName_蜜饯李子食谱,Candied Plum Recipe,ตำราอาหาร - ลูกพลัมเชื่อม
 ItemName_梅子姜食谱,Plum Ginger Recipe,ตำราอาหาร - พลัมขิง
 ItemName_冰雪冷元子食谱,Frozen Snow Recipe,ตำราอาหาร - หิมะแช่แข็ง
-ItemName_雪花糕食谱,Milk Snow Cake Recipe,ตำราอาหาร - เค้กนมหิมะ
+ItemName_雪花糕食谱,Milk Snow Cake Recipe,ตำราอาหาร - ขนมนมหิมะ
 ItemName_糖糜乳糕浇食谱,Custard Recipe,ตำราอาหาร - คัสตาร์ด
 ItemName_跌打药药方,Healing Powder Prescription,ใบสั่งยา - ยาผงสมานแผล
 ItemName_行气散药方,Energy Powder Prescription,ใบสั่งยา - ยาผงฟื้นฟูปราณ
@@ -3609,7 +3609,7 @@ ItemInfo_基础衣服图纸,"A beginner's blueprint for crafting armor, which ca
 ItemInfo_基础采集工具图纸,"A blueprint for making common gathering tools, which can be used to make <#29F161>NormalGatheringTools</color>.",แบบแปลนสำหรับผู้เริ่มต้นการหลอมเครื่องมือ ซึ่งสามารถใช้เพื่อหลอม <#29F161>เครื่องมือธรรมดา</color> บางส่วนได้
 ItemInfo_家常主食图纸1,"A beginner's recipe for cooking main dishes, which can be used to cook <#29F161>Steamed bun</color>, <#29F161>Painting</color>, <#29F161>Veggie strudel</color>.","ตำราอาหารสำหรับผู้ฝึกหัดในการทำอาหารจานหลัก ซึ่งสามารถใช้ในการปรุง <#29F161>ซาลาเปานึ่ง</color>, <#29F161>ภาพวาด</color>, <#29F161>ผัดผัก</color>"
 ItemInfo_家常主食图纸2,"A beginner's recipe for cooking main dishes, which can be used to cook <#29F161>Fritter</color>, <#29F161>Vegan noodle</color>, <#29F161>Pan cake</color>.","ตำราอาหารสำหรับผู้ฝึกหัดในการทำอาหารจานหลัก ซึ่งสามารถใช้ในการปรุง <#29F161>แป้งทอดแท่ง</color>, <#29F161>บะหมี่ผัก</color>, <#29F161>แป้งทอด</color>."
-ItemInfo_家常主食图纸3,"A beginner's recipe for cooking main dishes, which can be used to cook <#29F161>Rice ball</color>, <#29F161>Rice</color>, <#29F161>Egg cake</color>.","ตำราอาหารสำหรับผู้ฝึกหัดในการทำอาหารจานหลัก ซึ่งสามารถใช้ในการปรุง <#29F161>ข้าวปั้น</color>, <#29F161>ข้าว</color>, <#29F161>เค้กไข่</color>."
+ItemInfo_家常主食图纸3,"A beginner's recipe for cooking main dishes, which can be used to cook <#29F161>Rice ball</color>, <#29F161>Rice</color>, <#29F161>Egg cake</color>.","ตำราอาหารสำหรับผู้ฝึกหัดในการทำอาหารจานหลัก ซึ่งสามารถใช้ในการปรุง <#29F161>ข้าวปั้น</color>, <#29F161>ข้าว</color>, <#29F161>ไข่เจียว</color>."
 ItemInfo_家常菜肴图纸1,"A beginner's recipe for cooking side dishes, which can be used to cook <#29F161>Homemade tofu</color>, <#29F161>Braised tofu</color>, <#29F161>Boiled egg</color>, <#29F161>Poached egg</color>.","ตำราอาหารสำหรับผู้ฝึกหัดในการทำอาหารเครื่องเคียง ซึ่งสามารถใช้ในการปรุง <#29F161>เต้าหู้ทรงเครื่อง</color>, <#29F161>เต้าหู้ตุ๋น</color>, <#29F161>ไข่ต้ม</color>, <#29F161>ไข่ดาวน้ำ</color>"
 ItemInfo_家常菜肴图纸2,"A beginner's recipe for cooking side dishes, which can be used to cook <#29F161>Fried broad beans</color>, <#29F161>Fried rice</color>, <#29F161>Oiled noodle</color>, <#29F161>Potato soup</color>.","ตำราอาหารสำหรับผู้ฝึกหัดในการทำอาหารเครื่องเคียง ซึ่งสามารถใช้ในการปรุง <#29F161>ถั่วปากอ้าทอด</color>, <#29F161>ข้าวผัด</color>, <#29F161>บะหมี่ผัดน้ำมัน</color>, <#29F161>ซุปมันฝรั่ง</color>"
 ItemInfo_家常菜肴图纸3,"A beginner's recipe for cooking barbecue, which can be used to cook <#29F161>Roasted chicken leg</color>, <#29F161>Roasted potato</color>, <#29F161>Grilled fish</color>, <#29F161>Kebab</color>, <#29F161>Grilled mushroom</color>, <#29F161>Roasted cabbage</color>, <#29F161>Roasted vegetables</color>.","ตำราอาหารสำหรับผู้ฝึกหัดในการทำอาหารเครื่องเคียง ซึ่งสามารถใช้ในการปรุง <#29F161>น่องไก่ย่าง</color>, <#29F161>มันฝรั่งอบ</color>, <#29F161>ปลาย่าง</color>, <#29F161>เคบับ</color>, <#29F161>เห็ดย่าง</color>, <#29F161>กะหล่ำปลีย่าง</color>, <#29F161>ผักอบ</color>."
@@ -3888,18 +3888,18 @@ ItemInfo_鲜笋包食谱,"After use, you can cook <#00c6f3>Bamboo shoot bun</col
 ItemInfo_糖饼食谱,"After use, you can cook <#00c6f3>Sweet cake</color>.",หลังจากใช้ เจ้าสามารถปรุง <#00c6f3>ขนมเปี๊ยะน้ำตาล</color>
 ItemInfo_鸡肉饼食谱,"After use, you can cook <#00c6f3>Chicken cake</color>.",หลังจากใช้ เจ้าสามารถปรุง <#00c6f3>ไก่ทอดก้อน</color>
 ItemInfo_鲜肉包食谱,"After use, you can cook <#00c6f3>Meat bun</color>.","หลังจากใช้, เจ้าสามารถปรุงอาหาร <#00c6f3>ซาลาเปาเนื้อ</color>"
-ItemInfo_蛋黄酥食谱,"After use, you can cook <#00c6f3>Egg yolk</color>.","หลังจากใช้, เจ้าสามารถปรุงอาหาร <#00c6f3>เค้กไข่แดง</color>"
+ItemInfo_蛋黄酥食谱,"After use, you can cook <#00c6f3>Egg yolk</color>.","หลังจากใช้, เจ้าสามารถปรุงอาหาร <#00c6f3>ขนมเปี๊ยะไข่แดง</color>"
 ItemInfo_卤肉饭食谱,"After use, you can cook <#00c6f3>Pork rice</color>.",หลังจากใช้ เจ้าสามารถปรุง <#00c6f3>ข้าวหมูตุ๋น</color>
 ItemInfo_海鲜饭食谱,"After use, you can cook <#00c6f3>Seafood rice</color>.",หลังจากใช้ เจ้าสามารถปรุง <#00c6f3>ข้าวแห้งทะเล</color>
 ItemInfo_蛋炒饭食谱,"After use, you can cook <#00c6f3>Omelette rice</color>.",หลังจากใช้ เจ้าสามารถปรุง <#00c6f3>ข้าวไข่เจียว</color>
 ItemInfo_杂馅饺子食谱,"After use, you can cook <#00c6f3>Mixed dumpling</color>.","หลังจากใช้, เจ้าสามารถปรุงอาหาร <#00c6f3>เกี๊ยวไส้รวม</color>"
-ItemInfo_如意凉糕食谱,"After use, you can cook <#c851ff>Rice cake</color>.",หลังจากใช้ เจ้าสามารถปรุง <#c851ff>เค้กข้าว</color>
-ItemInfo_莲蓉香饼食谱,"After use, you can cook <#c851ff>Lotus biscuit</color>.","หลังจากใช้, เจ้าสามารถปรุง <#c851ff>เค้กเม็ดบัว</color>"
+ItemInfo_如意凉糕食谱,"After use, you can cook <#c851ff>Rice cake</color>.",หลังจากใช้ เจ้าสามารถปรุง <#c851ff>ขนมเหลียงเกา</color>
+ItemInfo_莲蓉香饼食谱,"After use, you can cook <#c851ff>Lotus biscuit</color>.","หลังจากใช้, เจ้าสามารถปรุง <#c851ff>เซียงปิ่งไส้ลูกบัว</color>"
 ItemInfo_七巧点心食谱,"After use, you can cook <#c851ff>Seven Artifacts dessert</color>.","หลังจากใช้, เจ้าสามารถปรุงอาหาร <#c851ff>ขนมหวานเจ็ดศิลป์</color>"
 ItemInfo_碎金饭食谱,"After use, you can cook <#c851ff>Golden fried rice</color>.",หลังจากใช้ เจ้าสามารถปรุง <#c851ff>ข้าวผัดเลิศรส</color>
 ItemInfo_金玉满堂食谱,"After use, you can cook <#d09a09>Dish of Prosperity</color>.","หลังจากใช้, เจ้าสามารถปรุงอาหาร <#d09a09>ขนมหยกทองเต็มบ้าน</color>"
 ItemInfo_三鲜包食谱,"After use, you can cook <#d09a09>Three fresh buns</color>.","หลังจากใช้, เจ้าสามารถปรุงอาหาร <#d09a09>ซาลาเปาสามสดชื่น</color>"
-ItemInfo_芙蓉饼食谱,"After use, you can cook <#d09a09>Hibiscus cake</color>.","หลังจากใช้, เจ้าสามารถปรุงอาหาร <#d09a09>เค้กดอกชบา</color>"
+ItemInfo_芙蓉饼食谱,"After use, you can cook <#d09a09>Hibiscus cake</color>.","หลังจากใช้, เจ้าสามารถปรุงอาหาร <#d09a09>ขนมดอกชบา</color>"
 ItemInfo_八宝蒸糕食谱,"After use, you can cook <#d09a09>Eight treasure pudding</color>.",หลังจากใช้ เจ้าสามารถปรุง <#d09a09>ขนมกล้วยสมบัติแปดประการ</color>
 ItemInfo_罗汉斋食谱,"After use, you can cook <#d09a09>Buddha's delight</color>.","หลังจากใช้, เจ้าสามารถปรุงอาหาร <#d09a09>ความสุขของพระพุทธเจ้า</color>"
 ItemInfo_吉祥如意包食谱,"After use, you can cook <#d09a09>Big fortune</color>.","หลังจากใช้, เจ้าสามารถปรุงอาหาร <#d09a09>ถุงทรัพย์มงคล</color>"
@@ -4000,7 +4000,7 @@ ItemInfo_蜜饯姜片食谱,"After use, you can cook <#00c6f3>Candied ginger</co
 ItemInfo_蜜饯李子食谱,"After use, you can cook <#00c6f3>Candied plum</color>.","หลังจากใช้, เจ้าสามารถปรุงอาหาร <#00c6f3>ลูกพลัมเชื่อม</color>"
 ItemInfo_梅子姜食谱,"After use, you can cook <#00c6f3>Plum ginger</color>.","หลังจากใช้, เจ้าสามารถปรุงอาหาร <#00c6f3>พลัมขิง</color>"
 ItemInfo_冰雪冷元子食谱,"After use, you can cook <#c851ff>Frozen snow</color>.","หลังจากใช้, เจ้าสามารถปรุงอาหาร <#c851ff>หิมะแช่แข็ง</color>"
-ItemInfo_雪花糕食谱,"After use, you can cook <#c851ff>Milk snow cake</color>.","หลังจากใช้, เจ้าสามารถปรุงอาหาร <#c851ff>เค้กนมหิมะ</color>"
+ItemInfo_雪花糕食谱,"After use, you can cook <#c851ff>Milk snow cake</color>.","หลังจากใช้, เจ้าสามารถปรุงอาหาร <#c851ff>ขนมนมหิมะ</color>"
 ItemInfo_糖糜乳糕浇食谱,"After use, you can cook <#c851ff>Custard</color>.",หลังจากใช้ เจ้าสามารถปรุง <#c851ff>คัสตาร์ด</color>
 ItemInfo_跌打药药方,"After use, you can refine <#68cf24>Healing powder</color>.","หลังการใช้, งานเจ้าสามารถปรุงยา <#68cf24>ยาผงสมานแผล</color>"
 ItemInfo_行气散药方,"After use, you can refine <#68cf24>Energy powder</color>.","หลังการใช้, งานเจ้าสามารถปรุงยา <#68cf24>ยาผงฟื้นฟูปราณ</color>"

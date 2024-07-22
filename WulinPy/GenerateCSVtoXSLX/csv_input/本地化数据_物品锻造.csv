@@ -210,7 +210,7 @@ ForgeEffect_铁虎爪1,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน<
 ForgeEffect_奔雷铁手1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
 ForgeEffect_幽冥拳套1,<#EFD09F>Poison</color>,<#EFD09F>พิษ</color>
 ForgeEffect_金刚护手1,<#EFD09F>Bloodlust</color>,<#EFD09F>กระหายเลือด</color>
-ForgeEffect_乾坤3,<#EFD09F>Disable Technique</color>,<#EFD09F>ทำลายวิชา</color>
+ForgeEffect_乾坤3,<#EFD09F>Disable Technique</color>,<#EFD09F>ทำลายวรยุทธ</color>
 ForgeEffect_九阳1,<#EFD09F>Fist Aura</color>,<#EFD09F>รัศมีหมัด</color>
 ForgeEffect_九阳2,<#EFD09F>Berserk</color>,<#EFD09F>บ้าคลั่ง</color>
 ForgeEffect_九阳3,<#EFD09F>Energy Abundance</color>,<#EFD09F>พลังงานล้นเหลือ</color>
@@ -345,7 +345,7 @@ ForgeEffect_太虚1,<#EFD09F>Disarm</color>,<#EFD09F>ปลดอาวุธ</c
 ForgeEffect_太虚2,<#EFD09F>Meridian Break</color>,<#EFD09F>เส้นลมปราณติดขัด</color>
 ForgeEffect_玄黄1,<#EFD09F>Damage Up</color>,<#EFD09F>เพิ่มความเสียหาย</color>
 ForgeEffect_玄黄2,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
-ForgeEffect_洪荒1,<#EFD09F>Disable Technique</color>,<#EFD09F>ทำลายวิชา</color>
+ForgeEffect_洪荒1,<#EFD09F>Disable Technique</color>,<#EFD09F>ทำลายวรยุทธ</color>
 ForgeEffect_洪荒2,<#EFD09F>Internal Break</color>,<#EFD09F>กำลังภายในติดขัด</color>
 ForgeEffect_响泉琴1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
 ForgeEffect_七弦1,<#EFD09F>Impact</color>,<#EFD09F>กระแทก</color>
@@ -457,7 +457,7 @@ BuffPropPair_铁虎爪1,"When attacking, reduce the enemy's <#FE2929>{铁虎爪1
 BuffPropPair_奔雷铁手1,"When attacking, <#29F161>final damage increases by {奔雷铁手1多效果1%}</color>.",เมื่อโจมตี <#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น {奔雷铁手1多效果1%}</color>.
 BuffPropPair_幽冥拳套1,"When attacking, inflict <#FE2929>{幽冥拳套1多效果1} points of poison</color> on the enemy.",เมื่อโจมตี สร้างสถานะ <#FE2929>พิษ {幽冥拳套1多效果1} แต้ม</color> แก่ศัตรู
 BuffPropPair_金刚护手1,"When attacking the enemy, gain an additional <#29F161>{金刚护手1多效果1} points of spirit</color> for yourself.",เมื่อโจมตีศัตรู จะได้รับพลังใจเพิ่มเติม <#29F161>พลังใจ {金刚护手1多效果1} แต้ม </color> สำหรับตัวเอง
-BuffPropPair_乾坤3,There is a <#29F161>{乾坤3多效果1%}</color> chance to trigger <#FE2929>Disable technique</color> effect when attacking.,มีโอกาส <#29F161>{乾坤3多效果1%}</color> ที่จะทำให้เกิดสถานะ <#FE2929>ทำลายวิชา</color> เมื่อโจมตี
+BuffPropPair_乾坤3,There is a <#29F161>{乾坤3多效果1%}</color> chance to trigger <#FE2929>Disable technique</color> effect when attacking.,มีโอกาส <#29F161>{乾坤3多效果1%}</color> ที่จะทำให้เกิดสถานะ <#FE2929>ทำลายวรยุทธ</color> เมื่อโจมตี
 BuffPropPair_九阳1,"When the enemy triggers Parry or Evasion during an attack, reduce the enemy's <#FE2929>{九阳1多效果1} points of Qi gathering</color>.","เมื่อศัตรูใช้ปัดป้องหรือหลบหลีกในระหว่างการโจมตี, ลด <#FE2929>{九阳1多效果1} ปราณเคลื่อนที่</color> ของศัตรูลง"
 BuffPropPair_九阳2,"Trigger Critical when attacking, <#29F161>Critical Increases Damage{九阳2多效果1%}</color>.",เมื่อโจมตีคริติคอล <#29F161>เพิ่มความเสียหายคริติคอล{九阳2多效果1%}</color>
 BuffPropPair_九阳3,"When the attack is external, for every additional 50 points of Spirit, <#29F161>Final Increases Damage{九阳3多效果1%}</color>.",เมื่อโจมตีเป็นการโจมตีภายนอก ทุกๆ 50 แต้มของพลังใจเพิ่มเติม <#29F161>เพิ่มความเสียหายสุดท้าย{九阳3多效果1%}</color>
@@ -592,7 +592,7 @@ BuffPropPair_太虚1,"When performing a Side attack on the enemy, there is a {�
 BuffPropPair_太虚2,"During an attack, inflict <#FE2929>{太虚2多效果1} points of Sealed on the enemy</color>.",ระหว่างโจมตี สร้างสถานะ <#FE2929>สกัดจุด {太虚2多效果1} แต้ม</color> แก่ศัตรู
 BuffPropPair_玄黄1,"During an attack, <#29F161>damage is additionally increased by {玄黄1多效果1%}</color>.",ระหว่างโจมตี <#29F161>ความเสียหายเพิ่มขึ้น {玄黄1多效果1%}</color>.
 BuffPropPair_玄黄2,"During an attack, reduce the enemy's <#FE2929>{玄黄2多效果1} points of Qi gathering</color>.",ระหว่างโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ของศัตรูลง {玄黄2多效果1} แต้ม</color>
-BuffPropPair_洪荒1,"During an attack, there is a <#29F161>{洪荒1多效果1%}</color> chance to trigger a <#FE2929>Disable technique</color> effect.","ในระหว่างโจมตี, มีโอกาส <#29F161>{洪荒1多效果1%}</color> ที่จะทำให้เกิดสถานะ <#FE2929>ทำลายวิชา</color>"
+BuffPropPair_洪荒1,"During an attack, there is a <#29F161>{洪荒1多效果1%}</color> chance to trigger a <#FE2929>Disable technique</color> effect.","ในระหว่างโจมตี, มีโอกาส <#29F161>{洪荒1多效果1%}</color> ที่จะทำให้เกิดสถานะ <#FE2929>ทำลายวรยุทธ</color>"
 BuffPropPair_洪荒2,"During an attack, there is a <#29F161>{洪荒2多效果1%}</color> chance to trigger a <#FE2929>Internal break</color> effect.",ในระหว่างโจมตี มีโอกาส <#29F161>{洪荒2多效果1%}</color> ที่จะทำให้เกิดสถานะ <#FE2929>กำลังภายในติดขัด</color>
 BuffPropPair_响泉琴1,"During an attack, <#29F161>finally increases damage by {响泉琴1多效果1%}</color>.",ระหว่างโจมตี <#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น {响泉琴1多效果1%}</color>.
 BuffPropPair_七弦1,"During an attack, inflict <#FE2929>{七弦1多效果1} points of Internal Injury on the enemy</color>.",ระหว่างโจมตี สร้างสถานะ <#FE2929>บาดเจ็บภายใน {七弦1多效果1} แต้ม</color> แก่ศัตรู

@@ -42,7 +42,7 @@ CharaName_萎靡不振的年轻人,Depressed young man,ชายหนุ่ม�
 CharaName_霸气外露的老者,Domineering elder,ชายชราผู้เปี่ยมไปด้วยเสน่ห์ดึงดูด
 CharaName_不善言辞的剑客,Unspoken swordsman,มือกระบี่เงียบขรึม
 CharaName_英姿飒爽的女子,Valiant woman,สตรีผู้ห้าวหาญ
-CharaName_开朗豪放的剑客,Cheerful and unrestrained swordsman,นักดาบที่ร่าเริงและไร้การควบคุม
+CharaName_开朗豪放的剑客,Cheerful and unrestrained swordsman,นักดาบที่ร่าเริงและบ้าคลั่ง
 CharaName_沉默寡言的武士,Silent and taciturn warrior,นักรบผู้เงียบงันและเงียบขรึม
 CharaName_阴恻狞笑的武士,Gloomy and grinning warrior,นักรบที่มืดมนและยิ้มแย้ม
 CharaName_柔情似水的女子,Gentle and caring woman,หญิงสาวที่สุภาพอ่อนโยน
@@ -79,7 +79,7 @@ CharaName_满脸狞笑的壮汉,Grinning strong man,บุรุษท่าท�
 CharaName_冷峻严肃的中年人,Stern and serious middle-aged man,ชายวัยกลางคนท่าทางเข้มงวดจริงจัง
 CharaName_俊秀的年轻捕头,Handsome young constable,มือปราบหนุ่มรูปงาม
 CharaName_俊秀飘逸的年轻人,Handsome and elegant young man,ชายหนุ่มหน้าตาหล่อเหลาสูงส่ง
-CharaName_豪放不羁的剑客,Unrestrained swordsman,นักดาบผู้กล้าหาญและไร้ขีดจำกัด
+CharaName_豪放不羁的剑客,Unrestrained swordsman,นักดาบไร้ขอบเขต
 CharaName_老态龙钟的婆婆,Doddering granny,ยายเฒ่าขาสั่น
 CharaName_温柔典雅的女子,Gentle and elegant woman,ผู้หญิงที่อ่อนโยนและสง่างาม
 CharaName_其貌不扬的伙计,Ugly attendant,เสี่ยวเอ้อหน้าอุบาทว์
@@ -88,7 +88,7 @@ CharaName_清冷的蒙面女子,Cold masked woman,สตรีคลุมหน
 CharaName_长相凶横的大汉,Fierce-looking man,ชายหน้าตาดุดัน
 CharaName_性感豪放的女子,Sexy and unrestrained woman,สตรีงามสะคราญ ไร้ซึ่งพันธนาการ
 CharaName_憔悴的囚服老者,Emaciated old man in prison uniform,ชายชราซีดเซียวในชุดนักโทษ
-CharaName_彪悍的中年人,Fierce middle-aged man,ชายวันกลางคนท่าทางดุร้าย
+CharaName_彪悍的中年人,Fierce middle-aged man,ชายวัยกลางคนท่าทางดุร้าย
 CharaName_疲惫的中年人,Tired middle-aged man,ชายวัยกลางคนที่ดูอ่อนล้า
 CharaName_勤劳的中年人,Hardworking middle-aged man,ชายวัยกลางคนพากเพียร
 CharaName_玩世不恭的少年,Cynical youth,วัยรุ่นขี้สงสัย
@@ -334,7 +334,7 @@ CharaName_茶博士,Tea Doctor,หมอชา
 CharaName_山贼,Mountain Bandit,โจรภูเขา
 CharaName_黄米豆沙粽,Yellow Rice and Red Bean Zongzi,บ๊ะจ่างข้าวเหลือง และถั่วแดง
 CharaName_腊肉香肠粽,Cured Meat Sausage Zongzi,บ๊ะจ่างไส้กรอกเนื้อ
-CharaName_莲藕凉糕粽,Lotus Root Cold Cake Zongzi,บ๊ะจ่างเค้กรากบัวเย็น
+CharaName_莲藕凉糕粽,Lotus Root Cold Cake Zongzi,บ๊ะจ่างแป้งรากบัวเย็น
 CharaName_椒盐豌豆粽,Salt and Pepper Pea Zongzi,บ๊ะจ่างถั่วพริกเกลือ
 CharaName_端午郎君,Dragon Boat Festival Lord,เจ้าแห่งเทศกาลไหว้บ๊ะจ่าง
 CharaName_武僧,Martial Monk,หลวงจีนนักสู้
@@ -467,7 +467,7 @@ CharaName_看热闹的闲汉,Busybody,คนยุ่ง
 CharaName_商人·甲,Merchant·A,พ่อค้า เจี่ย
 CharaName_商人·乙,Merchant·B,พ่อค้า ข.
 CharaName_破戒的和尚,Oathsbreak Monk,หลวงจีนสัตย์ปฏิญาณ
-CharaName_还俗的道士,Secular Taoist,นักพรตฆราวาส
+CharaName_还俗的道士,Secular Taoist,ผู้แสวงหาวิถีเต๋า
 CharaName_沉默的武人,Silent Warrior,นักรบไร้เสียง
 CharaName_嚣张的武人,Arrogant Warrior,นักรบเย่อหยิ่ง
 CharaName_博学的书生,Learned Scholar,ปราชญ์ผู้รอบรู้
@@ -681,7 +681,7 @@ CharaName_兵痞,Army Riffraff,กองทัพขอทาน
 CharaName_周玉汤,Zhou Yutang,โจวหยูถัง
 CharaName_孙三娘,Sun Sanniang,ซุนซานเหนียง
 CharaName_陆仁贾,Lu Renjia,หลู่เหรินเจีย
-CharaName_自信的刀客,Confident Swordsman,มือกระบี่เปี่ยมความมั่นใจ
+CharaName_自信的刀客,Confident Swordsman,มือกระบี่ผู้มั่นใจ
 CharaName_白面书生,White-faced Scholar,บัณฑิตหน้าขาว
 CharaName_火凤凰,Fire Phoenix,หงส์เพลิง
 CharaName_齐钰,Qi Yu,ฉีหยู
@@ -1104,7 +1104,7 @@ CharaName_老驼背,Old Hunchback,ตาแก่หลังค่อม
 CharaName_严如蕊,Yan Rurui,เหยียนรุรุย
 CharaName_替身·,Stand in·,ตัวแทน
 CharaName_寡言的独眼汉子,A taciturn one-eyed man,ชายตาเดียวผู้เงียบขรึม
-CharaName_傲慢冷酷的刀客,An arrogant and cold swordsman,มือกระบี่ที่หยิ่งผยองและเย็นชา
+CharaName_傲慢冷酷的刀客,An arrogant and cold swordsman,มือกระบี่ผู้เย่อหยิ่งและเย็นชา
 CharaName_俊秀飘逸的剑客,A handsome and elegant swordsman,มือกระบี่ที่หล่อเหลาและสง่างาม
 CharaName_冷艳性感的女子,Emotionless Girl,แม่นางที่ไร้ความรู้สึก
 CharaName_面容狰狞的汉子,Scary Man,ชายที่มีใบหน้าดุร้าย
@@ -1167,7 +1167,7 @@ CharaTitle_玉门关,Jade Gate,ด่านประตูหยก
 CharaTitle_爆竹匠人,Firecracker craftsman,ช่างทำพลุ
 CharaName_锦阳关,Jin Yang Gate,ประตูจินหยาง
 CharaName_徐老六,Xu Laolu,ซูเหล่าลิ่ว
-CharaName_慎先生,Master Shen,ปรมาจารย์เสิน
+CharaName_慎先生,Master Shen,อาจารย์เสิ่น
 CharaName_庄主,Manor Lord,เจ้าหมู่ตึก
 CharaName_木牛,Wooden Cow,วัวไม้
 CharaName_孙行者,Sun Yogin,ซุนเห้งเจีย

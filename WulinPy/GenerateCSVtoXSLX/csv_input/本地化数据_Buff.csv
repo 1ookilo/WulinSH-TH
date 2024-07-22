@@ -909,7 +909,7 @@ BuffInfo_伙伴特征繁华楼主,"Action Speed increases, the fewer characters 
 BuffInfo_伙伴特征妙手空空2,"Each time you Attack and hit the enemy, steal 1% of their gold, up to 50 coins per target per time.",ทุกครั้งที่โจมตีโดนศัตรู จะขโมยเงิน 1% ของศัตรู สูงสุดที่ 50 อีแปะต่อครั้งต่อเป้าหมาย
 BuffInfo_伙伴特征好事成双,25% chance to drop an extra item when killing an enemy.,มีโอกาส 25% ที่จะได้รับสิ่งของเพิ่มขึ้นจากการสังหารศัตรู
 BuffInfo_伙伴特征踏雪无痕,"<#29F161>Qinggong increases by 20 points, Action Speed increases by 20%</color>.",<#29F161>วิชาตัวเบาเพิ่มขึ้น 20 ความเร็วท่าร่างเพิ่มขึ้น 20%</color>
-BuffInfo_伙伴特征释家传人,"Immune to Charm, Disable technique, Internal break, Broken bone, Cut tendon, Vulnerable during combat.","ทำให้สถานะ ลุ่มหลง, ทำลายวิชา, กำลังภายในติดขัด, กระดูกหัก, เอ็นเท้าขาด, เปราะบาง ไร้ผล"
+BuffInfo_伙伴特征释家传人,"Immune to Charm, Disable technique, Internal break, Broken bone, Cut tendon, Vulnerable during combat.","ทำให้สถานะ ลุ่มหลง, ทำลายวรยุทธ, กำลังภายในติดขัด, กระดูกหัก, เอ็นเท้าขาด, เปราะบาง ไร้ผล"
 BuffInfo_伙伴特征所向披靡2,"When HP is full, Attack will definitely hit the target and definitely cause a Critical.",เมื่อพลังชีวิตเต็ม การโจมตีจะโดนศัตรูและติดคริติคอลแน่นอน
 BuffInfo_伙伴特征杀意腾腾,"After each Attack, <#29F161>damage increases by 10%</color>, up to a maximum of 100% increase per battle.",หลังจากโจมตี <#29F161>สร้างความเสียหายเพิ่มขึ้น 10%</color> สูงสุดที่ 100% ต่อการต่อสู้
 BuffInfo_伙伴特征战意昂扬,Spirit gain <#29F161>increases by an additional 100%</color>.,ได้รับพลังใจ <#29F161>เพิ่มขึ้นอีก 100%</color>
@@ -1011,7 +1011,7 @@ BuffInfo_昆仑buff2,"During Attack, reduce the enemy's <#FE2929>energy by 75 po
 BuffInfo_降龙buff1,"Trigger critical hit when attacking, <#29F161>critical damage increases by 30%</color>.",เมื่อโจมตีติดคริติคอล <#29F161>ความเสียหายคริติคอลเพิ่มขึ้น 30%</color>
 BuffInfo_降龙buff2,Cause <#FE2929>15 points of internal injury</color> to the enemy when attacking.,สร้างสถานะ <#FE2929>บาดเจ็บภายใน 15 แต้ม</color> เมื่อโจมตีศัตรู
 BuffInfo_乾坤buff1,"When attacking the enemy from the side, <#29F161>combo rate increases by 15%</color>.",เมื่อโจมตีศัตรูจากด้านข้าง <#29F161>อัตราโจมตีต่อเนื่องเพิ่มขึ้น 15%</color>
-BuffInfo_乾坤buff2,"When attacking the enemy from the side, there is a 25% chance to trigger <#FE2929>Disable technique</color> effect [<#F3DE99>Disable technique: Unable to use martial arts and special moves</color>].","เมื่อโจมตีศัตรูจากด้านข้าง, มีโอกาส 25% ที่จะทำให้ศัตรูติดสถานะ <#FE2929>ทำลายวิชา</color> [<#F3DE99>ทำลายวิชา: ไม่สามารถใช้วิทยายุทธและท่าไม้ตายได้</color>]"
+BuffInfo_乾坤buff2,"When attacking the enemy from the side, there is a 25% chance to trigger <#FE2929>Disable technique</color> effect [<#F3DE99>Disable technique: Unable to use martial arts and special moves</color>].","เมื่อโจมตีศัตรูจากด้านข้าง, มีโอกาส 25% ที่จะทำให้ศัตรูติดสถานะ <#FE2929>ทำลายวรยุทธ</color> [<#F3DE99>ทำลายวรยุทธ: ไม่สามารถใช้วิทยายุทธและท่าไม้ตายได้</color>]"
 BuffInfo_开明buff1,<#29F161>Final damage increases by 25%</color> when attacking.,<#29F161>สร้างความเสียหายเพิ่มขึ้น 25%</color> เมื่อโจมตี
 BuffInfo_开明buff2,Gain an extra <#29F161>10 points of spirit</color> when attacking the enemy.,ได้รับ <#29F161>พลังใจเพิ่ม 10 แต้ม</color> เมื่อโจมตีศัตรู
 BuffInfo_少昊buff1,<#29F161>10% of the damage dealt to the enemy will be converted into your own HP</color> when attacking.,<#29F161>10% ของความเสียหายที่สร้างแก่ศัตรูจะเปลี่ยนมาเป็นพลังชีวิตของเรา</color>เมื่อโจมตี
@@ -1109,7 +1109,7 @@ BuffInfo_太虚buff1,"When attacking the enemy's side, there's a 25% chance to i
 BuffInfo_太虚buff2,Cause <#FE2929>15 points of seal</color> to the enemy when attacking.,สร้างสถานะ <#FE2929>สกัดจุด 15 แต้ม</color> เมื่อโจมตีศัตรู
 BuffInfo_玄黄buff1,Damage is additionally <#29F161>increased by 20%</color> during an Attack.,สร้างความเสียหาย <#29F161>เพิ่มขึ้น 20%</color> เมื่อโจมตี
 BuffInfo_玄黄buff2,"During Attack, reduce the enemy's <#FE2929>energy by 75 points</color>.","ระหว่างโจมตี, ลดค่าปราณเคลื่อนที่ของ <#FE2929>ศัตรูลง 75 แต้ม</color>"
-BuffInfo_洪荒buff1,"When attacking, there's a 25% chance to inflict <#FE2929>Disable technique</color> effect【<#F3DE99>Disable technique: Unable to use martial arts and special moves</color>】.","เมื่อโจมตี, มีโอกาส 25% ที่จะทำให้ศัตรูติดสถานะ <#FE2929>ทำลายวิชา</color> [<#F3DE99>ทำลายวิชา: ไม่สามารถใช้วิทยายุทธและท่าไม้ตายได้</color>]"
+BuffInfo_洪荒buff1,"When attacking, there's a 25% chance to inflict <#FE2929>Disable technique</color> effect【<#F3DE99>Disable technique: Unable to use martial arts and special moves</color>】.","เมื่อโจมตี, มีโอกาส 25% ที่จะทำให้ศัตรูติดสถานะ <#FE2929>ทำลายวรยุทธ</color> [<#F3DE99>ทำลายวรยุทธ: ไม่สามารถใช้วิทยายุทธและท่าไม้ตายได้</color>]"
 BuffInfo_洪荒buff2,"When attacking, there's a 25% chance to inflict <#FE2929>Internal break</color> effect【<#F3DE99>Internal break: Unable to trigger Main Internal effect</color>】.","เมื่อโจมตี, มีโอกาส 25% ที่จะสร้างสถานะ <#FE2929>กำลังภายในติดขัด</color> 【<#F3DE99>กำลังภายในติดขัด: ไม่สามารถใช้งานความสามารถกำลังภายในหลักได้</color>】"
 BuffInfo_春雷buff1,Cause <#FE2929>8 points of internal injury</color> to the enemy when attacking.,สร้างสถานะ <#FE2929>บาดเจ็บภายใน 8 แต้ม</color> เมื่อโจมตีศัตรู
 BuffInfo_焦尾buff1,Reduce the enemy's <#FE2929>25 points of energy</color> when attacking.,ลดค่าปราณเคลื่อนที่ของศัตรู <#FE2929>25 แต้ม</color> เมื่อโจมตี
@@ -1755,7 +1755,7 @@ BuffName_昆仑buff2,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</c
 BuffName_降龙buff1,<#EFD09F>Berserk</color>,<#EFD09F>บ้าคลั่ง</color>
 BuffName_降龙buff2,<#EFD09F>Impact</color>,<#EFD09F>กระแทก</color>
 BuffName_乾坤buff1,<#EFD09F>Chasing</color>,<#EFD09F>ไล่ตาม</color>
-BuffName_乾坤buff2,<#EFD09F>Disable Technique</color>,<#EFD09F>ทำลายวิชา</color>
+BuffName_乾坤buff2,<#EFD09F>Disable Technique</color>,<#EFD09F>ทำลายวรยุทธ</color>
 BuffName_开明buff1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
 BuffName_开明buff2,<#EFD09F>Bloodlust</color>,<#EFD09F>กระหายเลือด</color>
 BuffName_少昊buff1,<#EFD09F>Life Drain</color>,<#EFD09F>ดูดพลังชีวิต</color>
@@ -1853,7 +1853,7 @@ BuffName_太虚buff1,<#EFD09F>Disarm</color>,<#EFD09F>ปลดอาวุธ</
 BuffName_太虚buff2,<#EFD09F>Meridian Break</color>,<#EFD09F>เส้นลมปราณติดขัด</color>
 BuffName_玄黄buff1,<#EFD09F>Damage Up</color>,<#EFD09F>เพิ่มความเสียหาย</color>
 BuffName_玄黄buff2,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
-BuffName_洪荒buff1,<#EFD09F>Disable Technique</color>,<#EFD09F>ทำลายวิชา</color>
+BuffName_洪荒buff1,<#EFD09F>Disable Technique</color>,<#EFD09F>ทำลายวรยุทธ</color>
 BuffName_洪荒buff2,<#EFD09F>Internal Break</color>,<#EFD09F>สูญเสียกำลังภายใน</color>
 BuffName_春雷buff1,<#EFD09F>Impact</color>,<#EFD09F>กระแทก</color>
 BuffName_焦尾buff1,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
@@ -2016,7 +2016,7 @@ BuffName_功德牌Buff2_光环,Cheering,ให้กำลังใจ
 BuffName_天穹之印Buff1,<#EFD09F>Watchful</color>,<#EFD09F>เฝ้าดู</color>
 BuffName_苍生之印Buff1,<#EFD09F>Critical</color>,<#EFD09F>คริติคอล</color>
 BuffName_社稷之印Buff1,<#EFD09F>Duality</color>,<#EFD09F>ความเป็นคู่</color>
-BuffName_装备_封招,Disable technique,ทำลายวิชา
+BuffName_装备_封招,Disable technique,ทำลายวรยุทธ
 BuffName_装备_断筋,Cut tendon,เอ็นเท้าขาด
 BuffName_装备_缴械,Disarm,ปลดอาวุธ
 BuffName_装备_破绽,Vulnerable,เปราะบาง
@@ -2027,7 +2027,7 @@ BuffName_装备_骨折,Broken bone,กระดูกหัก
 BuffName_装备_散功,Energy loss,สูญเสียพลัง
 BuffName_装备_昏迷,Unconcious,หมดสติ
 BuffName_装备_迷惑,Charm,ลุ่มหลง
-BuffName_绝招_封招,Disable technique,ทำลายวิชา
+BuffName_绝招_封招,Disable technique,ทำลายวรยุทธ
 BuffName_绝招_断筋,Cut tendon,เอ็นเท้าขาด
 BuffName_绝招_缴械,Disarm,ปลดอาวุธ
 BuffName_绝招_破绽,Vulnerable,เปราะบาง
@@ -2115,7 +2115,7 @@ BuffName_招式天道无常,Confuse,สับสน
 BuffName_招式阴晴圆缺,Frozen,แช่แข็ง
 BuffName_招式神游物外,Gathering Qi,รวบรวมลมปราณ
 BuffName_招式烈焰滔滔,Bleeding,เลือดไหล
-BuffName_招式如封似闭,Disable technique,ทำลายวิชา
+BuffName_招式如封似闭,Disable technique,ทำลายวรยุทธ
 BuffName_招式口是心非,Broken,หัก
 BuffName_招式日落西山,Bleeding,เลือดไหล
 BuffName_招式故步自封,Sealed,สกัดจุด
@@ -2130,7 +2130,7 @@ BuffName_招式荡剑破兵,Disarm,ปลดอาวุธ
 BuffName_招式一剑凌云,Stagger,ชะงัก
 BuffName_招式山河色变,Cut tendon,เอ็นเท้าขาด
 BuffName_招式见龙在田,Internal break,กำลังภายในติดขัด
-BuffName_招式潜龙勿用,Disable technique,ทำลายวิชา
+BuffName_招式潜龙勿用,Disable technique,ทำลายวรยุทธ
 BuffName_招式无中生有,Pierce,เจาะ
 BuffName_招式动极生静,Frozen,แช่แข็ง
 BuffName_招式大成若缺,Broken,หัก
@@ -2152,7 +2152,7 @@ BuffName_招式醉饮乾坤,Vulnerable,เปราะบาง
 BuffName_招式索命勾魂,Bleeding,เลือดไหล
 BuffName_招式无声无色,Frozen,แช่แข็ง
 BuffName_招式难逃生天,Vulnerable,เปราะบาง
-BuffName_招式无计可施,Disable technique,ทำลายวิชา
+BuffName_招式无计可施,Disable technique,ทำลายวรยุทธ
 BuffName_招式灵机一动,Internal Injury,บาดเจ็บภายใน
 BuffName_招式义断情绝,Weakness,อ่อนแอ
 BuffName_招式如影随形,Slowed,เชื่องช้า
@@ -2190,7 +2190,7 @@ BuffName_招式移星换斗,Broken,หัก
 BuffName_招式推山填海,Spirit,พลังใจ
 BuffName_招式一飞冲天,Pierce,เจาะ
 BuffName_招式飞龙在天,Vulnerable,เปราะบาง
-BuffName_招式放下屠刀,Disable technique,ทำลายวิชา
+BuffName_招式放下屠刀,Disable technique,ทำลายวรยุทธ
 BuffName_招式佛渡有缘,Broken bone,กระดูกหัก
 BuffName_招式力拔山河,Bleeding,เลือดไหล
 BuffName_招式死生由命,Poisoned,ติดพิษ
@@ -2201,7 +2201,7 @@ BuffName_招式扶摇直上,Broken,หัก
 BuffName_招式夜叉探海,Bleeding,เลือดไหล
 BuffName_招式有凤来仪,Bleeding,เลือดไหล
 BuffName_招式走鸾飞凤,Internal break,กำลังภายในติดขัด
-BuffName_招式怪蟒翻身,Disable technique,ทำลายวิชา
+BuffName_招式怪蟒翻身,Disable technique,ทำลายวรยุทธ
 BuffName_招式打蛇七寸,Pierce,เจาะ
 BuffName_招式丢兵弃甲,DisarmDisable armor,ปลดอาวุธชุดเกราะ
 BuffName_招式直捣黄龙,Vulnerable,เปราะบาง
@@ -2218,7 +2218,7 @@ BuffName_招式舍命刺韩,Pierce,เจาะ
 BuffName_招式梦里乞花,Energy loss,สูญเสียพลัง
 BuffName_招式叫月穿云,Weakness,อ่อนแอ
 BuffName_招式笑看风云,Internal Injury,บาดเจ็บภายใน
-BuffName_招式天下无双,Disable techniqueInternal break,ทำลายวิชากำลังภายในติดขัด
+BuffName_招式天下无双,Disable techniqueInternal break,ทำลายวรยุทธกำลังภายในติดขัด
 BuffName_招式行尸走肉,Charm,ลุ่มหลง
 BuffName_招式神失梦迷,Slumber,หลับใหล
 BuffName_招式秋月无边,Internal Injury,บาดเจ็บภายใน
@@ -2246,7 +2246,7 @@ BuffName_招式飞沙走石,Blindness,ตาบอด
 BuffName_招式儒雅风流,Internal Injury,บาดเจ็บภายใน
 BuffName_招式罢黜百家,Spirit,พลังใจ
 BuffName_招式随心所欲,Slowed,เชื่องช้า
-BuffName_招式不战屈人,Disable technique,ทำลายวิชา
+BuffName_招式不战屈人,Disable technique,ทำลายวรยุทธ
 BuffName_招式以理服人,Internal break,กำลังภายในติดขัด
 BuffName_招式流连忘返,Frozen,แช่แข็ง
 BuffName_招式望穿秋水,Charm,ลุ่มหลง
@@ -3049,7 +3049,7 @@ BuffName_悲欢指法buff1_附属,Extreme joy turns to sorrow,เปี่ยม
 BuffName_金刚降魔杵buff1_附属,Disable armor,ปลดชุดเกราะ
 BuffName_玄煞棍法buff2_附属,Slowed,เชื่องช้า
 BuffName_疯魔棍法buff2_附属,Out of control,ควบคุมไม่ได้
-BuffName_达摩杖法buff1_附属,Disable technique,ทำลายวิชา
+BuffName_达摩杖法buff1_附属,Disable technique,ทำลายวรยุทธ
 BuffName_达摩杖法buff2_附属,Disable armor,ปลดชุดเกราะ
 BuffName_沥泉枪法buff1_附属,Disable armor,ปลดชุดเกราะ
 BuffName_金刚锤法buff1_附属,Disable armor,ปลดชุดเกราะ
@@ -3059,7 +3059,7 @@ BuffName_惊鸿一梦buff1_附属,Unconcious,หมดสติ
 BuffName_寒江独钓buff1_附属,Disarm,ปลดอาวุธ
 BuffName_蝶恋花buff_附属,Charm,ลุ่มหลง
 BuffName_兰亭序buff3_附属,Internal break,กำลังภายในติดขัด
-BuffName_扇舞春秋buff1_附属,Disable technique,ทำลายวิชา
+BuffName_扇舞春秋buff1_附属,Disable technique,ทำลายวรยุทธ
 BuffName_梅花三弄buff1_附属,Sound enters the rosy clouds,เสียงเข้าสู่เมฆากุหลาบ
 BuffName_万蛊谣buff3_附属,Slumber,หลับใหล
 BuffName_霸王卸甲buff1_附属,Surrounded by Sadness,ปกคลุมด้วยความเศร้า
@@ -3472,7 +3472,7 @@ BuffInfo_毒镖,Inflict <#FE2929>20 points of Poisoned</color> on the enemy when
 BuffInfo_五毒梅花针,"Reduce enemy's <#FE2929>Attack by 5%</color> and <#FE2929>Defense by 5%</color> when attacked, lasts for 2 actions","ลด <#FE2929>การโจมตี 5%</color> และ <#FE2929>การป้องกัน 5%</color> ของศัตรูลงเมื่อถูกโจมตี, มีผล 2 การกระทำ"
 BuffInfo_铁胎丸,"25% chance to inflict <#FE2929>Vulnerable</color> effect on the enemy when attacked, lasts until the enemy's next action",มีโอกาส 25% ที่จะสร้างเอฟเฟกต์ <#FE2929>เปราะบาง</color> แก่ศัตรูเมื่อถูกโจมตี คงอยู่จนกระทั่งการกระทำครั้งต่อไปของศัตรู
 BuffInfo_霹雳弹,Pierce enemy's armor properties and effects when attacked,เจาะทะลุคุณสมบัติและประสิทธิภาพชุดเกราะของศัตรูเมื่อถูกโจมตี
-BuffInfo_玉毫针,"25% chance to inflict <#FE2929>Disable technique</color> effect on the enemy when attacked, lasts until the enemy's next action",มีโอกาส 25% ที่จะสร้างเอฟเฟกต์ <#FE2929>ทำลายวิชา</color> ต่อศัตรูเมื่อถูกโจมตี คงอยู่จนกระทั่งการกระทำครั้งต่อไปของศัตรู
+BuffInfo_玉毫针,"25% chance to inflict <#FE2929>Disable technique</color> effect on the enemy when attacked, lasts until the enemy's next action",มีโอกาส 25% ที่จะสร้างเอฟเฟกต์ <#FE2929>ทำลายวรยุทธ</color> ต่อศัตรูเมื่อถูกโจมตี คงอยู่จนกระทั่งการกระทำครั้งต่อไปของศัตรู
 BuffInfo_霹雳雷火弹,"Inflict <#FE2929>Disarm</color> and <#FE2929>Disable armor</color> effects on the enemy when attacked, lasts until the enemy's next action",สร้างสถานะ <#FE2929>ปลดอาวุธ</color> และ <#FE2929>ปลดชุดเกราะ</color> แก่ศัตรูเมื่อถูกโจมตี คงอยู่จนกระทั่งการกระทำถัดไปของศัตรู
 BuffInfo_暴雨梨花钉,"Reduce enemy's <#FE2929>250 points of Qi</color> and <#FE2929>10% of maximum HP</color> when attacked, up to 3000 points",ลด <#FE2929>ค่าปราณเคลื่อนที่ 250 แต้ม</color> ของศัตรูและ <#FE2929>10% ของ HP สูงสุด</color> เมื่อถูกโจมตี สูงสุด 3000 แต้ม
 BuffInfo_迷魂烟,"Inflict <#FE2929>Unconscious</color> effect on the enemy when attacked, lasts until the enemy's next action",สร้างสถานะ <#FE2929>หมดสติ</color> แก่ศัตรูเมื่อถูกโจมตี คงอยู่ถึงการกระทำครั้งต่อไปของศัตรู
@@ -3637,7 +3637,7 @@ BuffName_真·室火猪兽环Buff2,<#EFD09F>The Pig</color>,<#EFD09F>กุน</
 BuffName_暗器_破绽,Vulnerable,เปราะบาง
 BuffName_暗器_缴械,Disarm,ปลดอาวุธ
 BuffName_暗器_卸甲2,Disable armor,ปลดชุดเกราะ
-BuffName_暗器_封招,Disable technique,ทำลายวิชา
+BuffName_暗器_封招,Disable technique,ทำลายวรยุทธ
 BuffName_暗器_昏迷,Unconcious,หมดสติ
 BuffName_内功_驭人心经_光环_附属,Heart Control Technique,คัมภีร์ควบคุมหฤทัยสูตร
 BuffName_内功_九幽寒霜气_光环,Nine Nether Frost Qi,พลังปราณเก้าอิมเหมันต์
@@ -3685,7 +3685,7 @@ BuffName_疾风斩buff1_附属,Vulnerable,เปราะบาง
 BuffName_破甲刀法buff1_附属,Disable armor,ปลดชุดเกราะ
 BuffName_一刀斩buff1_附属,Vulnerable,เปราะบาง
 BuffName_磐龙剑法buff1_附属,Internal break,กำลังภายในติดขัด
-BuffName_磐龙剑法buff2_附属,Disable technique,ทำลายวิชา
+BuffName_磐龙剑法buff2_附属,Disable technique,ทำลายวรยุทธ
 BuffName_市井拳法buff1_附属,Slumber,หลับใหล
 BuffName_清心玉女掌buff2_附属,Dream of Moon Place,ความฝันตำหนักจันทรา
 BuffName_杀威棒法buff1_附属,Scared Witless,กลัวไร้ปัญญา

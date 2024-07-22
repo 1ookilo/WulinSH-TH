@@ -87,7 +87,7 @@ BuffName_DLC虎狼之势,Tiger Wolf Momentum,ถาโถมดั่งสั�
 BuffName_DLC虎狼之势_光环_附属1,Tiger Wolf Momentum,ถาโถมดั่งสัตว์ร้าย
 BuffName_DLC背刃之痛,Back Blade Pain,ทำร้ายตนเอง
 BuffName_DLC背刃之痛_光环,Backstab,ลอบโจมตี
-BuffName_DLC武器印记,Weapon Mark
+BuffName_DLC武器印记,Weapon Mark,ตราประทับศาสตราวุธ
 BuffName_DLC武器印记_光环,Mark,ประทับ
 BuffName_DLC狂战之怒,Berserker's Rage,โทสะนักรบคลั่ง
 BuffName_DLC狂战之怒_光环,Berserker's Rage,โทสะนักรบคลั่ง
@@ -114,15 +114,15 @@ BuffName_DLC生命增强1,HP Enhancement,เพิ่ม HP
 BuffName_DLC健步如飞,Quick step,ฝีเท้าว่องไว
 BuffName_DLC撕裂,Tear,ฉีก
 BuffName_DLC震荡,Shock
-BuffName_dlc武功_刀法印记1,Sword Technique Mark (I)
-BuffName_dlc武功_刀法印记2,Sword Technique Mark (II)
-BuffName_dlc武功_刀法印记3,Sword Technique Mark (III)
+BuffName_dlc武功_刀法印记1,Sword Technique Mark (I),ทักษะตราประทับประจำวิถีกระบี่ ระดับ 1
+BuffName_dlc武功_刀法印记2,Sword Technique Mark (II),ทักษะตราประทับประจำวิถีกระบี่ ระดับ 2
+BuffName_dlc武功_刀法印记3,Sword Technique Mark (III),ทักษะตราประทับประจำวิถีกระบี่ ระดับ 3
 BuffName_dlc武功_匕首印记1,Dagger Mark (I)
 BuffName_dlc武功_匕首印记2,Dagger Mark (II)
 BuffName_dlc武功_匕首印记3,Dagger Mark (III)
-BuffName_dlc武功_扇法印记1,Fan Technique Mark (I)
-BuffName_dlc武功_扇法印记2,Fan Technique Mark (II)
-BuffName_dlc武功_扇法印记3,Fan Technique Mark (III)
+BuffName_dlc武功_扇法印记1,Fan Technique Mark (I),ทักษะตราประทับประจำวิถีพัด ระดับ 1
+BuffName_dlc武功_扇法印记2,Fan Technique Mark (II),ทักษะตราประทับประจำวิถีพัด ระดับ 2
+BuffName_dlc武功_扇法印记3,Fan Technique Mark (III),ทักษะตราประทับประจำวิถีพัด ระดับ 3
 BuffName_dlc武功_撕裂1,Tear (I)
 BuffName_dlc武功_撕裂2,Tear (II)
 BuffName_dlc武功_撕裂3,Tear (III)
@@ -170,7 +170,7 @@ BuffName_dlc武功_破绽1,Vulnerable,เปราะบาง
 BuffName_dlc武功_断筋1,Cut tendon,ตัดเส้นเอ็น
 BuffName_dlc武功_昏睡1,Slumber,หลับใหล
 BuffName_dlc武功_昏迷1,Unconcious,หมดสติ
-BuffName_dlc武功_封招1,Disable technique,ทำลายวิชา
+BuffName_dlc武功_封招1,Disable technique,ทำลายวรยุทธ
 BuffName_dlc武功_失控1,Out of control,ควบคุมไม่ได้
 BuffName_dlc武功_迷惑1,Charm,ลุ่มหลง
 BuffName_dlc内功_盛世春秋_附属1,Glorious Era,ยุคจรัส
@@ -189,12 +189,12 @@ BuffInfo_dlc武功_匕首印记3,"When attacked by the external skill ""Shooting
 BuffInfo_dlc武功_扇法印记1,"When attacked by the external skill ""Flirting Butterfly"", the <#FE2929>damage received is increased by an additional 15%</color>.","เมื่อถูกโจมตีโดยวิชา ""ผีเสื้อเล่นบุปผา"" ได้รับ <#FE2929>ความเสียหายเพิ่มเติม 15%</color>"
 BuffInfo_dlc武功_扇法印记2,"When attacked by the external skill ""Flirting Butterfly"", the <#FE2929>damage received is increased by an additional 30%</color>."
 BuffInfo_dlc武功_扇法印记3,"When attacked by the external skill ""Flirting Butterfly"", the <#FE2929>damage received is increased by an additional 45%</color>."
-BuffInfo_dlc武功_撕裂1,"After each attack, <#FE2929>reduce HP by 2% of the maximum HP</color>."
-BuffInfo_dlc武功_撕裂2,"After each attack, <#FE2929>reduce HP by 4% of the maximum HP</color>."
-BuffInfo_dlc武功_撕裂3,"After each attack, <#FE2929>reduce HP by 6% of the maximum HP</color>."
-BuffInfo_dlc武功_震荡1,"During combat, <#FE2929>Attack decreases by 5%</color>."
-BuffInfo_dlc武功_震荡2,"During combat, <#FE2929>Attack decreases by 10%</color>."
-BuffInfo_dlc武功_震荡3,"During combat, <#FE2929>Attack decreases by 15%</color>."
+BuffInfo_dlc武功_撕裂1,"After each attack, <#FE2929>reduce HP by 2% of the maximum HP</color>.","หลังจากโจมตี, <#FE2929>ลดพลังชีวิตลง 2% จากพลังชีวิตสูงสุด</color>."
+BuffInfo_dlc武功_撕裂2,"After each attack, <#FE2929>reduce HP by 4% of the maximum HP</color>.","หลังจากโจมตี, <#FE2929>ลดพลังชีวิตลง 4% จากพลังชีวิตสูงสุด</color>."
+BuffInfo_dlc武功_撕裂3,"After each attack, <#FE2929>reduce HP by 6% of the maximum HP</color>.","หลังจากโจมตี, <#FE2929>ลดพลังชีวิตลง 6% จากพลังชีวิตสูงสุด</color>."
+BuffInfo_dlc武功_震荡1,"During combat, <#FE2929>Attack decreases by 5%</color>.","ระหว่างต่อสู้, <#FE2929>พลังโจมตีลดลง 5%</color>."
+BuffInfo_dlc武功_震荡2,"During combat, <#FE2929>Attack decreases by 10%</color>.","ระหว่างต่อสู้, <#FE2929>พลังโจมตีลดลง 10%</color>."
+BuffInfo_dlc武功_震荡3,"During combat, <#FE2929>Attack decreases by 15%</color>.","ระหว่างต่อสู้, <#FE2929>พลังโจมตีลดลง 15%</color>."
 BuffInfo_dlc武功_破甲1,"During combat, <#FE2929>Defense decreases by 20 points</color>."
 BuffInfo_dlc武功_破甲2,"During combat, <#FE2929>Defense decreases by 40 points</color>."
 BuffInfo_dlc武功_破甲3,"During combat, <#FE2929>Defense decreases by 60 points</color>."
