@@ -3524,22 +3524,22 @@ NpcBattleReact_火蟾蜍_KillActor,Quack Quack!,กัว กวัก!
 NpcDriveAway_火蟾蜍_XCKaiGan,Quack Quack!,กัว กวัก!
 NpcDriveAway_火蟾蜍_KaiGan,Quack Quack!,กัว กวัก!
 NpcDriveAway_火蟾蜍_GoAwake,Quack Quack!,กัว กวัก!
-NpcHello_陆剑南_SelfIntroHigh,I wonder what {PlayerSurName} brother has to teach?
-NpcHello_陆剑南_SelfIntroLow,I wonder what {PlayerSurName} brother has to teach?
+NpcHello_陆剑南_SelfIntroHigh,I wonder what {PlayerSurName} brother has to teach?,ข้าสงสัยนักว่าน้อง{PlayerSurName} มีอะไรจะชี้แนะ?
+NpcHello_陆剑南_SelfIntroLow,I wonder what {PlayerSurName} brother has to teach?,ข้าสงสัยนักว่าน้อง{PlayerSurName} มีอะไรจะชี้แนะ?
 NpcHello_陆剑南_Common,I wonder what {PlayerSurName} brother has to teach?|What does {PlayerSurName} brother want with me?,ข้าสงสัยนักว่าน้อง{PlayerSurName}มีอะไรชี้แนะไหม | น้อง{PlayerSurName}มีอะไรต้องการไหม?
 NpcHello_陆剑南_Like,I wonder what {PlayerSurName} brother has to teach?|What does {PlayerSurName} brother want with me?,ข้าสงสัยนักว่าน้อง{PlayerSurName}มีอะไรชี้แนะไหม | น้อง{PlayerSurName}มีอะไรต้องการไหม?
-NpcHello_陆剑南_Dislike,What is {PlayerSurName} brother doing here at this point?|...Is there anything else?
-NpcHello_陆剑南_Hate,"You and I have different paths, we don't conspire."
-NpcTrading_陆剑南_Refuse,{PlayerSurName} brother and I are not familiar yet.
-NpcTrading_陆剑南_Apply,Please let me see what good things {PlayerSurName} brother has.
-NpcTrading_陆剑南_HasTrade,{PlayerSurName} brother's stuff is really good.
-NpcTrading_陆剑南_NoTrade,It seems that there is nothing {PlayerSurName} brother likes.
-NpcTrading_陆剑南_Default,I only have these things on me.
-NpcTrading_陆剑南_Disagree,"Please add some more, {PlayerSurName} brother.",เพิ่มของด้วย พี่{PlayerSurName}
-NpcTrading_陆剑南_Agree,It's fair.|This is good.
+NpcHello_陆剑南_Dislike,What is {PlayerSurName} brother doing here at this point?|...Is there anything else?,น้อง{PlayerSurName} มาทำอะไรที่นี่ตอนนี้?|...มีอะไรอีกไหม?
+NpcHello_陆剑南_Hate,"You and I have different paths, we don't conspire.",เจ้าและข้ามีเส้นทางที่แตกต่างกัน เราไม่ได้เกี่ยวข้องกัน
+NpcTrading_陆剑南_Refuse,{PlayerSurName} brother and I are not familiar yet.,ข้ากับน้อง{PlayerSurName} ยังไม่คุ้นเคยกันนัก
+NpcTrading_陆剑南_Apply,Please let me see what good things {PlayerSurName} brother has.,โปรดให้ข้าดูหน่อยเถอะ ว่าน้อง{PlayerSurName} มีอะไรดีๆ บ้าง
+NpcTrading_陆剑南_HasTrade,{PlayerSurName} brother's stuff is really good.,ของของน้อง{PlayerSurName} เป็นของดีจริงๆ
+NpcTrading_陆剑南_NoTrade,It seems that there is nothing {PlayerSurName} brother likes.,ดูเหมือนจะไม่มีอะไรที่น้อง{PlayerSurName} สนใจนัก
+NpcTrading_陆剑南_Default,I only have these things on me.,ข้ามีเพียงของสิ่งนี้ติดตัวข้าเท่านั้น
+NpcTrading_陆剑南_Disagree,"Please add some more, {PlayerSurName} brother.",น้อง{PlayerSurName} โปรดเพิ่มของมากกว่านี้
+NpcTrading_陆剑南_Agree,It's fair.|This is good.,ยุติธรรมแล้ว|นี่เป็นของที่ดีเลย
 NpcJobTalk_自我称呼_陆剑南,Little brother,น้องชาย
-NpcJobTalk_第二人称_陆剑南,{PlayerSurName} brother
-NpcJobTalk_第二人称敬语_陆剑南,{PlayerSurName} brother
+NpcJobTalk_第二人称_陆剑南,{PlayerSurName} brother,น้อง{PlayerSurName}
+NpcJobTalk_第二人称敬语_陆剑南,{PlayerSurName} brother,น้อง{PlayerSurName}
 NpcHello_老猎人_SelfIntroHigh,"Do you need anything, {PlayerSurName} young hero?",จอมยุทธน้อย{PlayerSurName}ต้องการสิ่งใดหรือ?
 NpcHello_老猎人_SelfIntroLow,"Do you need anything, {PlayerSurName} young hero?",จอมยุทธน้อย{PlayerSurName}ต้องการสิ่งใดหรือ?
 NpcHello_老猎人_Common,"Do you need anything, {PlayerSurName} young hero?|What do you want from me?",จอมยุทธน้อย{PlayerSurName}ต้องการสิ่งใดหรือ?  |เจ้าต้องการอะไรจากข้า?
@@ -3728,8 +3728,8 @@ NpcDuel_唐太君_Refuse,"{PlayerSurName} Young hero is joking, I am old and no 
 NpcDuel_唐太君_Info,"Well, let me see the skills of {PlayerSurName} young hero.\n(Winning can get {2}Jianghu Knowledge, {3}FameExperience.)"
 NpcDuel_唐太君_NoStamina,"If {PlayerSurName} young hero is not feeling well, you should rest first."
 NpcDuel_陆剑南_Refuse,"I'm sorry, I'm not in the mood.",โทษทีนะ ข้าไม่มีอารมณ์
-NpcDuel_陆剑南_Info,"Since {PlayerSurName} brother has this leisure, I naturally accompany.\n(Winning can get {2}Jianghu Knowledge, {3}FameExperience.)"
-NpcDuel_陆剑南_NoStamina,Let's wait until {PlayerSurName} brother is ready.
+NpcDuel_陆剑南_Info,"Since {PlayerSurName} brother has this leisure, I naturally accompany.\n(Winning can get {2}Jianghu Knowledge, {3}FameExperience.)","ในเมื่อน้อง{PlayerSurName}ยังพอมีเวลาอยู่ ข้าก็เห็นควรด้วย\n(ผู้ชนะจะได้รับ {2} ค่าประสบการณ์ยุทธ, {3} ค่าประสบการณ์ชื่อเสียง)"
+NpcDuel_陆剑南_NoStamina,Let's wait until {PlayerSurName} brother is ready.,รอจนกว่าน้อง{PlayerSurName} จะพร้อม
 NpcDuel_鹰兄_Refuse,"Gaga, gaga?|I'm not a match for {PlayerSurName} hero, please spare me.",กาก้า กาก้า?|ข้าไม่ใช้คู่ต่อสู้ของท่าน จอมยุทธ์{PlayerSurName} โปรดไว้ชีวิตข้าด้วย
 NpcDuel_鹰兄_Info,"Kaka! Let's make friends through martial arts!\n(Winning can get {2}Jianghu Knowledge, {3}FameExperience.)|Sharp edge, {PlayerSurName} hero, be careful!\n(Winning can get {2}Jianghu Knowledge, {3}FameExperience.)|I won't show mercy!\n(Winning can get {2}Jianghu Knowledge, {3}FameExperience.)","กาก้า! มาผูกมิตรกันผ่านการแลกเปลี่ยนวรยุทธเถอะ!\n(ผู้ชนะจะได้รับ {2} ค่าประสบการณ์ยุทธ, {3} ค่าประสบการณ์ชื่อเสียง)|ดาบไม่มีตา, จอมยุทธ์{PlayerSurName} ระวังด้วย!\n(ผู้ชนะจะได้รับ {2} ค่าประสบการณ์ยุทธ, {3} ค่าประสบการณ์ชื่อเสียง)|ข้าจะไม่ออมมือ!\n(ผู้ชนะจะได้รับ {2} ค่าประสบการณ์ยุทธ, {3} ค่าประสบการณ์ชื่อเสียง)"
 NpcDuel_鹰兄_NoStamina,Let's wait until {PlayerSurName} hero is ready.,รอจนกว่าจอมยุทธ์{PlayerSurName} จะพร้อม
@@ -3761,7 +3761,7 @@ NpcChangeWeapon_任中横_Refuse,Are my things something you can covet?
 NpcChangeWeapon_诸葛神机_Refuse,"If you want my things, at least let me trust you a little more."
 NpcChangeWeapon_时文修_Refuse,Don't touch randomly.
 NpcChangeWeapon_紫天_Refuse,"Please {PlayerSurName}, don't touch my things randomly."
-NpcChangeWeapon_陆剑南_Refuse,"{PlayerSurName} Brother, please don't take what I love."
+NpcChangeWeapon_陆剑南_Refuse,"{PlayerSurName} Brother, please don't take what I love.",น้อง{PlayerSurName} โปรดอย่าเอาของรักของข้าไป
 NpcChangeWeapon_唐婉儿_Refuse,"{PlayerSurName} Young hero and I are still strangers, please don't insist."
 NpcChangeWeapon_何德诺_Refuse,"Don't touch it, I'm afraid my fire toad poison will hurt you."
 NpcChangeWeapon_海棠秋_Refuse,"Lady, no, don't touch my things."

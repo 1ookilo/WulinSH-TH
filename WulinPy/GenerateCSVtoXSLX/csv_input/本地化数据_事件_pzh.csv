@@ -17,14 +17,14 @@ DBZX-2_option1_3,"This dispute has nothing to do with me, no need to get involve
 DBZX-2_option1_4,"There must be a misunderstanding here, stop the fight! <color=#c44b0e>(Specific battle)</color>",นี่มันคงจะมีเรื่องเข้าใจผิด หยุดสู้กันซะ! <color=#c44b0e> (เข้าสู่การต่อสู้) </color>
 DBZX-3_Talking,Keep the appointment,ไปตามนัด
 DBZX-3_name,Go to the appointment in the snow,มาถึงตามนัดหมาย เดินเหยียบหิมะมา
-DBZX-3_overview1,Meet with Wu Yue and others at Xu Family Outpost tavern for a drink.,พบกับ อู๋เยว่ และคนอื่นๆ ที่ร้านเหล้าด่านนอกตระกูลซู เพื่อไปดื่ม
+DBZX-3_overview1,Meet with Wu Yue and others at Xu Family Outpost tavern for a drink.,ไปพบกับ อู๋เยว่ และคนอื่นๆ ที่โรงเตี๊ยมด่านหน้าตระกูลสวี เพื่อดื่ม
 DBZX-3_option1_1,Enter the tavern. <color=#0574a8>(You will not be able to act freely for a while)</color>,เข้าไปในโรงเตี๊ยม <color=#0574a8> (ไม่สามารถดำเนินการได้อย่างอิสระชั่วขณะหนึ่ง) </color>
 DBZX-3_option1_2,There are still things to do.,ยังมีสิ่งที่ต้องทำ
 DBZX-3_NPCname1,A voice full of energy.,เสียงที่เต็มไปด้วยพลัง
 R10112-2_name,Strong liquor and stories,สุราเข้มข้นและเรื่องราว
-R10112-2_overview1,"Sun Yogin invites you to have a drink at Xu Family Outpost tavern... Hopefully, you won't get involved in any incidents.",ซุน โยจิน ชวนท่านไปดื่มสุราที่โรงเตี๊ยมซูเจีย... หวังว่าท่านคงจะไม่ไปพัวพันเรื่องวุ่นวายอะไรเข้าอีกนะ
-R10112-2_overview2,Go to the lantern under the northern village entrance of Xu Family Outpost to meet Sun Yogin.,ไปพบซุนโยจินที่โคมไฟใต้ทางเข้าหมู่บ้านด้านทิศเหนือของตระกูลซู
-R10112-2_overview3,Give Sun Yogin at Xu Family Outpost an answer after considering the result.,ให้ซุนโยจินที่ด่านหน้าตระกูลซูได้ รับคำตอบหลังจากพิจารณาผลลัพธ์แล้ว
+R10112-2_overview1,"Sun Yogin invites you to have a drink at Xu Family Outpost tavern... Hopefully, you won't get involved in any incidents.",ซุนหงอคงชวนท่านไปดื่มสุราที่โรงเตี๊ยมด่านหน้าตระกูลสวี... หวังว่าท่านคงจะไม่ไปพัวพันเรื่องวุ่นวายอะไรเข้าอีกนะ
+R10112-2_overview2,Go to the lantern under the northern village entrance of Xu Family Outpost to meet Sun Yogin.,ไปที่โคมไฟใต้ทางเข้าหมู่บ้านทางเหนือของด่านหน้าตระกูลสวี เพื่อพบกับซุนหงอคง
+R10112-2_overview3,Give Sun Yogin at Xu Family Outpost an answer after considering the result.,ให้คำตอบกับซุนหงอคงที่ด่านหน้าตระกูลสวีหลังจากพิจารณาถึงผลลัพธ์แล้ว
 R10112-2_option1_1,Pig Wuneng?,ตือโป๊ยก่ายเหรอ?
 R10112-2_option1_2,Sha Wujing?,ซัวเจ๋งเหรอ?
 R10112-2_option1_3,White Dragon Horse?,ม้ามังกรขาวงั้นหรือ?
@@ -37,7 +37,7 @@ R10112-2_option3_1,Count me in!,ฉันอยากร่วมงานนั
 R10112-2_option3_2,I need to think about this...,ขอข้าคิดดูก่อน
 R10112-2_option3_3,Refuse.,ปฏิเสธ
 R10112-3_name,The real and fake Monkey King,ราชาวานรตัวจริงและตัวปลอม
-R10112-3_overview1,Prepare a pot of Jiannan wine and go to Xu Family Outpost to find Sun Yogin for rehearsal.,เตรียมสุราเจียนหนานและเข้าไปยังด่านนอกตระกูลซูเพื่อตามหา ซุนโยจิน เพื่อแจ้งข่าว
+R10112-3_overview1,Prepare a pot of Jiannan wine and go to Xu Family Outpost to find Sun Yogin for rehearsal.,เตรียมสุราเจียนหนาน และไปยังด่านหน้าตระกูลสวี ตามหาซุนหงอคง เพื่อเข้าร่วมการซักซ้อม
 R10112-3_overview2,Find the thief who stole Jiannan wine.,ตามหาโจรที่ขโมยสุราเจียนหนาน
 R10112-3_option1_1,"Ready! <color=#097a76>(6 shichen, 50 Stamina, 1 pot of Jiannan wine)</color>","พร้อม! <color=#097a76>(6 ชั่วยาม, 50 แรงกาย, สุราเจียนหนาน 1 ไห)</color>"
 R10112-3_option1_2,Wait a bit longer.,รออีกสักหน่อย

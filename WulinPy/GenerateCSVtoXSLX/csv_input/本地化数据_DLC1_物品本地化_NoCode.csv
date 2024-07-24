@@ -63,8 +63,8 @@ ItemName_dlc青丘,Qingqiu,พัดชิงชิว
 ItemName_dlc艾草束,Wormwood bundle,พวงบอระเพ็ด
 ItemName_dlc铁手,Iron fist,ถุงมือเหล็ก
 ItemName_dlc缠丝拳套,Silk glove,ถุงมือผ้าไหม
-ItemName_dlc飞来梭,Flying dagger
-ItemName_dlc流云锥,Drifting Cloud
+ItemName_dlc飞来梭,Flying dagger,มีดบิน
+ItemName_dlc流云锥,Drifting Cloud,เมฆาล่องลอย
 ItemName_dlc织女梭,Weaver Girl
 ItemName_dlc嘲风,Wind Jester,เฉาเฟิง
 ItemName_dlc精卫,Jingwei
@@ -112,7 +112,7 @@ ItemName_dlc独幽,Loneliness
 ItemName_dlc紫竹箫,Violet bamboo flute
 ItemName_dlc玉屏箫,Jade flute
 ItemName_dlc牛角琵琶,Ox horn lute
-ItemName_dlc流云衫,Drifting Cloud robe
+ItemName_dlc流云衫,Drifting Cloud robe,เสื้อเมฆาล่องลอย
 ItemName_dlc金刚甲,Diamond armor
 ItemName_dlc明光铠,Glorious armor
 ItemName_dlc朱雀服,Phoenix outfit
@@ -195,7 +195,7 @@ ItemName_dlc破空梭,Wind Breaker
 ItemName_dlc疾风刺,Wind Stab
 ItemName_dlc龙蛇笔法,Dragon Snake Pen
 ItemName_dlc狂风扇诀,Tornado Fan
-ItemName_dlc流云飞扇,Drifting Cloud Fan
+ItemName_dlc流云飞扇,Drifting Cloud Fan,พัดเมฆาล่องลอย
 ItemName_dlc阳春白雪,Spring White Snow
 ItemName_dlc碧涧流泉,Flowing Mountain Stream
 ItemName_dlc暗香凌波,Hidden Fragrance Wave
@@ -520,24 +520,24 @@ ItemInfo_dlc培元膏(大),"High-level Medicine, not sure if there is an extra-l
 ItemInfo_dlc聚元丹(小),Low-level Medicine.
 ItemInfo_dlc聚元丹(中),Average-level Medicine.
 ItemInfo_dlc聚元丹(大),"High-level Medicine, not sure if there is an extra-large size."
-ItemInfo_dlc小还丹(小),Low-level Medicine.
-ItemInfo_dlc小还丹(中),Average-level Medicine.
-ItemInfo_dlc小还丹(大),"High-level Medicine, not sure if there is an extra-large size."
-ItemInfo_dlc大还丹(小),Low-level Medicine.
-ItemInfo_dlc大还丹(中),Average-level Medicine.
-ItemInfo_dlc大还丹(大),"High-level Medicine, not sure if there is an extra-large size."
-ItemInfo_dlc蜜饯果子,<#d09a09>Usage: Take</color>
-ItemInfo_dlc雕花橙子,<#d09a09>Usage: Take</color>
-ItemInfo_dlc雪花糕,<#d09a09>Usage: Take</color>
-ItemInfo_dlc铜钱包裹(小),Can be used to obtain Coins.
-ItemInfo_dlc铜钱包裹(中),Can be used to obtain Coins.
-ItemInfo_dlc铜钱包裹(大),Can be used to obtain Coins.
-ItemInfo_dlc发展包裹(小),Can be used to obtain Meditation Points.
-ItemInfo_dlc发展包裹(中),Can be used to obtain Meditation Points.
-ItemInfo_dlc发展包裹(大),Can be used to obtain Meditation Points.
-ItemInfo_dlc粮食包裹(小),Can be used to obtain Food.
-ItemInfo_dlc粮食包裹(中),Can be used to obtain Food.
-ItemInfo_dlc粮食包裹(大),Can be used to obtain Food.
+ItemInfo_dlc小还丹(小),Low-level Medicine.,โอสถระดับต่ำ
+ItemInfo_dlc小还丹(中),Average-level Medicine.,โอสถระดับกลาง
+ItemInfo_dlc小还丹(大),"High-level Medicine, not sure if there is an extra-large size.",โอสถระดับสูง ส่วนจะมีระดับสุดยอดหรือไม่ ข้ายังไม่ทราบแน่ชัด
+ItemInfo_dlc大还丹(小),Low-level Medicine.,โอสถระดับต่ำ
+ItemInfo_dlc大还丹(中),Average-level Medicine.,โอสถระดับกลาง
+ItemInfo_dlc大还丹(大),"High-level Medicine, not sure if there is an extra-large size.",โอสถระดับสูง ส่วนจะมีระดับสุดยอดหรือไม่ ข้ายังไม่ทราบแน่ชัด
+ItemInfo_dlc蜜饯果子,<#d09a09>Usage: Take</color>,<#d09a09>วิธีใช้ : รับประทาน</color>
+ItemInfo_dlc雕花橙子,<#d09a09>Usage: Take</color>,<#d09a09>วิธีใช้ : รับประทาน</color>
+ItemInfo_dlc雪花糕,<#d09a09>Usage: Take</color>,<#d09a09>วิธีใช้ : รับประทาน</color>
+ItemInfo_dlc铜钱包裹(小),Can be used to obtain Coins.,ใช้แล้วจะได้รับเหรียญทองแดง
+ItemInfo_dlc铜钱包裹(中),Can be used to obtain Coins.,ใช้แล้วจะได้รับเหรียญทองแดง
+ItemInfo_dlc铜钱包裹(大),Can be used to obtain Coins.,ใช้แล้วจะได้รับเหรียญทองแดง
+ItemInfo_dlc发展包裹(小),Can be used to obtain Meditation Points.,ใช้แล้วจะได้รับค่าสมาธิ
+ItemInfo_dlc发展包裹(中),Can be used to obtain Meditation Points.,ใช้แล้วจะได้รับค่าสมาธิ
+ItemInfo_dlc发展包裹(大),Can be used to obtain Meditation Points.,ใช้แล้วจะได้รับค่าสมาธิ
+ItemInfo_dlc粮食包裹(小),Can be used to obtain Food.,ใช้แล้วจะได้รับเสบียง
+ItemInfo_dlc粮食包裹(中),Can be used to obtain Food.,ใช้แล้วจะได้รับเสบียง
+ItemInfo_dlc粮食包裹(大),Can be used to obtain Food.,ใช้แล้วจะได้รับเสบียง
 ItemInfo_dlc矿物包裹(小),Can be used to obtain Minerals.
 ItemInfo_dlc矿物包裹(中),Can be used to obtain Minerals.
 ItemInfo_dlc矿物包裹(大),Can be used to obtain Minerals.

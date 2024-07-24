@@ -2802,26 +2802,26 @@ M5029-1_7_2,……,……
 M5029-1_7_3,"Alas, I originally wanted you to teach those children some skills, but now there's no chance.",บ้าจริง น่าเสียดายจริงๆ เลยนะ กะว่าจะให้เธอไปสอนวิชาแก่เด็กๆ กลุ่มนั้น แต่โอกาสก็หมดสิ้นไปแล้ว น่าเสียดายจริงๆ
 M5029-1_8_1,You guys have worked hard.,พวกท่านทำงานหนักมากเลย ขอบคุณจริงๆ
 M5029-1_8_2,"We are not tired at all, it's fun to teach these little devils to practice every day.",เราไม่เหนื่อยเลย สนุกมากต่างหากที่ได้สอนเจ้าตัวเล็กเหล่านี้ให้ฝึกซ้อมทุกวัน
-M5029-1_8_3,"Sister Qingqing, you should teach us the skill of Steal, this stupid brother hasn't even learned it himself, how can he teach us?",พี่ชิงชิง ควรมาสอนเราถึงวิธีขโมยแทน พี่ชายโง่เขลาคนนี้ไม่ได้เรียนรู้ด้วยตัวเองเลย แล้วเขาจะสอนเราได้อย่างไร?
-M5029-1_8_4,"You little devil, have you learned to tattle?\nNo dinner for you tonight, hmph!",เจ้าเด็กนี่ ชอบฟ้องร้องใช่ไหม? เย็นนี้จะไม่ให้กินข้าวซะเลย! ฮึ!
-M5029-1_8_5,"Oh, what a big temper!\nIf you dare to starve these little guys, I'll skin you alive!",โอ้โห! เก่งมากนะ! ถ้าเจ้ากล้าอดอาหารพวกเด็กน้อยเหล่านี้ ระวังฉันจะลอกหนังออกนะ
-M5029-1_8_6,"Hehe, how could I? I'm just playing with these little devils.",ฮ่าๆ จะทำได้ยังไง? แค่หยอกพวกเด็กน้อยเหล่านี้
-M5029-1_8_7,"{PlayerName}, it's your turn to show off!",{PlayerName} ถึงเวลาโชว์ออฟแล้ว!
-M5029-1_8_8,Show off? Show off what?,โชว์? โชว์ออฟอะไรละ?
+M5029-1_8_3,"Sister Qingqing, you should teach us the skill of Steal, this stupid brother hasn't even learned it himself, how can he teach us?",พี่ชิงชิง ควรมาสอนเราขโมยแทน พี่ชายโง่เขลาคนนี้ไม่ได้ฝึกฝนเองด้วยซ้ำ แล้วเขาจะมาสอนเราได้ยังไง?
+M5029-1_8_4,"You little devil, have you learned to tattle?\nNo dinner for you tonight, hmph!",เจ้าเด็กนี่ ชอบฟ้องนักใช่ไหม? เย็นนี้เดี๋ยวพี่จะไม่ให้กินข้าวซะเลย! ฮึ่ม!
+M5029-1_8_5,"Oh, what a big temper!\nIf you dare to starve these little guys, I'll skin you alive!","โอ้โห! เก่งอะไรขนาดนี้! \nถ้าเจ้ากล้าอดอาหารพวกเด็กน้อยเหล่านี้ ระวังข้าจะถลกหนังเจ้านะ"
+M5029-1_8_6,"Hehe, how could I? I'm just playing with these little devils.",ฮ่าๆ ข้าจะไปทำลงได้ยังไง? แค่หยอกพวกเด็กน้อยเหล่านี้แค่นั้นน่า
+M5029-1_8_7,"{PlayerName}, it's your turn to show off!",{PlayerName} ถึงเวลาแสดงความสามารถของเจ้าแล้ว!
+M5029-1_8_8,Show off? Show off what?,แสดงความสามารถ? ข้าจะแสดงอะไรดี?
 M5029-1_8_9,"Teach these little guys some skills, your Steal skill is outstanding among your peers, if you don't teach, who is qualified to teach?",ช่วยสอนทักษะการขโมยเล็กๆ น้อยๆ ให้กับเด็กๆ เหล่านี้ ทักษะการขโมยของเจ้าช่างโดดเด่น ถ้าเจ้าไม่สอน คงไม่มีใครที่มีคุณสมบัติในการสอนมากพอ
-M5029-1_op_2_dialog,"(If I teach these children the skill of Steal, if they commit crimes in the future, wouldn't I be the instigator? Should I teach them or not?)",(ถ้าข้าสอนเด็กพวกนี้ให้ในเรื่องการขโมยของ ถ้าในอนาคตพวกเขาคิดก่ออาชญากรรม คงเป็นเพราะข้าสอนไม่ใช่เหรอ? ข้าควรจะสอนดีหรือไม่?)
+M5029-1_op_2_dialog,"(If I teach these children the skill of Steal, if they commit crimes in the future, wouldn't I be the instigator? Should I teach them or not?)",(ถ้าข้าสอนเด็กพวกนี้ให้ในเรื่องการขโมยของ หากในอนาคตพวกเขาคิดก่ออาชญากรรม คงเป็นเพราะข้าสอนไม่ใช่เหรอ? ข้าควรจะสอนดีหรือไม่?)
 M5029-1_op_2_1,Teach these children the skill of Steal!,สอนเด็กๆ เหล่านี้ ในเรื่องทักษะการขโมย
 M5029-1_op_2_2,Refuse to teach these children the skill of Steal.,ปฏิเสธที่จะสอนทักษะการขโมย
-M5029-1_9_1,"These children are still young and have no concept of right and wrong. If they learn the skill of Steal and commit crimes, what should we do?",เด็กๆ เหล่านี้ยังเด็กนัก ยังไม่เข้าใจเรื่องผิดชอบชั่วดี ถ้าพวกเขาเรียนรู้วิธีการขโมย ไปทำผิดกฎหมาย ทำร้ายผู้อื่นละโดนจับละ
-M5029-1_9_2,"You have learned the skill of Steal and have not committed any crimes, why are you worried that these children will do bad things?",เจ้าไม่ได้เรียนรู้ที่จะทำสิ่งที่ผิดโดยไม่ถูกจับได้ แล้วทำไมถึงกังวลว่าเด็กเหล่านี้จะทำสิ่งที่ผิดละ?
-M5029-1_9_3,"This, this is not the same, right?",มันแตกต่างกันนะ
-M5029-1_9_4,"I don't care!\nWhether to teach them or not depends on your word.",ข้าไม่สนหรอก จะสอนหรือไม่ขึ้นอยู่กับคำพูดของเจ้า
-M5029-1_9_5,"Now is not the time to teach them, so I won't teach them now.",ตอนนี้พวกเขายังไม่ถึงเวลา ดังนั้นจะไม่สอนในตอนนี้
-M5029-1_9_6,"Hmph, if you won't teach, I will!",ฮึ่ย ถ้าไม่สอนฉันก็จะสอนเอง!
-M5029-1_10_1,"Everyone come over, our ""Master Thief"" {PlayerName}, brother {PlayerSurName} is going to show off his unique skills to everyone!","ทุกคนมารวมกันตรงนี้เลย! ""จอมโจร"" ของเรา {PlayerName} {PlayerSurName} จะมาโชว์ฝีมือสุดเจ๋งให้พวกเราตื่นตา!"
+M5029-1_9_1,"These children are still young and have no concept of right and wrong. If they learn the skill of Steal and commit crimes, what should we do?",เด็กๆ เหล่านี้ยังเด็กนัก ยังไม่เข้าใจเรื่องผิดชอบชั่วดี ถ้าพวกเขาเรียนรู้วิธีการขโมย ไปทำผิดกฎหมาย ทำร้ายผู้อื่นจนถูกโดนจับขึ้นมาล่ะจะทำยังไง?
+M5029-1_9_2,"You have learned the skill of Steal and have not committed any crimes, why are you worried that these children will do bad things?",เจ้าเรียนรู้วิชาขโมยมาแล้ว แต่ก็ยังไม่ได้ทำเรื่องชั่วร้ายอะไรเลย ทำไมกลับมากังวลว่าเด็กๆ พวกนี้จะทำเรื่องไม่ดีแทนเล่า?
+M5029-1_9_3,"This, this is not the same, right?",ไม่ ข้าว่ามันแตกต่างกันนะ?
+M5029-1_9_4,"I don't care!\nWhether to teach them or not depends on your word.",ข้าไม่สนหรอก จะสอนหรือไม่ก็แล้วแต่เจ้าแล้วกัน
+M5029-1_9_5,"Now is not the time to teach them, so I won't teach them now.",ตอนนี้พวกเขายังไม่ถึงเวลา ข้าจะยังไม่สอนพวกเขา
+M5029-1_9_6,"Hmph, if you won't teach, I will!",ฮึ่ม ถ้าไม่สอนข้าก็จะสอนเอง!
+M5029-1_10_1,"Everyone come over, our ""Master Thief"" {PlayerName}, brother {PlayerSurName} is going to show off his unique skills to everyone!","ทุกคนมารวมกันตรงนี้เลย! ""ท่านบรมครูจอมโจร"" ของเรา {PlayerName} จะมาโชว์ฝีมือสุดเจ๋งให้พวกเราตื่นตา!"
 M5029-1_10_2,"Kids, keep your eyes wide open~",เด็กๆ ตั้งใจ ดูละ
-M5029-1_10_3,Is that it? It's nothing special,นี่คือจุดจบเหรอ? แต่นั่นมัน
-M5029-1_10_4,Can you show everyone what's written on your back?,โชว์ให้ทุกคนดูหน่อยสิว่าด้านหลังเขียนอะไรไว้บ้าง?
+M5029-1_10_3,Is that it? It's nothing special,แค่เนี้ยเหรอ? ไม่เห็นมีอะไรเลย
+M5029-1_10_4,Can you show everyone what's written on your back?,ไหนเจ้าหันหลังไปให้ทุกคนดูซิว่ามีอะไรเขียนอยู่เอ่ย?
 M5029-1_10_5,You—,เจ้า—
 M5029-1_10_6,Are—,ช่าง—
 M5029-1_10_7,A—,โง่—
@@ -2830,28 +2830,28 @@ M5029-1_10_9,Fool—,นัก—
 M5029-1_10_10,Hahaha...,ฮ่าฮ่าฮ่า...
 M5029-1_10_11,Brother {PlayerSurName} is so cool!,พี่ชาย {PlayerSurName} เท่สุดๆ
 M5029-1_10_12,I want to learn this skill too!,ข้าก็อยากเรียนวิชานี้เช่นกัน!
-M5029-1_10_13,"Teach me, teach me, teach me quickly!","สอนข้าที , สอนเราด้วย , ข้าอยากเรียนด้วย!"
-M5029-1_10_14,I want to take brother {PlayerName} as my master,ข้าขอพาท่าน {PlayerName} ไปพบนายของข้า
+M5029-1_10_13,"Teach me, teach me, teach me quickly!",สอนข้าที  สอนข้าที ข้าอยากเรียนแล้ว!
+M5029-1_10_14,I want to take brother {PlayerName} as my master,ข้าขอคารวะพี่{PlayerName} เป็นอาจารย์ของข้าเลย
 M5029-1_10_15,"{PlayerGivenName}, you are my idol!",{PlayerGivenName} ท่านคือแบบอย่างของเราเลย!
 M5029-1_10_16,It's rare to see these little guys so happy,ไม่ค่อยได้เห็นเจ้าตัวเล็กๆ เหล่านี้มีความสุขขนาดนี้เลย
-M5029-1_10_17,"It's a piece of cake, if you guys behave well, you will be as good as me in the future.",มันง่ายมาก ถ้าเราตั้งใจเรียน ทำตัวดีๆ พวกเธอก็จะเก่งเหมือนข้าได้เหมือนกันนะ
+M5029-1_10_17,"It's a piece of cake, if you guys behave well, you will be as good as me in the future.",วิชานี้ง่ายมาก หากพวกเจ้าตั้งใจเรียน ทำตัวดีๆ พวกเจ้าก็จะเก่งเหมือนข้าได้เหมือนกันนะ
 M5029-1_10_18,We will definitely behave!,เราจะตั้งใจเรียน ทำตัวดี อย่างแน่นอน!
 M5029-1_10_19,I'm the best baby.,ข้าจะเป็นเด็กดี!
 M5029-1_10_20,I only listen to brother {PlayerName}.,ข้าจะฟังท่านพี่ {PlayerName}
 M5029-1_10_21,I'm the best behaved!,ข้าจะทำตัวดีๆ!
 M5029-1_10_22,"Big brother, you have to keep your word",พี่ชาย ต้องรักษาคำพูดนะ
-M5029-1_11_1,It seems to be very lively here.,ที่นี่ดูคึกคักมากๆ เลย!
-M5029-1_11_2,"You bunch of Swallow Nest thieves, you've got some nerve!\nA gathering of big and small thieves, it's a good opportunity to catch them all, quite a merit.",พวกโจรจากรังนกนางแอ่น พวกเจ้าคงกังวงใจสินะ การรวมตัวของโจรทั้งเล็กใหญ่เป็นโอกาสอันดีที่จะจับได้พวกมันได้ทั้งหมด
-M5029-1_11_3,"Catch them all, quite a big talk.",จับทั้งหมดงั้นหรอ เป็นคำพูดที่ขี้โม้จริงๆ
-M5029-1_11_4,"Hmph, no more talking about Inseparable, let's get started!",อืม อย่าพูดถึงเรื่อง แยกจากกันไม่ได้อีกเลย มาเริ่มกันเลยดีกว่า!
+M5029-1_11_1,It seems to be very lively here.,แหม คึกคักกันดีจริงเชียวนะ
+M5029-1_11_2,"You bunch of Swallow Nest thieves, you've got some nerve!\nA gathering of big and small thieves, it's a good opportunity to catch them all, quite a merit.","พวกเจ้าโจรเล็กโจรน้อยจากสำนักรังนกนางแอ่น กล้าดีนักนะ! \nทั้งโจรน้อยโจรใหญ่มารวมตัวกันพร้อมหน้าพอดี จะได้จับกวาดล้างให้หมดในคราวเดียว นับเป็นผลงานใหญ่เลยทีเดียว\n"
+M5029-1_11_3,"Catch them all, quite a big talk.",จับกวาดล้างให้หมดรึ ช่างพูดจาใหญ่โตจริงเชียว
+M5029-1_11_4,"Hmph, no more talking about Inseparable, let's get started!",ฮึ! ไม่ต้องสนว่าเป็นหรือตาย ลงมือเดี๋ยวนี้!
 M5029-1_12_1,"This place is no longer safe, hurry up and find a new place for these children.",ที่นี่ไม่ปลอดภัยแล้ว รีบหาที่อื่น จัดการดูแลเด็กเหล่านี้กันเถอะ!
 M5029-1_12_2,"Sister will take you to a new home, more comfortable and warmer than here!",พี่จะพาไปบ้านใหม่ สบาย อบอุ่นยิ่งกว่าที่นี่อีก!
 M5029-1_12_3,Long live sister!,พี่สาวจงเจริญ!
 M5029-1_12_4,I love Sister Qingqing the most.,รักพี่ชิงชิงทึ่สุดเลยย
 M5029-1_12_5,Time to move~,ได้เวลาไปกันแล้วว~
 M5029-1_12_6,Is there a better place than here?,นี้ มีที่ที่ดีกว่าที่นี่ไหม?
-M5029-1_12_7,Is big brother coming with us?,พี่ใหญ่มากับเราด้วยเหรอ?
-M5029-1_12_8,"Hua Qingqing relocated these children to a Ruined shrine, and the original Mountain cave was completely abandoned.",ฮวาชิงชิงนำเด็กๆ ไปพักพิงที่วัดร้างก่อน  ถ้ำเดิมที่พวกเราเคยอาศัยอยู่ถูกทิ้งร้าง ไม่ปลอดภัย
+M5029-1_12_7,Is big brother coming with us?,พี่ใหญ่มากับเราด้วยไหม?
+M5029-1_12_8,"Hua Qingqing relocated these children to a Ruined shrine, and the original Mountain cave was completely abandoned.",ฮวาชิงชิงนำเด็กๆ ไปพักพิงที่วัดร้างชั่วคราว ถ้ำเดิมที่พวกเราเคยอาศัยอยู่ถูกทิ้งร้างจากความไม่ปลอดภัย
 M5029-1_12_9,"{PlayerName}, these little ones are so happy today, thanks to you.",{PlayerName} วันนี้เจ้าตัวเล็กเหล่านี้มีความสุขมาก ขอบคุณเจ้ามากเลยนะ
 M5029-1_12_10,"It's nothing, seeing these children so happy, I feel pretty good too.",ไม่ต้องขอบคุณหรอก แค่เห็นเด็กๆ เหล่านี้มีความสุข ก็รู้สึกดีใจมากแล้ว
 M5029-1_12_11,Thank you...,ขอบคุณ...
@@ -6631,11 +6631,11 @@ School-1010-3_9_12,"{PlayerSurName} brother, come with me to see how many guts t
 School-1010-3_9_13,"Go back and tell your master that if he wants to exchange the lives of my brothers in Blue Wind Camp for his own bright future, I absolutely refuse!"
 School-1010-3_9_14,"Big brother, rest assured, we swear to live and die with Blue Wind Camp!"
 School-1010-3_9_15,"Good brother, I've had enough in this life!",พี่น้องที่ดี ชีวิตนี้ข้าพึงพอใจแล้ว!
-School-1010-3_9_16,"{yell}<size=150%>Cut the grass and remove the roots\nLeave no one!</size>"
-Skill-2140_6_1,"This time, our Swallow Nest really picked up a treasure. I didn't expect you to be so proficient in the way of stealing. The future growth of Swallow Nest depends on you!"
-School-2140-1_7_1,You new disciples who have just joined the Swallow Nest are still too weak and haven't shown any outstanding character. Come find me when you reach <color=#c44b0e>level 15</color>.
-School-2140-1_7_2,"During this time, you can go to the <color=#c44b0e>practice disciples</color> of our sect to learn and improve your strength as soon as possible."
-School-2140-2_log_2,Practice Steal Skill to level 2 with Kong Kong in Swallow Nest.
+School-1010-3_9_16,"{yell}<size=150%>Cut the grass and remove the roots\nLeave no one!</size>",{yell}<size=150%>ตัดรากถอนโคนมันให้สิ้น อย่าให้เหลือแม้แต่เพียงคนเดียว!</size>
+Skill-2140_6_1,"This time, our Swallow Nest really picked up a treasure. I didn't expect you to be so proficient in the way of stealing. The future growth of Swallow Nest depends on you!",คราวนี้สำนักรังนกนางแอ่นของเราได้พบขุมทรัพย์จริงๆ ไม่คิดเลยว่าเจ้าจะเชี่ยวชาญในวิชาขโมยของเช่นนี้ ต่อไปความเจริญรุ่งเรืองของสำนักรังนกนางแอ่นก็ต้องพึ่งพาเจ้าแล้ว!
+School-2140-1_7_1,You new disciples who have just joined the Swallow Nest are still too weak and haven't shown any outstanding character. Come find me when you reach <color=#c44b0e>level 15</color>.,เจ้าที่เพิ่งเข้าร่วมสำนักรังนกนางแอ่นใหม่ๆ ในตอนนี้ยังมีวรยุทธอ่อนด้อยเกินไป และยังไม่มีอะไรโดดเด่นแม้แต่น้อย รอให้เจ้าถึง <color=#c44b0e>เลเวล 15 </color> แล้วค่อยมาหาข้าอีกที
+School-2140-1_7_2,"During this time, you can go to the <color=#c44b0e>practice disciples</color> of our sect to learn and improve your strength as soon as possible.",ช่วงนี้เจ้าสามารถไปหา <color=#c44b0e>ศิษย์ช่วยการฝึกฝน</color>ของสำนักเราเพื่อประลองฝีมือ เร่งพัฒนาความสามารถของตนให้เร็วที่สุด
+School-2140-2_log_2,Practice Steal Skill to level 2 with Kong Kong in Swallow Nest.,ฝึกฝนวิชาการขโมยของให้ถึงระดับ 2 กับ ขงขง ที่รังนกนางแอ่น
 School-2140-2_8_1,Your stealing skills are not yet proficient. Go to the sleeping area inside and practice your stealing skills with <color=#c44b0e>Kong Kong</color>. Come find me when your Steal Skill is upgraded to level 2.
 School-2140-3_option_2_dialog,"There is always a vague sense of unease in my heart. Is it my illusion? \nShould I continue to go inside, or run away now..."
 School-2140-3_option_2_1,Continue forward (intense combat)
@@ -8528,7 +8528,7 @@ M20400-0_8_2,Your calculations are a bit excessive. I escorted you all the way h
 M20400-0_8_3,"Weren't you coming here anyway? Escorting me was just on your way. Without my guidance, you might have gotten lost in the vast desert. I haven't even charged you for guiding the way."
 M20400-0_8_4,You're a complete swindler!
 M20400-0_9_1,After all the calculations... it seems I don't have to pay you a single coin.,หลังจากที่ข้าคำนวณแล้ว ข้าไม่ควรจ่ายให้เจ้าสักตำลึง
-M20400-0_9_2,What did you say? I did all this for nothing?!
+M20400-0_9_2,What did you say? I did all this for nothing?!,เจ้าว่ายังไงนะ?! ที่ข้าทำไปนี่ไม่ได้อะไรเลยรึ?!
 M20400-0_9_3,"Weren't you coming here anyway? Escorting me was just on your way. Without my guidance, you might have gotten lost in the vast desert. If we calculate carefully, you might even owe me money."
 M20400-0_9_4,You've seen what I'm capable of. Don't make me angry!
 M20400-0_9_5,"This is Cold Skin Gang's territory. If you dare to commit violence in public, you'll be making an enemy of Cold Skin Gang. Think about the consequences."
@@ -8539,18 +8539,18 @@ M20400-0_10_4,You've seen what I'm capable of. Don't make me angry!
 M20400-0_10_5,"This is Cold Skin Gang's territory. If you dare to commit violence in public, you'll be making an enemy of Cold Skin Gang. Think about the consequences."
 M20400-0_11_1,"We've known each other for a while now. Considering that you once saved my life, I have a secret recipe for making <color=#c44b0e>Thunder bullet</color> here. It's not worth much to me, so I might as well give it to you as a favor.",ในเมื่อเราก็คุ้นเคยกันแล้ว แถมท่านยังเคยช่วยชีวิตข้าไว้ด้วย ข้าจะขอมอบสูตร <color=#c44b0e>ระเบิดอัศนี</color> นี้ให้ท่าน อาจไม่มีค่าในต่อข้ามากนัก เพราะอย่างนั้นข้าจะขอมอบมันให้ท่าน
 M20400-0_11_2,"Alright, our deal ends here. Until we meet again.",เอาล่ะ การว่าจ้างจบลงเท่านี้ ไว้พบกันใหม่
-M20400-1_1_1,"Kind sir, could you spare a few coins to save a life?"
-M20400-1_op_1_1,Donate 10 coins. (<color=#097a76>10 coins</color>)
-M20400-1_op_1_2,Donate 100 coins. (<color=#097a76>100 coins</color>)
-M20400-1_op_1_3,Give 1000 coins. (<color=#097a76>1000 coins</color>)
+M20400-1_1_1,"Kind sir, could you spare a few coins to save a life?",นายท่าน กรุณาบริจาคให้ข้าสักเล็กน้อยได้ไหมขอรับ?
+M20400-1_op_1_1,Donate 10 coins. (<color=#097a76>10 coins</color>),บริจาค 10 อีแปะ <color=#097a76>(10 อีแปะ)</color>
+M20400-1_op_1_2,Donate 100 coins. (<color=#097a76>100 coins</color>),บริจาค 100 อีแปะ <color=#097a76>(100 อีแปะ)</color>
+M20400-1_op_1_3,Give 1000 coins. (<color=#097a76>1000 coins</color>),บริจาค 1000 อีแปะ <color=#097a76>(1000 อีแปะ)</color>
 M20400-1_op_1_4,Turn around and run away.,หันหลังและจากไป
-M20400-1_2_1,"Can't even afford a few coins, you pauper!"
+M20400-1_2_1,"Can't even afford a few coins, you pauper!",ขอเงินแค่นี้ก็ให้ไม่ได้ ไอ้ขี้งก!
 M20400-1_3_1,
-M20400-1_4_1,"In this day and age, 10 coins can't do anything, please show some mercy."
-M20400-1_5_1,"Well, 100 coins can barely fill the stomach, better than nothing."
-M20400-1_6_1,"You're such a great benefactor, truly a living Bodhisattva who saves the needy."
-M20400-1_7_1,"With so much money, who would continue to be a beggar!"
-M20400-1_7_2,"Buy meat, drink wine, I'm going to stay in the most luxurious room~"
+M20400-1_4_1,"In this day and age, 10 coins can't do anything, please show some mercy.",ทุกวันนี้ 10 อีแปะไม่พอยาไส้หรอกขอรับ กรุณาให้ข้าอีกเถิด
+M20400-1_5_1,"Well, 100 coins can barely fill the stomach, better than nothing.",ก็ยังดี 100 อีแปะยังพอทำให้อิ่มได้บ้าง ดีกว่าไม่มีอะไรเลยขอรับ
+M20400-1_6_1,"You're such a great benefactor, truly a living Bodhisattva who saves the needy.",ท่านผู้ใจบุญ ท่านเป็นด่างพระโพธิสัตว์เดินดินที่ลงมาโปรดสัตว์โดยแท้จริงขอรับ
+M20400-1_7_1,"With so much money, who would continue to be a beggar!",เงินขนาดนี้ข้าจะเป็นขอทานไปทำไมล่ะเว้ย!
+M20400-1_7_2,"Buy meat, drink wine, I'm going to stay in the most luxurious room~",ได้เวลาไปหาเนื้อกิน ดื่มสุรา ข้าจะไปอยู่ในห้องที่หรูที่สุดเลย~
 M20400-1_7_3,Is there no ambition? It seems that you can only be a beggar in this life.
 M20400-1_7_4,The bowl used by the beggar just now was a bit strange...
 M20400-1_7_5,(Pick up the bowl on the ground and examine it carefully)

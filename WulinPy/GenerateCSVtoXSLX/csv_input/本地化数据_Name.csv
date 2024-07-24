@@ -385,7 +385,7 @@ CharaName_上隐,Senior Hermit,ฤาษีอาวุโส
 CharaName_干将,Ganjiang,ลูกน้อง
 CharaName_族人,Clanman,คนในเผ่า
 CharaName_蛊人,Gu Man,กู่หมาน
-CharaName_练功弟子,Training Disciple,ศิษย์ในการฝึกฝน
+CharaName_练功弟子,Training Disciple,ศิษย์ช่วยการฝึกฝน
 CharaName_镖头,Elite Escort,หัวหน้าสำนักคุ้มภัย
 CharaName_舞娘,Dancer,นางรำ
 CharaName_帮众,Gang Member,สมาชิกพรรค
@@ -606,7 +606,7 @@ CharaName_神捕门·捕快,Crime Investigation Bureau·Constable,มือป�
 CharaName_神捕门·捕头,Crime Investigation Bureau·Chief Constable,หัวหน้ามือปราบสำนักสืบสวน
 CharaName_燕子窝·弟子,Swallow's Nest Disciple,ศิษย์รังนกนางแอ่น
 CharaName_虎威镖局·镖头,Tiger Escort-Escort Captain,สำนักคุ้มภัยพยัคฆา·หัวหน้าผู้คุ้มภัย
-CharaName_琅琊剑阁·练功弟子,Langya Sword Pavilion·Training Disciple,สำนักกระบี่หลางหยา : ศิษย์ในการฝึกฝน
+CharaName_琅琊剑阁·练功弟子,Langya Sword Pavilion·Training Disciple,สำนักกระบี่หลางหยา : ศิษย์ช่วยการฝึกฝน
 CharaName_海龙帮·喽罗,Sea Dragon Gang-Lackey,สมุนพรรคมังกรสมุทร
 CharaName_飞鹰帮·喽罗,Flying Eagle Gang-Lackey,สมุนพรรคอินทรีเหิน
 CharaName_道玄宗·弟子,Taoist Sect·Disciple,สำนักเต๋า·ลูกศิษย์
@@ -999,7 +999,7 @@ CharaTitle_新九流门,New Nine Factions Sect,นิกายเก้าฝ่
 CharaTitle_龙翔镖局,Dragon Soaring Escort Agency,สำนักคุ้มภัยมังกรทะยาน
 CharaTitle_玄武镖局,Black Tortoise Escort Agency,สำนักคุ้มภัยเต่าดำ
 CharaTitle_鹰扬镖局,Eagle Soaring Escort Agency,สำนักคุ้มภัยอินทรีทะยาน
-CharaTitle_书院,Calligraphy School,โรงเรียนประดิษฐ์ตัวอักษร
+CharaTitle_书院,Calligraphy School,สำนักศึกษา
 CharaTitle_画院,Painting School,โรงเรียนศิลปะ
 CharaTitle_棋院,Go School,โรงเรียนหมากล้อม
 CharaTitle_琴院,Qin School,โรงเรียนฉิน
@@ -1166,13 +1166,13 @@ CharaTitle_十煞君,Ten Slaughter Army,ทัพสิบมาร
 CharaTitle_玉门关,Jade Gate,ด่านประตูหยก
 CharaTitle_爆竹匠人,Firecracker craftsman,ช่างทำพลุ
 CharaName_锦阳关,Jin Yang Gate,ประตูจินหยาง
-CharaName_徐老六,Xu Laolu,ซูเหล่าลิ่ว
+CharaName_徐老六,Xu Laolu,สวีเหล่าลิ่ว
 CharaName_慎先生,Master Shen,อาจารย์เสิ่น
 CharaName_庄主,Manor Lord,เจ้าหมู่ตึก
 CharaName_木牛,Wooden Cow,วัวไม้
-CharaName_孙行者,Sun Yogin,ซุนเห้งเจีย
+CharaName_孙行者,Sun Yogin,ซุนหงอคง
 CharaName_吴岳,Wu Yue,อู๋เยว่
-CharaName_陆破军,Liu Pojun,หลิว ปู้จุน
+CharaName_陆破军,Liu Pojun,ลู่พั่วจวิน
 CharaName_季云翔,Ji Yunxiang,จี้หยุนเซียง
 CharaName_段红锦,Duan Hongjin,ต้วนหงจิน
 CharaName_慕容轩,Murong Xuan,มู่หรงเซวียน

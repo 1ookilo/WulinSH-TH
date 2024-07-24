@@ -621,11 +621,11 @@ MapName_2180,Cloud Camp,ค่ายเมฆา
 MapName_2181,Cloud Camp - Meeting Hall,ค่ายเมฆา - โถงประชุม
 MapName_2182,Cloud Camp - Bedroom,ค่ายเมฆา - ห้องนอน
 MapName_2190,Beast Manor,หมู่ตึกหมื่นอสูร
-MapName_2191,Beast Manor·Main Hall,หมู่ตึกหมื่นอสูร·โถงหลัก
+MapName_2191,Beast Manor·Main Hall,หมู่ตึกหมื่นอสูร·ห้องโถงหลัก
 MapName_2192,Beast Manor·Guest Room,หมู่ตึกหมื่นอสูร·ห้องรับแขก
 MapName_2200,Plant House,ตำหนักพฤกษา
-MapName_2201,Plant House - Main Hall,ตำหนักพฤกษา - โถงหลัก
-MapName_2211,Cold Skin Gang - Main Hall,พรรคมังสาเหมันต์ - โถงหลัก
+MapName_2201,Plant House - Main Hall,ตำหนักพฤกษา - ห้องโถงหลัก
+MapName_2211,Cold Skin Gang - Main Hall,พรรคมังสาเหมันต์ - ห้องโถงหลัก
 MapName_2220,Chang'an Inn,โรงเตี๊ยมฉางอัน
 MapName_2221,Chang'an Inn - Reception,โรงเตี๊ยมฉางอัน - ห้องโถงด้านหน้า
 MapName_2222,Chang'an Inn - Hallway,โรงเตี๊ยมฉางอัน - ทางเดินชั้นสอง
@@ -636,7 +636,7 @@ MapName_2226,Guest Room,ห้องรับแขก
 MapName_2227,Guest Room,ห้องรับแขก
 MapName_2228,Chang'an Inn - Kitchen,โรงเตี๊ยมฉางอัน - ห้องครัว
 MapName_2230,Divine Flame Sect,นิกายไฟศักดิ์สิทธิ์
-MapName_2231,Divine Flame Sect - Main Hall,นิกายไฟศักดิ์สิทธิ์ - โถงหลัก
+MapName_2231,Divine Flame Sect - Main Hall,นิกายไฟศักดิ์สิทธิ์ - ห้องโถงหลัก
 MapName_10140,Bailing Mountain- Foot of Mountain,ภูเขาไป๋หลิง - ตีนเขา
 MapName_10141,Bailing Mountain - Mountain Foot,ภูเขาไป๋หลิง - เชิงเขา
 MapName_10142,Bailing Mountain - Mountain Cave,ภูเขาไป๋หลิง - ถ้ำ
@@ -668,7 +668,7 @@ WMapName_2180,Cloud Camp,ค่ายเมฆา
 WMapName_2190,Beast Manor,หมู่ตึกหมื่นอสูร
 WMapName_2220,Chang'an Inn,โรงเตี๊ยมฉางอัน
 WMapName_2230,Divine Flame Sect ,นิกายไฟศักดิ์สิทธิ์
-WMapName_2231,Divine Flame Sect - Main Hall,นิกายไฟศักดิ์สิทธิ์ - โถงหลัก
+WMapName_2231,Divine Flame Sect - Main Hall,นิกายไฟศักดิ์สิทธิ์ - ห้องโถงหลัก
 WMapName_10140,Bailing Mountain,ภูเขาไป๋หลิง
 WMapName_10150,Flame Toad Cave,ถ้ำคางคกอัคคี
 WMapName_10160,Divine Ox Treasury,คลังสมบัติเทพวัว
@@ -679,11 +679,11 @@ MapName_5043,
 MapName_5062,Jin Yang Gate,ประตูจินหยาง
 MapName_5063,Stele Road,เส้นทางหินจารึก
 MapName_5064,Frozen Heart Lake,ทะเลสาบหัวใจเยือกแข็ง
-MapName_2240,Xu Family Outpost,ด่านนอกตระกูลซู
-MapName_2241,Xu Family Outpost - Tavern,โรงเตี๊ยมสกุลซู
+MapName_2240,Xu Family Outpost,ด่านหน้าตระกูลสวี
+MapName_2241,Xu Family Outpost - Tavern,ด่านหน้าตระกูลสวี - โรงเตี๊ยม
 MapName_2242,Temple of Guan Yu,ศาลเจ้ากวนอู
 MapName_2250,Deep Snow Manor,หมู่ตึกหิมะ
-MapName_2251,Deep Snow Manor - Main Hall,หมู่ตึกหิมะ - ตำหนักหลัก
+MapName_2251,Deep Snow Manor - Main Hall,หมู่ตึกหิมะ - ห้องโถงหลัก
 MapName_2252,Deep Snow Manor - Guest Room,หมู่ตึกหิมะ - ห้องพัก
 MapName_2253,Deep Snow Manor - Guest Room,หมู่ตึกหิมะ - ห้องพัก
 MapName_2254,Deep Snow Manor - Guest Room,หมู่ตึกหิมะ - ห้องพัก
@@ -700,10 +700,10 @@ WMapName_5043,
 WMapName_5062,Jin Yang Gate,ประตูจินหยาง
 WMapName_5063,Stele Road,เส้นทางหินจารึก
 WMapName_5064,Frozen Heart Lake,ทะเลสาบหัวใจเยือกแข็ง
-WMapName_2240,Xu Family Outpost,ด่านนอกตระกูลซู
-WMapName_2241,Xu Family Outpost - Tavern,โรงเตี๊ยมสกุลซู
+WMapName_2240,Xu Family Outpost,ด่านหน้าตระกูลสวี
+WMapName_2241,Xu Family Outpost - Tavern,ด่านหน้าตระกูลสวี - โรงเตี๊ยม
 WMapName_2250,Deep Snow Manor,หมู่ตึกหิมะ
-WMapName_2251,Deep Snow Manor - Main Hall,หมู่ตึกหิมะ - ตำหนักหลัก
+WMapName_2251,Deep Snow Manor - Main Hall,หมู่ตึกหิมะ - ห้องโถงหลัก
 WMapName_2252,Deep Snow Manor - Guest Room,หมู่ตึกหิมะ - ห้องพัก
 WMapName_2253,Deep Snow Manor - Guest Room,หมู่ตึกหิมะ - ห้องพัก
 WMapName_2254,Deep Snow Manor - Guest Room,หมู่ตึกหิมะ - ห้องพัก
