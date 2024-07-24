@@ -2617,26 +2617,26 @@ R10011-1_0_23,"You guys go back to school quickly, so that the gentleman can't f
 R10011-1_0_24,Okay! Goodbye big brother!
 R10011-1_0_25,The kid is leaving.
 R10011-1_0_26,I didn't expect Marshal Ye to become a gentleman after retiring... It seems that he has passed on the hope of restoring the country to the next generation...
-R10008-8_0_1,"I remember Dream Butterfly said five days ago that she wanted to find the answer in the book about what should happen after the fate is tied, I wonder if she has found it now."
-R10008-8_0_2,Why not go and ask her directly.
-R10008-8_1_1,"{PlayerGivenName} brother, you didn't tell others about you and me, did you?"
-R10008-8_1_2,Don't worry! I didn't tell anyone!
+R10008-8_0_1,"I remember Dream Butterfly said five days ago that she wanted to find the answer in the book about what should happen after the fate is tied, I wonder if she has found it now.",ห้าวันก่อน Dream Butterfly เอ่ยถึงตำราโบราณ นางค้นหาคำตอบในหนังสือว่าจะเกิดอะไรขึ้นหลังจากโชคชะตาผูกมัด นางค้นพบแล้วหรือยังหนอ?
+R10008-8_0_2,Why not go and ask her directly.,เหตุใดมิถามนางตรงๆ?
+R10008-8_1_1,"{PlayerGivenName} brother, you didn't tell others about you and me, did you?",{PlayerGivenName} ท่านไม่ได้บอกเรื่องของเรากับคนอื่นใช่ไหม?
+R10008-8_1_2,Don't worry! I didn't tell anyone!,ไม่ต้องกังวล ข้าไม่ได้บอกใคร
 R10008-8_1_3,"Haha, that's good...\nSigh..."
 R10008-8_1_4,"Dream Butterfly, why are you still sighing?"
 R10008-8_1_5,"{PlayerGivenName} brother, do you remember what I told you five days ago?"
-R10008-8_1_6,"I remember, you said you wanted to find out from the book what should happen after the blessing of the God of Marriage."
-R10008-8_1_7,"Five days have passed, and I still haven't found anything. I've racked my brains, but I can't figure it out."
-R10008-8_1_8,"It feels like I'm about to take an exam, but I haven't finished reviewing the book..."
+R10008-8_1_6,"I remember, you said you wanted to find out from the book what should happen after the blessing of the God of Marriage.",ข้าจำได้ เจ้าบอกว่า เจ้าต้องการค้นหาจากหนังสือว่าหลังจากได้รับพรจากเทพเจ้าแห่งการแต่งงานแล้วจะเป็นอย่างไรต่อไป
+R10008-8_1_7,"Five days have passed, and I still haven't found anything. I've racked my brains, but I can't figure it out.",ผ่านมาห้าวันแล้ว ข้าไม่พบอะไรเลย แม้จะพยายามคิดแค่ไหนแต่ข้าก็ไม่อาจจะเข้าใจได้
+R10008-8_1_8,"It feels like I'm about to take an exam, but I haven't finished reviewing the book...",ข้านั้นรู้สึกเหมือนจะเข้าสอบ แต่ยังอ่านหนังสือไม่เข้าใจ
 R10008-8_1_9,(Don't use such a scary metaphor!)
-R10008-8_1_10,"Dream Butterfly, which books are you looking for the answer in?"
+R10008-8_1_10,"Dream Butterfly, which books are you looking for the answer in?","Dream Butterfly, เจ้ากำลังหาคำตอบจากหนังสือเล่มไหนรึ?"
 R10008-8_1_11,I... I'm looking in the Talented Scholars and Beautiful Ladies Novel.
 R10008-8_1_12,Talented Scholars and Beautiful Ladies Novel?
 R10008-8_1_13,"Where else can I find it!\nAnd these writers are too bad, they suddenly end the book after writing about the man and woman going through hardships and forming a good bond."
-R10008-8_1_14,But what I want to understand is what happens after the good bond is formed.
+R10008-8_1_14,But what I want to understand is what happens after the good bond is formed.,แต่สิ่งที่ข้าอยากจะเข้าใจคือสิ่งที่จะเกิดขึ้นหลังจากความผูกพันที่เกิดขึ้น
 R10008-8_1_15,Sigh...
 R10008-8_1_16,"How about... we go to the God of Marriage's Shrine again, just the two of us."
-R10008-8_1_17,Go to the God of Marriage's Shrine? Do you think we will find the answer there?
-R10008-8_1_18,"Let's go, we might know if we go."
+R10008-8_1_17,Go to the God of Marriage's Shrine? Do you think we will find the answer there?,ไปที่ศาลเจ้าวิวาห์? เจ้าคิดว่าเราจะพบคำตอบได้จากที่นั้นรึ?
+R10008-8_1_18,"Let's go, we might know if we go.",ไปกันเถอะ เราอาจจะรู้ถ้าเราไป
 R10008-8_2_1,"{PlayerGivenName} brother, five days have passed, and I still haven't found the answer..."
 R10008-8_2_2,Five days? What answer?
 R10008-8_2_3,Didn't you see the note I secretly gave you?
@@ -2660,15 +2660,15 @@ R10008-8_2_20,"I think this answer is very important, I haven't learned about lo
 R10008-8_2_21,"Even if you don't do well, there's no harm to our relations, I won't mind at all."
 R10008-8_2_22,"But... but, I'm a bit lost, I don't know what happens after forming a bond, it's like an unexplored mountain cave, dark and I dare not enter..."
 R10008-8_2_23,"I see, it seems I really need to help you out."
-R10008-8_2_24,"Dream Butterfly, which books are you looking for the answer in?"
+R10008-8_2_24,"Dream Butterfly, which books are you looking for the answer in?","Dream Butterfly, เจ้ากำลังหาคำตอบจากหนังสือเล่มไหนรึ?"
 R10008-8_2_25,I... I'm looking in the Talented Scholars and Beautiful Ladies Novel.
 R10008-8_2_26,Talented Scholars and Beautiful Ladies Novel?
 R10008-8_2_27,"Where else can I find it!\nAnd these writers are too bad, after the man and woman in the book go through hardships, they stop writing when they get to the part about forming a bond."
 R10008-8_2_28,But what I want to understand is what happens after forming a bond.
 R10008-8_2_29,Sigh...
 R10008-8_2_30,"How about... we go to the God of Marriage's Shrine again, just the two of us."
-R10008-8_2_31,Go to the God of Marriage's Shrine? Do you think we will find the answer there?
-R10008-8_2_32,"Let's go, we might know if we go."
+R10008-8_2_31,Go to the God of Marriage's Shrine? Do you think we will find the answer there?,ไปที่ศาลเจ้าวิวาห์? เจ้าคิดว่าเราจะพบคำตอบได้จากที่นั้นรึ?
+R10008-8_2_32,"Let's go, we might know if we go.",ไปกันเถอะ เราอาจจะรู้ถ้าเราไป
 R10008-8_3_1,Hmm... what is this? When did I get an extra note in my pocket?
 R10008-8_3_2,This seems to be Ling Mengdie's handwriting...
 R10008-8_3_3,"""{PlayerGivenName} brother, although Mengdie has formed a bond with you, we are both blessed by the moon god."""
@@ -2678,25 +2678,25 @@ R10008-8_3_6,"""Mengdie fears that if she doesn't understand this, she won't be 
 R10008-8_3_7,"""Therefore, Mengdie wants to use five days to seek answers in the sea of books. Within these five days, please do not tell others about your bond with me, so as not to make Mengdie anxious. Thank you very much. Ling Mengdie."""
 R10008-8_3_8,"The general meaning of the letter is that Ling Mengdie doesn't know what to do after forming a bond, and there's nothing about it in the books. She's very confused and has decided to spend five days looking for answers in the books."
 R10008-8_3_9,"Calculating the time, it's already after the fifth day. I wonder if she's found the answer."
-R10008-8_3_10,Why not go and ask her directly.
-R10008-8_4_1,There's still no change here.
-R10008-8_4_2,"{PlayerGivenName} brother, do you remember how we met?"
-R10008-8_4_3,"Remember, how could I not. The first time I saw you, you were sleeping in the Hall of righteousness in the Confucius Temple."
-R10008-8_4_4,"Those days were probably the hardest for me, half dreaming and half awake all day, sometimes I couldn't even tell if I was dreaming or awake."
-R10008-8_4_5,"At that time, if I fell asleep while reading a book, I would finish the second half of the book in my dream. When I woke up and continued reading, I realized that the second half of the book I had read was just a dream."
+R10008-8_3_10,Why not go and ask her directly.,เหตุใดมิถามนางตรงๆ?
+R10008-8_4_1,There's still no change here.,ที่นี้ยังไม่มีอะไรเปลี่ยนแปลง
+R10008-8_4_2,"{PlayerGivenName} brother, do you remember how we met?",{PlayerGivenName} ท่านจำได้หรือไม่ว่าเราพบกันได้อย่างไร?
+R10008-8_4_3,"Remember, how could I not. The first time I saw you, you were sleeping in the Hall of righteousness in the Confucius Temple.",จำได้สิ ครั้งแรกที่ข้าเจอเจ้า เจ้านอนหลับอยู่ในหอหนังสือแห่งความชอบธรรมในวัดขงจื้อ
+R10008-8_4_4,"Those days were probably the hardest for me, half dreaming and half awake all day, sometimes I couldn't even tell if I was dreaming or awake.",ช่วงเวลานั้นช่างยากลำบากสำหรับข้า เดี๋ยวหลับเดี๋ยวตื่นทั้งวันจนบางครั้งข้าก็แยกไม่ออกว่าข้ากำลังหลับหรือตื่นอยู่
+R10008-8_4_5,"At that time, if I fell asleep while reading a book, I would finish the second half of the book in my dream. When I woke up and continued reading, I realized that the second half of the book I had read was just a dream.",ในตอนนั้น ข้าคิดว่าข้าอ่านหนังสือแล้วหลับไป ข้าตื่นขึ้นมาและอ่านต่อครึ่งหลังที่เหลือ แต่ในความเป็นจริงแม้แต่หนังสือที่ข้าอ่านนั้นก็เป็นเพียงความฝัน 
 R10008-8_4_6,I don't like this.
 R10008-8_4_7,"Sometimes I dream that the bookshelves in the Hall of righteousness are endless, with no exit."
 R10008-8_4_8,Do you often dream?
 R10008-8_5_1,"Almost every time I sleep, very realistic dreams, I'm fighting with a martial artist whose face I can't see. Every time I wake up, I feel like I've gained a lot."
 R10008-8_5_2,"It seems we're both dreamers, but... haha, you dream about fighting, that's so you."
-R10008-8_6_1,"Occasionally I have a few vague dreams, most of which I forget soon after waking up."
+R10008-8_6_1,"Occasionally I have a few vague dreams, most of which I forget soon after waking up.",บางครั้ง ข้าก็มีความฝันที่คลุมเคลือบ้าง แต่ข้าจะลืมไปหมดสิ้นเมื่อตื่น
 R10008-8_6_2,Sounds like most people in the books.
-R10008-8_7_1,"During that time when I could fall asleep at any moment, thanks to you for always being with me."
-R10008-8_7_2,And thanks to you for pulling me out of my dreams.
-R10008-8_7_3,"Maybe what you should be most grateful for is the Dragon lice, hahaha."
-R10008-8_7_4,"Haha, you're right, I'm thinking about whether I should raise a Dragon lice in the future."
+R10008-8_7_1,"During that time when I could fall asleep at any moment, thanks to you for always being with me.",ในช่วงนั้นที่ข้าสามารถหลับได้ทุกเวลา ขอบคุณท่านจริงๆที่คอยอยู่เคียงข้างข้า
+R10008-8_7_2,And thanks to you for pulling me out of my dreams.,และขอบคุณที่ดึงข้าออกจากความฝัน
+R10008-8_7_3,"Maybe what you should be most grateful for is the Dragon lice, hahaha.",บางทีสิ่งที่ควรจะเขาคุณมากที่สุดอาจจะเป็นเหามังกรตัวนั้นก็ได้นะ ฮ่า ฮ่า ฮ่า
+R10008-8_7_4,"Haha, you're right, I'm thinking about whether I should raise a Dragon lice in the future.",ฮ่าฮ่า ท่านพูดถูก ท่านคิดว่าในอนาคตข้าควรจะฝึกเลี้ยงหามังกรหรือไม่
 R10008-8_7_5,You'd better not...
-R10008-8_7_6,"By the way, when you learn martial arts, what's your habit, do you practice while reading, or do you practice after reading?"
+R10008-8_7_6,"By the way, when you learn martial arts, what's your habit, do you practice while reading, or do you practice after reading?",ว่าแต่ท่านพี่ ท่านเรียนวิทยายุทธ์อย่างไร ท่านฝึกฝนไปอ่านไป หรือฝึกฝนหลังจากอ่านเสร็จแล้ว?
 R10008-8_7_7,"The topic has changed too quickly... Discussing martial arts under the moonlight. Dream Butterfly, you are indeed a child of the jianghu."
 R10008-8_7_8,"What I'm saying is the experience I gained from learning martial arts,"
 R10008-8_7_9,"Go ahead, I'm all ears."
@@ -5789,13 +5789,13 @@ DNGT-3_8_15,The relations between South-East Barbarian and King Chai.
 DNGT-3_8_16,"I work for the lord, there are some things I can't say."
 DNGT-3_8_17,"Brother Liao, you are really loyal to King Chai."
 DNGT-3_8_18,The lord promised me that he would tell me who the murderer is...
-DNGT-3_8_19,"I see, then I don't need to say anything. But I still have to remind Brother Liao, today it was South-East Barbarian who set fire to Mei Pass Post, please think about it."
+DNGT-3_8_19,"I see, then I don't need to say anything. But I still have to remind Brother Liao, today it was South-East Barbarian who set fire to Mei Pass Post, please think about it.",อย่างนี้นี่เอง ข้าไม่มีอะไรจะพูดหรอก แต่ข้าขอให้พี่เหลียวจำไว้ว่า วันนี้พวกคนเถื่อนเขตตะวันออกเฉียงใต้คือคนที่เผาด่านเหมย เรื่องนี้ผมอยากให้พี่เหลียวเก็บไปคิดดูก่อนนะ
 DNGT-3_9_1,"Today's arson and the past grudges of the innkeepers, I will make you pay with blood!"
 DNGT-3_10_1,"Ancestors, I'm sorry..."
 DNGT-3_10_2,"There's no point in staying here, better run away."
 DNGT-3_11_1,Report this to General Han.
-DNGT-3_12_1,"Luckily, I arrived in time and Mei Pass Post was successfully saved."
-DNGT-3_12_2,"There are no other clues for now, let's go back to Mei Pass Post and see if there are any developments from others."
+DNGT-3_12_1,"Luckily, I arrived in time and Mei Pass Post was successfully saved.",โชคดีที่ข้ามาทันเวลา เรากู้วิกฤตด่านเหมยสำเร็จแล้ว
+DNGT-3_12_2,"There are no other clues for now, let's go back to Mei Pass Post and see if there are any developments from others.",ตอนนี้ยังไม่มีเบาะแสอะไรเลย กลับไปด่านเหมยก่อน เผื่อมีอะไรคืบหน้าอะไรบ้าง
 DNJH-7-3_0_1,"Mr. Lu, Brother Lu, it seems that both of you have gained something?"
 DNJH-7-3_0_2,"It's okay, I happened to hear some interesting things in the tavern."
 DNJH-7-3_0_3,Same at the pier.

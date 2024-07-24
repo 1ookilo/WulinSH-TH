@@ -56,7 +56,7 @@
 10006_12_2,"Today, when I finish you off, everything you have will be mine. Very good! Very good!",วันนี้เมื่อข้าจัดการเจ้าเสร็จแล้ว ทุกสิ่งที่เจ้ามีจะเป็นของข้า ดีมาก! ดีมาก!
 10006_13_1,"Hahaha! You're quite something, lad.",ฮ่าๆๆๆ นายนี่มันน่าทึ่งมาก ไอ้หนู
 10006_13_2,"But after all, I'm from Confucius Temple, prepare to die!",อย่างไรเสีย ข้าก็มาจากวัดขงจื๊อ เตรียมตัวตายซะ!
-10006_2_1,"It's {PlayerSurName}, huh? Hehe, there must be a reason for your visit. What's on your mind?",นี้ {PlayerSurName} ฮ่าๆ ไม่มีใครมาโดยไม่มีเหตุผล แค่บอกในสิ่งที่เจ้าต้องการมา!
+10006_2_1,"It's {PlayerSurName}, huh? Hehe, there must be a reason for your visit. What's on your mind?",หืม? นี่มัน {PlayerSurName} นี่ ฮ่าๆ ไม่มีใครมาโดยไม่มีเหตุผล บอกมาเจ้าต้องการอะไรเล่า!
 10006_3_1,"Oh, it's {PlayerName}, hahaha, welcome, welcome!",โอ้ เป็น{PlayerName}นี่เอง ฮาฮา ยินดี ยินดีต้อนรับ!
 10006_4_1,"{PlayerName}, you are so generous!",ท่าน {PlayerName} ช่างมีน้ำใจ!
 10006_5_1,You're wise to comply!,นับว่าเจ้าฉลาดที่ยอมเชื่อฟัง!
@@ -67,7 +67,7 @@
 10006_9_1,My father warned me to be cautios when I decided to follow you.,ท่านพ่อของข้าเตือนไว้ให้ข้าระวังตัวหากข้าตัดสินใจติดตามเจ้า
 10006_9_2,It seems my father's judgment is indeed sharp!,ดูเหมือนว่าการตัดสินใจของท่านพ่อจะเฉียบแหลมจริงๆ!
 10007_1_1,Hmm? Who are you?,หืม? เจ้าเป็นใคร?
-10007_2_1,"Ah, it's {PlayerSurName} huh? Hehe!",นี่มัน {PlayerSurName} นี่หว่า ฮิฮิ
+10007_2_1,"Ah, it's {PlayerSurName} huh? Hehe!",หืม? นี่มัน {PlayerSurName} นี่หว่า ฮิฮิ!
 10007_3_1,"How have you been recently, {PlayerName}?",เจ้าเป็นเช่นไรบ้าง {PlayerName} ?
 10007_4_1,"Although it's not much, {PlayerSurName} is thoughtful!",แม้นี่จะไม่มากนัก แต่ท่าน{PlayerSurName}ก็ยังมีน้ำใจจริงๆ!
 10007_5_1,Remember this for next time!,จำสิ่งนี้ไว้สำหรับครั้งต่อไป!
@@ -86,7 +86,7 @@
 10008_3_1,"How have you been recently, {PlayerName}?",พักนี้เจ้าเป็นเช่นไรบ้าง {PlayerName}?
 10008_4_1,"Although it's a bit less, {PlayerSurName}, it's the thought that counts!",แม้จะยังขาดไปบ้างก็ตามเถอะนะ {PlayerSurName} แต่น้ำใจต่างหากที่สำคัญ!
 10008_5_1,Remember this for next time!,คราวหน้าข้าจะมาคิดบัญชีกับเจ้า!
-10008_6_1,You brought this upon yourself! Hehe! Take him down!,เจ้าแกว่งเท้าหาเสี้ยนเองนะ! เหอๆ! จัดการมันซะ!
+10008_6_1,You brought this upon yourself! Hehe! Take him down!,เจ้าแกว่งเท้าหาเสี้ยนเองนะ! ฮ่าๆๆ! จัดการมันซะ!
 10008_7_1,Are you leaving?,จะไปแล้วหรือ?
 10008_8_1,You've certainly grown some skills!,ทักษะของเจ้าพัฒนาขึ้นมาก!
 10008_8_2,How dare you cause trouble in my sect!,กล้าดียังไงมาก่อความวุ่นวายในสำนักข้า!
@@ -1420,7 +1420,7 @@ M1301-2_3_1,"Hmm... No, I can't understand what it's depicting...",หืมม.
 M1301-2_3_2,It seems that my fist technique is not proficient enough to understand this fist technique.,ดูเหมือนว่าข้าจะยังไม่เชี่ยวชาญวิชาหมัดพอที่จะเข้าใจวรยุทธนี้
 M1301-2_3_3,I'll come back and look at it when I'm more proficient in my fist technique...,ข้าจะกลับมาดูเมื่อวิชาหมัดของข้ารุดหน้ามากกว่านี้...
 M1400-1_0_1,"\nIs this be a wild boar's den? There's so many wild boars, it seems like I'm in for a tough fight!",นี่เป็นรังหมูป่าเหรอ? มีหมูป่าเพียบเลย ดูเหมือนว่าข้าจะงานเข้าซะแล้วล่ะ!
-M1400-1_1_1,"Hehe, a pink tree! Lingzhi! I've finally found it.",เฮ้ ต้นไม้สีชมพูใหญ่! เห็ดหลินจือยักษ์! ในที่สุดก็พบ.
+M1400-1_1_1,"Hehe, a pink tree! Lingzhi! I've finally found it.",ฮี่ฮี่ ต้นไม้สีชมพูใหญ่! เห็ดหลินนี่นา! ในที่สุดก็พบสักที
 M1400-1_2_1,"Hurry up and pick up the Lingzhi, so I don't forget later.",รีบเก็บ<color=#c44b0e>เห็ดหลินจือ</color>ดีกว่า เดี๋ยวจะลืมเสียก่อน
 M1400-1_2_2,"I'm so lucky, I almost missed this treasure.",ข้าโชคดีมาก ข้าเกือบจะพลาดสมบัติชิ้นนี้ไปแล้ว
 M1400-1_3_1,"These wild boars are so powerful!\nNo Lingzhi is more important than my life, I dare not covet this treasure.","หมูป่าพวกนี้มีพลังเยอะ!\nไม่มีเห็ดหลินจืออันไหนสำคัญไปกว่าชีวิต ข้าไม่กล้าละโมบในสมบัติชิ้นนี้"

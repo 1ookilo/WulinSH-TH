@@ -59,7 +59,7 @@ guid-4_1_3,"I thought with your charm, junior sister, you could gather a crowd w
 guid-4_1_4,"If you want to recruit people, don't be afraid to spend money. If the treatment is not good, why would people follow you? Is it because of your self-righteous handsome face?",หากต้องการรับคนเข้าสำนัก อย่าได้กลัวการใช้จ่าย หากไม่ให้ผลตอบแทนที่ดี ผู้ใดเล่าจะยอมติดตามพวกเจ้า? หรือว่าพวกเจ้าคิดว่าโฉมหน้าอันงดงามที่เจ้าหลงตัวเองนักหนานั้นจะดึงดูดผู้คนได้?
 guid-4_1_5,"I hope the spending can come to an end, otherwise if this continues, I, the new sect leader, can only declare bankruptcy and close the sect.",ข้าหวังว่าการใช้จ่ายนี้จะสิ้นสุดลงเสียที มิเช่นนั้นหากยังคงเป็นเช่นนี้ต่อไป ข้าผู้เป็นเจ้าสำนักคนใหม่คงต้องประกาศล้มละลายและปิดสำนักเสียแล้ว
 guid-4_1_6,"Oh, this is far from enough. For such talented disciples, I suggest <color=#00FF00>promoting</color> them to more promising inner disciples. Although the monthly expenditure is slightly higher, it can maximize the growth limit, which is very cost-effective in the long run!"
-guid-4_1_7,Spending money again... My heart aches...
+guid-4_1_7,Spending money again... My heart aches...,เสียเงินอีกแล้ว... ข้าปวดใจ...
 guid-4_1_8,"If the sect leader doesn't know which disciple to promote for a while, why not <color=#00FF00>promote</color> your cutest junior sister first? I'm your most staunch supporter~"
 guid-5_name,Learn,เรียนรู้
 guid-5_log,Improve the martial arts skills of the disciples through <color=#00FF00>Learning</color> or directly enter the next round.
@@ -87,7 +87,7 @@ guid-6_1_5,"My peerless martial arts are not yet accomplished, if I don't leave 
 guid-6_1_6,"Don't panic, senior brother! The small animals I've been taming in the back mountain can finally come in handy. When the people from Blue Wind Camp come, they'll have a hard time!"
 guid-6_1_7,"The small animals in the back mountain, aren't they just a bunch of chicks? They're more like midnight snacks for others, are you planning to stuff them to death... Junior sister, I bid you farewell, we'll meet again in the future——"
 guid-6_1_8,"Who dares to block my way, don't blame me for being rude!"
-guid-6_1_9,"Cluck cluck, cluck cluck cluck..."
+guid-6_1_9,"Cluck cluck, cluck cluck cluck...","กุ๊ก กุ๊ก, กุ๊ก กุ๊ก กุ๊ก..."
 guid-6_1_10,What a move... genuine... chicken claw skill...
 guid-6_1_11,"Senior brother, why are you back? I thought we were never going to meet again~"
 guid-6_1_12,"Junior sister, you won't believe it... I was beaten by a chicken..."
@@ -116,7 +116,7 @@ guid-7_log,Have the Disciple meditate to quickly acquire 100 <color=#00FF00>Medi
 guid-7_1_1,"Let's settle the vendetta together, even if we don't wipe out the Blue Wind Camp, they will never let us go."
 guid-7_1_2,"There's always a way out, Senior Brother, don't be too pessimistic."
 guid-7_1_3,Is there any way to quickly enhance the strength of our sect? The guys from Blue Wind Camp won't wait for us to develop slowly.
-guid-7_1_4,"Let me think... Ah, I got it!"
+guid-7_1_4,"Let me think... Ah, I got it!","ข้าขอคิดก่อน... อ่าห์, ข้าคิดได้แล้ว!"
 guid-7_1_5,"Master once told me that if you want to develop and strengthen a sect, the leader must gather wisdom and listen to the Disciples' opinions."
 guid-7_1_6,"Our sect was originally poor, thanks to our Master's month-long meditation, he came up with the idea of borrowing money from Blue Wind Camp to solve the urgent need."
 guid-7_1_7,"Yes, then the Master took the money and ran away to hide from the debt, leaving us two to continue being poor."
@@ -148,7 +148,7 @@ guid-8_2_6,"Sigh, no one can be a sect leader like you. Here's some private mone
 guid-8_2_7,"Junior sister, I knew you would always be the most caring one for me..."
 guid-8_2_8,"Three percent interest per month, thank you for your patronage! My future dowry depends on you, senior brother~"
 guid-8_2_9,You're not my junior sister... you're a loan shark!
-guid-9_name,Trade
+guid-9_name,Trade,แลกเปลี่ยน
 guid-9_log,Try to trade with merchants or directly enter the next month.
 guid-9_1_1,"Sect leader, wake up!"
 guid-9_1_2,"The sect leader is sleeping, he's not here..."
