@@ -251,7 +251,7 @@ CharaName_厨师,Chef,พ่อครัว
 CharaName_守塔将军,Tower guarding general,แม่ทัพเฝ้าหอคอย
 CharaName_住持,Abbot,เจ้าอาวาส
 CharaName_家丁,Servant,คนรับใช้
-CharaName_商贩,Merchant,คนขายของ
+CharaName_商贩,Merchant,พ่อค้า
 CharaName_丫鬟,Servant girl,หญิงรับใช้
 CharaName_侍女,Maid,แม่บ้าน
 CharaName_护卫,Guard,ผู้คุ้มกัน
@@ -499,12 +499,12 @@ CharaName_白子,White Piece,หมากขาว
 CharaName_楚襄城差役,Chuxiang City Bailiff,เจ้าหน้าที่เมืองฉู่เซียง
 CharaName_江湖人士,Vagabond,ผู้พเนจร
 CharaName_无极观观主,Master of Wuji View,เจ้าอาวาสวัดอู๋จี๋
-CharaName_冷香门门主,Master of Lengxiang Gate,ปรมาจารย์สำนักเหลิงเซียง
-CharaName_飞鹰帮帮主,Master of Flying Eagle Gang,หัวหน้าพรรคอินทรีเหิน
+CharaName_冷香门门主,Master of Lengxiang Gate,เจ้าสำนักเหลิงเซียง
+CharaName_飞鹰帮帮主,Master of Flying Eagle Gang,ประมุขพรรคอินทรีเหิน
 CharaName_烂柯寺住持,Abbot of Lankesi,เจ้าอาวาสวัดหลานเค่อ
 CharaName_悬空阁阁主,Master of Xuankong Pavilion,ปรมาจารย์ ซวนคง
-CharaName_青蛇帮帮主,Master of Green Snake Gang,หัวหน้าพรรคงูเขียว
-CharaName_飞羽帮帮主,Master of Flying Feather Gang,หัวหน้าพรรคขนนกบิน
+CharaName_青蛇帮帮主,Master of Green Snake Gang,ประมุขพรรคงูเขียว
+CharaName_飞羽帮帮主,Master of Flying Feather Gang,ประมุขพรรคขนนกบิน
 CharaName_太华宗宗主,Master of Taihua Sect,เจ้าสำนักไท่ฮัว
 CharaName_迷踪门门主,Master of Mizong Gate,เจ้านิกายสาบสูญ
 CharaName_猿赖氏,Yuan Lai Clan,ตระกูลหยวนไล๋

@@ -28,7 +28,7 @@ FactionName_楚襄城虚拟势力,Chuxiang City,เมืองฉู่เซ�
 FactionName_大梁城虚拟势力,Daliang City,เมืองต้าเหลียง
 FactionName_上京城,Shangjing City,เมืองซ่างจิง
 FactionName_霖安城,Lin'an City,เมืองหลินอัน
-FactionName_霖安驿站,Lin'an Post Station,หลินอัน - ศาลาพักม้า
+FactionName_霖安驿站,Lin'an Post Station,หลินอัน - ที่ทำการจุดพักม้าส่งสาร
 FactionName_霖安客栈,Lin'an Inn,หลินอัน - โรงเตี๊ยม
 FactionName_霖安铁匠铺,Lin'an Blacksmith's forge,หลินอัน - โรงตีเหล็ก
 FactionName_霖安当铺,Lin'an Pawnshop,หลินอัน - โรงรับจำนำ
@@ -223,7 +223,7 @@ FactionInfo_虎威镖局,"Once the largest escort agency in the world, but a few
 FactionInfo_夜摩坊,"A market outside Daliang City that only opens at night, it is very lively every night. There is an auction every night, and it has the posture of competing with the Glittering Artifact Auction.",ตลาดนอกเมืองต้าเหลียงที่เปิดเฉพาะตอนกลางคืนและคึกคักทุกคืน มีการประมูลทุกคืน และมีท่าทีแข่งขันกับหอไข่มุก
 FactionInfo_玄衣会,"A killer organization that only recognizes money and does not recognize people. As long as you are on their target list, there is only one way to die.",องค์กรนักฆ่าที่ยอมรับแต่เงินและไม่สนใจผู้ใด ตราบใดที่คุณอยู่ในรายชื่อเป้าหมาย มีทางเดียวเท่านั้นคือ ตาย
 FactionInfo_摸金门,"Mysterious organization, living by stealing cultural relics in ancient tombs, all the disciples are proficient in the technique of dividing gold and determining acupoints, and no one knows where their power is.",องค์กรลึกลับที่ใช้ชีวิตโดยการขโมยโบราณวัตถุในสุสานโบราณ สาวกทุกคนมีความเชี่ยวชาญในเทคนิคการแยกทองคำและกำหนดจุดฝังเข็ม และไม่มีใครรู้ที่มาของวิชาพวกเขา
-FactionInfo_冷皮帮,"Located in the Flame City in the desert, it is the actual ruler of Flame City. Under the management of Master Huo Shilou, it resists the self-proclaimed Western Regions hegemon, the Divine Flame Sect.",ตั้งอยู่ในเมืองอัคคี ซึ่งตั้งอยู่กลางทะเลทราย ถือเป็นผู้ปกครองที่แท้จริงของเมืองอัคคี ภายใต้การบริหารของหัวหน้าพรรคฮั่วซื่อเหล่า เขาทำงานอย่างหนักเพื่อต่อต้านนิกายไฟศักดิ์สิทธิ์ ซึ่งอ้างตัวว่าเป็นเจ้าเหนือหัวของภูมิภาคตะวันตก
+FactionInfo_冷皮帮,"Located in the Flame City in the desert, it is the actual ruler of Flame City. Under the management of Master Huo Shilou, it resists the self-proclaimed Western Regions hegemon, the Divine Flame Sect.",ตั้งอยู่ในเมืองอัคคี ซึ่งตั้งอยู่กลางทะเลทราย ถือเป็นผู้ปกครองที่แท้จริงของเมืองอัคคี ภายใต้การบริหารของประมุขพรรคฮั่วซื่อเหล่า เขาทำงานอย่างหนักเพื่อต่อต้านนิกายไฟศักดิ์สิทธิ์ ซึ่งอ้างตัวว่าเป็นเจ้าเหนือหัวของภูมิภาคตะวันตก
 FactionInfo_燕云铁军,"The elite army of the Yan Kingdom, with strong soldiers and horses, is eyeing the Central Plains under the command of Wanyan Wuzhu.",กองทัพชั้นยอดของแคว้นเยี่ยน พร้อมด้วยทหารและม้าที่แข็งแกร่ง กำลังจับตาดูจงหยวน ภายใต้การบังคับบัญชาของหวันเหยียนอู๋จู
 FactionInfo_将军府,"The Chuxiang City garrison led by Lü Wenhuan, caught between multiple forces, is seeking a survival plan.",กองทหารรักษาการณ์ประจำเมืองฉู่เซียง ที่นําโดยลู่เหวินหวน ซึ่งตกอยู่ท่ามกลางแผนโจมตีจากหลายฝ่ายและกําลังค้นหาแผนการเอาชีวิตรอด
 FactionInfo_燕子窝,"Created by the legendary thief ""Yanzi Li"" who is at the top of Qinggong, his stealing technique and Qinggong are unparalleled in the world. Often in the blink of an eye, he has already pickpocketed, and there is no trace of him coming and going.","ก่อตั้งโดยจอมโจรในตำนาน ""หลี่เยี่ยนสือ"" ผู้มีวิชาตัวเบาเป็นเลิศ ทักษะการขโมยของเขาและวิชาตัวเบาไม่มีใครทัดเทียมได้ ฉกชิงในพริบตา ไปมาไร้ร่องรอย"
@@ -355,7 +355,7 @@ FactionName_柳月樱,
 FactionInfo_锦阳关,
 FactionName_凰木港,Phoenix Woods Harbor,ท่าเรือป่าหงส์
 FactionName_摧锋军,Blade Destruction Army,กองทัพดาบพิฆาต
-FactionName_梅关驿,Mei Pass Post,ค่ายด่านเหมย
+FactionName_梅关驿,Mei Pass Post,จุดพักม้าส่งสารด่านเหมย
 FactionName_海寇营地,Pirate Camp,ค่ายโจรสลัด
 FactionName_万竹溪,Thousands of Bamboo Creek,ลำธารไผ่พันต้น
 FactionName_越人营地,South-East Barbarian Camp,ค่ายคนเถื่อนเขตตะวันออกเฉียงใต้
