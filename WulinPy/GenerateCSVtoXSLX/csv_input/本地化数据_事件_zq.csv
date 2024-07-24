@@ -2561,7 +2561,7 @@ DNYJJ-1_overview4,"Patrol the South-East Region with your troops, defeat the Yue
 DNYJJ-1_overview5,Return to Blade Destruction Army Camp as soon as possible.
 DNYJJ-1_overview6,"Run away from the main camp, track the whereabouts of Ba Nantian."
 DNYJJ-1_overview7,"The Yue people's camp should be south of the Blade Destruction Army Camp, search carefully to the south."
-DNYJJ-1_overview8,Get ready and attack the South-East Barbarian Camp.,เตรียมพร้อมและโจมตีค่ายคนเถื่อนทางตะวันออกเฉียงใต้
+DNYJJ-1_overview8,Get ready and attack the South-East Barbarian Camp.,เตรียมพร้อมและโจมตีค่ายคนเถื่อนเขตตะวันออกเฉียงใต้
 DNYJJ-1_overview9,"Return to the Blade Destruction Army's main tent, think about the next strategy."
 DNYJJ-1_overview10,Prepare to head to Phoenix Woods Harbor.,เตรียมเดินทางไปท่าเรือป่าหงส์
 DNYJJ-1_overview11,"Go to Duke Chai's Tower, capture King Chai."
@@ -2677,7 +2677,7 @@ R10060-2_overview3,Ask the Dessert Merchant at Mei Pass Post about the Liao fami
 R10060-2_overview4,Ask the Bun Shop Innkeeper at Mei Pass Post about the Liao family blood case from thirteen years ago.
 R10060-2_overview5,Go to the old Liao family house at Mei Pass Post to see if there's anything else to discover.
 R10060-2_overview6,Go to the Phoenix Woods Harbor clinic and ask the Doctor about what happened back then.
-R10060-2_overview7,Go to Mei Pass Post and ask the local Beggar.
+R10060-2_overview7,Go to Mei Pass Post and ask the local Beggar.,มุ่งสู่ด่านเหมย แล้วไปถามขอทานแถวๆ นี้
 R10060-2_option1_1,Yes.,ใช่
 R10060-2_option1_2,No.,ไม่
 R10060-2_option2_1,No noise at night.,ไม่มีเสียงรบกวนตอนกลางคืน
@@ -2704,7 +2704,7 @@ R10060-2_option8_1,Two extra bodies.
 R10060-2_option8_2,The truth about everyone's Slumber.
 R10060-2_option8_3,Signs of martial arts use.
 R10060-2_option9_1,The Liao family's Butler!
-R10060-2_option9_2,The Dessert Merchant at Mei Pass Post!
+R10060-2_option9_2,The Dessert Merchant at Mei Pass Post!,คนขายขนมหวานอยู่ที่ด่านเหมย!
 R10060-2_option9_3,The Doctor at Phoenix Woods Harbor!
 R10060-2_option10_1,There's a secret only known to the Liao family.
 R10060-2_option10_2,There's something only the Liao family knows where it is.
@@ -2712,8 +2712,8 @@ R10060-2_option10_3,There's a kung fu only the Liao family knows how to do.
 A15022-1_option1_1,Take it! <color=#097a76>(Milk snow cake1 piece)</color>
 A15022-1_option1_2,Wait a bit longer.
 M2270-4_name,Poisoned Pig Case
-M2270-4_overview1,Investigate the pigsty at Mei Pass Post.
-M2270-4_overview2,Ask the Innkeepers about the animals around Mei Pass Post.
+M2270-4_overview1,Investigate the pigsty at Mei Pass Post.,สืบหาความลับแถวๆ คอกหมูในด่านเหมย
+M2270-4_overview2,Ask the Innkeepers about the animals around Mei Pass Post.,สอบถามเถ้าแก่โรงเตี๊ยมเกี่ยวกับสัตว์ที่อยู่รอบๆ ด่านเหมย
 M2270-4_overview3,Ask the Dessert Merchant what desserts he made yesterday.
 M2270-1_option1_1,I want to stay. <color=#097a76>(400Coin)</color>
 M2270-1_option1_2,Not staying for now.
@@ -2725,8 +2725,8 @@ M2270-2_option1_3,Talk later.,ไว้คุยเรื่องนี้ท�
 M2270-2_option2_1,Pay up! <color=#097a76>(2000Coin)</color>
 M2270-2_option2_2,"Can you give a discount? <color=#097a76>(1000Coin, Persuade level 4 Expert)</color>"
 M2270-2_option2_3,Talk later.,ไว้คุยเรื่องนี้ทีหลัง
-M5065-2_name,Heavy Rain at Mei Pass
-M5065-2_overview1,"Keep going, head to Mei Pass Post to avoid the rain."
+M5065-2_name,Heavy Rain at Mei Pass,ฝนตกหนัก ณ ด่านเหมย
+M5065-2_overview1,"Keep going, head to Mei Pass Post to avoid the rain.",รีบมุงหน้าไปยังด่านเหมยเพื่อหาที่หลบฝน
 R20740-2-1_name,Go to Great Ant City
 R20740-2-1_Talking,Dragonfly
 R20740-2_option1_1,Let's go!<color=#097a76>(Twelve shichen)</color>

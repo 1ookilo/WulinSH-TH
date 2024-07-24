@@ -5544,7 +5544,7 @@ DNJH-7-1_0_44,"I will mark the location of the South-East Barbarian Camp on your
 DNJH-7-1_0_45,Understood.
 DNJH-7-1_1_1,"Young hero {PlayerSurName}, how is the situation outside?"
 DNJH-7-1_1_2,You tell Han Anren everything that happened.
-DNJH-7-1_1_3,"Such a thing happened, thanks to {PlayerSurName}'s quick thinking, the people of Mei Pass Post were spared..."
+DNJH-7-1_1_3,"Such a thing happened, thanks to {PlayerSurName}'s quick thinking, the people of Mei Pass Post were spared...",ในเหตุการณ์เช่นนี้ ต้องขอขอบคุณ {PlayerSurName} เป็นอย่างสูง ที่ช่วยผู้คนในด่านเหมยขอรับ...
 DNJH-7-1_1_4,"When people are in trouble, how can I not help?"
 DNJH-7-1_1_5,"Young hero {PlayerSurName}, you are truly selfless. I was suspicious of you before, I feel ashamed."
 DNJH-7-1_1_6,"It's only natural for General Han to be suspicious, I don't mind.\nCan General Han tell me what the clue I found in the South-East Barbarian Camp is?"
@@ -5580,7 +5580,7 @@ DNJH-7-1_6_3,"...But, this is undoubtedly a capital crime of treason, King Chai 
 DNJH-7-1_6_4,This...
 DNJH-7-1_7_1,"...This is indeed possible. If what you say is true, how can we break the situation?"
 DNJH-7-1_7_2,"Since they are using information gap to deceive the people of Phoenix Woods Harbor, we just need to eliminate the information gap."
-DNJH-7-1_7_3,"The news Mr. Lu heard is about the South-East Barbarians, combined with the South-East Barbarians burning the Mei Pass Post and harassing the camp, perhaps they want to spread the news that the South-East Barbarians have cut off the land trade route."
+DNJH-7-1_7_3,"The news Mr. Lu heard is about the South-East Barbarians, combined with the South-East Barbarians burning the Mei Pass Post and harassing the camp, perhaps they want to spread the news that the South-East Barbarians have cut off the land trade route.",ข่าวคราวที่คุณชายหลู่ได้ยินนั้นมาจากพวกคนเถื่อนเขตตะวันออกเฉียงใต้ พวกมันได้เผาด่านเหมยและโจมตีค่ายทหาร อาจจะเป็นการส่งสัญญาณว่า พวกมันต้องการตัดเส้นทางการค้าทางบก
 DNJH-7-1_7_4,"So, as long as Mr. Lu can ensure that the land transport can arrive smoothly, this rumor will self-destruct."
 DNJH-7-1_7_5,"Alas, it's easier said than done..."
 DNJH-7-1_7_6,"This is my negligence, I will allocate 50 elite soldiers to assist you."
@@ -5602,7 +5602,7 @@ DNJH-7-1_8_8,"If I were Ji Baichu, the purpose of designing these strategies cou
 DNJH-7-1_8_9,"At this point, the General will be in a difficult position and will have to release King Chai to calm the situation."
 DNJH-7-1_8_10,"...This is indeed possible. If what you say is true, how can we break the situation?"
 DNJH-7-1_8_11,"Since they are using information gap to deceive the people of Phoenix Woods Harbor, we just need to eliminate the information gap."
-DNJH-7-1_8_12,"The news I heard is about the South-East Barbarians, combined with the South-East Barbarians burning the Mei Pass Post and harassing the camp, perhaps they want to spread the news that the South-East Barbarians have cut off the land trade route."
+DNJH-7-1_8_12,"The news I heard is about the South-East Barbarians, combined with the South-East Barbarians burning the Mei Pass Post and harassing the camp, perhaps they want to spread the news that the South-East Barbarians have cut off the land trade route.",ข้าได้ยินข่าวคราวเกี่ยวกับพวกคนเถื่อนเขตตะวันออกเฉียงใต้ พวกมันได้เผาด่านเหมยและโจมตีค่ายทหาร อาจจะเป็นการส่งสัญญาณว่า พวกมันต้องการตัดเส้นทางการค้าทางบก
 DNJH-7-1_8_13,"So, General Han, all you need to do is..."
 DNJH-7-1_8_14,"I understand, I will allocate 50 elite soldiers to assist you."
 DNJH-7-1_8_15,"...Alas, that's not what I meant... Well, even though it's a hassle, leave it to me."
@@ -5703,46 +5703,46 @@ DNGT-2_1_10,"According to General Han's arrangement, the Blade Destruction Army 
 DNGT-2_1_11,What if there are enemies in other parts of the South-East Region?
 DNGT-2_1_12,It will be handled by the main camp...
 DNGT-2_1_13,"But there are occasional harassments from the South-East Barbarians here, you can't just run away from the camp..."
-DNGT-2_1_14,"I understand, the attacks here are just feints, their real target must be somewhere else!"
-DNGT-2_1_15,Could it be the Blade Destruction Army Camp?! But there...
-DNGT-2_1_16,"...Yes, the remnants wouldn't easily attack there, is there any other place in the South-East Region..."
-DNGT-2_1_17,"Yes, the Mei Pass Post! It's all Han people there, and the supplies are quite abundant. It's also a necessary route to the southeast, as long as they capture it..."
-DNGT-2_1_18,"No, I must hurry to Mei Pass Post!"
-DNGT-2_2_1,"{PlayerSurName} General, what are your orders."
-DNGT-2_2_2,I received a report that remnants of the South-East Barbarian are coming to seize the camp?
-DNGT-2_2_3,"They did come indeed, but there were only a few of them each time, and we easily repelled them."
-DNGT-2_2_4,Just a few people...
-DNGT-2_2_5,"People of the Central Plains, give us back our homeland!"
-DNGT-2_2_6,"Well, speak of the devil...\n{PlayerSurName}General, please step back, leave this to us!"
-DNGT-2_2_7,"No, since they ran into me, they're out of luck!"
-DNGT-2_3_1,Just a few people trying to seize the camp?
-DNGT-2_3_2,Yes... it's always just a few people...
-DNGT-2_3_3,"They can't pose much of a threat to the camp, but their constant harassment is quite annoying..."
-DNGT-2_3_4,"They should already know the combat power of our army, but they still keep harassing us with just a few people, what is their purpose? They can't really expect to take back the camp with just a few people..."
-DNGT-2_3_5,Now that you mention it... it is indeed strange...
-DNGT-2_3_6,"Currently, the Blade Destruction Army is stationed at the main camp, here, Pirate and Phoenix Woods Harbor, supporting each other... But with the harassment of the South-East Barbarian here, we can't act rashly..."
-DNGT-2_3_7,"I understand, the attacks here are just feints, their real target must be somewhere else!"
-DNGT-2_3_8,Could it be the Blade Destruction Army Camp?! But there...
-DNGT-2_3_9,"...Yes, the remnants wouldn't easily attack there, is there any other place in the South-East Region..."
-DNGT-2_3_10,"Right, Mei Pass Post! There are plenty of supplies there, and it's a must-pass route to the southeast, as long as we capture it..."
-DNGT-2_3_11,"No, I must hurry to Mei Pass Post!"
-DNGT-2_4_1,"{PlayerSurName} General, what are your orders."
-DNGT-2_4_2,I received a report that remnants of the South-East Barbarian are coming to attack the camp?
-DNGT-2_4_3,"They did come indeed, but there were only a few of them each time, and we easily repelled them."
-DNGT-2_4_4,Just a few people...
+DNGT-2_1_14,"I understand, the attacks here are just feints, their real target must be somewhere else!",เข้าใจแล้ว การโจมตีที่นี่เป็นเพียงการเบี่ยงเบนความสนใจ เป้าหมายจริงๆ ของพวกมันต้องอยู่ที่อื่นแน่!
+DNGT-2_1_15,Could it be the Blade Destruction Army Camp?! But there...,ค่ายกองทัพดาบพิฆาตเหรอ?! แต่ที่นั่นมัน...
+DNGT-2_1_16,"...Yes, the remnants wouldn't easily attack there, is there any other place in the South-East Region...",...ใช่แล้ว ไอ้กากเดนพวกนี้คงไม่กล้าบุกที่นั่นหรอก ยังมีที่อื่นอีกในเขตตะวันออกเฉียงใต้...
+DNGT-2_1_17,"Yes, the Mei Pass Post! It's all Han people there, and the supplies are quite abundant. It's also a necessary route to the southeast, as long as they capture it...",ใช่แล้ว ด่านเหมย! ที่นั่นมีแต่พวกฮั่น เสบียงอาหารก็อุดมสมบูรณ์ เป็นเส้นทางสำคัญไปยังตะวันออกเฉียงใต้ด้วย ถ้าหากพวกมันยึดได้ละก็...
+DNGT-2_1_18,"No, I must hurry to Mei Pass Post!",ไม่ได้ ข้าต้องรีบไปด่านเหมย!
+DNGT-2_2_1,"{PlayerSurName} General, what are your orders.",ท่านแม่ทัพ {PlayerSurName} มีอะไรให้รับใช้ขอรับ
+DNGT-2_2_2,I received a report that remnants of the South-East Barbarian are coming to seize the camp?,ข้าได้รับรายงานว่าพวกคนเถื่อนเขตตะวันออกเฉียงใต้กำลังมารวมตัวกันเพื่อยึดค่ายใช่ไหม?
+DNGT-2_2_3,"They did come indeed, but there were only a few of them each time, and we easily repelled them.",พวกมันบุกมาจริงๆ แต่มาไม่เยอะเท่าไหร่ พวกเราจัดการพวกมันได้สบายอยู่แล้ว
+DNGT-2_2_4,Just a few people...,แค่ไม่กี่คนเนี่ยนะ...
+DNGT-2_2_5,"People of the Central Plains, give us back our homeland!",ผู้คนในจงหยวน จงกอบกู้บ้านเกิดเมืองนอนของเรา!
+DNGT-2_2_6,"Well, speak of the devil...\n{PlayerSurName}General, please step back, leave this to us!","โอ้ ช่างบังเอิญเสียจริง\nท่านแม่ทัพ {PlayerSurName} วางใจได้เลย ปล่อยเป็นหน้าที่พวกเราเอง!"
+DNGT-2_2_7,"No, since they ran into me, they're out of luck!",ไม่ ถ้ามันเข้ามาเจอข้า ก็ถึงคราวซวยของพวกมันแล้ว!
+DNGT-2_3_1,Just a few people trying to seize the camp?,แค่คนหยิบมือเดียวเองรึที่คิดจะยึดค่าย?
+DNGT-2_3_2,Yes... it's always just a few people...,ถูกต้อง... ก็มักจะมีแค่คนหยิบมือเดียวทุกครั้งไป..
+DNGT-2_3_3,"They can't pose much of a threat to the camp, but their constant harassment is quite annoying...",ถึงพวกมันไม่ได้มีพิษสงให้กับค่ายมากเท่าไหร่ แต่การก่อกวนพวกมัน ช่างน่ารำคาญยิ่งนัก...
+DNGT-2_3_4,"They should already know the combat power of our army, but they still keep harassing us with just a few people, what is their purpose? They can't really expect to take back the camp with just a few people...",พวกมันน่าจะรู้แล้วว่ากองทัพของเรามีกำลังพลแค่ไหน แต่ทำไมยังส่งคนเพียงหยิบมือมาก่อกวนเราอยู่บ่อย ๆ เป้าหมายของพวกมันคืออะไร? มันคงยึดค่ายด้วยเพียงหยิบมือแบบนี้หรอกนะ...
+DNGT-2_3_5,Now that you mention it... it is indeed strange...,จริงด้วย... พูดถึงเรื่องนี้แล้วมันก็แปลกๆ นะขอรับ...
+DNGT-2_3_6,"Currently, the Blade Destruction Army is stationed at the main camp, here, Pirate and Phoenix Woods Harbor, supporting each other... But with the harassment of the South-East Barbarian here, we can't act rashly...",ตอนนี้กองทัพดาบพิฆาตประจำอยู่ที่ค่ายหลัก มีโจรสลัดและท่าเรือป่าหงส์คอยหนุนหลัง... แต่ด้วยการรบกวนของพวกคนเถื่อนตะวันออกเฉียงใต้ที่นี่ทำให้เราเคลื่อนพลไม่สะดวก
+DNGT-2_3_7,"I understand, the attacks here are just feints, their real target must be somewhere else!",เข้าใจแล้ว การโจมตีที่นี่เป็นเพียงการเบี่ยงเบนความสนใจ เป้าหมายจริงๆ ของพวกมันต้องอยู่ที่อื่นแน่!
+DNGT-2_3_8,Could it be the Blade Destruction Army Camp?! But there...,ค่ายกองทัพดาบพิฆาตเหรอ?! แต่ที่นั่นมัน...
+DNGT-2_3_9,"...Yes, the remnants wouldn't easily attack there, is there any other place in the South-East Region...",...ใช่แล้ว ไอ้กากเดนพวกนี้คงไม่กล้าบุกที่นั่นหรอก ยังมีที่อื่นอีกในเขตตะวันออกเฉียงใต้...
+DNGT-2_3_10,"Right, Mei Pass Post! There are plenty of supplies there, and it's a must-pass route to the southeast, as long as we capture it...",ถูกต้อง ด่านเหมยที่นั่นมีเสบียงอาหาร และเป็นเส้นทางผ่านสำคัญไปยังตะวันออกเฉียงใต้ หากเราสามารถยึดที่นั่นได้...
+DNGT-2_3_11,"No, I must hurry to Mei Pass Post!",ไม่ได้ ข้าต้องรีบไปด่านเหมย!
+DNGT-2_4_1,"{PlayerSurName} General, what are your orders.",ท่านแม่ทัพ {PlayerSurName} มีอะไรให้รับใช้ขอรับ
+DNGT-2_4_2,I received a report that remnants of the South-East Barbarian are coming to attack the camp?,ข้าได้รับรายงานว่าพวกคนเถื่อนเขตตะวันออกเฉียงใต้กำลังมารวมตัวกันเพื่อยึดค่ายใช่ไหม?
+DNGT-2_4_3,"They did come indeed, but there were only a few of them each time, and we easily repelled them.",พวกมันบุกมาจริงๆ แต่มาไม่เยอะเท่าไหร่ พวกเราจัดการพวกมันได้สบายอยู่แล้ว
+DNGT-2_4_4,Just a few people...,แค่ไม่กี่คนเนี่ยนะ...
 DNGT-2_4_5,"People of the Central Plains, avenge our fallen kin!"
-DNGT-2_4_6,"Well, speak of the devil...\n{PlayerSurName}General, please step back, leave this to us!"
-DNGT-2_4_7,"No, since they ran into me, they're out of luck!"
+DNGT-2_4_6,"Well, speak of the devil...\n{PlayerSurName}General, please step back, leave this to us!","โอ้ ช่างบังเอิญเสียจริง\nท่านแม่ทัพ {PlayerSurName} วางใจได้เลย ปล่อยเป็นหน้าที่พวกเราเอง!"
+DNGT-2_4_7,"No, since they ran into me, they're out of luck!",ไม่ ถ้ามันเข้ามาเจอข้า ก็ถึงคราวซวยของพวกมันแล้ว!
 DNGT-2_5_1,Just a few people are coming to attack the main camp?
-DNGT-2_5_2,Yes... it's always just a few people...
-DNGT-2_5_3,"They can't pose much of a threat to the camp, but their constant harassment is quite annoying..."
+DNGT-2_5_2,Yes... it's always just a few people...,ถูกต้อง... ก็มักจะมีแค่คนหยิบมือเดียวทุกครั้งไป..
+DNGT-2_5_3,"They can't pose much of a threat to the camp, but their constant harassment is quite annoying...",ถึงพวกมันไม่ได้มีพิษสงให้กับค่ายมากเท่าไหร่ แต่การก่อกวนพวกมัน ช่างน่ารำคาญยิ่งนัก...
 DNGT-2_5_4,"They should already know the combat power of our army, but they still keep harassing us with just a few people, what is their purpose? They can't really expect to take down the main camp with just a few people..."
-DNGT-2_5_5,Now that you mention it... it is indeed strange...
+DNGT-2_5_5,Now that you mention it... it is indeed strange...,จริงด้วย... พูดถึงเรื่องนี้แล้วมันก็แปลกๆ นะขอรับ...
 DNGT-2_5_6,"Currently, the Blade Destruction Army is stationed at the main camp, Pirate and Phoenix Woods Harbor, supporting each other... But with the harassment of the South-East Barbarian here, we can't act rashly..."
-DNGT-2_5_7,"I understand, the attacks here are just feints, their real target must be somewhere else!"
+DNGT-2_5_7,"I understand, the attacks here are just feints, their real target must be somewhere else!",เข้าใจแล้ว การโจมตีที่นี่เป็นเพียงการเบี่ยงเบนความสนใจ เป้าหมายจริงๆ ของพวกมันต้องอยู่ที่อื่นแน่!
 DNGT-2_5_8,Are there any other places in the South-East Region...
-DNGT-2_5_9,"Right, Mei Pass Post! There are plenty of supplies there, and it's a must-pass route to the southeast, as long as we capture it..."
-DNGT-2_5_10,"No, I must hurry to Mei Pass Post!"
+DNGT-2_5_9,"Right, Mei Pass Post! There are plenty of supplies there, and it's a must-pass route to the southeast, as long as we capture it...",ถูกต้อง ด่านเหมยที่นั่นมีเสบียงอาหาร และเป็นเส้นทางผ่านสำคัญไปยังตะวันออกเฉียงใต้ หากเราสามารถยึดที่นั่นได้...
+DNGT-2_5_10,"No, I must hurry to Mei Pass Post!",ไม่ได้ ข้าต้องรีบไปด่านเหมย!
 DNGT-3_0_1,"Damn, still one step too late!"
 DNGT-3_0_2,"Oh, another one here to die!"
 DNGT-3_0_3,The ones who should die are you!
@@ -5760,12 +5760,12 @@ DNGT-3_6_3,Such a heavy killing intent!
 DNGT-3_6_4,{yell}You actually did this here... Die!
 DNGT-3_7_1,"Liao Yuelong, why are you doing this?!"
 DNGT-3_7_2,"You bastard, you actually destroyed my home again—!"
-DNGT-3_7_3,Could it be that Liao Yuelong is from Mei Pass Post?
+DNGT-3_7_3,Could it be that Liao Yuelong is from Mei Pass Post?,เป็นไปได้ไหมว่า เหลียวเย่หลง มาจากด่านเหมย?
 DNGT-3_7_4,"Brother Liao, listen to my explanation, this is the doing of the South-East Barbarians, it has nothing to do with me!"
 DNGT-3_7_5,Then where are the South-East Barbarians you mentioned?!
 DNGT-3_7_6,They've all been dealt with by me...
 DNGT-3_7_7,Do you think I would believe you?!
-DNGT-3_7_8,"The South-East Barbarians have been wiped out, how could they still come to harass Mei Pass Post?\nMoreover, my lord—"
+DNGT-3_7_8,"The South-East Barbarians have been wiped out, how could they still come to harass Mei Pass Post?\nMoreover, my lord—","พวกคนเถื่อนเขตตะวันออกเฉียงใต้ถูกกวาดล้างหมดแล้ว พวกมันจะมาโจมตีด่านเหมยได้อย่างไรขอรับ?\nแจ้งให้นายท่านทราบ—"
 DNGT-3_7_9,"—Anyway, prepare to die!"
 DNGT-3_7_10,"(My lord? The lord in Liao Yuelong's mouth must be King Chai, it seems that King Chai and the South-East Barbarians are indeed related.)"
 DNGT-3_7_11,"Liao Yuelong, do you know something about King Chai and the South-East Barbarians?"
@@ -5774,10 +5774,10 @@ DNGT-3_7_13,"(Damn, this guy doesn't listen to anyone, do I have to—)"
 DNGT-3_8_1,"Young Master Liao, he's telling the truth, please stop."
 DNGT-3_8_2,You say this...
 DNGT-3_8_3,"Yes, it was indeed South-East Barbarian who did it. If it weren't for his help, we would have probably..."
-DNGT-3_8_4,"The most urgent task is to put out this fire. If it continues to burn, Mei Pass Post might be ruined."
+DNGT-3_8_4,"The most urgent task is to put out this fire. If it continues to burn, Mei Pass Post might be ruined.",อันดับแรกต้องรีบดับไฟให้ได้โดยเร็วที่สุด หากปล่อยให้ไฟลามต่อไป ด่านเหมยก็จะมอดไหม้เป็นจุล
 DNGT-3_8_5,Okay.
 DNGT-3_8_6,I'll help too.
-DNGT-3_8_7,"You and the residents of Mei Pass Post put out the fire set by South-East Barbarian.\nFortunately, you arrived in time and the houses in Mei Pass Post were not severely burned."
+DNGT-3_8_7,"You and the residents of Mei Pass Post put out the fire set by South-East Barbarian.\nFortunately, you arrived in time and the houses in Mei Pass Post were not severely burned.","เจ้าและชาวบ้านด่านเหมย ร่วมแรงร่วมใจกันดับไฟที่ได้เผาโดยคนเถื่อนเขตตะวันออกเฉียงใต้\nโชคดีที่บ้านเรือนในด่านเหมยไม่ได้ถูกไฟไหม้จนเสียหายมากนัก"
 DNGT-3_8_8,"Thank you for your help, young hero. We were able to get through this disaster because of you."
 DNGT-3_8_9,"No need to be polite, it's my duty. I will report this to General Han and ask him to strengthen the guard here."
 DNGT-3_8_10,That would be great.

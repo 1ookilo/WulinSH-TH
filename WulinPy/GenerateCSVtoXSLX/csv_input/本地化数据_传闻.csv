@@ -206,7 +206,7 @@ tag15_chuanwen14_2,"The maid at the table of the Stone Building owner said that 
 tag15_chuanwen15_0,Testimony of the Maid at Mr. Shi's Table
 tag15_chuanwen15_1,"The maid in charge of Mr. Shi's table testified that the mole knocked over General Yao's wine glass, causing General Yao to curse at the mole."
 tag16,South-East Region,แดนตะวันออกเฉียงใต้
-tag16_chuanwen1_0,South-East Barbarian Camp,ค่ายคนเถื่อนทางตะวันออกเฉียงใต้
+tag16_chuanwen1_0,South-East Barbarian Camp,ค่ายคนเถื่อนเขตตะวันออกเฉียงใต้
 tag16_chuanwen1_1,"A note found in the South-East Barbarian Camp reads: ""...Three days, fifty long spears, thirty bows, two hundred arrows. Five days, received three jars of wine from Duke Chai's Tower, three thousand taels of silver... Fifteen days, Blade Destruction Army arrived..."""
 tag16_chuanwen1_2,"A total of three thousand taels of silver were found in the South-East Barbarian Camp, with the words ""Chai Ming"" on them."
 tag16_chuanwen2_0,Surging Waves Escort
@@ -221,9 +221,9 @@ tag16_chuanwen6_0,King Chai's Birthday Banquet,งานเลี้ยงวั
 tag16_chuanwen6_1,King Chai has set a rule in Phoenix Woods Harbor that anyone who can defeat a few of the masters he designates in Phoenix Woods Harbor can receive an invitation to the birthday banquet.
 tag16_chuanwen6_2,"To get an invitation to King Chai's birthday banquet, you need to defeat four masters hidden in the market. The hint is: ""Green curtains lightly roll to reflect the new clothes, fine wine rushes to fill the table. The market is noisy with red, green and yellow, sparks fly beside the hammer."""
 tag16_chuanwen7_0,The Liao Family Massacre
-tag16_chuanwen7_1,"The owner of the tea stall at Mei Pass Post said that the night the Liao family was attacked was very quiet, with no noise at all. But Liao Yuelong said that he knocked on doors for help that night."
-tag16_chuanwen7_2,"The owner of the tea stall at Mei Pass Post said that the number of charred bodies found in the Liao family matched the number of people in the family, with no survivors."
-tag16_chuanwen7_3,"On the day of the Liao family massacre thirteen years ago, the dessert shop at Mei Pass Post opened, and the innkeeper of the dessert shop gave everyone a dessert."
+tag16_chuanwen7_1,"The owner of the tea stall at Mei Pass Post said that the night the Liao family was attacked was very quiet, with no noise at all. But Liao Yuelong said that he knocked on doors for help that night.",เถ้าแก่ร้านน้ำชาด่านเหมยเล่าว่า คืนที่ครอบครัวเหลียวถูกโจมตีนั้น มันดูเงียบงัน ไร้เสียงรบกวนใดๆ แต่ เหลียวเย่หลง กลับบอกว่า เขาร้องขอความช่วยเหลือจากผู้คนในคืนนั้น
+tag16_chuanwen7_2,"The owner of the tea stall at Mei Pass Post said that the number of charred bodies found in the Liao family matched the number of people in the family, with no survivors.",เถ้าแก่ร้านน้ำชาด่านเหมยเล่าว่า พบศพที่ไหม้เกรียมภายในบ้านตระกูลเหลียวเท่ากับจำนวนสมาชิกในครอบครัว ไม่มีผู้ใดรอดชีวิต
+tag16_chuanwen7_3,"On the day of the Liao family massacre thirteen years ago, the dessert shop at Mei Pass Post opened, and the innkeeper of the dessert shop gave everyone a dessert.",ในวันที่ครอบครัวเหลียวถูกสังหารอย่างโหดเหี้ยมเมื่อ 13 ปีก่อน ร้านขนมหวานที่ด่านเหมยเปิดให้บริการเป็นครั้งแรก และเถ้าแก่ร้านขนมหวาน แจกขนมฟรีให้กับทุกคนที่ผ่านมา
 tag16_chuanwen7_4,"When the dessert shop opened, the innkeeper of the dessert shop gave everyone a dessert, but the innkeeper of the bun shop and the Liao family did not receive it."
 tag16_chuanwen7_5,"On the day of the Liao family massacre, the innkeeper of the bun shop claimed that he did not receive the dessert and did not wake up that night."
 tag16_chuanwen7_6,"The fire in the Liao family started at the southwestern end of the house, in between two houses."
@@ -231,4 +231,4 @@ tag16_chuanwen7_7,"The northeastern end of the Liao family's house was almost un
 tag16_chuanwen7_8,"Perhaps because it rained during the day, the thatched roof of the Liao family's house was almost unburned, but the mud walls were severely burned."
 tag16_chuanwen7_9,"There were signs of a fight in the Liao family's house, and one side was using a knife."
 tag16_chuanwen8_0,Mei Pass Post Station,ด่านเหมย - ศาลาพักม้า
-tag16_chuanwen8_1,"At the post station of Mei Pass Post, you can stay as long as you answer the soldier ""Under the sky, all land belongs to the king""."
+tag16_chuanwen8_1,"At the post station of Mei Pass Post, you can stay as long as you answer the soldier ""Under the sky, all land belongs to the king"".","ที่ศาลาพักม้า ณ ด่านเหมย เจ้าสามารถพักฟรีถ้าหากเจ้าตอบคำถามทหารว่า ""ใต้หล้าฟ้าดินล้วนเป็นของฮ่องเต้"""
