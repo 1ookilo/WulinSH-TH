@@ -4899,15 +4899,15 @@ Role5-14_11_4,It's already a great honor for me to be recognized by the Marshal.
 Role5-14_11_5,"Alright, I, the Marshal, will respect your wishes.",ข้าในฐานะแม่ทัพใหญ่จะทำตามความประสงค์ของเจ้า
 Role5-14_11_6,"Thank you, Marshal, for your understanding.",ขอบคุณแม่ทัพใหญ่ที่เข้าใจ
 Role5-14_12_1,"Marshal Wan Yan, once this cup of wine is drunk, I'm afraid even those with great abilities won't be able to stand up again, right?",ท่านแม่ทัพหวานเยี่ยน เมื่อดื่มเหล้าถ้วยนี้หมด ข้าเกรงว่าแม้ผู้มีวิทยายุทธล้ำเลิศก็ไม่อาจยืนหยัดได้อีกต่อไป ใช่หรือไม่
-Role5-14_12_2,Do you doubt my sincerity?
-Role5-14_13_1,"One must always be wary of others, I have heard a bit about the Marshal's character."
-Role5-14_13_2,"Marshal, you have been in this position for long enough, it's time to give way to the virtuous."
-Role5-14_13_3,"Alright, it seems you've already conspired.\nToday, let this marshal see what qualifications you have to dare to sit in this marshal's position!"
-Role5-14_14_1,"What if I suspect you?\nStrike first and gain the upper hand, I won't sit and wait for death!"
+Role5-14_12_2,Do you doubt my sincerity?,ท่านสงสัยในความจริงใจของข้าหรือ?
+Role5-14_13_1,"One must always be wary of others, I have heard a bit about the Marshal's character.",คนเราต้องระวังผู้อื่นเสมอ ข้าได้ยินมาบ้างเกี่ยวกับนิสัยของแม่ทัพ
+Role5-14_13_2,"Marshal, you have been in this position for long enough, it's time to give way to the virtuous.",แม่ทัพ ท่านดำรงตำแหน่งมานานพอแล้ว ถึงเวลาที่ท่านควรจะยกตำแหน่งให้ผู้ที่มีคุณธรรม
+Role5-14_13_3,"Alright, it seems you've already conspired.\nToday, let this marshal see what qualifications you have to dare to sit in this marshal's position!","ดี! ดูเหมือนว่าเจ้าทั้งหลายจะสมคบคิดกันแล้ว\nวันนี้แม่ทัพจะให้เจ้าทั้งหลายได้แสดงความสามารถออกมาให้หมดสิ้น ว่าจะมีคุณสมบัติพอที่จะมานั่งตำแหน่งแม่ทัพได้หรือไม่!"
+Role5-14_14_1,"What if I suspect you?\nStrike first and gain the upper hand, I won't sit and wait for death!","หากข้าสงสัยเจ้าล่ะ?\nก่อนที่เจ้าจะทำร้ายข้า ข้าจะลงมือก่อน เพื่อให้ได้เปรียบ ข้าจะไม่นั่งรอความตาย!"
 Role5-15-1_1_1,"Your Highness Duke Kang, now that our Great Yan Nation is marching south, Undefeated!\nToday, with the lesson of Chuxiang City, do you, the small Lin'an City, also want to block the way?","ฝ่าบาทอ๋องคัง, ตอนนี้ที่รัฐเยี่ยนยิ่งใหญ่ ของเรากำลังเคลื่อนทัพลงใต้, ยังไม่ถูกทำลาย!\nวันนี้ ด้วยบทเรียนจากเมืองฉู่เซียง, ท่านจะเอาอย่างไร เมืองหลินอันเล็กๆ ต้องการขวางกั้นทางด้วยหรือไม่?"
-Role5-15-1_2_1,"{PlayerName}, this king has heard of your fame and knows your methods!\nBut no matter how great your skills are, don't think about making this king a slave of a defeated country!"
-Role5-15-1_3_1,"You were a good person, but you chose to be a thief.\n{PlayerName}, you have disappointed this king."
-Role5-15-1_4_1,"Brother Wang, don't oppose {PlayerGivenName}, surrender the city.\nI will beg {PlayerGivenName} not to kill you, and from then on, you can live a life of pleasure as a prince, okay?"
+Role5-15-1_2_1,"{PlayerName}, this king has heard of your fame and knows your methods!\nBut no matter how great your skills are, don't think about making this king a slave of a defeated country!","{PlayerName} พระองค์ได้ทรงทราบถึงชื่อเสียงและวิชาความสามารถของเจ้าแล้ว!\nแต่ไม่ว่าเจ้าจะมีวิทยายุทธสูงส่งเพียงใด ก็อย่าได้คิดจะทำให้องค์พระราชาเป็นเชลยของประเทศที่พ่ายสงคราม!"
+Role5-15-1_3_1,"You were a good person, but you chose to be a thief.\n{PlayerName}, you have disappointed this king.","เจ้าเคยเป็นบุคคลที่น่าชื่นชม แต่กลับกลายเป็นโจรไปเสียได้\n{PlayerName} เจ้าทำให้ข้าผิดหวังในตัวเจ้าเหลือเกิน"
+Role5-15-1_4_1,"Brother Wang, don't oppose {PlayerGivenName}, surrender the city.\nI will beg {PlayerGivenName} not to kill you, and from then on, you can live a life of pleasure as a prince, okay?","พี่หวัง อย่าได้ต่อต้าน {PlayerGivenName} เลย ยอมสละเมืองให้เขาเถิด \nข้าจะขอร้อง {PlayerGivenName} ให้เมตตาชีวิตเจ้า แล้วเจ้าก็จะได้ใช้ชีวิตอย่างสุขสบายเหมือนเจ้าชายต่อไป เข้าใจไหม?\n"
 Role5-15-1_4_2,{yell} Shut up!,{yell}หุบปาก!
 Role5-15-1_4_3,"I don't have a shameless sister like you, you are not worthy to call me Brother Wang.",ข้าไม่มีน้องสาวน่าอายเช่นเจ้า เจ้าไม่คู่ควรมาเรียกข้าว่าเสด็จพี่!
 Role5-15-1_4_4,……,……
@@ -4949,40 +4949,40 @@ Role5-15-2_12_1,"You, leading the Yan army to attack Lin'an City, are my mortal 
 Role5-15-2_13_1,"You scoundrel, today you will witness the power of my dual hammers!",ไอ้ชั่วช้า วันนี้เจ้าจะได้ลิ้มรสพลังของกระบองคู่ของข้า!
 Role5-15-2_14_1,Surrendering to the Yan dogs makes you the enemy of Hongyu!,การยอมจำนนต่อพวกสุนัขเยี่ยนทำให้เจ้ากลายเป็นศัตรูของข้า หงหยู!
 Role5-15-2_15_1,"Hongyu, a mere woman, will stand against you today for the sake of the people of Lin'an.",หงหยู ผู้หญิงธรรมดาๆ จะยืนหยัดต่อสู้กับเจ้าในวันนี้เพื่อชาวหลินอัน
-Role5-15-2_16_1,"{PlayerName}, today either you die, or I perish!"
+Role5-15-2_16_1,"{PlayerName}, today either you die, or I perish!",{PlayerName} ข้าจะไม่ยอมให้เจ้ารอดไป! วันนี้หนึ่งในเราต้องตาย!
 Role5-15-2_17_1,"I hate the Yan dogs the most, let me kill you today for satisfaction!",ข้าเกลียดพวกสุนัขเยี่ยนเป็นที่สุด ขอให้ข้าได้ฆ่าเจ้าวันนี้เพื่อความพอใจหน่อยเถอะ!
-Role5-15-2_18_1,The poor way invites {PlayerName} to depart!
-Role5-15-2_19_1,"Today, the poor way will send you, the villain, on your way!"
-Role5-15-2_20_1,"I was blind, if I had split you with a knife back then, it would have been over!"
+Role5-15-2_18_1,The poor way invites {PlayerName} to depart!,{PlayerName} เจ้าไม่คู่ควรกับเส้นทางนี้! จงจากไปชะ!
+Role5-15-2_19_1,"Today, the poor way will send you, the villain, on your way!",วันนี้ ข้าจะส่งเจ้าคนชั่วไปสู่สุคติ!
+Role5-15-2_20_1,"I was blind, if I had split you with a knife back then, it would have been over!",ข้าช่างโง่เขลา! ถ้าข้าตัดสินใจเด็ดขาดตั้งแต่แรก ทุกอย่างคงไม่ยุ่งยากอย่างนี้
 Role5-15-2_36_1,"Although I'm not very capable, I'm willing to risk my life against you Yan dogs!",แม้ว่าข้าจะไม่มีความสามารถมากนัก แต่ข้าก็ยินดีเสี่ยงชีวิตกับสุนัขเยี่ยนเช่นเจ้า!
 Role5-15-2_37_1,"{PlayerName}, I won't show mercy to you!",{PlayerName} ข้าจะไม่เมตตาเจ้าแน่!
-Role5-15-2_38_1,"I, the young lady, will definitely stab seven or eight transparent holes in you."
-Role5-15-2_39_1,"{PlayerName}, I worshipped you in vain, I didn't expect you to be so ambitious, today I will eliminate the harm for the people!"
-Role5-15-2_40_1,Drive out the barbarians and restore our rivers and mountains!
-Role5-15-2_41_1,"Known for a while, I came to send you off today."
-Role5-15-2_42_1,How does it feel to be someone else's lapdog?
-Role5-15-2_43_1,"{PlayerName}, I swear to take your head today!"
-Role5-15-2_44_1,I always believe that evil cannot overcome good!
-Role5-15-2_45_1,"If I had known you were such a disaster, I should have eliminated you in the Lost Forest!"
-Role5-15-2_46_1,What's the harm in killing again in my remaining years!
+Role5-15-2_38_1,"I, the young lady, will definitely stab seven or eight transparent holes in you.",สาวน้อยอย่างข้าจะเจาะร่างเจ้าให้พรุนราวกับกระดาษ! เจ็ดแปดรูก็ย่อมได้!
+Role5-15-2_39_1,"{PlayerName}, I worshipped you in vain, I didn't expect you to be so ambitious, today I will eliminate the harm for the people!",{PlayerName} ข้าเคยยกย่องเจ้ามาโดยตลอด แต่ไม่คิดเลยว่าเจ้าจะกล้าทำเช่นนี้ วันนี้ข้าจะขจัดภัยร้ายที่เจ้าสร้างขึ้น เพื่อประโยชน์แก่ทุกคน!
+Role5-15-2_40_1,Drive out the barbarians and restore our rivers and mountains!,ขับไล่พวกป่าเถื่อนออกไป คืนผืนแผ่นดินอันศักดิ์สิทธิ์ของเราให้กลับคืนมา!
+Role5-15-2_41_1,"Known for a while, I came to send you off today.",รู้จักกันมาช้านาน วันนี้ข้ามาส่งเจ้าไปสู่แดนไกล
+Role5-15-2_42_1,How does it feel to be someone else's lapdog?,รู้สึกอย่างไรบ้างที่ต้องคอยเลียรองเท้าให้คนอื่น?
+Role5-15-2_43_1,"{PlayerName}, I swear to take your head today!",{PlayerName} ข้าสาบานว่าจะเอาหัวเจ้าไปวันนี้!
+Role5-15-2_44_1,I always believe that evil cannot overcome good!,ข้าเชื่อมั่นเสมอว่า พลังแห่งความดีจะย่อมมีชัยเหนือความมืดมิด!
+Role5-15-2_45_1,"If I had known you were such a disaster, I should have eliminated you in the Lost Forest!",หากข้ารู้ว่าเจ้าจะกลายมาเป็นภัยร้ายเช่นนี้ ข้าคงจะกำจัดเจ้าทิ้งเสียตั้งแต่ในป่าร้างแล้ว!
+Role5-15-2_46_1,What's the harm in killing again in my remaining years!,บั้นปลายชีวิต ดาบยังคมกล้า ฆ่าฟันอีกครั้ง เหตุใดจึงต้องกลัว!
 Role5-15-2_47_1,"Since I joined the Yan army, I knew this day would come...",ตั้งแต่ข้าเข้าร่วมกองทัพเยี่ยน ข้าก็รู้ได้ทันทีว่าวันนี้จะต้องมาถึง...
-Role5-15-2_47_2,"If the world doesn't accept me, why should I cling to it..."
-Role5-15-2_47_3,"When I hold great power in the future, why not have a horse ride in the world, then see who dares to disobey!"
-Role5-15-2_47_4,Hahahaha...
+Role5-15-2_47_2,"If the world doesn't accept me, why should I cling to it...",หากโลกไม่ยอมรับข้า เหตุใดข้าจึงต้องยึดติดอยู่กับมัน...
+Role5-15-2_47_3,"When I hold great power in the future, why not have a horse ride in the world, then see who dares to disobey!",เมื่อข้ามีอำนาจมากมายในอนาคต เหตุใดจึงจะไม่ขี่ม้าท่องไปทั่วยุทธภพ แล้วดูว่าใครจะกล้าขัดคำสั่ง!
+Role5-15-2_47_4,Hahahaha...,ฮ่า ๆ ๆ ๆ ๆ... น่าขันสิ้นดี!
 Role5-15-2_47_5,"Despite the heavy price paid by the heroes of the world, they still failed to prevent Lin'an City from falling completely.\nFortunately, in order to implement the Han policy, the Yan country did not carry out a massacre after capturing Lin'an City, which is a silver lining in the misfortune.","แม้ว่าจอมยุทธ์ในยุทธภพจะต้องจ่ายราคาหนัก แต่พวกเขาก็ยังล้มเหลวในการป้องกันไม่ให้เมืองหลินอันล่มสลายโดยสิ้นเชิง\nโชคดีที่เพื่อดำเนินการตามนโยบายของฮั่น รัฐหยานพยายามเอาใจประชาชนหลังจากยึดเมืองหลินอันได้ ถือเป็นพรที่ไม่มีการสังหารหมู่เกิดขึ้น"
 Role5-15-2_47_6,"Lin'an City has been occupied, you can go back and report.",เมืองหลินอันถูกยึดไปแล้ว เจ้ากลับไปรายงานได้
-Role5-15-3_2_1,"You old, weak, sick and disabled want to block my tiger and wolf army?"
-Role5-15-3_2_2,"The rise and fall of the world is the responsibility of every man!\nAlthough I'm weak, I will do my best to protect Lin'an City!"
-Role5-15-3_2_3,"You better get out of the way, I don't want to make things difficult for you!"
-Role5-15-3_2_4,"If you want to enter Lin'an City, step over my dead body!"
-Role5-15-3_2_5,"You are stubborn, don't blame me for drawing my sword against you!"
+Role5-15-3_2_1,"You old, weak, sick and disabled want to block my tiger and wolf army?",เจ้าแก่ชราอ่อนแอป่วยไข้ จะมาขวางกั้นกองทัพเสือและหมาป่าของข้าได้อย่างไร?
+Role5-15-3_2_2,"The rise and fall of the world is the responsibility of every man!\nAlthough I'm weak, I will do my best to protect Lin'an City!"," ชะตาของโลกเป็นหน้าที่ของทุกคน! แม้ข้าจะอ่อนแอ\n แต่ข้าจะทำสุดความสามารถเพื่อปกป้องเมืองหลินอัน!"
+Role5-15-3_2_3,"You better get out of the way, I don't want to make things difficult for you!",หลีกทางไป! ข้าไม่ต้องการสร้างปัญหาให้เจ้า!
+Role5-15-3_2_4,"If you want to enter Lin'an City, step over my dead body!",หากท่านต้องการเข้าเมืองหลินอัน ข้ามศพข้าไปก่อน!
+Role5-15-3_2_5,"You are stubborn, don't blame me for drawing my sword against you!",ท่านดันทุรังเช่นนี้ อย่ามาโทษข้าที่ต้องปะทะดาบกับท่าน!
 Role5-15-3_3_1,The whole army--
 Role5-15-3_3_2,{yell}<size=200%>Charge!!!,{yell}<size=200%>พุ่งชน!!!
-Role5-15-3_4_1,"You old, weak, sick and disabled want to block my tiger and wolf army?"
+Role5-15-3_4_1,"You old, weak, sick and disabled want to block my tiger and wolf army?",เจ้าแก่ชราอ่อนแอป่วยไข้ จะมาขวางกั้นกองทัพเสือและหมาป่าของข้าได้อย่างไร?
 Role5-15-3_4_2,"The rise and fall of the world is the responsibility of every man!\nAlthough I'm old and weak, I will do my best to protect Lin'an City!"
-Role5-15-3_4_3,"You better get out of the way, I don't want to make things difficult for you!"
-Role5-15-3_4_4,"If you want to enter Lin'an City, step over my dead body!"
-Role5-15-3_4_5,"You are stubborn, don't blame me for drawing my sword against you!"
+Role5-15-3_4_3,"You better get out of the way, I don't want to make things difficult for you!",หลีกทางไป! ข้าไม่ต้องการสร้างปัญหาให้เจ้า!
+Role5-15-3_4_4,"If you want to enter Lin'an City, step over my dead body!",หากท่านต้องการเข้าเมืองหลินอัน ข้ามศพข้าไปก่อน!
+Role5-15-3_4_5,"You are stubborn, don't blame me for drawing my sword against you!",ท่านดันทุรังเช่นนี้ อย่ามาโทษข้าที่ต้องปะทะดาบกับท่าน!
 Role5-15-3_5_1,I don't want to kill you...
 Role5-15-3_5_2,"You forced me, you forced me..."
 Role5-15-3_5_3,"From the nobles to the common people in Lin'an City, everyone defended the city against the enemy.\nAlthough you have captured Lin'an City, it is almost empty, and it is difficult to recover the prosperity of the past..."

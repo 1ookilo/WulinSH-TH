@@ -2566,7 +2566,7 @@ DNYJJ-1_overview9,"Return to the Blade Destruction Army's main tent, think about
 DNYJJ-1_overview10,Prepare to head to Phoenix Woods Harbor.,เตรียมเดินทางไปท่าเรือป่าหงส์
 DNYJJ-1_overview11,"Go to Duke Chai's Tower, capture King Chai.",ไปยังหอในตำหนักอ๋องไฉและจับกุมอ๋องไฉ
 DNYJJ-1_overview12,Go to South-East Barbarian CampInfo situation.,จงมุ่งหน้าสู่ค่ายคนเถื่อนเขตตะวันออกเฉียงใต้ เพื่อสืบหาสถานการณ์
-DNYJJ-1_overview13,Rush to Mei Pass Post!,บุกถล่มจุดพักม้าด่านเหมย!
+DNYJJ-1_overview13,Rush to Mei Pass Post!,บุกถล่มสถานีม้าเร็วด่านเหมย!
 DNYJJ-1_overview14,Temporarily return to Phoenix Woods HarborGovernment Office.,กลับไปที่ศาลาว่าการเมืองท่าเรือป่าหงส์ชั่วคราว
 DNYJJ-1_overview15,"Go to Duke Chai's Tower, investigate thoroughly.",ไปยังหอในตำหนักอ๋องไฉและตรวจสอบอย่างละเอียด
 DNYJJ-1_overview16,"Tomorrow is the day when King Chai and his gang are preparing to rebel, get ready.",พรุ่งนี้จะเป็นวันที่พรรคพวกของอ๋องไฉเตรียมก่อกบฏ จงเตรียมตัวให้พร้อม
@@ -2644,7 +2644,7 @@ M20516-1_option1_1,Take a spin.,ลองหมุน
 M20516-1_option1_2,Don't move for now.,หยุดไว้ก่อน
 M20517-1_option1_1,Spin.,หมุน
 M20517-1_option1_2,Wait a bit longer.,รอสักครู่
-M20507-1_name,Caged beauty
+M20507-1_name,Caged beauty,ความงามที่ไร้อิสรภาพ
 M20507-1_overview1,Info about An Zhi.,ข้อมูลเกี่ยวกับ อั๋นจื่อ
 M20507-1_overview2,"Han Zidu should still be held in Duke Chai's Tower, find Wei Rusong to see if he knows any clues.",หานจื่อตู้ ควรถูกขังไว้ที่หอในตำหนักอ๋องไฉ เราควรไปหา เว่ยหรูสง เพื่อถามดูว่าเขามีเบาะแสอะไรเกี่ยวกับเรื่องนี้บ้าง
 M20507-1_overview3,Infiltrate Duke Chai's Tower to find Han Zidu.,แทรกซึมเข้าไปยังหอในตำหนักอ๋องไฉเพื่อค้นหา หานจื่อตู้
@@ -2668,15 +2668,15 @@ M20500-2_option2_4,Inquire about how to get the invitation.
 M20500-2_option2_5,Force your way in!<color=#c44b0e>(Specific battle)</color>
 M20500-2_option2_6,Wait a bit longer.
 R10060-1_name,Mei Pass Abandoned House,บ้านร้างในด่านเหมย
-R10060-1_overview1,Go to the abandoned house at Mei Pass Post between Hai Shi and Yin Shi.,ไปยังบ้านร้างในจุดพักม้าด่านเหมยในช่วงเวลายามไฮ่(Hai) และยามหยิน(Yin)
+R10060-1_overview1,Go to the abandoned house at Mei Pass Post between Hai Shi and Yin Shi.,ไปยังบ้านร้างในสถานีม้าเร็วด่านเหมยในช่วงเวลายามไฮ่(Hai) และยามหยิน(Yin)
 R10060-1_NPCname,Low voice
-R10060-2_name,Liao Family Past
-R10060-2_overview1,Ask the Tea Stall owner at Mei Pass Post about the Liao family blood case from over a decade ago.,ถามเถ้าแก่ร้านชาจุดพักม้าด่านเหมยเกี่ยวกับคดีฆาตกรรมตระกูลเหลียวเมื่อหลายสิบปีก่อน
-R10060-2_overview2,Ask the Post Soldier at Mei Pass Post about the Liao family blood case from thirteen years ago.,ถามทหารรักษาการณ์ที่จุดพักม้าด่านเหมยเกี่ยวกับคดีฆาตกรรมตระกูลเหลียวเมื่อ 13 ปีก่อน
-R10060-2_overview3,Ask the Dessert Merchant at Mei Pass Post about the Liao family blood case from thirteen years ago.,ถามคนขายของหวานที่จุดพักม้าด่านเหมยเกี่ยวกับคดีฆาตกรรมตระกูลเหลียวเมื่อ 13 ปีก่อน
-R10060-2_overview4,Ask the Bun Shop Innkeeper at Mei Pass Post about the Liao family blood case from thirteen years ago.,ถามเถ้าแก่โรงเตี้ยมตรงร้านขายซาลาเปาที่จุดพักม้าด่านเหมยเกี่ยวกับคดีฆาตกรรมตระกูลเหลียวเมื่อ 13 ปีก่อน
+R10060-2_name,Liao Family Past,อดีตของตระกูลเหลียว
+R10060-2_overview1,Ask the Tea Stall owner at Mei Pass Post about the Liao family blood case from over a decade ago.,ถามเถ้าแก่ร้านชาสถานีม้าเร็วด่านเหมยเกี่ยวกับคดีฆาตกรรมตระกูลเหลียวเมื่อหลายสิบปีก่อน
+R10060-2_overview2,Ask the Post Soldier at Mei Pass Post about the Liao family blood case from thirteen years ago.,ถามทหารรักษาการณ์ที่สถานีม้าเร็วด่านเหมยเกี่ยวกับคดีฆาตกรรมตระกูลเหลียวเมื่อ 13 ปีก่อน
+R10060-2_overview3,Ask the Dessert Merchant at Mei Pass Post about the Liao family blood case from thirteen years ago.,ถามคนขายของหวานที่สถานีม้าเร็วด่านเหมยเกี่ยวกับคดีฆาตกรรมตระกูลเหลียวเมื่อ 13 ปีก่อน
+R10060-2_overview4,Ask the Bun Shop Innkeeper at Mei Pass Post about the Liao family blood case from thirteen years ago.,ถามเถ้าแก่ตรงร้านขายซาลาเปาที่สถานีม้าเร็วด่านเหมยเกี่ยวกับคดีฆาตกรรมตระกูลเหลียวเมื่อ 13 ปีก่อน
 R10060-2_overview5,Go to the old Liao family house at Mei Pass Post to see if there's anything else to discover.,ไปยังบ้านตระกูลเหลียวหลังเก่าที่ด่านเหมยเพื่อตรวจสอบดูว่ายังมีอะไรที่เราไม่เจออีกไหม
-R10060-2_overview6,Go to the Phoenix Woods Harbor clinic and ask the Doctor about what happened back then.
+R10060-2_overview6,Go to the Phoenix Woods Harbor clinic and ask the Doctor about what happened back then.,เดินทางไปยังโรงหมอที่ท่าเรือป่าหงส์เพื่อสอบถามหมอเกี่ยวกับเหตุการณ์ที่เกิดขึ้น
 R10060-2_overview7,Go to Mei Pass Post and ask the local Beggar.,มุ่งสู่ด่านเหมย แล้วไปถามขอทานแถวๆ นี้
 R10060-2_option1_1,Yes.,ใช่
 R10060-2_option1_2,No.,ไม่
@@ -2704,36 +2704,36 @@ R10060-2_option8_1,Two extra bodies.
 R10060-2_option8_2,The truth about everyone's Slumber.
 R10060-2_option8_3,Signs of martial arts use.
 R10060-2_option9_1,The Liao family's Butler!
-R10060-2_option9_2,The Dessert Merchant at Mei Pass Post!,คนขายของหวานอยู่ที่จุดพักม้าด่านเหมย!
+R10060-2_option9_2,The Dessert Merchant at Mei Pass Post!,คนขายของหวานอยู่ที่สถานีม้าเร็วด่านเหมย!
 R10060-2_option9_3,The Doctor at Phoenix Woods Harbor!
 R10060-2_option10_1,There's a secret only known to the Liao family.
 R10060-2_option10_2,There's something only the Liao family knows where it is.
 R10060-2_option10_3,There's a kung fu only the Liao family knows how to do.
 A15022-1_option1_1,Take it! <color=#097a76>(Milk snow cake1 piece)</color>
 A15022-1_option1_2,Wait a bit longer.
-M2270-4_name,Poisoned Pig Case
-M2270-4_overview1,Investigate the pigsty at Mei Pass Post.,สืบหาความลับแถวๆ คอกหมูในจุดพักม้าด่านเหมย
-M2270-4_overview2,Ask the Innkeepers about the animals around Mei Pass Post.,สอบถามเถ้าแก่โรงเตี๊ยมเกี่ยวกับสัตว์ที่อยู่รอบๆ จุดพักม้าด่านเหมย
-M2270-4_overview3,Ask the Dessert Merchant what desserts he made yesterday.
-M2270-1_option1_1,I want to stay. <color=#097a76>(400Coin)</color>
-M2270-1_option1_2,Not staying for now.
-M2270-1_option2_1,Extend the stay. <color=#097a76>(400Coin)</color>
+M2270-4_name,Poisoned Pig Case,คดีหมูปนเปื้อนพิษ
+M2270-4_overview1,Investigate the pigsty at Mei Pass Post.,สืบหาความลับแถวๆ เล้าหมูในสถานีม้าเร็วด่านเหมย
+M2270-4_overview2,Ask the Innkeepers about the animals around Mei Pass Post.,สอบถามเถ้าแก่เกี่ยวกับสัตว์ที่อยู่รอบๆ สถานีม้าเร็วด่านเหมย
+M2270-4_overview3,Ask the Dessert Merchant what desserts he made yesterday.,ถามคนขายของหวานว่าเมื่อวานทำของหวานอะไรบ้าง
+M2270-1_option1_1,I want to stay. <color=#097a76>(400Coin)</color>,ข้าต้องการพักผ่อน <color=#097a76>(400 อิแปะ)</color>
+M2270-1_option1_2,Not staying for now.,ยังไม่พักตอนนี้
+M2270-1_option2_1,Extend the stay. <color=#097a76>(400Coin)</color>,อยู่ต่ออีกสักพัก <color=#097a76>(400 อิแปะ)</color>
 M2270-1_option2_2,Leave.,ออก
-M2270-2_option1_1,Pay up! <color=#097a76>(1000Coin)</color>
-M2270-2_option1_2,"Can you give a discount? <color=#097a76>(500Coin, Persuade level 4 Expert)</color>"
+M2270-2_option1_1,Pay up! <color=#097a76>(1000Coin)</color>,จ่ายเงินมา! <color=#097a76>(1000 อิแปะ)</color>
+M2270-2_option1_2,"Can you give a discount? <color=#097a76>(500Coin, Persuade level 4 Expert)</color>","ต่อรองราคาได้ไหม? <color=#097a76>(500 อิแปะ, โน้มน้าวระดับ 4 ระดับผู้เชี่ยวชาญ)</color>"
 M2270-2_option1_3,Talk later.,ไว้คุยเรื่องนี้ทีหลัง
-M2270-2_option2_1,Pay up! <color=#097a76>(2000Coin)</color>
-M2270-2_option2_2,"Can you give a discount? <color=#097a76>(1000Coin, Persuade level 4 Expert)</color>"
+M2270-2_option2_1,Pay up! <color=#097a76>(2000Coin)</color>,จ่ายเงินมา! <color=#097a76>(2000 อิแปะ)</color>
+M2270-2_option2_2,"Can you give a discount? <color=#097a76>(1000Coin, Persuade level 4 Expert)</color>","ต่อรองราคาได้ไหม? <color=#097a76>(1000 อิแปะ, โน้มน้าวระดับ 4 ระดับผู้เชี่ยวชาญ)</color>"
 M2270-2_option2_3,Talk later.,ไว้คุยเรื่องนี้ทีหลัง
 M5065-2_name,Heavy Rain at Mei Pass,ฝนตกหนัก ณ ด่านเหมย
-M5065-2_overview1,"Keep going, head to Mei Pass Post to avoid the rain.",รีบมุงหน้าไปยังจุดพักม้าด่านเหมยเพื่อหาที่หลบฝน
-R20740-2-1_name,Go to Great Ant City
-R20740-2-1_Talking,Dragonfly
-R20740-2_option1_1,Let's go!<color=#097a76>(Twelve shichen)</color>
-R20740-2_option1_2,Don't want to go yet.
-R20740-2_option2_1,Go back!<color=#097a76>(Twelve shichen)</color>
-R20740-2_option2_2,Want to stay in Great Ant City a bit longer.
-R10025-6-2_2_name,Give money to the gambler
+M5065-2_overview1,"Keep going, head to Mei Pass Post to avoid the rain.",รีบมุงหน้าไปยังสถานีม้าเร็วด่านเหมยเพื่อหาที่หลบฝน
+R20740-2-1_name,Go to Great Ant City,เดินทางไปยัง เมืองแมลงปอ
+R20740-2-1_Talking,Dragonfly,แมลงปอ
+R20740-2_option1_1,Let's go!<color=#097a76>(Twelve shichen)</color>,ไปกันเถอะ <color=#097a76>(12 ชั่วยาม)</color>
+R20740-2_option1_2,Don't want to go yet.,ยังไม่อยากไป
+R20740-2_option2_1,Go back!<color=#097a76>(Twelve shichen)</color>,กลับเถอะ! <color=#097a76>(12 ชั่วยาม)</color>
+R20740-2_option2_2,Want to stay in Great Ant City a bit longer.,อยากอยู่ต่อที่เมืองแมลงปออีกสักหน่อย
+R10025-6-2_2_name,Give money to the gambler,ให้เงินนักพนัน
 R10025-6-2_2_Talking,Give money,ให้เงิน
 R10025-6-2_2_option1_1,Give him a coin to start a new life.
 R10025-6-2_2_option1_2,It's not worth saving the gambling dog.
