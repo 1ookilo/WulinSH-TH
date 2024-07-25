@@ -352,7 +352,7 @@ M1100-13overview2,"Successfully dealt with Qingfeng Camp, tell Bao Dating about 
 M1100-26name,The troubles of the Flower Shopkeeper,ปัญหาของเถ้าแก่ร้านคนงาม
 M1100-26overview1,Get along well with the Flower Shopkeeper and ask about her troubles.,เห็นด้วยกับเถ้าแก่ร้านคนงาม และถามถึงปัญหาของเธอ
 M20300-63_option1_dialog,"(Pets are not allowed in Lin'an City, what should I do?)",(เมืองหลินอันไม่ให้นำสัตว์เลี้ยงเข้า ควรทำยังไงดี)
-M20300-63_option1_1,Will this change your mind? (<color=#097a76>200 Wen</color>),ข้าพอจะมีเงินเพื่อแสดงความนับถือต่อท่านทั้งสอง หวังว่าท่านจะพอยกเว้นได้นะ <color=#097a76>(200 อีแปะ)</color>
+M20300-63_option1_1,Will this change your mind? (<color=#097a76>200 Wen</color>),ข้ามีสินน้ำใจเล็กน้อยให้ท่านทั้งสอง หวังว่าท่านจะช่วยเหลือข้าสักหน่อยนะ <color=#097a76>(200 อีแปะ)</color>
 M20300-63_option1_2,"Brother, considering our relations, can you turn a blind eye to this~<color=#097a76>(Relations reach 60)</color>",พี่น้อง เราสนิทกันเช่นนี้ ท่านทำเป็นมองไม่เห็นได้หรือไม่~<color=#097a76>(ความสัมพันธ์ถึง 60)</color>
 M20300-63_option1_3,"What kind of stupid rule is this? I'm going in today, dare you stop me?<color=#097a76>(Strength reaches 8)</color>",นี่มันกฏบ้าอะไรกัน วันนี้ข้าจะเข้าไป ผู้ใดกล้าขวางทางหรือไม่ <color=#097a76> (พละกำลัง ถึง 8) </color>
 M20300-63_option1_4,There's such a rule... Alright then...,กฏนี่มัน...เอาเถอะ...
@@ -843,12 +843,12 @@ Role5-12_option1_1,Challenge Hui Yuan!<color=#097a76>(Solo fight by protagonist)
 Role5-12_option1_2,Challenge Zhong Yangzi!<color=#097a76>(Solo fight by protagonist)</color>,ประลองกับฉงหยางสื่อ <color=#097a76>(ตัวละครเอกประลองเดี่ยวเท่านั้น)</color>
 Role5-12_option1_3,Challenge Cai Yuanchang!<color=#097a76>(Solo fight by protagonist)</color>,ท้าประลองไช่หยวนฉาง! <color=#097a76>(ตัวเอกสู้คนเดียว)</color>
 M20100-63_option1_dialog,"(Pets are not allowed in Chuxiang City, what should I do?)",(เมืองฉู่เซียงไม่ให้นำสัตว์เลี้ยงเข้า ควรทำยังไงดี)
-M20100-63_option1_1,Will this change your mind? (<color=#097a76>200 Wen</color>),ข้าพอจะมีเงินเพื่อแสดงความนับถือต่อท่านทั้งสอง หวังว่าท่านจะพอยกเว้นได้นะ <color=#097a76>(200 อีแปะ)</color>
+M20100-63_option1_1,Will this change your mind? (<color=#097a76>200 Wen</color>),ข้ามีสินน้ำใจเล็กน้อยให้ท่านทั้งสอง หวังว่าท่านจะช่วยเหลือข้าสักหน่อยนะ <color=#097a76>(200 อีแปะ)</color>
 M20100-63_option1_2,"Brother, considering our relations, can you turn a blind eye to this~<color=#097a76>(Relations reach 60)</color>",พี่น้อง เราสนิทกันเช่นนี้ ท่านทำเป็นมองไม่เห็นได้หรือไม่~<color=#097a76>(ความสัมพันธ์ถึง 60)</color>
 M20100-63_option1_3,"What kind of stupid rule is this? I'm going in today, dare you stop me?<color=#097a76>(Strength reaches 8)</color>",นี่มันกฏบ้าอะไรกัน วันนี้ข้าจะเข้าไป ผู้ใดกล้าขวางทางหรือไม่ <color=#097a76> (พละกำลัง ถึง 8) </color>
 M20100-63_option1_4,There's such a rule... Alright then...,กฏนี่มัน...เอาเถอะ...
 M20200-63_option1_dialog,"(Pets are not allowed in Daliang City, what should I do?)",(เมืองต้าเหลียงไม่ให้นำสัตว์เลี้ยงเข้า ควรทำยังไงดี)
-M20200-63_option1_1,Will this change your mind? (<color=#097a76>200 Wen</color>),ข้าพอจะมีเงินเพื่อแสดงความนับถือต่อท่านทั้งสอง หวังว่าท่านจะพอยกเว้นได้นะ <color=#097a76>(200 อีแปะ)</color>
+M20200-63_option1_1,Will this change your mind? (<color=#097a76>200 Wen</color>),ข้ามีสินน้ำใจเล็กน้อยให้ท่านทั้งสอง หวังว่าท่านจะช่วยเหลือข้าสักหน่อยนะ <color=#097a76>(200 อีแปะ)</color>
 M20200-63_option1_2,"Brother, considering our relations, can you turn a blind eye to this~<color=#097a76>(Relations reach 60)</color>",พี่น้อง เราสนิทกันเช่นนี้ ท่านทำเป็นมองไม่เห็นได้หรือไม่~<color=#097a76>(ความสัมพันธ์ถึง 60)</color>
 M20200-63_option1_3,"What kind of stupid rule is this? I'm going in today, dare you stop me?<color=#097a76>(Strength reaches 8)</color>",นี่มันกฏบ้าอะไรกัน วันนี้ข้าจะเข้าไป ผู้ใดกล้าขวางทางหรือไม่ <color=#097a76> (พละกำลัง ถึง 8) </color>
 M20200-63_option1_4,There's such a rule... Alright then...,กฏนี่มัน...เอาเถอะ...
@@ -1085,7 +1085,7 @@ M1200-10_overview1,"Go to Chuxiang City General's mansion and inform Lü Wenhuan
 M1200-10_npcname1,Faint voice,เสียงแผ่วเบา
 M1200-12_option1_1,Eliminate the Blue Wind Camp!<color=#c44b0e>(Start Battle Immediately)</color>,กวาดล้างค่ายวายุคราม!<color=#c44b0e>(เริ่มการต่อสู้ทันที)</color>
 M1200-12_option1_2,Order the soldiers to clear the bandits outside the house.,สั่งให้ทหารจัดการโจรที่อยู่ด้านนอก
-M1200-12_option1_3,Set fire to the mountain!,จุดไฟเผาภูเขา
+M1200-12_option1_3,Set fire to the mountain!,วางเพลิงเผาภูเขา
 M1200-13_option1_1,"Unfortunately, General Lü sent me to kill you and silence you.",โชคไม่ดี แม่ทัพลู่ ส่งข้ามาสังหารปิดปากเจ้า
 M1200-13_option1_2,"Stop talking nonsense, just kill him.<color=#0574a8>(Kill the Official)</color>",หยุดพูดจาไร้สาระ สังหารเขาซะ<color=#0574a8>(สังหารเจ้าหน้าที่)</color>
 M1200-13_option2_1,"I'll let you run away, hoping you'll keep your word.",ข้าจะปล่อยเจ้าไป หวังว่าเจ้าจะรักษาคำพูดล่ะ
@@ -2595,7 +2595,7 @@ DNYJJ-2-2_option4_2,Prepare again.,เตรียมตัวให้พร้
 DNYJJ-4_option1_1,"Attack head-on, charge into the main camp! <color=#c44b0e>(Direct battle)</color>",โจมตีแบบประชิดตัว บุกเข้ากระโจมหลัก! <color=#c44b0e>(ต่อสู้โดยตรง)</color>
 DNYJJ-4_option1_2,"Soldiers guard the exit, charge into the main camp alone. <color=#c44b0e>(Direct battle)</color>",ให้ทหารเฝ้าทางออก บุกเข้าค่ายหลักเพียงลำพัง <color=#c44b0e>(ต่อสู้โดยตรง)</color>
 DNYJJ-4_option1_3,"Let the soldiers sneak into the enemy camp from the forest, catch them off guard! <color=#c44b0e>(Direct battle)</color>",ให้ทหารแอบเข้าไปในค่ายของศัตรูจากป่า จู่โจมแบบสายฟ้าแลบ!<color=#c44b0e>(ต่อสู้โดยตรง)</color>
-DNYJJ-4_option1_4,Set fire to the mountain.,เตรียมจุดไฟเผาภูเขา
+DNYJJ-4_option1_4,Set fire to the mountain.,เตรียมวางเพลิงเผาภูเขา
 DNYJJ-5_option1_1,"Abandon Phoenix Woods Harbor, retreat to the base.",ละทิ้งท่าเรือป่าหงส์ ถอยร่นกลับไปยังฐานที่มั่น
 DNYJJ-5_option1_2,"Log in and occupy Phoenix Woods Harbor, take advantage of the terrain.",เข้ายึดครองท่าเรือป่าหงส์ ใช้ประโยชน์จากภูมิประเทศ
 DNYJJ-5_option1_3,Increase harassment actions around Phoenix Woods Harbor.,สร้างความปั่นป่วนในบริเวณท่าเรือป่าหงส์
@@ -2653,10 +2653,10 @@ M20501-2_option1_2,No way!<color=#097a76>(Protagonist's solo fight)</color>
 R20814-1_option1_1,Pay for the Troupe Leader.
 R20814-1_option1_2,Intimidate with force!
 R20814-1_option1_3,Stand by and watch.,ยืนดูเฉยๆ
-R20814-2_option1_1,Watch the play!
-R20814-2_option1_2,Wait a bit longer.
-R20814-2_name,Farewell My Concubine
-R20814-2_overview1,Talk to the Troupe Leader of the theater troupe at Phoenix Woods Harbor during the day and watch their performance.
+R20814-2_option1_1,Watch the play!,ดูการแสดง!
+R20814-2_option1_2,Wait a bit longer.,รอสักครู่
+R20814-2_name,Farewell My Concubine,งิ้วเรื่อง - ฉ้อปาอ๋องอำลานางสนม
+R20814-2_overview1,Talk to the Troupe Leader of the theater troupe at Phoenix Woods Harbor during the day and watch their performance.,คุยกับหัวหน้าคณะงิ้วที่ท่าเรือป่าหงส์ในตอนกลางวัน และดูการแสดงงิ้วนั้น
 R20814-2-1_option1_1,Go check it out.<color=#c44b0e>(Protagonist's solo fight)</color>
 R20814-2-1_option1_2,Don't meddle.
 M20500-2_option1_1,Arrest!<color=#c44b0e>(Specific battle)</color>
