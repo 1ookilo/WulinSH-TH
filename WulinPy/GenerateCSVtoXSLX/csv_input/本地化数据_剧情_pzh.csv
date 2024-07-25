@@ -372,14 +372,14 @@ R10112-2_1_3,"Innkeeper, do you sell Jiannan wine in your shop?",เถ้าแ
 R10112-2_1_4,"Jiannan wine? This wine is from the Southwest region, don't make it difficult for me, why don't you change your taste, how about a pot of Burning blade wine?",สุราเจียนหนานหรือ? นั้นมันสุราของแดนตะวันตกเฉียงใต้เลยนะ ท่านอย่าทำให้ข้าลำบากเลย เหตุใดท่านไม่เปิดใจลิ้มลองสุราอื่นดูบ้าง เอาเป็นสุราเผาดาบแทนดูเป็นยังไง?
 R10112-2_1_5,Hiss-- this...,จิ๊--- นี่มัน...
 R10112-2_1_6,"If the guest has never tasted Burning blade wine, please be sure to buy some to taste.\nThis is a bitter cold place, this kind of strong wine is just right to keep out the cold!","หากท่านยังไม่เคยลิ้มลองรสชาติของสุราเผาดาบ ข้าน้อยขอแนะนำให้ท่านลองซื้อไปชิมสักครา\nที่นี่อากาศค่อนข้างหนาว หากได้สุราแรงๆ จะช่วยคลายหนาวได้ดียิ่ง!"
-R10112-2_1_7,"Alright, then I, Old Sun, will take your advice!\nInnkeeper, bring me a few pots of Burning blade wine!","เอางั้นก็ได้ ข้า หงอคง ขอน้อมรับคำแนะนำของท่าน!\nเถ้าแก่ เอาสุราเผาดาบมา!"
+R10112-2_1_7,"Alright, then I, Old Sun, will take your advice!\nInnkeeper, bring me a few pots of Burning blade wine!","เอางั้นก็ได้ ข้า หงอคงผู้นี้ ขอน้อมรับคำแนะนำของท่าน!\nเถ้าแก่ เอาสุราเผาดาบมา!"
 R10112-2_1_8,"Alright! But sir, the shop is already full, I can only trouble you to take it away.",ได้เลยขอรับ! หากแต่นายท่าน ตอนนี้โต๊ะเต็มหมด ข้าคงต้องห่อกลับบ้านให้ท่านแล้ว
 R10112-2_1_9,That's no problem~,นั่นไม่มีปัญหา~
 R10112-2_1_10,"{PlayerSurName} Benefactor, I will be waiting for you under the lantern at the north gate of the village, don't miss it!",ประสก{PlayerSurName} อาตมาจะรอประสกอยู่ใต้โคมไฟที่ประตูทิศเหนือของหมู่บ้าน อย่าช้าล่ะ!
 R10112-2_1_11,"Uh... It's so cold, are we really going to drink outside? I'm afraid the cup will freeze as soon as it's taken out...",อั่ก...อากาศหนาวมาก นี่พวกเราจะต้องดื่มกันข้างนอกจริง ๆ หรอ? เกรงว่าสุราคงจะแข็งทันทีที่เอาออกมา
 R10112-2_2_1_1,That's Brother Xingzhe and...,นั่นพี่หงอคงและ...
 R10112-2_2_1_2,"Oh, I didn't expect people here to like monkey plays...",โอ้ว ไม่คิดมาก่อนเลยว่าแถวนี้ยังหลงเหลือพวกที่ชอบละครลิงอยู่...
-R10112-2_2_1_3,"Have you seen my, Old Sun's, play?",ท่านเคยชมการแสดงของข้าหรือไม่?
+R10112-2_2_1_3,"Have you seen my, Old Sun's, play?",ท่านเคยชมการแสดงของข้าหงอคงผู้นี้ หรือไม่?
 R10112-2_2_1_4,"Hehe, I saw a monkey play in the Central Plains more than ten years ago, but I haven't seen it since I came here.",ฮ่า ๆ ครั้งสุดท้ายที่ข้าดูละครลิง คือที่ภาคกลางกว่าสิบปีมาแล้ว แต่ข้ายังไม่เคยเลยสักครั้งนับตั้งแต่มาที่นี่
 R10112-2_2_1_5,When will you perform the next one? I will definitely support you. Hehehe...,แล้วเจ้าจะแสดงอีกเมื่อไรล่ะ? ข้าจะไปดูถึงที่เลย ฮ่าๆๆ...
 R10112-2_2_1_6,"Thank you very much.\nHere, this is for you, to warm you up.","ขอบคุณท่านมาก\nอ่ะนี่ สหาย มันจะช่วยให้ร่างกายอบอุ่นขึ้น"
@@ -390,9 +390,9 @@ R10112-2_2_1_10,"(......Looking at his expression, it doesn't seem like he's act
 R10112-2_2_1_11,"Alright, {PlayerSurName} benefactor, don't just stand there, come and have a drink with us.",เอาเถิด ประสก{PlayerSurName} อย่ามัวแต่ยืนอยู่ตรงนั้นเลย เรามาดื่มกันเถอะ
 R10112-2_2_1_12,"In the biting cold wind, Sun Yogin and you found a place downwind of a wall to drink.\nContrary to your expectation, the wine he handed out was still warm.","ท่ามกลางลมที่หนาวเหน็บ ท่าน และ ซุนหงอคง พบสถานที่สำหรับดื่มสุรา\nแต่ผิดคาด สุราที่พกมาด้วยกลับยังอุ่นอยู่"
 R10112-2_2_1_13,Woo-hoo-- exhilarating! I feel like I've swallowed a mouthful of Samadhi True Fire!,อู้หู--- สุดยอด! ข้ารู้สึกเหมือนได้กลืนไฟบรรลัยกัลป์เข้าไปเต็มปากเลย!
-R10112-2_2_2_1,"Old Sun knows you're a monk, so I've prepared some hot tea for you, please.",ซุนหงอคงทราบว่าท่านเป็นภิกษุ ดังนั้นข้าจึงเตรียมชาร้อนมาให้ เชิญดื่มได้เลย
+R10112-2_2_2_1,"Old Sun knows you're a monk, so I've prepared some hot tea for you, please.",หงอคงผู้นี้ทราบว่าท่านเป็นหลวงจีน ดังนั้นข้าจึงเตรียมชาร้อนมาให้ เชิญดื่มได้เลย
 R10112-2_2_2_2,"You're thoughtful, Brother Traveler. But knowing that I'm a monk, why do you still call me a benefactor?",ขอบคุณพี่หงอคงที่เป็นห่วง แต่ในเมื่อรู้ว่าอาตมาเป็นพระสงฆ์แล้ว ทำไมถึงยังเรียกอาตมาว่าประสกอีกเล่า?
-R10112-2_2_2_3,"Heh, Old Sun isn't a monk, but because I'm not a monk, anyone can be a benefactor.",เฮ้ หงอคงมิใช่พระภิกษุ แต่เพราะว่าข้าไม่ใช่พระภิกษุ ใครๆก็เป็นประสกได้ทั้งนั้น
+R10112-2_2_2_3,"Heh, Old Sun isn't a monk, but because I'm not a monk, anyone can be a benefactor.",เฮ้ หงอคงผู้นี้มิใช่หลวงจีน แต่เพราะว่าข้าไม่ใช่หลวงจีน ใครๆก็เป็นประสกได้ทั้งนั้น
 R10112-2_2_2_4,"...Brother Traveler, your words seem to have a Zen-like quality.",...สหายหงอคง คำพูดของท่านช่างลึกซึ้งยิ่งนัก
 R10112-2_2_2_5,"Hehe. If my unintentional words can enlighten you, it would be a merit. Hehe.",เฮะ ๆ หากคำพูดใดของข้าทำให้ประสกเห็นแจ้งได้ คงจะเป็นบุญยิ่งนัก เฮะ ๆ
 R10112-2_2_3_1,"You little rascal, how could you drink without me?",ไอ้ลูกหมา เจ้าดื่มโดยที่ไม่มีข้าได้อย่างไร?
@@ -407,9 +407,9 @@ R10112-2_2_4_7,Hehehe~,ฮี่ฮี่ฮี่~
 R10112-2_2_4_8,"Wow! Cough cough cough, this liquor is so spicy!","โอ้ว! แค่ก แค่ก แค่ก, สุราไหนี้รสชาติร้อนแรงจริงๆ!"
 R10112-2_2_4_9,"Your nose is running and your eyes are watering, tsk tsk tsk. Wipe it off quickly.",น้ำมูกน้ำตาไหลแล้ว จิ๊ๆๆ รีบเช็ดออกเร็ว
 R10112-2_2_4_10,"Hmph, I'm not afraid of swords and guns, would this lady be afraid of spiciness? I want to drink more!",ฮึ่ม.. ข้าไม่กลัวดาบและปืน แล้วข้าจะกลัวสุราลวกคอได้อย่างไร? ข้าจะดื่มอีก!
-R10112-2_3_1_1,"This liquor is really strong! Old Sun has a problem, when I drink too much, I talk a lot and want to tell stories. {PlayerSurName} Benefactor, have you heard of ""Journey to the West""?",เหล้านี่มันแรงจริงๆ! ซุนหงอคงมีปัญหาอยู่บ้าง พอเวลาเริ่มกรึ่ม ๆ แล้วมักจะพูดมากและอยากเล่าเรื่อง {PlayerSurName} ท่านเคยได้ยินเรื่อง “ไซอิ๋ว” ไหม?
+R10112-2_3_1_1,"This liquor is really strong! Old Sun has a problem, when I drink too much, I talk a lot and want to tell stories. {PlayerSurName} Benefactor, have you heard of ""Journey to the West""?",สุรานี่มันแรงจริงๆ! หงอคงผู้นี้มีปัญหาอยู่บ้าง พอเวลาเริ่มกรึ่มๆ แล้วมักจะพูดมากและอยากเล่าเรื่อง ประสก{PlayerSurName} ท่านเคยได้ยินเรื่อง “ไซอิ๋ว” ไหมล่ะ?
 R10112-2_3_1_2,"Of course, with the fame of ""Journey to the West"", even if you haven't read it, you must be familiar with the plot.","แน่นอน ด้วยชื่อเสียงของ ""ไซอิ๋ว"" ต่อให้ท่านไม่เคยอ่าน ก็คงต้องคุ้น ๆ เนื้อเรื่องบ้างละ"
-R10112-2_3_1_3,"Alas, I wonder if the story you know is the same as Old Sun's version~",โถ่ ข้าสงสัยจังว่าเรื่องที่ท่านรู้จัก จะเหมือนกับฉบับของซุนหงอคงไหมนะ~
+R10112-2_3_1_3,"Alas, I wonder if the story you know is the same as Old Sun's version~",โถ่ ข้าสงสัยจังว่าเรื่องที่ท่านรู้จัก จะเหมือนกับฉบับของหงอคงผู้นี้ไหมนะ~
 R10112-2_3_1_4,"Oh? Could it be that the character in this book is going to jump out and tell me the story of his personal experience in ""Journey to the West""?","โอ้? หรือว่าตัวละครในหนังสือจะกระโดดออกมาเล่าเรื่องประสบการณ์ของเขาใน ""ไซอิ๋ว"" ให้ข้าฟังกัน?"
 R10112-2_3_1_5,"Yes, yes!","ใช่, ใช่!"
 R10112-2_3_2_1,"Good, good, Caidie also wants to listen to ""Journey to the West""!","เยี่ยม เยี่ยม ไฉ่ตี้ก็อยากฟังเรื่อง ""ไซอิ๋ว""เหมือนกัน"
@@ -525,7 +525,7 @@ R10112-3_3_1_8,"First, I'll ask you ""Eating Tang Monk's flesh can..."", you hav
 R10112-3_3_1_9,Eating Tang Monk's flesh can bring longevity and immortality...,การกินเนื้อพระถังจะนำไปสู่ความเป็นอมตะ...
 R10112-3_3_1_10,"After that, I'll ask you what abilities your king has.\nYou need to reply ""My great king, he is very powerful, he swallowed a hundred thousand heavenly soldiers in one gulp!"".","หลังจากนั้นข้าจะถามเจ้าว่าราชาอสูรมีความสามารถอะไรบ้าง\nเจ้าจะต้องตอบข้าว่า ""องค์ราชามีพลังมหาศาล ถึงขนาดที่สามารถกลืนทหารสวรรค์นับแสนได้ในครั้งเดียว!"""
 R10112-3_3_1_11,"<color=#c44b0e>""Swallowed a hundred thousand heavenly soldiers in one gulp...""</color>\nThis king is really powerful.","<color=#c44b0e>""กลืนทหารสวรรค์นับแสนในครั้งเดียว...""</color>\nราชานี่แข็งแกร่งจริงๆ"
-R10112-3_3_1_12,"Finally, I, Old Sun, will ask you about the abilities of the three great kings.\nYou should reply<color=#c44b0e>""This third great king is not a mortal monster, he has a treasure called the Yin Yang Qi Bottle""</color>","และสุดท้าย ข้าเฒ่าซุน จะถามเจ้าเกี่ยวกับความสามารถของราชาอสูรที่ 3\nเจ้าจะต้องตอบว่า <color=#c44b0e>""ท่านราชาอสูรที่ 3 ไม่ใช่อสูรธรรมดา เขามีสมบัติลับชื่อว่าขวดปราณหยินหยาง""</color>"
+R10112-3_3_1_12,"Finally, I, Old Sun, will ask you about the abilities of the three great kings.\nYou should reply<color=#c44b0e>""This third great king is not a mortal monster, he has a treasure called the Yin Yang Qi Bottle""</color>","สุดท้าย ข้าหงอคงผู้นี้ จะถามท่านเกี่ยวกับความสามารถของทั้งสามราชาอสูร\nท่านจะต้องตอบว่า <color=#c44b0e>""สามราชาอสูรไม่ใช่อสูรธรรมดา เขามีสมบัติลับชื่อว่าขวดปราณหยินหยาง""</color>"
 R10112-3_3_1_13,"<color=#c44b0e>""This third great king's treasure is the Yin Yang Qi Bottle""</color>...","<color=#c44b0e>""สมบัติลับขององค์ราชาที่ 3  คือ ขวดปราณหยินหยาง""</color>..."
 R10112-3_3_1_14,Have you remembered it?,ท่านจำมันได้หรือไม่?
 R10112-3_3_2_1,"Good, next is the action and positioning...","ดีมาก, ต่อไปก็คือ ท่วงท่าและตำแหน่ง....."
@@ -541,7 +541,7 @@ R10112-3_3_3_8,Bait? What do you mean?,เหยื่อล่อ? ท่าน
 R10112-3_3_3_9,"I didn't have much communication with the Six-Eared Macaque, and I haven't seen his face for more than ten years. I'm worried that if he changes his appearance, how can I be sure it's him?",ข้าไม่ได้สนทนากับวานรหกหูมากนัก และ ก็ไม่ได้เห็นมันมากกว่าสิบปีแล้ว ข้าก็กังวลอยู่เหมือนกันว่ามันจะเปลี่ยนรูปลักษณ์อีกครั้ง เราจะแน่ใจได้อย่างไรว่านั่นคือมันจริงๆ?
 R10112-3_3_3_10,"Oh--the face can change, but some things in the heart can't, right?",โอ้ว--แม้รูปลักษณ์จะสามาระเปลี่ยนได้ แต่สันดารเก่าหาได้เปลี่ยนไป ใช่หรือไม่?
 R10112-3_3_3_11,"Exactly. He loves Jiannan wine and can taste it in one sip. But he's been here for more than ten years, how many times could he have had Jiannan wine?",แน่นอนว่า มันรักสุราเจี๋ยนหนานเป็นที่สุด ขนาดที่กระดกรวดเดียวหมดทั้งไห แต่มันอยู่ที่นี่เป็นสิบปีแล้ว คงจะดื่มไปนับครั้งไม่ถ้วนแล้วมั้ง?
-R10112-3_3_3_12,"Before the performance, I, Old Sun, will secretly replace the wine in a few officials' cups with Jiannan wine.",ก่อนที่การแสดงจะเริ่ม ข้า เฒ่าซุน จะแอบสลับไหสุราของทางการบางคนเป็นสุราเจี๋ยนหนาน
+R10112-3_3_3_12,"Before the performance, I, Old Sun, will secretly replace the wine in a few officials' cups with Jiannan wine.",ก่อนที่การแสดงจะเริ่ม ข้า หงอคงผู้นี้ จะแอบสลับไหสุราของทางการบางคนเป็นสุราเจียนหนาน
 R10112-3_3_3_13,"If we see him showing a nostalgic expression, and with your observation and judgment, we can determine who the Six-Eared Macaque is, right?",แล้วถ้าหากเราสังเกตุเห็นใครท่าทางดูคุ้นเคย จากการสังเกตุและการตัดสินของท่านแล้วละก็ เราสามารถระบุได้ว่าใครคือวานรหกหูใช่หรือไม่?
 R10112-3_3_3_14,That's it. I like talking to brilliant people.,นี่แหละ ข้าถึงชอบคนฉลาด ๆ
 R10112-3_3_3_15,"If {PlayerSurName} benefactor remembers, let's continue rehearsing.\nThere are about two shichen left before the official performance.","หากท่านผู้มีพระคุณ {PlayerSurName} จำได้, อีกเพียงสองชั่วยามเท่านั้นก็ถึงเวลาแสดงแล้ว เรามาฝึกซ้อมกันต่อเถิด\n"

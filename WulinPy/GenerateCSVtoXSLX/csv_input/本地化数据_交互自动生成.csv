@@ -3814,44 +3814,44 @@ NpcTrading_人妻月咏樱羽_Disagree,"I don't think it's enough.|Maybe if you 
 NpcTrading_人妻月咏樱羽_Agree,I like everything from the young master.
 NpcDriveAway_人妻月咏樱羽_XCKaiGan,What do you want? I can get it for you.|Am I in your way?
 NpcChangeWeapon_月咏樱羽_Refuse,"Well, I've grown attached to this item and don't want to part with it."
-NpcJobTalk_自我称呼_孙行者,"I, Old Sun"
+NpcJobTalk_自我称呼_孙行者,"I, Old Sun",ข้า หงอคง
 NpcJobTalk_第二人称_孙行者,Benefactor,ประสก
 NpcJobTalk_第二人称敬语_孙行者,Benefactor,ประสก
 NpcJobTalk_脏话_孙行者,Fool!,เจ้าโง่!
-NpcMumble_孙行者_Dead,"I, Old Sun, was defeated here...|The journey to the west is not over yet..."
-NpcMumble_孙行者_Formation,"Take this stick from I, Old Sun!"
-NpcMumble_孙行者_WillingToEscape,"I, Old Sun, am off!"
+NpcMumble_孙行者_Dead,"I, Old Sun, was defeated here...|The journey to the west is not over yet...",ข้า หงอคง พ่ายแพ้ที่นี่...|การเดินทางไปตะวันตกยังไม่เสร็จสิ้น...
+NpcMumble_孙行者_Formation,"Take this stick from I, Old Sun!",รับกระบองจากข้า หงอคงผู้นี้ไปกินซะ!
+NpcMumble_孙行者_WillingToEscape,"I, Old Sun, am off!",ข้า หงอคงผู้นี้ ไปแล้ว!
 NpcInteractive_孙行者_Like,What do you want to do to him?
 NpcInteractive_孙行者_Dislike,What do you want to do to him?
 NpcHello_孙行者_SelfIntroHigh,"{PlayerSurName} Benefactor, I hope you are well~"
 NpcHello_孙行者_SelfIntroLow,"{PlayerSurName} Benefactor, I hope you are well~"
-NpcHello_孙行者_Common,"{PlayerSurName} Benefactor, I hope you are well~|{PlayerSurName} Benefactor, what can I, Old Sun, do for you?|Hehe, I knew {PlayerSurName} Benefactor missed I, Old Sun."
-NpcHello_孙行者_Like,"{PlayerSurName} Benefactor, I hope you are well~|{PlayerSurName} Benefactor, what can I, Old Sun, do for you?|Hehe, I knew {PlayerSurName} Benefactor missed I, Old Sun."
-NpcHello_孙行者_Dislike,"{PlayerSurName} Benefactor, what do you need I, Old Sun, to do?"
-NpcHello_孙行者_Hate,"{PlayerSurName} Benefactor, what do you need I, Old Sun, to do?"
-NpcTrading_孙行者_Refuse,"I, Old Sun, only have treasures on me, I don't want to exchange with {PlayerSurName} Benefactor.|I, Old Sun, have seen all the treasures in the heavenly court, can {PlayerSurName} Benefactor's things be better than those?"
+NpcHello_孙行者_Common,"{PlayerSurName} Benefactor, I hope you are well~|{PlayerSurName} Benefactor, what can I, Old Sun, do for you?|Hehe, I knew {PlayerSurName} Benefactor missed I, Old Sun.",ประสก{PlayerSurName} ข้าหวังว่าท่านสบายดี~|ประสก{PlayerSurName} มีอะไรที่ข้า หงอคงผู้นี้ ทำเพื่อท่านได้บ้าง?|ฮี่ฮี่ ข้ารู้นะ ประสก{PlayerSurName} คิดถึงข้าหงอคงผู้นี้
+NpcHello_孙行者_Like,"{PlayerSurName} Benefactor, I hope you are well~|{PlayerSurName} Benefactor, what can I, Old Sun, do for you?|Hehe, I knew {PlayerSurName} Benefactor missed I, Old Sun.",ประสก{PlayerSurName} ข้าหวังว่าท่านสบายดี~|ประสก{PlayerSurName} มีอะไรที่ข้า หงอคงผู้นี้ ทำเพื่อท่านได้บ้าง?|ฮี่ฮี่ ข้ารู้นะ ประสก{PlayerSurName} คิดถึงข้าหงอคงผู้นี้
+NpcHello_孙行者_Dislike,"{PlayerSurName} Benefactor, what do you need I, Old Sun, to do?",ประสก{PlayerSurName} ท่านต้องการให้ข้าหงอคงผู้นี้ ทำอะไร?
+NpcHello_孙行者_Hate,"{PlayerSurName} Benefactor, what do you need I, Old Sun, to do?",ประสก{PlayerSurName} ท่านต้องการให้ข้าหงอคงผู้นี้ ทำอะไร?
+NpcTrading_孙行者_Refuse,"I, Old Sun, only have treasures on me, I don't want to exchange with {PlayerSurName} Benefactor.|I, Old Sun, have seen all the treasures in the heavenly court, can {PlayerSurName} Benefactor's things be better than those?",ข้าหงอคงผู้นี้ มีเพียงสมบัตินี้ติดตัว ข้าไม่ต้องการจะแลกกับประสก{PlayerSurName}|ข้าหงอคงผู้นี้ ได้เห็นสมบัติทั้งหมดในแดนสวรรค์แล้ว ของของประสก{PlayerSurName} จะดีกว่าของเหล่านั้นงั้นหรอ?
 NpcTrading_孙行者_Apply,I wonder what good things {PlayerSurName} Benefactor has on him?
-NpcTrading_孙行者_HasTrade,"{PlayerSurName} Benefactor, your treasures are really good.|I, Old Sun, have truly opened my eyes~"
-NpcTrading_孙行者_NoTrade,"I, Old Sun, have said that I don't fancy anything from {PlayerSurName}~"
-NpcTrading_孙行者_Default,"What do you think of these treasures of mine, Old Sun?"
-NpcTrading_孙行者_Disagree,"No, no, these are all treasures~|Don't even think about deceiving me, Old Sun!"
+NpcTrading_孙行者_HasTrade,"{PlayerSurName} Benefactor, your treasures are really good.|I, Old Sun, have truly opened my eyes~",ประสก{PlayerSurName} สมบัติของท่านช่างดีจริงๆ|ข้า หงอคงผู้นี้ ได้เปิดหูเปิดตาจริงๆ~
+NpcTrading_孙行者_NoTrade,"I, Old Sun, have said that I don't fancy anything from {PlayerSurName}~",ข้า หงอคงผู้นี้ เคยบอกแล้วว่าข้าไม่อยากได้อะไรจาก{PlayerSurName}~
+NpcTrading_孙行者_Default,"What do you think of these treasures of mine, Old Sun?",ท่านคิดอย่างไรกับสมบัติเหล่านี้ของข้า หงอคงผู้นี้?
+NpcTrading_孙行者_Disagree,"No, no, these are all treasures~|Don't even think about deceiving me, Old Sun!",ไม่ ไม่ ทั้งหมดนี้ล้วนเป็นสมบัติ~|อย่าคิดมาหลอกลวงข้า หงอคงผู้นี้!
 NpcTrading_孙行者_Agree,"Hmm, it's barely passable."
-NpcSight_孙行者_FameLowBattle,"Take this stick from I, Old Sun!"
-NpcSight_孙行者_RelationLowBattle,"Take this stick from I, Old Sun!"
-NpcSight_孙行者_FameRelationLowBattle,"Take this stick from I, Old Sun!"
-NpcSight_孙行者_StealthWarning,"Don't be sneaky in front of me, Old Sun!"
-NpcSight_孙行者_StealthBattle,"Evil creature, take this staff from me, Old Sun!"
+NpcSight_孙行者_FameLowBattle,"Take this stick from I, Old Sun!",รับกระบองจากข้า หงอคงผู้นี้ไปกินซะ!
+NpcSight_孙行者_RelationLowBattle,"Take this stick from I, Old Sun!",รับกระบองจากข้า หงอคงผู้นี้ไปกินซะ!
+NpcSight_孙行者_FameRelationLowBattle,"Take this stick from I, Old Sun!",รับกระบองจากข้า หงอคงผู้นี้ไปกินซะ!
+NpcSight_孙行者_StealthWarning,"Don't be sneaky in front of me, Old Sun!",อย่าทำลับๆ ล่อๆ ต่อหน้าข้า หงอคงผู้นี้!
+NpcSight_孙行者_StealthBattle,"Evil creature, take this staff from me, Old Sun!",อสูรร้าย รับกระบองของข้า หงอคงผู้นี้ไปซะ!
 NpcSight_孙行者_StealthDiss,My possessions are not for you to covet!
-NpcBattleReact_孙行者_JoinEnemy,"Take this stick from I, Old Sun!"
-NpcBattleReact_孙行者_JoinAllie,"Take this stick from I, Old Sun!"
-NpcBattleReact_孙行者_HitActor,"Evil creature, take this staff from me, Old Sun!"
-NpcBattleReact_孙行者_KillActor,"Evil creature, take this staff from me, Old Sun!"
-NpcParalyze_孙行者_ParalzeRunAway,"I, Old Sun, have a head of copper and arms of iron, how could I fall for your tricks?"
-NpcParalyze_孙行者_ParalzeBattle,"Take this stick from I, Old Sun!"
-NpcSteal_孙行者_RunAway,"I, Old Sun, have a head of copper and arms of iron, how could I fall for your tricks?"
-NpcSteal_孙行者_KaiGan,"Take this stick from I, Old Sun!"
-NpcDriveAway_孙行者_XCKaiGan,"Take this stick from I, Old Sun!"
-NpcDriveAway_孙行者_KaiGan,"Take this stick from I, Old Sun!"
+NpcBattleReact_孙行者_JoinEnemy,"Take this stick from I, Old Sun!",รับกระบองจากข้า หงอคงผู้นี้ไปกินซะ!
+NpcBattleReact_孙行者_JoinAllie,"Take this stick from I, Old Sun!",รับกระบองจากข้า หงอคงผู้นี้ไปกินซะ!
+NpcBattleReact_孙行者_HitActor,"Evil creature, take this staff from me, Old Sun!",อสูรร้าย รับกระบองของข้า หงอคงผู้นี้ไปซะ!
+NpcBattleReact_孙行者_KillActor,"Evil creature, take this staff from me, Old Sun!",อสูรร้าย รับกระบองของข้า หงอคงผู้นี้ไปซะ!
+NpcParalyze_孙行者_ParalzeRunAway,"I, Old Sun, have a head of copper and arms of iron, how could I fall for your tricks?",ข้า หงอคงผู้นี้ มีหัวเป็นทองแดงและมีแขนเป็นเหล็ก ข้าจะหลงกลของเจ้าได้อย่างไร?
+NpcParalyze_孙行者_ParalzeBattle,"Take this stick from I, Old Sun!",รับกระบองจากข้า หงอคงผู้นี้ไปกินซะ!
+NpcSteal_孙行者_RunAway,"I, Old Sun, have a head of copper and arms of iron, how could I fall for your tricks?",ข้า หงอคงผู้นี้ มีหัวเป็นทองแดงและมีแขนเป็นเหล็ก ข้าจะหลงกลของเจ้าได้อย่างไร?
+NpcSteal_孙行者_KaiGan,"Take this stick from I, Old Sun!",รับกระบองจากข้า หงอคงผู้นี้ไปกินซะ!
+NpcDriveAway_孙行者_XCKaiGan,"Take this stick from I, Old Sun!",รับกระบองจากข้า หงอคงผู้นี้ไปกินซะ!
+NpcDriveAway_孙行者_KaiGan,"Take this stick from I, Old Sun!",รับกระบองจากข้า หงอคงผู้นี้ไปกินซะ!
 NpcJobTalk_自我称呼_廖月龙,I,ข้า
 NpcJobTalk_第二人称敬语_廖月龙,Brother,พี่ชาย
 NpcJobTalk_第二人称脏话_廖月龙,Bastard,สารเลว

@@ -2530,7 +2530,7 @@ Talking_Resport,Report,รายงาน
 Talking_Learn,Learn,เรียนรู้
 Talking_Teach,Teaching
 Talking_Kanxi,Watch the play
-Talking_BloodCase,Blood case
+Talking_BloodCase,Blood case,คดีฆาตกรรม
 Talking_Sorry,Apologize,ขออภัย
 R10099-1_option1_1,Fist!,หมัด!
 R10099-1_option1_2,Knife!,ดาบ!
@@ -2545,7 +2545,7 @@ R10099-1_option3_1,Dagger!,มีด!
 R10099-1_option3_2,Fan!,พัด!
 R10099-1_option3_3,Brush!,พู่กัน!
 R10099-1_option3_4,Think about it again.,คิดดูอีกที
-R10099-1_option4_1,Zither.,กู่ฉิน!
+R10099-1_option4_1,Zither.,กู่ฉิน
 R10099-1_option4_2,Flute.,ขลุ่ย!
 R10099-1_option4_3,Lute.,ผีผา!
 R10099-1_option4_4,Think about it again.,คิดดูอีกครั้ง
@@ -2598,56 +2598,56 @@ DNYJJ-4_option1_3,"Let the soldiers sneak into the enemy camp from the forest, c
 DNYJJ-4_option1_4,Set fire to the mountain.,เตรียมจุดไฟเผาภูเขา
 DNYJJ-5_option1_1,"Abandon Phoenix Woods Harbor, retreat to the base.",ละทิ้งท่าเรือป่าหงส์ ถอยร่นกลับไปยังฐานที่มั่น
 DNYJJ-5_option1_2,"Log in and occupy Phoenix Woods Harbor, take advantage of the terrain.",เข้ายึดครองท่าเรือป่าหงส์ ใช้ประโยชน์จากภูมิประเทศ
-DNYJJ-5_option1_3,Increase harassment actions around Phoenix Woods Harbor.
-DNYJJ-5_option1_4,"Leave only a few people in Phoenix Woods Harbor, the rest retreat."
-DNYJJ-6_option1_1,Enter Phoenix Woods Harbor! <color=#c44b0e>(Specific battle)</color>
+DNYJJ-5_option1_3,Increase harassment actions around Phoenix Woods Harbor.,สร้างความปั่นป่วนในบริเวณท่าเรือป่าหงส์
+DNYJJ-5_option1_4,"Leave only a few people in Phoenix Woods Harbor, the rest retreat.",ให้กำลังพลแค่บางส่วนอยู่ที่ท่าเรือป่าหงส์ ส่วนที่เหลือให้ถอนกำลังออกไป
+DNYJJ-6_option1_1,Enter Phoenix Woods Harbor! <color=#c44b0e>(Specific battle)</color>,บุกรุกท่าเรือป่าหงส์! <color=#c44b0e>เข้าสู่การต่อสู้</color>
 DNYJJ-6_option1_2,Prepare again.,เตรียมตัวให้พร้อมอีกครั้ง
 DNYJJ-7_option1_1,Trust Lu Yunlong.,เชื่อหลูหยุนหลง
 DNYJJ-7_option1_2,Don't trust Lu Yunlong.,ไม่เชื่อหลูหยุนหลง
 DNYJJ-7_NpcName,A man's voice
-DNYJJ-9_option1_1,Use force to coerce Ji Baichu!
-DNYJJ-9_option1_2,Transfer the letter found in South-East Barbarian Camp to here.
+DNYJJ-9_option1_1,Use force to coerce Ji Baichu!,ใช้กำลังบังคับ จิ้ไป่ฉู่!
+DNYJJ-9_option1_2,Transfer the letter found in South-East Barbarian Camp to here.,นำจดหมายที่พบจากค่ายคนเถื่อนเขตตะวันออกเฉียงใต้ไปยังค่าย
 DNYJJ-9_option1_3,Let Lu Yunlong handle it.,ให้หลูหยุนหลงจัดการ
 DNYJJ-9_option2_1,There is evidence!
 DNYJJ-9_option2_2,There is no evidence left.
-DNYJJ-9_option3_1,The silver found in South-East Barbarian Camp!
+DNYJJ-9_option3_1,The silver found in South-East Barbarian Camp!,พบเศษเงินในค่ายคนเถื่อนเขตตะวันออกเฉียงใต้
 DNYJJ-9_option3_2,The Sea Goddess told me!,ข้าแต่ท่านเทพธิดาเจ้าสมุทร จงบอกข้าเถิด!
-DNYJJ-9_option3_3,Guests at King Chai's banquet!
-DNYJJ-9_option3_4,The play performed by the troupe!
-DNYJJ-9_option4_1,Lying!
-DNYJJ-9_option4_2,He really doesn't seem to know.
-DNYJJ-9_option5_1,The first escort.
-DNYJJ-9_option5_2,The second escort.
-DNYJJ-9_option5_3,The third escort.
-DNYJJ-9_NPCName1,King Chai's voice
-DNYJJ-9_NPCName2,Onlookers
-M2280-1_option1_1,"One against ten. <color=#097a76>(Stamina20, 2 shichen, specific battle, only the protagonist fights)</color>"
-M2280-1_option1_2,"Confrontation formation.<color=#097a76>(Stamina20, 2 shichen, specific battle, only the protagonist fights)</color>"
-M2280-1_option1_3,Not ready yet.
-M10180-1_option1_1,Go to Info.<color=#097a76>(2 Ke)</color>
+DNYJJ-9_option3_3,Guests at King Chai's banquet!,ผู้เข้าร่วมงานเลี้ยงของอ๋องไฉ
+DNYJJ-9_option3_4,The play performed by the troupe!,การแสดงของคณะละคร!
+DNYJJ-9_option4_1,Lying!,กำลังโกหก!
+DNYJJ-9_option4_2,He really doesn't seem to know.,ดูเหมือนว่าเขาจะไม่รู้จริงๆ
+DNYJJ-9_option5_1,The first escort.,การคุ้มกันครั้งแรก
+DNYJJ-9_option5_2,The second escort.,การคุ้มกันครั้งที่ 2
+DNYJJ-9_option5_3,The third escort.,การคุ้มกันครั้งที่ 3
+DNYJJ-9_NPCName1,King Chai's voice,คำกล่าวของอ๋องไฉ
+DNYJJ-9_NPCName2,Onlookers,ผู้ชม
+M2280-1_option1_1,"One against ten. <color=#097a76>(Stamina20, 2 shichen, specific battle, only the protagonist fights)</color>","คนเดียวสู้ 10 คน <color=#097a76>(ใช้แรงกาย 20 หน่วย ใช้เวลา 2 ชั่วยาม, เข้าสู่การต่อสู้, มีเพียงตัวเอกเท่านั้นที่ต่อสู้)</color>"
+M2280-1_option1_2,"Confrontation formation.<color=#097a76>(Stamina20, 2 shichen, specific battle, only the protagonist fights)</color>","จัดกำลังรบ <color=#097a76>(ใช้แรงกาย 20 หน่วย ใช้เวลา 2 ชั่วยาม, เข้าสู่การต่อสู้, มีเพียงตัวเอกเท่านั้นที่ต่อสู้)</color>"
+M2280-1_option1_3,Not ready yet.,ยังไม่พร้อม
+M10180-1_option1_1,Go to Info.<color=#097a76>(2 Ke)</color>,ไปตรวจสอบ <color=#097a76>(2เค่อ)</color>
 M10180-1_option1_2,Come back later.,ไว้กลับมาวันหลัง
 M10180-1_NPCName,Sound of a horse,เสียงของม้า
-M20504-1_option1_1,Inquire.
+M20504-1_option1_1,Inquire.,สอบถาม
 M20504-1_option1_2,Don't ask for now.,อย่าเพิ่งถามตอนนี้
-M20506-2_option1_1,Listen to his introduction of the dice rules
-M20506-2_option1_2,Don't want to listen to the introduction
-M20506-2_option2_1,Place a bet of 1000 wen to join the game! <color=#097a76>(1000 wen)</color>
+M20506-2_option1_1,Listen to his introduction of the dice rules,ฟังเขาอธิบายกติกาทายลูกเต๋า
+M20506-2_option1_2,Don't want to listen to the introduction,ปฏิเสธการฟังคำอธิบาย
+M20506-2_option2_1,Place a bet of 1000 wen to join the game! <color=#097a76>(1000 wen)</color>,วางเดิมพัน 1000 อีแปะ เพื่อเข้าร่วมเกม! <color=#097a76>(1000 อีแปะ)</color>
 M20506-2_option2_2,Let me think about it.,ข้าขอไตร่ตรองสักครู่
-M20506-1_option1_1,Intervene!<color=#097a76>(2000Coin)</color>
-M20506-1_option1_2,Maybe next time.
-M20506-1_option2_1,Listen to his introduction of the dice rules
-M20506-1_option2_2,Don't want to listen to the introduction
-M20506-1_option3_1,Let me win it back for him!<color=#097a76>(2000Coin)</color>
-M20506-1_option3_2,Maybe next time.
-M20518-5_NPCName,A deep voice
-M20516-1_option1_1,Take a spin.
-M20516-1_option1_2,Don't move for now.
+M20506-1_option1_1,Intervene!<color=#097a76>(2000Coin)</color>,เข้าไปยุ่งเกี่ยว <color=#097a76>(2000 อิแปะ)</color>
+M20506-1_option1_2,Maybe next time.,ไว้คราวหลัง
+M20506-1_option2_1,Listen to his introduction of the dice rules,ฟังเขาอธิบายกติกาทายลูกเต๋า
+M20506-1_option2_2,Don't want to listen to the introduction,ปฏิเสธการฟังคำอธิบาย
+M20506-1_option3_1,Let me win it back for him!<color=#097a76>(2000Coin)</color>,ฉันจะเอาคืนให้เขาเอง! <color=#097a76>(2000 อิแปะ)</color>
+M20506-1_option3_2,Maybe next time.,ไว้คราวหลัง
+M20518-5_NPCName,A deep voice,เสียงที่ทุ้มลึก
+M20516-1_option1_1,Take a spin.,ลองหมุน
+M20516-1_option1_2,Don't move for now.,หยุดไว้ก่อน
 M20517-1_option1_1,Spin.,หมุน
-M20517-1_option1_2,Wait a bit longer.
+M20517-1_option1_2,Wait a bit longer.,รอสักครู่
 M20507-1_name,Caged beauty
-M20507-1_overview1,Info about An Zhi.
-M20507-1_overview2,"Han Zidu should still be held in Duke Chai's Tower, find Wei Rusong to see if he knows any clues."
-M20507-1_overview3,Infiltrate Duke Chai's Tower to find Han Zidu.
+M20507-1_overview1,Info about An Zhi.,ข้อมูลเกี่ยวกับ อั๋นจื่อ
+M20507-1_overview2,"Han Zidu should still be held in Duke Chai's Tower, find Wei Rusong to see if he knows any clues.",หานจื่อตู้ ควรถูกขังไว้ที่หอในตำหนักอ๋องไฉ เราควรไปหา เว่ยหรูสง เพื่อถามดูว่าเขามีเบาะแสอะไรเกี่ยวกับเรื่องนี้บ้าง
+M20507-1_overview3,Infiltrate Duke Chai's Tower to find Han Zidu.,แทรกซึมเข้าไปยังหอในตำหนักอ๋องไฉเพื่อค้นหา หานจื่อตู้
 M20501-2_option1_1,Step aside.
 M20501-2_option1_2,No way!<color=#097a76>(Protagonist's solo fight)</color>
 R20814-1_option1_1,Pay for the Troupe Leader.
