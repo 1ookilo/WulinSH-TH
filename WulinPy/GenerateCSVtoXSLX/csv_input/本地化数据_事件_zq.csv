@@ -686,7 +686,7 @@ R10048-4_name,Cloud Shrouded Cliff appointment,นัดประลองที
 R10048-4_overview,Hattori Hyoe challenges you to a duel at <color=#c44b0e>Cloud Shrouded Cliff</color>.,ฮาโตริ เฮียวเอะท้าเจ้าประลองที่ <color=#c44b0e>ผาทะเลเมฆ</color>
 R10048-4_option1_1,Execute Hattori Hyoe to avoid future troubles!,สังหารฮาโตริ เฮียวเอะเพื่อขจัดปัญหาในภายภาคหน้า!
 R10048-4_option1_2,"Spare his life, let the tiger return to the mountain.",ไว้ชีวิต ปล่อยเสือเข้าป่า
-R10067-1_option1_1,Speak out and criticize! <color=#097a76>(Protagonist's solo fight)</color>,ออกปาก และวิจารณ์! <color=#097a76>(ตัวเอกสู้คนเดียว)</color>
+R10067-1_option1_1,Speak out and criticize! <color=#097a76>(Protagonist's solo fight)</color>,ต้องตำหนิเขาเสียหน่อย! <color=#097a76>(ตัวเอกสู้คนเดียว)</color>
 R10067-1_option1_2,Flatter and compliment.<color=#097a76>(Persuade level 1 Beginner)</color>,ยกยอปอปั้น <color=#097a76>(โน้มน้าวเลเวล 1)</color>
 R10067-1_option1_3,Throw a stone to teach him a lesson!<color=#097a76>(Throwing reaches 50)</color>,ปาหินใส่เพื่อสั่งสอน! <color=#097a76>(อาวุธลับถึง 50)</color>
 R10067-1_option1_4,"Whatever, let him be...",ช่างเถอะ ปล่อยเขาไป
@@ -756,7 +756,7 @@ M1103-1_option1_2,"Look closely, there seems to be Machinery on this jar.<color=
 M1103-1_option1_3,Think of other ways.,หาทางอื่น
 M20100-12-1_option1_1,Place the Soft cushion here. <color=#097a76>(1 Soft cushion)</color>,วางเบาะนุ่มลงตรงนี้ <color=#097a76>(1 เบาะนุ่ม)</color>
 M20100-12-1_option1_2,Let me think about it.,ข้าขอไตร่ตรองสักครู่
-M20100-12-2_option1_1,"Prepare to kowtow! <color=#c44b0e>(The ground here is hard, don't try unless you have a hard head)</color>",เตรียมตัวคำนับ!<color=#c44b0e> (ฟื้นที่นี่แข็ง ถ้าหัวไม่แข็งอย่าลองดีกว่า)</color>
+M20100-12-2_option1_1,"Prepare to kowtow! <color=#c44b0e>(The ground here is hard, don't try unless you have a hard head)</color>",เตรียมตัวคำนับ!<color=#c44b0e> (ฟื้นที่นี่แข็งมาก ถ้าหัวไม่แข็งพออย่าลองดีกว่า)</color>
 M20100-12-2_option2_1,Continue to kowtow!,คำนับต่อไป!
 M20100-12-2_option2_2,End it here. <color=#c44b0e>(All previous efforts will be abandoned)</color>,พอแค่นี้ <color=#c44b0e>(ความพยายามก่อนหน้าจะหายไป)</color>
 M20100-12-3_option1_1,Prepare to kowtow!,เตรียมตัวคำนับ!
