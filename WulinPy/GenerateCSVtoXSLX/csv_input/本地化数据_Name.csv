@@ -363,7 +363,7 @@ CharaName_精英,Elite,ยอดฝีมือ
 CharaName_练功精英,Training Elite,ผู้ฝึกฝนชั้นยอด
 CharaName_乐姬,Musician,นักดนตรี
 CharaName_捕快,Constable,มือปราบ
-CharaName_护法,Guardian,ผู้พิทักษ์
+CharaName_护法,Guardian,ผู้คุ้มกัน
 CharaName_练功护法,Training Guardian,ผู้พิทักษ์ฝึกหัด
 CharaName_军士,Sergeant,จ่า
 CharaName_统领,Commander,ผู้บัญชาการ
@@ -380,8 +380,8 @@ CharaName_背嵬军,Beiwei Army,ทัพเป่ยเว่ย
 CharaName_选锋军,Elite Army,ทัพหลวง
 CharaName_胜捷军,Shengjie Army,กองทัพเซิ่งเจี๋ย
 CharaName_踏白军,Vanguard Army,กองทัพแนวหน้า
-CharaName_下隐,Junior Hermit,ฤาษีรุ่นน้อง
-CharaName_上隐,Senior Hermit,ฤาษีอาวุโส
+CharaName_下隐,Junior Hermit,ศิษย์น้องผู้เร้นกาย
+CharaName_上隐,Senior Hermit,ผู้เร้นกายอาวุโส
 CharaName_干将,Ganjiang,ลูกน้อง
 CharaName_族人,Clanman,คนในเผ่า
 CharaName_蛊人,Gu Man,กู่หมาน

@@ -5017,7 +5017,7 @@ Role5-16_8_6,"The ancient saying goes, those who are not of my race must have di
 Role5-16_8_7,"{PlayerSurName}, if you are invincible, I will be restless."
 Role5-16_9_1,"It's rare that we agree without consultation, now that you are dead, I can feel at ease."
 Role3-18_name,Coronation ceremony,พิธีราชาภิเษก
-Role3-18_log_1,Go to the palace near Lin'an City to attend the coronation ceremony.
+Role3-18_log_1,Go to the palace near Lin'an City to attend the coronation ceremony.,ไปยังพระราชวังใกล้เมืองหลินอัน เพื่อร่วมงานพิธีราชาภิเษก
 Role3-18_1_1,"Just in time, please kneel down and listen to the imperial edict."
 Role3-18_1_2,"{PlayerGivenName}, the etiquette of monarchs and ministers cannot be abolished."
 Role3-18_4_1,"""The late emperor was in trouble, the mountains and rivers changed color, I was heartbroken and indignant..."""
@@ -5049,7 +5049,7 @@ Role3-18_6_7,"You are inexperienced, these things can't be explained to you, you
 Role3-18_6_8,"Now that Duke Kang's ascension to the throne is inevitable, I hope he can strive for good governance and not repeat the mistakes of his predecessor.",ตอนนี้การขึ้นครองบัลลังก์ของอ๋องคังเป็นสิ่งที่หลีกเลี่ยงไม่ได้ ข้าหวังว่าเขาจะสามารถต่อสู้เพื่อธรรมาภิบาลที่ดีและไม่ทำผิดพลาดซ้ำเหมือนบรรพบุรุษของเขา
 Role3-18_6_9,Duke Kang officially ascends to the throne under the witness of all officials and often resides in the traveling palace thereafter.,อ๋องคังขึ้นสู่บัลลังก์อย่างเป็นทางการภายใต้สักขีพยานของขุนนางทุกฝ่าย และประทับอยู่ในพระราชวังตั้งแต่นั้นเป็นต้นมา
 Role3-19_name,Coronation ceremony,พิธีราชาภิเษก
-Role3-19_log_1,Go to the palace near Lin'an City to attend the coronation ceremony.
+Role3-19_log_1,Go to the palace near Lin'an City to attend the coronation ceremony.,ไปยังพระราชวังใกล้เมืองหลินอัน เพื่อร่วมงานพิธีราชาภิเษก
 Role3-19_1_1,The once famous Ye Family Battalion has been without a decent figure since the death of Ye Pengju.
 Role3-19_1_2,"Lord Qin, are you bullying our Ye Family Battalion?"
 Role3-19_1_3,"Hmph, I don't bother arguing with you ants."

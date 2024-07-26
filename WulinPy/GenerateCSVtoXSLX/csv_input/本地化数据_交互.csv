@@ -173,7 +173,7 @@ InteractiveCircle_鉴定,Appraise,ประเมิน
 InteractiveCircle_马车,<#62FB9C>Depart,<#62FB9C>เดินทาง
 InteractiveCircle_骑乘,Set Off,เดินทาง
 InteractiveCircle_HL_骑乘,<#62FB9C>Depart,<#62FB9C>เดินทาง
-Authenticate_Introduction,"Young hero, I can appraise {0} here, spending a little money can help you a lot!",จอมยุทธน้อย ข้าสามารถตรวจสอบ {0} ได้ ใช้จ่ายเงินเพียงเล็กน้อยจะเป็นประโยชน์กับท่านอย่างมาก!
+Authenticate_Introduction,"Young hero, I can appraise {0} here, spending a little money can help you a lot!",จอมยุทธน้อย ข้าสามารถตรวจสอบ {0} ได้ จ่ายเงินเพียงเล็กน้อยจะเป็นประโยชน์กับท่านอย่างมาก!
 Authenticate_NeedRelation,But looking at our relations... it's better to go further.,แต่ดูความสัมพันธ์ของเรา...ไปต่อดีกว่า
 Authenticate_NoConsume,"Get lost!|Don't bother me if there's nothing.|What? If you don't let me appraise, why are you looking for me?",ไสหัวไปซะ!|ถ้าไม่มีอะไรก็อย่ามารบกวนข้า| อะไร ถ้าไม่มีอะไรให้ตรวจสอบ จะมาหาข้าทำไม
 Authenticate_HasConsume,Thank you for your patronage!|Welcome to come again!|All are good goods!|Are you satisfied with the result?,ขอบคุณที่อุดหนุน! |แล้วมาใหม่นะ!| ที่นี่ของดีทุกชิ้นเลย!| ผลออกมาพอใจหรือไม่
