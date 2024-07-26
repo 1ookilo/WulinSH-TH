@@ -988,7 +988,7 @@
 3020_1_3,"Moreover, these {Vegetable} bought by people who can <color=#c44b0e>cook</color> can make a good {Side}, which is definitely worth the money.",ยิ่งไปกว่านั้น เหล่า {Vegetable} ที่คนซื้อไปนั้น ถ้าเขา <color=#c44b0e>ทำอาหารเป็น</color> ก็สามารถทำเป็น {Side} ที่อร่อยได้นะ ถือว่าคุ้มค่าคุ้มราคาเลยทีเดียว
 3020_1_4,Where did you get these {Vegetable}? I also want to get some to sell and make some money.,เจ้าไปเอา {Vegetable} พวกนี้มาจากไหนหรือ? ข้าก็อยากจะได้มาขายบ้าง หาเงินสักหน่อย
 3020_1_5,"Hehe, I'm not afraid of you taking my business, these {VegetableFruit} are all grown by myself.",ฮ่าฮ่า ไม่กลัวเจ้ามาแย่งลูกค้าหรอก {VegetableFruit} พวกนี้ข้าปลูกเองกับมือทั้งนั้น
-3020_1_6,"You can come to me to <color=#c44b0e>sell</color> the <color=#c44b0e>VegetableFruit</color> you usually pick, so you don't have to set up a stall yourself."
+3020_1_6,"You can come to me to <color=#c44b0e>sell</color> the <color=#c44b0e>VegetableFruit</color> you usually pick, so you don't have to set up a stall yourself.",ท่านสามารถนำ <color=#c44b0e>พืชผักผลไม้</color> มา <color=#c44b0e>ขาย</color> ให้ข้าได้โดยตรง ไม่ต้องไปเสียเวลาตั้งร้านค้าเอง
 3021_1_1,"This {Beef} looks really fresh, how much is it per pound?",{Beef}นี้ดูสดมาก ขายยังไงล่ะ?
 3021_1_2,"Young man, you're mistaken, this is clearly {Mutton}, {Wolf meat}! The imperial edict forbids the slaughter of cattle for meat, violators will be punished.",น้องชายคนเล็กตื่นตาตื่นใจ นี่มันเนื้อแกะหรือเนื้อหมาป่าชัดๆ! ราชวงศ์นี้ห้ามการฆ่าวัวในฟาร์มและขายเนื้อ ผู้ฝ่าฝืนจะถูกลงโทษด้วยไม้เรียว
 3021_1_3,"The hunters in our village often bring some <color=#c44b0e>Wild game</color> to me to <color=#c44b0e>sell</color>, they must have made a lot of money over the years.",นายพรานในหมู่บ้านมักจะนำ<color=#c44b0e>เนื้อสัตว์ป่า</color>มา<color=#c44b0e>ขาย</color>ให้กับข้า เขาสามารถทำเงินได้มากมายตลอดหลายปีที่ผ่านมา
@@ -1015,51 +1015,51 @@
 3027_1_4,What sin have I committed...,ข้าทำสิ่งที่ไม่สมควรไปแล้ว...
 3029_1_1,"The two leaders of the Blue Wind Camp have been executed, and now the camp is scattered. From now on, the influence of the Blue Wind Camp will be removed from the martial arts world.",หัวหน้าทั้งสองของค่ายวายุครามถูกสำเร็จโทษไปแล้ว ตอนนี้ค่ายก็แตกกระสานสิ้น จากนี้ไปอิทธิพลของค่ายวายุครามจะถูกลบออกจากยุทธภพ
 3029_2_1,"The two leaders of the Blue Wind Camp have been invited to join me in the martial arts world, and now the Blue Wind Camp is leaderless and can no longer make any waves. I believe it won't be long before no one mentions the Blue Wind Camp again.",หัวหน้าทั้งสองของค่ายวายุครามได้ถูกเชิญให้มาร่วมงานกับข้าในยุทธภพแล้ว ตอนนี้ค่ายวายุครามไร้ผู้นำ คงไม่อาจสร้างความวุ่นวายใดๆ ได้อีกต่อไป ข้าเชื่อว่าอีกไม่นานก็คงไม่มีใครพูดถึงค่ายวายุครามอีกแล้ว
-3029_3_1,"Ji Baichu, the second leader of the Blue Wind Camp, has been executed, and now the leader Kong Yidao has joined my team. The Blue Wind Camp is now leaderless and is likely to disappear from the martial arts world soon."
-3029_4_1,"Kong Yidao, the leader of the Blue Wind Camp, has been executed, and now the second leader Ji Baichu has joined my team. The Blue Wind Camp is now leaderless and is likely to disappear from the martial arts world soon."
+3029_3_1,"Ji Baichu, the second leader of the Blue Wind Camp, has been executed, and now the leader Kong Yidao has joined my team. The Blue Wind Camp is now leaderless and is likely to disappear from the martial arts world soon.",จี๋ไป๋ฉู ผู้บัญชาการรองของ ค่ายวายุคราม ถูกประหารชีวิตไปแล้ว และขณะนี้ ขงอี้เตา ผู้นำค่ายก็ได้เข้าร่วมทีมของข้า ค่ายวายุครามปัจจุบันไร้ผู้นำ และมีแนวโน้มจะหายไปจากยุทธภพในไม่ช้า
+3029_4_1,"Kong Yidao, the leader of the Blue Wind Camp, has been executed, and now the second leader Ji Baichu has joined my team. The Blue Wind Camp is now leaderless and is likely to disappear from the martial arts world soon.",ขงอี้เตา ผู้นำค่ายวายุครามถูกประหารชีวิตไปแล้ว และขณะนี้ จี๋ ไป๋ฉู ผู้สืบทอดอันดับสองได้เข้าร่วมกับข้าแล้ว ค่ายวายุครามขาดผู้นำและอาจจะล่มสลายไปจากยุทธภพในไม่ช้า
 3030_1_1,"Currently, your strength is weak. For you now, the Lost Forest is quite dangerous.",ตอนนี้เจ้ายังไม่แข็งแกร่งพอ ป่าสาปสูญยังอันตรายสำหรับเจ้า
-3031_1_1,Got enough meat now!
-3031_1_2,Maybe you can sell it to the butcher in the village for a good price.
+3031_1_1,Got enough meat now!,มีเนื้อกินพอแล้ว!
+3031_1_2,Maybe you can sell it to the butcher in the village for a good price.,นำไปขายให้พ่อค้าเนื้อในหมู่บ้าน อาจจะได้ราคาที่น่าพอใจ
 3031_2_1,"This {Beef} looks really fresh, how much is it per pound?",{Beef}นี้ดูสดมาก ขายยังไงล่ะ?
 3031_2_2,"Young man, you're mistaken, this is clearly {Mutton}, {Wolf meat}! The imperial edict forbids the slaughter of cattle for meat, violators will be punished.",น้องชายคนเล็กตื่นตาตื่นใจ นี่มันเนื้อแกะหรือเนื้อหมาป่าชัดๆ! ราชวงศ์นี้ห้ามการฆ่าวัวในฟาร์มและขายเนื้อ ผู้ฝ่าฝืนจะถูกลงโทษด้วยไม้เรียว
-3031_2_3,"The hunters in our village often bring some <color=#c44b0e>Wild game</color> to me to <color=#c44b0e>sell</color>, they must have made a lot of money over the years."
-3031_2_4,"If you have the ability to hunt {Wild game} from the <color=#c44b0e>Lost Forest</color> and <color=#c44b0e>Wild Wolf Valley</color>, I won't treat you unfairly either."
-3031_2_5,Just happen to have some.
-3031_2_6,"Good! Since it's your first time selling, I'll give you a higher price."
-3031_2_7,You can come to me to <color=#c44b0e>Sell</color> Wild game at any time.
-3032_1_1,Got enough fur now!
-3032_1_2,Maybe you can sell it to the hunter in the village for a good price.
-3032_2_1,"Recently, the game in the Lost Forest has been quite aggressive and not easy to hunt."
+3031_2_3,"The hunters in our village often bring some <color=#c44b0e>Wild game</color> to me to <color=#c44b0e>sell</color>, they must have made a lot of money over the years.",พรานป่า ในหมู่บ้านของข้า มักจะนำ <color=#c44b0e>เนื้อสัตว์ป่า</color> ที่ล่ามาได้ มาให้ข้าช่วย <color=#c44b0e>ขาย</color> พวกเขาคงมีเงินทองมากมายจากการล่าสัตว์
+3031_2_4,"If you have the ability to hunt {Wild game} from the <color=#c44b0e>Lost Forest</color> and <color=#c44b0e>Wild Wolf Valley</color>, I won't treat you unfairly either.",หากเจ้ามีฝีมือในการล่าสัตว์ป่า จาก <color=#c44b0e>ป่าสาบสูญ</color> และ <color=#c44b0e> หุบเขาหมาป่า</color> ได้  ข้าก็จะปฏิบัติต่อเจ้าอย่างยุติธรรมเช่นกัน
+3031_2_5,Just happen to have some.,บังเอิญมีติดตัวมาพอดี
+3031_2_6,"Good! Since it's your first time selling, I'll give you a higher price.",ดี! เพื่อเป็นการสนับสนุนเจ้าในการค้าขายครั้งแรก ข้าจะให้ราคาที่สูงขึ้น
+3031_2_7,You can come to me to <color=#c44b0e>Sell</color> Wild game at any time.,เจ้าสามารถนำสัตว์ป่ามา <color=#c44b0e>ขาย</color> ให้ข้าได้ตลอดเวลา
+3032_1_1,Got enough fur now!,ได้ขนสัตว์มาตามที่ต้องการแล้ว!
+3032_1_2,Maybe you can sell it to the hunter in the village for a good price.,เจ้าลองนำไปให้พรานในหมู่บ้านดู เขาอาจจะให้ราคาที่น่าพอใจ
+3032_2_1,"Recently, the game in the Lost Forest has been quite aggressive and not easy to hunt.",บัดนี้ สัตว์ในป่าสาบสูญต่างดุร้ายผิดปกติ การล่าจึงเป็นเรื่องยากยิ่ง
 3032_2_2,"Hmm? Young hero, do you need anything?",หืมม? จอมยุทธน้อยต้องการสิ่งใดหรือ?
-3032_2_3,Sounds like you're short on fur.
-3032_2_4,"Yes, do you have any?"
-3032_2_5,Just happen to have some.
-3032_2_6,"Good! You can sell the fur to me. Since it's your first time selling, I'll give you a higher price."
-3032_2_7,You can come to me to <color=#c44b0e>Sell</color> animal fur at any time.
+3032_2_3,Sounds like you're short on fur.,ดูเหมือนว่าเจ้าจะมีขนสัตว์ไม่เพียงพอ
+3032_2_4,"Yes, do you have any?",ใช่แล้ว ข้ามีอยู่ เจ้าต้องการหรือไม่?
+3032_2_5,Just happen to have some.,บังเอิญมีติดตัวมาพอดี
+3032_2_6,"Good! You can sell the fur to me. Since it's your first time selling, I'll give you a higher price.",ดีมาก! ข้าจะอุดหนุนขนสัตว์ของเจ้า และเพื่อเป็นการสร้างสัมพันธ์ที่ดี ข้าจะให้ราคาพิเศษแก่เจ้า
+3032_2_7,You can come to me to <color=#c44b0e>Sell</color> animal fur at any time.,เจ้าสามารถนำขนสัตว์มา <color=#c44b0e>ขาย</color> ให้ข้าได้ตลอดเวลา
 4001_1_1,Growling~ Growling~,โครก~ คราก~
 4001_1_2,Why are you making strange noises?,ทำไมเจ้าร้องแปลกๆแบบนั้น?
-4001_1_3,"I haven't eaten anything for several days, that was the sound of my stomach growling."
+4001_1_3,"I haven't eaten anything for several days, that was the sound of my stomach growling.",ข้าไม่ได้กินอะไรมาหลายวันแล้ว เสียงที่เจ้าได้ยินคือเสียงท้องของข้าร้องเรียกหาอาหาร
 4001_1_4,(What should I do? He looks quite pitiful.),(ข้าควรทำอย่างไรเขาดูค่อนข้างน่าสงสาร)
 4001_2_1,"Thank you, benefactor. I won't starve now.",ขอบคุณประสกมาก อาตมามิต้องหิวอีกต่อไป
-4001_3_1,"Good, good. I won't starve now."
-4001_3_2,The Buddha keeps in mind the food and drink that pass through the intestines...
+4001_3_1,"Good, good. I won't starve now.",ดีแล้ว ดีแล้ว บัดนี้ข้าจะไม่ต้องอดอยากอีกต่อไป
+4001_3_2,The Buddha keeps in mind the food and drink that pass through the intestines...,พระพุทธองค์ทรงระลึกถึงอาหารและเครื่องดื่มที่ผ่านเข้าไป ล้วนกลายเป็นส่วนหนึ่งของพลังชีวิต
 4001_3_3,"If I don't go to hell, who will...",ถ้าข้าไม่ลงนรก แล้วใครจะไป...
 4001_3_4,Chewing sounds...,เสียงเคี้ยว...
-4001_3_5,What a rare delicacy!
+4001_3_5,What a rare delicacy!,รสชาติอันเลิศล้ำ หาใดเปรียบ!
 4001_4_1,Growling~ Growling~,โครก~ คราก~
-4001_4_2,"It seems like your stomach is growling louder, haven't you eaten yet?"
+4001_4_2,"It seems like your stomach is growling louder, haven't you eaten yet?",เสียงในท้องของเจ้าดังกึกก้องเช่นนี้ คงยังไม่ได้รับประทานอาหารกระมัง?
 4001_4_3,"I have a big appetite, I need to eat at least five pancakes or five bowls of soup per meal, otherwise I get hungry quickly.",ข้าเป็นคนหิวง่าย ต้องกินแป้งทอดอย่างน้อยห้าชิ้น หรือซุปห้าชามต่อมื้อ ไม่เช่นนั้นข้าจะหิวไวมาก
 4001_4_4,(What should I do? He looks quite pitiful.),(ข้าควรทำอย่างไรเขาดูค่อนข้างน่าสงสาร)
-4001_5_1,"Starvation is also a form of cultivation, I can still endure."
+4001_5_1,"Starvation is also a form of cultivation, I can still endure.",ความอดอยากเป็นเพียงการฝึกฝนจิตใจ ข้ายังคงอดทนได้
 4002_1_1,The <color=#c44b0e>Sandalwood prayer beads</color> you have are my personal belongings that I lost in the Lost Forest. Could you return them to me?,<color=#c44b0e>ลูกประคำไม้จันทน์</color> ที่ประสกมีนั้นมันเป็นของสำคัญที่อาตมาได้ทำหายในป่าสาบสูญ ประสกช่วยคืนให้อาตมาหน่อยได้ไหม?
 4002_2_1,"Thank you, benefactor.",ขอบคุณประสกมาก
-4002_3_1,"If that's the case, I won't force you."
-4002_4_1,"Isn't this my Sandalwood prayer beads that I lost here? I'm grateful to have you accompany me into the Lost Forest, otherwise I would never have the chance to retrieve it."
+4002_3_1,"If that's the case, I won't force you.",ท่านมีเหตุผลเช่นนั้น ข้าจะไม่บังคับท่าน
+4002_4_1,"Isn't this my Sandalwood prayer beads that I lost here? I'm grateful to have you accompany me into the Lost Forest, otherwise I would never have the chance to retrieve it.",นี่ไม่ใช่ลูกประคำไม้จันทน์ที่ข้าทำหล่นไว้ ณ ที่แห่งนี้หรือ? ข้ารู้สึกซาบซึ้งยิ่งนักที่ท่านได้พาข้ามาถึงป่าสาบสูญแห่งนี้ หากปราศจากท่าน ข้าคงมิอาจได้พบวัตถุสำคัญคืนมา
 4005_1_1,Where did you get this Pear Blossom spear in your hand?,หอกหลีฮวาในมือของเจ้านั้น ได้มาจากที่ใดกัน?
-4005_1_2,"I pulled it out from a crevice deep in the Wild Wolf Valley, do you recognize this spear?"
-4005_1_3,"More than recognize it, this spear is the famous weapon of my uncle Yang. My father said that I touched this spear when I was young, ten years ago. I didn't expect to meet it again today."
-4005_1_4,"This spear has a lot of sentimental value to me, what can I do to get you to give it to me?"
-4005_2_1,"I can't give you my family's martial arts manual, but I recently got a new manual that's not inferior to our Ye Family Spear. If we exchange, you'll only gain."
+4005_1_2,"I pulled it out from a crevice deep in the Wild Wolf Valley, do you recognize this spear?",หอกเล่มนี้ข้าขุดพบจากซอกหินลึกในหุบเขาหมาป่า มันดูเก่าแก่และทรงพลังเหลือเกิน ท่านเคยพบเห็นมาก่อนหรือไม่?
+4005_1_3,"More than recognize it, this spear is the famous weapon of my uncle Yang. My father said that I touched this spear when I was young, ten years ago. I didn't expect to meet it again today.",หอกเล่มนี้มิใช่เพียงวัตถุธรรมดา หากแต่เป็นอาวุธคู่กายของลุงหยาง บิดาเคยกล่าวว่าข้าเคยสัมผัสมันเมื่อครั้งเยาว์วัย บัดนี้เหมือนดั่งสวรรค์ลิขิตให้ข้าได้พบเจออีกครั้ง
+4005_1_4,"This spear has a lot of sentimental value to me, what can I do to get you to give it to me?",หอกเล่มนี้มีความหมายลึกซึ้งต่อข้ายิ่งนัก ข้าจะขอร้องอย่างไรท่านจึงจะยอมมอบมันให้ข้า?
+4005_2_1,"I can't give you my family's martial arts manual, but I recently got a new manual that's not inferior to our Ye Family Spear. If we exchange, you'll only gain.",ข้าไม่สามารถมอบตำราวิชาเของตระกูลเย่ให้ท่านได้ แต่ข้าเพิ่งได้ตำราเล่มใหม่มา ซึ่งไม่ด้อยไปกว่าวิชาของตระกูลเย่เลย หากเราแลกเปลี่ยนกัน ท่านจะได้ประโยชน์อย่างแน่นอน
 4005_2_2,"Even if you have a profound martial arts manual, you can't learn it if your skills are not enough. My father said that practicing martial arts is like climbing a mountain, you need to take it step by step to be solid and stable."
 4005_3_1,"You're clever, wanting me to be your free bodyguard?"
 4005_3_2,"If you're so bold, it's not impossible. But I eat a lot, if you dare to starve me, I'll leave."

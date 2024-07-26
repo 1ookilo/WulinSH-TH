@@ -2339,14 +2339,14 @@ M20100-20_log_2,Go to the notice board to find the bailiff of Chuxiang City.,ไ
 M20100-20_1_1,"Young hero, wait a moment!",ช้าก่อน จอมยุทธ์น้อย!
 M20100-20_1_2,"I see that you are brave and extraordinary, you must be a martial artist.\nDid you just make a move to take on this task from the notice board?","ข้าเห็นว่ายอดฝีมือหนุ่มมีท่วงท่าองอาจผิดคนทั่วไปนัก ท่านคงจะเป็นผู้มีวิทยายุทธติดตัวอยู่เป็นแน่\nเมื่อครู่ดูเหมือนท่านจอมยุทธน้อยจะรับภารกิจจากกระดานประกาศนี้ไปใช่หรือไม่?\n"
 M20100-20_1_3,"I'll check the difficulty of the task first, then decide whether to take it.",ข้าจะตรวจสอบความยากง่ายก่อน แล้วจึงค่อยตัดสินใจว่าจะทำหรือไม่.
-M20100-20_1_4,"Please do me a favor, young hero, there will be a reward upon completion.",ได้โปรดช่วยเหลือข้าด้วยท่านจอมยุทธ์น้อย หากท่านช่วยข้าได้ ข้าย่อมต้องมีรางวัลตอบแทน.
-M20100-20_1_5,What do you want me to do for you?,เจ้าต้องการให้ข้าทำอะไรให้เจ้าหรือ?
-M20100-20_1_6,"There is a valley outside Chuxiang City, called Wild Wolf Valley!\nIt's full of wolves, and all the people who come and go avoid it.","ด้านนอกเมืองฉู่เซียงทางใต้มีหุบเขาอยู่ เรียกว่าหุบเขาหมาป่า!\nในหุบเขาเต็มไปด้วยหมาป่าจำนวนมาก ชาวบ้านทุกคนหรือแม้แต่นักเดินทางทั้งหลายต่างก็หลบเลี่ยงหุบเขานี้."
+M20100-20_1_4,"Please do me a favor, young hero, there will be a reward upon completion.",ท่านจอมยุทธ์น้อย ข้ามีคำขอให้ท่าน หากท่านช่วยข้าได้ ข้าย่อมต้องมีรางวัลตอบแทน
+M20100-20_1_5,What do you want me to do for you?,เจ้าต้องการให้ข้าทำอะไรให้เจ้ารึ?
+M20100-20_1_6,"There is a valley outside Chuxiang City, called Wild Wolf Valley!\nIt's full of wolves, and all the people who come and go avoid it.","ด้านนอกเมืองฉู่เซียงทางใต้มีหุบเขาอยู่ เรียกว่าหุบเขาหมาป่า!\nในหุบเขาเต็มไปด้วยหมาป่าจำนวนมาก ชาวบ้านทุกคนหรือแม้แต่นักเดินทางทั้งหลายต่างก็หลบเลี่ยงหุบเขานี้"
 M20100-20_1_7,I would like to ask you to go to Wild Wolf Valley to clear out these wild wolves and bring back <color=#c44b0e>10 Wolf fangs</color> as proof.,ข้าอยากจะขอรบกวนให้ท่านไปจัดการหมาป่าและนำ <color=#c44b0e>เขี้ยวหมาป่า 10 ชิ้น</color> มาเป็นหลักฐานด้วย
-M20100-20_1_8,"Such a dangerous place, you don't go yourself but ask me to go to die, what's your intention?",สถานที่อันตรายเช่นนั้นท่านไม่ไปเองแต่ขอให้ข้าไปตายแทน ท่านมีเจตนาอะไร?
+M20100-20_1_8,"Such a dangerous place, you don't go yourself but ask me to go to die, what's your intention?",สถานที่อันตรายขนาดนั้นตัวท่านเองยังไม่ไป แต่กลับใช้ให้ข้าไปเสี่ยงตาย มีเจตนาอะไรกันแน่?
 M20100-20_1_9,"Under heavy reward, there must be a brave man. If you can help me with this, I will give you a <color=#c44b0e>treasure that generates money every day</color>!",รางวัลใหญ่ย่อมตกเป็นของผู้กล้าหาญ หากท่านสามารถช่วยข้าได้ ข้าจะมอบ <color=#c44b0e>สมบัติที่สามารถสร้างรายได้ในทุกๆวัน</color> แก่ท่าน!
 M20100-20_2_1,"I've got 10 Wolf fangs, I wonder if the bailiff in the city is still waiting for me.",ข้ารวบรวมเขี้ยวหมาป่าได้ 10 อันแล้ว เจ้าหน้าที่จะยังอยู่ไหมนะ
-M20100-20_3_1,"There are many wild wolves in Wild Wolf Valley, don't go too deep, be careful not to get flanked and can't get out.",มีหมาป่าป่ามากมายใน หุบเขาหมาป่า อย่าเข้าไปลึกเกินไป ระวังอย่าให้ถูกขนาบข้างและไม่สามารถออกไปได้
+M20100-20_3_1,"There are many wild wolves in Wild Wolf Valley, don't go too deep, be careful not to get flanked and can't get out.",มีหมาป่ามากมายใน หุบเขาหมาป่า อย่าเข้าไปลึกเกินไปเล่า ระวังอย่าให้ถูกพวกมันรุมขนาบข้างจนหนีไม่ได้เล่า
 M20100-20_op_1_dialog,How's the collection of 10 Wolf fangs going?,งานรวบรวมเขี้ยวหมาป่า 10 อันเป็นอย่างไรบ้าง
 M20100-20_op_1_1,I've collected them all. <color=#097a76>(10 Wolf fangs)</color>,ข้ารวมรวมมาได้หมดแล้ว <color=#097a76>10 เขี้ยวหมาป่า</color>
 M20100-20_op_1_2,"Not yet, you wait a little longer.",ยัง ข้ายังหาได้ไม่ครบ
