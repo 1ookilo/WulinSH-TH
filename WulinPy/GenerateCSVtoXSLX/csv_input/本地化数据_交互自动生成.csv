@@ -3068,7 +3068,7 @@ NpcHello_燕歌行_Like,"Good disciple, what do you need from your master?|Good 
 NpcHello_燕歌行_Dislike,"It's never too late to turn back, my disciple.|Disciple, it's time to rein in the horse at the edge of the cliff."
 NpcHello_燕歌行_Hate,"You ungrateful disciple, I was blind!|I should have kicked you out!|How could I have taught such a disgraceful disciple!"
 NpcFactionBuy_燕歌行_Before,These are treasures that the master has collected for many years.|The master has some rare treasures~,นี่คือสมบัติที่อาจารย์ผู้นี้สะสมมาหลายปี | ท่านอาจารย์มีสมบัติหายากมากมายเชียว~
-NpcFactionBuy_燕歌行_NoBuy,"Wait until you accumulate more Sect contributions.|Listen to your master, you will have enough Sect contributions sooner or later."
+NpcFactionBuy_燕歌行_NoBuy,"Wait until you accumulate more Sect contributions.|Listen to your master, you will have enough Sect contributions sooner or later.",จงเชื่อฟังอาจารย์ของเจ้า สะสมแต้มผลงานให้สำนักมากขึ้น
 NpcFactionBuy_燕歌行_HasBuy,"How about it, the master didn't lie, right?|The things the master has are pretty good, right?"
 NpcHello_华严禅师_SelfIntroHigh,"Amitabha, the old monk greets you.","อามิตาพุทธ, อาตมาขอแสดงความเคารพต่อท่าน"
 NpcHello_华严禅师_SelfIntroLow,"Amitabha, the old monk greets you.","อามิตาพุทธ, อาตมาขอแสดงความเคารพต่อท่าน"
