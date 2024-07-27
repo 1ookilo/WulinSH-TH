@@ -78,8 +78,8 @@ R10049-2-1_name,Lost child,เด็กหลง
 R10049-2-1_Talking,Child,เด็ก
 R10049-2-1_overview1,"Help the lost child find his family. (Possibly wearing pink clothes, the SweetsMerchant at the small market may remember)","ช่วยเด็กหลงตามหาผู้ปกครองของเขา (อาจจะเป็นคนที่ใส่ชุดสีชมพู, ลองไปถามพ่อค้าขนมหวานในตลาด เขาอาจจะจำได้)"
 R10049-2-1_overview2,"Help the lost child find his family, his grandmother uses a crutch.","ช่วยเหลือเด็กหลงตามหาผู้ปกครองของเขา,คุณย่าของเขาใช้ไม้ค้ำยัน"
-R20726-3_option1Ask,"(Right, Master Shen is good at crafting, can I ask him to help combine these three seals?)","(ดีเลย, อาจารย์เฉิน มีทักษะสร้างสิ่งของที่ดี, ฉันจะขอให้เขาช่วยรวมตราทั้งสามดีไหม?)"
-R20726-3_option1_1,"Ask Master Shen for help.<color=#097a76>(Seal of the People 1, Seal of the State 1, Seal of the Sky 1)</color>","ขอความช่วยเหลือจากปรมาจารย์เสิน <color=#097a76>(ตราประทับแห่งปวงชน 1, ตราประทับแห่งรัฐ 1, ตราประทับแห่งสวรรค์ 1)</color>"
+R20726-3_option1Ask,"(Right, Master Shen is good at crafting, can I ask him to help combine these three seals?)",(ดีเลย อาจารย์เสิ้น มีทักษะสร้างสิ่งของเก่งกาจมาก ข้าน่าจะขอให้เขาช่วยรวมตราทั้งสามดีไหมนะ?)
+R20726-3_option1_1,"Ask Master Shen for help.<color=#097a76>(Seal of the People 1, Seal of the State 1, Seal of the Sky 1)</color>","ขอความช่วยเหลือจากอาจารย์เสิ้น <color=#097a76>(ตราประทับแห่งปวงชน 1, ตราประทับแห่งรัฐ 1, ตราประทับแห่งสวรรค์ 1)</color>"
 R20726-3_option1_2,"Want to request tool crafting skills.<color=#097a76>(One shichen, 10 Stamina)</color>","ต้องการทักษะการประดิษฐ์เครื่องมือ<color=#097a76>(1 ชั่วยาม, แรงกาย 10)</color>"
 R20726-3_option1_3,Come back later.,ข้าจะกลับมาในภายหลัง
 R10049-11_option1_1,Of course it's true!,แน่นอน มันคือความจริง!

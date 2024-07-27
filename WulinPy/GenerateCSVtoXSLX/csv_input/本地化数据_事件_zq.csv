@@ -612,7 +612,7 @@ R20025-10_option1_3,Spare his life...,ไว้ชีวิต...
 R20025-11_option1_1,Place the <color=#c44b0e>Wedding Stone</color>. <color=#097a76>(1 Wedding Stone)</color>,วาง <color=#c44b0e>ศิลาวิวาห์</color>.<color=#097a76>(1 ศิลาวิวาห์)</color>
 R20025-11_option1_2,"I was too impulsive just now, I regret it.",ข้าใจร้อนเกินไป ข้าผิดไปแล้ว
 R20004-4_name,Bao Dating's wish,ความปรารถนาของเปาต้าถิง
-R20004-4_overview1,Help Bao Dating find a piece of jewelry exclusive to Hua Siniang.,ช่วยเปาต้าถิง ตามหาชิ้นส่วนอัญมณีพิเศษให้ ฮวาซื่อเหนียง
+R20004-4_overview1,Help Bao Dating find a piece of jewelry exclusive to Hua Siniang.,ช่วยเปาต้าถิง ได้สิ่งของล้ำค่าประจำตัวของ ฮวาซื่อเหนียง
 R20004-4_option1_1,"Alright, for the sake of our Relations, I'll help you.",เอาล่ะ เห็นแก่ความเป็นสหายของเรา ข้าจะช่วยก็แล้วกัน
 R20004-4_option1_2,You should do this yourself.,เจ้าควรจะทำมันเองนะ
 R20004-4_option2_1,"Great, let's wander the jianghu together.",เยี่ยม เช่นนั้นเราไปท่องยุทธภพด้วยกันเถอะ
@@ -2019,7 +2019,7 @@ School-2070-15_overview3,I wonder if Jian Chi has anything else today.,ข้า
 Day-2010-3_overview8,Craft <color=#c44b0e>3 Seven stars pills</color> and give them to the Taoist Sect·Apothecary.,ปรุงยา <color=#c44b0e>โอสถเจ็ดดาว 3 เม็ด</color>และมอบให้กับ สำนักเต๋า·เภสัชกร
 Day-2010-6_name,Fake Taoist,นักพรตปลอม
 Day-2010-6_overview1,Go to Chuxiang City to find and teach a lesson to the person impersonating the Taoist Sect.,ไปที่เมืองฉู่เซียงเพื่อตามหาและสั่งสอนบทเรียนแก่บุคคลที่แอบอ้างเป็นคนสำนักเต๋า
-Day-2010-6_overview2,The person impersonating the Taoist Sect has been taught a lesson today.,บุคคลที่แอบอ้างเป็นคนสำนักเต๋าจะได้รับการสั่งสอนบทเรียนในวันนี้
+Day-2010-6_overview2,The person impersonating the Taoist Sect has been taught a lesson today.,บุคคลที่แอบอ้างเป็นคนสำนักเต๋าได้รับการสั่งสอนบทเรียนในวันนี้ไปแล้ว
 Day-2010-6_overview3,I wonder what the headmaster has ordered today.,ข้าสงสัย เจ้าสำนักจะมีคำสั่งอะไรวันนี้
 M5033-7_option1_1,Place the <color=#c44b0e>red orb</color>.,วาง <color=#c44b0e>ลูกแก้วสีแดง</color>
 M5033-7_option1_2,Run away for now.,จากไปก่อนตอนนี้
@@ -2525,7 +2525,7 @@ R20726-1_option1_2,Wait a bit longer.,รออีกสักหน่อย
 R20726-1_option2_1,"Give the Material to Old Shen.<color=#097a76>(5 Steel, 2 Thousand years black iron)</color>",<color=#097a76>นำเหล็กกล้า 5 ก้อน และเหล็กนิลพันปี 2 ก้อน</color> ไปมอบให้ผู้เฒ่าเสิน
 R20726-1_option2_2,Wait a bit longer.,รออีกสักหน่อย
 R20726-2_option1_1,"Learn synthesis skills.<color=#097a76>(One shichen, 10Stamina)</color>","เรียนรู้วิชาผสมไอเทม <color=#097a76>(ใช้เวลา 1 ชั่วยาม, เสีย 10 หน่วยกำลัง)</color>"
-R20726-2_option1_2,"When free, pay respects to Master Shen.",เมื่อมีโอกาส จงไปคารวะอาจารย์เซิน
+R20726-2_option1_2,"When free, pay respects to Master Shen.",เมื่อมีโอกาส จงไปคารวะอาจารย์เสิ้น
 Talking_Resport,Report,รายงาน
 Talking_Learn,Learn,เรียนรู้
 Talking_Teach,Teaching

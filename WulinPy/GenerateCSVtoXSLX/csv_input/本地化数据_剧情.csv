@@ -1105,13 +1105,13 @@
 4010_7_3,"Hmph, you're really ""considerate"".",ฮึ่ม! เห็นใจกันจริงนะ
 4010_7_4,"You're welcome, it's a small matter.",เรื่องแค่นี้ ไม่ต้องใส่ใจ
 4010_7_5,"You two stop flirting, can you consider my feelings?"
-4010_7_6,"No way, I have a teammate who is as stupid as a pig, I have to do it myself."
+4010_7_6,"No way, I have a teammate who is as stupid as a pig, I have to do it myself.",ช่างมันเถอะ เจอเพื่อนร่วมทางที่โง่เหมือนหมูแบบนี้ ต้องให้ถึงมือคุณหนูอย่างข้าลงไปทำเองซะแล้วสิ
 4010_7_7,I will learn from Miss Ye's brilliant moves!
-4010_7_8,"Sigh, hurry up and finish, I'm still hungry."
+4010_7_8,"Sigh, hurry up and finish, I'm still hungry.",เฮ้อ รีบทําให้เสร็จเถอะ ข้ายังหิวอยู่เลยนะ
 4010_8_1,"Ye Family Spear is indeed well-deserved, I have no regrets in losing to this mysterious spear technique."
 4010_8_2,"Don't flatter yourself, I didn't use Ye Family Spear just now, it was just the basic spear technique of Ye Family Battalion."
 4010_8_3,"Above Ye Family Spear, my father's self-created <color=#c44b0e>Slipstream Spear</color> is unique in the martial arts world, you are not destined to see it.",เหนือหอกตระกูลเย่ <color=#c44b0e>หอกธาราหยด</color>ที่ท่านพ่อขอข้าสร้างขึ้นมานั้นมีเอกลักษณ์เฉพาะตัวในยุทธภพ เจ้าไม่ได้ถูกลิขิตให้มองเห็นมัน
-4010_8_4,I can't believe my years of practice are just a frog in the well!
+4010_8_4,I can't believe my years of practice are just a frog in the well!,ไม่คิดเลยว่าการฝึกฝนของข้าหลายปีที่ผ่านมา ไม่ได้ต่างอะไรจากกบในกะลา!
 4010_8_5,"Miss Ye, when my stick technique improves, I'll come to learn from you again. Until we meet again!"
 4010_9_1,"Although the stick dancing man's skills are far inferior to Ye Yinping, he occasionally has brilliant moves that give me a lot of reference."
 end001_1,"When the rooster crows, the world turns white, please try again, hero.",เมื่อไก่ขัน โลกก็พลันเป็นสีขาว โปรดพยายามอีกครั้ง ท่านจอมยุทธ
@@ -1149,21 +1149,21 @@ M1100-3_2_5,"The doctor must be afraid that you can't clean the Snake gall prope
 M1100-3_2_6,"I see! I didn't expect you to know so much about this!\nI have a jar of Snake gall wine here, why don't you drink with me, young man!","ข้าเข้าใจแล้ว! ไม่คิดว่าเจ้าจะรู้เรื่องนี้มากขนาดนี้!\nดีข้ามีไหสุราดองดีงูอยู่ที่นี่ ทำไมไม่มาร่วมวงดื่มกับข้าล่ะ, พ่อหนุ่ม!"
 M1100-3_2_7,Then I'll take your offer.,แล้วข้าจะรับข้อเสนอของเจ้า
 M1100-3_2_8,"Hahaha, it's so enjoyable to have someone to drink with!\nBut the Snake gall wine just now was my last reserve.","ฮ่าฮ่าฮ่า, มันดีมากที่ได้มีคนมาร่วมดื่มด้วย!\nแต่สุราดองดีงูไหนี้เป็นสุราไหสุดท้ายของข้าแล้ว"
-M1100-3_3_1,"Of course! It has a unique taste!\nI've been drinking it for more than ten years, I just love it!"
-M1100-3_3_2,"Next time if there's a chance, let's have a drink together!"
+M1100-3_3_1,"Of course! It has a unique taste!\nI've been drinking it for more than ten years, I just love it!","แน่นอน! มันมีรสชาติเฉพาะตัวยิ่งนัก!\nข้าดื่มมันมาเป็นสิบๆปีแล้ว ข้าชอบมันยิ่งนัก!"
+M1100-3_3_2,"Next time if there's a chance, let's have a drink together!",คราวหน้าหากมีโอกาส มาดื่มด้วยกันอีกนะ!
 M1100-3_4_1,"Oh no, I was so busy chatting with you that I forgot about work!",แย่ละ ข้ามัวแต่คุยกับเจ้าเพลินจนลืมเรื่องงานไปเลย!
-M1100-3_4_2,"Young man, about the <color=#c44b0e>5 Snake galls</color>...","พ่อหนุ่ม, เกี่ยวกับ <color=#c44b0e>ดีงู 5 ชิ้น</color>นี้..."
+M1100-3_4_2,"Young man, about the <color=#c44b0e>5 Snake galls</color>...",พ่อหนุ่ม เกี่ยวกับเรื่อง <color=#c44b0e>ดีงู 5 ชิ้น</color>นี้...
 M1100-3_4_3,(Should I help the butcher collect Snake Galls?),(ข้าควรช่วยพ่อค้าเนื้อรวบรวมดีงูหรือไม่?)
 M1100-3_5_1,"1, 2, 3, 4, 5, well, I've got enough Snake galls for the butcher,\nI'll deliver them to him when I go back to the village.","1, 2, 3, 4, 5, เอาล่ะ ข้ามีดีงูเพียงพอสำหรับคนขายเนื้อแล้ว\nข้าจะส่งพวกมันไปให้เขาเมื่อข้ากลับไปที่หมู่บ้าน"
 M1100-3_6_1,"Old man, I've got the 5 Snake galls.",ตาแก่ ข้าได้ดีงู 5 ชิ้นแล้ว
 M1100-3_6_2,Really? Let me see.,จริงเหรอ? ให้ข้าดูซิ
 M1100-3_6_3,"Good! Nice Snake galls, you did a great job, young man!\nThese Snake galls will last me for a few months!","ดีมาก! เป็นดีงูที่คุณภาพดี เจ้าทำได้ดีมาก, พ่อหนุ่ม!\nดีงูพวกนี้คงจะอยู่กับข้าไปได้อีกสักสองสามเดือน!"
 M1100-3_6_4,"I have some freshly cut top-quality Pork here, I'll give it to you, young man!"
-M1100-3_6_5,"Alright, thank you, brother."
-M1100-3_7_1,"Well, I guess I'll have to ask someone else then."
-M1100-3_8_1,"Young man, about the <color=#c44b0e>5 Snake galls</color>...","พ่อหนุ่ม, เกี่ยวกับ <color=#c44b0e>ดีงู 5 ชิ้น</color>นี้..."
+M1100-3_6_5,"Alright, thank you, brother.",ก็ได้ ขอบใจน้องชาย
+M1100-3_7_1,"Well, I guess I'll have to ask someone else then.",งั้น ข้าคงต้องถามคนอื่นแล้วล่ะ
+M1100-3_8_1,"Young man, about the <color=#c44b0e>5 Snake galls</color>...",พ่อหนุ่ม เกี่ยวกับเรื่อง <color=#c44b0e>ดีงู 5 ชิ้น</color>นี้...
 M1100-3_8_2,(Should I help the butcher collect Snake Galls?),(ข้าควรช่วยพ่อค้าเนื้อรวบรวมดีงูหรือไม่?)
-M1100-5_1_1,"Young man, please hold on!"
+M1100-5_1_1,"Young man, please hold on!",พ่อหนุ่ม รอก่อน!
 M1100-5_1_2,"I noticed you had a fight with someone and you have quite a few internal injuries and bruises.\nIf not treated in time, it could lead to serious damage to your internal organs, or even threaten your life."
 M1100-5_1_3,"If you trust me, you can let me help you with some blood circulation.\nUnder my unique technique, you will be as vigorous as a dragon and a tiger."
 M1100-5_1_4,Do you need me to help you regulate your Qi and blood?
@@ -1174,9 +1174,9 @@ M1100-5_3_1,"Young man, if you need anything, just come to me. I'll be waiting h
 M1100-9_1_1,Woof! Woof woof!,โฮ่ง! โฮ่ง โฮ่ง!
 M1100-9_1_2,"Wow! This dog is so fierce, it seems I can't get in.",โอ๊ะ! สุนัขตัวนี้ดุจัง! ดูเหมือนข้าจะเข้าไม่ได้
 M1100-9_1_3,"Wow! This dog is so fierce.\nIf I can get along with its owner, maybe it will be nicer to me.","โอ๊ะ! สุนัขตัวนี้ช่างดุเสียจริง\nหากข้าสนิทกับเจ้าของมันได้ บางทีมันอาจจะเชื่องกับข้ามากกว่านี้"
-M1101-10_1_1,"Young master, I guarantee you'll be satisfied this time."
-M1101-10_1_2,"If it's as you say, I won't treat you unfairly!"
-M1101-10_1_3,"We have guests!\n{PlayerName}, please greet them."
+M1101-10_1_1,"Young master, I guarantee you'll be satisfied this time.",คุณชาย รอบนี้ข้าหวังว่าจะพึงพอใจนะ
+M1101-10_1_2,"If it's as you say, I won't treat you unfairly!",ถ้าเป็นจริงอย่างที่เจ้าว่า ข้าจะไม่เอาเปรียบเจ้าเป็นอันขาด!
+M1101-10_1_3,"We have guests!\n{PlayerName}, please greet them.","เรามีแขกมาแล้ว!\n{PlayerName} ไปต้อนรับพวกเขาหน่อย"
 M1101-10_1_4,"Gentlemen, are you here for a meal or to stay?",คุณชาย ท่านมาเพื่อทานอาหารหรือพักแรม?
 M1101-10_1_5,"We're not here for you, good dog, don't get in the way, get lost!"
 M1101-10_1_6,"Oh, I was wondering who it was, isn't this Fat Master?\nFat Master, you dare to come here?"
@@ -1188,13 +1188,13 @@ M1101-10_2_4,"With just a few words, you've made that spoiled brat repent,\nyou'
 M1101-10_2_5,"Fighting and killing is too dangerous, and there's a risk of HP danger.\nIf you can solve the problem by talking, why not do it safely and effortlessly?","การต่อสู้ และการฆ่าฟันล้วนอันตรายเกินไป และเสี่ยงแก่ชีวิต\nหากสามาระแก้ปัญหาด้วยการพูดคุยได้โดยไม่ต้องใช้แรง หรือเสี่ยงใดๆ เหตุใดจึงไม่ใช้มันล่ะ"
 M1101-10_2_6,"Today you helped me solve a big problem again.\nWhat if you Run away from this small village in the future, what should I do if I encounter trouble?","วันนี้ท่านช่วยข้าแก้ปัญหาใหญ่อีกครั้งแล้ว\nหากเมื่อใดท่านไปจากหมู่บ้านเล็กๆนี้ หากข้าพบปัญหาแล้วควรทำเช่นไรดี"
 M1101-10_2_7,"Boss lady, with your combination of softness and toughness, what can't you handle?\nBut in the future, if you encounter any trouble, I will definitely come to help you without hesitation.","นายหญิง ด้วยการประสานอ่อนแข็งของท่าน จะมีสิ่งใดที่ท่านรับมือไม่ได้\nแต่หากในอนาคตท่านพบเจอปัญหา ข้าจะมาช่วยท่านโดยไม่ลังเลอย่างแน่นอน"
-M1101-10_2_8,"I always feel like there's something in your words, but I'm already very comforted.\nBy the way, you've always been curious about what treasure is in my box.\nHere is the Key, you can unlock it and see for yourself.","ข้ามักจะรู้สึกเหมือนมีอะไรบางอย่างในคำพูดของเสมอ แต่ข้าก็สบายใจกับมันนัก\nว่าแต่ว่า เห็นเจ้าสงสัยว่ามีสมบัติอะไรในกล่องของข้ามานานแล้ว\nนี่คือกุญแจ เจ้าเปิดออกดูเองเถอะ"
+M1101-10_2_8,"I always feel like there's something in your words, but I'm already very comforted.\nBy the way, you've always been curious about what treasure is in my box.\nHere is the Key, you can unlock it and see for yourself.","ข้ารู้สึกว่าคำพูดของท่านมีนัยแฝงอยู่นะ แต่อย่างไรก็ตาม เพียงแค่นี้ข้าก็รู้สึกปลื้มใจมากแล้ว \nอ้อ ท่านคงสงสัยมาตลอดว่าในหีบของข้ามีสมบัติอะไรอยู่ นี่คือกุญแจ ท่านลองไขดูเองก็แล้วกัน\n"
 M1101-10_3_1,"I'm not some pushover, you're really overestimating yourself by coming here to cause trouble!"
 M1101-10_3_10,"With a few punches and kicks, you drove these bastards away, I didn't expect you to be so capable.\nMuch better than those who only know how to talk.","ลงมือเพียงเล็กน้อย เจ้าก็ไล่พวกบ้านั่นไปได้ ข้าไม่นึกว่าเจ้าจะมีฝีมือเช่นนี้\nดีกว่าเจ้าพวกที่เก่งแต่ปากมากนัก"
 M1101-10_3_11,"Although fists and feet have no eyes, and there's a chance of losing your life.\nBut for some people, some things, you can only speak with your fists.","ถึงแม้กำปั้นบาทาจะไม่มีตา และอาจจะทำให้ต้องตายได้\nแต่สำหรับคนบางจำพวก บางครั้งก็คงมีแต่กำปั้นที่จะทำให้พวกมันรู้เรื่องได้"
 M1101-10_3_12,"Today you helped me solve a big problem again.\nWhat if you Run away from this small village in the future, what should I do if I encounter trouble?","วันนี้ท่านช่วยข้าแก้ปัญหาใหญ่อีกครั้งแล้ว\nหากเมื่อใดท่านไปจากหมู่บ้านเล็กๆนี้ หากข้าพบปัญหาแล้วควรทำเช่นไรดี"
 M1101-10_3_13,"Boss lady, with your combination of softness and toughness, what can't you handle?\nBut in the future, if you encounter any trouble, I will definitely come to help you without hesitation.","นายหญิง ด้วยการประสานอ่อนแข็งของท่าน จะมีสิ่งใดที่ท่านรับมือไม่ได้\nแต่หากในอนาคตท่านพบเจอปัญหา ข้าจะมาช่วยท่านโดยไม่ลังเลอย่างแน่นอน"
-M1101-10_3_14,"I always feel like there's something in your words, but I'm already very comforted.\nBy the way, you've always been curious about what treasure is in my box.\nHere is the Key, you can unlock it and see for yourself.","ข้ามักจะรู้สึกเหมือนมีอะไรบางอย่างในคำพูดของเสมอ แต่ข้าก็สบายใจกับมันนัก\nว่าแต่ว่า เห็นเจ้าสงสัยว่ามีสมบัติอะไรในกล่องของข้ามานานแล้ว\nนี่คือกุญแจ เจ้าเปิดออกดูเองเถอะ"
+M1101-10_3_14,"I always feel like there's something in your words, but I'm already very comforted.\nBy the way, you've always been curious about what treasure is in my box.\nHere is the Key, you can unlock it and see for yourself.","ข้ารู้สึกว่าคำพูดของท่านมีนัยแฝงอยู่นะ แต่อย่างไรก็ตาม เพียงแค่นี้ข้าก็รู้สึกปลื้มใจมากแล้ว \nอ้อ ท่านคงสงสัยมาตลอดว่าในหีบของข้ามีสมบัติอะไรอยู่ นี่คือกุญแจ ท่านลองไขดูเองก็แล้วกัน\n"
 M1101-10_3_2,"Spare me, good sir!\nI-I just heard that the lady boss here is a good cook, so I came to see for myself!\nI-I really have no other intentions!","ไว้ชีวิตข้าเถอะนายท่าน!\nข-ข้าา เพิ่งได้ยินมาว่านายหญิงที่นี่ทำอาหารเก่งก็เลยมาดูเอง!\nข ขะ-ข้า ไม่มีเจตนาอื่นจริงๆ!"
 M1101-10_3_3,"It was an accident that we offended you, we know our mistake, we'll leave right away!",พวกเราไม่ได้ตั้งใจจะล่วงเกินท่านเลย เราผิดไปแล้ว จะรีบจากไปเดี๋ยวนี้!
 M1101-10_3_4,"Wait a moment, all visitors are guests, especially those who come for the reputation.\nIf I don't let the guest taste my cooking,\nIf word gets out that I don't know how to treat guests, how can I continue my business?","รอสักครู่ ผู้มาเยือนทุกคนล้วนเป็นแขกของเรา โดยเฉพาะผู้ที่มาเพราะได้ยินชื่อเสียงของข้า\nหากข้าไม่ให้แขกได้ชิมฝีมือทำอาหาร\nแล้วคนกล่าวออกไปว่าข้าไม่รู้จักดูแลแขก เช่นนั้นกิจการของข้าคงไม่อาจทำต่อแล้ว"
@@ -1318,12 +1318,12 @@ M1200-4_3_16,"From now on, you are the second in command of the Blue Wind Camp!"
 M1200-4_3_17,"Thank you, big brother!",ขอบคุณพี่ใหญ่!
 M1200-4_3_18,"The things I promised to give to the second brother before, I will give them all to you now!",สิ่งที่ข้าสัญญาจะมอบแก่ศิษย์พี่รองก่อนหน้านี้ ตอนนี้ข้าจะมอบให้เจ้าทั้งหมด!
 M1200-4_3_2,"Both of them are dead, and their secrets were not revealed.",มันทั้งคู่ตายไปแล้ว และความลับของมันจะไม่มีวันถูกเปิดเผย
-M1200-4_3_3,"Never mind, let's go back and find the big brother!"
+M1200-4_3_3,"Never mind, let's go back and find the big brother!",ช่างเถอะ กลับไปหาพี่ใหญ่กัน!
 M1200-4_3_4,Hmm?,หืม
 M1200-4_3_5,"You're back, third brother!"
 M1200-4_3_6,Any news?
 M1200-4_3_7,The second in command and a man in black were plotting something about the Nameless village treasure on a small path.,รองหัวหน้าและชายชุดดำกำลังวางแผนบางอย่างเกี่ยวกับสมบัติของหมู่บ้านนิรนามบนทางเล็กๆ
-M1200-4_3_8,"Unfortunately, I was discovered before I could hear the whole thing!"
+M1200-4_3_8,"Unfortunately, I was discovered before I could hear the whole thing!",น่าเสียดายนัก ข้าดันถูกพบก่อนจะฟังเรื่องทั้งหมดครบ!
 M1200-4_3_9,What happened next?
 M1200-4_4_1,Big brother!
 M1200-4_4_10,Guards!

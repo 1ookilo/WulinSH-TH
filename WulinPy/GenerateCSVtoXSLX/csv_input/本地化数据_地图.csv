@@ -741,9 +741,9 @@ MapName_20513,Residential house one,บ้านเรือนหลังท�
 MapName_20514,Residential house two,บ้านเรือนหลังที่ 2
 MapName_20515,Residential house three,บ้านเรือนหลังที่ 3
 MapName_20516_0,Chaiwang Pavilion,วังอ๋องไฉ
-MapName_20516,Duke Chai's Tower - Main Hall
-MapName_20517,Duke Chai's Tower - Study
-MapName_20518,Duke Chai's Tower - Secret Passage
+MapName_20516,Duke Chai's Tower - Main Hall,หอคอยอ๋องไฉ - ห้องโถงหลัก
+MapName_20517,Duke Chai's Tower - Study,หอคอยอ๋องไฉ - ห้องหนังสือ
+MapName_20518,Duke Chai's Tower - Secret Passage,หอคอยอ๋องไฉ - ทางลับ
 MapName_20519,Sea Goddess Temple,วิหารเทพธิดาเจ้าสมุทร
 MapName_2010_99,Sect Entrance,ทางเข้าสำนัก
 MapName_2020_99,Mountain Entrance,ทางเข้าภูเขา
@@ -787,9 +787,9 @@ WMapName_20513,Residential house,บ้านเรือน
 WMapName_20514,Residential house,บ้านเรือน
 WMapName_20515,Residential house,บ้านเรือน
 WMapName_20516_0,Chaiwang Pavilion,วังอ๋องไฉ
-WMapName_20516,Duke Chai's Tower - Main Hall
-WMapName_20517,Duke Chai's Tower - Study
-WMapName_20518,Duke Chai's Tower - Secret Passage
+WMapName_20516,Duke Chai's Tower - Main Hall,หอคอยอ๋องไฉ - ห้องโถงหลัก
+WMapName_20517,Duke Chai's Tower - Study,หอคอยอ๋องไฉ - ห้องหนังสือ
+WMapName_20518,Duke Chai's Tower - Secret Passage,หอคอยอ๋องไฉ - ทางลับ
 WMapName_20519,Sea Goddess Temple,วิหารเทพธิดาเจ้าสมุทร
 WMapName_2270,Mei Pass Post,สถานีม้าเร็วด่านเหมย
 WMapName_2271,Mei Pass Post - Guest Room,สถานีม้าเร็วด่านเหมย - ห้องพัก
