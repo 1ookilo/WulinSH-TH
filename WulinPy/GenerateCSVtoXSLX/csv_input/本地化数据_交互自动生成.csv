@@ -2865,7 +2865,7 @@ NpcDuel_欧冶恒_Info,"In that case, I'll have to offend you.\n(Victory can ear
 NpcDuel_欧冶恒_NoStamina,"You're not in a state to spar, go rest first.",ตอนนี้เจ้าไม่เหมาะจะประลองนัก ไปพักผ่อนก่อนเถอะ
 NpcDuel_韩红玉_Refuse,"I'm busy with the escort agency, please forgive me for refusing."
 NpcDuel_韩红玉_Info,"I can't refuse your kindness, let's spar!\n(Victory can earn {2}Jianghu Knowledge, {3}FameExperience.)","ข้าไม่อาจปฏิเสธน้ำใจของเจ้า, มาประลองกันเถอะ!\n(ผู้ชนะจะได้รับ {2} ค่าประสบการณ์ยุทธ, {3} ค่าประสบการณ์ชื่อเสียง)"
-NpcDuel_韩红玉_NoStamina,"You're unsteady on your feet, are you about to fall ill? Go rest first, there's no rush to spar."
+NpcDuel_韩红玉_NoStamina,"You're unsteady on your feet, are you about to fall ill? Go rest first, there's no rush to spar.",ขาเจ้าสั่นใหญ่แล้ว เดี๋ยวก็ล้มไปก่อนประลองหรอก ตอนนี้เจ้าไม่เหมาะจะประลองนัก ไปพักผ่อนก่อนเถอะ
 NpcDuel_独孤剑一_Refuse,"Okay--wait, my master told me to stay out of trouble, um... I'd better not!",โอเค-- เดี๋ยวก่อน ท่านอาจารย์บอกให้ข้าอย่าก่อเรื่อง อืม... งั้นลืมมันไปซะดีกว่า!
 NpcDuel_独孤剑一_Info,"Great! I've been wanting to spar with you!\n(Victory can earn {2}Jianghu Knowledge, {3}FameExperience.)","ยอดเยี่ยม! ข้าอยากจะประลองกับเจ้า!\n(ผู้ชนะจะได้รับ {2} ค่าประสบการณ์ยุทธ, {3} ค่าประสบการณ์ชื่อเสียง)"
 NpcDuel_独孤剑一_NoStamina,"No, no, it's no fun to fight in your current state. Let's talk after you've rested.",ไม่ ไม่ การต่อสู้กับเจ้าในสภาพนี้ไม่สนุก ไปพักผ่อนเถอะ ไว้เราค่อยคุยกัน
