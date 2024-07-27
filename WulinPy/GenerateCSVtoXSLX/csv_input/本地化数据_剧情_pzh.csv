@@ -5306,10 +5306,10 @@ DNJH-6_2_4_17,This...
 DNJH-6_2_4_18,"We are all friends, what is your request, just say it."
 DNJH-6_2_4_19,"Since Your Highness said so, I will say it...\nI made some mistakes in Zhongzhou and now I am wanted by the government..."
 DNJH-6_2_4_20,"That's not a problem, I will send someone to help you settle it, you can rest well in my mansion during this period."
-DNJH-6_2_4_21,"Thank you, King Chai!"
+DNJH-6_2_4_21,"Thank you, King Chai!",ขอบพระทัยท่านอ๋องไฉ
 DNJH-6_2_4_22,"In that case... Your Highness, I accidentally hurt someone back in my hometown..."
 DNJH-6_2_4_23,"Don't worry, that can be handled too."
-DNJH-6_2_4_24,"Thank you, Your Highness King Chai!"
+DNJH-6_2_4_24,"Thank you, Your Highness King Chai!",ขอบพระทัยท่านอ๋องไฉ
 DNJH-6_2_4_25,Then I also...
 DNJH-6_2_4_26,"{PlayerName} young hero, I have been paying attention to you for a long time, and today I finally have the chance to meet you. Is there anything I can help you with?"
 DNJH-6_2_4_27,"Your Highness King Chai, recently someone has been spreading rumors that I have been killing and setting fires everywhere, committing all kinds of evil deeds. I suspect it is the work of the Rumor Platform, but I don't know where this Rumor Platform is. Your Highness King Chai, you have many connections, can you help me find out?"
@@ -6263,33 +6263,33 @@ DNJH-9_0_2_2,"Could it be that Qingqing, you have been tried?"
 DNJH-9_0_2_3,"I haven't, but some brothers who have been in jail said that although the trial is scary, the prison food is quite good."
 DNJH-9_0_3_1,"Alas, it always brings up some unbearable past..."
 DNJH-9_0_4_1,Please keep quiet in the court.
-DNJH-9_0_5_1,"The time has come, rise to the court, bring Chai Wang into the hall!"
-DNJH-9_0_5_2,"Suspect Chai Wang, why don't you kneel?"
-DNJH-9_0_5_3,"I, Chai, am innocent, why should I kneel?"
-DNJH-9_0_5_4,I found a ledger in the South-East Barbarian Camp that records your financial and military dealings. What do you have to say?
-DNJH-9_0_5_5,Ledger? What's written on it?
-DNJH-9_0_5_6,"""On the fifth day, received 3 jars of wine from Duke Chai's Tower, three thousand taels of silver... On the fifteenth day, Blade Destruction Army arrived..."""
-DNJH-9_0_5_7,Is my seal stamped on it?
-DNJH-9_0_5_8,This...
-DNJH-9_0_5_9,"Anyone can write such a ledger with a wave of their hand.\nWould you believe me if I wrote a Ledger now about General Han accepting my bribe?"
-DNJH-9_0_6_1,"Your servant Ji Baichu, abused his power, tortured the members of the Mechanism Room, this act is undoubtedly a crime. What do you have to say?"
-DNJH-9_0_6_2,"I know nothing about this. If Ji Baichu acted on his own, let General Han deal with him. I will not protect him."
-DNJH-9_0_6_3,What about Ji Baichu spreading rumors in the city and disturbing the peace?
-DNJH-9_0_6_4,"At that time, I was in jail and knew nothing about the outside world."
-DNJH-9_0_6_5,What about colluding with the South-East Barbarians and Pirates?
-DNJH-9_0_6_6,"General Han seems to have a poor memory, this matter has already been mentioned by Chai.\nIf General Han wants to accuse Chai of a crime, please present the evidence."
-DNJH-9_0_6_7,"This Chai Wang really knows how to shirk responsibility, but he's so confident, I'm afraid even if there's evidence, he's already destroyed it."
-DNJH-9_0_6_8,"Someone, take Chai Wang to rest."
-DNJH-9_0_6_9,Yes!
-DNJH-9_0_6_10,Bring the prisoner Ji Baichu!
-DNJH-9_0_6_11,"Ji Baichu, you abused your power, tortured the members of the Mechanic Room, do you plead guilty?"
-DNJH-9_0_6_12,I plead guilty.
-DNJH-9_0_6_13,"You spread rumors in the city, incited the public to cause trouble at the government office, and disturbed public order, do you plead guilty?"
-DNJH-9_0_6_14,I plead guilty!
-DNJH-9_0_6_15,"You escaped with other accomplices and resisted arrest, do you plead guilty?"
-DNJH-9_0_6_16,I had no choice but to...
-DNJH-9_0_6_17,Do you plead guilty?
-DNJH-9_0_6_18,...I plead guilty.
+DNJH-9_0_5_1,"The time has come, rise to the court, bring Chai Wang into the hall!",ถึงเวลาแล้ว เปิดศาล นำตัว ไฉหวัง เข้ามา!
+DNJH-9_0_5_2,"Suspect Chai Wang, why don't you kneel?",ผู้ต้องสงสัยไฉหวัง เหตุใดเจ้าจึงไม่คุกเข่า?
+DNJH-9_0_5_3,"I, Chai, am innocent, why should I kneel?",ข้าคือไฉ ข้าไร้ความผิด เหตุใดต้องคุกเข่า?
+DNJH-9_0_5_4,I found a ledger in the South-East Barbarian Camp that records your financial and military dealings. What do you have to say?,ข้าพบบัญชีบันทึกการติดต่อเรื่องเงินทองและอาวุธของเจ้ากับค่ายคนเถื่อน เจ้าจะอธิบายเช่นไร?
+DNJH-9_0_5_5,Ledger? What's written on it?,บัญชี? บนนั้นเขียนว่าอย่างไร?
+DNJH-9_0_5_6,"""On the fifth day, received 3 jars of wine from Duke Chai's Tower, three thousand taels of silver... On the fifteenth day, Blade Destruction Army arrived...""","""วันที่ห้า รับสุราจากตำหนักไฉหวัง 3 ไห เงิน 3,000 ตำลึง... วันที่สิบห้า กองทัพชุยเฟิงมาถึง..."""
+DNJH-9_0_5_7,Is my seal stamped on it?,บนนั้นมีตราประทับของข้าหรือไม่?
+DNJH-9_0_5_8,This...,มี...
+DNJH-9_0_5_9,"Anyone can write such a ledger with a wave of their hand.\nWould you believe me if I wrote a Ledger now about General Han accepting my bribe?","บัญชีเช่นนี้ เพียงลงมือเขียนใครก็ทำได้\nท่านเชื่อหรือไม่ว่าข้าสามารถเขียนบัญชีว่าแม่ทัพใหญ่ หาน รับสินบนจากข้าได้ตอนนี้?"
+DNJH-9_0_6_1,"Your servant Ji Baichu, abused his power, tortured the members of the Mechanism Room, this act is undoubtedly a crime. What do you have to say?",ลูกน้องของเจ้า จี้ไป๋ฉู่ ใช้วิธีทรมานผิดกฎหมาย ทำร้ายคนในห้องกลไก นี่คือการกบฏ เจ้าจะว่าอย่างไร?
+DNJH-9_0_6_2,"I know nothing about this. If Ji Baichu acted on his own, let General Han deal with him. I will not protect him.",เรื่องนี้ข้าไม่รู้เรื่องเลย หากจี้ไป๋ฉู่ทำไปโดยพลการ ขอให้แม่ทัพใหญ่ หาน ลงโทษตามใจ ข้าจะไม่ปกป้องเขา
+DNJH-9_0_6_3,What about Ji Baichu spreading rumors in the city and disturbing the peace?,แล้วเรื่องที่จี้ไป๋ฉู่แพร่ข่าวลือในเมือง สร้างความวุ่นวายล่ะ?
+DNJH-9_0_6_4,"At that time, I was in jail and knew nothing about the outside world.",ตอนนั้นข้าถูกขังอยู่ในคุก ไม่รู้เรื่องภายนอกเลย
+DNJH-9_0_6_5,What about colluding with the South-East Barbarians and Pirates?,แล้วเรื่องสมรู้ร่วมคิดกับพวกคนเถื่อนและโจรสลัดล่ะ?
+DNJH-9_0_6_6,"General Han seems to have a poor memory, this matter has already been mentioned by Chai.\nIf General Han wants to accuse Chai of a crime, please present the evidence.","ดูเหมือนแม่ทัพใหญ่ หาน จะความจำไม่ค่อยดี ข้าได้อธิบายเรื่องนี้ไปแล้ว\nหากท่านต้องการกล่าวหาว่าเจ้าไฉผิด ขอให้แสดงหลักฐานมา"
+DNJH-9_0_6_7,"This Chai Wang really knows how to shirk responsibility, but he's so confident, I'm afraid even if there's evidence, he's already destroyed it.",ไฉหวังผู้นี้ช่างปัดความผิดได้หมดจด แต่ที่เขามั่นใจเช่นนี้ เกรงว่าถึงมีหลักฐานก็คงถูกทำลายไปแล้ว
+DNJH-9_0_6_8,"Someone, take Chai Wang to rest.",เจ้าหน้าที พาไฉหวังไปพักก่อน
+DNJH-9_0_6_9,Yes!,ขอรับ!
+DNJH-9_0_6_10,Bring the prisoner Ji Baichu!,เบิกตัวจี้ไป๋ฉู่!
+DNJH-9_0_6_11,"Ji Baichu, you abused your power, tortured the members of the Mechanic Room, do you plead guilty?",จี้ไป๋ฉู่ เจ้าใช้วิธีทรมานผิดกฎหมาย ทำร้ายคนในห้องกลไก เจ้ายอมรับผิดหรือไม่?
+DNJH-9_0_6_12,I plead guilty.,ข้ายอมรับขอรับใต้เท้า
+DNJH-9_0_6_13,"You spread rumors in the city, incited the public to cause trouble at the government office, and disturbed public order, do you plead guilty?",เจ้าแพร่ข่าวลือในเมือง ใช้วาจายั่วยุให้ผู้คนมาก่อเรื่องที่ศาลว่าการ สร้างความวุ่นวาย เจ้ายอมรับผิดหรือไม่?
+DNJH-9_0_6_14,I plead guilty!,ข้ายอมรับขอรับใต้เท้า!
+DNJH-9_0_6_15,"You escaped with other accomplices and resisted arrest, do you plead guilty?",ร่วมมือกับพรรคพวกหลบหนี ต่อต้านการจับกุม เจ้ายอมรับผิดหรือไม่?
+DNJH-9_0_6_16,I had no choice but to...,ข้าจำเป็นต้องทำเช่นนี้ขอรับใต้เท้า...
+DNJH-9_0_6_17,Do you plead guilty?,เจ้ายอมรับผิดหรือไม่?
+DNJH-9_0_6_18,...I plead guilty.,...ข้ายอมรับขอรับใต้เท้า
 DNJH-9_0_6_19,"Good, according to the law, you should be sentenced to death by dismemberment and your nine clans should be implicated. But I will give you a chance to redeem your crimes, are you willing?"
 DNJH-9_0_6_20,"(Although the crimes committed by Ji Baichu are not light, the punishment of dismemberment and implicating nine clans is a bit too much. General Han probably wants to scare him into confessing against Chai Wang.)"
 DNJH-9_0_6_21,I'm willing! I'm willing to do anything!

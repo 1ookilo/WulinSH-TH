@@ -2590,7 +2590,7 @@ DNYJJ-2-2_option2_1,Join the battle personally! <color=#c44b0e>(Specific battle)
 DNYJJ-2-2_option2_2,Leave it to the soldiers.,ปล่อยเป็นหน้าที่ของเหล่าทหาร
 DNYJJ-2-2_option3_1,Charge! <color=#c44b0e>(Specific battle)</color>,บุก! <color=#c44b0e>(สำหรับการต่อสู้ครั้งนี้)</color>
 DNYJJ-2-2_option3_2,Prepare again.,เตรียมตัวให้พร้อมอีกครั้ง
-DNYJJ-2-2_option4_1,There's nothing to be afraid of! <color=#c44b0e>(Specific battle)</color>,ไม่มีอะไรจะเสีย <color=#c44b0e>(สำหรับการต่อสู้ครั้งนี้)</color>
+DNYJJ-2-2_option4_1,There's nothing to be afraid of! <color=#c44b0e>(Specific battle)</color>,ข้าไม่กลัว <color=#c44b0e>(สำหรับการต่อสู้ครั้งนี้)</color>
 DNYJJ-2-2_option4_2,Prepare again.,เตรียมตัวให้พร้อมอีกครั้ง
 DNYJJ-4_option1_1,"Attack head-on, charge into the main camp! <color=#c44b0e>(Direct battle)</color>",โจมตีแบบประชิดตัว บุกเข้ากระโจมหลัก! <color=#c44b0e>(ต่อสู้โดยตรง)</color>
 DNYJJ-4_option1_2,"Soldiers guard the exit, charge into the main camp alone. <color=#c44b0e>(Direct battle)</color>",ให้ทหารเฝ้าทางออก บุกเข้าค่ายหลักเพียงลำพัง <color=#c44b0e>(ต่อสู้โดยตรง)</color>
@@ -2604,12 +2604,12 @@ DNYJJ-6_option1_1,Enter Phoenix Woods Harbor! <color=#c44b0e>(Specific battle)</
 DNYJJ-6_option1_2,Prepare again.,เตรียมตัวให้พร้อมอีกครั้ง
 DNYJJ-7_option1_1,Trust Lu Yunlong.,เชื่อหลูหยุนหลง
 DNYJJ-7_option1_2,Don't trust Lu Yunlong.,ไม่เชื่อหลูหยุนหลง
-DNYJJ-7_NpcName,A man's voice
+DNYJJ-7_NpcName,A man's voice,เสียงชายหนุ่ม
 DNYJJ-9_option1_1,Use force to coerce Ji Baichu!,ใช้กำลังบังคับ จิ้ไป่ฉู่!
 DNYJJ-9_option1_2,Transfer the letter found in South-East Barbarian Camp to here.,นำจดหมายที่พบจากค่ายคนเถื่อนเขตตะวันออกเฉียงใต้ไปยังค่าย
 DNYJJ-9_option1_3,Let Lu Yunlong handle it.,ให้หลูหยุนหลงจัดการ
-DNYJJ-9_option2_1,There is evidence!
-DNYJJ-9_option2_2,There is no evidence left.
+DNYJJ-9_option2_1,There is evidence!,ข้ามีหลักฐาน!
+DNYJJ-9_option2_2,There is no evidence left.,ข้าไม่เจอหลักฐาน
 DNYJJ-9_option3_1,The silver found in South-East Barbarian Camp!,พบเหรียญเงินในค่ายคนเถื่อนเขตตะวันออกเฉียงใต้
 DNYJJ-9_option3_2,The Sea Goddess told me!,ข้าแต่ท่านเทพธิดาเจ้าสมุทร จงบอกข้าเถิด!
 DNYJJ-9_option3_3,Guests at King Chai's banquet!,ผู้เข้าร่วมงานเลี้ยงของอ๋องไฉ
@@ -2659,8 +2659,8 @@ R20814-2_name,Farewell My Concubine,งิ้วเรื่อง - ฉ้อ�
 R20814-2_overview1,Talk to the Troupe Leader of the theater troupe at Phoenix Woods Harbor during the day and watch their performance.,คุยกับหัวหน้าคณะงิ้วที่ท่าเรือป่าหงส์ในตอนกลางวัน และดูการแสดงงิ้วนั้น
 R20814-2-1_option1_1,Go check it out.<color=#c44b0e>(Protagonist's solo fight)</color>
 R20814-2-1_option1_2,Don't meddle.
-M20500-2_option1_1,Arrest!<color=#c44b0e>(Specific battle)</color>
-M20500-2_option1_2,Prepare again.
+M20500-2_option1_1,Arrest!<color=#c44b0e>(Specific battle)</color>,จับกุม!<color=#c44b0e>เข้าสู่การต่อสู้</color>
+M20500-2_option1_2,Prepare again.,เตรียมตัวก่อน
 M20500-2_option2_1,State your name.,บอกชื่อของเจ้า
 M20500-2_option2_2,"Present the invitation.<color=#097a76>(Plot progression, some plots will be invalidated)</color>"
 M20500-2_option2_3,Those experts no longer have a chance to give me the invitation.
@@ -2669,7 +2669,7 @@ M20500-2_option2_5,Force your way in!<color=#c44b0e>(Specific battle)</color>
 M20500-2_option2_6,Wait a bit longer.
 R10060-1_name,Mei Pass Abandoned House,บ้านร้างในด่านเหมย
 R10060-1_overview1,Go to the abandoned house at Mei Pass Post between Hai Shi and Yin Shi.,ไปยังบ้านร้างในสถานีม้าเร็วด่านเหมยในช่วงเวลายามไฮ่(Hai) และยามหยิน(Yin)
-R10060-1_NPCname,Low voice
+R10060-1_NPCname,Low voice,เสียงทุ้มต่ำ
 R10060-2_name,Liao Family Past,อดีตของตระกูลเหลียว
 R10060-2_overview1,Ask the Tea Stall owner at Mei Pass Post about the Liao family blood case from over a decade ago.,ถามคนขายชาสถานีม้าเร็วด่านเหมยเกี่ยวกับคดีฆาตกรรมตระกูลเหลียวเมื่อหลายสิบปีก่อน
 R10060-2_overview2,Ask the Post Soldier at Mei Pass Post about the Liao family blood case from thirteen years ago.,ถามทหารรักษาการณ์ที่สถานีม้าเร็วด่านเหมยเกี่ยวกับคดีฆาตกรรมตระกูลเหลียวเมื่อ 13 ปีก่อน
@@ -2681,23 +2681,23 @@ R10060-2_overview7,Go to Mei Pass Post and ask the local Beggar.,มุ่งส
 R10060-2_option1_1,Yes.,ใช่
 R10060-2_option1_2,No.,ไม่
 R10060-2_option2_1,No noise at night.,ไม่มีเสียงรบกวนตอนกลางคืน
-R10060-2_option2_2,Heard crying and cackling sounds at night.
-R10060-2_option2_3,Haunted yard at night.
-R10060-2_option2_4,"Woken up at night, so helped put out a fire."
-R10060-2_option3_1,Appearance of the deceased.
-R10060-2_option3_2,Number of bodies.
-R10060-2_option3_3,Signs of a fight at the scene.
-R10060-2_option4_1,Location of the fire.
-R10060-2_option4_2,Time of the fire.
-R10060-2_option4_3,Speed of the fire spread.
-R10060-2_option5_1,During the fight with your father and others.
-R10060-2_option5_2,After your father and others died.
-R10060-2_option6_1,The furniture in the courtyard hasn't been burned!
-R10060-2_option6_2,Testimony of the Bun Shop Innkeeper.
-R10060-2_option6_3,Testimony of the Dessert Merchant.
-R10060-2_option6_4,Walls of the house.
-R10060-2_option6_5,Thatched roof of the house.
-R10060-2_option7_1,Had a reason to do so.
+R10060-2_option2_2,Heard crying and cackling sounds at night.,ยามราตรีได้ยินเสียงครวญและเสียงหัวเราะเบาๆ
+R10060-2_option2_3,Haunted yard at night.,เรือนนี้มีวิญญาณสิงสถิตยามค่ำคืน
+R10060-2_option2_4,"Woken up at night, so helped put out a fire.",ถูกปลุกจากความวุ่นวาย จึงออกไปช่วยดับเพลิง
+R10060-2_option3_1,Appearance of the deceased.,สภาพของผู้ตาย
+R10060-2_option3_2,Number of bodies.,จำนวนศพ
+R10060-2_option3_3,Signs of a fight at the scene.,ร่องรอยการต่อสู้ ณ ที่เกิดเหตุ
+R10060-2_option4_1,Location of the fire.,จุดที่มีเพลิงไหม้
+R10060-2_option4_2,Time of the fire.,ยามที่เพลิงถูกก่อ
+R10060-2_option4_3,Speed of the fire spread.,ความเร็วที่ไฟลุกลาม
+R10060-2_option5_1,During the fight with your father and others.,ขณะต่อสู้กับพ่อของท่านและผู้อื่น
+R10060-2_option5_2,After your father and others died.,หลังจากพ่อของท่านและคนอื่นสิ้นใจ
+R10060-2_option6_1,The furniture in the courtyard hasn't been burned!,ข้าวของในเรือนยังไม่ได้ไหม้!
+R10060-2_option6_2,Testimony of the Bun Shop Innkeeper.,คำให้การของคนขายซาลาเปา
+R10060-2_option6_3,Testimony of the Dessert Merchant.,คำให้การของคนขายของหวาน
+R10060-2_option6_4,Walls of the house.,กำแพงของบ้านเรือน
+R10060-2_option6_5,Thatched roof of the house.,หลังคามุงจาก
+R10060-2_option7_1,Had a reason to do so.,มีเหตุจำเป็นต้องทำเช่นนั้น
 R10060-2_option7_2,Destruction of property.
 R10060-2_option7_3,Disguised the scene as an accident.
 R10060-2_option8_1,Two extra bodies.
