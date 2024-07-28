@@ -4987,7 +4987,7 @@ Role5-15-3_5_1,I don't want to kill you...,ข้าไม่อยากจะ�
 Role5-15-3_5_2,"You forced me, you forced me...",เจ้าบังคับข้าเองนะ เจ้าบังคับข้า...
 Role5-15-3_5_3,"From the nobles to the common people in Lin'an City, everyone defended the city against the enemy.\nAlthough you have captured Lin'an City, it is almost empty, and it is difficult to recover the prosperity of the past..."
 Role5-15-3_5_4,"At this point, I can only go back and report.",มาถึงจุดนี้ ข้าคงทำได้เพียงแค่กลับไปรายงาน
-Role5-16_talking,Lin'an
+Role5-16_talking,Lin'an,หลินอัน
 Role5-16_1_1,Congratulations to Brother Wan Yan for taking control of the Yan Yun Iron Army.,ขอแสดงความยินดีกับพี่หวันเหยียนที่เข้าควบคุมกองทัพเหล็กเยี่ยนหยุน
 Role5-16_op_1_dialog,"Would Brother {PlayerSurName} like to share the wealth with me?\nAfter the success, we will divide the world equally, I will be the supreme north of the Huai River, and you will be the king south of the Huai River!"
 Role5-16_op_1_1,Agree to Wanyan Liang.
@@ -4997,17 +4997,17 @@ Role5-16_2_2,Are you going to do it to me?
 Role5-16_2_3,"If a person like {PlayerSurName} is working for others, I would be restless."
 Role5-16_3_1,"The Iron Army of Yan Yun has long been shattered by me, what qualifications does a small Wanyan Liang have to share the world with me!",กองทัพเหล็กเยี่ยนหยุนถูกทำลายโดยข้ามานานแล้ว เจ้าหวันเหยียนเหลียงตัวน้อยนั้นถือสิทธิ์อะไรจะมาเอาส่วนแบ่งโลกกับข้า?
 Role5-16_4_1,"There should still be some residual forces of the Yan Yun Iron Army distributed everywhere, why not find them out one by one and catch them all!",น่าจะยังมีกองกำลังที่เหลืออยู่ของกองทัพเหล็กเยี่ยนหยุนกระจายอยู่ทุกหนทุกแห่ง ทำไมไม่ค้นหาพวกมันทีละแห่งแล้วกวาดล้างมันให้หมด!
-Role5-16_5_1,"Good, with the help of {PlayerSurName}, the big thing can be done!"
+Role5-16_5_1,"Good, with the help of {PlayerSurName}, the big thing can be done!",ดี มี{PlayerSurName}คอยช่วยเหลือ งานใหญ่จะต้องสำเร็จ!
 Role5-16_5_2,"The soldier is fast, please {PlayerSurName} personally lead a team to attack Lin'an City by horse!"
 Role5-16_5_3,"Yes, sir!"
 Role5-16_6_1,"Good, how is {PlayerSurName} doing?"
 Role5-16_6_2,I hope you can quickly capture Lin'an!
 Role5-16_op_2_dialog,"{PlayerSurName}, you have worked hard all the way, first drink this cup, I will toast you first."
-Role5-16_op_2_1,Drink the wine rewarded by Wanyan Liang.
-Role5-16_op_2_2,Detect poison in the wine!
-Role5-16_7_1,"This wine, you dare to poison!"
+Role5-16_op_2_1,Drink the wine rewarded by Wanyan Liang.,ดื่มสุราที่หวันเหยียนเหลียงมอบให้เป็นรางวัล
+Role5-16_op_2_2,Detect poison in the wine!,ในสุรามีพิษ!
+Role5-16_7_1,"This wine, you dare to poison!",กล้าดีอย่างไรถึงวางยาพิษในสุรา!
 Role5-16_7_2,"The ancient saying goes, those who are not of my race must have different hearts; but for me, I only believe in myself!"
-Role5-16_7_3,"Go in peace, you are not the first, nor the last, and you will not be lonely in the underworld in the future."
+Role5-16_7_3,"Go in peace, you are not the first, nor the last, and you will not be lonely in the underworld in the future.",ไปสู่สุขติเถอะ เจ้าไม่ใช่คนแรก และจะไม่ใช่คนสุดท้าย เจ้าจะไม่เดียวดายในปรโลกหรอก
 Role5-16_8_1,"Brother Wan Yan, this wine looks very special?"
 Role5-16_8_2,"The top-notch nectar, specially prepared for {PlayerSurName} to welcome and dust off."
 Role5-16_8_3,"Since it's a nectar, it's a waste for me to drink it, let's return it to Brother Wan Yan."
