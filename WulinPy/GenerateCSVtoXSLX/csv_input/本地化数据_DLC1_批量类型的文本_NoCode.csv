@@ -1,0 +1,917 @@
+﻿﻿SlgTechName_科技0,Technology 0
+SlgTechName_科技1,Technology 1
+SlgTechName_科技2,Technology 2
+SlgTechName_科技3,Technology 3
+SlgTechName_科技4,Technology 4
+SlgTechName_科技5,Technology 5
+SlgTechName_科技6,Technology 6
+SlgTechName_科技7,Technology 7
+SlgTechName_科技8,Technology 8
+SlgTechName_科技9,Technology 9
+SlgTechName_科技10,Technology 10
+SlgTechName_科技11,Technology 11
+SlgTechInfo_科技0,This is Technology 0
+SlgTechInfo_科技1,This is Technology 1
+SlgTechInfo_科技2,This is Technology 2
+SlgTechInfo_科技3,This is Technology 3
+SlgTechInfo_科技4,This is Technology 4
+SlgTechInfo_科技5,This is Technology 5
+SlgTechInfo_科技6,This is Technology 6
+SlgTechInfo_科技7,This is Technology 7
+SlgTechInfo_科技8,This is Technology 8
+SlgTechInfo_科技9,This is Technology 9
+SlgTechInfo_科技10,This is Technology 10
+SlgTechInfo_科技11,This is Technology 11
+科技本地化,
+SlgTechName_通用_行为增益_疗伤1,Healing Effect Enhanced 1
+SlgTechName_通用_行为增益_疗伤2,Healing Effect Enhanced 2
+SlgTechName_通用_行为增益_疗伤3,Healing Effect Enhanced 3
+SlgTechName_通用_行为增益_惠民1,Benefit People Effect Enhanced 1
+SlgTechName_通用_行为增益_惠民2,Benefit People Effect Enhanced 2
+SlgTechName_通用_行为增益_惠民3,Benefit People Effect Enhanced 3
+SlgTechName_通用_行为增益_修炼1,Learning Effect Enhanced 1
+SlgTechName_通用_行为增益_修炼2,Learning Effect Enhanced 2
+SlgTechName_通用_行为增益_修炼3,Learning Effect Enhanced 3
+SlgTechName_通用_行为减耗_进攻1,Attack Cost Reduced 1
+SlgTechName_通用_行为减耗_进攻2,Attack Cost Reduced 2
+SlgTechName_通用_行为减耗_进攻3,Attack Cost Reduced 3
+SlgTechName_通用_行为减耗_疗伤1,Healing Cost Reduced 1
+SlgTechName_通用_行为减耗_疗伤2,Healing Cost Reduced 2
+SlgTechName_通用_行为减耗_疗伤3,Healing Cost Reduced 3
+SlgTechName_通用_行为减耗_惠民1,Benefit People Cost Reduced 1
+SlgTechName_通用_行为减耗_惠民2,Benefit People Cost Reduced 2
+SlgTechName_通用_行为减耗_惠民3,Benefit People Cost Reduced 3
+SlgTechName_通用_行为减耗_补给1,Supply Cost Reduced 1
+SlgTechName_通用_行为减耗_补给2,Supply Cost Reduced 2
+SlgTechName_通用_行为减耗_补给3,Supply Cost Reduced 3
+SlgTechName_通用_行为减耗_修炼1,Learning Cost Reduced 1
+SlgTechName_通用_行为减耗_修炼2,Learning Cost Reduced 2
+SlgTechName_通用_行为减耗_修炼3,Learning Cost Reduced 3
+SlgTechName_通用_行为减耗_研究1,Meditation Cost Reduction 1
+SlgTechName_通用_行为减耗_研究2,Meditation Cost Reduction 2
+SlgTechName_通用_行为减耗_研究3,Meditation Cost Reduction 3
+SlgTechName_通用_弟子上限_5,Increase Disciple Limit 1
+SlgTechName_通用_弟子上限_6,Increase Disciple Limit 2
+SlgTechName_通用_弟子上限_7,Increase Disciple Limit 3
+SlgTechName_通用_弟子上限_8,Increase Disciple Limit 4
+SlgTechName_通用_弟子上限_9,Increase Disciple Limit 5
+SlgTechName_通用_弟子上限_10,Increase Disciple Limit 6
+SlgTechName_通用_商人_资源1,Unlock Resource Merchant
+SlgTechName_通用_商人_资源2,Resource Goods Expansion 1
+SlgTechName_通用_商人_资源3,Resource Goods Expansion 2
+SlgTechName_通用_商人_装备1,Unlock Equipment Merchant
+SlgTechName_通用_商人_装备2,Equipment Goods Expansion 1
+SlgTechName_通用_商人_装备3,Equipment Goods Expansion 2
+SlgTechName_通用_商人_武功1,Unlock Martial Arts Merchant
+SlgTechName_通用_商人_武功2,Martial Arts Goods Expansion 1
+SlgTechName_通用_商人_武功3,Martial Arts Goods Expansion 2
+SlgTechName_通用_商人_神秘商人,Unlock Nameless Merchant
+SlgTechName_通用_招募科技1,Recruit Quality Increase 1
+SlgTechName_通用_招募科技2,Recruit Quality Increase 2
+SlgTechName_通用_招募科技3,Recruit Quality Increase 3
+SlgTechName_通用_招募自动刷新数1,Automatic Recruitment 1
+SlgTechName_通用_招募自动刷新数2,Auto Recruit 2
+SlgTechName_通用_招募自动刷新数3,Auto Recruit 3
+SlgTechName_通用_资源产出增益1,Increase Production 1
+SlgTechName_通用_资源产出增益2,Increase Production 2
+SlgTechName_通用_资源产出增益3,Increase Production 3
+SlgTechName_通用_守军科技1,Unlock Garrison Disciple
+SlgTechName_通用_守军科技2,Enhance Garrison Disciple 1
+SlgTechName_通用_守军科技3,Enhance Garrison Disciple 2
+SlgTechName_通用_守军手动控制,Manual Control
+SlgTechName_通用_守军自动恢复1,Guard Recovery 1
+SlgTechName_通用_守军自动恢复2,Guard Recovery 2
+SlgTechName_通用_守军自动恢复3,Guard Recovery 3
+SlgTechName_通用_资源低保1,Basic Resource 1
+SlgTechName_通用_资源低保2,Basic Resource 2
+SlgTechName_通用_资源低保3,Basic Resource 3
+SlgTechInfo_通用_行为增益_疗伤1,Healing Effect Increase 20%.
+SlgTechInfo_通用_行为增益_疗伤2,Healing Effect Increase 20%.
+SlgTechInfo_通用_行为增益_疗伤3,Healing Effect Increase 30%.
+SlgTechInfo_通用_行为增益_惠民1,Stability increases by 20 points after benefiting the people.
+SlgTechInfo_通用_行为增益_惠民2,Stability increases by 20 points after benefiting the people.
+SlgTechInfo_通用_行为增益_惠民3,Stability increases by 30 points after benefiting the people.
+SlgTechInfo_通用_行为增益_修炼1,Learn Effect Increase 20%.
+SlgTechInfo_通用_行为增益_修炼2,Learn Effect Increase 20%.
+SlgTechInfo_通用_行为增益_修炼3,Learn Effect Increase 30%.
+SlgTechInfo_通用_行为减耗_进攻1,Attack Cost Reduction 15%.
+SlgTechInfo_通用_行为减耗_进攻2,Attack Cost Reduction 15%.
+SlgTechInfo_通用_行为减耗_进攻3,Attack Cost Reduction 20%.
+SlgTechInfo_通用_行为减耗_疗伤1,Healing Cost Reduction 15%.
+SlgTechInfo_通用_行为减耗_疗伤2,Healing Cost Reduction 15%.
+SlgTechInfo_通用_行为减耗_疗伤3,Healing Cost Reduction 20%.
+SlgTechInfo_通用_行为减耗_惠民1,Benefit People Cost Reduction 15%.
+SlgTechInfo_通用_行为减耗_惠民2,Benefit People Cost Reduction 15%.
+SlgTechInfo_通用_行为减耗_惠民3,Benefit People Cost Reduction 20%.
+SlgTechInfo_通用_行为减耗_补给1,Supply Cost Reduction 15%.
+SlgTechInfo_通用_行为减耗_补给2,Supply Cost Reduction 15%.
+SlgTechInfo_通用_行为减耗_补给3,Supply cost reduced by 20%.
+SlgTechInfo_通用_行为减耗_修炼1,Learn cost reduced by 15%.
+SlgTechInfo_通用_行为减耗_修炼2,Learn cost reduced by 15%.
+SlgTechInfo_通用_行为减耗_修炼3,Learn cost reduced by 20%.
+SlgTechInfo_通用_行为减耗_研究1,Meditation cost reduced by 15%.
+SlgTechInfo_通用_行为减耗_研究2,Meditation cost reduced by 15%.
+SlgTechInfo_通用_行为减耗_研究3,Meditation cost reduced by 20%.
+SlgTechInfo_通用_弟子上限_5,Sect Disciple limit increased to 5.
+SlgTechInfo_通用_弟子上限_6,Sect Disciple limit increased to 6.
+SlgTechInfo_通用_弟子上限_7,Sect Disciple limit increased to 7.
+SlgTechInfo_通用_弟子上限_8,Sect Disciple limit increased to 8.
+SlgTechInfo_通用_弟子上限_9,Sect Disciple limit increased to 9.
+SlgTechInfo_通用_弟子上限_10,Sect Disciple limit increased to 10.
+SlgTechInfo_通用_商人_资源1,Unlock Resource Merchant (Visit next month).
+SlgTechInfo_通用_商人_资源2,Resource Merchant will sell more goods.
+SlgTechInfo_通用_商人_资源3,Resource Merchant will sell more goods.
+SlgTechInfo_通用_商人_装备1,Unlock Equipment Merchant (Visit next month).
+SlgTechInfo_通用_商人_装备2,Equipment Merchant will sell better goods.
+SlgTechInfo_通用_商人_装备3,Equipment Merchant will sell better goods.
+SlgTechInfo_通用_商人_武功1,Unlock Martial Arts Merchant (Visit next month).
+SlgTechInfo_通用_商人_武功2,Martial Arts Merchant will sell more goods.
+SlgTechInfo_通用_商人_武功3,Martial Arts Merchant will sell more goods.
+SlgTechInfo_通用_商人_神秘商人,Unlock Nameless Merchant (Visit next month).
+SlgTechInfo_通用_招募科技1,Improve the quality of Disciples during recruitment.
+SlgTechInfo_通用_招募科技2,Improve the quality of Disciples during recruitment.
+SlgTechInfo_通用_招募科技3,Improve the quality of Disciples during recruitment.
+SlgTechInfo_通用_招募自动刷新数1,Automatically refresh 1 Disciple per turn.
+SlgTechInfo_通用_招募自动刷新数2,Automatically refresh 1 Disciple per turn.
+SlgTechInfo_通用_招募自动刷新数3,Automatically refresh 1 Disciple per turn.
+SlgTechInfo_通用_资源产出增益1,Territory resource income increased by 20%.
+SlgTechInfo_通用_资源产出增益2,Territory resource income increased by 20%.
+SlgTechInfo_通用_资源产出增益3,Territory resource income increased by 30%.
+SlgTechInfo_通用_守军科技1,Unlock the Garrison Disciple function.
+SlgTechInfo_通用_守军科技2,Enhance Garrison Disciple.
+SlgTechInfo_通用_守军科技3,Enhance Garrison Disciple.
+SlgTechInfo_通用_守军手动控制,Unlock manual control of Garrison Disciple.
+SlgTechInfo_通用_守军自动恢复1,"Garrison Disciple, automatically recover 5% of HP and MP each round."
+SlgTechInfo_通用_守军自动恢复2,"Garrison Disciple, automatically recover 5% of HP and MP each round."
+SlgTechInfo_通用_守军自动恢复3,"Garrison Disciple, automatically recover 10% of HP and MP each round."
+SlgTechInfo_通用_资源低保1,"Automatically gain 20 minerals, herbs, wood, food per turn."
+SlgTechInfo_通用_资源低保2,"Automatically gain 50 minerals, herbs, wood, food per turn."
+SlgTechInfo_通用_资源低保3,"Automatically gain 100 minerals, herbs, wood, food per turn."
+SlgTechName_通用_快速战斗,Quick Battle
+SlgTechName_释法寺_解锁dlc连环掌,Martial Art: Continuous Palm
+SlgTechName_释法寺_解锁dlc罗汉拳法,Martial Art: Arhat Fist
+SlgTechName_释法寺_解锁dlc普渡杖法,Martial Art: Enlighten Staff
+SlgTechName_释法寺_解锁dlc韦陀杖法,Martial Art: Veda Staff
+SlgTechName_释法寺_解锁dlc般若掌,Martial Art: Prajna Palm
+SlgTechName_释法寺_解锁dlc大力金刚掌,Martial Art: Powerful Diamond Palm
+SlgTechName_释法寺_解锁dlc金刚降魔杵,Martial Art: Evil Destroyer Diamond Staff
+SlgTechName_释法寺_解锁dlc紧那罗王棍,Martial Art: Kinnara Staff
+SlgTechName_释法寺_解锁dlc如来神掌,Martial Art: Vairocana Godly Palm
+SlgTechName_释法寺_解锁dlc达摩杖法,Martial Art: Dharma Staff
+SlgTechName_释法寺_解锁dlc金钟罩,Martial Art: Golden Bell Technique
+SlgTechName_释法寺_解锁dlc横练金身,Martial Art: Forging Golden Body
+SlgTechName_释法寺_解锁dlc大日如来经,Martial Art: Vairocana Solar Sutra
+SlgTechName_儒圣馆_解锁dlc一指禅,Martial Art: Zen Finger
+SlgTechName_儒圣馆_解锁dlc龙蛇笔法,Martial Art: Dragon Snake Pen
+SlgTechName_儒圣馆_解锁dlc流云飞扇,Martial Art: Drifting Cloud Fan
+SlgTechName_儒圣馆_解锁dlc泛沧浪,Martial Art: Floating Blue
+SlgTechName_儒圣馆_解锁dlc通天手,Martial Art: Omnipotent Hand
+SlgTechName_儒圣馆_解锁dlc曹全碑,Martial Art: Cao Quan Steele
+SlgTechName_儒圣馆_解锁dlc逍遥游,Martial Art: Carefree Life
+SlgTechName_儒圣馆_解锁dlc高山流水,Martial Art: Mountain and River
+SlgTechName_儒圣馆_解锁dlc灭天掌,Martial Art: Sky Destroyer Palm
+SlgTechName_儒圣馆_解锁dlc江山多娇,Martial Art: Country Full of Beauties
+SlgTechName_儒圣馆_解锁dlc扇舞春秋,Martial Art: Spring and Autumn Fan
+SlgTechName_儒圣馆_解锁dlc广陵散,Martial Art: Guangling Melody
+SlgTechName_儒圣馆_解锁dlc儒雅风流,Martial Art: Elegant Romanticist
+SlgTechName_儒圣馆_解锁dlc盛世春秋,Martial Art: Glorious Era
+SlgTechName_儒圣馆_解锁dlc儒十三经,Martial Art: Confucius Thirteen Sutras
+SlgTechName_道玄宗_解锁dlc太乙剑法,Martial Art: Taiyi Sword
+SlgTechName_道玄宗_解锁dlc须弥剑法,Martial Art: Sumeru Sword
+SlgTechName_道玄宗_解锁dlc七巧如意手,Martial Art: Dexterous Hand
+SlgTechName_道玄宗_解锁dlc逍遥拳法,Martial Art: Carefree Fist
+SlgTechName_道玄宗_解锁dlc太极剑法,Martial Art: Taichi Sword
+SlgTechName_道玄宗_解锁dlc岁寒三友,Martial Art: Three Friends of Winter
+SlgTechName_道玄宗_解锁dlc醉仙拳,Martial Art: Wine God Fist
+SlgTechName_道玄宗_解锁dlc太极拳,Martial Art: Taichi Fist
+SlgTechName_道玄宗_解锁dlc无极剑法,Martial Art: Infinity Sword
+SlgTechName_道玄宗_解锁dlc贯云指,Martial Art: Cloud Piercing Finger
+SlgTechName_道玄宗_解锁dlc凌波诀,Martial Art: Wave Rider Technique
+SlgTechName_道玄宗_解锁dlc太极玄,Martial Art: Nether Taichi
+SlgTechName_道玄宗_解锁dlc无极混元功,Martial Art: Infinity Origin Move
+SlgTechName_九流门_解锁dlc黑虎拳,Martial Art: Black Tiger Fist
+SlgTechName_九流门_解锁dlc雷云掌,Martial Art: Thundercloud Palm
+SlgTechName_九流门_解锁dlc伤情别离掌,Martial Art: Breakup Palm
+SlgTechName_九流门_解锁dlc断魂爪,Martial Art: Soul Destroyer Claw
+SlgTechName_九流门_解锁dlc撼天指法,Martial Art: Heaven Shaking Finger
+SlgTechName_九流门_解锁dlc玄煞劲,Martial Art: Nether Killing Force
+SlgTechName_九流门_解锁dlc玄阴诀,Martial Art: Nether Yin Manual
+SlgTechName_九流门_解锁dlc天魔噬魂术,Martial Art: Archdemon's Soul Eating Skill
+SlgTechName_妙音坊_解锁dlc阳春白雪,Martial Art: Spring White Snow
+SlgTechName_妙音坊_解锁dlc阳关三叠,Martial Art: Triassis Yangguan
+SlgTechName_妙音坊_解锁dlc音波功,Martial Art: Soundwave Attack
+SlgTechName_妙音坊_解锁dlc汉宫秋月,Martial Art: Autumn Palace Moon
+SlgTechName_妙音坊_解锁dlc蝶舞天涯,Martial Art: Dancing Butterfly Over Skyline
+SlgTechName_妙音坊_解锁dlc鹧鸪天,Martial Art: Partridge Day
+SlgTechName_妙音坊_解锁dlc十面埋伏,Martial Art: Full Directional Ambush
+SlgTechName_妙音坊_解锁dlc傲江湖,Martial Art: Proud Wanderer
+SlgTechName_妙音坊_解锁dlc碧涧流泉,Martial Art: Flowing Mountain Stream
+SlgTechName_妙音坊_解锁dlc凌波诀,Martial Art: Wave Rider Technique
+SlgTechName_妙音坊_解锁dlc洛神步,Martial Art: God Step
+SlgTechName_妙音坊_解锁dlc霓裳羽衣经,Martial Art: Dancing Garment Sutra
+SlgTechName_九黎部落_解锁dlc腐尸枪法,Martial Art: Rotting Spear
+SlgTechName_九黎部落_解锁dlc暗香凌波,Martial Art: Hidden Fragrance Wave
+SlgTechName_九黎部落_解锁dlc黄泉引路枪,Martial Arts: Death Bringer Spear
+SlgTechName_九黎部落_解锁dlc梅花三弄,Martial Arts: Plum Flower Three Lanes
+SlgTechName_九黎部落_解锁dlc九黎巫叉,Martial Arts: Jiuli Trident
+SlgTechName_九黎部落_解锁dlc万蛊谣,Martial Arts: Ancient Song
+SlgTechName_九黎部落_解锁dlc腐毒功,Martial Arts: Poison Technique
+SlgTechName_九黎部落_解锁dlc罗刹毒经,Martial Arts: Raksha Poison Sutra
+SlgTechName_九黎部落_解锁dlc巫蛊毒功,Martial Arts: Ancient Sage Poison Technique
+SlgTechName_九江水寨_解锁dlc开山刀法,Martial Arts: Mountain Clear Blade
+SlgTechName_九江水寨_解锁dlc疾风刺,Martial Arts: Wind Stab
+SlgTechName_九江水寨_解锁dlc狂风扇诀,Martial Arts: Tornado Fan
+SlgTechName_九江水寨_解锁dlc怒流刀法,Martial Arts: Furious Blade
+SlgTechName_九江水寨_解锁dlc银蛇流光,Martial Arts: Silver Snake Mirage
+SlgTechName_九江水寨_解锁dlc风卷残云式,Martial Arts: Storming Cloud Fan
+SlgTechName_九江水寨_解锁dlc吞鲸刀法,Martial Arts: Devouring Blade
+SlgTechName_九江水寨_解锁dlc天外流星,Martial Arts: Shooting Star
+SlgTechName_九江水寨_解锁dlc蝶恋花,Martial Arts: Flirting Butterfly
+SlgTechName_九江水寨_解锁dlc凌波诀,Martial Art: Wave Rider Technique
+SlgTechName_九江水寨_解锁dlc海纳百川,Martial Arts: Great Ocean Manual
+SlgTechName_九江水寨_解锁dlc惊涛骇浪诀,Martial Arts: Tsunami Manual
+SlgTechName_本草门_解锁dlc浣纱剑法,Martial Arts: Huansha Sword
+SlgTechName_本草门_解锁dlc莲花妙剑,Martial Arts: Lotus Flower Sword
+SlgTechName_本草门_解锁dlc素女剑法,Martial Arts: Pure Maiden Sword
+SlgTechName_本草门_解锁dlc凌尘剑法,Martial Arts: Mortal Sword
+SlgTechName_本草门_解锁dlc金匮要略,Martial Arts: Golden Manual
+SlgTechName_本草门_解锁dlc四圣心源,Martial Arts: Four Saints Origin
+SlgTechName_万兽山庄_解锁dlc蟠龙棍法,Martial Arts: Dragon Staff
+SlgTechName_万兽山庄_解锁dlc太乙剑法,Martial Art: Taiyi Sword
+SlgTechName_万兽山庄_解锁dlc云林棍法,Martial Arts: Cloud Forest Staff
+SlgTechName_万兽山庄_解锁dlc太虚十八剑,Martial Arts: Taixu Eighteen Swords
+SlgTechName_万兽山庄_解锁dlc天罡飞龙杖,Martial Arts: Polaris Wyvern Staff
+SlgTechName_万兽山庄_解锁dlc浮华掠影剑,Martial Arts: Illusion Sword
+SlgTechName_万兽山庄_解锁dlc御兽术,Martial Arts: Beast Taming Skill
+SlgTechName_万兽山庄_解锁dlc兽吼功,Martial Arts: Beast Howling Move
+SlgTechName_万兽山庄_解锁dlc兽王诀,Martial Arts: Beast King Technique
+SlgTechName_燕子窝_解锁dlc破空梭,Martial Arts: Wind Breaker
+SlgTechName_燕子窝_解锁dlc疾风刺,Martial Arts: Wind Stab
+SlgTechName_燕子窝_解锁dlc风雷刺法,Martial Arts: Thunderstorm Strike
+SlgTechName_燕子窝_解锁dlc云龙三现,Martial Arts: Cloud Dragon Three Strikes
+SlgTechName_燕子窝_解锁dlc刺秦要诀,Martial Arts: Killer's Secret
+SlgTechName_燕子窝_解锁dlc捕风诀,Martial Arts: Wind Walker Manual
+SlgTechName_燕子窝_解锁dlc凌云步,Martial Arts: Cloud Walker Step
+SlgTechName_燕子窝_解锁dlc天女散花,Martial Arts: Celestial Lady Scattering Flowers
+SlgTechName_神捕门_解锁dlc须弥剑法,Martial Art: Sumeru Sword
+SlgTechName_神捕门_解锁dlc风沙刀法,Martial Arts: Sandstorm Blade
+SlgTechName_神捕门_解锁dlc贪狼剑法,Martial Arts: Flirting Star Sword
+SlgTechName_神捕门_解锁dlc盘空刀法,Martial Arts: Empty Blade
+SlgTechName_神捕门_解锁dlc磐龙剑法,Martial Arts: Dragon Sword
+SlgTechName_神捕门_解锁dlc天魔刀法,Martial Arts: Archdemon Blade
+SlgTechName_神捕门_解锁dlc莽牛劲,Martial Arts: Ox Power
+SlgTechName_神捕门_解锁dlc纯阳功,Martial Arts: Pure Yang Skill
+SlgTechName_神捕门_解锁dlc祈禳大法,Martial Arts: Prayer Manual
+SlgTechName_虎威镖局_解锁dlc破甲刀法,Martial Arts: Armor Breaker Blade
+SlgTechName_虎威镖局_解锁dlc雁行刀法,Martial Arts: Wild Goose Blade
+SlgTechName_虎威镖局_解锁dlc霹雳刀法,Martial Arts: Thunder Blade
+SlgTechName_虎威镖局_解锁dlc一刀斩,Martial Arts: One Blade
+SlgTechName_虎威镖局_解锁dlc破甲劲,Martial Arts: Armor Breaker Move
+SlgTechName_虎威镖局_解锁dlc五禽戏,Martial Arts: Five Animal Forms
+SlgTechName_夜摩坊_解锁dlc游龙剑法,Martial Arts: Dragon Roaming Sword
+SlgTechName_夜摩坊_解锁dlc九宫剑法,Martial Arts: Nine Diagrams Sword
+SlgTechName_夜摩坊_解锁dlc星月剑法,Martial Arts: Moon Star Sword
+SlgTechName_夜摩坊_解锁dlc忘忧剑法,Martial Arts: Forgotten Sword
+SlgTechName_夜摩坊_解锁dlc调息法,Martial Arts: Breathing Technique
+SlgTechName_夜摩坊_解锁dlc天星诀,Martial Arts: Celestial Star Manual
+SlgTechName_琅琊剑阁_解锁dlc回风剑法,Martial Arts: Wind Reversal Sword
+SlgTechName_琅琊剑阁_解锁dlc九宫剑法,Martial Arts: Nine Diagrams Sword
+SlgTechName_琅琊剑阁_解锁dlc苍穹剑法,Martial Arts: Heaven Sword
+SlgTechName_琅琊剑阁_解锁dlc求败九式,Martial Arts: Dugu Nine Swords
+SlgTechName_琅琊剑阁_解锁dlc破天剑法,Martial Arts: Sky Breaker Sword
+SlgTechName_琅琊剑阁_解锁dlc剑法典籍,Martial Arts: Sword Mastery
+SlgTechName_琅琊剑阁_解锁dlc藏剑秘卷,Martial Arts: Hidden Sword Secret Manual
+SlgTechName_琅琊剑阁_解锁dlc九霄真经,Martial Arts: Heaven Sutra
+SlgTechName_摸金门_解锁dlc蟠龙棍法,Martial Arts: Dragon Staff
+SlgTechName_摸金门_解锁dlc大力棍法,Martial Arts: Brutal Staff
+SlgTechName_摸金门_解锁dlc疯魔棍法,Martial Arts: Insanity Staff
+SlgTechName_摸金门_解锁dlc混元棍法,Martial Arts: Origin Staff
+SlgTechName_摸金门_解锁dlc破甲劲,Martial Arts: Armor Breaker Move
+SlgTechName_摸金门_解锁dlc寻龙术,Martial Arts: Dragon Seeker Manual
+SlgTechName_青风寨_解锁dlc修罗刀法,Martial Arts: Shura Blade
+SlgTechName_青风寨_解锁dlc开山刀法,Martial Arts: Mountain Clear Blade
+SlgTechName_青风寨_解锁dlc七旋斩,Martial Arts: Seven Spins Blade
+SlgTechName_青风寨_解锁dlc碧磷刀法,Martial Arts: Jade Blade
+SlgTechName_青风寨_解锁dlc莽牛劲,Martial Arts: Ox Power
+SlgTechName_青风寨_解锁dlc莽苍诀,Martial Arts: Reckless Sky Technique
+SlgTechName_叶家军_解锁dlc破阵大枪,Martial Arts: Formation Breaker Spear
+SlgTechName_叶家军_解锁dlc六合枪法,Martial Arts: Six Forms Spear
+SlgTechName_叶家军_解锁dlc叶家枪法,Martial Arts: Ye Family Spear
+SlgTechName_叶家军_解锁dlc七杀枪法,Martial Arts: Power Star Spear
+SlgTechName_叶家军_解锁dlc沥泉枪法,Martial Arts: Slipstream Spear
+SlgTechName_叶家军_解锁dlc破甲劲,Martial Arts: Armor Breaker Move
+SlgTechName_叶家军_解锁dlc武穆秘典,Martial Arts: Yue Fei Secret Manual
+SlgTechName_叶家军_解锁dlc满江红,Martial Arts: Prismatic River
+SlgTechName_冷皮帮_解锁dlc修罗刀法,Martial Arts: Shura Blade
+SlgTechName_冷皮帮_解锁dlc迷魂毒掌,Martial Arts: Enchanted Poison Palm
+SlgTechName_冷皮帮_解锁dlc破军刀法,Martial Arts: Ruinous Star Blade
+SlgTechName_冷皮帮_解锁dlc碧落黄泉,Martial Arts: Death Road
+SlgTechName_冷皮帮_解锁dlc斩天刀法,Martial Arts: Heaven Cutting Blade Technique
+SlgTechName_冷皮帮_解锁dlc紫薇惊龙掌,Martial Arts: Dragon King Palm
+SlgTechName_冷皮帮_解锁dlc调息法,Martial Arts: Breathing Technique
+SlgTechName_冷皮帮_解锁dlc五毒秘法,Martial Arts: Five Poisons Secret Move
+SlgTechName_冷皮帮_解锁dlc火蟾诀,Martial Arts: Flame Toad Technique
+SlgTechName_圣火宗_解锁dlc回风剑法,Martial Arts: Wind Reversal Sword
+SlgTechName_圣火宗_解锁dlc连环掌,Martial Art: Continuous Palm
+SlgTechName_圣火宗_解锁dlc广寒剑法,Martial Arts: Moon Palace Sword
+SlgTechName_圣火宗_解锁dlc破空拳,Martial Arts: Breakthrough Fist
+SlgTechName_圣火宗_解锁dlc无锋剑法,Martial Arts: Windless Sword
+SlgTechName_圣火宗_解锁dlc烈阳拳,Martial Arts: Solar Fist
+SlgTechName_圣火宗_解锁dlc混元劲,Martial Arts: Origin Technique
+SlgTechName_圣火宗_解锁dlc圣火燎原,Martial Arts: Holy Flame Spreading
+SlgTechName_圣火宗_解锁dlc圣火神功,Martial Arts: Holy Fire Divine Skill
+SlgTechName_儒圣馆_特征1,Trait: Instant death
+SlgTechName_儒圣馆_特征2,Trait: Critical Damage
+SlgTechName_儒圣馆_特征3,Trait: Ruthless Hand
+SlgTechName_儒圣馆_特征4,Trait: Cloud Breaking Power
+SlgTechName_儒圣馆_特征5,Trait: Weapon Blessing
+SlgTechName_儒圣馆_特征6,Trait: Damage Boost
+SlgTechName_儒圣馆_特征7,Trait: Stalwart
+SlgTechName_道玄宗_特征1,Trait: Enemy Chasing
+SlgTechName_道玄宗_特征2,Trait: Survival in Adversity
+SlgTechName_道玄宗_特征3,Trait: Light as a Feather
+SlgTechName_道玄宗_特征4,Trait: Fast Response
+SlgTechName_道玄宗_特征5,Trait: Brave Charge
+SlgTechName_道玄宗_特征6,Trait: Light Body
+SlgTechName_道玄宗_特征7,Trait: Shadow Following
+SlgTechName_释法寺_特征1,Trait: Damage Reflect
+SlgTechName_释法寺_特征2,Trait: Wall of Steel
+SlgTechName_释法寺_特征3,Trait: Clear Mind and Few Desires
+SlgTechName_释法寺_特征4,Trait: Strong Body and Muscles
+SlgTechName_释法寺_特征5,Trait: Armor Blessing
+SlgTechName_释法寺_特征6,Trait: Iron Body
+SlgTechName_释法寺_特征7,Trait: Hardened
+SlgTechName_九流门_特征1,Trait: Back from the Brink
+SlgTechName_九流门_特征2,Trait: Continuous Assault
+SlgTechName_九流门_特征3,Trait: Tactical Strategist
+SlgTechName_九流门_特征4,Trait: Enemy Damage Recovery
+SlgTechName_九流门_特征5,Trait: MP Conservation
+SlgTechName_九流门_特征6,Trait: HP Boost
+SlgTechName_九流门_特征7,Trait: Critical Boost
+SlgTechName_妙音坊_特征1,Trait: Insightful
+SlgTechName_妙音坊_特征2,Trait: Rapid Response
+SlgTechName_妙音坊_特征3,Trait: Aura Disruption
+SlgTechName_妙音坊_特征4,Trait: Evasion Enhancement
+SlgTechName_妙音坊_特征5,Trait: Divine Flame Protection
+SlgTechName_妙音坊_特征6,Trait: Critical Boost
+SlgTechName_妙音坊_特征7,Trait: Shadow Following
+SlgTechName_九黎部落_特征1,Trait: Martial Arts Disruption
+SlgTechName_九黎部落_特征2,Trait: Follower's Path
+SlgTechName_九黎部落_特征3,Trait: Weapon Blessing
+SlgTechName_九黎部落_特征4,Trait: Flute Critical
+SlgTechName_九黎部落_特征5,Trait: Staff and Spear Protection
+SlgTechName_九黎部落_特征6,Trait: Evasion Boost
+SlgTechName_九黎部落_特征7,Trait: Damage Boost
+SlgTechName_九江水寨_特征1,Trait: Mark Increase Roll
+SlgTechName_九江水寨_特征2,Trait: Mark Counter
+SlgTechName_九江水寨_特征3,Trait: Chain Reaction
+SlgTechName_九江水寨_特征4,Trait: Weapon Blessing
+SlgTechName_九江水寨_特征5,Trait: Damage Enhancement
+SlgTechName_九江水寨_特征6,Trait: Critical Boost
+SlgTechName_九江水寨_特征7,Trait: Damage Boost
+SlgTechName_本草门_特征1,Trait: Immunity Barrier
+SlgTechName_本草门_特征2,Trait: Back from the Brink
+SlgTechName_本草门_特征3,Trait: HP Enhancement
+SlgTechName_本草门_特征4,Trait: Self-healing when Hit
+SlgTechName_本草门_特征5,Trait: Emergency Self-rescue
+SlgTechName_本草门_特征6,Trait: Iron Body
+SlgTechName_本草门_特征7,Trait: Hardened
+SlgTechName_万兽山庄_特征1,Trait: Beast Taming Ability
+SlgTechName_万兽山庄_特征2,Trait: Beast Taming Technique
+SlgTechName_万兽山庄_特征3,Trait: Animal Hunter
+SlgTechName_万兽山庄_特征4,Trait: HP Enhancement
+SlgTechName_万兽山庄_特征5,Trait: Armor Blessing
+SlgTechName_万兽山庄_特征6,Trait: Evasion Boost
+SlgTechName_万兽山庄_特征7,Trait: Shadow Following
+SlgTechName_燕子窝_特征1,Trait: Immune to Back Attack
+SlgTechName_燕子窝_特征2,Trait: Immune to Side Attack
+SlgTechName_燕子窝_特征3,Trait: Shadow-like
+SlgTechName_燕子窝_特征4,Trait: Back Attack Breaker
+SlgTechName_燕子窝_特征5,Trait: Side Attack Breaker
+SlgTechName_燕子窝_特征6,Trait: Quick Reflex
+SlgTechName_燕子窝_特征7,Trait: Stalwart
+SlgTechName_神捕门_特征1,Trait: Instant death
+SlgTechName_神捕门_特征2,Trait: Critical Damage
+SlgTechName_神捕门_特征3,Trait: Divine Flame Protection
+SlgTechName_神捕门_特征4,Trait: Cloud Breaking Power
+SlgTechName_神捕门_特征5,Trait: Weapon Blessing
+SlgTechName_神捕门_特征6,Trait: Damage Boost
+SlgTechName_神捕门_特征7,Trait: Critical Boost
+SlgTechName_虎威镖局_特征1,Trait: Enemy Chasing
+SlgTechName_虎威镖局_特征2,Trait: Critical Damage
+SlgTechName_虎威镖局_特征3,Trait: Armor Blessing
+SlgTechName_虎威镖局_特征4,Trait: Parry Enhancement
+SlgTechName_虎威镖局_特征5,Trait: Critical Enhancement
+SlgTechName_虎威镖局_特征6,Trait: Damage Boost
+SlgTechName_虎威镖局_特征7,Trait: Stalwart
+SlgTechName_夜摩坊_特征1,Trait: Immune to Control
+SlgTechName_夜摩坊_特征2,Trait: Wall of Steel
+SlgTechName_夜摩坊_特征3,Trait: MP Enhancement
+SlgTechName_夜摩坊_特征4,Trait: Cloud Breaking Power
+SlgTechName_夜摩坊_特征5,Trait: Damage Enhancement
+SlgTechName_夜摩坊_特征6,Trait: Stalwart
+SlgTechName_夜摩坊_特征7,Trait: Light Body
+SlgTechName_琅琊剑阁_特征1,Trait: Critical Critical
+SlgTechName_琅琊剑阁_特征2,Trait: Sword Defense Increases Damage
+SlgTechName_琅琊剑阁_特征3,Trait: Sword Intent
+SlgTechName_琅琊剑阁_特征4,Trait: Damage Enhancement
+SlgTechName_琅琊剑阁_特征5,Trait: Precision
+SlgTechName_琅琊剑阁_特征6,Trait: Critical Boost
+SlgTechName_琅琊剑阁_特征7,Trait: Sword Boost
+SlgTechName_摸金门_特征1,Trait: Lost in Dream
+SlgTechName_摸金门_特征2,Trait: Hidden Blade
+SlgTechName_摸金门_特征3,Trait: Fast Response
+SlgTechName_摸金门_特征4,Trait: Strong Body and Muscles
+SlgTechName_摸金门_特征5,Trait: Armor Blessing
+SlgTechName_摸金门_特征6,Trait: Iron Body
+SlgTechName_摸金门_特征7,Trait: Hardened
+SlgTechName_青风寨_特征1,Trait: Critical Damage
+SlgTechName_青风寨_特征2,Trait: Critical Critical
+SlgTechName_青风寨_特征3,Trait: Brave Charge
+SlgTechName_青风寨_特征4,Trait: Damage Enhancement
+SlgTechName_青风寨_特征5,Trait: Critical Enhancement
+SlgTechName_青风寨_特征6,Trait: Attack Boost
+SlgTechName_青风寨_特征7,Trait: Stalwart
+SlgTechName_叶家军_特征1,Trait: Coordinated Defense
+SlgTechName_叶家军_特征2,Trait: Enemy Chasing
+SlgTechName_叶家军_特征3,Trait: Weapon Blessing
+SlgTechName_叶家军_特征4,Trait: Armor Blessing
+SlgTechName_叶家军_特征5,Trait: Damage Enhancement
+SlgTechName_叶家军_特征6,Trait: Parry Boost
+SlgTechName_叶家军_特征7,Trait: Critical Boost
+SlgTechName_冷皮帮_特征1,Trait: Preeminent
+SlgTechName_冷皮帮_特征2,Trait: Windwalker
+SlgTechName_冷皮帮_特征3,Trait: Damage Enhancement
+SlgTechName_冷皮帮_特征4,Trait: Combo Enhancement
+SlgTechName_冷皮帮_特征5,Trait: Critical Enhancement
+SlgTechName_冷皮帮_特征6,Trait: Attack Boost
+SlgTechName_冷皮帮_特征7,Trait: Stalwart
+SlgTechName_圣火宗_特征1,Trait: Spirit of Steel
+SlgTechName_圣火宗_特征2,Trait: Heart of Defender
+SlgTechName_圣火宗_特征3,Trait: Divine Flame Protection
+SlgTechName_圣火宗_特征4,Trait: Armor Blessing
+SlgTechName_圣火宗_特征5,Trait: Strong Body and Muscles
+SlgTechName_圣火宗_特征6,Trait: Light Body
+SlgTechName_圣火宗_特征7,Trait: Hardened
+SlgTechName_通用_武功实战经验提升1,Martial Arts EXP Increase 1
+SlgTechName_通用_武功实战经验提升2,Martial Arts EXP Increase 2
+SlgTechName_通用_武功实战经验提升3,Martial Arts EXP Increase 3
+SlgTechInfo_通用_快速战斗,Unlock Quick Battle feature.
+SlgTechInfo_释法寺_解锁dlc连环掌,Allow Sect Disciple to comprehend martial arts:
+SlgTechInfo_释法寺_解锁dlc罗汉拳法,Unlock martial arts for Sect: Arhat Fist.
+SlgTechInfo_释法寺_解锁dlc普渡杖法,Unlock martial arts for Sect: Enlighten Staff.
+SlgTechInfo_释法寺_解锁dlc韦陀杖法,Unlock martial arts for Sect: Veda Staff.
+SlgTechInfo_释法寺_解锁dlc般若掌,Unlock martial arts for Sect: Prajna Palm.
+SlgTechInfo_释法寺_解锁dlc大力金刚掌,Unlock martial arts for Sect: Powerful Diamond Palm.
+SlgTechInfo_释法寺_解锁dlc金刚降魔杵,Unlock martial arts for Sect: Evil Destroyer Diamond Staff.
+SlgTechInfo_释法寺_解锁dlc紧那罗王棍,Unlock martial arts for Sect: Kinnara Staff.
+SlgTechInfo_释法寺_解锁dlc如来神掌,Unlock martial arts for Sect: Vairocana Godly Palm.
+SlgTechInfo_释法寺_解锁dlc达摩杖法,Unlock martial arts for Sect: Dharma Staff.
+SlgTechInfo_释法寺_解锁dlc金钟罩,Unlock martial arts for Sect: Golden Bell Technique.
+SlgTechInfo_释法寺_解锁dlc横练金身,Unlock martial arts for Sect: Forging Golden Body.
+SlgTechInfo_释法寺_解锁dlc大日如来经,Unlock martial arts for Sect: Vairocana Solar Sutra.
+SlgTechInfo_儒圣馆_解锁dlc一指禅,Unlock martial arts for Sect: Zen Finger.
+SlgTechInfo_儒圣馆_解锁dlc龙蛇笔法,Unlock martial arts for Sect: Dragon Snake Pen.
+SlgTechInfo_儒圣馆_解锁dlc流云飞扇,Unlock martial arts for Sect: Drifting Cloud Fan.
+SlgTechInfo_儒圣馆_解锁dlc泛沧浪,Unlock martial arts for Sect: Floating Blue.
+SlgTechInfo_儒圣馆_解锁dlc通天手,Unlock martial arts for Sect: Omnipotent Hand.
+SlgTechInfo_儒圣馆_解锁dlc曹全碑,Unlock martial arts for Sect: Cao Quan Steele.
+SlgTechInfo_儒圣馆_解锁dlc逍遥游,Unlock martial arts for Sect: Carefree Life.
+SlgTechInfo_儒圣馆_解锁dlc高山流水,Unlock martial arts for Sect: Mountain and River.
+SlgTechInfo_儒圣馆_解锁dlc灭天掌,Unlock martial arts for Sect: Sky Destroyer Palm.
+SlgTechInfo_儒圣馆_解锁dlc江山多娇,Unlock martial arts for Sect: Country Full of Beauties.
+SlgTechInfo_儒圣馆_解锁dlc扇舞春秋,Unlock martial arts for Sect: Spring and Autumn Fan.
+SlgTechInfo_儒圣馆_解锁dlc广陵散,Unlock martial arts for Sect: Guangling Melody.
+SlgTechInfo_儒圣馆_解锁dlc儒雅风流,Unlock martial arts for Sect: Elegant Romanticist.
+SlgTechInfo_儒圣馆_解锁dlc盛世春秋,Unlock martial arts for Sect: Glorious Era.
+SlgTechInfo_儒圣馆_解锁dlc儒十三经,Unlock martial arts for Sect: Confucius Thirteen Sutras.
+SlgTechInfo_道玄宗_解锁dlc太乙剑法,Unlock martial arts for Sect: Taiyi Sword.
+SlgTechInfo_道玄宗_解锁dlc须弥剑法,Unlock martial arts for Sect: Sumeru Sword.
+SlgTechInfo_道玄宗_解锁dlc七巧如意手,Unlock martial arts for Sect: Dexterous Hand.
+SlgTechInfo_道玄宗_解锁dlc逍遥拳法,Unlock martial arts for Sect: Carefree Fist.
+SlgTechInfo_道玄宗_解锁dlc太极剑法,Unlock martial arts for the sect: Taichi Sword.
+SlgTechInfo_道玄宗_解锁dlc岁寒三友,Unlock martial arts for the sect: Three Friends of Winter.
+SlgTechInfo_道玄宗_解锁dlc醉仙拳,Unlock martial arts for the sect: Wine God Fist.
+SlgTechInfo_道玄宗_解锁dlc太极拳,Unlock martial arts for the sect: Taichi Fist.
+SlgTechInfo_道玄宗_解锁dlc无极剑法,Unlock martial arts for the sect: Infinity Sword.
+SlgTechInfo_道玄宗_解锁dlc贯云指,Unlock martial arts for the sect: Cloud Piercing Finger.
+SlgTechInfo_道玄宗_解锁dlc凌波诀,Unlock martial arts for the sect: Wave Rider Technique.
+SlgTechInfo_道玄宗_解锁dlc太极玄,Unlock martial arts for the sect: Nether Taichi.
+SlgTechInfo_道玄宗_解锁dlc无极混元功,Unlock martial arts for the sect: Infinity Origin Move.
+SlgTechInfo_九流门_解锁dlc黑虎拳,Unlock martial arts for the sect: Black Tiger Fist.
+SlgTechInfo_九流门_解锁dlc雷云掌,Unlock martial arts for the sect: Thundercloud Palm.
+SlgTechInfo_九流门_解锁dlc伤情别离掌,Unlock martial arts for the sect: Breakup Palm.
+SlgTechInfo_九流门_解锁dlc断魂爪,Unlock martial arts for the sect: Soul Destroyer Claw.
+SlgTechInfo_九流门_解锁dlc撼天指法,Unlock martial arts for the sect: Heaven Shaking Finger.
+SlgTechInfo_九流门_解锁dlc玄煞劲,Unlock martial arts for the sect: Nether Killing Force.
+SlgTechInfo_九流门_解锁dlc玄阴诀,Unlock martial arts for the sect: Nether Yin Manual.
+SlgTechInfo_九流门_解锁dlc天魔噬魂术,Unlock martial arts for the sect: Archdemon's Soul Eating Skill.
+SlgTechInfo_妙音坊_解锁dlc阳春白雪,Unlock martial arts for the sect: Spring White Snow.
+SlgTechInfo_妙音坊_解锁dlc阳关三叠,Unlock martial arts for the sect: Triassis Yangguan.
+SlgTechInfo_妙音坊_解锁dlc音波功,Unlock martial arts for the sect: Soundwave Attack.
+SlgTechInfo_妙音坊_解锁dlc汉宫秋月,Unlock martial arts for the sect: Autumn Palace Moon.
+SlgTechInfo_妙音坊_解锁dlc蝶舞天涯,Unlock martial arts for the sect: Dancing Butterfly Over Skyline.
+SlgTechInfo_妙音坊_解锁dlc鹧鸪天,Unlock martial arts for the sect: Partridge Day.
+SlgTechInfo_妙音坊_解锁dlc十面埋伏,Unlock martial arts for the sect: Full Directional Ambush.
+SlgTechInfo_妙音坊_解锁dlc傲江湖,Unlock martial arts for the sect: Proud Wanderer.
+SlgTechInfo_妙音坊_解锁dlc碧涧流泉,Unlock martial arts for the sect: Flowing Mountain Stream.
+SlgTechInfo_妙音坊_解锁dlc凌波诀,Unlock martial arts for the sect: Wave Rider Technique.
+SlgTechInfo_妙音坊_解锁dlc洛神步,Unlock martial arts for the sect: God Step.
+SlgTechInfo_妙音坊_解锁dlc霓裳羽衣经,Unlock martial arts for the sect: Dancing Garment Sutra.
+SlgTechInfo_九黎部落_解锁dlc腐尸枪法,Unlock martial arts for the sect: Rotting Spear.
+SlgTechInfo_九黎部落_解锁dlc暗香凌波,Unlock martial arts for the sect: Hidden Fragrance Wave.
+SlgTechInfo_九黎部落_解锁dlc黄泉引路枪,Unlock martial arts for the sect: Death Bringer Spear.
+SlgTechInfo_九黎部落_解锁dlc梅花三弄,Unlock martial arts for the sect: Plum Flower Three Lanes.
+SlgTechInfo_九黎部落_解锁dlc九黎巫叉,Unlock martial arts for the sect: Jiuli Trident.
+SlgTechInfo_九黎部落_解锁dlc万蛊谣,Unlock martial arts for the sect: Ancient Song.
+SlgTechInfo_九黎部落_解锁dlc腐毒功,Unlock martial arts for the sect: Poison Technique.
+SlgTechInfo_九黎部落_解锁dlc罗刹毒经,Unlock martial arts for the sect: Raksha Poison Sutra.
+SlgTechInfo_九黎部落_解锁dlc巫蛊毒功,Unlock martial arts for the sect: Ancient Sage Poison Technique.
+SlgTechInfo_九江水寨_解锁dlc开山刀法,Unlock martial arts for the sect: Mountain Clear Blade.
+SlgTechInfo_九江水寨_解锁dlc疾风刺,Unlock martial arts for the sect: Wind Stab.
+SlgTechInfo_九江水寨_解锁dlc狂风扇诀,Unlock martial arts for the sect: Tornado Fan.
+SlgTechInfo_九江水寨_解锁dlc怒流刀法,Unlock martial arts for the sect: Furious Blade.
+SlgTechInfo_九江水寨_解锁dlc银蛇流光,Unlock martial arts for the sect: Silver Snake Mirage.
+SlgTechInfo_九江水寨_解锁dlc风卷残云式,Unlock martial arts for the sect: Storming Cloud Fan.
+SlgTechInfo_九江水寨_解锁dlc吞鲸刀法,Unlock martial arts for the sect: Devouring Blade.
+SlgTechInfo_九江水寨_解锁dlc天外流星,Unlock martial arts for the sect: Shooting Star.
+SlgTechInfo_九江水寨_解锁dlc蝶恋花,Unlock martial arts for the sect: Flirting Butterfly.
+SlgTechInfo_九江水寨_解锁dlc凌波诀,Unlock martial arts for the sect: Wave Rider Technique.
+SlgTechInfo_九江水寨_解锁dlc海纳百川,Unlock martial arts for the sect: Great Ocean Manual.
+SlgTechInfo_九江水寨_解锁dlc惊涛骇浪诀,Unlock martial arts for the sect: Tsunami Manual.
+SlgTechInfo_本草门_解锁dlc浣纱剑法,Unlock martial arts for the sect: Huansha Sword.
+SlgTechInfo_本草门_解锁dlc莲花妙剑,Unlock martial arts for the sect: Lotus Flower Sword.
+SlgTechInfo_本草门_解锁dlc素女剑法,Unlock martial arts for the sect: Pure Maiden Sword.
+SlgTechInfo_本草门_解锁dlc凌尘剑法,Unlock martial arts for the sect: Mortal Sword.
+SlgTechInfo_本草门_解锁dlc金匮要略,Unlock martial arts for the sect: Golden Manual.
+SlgTechInfo_本草门_解锁dlc四圣心源,Unlock martial arts for the sect: Four Saints Origin.
+SlgTechInfo_万兽山庄_解锁dlc蟠龙棍法,Unlock martial arts for the sect: Dragon Staff.
+SlgTechInfo_万兽山庄_解锁dlc太乙剑法,Unlock martial arts for Sect: Taiyi Sword.
+SlgTechInfo_万兽山庄_解锁dlc云林棍法,Unlock martial arts for the sect: Cloud Forest Staff.
+SlgTechInfo_万兽山庄_解锁dlc太虚十八剑,Unlock martial arts for the sect: Taixu Eighteen Swords.
+SlgTechInfo_万兽山庄_解锁dlc天罡飞龙杖,Unlock martial arts for the sect: Polaris Wyvern Staff.
+SlgTechInfo_万兽山庄_解锁dlc浮华掠影剑,Unlock martial arts for the sect: Illusion Sword.
+SlgTechInfo_万兽山庄_解锁dlc御兽术,Unlock martial arts for the sect: Beast Taming Skill.
+SlgTechInfo_万兽山庄_解锁dlc兽吼功,Unlock martial arts for the sect: Beast Howling Move.
+SlgTechInfo_万兽山庄_解锁dlc兽王诀,Unlock martial arts for the sect: Beast King Technique.
+SlgTechInfo_燕子窝_解锁dlc破空梭,Unlock martial arts for the sect: Wind Breaker.
+SlgTechInfo_燕子窝_解锁dlc疾风刺,Unlock martial arts for the sect: Wind Stab.
+SlgTechInfo_燕子窝_解锁dlc风雷刺法,Unlock martial arts for the sect: Thunderstorm Strike.
+SlgTechInfo_燕子窝_解锁dlc云龙三现,Unlock martial arts for the sect: Cloud Dragon Three Strikes.
+SlgTechInfo_燕子窝_解锁dlc刺秦要诀,Unlock martial arts for the sect: Killer's Secret.
+SlgTechInfo_燕子窝_解锁dlc捕风诀,Unlock martial arts for the sect: Wind Walker Manual.
+SlgTechInfo_燕子窝_解锁dlc凌云步,Unlock martial arts for the sect: Cloud Walker Step.
+SlgTechInfo_燕子窝_解锁dlc天女散花,Unlock martial arts for the sect: Celestial Lady Scattering Flowers.
+SlgTechInfo_神捕门_解锁dlc须弥剑法,Unlock martial arts for Sect: Sumeru Sword.
+SlgTechInfo_神捕门_解锁dlc风沙刀法,Unlock martial arts for the sect: Sandstorm Blade.
+SlgTechInfo_神捕门_解锁dlc贪狼剑法,Unlock martial arts for the sect: Flirting Star Sword.
+SlgTechInfo_神捕门_解锁dlc盘空刀法,Unlock martial arts for the sect: Empty Blade.
+SlgTechInfo_神捕门_解锁dlc磐龙剑法,Unlock martial arts for the sect: Dragon Sword.
+SlgTechInfo_神捕门_解锁dlc天魔刀法,Unlock martial arts for the sect: Archdemon Blade.
+SlgTechInfo_神捕门_解锁dlc莽牛劲,Unlock martial arts for the sect: Ox Power.
+SlgTechInfo_神捕门_解锁dlc纯阳功,Unlock martial arts for the sect: Pure Yang Skill.
+SlgTechInfo_神捕门_解锁dlc祈禳大法,Unlock martial arts for the sect: Prayer Manual.
+SlgTechInfo_虎威镖局_解锁dlc破甲刀法,Unlock martial arts for the sect: Armor Breaker Blade.
+SlgTechInfo_虎威镖局_解锁dlc雁行刀法,Unlock martial arts for the sect: Wild Goose Blade.
+SlgTechInfo_虎威镖局_解锁dlc霹雳刀法,Unlock martial arts for the sect: Thunder Blade.
+SlgTechInfo_虎威镖局_解锁dlc一刀斩,Unlock martial arts for the sect: One Blade.
+SlgTechInfo_虎威镖局_解锁dlc破甲劲,Unlock martial arts for the sect: Armor Breaker Move.
+SlgTechInfo_虎威镖局_解锁dlc五禽戏,Unlock martial arts for the sect: Five Animal Forms.
+SlgTechInfo_夜摩坊_解锁dlc游龙剑法,Unlock martial arts for the sect: Dragon Roaming Sword.
+SlgTechInfo_夜摩坊_解锁dlc九宫剑法,Unlock martial arts for the sect: Nine Diagrams Sword.
+SlgTechInfo_夜摩坊_解锁dlc星月剑法,Unlock martial arts for the sect: Moon Star Sword.
+SlgTechInfo_夜摩坊_解锁dlc忘忧剑法,Unlock martial arts for the sect: Forgotten Sword.
+SlgTechInfo_夜摩坊_解锁dlc调息法,Unlock martial arts for the sect: Breathing Technique.
+SlgTechInfo_夜摩坊_解锁dlc天星诀,Unlock martial arts for the sect: Celestial Star Manual.
+SlgTechInfo_琅琊剑阁_解锁dlc回风剑法,Unlock martial arts for the sect: Wind Reversal Sword.
+SlgTechInfo_琅琊剑阁_解锁dlc九宫剑法,Unlock martial arts for the sect: Nine Diagrams Sword.
+SlgTechInfo_琅琊剑阁_解锁dlc苍穹剑法,Unlock martial arts for the sect: Heaven Sword.
+SlgTechInfo_琅琊剑阁_解锁dlc求败九式,Unlock martial arts for the sect: Dugu Nine Swords.
+SlgTechInfo_琅琊剑阁_解锁dlc破天剑法,Unlock martial arts for the sect: Sky Breaker Sword.
+SlgTechInfo_琅琊剑阁_解锁dlc剑法典籍,Unlock martial arts for the sect: Sword Mastery.
+SlgTechInfo_琅琊剑阁_解锁dlc藏剑秘卷,Unlock martial arts for the sect: Hidden Sword Secret Manual.
+SlgTechInfo_琅琊剑阁_解锁dlc九霄真经,Unlock martial arts for the sect: Heaven Sutra.
+SlgTechInfo_摸金门_解锁dlc蟠龙棍法,Unlock martial arts for the sect: Dragon Staff.
+SlgTechInfo_摸金门_解锁dlc大力棍法,Unlock martial arts for the sect: Brutal Staff.
+SlgTechInfo_摸金门_解锁dlc疯魔棍法,Unlock martial arts for the sect: Insanity Staff.
+SlgTechInfo_摸金门_解锁dlc混元棍法,Unlock martial arts for the sect: Origin Staff.
+SlgTechInfo_摸金门_解锁dlc破甲劲,Unlock martial arts for the sect: Armor Breaker Move.
+SlgTechInfo_摸金门_解锁dlc寻龙术,Unlock martial arts for the sect: Dragon Seeker Manual.
+SlgTechInfo_青风寨_解锁dlc修罗刀法,Unlock martial arts for the sect: Shura Blade.
+SlgTechInfo_青风寨_解锁dlc开山刀法,Unlock martial arts for the sect: Mountain Clear Blade.
+SlgTechInfo_青风寨_解锁dlc七旋斩,Unlock martial arts for the sect: Seven Spins Blade.
+SlgTechInfo_青风寨_解锁dlc碧磷刀法,Unlock martial arts for the sect: Jade Blade.
+SlgTechInfo_青风寨_解锁dlc莽牛劲,Unlock martial arts for the sect: Ox Power.
+SlgTechInfo_青风寨_解锁dlc莽苍诀,Unlock martial arts for the sect: Reckless Sky Technique.
+SlgTechInfo_叶家军_解锁dlc破阵大枪,Unlock martial arts for the sect: Formation Breaker Spear.
+SlgTechInfo_叶家军_解锁dlc六合枪法,Unlock martial arts for the sect: Six Forms Spear.
+SlgTechInfo_叶家军_解锁dlc叶家枪法,Unlock martial arts for the sect: Ye Family Spear.
+SlgTechInfo_叶家军_解锁dlc七杀枪法,Unlock martial arts for the sect: Power Star Spear.
+SlgTechInfo_叶家军_解锁dlc沥泉枪法,Unlock martial arts for the sect: Slipstream Spear.
+SlgTechInfo_叶家军_解锁dlc破甲劲,Unlock martial arts for the sect: Armor Breaker Move.
+SlgTechInfo_叶家军_解锁dlc武穆秘典,Unlock martial arts for the sect: Yue Fei Secret Manual.
+SlgTechInfo_叶家军_解锁dlc满江红,Unlock martial arts for the sect: Prismatic River.
+SlgTechInfo_冷皮帮_解锁dlc修罗刀法,Unlock martial arts for the sect: Shura Blade.
+SlgTechInfo_冷皮帮_解锁dlc迷魂毒掌,Unlock martial arts for the sect: Enchanted Poison Palm.
+SlgTechInfo_冷皮帮_解锁dlc破军刀法,Unlock martial arts for the sect: Ruinous Star Blade.
+SlgTechInfo_冷皮帮_解锁dlc碧落黄泉,Unlock martial arts for the sect: Death Road.
+SlgTechInfo_冷皮帮_解锁dlc斩天刀法,Unlock martial arts for the sect: Heaven Cutting Blade Technique.
+SlgTechInfo_冷皮帮_解锁dlc紫薇惊龙掌,Unlock martial arts for the sect: Dragon King Palm.
+SlgTechInfo_冷皮帮_解锁dlc调息法,Unlock martial arts for the sect: Breathing Technique.
+SlgTechInfo_冷皮帮_解锁dlc五毒秘法,Unlock martial arts for the sect: Five Poisons Secret Move.
+SlgTechInfo_冷皮帮_解锁dlc火蟾诀,Unlock martial arts for the sect: Flame Toad Technique.
+SlgTechInfo_圣火宗_解锁dlc回风剑法,Unlock martial arts for the sect: Wind Reversal Sword.
+SlgTechInfo_圣火宗_解锁dlc连环掌,Unlock martial arts for the sect: Continuous Palm.
+SlgTechInfo_圣火宗_解锁dlc广寒剑法,Unlock martial arts for the sect: Moon Palace Sword.
+SlgTechInfo_圣火宗_解锁dlc破空拳,Unlock martial arts for the sect: Breakthrough Fist.
+SlgTechInfo_圣火宗_解锁dlc无锋剑法,Unlock martial arts for the sect: Windless Sword.
+SlgTechInfo_圣火宗_解锁dlc烈阳拳,Unlock martial arts for the sect: Solar Fist.
+SlgTechInfo_圣火宗_解锁dlc混元劲,Unlock martial arts for the sect: Origin Technique.
+SlgTechInfo_圣火宗_解锁dlc圣火燎原,Unlock martial arts for the sect: Holy Flame Spreading.
+SlgTechInfo_圣火宗_解锁dlc圣火神功,Unlock martial arts for the sect: Holy Fire Divine Skill.
+SlgTechInfo_儒圣馆_特征1,Unlock traits for the sect: 2 Instant death.
+SlgTechInfo_儒圣馆_特征2,Unlock traits for the sect: 2 Critical damage.
+SlgTechInfo_儒圣馆_特征3,Unlock traits for the sect: 3 Ruthless Hands.
+SlgTechInfo_儒圣馆_特征4,Unlock traits for the sect: 3 Cloud Breaking Power.
+SlgTechInfo_儒圣馆_特征5,Unlock traits for the sect: 3 Weapon Blessing.
+SlgTechInfo_儒圣馆_特征6,Unlock traits for the sect: 4 Damage Boost.
+SlgTechInfo_儒圣馆_特征7,Unlock traits for the sect: 4 Stalwart.
+SlgTechInfo_道玄宗_特征1,Unlock feature for the sect: Chasing Enemy 2.
+SlgTechInfo_道玄宗_特征2,Unlock feature for the sect: Survival in Adversity 2.
+SlgTechInfo_道玄宗_特征3,Unlock feature for the sect: Light as a Feather 3.
+SlgTechInfo_道玄宗_特征4,Unlock feature for the sect: Fast Response 3.
+SlgTechInfo_道玄宗_特征5,Unlock feature for the sect: Brave Charge 3.
+SlgTechInfo_道玄宗_特征6,Unlock feature for the sect: Light Body 4.
+SlgTechInfo_道玄宗_特征7,Unlock feature for the sect: Shadow Following 4.
+SlgTechInfo_释法寺_特征1,Unlock feature for the sect: Damage Reflect 2.
+SlgTechInfo_释法寺_特征2,Unlock feature for the sect: Wall of Steel 2.
+SlgTechInfo_释法寺_特征3,Unlock feature for the sect: Clear Mind and Few Desires 3.
+SlgTechInfo_释法寺_特征4,Unlock feature for the sect: Strong and Healthy Body 3.
+SlgTechInfo_释法寺_特征5,Unlock feature for the sect: Armor Blessing 3.
+SlgTechInfo_释法寺_特征6,Unlock feature for the sect: Copper Body and Iron Bones 4.
+SlgTechInfo_释法寺_特征7,Unlock feature for the sect: Hardened 4.
+SlgTechInfo_九流门_特征1,Unlock feature for the sect: Survival from Desperation 2.
+SlgTechInfo_九流门_特征2,Unlock feature for the sect: Continuous Assault 2.
+SlgTechInfo_九流门_特征3,Unlock feature for the sect: Tactical Strategist 3.
+SlgTechInfo_九流门_特征4,Unlock feature for the sect: Enemy Damage Recovery 3.
+SlgTechInfo_九流门_特征5,Unlock feature for the sect: MP Conservation 3.
+SlgTechInfo_九流门_特征6,Unlock feature for the sect: HP Increase 4.
+SlgTechInfo_九流门_特征7,Unlock feature for the sect: Critical Increase 4.
+SlgTechInfo_妙音坊_特征1,Unlock feature for the sect: Insightful 2.
+SlgTechInfo_妙音坊_特征2,Unlock feature for the sect: Rapid Response 2.
+SlgTechInfo_妙音坊_特征3,Unlock feature for the sect: Aura Disturbance 3.
+SlgTechInfo_妙音坊_特征4,Unlock feature for the sect: Evasion Enhancement 3.
+SlgTechInfo_妙音坊_特征5,Unlock feature for the sect: Divine Flame Protection 3.
+SlgTechInfo_妙音坊_特征6,Unlock feature for the sect: Critical Increase 4.
+SlgTechInfo_妙音坊_特征7,Unlock feature for the sect: Shadow Following 4.
+SlgTechInfo_九黎部落_特征1,Unlock feature for the sect: Martial Arts Disturbance 2.
+SlgTechInfo_九黎部落_特征2,Unlock feature for the sect: Follower's Path 2.
+SlgTechInfo_九黎部落_特征3,Unlock traits for the sect: 3 Weapon Blessing.
+SlgTechInfo_九黎部落_特征4,Unlock feature for the sect: Flute Sound Critical 3.
+SlgTechInfo_九黎部落_特征5,Unlock feature for the sect: Spear and Stick Protection 3.
+SlgTechInfo_九黎部落_特征6,Unlock feature for the sect: Evasion Increase 4.
+SlgTechInfo_九黎部落_特征7,Unlock traits for the sect: 4 Damage Boost.
+SlgTechInfo_九江水寨_特征1,Unlock feature for the sect: Mark Increase Roll 2.
+SlgTechInfo_九江水寨_特征2,Unlock feature for the sect: Mark Counter 2.
+SlgTechInfo_九江水寨_特征3,Unlock feature for the sect: Interlocking 3.
+SlgTechInfo_九江水寨_特征4,Unlock traits for the sect: 3 Weapon Blessing.
+SlgTechInfo_九江水寨_特征5,Unlock feature for the sect: Damage Enhancement 3.
+SlgTechInfo_九江水寨_特征6,Unlock feature for the sect: Critical Increase 4.
+SlgTechInfo_九江水寨_特征7,Unlock traits for the sect: 4 Damage Boost.
+SlgTechInfo_本草门_特征1,Unlock feature for the sect: Immune Barrier 2.
+SlgTechInfo_本草门_特征2,Unlock feature for the sect: Survival from Desperation 2.
+SlgTechInfo_本草门_特征3,Unlock feature for the sect: HP Enhancement 3.
+SlgTechInfo_本草门_特征4,Unlock feature for the sect: Self-healing when Hit 3.
+SlgTechInfo_本草门_特征5,Unlock feature for the sect: Emergency Self-rescue 3.
+SlgTechInfo_本草门_特征6,Unlock feature for the sect: Copper Body and Iron Bones 4.
+SlgTechInfo_本草门_特征7,Unlock feature for the sect: Hardened 4.
+SlgTechInfo_万兽山庄_特征1,Unlock feature for the sect: Beast Taming Ability 2.
+SlgTechInfo_万兽山庄_特征2,Unlock feature for the sect: Beast Taming Technique 2.
+SlgTechInfo_万兽山庄_特征3,Unlock feature for the sect: Animal Hunter 3.
+SlgTechInfo_万兽山庄_特征4,Unlock feature for the sect: HP Enhancement 3.
+SlgTechInfo_万兽山庄_特征5,Unlock feature for the sect: Armor Blessing 3.
+SlgTechInfo_万兽山庄_特征6,Unlock feature for the sect: Evasion Increase 4.
+SlgTechInfo_万兽山庄_特征7,Unlock feature for the sect: Shadow Following 4.
+SlgTechInfo_燕子窝_特征1,Unlock feature for the sect: Immune to Back Attack 2.
+SlgTechInfo_燕子窝_特征2,Unlock feature for the sect: Immune to Side Attack 2.
+SlgTechInfo_燕子窝_特征3,Unlock feature for the sect: Body like a Shadow 3.
+SlgTechInfo_燕子窝_特征4,Unlock feature for the sect: Back Attack Break 3.
+SlgTechInfo_燕子窝_特征5,Unlock feature for the sect: Side Attack Break 3.
+SlgTechInfo_燕子窝_特征6,Unlock feature for the sect: Quick Reflex 4.
+SlgTechInfo_燕子窝_特征7,Unlock traits for the sect: 4 Stalwart.
+SlgTechInfo_神捕门_特征1,Unlock traits for the sect: 2 Instant death.
+SlgTechInfo_神捕门_特征2,Unlock traits for the sect: 2 Critical damage.
+SlgTechInfo_神捕门_特征3,Unlock feature for the sect: Divine Flame Protection 3.
+SlgTechInfo_神捕门_特征4,Unlock traits for the sect: 3 Cloud Breaking Power.
+SlgTechInfo_神捕门_特征5,Unlock traits for the sect: 3 Weapon Blessing.
+SlgTechInfo_神捕门_特征6,Unlock traits for the sect: 4 Damage Boost.
+SlgTechInfo_神捕门_特征7,Unlock feature for the sect: Critical Increase 4.
+SlgTechInfo_虎威镖局_特征1,Unlock feature for the sect: Chasing Enemy 2.
+SlgTechInfo_虎威镖局_特征2,Unlock traits for the sect: 2 Critical damage.
+SlgTechInfo_虎威镖局_特征3,Unlock feature for the sect: Armor Blessing 3.
+SlgTechInfo_虎威镖局_特征4,Unlock feature for the sect: Parry Enhancement 3.
+SlgTechInfo_虎威镖局_特征5,Unlock feature for the sect: Critical Enhancement 3.
+SlgTechInfo_虎威镖局_特征6,Unlock traits for the sect: 4 Damage Boost.
+SlgTechInfo_虎威镖局_特征7,Unlock traits for the sect: 4 Stalwart.
+SlgTechInfo_夜摩坊_特征1,Unlock feature for the sect: Immune to Control 2.
+SlgTechInfo_夜摩坊_特征2,Unlock feature for the sect: Wall of Steel 2.
+SlgTechInfo_夜摩坊_特征3,Unlock feature for the sect: MP Enhancement 3.
+SlgTechInfo_夜摩坊_特征4,Unlock traits for the sect: 3 Cloud Breaking Power.
+SlgTechInfo_夜摩坊_特征5,Unlock feature for the sect: Damage Enhancement 3.
+SlgTechInfo_夜摩坊_特征6,Unlock traits for the sect: 4 Stalwart.
+SlgTechInfo_夜摩坊_特征7,Unlock feature for the sect: Light Body 4.
+SlgTechInfo_琅琊剑阁_特征1,Unlock feature for the sect: Critical Critical 2.
+SlgTechInfo_琅琊剑阁_特征2,Unlock feature for the sect: Sword Defense Increases Damage 2.
+SlgTechInfo_琅琊剑阁_特征3,Unlock feature for the sect: Sword Intent 3.
+SlgTechInfo_琅琊剑阁_特征4,Unlock feature for the sect: Damage Enhancement 3.
+SlgTechInfo_琅琊剑阁_特征5,Unlock feature for the sect: Precision 3.
+SlgTechInfo_琅琊剑阁_特征6,Unlock feature for the sect: Critical Increase 4.
+SlgTechInfo_琅琊剑阁_特征7,Unlock feature for the sect: Sword Increase 4.
+SlgTechInfo_摸金门_特征1,Unlock feature for the sect: Lost in Dream 2.
+SlgTechInfo_摸金门_特征2,Unlock feature for the sect: 2 Melting Gold Hidden Blades.
+SlgTechInfo_摸金门_特征3,Unlock feature for the sect: Fast Response 3.
+SlgTechInfo_摸金门_特征4,Unlock feature for the sect: Strong and Healthy Body 3.
+SlgTechInfo_摸金门_特征5,Unlock feature for the sect: Armor Blessing 3.
+SlgTechInfo_摸金门_特征6,Unlock feature for the sect: Copper Body and Iron Bones 4.
+SlgTechInfo_摸金门_特征7,Unlock feature for the sect: Hardened 4.
+SlgTechInfo_青风寨_特征1,Unlock traits for the sect: 2 Critical damage.
+SlgTechInfo_青风寨_特征2,Unlock feature for the sect: Critical Critical 2.
+SlgTechInfo_青风寨_特征3,Unlock feature for the sect: Brave Charge 3.
+SlgTechInfo_青风寨_特征4,Unlock feature for the sect: Damage Enhancement 3.
+SlgTechInfo_青风寨_特征5,Unlock feature for the sect: Critical Enhancement 3.
+SlgTechInfo_青风寨_特征6,Unlock feature for the sect: 4 Attack Enhancements.
+SlgTechInfo_青风寨_特征7,Unlock traits for the sect: 4 Stalwart.
+SlgTechInfo_叶家军_特征1,Unlock feature for the sect: 2 Coordinated Defenses.
+SlgTechInfo_叶家军_特征2,Unlock feature for the sect: Chasing Enemy 2.
+SlgTechInfo_叶家军_特征3,Unlock traits for the sect: 3 Weapon Blessing.
+SlgTechInfo_叶家军_特征4,Unlock feature for the sect: Armor Blessing 3.
+SlgTechInfo_叶家军_特征5,Unlock feature for the sect: Damage Enhancement 3.
+SlgTechInfo_叶家军_特征6,Unlock feature for the sect: 4 Parry Enhancements.
+SlgTechInfo_叶家军_特征7,Unlock feature for the sect: Critical Increase 4.
+SlgTechInfo_冷皮帮_特征1,Unlock feature for the sect: 2 Preeminents.
+SlgTechInfo_冷皮帮_特征2,Unlock feature for the sect: 2 Windwalkers.
+SlgTechInfo_冷皮帮_特征3,Unlock feature for the sect: Damage Enhancement 3.
+SlgTechInfo_冷皮帮_特征4,Unlock feature for the sect: 3 Combo Enhancements.
+SlgTechInfo_冷皮帮_特征5,Unlock feature for the sect: Critical Enhancement 3.
+SlgTechInfo_冷皮帮_特征6,Unlock feature for the sect: 4 Attack Enhancements.
+SlgTechInfo_冷皮帮_特征7,Unlock traits for the sect: 4 Stalwart.
+SlgTechInfo_圣火宗_特征1,Unlock feature for the sect: 2 Spirits of Steel.
+SlgTechInfo_圣火宗_特征2,Unlock feature for the sect: 2 Hearts of Defender.
+SlgTechInfo_圣火宗_特征3,Unlock feature for the sect: Divine Flame Protection 3.
+SlgTechInfo_圣火宗_特征4,Unlock feature for the sect: Armor Blessing 3.
+SlgTechInfo_圣火宗_特征5,Unlock feature for the sect: Strong and Healthy Body 3.
+SlgTechInfo_圣火宗_特征6,Unlock feature for the sect: Light Body 4.
+SlgTechInfo_圣火宗_特征7,Unlock feature for the sect: Hardened 4.
+SlgTechInfo_通用_武功实战经验提升1,"Increase the martial arts experience gained by disciples in battle.\nInternal skills increase the EXP of learned internal skills by 1 point each action.\nExternal skills increase the EXP of released external skills by 2 points each release."
+SlgTechInfo_通用_武功实战经验提升2,"Increase the martial arts experience gained by disciples in battle.\nInternal skills increase the EXP of learned internal skills by 1 point each action.\nExternal skills increase the EXP of released external skills by 2 points each release."
+SlgTechInfo_通用_武功实战经验提升3,"Increase the martial arts experience gained by disciples in combat.\nEach action of internal strength increases 2 points of learned internal strength EXP.\nEach release of external strength increases 3 points of released external strength EXP."
+DLC1FactionName_0,Confucius Temple
+DLC1FactionName_1,Taoist Sect
+DLC1FactionName_2,Shifa Temple
+DLC1FactionName_3,Nine Factions Sect
+DLC1FactionName_4,Melody House
+DLC1FactionName_5,Jiuli Tribe
+DLC1FactionName_6,Jiujiang Fortress
+DLC1FactionName_7,Herbology Sect
+DLC1FactionName_8,Beast Manor
+DLC1FactionName_9,Swallow Nest
+DLC1FactionName_10,Crime Investigation Bureau
+DLC1FactionName_11,Tiger Escort
+DLC1FactionName_12,Night Auction Market
+DLC1FactionName_13,Langya Sword Pavilion
+DLC1FactionName_14,Tomb Raider Sect
+DLC1FactionName_15,Blue Wind Camp
+DLC1FactionName_16,Ye Family Battalion,กองพันตระกูลเย่
+DLC1FactionName_17,Cold Skin Gang
+DLC1FactionName_18,Divine Flame Sect 
+DLC1FactionName_101,My Sect
+DLC1FactionName_102,Blue Wind Camp
+DLC1FactionName_21,Free Faction 3
+DLC1CapitalOverrideName_0,Confucius Temple
+DLC1CapitalOverrideName_1,Taoist Sect
+DLC1CapitalOverrideName_2,Shifa Temple
+DLC1CapitalOverrideName_3,Nine Factions Sect
+DLC1CapitalOverrideName_4,Melody House
+DLC1CapitalOverrideName_5,Jiuli Tribe
+DLC1CapitalOverrideName_6,Jiujiang Fortress
+DLC1CapitalOverrideName_7,Herbology Sect
+DLC1CapitalOverrideName_8,Beast Manor
+DLC1CapitalOverrideName_9,Swallow Nest
+DLC1CapitalOverrideName_10,Crime Investigation Bureau
+DLC1CapitalOverrideName_11,Tiger Escort
+DLC1CapitalOverrideName_12,Night Auction Market
+DLC1CapitalOverrideName_13,Langya Sword Pavilion
+DLC1CapitalOverrideName_14,Tomb Raider Sect
+DLC1CapitalOverrideName_15,Blue Wind Camp
+DLC1CapitalOverrideName_16,Ye Family Battalion,กองพันตระกูลเย่
+DLC1CapitalOverrideName_17,Cold Skin Gang
+DLC1CapitalOverrideName_18,Divine Flame Sect 
+DLC1PvcName_1,Longevity Tomb
+DLC1PvcName_2,Guanbei
+DLC1PvcName_3,Mass Burial Ground
+DLC1PvcName_4,West Forest
+DLC1PvcName_5,East Forest
+DLC1PvcName_6,Ritual Platform
+DLC1PvcName_7,Bian Dong
+DLC1PvcName_8,Rengu
+DLC1PvcName_9,East Mountain Valley
+DLC1PvcName_10,Rengu South
+DLC1PvcName_11,Diamond Valley
+DLC1PvcName_12,Stream Forest
+DLC1PvcName_13,Daliang East
+DLC1PvcName_14,Daliang
+DLC1PvcName_15,Abandoned Courtyard
+DLC1PvcName_16,Mang Mountain Pass
+DLC1PvcName_17,Mang Mountain Foot
+DLC1PvcName_18,Diamond Valley South
+DLC1PvcName_19,Jade Gate North
+DLC1PvcName_20,Jade Gate
+DLC1PvcName_21,Zhongzhou Region Port
+DLC1PvcName_22,Swallow Forest
+DLC1PvcName_23,Horse King Mountain
+DLC1PvcName_24,Floating Temple
+DLC1PvcName_25,Lin'an
+DLC1PvcName_26,Lin'an South
+DLC1PvcName_27,Deep Black Forest
+DLC1PvcName_28,Black Forest
+DLC1PvcName_29,Horse King Cave
+DLC1PvcName_30,Jiangbei
+DLC1PvcName_31,Peak of Challenge
+DLC1PvcName_32,Langya Mountain
+DLC1PvcName_33,Jiujiang
+DLC1PvcName_34,Pingshan
+DLC1PvcName_35,Langya Mine
+DLC1PvcName_36,Pingshan Valley
+DLC1PvcName_37,Qiongshan Forest
+DLC1PvcName_38,Mang Mountain Forest
+DLC1PvcName_39,Mang Mountain Pit
+DLC1PvcName_40,Jiujiang West
+DLC1PvcName_41,Qiongshan
+DLC1PvcName_42,Herb Forest
+DLC1PvcName_43,Blue Wind Camp
+DLC1PvcName_44,Mang Mountain South
+DLC1PvcName_45,Snowflower Valley
+DLC1PvcName_46,Soul Breaking Valley
+DLC1PvcName_47,Forest of Broken Souls
+DLC1PvcName_48,Small Ridge
+DLC1PvcName_49,Borderland
+DLC1PvcName_50,Old Camp
+DLC1PvcName_51,Refugee Camp
+DLC1PvcName_52,Wild Wolf Valley
+DLC1PvcName_53,Xiangfan Region Port
+DLC1PvcName_54,Chuxiang
+DLC1PvcName_55,God Cow Mountain
+DLC1PvcName_56,Outside Jade Gate
+DLC1PvcName_57,Jade Gate South
+DLC1PvcName_58,Mang Mountain North
+DLC1PvcName_59,Nameless Land
+DLC1PvcName_60,Xiangfan Forest South
+DLC1PvcName_61,Xiangfan Forest
+DLC1PvcName_62,God of Marriage's Shrine
+DLC1PvcName_63,Wuxian Mountain East
+DLC1PvcName_64,Wuxian Mountain
+DLC1PvcName_65,Deserted Courtyard
+DLC1PvcName_66,Wuxian Mountain Pass
+DLC1PvcName_67,Wuxian Forest
+DLC1PvcName_68,Bailing Mountain
+DLC1PvcName_69,Sea of Flowers
+DLC1PvcName_70,Fountain of Youth.
+DLC1PvcName_71,Wuxian Mountain North
+DLC1PvcName_72,Flame City
+DLC1PvcName_73,Flame Toad Cave
+DLC1PvcName_74,Desert West
+DLC1PvcName_75,Chang'an Inn
+DLC1PvcName_76,Desert South
+DLC1PvcName_77,Holy Fire Mountain
+DLC1PvcName_78,Jiuli
+DLC1PvcName_79,Herb Forest South
+DLC1PvcName_80,Herb Forest
+DLC1FactionInfo_0,"A Confucian academy with a long history. Under the leadership of the new dean, Cai Yuanchang, it embraces the new and recruits widely. With the assistance of the Four Arts and four virtuous people, the students are elegant and talented."
+DLC1FactionInfo_1,"A Taoist sect that has been established for hundreds of years, emphasizing self-cultivation and dual cultivation of Qi and sword. Under the leadership of Zhong Yangzi, the disciples aim to save the world and prioritize benevolence and righteousness. They are a model of the current martial arts righteous sect."
+DLC1FactionInfo_2,"It has always been a major sect of Buddhism in the world. In times of war, they not only help the souls who died in the war, but also provide shelter for refugees. There are countless monk soldiers who resist the Yan Kingdom under the instruction of the abbot, defending against foreign enemies."
+DLC1FactionInfo_3,"A new organization formed by a mysterious person. Because it recruits people regardless of their background and age, it has quickly grown into the largest force in the Central Plains. However, it is a mixed bag, and it is difficult to distinguish between good and evil. The current leader, Tie Mianren, is even more mysterious, and no one knows his true identity."
+DLC1FactionInfo_4,"Located in the southwest region, the mountain Clear water is beautiful, and the scenery is natural. All the disciples are young girls, each with a beautiful voice and good at dancing, like fairies. They are hostile to all men in the world, and no one knows the specific reason."
+DLC1FactionInfo_5,"A foreign tribe in the southwest region, they believe in ancient fierce gods and are good at using witchcraft, and are regarded as heretics by the martial arts of the Central Plains. They have harassed the Central Plains many times in the early years, so they were isolated from the Central Plains by the Zhao State. Now, under the leadership of Miao Muli, they are growing stronger and gradually becoming a force not to be underestimated in the southwest region."
+DLC1FactionInfo_6,"Established a water village at the confluence of the nine rivers, in recent years it has gathered a large number of martial arts people, and it seems to have the momentum to divide half of the southern part of the Yangtze River."
+DLC1FactionInfo_7,"All the disciples are doctors who are indifferent to the world and help the world. They take the treatment of diseases and saving people as their own responsibility, and it is also the place where countless doctors aspire. It is now in ruins, with only a piece of old land left."
+DLC1FactionInfo_8,"A large manor located in the southwest, known for its beast taming skills. The manor owner, Tang Tai Jun, moved his family here decades ago to keep his promise of guarding the southwest. Since then, they have dominated the southwest, preventing the Jiuli Tribe from invading the Central Plains."
+DLC1FactionInfo_9,"Created by the legendary thief ""Yanzi Li"" who is at the top of Qinggong, his stealing technique and Qinggong are unparalleled in the world. Often in the blink of an eye, he has already pickpocketed, and there is no trace of him coming and going."
+DLC1FactionInfo_10,"Established in the early years of this dynasty, it is an organization that exists only to punish criminals, and vows to bring all the evil people in the world to justice. All the catchers in today's large and small cities come from the Crime Investigation Bureau."
+DLC1FactionInfo_11,"Once the largest escort agency in the world, but a few years ago it encountered a change, the former head of the escort disappeared, and now it is taken over by the daughter of the head of the escort, Han Hongyu, but the situation of the escort agency is far from the past."
+DLC1FactionInfo_12,"A market outside Daliang City that only opens at night, it is very lively every night. There is an auction every night, and it has the posture of competing with the Glittering Artifact Auction.",ตลาดนอกเมืองต้าเหลียงที่เปิดทุกช่วงกลางคืนนั้นครึกครื้นกันทุกคืน มีการประมูลของกันทุกคืน และดูเหมือนว่าอยากจะแย่งลูกค้าจากงานประมูลสินค้าหอไข่มุก
+DLC1FactionInfo_13,"The place where Jian Chi retired and sealed his sword, inheriting the thousand-year-old sword-making technology of ancient and modern times, many of the divine weapons in the current martial arts world come from here."
+DLC1FactionInfo_14,"Mysterious organization, living by stealing cultural relics in ancient tombs, all the disciples are proficient in the technique of dividing gold and determining acupoints, and no one knows where their power is."
+DLC1FactionInfo_15,"A bandit nest led by Kong Yidao. Although they are a group of mountain bandits, they have put up the banner of ""doing justice on behalf of the heaven"". They never rob the common people, nor bully the weak. They only rob the ""unjust wealth"", and are a thorn in the side of the government."
+DLC1FactionInfo_16,"The Zhao Kingdom's army commanded by Ye Pengju. The army is strict in discipline and undefeated. It has defeated the Yan Kingdom's army many times, preserving half of the Zhao Kingdom's territory, and is therefore deeply loved by the people. It is also the last hope for many people to welcome back the Zhao Emperor."
+DLC1FactionInfo_17,"Located in the Flame City in the desert, it is the actual ruler of Flame City. Under the management of Master Huo Shilou, it resists the self-proclaimed Western Regions hegemon, the Divine Flame Sect ."
+DLC1FactionInfo_18,"A rising power in the northwest region, under the command of the current leader Fang Xiaoian, sweeps the Western Regions, invincible."
+DLCTraderName_铜钱商人,CoinMerchant
+DLCTraderName_粮食商人,FoodMerchant
+DLCTraderName_木材商人,WoodMerchant
+DLCTraderName_矿物商人,MineralMerchant
+DLCTraderName_药材商人,HerbMerchant
+DLCTraderName_装备商人,EquipmentMerchant
+DLCTraderName_神秘商人,NamelessMerchant
+DLCTraderName_武功商人,Mysterious Man
+DLCTraderName_消耗品商人,PillMerchant
+FondTag_特殊,Special

@@ -1,0 +1,765 @@
+﻿﻿Consumeable_SlgPersonal,Consumables,ของใช้
+Consumeable_SlgFaction,Sect resources,สมบัติของสำนัก
+CharPropName_SLG_R_SLGCoin,"After use, <color=#F7A337>coin</color>","หลังจากใช้, <color=#F7A337>อีแปะ</color>"
+CharPropName_SLG_R_SLGTribute,"After use, <color=#F7A338>meditation points</color>","หลังจากใช้, <color=#F7A338>ค่าสมาธิ</color>"
+CharPropName_SLG_R_SLGFood,"After use, <color=#F7A339>food</color>","หลังจากใช้, <color=#F7A339>อาหาร</color>"
+CharPropName_SLG_R_SLGMine,"After use, <color=#F7A340>minerals</color>","หลังจากใช้, <color=#F7A340>แร่</color>"
+CharPropName_SLG_R_SLGDrug,"After use, <color=#F7A341>herbs</color>","หลังจากใช้, <color=#F7A341>สมุนไพร</color>"
+CharPropName_SLG_R_SLGWood,"After use, <color=#F7A342>wood</color>","หลังจากใช้, <color=#F7A342>ไม้</color>"
+ItemName_dlc粗布裹手,Simple cloth gloves,ถุงมือผ้าหยาบๆ
+ItemName_dlc木剑,Wooden sword,ดาบไม้
+ItemName_dlc大砍刀,Big blade,ดาบใหญ่
+ItemName_dlc震山拳套,Mountain Basher glove,ถุงมือทลายภูผา
+ItemName_dlc铁虎爪,Iron tiger claw,กรงเล็บเสือเหล็ก
+ItemName_dlc奔雷铁手,Quick gauntlet,ถุงมือเหล็กอัสนีบาต
+ItemName_dlc昆仑,Kunlun,ถุงมือคุนหลุน
+ItemName_dlc降龙,Dragon Slayer,ถุงมือพิฆาตมังกร
+ItemName_dlc乾坤,Heaven and Earth,ถุงมือสวรรค์ปฐพี
+ItemName_dlc红缨枪,Red spear,หอกพู่แดง
+ItemName_dlc竹竿,Bamboo stick,ท่อนไม้ไผ่
+ItemName_dlc折扇,Folding fan,พัดด้ามจิ้ว
+ItemName_dlc青罡剑,Blue Steel sword,กระบี่ชิงกัง
+ItemName_dlc倚天剑,Heaven sword,เพลงกระบี่ฟ้ากว้าง
+ItemName_dlc青冥剑,Dawn sword,กระบี่ฟ้าบันดาล
+ItemName_dlc干将,Ganjiang,กระบี่ก้านเจี้ยง
+ItemName_dlc含光,Hidden Light,กระบี่ก้านเจี้ยง
+ItemName_dlc鱼肠,Fish Stomach,กระบี่มัจฉา
+ItemName_dlc匕首,Dagger,มีด
+ItemName_dlc狼毫笔,Wolf hair pen,พู่กันขนหมาป่า
+ItemName_dlc梧桐琴,Parasol Tree,กู่ฉินไม้อู๋ถง
+ItemName_dlc碎宇刀,Rain Breaker,ดาบผ่าจักรวาล
+ItemName_dlc绣春刀,Officer blade,ดาบเจ้าหน้าที่
+ItemName_dlc修罗刀,Shura blade,ดาบอสุรา
+ItemName_dlc大夏龙雀,Summer Sparrow,ดาบวิหคชาด
+ItemName_dlc犬神刀,Canine God,ดาบเขี้ยวเทพสุนัข
+ItemName_dlc龙牙刀,Dragon Tooth,ดาบเขี้ยวมังกร
+ItemName_dlc木箫,Wooden flute,ขลุ่ยไม้
+ItemName_dlc花梨琵琶,Pear lute,ผีผาไม้ชิงชัน
+ItemName_dlc窄袖衣,Female clothes,เสื้อผู้หญิง
+ItemName_dlc梨花枪,Pear Blossom,หอกหลีฮวา
+ItemName_dlc霸王枪,Emperor Spear,หอกจักรพรรดิ
+ItemName_dlc亮银枪,Luminous Spear,หอกจรัสแสง
+ItemName_dlc句芒,Jumang,มังกรคลั่ง
+ItemName_dlc方天画戟,Heaven Halberd,ง้าวกรีดนภา
+ItemName_dlc龙胆,Dragon Courage,หอกเจตจำนงมังกร
+ItemName_dlc绢麻衣,Linen clothes,เสื้อผ้าลินิน
+ItemName_dlc护心铠,Protection armor,เกราะป้องกัน
+ItemName_dlc彩绣香囊,Embroidered sachet,ซองปักปราณีต
+ItemName_dlc盘龙棍,Dragon staff,พลองมังกร
+ItemName_dlc齐天棍,Heaven staff,พลองสวรรค์
+ItemName_dlc金箍铁棒,Gold-Banded Iron Staff,ไม้เท้าเหล็กห่วงทองคำ
+ItemName_dlc烛阴,Zhuyin,คบเพลิงมังกรจูหลง
+ItemName_dlc定海神针,Dinghai Shenzhen,เสาค้ำทะเลตงไห่
+ItemName_dlc镇岳,Mountain Suppressor,กระบองเจิ้นเยว่
+ItemName_dlc粗糙的护身符,Simple Safe-keeping Charm,เครื่องรางแคล้วคลาดแบบเรียบง่าย
+ItemName_dlc香包,Sachet,ถุงเครื่องหอม
+ItemName_dlc花环,Wreath,พวงมาลา
+ItemName_dlc西江月,Moon over West River,จันทราเหนือธาราตะวันตก
+ItemName_dlc满江红,Prismatic River,พัดแม่น้าสีชาด
+ItemName_dlc破阵子,Formation Breaker,พัดฝ่าขบวนรบ
+ItemName_dlc祝融,Zhurong,พัดเทพจู้หรง
+ItemName_dlc夸父,Kuafu,คูฟู่ จอมพิชิต
+ItemName_dlc青丘,Qingqiu,พัดชิงชิว
+ItemName_dlc艾草束,Wormwood bundle,พวงบอระเพ็ด
+ItemName_dlc铁手,Iron fist,ถุงมือเหล็ก
+ItemName_dlc缠丝拳套,Silk glove,ถุงมือผ้าไหม
+ItemName_dlc飞来梭,Flying dagger,มีดบิน
+ItemName_dlc流云锥,Drifting Cloud,เมฆาล่องลอย
+ItemName_dlc织女梭,Weaver Girl
+ItemName_dlc嘲风,Wind Jester,เฉาเฟิง
+ItemName_dlc精卫,Jingwei
+ItemName_dlc睚眦,Vengeful
+ItemName_dlc白虹剑,Rainbow sword
+ItemName_dlc紫电剑,Lightning sword
+ItemName_dlc砍山刀,Mountain blade
+ItemName_dlc鸡距,Cockspur
+ItemName_dlc龙须,Dragon Whisker
+ItemName_dlc麟角,Unicorn Horn
+ItemName_dlc太虚,Taixu
+ItemName_dlc玄黄,Mysterious Yellow
+ItemName_dlc洪荒,Primal Land
+ItemName_dlc九环刀,Nine rings blade
+ItemName_dlc蛇矛枪,Snake spear
+ItemName_dlc混铁枪,Iron spear
+ItemName_dlc春雷,Spring Thunder
+ItemName_dlc焦尾,Scorched Tail
+ItemName_dlc绿绮,Green Beauty
+ItemName_dlc绕梁,Lingering
+ItemName_dlc号钟,Bell Sound
+ItemName_dlc囚牛,Qiuniu
+ItemName_dlc镔铁杖,Steel staff
+ItemName_dlc齐眉棍,Eyebrow staff
+ItemName_dlc雕翎扇,Eagle feather fan
+ItemName_dlc枉凝眉,Vain Eyebrows
+ItemName_dlc关山月,Mountain Moon
+ItemName_dlc冷沧浪,Blue Waves
+ItemName_dlc有凤来仪,Phoenix's Grace
+ItemName_dlc碧海潮声,Sound of the Tide
+ItemName_dlc笑傲江湖,Proud Wanderer
+ItemName_dlc留香扇,Liuxiang fan
+ItemName_dlc狼牙匕,Wolf fang dagger
+ItemName_dlc三棱锥,Tri-dagger
+ItemName_dlc双凤琵琶,Twin Phoenix lute
+ItemName_dlc绕殿雷,Circling Thunder
+ItemName_dlc烧槽,Burning Hole
+ItemName_dlc玄象,Mysterious Elephant
+ItemName_dlc青山,Blue Mountain
+ItemName_dlc狮子丸,Lion Ball
+ItemName_dlc圆锋,Round Edge
+ItemName_dlc昌化,Changhua
+ItemName_dlc七弦,Seven Strings
+ItemName_dlc独幽,Loneliness
+ItemName_dlc紫竹箫,Violet bamboo flute
+ItemName_dlc玉屏箫,Jade flute
+ItemName_dlc牛角琵琶,Ox horn lute
+ItemName_dlc流云衫,Drifting Cloud robe,เสื้อเมฆาล่องลอย
+ItemName_dlc金刚甲,Diamond armor
+ItemName_dlc明光铠,Glorious armor
+ItemName_dlc朱雀服,Phoenix outfit
+ItemName_dlc麒麟甲,Unicorn armor
+ItemName_dlc玄武铠,Turtle armor,เกราะเต่าดำ
+ItemName_dlc紫罗裙,Purple dress
+ItemName_dlc天蚕宝衣,Silk armor
+ItemName_dlc霹雳宝铠,Thunder armor
+ItemName_dlc锦襕袈裟,Brocade Kasaya
+ItemName_dlc广袖流仙裙,Wide Sleeve Flowing Fairy Skirt
+ItemName_dlc象牙琵琶,Elephant tooth lute
+ItemName_dlc精铁内甲,Steel armor
+ItemName_dlc锁子铠,Chain armor
+ItemName_dlc僧袍,Monk robe
+ItemName_dlc道袍,Taoist robe
+ItemName_dlc佛手玉坠,Buddha earrings
+ItemName_dlc投名状,Nomination Certificate
+ItemName_dlc工字佩,"""GONG"" inscripted jade ornament"
+ItemName_dlc三彩乐俑,Three colors statue
+ItemName_dlc三足金蟾,Three-legged golden toad
+ItemName_dlc双鱼玉佩,Yin Yang jade ornament
+ItemName_dlc玉莲花,Lotus gem
+ItemName_dlc滴水观音,Water Avalokitesvara
+ItemName_dlc玉辟邪,Exorcist gem
+ItemName_dlc金雕长羽,Golden eagle feather
+ItemName_dlc玉如意,Wish gem
+ItemName_dlc寒玉玦,Cold gem
+ItemName_dlc金蚕蛊,Golden silkworm
+ItemName_dlc凤鸟玉佩,Phoenix jade ornament
+ItemName_dlc天穹之印,Seal of the Sky
+ItemName_dlc金疮药(小),C-grade Healing medicine
+ItemName_dlc金疮药(中),B-grade Healing medicine
+ItemName_dlc金疮药(大),A-grade Healing medicine
+ItemName_dlc续命丸(小),C-grade Preservation pill
+ItemName_dlc续命丸(中),B-grade Preservation pill
+ItemName_dlc续命丸(大),A-grade Preservation pill
+ItemName_dlc培元膏(小),C-grade Healing ointment
+ItemName_dlc培元膏(中),B-grade Healing ointment
+ItemName_dlc培元膏(大),A-grade Healing ointment
+ItemName_dlc聚元丹(小),C-grade Recovery pill
+ItemName_dlc聚元丹(中),B-grade Recovery pill
+ItemName_dlc聚元丹(大),A-grade Recovery pill
+ItemName_dlc小还丹(小),C-grade Small pill
+ItemName_dlc小还丹(中),B-grade Small pill
+ItemName_dlc小还丹(大),A-grade Small pill
+ItemName_dlc大还丹(小),C-grade Big pill
+ItemName_dlc大还丹(中),B-grade Big pill
+ItemName_dlc大还丹(大),A-grade Big pill
+ItemName_dlc蜜饯果子,Candied fruit
+ItemName_dlc雕花橙子,Carved orange
+ItemName_dlc雪花糕,Milk snow cake
+ItemName_dlc铜钱包裹(小),RareCoin supply
+ItemName_dlc铜钱包裹(中),EpicCoin supply
+ItemName_dlc铜钱包裹(大),LegendaryCoin supply
+ItemName_dlc发展包裹(小),Rare meditation point supply
+ItemName_dlc发展包裹(中),Epic meditation point supply
+ItemName_dlc发展包裹(大),Legendary meditation point supply
+ItemName_dlc粮食包裹(小),Rare food supply
+ItemName_dlc粮食包裹(中),Epic food supply
+ItemName_dlc粮食包裹(大),Legendary food supply
+ItemName_dlc矿物包裹(小),Rare mineral supply
+ItemName_dlc矿物包裹(中),Epic mineral supply
+ItemName_dlc矿物包裹(大),Legendary mineral supply
+ItemName_dlc药材包裹(小),RareHerb supply
+ItemName_dlc药材包裹(中),EpicHerb supply
+ItemName_dlc药材包裹(大),LegendaryHerb supply
+ItemName_dlc木材包裹(小),RareWood supply
+ItemName_dlc木材包裹(中),EpicWood supply
+ItemName_dlc木材包裹(大),LegendaryWood supply
+ItemName_dlc武道源流(小),Combat technique
+ItemName_dlc武道源流(中),Combat arts
+ItemName_dlc武道源流(大),Way of combat
+ItemName_dlc铜钱,Coin
+ItemName_dlc贡献点,Contribution Points
+ItemName_dlc食物,Food
+ItemName_dlc铁矿,Minerals
+ItemName_dlc药品,Herb
+ItemName_dlc木材,Wood
+ItemName_dlc破空梭,Wind Breaker
+ItemName_dlc疾风刺,Wind Stab
+ItemName_dlc龙蛇笔法,Dragon Snake Pen
+ItemName_dlc狂风扇诀,Tornado Fan
+ItemName_dlc流云飞扇,Drifting Cloud Fan,พัดเมฆาล่องลอย
+ItemName_dlc阳春白雪,Spring White Snow
+ItemName_dlc碧涧流泉,Flowing Mountain Stream
+ItemName_dlc暗香凌波,Hidden Fragrance Wave
+ItemName_dlc泛沧浪,Floating Blue
+ItemName_dlc阳关三叠,Triassis Yangguan
+ItemName_dlc音波功,Soundwave Attack
+ItemName_dlc一指禅,Zen Finger
+ItemName_dlc罗汉拳法,Arhat Fist
+ItemName_dlc雷云掌,Thundercloud Palm
+ItemName_dlc七巧如意手,Dexterous Hand
+ItemName_dlc逍遥拳法,Carefree Fist
+ItemName_dlc黑虎拳,Black Tiger Fist
+ItemName_dlc迷魂毒掌,Enchanted Poison Palm
+ItemName_dlc连环掌,Continuous Palm
+ItemName_dlc开山刀法,Mountain Clear Blade
+ItemName_dlc破甲刀法,Armor Breaker Blade
+ItemName_dlc雁行刀法,Wild Goose Blade
+ItemName_dlc风沙刀法,Sandstorm Blade
+ItemName_dlc修罗刀法,Shura Blade
+ItemName_dlc太乙剑法,Taiyi Sword
+ItemName_dlc浣纱剑法,Huansha Sword
+ItemName_dlc须弥剑法,Sumeru Sword
+ItemName_dlc九宫剑法,Nine Diagrams Sword
+ItemName_dlc回风剑法,Wind Reversal Sword
+ItemName_dlc莲花妙剑,Lotus Flower Sword
+ItemName_dlc游龙剑法,Dragon Roaming Sword
+ItemName_dlc大力棍法,Brutal Staff
+ItemName_dlc破阵大枪,Formation Breaker Spear
+ItemName_dlc腐尸枪法,Rotting Spear
+ItemName_dlc普渡杖法,Enlighten Staff
+ItemName_dlc蟠龙棍法,Dragon Staff
+ItemName_dlc韦陀杖法,Veda Staff
+ItemName_dlc六合枪法,Six Forms Spear
+ItemName_dlc儒雅风流,Elegant Romanticist
+ItemName_dlc凌波诀,Wave Rider Technique
+ItemName_dlc金钟罩,Golden Bell Technique
+ItemName_dlc腐毒功,Poison Technique
+ItemName_dlc金匮要略,Golden Manual
+ItemName_dlc玄煞劲,Nether Killing Force
+ItemName_dlc捕风诀,Wind Walker Manual
+ItemName_dlc莽牛劲,Ox Power
+ItemName_dlc破甲劲,Armor Breaker Move
+ItemName_dlc剑法典籍,Sword Mastery
+ItemName_dlc混元劲,Origin Technique
+ItemName_dlc御兽术,Beast Taming Skill
+ItemName_dlc调息法,Breathing Technique
+ItemName_dlc云龙三现,Cloud Dragon Three Strikes
+ItemName_dlc银蛇流光,Silver Snake Mirage
+ItemName_dlc风雷刺法,Thunderstorm Strike
+ItemName_dlc曹全碑,Cao Quan Steele
+ItemName_dlc逍遥游,Carefree Life
+ItemName_dlc风卷残云式,Storming Cloud Fan
+ItemName_dlc汉宫秋月,Autumn Palace Moon
+ItemName_dlc鹧鸪天,Partridge Day
+ItemName_dlc蝶舞天涯,Dancing Butterfly Over Skyline
+ItemName_dlc梅花三弄,Plum Flower Three Lanes
+ItemName_dlc高山流水,Mountain and River
+ItemName_dlc般若掌,Prajna Palm
+ItemName_dlc断魂爪,Soul Destroyer Claw
+ItemName_dlc破空拳,Breakthrough Fist
+ItemName_dlc通天手,Omnipotent Hand
+ItemName_dlc大力金刚掌,Powerful Diamond Palm
+ItemName_dlc伤情别离掌,Breakup Palm
+ItemName_dlc醉仙拳,Wine God Fist
+ItemName_dlc太极拳,Taichi Fist
+ItemName_dlc碧落黄泉,Death Road
+ItemName_dlc怒流刀法,Furious Blade
+ItemName_dlc霹雳刀法,Thunder Blade
+ItemName_dlc破军刀法,Ruinous Star Blade
+ItemName_dlc盘空刀法,Empty Blade
+ItemName_dlc七旋斩,Seven Spins Blade
+ItemName_dlc碧磷刀法,Jade Blade
+ItemName_dlc太极剑法,Taichi Sword
+ItemName_dlc素女剑法,Pure Maiden Sword
+ItemName_dlc贪狼剑法,Flirting Star Sword
+ItemName_dlc求败九式,Dugu Nine Swords
+ItemName_dlc岁寒三友,Three Friends of Winter
+ItemName_dlc凌尘剑法,Mortal Sword
+ItemName_dlc苍穹剑法,Heaven Sword
+ItemName_dlc无锋剑法,Windless Sword
+ItemName_dlc广寒剑法,Moon Palace Sword
+ItemName_dlc太虚十八剑,Taixu Eighteen Swords
+ItemName_dlc星月剑法,Moon Star Sword
+ItemName_dlc忘忧剑法,Forgotten Sword
+ItemName_dlc黄泉引路枪,Death Bringer Spear
+ItemName_dlc云林棍法,Cloud Forest Staff
+ItemName_dlc混元棍法,Origin Staff
+ItemName_dlc叶家枪法,Ye Family Spear
+ItemName_dlc七杀枪法,Power Star Spear
+ItemName_dlc疯魔棍法,Insanity Staff
+ItemName_dlc金刚降魔杵,Evil Destroyer Diamond Staff
+ItemName_dlc紧那罗王棍,Kinnara Staff
+ItemName_dlc盛世春秋,Glorious Era
+ItemName_dlc太极玄,Nether Taichi
+ItemName_dlc横练金身,Forging Golden Body
+ItemName_dlc洛神步,God Step
+ItemName_dlc五毒秘法,Five Poisons Secret Move
+ItemName_dlc纯阳功,Pure Yang Skill
+ItemName_dlc四圣心源,Four Saints Origin
+ItemName_dlc凌云步,Cloud Walker Step
+ItemName_dlc玄阴诀,Nether Yin Manual
+ItemName_dlc藏剑秘卷,Hidden Sword Secret Manual
+ItemName_dlc寻龙术,Dragon Seeker Manual
+ItemName_dlc武穆秘典,Yue Fei Secret Manual
+ItemName_dlc莽苍诀,Reckless Sky Technique
+ItemName_dlc圣火燎原,Holy Flame Spreading
+ItemName_dlc罗刹毒经,Raksha Poison Sutra
+ItemName_dlc火蟾诀,Flame Toad Technique
+ItemName_dlc兽吼功,Beast Howling Move
+ItemName_dlc海纳百川,Great Ocean Manual
+ItemName_dlc五禽戏,Five Animal Forms
+ItemName_dlc天星诀,Celestial Star Manual
+ItemName_dlc刺秦要诀,Killer's Secret
+ItemName_dlc江山多娇,Country Full of Beauties
+ItemName_dlc扇舞春秋,Spring and Autumn Fan
+ItemName_dlc天外流星,Meteor from Outer Space
+ItemName_dlc蝶恋花,Flirting Butterfly
+ItemName_dlc十面埋伏,Full Directional Ambush
+ItemName_dlc广陵散,Guangling Melody
+ItemName_dlc傲江湖,Proud Wanderer
+ItemName_dlc万蛊谣,Ancient Song
+ItemName_dlc灭天掌,Sky Destroyer Palm
+ItemName_dlc如来神掌,Vairocana Godly Palm
+ItemName_dlc撼天指法,Heaven Shaking Finger
+ItemName_dlc烈阳拳,Solar Fist
+ItemName_dlc贯云指,Cloud Piercing Finger
+ItemName_dlc紫薇惊龙掌,Dragon King Palm
+ItemName_dlc吞鲸刀法,Devouring Blade
+ItemName_dlc斩天刀法,Heaven Cutting Blade Technique
+ItemName_dlc天魔刀法,Archdemon Blade
+ItemName_dlc一刀斩,One Blade
+ItemName_dlc无极剑法,Infinity Sword
+ItemName_dlc磐龙剑法,Dragon Sword
+ItemName_dlc破天剑法,Sky Breaker Sword
+ItemName_dlc浮华掠影剑,Illusion Sword
+ItemName_dlc九黎巫叉,Jiuli Trident
+ItemName_dlc天罡飞龙杖,Polaris Wyvern Staff
+ItemName_dlc沥泉枪法,Slipstream Spear
+ItemName_dlc达摩杖法,Dharma Staff
+ItemName_dlc儒十三经,Confucius Thirteen Sutras
+ItemName_dlc无极混元功,Infinity Origin Move
+ItemName_dlc大日如来经,Vairocana Solar Sutra
+ItemName_dlc天魔噬魂术,Archdemon's Soul Eating Skill
+ItemName_dlc霓裳羽衣经,Dancing Garment Sutra
+ItemName_dlc巫蛊毒功,Ancient Sage Poison Technique
+ItemName_dlc惊涛骇浪诀,Tsunami Manual
+ItemName_dlc兽王诀,Beast King Technique
+ItemName_dlc天女散花,Celestial Lady Scattering Flowers
+ItemName_dlc九霄真经,Heaven Sutra
+ItemName_dlc满江红扇,Prismatic River Fan
+ItemName_dlc圣火神功,Holy Fire Divine Skill
+ItemName_dlc祈禳大法,Prayer Manual
+ItemName_dlc万民掌,People's Palm
+ItemName_dlc无名剑法,Nameless Sword
+ItemName_dlc蛮荒霸道斩,Savage Primal Blade
+ItemName_dlc百鸟朝凰枪,Phoenix Ascension Spear
+ItemName_dlc分光流星刺,Luminary Meteor Strike
+ItemName_dlc笑红尘,Laughing at the World
+ItemName_dlc玛瑙,Agate
+ItemName_dlc猫眼石,Opal
+ItemName_dlc孔雀石,Malachite
+ItemName_dlc天珠,Dzi bead
+ItemName_dlc武林凭证,Martial World Certificate
+ItemName_dlc真·虚日鼠兽环,True Animal Ring - The Mouse
+ItemName_dlc真·牛金牛兽环,True Animal Ring - The Ox
+ItemName_dlc真·尾火虎兽环,True Animal Ring - The Tiger
+ItemName_dlc真·房日兔兽环,True Animal Ring - The Rabbit
+ItemName_dlc真·亢金龙兽环,True Animal Ring - The Dragon
+ItemName_dlc真·翼火蛇兽环,True Animal Ring - The Snake
+ItemName_dlc真·星日马兽环,True Animal Ring - The Horse
+ItemName_dlc真·鬼金羊兽环,True Animal Ring - The Goat
+ItemName_dlc真·觜火猴兽环,True Animal Ring - The Monkey
+ItemName_dlc真·昴日鸡兽环,True Animal Ring - The Rooster
+ItemName_dlc真·娄金狗兽环,True Animal Ring - The Dog
+ItemName_dlc真·室火猪兽环,True Animal Ring - The Pig
+ItemInfo_dlc粗布裹手,"Just a cloth strip wrapped around the hand, even street thugs do this when they fight."
+ItemInfo_dlc木剑,A rough short sword made from a branch.
+ItemInfo_dlc大砍刀,"A common Big blade, ordinary households use it to chop wood for Lumbering."
+ItemInfo_dlc震山拳套,"Can exert tremendous power, the effect is even better for those with deep MP."
+ItemInfo_dlc铁虎爪,"Hand claws made of cold iron, sharp tips, like a tiger's bite."
+ItemInfo_dlc奔雷铁手,"Taking the power of heavenly thunder, it strikes like a wind and thunder, determining heaven and earth with one hit."
+ItemInfo_dlc昆仑,"The towering Kunlun, defining the four directions."
+ItemInfo_dlc降龙,"Dragon Slayer subdues the tiger, as easy as flipping a hand."
+ItemInfo_dlc乾坤,"Silver, Purple Jade, Red Agate, Heaven and Earth overturn to reveal the underworld."
+ItemInfo_dlc红缨枪,A brand new sharp Red spear.
+ItemInfo_dlc竹竿,"A hollow Bamboo stick made of bamboo, thin and long."
+ItemInfo_dlc折扇,"A plain paper Folding fan, with silver powder on it, the fan surface emits silver light, shining brightly."
+ItemInfo_dlc青罡剑,"Made by condensing energy, the temperament is flowing, elegant yet firm."
+ItemInfo_dlc倚天剑,"The sword is wide and the guard is flamboyant, with a hint of imperial aura."
+ItemInfo_dlc青冥剑,"The waistband is silver-plated, clean and bright. It is said to be an ancient weapon."
+ItemInfo_dlc干将,"An ancient sword passed down from ancient times, made from the iron essence of five mountains and the golden hero of the six realms. After thousands of years, it is still exceptionally sharp."
+ItemInfo_dlc含光,"Gold and iron are nourished, thus forming a sword. The cold light is chilling, and the Power is infinite."
+ItemInfo_dlc鱼肠,"A very small sword, which can be hidden in a fish, the sword edge is sharp, extremely tough, shining brightly."
+ItemInfo_dlc匕首,"A slender double-edged Short sword, easy to carry, can be hidden in sleeves or boots."
+ItemInfo_dlc狼毫笔,"A very common brush, the brush is strong and suitable for both writing and painting."
+ItemInfo_dlc梧桐琴,A wutong wood zither symbolizing noble character.,กู่ฉินไม้อู๋ถงเป็นสัญลักษณ์ของตัวละครอันสูงส่ง
+ItemInfo_dlc碎宇刀,"Rumored to be a sharp blade that can cut through space, its edge is extremely sharp, and it can pass through with a blow."
+ItemInfo_dlc绣春刀,"The knife body is slightly smaller than the general waist knife, but it has a curvature, which is convenient for chopping."
+ItemInfo_dlc修罗刀,"It was cast with the fresh blood of a hundred people, and countless resentful souls are attached to it, and the evil spirit is extremely heavy."
+ItemInfo_dlc大夏龙雀,"It is said to be a giant blade cast by ancient gods, with dragon and snake patterns, exquisitely made, and extremely sharp."
+ItemInfo_dlc犬神刀,"A curved blade from the Great Ant City, capable of catching enemies off guard."
+ItemInfo_dlc龙牙刀,"The treasured blade passed down from generation to generation by the lord of the Great Ant City, it is also a symbol of the lord's status."
+ItemInfo_dlc木箫,A folk instrument made of purple bamboo.
+ItemInfo_dlc花梨琵琶,A lute made of rosewood.
+ItemInfo_dlc窄袖衣,"Clothes worn by ordinary women, thin and light."
+ItemInfo_dlc梨花枪,"The spear used by General Yang during his lifetime, engraved with eight fearless small characters ""Drive out the barbarians and restore the mountains and rivers""."
+ItemInfo_dlc霸王枪,"Made of pure steel, weighing ninety-nine and eighty-one catties, it is said to be the weapon used by the King of Western Chu, not everyone can wield it."
+ItemInfo_dlc亮银枪,A shiny long spear that has been well maintained.
+ItemInfo_dlc句芒,"At the beginning of spring, the spear's aura is a hundred miles long, hence it is named after the god of spring in mythology."
+ItemInfo_dlc方天画戟,"It is said to be a weapon used by the ancient war god, shaped like a square sky painting halberd, it can stab and chop, flexible and changeable."
+ItemInfo_dlc龙胆,"A long spear that was once used by a brave general, still sharp after hundreds of years."
+ItemInfo_dlc绢麻衣,"Clothes made of silk and hemp, slightly more comfortable than Cloth."
+ItemInfo_dlc护心铠,"Armor made of iron plates, providing some protection."
+ItemInfo_dlc彩绣香囊,"Exquisite sachets made of colored silk threads, quite popular among women."
+ItemInfo_dlc盘龙棍,"The stick body has dragon scale carvings, the dragon head and dragon tail at both ends are of different lengths, with great power."
+ItemInfo_dlc齐天棍,"The whole body is golden, with red patterns engraved on it. No one can match its maximum power."
+ItemInfo_dlc金箍铁棒,"An iron rod decorated with gold hoops at both ends, with the words ""Ruyi Jingu Bang, weighing 13,500 jin"" crookedly engraved on it. However, it's not that heavy, and it's not recommended to try to stick it in your ear."
+ItemInfo_dlc烛阴,"The divine weapon forged by your hand, with a coiling dragon cast on it, has thousands of changes when swung."
+ItemInfo_dlc定海神针,"An extremely heavy club, solid in texture, seems to be cast from uncommon materials. But it's neither thirteen thousand five hundred catties heavy, nor can it be shrunk and put into the ear."
+ItemInfo_dlc镇岳,"The weapon held by Tang Tai Jun, also a symbol of his identity. It's very heavy, and it's hard to imagine how Tang Tai Jun used it."
+ItemInfo_dlc粗糙的护身符,"Hand-sewn, rough cotton amulet."
+ItemInfo_dlc香包,"Hand-sewn, rough red cloth sachet."
+ItemInfo_dlc花环,"Wreath woven from wild flowers, most pleasing to little girls."
+ItemInfo_dlc西江月,"Black metal for the edge, hardwood for the bone, machinery is ingenious."
+ItemInfo_dlc满江红扇,"Made from blood-stained red silk and woven with golden needles, the fan bone is wrapped in silver thread."
+ItemInfo_dlc破阵子,"A fan made from Lengjin paper and Steel, it has a certain amount of Attack power."
+ItemInfo_dlc祝融,"The fan bone needs to be forged in a big fire for forty-nine days to be cast. When fanning, there is a burst of heat, hence the name Zhurong."
+ItemInfo_dlc夸父,"A Folding fan named after the ancient sun-chasing god, a light wave can stir up a wind that obscures the sky."
+ItemInfo_dlc青丘,"An otherworldly Folding fan, when fanned, purple smoke drifts, making people lose their minds and souls."
+ItemInfo_dlc艾草束,"Plants with a strong fragrance, effective in warding off evil."
+ItemInfo_dlc铁手,"Made of pure iron, black and extremely hard."
+ItemInfo_dlc缠丝拳套,"Made of silk, has a certain protective performance."
+ItemInfo_dlc飞来梭,"This weapon moves quickly in a moment, its speed can be described as shadow following shape."
+ItemInfo_dlc流云锥,"A dagger made of solid cold iron, has a certain weight, the user needs to have a lot of wrist strength."
+ItemInfo_dlc织女梭,"A Machinery shuttle made of Cold iron, the Machinery is exquisite, easy to use."
+ItemInfo_dlc嘲风,"Named after the third son of the dragon, made of black iron, extremely small in size, the user needs to seek victory in danger.",ตั้งชื่อตามบุตรชายคนที่สามของมังกร ทำจากเหล็กนิล ขนาดเล็กมาก ผู้ใช้จำเป็นต้องแสวงหาชัยชนะท่ามกลางอันตราย
+ItemInfo_dlc精卫,"A magical Dagger hidden in the snow mountain, with a Millipede gold handle and a jade blade, it feels icy to the touch, and can freeze water on contact."
+ItemInfo_dlc睚眦,"Named after the second son of the dragon, made of Meteorite, it hides a fierce aura."
+ItemInfo_dlc白虹剑,"The sword hilt is carved from black jade, the blade is double-edged, thin as cicada wings, sharp as autumn water."
+ItemInfo_dlc紫电剑,"This sword has a purple glow like electricity, dazzling brilliance, precious fog rising, and cold air invading people."
+ItemInfo_dlc砍山刀,"A big knife favored by rural bandits, it is heavy to cast but has a lot of Power when swung."
+ItemInfo_dlc鸡距,"A short-tipped brush made of Cockspur, used to steal the Animal ring door."
+ItemInfo_dlc龙须,"The Dragon Whisker brush is soft and good at painting, like a dragon flying through the clouds."
+ItemInfo_dlc麟角,"The Unicorn Horn brush is strong and good at bold calligraphy, like a unicorn stepping on ruins."
+ItemInfo_dlc太虚,"The characters written with it are like flowing clouds and water. When combined with special ink, they disappear in light and reappear in fire."
+ItemInfo_dlc玄黄,"Mysterious Yellow, the essence of heaven and earth. All products drawn are of the highest quality."
+ItemInfo_dlc洪荒,"Whether it's writing or painting, it always has the Origin momentum. The calligraphy is like iron and silver, and the painting is lifelike."
+ItemInfo_dlc九环刀,"There are nine iron rings on the back of the knife, which will make a sound during battle, disturbing people's minds."
+ItemInfo_dlc蛇矛枪,"The spearhead is like a coiled snake, the spear tip is sharp, and the penetration power is extremely strong."
+ItemInfo_dlc混铁枪,"The upper end of the spear shaft has a bull horn hook, which can cause double critical damage to the target."
+ItemInfo_dlc春雷,"A famous ancient zither from the previous dynasty, a masterpiece crafted by the zither maker Lei Gong, originally collected by Emperor Zhao, but its whereabouts are unknown after Emperor Zhao was captured."
+ItemInfo_dlc焦尾,"It is said to be created by Cai Yong, the father of the talented woman Cai Wenji, made from a piece of burnt phoenix tree wood, hence the name ""Scorched Tail"". Extremely precious, with a high value."
+ItemInfo_dlc绿绮,"It is said to be the beloved zither of Sima Xiangru from the Han Dynasty, the whole body is black, faintly showing a dark green color, like green vines wrapped around an ancient tree, hence the name."
+ItemInfo_dlc绕梁,"Its sound is lingering, revolving around the beams, endless, hence the name."
+ItemInfo_dlc号钟,"An ancient famous zither, the sound of the zither is so loud, like the sound of a bell ringing, the sound of a horn blowing, it is deafening."
+ItemInfo_dlc囚牛,"A seven-stringed zither named after the eldest son of the dragon, it is said that because of its beautiful tone, it attracted the dragon's son to possess it."
+ItemInfo_dlc镔铁杖,"A solid iron stick, sinking in two buckets of water."
+ItemInfo_dlc齐眉棍,"Made according to body weight, equal to the eyebrows, the stick body has a certain toughness."
+ItemInfo_dlc雕翎扇,"A fan made of green Bird feathers, the color is like jade, and the touch is soft."
+ItemInfo_dlc枉凝眉,"The flute body is made of black metal, with a gold tassel tied at the end as decoration."
+ItemInfo_dlc关山月,"The flute body is made of cold iron, with a white jade orchid tied at the end as decoration."
+ItemInfo_dlc冷沧浪,"The flute body is made of steel, with a Hetian bead tied at the end as decoration."
+ItemInfo_dlc有凤来仪,"The flute body is made of thousand-year-old black iron, the whole body is orange and shiny, with a millipede gold tied at the end as decoration.",ตัวขลุ่ยทำจากเหล็กนิลพันปี ตัวขลุ่ยเป็นสีส้มและเป็นมันเงา มีกิ้งกือทองผูกที่ปลายเป็นของตกแต่ง
+ItemInfo_dlc碧海潮声,"The flute body is made of refined gold, with a pink tassel tied at the end as decoration."
+ItemInfo_dlc笑傲江湖,"The flute body is made of meteorite, with a top-grade jade bead tied at the end as decoration."
+ItemInfo_dlc留香扇,"A high-quality satin fan, with a fragrant scent."
+ItemInfo_dlc狼牙匕,"A sharp Dagger, like a Wolf fang, can be used for self-defense."
+ItemInfo_dlc三棱锥,"A short cone with three edges, a stab will cause continuous bleeding."
+ItemInfo_dlc双凤琵琶,"The body is painted with a symmetrical double phoenix pattern, with five silk strings on top, exquisitely crafted."
+ItemInfo_dlc绕殿雷,"The tone is like a high-pitched shout, the sound is like thunder, hence the name."
+ItemInfo_dlc烧槽,"The whole body is white and purple gradient, the end is inlaid with various jewels, very precious."
+ItemInfo_dlc玄象,"The image formed by the sun, moon, stars, and constellations in the sky is called ""Mysterious Elephant""."
+ItemInfo_dlc青山,Made of green jade with sheep intestine as strings. There are hollowed-out gold ornaments as decorations.
+ItemInfo_dlc狮子丸,The ancient and precious Lute that has disappeared in the rivers and lakes. It is said to be lost in the vast sea.
+ItemInfo_dlc圆锋,"An ancient willow pen holder, with a green glass pendant hanging on it, looks very elegant."
+ItemInfo_dlc昌化,"The brush tip is round, the white jade pen holder, with a blue Gem pendant hanging on it."
+ItemInfo_dlc七弦,A Seven Strings ancient zither that is seven feet and two inches long.
+ItemInfo_dlc独幽,"A musical instrument imitating the shape of an ancient piano from the previous dynasty, reaching the level of being indistinguishable from the real thing, even the cursive ""Loneliness"" carved in the middle of the back shoulder is reproduced."
+ItemInfo_dlc紫竹箫,"There are seven holes in the front and one in the back, often played together with the silk stringed guqin, also known as ""elegant flute""."
+ItemInfo_dlc玉屏箫,"It is popular in Yunnan and Guizhou, and is a treasure among flutes."
+ItemInfo_dlc牛角琵琶,"A lute made with a small amount of buffalo horn, better in both value and sound quality."
+ItemInfo_dlc流云衫,"Clothes made of semi-transparent gauze, comfortable and elegant, light as nothing."
+ItemInfo_dlc金刚甲,"Long-forged steel armor, hence indestructible."
+ItemInfo_dlc明光铠,The armor is polished and looks very shiny.
+ItemInfo_dlc朱雀服,"The legendary treasure clothes that can only be made with the feathers of a divine bird, although it looks thin, it is exceptionally warm when worn, and can move freely in ice and snow."
+ItemInfo_dlc麒麟甲,"Armor made of steel, with neatly arranged and staggered armor pieces all around."
+ItemInfo_dlc玄武铠,"Armor made of black metal, like a vajra bone when worn, impervious to swords and spears.",ชุดเกราะที่ทำจากโลหะสีดำ มีลักษณะคล้ายกระดูกวัชระเมื่อสวมใส่ กันดาบและหอกได้
+ItemInfo_dlc紫罗裙,"Made of fine silk, light as nothing."
+ItemInfo_dlc天蚕宝衣,"Clothes made of golden silkworm silk as material, although they look light and soft, they are impervious to swords and spears, and have excellent protection."
+ItemInfo_dlc霹雳宝铠,"Heavy armor, every step taken after wearing it will make a sound like thunder."
+ItemInfo_dlc锦襕袈裟,"A cassock that can only be worn by accomplished monks, even within the Buddhist community, only a few are qualified to wear it."
+ItemInfo_dlc广袖流仙裙,"Made according to the style of a princess's dress in the palace, even ordinary women will look like a fairy when wearing it, attracting countless admirers."
+ItemInfo_dlc象牙琵琶,"A lute made of ivory and yellow rosewood, quite expensive."
+ItemInfo_dlc精铁内甲,"Armor made of refined iron, providing effective protection."
+ItemInfo_dlc锁子铠,"Armor forged from refined iron, with rings connecting each piece, thick as a city wall."
+ItemInfo_dlc僧袍,"The clothes worn by monks, simple and unadorned."
+ItemInfo_dlc道袍,"The clothes worn by Taoists, with a faint smell of incense."
+ItemInfo_dlc佛手玉坠,Jade pendant in the shape of a Buddha's hand.
+ItemInfo_dlc投名状,A token used among green forest heroes to show loyalty.
+ItemInfo_dlc工字佩,"A jade pendant in the shape of the Chinese character ""工""."
+ItemInfo_dlc三彩乐俑,"A relic from the previous dynasty, depicting people singing and dancing."
+ItemInfo_dlc三足金蟾,"A small statue of a three-legged golden toad, which is said to spit out money and attract wealth."
+ItemInfo_dlc双鱼玉佩,"A yin yang jade ornament carved from white jade, symbolizing double good luck."
+ItemInfo_dlc玉莲花,"A lotus jade pendant carved from top-grade white jade, looks lifelike."
+ItemInfo_dlc滴水观音,"A pendant carved from top-grade green jade, the whole body is green and shiny."
+ItemInfo_dlc玉辟邪,"It is said to be able to ward off evil spirits, and the elderly believe in it."
+ItemInfo_dlc金雕长羽,"Feathers fallen from birds of prey, hard to the touch, wearing it in some places is a symbol and proof of courage."
+ItemInfo_dlc玉如意,"A ruyi made of jade, symbolizing smooth sailing, but in reality, everyone uses it to scratch itches."
+ItemInfo_dlc寒玉玦,"A jade bracelet made of cold jade, often worn as an accessory by the rich. It's unknown from whom Hua Qingqing stole it."
+ItemInfo_dlc金蚕蛊,"Legend has it that various poisonous insects are sealed in a jar, and after they kill each other, the last one remaining will be like a golden silkworm, extremely poisonous."
+ItemInfo_dlc凤鸟玉佩,A jade pendant carved in the shape of a phoenix bird.
+ItemInfo_dlc天穹之印,"An incomplete seal, you can vaguely make out the character ""Sky""."
+ItemInfo_dlc金疮药(小),Low-level Medicine.
+ItemInfo_dlc金疮药(中),Average-level Medicine.
+ItemInfo_dlc金疮药(大),"High-level Medicine, not sure if there is an extra-large size."
+ItemInfo_dlc续命丸(小),Low-level Medicine.
+ItemInfo_dlc续命丸(中),Average-level Medicine.
+ItemInfo_dlc续命丸(大),"High-level Medicine, not sure if there is an extra-large size."
+ItemInfo_dlc培元膏(小),Low-level Medicine.
+ItemInfo_dlc培元膏(中),Average-level Medicine.
+ItemInfo_dlc培元膏(大),"High-level Medicine, not sure if there is an extra-large size."
+ItemInfo_dlc聚元丹(小),Low-level Medicine.
+ItemInfo_dlc聚元丹(中),Average-level Medicine.
+ItemInfo_dlc聚元丹(大),"High-level Medicine, not sure if there is an extra-large size."
+ItemInfo_dlc小还丹(小),Low-level Medicine.,โอสถระดับต่ำ
+ItemInfo_dlc小还丹(中),Average-level Medicine.,โอสถระดับกลาง
+ItemInfo_dlc小还丹(大),"High-level Medicine, not sure if there is an extra-large size.",โอสถระดับสูง ส่วนจะมีระดับสุดยอดหรือไม่ ข้ายังไม่ทราบแน่ชัด
+ItemInfo_dlc大还丹(小),Low-level Medicine.,โอสถระดับต่ำ
+ItemInfo_dlc大还丹(中),Average-level Medicine.,โอสถระดับกลาง
+ItemInfo_dlc大还丹(大),"High-level Medicine, not sure if there is an extra-large size.",โอสถระดับสูง ส่วนจะมีระดับสุดยอดหรือไม่ ข้ายังไม่ทราบแน่ชัด
+ItemInfo_dlc蜜饯果子,<#d09a09>Usage: Take</color>,<#d09a09>วิธีใช้ : รับประทาน</color>
+ItemInfo_dlc雕花橙子,<#d09a09>Usage: Take</color>,<#d09a09>วิธีใช้ : รับประทาน</color>
+ItemInfo_dlc雪花糕,<#d09a09>Usage: Take</color>,<#d09a09>วิธีใช้ : รับประทาน</color>
+ItemInfo_dlc铜钱包裹(小),Can be used to obtain Coins.,ใช้แล้วจะได้รับเหรียญทองแดง
+ItemInfo_dlc铜钱包裹(中),Can be used to obtain Coins.,ใช้แล้วจะได้รับเหรียญทองแดง
+ItemInfo_dlc铜钱包裹(大),Can be used to obtain Coins.,ใช้แล้วจะได้รับเหรียญทองแดง
+ItemInfo_dlc发展包裹(小),Can be used to obtain Meditation Points.,ใช้แล้วจะได้รับค่าสมาธิ
+ItemInfo_dlc发展包裹(中),Can be used to obtain Meditation Points.,ใช้แล้วจะได้รับค่าสมาธิ
+ItemInfo_dlc发展包裹(大),Can be used to obtain Meditation Points.,ใช้แล้วจะได้รับค่าสมาธิ
+ItemInfo_dlc粮食包裹(小),Can be used to obtain Food.,ใช้แล้วจะได้รับเสบียง
+ItemInfo_dlc粮食包裹(中),Can be used to obtain Food.,ใช้แล้วจะได้รับเสบียง
+ItemInfo_dlc粮食包裹(大),Can be used to obtain Food.,ใช้แล้วจะได้รับเสบียง
+ItemInfo_dlc矿物包裹(小),Can be used to obtain Minerals.
+ItemInfo_dlc矿物包裹(中),Can be used to obtain Minerals.
+ItemInfo_dlc矿物包裹(大),Can be used to obtain Minerals.
+ItemInfo_dlc药材包裹(小),Can be used to obtain Herbs.
+ItemInfo_dlc药材包裹(中),Can be used to obtain Herbs.
+ItemInfo_dlc药材包裹(大),Can be used to obtain Herbs.
+ItemInfo_dlc木材包裹(小),Can be used to obtain Wood.
+ItemInfo_dlc木材包裹(中),Can be used to obtain Wood.
+ItemInfo_dlc木材包裹(大),Can be used to obtain Wood.
+ItemInfo_dlc武道源流(小),"Can be used to level up Disciples, note that outer sect Disciples can only level up to 6."
+ItemInfo_dlc武道源流(中),"Can be used to level up Disciples, note that outer sect Disciples can only level up to 6."
+ItemInfo_dlc武道源流(大),"Can be used to level up Disciples, note that outer sect Disciples can only level up to 6."
+ItemInfo_dlc铜钱,Main resource for power development.
+ItemInfo_dlc贡献点,Main resource for power development.
+ItemInfo_dlc食物,Main resource for power development.
+ItemInfo_dlc铁矿,Main resource for power development.
+ItemInfo_dlc药品,Main resource for power development.
+ItemInfo_dlc木材,Main resource for power development.
+ItemInfo_dlc破空梭,Catch them off guard and hit the key points directly.
+ItemInfo_dlc疾风刺,"The shot is extremely fast, making it difficult for people to guard against."
+ItemInfo_dlc龙蛇笔法,"This is a Martial Arts Manual that records the Dragon Snake Pen. The moves are like a dragon piercing the clouds, catching the enemy off guard."
+ItemInfo_dlc狂风扇诀,"This is a fan technique Manual that records the Tornado Fan. The sudden wind has the power to pull a thousand pounds, and no one can match it."
+ItemInfo_dlc流云飞扇,This is a Martial Arts Manual that records the basic fan technique - Drifting Cloud Fan.
+ItemInfo_dlc阳春白雪,"The lute score of ""Spring White Snow"", passed down from ancient times, extremely elegant."
+ItemInfo_dlc碧涧流泉,"The flute score of ""Flowing Mountain Stream"", the style is playful and smooth, hard to find in the market."
+ItemInfo_dlc暗香凌波,"The fragrance is floating, the four directions are the cage."
+ItemInfo_dlc泛沧浪,"The score of ""Fan Canglang"", the music is elegant and makes people put down their guard, then attack with the sound of the piano."
+ItemInfo_dlc阳关三叠,"The score of ""Triassis Yangguan"", originally a farewell song, now means the separation of yin and yang."
+ItemInfo_dlc音波功,"More like a martial art than music, using MP to attack the enemy with sound waves, can achieve a deafening effect."
+ItemInfo_dlc一指禅,A Manual lost by a martial artist was fortuitously obtained by Fang Xiao Bai.
+ItemInfo_dlc罗汉拳法,"A manual recording the basic boxing method of the Shifa Temple - Arhat Fist, more like basic skill training than a martial arts routine."
+ItemInfo_dlc雷云掌,"A fierce boxing technique, which is like a thunderbolt in a clear sky when used."
+ItemInfo_dlc七巧如意手,"A sophisticated boxing technique, with a total of seven moves, each of which is exquisitely unique."
+ItemInfo_dlc逍遥拳法,"Once the unique martial arts of a certain martial arts sect, it is now a fragmentary copy, but still reveals its exquisite agility."
+ItemInfo_dlc黑虎拳,"A popular boxing technique among the common people, mostly about how to use Brute force Attack on the opponent's heart."
+ItemInfo_dlc迷魂毒掌,"A Manual that records a cunning and insidious martial arts routine, the user needs to have a high understanding of Toxicology."
+ItemInfo_dlc连环掌,"It records a complete and coherent set of palm techniques, it's unknown if one has to start over if interrupted."
+ItemInfo_dlc开山刀法,"A very fierce knife technique, but even if you learn it, you can't really split the mountain."
+ItemInfo_dlc破甲刀法,"A manual that records the Armor Breaker Blade technique, suitable for dealing with enemies who are good at defense."
+ItemInfo_dlc雁行刀法,A manual that records the basic knife technique of the rivers and lakes - Wild Goose Blade.
+ItemInfo_dlc风沙刀法,"A knife technique originated from the desert, each move reminds people of the wind and sand of the desert."
+ItemInfo_dlc修罗刀法,"The knife technique is open and close, every move is fatal, only attack and not defend."
+ItemInfo_dlc太乙剑法,"The sword technique of Taoism, square and upright, step by step."
+ItemInfo_dlc浣纱剑法,A sword technique Manual that records Huansha Sword.
+ItemInfo_dlc须弥剑法,A Martial Arts Manual that records the basic sword technique of Jianghu - Sumeru Sword.
+ItemInfo_dlc九宫剑法,"The swordsmanship Manual of the Nine Diagrams Sword, a sword technique realized by a predecessor observing the stars at night."
+ItemInfo_dlc回风剑法,"A Manual that records the Wind Reversal Sword, with this move, you won't be afraid of the heat in summer!"
+ItemInfo_dlc莲花妙剑,"A sword technique Manual that records Lotus Flower Sword, it is said that the person who recorded this Manual was a poet."
+ItemInfo_dlc游龙剑法,A Martial Arts Manual that records the basic sword technique of Jianghu - Dragon Roaming Sword.
+ItemInfo_dlc大力棍法,A Martial Arts Manual detailing the basic staff technique of the martial world - Brutal Staff.
+ItemInfo_dlc破阵大枪,"A spear technique suitable for battlefield use, widely circulated in military camps."
+ItemInfo_dlc腐尸枪法,"A Martial Arts Manual detailing the Rotting Spear technique, a sinister spear technique used in conjunction with various poisons. All heroes in the world avoid it like the plague."
+ItemInfo_dlc普渡杖法,"A Buddhist staff technique, used to save all beings, it injures people but does not kill."
+ItemInfo_dlc蟠龙棍法,A Martial Arts Manual detailing the basic staff technique of the martial world - Dragon Staff.
+ItemInfo_dlc韦陀杖法,A Martial Arts Manual detailing the basic staff technique of the Shifa Temple - Veda Staff.
+ItemInfo_dlc六合枪法,A Martial Arts Manual detailing the basic spear technique of the martial world - Six Forms Spear.
+ItemInfo_dlc儒雅风流,"Every move you make exudes an elegant and honorable demeanor, causing others to lose their spirit at first sight."
+ItemInfo_dlc凌波诀,"Ride the waves, move like a shadow, always one step ahead."
+ItemInfo_dlc金钟罩,"Buddhist heart method, excels in Defense, invulnerable to swords and blades once mastered."
+ItemInfo_dlc腐毒功,"Poisonous internal power, once mastered, the body is surrounded by poisonous gas."
+ItemInfo_dlc金匮要略,"Not only can it be used to detoxify various poisons, but it also has the effects of strengthening the body, beautifying and nourishing the face."
+ItemInfo_dlc玄煞劲,"Protect with the power of Xuan Sha, making the enemy fear and unable to move."
+ItemInfo_dlc捕风诀,"Focus training method for agility, always one step ahead."
+ItemInfo_dlc莽牛劲,"Powerful Charge like a wild bull, attacking the enemy's vital points."
+ItemInfo_dlc破甲劲,"This Qi focuses on attacking the enemy's weak points, breaking their Preparedness."
+ItemInfo_dlc剑法典籍,This records information about various types of famous swords in the current martial arts world.
+ItemInfo_dlc混元劲,"Transforming peaceful and natural internal breath into a strong and upright external force, reducing the consumption of internal power."
+ItemInfo_dlc御兽术,"Records the basic beast taming skills of Beast Manor, which can effectively enhance the combat skills of pets."
+ItemInfo_dlc调息法,"It can keep you young forever, maintaining your youthful appearance."
+ItemInfo_dlc云龙三现,"Holding a dagger, stab the enemy three times at a very fast speed, hitting the key points everywhere."
+ItemInfo_dlc银蛇流光,"Like a silver snake dancing, beautiful and critical."
+ItemInfo_dlc风雷刺法,"The moves are fierce and poisonous, like the punishment of thunder."
+ItemInfo_dlc曹全碑,"The martial arts of writing realized from ""Cao Quan Steele""."
+ItemInfo_dlc逍遥游,"Raise a glass to watch the beauty laugh, a carefree life in the flower bush."
+ItemInfo_dlc风卷残云式,"The impatient attack, the life-threatening lock heart. It has the effect of wind sweeping the clouds."
+ItemInfo_dlc汉宫秋月,"The lute score of ""Autumn Palace Moon"", the tone is hazy, drunk and fallen."
+ItemInfo_dlc鹧鸪天,"Starting from the plum and ending with the plum, the song ends with the death of the person, only the flower knows."
+ItemInfo_dlc蝶舞天涯,It seems that there are millions of colorful butterflies fluttering in the song.
+ItemInfo_dlc梅花三弄,"Can disturb the mind, become mad, lose self."
+ItemInfo_dlc高山流水,"The lost divine song in the martial arts world, said to have close relations with Bo Ya and Zi Qi."
+ItemInfo_dlc般若掌,"One of the unique skills of Buddhist palm techniques, when practicing, you need to have a peaceful mind to exert its miraculous power against the enemy, Exorcist's determination."
+ItemInfo_dlc断魂爪,"An extremely fierce claw technique, making it hard to defend against."
+ItemInfo_dlc破空拳,"It has the momentum to break the sky with one punch, and the name is also very domineering."
+ItemInfo_dlc通天手,"It is said to be a long-lost martial art, once mastered, one can break the sky with one palm and part the clouds to see the sun."
+ItemInfo_dlc大力金刚掌,"A Buddhist palm technique, its power is so great that it can break a person's muscles and bones with one palm."
+ItemInfo_dlc伤情别离掌,It is said to be a boxing technique realized by a highly skilled predecessor when he was disheartened.
+ItemInfo_dlc醉仙拳,"A boxing technique that has higher power after getting Drunk, the whole Manual exudes a strong smell of alcohol."
+ItemInfo_dlc太极拳,"A Taoist boxing technique, integrating the Tao of Yin and Yang and Tai Chi, a slow but fast boxing technique."
+ItemInfo_dlc碧落黄泉,"This finger technique is like No Escape, good at attacking from all angles, leaving the opponent with no counterattack."
+ItemInfo_dlc怒流刀法,"This knife technique is ruthless, the moves are linked together, leaving the enemy with no breath."
+ItemInfo_dlc霹雳刀法,"A fast and decisive knife technique, without any hesitation."
+ItemInfo_dlc破军刀法,A manual that records the Ruinous Star Blade technique.
+ItemInfo_dlc盘空刀法,"This knife technique is good at attacking the upper body, if you are not careful, you will die on the spot."
+ItemInfo_dlc七旋斩,"A sophisticated knife technique, this move is like having seven knives spinning at the same time."
+ItemInfo_dlc碧磷刀法,"Practicing this knife technique allows the blade to be poisoned, touching it can make people lose all senses in an instant."
+ItemInfo_dlc太极剑法,"The highest sword technique Manual of Taoism, gathering the energy of yin and yang, exhausting the wonders of the world."
+ItemInfo_dlc素女剑法,"It is said to be created by a female swordsman, suitable for female knights to learn."
+ItemInfo_dlc贪狼剑法,As fierce as its name.
+ItemInfo_dlc求败九式,"A sword technique said to be used by an undefeated swordsman, the name is really domineering..."
+ItemInfo_dlc岁寒三友,"It emphasizes courtesy before soldiers, attacking the opponent's vital points when they are unprepared, and there is no defeat within three moves."
+ItemInfo_dlc凌尘剑法,"An extremely sharp sword technique, one sword breaks the dust."
+ItemInfo_dlc苍穹剑法,"When the sword technique is fully accomplished, it can pierce the sky with one sword."
+ItemInfo_dlc无锋剑法,"A sword technique manual that requires the use of a blunt sword, but what's the difference between a blunt sword and an iron rod?"
+ItemInfo_dlc广寒剑法,"A sword technique Manual that records Moon Palace Sword, this sword technique carries cold air, which can block the blood vessels and cause blood to flow backwards."
+ItemInfo_dlc太虚十八剑,"It is said to be a sword technique realized by a sage, with eighteen moves, each move has an understanding of everything in the world."
+ItemInfo_dlc星月剑法,"An extremely fast sword technique, like a myriad of stars when used."
+ItemInfo_dlc忘忧剑法,"Its meaning is straightforward, forget worries, meaning to cut off troubles, hope not to cut off happy things."
+ItemInfo_dlc黄泉引路枪,"This spear technique needs to be used in conjunction with toxins, truly insidious to the extreme."
+ItemInfo_dlc云林棍法,The staff technique Manual stored in the Cloud Forest Temple must have its special features.
+ItemInfo_dlc混元棍法,This is a set of staff techniques that gather the energy of the mixed yuan on the staff for both offense and defense.
+ItemInfo_dlc叶家枪法,"A Martial Arts Manual detailing the unique spear technique of the Ye family, which can only show its power on the battlefield, capable of resisting thousands of troops and horses."
+ItemInfo_dlc七杀枪法,A Martial Arts Manual detailing the Power Star Spear technique. This spear technique indeed only has seven moves.
+ItemInfo_dlc疯魔棍法,"The crazier the learner's state of mind, the stronger the power of the staff technique. However, it should not drive you crazy when you practice it."
+ItemInfo_dlc金刚降魔杵,"This is a high-level Buddhist staff technique Manual, which is the technique used by the Western Heaven Protector."
+ItemInfo_dlc紧那罗王棍,This is a Martial Arts Manual that records the high-level Buddhist staff technique - Kinnara Staff. It has a unique style and is said to be used by Buddhist gods.
+ItemInfo_dlc盛世春秋,"The painstaking work of the sages, for the creation of a prosperous age, forge ahead."
+ItemInfo_dlc太极玄,"As the saying goes, the Origin opens to reveal Yin and Yang, Yin and Yang evolve to form Tai Chi. This move emphasizes both hardness and softness, suitable for both movement and stillness. It can be used to delay time with any martial arts."
+ItemInfo_dlc横练金身,"The legendary Diamond Shield, Iron Cloth Shirt. Once mastered, it grants immunity to all poisons and leaves the body unharmed."
+ItemInfo_dlc洛神步,"Like a light cloud covering the moon, like a flowing wind returning snow. This footwork is as Elegant as a dragonfly skimming the water, making it difficult for others to catch up."
+ItemInfo_dlc五毒秘法,"Records the secret method of refining Gu with five poisons, its effect is extremely poisonous and ruthless."
+ItemInfo_dlc纯阳功,"Internal training of the Five Elements Treasure, external training of muscles, bones and skin, and the Meridian in the middle, the Pure Yang Immortal Pine."
+ItemInfo_dlc四圣心源,"Advanced Medical, effective methods for all kinds of difficult and complicated diseases."
+ItemInfo_dlc凌云步,"Comprehend the Lingyun characteristic, making your steps more elusive when facing the enemy."
+ItemInfo_dlc玄阴诀,"The most Yin and evil method, can transform your own MP into a Weapon and inject it into the enemy's body, killing invisibly."
+ItemInfo_dlc藏剑秘卷,"The trick to using a sword. When mastered to the extreme, even a sheathed sword can injure people with its sword energy."
+ItemInfo_dlc寻龙术,"A peculiar book, it records how to find the tombs of ancient people based on the layout of the terrain and Feng Shui."
+ItemInfo_dlc武穆秘典,"A military strategy book written by Ye Pengju, containing profound mental secrets."
+ItemInfo_dlc莽苍诀,"The Big Dipper hangs in the wild, the Bright River floats in the clear sky."
+ItemInfo_dlc圣火燎原,A spark can start a prairie fire.
+ItemInfo_dlc罗刹毒经,"Detailed records of the effects and production methods of various Toxics, the enemy struggles in the pain of being Poisoned."
+ItemInfo_dlc火蟾诀,The internal power mantra imprinted in the Flame Toad Cave.
+ItemInfo_dlc兽吼功,A method of releasing MP during a roar to shock and injure the heart meridians of surrounding enemies.
+ItemInfo_dlc海纳百川,"A collection of breathing adjustment methods from a hundred families, after Advance, you can absorb all kinds of Qi for your own use."
+ItemInfo_dlc五禽戏,"A technique created by imitating the postures of tigers, deer, bears, monkeys, and birds, which has the effect of strengthening the body."
+ItemInfo_dlc天星诀,"Channeling MP into Throwing, aided by inch energy to throw out, even sand and stones can penetrate iron armor."
+ItemInfo_dlc刺秦要诀,"The legendary Dagger Manual, it is said that it is the skill learned by Jing Ke."
+ItemInfo_dlc江山多娇,Every stroke and ink is full of love for this beautiful landscape.
+ItemInfo_dlc扇舞春秋,"It perfectly combines dance and martial arts, and every move has the changes of spring, summer, autumn and winter."
+ItemInfo_dlc天外流星,Sophisticated Martial Arts that the ancients understood from the situation of a meteor falling.
+ItemInfo_dlc蝶恋花,"Alone on the high building, looking at the end of the world."
+ItemInfo_dlc十面埋伏,"The tune is full of the sound of war, killing intent everywhere."
+ItemInfo_dlc广陵散,"It is said that Ji Kang was good at playing this tune, but he kept it secret. The real thing has long been lost."
+ItemInfo_dlc傲江湖,"Laugh at the sea, waves rise and fall, who can look down upon all heroes, only heaven knows."
+ItemInfo_dlc万蛊谣,"A special music that can stimulate the outbreak of poisonous insects. During the performance, thousands of insects surge, corroding the heart and bones."
+ItemInfo_dlc灭天掌,"An extremely domineering palm technique, it is said that the sun, moon, stars, and constellations all avoid it, but it's a bit exaggerated."
+ItemInfo_dlc如来神掌,"I guess you've heard of a palm technique that fell from the sky, right?"
+ItemInfo_dlc撼天指法,"An extremely domineering finger technique, its Power is said to be able to shake the heavens and the earth."
+ItemInfo_dlc烈阳拳,"A strange boxing technique with only one move, a heat wave hits your face when you use it."
+ItemInfo_dlc贯云指,"Gather years of cultivated MP at the fingertips, one strike can penetrate the sky."
+ItemInfo_dlc紫薇惊龙掌,"A palm technique that gathers Dragon King Aura, with a faint dragon roar."
+ItemInfo_dlc吞鲸刀法,It is said to be a sword technique that can split even a whale in two.
+ItemInfo_dlc斩天刀法,"The unique knife technique of the Cold Skin GangMaster, with an unparalleled and domineering style, almost possessing the power to split the sky."
+ItemInfo_dlc天魔刀法,A Martial Arts Manual detailing the legendary sword technique - Archdemon Blade. It is said that anyone who masters this technique and falls into the demonic path will be invincible.
+ItemInfo_dlc一刀斩,"Concentrating all strength into a single strike, the outcome is decided in one move."
+ItemInfo_dlc无极剑法,"The ultimate understanding of swordsmanship, reaching the realm of understanding the laws of the world."
+ItemInfo_dlc磐龙剑法,An ancient and profound sword manual.
+ItemInfo_dlc破天剑法,"A martial arts manual that records the legendary sword technique - Sky Breaker Sword, it is said that after mastering this technique, the sword qi can split the sky."
+ItemInfo_dlc浮华掠影剑,A sword technique that combines the strengths of all families and integrates hundreds of families.
+ItemInfo_dlc九黎巫叉,"It is said to be a spear technique used by the ferocious god of the Jiuli in ancient times, mysterious and critical."
+ItemInfo_dlc天罡飞龙杖,This move is like a stampede of thousands of beasts.
+ItemInfo_dlc沥泉枪法,It is said to be obtained by Ye Pengju by chance in his youth. This spear technique is easy to learn and every move is critical.
+ItemInfo_dlc达摩杖法,The secret of Martial Arts from the country of ten thousand Buddhas.
+ItemInfo_dlc儒十三经,"It summarizes the various speeches, thoughts and deeds of Confucian sages and their disciples, and is one of the most important Books in the eyes of Confucian students."
+ItemInfo_dlc无极混元功,"One begets two, two begets three, three begets all things. All things in heaven and earth are one, and you can see all things through a glimpse."
+ItemInfo_dlc大日如来经,"Named after the five Buddhas, it can remove all evil spirits and delusions, and is invulnerable to all poisons."
+ItemInfo_dlc天魔噬魂术,An extremely domineering evil skill that can turn the enemy's flesh and blood into one's own use.
+ItemInfo_dlc霓裳羽衣经,"A footwork sutra created based on ancient dance, which can step on lotus at every step and change shape and shadow."
+ItemInfo_dlc巫蛊毒功,"The witchcraft of Miaojiang, those who are bewitched will lose their minds and become like walking corpses obeying the bewitcher."
+ItemInfo_dlc惊涛骇浪诀,Records how to Attack the enemy as fiercely as a wave.
+ItemInfo_dlc兽王诀,"It records the most profound beast taming skills of Beast Manor, which can maximize the potential of pets."
+ItemInfo_dlc天女散花,"Transform MP into gas, use petals as needles, and carry out a wide range of range Attacks, belonging to the ""No Escape"" technique in Throwing."
+ItemInfo_dlc九霄真经,"An extremely profound heart method Manual, divided into nine orifices and nine chapters, once mastered, all potential can be brought to the limit, reaching the realm of heaven and man."
+ItemInfo_dlc满江红,"Ye Pengju's final words written on the wall of the Supreme Court Prison, full of grandeur, loyalty, and heartfelt feelings."
+ItemInfo_dlc圣火神功,"The secret skill of the Divine Flame Sect, it is said that only those who have learned the Holy Fire Divine Skill are qualified to succeed as the next Divine Flame Sect master."
+ItemInfo_dlc祈禳大法,"As long as there is a breath, you can Revitalization. It is a method of prolonging life that everyone in the rivers and lakes wants to get."
+ItemInfo_dlc万民掌,"With a wave of the palm, the crowd surges! United as one, unstoppable!"
+ItemInfo_dlc无名剑法,"A sword technique whose name has been lost, a truly powerful sword technique does not need the name of the move to set it off."
+ItemInfo_dlc蛮荒霸道斩,"A sword technique that is expansive and domineering, possessing the power to cleave the Primal Land."
+ItemInfo_dlc百鸟朝凰枪,"It is said to be a profound spear technique created by the master of spears, Tong Yuan. Once you learn this spear technique, you can be called the ""King of Spears""."
+ItemInfo_dlc分光流星刺,A record of the top assassination Martial Arts created by several generations of Assassin leaders.
+ItemInfo_dlc笑红尘,"Although this life is not over, the heart is not disturbed, laugh at the world, love and hate are all erased."
+ItemInfo_dlc玛瑙,"A type of jade with patterns resembling a horse's brain, hence the name.\n<#d09a09>Usage: Gift</color>"
+ItemInfo_dlc猫眼石,"The light on the stone is as bright and flexible as a cat's eye, hence the name.\n<#d09a09>Usage: Gift</color>"
+ItemInfo_dlc孔雀石,"An ancient and precious jade material, its color is identical to peacock feathers.\n<#d09a09>Usage: Gift</color>"
+ItemInfo_dlc天珠,"A very precious jade, produced in plateau areas.\n<#d09a09>Usage: Gift</color>"
+ItemInfo_dlc武林凭证,"It is rumored that this item can be obtained in the Martial Arts Conference, and it seems that some people in the rivers and lakes are exchanging it for profound Martial Arts."
+ItemInfo_dlc真·虚日鼠兽环,One of the genuine twelve animal rings.
+ItemInfo_dlc真·牛金牛兽环,One of the genuine twelve animal rings.
+ItemInfo_dlc真·尾火虎兽环,One of the genuine twelve animal rings.
+ItemInfo_dlc真·房日兔兽环,One of the genuine twelve animal rings.
+ItemInfo_dlc真·亢金龙兽环,One of the genuine twelve animal rings.
+ItemInfo_dlc真·翼火蛇兽环,One of the genuine twelve animal rings.
+ItemInfo_dlc真·星日马兽环,One of the genuine twelve animal rings.
+ItemInfo_dlc真·鬼金羊兽环,One of the genuine twelve animal rings.
+ItemInfo_dlc真·觜火猴兽环,One of the genuine twelve animal rings.
+ItemInfo_dlc真·昴日鸡兽环,One of the genuine twelve animal rings.
+ItemInfo_dlc真·娄金狗兽环,One of the genuine twelve animal rings.
+ItemInfo_dlc真·室火猪兽环,One of the genuine twelve animal rings.
+FondTag_资源,Resources
+ItemName_dlc神机战匣,Secret Battle Box
+ItemName_dlc吹雪,Fubuki
+ItemName_dlc斋心,Shinsai
+ItemName_dlc吹雪碎片1,Fubuki Part·One
+ItemName_dlc吹雪碎片2,Fubuki Part·Two
+ItemName_dlc吹雪碎片3,Fubuki Part·Three
+ItemName_dlc斋心碎片1,Shinsai Part·One
+ItemName_dlc斋心碎片2,Shinsai Part·Two
+ItemName_dlc斋心碎片3,Shinsai Part·Three
+ItemName_dlc神机战匣碎片1,Secret Battle Box Part·One
+ItemName_dlc神机战匣碎片2,Secret Battle Box Part·Two
+ItemName_dlc神机战匣碎片3,Secret Battle Box Part·Three
+ItemInfo_dlc神机战匣,"A masterpiece of craftsmanship, containing machinery, can be freely assembled into a hundred weapons to fight the enemy."
+ItemInfo_dlc吹雪,"Impervious to swords and spears, blood does not stick, ordinary methods cannot harm it."
+ItemInfo_dlc斋心,"Thousand-year-old jade, with extraordinary effects, wearing it can double the effect of martial arts practice."
+ItemInfo_dlc吹雪碎片1,"One of the fragments that make up ""Fubuki"". It is said that collecting three fragments can form ""Fubuki""."
+ItemInfo_dlc吹雪碎片2,"One of the fragments that make up ""Fubuki"". It is said that collecting three fragments can form ""Fubuki""."
+ItemInfo_dlc吹雪碎片3,"One of the fragments that make up ""Fubuki"". It is said that collecting three fragments can form ""Fubuki""."
+ItemInfo_dlc斋心碎片1,"One of the fragments that make up ""Shinsai"". It is said that collecting three fragments can form ""Shinsai""."
+ItemInfo_dlc斋心碎片2,"One of the fragments that make up ""Shinsai"". It is said that collecting three fragments can form ""Shinsai""."
+ItemInfo_dlc斋心碎片3,"One of the fragments that make up ""Shinsai"". It is said that collecting three fragments can form ""Shinsai""."
+ItemInfo_dlc神机战匣碎片1,"One of the fragments that make up ""Secret Battle Box"". It is said that collecting three fragments can form ""Secret Battle Box""."
+ItemInfo_dlc神机战匣碎片2,"One of the fragments that make up ""Secret Battle Box"". It is said that collecting three fragments can form ""Secret Battle Box""."
+ItemInfo_dlc神机战匣碎片3,"One of the fragments that make up ""Secret Battle Box"". It is said that collecting three fragments can form ""Secret Battle Box""."
+ItemName_dlc浩然令,Hao Ran Order
+ItemInfo_dlc浩然令,A certificate from the nameless hero to commend the Defender for his righteousness and contribution to the martial arts world.

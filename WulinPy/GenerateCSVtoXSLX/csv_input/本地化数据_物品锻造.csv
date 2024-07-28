@@ -1,0 +1,717 @@
+﻿﻿ForgeEffect_外功伤害加成1,<#EFD09F>Monumental</color>,<#EFD09F>อนุสาวรีย์</color>
+ForgeEffect_外功伤害加成2,<#EFD09F>Monumental</color>,<#EFD09F>อนุสาวรีย์</color>
+ForgeEffect_外功伤害加成3,<#EFD09F>Monumental</color>,<#EFD09F>อนุสาวรีย์</color>
+ForgeEffect_外功伤害减免1,<#EFD09F>Iron Bone</color>,<#EFD09F>กระดูกเหล็ก</color>
+ForgeEffect_外功伤害减免2,<#EFD09F>Iron Bone</color>,<#EFD09F>กระดูกเหล็ก</color>
+ForgeEffect_外功伤害减免3,<#EFD09F>Iron Bone</color>,<#EFD09F>กระดูกเหล็ก</color>
+ForgeEffect_生命增加1,<#EFD09F>Health Maintenance</color>,<#EFD09F>ดูแลสุขภาพ</color>
+ForgeEffect_生命增加2,<#EFD09F>Health Maintenance</color>,<#EFD09F>ดูแลสุขภาพ</color>
+ForgeEffect_生命增加3,<#EFD09F>Health Maintenance</color>,<#EFD09F>ดูแลสุขภาพ</color>
+ForgeEffect_生命增加4,<#EFD09F>Health Maintenance</color>,<#EFD09F>ดูแลสุขภาพ</color>
+ForgeEffect_生命百分比增加1,<#EFD09F>Longevity</color>,<#EFD09F>อายุยืน</color>
+ForgeEffect_生命百分比增加2,<#EFD09F>Longevity</color>,<#EFD09F>อายุยืน</color>
+ForgeEffect_生命百分比增加3,<#EFD09F>Longevity</color>,<#EFD09F>อายุยืน</color>
+ForgeEffect_生命百分比增加4,<#EFD09F>Longevity</color>,<#EFD09F>อายุยืน</color>
+ForgeEffect_内力增加1,<#EFD09F>Rest</color>,<#EFD09F>พักผ่อน</color>
+ForgeEffect_内力增加2,<#EFD09F>Rest</color>,<#EFD09F>พักผ่อน</color>
+ForgeEffect_内力增加3,<#EFD09F>Rest</color>,<#EFD09F>พักผ่อน</color>
+ForgeEffect_内力百分比增加1,<#EFD09F>Consolidate</color>,<#EFD09F>รวบรวม</color>
+ForgeEffect_内力百分比增加2,<#EFD09F>Consolidate</color>,<#EFD09F>รวบรวม</color>
+ForgeEffect_内力百分比增加3,<#EFD09F>Consolidate</color>,<#EFD09F>รวบรวม</color>
+ForgeEffect_攻击增加1,<#EFD09F>Attack</color>,<#EFD09F>โจมตี</color>
+ForgeEffect_攻击增加2,<#EFD09F>Attack</color>,<#EFD09F>โจมตี</color>
+ForgeEffect_攻击增加3,<#EFD09F>Attack</color>,<#EFD09F>โจมตี</color>
+ForgeEffect_攻击增加4,<#EFD09F>Attack</color>,<#EFD09F>โจมตี</color>
+ForgeEffect_攻击增加5,<#EFD09F>Attack</color>,<#EFD09F>โจมตี</color>
+ForgeEffect_攻击增加6,<#EFD09F>Attack</color>,<#EFD09F>โจมตี</color>
+ForgeEffect_攻击增加7,<#EFD09F>Attack</color>,<#EFD09F>โจมตี</color>
+ForgeEffect_攻击增加8,<#EFD09F>Attack</color>,<#EFD09F>โจมตี</color>
+ForgeEffect_攻击增加9,<#EFD09F>Attack</color>,<#EFD09F>โจมตี</color>
+ForgeEffect_攻击增加10,<#EFD09F>Attack</color>,<#EFD09F>โจมตี</color>
+ForgeEffect_攻击增加11,<#EFD09F>Attack</color>,<#EFD09F>โจมตี</color>
+ForgeEffect_攻击增加12,<#EFD09F>Attack</color>,<#EFD09F>โจมตี</color>
+ForgeEffect_攻击增加13,<#EFD09F>Attack</color>,<#EFD09F>โจมตี</color>
+ForgeEffect_防御增加1,<#EFD09F>Defense</color>,<#EFD09F>ป้องกัน</color>
+ForgeEffect_防御增加2,<#EFD09F>Defense</color>,<#EFD09F>ป้องกัน</color>
+ForgeEffect_防御增加3,<#EFD09F>Defense</color>,<#EFD09F>ป้องกัน</color>
+ForgeEffect_防御增加4,<#EFD09F>Defense</color>,<#EFD09F>ป้องกัน</color>
+ForgeEffect_防御增加5,<#EFD09F>Defense</color>,<#EFD09F>ป้องกัน</color>
+ForgeEffect_防御增加6,<#EFD09F>Defense</color>,<#EFD09F>ป้องกัน</color>
+ForgeEffect_轻功增加1,<#EFD09F>Swift Swallow</color>,<#EFD09F>นกนางแอ่น</color>
+ForgeEffect_轻功增加2,<#EFD09F>Swift Swallow</color>,<#EFD09F>นกนางแอ่น</color>
+ForgeEffect_轻功增加3,<#EFD09F>Swift Swallow</color>,<#EFD09F>นกนางแอ่น</color>
+ForgeEffect_轻功增加4,<#EFD09F>Swift Swallow</color>,<#EFD09F>นกนางแอ่น</color>
+ForgeEffect_轻功减少1,<#EFD09F>Bound Feet</color>,<#EFD09F>ผูกเท้า</color>
+ForgeEffect_轻功减少2,<#EFD09F>Bound Feet</color>,<#EFD09F>ผูกเท้า</color>
+ForgeEffect_轻功减少3,<#EFD09F>Bound Feet</color>,<#EFD09F>ผูกเท้า</color>
+ForgeEffect_轻功减少4,<#EFD09F>Bound Feet</color>,<#EFD09F>ผูกเท้า</color>
+ForgeEffect_集气速度增加1,<#EFD09F>Divine Movement</color>,<#EFD09F>เคลื่อนไหวอันศักดิ์สิทธิ์</color>
+ForgeEffect_集气速度增加2,<#EFD09F>Divine Movement</color>,<#EFD09F>เคลื่อนไหวอันศักดิ์สิทธิ์</color>
+ForgeEffect_集气速度增加3,<#EFD09F>Divine Movement</color>,<#EFD09F>เคลื่อนไหวอันศักดิ์สิทธิ์</color>
+ForgeEffect_集气速度减少1,<#EFD09F>Slow</color>,<#EFD09F>เชื่องช้า</color>
+ForgeEffect_集气速度减少2,<#EFD09F>Slow</color>,<#EFD09F>เชื่องช้า</color>
+ForgeEffect_集气速度减少3,<#EFD09F>Slow</color>,<#EFD09F>เชื่องช้า</color>
+ForgeEffect_命中增加1,<#EFD09F>See Through</color>,<#EFD09F>มองทะลุ</color>
+ForgeEffect_命中增加2,<#EFD09F>See Through</color>,<#EFD09F>มองทะลุ</color>
+ForgeEffect_命中增加3,<#EFD09F>See Through</color>,<#EFD09F>มองทะลุ</color>
+ForgeEffect_命中增加4,<#EFD09F>See Through</color>,<#EFD09F>มองทะลุ</color>
+ForgeEffect_命中增加5,<#EFD09F>See Through</color>,<#EFD09F>มองทะลุ</color>
+ForgeEffect_命中减少1,
+ForgeEffect_命中减少2,
+ForgeEffect_命中减少3,
+ForgeEffect_命中减少4,
+ForgeEffect_闪避增加1,<#EFD09F>Elusive</color>,<#EFD09F>หลบหลีก</color>
+ForgeEffect_闪避增加2,<#EFD09F>Elusive</color>,<#EFD09F>หลบหลีก</color>
+ForgeEffect_闪避增加3,<#EFD09F>Elusive</color>,<#EFD09F>หลบหลีก</color>
+ForgeEffect_闪避增加4,<#EFD09F>Elusive</color>,<#EFD09F>หลบหลีก</color>
+ForgeEffect_闪避增加5,<#EFD09F>Elusive</color>,<#EFD09F>หลบหลีก</color>
+ForgeEffect_闪避减少1,
+ForgeEffect_闪避减少2,
+ForgeEffect_闪避减少3,
+ForgeEffect_暴击增加1,<#EFD09F>Effort</color>,<#EFD09F>มานะ</color>
+ForgeEffect_暴击增加2,<#EFD09F>Effort</color>,<#EFD09F>มานะ</color>
+ForgeEffect_暴击增加3,<#EFD09F>Effort</color>,<#EFD09F>มานะ</color>
+ForgeEffect_暴击增加4,<#EFD09F>Effort</color>,<#EFD09F>มานะ</color>
+ForgeEffect_暴击增加5,<#EFD09F>Effort</color>,<#EFD09F>มานะ</color>
+ForgeEffect_暴击减少1,<#EFD09F>Disperse</color>,<#EFD09F>แยกย้าย</color>
+ForgeEffect_暴击减少2,<#EFD09F>Disperse</color>,<#EFD09F>แยกย้าย</color>
+ForgeEffect_暴击减少3,<#EFD09F>Disperse</color>,<#EFD09F>แยกย้าย</color>
+ForgeEffect_暴击减少4,<#EFD09F>Disperse</color>,<#EFD09F>แยกย้าย</color>
+ForgeEffect_暴击减少5,<#EFD09F>Disperse</color>,<#EFD09F>แยกย้าย</color>
+ForgeEffect_格挡增加1,<#EFD09F>Hold Fast</color>,<#EFD09F>คว้าไว</color>
+ForgeEffect_格挡增加2,<#EFD09F>Hold Fast</color>,<#EFD09F>คว้าไว</color>
+ForgeEffect_格挡增加3,<#EFD09F>Hold Fast</color>,<#EFD09F>คว้าไว</color>
+ForgeEffect_格挡增加4,<#EFD09F>Hold Fast</color>,<#EFD09F>คว้าไว</color>
+ForgeEffect_格挡增加5,<#EFD09F>Hold Fast</color>,<#EFD09F>คว้าไว</color>
+ForgeEffect_格挡减少1,<#EFD09F>Lost Mind</color>,<#EFD09F>เสียสติ</color>
+ForgeEffect_格挡减少2,<#EFD09F>Lost Mind</color>,<#EFD09F>เสียสติ</color>
+ForgeEffect_格挡减少3,<#EFD09F>Lost Mind</color>,<#EFD09F>เสียสติ</color>
+ForgeEffect_格挡减少4,<#EFD09F>Lost Mind</color>,<#EFD09F>เสียสติ</color>
+ForgeEffect_格挡减少5,<#EFD09F>Lost Mind</color>,<#EFD09F>เสียสติ</color>
+ForgeEffect_医术增加1,<#EFD09F>Skilled Hand</color>,<#EFD09F>มี</color>ฝีมือ
+ForgeEffect_医术增加2,<#EFD09F>Skilled Hand</color>,<#EFD09F>มี</color>ฝีมือ
+ForgeEffect_医术增加3,<#EFD09F>Skilled Hand</color>,<#EFD09F>มี</color>ฝีมือ
+ForgeEffect_医术增加4,<#EFD09F>Skilled Hand</color>,<#EFD09F>มี</color>ฝีมือ
+ForgeEffect_医术增加5,<#EFD09F>Skilled Hand</color>,<#EFD09F>มี</color>ฝีมือ
+ForgeEffect_医术增加6,<#EFD09F>Skilled Hand</color>,<#EFD09F>มี</color>ฝีมือ
+ForgeEffect_医术百分比增加蓝,
+ForgeEffect_医术百分比增加紫,
+ForgeEffect_医术百分比增加黄,
+ForgeEffect_毒术增加1,<#EFD09F>Red Refinement</color>,<#EFD09F>ชาดประณีต</color>
+ForgeEffect_毒术增加2,<#EFD09F>Red Refinement</color>,<#EFD09F>ชาดประณีต</color>
+ForgeEffect_毒术增加3,<#EFD09F>Red Refinement</color>,<#EFD09F>ชาดประณีต</color>
+ForgeEffect_毒术增加4,<#EFD09F>Red Refinement</color>,<#EFD09F>ชาดประณีต</color>
+ForgeEffect_毒术增加5,<#EFD09F>Red Refinement</color>,<#EFD09F>ชาดประณีต</color>
+ForgeEffect_毒术增加6,<#EFD09F>Red Refinement</color>,<#EFD09F>ชาดประณีต</color>
+ForgeEffect_毒术百分比增加蓝,
+ForgeEffect_毒术百分比增加紫,
+ForgeEffect_毒术百分比增加黄,
+ForgeEffect_战斗移动增加1,<#EFD09F>Speed Up</color>,<#EFD09F>เร่งความเร็ว</color>
+ForgeEffect_战斗移动增加2,<#EFD09F>Speed Up</color>,<#EFD09F>เร่งความเร็ว</color>
+ForgeEffect_战斗移动增加3,<#EFD09F>Speed Up</color>,<#EFD09F>เร่งความเร็ว</color>
+ForgeEffect_战斗移动减少1,<#EFD09F>Heavy Load</color>,<#EFD09F>ภาระหนัก</color>
+ForgeEffect_战斗移动减少2,<#EFD09F>Heavy Load</color>,<#EFD09F>ภาระหนัก</color>
+ForgeEffect_战斗移动减少3,<#EFD09F>Heavy Load</color>,<#EFD09F>ภาระหนัก</color>
+ForgeEffect_连击增加1,<#EFD09F>Wave Stacking</color>,<#EFD09F>คลื่นใหญ่</color>
+ForgeEffect_连击增加2,<#EFD09F>Wave Stacking</color>,<#EFD09F>คลื่นใหญ่</color>
+ForgeEffect_连击增加3,<#EFD09F>Wave Stacking</color>,<#EFD09F>คลื่นใหญ่</color>
+ForgeEffect_连击增加4,<#EFD09F>Wave Stacking</color>,<#EFD09F>คลื่นใหญ่</color>
+ForgeEffect_连击增加5,<#EFD09F>Wave Stacking</color>,<#EFD09F>คลื่นใหญ่</color>
+ForgeEffect_寒铁拳套1,<#EFD09F>Chasing</color>,<#EFD09F>ไล่ตาม</color>
+ForgeEffect_昆仑1,<#EFD09F>Bloodlust</color>,<#EFD09F>กระหายเลือด</color>
+ForgeEffect_昆仑2,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_降龙1,<#EFD09F>Berserk</color>,<#EFD09F>บ้าคลั่ง</color>
+ForgeEffect_降龙2,<#EFD09F>Impact</color>,<#EFD09F>กระแทก</color>
+ForgeEffect_乾坤1,<#EFD09F>Energy Conversion</color>,<#EFD09F>แปลงพลังงาน</color>
+ForgeEffect_乾坤2,<#EFD09F>Fist Aura</color>,<#EFD09F>รัศมีหมัด</color>
+ForgeEffect_开明1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_开明2,<#EFD09F>Bloodlust</color>,<#EFD09F>กระหายเลือด</color>
+ForgeEffect_少昊1,<#EFD09F>Life Drain</color>,<#EFD09F>ดูดพลังชีวิต</color>
+ForgeEffect_少昊2,<#EFD09F>Meridian Break</color>,<#EFD09F>เส้นลมปราณติดขัด</color>
+ForgeEffect_北冥1,<#EFD09F>Energy Taker</color>,<#EFD09F>ดูดพลัง</color>
+ForgeEffect_北冥2,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_倚天剑1,<#EFD09F>Dazzling</color>,<#EFD09F>วูบวาบ</color>
+ForgeEffect_干将1,<#EFD09F>Bloodlust</color>,<#EFD09F>กระหายเลือด</color>
+ForgeEffect_干将2,<#EFD09F>Open Wound</color>,<#EFD09F>แผลเปิด</color>
+ForgeEffect_轩辕1,<#EFD09F>Benevolence</color>,<#EFD09F>ศีลธรรม</color>
+ForgeEffect_轩辕2,<#EFD09F>Wisdom</color>,<#EFD09F>ภูมิปัญญา</color>
+ForgeEffect_太乙刀1,<#EFD09F>Bloodlust</color>,<#EFD09F>กระหายเลือด</color>
+BuffPropPair_寒铁拳套1,"When attacking, your combo increases by <#29F161>{寒铁拳套1多效果1%}</color>.","เมื่อโจมตี, อัตราโจมตีต่อเนื่องเพิ่มขึ้น <#29F161>{寒铁拳套1多效果1%}</color>"
+BuffPropPair_昆仑1,"When attacking the enemy, gain an additional <#29F161>{昆仑1多效果1} points of spirit</color> for yourself.",เมื่อโจมตีศัตรู จะได้รับพลังใจเพิ่มเติม <#29F161>{昆仑1多效果1}</color> แต้มสำหรับตัวเอง
+BuffPropPair_昆仑2,"When attacking, reduce the enemy's <#FE2929>{昆仑2多效果1} points of energy</color>.",เมื่อโจมตี ลดค่าปราณเคลื่อนที่ของศัตรูลง <#FE2929>{昆仑2多效果1}</color> แต้ม
+BuffPropPair_降龙1,"Trigger Critical when attacking, <#29F161>Critical Increases Damage{降龙1多效果1%}</color>.",เกิดคริติคอลเมื่อโจมตี <#29F161>เพิ่มความเสียหายคริติคอล{降龙1多效果1%}</color>.
+BuffPropPair_降龙2,Cause <#FE2929>{降龙2多效果1} points of Internal Injury</color> to the enemy when attacking.,ทำให้ศัตรูได้รับ <#FE2929>{降龙2多效果1} แต้มบาดเจ็บภายใน</color> เมื่อทำการโจมตี
+BuffPropPair_乾坤1,Reduce the enemy's <#FE2929>{乾坤1多效果1%} MP value</color> when attacking.,ลดค่า MP <#FE2929>{乾坤1多效果1%}</color> ของศัตรูเมื่อทำการโจมตี
+BuffPropPair_乾坤2,"When the enemy triggers Parry or Evasion during an attack, the enemy's <#FE2929>Attack damage is reduced by {乾坤2多效果1%}</color> in their next action.",เมื่อศัตรูเกิดใช้ ปัดป้อง หรือ หลบหลีก ในระหว่างการโจมตี <#FE2929>ความเสียหายจากการโจมตีของศัตรูจะลดลง {乾坤2多效果1%}</color> ในการกระทำถัดไป
+BuffPropPair_开明1,<#29F161>Final Increases Damage{开明1多效果1%}</color> when attacking.,<#29F161>เพิ่มความสุดท้ายเสียหาย {开明1多效果1%}</color> เมื่อโจมตี
+BuffPropPair_开明2,Gain an extra <#29F161>{开明2多效果1} points of Spirit</color> when attacking the enemy.,ได้รับ <#29F161>{阎2多效果1} แต้มพลังใจ</color> เมื่อโจมตีศัตรู
+BuffPropPair_少昊1,The damage inflicted on the enemy when attacking will be converted into <#29F161>{少昊1多效果1%} of your own HP</color>.,เมื่อโจมตีความเสียหายที่เกิดกับศัตรูจะถูกแปลงเป็น <#29F161>{少昊1多效果1%} ของ HP ของคุณเอง</color>
+BuffPropPair_少昊2,Cause <#FE2929>{少昊2多效果1} points of Sealed</color> to the enemy when attacking.,ทำให้ศัตรูได้รับ <#FE2929>{少昊2多效果1} แต้ม สกัดจุด</color> เมื่อทำการโจมตี
+BuffPropPair_北冥1,Absorb <#29F161>{北冥1多效果1%} of the enemy's remaining MP</color> with each attack.,ดูดซับ <#29F161>{北冥1多效果1%} MP ที่เหลืออยู่ของศัตรู</color> ในการโจมตีแต่ละครั้ง
+BuffPropPair_北冥2,Reduce the enemy's <#FE2929>{北冥2多效果1} points of Qi gathering value</color> when attacking.,ลด <#FE2929>ค่าปราณเคลื่อนที่ {北冥2多效果1} แต้ม</color> ของศัตรูเมื่อโจมตี
+BuffPropPair_倚天剑1,"When attacking, inflict <#FE2929>{倚天剑1多效果1} points of Blinded</color> on the enemy.",เมื่อโจมตี สร้างสถานะ <#FE2929>ตาบอด {倚天剑1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_干将1,"When attacking the enemy, you gain an additional <#29F161>{干将1多效果1} points of Spirit</color>.",ได้รับ <#29F161>พลังใจเพิ่ม {干将1多效果1} แต้ม</color> เมื่อโจมตีศัตรู
+BuffPropPair_干将2,"When attacking, inflict <#FE2929>{干将2多效果1} points of Bleeding</color> on the enemy.",เมื่อโจมตี สร้างสถานะ <#FE2929>เลือดไหล {干将2多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_轩辕1,"When the protagonist's Benevolence is above 0, for every 10 points above, <#29F161>final damage increases by {轩辕1多效果1%}</color>.",เมื่อศีลธรรมของตัวเอกมากกว่า 0 ทุกๆ 10 แต้มขึ้น <#29F161>ความเสียหายสุดท้ายจะเพิ่มขึ้น {轩辕1多效果1%}</color>
+BuffPropPair_轩辕2,"When the protagonist's Wisdom is above 0, for every 10 points above, <#29F161>final damage increases by {轩辕2多效果1%}</color>.",เมื่อภูมิปัญญาของตัวเอกมากกว่า 0 ทุกๆ 10 แต้มขึ้น <#29F161>ความเสียหายสุดท้ายจะเพิ่มขึ้น {轩辕2多效果1%}</color>.
+BuffPropPair_太乙刀1,"When attacking the enemy, you gain an additional <#29F161>{太乙刀1多效果1} points of Spirit</color>.",ได้รับ <#29F161>พลังใจเพิ่ม {太乙刀1多效果1} แต้ม</color> เมื่อโจมตีศัตรู
+ForgeEffect_生命增加5,<#EFD09F>Health Maintenance</color>,<#EFD09F>ดูแลสุขภาพ</color>
+ForgeEffect_生命增加6,<#EFD09F>Health Maintenance</color>,<#EFD09F>ดูแลสุขภาพ</color>
+ForgeEffect_生命增加7,<#EFD09F>Health Maintenance</color>,<#EFD09F>ดูแลสุขภาพ</color>
+ForgeEffect_生命增加8,<#EFD09F>Health Maintenance</color>,<#EFD09F>ดูแลสุขภาพ</color>
+ForgeEffect_防御增加7,<#EFD09F>Defense</color>,<#EFD09F>ป้องกัน</color>
+ForgeEffect_防御增加8,<#EFD09F>Defense</color>,<#EFD09F>ป้องกัน</color>
+ForgeEffect_防御增加9,<#EFD09F>Defense</color>,<#EFD09F>ป้องกัน</color>
+ForgeEffect_防御增加10,<#EFD09F>Defense</color>,<#EFD09F>ป้องกัน</color>
+ForgeEffect_防御增加11,<#EFD09F>Defense</color>,<#EFD09F>ป้องกัน</color>
+ForgeEffect_防御增加12,<#EFD09F>Defense</color>,<#EFD09F>ป้องกัน</color>
+ForgeEffect_防御增加13,<#EFD09F>Defense</color>,<#EFD09F>ป้องกัน</color>
+ForgeEffect_防御增加14,<#EFD09F>Defense</color>,<#EFD09F>ป้องกัน</color>
+ForgeEffect_防御增加15,<#EFD09F>Defense</color>,<#EFD09F>ป้องกัน</color>
+ForgeEffect_防御增加16,<#EFD09F>Defense</color>,<#EFD09F>ป้องกัน</color>
+ForgeEffect_防御增加17,<#EFD09F>Defense</color>,<#EFD09F>ป้องกัน</color>
+ForgeEffect_命中增加6,<#EFD09F>See Through</color>,<#EFD09F>มองทะลุ</color>
+ForgeEffect_命中增加7,<#EFD09F>See Through</color>,<#EFD09F>มองทะลุ</color>
+ForgeEffect_闪避增加6,<#EFD09F>Elusive</color>,<#EFD09F>หลบหลีก</color>
+ForgeEffect_闪避增加7,<#EFD09F>Elusive</color>,<#EFD09F>หลบหลีก</color>
+ForgeEffect_暴击增加6,<#EFD09F>Effort</color>,<#EFD09F>มานะ</color>
+ForgeEffect_暴击增加7,<#EFD09F>Effort</color>,<#EFD09F>มานะ</color>
+ForgeEffect_格挡增加6,<#EFD09F>Hold Fast</color>,<#EFD09F>คว้าไว</color>
+ForgeEffect_格挡增加7,<#EFD09F>Hold Fast</color>,<#EFD09F>คว้าไว</color>
+ForgeEffect_格挡增加8,<#EFD09F>Hold Fast</color>,<#EFD09F>คว้าไว</color>
+ForgeEffect_连击增加6,<#EFD09F>Wave Stacking</color>,<#EFD09F>คลื่นใหญ่</color>
+ForgeEffect_反击增加1,<#EFD09F>Counterattack</color>,<#EFD09F>สวนกลับ</color>
+ForgeEffect_反击增加2,<#EFD09F>Counterattack</color>,<#EFD09F>สวนกลับ</color>
+ForgeEffect_反击增加3,<#EFD09F>Counterattack</color>,<#EFD09F>สวนกลับ</color>
+ForgeEffect_反击增加4,<#EFD09F>Counterattack</color>,<#EFD09F>สวนกลับ</color>
+ForgeEffect_反击增加5,<#EFD09F>Counterattack</color>,<#EFD09F>สวนกลับ</color>
+ForgeEffect_反击增加6,<#EFD09F>Counterattack</color>,<#EFD09F>สวนกลับ</color>
+ForgeEffect_反击增加7,<#EFD09F>Counterattack</color>,<#EFD09F>สวนกลับ</color>
+ForgeEffect_反击增加8,<#EFD09F>Counterattack</color>,<#EFD09F>สวนกลับ</color>
+ForgeEffect_拳掌增加1,<#EFD09F>Fist</color>,<#EFD09F>หมัด</color>
+ForgeEffect_拳掌增加2,<#EFD09F>Fist</color>,<#EFD09F>หมัด</color>
+ForgeEffect_御剑增加1,<#EFD09F>Sword</color>,<#EFD09F>กระบี่</color>
+ForgeEffect_御剑增加2,<#EFD09F>Sword</color>,<#EFD09F>กระบี่</color>
+ForgeEffect_耍刀增加1,<#EFD09F>Blade</color>,<#EFD09F>ดาบ</color>
+ForgeEffect_耍刀增加2,<#EFD09F>Blade</color>,<#EFD09F>ดาบ</color>
+ForgeEffect_长兵增加1,<#EFD09F>Long</color>,<#EFD09F>อาวุธยาว</color>
+ForgeEffect_长兵增加2,<#EFD09F>Long</color>,<#EFD09F>อาวุธยาว</color>
+ForgeEffect_短兵增加1,<#EFD09F>Short</color>,<#EFD09F>อาวุธสั้น</color>
+ForgeEffect_短兵增加2,<#EFD09F>Short</color>,<#EFD09F>อาวุธสั้น</color>
+ForgeEffect_音律增加1,<#EFD09F>Musical</color>,<#EFD09F>ดนตรี</color>
+ForgeEffect_音律增加2,<#EFD09F>Musical</color>,<#EFD09F>ดนตรี</color>
+ForgeEffect_皮革手套1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_铁手1,<#EFD09F>Open Wound</color>,<#EFD09F>แผลเปิด</color>
+ForgeEffect_缠丝拳套1,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_精钢护手1,<#EFD09F>Impact</color>,<#EFD09F>กระแทก</color>
+ForgeEffect_黑铁拳套1,<#EFD09F>Berserk</color>,<#EFD09F>บ้าคลั่ง</color>
+ForgeEffect_震山拳套1,<#EFD09F>Impact</color>,<#EFD09F>กระแทก</color>
+ForgeEffect_铁虎爪1,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_奔雷铁手1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_幽冥拳套1,<#EFD09F>Poison</color>,<#EFD09F>พิษ</color>
+ForgeEffect_金刚护手1,<#EFD09F>Bloodlust</color>,<#EFD09F>กระหายเลือด</color>
+ForgeEffect_乾坤3,<#EFD09F>Disable Technique</color>,<#EFD09F>ทำลายวรยุทธ</color>
+ForgeEffect_九阳1,<#EFD09F>Fist Aura</color>,<#EFD09F>รัศมีหมัด</color>
+ForgeEffect_九阳2,<#EFD09F>Berserk</color>,<#EFD09F>บ้าคลั่ง</color>
+ForgeEffect_九阳3,<#EFD09F>Energy Abundance</color>,<#EFD09F>พลังงานล้นเหลือ</color>
+ForgeEffect_木剑1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_白虹剑1,<#EFD09F>Bloodlust</color>,<#EFD09F>กระหายเลือด</color>
+ForgeEffect_游龙剑1,<#EFD09F>Open Wound</color>,<#EFD09F>แผลเปิด</color>
+ForgeEffect_青云剑1,<#EFD09F>Open Wound</color>,<#EFD09F>แผลเปิด</color>
+ForgeEffect_青罡剑1,<#EFD09F>Bloodlust</color>,<#EFD09F>กระหายเลือด</color>
+ForgeEffect_青冥剑1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_承影剑1,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_百炼剑1,<#EFD09F>Open Wound</color>,<#EFD09F>แผลเปิด</color>
+ForgeEffect_龙渊剑1,<#EFD09F>Chasing</color>,<#EFD09F>ไล่ตาม</color>
+ForgeEffect_含光1,<#EFD09F>Vulnerable</color>,<#EFD09F>เปราะบาง</color>
+ForgeEffect_含光2,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_鱼肠1,<#EFD09F>Chasing</color>,<#EFD09F>ไล่ตาม</color>
+ForgeEffect_鱼肠2,<#EFD09F>Open Wound</color>,<#EFD09F>แผลเปิด</color>
+ForgeEffect_轩辕3,<#EFD09F>Righteous</color>,<#EFD09F>คุณธรรม</color>
+ForgeEffect_九凤1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_九凤2,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_巨阙1,<#EFD09F>Berserk</color>,<#EFD09F>บ้าคลั่ง</color>
+ForgeEffect_巨阙2,<#EFD09F>Impact</color>,<#EFD09F>กระแทก</color>
+ForgeEffect_大石剑1,<#EFD09F>Attack</color>,<#EFD09F>โจมตี</color>
+ForgeEffect_大石剑2,<#EFD09F>Attack</color>,<#EFD09F>โจมตี</color>
+ForgeEffect_大石剑3,<#EFD09F>Head Hunter</color>,<#EFD09F>นักล่าหัว</color>
+ForgeEffect_大石剑4,<#EFD09F>Obstructed</color>,<#EFD09F>ถูกขัดขวาง</color>
+ForgeEffect_菜刀1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_砍山刀1,<#EFD09F>Open Wound</color>,<#EFD09F>แผลเปิด</color>
+ForgeEffect_九环刀1,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_宣花斧1,<#EFD09F>Bloodlust</color>,<#EFD09F>กระหายเลือด</color>
+ForgeEffect_碎宇刀1,<#EFD09F>Berserk</color>,<#EFD09F>บ้าคลั่ง</color>
+ForgeEffect_冷艳锯1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_绣春刀1,<#EFD09F>Chasing</color>,<#EFD09F>ไล่ตาม</color>
+ForgeEffect_修罗刀1,<#EFD09F>Open Wound</color>,<#EFD09F>แผลเปิด</color>
+ForgeEffect_绿露刀1,<#EFD09F>Poison</color>,<#EFD09F>พิษ</color>
+ForgeEffect_玄铁菜刀1,<#EFD09F>Open Wound</color>,<#EFD09F>แผลเปิด</color>
+ForgeEffect_大夏龙雀1,<#EFD09F>Berserk</color>,<#EFD09F>บ้าคลั่ง</color>
+ForgeEffect_大夏龙雀2,<#EFD09F>Open Wound</color>,<#EFD09F>แผลเปิด</color>
+ForgeEffect_犬神刀1,<#EFD09F>Dazzling</color>,<#EFD09F>วูบวาบ</color>
+ForgeEffect_犬神刀2,<#EFD09F>Cut Tendon</color>,<#EFD09F>เอ็นเท้าขาด</color>
+ForgeEffect_龙牙刀1,<#EFD09F>Chasing</color>,<#EFD09F>ไล่ตาม</color>
+ForgeEffect_龙牙刀2,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_昆吾1,<#EFD09F>Bloodlust</color>,<#EFD09F>กระหายเลือด</color>
+ForgeEffect_昆吾2,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_应龙1,<#EFD09F>Pierce</color>,<#EFD09F>เจาะ</color>
+ForgeEffect_应龙2,<#EFD09F>Laceration</color>,<#EFD09F>ฉีกขาด</color>
+ForgeEffect_应龙3,<#EFD09F>Open Wound</color>,<#EFD09F>แผลเปิด</color>
+ForgeEffect_刑天1,<#EFD09F>Life Drain</color>,<#EFD09F>ดูดพลังชีวิต</color>
+ForgeEffect_刑天2,<#EFD09F>Open Wound</color>,<#EFD09F>แผลเปิด</color>
+ForgeEffect_梅花枪1,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_木枪1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_蛇矛枪1,<#EFD09F>Open Wound</color>,<#EFD09F>แผลเปิด</color>
+ForgeEffect_混铁枪1,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_青龙戟1,<#EFD09F>Berserk</color>,<#EFD09F>บ้าคลั่ง</color>
+ForgeEffect_梨花枪1,<#EFD09F>Meridian Break</color>,<#EFD09F>เส้นลมปราณติดขัด</color>
+ForgeEffect_霸王枪1,<#EFD09F>Damage Up</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_沥泉枪1,<#EFD09F>Pierce</color>,<#EFD09F>เจาะ</color>
+ForgeEffect_沥泉枪2,<#EFD09F>Chasing</color>,<#EFD09F>ไล่ตาม</color>
+ForgeEffect_湛金枪1,<#EFD09F>Vulnerable</color>,<#EFD09F>เปราะบาง</color>
+ForgeEffect_蚩巫叉1,<#EFD09F>Poisonous Insect</color>,<#EFD09F>แมลงพิษ</color>
+ForgeEffect_句芒1,<#EFD09F>Berserk</color>,<#EFD09F>บ้าคลั่ง</color>
+ForgeEffect_句芒2,<#EFD09F>Bloodlust</color>,<#EFD09F>กระหายเลือด</color>
+ForgeEffect_句芒3,<#EFD09F>Chasing</color>,<#EFD09F>ไล่ตาม</color>
+ForgeEffect_方天画戟1,<#EFD09F>Damage Up</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_方天画戟2,<#EFD09F>Meridian Break</color>,<#EFD09F>เส้นลมปราณติดขัด</color>
+ForgeEffect_混沌1,<#EFD09F>Chasing</color>,<#EFD09F>ไล่ตาม</color>
+ForgeEffect_混沌2,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_混沌3,<#EFD09F>Energy Abundance</color>,<#EFD09F>พลังงานล้นเหลือ</color>
+ForgeEffect_烧火棍1,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_短棒1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_镔铁杖1,<#EFD09F>Impact</color>,<#EFD09F>กระแทก</color>
+ForgeEffect_齐眉棍1,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_青竹杖1,<#EFD09F>Bloodlust</color>,<#EFD09F>กระหายเลือด</color>
+ForgeEffect_混铁棒1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_盘龙棍1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_齐天棍1,<#EFD09F>Chasing</color>,<#EFD09F>ไล่ตาม</color>
+ForgeEffect_囚龙柱1,<#EFD09F>Chasing</color>,<#EFD09F>ไล่ตาม</color>
+ForgeEffect_天机杖1,<#EFD09F>Impact</color>,<#EFD09F>กระแทก</color>
+ForgeEffect_烛阴1,<#EFD09F>Bloodlust</color>,<#EFD09F>กระหายเลือด</color>
+ForgeEffect_烛阴2,<#EFD09F>Berserk</color>,<#EFD09F>บ้าคลั่ง</color>
+ForgeEffect_烛阴3,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_穷奇1,<#EFD09F>Vulnerable</color>,<#EFD09F>เปราะบาง</color>
+ForgeEffect_穷奇2,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_穷奇3,<#EFD09F>Penetrating</color>,<#EFD09F>ทะลุทะลวง</color>
+ForgeEffect_定海神针1,<#EFD09F>Attack</color>,<#EFD09F>โจมตี</color>
+ForgeEffect_定海神针2,<#EFD09F>Attack</color>,<#EFD09F>โจมตี</color>
+ForgeEffect_定海神针3,<#EFD09F>Head Hunter</color>,<#EFD09F>นักล่าหัว</color>
+ForgeEffect_定海神针4,<#EFD09F>Obstructed</color>,<#EFD09F>ถูกขัดขวาง</color>
+ForgeEffect_九环锡杖1,<#EFD09F>Impact</color>,<#EFD09F>กระแทก</color>
+ForgeEffect_九环锡杖2,<#EFD09F>Vulnerable</color>,<#EFD09F>เปราะบาง</color>
+ForgeEffect_亮银锤1,<#EFD09F>Dragon Might</color>,<#EFD09F>พลังมังกร</color>
+ForgeEffect_大铁锤1,<#EFD09F>Brute Force</color>,<#EFD09F>พลังดุร้าย</color>
+ForgeEffect_铁骨扇1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_绢宫扇1,<#EFD09F>Bloodlust</color>,<#EFD09F>กระหายเลือด</color>
+ForgeEffect_留香扇1,<#EFD09F>Impact</color>,<#EFD09F>กระแทก</color>
+ForgeEffect_西江月1,<#EFD09F>Damage Up</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_满江红1,<#EFD09F>Bloodlust</color>,<#EFD09F>กระหายเลือด</color>
+ForgeEffect_破阵子1,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_定风波1,<#EFD09F>Berserk</color>,<#EFD09F>บ้าคลั่ง</color>
+ForgeEffect_浪淘沙1,<#EFD09F>Impact</color>,<#EFD09F>กระแทก</color>
+ForgeEffect_卜算子1,<#EFD09F>Open Wound</color>,<#EFD09F>แผลเปิด</color>
+ForgeEffect_祝融1,<#EFD09F>Berserk</color>,<#EFD09F>บ้าคลั่ง</color>
+ForgeEffect_祝融2,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_夸父1,<#EFD09F>Bloodlust</color>,<#EFD09F>กระหายเลือด</color>
+ForgeEffect_夸父2,<#EFD09F>Pierce</color>,<#EFD09F>เจาะ</color>
+ForgeEffect_青丘1,<#EFD09F>Chasing</color>,<#EFD09F>ไล่ตาม</color>
+ForgeEffect_青丘2,<#EFD09F>Bloodlust</color>,<#EFD09F>กระหายเลือด</color>
+ForgeEffect_峨嵋刺1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_狼牙匕1,<#EFD09F>Open Wound</color>,<#EFD09F>แผลเปิด</color>
+ForgeEffect_点钢刺1,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_三棱锥1,<#EFD09F>Bloodlust</color>,<#EFD09F>กระหายเลือด</color>
+ForgeEffect_流光锥1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_飞来梭1,<#EFD09F>Berserk</color>,<#EFD09F>บ้าคลั่ง</color>
+ForgeEffect_流云锥1,<#EFD09F>Bloodlust</color>,<#EFD09F>กระหายเลือด</color>
+ForgeEffect_孤星刺1,<#EFD09F>Chasing</color>,<#EFD09F>ไล่ตาม</color>
+ForgeEffect_飞影匕1,<#EFD09F>Damage Up</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_织女梭1,<#EFD09F>Dazzling</color>,<#EFD09F>วูบวาบ</color>
+ForgeEffect_残雪刺1,<#EFD09F>Chasing</color>,<#EFD09F>ไล่ตาม</color>
+ForgeEffect_嘲风1,<#EFD09F>Energy Abundance</color>,<#EFD09F>พลังงานล้นเหลือ</color>
+ForgeEffect_嘲风2,<#EFD09F>Open Wound</color>,<#EFD09F>แผลเปิด</color>
+ForgeEffect_精卫1,<#EFD09F>Life Drain</color>,<#EFD09F>ดูดพลังชีวิต</color>
+ForgeEffect_睚眦1,<#EFD09F>Heavenly Aura</color>,<#EFD09F>รังสีสวรรค์</color>
+ForgeEffect_睚眦2,<#EFD09F>Pierce</color>,<#EFD09F>เจาะ</color>
+ForgeEffect_猪鬃笔1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_鼠须笔1,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_圆锋1,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_佩阿1,<#EFD09F>Meridian Break</color>,<#EFD09F>เส้นลมปราณติดขัด</color>
+ForgeEffect_鸡距1,<#EFD09F>Meridian Break</color>,<#EFD09F>เส้นลมปราณติดขัด</color>
+ForgeEffect_鹿毛1,<#EFD09F>Impact</color>,<#EFD09F>กระแทก</color>
+ForgeEffect_龙须1,<#EFD09F>Bloodlust</color>,<#EFD09F>กระหายเลือด</color>
+ForgeEffect_麟角1,<#EFD09F>Damage Up</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_太虚1,<#EFD09F>Disarm</color>,<#EFD09F>ปลดอาวุธ</color>
+ForgeEffect_太虚2,<#EFD09F>Meridian Break</color>,<#EFD09F>เส้นลมปราณติดขัด</color>
+ForgeEffect_玄黄1,<#EFD09F>Damage Up</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_玄黄2,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_洪荒1,<#EFD09F>Disable Technique</color>,<#EFD09F>ทำลายวรยุทธ</color>
+ForgeEffect_洪荒2,<#EFD09F>Internal Break</color>,<#EFD09F>กำลังภายในติดขัด</color>
+ForgeEffect_响泉琴1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_七弦1,<#EFD09F>Impact</color>,<#EFD09F>กระแทก</color>
+ForgeEffect_落霞1,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_独幽1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_春雷1,<#EFD09F>Impact</color>,<#EFD09F>กระแทก</color>
+ForgeEffect_焦尾1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_绿绮1,<#EFD09F>Meridian Break</color>,<#EFD09F>เส้นลมปราณติดขัด</color>
+ForgeEffect_绕梁1,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_绕梁2,<#EFD09F>Encouraged</color>,<#EFD09F>ได้รับกำลังใจ</color>
+ForgeEffect_号钟1,<#EFD09F>Confuse</color>,<#EFD09F>สับสน</color>
+ForgeEffect_号钟2,<#EFD09F>Impact</color>,<#EFD09F>กระแทก</color>
+ForgeEffect_囚牛1,<#EFD09F>Pierce</color>,<#EFD09F>เจาะ</color>
+ForgeEffect_囚牛2,<#EFD09F>Energy Loss</color>,<#EFD09F>สูญเสียพลัง</color>
+ForgeEffect_洞箫1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_竹箫1,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_紫竹箫1,<#EFD09F>Sealed</color>,<#EFD09F>สกัดจุด</color>
+ForgeEffect_玉屏箫1,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_九节箫1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_枉凝眉1,<#EFD09F>Impact</color>,<#EFD09F>กระแทก</color>
+ForgeEffect_关山月1,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_冷沧浪1,<#EFD09F>Meridian Break</color>,<#EFD09F>เส้นลมปราณติดขัด</color>
+ForgeEffect_有凤来仪1,<#EFD09F>Energy Loss</color>,<#EFD09F>สูญเสียพลัง</color>
+ForgeEffect_有凤来仪2,<#EFD09F>Impact</color>,<#EFD09F>กระแทก</color>
+ForgeEffect_碧海潮声1,<#EFD09F>Unconscious</color>,<#EFD09F>หมดสติ</color>
+ForgeEffect_碧海潮声2,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_笑傲江湖1,<#EFD09F>Enchanting Sound</color>,<#EFD09F>เสียงที่มีเสน่ห์</color>
+ForgeEffect_笑傲江湖2,<#EFD09F>Meridian Break</color>,<#EFD09F>เส้นลมปราณติดขัด</color>
+ForgeEffect_硬木琵琶1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_花梨琵琶1,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_牛角琵琶1,<#EFD09F>Impact</color>,<#EFD09F>กระแทก</color>
+ForgeEffect_象牙琵琶1,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_双凤琵琶1,<#EFD09F>Meridian Break</color>,<#EFD09F>เส้นลมปราณติดขัด</color>
+ForgeEffect_绕殿雷1,<#EFD09F>Damage Up</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_烧槽1,<#EFD09F>Impact</color>,<#EFD09F>กระแทก</color>
+ForgeEffect_玄象1,<#EFD09F>Depressed</color>,<#EFD09F>โศกเศร้า</color>
+ForgeEffect_玄象2,<#EFD09F>Bloodlust</color>,<#EFD09F>กระหายเลือด</color>
+ForgeEffect_青山1,<#EFD09F>Charm</color>,<#EFD09F>ลุ่มหลง</color>
+ForgeEffect_青山2,<#EFD09F>Impact</color>,<#EFD09F>กระแทก</color>
+ForgeEffect_狮子丸1,<#EFD09F>Pierce</color>,<#EFD09F>เจาะ</color>
+ForgeEffect_狮子丸2,<#EFD09F>Vulnerable</color>,<#EFD09F>เปราะบาง</color>
+ForgeEffect_窄袖衣1,<#EFD09F>Cross-dressing</color>,<#EFD09F>แต่งตัวข้ามเพศ</color>
+ForgeEffect_绢麻衣1,<#EFD09F>Propriety</color>,<#EFD09F>มารยาท</color>
+ForgeEffect_兽皮袄1,<#EFD09F>Beast Skin</color>,<#EFD09F>หนังสัตว์ร้าย</color>
+ForgeEffect_护心铠1,<#EFD09F>Damage Reduce</color>,<#EFD09F>ลดความเสียหาย</color>
+ForgeEffect_粗布衣1,<#EFD09F>Parry</color>,<#EFD09F>ปัดป้อง</color>
+ForgeEffect_麻布衣1,<#EFD09F>Resist Violence</color>,<#EFD09F>ต่อต้านความรุนแรง</color>
+ForgeEffect_戎装1,<#EFD09F>Damage Reduce</color>,<#EFD09F>ลดความเสียหาย</color>
+ForgeEffect_百衲衣1,<#EFD09F>Filthy</color>,<#EFD09F>สกปรก</color>
+ForgeEffect_官差服1,<#EFD09F>Damage Reduce</color>,<#EFD09F>ลดความเสียหาย</color>
+ForgeEffect_逍遥衣1,<#EFD09F>Adventurous</color>,<#EFD09F>ชอบผจญภัย</color>
+ForgeEffect_精铁内甲1,<#EFD09F>Damage Reduce</color>,<#EFD09F>ลดความเสียหาย</color>
+ForgeEffect_锁子铠1,<#EFD09F>Damage Reduce</color>,<#EFD09F>ลดความเสียหาย</color>
+ForgeEffect_僧袍1,<#EFD09F>Benevolence</color>,<#EFD09F>ศีลธรรม</color>
+ForgeEffect_道袍1,<#EFD09F>Reflect</color>,<#EFD09F>สะท้อน</color>
+ForgeEffect_夜行衣1,<#EFD09F>Propriety</color>,<#EFD09F>มารยาท</color>
+ForgeEffect_儒生服1,<#EFD09F>Propriety</color>,<#EFD09F>มารยาท</color>
+ForgeEffect_赤翎服1,<#EFD09F>Cross-dressing</color>,<#EFD09F>แต่งตัวข้ามเพศ</color>
+ForgeEffect_飞鱼锦服1,<#EFD09F>Benevolence</color>,<#EFD09F>ศีลธรรม</color>
+ForgeEffect_侠客装1,<#EFD09F>Fame</color>,<#EFD09F>ชื่อเสียง</color>
+ForgeEffect_蚕丝衣1,<#EFD09F>Cross-dressing</color>,<#EFD09F>แต่งตัวข้ามเพศ</color>
+ForgeEffect_青红襦1,<#EFD09F>Cross-dressing</color>,<#EFD09F>แต่งตัวข้ามเพศ</color>
+ForgeEffect_弟子装1,<#EFD09F>Unrelenting</color>,<#EFD09F>ยึดมั่น</color>
+ForgeEffect_流云衫1,<#EFD09F>Agile</color>,<#EFD09F>ว่องไว</color>
+ForgeEffect_金刚甲1,<#EFD09F>Defender</color>,<#EFD09F>ผู้พิทักษ์</color>
+ForgeEffect_明光铠1,<#EFD09F>Stagger</color>,<#EFD09F>ชะงัก</color>
+ForgeEffect_朱雀服1,<#EFD09F>Unrelenting</color>,<#EFD09F>ยึดมั่น</color>
+ForgeEffect_麒麟甲1,<#EFD09F>Prepared</color>,<#EFD09F>เตรียมพร้อม</color>
+ForgeEffect_玄武铠1,<#EFD09F>Damage Reduce</color>,<#EFD09F>ลดความเสียหาย</color>
+ForgeEffect_紫罗裙1,<#EFD09F>Damage Reduce</color>,<#EFD09F>ลดความเสียหาย</color>
+ForgeEffect_山海袍1,<#EFD09F>Fame</color>,<#EFD09F>ชื่อเสียง</color>
+ForgeEffect_七宝袈裟1,<#EFD09F>Reflect</color>,<#EFD09F>สะท้อน</color>
+ForgeEffect_太极服1,<#EFD09F>Damage Reduce</color>,<#EFD09F>ลดความเสียหาย</color>
+ForgeEffect_黑色披风1,<#EFD09F>Hidden</color>,<#EFD09F>ซ่อนตัว</color>
+ForgeEffect_鸿儒青衿1,<#EFD09F>Enlightenment</color>,<#EFD09F>ตื่นรู้</color>
+ForgeEffect_混元衫1,<#EFD09F>Reflect</color>,<#EFD09F>สะท้อน</color>
+ForgeEffect_烈火甲1,<#EFD09F>Damage Reduce</color>,<#EFD09F>ลดความเสียหาย</color>
+ForgeEffect_天蚕宝衣1,<#EFD09F>Damage Reduce</color>,<#EFD09F>ลดความเสียหาย</color>
+ForgeEffect_天蚕宝衣2,<#EFD09F>Reflect</color>,<#EFD09F>สะท้อน</color>
+ForgeEffect_兽王宝甲1,<#EFD09F>Neutralized</color>,<#EFD09F>ต่อต้าน</color>
+ForgeEffect_兽王宝甲2,<#EFD09F>Endurant</color>,<#EFD09F>ทนทาน</color>
+ForgeEffect_霹雳宝铠1,<#EFD09F>Neutralized</color>,<#EFD09F>ต่อต้าน</color>
+ForgeEffect_霹雳宝铠2,<#EFD09F>Force Utilization</color>,<#EFD09F>ยืมพลัง</color>
+ForgeEffect_紫薇1,<#EFD09F>Regenerate</color>,<#EFD09F>ฟื้นฟู</color>
+ForgeEffect_紫薇2,<#EFD09F>Protection</color>,<#EFD09F>การปกป้อง</color>
+ForgeEffect_狻猊1,<#EFD09F>Vengeful</color>,<#EFD09F>อาฆาต</color>
+ForgeEffect_狻猊2,<#EFD09F>Reverse Impact</color>,<#EFD09F>กระแทกกลับ</color>
+ForgeEffect_真武1,<#EFD09F>Concentrate</color>,<#EFD09F>เพ่งสมาธิ</color>
+ForgeEffect_真武2,<#EFD09F>Reverse Impact</color>,<#EFD09F>กระแทกกลับ</color>
+ForgeEffect_碧霞1,<#EFD09F>Elegant</color>,<#EFD09F>สง่างาม</color>
+ForgeEffect_碧霞2,<#EFD09F>Force Utilization</color>,<#EFD09F>ยืมพลัง</color>
+ForgeEffect_不动山1,<#EFD09F>Protection</color>,<#EFD09F>การปกป้อง</color>
+ForgeEffect_不动山2,<#EFD09F>Barrier</color>,<#EFD09F>เกราะคุ้มกัน</color>
+ForgeEffect_锦襕袈裟1,<#EFD09F>Reflect</color>,<#EFD09F>สะท้อน</color>
+ForgeEffect_锦襕袈裟2,<#EFD09F>Reverse Impact</color>,<#EFD09F>กระแทกกลับ</color>
+ForgeEffect_太虚袍1,<#EFD09F>Reflect</color>,<#EFD09F>สะท้อน</color>
+ForgeEffect_太虚袍2,<#EFD09F>Reverse Impact</color>,<#EFD09F>กระแทกกลับ</color>
+ForgeEffect_太虚袍3,<#EFD09F>Fame</color>,<#EFD09F>ชื่อเสียง</color>
+ForgeEffect_广袖流仙裙1,<#EFD09F>Damage Reduce</color>,<#EFD09F>ลดความเสียหาย</color>
+ForgeEffect_广袖流仙裙2,<#EFD09F>Elegant</color>,<#EFD09F>สง่างาม</color>
+ForgeEffect_广袖流仙裙3,<#EFD09F>Unrelenting</color>,<#EFD09F>ยึดมั่น</color>
+BuffPropPair_皮革手套1,"When attacking, <#29F161>final damage increases by {皮革手套1多效果1%}</color>.",เมื่อโจมตี <#29F161>ความเสียหายสุดท้ายจะเพิ่มขึ้น {皮革手套1多效果1%}</color>
+BuffPropPair_铁手1,"When attacking, inflict <#FE2929>{铁手1多效果1} points of bleeding</color> on the enemy.",เมื่อโจมตี สร้างสถานะ <#FE2929>เลือดไหล {铁手1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_缠丝拳套1,"When attacking, reduce the enemy's <#FE2929>{缠丝拳套1多效果1} points of energy</color>.",เมื่อโจมตี <#FE2929>ลดค่าปราณเคลื่อนที่ของศัตรู {缠丝拳套1多效果1} แต้ม</color>
+BuffPropPair_精钢护手1,"When attacking, inflict <#FE2929>{精钢护手1多效果1} points of internal injury</color> on the enemy.",เมื่อโจมตี สร้างสถานะ <#FE2929>บาดเจ็บภายใน {精钢护手1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_黑铁拳套1,"When attacking, trigger critical, <#29F161>critical damage increases by {黑铁拳套1多效果1%}</color>.",เมื่อโจมตีคริติคอล <#29F161>ความเสียหายคริติคอลเพิ่มขึ้น {黑铁拳套1多效果1%}</color>
+BuffPropPair_震山拳套1,"When attacking, inflict <#FE2929>{震山拳套1多效果1} points of internal injury</color> on the enemy.",เมื่อโจมตี สร้างสถานะ <#FE2929>บาดเจ็บภายใน {震山拳套1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_铁虎爪1,"When attacking, reduce the enemy's <#FE2929>{铁虎爪1多效果1} points of energy</color>.",เมื่อโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ของศัตรูลง {铁虎爪1多效果1} แต้ม</color>
+BuffPropPair_奔雷铁手1,"When attacking, <#29F161>final damage increases by {奔雷铁手1多效果1%}</color>.",เมื่อโจมตี <#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น {奔雷铁手1多效果1%}</color>.
+BuffPropPair_幽冥拳套1,"When attacking, inflict <#FE2929>{幽冥拳套1多效果1} points of poison</color> on the enemy.",เมื่อโจมตี สร้างสถานะ <#FE2929>พิษ {幽冥拳套1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_金刚护手1,"When attacking the enemy, gain an additional <#29F161>{金刚护手1多效果1} points of spirit</color> for yourself.",เมื่อโจมตีศัตรู จะได้รับพลังใจเพิ่มเติม <#29F161>พลังใจ {金刚护手1多效果1} แต้ม </color> สำหรับตัวเอง
+BuffPropPair_乾坤3,There is a <#29F161>{乾坤3多效果1%}</color> chance to trigger <#FE2929>Disable technique</color> effect when attacking.,มีโอกาส <#29F161>{乾坤3多效果1%}</color> ที่จะทำให้เกิดสถานะ <#FE2929>ทำลายวรยุทธ</color> เมื่อโจมตี
+BuffPropPair_九阳1,"When the enemy triggers Parry or Evasion during an attack, reduce the enemy's <#FE2929>{九阳1多效果1} points of Qi gathering</color>.","เมื่อศัตรูใช้ปัดป้องหรือหลบหลีกในระหว่างการโจมตี, ลด <#FE2929>{九阳1多效果1} ปราณเคลื่อนที่</color> ของศัตรูลง"
+BuffPropPair_九阳2,"Trigger Critical when attacking, <#29F161>Critical Increases Damage{九阳2多效果1%}</color>.",เมื่อโจมตีคริติคอล <#29F161>เพิ่มความเสียหายคริติคอล{九阳2多效果1%}</color>
+BuffPropPair_九阳3,"When the attack is external, for every additional 50 points of Spirit, <#29F161>Final Increases Damage{九阳3多效果1%}</color>.",เมื่อโจมตีเป็นการโจมตีภายนอก ทุกๆ 50 แต้มของพลังใจเพิ่มเติม <#29F161>เพิ่มความเสียหายสุดท้าย{九阳3多效果1%}</color>
+BuffPropPair_木剑1,<#29F161>Final Increases Damage{木剑1多效果1%}</color> when attacking.,เมื่อโจมตี <#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น {木剑1多效果1%}</color>
+BuffPropPair_白虹剑1,Gain an extra <#29F161>{白虹剑1多效果1} points of Spirit</color> when attacking the enemy.,เมื่อโจมตีศัตรู จะได้รับพลังใจเพิ่มเติม <#29F161>พลังใจ {白虹剑1多效果1} แต้ม </color> สำหรับตัวเอง
+BuffPropPair_游龙剑1,Cause <#FE2929>{游龙剑1多效果1} points of Bleeding</color> to the enemy when attacking.,เมื่อโจมตี สร้างสถานะ <#FE2929>เลือดไหล {游龙剑1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_青云剑1,Cause <#FE2929>{青云剑1多效果1} points of Bleeding</color> to the enemy when attacking.,"เมื่อโจมตี, สร้างสถานะ <#FE2929>{青云剑1多效果1} แต้มเลือดไหล</color> แก่ศัตรู"
+BuffPropPair_青罡剑1,Gain an extra <#29F161>{青罡剑1多效果1} points of Spirit</color> when attacking the enemy.,เมื่อโจมตีศัตรู จะได้รับพลังใจเพิ่มเติม <#29F161>พลังใจ {青罡剑1多效果1} แต้ม </color>
+BuffPropPair_青冥剑1,<#29F161>Final Increases Damage{青冥剑1多效果1%}</color> when attacking.,เมื่อโจมตี <#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น {青冥剑1多效果1%}</color>
+BuffPropPair_承影剑1,Reduce the enemy's <#FE2929>{承影剑1多效果1} points of Qi gathering value</color> when attacking.,เมื่อโจมตี <#FE2929>ลดค่าปราณเคลื่อนที่ของศัตรู {承影剑1多效果1} แต้ม</color>
+BuffPropPair_百炼剑1,Cause <#FE2929>{百炼剑1多效果1} points of Bleeding</color> to the enemy when attacking.,เมื่อโจมตี สร้างสถานะ <#FE2929>เลือดไหล {百炼剑1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_龙渊剑1,"When performing a Back attack on the enemy, your own Combo increases by <#29F161>{龙渊剑1多效果1%}</color>.",เมื่อโจมตีศัตรูจากด้านหลัง อัตราโจมตีต่อเนื่องของคุณจะเพิ่มขึ้น <#29F161>{龙渊剑1多效果1%}</color>
+BuffPropPair_含光1,There is a {含光1多效果1%} chance of triggering a <#FE2929>Vulnerable</color> effect when attacking.,เมื่อโจมตี มีโอกาส {含光1多效果1%} ที่จะสร้างสถานะ<#FE2929>เปราะบาง</color> แก่ศัตรู
+BuffPropPair_含光2,"When attacking, reduce the enemy's <#FE2929>{含光2多效果1} points of Qi</color>.",เมื่อโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ของศัตรูลง {含光2多效果1} แต้ม</color>
+BuffPropPair_鱼肠1,"When performing a Back attack on the enemy, your own Combo increases by <#29F161>{鱼肠1多效果1%}</color>.",เมื่อโจมตีศัตรูจากด้านหลัง อัตราโจมตีต่อเนื่องของคุณจะเพิ่มขึ้น <#29F161>{鱼肠1多效果1%}</color>
+BuffPropPair_鱼肠2,"When attacking, inflict <#FE2929>{鱼肠2多效果1} points of Bleeding</color> on the enemy.",เมื่อโจมตี สร้างสถานะ <#FE2929>เลือดไหล {鱼肠2多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_轩辕3,"When the protagonist's Righteousness is above 0, for every 10 points above, <#29F161>final damage increases by {轩辕3多效果1%}</color>.","เมื่อ""คุณธรรม""ของตัวเอกมากกว่า 0 ทุกๆ 10 แต้มขึ้น <#29F161>ความเสียหายสุดท้ายจะเพิ่มขึ้น {轩辕3多效果1%}</color>."
+BuffPropPair_九凤1,"When attacking, <#29F161>final damage increases by {九凤1多效果1%}</color>.",เมื่อโจมตี <#29F161>ความเสียหายสุดท้ายจะเพิ่มขึ้นโดย {九凤1多效果1%}</color>.
+BuffPropPair_九凤2,"When attacking, reduce the enemy's <#FE2929>{九凤2多效果1} points of Qi</color>.","เมื่อโจมตี, ศัตรูลด  <#FE2929>1 แต้มของค่าปราณเคลื่อนที่ ต่อ สถานนะเก้าหงสาที่มี 2 หน่วย</color>ของศัตรู"
+BuffPropPair_巨阙1,"When attacking, if a Critical is triggered, <#29F161>critical damage increases by {巨阙1多效果1%}</color>.",เมื่อโจมตี หากติดคริติคอล <#29F161>ความเสียหายคริติคอลจะเพิ่มขึ้น {巨阙1多效果1%}</color>
+BuffPropPair_巨阙2,"When attacking, inflict <#FE2929>{巨阙2多效果1} points of Internal Injury</color> on the enemy.",เมื่อโจมตี สร้างสถานะ <#FE2929>บาดเจ็บภายใน {巨阙2多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_大石剑1,Attack increases by <#29F161>{大石剑1多效果1}</color>.,พลังโจมตีเพิ่มขึ้น <#29F161>{大石剑1多效果1}</color>
+BuffPropPair_大石剑2,Basic Attack increases by <#29F161>{大石剑2多效果1%}</color>.,พลังโจมตีธรรมดาเพิ่มขึ้น <#29F161>{大石剑2多效果1%}</color>.
+BuffPropPair_大石剑3,"For non-boss characters below your level by 10, there is a <#29F161>{大石剑3多效果1%}</color> chance of triggering <#29F161>Instant death</color>.","สำหรับตัวละครที่ไม่ใช่หัวหน้าที่มีเลเวลต่ำกว่าตัวเอง 10, มีโอกาส <#29F161>{大石剑3多效果1%}</color> ที่จะทำให้เกิด <#29F161>สังหารทันที</color>"
+BuffPropPair_大石剑4,"When using martial arts, MP Cost <#FE2929>increases by 200%</color>, <#FE2929>Action Speed decreases by {大石剑4多效果1%}</color>.",เมื่อใช้วรยุทธ ใช้ค่า MP <#FE2929>เพิ่มขึ้น 200%</color> <#FE2929>ความเร็วท่าร่างลดลง {大石剑4多效果1%}</color>
+BuffPropPair_菜刀1,"When attacking, <#29F161>final damage increases by {菜刀1多效果1%}</color>.",เมื่อโจมตี <#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น {菜刀1多效果1%}</color>.
+BuffPropPair_砍山刀1,"When attacking, inflict <#FE2929>{砍山刀1多效果1} points of Bleeding</color> on the enemy.",เมื่อโจมตี สร้างสถานะ <#FE2929>เลือดไหล {砍山刀1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_九环刀1,"When attacking, reduce the enemy's <#FE2929>{九环刀1多效果1} points of Qi</color>.",เมื่อโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ของศัตรูลง {九环刀1多效果1} แต้ม</color>
+BuffPropPair_宣花斧1,"When attacking the enemy, you gain an additional <#29F161>{宣花斧1多效果1} points of Spirit</color>.",เมื่อโจมตีศัตรู จะได้รับพลังใจเพิ่มเติม <#29F161>พลังใจ {宣花斧1多效果1} แต้ม </color>
+BuffPropPair_碎宇刀1,"When attacking, if a Critical is triggered, <#29F161>critical damage increases by {碎宇刀1多效果1%}</color>.",เมื่อโจมตี หากติดคริติคอล <#29F161>ความเสียหายคริติคอลจะเพิ่มขึ้น {碎宇刀1多效果1%}</color>.
+BuffPropPair_冷艳锯1,"When attacking, <#29F161>final damage increases by {冷艳锯1多效果1%}</color>.",เมื่อโจมตี <#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น {冷艳锯1多效果1%}</color>.
+BuffPropPair_绣春刀1,"When performing a Side attack on the enemy, your own Combo increases by <#29F161>{绣春刀1多效果1%}</color>.",เมื่อโจมตีศัตรูจากด้านข้าง อัตราโจมตีต่อเนื่องของคุณจะเพิ่มขึ้น <#29F161>{绣春刀1多效果1%}</color>
+BuffPropPair_修罗刀1,"When attacking, inflict <#FE2929>{修罗刀1多效果1} points of Bleeding</color> on the enemy.",เมื่อโจมตี สร้างสถานะ <#FE2929>เลือดไหล {修罗刀1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_绿露刀1,"When attacking, inflict <#FE2929>{绿露刀1多效果1} points of Poisoned</color> on the enemy.",เมื่อโจมตี สร้างสถานะ <#FE2929>พิษ {绿露刀1多效果1}  แต้ม</color> แก่ศัตรู
+BuffPropPair_玄铁菜刀1,"When attacking, inflict <#FE2929>{玄铁菜刀1多效果1} points of Bleeding</color> on the enemy.",เมื่อโจมตี สร้างสถานะ <#FE2929>เลือดไหล {玄铁菜刀1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_大夏龙雀1,"When attacking, trigger Critical, <#29F161>Critical Increases Damage{大夏龙雀1多效果1%}</color>.",เมื่อโจมตี หากติดคริติคอล <#29F161>ความเสียหายคริติคอลจะเพิ่มขึ้น {大夏龙雀1多效果1%}</color>.
+BuffPropPair_大夏龙雀2,"When attacking, inflict <#FE2929>{大夏龙雀2多效果1} points of Bleeding</color> on the enemy.",เมื่อโจมตี สร้างสถานะ <#FE2929>เลือดไหล {大夏龙雀2多效果1}  แต้ม</color> แก่ศัตรู
+BuffPropPair_犬神刀1,"When attacking, inflict <#FE2929>{犬神刀1多效果1} points of Blinded</color> on the enemy.",เมื่อโจมตี สร้างสถานะ <#FE2929>ตาบอด {犬神刀1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_犬神刀2,"When performing a Back attack on the enemy, there is a {犬神刀2多效果1%} chance to trigger <#FE2929>Cut tendon</color> effect.",เมื่อโจมตีศัตรูจากด้านหลัง มีโอกาส {犬神刀2多效果1%} ที่จะสร้างสถานะ<#FE2929>เอ็นเท้าขาด</color> แก่ศัตรู
+BuffPropPair_龙牙刀1,"When performing a Back attack on the enemy, your own Combo increases by <#29F161>{龙牙刀1多效果1%}</color>.",เมื่อโจมตีศัตรูจากด้านหลัง อัตราโจมตีต่อเนื่องของคุณจะเพิ่มขึ้น <#29F161>{龙牙刀1多效果1%}</color>
+BuffPropPair_龙牙刀2,"When attacking, reduce the enemy's <#FE2929>{龙牙刀2多效果1} points of Qi</color>.",เมื่อโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ของศัตรูลง {龙牙刀2多效果1} แต้ม</color>
+BuffPropPair_昆吾1,"When attacking the enemy, you gain an additional <#29F161>{昆吾1多效果1} points of Spirit</color>.",เมื่อโจมตีศัตรู จะได้รับพลังใจเพิ่มเติม <#29F161>พลังใจ {昆吾1多效果1} แต้ม </color>
+BuffPropPair_昆吾2,"When attacking, reduce the enemy's <#FE2929>{昆吾2多效果1} points of Qi</color>.",เมื่อโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ของศัตรูลง {昆吾2多效果1} แต้ม</color>
+BuffPropPair_应龙1,"When attacking, there is a <#29F161>{应龙1多效果1%}</color> chance to Pierce the enemy's armor.",เมื่อโจมตี มีโอกาส <#29F161>{应龙1多效果1%}</color> ที่จะเจาะทะลุเกราะของศัตรู
+BuffPropPair_应龙2,"The higher the enemy's Bleeding, the higher the damage received. For every 10 points of Bleeding, the <#29F161>final Increases Damage{应龙2多效果1%}</color>.",ยิ่งศัตรูเลือดไหลมากเท่าไร ความเสียหายที่ได้รับก็จะยิ่งมากขึ้นเท่านั้น ทุกๆ 10 แต้มของค่าเลือดไหล <#29F161>เพิ่มความเสียหายสุดท้าย {应龙2多效果1%}</color>.
+BuffPropPair_应龙3,"When attacking, inflict <#FE2929>{应龙3多效果1} points of Bleeding</color> on the enemy.",เมื่อโจมตี สร้างสถานะ <#FE2929>เลือดไหล {应龙3多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_刑天1,"When attacking, the damage inflicted on the enemy will be converted into <#29F161>{刑天1多效果1%} of your own HP</color>.",เมื่อโจมตี ความเสียหายที่เกิดกับศัตรูจะถูกแปลงเป็น <#29F161>{刑天1多效果1%} HP ของคุณเอง</color>
+BuffPropPair_刑天2,"When attacking, inflict <#FE2929>{刑天2多效果1} points of Bleeding</color> on the enemy.",เมื่อโจมตี สร้างสถานะ <#FE2929>เลือดไหล {刑天2多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_梅花枪1,"When the enemy triggers Parry or Evasion during an attack, reduce the enemy's <#FE2929>{梅花枪1多效果1} points of Qi</color>.",เมื่อศัตรูเกิดใช้ ปัดป้อง หรือ หลบหลีก ในระหว่างการโจมตี ลดค่าปราณเคลื่อนที่ของศัตรูลง <#FE2929>{梅花枪1多效果1} แต้ม</color>
+BuffPropPair_木枪1,"When attacking, <#29F161>final Increases Damage{木枪1多效果1%}</color>.",เมื่อโจมตี <#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น {木枪1多效果1%}</color>.
+BuffPropPair_蛇矛枪1,"When attacking, inflict <#FE2929>{蛇矛枪1多效果1} points of Bleeding</color> on the enemy.",เมื่อโจมตี สร้างสถานะ <#FE2929>เลือดไหล {蛇矛枪1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_混铁枪1,"When attacking, reduce the enemy's <#FE2929>{混铁枪1多效果1} points of Qi</color>.",เมื่อโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ของศัตรูลง {混铁枪1多效果1} แต้ม</color>
+BuffPropPair_青龙戟1,"When attacking, trigger Critical, <#29F161>Critical Increases Damage{青龙戟1多效果1%}</color>.","เมื่อโจมตี, เกิดคริติคอล <#29F161>เพิ่มความเสียหายคริติคอล{青龙戟1多效果1%}</color>"
+BuffPropPair_梨花枪1,"When attacking, inflict <#FE2929>{梨花枪1多效果1} points of Sealed</color> on the enemy.",เมื่อโจมตี สร้างสถานะ <#FE2929>สกัดจุด {梨花枪1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_霸王枪1,"During Attack, <#29F161>damage is additionally increased by {霸王枪1多效果1%}</color>.",ในระหว่างโจมตี <#29F161>ความเสียหายจะเพิ่มขึ้นอีก {霸王枪1多效果1%}</color>
+BuffPropPair_沥泉枪1,"During Attack, there is a <#29F161>{沥泉枪1多效果1%}</color> chance to Pierce enemy armor.","ในระหว่างโจมตี, มีโอกาส <#29F161>{沥泉枪1多效果1%}</color> ที่จะเจาะทะลุเกราะของศัตรู"
+BuffPropPair_沥泉枪2,"When Attack triggers Critical, this Attack Combo increases by <#29F161>{沥泉枪2多效果1%}</color>.","เมื่อโจมตีหากเกิดคริติคอล, อัตราโจมตีต่อเนื่องจะเพิ่มขึ้น <#29F161>{沥泉枪2多效果1%}</color>."
+BuffPropPair_湛金枪1,"During Attack, there is a {湛金枪1多效果1%} chance to trigger <#FE2929>Vulnerable</color> effect on the enemy.","ระหว่างโจมตี, มีโอกาส {湛金枪1多效果1%} ที่จะทำให้เกิดสถานะ <#FE2929>เปราะบาง</color> แก่ศัตรู"
+BuffPropPair_蚩巫叉1,"During Attack, for every additional 10 points of enemy's Poisoned status, this Attack <#29F161>finally increases Damage by {蚩巫叉1多效果1%}</color>.","ระหว่างโจมตี, ทุก ๆ 10 แต้มของสถานะพิษของศัตรู การโจมตีนี้ <#29F161>จะเพิ่มความเสียหายสุดท้ายโดย {蚩巫叉1多效果1%}</color>"
+BuffPropPair_句芒1,"When Attack triggers Critical, <#29F161>Critical increases Damage by {句芒1多效果1%}</color>.",เมื่อโจมตี หากเกิดคริติคอล <#29F161>ความเสียหายคริติคอลจะเพิ่มขึ้น {句芒1多效果1%}</color>
+BuffPropPair_句芒2,"When Attacking the enemy, you additionally gain <#29F161>{句芒2多效果1} Spirit points</color>.",เมื่อโจมตีศัตรู จะได้รับพลังใจเพิ่มเติม <#29F161>พลังใจ {句芒2多效果1} แต้ม </color>
+BuffPropPair_句芒3,"When performing a Side attack on the enemy, your Combo increases by <#29F161>{句芒3多效果1%}</color>.",เมื่อโจมตีศัตรูจากด้านข้าง อัตราโจมตีต่อเนื่องของคุณจะเพิ่มขึ้น <#29F161>{句芒3多效果1%}</color>.
+BuffPropPair_方天画戟1,"During Attack, <#29F161>damage is additionally increased by {方天画戟1多效果1%}</color>.",ในระหว่างโจมตี <#29F161>ความเสียหายจะเพิ่มขึ้นอีก {方天画戟1多效果1%}</color>.
+BuffPropPair_方天画戟2,"During Attack, inflict <#FE2929>{方天画戟2多效果1} Sealed points</color> on the enemy.",ระหว่างโจมตี สร้างสถานะ <#FE2929>สกัดจุด {方天画戟2多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_混沌1,"When performing a Back attack on the enemy, your Combo increases by <#29F161>{混沌1多效果1%}</color>.",เมื่อโจมตีศัตรูจากด้านหลัง อัตราโจมตีต่อเนื่องของคุณจะเพิ่มขึ้น <#29F161>{混沌1多效果1%}</color>.
+BuffPropPair_混沌2,"During Attack, reduce the enemy's <#FE2929>{混沌2多效果1} Qi gathering points</color>.",ระหว่างโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ของศัตรูลง {混沌2多效果1} แต้ม</color>
+BuffPropPair_混沌3,"When Attack is external, for every additional 50 Spirit points, <#29F161>finally increases Damage by {混沌3多效果1%}</color>.",เมื่อโจมตีโดยใช้วรยุทธ ทุกๆ พลังใจ 50 แต้ม <#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น {混沌3多效果1%}</color>
+BuffPropPair_烧火棍1,"During Attack, reduce the enemy's <#FE2929>{烧火棍1多效果1} Qi gathering points</color>.",เมื่อโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ของศัตรูลง {烧火棍1多效果1} แต้ม</color>
+BuffPropPair_短棒1,"During Attack, <#29F161>finally increases Damage by {短棒1多效果1%}</color>.",เมื่อโจมตี <#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น {短棒1多效果1%}</color>.
+BuffPropPair_镔铁杖1,"During Attack, inflict <#FE2929>{镔铁杖1多效果1} Internal Injury points</color> on the enemy.",ระหว่างโจมตี สร้างสถานะ <#FE2929>บาดเจ็บภายใน {镔铁杖1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_齐眉棍1,"During Attack, reduce the enemy's <#FE2929>{齐眉棍1多效果1} Qi gathering points</color>.",เมื่อโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ของศัตรูลง {齐眉棍1多效果1} แต้ม</color>
+BuffPropPair_青竹杖1,"When Attacking the enemy, you additionally gain <#29F161>{青竹杖1多效果1} Spirit points</color>.",เมื่อโจมตีศัตรู จะได้รับพลังใจเพิ่มเติม <#29F161>พลังใจ {青竹杖1多效果1} แต้ม </color>
+BuffPropPair_混铁棒1,"During Attack, <#29F161>finally increases Damage by {混铁棒1多效果1%}</color>.",ระหว่างโจมตี <#29F161>จะเพิ่มความเสียหายสุดท้าย {混铁棒1多效果1%}</color>
+BuffPropPair_盘龙棍1,"During Attack, <#29F161>finally increases Damage by {盘龙棍1多效果1%}</color>.",เมื่อโจมตี <#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น {盘龙棍1多效果1%}</color>.
+BuffPropPair_齐天棍1,"During Attack, your Combo increases by <#29F161>{齐天棍1多效果1%}</color>.",ระหว่างโจมตี อัตราโจมตีต่อเนื่องของคุณจะเพิ่มขึ้น <#29F161>{齐天棍1多效果1%}</color>.
+BuffPropPair_囚龙柱1,"During Attack, reduce the enemy's <#FE2929>{囚龙柱1多效果1} Qi gathering points</color>.",เมื่อโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ของศัตรูลง {囚龙柱1多效果1} แต้ม</color>
+BuffPropPair_天机杖1,"During Attack, inflict <#FE2929>{天机杖1多效果1} Internal Injury points</color> on the enemy.",ระหว่างโจมตี สร้างสถานะ <#FE2929>{天机杖1多效果1} แต้มของการบาดเจ็บภายใน</color> แก่ศัตรู
+BuffPropPair_烛阴1,"When attacking the enemy, you gain an extra <#29F161>{烛阴1多效果1} Spirit</color>.",เมื่อโจมตีศัตรู จะได้รับพลังใจเพิ่มเติม <#29F161>พลังใจ {烛阴1多效果1} แต้ม </color>
+BuffPropPair_烛阴2,"When attacking, triggering a Critical, <#29F161>Critical Increases Damage{烛阴2多效果1%}</color>.",เมื่อโจมตี หากเกิดคริติคอล <#29F161>ความเสียหายคริติคอลจะเพิ่มขึ้น {烛阴2多效果1%}</color>
+BuffPropPair_烛阴3,"When attacking, <#29F161>final Increases Damage{烛阴3多效果1%}</color>.",เมื่อโจมตี <#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น {烛阴3多效果1%}</color>.
+BuffPropPair_穷奇1,"When attacking, there is a {穷奇1多效果1%} chance to trigger <#FE2929>Vulnerable</color> effect on the enemy.",เมื่อโจมตี มีโอกาส {穷奇1多效果1%} ที่จะสร้างสถานะ<#FE2929>เปราะบาง</color> แก่ศัตรู
+BuffPropPair_穷奇2,"When attacking, reduce the enemy's <#FE2929>{穷奇2多效果1} Qi value</color>.",เมื่อโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ของศัตรูลง {穷奇2多效果1} แต้ม</color>
+BuffPropPair_穷奇3,"When attacking, reduce the enemy's <#29F161>{穷奇3多效果1%} basic Defense</color>.",เมื่อโจมตี ลด <#29F161>พลังป้องกันพื้นฐานของศัตรูลง {穷奇3多效果1%} </color>
+BuffPropPair_定海神针1,Attack increases <#29F161>{定海神针1多效果1}</color>.,พลังโจมตีเพิ่มขึ้น <#29F161>{定海神针1多效果1}</color>.
+BuffPropPair_定海神针2,Basic Attack increases <#29F161>{定海神针2多效果1%}</color>.,พลังโจมตีพื้นฐานเพิ่มขึ้น <#29F161>{定海神针2多效果1%}</color>.
+BuffPropPair_定海神针3,"For non-boss characters below your level by 10, there is a <#29F161>{定海神针3多效果1%}</color> chance to trigger <#29F161>Instant death</color>.","สำหรับตัวละครที่ไม่ใช่บอสที่มีเลเวลต่ำกว่าเรา 10 เลเวล, มีโอกาส  <#29F161>{定海神针3多效果1%}</color> ที่จะทำให้เกิด <#29F161>สังหารทันที</color>"
+BuffPropPair_定海神针4,"When using martial arts, MP Cost <#FE2929>increases by 200%</color>, <#FE2929>Action Speed decreases by {定海神针4多效果1%}</color>.","เมื่อใช้วรยุทธ, เสีย MP <#FE2929>เพิ่มขึ้น 200%</color>, <#FE2929>ความเร็วท่าร่างลดลงโดย{定海神针4多效果1%}</color>."
+BuffPropPair_九环锡杖1,"When attacking, inflict <#FE2929>{九环锡杖1多效果1} Internal Injury</color> on the enemy.",เมื่อโจมตี สร้างสถานะ <#FE2929>{九环锡杖1多效果1} บาดเจ็บภายใน</color> แก่ศัตรู
+BuffPropPair_九环锡杖2,"When attacking, there is a {九环锡杖2多效果1%} chance to trigger <#FE2929>Vulnerable</color> effect on the enemy.",เมื่อการโจมตี มีโอกาส {九环锡杖2多效果1%} ที่จะทำให้เกิดสถานะ <#FE2929>เปราะบาง</color> แก่ศัตรู
+BuffPropPair_亮银锤1,"When your Strength is higher than the enemy's Strength, for each additional point, when attacking, <#29F161>damage increases by {亮银锤1多效果1%}</color>, up to a maximum increase of 15%.","เมื่อ""พละกำลัง""ของคุณสูงกว่าของศัตรู ทุกๆ 1 แต้ม เมื่อโจมตี <#29F161>ความเสียหายจะเพิ่มขึ้น {亮银锤1多效果1%}</color> สูงสุด 15%."
+BuffPropPair_大铁锤1,"When attacking, for each additional point of Strength, <#FE2929>damage increases by {大铁锤1多效果1%}</color>, up to a maximum increase of 10%.","เมื่อโจมตี สำหรับแต่ละแต้มของค่า""พละกำลัง"" <#FE2929>ความเสียหายจะเพิ่มขึ้น {大铁锤1多效果1%}</color> สูงสุด 10%"
+BuffPropPair_铁骨扇1,"When attacking, <#29F161>final Increases Damage{铁骨扇1多效果1%}</color>.",เมื่อโจมตี <#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น {铁骨扇1多效果1%}</color>.
+BuffPropPair_绢宫扇1,"When attacking the enemy, you gain an extra <#29F161>{绢宫扇1多效果1} Spirit</color>.",เมื่อโจมตีศัตรู จะได้รับพลังใจเพิ่มเติม <#29F161>พลังใจ {绢宫扇1多效果1} แต้ม </color>
+BuffPropPair_留香扇1,"When attacking, inflict <#FE2929>{留香扇1多效果1} Internal Injury</color> on the enemy.",เมื่อโจมตี สร้างสถานะ <#FE2929>บาดเจ็บภายใน {留香扇1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_西江月1,"When attacking, <#29F161>damage increases by {西江月1多效果1%}</color>.",เมื่อโจมตี <#29F161>ความเสียหายเพิ่มขึ้น {西江月1多效果1%}</color>.
+BuffPropPair_满江红1,"When attacking the enemy, you gain an extra <#29F161>{满江红1多效果1} Spirit</color>.",เมื่อโจมตีศัตรู จะได้รับพลังใจเพิ่มเติม <#29F161>พลังใจ {满江红1多效果1} แต้ม </color>
+BuffPropPair_破阵子1,"When attacking, reduce the enemy's <#FE2929>{破阵子1多效果1} Qi value</color>.",เมื่อโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ของศัตรูลง {破阵子1多效果1} แต้ม</color>
+BuffPropPair_定风波1,"When attacking, triggering a Critical, <#29F161>Critical Increases Damage{定风波1多效果1%}</color>.",เมื่อโจมตี หากเกิดคริติคอล <#29F161>ความเสียหายคริติคอลจะเพิ่มขึ้น {定风波1多效果1%}</color>.
+BuffPropPair_浪淘沙1,Inflict <#FE2929>{浪淘沙1多效果1} points of Internal Injury</color> on the enemy during Attack.,ระหว่างโจมตี สร้างสถานะ <#FE2929>บาดเจ็บภายใน {浪淘沙1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_卜算子1,Inflict <#FE2929>{卜算子1多效果1} points of Bleeding</color> on the enemy during Attack.,ระหว่างโจมตี สร้างสถานะ <#FE2929>เลือดไหล {卜算子1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_祝融1,"Trigger Critical during Attack, <#29F161>Critical Increases Damage{祝融1多效果1%}</color>.",เมื่อโจมตี หากเกิดคริติคอล <#29F161>ความเสียหายคริติคอลจะเพิ่มขึ้น {祝融1多效果1%}</color>.
+BuffPropPair_祝融2,Reduce the enemy's <#FE2929>{祝融2多效果1} points of Qi accumulation</color> during Attack.,ระหว่างโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ของศัตรูลง {祝融2多效果1} แต้ม</color>
+BuffPropPair_夸父1,Gain an extra <#29F161>{夸父1多效果1} points of Spirit</color> when attacking the enemy.,เมื่อโจมตีศัตรู จะได้รับพลังใจเพิ่มเติม <#29F161>พลังใจ {夸父1多效果1} แต้ม </color>
+BuffPropPair_夸父2,There is a <#29F161>{夸父2多效果1%}</color> chance to Pierce the enemy's armor during Attack.,รหว่างโจมตี มีโอกาส <#29F161>{夸父2多效果1%}</color> ที่จะเจาะทะลุเกราะของศัตรู
+BuffPropPair_青丘1,"When performing a Side attack on the enemy, your own Combo increases by <#29F161>{青丘1多效果1%}</color>.",เมื่อโจมตีศัตรูจากด้านข้าง อัตราโจมตีต่อเนื่องของคุณจะเพิ่มขึ้น <#29F161>{青丘1多效果1%}</color>
+BuffPropPair_青丘2,Gain an extra <#29F161>{青丘2多效果1} points of Spirit</color> when attacking the enemy.,เมื่อโจมตีศัตรู จะได้รับพลังใจเพิ่มเติม <#29F161>พลังใจ {青丘2多效果1} แต้ม </color>
+BuffPropPair_峨嵋刺1,<#29F161>Final Increases Damage{峨嵋刺1多效果1%}</color> during Attack.,เมื่อโจมตี <#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น {峨嵋刺1多效果1%}</color>
+BuffPropPair_狼牙匕1,Inflict <#FE2929>{狼牙匕1多效果1} points of Bleeding</color> on the enemy during Attack.,ระหว่างโจมตี สร้างสถานะ <#FE2929>เลือดไหล {狼牙匕1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_点钢刺1,Reduce the enemy's <#FE2929>{点钢刺1多效果1} points of Qi accumulation</color> during Attack.,ระหว่างโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ของศัตรูลง {点钢刺1多效果1} แต้ม</color>
+BuffPropPair_三棱锥1,Gain an extra <#29F161>{三棱锥1多效果1} points of Spirit</color> when attacking the enemy.,เมื่อโจมตีศัตรู จะได้รับพลังใจเพิ่มเติม <#29F161>พลังใจ {三棱锥1多效果1} แต้ม </color>
+BuffPropPair_流光锥1,<#29F161>Final Increases Damage{流光锥1多效果1%}</color> during Attack.,<#29F161>เพิ่มความเสียหายสุดท้าย {流光锥1多效果1%}</color> ระหว่างโจมตี
+BuffPropPair_飞来梭1,"Trigger Critical during Attack, <#29F161>Critical Increases Damage{飞来梭1多效果1%}</color>.",เมื่อโจมตี หากเกิดคริติคอล <#29F161>ความเสียหายคริติคอลจะเพิ่มขึ้น {飞来梭1多效果1%}</color>.
+BuffPropPair_流云锥1,Gain an extra <#29F161>{流云锥1多效果1} points of Spirit</color> when attacking the enemy.,เมื่อโจมตีศัตรู จะได้รับพลังใจเพิ่มเติม <#29F161>พลังใจ {流云锥1多效果1} แต้ม </color>
+BuffPropPair_孤星刺1,"When performing a Side attack on the enemy, your own Combo increases by <#29F161>{孤星刺1多效果1%}</color>.",เมื่อโจมตีศัตรูจากด้านข้าง อัตราโจมตีต่อเนื่องของคุณจะเพิ่มขึ้น <#29F161>{孤星刺1多效果1%}</color>
+BuffPropPair_飞影匕1,<#29F161>Additional Damage Increase{飞影匕1多效果1%}</color> during Attack.,<#29F161>ความเสียหายเพิ่มขึ้น {飞影匕1多效果1%}</color> เมื่อโจมตี
+BuffPropPair_织女梭1,Inflict <#FE2929>{织女梭1多效果1} points of Blinded</color> on the enemy during Attack.,เมื่อโจมตี สร้างสถานะ <#FE2929>ตาบอด {织女梭1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_残雪刺1,"When performing a Back attack on the enemy, your own Combo increases by <#29F161>{残雪刺1多效果1%}</color>.",เมื่อโจมตีศัตรูจากด้านหลัง อัตราโจมตีต่อเนื่องของคุณจะเพิ่มขึ้น <#29F161>{残雪刺1多效果1%}</color>
+BuffPropPair_嘲风1,"When Attack is external, for every extra 50 points of Spirit, <#29F161>Final Increases Damage{嘲风1多效果1%}</color>.",เมื่อโจมตีโดยใช้วรยุทธ ทุกๆ พลังใจ 50 แต้มเพิ่มเติม <#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น {嘲风1多效果1%}</color>
+BuffPropPair_嘲风2,Inflict <#FE2929>{嘲风2多效果1} points of Bleeding</color> on the enemy during Attack.,ระหว่างโจมตี สร้างสถานะ <#FE2929>เลือดไหล {嘲风2多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_精卫1,<#29F161>{精卫1多效果1%} of the damage inflicted on the enemy will be converted into your own HP</color> during Attack.,ระหว่างโจมตี <#29F161>{精卫1多效果1%} ของความเสียหายที่เกิดกับศัตรูจะถูกแปลงเป็น HP ของคุณเอง</color> 
+BuffPropPair_睚眦1,"Trigger Critical during Attack, this Attack <#29F161>{睚眦1多效果1%} will definitely Combo</color>.",หากเกิดคริติคอลเมื่อโจมตี การโจมตีนี้ <#29F161>{睚眦1多效果1%} จะโจมตีต่อเนื่องอย่างแน่นอน</color>
+BuffPropPair_睚眦2,"During an attack, there is a <#29F161>{睚眦2多效果1%}</color> chance to Pierce the enemy's armor.",ระหว่างโจมตี มีโอกาส <#29F161>{睚眦2多效果1%}</color> ที่จะเจาะทะลุเกราะของศัตรู
+BuffPropPair_猪鬃笔1,"During an attack, <#29F161>finally increases damage by {猪鬃笔1多效果1%}</color>.",ระหว่างโจมตี <#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น {猪鬃笔1多效果1%}</color>.
+BuffPropPair_鼠须笔1,"During an attack, reduce the enemy's <#FE2929>{鼠须笔1多效果1} points of Qi gathering</color>.",ระหว่างโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ของศัตรูลง {鼠须笔1多效果1} แต้ม</color>
+BuffPropPair_圆锋1,"During an attack, reduce the enemy's <#FE2929>{圆锋1多效果1} points of Qi gathering</color>.",ระหว่างโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ของศัตรูลง {圆锋1多效果1} แต้ม</color>
+BuffPropPair_佩阿1,"During an attack, inflict <#FE2929>{佩阿1多效果1} points of Sealed on the enemy</color>.",ระหว่างโจมตี สร้างสถานะ <#FE2929>สกัดจุด {佩阿1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_鸡距1,"During an attack, inflict <#FE2929>{鸡距1多效果1} points of Sealed on the enemy</color>.",ระหว่างโจมตี สร้างสถานะ <#FE2929>สกัดจุด {鸡距1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_鹿毛1,"During an attack, inflict <#FE2929>{鹿毛1多效果1} points of Internal Injury on the enemy</color>.",ระหว่างโจมตี สร้างสถานะ <#FE2929>บาดเจ็บภายใน {鹿毛1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_龙须1,"During an attack on the enemy, gain an additional <#29F161>{龙须1多效果1} points of Spirit</color>.",ระหว่างโจมตีศัตรู จะได้รับพลังใจเพิ่มเติม <#29F161>พลังใจ {龙须1多效果1} แต้ม </color>
+BuffPropPair_麟角1,"During an attack, <#29F161>damage is additionally increased by {麟角1多效果1%}</color>.",ระหว่างโจมตี <#29F161>ความเสียหายเพิ่มขึ้น {麟角1多效果1%}</color>
+BuffPropPair_太虚1,"When performing a Side attack on the enemy, there is a {太虚1多效果1%} chance to trigger a <#FE2929>Disarm</color> effect.",เมื่อโจมตีศัตรูจากด้านข้าง มีโอกาส {太虚1多效果1%} ที่จะสร้างสถานะ<#FE2929>ปลดอาวุธ</color> แก่ศัตรู
+BuffPropPair_太虚2,"During an attack, inflict <#FE2929>{太虚2多效果1} points of Sealed on the enemy</color>.",ระหว่างโจมตี สร้างสถานะ <#FE2929>สกัดจุด {太虚2多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_玄黄1,"During an attack, <#29F161>damage is additionally increased by {玄黄1多效果1%}</color>.",ระหว่างโจมตี <#29F161>ความเสียหายเพิ่มขึ้น {玄黄1多效果1%}</color>.
+BuffPropPair_玄黄2,"During an attack, reduce the enemy's <#FE2929>{玄黄2多效果1} points of Qi gathering</color>.",ระหว่างโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ของศัตรูลง {玄黄2多效果1} แต้ม</color>
+BuffPropPair_洪荒1,"During an attack, there is a <#29F161>{洪荒1多效果1%}</color> chance to trigger a <#FE2929>Disable technique</color> effect.","ในระหว่างโจมตี, มีโอกาส <#29F161>{洪荒1多效果1%}</color> ที่จะทำให้เกิดสถานะ <#FE2929>ทำลายวรยุทธ</color>"
+BuffPropPair_洪荒2,"During an attack, there is a <#29F161>{洪荒2多效果1%}</color> chance to trigger a <#FE2929>Internal break</color> effect.",ในระหว่างโจมตี มีโอกาส <#29F161>{洪荒2多效果1%}</color> ที่จะทำให้เกิดสถานะ <#FE2929>กำลังภายในติดขัด</color>
+BuffPropPair_响泉琴1,"During an attack, <#29F161>finally increases damage by {响泉琴1多效果1%}</color>.",ระหว่างโจมตี <#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น {响泉琴1多效果1%}</color>.
+BuffPropPair_七弦1,"During an attack, inflict <#FE2929>{七弦1多效果1} points of Internal Injury on the enemy</color>.",ระหว่างโจมตี สร้างสถานะ <#FE2929>บาดเจ็บภายใน {七弦1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_落霞1,"During an attack, reduce the enemy's <#FE2929>{落霞1多效果1} points of Qi gathering</color>.",ระหว่างโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ของศัตรูลง {落霞1多效果1} แต้ม</color>
+BuffPropPair_独幽1,"During an attack, <#29F161>finally increases damage by {独幽1多效果1%}</color>.",ระหว่างโจมตี <#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น {独幽1多效果1%}</color>.
+BuffPropPair_春雷1,"During an attack, inflict <#FE2929>{春雷1多效果1} points of Internal Injury on the enemy</color>.",ระหว่างโจมตี สร้างสถานะ <#FE2929>บาดเจ็บภายใน {春雷1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_焦尾1,"During an attack, <#29F161>finally increases damage by {焦尾1多效果1%}</color>.",ระหว่างโจมตี <#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น {焦尾1多效果1%}</color>.
+BuffPropPair_绿绮1,"During an attack, inflict <#FE2929>{绿绮1多效果1} points of Sealed on the enemy</color>.",ระหว่างโจมตี สร้างสถานะ <#FE2929>สกัดจุด {绿绮1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_绕梁1,"During an attack, reduce the enemy's <#FE2929>{绕梁1多效果1} points of Qi gathering</color>.",ระหว่างโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ของศัตรูลง {绕梁1多效果1} แต้ม</color>
+BuffPropPair_绕梁2,"After attacking, increase your own <#29F161>{绕梁2多效果1} points of Qi</color>.",หลังโจมตี ตัวเองจะเพิ่ม <#29F161>ค่าปราณเคลื่อนที่ขึ้น {绕梁2多效果1} แต้ม</color>
+BuffPropPair_号钟1,There is a <#29F161>{号钟1多效果1%}</color> chance of triggering <#FE2929>Confuse</color> effect when attacking.,มีโอกาส <#29F161>{号钟1多效果1%}</color> ที่จะเกิดสถานะ <#FE2929>สับสน</color> เมื่อโจมตี
+BuffPropPair_号钟2,Cause <#FE2929>{号钟2多效果1} points of Internal Injury</color> to the enemy when attacking.,เมื่อโจมตี สร้างสถานะ <#FE2929>บาดเจ็บภายใน {号钟2多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_囚牛1,There is a <#29F161>{囚牛1多效果1%}</color> chance to Pierce the enemy's armor when attacking.,เมื่อโจมตี มีโอกาส <#29F161>{囚牛1多效果1%}</color> ที่จะเจาะทะลุเกราะของศัตรู
+BuffPropPair_囚牛2,Reduce the enemy's <#FE2929>{囚牛2多效果1%} current MP</color> when attacking.,เมื่อโจมตี ลด <#FE2929>MP ปัจจุบัน {囚牛2多效果1%}</color> ของศัตรู
+BuffPropPair_洞箫1,<#29F161>Final Damage Increase{洞箫1多效果1%}</color> when attacking.,เมื่อโจมตี <#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น {洞箫1多效果1%}</color>
+BuffPropPair_竹箫1,Reduce the enemy's <#FE2929>{竹箫1多效果1} points of Qi</color> when attacking.,เมื่อโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ของศัตรูลง {竹箫1多效果1} แต้ม</color>
+BuffPropPair_紫竹箫1,Cause <#FE2929>{紫竹箫1多效果1} points of Sealed</color> to the enemy when attacking.,เมื่อโจมตี สร้างสถานะ <#FE2929>สกัดจุด {紫竹箫1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_玉屏箫1,Reduce the enemy's <#FE2929>{玉屏箫1多效果1} points of Qi</color> when attacking.,เมื่อโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ของศัตรูลง {玉屏箫1多效果1} แต้ม</color>
+BuffPropPair_九节箫1,<#29F161>Final Damage Increase{九节箫1多效果1%}</color> when attacking.,เมื่อโจมตี <#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น {九节箫1多效果1%}</color>
+BuffPropPair_枉凝眉1,Cause <#FE2929>{枉凝眉1多效果1} points of Internal Injury</color> to the enemy when attacking.,เมื่อโจมตี สร้างสถานะ <#FE2929>บาดเจ็บภายใน {枉凝眉1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_关山月1,Reduce the enemy's <#FE2929>{关山月1多效果1} points of Qi</color> when attacking.,เมื่อโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ของศัตรูลง {关山月1多效果1} แต้ม</color>
+BuffPropPair_冷沧浪1,Cause <#FE2929>{冷沧浪1多效果1} points of Sealed</color> to the enemy when attacking.,เมื่อโจมตี สร้างสถานะ <#FE2929>สกัดจุด {冷沧浪1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_有凤来仪1,There is a <#29F161>{有凤来仪1多效果1%}</color> chance of triggering <#FE2929>Energy loss</color> effect when attacking.,เมื่อโจมตี มีโอกาส <#29F161>{应龙1多效果1%}</color> ที่จะสร้างสถานะ<#FE2929>สูญเสียพลัง</color> แก่ศัตรู
+BuffPropPair_有凤来仪2,Cause <#FE2929>{有凤来仪2多效果1} points of Internal Injury</color> to the enemy when attacking.,เมื่อโจมตี สร้างสถานะ <#FE2929>บาดเจ็บภายใน 1 แต้มต่อ {วิหคเพลิงมาเยือน 2 แต้ม}</color> แก่ศัตรู
+BuffPropPair_碧海潮声1,There is a <#29F161>{碧海潮声1多效果1%}</color> chance of triggering <#FE2929>Unconscious</color> effect when attacking.,เมื่อโจมตี มีโอกาส <#29F161>{碧海潮声1多效果1%}</color> ที่จะสร้างสถานะ<#FE2929>หมดสติ</color> แก่ศัตรู
+BuffPropPair_碧海潮声2,Reduce the enemy's <#FE2929>{碧海潮声2多效果1} points of Qi</color> when attacking.,เมื่อโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ของศัตรูลง {碧海潮声2多效果1} แต้ม</color>
+BuffPropPair_笑傲江湖1,"For every additional 15 points of Musical, <#29F161>Final Damage Increase{笑傲江湖1多效果1%}</color> when attacking.",เมื่อโจมตี ทุกๆ 15 แต้มของค่าดนตรี<#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น {奔雷铁手1多效果1%}</color>
+BuffPropPair_笑傲江湖2,Cause <#FE2929>{笑傲江湖2多效果1} points of Sealed</color> to the enemy when attacking.,เมื่อโจมตี สร้างสถานะ <#FE2929>สกัดจุด {笑傲江湖2多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_硬木琵琶1,<#29F161>Final Damage Increase{硬木琵琶1多效果1%}</color> when attacking.,เมื่อโจมตี <#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น {硬木琵琶1多效果1%}</color>
+BuffPropPair_花梨琵琶1,Reduce the enemy's <#FE2929>{花梨琵琶1多效果1} points of Qi</color> when attacking.,เมื่อโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ของศัตรูลง {花梨琵琶1多效果1} แต้ม</color>
+BuffPropPair_牛角琵琶1,Cause <#FE2929>{牛角琵琶1多效果1} points of Bleeding</color> to the enemy when attacking.,เมื่อโจมตี สร้างสถานะ <#FE2929>เลือดไหล {牛角琵琶1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_象牙琵琶1,Reduce the enemy's <#FE2929>{象牙琵琶1多效果1} points of Qi</color> when attacking.,เมื่อโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ของศัตรูลง {象牙琵琶1多效果1} แต้ม</color>
+BuffPropPair_双凤琵琶1,Cause <#FE2929>{双凤琵琶1多效果1} points of Sealed</color> to the enemy when attacking.,เมื่อโจมตี สร้างสถานะ <#FE2929>สกัดจุด 1 แต้ม ต่อ ผีผาหงส์คู่ 1 แต้ม</color> แก่ศัตรู
+BuffPropPair_绕殿雷1,<#29F161>Damage increases by {绕殿雷1多效果1%}</color> when attacking.,<#29F161>ความเสียหายเพิ่มขึ้น {绕殿雷1多效果1%}</color> เมื่อโจมตี
+BuffPropPair_烧槽1,Cause <#FE2929>{烧槽1多效果1} points of Internal Injury</color> to the enemy when attacking.,เมื่อโจมตี สร้างสถานะ <#FE2929>บาดเจ็บภายใน {烧槽1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_玄象1,Attack reduces the enemy's <#FE2929>{玄象1多效果1%}Spirit</color>.,เมื่อโจมตี จะลด <#FE2929>พลังใจของศัตรูลง {玄象1多效果1%} แต้ม</color> 
+BuffPropPair_玄象2,Gain an extra <#29F161>{玄象2多效果1} points of Spirit</color> when attacking the enemy.,เมื่อโจมตีศัตรู จะได้รับ <#29F161>พลังใจ {玄象2多效果1} แต้ม </color> เพิ่มเติม
+BuffPropPair_青山1,There is a <#29F161>{青山1多效果1%}</color> chance to trigger <#FE2929>Charm</color> effect on non-boss characters when attacking.,เมื่อโจมตี มีโอกาส <#29F161>{青山1多效果1%}</color> ที่จะสร้างสถานะ <#FE2929>ลุ่มหลง</color> แก่ตัวละครที่ไม่ใช่หัวหน้า
+BuffPropPair_青山2,Cause <#FE2929>{青山2多效果1} points of Internal Injury</color> to the enemy when attacking.,เมื่อโจมตี สร้างสถานะ <#FE2929>บาดเจ็บภายใน {青山2多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_狮子丸1,There is a <#29F161>{狮子丸1多效果1%}</color> chance to Pierce the enemy's armor when attacking.,เมื่อโจมตี มีโอกาส <#29F161>{狮子丸1多效果1%}</color> ที่จะเจาะทะลุเกราะของศัตรู
+BuffPropPair_狮子丸2,There is a {狮子丸2多效果1%} chance to trigger <#FE2929>Vulnerable</color> effect on the enemy when attacking.,เมื่อโจมตี มีโอกาส {狮子丸2多效果1%} ที่จะสร้างสถานะ <#FE2929>เปราะบาง</color> แก่ศัตรู
+BuffPropPair_窄袖衣1,"When attacked by male enemies, the <#29F161>final damage received is reduced by {窄袖衣1多效果1%}</color> (only effective for females).",เมื่อถูกโจมตีจากศัตรูที่เป็นผู้ชาย <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {窄袖衣1多效果1%}</color> (มีผลกับตัวละครหญิงเท่านั้น)
+BuffPropPair_绢麻衣1,"When the protagonist's Propriety is above 0, the <#29F161>damage received is reduced by {绢麻衣1多效果1%}</color>.","เมื่อ""มารยาท""ของตัวเอกมากกว่า 0, <#29F161>ลดความเสียหายที่ได้รับจะลง {绢麻衣1多效果1%}</color>"
+BuffPropPair_兽皮袄1,"When attacked by animals, the <#29F161>final damage received is reduced by {兽皮袄1多效果1%}</color>.",เมื่อถูกโจมตีจากศัตรูที่เป็นสัตว์ <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {兽皮袄1多效果1%}</color>
+BuffPropPair_护心铠1,The <#29F161>final damage received is reduced by {护心铠1多效果1%}</color> when attacked.,เมื่อถูกโจมตี <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {护心铠1多效果1%}</color>
+BuffPropPair_粗布衣1,"Trigger Parry when attacked, <#29F161>ParryDamage reduction effect increases by {粗布衣1多效果1%}</color>.","เมื่อปัดป้องการโจมตีได้, <#29F161>ลดความเสียหายปัดป้องเพิ่มขึ้น {เสื้อผ้าหยาบ 1 ชิ้น เพิ่มเอฟเฟกต์ 1%}.</color>."
+BuffPropPair_麻布衣1,"When attacked, the enemy's <#FE2929>Critical for this attack is reduced by {麻布衣1多效果1%}</color>.",เมื่อถูกโจมตี <#FE2929>ลดการโจมตีคริติคอลของศัตรูสำหรับการโจมตีนี้จะลง {麻布衣1多效果1%}</color>
+BuffPropPair_戎装1,"When attacked by animals, the <#29F161>final damage received is reduced by {戎装1多效果1%}</color>.",เมื่อถูกโจมตีจากศัตรูที่เป็นสัตว์ <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {戎装1多效果1%}</color>.
+BuffPropPair_百衲衣1,<#FE2929>Gift effect is reduced by {百衲衣1多效果1%}</color>,<#FE2929>ประสิทธิภาพของของขวัญลดลง {百衲衣1多效果1%}</color>
+BuffPropPair_官差服1,The <#29F161>final damage received is reduced by {官差服1多效果1%}</color> when attacked.,เมื่อถูกโจมตี <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {官差服1多效果1%}</color>
+BuffPropPair_逍遥衣1,<#29F161>Gift effect is increased by {逍遥衣1多效果1%}</color>.,<#29F161>ประสิทธิภาพของของขวัญเพิ่มขึ้น {逍遥衣1多效果1%}</color>.
+BuffPropPair_精铁内甲1,The <#29F161>final damage received is reduced by {精铁内甲1多效果1%}</color> when attacked.,เมื่อถูกโจมตี <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {精铁内甲1多效果1%}</color>
+BuffPropPair_锁子铠1,The <#29F161>final damage received is reduced by {锁子铠1多效果1%}</color> when attacked.,เมื่อถูกโจมตี <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {锁子铠1多效果1%}</color>
+BuffPropPair_僧袍1,"When the protagonist's Benevolence is above 0, the <#29F161>damage received is reduced by {僧袍1多效果1%}</color>.","เมื่อ""ศีลธรรม""ของตัวเอกมากกว่า 0, <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {僧袍1多效果1%}</color>"
+BuffPropPair_道袍1,"Each time you are attacked, <#29F161>{道袍1多效果1%} of the damage is reflected back to the opponent</color>.",เมื่อถูกโจมตีแต่ละครั้ง<#29F161>สะท้อนความเสียหายจะกลับไปยังคู่ต่อสู้ {道袍1多效果1%}</color>
+BuffPropPair_夜行衣1,"When the protagonist's Propriety is below 0, the <#29F161>damage received is reduced by {夜行衣1多效果1%}</color>.","เมื่อ""มารยาท""ของตัวเอกน้อยกว่า 0, <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {夜行衣1多效果1%}</color>."
+BuffPropPair_儒生服1,"When the protagonist's Propriety is above 0, the <#29F161>damage received is reduced by {儒生服1多效果1%}</color>.","เมื่อ""มารยาท""ของตัวเอกมากกว่า 0, <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {儒生服1多效果1%}</color>."
+BuffPropPair_赤翎服1,"When attacked by male enemies, the <#29F161>final damage received is reduced by {赤翎服1多效果1%}</color> (only effective when equipped by females).",เมื่อถูกโจมตีจากศัตรูที่เป็นผู้ชาย <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {窄袖衣1多效果1%}</color> (มีผลกับตัวละครหญิงที่สวมใส่เท่านั้น)
+BuffPropPair_飞鱼锦服1,"When the protagonist's Benevolence is above 0, the <#29F161>damage received is reduced by {飞鱼锦服1多效果1%}</color>.","เมื่อ""ศีลธรรม""ของตัวเอกมากกว่า 0, <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {飞鱼锦服1多效果1%}</color>."
+BuffPropPair_侠客装1,"When your FameLevel is higher than the enemy's, the <#29F161>damage received is reduced by {侠客装1多效果1%}</color>.","เมื่อระดับชื่อเสียงของคุณสูงกว่าศัตรู, <#29F161>ลดความเสียหายที่ได้รับลง {侠客装1多效果1%}</color>."
+BuffPropPair_蚕丝衣1,"When attacked by male enemies, the <#29F161>final damage received is reduced by {蚕丝衣1多效果1%}</color> (only effective when equipped by females).",เมื่อถูกโจมตีจากศัตรูที่เป็นผู้ชาย <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {蚕丝衣1多效果1%}</color> (มีผลกับตัวละครหญิงที่สวมใส่เท่านั้น)
+BuffPropPair_青红襦1,"When attacked by male enemies, the <#29F161>final damage received is reduced by {青红襦1多效果1%}</color> (only effective when equipped by females).",เมื่อถูกโจมตีจากศัตรูที่เป็นผู้ชาย <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {青红襦1多效果1%}</color> (มีผลกับตัวละครหญิงที่สวมใส่เท่านั้น)
+BuffPropPair_弟子装1,"When attacked, you gain an additional <#29F161>{弟子装1多效果1} Spirit points</color>.","เมื่อถูกโจมตี, จะได้รับ <#29F161>{弟子装1多效果1} แต้มพลังใจ</color>"
+BuffPropPair_流云衫1,"When attacked and Evasion is triggered, you gain an additional <#29F161>{流云衫1多效果1} Qi points</color>.",เมื่อถูกโจมตีและเกิดการหลบหลีก คุณจะได้รับ <#29F161>ค่าปราณเคลื่อนที่ {流云衫1多效果1} แต้ม</color> เพิ่มเติม
+BuffPropPair_金刚甲1,"Trigger Parry when attacked, <#29F161>ParryDamage reduction effect increases by {金刚甲1多效果1%}</color>.",เมื่อถูกโจมตีหากปัดป้องได้ <#29F161>ลดความเสียหายปัดป้องเพิ่มขึ้น {金刚甲1多效果1%}</color>.
+BuffPropPair_明光铠1,"When attacked, the enemy's <#FE2929>Critical for this attack is reduced by {明光铠1多效果1%}</color>.",เมื่อถูกโจมตี <#FE2929>ลดการโจมตีคริติคอลของศัตรูสำหรับการโจมตีนี้จะลง {明光铠1多效果1%}</color>.
+BuffPropPair_朱雀服1,"When attacked, you gain an additional <#29F161>{朱雀服1多效果1} Spirit points</color>.",เมื่อถูกโจมตี จะได้รับ <#29F161>พลังใจ {青罡剑1多效果1} แต้ม</color> เพิ่มเติม
+BuffPropPair_麒麟甲1,"When attacked from behind, your <#29F161>counterattack probability increases by {麒麟甲1多效果1%}</color>.",เมื่อถูกโจมตีจากด้านหลัง <#29F161>โอกาสโจมตีสวนกลับเพิ่มขึ้น {麒麟甲1多效果1%}</color>.
+BuffPropPair_玄武铠1,"When attacked, the <#29F161>damage received from sword, knife, and short weapon skills is reduced by {玄武铠1多效果1%}</color>.","เมื่อถูกโจมตี <#29F161>ลดความเสียหายจากวรยุทธ กระบี่, ดาบ, อาวุธสั้นลง {玄武铠1多效果1%}</color>."
+BuffPropPair_紫罗裙1,"When attacked by male enemies, the <#29F161>final damage received is reduced by {紫罗裙1多效果1%}</color> (only effective when equipped by females).",เมื่อถูกโจมตีจากศัตรูที่เป็นผู้ชาย <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {紫罗裙1多效果1%}</color> (มีผลกับตัวละครหญิงที่สวมใส่เท่านั้น)
+BuffPropPair_山海袍1,"When your FameLevel is higher than the enemy's, the <#29F161>damage received is reduced by {山海袍1多效果1%}</color>.","เมื่อระดับชื่อเสียงของคุณสูงกว่าศัตรู, <#29F161>ลดความเสียหายที่ได้รับลง {山海袍1多效果1%}</color>."
+BuffPropPair_七宝袈裟1,"Each time you are attacked, <#29F161>{七宝袈裟1多效果1%} of the damage is reflected back to the opponent</color>.",แต่ละครั้งที่ถูกโจมตี <#29F161>สะท้อนความเสียหายกลับไปยังคู่ต่อสู้ {七宝袈裟1多效果1%}</color>
+BuffPropPair_太极服1,"When attacked, the <#29F161>damage received from fist, long, and musical weapon skills is reduced by {太极服1多效果1%}</color>.","เมื่อถูกโจมตี <#29F161>ลดความเสียหายจากวรยุทธ หมัด, อาวุธยาว, เครื่องดนตรี ลง {太极服1多效果1%}</color>."
+BuffPropPair_黑色披风1,"When subjected to a Back attack, your own <#29F161>Evasion increases by {黑色披风1多效果1%}</color>.",เมื่อถูกโจมตีจากด้านหลัง <#29F161>การหลบหลีกของคุณจะเพิ่มขึ้น  {黑色披风1多效果1%}</color>
+BuffPropPair_混元衫1,"Each time you are Attacked, <#29F161>{混元衫1多效果1%} of the damage is Reflected back to the opponent</color>.",แต่ละครั้งที่เจ้าถูกโจมตี <#29F161>{混元衫1多效果1%} ของความเสียหายจะถูกสะท้อนกลับไปยังคู่ต่อสู้</color>
+BuffPropPair_烈火甲1,"When Attacked, the <#29F161>damage received from Sword, Knife, and Short type martial arts is reduced by {烈火甲1多效果1%}</color>.","เมื่อถูกโจมตี ความเสียหาย <#29F161>ที่ได้รับจากกระบี่, ดาบ และอาวุธสั้นจะลดลง {烈火甲1多效果1%}</color>"
+BuffPropPair_天蚕宝衣1,"When Attacked, the <#29F161>damage received from Sword and Knife type martial arts is reduced by {天蚕宝衣1多效果1%}</color>.",เมื่อถูกโจมตี <#29F161>ลดความเสียหายจากวรยุทธ กระบี่ และ ดาบ ลง {天蚕宝衣1多效果1%}</color>.
+BuffPropPair_天蚕宝衣2,"Each time you are Attacked, <#29F161>{天蚕宝衣2多效果1%} of the damage is Reflected back to the opponent</color>.",แต่ละครั้งที่ถูกโจมตี <#29F161>สะท้อนความเสียหายกลับไปยังคู่ต่อสู้ {天蚕宝衣2多效果1%}</color>
+BuffPropPair_兽王宝甲1,"When Attacked, the <#29F161>damage received from Fist and Long type martial arts is reduced by {兽王宝甲1多效果1%}</color>.",เมื่อถูกโจมตี <#29F161>ลดความเสียหายจากวรยุทธ หมัด และ อาวุธยาว ลง {太极服1多效果1%}</color>.
+BuffPropPair_兽王宝甲2,"When Attacked and Parry is triggered, you gain an additional <#29F161>{兽王宝甲2多效果1} points of Spirit</color>.",เมื่อถูกโจมตีหากปัดป้องได้ จะได้รับ <#29F161>พลังใจ {青罡剑1多效果1} แต้ม</color> เพิ่มเติม
+BuffPropPair_霹雳宝铠1,"When Attacked, the <#29F161>damage received from Musical and Short type martial arts is reduced by {霹雳宝铠1多效果1%}</color>.",เมื่อถูกโจมตี <#29F161>ลดความเสียหายจากวรยุทธ เครื่องดนตรี และ อาวุธสั้น ลง {霹雳宝铠1多效果1%}</color>.
+BuffPropPair_霹雳宝铠2,"When Attacked, you gain an additional <#29F161>{霹雳宝铠2多效果1} points of Qi</color>.",เมื่อถูกโจมตี จะได้รับ <#29F161>พลังใจ {霹雳宝铠2多效果1} แต้ม</color> เพิ่มเติม
+BuffPropPair_紫薇1,"After each action, <#29F161>Recover {紫薇1多效果1%} of lost HP</color>, up to a maximum of 250 HP.",หลังลงมือแต่ละครั้ง <#29F161>ฟื้นฟู HP ที่สูญเสียไป {紫薇1多效果1%}</color> สูงสุด 250 HP
+BuffPropPair_紫薇2,"When Attacked, the <#29F161>damage received is reduced by {紫薇2多效果1%}</color>.",เมื่อถูกโจมตี <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {紫薇2多效果1%}</color>.
+BuffPropPair_狻猊1,"When Attacked, the enemy gains <#FE2929>{狻猊1多效果1} points of Bleeding</color>.","เมื่อถูกโจมตี, ศัตรูจะได้รับสถานะ <#FE2929>เลือดไหล {狻猊1多效果1} แต้ม</color>."
+BuffPropPair_狻猊2,"When Attacked, the enemy gains <#FE2929>{狻猊2多效果1} points of Internal Injury</color>.","เมื่อถูกโจมตี, ศัตรูจะได้รับสถานะ <#FE2929>บาดเจ็บภายใน {狻猊2多效果1} แต้ม</color>."
+BuffPropPair_真武1,"After each action, <#29F161>Recover {真武1多效果1%} of lost MP</color>, up to a maximum of 250 MP.",หลังลงมือแต่ละครั้ง <#29F161>ฟื้นฟู MP ที่สูญเสียไป {真武1多效果1%} </color> สูงสุด 250 MP.
+BuffPropPair_真武2,"When Attacked, the enemy gains <#FE2929>{真武2多效果1} points of Internal Injury</color>.","เมื่อถูกโจมตี, ศัตรูจะได้รับสถานะ <#FE2929>บาดเจ็บภายใน {真武2多效果1} แต้ม</color>."
+BuffPropPair_碧霞1,"When Attacked by male enemies, your own <#29F161>Evasion increases by {碧霞1多效果1%}</color> (only effective when equipped by females).",เมื่อถูกโจมตีจากศัตรูที่เป็นผู้ชาย <#29F161>การหลบหลีกเพิ่มขึ้น {窄袖衣1多效果1%}</color> (มีผลกับตัวละครหญิงที่สวมใส่เท่านั้น)
+BuffPropPair_碧霞2,"When Attacked, you gain an additional <#29F161>{碧霞2多效果1} points of Qi</color>.",เมื่อถูกโจมตี จะได้รับ <#29F161>พลังใจ {碧霞2多效果1} แต้ม</color> เพิ่มเติม
+BuffPropPair_锦襕袈裟1,"Each time you are Attacked, <#29F161>{锦襕袈裟1多效果1%} of the damage is Reflected back to the opponent</color>.",แต่ละครั้งที่ถูกโจมตี <#29F161>สะท้อนความเสียหายกลับไปยังคู่ต่อสู้ {锦襕袈裟1多效果1%} </color>
+BuffPropPair_锦襕袈裟2,"When Attacked, the enemy gains <#FE2929>{锦襕袈裟2多效果1} points of Internal Injury</color>.","เมื่อถูกโจมตี, ศัตรูจะได้รับสถานะ <#FE2929>บาดเจ็บภายใน {锦襕袈裟2多效果1} แต้ม</color>."
+BuffPropPair_太虚袍1,"Each time you are Attacked, <#29F161>{太虚袍1多效果1%} of the damage is Reflected back to the opponent</color>.",แต่ละครั้งที่ถูกโจมตี <#29F161>สะท้อนความเสียหายกลับไปยังคู่ต่อสู้ {太虚袍1多效果1%} </color>
+BuffPropPair_太虚袍2,"When Attacked, the enemy gains <#FE2929>{太虚袍2多效果1} points of Internal Injury</color>.","เมื่อถูกโจมตี, ศัตรูจะได้รับสถานะ <#FE2929>บาดเจ็บภายใน {太虚袍2多效果1} แต้ม</color>."
+BuffPropPair_太虚袍3,"When your FameLevel is higher than the enemy's, the <#29F161>damage you receive is reduced by {太虚袍3多效果1%}</color>.","เมื่อระดับชื่อเสียงของคุณสูงกว่าศัตรู, <#29F161>ลดความเสียหายที่ได้รับลง {太虚袍3多效果1%}</color>."
+BuffPropPair_广袖流仙裙1,"When attacked by male enemies, the <#29F161>final damage you receive is reduced by {广袖流仙裙1多效果1%}</color> (only effective for female Equip).",เมื่อถูกโจมตีโดยศัตรูที่เป็นผู้ชาย <#29F161>ความเสียหายสุดท้ายที่ได้รับจะลดลง {广袖流仙裙1多效果1%}</color> (มีผลกับตัวละครเพศหญิงเท่านั้น)
+BuffPropPair_广袖流仙裙2,"When attacked by male enemies, your <#29F161>Evasion increases by {广袖流仙裙2多效果1%}</color> (only effective for female Equip).",เมื่อถูกโจมตีโดยศัตรูที่เป็นผู้ชาย <#29F161>การหลบหลีกของคุณจะเพิ่มขึ้น {广袖流仙裙2多效果1%}</color> (มีผลกับตัวละครเพศหญิงเท่านั้น)
+BuffPropPair_广袖流仙裙3,"When attacked, you gain an additional <#29F161>{广袖流仙裙3多效果1} points of Spirit</color>.","เมื่อถูกโจมตี, จะได้รับ <#29F161>{广袖流仙裙3多效果1} แต้มพลังใจเพิ่มเติม</color>"
+ForgeEffect_亮银枪1,<#EFD09F>Chasing</color>,<#EFD09F>ไล่ตาม</color>
+ForgeEffect_龙胆1,<#EFD09F>Energy Abundance</color>,<#EFD09F>พลังงานล้นเหลือ</color>
+ForgeEffect_龙胆2,<#EFD09F>Critical Damage</color>,<#EFD09F>ความเสียหายคริติคอล</color>
+ForgeEffect_碧玉杖1,<#EFD09F>Penetrating</color>,<#EFD09F>ทะลุทะลวง</color>
+ForgeEffect_镇岳1,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_镇岳2,<#EFD09F>Berserk</color>,<#EFD09F>บ้าคลั่ง</color>
+BuffPropPair_亮银枪1,"When Attack triggers enemy's Parry, own Combo increases by <#29F161>{亮银枪1多效果1%}</color>.","เมื่อโจมตีหากศัตรูเกิดปัดป้อง, อัตราโจมตีต่อเนื่องของตนเองจะเพิ่มขึ้น <#29F161>{亮银枪1多效果1%}</color>"
+BuffPropPair_龙胆1,"When Attack is external, for every additional 50 points of Spirit, <#29F161>final Damage Increases{龙胆1多效果1%}</color>.",เมื่อโจมตีเป็นการโจมตีภายนอก ทุกๆ 50 แต้มของพลังใจเพิ่มเติม <#29F161>เพิ่มความเสียหายสุดท้าย{龙胆1多效果1%}</color>
+BuffPropPair_龙胆2,"When Attack triggers Critical, it causes <#FE2929>{龙胆2多效果1} points of Internal Injury and {龙胆2多效果1} points of Sealed</color> to the enemy.",เมื่อโจมตีเกิดผลคริติคอล ทำให้ศัตรูได้รับ <#FE2929>บาดเจ็บภายใน {龙胆2多效果1} แต้ม และสกัดจุด {龙胆2多效果1} แต้ม</color>
+BuffPropPair_碧玉杖1,"When Attack, it reduces the enemy's <#29F161>{碧玉杖1多效果1%} basic Defense</color>.",เมื่อโจมตี <#29F161>ลดพลังป้องกันศัตรูลง {碧玉杖1多效果1%}</color>
+BuffPropPair_镇岳1,"When Attack triggers Critical, <#29F161>Critical Damage Increases{镇岳1多效果1%}</color>.",เมื่อการโจมตีทำให้เกิดคริติคอล <#29F161>ความเสียหายคริติคอลจะเพิ่มขึ้น{镇岳1多效果1%}</color>
+BuffPropPair_镇岳2,"When Attack triggers enemy's Parry, it reduces the enemy's <#FE2929>{镇岳2多效果1} points of Energy</color>.",เมื่อการโจมตีทำให้ศัตรูเกิดปัดป้อง <#FE2929>ลดค่าปราณเคลื่อนที่ของศัตรูลง {镇岳2多效果1} แต้ม</color> 
+ForgeEffect_冷月刀1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_冷月刀2,<#EFD09F>Blunt</color>,<#EFD09F>คม</color>
+BuffPropPair_冷月刀1,Causes <#FE2929>{冷月刀1多效果1} points of Bleeding</color> to the enemy when attacking.,เมื่อโจมตี สร้างสถานะ <#FE2929>เลือดไหล {冷月刀1多效果1} แต้ม</color> แก่ศัตรู
+BuffPropPair_冷月刀2,Has a <#29F161>{冷月刀2多效果1%}</color> chance to Pierce the enemy's A when attacking.,เมื่อโจมตี มีโอกาส <#29F161>{冷月刀2多效果1%}</color> ที่จะเจาะทะลุเกราะของศัตรู
+ForgeEffect_家传木剑1,<#EFD09F>Meridian Break</color>,<#EFD09F>เส้นลมปราณติดขัด</color>
+ForgeEffect_武器磐龙剑1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
+ForgeEffect_墨鸢1,<#EFD09F>Berserk</color>,<#EFD09F>บ้าคลั่ง</color>
+ForgeEffect_墨鸢2,Machinery,กลไก
+BuffPropPair_家传木剑1,"When attacking, it causes {家传木剑1多效果1} points of Sealed to the enemy.",เมื่อโจมตี สร้างสถานะ สกัดจุด {家传木剑1多效果1} แต้ม แก่ศัตรู
+BuffPropPair_武器磐龙剑1,"When attacking, the final Increases Damage {武器磐龙剑1多效果1%}.",เมื่อโจมตี ความเสียหายสุดท้ายเพิ่มขึ้น {武器磐龙剑1多效果1%}
+BuffPropPair_墨鸢1,"When a Critical is triggered during an attack, Critical Increases Damage {墨鸢1多效果1%}.",เมื่อโจมตี หากเกิดคริติคอล ความเสียหายคริติคอลจะเพิ่มขึ้น {墨鸢1多效果1%}
+BuffPropPair_墨鸢2,"For every level increase in Machinery Level, the final Increases Damage {墨鸢2多效果1%} when attacking.",ทุกระดับของทักษะกลไกที่สูงขึ้น เมื่อโจมตีความเสียหายสุดท้ายจะเพิ่มขึ้น {墨鸢2多效果1%}
