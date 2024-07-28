@@ -1131,77 +1131,77 @@ R10049-3-2_3_2,"I also had a great first impression with General, I wonder if Ge
 R10049-3-2_3_3,But... I still need to guard this tower...,แต่...ข้ายังต้องคอยเฝ้าหอนี่อยู่...
 R10049-3-2_3_4,"Anyway, this tower is locked, no one can get in, it doesn't make much sense whether it's guarded or not.",เอาน่า ยังไงหอคอยนี่ก็ถูกปิดตายอยู่แล้ว ไม่มีใครเข้ามาได้หรอก มันแปลก ๆ ตั้งแต่สั่งให้มีคนเฝ้าแล้ว
 R10049-3-2_3_5,"Makes sense, I'll go have a drink with you!",น้องชายกล่าวได้ถูกต้อง ไป! ข้าจะไปดื่มกับท่าน!
-R10049-3-2_3_6,"As the saying goes, a thousand cups of wine is not enough when meeting an intimate friend, today I really regret not meeting you sooner, come on, let's drink until we're drunk!"
-R10049-3-2_3_7,"Okay, drink until we're drunk."
-R10049-3-2_3_8,"Cups and dishes are mixed, pushing cups and changing drinks.\nThree quarters of an hour later, the tower guarding general finally succumbed to the alcohol."
-R10049-3-2_3_9,Finally got him drunk...
-R10049-3-2_3_10,"{PlayerSurName} sir, have you had enough to eat and drink?"
-R10049-3-2_3_11,"Miss Liu, when did you get here?!"
-R10049-3-2_3_12,"I've been here half a day, the last three cups of wine were poured by me for you, don't you remember?"
-R10049-3-2_3_13,"(Damn, I was so focused on getting him drunk, I didn't notice at all...)"
-R10049-3-2_3_14,"Haha, I was wondering why the last few cups were so sweet..."
-R10049-3-2_3_15,"Miss Liu, how's the lock?"
-R10049-3-2_3_16,"It's done, let's hurry over."
+R10049-3-2_3_6,"As the saying goes, a thousand cups of wine is not enough when meeting an intimate friend, today I really regret not meeting you sooner, come on, let's drink until we're drunk!",ถ้าหากจะให้กล่าว สุราพันจอกคงจะไม่เพียงพอสำหรับการพบสหายรู้ใจ วันนี้ ข้ารู้สึกเสียใจจริง ๆ ที่ไม่ได้พบเจอน้องชายไวกว่านี้ มา! ดื่ม! ไม่เมาไม่เลิกรา!
+R10049-3-2_3_7,"Okay, drink until we're drunk.",จัดไป ไม่เมาไม่เลิกรา
+R10049-3-2_3_8,"Cups and dishes are mixed, pushing cups and changing drinks.\nThree quarters of an hour later, the tower guarding general finally succumbed to the alcohol.","ทั้งสองต่างดื่มสุราจอกแล้วจอกเล่า ชนจอกกันไปมาสับสนอลหม่าน\n3 เค่อต่อมา แม่ทัพผู้คุ้มกันหอคอยจำต้องสิ้นสติให้กับฤทธิ์สุรา"
+R10049-3-2_3_9,Finally got him drunk...,ในที่สุดก็เมาสักที...
+R10049-3-2_3_10,"{PlayerSurName} sir, have you had enough to eat and drink?",ท่าน {PlayerSurName} ท่านกินดื่มพอแล้วหรือไม่?
+R10049-3-2_3_11,"Miss Liu, when did you get here?!",แม่นางหลิว ท่านมาที่นี่ตั้งแต่เมื่อไร?!
+R10049-3-2_3_12,"I've been here half a day, the last three cups of wine were poured by me for you, don't you remember?",ข้ามารอที่นี่ได้ครึ่งวันแล้ว สุรา 3 จอกสุดท้ายข้าเป็นคนรินให้ท่านเอง ท่านจำไม่ได้หรือ?
+R10049-3-2_3_13,"(Damn, I was so focused on getting him drunk, I didn't notice at all...)",(เวรละ ข้ามัวแต่วุ่นอยู่กับว่าจะทำให้เค้าเมายังไง ไม่ทันได้สังเกตุนางเลยจริง ๆ...)
+R10049-3-2_3_14,"Haha, I was wondering why the last few cups were so sweet...",ฮ่า ๆ ถึงว่าทำไมสุราจอกท้าย ๆ ถึงหวานนัก...
+R10049-3-2_3_15,"Miss Liu, how's the lock?",แม่นางหลิว แล้วเรื่องกุญแจเป็นอย่างไรบ้าง?
+R10049-3-2_3_16,"It's done, let's hurry over.",ข้าพร้อมแล้ว รีบไปกันเถอะ
 R10049-3-2_3_17,Okay.,ได้ 
-R10049-3-2_4_1,"Now that no one is guarding, it's a lot easier, sir, keep an eye out for me, I'll try to unlock the door."
+R10049-3-2_4_1,"Now that no one is guarding, it's a lot easier, sir, keep an eye out for me, I'll try to unlock the door.",ณ เวลานี้ไม่มีผู้ใดเฝ้าหอคอยอีกแล้ว มันง่ายขึ้นเยอะ ท่านช่วยดูต้นทางให้ข้าด้วย ข้าจะสะเดาะกุญแจเดี๋ยวนี้
 R10049-3-2_4_2,Okay.,ได้ 
-R10049-3-2_4_3,Three quarters of an hour later...
-R10049-3-2_4_4,"Okay, it's done, a lock of this level can't stop me."
-R10049-3-2_4_5,"Miss Liu is really amazing, I didn't expect you to be able to pick locks."
-R10049-3-2_4_6,"Sir, you're too kind, it's just a little trick."
-R10049-3-2_4_7,"Okay, now that the door is unlocked, let's go upstairs without delay."
-R10049-3-2_4_8,"After you, Miss Liu."
-R10049-3-2_5_1,This is the treasure of the Enlightment Tower...
+R10049-3-2_4_3,Three quarters of an hour later...,3 เค่อต่อมา...
+R10049-3-2_4_4,"Okay, it's done, a lock of this level can't stop me.",เอาละ เรียบร้อย แม่กุญแจระดับแค่นี้หยุดข้าไม่ได้หรอก
+R10049-3-2_4_5,"Miss Liu is really amazing, I didn't expect you to be able to pick locks.",แม่นางหลิว ท่านช่างน่าทึ่งนัก ข้าไม่คิดว่าท่านจะรู้จักการสะเดาะกุญแจด้วย
+R10049-3-2_4_6,"Sir, you're too kind, it's just a little trick.",นายน้อย ท่านกล่าวชมเกินไป นี่เป็นเพียงการละเล่นเล็กน้อยเท่านั้น
+R10049-3-2_4_7,"Okay, now that the door is unlocked, let's go upstairs without delay.",เอาละ ตอนนี้ทางสะดวกแล้ว อย่ารอช้า ขึ้นไปด้านบนกันเถอะ
+R10049-3-2_4_8,"After you, Miss Liu.",เชิญท่านก่อนแม่นางหลิว
+R10049-3-2_5_1,This is the treasure of the Enlightment Tower...,นี่คือสมบัติของหอรู้แจ้ง...
 R10049-3-2_5_2,"Miss Liu, this box is also locked.",แม่นางหลิว กล่องนี้ก็ถูกล็อคเช่นกัน
-R10049-3-2_5_3,"Sir, please step aside a bit, let me take a look."
-R10049-3-2_5_4,"Not only is it locked, there seems to be machinery in the lock hole, if we open it rashly, it might explode..."
+R10049-3-2_5_3,"Sir, please step aside a bit, let me take a look.",ท่าน โปรดถอยออกมาสักเล็กน้อย เดี๋ยวข้าดูให้
+R10049-3-2_5_4,"Not only is it locked, there seems to be machinery in the lock hole, if we open it rashly, it might explode...",ไม่เพียงแต่มันจะถูกล็อค แต่ยังมีกลไกบางอย่างอื่นอีกในรูกุญแจ หากเราเปิดอย่างไม่ระวัง มันอาจระเบิดได้...
 R10049-3-2_5_5,Explode?!,ระเบิด?!
-R10049-3-2_5_2_1,"Hmph, this is a treasure that concerns the fate of the country, you didn't really think we would just hand it over, did you?"
-R10049-3-2_5_3_1,"That damn Eunuch is really cunning, I knew it wouldn't be that simple!"
-R10049-3-2_5_4_1,"Hmph, all the eunuchs are cunning villains!"
-R10049-3-2_5_5_1,"Thinking about it, this is indeed something Tong Daofu could do."
+R10049-3-2_5_2_1,"Hmph, this is a treasure that concerns the fate of the country, you didn't really think we would just hand it over, did you?",หืมม นี่คือสมบัติที่สามารถชี้ชะตาของประเทศได้ ท่านคงไม่คิดว่าพวกเค้าจะยกให้เราง่าย ๆ หรอกจริงมั้ย?
+R10049-3-2_5_3_1,"That damn Eunuch is really cunning, I knew it wouldn't be that simple!",ไอ้ขันทีนั้นมันเจ้าเล่ห์จริง ๆ ข้ากะแล้วว่ามันจะต้องไม่ง่ายแบบนี้แน่!
+R10049-3-2_5_4_1,"Hmph, all the eunuchs are cunning villains!",ฮึ่ม เหล่าขันทีล้วนแล้วแต่เป็นปีศาจเจ้าเล่ห์!
+R10049-3-2_5_5_1,"Thinking about it, this is indeed something Tong Daofu could do.",พอมาคิด ๆ ดูแล้ว นี่อาจเป็นสิ่งที่ถงเต๋าฟู่จัดการให้เราได้
 R10049-3-2_6_1_1,"Miss Liu, do you have any ideas?","แม่นางหลิว, เจ้ามีความคิดว่าอย่างไร?"
-R10049-3-2_6_1_2,"No, although I can pick this lock, I'm untrained in dealing with this machinery..."
-R10049-3-2_6_2_1,"Miss Liu, I have some knowledge of machinery, can I be of any help?"
-R10049-3-2_6_2_2,"No... The machinery is triggered in the lock hole, the space is too small, I can't pick the lock and let you disarm the machinery at the same time."
-R10049-3-2_6_3_1,"It's a pity I don't know anything about machinery, otherwise I might be able to disarm this trap."
-R10049-3-2_6_3_2,"No, the machinery is triggered in the lock hole, even if you are proficient in machinery, there is not enough space to pick the lock and disarm the machinery at the same time."
-R10049-3-2_7_1,"The long-desired seal is right in front of us, are we really helpless?"
-R10049-3-2_7_2,"Wait a moment, this Machinery seems a bit loose, I should be able to open a gap without triggering this Machinery."
-R10049-3-2_7_3,"Miss Liu, can you really do this?",แม่นางหลิว เจ้าทำได้จริงๆ เหรอ?
-R10049-3-2_7_4,Do you have any better ideas at this point?
-R10049-3-2_7_5,"Indeed, I don't.","แน่นอน,ข้าไม่ได้"
-R10049-3-2_7_6,Then let me try. The worst outcome is that I'll be blown away with you...
-R10049-3-2_7_7,"Blown, blown away?!",ปลิว ปลิวไป?!
+R10049-3-2_6_1_2,"No, although I can pick this lock, I'm untrained in dealing with this machinery...",ข้าไม่คิดเช่นนั้น แม้ว่าข้าจะสามารถปลดแม่กุญแจนี่ได้ แต่ข้าก็ไม่สามารถจัดการกลไกนี่ได้อยู่ดี...
+R10049-3-2_6_2_1,"Miss Liu, I have some knowledge of machinery, can I be of any help?",แม่นางหลิว ข้ามีความรู้ด้านกลไกอยู่บ้าง ให้ข้าช่วยดูให้มั้ย?
+R10049-3-2_6_2_2,"No... The machinery is triggered in the lock hole, the space is too small, I can't pick the lock and let you disarm the machinery at the same time.",ไม่น่าเป็นไปได้...กลไกลถูกติดตั้งอยู่ในช่องรูกุญแจ ช่องว่างเล็กเกินไป ข้าไม่สามารถสะเดาะล็อคไปพร้อม ๆ กับให้ท่านปลดกลไกในเวลาเดียวกันได้
+R10049-3-2_6_3_1,"It's a pity I don't know anything about machinery, otherwise I might be able to disarm this trap.",น่าเสียดายที่ข้าไม่มีความรู้เรื่องกลไก ไม่อย่างนั้นข้าคงช่วยปลดกับดักนี่ได้
+R10049-3-2_6_3_2,"No, the machinery is triggered in the lock hole, even if you are proficient in machinery, there is not enough space to pick the lock and disarm the machinery at the same time.",ไม่น่าเป็นไปได้...กลไกลถูกติดตั้งอยู่ในช่องรูกุญแจ ต่อให้ท่านเชี่ยวชาญด้านกลไก แต่มันก็ไม่มีช่องว่างมากพอให้เราสามารถสะเดาะล็อคไปพร้อม ๆ กับปลดกลไกได้ในเวลาเดียวกัน
+R10049-3-2_7_1,"The long-desired seal is right in front of us, are we really helpless?",ตราประทับที่ตามหามาเนิ่นนานอยู่ตรงหน้าเราแท้ ๆ แต่พวกเราไม่สามารถทำอย่างไรได้จริง ๆ หรือ?
+R10049-3-2_7_2,"Wait a moment, this Machinery seems a bit loose, I should be able to open a gap without triggering this Machinery.",เดี๋ยวก่อนนะ กลไกนี้มีข้อบกพร่องอยู่ ข้าอาจจะเปิดกล่องได้โดยที่ไม่ทำให้กลไกนี่ทำงาน
+R10049-3-2_7_3,"Miss Liu, can you really do this?",แม่นางหลิว ท่านทำได้จริง ๆ หรือ?
+R10049-3-2_7_4,Do you have any better ideas at this point?,ท่านมีวิธีที่ดีกว่านี้มั้ยละ?
+R10049-3-2_7_5,"Indeed, I don't.",แน่นอน ว่าไม่มี
+R10049-3-2_7_6,Then let me try. The worst outcome is that I'll be blown away with you...,งั้นให้ข้าลองดู ที่แย่ที่สุดก็แค่เราโดนระเบิดกระจุยไปพร้อม ๆ กัน
+R10049-3-2_7_7,"Blown, blown away?!",กระ..กระจุย?!
 R10049-3-2_7_8,It's not impossible...,ไม่ใช่ว่าจะเป็นไปไม่ได้...
-R10049-3-2_7_9,"How is it, Miss Liu, can you do it?"
-R10049-3-2_7_10,"Sir, don't talk, it will distract me."
-R10049-3-2_7_11,Okay.,ได้
+R10049-3-2_7_9,"How is it, Miss Liu, can you do it?",เป็นไงบ้าง แม่นางหลิว สำเร็จมั้ย?
+R10049-3-2_7_10,"Sir, don't talk, it will distract me.",ท่าน หยุดพูดก่อน มันรบกวนสมาธิข้า
+R10049-3-2_7_11,Okay.,ได้ ๆ
 R10049-3-2_7_12,Phew... Mission accomplished!,ฟู่วว... ภารกิจสำเร็จ!
 R10049-3-2_7_13,Really?!,จริงหรือ?!
-R10049-3-2_7_14,"Of course it's true, look~\nBut I can only open a little bit, only this seal can be taken out, the other things in this box can't be taken out."
-R10049-3-2_7_15,"That's already very impressive!\nI thought I would never get this seal when the Enlightment Tower closed!"
+R10049-3-2_7_14,"Of course it's true, look~\nBut I can only open a little bit, only this seal can be taken out, the other things in this box can't be taken out.","แน่นอน ดูสิ~\nแต่ข้าสามารถเปิดแง้มกล่องได้เพียงให้สามารถนำตราออกมาได้เท่านั้น สิ่งของอย่างอื่นไม่สามารถนำออกมาได้"
+R10049-3-2_7_15,"That's already very impressive!\nI thought I would never get this seal when the Enlightment Tower closed!","แค่นี้ก็สุดยอดแล้ว\nข้าคิดว่าเราจะไม่มีโอกาสได้ตราประทับอีกตั้งแต่ทราบว่าหอรู้แจ้งปิดทำการแล้ว!"
 R10049-3-2_7_16,Um... Sir.,อืม...นายท่าน
 R10049-3-2_7_17,"Miss Liu, is there anything else?","แม่นางหลิว, มีอะไรอีกไหม?"
-R10049-3-2_7_18,"I've been squatting for too long, I can't stand up, can you help me up, sir?"
-R10049-3-2_7_19,My pleasure~
+R10049-3-2_7_18,"I've been squatting for too long, I can't stand up, can you help me up, sir?",ข้านั่งยอง ๆ นานเกินไปจนเหน็บกิน ข้ายืนไม่ไหว ท่านโปรดช่วยข้าได้มั้ย?
+R10049-3-2_7_19,My pleasure~,ด้วยความยินดี~
 R10049-3-2_7_20,"Thank you, sir, it's not suitable to stay here for long, let's go back.","ขอบคุณ,นายท่าน, มันคงจะไม่เหมาะที่จะอยู่ที่นี่เป็นเวลานาน, กลับกันเถอะ"
 R10049-3-2_7_21,"Miss Liu, why don't you rest for a while?","แม่นางหลิว,ทำไมท่านไม่พักสักครู่ล่ะ?"
-R10049-3-2_7_22,"After all, we sneaked into the Enlightment Tower, it would be bad if we were found, we should go back as soon as possible."
-R10049-3-2_7_23,"Makes sense, let's go then.","ความคิดเข้าท่า, ไปกันเลย"
-R10049-3-2_8_1_1,"I didn't expect that there are really people who dare to covet the treasures in the Enlightment Tower.\nYou two kids, really bold!"
-R10049-3-2_8_1_2,People from the Imperial City Office?! How come you are here?!
-R10049-3-2_8_1_3,"If it weren't for the little thief who entered this Enlightment Tower, I wouldn't want to make this trip.\nIf you two little thieves are sensible, hand over the stolen things, it will save me trouble."
-R10049-3-2_8_1_4,"No way, I won't give you the things!"
-R10049-3-2_8_1_5,"If Miss Liu doesn't hand them over, I certainly won't either!"
-R10049-3-2_8_1_6,"You really don't want to live, since you don't listen, go to hell!"
-R10049-3-2_8_2_1,"Imperial City Office, I won't let you go——"
-R10049-3-2_8_2_2,"It seems that our entry into the Enlightment Tower has been discovered, sir, we'd better run away from here quickly."
+R10049-3-2_7_22,"After all, we sneaked into the Enlightment Tower, it would be bad if we were found, we should go back as soon as possible.",ยังไงพวกเราก็แอบเข้าไปในหอรู้แจ้ง คงจะแย่มาก ๆ หากเราถูกจับได้ เราควรรีบกลับให้เร็วที่สุดเท่าที่จะเป็นไปได้
+R10049-3-2_7_23,"Makes sense, let's go then.",ท่านกล่าวถูก งั้นรีบไปกันเถอะ
+R10049-3-2_8_1_1,"I didn't expect that there are really people who dare to covet the treasures in the Enlightment Tower.\nYou two kids, really bold!","ข้าไม่คิดว่าจะเจอคนโลภที่กล้ามาขโมยสมบัติในหอรู้แจ้ง\nเจ้าเด็กน้อยทั้งสอง ช่างกล้านัก!"
+R10049-3-2_8_1_2,People from the Imperial City Office?! How come you are here?!,เจ้าหน้าที่จากศาลาว่าการ?! มาอยู่ที่นี่ได้อย่างไร?!
+R10049-3-2_8_1_3,"If it weren't for the little thief who entered this Enlightment Tower, I wouldn't want to make this trip.\nIf you two little thieves are sensible, hand over the stolen things, it will save me trouble.","ถ้าไม่ใช่เพราะโจรน้อยทั้ง 2 แอบเข้าหอรู้แจ้ง พวกเราคงไม่ต้องมาที่นี่\nหากพวกเจ้าฉลาดเฉียว ส่งของที่ขโมยคืนมา จะช่วยเราได้มากเลยทีเดียว"
+R10049-3-2_8_1_4,"No way, I won't give you the things!",ไม่มีทาง ข้าไม่ส่งให้เจ้าหรอก!
+R10049-3-2_8_1_5,"If Miss Liu doesn't hand them over, I certainly won't either!",หากแม่นางหลิวไม่ส่งมันคืน ข้าก็จะไม่เช่นกัน!
+R10049-3-2_8_1_6,"You really don't want to live, since you don't listen, go to hell!",พวกเจ้าคงจะไม่รักชีวิตแล้วสินะ ในเมื่อพวกเจ้าดื้อรั้น ก็ไปลงนรกเสีย!
+R10049-3-2_8_2_1,"Imperial City Office, I won't let you go——",เจ้าหน้าที่! ข้าจะปล่อยพวกเจ้าไปแน่นอน——
+R10049-3-2_8_2_2,"It seems that our entry into the Enlightment Tower has been discovered, sir, we'd better run away from here quickly.",ดูเหมือนว่าการแอบเข้าหอรู้แจ้งขอเราจะถูกค้นพบ ท่าน พวกเราควรจะหนีออกจากที่นี่ให้เร็วที่สุด
 R10049-3-2_8_2_3,I agree.,ข้าเห็นด้วย
 R10049-3-2_8_2_4,You and Liu Yueying ride non-stop along the waterway back to the Ferry in the Nameless Region,ท่านและหลิวเยว่อิงเดินทางโดยเรือกลับไปยังท่าเรือในแคว้นไร้นามอย่างไม่หยุดหย่อน
 R10049-3-2_8_2_5,"It seems that our luck is not bad, there were no pursuers after that.",ดูท่าว่าโชคจะยังเข้าข้างเราอยู่ ไม่มีผู้ใดตามหลังเรามาแล้ว
 R10049-3-2_8_2_6,"Finally, I can breathe a sigh of relief...",ในที่สุด ข้าก็ได้พักหายใจเสียที...
-R10049-3-2_8_2_7,"So, sir, I'll go back to the Tea Stall first and wait for you."
+R10049-3-2_8_2_7,"So, sir, I'll go back to the Tea Stall first and wait for you.",งั้นนายท่าน ข้าจะไปรอท่านที่แผงน้ำชาก่อน
 R10049-3-2_8_2_8,"Okay, I'll go to the Tea Stall to find you.",ได้ เดี๋ยวข้าจะไปหาท่านที่แผงน้ำชา
 R10049-3-2_9_1,"I didn't expect that no one would ambush us here, it's surprisingly smooth.",ข้าคาดไม่ถึงเลยว่าจะมิมีผู้ใดซุ่มรอเราอยู่ที่นี่ ช่างราบรื่นเสียจริง
 R10049-3-2_9_2,Isn't it a good thing that there are no complications?,ลมสงบไม่มีคลื่น ไม่ใช่เรื่องดีหรือไง?
@@ -6268,7 +6268,7 @@ DNJH-9_0_5_2,"Suspect Chai Wang, why don't you kneel?",ผู้ต้องส�
 DNJH-9_0_5_3,"I, Chai, am innocent, why should I kneel?",ข้า ไฉผู้นี้ ไม่ได้ทำอะไรผิดทั้งสิ้น เหตุใดจึงต้องคุกเข่า?
 DNJH-9_0_5_4,I found a ledger in the South-East Barbarian Camp that records your financial and military dealings. What do you have to say?,ข้าพบบัญชีบันทึกการติดต่อเรื่องเงินทองและอาวุธของเจ้ากับค่ายคนเถื่อน เจ้าจะอธิบายเช่นไร?
 DNJH-9_0_5_5,Ledger? What's written on it?,บัญชี? บนนั้นเขียนว่าอย่างไร?
-DNJH-9_0_5_6,"""On the fifth day, received 3 jars of wine from Duke Chai's Tower, three thousand taels of silver... On the fifteenth day, Blade Destruction Army arrived...""","""วันที่ห้า รับสุราจากตำหนักอ๋องไฉทั้งสิ้น 3 ไห และเงินอีก 3,000 ตำลึง... วันที่สิบห้า กองทัพชุยเฟิงมาถึง..."""
+DNJH-9_0_5_6,"""On the fifth day, received 3 jars of wine from Duke Chai's Tower, three thousand taels of silver... On the fifteenth day, Blade Destruction Army arrived...""","""วันที่ห้า รับสุราจากตำหนักอ๋องไฉทั้งสิ้น 3 ไห และเงินอีก 3,000 ตำลึง... วันที่สิบห้า กองทัพดาพพิฆาตมาถึง..."""
 DNJH-9_0_5_7,Is my seal stamped on it?,บนนั้นมีตราประทับของข้าหรือไม่?
 DNJH-9_0_5_8,This...,มี...
 DNJH-9_0_5_9,"Anyone can write such a ledger with a wave of their hand.\nWould you believe me if I wrote a Ledger now about General Han accepting my bribe?","บัญชีเช่นนี้ เพียงลงมือเขียนใครก็ทำได้\nท่านเชื่อหรือไม่ว่าข้าสามารถเขียนบัญชีว่าแม่ทัพใหญ่ หาน รับสินบนจากข้าได้ตอนนี้?"
@@ -6283,122 +6283,122 @@ DNJH-9_0_6_8,"Someone, take Chai Wang to rest.",เจ้าหน้าที �
 DNJH-9_0_6_9,Yes!,ขอรับ!
 DNJH-9_0_6_10,Bring the prisoner Ji Baichu!,เบิกตัวจี้ไป๋ฉู่!
 DNJH-9_0_6_11,"Ji Baichu, you abused your power, tortured the members of the Mechanic Room, do you plead guilty?",จี้ไป๋ฉู่ เจ้าใช้วิธีทรมานผิดกฎหมาย ทำร้ายคนในห้องกลไก เจ้ายอมรับผิดหรือไม่?
-DNJH-9_0_6_12,I plead guilty.,ข้ายอมรับขอรับใต้เท้า
+DNJH-9_0_6_12,I plead guilty.,ข้าน้อยยอมรับขอรับใต้เท้า
 DNJH-9_0_6_13,"You spread rumors in the city, incited the public to cause trouble at the government office, and disturbed public order, do you plead guilty?",เจ้าแพร่ข่าวลือในเมือง ใช้วาจายั่วยุให้ผู้คนมาก่อเรื่องที่ศาลว่าการ สร้างความวุ่นวาย เจ้ายอมรับผิดหรือไม่?
-DNJH-9_0_6_14,I plead guilty!,ข้ายอมรับขอรับใต้เท้า!
+DNJH-9_0_6_14,I plead guilty!,ข้าน้อยยอมรับขอรับใต้เท้า!
 DNJH-9_0_6_15,"You escaped with other accomplices and resisted arrest, do you plead guilty?",ร่วมมือกับพรรคพวกหลบหนี ต่อต้านการจับกุม เจ้ายอมรับผิดหรือไม่?
 DNJH-9_0_6_16,I had no choice but to...,ข้าจำเป็นต้องทำเช่นนี้ขอรับใต้เท้า...
 DNJH-9_0_6_17,Do you plead guilty?,เจ้ายอมรับผิดหรือไม่?
-DNJH-9_0_6_18,...I plead guilty.,...ข้ายอมรับขอรับใต้เท้า
-DNJH-9_0_6_19,"Good, according to the law, you should be sentenced to death by dismemberment and your nine clans should be implicated. But I will give you a chance to redeem your crimes, are you willing?"
-DNJH-9_0_6_20,"(Although the crimes committed by Ji Baichu are not light, the punishment of dismemberment and implicating nine clans is a bit too much. General Han probably wants to scare him into confessing against Chai Wang.)"
-DNJH-9_0_6_21,I'm willing! I'm willing to do anything!
-DNJH-9_0_6_22,"Good, tell me about the dealings between Chai Wang, South-East Barbarian, and Pirate."
-DNJH-9_0_6_23,This...
-DNJH-9_0_6_24,"If you don't speak, I will sentence you to 50 lashes first—"
+DNJH-9_0_6_18,...I plead guilty.,...ข้าน้อยยอมรับขอรับใต้เท้า
+DNJH-9_0_6_19,"Good, according to the law, you should be sentenced to death by dismemberment and your nine clans should be implicated. But I will give you a chance to redeem your crimes, are you willing?",ดีแล้ว ตามกฎหมายแล้ว เจ้าต้องรับโทษสามกระทง สมควรถูกลงทัณฑ์ด้วยวิธีตัดหัวเก้าชั่วโคตร แต่ข้าจะให้โอกาสเจ้าได้ลบล้างความผิด เจ้ายินดีหรือไม่?
+DNJH-9_0_6_20,"(Although the crimes committed by Ji Baichu are not light, the punishment of dismemberment and implicating nine clans is a bit too much. General Han probably wants to scare him into confessing against Chai Wang.)",(แม้ความผิดของจี้ไป๋ฉูจะไม่เบา แต่การลงโทษด้วยวิธีตัดหัวเก้าชั่วโคตรนั้นก็เกินไปสักหน่อย แม่ทัพ หาน คงต้องการขู่ให้เขาตกใจ เพื่อให้สารภาพเรื่องของอ๋องไฉกระมัง)
+DNJH-9_0_6_21,I'm willing! I'm willing to do anything!,ข้าน้อยยินดี! ข้าน้อยยินดีทุกอย่างขอรับใต้เท้า!
+DNJH-9_0_6_22,"Good, tell me about the dealings between Chai Wang, South-East Barbarian, and Pirate.",ดี เช่นนั้นเจ้าจงเล่าเรื่องอ๋องไฉกับพวกคนเถื่อนและโจรสลัดให้ข้าฟังหน่อยสิ
+DNJH-9_0_6_23,This...,เรื่องนี้ เอ่อ...
+DNJH-9_0_6_24,"If you don't speak, I will sentence you to 50 lashes first—",หากเจ้าไม่พูด ข้าจะสั่งให้โบยเจ้า 50 ไม้ก่อน—
 DNJH-9_0_6_25,"I'll speak, I'll speak!",ข้าพูด ข้าพูดแล้ว!
-DNJH-9_0_6_26,"Chai Wang... actually has been secretly making connections with the martial arts heroes, and also has contacts with South-East Barbarian and pirates."
-DNJH-9_0_6_27,"When the Central Plains was in chaos, the emperor went hunting in the north, Duke Kang and Duke Qi were fighting for power, Chai Wang felt the time was right. He first bribed the soldiers of Heavy Rock Reef, took the prisoners there for his own use, and then assigned them as leaders of South-East Barbarian and Pirate to create rebellion..."
-DNJH-9_0_6_28,"General Han, you are wise and martial, you defeated these ungrateful rebels and arrested Chai Wang. The things that happened afterwards were all arranged by Chai Wang for me to do..."
-DNJH-9_0_6_29,"(This Ji Baichu is really a coward, he confessed everything after a little scare...)"
-DNJH-9_0_6_30,"Good, do you dare to testify and argue with Chai Wang in court?"
-DNJH-9_0_6_31,"General Han, if I can accuse Chai Wang, my crime..."
-DNJH-9_0_6_32,"If so, I will spare you from death."
-DNJH-9_0_6_33,"Good, good, Chai Wang has committed many crimes in the village, I know all about them, I am willing to accuse Chai Wang and argue with him in court!"
-DNJH-9_0_6_34,"Good, bring Chai Wang!"
-DNJH-9_0_6_35,"Chai, I just rested, what's the matter again?"
-DNJH-9_0_6_36,"Chai! You bribed criminals, colluded with South-East Barbarian and Pirate to cause chaos, General Han knows everything!"
-DNJH-9_0_6_37,Oh?
-DNJH-9_0_6_38,"Not to mention you oppressed the people, I know it all!"
-DNJH-9_0_6_39,Oh.
-DNJH-9_0_6_40,"No noise is allowed in the court, kneel down now!"
-DNJH-9_0_6_41,"I'm talking to you Chai, kneel down!"
-DNJH-9_0_6_42,I'm talking to both of you! Kneel down for me!
-DNJH-9_0_6_43,"Chai Wang, why don't you kneel?"
-DNJH-9_0_6_44,"I, Chai, am innocent, why should I kneel?"
-DNJH-9_0_6_45,You Chai—
-DNJH-9_0_6_46,"Your servant Ji Baichu accused you of these crimes, don't you admit it?"
-DNJH-9_0_6_47,"It's just a false accusation, Chai has always obeyed the law, what crime is there?\nIf General Han convicts Chai based on one-sided words, wouldn't it be a joke if this matter gets out?"
-DNJH-9_0_6_48,This...
-DNJH-9_0_6_49,"Of course, General Han, you can also order the Bailiff to reward Chai with dozens of lashes, maybe Chai will confess under torture."
-DNJH-9_0_6_50,"Oh no, Chai has a family heirloom of a pill book and iron ticket, if you reward Chai with lashes, you are slapping the face of the great ancestor emperor."
-DNJH-9_0_6_51,"(It seems that General Han has been driven to a dead end, is there any other evidence here?)"
-DNJH-9_option1_1,There is evidence!
-DNJH-9_option1_2,There is no evidence left.
-DNJH-9_0_7_1,I have evidence!
-DNJH-9_0_7_2,What? What evidence do you have? Are you just making things up?
-DNJH-9_0_7_3,"Of course I have evidence, and that evidence is——"
-DNJH-9_option2_1,The silver found in South-East Barbarian Camp!
-DNJH-9_option2_2,The Sea Goddess told me!,ข้าแต่ท่านเทพธิดาเจ้าสมุทร จงบอกข้าเถิด!
-DNJH-9_option2_3,Guests at King Chai's banquet!
-DNJH-9_option2_4,The play performed by the troupe!
-DNJH-9_0_8_1,"Those guests are all famous figures in the martial arts world, how could they become evidence for your accusation against this king?"
-DNJH-9_0_8_2,"If you are not guilty, why would you associate with Vagabond?!"
-DNJH-9_0_8_3,"By your logic, I'm afraid Lord Xue of the Warring States period also committed a crime."
-DNJH-9_0_8_4,(It seems that the evidence is not this...)
-DNJH-9_0_9_1,"The play performed by that troupe is nonsense, how could it be considered evidence?"
-DNJH-9_0_9_2,"It seems so, it really doesn't count as evidence..."
-DNJH-9_0_9_3,I hope {PlayerName} doesn't talk nonsense.
-DNJH-9_0_10_1,"This is a court, I didn't expect General Han to actually accept the words of gods and buddhas, it really opened my eyes."
-DNJH-9_0_10_2,This... I didn't...
+DNJH-9_0_6_26,"Chai Wang... actually has been secretly making connections with the martial arts heroes, and also has contacts with South-East Barbarian and pirates.",อ๋องไฉ... จริงๆ แล้วได้แอบติดต่อกับเหล่ายอดฝีมือในยุทธภพมานานแล้ว อีกทั้งยังมีการติดต่อกับพวกคนเถื่อนและโจรสลัดด้วย
+DNJH-9_0_6_27,"When the Central Plains was in chaos, the emperor went hunting in the north, Duke Kang and Duke Qi were fighting for power, Chai Wang felt the time was right. He first bribed the soldiers of Heavy Rock Reef, took the prisoners there for his own use, and then assigned them as leaders of South-East Barbarian and Pirate to create rebellion...",เมื่อจงหยวนเกิดศึกสงคราม ฮ่องเต้เสด็จหนีไปทางเหนือ อ๋องคังและอ๋องฉีแย่งชิงอำนาจ อ๋องไฉก็เห็นว่าถึงเวลาแล้ว พระองค์ซื้อตัวทหารที่ชายหาดโขดหิน แล้วรับนักโทษมาเป็นกำลัง จากนั้นส่งพวกเขาไปเป็นหัวหน้าคนเถื่อนและโจรสลัดเพื่อก่อกบฏ...
+DNJH-9_0_6_28,"General Han, you are wise and martial, you defeated these ungrateful rebels and arrested Chai Wang. The things that happened afterwards were all arranged by Chai Wang for me to do...",แม่ทัพหาน ท่านช่างปราดเปรื่องและเก่งกาจ สามารถปราบกบฏที่ไม่รู้จักบุญคุณได้ จับอ๋องไฉขังคุก เรื่องหลังจากนั้นล้วนเป็นคำสั่งของอ๋องไฉให้ข้าน้อยทำทั้งสิ้น...
+DNJH-9_0_6_29,"(This Ji Baichu is really a coward, he confessed everything after a little scare...)",(จี้ไป๋ฉูผู้นี้ช่างขี้ขลาด แค่ขู่นิดหน่อยก็สารภาพหมดเปลือก...)
+DNJH-9_0_6_30,"Good, do you dare to testify and argue with Chai Wang in court?",ดี เจ้ากล้าเป็นพยานและเผชิญหน้ากับอ๋องไฉในศาลหรือไม่?
+DNJH-9_0_6_31,"General Han, if I can accuse Chai Wang, my crime...",แม่ทัพหาน ถ้าข้าน้อยสามารถกล่าวโทษอ๋องไฉได้ ความผิดของข้าน้อยก็...
+DNJH-9_0_6_32,"If so, I will spare you from death.",หากเป็นเช่นนั้น ข้าจะละเว้นโทษประหารให้เจ้า
+DNJH-9_0_6_33,"Good, good, Chai Wang has committed many crimes in the village, I know all about them, I am willing to accuse Chai Wang and argue with him in court!",ดี ดี อ๋องไฉนั้นทำตัวเป็นอันธพาลในท้องถิ่น มีความผิดมากมายที่ข้าน้อยรู้ ข้าน้อยยินดีกล่าวโทษอ๋องไฉและเผชิญหน้ากับเขาในศาล!
+DNJH-9_0_6_34,"Good, bring Chai Wang!",ดี นำตัวอ๋องไฉมา!
+DNJH-9_0_6_35,"Chai, I just rested, what's the matter again?",ข้าเพิ่งจะได้พักผ่อน มีอะไรอีกหรือ?
+DNJH-9_0_6_36,"Chai! You bribed criminals, colluded with South-East Barbarian and Pirate to cause chaos, General Han knows everything!",อ๋องไฉ! เจ้าซื้อตัวนักโทษ สมรู้ร่วมคิดกับพวกคนเถื่อนและโจรสลัดก่อกบฏ แม่ทัพหานรู้เรื่องนี้หมดแล้ว!
+DNJH-9_0_6_37,Oh?,ห๊ะ?
+DNJH-9_0_6_38,"Not to mention you oppressed the people, I know it all!",ยิ่งไปกว่านั้น เจ้ายังทำตัวเป็นอันธพาลในท้องถิ่น รังแกประชาชน ข้ารู้ทุกอย่างแจ่มแจ้ง!
+DNJH-9_0_6_39,Oh.,ห๊ะ
+DNJH-9_0_6_40,"No noise is allowed in the court, kneel down now!",ห้ามส่งเสียงดังในศาล คุกเข่าลงเดี๋ยวนี้!
+DNJH-9_0_6_41,"I'm talking to you Chai, kneel down!",ข้าพูดกับเจ้านะ อ๋องไฉ คุกเข่าลงเดี๋ยวนี้!
+DNJH-9_0_6_42,I'm talking to both of you! Kneel down for me!,บอกพวกเจ้าทั้งสองคนคุกเข่าต่อหน้าข้าเดี๋ยวนี้!
+DNJH-9_0_6_43,"Chai Wang, why don't you kneel?",อ๋องไฉ ทำไมท่านถึงยังไม่คุกเข่า?
+DNJH-9_0_6_44,"I, Chai, am innocent, why should I kneel?",ข้าบริสุทธิ์ ทำไมต้องคุกเข่า?
+DNJH-9_0_6_45,You Chai—,อ๋องไฉ—
+DNJH-9_0_6_46,"Your servant Ji Baichu accused you of these crimes, don't you admit it?",จี้ไป๋ฉูคนสนิทชี้แจงความผิดของเจ้า เจ้ายังไม่ยอมรับอีกหรือ?
+DNJH-9_0_6_47,"It's just a false accusation, Chai has always obeyed the law, what crime is there?\nIf General Han convicts Chai based on one-sided words, wouldn't it be a joke if this matter gets out?","ก็แค่คำกล่าวหาเท่านั้น ข้าเคารพกฎหมายมาตลอด จะมีความผิดอันใด?\nหากแม่ทัพหานเชื่อคำพูดคนเดียวแล้วตัดสินข้าผิด เรื่องนี้หากแพร่ออกไปจะไม่เป็นที่หัวเราะเยาะของคนทั้งหลายหรอกหรือ?"
+DNJH-9_0_6_48,This...,บังอาจ...
+DNJH-9_0_6_49,"Of course, General Han, you can also order the Bailiff to reward Chai with dozens of lashes, maybe Chai will confess under torture.",แน่นอน ท่านแม่ทัพหานอาจสั่งให้ลูกน้องโบยข้าสักหลายสิบไม้ บางทีข้าอาจทนความเจ็บปวดไม่ไหว แล้วยอมรับสารภาพก็ได้
+DNJH-9_0_6_50,"Oh no, Chai has a family heirloom of a pill book and iron ticket, if you reward Chai with lashes, you are slapping the face of the great ancestor emperor.",ไม่ใช่สิ อ๋องไฉมีตำรายาและป้ายเหล็กอักษรชาดที่สืบทอดมาจากบรรพบุรุษ หากท่านโบยข้า ก็เท่ากับตบหน้าฮ่องเต้องค์ปฐมด้วย
+DNJH-9_0_6_51,"(It seems that General Han has been driven to a dead end, is there any other evidence here?)",(ดูเหมือนแม่ทัพหานจะถูกบีบจนหมดทาง ที่นี่ยังมีหลักฐานอื่นอีกหรือไม่?)
+DNJH-9_option1_1,There is evidence!,หลักฐานอยู่นี่!
+DNJH-9_option1_2,There is no evidence left.,ไม่มีหลักฐาน
+DNJH-9_0_7_1,I have evidence!,ข้ามีหลักฐาน!
+DNJH-9_0_7_2,What? What evidence do you have? Are you just making things up?,อะไรนะ? เจ้ามีหลักฐานอะไร? อย่าบอกนะว่าเจ้าพูดไปเรื่อยเปื่อย?
+DNJH-9_0_7_3,"Of course I have evidence, and that evidence is——",ข้ามีหลักฐานแน่นอน หลักฐานนั้นก็คือ——
+DNJH-9_option2_1,The silver found in South-East Barbarian Camp!,เงินที่พบในค่ายของพวกคนเถื่อน!
+DNJH-9_option2_2,The Sea Goddess told me!,เทพธิดาเจ้าสมุทรบอกข้า!
+DNJH-9_option2_3,Guests at King Chai's banquet!,แขกในงานเลี้ยงของอ๋องไฉ!
+DNJH-9_option2_4,The play performed by the troupe!,ละครที่งิ้วแสดง!
+DNJH-9_0_8_1,"Those guests are all famous figures in the martial arts world, how could they become evidence for your accusation against this king?",แขกเหล่านั้นล้วนเป็นผู้มีชื่อเสียงในยุทธภพ พวกเขาจะกลายเป็นหลักฐานกล่าวหาข้าได้อย่างไร?
+DNJH-9_0_8_2,"If you are not guilty, why would you associate with Vagabond?!",หากท่านไม่ได้มีเจตนาร้าย เหตุใดจึงต้องคบหากับคนในยุทธภพละ?!
+DNJH-9_0_8_3,"By your logic, I'm afraid Lord Xue of the Warring States period also committed a crime.",ตามที่เจ้าว่า เกรงว่าใต้เท้าซี่ในยุครณรัฐก็คงมีความผิดเช่นกัน
+DNJH-9_0_8_4,(It seems that the evidence is not this...),(ดูเหมือนหลักฐานจะไม่ใช่เรื่องนี้...)
+DNJH-9_0_9_1,"The play performed by that troupe is nonsense, how could it be considered evidence?",ส่วนละครที่คณะงิ้วแสดงนั้นมันไร้สาระ จะนับเป็นหลักฐานได้อย่างไร?
+DNJH-9_0_9_2,"It seems so, it really doesn't count as evidence...",ดูเหมือนจะเป็นเช่นนั้น จริงๆ แล้วก็ไม่นับว่าเป็นหลักฐาน...
+DNJH-9_0_9_3,I hope {PlayerName} doesn't talk nonsense.,หวังว่า{PlayerName}จะไม่พูดจาส่งเดชนะ
+DNJH-9_0_10_1,"This is a court, I didn't expect General Han to actually accept the words of gods and buddhas, it really opened my eyes.",นี่คือศาลหลวง ไม่นึกเลยว่าแม่ทัพหานจะรับฟังคำพูดของสวรรค์ ทำให้ข้าได้เปิดหูเปิดตาจริงๆ
+DNJH-9_0_10_2,This... I didn't...,เอ่อ... ข้าไม่ได้...
 DNJH-9_0_10_3,"What are you laughing at, the Sea Goddess is very effective!",หัวเราะเยาะเย้ยทำไมกัน บารมีของท่านเทพธิดาเจ้าสมุทรช่างสูงส่งนะ!
 DNJH-9_0_10_4,"By your words, your Ye Family Battalion doesn't need to resist the Yan army, just go and worship the Sea Goddess.",หากเป็นเช่นนั้น กองทัพสกุลเย่ของเจ้าก็ไม่ต้องทำการศึกให้เหนื่อยหรอก ไปอ้อนวอนต่อท่านเทพธิดาเจ้าสมุทรเสียสิ
-DNJH-9_0_11_1,The silver found in the South-East Barbarian Camp?
-DNJH-9_0_11_2,"Yes, General Han, can you tell us what was found on those silvers?"
-DNJH-9_0_11_3,"""Chai Ming"", the ""Chai"" of King Chai, the ""Ming"" of crowing."
-DNJH-9_0_11_4,So what?
-DNJH-9_0_11_5,"As far as I know, the silver with this inscription is supplied by Roaring Sea House to Duke Chai's Tower."
-DNJH-9_0_11_6,"...So what? I had previously hired Surging Waves Escort to escort a shipment, which included this silver, but they were incompetent and lost my shipment, it seems it was robbed by South-East Barbarian."
-DNJH-9_0_11_7,"Since General Han has recovered the silver for me, I hope it can be returned in full."
-DNJH-9_0_11_8,"You think it's simple, General Han, how much is this batch of silver in total?"
-DNJH-9_0_11_9,Three thousand taels.
-DNJH-9_0_11_10,"Do you all remember the account book found in the South-East Barbarian Camp? It says ""On the fifth day, received 3 jars of wine from Duke Chai's Tower, silver three thousand taels... On the fifteenth day, Blade Destruction Army arrived..."""
-DNJH-9_0_11_11,"That is to say, this batch of silver was transported out by you through Surging Waves Escort, and you also let South-East Barbarian rob it themselves!"
-DNJH-9_0_11_12,"...This is all Ji Baichu's own decision, it has nothing to do with me."
-DNJH-9_0_11_13,Are you saying you didn't know about the escort of the silver by the escort agency?
-DNJH-9_0_11_14,I was not aware!
-DNJH-9_0_11_15,"King Chai, you say you didn't know about the escort of the silver, you——"
-DNJH-9_option4_1,Lying!
-DNJH-9_option4_2,He really doesn't seem to know.
-DNJH-9_0_12_1,"(No, it's impossible, I definitely heard about this, King Chai must know about this escort, I have to hold on here no matter what...)"
-DNJH-9_0_13_1,"King Chai, you're lying, you knew about this escort!"
-DNJH-9_0_13_2,Do you have any evidence?
-DNJH-9_0_14_1,"(Damn it, King Chai has already shown his hand, but the Innkeeper of Surging Waves Escort is dead, there's no one to testify against him, it's still a failure...)"
-DNJH-9_0_14_2,"Since you have no evidence to accuse me, please don't waste time."
-DNJH-9_1_1_1,"Of course I have evidence! \nGeneral Han, I would like to call the Innkeeper of Surging Waves Escort as a witness."
-DNJH-9_1_1_2,"Alright, as you wish."
-DNJH-9_1_1_3,"Witness, who are you?"
-DNJH-9_1_1_4,I am the Innkeeper of Surging Waves Escort.
-DNJH-9_1_1_5,Could the Innkeeper please tell us about the three escorts commissioned by King Chai?
-DNJH-9_1_1_6,Yes...
-DNJH-9_1_1_7,"The first escort was at the end of last month, King Chai personally came to commission me to escort a batch of Ingredient to Daliang, but it was robbed on the way..."
-DNJH-9_1_1_8,"The second escort was on the third day of last month, Ji Baichu commissioned me to send a batch of weapons to Xiangfan Region, promising that as long as this delivery was successful, the compensation for the last time would be waived, but this trip was still robbed by South-East Barbarian..."
-DNJH-9_1_1_9,"On the fifth day of last month, Ji Baichu brought three thousand taels of silver, intending to send it to Xiangfan Region. He said that as long as it was successfully delivered, the previous compensation would be written off."
-DNJH-9_1_1_10,"Because the amount was huge this time, I went to confirm with King Chai, and only after receiving his handwritten confirmation did I dispatch the escort team..."
-DNJH-9_1_1_11,Do you still have the escort bill from that time?
-DNJH-9_1_1_12,"There are two copies of the escort bill, one held by the Elite Escort in charge, and the other kept by me. It's right here, please take a look, General."
-DNJH-9_1_1_13,"King Chai, your seal is indeed on this. Are you still going to deny it?"
-DNJH-9_1_1_14,"I did transport the silver. But Ji Baichu knew about this too, he could have had the South-East Barbarians ambush and rob the escort in advance."
-DNJH-9_1_1_15,"So, you admit what the Innkeeper said?"
-DNJH-9_1_1_16,"Indeed, it's true."
-DNJH-9_1_1_17,"Good, that's what I wanted to hear!"
-DNJH-9_1_1_18,"Innkeeper, there's another problem with these three escorts, that is—"
-DNJH-9_option3_1,The first escort.
-DNJH-9_option3_2,The second escort.
-DNJH-9_option3_3,The third escort.
-DNJH-9_1_2_1,"I don't understand, what's the problem with this escort?"
-DNJH-9_1_2_2,Why did you transport weapons?
-DNJH-9_1_2_3,"The situation in Xiangfan was urgent, I kindly transported weapons to the Ye Family Battalion to resist the Yan people, what's wrong with that?"
-DNJH-9_1_2_4,You were clearly transporting for the South-East Barbarians!
-DNJH-9_1_2_5,"I'm not aware of the South-East Barbarians robbing the escort, how many times do I have to tell you?"
-DNJH-9_1_2_6,"(Damn, it seems there's no way to pry open King Chai's mouth about this escort!)"
-DNJH-9_1_3_1,"...Didn't we just finish talking about this escort?\n{PlayerSurName}Young hero, you're so young and your memory is so bad, I'm very worried."
-DNJH-9_1_4_1,What's wrong with this escort?
-DNJH-9_1_4_2,"This escort was the first one robbed by the South-East Barbarians, it didn't even appear in the South-East Barbarians' account book, but it can prove that you, King Chai, colluded with the South-East Barbarians!"
-DNJH-9_1_4_3,I don't understand what you're talking about.
-DNJH-9_1_4_4,"Innkeeper, how long does it take to transport goods from here to Daliang City?"
-DNJH-9_1_4_5,"Ten days by water, twenty days by land..."
-DNJH-9_1_4_6,"A total of thirty days' journey, but what you transported were some ingredients, even if the ingredients arrived, they would probably have rotted."
+DNJH-9_0_11_1,The silver found in the South-East Barbarian Camp?,เงินที่พบในค่ายของพวกคนถื่อนรึ?
+DNJH-9_0_11_2,"Yes, General Han, can you tell us what was found on those silvers?",ใช่ แม่ทัพหาน ท่านบอกพวกเราได้หรือไม่ว่า บนเงินเหล่านั้นพบอะไร?
+DNJH-9_0_11_3,"""Chai Ming"", the ""Chai"" of King Chai, the ""Ming"" of crowing.",ตัวอักษร 'ไฉ หมิง' ของอ๋องไฉ หมิง แปลว่า ร้อง
+DNJH-9_0_11_4,So what?,แล้วมันเกี่ยวอะไร?
+DNJH-9_0_11_5,"As far as I know, the silver with this inscription is supplied by Roaring Sea House to Duke Chai's Tower.",ตามที่ข้ารู้มา เงินที่มีตัวอักษรเช่นนี้เป็นของที่ตำหนักทะเลครวญจ่ายให้กับตำหนักอ๋องไฉ
+DNJH-9_0_11_6,"...So what? I had previously hired Surging Waves Escort to escort a shipment, which included this silver, but they were incompetent and lost my shipment, it seems it was robbed by South-East Barbarian.",...แล้วมันเกี่ยวอะไร? ข้าเคยจ้างสำนักคุ้มภัยเกลียวคลื่นขนส่งเงินพวกนี้ แต่พวกเขาไร้ความสามารถ ทำของข้าหาย ดูเหมือนจะถูกพวกคนเถื่อนปล้น
+DNJH-9_0_11_7,"Since General Han has recovered the silver for me, I hope it can be returned in full.",เมื่อแม่ทัพหานช่วยหาเงินคืนให้ข้าแล้ว หวังว่าจะคืนมันให้ข้าอย่างครบถ้วน
+DNJH-9_0_11_8,"You think it's simple, General Han, how much is this batch of silver in total?",เจ้าคิดง่ายเกินไป แม่ทัพหาน เงินก้อนนี้มีทั้งหมดเท่าไหร่?
+DNJH-9_0_11_9,Three thousand taels.,"3,000 ตำลึง"
+DNJH-9_0_11_10,"Do you all remember the account book found in the South-East Barbarian Camp? It says ""On the fifth day, received 3 jars of wine from Duke Chai's Tower, silver three thousand taels... On the fifteenth day, Blade Destruction Army arrived...""","ทุกท่านจำบัญชีที่พบในค่ายของพวกคนเถื่อนได้หรือไม่? ในนั้นเขียนว่า 'วันที่ห้า รับสุราจากตำหนักอ๋องไฉทั้งสิ้น 3 ไห และเงินอีก 3,000 ตำลึง... วันที่สิบห้า กองทัพดาพพิฆาตมาถึง..."
+DNJH-9_0_11_11,"That is to say, this batch of silver was transported out by you through Surging Waves Escort, and you also let South-East Barbarian rob it themselves!",นั่นหมายความว่า เงินก้อนนี้เจ้าจ้างสำนักคุ้มภัยเกลียวคลื่นทำการขนส่ง พร้อมกับสั่งให้พวกคนเถื่อนไปปล้นมันมาเอง!
+DNJH-9_0_11_12,"...This is all Ji Baichu's own decision, it has nothing to do with me.",...ทั้งหมดนี้เป็นการตัดสินใจของจี้ไป๋ฉูเอง ไม่เกี่ยวกับข้า
+DNJH-9_0_11_13,Are you saying you didn't know about the escort of the silver by the escort agency?,เจ้าหมายความว่าเจ้าไม่รู้เรื่องที่สำนักคุ้มภัยขนส่งเงินหรือ?
+DNJH-9_0_11_14,I was not aware!,ข้าไม่รู้เรื่องนี้จริงๆ!
+DNJH-9_0_11_15,"King Chai, you say you didn't know about the escort of the silver, you——",อ๋องไฉ ท่านบอกว่าท่านไม่รู้เรื่องที่สำนักคุ้มภัยขนส่งเงิน ท่าน...
+DNJH-9_option4_1,Lying!,กำลังโกหก!
+DNJH-9_option4_2,He really doesn't seem to know.,ดูเหมือนเขาจะไม่รู้จริงๆ
+DNJH-9_0_12_1,"(No, it's impossible, I definitely heard about this, King Chai must know about this escort, I have to hold on here no matter what...)",(ไม่ เป็นไปไม่ได้ ข้าเคยได้ยินเรื่องนี้มาก่อน อ๋องไฉต้องรู้เรื่องการขนส่งครั้งนี้แน่ ไม่ว่าอย่างไรต้องยืนกรานต่อไป...)
+DNJH-9_0_13_1,"King Chai, you're lying, you knew about this escort!",อ๋องไฉ ท่านกำลังโกหก ท่านรู้เรื่องการขนส่งครั้งนี้!
+DNJH-9_0_13_2,Do you have any evidence?,เจ้ามีหลักฐานหรือ?
+DNJH-9_0_14_1,"(Damn it, King Chai has already shown his hand, but the Innkeeper of Surging Waves Escort is dead, there's no one to testify against him, it's still a failure...)",(บ้าชะมัด ทั้งที่อ๋องไฉเผยพิรุธแล้ว แต่เจ้าของสำนักคุ้มภัยเกลียวคลื่นตายไปแล้ว ไม่มีใครยืนยันได้ เสียทีที่พยายามมา...)
+DNJH-9_0_14_2,"Since you have no evidence to accuse me, please don't waste time.",เมื่อเจ้าไม่มีหลักฐานกล่าวหาข้า ก็อย่าเสียเวลาเลย
+DNJH-9_1_1_1,"Of course I have evidence! \nGeneral Han, I would like to call the Innkeeper of Surging Waves Escort as a witness.","ข้ามีหลักฐานแน่นอน!\nแม่ทัพหาน ข้าอยากเชิญเจ้าของสำนักคุ้มภัยเกลียวคลื่นมาเป็นพยาน"
+DNJH-9_1_1_2,"Alright, as you wish.",ดี ตามที่เจ้าขอ
+DNJH-9_1_1_3,"Witness, who are you?",พยานรึ เจ้าเป็นใคร?
+DNJH-9_1_1_4,I am the Innkeeper of Surging Waves Escort.,ข้าคือเจ้าของสำนักคุ้มภัยเกลียวคลื่น
+DNJH-9_1_1_5,Could the Innkeeper please tell us about the three escorts commissioned by King Chai?,เรื่องเกี่ยวกับการขนส่งสามครั้งที่อ๋องไฉว่าจ้าง ขอให้ท่านเจ้าของเล่าให้พวกเราฟังหน่อยได้หรือไม่?
+DNJH-9_1_1_6,Yes...,ได้ขอรับไต้เท้า...
+DNJH-9_1_1_7,"The first escort was at the end of last month, King Chai personally came to commission me to escort a batch of Ingredient to Daliang, but it was robbed on the way...",การขนส่งครั้งแรกคือปลายเดือนก่อน อ๋องไฉมาว่าจ้างข้าด้วยตนเองให้ขนส่งวัตถุดิบอาหารไปยังเมืองต้าเหลียง แต่ถูกปล้นระหว่างทาง...
+DNJH-9_1_1_8,"The second escort was on the third day of last month, Ji Baichu commissioned me to send a batch of weapons to Xiangfan Region, promising that as long as this delivery was successful, the compensation for the last time would be waived, but this trip was still robbed by South-East Barbarian...",ครั้งที่สองคือวันที่สามเดือนที่แล้ว จี้ไป๋ฉูว่าจ้างข้าให้ส่งอาวุธไปยังเขตเซียงฝาน สัญญาว่าถ้าขนส่งสำเร็จจะยกเลิกค่าชดเชยครั้งก่อน แต่ก็ถูกพวกคนเถื่อนปล้นอีก...
+DNJH-9_1_1_9,"On the fifth day of last month, Ji Baichu brought three thousand taels of silver, intending to send it to Xiangfan Region. He said that as long as it was successfully delivered, the previous compensation would be written off.","วันที่ห้าเดือนที่แล้ว จี้ไป๋ฉูนำเงิน 3,000 ตำลึงมา ต้องการส่งไปยังเขตเซียงฝาน บอกเช่นกันว่าหากส่งสำเร็จจะยกเลิกค่าชดเชยก่อนหน้า"
+DNJH-9_1_1_10,"Because the amount was huge this time, I went to confirm with King Chai, and only after receiving his handwritten confirmation did I dispatch the escort team...",เนื่องจากครั้งนี้มีมูลค่าสูง ข้าจึงไปขอคำยืนยันจากอ๋องไฉ จึงประทับตรายืนยันจากอ๋องไฉแล้วจึงส่งกลุ่มขบวนภัยออกเดินทางขอรับ...
+DNJH-9_1_1_11,Do you still have the escort bill from that time?,ใบรับรองการขนส่งตอนนั้นท่านยังเก็บไว้หรือไม่?
+DNJH-9_1_1_12,"There are two copies of the escort bill, one held by the Elite Escort in charge, and the other kept by me. It's right here, please take a look, General.",ใบรับรองมีสองฉบับ ฉบับหนึ่งถือโดยหัวหน้าขบวนคุ้มภัย อีกฉบับข้าเก็บไว้ อยู่ตรงนี้ เชิญท่านแม่ทัพตรวจดูขอรับ
+DNJH-9_1_1_13,"King Chai, your seal is indeed on this. Are you still going to deny it?",อ๋องไฉ บนนี้มีตราประทับของท่านจริงๆ ท่านจะปฏิเสธอีกหรือ?
+DNJH-9_1_1_14,"I did transport the silver. But Ji Baichu knew about this too, he could have had the South-East Barbarians ambush and rob the escort in advance.",ข้ายอมรับว่าได้ขนส่งเงิน แต่เรื่องนี้จี้ไป๋ฉูก็รู้ เขาก็อาจสั่งให้พวกคนเถื่อนซุ่มโจมตีล่วงหน้าก็ได้
+DNJH-9_1_1_15,"So, you admit what the Innkeeper said?",นั่นหมายความว่า เจ้ายอมรับคำพูดของเจ้าของสำนักคุ้มภัยกระนั้นรึ?
+DNJH-9_1_1_16,"Indeed, it's true.",เป็นความจริง
+DNJH-9_1_1_17,"Good, that's what I wanted to hear!",ดี นั่นคือสิ่งที่ข้าต้องการได้ยิน!
+DNJH-9_1_1_18,"Innkeeper, there's another problem with these three escorts, that is—",ในสามครั้งนี้ ยังมีอีกหนึ่งครั้งที่มีปัญหา นั่นก็คือ...
+DNJH-9_option3_1,The first escort.,การคุ้มภัยครั้งแรก
+DNJH-9_option3_2,The second escort.,การคุ้มภัยครั้งที่ 2
+DNJH-9_option3_3,The third escort.,การคุ้มภัยครั้งที่ 3
+DNJH-9_1_2_1,"I don't understand, what's the problem with this escort?",ข้าไม่เข้าใจ การขนส่งครั้งนี้มีปัญหาอะไร?
+DNJH-9_1_2_2,Why did you transport weapons?,ทำไมท่านต้องขนส่งอาวุธ?
+DNJH-9_1_2_3,"The situation in Xiangfan was urgent, I kindly transported weapons to the Ye Family Battalion to resist the Yan people, what's wrong with that?",สงครามที่เซียงฝานเกิดคับขัน ข้าหวังดีส่งอาวุธให้กองพันตระกูลเย่ เพื่อต้านทัพเยี่ยน มีอะไรไม่เหมาะสมหรือ?
+DNJH-9_1_2_4,You were clearly transporting for the South-East Barbarians!,ท่านส่งให้พวกคนเถื่อนชัดๆ!
+DNJH-9_1_2_5,"I'm not aware of the South-East Barbarians robbing the escort, how many times do I have to tell you?",เรื่องที่พวกคนเถื่อนปล้นเอง ข้าไม่รู้เรื่องจริงๆ ข้าต้องพูดกี่ครั้งเจ้าถึงจะเข้าใจ?
+DNJH-9_1_2_6,"(Damn, it seems there's no way to pry open King Chai's mouth about this escort!)",(บ้าชะมัด ดูเหมือนจะไม่สามารถทำให้อ๋องไฉเปิดปากได้แล้ว!)
+DNJH-9_1_3_1,"...Didn't we just finish talking about this escort?\n{PlayerSurName}Young hero, you're so young and your memory is so bad, I'm very worried.","...เราเพิ่งพูดถึงการขนส่งครั้งนี้ไปไม่ใช่หรือ?\nจอมยุทธน้อย{PlayerSurName} อายุยังน้อยแต่ความจำนั้นแย่ ข้ารู้สึกเป็นห่วงจริงๆ"
+DNJH-9_1_4_1,What's wrong with this escort?,การขนส่งครั้งนี้เป็นอย่างไร?
+DNJH-9_1_4_2,"This escort was the first one robbed by the South-East Barbarians, it didn't even appear in the South-East Barbarians' account book, but it can prove that you, King Chai, colluded with the South-East Barbarians!",การขนส่งครั้งนี้คือครั้งแรกที่ถูกพวกคนเถื่อนปล้น แม้แต่ในบัญชีของพวกคนเถื่อนก็ไม่มีบันทึก แต่มันสามารถพิสูจน์ได้ว่าท่านสมรู้ร่วมคิดกับพวกคนเถื่อน!
+DNJH-9_1_4_3,I don't understand what you're talking about.,ข้าไม่เข้าใจว่าเจ้ากำลังพูดถึงอะไร
+DNJH-9_1_4_4,"Innkeeper, how long does it take to transport goods from here to Daliang City?",เถ้าแก่ การขนส่งสินค้าจากที่นี่ไปเมืองต้าเหลียงใช้เวลานานเท่าไหร่?
+DNJH-9_1_4_5,"Ten days by water, twenty days by land...",ทางน้ำสิบวัน ทางบกยี่สิบวันขอรับ...
+DNJH-9_1_4_6,"A total of thirty days' journey, but what you transported were some ingredients, even if the ingredients arrived, they would probably have rotted.",การเดินทางใช้เวลารวม 30 วัน แต่ท่านกลับขนส่งอาหาร แม้ว่าจะขนส่งถึงที่หมาย อาหารก็คงเน่าเสียหมดแล้ว
 DNJH-9_1_4_7,"My friend wanted to try some specialties from the southeast, I just overlooked the fact that the ingredients would rot."
 DNJH-9_1_4_8,"Even if you forget, wouldn't the other people in the escort agency remember?"
 DNJH-9_1_4_9,"Uh, we did tell King Chai about this at the time, but he didn't care..."
