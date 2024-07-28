@@ -3558,8 +3558,8 @@ NpcJobTalk_第二人称_老猎人,You,ท่าน
 NpcJobTalk_第二人称敬语_老猎人,You,ท่าน
 NpcInteractive_唐婉儿_Like,What are you going to do to her?,เจ้าจะทำอะไรกับนาง?
 NpcInteractive_唐婉儿_Dislike,What are you going to do to her?,เจ้าจะทำอะไรกับนาง?
-NpcHello_唐婉儿_SelfIntroHigh,"Nice to meet you, {PlayerSurName} young hero."
-NpcHello_唐婉儿_SelfIntroLow,"Nice to meet you, {PlayerSurName} young hero."
+NpcHello_唐婉儿_SelfIntroHigh,"Nice to meet you, {PlayerSurName} young hero.",ยินดีที่ได้พบเจ้า จอมยุทธน้อย{PlayerSurName}
+NpcHello_唐婉儿_SelfIntroLow,"Nice to meet you, {PlayerSurName} young hero.",ยินดีที่ได้พบท่าน จอมยุทธน้อย{PlayerSurName}
 NpcHello_唐婉儿_Common,"Nice to meet you, {PlayerSurName} young hero.|Do you need anything, {PlayerSurName} young hero?|What can I do for you, {PlayerSurName} young hero?",ยินดีที่ได้พบ จอมยุทธน้อย{PlayerSurName} | จอมยุทธน้อย{PlayerSurName}ต้องการสิ่งใดหรือ? |เจ้าต้องการให้ข้าช่วยอะไรไหม? จอมยุทธน้อย{PlayerSurName}
 NpcHello_唐婉儿_Like,"Nice to meet you, {PlayerSurName} young hero.|Do you need anything, {PlayerSurName} young hero?|What can I do for you, {PlayerSurName} young hero?",ยินดีที่ได้พบ จอมยุทธน้อย{PlayerSurName} | จอมยุทธน้อย{PlayerSurName}ต้องการสิ่งใดหรือ? |เจ้าต้องการให้ข้าช่วยอะไรไหม? จอมยุทธน้อย{PlayerSurName}
 NpcHello_唐婉儿_Dislike,"{PlayerSurName} young hero, you came uninvited, what can I do for you?"
@@ -3605,8 +3605,8 @@ NpcJobTalk_第二人称_人妻唐婉儿,Sir
 NpcJobTalk_第二人称敬语_人妻唐婉儿,Sir
 NpcInteractive_唐太君_Like,What are you going to do to her?,เจ้าจะทำอะไรกับนาง?
 NpcInteractive_唐太君_Dislike,What are you going to do to her?,เจ้าจะทำอะไรกับนาง?
-NpcHello_唐太君_SelfIntroHigh,"Nice to meet you, {PlayerSurName} young hero."
-NpcHello_唐太君_SelfIntroLow,"Nice to meet you, {PlayerSurName} young hero."
+NpcHello_唐太君_SelfIntroHigh,"Nice to meet you, {PlayerSurName} young hero.",ยินดีที่ได้พบท่าน จอมยุทธน้อย{PlayerSurName}
+NpcHello_唐太君_SelfIntroLow,"Nice to meet you, {PlayerSurName} young hero.",ยินดีที่ได้พบท่าน จอมยุทธน้อย{PlayerSurName}
 NpcHello_唐太君_Common,"Are you well, {PlayerSurName} young hero?|Beast Manor still needs to rely on {PlayerSurName} young hero.|I have to thank {PlayerSurName} young hero for the matters of the manor."
 NpcHello_唐太君_Like,"Are you well, {PlayerSurName} young hero?|Beast Manor still needs to rely on {PlayerSurName} young hero.|I have to thank {PlayerSurName} young hero for the matters of the manor."
 NpcHello_唐太君_Dislike,"What can I do for you this time, {PlayerSurName} young hero?",เจ้าอยากให้ข้าช่วยอะไรล่ะคราวนี้ ? จอมยุทธน้อย{PlayerSurName}
@@ -3715,8 +3715,8 @@ NpcDriveAway_凤璇玑_KaiGan,Please forgive me for drawing my weapon!
 NpcJobTalk_自我称呼_凤璇玑,I,ข้า
 NpcJobTalk_第二人称_凤璇玑,You,ท่าน
 NpcJobTalk_第二人称敬语_凤璇玑,You,เจ้า
-NpcHello_人妻凤璇玑_Common,"Nice to meet you, sir.|How have you been lately, sir?|Have you been missing me these past few days, my lord?"
-NpcHello_人妻凤璇玑_Like,"Nice to meet you, sir.|How have you been lately, sir?|Have you been missing me these past few days, my lord?"
+NpcHello_人妻凤璇玑_Common,"Nice to meet you, sir.|How have you been lately, sir?|Have you been missing me these past few days, my lord?",ยินดีที่ได้พบนะ ท่านสามี|ท่านสามีเป็นอย่างไรบ้าง?|หลายวันที่ผ่านมานี้ ท่านสามีคิดถึงข้าบ้างไหมนะ?
+NpcHello_人妻凤璇玑_Like,"Nice to meet you, sir.|How have you been lately, sir?|Have you been missing me these past few days, my lord?",ยินดีที่ได้พบนะ ท่านสามี|ท่านสามีเป็นอย่างไรบ้าง?|หลายวันที่ผ่านมานี้ ท่านสามีคิดถึงข้าบ้างไหมนะ?
 NpcLeaveTeam_人妻凤璇玑_LeaveTalkToFiej,"Since my lord wishes for me to go to {0}, I shall obey."
 NpcJobTalk_自我称呼_人妻凤璇玑,I,ข้า
 NpcJobTalk_第二人称_人妻凤璇玑,My lord
