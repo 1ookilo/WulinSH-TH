@@ -2870,81 +2870,81 @@ R10008-8_19_2,"Teacher, long time no see.",ท่านอาจารย์ ไ
 R10008-8_19_3,"Teacher, long time no see.",ท่านอาจารย์ ไม่เจอกันนานเลยนะ
 R10008-8_19_4,"These two were my best students, the sister was even more talented than the brother.",ทั้งคู่เป็นศิษย์ที่เก่งที่สุดของข้าเลย แม้น้องสาวจะเก่งกว่าพี่ชายหน่อยๆก็เถอะ
 R10008-8_19_5,"It's a pity that the sister got a strange disease later on and had to slumber all day, so she stopped studying.",น่าเสียดายที่คนน้องไปถูกโรคประหลายเข้าจนทำให้หลับไหลทั้งวัน สุดท้ายก็หยุดเรียนไป
-R10008-8_19_6,"Little sister Ling, how's your illness now?"
-R10008-8_19_7,"Thank you for your concern, teacher. Thanks to {PlayerName}'s efforts, my illness has completely healed."
-R10008-8_19_8,"Completely healed? That's good, that's good."
-R10008-8_19_9,You are...
-R10008-8_20_1,It's the top scholar!
-R10008-8_20_2,"I didn't expect you to be the top scholar, I always thought you were just a commoner, it seems I was wrong."
-R10008-8_20_3,"Wow... top scholar, I didn't expect you to be the top scholar, then am I not..."
+R10008-8_19_6,"Little sister Ling, how's your illness now?",หนูหลิง อาการเจ้าเป็นยังไงบ้าง?
+R10008-8_19_7,"Thank you for your concern, teacher. Thanks to {PlayerName}'s efforts, my illness has completely healed.",ขอบคุณที่ท่านเป็นห่วงนะ ท่านอาจารย์ ต้องขอบคุณพี่{PlayerName}ที่ลำบาก อาการของข้าหายดีแล้ว
+R10008-8_19_8,"Completely healed? That's good, that's good.",หายดีแล้วเหรอ? ดีจริงๆเลย ดีจริงๆ
+R10008-8_19_9,You are...,ส่วนเจ้า...
+R10008-8_20_1,It's the top scholar!,บัณฑิตอันดับหนึ่งนี่!
+R10008-8_20_2,"I didn't expect you to be the top scholar, I always thought you were just a commoner, it seems I was wrong.",ไม่คิดเลยว่าเจ้าจะเป็นบัณฑิตอันดับหนึ่งได้ ข้าคิดมาตลอดว่าเจ้าก็เป็นเพียงคนทั่วๆไป ดูเหมือนข้าจะมองคนผิดเอง
+R10008-8_20_3,"Wow... top scholar, I didn't expect you to be the top scholar, then am I not...",โอ้โห...บัณฑิตอันดับหนึ่ง ไม่คิดเลยว่าเจ้าจะเป็นบัณฑิตอันดับหนึ่ง ถ้าเช่นนั้นข้าไม่ควร...
 R10008-8_20_4,Huh? What relations do you have with the top scholar {PlayerName}?
-R10008-8_20_5,Well... I'll tell you later.
-R10008-8_20_0_1,Seems like a promising talent.
-R10008-8_21_1,I'm deeply grateful for your efforts in seeking treatment for Ling Xiaomei.
-R10008-8_21_2,"Oh, sir, there's no need for that. I've already expressed my gratitude."
-R10008-8_21_3,"These two siblings are my proud disciples, the pride and joy I can boast about even when I'm in my seventies or eighties."
-R10008-8_21_4,"Back then, Ling Xiaomei was studying in disguise as a boy."
-R10008-8_21_5,Oh? So Mengdie had such an experience when she was young?
-R10008-8_21_6,"At that time, the Imperial School did not allow girls to enroll, but Mengdie's talent surpassed that of most men in the world."
-R10008-8_21_7,"Mengdie's talent and learning touched the teacher, and she herself had the desire to study, so she disguised herself as a boy and enrolled in the school with my and the teacher's protection."
-R10008-8_21_8,It was because of Mengdie that the Imperial School broke the tradition of not allowing girls to enroll for many years.
-R10008-8_21_9,So that's the story of Mengdie studying here.
-R10008-8_21_10,"Oh, I'm sorry, I'm teaching the children and can't delay any longer."
-R10008-8_21_11,"Alright, we won't disturb you any longer, sir."
-R10008-8_21_12,There really hasn't been any change here.
-R10008-8_21_13,"The mark my brother kicked is still there, hehe."
-R10008-8_21_14,Why didn't you continue studying at the Imperial School?
-R10008-8_21_15,It's all my fault...
-R10008-8_21_16,"I started falling asleep in class, and when the teacher found out, he went to the Hall of Rejuvenation to seek medical advice for me."
-R10008-8_21_17,"But then one day, the teacher was away, and another substitute teacher came to teach. He was rather impatient, and when he saw me sleeping, he pulled off my headscarf."
-R10008-8_21_18,"When your headscarf was pulled off and your hair fell down, your identity as a girl was revealed?"
-R10008-8_21_19,Yes. The whole class knew.
-R10008-8_21_20,"After that day, I stopped going to school. I stayed at home to recuperate, and three days later, my brother chose to run away from the Imperial School and took me on the journey to seek medical treatment."
-R10008-8_21_21,"Ling Xiaomei, you're back!"
-R10008-8_21_22,It's you again!
-R10008-8_21_23,Who is this person?
-R10008-8_21_24,Seems like an old classmate? I can't recognize him...
+R10008-8_20_5,Well... I'll tell you later.,เอ่อ... เอาไว้ข้าจะเล่าให้ฟังทีหลัง
+R10008-8_20_0_1,Seems like a promising talent.,ดูเหมือนจะเป็นดาวรุ่งที่มากความสามารถนะ
+R10008-8_21_1,I'm deeply grateful for your efforts in seeking treatment for Ling Xiaomei.,ข้าขอขอบใจที่เจ้าอุตส่าห์ลำบากเสาะหาวิธีรักษาให้น้องหนูหลิงนะ
+R10008-8_21_2,"Oh, sir, there's no need for that. I've already expressed my gratitude.",โอ้นท่านอาจารย์ ไม่ต้องขนาดนั้นก็ได้ ข้าขอบคุณเขาไปแล้ว
+R10008-8_21_3,"These two siblings are my proud disciples, the pride and joy I can boast about even when I'm in my seventies or eighties.",สองพี่น้องนี่เป็นศิษย์ที่ข้าภูมิใจมากๆ ความภาคภูมิใจและความสุขที่ข้าเอาไปโม้ได้เลยต่อให้ข้าจะอายุยันเจ็ดสิบแปดสิบปีแล้วก็ตาม
+R10008-8_21_4,"Back then, Ling Xiaomei was studying in disguise as a boy.",ก่อนหน้านี้เจ้ารู้รึเปล่าว่าน้องหนูหลิงนั้นมาเรียนโดยปลอมตัวเป็นเด็กผู้ชายล่ะ
+R10008-8_21_5,Oh? So Mengdie had such an experience when she was young?,โอ๊ะ? งั้นแปลว่าเมิ่งเตี๋ยก็มีประสบการณ์มากเลยตั้งแต่เด็กล่ะสิเนี่ย
+R10008-8_21_6,"At that time, the Imperial School did not allow girls to enroll, but Mengdie's talent surpassed that of most men in the world.",ตอนนั้นสำนักบัณฑิตหลวงไม่อนุญาติให้เด็กสาวเข้ามาเรียนได้ แต่ความสามารถของเมิ่งเตี๋ยนั้นก้าวข้ามเหล่าผู้ชายไปเกือบหมดทั้งโลกแล้ว
+R10008-8_21_7,"Mengdie's talent and learning touched the teacher, and she herself had the desire to study, so she disguised herself as a boy and enrolled in the school with my and the teacher's protection.",เมิ่งเตี๋ยมีความสามารถและพรสวรรค์ที่ทำให้อาจารย์ประทับใจ นางเองก็มีความปรารถนาที่จะเรียนรู้ด้วย ดังนั้นภายใต้การปกป้องของข้าและท่านอาจารย์ นางจึงปลอมตัวเป็นเด็กชายเพื่อเข้าเรียนได้
+R10008-8_21_8,It was because of Mengdie that the Imperial School broke the tradition of not allowing girls to enroll for many years.,เป็นเพราะเมิ่งเตี๋ยนี่แหละที่ทำให้สำนักบัณฑิตหลวงยอมทำลายขนบเดิมๆ แล้วให้เด็กสาวได้เข้าเรียนได้มาหลายปีแล้ว
+R10008-8_21_9,So that's the story of Mengdie studying here.,นี่เป็นเรื่องราวสมัยเมิ่งเตี๋ยยังเรียนอยู่ที่นี่สินะ
+R10008-8_21_10,"Oh, I'm sorry, I'm teaching the children and can't delay any longer.",โอ๊ะ ข้าขอโทษด้วย ข้าสอนเหล่าเด็กๆอยู่ ไม่อาจปลีกตัวมาต่อได้แล้ว
+R10008-8_21_11,"Alright, we won't disturb you any longer, sir.",ไม่เป็นไร เราไม่รบกวนท่านต่อแล้ว ท่านอาจารย์
+R10008-8_21_12,There really hasn't been any change here.,ที่นี่ไม่เปลี่ยนไปเลยเนอะ
+R10008-8_21_13,"The mark my brother kicked is still there, hehe.",รอยที่ท่านพี่เตะไว้ยังอยู่เลย ฮิฮิ
+R10008-8_21_14,Why didn't you continue studying at the Imperial School?,ทำไมเจ้าไม่เรียนที่สำนักบัณฑิตหลวงต่อล่ะในตอนนั้น?
+R10008-8_21_15,It's all my fault...,เป็นความผิดของข้าเองแหละ...
+R10008-8_21_16,"I started falling asleep in class, and when the teacher found out, he went to the Hall of Rejuvenation to seek medical advice for me.",ตอนที่ข้าเริ่มหลับในห้องเรียน ท่านอาจารย์มาเจอเข้าเลยพาไปยังโรงหมอเพื่อให้ท่านหมอช่วยรักษาอยู่
+R10008-8_21_17,"But then one day, the teacher was away, and another substitute teacher came to teach. He was rather impatient, and when he saw me sleeping, he pulled off my headscarf.",แต่มาวันหนึ่งท่านอาจารย์ไม่อยู่ อาจารย์ที่มาสอนแทนเป็นพวกไม่มีความอดทน พอเห็นข้าหลับก็มาดึงผ้าพันหัวของข้าออก
+R10008-8_21_18,"When your headscarf was pulled off and your hair fell down, your identity as a girl was revealed?",พอผ้าพันหัวเจ้าถูกดึง ผมของเจ้าก็เลยตกลงมา ตัวตนที่เป็นเด็กสาวของเจ้าก็เลยถูกเปิดเผยสินะ?
+R10008-8_21_19,Yes. The whole class knew.,ใช่ แล้วทั้งห้องเรียนก็รู้เลยทีนี้
+R10008-8_21_20,"After that day, I stopped going to school. I stayed at home to recuperate, and three days later, my brother chose to run away from the Imperial School and took me on the journey to seek medical treatment.",หลังจากวันนั้น ข้าก็ไม่ได้ไปโรงเรียนอีกเลย ข้าป่วยและพักรักษาตัวอยู่ที่บ้าน สามวันต่อมา ท่านพี่ตัดสินใจลาออกจากโรงเรียน และพาข้าออกเดินทางเพื่อไปหาหมอที่รักษาอาการนี้ได้
+R10008-8_21_21,"Ling Xiaomei, you're back!",น้องสาวหลิง เจ้ากลับมาแล้วเหรอ!
+R10008-8_21_22,It's you again!,แกอีกแล้วเรอะ!
+R10008-8_21_23,Who is this person?,หมอนี่ใครล่ะนั่น?
+R10008-8_21_24,Seems like an old classmate? I can't recognize him...,เป็นเพื่อนร่วมชั้นสมัยก่อนมั้ง? ข้าจำไม่ค่อยได้เลย...
 R10008-8_21_25,"Ling Hongxuan teleports to 77,153 down right BattleIdle"
-R10008-8_21_26,"{yell}, watch me beat you into a pig's head again!"
-R10008-8_21_27,"{yell}, stop! Let's talk, not fight!"
-R10008-8_21_28,"Brother, who is this? Why are you suddenly wanting to hit him?"
-R10008-8_21_29,"This kid, after knowing that you're a girl, actually ran to our doorstep to see you."
-R10008-8_21_30,"Every time he came, I beat him up. I didn't expect him to dare to come today!"
-R10008-8_21_31,"Ling Xiaomei, listen to me!"
-R10008-8_21_32,I fell for you before I knew you were a girl!
-R10008-8_21_33,"I was even doubting whether I was gay, but that day I realized I wasn't!"
-R10008-8_21_34,Give me a chance! Ling Xiaomei!
-R10008-8_21_35,Daring to flirt with my sister in front of me! Seems like you're itching for a beating!
-R10008-8_21_36,No fighting! No fighting! Let's compete with our pens!
-R10008-8_21_37,"Even if we compete with pens, you'll still lose miserably!"
-R10008-8_21_38,Pfft~
-R10008-8_21_39,"Ling Mengdie grabs your hand tightly, pulls you to stand in front of the two."
-R10008-8_21_40,"You two stop fighting, I have something to announce."
-R10008-8_21_41,"{PlayerName}, how dare you hold Mengdie's hand?"
-R10008-8_21_42,"(If you look closely, it's your sister holding my hand...)"
-R10008-8_21_43,"MeLing Mengdie and {PlayerName} have formed a bond in front of the God of Marriage's Shrine, and have received the blessing of the matchmaker."
-R10008-8_21_44,The... God of Marriage's Shrine?
-R10008-8_21_45,{yell} Wha... What!
-R10008-8_21_46,"Yes, I have decided to walk with {PlayerName}, through the wind and rain, until we are seventy or eighty years old, I will not forget what I said today."
-R10008-8_21_47,"I will also protect Mengdie for the rest of my life, and I will never let go of her hand."
-R10008-8_21_48,I... I actually...
-R10008-8_21_49,I... I...
-R10008-8_22_1,"I approve of you, {PlayerName}."
-R10008-8_22_2,Really? I thought...
-R10008-8_22_3,"{PlayerName}, I told you he was a good person."
-R10008-8_22_4,Why are your palms so sweaty?
-R10008-8_22_5,"MeLing Hongxuan approves of you as a rare talent of this era, worthy of my sister."
-R10008-8_22_6,"And you have done a great favor to us siblings, I can't go against my sister's wishes."
-R10008-8_22_7,"Woo hoo, my sister has grown up in a blink of an eye..."
-R10008-8_22_8,"Hey, brother, why are you crying?"
-R10008-8_22_9,Can't I cry when my sister is entrusted to someone else?
-R10008-8_22_10,"(I have never seen Ling Hongxuan in this state, it seems that Mengdie is really important to him.)"
-R10008-8_22_11,"Don't worry, I will never let Mengdie down."
-R10008-8_22_12,"Go away, I don't want to talk to you."
-R10008-8_22_13,Uh...
-R10008-8_22_14,Phew... I feel like I've finally resolved the biggest problem in my heart.
-R10008-8_22_15,"Let's go, {PlayerName}, don't forget what you just said. We still have seventy or eighty years to go!"
-R10008-8_22_16,"Don't worry, I will definitely not forget such words!"
+R10008-8_21_26,"{yell}, watch me beat you into a pig's head again!",{yell} ข้าจะอัดแกให้เละเลยคราวนี้!
+R10008-8_21_27,"{yell}, stop! Let's talk, not fight!",{yell} หยุดเลย คุยกันดีๆไม่ใช่มาสู้สิเฮ้ย!
+R10008-8_21_28,"Brother, who is this? Why are you suddenly wanting to hit him?",ท่านพี่ ชายคนนี้ใครกัน? ทำไมท่านถึงอยากรีบไปอัดเขากัน?
+R10008-8_21_29,"This kid, after knowing that you're a girl, actually ran to our doorstep to see you.",ไอ้หมอนี่หลังจากรู้ว่าเจ้าเป็นผู้หญิงมันก็มาหน้าบ้านเราทุกวันเพื่อมาเจอเจ้าตลอดเลย
+R10008-8_21_30,"Every time he came, I beat him up. I didn't expect him to dare to come today!",ทุกครั้งที่หมอนี่มา ข้าก็อัดมันทุกรอบ ไม่คิดว่าวันนี้ยังจะกล้ามาอยู่อีก!
+R10008-8_21_31,"Ling Xiaomei, listen to me!",น้องสาวหลิง ฟังข้าก่อน!
+R10008-8_21_32,I fell for you before I knew you were a girl!,ข้าตกหลุมรักเจ้ามาตั้งแต่ก่อนที่ข้ารู้ว่าเจ้าจะเป็นสตรีอีก!
+R10008-8_21_33,"I was even doubting whether I was gay, but that day I realized I wasn't!",ข้าสงสัยในตัวเองทุกวันเลยว่าข้าเป็นพวกรักร่วมเพศจริงๆเหรอ แต่หลังจากวันนั้นข้าก็ได้รู้ว่าข้าไม่ได้เป็นพวกรักร่วมเพศ!
+R10008-8_21_34,Give me a chance! Ling Xiaomei!,ให้โอกาสข้าเถอะ น้องสาวหลิง!
+R10008-8_21_35,Daring to flirt with my sister in front of me! Seems like you're itching for a beating!,กล้ามาจีบน้องข้าต่อหน้าข้าเชียวรึ! วอนโดนบาทาเสียแล้วไหมล่ะ!
+R10008-8_21_36,No fighting! No fighting! Let's compete with our pens!,อย่าทำข้าเลย! อย่าทำข้าเลย! มาประลองกันด้วยปลายพู่กันกันเถอะ!
+R10008-8_21_37,"Even if we compete with pens, you'll still lose miserably!",ต่อให้ประลองกันด้วยปลายพู่กัน เจ้าก็แพ้เละอยู่ดี!
+R10008-8_21_38,Pfft~,พรืด~
+R10008-8_21_39,"Ling Mengdie grabs your hand tightly, pulls you to stand in front of the two.",หลิงเมิ่งเตี๋ยจับมือของเจ้าแน่น แล้วดึงเจ้าไปอยู่ตรงกลางระหว่างทั้งคู่
+R10008-8_21_40,"You two stop fighting, I have something to announce.",พวกท่านทั้งสองหยุดเลย ข้ามีอะไรจะบอก
+R10008-8_21_41,"{PlayerName}, how dare you hold Mengdie's hand?",{PlayerName} แกกล้าไปจับมือเมิ่งเตี๋ยเช่นนั้นได้ยังไงกัน?
+R10008-8_21_42,"(If you look closely, it's your sister holding my hand...)",(ถ้าท่านดูดีๆ ก็จะเห็นว่าน้องท่านต่างหามาจับข้า...)
+R10008-8_21_43,"MeLing Mengdie and {PlayerName} have formed a bond in front of the God of Marriage's Shrine, and have received the blessing of the matchmaker.",ข้า หลิงเมิ่งเตี๋ยและ{PlayerName} ได้ผูกสัมพันธ์กันต่อหน้าศาลเทพเจ้าด้ายแดงแล้ว และท่านเทพเจ้าด้ายแดงก็ตอบรับการผูกสัมพันธ์นี้แล้วด้วย
+R10008-8_21_44,The... God of Marriage's Shrine?,ศาล...ศาลเทพเจ้าด้ายแดง?
+R10008-8_21_45,{yell} Wha... What!,{yell} อะ...อะไรนะ!
+R10008-8_21_46,"Yes, I have decided to walk with {PlayerName}, through the wind and rain, until we are seventy or eighty years old, I will not forget what I said today.",ใช่แล้ว ข้าตัดสินใจที่จะเดินร่วมทางกับ{PlayerName} ผ่านร้อนผ่านฝนร่วมสุขร่วมทุกข์ไปด้วยกัน จนกว่าเราจะแก่เฒ่าไปด้วยกัน ข้าจะไม่ลืมสิ่งที่ข้าพูดในวันนี้เด็ดขาด
+R10008-8_21_47,"I will also protect Mengdie for the rest of my life, and I will never let go of her hand.",ข้าเองก็จะขอปกป้องเมิ่งเตี๋ยไปตลอดชีวิตของข้า ข้าจะไม่มีวันปล่อยมือของนางไปไหนเด็ดขาด
+R10008-8_21_48,I... I actually...,ข้า... จริงๆแล้วข้า...
+R10008-8_21_49,I... I...,ข้า... ข้า....
+R10008-8_22_1,"I approve of you, {PlayerName}.",ข้ายอมรับเจ้า {PlayerName}
+R10008-8_22_2,Really? I thought...,อะไรนะ จริงเหรอ? ข้านึกว่าท่าน....
+R10008-8_22_3,"{PlayerName}, I told you he was a good person.",{PlayerName} ข้าบอกเจ้าแล้วว่าท่านพี่เป็นคนดี
+R10008-8_22_4,Why are your palms so sweaty?,ทำไมมือของเจ้าเหงื่อซ่กเช่นนี้เล่า?
+R10008-8_22_5,"MeLing Hongxuan approves of you as a rare talent of this era, worthy of my sister.",ข้า หลิงหงซวน อนุญาติให้เจ้าแต่งงานกับนาง เจ้าเป็นผู้มีพรสวรรค์หาตัวจับได้ยากในยุคนี้อย่างแท้จริง คู่ควรกับน้องสาวข้าแล้ว
+R10008-8_22_6,"And you have done a great favor to us siblings, I can't go against my sister's wishes.",และเจ้าก็ได้ช่วยพวกเราสองพี่น้องเอาไว้มากจริงๆ ข้าไม่อาจต่อต้านความปราถนาของน้องสาวข้าได้หรอกนะ
+R10008-8_22_7,"Woo hoo, my sister has grown up in a blink of an eye...",มงื้อออออ พริบตาน้องสาวข้าโตเป็นสาวแล้ว
+R10008-8_22_8,"Hey, brother, why are you crying?",โถ่ ท่านพี่ ท่านจะร้องไห้ไปทำไมกัน?
+R10008-8_22_9,Can't I cry when my sister is entrusted to someone else?,จะไม่ให้ข้าร้องได้ยังไงในเมื่อน้องสาวข้าไปออกเรือนกับผู้อื่นเช่นนี้แล้ว?
+R10008-8_22_10,"(I have never seen Ling Hongxuan in this state, it seems that Mengdie is really important to him.)",(ไม่คิดเลยว่าหลิงหงซวนจะเป็นเช่นนี้ได้ ดูเหมือนหลิงเมิ่งเตี๋ยจะสำคัญต่อเขามากจริงๆ)
+R10008-8_22_11,"Don't worry, I will never let Mengdie down.",ไม่ต้องห่วงนะ ข้าจะไม่ทำให้เมิ่งเตี๋ยเสียใจแน่นอน
+R10008-8_22_12,"Go away, I don't want to talk to you.",ไสหัวไปโว้ย ข้าไม่อยากคุยกับเจ้า
+R10008-8_22_13,Uh...,เอ่อ...
+R10008-8_22_14,Phew... I feel like I've finally resolved the biggest problem in my heart.,ฟู่ว... ข้ารู้สึกได้ยกภูเขาออกจากอกเสียที
+R10008-8_22_15,"Let's go, {PlayerName}, don't forget what you just said. We still have seventy or eighty years to go!",ไปกันเถอะ {PlayerName} อย่าลืมที่พูดเสียล่ะ เรายังมีอนาคตด้วยกันอีกเจ็ดสิบแปดสิบปีเลยนะ!
+R10008-8_22_16,"Don't worry, I will definitely not forget such words!",ไม่ต้องห่วง ข้าไม่ผิดคำพูดแน่นอน!
 R10008-8_23_1,"{PlayerName}, I must teach you a lesson..."
 R10008-8_23_2,"Brother-in-law, I've long sensed that there must be a battle between us..."
 R10008-8_23_3,Don't call me that! I want to...
