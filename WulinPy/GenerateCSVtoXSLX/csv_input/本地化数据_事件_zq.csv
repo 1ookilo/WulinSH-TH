@@ -105,7 +105,7 @@ Role1-1option2_4,"Excuse me, I'll be on my way.",ขออภัย ข้าข
 Role1-1option2_5,"Alright, let's take her away.",ก็ได้ๆ พานางไปกันเถอะ
 Role1-1option3_1,Just pay a visit.<color=#097a76>(1 quarter)</color>,ลองเยี่ยมชมดู<color=#097a76>สักครู่</color>
 Role1-1option3_2,Forget it.,ช่างมันเถอะ
-Role1-2option1_dialog,"Could it be the plot where a mysterious master teaches a unique martial art?\nUnfortunately, I can only choose one. Which one should I choose?","หรือจะเป็นอย่างที่เคยได้ยินมา ที่ปรมาจารย์ลึกลับมาสอนยอดวรยุทธให้\nโชคไม่ดีที่ข้าเรื่องได้แค่อย่างเดียว. อันไหนดีล่ะ"
+Role1-2option1_dialog,"Could it be the plot where a mysterious master teaches a unique martial art?\nUnfortunately, I can only choose one. Which one should I choose?","ดูท่าจะเป็นเหมือนในนิยายที่ยอดฝีมือลึกลับมาถ่ายทอดวิชาเลิศล้ำให้เสียแล้ว \nน่าเสียดายที่เลือกได้เพียงอย่างเดียวเอง ข้าควรเลือกตำราเล่มใดดีหนอ?\n"
 Role1-2option1_1,"<color=#097a76>""Armor Breaker Move""</color> Manual. (Yang-style internal strength, increases damage)","<color=#097a76>""เคล็ดวิชาทลายเกราะ""</color> (กำลังภายในหยาง, เพิ่มพลังโจมตี)"
 Role1-2option1_2,"<color=#097a76>""Wave Rider Technique""</color> Manual. (Yin-style internal strength, increases speed)","<color=#097a76>""เคล็ดวิชาท่องคลื่น""</color> (กำลังภายในหยิน เพิ่มความว่องไว)"
 Role1-2option1_3,"<color=#097a76>""Revitalization Technique""</color> Manual. (Balanced internal strength, recovers HP)","<color=#097a76>""เคล็ดวิชาฟื้นฟู""</color> (กำลังภายในสมดุล, ฟื้นฟูพลังชีวิต)"
@@ -229,8 +229,8 @@ Role2-30-1_option1_1,Go to the rescue!,ไปช่วย!
 Role2-30-1_option1_2,Run away in the distance.,หนีไปให้ห่าง
 Role2-30-2_option1_1,Go outside the city to defeat the Yan army!,ออกไปนอกเมืองเพื่อเอาชนะกองทัพเยี่ยน!
 Role2-30-2_option1_2,Run away in the distance.,หนีไปให้ห่าง
-Role2-31-2_option1_1,Join Yan country and pledge loyalty to Wanyan Wuzhu!,เข้าร่วมกับรัฐเยี่ยน และปฏิญาณความภักดีต่อหวันเหยียนอู๋จู!
-Role2-31-2_option1_2,"Refuse to be wooed, swear to death not to surrender! <color=#c44b0e>(Start the war directly)</color>",ปฏิเสธที่จะสานสัมพันธ์ สาบานต่อให้ตายก็จะไม่ยอมแพ้! <color=#c44b0e>(เริ่มสงครามโดยตรง)</color>
+Role2-31-2_option1_1,Join Yan country and pledge loyalty to Wanyan Wuzhu!,เข้าร่วมกับแคว้นเยี่ยน และให้คำมั่นว่าจะภักดีต่อหวันเหยียนอู๋จู!
+Role2-31-2_option1_2,"Refuse to be wooed, swear to death not to surrender! <color=#c44b0e>(Start the war directly)</color>",ปฏิเสธที่จะเข้าร่วม สาบานว่าต่อให้ตายก็จะไม่มีวันยอมจำนน! <color=#c44b0e>(เริ่มสงครามโดยตรง)</color>
 Role3-1_option1_1,Discipline the soldiers of the General's mansion.<color=#c44b0e>(Specific battle)</color>,สั่งสอนเหล่าทหารจากจวนแม่ทัพ <color=#c44b0e>(เข้าสู่การต่อสู้)</color>
 Role3-1_option1_2,Just watch the changes.,รอดูว่าจะเกิดอะไรขึ้น
 Role3-2_NPCname,Soldiers,ทหาร

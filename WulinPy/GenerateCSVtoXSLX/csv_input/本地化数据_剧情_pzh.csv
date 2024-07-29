@@ -2679,197 +2679,197 @@ R10008-8_3_7,"""Therefore, Mengdie wants to use five days to seek answers in the
 R10008-8_3_8,"The general meaning of the letter is that Ling Mengdie doesn't know what to do after forming a bond, and there's nothing about it in the books. She's very confused and has decided to spend five days looking for answers in the books."
 R10008-8_3_9,"Calculating the time, it's already after the fifth day. I wonder if she's found the answer."
 R10008-8_3_10,Why not go and ask her directly.,เหตุใดมิถามนางตรงๆ?
-R10008-8_4_1,There's still no change here.,ที่นี้ยังไม่มีอะไรเปลี่ยนแปลง
-R10008-8_4_2,"{PlayerGivenName} brother, do you remember how we met?",{PlayerGivenName} ท่านจำได้หรือไม่ว่าเราพบกันได้อย่างไร?
-R10008-8_4_3,"Remember, how could I not. The first time I saw you, you were sleeping in the Hall of righteousness in the Confucius Temple.",จำได้สิ ครั้งแรกที่ข้าเจอเจ้า เจ้านอนหลับอยู่ในหอหนังสือแห่งความชอบธรรมในวัดขงจื้อ
-R10008-8_4_4,"Those days were probably the hardest for me, half dreaming and half awake all day, sometimes I couldn't even tell if I was dreaming or awake.",ช่วงเวลานั้นช่างยากลำบากสำหรับข้า เดี๋ยวหลับเดี๋ยวตื่นทั้งวันจนบางครั้งข้าก็แยกไม่ออกว่าข้ากำลังหลับหรือตื่นอยู่
-R10008-8_4_5,"At that time, if I fell asleep while reading a book, I would finish the second half of the book in my dream. When I woke up and continued reading, I realized that the second half of the book I had read was just a dream.",ในตอนนั้น ข้าคิดว่าข้าอ่านหนังสือแล้วหลับไป ข้าตื่นขึ้นมาและอ่านต่อครึ่งหลังที่เหลือ แต่ในความเป็นจริงแม้แต่หนังสือที่ข้าอ่านนั้นก็เป็นเพียงความฝัน 
+R10008-8_4_1,There's still no change here.,ที่นี่ยังไม่มีอะไรเปลี่ยนแปลงไปแม้แต่น้อย
+R10008-8_4_2,"{PlayerGivenName} brother, do you remember how we met?",พี่{PlayerGivenName} ท่านจำได้หรือไม่ว่าเราพบกันได้อย่างไร?
+R10008-8_4_3,"Remember, how could I not. The first time I saw you, you were sleeping in the Hall of righteousness in the Confucius Temple.",จำได้สิ ครั้งแรกที่ข้าเจอเจ้า เจ้าหลับอยู่ที่หอคุณธรรมในวัดขงจิ๊อ
+R10008-8_4_4,"Those days were probably the hardest for me, half dreaming and half awake all day, sometimes I couldn't even tell if I was dreaming or awake.",ตอนนั้นข้าทรมาณมากนัก เดี๋ยวหลับเดี๋ยวตื่นทั้งวัน จนบางครั้งข้าก็แยกไม่ออกว่าข้ากำลังหลับหรือตื่นอยู่กันแน่
+R10008-8_4_5,"At that time, if I fell asleep while reading a book, I would finish the second half of the book in my dream. When I woke up and continued reading, I realized that the second half of the book I had read was just a dream.",ในตอนนั้น ข้าคิดว่าข้าอ่านหนังสือแล้วหลับไป ข้าตื่นขึ้นมาและอ่านต่อครึ่งหลังที่เหลือ แต่ในความเป็นจริงแม้แต่หนังสือที่ข้าอ่านนั้นก็เป็นเพียงความฝันเท่านั้น
 R10008-8_4_6,I don't like this.,ข้าไม่ชอบเลย
-R10008-8_4_7,"Sometimes I dream that the bookshelves in the Hall of righteousness are endless, with no exit."
-R10008-8_4_8,Do you often dream?
-R10008-8_5_1,"Almost every time I sleep, very realistic dreams, I'm fighting with a martial artist whose face I can't see. Every time I wake up, I feel like I've gained a lot."
-R10008-8_5_2,"It seems we're both dreamers, but... haha, you dream about fighting, that's so you."
-R10008-8_6_1,"Occasionally I have a few vague dreams, most of which I forget soon after waking up.",บางครั้ง ข้าก็มีความฝันที่คลุมเคลือบ้าง แต่ข้าจะลืมไปหมดสิ้นเมื่อตื่น
-R10008-8_6_2,Sounds like most people in the books.
-R10008-8_7_1,"During that time when I could fall asleep at any moment, thanks to you for always being with me.",ในช่วงนั้นที่ข้าสามารถหลับได้ทุกเวลา ขอบคุณท่านจริงๆที่คอยอยู่เคียงข้างข้า
-R10008-8_7_2,And thanks to you for pulling me out of my dreams.,และขอบคุณที่ดึงข้าออกจากความฝัน
-R10008-8_7_3,"Maybe what you should be most grateful for is the Dragon lice, hahaha.",บางทีสิ่งที่ควรจะเขาคุณมากที่สุดอาจจะเป็นเหามังกรตัวนั้นก็ได้นะ ฮ่า ฮ่า ฮ่า
-R10008-8_7_4,"Haha, you're right, I'm thinking about whether I should raise a Dragon lice in the future.",ฮ่าฮ่า ท่านพูดถูก ท่านคิดว่าในอนาคตข้าควรจะฝึกเลี้ยงเหามังกรหรือไม่
-R10008-8_7_5,You'd better not...
+R10008-8_4_7,"Sometimes I dream that the bookshelves in the Hall of righteousness are endless, with no exit.",บางทีข้าก็ฝันว่าเหล่าชั้นวางตำราในหอคุณธรรมนั้นยาวไกล ไร้ที่สิ้นสุด ไร้ซึ่งทางออก
+R10008-8_4_8,Do you often dream?,พี่ฝันบ่อยๆไหม?
+R10008-8_5_1,"Almost every time I sleep, very realistic dreams, I'm fighting with a martial artist whose face I can't see. Every time I wake up, I feel like I've gained a lot.",ทุกครั้งที่ข้าหลับข้าก็จะฝันเสมอ เป็นฝันที่เหมือนจริง ข้าต่อสู้กับเหล่าจอมยุทธที่ข้าไม่เห็นหน้า แล้วทุกครั้งที่ข้าตื่นมาก็เหมือนข้าได้เรียนรู้อะไรเป็นอย่างมาก
+R10008-8_5_2,"It seems we're both dreamers, but... haha, you dream about fighting, that's so you.",ดูเหมือนเราทั้งคู่จะเป็นพวกช่างฝันกันทั้งคู่ แต่... ฮ่าๆฮ่า เจ้าฝันเรื่องต่อสู้สินะ สมเป็นเจ้าเลย
+R10008-8_6_1,"Occasionally I have a few vague dreams, most of which I forget soon after waking up.",บางครั้ง ข้าก็มีความฝันที่คลุมเครือบ้าง แต่ข้าจะลืมไปหมดสิ้นเมื่อตื่น
+R10008-8_6_2,Sounds like most people in the books.,พี่ก็เป็นเหมือนคนทั่วไปในหนังสือสินะ
+R10008-8_7_1,"During that time when I could fall asleep at any moment, thanks to you for always being with me.",ในช่วงนั้นที่ข้าสามารถหลับได้ทุกเวลา ขอบคุณพี่จริงๆที่คอยอยู่เคียงข้างข้านะ
+R10008-8_7_2,And thanks to you for pulling me out of my dreams.,และขอบคุณที่ดึงข้าออกจากความฝันนั้นได้สักที
+R10008-8_7_3,"Maybe what you should be most grateful for is the Dragon lice, hahaha.",บางทีสิ่งที่เจ้าควรจะขอบคุณมากที่สุดอาจจะเป็นเหามังกรตัวนั้นก็ได้นะ ฮ่าฮ่าฮ่า
+R10008-8_7_4,"Haha, you're right, I'm thinking about whether I should raise a Dragon lice in the future.",ฮ่าฮ่า พี่พูดถูก ท่านคิดว่าในอนาคตข้าควรจะฝึกเลี้ยงเหามังกรดีไหมนะ
+R10008-8_7_5,You'd better not...,เอ่อ ข้าว่าอย่าเลย...
 R10008-8_7_6,"By the way, when you learn martial arts, what's your habit, do you practice while reading, or do you practice after reading?",ว่าแต่ท่านพี่ ท่านเรียนวิทยายุทธ์อย่างไร ท่านฝึกฝนไปอ่านไป หรือฝึกฝนหลังจากอ่านเสร็จแล้ว?
-R10008-8_7_7,"The topic has changed too quickly... Discussing martial arts under the moonlight. Dream Butterfly, you are indeed a child of the jianghu."
-R10008-8_7_8,"What I'm saying is the experience I gained from learning martial arts,"
-R10008-8_7_9,"Go ahead, I'm all ears."
-R10008-8_7_10,"""Knowledge gained from books is always shallow, one must practice to truly understand."" I've read a manual thousands of times, but my understanding of martial arts can't break through a certain threshold."
-R10008-8_7_11,"Only when I start to hold a sword in my hand, do I truly understand the meaning of the various terms in the manual."
-R10008-8_7_12,"Loosening the hips, passing the sword, sending the shoulder, using the waist to drive the arm, these words, you won't understand unless you really pick up the sword."
-R10008-8_7_13,"Yes, that's exactly it."
-R10008-8_7_14,Do you remember what I said on the day we became sworn siblings?
-R10008-8_7_15,"How could I forget? You said you wanted to test the rumors of the God of Marriage's Shrine. As a result, to verify the truth, you got yourself involved."
-R10008-8_7_16,Yes!
-R10008-8_7_17,"I still feel confused about this sworn sibling thing, it feels like I'm in a dream again, very unreal."
-R10008-8_7_18,"When I wanted to confirm whether I was really dreaming in the past, I would... open the door."
-R10008-8_7_19,Open the door?
-R10008-8_7_20,"It's to verify, to verify what loosening the hips, passing the sword, sending the shoulder mean. To verify that after opening this door, there are still endless bookshelves."
-R10008-8_7_21,"To verify what the days after the ""forming a good bond"" that is not clearly written in the novel are like."
-R10008-8_7_22,Ah? How do you plan to verify this?
-R10008-8_7_23,"What I can think of now... is to ask those who have become sworn siblings. The story in the book with an ending, the one without an ending is life."
-R10008-8_7_24,"So asking them about what happened later, maybe I can fill in the story after the ending. Then I can learn from the story what I should do."
-R10008-8_7_25,"{PlayerGivenName} Brother, do you know many people who have become sworn siblings?"
-R10008-8_7_26,Ah... your question is a bit difficult to answer...
-R10008-8_8_1,(People who have become sworn siblings? Should I take Dream Butterfly to ask my other girls...)
-R10008-8_8_2,"(No, no, that scene is headache-inducing just thinking about it, forget it, just ask the visitors of the God of Marriage's Shrine.)"
-R10008-8_9_1,"(The visitors of the God of Marriage's Shrine must have many lovers, why not ask here.)"
-R10008-8_10_1,Then I'll take you to ask other people who have become sworn siblings.
-R10008-8_11_1,"Old lady, is the old man well? Little girl Ling Mengdie has seen you two."
-R10008-8_11_2,"Don't call me old lady!... Ah, what a lovely couple. Especially the little girl, I want to have a cute little girl like you in the future."
-R10008-8_11_3,Have... have in the future?
-R10008-8_11_4,"Hehe, thank you."
-R10008-8_11_5,"We came to the God of Marriage's Shrine, actually we still have many doubts about this matter of fate and love. We want to ask about your story, maybe it can inspire us."
+R10008-8_7_7,"The topic has changed too quickly... Discussing martial arts under the moonlight. Dream Butterfly, you are indeed a child of the jianghu.",เจ้าเปลี่ยนเรื่องเร็วมาก... พูดคุยแลกเปลี่ยนวิทยายุทธใต้แสงจันทร์ เมิ่งเตี๋ยเจ้าเป็นสตรีแห่งยุทธภพจริงๆ
+R10008-8_7_8,"What I'm saying is the experience I gained from learning martial arts,",ที่ข้าจะบอกคือ ประสบการณ์ที่ข้าได้รับจากการเรียนวิทยายุทธต่างหาก
+R10008-8_7_9,"Go ahead, I'm all ears.",ว่ามาเลย ข้าฟังอยู่
+R10008-8_7_10,"""Knowledge gained from books is always shallow, one must practice to truly understand."" I've read a manual thousands of times, but my understanding of martial arts can't break through a certain threshold.","""ความรู้ที่ได้จากตำราย่อมตื้นเขิน ต้องลงมือทำเองจึงจะเข้าใจอย่างถ่องแท้"" แม้ข้าจะอ่านตำราลับนับพันนับหมื่นครั้ง ความเข้าใจในวิชายุทธ์ก็ยังไม่อาจก้าวข้ามขีดจำกัดหนึ่งไปได้"
+R10008-8_7_11,"Only when I start to hold a sword in my hand, do I truly understand the meaning of the various terms in the manual.",แต่เมื่อข้าได้จับกระบี่ด้วยมือตนเอง ข้าจึงเข้าใจความหมายที่แท้จริงของคำต่างๆ ในตำราลับ
+R10008-8_7_12,"Loosening the hips, passing the sword, sending the shoulder, using the waist to drive the arm, these words, you won't understand unless you really pick up the sword.",คำเช่น ย่อเอว ส่งดาบ ส่งไหล่ ใช้เอวนำแขน ล้วนเป็นสิ่งที่ไม่อาจเข้าใจได้หากไม่ได้จับกระบี่ขึ้นมาจริงๆ
+R10008-8_7_13,"Yes, that's exactly it.",ใช่ ถูกต้องแล้วล่ะ
+R10008-8_7_14,Do you remember what I said on the day we became sworn siblings?,พี่ยังจำที่ข้าพูดในวันที่เราสาบานผูกสัมพันธ์กันได้ไหม?
+R10008-8_7_15,"How could I forget? You said you wanted to test the rumors of the God of Marriage's Shrine. As a result, to verify the truth, you got yourself involved.",ข้าจะลืมได้ยังไง? เจ้าบอกอยากจะทดสอบข่าวลือของศาลเทพเจ้าด้ายแดง สุดท้ายเพื่อยืนยันข่าวลือเจ้าก็เลยได้มาผูกสัมพันธ์กับข้า
+R10008-8_7_16,Yes!,ใช่!
+R10008-8_7_17,"I still feel confused about this sworn sibling thing, it feels like I'm in a dream again, very unreal.",ข้ายังคงรู้สึกสับสนเกี่ยวกับเรื่องสาบานผูกสัมพันธ์อยู่เลย เหมือนข้าฝันไป ไม่ใช่เรื่องจริง
+R10008-8_7_18,"When I wanted to confirm whether I was really dreaming in the past, I would... open the door.",เมื่อก่อนเวลาข้าอยากยืนยันว่าตัวเองกำลังฝันอยู่จริงหรือไม่ ข้ามักจะไป... เปิดประตู
+R10008-8_7_19,Open the door?,เปิดประตู?
+R10008-8_7_20,"It's to verify, to verify what loosening the hips, passing the sword, sending the shoulder mean. To verify that after opening this door, there are still endless bookshelves.",ใช่แล้ว เพื่อพิสูจน์ พิสูจน์ว่าอะไรคือการย่อเอว ส่งดาบ ส่งไหล่ พิสูจน์ว่าเมื่อเปิดประตูนี้ออกไปแล้ว จะยังคงเป็นชั้นหนังสือที่ไม่มีที่สิ้นสุดอยู่หรือไม่กันแน่
+R10008-8_7_21,"To verify what the days after the ""forming a good bond"" that is not clearly written in the novel are like.","ข้าอยากพิสูจน์ว่าชีวิตหลังจาก ""การครองคู่อันงดงาม"" ที่ไม่ได้เขียนไว้ในนิยายนั้นเป็นอย่างไร"
+R10008-8_7_22,Ah? How do you plan to verify this?,อ่า แล้วเจ้าอยากจะพิสูจน์อย่างไรล่ะ?
+R10008-8_7_23,"What I can think of now... is to ask those who have become sworn siblings. The story in the book with an ending, the one without an ending is life.",สิ่งที่ข้าคิดได้ตอนนี้... ก็คือการไปถามผู้คนที่ได้ผูกสัมพันธ์กันแล้ว เรื่องราวในหนังสือที่มีบทสรุปนั้นจบลงแล้ว แต่สิ่งที่ไม่มีบทสรุปคือชีวิตจริง
+R10008-8_7_24,"So asking them about what happened later, maybe I can fill in the story after the ending. Then I can learn from the story what I should do.",ดังนั้นหากไปถามพวกเขาว่าเกิดอะไรขึ้นหลังจากนั้น บางทีข้าอาจจะเติมเรื่องราวที่จบไปแล้วต่อเองได้ ข้าจะได้เรียนรู้จากเรื่องราวเหล่านั้นว่าข้าควรทำอย่างไร
+R10008-8_7_25,"{PlayerGivenName} Brother, do you know many people who have become sworn siblings?",พี่{PlayerGivenName} ท่านมีคนที่รู้จักแล้วพวกเขาได้ผูกสัมพันธ์กันไหม?
+R10008-8_7_26,Ah... your question is a bit difficult to answer...,อ่า... คำถามนี้ตอบยากจริง...
+R10008-8_8_1,(People who have become sworn siblings? Should I take Dream Butterfly to ask my other girls...),(คนที่ผูกสัมพันธ์กันหรือ? ข้าควรจะพาเมิ่งเตี๋ยไปเจอสาวๆคนอื่นของข้าไหมนะ...)
+R10008-8_8_2,"(No, no, that scene is headache-inducing just thinking about it, forget it, just ask the visitors of the God of Marriage's Shrine.)",(ไม่ ไม่ ถ้าพาไป แค่คิดข้าก็ปวดหัวแน่แล้ว ช่างมัน ไปถามคนที่มาศาลเทพเจ้าด้ายแดงแถวนี้ดีกว่า)
+R10008-8_9_1,"(The visitors of the God of Marriage's Shrine must have many lovers, why not ask here.)",(คนที่มาศาลเทพเจ้าด้ายแดงก็ต้องเป็นคู่รักกัน ก็ถามมันที่นี่เนี่ยแหละ)
+R10008-8_10_1,Then I'll take you to ask other people who have become sworn siblings.,งั้นข้าจะพาเจ้าไปถามคนที่ได้ผูกสัมพันธ์กันดูนะ
+R10008-8_11_1,"Old lady, is the old man well? Little girl Ling Mengdie has seen you two.",ท่านยาย ท่านปู่ผู้นี้สุขภาพดีไหม? ผู้น้อยหลิงเมิ่งเตี๋ยได้มาพบพวกท่านทั้งสอง
+R10008-8_11_2,"Don't call me old lady!... Ah, what a lovely couple. Especially the little girl, I want to have a cute little girl like you in the future.",อย่ามีแรกข้าว่ายายนะ!... อ่า เป็นคู่รักที่น่ารักอะไรกันเช่นนี้ โดยเฉพาะสาวน้อยคนนี้ อนา่คตข้าอยากจะมีลูกสาวน่ารักเช่นเจ้าจริงๆ
+R10008-8_11_3,Have... have in the future?,มี... มีลูกสาวในอนาคต?
+R10008-8_11_4,"Hehe, thank you.",ฮิฮิ ขอบคุณท่านมากนะ
+R10008-8_11_5,"We came to the God of Marriage's Shrine, actually we still have many doubts about this matter of fate and love. We want to ask about your story, maybe it can inspire us.",จริงๆแล้วพวกเรามาที่ศาลเทพเจ้าด้ายแดงเพราะพวกเรายังมีข้อสงสัยเกี่ยวกับเรื่องของชะตาและความรัก เราเลยอยากฟังเรื่องของพวกท่าน บางทีมันอาจจะมอบแรงบันดาลใจอะไรบางอย่างให้พวกเราได้
 R10008-8_11_6,"Sure, sure. My story... Actually, he and I just met a few years ago, we haven't been blessed by the old moon yet."
-R10008-8_11_7,"I was supposed to go to the God of Marriage's Shrine with him to pray for blessings, have you seen this person?"
-R10008-8_11_8,Ah!? The person in this portrait is too young...
-R10008-8_11_9,……
-R10008-8_11_10,I'm thinking.
-R10008-8_11_11,Sigh... Let me tell you.
-R10008-8_11_12,"This old woman recently got dementia, now she's become an old fool..."
-R10008-8_11_13,"She forgot her children and daughters-in-law, forgot many things, only remembers things from when she was a teenager. She's all white-haired now, but she still thinks she's a young girl."
-R10008-8_11_14,"Oh, so that's why the old lady said you just met a few years ago..."
-R10008-8_11_15,"Looking closely at this portrait, it does look like the old man when he was young."
-R10008-8_11_16,"Actually, {Me} and her were eloping back then."
-R10008-8_11_17,Elope... eloping?
-R10008-8_11_18,"Back then, we were just teenagers. She insisted on coming to the God of Marriage's Shrine first to seek the blessing of the old moon."
-R10008-8_11_19,Did you get the blessing?
-R10008-8_11_20,"Of course we did. Look at us, we're in our seventies and eighties, and we can still visit the God of Marriage's Shrine together."
-R10008-8_11_21,"That's true, haha."
-R10008-8_11_22,So how did your families react to your elopement in the end?
-R10008-8_11_23,"In the end, they understood us. It's probably because parents always cherish their children."
-R10008-8_11_24,It was decades ago... My mother was still alive back then.
-R10008-8_11_25,"Mother, sigh... She would probably be angry if she knew I ran away like this."
-R10008-8_11_26,"The old woman's memory returned to a strange time, not too early, not too late, just the day we decided to elope to the God of Marriage's Shrine."
-R10008-8_11_27,"So when she had her dementia episodes, she would hold my young portrait and wait here for someone. There were a few times when I couldn't persuade her, she didn't recognize me, and the young me didn't come."
-R10008-8_11_28,"I've been scolded as a heartless man several times, haha. Fortunately, she forgot the next day and continued to wait for me with the portrait."
-R10008-8_11_29,"Wow... She forgot so many things, but she still remembers your promise to go to the God of Marriage's Shrine."
-R10008-8_11_30,"Thank you, old man."
-R10008-8_12_1,Greetings to you both. I am Ling Mengdie.
-R10008-8_12_2,Hmm? Are you two here to pray at the God of Marriage's Shrine too?
-R10008-8_12_3,"Actually, we have already received the blessing of the old moon."
-R10008-8_12_4,Really? That's nice.
-R10008-8_12_5,"Actually, we came to the God of Marriage's Shrine because we still have many doubts about this matter of fate and love. We want to hear your story, it might inspire us."
-R10008-8_12_6,Our story? Hahaha...
-R10008-8_12_7,"We are old now, we have been here four or five times, and every time the hard-earned Wedding Stone would explode..."
-R10008-8_12_8,Ah? This means you are not blessed by the old moon...
-R10008-8_12_9,"So what if we are not blessed by the old moon? We have been through twenty years of hardships together, and we will meet again no matter what separates us."
-R10008-8_12_10,Hmm... It sounds really tough.
-R10008-8_12_11,"I feel like I can't... keep going, it's too hard."
-R10008-8_12_12,"Today is our last time to come to the God of Marriage's Shrine. If we still don't get the blessing of the old moon, let's let each other go."
-R10008-8_12_13,Success... we did it!
-R10008-8_12_14,Finally!
-R10008-8_12_15,Is it okay for you to deceive them like this?
-R10008-8_12_16,"Oh, you found out."
-R10008-8_12_17,I just... think that they shouldn't end up like this after twenty years of hardships. And... so what if they are not blessed?
-R10008-8_12_18,"Maybe, doing this will only bring them a third, a fourth decade of hardships..."
-R10008-8_12_19,"I don't know, I didn't think that much at the time."
-R10008-8_12_20,"Wait, this is not my illusion, this is... the old moon really blessed us!"
-R10008-8_12_21,"{PlayerGivenName} brother, I'm so happy."
-R10008-8_12_22,"Really? I don't think so, did you see it wrong?"
-R10008-8_12_23,"I don't care, haha."
-R10008-8_13_1,You two... did you sneak out?
-R10008-8_13_2,Sister! You scared me...
-R10008-8_13_3,"Hahaha, sorry, sorry."
-R10008-8_13_4,"So you two, are you a couple?"
-R10008-8_13_5,"Hmm... yes, we have already received the blessing of the old moon."
-R10008-8_13_6,Wow... what does it feel like after receiving the blessing of the old moon?
-R10008-8_13_7,Huh? You're asking me... Why don't you tell me what you think it should be like?
-R10008-8_13_8,Me... How would I know! If I knew... Sigh!
-R10008-8_13_9,"So, are you two a couple?"
-R10008-8_13_10,No! Absolutely not!
-R10008-8_13_11,"No? Look around, every man and woman here are in pairs, you two are also together, and you're not a couple?"
-R10008-8_13_12,"We just! We just heard about this place, so we came to see the scenery."
-R10008-8_13_13,"Yes, we came to see the scenery!"
-R10008-8_13_14,"So, is the scenery here beautiful?"
-R10008-8_13_15,"The scenery here is indeed beautiful... In the future, I..."
-R10008-8_13_16,"No, you two must be a couple. If not, why didn't she come with someone else, but brought you along?"
-R10008-8_13_17,What the!
-R10008-8_13_18,"Let's go, Me!"
-R10008-8_13_19,"You may not be a couple now, but you will be in the future, haha!"
-R10008-8_13_20,No way!
-R10008-8_13_21,"If you two are not a couple, then I..."
-R10008-8_13_22,Hehe!
-R10008-8_13_23,What are you trying to do? Don't touch her!
-R10008-8_13_24,Let's go quickly!
-R10008-8_13_25,The girl grabbed the boy's hand and ran off in a puff of smoke.
-R10008-8_13_26,"How annoying, why did you scare them? That's mean!"
-R10008-8_13_27,"I was just giving them a push. Didn't you see the boy standing in front of the girl, and in the end, they ran off hand in hand?"
-R10008-8_13_28,Huh? Is that so?
-R10008-8_14_1,What... what are you doing?
-R10008-8_14_2,"Why are you killing without reason? I can't understand your actions, excuse me!"
-R10008-8_15_1,"After asking around, I think I have some answers in my mind."
-R10008-8_15_2,"Really? Congratulations, but why do I feel like I haven't figured out anything..."
-R10008-8_15_3,Would you stay with me here for a while?
+R10008-8_11_7,"I was supposed to go to the God of Marriage's Shrine with him to pray for blessings, have you seen this person?",ข้าควรจะไปที่ศาลเทพเจ้าด้ายแดงกับตานั่นนานแล้ว พวกเจ้าเคยเห็นชายคนนี้ไหม?
+R10008-8_11_8,Ah!? The person in this portrait is too young...,อ๊ะ!? คนในรูปนี้ทำไมหนุ่มเช่นนี้ล่ะ...
+R10008-8_11_9,……,.....
+R10008-8_11_10,I'm thinking.,เงียบหน่อย ข้ากำลังใช้ความคิด
+R10008-8_11_11,Sigh... Let me tell you.,เฮ้อ... มาข้าจะเล่าให้ฟัง
+R10008-8_11_12,"This old woman recently got dementia, now she's become an old fool...",ยายแก่คนนี้ไม่นานมานี่กลับความจำหลงลืม ตอนนี้นางแก่จนจำอะไรไม่ได้เลย...
+R10008-8_11_13,"She forgot her children and daughters-in-law, forgot many things, only remembers things from when she was a teenager. She's all white-haired now, but she still thinks she's a young girl.",นางลืมเรื่องของลูกชายและลูกสะใภ้หมดสิ้น ลืมไปหลายสิ่งมาก นางจำได้เพียงความทรงจำสมัยนางยังเยาว์วัยเท่านั้น ตอนนี้แม้ผมของนางจะหงอกขาวโพลนไปหมด แต่นางยังคิดว่าตัวเองเป็นสาววัยแรกแย้มอยู่เลย
+R10008-8_11_14,"Oh, so that's why the old lady said you just met a few years ago...",อ๋อ นั่นเป็นสาเหตุที่ท่านยายบอกว่าพึ่งเคยเจอท่านเมื่อไม่กี่ปีก่อนเองสินะ...
+R10008-8_11_15,"Looking closely at this portrait, it does look like the old man when he was young.",ดูจากรูปนี้ใกล้ๆแล้ว เหมือนจะเป็นคุณตาสมัยยังหนุ่มเลยนะ
+R10008-8_11_16,"Actually, {Me} and her were eloping back then.",จริงๆแล้ว ข้าและนางหนีตามกันมาน่ะ
+R10008-8_11_17,Elope... eloping?,หนี...หนีตามกันมา?
+R10008-8_11_18,"Back then, we were just teenagers. She insisted on coming to the God of Marriage's Shrine first to seek the blessing of the old moon.",ตอนนั้นพวกเราสมัยยังหนุ่มๆสาวๆ นางอยากจะมาที่ศาลเทพเจ้าด้ายแดงให้ได้ เพื่อจะมาขอพรจากเทพเจ้าด้ายแดงน่ะ
+R10008-8_11_19,Did you get the blessing?,แล้วพวกท่านได้พรจากท่านไหม?
+R10008-8_11_20,"Of course we did. Look at us, we're in our seventies and eighties, and we can still visit the God of Marriage's Shrine together.",แน่นอน ท่านเทพอวยพรเรา ดูสิ อายุปูนนี้เจ็ดสิบแปดสิบแล้วเห็นไหม พวกเราเลยยังพากันมาที่ศาลเทพเจ้าด้ายแดงกันบ่อยๆน่ะ
+R10008-8_11_21,"That's true, haha.",จริงด้วย ฮ่าฮ่าฮ่า
+R10008-8_11_22,So how did your families react to your elopement in the end?,แล้วครอบครัวของพวกท่านว่ายังไงเกี่ยวกับการหนีตามกันมาครั้งนั้นกัน?
+R10008-8_11_23,"In the end, they understood us. It's probably because parents always cherish their children.",ท้ายที่สุดพวกท่านก็เข้าใจ น่าจะเพราะพอเป็นปู่ย่าขึ้นมาจริงๆก็ยอมรับหลานไปเองเลยกระมัง 
+R10008-8_11_24,It was decades ago... My mother was still alive back then.,เมื่อไม่กี่สิบปีก่อน... แม่ข้านางยังมีชีวิตอยู่เลย
+R10008-8_11_25,"Mother, sigh... She would probably be angry if she knew I ran away like this.",แม่ข้า เฮ้อ... นางคงจะโกรธข้าน่าดูถ้าท่านรู้ว่าข้าหนีตามกันไปแบบนี้
+R10008-8_11_26,"The old woman's memory returned to a strange time, not too early, not too late, just the day we decided to elope to the God of Marriage's Shrine.",ความจำของยายแกบางทีก็กลับมาตอนช่วงเวลาแปลกๆ ไม่ช้าไปเร็วไป แต่มาในวันที่พวกเราหนีตามกันไปมายังที่ศาลเทพเจ้าด้ายแดงแห่งนี้นี่แหละ
+R10008-8_11_27,"So when she had her dementia episodes, she would hold my young portrait and wait here for someone. There were a few times when I couldn't persuade her, she didn't recognize me, and the young me didn't come.",เพราะงั้นในเวลาที่นางหลงๆลืมๆ นางก็จะมาถือรูปข้าสมัยยังหนุ่มๆ แล้วรอใครสักคนมาช่วยหา มีหลายครั้งที่นางเองก็ไม่เชื่อข้า ข้าไม่สามารถโน้มน้าวใจนางได้ นางก็หลงลืมข้าไป นึกว่าข้าตอนหนุ่มๆไม่มาหาแล้ว
+R10008-8_11_28,"I've been scolded as a heartless man several times, haha. Fortunately, she forgot the next day and continued to wait for me with the portrait.",ข้าล่ะโดนด่าหาว่าเป็นคนใจร้ายทิ้งนางไปได้หลายครั้งแล้ว ฮ่าฮ่าฮ่า โชคดีที่วันต่อมาเดี๋ยวนางก็ลืมแล้วก็มารอข้าพร้อมรูปนั่นใหม่อีกครั้ง
+R10008-8_11_29,"Wow... She forgot so many things, but she still remembers your promise to go to the God of Marriage's Shrine.",โอ้โห... ท่านยายลืมหลายสิ่งขนาดนี้ แต่สิ่งที่นางจำได้คือคำสัญญาที่พวกจะไปศาลเทพเจ้าด้ายแดงด้วยกันกับท่านได้อยู่เสมอมา
+R10008-8_11_30,"Thank you, old man.",ขอบคุณมากนะ ท่านตา
+R10008-8_12_1,Greetings to you both. I am Ling Mengdie.,สวัสดีท่านทั้งสองด้วย ข้าหลิงเมิ่งเตี๋ย
+R10008-8_12_2,Hmm? Are you two here to pray at the God of Marriage's Shrine too?,หืม? พวกเจ้าทั้งสองก็มากราบไหว้ศาลเทพเจ้าด้ายแดงเหมือนกันเหรอจ้ะ?
+R10008-8_12_3,"Actually, we have already received the blessing of the old moon.",จริงๆแล้ว พวกเราได้รับพรจากเทพเจ้าด้ายแดงเรียบร้อยแล้ว
+R10008-8_12_4,Really? That's nice.,จริงเหรอ? ยินดีด้วยนะจ้ะ
+R10008-8_12_5,"Actually, we came to the God of Marriage's Shrine because we still have many doubts about this matter of fate and love. We want to hear your story, it might inspire us.",จริงๆแล้วพวกเรามาที่ศาลเทพเจ้าด้ายแดงเพราะพวกเรายังมีข้อสงสัยเกี่ยวกับเรื่องของชะตาและความรัก เราเลยอยากฟังเรื่องของพวกท่าน บางทีมันอาจจะมอบแรงบันดาลใจอะไรบางอย่างให้พวกเราได้
+R10008-8_12_6,Our story? Hahaha...,เรื่องราวของเราเหรอ? ฮ่าๆๆ...
+R10008-8_12_7,"We are old now, we have been here four or five times, and every time the hard-earned Wedding Stone would explode...",พวกเราก็แก่กันแล้ว มาที่นี่สี่ห้ารอบได้แล้วล่ะจ้ะ ทุกครั้งที่มาก็ทำให้ศิลาวิวาห์ที่ได้มาอย่างอยากลำบากแตกทุกรอบเลย...
+R10008-8_12_8,Ah? This means you are not blessed by the old moon...,อ๊ะ? หมายความว่าพวกท่านไม่ได้รับการอวยพรจากเทพเจ้าด้ายแดงเหรอ...
+R10008-8_12_9,"So what if we are not blessed by the old moon? We have been through twenty years of hardships together, and we will meet again no matter what separates us.",พวกเราไม่ได้รับการอวยพรจากเทพเจ้าด้ายแดงก็ไม่เห็นเป็นไรนี่นา? เราสองเผชิญปัญหาฝ่าฟันอยู่ด้วยกันมากว่ายี่สิบปีแล้ว และเราก็จะไม่แยกจากกันหรอกไม่ว่าจะเกิดอะไรขึ้น
+R10008-8_12_10,Hmm... It sounds really tough.,หืม... ฟังดูลำบากยิ่งนัก
+R10008-8_12_11,"I feel like I can't... keep going, it's too hard.",ข้านั้นอาจจะรู้สึกไปต่อ...ไม่ไหวแล้ว บางทีมันก็รู้สึกเหนื่อยล้าเช่นกัน
+R10008-8_12_12,"Today is our last time to come to the God of Marriage's Shrine. If we still don't get the blessing of the old moon, let's let each other go.",วันนี้ก็เป็นครั้งสุดท้ายแล้วที่พวกเรามายังศาลเทพเจ้าด้ายแดง หากพวกเรายังไม่ได้รับการอวยพรจากท่าน พวกเราเองก็คงเลือกที่จะแยกย้ายกันไปเสียดีกว่า
+R10008-8_12_13,Success... we did it!,สำเร็จ... พวกเราทำได้!
+R10008-8_12_14,Finally!,ในที่สุด!
+R10008-8_12_15,Is it okay for you to deceive them like this?,หลอกพวกเขาไปเช่นนี้จะดีหรือ?
+R10008-8_12_16,"Oh, you found out.",โอ๊ะ เจ้ารู้แล้วเหรอนี่
+R10008-8_12_17,I just... think that they shouldn't end up like this after twenty years of hardships. And... so what if they are not blessed?,ข้าแค่คิดว่า... พวกเขาไม่ควรต้องมาแยกจากกันเลยหลังจากร่วมทุกข์ร่วมสุขกันมาเกือบยี่สิบปี... แล้วถ้าพวกเขาไม่ได้รับการอวยพรจะเป็นยังไงกันนะ?
+R10008-8_12_18,"Maybe, doing this will only bring them a third, a fourth decade of hardships...",บางทีเป็นเช่นนี้ต่อไปอาจจะทำให้พวกเขาพยายามอยู่ด้วยกันต่ออีกเป็นสามสิบปี สี่สิบปี ก็เป็นได้...
+R10008-8_12_19,"I don't know, I didn't think that much at the time.",ข้าไม่รู้สิ ข้าไม่ได้คิดถึงระยะเวลานานขนาดนั้นเลย
+R10008-8_12_20,"Wait, this is not my illusion, this is... the old moon really blessed us!",เดี๋ยว นี่ไม่ใช่ภาพลวงตาที่ข้าสร้าง นี่มัน... เทพเจ้าด้ายแดงอวยพรพวกเขาจริงๆต่างหาก!
+R10008-8_12_21,"{PlayerGivenName} brother, I'm so happy.",พี่{PlayerGivenName} ข้ามีความสุขมากจริงๆ
+R10008-8_12_22,"Really? I don't think so, did you see it wrong?",จริงเหรอ? ข้าไม่เห็นเช่นนั้นเลย เจ้ามองผิดรึเปล่า?
+R10008-8_12_23,"I don't care, haha.",ข้าไม่สนหรอก ฮิฮิ
+R10008-8_13_1,You two... did you sneak out?,พวกท่านทั้งสอง... ได้แอบออกมาด้วยกันหรือเปล่า?
+R10008-8_13_2,Sister! You scared me...,น้องสาว! เจ้าทำข้าตกใจหมด...
+R10008-8_13_3,"Hahaha, sorry, sorry.",ฮ่าฮ่าฮ่า ข้าขออภัยด้วย ขออภัย
+R10008-8_13_4,"So you two, are you a couple?",พวกเจ้าทั้งสองก็เป็นคู่รักกันหรือ?
+R10008-8_13_5,"Hmm... yes, we have already received the blessing of the old moon.",อืม... ใช่ พวกเราได้รับการอวยพรจากท่านเทพเจ้าด้ายแดงมาแล้ว
+R10008-8_13_6,Wow... what does it feel like after receiving the blessing of the old moon?,ว้าว...ได้รับการอวยพรจากเทพเจ้าด้ายแดงแล้วรู้สึกยังไงบ้างล่ะ?
+R10008-8_13_7,Huh? You're asking me... Why don't you tell me what you think it should be like?,หืม? เดี๋ยวนะทำไมท่านมาถามข้าล่ะ... ข้าต้องถามพวกท่านสิว่ามันเป็นยังไง?
+R10008-8_13_8,Me... How would I know! If I knew... Sigh!,ข้าเหรอ... ข้าจะไปรู้ได้ยังไง ถ้าข้ารู้นะ... เฮ้อ!
+R10008-8_13_9,"So, are you two a couple?",พวกท่านทั้งสองเป็นคู่รักกันหรือ?
+R10008-8_13_10,No! Absolutely not!,ไม่ๆ! ไม่มีทาง!
+R10008-8_13_11,"No? Look around, every man and woman here are in pairs, you two are also together, and you're not a couple?",ไม่เนี่ยนะ? ดูสิรอบๆมีแต่หนุ่มสาวจับคู่กัน พวกท่านก็มาจับคู่กันอยู่ จะไม่ใช่คู่รักกันได้ยังไง?
+R10008-8_13_12,"We just! We just heard about this place, so we came to see the scenery.",พวกเราแค่! พวกเราแค่ได้ยินเรื่องสถานที่แห่งนี้ เลยมาแวะชมความงามเฉยๆ
+R10008-8_13_13,"Yes, we came to see the scenery!",ใช่ พวกเรามาชมวิวเฉยๆ!
+R10008-8_13_14,"So, is the scenery here beautiful?",แล้ววิวทิวทัศน์ที่นี่งดงามไหมล่ะ?
+R10008-8_13_15,"The scenery here is indeed beautiful... In the future, I...",ทิวทัศน์ที่นี่งดงามแน่นอน... ในอนาคตนั้น ข้า..
+R10008-8_13_16,"No, you two must be a couple. If not, why didn't she come with someone else, but brought you along?",ไม่ๆ พวกเจ้าทั้งสองต้องเป็นคู่รักแน่ๆ ไม่งั้นทำไมนางจะพาเจ้ามาด้วยทำไมเล่า ไปพาคนอื่นมามิดีกว่ารึ?
+R10008-8_13_17,What the!,อะไรเนี่ย!
+R10008-8_13_18,"Let's go, Me!",ไปกันเถอะ เหมอ!
+R10008-8_13_19,"You may not be a couple now, but you will be in the future, haha!",พวกเจ้าทั้งคู่ยังไม่ได้เป็นคู่รักตอนนี้ แต่อนาคตล่ะเป็นแน่ ฮ่าฮ่าฮ่า!
+R10008-8_13_20,No way!,ไม่มีทาง!
+R10008-8_13_21,"If you two are not a couple, then I...",ถ้าพวกเจ้าทั้งคู่ไม่ได้เป็นคู่รักกันแล้วละก็ ถ้างั้นข้าก็จะ...
+R10008-8_13_22,Hehe!,หึหึ ฮ่าฮ่า เงี๊ยะ!
+R10008-8_13_23,What are you trying to do? Don't touch her!,เฮ้ยจะทำอะไรวะ? อย่ามาแตะต้องนางเชียวนะ!
+R10008-8_13_24,Let's go quickly!,รีบไปกันเถอะ!
+R10008-8_13_25,The girl grabbed the boy's hand and ran off in a puff of smoke.,สาวน้อยจับมือชายหนุ่มและวิ่งหนีไปด้วยกันฝุ่นตลบเลย
+R10008-8_13_26,"How annoying, why did you scare them? That's mean!",น่ารำคาญจริงๆ พี่ไปขู่พวกเขาทำไมกัน? ใจร้ายจริงๆ!
+R10008-8_13_27,"I was just giving them a push. Didn't you see the boy standing in front of the girl, and in the end, they ran off hand in hand?",ข้าแค่ช่วยผลักดันให้เฉยๆ เจ้าไม่เห็นเหรอว่าหมอนั่นเอาตัวมาบังสาวน้อยคนนั้น และตอนสุดท้ายก็ได้จับมือหนีไปด้วยกันน่ะ?
+R10008-8_13_28,Huh? Is that so?,หืม? เป็นงั้นเหรอ?
+R10008-8_14_1,What... what are you doing?,พี่... พี่ทำอะไรลงไปน่ะ?
+R10008-8_14_2,"Why are you killing without reason? I can't understand your actions, excuse me!",พี่ไปฆ่าคนโดยไม่มีเหตุผลทำไม? ข้าไม่เข้าใจสิ่งที่พี่ทำเลย ขอโทษด้วยนะ!
+R10008-8_15_1,"After asking around, I think I have some answers in my mind.",หลังจากที่ถามคนรอบๆนี้ไปแล้ว ข้าว่าข้ามีคำตอบในใจของข้าเรียบร้อยแล้ว
+R10008-8_15_2,"Really? Congratulations, but why do I feel like I haven't figured out anything...",จริงเหรอ? ยินดีด้วย แต่ทำไมเหมือนข้ายังไม่รู้อะไรเลยละเนี่ย...
+R10008-8_15_3,Would you stay with me here for a while?,ท่านมาอยู่ข้างๆข้าสักครู่ได้ไหม?
 R10008-8_15_4,Why not?,ทำไมจะไม่เล่า!
-R10008-8_15_5,"Actually, when I first prepared to ask people, I was hoping to meet a couple who eloped."
-R10008-8_15_6,Eloped?
-R10008-8_15_7,"Isn't eloping the most common thing in romance novels? And the matchmaker is the character who stands with the lovers against their families, so it's normal for eloping couples to appear in the God of Marriage's Shrine!"
-R10008-8_15_8,"I did see them, but they were not young men and women, but from forty or fifty years ago."
-R10008-8_15_9,"It's the past, but also the present. No matter how much the old lady forgets, today, tomorrow, every day, she will remember the courage in her heart to elope."
-R10008-8_15_10,"And this courage was destined to be rewarded forty or fifty years ago, right?"
-R10008-8_15_11,Yes! I love this story!
-R10008-8_15_12,"Actually, when I was reading, I thought, if we eloped, my brother... Pfft~"
-R10008-8_15_13,"What, what were you going to say?"
-R10008-8_15_14,"No, nothing. Speaking of that middle-aged couple, they might be the kind that wouldn't be written into stories. Most people have very ordinary lives."
-R10008-8_15_15,But I also admire their tenacity to decide to be together after all the ups and downs.
-R10008-8_15_16,"Whether they were blessed by the matchmaker in the end... After all, does it matter if the matchmaker blesses them or not."
-R10008-8_15_17,"Yeah, if his old man doesn't agree, can't the two of them be together? Then the character of the matchmaker would be the same as the family that obstructs love in elopement stories."
-R10008-8_15_18,"Poor matchmaker, his position keeps changing in your heart."
-R10008-8_15_19,"Pfft, maybe harmless statues are destined to be interpreted in various ways."
-R10008-8_15_20,And that young boy and girl.
-R10008-8_15_21,"...{PlayerGivenName} brother, have you ever really looked at the scenery of the God of Marriage's Shrine?"
-R10008-8_15_22,"(People usually rush in and out of the God of Marriage's Shrine, only walking the straight line from the entrance to the shrine, never really taking in the scenery.)"
-R10008-8_15_23,Didn't we take a look last time we were here?
-R10008-8_15_24,Hmm...
-R10008-8_15_25,"Actually, the God of Marriage's Shrine is quite beautiful."
-R10008-8_15_26,Huff...
-R10008-8_15_27,I've made up my mind.
-R10008-8_15_28,"{PlayerGivenName} brother, let's tell my brother about us, let's tell everyone!"
-R10008-8_15_29,I've decided to get ready!
-R10008-8_15_30,"Great! But, your brother won't make things difficult for me, will he?"
-R10008-8_15_31,"No, he won't! My brother is actually a very nice person."
-R10008-8_15_32,"(Well, that's debatable. There's bound to be a showdown between me and Ling Hongxuan this time.)"
-R10008-8_15_33,"And, he definitely won't make things difficult for you, because making things difficult for you would be making things difficult for me!"
-R10008-8_15_34,"Alright... But, how are we going to tell your brother about this?"
-R10008-8_15_35,"Hmm... Let me do the talking, my brother tends to listen to me."
-R10008-8_15_36,"(At this point, it's more than just ""listening""...)"
-R10008-8_15_37,"(But when it comes to this kind of thing, even the most obedient person would freak out, right?)"
-R10008-8_15_38,"Let's go, what are you thinking about?"
-R10008-8_15_39,"Ah, nothing, let's go."
-R10008-8_15_40,"On your way to run away from the God of Marriage's Shrine, Ling Mengdie gently tugged at your hand, then let go as if it were rainwater slipping away.\nIn the end, you held her hand tightly, and the two of you walked out of the God of Marriage's Shrine hand in hand."
-R10008-8_16_1,Brother! Come with us to the Imperial School!
-R10008-8_16_2,Imperial School?
-R10008-8_16_3,Imperial School?
-R10008-8_16_4,"Yes, the Imperial School in Daliang City, where we used to study together."
-R10008-8_16_5,"Why do you suddenly want to go to the Imperial School? Wait, who's ""us"", besides you and me?"
-R10008-8_16_6,"Of course, it includes me."
-R10008-8_16_7,Why are you joining us in reminiscing about the past?
-R10008-8_16_8,Brother! I'm the one who wanted to bring him along.
-R10008-8_16_9,"Why bring him along, then I have to go."
-R10008-8_17_1,"I used to sit in this spot when I was in school, hehe."
-R10008-8_17_2,"The candied haws I hid here are still here, yuck, so disgusting, I'll throw them away."
-R10008-8_17_3,"This spot must be the teacher's favorite spot for asking questions, right?"
-R10008-8_17_4,"Ah, you just reminded me of those days, I'm still terrified of being found out that I didn't learn, probably because of what happened then."
-R10008-8_17_5,Let's go see the teacher.
-R10008-8_18_1,Strange... Where did the teacher go?
-R10008-8_18_2,"(Oh no, the teacher of the Imperial School has been... by me...)"
-R10008-8_18_3,Do you know where the teacher went?
-R10008-8_18_4,It's him! He's the one who killed the teacher!
-R10008-8_18_5,"(I'm doomed, I actually let these kids go back then...)"
-R10008-8_18_6,"It's you, {PlayerName}? Why did you do this?"
-R10008-8_18_7,"I'm sorry, I can't forgive what you've done. Excuse me."
-R10008-8_19_1,You... aren't you the Ling Hongxuan and Ling Mengdie siblings?
-R10008-8_19_2,"Teacher, long time no see."
-R10008-8_19_3,"Teacher, long time no see."
-R10008-8_19_4,"These two were my best students, the sister was even more talented than the brother."
-R10008-8_19_5,"It's a pity that the sister got a strange disease later on and had to slumber all day, so she stopped studying."
+R10008-8_15_5,"Actually, when I first prepared to ask people, I was hoping to meet a couple who eloped.",จริงๆแล้วทีแรกที่ข้าไล่ถามผู้อื่นเมื่อครู่ ในใจข้าตั้งใจว่าอยากพบคู่รักที่หนีตามกันมาดู
+R10008-8_15_6,Eloped?,หนีตามกันมา?
+R10008-8_15_7,"Isn't eloping the most common thing in romance novels? And the matchmaker is the character who stands with the lovers against their families, so it's normal for eloping couples to appear in the God of Marriage's Shrine!",ไม่ใช่ว่าการหนีตามกันมาเป็นเรื่องทั่วไปในนิยายรักเช่นนั้นหรือ? แถมยังมีแม่สื่อที่คอยช่วยคู่รักทั้งสองต่อต้านครอบครัวของทั้งสองฝ่าย มันก็ต้องเป็นเรื่องธรรมดาสิที่คู่รักที่หนีตามกันมาจะมาที่ศาลเทพเจ้าด้ายแดงแห่งนี้!
+R10008-8_15_8,"I did see them, but they were not young men and women, but from forty or fifty years ago.",ข้าก็เห็นนะ แต่เหมือนจะเป็นหนุ่มสาวหนีตามกันมาตั้งแต่เมื่อสี่สิบหรือห้าสิบปีที่แล้วนะ
+R10008-8_15_9,"It's the past, but also the present. No matter how much the old lady forgets, today, tomorrow, every day, she will remember the courage in her heart to elope.",มันก็เป็นอดีต แต่ก็ยังเป็นดั่งปัจจุบัน ไม่ว่าท่านยายนางจะลืมวันนี้ วันพรุ่งนี้ หรือทุกวันก็ตามแต่ นางจะยังคงจดจำความกล้าในวันที่นางได้หนีตามกันมากับคุณปู่คนนั้น
+R10008-8_15_10,"And this courage was destined to be rewarded forty or fifty years ago, right?",และความกล้านี้ทำให้พวกเขาได้ต้องชะตาสมพงศ์กันนานนับสี่สิบปีห้าสิบปีสินะ?
+R10008-8_15_11,Yes! I love this story!,ใช่! ข้าชอบเรื่องราวนี้มาก!
+R10008-8_15_12,"Actually, when I was reading, I thought, if we eloped, my brother... Pfft~",จริงๆแล้ว ตอนที่ข้าอ่านนิยายนั่น ข้าก็คิด... ถ้าหากว่าเราหนีตามกันไป... จากพี่ชายข้า... อุ้ฟ
+R10008-8_15_13,"What, what were you going to say?",อะไรนะ เจ้าจะพูดว่าอะไรนะเมื่อครู่?
+R10008-8_15_14,"No, nothing. Speaking of that middle-aged couple, they might be the kind that wouldn't be written into stories. Most people have very ordinary lives.",ม..ไม่มีอะไร พูดถึงคู่รักวัยกลางคนสองคนนั้น พวกเขาน่าจะเป็นเรื่องราวธรรมดาทั่วไปที่ไม่ได้ไปอยู่ในนิยายอะไรได้ ชีวิตดั่งสามัญปุถุชนทั่วไป
+R10008-8_15_15,But I also admire their tenacity to decide to be together after all the ups and downs.,แต่ข้าก็นับถือในความมุมานะที่พวกเขาทั้งสองจะอยู่ด้วยกันหลังผ่านทุกข์ผ่านสุขมาอย่างยาวนานนะ
+R10008-8_15_16,"Whether they were blessed by the matchmaker in the end... After all, does it matter if the matchmaker blesses them or not.",ไม่ว่าพวกเขาจะได้รับพรจากเทพเจ้าหรือไม่... สุดท้ายแล้วมันก็ไม่สำคัญหรอกว่าพวกเขาจะได้รับการอวยพรไหม
+R10008-8_15_17,"Yeah, if his old man doesn't agree, can't the two of them be together? Then the character of the matchmaker would be the same as the family that obstructs love in elopement stories.",ใช่เลย แค่เทพเจ้าด้ายแดงนี่ไม่เห็นด้วยแล้วคนสองคนจะอยู่ร่วมกันมิได้เชียวหรือ? ถ้าอย่างนั้นข้าว่าเทพเจ้าองค์นี้นี่เหมือนตระกูลที่ไม่ยอมให้ลูกสาวกับลูกเขยแต่งงานกันในเรื่องแนวหนีตามกันเป็นแน่แท้
+R10008-8_15_18,"Poor matchmaker, his position keeps changing in your heart.",โถ เทพเจ้าด้ายแดงผู้น่าสงสาร สถานะของท่านในใจเจ้าเปลี่ยนไปเรื่อยเลยนะ 
+R10008-8_15_19,"Pfft, maybe harmless statues are destined to be interpreted in various ways.",ฮิฮิ ดูเหมือนรูปปั้นที่ไร้พิษสงนี้จะถูกชะตากำหนดมาให้ถูกตีความได้หลายแบบนะ
+R10008-8_15_20,And that young boy and girl.,สุดท้ายก็คู่รักชายและหญิงวัยรุ่นนั่น
+R10008-8_15_21,"...{PlayerGivenName} brother, have you ever really looked at the scenery of the God of Marriage's Shrine?",พี่{PlayerGivenName} ท่านเคยได้ตั้งใจชมบรรยากาศรอบๆศาลเทพเจ้าด้ายแดงดีๆไหม?
+R10008-8_15_22,"(People usually rush in and out of the God of Marriage's Shrine, only walking the straight line from the entrance to the shrine, never really taking in the scenery.)",(ผู้คนต่างเร่งรีบเข้ามาและจากไปในศาลเทพเจ้าด้ายแดงแห่งนี้ มีเพียงตรงเข้ามาจากทางเข้าแล้วก็ไปยังศาลเจ้าเลย ไม่เคยได้ชมความงามรอบๆจริงจังกัน)
+R10008-8_15_23,Didn't we take a look last time we were here?,ไม่ใช่ว่าครั้งที่แล้วที่เรามาเราก็ชมมันไปแล้วหรือ?
+R10008-8_15_24,Hmm...,หืม....
+R10008-8_15_25,"Actually, the God of Marriage's Shrine is quite beautiful.",จริงๆแล้ว ศาลเทพเจ้าด้ายแดงแห่งนี้ก็สวยดีนะ
+R10008-8_15_26,Huff...,ฮึบ...
+R10008-8_15_27,I've made up my mind.,ข้าตัดสินใจแล้ว
+R10008-8_15_28,"{PlayerGivenName} brother, let's tell my brother about us, let's tell everyone!",พี่{PlayerGivenName} ไปบอกเรื่องนี้กับพี่ชายของข้ากันเถอะ ไปบอกทุกคนกันเลย!
+R10008-8_15_29,I've decided to get ready!,ข้าตัดสินใจแล้วว่าข้าพร้อมแล้ว!
+R10008-8_15_30,"Great! But, your brother won't make things difficult for me, will he?",เยี่ยมเลย! แต่ไม่ใช่ว่าพี่ชายของเจ้าจะทำให้ข้าลำบากใจแน่ ใช่ไหมล่ะนั่น?
+R10008-8_15_31,"No, he won't! My brother is actually a very nice person.",ไม่หรอก! ท่านพี่เป็นคนดีกว่าที่คิดนะ
+R10008-8_15_32,"(Well, that's debatable. There's bound to be a showdown between me and Ling Hongxuan this time.)",(เอ่อ นั่นก็น่าเถียงนะ ข้าเดาได้เลยว่าหลิงหงซวนกับข้าต้องเตรียมชกกันซะแล้วแน่เลย)
+R10008-8_15_33,"And, he definitely won't make things difficult for you, because making things difficult for you would be making things difficult for me!",เขาคงไม่ทำให้พี่ลำบากใจหรอก เพราะถ้าทำพี่ลำบากใจก็เท่ากับทำข้าลำบากใจเช่นกัน!
+R10008-8_15_34,"Alright... But, how are we going to tell your brother about this?",เอางั้นก็ได้... แต่เราจะไปบอกพี่ชายของเจ้ายังไงกันดี?
+R10008-8_15_35,"Hmm... Let me do the talking, my brother tends to listen to me.",อืม... ขอข้าคิดก่อนนะ ท่านพี่น่าจะฟังข้า
+R10008-8_15_36,"(At this point, it's more than just ""listening""...)","(มาถึงจุดนี้ข้าว่ามันน่าจะเกินกว่า ""ฟัง"" แล้วกระมัง...)"
+R10008-8_15_37,"(But when it comes to this kind of thing, even the most obedient person would freak out, right?)",(แต่ถ้าเป็นเรื่องเช่นนี้ ต่อให้เป็นคนที่เชื่อฟังแค่ไหนก็ต้องตกใจบางแหละมั้ง?)
+R10008-8_15_38,"Let's go, what are you thinking about?",ไปกันเถอะ พี่มัวคิดอะไรอยู่ล่ะนั่น?
+R10008-8_15_39,"Ah, nothing, let's go.",ไม่มีอะไรหรอก ไปกันเถอะ
+R10008-8_15_40,"On your way to run away from the God of Marriage's Shrine, Ling Mengdie gently tugged at your hand, then let go as if it were rainwater slipping away.\nIn the end, you held her hand tightly, and the two of you walked out of the God of Marriage's Shrine hand in hand.","ระหว่างทางที่พวกเจ้าออกจากศาลเทพเจ้าด้ายแดง หลิงเมิ่งเตี๋ยดึงมือเจ้าเบาๆ แล้วปล่อยมือออกราวกับสายฝนที่ไหลผ่าน \nแต่ในที่สุดเจ้าก็จับมือนางไว้แน่น พวกเจ้าทั้งสองเดินจูงมือกันออกจากศาลเทพเจ้าด้ายแดงไปด้วยกัน"
+R10008-8_16_1,Brother! Come with us to the Imperial School!,ท่านพี่ ไปสำนักบัณฑิตหลวงด้วยกันกับเราเร็ว!
+R10008-8_16_2,Imperial School?,สำนักบัณฑิตหลวง?
+R10008-8_16_3,Imperial School?,สำนักบัณฑิตหลวง?
+R10008-8_16_4,"Yes, the Imperial School in Daliang City, where we used to study together.",ใช่ สำนักบัณฑิตหลวงในเมืองต้าเหลียงที่พวกเราเคยไปเล่าเรียนกันไง
+R10008-8_16_5,"Why do you suddenly want to go to the Imperial School? Wait, who's ""us"", besides you and me?","ทำไมจู่ๆเจ้าอยากไปสำนักบัณฑิตหลวงละเนี่ย? เดี๋ยวนะ ""เรา"" ที่ว่านี่ใคร แค่เจ้ากับข้าใช่ไหม?"
+R10008-8_16_6,"Of course, it includes me.",แน่นอนสิว่าข้าด้วย
+R10008-8_16_7,Why are you joining us in reminiscing about the past?,เดี๋ยวแล้วเจ้าจะมาระลึกความหลังอะไรกับพวกเราด้วยละเนี่ย?
+R10008-8_16_8,Brother! I'm the one who wanted to bring him along.,ท่านพี่! เป็นข้าเองที่อยากพาเขาไปด้วยนะ
+R10008-8_16_9,"Why bring him along, then I have to go.",ถึงจะไม่เข้าใจว่าจะเอาไปทำไม แต่ข้าไปด้วยก็ได้อยู่แล้ว
+R10008-8_17_1,"I used to sit in this spot when I was in school, hehe.",ข้าเคยนั่งอยู่ที่นั่งนี้ตอนที่มาเรียนล่ะ ฮิฮิ
+R10008-8_17_2,"The candied haws I hid here are still here, yuck, so disgusting, I'll throw them away.",ผลไม้เคลือบน้ำตาลที่ข้าซ่อนไว้ยังอยู่เลย อี๋ น่ารังเกียจจริง ข้าโยนมันทิ้งไปดีกว่า
+R10008-8_17_3,"This spot must be the teacher's favorite spot for asking questions, right?",ที่นั่งตรงนี้เป็นที่ที่อาจารย์ชอบถามคำถามบ่อยๆไม่ใช่เหรอ?
+R10008-8_17_4,"Ah, you just reminded me of those days, I'm still terrified of being found out that I didn't learn, probably because of what happened then.",อ๊ะ เจ้าทำให้ข้าหวนนึกถึงเมื่อสมัยก่อนเลย ข้ายังกลัวอยู่เลยว่าจะถูกใครรู้เข้าว่าข้าไม่ตั้งใจเรียนเรื่องต่างๆ อาจจะเป็นเพราะเหตุการณ์ในตอนนั้นก็เป็นได้
+R10008-8_17_5,Let's go see the teacher.,ไปพบอาจารย์กันเถิด
+R10008-8_18_1,Strange... Where did the teacher go?,แปลกจริง... อาจารย์ไปไหนกันนะ?
+R10008-8_18_2,"(Oh no, the teacher of the Imperial School has been... by me...)",(เวรล่ะ อาจารย์ของสำนักบัณฑิตหลวงโดนข้าจัดการไปแล้วนี่หว่า...)
+R10008-8_18_3,Do you know where the teacher went?,เจ้ารู้ไหมว่าท่านอาจารย์ไปไหนจ้ะ?
+R10008-8_18_4,It's him! He's the one who killed the teacher!,หมอนั่นไง หมอนั่นเป็นคนฆ่าท่านอาจารย์!
+R10008-8_18_5,"(I'm doomed, I actually let these kids go back then...)",(โอ้ยเวรแล้ว ข้าปล่อยไอ้เด็กพวกนี้รอดไปได้ตอนนั้น...)
+R10008-8_18_6,"It's you, {PlayerName}? Why did you do this?",เป็นพี่{PlayerName}จริงหรือ? ท่านทำไปทำไมกัน?
+R10008-8_18_7,"I'm sorry, I can't forgive what you've done. Excuse me.",ข้าขออภัยด้วย ข้าไม่อาจให้อภัยในสิ่งที่ท่านทำลงไปได้ ขอตัว
+R10008-8_19_1,You... aren't you the Ling Hongxuan and Ling Mengdie siblings?,พวกเจ้า... พวกเจ้าคือสองพี่น้องหลิงหงซวนและหลิงเมิ่งเตี๋ยใช่ไหม?
+R10008-8_19_2,"Teacher, long time no see.",ท่านอาจารย์ ไม่เจอกันนานเลยนะ
+R10008-8_19_3,"Teacher, long time no see.",ท่านอาจารย์ ไม่เจอกันนานเลยนะ
+R10008-8_19_4,"These two were my best students, the sister was even more talented than the brother.",ทั้งคู่เป็นศิษย์ที่เก่งที่สุดของข้าเลย แม้น้องสาวจะเก่งกว่าพี่ชายหน่อยๆก็เถอะ
+R10008-8_19_5,"It's a pity that the sister got a strange disease later on and had to slumber all day, so she stopped studying.",น่าเสียดายที่คนน้องไปถูกโรคประหลายเข้าจนทำให้หลับไหลทั้งวัน สุดท้ายก็หยุดเรียนไป
 R10008-8_19_6,"Little sister Ling, how's your illness now?"
 R10008-8_19_7,"Thank you for your concern, teacher. Thanks to {PlayerName}'s efforts, my illness has completely healed."
 R10008-8_19_8,"Completely healed? That's good, that's good."
@@ -4258,7 +4258,7 @@ DNJH-1_0_4_2,Everyone in the world knows... It seems something must have happene
 DNJH-1_0_4_3,"Is it Jiuli Tribe or Melody House... It shouldn't be, those people don't have such ability...",หรือว่าจะเกี่ยวกับเผ่าจิ่วลี่ไม่ก็ตำหนักบทเพลง... ไม่น่าใช่ ทั้งสองดูไม่น่าจะมีความสามารถที่ทำอะไรเช่นนี้ได้...
 DNJH-1_0_4_4,"It shouldn't be Beast Manor either... Could it be...\nLiu Fuming?","หรือจะเป็นหมู่ตึกหมื่นอสูร ไม่แน่... หรือว่า...\nหลิวฝูหมิง?"
 DNJH-1_0_4_5,"If he uses the influence of Tower of Prosperity, he might be able to do it...",ถ้าเจ้านั่นใช้อิทธิพลของหอเจิดจรัส ก็อาจจะทำได้ก็ได้...
-DNJH-1_0_5_1,"Liu Fuming! Letting him escape at Bailing Mountain was too lenient!\n{PlayerSurName} Brother, I haven't settled the score with him yet!"
+DNJH-1_0_5_1,"Liu Fuming! Letting him escape at Bailing Mountain was too lenient!\n{PlayerSurName} Brother, I haven't settled the score with him yet!","หลิวฝูหมิง! ปล่อยให้ไอ้หมอนั่นรอดไปได้ที่ภูเขาไป๋หลิงดูจะเมตตามันมากไปแล้ว!\nน้อง{PlayerSurName} ข้ายังไม่ได้ชำระแค้นกับมันเลย!"
 DNJH-1_0_6_1,"Liu Fuming... It's something that little man would do! {PlayerSurName} Young Master, let's go meet him!"
 DNJH-1_0_7_1,"Let's go ask him, if he's back he should be at Tower of Prosperity in Daliang City.",ไปถามมันแล้วกัน น่าจะอยู่ที่หอเจิดจรัสในเมืองต้าเหลียงนั่นแหละ
 DNJH-1_1_1_1,"It seems Liu Fuming is not in the tower, where could he have gone..."
