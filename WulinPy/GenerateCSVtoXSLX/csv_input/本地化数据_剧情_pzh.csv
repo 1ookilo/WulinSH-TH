@@ -2617,60 +2617,60 @@ R10011-1_0_23,"You guys go back to school quickly, so that the gentleman can't f
 R10011-1_0_24,Okay! Goodbye big brother!
 R10011-1_0_25,The kid is leaving.
 R10011-1_0_26,I didn't expect Marshal Ye to become a gentleman after retiring... It seems that he has passed on the hope of restoring the country to the next generation...
-R10008-8_0_1,"I remember Dream Butterfly said five days ago that she wanted to find the answer in the book about what should happen after the fate is tied, I wonder if she has found it now.",ห้าวันก่อน Dream Butterfly เอ่ยถึงตำราโบราณ นางค้นหาคำตอบในหนังสือว่าจะเกิดอะไรขึ้นหลังจากโชคชะตาผูกมัด นางค้นพบแล้วหรือยังหนอ?
-R10008-8_0_2,Why not go and ask her directly.,เหตุใดมิถามนางตรงๆ?
+R10008-8_0_1,"I remember Dream Butterfly said five days ago that she wanted to find the answer in the book about what should happen after the fate is tied, I wonder if she has found it now.",ข้านึกขึ้นได้เรื่องคำพูดของเมิ่งเตี๋ยเมื่อห้าวันที่แล้ว นางบอกว่าจะไปหาคำตอบในหนังสือว่าหลังจากที่ได้ผูกสัมพันธ์กันแล้ว ควรจะทำอย่างไร ข้าไม่รู้ว่าตอนนี้นางจะหาพบคำตอบหรือยังนะ
+R10008-8_0_2,Why not go and ask her directly.,เหตุใดมิไปถามนางตรงๆเลยเล่า?
 R10008-8_1_1,"{PlayerGivenName} brother, you didn't tell others about you and me, did you?",{PlayerGivenName} ท่านไม่ได้บอกเรื่องของเรากับคนอื่นใช่ไหม?
 R10008-8_1_2,Don't worry! I didn't tell anyone!,ไม่ต้องกังวล ข้าไม่ได้บอกใคร
-R10008-8_1_3,"Haha, that's good...\nSigh..."
-R10008-8_1_4,"Dream Butterfly, why are you still sighing?"
-R10008-8_1_5,"{PlayerGivenName} brother, do you remember what I told you five days ago?"
-R10008-8_1_6,"I remember, you said you wanted to find out from the book what should happen after the blessing of the God of Marriage.",ข้าจำได้ เจ้าบอกว่า เจ้าต้องการค้นหาจากหนังสือว่าหลังจากได้รับพรจากเทพเจ้าแห่งการแต่งงานแล้วจะเป็นอย่างไรต่อไป
+R10008-8_1_3,"Haha, that's good...\nSigh...","ฮ่าฮ่า ดีแล้ว...\nเฮ้อ..."
+R10008-8_1_4,"Dream Butterfly, why are you still sighing?",เป็นอะไรไปเมิ่งเตี๋ย เจ้าถอนหายใจทำไม?
+R10008-8_1_5,"{PlayerGivenName} brother, do you remember what I told you five days ago?",พี่{PlayerGivenName} ท่านจำที่ข้าพูดเรื่องห้าวันที่แล้วได้ไหม
+R10008-8_1_6,"I remember, you said you wanted to find out from the book what should happen after the blessing of the God of Marriage.",ข้าจำได้ เจ้าบอกว่าจะไปหาคำตอบในหนังสือว่าหลังจากที่ได้ผูกสัมพันธ์กันที่ศาลเทพเจ้าด้ายแดงแล้ว มันจะเป็นยังไงต่อ
 R10008-8_1_7,"Five days have passed, and I still haven't found anything. I've racked my brains, but I can't figure it out.",ผ่านมาห้าวันแล้ว ข้าไม่พบอะไรเลย แม้จะพยายามคิดแค่ไหนแต่ข้าก็ไม่อาจจะเข้าใจได้
-R10008-8_1_8,"It feels like I'm about to take an exam, but I haven't finished reviewing the book...",ข้านั้นรู้สึกเหมือนจะเข้าสอบ แต่ยังอ่านหนังสือไม่เข้าใจ
-R10008-8_1_9,(Don't use such a scary metaphor!)
-R10008-8_1_10,"Dream Butterfly, which books are you looking for the answer in?","Dream Butterfly, เจ้ากำลังหาคำตอบจากหนังสือเล่มไหนรึ?"
-R10008-8_1_11,I... I'm looking in the Talented Scholars and Beautiful Ladies Novel.
-R10008-8_1_12,Talented Scholars and Beautiful Ladies Novel?
-R10008-8_1_13,"Where else can I find it!\nAnd these writers are too bad, they suddenly end the book after writing about the man and woman going through hardships and forming a good bond."
-R10008-8_1_14,But what I want to understand is what happens after the good bond is formed.,แต่สิ่งที่ข้าอยากจะเข้าใจคือสิ่งที่จะเกิดขึ้นหลังจากความผูกพันที่เกิดขึ้น
-R10008-8_1_15,Sigh...
-R10008-8_1_16,"How about... we go to the God of Marriage's Shrine again, just the two of us."
-R10008-8_1_17,Go to the God of Marriage's Shrine? Do you think we will find the answer there?,ไปที่ศาลเจ้าวิวาห์? เจ้าคิดว่าเราจะพบคำตอบได้จากที่นั้นรึ?
+R10008-8_1_8,"It feels like I'm about to take an exam, but I haven't finished reviewing the book...",ข้านั้นรู้สึกเหมือนจะเข้าสอบ แต่ยังอ่านหนังสือไม่เข้าใจเลย...
+R10008-8_1_9,(Don't use such a scary metaphor!),(ทำไมเปรียบเปรยน่ากลัวเช่นนั้นเล่า!)
+R10008-8_1_10,"Dream Butterfly, which books are you looking for the answer in?",เมิ่งเตี๋ย เจ้ากำลังหาคำตอบจากหนังสือเล่มไหนรึ?
+R10008-8_1_11,I... I'm looking in the Talented Scholars and Beautiful Ladies Novel.,ข้า... ข้าอ่านพวกหนังสือนิยายของบัณฑิตผู้มากความสามารถและสตรีที่แสนงดงามเท่านั้น
+R10008-8_1_12,Talented Scholars and Beautiful Ladies Novel?,บัณฑิตผู้มากความสามารถและสตรีที่แสนงดงาม?
+R10008-8_1_13,"Where else can I find it!\nAnd these writers are too bad, they suddenly end the book after writing about the man and woman going through hardships and forming a good bond.","ข้าจะหาที่ไหนได้อีกเล่า!\nแล้วคนแต่งเรื่องนี้นี่ใช้ไม่ได้เลย เล่นตัดจบแค่ว่าชายและหญิงคู่นี้ผ่านอุปสรรคมามากมายจึงได้ผูกสัมพันธ์กันเท่านั้น"
+R10008-8_1_14,But what I want to understand is what happens after the good bond is formed.,แต่สิ่งที่ข้าอยากจะเข้าใจคือสิ่งที่จะเกิดขึ้นหลังจากพวกเขาได้ผูกสัมพันธ์กันต่างหาก
+R10008-8_1_15,Sigh...,เฮ้อ...
+R10008-8_1_16,"How about... we go to the God of Marriage's Shrine again, just the two of us.",ทำไมเราไม่... เราลองไปที่ศาลเทพเจ้าด้ายแดงกันอีกครั้งเถอะ แค่เราสองคนพอ
+R10008-8_1_17,Go to the God of Marriage's Shrine? Do you think we will find the answer there?,ไปที่ศาลเทพเจ้าด้ายแดง? เจ้าคิดว่าเราจะพบคำตอบได้จากที่นั้นรึ?
 R10008-8_1_18,"Let's go, we might know if we go.",ไปกันเถอะ เราอาจจะรู้ถ้าเราไป
-R10008-8_2_1,"{PlayerGivenName} brother, five days have passed, and I still haven't found the answer..."
-R10008-8_2_2,Five days? What answer?
-R10008-8_2_3,Didn't you see the note I secretly gave you?
-R10008-8_2_4,Ah? What note?
-R10008-8_2_5,"Sigh, give me your pocket... this note is still folded, you haven't even opened it to look at it?"
-R10008-8_2_6,"This, how did you find out that you secretly put it..."
-R10008-8_2_7,"Forget it, it's not your fault. But these days, have you told anyone that we are tied by fate?"
-R10008-8_2_8,Uh... I haven't told anyone yet.
-R10008-8_2_9,"That's good. Forget about this note, I'll just tell you directly."
-R10008-8_2_10,"I've read in the book that only men and women who truly love each other can be blessed by the God of Marriage. But what happens after the God of Marriage's blessing, the book doesn't say."
-R10008-8_2_11,"When you and I were praying at the God of Marriage's Shrine, I was actually very expectant. I felt that something... earth-shattering, sea-drying, earth-breaking would happen."
-R10008-8_2_12,Isn't that exaggerated? Isn't that a plot in the Novel?
-R10008-8_2_13,"If it's really as you said, there are so many tourists praying at the God of Marriage's Shrine every day. Wouldn't the God of Marriage's Shrine be collapsing every day and the earth breaking every day?"
-R10008-8_2_14,"I was just making a metaphor, anyway, there should be something different... but after being really blessed, it seems... nothing special happened."
-R10008-8_2_15,"So I plan to spend five days to find the answer from the book, about what it should be like after a man and woman are tied by fate..."
-R10008-8_2_16,"So when you first told me that you didn't find the answer after five days, you were referring to this?"
-R10008-8_2_17,"Yes--five days have passed... This feeling is like I'm about to take an exam, but I haven't finished reviewing the book..."
-R10008-8_2_18,(Don't use such a scary metaphor!)
-R10008-8_2_19,"Dream Butterfly, do you have to find this answer?"
-R10008-8_2_20,"I think this answer is very important, I haven't learned about love, if I don't learn well, I can't do it well."
-R10008-8_2_21,"Even if you don't do well, there's no harm to our relations, I won't mind at all."
-R10008-8_2_22,"But... but, I'm a bit lost, I don't know what happens after forming a bond, it's like an unexplored mountain cave, dark and I dare not enter..."
-R10008-8_2_23,"I see, it seems I really need to help you out."
-R10008-8_2_24,"Dream Butterfly, which books are you looking for the answer in?","Dream Butterfly, เจ้ากำลังหาคำตอบจากหนังสือเล่มไหนรึ?"
-R10008-8_2_25,I... I'm looking in the Talented Scholars and Beautiful Ladies Novel.
-R10008-8_2_26,Talented Scholars and Beautiful Ladies Novel?
-R10008-8_2_27,"Where else can I find it!\nAnd these writers are too bad, after the man and woman in the book go through hardships, they stop writing when they get to the part about forming a bond."
-R10008-8_2_28,But what I want to understand is what happens after forming a bond.
-R10008-8_2_29,Sigh...
-R10008-8_2_30,"How about... we go to the God of Marriage's Shrine again, just the two of us."
-R10008-8_2_31,Go to the God of Marriage's Shrine? Do you think we will find the answer there?,ไปที่ศาลเจ้าวิวาห์? เจ้าคิดว่าเราจะพบคำตอบได้จากที่นั้นรึ?
+R10008-8_2_1,"{PlayerGivenName} brother, five days have passed, and I still haven't found the answer...",พี่{PlayerGivenName} ผ่านไปห้าวันแล้วแต่ข้ายังไม่ได้คำตอบที่ตามหาเลย...
+R10008-8_2_2,Five days? What answer?,ห้าวัน? คำตอบอะไรกัน?
+R10008-8_2_3,Didn't you see the note I secretly gave you?,พี่ไม่เห็นจดหมายที่ข้าแอบลอบให้ท่านเหรอ?
+R10008-8_2_4,Ah? What note?,ฮะ? จดหมายอะไร?
+R10008-8_2_5,"Sigh, give me your pocket... this note is still folded, you haven't even opened it to look at it?",เฮ้อ เอากระเป๋าท่านมา... ดูซิ จดหมายยังไม่ได้ถูกแกะเสียด้วยซ้ำ ท่านไม่ได้เปิดอ่านมันเลยล่ะสิ?
+R10008-8_2_6,"This, how did you find out that you secretly put it...",นี่มัน เจ้าแอบเอามาใส่ได้ยังไงกัน...
+R10008-8_2_7,"Forget it, it's not your fault. But these days, have you told anyone that we are tied by fate?",ช่างมันเถิด ไม่ใช่ความผิดพี่หรอก แต่ว่าพี่ยังไม่ได้บอกใครเรื่องที่เราได้ผูกสัมพันธ์กันแล้วใช่ไหม?
+R10008-8_2_8,Uh... I haven't told anyone yet.,เอ่อ... ข้าไม่ได้บอกใครเลย
+R10008-8_2_9,"That's good. Forget about this note, I'll just tell you directly.",ดีแล้ว ช่างเรื่องจดหมายนี่เถอะ ข้าจะบอกพี่เอง
+R10008-8_2_10,"I've read in the book that only men and women who truly love each other can be blessed by the God of Marriage. But what happens after the God of Marriage's blessing, the book doesn't say.",ข้าเคยอ่านในหนังสือว่า เฉพาะชายหญิงที่รักกันจริงๆเท่านั้นที่จะได้รับพรจากเทพเจ้าผู้ผูกด้ายแดง แต่หลังจากได้รับพรแล้วจะเป็นอย่างไรต่อ ในหนังสือไม่ได้เขียนไว้
+R10008-8_2_11,"When you and I were praying at the God of Marriage's Shrine, I was actually very expectant. I felt that something... earth-shattering, sea-drying, earth-breaking would happen.",เมื่อเจ้าและข้าต่างตอนที่เราอธิษฐานที่ศาลเทพเจ้าด้ายแดงด้วยกัน จริงๆ แล้วในใจข้าก็คาดหวังมากนะ ข้าคิดว่าจะต้องมีอะไร... ที่พลิกฟ้าคว่ำแผ่นดิน ทะเลเหือดแห้งหินผุพัง ฟ้าถล่มดินทลาย เกิดขึ้นแน่ๆ
+R10008-8_2_12,Isn't that exaggerated? Isn't that a plot in the Novel?,จะขนาดนั้นเลยเหรอ? นั่นมันเรื่องในนิยายไม่ใช่เหรอนั่น?
+R10008-8_2_13,"If it's really as you said, there are so many tourists praying at the God of Marriage's Shrine every day. Wouldn't the God of Marriage's Shrine be collapsing every day and the earth breaking every day?",ถ้าเป็นอย่างที่เจ้าว่า ทุกวันมีผู้คนมากมายเที่ยวมาอธิษฐานที่ศาลเทพเจ้าด้ายแดงมากมาย ศาลนี้ก็คงจะภูเขาถล่มทุกวัน แผ่นดินแยกทุกคืนสิ
+R10008-8_2_14,"I was just making a metaphor, anyway, there should be something different... but after being really blessed, it seems... nothing special happened.",ข้าแค่เปรียบเปรยน่ะ สรุปคือ ควรจะมีอะไรที่แตกต่างไปบ้างสิ... แต่หลังจากได้รับพรจริงๆ แล้ว ดูเหมือน... ก็ไม่มีอะไรพิเศษเกิดขึ้นเลย
+R10008-8_2_15,"So I plan to spend five days to find the answer from the book, about what it should be like after a man and woman are tied by fate...",ข้าเลยขอใช้เวลาสัก ห้าวัน เพื่อหาคำตอบในหนังสือว่าหลังจากที่ได้ผูกสัมพันธ์กันแล้วจะเกิดอะไรขึ้นกัน...
+R10008-8_2_16,"So when you first told me that you didn't find the answer after five days, you were referring to this?",งั้นตอนที่เจ้าบอกว่าเจ้าหาคำตอบยังไม่เจอ เจ้าหมายความถึงเรื่องนี้สินะ?
+R10008-8_2_17,"Yes--five days have passed... This feeling is like I'm about to take an exam, but I haven't finished reviewing the book...",ช--ใช่ ผ่านมาห้าวันแล้ว... ยั่งกับว่าข้ารู้สึกเหมือนจะต้องเข้าสอบ แต่ยังอ่านหนังสือไม่เข้าใจเลย...
+R10008-8_2_18,(Don't use such a scary metaphor!),(ทำไมเปรียบเปรยน่ากลัวเช่นนั้นเล่า!)
+R10008-8_2_19,"Dream Butterfly, do you have to find this answer?",เมิ่งเตี๋ย เจ้ากำลังหาคำตอบจากหนังสือเล่มไหนรึ?
+R10008-8_2_20,"I think this answer is very important, I haven't learned about love, if I don't learn well, I can't do it well.",ข้าคิดว่าคำตอบนั้นสำคัญมาก ข้าไม่ได้เรียนรู้อะไรเกี่ยวกับความรักเลย หากข้าเรียนรู้มาไม่ดี กลัวข้าจะทำมันได้ไม่ดีนัก
+R10008-8_2_21,"Even if you don't do well, there's no harm to our relations, I won't mind at all.",ถึงเจ้าจะทำได้ไม่ดี แต่ก็ไม่ได้ผลอะไรต่อความสัมพันธ์ของเราสองหรอกนะ ข้าไม่คิดมากหรอก
+R10008-8_2_22,"But... but, I'm a bit lost, I don't know what happens after forming a bond, it's like an unexplored mountain cave, dark and I dare not enter...",แต่... แต่ข้ารู้สึกเหมือนหลงทางอยู่ ข้าไม่รู้ว่าหลังจากผูกสัมพันธ์กันแล้วจะเป็นยังไง มันเหมือนถ้ำมืดที่ไม่มีแผนที่และคบเพลิง ข้าไม่กล้าเข้าไปหรอก... 
+R10008-8_2_23,"I see, it seems I really need to help you out.",ดูเหมือนข้าต้องช่วยเจ้าเสียหน่อยแล้ว
+R10008-8_2_24,"Dream Butterfly, which books are you looking for the answer in?",เมิ่งเตี๋ย เจ้ากำลังหาคำตอบจากหนังสือเล่มไหนรึ?
+R10008-8_2_25,I... I'm looking in the Talented Scholars and Beautiful Ladies Novel.,ข้า... ข้าอ่านพวกหนังสือนิยายของบัณฑิตผู้มากความสามารถและสตรีที่แสนงดงามเท่านั้น
+R10008-8_2_26,Talented Scholars and Beautiful Ladies Novel?,บัณฑิตผู้มากความสามารถและสตรีที่แสนงดงาม?
+R10008-8_2_27,"Where else can I find it!\nAnd these writers are too bad, after the man and woman in the book go through hardships, they stop writing when they get to the part about forming a bond.","ข้าจะหาที่ไหนได้อีกเล่า!\nแล้วคนแต่งเรื่องนี้นี่ใช้ไม่ได้เลย เล่นตัดจบแค่ว่าชายและหญิงคู่นี้ผ่านอุปสรรคมามากมายจึงได้ผูกสัมพันธ์กันเท่านั้น"
+R10008-8_2_28,But what I want to understand is what happens after forming a bond.,แต่สิ่งที่ข้าอยากจะเข้าใจคือสิ่งที่จะเกิดขึ้นหลังจากพวกเขาได้ผูกสัมพันธ์กันต่างหาก
+R10008-8_2_29,Sigh...,เฮ้อ...
+R10008-8_2_30,"How about... we go to the God of Marriage's Shrine again, just the two of us.",ทำไมเราไม่... เราลองไปที่ศาลเทพเจ้าด้ายแดงกันอีกครั้งเถอะ แค่เราสองคนพอ
+R10008-8_2_31,Go to the God of Marriage's Shrine? Do you think we will find the answer there?,ไปที่ศาลเทพเจ้าด้ายแดง? เจ้าคิดว่าเราจะพบคำตอบได้จากที่นั้นรึ?
 R10008-8_2_32,"Let's go, we might know if we go.",ไปกันเถอะ เราอาจจะรู้ถ้าเราไป
-R10008-8_3_1,Hmm... what is this? When did I get an extra note in my pocket?
-R10008-8_3_2,This seems to be Ling Mengdie's handwriting...
+R10008-8_3_1,Hmm... what is this? When did I get an extra note in my pocket?,หืม... อะไรเนี่ย ข้าไปได้จดหมายนี้มาตอนไหนกัน?
+R10008-8_3_2,This seems to be Ling Mengdie's handwriting...,ดูเหมือนจะเป็นลายมือของหลิงเมิ่งเตี๋ย....
 R10008-8_3_3,"""{PlayerGivenName} brother, although Mengdie has formed a bond with you, we are both blessed by the moon god."""
 R10008-8_3_4,"""I thought that the blessing of the moon god is an extraordinary event, there should be extraordinary signs appearing - to make the world anew, to prove your love for me."""
 R10008-8_3_5,"""But no extraordinary signs appeared, the world is as usual, you and I are as usual, which makes Mengdie feel a bit lost, not knowing how to proceed on this road of love."""

@@ -609,7 +609,7 @@ R20025-10_overview1,"Go to Duke Kang's manor in Lin'an City, confront the chief 
 R20025-10_option1_1,"Inform Duke Kang, let Duke Kang decide.",แจ้งแก่อ๋องคัง ให้อ๋องคังตัดสิน
 R20025-10_option1_2,Let Hua Siniang do it herself.,ให้ฮวาซื่อเหนียงจัดการเอง
 R20025-10_option1_3,Spare his life...,ไว้ชีวิต...
-R20025-11_option1_1,Place the <color=#c44b0e>Wedding Stone</color>. <color=#097a76>(1 Wedding Stone)</color>,วาง <color=#c44b0e>ศิลาวิวาห์</color>.<color=#097a76>(1 ศิลาวิวาห์)</color>
+R20025-11_option1_1,Place the <color=#c44b0e>Wedding Stone</color>. <color=#097a76>(1 Wedding Stone)</color>,วาง <color=#c44b0e>ศิลาวิวาห์</color><color=#097a76>(1 ศิลาวิวาห์)</color>
 R20025-11_option1_2,"I was too impulsive just now, I regret it.",ข้าใจร้อนเกินไป ข้าผิดไปแล้ว
 R20004-4_name,Bao Dating's wish,ความปรารถนาของเปาต้าถิง
 R20004-4_overview1,Help Bao Dating find a piece of jewelry exclusive to Hua Siniang.,ช่วยเปาต้าถิง ได้สิ่งของล้ำค่าประจำตัวของ ฮวาซื่อเหนียง
@@ -1366,7 +1366,7 @@ Day-2030-4_option1_2,Come back later.,กลับมาวันหลัง
 Story-2030-1_name,Confucius Temple Minor Contest,การแข่งขันขนาดเล็กของวัดขงจื๊อ
 Story-2030-1_option1_1,Ready!,พร้อม!
 Story-2030-1_option1_2,Not ready yet.,ข้ายังไม่พร้อม
-R10081-3_option1_1,Place the <color=#c44b0e>Wedding Stone</color>. <color=#097a76>(1 Wedding Stone)</color>,วาง <color=#c44b0e>ศิลาวิวาห์</color>.<color=#097a76>(1 ศิลาวิวาห์)</color>
+R10081-3_option1_1,Place the <color=#c44b0e>Wedding Stone</color>. <color=#097a76>(1 Wedding Stone)</color>,วาง <color=#c44b0e>ศิลาวิวาห์</color><color=#097a76>(1 ศิลาวิวาห์)</color>
 R10081-3_option1_2,"I was too impulsive just now, I regret it.",ข้าใจร้อนเกินไป ข้าผิดไปแล้ว
 R10042-2_name,Linlang Go puzzle,กลหมากล้อมหลินหลาง
 R10042-2_overview1,Solve the Linlang Go puzzle for Can Qi at Linlang Temple.,แก้กลหมากล้อมหลินหลางให้คานฉีที่วัดหลินหลาง
@@ -1405,7 +1405,7 @@ Story-2030-3-1_option1_1,Deciphering the unparalleled martial arts is important!
 Story-2030-3-1_option1_2,I can't let this masterpiece be destroyed in my hands.,ข้าจะไม่ปล่อยให้ผลงานชิ้นเอกต้องถูกทำลายในมือข้า
 R10008-0_option1_1,Go out on the horse.,ออกไปด้านนอก
 R10008-0_option1_2,Ignore it. <color=#097a76>(Protagonist solo)</color>,ช่างมัน <color=#097a76>(ตัวเอกสู้คนเดียว)</color>
-R10008-5_option1_1,Place the <color=#c44b0e>Wedding Stone</color>. <color=#097a76>(1 Wedding Stone)</color>,วาง <color=#c44b0e>ศิลาวิวาห์</color>.<color=#097a76>(1 ศิลาวิวาห์)</color>
+R10008-5_option1_1,Place the <color=#c44b0e>Wedding Stone</color>. <color=#097a76>(1 Wedding Stone)</color>,วาง <color=#c44b0e>ศิลาวิวาห์</color><color=#097a76>(1 ศิลาวิวาห์)</color>
 R10008-5_option1_2,"I was too impulsive just now, I regret it.",ข้าใจร้อนเกินไป ข้าผิดไปแล้ว
 R10008-6_option1_1,Hand over 2 Dragon lice<color=#097a76>(2 Dragon lice)</color>,มอบเหามังกร 2 ตัวให้ <color=#097a76>(เหามังกร 2 ตัว)</color>
 R10008-6_option1_2,Come back later.,กลับมาวันหลัง
@@ -1447,7 +1447,7 @@ M20300-32_option3_2,Gift to improve Relations.<color=#097a76>(Man TuoluoRelation
 M20300-32_option3_3,Let me think about it.,ข้าขอไตร่ตรองสักครู่
 R20063-1_option1_1,Top scholar status.,สถานะบัณฑิตชั้นสูง
 R20063-1_option1_2,Guerrilla general.,แม่ทัพหน่วยกองโจร
-R20063-2_option1_1,Place the <color=#c44b0e>Wedding Stone</color>. <color=#097a76>(1 Wedding Stone)</color>,วาง <color=#c44b0e>ศิลาวิวาห์</color>.<color=#097a76>(1 ศิลาวิวาห์)</color>
+R20063-2_option1_1,Place the <color=#c44b0e>Wedding Stone</color>. <color=#097a76>(1 Wedding Stone)</color>,วาง <color=#c44b0e>ศิลาวิวาห์</color><color=#097a76>(1 ศิลาวิวาห์)</color>
 R20063-2_option1_2,"I was too impulsive just now, I regret it.",ข้าใจร้อนเกินไป ข้าผิดไปแล้ว
 M5030-0_option1_1,Agree with the rich merchant.,เห็นด้วยกับพ่อค้ามั่งมี
 M5030-0_option1_2,Refuse the rich merchant.,ปฏิเสธพ่อค้ามั่งมี
@@ -1487,7 +1487,7 @@ M5014-2_option1_1,"Hold the hand orders of Duke Kang and Duke Qi.<color=#097a76>
 M5014-2_option1_2,Plan to force through!<color=#c44b0e>(Specific battle)</color>,ทะลวงฝ่าไป! <color=#c44b0e>(เข้าสู่การต่อสู้)</color>
 M5014-2_option1_3,Hold the Imperial token!<color=#097a76>(1 Imperial token)</color>,ยื่นตราจักรพรรดิ! <color=#097a76>(1 ตราจักรพรรดิ)</color>
 M5014-2_option1_4,Admire the general's demeanor.,ชื่นชมกิริยาของแม่ทัพ
-R10052-3_option1_1,Place the <color=#c44b0e>Wedding Stone</color>. <color=#097a76>(1 Wedding Stone)</color>,วาง <color=#c44b0e>ศิลาวิวาห์</color>.<color=#097a76>(1 ศิลาวิวาห์)</color>
+R10052-3_option1_1,Place the <color=#c44b0e>Wedding Stone</color>. <color=#097a76>(1 Wedding Stone)</color>,วาง <color=#c44b0e>ศิลาวิวาห์</color><color=#097a76>(1 ศิลาวิวาห์)</color>
 R10052-3_option1_2,"I was too impulsive just now, I regret it.",ข้าใจร้อนเกินไป ข้าผิดไปแล้ว
 School-2120-1_name,Lobby Melody House,ห้องรับรองตำหนักบทเพลง
 School-2120-1_overview1,Go to Melody House to deliver a letter.,ไปยังตำหนักบทเพลงเพื่อส่งจดหมาย
@@ -2107,7 +2107,7 @@ R10088-2_option1_1,Persuade Lu Jian Nan to marry Tang Wan Er.,โน้มน้
 R10088-2_option1_2,Persuade Lu Jian Nan to reject Tang Wan Er.,โน้มน้าวลู่เจี้ยนหนานให้ปฏิเสธถังหว่านเอ๋อร์
 R10088-2_option1_3,Please allow me to think about it.,โปรดให้ข้าได้คิดดูก่อน
 R10088-2_option2_1,"A lot has happened here, hasn't it?",มีหลายสิ่งหลายอย่างเกิดขึ้นที่นี่ใช่ไหม?
-R10088-2_option2_2,"No relations, Miss Wan Er, you still have me~",ไม่ข้องเกี่ยวกัน แม่นางหว่านเอ๋อร์ เจ้ายังมีข้าอยู่~
+R10088-2_option2_2,"No relations, Miss Wan Er, you still have me~",ไม่เป็นไรนะ แม่นางหว่านเอ๋อร์ เจ้ายังมีข้าอยู่~
 R10088-5_name,Mandarin ducks,เป็ดแมนดาริน
 R10088-5_overview1,Propose to Tang Tai Jun.,เสนอเรื่องงานแต่งกับท่านถังไท่จุน
 Kill-2190-2_option1_1,Destroy Beast Manor!<color=#c44b0e>(Direct Battle)</color>,ทำลายหมู่ตึกหมื่นอสูร <color=#c44b0e>(ต่อสู้โดยตรง)</color>
