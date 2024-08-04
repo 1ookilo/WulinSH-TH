@@ -1,0 +1,211 @@
+﻿﻿ControlTip_Or,Or,หรือ
+ControlTip_Setup,Settings,ตั้งค่า
+ControlTip_Back,Return,ย้อนกลับ
+ControlTip_Next,Next Step,ขั้นต่อไป
+ControlTip_Close,Close,ปิด
+ControlTip_Confirm,Confirm,ยืนยัน
+ControlTip_Confirm1,Confirm,ยืนยัน
+ControlTip_EnableOrDisable,Enable/Disable,เปิด/ปิด
+ControlTip_Stop,Stop,หยุด
+ControlTip_Cancel,Cancel,ยกเลิก
+ControlTip_ModSubDel,Subscribe/Unsubscribe,สมัคร/เลิกสมัคร
+ControlTip_ModDel,Unsubscribe,ยกเลิกการสมัคร
+ControlTip_Refresh,Refresh,รีเฟรช
+ControlTip_LongDesc,Info Details,รายละเอียด
+ControlTip_PageUp,Previous Page,ก่อนหน้า
+ControlTip_PageDown,Next Page,ถัดไป
+ControlTip_MoveVertical,Move Up/Down,ขยับขึ้น/ขยับลง
+ControlTip_ModGood,Like,ถูกใจ
+ControlTip_ModBad,Dislike,ไม่ถูกใจ
+ControlTip_RestoreDefault,Default Recovery,คืนค่า
+ControlTip_Select,Select,เลือก
+ControlTip_Apply,Save,บันทึก
+ControlTip_ConfirmOrCancel,Confirm/Cancel,ยืนยัน/ยกเลิก
+ControlTip_SwitchGroup,Switch Category,เปลี่ยนหมวด
+ControlTip_BondsPlace,Place Wedding Stone,วางศิลาวิวาห์
+ControlTip_ViewHelp,Info Help,ส่วนช่วยเหลือ
+ControlTip_Done,Hand in,ส่งมอบ
+ControlTip_ReceiveTask,Accept,ยอมรับ
+ControlTip_ForgoTask,Abandon,ละทิ้ง
+ControlTip_BountySwitch,Switch Area,เปลี่ยนพื้นที่
+ControlTip_BountyMoveItem,Move Item,ย้ายสิ่งของ
+ControlTip_ToolSwitch,Select Tool,เลือกเครื่องมือ
+ControlTip_StartOrPause,Start/Pause,เริ่ม/หยุด
+ControlTip_Auto,Auto,อัตโนมัติ
+ControlTip_NeverAsk,Don't Show Again,ไม่แสดงอีก
+ControlTip_MainSubPageSwitch,Expand/Collapse,ย่อ/ขยาย
+ControlTip_Scroll,Scroll Display,เลื่อนจอ
+ControlTip_StoryCheck,Track,ติดตาม
+ControlTip_ApplyTrade,Deal,แลกเปลี่ยน
+ControlTip_ZoneSwitch,Switch Area,เปลี่ยนพื้นที่
+ControlTip_MoveItem,Move Item,ย้ายสิ่งของ
+ControlTip_FastMoveItem,Quick Move Item,ย้ายของทันที
+ControlTip_SwitchRole,Switch Character,เปลี่ยนตัวละคร
+ControlTip_ResetPoint,Reset Potential,คืนค่าศักยภาพ
+ControlTip_EditPoint,Allocate Potential,กำหนดศักยภาพ
+ControlTip_ChangeView,Switch Display,เปลี่ยนโหมดการแสดงผล
+ControlTip_Filter,Filter,กรอง
+ControlTip_QuikeSet,Quick settings,ตั้งค่าด่วน
+ControlTip_Forget,Forget,ถอดออก
+ControlTip_Comprehend,Comprehend,เรียนรู้
+ControlTip_ScrollView,Scroll Display,เลื่อนจอ
+ControlTip_SwitchRoot,Switch Branch,เปลี่ยนสาขา
+ControlTip_Rebuild,Relearn,เรียนรู้ใหม่
+ControlTip_RoamingMode,Free Mode,โหมดอิสระ
+ControlTip_RoamingModeBtn1,Stealth Mode,โหมดซ่อนตัว
+ControlTip_RoamingModeBtn2,Call Pet,เรียกสัตว์เลี้ยง
+ControlTip_RoamingModeBtn3,"Move\nShow Log (Press Down)\nLight Push Turn","ขยับ\nแสดงบันทึก(กดลง)\nขยับเบาๆ"
+ControlTip_RoamingModeBtn4,Switch Selected Item,สลับไอเท็มที่เลือก
+ControlTip_RoamingModeBtn5,Switch Selected Item,สลับไอเท็มที่เลือก
+ControlTip_RoamingModeBtn6,Journal,บันทึก
+ControlTip_RoamingModeBtn7,Open Home,ดูบ้าน
+ControlTip_RoamingModeBtn8,Settings,ตั้งค่า
+ControlTip_RoamingModeBtn9,Battle Mode,โหมดการต่อสู้
+ControlTip_RoamingModeBtn10,Map,แผนที่
+ControlTip_RoamingModeBtn11,Meditate (Long Press),ทำสมาธิ(กดค้าง)
+ControlTip_RoamingModeBtn12,Cancel,ยกเลิก
+ControlTip_RoamingModeBtn13,Interact/Pick Up,ใช้ของ/เก็บของ
+ControlTip_RoamingModeBtn14,"Quick Save (X + D-pad Down)\nQuick Load (X + D-pad Up)","เซฟด่วน(X+ปุ่มลง)\nบันทึกด่วน(X+ปุ่มขึ้น)"
+ControlTip_RoamingModeBtn15,Open/Close Key Prompt (Press Down),เปิด/ปิด Key Prompt (กดปุ่มลง)
+ControlTip_RoamingModeBtn16,Character Menu,เมนูตัวละคร
+ControlTip_BattleMode,Battle Mode,โหมดการต่อสู้
+ControlTip_BattleModeBtn1,Retreat,หลบหนี
+ControlTip_BattleModeBtn2,Auto Mode,โหมดอัตโนมัติ
+ControlTip_BattleModeBtn3,Control Cursor,ควบคุม Cursor
+ControlTip_BattleModeBtn4,Ultimate Move,ท่าไม้ตาย
+ControlTip_BattleModeBtn5,Item,สิ่งของ
+ControlTip_BattleModeBtn6,Power Body,พลังกาย
+ControlTip_BattleModeBtn7,Throwing,อาวุธลับ
+ControlTip_BattleModeBtn8,Settings,ตั้งค่า
+ControlTip_BattleModeBtn9,Rest,พักผ่อน
+ControlTip_BattleModeBtn10,Switch Battle Speed,สลับความเร็วการต่อสู้
+ControlTip_BattleModeBtn11,Show Battle Area (Long Press),แสดงพื้นที่ต่อสู้(กดค้าง)
+ControlTip_BattleModeBtn12,Return/Re-move,ย้อนกลับ/ย้ายอีกครั้ง
+ControlTip_BattleModeBtn13,Confirm/Normal Attack/Info (Long Press),ยืนยัน/โจมตีปกติ/รายละเอียด(กดค้าง)
+ControlTip_BattleModeBtn14,-,-
+ControlTip_BattleModeBtn15,Open/Close Key Prompt (Press Down),เปิด/ปิด Key Prompt (กดปุ่มลง)
+ControlTip_BattleModeBtn16,-,-
+ControlTip_Buy,Buy,ซื้อ
+ControlTip_BuyType,Buy All Single,ซื้ออย่างละอัน
+ControlTip_BuyAll,One-click Buy,ซื้อในครั้งเดียว
+ControlTip_Sell,Sell,ขาย
+ControlTip_SellType,Sell All Single,ขายอย่างละอัน
+ControlTip_SellAll,One-click Sell,ขายในครั้งเดียว
+ControlTip_CloseMult,Close Batch,ยกเลิกแบบเป็นชุด
+ControlTip_changeAccount,Adjust Quantity,ปรับปริมาณ
+ControlTip_Max,Max,สูงสุด
+ControlTip_Min,Minimum,ต่ำสุด
+ControlTip_Wager0,{0} Money,{0} เงิน
+ControlTip_Wager1,{0} Money,{0} เงิน
+ControlTip_Wager2,{0} Money,{0} เงิน
+ControlTip_Esc,Run away,วิ่งหนี
+ControlTip_Skip,Skip,ข้าม
+ControlTip_Cheat,Bet Thousands,โกง
+ControlTip_BattleAuto,Auto,อัตโนมัติ
+ControlTip_BattleSpeedUp,Battle Speed,ความเร็วต่อสู้
+ControlTip_BattleMove,Move/Normal Attack,เคลื่อนที่/โจมตีปกติ
+ControlTip_BattleCheckActor,Info Target,ข้อมูลเป้าหมาย
+ControlTip_BattleField,Battle Range,ระยะการต่อสู้
+ControlTip_BattleAction,Execute Action,เริ่มลงมือ
+ControlTip_BattleEscape,Retreat,ล่าถอย
+ControlTip_BattleRest,Rest,พักผ่อน
+ControlTip_BattleTips,Key Prompt,Key Prompt
+ControlTip_SelectOrCancel,Select/Cancel,เลือก/ยกเลิก
+ControlTip_OnePointBuild,One-click Setting,การตั้งค่าในครั้งเดียว
+ControlTip_SaveSetting,Save Setting,บันทึกการตั้งค่า
+ControlTip_ReMove,Re-move,เดินใหม่
+ControlTip_Stealth,Stealth,ลอบเร้น
+ControlTip_Battle,Battle,ต่อสู้
+ControlTip_Map,Open Map,ดูแผนที่
+ControlTip_Pet,Call Pet,เรียกสัตว์เลี้ยง
+ControlTip_Meditation,Meditate,นั่งสมาธิ
+ControlTip_Settings,Settings,ตั้งค่า
+ControlTip_Characters,Character,ตัวละคร
+ControlTip_Log,Log,บันทึก
+ControlTip_ControlTip,Key Prompt,Key Prompt
+ControlTip_Journal,Journal,บันทึก
+ControlTip_ExitStealth,Exit Stealth,เลิกลอบเร้น
+ControlTip_ApplyAction,Execute Interaction,โต้ตอบ
+ControlTip_PoisonSetup,Poison Setting,ตั้งค่าพิษ
+ControlTip_MoveConfirm,Move,เคลื่อนที่
+ControlTip_SwitchToggle,Switch Tab,สลับแท็บ
+ControlTip_ScrollLog,Scroll Log,เลื่อนบันทึก
+ControlTip_GiftingNpc,Gift,ของขวัญ
+ControlTip_ItemTip,Item Description,รายละเอียดไอเท็ม
+ControlTip_MapScale,Zoom,ขยาย
+ControlTip_MapGo,Set Off,เดินทาง
+ControlTip_MapBack,Return to Start,กลับไปจุดเริ่มต้น
+ControlTip_SwitchTipShow,Close/Open Key Prompt,เปิด/ปิด Key Prompt
+ControlTip_Enter,Go,ไป
+ControlTip_InputPetName,Pet Naming,ตั้งชื่อสัตว์เลี้ยง
+ControlTip_InputSaveName,Save Naming,ตั้งชื่อเซฟ
+ControlTip_DeleteSave,Delete Save,ลบข้อมูลบันทึก
+ControlTip_BattleStart,Start Battle,เริ่มการต่อสู้
+ControlTip_BattleReadyShowActor,Show avatar,แสดงรูปประจำตัว
+ControlTip_BattleReadyHiddenActor,Hide avatar,ซ่อนรูปประจำตัว
+ControlTip_BattleReadyDragActor,Drag Character,ลากตัวละคร
+ControlTip_BattleReadySelectOrCancel,Join Battle/Cancel,เข้าร่วมต่อสู้/ยกเลิก
+ControlTip_BattleBegin,Enter the battle,เริ่มต่อสู้
+ControlTip_PetsFeed,Feed,ให้อาหาร
+ControlTip_PetsHeal,Heal,รักษา
+ControlTip_WeaponProduce,Craft,สร้าง
+ControlTip_WeaponType,Type,ประเภท
+ControlTip_WeaponCanProduce,Can Craft,ผลิตได้
+ControlTip_WeaponInformation,Info Special Skill,ข้อมูลท่าพิเศษ
+ControlTip_WeaponFactor,Info Data,ดูข้อมูล
+ControlTip_TailorProduce,Tailoring,การตัดเย็บ
+ControlTip_TailorCanProduce,Can be tailored,สามารถทำชุดได้
+ControlTip_AlchemistProduce,Refining,กลั่น
+ControlTip_AlchemistCanProduce,Can be refined,สามารถกลั้นได้
+ControlTip_SundriesProduce,Making,การผลิต
+ControlTip_SundriesCanProduce,Can be made,สร้างได้
+ControlTip_CookProduce,Cooking,ทำอาหาร
+ControlTip_CookCanProduce,Can be cooked,ทำอาหารได้
+ControlTip_Authenticate,Appraise,ประเมิน
+ControlTip_PoisionSelect,Select Focus Poison,เลือกเน้นพิษ
+ControlTip_PoisionAutoSelect,Automatically select when exhausted,เลือกอัตโนมัติเมื่อหมด
+ControlTip_PoisionSetting,Open Poison Setting,เริ่มตั้งค่าพิษ
+ControlTip_AuctionGoodsConfirm,Item Auction,รายการของประมูล
+ControlTip_AuctionExit,Exit,ออก
+ControlTip_AuctionType,Type,ประเภท
+ControlTip_AuctionEnter,Join Auction,เข้าร่วมประมูล
+ControlTip_AuctionGoodsCancel,Retrieve Auction,ยกเลิกประมูล
+ControlTip_AuctionGoodsCheck,Info Auction Item,ข้อมูลสิ่งของในการประมูล
+ControlTip_AuctionPreview,Auction Preview,ตัวอย่างการประมูล
+ControlTip_SwitchFiefShared,Switch Home Progress Sharing,สลับการแชร์ความก้าวหน้าของบ้าน
+ControlTip_TeleportToFief,Go to Home,ไปที่บ้าน
+ControlTip_Rename,Rename,เปลี่ยนชื่อ
+ControlTip_FiefCheckCost,Info Upgrade,ดูการอัพเกรด
+ControlTip_FiefSetting,Edit Teammate,เปลี่ยนเพื่อน
+ControlTip_FiefEnter,Go,ไป
+ControlTip_FiefUnlock,Unlock,ปลดล็อค
+ControlTip_FiefLvUp,Upgrade,อัพเกรด
+ControlTip_FiefMainClose,Close,ปิด
+ControlTip_FiefMainLeave,Run away home base,ออกจากบ้าน
+ControlTip_FeifJoyTipSwitch,Open/Close Key Prompt,เปิด/ปิด Key Prompt
+ControlTip_FeifMoveNpc,Move Partner,ย้ายเพื่อน
+ControlTip_FeifKungfuIn,Engrave Martial Arts,บันทึกวรยุทธ
+ControlTip_FeifKungfuOut,Expand Martial Arts,ขัดเกลาวรยุทธ
+ControlTip_FeifKungfuLeftTip,Preview Expand Martial Arts,พรีวิวการขัดเกลาวรยุทธ
+ControlTip_FeifKungfuRightTip,Preview Engrave Martial Arts,พรีวิวการบันทึกวรยุทธ
+ControlTip_FeifEquipIn,Place Item,วางของ
+ControlTip_FeifEquipOut,Take Item,รับของ
+ControlTip_FeifEquipLeftTip,Preview Display Item,ดูตัวอย่างการโชว์ไอเท็ม
+ControlTip_FeifEquipRightTip,Preview Backpack Item,ดูตัวอย่างการโชว์สัมภาระ
+ControlTip_LivingExpUpgrade,Promote Level,เลเวลอัพ
+ControlTip_FiefTitleEdit,Homeland Naming,ตั้งชื่อบ้าน
+ControlTip_MakeOffer,Make an Offer,เริ่มต่อรอง
+ControlTip_SwitchProtrait,Switch Avatar,เปลี่ยนรูปประจำตัว
+ControlTip_PetsEquipTip,Equipment description,คำอธิบายอุปกรณ์
+ControlTip_PlayerInfo,Character Information,ข้อมูลตัวละคร
+ControlTip_PagodaShop,Exchange Shop,ร้านแลกเปลี่ยน
+ControlTip_SelectEnemy,Choose Enemy,เลือกศัตรู
+ControlTip_EnemyInfo,Info Enemy,ข้อมูลศัตรู
+ControlTip_SelectDiffcuty,Choose Difficulty,เลือกระดับความยาก
+ControlTip_PagodaBattle,Challenge,ประลอง
+ControlTip_SelectPrize,Select Reward,เลือกรางวัล
+ControlTip_Pagoda,Sky Breaker Tower,หอสูงเทียมฟ้า
+ControlTip_MaskItem,Filter,ตัวกรอง
+ControlTip_MaskItemConfirm,Confirm Filter,ยืนยันตัวกรอง
+ControlTip_FiefMiningToggle,Open/Close home Material production,เปิด/ปิด home Material production
+MainMenuUI_Bg_MainButtons_BackButton_Text(TMP),Return,กลับ
