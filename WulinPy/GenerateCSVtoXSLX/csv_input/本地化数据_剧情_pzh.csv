@@ -3492,38 +3492,38 @@ R10025-6_0_1,"Kid, I've been staying in Shifa Temple for too long and want to se
 R10025-6_0_2,"Me? Besides Shifa Temple, I also know Baoguo Temple in Daliang City, Yunlin Temple in Lin'an City...",ข้าเหรอ? นอกจากอารามฉีฟา ก็รู้จักเพียงวัดเป่ากั๋วในเมืองต้าเหลียง และวัดป่าเมฆาในเมืองหลินอัน...
 R10025-6_0_3,"I've been to Baoguo Temple, not going there! But I haven't been to Yunlin Temple, how about you take me there?",ข้าเคยไปวัดเป่ากั๋วแล้วไม่มีอะไรสักกะติ๊ด! แต่ข้ายังไม่เคยไปยังวัดป่าเมฆาเลย เจ้าพาข้าไปสักหน่อยสิ?
 R10025-6_0_4,"I don't mind taking you there, but I hope you won't eat meat and drink alcohol in front of others, not every temple is like Shifa Temple.",จะพาท่านไปข้าไม่มีปัญหาหรอก แต่หวังว่าท่านคงไม่ไปกินเนื้อร่ำสุราที่นั่นเล่า ที่นั่นไม่ใช่วัดแบบอารามฉีฟา
-R10025-6_0_5,"Don't worry, I won't do anything to make you uncomfortable."
-R10025-6_1_1,"Yunlin Temple... indeed a good temple, but not close enough to Buddha."
-R10025-6_1_2,You figured that out just by walking a few steps at the entrance?
-R10025-6_1_3,"The monks of Yunlin Temple focus more on ""martial"" than ""Buddha"", they bear heavy burdens, have responsibilities, their hearts are not empty, this actually makes them further from Buddha."
-R10025-6_1_4,"But this is their way of cultivation, it's not for me to criticize, even worth admiring."
-R10025-6_1_5,You actually speak some Buddhist wisdom...
-R10025-6_1_6,"However, I know a place in Lin'an City that is closer to Buddha."
-R10025-6_1_7,"I see you have wisdom, let me take you there!"
-R10025-6_1_8,……
-R10025-6_1_9,Hehe.
-R10025-6_1_10,A tavern... is this the place you said is closer to Buddha?
-R10025-6_1_11,"Yes, this place is closer to Buddha than Yunlin Temple, because when you're drunk you forget yourself, your heart is empty, and you're closer to Buddha."
-R10025-6_1_12,"I actually thought for a moment that you were an accomplished monk, I really am..."
-R10025-6_1_13,"By your logic, there's a dilapidated temple next to Yunlin Temple, there's nothing there, no people, no monks, no lights, it's emptier, closer to Buddha."
-R10025-6_1_14,"There's such a place, take me there quickly!"
-R10025-6_1_15,You really want to go?
-R10025-6_1_0_1,"Yes... there's no candlestick here, no incense burner, hehe, you're right, this is closer to Buddha."
-R10025-6_1_0_2,"If the Buddha statue's nose is not a nose, and the eyes are not eyes, is it more like Buddha?"
-R10025-6_1_0_2_0,"You're right, the Buddha statue looks like Buddha, but Buddha has no form!"
-R10025-6_1_0_3,"It just feels like something is missing, but I can't figure it out right now."
-R10025-6_1_0_4,"Kid, I want to meditate here alone, to think about what's missing."
-R10025-6_1_0_5,You want to meditate here alone?
-R10025-6_1_0_6,"Yes, I want to leave your team for a while and meditate in this temple."
-R10025-6_1_0_7,Should I let Lai Toudian leave the team and meditate here?
-R10025-6_option1_1,You stay here and meditate. <color=#097a76>(Lai Toudian leaves the team)</color>
-R10025-6_option1_2,Let's meditate at another time.
-R10025-6_1_1_1,It seems you still need me for something?
-R10025-6_1_1_2,Then I'll help you get things done before I meditate.
-R10025-6_1_2_1,Did you bring me here to meditate?
-R10025-6_1_3_1,"This dilapidated temple matches your dilapidated kasaya, it's quite fitting."
-R10025-6_1_3_2,"If you want to meditate, I won't force you to stay."
-R10025-6_1_3_3,"Hehehe, cough cough, let me think about what's going on here..."
+R10025-6_0_5,"Don't worry, I won't do anything to make you uncomfortable.",ไม่ต้องกังวลไป ข้าไม่ทำให้เจ้าลำบากใจหรอกน่า
+R10025-6_1_1,"Yunlin Temple... indeed a good temple, but not close enough to Buddha.",วัดป่าเมฆา... ช่างเป็นวัดที่ยอดเยี่ยมนัก แต่ก็ไม่ได้ใกล้กับองค์พุทธะเลย
+R10025-6_1_2,You figured that out just by walking a few steps at the entrance?,ท่านรู้ขนาดนั้นจากการแค่เดินไปเดินมาที่ทางเข้าเนี่ยนะ?
+R10025-6_1_3,"The monks of Yunlin Temple focus more on ""martial"" than ""Buddha"", they bear heavy burdens, have responsibilities, their hearts are not empty, this actually makes them further from Buddha.",พระในวัดป่าเมฆามี 'วรยุทธ์' มากกว่า 'พุทธะ' พวกเขาแบกรับภาระหนัก อกเต็มไปด้วยความรับผิดชอบ จิตใจจึงไม่ว่างเปล่า ด้วยเหตุนี้กลับยิ่งห่างไกลจากพระพุทธเจ้ามากขึ้น
+R10025-6_1_4,"But this is their way of cultivation, it's not for me to criticize, even worth admiring.",แต่ก็เป็นวิธีบำเพ็ญตนของพวกนั้นล่ะนะ ไม่ใช่เรื่องที่ข้าต้องไปติติงหรือไปคารวะอันใด
+R10025-6_1_5,You actually speak some Buddhist wisdom...,ท่านพูดเทศนาทางธรรมได้จริงๆด้วยแฮะ....
+R10025-6_1_6,"However, I know a place in Lin'an City that is closer to Buddha.",ถึงอย่างไรก็ตาม ข้ารู้จักที่หนึ่งในเมืองหลินอันที่ใกล้พระพุทธองค์มากกว่าอันนี้ด้วย
+R10025-6_1_7,"I see you have wisdom, let me take you there!",ข้าเห็นว่าเจ้ารู้ทางธรรม งั้นข้าจะพาเจ้าไปดู!
+R10025-6_1_8,……,"……\n"
+R10025-6_1_9,Hehe.,ฮี่ฮี่
+R10025-6_1_10,A tavern... is this the place you said is closer to Buddha?,โรงเตี๊ยม... เนี่ยอ่ะนะ ที่ท่านบอกว่าใกล้พระพุทธองค์?
+R10025-6_1_11,"Yes, this place is closer to Buddha than Yunlin Temple, because when you're drunk you forget yourself, your heart is empty, and you're closer to Buddha.",ใช่ ที่แห่งนี้นี่แหละใกล้พระพุทธองค์มากกว่าวัดป่าเมฆาอีก เพราะเมื่อเจ้าร่ำสุราจนเมามายเจ้าก็จะลืมตัวตน หากละทิ้งตัวตน จิตใจว่างเปล่าได้ก็ได้ใกล้พระพุทธองค์แน่นอน
+R10025-6_1_12,"I actually thought for a moment that you were an accomplished monk, I really am...",ข้าเผลอคิดไปแวบหนึ่งว่าท่านนี่เป็นพระที่บรรลุแล้ว ข้านี่ช่าง...
+R10025-6_1_13,"By your logic, there's a dilapidated temple next to Yunlin Temple, there's nothing there, no people, no monks, no lights, it's emptier, closer to Buddha.",แต่ถ้าพูดตามที่ท่านว่า งั้นมันก็มีวัดร้างใกล้วัดป่าเมฆา ไม่มีอะไรที่นั่นเลย ไม่มีผู้คน ไม่มีพระ ไม่มีไฟ ว่างกว่าที่นี่อีก น่าจะใกล้ชิดพระพุทธองค์กว่านะ
+R10025-6_1_14,"There's such a place, take me there quickly!",ช่างเป็นที่ที่ยอดเยี่ยมนัก พาข้าไปเร็วเลย!
+R10025-6_1_15,You really want to go?,ท่านอยากไปจริงเรอะ?
+R10025-6_1_0_1,"Yes... there's no candlestick here, no incense burner, hehe, you're right, this is closer to Buddha.",ใช่เลย... ไม่มีเทียนที่นี่ ไม่มีกลิ่นก้านธูป ฮี่ฮี่ เจ้าพูดถูก ที่นี่แหละใกล้พระพุทธองค์สุดๆ
+R10025-6_1_0_2,"If the Buddha statue's nose is not a nose, and the eyes are not eyes, is it more like Buddha?",หากจมูกรูปปั้นพระพุทธรูปมิใช่จมูกอีกต่อไป หรือหากดวงตามิใช่ดวงตาแล้วรูปปั้นนั้นจะยังเป็นพระพุทธองค์อยู่เหรอ?
+R10025-6_1_0_2_0,"You're right, the Buddha statue looks like Buddha, but Buddha has no form!",เจ้าพูดถูก พระพุทธรูปก็เหมือนพระพุทธองค์ แต่พระพุทธองค์นั้นไร้กายหยาบ!
+R10025-6_1_0_3,"It just feels like something is missing, but I can't figure it out right now.",ข้ารู้สึกเหมือนบางอย่างขาดหายไปแต่ไม่รู้ว่ามันคืออะไร
+R10025-6_1_0_4,"Kid, I want to meditate here alone, to think about what's missing.",ไอ้หนู ข้าอยากทำสมาธิเงียบๆเพียงลำพัง ข้าต้องตามหาสิ่งที่ขาดหายไป
+R10025-6_1_0_5,You want to meditate here alone?,ท่านจะนั่งสมาธิอยู่ที่นี่คนเดียวเหรอ?
+R10025-6_1_0_6,"Yes, I want to leave your team for a while and meditate in this temple.",ใช่ ข้าจะออกกลุ่มของเจ้าชั่วคราวแล้วนั่งสมาธิอยู่ในวัดแห่งนี้
+R10025-6_1_0_7,Should I let Lai Toudian leave the team and meditate here?,ข้าควรจะให้หล่ายโถ่วเตียนออกจากกลุ่มและนั่งสมาธิที่นี่หรือไม่?
+R10025-6_option1_1,You stay here and meditate. <color=#097a76>(Lai Toudian leaves the team)</color>,เจ้าอยู่ทำสมาธิไปแล้วกัน <color=#097a76>(หล่ายโถ่วเตียนออกจากทีม)</color>
+R10025-6_option1_2,Let's meditate at another time.,ค่อยมานั่งสมาธิวันหลังแล้วกัน
+R10025-6_1_1_1,It seems you still need me for something?,ยังอยากให้ข้าช่วยทำอะไรงั้นหรือ?
+R10025-6_1_1_2,Then I'll help you get things done before I meditate.,งั้นข้าช่วยเจ้าก่อนจะไปทำสมาธิก็ได้
+R10025-6_1_2_1,Did you bring me here to meditate?,เจ้าพาข้ามาทำสมาธิใช่ไหม?
+R10025-6_1_3_1,"This dilapidated temple matches your dilapidated kasaya, it's quite fitting.",วัดร้างแห่งนี้เข้ากันกับชุดซอมซ่อและจีวรขาดๆ เกินๆ ของเจ้าดีแท้
+R10025-6_1_3_2,"If you want to meditate, I won't force you to stay.",ถ้าท่านจะนั่งทำสมาธิงั้นข้าจะไม่รบเร้าให้ท่านมาอยู่
+R10025-6_1_3_3,"Hehehe, cough cough, let me think about what's going on here...",ฮี่ฮี่ฮี่- แค่ก แค่ก ไหนข้าดูหน่อยสิว่ามันยังไงกันแน่นะ...
 R10025-6_1_4_1,"I haven't figured anything out yet, do you need me for something important?"
 R10025-6_1_4_2,"If I leave this place and interrupt my meditation, I'll have to start over when I come back."
 R10025-6_option2_1,"Sorry to interrupt, but I have an urgent matter that needs your help.<color=#097a76>(Invite)</color>"
@@ -3533,12 +3533,12 @@ R10025-6_1_5_2,Let's go!
 R10025-6_1_6_1,Why don't you take a stroll around Lin'an City while waiting for me?
 R10025-6_1_6_2,"I, the monk, am going to continue my meditation."
 R10025-6_1_7_1,"Lai Toudian has been in the Dilapidated Temple in Lin'an City for a while, should I go and see what results his meditation has yielded?"
-R10025-6_2_1_1,"I heard that there is a divine brew in the Dilapidated Temple in the north of the city, drinking it can make you forget all your troubles."
-R10025-6_2_1_2,"I heard that this divine brew can cure regrets, I really want to try it!"
-R10025-6_2_1_3,"Isn't the Dilapidated Temple in the north of the city where Lai Toudian meditates? He actually drinks alcohol during his meditation, and it's known all over the city."
-R10025-6_2_1_4,Talking about meditation... I really believe his nonsense!
-R10025-6_2_2_1,"Hey, isn't this brother {PlayerName}?"
-R10025-6_2_2_2,"Suddenly, many people gathered outside the Dilapidated Temple, I thought they were here to catch me, it scared me."
+R10025-6_2_1_1,"I heard that there is a divine brew in the Dilapidated Temple in the north of the city, drinking it can make you forget all your troubles.",ได้ยินมาว่า ศาลเจ้าร้างทางทิศเหนือของเมือง มีเหล้าชั้นดีจากสวรรค์ หากดื่มแล้วจะลืมทุกข์โศกได้
+R10025-6_2_1_2,"I heard that this divine brew can cure regrets, I really want to try it!",ข้าได้ยินว่าสุราจากสวรรค์นั่นรักษาอาการทุกข์ได้หมดสิ้น ข้าอยากลองจริงๆ!
+R10025-6_2_1_3,"Isn't the Dilapidated Temple in the north of the city where Lai Toudian meditates? He actually drinks alcohol during his meditation, and it's known all over the city.",วัดร้างทางเหนือของเมืองไม่ใช่สถานที่ที่หล่ายโถ่วเตียนนั่งสมาธิหรอกหรือ? เขาบอกจะนั่งสมาธิแต่กลับมาร่ำสุรา แถมยังทำให้คนทั้งเมืองรู้เรื่องนี้อีกเนี่ยนะ
+R10025-6_2_1_4,Talking about meditation... I really believe his nonsense!,พูดถึงเรื่องที่หมอนั่นจะทำสมาธิ... ข้าเชื่อเรื่องไร้สาระพรรค์นั้นได้ยังไงกัน!
+R10025-6_2_2_1,"Hey, isn't this brother {PlayerName}?",ไม่ใช่ว่านี่มัน น้อง{PlayerName}หรอกเหรอ?
+R10025-6_2_2_2,"Suddenly, many people gathered outside the Dilapidated Temple, I thought they were here to catch me, it scared me.",ข้างนอกวัดร้างมีคนมารวมตัวกันเยอะแยะเลย ข้านึกว่าพวกนั้นมาจับข้าซะอีก ตกใจหมดเลย
 R10025-6_2_2_3,Are all these people here to drink the divine brew?
 R10025-6_2_2_4,"I guess so? I saw so many people and got nervous, I didn't dare to join the crowd."
 R10025-6_3_1_1,"Big brother, would you like to buy some firewood?"
@@ -3575,8 +3575,8 @@ R10025-6_3_5_8,"(Even if I want to help them, I'm afraid they will refuse.)"
 R10025-6_3_5_9,"(Why not go to the Dilapidated Temple and ask Lai Toudian, he might have a solution for this kind of thing.)"
 R10025-6_3_5_10,"In that case, you guys keep it up. Send my regards to your parents and wish them a speedy recovery."
 R10025-6_3_5_11,"Thank you, big brother!"
-R10025-6_4_1_1,Why are there so many people lying here?
-R10025-6_4_1_2,"Wait, all these people are drunk, what kind of wine did Lai Toudian make..."
+R10025-6_4_1_1,Why are there so many people lying here?,ทำไมมีคนล้มเยอะแยะขนาดนี้ล่ะเนี่ย?
+R10025-6_4_1_2,"Wait, all these people are drunk, what kind of wine did Lai Toudian make...",เดี๋ยวนะ พวกนี้แค่เมาเฉยๆนี่หว่า หล่ายโถ่วเตียนทำสุราอะไรของเขาล่ะนั่น...
 R10025-6_4_2_1,(Sleeping face full of tears.)
 R10025-6_4_3_1,(Sleep talk) Come back... come back to me...
 R10025-6_4_4_1,(Sleep talk) I won't let go this time!
@@ -3833,12 +3833,12 @@ R10025-6_option10_1,Invite.
 R10025-6_option10_2,Don't invite for now.
 R10025-6_9_2_1,"Hehe, I, the monk, can travel the world again!"
 R10025-6_9_3_1,"Then I'll go back to Shifa Temple, come and see me when you have time!"
-R20063-5_0_1_1,"Good brother, I just received a letter from Maiden House, saying that there is an urgent matter that they can't handle, and they want me to go back."
-R20063-5_0_1_2,"Sister, what's the matter with Maiden House?"
-R20063-5_0_1_3,"I don't know, they didn't say. It could be that they can't balance the accounts somewhere, or it could be that some little girl is disobedient. There are always some things that need the sister to preside over."
-R20063-5_0_1_4,"I have nothing to do, so I will accompany you back to Maiden House."
-R20063-5_0_1_5,"Hmm~ If there is such a man like my brother by my side, it would be good to help my sister hold the scene."
-R20063-5_0_2_1,{PlayerName} Young hero!
+R20063-5_0_1_1,"Good brother, I just received a letter from Maiden House, saying that there is an urgent matter that they can't handle, and they want me to go back.",ท่านน้องเจ้าคะ ข้าได้จดหมายจากตำหนักพิสุทธิ์ บอกว่ามีเรื่องเร่งด่วนให้รีบกลับไปจัดการธุระที่พวกนั้นไม่สามารถสะสางได้
+R20063-5_0_1_2,"Sister, what's the matter with Maiden House?",พี่สาว เกิดอะไรขึ้นกับตำหนักพิสุทธิ์?
+R20063-5_0_1_3,"I don't know, they didn't say. It could be that they can't balance the accounts somewhere, or it could be that some little girl is disobedient. There are always some things that need the sister to preside over.",ไม่รู้เจ้าค่ะ ในจดหมายไม่ได้พูดอะไรเลย อาจจะเป็นเรื่องบัญชีไม่ลงตัว หรืออาจจะเป็นเพราะว่าสาวน้อยคนไหนซนไม่ฟังคำก็เป็นได้เจ้าค่ะ ก็มีเรื่องมากมายที่พี่สาวต้องไปจัดการ
+R20063-5_0_1_4,"I have nothing to do, so I will accompany you back to Maiden House.",ข้าไม่มีอะไรทำอยู่แล้ว เดี๋ยวข้าจะไปตำหนักพิสุทธิ์กับพี่เอง
+R20063-5_0_1_5,"Hmm~ If there is such a man like my brother by my side, it would be good to help my sister hold the scene.",หืมม~  ถ้ามีคนเหมือนท่านน้องชายอยู่ข้างกายข้า คงจะทำให้พี่สาวคนนี่อุ่นใจเป็นแน่เจ้าค่ะ
+R20063-5_0_2_1,{PlayerName} Young hero!,ท่านจอมยุทธน้อย {PlayerName}!
 R20063-5_0_2_2,The protagonist moves to Maid
 R20063-5_0_2_3,Are you calling me?
 R20063-5_0_2_4,"{PlayerName} Young hero, great, there is a very troublesome problem in the museum, I don't know if Dojokeeper can handle it alone, you go and help her!"
