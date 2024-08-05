@@ -1215,9 +1215,9 @@ R10049-10_0_1,"That must be the Dragon Tooth, I'd better come with Miss Liu to g
 R10049-10_1_1,"This is the Dragon Tooth, the symbol of the identity of the city lord of Great Ant City...",นี่คือดาบเขี้ยวมังกร สัญลักษณ์ประจำตัวของเจ้าเมืองแมลงปอ...
 R10049-10_1_2,"This knife and the responsibility it represents...\nIt's much heavier than I thought...","ดาบเล่มนี้และภาระที่ต้องแบกรับนั่น...\nมันมากกว่าที่ข้าคิดนัก..."
 R10049-10_1_3,"{PlayerSurName} Sir, let's go to Great Ant City together and put an end to all this.",ท่าน {PlayerSurName} เราไปยังเมืองแมลงปอด้วยกันเถอะ ปิดฉากเรื่องราวทั้งหมดนี้
-R10049-10_1_4,"There will surely be many elders who cannot accept the dissolution when the time comes. Considering the worst-case scenario... there might be a riot, but with {PlayerSurName} here, I have nothing to fear."
-R10049-10_1_5,"Don't worry, I will definitely uphold your Feminism."
-R10049-10_1_6,"With you here, I am at ease. Uncle Xiao should have prepared the boat. If you want to go to Great Ant City, just give him a heads up."
+R10049-10_1_4,"There will surely be many elders who cannot accept the dissolution when the time comes. Considering the worst-case scenario... there might be a riot, but with {PlayerSurName} here, I have nothing to fear.",แน่นอนว่าคงจะมีผู้อาวุโสมากมายที่ไม่สามารถยอมรับการจำพรากได้ หากเวลานั้นมาถึง ในกรณีที่แย่ที่สุด...อาจจะเกิดความวุ่นวาย แต่ถ้า{PlayerSurName}อยู่ที่นี่ ข้าไม่มีอะไรต้องกลัวเลย
+R10049-10_1_5,"Don't worry, I will definitely uphold your Feminism.",ไม่ต้องกลัว ข้าจะเป็นผู้พิทักษ์บุปผาให้แก่เจ้า
+R10049-10_1_6,"With you here, I am at ease. Uncle Xiao should have prepared the boat. If you want to go to Great Ant City, just give him a heads up.",หากเจ้าอยู่ที่นี่ ข้าก็วางใจ พี่เสี่ยวจะเตรียมเรือให้กับเจ้า ถ้าเจ้าต้องการไปเมืองแมลงปอ ก็บอกพี่ชายเสี่ยวได้เสมอ
 R10049-11_0_1,"To dissolve Great Ant City, Miss Liu, the city lord, needs to issue the order. Let's go together."
 R10049-11_1_1,"Welcome, city lord!","ยินดีต้อนรับ, ท่านเจ้าเมือง"
 R10049-11_1_2,(Deep breath...),(สูดหายใจเข้าลึก ๆ...)
@@ -3488,10 +3488,10 @@ R10056-5_65_7,"In a secret language that only Jiang Ziyan can understand, you gr
 R10056-5_65_8,Mission accomplished!
 R10056-5_65_9,"This manual encompasses all the master's hard work, even someone like you who has never practiced from a young age can learn from it."
 R10056-5_65_10,"Haha, that would be wonderful."
-R10025-6_0_1,"Kid, I've been staying in Shifa Temple for too long and want to see other temples, do you have any recommendations?"
-R10025-6_0_2,"Me? Besides Shifa Temple, I also know Baoguo Temple in Daliang City, Yunlin Temple in Lin'an City..."
-R10025-6_0_3,"I've been to Baoguo Temple, not going there! But I haven't been to Yunlin Temple, how about you take me there?"
-R10025-6_0_4,"I don't mind taking you there, but I hope you won't eat meat and drink alcohol in front of others, not every temple is like Shifa Temple."
+R10025-6_0_1,"Kid, I've been staying in Shifa Temple for too long and want to see other temples, do you have any recommendations?",ไอ้หนู อาตมาอยู่ที่วัดซื่อฟ่ามานานเกินไปแล้ว อยากไปดูวัดพุทธที่อื่นบ้าง เจ้ามีที่ไหนแนะนำไหม?
+R10025-6_0_2,"Me? Besides Shifa Temple, I also know Baoguo Temple in Daliang City, Yunlin Temple in Lin'an City...",ข้าเหรอ? นอกจากอารามฉีฟา ก็รู้จักเพียงวัดเป่ากั๋วในเมืองต้าเหลียง และวัดป่าเมฆาในเมืองหลินอัน...
+R10025-6_0_3,"I've been to Baoguo Temple, not going there! But I haven't been to Yunlin Temple, how about you take me there?",ข้าเคยไปวัดเป่ากั๋วแล้วไม่มีอะไรสักกะติ๊ด! แต่ข้ายังไม่เคยไปยังวัดป่าเมฆาเลย เจ้าพาข้าไปสักหน่อยสิ?
+R10025-6_0_4,"I don't mind taking you there, but I hope you won't eat meat and drink alcohol in front of others, not every temple is like Shifa Temple.",จะพาท่านไปข้าไม่มีปัญหาหรอก แต่หวังว่าท่านคงไม่ไปกินเนื้อร่ำสุราที่นั่นเล่า ที่นั่นไม่ใช่วัดแบบอารามฉีฟา
 R10025-6_0_5,"Don't worry, I won't do anything to make you uncomfortable."
 R10025-6_1_1,"Yunlin Temple... indeed a good temple, but not close enough to Buddha."
 R10025-6_1_2,You figured that out just by walking a few steps at the entrance?
@@ -4311,13 +4311,13 @@ DNJH-1_1_5_6,A man in white in the Government Office...,ชายชุดขา
 DNJH-1_1_5_7,Thank you for the information!,ขอบคุณสำหรับข้อมูล!
 DNJH-1_1_5_8,"Wait, aren't you that jinx?! Are you asking about Mr. Liu's business because..."
 DNJH-1_1_5_9,"Forget it, forget it, it's bad luck. I can't control the affairs of you vagabonds, you better go!"
-DNJH-1_2_1_1,"Who are you? If you have any grievances, go to the Prefect."
-DNJH-1_2_1_2,"No, I came to find you. I want to ask if the owner of the Tower of Prosperity, Mr. Liu, has come to see you?"
-DNJH-1_2_2_1,"What flowers, willow trees? What are you talking about?"
+DNJH-1_2_1_1,"Who are you? If you have any grievances, go to the Prefect.",เจ้าเป็นใคร? มีเหตุอะไรไปก็ไปร้องท่านผู้ว่าได้เลย
+DNJH-1_2_1_2,"No, I came to find you. I want to ask if the owner of the Tower of Prosperity, Mr. Liu, has come to see you?",ไม่ ข้ามาหาท่าน ข้าต้องการถามท่านว่า ท่านหลิวแห่ง Tower of Prosperity ได้มาพบท่านหรือไม่?
+DNJH-1_2_2_1,"What flowers, willow trees? What are you talking about?",ดอกไม้อะไร ต้นหลิวอะไร พวกเจ้ากำลังพูดเรื่องอะไรกันอยู่?
 DNJH-1_2_2_2,"This... Sir, this young hero wants to express his gratitude. Under your governance, Daliang City is flourishing with flowers and willow trees, a peaceful scene...",ข้าน้อย...รู้สึกซาบซึ้งใจเป็นอย่างยิ่งที่ท่านจอมยุทธหนุ่มผู้นี้ต้องการแสดงความขอบคุณ ภายใต้การปกครองของท่าน เมืองต้าเหลียงกลับมาเจริญรุ่งเรือง ประชาชนอยู่ร่มเย็นเป็นสุข เปรียบเสมือนภาพวาดอันงดงามที่ประดับประดาด้วยดอกไม้และต้นหลิว
 DNJH-1_2_2_3,"Hahaha, you're not wrong. Your words make all my efforts worthwhile.",ฮ่าฮ่า..ท่านพูดถูกต้องแล้ว คำพูดของท่านช่างคุ้มค่ากับความพยายามของข้าพเจ้าเสียจริง
 DNJH-1_2_3_1,"(In a low voice) Young hero, this is not the place to talk. Let's find another place.",(กระซิบ) ท่านจอมยุทธ ที่นี่ไม่ใช่สถานที่เหมาะสมสำหรับการพูดคุยกัน หาที่อื่นคุยกันดีกว่า
-DNJH-1_2_3_2,No one else should be able to hear us here...
+DNJH-1_2_3_2,No one else should be able to hear us here...,เอาหล่ะ ที่นี่น่าจะไม่มีใครได้ยินเราแล้ว
 DNJH-1_2_3_3,What do you want to talk about?,ท่านมีเรื่องใดปรารถนาจะสนทนากับข้าหรือ?
 DNJH-1_2_3_4,"...Your reaction just proves that the owner of the Liu Building has indeed come to see you, hasn't he? I want to know why he came to see you.",...ปฏิกิริยาของท่านพิสูจน์แล้วว่า เจ้าของตึก หลิวมาพบท่านจริงๆ ข้าพเจ้าอยากทราบว่าเขามาพบท่านเพื่อเหตุใด
 DNJH-1_2_4_1,"Sigh... Do you know, a few days ago, the owner of the Liu Building held a banquet and invited many officials and nobles, but at the banquet..."
@@ -4337,10 +4337,10 @@ DNJH-1_2_6_3,Waste of time!
 DNJH-1_2_7_1,"(In a low voice) Young hero, this is not the place to talk. Let's find another place.",(กระซิบ) ท่านจอมยุทธ ที่นี่ไม่ใช่สถานที่เหมาะสมสำหรับการพูดคุยกัน หาที่อื่นคุยกันดีกว่า
 DNJH-1_2_8_1,Still want to ask about the owner of the Liu Building? Are you ready to show your sincerity this time?
 DNJH-1_2_9_1,"Alright, considering you've given me quite a few gifts before, I'll tell you. But you must not spread it around!"
-DNJH-1_2_9_2,"Don't worry, I won't spread it."
-DNJH-1_2_10_1,Is this enough to show my sincerity?
-DNJH-1_2_10_2,"Considering your sincerity, I'll tell you, but you must not spread it around!"
-DNJH-1_2_10_3,"Don't worry, I won't spread it."
+DNJH-1_2_9_2,"Don't worry, I won't spread it.",อย่าได้กังวล ข้าจะไม่แพร่ออกไป
+DNJH-1_2_10_1,Is this enough to show my sincerity?,สิ่งนี้พอจะแสดงความจริงใจของข้าได้หรือไม่ ?
+DNJH-1_2_10_2,"Considering your sincerity, I'll tell you, but you must not spread it around!",เห็นแก่ความจริงใจของเจ้า ข้าจะบอกแล้วกัน แต่เรื่องนี้ห้ามแพร่งพรายออกไป! 
+DNJH-1_2_10_3,"Don't worry, I won't spread it.",อย่าได้กังวล ข้าจะไม่แพร่ออกไป
 DNJH-1_2_11_1,"In theory, if I wanted to, I could also serve as a Prefect. This information would certainly do you no harm."
 DNJH-1_2_11_2,That makes some sense...
 DNJH-1_2_11_3,"Then I will tell this news to {PlayerSurName}, and when you rise to prominence in the future, remember to take care of me."
@@ -4349,9 +4349,9 @@ DNJH-1_2_12_2,"I didn't expect you to understand my talent so well, it's a pity 
 DNJH-1_2_12_3,"So, about this Liu Fuming..."
 DNJH-1_2_12_4,"Of course I'll tell you! But you won't spread it around, right?"
 DNJH-1_2_12_5,"Don't worry, of course I won't."
-DNJH-1_2_13_1,"Actually, the owner of the Liu Building came to invite me to a banquet."
-DNJH-1_2_13_2,A banquet?
-DNJH-1_2_13_3,"Yes, according to the owner of the Liu Building, many of the most powerful and wealthy people in Zhongzhou will gather there."
+DNJH-1_2_13_1,"Actually, the owner of the Liu Building came to invite me to a banquet.",จริงๆแล้วเจ้าของตึกหลิวได้มาเชิญข้าไปงานเลี้ยง
+DNJH-1_2_13_2,A banquet?,งานเลี้ยง?
+DNJH-1_2_13_3,"Yes, according to the owner of the Liu Building, many of the most powerful and wealthy people in Zhongzhou will gather there.",ใช่แล้ว ตามที่ท่านเจ้าของตึกหลิวกล่าววมา จะมีเหล่าคนที่ร่ำรวยและมีอำนาจที่สุดใน Zhongzhou มากมายมารวมตัวกันที่นั้น
 DNJH-1_2_13_4,Was the Prefect also invited?
 DNJH-1_2_13_5,"Him? No, everyone knows that the Prefect is a fool, and it's actually Me, the Clerk, who's doing the real work in the entire Daliang Prefecture."
 DNJH-1_2_13_6,(It seems that the event Mr. Liu was talking about is this banquet. I need to find a way to sneak in.)

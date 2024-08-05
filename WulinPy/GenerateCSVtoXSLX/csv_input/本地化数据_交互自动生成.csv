@@ -1473,10 +1473,10 @@ NpcFactionBuy_洛天雄_RefuseSameFactionOnly,"Our sect's supplies are only for 
 NpcFactionBuy_洛天雄_Before,"The Crime Investigation Bureau rewards based on merit, and will not favor one over another.|These are the items that our sect members can get.|These things are quite helpful for your journey in the martial world.", สำนักสืบสวนยึดหลักความความชอบเป็นสำคัญผู้ใดมีผลงานย่อมได้รับรางวัลไม่มีการลำเอียง|ศิษย์สำนักเราสามารถได้รับสิ่งของเหล่านี้|สิ่งเหล่านี้ล้วนมีประโยชน์อย่างยิ่งสำหรับการท่องยุทธภพ 
 NpcFactionBuy_洛天雄_NoBuy,{PlayerName} needs to work harder.|{PlayerName} must not slack off.|Accumulate some more Sect contribution.,{PlayerName} ต้องทำงานหนักขึ้น|{PlayerName} ต้องไม่หย่อนยาน|สะสมความดีความชอบสำนักให้มากขึ้น
 NpcFactionBuy_洛天雄_HasBuy,Be sure to use these items for the right path.|Make good use of these things and catch all the criminals in the world.
-NpcFactionBuy_蔡元常_RefuseSameFactionOnly,"Our academy's supplies are only for the use of our academy's students, please leave, young hero."
-NpcFactionBuy_蔡元常_Before,These are the supplies of our academy.
+NpcFactionBuy_蔡元常_RefuseSameFactionOnly,"Our academy's supplies are only for the use of our academy's students, please leave, young hero.",สิ่งของเหล่านี้มีไว้ให้ศิษย์ในสำนักเท่านั้น เชิญท่านกลับไปเถิดจอมยุทธน้อย
+NpcFactionBuy_蔡元常_Before,These are the supplies of our academy.,พวกนี้คือทรัพยากรสำหรับศิษย์ในสำนัก
 NpcFactionBuy_蔡元常_NoBuy,{PlayerName} needs to work harder.|{PlayerName} must not slack off.|Accumulate some more Sect contribution.,{PlayerName} ต้องทำงานหนักขึ้น|{PlayerName} ต้องไม่หย่อนยาน|สะสมความดีความชอบสำนักให้มากขึ้น
-NpcFactionBuy_蔡元常_HasBuy,Be sure to use these items for the right path.|The head of our academy thinks highly of you and hopes you will continue to work hard.
+NpcFactionBuy_蔡元常_HasBuy,Be sure to use these items for the right path.|The head of our academy thinks highly of you and hopes you will continue to work hard.,จงอย่าใช่สิ่งเหล่านี้ในทางที่ผิด|ท่านเจ้าสำนักหวังในตัวเจ้าไว้มาก จงพยายามต่อไป
 NpcHello_剑痴_SelfIntroHigh,What do you want from me?
 NpcHello_剑痴_SelfIntroLow,What do you want from me?
 NpcHello_剑痴_Common,
