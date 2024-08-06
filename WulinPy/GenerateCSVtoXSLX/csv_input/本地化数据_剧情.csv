@@ -1271,7 +1271,7 @@ M1200-3_8_3,"We, the Blue Wind Camp, like your kind. From now on, you are the th
 M1200-3_8_4,Shall we address each other as brothers?,พวกเราเรียกกันเป็นพี่น้องดีไหม
 M1200-3_8_5,Straightforward! Big brother!,ตรงไปตรงมา! พี่ใหญ่!
 M1200-3_9_1,You dare to show off your trifling skills?,กล้าดียังไงมาโอ้อวดฝีมืออ่อนด้อย
-M1200-3_9_2,Guards!
+M1200-3_9_2,Guards!,ทหาร!
 M1200-3_9_3,<size=200%><b>Yes!</b></size>,<size=200%><b>ครับ!</b></size>
 M1200-3_9_4,Throw this lad out of the camp!,โยนมันไปนอกค่าย!
 M1200-3_9_5,<size=200%><b>Yes!</b></size>,<size=200%><b>ครับ!</b></size>
@@ -1324,14 +1324,14 @@ M1200-4_3_5,"You're back, third brother!"
 M1200-4_3_6,Any news?
 M1200-4_3_7,The second in command and a man in black were plotting something about the Nameless village treasure on a small path.,รองหัวหน้าและชายชุดดำกำลังวางแผนบางอย่างเกี่ยวกับสมบัติของหมู่บ้านนิรนามบนทางเล็กๆ
 M1200-4_3_8,"Unfortunately, I was discovered before I could hear the whole thing!",น่าเสียดายนัก ข้าดันถูกพบก่อนจะฟังเรื่องทั้งหมดครบ!
-M1200-4_3_9,What happened next?
-M1200-4_4_1,Big brother!
-M1200-4_4_10,Guards!
+M1200-4_3_9,What happened next?,ต่อไปจะเกิดอะไรขึ้น
+M1200-4_4_1,Big brother!,พี่ใหญ่!
+M1200-4_4_10,Guards!,ทหาร!
 M1200-4_4_11,<size=200%><b>Yes!</b></size>,<size=200%><b>ครับ!</b></size>
 M1200-4_4_12,Throw this lad out of the camp!,โยนมันไปนอกค่าย!
 M1200-4_4_13,<size=200%><b>Yes!</b></size>,<size=200%><b>ครับ!</b></size>
 M1200-4_4_2,"This kid, colluding with the enemy in private!"
-M1200-4_4_3,Are you serious?
+M1200-4_4_3,Are you serious?,เจ้าพูดจริงรึ?
 M1200-4_4_4,... (Unable to defend due to severe injuries)
 M1200-4_4_5,"See, he's not talking!"
 M1200-4_4_6,That's an admission of guilt!
@@ -1355,9 +1355,9 @@ M1200-5_1_9,"Third son, I think you have the material to be a boss.\nHow about t
 M1200-5_2_1,Good! You're just the person I had in mind!
 M1200-5_2_2,Get ready and come to me anytime!,เตรียมตัวให้พร้อมแล้วมาหาข้าได้ทุกเมื่อ!
 M1200-5_2_3,"In that case, when to make a move is up to you!"
-M1200-5_3_1,How about it?
+M1200-5_3_1,How about it?,อาการเป็นยังไงบ้าง?
 M1200-5_3_2,Are you ready to make a move?
-M1200-5_4_1,In that case.
+M1200-5_4_1,In that case.,ถ้าอย่างนั้น
 M1200-5_4_2,We'll go and kill the second in command.
 M1200-5_5_1,I didn't expect the big brother to be such a person!
 M1200-5_5_2,Humph! It seems that the second brother has always held a grudge against me!
@@ -1396,7 +1396,7 @@ M1301-1_2_7,"I know kung fu too, you can't scare me!\nAs the saying goes, ""Shou
 M1301-1_2_8,"Good spirit! In that case, we don't need to hold back,\nlet them taste our power!"
 M1301-1_3_1,Finally got rid of these annoying flies.
 M1301-1_3_2,{yell} Let's die together!,{yell} มาตายไปด้วยกันเถอะ!
-M1301-1_3_3,{yell} Shameless!
+M1301-1_3_3,{yell} Shameless!,{yell} ช่างไร้ยางอาย!
 M1301-1_3_4,"Are you awake?\nI didn't expect you to be so weak, but dare to talk so boldly, I really admire you."
 M1301-1_3_5,"Fighting, isn't it just about who shouts louder and who has harder fists?\nI didn't expect those guys to be so dishonorable and resort to sneak attacks!"
 M1301-1_3_6,"Alas, you're really a greenhorn, not suitable for the rivers and lakes."
@@ -1406,10 +1406,10 @@ M1301-1_3_9,"(This is a golden opportunity, what should I ask for?)"
 M1301-1_4_1,Sneaking around...,ซ่อนแถวไหนดี...
 M1301-1_5_1,"You're really money-minded.\nMoney is a good thing, but not everything can be bought with money.\nWell, since I promised, consider this money as our meeting gift."
 M1301-1_6_1,"Since we've met, it's fate, so I'll teach you a martial art.\nWhat kind of kung fu do you want to learn?"
-M1301-1_6_2,I want to choose...
+M1301-1_6_2,I want to choose...,ข้าขอเลือก...
 M1301-1_7_1,"I don't have time to guide you one by one, here's a manual for you to comprehend on your own.\nAlso, I'll give you a weapon, so you can bring out the effect of this martial art."
 M1301-1_8_1,"Since we've met, it's fate, so I'll give you a weapon as a souvenir.\nWhat kind of weapon do you want?"
-M1301-1_8_2,I want to choose...
+M1301-1_8_2,I want to choose...,ข้าขอเลือก...
 M1301-1_9_1,"Although it's not a rare item, it's enough for a beginner to defend himself.\nHere's another manual for you. Take it and learn well. You won't be bothered by a few thieves."
 M1301-2_1_1,Hmm? What's on the wall?,หืมม? นี่อะไรน่ะ?
 M1301-2_1_2,Is that some kind of fist technique?,ดูเหมือนจะเป็นวรยุทธเกี่ยวกับหมัดอะไรสักอย่าง?
@@ -1634,7 +1634,7 @@ M20300-2_3_1,"It's been a long time since I've heard such a touching story,\nI d
 M20300-2_3_2,I hope you can find your relatives soon.
 M20300-2_3_3,Why do I feel like I've heard this story before...
 M20300-21_1_1,Who is the uncle between us?
-M20300-21_1_10,...Of course it's you.
+M20300-21_1_10,...Of course it's you.,....แน่นอน ก็ท่านไง
 M20300-21_1_11,"You little brat, you still recognize me as your uncle!\nSince I'm your uncle, shouldn't you listen to me in everything?"
 M20300-21_1_12,"Uncle, everything else is fine, but this..."
 M20300-21_1_2,"Young man over there, can you help me settle this dispute?\nI, as an elder, told this brat to respect his elders and love the young, that's not wrong, right?"
@@ -2184,7 +2184,7 @@ M20304-1_17_1,"The offender {PlayerName} has repeatedly committed violent acts i
 M20304-1_18_1,"The criminal {PlayerName} has repeatedly committed violent acts in public, even audaciously assassinating the former prefect! \nSuch an unforgivable scoundrel must be immediately sent to the execution ground for beheading, as a warning to others!"
 M20304-1_19_1,Isn't this {PlayerName}? You've been reported!
 M20304-1_19_2,Can't you behave yourself!
-M20304-1_19_3,"Let's go, let's go!"
+M20304-1_19_3,"Let's go, let's go!",ไปเลย ไปเลย
 M20302_1_1,Is this gentleman going to stay in the hotel?,ท่านจอมยุทธจะพักที่โรงเตี้ยมหรือไม่? 
 M20302_2_1,"Get away, we don't welcome guests like you!",ไสหัวไป! ข้าไม่รับลูกค้าเช่นเจ้า!
 M20302_3_1,"Hey, kid! No going upstairs without paying!",เฮ้ ไอ้หนู! จะขึ้นไปชั้นบนต้องจ่ายเงินก่อนนะ!
@@ -2237,8 +2237,8 @@ M20300-5_1_8,"La Tazhang of Taoist Sect is also in Lin'an City, but I don't know
 M20300-5_1_9,"I heard that La Tazhang of Taoist Sect is a heavy drinker, speaking of drinking.","เมื่อพูดถึงการดื่ม, ข้าได้ยินมาว่าลาทาจางแห่งสำนักเต๋าเป็นนักดื่มตัวยง"
 M20300-5_1_10,"In Lin'an City, it is naturally <color=#c44b0e>Wine God Tower</color>.",ในเมืองหลินอัน ย่อมเป็น<color=#c44b0e>หอคอยเทพสุรา</color>โดยธรรมชาติ
 M20300-5_1_11,"Indeed, then let's go to the vicinity of Wine God Tower and try our luck, brother!","ถ้าอย่างนั้น, เราไปที่บริเวณใกล้ๆ หอคอยเทพสุราแล้วลองเสี่ยงโชคกันเถอะพี่ชาย!"
-M20300-5_1_12,Let's go!
-M20300-5_1_13,Interesting!
+M20300-5_1_12,Let's go!,ไปกันเถอะ!
+M20300-5_1_13,Interesting!,น่าสนใจ!
 M1100-23_1_1,"First of all, thank you for playing the trial version of ""Hero's Adventure""."
 M1100-23_1_2,Sunrise and sunset.
 M1100-23_1_3,"Unconsciously, we have come to the end of the trial version."
@@ -2305,7 +2305,7 @@ M20321-2_13_4,"What old times do I have with that old man who seeks glory?\nTalk
 M20321-2_13_5,I have a letter to deliver to the prince.
 M20321-2_13_6,"Young Master Cai, Chai Wang's Mansion and Confucius Temple are enemies, not friends.\nLin'an City does not welcome you Confucius Temple, please run away.","นายน้อยไช่, ตำหนักอ๋องไฉกับวัดขงจื๊อถือเป็นศัตรูกัน ไม่ใช่สหาย\nเมืองหลินอันไม่ต้อนรับเจ้าวัดขงจื้อ โปรดออกไปซะ"
 M20321-2_13_7,(Hand a letter to Chai Wangye),(มอบจดหมายถึงอ๋องไฉ)
-M20321-2_13_8,I will take my leave!
+M20321-2_13_8,I will take my leave!,ข้าขอตัวก่อน
 M20321-2_13_9,"After Cai Youzhi left, Chai Wangye's face was cloudy and uncertain, as if he had a lot on his mind.\nUnder the reminder of the housekeeper, Chai Wangye hastily started the banquet.\nChai Wangye's face showed no joy, and the atmosphere at the banquet was unusually oppressive.\nEveryone forced a few words of congratulations, all thinking about getting through the banquet as soon as possible and running away from this place of trouble.","หลังจากที่ไช่โหยวจื่อจากไป สีหน้าของอ๋องไฉก็ขุ่นมัวและไม่แน่นอน ราวกับว่าเขามีเรื่องในใจมากมาย\nภายใต้คำเตือนของพ่อบ้าน อ๋องไฉจึงเริ่มงานเลี้ยงฉลองอย่างเร่งรีบ\nสีหน้าของอ๋องไฉดูไม่มีความสุข และบรรยากาศในงานเลี้ยงก็ดูกดดันผิดปกติ\nทุกคนกล่าวแสดงความยินดีกันเพียงเล็กน้อย ทุกคนคิดว่าจะผ่านงานเลี้ยงฉลองโดยเร็วที่สุดและออกจากสถานที่แห่งปัญหานี้โดยเร็ว"
 M20321-2_14_1,"Prince, there is poison in this food and drink!"
 M20321-2_16_1,What's going on? How could this happen.,เกิดอะไรขึ้น นี่มันเกิดขึ้นได้อย่างไร?

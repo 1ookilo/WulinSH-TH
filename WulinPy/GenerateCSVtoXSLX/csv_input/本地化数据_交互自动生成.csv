@@ -1477,8 +1477,8 @@ NpcFactionBuy_蔡元常_RefuseSameFactionOnly,"Our academy's supplies are only f
 NpcFactionBuy_蔡元常_Before,These are the supplies of our academy.,พวกนี้คือทรัพยากรสำหรับศิษย์ในสำนัก
 NpcFactionBuy_蔡元常_NoBuy,{PlayerName} needs to work harder.|{PlayerName} must not slack off.|Accumulate some more Sect contribution.,{PlayerName} ต้องทำงานหนักขึ้น|{PlayerName} ต้องไม่หย่อนยาน|สะสมความดีความชอบสำนักให้มากขึ้น
 NpcFactionBuy_蔡元常_HasBuy,Be sure to use these items for the right path.|The head of our academy thinks highly of you and hopes you will continue to work hard.,จงอย่าใช่สิ่งเหล่านี้ในทางที่ผิด|ท่านเจ้าสำนักหวังในตัวเจ้าไว้มาก จงพยายามต่อไป
-NpcHello_剑痴_SelfIntroHigh,What do you want from me?
-NpcHello_剑痴_SelfIntroLow,What do you want from me?
+NpcHello_剑痴_SelfIntroHigh,What do you want from me?,เจ้าต้องการอะไรจากข้า
+NpcHello_剑痴_SelfIntroLow,What do you want from me?,เจ้าต้องการอะไรจากข้า
 NpcHello_剑痴_Common,
 NpcHello_剑痴_Like,
 NpcHello_剑痴_Dislike,
@@ -1904,7 +1904,7 @@ NpcMumble_霖安太白楼伙计_Dead,What a sudden disaster...|I'm at a loss in 
 NpcMumble_霖安太白楼厨师_Dead,The dish is cold...|It's settled now...
 NpcMumble_霖安开化塔守塔将军_Dead,It's a pity not to fall on the battlefield...|I really can't accept it...|The general dies after a hundred battles...|My life is over...
 NpcMumble_霖安开化塔护塔罗汉_Dead,Inescapable doom...
-NpcMumble_霖安云林寺住持_Dead,"If I don't go to hell, who will..."
+NpcMumble_霖安云林寺住持_Dead,"If I don't go to hell, who will...",ถ้าข้าไม่ลงนรก แล้วใครจะไป...
 NpcMumble_霖安柴王府看门家丁_Dead,"Your Highness, I've done my best...|Now I can live up to the prince...",ฝ่าบาท ข้าพระองค์ทำดีที่สุดแล้ว...|ตอนนี้ข้าพระองค์สามารถมีชีวิตได้สมกับเป็นองค์ชายแล้ว...
 NpcMumble_霖安花花公子_Dead,{NpcJobTalk:自我称呼} hasn't lived enough...|I can't accept it...|Damn it...|{NpcJobTalk:自我称呼} How could I die
 NpcMumble_霖安开路虎·张三_Dead,Born at the wrong time...|I can't accept it...|Damn it...,ข้ามาผิดจังหวะจริงๆ...|ข้าไม่ยอม...|บ้าเอ๊ย...
@@ -1948,15 +1948,15 @@ NpcMumble_野狼王啸月_Formation,Roar~,โฮก~
 NpcMumble_赤睛棕熊赤睛_Formation,Roar!!!,โฮกก!!!
 NpcMumble_野猪头目刚烈_Formation,Humph!!!,แฮ่!!
 NpcMumble_猎户的大黑狗_Formation,Whimper~ Woof!,ฮื่อ~ วู้ว!
-NpcMumble_无名小村大公鸡_Formation,Oh oh oh!
+NpcMumble_无名小村大公鸡_Formation,Oh oh oh!,โอ๊ะ โอ๊ะ โอ้
 NpcMumble_无名小村猎户_Formation,{NpcJobTalk:自我称呼} This trident is not vegetarian
 NpcMumble_步绝尘_Formation,Can you keep up with my speed?
 NpcMumble_步绝尘_WillingToEscape,"If you dare, come and chase me!"
-NpcMumble_长春子_WillingToEscape,I'll go first!
+NpcMumble_长春子_WillingToEscape,I'll go first!,ข้าจะก้าวออกไปก่อน!
 NpcMumble_苗木黎_WillingToEscape,What a bunch of lunatics...
 NpcMumble_洪小七_WillingToEscape,I won't play with you!,ข้าไม่อยากเล่นกับเจ้า!
 NpcMumble_任中横_WillingToEscape,Better to live in disgrace than to die
-NpcMumble_苗彩蝶_WillingToEscape,It's too dangerous here
+NpcMumble_苗彩蝶_WillingToEscape,It's too dangerous here,ที่นี่อันตรายมาก
 NpcMumble_释嗔_WillingToEscape,A wise man knows better than to fight when the odds are against him!,คนฉลาดย่อมรู้ดีกว่าการต่อสู้เมื่อเผชิญอุปสรรค!
 NpcMumble_凌鸿轩_WillingToEscape,"It's boring, I won't accompany you"
 NpcMumble_叶银瓶_WillingToEscape,I won't waste my time with you
@@ -1965,7 +1965,7 @@ NpcMumble_邋遢张_WillingToEscape,I won't play anymore!
 NpcMumble_蔡攸之_WillingToEscape,"Humph, I'll go first!","ฮืมม, ข้าจะก้าวออกไปก่อน!"
 NpcMumble_慧元禅师_WillingToEscape,"Outside of Inseparable, everything else is trivial",นอกจากชีวิตและความตายแล้ว ทุกอย่างล้วนเป็นเรื่องเล็กน้อย
 NpcMumble_癞头癫_WillingToEscape,"The situation is not good, I'll go first",สถานการณ์ไม่สู้ดี ข้าไปก่อนล่ะ
-NpcMumble_恶乞丐_WillingToEscape,We'll meet again soon!
+NpcMumble_恶乞丐_WillingToEscape,We'll meet again soon!,แล้วพบกันใหม่เร็วๆนี้
 NpcMumble_欧冶恒_WillingToEscape,I can't fall here
 NpcMumble_韩红玉_WillingToEscape,"I'll spare your life, come and get it another day!"
 NpcMumble_服部兵卫_WillingToEscape,Next time I'll make you pay!,คราวหน้า ข้าจะทำให้เจ้าได้ชดใช้!
@@ -1976,7 +1976,7 @@ NpcMumble_野狼王啸月_WillingToEscape,Whimper~,ฮื่ออ~
 NpcMumble_赤睛棕熊赤睛_WillingToEscape,Roar!,โฮก!
 NpcMumble_野猪头目刚烈_WillingToEscape,Snort!,ฟืดด!
 NpcMumble_猎户的大黑狗_WillingToEscape,Woof!,โฮ่ง!
-NpcMumble_无名小村大公鸡_WillingToEscape,Cluck!
+NpcMumble_无名小村大公鸡_WillingToEscape,Cluck!,กุ๊ก!
 NpcMumble_无名小村猎户_WillingToEscape,{NpcJobTalk:自我称呼} must live to run away from here
 NpcMumble_无名小村樵夫_WillingToEscape,{NpcJobTalk:自我称呼} can't die here,{NpcJobTalk:自我称呼} ตายที่นี่ไม่ได้
 NpcMumble_无名小村农夫_WillingToEscape,"What a ruthless character, it's important to escape"
@@ -1993,7 +1993,7 @@ NpcMumble_黑风寨看门寨众乙_WillingToEscape,{NpcJobTalk:自我称呼} has
 NpcMumble_艄公_WillingToEscape,Run away from this place of right and wrong as soon as possible
 NpcMumble_无名小村郎中_WillingToEscape,Run away from this place of right and wrong as soon as possible
 NpcMumble_无名小村老板娘_WillingToEscape,I won't stay and wait to die
-NpcMumble_落魄的武师_WillingToEscape,I'll go first
+NpcMumble_落魄的武师_WillingToEscape,I'll go first,ข้าจะก้าวออกไปก่อน
 NpcMumble_无名小村屠户_WillingToEscape,"I haven't married a wife yet, I can't die here!"
 NpcMumble_霖安城门守卫·甲_WillingToEscape,It's not worth risking my life,มันไม่คุ้มที่จะเสี่ยงชีวิตเลย
 NpcMumble_霖安城门守卫·乙_WillingToEscape,It's not worth risking my life,มันไม่คุ้มที่จะเสี่ยงชีวิตเลย
@@ -2010,14 +2010,14 @@ NpcMumble_霖安正直知府_WillingToEscape,。|I will make you pay!
 NpcMumble_霖安师爷_WillingToEscape,"If you lose your life, you will lose everything"
 NpcMumble_霖安武馆师傅_WillingToEscape,It's important to save your life!
 NpcMumble_霖安医馆郎中_WillingToEscape,Run away from this place of right and wrong as soon as possible
-NpcMumble_霖安医馆童子_WillingToEscape,Wow~ Run for your life!
+NpcMumble_霖安医馆童子_WillingToEscape,Wow~ Run for your life!,ว้าว~ วิ่งเพื่อชีวิตของคุณ!
 NpcMumble_霖安杂货店掌柜_WillingToEscape,Saving life is the most important!
 NpcMumble_霖安成衣铺掌柜_WillingToEscape,I can't afford it~ I'm leaving!
 NpcMumble_霖安饰品店掌柜_WillingToEscape,"Something big is going to happen, run away"
 NpcMumble_霖安太白楼掌柜_WillingToEscape,{NpcJobTalk:自我称呼} won't wade in the muddy water!
 NpcMumble_霖安太白楼伙计_WillingToEscape,"I have old and young, I can't have an accident!"
 NpcMumble_霖安太白楼厨师_WillingToEscape,"I have old and young, I can't have an accident!"
-NpcMumble_霖安开化塔守塔将军_WillingToEscape,Don't let me see you again!
+NpcMumble_霖安开化塔守塔将军_WillingToEscape,Don't let me see you again!,อย่าให้ข้าเห็นเจ้าอีก!
 NpcMumble_霖安开化塔护塔罗汉_WillingToEscape,The sea of suffering is boundless...
 NpcMumble_霖安云林寺住持_WillingToEscape,Put down the butcher knife and become a Buddha on the spot...,วางมีดลงเสียเถิด แล้วท่านก็จะบรรลุสู่หนทางแห่งพุทธภูมิได้
 NpcMumble_霖安柴王府看门家丁_WillingToEscape,I have to go find reinforcements to help,ข้าจะไปหากำลังเสริมมาช่วย
@@ -2056,7 +2056,7 @@ NpcMumble_无名小村年轻妇人_WillingToEscape,Get away from this place of r
 NpcMumble_柴王府护院武师_WillingToEscape,I'm going to call someone!,ข้าจะส่งคนไปทันที!
 NpcMumble_柴王府护院高手_WillingToEscape,I'm going to call someone!,ข้าจะส่งคนไปทันที!
 NpcMumble_衙门巡逻差役_WillingToEscape,"Bold rebel, wait if you dare!"
-NpcMumble_道玄宗弟子_WillingToEscape,You won't be so lucky next time!
+NpcMumble_道玄宗弟子_WillingToEscape,You won't be so lucky next time!,ครั้งต่อไปเจ้าไม่โชคดีเช่นนี้แน่!
 NpcMumble_妙音坊弟子_WillingToEscape,"Don't be too arrogant, you'll see next time!"
 NpcMumble_新宋朝廷宦官_WillingToEscape,"Oh my, it's important to save your life"
 NpcMumble_柴王府侍女_WillingToEscape,"I'm timid, I won't stay here",ข้ามันขี้ขลาด และข้าจะไม่อยู่ที่นี่อีก
@@ -2480,7 +2480,7 @@ NpcParalyze_付瑶琴_ParalzeRunAway,What is this man doing?!|You worthless fell
 NpcParalyze_付瑶琴_ParalzeBattle,"You're plotting something, seeking death!|You're seeking your own death!"
 NpcSteal_付瑶琴_RunAway,What is this man doing?!|You worthless fellow...
 NpcSteal_付瑶琴_KaiGan,"You're plotting something, seeking death!|You're seeking your own death!"
-NpcDriveAway_付瑶琴_XCKaiGan,Uncivilized!
+NpcDriveAway_付瑶琴_XCKaiGan,Uncivilized!,หยาบคาย
 NpcDriveAway_付瑶琴_KaiGan,This is too much!|Looking for death!|Today is your day of death!
 NpcTeach_付瑶琴_Refuse,You're not qualified to request from me.,เจ้ายังไม่ดีพอจะมาขอร้องข้า
 NpcJobTalk_自我称呼_付瑶琴,I,ข้า
