@@ -4372,39 +4372,39 @@ DNJH-1_2_15_1,Have you decided to attend the banquet?
 DNJH-1_2_15_2,(Should I go to the banquet with the Clerk?)
 DNJH-1_2_16_1,Come find Me when you've made up your mind.
 DNJH-1_2_17_1,"Alright, Me will give you his clothes first. Once you've changed, we'll set off."
-DNJH-1_2_20_1,"Remember, from now on, you are the Constable of Daliang City. Me will address you as {PlayerSurName}Constable, so be careful not to give yourself away."
-DNJH-1_2_20_2,Understood.
-DNJH-1_2_20_3,"Sir, who is this?"
-DNJH-1_2_20_4,This is {PlayerSurName}Constable of Daliang City. The owner of the Liu Building should have also Invited him.
-DNJH-1_2_20_5,"Nice to meet you, ladies."
-DNJH-1_2_20_6,"I see, I apologize for my rudeness. I hope {PlayerSurName}Constable won't hold it against me."
-DNJH-1_2_20_7,"Hmm, no problem."
-DNJH-1_2_20_8,"Thank you, sirs. Please come in."
+DNJH-1_2_20_1,"Remember, from now on, you are the Constable of Daliang City. Me will address you as {PlayerSurName}Constable, so be careful not to give yourself away.",จำไว้นะตอนนี้เจ้าเป็นมือปราบแห่งเมืองต้าเหลียง จากนี้ข้าจะเรียกเจ้าว่ามือปราบ {PlayerSurName} ระวังด้วยหล่ะ อย่าเผลอเผยตัวตนให้ใครรู้ได้
+DNJH-1_2_20_2,Understood.,เข้าใจแล้ว
+DNJH-1_2_20_3,"Sir, who is this?",นายท่านคะ นั่นใครหรือ?
+DNJH-1_2_20_4,This is {PlayerSurName}Constable of Daliang City. The owner of the Liu Building should have also Invited him.,นี่คือ มือปราบ {PlayerSurName} แห่งเมืองต้าเหลียง ข้าว่าเจ้าตึกหลิวควรเชิญเขาเช่นกันนะ
+DNJH-1_2_20_5,"Nice to meet you, ladies.",แม่นาง ยินดีที่ได้พบนะขอรับ
+DNJH-1_2_20_6,"I see, I apologize for my rudeness. I hope {PlayerSurName}Constable won't hold it against me.",เจ้าค่ะ ขอโทษที่เสียมารยาทกับท่านมือปราบ {PlayerSurName} ด้วยนะเจ้าคะ หวังว่าจะไม่ถือโทษข้าน้อยนะ
+DNJH-1_2_20_7,"Hmm, no problem.",อืม อย่าได้กังวล
+DNJH-1_2_20_8,"Thank you, sirs. Please come in.",ขอบคุณเจ้าค่ะ เชิญด้านในเลยเจ้าค่ะ
 DNJH-1_2_18_1,A message by carrier pigeon? It can even be delivered in such heavy rain...
 DNJH-1_2_18_2,"""To {PlayerSurName} young hero:\nThe banquet at the Tower of Prosperity has ended. If you wish to meet the owner of the Liu Building, please find another way."
 DNJH-1_2_18_2_0,"Written by the Clerk of Daliang City Government Office."""
 DNJH-1_2_18_3,It seems that the banquet at the Tower of Prosperity has ended. It's pointless to go back now.
 DNJH-1_2_19_1,"Now that I've come to the southeast, if I stay here for a few days, the rumors about Me in the Central Plains should die down. Even if I leave them alone, there should be no problem."
-DNJH-2_0_1_1,"Wow, I didn't expect so many people to be here already."
-DNJH-2_0_1_2,The arrival of the Clerk brings glory to our humble abode.
-DNJH-2_0_1_3,Being Invited by the owner of the Liu Building is the greatest honor for me.
-DNJH-2_0_1_4,"Clerk, who is this?"
-DNJH-2_0_1_5,"This is {PlayerSurName}Constable who was absent that day. He was supposed to be on duty today, but I managed to get him off."
-DNJH-2_0_1_6,"(Although I have a lot of questions for Liu Fuming, I should attend the banquet first.)"
-DNJH-2_0_1_7,"Nice to meet you, owner of the Liu Building."
-DNJH-2_0_1_8,"{PlayerSurName}Constable? You seem familiar... \nNever mind, welcome both of you. Let me show you to your seats, please follow me."
-DNJH-2_0_1_9,Thank you.
-DNJH-2_0_1_10,"Please have a seat here. I have some matters to attend to before the banquet begins, so I'll leave you for now."
-DNJH-2_0_1_11,"What do you think, {PlayerSurName}Constable, seeing is believing, right?"
-DNJH-2_0_1_12,"This place is indeed very grand, and it seems that all the attendees today are influential figures."
-DNJH-2_0_1_13,"Of course, as long as you seize the opportunity to get close to someone, you won't have to worry about food and drink for the rest of your life."
-DNJH-2_0_1_14,"Huh, I didn't expect Liu Fuming to arrange for you insignificant shrimps to share a table with me."
-DNJH-2_0_1_15,"You, you are... the Imperial Scholar, Mr. Shi?!"
-DNJH-2_0_1_16,"Hmph, at least you have some discernment."
-DNJH-2_0_1_17,"My surname is Pang, I serve as a Clerk in Daliang Prefecture. Although it's a humble position, I still want to contribute to Daliang and the country..."
-DNJH-2_0_1_18,"Tsk, so pretentious. Why did this Liu arrange me here?"
-DNJH-2_0_1_19,"You, you are..."
-DNJH-2_0_1_20,"You, if you haven't seen him in Zhongzhou, it's normal. This is the vanguard of the Shengjie Army in the Ye Family Battalion, General Yao!"
+DNJH-2_0_1_1,"Wow, I didn't expect so many people to be here already.",ว้าว ไม่คิดเลยว่าจะมีคนมาร่วมงานมากขนาดนี้
+DNJH-2_0_1_2,The arrival of the Clerk brings glory to our humble abode.,ท่านกุนซือมาถึงแล้ว การมาของท่านทำให้ที่นี้ดูมีเกรียติขึ้นทันตา
+DNJH-2_0_1_3,Being Invited by the owner of the Liu Building is the greatest honor for me.,การได้รับเชิญจากท่านเจ้าตึกหลิวต่างหากเล่าที่เป็นเกียรติสำหรับข้า
+DNJH-2_0_1_4,"Clerk, who is this?",ท่านกุนซือ นี่ใครรึ?
+DNJH-2_0_1_5,"This is {PlayerSurName}Constable who was absent that day. He was supposed to be on duty today, but I managed to get him off.",นี่คือมือปราบ {PlayerSurName} วันนั้นเขาไม่ได้อยู่ที่นั้น และวันนี้เขาก็ควรจะออกไปทำหน้าที่เช่นกัน แต่ข้าชวนเขามาร่วมงานด้วย
+DNJH-2_0_1_6,"(Although I have a lot of questions for Liu Fuming, I should attend the banquet first.)",(ข้ามีคำถามมากกับที่จะถามหลิวฟูหมิง แต่ดูแล้วข้าควรเนียนเข้าร่วมงานเสียก่อน)
+DNJH-2_0_1_7,"Nice to meet you, owner of the Liu Building.",ยินดีที่ได้รู้จัก ท่านเจ้าตึกหลิว
+DNJH-2_0_1_8,"{PlayerSurName}Constable? You seem familiar... \nNever mind, welcome both of you. Let me show you to your seats, please follow me.","มือปราบ {PlayerSurName} ? ท่านช่างดูคุ้นหน้าเสียจริง ...\nไม่เป็นไร ยินดีต้อนรับท่านทั้งสอง ข้าจะพาท่านทั้งสองไปที่นั่งของพวกท่าน โปรดตามข้ามา"
+DNJH-2_0_1_9,Thank you.,ขอบคุณ
+DNJH-2_0_1_10,"Please have a seat here. I have some matters to attend to before the banquet begins, so I'll leave you for now.",โปรดนั่งที่นี้ ข้ามีเรื่องที่ต้องจัดการก่อนงานเลี้ยงจะเริ่ม ขอตัวก่อน
+DNJH-2_0_1_11,"What do you think, {PlayerSurName}Constable, seeing is believing, right?",เป็นอย่างไรท่านมือปราบ {PlayerSurName} ที่นี้โอเคไหม ?
+DNJH-2_0_1_12,"This place is indeed very grand, and it seems that all the attendees today are influential figures.",ที่นี้ช่างใหญ่โตหรูหรา และดูเหมือนว่าผู้ร่วมงานในวันนี้ล้วนเป็นผู้มีอิทธิพลทั้งสิ้น
+DNJH-2_0_1_13,"Of course, as long as you seize the opportunity to get close to someone, you won't have to worry about food and drink for the rest of your life.",แน่นอน หากเจ้าคว้าโอกาสที่จะใกล้ชิดใครบางคนในนี้ รับรองเจ้าไม่ต้องกังวลเรื่องกินดื่มไปอีกเลยตลอดชีวิต
+DNJH-2_0_1_14,"Huh, I didn't expect Liu Fuming to arrange for you insignificant shrimps to share a table with me.",เฮอะ ข้าไม่คิดเลยว่าหลิวฟูหมิงจะจัดให้ข้านั่งโต๊ะเดียวกับพวกปลาซิวปลาสร้อยนี่
+DNJH-2_0_1_15,"You, you are... the Imperial Scholar, Mr. Shi?!",ท่าน ... ท่านคือ นักวิชาการหลวง ท่าน Shi หรือไม่?
+DNJH-2_0_1_16,"Hmph, at least you have some discernment.",อืมมม อย่างน้อยเจ้าก็ยังมีตาอยู่บ้าง
+DNJH-2_0_1_17,"My surname is Pang, I serve as a Clerk in Daliang Prefecture. Although it's a humble position, I still want to contribute to Daliang and the country...",ข้าน้อยแซ่ปัง ดำรงตำแหน่งเพียงแค่กุนซือเล็กๆ ในมณฑลต้าเหลียง แม้จะเป็นตำแหน่งที่ต่ำต้อย แต่ใจข้าพเจ้าก็ยังคงมุ่งมั่นที่จะทำประโยชน์ให้กับมณฑลต้าเหลียงและแผ่นดินนี้...
+DNJH-2_0_1_18,"Tsk, so pretentious. Why did this Liu arrange me here?",ชิส์ อวดดีเสียจริง ทำไมเจ้าหลิวถึงจัดให้ข้ามานั่งตรงนี้นะ?
+DNJH-2_0_1_19,"You, you are...",ท่าน ท่านคือ ...
+DNJH-2_0_1_20,"You, if you haven't seen him in Zhongzhou, it's normal. This is the vanguard of the Shengjie Army in the Ye Family Battalion, General Yao!",หากเจ้าไม่เคยพบเขาในเขตจงโจวนั้นย่อมเป็นเรื่องปกติ  นี่คือท่านผู้บัญชาการเหยา หัวหน้ากองทัพหน้าของกองทัพเสิ่งเจี้ย ในกองพลตระกูลเย่!
 DNJH-2_0_2_1,"(The Shengjie Army should have been annihilated, this man is still alive, did he desert the battlefield?)"
 DNJH-2_0_3_1,"(This, this guy is the one who insisted in the Supreme Court that Marshal Ye was guilty—!)"
 DNJH-2_0_4_1,"This guy—! My father trusted him so much, I must stab him a few times!"
@@ -4416,45 +4416,45 @@ DNJH-2_0_8_1,"Bah, this kind of villain can live in luxury, what a damn world!"
 DNJH-2_0_9_1,"If it wasn't here, I would have chopped him with a knife!"
 DNJH-2_0_10_1,Just hearing his voice makes me sick.
 DNJH-2_0_11_1,"(I didn't expect the comrades of the Ye Family Battalion to be invited here, Liu Fuming's purpose is even more intriguing.)"
-DNJH-2_0_12_1,"(Even the people of the Ye Family Battalion received an invite, what on earth does Liu Fuming want to do?)"
-DNJH-2_1_1_1,"Oh my, this is incredible, General, your heroic deeds in battle have inspired me greatly!"
-DNJH-2_1_1_2,"Cut the crap, I don't buy it."
-DNJH-2_1_1_3,"Oh my, isn't this Mr. Shi and General Yao? I didn't expect to have the honor to drink and chat with you two."
+DNJH-2_0_12_1,"(Even the people of the Ye Family Battalion received an invite, what on earth does Liu Fuming want to do?)",(แม้แต่คนของกองพันตระกูลเย่ก็ได้รับคำเชิญ เจ้าหลิวฟู่หมิงต้องการทำอะไรกันแน่?)
+DNJH-2_1_1_1,"Oh my, this is incredible, General, your heroic deeds in battle have inspired me greatly!",โอ้โห! นี่มันเหลือเชื่อมากเลยขอรับ ท่านนายพล ความกล้าหาญของท่านในสนามรบเป็นแรงบันดาลใจให้ข้าอย่างมากขอรับ
+DNJH-2_1_1_2,"Cut the crap, I don't buy it.",หยุดพูดเรื่องไร้สาระ ข้าไม่ต้องการ
+DNJH-2_1_1_3,"Oh my, isn't this Mr. Shi and General Yao? I didn't expect to have the honor to drink and chat with you two.",โอ้คุณพระ นี่นายท่าน Shi กับ นายพลเหยา ใช่หรือไม่? ข้าไม่คิดเลยว่าจะมีเกียรติดื่มและพูดคุยกับท่านทั้งสอง
 DNJH-2_1_2_1,"This... Although he is in disguise, he should be Officer Wang from the Investigation Department, I didn't expect him to be invited too."
-DNJH-2_1_3_1,"I'm sorry, I have poor eyesight, who are you?"
-DNJH-2_1_3_2,"Mr. Shi doesn't recognize me? It's true that the rich forget things, I visited Mr. Shi's house a few days ago."
-DNJH-2_1_3_3,"You, you are Officer Wang from the Investigation Department?!"
+DNJH-2_1_3_1,"I'm sorry, I have poor eyesight, who are you?",ขอโทษนะ สายตาข้าไม่ค่อยดี เจ้าคือใคร ?
+DNJH-2_1_3_2,"Mr. Shi doesn't recognize me? It's true that the rich forget things, I visited Mr. Shi's house a few days ago.",ท่าน Shi ลืมข้าแล้วหรือขอรับ? ว่ากันว่าผู้มีเงินทองมักจะความจำสั้น หากข้ายังจำไม่ผิด ไม่กี่วันก่อน ข้าน้อยเพิ่งไปเยือนจวนของท่านมาเองขอรับ
+DNJH-2_1_3_3,"You, you are Officer Wang from the Investigation Department?!",ท่าน ท่านคือหัวหน้าหวังจากหน่วยสืบสวน!?
 DNJH-2_1_3_4,"Since I was able to deceive Mr. Shi, it seems that my disguise skills are quite good."
-DNJH-2_1_3_5,"Officer Wang, your seat is not here."
-DNJH-2_1_3_6,"I just want to interact more with my colleagues in the court, is there anything wrong with that?"
-DNJH-2_1_3_7,This... but this table is already full...
+DNJH-2_1_3_5,"Officer Wang, your seat is not here.",หัวหน้าหวัง ที่ของท่านไม่ใช่ตรงนี้เจ้าค่ะ
+DNJH-2_1_3_6,"I just want to interact more with my colleagues in the court, is there anything wrong with that?",ข้าแค่อยากจะสนทนาสร้างความสัมพันธ์กับคนเหล่านี้ ข้าทำอะไรผิดไปงั้นรึ?
+DNJH-2_1_3_7,This... but this table is already full...,แต่ .... แต่ว่าโต๊ะนี่ที่นั่งเต็มแล้ว ...
 DNJH-2_1_3_8,Hmph.
-DNJH-2_1_3_9,"(Whispering) {PlayerSurName}Constable, quickly give up your seat for the officer..."
-DNJH-2_1_3_10,"(Considering the occasion, it's better to bear with it and cooperate with him for now.)"
-DNJH-2_1_3_11,"Please have a seat, sir."
-DNJH-2_1_3_12,"Not bad, you little Constable do have some discernment."
-DNJH-2_1_3_13,"Lord Wang, this is our Constable from the Daliang Mansion, I usually take charge of his discipline."
-DNJH-2_1_3_14,"The Daliang Mansion has good discipline, not bad."
-DNJH-2_1_3_15,"(They're flattering endlessly here, it's quite boring. Maybe I should sit somewhere else.)"
-DNJH-2_1_3_16,"Hello, I gave up my seat for him, could you arrange another seat for me?"
-DNJH-2_1_3_17,"Ah... alright, please follow me, honored guest."
-DNJH-2_1_3_18,"Please sit here, Constable."
-DNJH-2_1_3_20,"Wait, who is he, isn't this Lord Wang's seat?"
-DNJH-2_1_3_21,"I'm sorry, honored guest, Lord Wang has moved to another seat, this seat can only be given to Constable {PlayerSurName}."
-DNJH-2_1_3_22,"Hey, do you know how much effort I put into getting the owner of the Liu Building to arrange for Lord Wang and me to sit at the same table? Now that it's been replaced by this poor Constable, how am I supposed to do business?!"
+DNJH-2_1_3_9,"(Whispering) {PlayerSurName}Constable, quickly give up your seat for the officer...",(กระซิบ) มือปราบ {PlayerSurName} ท่านรีบลุกให้ท่านหัวหน้านั่งสิ
+DNJH-2_1_3_10,"(Considering the occasion, it's better to bear with it and cooperate with him for now.)",(ข้าไม่ควรทำให้เสียเรื่อง อดทนร่วมมือกับเขาไปก่อนแล้วกัน)
+DNJH-2_1_3_11,"Please have a seat, sir.",นั่งตรงนี้ได้เลยขอรับท่าน
+DNJH-2_1_3_12,"Not bad, you little Constable do have some discernment.",ไม่เลว เจ้ามือปราบหนุ่ม เจ้ามีวิจารณญาณดีนะ
+DNJH-2_1_3_13,"Lord Wang, this is our Constable from the Daliang Mansion, I usually take charge of his discipline.",นายท่านหวัง เขาคือมือปราบแห่งเมืองต้าเหลียง ข้าน้อยเป็นคนอบรมเขาเองขอรับ
+DNJH-2_1_3_14,"The Daliang Mansion has good discipline, not bad.",ศาลาการต้าเหลียงมีมารยาทที่ดี ไม่เลว ไม่เลว
+DNJH-2_1_3_15,"(They're flattering endlessly here, it's quite boring. Maybe I should sit somewhere else.)",(ที่นี้มีแต่คนประจบสอพลอกันไปมา ช่างน่าเบื่อเสียจริง บางทีข้าควรไปหาที่นั่งอื่น)
+DNJH-2_1_3_16,"Hello, I gave up my seat for him, could you arrange another seat for me?",แม่นาง ที่นั่งข้ายกให้เขาไปแล้ว เจ้าช่วยจัดที่นั่งอื่นให้ข้าได้หรือไม่?
+DNJH-2_1_3_17,"Ah... alright, please follow me, honored guest.",อ๋า ... เจ้าค่ะ โปรดตามข้ามาเจ้าค่ะ ท่านแขกผู้มีเกียรติ
+DNJH-2_1_3_18,"Please sit here, Constable.",กรุณานั่งที่นี้เจ้าค่ะ ท่านมือปราบ
+DNJH-2_1_3_20,"Wait, who is he, isn't this Lord Wang's seat?",เดี๋ยวก่อน เจ้าเป็นใครกันมานั่งที่ของนายท่านหวัง ?
+DNJH-2_1_3_21,"I'm sorry, honored guest, Lord Wang has moved to another seat, this seat can only be given to Constable {PlayerSurName}.",ขออภัยท่านแขกผู้มีเกียรติ นายท่านหวังได้ย้ายโต๊ะไปนั่งที่อื่นแล้ว ดังนั่นที่นั่งนี้จึงเป็นของท่านมือปราบ {PlayerSurName}
+DNJH-2_1_3_22,"Hey, do you know how much effort I put into getting the owner of the Liu Building to arrange for Lord Wang and me to sit at the same table? Now that it's been replaced by this poor Constable, how am I supposed to do business?!",นี่เจ้ารู้ไหมว่าข้าไปขอร้องท่านเจ้าตึกหลิวจัดที่นั่งให้ข้าได้นั่งโต๊ะเดียวกับหัวหน้าหวัง แต่ตอนนี้กลับกลายเป็นมือปราบตัวเล็กเช่นเจ้า แล้วแบบนี้ข้าจะทำธุรกิจต่อได้ยังไง!?
 DNJH-2_1_3_23,This... but Lord Wang...
 DNJH-2_1_3_24,"Hahaha, old Chen, this is what you call being too clever for your own good, man proposes, god disposes."
 DNJH-2_1_3_25,"Stinky rat, what did you say?"
 DNJH-2_1_3_26,"I'm laughing at your scheming, Chen Guangzhou, it's known to all! Everyone knows that Lord Wang likes calligraphy and painting, your calculations are really loud."
 DNJH-2_1_3_27,"You stinky rat who digs holes, watch your mouth or you'll have to deal with Eagle Claw Sun!"
 DNJH-2_1_3_28,You—
-DNJH-2_1_3_29,"The banquet is about to begin, the owner of the Liu Building has some words to say to all the honored guests, please be patient."
+DNJH-2_1_3_29,"The banquet is about to begin, the owner of the Liu Building has some words to say to all the honored guests, please be patient.",งานเลี้ยงกำลังจะเริ่มแล้ว นายท่านหลิวฝากมาบอกทุกท่านว่าโปรดอดใจรออีกนิดเจ้าค่ะ
 DNJH-2_1_3_30,"Hmph, consider yourself lucky, or I would have cursed you to death!"
-DNJH-2_1_3_31,"Honored guests, thank you for gracing Liu's banquet, your presence brings honor to my humble abode."
-DNJH-2_1_3_32,"Everyone present today, regardless of their background and status, are friends of Liu. Naturally, I will serve you with the top-notch food and drinks in the building, all expenses will be borne by me, please don't be polite, drink till you drop!"
+DNJH-2_1_3_31,"Honored guests, thank you for gracing Liu's banquet, your presence brings honor to my humble abode.",ขอบคุณท่านแขกผู้เกียรติทุกท่าน ที่ให้เกียรติมาเข้าร่วมงานเลี้ยงคนแซ่หลิวในวันนี้ การมาร่วมงานของทุกท่านทำให้งานเลี้ยงแสนธรรมดาดูพิเศษขึ้นทันใด
+DNJH-2_1_3_32,"Everyone present today, regardless of their background and status, are friends of Liu. Naturally, I will serve you with the top-notch food and drinks in the building, all expenses will be borne by me, please don't be polite, drink till you drop!",ทุกคนที่มาร่วมงานในวันนี้ไม่ว่าจะมีสถานะหรือภูมิหลังอย่างไร ก็ล้วนแล้วเป็นเพื่อนของคนแซ่หลิวผู้นี้ แน่นอนข้าจะเสริฟอาหารและสุราชั้นเลิศให้กับทุกท่านในตึกแห่งนี้ ค่าใช้จ่ายทั้งหมดข้าจะเป็นผู้รับผิดชอบเอง โปรดอย่าได้เกรงใจ เชิญดื่ม !
 DNJH-2_1_3_33,No return without getting drunk!|Owner Liu is generous!
 DNJH-2_1_3_34,"The Tower of Prosperity is indeed the most luxurious restaurant in Daliang City.\nDishes of wild herbs and seafood are served like a flowing stream, pots of fine wine are poured down the throat.\nOn the song and dance stage, beautiful women dance, making people's souls flip."
-DNJH-2_1_3_35,"Alright, after eating and drinking, we can't forget the purpose of this trip.\nSo far, nothing seems to have happened, why not take a walk around the building and see what other people are doing."
+DNJH-2_1_3_35,"Alright, after eating and drinking, we can't forget the purpose of this trip.\nSo far, nothing seems to have happened, why not take a walk around the building and see what other people are doing.","เอาหล่ะ กินดื่มเรียบร้อยแล้ว เราไม่ควรลืมจุดประสงค์ที่เรามาที่นี้ \nถึงตอนนี้จะยังไม่มีอะไรเกิดขึ้น แต่ข้าควรจะเดินสำรวจรอบๆดูว่าคนอื่นกำลังทำอะไรกันอยู่บ้าง"
 DNJH-2_1_4_1,"Constable {PlayerSurName}, the banquet is not over yet, please don't run away first."
 DNJH-2_1_5_1,"There are too many ghosts here, it's better not to stay for long."
 DNJH-2_1_6_1,"You massacred the Tower of Prosperity, and Liu Fuming declared that he would never coexist with you.\nBut this incident didn't bring you any further impact, as for Liu Fuming, no one has seen him since.\nA few days later, it is said that the residents of Daliang found a white blood-stained garment in the Daliang City river.\nBut that's another story.\nPeople only know that the Tower of Prosperity has been abandoned since then, becoming a place where lonely ghosts gather that everyone avoids."
@@ -4490,7 +4490,7 @@ DNJH-2_2_1_29,The master is very unhappy and ordered me to clean up your mess.
 DNJH-2_2_1_30,"Wait, please give me a chance to meet the master!"
 DNJH-2_2_1_31,The master doesn't want to see you.
 DNJH-2_2_1_32,I didn't expect a small Constable to be able to block my sword.
-DNJH-2_2_1_33,"You, you are..."
+DNJH-2_2_1_33,"You, you are...",ท่าน ท่านคือ ...
 DNJH-2_2_1_34,"Liu Fuming, I have something to ask you, you can't die so easily!"
 DNJH-2_2_1_35,Let's see if you have the ability to save him!
 DNJH-2_2_2_1,"(This guy's Wooden sword looks ordinary, but it can't be cut...)"
@@ -4662,7 +4662,7 @@ DNJH-3_11_1,"How could I forget, at the banquet, there are indeed people other t
 DNJH-3_11_2,It's the maids of the Tower of Prosperity!
 DNJH-3_11_3,Go find Liu Fuming and ask him to call out all the maids who have had contact with Mr. Shi.
 DNJH-3_11_4,"All the maids who had contact with Mr. Shi today are here, I have already instructed, you can ask anything."
-DNJH-3_11_5,Thank you.
+DNJH-3_11_5,Thank you.,ขอบคุณ
 DNJH-3_12_1,"The clues should be almost found, if you have thought about it, go find Liu Fuming."
 DNJH-3_12_2,"If you forget what others have said, go ask others again."
 DNJH-3-1_0_1,"Mr. Shi's corpse has purple lips, blood in his mouth, bite marks on his lower lip, his left hand clutching his chest, seems to have suffered greatly before death."
@@ -5541,7 +5541,7 @@ DNJH-7-1_0_41,"As for his information and the Wolf smoke at sea, I believe it's 
 DNJH-7-1_0_42,"Young hero {PlayerSurName}, although the military information is false, I can't let my guard down. However, I'm short of manpower. Could you help me investigate?"
 DNJH-7-1_0_43,"I would be honored to help, General."
 DNJH-7-1_0_44,"I will mark the location of the South-East Barbarian Camp on your map, and I will write a letter to prove your identity. To avoid any complications, I hope you can leave as soon as possible."
-DNJH-7-1_0_45,Understood.
+DNJH-7-1_0_45,Understood.,เข้าใจแล้ว
 DNJH-7-1_1_1,"Young hero {PlayerSurName}, how is the situation outside?"
 DNJH-7-1_1_2,You tell Han Anren everything that happened.
 DNJH-7-1_1_3,"Such a thing happened, thanks to {PlayerSurName}'s quick thinking, the people of Mei Pass Post were spared...",ในเหตุการณ์เช่นนี้ ต้องขอขอบคุณ {PlayerSurName} เป็นอย่างสูง ที่ช่วยผู้คนในสถานีม้าเร็วด่านเหมยขอรับ...
@@ -5588,7 +5588,7 @@ DNJH-7-1_7_7,"What a hassle... Well, we'll do our best."
 DNJH-7-1_7_8,"As for Brother Lu, there should be few pirates left at sea, so I'll ask Brother Lu to go out to sea and prove that there are no pirates."
 DNJH-7-1_7_9,Okay.
 DNJH-7-1_7_10,"There is still a warship in Phoenix Woods Harbor, I will allocate 50 soldiers to sail, to assist the brave man."
-DNJH-7-1_7_11,Thank you.
+DNJH-7-1_7_11,Thank you.,ขอบคุณ
 DNJH-7-1_7_12,"As for me, I will stay in the city and adapt to changes."
 DNJH-7-1_7_13,"Young hero, you have arranged everything in an orderly manner, you have really helped me a lot."
 DNJH-7-1_8_1,I don't think this is King Chai's true intention.
@@ -5609,7 +5609,7 @@ DNJH-7-1_8_15,"...Alas, that's not what I meant... Well, even though it's a hass
 DNJH-7-1_8_16,"As for the sea, there should be few pirates left, so I'll ask Brother Lu to go out to sea and prove that there are no pirates."
 DNJH-7-1_8_17,Okay.
 DNJH-7-1_8_18,"There is still a warship in Phoenix Woods Harbor, I will allocate 50 soldiers to sail, to assist the brave man."
-DNJH-7-1_8_19,Thank you.
+DNJH-7-1_8_19,Thank you.,ขอบคุณ
 DNJH-7-1_8_20,"As for {PlayerSurName} brother, I'll have to trouble you to accompany General Han and adapt to changes."
 DNJH-7-1_8_21,Okay.
 DNJH-7-1_8_22,"The gentleman has everything arranged in an orderly manner, which is a great help to me."
@@ -6076,7 +6076,7 @@ DNJH-8_0_2_4,"Thank you, Innkeeper."
 DNJH-8_0_2_5,"Don't mention it, one good turn deserves another!"
 DNJH-8_0_3_1,"The Sea Goddess also said that {PlayerName} is a good person. If he is a good person, how could he do such a thing?",แม้ท่านเทพธิดาเจ้าสมุทรบอกเองว่าเจ้า {PlayerName} เป็นคนดี ถ้าหากเป็นคนดีมีคุณธรรม ใยจึงทำเรื่องแบบนี้?
 DNJH-8_0_3_2,This... If the Sea Goddess said so.|Since the Sea Goddess said so...,นั่นสิ...ท่านเทพธิดาเจ้าสมุทรบอกเช่นนั้น......|เมื่อเทพธิดาเจ้าสมุทรบอก ก็คงต้องเป็นเช่นนั้น
-DNJH-8_0_3_3,Thank you.
+DNJH-8_0_3_3,Thank you.,ขอบคุณ
 DNJH-8_0_3_4,"You don't have to thank me, thank the Sea Goddess.",ไม่ต้องขอบคุณข้าหรอก ขอบคุณท่านเทพธิดาเจ้าสมุทรเหอะ
 DNJH-8_0_4_1,"I can also vouch for him, {PlayerSurName} is not a villain."
 DNJH-8_0_4_2,Who are you!
@@ -6617,7 +6617,7 @@ DNJH-10_1_1_5,"I have invited them elsewhere.\nAlright, let's not talk about the
 DNJH-10_1_1_6,"There's nothing else for you to do for now.\nAccording to the plan, we will force General Han to release the prince in two days. I'm sure the area around the Government Office will be bustling then, you can go and have a look."
 DNJH-10_1_1_7,So what should I do in these two days?
 DNJH-10_1_1_8,"You can freely roam around the South-East Region, if you happen to encounter other heroes in trouble, you can lend a hand."
-DNJH-10_1_1_9,Understood.
+DNJH-10_1_1_9,Understood.,เข้าใจแล้ว
 DNJH-10_2_1_1,"Damn, I didn't expect Mr. Ji to be so fragile...\nMr. Ji is gone, there's no point in working for him now..."
 DNJH-10-1_0_1,Why do I faintly hear the sound of fighting?
 DNJH-10-1_option1_1,Go take a look.

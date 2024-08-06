@@ -3766,8 +3766,8 @@ NpcChangeWeapon_唐婉儿_Refuse,"{PlayerSurName} Young hero and I are still str
 NpcChangeWeapon_何德诺_Refuse,"Don't touch it, I'm afraid my fire toad poison will hurt you."
 NpcChangeWeapon_海棠秋_Refuse,"Lady, no, don't touch my things."
 NpcChangeWeapon_燕罗冲_Refuse,Take your hand away.
-NpcChangeWeapon_凤璇玑_Refuse,"I'm sorry, I can't give you this."
-NpcChangeWeapon_顾清扬_Refuse,I won't give you my things.
+NpcChangeWeapon_凤璇玑_Refuse,"I'm sorry, I can't give you this.",ข้าขอโทษจริงๆ ข้าไม่สามารถช่วยเจ้าได้
+NpcChangeWeapon_顾清扬_Refuse,I won't give you my things.,ข้าไม่ส่งให้เจ้าหรอก!
 NpcChangeWeapon_鹰兄_Refuse,"Hehehe, surely the great hero {PlayerSurName} wouldn't mind me having this piece of equipment, right?|Hehe! Great hero {PlayerSurName}, please don't steal my stuff.",ฮี่ฮี่ฮี่ จอมยุทธ์ผู้ยิ่งใหญ่{PlayerSurName} คงไม่รังเกียจที่ข้าจะมีอุปกรณ์ชิ้นนี้ใช่ไหม?|ฮี่ฮี่! จอมยุทธ์ผู้ยิ่งใหญ่{PlayerSurName} ได้โปรดอย่าขโมยของของข้าเลย
 NpcMumble_二九_Dead,Forgot to save the game...
 NpcBattleReact_二九_JoinEnemy,The last one to leave is responsible for turning off the lights
