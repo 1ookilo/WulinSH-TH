@@ -1353,7 +1353,7 @@ part-11-1-3,The injury seems to be serious.
 part-11-1-4,Thank you... I... have...
 part-11-1-5,"Don't talk first, otherwise it would be bad if you lose your breath."
 part-11-1-6,No... there... someone is trying to kill me... be careful...
-part-11-1-7,What?
+part-11-1-7,What?,อะไร?
 part-11-1-8,It seems to be here!
 part-11-1-9,"How come one bald donkey is not enough, there are three more bald donkeys?"
 part-11-1-10,Evil doer! My Buddha will not let you do as you please!
@@ -2138,7 +2138,7 @@ part-32-1-5,Zai Xing?
 part-32-1-6,"Zai Xing! It's really you! Quick, bring a seat!"
 part-32-1-7,"Uncle Pengju, it's so good to hear your voice!"
 part-32-1-8,"Zai Xing, what happened to your eyes..."
-part-32-1-9,It's a long story...
+part-32-1-9,It's a long story...,เรื่องมันยาวน่ะ...
 part-32-1-10,"Don't worry, Zai Xing, now that you're here, I'll make sure everything is arranged for you."
 part-32-1-11,"I came to the Ye Family Battalion, not to be a useless person who needs to be served!"
 part-32-1-12,"Let me join the Ye Family Battalion, let me go to the battlefield again!"
@@ -2146,17 +2146,17 @@ part-32-1-13,"But, a warrior without eyes..."
 part-32-1-14,"My hearing has been trained to be as good as my eyes, I can hear what my eyes can't see!"
 part-32-1-15,"If you don't believe me, feel free to send someone to spar with me!"
 part-32-1-16,"Hmm... alright, I'll pick someone from the camp to compete with you!"
-part-32-2-1,"Damn, just a little bit..."
+part-32-2-1,"Damn, just a little bit...",ให้ตายเถอะ อีกนิดเดียว...
 part-32-2-2,"Good, worthy of a military family! I noticed in the spar just now that your sensitivity to weapons even surpasses that of soldiers with eyesight."
 part-32-2-3,General Yang's adopted son is indeed a prodigy!
 part-32-2-4,So I...
 part-32-2-5,"You are fully capable of fighting on the battlefield! Someone, enlist Mu Zaixing in the army!"
-part-32-2-6,Thank you!
+part-32-2-6,Thank you!,ขอบคุณ!
 part-32-3-1,Who's next? Come on!
 part-32-3-2,"Though blind, he possesses unparalleled divine power. If you had perfect vision, I'm afraid even I might not be your match."
 part-32-3-3,"Uncle Pengju, you flatter me."
 part-32-3-4,"You are fully capable of fighting on the battlefield! Someone, enlist Mu Zaixing in the army!"
-part-32-3-5,Thank you!
+part-32-3-5,Thank you!,ขอบคุณ!
 part-32-4-1,The blind soldier suddenly said he had unfinished business and temporarily ran away.
 part-32-4-2,"Military affairs are busy, I have neglected the other party... I must treat him well when he comes again."
 part-33-0-1,"There's a wounded boy lying outside the door, do you want to go and see?"
@@ -2215,7 +2215,7 @@ part-34-1-5,"I can't just give you my people for no reason, unless you..."
 part-34-1-6,"Unless I join, right? No problem."
 part-34-1-7,Huh?
 part-34-1-8,"I've heard of Shi Wenxiu's fame, he's a loyal and righteous man. Should I let him join us?"
-part-34_option1,Let him join.
+part-34_option1,Let him join.,ปล่อยเขาไป
 part-34_option2,"So proactive, there must be something fishy."
 part-34-2-1,"Good, you chose {MyFaction}, you must think highly of us, welcome to join!"
 part-34-2-2,"Stop dawdling, time waits for no one, quickly send people to find the treasure with me."

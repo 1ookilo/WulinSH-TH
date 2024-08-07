@@ -5782,21 +5782,21 @@ Spe-2030_18_1,"According to the rules of this sect, you are sentenced to confine
 Spe-2030_op_1_1,Accept the punishment.,ยอมรับการลงโทษ
 Spe-2030_op_1_2,Refuse to accept the punishment! <color=#097a76>(Start a fight directly)</color>,ไม่ยอมรับโทษ! <color=#097a76>(เข้าสู่การต่อสู้ทันที)</color>
 Spe-2030_19_1,"Let's go, I'll take you where you need to go.",ไปกันเถอะ ข้าจะพาเจ้าไปยังที่ที่เจ้าต้องการ
-Spe-2030_20_1,"It seems that you have no remorse. Such a person staying in the Confucius Temple will sooner or later be a trouble! Everyone, drive him out of the Confucius Temple!"
-Spe-2030_21_1,"{PlayerName}, you defy the master, disrespect your superiors, I want to see how you can stand in the martial arts world in the future! From now on, the Confucius Temple is at odds with you!"
-Spe-2030_21_2,"I came out to wander in the martial arts world for freedom. There are too many rules in the Confucius Temple, this is not allowed, that is not allowed, I am not happy to stay."
-Spe-2030_22_1,"Confucius Temple disciple {PlayerName}, defying the master, disrespecting superiors, is expelled from the Confucius Temple from today, and his words and deeds have nothing to do with the Confucius Temple from today."
-Spe-2030_23_1,"Humph, if I'm not welcome here, there will be places that will welcome me!"
-Spe-2030_24_1,"Confucius Temple disciple {PlayerName}, shameless, immoral, disgracing the Confucian culture!"
-Spe-2030_24_2,"The sect decides to expel {PlayerName} from the Confucius Temple from today, and from now on, his every move has nothing to do with the Confucius Temple."
-Spe-2030_24_3,"Humph, if I'm not welcome here, there will be places that will welcome me!"
+Spe-2030_20_1,"It seems that you have no remorse. Such a person staying in the Confucius Temple will sooner or later be a trouble! Everyone, drive him out of the Confucius Temple!",คนเช่นเจ้า กลับไม่มีใจที่จะสำนึกผิด อยู่ที่สำนักขงจื๊อ ต่อไปย่อมก่อให้เกิดเรื่องร้าย ท่านทั้งหลาย รีบขับไล่คนผู้นี้ ออกไปจากวัดขงจื้อซะ!
+Spe-2030_21_1,"{PlayerName}, you defy the master, disrespect your superiors, I want to see how you can stand in the martial arts world in the future! From now on, the Confucius Temple is at odds with you!",{PlayerName} เจ้ากล้าขัดคำสั่งอาจารย์ ไม่เคารพผู้ใหญ่ ข้าอยากรู้ว่าเจ้าจะอยู่รอดในยุทธภพได้อย่างไร! ตั้งแต่นี้ไป อย่าบังอาจมาที่สำนักขงจื๊ออีก!
+Spe-2030_21_2,"I came out to wander in the martial arts world for freedom. There are too many rules in the Confucius Temple, this is not allowed, that is not allowed, I am not happy to stay.",ข้าออกเดินทางเพื่อแสวงหาอิสรภาพในยุทธภพ กฎระเบียบในสำนักขงจื๊อมีมากเกินไป สิ่งนี้ห้าม สิ่งนั้นห้าม ข้าอยู่ไม่เป็นสุข
+Spe-2030_22_1,"Confucius Temple disciple {PlayerName}, defying the master, disrespecting superiors, is expelled from the Confucius Temple from today, and his words and deeds have nothing to do with the Confucius Temple from today.","ศิษย์สำนักขงจื๊อ {PlayerName} ขัดคำสั่งอาจารย์, ไม่เคารพผู้ใหญ่, ตั้งแต่วันนี้เป็นต้นไป ถูกขับไล่ออกจากสำนักขงจื๊อ, คำพูดการกระทำของเจ้าไม่มีส่วนเกี่ยวข้องกับสำนักขงจื๊ออีกต่อไป"
+Spe-2030_23_1,"Humph, if I'm not welcome here, there will be places that will welcome me!",ฮึ่ม! หากที่นี่ไม่ต้อนรับข้า ก็ย่อมมีที่อื่นต้อนรับข้า!
+Spe-2030_24_1,"Confucius Temple disciple {PlayerName}, shameless, immoral, disgracing the Confucian culture!","ศิษย์ขงจื๊อ {PlayerName}, หน้าด้าน ไร้ศีลธรรม ทำให้วัฒนธรรมขงจื๊อเสื่อมเสีย!"
+Spe-2030_24_2,"The sect decides to expel {PlayerName} from the Confucius Temple from today, and from now on, his every move has nothing to do with the Confucius Temple.",สำนักตัดสินใจขับไล่ {PlayerName} ออกจากสำนักขงจื๊อ ตั้งแต่วันนี้เป็นต้นไป ทุกการกระทำของเขาจะไม่มีส่วนเกี่ยวข้องกับสำนักขงจื๊ออีกต่อไป
+Spe-2030_24_3,"Humph, if I'm not welcome here, there will be places that will welcome me!",ฮึ่ม! หากที่นี่ไม่ต้อนรับข้า ก็ย่อมมีที่อื่นต้อนรับข้า!
 Spe-2030-1_op_1_dialog,What should I do now?,ตอนนี้ข้าควรทำอะไรดี?
-Spe-2030-1_op_1_1,"Reflect on your own faults. <color=#097a76>(Consume 2 shichen, 25 Stamina)</color>"
-Spe-2030-1_op_1_2,Read self-cultivation books.
-Spe-2030-1_op_1_3,Read books about tricks and skills.
+Spe-2030-1_op_1_1,"Reflect on your own faults. <color=#097a76>(Consume 2 shichen, 25 Stamina)</color>","จงไตร่ตรองถึงความผิดพลาดของตนเอง <color=#097a76>(2 ชั่วยาม, ใช้แรงกาย 25 หน่วย)</color>"
+Spe-2030-1_op_1_2,Read self-cultivation books.,อ่านหนังสือฝึกตน
+Spe-2030-1_op_1_3,Read books about tricks and skills.,อ่านตำราวิชาต่างๆ
 Spe-2030-1_op_1_4,Do nothing.,ข้าขอเลือก...
 Spe-2030-1_1_1,Two shichen later...,สองชั่วยามต่อมา...
-Spe-2030-1_2_1,"Reflect on yourself according to the Honorable standard, correct if there is, and strive if there is not."
+Spe-2030-1_2_1,"Reflect on yourself according to the Honorable standard, correct if there is, and strive if there is not.",เจ้าควรสำรวจตนเองให้สอดคล้องกับมาตรฐานอันสูงส่ง หากมีสิ่งใดบกพร่อง จงแก้ไข หากยังขาดตกบกพร่อง จงพากเพียร
 Spe-2030-1_op_2_1,"""The Supreme Response"", progress {TagNum:太上感应篇进度}%. <color=#097a76>(Consume 2 shichen, 25 Stamina)</color>","""บทอุปนัยไท่ชาง"", ความคืบหน้า {TagNum:太上感应篇进度}%.<color=#097a76>(ใช้ 2 ชั่วยาม, 25 แรงกาย)</color> "
 Spe-2030-1_op_2_2,"""The Thirty-Three Swordsmen"", progress {TagNum:三十三剑客图进度}%. <color=#097a76>(Consume 2 shichen, 25 Stamina)</color>","""ตำราภาพสามสิบสามมือกระบี่"""", ความคืบหน้า {TagNum:三十三剑客图进度}%.<color=#097a76>(ใช้ 2 ชั่วยาม, 25 แรงกาย)</color> "
 Spe-2030-1_op_2_3,"""The Book of Rites"", progress {TagNum:礼书通故进度}%. <color=#097a76>(Consume 2 shichen, 25 Stamina)</color>","""หนังสือพิธีกรรม"", ความคืบหน้า {TagNum:礼书通故进度}%.<color=#097a76>(ใช้ 2 ชั่วยาม, 25 แรงกาย)</color> "
@@ -5825,28 +5825,28 @@ Spe-2030-2_2_1,"{PlayerName}, you are grounded here for <color=#c44b0e>ten</colo
 Spe-2030-2_3_1,"{PlayerName}, you are grounded here for <color=#c44b0e>fifteen</color> days, you are not allowed to leave without permission!"
 Spe-2030-2_4_1,"{PlayerName}, you are grounded here for <color=#c44b0e>twenty</color> days, you are not allowed to go out without permission!"
 Spe-2030-2_5_1,"{PlayerName}, your grounding has been lifted, you can now come and go freely."
-Spe-2030-2_6_1,"Your confinement has not been lifted, you are not allowed to step outside, go back immediately!"
-Spe-2030-3_1,"Walk from the door to the appropriate position in the house, looking at the protagonist."
-Spe-2030-3_2_1,"When I was grounded back in the day, no one was kind enough to bring me food. It's not too late to eat your meal while it's hot and then reflect on your actions."
-Spe-2030-3_3_1,"How could you be so careless to let that old man Siye catch you red-handed? I'll plead for you, so he can lock you up for fewer days. Being locked up in this place is enough to drive anyone mad."
-Spe-2030-3_4_1,"Ever since you were grounded, no one has been able to match wits with me in poetry, so I had to drown my sorrows in wine. Today, I brought a pot of crude wine to share with Brother {PlayerSurName}."
-Spe-2030-3_5_1,"Recently, I got a piece of Nameless calligraphy, and I brought it here specifically for Brother {PlayerSurName}'s sharp eye."
-Spe-2030-3_6_1,You must be itching to practice your martial arts while being grounded here. How about I spar with you?
-Spe-2030-3_op_1_1,That's exactly what I had in mind! (Protagonist duels)
+Spe-2030-2_6_1,"Your confinement has not been lifted, you are not allowed to step outside, go back immediately!",เจ้ายังไม่ถูกยกเลิกการกักขังตัว เจ้าไม่อนุญาตให้ออกไปข้างนอก กลับไปเสีย!
+Spe-2030-3_1,"Walk from the door to the appropriate position in the house, looking at the protagonist.",จากประตูค่อยๆ เดินเข้ามา มองจ้องไปที่ตัวเอกโดยไม่ละสายตา
+Spe-2030-3_2_1,"When I was grounded back in the day, no one was kind enough to bring me food. It's not too late to eat your meal while it's hot and then reflect on your actions.",สมัยข้าถูกกักบริเวณ ไม่มีใครนำอาหารมาให้สักคน ไม่สายเกินไปที่จะรับประทานอาหารร้อนๆ แล้วกลับไปคิดทบทวนการกระทำของเจ้า
+Spe-2030-3_3_1,"How could you be so careless to let that old man Siye catch you red-handed? I'll plead for you, so he can lock you up for fewer days. Being locked up in this place is enough to drive anyone mad.",เจ้าช่างประมาทนักที่ให้เซียนสี่จับได้คาหนังคาเขาเช่นนี้ ข้าจะไปขอร้องให้เขาขังเจ้าน้อยวันลงหน่อย การถูกขังอยู่ในที่แห่งนี้มันน่าเบื่อหน่ายจนคนบ้าได้
+Spe-2030-3_4_1,"Ever since you were grounded, no one has been able to match wits with me in poetry, so I had to drown my sorrows in wine. Today, I brought a pot of crude wine to share with Brother {PlayerSurName}.",ตั้งแต่เจ้าถูกกักบริเวณ ไม่มีใครเทียบเคียงฉันในด้านกวีได้เลย ข้าจึงต้องดื่มสุราแก้ขัด วันนี้ข้าจึงนำสุราหยาบมาแบ่งปันกับพี่ชาย {PlayerSurName}
+Spe-2030-3_5_1,"Recently, I got a piece of Nameless calligraphy, and I brought it here specifically for Brother {PlayerSurName}'s sharp eye.",บังเอิญข้าได้มาซึ่งลายมือของไร้นามมาชิ้นหนึ่ง จึงนำมาให้ท่านพี่ {PlayerSurName} ได้พิจารณาด้วยสายตาอันเฉียบคมของท่าน
+Spe-2030-3_6_1,You must be itching to practice your martial arts while being grounded here. How about I spar with you?,เจ้าคงคันไม้คันมืออยากจะฝึกวิชาอยู่แน่ๆ ในเมื่อถูกกักบริเวณอยู่แบบนี้ เป็นไรไหมถ้าข้าจะลองต่อสู้กับเจ้าสักยก?
+Spe-2030-3_op_1_1,That's exactly what I had in mind! (Protagonist duels), นี่แหละคือสิ่งที่ข้ากำลังคิดอยู่พอดี! (ตัวเอกเข้าสู่การประลอง) 
 Spe-2030-3_op_1_2,Not interested.,ไม่สนใจ
-Spe-2030-3_7_1,"Alas, it seems I've come at a bad time. I'll come to see you another day."
-Spe-2030-3_8_1,"During these few days of grounding, your martial arts skills have not only not fallen behind, but have actually improved. Could it be that reading really benefits martial arts cultivation? It seems I need to read a few more books myself."
-Spe-2030-3_9_1,"It seems that your martial arts skills have greatly declined due to the confinement these past few days, which is really worrying."
-Spe-2030-3_10,"After finishing speaking, turn around and walk out."
-Spe-2030-3_11,"Walk from the door to the designated location, looking at the protagonist."
+Spe-2030-3_7_1,"Alas, it seems I've come at a bad time. I'll come to see you another day.",อุ๊ย ดูเหมือนว่าข้าจะมาไม่ถูกเวลาเสียแล้ว ข้าจะกลับมาเยี่ยมท่านใหม่ในวันอื่น
+Spe-2030-3_8_1,"During these few days of grounding, your martial arts skills have not only not fallen behind, but have actually improved. Could it be that reading really benefits martial arts cultivation? It seems I need to read a few more books myself.",ในช่วงเวลาที่ถูกกักบริเวณอยู่ไม่กี่วันนี้ วรยุทธ์ของเจ้าไม่เพียงแต่ไม่ได้เสื่อมถอยลง แต่กลับเจริญก้าวหน้าขึ้นเสียอีก เห็นทีว่าการอ่านหนังสือจะมีส่วนช่วยในการบ่มเพาะวิชาอยู่ไม่น้อย ดูเหมือนว่าข้าเองก็จำเป็นต้องหาหนังสือมาอ่านบ้างแล้ว
+Spe-2030-3_9_1,"It seems that your martial arts skills have greatly declined due to the confinement these past few days, which is really worrying.",ดูเหมือนว่าวิทยายุทธของเจ้าจะเสื่อมลงมากเพราะการถูกขังอยู่ในช่วงไม่กี่วันที่ผ่านมา นี่มันน่าเป็นห่วงยิ่งนัก
+Spe-2030-3_10,"After finishing speaking, turn around and walk out.",พูดจบแล้ว ก็โบกแขนเสื้อ แล้วเดินจากไป
+Spe-2030-3_11,"Walk from the door to the designated location, looking at the protagonist.",จากประตูแล้วเข้ามา มองตรงไปไม่เหลียวซ้ายขวา มุ่งตรงไปหาตัวเอก
 Spe-2030-3_12_1,Where have all the moral teachings I taught you in the past gone? Go read some books again and find the path of benevolence and forgiveness that you have lost.
 Spe-2030-3_13_1,"Honorable is as good as gold, how can you ignore your faith and become a person who goes back on his word?\nAll my teachings to you in the past have been in vain, you should reflect on yourself here!"
 Spe-2030-3_14_1,"Honorable is associated with righteousness, while the villain is associated with profit.\nRead ""Spring and Autumn"" carefully and think about whether you want to be honorable or a villain!"
 Spe-2030-3_15_1,"Don't look at what you shouldn't, don't listen to what you shouldn't, don't say what you shouldn't, don't do what you shouldn't!\nThink carefully about how you should behave in the world!"
 Spe-2030-3_16_1,"Knowing what you know, and knowing what you don't know, is knowledge.\nThe confinement period is a good time to read more books, reading is beneficial and increases wisdom."
 Spe-2030-3_17_1,"I originally wanted to give you some guidance, but now I see that your reflection is not bad, knowing your mistakes and being able to improve is the greatest, you continue to reflect."
-Spe-2030-3_18,"After finishing speaking, turn around and walk out."
-Spe-2030-3_19,"Walk from the door to the designated location, looking at the protagonist."
+Spe-2030-3_18,"After finishing speaking, turn around and walk out.",พูดจบแล้ว ก็โบกแขนเสื้อ แล้วเดินจากไป
+Spe-2030-3_19,"Walk from the door to the designated location, looking at the protagonist.",จากประตูแล้วเข้ามา มองตรงไปไม่เหลียวซ้ายขวา มุ่งตรงไปหาตัวเอก
 Spe-2030-3_20_1,"Young people can't help but do some deviant things, seeing that you are not depressed, I am relieved."
 Spe-2030-3_21_1,"I thought this insignificant punishment would have no effect on you, but seeing you looking so gloomy now, I am really disappointed."
 Spe-2030-3_22_1,"I heard that you have several pieces of calligraphy that have not been appraised yet, bring them out quickly and let me help you appraise them."
@@ -5864,8 +5864,8 @@ Spe-2030-3_27_1,How come it's another Draft of a Requiem to My Nephew? Could it 
 Spe-2030-3_27_2,"No, no, my eyesight has always been good, this one should be the fake."
 Spe-2030-3_27_3,"If I misjudge something, it would be embarrassing."
 Spe-2030-3_28_1,"Alas, it's really disappointing to come with joy and return with disappointment."
-Spe-2030-3_29,"After finishing speaking, turn around and walk out."
-Spe-2030-3_30,"Walk from the door to the designated location, looking at the protagonist."
+Spe-2030-3_29,"After finishing speaking, turn around and walk out.",พูดจบแล้ว ก็โบกแขนเสื้อ แล้วเดินจากไป
+Spe-2030-3_30,"Walk from the door to the designated location, looking at the protagonist.",จากประตูแล้วเข้ามา มองตรงไปไม่เหลียวซ้ายขวา มุ่งตรงไปหาตัวเอก
 Spe-2030-3_31_1,"Seeing your exhilarated look, it gives me a lot of inspiration.\nI want to strike while the iron is hot and create a ""Victory Return Picture"".","การได้เห็นการแสดงออกที่พึงพอใจของท่านเป็นแรงบันดาลใจให้ข้ามาก\nข้าต้องการตีเหล็กในขณะที่ร้อนและรีบสร้าง ""ภาพการกลับมาของชัยชนะ"""
 Spe-2030-3_32_1,………………,………………
 Spe-2030-3_32_2,…………,…………
@@ -5892,8 +5892,8 @@ Spe-2030-3_39_2,"The so-called Honorable is innocent, but the one who possesses 
 Spe-2030-3_40_1,I never thought I would see other versions of Along the River During the Qingming Festival in my lifetime. What more could I ask for with such a chance!,ข้าไม่เคยคิดเลย ว่าจะได้เห็นภาพวาดริมแม่น้ำในช่วงเทศกาลเชงเม้งชุดอื่นในช่วงชีวิตของข้า ข้าจะขออะไรได้มากกว่านี้ด้วยโอกาสเช่นนี้!
 Spe-2030-3_40_2,"This version of Along the River During the Qingming Festival is more charming than the last one, with every detail of the market life vividly depicted! Let me keep it for you, so you won't lose such a masterpiece while running around.","""ภาพวาดริมแม่น้ำในช่วงเทศกาลเชงเม้ง"" ชุดนี้มีเสน่ห์มากกว่าชุดก่อน และมีการแสดงฉากทุกประเภทในตลาดอย่างเต็มที่! จะดีกว่าถ้าให้ข้าที่จะเก็บไว้แทนเจ้า เพื่อที่เจ้าจะได้ไม่เดินทางไปรอบๆ และทำผลงานชิ้นเอกนี้เสียหาย"
 Spe-2030-3_41_1,"It must be because I came in a hurry today and didn't show enough sincerity.\nI'll come to you for the painting again after I have fasted, bathed and changed my clothes next time."
-Spe-2030-3_42,"After finishing speaking, turn around and walk out."
-Spe-2030-3_43,"Walk from the door to the designated location, looking at the protagonist."
+Spe-2030-3_42,"After finishing speaking, turn around and walk out.",พูดจบแล้ว ก็โบกแขนเสื้อ แล้วเดินจากไป
+Spe-2030-3_43,"Walk from the door to the designated location, looking at the protagonist.",จากประตูแล้วเข้ามา มองตรงไปไม่เหลียวซ้ายขวา มุ่งตรงไปหาตัวเอก
 Spe-2030-3_44_1,Stop doing boring things and come play a game of chess with me!
 Spe-2030-3_op_4_1,Agree to play chess.,ตกลงที่จะเล่นหมากรุก
 Spe-2030-3_op_4_2,Not interested.,ไม่สนใจ
@@ -5904,10 +5904,10 @@ Spe-2030-3_48_1,"In the end, my chess skills are superior. It seems you still ne
 Spe-2030-3_56_1,"I hold the black pieces, you hold the white pieces, black goes first, white goes second."
 Spe-2030-3_49_1,"I'll let you go today, I'll come to find you another day."
 Spe-2030-3_50_1,What a disappointment!,ช่างน่าผิดหวังจริงๆ!
-Spe-2030-3_51,"After finishing speaking, turn around and walk out."
-Spe-2030-3_52,"Walk from the door to the designated location, looking at the protagonist."
+Spe-2030-3_51,"After finishing speaking, turn around and walk out.",พูดจบแล้ว ก็โบกแขนเสื้อ แล้วเดินจากไป
+Spe-2030-3_52,"Walk from the door to the designated location, looking at the protagonist.",จากประตูแล้วเข้ามา มองตรงไปไม่เหลียวซ้ายขวา มุ่งตรงไปหาตัวเอก
 Spe-2030-3_53_1,…………,…………
-Spe-2030-3_54_1,"After finishing speaking, turn around and walk out."
+Spe-2030-3_54_1,"After finishing speaking, turn around and walk out.",พูดจบแล้ว ก็โบกแขนเสื้อ แล้วเดินจากไป
 Spe-2030-3_55_1,"{PlayerName}, are you going to waste all your time here?",{PlayerName} เจ้าจะมัวเสียเวลาอยู่ที่นี่ทำไม?
 Spe-2030-3_55_2,"I have pleaded with Mr. Siye and spared you from punishment. This is the only time, don't take it for granted!"
 Spe-2030-3_55_3,"If you only do those low-level things, you are not worthy to be my brother!"
