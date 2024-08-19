@@ -1218,22 +1218,22 @@ R10049-10_1_3,"{PlayerSurName} Sir, let's go to Great Ant City together and put 
 R10049-10_1_4,"There will surely be many elders who cannot accept the dissolution when the time comes. Considering the worst-case scenario... there might be a riot, but with {PlayerSurName} here, I have nothing to fear.",แน่นอนว่าคงจะมีผู้อาวุโสมากมายที่ไม่สามารถยอมรับการจำพรากได้ หากเวลานั้นมาถึง ในกรณีที่แย่ที่สุด...อาจจะเกิดความวุ่นวาย แต่ถ้า{PlayerSurName}อยู่ที่นี่ ข้าไม่มีอะไรต้องกลัวเลย
 R10049-10_1_5,"Don't worry, I will definitely uphold your Feminism.",ไม่ต้องกลัว ข้าจะเป็นผู้พิทักษ์บุปผาให้แก่เจ้า
 R10049-10_1_6,"With you here, I am at ease. Uncle Xiao should have prepared the boat. If you want to go to Great Ant City, just give him a heads up.",หากเจ้าอยู่ที่นี่ ข้าก็วางใจ พี่เสี่ยวจะเตรียมเรือให้กับเจ้า ถ้าเจ้าต้องการไปเมืองแมลงปอ ก็บอกพี่ชายเสี่ยวได้เสมอ
-R10049-11_0_1,"To dissolve Great Ant City, Miss Liu, the city lord, needs to issue the order. Let's go together."
+R10049-11_0_1,"To dissolve Great Ant City, Miss Liu, the city lord, needs to issue the order. Let's go together.",หากต้องการล้มล้างเมืองแมลงปอ ต้องให้คุณหนูหลิวซึ่งเป็นเจ้าเมืองเป็นผู้ออกคำสั่งเท่านั้น งั้นมากับคุณหนูหลิวเถอะ
 R10049-11_1_1,"Welcome, city lord!","ยินดีต้อนรับ, ท่านเจ้าเมือง"
 R10049-11_1_2,(Deep breath...),(สูดหายใจเข้าลึก ๆ...)
-R10049-11_1_3,"All of you here are loyal followers who followed my father - the former city lord Yagyū Musashi from our homeland to this place, transforming this deserted island into what it is today in just over a decade."
-R10049-11_1_4,"You have experienced the glory of Great Ant City, witnessed its decline, and even persevered through the darkest period of Great Ant City not long ago. As the new city lord, I thank you for your support and loyalty."
-R10049-11_1_5,We will always support City Lord Yueyong!
-R10049-11_1_6,"...My father's death is saddening, but our existence also brings more sadness to the world."
+R10049-11_1_3,"All of you here are loyal followers who followed my father - the former city lord Yagyū Musashi from our homeland to this place, transforming this deserted island into what it is today in just over a decade.",ทุกท่านที่นั่งอยู่ ณ ที่นี้ ล้วนเป็นผู้ภักดีที่ติดตามบิดาข้า - อดีตเจ้าเมือง ยางิว มุซาชิ เดินทางจากเกาะบ้านเกิดมายังดินแดนแห่งนี้ ใช้เวลาเพียงสิบกว่าปีก็สามารถเปลี่ยนแปลงเกาะร้างแห่งนี้ให้กลายเป็นเช่นทุกวันนี้ได้
+R10049-11_1_4,"You have experienced the glory of Great Ant City, witnessed its decline, and even persevered through the darkest period of Great Ant City not long ago. As the new city lord, I thank you for your support and loyalty.",ทุกท่านได้ผ่านช่วงเวลาอันรุ่งโรจน์ของเมืองแมลงปอ และได้เป็นพยานถึงช่วงเวลาแห่งความเสื่อมถอย ยิ่งกว่านั้นยังได้ร่วมฝ่าฟันช่วงเวลาที่มืดมนที่สุดของเมืองแมลงปอในระยะเวลาที่ผ่านมา ในฐานะเจ้าเมืองคนใหม่ ข้าพเจ้าขอขอบคุณสำหรับการสนับสนุนและความภักดีของทุกท่าน
+R10049-11_1_5,We will always support City Lord Yueyong!,สนับสนุนท่านเจ้าเมืองซึคุโยะตลอดไป!
+R10049-11_1_6,"...My father's death is saddening, but our existence also brings more sadness to the world.",...แม้การจากไปของท่านบิดาจะน่าเศร้า แต่การมีชีวิตอยู่ของพวกเราก็คงสร้างความทุกข์ให้กับคนอื่นไม่ต่างกัน
 R10049-11_1_7,Could it be...,มันอาจจะเป็น...
-R10049-11_1_8,"Today, as the new city lord, I declare -\nGreat Ant City, dissolved!"
+R10049-11_1_8,"Today, as the new city lord, I declare -\nGreat Ant City, dissolved!","ในวันนี้ ข้าพเจ้าในฐานะเจ้าเมืองคนใหม่ขอประกาศว่า -\nเมืองแมลงปอ จงล่มสลาย!"
 R10049-11_1_9_1,How could this be...,เป็นไปได้ยังไงเนี่ย...
 R10049-11_1_9_2,What's going on?!,เกิดอะไรขึ้น?!
 R10049-11_1_9_3,Dissolved?!,สลาย?!
 R10049-11_1_9_4,Is this real?,นี่เป็นเรื่องจริงเหรอ?
-R10049-11_1_10,"City Lord Yueyong, what do you mean?!"
-R10049-11_1_11,"This is the conclusion I have reached after careful consideration. The continued existence of Great Ant City in the world will only bring pain to people. Besides, you have been away from home for many years, you should want to go back and take a look."
-R10049-11_1_12,"Now you have nothing to do with Great Ant City, you can freely go wherever you want."
+R10049-11_1_10,"City Lord Yueyong, what do you mean?!",ท่านเจ้าเมืองซึคุโยะ นี่มันหมายความว่าอย่างไรกัน?!
+R10049-11_1_11,"This is the conclusion I have reached after careful consideration. The continued existence of Great Ant City in the world will only bring pain to people. Besides, you have been away from home for many years, you should want to go back and take a look.",นี่คือสิ่งที่ข้าครุ่นคิดมาอย่างถี่ถ้วน... การปล่อยให้เมืองแมลงปอตั้งอยู่ต่อไป ล้วนนำมาซึ่งความทุกข์เข็ญแก่ชาวโลก! ยิ่งไปกว่านั้น พวกเจ้าล้วนจากบ้านเกิดมาเนิ่นนาน คงอยากกลับไปเยี่ยมเยียนบ้างมิใช่หรือ
+R10049-11_1_12,"Now you have nothing to do with Great Ant City, you can freely go wherever you want.",บัดนี้ พวกเจ้าล้วนหมดสิ้นห่วงใยในเมืองแมลงปอแล้ว จงออกไปท่องยุทธภพกว้าง ตามแต่ใจปรารถนาเเถิด!
 R10049-11_1_13,So all our efforts have been in vain!,ดังนั้น ความพยายามทั้งหมดของเราก็เสียเปล่า!
 R10049-11_1_14,"Easier said than done, we have nowhere else to go!","พูดน่ะมันง่ายกว่าทำ, ตอนนี้เราไม่มีที่ให้ไปแล้ว!"
 R10049-11_1_15,You just want to shirk your responsibilities!,ท่านแค่อยากจะปัดความรับผิดชอบออกจากตัว!
