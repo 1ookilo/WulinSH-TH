@@ -378,8 +378,8 @@ BuffInfo_dlc内功_海纳百川,"Each attack gains an additional <#29F161>10% At
 BuffInfo_dlc内功_惊涛骇浪诀,"After entering battle, <#29F161>Critical increases by 20%</color>, and there is a <#29F161>20% chance to trigger Counter</color> when attacked."
 BuffInfo_dlc内功_金匮要略,"When HP is below 50%, <#29F161>Recover 50 HP</color> after each action.","เมื่อพลังชีวิตน้อยกว่า 50%,<#29F161>ฟื้นฟูพลังชีวิต 50 หน่วย</color>หลังจบตา"
 BuffInfo_dlc内功_四圣心源,Recover 10% of lost HP after each action.,ฟื้นฟูพลังชีวิต 10% จากที่เสียไปหลังจบตา
-BuffInfo_dlc内功_御兽术,"Summon a Wolf to assist in battle after each action, with a maximum of one per battle."
-BuffInfo_dlc内功_兽吼功,"Summon a bear to assist in battle after each action, with a maximum of two per battle."
+BuffInfo_dlc内功_御兽术,"Summon a Wolf to assist in battle after each action or when attacked, with a maximum of one summon per battle."
+BuffInfo_dlc内功_兽吼功,"Summon a Bear to assist in battle after each action or when attacked, with a maximum of two summons per battle."
 BuffInfo_dlc内功_兽王诀,"When attacking, if the enemy has the ""Tear"" effect, each layer increases <#29F161>Attack damage by 20%</color>. If the enemy has the ""Shock"" effect, each layer increases <#29F161>Critical by 20%</color>. After the attack, the enemy's ""Tear"" and ""Shock"" effects are cleared."
 BuffInfo_dlc内功_捕风诀,"After entering battle, <#29F161>Action Speed increases by 10%</color>."
 BuffInfo_dlc内功_凌云步,"Upon entering combat, <#29F161>Movement Range increases by 3 squares</color>."
@@ -404,3 +404,25 @@ BuffInfo_dlc内功_火蟾诀,"Upon entering battle, <#29F161>Attack increases by
 BuffInfo_dlc内功_混元劲,"Upon entering battle, <#29F161>Defense increases by 20 points</color>, when casting martial arts, <#29F161>MP Cost decreases by 20%</color>.",เมื่อเข้าสู่การต่อสู้ <#29F161>การป้องกันจะเพิ่มขึ้น 20 หน่วย</color> และเมื่อใช้วรยุทธ์ <#29F161>ค่า MP จะลดลง 20%</color>
 BuffInfo_dlc内功_圣火燎原,"Upon entering battle, <#29F161>Attack increases by 5%, Parry increases by 10%</color>.",เมื่อเข้าสู่การต่อสู้ <#29F161>การโจมตีจะเพิ่มขึ้น 5% และการปัดป้องจะเพิ่มขึ้น 10%</color>
 BuffInfo_dlc内功_圣火神功,"Upon entering battle, <#29F161>Attack increases by 10%</color>, when attacked, the attacker receives <#29F161>300 points of true damage</color>.",เมื่อเข้าสู่การต่อสู้ <#29F161>การโจมตีจะเพิ่มขึ้น 10%</color> และเมื่อถูกโจมตี ผู้โจมตีจะได้รับ <#29F161>ความเสียหายที่แท้จริง 300 หน่วย</color>
+BuffName_DLC先天_无所畏惧,Fearless
+BuffName_DLC先天_无所畏惧_光环,Action Recovery
+BuffName_DLC先天_忍术迷惑,Ninjutsu Deception
+BuffName_DLC先天_忍术迷惑_光环,Evasion Increase
+BuffName_DLC先天_泥牛入海,Into the Abyss
+BuffName_DLC先天_泥牛入海_光环,Into the Abyss
+BuffName_DLC先天_大军压境,Army's Press
+BuffName_DLC先天_忍术鹰击,Ninja Eagle Strike
+BuffName_DLC先天_算尽天下,Master Tactician
+BuffInfo_DLC先天_无所畏惧,"After each action, the whole team recovers <#29F161>10% of max HP</color>."
+BuffInfo_DLC先天_无所畏惧_光环,"After each action, recover <#29F161>10% of max HP</color>."
+BuffInfo_DLC先天_忍术迷惑,"Upon entering battle, the whole team's <#29F161>Evasion increases by 50%</color>."
+BuffInfo_DLC先天_忍术迷惑_光环,<#29F161>Evasion increases by 50%</color>.
+BuffInfo_DLC先天_泥牛入海,"Upon entering battle, the enemy team's <#FE2929>Action Speed decreases by 40%</color>"
+BuffInfo_DLC先天_泥牛入海_光环,<#FE2929>Action Speed decreases by 40%</color>
+BuffInfo_DLC先天_大军压境,"For each additional character on your side, Attack increases by 10%."
+BuffInfo_DLC先天_忍术鹰击,"After each attack, additionally reduce the enemy's MP by 30% of the damage dealt."
+BuffInfo_DLC先天_算尽天下,"After each attack received, additionally increase Attack by 100, Defense by 50, and Action Speed by 5. These effects are cleared after the battle."
+BuffInfo_dlc内功_摩诃无量,Summon ten Swallow Sergeants to assist in battle each time you act or are attacked. This can only be summoned once per battle.
+BuffInfo_dlc内功_一刀流,"If the weapon held during an attack is a knife, <#29F161>Damage increases by 150%</color>."
+BuffInfo_dlc内功_九州诀,"After each action, <#29F161>recover 20% of lost HP and MP</color>."
+BuffInfo_dlc内功_紫薇龙气,"When attacked, <#29F161>damage taken is reduced by 70%</color>."

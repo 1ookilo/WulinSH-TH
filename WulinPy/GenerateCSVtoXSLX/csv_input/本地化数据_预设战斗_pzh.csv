@@ -19,7 +19,7 @@ BattleFieldFail_R10054-4-2夜摩坊门外战斗,<#61C3C8>All of our members</col
 BattleFieldInfo_R10046-3擂台,"<#61C3C8>{PlayerName}, Dugu Jianyi</color> participates in the battle, up to 2 people can be deployed.","<#61C3C8>{PlayerName}, ตู๋กูเจี้ยนอี้</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 2 คน"
 BattleFieldWin_R10046-3擂台,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_R10046-3擂台,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color>พ่ายแพ้
-BattleFieldInfo_R10046-3院子外家丁,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldInfo_R10046-3院子外家丁,"<#61C3C8>{PlayerName}, Dugu Jianyi</color> joins the battle, up to 6 people can be deployed."
 BattleFieldWin_R10046-3院子外家丁,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_R10046-3院子外家丁,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color>พ่ายแพ้
 BattleFieldInfo_R10046-3追杀,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร

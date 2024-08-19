@@ -707,7 +707,7 @@ ForgeEffect_冷月刀1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่�
 ForgeEffect_冷月刀2,<#EFD09F>Blunt</color>,<#EFD09F>คม</color>
 BuffPropPair_冷月刀1,Causes <#FE2929>{冷月刀1多效果1} points of Bleeding</color> to the enemy when attacking.,เมื่อโจมตี สร้างสถานะ <#FE2929>เลือดไหล {冷月刀1多效果1} แต้ม</color> แก่ศัตรู
 BuffPropPair_冷月刀2,Has a <#29F161>{冷月刀2多效果1%}</color> chance to Pierce the enemy's A when attacking.,เมื่อโจมตี มีโอกาส <#29F161>{冷月刀2多效果1%}</color> ที่จะเจาะทะลุเกราะของศัตรู
-ForgeEffect_家传木剑1,<#EFD09F>Meridian Break</color>,<#EFD09F>เส้นลมปราณติดขัด</color>
+ForgeEffect_家传木剑1,<#EFD09F>Increases Damage</color>,<#EFD09F>เส้นลมปราณติดขัด</color>
 ForgeEffect_武器磐龙剑1,<#EFD09F>Increases Damage</color>,<#EFD09F>เพิ่มความเสียหาย</color>
 ForgeEffect_墨鸢1,<#EFD09F>Berserk</color>,<#EFD09F>บ้าคลั่ง</color>
 ForgeEffect_墨鸢2,Machinery,กลไก

@@ -1,12 +1,12 @@
 ﻿﻿UIPropPoints,Initial available aptitude: <color=#ffffff>{0}</color>,ความถนัดที่มีอยู่เริ่มต้น: <color=#ffffff>{0}</color>
 UITraitPoints,Initial achievement points: <color=#ffffff>{0}</color>,แต้มความสำเร็จเริ่มต้น: <color=#ffffff>{0}</color>
-UIPropPointsTip,"For every <#00ff00>{0}</color> achievements unlocked, you can allocate an additional <#00ff00>1</color> attribute point when creating a character. The maximum limit for additional attribute points is <#00ff00>{1}</color>, and the current additional attribute points are <#00ff00>{2}</color>.\nFor every <#00ff00>50</color> achievements unlocked, you can choose an additional item when creating a character.","สำหรับทุกครั้ง <#00ff00>{0}</color> ที่ความสำเร็จถูกปลดล็อค, คุณจะสามารถจัดสรรค่าคุณลักษณะเพิ่มเติม <#00ff00>1</color> ในขณะที่กำลังสร้างจะตัวละคร. ค่าคุณลักษณะสูงสุดที่สามารถจัดสรรเพิ่มเติมได้คือ <#00ff00>{1}</color>, และค่าคุณลักษณะปัจจุบันของท่านคือ <#00ff00>{2}</color>.\n\nสำหรับทุกครั้ง <#00ff00>50</color> ที่ความสำเร็จถูกปลดล็อค, คุณจะสามารถเลือกไอเท็มเพิ่มเติมในขณะที่กำลังจะสร้างตัวละคร.\n\n"
+UIPropPointsTip,"For every <#00ff00>{0}</color> achievements unlocked, you can allocate an additional <#00ff00>1</color> attribute point when creating a character. The maximum limit for additional attribute points is <#00ff00>{1}</color>, and the current additional attribute points are <#00ff00>{2}</color>.\nFor every <#00ff00>50</color> achievements unlocked, you get an additional <#00ff00>1</color> item selection during character creation."
 UITraitPointsTip,"Start with <#00ff00>{0}</color> achievement points. Each time you Unlock an achievement, you can get additional achievement points. You can use these points to choose suitable traits when starting the game.",เริ่มต้นด้วยคะแนนความสำเร็จ <#00ff00>{0}</color> แต่ละครั้งที่คุณปลดล็อคความสำเร็จ คุณจะได้รับคะแนนความสำเร็จเพิ่มเติม คุณสามารถใช้คะแนนเหล่านี้เพื่อเลือกลักษณะที่เหมาะสมเมื่อเริ่มเกม
 AchievementComplated,Unlock achievement <#ffff00>{0}</color>,ปลดล็อคความสำเร็จ <#ffff00>{0}</color>
 AchievementTraitPoints,You can get <#236c0f>{0}</color> achievement points,ได้รับแต้มความสำเร็จ <#236c0f>{0}</color> แต้ม
 AchievementPrizeTitle0,Initial items:,สิ่งของเริ่มต้น:
 AchievementPrizeTitle1,Initial traits:,คุณสมบัติเริ่มต้น:
-AchievementBottom,"Tip 1: Achievement points from Unlock achievements can be used to choose suitable traits at the start of the game\nTip 2: Initial items from Unlock achievements can be chosen as starting items at the start of the game","เคล็ดลับที่ 1: คะแนนความสำเร็จจากการปลดล็อคความสำเร็จสามารถใช้เพื่อเลือกคุณสมบัติที่เหมาะสมเมื่อเริ่มเกม\nเคล็ดลับที่ 2: สามารถเลือกไอเท็มเริ่มต้นจากการปลดล็อคความสำเร็จเป็นไอเท็มเริ่มต้นเมื่อเริ่มเกม"
+AchievementBottom,"Hint 1: Achievement points and items from unlocked achievements can be selected and consumed during character creation.\nHint 2: DLC achievements can be unlocked normally to gain achievement points and rewards, but they do not count towards achievement progress."
 AchievementLockSecretName,？？？？？？,？？？？？？
 AchievementLockSecretTip,？？？？？？？？？？？,？？？？？？？？？？？
 AchievementName_1,Undefeated,ไร้พ่าย
@@ -339,3 +339,17 @@ AchievementName_164,Form a bond with Tsukuyo Sakuraha,สร้างควา�
 AchievementTip_164,Formed a bond with Tsukuyo Sakuraha.,ผูกสัมพันธ์กับซึคุโยะ ซะกุระฮะ
 AchievementName_165,Graphic Quality,วางหมากล้ำลึก
 AchievementTip_165,"Caught Chai Wang's handle, and sentenced Chai Wang to prison.",คว้าหลักฐานที่ใช้มัดตัวอ๋องไฉ และทำให้อ๋องไฉถูกจองจำ
+AchievementName_1001,Form a bond with Ji Fuling
+AchievementName_1002,Joining Sect
+AchievementName_1003,Shadow of the Overlord
+AchievementName_1004,Supreme Overlord
+AchievementName_1005,Clouds part and the sun shines
+AchievementName_1006,Iron-faced Hero
+AchievementName_1007,Vengeance
+AchievementTip_1001,Form a bond with Ji Fuling.
+AchievementTip_1002,Join the Nine Factions Sect.
+AchievementTip_1003,"Trigger the ""Shadow of the Overlord"" ending."
+AchievementTip_1004,"Trigger the ""Supreme Overlord"" ending."
+AchievementTip_1005,"Trigger the ""Dawn Breaks"" ending."
+AchievementTip_1006,"Trigger the ""Iron-faced Hero"" ending."
+AchievementTip_1007,Complete the Nine Factions Sect related events.

@@ -25,7 +25,7 @@ Gifting_RelationInfo,Current Relations: {0} ({1}).,ความสัมพั�
 Gifting_FondInfo,Favorite Item: {0}.,รายการโปรด: {0}
 Gifting_FondItemSeparator,",",","
 Gifting_FondItemNone,
-NpcGifting_RelationInfoGood,"Your relationship is very good, you can get the following help",ความสัมพันธ์ของเจ้าดีมาก เจ้าสามารถขอความช่วยเหลือได้
+NpcGifting_RelationInfoGood,"Your Relations with each other are very good, you can get the following help"
 NpcGifting_RelationInfoBad,"You seem to be at odds with each other, the other party doesn't want to deal with you.",ดูเหมือนเจ้าจะไม่ลงรอยกัน อีกฝ่ายไม่ต้องการเจรจากับเจ้า
 NpcGifting_RelationInfoNotGood,"You are not getting along well, it may have some negative effects on you.",เจ้าเข้ากันได้ไม่ดีนัก มันอาจจะส่งผลเสียต่อเจ้าบ้าง
 NpcGifting_RelationUnlockFight,"Enemies meet with red eyes, they will attack you without hesitation",เกลียดชังจนตาแดงก่ำ พวกเขาจะโจมตีเจ้าโดยไม่ลังเล
@@ -88,7 +88,7 @@ Friendly_莫逆,Devoted,จงรักภักดี
 Friendly_生死,Inseparable,แยกจากมิได้
 Friendly_陌生,Stranger,คนแปลกหน้า
 PetHeal_没有选择,%c%No item selected to Feed,%c%ไม่มีสิ่งของให้กิน
-PetFeed_吃饱,"%c%No need to feed anymore, already full.",%c%ไม่ต้องให้อาหารแล้ว ท้องจะแตก
+PetFeed_吃饱,%c%You're already too full to eat anymore
 NpcTeaching_通用_IsFactionTalk,"I'm not from the same sect as you, I can't teach you.",ข้าไม่ได้มาจากสำนักเดียวกับเจ้า ไม่อาจสอนเจ้าได้
 NpcTeaching_通用_NoTeacheingTalk,{NpcJobTalk:自我称呼} has a {0}. {1},{NpcJobTalk:自我称呼}มี {0} {1}
 NoTeachingTalk_ConsumeCondition,You need to exchange it with {0}., โดยต้องแลกเปลี่ยนกับ {0}

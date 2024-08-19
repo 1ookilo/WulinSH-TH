@@ -332,8 +332,8 @@ NpcInvite_男性—暴躁_ReqTask,{NpcJobTalk:自我称呼} still has matters to
 NpcInvite_男性—暴躁_ReqRelation,"The relationship between {NpcJobTalk:第二人称} and {NpcJobTalk:自我称呼} is still shallow, {NpcJobTalk:自我称呼} doesn't want to join {NpcJobTalk:自我称呼}'s team yet."
 NpcInvite_男性—暴躁_TeamFull,"{NpcJobTalk:第二人称}'s team is already full, there's no place for {NpcJobTalk:自我称呼}."
 NpcInvite_男性—暴躁_HateMember,"{NpcJobTalk:自我称呼} and {TargetNpcName} are incompatible. With this person present, {NpcJobTalk:自我称呼} cannot accompany you."
-NpcInvite_男性—暴躁_OnInvite,Did {PlayerGivenName}{NpcJobTalk:第二人称敬语} come specifically to invite {NpcJobTalk:自我称呼} today?
-NpcInvite_男性—暴躁_Apply,"{PlayerGivenName}{NpcJobTalk:第二人称敬语} cordially invites you, {NpcJobTalk:自我称呼} will accompany you on this journey."
+NpcInvite_男性—暴躁_OnInvite,Did {NpcJobTalk:第二人称敬语} come specifically to invite {NpcJobTalk:自我称呼} today?
+NpcInvite_男性—暴躁_Apply,"Since {NpcJobTalk:第二人称敬语} has kindly invited, {NpcJobTalk:自我称呼} will accompany you this time."
 NpcInvite_男性—暴躁_Refuse,"When {NpcJobTalk:第二人称} needs {NpcJobTalk:自我称呼}, feel free to come to {NpcJobTalk:自我称呼}."
 NpcDriveAway_男性—暴躁_XCKaiGan,Don't bring bad luck to {NpcJobTalk:自我称呼}!|What's there to be arrogant about?|Are you tired of living!|Don't push your luck!|You're the first one to dare to provoke {NpcJobTalk:自我称呼} like this!,เจ้าเป็นคนแรกที่กล้ายั่วยุ{NpcJobTalk:自我称呼}เช่นนี้! |ทำไมต้องรุนแรงกันด้วย?|ไม่อยากมีชีวิตอยู่แล้วใช่ไหม!
 NpcDriveAway_男性—暴躁_KaiGan,"You, {NpcJobTalk:第二人称脏话}, are courting death.|Hmph!|Overestimating your abilities!|You're asking for trouble!|You're asking for it!|You forced {NpcJobTalk:自我称呼} to do this!"
@@ -1479,9 +1479,9 @@ NpcFactionBuy_蔡元常_NoBuy,{PlayerName} needs to work harder.|{PlayerName} mu
 NpcFactionBuy_蔡元常_HasBuy,Be sure to use these items for the right path.|The head of our academy thinks highly of you and hopes you will continue to work hard.,จงอย่าใช่สิ่งเหล่านี้ในทางที่ผิด|ท่านเจ้าสำนักหวังในตัวเจ้าไว้มาก จงพยายามต่อไป
 NpcHello_剑痴_SelfIntroHigh,What do you want from me?,เจ้าต้องการอะไรจากข้า
 NpcHello_剑痴_SelfIntroLow,What do you want from me?,เจ้าต้องการอะไรจากข้า
-NpcHello_剑痴_Common,
-NpcHello_剑痴_Like,
-NpcHello_剑痴_Dislike,
+NpcHello_剑痴_Common,What do you want from me?
+NpcHello_剑痴_Like,What do you want from me?
+NpcHello_剑痴_Dislike,"You dare to come to find me, you have some guts.|Someone, see the guest out.|Leave before I take action against you."
 NpcHello_剑痴_Hate,"You dare to come to find me, you have some guts.|Someone, see the guest out.|Leave before I take action against you."
 NpcFactionBuy_剑痴_RefuseSameFactionOnly,"The items of our pavilion are not for outsiders, please leave."
 NpcFactionBuy_剑痴_Before,These are the items that the disciples of our pavilion can get.|These are the results of my many years of hard work.,นี่เป็นสิ่งที่ศิษย์ของสำนักเราจะสามารถใช้ได้ | นี่คือสิ่งของที่ข้าสั่งสมมาอย่างหนักตลอดหลายปี
@@ -1735,7 +1735,7 @@ NpcMumble_无名小村猎户_Roaming,"That secret has been hidden for many years
 NpcMumble_无名小村樵夫_Roaming,Chopping wood is a stamina activity.|Lost Forest is too dangerous.|I wish I had the skills of a hunter.|Hunting is more profitable.|What will happen to Xiao Hua if {NpcJobTalk:自我称呼} is not around.|Chopping wood day after day is so boring.|There are quite a few woods of good quality in Lost Forest.|My life is so plain.,การตัดไม้เป็นกิจกรรมที่ต้องใช้กำลัง|ป่าสาปสูญอันตรายมาก|ข้าอยากมีทักษะนักล่าบ้าง|การล่าสัตรว์ทำเงินได้มากกว่า|จะเกิดอะไรขึ้นกับเสี่ยวฮวาหหาก{NpcJobTalk:自我称呼}ไม่ได้อยู่แถวนี้|ตัดไม้ทั้งวันน่าเบื่อเหลือเกิน|ในป่าสาปสูญมีไม้คุณภาพดีอยู่บ้าง|ชีวิตข้าเรียบง่ายมาก
 NpcMumble_无名小村农夫_Roaming,"Facing the yellow earth with my back to the sky...|What you sow, so shall you reap.|Wasting food is shameful.|There's no harvest in drought.|Why are there chicken eggs in this field?|This field has everything {NpcJobTalk:自我称呼} wants.|Radish for safety.|Farming makes {NpcJobTalk:自我称呼} happy.|This year's harvest seems good.|That kid might be eyeing the stuff in the field.",หันหน้าสู่ดินเหลือง หันหลังให้ฟ้า...|หว่านอะไรก็ต้องเก็บเกี่ยว|กินเปล่าๆก็น่าละอาย|หน้าแล้งไม่มีเก็บเกี่ยว|ทำไมทุ่งนี้ถึงมีไข่ไก่|ทุ่งนี้มี ทุกสิ่งที่ {NpcJobTalk:自我称呼} ต้องการ|หัวไชเท้าเพื่อความปลอดภัย|การทำฟาร์มทำให้ {NpcJobTalk:自我称呼} มีความสุข|การเก็บเกี่ยวปีนี้ดูดี|เด็กคนนั้นอาจกำลังจับตาดูสิ่งของในทุ่งนา
 NpcMumble_无名小村包打听_Roaming,"The cooking skills of the Flower Shopkeeper are really top-notch.|It's a bit of a waste to stay in the village all day.|My martial arts skills are not bad either.|The dead tree in the village has been around for a long time.|Why do things always get fished out of the well?|Gifts can quickly improve Relations.|I really want to keep a pet for fun.|The Ruined shrine outside the village seems unusual.|Wild boars are sentient, isn't it strange?|Ask me about anything within ten miles.|Liu Shiba said there's a big goose in the village that quacks.",ฝีมือทำอาหารของเถ้าแก่เนี้ยฮวานั้นเยี่ยมที่สุด|การอยู่ในหมู่บ้านทั้งวันมันช่างน่าเบื่อ|วรยุทธของข้าก็ไม่เลวเช่นกัน|ต้นไม้แห้งในหมู่บ้านอยู่มาระยะหนึ่งแล้ว นานเหมือนกันนะ|ทำไมถึงตกได้สิ่งของจากบ่อน้ำบ่อยๆ นะ|การให้ของขวัญสามารถเพิ่มความสนิทได้อย่างรวดเร็ว|ข้าอยากเลี้ยงสัตว์เลี้ยงไว้แก้เบื่อจริงๆ|ศาลเจ้าร้างนอกหมู่บ้านดูแปลกตานะ|หมูป่าก็มีความรู้สึกนะ มันไม่แปลกเหรอ|ข้ารู้ทุกเรื่องรอบๆหมู่บ้าน ถามมาได้เลย|หลิวสือปาบอกว่าห่านตัวใหญ่ในหมู่บ้านชอบร้องแคว้กๆ
-NpcMumble_无名小村村长_Roaming,"It's been too peaceful lately, it's unusual.|{NpcJobTalk:自我称呼} is counting on Xiao Bao.|The hunter and the blacksmith seem to be at odds.|Thinking of {NpcJobTalk:自我称呼}, I almost became the top scholar...|Xiao Bao always wants to be a hero, what nonsense!|The {PlayerSurName} kid in the inn always seems extraordinary.|Guarding the village's secret is really hard.|Don't expect to get any clues from {NpcJobTalk:自我称呼}'s words.|Bravery and aggressiveness, that's not what a knight is!",ช่วงนี้ช่างเงียบสงบเหลือเกิน แปลกจัง|{NpcJobTalk:自我称呼}ต้องหวังพึ่งเสี่ยวเป่าเสียแล้ว|ดูเหมือนนายพรานและช่างตีเหล็กจะขัดแย้งกัน|เมื่อนึกถึง{NpcJobTalk:自我称呼}ในตอนนั้น ข้าเกือบจะกลายเป็นได้นักปราชญ์แล้ว ...|เสี่ยวเป่าบอกว่าอยากเป็นจอมยุทธอยู่เสมอ ช่างไร้เดียงสาเสียจริง!|เด็กน้อย{PlayerSurName}ในโรงเตี๊ยมนั้นไม่ธรรมดาเลย|การรักษาความลับของหมู่บ้านนั้นยากจริงๆ|อย่าคาดหวังว่าจะได้รับเบาะแสใดๆ จากคำพูดของ{NpcJobTalk :自我称呼}เลย|ความกล้าหาญและบ้าบิ่น นับเป็นผู้กล้าแบบใดกัน!
+NpcMumble_无名小村村长_Roaming,"It's been too peaceful lately, it's unusual.|{NpcJobTalk:自我称呼} is counting on Xiao Bao.|The hunter and the blacksmith seem to be at odds.|Thinking of {NpcJobTalk:自我称呼}, I almost became the top scholar...|Xiao Bao always wants to be a hero, what nonsense!|Guarding the village's secret is really hard.|Don't expect to get any clues from {NpcJobTalk:自我称呼}'s words.|Bravery and aggressiveness, that's not what a knight is!"
 NpcMumble_无名小村铁匠_Roaming,"To forge iron, one must be tough!|Blacksmithing is a strenuous job!|Powerful Weapons can't be bought casually.|Not everyone has the skill to forge.|Mining also requires technical skills.|The higher the quality of the Weapon, the better the effect.|Choose a weapon that suits you.|Rural blacksmiths are also forced to forge Weapons.|Actually, {NpcJobTalk:自我称呼} is not a chatterbox.|It's getting harder to find suitable Ore.",อยากหลอมเหล็ก ก็ต้องแข็งแกร่ง!|ช่างตีเหล็กเป็นงานที่ต้องใช้พละกำลังมาก!|อาวุธอันทรงพลังไม่สามารถหาซื้อได้ง่ายๆ|ไม่ใช่ทุกคนที่มีทักษะในการหลอม|การขุดเหมืองก็ต้องใช้ทักษะเช่นกัน|คุณภาพของอาวุธยิ่งสูงก็ยิ่งดี|เลือกอาวุธที่เหมาะกับเจ้า|ช่างตีเหล็กบ้านนอกก็ถูกบังคับให้สร้างอาวุธด้วย|จริงๆแล้ว {NpcJobTalk:自我称呼}ไม่ใช่คนพูดมาก|การค้นหาแร่ที่เหมาะสมนั้นยากจริงๆ
 NpcMumble_无名小村渔夫_Roaming,"The water in this pond is getting murkier.|When the weather changes, all sorts of creatures emerge.|I wonder how long the fresh fish fry can survive.|Once the bait is down, who knows what will be caught.|Greedy fish die early.|Pearl harvesting is also a way to make money.|Underwater fights are invisible to people on the shore.|It might not be easy to catch fish in the future.|{NpcJobTalk:自我称呼} wants to emulate Jiang Taigong.|It's better to seek straight than to seek crooked.",น้ำในบ่อเริ่มขุ่นแล้ว|เมื่ออากาศเปลี่ยน พวกสัตว์ต่างๆก็โผล่ออกมา|สงสัยจังว่าลูกปลาจะอยู่ได้นานแค่ไหน|เมื่อหย่อนเหยื่อลงไป ใครจะรู้ว่าล่ะจับอะไรได้|ปลาตะกละจะตายก่อน|การเก็บไข่มุกก็เป็นวิธีหาเงินแบบหนึ่ง|การต่อสู้ใต้น้ำเป็นสิ่งที่คนบนฝั่งมองไม่เห็น|ในอนาคตอาจการจับปลายากขึ้น|{NpcJobTalk:自我称呼}ต้องการเลียนแบบเจียงไท่กง|เป็นคนซื่อตรงดีกว่าคิดคด
 NpcMumble_无名小村小男孩小宝_Roaming,"My grandfather is the Village Head.|Who will play with me?|When I grow up, I want to be a hero.|The old hen at home laid an egg.|Reading makes me sleepy.|My grandfather was once a scholar.|What can I fish out of the well today?|Xiao Ya's daddy is very powerful.|I hid grandpa's Fan behind the big yellow cow~",ท่านปู่ของข้าเป็นหัวหน้าหมู่บ้าน|ใครจะเล่นกับข้าบ้าง?|เมื่อข้าโตขึ้นข้าอยากเป็นจอมยุทธ|แม่ไก่ที่บ้านข้าวางไข่ด้วยล่ะ|การอ่านหนังสือนี่มันง่วงเสียจริง|ปู่ของข้าเป็นบัณฑิตด้วยนะ|วันนี้ข้าจะตกปลาอะไรจากบ่อได้บ้าง?|พ่อของเสี่ยวหยาแข็งแรงมาก|ข้าซ่อนพัดของท่านปู่ไว้ข้างหลังวัวสีเหลืองตัวใหญ่~
@@ -2703,7 +2703,7 @@ NpcSight_人妻曼陀罗_StealthWarning,What are you doing?,เจ้ากำ�
 NpcSight_人妻曼陀罗_ObjectWarning,What are you doing?,เจ้ากำลังทำอะไร?
 NpcSight_人妻曼陀罗_ItemWarning,What are you doing?,เจ้าทำอะไร?
 NpcBattleReact_人妻曼陀罗_JoinEnemy,"You should stay here as fertilizer!|You heartless man, you deserve to die!"
-NpcBattleReact_人妻曼陀罗_JoinAllie,"With me here, no one dares to touch you!|No one dares to touch {PlayerName}!"
+NpcBattleReact_人妻曼陀罗_JoinAllie,"With me here, no one dares to touch you!"
 NpcSteal_人妻曼陀罗_KaiGan,So this is the kind of person you are!,เจ้าเป็นคนแบบนี้เองสินะ!
 NpcDriveAway_人妻曼陀罗_XCKaiGan,Where should I go?,ข้าควรจะไปที่ไหนดี?
 NpcLeaveTeam_人妻曼陀罗_LeaveTalkToFiej,"Alright, I'll go to {0} and wait for you. Remember to come find me."
@@ -2722,7 +2722,7 @@ NpcSight_人妻一枝花_StealthWarning,What are you doing?,เจ้ากำ�
 NpcSight_人妻一枝花_ObjectWarning,What are you doing?,เจ้ากำลังทำอะไร?
 NpcSight_人妻一枝花_ItemWarning,What are you doing?,เจ้ากำลังทำอะไร?
 NpcBattleReact_人妻一枝花_JoinEnemy,"You little brat, how dare you come here?|Your sister Hua is not easy to bully!"
-NpcBattleReact_人妻一枝花_JoinAllie,"With me here, no one dares to touch you!|No one dares to touch {PlayerName}!"
+NpcBattleReact_人妻一枝花_JoinAllie,"With me here, no one dares to touch you!"
 NpcSteal_人妻一枝花_KaiGan,So this is the kind of person you are!,เจ้าเป็นคนแบบนี้เองสินะ!
 NpcDriveAway_人妻一枝花_XCKaiGan,Where should I go?,ข้าควรไปที่ใด?
 NpcLeaveTeam_人妻一枝花_LeaveTalkToFiej,I hope there will be someone to play dice with me in {0}.|You have to come back to {0} before I get bored.
@@ -2770,9 +2770,9 @@ NpcDuel_苗木黎_NoStamina,"Looking at you, a gust of wind could knock you down
 NpcDuel_洪小七_Refuse,I'm not familiar with you!,ข้าไม่คุ้นเคยกับเจ้า!
 NpcDuel_洪小七_Info,"Hehe, then please show mercy, {PlayerSurName} brother!\n(Winning can get {2} Jianghu Knowledge, {3} Fame Experience.)","อิอิ, ถ้าอย่างนั้นได้โปรดแสดงความเมตตาเถิดน้องชายของ {PlayerSurName}!\n(ผู้ชนะจะได้รับ {2} ค่าประสบการณ์ยุทธ, {3} ค่าประสบการณ์ชื่อเสียง)"
 NpcDuel_洪小七_NoStamina,"{PlayerSurName} Brother, you are exhausted now, why don't we go for a big meal first!",พี่ชาย{PlayerSurName} เจ้าเหนื่อยแล้ว ทำไมเราไม่ไปทานอาหารมื้อใหญ่กันก่อนล่ะ!
-NpcDuel_任中横_Refuse,"Tsk, who do you think you are?"
-NpcDuel_任中横_Info,"Fine, I'll give you a little exercise!\n(Winning can earn {2} Jianghu Knowledge and {3} Fame Experience.)"
-NpcDuel_任中横_NoStamina,"In your current state, are you just trying to make fun of me?"
+NpcDuel_任中横_Refuse,
+NpcDuel_任中横_Info,
+NpcDuel_任中横_NoStamina,
 NpcDuel_苗彩蝶_Refuse,Brother won't let Caidie spar with strangers~,ท่านพี่สอนไม่ให้ไฉ่ตี้ไปท้าประลองคนแปลกหน้าค่ะ~
 NpcDuel_苗彩蝶_Info,"Does the young master want to play with Caidie?\n(Winning can get {2} Jianghu Knowledge, {3} Fame Experience.)","พี่ชายอยากเล่นกับ ไฉ่ตี้ รึเปล่าคะ?\n(ผู้ชนะจะได้รับ {2} ค่าประสบการณ์ยุทธ, {3} ค่าประสบการณ์ชื่อเสียง)"
 NpcDuel_苗彩蝶_NoStamina,"Young master looks so bad, Caidie thinks you should rest first.",พี่ชายดูอาการไม่ดีเลยนะคะ ไฉ่ตี้ว่าพี่ชายไปพักผ่อนก่อนเถอะค่ะ
@@ -2797,9 +2797,9 @@ NpcDuel_叶鹏举_NoStamina,You go back and rest first.,เจ้ากลับ
 NpcDuel_重阳子_Refuse,"The old way is busy with chores, really can't spare the time."
 NpcDuel_重阳子_Info,"Let the old way see the skills of the young generation.\n(Winning can get {2} Jianghu Knowledge, {3} Fame Experience.)","ให้คนรุ่นเก่าได้เห็นฝีมือคนรุ่นใหม่\n(ผู้ชนะจะได้รับ {2} ค่าประสบการณ์ยุทธ, {3} ค่าประสบการณ์ชื่อเสียง)"
 NpcDuel_重阳子_NoStamina,Wait until you nurture energy and store strength.
-NpcDuel_方啸天_Refuse,"How could I, the leader of this sect, stoop to your level?"
-NpcDuel_方啸天_Info,"Well, I, the leader of this sect, will give you some guidance.\n(Winning can earn {2} Jianghu Knowledge and {3} Fame Experience.)"
-NpcDuel_方啸天_NoStamina,"Young hero, you should adjust your condition before coming back."
+NpcDuel_方啸天_Refuse,
+NpcDuel_方啸天_Info,
+NpcDuel_方啸天_NoStamina,
 NpcDuel_邋遢张_Refuse,"It's really troublesome, I don't want to do this troublesome thing!"
 NpcDuel_邋遢张_Info,"Hehe, how do you know that my hand is itching!\n(Winning can get {2} Jianghu Knowledge, {3} Fame Experience.)","อิอิ, รู้ได้ไงว่ามือข้ามันคัน!\n(ผู้ชนะจะได้รับ {2} ค่าประสบการณ์ยุทธ, {3} ค่าประสบการณ์ชื่อเสียง)"
 NpcDuel_邋遢张_NoStamina,"Looking at your state, it's not even as good as when I was drunk!\nYou should find a place to rest first!"
@@ -2831,7 +2831,7 @@ NpcDuel_庖春秋_Refuse,"Hey, I just want to be a cook honestly, I don't care a
 NpcDuel_庖春秋_Info,"Since you insist... My knife is very fast, be careful.\n(Winning can get {2}Jianghu Knowledge, {3}FameExperience.)","ในเมื่อเจ้ายืนกราน... ดาบของข้าเร็วมาก ระวังด้วย\n(ผู้ชนะจะได้รับ {2} ค่าประสบการณ์ยุทธ, {3} ค่าประสบการณ์ชื่อเสียง)"
 NpcDuel_庖春秋_NoStamina,"Looking at you, haven't you eaten for days? Can you still hold the weapon?\nListen to my advice, go back and eat something good and rest well, don't think about fighting all the time."
 NpcDuel_叶云_Refuse,"We are not familiar, I won't spar with you."
-NpcDuel_叶云_Info,"I've been waiting for a long time to spar with {PlayerSurName}!\n(Winning can get {2}Jianghu Knowledge, {3}FameExperience.)","ข้ารอมานานแล้วที่จะได้ประลองกับ {PlayerSurName}!\n(ผู้ชนะจะได้รับ {2} ค่าประสบการณ์ยุทธ, {3} ค่าประสบการณ์ชื่อเสียง)"
+NpcDuel_叶云_Info,"I've been waiting for a long time to spar with my brother!\n(Victory can earn {2}Jianghu Knowledge, {3}FameExperience.)"
 NpcDuel_叶云_NoStamina,"We, the Ye family, never take advantage of others. You go back and rest first, we will fight another day!"
 NpcDuel_完颜乌珠_Refuse,Do you think I am someone who casually spars with others?
 NpcDuel_完颜乌珠_Info,"It's good to exercise occasionally.\n(Winning can get {2}Jianghu Knowledge, {3}FameExperience.)","ยืดเส้นยืดสายบ้างเป็นครั้งคราวก็ดี\n(ผู้ชนะจะได้รับ {2} ค่าประสบการณ์ยุทธ, {3} ค่าประสบการณ์ชื่อเสียง)"
@@ -2871,7 +2871,7 @@ NpcDuel_独孤剑一_Info,"Great! I've been wanting to spar with you!\n(Victory 
 NpcDuel_独孤剑一_NoStamina,"No, no, it's no fun to fight in your current state. Let's talk after you've rested.",ไม่ ไม่ การต่อสู้กับเจ้าในสภาพนี้ไม่สนุก ไปพักผ่อนเถอะ ไว้เราค่อยคุยกัน
 NpcDuel_月咏樱羽_Refuse,I don't like to use force.|Can't we be more civil?
 NpcDuel_孔一刀_Refuse,Huh? Are we close?,หือ? เราสนิทกันเหรอ?
-NpcDuel_孔一刀_Info,"Let me see what {PlayerName} can do!\n(Victory can earn {2}Jianghu Knowledge, {3}FameExperience.)","มาดูกันว่า {PlayerName} ทำอะไรได้บ้าง!\n(ผู้ชนะจะได้รับ {2} ค่าประสบการณ์ยุทธ, {3} ค่าประสบการณ์ชื่อเสียง)"
+NpcDuel_孔一刀_Info,"Let me see what you've got, little brother!\n(Victory can earn {2}Jianghu Knowledge, {3}FameExperience.)"
 NpcDuel_孔一刀_NoStamina,"You don't look well, did you drink too much last night and haven't recovered? Go back and rest!",เจ้าดูไม่ดีเลย เมื่อคืนดื่มหนักไปยังไม่ฟื้นเหรอ? กลับไปพักผ่อนเถอะ!
 NpcDuel_计百出_Refuse,
 NpcDuel_计百出_Info,
@@ -2943,7 +2943,7 @@ NpcDuel_方小白_Refuse,"You want to spar with me? That's not appropriate...|Do
 NpcDuel_方小白_Info,"I... I'll do my best!\n(Winning can get {2}Jianghu Knowledge, {3}FameExperience.)","ข้า... ข้าจะทำให้ดีที่สุด!\n(ผู้ชนะจะได้รับ {2} ค่าประสบการณ์ยุทธ, {3} ค่าประสบการณ์ชื่อเสียง)"
 NpcDuel_方小白_NoStamina,"You don't look well, why not sit down and have something to eat?"
 NpcDuel_杨幺儿_Refuse,"The army has orders, no private fights."
-NpcDuel_杨幺儿_Info,"Weapons do not have eyes, please be careful, {PlayerSurName} brother!\n(Winning can get {2} Jianghu Knowledge, {3} Fame Experience.)","อาวุธไม่มีตา, น้องชายโปรดระวัง {PlayerSurName}!\n(ผู้ชนะจะได้รับ {2} ค่าประสบการณ์ยุทธ, {3} ค่าประสบการณ์ชื่อเสียง)"
+NpcDuel_杨幺儿_Info,"Weapons don't have eyes, be careful!\n(Victory can earn {2}Jianghu Knowledge, {3}FameExperience.)"
 NpcDuel_杨幺儿_NoStamina,Let's talk when you're ready.,ไว้คุยกันเมื่อเจ้าพร้อม
 NpcDuel_半瓶神仙醋_Refuse,"You are our special guest, what if we hurt you?|There will be no reward even if you win the martial arts competition with me.",เจ้าเป็นแขกเรานะ ข้าจะทำเจ้าเจ็บได้ไง?|ไม่มีรางวัลให้นะ ถึงเจ้าจะประลองชนะข้าก็ตาม
 NpcDuel_半瓶神仙醋_Info,"This is what you asked for, don't say I didn't warn you.\n(Winning can get {2} Jianghu Knowledge, {3} Fame Experience.)|Alright, but even if you beat me, there won't be any extra benefits.\n(Winning can get {2} Jianghu Knowledge, {3} Fame Experience.)|I'm very strong, are you sure you want to compete with me?\n(Winning can get {2} Jianghu Knowledge, {3} Fame Experience.)","นี่คือสิ่งที่เจ้าขอ อย่าหาว่าข้าไม่เตือน\n(ผู้ชนะจะได้รับ {2} ค่าประสบการณ์ยุทธ, {3} ค่าประสบการณ์ชื่อเสียง)|เอาล่ะ แต่ถึงแม้ว่าเจ้าจะเอาชนะข้าได้ มันก็จะไม่มีประโยชน์พิเศษใดๆ\n(ผู้ชนะจะได้รับ {2} ค่าประสบการณ์ยุทธ, {3} ค่าประสบการณ์ชื่อเสียง)|ข้าแข็งแกร่งมาก แน่ใจเหรอว่าจะประลองกับข้า?\n(ผู้ชนะจะได้รับ {2} ค่าประสบการณ์ยุทธ, {3} ค่าประสบการณ์ชื่อเสียง)"
@@ -2983,7 +2983,7 @@ NpcChangeWeapon_长春子_Refuse,"I'm not very familiar with you, don't push it.
 NpcChangeWeapon_苗木黎_Refuse,"Central Plains people, don't think about taking my stuff!|This is a treasure of the Jiuli, how can I let you take it?"
 NpcChangeWeapon_洪小七_Refuse,"Big brother, this equipment is handy for us, let us use it for a few more days.|Big brother, I don't have anything good on me, so don't covet it.|If you treat me better, brother, I'll give it to you.",พี่ชาย อุปกรณ์นี้มีประโยชน์สำหรับเรา ขอเราใช้มันอีกสองสามวันเถอะ|พี่ชาย ข้าไม่มีอะไรติดตัวดีๆ เพราะงั้นอย่าโลภเลย|ถ้าท่านปฏิบัติต่อข้าดีกว่านี้ ท่านพี่ ข้าจะให้มันกับท่าน.
 NpcChangeWeapon_苗彩蝶_Refuse,"Little brother, Ah Ge told Caidie that she can't just give her things to strangers~|Little brother, if you have better Relations with Caidie, Caidie will give you this equipment~",พี่ชาย ท่านพี่บอกไฉ่ตี้ว่าเอาของให้คนแปลกหน้าไม่ได้~ | พี่ชายถ้าท่านสนิทกับไฉ่ตี้กว่านี้ ไฉ่ตี้จะมอบอุปกรณ์นี้ให้ท่านนะ~
-NpcChangeWeapon_凌鸿轩_Refuse,"We are not that familiar, please don't be presumptuous.|Brother {PlayerSurName}, please respect yourself."
+NpcChangeWeapon_凌鸿轩_Refuse,"We are not that familiar, please don't be presumptuous.|Please respect yourself."
 NpcChangeWeapon_凌梦蝶_Refuse,We're not that close.,เราไม่ได้สนิทกันขนาดนั้น
 NpcChangeWeapon_叶银瓶_Refuse,"No, if I lose something again, my father will punish me!"
 NpcChangeWeapon_佟道辅_Refuse,"Our family's things are not for you to touch at will!|How dare you {PlayerName}, is this something you can touch?"
@@ -3059,7 +3059,7 @@ NpcHello_邋遢张_SelfIntroHigh,"It's you, what do you want from me?","เจ�
 NpcHello_邋遢张_SelfIntroLow,"It's you, what do you want from me?","เจ้านั่นเอง, เจ้าต้องการอะไรจากข้า?"
 NpcHello_邋遢张_Common,"It's you, what do you want from me?","เจ้านั่นเอง, เจ้าต้องการอะไรจากข้า?"
 NpcHello_邋遢张_Like,"Good lad, do you have more fine wine to offer me?|{PlayerName} came to see me again? What's the matter this time?|You're quite to my liking, lad. Just say what you want!",ว่าไงพวก มีสุราดีให้ข้าไหม?|{PlayerName}มาหาข้าอีกแล้วรึ?|มีอะไร?|ข้าถูกใจเจ้า มีอะไรก็ว่ามา
-NpcHello_邋遢张_Dislike,"Go away, don't loiter in front of me!|Tsk, I thought it was a fly buzzing around, turns out it's you, {PlayerName}.",ไสหัวไป อย่ามาเสนอหน้าให้ข้าเห็น!|ข้านึกว่าเป็นแมลงหวี่แมลงวันที่ไหน ที่แท้ก็เป็นเจ้า{PlayerName}เองหรือนี่
+NpcHello_邋遢张_Dislike,"Go away, don't loiter in front of me!|Tsk, I thought it was a fly buzzing around, turns out it's you {PlayerName}."
 NpcHello_邋遢张_Hate,I don't want to see you.|Go back where you came from.,ข้าไม่อยากเห็นหน้าเจ้า|มาทางไหนไปทางนั้นเลย
 NpcHello_燕歌行_SelfIntroHigh,"Good disciple, what do you need from your master?",ศิษย์รัก ต้องการอะไรจากอาจารย์ผู้นี้เล่า?
 NpcHello_燕歌行_SelfIntroLow,"Good disciple, what do you need from your master?",ศิษย์รัก ต้องการอะไรจากอาจารย์ผู้นี้เล่า?
@@ -3104,8 +3104,8 @@ NpcHello_韩红玉_Common,"Young hero, hello, Hongyu is polite.|Tiger Escort wil
 NpcHello_韩红玉_Like,"With your help, I can definitely revive the tiger's prestige!|Thanks to your help, Hongyu has been able to hold on until now...|Thanks to you, more and more people are coming to commission the escort.|The Tiger Escort is now thriving!",ด้วยความเชื่อเหลือของเจ้า ข้าก็สามารถคืนชีพให้สำนักคุ้มภัยพยัคฆากลับมารุ่งเรืองอีกครั้ง! | ที่หงหยูสามารถอดทนมาได้ถึงขนาดนี้ เป็นเพราะเจ้าแท้ๆ ขอบคุณมาก... | ขอบคุณเจ้าด้วย ทุกคนต่างก็พากันมาจ้างสำนักคุ้มภัยพยัคฆากันอีกครั้ง | สำนักคุ้มภัยพยัคฆากำลังทะยาน!
 NpcHello_韩红玉_Dislike,"If the tiger doesn't show its might, do you think I'm a sick cat?"
 NpcHello_韩红玉_Hate,"If the tiger doesn't show its might, do you think I'm a sick cat?"
-NpcHello_释嗔_SelfIntroHigh,"Is there anything else, young man?",มีอะไรอีกไหมพ่อหนุ่ม?
-NpcHello_释嗔_SelfIntroLow,"Is there anything else, young man?",มีอะไรอีกไหมพ่อหนุ่ม?
+NpcHello_释嗔_SelfIntroHigh,"Is there anything else, brother?"
+NpcHello_释嗔_SelfIntroLow,"Is there anything else, brother?"
 NpcHello_释嗔_Common,What brings you to me?,มาหาข้าด้วยเรื่องอันใด?
 NpcHello_释嗔_Like,"Brother, just tell me what you need!|Your business is my business, brother!|Brother, do you need my help with something?",พี่น้อง ได้โปรดบอกข้าว่าเจ้าอยากให้ช่วยอะไรได้เลย!
 NpcHello_释嗔_Dislike,"What are you doing here again?|Go away, don't loiter in front of me!|Don't get in my way!"
@@ -4040,3 +4040,332 @@ NpcDuel_廖月龙_Info,"Alright, let's see who's better!\n(Winning can earn {2} 
 NpcDuel_廖月龙_NoStamina,"You look like you can't even lift your arm, go rest first.",ตอนนี้เจ้ายกแขนยังไม่ขึ้นเลยกระมัง ไปพักผ่อนก่อนเถอะ
 NpcTeach_廖月龙_Refuse,"I'm not familiar with you, I don't want to teach you."
 NpcChangeWeapon_廖月龙_Refuse,"{PlayerSurName} brother, please don't take what others love."
+NpcInteractive_铁面人男性—温和_Like,What do you want to do to him?
+NpcInteractive_铁面人男性—温和_Dislike,What do you want to do to him?
+NpcHello_铁面人男性—温和_SelfIntroHigh,"Hello, {NpcJobTalk:第二人称}, you're new here, right?|What does {NpcJobTalk:第二人称} want when he suddenly stops {NpcJobTalk:自我称呼}?|Are you looking for {NpcJobTalk:自我称呼}?|What do you want to do with {NpcJobTalk:自我称呼}?"
+NpcHello_铁面人男性—温和_SelfIntroLow,"Is there anything you need help with?|Are you looking for {NpcJobTalk:自我称呼}?|Hello, {NpcJobTalk:第二人称}, you're new here, right?|Can {NpcJobTalk:自我称呼} help you with anything?"
+NpcHello_铁面人男性—温和_Common,"{NpcJobTalk:第二人称敬语}, why do you have time to come to {NpcJobTalk:自我称呼} today?|It must be hard to command a door like {NpcJobTalk:第二人称敬语}, right?|What can I do for you?"
+NpcHello_铁面人男性—温和_Like,"{NpcJobTalk:第二人称敬语}, why do you have time to come to {NpcJobTalk:自我称呼} today?|It must be hard to command a door like {NpcJobTalk:第二人称敬语}, right?|What can I do for you?"
+NpcHello_铁面人男性—温和_Dislike,"What can I do for you?|Speak up, {NpcJobTalk:第二人称} is busy.|If {NpcJobTalk:第二人称} has nothing else to do, {NpcJobTalk:自我称呼} will take leave.|Don't try anything funny, {NpcJobTalk:自我称呼} is watching you."
+NpcHello_铁面人男性—温和_Hate,"{NpcJobTalk:自我称呼} has nothing to say to you.|{NpcJobTalk:自我称呼} is not feeling well today, please excuse {NpcJobTalk:第二人称}.|{NpcJobTalk:自我称呼} doesn't get along with {NpcJobTalk:第二人称}, there's nothing to talk about.|Tsk, what a bad luck.|Who are you? Are we familiar?"
+NpcInteractive_铁面人男性—奸猾_Like,What do you want to do to him?
+NpcInteractive_铁面人男性—奸猾_Dislike,What do you want to do to him?
+NpcHello_铁面人男性—奸猾_SelfIntroHigh,What did {NpcJobTalk:第二人称} do to not dare to show his true face?|Is {NpcJobTalk:第二人称} wearing that iron face because he is extremely ugly?
+NpcHello_铁面人男性—奸猾_SelfIntroLow,Isn't this Tie Mianren? What brings you here?
+NpcHello_铁面人男性—奸猾_Common,"Isn't this Tie Mianren? What brings you here?|What can I do for you?|Whatever you say, Tie Mianren, I'll do it~"
+NpcHello_铁面人男性—奸猾_Like,"Isn't this Tie Mianren? What brings you here?|What can I do for you?|Whatever you say, Tie Mianren, I'll do it~"
+NpcHello_铁面人男性—奸猾_Dislike,"Ugh, why did I run into this guy...|Such bad luck...|Why did this guy come to me..."
+NpcHello_铁面人男性—奸猾_Hate,"Ugh, why did I run into this guy...|Such bad luck...|Why did this guy come to me..."
+NpcHello_铁面人男性—暴躁_Common,Just say what you need!|Feel free to ask for anything you want!
+NpcHello_铁面人男性—暴躁_Like,"Isn't this Tie Mianren! What do you need from {NpcJobTalk:自我称呼}?|If {PlayerSurName}{NpcJobTalk:第二人称敬语} has anything to say, just say it. {NpcJobTalk:第二人称}'s business is {NpcJobTalk:自我称呼}'s business!"
+NpcHello_铁面人女性—温和_SelfIntroHigh,"What's the matter?|Is there anything {NpcJobTalk:自我称呼} can help with?|Nice to meet you, I pay my respects to you.|Can {NpcJobTalk:自我称呼} help you with anything?"
+NpcHello_铁面人女性—温和_SelfIntroLow,"What's the matter?|Is there anything {NpcJobTalk:自我称呼} can help with?|Nice to meet you, I pay my respects to you.|Can {NpcJobTalk:自我称呼} help you with anything?"
+NpcHello_铁面人女性—温和_Common,How come Tie Mianren has time to come to {NpcJobTalk:自我称呼} today?
+NpcHello_铁面人女性—温和_Like,"How come Tie Mianren has time to come to {NpcJobTalk:自我称呼} today?|Tie Mianren, we meet again.|Seeing Tie Mianren today must be a good day."
+NpcHello_铁面人女性—温和_Dislike,"{NpcJobTalk:自我称呼} is busy, please make it brief, {NpcJobTalk:第二人称}.|What are you here for, {NpcJobTalk:第二人称}?|If {NpcJobTalk:第二人称} has nothing else to do, {NpcJobTalk:自我称呼} will take leave."
+NpcHello_铁面人女性—温和_Hate,"If you keep bothering me, {NpcJobTalk:自我称呼} will call for help.|{NpcJobTalk:自我称呼} is not feeling well today, please excuse {NpcJobTalk:第二人称}.|Men and women should keep their distance, hope you behave yourself and stop bothering."
+NpcHello_铁面人女性—奸猾_SelfIntroHigh,Can't you show your true face?|You do look suspicious.|What are you here for?
+NpcHello_铁面人女性—奸猾_SelfIntroLow,"I didn't expect to meet the famous Tie Mianren!|Tie Mianren is here, how rare.|Do you need anything, Tie Mianren?"
+NpcHello_铁面人女性—奸猾_Common,"Do you need anything, Tie Mianren?|You came to see me, do you have any good ideas?"
+NpcHello_铁面人女性—奸猾_Like,"Do you need anything, Tie Mianren?|You came to see me, do you have any good ideas?"
+NpcHello_铁面人女性—奸猾_Dislike,"Heh, what wind blew you here?|No one comes without a reason, just say it."
+NpcHello_铁面人女性—奸猾_Hate,"You look like you have bad intentions, do you still expect {NpcJobTalk:自我称呼} to trust you?|Just go, {NpcJobTalk:自我称呼} has nothing to say to you!|Don't make a fool of yourself, {NpcJobTalk:自我称呼} won't work for you!"
+NpcHello_铁面人女性—暴躁_SelfIntroHigh,"Tie Mianren? What are you here for?|I don't remember having any connection with you, Tie Mianren."
+NpcHello_铁面人女性—暴躁_SelfIntroLow,Just say what you want.|Just get to the point.
+NpcHello_铁面人女性—暴躁_Common,"Tie Mianren, just say what you want."
+NpcHello_铁面人女性—暴躁_Like,"You're here, great, today is finally interesting.|Some people always advise {NpcJobTalk:自我称呼} to do more needlework, but it's really too boring!|Just say what you need, Tie Mianren's business is {NpcJobTalk:自我称呼}'s business!"
+NpcHello_铁面人女性—暴躁_Dislike,"What can {NpcJobTalk:第二人称} do for you?|Speak up, {NpcJobTalk:自我称呼} doesn't have much free time.|What do you want with {NpcJobTalk:自我称呼}, spit it out!"
+NpcHello_铁面人女性—暴躁_Hate,"{NpcJobTalk:自我称呼} doesn't have time to entertain you.|Don't let {NpcJobTalk:自我称呼} see you again!|{NpcJobTalk:脏话}, stop pacing around in front of {NpcJobTalk:自我称呼}, it's annoying.|How dare you show up in front of {NpcJobTalk:自我称呼}!"
+NpcHello_铁面人重阳子_SelfIntroHigh,"Blessings of the Infinite Heaven, please feel free."
+NpcHello_铁面人重阳子_SelfIntroLow,"Blessings of the Infinite Heaven, please feel free."
+NpcHello_铁面人重阳子_Common,Boundless Heavenly Lord.|What brings Tie Mianren here?
+NpcHello_铁面人重阳子_Like,Boundless Heavenly Lord.|What brings Tie Mianren here?
+NpcHello_铁面人重阳子_Dislike,"This is a place of quiet cultivation, please behave yourself."
+NpcHello_铁面人重阳子_Hate,Please go back.|Taoist Sect doesn't welcome you.
+NpcFactionBuy_铁面人重阳子_RefuseSameFactionOnly,"You're not a disciple of my sect, you can't exchange things from me."
+NpcHello_铁面人庖春秋_Like,"Thank you, Tie Mianren, for always supporting my business!|My butcher's shop can survive till now, thanks to Tie Mianren!|Tie Mianren, you must come often!|I can't believe I know such a big shot like Tie Mianren!"
+NpcHello_铁面人叶云_SelfIntroHigh,Tie Mianren... any advice?
+NpcHello_铁面人叶云_SelfIntroLow,Tie Mianren... any advice?
+NpcHello_铁面人叶云_Common,Any advice?|What are you Vagabonds doing here?
+NpcHello_铁面人叶云_Like,"One day, I will surpass my father!|Any advice?|Tie Mianren is indeed highly skilled, I admire you."
+NpcHello_铁面人蔡元常_Like,"You'd better discipline your disciples well.|Don't think that just because you Nine Factions Sect have many people, you are a big sect.|Managing a sect is not that easy!"
+NpcHello_铁面人蔡元常_Dislike,"Tie Mianren, this place doesn't welcome you.|You'd better leave.|If you linger in this hall, be careful that the head of the hall disregards the coin."
+NpcHello_铁面人蔡元常_Hate,"Tie Mianren, this place doesn't welcome you.|You'd better leave.|If you linger in this hall, be careful that the head of the hall disregards the coin."
+NpcFactionBuy_铁面人蔡元常_RefuseSameFactionOnly,The resources of this place are only for the students here.
+NpcHello_铁面人邋遢张_Like,"Well, if it isn't Tie Mianren, do you have some fine wine to offer me?|Tie Mianren, you've come to see me again? What's the matter this time?|Although Nine Factions Sect is annoying, you do suit my taste. Feel free to speak your mind!"
+NpcHello_铁面人邋遢张_Dislike,"Go away, don't loiter in front of me!|Tsk, I thought it was a fly buzzing around, turns out it's you, Tie Mianren."
+NpcFactionBuy_铁面人慧元禅师_RefuseSameFactionOnly,"Amitabha, the Dharma instruments of this temple are only for the use of those who practice in this temple."
+NpcHello_铁面人孔一刀_Common,"What brings you here?|Brother Tie Mianren, feel free to speak your mind."
+NpcHello_铁面人孔一刀_Like,"Brother Tie Mianren, I hope you've been well.|You look well, brother.|Brother Tie Mianren, feel free to speak your mind."
+NpcHello_铁面人韩红玉_SelfIntroHigh,Greetings from Hongyu.
+NpcHello_铁面人韩红玉_SelfIntroLow,Greetings from Hongyu.
+NpcHello_铁面人韩红玉_Common,Greetings from Hongyu.|Tiger Escort will never be depressed!
+NpcHello_铁面人韩红玉_Like,"With your help, I can definitely revive the tiger's prestige!|Thanks to your help, Hongyu has been able to hold on until now...|Thanks to you, more and more people are coming to commission the escort.|The Tiger Escort is now thriving!"
+NpcTrading_铁面人步绝尘_Apply,"As the leader of Nine Factions Sect, you must have a lot of good stuff, right?|Let me have a look."
+NpcTrading_铁面人步绝尘_HasTrade,"You have a good eye.|As expected of the leader of Nine Factions Sect, you have good taste."
+NpcTrading_铁面人步绝尘_NoTrade,You have high standards.|None of the things here are to your liking?|Let's continue next time.
+NpcSight_铁面人步绝尘_RelationLowBattle,"How dare you, Tie Mianren! You dare to come here again!|I won't let you go this time!|Don't blame me for being ruthless!|I'll make sure you can't return!"
+NpcSight_铁面人步绝尘_FameRelationLowBattle,"How dare you, Tie Mianren! You dare to come here again!|I won't let you go this time!|Don't blame me for being ruthless!|I'll make sure you can't return!"
+NpcSight_铁面人一枝花_RelationLowBattle,"You even dare to show off in front of me!|Do you really think I'm easy to bully?!|Let me show you how powerful I am!|Tie Mianren, prepare to die!"
+NpcSight_铁面人一枝花_FameRelationLowBattle,"You even dare to show off in front of me!|Do you really think I'm easy to bully?!|Let me show you how powerful I am!|Tie Mianren, prepare to die!"
+NpcBattleReact_铁面人一枝花_JoinAllie,You dare to touch me!|Is this Tie Mianren someone you can mess with?
+NpcBattleReact_铁面人召唤半瓶神仙醋_JoinAllie,"Huh? Isn't it {PlayerName}? How did it become Tie Mianren?|Who dares to attack my guest!|It's been a long time since I exercised, just right to warm up.|Such an enemy is also worthy of my shot?|Finish the fight quickly and get off work.|Finish the fight quickly, I have to go back to continue making the game!|Hurry up and finish, I have a meeting to attend after this!|Hey, I'm only halfway through my overtime!|I haven't finished my work yet!"
+NpcHello_铁面人严如蕊_SelfIntroHigh,"The leader of Nine Factions Sect graces us with his presence, what a rare guest."
+NpcHello_铁面人严如蕊_SelfIntroLow,"The leader of Nine Factions Sect graces us with his presence, what a rare guest."
+NpcHello_铁面人严如蕊_Common,"Master Tie, you're here again. Please make yourself at home.|We welcome your frequent visits, Master.|Which lady has caught the Master's eye?|Please feel free to sit anywhere, Master."
+NpcHello_铁面人严如蕊_Like,"Master, you've been coming here often recently. Have you taken a liking to one of our ladies?|We welcome your frequent visits, Master.|Is there anything I can help you with?|Please feel at home here, Master."
+NpcHello_铁面人严如蕊_Dislike,"Just enjoy yourself, Master. Don't talk to me."
+NpcHello_铁面人严如蕊_Hate,"Maiden House does not welcome you, Master. If there's nothing else, please leave."
+NpcTrading_铁面人严如蕊_Refuse,"I'm not interested in what you have.|If you want what I have, you'll have to work harder."
+NpcTrading_铁面人严如蕊_Apply,Let me see what good things you have.|I have a lot of good things here.
+NpcTrading_铁面人严如蕊_HasTrade,"Hmm, there are indeed some good things~|How about it, my things are pretty good, right?"
+NpcTrading_铁面人严如蕊_NoTrade,It seems there's nothing you like.|Then let's talk about it next time.
+NpcTrading_铁面人严如蕊_Default,"I have a lot of good things.|Is there anything you like, Master?|All my things are here."
+NpcTrading_铁面人严如蕊_Disagree,"Take some more things.|I'm not willing to trade with you like this.|If you want my things, show me more sincerity."
+NpcTrading_铁面人严如蕊_Agree,"Fair and reasonable, couldn't be better!|It's pretty good as it is now.|I'm quite satisfied with the current trade."
+NpcSight_铁面人严如蕊_StealthWarning,"What are you doing sneaking around in my Maiden House?!|What do you want to do?!|If you continue like this, I won't be polite!"
+NpcSight_铁面人严如蕊_StealthBattle,Do you really think Maiden House is easy to bully?
+NpcSight_铁面人严如蕊_StealthDiss,"What are you doing sneaking around in my Maiden House?!|What do you want to do?!|If you continue like this, I won't be polite!"
+NpcSight_铁面人严如蕊_ObjectWarning,"Don't touch my things!|If you mess with my things again, don't blame me for being rude!"
+NpcSight_铁面人严如蕊_ObjectBattle,It seems you don't understand human language!|I have to teach you a lesson!|I think you need to be taught a lesson!
+NpcSight_铁面人严如蕊_ItemWarning,"Don't touch my things!|If you mess with my things again, don't blame me for being rude!"
+NpcSight_铁面人严如蕊_ItemBattle,It seems you don't understand human language!|I have to teach you a lesson!|I think you need to be taught a lesson!
+NpcBattleReact_铁面人严如蕊_JoinEnemy,Sister has been tolerating you for a long time!|This is too much!
+NpcBattleReact_铁面人严如蕊_JoinAllie,"With me here, no one dares to touch you!"
+NpcBattleReact_铁面人严如蕊_Involve,I advise you not to mess around!|Don't force sister to do it.|I advise you to stop early.
+NpcBattleReact_铁面人严如蕊_HitObject,I advise you not to mess around!|Don't force sister to do it.|I advise you to stop early.
+NpcBattleReact_铁面人严如蕊_DestroyObject,I advise you not to mess around!|Don't force sister to do it.|I advise you to stop early.
+NpcBattleReact_铁面人严如蕊_HitActor,I advise you not to mess around!|Don't force sister to do it.|I advise you to stop early.
+NpcBattleReact_铁面人严如蕊_KillActor,I advise you not to mess around!|Don't force sister to do it.|I advise you to stop early.
+NpcParalyze_铁面人严如蕊_ParalzeRunAway,What are you doing to me?!|I didn't expect you to be this kind of person.
+NpcParalyze_铁面人严如蕊_ParalzeBattle,You forced me!|Do you think I'm easy to bully?!
+NpcSteal_铁面人严如蕊_RunAway,What are you doing to me?!|I didn't expect you to be this kind of person.
+NpcSteal_铁面人严如蕊_KaiGan,You forced me!|Do you think I'm easy to bully?!
+NpcDriveAway_铁面人严如蕊_XCKaiGan,Don't force me to take action.|I won't stoop to your level.|Really uncivilized!|Don't push your luck.
+NpcDriveAway_铁面人严如蕊_KaiGan,I'm not easy to mess with!|You're asking for trouble!|Don't blame me for being cruel!
+NpcTeach_铁面人严如蕊_Refuse,I don't have anything to teach you.|Let's talk when you've made me happy.
+NpcHello_铁面人凌鸿轩_Like,"Tie Mianren, do you need my help with anything?|Tie Mianren, have you been well?"
+NpcHello_铁面人叶银瓶_SelfIntroHigh,"Who are you, sneaking around? Do you need something from me?"
+NpcHello_铁面人叶银瓶_SelfIntroLow,"Who are you, sneaking around? Do you need something from me?"
+NpcHello_铁面人叶银瓶_Common,Do you need something from me?|What do you want from me?|Sigh... I also want to venture out into the world...
+NpcHello_铁面人叶银瓶_Like,"Sigh, I also want to venture out into the world...|So boring...|As a sect leader, you must have a lot of interesting stories, right?"
+NpcHello_铁面人叶银瓶_Dislike,"I don't want to see you!|Be careful, I might stab you a few holes!|How dare you provoke me again?"
+NpcHello_铁面人叶银瓶_Hate,"I don't want to see you!|Be careful, I might stab you a few holes!|How dare you provoke me again?"
+NpcHello_铁面人叶鹏举_Common,"Do you need something from me, handsome?|I'm busy with military affairs. If you have something to say, please make it quick."
+NpcHello_铁面人叶鹏举_Like,"Both kids are not giving me peace of mind...|Brother Tie Mianren, is there something you need?"
+NpcHello_铁面人叶鹏举_Dislike,"This is a restricted area, how dare you enter?!|If you don't leave, I'll have to deal with you according to military law!|When did my camp become a place where anyone can tread?"
+NpcHello_铁面人叶鹏举_Hate,"This is a restricted area, how dare you enter?!|If you don't leave, I'll have to deal with you according to military law!|When did my camp become a place where anyone can tread?"
+NpcHello_铁面人长春子_SelfIntroHigh,Greetings from me.
+NpcHello_铁面人长春子_SelfIntroLow,Greetings from me.
+NpcHello_铁面人长春子_Common,Greetings from me.|I've met Tie Mianren before.
+NpcHello_铁面人长春子_Like,Greetings from me.|I've met Tie Mianren before.
+NpcHello_铁面人穆再兴_Like,"Big brother Tie Mianren, do you need anything?|Your voice... could it be..."
+NpcInteractive_纪茯苓_Like,What are you going to do to her?
+NpcInteractive_纪茯苓_Dislike,What are you going to do to her?
+NpcHello_纪茯苓_SelfIntroHigh,What do you need from me?
+NpcHello_纪茯苓_SelfIntroLow,What do you need from me?
+NpcHello_纪茯苓_Common,"I don't want to involve you...|What do you want with me, the ominous one?|What do you need from me?"
+NpcHello_纪茯苓_Like,"I don't want to involve you...|What do you want with me, the ominous one?|What do you need from me?"
+NpcHello_纪茯苓_Dislike,"I am an ominous person, please stay away from me...|Why do you bother me..."
+NpcHello_纪茯苓_Hate,"Since we have different paths, why come again?"
+NpcTrading_纪茯苓_Refuse,"I am an ominous person, and the things on me are also ominous..."
+NpcTrading_纪茯苓_Apply,If you don't mind bringing misfortune...|Let me see what you have.
+NpcTrading_纪茯苓_HasTrade,"I hope my things won't bring you misfortune...|Indeed, they are all rare items."
+NpcTrading_纪茯苓_NoTrade,"Indeed, you also think my things will bring disaster..."
+NpcTrading_纪茯苓_Default,"Please be careful, don't hurt yourself...|Is there anything you're interested in?"
+NpcTrading_纪茯苓_Disagree,Please add some more.
+NpcTrading_纪茯苓_Agree,That's fine then.
+NpcBattleReact_纪茯苓_JoinEnemy,Give me your life!
+NpcBattleReact_纪茯苓_JoinAllie,Don't you dare touch {PlayerName}'s hair!
+NpcBattleReact_纪茯苓_Involve,What are you doing?
+NpcBattleReact_纪茯苓_HitObject,What are you doing?
+NpcDriveAway_纪茯苓_XCKaiGan,……
+NpcDriveAway_纪茯苓_KaiGan,Give me your life!
+NpcJobTalk_第二人称_纪茯苓,You
+NpcJobTalk_第二人称敬语_纪茯苓,You
+NpcHello_人妻纪茯苓_Common,"Do you need anything, sir?|How have you been these past few days, sir?|You must be tired from your adventures in the Jianghu, sir."
+NpcHello_人妻纪茯苓_Like,"Do you need anything, sir?|How have you been these past few days, sir?|You must be tired from your adventures in the Jianghu, sir."
+NpcJobTalk_第二人称_人妻纪茯苓,Official
+NpcJobTalk_第二人称敬语_人妻纪茯苓,Official
+NpcTrading_人妻纪茯苓_Apply,"What would you like to see, sir?"
+NpcTrading_人妻纪茯苓_HasTrade,"I will take good care of the things you give me, sir."
+NpcTrading_人妻纪茯苓_NoTrade,"Do you have any other matters, sir?"
+NpcTrading_人妻纪茯苓_Default,"What would you like, sir?"
+NpcDuel_铁面人长春子_Refuse,"You and I are not familiar, please forgive my refusal."
+NpcDuel_铁面人长春子_Info,"Perfect, I also want to see your skills.\n(Winning can get {2} Jianghu Knowledge, {3} FameExperience.)"
+NpcDuel_铁面人长春子_NoStamina,"You look a bit weak, you should rest first."
+NpcDuel_铁面人洪小七_Refuse,I'm not familiar with you!
+NpcDuel_铁面人洪小七_Info,"Hehe, then please go easy on me, big brother Tie Mianren!\n(Winning can get {2} Jianghu Knowledge, {3} FameExperience.)"
+NpcDuel_铁面人洪小七_NoStamina,"Brother, you're exhausted now. How about we go for a big meal first?"
+NpcDuel_铁面人李乐雅_Refuse,"Sorry, Brother Tie Mianren, I prefer to play a tune."
+NpcDuel_铁面人李乐雅_Info,"Alright, I'm bored anyway!\n(Winning can get {2}Jianghu Knowledge, {3}FameExperience.)"
+NpcDuel_铁面人李乐雅_NoStamina,You'd better go and rest.
+NpcDuel_纪茯苓_Refuse,You will be unfortunate if you fight with me.
+NpcDuel_纪茯苓_Info,"Well, let's get started.\n(Victory can earn {2} Jianghu Knowledge, {3} Fame Experience.)"
+NpcDuel_纪茯苓_NoStamina,"You seem tired, why not rest first?"
+NpcChangeWeapon_纪茯苓_Refuse,Giving you this will bring you misfortune...
+NpcInteractive_恶乞丐_Like,What do you want to do to him?
+NpcInteractive_恶乞丐_Dislike,What do you want to do to him?
+NpcHello_恶乞丐_SelfIntroHigh,"What's up, kid?"
+NpcHello_恶乞丐_SelfIntroLow,"What's up, kid?"
+NpcHello_恶乞丐_Common,"What's up, kid?|What are you doing, stinky kid?|What do you want from me?"
+NpcHello_恶乞丐_Like,"Hey, stinky kid.|Stinky kid, you're in good spirits.|Good boy, you're making progress."
+NpcHello_恶乞丐_Dislike,"Humph, spit it out if you have something to say.|Speak up if you have something to say."
+NpcHello_恶乞丐_Hate,Are you here to get beaten?|You'd better have a real reason.
+NpcTrading_恶乞丐_Refuse,"You're so bold, you even dare to take things from a beggar."
+NpcTrading_恶乞丐_Apply,It's not impossible to exchange.
+NpcTrading_恶乞丐_HasTrade,"Take it, hehe.|Don't blame me if you lose it."
+NpcTrading_恶乞丐_NoTrade,You'd better not mind the dirt.
+NpcTrading_恶乞丐_Default,"They're all clean, hehe.|Beggars also have good things."
+NpcTrading_恶乞丐_Disagree,You want to exchange with this little thing?|Bring more.|It's not enough.
+NpcTrading_恶乞丐_Agree,"Alright, let's do it this way.|Let's exchange then."
+NpcBattleReact_恶乞丐_JoinEnemy,Looking for death!|I'll kill you!
+NpcBattleReact_恶乞丐_JoinAllie,I've got your back!|Who wants to mess with him?|Who dares to touch him!
+NpcBattleReact_恶乞丐_Involve,What are you up to?|I advise you to keep your hands clean.
+NpcBattleReact_恶乞丐_HitObject,Are you asking for a fight?|You're really bold.
+NpcBattleReact_恶乞丐_DestroyObject,What are you up to?|I advise you to keep your hands clean.
+NpcBattleReact_恶乞丐_HitActor,What are you up to?|I advise you to keep your hands clean.
+NpcBattleReact_恶乞丐_KillActor,What are you up to?|I advise you to keep your hands clean.
+NpcParalyze_恶乞丐_ParalzeRunAway,Don't challenge my patience.|Don't provoke me.|Stay away from me!
+NpcParalyze_恶乞丐_ParalzeBattle,"Congratulations, you've provoked me.|It seems you don't know how to write the word ""death"".|Today, one of us must leave horizontally.|Better you die than me."
+NpcSteal_恶乞丐_RunAway,Don't challenge my patience.|Don't provoke me.|Stay away from me!
+NpcSteal_恶乞丐_KaiGan,"Congratulations, you've provoked me.|It seems you don't know how to write the word ""death"".|Today, one of us must leave horizontally.|Better you die than me."
+NpcDriveAway_恶乞丐_XCKaiGan,"Are you trying to provoke me?|Alright, alright, I'll make room for you."
+NpcDriveAway_恶乞丐_KaiGan,"Congratulations, you've provoked me.|It seems you don't know how to write the word ""death"".|Today, one of us must leave horizontally.|Better you die than me."
+NpcInteractive_毒伢婆_Like,What are you going to do to her?
+NpcInteractive_毒伢婆_Dislike,What are you going to do to her?
+NpcHello_毒伢婆_SelfIntroHigh,Looking for Granny for something?
+NpcHello_毒伢婆_SelfIntroLow,Looking for Granny for something?
+NpcHello_毒伢婆_Common,How have you been recently?|You look well.|Looking for Granny for something?
+NpcHello_毒伢婆_Like,"You came to see Granny.|Oh, you're here."
+NpcHello_毒伢婆_Dislike,Can you stop bothering me?|Speak quickly if you have something to say.
+NpcHello_毒伢婆_Hate,You dare to see me?|Daring to see me is commendable...
+NpcTrading_毒伢婆_Refuse,I can't give you these things.
+NpcTrading_毒伢婆_Apply,"Alright, come and see."
+NpcTrading_毒伢婆_HasTrade,Take it carefully.|I won't give it again if you lose it.
+NpcTrading_毒伢婆_NoTrade,"Don't you want anything?|Alright, that's it."
+NpcTrading_毒伢婆_Default,"Don't worry, there's no poison.|Pick whatever you want."
+NpcTrading_毒伢婆_Disagree,This is not enough.|You've picked too much.|It's not enough.
+NpcTrading_毒伢婆_Agree,Granny is satisfied.|I think it's enough.|Granny doesn't mind if you want to give more.
+NpcBattleReact_毒伢婆_JoinEnemy,It seems you're tired of living.|Granny will treat you well.
+NpcBattleReact_毒伢婆_JoinAllie,Dare to make a move in front of Granny?|Granny is here!|Who dares to touch him!
+NpcBattleReact_毒伢婆_Involve,What do you want to do?|Don't challenge Granny's bottom line.|Hmm? Try it again?
+NpcBattleReact_毒伢婆_HitObject,What do you want to do?|Don't challenge Granny's bottom line.|Hmm? Try it again?
+NpcBattleReact_毒伢婆_DestroyObject,What do you want to do?|Don't challenge Granny's bottom line.|Hmm? Try it again?
+NpcBattleReact_毒伢婆_HitActor,What do you want to do?|Don't challenge Granny's bottom line.|Hmm? Try it again?
+NpcBattleReact_毒伢婆_KillActor,What do you want to do?|Don't challenge Granny's bottom line.|Hmm? Try it again?
+NpcParalyze_毒伢婆_ParalzeRunAway,Get away!|You only know how to bully old people.|Don't make everyone unhappy.
+NpcParalyze_毒伢婆_ParalzeBattle,"It seems you're tired of living.|Granny will treat you well.|Sour, sweet, bitter, spicy, salty, pick whatever you want."
+NpcSteal_毒伢婆_RunAway,Get away!|You only know how to bully old people.|Don't make everyone unhappy.
+NpcSteal_毒伢婆_KaiGan,"It seems you're tired of living.|Granny will treat you well.|Sour, sweet, bitter, spicy, salty, pick whatever you want."
+NpcDriveAway_毒伢婆_XCKaiGan,Don't make everyone unhappy.|Do you only know how to bully old people?
+NpcDriveAway_毒伢婆_KaiGan,"It seems you're tired of living.|Granny will treat you well.|Sour, sweet, bitter, spicy, salty, pick whatever you want."
+NpcInteractive_损道人_Like,What do you want to do to him?
+NpcInteractive_损道人_Dislike,What do you want to do to him?
+NpcHello_损道人_SelfIntroHigh,Do you want to have your fortune told?
+NpcHello_损道人_SelfIntroLow,Do you want to have your fortune told?
+NpcHello_损道人_Common,Your forehead is dark... just kidding.|I knew you would come to me.|Want to have your palm read?
+NpcHello_损道人_Like,Your forehead is dark... just kidding.|Want to have your palm read?|What do you need from me?
+NpcHello_损道人_Dislike,Your forehead is dark... I'm not kidding.|Speak up if you have something.
+NpcHello_损道人_Hate,"Blood disaster, I didn't curse you.|Forget it... just speak up."
+NpcTrading_损道人_Refuse,"No, my stuff is precious."
+NpcTrading_损道人_Apply,"Alright, feel free to look."
+NpcTrading_损道人_HasTrade,"There's karma on this thing.|I give you the thing, I give you the karma."
+NpcTrading_损道人_NoTrade,I knew you wouldn't want it.
+NpcTrading_损道人_Default,Hopefully you have what I want.|Take your time.
+NpcTrading_损道人_Disagree,Not enough.|Give a little more.|I don't think it's enough.
+NpcTrading_损道人_Agree,I don't mind if you give a little more.|I think it's okay.
+NpcBattleReact_损道人_JoinEnemy,You're in for a disaster today!|I'll burn some paper money for you!
+NpcBattleReact_损道人_JoinAllie,Why am I involved?|I'm really unlucky today.|Annoying.
+NpcBattleReact_损道人_Involve,Keep your hands clean!|What are you trying to do?|I'm going to lose my temper if you mess with me like this.
+NpcBattleReact_损道人_HitObject,Keep your hands clean!|What are you trying to do?|I'm going to lose my temper if you mess with me like this.
+NpcBattleReact_损道人_DestroyObject,Keep your hands clean!|What are you trying to do?|I'm going to lose my temper if you mess with me like this.
+NpcBattleReact_损道人_HitActor,Keep your hands clean!|What are you trying to do?|I'm going to lose my temper if you mess with me like this.
+NpcBattleReact_损道人_KillActor,Keep your hands clean!|What are you trying to do?|I'm going to lose my temper if you mess with me like this.
+NpcParalyze_损道人_ParalzeRunAway,Can't I hide?|Keep your distance.|Don't bring your bad luck to me.
+NpcParalyze_损道人_ParalzeBattle,You're in for a disaster today!|I'll burn some paper money for you!|You're forcing me to take action.|Why bother?
+NpcSteal_损道人_RunAway,Can't I hide?|Keep your distance.|Don't bring your bad luck to me.
+NpcSteal_损道人_KaiGan,You're in for a disaster today!|I'll burn some paper money for you!|You're forcing me to take action.|Why bother?
+NpcDriveAway_损道人_XCKaiGan,Can't I hide?|Keep your distance.|Don't bring your bad luck to me.
+NpcDriveAway_损道人_KaiGan,You're in for a disaster today!|I'll burn some paper money for you!|You're forcing me to take action.|Why bother?
+NpcInteractive_邪戏子_Like,What do you want to do to him?
+NpcInteractive_邪戏子_Dislike,What do you want to do to him?
+NpcHello_邪戏子_SelfIntroHigh,(Opera tone) Do you need something from me?|(Opera tone) What are you looking for?|(Opera tone) Do you have something important to report?
+NpcHello_邪戏子_SelfIntroLow,(Opera tone) Do you need something from me?|(Opera tone) What are you looking for?|(Opera tone) Do you have something important to report?
+NpcHello_邪戏子_Common,(Opera tone) Do you need something from me?|(Opera tone) What are you looking for?|(Opera tone) Do you have something important to report?
+NpcHello_邪戏子_Like,(Opera tone) Do you need something from me?|(Opera tone) What are you looking for?|(Opera tone) Do you have something important to report?
+NpcHello_邪戏子_Dislike,(Opera tone) Who's there?|(Opera tone) What! What are you here for?
+NpcHello_邪戏子_Hate,"(Opera tone) Speak up, I'll spare your life.|(Opera tone) Don't you dare harm me."
+NpcTrading_邪戏子_Refuse,"(Opera tone) This is a precious item, how can I give it to someone?"
+NpcTrading_邪戏子_Apply,(Opera tone) Let's see what treasures I have~
+NpcTrading_邪戏子_HasTrade,"(Opera tone) If you come, I'll go, that's it~|(Opera tone) This item carries my thoughts, to win your heart."
+NpcTrading_邪戏子_NoTrade,(Opera tone) The cessation of trade between two countries is a great loss~
+NpcTrading_邪戏子_Default,(Opera tone) Let's see what treasures I have~
+NpcTrading_邪戏子_Disagree,(Opera tone) Come again~
+NpcTrading_邪戏子_Agree,(Opera tone) Is it too much? Not at all.|(Opera tone) Okay~
+NpcBattleReact_邪戏子_JoinEnemy,(Opera tone) I'll beat you with my steel whip!|(Opera tone) Dare you provoke the tiger?|(Opera tone) Today is the day of the decisive battle~
+NpcBattleReact_邪戏子_JoinAllie,I'll help you!|I'm here!|Who dares to touch him!
+NpcBattleReact_邪戏子_Involve,What do you want to do?|I hope you can rein in at the edge of the precipice.|Turn back while you still can.
+NpcBattleReact_邪戏子_HitObject,"Stop it!|If you continue like this, you'll have to bear the consequences!"
+NpcBattleReact_邪戏子_DestroyObject,What do you want to do?|I hope you can rein in at the edge of the precipice.|Turn back while you still can.
+NpcBattleReact_邪戏子_HitActor,What do you want to do?|I hope you can rein in at the edge of the precipice.|Turn back while you still can.
+NpcBattleReact_邪戏子_KillActor,What do you want to do?|I hope you can rein in at the edge of the precipice.|Turn back while you still can.
+NpcParalyze_邪戏子_ParalzeRunAway,"(Opera tone) Yi ya ya ya ya~|(Opera tone) To advance is to retreat, this is the way of the soldier~."
+NpcParalyze_邪戏子_ParalzeBattle,(Opera tone) I'll beat you with my steel whip!|(Opera tone) Dare you provoke the tiger?|(Opera tone) Today is the day of the decisive battle~
+NpcSteal_邪戏子_RunAway,"(Opera tone) Yi ya ya ya ya~|(Opera tone) To advance is to retreat, this is the way of the soldier~."
+NpcSteal_邪戏子_KaiGan,(Opera tone) I'll beat you with my steel whip!|(Opera tone) Dare you provoke the tiger?|(Opera tone) Today is the day of the decisive battle~
+NpcDriveAway_邪戏子_XCKaiGan,"(Opera tone) Yi ya ya ya ya~|(Opera tone) To advance is to retreat, this is the way of the soldier~."
+NpcDriveAway_邪戏子_KaiGan,(Opera tone) I'll beat you with my steel whip!|(Opera tone) Dare you provoke the tiger?|(Opera tone) Today is the day of the decisive battle~
+NpcMumble_邪戏子_Dead,"(Opera tone) If heaven wants to destroy me, it's not my fault~|(Opera tone) The king's spirit is gone, why should I, a lowly concubine, live?"
+NpcInteractive_邪郎中_Like,What do you want to do to him?
+NpcInteractive_邪郎中_Dislike,What do you want to do to him?
+NpcHello_邪郎中_SelfIntroHigh,How have you been feeling lately?
+NpcHello_邪郎中_SelfIntroLow,How have you been feeling lately?
+NpcHello_邪郎中_Common,Haven't you been injured lately?|Come and try my new medicinal patch.|The first half of the medicine is free.|Any difficult diseases?|Anything you need?
+NpcHello_邪郎中_Like,Haven't you been injured lately?|Come and try my new medicinal patch.|The first half of the medicine is free.|Any difficult diseases?|Anything you need?
+NpcHello_邪郎中_Dislike,"Just to let you know, the consultation fee is doubled.|Speak quickly if you have something to say."
+NpcHello_邪郎中_Hate,I won't treat you.|Speak quickly if you have something to say.
+NpcTrading_邪郎中_Refuse,I don't quite trust you.
+NpcTrading_邪郎中_Apply,Fair trade.
+NpcTrading_邪郎中_HasTrade,I bet you want to get the third cut.|I bet you'll be satisfied.|Not responsible for leaving the counter.
+NpcTrading_邪郎中_NoTrade,There are still medicines I lack?
+NpcTrading_邪郎中_Default,I promise I won't rip you off.
+NpcTrading_邪郎中_Disagree,Is this all the consultation fee?|This makes it difficult for me.
+NpcTrading_邪郎中_Agree,That's enough.|These things also interest me.
+NpcBattleReact_邪郎中_JoinEnemy,You think I won't kill you?|Guess if I heal more people or kill more people?|I'll break your hands and feet first.
+NpcBattleReact_邪郎中_JoinAllie,I'll help you!|Don't die.|Who will I get my tail gold from if you die?
+NpcBattleReact_邪郎中_Involve,Don't cause trouble.|I can't pretend I didn't see it.|Better keep your hands clean.
+NpcBattleReact_邪郎中_HitObject,"You're going too far.|This thing can be expensive!|If you come again, you'll piss me off!"
+NpcBattleReact_邪郎中_DestroyObject,"You're going too far.|This thing can be expensive!|If you come again, you'll piss me off!"
+NpcBattleReact_邪郎中_HitActor,"Final warning!|Want to try my needle?|If you come again, you'll piss me off!"
+NpcBattleReact_邪郎中_KillActor,"Final warning!|Want to try my needle?|If you come again, you'll piss me off!"
+NpcParalyze_邪郎中_ParalzeRunAway,Can I go now?|Are you satisfied?|Don't push me.
+NpcParalyze_邪郎中_ParalzeBattle,You think I won't kill you?|Guess if I heal more people or kill more people?|I'll break your hands and feet first.
+NpcSteal_邪郎中_RunAway,Can I go now?|Are you satisfied?|Don't push me.
+NpcSteal_邪郎中_KaiGan,You think I won't kill you?|Guess if I heal more people or kill more people?|I'll break your hands and feet first.
+NpcDriveAway_邪郎中_XCKaiGan,Can I go now?|Are you satisfied?|Don't push me.
+NpcDriveAway_邪郎中_KaiGan,You think I won't kill you?|Guess if I heal more people or kill more people?|I'll break your hands and feet first.
+NpcInteractive_吝掌柜_Like,What do you want to do to him?
+NpcInteractive_吝掌柜_Dislike,What do you want to do to him?
+NpcHello_吝掌柜_SelfIntroHigh,What do you want to buy?|Buy something.|You look like you have some money... right?
+NpcHello_吝掌柜_SelfIntroLow,What do you want to buy?|Buy something.|You look like you have some money... right?
+NpcHello_吝掌柜_Common,What do you want to buy?|Buy something.|You look like you have some money... right?|Aren't you going to buy something?
+NpcHello_吝掌柜_Like,What do you want to buy?|Buy something.|You look like you have some money... right?|Aren't you going to buy something?
+NpcHello_吝掌柜_Dislike,What do you want to buy?|Buy something.|You look like you have some money... right?|Aren't you going to buy something?
+NpcHello_吝掌柜_Hate,What do you want to buy?|Buy something.|You look like you have some money... right?|Aren't you going to buy something?
+NpcMumble_吝掌柜_Dead,I still have money left...
+NpcFactionBuy_吝掌柜_Refuse,"You don't look like you have money.|Go away, I have nothing to sell you."
+NpcFactionBuy_吝掌柜_Before,"Don't just look, buy something.|Since you've looked, you should buy something.|Buy more~"
+NpcFactionBuy_吝掌柜_NoBuy,Tsk|Don't just look.|The deal fell through again...
+NpcFactionBuy_吝掌柜_HasBuy,Made a profit~|The transaction is complete~|No responsibility after sale~
+NpcHello_铁面人_SelfIntroHigh,What brings you to the sect leader?
+NpcHello_铁面人_SelfIntroLow,What brings you to the sect leader?
+NpcHello_铁面人_Common,What brings you to the sect leader?|How have your skills been recently?
+NpcHello_铁面人_Like,What brings you to the sect leader?|How have your skills been recently?
+NpcHello_铁面人_Dislike,What brings you to the sect leader?|How have your skills been recently?
+NpcHello_铁面人_Hate,What brings you to the sect leader?|How have your skills been recently?
+NpcFactionBuy_铁面人_RefuseSameFactionOnly,"Our sect's supplies are only for the use of our sect members, please leave, young hero."
+NpcFactionBuy_铁面人_Before,These are the items that our sect members can get.
+NpcFactionBuy_铁面人_NoBuy,{PlayerName} needs to work harder.|{PlayerName} must not slack off.|Accumulate some more Sect contribution.
+NpcFactionBuy_铁面人_HasBuy,Make good use of it.
+NpcJobTalk_自我称呼_铁面人,Sect Leader

@@ -829,7 +829,7 @@ DLC1PvcName_20,Jade Gate
 DLC1PvcName_21,Zhongzhou Region Port
 DLC1PvcName_22,Swallow Forest
 DLC1PvcName_23,Horse King Mountain
-DLC1PvcName_24,Floating Temple
+DLC1PvcName_24,Buddha Temple
 DLC1PvcName_25,Lin'an
 DLC1PvcName_26,Lin'an South
 DLC1PvcName_27,Deep Black Forest
@@ -851,7 +851,7 @@ DLC1PvcName_42,Herb Forest
 DLC1PvcName_43,Blue Wind Camp
 DLC1PvcName_44,Mang Mountain South
 DLC1PvcName_45,Snowflower Valley
-DLC1PvcName_46,Soul Breaking Valley
+DLC1PvcName_46,Nameless village
 DLC1PvcName_47,Forest of Broken Souls
 DLC1PvcName_48,Small Ridge
 DLC1PvcName_49,Borderland
@@ -889,7 +889,7 @@ DLC1PvcName_80,Herb Forest
 DLC1FactionInfo_0,"A Confucian academy with a long history. Under the leadership of the new dean, Cai Yuanchang, it embraces the new and recruits widely. With the assistance of the Four Arts and four virtuous people, the students are elegant and talented."
 DLC1FactionInfo_1,"A Taoist sect that has been established for hundreds of years, emphasizing self-cultivation and dual cultivation of Qi and sword. Under the leadership of Zhong Yangzi, the disciples aim to save the world and prioritize benevolence and righteousness. They are a model of the current martial arts righteous sect."
 DLC1FactionInfo_2,"It has always been a major sect of Buddhism in the world. In times of war, they not only help the souls who died in the war, but also provide shelter for refugees. There are countless monk soldiers who resist the Yan Kingdom under the instruction of the abbot, defending against foreign enemies."
-DLC1FactionInfo_3,"A new organization formed by a mysterious person. Because it recruits people regardless of their background and age, it has quickly grown into the largest force in the Central Plains. However, it is a mixed bag, and it is difficult to distinguish between good and evil. The current leader, Tie Mianren, is even more mysterious, and no one knows his true identity."
+DLC1FactionInfo_3,"A rising organization founded by Mysterious Man. Due to its recruitment policy that does not discriminate based on background or age, it has grown rapidly and is now considered the largest force in the Central Plains. However, it is a mixed bag, and it is difficult to distinguish between good and evil."
 DLC1FactionInfo_4,"Located in the southwest region, the mountain Clear water is beautiful, and the scenery is natural. All the disciples are young girls, each with a beautiful voice and good at dancing, like fairies. They are hostile to all men in the world, and no one knows the specific reason."
 DLC1FactionInfo_5,"A foreign tribe in the southwest region, they believe in ancient fierce gods and are good at using witchcraft, and are regarded as heretics by the martial arts of the Central Plains. They have harassed the Central Plains many times in the early years, so they were isolated from the Central Plains by the Zhao State. Now, under the leadership of Miao Muli, they are growing stronger and gradually becoming a force not to be underestimated in the southwest region."
 DLC1FactionInfo_6,"Established a water village at the confluence of the nine rivers, in recent years it has gathered a large number of martial arts people, and it seems to have the momentum to divide half of the southern part of the Yangtze River."
@@ -915,3 +915,161 @@ DLCTraderName_神秘商人,NamelessMerchant
 DLCTraderName_武功商人,Mysterious Man
 DLCTraderName_消耗品商人,PillMerchant
 FondTag_特殊,Special
+SlgTechName_故事模式_商人_武功1,Unlock Martial Arts Merchant
+SlgTechName_故事模式_商人_武功2,Unlock Martial Arts Merchant
+SlgTechInfo_故事模式_商人_武功1,"The martial arts Merchant will visit, you can Buy entry-level Manual through the martial arts Merchant."
+SlgTechInfo_故事模式_商人_武功2,"A martial arts merchant will visit, you can buy martial arts manuals from him."
+SlgTechInfo_通用_全员比例回血内1,All Disciples automatically recover 3% HP and MP at the start of each month.
+SlgTechInfo_通用_全员比例回血内2,All Disciples automatically recover 3% HP and MP at the start of each month.
+SlgTechInfo_通用_全员比例回血内3,All Disciples automatically recover 4% HP and MP at the start of each month.
+SlgTechInfo_通用_回合开始武功CD1,"At the beginning of each battle, the initial cooldown of all Disciple martial arts is reduced by 1 round."
+SlgTechInfo_通用_回合开始武功CD2,"At the beginning of each battle, the initial cooldown of all Disciple martial arts is reduced by 1 round."
+SlgTechName_通用_回合开始武功CD1,Martial arts cooldown reduction 1
+SlgTechName_通用_回合开始武功CD2,Martial arts cooldown reduction 2
+SlgTechName_通用_全员比例回血内1,Auto Recovery1
+SlgTechName_通用_全员比例回血内2,Auto Recovery2
+SlgTechName_通用_全员比例回血内3,Auto Recovery3
+DLC1FactionName_200,Confucius Temple
+DLC1FactionName_201,Taoist Sect
+DLC1FactionName_202,Shifa Temple
+DLC1FactionName_203,Nine Factions Sect
+DLC1FactionName_204,Melody House
+DLC1FactionName_205,Jiuli Tribe
+DLC1FactionName_206,Jiujiang Fortress
+DLC1FactionName_207,Herbology Sect
+DLC1FactionName_208,Beast Manor
+DLC1FactionName_209,Swallow Nest
+DLC1FactionName_210,Crime Investigation Bureau
+DLC1FactionName_211,Tiger Escort
+DLC1FactionName_212,Night Auction Market
+DLC1FactionName_213,Langya Sword Pavilion
+DLC1FactionName_214,Tomb Raider Sect
+DLC1FactionName_215,Blue Wind Camp
+DLC1FactionName_216,Ye Family Battalion
+DLC1FactionName_217,Cold Skin Gang
+DLC1FactionName_218,Divine Flame Sect 
+DLC1FactionName_219,Yan Yun Iron Army
+DLC1FactionName_220,Great Ant City
+DLC1FactionName_221,Chaiwang Pavilion
+DLC1FactionName_222,Nameless force
+DLC1PvcName_81,White Mountain
+DLC1PvcName_82,White Mountain Pass
+DLC1PvcName_83,White Forest
+DLC1PvcName_84,Xu Family Outpost
+DLC1PvcName_85,Extreme North Land
+DLC1PvcName_86,Nameless Camp
+DLC1PvcName_87,Mei Pass Post
+DLC1PvcName_88,Creek Wood Port
+DLC1PvcName_89,Phoenix Woods Harbor
+DLC1PvcName_90,Thousands of Bamboo Creek
+DLC1FactionInfo_200,"A Confucian academy with a long history. Under the leadership of the new dean, Cai Yuanchang, it embraces the new and recruits widely. With the assistance of the Four Arts and four virtuous people, the students are elegant and talented."
+DLC1FactionInfo_201,"A Taoist sect that has been established for hundreds of years, emphasizing self-cultivation and dual cultivation of Qi and sword. Under the leadership of Zhong Yangzi, the disciples aim to save the world and prioritize benevolence and righteousness. They are a model of the current martial arts righteous sect."
+DLC1FactionInfo_202,"It has always been a major sect of Buddhism in the world. In times of war, they not only help the souls who died in the war, but also provide shelter for refugees. There are countless monk soldiers who resist the Yan Kingdom under the instruction of the abbot, defending against foreign enemies."
+DLC1FactionInfo_203,"A rising organization founded by Mysterious Man. Due to its recruitment policy that does not discriminate based on background or age, it has grown rapidly and is now considered the largest force in the Central Plains. However, it is a mixed bag, and it is difficult to distinguish between good and evil."
+DLC1FactionInfo_204,"Located in the southwest region, the mountain Clear water is beautiful, and the scenery is natural. All the disciples are young girls, each with a beautiful voice and good at dancing, like fairies. They are hostile to all men in the world, and no one knows the specific reason."
+DLC1FactionInfo_205,"A foreign tribe in the southwest region, they believe in ancient fierce gods and are good at using witchcraft, and are regarded as heretics by the martial arts of the Central Plains. They have harassed the Central Plains many times in the early years, so they were isolated from the Central Plains by the Zhao State. Now, under the leadership of Miao Muli, they are growing stronger and gradually becoming a force not to be underestimated in the southwest region."
+DLC1FactionInfo_206,"Established a water village at the confluence of the nine rivers, in recent years it has gathered a large number of martial arts people, and it seems to have the momentum to divide half of the southern part of the Yangtze River."
+DLC1FactionInfo_207,"All the disciples are doctors who are indifferent to the world and help the world. They take the treatment of diseases and saving people as their own responsibility, and it is also the place where countless doctors aspire. It is now in ruins, with only a piece of old land left."
+DLC1FactionInfo_208,"A large manor located in the southwest, known for its beast taming skills. The manor owner, Tang Tai Jun, moved his family here decades ago to keep his promise of guarding the southwest. Since then, they have dominated the southwest, preventing the Jiuli Tribe from invading the Central Plains."
+DLC1FactionInfo_209,"Created by the legendary thief ""Yanzi Li"" who is at the top of Qinggong, his stealing technique and Qinggong are unparalleled in the world. Often in the blink of an eye, he has already pickpocketed, and there is no trace of him coming and going."
+DLC1FactionInfo_210,"Established in the early years of this dynasty, it is an organization that exists only to punish criminals, and vows to bring all the evil people in the world to justice. All the catchers in today's large and small cities come from the Crime Investigation Bureau."
+DLC1FactionInfo_211,"Once the largest escort agency in the world, but a few years ago it encountered a change, the former head of the escort disappeared, and now it is taken over by the daughter of the head of the escort, Han Hongyu, but the situation of the escort agency is far from the past."
+DLC1FactionInfo_212,"A market outside Daliang City that only opens at night, it is very lively every night. There is an auction every night, and it has the posture of competing with the Glittering Artifact Auction."
+DLC1FactionInfo_213,"The place where Jian Chi retired and sealed his sword, inheriting the thousand-year-old sword-making technology of ancient and modern times, many of the divine weapons in the current martial arts world come from here."
+DLC1FactionInfo_214,"Mysterious organization, living by stealing cultural relics in ancient tombs, all the disciples are proficient in the technique of dividing gold and determining acupoints, and no one knows where their power is."
+DLC1FactionInfo_215,"A bandit nest led by Kong Yidao. Although they are a group of mountain bandits, they have put up the banner of ""doing justice on behalf of the heaven"". They never rob the common people, nor bully the weak. They only rob the ""unjust wealth"", and are a thorn in the side of the government."
+DLC1FactionInfo_216,"The Zhao Kingdom's army commanded by Ye Pengju. The army is strict in discipline and undefeated. It has defeated the Yan Kingdom's army many times, preserving half of the Zhao Kingdom's territory, and is therefore deeply loved by the people. It is also the last hope for many people to welcome back the Zhao Emperor."
+DLC1FactionInfo_217,"Located in the Flame City in the desert, it is the actual ruler of Flame City. Under the management of Master Huo Shilou, it resists the self-proclaimed Western Regions hegemon, the Divine Flame Sect ."
+DLC1FactionInfo_218,"A rising power in the northwest region, under the command of the current leader Fang Xiaoian, sweeps the Western Regions, invincible."
+DLC1FactionInfo_219,"The elite army of the Yan Kingdom, with strong soldiers and horses, is eyeing the Central Plains under the command of Wanyan Wuzhu."
+DLC1FactionInfo_220,"The force led by Yagyū Musashi, with great ambition!"
+DLC1FactionInfo_221,"The residence of the former dynasty royal family Chai Wangye, although it is not a martial arts sect, it has a good relationship with various martial arts sects and has a considerable reputation in the martial arts world."
+DLCTraderName_故事模式武功商人,Mysterious Man
+TraitName_DLC先天_伤害提升,Damage Increase
+TraitName_DLC先天_龙精虎猛,Stalwart
+TraitName_DLC先天_身轻如燕,Light body
+TraitName_DLC先天_如影随形,Shadow Follows Shape
+TraitName_DLC先天_铜身铁骨,Iron Body
+TraitName_DLC先天_身强体健,Hardened
+TraitName_DLC先天_生命提升,HP Increase
+TraitName_DLC先天_暴击提升,Critical Increase
+TraitName_DLC先天_闪避提升,Evasion Increase
+TraitName_DLC先天_手脚灵活,Quick reflex
+TraitName_DLC先天_御剑提升,Sword Increase
+TraitName_DLC先天_攻击提升,Attack Increase
+TraitName_DLC先天_格挡提升,Parry Increase
+TraitName_DLC先天_攻击增强,Attack Enhancement
+TraitName_DLC先天_防御增强,Defense Enhancement
+TraitName_DLC先天_生命增强1,HP Enhancement
+TraitName_DLC先天_健步如飞,Quick step
+TraitName_DLC先天_辣手无情,Ruthless Hand
+TraitName_DLC先天_破云之力,Cloud-breaking Power
+TraitName_DLC先天_武器加持,Weapon Blessing
+TraitName_DLC先天_身轻如羽,Light as a Feather
+TraitName_DLC先天_伺机而动,Fast response
+TraitName_DLC先天_奋勇向前,Brave Charge
+TraitName_DLC先天_清心寡欲,Clear Mind and Few Desires
+TraitName_DLC先天_强体健肌,Strong Body and Muscles
+TraitName_DLC先天_防具加持,Armor Blessing
+TraitName_DLC先天_运筹帷幄,Tactical Strategist
+TraitName_DLC先天_伤敌恢复,Enemy Recovery
+TraitName_DLC先天_内力节流,MP Conservation
+TraitName_DLC先天_气场扰乱,Aura Disruption
+TraitName_DLC先天_闪避增强,Evasion Enhancement
+TraitName_DLC先天_圣火护体,Divine Flame Protection
+TraitName_DLC先天_箫音暴击,Flute Critical
+TraitName_DLC先天_枪棍守护,Polearm Defense
+TraitName_DLC先天_环环相扣,Interlocking
+TraitName_DLC先天_伤害强化,Damage Enhancement
+TraitName_DLC先天_生命增强,HP Enhancement
+TraitName_DLC先天_受击自愈,Self-healing when Hit
+TraitName_DLC先天_危急自救,Emergency Self-rescue
+TraitName_DLC先天_动物猎手,Animal Hunter
+TraitName_DLC先天_身似掠影,Shadow-like Body
+TraitName_DLC先天_背击破招,Back Attack Break
+TraitName_DLC先天_侧击破招,Side Attack Break
+TraitName_DLC先天_格挡增强,Parry Enhancement
+TraitName_DLC先天_暴击增强,Critical Enhancement
+TraitName_DLC先天_内力增强,MP Enhancement
+TraitName_DLC先天_伤害增强,Damage Enhancement
+TraitName_DLC先天_剑意凛然,Sword Intent
+TraitName_DLC先天_疏而不漏,Precision
+TraitName_DLC先天_连击增强,Combo Enhancement
+TraitName_DLC先天_攻势如虹,Offense like a Rainbow
+TraitName_DLC先天_钢筋铁骨,Steel Bones
+TraitName_DLC先天_生龙活虎,Vigorous
+TraitName_DLC先天_速战速决,Blitz attack
+TraitName_DLC先天_一击必杀,Instant death
+TraitName_DLC先天_致命伤害,Critical Damage
+TraitName_DLC先天_斩敌追击,Enemy Chasing
+TraitName_DLC先天_逆境求生,Survival in Adversity
+TraitName_DLC先天_反弹伤害,Damage Reflect
+TraitName_DLC先天_铜墙铁壁,Wall of steel
+TraitName_DLC先天_绝处逢生,Survival in Despair
+TraitName_DLC先天_乘胜追击,Continuous assault
+TraitName_DLC先天_独具慧眼,Insightful Eye
+TraitName_DLC先天_身如鬼魅,Rapid response
+TraitName_DLC先天_武功扰乱,Martial Arts Disruption
+TraitName_DLC先天_借势而行,Follower's Path
+TraitName_DLC先天_印记增幅,Mark Increase Roll
+TraitName_DLC先天_印记反制,Mark Counter
+TraitName_DLC先天_免疫屏障,Immune Barrier
+TraitName_DLC先天_御兽之能,Beast Taming Ability
+TraitName_DLC先天_御兽之术,Beast Taming Technique
+TraitName_DLC先天_免疫背击,Immune to Back attack
+TraitName_DLC先天_免疫侧击,Immune to Side attack
+TraitName_DLC先天_免疫控制,Immune to Control
+TraitName_DLC先天_致命暴击,Critical Critical
+TraitName_DLC先天_御剑增伤,Sword Increases Damage
+TraitName_DLC先天_神失梦迷,Lost in Dreams
+TraitName_DLC先天_融金藏锋,Melting Gold and Hiding Blade
+TraitName_DLC先天_协同守护,Cooperative Defense
+TraitName_DLC先天_威震一方,Preeminent
+TraitName_DLC先天_追风掣电,Windwalker
+TraitName_DLC先天_百炼成钢,Spirit of Steel
+TraitName_DLC先天_坚守之心,Defender's Heart
+Tech-Player_0,Basic
+Tech-Player_4,General
+Tech-Player_1,General-Speed
+Tech-Player_2,General-Attack
+Tech-Player_3,General-Defense

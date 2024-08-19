@@ -1,7 +1,7 @@
 ﻿﻿BuffInfo_DLC教学特征1,Giant Roll increases Attack and Defense.
 BuffName_DLC教学特征1,Unity of Heaven and Man,คนกับฟ้ารวมเป็นหนึ่ง
-guid-1_name,Attack <color=#00FF00>Blue Wind Camp</color>,โจมตี <color=#00FF00>ค่ายวายุคราม</color>
-guid-1_log,"After launching an attack on Blue Wind Camp through the <color=#00FF00>Attack</color> function, click <color=#00FF00>""Execute""</color> to enter the next round!","หลังจากเริ่มโจมตีค่ายวายุครามโดยการใช้ฟังก์ชัน <color=#00FF00>โจมตี</color> กดปุ่ม <color=#00FF00>""เริ่ม""</color> เพื่อเริ่มรอบถัดไป!"
+guid-1_name,Attack <color=#c44b0e>Blue Wind Camp</color>
+guid-1_log,"After launching an attack on Blue Wind Camp through the <color=#c44b0e>Attack</color> function, click <color=#c44b0e>""Execute""</color> to enter the next round!"
 guid-1_username1,A young and pleasant female voice,เสียงสตรีที่ไพเราะเสนาะหู
 guid-1_username2,A cute and obedient girl,หญิงสาวน่ารักและว่านอนสอนง่าย
 guid-1_1_1,"Hey! Wake up!\nIf you don't wake up, I'm going to draw a turtle on your face!","นี่! ตื่นเดี๋ยวนี้!\nหากเจ้ายังไม่ตื่นข้าจะวาดรูปเต่าลงบนหน้าเจ้าแล้วนะ!"
@@ -18,7 +18,7 @@ guid-1_2_2,"Speaking of... who are you, girl?\nI'm not used to having a girl squ
 guid-1_2_3,"I'm your lively and cute little junior sister,\nToday is the big day for you to take over as the sect leader, I came to remind you.","ข้าก็คือศิษย์น้องหญิงผู้น่ารักและเลอโฉมของเจ้ายังไงล่ะ\nวันนี้คือวันสำคัญที่เจ้าจะต้องเข้ารับตำแหน่งเจ้าสำนัก ข้าเลยมาเตือน"
 guid-1_2_4,"I'm sorry... My mind is a bit muddled as I just woke up. Please don't take it to heart. Since you're my junior sister, we should have a master, right? And, what sect are we from?",ขอโทษที... ข้ายังรู้สึกเมาหัวหลังจากตื่นอยู่เลย ในเมื่อเจ้าเป็นศิษย์น้องหญิงของข้า แปลว่าเราทั้งคู่ควรที่จะมีอาจารย์ใช่ไหม? แล้ว..เรามาจากสำนักอะไรกันล่ะ?
 guid-1_2_5,"Our master has gone on a journey around the world. Before he left, he entrusted the sect to you and asked you to give it a powerful name, so we can hold our heads high in the martial world.",ท่านอาจารย์ของเราได้ออกไปท่องยุทธภพแล้วล่ะ แต่ก่อนท่านจะออกเดินทางได้ฝากสำนักไว้กับท่าน และขอให้ท่านเป็นคนแต่งตั้งชื่อที่สุดแสนจะเท่ห์และเลิศเลอสะท้านไปทั้งยุธภพ
-guid-1_2_6,"It's strange, with my profound wisdom, I can't figure out what our cheap master is thinking.",แปลกจัง ด้วยสติปัญญาอันเฉลียวฉลาดของข้า แต่กลับไม่สามารถเข้าถึงความคิดของท่านอาจารย์ได้
+guid-1_2_6,"It's strange, with my profound Wisdom, I can't figure out what this cheap master is thinking."
 guid-1_2_7,"Our master is far-sighted, it's not for us disciples to guess his intentions. You should quickly give our sect a new name. You're going to be the new sect leader.",อาจารย์ของเราเป็นคนรู้จักมองการไกล ศิษย์อย่างเราไม่จำเป็นต้องเข้าใจเจตนาของท่านก็ได้ ท่านควรรีบตั้งชื่อสำนักของเราใหม่ได้แล้ว ในเมื่อท่านกำลังจะกลายเป็นเจ้าสำนักคนใหม่นะ
 guid-1_2_8,The new name of the sect is...,ชื่อของสำนักของเราคือ....
 guid-1_3_1,"What a good choice, brother. The new name is indeed catchy and meaningful.",ตั้งได้แจ่มมากศิษย์พี่ ชื่อใหม่นี่มันไฉไลและมีความหมายที่ลึกซึ้งสุดๆ
@@ -33,7 +33,7 @@ guid-1_3_9,"Junior sister, call all the disciples of our sect and immediately fo
 guid-1_3_10,"Sect Leader Brother, you're so fierce. You're going to establish your authority by attacking the Blue Wind Camp first. That's so...",ศิษย์พี่เจ้าสำนักท่านช่างดุดันยิ่ง ท่านกำลังจะสร้างชื่อด้วยการโจมตีค่ายวายุครามเป็นอันดับแรก นี่มันช่าง....
 guid-1_3_11,"That's so reckless! Wait for me, brother, the Blue Wind Camp is not as weak as you think...",ช่างงี่เง่าสิ้นดี! รอข้าก่อนศิษย์พี่ ค่ายวายุครามไม่ได้อ่อนแออย่างที่ท่านคิดนะ....
 guid-2_name,Heal,ฟื้นฟู
-guid-2_log,Click <color=#00FF00>Heal</color> and choose the main character to heal.,คลิก <color=#00FF00>รักษา</color> และเลือกตัวละครหลักที่จะรักษา
+guid-2_log,Click <color=#c44b0e>Heal</color> and choose the main character to heal.
 guid-2_1_1,"Junior sister, this outcome is a bit different from what I expected...",ศิษย์น้องหญิง... ผลลัพธ์มันช่าง... แตกต่างจากที่ข้าคาดการณ์ไว้ยิ่งนัก!
 guid-2_1_2,"Isn't it because you, Sect Leader Brother, overestimated yourself and rushed into their camp, shouting ""I want to fight ten of you!"" and then got beaten up, haha."
 guid-2_1_3,Our sect is even weaker than the Blue Wind Camp... Who could have guessed that!,สำนักเรายังอ่อนแอกว่าค่ายวายุครามอีกงั้นรึ... ใครจะไปคาดคิดกัน!
@@ -44,7 +44,7 @@ guid-2_2_1,"Phew... Finally, I'm handsome again.\nBut why do I feel that my HP a
 guid-2_2_2,"As the saying goes, ""Muscle injuries take a hundred days to heal"". Even your cute junior sister can't make you, who is near death, vigorous and lively immediately.",ดั่งคำโบราณว่าไว้ 'บาดแผลกล้ามเนื้อต้องใช้เวลาร้อยวันจึงจะหาย' แม้แต่ศิษย์น้องหญิงร่วมสำนักผู้น่ารักของเจ้าก็ไม่อาจทำให้เจ้าที่ใกล้ม้วยมรณาฟื้นคืนชีพและกระปรี้กระเปร่าได้ในชั่วพริบตา
 guid-2_2_3,"Junior sister, you must insist on healing me every day. I really don't like this feeling of being half-dead.",ศิษย์น้องหญิง เจ้าต้องยืนกรานรักษาอาการข้าทุกวัน ข้าไม่ชอบความรู้สึกเหมือนอยู่ในภวังค์ระหว่างความเป็นความตายเช่นนี้เลย
 guid-3_name,Recruitment,รับสมัคร
-guid-3_log,Increase the number of disciples in the sect to <color=#00FF00>4</color> through <color=#00FF00>Recruitment</color>.,เพิ่มจำนวนศิษย์ในสำนักให้ถึง <color=#00FF00> 4 คน </color> ผ่านการ <color=#00FF00> รับสมัครผู้ฝึกวิชา </color>.
+guid-3_log,Increase the number of disciples in the sect to <color=#c44b0e>4</color> through <color=#c44b0e>Recruitment</color>.
 guid-3_1_1,"Junior sister, I'm quite puzzled. Were you just standing by and watching when I was being beaten up by the Mountain Bandits of Blue Wind Camp?",ศิษย์น้องหญิง ข้ารู้สึกสงสัยยิ่งนัก เจ้าเพียงแต่ยืนดูอยู่เฉยๆ ตอนที่ข้าถูกพวกโจรภูเขาจากค่ายวายุคราม รุมซ้อมอย่างนั้นหรือ?
 guid-3_1_2,"What else could I do? Should I, a girl, get beaten up with you? In the end, there would be no one to help us heal.",ข้าจะทำเช่นไรได้อีกเล่า? เจ้าอยากให้สตรีน้อยเช่นข้าต้องร่วมชกต่อยกับเจ้าด้วยหรือ? ท้ายที่สุด จะไม่มีเหลือผู้ใดให้ช่วยรักษาบาดแผลของพวกเจ้า
 guid-3_1_3,Are there only two of us in our sect?,สำนักมีแค่เราสองคนเท่านั้นเหรอ?
@@ -52,17 +52,17 @@ guid-3_1_4,"Yes, I was about to remind the sect leader to recruit more people. O
 guid-3_1_5,"If possible, I would like to leave the sect and wander the world right now.\nOur sect is so desolate, how can we recruit people?","หากเป็นไปได้ ข้าปรารถนาจะออกจากสำนักและท่องไปในโลกกว้างในตอนนี้ \nสำนักของเราช่างรกร้างเหลือเกิน เราจะรับสมัครผู้คนได้อย่างไร?"
 guid-3_1_6,"With the personal charm of your smart and cute junior sister~\nI'll help you recruit personally, and we'll definitely get talented young talents~","ด้วยเสน่ห์อันล้ำเลิศของศิษย์น้องหญิงผู้เฉลียวฉลาดและน่ารักของท่าน~\nข้าจะช่วยท่านคัดสรรศิษย์ด้วยตนเอง รับรองว่าจะได้ยอดฝีมือรุ่นเยาว์มาอย่างแน่นอน~"
 guid-4_name,Promote Disciple,เลื่อนขั้นลูกศิษย์
-guid-4_log,"Promote any disciple through the <color=#00FF00>Management</color> function, or directly enter the next round.",เลื่อนขั้นศิษย์คนใดก็ได้ผ่านระบบ <color=#00FF00> บริหารสำนัก </color> หรือเข้าสู่รอบถัดไปโดยตรง
+guid-4_log,"Promote any disciple through the <color=#c44b0e>Management</color> function, or directly enter the next round."
 guid-4_1_1,"Junior sister, why do I find that the money in the sect has suddenly decreased?",ศิษย์น้องหญิง เหตุใดข้าจึงพบว่าเงินทองในคลังสำนักลดลงอย่างฉับพลันเช่นนี้?
-guid-4_1_2,"We just recruited two disciples, did you forget, sect leader?\nTalented people not only have high <color=#00FF00>recruitment costs</color>, but also need to pay a considerable salary every month.","พวกเราเพิ่งรับศิษย์ใหม่สองคนเข้าสำนัก ท่านเจ้าสำนักลืมไปแล้วหรือ?\nยอดฝีมือนั้นมิใช่เพียงมี <color=#00FF00>ค่าใช้จ่ายในการรับเข้าสำนัก </color> ที่สูงลิ่วเท่านั้น แต่ยังต้องจ่ายค่าตอบแทนรายเดือนอีกจำนวนมากอีกด้วย"
+guid-4_1_2,"Just recruited a few disciples, did the head brother forget?\nNot only is the <color=#c44b0e>recruitment cost</color> high for capable people, but they also require a hefty salary every month."
 guid-4_1_3,"I thought with your charm, junior sister, you could gather a crowd with a single call. I didn't expect that we still need to spend money in the end.",ข้านึกว่าด้วยเสน่ห์ของศิษย์น้องหญิง เพียงเอ่ยปากเรียกก็จะมีผู้คนหลั่งไหลมาสมัครเป็นศิษย์เสียอีก ไม่คาดคิดว่าท้ายที่สุดแล้วพวกเราก็ยังต้องสิ้นเปลืองเงินทองอยู่ดี
 guid-4_1_4,"If you want to recruit people, don't be afraid to spend money. If the treatment is not good, why would people follow you? Is it because of your self-righteous handsome face?",หากต้องการรับคนเข้าสำนัก อย่าได้กลัวการใช้จ่าย หากไม่ให้ผลตอบแทนที่ดี ผู้ใดเล่าจะยอมติดตามพวกเจ้า? หรือว่าพวกเจ้าคิดว่าโฉมหน้าอันงดงามที่เจ้าหลงตัวเองนักหนานั้นจะดึงดูดผู้คนได้?
 guid-4_1_5,"I hope the spending can come to an end, otherwise if this continues, I, the new sect leader, can only declare bankruptcy and close the sect.",ข้าหวังว่าการใช้จ่ายนี้จะสิ้นสุดลงเสียที มิเช่นนั้นหากยังคงเป็นเช่นนี้ต่อไป ข้าผู้เป็นเจ้าสำนักคนใหม่คงต้องประกาศล้มละลายและปิดสำนักเสียแล้ว
-guid-4_1_6,"Oh, this is far from enough. For such talented disciples, I suggest <color=#00FF00>promoting</color> them to more promising inner disciples. Although the monthly expenditure is slightly higher, it can maximize the growth limit, which is very cost-effective in the long run!",โอ้ นี่มันยังไม่เพียงพอ สำหรับศิษย์ที่มีพรสวรรค์เช่นนี้ ข้าแนะนำ <color=#00FF00>ให้เลื่อนขั้น</color>พวกเขาเป็นศิษย์ในที่มีอนาคตไกล แม้ว่าค่าใช้จ่ายรายเดือนจะสูงขึ้นเล็กน้อย แต่มันสามารถเพิ่มขีดจำกัดการเติบโตได้สูงสุด ซึ่งคุ้มค่าในระยะยาว!
+guid-4_1_6,"Oh, this is far from enough. For such talented disciples, I suggest <color=#c44b0e>promoting</color> them to more promising inner disciples. Although the monthly expenditure is slightly higher, it can maximize the growth limit, which is very cost-effective in the long run!"
 guid-4_1_7,Spending money again... My heart aches...,เสียเงินอีกแล้ว... ข้าปวดใจ...
-guid-4_1_8,"If the sect leader doesn't know which disciple to promote for a while, why not <color=#00FF00>promote</color> your cutest junior sister first? I'm your most staunch supporter~",หากท่านเจ้าสำนักไม่รู้ว่าจะเลื่อนขั้นศิษย์คนใดในช่วงนี้ ทำไมไม่ <color=#00FF00>เลื่อนขั้น</color> ให้ศิษย์น้องหญิงที่น่ารักที่สุดของท่านก่อนล่ะ? ข้าเป็นผู้สนับสนุนที่มั่นคงที่สุดของท่าน~
+guid-4_1_8,"If the sect leader doesn't know which disciple to promote for a while, why not <color=#c44b0e>promote</color> your cutest junior sister first? I'm your most staunch supporter~"
 guid-5_name,Learn,เรียนรู้
-guid-5_log,Improve the martial arts skills of the disciples through <color=#00FF00>Learning</color> or directly enter the next round.,พัฒนาฝีมือศิลปะการต่อสู้ของศิษย์ผ่าน <color=#00FF00>การเรียนรู้</color> หรือเข้าสู่รอบต่อไปโดยตรง
+guid-5_log,Improve the martial arts skills of the disciples through <color=#c44b0e>Learning</color> or directly enter the next round.
 guid-5_1_1,"You, the new guy, come and practice with me, the sect leader, so I can train you well.",เจ้า ศิษย์ใหม่ มาฝึกกับข้า เจ้าสำนัก เพื่อที่ข้าจะได้ฝึกฝนเจ้าให้เก่งกล้าขึ้น
 guid-5_1_2,"Sect leader, no! My wounds from yesterday haven't healed yet, ah...",เจ้าสำนัก ไม่! บาดแผลจากเมื่อวานของข้ายังไม่หายเลย อาา…
 guid-5_1_3,"Hey! I haven't even made a move yet, how come you've already fallen? I, the sect leader, am truly invincible, haha!",เฮ้! ข้ายังไม่ได้ลงมือเลย ทำไมเจ้าถึงล้มไปซะแล้ว? ข้า เจ้าสำนัก ช่างไร้เทียมทานจริง ๆ ฮ่า ๆ!
@@ -78,7 +78,7 @@ guid-5_1_12,"There's a wooden dummy outside. Senior brother, you first tie yours
 guid-5_1_13,"Then let them use me as a human punching bag, right?",ให้พวกเขาใช้ข้าเป็นกระสอบทรายมนุษย์ใช่ไหม?
 guid-5_1_14,"Hehe, who made you, senior brother, so selfless and dedicated~",ฮ่า ๆ ใครกันที่ทำให้พี่ศิษย์ของเราช่างเสียสละและทุ่มเทเช่นนี้~
 guid-6_name,Defend,ป้องกัน
-guid-6_log,Block the onslaught of Blue Wind Camp through the <color=#00FF00>Attack</color> function.,ต้านทานการโจมตีของค่ายวายุครามผ่านฟังก์ชัน<color=#00FF00>โจมตี</color>
+guid-6_log,Block the onslaught of Blue Wind Camp through the <color=#c44b0e>Attack</color> function.
 guid-6_1_1,"Sect leader senior brother, something terrible has happened!",เจ้าสำนัก ศิษย์พี่ใหญ่ มีเรื่องร้ายแรงเกิดขึ้นแล้ว!
 guid-6_1_2,"Do you remember the embarrassing incident last time when you tried to show off against Blue Wind Camp but ended up being beaten up? This time they are coming at us with great momentum, probably intending to destroy your prestige and boost their morale.",ท่านยังจำเหตุการณ์น่าอับอายครั้งก่อนที่ท่านพยายามอวดฝีมือกับค่ายวายุคราม แต่กลับถูกพวกเขาโจมตีจนพ่ายแพ้ได้หรือไม่? ครั้งนี้พวกเขามาอย่างมีมั่นใจเต็มเปี่ยม คงตั้งใจจะทำลายเกียรติยศของท่านและเสริมสร้างขวัญกำลังใจของพวกเขาเอง
 guid-6_1_3,"I'll go change my clothes, junior sister, you quickly pack up, we'll take the back mountain path, if we don't run now, it'll be too late!",ข้าจะไปเปลี่ยนเสื้อผ้าก่อน ศิษย์น้องหญิงเจ้ารีบเก็บของเถอะ เราจะใช้เส้นทางหลังภูเขา หากไม่รีบหนีตอนนี้จะสายเกินไป!
@@ -111,8 +111,8 @@ guid-6_1_29,"Senior Brother, this is our territory, why not take advantage of th
 guid-6_2_1,"Dare to fight back! With the cost of the Soup medicine, even in your next life, you won't be able to pay it off."
 guid-6_2_2,"Our Big Boss won't let you go, if you have the guts, stay here and wait for death!"
 guid-6_2_3,Two heavily wounded Thugs limped back to the Blue Wind Camp.
-guid-7_name,Acquire <color=#00FF00>Meditation Points</color>
-guid-7_log,Have the Disciple meditate to quickly acquire 100 <color=#00FF00>Meditation Points</color>.
+guid-7_name,Acquire <color=#c44b0e>Meditation Points</color>
+guid-7_log,Have the Disciple meditate to quickly acquire 100 <color=#c44b0e>Meditation Points</color>.
 guid-7_1_1,"Let's settle the vendetta together, even if we don't wipe out the Blue Wind Camp, they will never let us go."
 guid-7_1_2,"There's always a way out, Senior Brother, don't be too pessimistic."
 guid-7_1_3,Is there any way to quickly enhance the strength of our sect? The guys from Blue Wind Camp won't wait for us to develop slowly.
@@ -121,24 +121,24 @@ guid-7_1_5,"Master once told me that if you want to develop and strengthen a sec
 guid-7_1_6,"Our sect was originally poor, thanks to our Master's month-long meditation, he came up with the idea of borrowing money from Blue Wind Camp to solve the urgent need."
 guid-7_1_7,"Yes, then the Master took the money and ran away to hide from the debt, leaving us two to continue being poor."
 guid-7_1_8,"I was just giving an example, an example, understand!"
-guid-7_1_9,"You mean, arrange for the Disciple to <color=#00FF00>meditate</color>, let them come up with all kinds of strange ideas..."
+guid-7_1_9,"You mean, arrange for the Disciple to <color=#c44b0e>meditate</color>, let them come up with all kinds of strange ideas..."
 guid-7_1_10,"Yes! Then as the leader, you can collect their ideas and use them in the development plan of the sect. When our strength has increased to a certain level, Blue Wind Camp will no longer be a threat."
 guid-7_1_11,"How about it, am I smart! Go find a Disciple with exceptional intelligence to try it out."
 guid-7_1_12,Where can I find a Disciple with exceptional intelligence...
 guid-7_1_13,"The person with the highest intelligence in our sect is far away in the sky, but close at hand..."
 guid-8_name,Unlock Resource Merchant
-guid-8_log,Unlock the resource Merchant in <color=#00FF00>Planning</color>.
+guid-8_log,Unlock the resource Merchant in <color=#c44b0e>Planning</color>.
 guid-8_1_1,"Good, it seems you finally know how to collect the ideas of the Disciples."
 guid-8_1_2,"Isn't it, staring at the wall in that thatched house for a whole month, I almost went crazy! If it wasn't for the sake of flattening Blue Wind Camp..."
 guid-8_1_3,"Now that you have the ideas of the Disciples, you can use them to make a big splash in the sect's planning. Whether to prioritize the development of various resources or to prioritize the training of Guard Disciples, use your brain to arrange them in order."
-guid-8_1_4,"There are so many potential planning directions, how do I know which one to research first! Right, our sect only has four people in total, there is no grandeur of a big sect, we must first research how to expand the recruitment of Disciples!"
+guid-8_1_4,"With so many potential directions to plan, how do I know which one to research first! Right, our sect only has a few disciples, we don't have the grandeur of a large sect, we need to research on expanding our disciples first!"
 guid-8_1_5,"Stop! If you recruit so many people, each one needs to be fed and housed, our sect can't afford it!"
 guid-8_1_6,"In my opinion, resource construction is the key to the development of our sect. Our {0} has always produced food, but we don't have resources like herbs. What if one day you are heavily injured and we are short of herbs in the sect?"
 guid-8_1_7,"I know that. If there's no herb, just eat more to replenish nutrition, which will help the body recover quickly."
 guid-8_1_8,Your way of thinking is quite... unique... of course...
 guid-8_1_9,"Of course what? Of course, I'm right?"
 guid-8_1_10,"Of course, we should exchange food for herbs with merchants, you fool!"
-guid-8_1_11,"As long as we first plan out how to contact resource merchants, we can exchange surplus resources for scarce ones through <color=#00FF00>trading</color> with them."
+guid-8_1_11,"As long as we first plan out how to contact resource merchants, we can exchange surplus resources for scarce ones through <color=#c44b0e>trading</color> with them."
 guid-8_2_1,"Junior sister, there's something I'm not sure whether to say or not..."
 guid-8_2_2,Don't say it! Keep it to yourself.
 guid-8_2_3,"I have to say it. According to this plan, we need money to contact merchants, otherwise they will think we are frauds and dare not bring their caravans to do business."
@@ -159,7 +159,7 @@ guid-9_1_6,"Yes, it is! The amount of goods brought by resource merchants each t
 guid-9_1_7,"Alright, alright, I'll go, okay?"
 guid-9_1_8,"Dear sect leader, remember to buy what you lack, if you get it wrong, be prepared to sell yourself to pay off the debt!"
 guid-10_name,New martial arts
-guid-10_log,Unlock martial arts <color=#00FF00>Dexterous Hand</color> in <color=#00FF00>planning</color>.
+guid-10_log,Unlock martial arts <color=#c44b0e>Dexterous Hand</color> in <color=#c44b0e>planning</color>.
 guid-10_1_1,"Junior sister, did our master leave any peerless manuals before he went wandering... no, before he went to hide from his debts?"
 guid-10_1_2,"Martial arts manuals? You mean the Sky Destroying Palm, the Thousand Miles Meteor Sword, the Sky Tearing Thunderbolt Blade?"
 guid-10_1_3,"Yes, yes, those. Such domineering names must be peerless martial arts!"
@@ -172,7 +172,7 @@ guid-10_1_9,Uh... let me think about it.
 guid-10_2_1,"Phew... After using so many brain cells, I finally figured out this martial arts haha!"
 guid-10_2_2,"Don't just laugh, go and comprehend it yourself. The other disciples' levels are too low, they need to be tempered before they can comprehend new martial arts."
 guid-11_name,Equipment Features
-guid-11_log,Unlock the feature <color=#00FF00>Light body</color> in <color=#00FF00>planning</color>.
+guid-11_log,Unlock the feature <color=#c44b0e>Light body</color> in <color=#c44b0e>planning</color>.
 guid-11_1_1,The disciples have practiced martial arts in a decent way. Is there any other way to improve their strength? I'm still a little unsure about defeating the Blue Wind Camp...
 guid-11_1_2,"Of course! In addition to martial arts, each sect has some unique objects that carry the martial arts intentions of their predecessors. These can be given to disciples for comprehension, allowing them to understand different martial arts features."
 guid-11_1_3,"These features have different effects. As long as they are equipped, martial arts talents can immediately step up."
@@ -188,7 +188,7 @@ guid-12_1_3,"Hey, it's not about excitement. The duel just happens to be in our 
 guid-12_1_4,"Hospitality? In my opinion, you just want to get familiar with the masters, and hopefully persuade one with a thin face to help you deal with the Blue Wind Camp."
 guid-12_1_5,"Junior sister, you exposed me so quickly, it really makes me lose face..."
 guid-12a_name,Watching the duel of masters
-guid-12a_log,"It is said that two martial arts masters are having an inseparable duel on a nearby mountain. You, being curious, decide to go and find out."
+guid-12a_log,"It is said that two martial arts masters are having an inseparable duel nearby, you are preparing to go and make friends."
 guid-12a_1_1,Your sword is very fast. Even the head of Langya Sword Pavilion would have to work hard to beat you.
 guid-12a_1_2,Your knife is not bad. Even the knife skills of the Jiujiang Fortress leader probably won't be much stronger than yours.
 guid-12a_1_3,"There's no point in talking more, make your move!"
@@ -196,20 +196,11 @@ guid-12a_1_4,Please!
 guid-12a_1_5,"The two masters come and go, each showing their lifelong skills, fighting into a group. In just a few breaths, they have fought dozens of moves."
 guid-12a_1_6,"The martial arts of you two are evenly matched. It's impossible to tell the winner this way. Why not drop the weapons and decide the winner with MP alone, how about it?"
 guid-12a_1_7,That's exactly what I want! You think I will lose if we compare MP!
-guid-12a_1_8,"The two dropped their weapons and each threw a palm at each other\nAt the intersection of the two palms, endless MP seems to be rolling\nLarge drops of sweat continuously slide down from their cheeks, hitting the ground with a ticking sound."
-guid-12a_1_9,"Phew... I finally made it... These two masters haven't decided the winner yet, it's time for me to show up!"
-guid-12a_1_10,"Both of them look incredibly strong, who should I greet and build relations with first?"
-guid-12a_op1,The stern martial artist with a knife
-guid-12a_op2,The handsome martial artist with a sword
-guid-12a_3_1,"The hero with the knife, I, the head of {MyFaction}, pay my respects!"
-guid-12a_4_1,"The hero with the sword, I, the head of {MyFaction}, pay my respects!"
-guid-12a_5_1,Puff...
-guid-12a_5_2,Uh...
-guid-12a_5_3,"The two masters were facing an inseparable strong enemy, they were fully focused on fighting with their MP\nUnexpectedly, under your sudden shock,\nBoth of them were unstable, spitting blood\nIn a short while, they died on the spot due to MP backlash"
-guid-12a_5_4,"This... I just greeted them, how did they die inexplicably..."
-guid-12a_5_5,"Why are there two strange things on the ground? Are they the legendary Martial Arts features? Never mind, I'll pick them up first, I can't run this trip for nothing."
-guid-13_name,Eliminate <color=#00FF00>Blue Wind Camp</color>
-guid-13_log,"Improve the strength of the disciples under the door, attack Blue Wind Camp."
+guid-12a_1_8,"Both of them discarded their weapons and each struck a palm towards the other\nAt the intersection of the two palms, endless MP seems to be rolling\nBeads of sweat kept sliding down their cheeks, dripping onto the ground"
+guid-12a_1_9,My MP... What kind of demonic skill have you been practicing behind my back!
+guid-12a_1_10,"It's clearly you who's draining my MP... Damn it, our MPs are yin and yang, attracting and repelling each other. If this continues, we'll both be hurt."
+guid-13_name,Eliminate <color=#c44b0e>Blue Wind Camp</color>
+guid-13_log,"Improve the strength of the disciples in the sect, attack the Blue Wind Camp. (The characteristic - Unity of Heaven and Man will be very helpful, remember to equip)"
 guid-13_1_1,"Senior brother, you look particularly energetic today, is there any good news?"
 guid-13_1_2,"I checked the almanac this morning, it said that the east is favorable, it's a good day to break the Blue Wind Camp!"
 guid-13_1_3,"Now our sect is full of talents, it's indeed time to settle accounts with those guys."
@@ -228,57 +219,57 @@ guid-14_1_8,(I'm not willing to give up!!!)
 guid-14_1_9,Can the unfinished business of unifying the martial arts world be realized in another dream?
 guid-14_1_10,"The newbie tutorial is all over, please open your real path to unifying the martial arts world!"
 guid-16_name,Enter next month
-guid-16_log,"Click <color=#00FF00>""Execute""</color> to enter the next month."
+guid-16_log,"Click <color=#c44b0e>""Execute""</color> to enter the next month."
 GeneralQue-1_name,Martial Arts Tournament
 GeneralQue-1_log,Send your Disciples to participate in the Martial Arts Tournament held every 2 years.
-GeneralQue-1_1_1,The biennial <color=#00FF00>Martial Arts Convention</color> is about to begin on Horse.
+GeneralQue-1_1_1,The biennial <color=#c44b0e>Martial Arts Convention</color> is about to begin on Horse.
 GeneralQue-1_1_2,Elites from various sects will gather together to exchange martial arts skills.
 GeneralQue-1_1_3,Will your sect participate?
 GeneralQue-1_1_4,I heard that the rewards for ranking are extraordinary.
-GeneralQue-1_1_5,"If you're interested, feel free to open the <color=#00FF00>Event</color> Info."
-GeneralQue-1_2_1,The biennial <color=#00FF00>Martial Arts Convention</color> is about to begin on Horse.
+GeneralQue-1_1_5,"If you're interested, feel free to open the <color=#c44b0e>Event</color> Info."
+GeneralQue-1_2_1,The biennial <color=#c44b0e>Martial Arts Convention</color> is about to begin on Horse.
 GeneralQue-1_2_2,Is your sect participating this year?
-GeneralQue-1_2_3,"If you're interested, feel free to open the <color=#00FF00>Event</color> Info."
-GeneralQue-1_3_1,The biennial <color=#00FF00>Martial Arts Convention</color> is about to begin on Horse.
+GeneralQue-1_2_3,"If you're interested, feel free to open the <color=#c44b0e>Event</color> Info."
+GeneralQue-1_3_1,The biennial <color=#c44b0e>Martial Arts Convention</color> is about to begin on Horse.
 GeneralQue-1_3_2,"But in recent years, the martial arts world has been in turmoil."
 GeneralQue-1_3_3,"Most sects have been wiped out, and it seems unlikely that the Martial Arts Convention will be held again."
 GeneralQue-1_3_4,"The era of one dominating sect is approaching, let me give you some of my collections over the years!"
 GeneralQue-1_3_5,"The road of martial arts is long, see you if destiny allows!"
 GeneralQue-1_4_1,"Your sect is indeed powerful, you've even managed to rank!"
-GeneralQue-1_4_2,This <color=#00FF00>Martial Arts Token</color> is a valuable item.
+GeneralQue-1_4_2,This <color=#c44b0e>Martial Arts Token</color> is a valuable item.
 GeneralQue-1_4_3,There's a rumor about a Mysterious Man in the martial arts world who is proficient in the top secret techniques of all sects.
 GeneralQue-1_4_4,"As long as you have this Martial Arts Token, you can exchange it for the top secret techniques of various sects."
-GeneralQue-2_name,Martial Arts Master - Fist
-GeneralQue-2_log,"There's a strange challenger outside the mountain gate, claiming that he will pass on all his knowledge to the person who defeats him!"
+GeneralQue-2_name,Martial Arts Eccentric
+GeneralQue-2_log,"A strange challenger claims that if you defeat him, he will gift you his unique Manual."
 GeneralQue-2_1_1,"Your sect is expanding rapidly, and the disciples under the door must be highly skilled."
 GeneralQue-2_1_2,"I have practiced for many years and achieved a divine skill, I urgently need an opportunity to make a name for myself, dare to compete with me?"
-GeneralQue-2_1_3,"If Me loses, I will teach you my <color=#00FF00>signature palm technique</color>, how about it?"
+GeneralQue-2_1_3,"If Me loses, I will teach you my <color=#c44b0e>signature palm technique</color>, how about it?"
 GeneralQue-2_2_1,"As expected of your reputation... I lost, take this Manual, I'll take my leave..."
 GeneralQue-2_3_1,"Everyone said you were strong, but it turns out to be a false rumor, how boring, goodbye!"
-GeneralQue-2_4_1,"The cold-hearted swordsman before was my Intimate friend, you may have defeated him, but you may not defeat Me!"
-GeneralQue-2_4_2,"Have a fair fight with me, let's see if he didn't Learn well, or you guys are playing dirty!"
-GeneralQue-2_4_3,"If you can defeat Me, I will give you the Manual of my <color=#00FF00>unique sword technique</color>."
-GeneralQue-2_5_1,Good skills... He lost without injustice...
-GeneralQue-2_5_2,"I'm willing to accept the loss, this <color=#00FF00>Nameless Sword</color> will be passed on to you."
-GeneralQue-2_6_1,A bunch of mediocrities... How could you defeat my good friend? You must have used some cunning tricks!
+GeneralQue-2_4_1,"I started learning swordsmanship at the age of seven, vowing to defeat all swordsmen and become an undisputed master of the sword."
+GeneralQue-2_4_2,"Now that my swordsmanship has been perfected, it's time to test it on you!"
+GeneralQue-2_4_3,"If you can defeat me, I will willingly hand over the manual of my unique sword technique."
+GeneralQue-2_5_1,(Coughing up blood) What a good skill...
+GeneralQue-2_5_2,"I am willing to admit defeat, this <color=#a94e37>Nameless Sword</color> will be passed on to you."
+GeneralQue-2_6_1,The martial world is too lonely for me now...
 GeneralQue-2_10_1,"Ever since I mastered this Hundred Birds Chasing the Phoenix Spear, I vowed to challenge all sects in the world,"
 GeneralQue-2_10_2,"Now, three sects have already fallen under me, and you will be the fourth!"
-GeneralQue-2_10_3,"My <color=#00FF00>unique spear technique</color> is the prize, how about it, dare to fight?"
-GeneralQue-2_11_1,"You have some skills... This <color=#00FF00>Phoenix Ascension Spear</color> must have many Vulnerable points, I'll give it to you."
+GeneralQue-2_10_3,"My <color=#c44b0e>unique spear technique</color> is the prize, how about it, dare to fight?"
+GeneralQue-2_11_1,"You have some skills... This <color=#c44b0e>Phoenix Ascension Spear</color> must have many Vulnerable points, I'll give it to you."
 GeneralQue-2_12_1,"Job done, it was effortless, which sect should I choose next?"
 GeneralQue-2_13_1,"Although we have no grudges, someone has paid a lot of money for Me to test your strength, sorry..."
-GeneralQue-2_13_2,"I have a mission, please don't refuse, if Me loses, my <color=#00FF00>unique Short</color> Manual will be yours."
-GeneralQue-2_14_1,"Inferior skills, no need to fight again, this <color=#00FF00>Luminary Meteor Strike</color> Manual is yours."
+GeneralQue-2_13_2,"I have a mission, please don't refuse, if Me loses, my <color=#c44b0e>unique Short</color> Manual will be yours."
+GeneralQue-2_14_1,"Inferior skills, no need to fight again, this <color=#c44b0e>Luminary Meteor Strike</color> Manual is yours."
 GeneralQue-2_15_1,"I didn't expect you to be so weak, what's the point of testing such strength?"
 GeneralQue-2_16_1,"I've written a new song, but no one can bear the true meaning of the song, I've been sorrowful for months, heartbroken."
-GeneralQue-2_16_2,"If someone from your sect can listen to this song in its entirety, I will give you this <color=#00FF00>unique music score</color>."
-GeneralQue-2_17_1,"It's really Mountain and River, a bosom friend is hard to find! This <color=#00FF00>Laughing at the World</color> score is for you."
+GeneralQue-2_16_2,"If someone from your sect can listen to this song in its entirety, I will give you this <color=#c44b0e>unique music score</color>."
+GeneralQue-2_17_1,"It's really Mountain and River, a bosom friend is hard to find! This <color=#c44b0e>Laughing at the World</color> score is for you."
 GeneralQue-2_18_1,"It's like playing the lute to a cow, burning the lute and boiling the crane..."
 GeneralQue-3_name,Exterminate Mountain Bandit
-GeneralQue-3_log,"Some Mountain Bandits have appeared near your sect, causing trouble for the people. Send someone to deal with them quickly."
+GeneralQue-3_log,"Some Mountain Bandits have appeared near the sect, causing trouble for the people. Please send someone to deal with them quickly."
 GeneralQue-3_1_1,"Hehe, the resources around here are really abundant, we must make a big score!"
-GeneralQue-3_1_2,"This is natural. If the nearby sects ignore us, we will take <color=#00FF00>their resources</color> and run away."
-GeneralQue-3_1_3,We will stay for <color=#00FF00>2 months</color> and then run away.
+GeneralQue-3_1_2,"This is natural. If the nearby sects ignore us, we will take <color=#c44b0e>their resources</color> and run away."
+GeneralQue-3_1_3,We will stay for <color=#c44b0e>2 months</color> and then run away.
 GeneralQue-3_2_1,"Hehe, no one is bothering us, so we won't be polite."
 GeneralQue-3_3_1,"Damn, someone is messing with us!"
 GeneralQue-3_4_1,"They are skilled, brothers, retreat!"
@@ -287,48 +278,48 @@ GeneralQue-3_5_1,"What a bunch of wastes, they dare to mess with us?"
 GeneralQue-3_5_2,"Brothers, take the spoils and leave."
 GeneralQue-3_5_3,"Hahaha, good, good!"
 GeneralQue-4_name,Out for experience
-GeneralQue-4_log,Send Disciple out for experience.
+GeneralQue-4_log,Send disciples out for a five-day experience.
 GeneralQue-4_1_1,Disciple has embarked on the journey.
 GeneralQue-4_2_1,Hmm? They are some ungrateful beasts!
 GeneralQue-4_3_1,"They are troublesome, better return to the sect quickly!"
 GeneralQue-4_4_1,Found some good stuff!
 GeneralQue-4_5_1,Nothing happened...
-GeneralQue-4_6_1,Continue to explore forward?
+GeneralQue-4_6_1,"The food you brought is almost exhausted, return to the sect as soon as possible."
 GeneralQue-4_op_1_1,Continue forward
 GeneralQue-4_op_1_2,Return to the sect
-GeneralQue-4_7_1,"Bad luck, we lost our belongings, we have to return to the sect quickly...|Something feels wrong, let's terminate the journey and return to the sect..."
-GeneralQue-4_op_2_1,
-GeneralQue-4_op_2_2,
-GeneralQue-4_op_2_3,
-GeneralQue-4_op_2_4,
+GeneralQue-4_7_1,Continue forward...
+GeneralQue-4_op_2_1,Experience Difficulty - D
+GeneralQue-4_op_2_2,Experience Difficulty - C
+GeneralQue-4_op_2_3,Experience Difficulty - B
+GeneralQue-4_op_2_4,Experience Difficulty - A
 GeneralQue-5_name,Sky Breaker Tower
-GeneralQue-5_log,Spend <color=#00FF00>2000</color> coins to let the Passerby guide your Disciple to the Sky Breaker Tower for a challenge.
+GeneralQue-5_log,Spend <color=#a94e37>2000</color> Coins to let the Passerby guide you to the Sky Breaker Tower for a challenge.
 GeneralQue-5_1_1,"There is a rumor in the martial arts world about a treasure tower, its appearance is uncertain."
-GeneralQue-5_1_2,It is called: <color=#00FF00>Sky Breaker Tower</color>.
+GeneralQue-5_1_2,It is called: <color=#c44b0e>Sky Breaker Tower</color>.
 GeneralQue-5_1_3,"The Sky Breaker Tower has twelve floors, each guarded by a hermit from the martial arts world."
-GeneralQue-5_1_4,"Each time you defeat a guard, you will gain a <color=#00FF00>mysterious trait</color> and can challenge the next floor."
-GeneralQue-5_1_5,"If you defeat the highest twelfth floor, you will gain an incredibly powerful <color=#00FF00>mysterious trait</color>."
-GeneralQue-5_1_6,"Coincidentally, I have an old acquaintance who is a professional <color=#00FF00>Passerby</color>."
-GeneralQue-5_1_7,"For just <color=#00FF00>2000</color> coins, he can guide your Disciple to the Sky Breaker Tower for a challenge."
+GeneralQue-5_1_4,"Each time you defeat a guard, you will gain a <color=#c44b0e>mysterious trait</color> and can challenge the next floor."
+GeneralQue-5_1_5,"If you defeat the highest twelfth floor, you will gain an incredibly powerful <color=#c44b0e>mysterious trait</color>."
+GeneralQue-5_1_6,"Coincidentally, I have an old acquaintance who is a professional <color=#c44b0e>Passerby</color>."
+GeneralQue-5_1_7,"For just <color=#c44b0e>2000</color> coins, he can guide your Disciple to the Sky Breaker Tower for a challenge."
 GeneralQue-5_1_8,"The Passerby will wait for you here for 3 months each time the Sky Breaker Tower appears, no waiting after the deadline!"
-GeneralQue-5_1_9,"If you want to go, go to the <color=#00FF00>event</color>."
-GeneralQue-5_op_1_1,Pay <color=#00FF00>2000 coins</color> for the guide fee
+GeneralQue-5_1_9,"If you want to go, go to the <color=#c44b0e>event</color>."
+GeneralQue-5_op_1_1,Pay <color=#c44b0e>2000 coins</color> for the guide fee
 GeneralQue-5_op_1_2,Let the Passerby run away
-GeneralQue-5_2_1,<color=#00FF00>Sky Breaker Tower</color> has appeared!
+GeneralQue-5_2_1,<color=#c44b0e>Sky Breaker Tower</color> has appeared!
 GeneralQue-5_2_2,The entry time is within 3 months.
-GeneralQue-5_2_3,"Leader, you need to prepare <color=#00FF00>2000</color> Coins for the challenge fee."
-GeneralQue-5_3_1,<size=200%><color=#AB2524>First Layer: Tai Gua ▪ Three Yangs Bring Prosperity</color>
-GeneralQue-5_4_1,<size=200%><color=#AB2524>Second Layer: Da Zhuang Gua ▪ Earth Shocks Thunder</color>
-GeneralQue-5_5_1,"<size=200%><color=#AB2524>Third Layer: Guai Gua ▪ Clear and Bright, Grain Rain</color>"
-GeneralQue-5_6_1,<size=200%><color=#AB2524>Fourth Floor: Qian Hexagram▪Scorching Sun at Heart</color>
-GeneralQue-5_7_1,<size=200%><color=#AB2524>Fifth Floor: Gou Hexagram▪Yin in the Heavenly Wind</color>
-GeneralQue-5_8_1,<size=200%><color=#AB2524>Sixth Floor: Dun Hexagram▪Yin Turns to Hidden Yang</color>
-GeneralQue-5_9_1,<size=200%><color=#AB2524>Seventh Floor: Pi Hexagram▪Prosperity Comes in Autumn</color>
-GeneralQue-5_10_1,<size=200%><color=#AB2524>Eighth Floor: Guan Hexagram▪Endless Falling Leaves</color>
-GeneralQue-5_11_1,<size=200%><color=#AB2524>Ninth Floor: Bo Hexagram▪Solemn Killing of Golden Ge</color>
-GeneralQue-5_12_1,<size=200%><color=#AB2524>Tenth Floor: Kun Hexagram▪Accumulate slowly and strike swiftly</color>
-GeneralQue-5_13_1,<size=200%><color=#AB2524>Eleventh Floor: Fu Hexagram▪All Things Begin to Live</color>
-GeneralQue-5_14_1,<size=200%><color=#AB2524>Twelfth Floor: Lin Hexagram▪The World is Ruled</color>
+GeneralQue-5_2_3,"Leader, you need to prepare <color=#c44b0e>2000</color> Coins for the challenge fee."
+GeneralQue-5_3_1,<size=200%><color=#AB2524>First Floor: Tai Trigram▪Yang bringing fortune</color>
+GeneralQue-5_4_1,<size=200%><color=#AB2524>Second Floor: Dazhuang Trigram▪Thunder striking earth</color>
+GeneralQue-5_5_1,<size=200%><color=#AB2524>Third Floor: Guai Trigram▪Promising spring rain</color>
+GeneralQue-5_6_1,<size=200%><color=#AB2524>Fourth Floor: Qian Trigram▪Sun scorching heart</color>
+GeneralQue-5_7_1,<size=200%><color=#AB2524>Fifth Floor: Gou Trigram▪Cloudy sky with wind</color>
+GeneralQue-5_8_1,<size=200%><color=#AB2524>Sixth Floor: Dun Trigram▪Changing yin & hidden yang</color>
+GeneralQue-5_9_1,<size=200%><color=#AB2524>Seventh Floor: Pi Trigram▪Incoming prosperous autumn</color>
+GeneralQue-5_10_1,<size=200%><color=#AB2524>Eighth Floor: Guan Trigram▪Endless fallen leaves</color>
+GeneralQue-5_11_1,<size=200%><color=#AB2524>Ninth Floor: Bo Trigram▪Austere and cold weapons</color>
+GeneralQue-5_12_1,<size=200%><color=#AB2524>Tenth Floor: Kun Trigram▪Well prepared</color>
+GeneralQue-5_13_1,<size=200%><color=#AB2524>Eleventh Floor: Fu Trigram▪The beginning of life</color>
+GeneralQue-5_14_1,<size=200%><color=#AB2524>Twelfth Floor: Lin Trigram▪Reign of the emperor</color>
 GeneralQue-5_15_1,"Challenger, you have completely broken through the Sky Breaker Tower, understanding the cycle of all things in the world."
 GeneralQue-5_15_2,"The ambition of the nameless hero, there really are successors, this is your deserved reward!"
 GeneralQue-5_16_1,It seems that it can only stop here... Come down and try again.
@@ -366,7 +357,7 @@ GeneralQue-8_2_3,……
 GeneralQue-8_3_1,You're quite skilled!
 GeneralQue-8_3_2,"Master, please accept my disciple's bow!"
 GeneralQue-8_3_3,……
-GeneralQue-8_op_1_1,Take <color=#00FF00>Vinegar Shrimp</color> as a Disciple.
+GeneralQue-8_op_1_1,Take <color=#c44b0e>Vinegar Shrimp</color> as a Disciple.
 GeneralQue-8_op_1_2,Decline the request.
 GeneralQue-8_4_1,"Thank you, Master!"
 GeneralQue-8_5_1,"After all, I am also a protagonist from another world!"
@@ -394,7 +385,7 @@ main-2_1_1,How is the inventory in the Sect's Storage Room going?
 main-2_1_2,The inventory of all resources has been completed.
 main-2_1_3,"Good! The martial world is like a battlefield now, and these resources are needed to play their part."
 main-2_1_4,"By the way, I found a strange Token in the Storage Room."
-main-2_1_5,This is the <color=#00FF00>Hao Ran Order</color>.
+main-2_1_5,This is the <color=#c44b0e>Hao Ran Order</color>.
 main-2_1_6,Is... is this the legendary Hao Ran Order?
 main-2_1_7,"Back then, a nameless martial arts master who was unparalleled in the world, cast several Tokens from a meteorite, and this is one of them."
 main-2_1_8,"It is rumored that the Hao Ran Order contains the unique skills of the nameless martial arts master. If one can master it, the achievement will be limitless."
@@ -426,7 +417,7 @@ main-3_1_13,What are these people surrounding the Mountain Entrance for?
 main-3_1_14,They are clamoring for us to hand over the newly acquired treasure fragments.
 main-3_1_15,Such audacity! They are blatantly disrespecting our sect!
 main-3a_name,Mountain Entrance Disturbance
-main-3a_log,A group of vagabonds are eyeing the treasure fragments in your possession. Send some people to deal with them.
+main-3a_log,A group of wanderers have taken an interest in the treasure fragment in your possession and are causing a commotion outside the Mountain Entrance.
 main-3a_1_1,Who dares to cause trouble here?
 main-3a_1_2,"Hand over the fragments, or we will show no mercy!"
 main-3a_1_3,"Oh, don't be so aggressive."
@@ -447,7 +438,7 @@ main-3a_3_4,"Total Annihilation, to avoid future troubles!"
 main-3a_3_5,"Failed to succeed, it's hard to escape fate, didn't expect to fall into the hands of these petty thieves.\nI can't accept this——"
 main-3b_1_1,"I heard there's a storyteller in the martial arts world, telling the story of the unnamed hero, why not go and listen..."
 main-3b_name,Martial Arts Storyteller
-main-3b_log,"There's a storyteller somewhere telling the story of the unnamed hero, you might be able to get the information you need."
+main-3b_log,"A Shuo Shuren is telling the story of the nameless hero, you might learn something."
 main-3b_2_1,"Ladies and gentlemen, today I'm going to tell you about a mysterious but upright hero!"
 main-3b_2_2,"Years ago, the Zhao Kingdom was in turmoil, both internally and externally,\nExternally, there was the menacing Yan Yun Iron Army,\nInternally, there was constant party strife, and the people were living in misery,\nAt this critical juncture of national crisis,\nA hero emerged to save the day!"
 main-3b_2_3,"He single-handedly broke into the Yan army camp,\nCaptured the enemy chief Wanyan Wuzhu, and lifted the siege of Chuxiang City.\nThis forced the enemy to retreat, unable to invade the Central Plains again!"
@@ -462,11 +453,11 @@ main-3b_2_11,"This young man will keep you in suspense for now, today's story en
 main-3b_2_12,"Just when it gets to the most critical part, he leaves us hanging... Let's come back for the next story."
 main-3c_1_1,"That Shuo Shuren has appeared again, let's go and listen to what strange tales he has to tell this time."
 main-3c_name,Martial Arts Storyteller
-main-3c_log,"There's a storyteller somewhere telling the story of the unnamed hero, you might be able to get the information you need."
+main-3c_log,"Shuo Shuren is telling the story of the nameless hero again, go and finish listening to the story."
 main-3c_2_1,"In the last story, this nameless hero mysteriously disappeared after accomplishing an extraordinary feat, leaving no trace."
 main-3c_2_2,"Although he disappeared, the three treasures that accompanied him throughout his adventures are still circulating in the martial arts world."
 main-3c_2_3,"The first one is his protected treasure A, named ""Fubuki"".\nIt is impervious to swords and spears, and no ordinary means can harm it."
-main-3c_2_4,"The second one is his personal ring, named ""Shinsai"".\nMade of thousand-year-old jade, it has extraordinary effects and can double the efficiency of martial arts training when worn."
+main-3c_2_4,"Secondly, it's his personal ring, named ""Shinsai"".\nA thousand-year-old jade, with extraordinary effects, doubles the efficiency of martial arts practice when worn."
 main-3c_2_5,"The last one is his favorite weapon, named ""Secret Battle Box"".\nIt is a masterpiece of craftsmanship, containing machinery that can be freely assembled into a hundred different weapons to fight enemies."
 main-3c_2_6,"Unfortunately, after a long struggle, each treasure was divided into three fragments by people."
 main-3c_2_7,"It is said that nine sects in the martial arts world each hold a piece.\nBut which sects hold them is a secret of the martial arts world, and I don't know."
@@ -483,7 +474,7 @@ main-3e_1_1,"Recently, someone has repeatedly attacked our properties, causing h
 main-3e_1_2,"What a bunch of cowards who dare not show their faces, they don't dare to attack our mountain entrance, they only vent their anger on the disciples."
 main-3e_1_3,"It is estimated that it is the remnants of the sects we conquered before causing trouble, send some people to deal with them."
 main-3e_name,Revenge of the Remnants
-main-3e_log,"Although you have conquered many sects, there are still some remnants who bear grudges and seek revenge, wearing night clothes and causing destruction everywhere."
+main-3e_log,"Some remnants of the sects you destroyed are seeking revenge, wearing Night clothes and causing destruction everywhere."
 main-3e_2_1,Stop!
 main-3e_2_2,"Who are you, daring to commit atrocities and sabotage in secret!"
 main-3e_2_3,"You {MyFaction} forced our sect leader to submit with your superior martial arts, it's time to pay the price!"
@@ -506,8 +497,8 @@ main-4_1_9,"To be honest, the three most expensive antiques in the world were su
 main-4_1_10,Oh? How can I find this person?
 main-4_1_11,"I heard that after his wife passed away, he secluded himself in a deep mountain forest. I'll draw you a map."
 main-4_1_12,"With the map in hand, the next step is to invite him out of the mountain."
-main-4b_name,Ghost Hand Divine Craftsman
-main-4b_log,"Ordinary Blacksmiths can't restore the treasure pieces in your hand, you can only invite the mysterious Ghost Hand Divine Craftsman out of the mountain."
+main-4b_name,Main Quest
+main-4b_log,"Ordinary Blacksmiths can't repair the treasure fragments, only the mysterious Ghost Hand Blacksmith can."
 main-4b_1_1,You and a few others followed the map and finally found the secluded place of the Ghost Hand Divine Craftsman.
 main-4b_1_2,"Old Man, do you know where the Ghost Hand Divine Craftsman lives?"
 main-4b_1_3,What turtle? What sauce? I don't know.
@@ -541,9 +532,9 @@ main-5_1_4,"One of the three treasures has been obtained, I wonder which sect ho
 main-5_1_5,"There's a swordsman outside the door who wants to challenge our sect, he says..."
 main-5_1_6,"He said that he was spared by us last time, and after mastering the Challenging Fate skill, he came to teach us a lesson."
 main-5_1_7,"Perfect timing, let's test the power of this treasure!"
-main-5_name,Main storyline.
+main-5_name,Main Quest
 main-5_log,Send disciples to deal with the swordsman.
-main-5a_name,Challenge at the door.
+main-5a_name,Main Quest
 main-5a_log,"A mysterious swordsman challenges at the door, claiming to fight to the death with the strongest in the sect."
 main-5a_1_1,"I am not what I used to be, and I came to request!"
 main-5a_1_2,"You're persistent, it seems I have to beat you until you give up!"
@@ -594,7 +585,7 @@ main6-a_1_2,"This ring is spiritual and restrained, it nourishes the body and he
 main6-a_1_3,"Leave the rest to me, I need three months to repair!"
 main6-a_name,Main Quest
 main6-a_log,Wait for the second treasure to be repaired.
-main6-b_name,Repair the treasure
+main6-b_name,Main Quest
 main6-b_log,Send someone to find the Ghost Hand Divine Craftsman to repair the second treasure.
 main-7_1_1,"The second treasure has finally been successfully repaired, hahaha!"
 main-7_1_2,"There are three pieces left for the last one, bring them to me quickly!"
@@ -662,8 +653,8 @@ main-10_1_24,"The three treasures have been repaired, unnamed hero, I, Ghost Han
 main-10_1_25,I didn't expect that Master Ghost Hand and the unnamed hero had such a connection... it's really sad and sighing.
 main-10_1_26,I've always been puzzled... what does the unnamed hero mean by going through three lives?
 main-10_1_27,"Such incredible things, how can you understand, I'm afraid only in the hero's treasure trove can you know some fragments."
-main-10a_name,Unnamed Hero's Treasure Trove
-main-10a_log,"Your sect has gathered all the treasures, you can open the unnamed hero's treasure trove at any time to get the inheritance."
+main-10a_name,Main Quest
+main-10a_log,"You have collected all the treasures, you can open the treasure vault of the nameless hero at any time to obtain the inheritance."
 main-10a_1_1,This is the place where the unnamed hero hides his treasures.
 main-10a_1_2,"Strange, why is there nothing here...\nCould it be that the so-called inheritance of the unnamed hero is a shocking lie?"
 main-10a_1_3,Of course it's not a lie.
@@ -690,7 +681,7 @@ main-10a_1_23,"Now that there are successors in the martial world, I can safely 
 main-10a_1_24,"That is to have a hearty battle with {MyFaction}, who is at the peak of the martial world!"
 main-10a_1_25,"Come on, give it your all, as the best gift for my departure from this world!"
 main-10a_2_1,"That's more like it, seems like I underestimated you."
-main-10a_2_2,"You're worth me putting in more effort. Come on, the ultimate martial arts - Multi-round Clone Technique!"
+main-10a_2_2,"You are worthy for me to use more strength, come on, Martial Arts ultimate move - Multi-round Clone Technique!"
 main-10a_2_3,All martial arts in the world are within my palm!
 main-10a_2_4,Watch closely!
 main-10a_3_1,Is this all the strength you have... It seems I overestimated you.
@@ -710,16 +701,16 @@ main-10a_6_1,"The nameless hero disappears into the void\nLeaving only the stunn
 main-10b_1_1,"Upon learning that we have inherited the legacy of the nameless hero, the existing sects finally couldn't sit still."
 main-10b_1_2,They all mobilized their forces to attack our sect.
 main-10b_1_3,"These mediocre people, how would they know that the legacy of the nameless hero is not a martial arts manual, but a ""struggle and belief of a person alone in the martial world""."
-main-10b_1_4,"They will probably arrive in <color=#00FF00>three months</color>, it's better to prepare in advance."
+main-10b_1_4,"They will probably arrive in <color=#c44b0e>three months</color>, it's better to prepare in advance."
 main-10b_1_5,"Let them come, even the dim glow of rotten grass dares to compete with the bright moon."
 main-10c_1_1,"There are already sects attacking the entrance of the mountain, and a few more will arrive soon, we need to prepare our defenses quickly!"
 main-10c_1_2,"Stay calm, there's no need to panic!"
 main-10c_1_3,"Ever since we {MyFaction} decided to rebuild the order of the martial world and embarked on this irreversible path, we should have been prepared to face this day."
 main-10c_1_4,"Let's go, let's meet them!"
-main-10c_name,Sects siege
-main-10c_log,"Resolve the siege of other sects through ""events"" within 3 months."
-main-10d_name,Sects siege
-main-10d_log,"More and more sects are gathering outside the mountain entrance, please lead the disciples down the mountain to break them completely after all preparations are ready."
+main-10c_name,Main Quest
+main-10c_log,"Resolve the siege of other sects through ""events"" within 3 months.\n<color=#DC143C>Note: Failure to deal with it will result in game failure.</color>"
+main-10d_name,Main Quest
+main-10d_log,"More and more sects are gathering outside the Mountain Entrance, please go down the mountain and completely defeat them."
 main-10d_1_1,"The headmaster, they are coming up... Since we didn't take the initiative, we are now retreating step by step in a hurry..."
 main-10d_2_1,"You are late, I have been waiting for you at {MyFaction} for a long time."
 main-10d_2_2,"Although you sect masters each have your own opinions, you can actually gather together. This scene is really eye-opening."
@@ -780,7 +771,7 @@ fail-2_1_1,"Even if it's a thousand-year-old temple, with a profound sense of Ze
 fail-2_1_2,"Amitabha... I can't answer any of your questions, it must be due to my karma, I've tied myself up."
 fail-3_1_1,"Birds of a feather flock together, things of a kind come together,\nIn the past, it brought joy to all the poor,\nToday, it harbors filth and is turbid,\nYou've seen a lot of changes,\nBut none is as sigh-inducing as the recently surrendered {Nine Factions Sect}.\nThinking of this, you gently crush the golden plaque,\nWhat comes into view is the dumbfounded face of {Qin Huizhi}..."
 fail-3_1_2,"For a mountain to be nine ren high, it lacks one basket of earth...\nI didn't expect everything I've worked hard for to be shattered by you in an instant..."
-fail-4_1_1,"The wonderful sound of heaven is good, but it fades after {Lingering} for three days,\nThe {Melody House}, which stands alone and lives in peace, finally bows its noble head to you.\nEven the best {Spring White Snow}, if you step wrong, is no different from the common people,\nEven if there are a thousand kinds of charm, who can you tell..."
+fail-4_1_1,"The enchanting melody is wonderful, yet it fades after lingering for three days,\nThe Melody House, once standing aloof from the world, finally bows its noble head to you.\nEven the best Spring White Snow, if misstepped, is no different from the common folk,\nEven if there are a thousand kinds of amorous feelings, who can they be told to..."
 fail-4_1_2,"Among all the heroes in the world, I'm afraid no one can match you except that person.\nWell, well, we {Melody House} admit defeat..."
 fail-5_1_1,"Success and failure are both due to {Xiao He},\nThe growth of the Jiuli tribe is thanks to the ambition of the chief,\nThe downfall of the Jiuli tribe is also due to the arrogance of the chief.\nThe accumulation of countless ancestors, the hard work of countless {Clanman},\nJust because of provoking the wrong opponent,\nIn an instant,\nIt fell straight into the abyss..."
 fail-5_1_2,"This, this is impossible... The plans of several generations of our Jiuli tribe, are so vulnerable!"
@@ -788,7 +779,7 @@ fail-6_1_1,"The once brave Water Village that dominated the nine rivers,\nToday,
 fail-6_1_2,"Victors and losers, kill or flay, I {Ding Fengbo} will obey.\nI don't need anyone's sympathy... In that case, let me help you with what you're pursuing."
 fail-7_1_1,"Perhaps the {Medical expert}'s {Pharmacist} should not have been involved in the disputes of the martial arts world,\nOnce the bow is drawn, the arrow must be shot, and the pure heart is already dusty,\nShe says that a doctor can't heal himself, you say that the dead can't be resurrected,\nEven if the heart disease is difficult to cure,\nIt's best to bow down and submit,\nThat's their only antidote..."
 fail-7_1_2,"I always thought that the whole martial arts world was terminally ill, but it turned out to be us.\nForget the worries... I'm ashamed..."
-fail-8_1_1,"Looking at the {Old age} {Woman} kneeling in front of you,\nA strange sense of satisfaction wells up in your heart.\nThe once unparalleled in the southwest, unmatched in the martial arts world,\nEventually, it couldn't withstand the erosion of time and became a stepping stone for your sect.\nA legend of a generation,\nToday, it comes to an end..."
+fail-8_1_1,"Watching the old woman kneel before you,\nA sense of lamentable fate wells up in your heart.\nOnce unparalleled in the southwest, unmatched in martial arts,\nEventually succumbed to the ravages of time, becoming a stepping stone for your sect.\nA legend of a generation,\nToday, it comes to an end..."
 fail-8_1_2,"We have been defeated... We hope you will not kill us all, Beast Manor is willing to sincerely respect you."
 fail-9_1_1,"The world-renowned high and unique Qinggong,\nIn front of you, it's just child's play,\nThe righteous thief's oath of ""Thieves also have their own way"",\nIn your eyes, it's just self-deception.\nThe banner of ""The world is one"" was taken over by you,\nWithout hesitation,\nPlanted in the ruins of this Swallow Nest..."
 fail-9_1_2,"Thieves also have their own way, is it just us Swallow Nest deceiving ourselves..."
@@ -796,24 +787,24 @@ fail-10_1_1,"This place once judged the good and evil of the world,\nWhether it'
 fail-10_1_2,"Right and wrong, you and I have our own scales in our hearts, no need to argue anymore.\nI, Luo, now only hope that Crime Investigation Bureau... will not be wronged in defeat."
 fail-11_1_1,"Perhaps the name of Peak of Jianghu Escort Agency is not worthy of its name,\nBut it is also the hard work of generations of Elite Escort.\nThe dike of a thousand miles collapsed in a day,\nTiger Escort, who underestimated their own strength,\nRushed recklessly towards the overwhelming trend of the world.\nIn your eyes, this act of blocking a car with a mantis arm,\nThree parts pity, seven parts ridiculous..."
 fail-11_1_2,"The prestige of Tiger Escort, after all, fell into my Han Hongyu's hands..."
-fail-12_1_1,"The treasures of the world are as numerous as the sands of the Ganges,\nInteresting souls are one in a million,\nIn the Night Auction Market where nothing is a taboo,\nYou told Shen Wuqi the only and last taboo of Cicada,\nSubmit to you,\nOr,\nBe erased by you..."
+fail-12_1_1,"The treasures of the world are as numerous as the sands of the Ganges, \ninteresting souls are one in a million, \nin the Night Auction Market where nothing is taboo, \nyou tell Shen Wuqi the only and last taboo, \nto obey you, \nor, \nto be erased by you..."
 fail-12_1_2,"They say business is like a battlefield, I didn't expect that different professions are like different mountains... Tell me, how should I apologize?"
 fail-13_1_1,"Jian Chi's struggle is his unrelenting fighting spirit of feeding his body to the sword.\nThe failure of Sword Pavilion is the inevitable result of its isolation.\nIn order to witness the last sword secret, you deliberately saved your strength,\nGiving the possibility for the old man with flying hair and beard to swing the strongest sword in his life.\nThe sword rises, Ten Thousand Swords, all evils are easy to avoid,\nThe sword falls, the sky is blue, the underworld is exhausted,\nThis sword is already brilliant enough,\nUnfortunately, it met such a terrifying opponent like you,\nXuanyuan Divine Sword, thus bowed its head..."
-fail-13_1_2,"There are always people better than oneself... There are always higher skies... Today, I finally understand this truth, I hope it's not too late to regret."
+fail-13_1_2,"There are always people better than you... There are always higher skies...\nToday, I finally understand this truth, I hope it's not too late to regret."
 fail-14_1_1,"The land divides good and bad luck, the stars have good and evil,\nThe Tomb Raider Sect, which is good at dividing gold and determining caves, should observe the stars and examine the earth's veins,\nBut for some reason, it got involved in this martial arts dispute.\nMing Bufan prides himself on calculating the yin and yang situation of all things in the mountains and rivers,\nBut he can't see the ins and outs of your sect at all,\nWashing his hands in a golden basin and retiring with a talisman,\nIs already the best outcome he can get..."
 fail-14_1_2,"Since the destiny is on you, naturally you can't go against the heavens, alas, I still overestimated myself..."
-fail-15_1_1,"In the martial arts world, there are many heroes,\nIn the green forest, there are many people with character,\nUnfortunately, with only the full passion of Blue Wind Camp,\nHow can it resist your United we stand,\nA single blow ends it all, the hero is destined to be short-lived..."
+fail-15_1_1,"In the rivers and lakes, there are many heroes,\nIn the green forest, there are many people of character,\nUnfortunately, with only the passion of Blue Wind Camp,\nHow can it resist your United we stand,\nWith one stroke, the hero's breath is short..."
 fail-15_1_2,"Phew, I almost lost my life... I'm willing to admit defeat, willing to admit defeat!"
 fail-16_1_1,"The martial world is in chaos, with demons running amok,\nWith the same pursuit to end the chaos and restore order,\nYe Pengju, like you, has thrown himself into the fray, trying to turn the tide,\nThough fate plays tricks on people, and friends turn into foes,\nThe prestige of the Li Quan Spear still earns your praise,\nIt's easy to shake a mountain, but hard to shake the Ye Family Battalion..."
 fail-16_1_2,"Since you also harbor the intention to save the world and restore order, I, Ye, can rest assured and hand over the responsibility to you."
-fail-17_1_1,"As the leaders of the Cold Skin Gang surrender one by one,\nTheir glory gradually fades,\nWhether Huo Shilou is a villain or a hero,\nTo you, it no longer matters.\nThe Flame City of the Endless Life Force welcomes a new master,\nThe martial world, long ravaged by war, also welcomes a new chapter..."
+fail-17_1_1,"As the leaders of the Cold Skin Gang surrender one by one, \ntheir glory gradually fades, \nwhether Huo Shilou is a hero or a villain, \nto you, it's meaningless. \nThe Flame City of Endless Life Force welcomes its new master, \nthe troubled martial arts world also welcomes a new chapter..."
 fail-17_1_2,"It turns out that all of Huo's calculations can't compete with your unparalleled martial arts.\nAs long as you spare my brothers, I, Huo, swear never to be your enemy again!"
 fail-18_1_1,"The ambition to dominate the Western Regions, the dream to compete for the Central Plains,\nAre crushed by your hands into a pipe dream,\nThe strongest spirit in the Western Regions has become a fleeting cloud in your eyes,\nOn the peak where few people tread,\nThe sacred flame of the Endless Life Force,\nHas quietly extinguished at some unknown time..."
 fail-18_1_2,"After all these years, you are the only one who has pushed me to this point... Huo couldn't do it, King Chai couldn't do it, only you... only you!"
 GeneralQue-10_1_1,"Good news, the Mountain Bandits who often harass our sect have been found by us!"
 GeneralQue-10_1_2,"Finally caught these bastards, the end of the bandit menace is today."
 GeneralQue-10_name,Eliminate the Mountain Bandit Nest
-GeneralQue-10_log,"You send disciples to investigate in all directions, finally finding the nest of the Mountain Bandits who often harass you. For the stability of the sect, this battle is inevitable!"
+GeneralQue-10_log,You have sent Disciples to investigate and finally found the lair of the Mountain Bandits who often plunder you.
 GeneralQue-10_2_1,"Based on the intelligence, you come to a place with treacherous terrain and harsh conditions."
 GeneralQue-10_2_2,"It's true that bad people come from bad places, it seems that the Mountain Bandit nest is here."
 GeneralQue-10_2_3,"You villains harass our sect and harm the local people, today our sect will act for the heavens!"
@@ -823,61 +814,61 @@ GeneralQue-10_2_6,"You won't shed a tear until you see the coffin, take this!"
 GeneralQue-10_3_1,"These Mountain Bandits are too familiar with the terrain here, it's too hard to fight..."
 GeneralQue-10_3_2,"It's not a crime to avoid a fight, let's go back and regroup before seeking revenge!"
 GeneralQue-10_4_1,"Hero, spare... my... life..."
-GeneralQue-10_4_2,"Most of these Mountain Bandits are dead, I guess there won't be any bandit troubles for a while."
-GeneralQue-13_1_1,
-GeneralQue-13_1_2,
-GeneralQue-13_1_3,
-GeneralQue-13_1_4,
-GeneralQue-13_2_1,
-GeneralQue-13_2_2,
-GeneralQue-13_name,
-GeneralQue-13_log,
-GeneralQue-13_3_1,
-GeneralQue-13_3_2,
-GeneralQue-13_3_3,
-GeneralQue-13_3_4,
-GeneralQue-13_3_5,
-GeneralQue-13_3_6,
-GeneralQue-13_3_7,
-GeneralQue-13_3_8,
-GeneralQue-13_3_9,
-GeneralQue-13_3_10,
-GeneralQue-13_3_11,
-GeneralQue-13_3_12,
-GeneralQue-13_3_13,
-GeneralQue-13_3_14,
-GeneralQue-13_3_15,
-GeneralQue-13_3_16,
-GeneralQue-13_3_17,
-GeneralQue-13_3_18,
-GeneralQue-13_3_19,
-GeneralQue-13_3_20,
-GeneralQue-13_4_1,
-GeneralQue-13_4_2,
-GeneralQue-13_4_3,
-GeneralQue-13_4_4,
-GeneralQue-13_4_5,
-GeneralQue-13_4_6,
-GeneralQue-13_op_1,
-GeneralQue-13_op_2,
-GeneralQue-13_op_3,
-GeneralQue-13_op_4,
-GeneralQue-13_op_5,
-GeneralQue-13_5_1,
-GeneralQue-13_5_2,
-GeneralQue-13_5_3,
-GeneralQue-13_5_4,
-GeneralQue-13_5_5,
-GeneralQue-13_6_1,
-GeneralQue-13_6_2,
-GeneralQue-13_7_1,
-GeneralQue-13_7_2,
-GeneralQue-13_8_1,
-GeneralQue-13_8_2,
-GeneralQue-13_9_1,
-GeneralQue-13_9_2,
-GeneralQue-13_9_3,
-GeneralQue-13_9_4,
+GeneralQue-10_4_2,"These Mountain Bandits have been mostly wiped out, it's unlikely they'll be a threat again anytime soon."
+GeneralQue-13_1_1,"It's already December... After a year of hard work and overcoming obstacles, I wonder if we can achieve the ideal results next year."
+GeneralQue-13_1_2,"Forget it, don't think too much, do your best and leave the rest to fate."
+GeneralQue-13_1_3,"Master, an Old Man with an immortal demeanor is standing outside the sect, claiming to be the master of Linlang Temple, and wants to have a chat with us."
+GeneralQue-13_1_4,Fu Yaozi? Why did this elusive senior suddenly visit our sect? Let's go see him quickly.
+GeneralQue-13_2_1,"It's December again, I wonder if Senior Fu Yaozi will come as promised."
+GeneralQue-13_2_2,"Master, Senior Fu Yaozi has arrived, please go to the reception room to meet him."
+GeneralQue-13_name,Master of Linlang
+GeneralQue-13_log,"Fu Yaozi, the master of Linlang Temple, who has been indifferent to worldly affairs for many years, suddenly visited at the end of the year."
+GeneralQue-13_3_1,You walk into the reception room of the sect and are surprised to find an Old Man curiously looking at you.
+GeneralQue-13_3_2,"Although the Old Man has white hair and a youthful face, with an immortal aura, there is a proud look in his eyes."
+GeneralQue-13_3_3,Greetings to Senior Fu Yaozi!
+GeneralQue-13_3_4,"Oh? You actually know my name, you are quite knowledgeable."
+GeneralQue-13_3_5,"Although the senior lives in Linlang Temple, he pays attention to the affairs of the martial arts world. Such a martial arts legend is naturally passed down by us, but there is one thing that is not clear..."
+GeneralQue-13_3_6,"Are you referring to the recent turmoil in the martial arts world, where various sects are killing each other, and I, as an elder, remain indifferent?"
+GeneralQue-13_3_7,"Exactly... Given your temperament, I believe you wouldn't ignore such a situation. There must be a profound reason behind it."
+GeneralQue-13_3_8,"You're right. If it were just ordinary chaos in the martial arts world, and the order was disrupted, I would definitely intervene. But the current martial arts world has reached a critical point where it must be broken to be established."
+GeneralQue-13_3_9,"I didn't expect that you and I share the same thoughts! Unfortunately, I'm afraid that only you and I agree on this point in the world today..."
+GeneralQue-13_3_10,"No, besides you and me, there is another person. My thoughts also come from him."
+GeneralQue-13_3_11,Who is this person who can influence the independent Fu Yaozi...
+GeneralQue-13_3_12,You will know about him later.
+GeneralQue-13_3_13,Why did Elder Fu Yaozi come this time?
+GeneralQue-13_3_14,"I came this time because your {MyFaction} has defended justice in the past year, fought to stop killing for the order of the martial arts world, which makes me very gratified."
+GeneralQue-13_3_15,I can provide some healthy help to your sect for better development in the coming year.
+GeneralQue-13_3_16,"I can provide three types of help: peaceful living, disease relief, and United we stand. But let me make it clear that for every favor you ask of me, you must exchange resources of equal value."
+GeneralQue-13_3_17,"The world is in chaos now, disasters are frequent, and many refugees urgently need various resources to survive. How about this deal?"
+GeneralQue-13_3_18,"Elder, we will certainly help with this good deed."
+GeneralQue-13_3_19,"Good! As expected of the sect that I value most, tell me, what help do you need?"
+GeneralQue-13_3_20,What help do I need...
+GeneralQue-13_4_1,You walk into the reception hall of the sect and find Fu Yaozi smiling at you.
+GeneralQue-13_4_2,"Long time no see, Elder Fu Yaozi!"
+GeneralQue-13_4_3,You have not disappointed me this year.
+GeneralQue-13_4_4,I can provide some healthy help to your sect for better development in the coming year.
+GeneralQue-13_4_5,"I can provide three types of help: peaceful living, disease relief, and United we stand. But let me make it clear that for every favor you ask of me, you must exchange resources of equal value."
+GeneralQue-13_4_6,What help do I need...
+GeneralQue-13_op_1,"Elder, what are the specific effects of these aids?"
+GeneralQue-13_op_2,"Live and work in peace and contentment (1000 Wood, 1000 Food)"
+GeneralQue-13_op_3,"Eliminate diseases and fatigue (1000 Minerals, 1000 Herbs)"
+GeneralQue-13_op_4,United we stand (2000 Coins)
+GeneralQue-13_op_5,"Thank you for your kindness, no other help is needed."
+GeneralQue-13_5_1,"Elder, what are the specific effects of these aids?"
+GeneralQue-13_5_2,"If you choose Peaceful Living, I will help mediate conflicts and improve the stability within your sect's territory."
+GeneralQue-13_5_3,"If you choose Disease Relief, I will help heal your disciples and recover their HP and MP."
+GeneralQue-13_5_4,"If you choose United We Stand, I will give a token of recognition from Linlang Temple to boost the mood of your disciples."
+GeneralQue-13_5_5,"So, have you made up your mind?"
+GeneralQue-13_6_1,I choose Peaceful Living!
+GeneralQue-13_6_2,"Since ancient times, those who win the hearts of the people win the world. It seems that you understand the importance of public sentiment very well."
+GeneralQue-13_7_1,I choose Disease Relief!
+GeneralQue-13_7_2,Those who love others are always loved. It seems that you must be very popular among your disciples.
+GeneralQue-13_8_1,I choose United We Stand!
+GeneralQue-13_8_2,"Where the heart is, there is no obstacle. If your sect is united, great things can be achieved."
+GeneralQue-13_9_1,"Thank you for your kindness, we don't need any other help."
+GeneralQue-13_9_2,"Then I will run away first. I will visit again at this time next year,"
+GeneralQue-13_9_3,"Although it is always extremely difficult to turn the tide, I still hope that your sect will not disappoint me by then."
+GeneralQue-13_9_4,Our sect will do its best!
 part-1-0-1,Why are there so many people gathered outside today?
 part-1-0-2,"Master, there is a white-haired man in a wheelchair playing chess with multiple people at the same time. It's quite rare, so it attracted a lot of onlookers."
 part-1-0-3,"Oh? Such a strange thing, tell me more about it."
@@ -893,10 +884,10 @@ part-1-1-2,"He sits here, playing chess with many players across the space. When
 part-1-1-3,"In this short time, he has already defeated seven people, and only three people haven't lost yet!"
 part-1-1-4,"I can't even remember one game of chess, let alone ten games that are constantly changing. It's really terrifying..."
 part-1-1-5,"Taking advantage of the crowd avoiding the running errand boy, you squeeze into the front row of the crowd."
-part-1-1-6,"(Closing his eyes in deep thought, his brows furrowed, it's clear that he has entered a state of utmost effort.)"
+part-1-1-6,"Close your eyes and think deeply, frowning, obviously in a state of trying your best."
 part-1-1-7,"Chen family's move, Eight Directions Nine Provinces!"
 part-1-1-8,"Eight Directions Nine Provinces, Eight Directions Nine Provinces... No, no!"
-part-1-1-9,"(The calculation that consumes his vitality is disrupted, he coughs up a mouthful of fresh blood due to the sudden attack of his vitality.)"
+part-1-1-9,"The calculation of consuming vitality is disrupted, this person is suffering from a heart attack, and suddenly coughs up a mouthful of fresh blood."
 part-1-1-10,You're not the messenger from the Chen family... You deliberately gave the wrong message to distract me!
 part-1-1-11,"Hahaha, I have finally avenged the grudge of the Qiantang bet!"
 part-1_option1,Punish those who break the rules
@@ -923,8 +914,6 @@ part-1-6-4,"Don't think too much, we're not going to play chess with you!"
 part-1-6-5,What do you mean?
 part-1-6-6,"I came here to join the Confucius Temple, but I couldn't resist the urge to play chess when I saw someone playing..."
 part-1-6-7,"What, don't you have any positions left?"
-part-1-6-8,"For someone like you, of course, there is."
-part-1-6-9,"{MyFaction} temple is small, I'm afraid it might hinder your future."
 part-1-7-1,Then let's go quickly.
 part-1-7-2,"After saying this, Can Qi closed his eyes and couldn't say a word, as if the previous ""battle"" had consumed too much of his vitality."
 part-1-8-1,"Forget it, forget it, at least I had a good game of chess."
@@ -975,7 +964,7 @@ part-2-3-14,Mr. Hua Chi is a great talent. His joining my {MyFaction} is truly a
 part-2-3-15,"Excellent! Thank you, Sect Leader!"
 part-2-4-1,"Let's do this, we won't pursue your inappropriate behavior for now. But how can a maiden who hasn't left her family allow a stranger man to keep looking at her?"
 part-2-4-2,"I'll help you ask clearly. If the lady clearly doesn't want to, don't pester her!"
-part-2-4-3,"If the maiden clearly does not want to, don't bother her anymore!"
+part-2-4-3,"If the lady clearly does not wish to, you should not pester her any longer!"
 part-2-4-4,"Miss, let me ask you, since Hua Chi is so filial, are you willing to help him finish the painting?"
 part-2-4-5,No way! This guy is too weird!
 part-2-4-6,"Miss, this..."
@@ -1035,7 +1024,7 @@ part-3-4-4,"Ah, what are you guys doing here, do you want to drink with me?"
 part-3-4-5,"When you ran away, you were in a hurry and left a lot of things behind. We will return them to their rightful owner."
 part-3-4-6,"You people from {MyFaction} have a lot of rules, but you are all people of principle."
 part-3-4-7,"Wait, what you gave... why are there other things mixed in?"
-part-3-4-8,"Oh! This is the content of the calligraphy of our academy's Dojokeeper, passed down for the disciples to learn. Please return it to us."
+part-3-4-8,"Oh! This is the calligraphy that our leader has copied from treasured books for our disciples to learn from, please return it to us."
 part-3-4-9,"Wait, this is... Ode to the Red Cliff! Do you have Ode to the Red Cliff in your library?"
 part-3-4-10,Of course we do.
 part-3-4-11,"So it's here, so it's here! I, Shu Kuang, wish to join your sect! I only hope that you will allow me to comprehend the true traces of the Calligraphy treasured by the sect!"
@@ -1047,7 +1036,7 @@ part-3-6-2,"I didn't have the manpower to look into this, but I guess it's fine,
 part-4-0-1,"Master, we have received reports from our jurisdiction that a white-haired woman and a strange piano sound were witnessed in the middle of the night, causing panic."
 part-4-0-2,"Children do not speak of strange powers, this must be someone pretending to be a ghost, we need to send disciples to investigate!"
 part-4_name,Midnight piano sound.
-part-4_overview,"Someone witnessed a white-haired woman and a strange piano sound in the middle of the night, causing panic, we need to send disciples to investigate this matter!"
+part-4_overview,"Someone witnessed a white-haired woman and eerie music in the middle of the night, causing widespread fear."
 part-4-1-1,The news says that the midnight piano sound is here...
 part-4-1-2,"Just ran into the Night Watchman, it should be about this time..."
 part-4-1-3,"At this moment, a piano sound is heard from a house."
@@ -1071,7 +1060,7 @@ part-4-3-1,Go and ask the sect doctor to save her quickly!
 part-4-3-2,"Half a moment later, the sect doctor arrived, he sat down and diagnosed..."
 part-4-3-3,"She has chronic Internal Injury, affecting her five internal organs and six hollow organs. She needs long-term conditioning with Herb..."
 part-4-3-4,Can she be cured?
-part-4-3-5,"It's impossible to cure completely, other methods are needed. Moreover, she can't fight with others in anger in the future, otherwise the old injury will recur."
+part-4-3-5,"A complete cure is not possible, other methods are needed. Moreover, she cannot engage in combat when she is angry in the future, otherwise her old injuries will recur."
 part-4-3-6,"I wonder if this white-haired girl is willing to join our sect, practice self-cultivation and health-preserving methods, and treat her illness?"
 part-4-3-7,"She reluctantly nodded, pointed at herself, and wrote the two characters ""Ya Qin"" in the air."
 part-4-3-8,"So your name is Ya Qin, isn't it? Can you stand up and walk by yourself now?"
@@ -1084,11 +1073,11 @@ part-4-4-5,"It's impossible to cure completely, other methods are needed. Moreov
 part-4-4-6,"And it requires Herb for a long time to condition, I will prepare these for you tomorrow, but the price is not cheap..."
 part-4-4-7,These expenses will naturally be borne by our sect.
 part-4-4-8,"Miss, do you have a quiet place to recuperate?"
-part-4-4-9,She pointed at you
+part-4-4-9,Pointed at you.
 part-4-4-10,"Do you mean, go to {MyFaction}?"
 part-4-4-11,She nodded
 part-4-4-12,"Just now I fought with this woman, her Musical skill is extraordinary, if she practices our self-cultivation and nourishing nature, it would be a strong force."
-part-4-4-13,"We {MyFaction} do have a good place for the girl to recuperate. If the girl is willing to go, our library is willing to welcome her."
+part-4-4-13,"We, {0}, indeed have a good place for the lady to recuperate. If the lady is willing to come, our sect is willing to welcome her."
 part-4-4-14,"She reluctantly nodded, pointed at herself, and wrote the two characters ""Ya Qin"" in the air."
 part-4-4-15,"So your name is Ya Qin, isn't it? Can you stand up and walk by yourself now?"
 part-4-4-16,She picked up the zither and silently followed you.
@@ -1106,7 +1095,7 @@ part-5-0-2,What happened to him?
 part-5-0-3,"He is now sleeping on a stone at the foot of the mountain, and no matter how much we call him, he won't wake up."
 part-5-0-4,This La Tazhang... I'll send someone to invite him.
 part-5_name,Adventurous Drunkard,ขี้เมาชอบผจญภัย
-part-5_overview1,"La Tazhang, who has been out for several months, has returned, but he is wandering outside the city and not going up the mountain, perhaps someone needs to be sent down the mountain to find him."
+part-5_overview1,"La Tazhang, who has been out for several months, has returned, but he has been wandering outside the city and not going up the mountain."
 part-5-1-1,"Finally found you, come up the mountain with me quickly!"
 part-5-1-2,"I'm not drunk, brother, let's drink more, drink more!"
 part-5-1-3,"He's dead drunk, why don't we carry him back?"
@@ -1127,7 +1116,7 @@ part-5-6-2,"I actually forgot about him... Well, let him be."
 part-6-0-1,"Master, the Luotian Grand Ceremony will be held soon to pray for the people. The master can send someone to patrol the preparation site."
 part-6-0-2,"The Luotian Grand Ceremony is not a trivial matter, it needs to be taken seriously."
 part-6_name,Luotian Grand Ceremony
-part-6_overview,{MyFaction} is holding a Luotian Dajiao recently to pray for the people. The sect leader can send people to patrol the event site.
+part-6_overview,"A grand ceremony will be held in the near future to pray for the people, the head can send someone to inspect."
 part-6-1-1,"There are 1200 places for the Dajiao, and various Appliance ritual vessels. All of these must be counted clearly!"
 part-6-1-2,We are checking for the second time.
 part-6-1-3,"No, no, the ceremonial positions here are wrong, and the order of the rituals is also wrong."
@@ -1151,7 +1140,7 @@ part-6-2-2,I just walked around and found that some items for the Luotian Grand 
 part-6-2-3,"Sure, since it's for the Luotian Grand Ceremony, the expenses for you to go down the mountain to handle affairs will be covered by our sect."
 part-6-2-4,That's the best.
 part-6-2-5,"Under the meticulous preparation and supervision of Chang Chunzi, the Luotian Grand Ceremony was very successful without any mistakes."
-part-6-2-6,"After the Luo Tian Grand Ceremony, you sent an invitation to join the sect to Chang Chunzi, who gladly accepted."
+part-6-2-6,"After the Luotian Grand Ceremony, you sent an invite to Chang Chunzi to join the sect, and Chang Chunzi gladly agreed."
 part-6-3-1,"Thank you, friend. I will find a place to watch the ceremony, no need to worry."
 part-6-3-2,"The Luo Tian Grand Ceremony was held as scheduled, but there were many mishaps during the process."
 part-6-4-1,"Master, the Luo Tian Grand Ceremony has been held, but there were many mishaps."
@@ -1159,10 +1148,10 @@ part-6-4-2,"I neglected this matter, but I guess it's not a big problem."
 part-7-0-1,There is a village under your jurisdiction that has been hit by a plague. The situation is serious. Please send someone to quell the plague as soon as possible.
 part-7-0-2,This is no small matter... I will arrange for someone to handle it.
 part-7_name,Plague Disaster
-part-7_overview,A village has been hit by a plague. The situation is serious. Someone from {MyFaction} should be sent to quell the plague as soon as possible.
+part-7_overview,"A plague has broken out in a village, please send someone to calm it down as soon as possible."
 part-7-1-1,"You arrived at the place where the plague is rampant. The villagers are sick and bedridden, and the village is desolate."
-part-7-1-2,"Young man, I heard that the plague here makes people too weak to get out of bed, why are there still people going out?"
-part-7-1-3,"Master, we have a ""living immortal"" with Healing Hands here. He started researching the plague as soon as he arrived and has already saved many people."
+part-7-1-2,"I heard that the plague here makes people too weak to get out of bed, why are there still people going out?"
+part-7-1-3,"You don't know, we have a ""living god"" with healing hands here. He started researching the plague as soon as he arrived and has already saved many people."
 part-7-1-4,"There's a ""living immortal""? Take us to see him. I am a disciple of {MyFaction}, maybe I can help."
 part-7-1-5,"Look, the house in front is... Ah? Why is it all fenced up?"
 part-7-1-6,"Chen Niwan, don't slander me!"
@@ -1174,7 +1163,7 @@ part-7-1-11,"{MyFaction}? Perfect timing. I am Cui Xu Zi, a doctor who travels a
 part-7-1-12,"I heard about the plague here and rushed over day and night, only to unexpectedly find that this villain poisoned the water source, poisoning the whole village!"
 part-7-1-13,"This person only appeared after the plague caused panic among the villagers, pretending to be a doctor and taking advantage of the villagers' remaining money and food. His intentions are evil and he deserves to be punished!"
 part-7-1-14,"You're slandering me, what evidence do you have?"
-part-7-1-15,"Let a disciple of {MyFaction} come with me to the water source as a witness. If you are confident that you didn't do it, you can come along!"
+part-7-1-15,"Let the disciples of {2} go with me to the water source to witness. If you are confident that you didn't do it, you can follow along!"
 part-7-1-16,"What a joke, I... I'm not afraid, let's go!"
 part-7-1-17,"Just a few steps after Niwan Spiritual master and you, this ""living immortal"" actually launched a sneak attack!"
 part-7-1-18,"Hmph, if I hadn't been prepared, I might have fallen for it!"
@@ -1190,7 +1179,7 @@ part-7-2-7,"The Mud Pill Spiritual Master's medical skills are superb. After wor
 part-7-2-8,"Mud Pill Spiritual Master, I have a request."
 part-7-2-9,"You want me to join your sect, don't you?"
 part-7-2-10,{MyFaction} is willing to work for the sick and poor without asking for anything in return. Punishing the evil and giving the people a peaceful life is what we should do.
-part-7-2-11,"Besides, your sect has many pill recipes archived. Joining your sect is also my wish."
+part-7-2-11,"Moreover, your sect has many pill recipes archived, joining your sect is also my wish."
 part-7-3-1,"Hmph, a bunch of ignorant youngsters, daring to ruin my good deeds!"
 part-7-3-2,"Although he was defeated by this ""living immortal"", his true face was exposed and he could no longer deceive others. He had to use his lightness skills to take the money and run away from the village."
 part-7-3-3,"After the Mud Pill Spiritual Master healed your injuries, he threw himself into the busy work of treating the sick and saving people in the village."
@@ -1332,17 +1321,17 @@ part-10-1-5,"It's not that wandering Monk from {MyFaction}, is it?"
 part-10-1-6,"Do you know what your master's Dharma name is, is he a Monk from my {MyFaction}?"
 part-10-1-7,My master's Dharma name... I forgot.
 part-10-1-8,Is that so? Where did your master go?
-part-10-1-9,"My master was seriously injured after wiping out a nest of Mountain Bandits, he got up to save the villagers as soon as his injury healed, but he died later."
-part-10-1-10,"My master said that my mind is not very bright, and I will definitely forget the sect's words in the future, so he told me to challenge any sect I see, as long as the martial arts are the same, it should be the same sect."
+part-10-1-9,"My master went into the bandit's den alone to eliminate the bandits, but because of his compassion, he let go of the bandit leader's young son and was killed by a sneak attack."
+part-10-1-10,"My master said that I am not very smart and will definitely forget the name of the sect in the future. He told me to challenge any sect I see. As long as their martial arts are the same, it should be our sect."
 part-10-1-11,It seems that the master knows his disciple better.
-part-10-1-12,Then let's have a match!
+part-10-1-12,Then I will compete with you!
 part-10-2-1,"This move, Arhat Fist, and this Bodhi Palm... Master, I've arrived..."
 part-10-2-2,"I want to go into the temple to have a look, my master has mentioned a lot of things about {MyFaction}, the plum blossom piles in the Pond, the stone stele, the Forest Tower, the big bell, and the Monk's Living Quarter where my master used to live!"
-part-10-2-3,"Don't worry, let's go to the Hall of Great Strength first, check your master's name, this compassionate master's name cannot be forgotten."
+part-10-2-3,"Don't rush, let's go to the Hall of Great Strength first, check your master's name, this compassionate master's name should not be forgotten."
 part-10-2-4,"Then introduce you to everyone, and then announce your return to {MyFaction}. How about that?"
 part-10-2-5,Very good! Very good! Let's go in quickly!
-part-10-3-1,"Master, the Monk who challenged us outside the gate has run away, he said he would come back if he couldn't find it."
-part-10-3-2,I hope this will help to dissipate his anger.
+part-10-3-1,"Leader, the monk who challenged us outside the gate has run away, saying he will come back another day."
+part-10-3-2,"His hostility is too deep, I hope he can master the way of calmness."
 part-11-0-1,"Master! The guest monk reported that a Monk with wounds all over his body fell outside the gate, it's best to go and see what happened."
 part-11-0-2,"This is serious, I will send someone to check it out."
 part-11_name,Blood Hand Yan Luo
@@ -1355,7 +1344,7 @@ part-11-1-5,"Don't talk first, otherwise it would be bad if you lose your breath
 part-11-1-6,No... there... someone is trying to kill me... be careful...
 part-11-1-7,What?,อะไร?
 part-11-1-8,It seems to be here!
-part-11-1-9,"How come one bald donkey is not enough, there are three more bald donkeys?"
+part-11-1-9,Why are there three more onlookers? Get rid of them all for me!
 part-11-1-10,Evil doer! My Buddha will not let you do as you please!
 part-11-2-1,"Damn it, let's retreat!"
 part-11-2-2,"The masked men disappeared quickly, as if everything just now was an illusion."
@@ -1430,15 +1419,15 @@ part-12-5-8,Such astonishing strength!
 part-12-5-9,I'm finally free! Hahahaha!
 part-12-5-10,"Let's go, take me back to {MyFaction}, let me see what the sect looks like now!"
 part-12-5-11,"Yes, sir!"
-part-12-6-1,
-part-13-0-1,"Master, according to the report, some disciples heard two people singing opera in the middle of the night, it may be dangerous, it is recommended to send people to thoroughly investigate this matter."
+part-12-6-1,"Damn, I was delayed by other things... I missed the good opportunity to invite my mentor, I can only wait for the next opportunity!"
+part-13-0-1,"Reporting to the leader, a disciple heard two people singing opera in the middle of the night. The singing was sad and piercing, suggesting that someone should be sent to investigate this matter."
 part-13-0-2,What a nuisance! I'll send someone to check it out.
 part-13_name,Farewell My Concubine
-part-13_overview,"According to the report, a disciple heard two people singing opera in the middle of the night, which may be dangerous. It is suggested to send someone to investigate this matter."
-part-13-1-1,"According to the report, it should be here."
+part-13_overview,"A disciple heard two people singing opera in the middle of the night, fearing something strange, it is recommended to send someone to investigate."
+part-13-1-1,"According to the location in the intelligence, it should be here."
 part-13-1-2,"So sleepy, why would anyone sing opera in the middle of the night, and there are two of them, they must be up to no good."
-part-13-1-3,"The moonlight is good~, but the sounds of sorrow are everywhere, it's heartbreaking~"
-part-13-1-4,"Because the rescue did not arrive~, everyone has the heart to disperse~. Oh, my king, I'm afraid the situation is dire~"
+part-13-1-3,"The moonlight is good~ but all around are sounds of sorrow, it's heartbreaking~"
+part-13-1-4,"Because the reinforcements did not arrive~, everyone has the intention to disperse~ Ah, my king, I fear the situation is dire~"
 part-13-1-5,Over there!
 part-13-1-6,"I see her! This person is dressed in opera costume, dancing with water sleeves, it must be Yu Ji."
 part-13-1-7,"Where is the Overlord, the Overlord? Why is there only Yu Ji?"
@@ -1453,7 +1442,7 @@ part-13-1-15,"Yu Ji's water sleeves, the Overlord's face... It turns out that it
 part-13-1-16,What a madman!
 part-13-1-17,"You three, are you trying to take my head?"
 part-13-1-18,"You can have my head, but you have to take it yourself."
-part-13-1-19,"(Mumbling incomprehensible lyrics, he charges at you!)"
+part-13-1-19,"Muttering incomprehensible lyrics, they rushed at you!"
 part-13-2-1,"Although this person is crazy, he has profound internal strength and may be useful for {MyFaction}."
 part-13-2-2,"This is heaven's will to destroy me, not the fault of war!"
 part-13-2-3,Why are you still performing... Are you going to commit suicide again?
@@ -1462,26 +1451,26 @@ part-13_option1,Stop him from committing suicide.
 part-13_option2,He must still be performing
 part-13-3-1,"Although this person is crazy, his profound internal strength can be used for our sect."
 part-13-3-2,"Twenty-eight riders lost two, this is heaven's will to destroy me, not the fault of war!"
-part-13-3-3,"You've won, why are you still performing... Are you going to commit suicide again?"
+part-13-3-3,"You've won, why are you still performing... You want to commit suicide again, don't you."
 part-13-3-4,"No, he's really going to commit suicide!"
 part-13-4-1,One of you knocked the sword out of Feng Xizi's hand.
-part-13-4-2,"I, the Overlord of Western Chu~, will never be humiliated by the enemy!"
+part-13-4-2,"I, the Hegemon-King of Western Chu~ will never be humiliated by the enemy!"
 part-13-4-3,"My lord, it's not time for us to stop fighting yet!"
 part-13-4-4,What do you mean by this?
 part-13-4-5,"Not far away, there are still many Chu soldiers secretly stationed, and the Han soldiers have not yet discovered."
 part-13-4-6,"Wait for the king to return and gather the troops, then defeat the Han soldiers!"
 part-13-4-7,There are still soldiers I don't know about? Good! Let me regroup and then fight with the Han king!
-part-13-5-1,"With a pull of Feng Xizi's hand, his body fell like wheat, and blood gushed out from his throat."
+part-13-5-1,"Feng Xizi pulled his hand, and his body fell like a cut wheat, blood gushing from his throat."
 part-13-5-2,Did he... really commit suicide?
-part-13-5-3,"Madman, madman!"
-part-13-5-4,Bad luck! Let's go!
+part-13-5-3,He actually took this play seriously!
+part-13-5-4,It's really bad luck to run into this kind of thing at night! Let's go!
 part-13-5-5,"After you dealt with Feng Xizi, there were no more incidents of singing operas in the middle of the night."
 part-13-6-1,"Master, the sound of opera has disappeared recently."
 part-13-6-2,It's best for such people to disappear on their own.
 part-14-0-1,"Master, recently a Taoist priest has been swindling outside, many disciples have been deceived, and they have come to complain and hope that someone can be sent to deal with it."
 part-14-0-2,"All kinds of low-class people have come here... Well, I will send someone to deal with it."
 part-14_name,Impersonation
-part-14_overview,"A Taoist priest is swindling outside, many disciples have been deceived, we should crack down on such fraud as soon as possible!"
+part-14_overview,"There's a Taoist priest outside swindling people, we should crack down on this kind of fraud as soon as possible!"
 part-14-1-1,"According to the information, this impersonating Taoist priest will be scamming nearby today, let me see where..."
 part-14-1-2,"Oh, sir, your forehead is dark today."
 part-14-1-3,You can see that my forehead is dark?
@@ -1529,7 +1518,7 @@ part-14-8-2,"He ran away after getting enough, huh? I guess he'll come back."
 part-15-0-1,"Master, recently there is a rumor in the city that a beautiful woman with excellent musical skills has appeared. Her music can be heard for miles. Can we recruit her into our sect?"
 part-15-0-2,"Oh? There is such a beauty? As long as she is willing, she can join my sect."
 part-15_name,Overwhelming beauty
-part-15_overview,A beautiful woman with excellent musical skills has appeared in the city. Her music can be heard for miles. Please send disciples to recruit her into the sect.
+part-15_overview,"A woman of overwhelming beauty has appeared in the city, her music skills are quite good, she can be recruited into the sect."
 part-15-1-1,"Beautiful lady, beautiful lady, you accepted the red silk I sent you last night, why didn't you join me for a drink?"
 part-15-1-2,"Thank you for your love for my music, but I only play music and don't drink with others."
 part-15-1-3,"No problem, you can learn to drink slowly. Trust me, you'll love the taste of alcohol."
@@ -1540,15 +1529,15 @@ part-15-1-7,"Miss... if you don't want to be bothered by these men, just stand b
 part-15-1-8,Thank you both!
 part-15-1-9,"Damn it, how dare you interfere with my business! Boys, get them!"
 part-15-2-1,Ah! My ear!
-part-15-2-2,"Listen up, you stinky men! Our sect is not to be trifled with!"
+part-15-2-2,"You listen to me, the people of our sect are not to be trifled with!"
 part-15-2-3,My ear! It hurts so much!
 part-15-2-4,"Your ears won't be hearing anything for a while - Miss Qincheng, are you alright?"
 part-15-2-5,"Thank you both, I'm fine. I heard you mention earlier, are you from {MyFaction}?"
-part-15-2-6,"We are indeed from {MyFaction}, specifically here to recruit you."
-part-15-2-7,"Great, I set out today to find the seniors of {MyFaction}, I just didn't expect to encounter such people on the way."
-part-15-2-8,"Well then, why don't you come back with us? With your performance just now, you might be the best of your class."
-part-15-2-9,"Alright, I will follow your lead."
-part-15-3-1,"These women are really ruthless, my ears are still buzzing."
+part-15-2-6,"Indeed, we came specifically to recruit you."
+part-15-2-7,"Great, I went out today to find the seniors of {MyFaction}, but I didn't expect to encounter this scum on the road."
+part-15-2-8,"How about going back with us? With your performance just now, you might be the top of your class."
+part-15-2-9,"Well then, I'll respectfully comply."
+part-15-3-1,"You hit too hard, my ears are still buzzing, but it's a pity, Miss Qincheng is mine haha!"
 part-15-3-2,"I heard a commotion from afar, what's going on here?"
 part-15-3-3,"Sir, this man and his gang are harassing me!"
 part-15-3-4,What! It's... I will not forgive those who dare to harass Miss Qincheng!
@@ -1556,19 +1545,19 @@ part-15-3-5,"Miss Qincheng, don't worry, I will severely punish these scoundrels
 part-15-3-6,"Thank you very much, sir."
 part-15-3-7,"The Bailiff, with his fervent enthusiasm, took away the rich young master and his followers."
 part-15-3-8,Miss Qincheng seems to have a high reputation here.
-part-15-3-9,"It's all thanks to the audience's love. Compared to {MyFaction}'s music, Qincheng's music is just like a candle in the wind."
-part-15-3-10,"I set out today to find the seniors of {MyFaction}, I just didn't expect to encounter such people on the way."
-part-15-3-11,"Well then, why don't you come back with us? With your performance just now, you might be the best of your class."
+part-15-3-9,"It's all thanks to the audience's love. Compared to {MyFaction}'s musical, Qincheng's music is just a candlelight."
+part-15-3-10,"I went out today to find the seniors of {MyFaction}, but I didn't expect to encounter such scum on the road."
+part-15-3-11,"How about going back with us? With your performance just now, you might be the top of your class."
 part-15-3-12,"Ah, so you are from {MyFaction}?"
-part-15-3-13,"Alright, I will follow your lead."
+part-15-3-13,"Well then, I'll respectfully comply."
 part-15-4-1,"Master, the woman who is the talk of the town has disappeared."
 part-15-4-2,I was too busy and neglected... it seems it's not meant to be.
 part-16-0-1,"I heard a terrible flute sound today, did some mediocrity sneak into our sect?"
 part-16-0-2,"Master, the flute sound came from outside the sect."
 part-16-0-3,It seems they want to recommend themselves in this way... send someone to check their qualifications.
 part-16_name,Flute sound outside the door
-part-16_overview,"A terrible flute sound appeared outside the sect, it might be a mediocrity trying to recommend themselves, arrange someone to check it out."
-part-16-1-1,"According to the maid on duty at the door, the terrible flute sound came from nearby."
+part-16_overview,"There is a harsh sound outside the sect, I wonder if there is a mediocrity recommending himself."
+part-16-1-1,The one who can play the flute so badly must be a talent...
 part-16-1-2,A discordant flute sound came from not far away.
 part-16-1-3,"Ha, I finally found you."
 part-16-1-4,"Hi there, senior."
@@ -1583,7 +1572,7 @@ part-16-1-11,"My father is sleeping over there, he has been lazy and not getting
 part-16-1-12,"That Dilapidated Temple? That's too far, how did you get here all by yourself?"
 part-16-1-13,"My father told me to walk here and play, he said that this way people will hear and come to see me."
 part-16-1-14,This location is indeed closer to {MyFaction}.
-part-16-1-15,"It seems a stinky man deliberately sent his daughter to {MyFaction}, I need to teach him a lesson!"
+part-16-1-15,"Father painstakingly sent his daughter into {MyFaction}, it feels like there is a hidden agenda..."
 part-16-1-16,"Little girl, can you take me to see your daddy? I have something to talk to him about."
 part-16-1-17,Sure!
 part-16-1-18,"In a dilapidated temple not far away, a man is lying on his back in the corner, facing away from the entrance."
@@ -1661,7 +1650,7 @@ part-17-6-2,"Damn, how could Me forget her... But it's good to be back, keep an 
 part-18-0-1,"There is a wicked beggar from the Central Plains lurking nearby and begging on the road, please send someone to solve the beggar problem!"
 part-18-0-2,Me will send someone over to check it out in a while.
 part-18_name,Beggar Rampage
-part-18_overview,"There's a wicked beggar from the Central Plains lurking around, begging on the streets. Send someone to deal with this beggar problem quickly!"
+part-18_overview,"There's a nasty beggar begging nearby, send someone to solve this problem quickly!"
 part-18-1-1,"A beggar from the Central Plains has made it to the Jiuli Tribe, he must have strong legs."
 part-18-1-2,"Look, the beggar is here!"
 part-18-1-3,"You ask what I'm doing here? I'm a beggar, of course I'm begging for money, not robbing money."
@@ -1716,22 +1705,22 @@ part-19-4-1,"Uncle, didn't you say you would send someone with me to investigate
 part-19-4-2,"Oh, I've been too busy, I have hundreds of mouths to feed as soon as I wake up and open my eyes, I forgot. I'll send someone right away!"
 part-19-4-3,"I'm not happy now, it's useless to send someone now! Hmph!"
 part-19-4-4,Ah! Sigh...
-part-20-0-1,"We received a message from a group of brothers, saying they hijacked a tricky ship and are asking for support!"
+part-20-0-1,"We received a message from a group of brothers, saying they hijacked a tricky ship and asked for support!"
 part-20-0-2,A tricky ship? What kind of tricky ship?
 part-20-0-3,"I don't know either, but the message said, they hope to send a capable Ganjiang."
 part-20-0-4,Hmm... I'll send someone.
 part-20_name,Troublesome Business
-part-20_overview,"You've hijacked a tricky ship, it's now docked at a nearby port, send someone to check it out."
-part-20-1-1,"What kind of ship could be tricky? We dare to hijack even the official ships, is there any ship that could be tricky?"
-part-20-1-2,Come aboard and you'll see.
-part-20-1-3,Is the person who came able to make decisions?
+part-20_overview,"The brothers hijacked a tricky ship, go and support them quickly!"
+part-20-1-1,"We dare to rob the government's ship, will there be a tricky ship?"
+part-20-1-2,You'll know when you go and see...
+part-20-1-3,"Go back, I only talk to the decision-maker."
 part-20-1-4,"If you have something to say, you can talk to me."
-part-20-1-5,"Good, I just... want to do business with you."
+part-20-1-5,"Good, I want to do business with you."
 part-20-1-6,"Doing business? You're holding our brothers hostage, is this your attitude towards doing business?"
-part-20-1-7,"Don't worry, whether the deal is successful or not, I guarantee that these people will be able to swim back to shore safely. We have no choice but to do this in order to negotiate business with your faction."
-part-20-1-8,"You sure make a big fuss about doing business... if you want to talk, let's talk."
+part-20-1-7,"Don't worry, whether the business is successful or not, I guarantee that these people can swim back to the shore safely. It's necessary for doing business with your sect."
+part-20-1-8,"You make a lot of noise when you do business... Since you want to talk, let's talk."
 part-20-1-9,"I have a batch of pills on hand, which were obtained from some sects that we can't afford to offend. Now I can't get rid of them, I want to find a buyer to dispose of them cheaply."
-part-20-1-10,"Let's be frank, you're taking the risk, I won't ask for too high a price..."
+part-20-1-10,"Let's be frank, you took the risk, I naturally won't ask for too high a price..."
 part-20-1-11,"For just 1000 coins, you can buy a large bag of pills, including healing medicine, preservation pills, healing ointment and so on. What do you think?"
 part-20-option1,Deal (1000 Coins).
 part-20-option2,Not acceptable.
@@ -1761,7 +1750,7 @@ part-20-7-2,I forgot about this for a moment... never mind.
 part-21-0-1,Leader! A very tricky patient has arrived today!
 part-21-0-2,"You find it tricky? Alright, I will send someone to treat them."
 part-21_name,Illusionary Dream Disease
-part-21_overview,"A tricky patient has arrived at the door, arousing your curiosity. Send someone to treat them."
+part-21_overview,"A difficult patient has come to the sect, send someone to treat him quickly."
 part-21-1-1,"This lady's symptoms are excessive sleepiness regardless of the situation, but fortunately, we have recently acquired a lot of herbs, enough to make medicine."
 part-21-1-2,Huff... huff.
 part-21-1-3,Huff!
@@ -1826,7 +1815,7 @@ part-23-0-1,"Leader, we received a letter from Lu Gongzi who is traveling outsid
 part-23-0-2,"What, bring it up quickly!"
 part-23-0-3,"Hmm... So he's having a hard time outside, huh, thinking of home at this time?"
 part-23_name,Letter from the wanderer
-part-23_overview,"That worldly Lu Gongzi finally sent a letter, saying he encountered some difficulties outside the sect."
+part-23_overview,"The wandering son Lu finally sent a letter, saying he encountered some difficulties outside."
 part-23-1-1,"Although Lu Jian Nan likes to travel and play in the mountains and water, the places he travels to are too remote. It looks like a fierce beast could pounce out at any time..."
 part-23-1-2,Howl!
 part-23-1-3,You jinx!
@@ -1896,7 +1885,7 @@ part-24-4-2,"I let such a good opportunity slip away, what a pity..."
 part-25-0-1,"Report! Outside the main gate, someone has thrown a letter into the sect using a high-level Throwing technique, please review it, Leader!"
 part-25-0-2,"The sender of the letter says he wants to join our sect, but he's asked to meet at midnight, it's suspicious, should we send someone to check it out?"
 part-25_name,Ye Xiao Comes to Join
-part-25_overview,"A strange man came to your door late at night, asking to join your sect, send a few people to talk to him."
+part-25_overview,"A strange man came to the door late at night, asking to join your sect."
 part-25-1-1,Are you the one who wants to join our sect?
 part-25-1-2,Not bad.
 part-25-1-3,"We, {1}, do not accept people of unknown identity. If you are sincere, at least take off your mask first?"
@@ -1932,29 +1921,29 @@ part-25-5-2,Come at me.
 part-25-5-3,"Ye Xiao ran away, brothers chase him, don't lose this great merit!"
 part-25-6-1,"Ye Xiao sent a message saying that he was entangled with many troubles and had to run away first, but he would visit again soon."
 part-25-6-2,"Ah, I actually forgot about this person."
-part-26-0-1,"The sect's junior competition is about to start, how are you all preparing?"
+part-26-0-1,"Our sect's competition is about to start, how are you all preparing?"
 part-26-0-2,"Everything is arranged, but, my sister... she wants to participate again..."
 part-26-0-3,Participating again? Really worrying.
-part-26_name,Constable Junior
-part-26_overview,"Constable Luo's sister is participating in the junior competition again, send someone to help her."
+part-26_name,Constable competition
+part-26_overview,"The sister of Luo Constable is participating in the competition again, send someone to help her."
 part-26-1-1,Luo Qianxue!
 part-26-1-2,Yes!
-part-26-1-3,How are you preparing for this junior?
+part-26-1-3,How are you preparing for this small test?
 part-26-1-4,Confident to complete it perfectly!
-part-26-1-5,"Xiaoxue, you've participated in the junior competition quite a few times, this time I'll help, but afterwards you'll have to rely on your own practice."
+part-26-1-5,"Xiaoxue, you've taken this small test quite a few times. This time, let me help you. After this, it's all up to your diligent practice."
 part-26-1-6,Qianxue will keep it in mind!
-part-26-1-7,"No more talking, as usual, let's fight the examiner together. I'll only assist, if you win, you'll pass the junior competition."
+part-26-1-7,"Enough talking, let's do it the usual way and fight the examiner together. I'll only assist, if you win, you'll pass the small test."
 part-26-1-8,"Thank you! This time, Qianxue will definitely not let everyone down!"
 part-26-2-1,"Congratulations, Xiaoxue!"
 part-26-2-2,Wuwuwu... I finally passed!!!
 part-26-3-1,"No, Xiaoxue, you need to practice more."
 part-26-3-2,Yes...
-part-26-4-1,My sister failed the junior competition again this year.
+part-26-4-1,Little sister still didn't pass the small test this year.
 part-26-4-2,"The same old problem of being restless and unwilling to practice hard, she will definitely participate again next year."
 part-27-0-1,"This time we received a trip to the Western Regions, the benefits are quite substantial!"
 part-27-0-2,"But the Western Regions are so far away, we need to send a few good hands..."
 part-27_name,People are not goods
-part-27_overview,"We just received a trip, to deliver to the Western Regions, please arrange for manpower to escort it as soon as possible!"
+part-27_overview,"There is a convoy to be sent to the Western Regions, please arrange for someone to escort it as soon as possible!"
 part-27-1-1,Half a month later...
 part-27-1-2,"After so many days of travel, we've finally left the desert and found a town!"
 part-27-1-3,Remember to replenish your water supply and bring plenty of dry food!
@@ -2079,10 +2068,10 @@ part-30-0-1,"Why has the food improved so much recently? Hey, did someone new co
 part-30-0-2,"Big leader, it's a butcher who calls himself the Imperial Chef. He offended someone he shouldn't have in Daliang City, so he came to be a bandit and cook for us."
 part-30-0-3,It turns out to be the Imperial Chef... It seems I need to send someone to comfort him.
 part-30_name,After the Imperial Chef
-part-30_overview,"A butcher who claims to be a master chef has recently joined the sect's kitchen. His cooking skills are extraordinary, maybe you can send someone to visit him."
+part-30_overview,"A butcher who claims to be a royal chef has come to the sect's kitchen, his cooking skills are extraordinary, arousing curiosity."
 part-30-1-1,"Are you the new cook? I'm here to... Whoa, what are you doing?"
 part-30-1-2,I'm butchering a cow.
-part-30-1-3,You're making such a bloody mess just butchering a cow...
+part-30-1-3,"You're butchering a cow, why is the scene so bloody..."
 part-30-1-4,"Stay away from my knife, if it gets contaminated, the beef won't taste good."
 part-30-1-5,That's terrifying... It feels like he wants to eat me...
 part-30-1-6,"Pao Chunqiu swings his kitchen knife, and where it goes, the beef falls apart. You notice that this hides a set of good knife skills."
@@ -2129,7 +2118,7 @@ part-31-4-2,"Let her run, let's see if she comes back unhappy this time!"
 part-32-0-1,"A blind soldier with a gun has come to join us, he specifically asked to see you."
 part-32-0-2,A blind soldier? Sounds like a real man. I'll arrange for someone to receive him.
 part-32_name,After the Yang Family
-part-32_overview,"A blind soldier with a gun has come to join us, he specifically asked to see you. Send someone to receive him."
+part-32_overview,"A blind soldier with a gun came to join, he specifically asked to see you."
 part-32-1-1,The sound of marching... the slogan of training... the smell of iron and blood... it's here.
 part-32-1-2,Who are you and why are you looking for me?
 part-32-1-3,"That voice, are you Uncle Pengju?"
@@ -2250,3 +2239,87 @@ part-35-3-1,"No need, I have poor eyesight, I can walk by myself."
 part-35-3-2,"Gu Qing Yang, with undisguised disappointment, ran away {MyFaction}."
 part-35-4-1,"Sect leader, there were some problems at the venue, everyone was arguing and fighting, it seems we can only choose again next year..."
 part-35-4-2,What a pity... Let's wait until next year.
+guid-12a_1_11,"Withdraw your palm quickly! Otherwise, we'll both die here!"
+guid-12a_1_12,"You think I don't want to withdraw! Our MPs are now tangled up like a mess, I can't break free, I can't even let go!"
+guid-12a_1_13,"Without external help, this situation is a dead end... Alas, I didn't expect that we would die here after fighting for a lifetime."
+guid-12a_1_14,"Phew... I finally made it... These two masters haven't decided the winner yet, it's time for me to show up!"
+guid-12a_1_15,"The two heroes are extraordinary, I, {MyFaction}, pay my respects."
+guid-12a_1_16,"Why are you ignoring me? Although my sect is not famous and weak, it shouldn't be forcibly ignored... Right, they must be too focused on their duel, let me try again louder!"
+guid-12a_1_17,"The two heroes are extraordinary, I, {MyFaction}, pay my respects!!!"
+guid-12a_1_18,Puff...
+guid-12a_1_19,Uh...
+guid-12a_1_20,"The two masters were originally forced into a life-and-death internal force competition due to the mutual generation and restraint of their internal forces. \nUnexpectedly, your sudden loud shock \naccidentally broke this endless deadlock."
+guid-12a_1_21,"I didn't expect to be saved like this... Steady, steady, pay attention to the expression, there are juniors here, can't lose face."
+guid-12a_1_22,"Cough cough... Today's duel was accidentally interrupted and there was no winner, it's fate, we'll fight again another day."
+guid-12a_1_23,"Young friend, we were just playing and there was no problem. It's fate that we met, let me give you a small gift as a token of our meeting."
+guid-12a_1_24,"Hmph, not only shameless but also pretentious, who doesn't have something like this."
+guid-12a_1_25,"The two each took out an item from their bosoms and threw it on the ground, then ran away quickly one after the other. \nYou vaguely noticed that there seemed to be a touch of embarrassment on their faces."
+guid-12a_1_26,"As expected of top-notch masters, their lightness skills are outrageous, they disappeared in the blink of an eye. But... why were they blushing?"
+guid-12a_1_27,"Eh? Why are there two strange things on the ground? They seem to be the characteristics of martial arts in the legend. Never mind, pick them up first, can't run a trip for nothing."
+GeneralQue-2_7_1,Dare anyone challenge me?
+GeneralQue-2_7_2,"If you can defeat me, I will pass on my <color=#a94e37>unique blade technique</color> to you."
+GeneralQue-2_8_1,"You're quite skilled, I'll pass on this <color=#a94e37>Savage Primal Blade</color> to you."
+GeneralQue-2_9_1,It seems that the martial arts world is full of mediocrity these days.
+main-4_name,Main Quest
+main-4_log,"Dispatch Disciples through ""Events"" to find the Ghost Hand Blacksmith."
+main-4c_name,Main Quest
+main-4c_log,Wait for the first treasure to be repaired.
+main-9_name,Main Quest
+main-9_log,Wait for the Ghost Hand Blacksmith to repair the last piece of treasure.
+main-10e_name,Main Quest
+main-10e_log,"Through ""Events"", send Disciples to the treasure vault of the nameless hero."
+main-11_name,Main Quest
+main-11_log,Eliminate the remaining sects in the martial arts world.
+part-1_option3,"For someone like you, of course, there is."
+part-1_option4,"{MyFaction} temple is small, I'm afraid it might hinder your future."
+part-4_NPCname,Cold and silent woman
+part-18_option1,"Here's 1000 Coins for you, bet you didn't see that coming!"
+part-18_option2,Get lost! Don't wander around {MyFaction} anymore!
+main-2b_name,Main Quest
+main-2b_log,Get more clues by eliminating other sects.
+GeneralQue-15_1_1,"Master, there is a beauty waiting outside the door, she wants to gamble with you by name."
+GeneralQue-15_1_2,"At this time, someone comes to gamble, are you sure she is a beauty, not some drunk gambler who lost his way?"
+GeneralQue-15_1_3,"Of course I'm sure, this lady is bold and elegant, especially the tattoo on her right arm, it's simply captivating..."
+GeneralQue-15_1_4,"Something unusual must be wrong, send someone to meet her."
+GeneralQue-15_2_1,"Master, Yi Zhihua came to find you with her horse cart again, there are a lot more boxes on the cart than before, it seems that a lot of people who want to prove their luck have lost to her..."
+GeneralQue-15_2_2,"This Sister Hua is really an interesting person, go out and meet her."
+GeneralQue-15_name,Addicted to gambling
+GeneralQue-15_log,"A bold and gorgeous tattooed beauty comes to your sect, she wants to gamble with you by name."
+GeneralQue-15_3_1,"You come to the mountain entrance of your sect,\nfound that the beauty is leaning on a horse cart full of various boxes,\nboredly playing with the dice in her hand."
+GeneralQue-15_3_2,"You made me wait for so long, you have to play with me for a few rounds!"
+GeneralQue-15_3_3,It's really an unexpected guest...
+GeneralQue-15_3_4,"Unexpectedly, the head of the Xuan Yi Society didn't stay in Da Liang to run the Zhangyue Casino, but came to me {MyFaction} to gamble."
+GeneralQue-15_3_5,"Don't mention it, isn't it because you martial arts sects are fighting and killing everywhere, causing people to be terrified and not leave their homes. There's not even a ghost in Zhangyue Casino now, otherwise why would I need to travel and look for people to gamble with me to relieve my boredom?"
+GeneralQue-15_3_6,"Since you're looking for someone to relieve your boredom, Sister Hua, why are you carrying so many boxes in your horse cart? It's not safe."
+GeneralQue-15_3_7,"You mean those things? Hey, they're all sorts of things I've won from unlucky people along the way. I've put these treasures into various boxes and invented a new kind of fun gambling game."
+GeneralQue-15_3_8,"How about it, will you play a game with me?"
+GeneralQue-15_3_9,"Sister Hua, you've always been credible, you shouldn't cheat me. Alright, I'll play with you."
+GeneralQue-15_3_10,"My game is simple, you spend a certain amount of resources to get any box from my horse cart. The things in the box are varied, good and bad, but once you buy it, you can't return it. You have to accept the result of the gamble."
+GeneralQue-15_3_11,"Interesting, which box should I choose..."
+GeneralQue-15_op_1,Sturdy black iron box<color=#c44b0e>(2000 Coins)</color>
+GeneralQue-15_op_2,Dusty leather box<color=#c44b0e>(2000 Food)</color>
+GeneralQue-15_op_3,Uniquely shaped rattan box<color=#c44b0e>(2000 Herbs)</color>
+GeneralQue-15_op_4,Clean and simple wooden box<color=#c44b0e>(2000 Wood)</color>
+GeneralQue-15_op_5,Gorgeous and grand copper box<color=#c44b0e>(2000 Minerals)</color>
+GeneralQue-15_op_6,"Gambling is a sinful abyss, I'd better not choose..."
+GeneralQue-15_4_1,"You come to the outside of the sect's Mountain Entrance and find Yi Zhihua leaning on the wheel of the horse cart as before, playing with the dice in her hand in boredom."
+GeneralQue-15_4_2,"It seems that Sister Hua has been quite lucky with her gambling recently. The boxes on the cart have not decreased, but have increased."
+GeneralQue-15_4_3,"Those fools not only have no discernment, can't find the boxes with good things, but also have bad luck. Winning their things is simply boring."
+GeneralQue-15_4_4,"It's more fun to play with smart people like you. Tell me, which one are you going to choose this time?"
+GeneralQue-15_4_5,Which box should I choose...
+GeneralQue-15_5_1,"I want this box, there must be good things inside!"
+GeneralQue-15_5_2,"Let me see, inside is... this is not reasonable! How could you choose such a good thing!"
+GeneralQue-15_5_3,"Sister Hua, you said it yourself, once bought, no returns, you have to accept the result of the gamble~"
+GeneralQue-15_5_4,"Humph, come again if you dare, I don't believe you can be so lucky!"
+GeneralQue-15_6_1,"I want this box, there must be good things inside!"
+GeneralQue-15_6_2,"Oh, you have a good eye, choosing this box, you must have made a profit."
+GeneralQue-15_6_3,"Come and play a few more games with me, this time must have been a fluke."
+GeneralQue-15_7_1,"I want this box, there must be good things inside!"
+GeneralQue-15_7_2,"Congratulations, you have chosen the extremely rare... rarely seen in the world..."
+GeneralQue-15_7_3,Consolation prize!
+GeneralQue-15_7_4,"But I suggest you don't be discouraged, you might turn your luck around in the next game."
+GeneralQue-15_8_1,"Gambling is a sinful abyss, I'd better not choose..."
+GeneralQue-15_8_2,"This is what you said! I'm leaving now, and you'll miss a good opportunity to make a fortune, hmph!"
+GeneralQue-15_8_3,"Yi Zhihua glared at you, then calmly got on the horse cart and disappeared from your sight in a short while."
+GeneralQue-15_8_4,I always feel like I'm missing something... Is it just my imagination?
+GeneralQue-15_9_1,Let's continue...

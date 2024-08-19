@@ -2979,7 +2979,7 @@ ItemInfo_酱油,"Can be used as a seasoning, it has a unique sauce aroma, delici
 ItemInfo_盐,"Can be used as a seasoning, can make Food more flavorful.\n<#d09a09>Usage: Cooking, Gift</color>","สามารถใช้เป็นเครื่องปรุงรส สามารถทำให้อาหารมีรสชาติมากขึ้น\n<#d09a09>ใช้สำหรับ: ทำอาหาร, ให้เป็นของขวัญ</color>"
 ItemInfo_辣椒,"A bright red plant, very spicy in taste.\n<#d09a09>Usage: Cooking, Gift</color>","พืชสีแดงสด รสเผ็ดมาก.\n<#d09a09>ใช้สำหรับ: ทำอาหาร, ให้เป็นของขวัญ</color>"
 ItemInfo_糖,"Can be used as a seasoning to enhance the sweetness of Food.\n<#d09a09>Usage: Cooking, Gift</color>","สามารถใช้เป็นเครื่องปรุงรสเพื่อเพิ่มความหวานของอาหารได้\n<#d09a09>ใช้สำหรับ: ทำอาหาร, ให้เป็นของขวัญ</color>"
-ItemInfo_蜂蜜,"Freshly extracted Honey.\n<#d09a09>Usage: Cooking, Gift</color>","น้ำผึ้งสกัดจากรังผึ้งสดๆ\n<#d09a09>ใช้สำหรับ: ทำอาหาร, ให้เป็นของขวัญ</color>"
+ItemInfo_蜂蜜,"Fresh Honey just extracted from the beehive.\n<#d09a09>Usage: Cooking, Gift</color>"
 ItemInfo_蔗糖,"Can be used as a seasoning, making Food more delicious and appetizing.\n<#d09a09>Usage: Cooking, Gift</color>","สามารถใช้เป็นเครื่องปรุงรสทำให้อาหารมีรสชาติอร่อยน่ารับประทานมากขึ้น.\n<#d09a09>ใช้สำหรับ: ทำอาหาร, ให้เป็นของขวัญ</color>"
 ItemInfo_鸡肉,"Fresh Chicken meat.\n<#d09a09>Usage: Cooking, Gift</color>","เนื้อไก่สด\n<#d09a09>ใช้สำหรับ: ทำอาหาร, ให้เป็นของขวัญ</color>"
 ItemInfo_鹅肉,"Fresh Goose meat.\n<#d09a09>Usage: Cooking, Gift</color>","เนื้อห่านสดๆ\n<#d09a09>ใช้สำหรับ: ทำอาหาร, ให้เป็นของขวัญ</color>"
@@ -4523,3 +4523,48 @@ ItemInfo_柴王寿宴请柬,"An invitation to the birthday banquet of King Chai,
 ItemInfo_凰木港地图,"A map depicting the terrain of Phoenix Woods Harbor, click for Info.","แผนที่แสดงลักษณะภูมิประเทศของท่าเรือป่าหงส์, คลิกเพื่อดูข้อมูล"
 ItemInfo_尉缭子,"A military strategy passed down in troubled times, with a unique understanding of the art of war.",กลยุทธ์ทางทหารที่สืบทอดต่อกันมาในช่วงเวลาแห่งความวุ่นวาย แสดงวิธีการใช้กลยุทธ์ทางทหารด้วยความเข้าใจที่ไม่เหมือนใคร
 ItemInfo_绝毒残篇,"The remaining scroll of the secret method of using poison left by Jiang Ziyan's master, although only a fragment remains, it is still extremely toxic.",เศษเสี้ยวของคัมภีร์พิษลับที่อาจารย์ของเจียงจื่อเยี่ยนทิ้งไว้ แม้ว่าจะเหลือเพียงเสี้ยวเดียว แต่ก็ยังแฝงไว้ด้วยพิษอันร้ายกาจ
+FondTag_自创,Self-Created Martial Art
+ItemName_DLC2飞雪寒霜刃,Flying Snow Frost Blade
+ItemName_DLC2琼华凌波裙,Lustrous Wave Robe
+ItemName_DLC2黑天,Dark Sky
+ItemName_DLC2鬼面具,Ghost Mask
+ItemName_DLC2恨天,Hatred for Heaven
+ItemName_DLC2红色药丸,Red Pill
+ItemName_DLC2蓝色药丸,Blue Pill
+ItemName_DLC2小布包,Small Cloth Bag
+ItemName_DLC2机要密册,Secret Documents
+ItemName_DLC2琉璃珠,Glass Bead
+ItemName_DLC2唯我是从丹,Sovereign's Elixir
+ItemName_DLC2推山掌,Mountain Pushing Palm
+ItemName_DLC2格天九式,Nine Heavens Form
+ItemName_DLC2错骨手,Bone Displacement Hand
+ItemName_DLC2乾坤霹雳掌,Heaven and Earth Thunder Palm
+ItemName_DLC2织女穿梭,Weaver’s Shuttle
+ItemName_DLC2流影千重梭,Shadow Cascade Shuttle
+ItemName_DLC2冰心诀,Ice Heart Technique
+ItemName_DLC2凛气诀,Chilling Aura Technique
+ItemName_DLC2长恨歌,Eternal Regret
+ItemName_DLC2九星连珠,Nine Stars Chain
+ItemName_DLC2乖离无相功,Deviation from Form Technique
+ItemInfo_DLC2飞雪寒霜刃,"A dagger crafted by Jian Chi himself, incredibly sharp and emanating a chilling aura, causing unnoticed damage to the enemy's meridians."
+ItemInfo_DLC2琼华凌波裙,"A dress left by Ji Hanqing for his daughter's dowry, elegant and breathtakingly beautiful."
+ItemInfo_DLC2黑天,"A pitch-black inner armor, light as a feather, yet impervious to blades and spears."
+ItemInfo_DLC2鬼面具,"The mask of a Nine Factions Sect Disciple, blood-red in color, with eerie patterns that send chills down the spine."
+ItemInfo_DLC2恨天,"The iron mask worn by Tie Mianren. His whereabouts are hard to trace under the vast sky, his heart filled with heavy resentment."
+ItemInfo_DLC2红色药丸,"The mysterious Red Pill, its effects unknown to all."
+ItemInfo_DLC2蓝色药丸,"The mysterious Blue Pill, its effects unknown to all."
+ItemInfo_DLC2小布包,"The Small Cloth Bag given by Du Yapo, containing specially made medicinal powder by Du Yapo."
+ItemInfo_DLC2机要密册,"A small booklet found in the Secret chamber of the Ji family, filled with incriminating evidence against the Official."
+ItemInfo_DLC2琉璃珠,"A bead made of glazed material, crystal clear, a Child would love it."
+ItemInfo_DLC2唯我是从丹,"A specially made Pill, after taking it, the internal organs will burn like flames. If the antidote is not taken in time, the pain will be unbearable after three days, and after forty-nine days, the person will die from bleeding from the seven orifices. Even the most willful person cannot bear this."
+ItemInfo_DLC2推山掌,"The basic palm technique of the Nine Factions Sect, emphasizing unity and the ability to move mountains."
+ItemInfo_DLC2格天九式,Is there a constant in the way of heaven? The will of heaven is unpredictable.
+ItemInfo_DLC2错骨手,A book describing how to dislocate an opponent's joints at an extremely fast speed.
+ItemInfo_DLC2乾坤霹雳掌,"The top palm technique of the Nine Factions Sect, capable of shaking Heaven and Earth with a single move."
+ItemInfo_DLC2织女穿梭,"The exquisite use of the Dagger, as seamless as threading a needle."
+ItemInfo_DLC2流影千重梭,"Advanced Dagger Martial Arts, with a thousand layers of cold light, making it impossible to resist."
+ItemInfo_DLC2冰心诀,A method of internal cultivation suitable for women.
+ItemInfo_DLC2凛气诀,"A unique method of Earth Breath, which can strengthen the body inadvertently."
+ItemInfo_DLC2长恨歌,"Even the eternal has an end, endless regret has no deadline."
+ItemInfo_DLC2九星连珠,"A strange book describing how to use the art of Qimen Dunjia to change one's fate. If arranged properly, it can even bring about natural disasters."
+ItemInfo_DLC2乖离无相功,"A unique method of cultivation, which seems to be incompatible with all other methods in the world."

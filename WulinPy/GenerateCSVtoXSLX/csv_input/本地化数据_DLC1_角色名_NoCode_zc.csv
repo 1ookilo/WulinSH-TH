@@ -1,0 +1,821 @@
+﻿﻿CharaName_引导者,Junior Sister
+CharaName_曼,Man
+CharaName_泥丸真人,Spiritual master
+CharaName_战,Zhan
+CharaName_黑手指,Hei Shouzhi
+CharaName_张,Zhang
+CharaName_赵,Zhao
+CharaName_陈,Chen
+CharaName_孙,Sun
+CharaName_周,Zhou
+CharaName_远,Yuan
+CharaName_明,Ming
+CharaName_自,Zi
+CharaName_逸,Yi
+CharaName_潜,Qian
+CharaName_风,Feng
+CharaName_静,Jing
+CharaName_高,Gao
+CharaName_慧心,Wise Heart
+CharaName_明智,wise
+CharaName_虔诚,piety 
+CharaName_禅心,Zen Heart
+CharaName_净心,Pure Heart
+CharaName_慈悲,mercy
+CharaName_虚空,Void
+CharaName_智慧,wisdom
+CharaName_黑,Hei
+CharaName_吴,Wu
+CharaName_梅,Mei
+CharaName_桃,Tao
+CharaName_竹,Zhu
+CharaName_莲,Lian
+CharaName_菊,Ju
+CharaName_松,Song
+CharaName_芙,Fu
+CharaName_江,Jiang
+CharaName_烟,Yan
+CharaName_山,Shan
+CharaName_潮,Chao
+CharaName_黄,Huang
+CharaName_徐,Xu
+CharaName_朱,Zhu
+CharaName_林,Lin
+CharaName_郑,Zheng
+CharaName_卢,Lu
+CharaName_毛,Mao
+CharaName_谢,Xie
+CharaName_司徒,Situ
+CharaName_卫,Wei
+CharaName_申,Shen
+CharaName_司马,Sima
+CharaName_锺,Zhong
+CharaName_茅,Mao
+CharaName_桂,Gui
+CharaName_全,Quan
+CharaName_养,Yang
+CharaName_微,Wei
+CharaName_席,Xi
+CharaName_米,Mi
+CharaName_巩,Gong
+CharaName_巫,Wu
+CharaName_常,Chang
+CharaName_莫,Mo
+CharaName_阴,Yin
+CharaName_万,Wan
+CharaName_屠,Tu
+CharaName_仲,Zhong
+CharaName_古,Gu
+CharaName_狄,Di
+CharaName_荣,Rong
+CharaName_利,Li
+CharaName_危,Wei
+CharaName_熊,Xiong
+CharaName_项,Xiang
+CharaName_乌,Wu
+CharaName_沙,Sha
+CharaName_巢,Chao
+CharaName_罗,Luo
+CharaName_须,Xu
+CharaName_成,Cheng
+CharaName_苍,Cang
+CharaName_曾,Zeng
+CharaName_左,Zuo
+CharaName_乔,Qiao
+CharaName_安,An
+CharaName_索,Suo
+CharaName_国,Guo
+CharaName_于,Yu
+CharaName_竺,Zhu
+CharaName_令狐,Linghu
+CharaName_宣,Xuan
+CharaName_钱,Qian
+CharaName_乐,Yue 
+CharaName_鲁,Lu
+CharaName_麻,Ma
+CharaName_司空,Sikong
+CharaName_柏,Bai
+CharaName_左丘,Zuo
+CharaName_伯,Bo
+CharaName_贝,Bei
+CharaName_陶,Tao
+CharaName_田,Tian
+CharaName_儒圣馆守卫（弱）,Confucius Temple Guard
+CharaName_儒圣馆守卫（中）,Confucius Temple Guard
+CharaName_儒圣馆守卫（强）,Confucius Temple Guard
+CharaName_道玄宗守卫（弱）,Taoist Sect Guard
+CharaName_道玄宗守卫（中）,Taoist Sect Guard
+CharaName_道玄宗守卫（强）,Taoist Sect Guard
+CharaName_释法寺守卫（弱）,Shifa Temple Guard
+CharaName_释法寺守卫（中）,Shifa Temple Guard
+CharaName_释法寺守卫（强）,Shifa Temple Guard
+CharaName_九流门守卫（弱）,Nine Factions Sect Guard
+CharaName_九流门守卫（中）,Nine Factions Sect Guard
+CharaName_九流门守卫（强）,Nine Factions Sect Guard
+CharaName_妙音坊守卫（弱）,Melody House Guard
+CharaName_妙音坊守卫（中）,Melody House Guard
+CharaName_妙音坊守卫（强）,Melody House Guard
+CharaName_九黎部落守卫（弱）,Jiuli Tribe Guard
+CharaName_九黎部落守卫（中）,Jiuli Tribe Guard
+CharaName_九黎部落守卫（强）,Jiuli Tribe Guard
+CharaName_九江水寨守卫（弱）,Jiuli Tribe Guard
+CharaName_九江水寨守卫（中）,Jiuli Tribe Guard
+CharaName_九江水寨守卫（强）,Jiuli Tribe Guard
+CharaName_本草门守卫（弱）,Herbology Sect Guard
+CharaName_本草门守卫（中）,Herbology Sect Guard
+CharaName_本草门守卫（强）,Herbology Sect Guard
+CharaName_万兽山庄守卫（弱）,Beast Manor Guard
+CharaName_万兽山庄守卫（中）,Beast Manor Guard
+CharaName_万兽山庄守卫（强）,Beast Manor Guard
+CharaName_燕子窝守卫（弱）,Swallow Nest Guard
+CharaName_燕子窝守卫（中）,Swallow Nest Guard
+CharaName_燕子窝守卫（强）,Swallow Nest Guard
+CharaName_神捕门守卫（弱）,Crime Investigation Bureau Guard
+CharaName_神捕门守卫（中）,Crime Investigation Bureau Guard
+CharaName_神捕门守卫（强）,Crime Investigation Bureau Guard
+CharaName_虎威镖局守卫（弱）,Tiger Escort Guard
+CharaName_虎威镖局守卫（中）,Tiger Escort Guard
+CharaName_虎威镖局守卫（强）,Tiger Escort Guard
+CharaName_夜摩坊守卫（弱）,Night Auction Market Guard
+CharaName_夜摩坊守卫（中）,Night Auction Market Guard
+CharaName_夜摩坊守卫（强）,Night Auction Market Guard
+CharaName_琅琊剑阁守卫（弱）,Langya Sword Pavilion Guard
+CharaName_琅琊剑阁守卫（中）,Langya Sword Pavilion Guard
+CharaName_琅琊剑阁守卫（强）,Langya Sword Pavilion Guard
+CharaName_摸金门守卫（弱）,Tomb Raider Sect Guard
+CharaName_摸金门守卫（中）,Tomb Raider Sect Guard
+CharaName_摸金门守卫（强）,Tomb Raider Sect Guard
+CharaName_青风寨守卫（弱）,Blue Wind Camp Guard
+CharaName_青风寨守卫（中）,Blue Wind Camp Guard
+CharaName_青风寨守卫（强）,Blue Wind Camp Guard
+CharaName_叶家军守卫（弱）,Ye Family Battalion Guard
+CharaName_叶家军守卫（中）,Ye Family Battalion Guard
+CharaName_叶家军守卫（强）,Ye Family Battalion Guard
+CharaName_冷皮帮守卫（弱）,Cold Skin Gang Guard
+CharaName_冷皮帮守卫（中）,Cold Skin Gang Guard
+CharaName_冷皮帮守卫（强）,Cold Skin Gang Guard
+CharaName_圣火宗守卫（弱）,Divine Flame Sect Guard
+CharaName_圣火宗守卫（中）,Divine Flame Sect Guard
+CharaName_圣火宗守卫（强）,Divine Flame Sect Guard
+CharaName_山匪,Bandit
+CharaName_陀罗,TuoLuo
+CharaName_雄飞,Xiongfei
+CharaName_剑飞,Jianfei
+CharaName_烨磊,Yelei
+CharaName_龙虎,Longhu
+CharaName_云天,Yuntian
+CharaName_鹰扬,Yingyang
+CharaName_震天,Zhentian
+CharaName_峰涛,Fengtao
+CharaName_长空,Changkong
+CharaName_见清,Jianqing
+CharaName_悟逍,Wuxiao
+CharaName_在瑞,Zairui
+CharaName_云高,Yungao
+CharaName_心明,Xinming
+CharaName_行者,Xingzhe
+CharaName_思云,Siyun
+CharaName_远者,Yuanzhe
+CharaName_手,Shou
+CharaName_旋风,Xuanfeng
+CharaName_铁手,Tieshou
+CharaName_无前,Wuqian
+CharaName_无尽,Wujin
+CharaName_星星,Xingxing
+CharaName_大炮,Dapao
+CharaName_香雨,Xiangyu
+CharaName_花影,Huaying
+CharaName_月清,Yueqing
+CharaName_心灵,Xinling
+CharaName_雪梅,Xuemei
+CharaName_萍青,Pingqing
+CharaName_蓉心,Yongxin
+CharaName_无痕,Wuhen
+CharaName_嘉莲,Jialian
+CharaName_湖隐,Huyin
+CharaName_云泽,Yunze
+CharaName_云影,Yunying
+CharaName_水行,Shuixing
+CharaName_湖客,Huke
+CharaName_汐心,Xixin
+CharaName_雨行,Yuxing
+CharaName_大头,Datou
+CharaName_翠山,Cuishan
+CharaName_云舟,Yunzhou
+CharaName_雪岚,Xuelan
+CharaName_湖水,Hushui
+CharaName_云波,Yunbo
+CharaName_林烟,Linyan
+CharaName_岚霜,Lanshuang
+CharaName_晓雪,Xiaoxue
+CharaName_翠云,Cuiyun
+CharaName_瑞雨,Ruiyu
+CharaName_雪儿,Xue'er
+CharaName_静静,Jingjing
+CharaName_梦瑶,Mengyao
+CharaName_慧婷,Huiting
+CharaName_雨薇,Yuwei
+CharaName_风雨,Fengyu
+CharaName_云飞,Yunfei
+CharaName_山涛,Shantao
+CharaName_烟雨,Yanyu
+CharaName_波涵,Bohan
+CharaName_岚翠,Lancui
+CharaName_涛皓,Taohao
+CharaName_晓原,Xiaoyuan
+CharaName_发,Fa
+CharaName_宫燚,Gongyi
+CharaName_月华,Yuehua
+CharaName_亚录,Yalu
+CharaName_邦,Bang
+CharaName_昌恒,Changheng
+CharaName_世恒,Shiheng
+CharaName_离敬,Lijing
+CharaName_光,Guang
+CharaName_明海,Minghai
+CharaName_良,Liang
+CharaName_仁承,Rencheng
+CharaName_博仁,Boren
+CharaName_生文,Shengwen
+CharaName_文博,Wenbo
+CharaName_雨帆,Yufan
+CharaName_谷文,Guwen
+CharaName_问天,Wentian
+CharaName_马旺,Mawang
+CharaName_宇尘,Yuchen
+CharaName_征,Zheng
+CharaName_仲言,Zhongyan
+CharaName_勇,Yong
+CharaName_德道,Dedao
+CharaName_泽金,Zejin
+CharaName_寿宇,Shouyu
+CharaName_泽天,Zetian
+CharaName_兴,Xing
+CharaName_有,You
+CharaName_远丰,Yuanfeng
+CharaName_文阳,Wenyang
+CharaName_雨泽,Yuze
+CharaName_吉祥,Jixiang
+CharaName_新豪,Xinhao
+CharaName_福,Fu
+CharaName_吉,Ji
+CharaName_弘易,Hongyi
+CharaName_长卿,Changqing
+CharaName_崇,Chong
+CharaName_棋雷,Qilei
+CharaName_文萱,Wenxuan
+CharaName_俊辉,Junhui
+CharaName_鸣,Ming
+CharaName_梓坤,Zikun
+CharaName_章,Zhang
+CharaName_贤,Xian
+CharaName_彬,Bin
+CharaName_轩召,Xuanzhao
+CharaName_远宏,Yuanhong
+CharaName_世翰,Shihan
+CharaName_浩宝,Haobao
+CharaName_群雁,Qunyan
+CharaName_乐正,Lezheng
+CharaName_之锋,Zhifeng
+CharaName_月冥,Yueming
+CharaName_贵,Gui
+CharaName_远见,Yuanjian
+CharaName_峰,Feng
+CharaName_锐意,Ruiyi
+CharaName_乐皓,Lehao
+CharaName_宇帆,Yufan
+CharaName_子淼,Zimiao
+CharaName_昊靖,Haojing
+CharaName_为,Wei
+CharaName_博昌,Bochang
+CharaName_月浩,Yuehao
+CharaName_叶青,Yeqing
+CharaName_兵,Bing
+CharaName_霖,Lin
+CharaName_昌拓,Changtuo
+CharaName_靳言,Jinyan
+CharaName_文,Wen
+CharaName_德诚,Decheng
+CharaName_励谷,Ligu
+CharaName_旭畅,Xuchang
+CharaName_启文,Qiwen
+CharaName_天俊,Tianjun
+CharaName_刘家带话小哥,Liu family messenger boy
+CharaName_看客甲,Audience A
+CharaName_看客乙,Audience B
+CharaName_伪装的陈家带话小哥,Disguised Chen family messenger boy
+CharaName_陈家带话小哥,Chen family messenger boy
+CharaName_内门弟子,Inner Disciple
+CharaName_外门弟子,Outer Disciple
+CharaName_蛇,Snake
+CharaName_蝎子,Scorpion
+CharaName_虎,Tiger
+CharaName_守塔人,Tower Watchman
+CharaName_白衣学子,White clad student
+CharaName_医师,Physician
+CharaName_道玄宗弟子,Taoist Sect Disciple
+CharaName_村民,Villager
+CharaName_活神仙,Living immortal
+CharaName_夜摩坊弟子,Night Auction Market Disciple
+CharaName_释法寺弟子,Shifa Temple Disciple
+CharaName_路人甲,Passerby A
+CharaName_路人乙,Passerby B
+CharaName_路人丙,Passerby C
+CharaName_路人丁,Passerby D
+CharaName_稚童,Childhood
+CharaName_山贼头头,Bandit Leader
+CharaName_莽山贼,Reckless Bandit
+CharaName_愚山贼,Ignorant Bandit
+CharaName_面具人头子,Masked Man Leader
+CharaName_面具人甲,Masked Man A
+CharaName_面具人乙,Masked Man B
+CharaName_云林寺主持,Yunlin Temple Abbot
+CharaName_云林寺武僧甲,Yunlin Temple Martial Monk A
+CharaName_云林寺武僧乙,Yunlin Temple Martial Monk B
+CharaName_云林寺武僧丙,Yunlin Temple Martial Monk C
+CharaName_云林寺武僧丁,Yunlin Temple Martial Monk D
+CharaName_九流门弟子,Nine Factions Sect Disciple
+CharaName_富家子弟,Rich Young
+CharaName_恶奴,Damn Servants
+CharaName_部落众,Tribal Members
+CharaName_水寨寨众,The villagers in the water village
+CharaName_官兵头子,Soldier Leader
+CharaName_士兵甲,Soldier A
+CharaName_士兵乙,Soldier B
+CharaName_本草门弟子,Herbology Sect  Disciple
+CharaName_山庄弟子,Manor Disciple
+CharaName_成年雪豹,Adult Snow Leopard
+CharaName_富商护卫甲,Rich Merchant Guard A
+CharaName_富商护卫丙,Rich Merchant Guard C
+CharaName_富商护卫丁,Rich Merchant Guard D
+CharaName_差役头子,Bailiff Leader
+CharaName_差役甲,Bailiff A
+CharaName_差役乙,Bailiff B
+CharaName_神捕门弟子,Crime Investigation Bureau Disciple
+CharaName_考核教官,Assessment instructor
+CharaName_跟班甲,Attendant A
+CharaName_摸金门弟子,Tomb Raider Sect Disciple
+CharaName_青风寨弟兄,Blue Wind Camp Brothers
+CharaName_叶家军士兵,Ye Family Battalion Soldier
+CharaName_冷皮帮帮众,Cold Skin Gang Disciple
+CharaName_壮汉甲,Strong Man A
+CharaName_壮汉乙,Strong Man B
+CharaName_壮汉丙,Strong Man C
+CharaName_圣火宗弟子,Divine Flame Sect Disciple
+CharaName_考核将军,Assessment General
+CharaName_醋小虾,Chu Xiaoxia
+CharaName_冷峻的声音,A cold and stern voice
+CharaName_真正的陈家带话小哥,The real messenger boy from the Chen family
+CharaName_狂放不羁的书生,Arrogant and unruly scholar
+CharaName_重伤的僧人,Severely injured monk
+CharaName_获救的僧人,The rescued monk
+CharaName_医僧,Medical Monk
+CharaName_戏腔女声,Dramatic female voice
+CharaName_戏腔男声,Dramatic male voice
+CharaName_剑阁弟子,Sword Pavilion Disciple
+CharaName_上官,Shangguan
+CharaName_欧阳,Ouyang
+CharaName_夏侯,Xiahou
+CharaName_诸葛,Zhuge
+CharaName_东方,Dongfang
+CharaName_李,Li
+CharaName_王,Wang
+CharaName_冯,Feng
+CharaName_褚,Chu
+CharaName_蒋,Jiang
+CharaName_沈,Shen
+CharaName_韩,Han
+CharaName_杨,Yang
+CharaName_秦,Qin
+CharaName_尤,You
+CharaName_许,Xu
+CharaName_何,He
+CharaName_吕,Lv
+CharaName_施,Shi
+CharaName_孔,Kong
+CharaName_曹,Cao
+CharaName_严,Yan
+CharaName_华,Hua
+CharaName_金,Jin
+CharaName_魏,Wei
+CharaName_姜,Jiang
+CharaName_喻,Yu
+CharaName_水,Shui
+CharaName_窦,Dou
+CharaName_云,Yun
+CharaName_苏,Su
+CharaName_潘,Pan
+CharaName_葛,Ge
+CharaName_奚,Xi
+CharaName_范,Fan
+CharaName_彭,Peng
+CharaName_郎,Lang
+CharaName_韦,Wei
+CharaName_昌,Chang
+CharaName_马,Ma
+CharaName_苗,Miao
+CharaName_凤,Feng
+CharaName_花,Hua
+CharaName_方,Fang
+CharaName_任,Ren
+CharaName_袁,Yuan
+CharaName_柳,Liu
+CharaName_鲍,Bao
+CharaName_史,Shi
+CharaName_岳,Yue
+CharaName_过,Guo
+CharaName_清扬,Qingyang
+CharaName_寻欢,Xunhuan
+CharaName_春秋,Chunqiu
+CharaName_杀神,Shashen
+CharaName_惊云,Jingyun
+CharaName_无极,Wuji
+CharaName_一海,Yihai
+CharaName_行烈,Liexing
+CharaName_绝天,Juetian
+CharaName_南天,Nantian
+CharaName_北海,Beihai
+CharaName_通神,Tongshen
+CharaName_杨俊,Yangjun
+CharaName_枫,Feng
+CharaName_听雪,Tingxue
+CharaName_清远,Qingyuan
+CharaName_黎明,Liming
+CharaName_清烈,Qinglie
+CharaName_之轩,Zhixuan
+CharaName_翻云,Fanyun
+CharaName_泰来,Tailai
+CharaName_重阳,Chongyang
+CharaName_康,Kang
+CharaName_千叶,Qianye
+CharaName_善均,Shanjun
+CharaName_杀,Sha
+CharaName_金虹,Jinhong
+CharaName_无望,Wuwang
+CharaName_璧,Bi
+CharaName_城,Cheng
+CharaName_神逸,Shenyi
+CharaName_逊,Xun
+CharaName_若海,Ruohai
+CharaName_志平,Zhiping
+CharaName_无缺,Wuque
+CharaName_铮,Zheng
+CharaName_宝驹,Baoju
+CharaName_摩智,Mozhi
+CharaName_冲,Chong
+CharaName_无忌,Wuji
+CharaName_铁心,Tiexin
+CharaName_开,Kai
+CharaName_毅山,Yishan
+CharaName_啸天,Xiaotian
+CharaName_我行,Woxing
+CharaName_伯通,Botong
+CharaName_孤城,Gucheng
+CharaName_摘星,Zhaixing
+CharaName_春华,Chunhua
+CharaName_开泰,Kaitai
+CharaName_靖,Jing
+CharaName_锋,Feng
+CharaName_誉,Yu
+CharaName_秋,Qiu
+CharaName_尹,Yi
+CharaName_梦,Meng
+CharaName_八月,Bayue
+CharaName_嫣嫣,YanYan
+CharaName_婉清,Wanqing
+CharaName_月,Yue
+CharaName_绮思,Qisi
+CharaName_莲花,Lianhua
+CharaName_恋碟,Liandie
+CharaName_韵,Yun
+CharaName_浅浅,Qianqian
+CharaName_思晴,Siqing
+CharaName_媚娘,Meiniang
+CharaName_芙蓉,Furong
+CharaName_夏沫,Xiamo
+CharaName_缇娜,Tina
+CharaName_幽妍,Youyan
+CharaName_屏蔚,PingWei
+CharaName_蓝樱,Lanying
+CharaName_朵姬,Duoji
+CharaName_夜旋,Yexuan
+CharaName_璎珞,Yingluo
+CharaName_颜离,Yanli
+CharaName_如烟,Ruyan
+CharaName_清沙,Qingsha
+CharaName_婉儿,Waner
+CharaName_慕樱,Muying
+CharaName_莫奈,Monai
+CharaName_依娜,Yina
+CharaName_丹,Dan
+CharaName_刘,Liu
+CharaName_释心,Shixin
+CharaName_释名,Shiming
+CharaName_释我,Shiwo
+CharaName_释空,Shikong
+CharaName_释能,Shineng
+CharaName_释净,Shijing
+CharaName_释德,Shide
+CharaName_释惠,Shihui
+CharaName_清,Qing
+CharaName_杨子,Yangzi
+CharaName_崖子,Yazi
+CharaName_书远,Shuyuan
+CharaName_腾,Teng
+CharaName_狞,Ning
+CharaName_大力,Dali
+CharaName_石,Shi
+CharaName_大,Da
+CharaName_二,Er
+CharaName_三,San
+CharaName_无惧,Wuju
+CharaName_无畏,Wuwei
+CharaName_无敌,Wudi
+CharaName_琴,Qin
+CharaName_行健,Xingjian
+CharaName_大牛,Daniu
+CharaName_老二,Laoer
+CharaName_无八,Wuba
+CharaName_子,Zi
+CharaName_屑,Xue
+CharaName_狗,Gou
+CharaName_朋,Peng
+CharaName_儒圣馆弟子,Confucius Temple Disciple
+CharaName_黑子,Black Piece
+CharaName_白子,White Piece
+CharaName_年轻女子,Young Woman
+CharaName_神秘人,Mysterious Man
+CharaName_山贼-甲,Mountain Bandit-A
+CharaName_山贼-乙,Mountain Bandit-B
+CharaName_狼,Wolf
+CharaName_野猪,Wild Boar
+CharaName_祭酒,Libationer
+CharaName_妙音坊弟子,Melody House Disciple
+CharaName_家丁,Servant
+CharaName_蝮蛇,Viper
+CharaName_毒蝎,Poisonous Scorpion
+CharaName_猛虎,Fierce Tiger
+CharaName_燕子窝弟子,Swallow Nest disciple
+CharaName_镖师,Escort master
+CharaName_机关人,Machinery Man
+CharaName_西域商人,Western merchant
+CharaName_个性跳脱的画师,Eccentric painter
+CharaName_清冷无言的女子,Cold and silent woman
+CharaName_不苟言笑的道士,A serious Taoist
+CharaName_guid-1主角,Vinegar Shrimp
+CharaName_女子,Woman
+CharaName_商人,Merchant
+CharaName_阴狠的流浪刀客,Sinister Wandering Swordsman
+CharaName_滑稽的怪异老者,Funny Weird Old Man
+CharaName_嚣张的江湖剑客,Arrogant Wandering Swordsman
+CharaName_满头大汗的铁匠,Sweating Blacksmith
+CharaName_普普通通的老人,Ordinary Old Man
+CharaName_鬼手神匠,Ghost Hand Divine Craftsman
+CharaName_冷酷的流浪刀客,Cold Wandering Swordsman
+CharaName_无名,Nameless
+CharaName_通天塔主人,Sky Breaker Tower Master
+CharaName_雄赳赳,Heroic
+CharaName_咯咯哒,Giggling
+CharaName_冷峻的江湖刀客,The stern martial artist with a knife
+CharaName_帅气的江湖剑客,The handsome martial artist with a sword
+CharaName_喽啰甲,Thug A
+CharaName_喽啰乙,Thug B
+CharaName_门派余孽甲,Sect Remnant A
+CharaName_门派余孽乙,Sect Remnant B
+CharaName_扶摇子,Fu Yaozi
+CharaName_醋,Vinegar
+CharaName_小虾,Shrimp
+CharaName_一枝花,Yi Zhihua
+CharaName_山贼,Mountain Bandit
+CharaName_村长,Village Head
+CharaName_小宝,Xiao Bao
+CharaName_山贼甲,Brigand A
+CharaName_山贼乙,Brigand B
+CharaName_山贼丙,Brigand C
+CharaName_丁小姐,Miss Ding
+CharaName_丁员外,Ding the merchant
+CharaName_官府特使,Official Envoy
+CharaName_康王,Duke Kang
+CharaName_柳生,Liu Sheng
+CharaName_服部,Hattori
+CharaName_完颜,Wan Yan
+CharaName_柴王,Chai Wang
+CharaName_佟,Tong
+CharaName_建炎皇帝,Jian Yan Emperor
+CharaName_魔化柴王,Demonize · Chai Wang
+CharaName_游击将军,Guerrilla General
+CharaName_官兵甲,Soldier A
+CharaName_官兵乙,Soldier B
+CharaName_官兵丙,Soldier C
+CharaName_皇城司太监,Imperial City Office Eunuch
+CharaName_康王府管事,Duke Kang's manor Steward
+CharaName_康王府精英护卫,Elite Guard of Duke Kang's Mansion
+CharaName_背嵬军,Beiwei Army
+CharaName_斋藤,Saito
+CharaName_月咏,Tsukuyomi
+CharaName_计,Ji
+CharaName_包,Pack
+CharaName_郎中,Doctor
+CharaName_屠户,Butcher
+CharaName_猎户,Hunter
+CharaName_江湖人,Rivers and Lakes People
+CharaName_萧,Xiao
+CharaName_狂妄的西域高手,Arrogant Western Master
+CharaName_霸道的西域高手,Tyrannical Western Master
+CharaName_毒舌的西域高手,Sarcastic Western Master
+CharaName_阴气森森的机关傀儡,Eerie Automaton
+CharaName_巨大机关傀儡,Giant Automaton
+CharaName_白猿,White Ape
+CharaName_酒坊掌柜,Tavern Keeper
+CharaName_神色怪异的小二,Odd-looking Waiter
+CharaName_蚍蜉城精英忍者甲,Elite Ninja A of Pifeng City
+CharaName_蚍蜉城精英忍者乙,Elite Ninja B of Pifeng City
+CharaName_蚍蜉城精英忍者丙,Elite Ninja C of Pifeng City
+CharaName_剑贫,Jian Pin
+CharaName_一脸不屑的剑客,Contemptuous Swordsman
+CharaName_狼狈为奸的师弟,Conspiring Junior Brother
+CharaName_夺命书生,Deadly Scholar
+CharaName_快剑郎君,Swift Sword Gentleman
+CharaName_青衣神剑,Green-clad Sword Saint
+CharaName_巴山道人,Bashan Taoist
+CharaName_一脸满足的老者,Satisfied Old Man
+CharaName_平静安详的老妪,Serene Old Woman
+CharaName_厨子,Cook
+CharaName_幼童,Child
+CharaName_黑衣杀手,Assassin in Black
+CharaName_凶横的护卫,Fierce Guard
+CharaName_赵老爷,Zhao Laoye
+CharaName_燕军将领,Yan Army General
+CharaName_三花猫,San Hua Cat
+CharaName_野狼,Wild Wolf
+CharaName_官兵,Soldier
+CharaName_惊鸾杀手,Jing Luan Assassin
+CharaName_黑衣人首领,Leader in Black
+CharaName_黑衣人,Man in black
+CharaName_保国寺住持,Baoguo Temple Abbot
+CharaName_一身正气的道士,Righteous Taoist
+CharaName_义正言辞的刀客,Righteous Swordsman
+CharaName_怒气冲冲的镖师,Furious Escort Master
+CharaName_大义凛然的侠客,Noble Swordsman
+CharaName_老汉,Old Man
+CharaName_九黎族人,Jiuli Tribesman
+CharaName_蚍蜉城上忍,Pifeng City Senior Ninja
+CharaName_蚍蜉城忍者,Pifeng City Ninja
+CharaName_铁面人,Tie Mianren
+CharaName_新九流门徒,New Nine Streams Disciple
+CharaName_面人小贩,Noodle Vendor
+CharaName_糖葫芦小贩,Candied Fruit Vendor
+CharaName_朝地一棍,Ground-striking Staff
+CharaName_定关西,Ding Guanxi
+CharaName_笑面太岁,Smiling Tai Sui
+CharaName_捕头,Constable
+CharaName_捕快,Constable
+CharaName_守门弟子,Gatekeeping Disciple
+CharaName_师爷,Clerk
+CharaName_赌徒,Gambler
+CharaName_得意洋洋的江湖人,Proud Jianghu Man
+CharaName_如痴如醉的官兵甲,Infatuated Soldier A
+CharaName_如痴如醉的官兵乙,Infatuated Soldier B
+CharaName_满脸冷酷的将军,Cold-faced General
+CharaName_护院,Guardian
+CharaName_夫人,Lady
+CharaName_老爷,Master
+CharaName_李老板,Boss Li
+CharaName_丁老板,Boss Ding
+CharaName_陈老板,Boss Chen
+CharaName_伙计,Clerk
+CharaName_古墓巨蝎,Ancient Tomb Giant Scorpion
+CharaName_巨蜥,Giant Lizard
+CharaName_群芳馆侍女,Qunfang Pavilion Maid
+CharaName_武师,Martial Arts Trainer
+CharaName_书生,Scholar
+CharaName_混混,Ruffian
+CharaName_雪绒,Snow Velvet
+CharaName_魔化蔡元常,Demonize · Cai Yuanchang
+CharaName_容貌俊秀的公子,Handsome Young Master
+CharaName_兴致勃勃的富商,Enthusiastic Merchant
+CharaName_影武者,Shadow Warrior
+CharaName_燕,Yan
+CharaName_古墓傀儡,Ancient Tomb Automaton
+CharaName_火蜥蜴,Salamander
+CharaName_马匪首领,Horse Bandit Leader
+CharaName_马匪,Horse Bandit
+CharaName_说书人,Shuo Shuren
+CharaName_蔡,Cai
+CharaName_残棋,Can Qi
+CharaName_书,Book
+CharaName_画,Painting
+CharaName_哑,Mute
+CharaName_重,Heavy
+CharaName_邋遢张,La Tazhang
+CharaName_长春子,Chang Chunzi
+CharaName_慧元,Hui Yuan
+CharaName_华严,Hua Yan
+CharaName_癞头癫,Lai Toudian
+CharaName_释愚,Shi Yu
+CharaName_释厄,Shi E
+CharaName_付,Fu
+CharaName_顾,Gu
+CharaName_鱼,鱼
+CharaName_定,Ding
+CharaName_曲,Qu
+CharaName_唐,Tang
+CharaName_老猎人,Old Hunter
+CharaName_陆,Lu
+CharaName_步,Bu
+CharaName_洛,Luo
+CharaName_裘,Qiu
+CharaName_命,Life
+CharaName_叶,Ye
+CharaName_霍,Huo
+CharaName_紫,Purple
+CharaName_时,Shi
+CharaName_剑痴,Jian Chi
+CharaName_欧冶,Ouye
+CharaName_独孤,Dugu
+CharaName_疯戏子,Feng Xizi
+CharaName_损道人,Sun Daoren
+CharaName_恶乞丐,E Qigai
+CharaName_凌,Ling
+CharaName_庖,Pao
+CharaName_穆,Mu
+CharaName_夜枭,Ye Xiao
+CharaName_楚,Chu
+CharaName_海棠,Begonia
+CharaName_绛,Jiang
+CharaName_福箐郡主,Princess Fuqing
+CharaName_廖,Liao
+CharaName_燕云铁军,Yan Yun Iron Army
+CharaName_蚍蜉城弟子,Pifeng City Disciple
+CharaName_柴王阁高手,Chaiwangge Expert
+CharaName_燕云铁军守卫（弱）,Yan Yun Iron Army Guard (Weak)
+CharaName_燕云铁军守卫（中）,Yan Yun Iron Army Guard (Medium)
+CharaName_燕云铁军守卫（强）,Yan Yun Iron Army Guard (Strong)
+CharaName_蚍蜉城守卫（弱）,Pifeng City Guard (Weak)
+CharaName_蚍蜉城守卫（中）,Pifeng City Guard (Medium)
+CharaName_蚍蜉城守卫（强）,Pifeng City Guard (Strong)
+CharaName_柴王阁守卫（弱）,Chaiwangge Guard (Weak)
+CharaName_柴王阁守卫（中）,Chaiwangge Guard (Medium)
+CharaName_柴王阁守卫（强）,Chaiwangge Guard (Strong)
+CharaName_守卫（弱）,Guard (Weak)
+CharaName_守卫（中）,Guard (Medium)
+CharaName_守卫（强）,Guard (Strong)
+CharaName_棕熊,Brown Bear
+CharaName_士兵,Soldier
+CharaName_武藏,Musashi
+CharaName_兵卫,Hyobu
+CharaName_乌珠,Wuzhu
+CharaName_道辅,Daofu
+CharaName_久秀,Hisashi
+CharaName_樱羽,Sakuraba
+CharaName_武,Wu
+CharaName_百出,Hyakushutsu
+CharaName_亮,Liang
+CharaName_昭宁,Zhaoning
+CharaName_打听,Dating
+CharaName_元霸,Yuanba
+CharaName_歌行,Gexing
+CharaName_元常,Yuanchang
+CharaName_攸之,Youzhi
+CharaName_狂,Mad
+CharaName_痴,Fool
+CharaName_阳子,Yangzi
+CharaName_会之,Huizhi
+CharaName_瑶琴,Yaoqin
+CharaName_倾城,Qingcheng
+CharaName_薇儿,Wei'er
+CharaName_木黎,Muli
+CharaName_彩蝶,Colorful Butterfly.
+CharaName_风波,Fengbo
+CharaName_神机,Shenji
+CharaName_忘忧,Wangyou
+CharaName_太君,Taijun
+CharaName_剑南,Jiannan
+CharaName_绝尘,Juechen
+CharaName_青青,Qingqing
+CharaName_天雄,Tianxiong
+CharaName_之墨,Zhi Mo
+CharaName_千雪,Qianxue
+CharaName_不凡,Bufan
+CharaName_一刀,Yidao
+CharaName_鹏举,Pengju
+CharaName_银瓶,Yinping
+CharaName_诗楼,Shilou
+CharaName_德诺,Denuo
+CharaName_天,days
+CharaName_文修,Coinxiu
+CharaName_红玉,Hongyu
+CharaName_无欺,Wuqi
+CharaName_恒,Heng
+CharaName_剑一,Jianyi
+CharaName_梦蝶,Dream Butterfly
+CharaName_再兴,Rebirth
+CharaName_狂生,Mad Life
+CharaName_璇玑,Xuanji
+CharaName_罗冲,Luo Chong
+CharaName_紫烟,Purple Smoke
+CharaName_如蕊,Ruru
+CharaName_月龙,Yuelong
+CharaName_鸿轩,Hongxuan
+CharaName_白头翁,Old man with white hair
+CharaName_十八,Eighteen

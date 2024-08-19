@@ -143,24 +143,24 @@ ItemName_dlc寒玉玦,Cold gem
 ItemName_dlc金蚕蛊,Golden silkworm
 ItemName_dlc凤鸟玉佩,Phoenix jade ornament
 ItemName_dlc天穹之印,Seal of the Sky
-ItemName_dlc金疮药(小),C-grade Healing medicine
-ItemName_dlc金疮药(中),B-grade Healing medicine
-ItemName_dlc金疮药(大),A-grade Healing medicine
-ItemName_dlc续命丸(小),C-grade Preservation pill
-ItemName_dlc续命丸(中),B-grade Preservation pill
-ItemName_dlc续命丸(大),A-grade Preservation pill
-ItemName_dlc培元膏(小),C-grade Healing ointment
-ItemName_dlc培元膏(中),B-grade Healing ointment
-ItemName_dlc培元膏(大),A-grade Healing ointment
-ItemName_dlc聚元丹(小),C-grade Recovery pill
-ItemName_dlc聚元丹(中),B-grade Recovery pill
-ItemName_dlc聚元丹(大),A-grade Recovery pill
-ItemName_dlc小还丹(小),C-grade Small pill
-ItemName_dlc小还丹(中),B-grade Small pill
-ItemName_dlc小还丹(大),A-grade Small pill
-ItemName_dlc大还丹(小),C-grade Big pill
-ItemName_dlc大还丹(中),B-grade Big pill
-ItemName_dlc大还丹(大),A-grade Big pill
+ItemName_dlc金疮药(小),Healing powder
+ItemName_dlc金疮药(中),Healing medicine
+ItemName_dlc金疮药(大),Stardew pill
+ItemName_dlc续命丸(小),Regenerate Powder
+ItemName_dlc续命丸(中),Life preservation pill
+ItemName_dlc续命丸(大),Revival pill
+ItemName_dlc培元膏(小),Qi Supplementing Pill
+ItemName_dlc培元膏(中),Healing ointment
+ItemName_dlc培元膏(大),Recovery pill
+ItemName_dlc聚元丹(小),Energy powder
+ItemName_dlc聚元丹(中),Breath Recovery Powder
+ItemName_dlc聚元丹(大),Cultivation Powder
+ItemName_dlc小还丹(小),Small pill
+ItemName_dlc小还丹(中),Big pill
+ItemName_dlc小还丹(大),Nine-times refined pill
+ItemName_dlc大还丹(小),Fragrance preservation pill
+ItemName_dlc大还丹(中),Heavenly King Heart Supplementing Pill
+ItemName_dlc大还丹(大),Full recovery pill
 ItemName_dlc蜜饯果子,Candied fruit
 ItemName_dlc雕花橙子,Carved orange
 ItemName_dlc雪花糕,Milk snow cake
@@ -400,7 +400,7 @@ ItemInfo_dlc犬神刀,"A curved blade from the Great Ant City, capable of catchi
 ItemInfo_dlc龙牙刀,"The treasured blade passed down from generation to generation by the lord of the Great Ant City, it is also a symbol of the lord's status."
 ItemInfo_dlc木箫,A folk instrument made of purple bamboo.
 ItemInfo_dlc花梨琵琶,A lute made of rosewood.
-ItemInfo_dlc窄袖衣,"Clothes worn by ordinary women, thin and light."
+ItemInfo_dlc窄袖衣,"Clothes commonly worn by ordinary people, thin and lightweight."
 ItemInfo_dlc梨花枪,"The spear used by General Yang during his lifetime, engraved with eight fearless small characters ""Drive out the barbarians and restore the mountains and rivers""."
 ItemInfo_dlc霸王枪,"Made of pure steel, weighing ninety-nine and eighty-one catties, it is said to be the weapon used by the King of Western Chu, not everyone can wield it."
 ItemInfo_dlc亮银枪,A shiny long spear that has been well maintained.
@@ -409,7 +409,7 @@ ItemInfo_dlc方天画戟,"It is said to be a weapon used by the ancient war god,
 ItemInfo_dlc龙胆,"A long spear that was once used by a brave general, still sharp after hundreds of years."
 ItemInfo_dlc绢麻衣,"Clothes made of silk and hemp, slightly more comfortable than Cloth."
 ItemInfo_dlc护心铠,"Armor made of iron plates, providing some protection."
-ItemInfo_dlc彩绣香囊,"Exquisite sachets made of colored silk threads, quite popular among women."
+ItemInfo_dlc彩绣香囊,A beautiful sachet made of colored silk threads.
 ItemInfo_dlc盘龙棍,"The stick body has dragon scale carvings, the dragon head and dragon tail at both ends are of different lengths, with great power."
 ItemInfo_dlc齐天棍,"The whole body is golden, with red patterns engraved on it. No one can match its maximum power."
 ItemInfo_dlc金箍铁棒,"An iron rod decorated with gold hoops at both ends, with the words ""Ruyi Jingu Bang, weighing 13,500 jin"" crookedly engraved on it. However, it's not that heavy, and it's not recommended to try to stick it in your ear."
@@ -508,24 +508,24 @@ ItemInfo_dlc寒玉玦,"A jade bracelet made of cold jade, often worn as an acces
 ItemInfo_dlc金蚕蛊,"Legend has it that various poisonous insects are sealed in a jar, and after they kill each other, the last one remaining will be like a golden silkworm, extremely poisonous."
 ItemInfo_dlc凤鸟玉佩,A jade pendant carved in the shape of a phoenix bird.
 ItemInfo_dlc天穹之印,"An incomplete seal, you can vaguely make out the character ""Sky""."
-ItemInfo_dlc金疮药(小),Low-level Medicine.
-ItemInfo_dlc金疮药(中),Average-level Medicine.
-ItemInfo_dlc金疮药(大),"High-level Medicine, not sure if there is an extra-large size."
-ItemInfo_dlc续命丸(小),Low-level Medicine.
-ItemInfo_dlc续命丸(中),Average-level Medicine.
-ItemInfo_dlc续命丸(大),"High-level Medicine, not sure if there is an extra-large size."
-ItemInfo_dlc培元膏(小),Low-level Medicine.
-ItemInfo_dlc培元膏(中),Average-level Medicine.
-ItemInfo_dlc培元膏(大),"High-level Medicine, not sure if there is an extra-large size."
-ItemInfo_dlc聚元丹(小),Low-level Medicine.
-ItemInfo_dlc聚元丹(中),Average-level Medicine.
-ItemInfo_dlc聚元丹(大),"High-level Medicine, not sure if there is an extra-large size."
-ItemInfo_dlc小还丹(小),Low-level Medicine.,โอสถระดับต่ำ
-ItemInfo_dlc小还丹(中),Average-level Medicine.,โอสถระดับกลาง
-ItemInfo_dlc小还丹(大),"High-level Medicine, not sure if there is an extra-large size.",โอสถระดับสูง ส่วนจะมีระดับสุดยอดหรือไม่ ข้ายังไม่ทราบแน่ชัด
-ItemInfo_dlc大还丹(小),Low-level Medicine.,โอสถระดับต่ำ
-ItemInfo_dlc大还丹(中),Average-level Medicine.,โอสถระดับกลาง
-ItemInfo_dlc大还丹(大),"High-level Medicine, not sure if there is an extra-large size.",โอสถระดับสูง ส่วนจะมีระดับสุดยอดหรือไม่ ข้ายังไม่ทราบแน่ชัด
+ItemInfo_dlc金疮药(小),<#d09a09>Usage: Take</color>
+ItemInfo_dlc金疮药(中),<#d09a09>Usage: Take</color>
+ItemInfo_dlc金疮药(大),<#d09a09>Usage: Take</color>
+ItemInfo_dlc续命丸(小),<#d09a09>Usage: Take</color>
+ItemInfo_dlc续命丸(中),<#d09a09>Usage: Take</color>
+ItemInfo_dlc续命丸(大),<#d09a09>Usage: Take</color>
+ItemInfo_dlc培元膏(小),<#d09a09>Usage: Take</color>
+ItemInfo_dlc培元膏(中),<#d09a09>Usage: Take</color>
+ItemInfo_dlc培元膏(大),<#d09a09>Usage: Take</color>
+ItemInfo_dlc聚元丹(小),<#d09a09>Usage: Take</color>
+ItemInfo_dlc聚元丹(中),<#d09a09>Usage: Take</color>
+ItemInfo_dlc聚元丹(大),<#d09a09>Usage: Take</color>
+ItemInfo_dlc小还丹(小),<#d09a09>Usage: Take</color>
+ItemInfo_dlc小还丹(中),<#d09a09>Usage: Take</color>
+ItemInfo_dlc小还丹(大),<#d09a09>Usage: Take</color>
+ItemInfo_dlc大还丹(小),<#d09a09>Usage: Take</color>
+ItemInfo_dlc大还丹(中),<#d09a09>Usage: Take</color>
+ItemInfo_dlc大还丹(大),<#d09a09>Usage: Take</color>
 ItemInfo_dlc蜜饯果子,<#d09a09>Usage: Take</color>,<#d09a09>วิธีใช้ : รับประทาน</color>
 ItemInfo_dlc雕花橙子,<#d09a09>Usage: Take</color>,<#d09a09>วิธีใช้ : รับประทาน</color>
 ItemInfo_dlc雪花糕,<#d09a09>Usage: Take</color>,<#d09a09>วิธีใช้ : รับประทาน</color>
@@ -763,3 +763,13 @@ ItemInfo_dlc神机战匣碎片2,"One of the fragments that make up ""Secret Batt
 ItemInfo_dlc神机战匣碎片3,"One of the fragments that make up ""Secret Battle Box"". It is said that collecting three fragments can form ""Secret Battle Box""."
 ItemName_dlc浩然令,Hao Ran Order
 ItemInfo_dlc浩然令,A certificate from the nameless hero to commend the Defender for his righteousness and contribution to the martial arts world.
+ItemName_dlc凌霄,Piercing the Heavens
+ItemName_dlc湛卢,Legendary Blade Zhan Lu
+ItemInfo_dlc凌霄,"The sect weapon of Langya Sword Pavilion, its Power is extraordinary."
+ItemInfo_dlc湛卢,"The sword forged by Ouye Heng, its Power is beyond ordinary!"
+ItemName_dlc赝品神机战匣,An exceptionally heavy Secret Battle Box
+ItemInfo_dlc赝品神机战匣,"Although it's a counterfeit, its Power is not to be underestimated."
+ItemName_dlc赝品吹雪,Rusty Fubuki
+ItemInfo_dlc赝品吹雪,"Although it's a counterfeit, its Power is not to be underestimated."
+ItemName_dlc赝品斋心,Discolored Shinsai
+ItemInfo_dlc赝品斋心,"Although it's a counterfeit, its Power is not to be underestimated."

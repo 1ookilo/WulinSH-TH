@@ -264,7 +264,7 @@ FactionGuard_19,"If you dare to resist, don't blame me for being rude!",ถ้�
 FactionGuard_20,{PlayerName}! You will pay for your actions today!,{PlayerName}! เจ้าจะต้องชดใช้ต่อการกระทำของเจ้าวันนี้!
 FactionGuard_21,"Humph! If you don't drink the toast, you have to drink the penalty, the crime is increased!",ฮึ่ม! ถ้าเจ้าไม่อยากได้น้ำใจ งั้นเจ้าก็เตรียมรับน้ำโหของข้าไปแทนแล้วกัน! และโทษของเจ้าก็จะเพิ่มมากขึ้น!
 FactionLeader_0,Greeting,คารวะ
-FactionLeader_1,"Has young hero {PlayerSurName} made progress?|Young hero {PlayerSurName}, I hope you are well.",จอมยุทธน้อย {PlayerSurName} ก้าวหน้าขึ้นบ้างหรือเปล่า?|จอมยุทธน้อย {PlayerSurName} ข้าหวังว่าท่านจะสบายดี
+FactionLeader_1,I hope you've been well.|Your skills have improved.
 FactionLeader_2,Spar,ประลอง
 FactionLeader_3,"In a martial arts contest, stop at the right time.",ในการประลองยุทธ โปรดหยุดมือเมื่อรู้ผล
 FactionLeader_4,Make friends,ผูกมิตร
@@ -374,3 +374,8 @@ FactionName_战斗服翠柳,
 FactionName_傅断云,
 FactionName_魏如松,
 FactionName_主将韩安仁,
+FactionName_铁面人个人势力,
+FactionName_DLC2恶乞丐演员1,
+FactionName_DLC2纪府,Ji Residence
+FactionInfo_凰木港,"Located in the southeast, the seaport is a key town for maritime trade in the Zhao Kingdom, with trade routes even extending to the western continent. The famous residence of King Chai in the martial arts world is also here."
+FactionInfo_梅关驿,"A small town developed around the Meishan Pass post station, where travelers passing by would rest."

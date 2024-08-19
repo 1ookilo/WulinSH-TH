@@ -560,7 +560,7 @@ WMapName_2159,Buddha Temple - Last Floor,อารามพุทธะ - ชั
 WMapName_2160,Melody House,ตำหนักบทเพลง
 WMapName_2161,Melody House·Yinfeng Tower,ตำหนักบทเพลง·หอคอยหยินเฟิง
 WMapName_2170,Bandit Chief Stronghold,ค่ายหัวหน้าโจร
-WMapName_2998,Mei Pass Post,สถานีม้าเร็วด่านเหมย
+WMapName_2998,
 WMapName_2999,Training area,ลานฝึก
 WMapName_10010,Emperor Wu Mausoleum,สุสานฮ่องเต้อู่ตี้
 WMapName_10020,Ancient Ruin of Shoufang,ซากปรักหักพังโบราณสถานโชวฟาง
@@ -804,3 +804,26 @@ WMapName_2290,South-East Barbarian Camp,ค่ายคนเถื่อนเ�
 WMapName_2299,South-East Barbarian Camp,ค่ายคนเถื่อนเขตตะวันออกเฉียงใต้
 WMapName_2300,Heavy Rock Reef,ชายหาดโขดหิน
 WMapName_10180,Thousands of Bamboo Creek,ลำธารไผ่พันต้น
+MapName_5027,
+MapName_5067,Outskirts
+MapName_20295,Outside Da Liang City
+MapName_20299,Outside Da Liang City
+MapName_2152,Nine Factions Sect·Disciple Room
+MapName_2153,Five Poisons Cave
+MapName_2981,Endless Pavilion Floor 1
+MapName_2982,Endless Pavilion Floor 2
+MapName_2983,Endless Pavilion Floor 3
+MapName_2984,Endless Pavilion Floor 4
+MapName_2985,Endless Pavilion Floor 5
+MapName_2986,Endless Pavilion Floor 6
+MapName_2310,Ji Residence
+MapName_2311,Ji Residence Main Hall
+MapName_2312,Ji Residence Study
+MapName_2313,Ji Residence Secret Chamber
+MapName_10037,Chu Xiang Suburbs
+MapName_50002,
+WMapName_5027,
+WMapName_5067,Outskirts
+WMapName_2152,Nine Factions Sect·Disciple Room
+WMapName_2153,Five Poisons Cave
+WMapName_2310,Ji Residence

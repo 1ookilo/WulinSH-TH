@@ -1,5 +1,4 @@
-﻿﻿CharaName_NameFormat,{0} {1},{0} {1}
-CharaName_不苟言笑的道士,Serious Taoist,นักพรตเต๋าท่าทีเคร่งเครียด
+﻿﻿CharaName_不苟言笑的道士,Serious Taoist,นักพรตเต๋าท่าทีเคร่งเครียด
 CharaName_深沉阴冷的汉子,Deep and cold man,ชายผู้สุขุมนุ่มลึก
 CharaName_脏兮兮的小乞丐,Dirty little beggar,ขอทานสกปรกตัวน้อย
 CharaName_满脸凶相的大汉,Fierce-looking man,ชายหน้าตาดุดัน
@@ -898,12 +897,12 @@ CharaTitle_儒圣馆,Confucius Temple,วัดขงจื้อ
 CharaTitle_九流门,Nine Factions Sect,นิกายเก้าฝ่าย
 CharaTitle_妙音坊,Melody House,ตำหนักบทเพลง
 CharaTitle_神捕门,Crime Investigation Bureau,สำนักสืบสวน
-CharaTitle_圣火宗,Holy Fire Sect,นิกายไฟศักดิ์สิทธิ์
+CharaTitle_圣火宗,Divine Flame Sect ,นิกายไฟศักดิ์สิทธิ์
 CharaTitle_皇城司,Imperial City Office,สำนักพระราชวัง
 CharaTitle_燕云铁军,Yan Yun Iron Army,กองทัพเหล็กเยี่ยนหยุน
 CharaTitle_叶家军,Ye Family Battalion,กองพันตระกูลเย่
 CharaTitle_蚍蜉城,Great Ant City,เมืองแมลงปอ
-CharaTitle_九江水寨,Jiujiang Fotress,ค่ายน้ำจิ่วเจียง
+CharaTitle_九江水寨,Jiujiang Fortress,ค่ายน้ำจิ่วเจียง
 CharaTitle_九黎部落,Jiuli Tribe,เผ่าจิ่วลี่
 CharaTitle_脏街,Dirty Street,ตรอกเล้าหมู
 CharaTitle_摸金门,Tomb Raider Sect,สำนักปล้นสุสาน
@@ -911,7 +910,7 @@ CharaTitle_玄衣会,Black Robe Group,กลุ่มเสื้อคลุม
 CharaTitle_燕子窝,Swallow Nest,รังนกนางแอ่น
 CharaTitle_虎威镖局,Tiger Escort ,สำนักคุ้มภัยพยัคฆา
 CharaTitle_琅琊剑阁,Langya Sword Pavilion,สำนักกระบี่หลางหยา
-CharaTitle_万兽山庄,Ten Thousand Beast Manor,หมู่ตึกหมื่นอสูร
+CharaTitle_万兽山庄,Beast Manor,หมู่ตึกหมื่นอสูร
 CharaTitle_冷皮帮,Cold Skin Gang,พรรคมังสาเหมันต์
 CharaTitle_夜摩坊,Night Auction Market,ตลาดประมูลราตรี
 CharaTitle_海龙帮,Sea Dragon Gang,พรรคมังกรสมุทร 
@@ -1205,3 +1204,148 @@ CharaName_一身酒气的百夫长,A centurion full of alcohol aura,นายร
 CharaName_糖葫芦小孩,Kid with sugarplums,เจ้าหนูกับลูกพลัมน้ำตาล
 CharaName_皇城司士兵,Imperial City Office Soldier,ทหารสำนักพระราชวัง
 CharaTitle_锦阳关,Jin Yang Gate,ประตูจินหยาง
+CharaName_一身黑衣的文人,Scholar in Black
+CharaName_打扮奇怪的男子,Man in Strange Clothes
+CharaName_自命不凡的道人,Pretentious Taoist
+CharaName_臭气熏天的乞丐,Stinking Beggar
+CharaName_戴着斗笠的刀客,Swordsman with a Conical Hat
+CharaName_长相帅气的公子哥,Handsome Rich Youth
+CharaName_粉衣女子,Woman in Pink
+CharaName_绿衣女子,Woman in Green
+CharaName_绿衣蒙面女子,Masked Woman in Green
+CharaName_蛮不讲理的汉子,Unreasonable Man
+CharaName_霸气外露的壮汉,Dominating Man
+CharaName_脸上有疤的壮汉,Strong Man with a Scar
+CharaName_穿着旧衣的家丁,Servant in Old Clothes
+CharaName_不卑不亢的将军,Honorable General
+CharaName_昏迷的海寇,Unconscious Pirate
+CharaName_卢云龙,Lu Yunlong
+CharaName_掘地虫,Jue Dichong
+CharaName_一参道人,One Enlightened Taoist
+CharaName_莫远,Mo Yuan
+CharaName_陆沉轩,Shen Chenxuan
+CharaName_韩子都,Han Zidu
+CharaName_春杏,Chun Xing
+CharaName_岸芷,An Zhi
+CharaName_傅断云,Fu Duanyun
+CharaName_王虎,Wang Hu
+CharaName_田武,Tian Wu
+CharaName_魏如松,Wei Rusong
+CharaName_船底虱,Chuan Dishi
+CharaName_韩安仁,Han Anren
+CharaName_踏风,Ta Feng
+CharaName_丹宸,Dan Chen
+CharaName_班主,Troupe Leader
+CharaName_戏班成员,Troupe Member
+CharaName_工人,Laborer
+CharaName_舞女,Dancing Girl
+CharaName_杨明,Yang Ming
+CharaName_富户,Rich Merchant
+CharaName_看庙奶奶,Temple Watcher Granny
+CharaName_文质彬彬的读书人,Cultured Scholar
+CharaName_猪,Pig
+CharaName_小队长,Squad Leader
+CharaName_海寇,Pirate
+CharaName_队长,Captain
+CharaName_吴六,Wu Liu
+CharaName_珀斯商人,Perth Merchant
+CharaName_蛮不讲理的江湖人,Unreasonable Vagabond
+CharaName_斋藤,Saito
+CharaName_久秀,Hisahide
+CharaName_谨慎小心的书生,Cautious Scholar
+CharaName_面相白净的来客,Guest with a Clean Face
+CharaName_精明市侩的商人,Shrewd Merchant
+CharaName_颐指气使的官员,Bossy Officer
+CharaName_满面煞气的将军,General with a Fierce Face
+CharaName_獐头鼠目的商人,Merchant with a Cunning Face
+CharaName_恶徒甲,Villain A
+CharaName_恶徒乙,Villain B
+CharaName_恶徒丙,Villain C
+CharaName_恶徒丁,Villain D
+CharaName_夜摩坊管事,Night Auction Market Steward
+CharaName_夜摩坊护卫,Night Auction Market Guard
+CharaName_排队的赌徒,Gambler in Line
+CharaName_排队的武人,Warrior in Line
+CharaName_排队的路人,Passer-by in Line
+CharaName_江湖武人,Vagabond Warrior
+CharaName_光鲜公子,Elegant Rich Youth
+CharaName_台下看客,Spectator Near the Stage
+CharaName_郑家公子,Young Master of Zheng Family
+CharaName_郑家帮手,Helper of Zheng Family
+CharaName_郑家管家,Butler of Zheng Family
+CharaName_命苦百姓,Unfortunate Commoner
+CharaName_郑家打手,Henchman of Zheng Family
+CharaName_月老祠老年游客,Senior Visitor of God of Marriage's Shrine
+CharaName_月老祠中年游客,Mid-aged Visitor of God of Marriage's Shrine
+CharaName_月老祠少年游客,Young Visitor of God of Marriage's Shrine
+CharaName_太学馆门生,Student of the Imperial School
+CharaName_脚步迅捷的小孩,Quick-footed Kid
+CharaName_壮如青兕的青年,Youth Strong as a Bull
+CharaName_富贵公子,Rich Youth
+CharaName_霖安城市民,Lin'an Resident
+CharaName_卖柴火的小男孩,Little Firewood Boy
+CharaName_卖柴火的小女孩,Little Firewood Girl
+CharaName_醉中人,Drunkard
+CharaName_太白楼伙计,Wine God Tower Attendant
+CharaName_排队的乞丐,Beggar in Line
+CharaName_翠玉,Cui Yu
+CharaName_烟昙,Yan Tan
+CharaName_李公子,Li Gongzi
+CharaName_赖狗三,Lai Gousan
+CharaName_吕建仁,Lv Jianren
+CharaName_王公公,Wang Gonggong
+CharaName_陈光州,Chen Guangzhou
+CharaName_施翰林,Shi Hanlin
+CharaName_姚将军,general Yao
+CharaName_钻地鼠,Zuan Dishu
+CharaName_歌女,Singer Girl
+CharaName_顾客,Customer
+CharaName_眼神坚定的汉子,Man with Firm Eyes
+CharaName_舞狮演员,Lion Dancer
+CharaName_监市,Market Regulator
+CharaName_鬼鬼祟祟的人,Sneaky Person
+CharaName_虞姬,Consort Yu
+CharaName_霸王,Hegemon-King
+CharaName_神情清冷的女子,unconcerned woman
+CharaName_一脸正经的道人,Stern Taoist
+CharaName_白衣服的书生,Scholar in White
+CharaName_平平无奇的僧人,Ordinary Monk
+CharaName_医馆郎中,Clinic Doctor
+CharaName_纪,Ji
+CharaName_茯苓,Fuling
+CharaName_汉卿,Hanqing
+CharaName_卫由子,Wei Youzi
+CharaName_黄文秉,Huang Wenbing
+CharaName_释言,Shi Yan
+CharaName_吝掌柜,Lin Shopkeeper
+CharaName_水系机关人,Water Automaton
+CharaName_木系机关人,Wood Automaton
+CharaName_火系机关人,Fire Automaton
+CharaName_土系机关人,Earth Automaton
+CharaName_金系机关人,Metal Automaton
+CharaName_全系机关人,Universal Automaton
+CharaName_监斩官,Execution Officer
+CharaName_囚犯,Prisoner
+CharaName_刽子手,Executioner
+CharaName_首领,Leader
+CharaName_鬼面人,Masked Figure
+CharaName_青风寨山贼,Blue Wind Camp Mountain Bandit
+CharaName_不起眼的汉子,An unremarkable man
+CharaName_孩童,Child
+CharaName_叶家军将军,Ye Family Battalion General
+CharaName_叶家军士兵,Ye Family Battalion Soldier
+CharaName_主将,Commander
+CharaName_霖安城守将,Guard of Lin'an City
+CharaName_霖安城女子,Woman of Lin'an City
+CharaName_霖安城老学究,Old scholar of Lin'an City
+CharaName_霖安城孩童,Child of Lin'an City
+CharaTitle_黑衣相士,Fortune-teller in Black
+CharaTitle_逍遥丐,Carefree Beggar
+CharaTitle_玉面公子,Youth with a Beautiful Face
+CharaTitle_金刀,Golden Sword
+CharaTitle_斩天刀,Sky Slayer Sword
+CharaTitle_侍女,Maid
+CharaTitle_探事司,Investigation Officer
+CharaTitle_越蛮,South-East Barbarian
+CharaTitle_黑衣人,Man in black
+CharaName_NameFormat,{0} {1}

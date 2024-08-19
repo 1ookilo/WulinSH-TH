@@ -210,7 +210,7 @@ tag16_chuanwen1_0,South-East Barbarian Camp,ค่ายคนเถื่อน
 tag16_chuanwen1_1,"A note found in the South-East Barbarian Camp reads: ""...Three days, fifty long spears, thirty bows, two hundred arrows. Five days, received three jars of wine from Duke Chai's Tower, three thousand taels of silver... Fifteen days, Blade Destruction Army arrived..."""
 tag16_chuanwen1_2,"A total of three thousand taels of silver were found in the South-East Barbarian Camp, with the words ""Chai Ming"" on them."
 tag16_chuanwen2_0,Surging Waves Escort
-tag16_chuanwen2_1,The lost goods of the Surging Waves Escort were all transported by water from Phoenix Woods Harbor.
+tag16_chuanwen2_1,"The goods lost by the Surging Waves Escort were all after leaving Phoenix Woods Harbor, taking the water route Upstream walk."
 tag16_chuanwen3_0,Sea Goddess Temple,วิหารเทพธิดาเจ้าสมุทร
 tag16_chuanwen3_1,The child of the temple keeper at the Sea Goddess Temple is a refined young man who is addicted to gambling at the Roaring Sea House.,ได้ยินมาว่าเจ้าหนุ่มน้อยคนเฝ้าวิหารเทพธิดาเจ้าสมุทร ถึงรูปร่างจะดูดีมีชาติตระกูล แต่ก็ติดพนันที่ตำหนักทะเลครวญจนงอมแงมเชียวล่ะ
 tag16_chuanwen4_0,Roaring Sea House,ตำหนักทะเลครวญ
@@ -232,3 +232,8 @@ tag16_chuanwen7_8,"Perhaps because it rained during the day, the thatched roof o
 tag16_chuanwen7_9,"There were signs of a fight in the Liao family's house, and one side was using a knife."
 tag16_chuanwen8_0,Mei Pass Post Station,ด่านเหมย - ที่ทำการสถานีม้าเร็ว
 tag16_chuanwen8_1,"At the post station of Mei Pass Post, you can stay as long as you answer the soldier ""Under the sky, all land belongs to the king"".","ตรงที่สถานีม้าเร็วด่านเหมย เพียงแต่ตอบทหารยามว่า ""ใต้หล้านี้ ทุกผืนแผ่นดินล้วนเป็นของท่านอ๋อง"" ก็สามารถเข้าพักได้"
+tag6_chuanwen15_0,Peak of Jianghu
+tag6_chuanwen15_1,"To become the Peak of Jianghu, your Fame must reach <color=#097a76>Revered</color>, and you must win in the Daliang City Sky Arena, and challenge either the head of the Taoist Sect, Confucius Temple, or Shifa Temple."
+tag17,Nine Factions Sect
+tag17_chuanwen1_0,Infinite Pavilion
+tag17_chuanwen1_1,"The Infinite Pavilion of the Nine Factions Sect is uniquely constructed, with a Machinery ManGuard on each floor. Everyone will be exhausted after a fight, the reason for this remains a mystery."

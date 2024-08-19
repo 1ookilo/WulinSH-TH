@@ -73,7 +73,7 @@ R10049-2_overview3,Take Liu Yueying to Daliang City Glittering Artifact Auction.
 R10049-2_overview4,Take Liu Yueying to Daliang City Tower of Prosperity.,พาหลิวเยว่อิงไปที่หอเจิดจรัสในเมืองต้าเหลียง
 R10049-2_overview5,Help the child find his lost family with Liu Yueying.,ช่วยเหลือเด็กน้อยตามหาผู้ปกครองของเขากับหลิวเยว่อิง
 R10049-2_overview6,Take Liu Yueying to Daliang City Baoguo Temple.,พาหลิวเยว่อิงไปที่วัดเป่ากั๋ว
-R10049-2_overview7,Find Liu Yueying's lost hair ornament,ตามหาปิ่นปักผมที่หายไปของหลิวเยว่อิง
+R10049-2_overview7,Find Liu Yueying's lost hair ornament.
 R10049-2-1_name,Lost child,เด็กหลง
 R10049-2-1_Talking,Child,เด็ก
 R10049-2-1_overview1,"Help the lost child find his family. (Possibly wearing pink clothes, the SweetsMerchant at the small market may remember)",ช่วยเหลือเด็กน้อยที่หลงทาง ให้ได้พบครอบครัวของเขา (อาจสวมเสื้อผ้าสีชมพู พ่อค้าขนมหวานในตลาดเล็ก อาจจำได้)
@@ -91,7 +91,7 @@ R10049-11_name,Dragonflies scatter,แมลงปอแตกรังบิน
 R10049-11_overview1,Go with Tsukuyo Sakuraha to borrow a boat from the owner of Deep Snow Manor to go to Great Ant City.,เดินทางไปยืมเรือจากเจ้าหมู่ตึกหิมะ เพื่อใช้ไปยัง เมืองแมลงปอกับซึคุโยะ ซากุระฮะ
 R10054-4_name,Night Market Good Friend,ตลาดยามราตรี สหายแสนดี
 R10054-4_talk,Chat,สนทนา
-R10054-4_overview1,Night Auction Market owner Shen Wuqi invites you to have tea and chat at the Night Auction Market.,เจ้าของตลาดประมูลราตรี เสินอู๋ฉี ชวนท่านไปจิบน้ำชาและสนทนายังตลาดประมูลราตรี
+R10054-4_overview1,"The owner of Night Auction Market, Shen Wuqi, invites you to have a drink and chat at the Night Auction Market."
 R10054-4_overview2,Go to the auction stand at the Night Auction Market to see how much Shen Wuqi has lost.,ไปยังแท่นประมูลในงานประมูลของตลาดประมูลราตรี เพื่อดูว่า เสิ่นอู๋ฉี เสียเงินไปเท่าไหร่แล้ว
 R10054-4_overview3,Go to Daliang City with Shen Wuqi to find clues about the account book.,ไปที่เมืองต้าเหลียงพร้อมกับเสิ่นอู๋ฉีเพื่อหาเบาะแสของสมุดบัญชี
 R10054-4_overview4,"Shen Wuqi wants to hire you to find the account book in Daliang City, you can find him at the Night Auction Market.",เสิ่นอู๋ฉี ต้องการจ้างวานให้ท่านไปหาสมุดบัญชีในเมืองต้าเหลียง ท่านสามารถพบเขาได้ที่ตลาดประมูลราตรี
@@ -110,7 +110,7 @@ R10046-3_overview2,Dugu Jianyi hopes you can go with him to participate in the u
 R10046-3_overview3,Join Dugu Jianyi in the underground Arena of Lin'an City.,ร่วมการประลองใต้ดินในเมืองหลินอันกับ ตูกู เจี้ยนอี้
 R10046-3_overview4,Dugu Jianyi suggests bringing Ouye Heng to participate in the underground Arena.,ตูกู เจี้ยนอี้ เสนอให้พาอู๋เหว่ยเหิงไปร่วมการประลองใต้ดิน
 R10046-3_overview5,Join Dugu Jianyi in the underground Arena of Lin'an City.,ร่วมการประลองใต้ดินในเมืองหลินอันกับ ตูกู เจี้ยนอี้
-R10046-3_overview6,Join Dugu Jianyi in hunting down the prodigal son in Wuyue Region.,เข้าร่วม ล่าตัวลูกชายหัวเน่าในแคว้นอู่เย่ กับตูกู เจี้ยนอี้
+R10046-3_overview6,Go with Dugu Jianyi to Wuyue Region to hunt down the Young Master of Zheng Family.
 Role3-26_NPCname20,A majestic voice.,เสียงอันทรงอำนาจ
 Role3-26_NPCname21,Rough voice,เสียงแข็งกร้าว
 R10008-8_name,Only because I am in this mountain,ใบหน้าแท้จริงของเขาหลูซาน
@@ -119,7 +119,7 @@ R10008-8_overview1,Check if Ling Mengdie has found the answer she wants.,ดู�
 R10008-8_overview2,Go to God of Marriage's Shrine with Ling Mengdie alone to seek the answer she wants.,ไปยังศาลเทพเจ้าด้ายแดงกับหลิงเมิ่งเตี๋ย เพียงสองคน เพื่อตามหาคำตอบที่นางตามหา
 R10008-8_overview3,Ask other people's stories at God of Marriage's Shrine with Ling Mengdie.,ร่วมฟังเรื่องราวผู้คนจาก ศาลเจ้าเทพเจ้าด้ายแดง กับหลิงเมิ่งเตี๊ย
 R10008-8_overview4,Go to the Imperial School in Daliang City with Ling Hongxuan and Ling Mengdie.,เดินทางไปสำนักบัณฑิตหลวงเมืองต้าเหลียงกับ หลิงหงซวนและหลิงเมิ่งเตี๋ย
-R10008-8_overview5,"Ling Mengdie seems to have something on her mind after forming a bond with you, she might talk to you in a few days.",หลิงเมิ่งเตี๋ยหลังจากผูกสัมพันธ์กับเจ้า ดูเหมือนนางจะมีเรื่องกังวลใจ นางอาจจะมาพูดคุยกับเจ้าในอีกไม่กี่วันข้างหน้า
+R10008-8_overview5,"Ling Mengdie seems to have something on her mind after forming a bond with you, maybe she will talk to you in a few days."
 R10056-5_name,Gratitude is as toxic as poison,"""ความกตัญญูเปรียบเสมือนพิษร้าย"""
 R10056-5_talk,Research,วิจัย
 R10056-5_overview1,"Jiang Ziyan seems to have a dangerous plan that needs a helper, find her after raising Toxicology above 65.",ดูเหมือนเจียงจื่อเยียนจะมีแผนการสุดอันตรายที่ต้องการผู้ช่วย ไปหานางเมื่อทักษะพิษมากกว่า 65 แต้ม
@@ -138,7 +138,7 @@ R10025-6_overview2,Take Lai Toudian to the Dilapidated Temple in Lin'an City.,�
 R10025-6_overview3,"Lai Toudian wants to meditate alone in the Dilapidated Temple in Lin'an City for a while, take him there when you have time.",หล่ายโถ่วเตียน ปรารถนาจะนั่งสมาธิตามลำพังในวัดรกร้างเมืองหลินอันสักพัก พาเขาไปเมื่อท่านมีเวลา
 R10025-6_overview4,"Lai Toudian has been meditating alone in the Dilapidated Temple in Lin'an City for a while, try to stay away from Lin'an City and not disturb him until he has achieved enlightenment.",หล่ายโถ่วเตียน กำลังนั่งสมาธิตามลำพังในวัดรกร้างเมืองหลินอัน พยายามหลีกเลี่ยงเมืองหลินอันและอย่ารบกวนเขาจนกว่าเขาจะบรรลุโพธิญาณ
 R10025-6_overview5,"Lai Toudian has been meditating alone in the Dilapidated Temple in Lin'an City for a while, go to the Dilapidated Temple to check on him.",หล่ายโถ่วเตียน นั่งสมาธิตามลำพังในวัดรกร้างเมืองหลินอันมานานแล้ว ไปที่วัดรกร้างเพื่อดูเขา
-R10025-6_overview6,"Help Lai Toudian collect 50 leaves and 50 pieces of bark, and dry them outdoors outside the Dilapidated Temple for half a shichen after collecting them.",ช่วยหล่ายโถ่วเตียน เก็บใบไม้ 50 ใบ และเปลือกไม้ 50 ชิ้น นำมาตากแดดไว้กลางแจ้งนอกวัดรกร้าง เป็นเวลาครึ่งชั่วยาม
+R10025-6_overview6,Find a suitable place to dry leaves and bark outside the Dilapidated Temple.
 R10025-6_overview7,"Forget about the bark and leaves for now, go back to the Dilapidated Temple in Lin'an City to ask Lai Toudian for clarification.",ลืมเรื่องเปลือกไม้และใบไม้ไปก่อน กลับไปที่วัดรกร้างเมืองหลินอันเพื่อขอคำชี้แจงจาก หล่ายโถ่วเตียน
 R10025-6_overview8,Give Lai Toudian's wine to the three people in line.,แจกเหล้าของหล่ายโถ่วเตียน ให้กับผู้คนทั้งสามที่ยืนต่อแถว
 R10025-6_overview9,"Lai Toudian was captured by the Nine Factions Sect and taken to the Buddha Temple, go rescue him first.",หล่ายโถ่วเตียน ถูกจับโดยนิกายเก้าฝ่าย พาตัวไปที่อารามพุทธะ ไปช่วยเขาก่อน
@@ -181,9 +181,9 @@ DNJH-7-1_overview1,Go to Phoenix Woods HarborGovernment Office and tell Han Anre
 DNJH-7-1_overview2,Go to South-East Barbarian CampInfo situation.,จงมุ่งหน้าสู่ค่ายคนเถื่อนเขตตะวันออกเฉียงใต้ เพื่อสืบหาสถานการณ์
 DNJH-7-1_overview3,Hurry to Mei Pass Post!,ไปด่านเหมยเร็ว!
 DNJH-7-1_overview4,Inform Han Anren about what's going to happen.,แจ้ง หาน อันเหริน เกี่ยวกับเรื่องที่จะเกิดขึ้น
-DNJH-7-1_overview5,"Meet with Lu Yunlong, Han Zidu and Lu Chenxuan in the restaurant and ask if they have any discoveries.","พบกับ หลู่หยุนหลง, หาน จื่อตู้ และ หลูเฉินซวน ในภัตตาคาร และถามว่าพวกเขาพบเจออะไรหรือไม่"
+DNJH-7-1_overview5,"Meet with Lu Yunlong, Han Zidu and Lu Chenxuan in Roaring Sea House and ask what they have found."
 DNJH-7-1_overview6,Go to Phoenix Woods HarborGovernment Office and tell Han Anren about your deductions.,จงมุ่งหน้าสู่ที่ว่าการท่าเรือป่าหงส์ และรายงานข้อสันนิษฐานของเจ้าแก่ หาน อันเหริน
-DNJH-7-1_overview7,
+DNJH-7-1_overview7,Clean up the remaining South-East Barbarians in Mei Pass Post.
 DNJH-7-1_NPCname1,A man's voice,เสียงชายหนุ่ม
 DNJH-7-3_name,Chai King's Mansion,ตำหนักอ๋องไฉ
 DNJH-7-3_overview1,Get ready and enter Duke Chai's Tower to investigate.,เตรียมตัวให้พร้อม และเข้าสู่หอคอยของอ๋องไฉ เพื่อสืบสวน
@@ -191,14 +191,14 @@ DNJH-7-3_NPCname1,A woman's voice,เสียงสตรี
 DNJH-8_name,Distorting right and wrong,แยกแยะชั่วดี
 DNJH-8_NPCname1,Rude voice,เสียงหยาบคาย
 DNJH-8_overview1,Rest well today and wait for tomorrow.,พักผ่อนให้เต็มที่คืนนี้ แล้วพรุ่งนี้ค่อยว่ากันใหม่
-DNJH-8_overview2,Go to Phoenix Woods HarborGovernment Office and meet with Han Anren.,ไปยังศาลาว่าการของท่าเรือป่าหงส์และพบกับ หาน อันเหริน
+DNJH-8_overview2,"Go to Phoenix Woods Harbor Government Office between Chen Shi and You Shi, and meet with Han Anren."
 DNJH-8_NPCname2,Old voice,เสียงชรา
 DNJH-9_name,King Chai's Trial,การไต่สวนอ๋องไฉ
-DNJH-9_overview1,Go to Phoenix Woods HarborGovernment Office in a day to witness King Chai's trial.,ไปยังศาลาว่าการท่าเรือป่าหงส์ในหนึ่งวันเพื่อเป็นพยานการพิจารณาคดีของอ๋องไฉ
-DNJH-9_overview2,Go to Phoenix Woods HarborGovernment Office to witness King Chai's trial.,ไปยังศาลาว่าการท่าเรือป่าหงส์เพื่อเป็นพยานการพิจารณาคดีของอ๋องไฉ
+DNJH-9_overview1,Witness the trial of King Chai at Phoenix Woods Harbor Government Office one day later between Chen Shi and You Shi.
+DNJH-9_overview2,"Go to Phoenix Woods Harbor Government Office between Chen Shi and You Shi, and witness the trial of King Chai."
 DNJH-9_NPCname1,King Chai's voice,เสียงของอ๋องไฉ
 DNJH-10_name,Chai Han Family,ตระกูลไฉหาน
-DNJH-10_overview1,Find and win over Youth with a Beautiful Face Han Zidu in South-East RegionThousands of Bamboo Creek or the tavern.,ตามหาแม่หญิงงามสะคราญล่มเมือง หาน จื่อตู้ ที่หุบไผ่นับพันหรือโรงเตี๊ยมบริเวณนั้น ที่แดนตะวันออกเฉียงใต้ 
+DNJH-10_overview1,Find and win over Youth with a Beautiful Face Han Zidu in South-East Region Thousands of Bamboo Creek or Roaring Sea House.
 DNJH-10_overview2,Tell Ji Baichu the result.,ไปแจ้งผลกับจี๋ไป๋ฉู่
 DNJH-10-3_name,Where are the soldiers,พวกทหารอยู่ไหน
 DNJH-10-3_overview1,Go out of the city to find where Lu Yunlong has taken the soldiers.,ออกไปยังนอกเมืองเพื่อดูว่า หลู่ หยุนหลง พากองทหารไปที่ไหน
@@ -206,4 +206,6 @@ DNJH-10_NPCname1,Ji Baichu's voice,เสียงของ จี้ไป๋�
 DNJH-11_name,Tactical Strategist,วางกลยุทธ์
 DNJH-11_overview1,"In two days, we will force Han Anren to release King Chai at the Government Office. In the meantime, take a look around.",ในอีกสองวัน เราจะบังคับ หาน อันเหริน ให้ปล่อยตัวอ๋องไฉที่ศาลาว่าการ ในระหว่างนั้นก็ไปสำรวจรอบๆเสีย
 DNJH-11_overview2,"Mr. Ji is dead, I don't know what will happen next, let's wait and see.",ท่านจี้สิ้นแล้วมิอาจคาดเดาได้ รอดูว่าจะเกิดอะไรขึ้นต่อไป
-DNJH-11_overview3,"Today is the planned day, go to Phoenix Woods HarborGovernment Office to check the situation.",วันนี้คือวันที่วางไว้ในแผนแล้ว ไปที่ศาลาว่าการท่าเรือป่าหงส์เพื่อตรวจสอบสถานการณ์
+DNJH-11_overview3,"Today is the planned day, go to Phoenix Woods Harbor Government Office to check the situation."
+DNJH-7-1_overview8,Get ready and enter Duke Chai's Tower to investigate.
+M20501-3_talk,Chat
