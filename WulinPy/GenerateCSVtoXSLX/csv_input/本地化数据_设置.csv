@@ -147,7 +147,7 @@ SettingTitle_AutoSave,Enable auto-save (only saves when switching scenes and aft
 SettingTitle_AutoSaveWhenChangeSceneAndRoaming,Save every 10 minutes in free state (requires auto-save to be enabled),เซฟเกมทุกๆ 10 นาที ในตอนที่อยู่ในสถานะว่าง (จำเป็นต้องเปิดใช้งานการเซฟเกมอัตโนมัติก่อน)
 SettingTitle_CloseLivingExpConfirmTip,Enable auto-confirmation for using Jianghu knowledge to upgrade character and martial arts level,"เปิดใช้งานการแจ้งเตือนเพื่อยืนยันอัตโนมัติสำหรับการใช้ค่า ""ประสบการณ์ยุทธ"" เพื่ออัพเกรดตัวละครและระดับวรยุทธ"
 SettingTitle_JoyStickVibration,Joystick vibration,เปิดระบบสั่น
-HotkeyEnv_Slg,The Great Conquest
+HotkeyEnv_Slg,The Great Conquest,โหมดรวมยุทธภพ
 Hotkey_SlgBattleEsc,Cancel,ยกเลิก
 Hotkey_SlgBattleKungfu1,Martial Art 1,วรยุทธ 1
 Hotkey_SlgBattleKungfu2,Martial Art 2,วรยุทธ 2

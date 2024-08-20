@@ -2929,7 +2929,7 @@ UIFiefKungfu_imgUsed_Text(TMP),Imprinted,ถูกประทับ
 UIFiefEquip_btnIn_Text(TMP),Place,วาง
 UIFiefEquip_btnOut_Text(TMP),Take,ใช้
 UIFiefEquip_imgUsed_Text(TMP),Taken,หยิบไปแล้ว
-UIFiefKungfu_EmptyTip_Text(TMP),The main character's martial arts need to be maxed out and the minimum quality is Legendary.
+UIFiefKungfu_EmptyTip_Text(TMP),The main character's martial arts need to be maxed out and the minimum quality is Legendary.,วิชาการต่อสู้ของตัวละครหลักต้องบรรลุขั้นสูงสุด และมีคุณภาพขั้นต่ำคือระดับตำนาน
 UIFiefEquip_EmptyTip_Text(TMP),"Requires Legendary Weapon, Armor, Accessory.","จำเป็นต้องมีอาวุธ,ชุดเกราะ,เครื่องประดับระดับตำนาน."
 UIFiefMain_layer_boxBottom_boxInfo_btnOpenSetting_Text(TMP),Edit,แก้ไข
 UIFiefSetting_layer_txtMingingPrizeTip,"In the Back Mountain, every {0} points of accumulated Strength from partners will produce {2} pieces of Wood Material and {3} pieces of Stone Material every {1} minutes.\nCurrently, every <color=#c44b0e>{1}</color> minutes produces <color=#c44b0e>{4}</color> pieces of Wood Material and <color=#c44b0e>{5}</color> pieces of Stone Material.","ภูเขาด้านหลัง ทุกๆ {0} แต้ม ที่มาจากค่าพละกำลังของสหาย จะผลิตวัสดุไม้ {2} ชิ้น และ วัสดุหิน {3} ชิ้นทุกๆ {1} นาที\nปัจจุบัน ทุกๆ <color=#c44b0e>{1}</color> นาที จะผลิตวัสดุไม้ <color=#c44b0e>{4}</color> ชิ้น และ วัสดุหิน <color=#c44b0e>{5}</color> ชิ้น"
@@ -2983,21 +2983,21 @@ UIFiefSetting_layer_toggleMining_Text(TMP),Home Back Mountain no longer produces
 UIGameModeSelect_GameModeDefault_Info,Experience the open world of martial arts in Hero's Adventure.,เปิดประสบการณ์แบบ Open world แห่งโลกยุทธภพใน Hero's Adventure
 UIGameModeSelect_GameModeDefault_Title,Path of loyalty,เส้นทางผู้ภักดี
 UIGameModeSelect_GameModeDlc1_Info,Experience the strategic gameplay of dominating the martial world in the Hero's Adventure expansion.,สัมผัสประสบการณ์การเล่นเกมเชิงกลยุทธ์เพื่อครองยุทธภพได้ในชุดเสริม DLC - Hero's Adventure
-UIGameModeSelect_GameModeDlc1_Title,The Great Conquest
+UIGameModeSelect_GameModeDlc1_Title,The Great Conquest,ยึดครองยุทธภพ
 UIThumbnail_boxAutoGo_title_Text(TMP),Click to Go to,กดเพื่อไป
-UIFiefDeveConfirm_ContentGroup_tip,"Please name your new Martial Arts, it should not be too long to ensure display effect"
-UIFiefDeveMain_Panel_Right_btnGo_Text(TMP),Start comprehension
-UIFiefDeveMain_Panel_Right_title_Text(TMP),Select Martial Arts
-PrefabModeinContext_UIFiefDeveItem_imgGray_Text,Cannot comprehend
-PrefabModeinContext_UIFiefDeveItem_btnCancel_Text,Cancel comprehension
-PrefabModeinContext_UIFiefDeveItem_btnSelect_Text,Comprehension
-UIFiefDeveMain_Panel_Left_tip,"1. Two martial arts of the same quality, both external or internal, and level up to ten can be comprehended. After comprehension, a new martial arts of higher quality will be obtained, which cannot be used for further comprehension.\n2. Comprehension consumes game time and stamina, and the two martial arts originally selected for comprehension will be forgotten.\n3. The martial arts consumed by comprehension will affect the attributes and additional effects of the new martial arts."
-UIFiefDeveMain_Panel_Left_titleSelectNpc_Text(TMP),Select Character
-UIFiefDeveMain_Panel_title_Text(TMP),Martial Arts Comprehension
-PrefabModeinContext_DisplayItemDlc_Bg_DetailButton_Text(TMP),Details>>
-PrefabModeinContext_DisplayItemDlc_Bg_Title,The Great Conquest
-PrefabModeinContext_DisplayItemDlc_Bg_PurchasedButton_Text(TMP),Owned
-PrefabModeinContext_DisplayItemDlc_Bg_NotPurchasedButton_Text(TMP),Go to Subscribe
+UIFiefDeveConfirm_ContentGroup_tip,"Please name your new Martial Arts, it should not be too long to ensure display effect",โปรดตั้งชื่อวิชาการต่อสู้ของคุณ ระวังอย่าให้ชื่อยาวเกินไปเพื่อการแสดงผล
+UIFiefDeveMain_Panel_Right_btnGo_Text(TMP),Start comprehension,เริ่มต้นทำความเข้าใจ
+UIFiefDeveMain_Panel_Right_title_Text(TMP),Select Martial Arts,เลือกวิชาการต่อสู้
+PrefabModeinContext_UIFiefDeveItem_imgGray_Text,Cannot comprehend,ไม่สามารถเรียนรู้ได้
+PrefabModeinContext_UIFiefDeveItem_btnCancel_Text,Cancel comprehension,ยกเลิกการเรียนรู้
+PrefabModeinContext_UIFiefDeveItem_btnSelect_Text,Comprehension,ความเข้าใจ
+UIFiefDeveMain_Panel_Left_tip,"1. Two martial arts of the same quality, both external or internal, and level up to ten can be comprehended. After comprehension, a new martial arts of higher quality will be obtained, which cannot be used for further comprehension.\n2. Comprehension consumes game time and stamina, and the two martial arts originally selected for comprehension will be forgotten.\n3. The martial arts consumed by comprehension will affect the attributes and additional effects of the new martial arts.","1.สามารถเรียนรู้วิชาการต่อสู้ได้สองวิชา ซึ่งจะเป็นวิชาภายนอกหรือภายใน และระดับต้องถึงสิบจึงจะสามารถเรียนรู้วิชาใหม่ได้ หลังจากเรียนรู้สำเร็จจะได้วิชาการต่อสู้ใหม่ที่มีระดับสูงกว่า แต่ไม่สามารถนำไปเรียนรู้ต่อได้\n2.การเรียนรู้วิชาการต่อสู้จะใช้เวลาในเกมและค่าแรงกาย และวิชาการต่อสู้สองวิชาที่เลือกเรียนรู้นั้นจะหายไป\n3.วิชาการต่อสู้ที่นำมาเรียนรู้นั้นจะส่งผลต่อคุณสมบัติและผสมทั้งสองวิชาติดมาเป็นวิชาใหม่"
+UIFiefDeveMain_Panel_Left_titleSelectNpc_Text(TMP),Select Character,เลือกตัวละคร
+UIFiefDeveMain_Panel_title_Text(TMP),Martial Arts Comprehension,การเรียนรู้วิชา
+PrefabModeinContext_DisplayItemDlc_Bg_DetailButton_Text(TMP),Details>>,รายละเอียด>>
+PrefabModeinContext_DisplayItemDlc_Bg_Title,The Great Conquest,ยึดครองยุทธภพ
+PrefabModeinContext_DisplayItemDlc_Bg_PurchasedButton_Text(TMP),Owned,ครอบครอง
+PrefabModeinContext_DisplayItemDlc_Bg_NotPurchasedButton_Text(TMP),Go to Subscribe,ไปเข้าร่วม
 UIDlcPurchase_AgeTip_Bg_DisplayItemDlc3PlaceHolder_Bg_Info,Stay Tuned
 UIDlcPurchase_AgeTip_Bg_DisplayItemDlc3PlaceHolder_Bg_Title,Stay Tuned
 PrefabModeinContext_DisplayItemDlc_Bg_TitleDlc2,Her Vanishing Silhouette
