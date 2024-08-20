@@ -1206,7 +1206,7 @@ CharaName_皇城司士兵,Imperial City Office Soldier,ทหารสำนั�
 CharaTitle_锦阳关,Jin Yang Gate,ประตูจินหยาง
 CharaName_一身黑衣的文人,Scholar in Black
 CharaName_打扮奇怪的男子,Man in Strange Clothes
-CharaName_自命不凡的道人,Pretentious Taoist
+CharaName_自命不凡的道人,Pretentious Taoist,นักพรตเต๋าจอมโอหัง
 CharaName_臭气熏天的乞丐,Stinking Beggar
 CharaName_戴着斗笠的刀客,Swordsman with a Conical Hat
 CharaName_长相帅气的公子哥,Handsome Rich Youth
@@ -1241,8 +1241,8 @@ CharaName_工人,Laborer
 CharaName_舞女,Dancing Girl
 CharaName_杨明,Yang Ming
 CharaName_富户,Rich Merchant
-CharaName_看庙奶奶,Temple Watcher Granny
-CharaName_文质彬彬的读书人,Cultured Scholar
+CharaName_看庙奶奶,Temple Watcher Granny,ป้าเฒ่าผู้เฝ้าอาราม
+CharaName_文质彬彬的读书人,Cultured Scholar,นักปราชญ์หนุ่ม
 CharaName_猪,Pig
 CharaName_小队长,Squad Leader
 CharaName_海寇,Pirate
