@@ -986,16 +986,16 @@ DLC1FactionInfo_220,"The force led by Yagyū Musashi, with great ambition!"
 DLC1FactionInfo_221,"The residence of the former dynasty royal family Chai Wangye, although it is not a martial arts sect, it has a good relationship with various martial arts sects and has a considerable reputation in the martial arts world."
 DLCTraderName_故事模式武功商人,Mysterious Man
 TraitName_DLC先天_伤害提升,Damage Increase
-TraitName_DLC先天_龙精虎猛,Stalwart
+TraitName_DLC先天_龙精虎猛,Stalwart,กำยำ
 TraitName_DLC先天_身轻如燕,Light body
 TraitName_DLC先天_如影随形,Shadow Follows Shape
-TraitName_DLC先天_铜身铁骨,Iron Body
-TraitName_DLC先天_身强体健,Hardened
+TraitName_DLC先天_铜身铁骨,Iron Body,กายาเหล็กไหล
+TraitName_DLC先天_身强体健,Hardened,ทนทาน
 TraitName_DLC先天_生命提升,HP Increase
 TraitName_DLC先天_暴击提升,Critical Increase
 TraitName_DLC先天_闪避提升,Evasion Increase
 TraitName_DLC先天_手脚灵活,Quick reflex
-TraitName_DLC先天_御剑提升,Sword Increase
+TraitName_DLC先天_御剑提升,Sword Increase,เพิ่มพลังกระบี่
 TraitName_DLC先天_攻击提升,Attack Increase
 TraitName_DLC先天_格挡提升,Parry Increase
 TraitName_DLC先天_攻击增强,Attack Enhancement

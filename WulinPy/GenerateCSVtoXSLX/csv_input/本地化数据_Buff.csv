@@ -591,7 +591,7 @@ BuffInfo_谋生有道,"Adaptable and resilient, you can thrive even in the harsh
 BuffInfo_歪门邪道,"Walking in the martial world doesn't always mean taking the high road, being a street boy is also a way. The growth efficiency of street skills is increased by <#29F161>30%</color>.",เส้นทางในยุทธภพไม่ได้มีแต่เส้นทางที่มีเกียรติเท่านั้น ข้างถนนเองก็นับเป็นหนทางเช่นกัน การเติบโตของทักษะข้างถนนเพิ่มขึ้น <#29F161>30%</color>
 BuffInfo_道貌岸然,"A thousand miles to send a goose feather, a light gift carries heavy affection. The effect of improving relations with other characters is increased by <#29F161>50%</color>, but when relations deteriorate, the decrease in relations value will be <#FE2929>doubled</color>.",ห่างรักพันลี้ แม้ขนห่านก็หนักดั่งเหล็กพันชั่ง ของขวัญเล็กน้อยก็เหมือนรักมากล้น ผลความสัมพันธ์กับตัวละครอื่นที่เพิ่มจะเพิ่มขึ้น <#29F161>50%</color> แต่เมื่อลดลง จะลดลงเป็น <#FE2929>สองเท่า</color>
 BuffInfo_惺惺相惜,"No matter who the other person is, you always seem to hit it off with them. When giving gifts to the same sex, the effect is increased by <#29F161>30%</color>.",ไม่ว่าฝ่ายตรงข้ามจะเป็นใคร ดูเหมือนคุณจะสามารถหว่านเสน่ห์ได้หมด เมื่อให้ของขวัญกับเพศเดียวกัน ผลจะเพิ่มขึ้น <#29F161>30%</color>
-BuffInfo_异性相吸,"You are charming and attractive, always able to attract admirers wherever you go. When giving gifts to friends of the opposite sex, the effect is increased by <#29F161>30%</color>.",ทรงเสน่ห์และน่าดึงดูด ไม่ว่าไปที่ไหนก็มักมีคนชื่นชอบเสมอ เมื่อให้ของขวัญกับเพศตรงข้าม ผลจะเพิ่มขึ้น <#29F161>30%</color>
+BuffInfo_异性相吸,"You are charming and attractive, always able to attract admirers wherever you go. When giving gifts to friends of the opposite sex, the effect is increased by <#29F161>30%</color>.",ทรงเสน่ห์และน่าดึงดูด ไม่ว่าไปที่ไหนก็มักมีคนนับถือเสมอ เมื่อให้ของขวัญกับเพศตรงข้าม ผลจะเพิ่มขึ้น <#29F161>30%</color>
 BuffInfo_乐不思蜀,"An astonishing optimist, no matter what happens, your mood never worsens.",มองโลกในแง่บวกอย่างน่าประหลาดใจ ไม่ว่าจะเกิดอะไร ค่าอารมณ์จะไม่ลดลง
 BuffInfo_立竿见影,"Born with a Regenerative body, superior RecoverySkill. When receiving RecoveryHP and MP effects, <#29F161>Recovery effect increases by 100%</color>.",เกิดมาพร้อมกายวิเศษ ความสามารถในการฟื้นตัวที่ดีเยี่ยม เมื่อได้รับผลการฟื้นฟู HP และ MP <#29F161>ผลฟื้นฟูจะมีประสิทธิเพิ่มขึ้น 100%</color>
 BuffInfo_身如鬼魅,"In the world of martial arts, speed is the key, <#29F161>Action Speed+20</color>.",วรยุทธทั่วหล้า แพ้ชนะวัดกันที่ความเร็ว <#29F161>ความเร็วท่าร่าง +20</color>
@@ -655,7 +655,7 @@ BuffInfo_剧情谋生有道,"Adaptable and resilient, you can thrive even in the
 BuffInfo_剧情歪门邪道,"Walking in the martial world doesn't always mean taking the high road, being a street boy is also a way. The growth efficiency of street skills is increased by <#29F161>30%</color>.",เส้นทางในยุทธภพไม่ได้มีแต่เส้นทางที่มีเกียรติเท่านั้น ข้างถนนเองก็นับเป็นหนทางเช่นกัน การเติบโตของทักษะข้างถนนเพิ่มขึ้น <#29F161>30%</color>
 BuffInfo_剧情道貌岸然,"A thousand miles to send a goose feather, a light gift carries heavy affection. The effect of improving relations with other characters is increased by <#29F161>50%</color>, but when relations deteriorate, the decrease in relations value will be <#FE2929>doubled</color>.",ห่างรักพันลี้ แม้ขนห่านก็หนักดั่งเหล็กพันชั่ง ของขวัญเล็กน้อยก็เหมือนรักมากล้น ผลความสัมพันธ์กับตัวละครอื่นที่เพิ่มจะเพิ่มขึ้น <#29F161>50%</color> แต่เมื่อลดลง จะลดลงเป็น <#FE2929>สองเท่า</color>
 BuffInfo_剧情惺惺相惜,"No matter who the other person is, you always seem to hit it off with them. When giving gifts to the same sex, the effect is increased by <#29F161>30%</color>.",ไม่ว่าฝ่ายตรงข้ามจะเป็นใคร ดูเหมือนคุณจะสามารถหว่านเสน่ห์ได้หมด เมื่อให้ของขวัญกับเพศเดียวกัน ผลจะเพิ่มขึ้น <#29F161>30%</color>
-BuffInfo_剧情异性相吸,"You are charming and attractive, always able to attract admirers wherever you go. When giving gifts to friends of the opposite sex, the effect is increased by <#29F161>30%</color>.",ทรงเสน่ห์และน่าดึงดูด ไม่ว่าไปที่ไหนก็มักมีคนชื่นชอบเสมอ เมื่อให้ของขวัญกับเพศตรงข้าม ผลจะเพิ่มขึ้น <#29F161>30%</color>
+BuffInfo_剧情异性相吸,"You are charming and attractive, always able to attract admirers wherever you go. When giving gifts to friends of the opposite sex, the effect is increased by <#29F161>30%</color>.",ทรงเสน่ห์และน่าดึงดูด ไม่ว่าไปที่ไหนก็มักมีคนนับถือเสมอ เมื่อให้ของขวัญกับเพศตรงข้าม ผลจะเพิ่มขึ้น <#29F161>30%</color>
 BuffInfo_剧情乐不思蜀,"An astonishing optimist, no matter what happens, your mood never worsens.",มองโลกในแง่บวกอย่างน่าประหลาดใจ ไม่ว่าจะเกิดอะไร ค่าอารมณ์จะไม่ลดลง
 BuffInfo_剧情立竿见影,"Born with a Regenerative body, superior RecoverySkill. When receiving RecoveryHP and MP effects, <#29F161>Recovery effect increases by 100%</color>.",เกิดมาพร้อมกายวิเศษ ความสามารถในการฟื้นตัวที่ดีเยี่ยม เมื่อได้รับผลการฟื้นฟู HP และ MP <#29F161>ผลฟื้นฟูจะมีประสิทธิเพิ่มขึ้น 100%</color>
 BuffInfo_剧情身如鬼魅,"In the world of martial arts, speed is the key, <#29F161>Action Speed+20</color>.",วรยุทธทั่วหล้า แพ้ชนะวัดกันที่ความเร็ว <#29F161>ความเร็วท่าร่าง +20</color>
@@ -4404,7 +4404,7 @@ BuffName_如鱼得水,Fish Back in Water,ดั่งปล่อยปลาล
 BuffName_晕船,Seasick,เมาเรือ
 BuffName_狐媚buff1_附属,Charm,สเน่ห์
 BuffInfo_狐媚buff1_附属,"Lost mind, help the enemy attack their own people.",เสียสติ ช่วยเหลือศัตรูโจมตีพวกเดียวกัน
-BuffInfo_DLC2气力用尽,"Exhausted, unable to fight in the Nether Pavilion anymore, you must run away from the Nether Pavilion to recover."
+BuffInfo_DLC2气力用尽,"Exhausted, unable to fight in the Nether Pavilion anymore, you must run away from the Nether Pavilion to recover.",ใช้กำลังไปมากจนหมดแรง ไม่สามารถออกไปสู้รบใน ศาลาภายใน ได้อีก ต้องออกไปจาก 'ศาลาภายใน' จึงจะฟื้นฟูสภาพได้
 BuffInfo_内功_DLC2冰心诀,"After entering the battle, the enemy character's action speed within 1 grid range decreases by 10 points, and 5 points of seal are inflicted when attacking.",เมื่อเข้าสู่การต่อสู้ ความเร็วท่าร่างของศัตรูภายในระยะ 1 ช่องลดลง 10 แต้ม และเมื่อโจมตีจะทำให้ศัตรูติดสถานะสกัดจุด 5 แต้ม
 BuffInfo_内功_DLC2冰心诀附属1_光环,<#FE2929>Action Speed decreases by 10 points</color>.,<#FE2929>ความเร็วท่าร่างลดลง 10 แต้ม</color>
 BuffInfo_内功_DLC2凛气诀,"After entering the battle, action speed increases by 10 points, evasion increases by 5%.",หลังจากเข้าสู่การต่อสู้ ความเร็วท่าร่างเพิ่มขึ้น 10 แต้ม การหลบหลีกเพิ่มขึ้น 5%
@@ -4471,22 +4471,22 @@ BuffName_DLC2恨天Buff4,<#EFD09F>Vengeful Strike</color>,<#EFD09F>โจมต�
 BuffName_DLC2鬼面具Buff1,<#EFD09F>Counterattack</color>,<#EFD09F>สวนกลับ</color>
 BuffName_DLC2鬼面具Buff2,<#EFD09F>Fear</color>,<#EFD09F>หวาดกลัว</color>
 BuffName_内功_尉缭子_光环,Wei Liaozi,เว่ย เหลียวจื่อ 
-BuffName_内功_DLC2冰心诀附属1_光环,Ice Heart Technique,วิชาเยือกแข็งหัวใจ
-BuffName_有仇必报,Vengeance,การแก้แค้น
-BuffName_独霸武林,Martial Supremacy,ความเป็นเลิศทางวรยุทธ
-BuffName_云开日出,Clouds part and the sun shines,เมฆคลี่ออกและแสงอาทิตย์ก็ส่องสว่าง
+BuffName_内功_DLC2冰心诀附属1_光环,Ice Heart Technique,วิชาใจเยือกแข็ง
+BuffName_有仇必报,Vengeance,แค้นต้องชำระ
+BuffName_独霸武林,Martial Supremacy,จ้าวแห่งยุทธจักร
+BuffName_云开日出,Clouds part and the sun shines,เมฆสลาย ฟ้าใหม่มาเยือน
 BuffName_剧情有仇必报,Vengeance,การแก้แค้น
-BuffName_剧情独霸武林,Martial Supremacy,ความเป็นเลิศทางวรยุทธ
+BuffName_剧情独霸武林,Martial Supremacy,จ้าวแห่งยุทธจักร
 BuffName_剧情云开日出,Clouds part and the sun shines,เมฆคลี่ออกและแสงอาทิตย์ก็ส่องสว่าง
 BuffName_伙伴特征先手为强,First Strike,โจมตีก่อน
 BuffName_伙伴特征放长击远,Long-Range Assault,โจมตีระยะไกล
 BuffName_伙伴特征心若冰清,Iceheart,หัวใจเยือกเย็น
 BuffName_伙伴特征损人利己,Self-serving,เห็นแก่ตัว
 BuffName_伙伴特征毒入膏肓,Deep Poison,พิษที่ซ่อนเร้น
-BuffName_伙伴特征数恶如珍,Catalog of Grievances,บัญชีความแค้น
-BuffName_伙伴特征长袖善舞,Graceful Dance,การร่ายรำอย่างงดงาม
+BuffName_伙伴特征数恶如珍,Catalog of Grievances,บัญชีแค้น
+BuffName_伙伴特征长袖善舞,Graceful Dance,ร่ายรำอย่างงดงาม
 BuffName_伙伴特征长袖善舞_附属1,Charm,เสน่ห์
-BuffName_伙伴特征亦医亦毒,Healer and Poisoner,หมอและนักวางยาพิษ
-BuffName_伙伴特征亦医亦毒_光环,Healer and Poisoner,หมอและนักวางยาพิษ
+BuffName_伙伴特征亦医亦毒,Healer and Poisoner,แพทย์และมือพิษ
+BuffName_伙伴特征亦医亦毒_光环,Healer and Poisoner,แพทย์และมือพิษ
 BuffName_DLC2两情相悦,Mutual Affection,ความรักและความผูกพันที่มีต่อกัน
 BuffName_DLC2不负相思,Faithful to Love,ความรักที่บริสุทธิ์

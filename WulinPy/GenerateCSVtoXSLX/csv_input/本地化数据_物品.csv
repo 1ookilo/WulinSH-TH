@@ -266,7 +266,7 @@ ItemName_龙须,Dragon Whisker,พู่กันหนวดมังกร
 ItemName_麟角,Unicorn Horn,พู่กันเขากิเลน
 ItemName_太虚,Taixu,พู่กันไท่ซวี
 ItemName_玄黄,Mysterious Yellow,พู่กันสวรรค์เหลือง
-ItemName_洪荒,Primal Land,พู่กันดึกดำบรรพ์
+ItemName_洪荒,Primal Land,พู่กันบรรพกาล
 ItemName_梧桐琴,Parasol Tree,กู่ฉินไม้อู๋ถง
 ItemName_玉瑶琴,Beautiful Jade,กู่ฉินประดับหยก
 ItemName_响泉琴,Melody River,กู่ฉินสายธารบรรเลง
@@ -1759,7 +1759,7 @@ ItemName_龙须图纸,Dragon Whisker Blueprint,แบบแปลน - พู่
 ItemName_麟角图纸,Unicorn Horn Blueprint,แบบแปลน - พู่กันเขากิเลน
 ItemName_太虚图纸,Taixu Blueprint,แบบแปลน - พู่กันไท่ซวี
 ItemName_玄黄图纸,Mysterious Yellow Blueprint,แบบแปลน - พู่กันสวรรค์เหลือง
-ItemName_洪荒图纸,Primal Land Blueprint,แบบแปลน - พู่กันดึกดำบรรพ์
+ItemName_洪荒图纸,Primal Land Blueprint,แบบแปลน - พู่กันบรรพกาล
 ItemName_梧桐琴图纸,Parasol Tree Blueprint,แบบแปลน - กู่ฉินไม้อู๋ถง
 ItemName_玉瑶琴图纸,Beautiful Jade Blueprint,แบบแปลน - กู่ฉินประดับหยก
 ItemName_响泉琴图纸,Melody River Blueprint,แบบแปลน - กู่ฉินสายธารบรรเลง
@@ -2979,7 +2979,7 @@ ItemInfo_酱油,"Can be used as a seasoning, it has a unique sauce aroma, delici
 ItemInfo_盐,"Can be used as a seasoning, can make Food more flavorful.\n<#d09a09>Usage: Cooking, Gift</color>","สามารถใช้เป็นเครื่องปรุงรส สามารถทำให้อาหารมีรสชาติมากขึ้น\n<#d09a09>ใช้สำหรับ: ทำอาหาร, ให้เป็นของขวัญ</color>"
 ItemInfo_辣椒,"A bright red plant, very spicy in taste.\n<#d09a09>Usage: Cooking, Gift</color>","พืชสีแดงสด รสเผ็ดมาก.\n<#d09a09>ใช้สำหรับ: ทำอาหาร, ให้เป็นของขวัญ</color>"
 ItemInfo_糖,"Can be used as a seasoning to enhance the sweetness of Food.\n<#d09a09>Usage: Cooking, Gift</color>","สามารถใช้เป็นเครื่องปรุงรสเพื่อเพิ่มความหวานของอาหารได้\n<#d09a09>ใช้สำหรับ: ทำอาหาร, ให้เป็นของขวัญ</color>"
-ItemInfo_蜂蜜,"Fresh Honey just extracted from the beehive.\n<#d09a09>Usage: Cooking, Gift</color>"
+ItemInfo_蜂蜜,"Fresh Honey just extracted from the beehive.\n<#d09a09>Usage: Cooking, Gift</color>","น้ำผึ้งสกัดจากรังผึ้งสดๆ\n<#d09a09>ใช้สำหรับ: ทำอาหาร, ให้เป็นของขวัญ</color>"
 ItemInfo_蔗糖,"Can be used as a seasoning, making Food more delicious and appetizing.\n<#d09a09>Usage: Cooking, Gift</color>","สามารถใช้เป็นเครื่องปรุงรสทำให้อาหารมีรสชาติอร่อยน่ารับประทานมากขึ้น.\n<#d09a09>ใช้สำหรับ: ทำอาหาร, ให้เป็นของขวัญ</color>"
 ItemInfo_鸡肉,"Fresh Chicken meat.\n<#d09a09>Usage: Cooking, Gift</color>","เนื้อไก่สด\n<#d09a09>ใช้สำหรับ: ทำอาหาร, ให้เป็นของขวัญ</color>"
 ItemInfo_鹅肉,"Fresh Goose meat.\n<#d09a09>Usage: Cooking, Gift</color>","เนื้อห่านสดๆ\n<#d09a09>ใช้สำหรับ: ทำอาหาร, ให้เป็นของขวัญ</color>"
@@ -3482,7 +3482,7 @@ ItemInfo_春秋笔谱,This is a Martial Arts Manual that records the Spring and 
 ItemInfo_阎王贴,"This is a rare Yin damage pen technique. If Yan Wang wants you to die at the third watch, can he keep you until the fifth watch?",นี่คือตำราวรยุทธพู่กันธาตุหยินที่หาได้ยากยิ่ง หากเหยียนหวังอยากให้เจ้าตายในยามสาม เจ้าจะอยู่รอดถึงยามห้าได้เยี่ยงไร?
 ItemInfo_挥翰成风,"Between the strokes of the brush, an article is formed, a good literary talent.","ในระหว่างจังหวะแปรง, ก่อร่างบทความถือเป็นพรสวรรค์ทางด้านวรรณกรรมที่ดี"
 ItemInfo_寒食帖,"The martial arts realized from ""Cold Food Observance"".","วรยุทธที่เกิดขึ้นจาก ""การสังเกตอาหารเย็น"""
-ItemInfo_寒江独钓,"The manual recording the technique of ""Fishing Alone in Cold River"", a lonely scene leaps onto the paper.","บันทึกตำราวิชาพู่กัน ""ตวัดมัจฉาเดียวดายกลางนทีหนาวเหน็บ"" ความอ้างว้างโดดเดี่ยวข้ามผ่านออกมาจากกระดาษ."
+ItemInfo_寒江独钓,"The manual recording the technique of ""Fishing Alone in Cold River"", a lonely scene leaps onto the paper.","บันทึกตำราวิชาพู่กัน ""ตวัดมัจฉาเดียวดายกลางนทีเหมันต์"" ความอ้างว้างโดดเดี่ยวข้ามผ่านออกมาจากกระดาษ."
 ItemInfo_曹全碑,"The martial arts of writing realized from ""Cao Quan Steele"".","วรยุทธพู่กันที่เกิดขึ้นจาก ""อนุสาวรีย์เฉาฉวน"""
 ItemInfo_幽谷图,"The ink is not much, but it is full of desolation.",ใช้หมึกไม่มากแต่เต็มไปด้วยความเปล่าเปลี่ยวใจ
 ItemInfo_丧乱贴,"Every stroke shows helplessness and anger, piercing the heart, what can be done!",ทุกฝีแปรงแสดงถึงความสิ้นหวัง ความโกรธ ทิ่มแทงหัวใจ จะทำอะไรได้!
@@ -3746,7 +3746,7 @@ ItemInfo_龙须图纸,An expired blueprint.,"หลังจากใช้, เ
 ItemInfo_麟角图纸,An expired blueprint.,"หลังจากใช้, เจ้าสามารถสร้าง <#c851ff>พู่กันเขากิเลน</color>"
 ItemInfo_太虚图纸,An expired blueprint.,"หลังจากใช้, เจ้าสามารถสร้าง <#d09a09>พู่กันไท่ซวี</color>"
 ItemInfo_玄黄图纸,An expired blueprint.,"หลังจากใช้, เจ้าสามารถสร้าง <#d09a09>พู่กันสวรรค์เหลือง</color>"
-ItemInfo_洪荒图纸,An expired blueprint.,"หลังจากใช้, เจ้าสามารถสร้าง <#d09a09>พู่กันดึกดำบรรพ์</color>"
+ItemInfo_洪荒图纸,An expired blueprint.,"หลังจากใช้, เจ้าสามารถสร้าง <#d09a09>พู่กันบรรพกาล</color>"
 ItemInfo_梧桐琴图纸,An expired blueprint.,"หลังจากใช้, เจ้าสามารถสร้าง <#68cf24>กู่ฉินไม้อู๋ถง</color>"
 ItemInfo_玉瑶琴图纸,An expired blueprint.,"หลังจากใช้, เจ้าสามารถสร้าง <#68cf24>กู่ฉินไม้อู๋ถง</color>"
 ItemInfo_响泉琴图纸,"After use, you can forge <#68cf24>Melody River</color>.","หลังจากใช้, เจ้าสามารถสร้าง <#68cf24>กู่ฉินสายธารบรรเลง</color>"
@@ -4523,29 +4523,29 @@ ItemInfo_柴王寿宴请柬,"An invitation to the birthday banquet of King Chai,
 ItemInfo_凰木港地图,"A map depicting the terrain of Phoenix Woods Harbor, click for Info.","แผนที่แสดงลักษณะภูมิประเทศของท่าเรือป่าหงส์, คลิกเพื่อดูข้อมูล"
 ItemInfo_尉缭子,"A military strategy passed down in troubled times, with a unique understanding of the art of war.",กลยุทธ์ทางทหารที่สืบทอดต่อกันมาในช่วงเวลาแห่งความวุ่นวาย แสดงวิธีการใช้กลยุทธ์ทางทหารด้วยความเข้าใจที่ไม่เหมือนใคร
 ItemInfo_绝毒残篇,"The remaining scroll of the secret method of using poison left by Jiang Ziyan's master, although only a fragment remains, it is still extremely toxic.",เศษเสี้ยวของคัมภีร์พิษลับที่อาจารย์ของเจียงจื่อเยี่ยนทิ้งไว้ แม้ว่าจะเหลือเพียงเสี้ยวเดียว แต่ก็ยังแฝงไว้ด้วยพิษอันร้ายกาจ
-FondTag_自创,Self-Created Martial Art
-ItemName_DLC2飞雪寒霜刃,Flying Snow Frost Blade
-ItemName_DLC2琼华凌波裙,Lustrous Wave Robe
-ItemName_DLC2黑天,Dark Sky
-ItemName_DLC2鬼面具,Ghost Mask
-ItemName_DLC2恨天,Hatred for Heaven
-ItemName_DLC2红色药丸,Red Pill
-ItemName_DLC2蓝色药丸,Blue Pill
-ItemName_DLC2小布包,Small Cloth Bag
-ItemName_DLC2机要密册,Secret Documents
+FondTag_自创,Self-Created Martial Art,วรยุทธที่คิดค้นเอง
+ItemName_DLC2飞雪寒霜刃,Flying Snow Frost Blade,มีดบินหยาดน้ำฟ้า
+ItemName_DLC2琼华凌波裙,Lustrous Wave Robe,เสื้อคลุมคลื่นจรัส
+ItemName_DLC2黑天,Dark Sky,เกราะฟ้าทมิฬ
+ItemName_DLC2鬼面具,Ghost Mask,หน้ากากวิญญา
+ItemName_DLC2恨天,Hatred for Heaven,ชิงชังสวรรค์
+ItemName_DLC2红色药丸,Red Pill,โอสถแดง
+ItemName_DLC2蓝色药丸,Blue Pill,โอสถฟ้า
+ItemName_DLC2小布包,Small Cloth Bag,ถุงผ้าเล็ก
+ItemName_DLC2机要密册,Secret Documents,เอกสารลับ
 ItemName_DLC2琉璃珠,Glass Bead
 ItemName_DLC2唯我是从丹,Sovereign's Elixir
-ItemName_DLC2推山掌,Mountain Pushing Palm
-ItemName_DLC2格天九式,Nine Heavens Form
-ItemName_DLC2错骨手,Bone Displacement Hand
-ItemName_DLC2乾坤霹雳掌,Heaven and Earth Thunder Palm
-ItemName_DLC2织女穿梭,Weaver’s Shuttle
-ItemName_DLC2流影千重梭,Shadow Cascade Shuttle
-ItemName_DLC2冰心诀,Ice Heart Technique
-ItemName_DLC2凛气诀,Chilling Aura Technique
-ItemName_DLC2长恨歌,Eternal Regret
-ItemName_DLC2九星连珠,Nine Stars Chain
-ItemName_DLC2乖离无相功,Deviation from Form Technique
+ItemName_DLC2推山掌,Mountain Pushing Palm,หัตถ์ผลักภูผา
+ItemName_DLC2格天九式,Nine Heavens Form,เก้ากระบวนพิชิตสวรรค์
+ItemName_DLC2错骨手,Bone Displacement Hand,ฝ่ามือหักกระดูก
+ItemName_DLC2乾坤霹雳掌,Heaven and Earth Thunder Palm,ฝ่ามืออัสนีฟ้าดิน
+ItemName_DLC2织女穿梭,Weaver’s Shuttle,เทพธิดาสานผ้า
+ItemName_DLC2流影千重梭,Shadow Cascade Shuttle,คมมีดพันเงา
+ItemName_DLC2冰心诀,Ice Heart Technique,วิชาใจเยือกแข็ง
+ItemName_DLC2凛气诀,Chilling Aura Technique,วิชาปราณเยือกแข็ง
+ItemName_DLC2长恨歌,Eternal Regret,บทเพลงโศกนิรันดร์กาล
+ItemName_DLC2九星连珠,Nine Stars Chain,โซ่เก้าดารา
+ItemName_DLC2乖离无相功,Deviation from Form Technique,
 ItemInfo_DLC2飞雪寒霜刃,"A dagger crafted by Jian Chi himself, incredibly sharp and emanating a chilling aura, causing unnoticed damage to the enemy's meridians."
 ItemInfo_DLC2琼华凌波裙,"A dress left by Ji Hanqing for his daughter's dowry, elegant and breathtakingly beautiful."
 ItemInfo_DLC2黑天,"A pitch-black inner armor, light as a feather, yet impervious to blades and spears."

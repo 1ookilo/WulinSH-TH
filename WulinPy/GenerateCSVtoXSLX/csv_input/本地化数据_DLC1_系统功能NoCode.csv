@@ -358,10 +358,10 @@ DLC1Difficult-0,Easy
 DLC1Difficult-1,Normal
 DLC1Difficult-2,Hard
 DLC1Difficult-3,Nightmare
-DLC1TipFactionCreateDiff1Title,Easy
-DLC1TipFactionCreateDiff2Title,Normal
-DLC1TipFactionCreateDiff3Title,Hard
-DLC1TipFactionCreateDiff4Title,Nightmare
+DLC1TipFactionCreateDiff1Title,Easy,ง่าย
+DLC1TipFactionCreateDiff2Title,Normal,ปกติ
+DLC1TipFactionCreateDiff3Title,Hard,ยาก
+DLC1TipFactionCreateDiff4Title,Nightmare,ฝันร้าย
 DLC1TipFactionCreateDiff1Content,"Initially receive 800 sect points, a relatively easy gameplay difficulty, AI's damage is reduced by <color=#0cf045>50%</color>, AI's resource acquisition is reduced by <color=#0cf045>50%</color>."
 DLC1TipFactionCreateDiff2Content,"Initially receive 500 sect points, a recommended gameplay difficulty, AI will cause Normal damage and Normal resource acquisition."
 DLC1TipFactionCreateDiff3Content,"Initially receive 400 sect points, a relatively Hard gameplay difficulty, AI's Increases Damage by <color=#d70ced>50%</color>, AI's resource acquisition increases by <color=#d70ced>50%</color>."

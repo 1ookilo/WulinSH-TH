@@ -2986,19 +2986,19 @@ UIGameModeSelect_GameModeDlc1_Info,Experience the strategic gameplay of dominati
 UIGameModeSelect_GameModeDlc1_Title,The Great Conquest,ยึดครองยุทธภพ
 UIThumbnail_boxAutoGo_title_Text(TMP),Click to Go to,กดเพื่อไป
 UIFiefDeveConfirm_ContentGroup_tip,"Please name your new Martial Arts, it should not be too long to ensure display effect",โปรดตั้งชื่อวิชาการต่อสู้ของคุณ ระวังอย่าให้ชื่อยาวเกินไปเพื่อการแสดงผล
-UIFiefDeveMain_Panel_Right_btnGo_Text(TMP),Start comprehension,เริ่มต้นทำความเข้าใจ
-UIFiefDeveMain_Panel_Right_title_Text(TMP),Select Martial Arts,เลือกวิชาการต่อสู้
-PrefabModeinContext_UIFiefDeveItem_imgGray_Text,Cannot comprehend,ไม่สามารถเรียนรู้ได้
-PrefabModeinContext_UIFiefDeveItem_btnCancel_Text,Cancel comprehension,ยกเลิกการเรียนรู้
-PrefabModeinContext_UIFiefDeveItem_btnSelect_Text,Comprehension,ความเข้าใจ
-UIFiefDeveMain_Panel_Left_tip,"1. Two martial arts of the same quality, both external or internal, and level up to ten can be comprehended. After comprehension, a new martial arts of higher quality will be obtained, which cannot be used for further comprehension.\n2. Comprehension consumes game time and stamina, and the two martial arts originally selected for comprehension will be forgotten.\n3. The martial arts consumed by comprehension will affect the attributes and additional effects of the new martial arts.","1.สามารถเรียนรู้วิชาการต่อสู้ได้สองวิชา ซึ่งจะเป็นวิชาภายนอกหรือภายใน และระดับต้องถึงสิบจึงจะสามารถเรียนรู้วิชาใหม่ได้ หลังจากเรียนรู้สำเร็จจะได้วิชาการต่อสู้ใหม่ที่มีระดับสูงกว่า แต่ไม่สามารถนำไปเรียนรู้ต่อได้\n2.การเรียนรู้วิชาการต่อสู้จะใช้เวลาในเกมและค่าแรงกาย และวิชาการต่อสู้สองวิชาที่เลือกเรียนรู้นั้นจะหายไป\n3.วิชาการต่อสู้ที่นำมาเรียนรู้นั้นจะส่งผลต่อคุณสมบัติและผสมทั้งสองวิชาติดมาเป็นวิชาใหม่"
+UIFiefDeveMain_Panel_Right_btnGo_Text(TMP),Start comprehension,เริ่มต้นรวมวรยุทธ
+UIFiefDeveMain_Panel_Right_title_Text(TMP),Select Martial Arts,เลือกวรยุทธ
+PrefabModeinContext_UIFiefDeveItem_imgGray_Text,Cannot comprehend,ไม่สามารถรวมได้
+PrefabModeinContext_UIFiefDeveItem_btnCancel_Text,Cancel comprehension,ยกเลิกการรวม
+PrefabModeinContext_UIFiefDeveItem_btnSelect_Text,Comprehension,รวม
+UIFiefDeveMain_Panel_Left_tip,"1. Two martial arts of the same quality, both external or internal, and level up to ten can be comprehended. After comprehension, a new martial arts of higher quality will be obtained, which cannot be used for further comprehension.\n2. Comprehension consumes game time and stamina, and the two martial arts originally selected for comprehension will be forgotten.\n3. The martial arts consumed by comprehension will affect the attributes and additional effects of the new martial arts.","1.สามารถรวม ""วรยุทธที่อยู่ระดับเดียวกันสองวิชา"" ได้ รวมได้ทั้งวรยุทธภายนอกและภายใน และระดับต้องถึงสิบจึงจะรวมวิชาใหม่ได้ หลังจากเรียนรู้สำเร็จจะได้วรยุทธใหม่ที่มีระดับสูงกว่า แต่ไม่สามารถนำไปรวมอีกได้แล้ว\n2.การรวมวรยุทธจะใช้เวลาในเกมและค่าแรงกาย และวรยุทธสองวิชาที่เลือกรวมนั้นจะหายไป\n3.วรยุทธที่นำมารวมนั้นจะส่งผลต่อคุณสมบัติ โดยจะผสมคุณสมบัติของทั้งสองวิชารวมมาเป็นวิชาใหม่"
 UIFiefDeveMain_Panel_Left_titleSelectNpc_Text(TMP),Select Character,เลือกตัวละคร
-UIFiefDeveMain_Panel_title_Text(TMP),Martial Arts Comprehension,การเรียนรู้วิชา
+UIFiefDeveMain_Panel_title_Text(TMP),Martial Arts Comprehension,การรวมวิชา
 PrefabModeinContext_DisplayItemDlc_Bg_DetailButton_Text(TMP),Details>>,รายละเอียด>>
 PrefabModeinContext_DisplayItemDlc_Bg_Title,The Great Conquest,ยึดครองยุทธภพ
 PrefabModeinContext_DisplayItemDlc_Bg_PurchasedButton_Text(TMP),Owned,ครอบครอง
 PrefabModeinContext_DisplayItemDlc_Bg_NotPurchasedButton_Text(TMP),Go to Subscribe,ไปเข้าร่วม
-UIDlcPurchase_AgeTip_Bg_DisplayItemDlc3PlaceHolder_Bg_Info,Stay Tuned
-UIDlcPurchase_AgeTip_Bg_DisplayItemDlc3PlaceHolder_Bg_Title,Stay Tuned
-PrefabModeinContext_DisplayItemDlc_Bg_TitleDlc2,Her Vanishing Silhouette
-MainMenuUI_Bg_Others_PurchaseDlcButton_Text(TMP),DLC
+UIDlcPurchase_AgeTip_Bg_DisplayItemDlc3PlaceHolder_Bg_Info,Stay Tuned,อดใจรอ
+UIDlcPurchase_AgeTip_Bg_DisplayItemDlc3PlaceHolder_Bg_Title,Stay Tuned,อดใจรอ
+PrefabModeinContext_DisplayItemDlc_Bg_TitleDlc2,Her Vanishing Silhouette,เงางามล่องลอย
+MainMenuUI_Bg_Others_PurchaseDlcButton_Text(TMP),DLC,DLC

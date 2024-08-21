@@ -1690,7 +1690,7 @@ KungfuCastBuffInfo_玉女剑法buff1,"When the main internal force is Yin, it re
 KungfuCastBuffInfo_玉女剑法buff2,"When the user is female, the final Increases Damage by 80%.","เมื่อผู้ใช้เป็นผู้หญิง, สร้างความเสียหายสุดท้ายเพิ่มขึ้น 80%"
 KungfuCastBuffInfo_磐龙剑法buff1,"When the main internal force is Legendary, it causes the enemy to suffer from Internal break, lasting until the enemy's next action.","เมื่อกำลังภายในหลักเป็นระดับตำนาน จะทำให้ศัตรูต้องทนทุกข์ทรมานจาก""กำลังภายในติดขัด"" ยาวนานจนถึงการกระทำครั้งต่อไปของศัตรู"
 KungfuCastBuffInfo_磐龙剑法buff2,"When equipping a Legendary sword series weapon, it causes the enemy to suffer from Disable technique, lasting until the enemy's next action.","เมื่อสวมใส่อาวุธกระบี่ระดับตำนาน, ทำให้ศัตรูต้องทนทุกข์ทรมานจาก""ทำลายวรยุทธ"" ยาวนานจนถึงการกระทำครั้งต่อไปของศัตรู"
-KungfuCastBuffInfo_磐龙剑法buff3,"For every 2 points higher your Sword skill is than the enemy's, the final Damage increases by 1%, up to a maximum of 180%. If the weapon held is the <#d09a09>Granite Dragon Sword</color>, the final Damage increases by 1.5%, up to a maximum of 230%."
+KungfuCastBuffInfo_磐龙剑法buff3,"For every 2 points higher your Sword skill is than the enemy's, the final Damage increases by 1%, up to a maximum of 180%. If the weapon held is the <#d09a09>Granite Dragon Sword</color>, the final Damage increases by 1.5%, up to a maximum of 230%.",ทุกๆ 2 แต้มที่ค่ากระบี่ของคุณสูงกว่าของศัตรู ความเสียหายสุดท้ายจะเพิ่มขึ้น 1% สูงสุดไม่เกิน 180% หากใช้อาวุธเป็น <#d09a09>กระบี่มังกรศิลา</color> ความเสียหายสุดท้ายเพิ่มขึ้น 1.5% แทน สูงสุดไม่เกิน 230%
 KungfuCastBuffInfo_市井拳法buff1,"If your Strength is higher than the enemy's Constitution, there is a 15% chance to inflict Slumber effect on non-boss enemies, lasting until the enemy's next action.","ถ้า""พละกำลัง""ของคุณสูงกว่า""พลังกาย""ของศัตรู, มีโอกาส 15% ที่จะสร้างสถานะหลับไหลกับศัตรูที่ไม่ใช่บอส และคงอยู่จนถึงการกระทำครั้งต่อไปของศัตรู"
 KungfuCastBuffInfo_罗汉拳法buff1,"When you learn the internal skill <#c851ff>Forging Golden Body</color>, final damage increases by 35%.","เมื่อเรียนรู้กำลังภายใน <#c851ff>กายาวัชระทองคำ</color>, ความเสียหายคริติคอลเพิ่มขึ้น 35%"
 KungfuCastBuffInfo_一指禅buff1,"When the main internal force is Yang, Critical increases by 10%.","เมื่อกำลังภายในหลักเป็นหยาง, คริติคอลเพิ่มขึ้น 10%"
@@ -2044,30 +2044,30 @@ KungfuCastBuffInfo_狐媚buff1,"There is a 30% chance of causing Charm effect on
 KungfuDesc_DLC2极乐飞天,"Deal damage to enemies within a 3x5 range in front of you and knock them back 1 square;\nIf defense is not broken: additionally reduce enemy's energy by 50 points;\nIf defense is broken: for every point your Dexterity is higher than the enemy's, deal additional damage equal to 0.8% of the enemy's max HP, up to 20%, and reduce energy by 150 points."
 KungfuDesc_DLC2乱琼碎玉,"Deal damage to enemies within a 5-square radius of yourself;\nIf defense is not broken: AttackPierce enemy's defense attribute and effects;\nIf defense is broken: AttackPierce enemy's defense attribute and effects, for every 75 points your MP is higher than the enemy's, deal additional damage equal to 1% of the enemy's max HP, up to 35%."
 BondKungfuEffect_DLC2两情相悦,"Deal damage to enemies within your range, dealing an additional <#29F161>10% of max HP damage</color>, after which both sides recover 15% of their HP."
-KunfuName_九流门机关人普攻,Attack
+KunfuName_九流门机关人普攻,Attack,โจมตี
 KunfuName_九流门机关人重击,Heavy Strike
-KunfuName_九流门机关人全力一击,All-out Strike
+KunfuName_九流门机关人全力一击,All-out Strike,โจมตีสุดตัว
 KunfuName_DLC2极乐飞天,Blissful Ascent
 KunfuName_DLC2乱琼碎玉,Chaos of Jade Fragments
 KunfuName_DLC2两情相悦,Mutual Affection
 KunfuName_DLC2推山掌,Mountain Pushing Palm
-KunfuName_DLC2格天九式,Nine Heavens Form
-KunfuName_DLC2错骨手,Bone Displacement Hand
-KunfuName_DLC2乾坤霹雳掌,Heaven and Earth Thunder Palm
-KunfuName_鸿蒙锏法副本,Nothingness Staff
-KunfuName_DLC2织女穿梭,Weaver’s Shuttle
-KunfuName_DLC2流影千重梭,Shadow Cascade Shuttle
-KunfuName_DLC2冰心诀,Ice Heart Technique
-KunfuName_DLC2凛气诀,Chilling Aura Technique
-KunfuName_DLC2长恨歌,Eternal Regret
-KunfuName_DLC2九星连珠,Nine Stars Chain
+KunfuName_DLC2格天九式,Nine Heavens Form,เก้ากระบวนพิชิตสวรรค์
+KunfuName_DLC2错骨手,Bone Displacement Hand,ฝ่ามือหักกระดูก
+KunfuName_DLC2乾坤霹雳掌,Heaven and Earth Thunder Palm,ฝ่ามืออัสนีฟ้าดิน
+KunfuName_鸿蒙锏法副本,Nothingness Staff,พลังไม้เท้าเวิ้งว้าง
+KunfuName_DLC2织女穿梭,Weaver’s Shuttle,เทพธิดาสานผ้า
+KunfuName_DLC2流影千重梭,Shadow Cascade Shuttle,คมมีดพันเงา
+KunfuName_DLC2冰心诀,Ice Heart Technique,วิชาใจเยือกแข็ง
+KunfuName_DLC2凛气诀,Chilling Aura Technique,วิชาปราณเยือกแข็ง
+KunfuName_DLC2长恨歌,Eternal Regret,บทเพลงโศกนิรันดร์กาล
+KunfuName_DLC2九星连珠,Nine Stars Chain,โซ่เก้าดารา
 KunfuName_DLC2乖离无相功,Deviation from Form Technique
-先天属性_DLC2推山掌,Increase or decrease damage based on the difference in <#29F161>Strength</color>.
-先天属性_DLC2格天九式,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.
-先天属性_DLC2错骨手,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
-先天属性_DLC2乾坤霹雳掌,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
-先天属性_DLC2织女穿梭,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
-先天属性_DLC2流影千重梭,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.
+先天属性_DLC2推山掌,Increase or decrease damage based on the difference in <#29F161>Strength</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>พละกำลัง</color>
+先天属性_DLC2格天九式,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของค่า <#29F161>พลังกาย</color>
+先天属性_DLC2错骨手,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องตัว</color>
+先天属性_DLC2乾坤霹雳掌,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องตัว</color>
+先天属性_DLC2织女穿梭,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องตัว</color>
+先天属性_DLC2流影千重梭,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องตัว</color>
 KungfuCastBuff_DLC2推山掌buff1,Effect One
 KungfuCastBuff_DLC2格天九式buff1,Effect One
 KungfuCastBuff_DLC2格天九式buff2,Effect Two
@@ -2089,10 +2089,10 @@ KungfuCastBuffInfo_DLC2错骨手buff1,"For every point your Dexterity is higher 
 KungfuCastBuffInfo_DLC2错骨手buff2,"If your main internal skill is Epic or above and Yin in nature, final damage is increased by 60%."
 KungfuCastBuffInfo_DLC2乾坤霹雳掌buff1,"For every 75 points your current MP is higher than the enemy's, deal 1 point of Internal Injury to the enemy, up to a maximum of 25 points of Internal Injury."
 KungfuCastBuffInfo_DLC2乾坤霹雳掌buff2,"The higher the enemy's Internal Injury, the more damage they take. For every 1 point of Internal Injury, the final damage is increased by 1.8%."
-KungfuCastBuffInfo_DLC2乾坤霹雳掌buff3,"When Critical is triggered, CriticalIncreases Damage by 120%."
-KungfuCastBuffInfo_广袖流云buff1,"For every point your Dexterity is higher than the enemy's Dexterity, the final damage increases by 4.5%, up to a maximum of 45%."
-KungfuCastBuffInfo_DLC2织女穿梭buff1,"When the user is female, final damage is increased by 75%."
-KungfuCastBuffInfo_DLC2织女穿梭buff2,"For every 1 point your Dexterity is higher than the enemy's, inflict 1 point of Bleeding on the enemy, up to a maximum of 15 points of Bleeding."
-KungfuCastBuffInfo_DLC2流影千重梭buff1,"For each additional person attacked, final damage is increased by 50%."
-KungfuCastBuffInfo_DLC2流影千重梭buff2,"For every point your Dexterity is higher than the enemy's, reduce the enemy's energy by 15 points, up to a maximum reduction of 300 points."
-KungfuCastBuffInfo_DLC2流影千重梭buff3,"For each enemy defeated, your attack increases by 8%, lasting until the end of the battle."
+KungfuCastBuffInfo_DLC2乾坤霹雳掌buff3,"When Critical is triggered, CriticalIncreases Damage by 120%.",ถ้าโจมตีติดคริติคอล จะความเสียหายคริติคอลเพิ่มขึ้น 120%
+KungfuCastBuffInfo_广袖流云buff1,"For every point your Dexterity is higher than the enemy's Dexterity, the final damage increases by 4.5%, up to a maximum of 45%.","ทุกๆ แต้มที่""คล่องแคล่ว""ของคุณสูงกว่าของศัตรู, ความเสียหายสุดท้ายจะเพิ่มขึ้น 4.5% สูงสุด 45%"
+KungfuCastBuffInfo_DLC2织女穿梭buff1,"When the user is female, final damage is increased by 75%.","เมื่อตัวละครหญิงใช้วิทยายุทธนี้, สร้างความเสียหายสุดท้ายเพิ่มขึ้น 75%"
+KungfuCastBuffInfo_DLC2织女穿梭buff2,"For every 1 point your Dexterity is higher than the enemy's, inflict 1 point of Bleeding on the enemy, up to a maximum of 15 points of Bleeding.","สำหรับทุกๆ 1 แต้มที่ค่า""คล่องแคล่ว""ของคุณสูงกว่าของศัตรู, จะสร้างสถานะเลือดไหลแก่ศัตรู 1 แต้ม สูงสุดไม่เกิน 15 แต้ม"
+KungfuCastBuffInfo_DLC2流影千重梭buff1,"For each additional person attacked, final damage is increased by 50%.",ความเสียหายเพิ่มขึ้นตามจำนวณคนที่ถูกโจมตี คนละ 50%
+KungfuCastBuffInfo_DLC2流影千重梭buff2,"For every point your Dexterity is higher than the enemy's, reduce the enemy's energy by 15 points, up to a maximum reduction of 300 points.","ทุกๆ แต้มที่ค่า""คล่องแคล่ว""ของคุณสูงกว่าของศัตรู, ลดค่าปราณเคลื่อนที่ของศัตรูลง 15 แต้ม, สูงสุด 300 แต้ม"
+KungfuCastBuffInfo_DLC2流影千重梭buff3,"For each enemy defeated, your attack increases by 8%, lasting until the end of the battle.",สำหรับศัตรูทุกตัวที่พ่ายแพ้ พลังโจมตีของคุณจะเพิ่มขึ้น 8% แต้ม ซึ่งจะคงอยู่จนจบการต่อสู้
