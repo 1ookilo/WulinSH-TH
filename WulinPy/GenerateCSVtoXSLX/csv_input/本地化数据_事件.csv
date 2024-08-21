@@ -239,8 +239,8 @@ M1200-6_name,Discovered by the dog,ถูกค้นพบโดยสุนั
 3008_options01_02,[Attribute] Use <color=#c44b0e>500MP</color> to heal him,[คุณสมบัติ] ใช้ <color=#c44b0e>500MP</color> เพื่อรักษาเขา
 3008_options01_03,"Helpless, can't do anything",หมดหนทางทำอะไรไม่ได้เลย
 M1400-3_name,Bandits in Lost Forest are surrounded by wild boars,โจรในป่าสาปสูญ ถูกรายล้อมไปด้วยหมูป่า
-M1400-3_options1_1,"I don't care about them, it's a good thing if these bandits die here!",ข้าไม่สนใจพวกมัน มันคงจะดีถ้าโจรพวกนี้ตายที่นี่!
-M1400-3_options1_2,"I can't just watch people die, I have to help.<color=#c44b0e>(Specific Battle)</color>",ข้าไม่สามารถดูคนตายได้ แต่ข้าต้องช่วย<color=#c44b0e>(เข้าสู่การต่อสู้)</color>
+M1400-3_options1_1,"I don't care about them, it's a good thing if these bandits die here!",ข้าไม่สนใจพวกมัน ถ้าโจรพวกนี้ตายเสียที่นี่ก็ดีเหมือนกัน!
+M1400-3_options1_2,"I can't just watch people die, I have to help.<color=#c44b0e>(Specific Battle)</color>",ข้าไม่สามารถปล่อยให้มีคนตายได้ ข้าต้องช่วย<color=#c44b0e>(เข้าสู่การต่อสู้)</color>
 3010_name,Abandoned Temple Fist,หมัดสิ้นรำลึกสถาน
 3011_name,Read the Sword Tombstone,อ่านป้ายสุสานกระบี่
 3011_options1_1,Try to read the tombstone,ลองอ่านป้ายสุสานดู

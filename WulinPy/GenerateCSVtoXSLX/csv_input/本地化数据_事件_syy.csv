@@ -3171,7 +3171,7 @@ R10009-4_op_1_dialog,"Considering your help in maintaining the face of the Ye fa
 R10009-4_op_1_1,I'm ready!,ข้าพร้อมเสมอ!
 R10009-4_op_1_2,Hold on a moment.,รอสักครู่.
 R10009-5_1_1,"I still have a lot of things to do that don't require help from others, so let's go our separate ways.",ข้ายังมีเรื่องที่ต้องทำอีกมากมายและไม่จำเป็นต้องให้ใครช่วย ดังนั้นเราแยกย้ายกันไปเถอะ
-R10009-5_2_1,"Without my father's permission, I dare not run around freely. His family law is ruthless, I don't want to be beaten and unable to get out of bed for days.","ถ้าท่านพ่อข้าไม่อนุญาติ ข้าก็ไม่สามารถออกไปข้างนอกอย่างอิสระได้\nกฎของตระกูลนั้นโหดมาก ข้าไม่อยากถูกอัดจนติดเตียงไปเป็นวันหรอกนะ!"
+R10009-5_2_1,"Without my father's permission, I dare not run around freely. His family law is ruthless, I don't want to be beaten and unable to get out of bed for days.","หากท่านพ่อข้าไม่อนุญาต ข้าก็ไม่สามารถออกไปข้างนอกอย่างอิสระได้\nกฎของตระกูลนั้นเข้มงวดมาก ข้าไม่อยากถูกโบยจนลุกไม่ไหวเป็นวันๆหรอกนะ!"
 R10009-5_3_1,"{PlayerName}, don't try to make connections with me. We're not familiar with each other, don't try to win me over.",{PlayerName} อย่าพยายามสร้างความสัมพันธ์กับข้า เราไม่ได้สนิทสนมกัน อย่าพยายามเอาใจข้า
 R10009-5_4_1,"Finally, I can venture into the martial world again, I've been stifled these past few days.",ในที่สุดข้าก็ออกไปผจญภัยในยุทธภพได้อีกครั้ง หลายวันที่ผ่านมานี้ช่างน่าอึดอัด
 R10009-5_5_1,"Your team doesn't have a single vacancy. Inviting me to join is quite insincere, don't you think?",ทีมของเจ้าไม่มีที่ว่างเลยสักตำแหน่ง การชวนข้าเข้าร่วมดูไม่จริงใจเท่าไหร่ เจ้าไม่คิดอย่างนั้นหรือ?
@@ -7810,7 +7810,7 @@ M2000-26_op_1_4,Temporarily helpless.,ไม่สามารถทำอะไ
 M2000-26_3_1,One shichen later...,หนึ่งชั่วยามต่อมา...
 M2000-26_4_1,"Phew, barely saved a life...",ฟู่ เกือบช่วยชีวิตไว้ไม่ได้...
 M2000-26_4_2,"Thank you for your life-saving grace, young hero. I will give you this amulet as a token of my gratitude.",ขอบคุณสำหรับพระคุณในการช่วยชีวิตข้า จอมยุทธ์น้อย ข้าจะมอบเครื่องรางนี้ให้กับท่าน เพื่อแทนการตอบแทนของข้า
-M1400-3_4_14,"By the way, a few years ago, my brother and I met a Vagabond who claimed to be a martial arts master named Yu Ge. Seeing that we were good with axes, he gave us a small axe."
+M1400-3_4_14,"By the way, a few years ago, my brother and I met a Vagabond who claimed to be a martial arts master named Yu Ge. Seeing that we were good with axes, he gave us a small axe.",อ้อ จริงสิ เมื่อหลายปีก่อน  พวกเราสองพี่น้องได้พบกับจอมยุทธที่วรยุทธเก่งกาจคนหนึ่งชื่อว่า พี่อวี๋ เขาเห็นว่าพวกเราสองพี่น้องใช้ขวานได้ดี  จึงมอบขวานเล็กนเล่มนี้ให้พวกเรา
 M1400-3_4_15,"We studied it for a while but didn't find anything special, so we'll give it to you, hero!",พวกเราลองสำรวจดูแต่ก็ไม่พบว่ามันพิเศษอันใด เลยจะขอมอบให้ท่านจอมยุทธแล้วกัน!
 M1400-3_4_16,Exactly!,ใช่เลย!
 M1000-20_1_1,It seems this is the courtyard that the host has given me.,ดูเหมือนนี่จะเป็นลานที่เจ้าของหอมอบให้ข้าสินะ
