@@ -265,8 +265,8 @@ GeneralQue-2_16_1,"I've written a new song, but no one can bear the true meaning
 GeneralQue-2_16_2,"If someone from your sect can listen to this song in its entirety, I will give you this <color=#c44b0e>unique music score</color>."
 GeneralQue-2_17_1,"It's really Mountain and River, a bosom friend is hard to find! This <color=#c44b0e>Laughing at the World</color> score is for you."
 GeneralQue-2_18_1,"It's like playing the lute to a cow, burning the lute and boiling the crane..."
-GeneralQue-3_name,Exterminate Mountain Bandit
-GeneralQue-3_log,"Some Mountain Bandits have appeared near the sect, causing trouble for the people. Please send someone to deal with them quickly."
+GeneralQue-3_name,Exterminate Mountain Bandit,กำจัดโจรภูเขา
+GeneralQue-3_log,"Some Mountain Bandits have appeared near the sect, causing trouble for the people. Please send someone to deal with them quickly.",มีโจรภูเขาบางกลุ่มปรากฏตัวใกล้สำนัก ก่อความเดือดร้อนให้กับผู้คน กรุณาส่งคนไปจัดการกับพวกเขาโดยเร็ว
 GeneralQue-3_1_1,"Hehe, the resources around here are really abundant, we must make a big score!"
 GeneralQue-3_1_2,"This is natural. If the nearby sects ignore us, we will take <color=#c44b0e>their resources</color> and run away."
 GeneralQue-3_1_3,We will stay for <color=#c44b0e>2 months</color> and then run away.
@@ -801,7 +801,7 @@ fail-17_1_1,"As the leaders of the Cold Skin Gang surrender one by one, \ntheir 
 fail-17_1_2,"It turns out that all of Huo's calculations can't compete with your unparalleled martial arts.\nAs long as you spare my brothers, I, Huo, swear never to be your enemy again!"
 fail-18_1_1,"The ambition to dominate the Western Regions, the dream to compete for the Central Plains,\nAre crushed by your hands into a pipe dream,\nThe strongest spirit in the Western Regions has become a fleeting cloud in your eyes,\nOn the peak where few people tread,\nThe sacred flame of the Endless Life Force,\nHas quietly extinguished at some unknown time..."
 fail-18_1_2,"After all these years, you are the only one who has pushed me to this point... Huo couldn't do it, King Chai couldn't do it, only you... only you!"
-GeneralQue-10_1_1,"Good news, the Mountain Bandits who often harass our sect have been found by us!"
+GeneralQue-10_1_1,"Good news, the Mountain Bandits who often harass our sect have been found by us!",ข่าวดี! โจรภูเขาที่มักมารังควานสำนักของเราได้ถูกเราพบเจอแล้ว!
 GeneralQue-10_1_2,"Finally caught these bastards, the end of the bandit menace is today."
 GeneralQue-10_name,Eliminate the Mountain Bandit Nest
 GeneralQue-10_log,You have sent Disciples to investigate and finally found the lair of the Mountain Bandits who often plunder you.
