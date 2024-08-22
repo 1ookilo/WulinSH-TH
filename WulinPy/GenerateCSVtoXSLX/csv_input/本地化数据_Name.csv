@@ -462,7 +462,7 @@ CharaName_杀手,Assassin,นักฆ่า
 CharaName_白衣书生,White-clothed Scholar,ปราชญ์ชุดขาว
 CharaName_带斗笠人,Man with Bamboo Hat,ชายสวมหมวกสานไม้ไผ่
 CharaName_无聊人,Bored Man,คนน่าเบื่อ
-CharaName_看热闹的闲汉,Busybody,คนยุ่ง
+CharaName_看热闹的闲汉,Busybody,ชายจุ้นจ้าน
 CharaName_商人·甲,Merchant·A,พ่อค้า เจี่ย
 CharaName_商人·乙,Merchant·B,พ่อค้า ข.
 CharaName_破戒的和尚,Oathsbreak Monk,หลวงจีนผู้หลงผิด
@@ -605,7 +605,7 @@ CharaName_神捕门·捕快,Crime Investigation Bureau·Constable,มือป�
 CharaName_神捕门·捕头,Crime Investigation Bureau·Chief Constable,หัวหน้ามือปราบสำนักสืบสวน
 CharaName_燕子窝·弟子,Swallow's Nest Disciple,ศิษย์รังนกนางแอ่น
 CharaName_虎威镖局·镖头,Tiger Escort-Escort Captain,สำนักคุ้มภัยพยัคฆา·หัวหน้าผู้คุ้มภัย
-CharaName_琅琊剑阁·练功弟子,Langya Sword Pavilion·Training Disciple,สำนักกระบี่หลางหยา : ศิษย์ช่วยการฝึกฝน
+CharaName_琅琊剑阁·练功弟子,Langya Sword Pavilion·Training Disciple,ศาลากระบี่หลางหยา : ศิษย์ฝึกหัด
 CharaName_海龙帮·喽罗,Sea Dragon Gang-Lackey,สมุนพรรคมังกรสมุทร
 CharaName_飞鹰帮·喽罗,Flying Eagle Gang-Lackey,สมุนพรรคอินทรีเหิน
 CharaName_道玄宗·弟子,Taoist Sect·Disciple,สำนักเต๋า·ลูกศิษย์
@@ -909,7 +909,7 @@ CharaTitle_摸金门,Tomb Raider Sect,สำนักปล้นสุสาน
 CharaTitle_玄衣会,Black Robe Group,กลุ่มเสื้อคลุมดำ
 CharaTitle_燕子窝,Swallow Nest,รังนกนางแอ่น
 CharaTitle_虎威镖局,Tiger Escort ,สำนักคุ้มภัยพยัคฆา
-CharaTitle_琅琊剑阁,Langya Sword Pavilion,สำนักกระบี่หลางหยา
+CharaTitle_琅琊剑阁,Langya Sword Pavilion,ศาลากระบี่หลางหยา
 CharaTitle_万兽山庄,Beast Manor,หมู่ตึกหมื่นอสูร
 CharaTitle_冷皮帮,Cold Skin Gang,พรรคมังสาเหมันต์
 CharaTitle_夜摩坊,Night Auction Market,ตลาดประมูลราตรี

@@ -2828,7 +2828,7 @@ R10008-8_15_21,"...{PlayerGivenName} brother, have you ever really looked at the
 R10008-8_15_22,"(People usually rush in and out of the God of Marriage's Shrine, only walking the straight line from the entrance to the shrine, never really taking in the scenery.)",(ผู้คนต่างเร่งรีบเข้ามาและจากไปในศาลเทพเจ้าด้ายแดงแห่งนี้ มีเพียงตรงเข้ามาจากทางเข้าแล้วก็ไปยังศาลเจ้าเลย ไม่เคยได้ชมความงามรอบๆจริงจังกัน)
 R10008-8_15_23,Didn't we take a look last time we were here?,ไม่ใช่ว่าครั้งที่แล้วที่เรามาเราก็ชมมันไปแล้วหรือ?
 R10008-8_15_24,Hmm...,หืม....
-R10008-8_15_25,"The glow of the dawn is as beautiful as flowers, and the flowers are as beautiful as people... Actually, the God of Marriage's Shrine is very beautiful.",จริงๆแล้ว ศาลเทพเจ้าด้ายแดงแห่งนี้ก็สวยดีนะ
+R10008-8_15_25,"The glow of the dawn is as beautiful as flowers, and the flowers are as beautiful as people... Actually, the God of Marriage's Shrine is very beautiful.",แสงอรุณรุ่งงดงามปานบุปผา มวลผกางามจิตรดั่งอิตถี... อันที่จริงศาลเทพเจ้าด้ายแดงแห่งนี้ช่างงดงามยิ่งนัก
 R10008-8_15_26,Huff...,ฮึบ...
 R10008-8_15_27,I've made up my mind.,ข้าตัดสินใจแล้ว
 R10008-8_15_28,"{PlayerGivenName} brother, let's tell my brother about us, let's tell everyone!",พี่{PlayerGivenName} ไปบอกเรื่องนี้กับพี่ชายของข้ากันเถอะ ไปบอกทุกคนกันเลย!
@@ -5641,29 +5641,29 @@ DNGT-1_0_17,"I will go around the city to help collect information, and if I fin
 DNGT-1_0_18,Let Elder Mo rest in peace.
 DNGT-1_0_19,You found a suitable place and buried Mo Yuan's body.
 DNGT-1_0_20,"Elder Mo, I hope you have a good journey..."
-DNGT-1_1_1,{PlayerSurName} General.
-DNGT-1_1_2,You are... Lu Chenxuan? What's the matter?
-DNGT-1_1_3,"I'm here to report a crime, Mo Yuan, he's dead."
-DNGT-1_1_4,There's a knife wound on his back... He was killed by a sneak attack from behind.
-DNGT-1_1_5,"There's no blood on the ground, this is not the crime scene."
-DNGT-1_1_6,Do you have any clues about the person who used the knife?
-DNGT-1_1_7,"Wang Hu and Fu Duanyun who I saw at the birthday banquet, and Tian Wu, a servant of Duke Chai's Tower, and..."
-DNGT-1_1_8,You?
-DNGT-1_1_9,But it's not me.
-DNGT-1_1_10,I hope it's not you.
-DNGT-1_1_11,"Someone tried to sneak attack me too.\nI didn't kill him, but he left this."
-DNGT-1_1_12,Is this... a short stick?
-DNGT-1_1_13,It's from that weird guy with his head wrapped.
-DNGT-1_1_14,Why did he sneak attack you?
-DNGT-1_1_15,"They stayed to help King Chai, we didn't."
-DNGT-1_1_16,Just because of this?
-DNGT-1_1_17,"I can't think of any other possibilities.\nIf I can't stay out of it, {PlayerSurName} General, please let me help."
-DNGT-1_1_18,"Okay, then I'll ask you to work with Mr. Lu to collect some clues in the city. The most urgent task is to find out the purpose of King Chai and his men."
-DNGT-1_1_19,Leave it to me.
-DNGT-1_1_20,His body... Send it back to the Government Office and give it to the coroner.
-DNJH-7-2_0_1,"Wait, something's not right around here--"
-DNJH-7-2_0_2,"That was close, if I hadn't reacted quickly, I would have been hit."
-DNJH-7-2_0_3,Who dares to ambush me!
+DNGT-1_1_1,{PlayerSurName} General.,แม่ทัพ {PlayerSurName}
+DNGT-1_1_2,You are... Lu Chenxuan? What's the matter?,ท่านคือ... ลู่ เฉินเซียน? มีเรื่องอะไรหรือ?
+DNGT-1_1_3,"I'm here to report a crime, Mo Yuan, he's dead.",ข้ามาแจ้งความ โม่ หยวน ตายแล้ว
+DNGT-1_1_4,There's a knife wound on his back... He was killed by a sneak attack from behind.,ถูกฟันจากด้านหลังด้วยคมดาบ...ถูกหมายหัวลอบสังหารจากด้านหลังจนสิ้นลมหายใจ
+DNGT-1_1_5,"There's no blood on the ground, this is not the crime scene.",บนผืนดินไม่ปรากฏคราบเลือด บ่งชี้ว่าสถานที่แห่งนี้มิใช่จุดกำเนิดเหตุการณ์ร้ายแรง
+DNGT-1_1_6,Do you have any clues about the person who used the knife?,ท่านมีเค้าลางใดๆ เกี่ยวกับผู้ที่คล่องแคล่วในวิชาดาบหรือไม่?
+DNGT-1_1_7,"Wang Hu and Fu Duanyun who I saw at the birthday banquet, and Tian Wu, a servant of Duke Chai's Tower, and...",ณ งานฉลองวาระครบรอบวันเกิด พบเห็น หวังหู่ และ ฟู่ ต้วนหยุน พร้อมทั้ง เถียน อู่ ขุนพลแห่งหอคอยของอ๋องไฉ  รวมถึง...
+DNGT-1_1_8,You?,เจ้าด้วย ?
+DNGT-1_1_9,But it's not me.,แต่ไม่ใช่ตัวข้า
+DNGT-1_1_10,I hope it's not you.,ข้า ก็หวังว่าจะไม่ใช่เจ้า
+DNGT-1_1_11,"Someone tried to sneak attack me too.\nI didn't kill him, but he left this.","เคยมีผู้หนึ่งแอบเข้ามาทำร้ายข้า\nแต่ข้าไม่สามารถสังหารเขาได้ ทว่าเขากลับทิ้งสิ่งนี้ไว้ให้"
+DNGT-1_1_12,Is this... a short stick?,นี่คือ...แท่งไม้สั้น?
+DNGT-1_1_13,It's from that weird guy with his head wrapped.,เป็นฝีมือของไอ้หมอนั่น ที่เอาผ้าคลุมหัว
+DNGT-1_1_14,Why did he sneak attack you?,เหตุใดเขาจึงต้องลอบโจมตีเจ้า?
+DNGT-1_1_15,"They stayed to help King Chai, we didn't.",เขาทั้งหลายอยู่คอยช่วยเหลืออ๋องไฉ ส่วนพวกเราไม่ได้ทำเช่นนั้น
+DNGT-1_1_16,Just because of this?,แค่เพราะเรื่องนี้เท่านั้นหรือ?
+DNGT-1_1_17,"I can't think of any other possibilities.\nIf I can't stay out of it, {PlayerSurName} General, please let me help.","ข้าคิดไม่ออกแล้วว่าจะมีหนทางอื่นใด \nหากข้ามิอาจอยู่เฉยๆ ได้อีกต่อไป แม่ทัพ{PlayerSurName} จงโปรดให้ข้าได้ช่วยเหลือบ้างเถิด"
+DNGT-1_1_18,"Okay, then I'll ask you to work with Mr. Lu to collect some clues in the city. The most urgent task is to find out the purpose of King Chai and his men.",เช่นนั้น ข้าขอให้ท่านกับ ท่านหลู ช่วยกันสืบหาข่าวสารในเมืองนี้ด้วยนะ สิ่งสำคัญที่สุดตอนนี้คือเราต้องรู้ให้ได้ว่าพวกอ๋องไฉ ต้องการอะไรกันแน่
+DNGT-1_1_19,Leave it to me.,ปล่อยให้เป็นหน้าที่ข้าเถอะ
+DNGT-1_1_20,His body... Send it back to the Government Office and give it to the coroner.,ศพของท่านผู้นี้... จงเคลื่อนย้ายกลับสู่ศาลาว่าการ แล้วมอบให้หมอผ่าชันสูตรตรวจสอบเถิด
+DNJH-7-2_0_1,"Wait, something's not right around here--",รอเดี๋ยว! บริเวณรอบๆ นี้มันดูผิดปกติ
+DNJH-7-2_0_2,"That was close, if I hadn't reacted quickly, I would have been hit.",โชคดีเหลือเกินที่ข้าปราดเปรียวว่องไวพอ ไม่เช่นนั้นคงถูกโจมตีเข้าให้แล้ว
+DNJH-7-2_0_3,Who dares to ambush me!,บุคคลใดที่กล้าคิดจะมาลอบสังหารข้า!
 DNJH-7-2_0_4,"Tsk, I missed..."
 DNJH-7-2_0_5,Over there!
 DNJH-7-2_1_1,Isn't that Qin Yanluo? I didn't expect you to become a dog for the Chai family after you ran away.
@@ -5681,7 +5681,7 @@ DNJH-7-2_6_1,"Damn, I didn't expect Qin Yanluo to be involved in this matter, it
 DNJH-7-2_6_2,There was also a South-East Barbarian with him just now... It seems I must hurry to the camp.
 DNJH-7-2_7_1,"Damn, who is this guy, he dares to ambush me!"
 DNJH-7-2_7_2,There was also a South-East Barbarian with him just now... It seems I must hurry to the camp.
-DNGT-2_00_1,"It seems normal here, there is no trace of the South-East Barbarian."
+DNGT-2_00_1,"It seems normal here, there is no trace of the South-East Barbarian.", ดูเหมือนว่าที่นี่จะสงบสุข ไม่มีเงาของพวกคนเถื่อนเลย
 DNGT-2_0_1,"Who are you, this is a military camp, no loitering allowed!"
 DNGT-2_0_2,"I am {PlayerName}, entrusted by General Han to come and report the situation, this is General Han's letter of introduction."
 DNGT-2_0_3,"So it is, there are thieves pretending to be soldiers delivering false information..."
@@ -5743,25 +5743,25 @@ DNGT-2_5_7,"I understand, the attacks here are just feints, their real target mu
 DNGT-2_5_8,Are there any other places in the South-East Region...
 DNGT-2_5_9,"Right, Mei Pass Post! There are plenty of supplies there, and it's a must-pass route to the southeast, as long as we capture it...",ถูกต้อง สถานีม้าเร็วด่านเหมยที่นั่นมีเสบียงอาหาร และเป็นเส้นทางผ่านสำคัญไปยังตะวันออกเฉียงใต้ หากเราสามารถยึดที่นั่นได้...
 DNGT-2_5_10,"No, I must hurry to Mei Pass Post!",ไม่ได้ ข้าต้องรีบไปสถานีม้าเร็วด่านเหมย!
-DNGT-3_0_1,"Damn, still one step too late!"
-DNGT-3_0_2,"Oh, another one here to die!"
-DNGT-3_0_3,The ones who should die are you!
-DNGT-3_1_1,"These South-East Barbarians rushed in without a word and started fighting, even burning our houses...\nIf it weren't for your timely arrival, I'm afraid..."
-DNGT-3_2_1,"Phew... I thought I was done for this time, thanks to your timely arrival..."
-DNGT-3_3_1,"Don't worry, leave this place to me, you guys go to a safe place to hide, I will definitely drive all these South-East Barbarians away!"
-DNGT-3_4_1,"Damn South-East Barbarians, such burning, killing and looting, I will not spare you!"
-DNGT-3_5_1,Why is this yard already burned clean?
-DNGT-3_5_2,"Yes, but a few things look pretty good."
-DNGT-3_5_3,"You, who are you?! Where are the other Clanmen?"
-DNGT-3_5_4,"They've all been killed by me, now it's just you guys left!"
-DNGT-3_6_1,"These South-East Barbarians are really hateful, they actually want to harm the people here..."
-DNGT-3_6_2,I suddenly felt a chill...
-DNGT-3_6_3,Such a heavy killing intent!
-DNGT-3_6_4,{yell}You actually did this here... Die!
-DNGT-3_7_1,"Liao Yuelong, why are you doing this?!"
-DNGT-3_7_2,"You bastard, you actually destroyed my home again—!"
+DNGT-3_0_1,"Damn, still one step too late!",บ้าเอ๊ย ข้าช้าไปก้าวหนึ่งหรือนี่...
+DNGT-3_0_2,"Oh, another one here to die!",ฮ่า! มีอีกหนึ่งคนที่อยากจะมาลองดี
+DNGT-3_0_3,The ones who should die are you!, เป็นพวกเจ้าต่างหากที่ควรจะตาย!
+DNGT-3_1_1,"These South-East Barbarians rushed in without a word and started fighting, even burning our houses...\nIf it weren't for your timely arrival, I'm afraid...","พวกมันเหล่านั้น บรรดาพวกคนเถื่อน ไม่ฟังคำพูดใดๆ ทั้งสิ้น พุ่งเข้ามาทำร้ายผู้คนโดยไม่เลือกหน้า แล้วยังเผาทำลายบ้านเรือนของพวกเราอีกด้วย... \nหากท่านไม่มาช่วยเหลือทันท่วงที ก็เกรงว่า..."
+DNGT-3_2_1,"Phew... I thought I was done for this time, thanks to your timely arrival...",เฮ้อ... ข้าคิดว่าคราวนี้คงต้องตายแล้ว เห็นทีจะต้องขอบคุณเจ้าที่ช่วยชีวิตข้าไว้ได้ทันท่วงที...
+DNGT-3_3_1,"Don't worry, leave this place to me, you guys go to a safe place to hide, I will definitely drive all these South-East Barbarians away!",จงวางใจเถิด บัดนี้ข้าจะดูแลสถานการณ์นี้เอง ท่านทั้งหลายจงรีบไปยังที่ลับตาคนเพื่อหลบภัยเถิด ข้าจะขับไล่พวคนเถื่อนต่ำช้าเหล่านี้ให้พ้นไปจากที่นี่!
+DNGT-3_4_1,"Damn South-East Barbarians, such burning, killing and looting, I will not spare you!",พวกมันช่างเป็นพวกป่าเถื่อนที่น่ารังเกียจยิ่งนัก ก่อการอันทารุณเช่นนี้ ข้าจะต้องลงทัณฑ์ให้สาสมกับความผิด
+DNGT-3_5_1,Why is this yard already burned clean?,สวนหลังบ้านแห่งนี้ เหตุใดจึงถูกเผาจนหมดสิ้นเช่นนี้เล่า?
+DNGT-3_5_2,"Yes, but a few things look pretty good.",ใช่แล้ว แต่ว่า มีสิ่งของอยู่สองสามอย่าง ที่ดูจะน่าสนใจดี
+DNGT-3_5_3,"You, who are you?! Where are the other Clanmen?",เจ้าเป็นใครกันแน่ถึงกล้ามาที่นี่! บรรดาพรรคพวกของข้าอยู่ไหน?
+DNGT-3_5_4,"They've all been killed by me, now it's just you guys left!",ข้าได้กวาดล้างพวกมันจนหมดสิ้นแล้ว บัดนี้ถึงคราวของพวกเจ้าที่จะต้องชดใช้กรรม
+DNGT-3_6_1,"These South-East Barbarians are really hateful, they actually want to harm the people here...",พวกคนเถื่อนเหล่านี้ช่างชั่วช้าเหลือเกิน ที่กล้ามาลงมือกับผู้คนในดินแดนนี้...
+DNGT-3_6_2,I suddenly felt a chill...,ราวกับว่ามีไอเย็นแผ่ปกคลุมทั่วร่างกายในทันใด
+DNGT-3_6_3,Such a heavy killing intent!,จิตสังหารรุนแรงเกิดขึ้น
+DNGT-3_6_4,{yell}You actually did this here... Die!,{yell} เจ้ากล้าทำที่นี่...ตายซะ!
+DNGT-3_7_1,"Liao Yuelong, why are you doing this?!",เหลียว เยว่หลง เหตุใดเจ้าจึงกระทำการเช่นนี้?
+DNGT-3_7_2,"You bastard, you actually destroyed my home again—!",ไอ้คนเลว! กล้าทำลายบ้านของข้าอีกแล้วหรือ?
 DNGT-3_7_3,Could it be that Liao Yuelong is from Mei Pass Post?,เป็นไปได้ไหมว่า เหลียวเย่หลง มาจากด่านเหมย?
-DNGT-3_7_4,"Brother Liao, listen to my explanation, this is the doing of the South-East Barbarians, it has nothing to do with me!"
+DNGT-3_7_4,"Brother Liao, listen to my explanation, this is the doing of the South-East Barbarians, it has nothing to do with me!",พี่เหลียว ขอท่านฟังคำอธิบายของข้าเถิด ที่นี่เป็นการกระทำของพวกคนเถื่อน ไม่เกี่ยวกับข้าเลย!
 DNGT-3_7_5,Then where are the South-East Barbarians you mentioned?!
 DNGT-3_7_6,They've all been dealt with by me...
 DNGT-3_7_7,Do you think I would believe you?!
@@ -5771,24 +5771,24 @@ DNGT-3_7_10,"(My lord? The lord in Liao Yuelong's mouth must be King Chai, it se
 DNGT-3_7_11,"Liao Yuelong, do you know something about King Chai and the South-East Barbarians?"
 DNGT-3_7_12,It's none of your business!
 DNGT-3_7_13,"(Damn, this guy doesn't listen to anyone, do I have to—)"
-DNGT-3_8_1,"Young Master Liao, he's telling the truth, please stop."
-DNGT-3_8_2,You say this...
-DNGT-3_8_3,"Yes, it was indeed South-East Barbarian who did it. If it weren't for his help, we would have probably..."
+DNGT-3_8_1,"Young Master Liao, he's telling the truth, please stop.",คุณชายเหลียว ท่านผู้นั้นกล่าวถูกแล้ว ขอท่านหยุดมือเถิด
+DNGT-3_8_2,You say this...,เจ้าพูดว่าอะไร?
+DNGT-3_8_3,"Yes, it was indeed South-East Barbarian who did it. If it weren't for his help, we would have probably...",ถูกต้องแล้ว จริงๆ แล้วเป็นการกระทำของพวกคนเถื่อน หากมิใช่ท่านผู้นี้เมตตาช่วยเหลือ พวกข้าคง...
 DNGT-3_8_4,"The most urgent task is to put out this fire. If it continues to burn, Mei Pass Post might be ruined.",อันดับแรกต้องรีบดับไฟให้ได้โดยเร็วที่สุด หากปล่อยให้ไฟลามต่อไป สถานีม้าเร็วด่านเหมยก็จะมอดไหม้เป็นจุล
-DNGT-3_8_5,Okay.
-DNGT-3_8_6,I'll help too.
+DNGT-3_8_5,Okay.,ตกลง
+DNGT-3_8_6,I'll help too.,ข้าจะช่วยเจ้าเอง!
 DNGT-3_8_7,"You and the residents of Mei Pass Post put out the fire set by South-East Barbarian.\nFortunately, you arrived in time and the houses in Mei Pass Post were not severely burned.","เจ้าและชาวบ้านสถานีม้าเร็วด่านเหมย ร่วมแรงร่วมใจกันดับไฟที่ได้เผาโดยคนเถื่อนเขตตะวันออกเฉียงใต้\nโชคดีที่บ้านเรือนในสถานีม้าเร็วด่านเหมยไม่ได้ถูกไฟไหม้จนเสียหายมากนัก"
-DNGT-3_8_8,"Thank you for your help, young hero. We were able to get through this disaster because of you."
-DNGT-3_8_9,"No need to be polite, this is what I should do. I will inform the people of the Blade Destruction Army about what happened here and ask them to strengthen their guard."
-DNGT-3_8_10,That would be great.
-DNGT-3_8_11,"Brother Liao, do you have something to say?"
-DNGT-3_8_12,"...I mistakenly thought you were the arsonist before, it was my mistake, I apologize."
-DNGT-3_8_13,"No relations, if you can tell me some of the information you know, we will be even."
-DNGT-3_8_14,...What do you want to know?
-DNGT-3_8_15,The relations between South-East Barbarian and King Chai.
-DNGT-3_8_16,"I work for the lord, there are some things I can't say."
-DNGT-3_8_17,"Brother Liao, you are really loyal to King Chai."
-DNGT-3_8_18,The lord promised me that he would tell me who the murderer is...
+DNGT-3_8_8,"Thank you for your help, young hero. We were able to get through this disaster because of you.",ข้าขอขอบพระคุณท่านจอมยุทธน้อยเป็นอย่างยิ่ง ที่ได้กรุณาช่วยเหลือพวกเรา จึงทำให้พ้นจากวิกฤตครั้งนี้ไปได้
+DNGT-3_8_9,"No need to be polite, this is what I should do. I will inform the people of the Blade Destruction Army about what happened here and ask them to strengthen their guard.",ท่านไม่ต้องเกรงใจเลย นี่เป็นสิ่งที่พวกเราควรกระทำอยู่แล้ว ข้าจะรีบไปแจ้งให้กองทัพดาบพิฆาตทราบถึงเหตุการณ์ที่เกิดขึ้น ณ ที่นี้ เพื่อให้พวกเขาเพิ่มความระมัดระวังในการเฝ้าระวังสถานที่แห่งนี้ให้มากขึ้น
+DNGT-3_8_10,That would be great.,เป็นเช่นนั้นก็นับว่าดี
+DNGT-3_8_11,"Brother Liao, do you have something to say?",พี่เหลียว ท่านมีสิ่งใดจะเอ่ยออกมาหรือไม่?
+DNGT-3_8_12,"...I mistakenly thought you were the arsonist before, it was my mistake, I apologize.",... ก่อนหน้านี้ข้าได้เข้าใจผิดไปคิดว่าเจ้าเป็นผู้ก่อเหตุเพลิงไหม้ ข้าขออภัยในความเข้าใจผิดของข้า
+DNGT-3_8_13,"No relations, if you can tell me some of the information you know, we will be even.",ไม่เป็นไร ถ้าท่านสามารถบอกข่าวสารที่ท่านรู้ส่วนหนึ่งส่วนใดให้ข้าฟังได้ เรื่องนี้ระหว่างท่านกับข้าก็ถือว่าจบสิ้น
+DNGT-3_8_14,...What do you want to know?,เจ้าอยากรู้เรื่องอะไรล่ะ?
+DNGT-3_8_15,The relations between South-East Barbarian and King Chai.,ความสัมพันธ์ระหว่างพวกคนเถื่อนและอ๋องไฉ
+DNGT-3_8_16,"I work for the lord, there are some things I can't say.",ข้ารับใช้ท่านอ๋อง แต่มีบางสิ่งที่ลับสุดยอด ไม่สามารถเอ่ยออกมาได้
+DNGT-3_8_17,"Brother Liao, you are really loyal to King Chai.",พี่เหลียวท่านผู้นี้ ท่านผูกพันธ์และภักดีต่ออ๋องไฉอย่างแท้จริง
+DNGT-3_8_18,The lord promised me that he would tell me who the murderer is...,ท่านอ๋อง สัญญาว่าจะบอกให้ข้ารู้ว่าใครคือฆาตกร...
 DNGT-3_8_19,"I see, then I don't need to say anything. But I still have to remind Brother Liao, today it was South-East Barbarian who set fire to Mei Pass Post, please think about it.",อย่างนี้นี่เอง ข้าไม่มีอะไรจะพูดหรอก แต่ข้าขอให้พี่เหลียวจำไว้ว่า วันนี้พวกคนเถื่อนเขตตะวันออกเฉียงใต้คือคนที่เผาสถานีม้าเร็วด่านเหมย เรื่องนี้ข้าอยากให้พี่เหลียวเก็บไปคิดดูก่อนนะ
 DNGT-3_9_1,"Today's arson and the past grudges of the innkeepers, I will make you pay with blood!"
 DNGT-3_10_1,"Ancestors, I'm sorry..."
@@ -6869,7 +6869,7 @@ DNJH-11_2_3_2,"Decisive in killing, a real man indeed!"
 DNJH-11_2_3_3,"I wasn't wrong, {PlayerName} is quick to repay kindness and revenge, indeed a heroic figure in the martial arts world."
 DNJH-11_2_4_1,Do you realize your mistake?
 DNJH-11_2_4_2,"I know, I know..."
-DNJH-11_2_4_3,So what will you do next?
+DNJH-11_2_4_3,So what will you do next?,แล้วเราจะทำอย่างไรต่อดี?
 DNJH-11_2_4_4,I will go back and spread the news that the young hero is a great person...
 DNJH-11_2_4_5,What if you dare to offend again?
 DNJH-11_2_4_6,I dare not... I dare not...
@@ -6896,7 +6896,7 @@ DNJH-11_2_7_1,"Bring the suspect, Chai Wang, to the court!"
 DNJH-11_2_7_2,"Suspect Chai Wang, why don't you kneel?"
 DNJH-11_2_7_3,"I, Chai, am innocent, why should I kneel?"
 DNJH-11_2_7_4,I found a ledger in the South-East Barbarian Camp that records your financial and military dealings. What do you have to say?
-DNJH-11_2_7_5,Is my seal stamped on it?
+DNJH-11_2_7_5,Is my seal stamped on it?,บนนั้นมีตราประทับของข้าหรือไม่?
 DNJH-11_2_7_6,This...
 DNJH-11_2_7_7,"Anyone can write such a ledger with a wave of their hand.\nWould you believe me if I wrote a Ledger now about General Han accepting my bribe?"
 DNJH-11_2_7_8,"I see you won't shed a tear until you see the coffin, bring the witness to the court!"
@@ -6968,11 +6968,11 @@ DNJH-11_2_1_28,"Fool, don't you know the military law says: besiege the teacher 
 DNJH-11_2_1_29,"I had everything planned out, even if I had to face him in court, I wouldn't be afraid. But your move has disrupted all my plans!"
 DNJH-11_2_7_72,"Han Zi has exhausted all his means, but he still can't do anything to King Chai."
 DNJH-11_2_7_73,"Looking at the back of King Chai, you can't help but feel a chill."
-DNGT-3_15_1,"Who are you, why did you attack me? Are you also a South-East Barbarian?"
-DNGT-3_15_2,"You bastard, you really know how to play the victim! You actually destroyed my house——!"
-DNGT-3_15_3,"What, this is your house?"
-DNGT-3_15_4,"This is the old house of the Liao family, if it's not my, Liao Yuelong's house, whose is it?"
-DNGT-3_15_5,"Damn it, I need to calm you down first!"
+DNGT-3_15_1,"Who are you, why did you attack me? Are you also a South-East Barbarian?", ท่านเป็นผู้ใด เหตุใดจึงมาลอบโจมตีข้า หรือว่าท่านจะเป็นพวกป่าเถื่อนเช่นเดียวกัน?
+DNGT-3_15_2,"You bastard, you really know how to play the victim! You actually destroyed my house——!",ไอ้คนเลวทรามชั่วช้า! กล้าจะมาใส่ความผู้อื่นเสียแล้ว! กล้าดีอย่างไรถึงได้กระทำการอันชั่วช้าเช่นนี้กับบ้านเรือนของข้า!
+DNGT-3_15_3,"What, this is your house?",อะไรนะ นี่คือบ้านของเจ้า?
+DNGT-3_15_4,"This is the old house of the Liao family, if it's not my, Liao Yuelong's house, whose is it?",นี่คือบ้านเก่าของตระกูลเหลียวของเรานี่นา จะเป็นบ้านของใครไปได้อีก ถ้าไม่ใช่บ้านของข้า เหลียว เยว่หลง
+DNGT-3_15_5,"Damn it, I need to calm you down first!",บ้าเอ้ย... ต้องทำให้เจ้าสงบลงเสียก่อน!
 R10049-0_0_4_1,"Miss, are you okay? I see those four thieves seem to have bad intentions..."
 R10049-0_0_4_2,"I'm fine, thank you, sir. I have something to do. I will repay your kindness if we meet again."
 R10049-0_0_4_3,"Huh? Why did the lady run away in such a hurry, as if I were an unreasonable killer..."
