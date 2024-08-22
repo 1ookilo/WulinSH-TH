@@ -1922,7 +1922,7 @@ R10028-3_option1_2,Absolutely not.,ไม่มีทาง
 R10028-4_option1_1,Be a hero and save the beauty! <color=#c44b0e>(Specific battle)</color>,เป็นวีรบุรุษช่วยหญิงงาม! <color=#c44b0e>(เข้าสู่การต่อสู้)</color>
 R10028-4_option1_2,"Mind your own business, turn around and run away.",ไม่ยุ่งเรื่องคนอื่น หันหลังและจากไป
 R10028-4_option2_1,Cut off the weeds and eliminate the roots to prevent future troubles! <color=#0574a8>(Kill Wanyan Zhaoning.)</color>,ตัดรากถอนโคน เพื่อป้องกันปัญหาในภายภาคหน้า! <color=#0574a8>(สังหาร หวันเหยียนเจ้าหนิง)</color>
-R10028-4_option2_2,"Let them go, let nature take its course."
+R10028-4_option2_2,"Let them go, let nature take its course.",ปล่อยให้พวกเขาไปเถิด ปล่อยให้ฟ้าดินเป็นผู้ชี้ขาด
 R10028-5_option1_1,Stop Wanyan Zhaoning!,หยุด หวันเหยียนจ้าวหนิง!
 R10028-5_option1_2,Just watch the changes.,รอดูว่าจะเกิดอะไรขึ้น
 R10028-7_option1_1,Admit your mistake and ask for forgiveness.,ยอมรับความผิด และขอให้ยกโทษ
@@ -2517,7 +2517,7 @@ Talking_Teach,Teaching,สอนสั่ง
 Talking_Kanxi,Watch the play,ชมการแสดง
 Talking_BloodCase,Blood case,คดีฆาตกรรม
 Talking_Sorry,Apologize,ขออภัย
-R10099-1_option1_1,Glove!
+R10099-1_option1_1,Glove!,ถุงมือ!
 R10099-1_option1_2,Knife!,ดาบ!
 R10099-1_option1_3,Sword!,กระบี่!
 R10099-1_option1_4,Long!,อาวุธยาว!
@@ -2555,7 +2555,7 @@ DNYJJ-1_overview13,Rush to Mei Pass Post!,บุกถล่มสถานี�
 DNYJJ-1_overview14,Temporarily return to Phoenix Woods HarborGovernment Office.,กลับไปที่ศาลาว่าการเมืองท่าเรือป่าหงส์ชั่วคราว
 DNYJJ-1_overview15,"Go to Duke Chai's Tower, investigate thoroughly.",ไปยังหอในตำหนักอ๋องไฉและตรวจสอบอย่างละเอียด
 DNYJJ-1_overview16,"Tomorrow is the day when King Chai and his gang are preparing to rebel, get ready.",พรุ่งนี้จะเป็นวันที่พรรคพวกของอ๋องไฉเตรียมก่อกบฏ จงเตรียมตัวให้พร้อม
-DNYJJ-1_overview17,Today is the day when Chai Wang and his gang are going to rebel. Prepare to go to the Government Office during the day.
+DNYJJ-1_overview17,Today is the day when Chai Wang and his gang are going to rebel. Prepare to go to the Government Office during the day.,วันนี้เป็นวันที่พรรคพวกของอ๋องไฉกำลังก่อกบฏ เตรียมตัวให้พร้อมและมุ่งหน้าไปยังบริเวณใกล้เคียงกับศาลาว่าการเมือง ในตอนกลางวัน
 DNYJJ-1_overview18,"Return to Ye Family Battalion, report the situation in the southeast to Ye Pengju.",กลับไปยังค่ายกองพันตระกูลเย่ และรายงานสถานการณ์ในภาคตะวันออกเฉียงใต้ให้กับเย่เผิงจู
 DNYJJ-1_overview19,Return to the main camp to report the situation.,กลับไปยังกระโจมหลักเพื่อรายงานสถานการณ์
 DNYJJ-1_option1_1,I am willing to go!,ข้าขออาสาไปเอง!
@@ -2631,7 +2631,7 @@ M20517-1_option1_1,Spin.,หมุน
 M20517-1_option1_2,Wait a bit longer.,รอสักครู่
 M20507-1_name,Caged beauty,ความงามที่ไร้อิสรภาพ
 M20507-1_overview1,Info about An Zhi.,ข้อมูลเกี่ยวกับ อั๋นจื่อ
-M20507-1_overview2,Han Zi should still be locked in Duke Chai's Tower. Go to Phoenix Woods Harbor Pier and find Wei Ru Song to see if he knows any clues.
+M20507-1_overview2,Han Zi should still be locked in Duke Chai's Tower. Go to Phoenix Woods Harbor Pier and find Wei Ru Song to see if he knows any clues.,หานจื่อตู้ ควรถูกขังไว้ที่หอในตำหนักอ๋องไฉ เราควรไปหา เว่ยหรูสง ที่ท่าเรือป่าหงษ์ เพื่อถามดูว่าเขามีเบาะแสอะไรเกี่ยวกับเรื่องนี้บ้าง
 M20507-1_overview3,Infiltrate Duke Chai's Tower to find Han Zidu.,แทรกซึมเข้าไปยังหอในตำหนักอ๋องไฉเพื่อค้นหา หานจื่อตู้
 M20501-2_option1_1,Step aside.,หลีกทาง
 M20501-2_option1_2,No way!<color=#097a76>(Protagonist's solo fight)</color>,ไม่มีทาง! <color=#097a76>(ตัวเอกสู้คนเดียว)</color>
@@ -2661,7 +2661,7 @@ R10060-2_overview2,Ask the Post Soldier at Mei Pass Post about the Liao family b
 R10060-2_overview3,Ask the Dessert Merchant at Mei Pass Post about the Liao family blood case from thirteen years ago.,ถามคนขายของหวานที่สถานีม้าเร็วด่านเหมยเกี่ยวกับคดีฆาตกรรมตระกูลเหลียวเมื่อ 13 ปีก่อน
 R10060-2_overview4,Ask the Bun Shop Innkeeper at Mei Pass Post about the Liao family blood case from thirteen years ago.,ถามคนขายซาลาเปาที่สถานีม้าเร็วด่านเหมยเกี่ยวกับคดีฆาตกรรมตระกูลเหลียวเมื่อ 13 ปีก่อน
 R10060-2_overview5,Go to the old Liao family house at Mei Pass Post to see if there's anything else to discover.,ไปยังบ้านตระกูลเหลียวหลังเก่าที่ด่านเหมยเพื่อตรวจสอบดูว่ายังมีอะไรที่เราไม่เจออีกไหม
-R10060-2_overview6,Go to the Dewdrop Woods clinic in Phoenix Woods Harbor and ask the Doctor about what happened that year.
+R10060-2_overview6,Go to the Dewdrop Woods clinic in Phoenix Woods Harbor and ask the Doctor about what happened that year.,เดินทางไปยังโรงหมอที่ท่าเรือป่าหงส์เพื่อสอบถามหมอเกี่ยวกับเหตุการณ์ที่เกิดขึ้น
 R10060-2_overview7,Go to Mei Pass Post and ask the local Beggar.,มุ่งสู่ด่านเหมย แล้วไปถามขอทานแถวๆ นี้
 R10060-2_option1_1,Yes.,ใช่
 R10060-2_option1_2,No.,ไม่
@@ -2724,7 +2724,7 @@ R10025-6-2_2_option1_1,Give him a coin to start a new life.,มอบเงิ�
 R10025-6-2_2_option1_2,It's not worth saving the gambling dog.,ไม่คุ้มที่จะช่วยพวกผีพนัน
 R10054-4-1_1_name,Look for the account book together,ค้นหาสมุดบัญชีด้วยกัน
 R10054-4-1_1_Talking,Look together,ดูด้วยกัน
-R10054-4-1_1_option1_1,Get ready! (Requires an empty slot in the team)
+R10054-4-1_1_option1_1,Get ready! (Requires an empty slot in the team), เตรียมพร้อม! (ต้องมีช่องว่างในทีม)
 R10054-4-1_1_option1_2,I have other things to do right now...,ตอนนี้ข้ามีเรื่องอื่นที่ต้องทำ…
 R10025-6-1_name,Sky Breaker Tower,หอสูงเทียมฟ้า
 R10025-6-1_Talking,Go upstairs,ขึ้นไปชั้นบน
@@ -2739,25 +2739,25 @@ R10025-6-1_option4_2,The current me is better.,ตัวข้าในตอน
 R10025-6-1_option4_3,Somewhat regret the past choices.,ค่อนข้างเสียใจกับการเลือกในอดีต
 R10046-3-0_name,Dugu Jianyi Fist Competition,การแข่งขันหมัดของตู๋กูเจี้ยนอี้
 R10046-3-0_Talking,Arena,ลานประลอง
-R10046-3-0_option1_1,Why not? (Requires an empty slot in the team)
+R10046-3-0_option1_1,Why not? (Requires an empty slot in the team),ทำไมจะไม่ได้? (ต้องมีช่องว่างในทีม)
 R10046-3-0_option1_2,"No, it's not convenient right now...",ตอนนี้ยังไม่สะดวก
-R10046-3-0_option2_1,Why not? (Requires an empty slot in the team)
+R10046-3-0_option2_1,Why not? (Requires an empty slot in the team),ทำไมจะไม่ได้? (ต้องมีช่องว่างในทีม)
 R10046-3-0_option2_2,"No, it's not convenient right now...",ตอนนี้ยังไม่สะดวก
-R10046-3-0_option3_1,Let's go now! (Requires an empty slot in the team)
+R10046-3-0_option3_1,Let's go now! (Requires an empty slot in the team),ออกเดินทางเดี๋ยวนี้! (ต้องมีช่องว่างในทีม)
 R10046-3-0_option3_2,Wait a moment.,รอสักครู่
 R10046-3-0_overview,Join Dugu Jianyi in the underground Arena of Lin'an City.,ร่วมการประลองใต้ดินในเมืองหลินอันกับ ตูกู เจี้ยนอี้
 R10008-8-0_name,After the fate,หลังจากโชคชะตา
 R10008-8-0_overview,"Ling Mengdie is confused about what to do after the fate, she plans to find the answer in the sea of books in five days.",หลิงเมิ่งเตี๋ย รู้สึกสับสนเกี่ยวกับโชคชะตาของตนเอง หลังจากเหตุการณ์นั้น นางวางแผนที่จะค้นหาคำตอบในทะเลแห่งหนังสือ ภายในห้าวัน
-M20512-8_option1_1,"Experience the Dojokeeper's high skills! <color=#097a76>(Stamina 20, 1 shichen, solo fight)</color>"
-M20512-8_option1_2,Prepare again.
-Talking_Revenge,Revenge
-Talking_Cansi,Silk
-Talking_Jianzhen,Sword Formation
-Talking_SouthEast,Southeast
-Sur-2040_option2_1,Feed him the Sovereign's Elixir.<color=#097a76>(Sovereign's Elixir 1 piece)</color>
-Sur-2040_option2_2,Don't waste the Pill on him.
-Day-2140-4_name,Patrol the waterway
-Day-2140-4_overview1,Start patrolling the waterway from the pier on the left of Swallow Nest.
-Day-2140-4_overview2,The waterway has been patrolled today.
-Day-2140-4_overview3,You can take the patrol waterway task from Bu Juechen.
-Day-2140-4_overview4,Report the situation of the waterway patrol to Bu Juechen.
+M20512-8_option1_1,"Experience the Dojokeeper's high skills! <color=#097a76>(Stamina 20, 1 shichen, solo fight)</color>","พิสูจน์ฝีมือสูงส่งของเจ้าสำนัก! <color=#097a76>(ใช้แรงกาย 20, เวลา 1 ชั่วยาม, ต่อสู้ตัวต่อตัว)</color>"
+M20512-8_option1_2,Prepare again.,เตรียมรับมือใหม่อีกครั้ง
+Talking_Revenge,Revenge,การแก้แค้น
+Talking_Cansi,Silk,ผ้าไหม
+Talking_Jianzhen,Sword Formation,กระบวนทัพดาบ
+Talking_SouthEast,Southeast,ทิศตะวันออกเฉียงใต้
+Sur-2040_option2_1,Feed him the Sovereign's Elixir.<color=#097a76>(Sovereign's Elixir 1 piece)</color>,"ให้เขากินยาอายุวัฒนะของจักรพรรดิ <color=#097a76>(ยาอายุวัฒนะของจักรพรรดิ 1 ชิ้น)</color>"""
+Sur-2040_option2_2,Don't waste the Pill on him.,อย่าเสียยาอายุวัฒนะไปกับเขาเลย! มันมีค่ามาก
+Day-2140-4_name,Patrol the waterway,ตรวจตราเส้นทางน้ำ
+Day-2140-4_overview1,Start patrolling the waterway from the pier on the left of Swallow Nest.,เริ่มลาดตระเวนน้ำจากท่าเรือทางซ้ายของรังนกนางแอ่น
+Day-2140-4_overview2,The waterway has been patrolled today.,ได้มีการลาดตระเวนทางน้ำไปแล้วในวันนี้
+Day-2140-4_overview3,You can take the patrol waterway task from Bu Juechen.,เจ้าสามารถไปขอรับภารกิจลาดตระเวนทางน้ำจาก ปู๋ เจวี้ยนเฉิน
+Day-2140-4_overview4,Report the situation of the waterway patrol to Bu Juechen.,รายงานสถานการณ์การลาดตระเวนทางน้ำให้ ปู๋ เจวี้ยนเฉินทราบ

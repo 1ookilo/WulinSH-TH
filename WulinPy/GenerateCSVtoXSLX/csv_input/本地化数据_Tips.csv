@@ -90,7 +90,7 @@ FiefTipLevelUp,%s%{0} Level has been increased,%s%{0} เพิ่มระด�
 Tip_WeaponGloveUnfit,"The current Weapon does not match the external skills. You can continue to fight, but the Weapon effect will be invalid.",อาวุธปัจจุบันไม่ตรงกับวิชาภายนอก สามารถต่อสู้ได้ แต่ผลเอฟเฟกต์อาวุธจะไม่แสดงผล
 Tip_PetUnEquip,Do you want to remove the equipment on {0}?,ต้องการถอดอุปกรณ์นี้ออกจาก {0} หรือไม่?
 Tip_RecipeTranslateRatio,"You have mastered this synthesis method, continue to use it will automatically convert to <#FFED56>{0}Coin</color>, do you want to continue?",ท่านเชี่ยวชาญการสังเคราะห์นี้แล้ว ดำเนินการต่อไปจะทำการแปลงเป็นเงิน <#FFED56>{0} อีแปะ</color> ต้องการดำเนินการต่อหรือไม่?
-FiefDeveTime,Consume {0} {1} Stamina
-FiefDeveNoStamina,"%c%Insufficient Stamina, cannot comprehend"
-FiefDeveRarity,%c%Please add the same quality type of Martial Arts
-FiefDeveKungfuType,%c%Please add the same quality type of Martial Arts
+FiefDeveTime,Consume {0} {1} Stamina,ใช้ {0} {1} แรงกาย
+FiefDeveNoStamina,"%c%Insufficient Stamina, cannot comprehend",%c%ค่าแรงกายไม่พอ ไม่สามารถทำตามคำสั่งได้
+FiefDeveRarity,%c%Please add the same quality type of Martial Arts,%c%โปรดเพิ่มวรยุทธที่มีคุณภาพระดับเดียวกัน
+FiefDeveKungfuType,%c%Please add the same quality type of Martial Arts,%c%โปรดเพิ่มวรยุทธที่มีคุณภาพระดับเดียวกัน

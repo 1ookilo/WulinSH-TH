@@ -1230,8 +1230,8 @@ CharaName_岸芷,An Zhi,อั๋น จื่อ
 CharaName_傅断云,Fu Duanyun,ฟู่ ต้วนหยุน
 CharaName_王虎,Wang Hu,หวังหู่
 CharaName_田武,Tian Wu,เทียนอู๋
-CharaName_魏如松,Wei Rusong
-CharaName_船底虱,Chuan Dishi
+CharaName_魏如松,Wei Rusong,เว่ย หยูซง
+CharaName_船底虱,Chuan Dishi,ชวน ตี้ซือ
 CharaName_韩安仁,Han Anren,หาน อันเหริน
 CharaName_踏风,Ta Feng,ต้าเฟิง
 CharaName_丹宸,Dan Chen,ต้านเฉิน
@@ -1248,7 +1248,7 @@ CharaName_小队长,Squad Leader,หัวหน้าหมู่
 CharaName_海寇,Pirate,โจรสลัด
 CharaName_队长,Captain,หัวหน้า
 CharaName_吴六,Wu Liu,อู๋หลิว
-CharaName_珀斯商人,Perth Merchant
+CharaName_珀斯商人,Perth Merchant,พ่อค้าจากเพิร์ธ
 CharaName_蛮不讲理的江湖人,Unreasonable Vagabond,ผู้พเนจรไร้เหตุผล
 CharaName_斋藤,Saito,ไซโตะ
 CharaName_久秀,Hisahide,ฮิซาฮิเดะ
@@ -1292,15 +1292,15 @@ CharaName_翠玉,Cui Yu,ชุ่ย หยู
 CharaName_烟昙,Yan Tan,เหยียน ถาน
 CharaName_李公子,Li Gongzi,หลี่ กงจื่อ
 CharaName_赖狗三,Lai Gousan,หล่าย โก้วซาน
-CharaName_吕建仁,Lv Jianren
-CharaName_王公公,Wang Gonggong
-CharaName_陈光州,Chen Guangzhou
-CharaName_施翰林,Shi Hanlin
+CharaName_吕建仁,Lv Jianren,ลวี่ เจี้ยนเหริน
+CharaName_王公公,Wang Gonggong,หวัง กงกง
+CharaName_陈光州,Chen Guangzhou,เฉิน กว่างโจว
+CharaName_施翰林,Shi Hanlin,ซี หานหลิน
 CharaName_姚将军,general Yao,แม่ทัพเหยา
-CharaName_钻地鼠,Zuan Dishu
-CharaName_歌女,Singer Girl
+CharaName_钻地鼠,Zuan Dishu,ซวน ดิ๋ชู
+CharaName_歌女,Singer Girl,นักร้องสาว
 CharaName_顾客,Customer,ลูกค้า
-CharaName_眼神坚定的汉子,Man with Firm Eyes
+CharaName_眼神坚定的汉子,Man with Firm Eyes,ชายที่มีดวงตาแข็งแกร่ง
 CharaName_舞狮演员,Lion Dancer,นักเชิดสิงโต
 CharaName_监市,Market Regulator,ผู้ดูแลตลาด
 CharaName_鬼鬼祟祟的人,Sneaky Person,ชายลับๆล่อๆ 
@@ -1315,15 +1315,15 @@ CharaName_纪,Ji,จี้
 CharaName_茯苓,Fuling,ฟู่หลิง
 CharaName_汉卿,Hanqing,หานชิง
 CharaName_卫由子,Wei Youzi,เว่ย โหยวจื่อ
-CharaName_黄文秉,Huang Wenbing
+CharaName_黄文秉,Huang Wenbing,หวง เวินปิง
 CharaName_释言,Shi Yan,สือ เหยียน
 CharaName_吝掌柜,Lin Shopkeeper,เถ้าแก่หลิน
-CharaName_水系机关人,Water Automaton
-CharaName_木系机关人,Wood Automaton
-CharaName_火系机关人,Fire Automaton
-CharaName_土系机关人,Earth Automaton
-CharaName_金系机关人,Metal Automaton
-CharaName_全系机关人,Universal Automaton
+CharaName_水系机关人,Water Automaton,เครื่องจักรน้ำ
+CharaName_木系机关人,Wood Automaton,เครื่องจักรไม้
+CharaName_火系机关人,Fire Automaton,เครื่องจักรไฟ
+CharaName_土系机关人,Earth Automaton,เครื่องจักรดิน
+CharaName_金系机关人,Metal Automaton,เครื่องจักรโลหะ
+CharaName_全系机关人,Universal Automaton,เครื่องจักรอเนกประสงค์
 CharaName_监斩官,Execution Officer,เจ้าหน้าที่เพชรฆาต
 CharaName_囚犯,Prisoner,นักโทษ
 CharaName_刽子手,Executioner,เพชรฆาต
@@ -1341,11 +1341,11 @@ CharaName_霖安城老学究,Old scholar of Lin'an City,ปราญช์แก
 CharaName_霖安城孩童,Child of Lin'an City,เด็กในเมืองหลินอัน
 CharaTitle_黑衣相士,Fortune-teller in Black,โหรชุดดำ
 CharaTitle_逍遥丐,Carefree Beggar,ขอทานไร้ทุกข์โศก
-CharaTitle_玉面公子,Youth with a Beautiful Face
+CharaTitle_玉面公子,Youth with a Beautiful Face,คนหนุ่มสาวหน้าตางดงาม
 CharaTitle_金刀,Golden Sword,กระบี่ทอง
 CharaTitle_斩天刀,Sky Slayer Sword,กระบี่กรีดฟ้า
 CharaTitle_侍女,Maid,สาวรับใช้
-CharaTitle_探事司,Investigation Officer
-CharaTitle_越蛮,South-East Barbarian
+CharaTitle_探事司,Investigation Officer,เจ้าหน้าที่สอบสวน
+CharaTitle_越蛮,South-East Barbarian,ชนเผ่าป่าเถื่อนทางตะวันออกเฉียงใต้
 CharaTitle_黑衣人,Man in black,ชายชุดดำ
 CharaName_NameFormat,{0} {1},{0} {1}

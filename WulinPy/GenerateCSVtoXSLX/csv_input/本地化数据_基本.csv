@@ -455,7 +455,7 @@ CustomNpcGrowDiff_Tire2,Medium,ปานกลาง
 CustomNpcGrowDiff_Tire3,高,ยาก
 CustomDiff_ModifyConfirm,Do you want to keep the changes?,ท่านต้องการเก็บการเปลี่ยนแปลงหรือไม่?
 WorldMapShow,%s%The path to <#34657A>{0}</color> is now open,%s%เส้นทางไปยัง <#34657A>{0}</color> เปิดอยู่ในขณะนี้
-WorldMapCityShow,%s%Received news about <#3aa7d6>{0}</color> regarding <#3aa7d6>{1}</color>
+WorldMapCityShow,%s%Received news about <#3aa7d6>{0}</color> regarding <#3aa7d6>{1}</color>,%s%ได้รับข่าวสารขอ<#3aa7d6>{0}</color> เกี่ยวกับ <#3aa7d6>{1}</color>
 AutoSetMainInternalKungfu,%s%{0} has been set as the main internal skill,%s%{0} ได้รับการตั้งให้เป็นทักษะกำลังภายในหลัก
 And,And,และ
 Or,Or,หรือ

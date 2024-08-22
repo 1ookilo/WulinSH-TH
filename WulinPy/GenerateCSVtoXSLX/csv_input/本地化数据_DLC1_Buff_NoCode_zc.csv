@@ -91,14 +91,14 @@ BuffName_DLC武器印记,Weapon Mark,ตราประทับศาสตร�
 BuffName_DLC武器印记_光环,Mark,ประทับ
 BuffName_DLC狂战之怒,Berserker's Rage,โทสะนักรบคลั่ง
 BuffName_DLC狂战之怒_光环,Berserker's Rage,โทสะนักรบคลั่ง
-BuffName_DLC坚韧之甲,Toughness A
-BuffName_DLC坚韧之甲_光环,Toughness A
+BuffName_DLC坚韧之甲,Toughness A,ความแข็งแกร่งระดับ A
+BuffName_DLC坚韧之甲_光环,Toughness A,ความแข็งแกร่งระดับ A
 BuffName_DLC攻防兼备,Offensive and Defensive All-around,การโจมตีและป้องกันรอบด้าน
-BuffName_DLC攻防兼备_光环,Offensive and Defensive All-around
+BuffName_DLC攻防兼备_光环,Offensive and Defensive All-around,เน้นทั้งการโจมตีและป้องกันอย่างสมดุล
 BuffName_DLC战意高扬,Spirit High,มีขวัญกำลังใจ
 BuffName_DLC战意高扬_光环,Spirit High,มีขวัญกำลังใจ
-BuffName_DLC敌意涣散,Enemy Dispersal
-BuffName_DLC敌意涣散_光环,Enemy Dispersal
+BuffName_DLC敌意涣散,Enemy Dispersal,สร้างความแตกแยกกับศัตรู
+BuffName_DLC敌意涣散_光环,Enemy Dispersal,สร้างความแตกแยกกับศัตรู
 BuffName_DLC不世之材,Unworldly Talent,พรสวรรค์ไร้ผู้ต้าน
 BuffName_DLC势不可挡,Unstoppable,มิอาจหยุดยั้ง
 BuffName_DLC守势如山,Defense like a Mountain,ตั้งป้อมดุจขุนเขา
