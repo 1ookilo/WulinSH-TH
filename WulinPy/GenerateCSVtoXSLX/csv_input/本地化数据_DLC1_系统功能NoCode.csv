@@ -318,7 +318,7 @@ DLC1职位_外门弟子,Outer Disciple
 DLC1职位简写_掌门,SL
 DLC1职位简写_内门弟子,In
 DLC1职位简写_外门弟子,Out
-DLC1SlgMainCheckCharacter,InfoCharacter
+DLC1SlgMainCheckCharacter,InfoCharacter,ข้อมูลตัวละคร
 DLC1Naming_Denied,"%c%The input contains sensitive words, please re-enter"
 DLC1ResourceNotEnough,%c%Insufficient resources
 DLC1StartNewGameFail,%c%Force not unlocked

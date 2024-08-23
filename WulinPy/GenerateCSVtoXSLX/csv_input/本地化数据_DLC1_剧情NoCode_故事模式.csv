@@ -162,7 +162,7 @@ sto-main-2_6_26,"Xiao Bao, don't be silly, how could grandpa sell the treasures 
 sto-main-2_6_27,"Grandpa did say that! But you also said that these three treasures were won in a competition with the nameless hero for digging earthworms, Xiao Bao doesn't know which one is true!"
 sto-main-2_6_28,"Cough cough... how they came is not important, not important..."
 sto-main-2_6_29,"Although the origins of these three treasures are suspicious, in order to resist the attack of the Blue Wind Camp, it's better to try them on quickly..."
-sto-main-2_name,Main Quest
+sto-main-2_name,Main Quest,ภารกิจหลัก
 sto-main-2_log,"By dispatching experience, learning martial arts and sect planning, quickly improve the sect's strength to resist the attack three months later."
 sto-main-3_1_1,"People of {MyFaction}, listen to me!"
 sto-main-3_1_2,"The leader Kong has ordered, <color=#a94e37>three months later</color>, the No Name Village will be completely wiped out. If you are wise, clean yourself up and wait for death peacefully!"
@@ -184,7 +184,7 @@ sto-main-3_3_5,"Here's what, I promise you, when the day comes that Blue Wind Ca
 sto-main-3_3_6,I believe you... What should we do now?
 sto-main-3_3_7,"Of course, seize the opportunity to quickly develop our {MyFaction}, accumulate strength and give them a hard hit!"
 sto-main-3_3_8,"Good, count me in when the time comes!"
-sto-main-3_name,Main Quest
+sto-main-3_name,Main Quest,ภารกิจหลัก
 sto-main-3_log,Resist the major attack of Blue Wind Camp after 3 rounds
 sto-main-3_4_1,"Indeed, heroes come from youth, I didn't misjudge you!"
 sto-main-3_4_2,"In order to help young hero {PlayerSurName} repel Blue Wind Camp and protect the peace of our village, I dare not hide anything anymore."
@@ -214,7 +214,7 @@ sto-main-4_3_4,"Young hero {PlayerSurName}, don't forget I'm from the Crime Inve
 sto-main-4_3_5,"Alright, let's divide the work. You take on that ugly monster, and I'll fight Kong Yidao. Let's have a good cooperation~"
 sto-main-4_3_6,Hmm...
 sto-main-4_3_7,Happy cooperation!
-sto-main-4_name,Main Quest
+sto-main-4_name,Main Quest,ภารกิจหลัก
 sto-main-4_log,"Dispatch disciples through ""Events"" to counterattack Blue Wind Camp (Failure or overdue of this event will result in game failure)"
 sto-fj-1_name,Attack of Blue Wind Camp
 sto-fj-1_log,"Blue Wind Camp has completely surrounded your sect, intending to completely eradicate this thorn in their eye!"
@@ -250,7 +250,7 @@ sto-fj-1_4_5,"Follow the sect leader and retreat first, as long as the Blue Moun
 sto-fj-1_4_6,"Want to run? It's too late haha, this is what happens when you offend our Blue Wind Camp~"
 sto-fj-1_4_7,"What kind of crap {3}, can't withstand a single blow, chop them all up for me!"
 sto-fj-1_4_8,"I didn't expect my dream of being a sect leader to end here, I really can't accept this..."
-sto-fj-2_name,Main Quest
+sto-fj-2_name,Main Quest,ภารกิจหลัก
 sto-fj-2_log,"Continue to develop the sect, waiting for the opportunity to eliminate Blue Wind Camp."
 sto-main-5_1_1,"Sect leader, sect leader!"
 sto-main-5_1_2,"What's the matter, why are you so flustered?"
@@ -261,7 +261,7 @@ sto-main-5_2_1,"This Merchant Ding is quite a character. I once sneaked into his
 sto-main-5_3_1,"I have met Lady Ding before, she is a virtuous and well-mannered lady. {PlayerSurName} young hero, we must save her!"
 sto-main-5_4_1,"Hahaha, our sect was already planning to wipe out the Blue Wind Camp. Now we can earn a reward as well, killing two birds with one stone!"
 sto-main-5_4_2,"All {MyFaction} disciples, pack your things and prepare to follow me down the mountain!"
-sto-main-5_name,Main Quest
+sto-main-5_name,Main Quest,ภารกิจหลัก
 sto-main-5_log,Destroy the Blue Wind Camp and rescue Lady Ding.
 sto-main-6_1_1,"In the martial arts world, there are many heroes.\nIn the green forest, there are many people of character.\nBut how can the passion of the Blue Wind Camp\nStand against your united front?\nWith one stroke, the hero's life is cut short..."
 sto-main-6_1_2,"Phew, I almost lost my life... I'm willing to admit defeat, willing to admit defeat!"
@@ -272,14 +272,14 @@ sto-main-6_1_6,This little reward is a token of my gratitude. I hope {PlayerSurN
 sto-main-6_1_7,"Merchant Ding, you are too kind. It is our duty to uphold justice and help those in need."
 sto-main-6_1_8,I heard that the government will send a special envoy to commend your sect for the great achievement of wiping out the Blue Wind Camp. Please be aware of this.
 sto-main-6_1_9,"Thank you for the information. I have many affairs to attend to in the sect, so I will take my leave now."
-sto-main-6_name,Main Quest
+sto-main-6_name,Main Quest,ภารกิจหลัก
 sto-main-6_log,Wait for the government's commendation.
 sto-fj-3_1_1,"Sect Leader, the Blue Wind Camp has been wiped out by some sect, and they have even lost their base."
 sto-fj-3_1_2,"The leader of the camp, Kong Yidao, fled with two of his men, using Lady Ding as a shield to deter the government. They should be passing through our territory now."
 sto-fj-3_1_3,"Since we didn't have the chance to vent our anger on the Blue Wind Camp, we can't miss the opportunity to wipe out these robbers and save the heroine."
-sto-fj-3_name,Main Quest
+sto-fj-3_name,Main Quest,ภารกิจหลัก
 sto-fj-3_log,Intercept Kong Yidao and save Lady Ding. (Failure will result in game over)
-sto-fj-4_name,Main Quest
+sto-fj-4_name,Main Quest,ภารกิจหลัก
 sto-fj-4_log,"Kong Yidao is passing through your territory with Lady Ding, this is a perfect opportunity for you to eliminate the bandits and save the damsel in distress."
 sto-fj-4_1_1,"Help, help! Who will save me!"
 sto-fj-4_1_2,"Keep screaming, when your throat is hoarse, I will take your life!"
@@ -311,7 +311,7 @@ sto-main-7_op_1_2,"Disagree, a Vagabond should not join forces with the governme
 sto-main-7_2_1,Having multiple identities opens up more paths. I hope you can speak well of our sect in front of the Prefect.
 sto-main-7_2_2,"Of course, although your sect is commendable for its loyalty and bravery, its power is not yet strong. I hope that Leader {PlayerSurName} can lead the disciples to expand the sect's influence to <color=#a94e37>five territories</color>. The Prefect will surely reward you!"
 sto-main-7_2_3,Thank you for your guidance!
-sto-main-7_name,Main Quest
+sto-main-7_name,Main Quest,ภารกิจหลัก
 sto-main-7_log,Expand the sect's influence to five territories.
 sto-main-7_3_1,We are all Vagabonds who refuse to conform to the king's rule. It might be difficult for us to join forces with the government.
 sto-main-7_3_2,"Leader {PlayerSurName}, do you know the disaster that your words just now could bring if they reach the Prefect's ears?"
@@ -319,7 +319,7 @@ sto-main-7_3_3,"I don't care about any disaster. You corrupt officials who explo
 sto-main-7_3_4,"You, you dare to scold me, wait until I report to the Prefect, you will all be crushed to dust!"
 sto-main-7_3_5,"My brothers here have bad tempers. If you stay any longer, I can't guarantee your safety!"
 sto-main-7_3_6,Disrespecting the government is disrespecting the court. We'll see!
-sto-main-7_name1,Main Quest
+sto-main-7_name1,Main Quest,ภารกิจหลัก
 sto-main-7_log1,Prepare for the government's retaliation.
 sto-CT-1_1_1,"Report to the leader, the Official Envoy who once visited our sect is visiting again."
 sto-CT-1_1_2,"Leader {PlayerSurName}, you have completed the expansion task so quickly, which is beyond my expectation."
@@ -341,7 +341,7 @@ sto-CT-1_2_11,Thank you! I will keep the head of Qu's advice in mind!
 sto-CT-1_2_12,"How did it go, did you get the elixir?"
 sto-CT-1_2_13,"Sir, here is the elixir, I have not failed you."
 sto-CT-1_2_14,"Good, good! The Prefect really didn't misjudge you. I will take the elixir back now. If the prince is pleased, there might be a great reward for your sect!"
-sto-CT-1_name,Main Quest
+sto-CT-1_name,Main Quest,ภารกิจหลัก
 sto-CT-1_log,"Expand and develop the sect, waiting for further instructions from the officialdom."
 sto-CT-1_3_1,"So, the Prefect wants our sect to find the Herbology Sect and somehow get this elixir? But the Herbology Sect is renowned for its medicine and swordsmanship, it won't be easy to just ask for it."
 sto-CT-1_3_2,"Head {PlayerSurName}, although you work for the officialdom, you are still a person of the rivers and lakes. The law of the rivers and lakes is that the strong are respected. How could you not understand such a simple truth?"
@@ -349,7 +349,7 @@ sto-CT-1_3_3,Does the sir mean to let my sect destroy the Herbology Sect?
 sto-CT-1_3_4,"Due to my official position, I can't say more. Head {PlayerSurName}, you should decide for yourself."
 sto-CT-1_3_5,I give head {PlayerSurName} a deadline of <color=#a94e37>six months</color>. Don't disappoint the sir.
 sto-CT-1_3_6,"Take people's money, help them solve problems... Destroying the Herbology Sect is beneficial to our sect, just do it."
-sto-CT-1_name1,Main Quest
+sto-CT-1_name1,Main Quest,ภารกิจหลัก
 sto-CT-1_log1,Destroy the Herbology Sect and get the elixir.
 sto-CT-1_4_1,"Perhaps the Medical expert's Pharmacist should never have been involved in the martial world's disputes\nOnce the bow is drawn, the arrow must be released, and innocence is inevitably tainted\nShe says a doctor can't heal themselves, you say the dead can't be revived\nEven if the heart disease is difficult to cure\nIt's best to bow down and submit\nThat's their only way to save themselves..."
 sto-CT-1_4_2,"I always thought that the whole rivers and lakes were sick, but it turns out it was us."
@@ -360,7 +360,7 @@ sto-CT-1_5_1,"Does the sir mean to let my sect go to the Herbology Sect and try 
 sto-CT-1_5_2,"No problem, although the Herbology Sect is destroyed, the elixir is still with Qu Wangyou. As long as head {PlayerSurName} recruits her to the sect, it will be easy to get the elixir."
 sto-CT-1_5_3,"Master, the disciple heard that the head of Qu is looking for a sect with sufficient herb reserves to accept her. If our sect increases the herb reserves to <color=#a94e37>3000</color>, we can definitely invite her to join."
 sto-CT-1_5_4,I give head {PlayerSurName} a deadline of <color=#a94e37>six months</color>. Don't disappoint the sir.
-sto-CT-1_name2,Main Quest
+sto-CT-1_name2,Main Quest,ภารกิจหลัก
 sto-CT-1_log2,Accumulate 2000 herbs and recruit Qu Wangyou to join the sect.
 sto-CT-1_6_1,"Head {PlayerSurName}, just say it. As long as Wangyou can do it, she will definitely not refuse."
 sto-CT-1_6_2,{PlayerSurName} has a friend in the government who specifically asked me to request a life-extending elixir from Miss Qu.
@@ -427,7 +427,7 @@ sto-CT-2_6_4,"Qianxue, don't be impulsive, leave it to me."
 sto-CT-2_6_5,"Bu Juechen, I don't care what conflicts Qianxue has with your Swallow Nest, but she is now a part of my {MyFaction}. If you want to teach her a lesson, have you asked for my permission?"
 sto-CT-2_6_6,"I didn't expect {PlayerSurName} Sect Leader to be so protective, I'll take my leave!"
 sto-CT-2_6_7,{PlayerGivenName}... Thank you...
-sto-CT-2_name,Main Quest
+sto-CT-2_name,Main Quest,ภารกิจหลัก
 sto-CT-2_log,Expand the power of the sect to 8 grid spaces.
 sto-KW-1_1_1,"Your Highness, this way please, we have arrived at {MyFaction}."
 sto-KW-1_1_2,A young man of extraordinary bearing
@@ -446,16 +446,16 @@ sto-KW-1_2_4,"I have an important task for your sect: Jiujiang Fortress often ro
 sto-KW-1_2_5,My subordinates have found traces of these siblings. They will be staying in your sect's territory for a while. The exact location needs further investigation.
 sto-KW-1_2_6,"In that case, let our sect handle it."
 sto-KW-1_2_7,Good! Straight to the point. I will take my leave now and look forward to hearing good news from your sect.
-sto-KW-1_name,Main Quest
-sto-CW-1_name,Main Quest
-sto-FCT-1_name,Main Quest
+sto-KW-1_name,Main Quest,ภารกิจหลัก
+sto-CW-1_name,Main Quest,ภารกิจหลัก
+sto-FCT-1_name,Main Quest,ภารกิจหลัก
 sto-KW-1_log,Wait for further investigation from Duke Kang's subordinates.
 sto-KW-1_3_1,"Your Highness, the Jiujiang Fortress near Lin'an City has been very restless recently, and many merchant ships have been robbed, causing complaints among the merchants in Lin'an City. Why not... entrust {PlayerSurName} Sect leader to handle this matter?"
 sto-KW-1_3_2,"Good idea, it's appropriate to entrust this matter to {MyFaction}!"
 sto-KW-1_3_3,"{PlayerSurName} Sect leader, are you willing to lead your disciples to eliminate Jiujiang Fortress for me?"
 sto-KW-1_3_4,"As Duke Kang commands, I will obey."
 sto-KW-1_3_5,Good! Straight to the point. I will take my leave now and look forward to hearing good news from your sect.
-sto-KW-1_name1,Main Quest
+sto-KW-1_name1,Main Quest,ภารกิจหลัก
 sto-KW-1_log1,Eliminate Jiujiang Fortress.
 sto-KW-2-1_1_1,"Master, someone has thrown a secret letter into the sect, please take a look."
 sto-KW-2-1_1_2,It seems that Duke Kang's people have found the hiding place of Ding Fengbo and Ding Haitang. The letter says they will move out <color=#a94e37>in two months</color>. We need to act quickly.
@@ -483,7 +483,7 @@ sto-KW-2-2_2_2,"Victors and losers, kill or spare me, Ding Fengbo, as you wish!"
 sto-KW-2-2_2_3,"Jiujiang Fortress has fallen, Duke Kang should be able to rest easy now."
 sto-KW-2-2_2_4,"His Highness is very pleased with your Swift as Lightning, he ordered me to bring a box of silver as a reward, if there are new instructions, I will convey them immediately."
 sto-KW-2-2_2_5,Thank you for your hard work!
-sto-KW-2-2_name,Main Quest
+sto-KW-2-2_name,Main Quest,ภารกิจหลัก
 sto-KW-2-2_log,Waiting for Duke Kang's next instruction
 sto-KW-3_1_1,"Master, Duke Kang sent a message saying that the Langya Sword Pavilion's sword casting ceremony is in 3 months, and he would like to invite you to accompany him."
 sto-KW-3_1_2,"Having me travel all the way to join such an event, it can't be as simple as just accompanying him..."

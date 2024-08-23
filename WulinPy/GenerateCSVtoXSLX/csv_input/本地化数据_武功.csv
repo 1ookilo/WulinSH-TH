@@ -2041,27 +2041,27 @@ KungfuCastBuffInfo_鸿蒙锏法buff2,"When the main internal force is positive, 
 KungfuCastBuffInfo_鸿蒙锏法buff3,"The higher the enemy's Internal Injury, the higher the damage they receive. Each point of Internal Injury increases the final Damage by 2.5%.",ยิ่งศัตรูมีค่าบาดเจ็บภายในมากเท่าไร ความเสียหายที่พวกเขาได้รับก็จะยิ่งมากขึ้นเท่านั้น ทุกๆ แต้มของค่าบาดเจ็บภายในความเสียหายสุดท้ายจะเพิ่มขึ้น 2.5% 
 KungfuCastBuffInfo_踏燕buff1,"The higher your Action Speed when you Attack, the higher the damage. Every 10 points of Action Speed increases the final Damage by 5%.",เมื่อความเร็วท่าร่างสูงเท่าใด เมื่อโจมตีก็ยิ่งรุนแรงขึ้นเท่านั้น ทุกๆ 10 แต้มของความเร็วท่าร่าง จะทำให้เพิ่มความเสียหายที่ทำได้อีก 5%
 KungfuCastBuffInfo_狐媚buff1,"There is a 30% chance of causing Charm effect on the enemy when attacking, lasting for one action.",มีโอกาส 30% ที่จะทำให้ฝ่ายตรงข้ามติดสถานะ ลุ่มหลง เมื่อโจมตี คงอยู่หนึ่งตา
-KungfuDesc_DLC2极乐飞天,"Deal damage to enemies within a 3x5 range in front of you and knock them back 1 square;\nIf defense is not broken: additionally reduce enemy's energy by 50 points;\nIf defense is broken: for every point your Dexterity is higher than the enemy's, deal additional damage equal to 0.8% of the enemy's max HP, up to 20%, and reduce energy by 150 points."
-KungfuDesc_DLC2乱琼碎玉,"Deal damage to enemies within a 5-square radius of yourself;\nIf defense is not broken: AttackPierce enemy's defense attribute and effects;\nIf defense is broken: AttackPierce enemy's defense attribute and effects, for every 75 points your MP is higher than the enemy's, deal additional damage equal to 1% of the enemy's max HP, up to 35%."
-BondKungfuEffect_DLC2两情相悦,"Deal damage to enemies within your range, dealing an additional <#29F161>10% of max HP damage</color>, after which both sides recover 15% of their HP."
+KungfuDesc_DLC2极乐飞天,"Deal damage to enemies within a 3x5 range in front of you and knock them back 1 square;\nIf defense is not broken: additionally reduce enemy's energy by 50 points;\nIf defense is broken: for every point your Dexterity is higher than the enemy's, deal additional damage equal to 0.8% of the enemy's max HP, up to 20%, and reduce energy by 150 points.","สร้างความเสียหายแก่ศัตรูในระยะ 3x5 ด้านหน้าตนเอง และผลักออกไป 1 ช่อง\nหากไม่ทำลายการป้องกัน: ลดค่าปราณเคลื่อนที่ศัตรูลง 50 แต้ม\nเมื่อป้องกันถูกทำลาย: ทุกๆ แต้ม""คล่องแคล่ว""ของตนที่สูงกว่าศัตรู สร้างความเสียหายเพิ่มเติมเท่ากับ 0.8% ของ Max HP ของศัตรู สูงสุด 20% และลดค่าปราณเคลื่อนที่ลง 150 แต้ม"
+KungfuDesc_DLC2乱琼碎玉,"Deal damage to enemies within a 5-square radius of yourself;\nIf defense is not broken: AttackPierce enemy's defense attribute and effects;\nIf defense is broken: AttackPierce enemy's defense attribute and effects, for every 75 points your MP is higher than the enemy's, deal additional damage equal to 1% of the enemy's max HP, up to 35%.","สร้างความเสียหายให้กับศัตรูภายในรัศมี 5 ช่องรอบตัว\nหากไม่ทำลายการป้องกัน: การโจมตีเจาะทะลุคุณสมบัติและประสิทธิภาพชุดเกราะของศัตรู\nเมื่อป้องกันถูกทำลาย: การโจมตีเจาะทะลุคุณสมบัติและประสิทธิภาพชุดเกราะของศัตรู ทุกๆ ค่าที่ค่า MP สูงกว่าของศัตรู สร้างความเสียหายเพิ่มเติมเท่ากับ 1% ของ Max HP ของศัตรู สูงสุด 35%"
+BondKungfuEffect_DLC2两情相悦,"Deal damage to enemies within your range, dealing an additional <#29F161>10% of max HP damage</color>, after which both sides recover 15% of their HP.",สร้างความเสียหายแก่ศัตรูในระยะของตน สร้างความเสียหายเพิ่มเติม <#29F161>10% ของ Max HP</color> หลังใช้วรยุทธทั้งสองฝ่าย จะฟื้นฟู 15% ของ HP ของพวกเขา
 KunfuName_九流门机关人普攻,Attack,โจมตี
-KunfuName_九流门机关人重击,Heavy Strike
+KunfuName_九流门机关人重击,Heavy Strike,จู่โจมหนัก
 KunfuName_九流门机关人全力一击,All-out Strike,โจมตีสุดตัว
-KunfuName_DLC2极乐飞天,Blissful Ascent
-KunfuName_DLC2乱琼碎玉,Chaos of Jade Fragments
-KunfuName_DLC2两情相悦,Mutual Affection
-KunfuName_DLC2推山掌,Mountain Pushing Palm
+KunfuName_DLC2极乐飞天,Blissful Ascent,ปีติแห่งฟ้า
+KunfuName_DLC2乱琼碎玉,Chaos of Jade Fragments,เศษหยกวิบัติ
+KunfuName_DLC2两情相悦,Mutual Affection,สองใจประสาน
+KunfuName_DLC2推山掌,Mountain Pushing Palm,ฝ่ามือผลักภูผา
 KunfuName_DLC2格天九式,Nine Heavens Form,เก้ากระบวนพิชิตสวรรค์
 KunfuName_DLC2错骨手,Bone Displacement Hand,ฝ่ามือหักกระดูก
 KunfuName_DLC2乾坤霹雳掌,Heaven and Earth Thunder Palm,ฝ่ามืออัสนีฟ้าดิน
 KunfuName_鸿蒙锏法副本,Nothingness Staff,พลังไม้เท้าเวิ้งว้าง
-KunfuName_DLC2织女穿梭,Weaver’s Shuttle,เทพธิดาสานผ้า
-KunfuName_DLC2流影千重梭,Shadow Cascade Shuttle,คมมีดพันเงา
+KunfuName_DLC2织女穿梭,Weaver’s Shuttle,เทพธิดาทอผ้า
+KunfuName_DLC2流影千重梭,Shadow Cascade Shuttle,ประกายเงานับพัน
 KunfuName_DLC2冰心诀,Ice Heart Technique,วิชาใจเยือกแข็ง
 KunfuName_DLC2凛气诀,Chilling Aura Technique,วิชาปราณเยือกแข็ง
 KunfuName_DLC2长恨歌,Eternal Regret,บทเพลงโศกนิรันดร์กาล
-KunfuName_DLC2九星连珠,Nine Stars Chain,โซ่เก้าดารา
-KunfuName_DLC2乖离无相功,Deviation from Form Technique
+KunfuName_DLC2九星连珠,Nine Stars Chain,เก้าดาราเรียงราย
+KunfuName_DLC2乖离无相功,Deviation from Form Technique,พลังไร้ลักษณ์
 先天属性_DLC2推山掌,Increase or decrease damage based on the difference in <#29F161>Strength</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>พละกำลัง</color>
 先天属性_DLC2格天九式,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของค่า <#29F161>พลังกาย</color>
 先天属性_DLC2错骨手,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องตัว</color>
@@ -2082,14 +2082,14 @@ KungfuCastBuff_DLC2织女穿梭buff2,Effect Two
 KungfuCastBuff_DLC2流影千重梭buff1,Effect One
 KungfuCastBuff_DLC2流影千重梭buff2,Effect Two
 KungfuCastBuff_DLC2流影千重梭buff3,Effect Three
-KungfuCastBuffInfo_DLC2推山掌buff1,"When your Strength is higher than the enemy's Constitution by every 1 point, final damage increases by 5%, up to a maximum increase of 50%."
-KungfuCastBuffInfo_DLC2格天九式buff1,"Each attack has a temporary 5% increase in Critical and 2% increase in CriticalIncreases Damage, effects are cleared after triggering Critical."
-KungfuCastBuffInfo_DLC2格天九式buff2,"This attack triggers Critical, dealing 10 points of Internal Injury to the enemy and reducing energy by 100 points."
-KungfuCastBuffInfo_DLC2错骨手buff1,"For every point your Dexterity is higher than the enemy's Constitution, deal 1 point of Sealed to the enemy, up to a maximum of 15 points of Sealed."
-KungfuCastBuffInfo_DLC2错骨手buff2,"If your main internal skill is Epic or above and Yin in nature, final damage is increased by 60%."
-KungfuCastBuffInfo_DLC2乾坤霹雳掌buff1,"For every 75 points your current MP is higher than the enemy's, deal 1 point of Internal Injury to the enemy, up to a maximum of 25 points of Internal Injury."
-KungfuCastBuffInfo_DLC2乾坤霹雳掌buff2,"The higher the enemy's Internal Injury, the more damage they take. For every 1 point of Internal Injury, the final damage is increased by 1.8%."
-KungfuCastBuffInfo_DLC2乾坤霹雳掌buff3,"When Critical is triggered, CriticalIncreases Damage by 120%.",ถ้าโจมตีติดคริติคอล จะความเสียหายคริติคอลเพิ่มขึ้น 120%
+KungfuCastBuffInfo_DLC2推山掌buff1,"When your Strength is higher than the enemy's Constitution by every 1 point, final damage increases by 5%, up to a maximum increase of 50%.","เมื่อ""พละกำลัง""ของตนสูงกว่า""พลังกาย""ของศัตรูทุกๆ 1 แต้ม ความเสียหายสุดท้ายจะเพิ่มขึ้น 5% สูงสุดไม่เกิน 50%"
+KungfuCastBuffInfo_DLC2格天九式buff1,"Each attack has a temporary 5% increase in Critical and 2% increase in CriticalIncreases Damage, effects are cleared after triggering Critical.",การโจมตีแต่ละครั้งจะเพิ่มคริติคอลชั่วคราว 5% และเพิ่มความเสียหายคริติคอล 2% ผลลัพธ์จะถูกล้างหลังจากการโจมตีเกิดคริติคอล
+KungfuCastBuffInfo_DLC2格天九式buff2,"This attack triggers Critical, dealing 10 points of Internal Injury to the enemy and reducing energy by 100 points.",หากการโจมตีนี้ทำให้เกิดคริติคอล สร้างสถานะบาดเจ็บภายใน 10 แต้มแก่ศัตรู และลดค่าปราณเคลื่อนที่ศัตรูลง 100 แต้ม
+KungfuCastBuffInfo_DLC2错骨手buff1,"For every point your Dexterity is higher than the enemy's Constitution, deal 1 point of Sealed to the enemy, up to a maximum of 15 points of Sealed.","ทุกๆ แต้มที่ค่า""คล่องแคล่ว""ของตนสูงกว่า""พลังกาย""ของศัตรู, จะสร้างสถานะสกัดจุดให้ศัตรู 1 แต้ม สูงสุดไม่เกิน 15 แต้ม"
+KungfuCastBuffInfo_DLC2错骨手buff2,"If your main internal skill is Epic or above and Yin in nature, final damage is increased by 60%.","เมื่อกำลังภายในหลักเป็น""หยาง""ระดับมหากาพย์หรือสูงกว่า, ความเสียหายสุดท้ายเพิ่มขึ้น 60%"
+KungfuCastBuffInfo_DLC2乾坤霹雳掌buff1,"For every 75 points your current MP is higher than the enemy's, deal 1 point of Internal Injury to the enemy, up to a maximum of 25 points of Internal Injury.",ทุกๆ 75 แต้มที่ MP ปัจจุบันของตนสูงกว่าของศัตรู จะสร้างสถานะบาดเจ็บภายใน 1 แต้มแก่ศัตรู สูงสุดไม่เกิน 25 แต้ม
+KungfuCastBuffInfo_DLC2乾坤霹雳掌buff2,"The higher the enemy's Internal Injury, the more damage they take. For every 1 point of Internal Injury, the final damage is increased by 1.8%.",ยิ่งศัตรูมีค่าบาดเจ็บภายในมากเท่าไร ความเสียหายจะยิ่งมากขึ้นเท่านั้น ทุกๆ แต้มของค่าบาดเจ็บภายในความเสียหายสุดท้ายจะเพิ่มขึ้น 1.8%
+KungfuCastBuffInfo_DLC2乾坤霹雳掌buff3,"When Critical is triggered, CriticalIncreases Damage by 120%.",เมื่อโจมตีติดคริติคอล จะความเสียหายคริติคอลเพิ่มขึ้น 120%
 KungfuCastBuffInfo_广袖流云buff1,"For every point your Dexterity is higher than the enemy's Dexterity, the final damage increases by 4.5%, up to a maximum of 45%.","ทุกๆ แต้มที่""คล่องแคล่ว""ของคุณสูงกว่าของศัตรู, ความเสียหายสุดท้ายจะเพิ่มขึ้น 4.5% สูงสุด 45%"
 KungfuCastBuffInfo_DLC2织女穿梭buff1,"When the user is female, final damage is increased by 75%.","เมื่อตัวละครหญิงใช้วิทยายุทธนี้, สร้างความเสียหายสุดท้ายเพิ่มขึ้น 75%"
 KungfuCastBuffInfo_DLC2织女穿梭buff2,"For every 1 point your Dexterity is higher than the enemy's, inflict 1 point of Bleeding on the enemy, up to a maximum of 15 points of Bleeding.","สำหรับทุกๆ 1 แต้มที่ค่า""คล่องแคล่ว""ของคุณสูงกว่าของศัตรู, จะสร้างสถานะเลือดไหลแก่ศัตรู 1 แต้ม สูงสุดไม่เกิน 15 แต้ม"

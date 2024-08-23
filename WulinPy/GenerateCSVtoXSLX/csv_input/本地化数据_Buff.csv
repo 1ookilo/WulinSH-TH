@@ -2819,7 +2819,7 @@ BuffName_伙伴特征古之恶来,Evil comes from the ancient times,ปีศา
 BuffName_伙伴特征目盲耳聪,"Blind in sight, sharp in hearing",ดวงเนตรมืดบอด แต่มีหูปราดเปรียว
 BuffName_劫后余生_附属,Recover 10% HP and MP,ฟื้นฟู HP และ MP 10%
 BuffName_撕咬,Bite,กัด
-BuffName_重击,Power attack,พลังโจมตี
+BuffName_重击,Power attack,จู่โจมหนัก
 BuffName_冲撞,Slam,กระแทก
 BuffName_出血,Bleeding,เลือดไหล
 BuffName_啄眼,Eye pecking,จิกตา
@@ -4410,7 +4410,7 @@ BuffInfo_内功_DLC2冰心诀附属1_光环,<#FE2929>Action Speed decreases by 1
 BuffInfo_内功_DLC2凛气诀,"After entering the battle, action speed increases by 10 points, evasion increases by 5%.",หลังจากเข้าสู่การต่อสู้ ความเร็วท่าร่างเพิ่มขึ้น 10 แต้ม การหลบหลีกเพิ่มขึ้น 5%
 BuffInfo_内功_尉缭子_光环,"Each additional surviving ally, your own <#29F161>Attack increases by 5%</color>, <#29F161>Defense increases by 5%</color>, up to a maximum increase of 25% respectively. (The same effect only takes effect once)",จำนวนเพื่อนกี่คนที่ยังไม่ตายระหว่างต่อสู้  <#29F161>การโจมตีของคุณเพิ่มขึ้น 5%</color> <#29F161>การป้องกันเพิ่มขึ้น 5%</color> สูงสุดเพิ่มขึ้นสูงสุด 25% ตามลำดับ (เอฟเฟ็กต์นี้ใช้ซ้ำกันไม่ได้)
 BuffInfo_内功_DLC2长恨歌,"This effect only works for females:\nA certain percentage of the damage caused by each attack will be converted into your own HP (Converted HP = Percentage of your own lost HP × 0.3% × Damage value); when attacked, a certain percentage of the damage to be received will be reflected to the attacker (Damage Reflect = Current HP percentage × 0.15% × Damage received).","เอฟเฟกต์นี้ใช้ได้กับตัวละครผู้หญิงเท่านั้น:\nเปอร์เซ็นต์ความเสียหายที่เกิดจากการโจมตีแต่ละครั้งจะถูกแปลงเป็น HP ของคุณเอง (HP ที่แปลงแล้ว = เปอร์เซ็นต์ของ HP ที่สูญเสียไป × 0.3% × มูลค่าความเสียหาย) เมื่อถูกโจมตี เปอร์เซ็นต์ของความเสียหายที่จะได้รับจะสะท้อนไปยังผู้โจมตี (การสะท้อนความเสียหาย = เปอร์เซ็นต์ HP ปัจจุบัน × 0.15% × ความเสียหายที่ได้รับ)"
-BuffInfo_内功_DLC2九星连珠,"Each attack randomly inflicts one of the following effects on the enemy: 10 points of poison, 10 points of internal injury, 10 points of bleeding, 10 points of seal, 10 points of blindness; when in battle, only 50% of the effects of poison, internal injury, bleeding, seal, blindness are borne by yourself, the remaining 50% is reflected to the attacker.","การโจมตีแต่ละครั้งจะสุ่มสร้างเอฟเฟกต์อย่างใดอย่างหนึ่งต่อไปนี้ให้กับศัตรู: พิษ 10 แต้ม, อาการบาดเจ็บภายใน 10 แต้ม, เลือดออก 10 แต้ม, ผนึก 10 แต้ม, ตาบอด 10 แต้ม; เมื่ออยู่ในการต่อสู้ ผลกระทบจากพิษ การบาดเจ็บภายใน การตกเลือด การผนึก ตาบอดได้รับเพียง 50% ส่วนที่เหลืออีก 50% จะสะท้อนไปยังผู้โจมตี"
+BuffInfo_内功_DLC2九星连珠,"Each attack randomly inflicts one of the following effects on the enemy: 10 points of poison, 10 points of internal injury, 10 points of bleeding, 10 points of seal, 10 points of blindness; when in battle, only 50% of the effects of poison, internal injury, bleeding, seal, blindness are borne by yourself, the remaining 50% is reflected to the attacker.","การโจมตีแต่ละครั้งจะสุ่มสร้างสถานะอย่างใดอย่างหนึ่งต่อไปนี้แก่ศัตรู : พิษ 10 แต้ม, บาดเจ็บภายใน 10 แต้ม, เลือดไหล 10 แต้ม, สกัดจุด 10 แต้ม, ตาบอด 10 แต้ม; เมื่ออยู่ในการต่อสู้ ตนเองจะได้รับผลจากสถานะจากพิษ บาดเจ็บภายใน เลือดไหล สกัดจุด ตาบอด เพียง 50% ส่วนที่เหลืออีก 50% จะสะท้อนไปยังผู้โจมตี"
 BuffInfo_内功_DLC2乖离无相功,"When using external skills, MP cost increases by 100%, attack damage increases by 50%, when attack triggers a critical hit, absorb 5% of the enemy's current MP to replenish your own MP.",เมื่อใช้วิชาภายนอก จะสูญเสีย MP เพิ่มขึ้น 100% ความเสียหายจากการโจมตีเพิ่มขึ้น 50% เมื่อการโจมตีทำให้เกิดการโจมตีแบบคริติคอล ดูดซับ 5% ของ MP ปัจจุบันของศัตรูเพื่อเติมเต็ม MP ของคุณเอง
 BuffInfo_有仇必报,"Each time you are attacked, the counter temporarily increases by 3%, after triggering a counter, a critical hit is guaranteed and the temporary counter effect is cleared.",แต่ละครั้งที่คุณถูกโจมตี ค่าสวนกลับจะเพิ่มขึ้นชั่วคราว 3% เมื่อใช้สวนกลับ จะเกิดการโจมตีคริติคอลอย่างแน่นอน แล้วค่าสถานะเพิ่มค่าสวนกลับจะหายไป
 BuffInfo_独霸武林,"Max HP increases by 25%, attack increases by 15%, defense increases by 15%.",HP สูงสุดเพิ่มขึ้น 25% การโจมตีเพิ่มขึ้น 15% การป้องกันเพิ่มขึ้น 15%
@@ -4448,7 +4448,7 @@ BuffInfo_DLC2恨天Buff3,"During battle, each time you kill an enemy with an Att
 BuffInfo_DLC2恨天Buff4,"When using martial arts, MP Cost <#29F161>increases by 30%</color>, triggering Critical guarantees a Combo.",เมื่อใช้วรยุทธ ใช้พลังภายใน <#29F161>เพิ่มขึ้น 30%</color> แต่จะติดคริติคอลและโจมตีต่อเนื่อง
 BuffInfo_DLC2鬼面具Buff1,<#29F161>Counter increases by 7%</color>.,<#29F161>สวนกลัวเพิ่มขึ้น 7%</color>
 BuffInfo_DLC2鬼面具Buff2,"When attacking, Accuracy the enemy, the enemy loses 30 points of Spirit and 50 points of Qi.",เมื่อโจมตี โดนศัตรู ลดค่าปราณเคลื่อนที่ของศัตรูลง 50 แต้ม และพลังใจ 30 แต้ม 
-BuffInfo_DLC2不负相思,"When fighting in the same team, after the protagonist is attacked once, Ji Fuling's <#29F161>Action Speed increases by 5 points, Combo increases by 1%</color>, the increased effects are cleared after Ji Fuling's next attack.",เมื่อร่วมต่อสู้เป็นทีมเดียวกัน หากตัวเอกถูกโจมตี 1 ครั้ง ความเร็วท่าร่างของจี๋ฝูหลิงจะ<#29F161>เพิ่มขึ้น 5 แต้ม ค่าโจมตีต่อเนื่องจะเพิ่มขึ้น 1%</color> ผลการเพิ่มค่าต่างๆ จะหายไปหลังจากจี๋ฝูหลิงโจมตีครั้งต่อไป
+BuffInfo_DLC2不负相思,"When fighting in the same team, after the protagonist is attacked once, Ji Fuling's <#29F161>Action Speed increases by 5 points, Combo increases by 1%</color>, the increased effects are cleared after Ji Fuling's next attack.","เมื่อร่วมต่อสู้ในฝั่งเดียวกัน หลังจากตัวเอกถูกโจมตี 1 ครั้ง จี้ฝูหลิงจะได้รับ <#29F161>ความเร็วท่าร่างเพิ่มขึ้น 5 แต้ม, ค่าโจมตีต่อเนื่องเพิ่มขึ้น 1%</color> ผลสถานะที่เพิ่มขึ้นจะหายไปหลังจากที่จี้ฝูหลิงโจมตีครั้งถัดไป"
 BuffName_DLC2气力用尽,Exhausted,เหนื่อยล้า
 BuffName_DLC2飞雪寒霜刃Buff1,<#EFD09F>Attack</color>,<#EFD09F>โจมตี</color>
 BuffName_DLC2飞雪寒霜刃Buff2,<#EFD09F>Combo</color>,<#EFD09F>สวนกลับ</color>
@@ -4488,5 +4488,5 @@ BuffName_伙伴特征长袖善舞,Graceful Dance,ร่ายรำอย่า�
 BuffName_伙伴特征长袖善舞_附属1,Charm,เสน่ห์
 BuffName_伙伴特征亦医亦毒,Healer and Poisoner,แพทย์และมือพิษ
 BuffName_伙伴特征亦医亦毒_光环,Healer and Poisoner,แพทย์และมือพิษ
-BuffName_DLC2两情相悦,Mutual Affection,ความรักและความผูกพันที่มีต่อกัน
+BuffName_DLC2两情相悦,Mutual Affection,สองใจประสาน
 BuffName_DLC2不负相思,Faithful to Love,ความรักที่บริสุทธิ์

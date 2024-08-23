@@ -805,25 +805,25 @@ WMapName_2299,South-East Barbarian Camp,ค่ายคนเถื่อนเ�
 WMapName_2300,Heavy Rock Reef,ชายหาดโขดหิน
 WMapName_10180,Thousands of Bamboo Creek,ลำธารไผ่พันต้น
 MapName_5027,
-MapName_5067,Outskirts
-MapName_20295,Outside Da Liang City
-MapName_20299,Outside Da Liang City
-MapName_2152,Nine Factions Sect·Disciple Room
-MapName_2153,Five Poisons Cave
-MapName_2981,Endless Pavilion Floor 1
-MapName_2982,Endless Pavilion Floor 2
-MapName_2983,Endless Pavilion Floor 3
-MapName_2984,Endless Pavilion Floor 4
-MapName_2985,Endless Pavilion Floor 5
-MapName_2986,Endless Pavilion Floor 6
-MapName_2310,Ji Residence
-MapName_2311,Ji Residence Main Hall
-MapName_2312,Ji Residence Study
-MapName_2313,Ji Residence Secret Chamber
-MapName_10037,Chu Xiang Suburbs
+MapName_5067,Outskirts,ชนบท
+MapName_20295,Outside Da Liang City,นอกเมืองต้าเหลียง
+MapName_20299,Outside Da Liang City,นอกเมืองต้าเหลียง
+MapName_2152,Nine Factions Sect·Disciple Room,นิกายเก้าฝ่าย - ห้องสาวก
+MapName_2153,Five Poisons Cave,ถ้ำเบญจพิษ
+MapName_2981,Endless Pavilion Floor 1,หอคอยไร้สิ้นสุด - ชั้น 1
+MapName_2982,Endless Pavilion Floor 2,หอคอยไร้สิ้นสุด - ชั้น 2
+MapName_2983,Endless Pavilion Floor 3,หอคอยไร้สิ้นสุด - ชั้น 3
+MapName_2984,Endless Pavilion Floor 4,หอคอยไร้สิ้นสุด - ชั้น 4
+MapName_2985,Endless Pavilion Floor 5,หอคอยไร้สิ้นสุด - ชั้น 5
+MapName_2986,Endless Pavilion Floor 6,หอคอยไร้สิ้นสุด - ชั้น 6
+MapName_2310,Ji Residence,บ้านตระกูลจี้
+MapName_2311,Ji Residence Main Hall,บ้านตระกูลจี้ - โถงหลัก
+MapName_2312,Ji Residence Study,บ้านตระกูลจี้ - ห้องหนังสือ
+MapName_2313,Ji Residence Secret Chamber,บ้านตระกูลจี้ - ห้องลับ
+MapName_10037,Chu Xiang Suburbs,ชานเมืองฉู่เซียง
 MapName_50002,
 WMapName_5027,
-WMapName_5067,Outskirts
-WMapName_2152,Nine Factions Sect·Disciple Room
-WMapName_2153,Five Poisons Cave
-WMapName_2310,Ji Residence
+WMapName_5067,Outskirts,ชนบท
+WMapName_2152,Nine Factions Sect·Disciple Room,นิกายเก้าฝ่าย - ห้องสาวก
+WMapName_2153,Five Poisons Cave,ถ้ำเบญจพิษ
+WMapName_2310,Ji Residence,บ้านตระกูลจี้

@@ -209,9 +209,9 @@ ControlTip_MaskItem,Filter,ตัวกรอง
 ControlTip_MaskItemConfirm,Confirm Filter,ยืนยันตัวกรอง
 ControlTip_FiefMiningToggle,Open/Close home Material production,เปิด/ปิด home Material production
 MainMenuUI_Bg_MainButtons_BackButton_Text(TMP),Return,กลับ
-ControlTip_InputField,Input box
-Joy_DeveSelevt,Choose to comprehend/cancel comprehension
-Joy_DeveGo,Start comprehension
-ControlTip_Page,Turn page
-ControlTip_Detail,Details
-ControlTip_Purchase,Go to Subscribe
+ControlTip_InputField,Input box,กล่องขาเข้า
+Joy_DeveSelevt,Choose to comprehend/cancel comprehension,เลือกที่จะเข้าใจ/ยกเลิกความเข้าใจ
+Joy_DeveGo,Start comprehension,เริ่มทำความเข้าใจ
+ControlTip_Page,Turn page,พลิกหน้า
+ControlTip_Detail,Details,รายละเอียด
+ControlTip_Purchase,Go to Subscribe,ไปสมัครสมาชิก

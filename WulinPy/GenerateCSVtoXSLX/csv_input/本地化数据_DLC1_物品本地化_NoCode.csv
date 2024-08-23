@@ -550,12 +550,12 @@ ItemInfo_dlc木材包裹(大),Can be used to obtain Wood.
 ItemInfo_dlc武道源流(小),"Can be used to level up Disciples, note that outer sect Disciples can only level up to 6."
 ItemInfo_dlc武道源流(中),"Can be used to level up Disciples, note that outer sect Disciples can only level up to 6."
 ItemInfo_dlc武道源流(大),"Can be used to level up Disciples, note that outer sect Disciples can only level up to 6."
-ItemInfo_dlc铜钱,Main resource for power development.
-ItemInfo_dlc贡献点,Main resource for power development.
-ItemInfo_dlc食物,Main resource for power development.
-ItemInfo_dlc铁矿,Main resource for power development.
-ItemInfo_dlc药品,Main resource for power development.
-ItemInfo_dlc木材,Main resource for power development.
+ItemInfo_dlc铜钱,Main resource for power development.,ทรัพยากรหลักในการพัฒนาพลังงาน
+ItemInfo_dlc贡献点,Main resource for power development.,ทรัพยากรหลักในการพัฒนาพลังงาน
+ItemInfo_dlc食物,Main resource for power development.,ทรัพยากรหลักในการพัฒนาพลังงาน
+ItemInfo_dlc铁矿,Main resource for power development.,ทรัพยากรหลักในการพัฒนาพลังงาน
+ItemInfo_dlc药品,Main resource for power development.,ทรัพยากรหลักในการพัฒนาพลังงาน
+ItemInfo_dlc木材,Main resource for power development.,ทรัพยากรหลักในการพัฒนาพลังงาน
 ItemInfo_dlc破空梭,Catch them off guard and hit the key points directly.
 ItemInfo_dlc疾风刺,"The shot is extremely fast, making it difficult for people to guard against."
 ItemInfo_dlc龙蛇笔法,"This is a Martial Arts Manual that records the Dragon Snake Pen. The moves are like a dragon piercing the clouds, catching the enemy off guard."

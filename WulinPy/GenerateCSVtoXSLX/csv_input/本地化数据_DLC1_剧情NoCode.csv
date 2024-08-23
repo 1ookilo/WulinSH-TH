@@ -497,7 +497,7 @@ main-4_1_9,"To be honest, the three most expensive antiques in the world were su
 main-4_1_10,Oh? How can I find this person?
 main-4_1_11,"I heard that after his wife passed away, he secluded himself in a deep mountain forest. I'll draw you a map."
 main-4_1_12,"With the map in hand, the next step is to invite him out of the mountain."
-main-4b_name,Main Quest
+main-4b_name,Main Quest,ภารกิจหลัก
 main-4b_log,"Ordinary Blacksmiths can't repair the treasure fragments, only the mysterious Ghost Hand Blacksmith can."
 main-4b_1_1,You and a few others followed the map and finally found the secluded place of the Ghost Hand Divine Craftsman.
 main-4b_1_2,"Old Man, do you know where the Ghost Hand Divine Craftsman lives?"
@@ -532,9 +532,9 @@ main-5_1_4,"One of the three treasures has been obtained, I wonder which sect ho
 main-5_1_5,"There's a swordsman outside the door who wants to challenge our sect, he says..."
 main-5_1_6,"He said that he was spared by us last time, and after mastering the Challenging Fate skill, he came to teach us a lesson."
 main-5_1_7,"Perfect timing, let's test the power of this treasure!"
-main-5_name,Main Quest
+main-5_name,Main Quest,ภารกิจหลัก
 main-5_log,Send disciples to deal with the swordsman.
-main-5a_name,Main Quest
+main-5a_name,Main Quest,ภารกิจหลัก
 main-5a_log,"A mysterious swordsman challenges at the door, claiming to fight to the death with the strongest in the sect."
 main-5a_1_1,"I am not what I used to be, and I came to request!"
 main-5a_1_2,"You're persistent, it seems I have to beat you until you give up!"
@@ -583,9 +583,9 @@ main-6_3_2,We still need Hidden Talent to further expand our strength.
 main6-a_1_1,It's really a Heart Zhai!
 main6-a_1_2,"This ring is spiritual and restrained, it nourishes the body and heart, and I finally see it today."
 main6-a_1_3,"Leave the rest to me, I need three months to repair!"
-main6-a_name,Main Quest
+main6-a_name,Main Quest,ภารกิจหลัก
 main6-a_log,Wait for the second treasure to be repaired.
-main6-b_name,Main Quest
+main6-b_name,Main Quest,ภารกิจหลัก
 main6-b_log,Send someone to find the Ghost Hand Divine Craftsman to repair the second treasure.
 main-7_1_1,"The second treasure has finally been successfully repaired, hahaha!"
 main-7_1_2,"There are three pieces left for the last one, bring them to me quickly!"
@@ -653,7 +653,7 @@ main-10_1_24,"The three treasures have been repaired, unnamed hero, I, Ghost Han
 main-10_1_25,I didn't expect that Master Ghost Hand and the unnamed hero had such a connection... it's really sad and sighing.
 main-10_1_26,I've always been puzzled... what does the unnamed hero mean by going through three lives?
 main-10_1_27,"Such incredible things, how can you understand, I'm afraid only in the hero's treasure trove can you know some fragments."
-main-10a_name,Main Quest
+main-10a_name,Main Quest,ภารกิจหลัก
 main-10a_log,"You have collected all the treasures, you can open the treasure vault of the nameless hero at any time to obtain the inheritance."
 main-10a_1_1,This is the place where the unnamed hero hides his treasures.
 main-10a_1_2,"Strange, why is there nothing here...\nCould it be that the so-called inheritance of the unnamed hero is a shocking lie?"
@@ -707,9 +707,9 @@ main-10c_1_1,"There are already sects attacking the entrance of the mountain, an
 main-10c_1_2,"Stay calm, there's no need to panic!"
 main-10c_1_3,"Ever since we {MyFaction} decided to rebuild the order of the martial world and embarked on this irreversible path, we should have been prepared to face this day."
 main-10c_1_4,"Let's go, let's meet them!"
-main-10c_name,Main Quest
+main-10c_name,Main Quest,ภารกิจหลัก
 main-10c_log,"Resolve the siege of other sects through ""events"" within 3 months.\n<color=#DC143C>Note: Failure to deal with it will result in game failure.</color>"
-main-10d_name,Main Quest
+main-10d_name,Main Quest,ภารกิจหลัก
 main-10d_log,"More and more sects are gathering outside the Mountain Entrance, please go down the mountain and completely defeat them."
 main-10d_1_1,"The headmaster, they are coming up... Since we didn't take the initiative, we are now retreating step by step in a hurry..."
 main-10d_2_1,"You are late, I have been waiting for you at {MyFaction} for a long time."
@@ -757,11 +757,11 @@ main-11_1_13,"If there are grudges, all the leaders will serve as witnesses and 
 main-11_1_14,"In this way, when the Old Man retires from the Jianghu, there will always be new people to take over the banner of protecting the martial arts. The interests of all sects are bound together, restraining each other, with Endless Life Force, lasting forever."
 main-11_1_15,That's a great idea! I'll contact the various sects right now!
 main-11_1_16,"At the newly convened martial arts conference, your speech shocked all the people in the Jianghu. Some admire your integrity, others laugh at your wild ideas. Although the responses are varied, no one opposes the establishment of the martial arts association. After the nameless hero, you have become the second martial arts legend whose name will go down in history. The Jianghu of this parallel world, under your guidance and promotion, has entered a new and unknown era."
-main-12_name,Main Quest
+main-12_name,Main Quest,ภารกิจหลัก
 main-12_log,"By annihilating other sects, gather all the fragments of the first treasure."
-main-13_name,Main Quest
+main-13_name,Main Quest,ภารกิจหลัก
 main-13_log,"By annihilating other sects, gather all the fragments of the second treasure."
-main-14_name,Main Quest
+main-14_name,Main Quest,ภารกิจหลัก
 main-14_log,"By annihilating other sects, gather all the fragments of the third treasure."
 fail-0_1_1,"The Confucius Temple, where scholars come and go, collapses before you. The once great scholar bows his head in regret, lamenting why he let this sacred Confucian place be stained with blood and war. One wrong move, and all is lost. He lost his heart to establish a moral foundation for the world, and abandoned his intention to establish a life for the people. After this battle, all the lost teachings of the past saints will be yours, and you will create peace for all beings..."
 fail-0_1_2,I didn't expect the prophecy to come true on you! Fate... fate... it's really a trick of fate!
@@ -2260,22 +2260,22 @@ GeneralQue-2_7_1,Dare anyone challenge me?
 GeneralQue-2_7_2,"If you can defeat me, I will pass on my <color=#a94e37>unique blade technique</color> to you."
 GeneralQue-2_8_1,"You're quite skilled, I'll pass on this <color=#a94e37>Savage Primal Blade</color> to you."
 GeneralQue-2_9_1,It seems that the martial arts world is full of mediocrity these days.
-main-4_name,Main Quest
+main-4_name,Main Quest,ภารกิจหลัก
 main-4_log,"Dispatch Disciples through ""Events"" to find the Ghost Hand Blacksmith."
-main-4c_name,Main Quest
+main-4c_name,Main Quest,ภารกิจหลัก
 main-4c_log,Wait for the first treasure to be repaired.
-main-9_name,Main Quest
+main-9_name,Main Quest,ภารกิจหลัก
 main-9_log,Wait for the Ghost Hand Blacksmith to repair the last piece of treasure.
-main-10e_name,Main Quest
+main-10e_name,Main Quest,ภารกิจหลัก
 main-10e_log,"Through ""Events"", send Disciples to the treasure vault of the nameless hero."
-main-11_name,Main Quest
+main-11_name,Main Quest,ภารกิจหลัก
 main-11_log,Eliminate the remaining sects in the martial arts world.
 part-1_option3,"For someone like you, of course, there is."
 part-1_option4,"{MyFaction} temple is small, I'm afraid it might hinder your future."
 part-4_NPCname,Cold and silent woman
 part-18_option1,"Here's 1000 Coins for you, bet you didn't see that coming!"
 part-18_option2,Get lost! Don't wander around {MyFaction} anymore!
-main-2b_name,Main Quest
+main-2b_name,Main Quest,ภารกิจหลัก
 main-2b_log,Get more clues by eliminating other sects.
 GeneralQue-15_1_1,"Master, there is a beauty waiting outside the door, she wants to gamble with you by name."
 GeneralQue-15_1_2,"At this time, someone comes to gamble, are you sure she is a beauty, not some drunk gambler who lost his way?"

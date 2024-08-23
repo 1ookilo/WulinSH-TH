@@ -264,7 +264,7 @@ FactionGuard_19,"If you dare to resist, don't blame me for being rude!",ถ้�
 FactionGuard_20,{PlayerName}! You will pay for your actions today!,{PlayerName}! เจ้าจะต้องชดใช้ต่อการกระทำของเจ้าวันนี้!
 FactionGuard_21,"Humph! If you don't drink the toast, you have to drink the penalty, the crime is increased!",ฮึ่ม! ถ้าเจ้าไม่อยากได้น้ำใจ งั้นเจ้าก็เตรียมรับน้ำโหของข้าไปแทนแล้วกัน! และโทษของเจ้าก็จะเพิ่มมากขึ้น!
 FactionLeader_0,Greeting,คารวะ
-FactionLeader_1,I hope you've been well.|Your skills have improved.
+FactionLeader_1,I hope you've been well.|Your skills have improved.,ข้าหวังว่าเจ้าจะสบายดี|ฝีมือของเจ้ารุดหน้าขึ้นอีกแล้ว
 FactionLeader_2,Spar,ประลอง
 FactionLeader_3,"In a martial arts contest, stop at the right time.",ในการประลองยุทธ โปรดหยุดมือเมื่อรู้ผล
 FactionLeader_4,Make friends,ผูกมิตร
@@ -376,6 +376,6 @@ FactionName_魏如松,
 FactionName_主将韩安仁,
 FactionName_铁面人个人势力,
 FactionName_DLC2恶乞丐演员1,
-FactionName_DLC2纪府,Ji Residence
-FactionInfo_凰木港,"Located in the southeast, the seaport is a key town for maritime trade in the Zhao Kingdom, with trade routes even extending to the western continent. The famous residence of King Chai in the martial arts world is also here."
-FactionInfo_梅关驿,"A small town developed around the Meishan Pass post station, where travelers passing by would rest."
+FactionName_DLC2纪府,Ji Residence,บ้านตระกูลจี้
+FactionInfo_凰木港,"Located in the southeast, the seaport is a key town for maritime trade in the Zhao Kingdom, with trade routes even extending to the western continent. The famous residence of King Chai in the martial arts world is also here.",ท่าเรือตั้งอยู่ทางตะวันออกเฉียงใต้ เป็นศูนย์กลางการค้าทางทะเลที่สำคัญของแคว้นจ้าว โดยมีเส้นทางการค้าขยายไปยังทวีปตะวันตก ตำหนักของอ๋องไฉผู้โด่งดังในยุทธภพก็อยู่ที่นี่เช่นกัน
+FactionInfo_梅关驿,"A small town developed around the Meishan Pass post station, where travelers passing by would rest.",เมืองเล็กๆ ที่พัฒนาขึ้นรอบๆ สถานีม้าเร็วด่านเหมย ทุกคนที่เดินทางผ่านมามักจะหยุดพักที่นี่
