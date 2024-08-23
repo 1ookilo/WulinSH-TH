@@ -2905,7 +2905,7 @@ NpcDuel_石万三_Info,"Young hero, I can't refuse your kindness, so I have to a
 NpcDuel_石万三_NoStamina,It seems that the young hero is not ready yet.,ดูเหมือนว่าจอมยุทธ์น้อยจะยังไม่พร้อม
 NpcDuel_曲忘忧_Refuse,"Waving swords and spears only increases pain...|Sorry, I have patients to treat."
 NpcDuel_曲忘忧_Info,"Just stop at the right moment.\n(Winning can get {2}Jianghu Knowledge, {3}FameExperience.)","เพียงยั้งมือในช่วงเวลาที่เหมาะสม\n(ผู้ชนะจะได้รับ {2} ค่าประสบการณ์ยุทธ, {3} ค่าประสบการณ์ชื่อเสียง)"
-NpcDuel_曲忘忧_NoStamina,"You look unwell, do you want me to heal you?"
+NpcDuel_曲忘忧_NoStamina,"You look unwell, do you want me to heal you?",ท่านดูอิดโรยนัก ต้องการให้ข้ารักษาท่านหรือไม่?
 NpcDuel_吕子虚_Refuse,"Go away, don't get in my way!|Who are you, are you very familiar with me?",ไปให้พ้น อย่ามาขวางทางข้า!|เจ้าเป็นใครกัน เจ้าคิดว่าสนิทกับข้ามากงั้นรึ?
 NpcDuel_吕子虚_Info,"This is what you asked for, don't ask me for medicine fee later!\n(Winning can get {2}Jianghu Knowledge, {3}FameExperience.)|I'll say it straight, even if you're my elder brother, I won't show mercy!\n(Winning can get {2}Jianghu Knowledge, {3}FameExperience.)","นี่คือสิ่งที่เจ้าร้องขอ อย่ามาขอค่ายาทีหลังนะ!\n(ผู้ชนะจะได้รับ {2} ค่าประสบการณ์ยุทธ, {3} ค่าประสบการณ์ชื่อเสียง)|ข้าพูดตรงๆ ถึงเจ้าจะเป็นศิษย์พี่, ข้าก็จะไม่ออมมือ!\n(ผู้ชนะจะได้รับ {2} ค่าประสบการณ์ยุทธ, {3} ค่าประสบการณ์ชื่อเสียง)"
 NpcDuel_吕子虚_NoStamina,Are you sure you're okay? Maybe you should rest first.,เจ้าแน่ใจนะว่าเจ้ายังไหว? บางที เจ้าควรไปพักก่อน
