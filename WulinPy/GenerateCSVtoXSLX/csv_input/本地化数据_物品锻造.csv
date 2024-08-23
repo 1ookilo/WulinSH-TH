@@ -625,7 +625,7 @@ BuffPropPair_硬木琵琶1,<#29F161>Final Damage Increase{硬木琵琶1多效果
 BuffPropPair_花梨琵琶1,Reduce the enemy's <#FE2929>{花梨琵琶1多效果1} points of Qi</color> when attacking.,เมื่อโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ของศัตรูลง {花梨琵琶1多效果1} แต้ม</color>
 BuffPropPair_牛角琵琶1,Cause <#FE2929>{牛角琵琶1多效果1} points of Bleeding</color> to the enemy when attacking.,เมื่อโจมตี สร้างสถานะ <#FE2929>เลือดไหล {牛角琵琶1多效果1} แต้ม</color> แก่ศัตรู
 BuffPropPair_象牙琵琶1,Reduce the enemy's <#FE2929>{象牙琵琶1多效果1} points of Qi</color> when attacking.,เมื่อโจมตี ลด<#FE2929>ค่าปราณเคลื่อนที่ของศัตรูลง {象牙琵琶1多效果1} แต้ม</color>
-BuffPropPair_双凤琵琶1,Cause <#FE2929>{双凤琵琶1多效果1} points of Sealed</color> to the enemy when attacking.,เมื่อโจมตี สร้างสถานะ <#FE2929>สกัดจุด 1 แต้ม ต่อ ผีผาหงส์คู่ 1 แต้ม</color> แก่ศัตรู
+BuffPropPair_双凤琵琶1,Cause <#FE2929>{双凤琵琶1多效果1} points of Sealed</color> to the enemy when attacking.,เมื่อโจมตี สร้างสถานะ <#FE2929>{双凤琵琶1多效果1} สกัดจุด 1 แต้ม ต่อ ผีผาหงส์คู่ 1 แต้ม</color> แก่ศัตรู
 BuffPropPair_绕殿雷1,<#29F161>Damage increases by {绕殿雷1多效果1%}</color> when attacking.,<#29F161>ความเสียหายเพิ่มขึ้น {绕殿雷1多效果1%}</color> เมื่อโจมตี
 BuffPropPair_烧槽1,Cause <#FE2929>{烧槽1多效果1} points of Internal Injury</color> to the enemy when attacking.,เมื่อโจมตี สร้างสถานะ <#FE2929>บาดเจ็บภายใน {烧槽1多效果1} แต้ม</color> แก่ศัตรู
 BuffPropPair_玄象1,Attack reduces the enemy's <#FE2929>{玄象1多效果1%}Spirit</color>.,เมื่อโจมตี จะลด <#FE2929>พลังใจของศัตรูลง {玄象1多效果1%} แต้ม</color> 
@@ -638,7 +638,7 @@ BuffPropPair_窄袖衣1,"When attacked by male enemies, the <#29F161>final damag
 BuffPropPair_绢麻衣1,"When the protagonist's Propriety is above 0, the <#29F161>damage received is reduced by {绢麻衣1多效果1%}</color>.","เมื่อ""มารยาท""ของตัวเอกมากกว่า 0, <#29F161>ลดความเสียหายที่ได้รับจะลง {绢麻衣1多效果1%}</color>"
 BuffPropPair_兽皮袄1,"When attacked by animals, the <#29F161>final damage received is reduced by {兽皮袄1多效果1%}</color>.",เมื่อถูกโจมตีจากศัตรูที่เป็นสัตว์ <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {兽皮袄1多效果1%}</color>
 BuffPropPair_护心铠1,The <#29F161>final damage received is reduced by {护心铠1多效果1%}</color> when attacked.,เมื่อถูกโจมตี <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {护心铠1多效果1%}</color>
-BuffPropPair_粗布衣1,"Trigger Parry when attacked, <#29F161>ParryDamage reduction effect increases by {粗布衣1多效果1%}</color>.","เมื่อปัดป้องการโจมตีได้, <#29F161>ลดความเสียหายปัดป้องเพิ่มขึ้น {เสื้อผ้าหยาบ 1 ชิ้น เพิ่มเอฟเฟกต์ 1%}.</color>."
+BuffPropPair_粗布衣1,"Trigger Parry when attacked, <#29F161>ParryDamage reduction effect increases by {粗布衣1多效果1%}</color>.","เมื่อปัดป้องการโจมตีได้, <#29F161>ลดความเสียหายปัดป้องเพิ่มขึ้น {粗布衣1多效果1%}.</color>."
 BuffPropPair_麻布衣1,"When attacked, the enemy's <#FE2929>Critical for this attack is reduced by {麻布衣1多效果1%}</color>.",เมื่อถูกโจมตี <#FE2929>ลดการโจมตีคริติคอลของศัตรูสำหรับการโจมตีนี้จะลง {麻布衣1多效果1%}</color>
 BuffPropPair_戎装1,"When attacked by animals, the <#29F161>final damage received is reduced by {戎装1多效果1%}</color>.",เมื่อถูกโจมตีจากศัตรูที่เป็นสัตว์ <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {戎装1多效果1%}</color>.
 BuffPropPair_百衲衣1,<#FE2929>Gift effect is reduced by {百衲衣1多效果1%}</color>,<#FE2929>ประสิทธิภาพของของขวัญลดลง {百衲衣1多效果1%}</color>
@@ -650,7 +650,7 @@ BuffPropPair_僧袍1,"When the protagonist's Benevolence is above 0, the <#29F16
 BuffPropPair_道袍1,"Each time you are attacked, <#29F161>{道袍1多效果1%} of the damage is reflected back to the opponent</color>.",เมื่อถูกโจมตีแต่ละครั้ง<#29F161>สะท้อนความเสียหายจะกลับไปยังคู่ต่อสู้ {道袍1多效果1%}</color>
 BuffPropPair_夜行衣1,"When the protagonist's Propriety is below 0, the <#29F161>damage received is reduced by {夜行衣1多效果1%}</color>.","เมื่อ""มารยาท""ของตัวเอกน้อยกว่า 0, <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {夜行衣1多效果1%}</color>."
 BuffPropPair_儒生服1,"When the protagonist's Propriety is above 0, the <#29F161>damage received is reduced by {儒生服1多效果1%}</color>.","เมื่อ""มารยาท""ของตัวเอกมากกว่า 0, <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {儒生服1多效果1%}</color>."
-BuffPropPair_赤翎服1,"When attacked by male enemies, the <#29F161>final damage received is reduced by {赤翎服1多效果1%}</color> (only effective when equipped by females).",เมื่อถูกโจมตีจากศัตรูที่เป็นผู้ชาย <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {窄袖衣1多效果1%}</color> (มีผลกับตัวละครหญิงที่สวมใส่เท่านั้น)
+BuffPropPair_赤翎服1,"When attacked by male enemies, the <#29F161>final damage received is reduced by {赤翎服1多效果1%}</color> (only effective when equipped by females).",เมื่อถูกโจมตีจากศัตรูที่เป็นผู้ชาย <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {赤翎服1多效果1%}</color> (มีผลกับตัวละครหญิงที่สวมใส่เท่านั้น)
 BuffPropPair_飞鱼锦服1,"When the protagonist's Benevolence is above 0, the <#29F161>damage received is reduced by {飞鱼锦服1多效果1%}</color>.","เมื่อ""ศีลธรรม""ของตัวเอกมากกว่า 0, <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {飞鱼锦服1多效果1%}</color>."
 BuffPropPair_侠客装1,"When your FameLevel is higher than the enemy's, the <#29F161>damage received is reduced by {侠客装1多效果1%}</color>.","เมื่อระดับชื่อเสียงของคุณสูงกว่าศัตรู, <#29F161>ลดความเสียหายที่ได้รับลง {侠客装1多效果1%}</color>."
 BuffPropPair_蚕丝衣1,"When attacked by male enemies, the <#29F161>final damage received is reduced by {蚕丝衣1多效果1%}</color> (only effective when equipped by females).",เมื่อถูกโจมตีจากศัตรูที่เป็นผู้ชาย <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {蚕丝衣1多效果1%}</color> (มีผลกับตัวละครหญิงที่สวมใส่เท่านั้น)
@@ -659,7 +659,7 @@ BuffPropPair_弟子装1,"When attacked, you gain an additional <#29F161>{弟子�
 BuffPropPair_流云衫1,"When attacked and Evasion is triggered, you gain an additional <#29F161>{流云衫1多效果1} Qi points</color>.",เมื่อถูกโจมตีและเกิดการหลบหลีก คุณจะได้รับ <#29F161>ค่าปราณเคลื่อนที่ {流云衫1多效果1} แต้ม</color> เพิ่มเติม
 BuffPropPair_金刚甲1,"Trigger Parry when attacked, <#29F161>ParryDamage reduction effect increases by {金刚甲1多效果1%}</color>.",เมื่อถูกโจมตีหากปัดป้องได้ <#29F161>ลดความเสียหายปัดป้องเพิ่มขึ้น {金刚甲1多效果1%}</color>.
 BuffPropPair_明光铠1,"When attacked, the enemy's <#FE2929>Critical for this attack is reduced by {明光铠1多效果1%}</color>.",เมื่อถูกโจมตี <#FE2929>ลดการโจมตีคริติคอลของศัตรูสำหรับการโจมตีนี้จะลง {明光铠1多效果1%}</color>.
-BuffPropPair_朱雀服1,"When attacked, you gain an additional <#29F161>{朱雀服1多效果1} Spirit points</color>.",เมื่อถูกโจมตี จะได้รับ <#29F161>พลังใจ {青罡剑1多效果1} แต้ม</color> เพิ่มเติม
+BuffPropPair_朱雀服1,"When attacked, you gain an additional <#29F161>{朱雀服1多效果1} Spirit points</color>.",เมื่อถูกโจมตี จะได้รับ <#29F161>พลังใจ {朱雀服1多效果1} แต้ม</color> เพิ่มเติม
 BuffPropPair_麒麟甲1,"When attacked from behind, your <#29F161>counterattack probability increases by {麒麟甲1多效果1%}</color>.",เมื่อถูกโจมตีจากด้านหลัง <#29F161>โอกาสโจมตีสวนกลับเพิ่มขึ้น {麒麟甲1多效果1%}</color>.
 BuffPropPair_玄武铠1,"When attacked, the <#29F161>damage received from sword, knife, and short weapon skills is reduced by {玄武铠1多效果1%}</color>.","เมื่อถูกโจมตี <#29F161>ลดความเสียหายจากวรยุทธ กระบี่, ดาบ, อาวุธสั้นลง {玄武铠1多效果1%}</color>."
 BuffPropPair_紫罗裙1,"When attacked by male enemies, the <#29F161>final damage received is reduced by {紫罗裙1多效果1%}</color> (only effective when equipped by females).",เมื่อถูกโจมตีจากศัตรูที่เป็นผู้ชาย <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {紫罗裙1多效果1%}</color> (มีผลกับตัวละครหญิงที่สวมใส่เท่านั้น)
