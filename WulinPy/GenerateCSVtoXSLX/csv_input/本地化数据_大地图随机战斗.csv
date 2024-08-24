@@ -7516,4 +7516,4 @@ BattleFieldFail_襄樊地区随机战斗85级山贼营地,<#61C3C8>All of our me
 BattleFieldFail_襄樊地区随机战斗90级山贼营地,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
 BattleFieldFail_襄樊地区随机战斗95级山贼营地,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
 BattleFieldFail_襄樊地区随机战斗100级山贼营地,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
-BattleFieldInfo_中州地区随机战斗60级匪窝,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed."
+BattleFieldInfo_中州地区随机战斗60级匪窝,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
