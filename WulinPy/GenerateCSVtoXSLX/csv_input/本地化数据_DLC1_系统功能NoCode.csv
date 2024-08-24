@@ -71,7 +71,7 @@ DLC1TaskPrize,Reward:
 DLC1AttackCost,Attack cost:
 DLC1AppeaseCost,Benefit People Cost:
 DLC1SupportCost,Supply Cost:
-DLC1AttackTip,Choose the starting point of the attack
+DLC1AttackTip,Choose the starting point of the attack,เลือกจุดเริ่มต้นของการโจมตี
 DLC1AttackTip1,Please select the Characters to attack together (up to 6)
 DLC1AttackDoAction,Strike Out
 DLC1CureTip,Please select the Character to Heal

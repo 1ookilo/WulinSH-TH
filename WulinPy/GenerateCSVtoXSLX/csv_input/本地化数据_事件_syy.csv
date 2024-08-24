@@ -6545,7 +6545,7 @@ Wish-3_log_5,"Accumulate military merits to become a ""Guerrilla General"".",ส
 Wish-3_log_6,Follow the orders of Marshal Ye.,ทำตามคำสั่งของแม่ทัพใหญ่เย่
 Wish-3_log_7,Rescue Marshal Ye.,ช่วยเหลือแม่ทัพใหญ่เย่
 Wish-3_log_8,Rescue Marshal Ye.,ช่วยเหลือแม่ทัพใหญ่เย่
-Wish-3_log_9,Go to the palace to vindicate Marshal Ye.
+Wish-3_log_9,Go to the palace to vindicate Marshal Ye.,ไปยังวังหลวงเพื่อแก้ต่างให้แม่ทัพใหญ่เย่
 Wish-3_log_10,Return to Ye Family Battalion and inherit Marshal Ye's will.
 Wish-3_1_1,"Anyway, I can't wash away the stains of this life, so it's better not to have this ambition to defend the country."
 Wish-3_2_1,"Marshal Ye has fallen, my future is also broken, how can I talk about defending the country in the future."
@@ -6878,7 +6878,7 @@ School-2050-1_5_3,"From today on, you are a brother of our Water Camp, sharing b
 School-2050-1_5_4,"Thank you for your appreciation, Camp Leader."
 School-2050-2_name,The business of Jiujiang Fortress,ธุรกิจของค่ายน้ำจิ่วเจียง
 School-2050-2_talking,Business
-School-2050-2_log_1,"Go to Lin'an City, convince the owner of Wine God Tower to hire the cargo ship of Jiujiang Fortress, and pay a deposit."
+School-2050-2_log_1,"Go to Lin'an City, convince the owner of Wine God Tower to hire the cargo ship of Jiujiang Fortress, and pay a deposit.",ไปที่เมืองหลินอัน โน้มน้าวเจ้าของหอคอยเทพสุราให้จ้างเรือบรรทุกสินค้าของค่ายน้ำจิ่วเจียง และจ่ายเงินมัดจำ
 School-2050-2_log_2,Return to Jiujiang Fortress and report to Ding Fengbo.,กลับไปที่ค่ายน้ำจิ่วเจียงรายงานต่อติงเฟิงป๋อ
 School-2050-2_1_1,"Young man, don't aim too high. There will be plenty of tasks for you in the future.\nThe most urgent task is to build good relations with the brothers in the water camp, after all, you are also a part of the water camp."
 School-2050-2_1_2,"\n|(It seems that I need to make my relations with the water camp reach <color=#097a76>Friendly (Relations 20)</color> first, so that the camp leader can trust me with new tasks.)"
@@ -6998,7 +6998,7 @@ School-2050-3_12_4,"Thank you, leader."
 School-2050-3_13_1,"The special envoy should still be Above river, not far away, you must personally deliver the silver ticket to him."
 School-2050-4_name,Hongmen Banquet,งานเลี้ยงหงเหมิน
 School-2050-4_talking,Attend the banquet,เข้าร่วมงานเลี้ยง
-School-2050-4_log_1,Go to Lin'an CityDuke Kang's manor to meet Duke Kang.
+School-2050-4_log_1,Go to Lin'an CityDuke Kang's manor to meet Duke Kang.,ไปที่ตำหนักอ๋องคังในเมืองหลินอัน เพื่อขอเข้าพบอ๋องคัง
 School-2050-4_log_2,Return to Jiujiang Fortress to report.,กลับไปที่ค่ายน้ำจิ่วเจียงเพื่อรายงาน
 School-2050-4_1_1,"I'm not very confident about entrusting this task to you, let's think it over."
 School-2050-4_1_2,"(It seems that the leader still has doubts about my strength, I'll come back when my Level reaches 50.)"
@@ -7918,7 +7918,7 @@ M1000-30_op_1_1,Play the zither for <color=#c44b0e>1 shichen</color>,บรร�
 M1000-30_op_1_2,Play the zither for <color=#c44b0e>3 shichen</color>,บรรเลงกู่ฉินเป็นเวลา <color=#c44b0e>3 ชั่วยาม</color>
 M1000-30_op_1_3,Don't want to play the zither yet,ยังไม่อยากบรรเลงฉินตอนนี้
 Role2-33_name,Aftermath
-Role2-33_log_1,Go to the General's mansion and seek justice from Lü Wenhuan.
+Role2-33_log_1,Go to the General's mansion and seek justice from Lü Wenhuan.,ไปที่จวนแม่ทัพเพื่อทวงความยุติธรรมให้ลู่เหวินหวน
 Role2-33_1_1,"{PlayerName}, you're still alive!"
 Role2-33_2_1,It seems that General Lü has long regarded me as a dead man...
 Role2-33_2_2,"It's indeed surprising that you could walk out of the court alive, but what surprises me more is that you dare to come to this General's mansion."
