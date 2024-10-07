@@ -3031,44 +3031,44 @@ R10056-5_8_1,"{PlayerName}, wait, let me take a breather...",{PlayerName} รอ
 R10056-5_8_2,"Your face is as pale as paper, are you really that nervous?",ใบหน้าเจ้าซีดเผือดถึงเพียงนี้ ดูจะเจ้าจะหวั่นใจเอาการ?
 R10056-5_8_3,I'm not nervous.,ข้ามิได้หวั่นใจ
 R10056-5_8_4,"Phew... Okay, let's go in.",ฟู่ว... เอาล่ะ ไปกันเถอะ
-R10056-5_9_1,Wait! You guys...
-R10056-5_9_2,"What, you want to stop me again?"
-R10056-5_9_3,"Not to stop you, but to stop this woman in the purple Taoist robe!"
-R10056-5_9_4,！
-R10056-5_9_5,The order from above is to watch out for women in purple Taoist robes!
-R10056-5_9_6,"Although I don't know why I should be careful, but if you insist on bringing her into the tribe, I have to inform the people above to confirm, then I can let you go!"
-R10056-5_9_7,"(Fortunately, I only encountered a low-level character who doesn't know the intention of the higher-ups, that's good...)"
-R10056-5_option2_1,I'm taking her to see the chieftain. <color=#097a76>(Persuade reached level 2 Intermediate)</color>
-R10056-5_option2_2,Can you do me a favor for our friendship? <color=#097a76>(Relations≥60)</color>
-R10056-5_option2_3,(Bribe) Did you guys drop some money? <color=#097a76>(Scrap silver 2两)</color>
-R10056-5_option2_4,Let Miao Caidie handle it.
-R10056-5_option2_5,Turn around and run away.
-R10056-5_10_1,Is that so?
-R10056-5_10_2,"He comes and goes freely in the tribe every day, probably familiar with the chieftain."
-R10056-5_10_3,"If he goes to the chieftain to complain about us, we'll be in trouble..."
-R10056-5_10_4,Better not to stop.
-R10056-5_10_5,You guys go in.
-R10056-5_11_1,"Ah, forget it, let you in."
-R10056-5_11_2,Don't mention me if there's any problem.
-R10056-5_12_1,"Ah yes, yes, this is our lost money."
-R10056-5_12_2,"You guys go in, make way, don't block me from picking up money."
-R10056-5_13_1,"Hey, why are you guys still stopping us?"
-R10056-5_13_2,"{PlayerName} is a friend of the Jiuli Tribe, and so is this sister in the purple dress!"
-R10056-5_13_3,"Welcome, Saintess!"
-R10056-5_13_4,"Honored guest, please come in."
-R10056-5_14_1,"No, now is not the time, we need to find a way to enter the lizard cave to complete the experiment..."
-R10056-5_15_1,"Phew... I finally came here, the place that the master mentioned countless times..."
-R10056-5_15_2,"The poison gas here... There is a troublesome existence here, it should be a lizard."
-R10056-5_15_3,"It will seriously interfere with my experiment, let's solve this problem first."
-R10056-5_16_1,"Finally solved the lizard problem, can Jiang Ziyan's experiment continue now?"
-R10056-5_17_1,"Great, now there should be no one or anything to disturb my experiment..."
-R10056-5_18_1,"Phew... I finally came here, the place that the master mentioned countless times..."
-R10056-5_19_1,"The environment here, wet, hot, little ventilation, enough miasma, is an excellent place for experiments."
-R10056-5_19_2,How is your Toxicology experiment going to be conducted?
-R10056-5_19_3,Do you know the principle of Gu refining?
-R10056-5_19_4,"Of course, it's about placing hundreds of poisonous insects in the same vessel, then letting them kill and devour each other. The last surviving insect, having gathered all the poisons in one body, is the ""Gu""."
-R10056-5_19_5,"Yes, the general method for all Gu is similar. Different Gu require different types of poisonous insects, quantities, materials of the vessel, size, and environment for refining."
-R10056-5_19_6,The Gu that I want to refine is the one that my master has been longing for and wanted to complete the most...
+R10056-5_9_1,Wait! You guys...,เดี๋ยวก่อน! พวกเจ้า...
+R10056-5_9_2,"What, you want to stop me again?",ยังจะขวางข้าอีกเหรอ?
+R10056-5_9_3,"Not to stop you, but to stop this woman in the purple Taoist robe!",ไม่ได้ขวางเจ้า แต่ขวางสตรีชุดคลุมม่วงคนนี้ต่างหาก! 
+R10056-5_9_4,！,!
+R10056-5_9_5,The order from above is to watch out for women in purple Taoist robes!,เบื้องบนมีคำสั่งให้ระวังสตรีชุดคลุมม่วง!
+R10056-5_9_6,"Although I don't know why I should be careful, but if you insist on bringing her into the tribe, I have to inform the people above to confirm, then I can let you go!",ถึงข้าไม่รู้ว่าทำไมต้องระวัง แต่ถ้าเจ้าดึงดันจะพานางเข้าไปในเผ่า ข้าต้องแจ้งข้างเบื้องบนให้ทราบก่อน ถึงจะปล่อยผ่านได้!
+R10056-5_9_7,"(Fortunately, I only encountered a low-level character who doesn't know the intention of the higher-ups, that's good...)",(โชคดีที่เจอแค่พวกระดับล่างที่ยังไม่รู้คำสั่งจากข้างบน... โล่งอกไปที)
+R10056-5_option2_1,I'm taking her to see the chieftain. <color=#097a76>(Persuade reached level 2 Intermediate)</color>,ข้าเพียงพานางไปพบหัวหน้าเผ่าเท่านั้น <color=#097a76>(โน้มน้าวถึงระดับ 2 ขั้นกลาง)</color>
+R10056-5_option2_2,Can you do me a favor for our friendship? <color=#097a76>(Relations≥60)</color>,ด้วยความสัมพันธ์ของพวกเรา เจ้าอาจผ่อนปรนให้ข้าหน่อยได้ไหม? <color=#097a76>(ความสัมพันธ์ ≥ 60)</color>
+R10056-5_option2_3,(Bribe) Did you guys drop some money? <color=#097a76>(Scrap silver 2两)</color>,(ติดสินบน) พวกเจ้าเผลอทำเงินหล่นไว้หรือเปล่า? <color=#097a76>(เศษเงิน 2 ชิ้น)</color>
+R10056-5_option2_4,Let Miao Caidie handle it.,ให้เมี้ยวไฉ่ตี้ออกหน้าแทน
+R10056-5_option2_5,Turn around and run away.,หันหลังเดินจากไป
+R10056-5_10_1,Is that so?,ใช่หรือไม่?
+R10056-5_10_2,"He comes and goes freely in the tribe every day, probably familiar with the chieftain.",เขาเข้าออกเผ่านี้อย่างอิสระ คงสนิทกับท่านหัวหน้าเผ่าพอสมควร
+R10056-5_10_3,"If he goes to the chieftain to complain about us, we'll be in trouble...",หากเขาไปฟ้องท่านหัวหน้าเผ่า เราคงโดนเล่นงานแน่...
+R10056-5_10_4,Better not to stop.,เอาเถอะ อย่าขวางอีกเลย
+R10056-5_10_5,You guys go in.,เจ้าสองคนเข้าไปได้แล้ว
+R10056-5_11_1,"Ah, forget it, let you in.",เฮ้อ ช่างเถอะ ให้เจ้าเข้าไปก็ได้
+R10056-5_11_2,Don't mention me if there's any problem.,แต่ถ้าเกิดปัญหาล่ะก็ อย่าได้เอาข้าไปอ้างล่ะ!
+R10056-5_12_1,"Ah yes, yes, this is our lost money.",อา ใช่ๆ นั่นเป็นเงินที่เราทำหล่นเอง
+R10056-5_12_2,"You guys go in, make way, don't block me from picking up money.",พวกเจ้าก็เดินเข้าไปเถอะ อย่ามาขวางทาง ข้าจะก้มเก็บเงิน!
+R10056-5_13_1,"Hey, why are you guys still stopping us?",อ้าว นี่พวกเจ้ายังจะมาขวางอยู่อีกเหรอ!
+R10056-5_13_2,"{PlayerName} is a friend of the Jiuli Tribe, and so is this sister in the purple dress!",น้องชาย{PlayerName} ท่านเป็นสหายของเผ่าจิ่วลี่ ส่วนพี่สาวชุดม่วงคนนี้ก็เช่นกัน!
+R10056-5_13_3,"Welcome, Saintess!",ขอต้อนรับท่านธิดาเทพ!
+R10056-5_13_4,"Honored guest, please come in.",แขกผู้มีเกียรติ เชิญข้างใน
+R10056-5_14_1,"No, now is not the time, we need to find a way to enter the lizard cave to complete the experiment...","ไม่, ตอนนี้ยังไม่ใช่เวลา เราต้องหาวิธีเข้าไปในถ้ำตะกวดพิษให้สำเร็จเสียก่อน…"
+R10056-5_15_1,"Phew... I finally came here, the place that the master mentioned countless times...",เฮ้อ… ในที่สุดข้าก็มาถึงที่นี่ สถานที่ที่อาจารย์กล่าวถึงหลายต่อหลายครั้ง…
+R10056-5_15_2,"The poison gas here... There is a troublesome existence here, it should be a lizard.",หมอกพิษในที่นี่… ดูเหมือนจะมีตัวที่น่ารำคาญอยู่ น่าจะเป็นตะกวดพิษ
+R10056-5_15_3,"It will seriously interfere with my experiment, let's solve this problem first.",มันจะรบกวนการทดลองของข้าอย่างมาก เราต้องจัดการเจ้าตะกวดพิษตัวนี้ก่อน
+R10056-5_16_1,"Finally solved the lizard problem, can Jiang Ziyan's experiment continue now?",ในที่สุดก็จัดการปัญหาตะกวดพิษได้แล้ว การทดลองของเจียงจื่อเยียนน่าจะทำต่อได้แล้วสินะ
+R10056-5_17_1,"Great, now there should be no one or anything to disturb my experiment...",เยี่ยมมาก ตอนนี้ไม่น่าจะมีใครหรือสิ่งใดมากวนการทดลองของข้าอีกแล้ว...
+R10056-5_18_1,"Phew... I finally came here, the place that the master mentioned countless times...",เฮ้อ… ในที่สุดข้าก็มาถึงที่นี่ สถานที่ที่อาจารย์กล่าวถึงหลายต่อหลายครั้ง…
+R10056-5_19_1,"The environment here, wet, hot, little ventilation, enough miasma, is an excellent place for experiments.","บรรยากาศที่นี่ ชื้น, ร้อน, อากาศถ่ายเทน้อย หมอกพิษพอเหมาะ เป็นสถานที่ที่ยอดเยี่ยมสำหรับทำการทดลอง"
+R10056-5_19_2,How is your Toxicology experiment going to be conducted?,การทดลองศาสตร์พิษของเจ้า จะทำอย่างไรต่อไป?
+R10056-5_19_3,Do you know the principle of Gu refining?,"เจ้ารู้จักหลักการของการ ""เลี้ยงกู่"" หรือไม่?"
+R10056-5_19_4,"Of course, it's about placing hundreds of poisonous insects in the same vessel, then letting them kill and devour each other. The last surviving insect, having gathered all the poisons in one body, is the ""Gu"".",แน่นอนว่าข้ารู้ มันก็คือการนำสัตว์พิษนับร้อยมาไว้ในภาชนะเดียวกัน ปล่อยให้พวกมันฆ่าฟันและกลืนกินกันเอง สุดท้ายสัตว์พิษที่เหลือรอดตัวเดียว จะกลายเป็น “กู่” ที่รวบรวมพิษร้ายของสัตว์ทั้งหมด
+R10056-5_19_5,"Yes, the general method for all Gu is similar. Different Gu require different types of poisonous insects, quantities, materials of the vessel, size, and environment for refining.",ใช่ หลักการคร่าวๆ ของการเลี้ยงกู่ก็เป็นแบบนี้ การเลี้ยงกู่แต่ละแบบจะแตกต่างกันไปตามชนิดของสัตว์พิษ จำนวน ชนิดของภาชนะ ขนาด และสภาพแวดล้อมที่ใช้เลี้ยง
+R10056-5_19_6,The Gu that I want to refine is the one that my master has been longing for and wanted to complete the most...,และกู่ที่ข้าจะเลี้ยงนี้ เป็นกู่ที่อาจารย์ข้าฝันถึงมาโดยตลอด และอยากสำเร็จให้ได้…
 R10056-5_19_7,Let's start with the preparations. I will look for a place where poisonous gas sinks and accumulates here. You help me catch some poisonous insects.,มาเริ่มเตรียมการกันเถอะ ข้าจะหาตำแหน่งที่หมอกควันพิษลอยต่ำและควบรวมกัน ส่วนเจ้าไปช่วยข้าจับเหล่าแมลงพิษมา
 R10056-5_19_8,You want me to catch a hundred? That's too much...,ข้าต้องไล่จับเป็นร้อยชนิดเลยรึ? มันจะไม่เยอะเกินไปเหรอ...
 R10056-5_19_9,This is too time-consuming. I have almost prepared all the poisonous insects.,นั่นจะสิ้นเปลืองเวลาเกินไป ข้าเตรียมแมลงพิษมาไว้เกือบครบแล้ว
@@ -3082,27 +3082,27 @@ R10056-5_19_16,"I think you can find all the bugs in this hole, so you don't hav
 R10056-5_20_1,"So, have you gathered all the bugs?",เจ้ารวบรวมแมลงมาครบแล้วหรือยัง?
 R10056-5_20_2,Not yet.,ยังเลย
 R10056-5_20_3,Then don't bother me. It takes a lot of effort to detect the place where the poisonous gas accumulates here.,เช่นนั้นอย่าเพิ่งรบกวนข้า ข้าต้องใช้ความพยายามอย่างมากในการเสาะหาว่ากลุ่มหมอกควันพิษรวมตัวกันที่ใด
-R10056-5_21_1,What do you need from me?
-R10056-5_21_2,"(I brought Jiang Ziyan, who is being hunted by the Jiuli Tribe, here...)"
-R10056-5_21_3,(Should I inform Miao Muli about this?)
+R10056-5_21_1,What do you need from me?,เจ้ามีธุระอะไรกับข้า?
+R10056-5_21_2,"(I brought Jiang Ziyan, who is being hunted by the Jiuli Tribe, here...)",(ข้าได้พาตัวเจียงจื่อเยี่ยน ซึ่งถูกไล่ล่าโดยชนเผ่าจิ่วลี่ มายังที่นี่…)
+R10056-5_21_3,(Should I inform Miao Muli about this?),(ควรบอกเมี้ยวมู่หลีถึงเรื่องนี้หรือไม่?)
 R10056-5_option3_1,Betray Jiang Ziyan!,เจ้าคนทรยศเจียงจื่อเยียน!
-R10056-5_option3_2,Protect Jiang Ziyan's secret!
-R10056-5_22_1,"Nothing, just checking if you're okay."
-R10056-5_22_2,Ha... Do people from the Central Plains like such complicated rituals?
-R10056-5_23_1,"Chief, have you been hunting a purple-robed Taoist nun?"
-R10056-5_23_2,Purple-robed Taoist nun? Oh-- I almost forgot about her if you didn't mention it.
-R10056-5_23_3,She stole my favorite Bug-attracting fragrance!
-R10056-5_23_4,"I've tricked her into the lizard den, she's now trapped."
-R10056-5_23_5,"What, she actually ran to the lizard den under my nose!"
-R10056-5_23_6,"Hmm... you did a good job, after I send someone to deal with her, I will give you a good reward!"
-R10056-5_23_7,Hehehe! Thank you!
-R10056-5_23_8,"What, {PlayerName}, you! You!"
+R10056-5_option3_2,Protect Jiang Ziyan's secret!,ปกปิดความลับของเจียงจื่อเยียน!
+R10056-5_22_1,"Nothing, just checking if you're okay.",ไม่มีอะไร แค่ผ่านมาเยี่ยมดูว่าท่านยังสบายดีหรือไม่
+R10056-5_22_2,Ha... Do people from the Central Plains like such complicated rituals?,ฮา... ชาวจงหยวนช่างพิถีพิถันกับเรื่องพวกนี้จริงๆ
+R10056-5_23_1,"Chief, have you been hunting a purple-robed Taoist nun?",หัวหน้าเผ่า ท่านกำลังไล่ตามนักพรตหญิงชุดม่วงอยู่ใช่หรือไม่?
+R10056-5_23_2,Purple-robed Taoist nun? Oh-- I almost forgot about her if you didn't mention it.,นักพรตหญิงชุดม่วงหรือ? โอ้— ข้าเกือบลืมนางไปแล้ว
+R10056-5_23_3,She stole my favorite Bug-attracting fragrance!,"นางขโมย ""ธูปเรียกแมลง"" ที่ข้าชอบมากที่สุดไป!"
+R10056-5_23_4,"I've tricked her into the lizard den, she's now trapped.",ตอนนี้นางถูกข้าหลอกไปที่ถ้ำตะกวดพิษแล้ว นางติดกับแล้ว
+R10056-5_23_5,"What, she actually ran to the lizard den under my nose!",อะไรนะ นางหนีรอดหูตาข้าไปถึงถ้ำตะกวดพิษได้รึ!
+R10056-5_23_6,"Hmm... you did a good job, after I send someone to deal with her, I will give you a good reward!",อืม… เจ้าทำได้ดีมาก รอข้าส่งคนไปจัดการนาง ข้าจะตอบแทนเจ้าอย่างงาม!
+R10056-5_23_7,Hehehe! Thank you!,ฮ่าฮ่าฮ่า! ขอบคุณท่านมาก!
+R10056-5_23_8,"What, {PlayerName}, you! You!",อะไรนะ {PlayerName} เจ้า! เจ้าทำเช่นนี้ได้อย่างไร!
 R10056-5_23_9,"Hehehe... Jiang Ziyan, I didn't expect you to walk into the trap... Hahaha!",หึหึหึ...เจียงจื่อเยียน ไม่คาดคิดเลยว่าเจ้าจะเดินเข้าสู่กับดักด้วยตนเอง...ฮ่าฮ่าฮ่า!
-R10056-5_23_10,"I have to thank {PlayerName} for delivering you to me, hahaha!"
-R10056-5_23_11,"This is what I should do, hehe!"
-R10056-5_23_12,"I didn't expect you to pretend to be a decent person, I was fooled and trusted the wrong person..."
-R10056-5_23_13,So my master was right...
-R10056-5_23_14,"Do you think I will surrender, huh..."
+R10056-5_23_10,"I have to thank {PlayerName} for delivering you to me, hahaha!",ข้าต้องขอบคุณ{PlayerName} ที่พานางมาส่งถึงที่ ฮ่าฮ่าฮ่า!
+R10056-5_23_11,"This is what I should do, hehe!",ข้าทำสิ่งที่ควรทำแล้ว ฮ่าฮ่า!
+R10056-5_23_12,"I didn't expect you to pretend to be a decent person, I was fooled and trusted the wrong person...",ไม่น่าเชื่อว่าเจ้าจะเสแสร้งได้แนบเนียนจนข้าหลงเชื่อคนผิด...
+R10056-5_23_13,So my master was right...,เห็นทีอาจารย์ข้าจะพูดถูก...
+R10056-5_23_14,"Do you think I will surrender, huh...",เจ้าคิดว่าข้าจะยอมแพ้ง่ายๆ อย่างนั้นหรือ ฮึ...
 R10056-5_24_1,Hahahaha! No one in this world can take my things and run away!
 R10056-5_24_2,Tonight the ViperPoisonous Scorpions have an extra meal!
 R10056-5_24_3,"Hey, I heard that Jiang Ziyan's master left some insights with you..."
