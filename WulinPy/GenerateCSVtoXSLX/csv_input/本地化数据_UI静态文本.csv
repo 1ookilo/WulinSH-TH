@@ -2078,7 +2078,7 @@ UIWorldMapManager_Map_1002_Viewport_Content_CityIcon_2080_boxName_txtName,Ye Fam
 UIWorldMapManager_Map_1002_Viewport_Content_CityIcon_2111_boxName_txtName,Black Robe Group,กลุ่มเสื้อคลุมดำ
 UIWorldMapManager_Map_1002_Viewport_Content_CityIcon_2121_boxName_txtName,Swallow Nest,รังนกนางแอ่น
 UIWorldMapManager_Map_1002_Viewport_Content_CityIcon_2131_boxName_txtName,Crime Investigation Bureau,สำนักสืบสวน
-UIWorldMapManager_Map_1002_Viewport_Content_CityIcon_2141_boxName_txtName,Chaiwang Pavilion,วังอ๋องไฉ
+UIWorldMapManager_Map_1002_Viewport_Content_CityIcon_2141_boxName_txtName,Chaiwang Pavilion,ตำหนักอ๋องไฉ
 UIWorldMapManager_Map_1002_Viewport_Content_CityIcon_2151_boxName_txtName,Linlang Temple,วัดหลินหลาง
 UIWorldMapManager_Map_1002_Viewport_Content_CityIcon_2161_boxName_txtName,Tomb Raider Guild,พรรคโจรปล้นสุสาน
 UIWorldMapManager_Map_1002_Viewport_Content_CityIcon_1600_boxName_txtName,Cross Hill,หุบเขาทางแยก
@@ -2130,7 +2130,7 @@ UIWorldMapManager_Map_1003_Viewport_Content_CityIcon_2080_boxName_txtName,Ye Fam
 UIWorldMapManager_Map_1003_Viewport_Content_CityIcon_2111_boxName_txtName,Black Robe Group,กลุ่มเสื้อคลุมดำ
 UIWorldMapManager_Map_1003_Viewport_Content_CityIcon_2121_boxName_txtName,Swallow Nest,รังนกนางแอ่น
 UIWorldMapManager_Map_1003_Viewport_Content_CityIcon_2131_boxName_txtName,Crime Investigation Bureau,สำนักสืบสวน
-UIWorldMapManager_Map_1003_Viewport_Content_CityIcon_2141_boxName_txtName,Chaiwang Pavilion,วังอ๋องไฉ
+UIWorldMapManager_Map_1003_Viewport_Content_CityIcon_2141_boxName_txtName,Chaiwang Pavilion,ตำหนักอ๋องไฉ
 UIWorldMapManager_Map_1003_Viewport_Content_CityIcon_2151_boxName_txtName,Linlang Temple,วัดหลินหลาง
 UIWorldMapManager_Map_1003_Viewport_Content_CityIcon_2161_boxName_txtName,Tomb Raider Guild,พรรคโจรปล้นสุสาน
 UIWorldMapManager_Map_1003_Viewport_Content_CityIcon_1600_boxName_txtName,Cross Hill,หุบเขาทางแยก
@@ -2914,8 +2914,8 @@ UIFiefMain_layer_boxBottom_boxLevel_boxLevelCondition_txtLevelConditionTip,Requi
 UIFiefSetting_boxLeftWork_Text(TMP),Bonus,คำอธิบายโบนัส
 UIFiefSetting_boxPage_Toggle_Text(TMP),Team,กลุ่ม
 UIFiefSetting_boxPage_Toggle(1)_Text(TMP),Hot Spring,บ่อน้ำพุร้อน
-UIFiefSetting_boxPage_Toggle(2)_Text(TMP),Workshop,โรงหลอม
-UIFiefSetting_boxPage_Toggle(3)_Text(TMP),Pharmacy,ห้องปรุงยา
+UIFiefSetting_boxPage_Toggle(2)_Text(TMP),Workshop,ห้องช่างฝีมือ
+UIFiefSetting_boxPage_Toggle(3)_Text(TMP),Pharmacy,ห้องอาหารยา
 UIFiefSetting_boxPage_Toggle(4)_Text(TMP),Back Mount,หลังเขา
 UIFiefSetting_boxPage_Toggle(5)_Text(TMP),Steles,แผ่นศิลาจารึก
 UIFiefSetting_boxPage_Toggle(6)_Text(TMP),Treasury,หอสมบัติ

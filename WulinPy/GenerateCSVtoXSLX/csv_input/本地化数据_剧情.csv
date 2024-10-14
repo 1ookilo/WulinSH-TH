@@ -353,7 +353,7 @@
 1004_3_6,"Sigh, let's leave it to fate...",เฮ้อ .... คงทำได้เพียงยอมรับชะตากรรมเท่านั้น.....
 1004_3_7,"The great hero is here, but he turns a blind eye, it's really speechless.",วีรบุรุษผู้ยิ่งใหญ่คนนั้นก็อยู่นี่แล้วไง  นี่พวกท่านไม่เห็นจริงๆรึ ข้าล่ะพูดไม่ออกจริงๆ 
 1004_3_8,"But to wipe out the Blue Wind Camp, we should plan for the long term solution...",แต่ถ้าคิดจะกวาดล้างค่ายวายุคราม เราก็ควรจะจัดการให้หมดสิ้นไปเลย...
-1004_3_9,"{PlayerSurName} brother, well done!",พี่{PlayerSurName} ทำได้ดีมาก!
+1004_3_9,"{PlayerSurName} brother, well done!",น้อง{PlayerSurName} ทำได้ดีมาก!
 1004_4_1,"Hmph! So useless, I thought he was a real hero.",ฮึ่ม! ไร้ประโยชน์ชะมัด นึกว่าหมอนั่นจะเป็นวีรบุรุษซะอีก
 1004_4_10,"Good intentions are not rewarded, it's really annoying.",เฮ้อ... ความตั้งใจดีกลับไม่ได้รับการตอบแทน ช่างน่าเศร้านัก..
 1004_4_2,"Old man, don't count on these amateurs to stand up for you! You'd better advise these villagers to leave here as soon as possible, so they don't bring trouble on themselves after a day!",ท่านผู้เฒ่า ข้าแนะนำให้ท่านอย่าคาดหวังว่าเจ้าแมวสามขาเหล่านี้จะช่วยท่าน! ท่านควรชักชวนชาวบ้านเหล่านี้ให้ย้ายออกไปจากที่นี่โดยเร็ว เพื่อไม่ให้เกิดปัญหาในวันเดียว!
@@ -1120,7 +1120,7 @@ end008_1,"Life is often unsatisfactory, please try again, hero.",ชีวิต
 end009_1,"Demoralized, only the poison can't be cured, please try again, hero.",ความปีติยินดีที่น่าเศร้า มีเพียงพิษเท่านั้นที่ไม่อาจรักษา โปรดพยายามอีกครั้ง ท่านจอมยุทธ
 end010_1,"Ten years Inseparable two vast, please try again, hero.",สิบปีก็แยกเราสองจากกันไม่ได้ โปรดพยายามอีกครั้ง ท่านจอมยุทธ
 end011_1,"The wind is bleak and the water is cold, the strong man will never return. Please try again, hero.",ลมหนาวเยือกเย็นและน้ำกลายเป็นน้ำแข็ง ผู้แข็งแกร่งจะไม่กลับมา โปรดพยายามอีกครั้ง ท่านจอมยุทธ
-end012_1,"Eighteen years later, he is a good man again, please try again, hero.",สิบแปดปีต่อมา เขากลับมาเป็นคนดีอีกครั้ง โปรดพยายามอีกครั้ง ท่านจอมยุทธ
+end012_1,"Eighteen years later, he is a good man again, please try again, hero.",สิบแปดปีผ่านไป ก็ยังเป็นวีรบุรุษคนเดิม ขอท่านจอมยุทธเริ่มต้นใหม่อีกครั้งเถอะ!
 end013_1,"You, who debuted at the peak, are bored before your journey in the martial arts world begins.",เจ้า ผู้ที่เปิดตัวที่จุดสูงสุด รู้สึกเบื่อหน่ายก่อนที่การเดินทางในยุทธภพจะเริ่มต้นขึ้น
 end013_2,"You have grown tired of the life here in the martial world, and started to yearn for poetry and the distance.",เจ้าเริ่มเบื่อหน่ายกับชีวิตที่นี่ในยุทธภพ และเริ่มโหยหาบทกวีและระยะห่าง
 end013_3,You firmly believe that you can find a pure land of your own.,เจ้าเชื่อมั่นอย่างยิ่งว่าเจ้าจะพบดินแดนอันบริสุทธิ์ของเจ้าเองได้
@@ -2180,8 +2180,8 @@ M20304-1_15_1,"I didn't expect you to have so much money on you, it's not in vai
 M20304-1_15_2,"I can't let those bastards on Shamen Island benefit.\nStupid pig, just go on your way!"
 M20304-1_16_1,"It's easy to do things with money, don't ever come in again,\nnext time you won't be so lucky."
 M20304-1_16_2,I don't know who will be so unlucky to take the blame for me.
-M20304-1_17_1,"The offender {PlayerName} has repeatedly committed violent acts in the street, and his crimes are too numerous to record!\nSuch an unforgivable person, immediately take him to the execution ground for execution, to serve as a warning to others!"
-M20304-1_18_1,"The criminal {PlayerName} has repeatedly committed violent acts in public, even audaciously assassinating the former prefect! \nSuch an unforgivable scoundrel must be immediately sent to the execution ground for beheading, as a warning to others!"
+M20304-1_17_1,"The offender {PlayerName} has repeatedly committed violent acts in the street, and his crimes are too numerous to record!\nSuch an unforgivable person, immediately take him to the execution ground for execution, to serve as a warning to others!","ผู้ต้องหา{PlayerName} กระทำความผิดหลายครั้งบนถนน สั่งสมความผิดจนไม่สามารถบันทึกได้หมด!\nผู้ร้ายที่มีความผิดร้ายแรงเช่นนี้ จะต้องถูกนำไปที่ลานประหารทันที เพื่อให้เป็นบทเรียนแก่ผู้ที่คิดจะทำผิด!"
+M20304-1_18_1,"The criminal {PlayerName} has repeatedly committed violent acts in public, even audaciously assassinating the former prefect! \nSuch an unforgivable scoundrel must be immediately sent to the execution ground for beheading, as a warning to others!","ผู้ต้องหา{PlayerName} กระทำความผิดหลายครั้งบนถนน และถึงขั้นกล้าหาญลอบสังหารผู้ว่าการคนก่อน!\nผู้ร้ายที่มีความผิดร้ายแรงเช่นนี้ จะต้องถูกนำไปที่ลานประหารทันที เพื่อเป็นบทเรียนแก่ผู้ที่คิดจะทำผิด!"
 M20304-1_19_1,Isn't this {PlayerName}? You've been reported!
 M20304-1_19_2,Can't you behave yourself!
 M20304-1_19_3,"Let's go, let's go!",ไปเลย ไปเลย
@@ -2203,7 +2203,7 @@ S1000-2_1_1,"Day after day, things are getting worse. What is there to look forw
 B1000-12_1_1,"Uh...uh...my whole body is incredibly itchy, and my inner energy seems to be out of control."
 B1000-12_1_2,"The toxicity of this <color=#c44b0e>Obedience Pill</color> is unexpectedly torturous.\nEven taking the antidote only temporarily restrains the toxicity. I need to find a way to eradicate it.","พิษของ<color=#c44b0e>โอสถพิษตามสั่งสะกดวิญญาณ</color>นี้ช่างร้ายกาจเกินคาด\nแม้จะกินยาถอนพิษแล้ว ก็แค่ระงับพิษไว้ชั่วคราวเท่านั้น ต้องหาวิธีถอนพิษให้หมดจึงจะดี"
 S1000-21_1_1,"I've been playing this game called ""Hero's Adventure"" for 15 days now. How should I rate it?"
-S1000-51_1_1,"{PlayerGivenName}, I've had a great time playing with you these past few days,\nIt's the day I promised to meet with the Sect Leader, I have to go back to <color=#c44b0e>Gu Immortal Sect</color>. You must come and play with me."
+S1000-51_1_1,"{PlayerGivenName}, I've had a great time playing with you these past few days,\nIt's the day I promised to meet with the Sect Leader, I have to go back to <color=#c44b0e>Gu Immortal Sect</color>. You must come and play with me.","พี่ชาย{PlayerGivenName} ในช่วงไม่กี่วันที่ผ่านมา ข้าสนุกมากที่ได้อยู่กับท่าน\nถึงเวลาที่ต้องกลับไป <color=#c44b0e>นิกายเซียนกู่</color> ตามสัญญาที่ให้ไว้กับพี่ประมุขแล้ว ท่านต้องมาหาข้า และเล่นกับข้าอีกนะ"
 S1000-51_2_1,"After spending so much time with this Xiao Ya, I've unknowingly improved my understanding of toxins."
 S1000-52_1_1,"Sigh, I missed the birthday banquet... I messed up my first time in the martial world, I can only brace myself and go back to report."
 S1000-52_1_2,"Thank you, {PlayerSurName} young hero, for your help these past few days. Yinping is deeply grateful.\nAll good things must come to an end. Yinping will say goodbye for now, see you again in the martial world."
@@ -2310,9 +2310,9 @@ M20321-2_13_9,"After Cai Youzhi left, Chai Wangye's face was cloudy and uncertai
 M20321-2_14_1,"Prince, there is poison in this food and drink!"
 M20321-2_16_1,What's going on? How could this happen.,เกิดอะไรขึ้น นี่มันเกิดขึ้นได้อย่างไร?
 M20321-2_16_10,"I didn't expect you to have a detoxifying elixir on you, I was careless!"
-M20321-2_16_2,How does the taste of my <color=#c44b0e>Seven-Day Heartbreak Poison</color> feel?
-M20321-2_16_3,You are from the <color=#c44b0e>Gu Immortal Sect</color>!
-M20321-2_16_4,"Yes, I am the current leader of the Gu Immortal Sect - Miao Muli."
+M20321-2_16_2,How does the taste of my <color=#c44b0e>Seven-Day Heartbreak Poison</color> feel?,รสชาติ <color=#c44b0e>ยาพิษเจ็ดวันใจสลาย</color> ของข้าเป็นอย่างไร?
+M20321-2_16_3,You are from the <color=#c44b0e>Gu Immortal Sect</color>!,เจ้าคือคนของ <color=#c44b0e>นิกายเซียนกู่</color>
+M20321-2_16_4,"Yes, I am the current leader of the Gu Immortal Sect - Miao Muli.",ใช่แล้ว ข้าคือประมุขคนปัจจุบันของ 'นิกายเซียนกู่' — เมี้ยวมู่หลี
 M20321-2_16_5,"I came here not for anything else, but to retrieve the sacred object that your people stole from my sect."
 M20321-2_16_6,"What sacred object, I don't understand what you're talking about."
 M20321-2_16_7,"I am very patient, but this Seven-Day Heartbreak Poison is not so patient.\nEvery moment that passes, your skills will be permanently weakened."
@@ -2328,10 +2328,10 @@ M20321-2_19_1,"So you guys are here!\nUncle Chai's heavy heart, might have a gre
 M20321-2_19_2,"No, I have to tell my father about what happened here as soon as possible.\nI'll take my leave first.","ไม่ ข้าต้องบอกพ่อเกี่ยวกับสิ่งที่เกิดขึ้นที่นี่โดยเร็วที่สุด\nข้าขอลาก่อน"
 M20321-2_2_1,"Miss Yinping, as a representative of General Ye to celebrate the birthday, you should take a seat.\nBut this young hero next to you might have to suffer a bit.","คุณหนูหยินผิง ในฐานะที่ท่านเป็นตัวแทนของท่านแม่ทัพเย่ที่มาร่วมในงานฉลองวันพระราชสมภพ ท่านสมควรนั่งลงก่อน\nแต่ท่านจอมยุทธน้อยที่อยู่ข้างๆท่านอาจจะต้องทนเมื่อยสักหน่อย"
 M20321-2_2_2,"It's okay, I'll just stand behind Miss Ye and temporarily act as her follower.",ไม่มีปัญหา ข้าจะไปยืนด้านหลังคุณหนูเย่แสร้งว่าเป็นผู้ติดตามของนางชั่วคราวก็ได้
-M20321-2_20_1,"Butterfly girl, the matter here has been resolved, where are you planning to go now? \nAre you going back to the Gu Immortal Sect alone?"
+M20321-2_20_1,"Butterfly girl, the matter here has been resolved, where are you planning to go now? \nAre you going back to the Gu Immortal Sect alone?","น้องไฉ่ตี้ ที่นี่ได้รับการแก้ไขเรียบร้อยแล้ว เจ้าตั้งใจจะไปที่ไหนต่อ?\nเจ้าจะกลับไป 'นิกายเซียนกู่' คนเดียวหรือ?"
 M20321-2_20_10,"It's called Thin Bamboo Stick, it's highly toxic and aggressive."
 M20321-2_20_11,"{PlayerGivenName} Brother, come here, touch them, \nthis way they will remember your scent and consider you as a friend."
-M20321-2_20_2,"The sect leader brother told me to return to the Gu Immortal Sect after the <color=#c44b0e>30th day</color>, \notherwise it would disrupt his plan."
+M20321-2_20_2,"The sect leader brother told me to return to the Gu Immortal Sect after the <color=#c44b0e>30th day</color>, \notherwise it would disrupt his plan.","พี่ประมุขบอกข้าให้กลับไปที่ 'นิกายเซียนกู่' หลัง<color=#c44b0e>วันที่ 30</color>\nไม่อย่างนั้นมันจะทำลายแผนการของเขานะ"
 M20321-2_20_3,"So I don't know where to go now. \nHowever, since I'm out, I want to encounter some interesting things~"
 M20321-2_20_4,"Anyway, I don't have a destination for now, I'm planning to travel around. \nWhy don't we travel together, we might encounter many interesting things."
 M20321-2_20_5,"{PlayerGivenName} Brother, you're so nice!"
@@ -2345,28 +2345,28 @@ M20321-2_23_1,"Sister, it seems that your <color=#c44b0e>Soft Bone Melting Powde
 M20321-2_23_10,"I hope the Chai Palace can give us a response today. \nOtherwise, I can't guarantee what I will do next.","ข้าหวังว่าตำหนักอ๋องไฉจะสามารถให้คำตอบกับเราได้ในวันนี้\nไม่อย่างนั้นข้าก็รับประกันไม่ได้ว่าข้าจะทำอะไรต่อไป"
 M20321-2_23_11,What explanation should I give?
 M20321-2_23_12,Return our sect's sacred object!
-M20321-2_23_13,"What does your Gu Immortal Sect's sacred object have to do with me? \nYou must have found the wrong person."
+M20321-2_23_13,"What does your Gu Immortal Sect's sacred object have to do with me? \nYou must have found the wrong person.","เรื่องของสมบัติศักดิ์สิทธิ์ของ ''นิกายเซียนกู่' ไม่เกี่ยวอะไรกับข้า?\nเจ้าตามหาผิดคนแล้วล่ะ"
 M20321-2_23_14,"I expected you to deny it, you should not know that the person who stole our sacred object slipped his mouth, \nthis matter is definitely related to you."
 M20321-2_23_15,"Today, the elite disciples of all major sects are gathered here, I would like to ask: \nDo you self-proclaimed righteous sects help the just or the relatives?!"
 M20321-2_23_16,"Why don't the prince explain to everyone, \nif these people are making trouble, I will be the first to drive them out!"
 M20321-2_23_17,"What is there to explain, \na good birthday banquet has been messed up, they are clearly here to make trouble."
 M20321-2_23_2,"I'm sorry, brother, it's Butterfly's fault,"
-M20321-2_23_3,You are from the <color=#c44b0e>Gu Immortal Sect</color>!
-M20321-2_23_4,"Yes, I am the current leader of the Gu Immortal Sect - Miao Muli."
+M20321-2_23_3,You are from the <color=#c44b0e>Gu Immortal Sect</color>!,เจ้าคือคนของ <color=#c44b0e>นิกายเซียนกู่</color>
+M20321-2_23_4,"Yes, I am the current leader of the Gu Immortal Sect - Miao Muli.",ใช่แล้ว ข้าคือประมุขคนปัจจุบันของ 'นิกายเซียนกู่' — เมี้ยวมู่หลี
 M20321-2_23_5,"We came here not for anything else, but to seek justice."
-M20321-2_23_6,You notorious Gu Immortal Sect also wants justice? Ridiculous!
+M20321-2_23_6,You notorious Gu Immortal Sect also wants justice? Ridiculous!,พวกเจ้านิกายเซียนกู่ มีชื่อเสียงในทางที่ไม่ดี ยังจะมาเรียกร้องความยุติธรรมอีกหรือ? ช่างน่าขันนัก!
 M20321-2_23_7,"As expected of Chai Wangye, you have so many ""righteous sects"" backing you up. \nDo you know how many people in Lin'an City rely on these forty wells in the city for their livelihood?","ตามที่คาดไว้ของอ๋องไฉ มี ""สำนักอันชอบธรรม"" คอยสนับสนุนมากมาย\nแล้วเจ้ารู้ไหมว่ามีคนในเมืองหลินอันกี่คนที่พึ่งพาบ่อน้ำสี่สิบแห่งในเมืองนี้เพื่อการดำรงชีวิต?"
-M20321-2_23_8,"You! It's indeed the style of evil sects, always threatening to poison the whole city. \nNo wonder the martial arts world in Central Plains deeply hates your Gu Immortal Sect!"
-M20321-2_23_9,"Our Gu Immortal Sect will never kill innocents, these people will just suffer from a serious illness. \nBut we will let them know that they are suffering for no reason because of you!"
+M20321-2_23_8,"You! It's indeed the style of evil sects, always threatening to poison the whole city. \nNo wonder the martial arts world in Central Plains deeply hates your Gu Immortal Sect!","เจ้า! ช่างเป็นคนใจโหดเหี้ยม ชอบทำเรื่องชั่วช้าเลวทราม แพร่พิษทำร้ายชาวเมืองอยู่เสมอ!\nไม่แปลกใจเลยที่ชาวยุทธ์จงหยวนจะเกลียดชังนิกายเซียนกู่ของพวกเจ้า!"
+M20321-2_23_9,"Our Gu Immortal Sect will never kill innocents, these people will just suffer from a serious illness. \nBut we will let them know that they are suffering for no reason because of you!","นิกายเซียนกู่ของเราไม่เคยฆ่าใครโดยไร้เหตุผล ชาวเมืองเหล่านี้เพียงแค่ป่วยไข้เท่านั้น\nแต่เราจะให้พวกเขารู้ว่า พวกเขาต้องทุกข์ทรมานทั้งหมดนี้มันเป็นเพราะเจ้า!"
 M20321-2_40_1,"Miao Muli, this prince won't give in easily, let me help you."
 M20321-2_40_2,Today is destined to be a glorious day for our Great Ant City.
-M20321-2_40_3,How did the Gu Immortal Sect collude with the people of Ying Island?
+M20321-2_40_3,How did the Gu Immortal Sect collude with the people of Ying Island?,นิกายเซียนกู่ไปคบค้ากับพวกคนจากเกาะหยิงได้อย่างไร?
 M20321-2_40_4,"{yell}Warriors of Great Ant City, emerge from the darkness!"
 M20321-2_40_5,"Great Ant City... Dragonfly challenging the elephant, truly omnipresent."
 M20321-2_40_6,"I've challenged countless sects, and I believe that the skills of Great Ant City far surpass those of the Central Plains martial arts!\nToday, the heirs of all major sects are here, it's a good opportunity to witness each other's skills!"
 M20321-2_24_1,There's no need to talk about benevolence and morality when dealing with barbarians.
 M20321-2_24_2,"Although our Melody House and Nine Factions Sect have always been at odds,\ntoday we are willing to join forces to meet these ""guests"" from Great Ant City."
-M20321-2_24_3,"The Gu Immortal Sect poisoned first, and Great Ant City harbored ill intentions afterwards,\nsuch actions against chivalry, our Taoist Sect will not stand by!"
+M20321-2_24_3,"The Gu Immortal Sect poisoned first, and Great Ant City harbored ill intentions afterwards,\nsuch actions against chivalry, our Taoist Sect will not stand by!","นิกายเซียนกู่เป็นฝ่ายลงมือวางยาพิษก่อน ส่วนเมืองแมลงปอก็แอบคิดร้ายอยู่เบื้องหลัง\nการกระทำที่ขัดต่อหลักคุณธรรมของยุทธภพเช่นนี้ พวกเราสำนักเต๋าจะไม่ยอมปล่อยไว้เฉยๆ!"
 M20321-2_24_4,"Amitabha, the disputes of the martial arts world have nothing to do with Shifa Temple, this old monk chooses to stay out of it.",อามิตาพุทธ ความขัดแย้งในยุทธภพไม่เกี่ยวข้องกับอารามฉีฟา อาตมาขอเฉยชากับเรื่องนี้
 M20321-2_25_1,"It's rare to see Martial Arts from outside the Central Plains, our Ye Family Battalion will also meet them."
 M20321-2_26_1,"Hehe, since you all can't wait, let's go together!"
@@ -2421,7 +2421,7 @@ M20321-2_36_9,"Hehehe...Taoist Sect, it's nothing more than that!"
 M20321-2_37_1,"A birthday banquet is full of troubles, and the host and guest have their own thoughts,\nSo the banquet ended hastily, and everyone excused themselves and ran away."
 M20321-2_38_1,"So you are here! The birthday banquet is over, and everyone else has left.\nI need to tell my father about what happened here as soon as possible, so I will run away first."
 M20321-2_39_1,"So many things happened in just one day.\nI don't know what was written in the letter that made Chai Wangye change his face and lose his composure."
-M20321-2_39_2,"I don't know why the Gu Immortal Church asked Chai Wangye for the holy object,\nWhy did you collude with the unknown Great Ant City..."
+M20321-2_39_2,"I don't know why the Gu Immortal Church asked Chai Wangye for the holy object,\nWhy did you collude with the unknown Great Ant City...","ไม่รู้ว่าทำไมนิกายเซียนกู่ถึงต้องการอะไรจากอ๋องไฉ จึงไปขอของศักดิ์สิทธิ์\nและทำไมถึงไปคบค้ากับเมืองแมลงปอที่ไม่รู้ว่ามีเบื้องหลังอย่างไร…"
 M20321-2_39_3,This level of martial arts incident is not something that a nameless pawn like me can intervene...
 M20321-2_39_4,"While the figures of the major sects have not yet dispersed,\nI should try to see if there is a chance to join these major sects."
 M20321-2_4_1,"As the guests take their seats, the birthday feast of Chai Wangye officially begins.\nChai Wangye and the visiting guests exchange pleasantries one by one, followed by the guests taking turns to present gifts and mutual flattery...\nThe whole process and style are no different from the birthday celebrations of wealthy households you've seen in the countryside.\nIf this is the world of martial arts, why did I leave my hometown to venture here?\nYou look at them, suddenly feeling a sense of disillusionment, until a shrill voice comes..."
@@ -2430,7 +2430,7 @@ M20321-2_4_11,"It seems that Chai Wangye, being a high-ranking official, has for
 M20321-2_4_12,"Young Master Cai, what are you doing here? I did not invite you."
 M20321-2_4_13,"It's rare to see <color=#c44b0e>all walks of life</color> gathered together, the cream of the martial arts world.\nChai Wangye, your birthday feast is indeed a rare grand event."
 M20321-2_4_14,"Cai Youzhi, our Ou Ye family and Confucius Temple are incompatible,\nare you here to seek death today?"
-M20321-2_4_15,Are you trying to settle our family's grudges here at Chai Wangye's birthday feast?
+M20321-2_4_15,Are you trying to settle our family's grudges here at Chai Wangye's birthday feast?,เรื่องความแค้นระหว่างเราสองตระกูล เจ้าคิดจะมาสะสางกันที่งานเลี้ยงวันเกิดของท่านอ๋องไฉงั้นหรือ?
 M20321-2_4_16,"Not to mention whether you can get what you want, just for spoiling Chai Wangye's mood,\neven if you are the direct disciple of the <color=#c44b0e>Sword Saint</color>, I'm afraid you can't afford the punishment.","ไม่ต้องพูดถึงว่าเจ้าจะได้สิ่งที่ต้องการหรือเปล่า แค่เพียงทำให้อารมณ์ของไชหวังเย่เสียไป\nแม้ว่าเจ้าจะเป็นลูกศิษย์โดยตรงของ <color=#c44b0e>เซียนกระบี่</color> ข้าก็เกรงว่าเจ้าจะไม่สามารถรับโทษได้"
 M20321-2_4_17,"One day, you Confucius Temple will pay the price!",สักวันหนึ่ง วัดขงจื้อของเจ้าจะต้องชดใช้!
 M20321-2_4_18,I'm ready anytime!,ข้าพร้อมเสมอ!
