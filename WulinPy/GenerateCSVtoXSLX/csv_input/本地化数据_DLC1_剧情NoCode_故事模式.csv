@@ -1810,7 +1810,7 @@ Story-part11_12_2,"I'll bid this 10000 Coin, our sect welcomes Master Shen's joi
 Story-part11_12_3,"{PlayerSurName} Sect Leader is generous, this Celestial Star Manual is a small gift for buying me."
 Story-part11_13_1,"Leader, the Day Mo Sect that invited you suddenly disappeared without a trace."
 Story-part11_13_2,"It's good that we didn't go, it was indeed a scam!"
-Story-part12_1_1,"Leader, Young Master Cai from the Confucius Temple has sent a letter, please take a look."
+Story-part12_1_1,"Leader, Young Master Cai from the Confucius Temple has sent a letter, please take a look.",ท่านเจ้าสำนัก คุณชายไช่จากวัดขงจื้อได้ส่งจดหมายมาขอรับ โปรดพิจารณาดู
 Story-part12_1_2,"So this young master wants to become the Confucius Temple's junior Dojokeeper, asking me to help him break the Four Sages Formation, saying there will be a big reward."
 Story-part12_1_3,"Although the relations between the two sects are good, considering Cai Dojokeeper's likes and dislikes, the leader should think it over."
 Story-part12_name,Four Sages Formation
@@ -1825,9 +1825,9 @@ Story-part12_3_1,"This formation is not to be underestimated, I don't expect to 
 Story-part12_3_2,"Sigh... Even if I fail to break the formation and can't become the junior Dojokeeper, when can I finally go outside the Confucius Temple..."
 Story-part12_4_1,"Successfully broke through the formation, Me can finally go to see the places outside the Confucius Temple!"
 Story-part12_4_2,"Thanks to the help of {PlayerSurName} brother this time, this Manual is a token of my gratitude. If there is any need for Cai in the future, I will not refuse!"
-Story-part12_5_1,"Leader, Young Master Cai has sent another letter, saying that the person who can break the formation has been found, so you don't need to bother anymore."
+Story-part12_5_1,"Leader, Young Master Cai has sent another letter, saying that the person who can break the formation has been found, so you don't need to bother anymore.",ท่านเจ้าสำนัก คุณชายไช่ได้ส่งจดหมายมาอีกแล้ว บอกว่าพบผู้ที่สามารถทำลายค่ายกลได้แล้ว ไม่ต้องรบกวนท่านอีก
 Story-part12_5_2,"That's good, so the leader doesn't have to make another trip."
-Story-part12_6_1,"Leader, the Confucius Temple has suddenly been destroyed, I'm afraid your plan to help Young Master Cai can't be realized..."
+Story-part12_6_1,"Leader, the Confucius Temple has suddenly been destroyed, I'm afraid your plan to help Young Master Cai can't be realized...",ท่านเจ้าสำนัก วัดขงจื้อถูกทำลายอย่างกระทันหัน ความคิดที่จะช่วยคุณชายไช่อาจไม่สามารถเป็นจริงได้แล้ว…
 Story-part12_6_2,"It's fate, I hope he can take care of himself."
 Story-part13_1_1,"Leader, the former Confucius Temple's young Dojokeeper Cai Youzhi is now wandering around the world, and I heard that he just found a job as a teacher."
 Story-part13_1_2,"Alas, the once great Confucius Temple is now scattered, send someone to check on him."
@@ -1843,12 +1843,12 @@ Story-part13_2_7,"To be a scholar is to seek the path of Honorable, those who su
 Story-part13_2_8,"Don't rush, this sentence is indeed difficult to read, follow Me slowly: those who succeed and reach are in..."
 Story-part13_2_9,"Teacher Cai, behind you... Ah! Teacher Cai is injured!"
 Story-part13_2_10,"Hmph... So it's the scum of the rivers and lakes who bears a grudge against Me Confucius Temple and is ready to take a chance, if you want to assassinate Cai, why do it in front of innocent children!"
-Story-part13_2_11,"Young Master Cai, let Me lend you a hand."
+Story-part13_2_11,"Young Master Cai, let Me lend you a hand.",คุณชายไช่ ข้าจะมาช่วยเจ้า
 Story-part13_3_1,Teacher Cai... Teacher Cai... don't die!
-Story-part13_3_2,"We were delayed too long by the Man in black, and it was too late to save Young Master Cai..."
+Story-part13_3_2,"We were delayed too long by the Man in black, and it was too late to save Young Master Cai...",พวกเราเสียเวลากับชายชุดดำมากเกินไป ไม่มีเวลาแม้แต่จะช่วยคุณชายไช่แล้ว…
 Story-part13_4_1,Cai is grateful for your great help...
-Story-part13_4_2,"Young Master Cai, don't be polite, this is what Me should do."
-Story-part13_4_3,"The Confucius Temple has been destroyed, if Young Master Cai has nowhere to go, why not come to our sect for a while."
+Story-part13_4_2,"Young Master Cai, don't be polite, this is what Me should do.",คุณชายไช่ไม่ต้องเกรงใจ นี่คือสิ่งที่พวกเราควรทำ
+Story-part13_4_3,"The Confucius Temple has been destroyed, if Young Master Cai has nowhere to go, why not come to our sect for a while.",วัดขงจื้อถูกทำลายแล้ว ถ้าคุณชายไช่ไม่มีที่ไป ก็ขอเชิญมาที่สำนักเราเถอะ
 Story-part13_4_4,"When the Confucius Temple was destroyed, Cai was secretly sent out by his father. Because he didn't understand the dangers of the world, he suffered a lot. Fortunately, when I was about to give up, I was found and taken in by the villagers here."
 Story-part13_4_5,"This village was suffering from a drought, but they were willing to lend a hand to Cai, a stranger."
 Story-part13_4_6,"Moved by their kindness, Cai decided to teach the children the classics of Confucianism as a way to repay their kindness."
@@ -1857,9 +1857,9 @@ Story-part13_op_1_1,Our sect has always put the people first (2000 food)
 Story-part13_op_1_2,"Our sect is short of food, I'm sorry we can't help"
 Story-part13_5_1,"Our sect has always put the people first, we will transport food from our sect to this place immediately, to ensure that the people here can survive this disaster."
 Story-part13_5_2,"Cai thanks you all, {MyFaction} really has the spirit of Honorable!"
-Story-part13_6_1,"Our sect is barely able to help ourselves, I hope Young Master Cai can understand."
+Story-part13_6_1,"Our sect is barely able to help ourselves, I hope Young Master Cai can understand.",สำนักเราก็อยู่ในสภาพที่ย่ำแย่ จนตัวเองยังประคองไม่อยู่ หวังว่าคุณชายไช่จะเข้าใจ
 Story-part13_6_2,"As long as the disaster in the village is not resolved, Cai cannot leave this place, let's talk about joining your sect later."
-Story-part13_7_1,"Young Master Cai was teaching in a private school to avoid the world, but he was still attacked by his enemies and his whereabouts are unknown."
+Story-part13_7_1,"Young Master Cai was teaching in a private school to avoid the world, but he was still attacked by his enemies and his whereabouts are unknown.",คุณชายไช่ไปสอนในสำนักเล็กๆ หลีกหนีจากโลกภายนอก ไม่คาดคิดว่าจะยังถูกศัตรูจู่โจม และไม่รู้ว่าตอนนี้ไปอยู่ที่ไหน…
 Story-part13_7_2,"It's a pity that I've wasted too much time, otherwise I could definitely recruit this Coin-like gentleman into my sect..."
 Story-part14_1_1,"Sect Leader, Master Hua Yan from Shifa Temple is visiting our sect."
 Story-part14_1_2,"I have long heard that {PlayerSurName} is a talented person, and it is indeed extraordinary to see you today."

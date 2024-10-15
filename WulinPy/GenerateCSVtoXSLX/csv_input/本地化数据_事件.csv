@@ -578,7 +578,7 @@ Z005_name,Linlang Academy,สถาบันหลินหลาง
 Z005_overview1,Go to <color=#c44b0e>Linlang Academy</color> to retrieve the Xuanyuan Sword,ไปที่ <color=#c44b0e>สถาบันหลินหลาง</color> เพื่อดึงกระบี่ซวนหยวน
 Z005_overview2,Pass the entrance exam of <color=#c44b0e>Linlang Academy</color>,ผ่านการสอบเข้าของ <color=#c44b0e>สถาบันหลินหลาง</color>
 Z005_option1,《Cowherd and Weaver Girl》《Butterfly Lovers》《Meng Jiangnu》《Legend of the White Snake》,《คนเลี้ยงวัวและสาวทอผ้า》《 คนรักผีเสื้อ 》《 ท่านหญิงเหมิงเจียง 》《 ตำนานงูขาว 》
-Z005_option2,《Romance of the Three Kingdoms》《Journey to the West》《A Dream in Red Mansions》《Water Margin Story》,"""สามก๊ก"", ""ไซอิ๋ว"", ""ความฝันในหอแดง"", ""ซ้องกั๋ง 108 วีรบุรุษแห่งเขาเหลียงซาน"""
+Z005_option2,《Romance of the Three Kingdoms》《Journey to the West》《A Dream in Red Mansions》《Water Margin Story》,《สามก๊ก》《ไซอิ๋ว》《ความฝันในหอแดง》《ซ้องกั๋ง 108 วีรบุรุษแห่งเขาเหลียงซาน》
 Z005_option3,《The Peony Pavilion》《The West Chamber》《The Peach Blossom Fan》《Longevity Palace》,《ศาลาดอกโบตั๋น》《หอการค้าตะวันตก》《พัดดอกท้อ》《พระราชวังอายุยืน》
 Z005_option4,《Journey to the East》《Journey to the West》《Journey to the South》《Journey to the North》,《การเดินทางไปทางทิศตะวันออก》《การเดินทางไปทางทิศตะวันตก》《การเดินทางไปทางทิศใต้》《การเดินทางไปทางทิศเหนือ》
 Z005_option5,"【Mulberry, Willow, Elm, Locust】","【มัลเบอร์รี่, วิลโลว์, เอล์ม, ตั๊กแตน】"
@@ -790,11 +790,11 @@ M20321-3_option1_4,"Just passing by, sorry to disturb.",แค่ผ่านม
 M20321-3_option2_dialog,Would you like to join the Rumor Platform?,เจ้าอยากเข้าร่วมกับ ลานลือเรื่อง หรือไม่
 M20321-3_option2_1,"I, {PlayerName}, am willing to join the Rumor Platform!",ข้า {PlayerName} ต้องการเข้า ลานลือเรื่อง!
 M20321-3_option2_2,"I'm not interested, excuse me!",ข้าไม่สนใจ ขอโทษนะ!
-M20316-1_option1_dialog,Do you know what kind of wine vessel can enhance the color of light-colored wine?,เจ้ารู้ไหมว่าถังสุราแบบไหน ที่สามารถเพิ่มสีของสุราจางๆให้เข้มได้
-M20316-1_option1_1,Gold cup,ถ้วยทองคำ
+M20316-1_option1_dialog,Do you know what kind of wine vessel can enhance the color of light-colored wine?,เจ้ารู้ไหมว่าจอกสุราแบบไหน ที่สามารถเพิ่มสีของสุราจางๆ ให้เข้มขึ้นได้
+M20316-1_option1_1,Gold cup,จอกทองคำ
 M20316-1_option1_2,Luminous cup,จอกเจิดจรัส
-M20316-1_option1_3,Porcelain cup,ถ้วยลายคราม
-M20316-1_option1_4,Jade cup,ถ้วยหยก
+M20316-1_option1_3,Porcelain cup,จอกลายคราม
+M20316-1_option1_4,Jade cup,จอกหยก
 M20316-2_option1_1,What are the top sects in the martial arts world?,สำนักชั้นนำของยุทธภพอะไรกัน?
 M20316-2_option1_2,"I have important things to do, I'll listen to your high theory another day.",ข้ามีเรื่องสําคัญที่ต้องทํา ไว้ภายภาคหน้าข้าจะฟังทฤษฎีขั้นสูงของเจ้า
 M20316-2_option2_1,Help Cai Youzhi.<color=#097a76>(Specific battle)</color>,ช่วยไช่โหยวจื่อ <color=#097a76>(เข้าสู่การต่อสู้)</color>
