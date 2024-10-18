@@ -1860,108 +1860,108 @@ Z005-1_3_1,"Your team already has quite a few people, it seems that it doesn't m
 Z005-2_1_1,"It seems that I have offended the old Village Head, he is hiding and dare not see me. It seems that I have no chance with the token left by Shen Mengxi.",ดูเหมือนว่าข้าจะทำให้หัวหน้าหมู่บ้านคนเก่าขุ่นเคือง เขาซ่อนตัวอยู่และไม่กล้าพบหน้าข้า ดูเหมือนว่าข้าจะไม่มีโชคที่จะได้สิ่งของที่เสินเมิ่งซีทิ้งไว้
 Z006_1_1,Who's there?,นั่นใคร?
 Z006_1_10,Do you suspect that the Xuanyuan sword was stolen by us from the Confucius Temple? This is simply absurd!,เจ้าสงสัยว่ากระบี่ซวนหยวนถูกขโมยไปโดยพวกเราจากวัดขงจื้อ? นี่มันเป็นเรื่องไร้สาระ!
-Z006_1_11,"I heard that you are best at talking about morality and righteousness, but you are despicable and dirty behind your back. Since you are the most suspicious, I have to search!"
-Z006_1_12,Presumptuous!,โอ้อวด!
-Z006_1_2,"Call your manager, I have a few words to ask him!",เรียกหัวหน้าของเจ้ามา ข้ามีคำถามจะถามเขาสองสามคำ!
-Z006_1_3,"The master is not in the hall today, and the eldest son <color=#c44b0e>Cai Youzhi</color> is acting on behalf of the master.",วันนี้เจ้าสำนักไม่อยู่ในห้องโถง และลูกชายคนโต <color=#c44b0e>ไช่โหยวจื่อ</color> ทำหน้าที่ในนามของเจ้าสำนัก
-Z006_1_4,I'll see him!
-Z006_1_5,"The screen is too dark, teleport the player to Cai Youzhi",ฉากมืดเกินไป โปรดเคลื่อนย้ายผู้เล่นไปที่ไช่โหยวจื่อ
-Z006_1_6,"Your master is hiding now, isn't he afraid that I will expose him and he is too ashamed to see people?"
-Z006_1_7,"What nonsense are you talking about, my father is busy all day, his whereabouts are uncertain. What does it have to do with you, a nameless pawn!"
+Z006_1_11,"I heard that you are best at talking about morality and righteousness, but you are despicable and dirty behind your back. Since you are the most suspicious, I have to search!",ข้าได้ยินมาว่าพวกเจ้าถนัดนักในเรื่องปากพูดถึงคุณธรรมความดี แต่เบื้องหลังกลับสกปรกต่ำช้า เมื่อเรื่องชั่วช้านี้เจ้าตกเป็นผู้ต้องสงสัยมากที่สุด เกรงว่าคงต้องค้นกันเสียแล้ว!
+Z006_1_12,Presumptuous!,หยาบคาย! เจ้ากล้าดีอย่างไร!
+Z006_1_2,"Call your manager, I have a few words to ask him!",ไปตามเจ้าสำนักของเจ้ามา ข้ามีคำถามจะถามเขาสักสองสามคำ!
+Z006_1_3,"The master is not in the hall today, and the eldest son <color=#c44b0e>Cai Youzhi</color> is acting on behalf of the master.",วันนี้เจ้าสำนักไม่อยู่ บุตรชายคนโตของเขา <color=#c44b0e>ไช่โหยวจื่อ</color> เป็นผู้ทำหน้าที่แทนเจ้าสำนัก
+Z006_1_4,I'll see him!,ข้าจะพบเขา!
+Z006_1_5,"The screen is too dark, teleport the player to Cai Youzhi",ฉากมืดลง เคลื่อนย้ายผู้เล่นไปที่ไช่โหยวจื่อ
+Z006_1_6,"Your master is hiding now, isn't he afraid that I will expose him and he is too ashamed to see people?",เจ้าสำนักของพวกเจ้าคงไปซ่อนตัวอยู่สินะ เกรงว่าข้าจะมาเปิดโปง จึงไม่มีหน้าออกมาพบผู้คนหรือ?
+Z006_1_7,"What nonsense are you talking about, my father is busy all day, his whereabouts are uncertain. What does it have to do with you, a nameless pawn!",เจ้าพูดจาเหลวไหลอะไร! บิดาของข้ามีงานให้ทำมากมาย ไม่มีเวลาว่าง เหมือนไอ้คนไร้ชื่อเสียงอย่างเจ้า!
 Z006_1_8,"I don't care about your grievances with the Linlang Academy, but the Sword Saint has spoken. Whoever finds the stolen Xuanyuan sword, the sword belongs to him!",ข้าไม่สนใจเกี่ยวกับความคับข้องใจของเจ้ากับสถาบันหลินหลาง แต่เซียนกระบี่ได้พูดแล้ว ใครก็ตามที่หากระบี่ซวนหยวนที่ถูกขโมยไปเจอ กระบี่นั้นย่อมเป็นของเขา!
 Z006_1_9,"So you are also innocent, but guilty of holding the jade.",ดังนั้นเจ้าก็ถือว่าเป็นคนบริสุทธิ์ แต่ผิดที่ครอบครองหยก
-Z006_2_1,"If you provoke our Confucius Temple, no matter which sect you are a disciple of, you will not be able to stand in the martial arts world!"
-Z006_2_2,I want to see what kind of three-headed and six-armed guy who has turned my Confucius Temple upside down!
-Z006_2_3,"A young kid who is still wet behind the ears, dare to come to my Confucius Temple to be presumptuous! Get out of here quickly, or don't blame me for being ruthless!"
-Z006_2_4,"Father, we must not let them go easily!"
-Z006_2_5,"You are not as skilled as others, shut up!"
-Z006_2_6,You still don't get out of here!,เจ้ายังไม่สามารถออกไปจากที่นี้ได้!
-Z006_3_1,"The enemy ahead is very powerful, do you want to continue?"
+Z006_2_1,"If you provoke our Confucius Temple, no matter which sect you are a disciple of, you will not be able to stand in the martial arts world!",เจ้ากล้ามากที่มาสร้างความวุ่นวายในวัดขงจื๊อของเรา ไม่ว่าเจ้าเป็นศิษย์ของสำนักไหนก็ตาม อย่าหวังว่าจะมีที่ยืนในยุทธภพนี้!
+Z006_2_2,I want to see what kind of three-headed and six-armed guy who has turned my Confucius Temple upside down!,ข้าอยากเห็นนัก ว่าผู้ที่กล้ามาก่อกวนวัดขงจื๊อของข้า มีร่างสามหัวหกแขนเช่นใดกัน!
+Z006_2_3,"A young kid who is still wet behind the ears, dare to come to my Confucius Temple to be presumptuous! Get out of here quickly, or don't blame me for being ruthless!",เจ้าเด็กปากไม่สิ้นกลิ่นน้ำนม กล้ามาหยามวัดขงจื๊อของข้า รีบไสหัวออกไปจากที่นี่ให้ไว มิฉะนั้นอย่าหาว่าข้าโหดเหี้ยมกับเจ้า!
+Z006_2_4,"Father, we must not let them go easily!",ท่านพ่อ ท่านต้องไม่ปล่อยพวกมันไปง่ายๆ นะขอรับ!
+Z006_2_5,"You are not as skilled as others, shut up!",เจ้าที่สู้ฝีมือข้าไม่ได้ หุบปากเสีย!
+Z006_2_6,You still don't get out of here!,เจ้ายังไม่รีบออกไปอีกหรือ!
+Z006_3_1,"The enemy ahead is very powerful, do you want to continue?",ศัตรูข้างหน้านั้นแข็งแกร่งมาก เจ้าต้องการจะไปต่อหรือไม่?
 Z007_1_1,Please stop. Are you the young hero {PlayerName}?,ช้าก่อน ท่านใช่จอมยุทธน้อย{PlayerName}หรือเปล่า?
 Z007_1_2,"I am, what can I do for you?",ข้าเอง มีอะไรให้ข้าช่วยเหลือหรือไม่?
 Z007_1_3,"Our young lady asked me to find you and give you a letter. As for what it is, you will know when you read the letter. I have military affairs to deal with, so I will run away first.",คุณหนูของเราวานให้ตามหาและมอบจดหมายนี้ให้แก่ท่าน เมื่อท่านเปิดอ่านดูก็จะรู้ว่าเป็นเรื่องอะไร ข้ามีธุระต้องไปทำต่อ ต้องขอตัวก่อน
-Z007_1_4,"(Read the letter carefully) It turns out that Ye Yinping is now in Bianzhou City, and it seems that she has encountered some trouble and wants me to help. Now there is no clue about the Xuanyuan sword, so I might as well go to <color=#c44b0e>Bianzhou City</color> to help Ye Yinping.",(อ่านจดหมายอย่างละเอียด) ปรากฎว่าตอนนี้เย่หยินผิง อยู่ที่เมืองเปี้ยนโจวและดูเหมือนว่านางจะประสบปัญหาบางอย่างและต้องการให้ข้าช่วย ตอนนี้ไม่มีเบาะแสเกี่ยวกับกระบี่ซวนหยวนดังนั้นข้าก็อาจไปที่ <color=#c44b0e>เมืองเปี้ยนโจว</color> เพื่อช่วยเย่หยินผิงเช่นกัน
+Z007_1_4,"(Read the letter carefully) It turns out that Ye Yinping is now in Bianzhou City, and it seems that she has encountered some trouble and wants me to help. Now there is no clue about the Xuanyuan sword, so I might as well go to <color=#c44b0e>Bianzhou City</color> to help Ye Yinping.",(อ่านจดหมายอย่างละเอียด) ปรากฎว่าตอนนี้เย่หยินผิง อยู่ที่เมืองเปี้ยนโจว และดูเหมือนว่านางจะประสบปัญหาบางอย่าง ต้องการให้ข้าช่วย ตอนนี้ไม่มีเบาะแสเกี่ยวกับกระบี่ซวนหยวน ดังนั้นข้าก็อาจไปที่ <color=#c44b0e>เมืองเปี้ยนโจว</color> เพื่อช่วยเย่หยินผิงเช่นกัน
 Z008_1_1,{PlayerName}You're finally here.,{PlayerName} ในที่สุดเจ้าก็มา
 Z008_1_2,Who are you? How do you know my name?,ท่านเป็นใคร และรู้จักข้าได้อย่างไร
 Z008_1_3,"This place is crowded, let's talk somewhere else. Let's meet at the <color=#c44b0e>Tea shop</color> in the city later.",ที่นี่ผู้คนพลุกพล่าน เราไปคุยกันที่อื่นเถอะ ไปพบกันที่<color=#c44b0e>ร้านน้ำชา</color>ในเมือง
-Z008_2_1,"The spirited young man revealed that he is Ye Yinping's brother - the young general of the Ye Family Battalion, Ye Yun. Ye Yinping was originally with him investigating a case of military intelligence theft. Ye Yinping suggested to invite you to assist in the investigation. However, due to the urgency, Ye Yinping went ahead to follow the clues, leaving Ye Yun here to meet you..."
-Z008_2_2,"My sister said, you are her first friend in the martial arts world, and you are righteous. With your help, this matter will surely go smoothly. But, I can't see what's so special about you?"
-Z008_2_3,"You certainly can't feel the special qualities like a wise mind and agile body; but at least the handsome face is in front of you, how can you not see it unless you're blind?"
-Z008_2_4,"I only feel that you're cheeky, where's the handsomeness! I really don't understand how a guy like you is worth waiting for so many days."
-Z008_2_5,"It seems you're not convinced by me, why not try my martial arts, let you know what's what!"
+Z008_2_1,"The spirited young man revealed that he is Ye Yinping's brother - the young general of the Ye Family Battalion, Ye Yun. Ye Yinping was originally with him investigating a case of military intelligence theft. Ye Yinping suggested to invite you to assist in the investigation. However, due to the urgency, Ye Yinping went ahead to follow the clues, leaving Ye Yun here to meet you...",หนุ่มผู้สง่างามบอกกับเจ้าว่า เขาคือพี่ชายแท้ๆ ของเย่หยินผิง—แม่ทัพหนุ่มแห่งกองพันตระกูลเย่ เย่หยุน เย่หยินผิงเดิมทีเดินทางร่วมกับเขาเพื่อติดตามคดีลับที่ข้อมูลทางทหารถูกขโมยไป เย่หยินผิงเสนอชื่อเจ้ามาเพื่อขอความช่วยเหลือในการคลี่คลายคดี แต่เนื่องจากเวลามีจำกัด เย่หยินผิงจึงตามเบาะแสไปก่อน ปล่อยให้เย่หยุนรอเจ้าอยู่ที่นี่...
+Z008_2_2,"My sister said, you are her first friend in the martial arts world, and you are righteous. With your help, this matter will surely go smoothly. But, I can't see what's so special about you?",น้องสาวของข้าบอกว่า เจ้าคือเพื่อนคนแรกของนางในยุทธภพ และเป็นคนมีน้ำใจ ครั้งนี้เมื่อมีเจ้าร่วมมือ งานคงสำเร็จง่ายขึ้นมาก แต่ข้าไม่เห็นเลยว่าเจ้ามีอะไรพิเศษนักหนา?
+Z008_2_3,"You certainly can't feel the special qualities like a wise mind and agile body; but at least the handsome face is in front of you, how can you not see it unless you're blind?",สมองอันชาญฉลาดและฝีมืออันแคล่วคล่อง ท่านคงสัมผัสไม่ได้แน่ๆ แต่ใบหน้าอันหล่อเหลาอย่างน้อยก็อยู่ตรงหน้าท่านแล้ว ท่านจะมองไม่เห็นได้อย่างไร ตาก็ไม่ได้บอดนี่?
+Z008_2_4,"I only feel that you're cheeky, where's the handsomeness! I really don't understand how a guy like you is worth waiting for so many days.",ข้ารู้สึกแต่ความเจ้าเล่ห์ น่ารำคาญ ไม่เห็นรูปงามอะไร! ข้าไม่เข้าใจเลยว่าทำไมคนเช่นเจ้า ถึงมีค่าพอให้ข้ารออยู่ที่นี่ตั้งหลายวัน
+Z008_2_5,"It seems you're not convinced by me, why not try my martial arts, let you know what's what!",ดูเหมือนท่านจะไม่พอใจข้าอย่างมาก เรามาแลกหมัดกันสักหน่อยดีไหม จะได้ให้ท่านรู้ว่าข้ามีดีอะไร!
 Z008_2_6,Ye Yun,เย่หยุน
 Z008_2_7,"Humph, I can't wait!",ฮึ่ม ข้ารอไม่ไหวแล้ว!
-Z008_3_1,"With your half-baked martial arts, my sister must be blind! It's a waste of time for me to be here with you, I'd better go find my sister!"
+Z008_3_1,"With your half-baked martial arts, my sister must be blind! It's a waste of time for me to be here with you, I'd better go find my sister!",แค่ฝีมือไก่กาอย่างเจ้าหรือ? น้องสาวข้าต้องตาบอดไปแล้วแน่ๆ ข้ารู้สึกเสียเวลาอยู่ที่นี่ รีบไปหานางดีกว่า!
 Z008_3_2,"Don't go, give me... another chance.",อย่าเพิ่งไป ให้โอกาสข้า...อีกสักครั้ง
-Z008_4_1,Do you still dare to underestimate me now?
-Z008_4_2,"It's been a long time since I had such a good fight! I, Ye Yun, rarely admire anyone, but you are truly admirable! With your help, this matter will be as easy as pie!"
-Z008_4_3,"I'll help you with this, but you have to promise to help me with something! I'm currently helping the Hidden Sword Manor to track down the masked sword thief, and I'll need your help then!","ข้าจะช่วยท่านในเรื่องนี้, แต่ท่านต้องรับปากว่าจะช่วยข้าในเรื่องนึง! ขณะนี้ข้ากำลังช่วยหมู่ตึกกระบี่ซ่อนตามหาโจรขโมยกระบี่สวมหน้ากาก และข้าต้องการให้ท่านช่วย!"
-Z008_4_4,"Deal! According to the intelligence, my sister has followed the clues and found the vicinity of <color=#c44b0e>Levitational Steel</color>. The person who stole the military intelligence might be hiding there.",ตกลง! ตามข่าวกรอง น้องสาวของข้าได้ติดตามเบาะแสและพบบริเวณใกล้เคียงของ <color=#c44b0e>เจดีย์เหล็ก</color> คนที่ขโมยข่าวกรองทางทหารอาจซ่อนตัวอยู่ที่นั่น
-Z008_4_5,"Levitational Steel? What is that, I've never heard of it.",เจดีย์เหล็ก? มันคืออะไร ข้าไม่เคยได้ยินเรื่องนี้มาก่อน
-Z008_4_6,"Levitational Steel is a brave and skilled army formed by the Yelv family, belonging to the Northern Yan court. They have been confronting my father's Ye Family Battalion for years, and their strength is evenly matched!",เจดีย์เหล็กเป็นกองทัพที่กล้าหาญและมีทักษะที่ก่อตั้งโดยตระกูลเยลซึ่งอยู่ในราชสำนักเยี่ยนเหนือ พวกเขาเผชิญหน้ากับกองพันตระกูลเย่ของพ่อข้ามาหลายสิบปีแล้ว และความแข็งแกร่งของพวกเขาก็ทัดเทียมกัน!
-Z008_4_7,"But the two countries have already agreed to no warfare, so the relations between the two sides are not so tense. Could it be..."
-Z008_4_8,"Damn, my sister is in danger! {PlayerName} Let's hurry to the Levitational Steel army!","ให้ตายเถอะ, น้องสาวของข้าตกอยู่ในอันตราย! {PlayerName} รีบไปที่กองทัพเจดีย์เหล็กกัน!"
+Z008_4_1,Do you still dare to underestimate me now?,คราวนี้ท่านยังกล้าดูถูกข้าอีกไหม?
+Z008_4_2,"It's been a long time since I had such a good fight! I, Ye Yun, rarely admire anyone, but you are truly admirable! With your help, this matter will be as easy as pie!",นานแล้วที่ข้าไม่ได้สู้สนุกขนาดนี้! ข้าเย่หยุนไม่ค่อยยอมใครง่ายๆ แต่ข้าขอยอมรับเจ้าอย่างจริงใจ งานครั้งนี้เมื่อมีเจ้าร่วมมือ ต้องสำเร็จลุล่วงแน่นอน!
+Z008_4_3,"I'll help you with this, but you have to promise to help me with something! I'm currently helping the Hidden Sword Manor to track down the masked sword thief, and I'll need your help then!",ข้าจะช่วยท่านทำเรื่องนี้สำเร็จ แต่ท่านก็ต้องช่วยข้าด้วยเรื่องหนึ่ง ข้ากำลังช่วยตามรอยคนร้ายสวมหน้ากาก ที่ขโมยกระบี่จากหมู่ตึกกระบี่ซ่อน และข้าต้องการให้พวกท่านช่วยเหลือ! 
+Z008_4_4,"Deal! According to the intelligence, my sister has followed the clues and found the vicinity of <color=#c44b0e>Levitational Steel</color>. The person who stole the military intelligence might be hiding there.",ตกลง! ตามข่าวกรอง น้องสาวของข้าได้ติดตามเบาะแสไปจนถึงใกล้ๆ <color=#c44b0e>เจดีย์เหล็ก</color> คนที่ขโมยข้อมูลทางทหารไป อาจซ่อนตัวอยู่ที่นั่น
+Z008_4_5,"Levitational Steel? What is that, I've never heard of it.",เจดีย์เหล็ก? มันคืออะไร ข้าไม่เคยได้ยินมาก่อนเลย
+Z008_4_6,"Levitational Steel is a brave and skilled army formed by the Yelv family, belonging to the Northern Yan court. They have been confronting my father's Ye Family Battalion for years, and their strength is evenly matched!",เจดีย์เหล็กคือกองทัพที่แข็งแกร่งของตระกูลเยลู่ สังกัดราชสำนักเยี่ยนเหนือ ต่อสู้กับกองทัพตระกูลเย่ของบิดาข้ามาอย่างยาวนาน ฝีมือทัดเทียมกัน!
+Z008_4_7,"But the two countries have already agreed to no warfare, so the relations between the two sides are not so tense. Could it be...",แต่ตอนนี้ทั้งสองฝ่ายไม่ได้มีสงครามแล้ว ความสัมพันธ์ระหว่างทั้งสองจึงไม่ตึงเครียดนัก หรือว่า...
+Z008_4_8,"Damn, my sister is in danger! {PlayerName} Let's hurry to the Levitational Steel army!",แย่แล้ว น้องสาวข้าอาจจะตกอยู่ในอันตราย! {PlayerName} เรารีบไปยังค่ายกองทัพเจดีย์เหล็กกันเถอะ!
 Z008_5_1,"There's no time to lose, I'll go with you!",ไม่มีเวลาแล้ว ข้าจะไปกับท่าน!
-Z008_6_1,"You already have many masters in your team, please go ahead, I'll catch up later!"
-Z009_1_1,"Who dares to trespass the military camp, kill without mercy!"
-Z009_2_1,"A bunch of small fries, overestimating yourselves!"
-Z009_2_2,"Brother, you're finally here! If you were any later, I'm afraid you wouldn't see me."
-Z009_2_3,"Don't worry, with your brother here, I'll make them pay tenfold for what they made you suffer today!"
-Z009_2_4,"And me too, a hundredfold return is not too much!"
-Z009_2_5,"Smooth talker, noisy!"
-Z009_3_1,"If it weren't for our marshal being away, how could we tolerate such insolence from you bunch of cats and dogs!"
-Z009_3_10,Clearly unmovable!
-Z009_3_11,"You three guys, a turtle, a dog and a rabbit, quite lively!"
-Z009_3_12,"Who are you, eavesdropping on our conversation?",เจ้าป็นใคร กำลังแอบฟังเรางั้นหรือ?
-Z009_3_13,"I'm just a lazy guy who can't fit in this world, don't pay too much attention to my identity. I'll just tell you one thing, that Yelv Wuzhu is now plotting a southern invasion at the <color=#c44b0e> Gusu Ruins </color> with others."
-Z009_3_14,"So the old turtle is hiding there, let's go clean him up!"
-Z009_3_15,"Our strength is probably not enough to deal with that guy, we need to find more powerful partners to join us. Besides, I still need to help the Sword Saint find the Xuanyuan Sword, I can't delay too long!",กำลังของเรายังคงไม่เพียงพอที่จะรับมือกับผู้ชายคนนั้นได้ เราจำเป็นต้องหาพันธมิตรที่แข็งแกร่งกว่านี้มาร่วมมือกับเรา นอกจากนี้ ข้ายังต้องช่วยเซียนกระบี่ตามหากระบี่ซวนหยวนข้าไม่สามารถรอนานเกินไปได้!
-Z009_3_16,"Coincidentally, the person who is plotting with Yelv Wuzhu in the Gusu Ruins is the one who stole the sword! Don't ask me how I know, I can only say that it's a secret that can't be revealed."
-Z009_3_17,Can you join our team and help stop their plot?
-Z009_3_2,"The two countries of Beiyan and Nanchu have been at peace for more than a decade, and you Agile are stirring up the smoke of war again, so you stole our military intelligence to strike first! Fortunately, my father discovered it in time and ordered me to investigate!"
-Z009_3_3,Your painstaking efforts are likely to be in vain!
-Z009_3_4,"Hehe, how do you know this isn't a trap set by my marshal?"
-Z009_3_5,"You few little Characters may have some skills, but under my mighty army, you are all nothing!"
-Z009_3_6,"It seems we've been tricked, let's quickly run away from here!"
-Z009_3_7,"Fade to black, teleport to the outside of the Levitational Steel camp on the world map","จางลงเป็นสีดำ, เทเลพอร์ตไปด้านนอกค่ายเจดีย์เหล็ก บนแผนที่โลก"
-Z009_3_8,"That was close, we almost got caught in the pot."
-Z009_3_9,That's called trapping the dog!
-Z009_4_1,"Although I am an outsider, I have to help with this matter that affects the peace of the world!"
-Z009_5_1,"I'm just here to deliver the message, if you really need my help, you can come find me at the <color=#c44b0e>Shifa Temple</color> another day."
-Z009_6_1,"There's no time to lose, since our ultimate goal is the same, let's go to the Gusu Ruins and catch the two villains in one net!"
-Z009_7_1,"Knowing that this might be a plot, I need to report back to my father as soon as possible. {PlayerName} If you need help, remember to come find me at the <color=#c44b0e>Ye Family Battalion</color>.",ในเมื่อทราบแล้วว่านี่เป็นแผนการ ข้าต้องรีบกลับไปรายงานท่านพ่อโดยเร็วที่สุด {PlayerName} หากเจ้าต้องการความช่วยเหลือก็ให้ไปพบข้าที่<color=#c44b0e>กองพันตระกูลเย่</color>
-Z010_1_1,"I didn't expect our plan to succeed so easily, thanks to your skillful stirring of the waters!"
-Z010_1_2,"Stop flattering me, hurry up and clean up the ""tail"", otherwise it will be hard to succeed!"
-Z010_1_3,"How did you get in, there are layers of Machinery guards at the door, how did they not stop you."
-Z010_1_4,"The protagonist walked over, getting closer"
-Z010_1_5,"Behind the protagonist, five companions are distributed in a ladder formation"
-Z010_1_6,Those Machinery people are like toys compared to the real Machinery people from the Linlang Academy.
-Z010_1_7,"But this also shows one thing, the owner of this place is probably really related to the Linlang Academy."
-Z010_1_8,"Humph, Fu Yaozi that old guy always refuses to pass on the Machinery secret technique to me, I can only keep causing him trouble to distract his attention, so I have a chance to probe into the phoenix feather unicorn horn of this secret technique."
-Z010_1_9,"It seems that to get powerful Machinery people, you still need to get the complete Machinery secret technique, otherwise these Machinery people are afraid of being useless on the battlefield."
-Z010_2_1,"So you plan to use these Machinery people on the battlefield, wouldn't that cause even more devastation!"
+Z008_6_1,"You already have many masters in your team, please go ahead, I'll catch up later!",ในทีมของเจ้าเต็มไปด้วยยอดฝีมืออยู่แล้ว จงรีบไปก่อน ข้าจะตามไปทีหลัง!
+Z009_1_1,"Who dares to trespass the military camp, kill without mercy!",ใครกันบุกเข้ามาในค่ายทหาร ฆ่าทิ้งเสียให้หมด!
+Z009_2_1,"A bunch of small fries, overestimating yourselves!",แค่พวกไร้ฝีมือ กล้าดียังไงมาขวางทางเรา!
+Z009_2_2,"Brother, you're finally here! If you were any later, I'm afraid you wouldn't see me.",ท่านพี่! ในที่สุดพวกท่านก็มาถึง ถ้าช้ากว่านี้อีกนิด เกรงว่าท่านคงไม่เจอน้องแล้ว!
+Z009_2_3,"Don't worry, with your brother here, I'll make them pay tenfold for what they made you suffer today!",ไม่ต้องห่วง เมื่อพี่มาถึงแล้ว วันนี้ใครที่ทำให้เจ้าบาดเจ็บ พี่จะให้มันชดใช้สิบเท่า!
+Z009_2_4,"And me too, a hundredfold return is not too much!",ข้าด้วย ร้อยเท่าก็ไม่เกินไป!
+Z009_2_5,"Smooth talker, noisy!",พวกพูดจาเหลวไหล!
+Z009_3_1,"If it weren't for our marshal being away, how could we tolerate such insolence from you bunch of cats and dogs!",ถ้าท่านแม่ทัพของข้าอยู่ที่นี่ จะปล่อยให้พวกเจ้าหมาแมวทำเหลวไหลอย่างนี้หรือ?
+Z009_3_10,Clearly unmovable!,ที่แท้เป็นกับดักล่อจับพวกเรานี่เอง!
+Z009_3_11,"You three guys, a turtle, a dog and a rabbit, quite lively!",พวกเจ้าแค่สามคน หนึ่งเต่า หนึ่งหมา และอีกหนึ่งกระต่าย ช่างสนุกดีจริงๆ!
+Z009_3_12,"Who are you, eavesdropping on our conversation?",เจ้าเป็นใคร มาแอบฟังพวกเรางั้นหรือ?
+Z009_3_13,"I'm just a lazy guy who can't fit in this world, don't pay too much attention to my identity. I'll just tell you one thing, that Yelv Wuzhu is now plotting a southern invasion at the <color=#c44b0e> Gusu Ruins </color> with others.",ข้าก็แค่คนที่ทั้งฟ้าและดินไม่ต้อนรับ ไม่ต้องใส่ใจข้านักหรอก แต่ข้าจะบอกพวกเจ้าเรื่องหนึ่ง เจ้า'เยลู่อู๋จู'นั้น ตอนนี้กำลังวางแผนบุกทางใต้ที่ <color=#c44b0e>ซากโบราณกูซู</color>
+Z009_3_14,"So the old turtle is hiding there, let's go clean him up!",ที่แท้เจ้าเฒ่าเต่านั่นซ่อนตัวอยู่ที่นั่น งั้นไปจัดการมันเลย!
+Z009_3_15,"Our strength is probably not enough to deal with that guy, we need to find more powerful partners to join us. Besides, I still need to help the Sword Saint find the Xuanyuan Sword, I can't delay too long!",กำลังของเรายังคงไม่เพียงพอที่จะรับมือกับชายผู้นั้นได้ เราจำเป็นต้องหาพันธมิตรที่แข็งแกร่งเพิ่ม นอกจากนี้ ข้ายังต้องช่วยเซียนกระบี่ตามหากระบี่ซวนหยวน ไม่ควรเสียเวลา!
+Z009_3_16,"Coincidentally, the person who is plotting with Yelv Wuzhu in the Gusu Ruins is the one who stole the sword! Don't ask me how I know, I can only say that it's a secret that can't be revealed.",บังเอิญจริงๆ คนที่สมคบคิดกับเยลู่อู๋จู นั้นคือคนที่ขโมยกระบี่ไป! อย่าถามข้าว่ารู้ได้อย่างไร ข้าคงพูดได้แค่ว่าฟ้าดินลิขิตไว้แล้ว
+Z009_3_17,Can you join our team and help stop their plot?,ท่านช่วยร่วมมือกับพวกเราเพื่อหยุดแผนชั่วนี้ได้ไหม?
+Z009_3_2,"The two countries of Beiyan and Nanchu have been at peace for more than a decade, and you Agile are stirring up the smoke of war again, so you stole our military intelligence to strike first! Fortunately, my father discovered it in time and ordered me to investigate!",แคว้นเป่ยเยี่ยนและหนานฉู่สงบสุขมาสิบกว่าปีแล้ว พวกเจ้าหาโอกาสจุดไฟสงครามใหม่ จึงขโมยข้อมูลลับทางทหารไป เพื่อชิงลงมือก่อน! โชคดีที่บิดาข้ารู้ทัน จึงสั่งให้ข้ามาสืบสวน!
+Z009_3_3,Your painstaking efforts are likely to be in vain!,แผนที่พวกเจ้าวางไว้ คงล่มไม่เป็นท่าแล้ว!
+Z009_3_4,"Hehe, how do you know this isn't a trap set by my marshal?",ฮี่ฮี่ พวกเจ้าคงไม่รู้เลยสินะว่า นี่อาจเป็นแผนซ้อนแผนของท่านแม่ทัพข้า!?
+Z009_3_5,"You few little Characters may have some skills, but under my mighty army, you are all nothing!",แม้พวกเจ้าจะมีฝีมือ แต่เมื่ออยู่ต่อหน้ากองทัพใหญ่เรา ก็แค่มดปลวกเท่านั้น!
+Z009_3_6,"It seems we've been tricked, let's quickly run away from here!",แย่แล้ว ดูเหมือนว่าพวกเราจะติดกับดักเข้าแล้ว รีบหนีออกจากที่นี่เถอะ!
+Z009_3_7,"Fade to black, teleport to the outside of the Levitational Steel camp on the world map",ฉากมืดลงเป็นสีดำ เคลื่อนย้ายไปยังด้านนอกค่ายเจดีย์เหล็ก บนแผนที่โลก
+Z009_3_8,"That was close, we almost got caught in the pot.",เกือบไปแล้ว เกือบโดนจับยัดหม้อไปแล้ว!
+Z009_3_9,That's called trapping the dog!,นั่นต้องเรียกว่า 'ปิดประตูตีหมา'!
+Z009_4_1,"Although I am an outsider, I have to help with this matter that affects the peace of the world!",แม้ข้าจะเป็นคนนอก แต่เรื่องนี้กระทบกับความสงบสุขของแผ่นดิน ข้าคงต้องยื่นมือเข้าช่วย!
+Z009_5_1,"I'm just here to deliver the message, if you really need my help, you can come find me at the <color=#c44b0e>Shifa Temple</color> another day.",ข้าแค่มาส่งข่าวเท่านั้น หากพวกเจ้าต้องการให้ข้าช่วย วันหลังเจ้ามาตามหาข้าที่ <color=#c44b0e>อารามฉีฟา</color> ได้เลย
+Z009_6_1,"There's no time to lose, since our ultimate goal is the same, let's go to the Gusu Ruins and catch the two villains in one net!",เรื่องนี้ไม่ควรชักช้า ในเมื่อพวกเรามีเป้าหมายเดียวกัน รีบไปยัง'ซากโบราณกูซู' จัดการสองคนชั่วนี้ให้จบสิ้นกันเถอะ!
+Z009_7_1,"Knowing that this might be a plot, I need to report back to my father as soon as possible. {PlayerName} If you need help, remember to come find me at the <color=#c44b0e>Ye Family Battalion</color>.",ในเมื่อเรารู้ว่ามันอาจเป็นกับดัก ข้าจำเป็นต้องกลับไปบอกท่านพ่อโดยเร็วที่สุด {PlayerName} หากเจ้าต้องการความช่วยเหลือก็ให้ไปพบข้าที่ <color=#c44b0e>กองพันตระกูลเย่</color>
+Z010_1_1,"I didn't expect our plan to succeed so easily, thanks to your skillful stirring of the waters!",ไม่คิดเลยว่าแผนของพวกเราจะสำเร็จได้ง่ายดายเช่นนี้ ทั้งหมดก็เพราะท่านเล่นแผนชิงปลาในน้ำได้แยบยลจริงๆ!
+Z010_1_2,"Stop flattering me, hurry up and clean up the ""tail"", otherwise it will be hard to succeed!",เลิกพูดจายกยอได้แล้ว รีบจัดการตัด‘หาง’ ที่เหลือให้เรียบร้อย มิเช่นนั้นเรื่องใหญ่จะไม่สำเร็จ!
+Z010_1_3,"How did you get in, there are layers of Machinery guards at the door, how did they not stop you.",พวกเจ้าเข้ามาได้อย่างไร? ที่หน้าประตูนั้น มียามหุ่นกลเฝ้าอยู่มากมาย ทำไมถึงปล่อยให้พวกเจ้าเข้ามาได้?
+Z010_1_4,"The protagonist walked over, getting closer",ตัวเอกเดินเข้าไปใกล้
+Z010_1_5,"Behind the protagonist, five companions are distributed in a ladder formation",พร้อมสหายทั้งห้ายืนเรียงกันเป็นค่ายกลบันไดอยู่ด้านหลัง
+Z010_1_6,Those Machinery people are like toys compared to the real Machinery people from the Linlang Academy.,หุ่นกลที่พวกเจ้ามี ก็เหมือนของเด็กเล่น เมื่อเทียบกับหุ่นกลของสถาบันหลินหลาง!
+Z010_1_7,"But this also shows one thing, the owner of this place is probably really related to the Linlang Academy.",อย่างไรก็ตาม นั่นก็แสดงให้เห็นว่า เจ้าของสถานที่นี้อาจเกี่ยวข้องกับสถาบันหลินหลางอยู่
+Z010_1_8,"Humph, Fu Yaozi that old guy always refuses to pass on the Machinery secret technique to me, I can only keep causing him trouble to distract his attention, so I have a chance to probe into the phoenix feather unicorn horn of this secret technique.",ฮึ! ฟู๋เหยาจื่อไม่ยอมถ่ายทอดเคล็ดวิชาลับหุ่นกลให้ข้า ข้าจึงต้องหาวิธีสร้างปัญหาให้เขา เพื่อหาทางค้นคว้าวิชาลับเหล่านั้นด้วยตัวเอง!
+Z010_1_9,"It seems that to get powerful Machinery people, you still need to get the complete Machinery secret technique, otherwise these Machinery people are afraid of being useless on the battlefield.",ดูท่าว่าหากต้องการหุ่นกลที่แข็งแกร่ง เจ้ายังคงต้องได้ครอบครองวิชาลับหุ่นกลฉบับสมบูรณ์ มิเช่นนั้น หุ่นกลเหล่านี้คงไม่มีประโยชน์ในสนามรบ
+Z010_2_1,"So you plan to use these Machinery people on the battlefield, wouldn't that cause even more devastation!",งั้นพวกเจ้าตั้งใจจะใช้หุ่นกลเหล่านี้ในสนามรบงั้นหรือ อย่างนี้ไม่ยิ่งทำให้คนบริสุทธิ์ต้องล้มตายมากขึ้นหรือ!
 Z010_2_2,Yelv Wuzhu,เยลู่อู๋จู
-Z010_2_3,"Shallow understanding! Using this Machinery not only can end the war as soon as possible, but in fact, it will greatly reduce the casualties of soldiers, of course, I am referring to the side that drives the Machinery."
-Z010_3_1,"So you plan to use these Machinery people on the battlefield, wouldn't that cause even more devastation!"
+Z010_2_3,"Shallow understanding! Using this Machinery not only can end the war as soon as possible, but in fact, it will greatly reduce the casualties of soldiers, of course, I am referring to the side that drives the Machinery.",ช่างไร้เดียงสา! การใช้หุ่นกลเหล่านี้จะช่วยให้สงครามจบลงเร็วขึ้น แถมยังลดการสูญเสียของทหารลงได้มาก แน่นอน ข้าหมายถึงฝ่ายที่ควบคุมหุ่นกลเท่านั้น
+Z010_3_1,"So you plan to use these Machinery people on the battlefield, wouldn't that cause even more devastation!",งั้นพวกเจ้าตั้งใจจะใช้หุ่นกลเหล่านี้ในสนามรบงั้นหรือ อย่างนี้ไม่ยิ่งทำให้คนบริสุทธิ์ต้องล้มตายมากขึ้นหรือ!
 Z010_3_2,Yelv Wuzhu,เยลู่อู๋จู
-Z010_3_3,"Shallow understanding! Using this Machinery not only can end the war as soon as possible, but in fact, it will greatly reduce the casualties of soldiers, of course, I am referring to the side that drives the Machinery."
-Z010_4_1,"In the end, it's just for selfish desires to start a war, it's really a heinous crime!"
-Z010_4_2,"Having such a secret technique hidden among the people is really a waste. Only in the hands of the strong can it play its greatest value. The plan on the Horse is about to be completed, and I will never allow you little devils to destroy it!"
-Z010_5_1,"In the end, it's just for selfish desires to start a war, it's really a heinous crime!"
-Z010_5_2,"Having such a secret technique hidden among the people is really a waste. Only in the hands of the strong can it play its greatest value. The plan on the Horse is about to be completed, and I will never allow you little devils to destroy it!"
-Z010_6_1,I didn't expect the Xuanyuan Sword to be hidden on this guy!,ข้าไม่ได้คาดคิดว่ากระบี่ซวนหยวนจะซ่อนอยู่กับชายคนนี้!
-Z010_6_2,"This old guy actually hid the Xuanyuan Sword on him behind my back, what the hell is he thinking!",ชายชราคนนี้ซ่อนกระบี่ซวนหยวนไว้กับเขาอยู่ข้างหลังข้าจริงๆ เขาคิดอะไรอยู่!
+Z010_3_3,"Shallow understanding! Using this Machinery not only can end the war as soon as possible, but in fact, it will greatly reduce the casualties of soldiers, of course, I am referring to the side that drives the Machinery.",ช่างไร้เดียงสา! การใช้หุ่นกลเหล่านี้จะช่วยให้สงครามจบลงเร็วขึ้น แถมยังลดการสูญเสียของทหารลงได้มาก แน่นอน ข้าหมายถึงฝ่ายที่ควบคุมหุ่นกลเท่านั้น
+Z010_4_1,"In the end, it's just for selfish desires to start a war, it's really a heinous crime!",ไม่ว่าอย่างไรพวกเจ้าก็จุดชนวนสงครามเพื่อผลประโยชน์ส่วนตัว นับว่าชั่วร้ายที่สุด!
+Z010_4_2,"Having such a secret technique hidden among the people is really a waste. Only in the hands of the strong can it play its greatest value. The plan on the Horse is about to be completed, and I will never allow you little devils to destroy it!",วิชาลับนี้หากถูกเก็บซ่อนไว้ก็ถือว่าเสียของอย่างยิ่ง ในมือของผู้แข็งแกร่งเท่านั้นจึงจะทำให้เกิดประโยชน์สูงสุด แผนของเรากำลังจะสำเร็จด้วยดี พวกเจ้าอย่าคิดมาทำลายมันได้!
+Z010_5_1,"In the end, it's just for selfish desires to start a war, it's really a heinous crime!",ไม่ว่าอย่างไรพวกเจ้าก็จุดชนวนสงครามเพื่อผลประโยชน์ส่วนตัว นับว่าชั่วร้ายที่สุด!
+Z010_5_2,"Having such a secret technique hidden among the people is really a waste. Only in the hands of the strong can it play its greatest value. The plan on the Horse is about to be completed, and I will never allow you little devils to destroy it!",วิชาลับนี้หากถูกเก็บซ่อนไว้ก็ถือว่าเสียของอย่างยิ่ง ในมือของผู้แข็งแกร่งเท่านั้นจึงจะทำให้เกิดประโยชน์สูงสุด แผนของเรากำลังจะสำเร็จด้วยดี พวกเจ้าอย่าคิดมาทำลายมันได้!
+Z010_6_1,I didn't expect the Xuanyuan Sword to be hidden on this guy!,ไม่คิดเลยว่ากระบี่ซวนหยวนจะถูกซ่อนอยู่กับเจ้านี่!
+Z010_6_2,"This old guy actually hid the Xuanyuan Sword on him behind my back, what the hell is he thinking!",ตาแก่คนนี้ซ่อนกระบี่ซวนหยวนไว้ไม่บอกข้า มีแผนการอะไรกันแน่!
 Z010_6_3,"Now that the plan has been destroyed, as long as the Blue Mountain is still there, there's no fear of running out of firewood!",ตอนนี้แผนถูกทำลายแล้ว ตราบใดที่ชีวิตยังไม่สิ้น ก็ยังมิหมดสิ้นซึ่งหนทาง วันนี้เราคงต้องถอยก่อน
-Z010_6_4,"This Xuanyuan Sword has not yet been sharpened, but it is extremely heavy and cannot be used as a Weapon at all. Now that the Xuanyuan Sword has been found, I can go to the Sword Villa to report to the Sword Saint.",กระบี่ซวนหยวนเล่มนี้ยังไม่ได้ลับให้คม แต่มันหนักมากและไม่สามารถใช้เป็นอาวุธได้เลย ตอนนี้เมื่อพบกระบี่ซวนหยวนแล้ว ข้าสามารถไปที่คฤหาสน์ภูเขากระบี่เพื่อรายงานต่อเซียนกระบี่ได้
+Z010_6_4,"This Xuanyuan Sword has not yet been sharpened, but it is extremely heavy and cannot be used as a Weapon at all. Now that the Xuanyuan Sword has been found, I can go to the Sword Villa to report to the Sword Saint.",แม้ว่ากระบี่ซวนหยวนเล่มนี้ยังไม่ได้ลับคม แต่มันก็หนักมากจนไม่อาจใช้งานได้ อย่างไรก็ตาม เมื่อกระบี่ซวนหยวนถูกค้นพบแล้ว ข้าคงต้องไปที่หมู่ตึกกระบี่เพื่อแจ้งต่อเซียนกระบี่
 Z010-1_1_1,"Sword Saint senior, the younger generation has fulfilled their mission and found the Xuanyuan Sword.",ผู้อาวุโสเซียนกระบี่ ผู้เยาว์ได้ทำภารกิจสำเร็จและพบกระบี่ซวนหยวนแล้ว
-Z010-1_1_2,"Good, good, you really didn't let me down!",ดี ดีมาก เข้าไม่ทำให้ข้าผิดหวังจริงๆ!
-Z010-1_2_1,"I will sharpen the Xuanyuan Sword for you, and from then on, you will be its first master!",ข้าจะลับคมกระบี่ซวนหยวนให้กับเจ้า และนับต่อจากนี้ไป เจ้าจะเป็นเจ้าของคนแรกของมัน!
-Z010-1_3_1,"With your Skill, you still can't control the Xuanyuan Sword. If I sharpen it for you, it will harm others and yourself. But I won't let you work in vain...",ด้วยทักษะของเจ้า เจ้ายังคงไม่สามารถควบคุมกระบี่ซวนหยวนได้ ถ้าข้าลับคมมันให้เจ้า มันจะเป็นอันตรายต่อผู้อื่นและตัวเจ้าเอง แต่ข้าจะไม่ปล่อยให้เจ้าทำงานโดยเปล่าประโยชน์...
-Z010-1_4_1,"This divine weapon of mine is also rare in the world, and it is named after the Xuanyuan Sword. I will give it to you today.",อาวุธศักดิ์สิทธิ์ของข้านี้ก็หายากในโลกเช่นกัน และตั้งชื่อตามกระบี่ซวนหยวน ข้าจะให้มันกับเจ้าวันนี้
-Z010-1_5_1,"This divine weapon of mine is also rare in the world, and it is named after the Xuanyuan Sword. I will give it to you today.",อาวุธศักดิ์สิทธิ์ของข้านี้ก็หายากในโลกเช่นกัน และตั้งชื่อตามกระบี่ซวนหยวน ข้าจะให้มันกับเจ้าวันนี้
-Z010-1_6_1,"This divine weapon of mine is also rare in the world, and it is named after the Xuanyuan Sword. I will give it to you today.",อาวุธศักดิ์สิทธิ์ของข้านี้ก็หายากในโลกเช่นกัน และตั้งชื่อตามกระบี่ซวนหยวน ข้าจะให้มันกับเจ้าวันนี้
-Z010-1_7_1,"I give you ten years of cultivation, so that you don't waste your trip!"
-Z011_1_1,"{PlayerName}, your father heard about your deeds and insisted on inviting you to the Ye Family Battalion for a chat.",{PlayerName} ท่านพ่อของข้าได้ยินเกี่ยวกับพฤติการณ์ของเจ้าและกำชับให้ข้ามาเชิญเจ้าไปยังกองพันตระกูลเย่เพื่อร่วมสนทนาด้วย
+Z010-1_1_2,"Good, good, you really didn't let me down!",ยอดเยี่ยม ยอดเยี่ยม! ไม่เสียแรงที่ข้ามอบหมายงานนี้ให้เจ้า!
+Z010-1_2_1,"I will sharpen the Xuanyuan Sword for you, and from then on, you will be its first master!",ข้าจะลับคมกระบี่ซวนหยวนให้กับเจ้า และต่อจากนี้ไป เจ้าจะเป็นเจ้าของคนแรกของมัน!
+Z010-1_3_1,"With your Skill, you still can't control the Xuanyuan Sword. If I sharpen it for you, it will harm others and yourself. But I won't let you work in vain...",แต่ด้วยฝีมือของเจ้าตอนนี้ ยังไม่สามารถควบคุมกระบี่ซวนหยวนได้ ถ้าข้าลับคมมันให้กับเจ้า มันอาจจะเป็นภัยต่อผู้อื่นและตัวเจ้าเอง อย่างไรก็ตาม ข้าจะไม่ปล่อยให้เจ้าต้องทำงานเหนื่อยเปล่า...
+Z010-1_4_1,"This divine weapon of mine is also rare in the world, and it is named after the Xuanyuan Sword. I will give it to you today.",ข้าจะมอบอาวุธศักดิ์สิทธิ์ชิ้นหนึ่งที่ข้าตั้งชื่อร่วมกับกระบี่ซวนหยวนให้เจ้า เป็นอาวุธที่หาได้ยากยิ่งในโลกนี้!
+Z010-1_5_1,"This divine weapon of mine is also rare in the world, and it is named after the Xuanyuan Sword. I will give it to you today.",ข้าจะมอบอาวุธศักดิ์สิทธิ์ชิ้นหนึ่งที่ข้าตั้งชื่อร่วมกับกระบี่ซวนหยวนให้เจ้า เป็นอาวุธที่หาได้ยากยิ่งในโลกนี้!
+Z010-1_6_1,"This divine weapon of mine is also rare in the world, and it is named after the Xuanyuan Sword. I will give it to you today.",ข้าจะมอบอาวุธศักดิ์สิทธิ์ชิ้นหนึ่งที่ข้าตั้งชื่อร่วมกับกระบี่ซวนหยวนให้เจ้า เป็นอาวุธที่หาได้ยากยิ่งในโลกนี้!
+Z010-1_7_1,"I give you ten years of cultivation, so that you don't waste your trip!",ข้าจะมอบพลังยุทธ์สิบปีให้เจ้า ถือเป็นรางวัลในการเดินทางครั้งนี้ เจ้าจะได้ไม่เสียเวลาเปล่า!
+Z011_1_1,"{PlayerName}, your father heard about your deeds and insisted on inviting you to the Ye Family Battalion for a chat.",{PlayerName} ท่านพ่อของข้าได้ยินเรื่องราวของเจ้าแล้ว และท่านอยากจะเชิญเจ้ามาพบที่กองพันตระกูลเย่ เพื่อร่วมสนทนาด้วย
 Z011_2_1,"How can I, a nameless soldier, bother General Ye to remember me, it is really an honor. I will go to the <color=#c44b0e>Ye Family Battalion</color> now.",นี่เป็นไปได้อย่างไร ข้าเป็นเพียงทหารไร้ชื่อกลับเป็นที่จดจำของท่านแม่ทัพเย่ รู้สึกเป็นเกียรติยิ่งนัก ข้าจะรีบไปยัง<color=#c44b0e>กองพันตระกูลเย่</color>ทันที
 Z012_1_1,"{PlayerName} Young hero, you are really promising! I heard from Ping'er that you made the greatest contribution to solving the case of military intelligence theft. Not only did you drive away Yelv Wuzhu, but you also solved a potential big trouble!"
 Z012_1_2,"I also have to thank the partners around me for their help, otherwise I don't have this Skill."
