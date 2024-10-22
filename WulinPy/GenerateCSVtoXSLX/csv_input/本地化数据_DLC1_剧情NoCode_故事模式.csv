@@ -1174,9 +1174,9 @@ sto-FCT-5-1_1_2,Just you? You're overestimating yourself!
 sto-FCT-5-1_name,Attack of the Crime Investigation Bureau
 sto-FCT-5-1_log,"Qiu Zhimo, with the Crime Investigation Bureau, is determined to arrest you for refusing to disband your sect!"
 sto-FCT-5-1_2_1,"Hmph... I, Qiu, have lost. Kill or cut, as you please."
-sto-FCT-5-1_2_2,"Someone, untie Constable Qiu."
+sto-FCT-5-1_2_2,"Someone, untie Constable Qiu.",ใครก็ได้ มาคลายพันธนาการให้มือปราบฉิว
 sto-FCT-5-1_2_3,"{PlayerName}, what kind of scheme are you planning..."
-sto-FCT-5-1_2_4,"Constable Qiu, think about it. If I really wanted to harm the people and oppose the government, would I be so restrained?"
+sto-FCT-5-1_2_4,"Constable Qiu, think about it. If I really wanted to harm the people and oppose the government, would I be so restrained?",มือปราบฉิว ท่านลองคิดดูให้ดี ถ้าข้าอยากจะก่อความวุ่นวายสู้รบกับทางการจริงๆ จะต้องทำตัวระมัดระวังขนาดนี้หรือ?
 sto-FCT-5-1_2_5,"Go back, I hope you can explain to Constable Luo properly. The mighty Crime Investigation Bureau should not become a sharp knife used by villains."
 sto-FCT-5-1_2_6,...We will meet again...
 sto-FCT-5-1_3_1,"Qiu Zhimo, with the Crime Investigation Bureau, stormed into your sect,\nand you were unprepared, your disciples had no power to resist\nA few rounds later\nyour sect was completely dissolved..."
