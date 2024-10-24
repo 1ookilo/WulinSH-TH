@@ -836,14 +836,14 @@ S1000-21_1_option1_1,"This game is so fun, I want to keep playing!",เกมน
 S1000-21_1_option1_2,Such a crappy game doesn't deserve me to play!,เกมเส็งเคร็งเช่นนี้ไม่คู่ควร ให้ข้าเล่น!
 M20332-1_option1_1,Of course interested.,แน่นอนข้าสนใจ
 M20332-1_option1_2,Not interested at all.,ข้าไม่สนใจเลย
-M20332-1_option2_dialog,Which of the above options do you plan to choose?,ตัวเลือกใดที่เจ้าต้องการเลือกข้างต้น?
+M20332-1_option2_dialog,Which of the above options do you plan to choose?,ในบรรดาตัวเลือกทั้งหมดนี้ เจ้าจะเลือกอันไหน?
 M20332-1_option2_1,Watch the new feature development screen.,รับชมหน้าจอการพัฒนาฟีเจอร์ใหม่ๆ
-M20332-1_option2_2,Trial version power gift pack.,ชุดของขวัญพลัง เวอร์ชันทดลอง
+M20332-1_option2_2,Trial version power gift pack.,ชุดของขวัญสุดพิเศษสำหรับเวอร์ชันทดลองเล่น
 battle_test_story_option1_1,Enter Battle 1,เข้าสู่การต่อสู้ 1
 battle_test_story_option1_2,Enter Battle 2,เข้าสู่การต่อสู้ 2
 battle_test_story_option1_3,Run away (can be triggered repeatedly),หนี(สามารถเรียกใช้ซ้ำได้)
 M1100-21_name,Go to Lin'an City to broaden your horizons.,ไปที่เมืองหลินอันเพื่อขยายขอบเขตอันไกลโพ้นของคุณ
 M1100-21_overview_1,Attend Chai Wangye's birthday banquet on the 10th day of Jianghu.,เข้าร่วมงานเฉลิมฉลองวันเกิดของอ๋องไฉ ในวันที่ 10 ของยุทธภพ
-M1100-23_name,Explore Time,เวลาสำรวจ
-M1100-23_overview,"The main content of the trial version comes to an end, exploring around may discover new content.",เนื้อหาหลักของเวอร์ชันทดลองสิ้นสุดลง สามารถสํารวจรอบพบกับเนื้อหาใหม่ได้
+M1100-23_name,Explore Time,ได้เวลาออกสำรวจ
+M1100-23_overview,"The main content of the trial version comes to an end, exploring around may discover new content.",เนื้อหาหลักของเวอร์ชันทดลองได้จบลงแล้ว การสำรวจในที่ต่างๆ อาจทำให้ท่านพบเนื้อหาใหม่ๆ ได้
 M1200-1_npcname,Official,เจ้าหน้าที่
