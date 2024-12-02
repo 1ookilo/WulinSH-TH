@@ -4149,59 +4149,59 @@ NpcHello_铁面人叶银瓶_Common,Do you need something from me?|What do you wa
 NpcHello_铁面人叶银瓶_Like,"Sigh, I also want to venture out into the world...|So boring...|As a sect leader, you must have a lot of interesting stories, right?"
 NpcHello_铁面人叶银瓶_Dislike,"I don't want to see you!|Be careful, I might stab you a few holes!|How dare you provoke me again?"
 NpcHello_铁面人叶银瓶_Hate,"I don't want to see you!|Be careful, I might stab you a few holes!|How dare you provoke me again?"
-NpcHello_铁面人叶鹏举_Common,"Do you need something from me, handsome?|I'm busy with military affairs. If you have something to say, please make it quick."
-NpcHello_铁面人叶鹏举_Like,"Both kids are not giving me peace of mind...|Brother Tie Mianren, is there something you need?"
-NpcHello_铁面人叶鹏举_Dislike,"This is a restricted area, how dare you enter?!|If you don't leave, I'll have to deal with you according to military law!|When did my camp become a place where anyone can tread?"
-NpcHello_铁面人叶鹏举_Hate,"This is a restricted area, how dare you enter?!|If you don't leave, I'll have to deal with you according to military law!|When did my camp become a place where anyone can tread?"
-NpcHello_铁面人长春子_SelfIntroHigh,Greetings from me.
-NpcHello_铁面人长春子_SelfIntroLow,Greetings from me.
-NpcHello_铁面人长春子_Common,Greetings from me.|I've met Tie Mianren before.
-NpcHello_铁面人长春子_Like,Greetings from me.|I've met Tie Mianren before.
-NpcHello_铁面人穆再兴_Like,"Big brother Tie Mianren, do you need anything?|Your voice... could it be..."
-NpcInteractive_纪茯苓_Like,What are you going to do to her?
-NpcInteractive_纪茯苓_Dislike,What are you going to do to her?
-NpcHello_纪茯苓_SelfIntroHigh,What do you need from me?
-NpcHello_纪茯苓_SelfIntroLow,What do you need from me?
-NpcHello_纪茯苓_Common,"I don't want to involve you...|What do you want with me, the ominous one?|What do you need from me?"
-NpcHello_纪茯苓_Like,"I don't want to involve you...|What do you want with me, the ominous one?|What do you need from me?"
-NpcHello_纪茯苓_Dislike,"I am an ominous person, please stay away from me...|Why do you bother me..."
-NpcHello_纪茯苓_Hate,"Since we have different paths, why come again?"
-NpcTrading_纪茯苓_Refuse,"I am an ominous person, and the things on me are also ominous..."
-NpcTrading_纪茯苓_Apply,If you don't mind bringing misfortune...|Let me see what you have.
-NpcTrading_纪茯苓_HasTrade,"I hope my things won't bring you misfortune...|Indeed, they are all rare items."
-NpcTrading_纪茯苓_NoTrade,"Indeed, you also think my things will bring disaster..."
-NpcTrading_纪茯苓_Default,"Please be careful, don't hurt yourself...|Is there anything you're interested in?"
-NpcTrading_纪茯苓_Disagree,Please add some more.
-NpcTrading_纪茯苓_Agree,That's fine then.
-NpcBattleReact_纪茯苓_JoinEnemy,Give me your life!
-NpcBattleReact_纪茯苓_JoinAllie,Don't you dare touch {PlayerName}'s hair!
+NpcHello_铁面人叶鹏举_Common,"Do you need something from me, handsome?|I'm busy with military affairs. If you have something to say, please make it quick.",ท่านผู้มีเกียรติ มีเรื่องอะไรหรือไม่? | ข้ามีภารกิจทางทหารมากมาย หากท่านมีเรื่องใด กรุณาแจ้งให้ทราบโดยเร็ว
+NpcHello_铁面人叶鹏举_Like,"Both kids are not giving me peace of mind...|Brother Tie Mianren, is there something you need?",ลูกทั้งสองคนไม่ได้ทำให้ข้าสบายใจเลย...... พี่ชายบุรุษหน้ากากเหล็ก มีเรื่องอะไรหรือเปล่า?
+NpcHello_铁面人叶鹏举_Dislike,"This is a restricted area, how dare you enter?!|If you don't leave, I'll have to deal with you according to military law!|When did my camp become a place where anyone can tread?","ค่ายทหารเป็นสถานที่หวงห้าม เจ้าเข้ามาได้อย่างไร?! หากเจ้ายังไม่ออกไป ข้าจะต้องลงโทษทางทหารกับเจ้า!\n ค่ายทหารของข้ากลายเป็นสถานที่ที่ใครๆก็สามารถเข้ามาได้อย่างอิสระไปตั้งแต่เมือไหร่?"
+NpcHello_铁面人叶鹏举_Hate,"This is a restricted area, how dare you enter?!|If you don't leave, I'll have to deal with you according to military law!|When did my camp become a place where anyone can tread?","ค่ายทหารเป็นสถานที่หวงห้าม เจ้าเข้ามาได้อย่างไร?! หากเจ้ายังไม่ออกไป ข้าจะต้องลงโทษทางทหารกับเจ้า!\n ค่ายทหารของข้ากลายเป็นสถานที่ที่ใครๆก็สามารถเข้ามาได้อย่างอิสระไปตั้งแต่เมือไหร่?"
+NpcHello_铁面人长春子_SelfIntroHigh,Greetings from me.,ข้าคารวะด้วยความเคารพ
+NpcHello_铁面人长春子_SelfIntroLow,Greetings from me.,ข้าคารวะด้วยความเคารพ
+NpcHello_铁面人长春子_Common,Greetings from me.|I've met Tie Mianren before.,ข้าคารวะด้วยความเคารพ |ข้าได้พบกับท่านอาวุโสบุรุษหน้ากากเหล็ก
+NpcHello_铁面人长春子_Like,Greetings from me.|I've met Tie Mianren before.,ข้าคารวะด้วยความเคารพ |ข้าได้พบกับท่านอาวุโสบุรุษหน้ากากเหล็ก
+NpcHello_铁面人穆再兴_Like,"Big brother Tie Mianren, do you need anything?|Your voice... could it be...",ท่านพี่บุรุษหน้ากากเหล็กมีเรื่องอะไรหรือไม่? | เสียงของท่าน.....หรือว่า.....
+NpcInteractive_纪茯苓_Like,What are you going to do to her?,เจ้าจะทำอะไรกับนาง?
+NpcInteractive_纪茯苓_Dislike,What are you going to do to her?,เจ้าจะทำอะไรกับนาง?
+NpcHello_纪茯苓_SelfIntroHigh,What do you need from me?,เจ้าต้องการอะไรจากข้า?
+NpcHello_纪茯苓_SelfIntroLow,What do you need from me?,เจ้าต้องการอะไรจากข้า?
+NpcHello_纪茯苓_Common,"I don't want to involve you...|What do you want with me, the ominous one?|What do you need from me?",ข้าไม่อยากให้เป็นภาระกับเจ้า..... |เจ้าต้องการอะไรกับคนที่มีลางร้ายอย่างข้า? |เจ้าต้องการอะไรจากข้า?
+NpcHello_纪茯苓_Like,"I don't want to involve you...|What do you want with me, the ominous one?|What do you need from me?",ข้าไม่อยากให้เป็นภาระกับเจ้า..... |เจ้าต้องการอะไรกับคนที่มีลางร้ายอย่างข้า? |เจ้าต้องการอะไรจากข้า?
+NpcHello_纪茯苓_Dislike,"I am an ominous person, please stay away from me...|Why do you bother me...",ข้าเป็นคนมีลางร้าย โปรดอยู่ห่างๆจากข้า...... |ทำไมเจ้าถึงยุ่งวุ่นวายกับข้านัก.....
+NpcHello_纪茯苓_Hate,"Since we have different paths, why come again?",ในเมื่อเจ้าและข้ามีเส้นทางที่แตกต่างกัน เหตุใดจึงต้องกลับมาพบกันอีก?
+NpcTrading_纪茯苓_Refuse,"I am an ominous person, and the things on me are also ominous...",ข้าเป็นคนมีลางร้าย และทุกสิ่งในร่างกายข้าก็เป็นลางร้ายเช่นกัน.....
+NpcTrading_纪茯苓_Apply,If you don't mind bringing misfortune...|Let me see what you have.,ถ้าเจ้าไม่ใส่ใจว่าจะนำมาซึ่งความโชคร้าย......|ก็แสดงให้ข้าดูสิว่าเจ้ามีอะไรบ้าง
+NpcTrading_纪茯苓_HasTrade,"I hope my things won't bring you misfortune...|Indeed, they are all rare items.",หวังว่าของของข้าเหล่านี้จะไม่นำความโชคร้ายมาให้เจ้า...... |ดูเหมือนว่าสิ่งของทั้งหมดนี้จะแปลกตาและหายากทั้งนั้นเลย
+NpcTrading_纪茯苓_NoTrade,"Indeed, you also think my things will bring disaster...",ดูเหมือนว่าเจ้าก็คิดเช่นเดียวกันว่าของของข้าเหล่านี้จะนำมาซึ่งความหายนะ......
+NpcTrading_纪茯苓_Default,"Please be careful, don't hurt yourself...|Is there anything you're interested in?",โปรดระวังให้ดี อย่าให้ตัวเองได้รับบาดเจ็บ...... |มีอะไรที่เจ้าสนใจหรือไม่?
+NpcTrading_纪茯苓_Disagree,Please add some more.,กรุณาเพิ่มอีก
+NpcTrading_纪茯苓_Agree,That's fine then.,นั่นเพียงพอแล้ว
+NpcBattleReact_纪茯苓_JoinEnemy,Give me your life!,เอาชีวิตเจ้ามา!
+NpcBattleReact_纪茯苓_JoinAllie,Don't you dare touch {PlayerName}'s hair!,อย่าได้คิดที่จะทำอะไรกับ {PlayerName} นะ!
 NpcBattleReact_纪茯苓_Involve,What are you doing?,เจ้ากำลังทำอะไร?
 NpcBattleReact_纪茯苓_HitObject,What are you doing?,เจ้ากำลังทำอะไร?
 NpcDriveAway_纪茯苓_XCKaiGan,……,……
-NpcDriveAway_纪茯苓_KaiGan,Give me your life!
-NpcJobTalk_第二人称_纪茯苓,You
-NpcJobTalk_第二人称敬语_纪茯苓,You
-NpcHello_人妻纪茯苓_Common,"Do you need anything, sir?|How have you been these past few days, sir?|You must be tired from your adventures in the Jianghu, sir."
-NpcHello_人妻纪茯苓_Like,"Do you need anything, sir?|How have you been these past few days, sir?|You must be tired from your adventures in the Jianghu, sir."
-NpcJobTalk_第二人称_人妻纪茯苓,Official
-NpcJobTalk_第二人称敬语_人妻纪茯苓,Official
-NpcTrading_人妻纪茯苓_Apply,"What would you like to see, sir?"
-NpcTrading_人妻纪茯苓_HasTrade,"I will take good care of the things you give me, sir."
-NpcTrading_人妻纪茯苓_NoTrade,"Do you have any other matters, sir?"
-NpcTrading_人妻纪茯苓_Default,"What would you like, sir?"
-NpcDuel_铁面人长春子_Refuse,"You and I are not familiar, please forgive my refusal."
-NpcDuel_铁面人长春子_Info,"Perfect, I also want to see your skills.\n(Winning can get {2} Jianghu Knowledge, {3} FameExperience.)"
-NpcDuel_铁面人长春子_NoStamina,"You look a bit weak, you should rest first."
-NpcDuel_铁面人洪小七_Refuse,I'm not familiar with you!
-NpcDuel_铁面人洪小七_Info,"Hehe, then please go easy on me, big brother Tie Mianren!\n(Winning can get {2} Jianghu Knowledge, {3} FameExperience.)"
-NpcDuel_铁面人洪小七_NoStamina,"Brother, you're exhausted now. How about we go for a big meal first?"
-NpcDuel_铁面人李乐雅_Refuse,"Sorry, Brother Tie Mianren, I prefer to play a tune."
-NpcDuel_铁面人李乐雅_Info,"Alright, I'm bored anyway!\n(Winning can get {2}Jianghu Knowledge, {3}FameExperience.)"
-NpcDuel_铁面人李乐雅_NoStamina,You'd better go and rest.
-NpcDuel_纪茯苓_Refuse,You will be unfortunate if you fight with me.
-NpcDuel_纪茯苓_Info,"Well, let's get started.\n(Victory can earn {2} Jianghu Knowledge, {3} Fame Experience.)"
-NpcDuel_纪茯苓_NoStamina,"You seem tired, why not rest first?"
-NpcChangeWeapon_纪茯苓_Refuse,Giving you this will bring you misfortune...
+NpcDriveAway_纪茯苓_KaiGan,Give me your life!,เอาชีวิตเจ้ามา!
+NpcJobTalk_第二人称_纪茯苓,You,เจ้า
+NpcJobTalk_第二人称敬语_纪茯苓,You,เจ้า
+NpcHello_人妻纪茯苓_Common,"Do you need anything, sir?|How have you been these past few days, sir?|You must be tired from your adventures in the Jianghu, sir.",นายท่านมีเรื่องอะไรหรือไม่? | นายท่านสบายดีหรือไม่ในช่วงนี้? | นายท่านเหนื่อยจากการเดินทางในโลกกว้างหรือไม่?
+NpcHello_人妻纪茯苓_Like,"Do you need anything, sir?|How have you been these past few days, sir?|You must be tired from your adventures in the Jianghu, sir.",นายท่านมีเรื่องอะไรหรือไม่? | นายท่านสบายดีหรือไม่ในช่วงนี้? | นายท่านเหนื่อยจากการเดินทางในโลกกว้างหรือไม่?
+NpcJobTalk_第二人称_人妻纪茯苓,Official,เจ้าหน้าที่
+NpcJobTalk_第二人称敬语_人妻纪茯苓,Official,เจ้าหน้าที่
+NpcTrading_人妻纪茯苓_Apply,"What would you like to see, sir?",เจ้าหน้าที่อยากเห็นอะไร?
+NpcTrading_人妻纪茯苓_HasTrade,"I will take good care of the things you give me, sir.",ข้าจะดูแลสิ่งที่ท่านให้ไว้อย่างดี
+NpcTrading_人妻纪茯苓_NoTrade,"Do you have any other matters, sir?",มีเรื่องอื่นอีกไหมนายท่าน?
+NpcTrading_人妻纪茯苓_Default,"What would you like, sir?",ท่านต้องการอะไรนายท่าน ?
+NpcDuel_铁面人长春子_Refuse,"You and I are not familiar, please forgive my refusal.",ข้าพึ่งรู้จักท่านไม่นาน โปรดอภัยที่ข้าต้องปฏิเสธ
+NpcDuel_铁面人长春子_Info,"Perfect, I also want to see your skills.\n(Winning can get {2} Jianghu Knowledge, {3} FameExperience.)","ยอดเยี่ยม ข้าก็อยากจะได้เห็นฝีมือของท่านเช่นกัน\n(ผู้ชนะจะได้รับ{2}ค่าประสบการณ์ยุทธ และ{3}ค่าประสบการณ์ชื่อเสียง)"
+NpcDuel_铁面人长春子_NoStamina,"You look a bit weak, you should rest first.",เจ้าดูเหมือนจะมีสุขภาพไม่ค่อยแข็งแรง เจ้าควรพักผ่อนและปรับสภาพร่างกายเสียก่อน
+NpcDuel_铁面人洪小七_Refuse,I'm not familiar with you!,ข้าไม่คุ้นเคยกับเจ้า!
+NpcDuel_铁面人洪小七_Info,"Hehe, then please go easy on me, big brother Tie Mianren!\n(Winning can get {2} Jianghu Knowledge, {3} FameExperience.)","ฮี่ฮี่ ข้าขอขอบคุณท่านบุรุษหน้ากากเหล็ก ขอให้ท่านเมตตาด้วย!\n(ผู้ชนะจะได้รับ {2} ค่าประสบการณ์ยุทธ, {3} ค่าประสบการณ์ชื่อเสียง)"
+NpcDuel_铁面人洪小七_NoStamina,"Brother, you're exhausted now. How about we go for a big meal first?",พี่ใหญ่ ท่านดูเหนื่อยมาก ทำไมพวกเราไม่ไปพักทานอาหารมื้อใหญ่กันก่อนล่ะ!
+NpcDuel_铁面人李乐雅_Refuse,"Sorry, Brother Tie Mianren, I prefer to play a tune.",ขออภัยขอรับ ข้ายังคงชอบที่จะเล่นดนตรีมากกว่า
+NpcDuel_铁面人李乐雅_Info,"Alright, I'm bored anyway!\n(Winning can get {2}Jianghu Knowledge, {3}FameExperience.)","เอาล่ะ ข้าก็เบื่ออยู่พอดี!\n(ผู้ชนะจะได้รับ {2} ค่าประสบการณ์ยุทธ, {3} ค่าประสบการณ์ชื่อเสียง)"
+NpcDuel_铁面人李乐雅_NoStamina,You'd better go and rest.,เจ้าควรไปพักผ่อนก่อน
+NpcDuel_纪茯苓_Refuse,You will be unfortunate if you fight with me.,เจ้าช่างอับโชคยิ่งนัก ที่ต้องมาต่อสู้กับข้า
+NpcDuel_纪茯苓_Info,"Well, let's get started.\n(Victory can earn {2} Jianghu Knowledge, {3} Fame Experience.)","ขออภัย ที่รบกวน\n(ผู้ชนะจะได้รับ {2} ค่าประสบการณ์ยุทธ, {3} ค่าประสบการณ์ชื่อเสียง)"
+NpcDuel_纪茯苓_NoStamina,"You seem tired, why not rest first?",เจ้าดูเหนื่อยล้า ไปพักผ่อนก่อนดีกว่า
+NpcChangeWeapon_纪茯苓_Refuse,Giving you this will bring you misfortune...,การให้สิ่งนี้แก่เจ้าจะนำมาซึ่งความโชคร้าย......
 NpcInteractive_恶乞丐_Like,What do you want to do to him?,เจ้าต้องการทำอะไรกับเขา?
 NpcInteractive_恶乞丐_Dislike,What do you want to do to him?,เจ้าต้องการทำอะไรกับเขา?
 NpcHello_恶乞丐_SelfIntroHigh,"What's up, kid?"
