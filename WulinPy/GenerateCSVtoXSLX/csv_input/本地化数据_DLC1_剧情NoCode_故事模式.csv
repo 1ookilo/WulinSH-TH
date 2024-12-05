@@ -321,29 +321,29 @@ sto-main-7_3_5,"My brothers here have bad tempers. If you stay any longer, I can
 sto-main-7_3_6,Disrespecting the government is disrespecting the court. We'll see!,การดูหมิ่นทางการก็เท่ากับการดูหมิ่นราชสำนัก เราจะได้เห็นดีกัน!
 sto-main-7_name1,Main Quest,ภารกิจหลัก
 sto-main-7_log1,Prepare for the government's retaliation.,เตรียมรับมือกับการลงโทษของทางการ!
-sto-CT-1_1_1,"Report to the leader, the Official Envoy who once visited our sect is visiting again."
-sto-CT-1_1_2,"Leader {PlayerSurName}, you have completed the expansion task so quickly, which is beyond my expectation."
-sto-CT-1_1_3,"This is a reward from the peak for your sect. Don't be polite with me, take it to develop your sect."
+sto-CT-1_1_1,"Report to the leader, the Official Envoy who once visited our sect is visiting again.","เรียนท่านเจ้าสำนัก, ทูตพิเศษจากทางการที่เคยมาเยือนสำนักของเรา บัดนี้ได้มาเยือนอีกครั้งแล้วขอรับ."
+sto-CT-1_1_2,"Leader {PlayerSurName}, you have completed the expansion task so quickly, which is beyond my expectation.","ท่านเจ้าสำนัก {PlayerSurName}, บรรลุภารกิจขยายอำนาจได้เร็วถึงเพียงนี้, นับว่าเหนือความคาดหมายของข้าโดยแท้."
+sto-CT-1_1_3,"This is a reward from the peak for your sect. Don't be polite with me, take it to develop your sect.",นี่คือรางวัลเล็กน้อยที่เบื้องบนมอบให้แก่สำนักของท่าน. อย่าได้มากพิธีไปและรับไว้เพื่อพัฒนาสำนักของท่านเถิด!
 sto-CT-1_1_4,"Thank you, Your Excellency!",ข้าพเจ้าขอขอบคุณท่านจากใจจริง!
-sto-CT-1_1_5,"The trained army is ready for a battle, and there is a task for you."
-sto-CT-1_1_6,"A prince is celebrating his birthday, and the Prefect is having trouble finding a gift that would please him. So, he plans to ask the Herbology Sect, who are experts in medicine, for a life-extending elixir. However, the leader of the Herbology Sect has been avoiding him, which has put the Prefect in a difficult position."
-sto-CT-1_2_1,"So, the Prefect wants our sect to find the Herbology Sect and somehow get this elixir? But the Herbology Sect is renowned for its medicine and swordsmanship, it won't be easy to just ask for it."
+sto-CT-1_1_5,"The trained army is ready for a battle, and there is a task for you.","เลี้ยงทหารพันวันเพื่อใช้รบทเพียงคราเดียว, และตอนนี้ก็มีภารกิจให้พวกเจ้าไปจัดการ!"
+sto-CT-1_1_6,"A prince is celebrating his birthday, and the Prefect is having trouble finding a gift that would please him. So, he plans to ask the Herbology Sect, who are experts in medicine, for a life-extending elixir. However, the leader of the Herbology Sect has been avoiding him, which has put the Prefect in a difficult position.","ท่านเจ้าเมืองมีเรื่องลำบากใจ, เพราะในวันคล้ายวันเกิดขององค์ชาย พระองค์ทรงไม่ชมชอบของขวัญธรรมดา. จึงตั้งใจจะขอยาอายุวัฒนะจากสำนักสมุนไพรซึ่งเชี่ยวชาญด้านการแพทย์, แต่ใครเล่าจะคาดคิดว่าเจ้าสำนักสมุนไพรกลับหลีกเลี่ยงไม่ยอมพบ, ทำให้เจ้าเมืองต้องตกที่นั่งลำบาก."
+sto-CT-1_2_1,"So, the Prefect wants our sect to find the Herbology Sect and somehow get this elixir? But the Herbology Sect is renowned for its medicine and swordsmanship, it won't be easy to just ask for it.","ความหมายของท่านคือต้องการให้สำนักของเราไปเยือนสำนักสมุนไพรแล้วหาวิธีนำยาอายุวัฒนะนี้มา? แต่สำนักสมุนไพรขึ้นชื่อทั้งด้านแพทย์และกระบี่, เกรงว่าการไปขอตรงๆ คงไม่ใช่เรื่องง่าย."
 sto-CT-1_2_2,"Don't send someone else to ask, it might be difficult. Your sect has a deep relationship with the Herbology Sect. As long as the head of {PlayerSurName} talks patiently with the head of Qu, it will be easy as pie."
 sto-CT-1_2_3,Then I'll give it a try.,งั้นข้าจะลองดูแล้วกัน 
 sto-CT-1_2_4,
-sto-CT-1_2_5,You carefully prepared a gift and went to visit Qu Wangyou of the Herbology Sect.
+sto-CT-1_2_5,You carefully prepared a gift and went to visit Qu Wangyou of the Herbology Sect.,เจ้าเตรียมของขวัญอย่างพิถีพิถันและกำลังมุ่งหน้าไปยังสำนักสมุนไพรเพื่อเยี่ยมเยียนฉวี่หวังโหย่ว!
 sto-CT-1_2_6,
 sto-CT-1_2_7,"Brother {PlayerSurName}, just say it. Based on the friendship between our two sects, as long as Wangyou can do it, she will definitely not refuse."
-sto-CT-1_2_8,"I have a friend in the officialdom, who specifically asked me to ask the head of Qu for a life-extending elixir."
-sto-CT-1_2_9,"Ah, since you are asking for medicine, Wangyou should agree. But there is something I must tell brother {PlayerSurName}."
+sto-CT-1_2_8,"I have a friend in the officialdom, who specifically asked me to ask the head of Qu for a life-extending elixir.","ข้าเป็นมิตรสหายกับขุนนางผู้หนึ่ง, เขาได้ขอร้องให้ข้ามาร้องขอเม็ดยาอายุวัฒนะจากเจ้าสำนักฉู่."
+sto-CT-1_2_9,"Ah, since you are asking for medicine, Wangyou should agree. But there is something I must tell brother {PlayerSurName}.","เฮ้อ..., ในเมื่อเป็นท่านมาขอยาด้วยตนเอง, หวังโหย่วก็คงต้องตอบรับตามสมควร. แต่ข้ามีคำพูดจากใจจริงที่อยากบอกแก่น้องชาย{PlayerSurName}เอาไว้."
 sto-CT-1_2_10,"We, the people of the rivers and lakes, have always been distinct from the officialdom. Those officials are used to hypocrisy, only caring about promotion and wealth. Brother {PlayerSurName}, you must be careful when dealing with them."
-sto-CT-1_2_11,Thank you! I will keep the head of Qu's advice in mind!
+sto-CT-1_2_11,Thank you! I will keep the head of Qu's advice in mind!,"ขอบคุณท่านเจ้าสำนักฉู่สำหรับคำชี้แนะ, ข้าจะจดจำเอาไว้!"
 sto-CT-1_2_12,"How did it go, did you get the elixir?"
 sto-CT-1_2_13,"Sir, here is the elixir, I have not failed you."
 sto-CT-1_2_14,"Good, good! The Prefect really didn't misjudge you. I will take the elixir back now. If the prince is pleased, there might be a great reward for your sect!"
 sto-CT-1_name,Main Quest,ภารกิจหลัก
 sto-CT-1_log,"Expand and develop the sect, waiting for further instructions from the officialdom."
-sto-CT-1_3_1,"So, the Prefect wants our sect to find the Herbology Sect and somehow get this elixir? But the Herbology Sect is renowned for its medicine and swordsmanship, it won't be easy to just ask for it."
+sto-CT-1_3_1,"So, the Prefect wants our sect to find the Herbology Sect and somehow get this elixir? But the Herbology Sect is renowned for its medicine and swordsmanship, it won't be easy to just ask for it.","ความหมายของท่านคือต้องการให้สำนักของเราไปเยือนสำนักสมุนไพรแล้วหาวิธีนำยาอายุวัฒนะนี้มา? แต่สำนักสมุนไพรขึ้นชื่อทั้งด้านแพทย์และกระบี่, เกรงว่าการไปขอตรงๆ คงไม่ใช่เรื่องง่าย."
 sto-CT-1_3_2,"Head {PlayerSurName}, although you work for the officialdom, you are still a person of the rivers and lakes. The law of the rivers and lakes is that the strong are respected. How could you not understand such a simple truth?"
 sto-CT-1_3_3,Does the sir mean to let my sect destroy the Herbology Sect?
 sto-CT-1_3_4,"Due to my official position, I can't say more. Head {PlayerSurName}, you should decide for yourself."
@@ -351,7 +351,7 @@ sto-CT-1_3_5,I give head {PlayerSurName} a deadline of <color=#a94e37>six months
 sto-CT-1_3_6,"Take people's money, help them solve problems... Destroying the Herbology Sect is beneficial to our sect, just do it."
 sto-CT-1_name1,Main Quest,ภารกิจหลัก
 sto-CT-1_log1,Destroy the Herbology Sect and get the elixir.
-sto-CT-1_4_1,"Perhaps the Medical expert's Pharmacist should never have been involved in the martial world's disputes\nOnce the bow is drawn, the arrow must be released, and innocence is inevitably tainted\nShe says a doctor can't heal themselves, you say the dead can't be revived\nEven if the heart disease is difficult to cure\nIt's best to bow down and submit\nThat's their only way to save themselves..."
+sto-CT-1_4_1,"Perhaps the Medical expert's Pharmacist should never have been involved in the martial world's disputes\nOnce the bow is drawn, the arrow must be released, and innocence is inevitably tainted\nShe says a doctor can't heal themselves, you say the dead can't be revived\nEven if the heart disease is difficult to cure\nIt's best to bow down and submit\nThat's their only way to save themselves...","บางทีหมอผู้มีใจเมตตาอาจไม่ควรเข้ามาพัวพันในความวุ่นวายของยุทธภพ\nเมื่อคันธนูถูกง้าง, ก็ย่อมต้องมีลูกศรถูกปล่อยออก, และความใสซื่อในจิตใจก็จะถูกปกคลุมด้วยธุลีแห่งโลกีย์ \nนางกล่าวว่า 'หมอย่อมรักษาตัวเองไม่ได้' ,  ส่วนเจ้าก็กล่าวว่า 'ผู้ตายไม่อาจฟื้นคืน'\nแม้โรคทางใจจะรักษาได้ยากเพียงใด\nการก้มหัวและยอมจำนนโดยดี\nก็อาจเป็นยาขนานเดียวที่ช่วยพวกเขาได้..."
 sto-CT-1_4_2,"I always thought that the whole rivers and lakes were sick, but it turns out it was us."
 sto-CT-1_4_3,"How did it go, did you get the elixir?"
 sto-CT-1_4_4,"Sir, here is the elixir, I have not failed you."
