@@ -1865,7 +1865,7 @@ Story-part14_1_1,"Sect Leader, Master Hua Yan from Shifa Temple is visiting our 
 Story-part14_1_2,"I have long heard that {PlayerSurName} is a talented person, and it is indeed extraordinary to see you today."
 Story-part14_1_3,I came here this time because I heard that a thief who stole the Scripture from our temple was spotted on your sect's territory. I would like to ask {PlayerSurName} to help me catch this thief.
 Story-part14_1_4,"Master, please rest for a while, I will send a Disciple to accompany you later."
-Story-part14_name,Vajra Exorcist
+Story-part14_name,Vajra Exorcist,วัชระปราบมาร
 Story-part14_log,Master Hua Yan came to ask for your help in tracking down the thief who stole the Scripture.
 Story-part14_2_1,The mansion ahead should be the last place where the thief appeared.
 Story-part14_2_2,"Amitabha, I really don't know how to repay your sect for your assistance."

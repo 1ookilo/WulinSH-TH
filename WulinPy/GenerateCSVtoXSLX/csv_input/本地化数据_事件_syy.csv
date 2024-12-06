@@ -1035,7 +1035,7 @@ School-2040-A_5_2,"My <color=#c44b0e>Flirting Star Sword</color> and Brother Qiu
 School-2040-A_5_3,"The Crime Investigation Bureau also has a unique skill called <color=#c44b0e>No Escape</color>, which can send a message to nearby constables during a fight, and someone will come to assist immediately.",นอกจากนี้แล้วสำนักสืบสวนก็ยังมีวิชาประจำสำนักที่ชื่อ <color=#c44b0e>แหฟ้าตาข่ายดิน</color> อีกด้วย ซึ่งจะเป็นการส่งสารไปยังเจ้าหน้าที่ที่อยู่ใกล้ๆการต่อสู้ ทำให้พวกเขาส่งคนมาช่วยเหลือในทันที 
 School-2040-A_5_4,"Learning these martial arts tricks in the Crime Investigation Bureau is secondary, the most important thing is to learn to be fair and selfless!",ในสำนักสืบสวน การฝึกสอนวรยุทธเป็นเพียงเรื่องรองเท่านั้น สิ่งที่สำคัญที่สุดคือการสอนให้รู้จักความยุติธรรม และเสียสละต่างหาก!
 School-2040-A_6_1,"From today, {PlayerName} you are a member of the Crime Investigation Bureau!\nI hope you won't tarnish the fame of the Crime Investigation Bureau and live up to my expectations of you.","นับจากวันนี้ {PlayerName} เจ้าคือสมาชิกของสำนักสืบสวน!\nข้าหวังว่าเจ้าจะไม่ทำให้สำนักสืบสวนเสียชื่อ และไม่ทำให้ข้าผิดหวังล่ะ"
-School-2040-A_6_2,I will definitely not let down the Chief Constable's expectations!,ข้าจะไม่ทำให้ท่านหัวหน้าผิดหวังอย่างแน่นอน!
+School-2040-A_6_2,I will definitely not let down the Chief Constable's expectations!,ข้าจะไม่ทำให้ท่านหัวหน้ามือปราบผิดหวังอย่างแน่นอน!
 School-2040-A_7_1,Come find me when you've thought it through.,คิดถี่ถ้วนแล้วก็มาหาข้าละกัน
 School-2040-A_8_1,Is there anything else you want to know?,มีอะไรที่เจ้าอยากรู้อีกไหม
 School-2040-A_9_1,"Since you decided to leave the Crime Investigation Bureau that day, there is no chance for you to return to the Crime Investigation Bureau in this life.",ตั้งแต่เจ้าตัดสินใจออกจากสำนักสืบสวนในวันนั้น ชีวิตนี้ก็ไม่มีโอกาสที่จะได้กลับเข้ามาในสำนักสืบสวนอีก
@@ -1047,7 +1047,7 @@ School-2040-B_1_5,"Thanks to your help, otherwise Qianxue would have completely 
 School-2040-B_1_6,I know my mistake and will accept the punishment!,ข้ารู้ความผิด และขอรับการลงโทษ!
 School-2040-B_1_7,"{PlayerName}, I am Luo Tianxiong, the Chief Constable of the Crime Investigation Bureau!\nYou have been kind to the Crime Investigation Bureau, and since you want to join the Crime Investigation Bureau, I will make an exception to accept you.","{PlayerName} ข้าคือลั่วเทียนเซี่ยง หัวหน้ามือปราบแห่งสำนักสืบสวน!\nเจ้าได้ช่วยเหลือสำนักสืบสวนเอาไว้ และในเมื่อเจ้าอยากเข้าร่วมกับสำนักสืบสวน ข้าจะยอมรับเจ้าเข้ามาเป็นกรณีพิเศษ"
 School-2040-B_1_8,"From today, {PlayerName} you are a member of the Crime Investigation Bureau!\nI hope you won't tarnish the fame of the Crime Investigation Bureau and live up to my expectations of you.","นับจากวันนี้ {PlayerName} เจ้าคือสมาชิกของสำนักสืบสวน!\nข้าหวังว่าเจ้าจะไม่ทำให้สำนักสืบสวนเสียชื่อ และไม่ทำให้ข้าผิดหวังล่ะ"
-School-2040-B_1_9,I will definitely not let down the Chief Constable's expectations!,ข้าจะไม่ทำให้ท่านหัวหน้าผิดหวังอย่างแน่นอน!
+School-2040-B_1_9,I will definitely not let down the Chief Constable's expectations!,ข้าจะไม่ทำให้ท่านหัวหน้ามือปราบผิดหวังอย่างแน่นอน!
 Skill-2040_name,Learn Crime Investigation Bureau Skills,เรียนรู้ทักษะของสำนักสืบสวน
 Skill-2040_talk,Skill,ทักษะ
 Skill-2040_log_1,Use <color=#c44b0e>Immobilize</color> to fix the Machinery person in place.,ใช้ <color=#c44b0e>จี้จุด</color> เพื่อหยุดมนุษย์กลไกให้อยู่กับที่
