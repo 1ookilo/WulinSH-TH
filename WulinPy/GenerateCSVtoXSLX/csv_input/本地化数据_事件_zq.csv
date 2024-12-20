@@ -585,7 +585,7 @@ Pick-1_option1_2,Give up for now.,ยอมแพ้ไปก่อน
 Pick-1_option1_3,"Start digging!<color=#097a76>(Iron shovel 1 piece, 1 shichen)</color>","เริ่มขุด! <color=#097a76>(พลั่วเหล็ก 1 ชิ้น, 1 ชั่วยาม)</color>"
 M20328-2_option1_1,"Since I'm here, how can I leave without a taste of your charm? <color=#c44b0e>(Start the fight)</color>",ไหนๆก็มาที่นี่แล้ว จะให้ข้าไปโดยไม่ได้ลิ้มรสความงามของเจ้าได้ยังไง <color=#c44b0e>(เริ่มการต่อสู้)</color>
 M20328-2_option1_2,"I apologize for my rudeness, I'll run away now.",ขออภัยที่หยาบคาย ขอตัวก่อน
-M20328-2_option2_dialog,"{PlayerSurName} Sir, I have prepared a question for you. Would you like to try it?",{PlayerSurName} ท่าน ข้าได้เตรียมคำถามให้ถ่านแล้ว อยากจะลองหรือไม่
+M20328-2_option2_dialog,"{PlayerSurName} Sir, I have prepared a question for you. Would you like to try it?",ท่าน {PlayerSurName} ข้าได้เตรียมคำถามให้ถ่านแล้ว อยากจะลองหรือไม่
 M20328-2_option2_1,"Please, Miss Qincheng, ask your question. <color=#097a76>(1 shichen)</color>",เชิญท่านถามคำถาม แม่นางชิงเฉิง <color=#097a76>(1 ชั่วยาม)</color>
 M20328-2_option2_2,I didn't come here to answer questions!,ข้าไม่ได้มาที่นี่เพื่อตอบคำถาม!
 R20025-5_name,Shadow outside the window,เงานอกหน้าต่าง

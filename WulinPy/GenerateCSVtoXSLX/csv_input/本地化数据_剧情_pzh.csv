@@ -1215,7 +1215,7 @@ R10049-10_0_1,"That must be the Dragon Tooth, I'd better come with Miss Liu to g
 R10049-10_1_1,"This is the Dragon Tooth, the symbol of the identity of the city lord of Great Ant City...",นี่คือดาบเขี้ยวมังกร สัญลักษณ์ประจำตัวของเจ้าเมืองแมลงปอ...
 R10049-10_1_2,"This knife and the responsibility it represents...\nIt's much heavier than I thought...","ดาบเล่มนี้และภาระที่ต้องแบกรับนั่น...\nมันมากกว่าที่ข้าคิดนัก..."
 R10049-10_1_3,"{PlayerSurName} Sir, let's go to Great Ant City together and put an end to all this.",ท่าน {PlayerSurName} เราไปยังเมืองแมลงปอด้วยกันเถอะ ปิดฉากเรื่องราวทั้งหมดนี้
-R10049-10_1_4,"There will surely be many elders who cannot accept the dissolution when the time comes. Considering the worst-case scenario... there might be a riot, but with {PlayerSurName} here, I have nothing to fear.",แน่นอนว่าคงจะมีผู้อาวุโสมากมายที่ไม่สามารถยอมรับการจำพรากได้ หากเวลานั้นมาถึง ในกรณีที่แย่ที่สุด...อาจจะเกิดความวุ่นวาย แต่ถ้า{PlayerSurName}อยู่ที่นี่ ข้าไม่มีอะไรต้องกลัวเลย
+R10049-10_1_4,"There will surely be many elders who cannot accept the dissolution when the time comes. Considering the worst-case scenario... there might be a riot, but with {PlayerSurName} here, I have nothing to fear.",แน่นอนว่าคงจะมีผู้อาวุโสมากมายที่ไม่สามารถยอมรับการจำพรากได้ หากเวลานั้นมาถึง ในกรณีที่แย่ที่สุด...อาจจะเกิดความวุ่นวาย แต่ถ้าท่าน {PlayerSurName}อยู่ที่นี่ ข้าไม่มีอะไรต้องกลัวเลย
 R10049-10_1_5,"Don't worry, I will definitely uphold your Feminism.",ไม่ต้องกลัว ข้าจะเป็นผู้พิทักษ์บุปผาให้แก่เจ้า
 R10049-10_1_6,"With you here, I am at ease. Uncle Xiao should have prepared the boat. If you want to go to Great Ant City, just give him a heads up.",หากเจ้าอยู่ที่นี่ ข้าก็วางใจ พี่เสี่ยวจะเตรียมเรือให้กับเจ้า ถ้าเจ้าต้องการไปเมืองแมลงปอ ก็บอกพี่ชายเสี่ยวได้เสมอ
 R10049-11_0_1,"To dissolve Great Ant City, Miss Liu, the city lord, needs to issue the order. Let's go together.",หากต้องการล้มล้างเมืองแมลงปอ ต้องให้คุณหนูหลิวซึ่งเป็นเจ้าเมืองเป็นผู้ออกคำสั่งเท่านั้น งั้นมากับคุณหนูหลิวเถอะ
@@ -4648,14 +4648,14 @@ DNJH-3_6_1,"No, Mr. Shi has been around three tables, many people mentioned this
 DNJH-3_7_1,Yes... No one mentioned the handprints on Mr. Shi's body and the hairpin on his waist.,ถูกต้อง… ไม่มีใครพูดถึงรอยมือที่ตัวใต้เท้าซีหรือปิ่นปักผมที่เอวของใต้เท้า
 DNJH-3_7_2,"There were so many people at the banquet, if they lied, they would be easily exposed.\nBut if no one is lying, there is no conclusion to these two things with the current clues.","ในงานเลี้ยงมีผู้คนมากมายอยู่ หากมีการกล่าวเท็จก็ย่อมถูกจับได้ง่าย\nแต่ถ้าไม่มีผู้ใดกล่าวเท็จ ในตอนนี้ตามเบาะแสที่มีอยู่ สองเรื่องนี้ยังคงไม่สามารถสรุปได้"
 DNJH-3_7_3,Could it be... there was such a person at the banquet that no one had ever seen?,หรือจะหมายความว่า… ในงานเลี้ยงนี้มีผู้ที่ไม่มีใครเคยเห็นมาก่อนอยู่ด้วย?
-DNJH-3_option4_1,Yes.,เจ้าค่ะ
+DNJH-3_option4_1,Yes.,ถูกต้อง
 DNJH-3_option4_2,No.,ไม่ถูกต้อง
 DNJH-3_8_1,"If there is no such person, the current questions cannot be answered.",หากไม่มีบุคคลเช่นนั้นอยู่จริง คำถามทั้งหมดก็จะไม่มีทางได้รับคำตอบ
 DNJH-3_8_2,"Although there is no evidence, I can only assume that there is such a person for now.",ถึงแม้ข้าจะหาหลักฐานไม่ได้ แต่ก็เชื่อว่าต้องมีผู้ใดบางคนอยู่เบื้องหลังเรื่องนี้
 DNJH-3_8_3,"If there is such a person, how does he hide himself?",หากมีผู้อยู่เบื้องหลังเรื่องนี้ เขาจะพรางตัวได้อย่างไร?
 DNJH-3_option5_1,By using excellent Qinggong!,ด้วยวิชาตัวเบาอันยอดเยี่ยม!
 DNJH-3_option5_2,With the help of divine makeup skills.,ด้วยวิชาแปลงโฉมอันลึกล้ำ
-DNJH-3_option5_3,No need to hide.,เปิดเผยตัวตนออกมาเถิด
+DNJH-3_option5_3,No need to hide.,ไม่จำเป็นต้องซ่อนตัว
 DNJH-3_9_1,"No... Even with high Qinggong, it's probably impossible to hide under the public eye.",ไม่ถูกต้อง… แม้จะมีวิขาตัวเบายอดเยี่ยมเพียงใด การซ่อนตัวให้ไม่ถูกมองเห็นท่ามกลางสายตาของผู้คนจำนวนมากคงเป็นเรื่องยาก
 DNJH-3_10_1,"No, even if others don't know, Liu Fuming who personally invited should be able to see someone is impersonating.",ไม่ถูกต้อง ถึงแม้คนอื่นอาจไม่รู้แต่ หลิว ฝูหมิง ผู้ซึ่งเป็นผู้เทียบเชิญเอง ย่อมต้องมองออกว่ามีคนปลอมตัวมา
 DNJH-3_11_1,"How could I forget, at the banquet, there are indeed people other than the guests, they are numerous and omnipresent...",ข้าลืมไปได้อย่างไร ในงานเลี้ยงนั้น นอกจากแขกแล้ว ยังมีผู้คนอีกจำนวนมากที่อยู่ที่นี้ พวกนางมีจำนวนไม่น้อยและกระจัดกระจายอยู่ทุกหนทุกแห่ง…
