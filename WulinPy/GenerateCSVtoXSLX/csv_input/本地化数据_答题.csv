@@ -501,51 +501,51 @@
 乡试10_题目2,"""What is the next line of 'Spring wind blows for ten miles on Yangzhou road'?""",What is the next line of 'Spring wind blows for ten miles on Yangzhou road'? (ตอบข้อ 3)
 乡试10_题目3,"""What is the next line of 'I urge you not to cherish your golden robe'?""",What is the next line of 'I urge you not to cherish your golden robe'? (ตอบข้อ 2)
 乡试1_题目1_答案1,Apply the new red begonia.,แต่งแต้มสีแดงสดใหม่ บนดอกไห่ถางอันงดงาม
-乡试1_题目1_答案2,Dress up on the jade tower in spring.
-乡试1_题目1_答案3,"The spring breeze brushes the railing, the dew is thick."
-乡试1_题目1_答案4,Light or heavy makeup is always suitable.
-乡试1_题目2_答案1,"Crying and wailing, I return home."
-乡试1_题目2_答案2,Return home until dawn.
-乡试1_题目2_答案3,With you until the west of Yelang.
-乡试1_题目2_答案4,We are not ordinary people.
-乡试1_题目3_答案1,Kill ten people in a hundred steps.
-乡试1_题目3_答案2,Travel a thousand miles without leaving a trace.
-乡试1_题目3_答案3,Sword Qi cuts Heaven and Earth.
-乡试1_题目3_答案4,Hide your identity and name.
-乡试2_题目1_答案1,The moon of today once shone on the ancients.
-乡试2_题目1_答案2,The bright moon once shone on the ancients.
-乡试2_题目1_答案3,When will the bright moon shine on me again?
-乡试2_题目1_答案4,Things change with the passing of time.
-乡试2_题目2_答案1,There must be a way when the road reaches the mountain.
-乡试2_题目2_答案2,Who in the world doesn't know you?
-乡试2_题目2_答案3,Squandered fortune can still be regained.
-乡试2_题目2_答案4,I claim to be an immortal in wine.
-乡试2_题目3_答案1,A yellow crane flies in from the sky.
-乡试2_题目3_答案2,Fireworks in March in Yangzhou.
-乡试2_题目3_答案3,"When I left, the snow covered the mountain road."
-乡试2_题目3_答案4,With you until the west of Yelang.
-乡试3_题目1_答案1,I sing to the wandering moon.
-乡试3_题目1_答案2,The moon surges the great river.
-乡试3_题目1_答案3,Ride the moon and get drunk on the high platform.
-乡试3_题目1_答案4,Three people in the reflection.
-乡试3_题目2_答案1,How many people return from wars in ancient times?
-乡试3_题目2_答案2,There are no old friends after leaving Yangguan.
-乡试3_题目2_答案3,Don't let the golden cup be empty under the moon.
-乡试3_题目2_答案4,Get drunk today if there is wine.
-乡试3_题目3_答案1,Travel a thousand miles without leaving a trace.
-乡试3_题目3_答案2,A thousand gold pieces will return.
-乡试3_题目3_答案3,Hide your identity and name.
-乡试3_题目3_答案4,You come from your hometown.
-乡试4_题目1_答案1,It's said that it rained at night in Bashan.
-乡试4_题目1_答案2,"Except for Wushan, it's not a cloud."
-乡试4_题目1_答案3,Peach blossoms still smile in the spring breeze.
-乡试4_题目1_答案4,Get drunk today if there is wine.
+乡试1_题目1_答案2,Dress up on the jade tower in spring.,ฤดูใบไม้ผลิ ขึ้นสู่หอหยกด้วยเครื่องแต่งกายงามวิจิตร
+乡试1_题目1_答案3,"The spring breeze brushes the railing, the dew is thick.",สายลมในฤดูใบไม้ผลิแผ่วพัดผ่านระเบียง หยาดน้ำค้างยังคงงดงามจับตา
+乡试1_题目1_答案4,Light or heavy makeup is always suitable.,จะอ่อนหรือเข้มแต่งแต้มล้วนงดงาม
+乡试1_题目2_答案1,"Crying and wailing, I return home.",ร่ำไห้สะอึกสะอื้น กลับคืนสู่บ้าน
+乡试1_题目2_答案2,Return home until dawn.,กลับมาถึงเรือนราวรุ่งสาง
+乡试1_题目2_答案3,With you until the west of Yelang.,ติดตามท่านไปจนถึงตะวันตกของแคว้นเย่หลาง
+乡试1_题目2_答案4,We are not ordinary people.,เรามิใช่ผู้คนธรรมดาสามัญ
+乡试1_题目3_答案1,Kill ten people in a hundred steps.,สังหารสิบคนในร้อยก้าว
+乡试1_题目3_答案2,Travel a thousand miles without leaving a trace.,เดินทางพันลี้ไร้ร่องรอย
+乡试1_题目3_答案3,Sword Qi cuts Heaven and Earth.,ปราณกระบี่ฟันผ่าสวรรค์และปฐพี
+乡试1_题目3_答案4,Hide your identity and name.,ซ่อนพรสวรรค์และชื่อเสียงไว้อย่างล้ำลึก
+乡试2_题目1_答案1,The moon of today once shone on the ancients.,จันทราดวงนี้ที่ส่องแสง เคยฉายให้ผู้คนในอดีตมาแล้ว
+乡试2_题目1_答案2,The bright moon once shone on the ancients.,จันทราแจ่มกระจ่างเคยส่องแสงให้คนในยุคโบราณ
+乡试2_题目1_答案3,When will the bright moon shine on me again?,เมื่อใดจันทร์กระจ่างจะกลับมาส่องแสงให้ข้าอีกครั้ง
+乡试2_题目1_答案4,Things change with the passing of time.,สรรพสิ่งเปลี่ยนไปตามกาลเวลา ผ่านฤดูใบไม้ร่วงหลายครา
+乡试2_题目2_答案1,There must be a way when the road reaches the mountain.,เมื่อถึงทางขึ้นเขาย่อมมีทางออกเสมอ
+乡试2_题目2_答案2,Who in the world doesn't know you?,ใครเล่าบนโลกนี้ที่ไม่รู้จักท่าน
+乡试2_题目2_答案3,Squandered fortune can still be regained.,ทรัพย์สินที่สูญเสียไปยังอาจหวนคืนมาได้
+乡试2_题目2_答案4,I claim to be an immortal in wine.,ข้าขอนับตัวเองเป็นเซียนแห่งสุรา
+乡试2_题目3_答案1,A yellow crane flies in from the sky.,มีนกกระเรียนเหลืองโผบินลงมาจากฟากฟ้า
+乡试2_题目3_答案2,Fireworks in March in Yangzhou.,ดอกไม้ไฟกลางเดือนมีนาคมที่หยางโจว
+乡试2_题目3_答案3,"When I left, the snow covered the mountain road.",ตอนจากไป หิมะปกคลุมเส้นทางภูเขา
+乡试2_题目3_答案4,With you until the west of Yelang.,ติดตามท่านไปจนถึงตะวันตกของแคว้นเย่หลาง
+乡试3_题目1_答案1,I sing to the wandering moon.,ข้าขับขานเพลงแก่จันทราที่ลอยวน
+乡试3_题目1_答案2,The moon surges the great river.,จันทร์ทอแสงสะท้อนเหนือแม่น้ำสายใหญ่
+乡试3_题目1_答案3,Ride the moon and get drunk on the high platform.,ร่วมจันทราเสพสุราบนลานสูง
+乡试3_题目1_答案4,Three people in the reflection.,สะท้อนเงาเป็นสามคนในภาพเดียว
+乡试3_题目2_答案1,How many people return from wars in ancient times?,ตั้งแต่โบราณใครเล่าจักหวนกลับจากสงคราม?
+乡试3_题目2_答案2,There are no old friends after leaving Yangguan.,เมื่อออกจากหยางกวน ก็ไร้เงาสหายเก่า
+乡试3_题目2_答案3,Don't let the golden cup be empty under the moon.,อย่าปล่อยให้จอกทองว่างเปล่าภายใต้แสงจันทร์
+乡试3_题目2_答案4,Get drunk today if there is wine.,วันนี้มีสุรา ดื่มจนเมามายในวันนี้
+乡试3_题目3_答案1,Travel a thousand miles without leaving a trace.,เดินทางพันลี้ไร้ร่องรอย
+乡试3_题目3_答案2,A thousand gold pieces will return.,ทองพันตำลึงสามารถหวนคืนได้
+乡试3_题目3_答案3,Hide your identity and name.,ซ่อนพรสวรรค์และชื่อเสียงไว้อย่างล้ำลึก
+乡试3_题目3_答案4,You come from your hometown.,ท่านมาจากบ้านเกิดของท่านเอง
+乡试4_题目1_答案1,It's said that it rained at night in Bashan.,กล่าวกันว่าเมื่อคืนที่บาซานมีฝนตก
+乡试4_题目1_答案2,"Except for Wushan, it's not a cloud.",หากมิใช่เมฆแห่งภูเขาอูซาน ก็คงไม่ใช่เมฆจริง
+乡试4_题目1_答案3,Peach blossoms still smile in the spring breeze.,ดอกท้อยังคงยิ้มรับลมใบไม้ผลิ
+乡试4_题目1_答案4,Get drunk today if there is wine.,วันนี้มีสุรา ดื่มจนเมามายในวันนี้
 乡试4_题目2_答案1,"To catch a thief, catch the king first."
 乡试4_题目2_答案2,"If you hit someone, aim for the face."
 乡试4_题目2_答案3,"To kill a person, aim for the heart."
 乡试4_题目2_答案4,"To kill a snake, aim for seven inches."
 乡试4_题目3_答案1,You must do this yourself.
-乡试4_题目3_答案2,Squandered fortune can still be regained.
+乡试4_题目3_答案2,Squandered fortune can still be regained.,ทรัพย์สินที่สูญเสียไปยังอาจหวนคืนมาได้
 乡试4_题目3_答案3,Always make heroes shed tears.
 乡试4_题目3_答案4,Iron Horse enters the dream from the icy river.
 乡试5_题目1_答案1,Three thousand favors in one body.
