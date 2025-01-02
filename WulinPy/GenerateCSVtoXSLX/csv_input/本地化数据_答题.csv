@@ -159,7 +159,7 @@
 院试4_题目3,"""What is the next sentence of 'Having ten good Horses is not as good as having one Bole'?""","""What is the next sentence of 'Having ten good Horses is not as good as having one Bole'?"" (ตอบข้อ 3)"
 院试5_题目1,"""What is the next sentence of 'Without indifference, there is no way to clarify your ambition'?""","""What is the next sentence of 'Without indifference, there is no way to clarify your ambition'?"" (ตอบข้อ 1)"
 院试5_题目2,"""What is the next sentence of 'Under the fragrant bait, there must be a hanging fish'?""","""What is the next sentence of 'Under the fragrant bait, there must be a hanging fish'?"" (ตอบข้อ 2)"
-院试5_题目3,"""What is the next line of 'Three years of good deeds, known by few'?""","""What is the next line of 'Three years of good deeds, known by few'?"" (ตอบข้อ 1?)"
+院试5_题目3,"""What is the next line of 'Three years of good deeds, known by few'?""","""What is the next line of 'Three years of good deeds, known by few'?"" (ตอบข้อ 1)"
 院试1_题目1_答案1,"The sparrow cannot speak to the eagle, for their ambitions differ.",นกกระจอกไม่อาจสนทนากับพญาอินทรีย์ เพราะความมุ่งหมายของพวกเขาต่างกัน
 院试1_题目1_答案2,"The mayfly cannot speak to the mountain, for their perspectives differ.",แมลงเม่าไม่อาจสนทนากับภูผาได้ เพราะมุมมองของพวกเขามันต่างกัน
 院试1_题目1_答案3,"The summer insect cannot speak to the ice, for they are bound by time.","The summer insect cannot speak to the ice, for they are bound by time.<<<"
@@ -224,7 +224,7 @@
 太学馆对对子_题目2,Please complete the couplet: A big belly can tolerate things that the world cannot tolerate;,Please complete the couplet: A big belly can tolerate things that the world cannot tolerate; (ตอบข้อ 2)
 太学馆对对子_题目3,Please complete the couplet: How can a sparrow know the ambition of a swan;,Please complete the couplet: How can a sparrow know the ambition of a swan; (ตอบข้อ 4)
 太学馆对对子_题目4,Please complete the couplet: The body is a Buddha tree;,Please complete the couplet: The body is a Buddha tree; (ตอบข้อ 2)
-太学馆对对子_题目5,Please complete the couplet: An old horse in the stable still aspires to gallop a thousand miles;,Please complete the couplet: An old horse in the stable still aspires to gallop a thousand miles; (ตอบข้อ 4?)
+太学馆对对子_题目5,Please complete the couplet: An old horse in the stable still aspires to gallop a thousand miles;,Please complete the couplet: An old horse in the stable still aspires to gallop a thousand miles; (ตอบข้อ 2)
 太学馆对对子_题目6,"Please complete the couplet: Great Ocean Manual, tolerance is greatness;","Please complete the couplet: Great Ocean Manual, tolerance is greatness; (ตอบข้อ 1)"
 太学馆对对子_题目7,"Please complete the couplet: The sound of wind, rain, and reading enters the ears;","Please complete the couplet: The sound of wind, rain, and reading enters the ears; (ตอบข้อ 3)"
 太学馆对对子_题目8,Please complete the couplet: A tiger drinks a cup and gets drunk in the mountains;,Please complete the couplet: A tiger drinks a cup and gets drunk in the mountains; (ตอบข้อ 2)
@@ -790,11 +790,11 @@
 儒圣馆看门对对子_题目4_答案2,Pull the wind and clouds for oneself.,ดึงลมและเมฆมาเป็นของตัวเอง
 儒圣馆看门对对子_题目4_答案3,Play with the flowers and the fragrance fills the clothes.,เล่นกับดอกไม้จนกลิ่นหอมซึมซับเสื้อผ้า
 儒圣馆看门对对子_题目4_答案4,Pick the stars and put them in the bosom.,เก็บดวงดาวไว้ในอก
-端午节太白楼_题目1,Who is the Dragon Boat Festival not commemorating?,Who is the Dragon Boat Festival not commemorating? (ตอบข้อ 3?)
+端午节太白楼_题目1,Who is the Dragon Boat Festival not commemorating?,Who is the Dragon Boat Festival not commemorating? (ตอบข้อ 3)
 端午节太白楼_题目2,What is commonly eaten during the Dragon Boat Festival?,What is commonly eaten during the Dragon Boat Festival? (ตอบข้อ 1)
-端午节太白楼_题目3,Which activity is not a traditional custom of the Dragon Boat Festival?,Which activity is not a traditional custom of the Dragon Boat Festival? (ตอบข้อ 3?)
+端午节太白楼_题目3,Which activity is not a traditional custom of the Dragon Boat Festival?,Which activity is not a traditional custom of the Dragon Boat Festival? (ตอบข้อ 3)
 端午节太白楼_题目4,What is the significance of children wearing sachets during the Dragon Boat Festival?,What is the significance of children wearing sachets during the Dragon Boat Festival? (ตอบข้อ 4)
-端午节太白楼_题目5,What flavor is the zongzi in Daliang City?
+端午节太白楼_题目5,What flavor is the zongzi in Daliang City?,What flavor is the zongzi in Daliang City? (ตอบข้อ 2)
 端午节太白楼_题目1_答案1,Cao E.
 端午节太白楼_题目1_答案2,Wu Zixu.
 端午节太白楼_题目1_答案3,King Zhuang of Chu.
@@ -840,11 +840,11 @@
 端午节忘忧楼_题目5_答案2,Caterpillar.
 端午节忘忧楼_题目5_答案3,Spider.
 端午节忘忧楼_题目5_答案4,Mouse.
-端午节繁华似锦楼_题目1,What is the significance of the ancient people drinking realgar wine during the Dragon Boat Festival?,What is the significance of the ancient people drinking realgar wine during the Dragon Boat Festival? (ตอบข้อ 4?)
-端午节繁华似锦楼_题目2,What flavor is the zongzi in Chuxiang City?
-端午节繁华似锦楼_题目3,What are the four traditional festivals?
-端午节繁华似锦楼_题目4,Which totem worship from the ancient times did the Dragon Boat Festival originally evolve from?,Which totem worship from the ancient times did the Dragon Boat Festival originally evolve from? (ตอบข้อ 2?)
-端午节繁华似锦楼_题目5,What are the flowers and plants used for exorcism and disease prevention during the Dragon Boat Festival?,What are the flowers and plants used for exorcism and disease prevention during the Dragon Boat Festival? (ตอบข้อ 3?)
+端午节繁华似锦楼_题目1,What is the significance of the ancient people drinking realgar wine during the Dragon Boat Festival?,What is the significance of the ancient people drinking realgar wine during the Dragon Boat Festival? (ตอบข้อ 3)
+端午节繁华似锦楼_题目2,What flavor is the zongzi in Chuxiang City?,What flavor is the zongzi in Chuxiang City? (ตอบข้อ 4)
+端午节繁华似锦楼_题目3,What are the four traditional festivals?,What are the four traditional festivals? (ตอบข้อ 2)
+端午节繁华似锦楼_题目4,Which totem worship from the ancient times did the Dragon Boat Festival originally evolve from?,Which totem worship from the ancient times did the Dragon Boat Festival originally evolve from? (ตอบข้อ 2)
+端午节繁华似锦楼_题目5,What are the flowers and plants used for exorcism and disease prevention during the Dragon Boat Festival?,What are the flowers and plants used for exorcism and disease prevention during the Dragon Boat Festival? (ตอบข้อ 3)
 端午节繁华似锦楼_题目1_答案1,Detoxify.
 端午节繁华似锦楼_题目1_答案2,Commemorate the White Snake.
 端午节繁华似锦楼_题目1_答案3,Exorcise and avoid plague.
@@ -880,10 +880,10 @@
 儒圣馆文人闹事_题目13,"Please complete the couplet: ""The lights of thousands of households are as bright as the autumn moon.""","Please complete the couplet: ""The lights of thousands of households are as bright as the autumn moon."" (ตอบข้อ 2)"
 儒圣馆文人闹事_题目14,"Please complete the couplet: ""The jade swallow welcomes spring, and spring always comes.""","Please complete the couplet: ""The jade swallow welcomes spring, and spring always comes."" (ตอบข้อ 4)"
 儒圣馆文人闹事_题目15,"Please complete the couplet: ""The spring lanterns of thousands of households celebrate the Lantern Festival.""","Please complete the couplet: ""The spring lanterns of thousands of households celebrate the Lantern Festival."" (ตอบข้อ 4)"
-儒圣馆文人闹事_题目16,"Please complete the couplet: ""As the heavens add to the years, people add to their lives."""
+儒圣馆文人闹事_题目16,"Please complete the couplet: ""As the heavens add to the years, people add to their lives.""","Please complete the couplet: ""As the heavens add to the years, people add to their lives."" (ตอบข้อ 2)"
 儒圣馆文人闹事_题目17,"Please complete the couplet: ""This wood is firewood from the mountains.""","Please complete the couplet: ""This wood is firewood from the mountains."" (ตอบข้อ 3)"
 儒圣馆文人闹事_题目18,"Please complete the couplet: ""Cordyceps sinensis has nine layers of skin.""","Please complete the couplet: ""Cordyceps sinensis has nine layers of skin."" (ตอบข้อ 4)"
-儒圣馆文人闹事_题目19,"Please complete the couplet: ""Once a person was a monk, but he could not become a Buddha?""","Please complete the couplet: ""Once a person was a monk, but he could not become a Buddha?"" (ตอบข้อ 1?)"
+儒圣馆文人闹事_题目19,"Please complete the couplet: ""Once a person was a monk, but he could not become a Buddha?""","Please complete the couplet: ""Once a person was a monk, but he could not become a Buddha?"" (ตอบข้อ 1)"
 儒圣馆文人闹事_题目20,"Please complete the couplet: ""The thatched cottage leaves a legacy for future generations.""","Please complete the couplet: ""The thatched cottage leaves a legacy for future generations."" (ตอบข้อ 4)"
 儒圣馆文人闹事_题目21,"Please complete the couplet: ""Green and red everywhere, swallows and orioles everywhere.""","Please complete the couplet: ""Green and red everywhere, swallows and orioles everywhere."" (ตอบข้อ 4)"
 儒圣馆文人闹事_题目22,"Please complete the couplet: ""Two, three, four, five.""","Please complete the couplet: ""Two, three, four, five."" (ตอบข้อ 3)"
@@ -1109,7 +1109,7 @@
 儒圣馆答疑解惑_题目22,"What does the ""water"" in ""a belt of water"" mean?","What does the ""water"" in ""a belt of water"" mean? (ตอบข้อ 2)"
 儒圣馆答疑解惑_题目23,"What does the ""flower"" in ""a flower, a world"" mean?","What does the ""flower"" in ""a flower, a world"" mean? (ตอบข้อ 1)"
 儒圣馆答疑解惑_题目24,Why do we eat Tangyuan during the Lantern Festival?,Why do we eat Tangyuan during the Lantern Festival? (ตอบข้อ 1)
-儒圣馆答疑解惑_题目25,"What does the ""sea"" in ""all within the four seas are brothers"" mean?","What does the ""sea"" in ""all within the four seas are brothers"" mean? (ตอบข้อ 4)"
+儒圣馆答疑解惑_题目25,"What does the ""sea"" in ""all within the four seas are brothers"" mean?","What does the ""sea"" in ""all within the four seas are brothers"" mean? (ตอบข้อ 2)"
 儒圣馆答疑解惑_题目26,"What does the ""firewood"" in ""sleep on brushwood and taste gall"" mean?","What does the ""firewood"" in ""sleep on brushwood and taste gall"" mean? (ตอบข้อ 2)"
 儒圣馆答疑解惑_题目27,"What does the ""cup"" in ""seeing a bow in a cup as a snake"" mean?","What does the ""cup"" in ""seeing a bow in a cup as a snake"" mean? (ตอบข้อ 4)"
 儒圣馆答疑解惑_题目28,"What does the ""see"" in ""seeing is believing"" mean?","What does the ""see"" in ""seeing is believing"" mean? (ตอบข้อ 3)"
