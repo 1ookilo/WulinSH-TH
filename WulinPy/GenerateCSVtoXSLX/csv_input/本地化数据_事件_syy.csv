@@ -3433,7 +3433,7 @@ R10056-3_6_15,"However, I've changed my mind, you're someone I can Trust.\nIn ti
 R10056-3_6_16,"If one day you do something that disappoints me, I will make sure you experience the taste of wanting to live but not being able to die before I Run away.",หากวันใดเจ้ากระทำการใดที่ทำให้ข้าผิดหวัง ข้าจะทำให้เจ้าได้ลิ้มรสความเจ็บปวดของการอยากมีชีวิตอยู่แต่ไม่สามารถตายได้ ก่อนที่ข้าจะจากไป
 R10056-3_6_17,…………,…………
 R10050-1_1_1,"Yes... (Kong Yidao just numbly agrees, without any actual reaction, because there are no extra spots in the team.)",ใช่... (ขงอี้เตาเพียงตอบอย่างอย่างไร้ความรู้สึก และไม่มีปฏิกิริยาใดๆ เลย เพราะไม่มีตำแหน่งว่างในกลุ่ม)
-R10050-1_2_1,"Yes, master...",ใช่ นายท่าน...
+R10050-1_2_1,"Yes, master...",รับบัญชา นายท่าน...
 R10050-1_3_1,"The team has no extra space, unable to invite him to join the team.",ไม่มีตำแหน่งว่างเหลือในกลุ่ม ไม่สามารถเชิญเขาให้เข้าร่วมกลุ่มได้
 R10050-1_4_1,"I'm the leader of the Blue Wind Camp after all, your request is a pipe dream.",ข้าเป็นผู้นำของค่ายวายุคราม คำขอของเจ้าช่างไร้สาระเสียจริงๆ
 R10050-1_op_1_dialog,(How should I Invite Kong Yidao to join my team?),(ข้าจะเชิญขงอี้เตาเข้าร่วมกลุ่มของข้าได้อย่างไร?)
@@ -3462,7 +3462,7 @@ R10050-1_12_1,"{PlayerName}, our relationship has long been severed, why are you
 R10050-1_13_1,"With me, Kong Yidao here, who dares to bully my brother, I'll chop him with a knife!","กับข้า, ขงอี้เตา ที่นี่ใครกล้ารังแกพี่ชายของข้า ข้าจะชำแหละมันด้วยมีดนี่!"
 R10050-1_14_1,"There's no place for me in your team, don't you need my help?",ไม่มีที่สำหรับข้าในทีมของเจ้า เจ้าไม่ต้องการความช่วยเหลือจากข้าหรือ?
 R10022-1_1_1,"Yes... (Bu Juechen just numbly agrees, without any actual reaction, because there are no extra spots in the team.)",ใช่... (ปู้เจวี่ยเฉินเพียงตอบอย่างอย่างไร้ความรู้สึก และไม่มีปฏิกิริยาใดๆ เลย เพราะไม่มีตำแหน่งว่างในกลุ่ม)
-R10022-1_2_1,"Yes, master...",ใช่ นายท่าน...
+R10022-1_2_1,"Yes, master...",รับบัญชา นายท่าน...
 R10022-1_3_1,"The team has no extra space, unable to invite him to join the team.",ไม่มีตำแหน่งว่างเหลือในกลุ่ม ไม่สามารถเชิญเขาให้เข้าร่วมกลุ่มได้
 R10022-1_4_1,"You're a bit overconfident! Unless I'm willing, no one has the right to command me.",เจ้าคงมั่นใจเกินไปหน่อย! เว้นแต่ข้าจะเต็มใจ ก็ไม่มีใครมีสิทธิ์มาออกคำสั่งกับข้าได้
 R10022-1_op_1_dialog,(How should I Invite Bu Juechen to join my team?),(ข้าจะเชิญปู้เจวี่ยเฉินเข้าร่วมกลุ่มของข้าได้อย่างไร?)
@@ -3519,7 +3519,7 @@ R10083-1_12_1,"Want me, Luo Tianxiong, to serve you? Give up, it's already polit
 R10083-1_13_1,"The emperor is missing, and now the important task of rescuing the emperor can only rely on us.",องค์ฮ่องเต้หายตัวไปไม่ทราบที่อยู่ และตอนนี้ภารกิจสำคัญในการช่วยเหลือฮ่องเต้ก็ขึ้นอยู่กับเราเพียงผู้เดียวเท่านั้น
 R10083-1_14_1,Are you sincerely inviting me? Why didn't you reserve extra slots.,เจ้าเชิญชวนข้าด้วยความจริงใจหรือเปล่า ทำไมถึงไม่มีที่ว่างละ
 R10043-1_1_1,"Yes... (Jian Chi just numbly agrees, without any actual reaction, because there are no extra spots in the team.)",ใช่... (มารกระบี่เพียงตอบอย่างอย่างไร้ความรู้สึก และไม่มีปฏิกิริยาใดๆ เลย เพราะไม่มีตำแหน่งว่างในกลุ่ม)
-R10043-1_2_1,"Yes, master...",ใช่ นายท่าน...
+R10043-1_2_1,"Yes, master...",รับบัญชา นายท่าน...
 R10043-1_3_1,"The team has no extra space, unable to invite him to join the team.",ไม่มีตำแหน่งว่างเหลือในกลุ่ม ไม่สามารถเชิญเขาให้เข้าร่วมกลุ่มได้
 R10043-1_4_1,Want me to protect you personally? You're not qualified yet!,อยากจะปกป้องข้างั้นรึ? เจ้ายังไม่ผ่าน!
 R10043-1_op_1_dialog,(How should I invite Jian Chi to join my team?),(ข้าจะเชิญมารกระบี่เข้าร่วมกลุ่มของข้าได้อย่างไร?)
@@ -3530,7 +3530,7 @@ R10043-1_5_1,"Do you think I'm a three-year-old child, trying to deceive me into
 R10043-1_5_2,"Since you've seen through it, I'll have to take matters into my own hands and make you submit.",ในเมื่อเจ้าสังเกตเห็นแล้ว ข้าก็คงไม่มีทางเลือกอื่น นอกจากต้องลงมือเองและบังคับให้เจ้ายอมเชื่อฟัง
 R10043-1_6_1,"You forced Jian Chi to take the Heart Broken pill, after a while, Jian Chi's eyes were blurred, and his mind was confused.",เจ้าบังคับให้ มารกระบี่ กินยาสลายใจ หลังจากนั้นไม่นาน มารกระบี่ ดวงตาของ ก็พร่ามัว และจิตใจของเขาสับสน
 R10043-1_6_2,Join my team and become the sharp sword of the Head hunter in my hand.,เข้าร่วมกลุ่มของข้า และจงกลายเป็นคมกระบี่ล่าสังหารในมือข้า
-R10043-1_6_3,Yes... Yes...,ใช่... ใช่...
+R10043-1_6_3,Yes... Yes...,รับบัญชา...
 R10043-1_7_1,I'm free! I'm free!!!,ข้าเป็นอิสระ! ข้าเป็นอิสระ! ! !
 R10043-1_7_2,What?,อะไรนะ?
 R10043-1_7_3,"{PlayerName}, you shameless brat, dare to control me with drugs, you should be punished!",{PlayerName} ไอ้เด็กสารเลวไร้ยางอาย กล้าควบคุมข้าด้วยยาเสพติด เจ้าจะต้องถูกลงโทษ!
@@ -3562,7 +3562,7 @@ R10012-1_5_2,"The head of the Taoist Sect is really knowledgeable!\nThis pill is
 R10012-1_6_1,"You forced Zhong Yangzi to take the Heart Broken pill, after a while, Zhong Yangzi's eyes were blurred, and his mind was confused.","เจ้าบังคับให้ ฉงหยางสื่อ กินยาสลายใจ, หลังจากนั้นไม่นานดวงตาของ ฉงหยางสื่อ ก็พร่ามัว และจิตใจของเขาก็สับสน."
 R10012-1_6_2,"Zhong Yangzi, you are one of the top masters in the world, if I don't make good use of your strength, it would be the greatest disrespect to you.","ฉงหยางสื่อ ท่านเป็นหนึ่งในปรมาจารย์แถวหน้าของยุทธจักร, หากข้าไม่ใช้พละกำลังของท่านให้เกิดประโยชน์ มันจะเป็นการดูหมิ่นท่านอย่างที่ถึงที่สุด."
 R10012-1_6_3,"Submit under my feet, I will show you a new world!",ยอมจำนนใต้ฝ่าเท้าของข้า แล้วข้าจะแสดงให้เจ้าได้เห็นโลกใหม่ที่แท้จริงเป็นเช่นไร!
-R10012-1_6_4,Yes... Yes...,ใช่... ใช่...
+R10012-1_6_4,Yes... Yes...,รับบัญชา...
 R10012-1_7_1,The Heart Broken pill is now ineffective for the old way...,ตอนนี้ยาสลายใจ ใช้ไม่ได้ผลแบบเก่าแล้ว...
 R10012-1_7_2,What?,อะไรนะ?
 R10012-1_7_3,"{PlayerName}, your disaster is here!",{PlayerName} คราวเคราะห์ของเจ้ามาถึงแล้ว!
@@ -3613,7 +3613,7 @@ R10024-1_12_1,"Amitabha, {PlayerSurName} donor, I'm sorry I can't accompany you.
 R10024-1_13_1,Amitabha...,อามิตาพุทธ...
 R10024-1_14_1,"The donor's team does not have a place for the old monk, good and good.",กลุ่มของประสกไม่มีที่สำหรับหลวงจีนเฒ่า สาธุ สาธุ
 R10017-1_1_1,"Yes... (Cai Yuanchang just numbly agrees, without any actual reaction, because there are no extra spots in the team.)",ใช่... (ไช่หยวนฉางเพียงตอบอย่างอย่างไร้ความรู้สึก และไม่มีปฏิกิริยาใดๆ เลย เพราะไม่มีตำแหน่งว่างในกลุ่ม)
-R10017-1_2_1,"Yes, master...",ใช่ นายท่าน...
+R10017-1_2_1,"Yes, master...",รับบัญชา นายท่าน...
 R10017-1_3_1,"The team has no extra space, unable to invite him to join the team.",ไม่มีตำแหน่งว่างเหลือในกลุ่ม ไม่สามารถเชิญเขาให้เข้าร่วมกลุ่มได้
 R10017-1_4_1,"I am the master of Confucius Temple, you are like a dragonfly in front of me, what qualifications do you have to let me stand up for you?",ข้าเป็นปรมาจารย์ของวัดขงจื้อ เจ้าเป็นเหมือนแมลงปอที่อยู่ตรงหน้าข้า เจ้ามีคุณสมบัติอะไรที่จะให้ข้ายืนหยัดเพื่อเจ้า?
 R10017-1_op_1_dialog,(How should I invite Cai Yuanchang to join my team?),(ข้าจะเชิญไช่หยวนฉางเข้าร่วมกลุ่มของข้าได้อย่างไร?)
@@ -6123,7 +6123,7 @@ School-2120_2_1,(Will Caidie be punished for breaking the rules of the tribe in 
 School-2120_3_1,"There is no room for compromise on joining the Jiuli tribe, you better give up this idea.",ไม่มีทางที่จะยืดหยุ่นหรือปรับเปลี่ยนใดๆ ในการเข้าร่วมเผ่าจิ่วลี่ทั้งนั้น เจ้าควรละทิ้งความคิดนี้เสียจะดีกว่า
 School-2120_4_1,"The Jiuli Tribe will never allow outsiders to join, especially you, a Central Plains person.\nDon't think that because you've helped the tribe a little, you can take a mile!","เผ่าจิ่วลี่ไม่เคยให้คนนอกเข้าร่วม โดยเฉพาะชาวจงหยวนอย่างเจ้า\nอย่าคิดว่าเป็นเพราะเจ้าช่วยเหลือเผ่าเราเล็กน้อยแล้วจะไปได้ไกลกว่านี้!"
 R10002-1_1_1,"Yes... (Miao Muli just numbly agrees, without any actual reaction, it turns out that the team has no extra space.)",ใช่... (เมี้ยวมู่หลีเพียงตอบอย่างอย่างไร้ความรู้สึก และไม่มีปฏิกิริยาใดๆ เลย เพราะไม่มีตำแหน่งว่างในกลุ่ม)
-R10002-1_2_1,"Yes, master...",ใช่ นายท่าน...
+R10002-1_2_1,"Yes, master...",รับบัญชา นายท่าน...
 R10002-1_3_1,"The team has no extra space, unable to invite him to join the team.",ไม่มีตำแหน่งว่างเหลือในกลุ่ม ไม่สามารถเชิญเขาให้เข้าร่วมกลุ่มได้
 R10002-1_4_1,"Central Plains person, what are you trying to do!",ชาวจงหยวน เจ้ากำลังจะทำอะไร!
 R10002-1_op_1_dialog,(How should I invite Miao Muli to join my team?),(ข้าจะเชิญเมี้ยวมู่หลีเข้าร่วมกลุ่มของข้าได้อย่างไร?)
@@ -6135,7 +6135,7 @@ R10002-1_6_1,"Jianghu Master token is here!\nWill Miao Muli of the Jiuli Tribe n
 R10002-1_6_2,"Hahaha, I didn't expect you to be so stupid!",ฮ่าฮ่าฮ่า ข้าไม่คิดว่าเจ้าจะโง่เขลาถึงเพียงนี้!
 R10002-1_6_3,"You Central Plains people treat the Jianghu Master token as a treasure, but in my eyes, it's just a piece of scrap metal. Your Central Plains' alliance leader can't control our Jiuli Tribe!",เจ้าชาวจงหยวนถือว่าตราผู้นำยุทธภพเป็นสมบัติสำคัญ แต่ในสายตาของข้า มันเป็นเพียงแค่เศษโลหะเท่านั้น ผู้นำยุทภพของชาวจงหยวนไม่อาจควบคุมเผ่าจิ่วลี่ของเราได้!
 R10075-2_1_1,"Yes... (Fu Yaoqin just numbly agrees, without any actual reaction, it turns out that the team has no extra space.)",ใช่... (ฟู่เหยาฉินเพียงตอบอย่างอย่างไร้ความรู้สึก และไม่มีปฏิกิริยาใดๆ เลย เพราะไม่มีตำแหน่งว่างในกลุ่ม)
-R10075-2_2_1,"Yes, master...",ใช่ นายท่าน...
+R10075-2_2_1,"Yes, master...",รับบัญชา นายท่าน...
 R10075-2_3_1,"There is no extra space in the team, unable to invite her to join the team.",ไม่มีตำแหน่งว่างเหลือในกลุ่ม ไม่สามารถเชิญนางให้เข้าร่วมกลุ่มได้
 R10075-2_4_1,"No one has ever dared to joke with me, the owner of Melody House, about serving you {PlayerName}!",ให้ข้าเจ้าตำหนักบทเพลง ฟังคำสั่งของเจ้า{PlayerName} ไม่เคยมีใครกล้าทำเรื่องตลกเช่นนี้กับข้า!
 R10075-2_op_1_dialog,(How should I invite Fu Yaoqin to join my team?),(ข้าจะเชิญฟู่เหยาฉินเข้าร่วมกลุ่มของข้าได้อย่างไร?)
