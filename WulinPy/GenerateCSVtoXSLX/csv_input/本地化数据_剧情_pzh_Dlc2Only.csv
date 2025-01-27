@@ -139,16 +139,16 @@ M1600-5_2_1_6,"Amitabha, I came here to persuade them to lay down their weapons 
 M1600-5_2_1_7,"Easier said than done. If these bandits can become a Buddha as soon as they lay down their weapons, what about the innocent souls they have harmed?",พูดได้มักง่ายจริง ๆ! ถ้าโจรเหล่านี้เพียงแค่ปล่อยวางอาวุธก็สามารถหลุดพ้นจากกรรมที่ก่อไว้ได้ แล้ววิญญาณของผู้บริสุทธิ์ที่พวกมันสังหารไปนั้นจะได้รับความยุติธรรมอย่างไร?
 M1600-5_2_2_1,Those people are extremely sinful. I sent them to the government.,คนเหล่านั้นมีแต่กรรมชั่ว ข้าจะส่งพวกเขาไปให้ทางการ รับการลงโทษตามกฎหมาย
 M1600-5_2_2_2,"Good, good, {PlayerSurName}, you really did a good thing.","เห็นควร เห็นควร, {PlayerSurName}, เจ้าได้กระทำสิ่งที่ถูกต้องแล้ว"
-M1600-5_2_2_3,"Master, did you just say you want to persuade them to lay down their weapons?"
-M1600-5_2_2_4,"Yes, as the saying goes, ""Lay down the butcher knife and become a Buddha on the spot"". I hope they can reform and do something beneficial to the world."
-M1600-5_2_2_5,"Lay down the butcher knife and become a Buddha on the spot... There is no such good thing in the world. If you ask me, those Mountain Bandits have done so many evils, they should pay the price."
-M1600-5_2_2_6,"Amitabha, there is a virtue of life in heaven. If they can repent and do more good deeds to benefit the world, it would be a great merit."
-M1600-5_2_2_7,"Easier said than done. If these bandits could repent, they wouldn't have done so many outrageous things."
-M1600-5_2_2_8,"Besides, there are countless innocent souls under their hands. If they become a Buddha, what about those souls?"
-M1600-5_2_3_1,"I believe they have learned their lesson and will not dare to do evil again, so I let them run away."
-M1600-5_2_3_2,"Good, good, this is a great act of kindness, {PlayerSurName}, you really have immeasurable merit and a lot of Buddha nature."
-M1600-5_2_3_3,"I think they shouldn't be let go easily. Those bandits are full of evil, how can they stop?"
-M1600-5_2_3_4,"Amitabha, there is a virtue of life in heaven. If they can lay down their weapons, it would be a great thing for the world."
+M1600-5_2_2_3,"Master, did you just say you want to persuade them to lay down their weapons?",พระอาจารย์ ท่านพูดว่าจะชี้แนะหนทางแห่งธรรมให้พวกมันละทิ้งวิถีแห่งความรุนแรง งั้นรึ?
+M1600-5_2_2_4,"Yes, as the saying goes, ""Lay down the butcher knife and become a Buddha on the spot"". I hope they can reform and do something beneficial to the world.","ถูกต้องตามคำกล่าวที่ว่า ""วางดาบลง แล้วเป็นคนดี"" อาตมาหวังว่าพวกเขาจะละทิ้งความชั่วร้ายและหันมาทำความดี"
+M1600-5_2_2_5,"Lay down the butcher knife and become a Buddha on the spot... There is no such good thing in the world. If you ask me, those Mountain Bandits have done so many evils, they should pay the price.",คำกล่าวที่ว่า 'วางดาบลงแล้วเป็นคนดี' นั้นฟังดูง่ายดายเกินไป ในโลกแห่งความจริง บาปกรรมที่ก่อไว้ย่อมมีผลตอบแทนเสมอ พวกโจรภูเขานั้นก่อกรรมชั่วร้ายมากมาย พวกมันควรได้รับผลกรรมตามที่ควร
+M1600-5_2_2_6,"Amitabha, there is a virtue of life in heaven. If they can repent and do more good deeds to benefit the world, it would be a great merit.",อมิตาพุทธ ทุกชีวิตล้วนมีค่าเสมอ แม้พวกเขาจะหลงผิดไปชั่วขณะ แต่ก็ยังมีโอกาสที่จะกลับตัวเป็นคนดีได้ หากพวกเขาสามารถทำความดีเพื่อชดเชยสิ่งที่ได้กระทำไป
+M1600-5_2_2_7,"Easier said than done. If these bandits could repent, they wouldn't have done so many outrageous things.",พูดได้มักง่ายจริงๆ! ถ้าโจรพวกนี้กลับใจได้ตั้งนานแล้ว พวกมันก็คงไม่ทำเรื่องเลวร้ายขนาดนี้หรอก
+M1600-5_2_2_8,"Besides, there are countless innocent souls under their hands. If they become a Buddha, what about those souls?",หากพวกมันสามารถกลับตัวเป็นคนดีได้ง่ายดายเช่นนั้น แล้วผู้บริสุทธิ์ที่พวกมันสังหารไปแล้วจะได้รับความยุติธรรมอย่างไร?
+M1600-5_2_3_1,"I believe they have learned their lesson and will not dare to do evil again, so I let them run away.",ข้าเชื่อว่าพวกมันได้เรียนรู้บทเรียนจากความผิดพลาดของตนเองแล้ว ข้าจะให้โอกาสแก่พวกมันในการกลับตัวเป็นคนดี
+M1600-5_2_3_2,"Good, good, this is a great act of kindness, {PlayerSurName}, you really have immeasurable merit and a lot of Buddha nature.",สาธุ สาธุ เจ้ามีจิตใจที่เปี่ยมด้วยเมตตาธรรม {PlayerSurName} การกระทำของเจ้าแสดงให้เห็นว่าเจ้าเป็นผู้มีธรรมะในจิตใจ
+M1600-5_2_3_3,"I think they shouldn't be let go easily. Those bandits are full of evil, how can they stop?",ข้าไม่เห็นควรที่จะปล่อยพวกมันไป พวกมันเป็นสัตว์ร้ายที่ไม่มีหัวใจ พวกมันจะไม่หยุดทำร้ายผู้คนจนกว่าจะถูกกำจัด
+M1600-5_2_3_4,"Amitabha, there is a virtue of life in heaven. If they can lay down their weapons, it would be a great thing for the world.",อมิตาพุทธ ทุกชีวิตล้วนมีค่า การที่พวกเขาสามารถละทิ้งความรุนแรงได้ ยุทธภพนี้จะได้กลับมามีสันติสุข
 M1600-5_2_3_5,What does the master think should be done with those resentful spirits under their control?
 M1600-5_2_4_1,I let them go after they paid the ransom.
 M1600-5_2_4_2,"Alas... Wealth is but an external possession, why do you, {PlayerSurName}, value it so much?"
@@ -166,7 +166,7 @@ M1600-5_3_1_5,"Of course, if the evil people in the world could easily repent, t
 M1600-5_4_1_1,"I, being humble, taught them a lesson and persuaded them to leave."
 M1600-5_4_1_2,"Good, good, this is a great act of kindness. You truly have immeasurable merit and a hint of Buddha nature."
 M1600-5_4_1_3,"I think they were reckless and violent, letting them go like this is too easy for them!"
-M1600-5_4_1_4,"Amitabha, there is a virtue of life in heaven. If they can lay down their weapons, it would be a great thing for the world."
+M1600-5_4_1_4,"Amitabha, there is a virtue of life in heaven. If they can lay down their weapons, it would be a great thing for the world.",อมิตาพุทธ ทุกชีวิตล้วนมีค่า การที่พวกเขาสามารถละทิ้งความรุนแรงได้ ยุทธภพนี้จะได้กลับมามีสันติสุข
 M1600-5_4_1_5,What does the master think should be done with those resentful spirits under their control?
 M1600-5_4_1_6,"This... Amitabha, I am still a novice in the study of Buddhism, I cannot answer your question. After this incident, I will return to the temple to study hard. Thank you for your guidance."
 M1600-5_4_1_7,Shifa Temple Disciple leaves the scene.
@@ -3381,26 +3381,26 @@ M2981-6_5_11,"The owner of this tomb must have instructed his descendants not to
 M2981-6_5_12,"Thank you, Master, for giving me such insight. I am deeply grateful to you!"
 M2981-6_5_13,No problem.
 M2981-6_6_1,"Forget it, anyway, I've already passed through the Nether Pavilion, whatever happens has nothing to do with me."
-M2155-25_0_1,"Miss Wangyou, we meet again."
-M2155-25_0_2,... I have nothing to say to you.
-M2155-25_0_3,"Miss Wangyou, don't be like this. Do you remember when you were in the Herbology Sect, it was I who saved your life."
-M2155-25_0_4,I would rather die in the Herbology Sect.
-M2155-25_0_5,"Miss Wangyou, your medical skills are divine. It would be a pity if you died just like that. I will give you a chance to live, as long as you use your medical skills for me, I will spare your life."
-M2155-25_0_6,Help you do evil? Absolutely not!
-M2155-25_1_1,Then you can stay here and rot!
-M2155-25_1_1_1,"... What else do you want to do, I have nothing to say to you."
-M2155-25_2_1,"Miss Wangyou, your medical skills are superb. I'm sure you can guess the effect of this pill."
-M2155-25_2_2,... Such an evil pill!
-M2155-25_2_3,"As expected of Miss Wangyou, given time, I'm sure you could develop an antidote for this pill."
-M2155-25_2_4,... What are you trying to say?
-M2155-25_2_5,"If you refuse to cooperate, I will trap you here and let you watch helplessly as those who take this pill die in agony."
-M2155-25_2_6,"Heart of Healer, this should be more painful than killing you, right?"
-M2155-25_2_7,"Tie Mianren, you despicable villain!"
-M2155-25_2_8,"Miss Wangyou, I advise you to be sensible and cooperate with me."
-M2155-25_2_9,... I have one condition.
-M2155-25_2_10,Please speak.
-M2155-25_2_11,"Destroy all the remaining pills in your hand, and don't make me do anything against morality and justice, then I will agree to help you."
-M2155-25_2_12,This condition... 
+M2155-25_0_1,"Miss Wangyou, we meet again.",แม่นางหวังโหย่ว พบกันอีกแล้ว
+M2155-25_0_2,... I have nothing to say to you.,...ข้าไม่มีอะไรจะพูดกับเจ้า
+M2155-25_0_3,"Miss Wangyou, don't be like this. Do you remember when you were in the Herbology Sect, it was I who saved your life.",แม่นางหวังโหย่วอย่าทำเช่นนี้เลย จำได้หรือไม่ เมื่อตอนอยู่ที่สำนักพฤกษา เป็นข้าที่ได้ช่วยชีวิตเจ้าเอาไว้
+M2155-25_0_4,I would rather die in the Herbology Sect.,ให้ข้าตายที่สำนักพฤกษาเสียดีกว่า
+M2155-25_0_5,"Miss Wangyou, your medical skills are divine. It would be a pity if you died just like that. I will give you a chance to live, as long as you use your medical skills for me, I will spare your life.",แม่นางหวังโหย่ว ทักษะการแพทย์ของเจ้าช่างวิเศษนัก หากต้องตายไปทั้งแบบนั้นมิน่าเสียดายดอกหรือ ข้าจะให้โอกาสเจ้าได้มีชีวิตต่อไป ตราบใดที่เจ้าใช้วิชาแพทย์เพื่อข้า ข้าก็จะไว้ชีวิตเจ้า
+M2155-25_0_6,Help you do evil? Absolutely not!,ช่วยมารร้ายอย่างเจ้าน่ะหรือ? ไม่มีทางเสียหรอก!
+M2155-25_1_1,Then you can stay here and rot!,งั้นก็จงเน่าตายอยู่ในนี้นี่แหละ!
+M2155-25_1_1_1,"... What else do you want to do, I have nothing to say to you.",...ต้องการอะไรจากข้าอีก ข้าไม่มีเรื่องอันใดจะพูดกับเจ้า
+M2155-25_2_1,"Miss Wangyou, your medical skills are superb. I'm sure you can guess the effect of this pill.",แม่นางหวังโหย่ว ทักษะการแพทย์ของเจ้านั้นเป็นเลิศ ข้าแน่ใจว่าเจ้าสามารถเดาผลของยาเม็ดนี้ได้
+M2155-25_2_2,... Such an evil pill!,... ยาพิษอันแสนชั่วร้าย!
+M2155-25_2_3,"As expected of Miss Wangyou, given time, I'm sure you could develop an antidote for this pill.",คิดไว้ไม่ผิด แม่นางหวังโหย่ว ข้าเชื่อว่าเมื่อเวลาผ่านไป เจ้าจะสามารถคิดค้นยาถอนพิษชนิดนี้ได้
+M2155-25_2_4,... What are you trying to say?,...เจ้าอยากจะพูดอะไรกันแน่?
+M2155-25_2_5,"If you refuse to cooperate, I will trap you here and let you watch helplessly as those who take this pill die in agony.",หากเจ้าไม่ยอมร่วมมือ ข้าจะขังเจ้าไว้ที่นี่ ปล่อยให้เจ้ามองดูคนที่กินยาเม็ดนี้ตายอย่างทรมานโดยช่วยอะไรไม่ได้
+M2155-25_2_6,"Heart of Healer, this should be more painful than killing you, right?",ด้วยจิตใจของคนเป็นแพทย์ผู้รักษา ทำแบบนี้เจ้าคงเจ็บปวดยิ่งกว่าฆ่าเจ้าให้ตายเสียอีก ใช่ไหมล่ะ?
+M2155-25_2_7,"Tie Mianren, you despicable villain!",เจ้าหน้ากากเหล็ก เจ้าคนชั่วช้าน่ารังเกียจ!
+M2155-25_2_8,"Miss Wangyou, I advise you to be sensible and cooperate with me.",แม่นางหวังโหย่ว ข้าแนะนำให้เจ้าลองคิดให้ดี แล้วร่วมมือกับข้าดีกว่า
+M2155-25_2_9,... I have one condition.,... ข้ามีเงื่อนไขหนึ่งข้อ
+M2155-25_2_10,Please speak.,โปรดพูดมาเถิด
+M2155-25_2_11,"Destroy all the remaining pills in your hand, and don't make me do anything against morality and justice, then I will agree to help you.",ทำลายยาที่อยู่ในมือของเจ้าที่เหลือทั้งหมด และอย่าทำให้ข้าต้องทำอะไรที่ขัดต่อศีลธรรม และคุณธรรมอีก แล้วข้าจะตกลงช่วยเจ้า
+M2155-25_2_12,This condition... ,เงื่อนไขนี้...
 M2155-25_option1_1,I agree. <color=#097a76>(Discard all Sovereign's Elixir.)</color>
 M2155-25_option1_2,Think about it again.
 M2155-25_3_1,……

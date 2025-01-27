@@ -387,7 +387,7 @@ BattleFieldFail_叶银瓶结缘,<#61C3C8>All of our members</color> are defeated
 BattleFieldInfo_洛千雪结缘,<#61C3C8>{PlayerName}</color> and <#61C3C8>Luo Qianxue</color> join the fight.,<#61C3C8>{PlayerName}</color>และ<#61C3C8>ลั่วเฉียนเสวี่ย</color>เข้าร่วมการต่อสู้
 BattleFieldWin_洛千雪结缘,"Pass the test of birth, aging, sickness, and death.",ผ่านการทดสอบการเกิด แก่ เจ็บ และตาย
 BattleFieldFail_洛千雪结缘,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
-BattleFieldInfo_华青青结缘,<#61C3C8>{PlayerName}</color> and <#61C3C8>Hua Qingqing</color> join the battle.,<#61C3C8>{PlayerName}</color>และ<#61C3C8>ฮวาชิงชิง</color>เข้าร่วมการต่อสู้
+BattleFieldInfo_华青青结缘,<#61C3C8>{PlayerName}</color> and <#61C3C8>Hua Qingqing</color> join the battle.,<#61C3C8>{PlayerName}</color>และ<#61C3C8>หัวชิงชิง</color>เข้าร่วมการต่อสู้
 BattleFieldWin_华青青结缘,"Pass the test of birth, aging, sickness, and death.",ผ่านการทดสอบการเกิด แก่ เจ็บ และตาย
 BattleFieldFail_华青青结缘,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
 BattleFieldInfo_福箐郡主结缘,<#61C3C8>{PlayerName}</color> and <#61C3C8>Princess Fuqing</color> join the battle.,<#61C3C8>{PlayerName}</color> และ <#61C3C8>องค์หญิงฟู่ชิง</color>เข้าร่วมการต่อสู้
@@ -875,7 +875,7 @@ BattleFieldInfo_R10081-3三圣,Only <#61C3C8>{PlayerName}</color> participate in
 BattleFieldWin_R10081-3三圣,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_R10081-3三圣,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้
 BattleFieldInfo_R10084-5华青青,Only <#61C3C8>{PlayerName}</color> participate in the battle.,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
-BattleFieldWin_R10084-5华青青,Defeat <#61C3C8>Hua Qingqing</color>.,เอาชนะ <#61C3C8>ฮวาชิงชิง</color>
+BattleFieldWin_R10084-5华青青,Defeat <#61C3C8>Hua Qingqing</color>.,เอาชนะ <#61C3C8>หัวชิงชิง</color>
 BattleFieldFail_R10084-5华青青,<#61C3C8>{PlayerName}</color> has been defeated.,<#61C3C8>{PlayerName}</color>พ่ายแพ้
 BattleFieldInfo_R10084-5洛千雪,Only <#61C3C8>{PlayerName}</color> participate in the battle.,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_R10084-5洛千雪,Defeat <#61C3C8>Luo Qianxue</color>.,เอาชนะ <#61C3C8>ลั่ว เฉียนเสวี่ย</color>
