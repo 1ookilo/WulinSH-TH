@@ -31,14 +31,14 @@ R10136-5-1_overview2,It's time to go to Ji Residence to check on Miss Ji.,ถึ
 R10136-7_name,Glass Bead,ลูกปัดแก้ว
 R10136-7_overview1,Help Ji Fuling find six glass beads.,ช่วยเหลือ จี้ฝูหลิง ค้นหาลูกปัดแก้วทั้งหก
 R10136-7_overview2,Go to the study in Ji Residence and check if there is anything unusual about the lamp.,ไปยังห้องทำงานในคฤหาสน์ตระกูลจี้ และตรวจสอบดูว่ามีสิ่งผิดปกติใดๆ เกิดขึ้นกับโคมไฟหรือไม่
-R10136-8_name,Debts must be paid,กรรมใดกรรมนั้นย่อมตามสนอง
+R10136-8_name,Debts must be paid,บาปมีผู้ก่อ หนี้มีเจ้าหนี้
 R10136-8_overview1,Find Duke Qi to seek justice for the Ji family.,ตามหา อ๋องฉี เพื่อขอความยุติธรรมให้กับตระกูลจี้
-R10136-8_overview2,Travel with Ji Fuling and level her up to at least level 50 before she can challenge Duke Qi alone.,เดินทางร่วมกับจี้ฝูหลิง และฝึกฝนวิทยายุทธให้นางมีระดับพลังอย่างน้อยถึง Lv. 50 ก่อนที่นางจะสามารถเผชิญหน้ากับอ๋องฉีเพียงลำพังได้
+R10136-8_overview2,Travel with Ji Fuling and level her up to at least level 50 before she can challenge Duke Qi alone.,เดินทางร่วมกับจี้ฝูหลิง และฝึกฝนนางให้มีความแข็งแกร่งอย่างน้อยถึงระดับ 50 ก่อนที่นางจะเผชิญหน้ากับอ๋องฉีเพียงลำพัง
 R10136-8_overview3,Come back to visit Duke Qi after six shichen.,กลับไปหา อ๋องฉี หลังจากผ่านไปหกชั่วยาม
-R10136-8_overview4,Go to visit Duke Qi.,ไปพบกับ อ๋องฉี
-R10136-8_option_1_1,"Get ready!<color=#097a76>(Only Ji Fuling fights, level 50 strength)</color>","เตรียมรับมือ!<color=#097a76>(มีเพียงแค่จี้ฝูหลิงที่ต่อสู้,พละกำลัง level 50)</color>"
+R10136-8_overview4,Go to visit Duke Qi.,เดินทางไปพบอ๋องฉี
+R10136-8_option_1_1,"Get ready!<color=#097a76>(Only Ji Fuling fights, level 50 strength)</color>","พร้อมแล้ว! <color=#097a76>(เพียง จี้ฝูหลิง เท่านั้นที่เข้าสู่การต่อสู้, ความแข็งแกร่งระดับ 50)</color>"
 R10136-8_option_1_2,Not ready yet.,ข้ายังไม่พร้อม
-R10136-8_option_2_1,"Visit Duke Qi.<color=#c44b0e>(Specific battle, level 60 strength)</color>","เผชิญหน้า อ๋องฉี<color=#c44b0e>(เข้าสู่การต่อสู้, พละกำลัง level 60)</color>"
+R10136-8_option_2_1,"Visit Duke Qi.<color=#c44b0e>(Specific battle, level 60 strength)</color>","ไปพบอ๋องฉี <color=#c44b0e>(เข้าสู่การต่อสู้, ความแข็งแกร่งระดับ 60)</color>"
 R10136-8_option_2_2,Come back later.,กลับมาภายหลัง
 R10136-8_emptyname, , 
 R10136-8_npcname,A sinister male voice,เสียงของชายลึกลับ
