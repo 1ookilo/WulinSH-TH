@@ -119,7 +119,7 @@ BH_Title_5800034,Collect Herb,รวบรวมสมุนไพร
 BH_Title_5800035,Collect Bug,รวบรวมแมลง
 BH_Title_5800036,Collect Toxic,รวบรวมพิษ
 BH_Title_5800037,Provoke Crime Investigation Bureau,ยั่วโมโหมือปราบ
-BH_Title_5800038,Provoke Crime Investigation Bureau,ยั่วยุสำนักสืบสวน
+BH_Title_5800038,Provoke Crime Investigation Bureau,ยั่วยุสำนักเทพมือปราบ
 BH_Title_5800039,Kill Luo Qianxue,สังหารลั่วเฉียนเสวี่ย
 BH_Title_5800040,Kill Qiu Zhimo,สังหารฉิวจือโม่
 BH_Title_5800041,Kill Luo Tianxiong,สังหารลั่วเทียนเซี่ยง
@@ -431,8 +431,8 @@ BH_Desc_5800033,"Our gang is currently lacking Medicine, please gang members col
 BH_Desc_5800034,"Our gang is currently lacking Herb, please gang members collect them quickly.",ขณะนี้พรรคของเรายังขาดสมุนไพร สมาชิกพรรคโปรดเสาะหามาโดยเร็ว
 BH_Desc_5800035,"Our gang is currently lacking Bug, please gang members collect them quickly.",ขณะนี้พรรคของเราขาดแคลนยา สมาชิกพรรคโปรดเสาะหามาโดยเร็ว
 BH_Desc_5800036,"Our gang is currently lacking Toxic, please gang members collect them quickly.",ขณะนี้พรรคของเรายังขาดแคลนพิษ สมาชิกพรรคโปรดเสาะหามาโดยเร็ว
-BH_Desc_5800037,"The Crime Investigation Bureau has recently arrested many of our brothers, avenge our brothers!",เมื่อเร็วๆ นี้ สำนักสืบสวน ได้จับกุมพี่น้องของพวกเราไปหลายคน ต้องล้างแค้นให้พี่น้องเรา!
-BH_Desc_5800038,"The Crime Investigation Bureau has recently arrested many of our brothers, avenge our brothers!",เมื่อเร็วๆ นี้ สำนักสืบสวน ได้จับกุมพี่น้องของพวกเราไปหลายคน ต้องล้างแค้นให้พี่น้องเรา!
+BH_Desc_5800037,"The Crime Investigation Bureau has recently arrested many of our brothers, avenge our brothers!",เมื่อเร็วๆ นี้ สำนักเทพมือปราบ ได้จับกุมพี่น้องของพวกเราไปหลายคน ต้องล้างแค้นให้พี่น้องเรา!
+BH_Desc_5800038,"The Crime Investigation Bureau has recently arrested many of our brothers, avenge our brothers!",เมื่อเร็วๆ นี้ สำนักเทพมือปราบ ได้จับกุมพี่น้องของพวกเราไปหลายคน ต้องล้างแค้นให้พี่น้องเรา!
 BH_Desc_5800039,"Luo Qianxue has recently arrested many of our brothers, avenge our brothers!",เมื่อเร็วๆ นี้ ลั่วเฉียนเสวี่ย ได้จับกุมพี่น้องของพวกเราไปหลายคน ต้องล้างแค้นให้พี่น้องเรา!
 BH_Desc_5800040,"Qiu Zhimo has recently arrested many of our brothers, avenge our brothers!",เมื่อเร็วๆ นี้ ฉิวจือโม่ ได้จับกุมพี่น้องของพวกเราไปหลายคน ต้องล้างแค้นให้พี่น้องเรา!
 BH_Desc_5800041,"Luo Tianxiong has recently arrested many of our brothers, avenge our brothers!",เมื่อเร็วๆ นี้ ลั่วเทียนเซี่ยง ได้จับกุมพี่น้องของพวกเราไปหลายคน ต้องล้างแค้นให้พี่น้องเรา!
@@ -686,7 +686,7 @@ BH_Desc_5800046,"Many merchants in the city carry Scrap silver with them. Instea
 BH_Desc_5800047,"Many merchants in the city carry Scrap silver with them. Instead of letting it sit idle, it would be better to find a way to obtain it to support our sect.",พ่อค้าจำนวนมากในเมืองจะพกเศษเงินติดตัวไปด้วย แทนที่จะปล่อยให้พวกมันอยู่อย่างนั้น ควรหาวิธีที่จะได้รับมันมาเพื่อสนับสนุนสำนักของเราจะดีกว่า
 BH_Desc_5800048,"Many merchants in the city carry Scrap silver with them. Instead of letting it sit idle, it would be better to find a way to obtain it to support our sect.",พ่อค้าจำนวนมากในเมืองจะพกเศษเงินติดตัวไปด้วย แทนที่จะปล่อยให้พวกมันอยู่อย่างนั้น ควรหาวิธีที่จะได้รับมันมาเพื่อสนับสนุนสำนักของเราจะดีกว่า
 BH_Desc_5800049,"Many merchants in the city carry Scrap silver with them. Instead of letting it sit idle, it would be better to find a way to obtain it to support our sect.",พ่อค้าจำนวนมากในเมืองจะพกเศษเงินติดตัวไปด้วย แทนที่จะปล่อยให้พวกมันอยู่อย่างนั้น ควรหาวิธีที่จะได้รับมันมาเพื่อสนับสนุนสำนักของเราจะดีกว่า
-BH_Desc_5800050,Luo Qianxue of the Crime Investigation Bureau has repeatedly made things difficult for our disciples and interfered with our affairs. He is a major threat to our sect and must be eliminated as soon as possible!,ลั่วเฉียนเสวี่ยจากสำนักสืบสวนได้ก่อปัญหาแก่ศิษย์ของเราซ้ำแล้วซ้ำเล่า และแทรกแซงงานของเรา นับเป็นภัยคุกคามสำคัญต่อสำนัก จะต้องกำจัดโดยเร็วที่สุด!
+BH_Desc_5800050,Luo Qianxue of the Crime Investigation Bureau has repeatedly made things difficult for our disciples and interfered with our affairs. He is a major threat to our sect and must be eliminated as soon as possible!,ลั่วเฉียนเสวี่ยจากสำนักเทพมือปราบได้ก่อปัญหาแก่ศิษย์ของเราซ้ำแล้วซ้ำเล่า และแทรกแซงงานของเรา นับเป็นภัยคุกคามสำคัญต่อสำนัก จะต้องกำจัดโดยเร็วที่สุด!
 BH_Desc_6500032,"Kong Yidao, the leader of the Blue Wind Camp, has been committing evil for many years, repeatedly ordering his subordinates to rob and harm merchants. Such a villain must be severely punished as a warning to others.","ขงอี้เตา, ผู้นำค่ายวายุครามทำชั่วมาหลายปี โดยสั่งให้ลูกน้องปล้นและทำร้ายพ่อค้าซ้ำแล้วซ้ำเล่า คนร้ายดังกล่าวจะต้องได้รับการลงโทษอย่างรุนแรงเพื่อเป็นการตักเตือนผู้อื่น"
 BH_Desc_6500033,"Ming Bufan, the leader of the Tomb Raider Sect, is blinded by greed. He has been leading his disciples to steal tomb treasures for many years. Such a villain must be killed to deter others.","หมิงปู้ฟาน, ผู้นำของสำนักปล้นสุสานตาบอดด้วยความโลภ เขานำลูกศิษย์ของเขาไปขโมยสมบัติจากสุสานมาหลายปีแล้ว คนร้ายเช่นนี้จะต้องถูกฆ่าเพื่อขัดขวางผู้อื่น"
 BH_Desc_6500034,"Bu Juechen, the leader of the Swallow Nest, is insatiable in his greed, repeatedly ordering his subordinates to steal from merchants. Such a villain must be killed to appease public anger.","ปู้เจวี่ยเฉิน, ผู้นำแห่งรังนกนางแอ่น มีความโลภอย่างไม่รู้จักพอ เขาออกคำสั่งซ้ำแล้วซ้ำเล่าให้ลูกน้องขโมยของจากพ่อค้า คนร้ายเช่นนี้จะต้องถูกฆ่าเพื่อระงับความโกรธของประชาชน"

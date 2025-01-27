@@ -725,7 +725,7 @@ main-10d_8_1,"Hand over the three treasures, and we'll leave your bodies intact.
 main-10d_9_1,I heard that your sect has obtained the martial arts legacy of the nameless hero. I want to see how powerful it is!,ข้าได้ยินมาว่า สำนักของท่านได้รับสืบทอดวิทยายุทธของยอดยุทธ์ไร้นาม ข้าต้องการเห็นว่ามันทรงพลังมากแค่ไหนกัน!
 main-10d_10_1,"Here's a piece of advice for your sect, making the entire martial arts world your enemy is courting destruction.",ข้าขอเตือนสำนักท่านว่า การเป็นศัตรูกับทั้งยุทธภพ จะนำมาซึ่งหายนะ
 main-10d_11_1,There are always some fools who talk about your martial arts skills as if they were divine. I want to see if they can even touch a single hair of mine.,มีไอ้โง่บางคนที่พูดถึงวรยุทธ์ของเจ้าราวกับว่าเทพประทานจากฟ้า ข้าอยากจะเห็นเสียจริง ว่าพวกมันจะแตะต้องแม้แต่เส้นผมของข้าได้หรือไม่
-main-10d_12_1,"To this day, many sects have perished at your hands. We, the Crime Investigation Bureau, cannot stand by and do nothing!",จนถึงทุกวันนี้ สำนักมากมายต้องพินาศไปเพราะฝีมือของเจ้า พวกเราสำนักสืบสวน ไม่อาจนิ่งดูดายได้
+main-10d_12_1,"To this day, many sects have perished at your hands. We, the Crime Investigation Bureau, cannot stand by and do nothing!",จนถึงทุกวันนี้ สำนักมากมายต้องพินาศไปเพราะฝีมือของเจ้า พวกเราสำนักเทพมือปราบ ไม่อาจนิ่งดูดายได้
 main-10d_13_1,"In order to restore the prestige of the Tiger Escort, I must participate in this battle. I'm sorry...",เพื่อฟื้นฟูเกียรติยศของสำนักคุ้มภัยพยัคฆา ข้าจำเป็นต้องเข้าร่วมศึกครั้งนี้ ข้าขออภัย...
 main-10d_14_1,"I heard that the head of your sect is not only a martial arts master, but also has the true transmission of the nameless hero. I, Jian Chi, have come to learn from you.",ได้ยินว่าเจ้าสำนักของท่านไม่เพียงแต่มีวิชายุทธ์ที่ยอดเยี่ยม แต่ยังได้รับการถ่ายทอดวิทยายุทธแท้ของยอดยุทธ์ไร้นาม ข้า มารกระบี่ ผู้หลงใหลในกระบี่จึงมาขอคำชี้แนะจากท่าน
 main-10d_15_1,Sigh...,เฮ้อ…
@@ -784,7 +784,7 @@ fail-8_1_2,"We have been defeated... We hope you will not kill us all, Beast Man
 fail-9_1_1,"The world-renowned high and unique Qinggong,\nIn front of you, it's just child's play,\nThe righteous thief's oath of ""Thieves also have their own way"",\nIn your eyes, it's just self-deception.\nThe banner of ""The world is one"" was taken over by you,\nWithout hesitation,\nPlanted in the ruins of this Swallow Nest...","กระบวนท่าล่องหนลอยลมอันเลื่องชื่อลือชา\nต่อหน้าท่าน กลับเป็นเพียงเล่ห์เพทุบายเด็กๆ\nคำสัตย์ของโจรที่กล่าวว่า ""โจรก็มีวิถีของตน""\nในสายตาท่าน กลับเป็นเพียงการหลอกตนเอง\nธง ""ยุทธภพคือหนึ่งเดียว"" ถูกท่านยึดครองไป\nโดยไม่ลังเล\nปักลงบนซากปรักหักพังของรังนกนางแอ่น..."
 fail-9_1_2,"Thieves also have their own way, is it just us Swallow Nest deceiving ourselves...",โจรก็มีวิถีของตน... หรือว่าพวกเรา รังนกนางแอ่น กำลังหลอกตัวเองอยู่กันแน่...
 fail-10_1_1,"This place once judged the good and evil of the world,\nWhether it's impartial or a hound of the court,\nGood and evil, right and wrong, are just what most people wish to believe.\nFor you, all of this has become unimportant,\nOnly the original intention is the only driving force for you to move forward...","สถานที่แห่งนี้เคยตัดสินคุณงามความดีของโลก\nไม่ว่าจะเป็นการตัดสินที่ยุติธรรมหรือเป็นเพียงหมารับใช้ของราชสำนัก\nคุณงามความดี ถูกหรือผิด เป็นเพียงสิ่งที่ผู้คนส่วนใหญ่ต้องการเชื่อ\nสำหรับท่านแล้ว สิ่งเหล่านี้ล้วนไร้ความสำคัญ\nมีเพียงเจตนารมณ์ดั้งเดิมเท่านั้นที่เป็นแรงขับเคลื่อนให้ท่านก้าวต่อไป..."
-fail-10_1_2,"Right and wrong, you and I have our own scales in our hearts, no need to argue anymore.\nI, Luo, now only hope that Crime Investigation Bureau... will not be wronged in defeat.","ถูกผิดนั้น ในใจของข้าและเจ้าต่างก็มีมาตรฐานของตนเอง ไม่จำเป็นต้องเถียงกันอีกต่อไป\nข้า ลั่ว หวังเพียงว่าสำนักสืบสวน จะไม่ถูกกระทำเกินกว่าเหตุในยามพ่ายแพ้"
+fail-10_1_2,"Right and wrong, you and I have our own scales in our hearts, no need to argue anymore.\nI, Luo, now only hope that Crime Investigation Bureau... will not be wronged in defeat.","ถูกผิดนั้น ในใจของข้าและเจ้าต่างก็มีมาตรฐานของตนเอง ไม่จำเป็นต้องเถียงกันอีกต่อไป\nข้า ลั่ว หวังเพียงว่าสำนักเทพมือปราบ จะไม่ถูกกระทำเกินกว่าเหตุในยามพ่ายแพ้"
 fail-11_1_1,"Perhaps the name of Peak of Jianghu Escort Agency is not worthy of its name,\nBut it is also the hard work of generations of Elite Escort.\nThe dike of a thousand miles collapsed in a day,\nTiger Escort, who underestimated their own strength,\nRushed recklessly towards the overwhelming trend of the world.\nIn your eyes, this act of blocking a car with a mantis arm,\nThree parts pity, seven parts ridiculous...","อาจเป็นเพราะไม่คู่ควรกับชื่อเสียงของยอดสำนักคุ้มภัยในใต้หล้า\nแต่ก็เป็นผลจากความพยายามอย่างหนักของบรรพบุรุษผู้เก่งกล้ารุ่นแล้วรุ่นเล่า\nเขื่อนดินพันลี้พังทลายภายในวันเดียว\nสำนักคุ้มภัยพยัคฆา ที่ประมาทในพลังของตนเอง\nได้ฝืนกระแสโลกอย่างบ้าคลั่ง\nในสายตาของท่าน การกระทำเช่นนี้เปรียบเสมือนมดแดงขวางหน้ารถม้า\nสามส่วนเป็นความสงสาร เจ็ดส่วนเป็นความขบขัน..."
 fail-11_1_2,"The prestige of Tiger Escort, after all, fell into my Han Hongyu's hands...",ชื่อเสียงของสำนักคุ้มภัยพยัคฆา ในที่สุดก็ตกมาอยู่ในมือของข้า หาน หงหยู...
 fail-12_1_1,"The treasures of the world are as numerous as the sands of the Ganges, \ninteresting souls are one in a million, \nin the Night Auction Market where nothing is taboo, \nyou tell Shen Wuqi the only and last taboo, \nto obey you, \nor, \nto be erased by you...","ทรัพย์สมบัติในโลกนี้ที่มีมากมายดั่งเม็ดทรายในแม่น้ำคงคา\nแต่ดวงวิญญาณที่น่าสนใจนั้น มีเพียงหนึ่งในล้านดวง\nณ ""ตลาดประมูลราตรี"" สถานที่ที่ไร้ซึ่งข้อห้าม\nเจ้าบอกกับ ""เสินอู๋ฉี"" ถึงข้อห้ามข้อเดียวและเป็นข้อสุดท้าย\nยอมสยบต่อเจ้า\nหรือมิฉะนั้น\nจะถูกเจ้า ลบเลือนให้สูญหาย..."
@@ -1090,22 +1090,22 @@ part-4-5-6,"Alas, I just hope she won't play the zither in the middle of the nig
 part-4-5-7,"A few days later, you visited this house again and found that it was already empty.",เพียงไม่กี่วันให้หลัง ท่านมาเยือนเรือนหลังนี้อีกครั้ง และพบว่ามันว่างเปล่าแล้ว
 part-4-6-1,"Report to the sect leader, the midnight zither sound has disappeared.",รายงานให้เจ้าสำนักทราบว่า เสียงกู่ฉินในยามราตรีได้อันตรธานไปแล้ว
 part-4-6-2,"It seems that the person who is pretending to be a ghost has quieted down, so let's ignore this matter.",ดูเหมือนว่าผู้ที่แสร้งทำเป็นวิญญาณ ได้สงบลงแล้ว ดังนั้นข้าก็ไม่ต้องใส่ใจเรื่องนี้อีก
-part-5-0-1,"Master, La Tazhang, who has been out for several months, has returned, but now he..."
-part-5-0-2,What happened to him?
-part-5-0-3,"He is now sleeping on a stone at the foot of the mountain, and no matter how much we call him, he won't wake up."
-part-5-0-4,This La Tazhang... I'll send someone to invite him.
+part-5-0-1,"Master, La Tazhang, who has been out for several months, has returned, but now he...",อาจารย์ ลาทาจาง ที่ไม่อยู่หลายเดือนกลับมาแล้ว แต่ตอนนี้เขา...
+part-5-0-2,What happened to him?,เขาประสบเหตุใด จึงกลายเป็นเช่นนี้?
+part-5-0-3,"He is now sleeping on a stone at the foot of the mountain, and no matter how much we call him, he won't wake up.",ตอนนี้เขานอนหลับอยู่บนหินใต้เชิงเขา ไม่ว่าพวกเราจะเรียกเพียงใด เขาก็ไม่ยอมตื่นขึ้นมา!\
+part-5-0-4,This La Tazhang... I'll send someone to invite him.,ลาทาจางผู้นี้... ข้าจะส่งคนไปเชิญตัวเขามา!
 part-5_name,Adventurous Drunkard,ขี้เมาชอบผจญภัย
-part-5_overview1,"La Tazhang, who has been out for several months, has returned, but he has been wandering outside the city and not going up the mountain."
-part-5-1-1,"Finally found you, come up the mountain with me quickly!"
-part-5-1-2,"I'm not drunk, brother, let's drink more, drink more!"
-part-5-1-3,"He's dead drunk, why don't we carry him back?"
+part-5_overview1,"La Tazhang, who has been out for several months, has returned, but he has been wandering outside the city and not going up the mountain.",ลาทาจางที่จากไปหลายเดือน บัดนี้กลับมาแล้ว แต่กลับพเนจรอยู่ภายนอกเมือง ไม่ยอมขึ้นเขา!
+part-5-1-1,"Finally found you, come up the mountain with me quickly!",ในที่สุดก็พบเจ้าแล้ว รีบขึ้นเขากับข้าโดยไวเถิด!
+part-5-1-2,"I'm not drunk, brother, let's drink more, drink more!",ข้ามิได้เมาเลยพี่น้อง มาดื่มต่อเถิด ดื่มอีก! ดื่มอีก!
+part-5-1-3,"He's dead drunk, why don't we carry him back?",เขาเมามายจนสิ้นสติ เหตุใดพวกเราจึงไม่หามเขากลับไปเล่า?
 part-5-1-4,"What are you doing? Want to wrestle with me? Come on, no problem at all!",กำลังทำอะไรอยู่เนี่ย? อยากจะปล้ำกับข้าหรือไง? เข้ามาเลย ไม่เป็นไรหรอก!
-part-5_option1,Let's spend some money to take him to the restaurant for a drink?
-part-5_option2,Then we will risk our lives to wrestle with the Honorable!
-part-5-2-1,You took La Tazhang to a tavern in the city and let him drink to his heart's content.
-part-5-2-2,"When he was completely drunk and fell asleep, you helped him back. His body was surprisingly lighter than before."
-part-5-3-1,"Not bad! I, the Taoist priest, also want to stretch my muscles today!"
-part-5-4-1,"Not bad, not bad. I've been wandering outside for so long, I don't even know what's happening on the mountain now?"
+part-5_option1,Let's spend some money to take him to the restaurant for a drink?,เราลองใช้เงินสักหน่อย พาเขาไปดื่มที่โรงเตี๊ยมดีหรือไม่?
+part-5_option2,Then we will risk our lives to wrestle with the Honorable!,เช่นนั้นพวกเราก็จะต้องเสี่ยงชีวิตเข้าประลองกับท่านผู้ทรงเกียรติแล้ว!
+part-5-2-1,You took La Tazhang to a tavern in the city and let him drink to his heart's content.,เจ้าพาลาทาจางไปยังโรงเตี๊ยมในเมือง ปล่อยให้เขาดื่มด่ำตามใจปรารถนา!
+part-5-2-2,"When he was completely drunk and fell asleep, you helped him back. His body was surprisingly lighter than before.",เมื่อเขาเมามายจนสิ้นสติและหลับไป เจ้าจึงช่วยพาเขากลับ ร่างกายของเขากลับเบากว่าที่เคยอย่างน่าประหลาด!
+part-5-3-1,"Not bad! I, the Taoist priest, also want to stretch my muscles today!",ไม่เลวเลย! ข้าผู้เป็นปรมาจารย์เต๋า ก็อยากจะยืดเส้นยืดสายบ้างในวันนี้!
+part-5-4-1,"Not bad, not bad. I've been wandering outside for so long, I don't even know what's happening on the mountain now?",ไม่เลวเลย ไม่เลวเลย ข้าพเนจรอยู่ภายนอกมาเนิ่นนาน จนไม่รู้ว่าเกิดสิ่งใดขึ้นบนภูเขาแล้วตอนนี้?
 part-5-4-2,"Alright, I, the Taoist priest, am going home today!"
 part-5-5-1,"Boring, boring."
 part-5-5-2,"Stop bothering me, let me sleep a little longer."

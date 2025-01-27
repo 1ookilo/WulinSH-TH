@@ -130,15 +130,15 @@ M1600-5_1_1_4,What!? Is that true?,อะไรกัน!? โยมพูดจ
 M1600-5_1_2_1,"Yes, but don't worry, master. Thanks to this young hero {PlayerName}, who fought off the bandits, we all escaped.",ใช่แล้ว แต่ท่านอาจารย์โปรดอย่าได้กังวลใจไปเลย ขอนับถือน้ำใจและเมตตาของท่านจอมยุทธ {PlayerName} ที่ต่อกรกับโจรชั่ว พวกเราทุกคนจึงรอดมาได้
 M1600-5_1_2_2,"Haha, I was just lucky.",ฮ่าๆ ข้าแค่โชคดีเท่านั้นเอง
 M1600-5_1_2_3,I see... How did you {PlayerSurName} deal with those bandits?,เข้าใจแล้ว... ท่าน {PlayerSurName} จัดการกับพวกโจรเหล่านั้นได้อย่างไร?
-M1600-5_2_1_1,Those people would harm others if they were alive. I have already Total Annihilation them.
-M1600-5_2_1_2,"Amitabha... Although those bandits have committed heavy sins, there is a virtue of life in heaven. {PlayerSurName}, you have taken their lives, how are you different from them?"
-M1600-5_2_1_3,"Master, that's not how it went. The situation was urgent at the time, they were ruthless, and if I didn't fight for my life, I don't know how many people would have fallen into their hands."
-M1600-5_2_1_4,"All things in the world have their own lives, and there is no difference in killing. I advise you to be compassionate in the future and not to add more killings."
-M1600-5_2_1_5,"You are really stubborn. If as you said, you don't care about the evil people killing, and we who stand up for justice are adding killings, where is the justice in this world?"
-M1600-5_2_1_6,"Amitabha, I came here to persuade them to lay down their weapons and become a Buddha on the spot."
-M1600-5_2_1_7,"Easier said than done. If these bandits can become a Buddha as soon as they lay down their weapons, what about the innocent souls they have harmed?"
-M1600-5_2_2_1,Those people are extremely sinful. I sent them to the government.
-M1600-5_2_2_2,"Good, good, {PlayerSurName}, you really did a good thing."
+M1600-5_2_1_1,Those people would harm others if they were alive. I have already Total Annihilation them.,สวะพวกนี้ หากไว้ชีวิต ย่อมเป็นภัยต่อผู้อื่น ข้าจึงลงมือตัดรากถอนโคนให้สิ้นซาก!
+M1600-5_2_1_2,"Amitabha... Although those bandits have committed heavy sins, there is a virtue of life in heaven. {PlayerSurName}, you have taken their lives, how are you different from them?",อมิตาพุทธ... แม้เหล่าโจรจะก่อกรรมชั่วร้ายเพียงใด แต่ชีวิตย่อมมีค่าเสมอ {PlayerSurName} ท่านได้ดับลมหายใจของผู้อื่นไปแล้ว ท่านคิดหรือไม่ว่ากรรมอันหนักหน่วงนี้ จะส่งผลอย่างไรต่อจิตวิญญาณของท่าน?
+M1600-5_2_1_3,"Master, that's not how it went. The situation was urgent at the time, they were ruthless, and if I didn't fight for my life, I don't know how many people would have fallen into their hands.",พระอาจารย์ เหตุการณ์ขณะนั้นวิกฤตินัก พวกมันโหดเหี้ยมดุร้ายราวกับสัตว์ป่า หากข้ามิได้ต่อสู้เพื่อปกป้องตนเองและผู้อื่น พวกมันคงได้สังหารผู้บริสุทธิ์ไปมากมายแล้ว ผลลัพธ์คงเลวร้ายยิ่งกว่านี้
+M1600-5_2_1_4,"All things in the world have their own lives, and there is no difference in killing. I advise you to be compassionate in the future and not to add more killings.",สรรพสิ่งในโลกล้วนมีลมหายใจ ทุกชีวิตย่อมมีค่าเสมอ การปลิดชีพผู้อื่น ไม่ว่าจะเป็นผู้ใด ก็คือบาปกรรมทั้งสิ้น อาตมาขอเตือนเจ้าว่า จงระลึกถึงกรรมที่ได้ก่อไว้ และอย่าได้สร้างกรรมชั่วเพิ่มขึ้นอีก
+M1600-5_2_1_5,"You are really stubborn. If as you said, you don't care about the evil people killing, and we who stand up for justice are adding killings, where is the justice in this world?",ท่านพูดได้เช่นนั้นหรือ? หากท่านไม่แยแสว่าเหล่าโจรชั่วได้สร้างความเดือดร้อนให้แก่ชาวบ้านมากมาย แล้วพวกเราที่ยืนหยัดเพื่อความถูกต้องกลับต้องฆ่าคนเช่นนี้ แล้วคุณธรรมในยุทธภพนี้จะเหลืออะไร
+M1600-5_2_1_6,"Amitabha, I came here to persuade them to lay down their weapons and become a Buddha on the spot.",อมิตาพุทธ อาตมามาที่นี่เพื่อชี้แนะหนทางแห่งธรรมให้แก่พวกเขา ละทิ้งวิถีแห่งความรุนแรงและเข้าสู่หนทางแห่งสันติ
+M1600-5_2_1_7,"Easier said than done. If these bandits can become a Buddha as soon as they lay down their weapons, what about the innocent souls they have harmed?",พูดได้มักง่ายจริง ๆ! ถ้าโจรเหล่านี้เพียงแค่ปล่อยวางอาวุธก็สามารถหลุดพ้นจากกรรมที่ก่อไว้ได้ แล้ววิญญาณของผู้บริสุทธิ์ที่พวกมันสังหารไปนั้นจะได้รับความยุติธรรมอย่างไร?
+M1600-5_2_2_1,Those people are extremely sinful. I sent them to the government.,คนเหล่านั้นมีแต่กรรมชั่ว ข้าจะส่งพวกเขาไปให้ทางการ รับการลงโทษตามกฎหมาย
+M1600-5_2_2_2,"Good, good, {PlayerSurName}, you really did a good thing.","เห็นควร เห็นควร, {PlayerSurName}, เจ้าได้กระทำสิ่งที่ถูกต้องแล้ว"
 M1600-5_2_2_3,"Master, did you just say you want to persuade them to lay down their weapons?"
 M1600-5_2_2_4,"Yes, as the saying goes, ""Lay down the butcher knife and become a Buddha on the spot"". I hope they can reform and do something beneficial to the world."
 M1600-5_2_2_5,"Lay down the butcher knife and become a Buddha on the spot... There is no such good thing in the world. If you ask me, those Mountain Bandits have done so many evils, they should pay the price."
@@ -483,11 +483,11 @@ M1100-10_0_20_2_10,"But master, you also saw, those righteous martial artists al
 M1100-10_0_20_2_11,"In a big forest, there are all kinds of birds, a few mouse droppings are normal."
 M1100-10_0_20_2_12,"But now you have me as your master, you calm down, practice well, and then we two will travel the martial world together, don't worry about their righteous and evil affairs!"
 M1100-10_0_20_2_13,({E Qigai said he would wait for me at the Bandit Chief Stronghold for a day. If I change my mind... I should go find him at the Bandit Chief Stronghold.})
-M1100-10_0_20_3_1,(What should I ask?)
-M1100-10_0_option4_1,Ask about the origin of the Nine Factions Sect.
-M1100-10_0_option4_2,Ask what can be learned from the Nine Factions Sect.
-M1100-10_0_option4_3,"Agree to join the Nine Factions Sect<color=#c44b0e>[Join the Sect, enter the DLC exclusive route, some companion and power events will be closed]</color>"
-M1100-10_0_option4_4,Don't want to join for now.
+M1100-10_0_20_3_1,(What should I ask?),(ข้าควรถามอะไรดี?)
+M1100-10_0_option4_1,Ask about the origin of the Nine Factions Sect.,ถามเกี่ยวกับที่มาของนิกายเก้าฝ่าย
+M1100-10_0_option4_2,Ask what can be learned from the Nine Factions Sect.,สอบถามว่านิกายเก้าฝ่ายสอนอะไรได้บ้าง
+M1100-10_0_option4_3,"Agree to join the Nine Factions Sect<color=#c44b0e>[Join the Sect, enter the DLC exclusive route, some companion and power events will be closed]</color>","ตกลงเข้าร่วมนิกายเก้าฝ่าย <color=#c44b0e>[เข้าสู่เนื้อเรื่องพิเศษของ DLC, บางเหตุการณ์และความสัมพันธ์กับสหายบางคนจะสิ้นสุดลง]</color>"
+M1100-10_0_option4_4,Don't want to join for now.,ยังไม่อยากเข้าร่วมตอนนี้
 M1100-10_0_21_1_1,"I can't say exactly who created the Nine Factions Sect, but I know it was originally intended to provide a refuge for people like us who are oppressed and suffer from injustice."
 M1100-10_0_21_1_2,"Therefore, everyone you see in the Nine Factions Sect is a victim of this hypocritical ""righteous path""."
 M1100-10_0_21_1_3,"The current sect leader, Tie Mianren, is no exception. He was persecuted, his family was destroyed, and he himself wears an iron mask, his true identity unknown to anyone."
@@ -498,8 +498,8 @@ M1100-10_0_21_2_2,"As for me, I am good at using a stick. If you want to learn, 
 M1100-10_0_21_2_3,"In addition, those so-called righteous people despise stealth skills, such as <color=#c44b0e>Steal</color>, <color=#c44b0e>Immobilize</color>, <color=#c44b0e>Poison</color> and <color=#c44b0e>Ambush</color>, can also be learned in the Nine Factions Sect."
 M1100-10_0_21_2_4,"Sect leader Tie Mianren has another unique skill. If he takes a liking to you, he might give you some pointers."
 M1100-10_0_21_3_1,"Then you think about it carefully. I will only wait for you here for one day. After one day, I will not accompany you."
-M1100-10_0_21_4_1,"Good, good! I knew you would agree!\nFollow me, I will introduce you to the sect leader!"
-M1100-10_0_21_4_2,"The incident at the Bandit Chief Stronghold made you see through the hypocrisy of the so-called martial arts righteous path.\nYou followed E Qigai and boarded the horse carriage to the Nameless Region without looking back.\nYou are determined to tear off the hypocritical faces of those ""righteous people""!"
+M1100-10_0_21_4_1,"Good, good! I knew you would agree!\nFollow me, I will introduce you to the sect leader!","ดี ดี! ข้านึกอยู่แล้วว่าเจ้าจะต้องตอบตกลง!\nตามข้ามา ข้าจะพาเจ้าไปแนะนำตัวกับท่านประมุข!"
+M1100-10_0_21_4_2,"The incident at the Bandit Chief Stronghold made you see through the hypocrisy of the so-called martial arts righteous path.\nYou followed E Qigai and boarded the horse carriage to the Nameless Region without looking back.\nYou are determined to tear off the hypocritical faces of those ""righteous people""!","เหตุการณ์ที่ค่ายหัวหน้าโจร ทำให้เจ้ามองเห็นความจอมปลอมของ 'ฝ่ายธรรมะ'\nเจ้าติดตามเอ้อร์ฉีไก้ ขึ้นรถม้าที่ออกจากพื้นที่ไร้นามนี้ โดยไม่เหลียวหลังกลับ\nเจ้าตัดสินใจแน่วแน่ ที่จะฉีกหน้าพวก 'ผู้ดี'จอมปลอมพวกนั้น!"
 M2170-2_0_1,"What are you doing here again, kid? Are you still interested in the Nine Factions Sect?",ไอ้หนู! เจ้ากลับมาทำอะไรที่นี่อีก? หรือว่ายังสนใจนิกายเก้าฝ่ายอยู่?
 M2170-2_0_2,"Master, I just thought there are still a lot of looted treasures in the Bandit Chief Stronghold. It's a pity to leave them here~",ท่านอาจารย์ ข้าก็แค่คิดว่าที่ค่ายหัวหน้าโจรมีทรัพย์สมบัติที่ปล้นมาอยู่ไม่น้อย ทิ้งไว้ที่นั่นก็น่าเสียดายเปล่า~
 M2170-2_0_3,"Hmph, as long as you remember the master's warning, don't go near that E Qigai.",ฮึ จำคำเตือนของข้าไว้ อย่าไปยุ่งกับไอ้ขอทานชั่วนั่นก็พอ
@@ -520,7 +520,7 @@ M2170-2_3_3,"In addition, the stealth skills despised by those so-called righteo
 M2170-2_3_4,"Sect leader Tie Mianren has another unique skill. If he takes a liking to you, he might give you some pointers.",ประมุขหน้ากากเหล็กเองก็มีสุดยอดวิชาอยู่ หากเขาเล็งเห็นความสามารถของเจ้า บางทีเขาอาจเมตตาชี้แนะเจ้าสักเล็กน้อย
 M2170-2_4_1,"Then you think about it carefully. I will only wait for you here for one day. After one day, I will not accompany you.",เจ้าคิดดูให้ดีเถิด แต่ข้าจะรอเจ้าแค่วันเดียวเท่านั้น หลังพ้นวันไป ข้าจะไม่รอเจ้าอีกต่อไปแล้ว
 M2170-2_5_1,"Good, good! I knew you would agree!\nFollow me, I will introduce you to the sect leader!","ดี ดีจริงๆ! ข้ารู้ว่าเจ้าต้องตอบตกลงเป็นแน่!\nตามข้ามา ข้าจะพาเจ้าไปพบกับท่านประมุข!"
-M2170-2_5_2,"The incident at the Bandit Chief Stronghold made you see through the hypocrisy of the so-called martial arts righteous path.\nYou followed E Qigai and boarded the horse carriage to the Nameless Region without looking back.\nYou are determined to tear off the hypocritical faces of those ""righteous people""!","เหตุการณ์ที่ค่ายหัวหน้าโจร ทำให้เจ้ามองเห็นความจอมปลอมของ 'ฝ่ายธรรมะ'\nเจ้าติดตามขอทานชั่ว เอ้อร์ฉีไก้ ขึ้นรถม้าที่ออกจากพื้นที่ไร้นามนี้ โดยไม่เหลียวหลังกลับ\nเจ้าตัดสินใจแน่วแน่ ที่จะฉีกหน้าพวก 'คนดี' จอมปลอมพวกนั้น!"
+M2170-2_5_2,"The incident at the Bandit Chief Stronghold made you see through the hypocrisy of the so-called martial arts righteous path.\nYou followed E Qigai and boarded the horse carriage to the Nameless Region without looking back.\nYou are determined to tear off the hypocritical faces of those ""righteous people""!","เหตุการณ์ที่ค่ายหัวหน้าโจร ทำให้เจ้ามองเห็นความจอมปลอมของ 'ฝ่ายธรรมะ'\nเจ้าติดตามเอ้อร์ฉีไก้ ขึ้นรถม้าที่ออกจากพื้นที่ไร้นามนี้ โดยไม่เหลียวหลังกลับ\nเจ้าตัดสินใจแน่วแน่ ที่จะฉีกหน้าพวก 'ผู้ดี'จอมปลอมพวกนั้น!"
 M2170-2_6_1,"Brat, have you completely disregarded my admonitions? \nIf you know what's good for you, run away with me!","ไอ้หนู! เจ้าโยนคำเตือนของข้าออกไปหมดแล้วหรอ?\nถ้าเจ้ายังรู้ผิดชอบชั่วดี ก็กลับไปกับข้าเดี๋ยวนี้!"
 M2170-2_6_2,"You old man, you're really making a fuss. Ask yourself, what can you do with your little skill, even if you give it all to this kid? You're just clinging to him because you want him to take care of you in your old age!",ตาแก่ เจ้าเอาแต่รั้นคิดไปเอง เจ้าเองก็รู้อยู่แก่ใจไม่ใช่หรือ? ต่อให้เจ้าถ่ายทอดวิชาทั้งหมดให้เจ้าเด็กนี่ไป อาการของเจ้าก็ไม่มีอะไรดีขึ้น เจ้าก็แค่อยากให้เขามาดูแลเจ้าตอนแก่ใช่หรือไม่?
 M2170-2_6_3,"For such petty desires, you're ruining this kid's bright future. You old man, you have a cruel heart!",เพื่อความปรารถนาเล็กๆ น้อยๆ ของเจ้า เจ้ากลับทำลายอนาคตอันสดใสของเจ้าเด็กนี่ ตาแก่เจ้าช่างจิตใจโหดเหี้ยมเสียจริงๆ!

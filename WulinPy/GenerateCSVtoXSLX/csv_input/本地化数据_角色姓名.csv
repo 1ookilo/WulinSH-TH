@@ -601,8 +601,8 @@ CharaName_爆裂拳,Explosive Fist,ไอ้หนุ่มหมัดระเ
 CharaName_百裂手,Hundred Crack Hand,หมัดทะลวงฟ้า
 CharaName_释法寺·沙弥,Buddhist Temple-Novice,สามเณรอารามซื่อฟา
 CharaName_九流门·弟子,Nine Factions Sect·Disciple,ศิษย์นิกายเก้าฝ่าย
-CharaName_神捕门·捕快,Crime Investigation Bureau·Constable,มือปราบสำนักสืบสวน
-CharaName_神捕门·捕头,Crime Investigation Bureau·Chief Constable,หัวหน้ามือปราบสำนักสืบสวน
+CharaName_神捕门·捕快,Crime Investigation Bureau·Constable,มือปราบสำนักเทพมือปราบ
+CharaName_神捕门·捕头,Crime Investigation Bureau·Chief Constable,หัวหน้ามือปราบสำนักเทพมือปราบ
 CharaName_燕子窝·弟子,Swallow Nest Disciple,ศิษย์รังนกนางแอ่น
 CharaName_虎威镖局·镖头,Tiger Escort-Escort Captain,สำนักคุ้มภัยพยัคฆา·หัวหน้าผู้คุ้มภัย
 CharaName_琅琊剑阁·练功弟子,Langya Sword Pavilion·Training Disciple,ศาลากระบี่หลางหยา : ศิษย์ฝึกหัด
@@ -857,7 +857,7 @@ CharaTitle_凝香馆,Aroma House,ร้านเครื่องหอม
 CharaTitle_太白楼,Wine God Tower,หอคอยเทพสุรา
 CharaTitle_云林寺,Yunlin Temple,วัดป่าเมฆา
 CharaTitle_康王府,Duke Kang's manor,ตำหนักอ๋องคัง
-CharaTitle_群芳馆,Maiden House,ตำหนักพิสุทธิ์
+CharaTitle_群芳馆,Maiden House,หอหมู่บุปผา
 CharaTitle_聚财坊,Relic House,หอสมบัติ
 CharaTitle_平安镖局,Safeguard Escort,สำนักคุ้มภัยสันติสุข
 CharaTitle_斗技场,Underground Arena,ลานประลองใต้ดิน
@@ -896,8 +896,8 @@ CharaTitle_道玄宗,Taoist Sect,สำนักเต๋า
 CharaTitle_儒圣馆,Confucius Temple,วัดขงจื้อ
 CharaTitle_九流门,Nine Factions Sect,นิกายเก้าฝ่าย
 CharaTitle_妙音坊,Melody House,ตำหนักบทเพลง
-CharaTitle_神捕门,Crime Investigation Bureau,สำนักสืบสวน
-CharaTitle_圣火宗,Divine Flame Sect ,นิกายไฟศักดิ์สิทธิ์
+CharaTitle_神捕门,Crime Investigation Bureau,สำนักเทพมือปราบ
+CharaTitle_圣火宗,Divine Flame Sect ,นิกายเพลิงศักดิ์สิทธิ์
 CharaTitle_皇城司,Imperial City Office,สำนักพระราชวัง
 CharaTitle_燕云铁军,Yan Yun Iron Army,กองทัพเหล็กเยี่ยนหยุน
 CharaTitle_叶家军,Ye Family Battalion,กองพันตระกูลเย่
