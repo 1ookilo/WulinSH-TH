@@ -389,35 +389,35 @@ R10136-8_1_9,"When you can face me alone with <color=#097a76>sixty percent</colo
 R10136-8_1_10,Deal!,ตกลงตามนี้!
 R10136-8_1_11,"{PlayerName}, let's go!",{PlayerName} พวกเราไปกันเถอะ!
 R10136-8_1_12,"Miss Ji, in my opinion, your cultivation level needs to be at least <color=#097a76>level 50</color> to barely withstand Duke Qi's sixty percent strength.",แม่นางจี้ ในความเห็นข้า ท่านยังต้องเพิ่มความแข็งแกร่งให้ได้อย่างน้อยถึงระดับ <color=#097a76>50</color> ถึงจะพอสามารถรับมือกับพลังหกส่วนของอ๋องฉีได้
-R10136-8_1_13,"And it's not just about cultivation, you also need stronger skills and equipment to help you increase your chances of winning."
-R10136-8_1_14,"Stronger skills, equipment, easier said than done."
-R10136-8_1_15,"Everything depends on human effort, even the most formidable masters started from scratch."
-R10136-8_1_16,"Yes, I can do it. For the blood feud of the Ji family, I can endure any hardship."
-R10136-8_2_1,"{PlayerName}, why didn't you consult me before you decided to assassinate Duke Qi on your own?"
-R10136-8_2_2,"I'm helping you. If you wait until you have the strength to take revenge, it will be too late."
-R10136-8_2_3,"Duke Qi is dead, and the blood feud of the Ji family has been avenged. Miss Ji, you don't need to worry anymore."
-R10136-8_2_4,"I want to know the truth. I don't know the hidden facts behind this, and whether Duke Qi is the real mastermind!"
-R10136-8_2_5,How can we comfort the spirits of the Ji family in heaven if we can't bring the real enemy to justice!
+R10136-8_1_13,"And it's not just about cultivation, you also need stronger skills and equipment to help you increase your chances of winning.",ยิ่งไปกว่านั้น ไม่ใช่แค่พลังฝีมือ แต่ยังต้องมีวิชาล้ำเลิศและอาวุธช่วยเสริม ถึงจะเพิ่มโอกาสชนะได้มากขึ้น
+R10136-8_1_14,"Stronger skills, equipment, easier said than done.",วิชาล้ำเลิศและอาวุธยอดเยี่ยมนั้น หาได้ง่ายที่ไหนกัน
+R10136-8_1_15,"Everything depends on human effort, even the most formidable masters started from scratch.",เรื่องราวอยู่ที่คนจะกระทำ บรรดายอดฝีมือทั้งหลายล้วนเริ่มต้นจากศูนย์ไม่ใช่หรือ
+R10136-8_1_16,"Yes, I can do it. For the blood feud of the Ji family, I can endure any hardship.",อืม ข้าต้องทำได้แน่! เพื่อแก้แค้นแทนตระกูลจี้ ไม่ว่าความทุกข์ใดข้าก็พร้อมอดทน
+R10136-8_2_1,"{PlayerName}, why didn't you consult me before you decided to assassinate Duke Qi on your own?",{PlayerName} เจ้าไยไม่ถามข้าก่อน กลับตัดสินใจลอบสังหารท่านอ๋องฉีตามอำเภอใจ!
+R10136-8_2_2,"I'm helping you. If you wait until you have the strength to take revenge, it will be too late.",ข้าก็แค่ช่วยท่าน หากรอจนท่านมีฝีมือแล้วค่อยล้างแค้น คงต้องรอไปอีกกี่ชาติกัน
+R10136-8_2_3,"Duke Qi is dead, and the blood feud of the Ji family has been avenged. Miss Ji, you don't need to worry anymore.",ท่านอ๋องฉีตายแล้ว เลือดแค้นของตระกูลจี้ก็ถือว่าชำระแล้ว มิใช่เรื่องที่เจ้าต้องติดค้างในใจอีกต่อไป
+R10136-8_2_4,"I want to know the truth. I don't know the hidden facts behind this, and whether Duke Qi is the real mastermind!",แต่ข้าอยากรู้ความจริง ข้ายังไม่ทราบเบื้องหลังของเรื่องราวนี้ และท่านอ๋องฉีคือผู้อยู่เบื้องหลังตัวจริงหรือไม่!
+R10136-8_2_5,How can we comfort the spirits of the Ji family in heaven if we can't bring the real enemy to justice!,ถ้าไม่สามารถลงโทษศัตรูตัวจริงได้ จะปลอบวิญญาณสิบกว่าชีวิตของตระกูลจี้ได้อย่างไร!
 R10136-8_2_6,……,……
-R10136-8_2_7,Puff-- (A mouthful of fresh blood spews out)
+R10136-8_2_7,Puff-- (A mouthful of fresh blood spews out),เฮอะ—— (โลหิตพุ่งออกจากปาก)
 R10136-8_2_8,"Miss Ji, what's wrong with you?",แม่นางจี้ ท่านเป็นอะไรไป?!
 R10136-8_2_9,"The elder sister who taught me the Ice Heart Technique told me that my congenital heart meridian was damaged. I can't have too much emotional ups and downs in my life, otherwise, even the gods can't save me when my heart meridian is out of control.","พี่สาวที่ถ่ายทอด ""วิชาใจเยือกแข็ง"" ให้ข้าเคยบอกว่า หัวใจของข้ามีตำหนิแต่กำเนิด ข้าจะไม่อาจปล่อยให้อารมณ์พลุ่งพล่านเกินควร ไม่เช่นนั้นจะควบคุมพลังไม่ได้ แม้แต่เซียนก็ยากช่วยได้"
-R10136-8_2_10,"You're too agitated. Don't think too much, calm down first."
-R10136-8_2_11,"{PlayerName}, I'm tired, I want to go back to Ji Residence. Don't bother me anymore."
-R10136-8_2_12,It seems I've messed things up...
-R10136-8_3_1,"Miss Ji, your cultivation is still so shallow, this king really has no interest in fighting with you."
-R10136-8_4_1,"Miss Ji, are you ready?"
+R10136-8_2_10,"You're too agitated. Don't think too much, calm down first.",ท่านคิดมากเกินไปแล้ว อย่าพึ่งคิดฟุ้งซ่าน ตั้งสติให้ดีเสียก่อน
+R10136-8_2_11,"{PlayerName}, I'm tired, I want to go back to Ji Residence. Don't bother me anymore.",{PlayerName} ข้ารู้สึกเหนื่อยเหลือเกิน ข้าจะกลับคฤหาสน์ตระกูลจี้ เจ้าจงอย่ามารบกวนข้าอีก
+R10136-8_2_12,It seems I've messed things up...,ดูเหมือนข้าจะทำเรื่องพังเสียแล้ว…
+R10136-8_3_1,"Miss Ji, your cultivation is still so shallow, this king really has no interest in fighting with you.",แม่นางจี้ ฝีมือของเจ้ายังตื้นเขินนัก ข้าไม่มีอารมณ์จะประมือกับเจ้า
+R10136-8_4_1,"Miss Ji, are you ready?",แม่นางจี้ เจ้าพร้อมแล้วหรือยัง?
 R10136-8_4_2,……,……
-R10136-8_5_1,"This king has plenty of time, as long as you are willing, this king is ready to accompany you at any time."
-R10136-8_6_1,"Miss Ji, why do you want to make things difficult for yourself at such a young age?"
-R10136-8_6_2,"The spirits of the Ji family know, I have no reason to escape!"
-R10136-8_6_3,"You have your own difficulties, and this king is no exception."
-R10136-8_6_4,"Come on, today, at this place, at this time, I hope to settle our grudges."
+R10136-8_5_1,"This king has plenty of time, as long as you are willing, this king is ready to accompany you at any time.",เวลาของข้ามีเหลือเฟือ ขอเพียงเจ้าต้องการ ข้ายินดีรับมือได้ทุกเมื่อ
+R10136-8_6_1,"Miss Ji, why do you want to make things difficult for yourself at such a young age?",แม่นางจี้ เจ้ายังเยาว์วัยนัก เหตุใดจึงต้องไปหาความลำบากมาใส่ตัวเองเช่นนี้?
+R10136-8_6_2,"The spirits of the Ji family know, I have no reason to escape!",วิญญาณสิบกว่าชีวิตของตระกูลจี้ในปรโลก ข้าไม่มีเหตุผลจะหลีกหนีอีกต่อไป!
+R10136-8_6_3,"You have your own difficulties, and this king is no exception.",เจ้ามีเหตุจำเป็นที่ต้องทนทุกข์ แล้วข้าล่ะ จะไม่มีบ้างเลยหรือ?
+R10136-8_6_4,"Come on, today, at this place, at this time, I hope to settle our grudges.",มาเถอะ วันนี้ ณ เวลานี้ ขอให้เรื่องราวจบสิ้นลงเสียที
 R10136-8_7_1,"I, lost...",ข้า… แพ้แล้ว…
 R10136-8_7_2,"You didn't lose to this king, you lost to yourself.",เจ้ามิได้พ่ายแพ้ให้แก่ข้า แต่เจ้าแพ้ให้กับตัวเจ้าเอง
 R10136-8_7_3,"This king will wait for you here, to see when you can break through yourself and give this king a reason to lose to you.",ข้าจะรอเจ้าอยู่ที่นี่ ดูว่าเมื่อใดเจ้าจะเอาชนะตัวเองได้ และมอบเหตุผลให้ข้ายอมพ่ายแพ้ต่อเจ้า
-R10136-8_8_1,"Good, the blood of the Ji family is indeed inherited."
-R10136-8_8_2,Please keep your promise and tell me the reason for the extermination of the Ji family.
+R10136-8_8_1,"Good, the blood of the Ji family is indeed inherited.",ไม่เลว สายเลือดตระกูลจี้ช่างสืบทอดกันได้ดีจริงๆ
+R10136-8_8_2,Please keep your promise and tell me the reason for the extermination of the Ji family.,ท่านโปรดรักษาคำมั่น และบอกข้ามาถึงสาเหตุในการกวาดล้างตระกูลจี้
 R10136-8_8_3,The so-called extermination of the Ji family does indeed have something to do with this king...
 R10136-8_8_4,"Young people are impetuous, how can they achieve anything in the future!"
 R10136-8_8_5,"Since you admit that the extermination of the Ji family has something to do with you, then you are the enemy of the Ji family, why should we waste our words with you!"
