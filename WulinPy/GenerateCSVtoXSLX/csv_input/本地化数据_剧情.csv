@@ -612,7 +612,7 @@
 10203_3_1,Welcome to come again!,ขอบคุณที่อุดหนุนขอรับ ไว้มาใหม่นะ!
 10203_3_2,...I don't want to either!,...ข้าก็ไม่ต้องการเช่นกัน!
 10203_4_1,Hmm...as you wish!,เฮอะ... ตามใจเจ้าเถอะ!
-10300_1_1,Is this gentleman going to stay in the hotel?,ท่านจอมยุทธจะพักที่โรงเตี้ยมหรือไม่? 
+10300_1_1,Is this gentleman going to stay in the hotel?,นายท่านต้องการพักที่โรงเตี๊ยมหรือไม่? 
 10300_10_1,"It will cost you 200 Wen, then I won't disturb your rest.",จ่ายเงินมา 200 อีแปะ แล้วข้าจะไม่รบกวนการพักผ่อนของท่าน
 10300_2_1,"Get away, we don't welcome guests like you!",ไสหัวไป ! ข้าไม่รับลูกค้าเช่นเจ้า !
 10300_3_1,"Hey, kid! No going upstairs without paying!",เฮ้ ไอ้หนู! จะขึ้นไปชั้นบนต้องจ่ายเงินก่อนนะ!
@@ -623,7 +623,7 @@
 10300_7_2,"If you wish to continue using the room in this inn, you can pay another 200 Wen now and use it for another six shichen.",หากท่านอยากใช้ห้องนี้ต่อ ท่านสามารถจ่าย 200 อีแปะเพื่อใช้ได้อีก 6 ชั่วยาม
 10300_8_1,"Alright, let's go downstairs so the waiter can clean the room.",งั้นเชิญลงไปข้างล่างขอรับ เสี่ยวเอ้อจะได้มาทำความสะอาดห้องได้
 10300_9_1,"Hmph! I knew you were no good, I'm glad I reported you!","ฮึ่ม ข้ารู้อยู่แล้วว่าเจ้าไม่น่าจะเป็นคนดี, ดีนะที่ข้าแจ้งจับเจ้าไปแล้ว!"
-10301_1_1,Is this gentleman going to stay in the hotel?,ท่านจอมยุทธจะพักที่โรงเตี้ยมหรือไม่? 
+10301_1_1,Is this gentleman going to stay in the hotel?,นายท่านต้องการพักที่โรงเตี๊ยมหรือไม่? 
 10301_10_1,"It will cost you 200 Wen, then I won't disturb your rest.",จ่ายเงินมา 200 อีแปะ แล้วข้าจะไม่รบกวนการพักผ่อนของท่าน
 10301_2_1,"Get away, we don't welcome guests like you!",ไสหัวไป ! ข้าไม่รับลูกค้าเช่นเจ้า !
 10301_3_1,"Hey, kid! No going upstairs without paying!",เฮ้ ไอ้หนู! จะขึ้นไปชั้นบนต้องจ่ายเงินก่อนนะ!
@@ -634,7 +634,7 @@
 10301_7_2,"If you wish to continue using the room in this inn, you can pay another 200 Wen now and use it for another six shichen.",หากท่านอยากใช้ห้องนี้ต่อ ท่านสามารถจ่าย 200 อีแปะเพื่อใช้ได้อีก 6 ชั่วยาม
 10301_8_1,"Alright, let's go downstairs so the waiter can clean the room.",งั้นเชิญลงไปข้างล่างขอรับ เสี่ยวเอ้อจะได้มาทำความสะอาดห้องได้
 10301_9_1,"Hmph! I knew you were no good, I'm glad I reported you!","ฮึ่ม ข้ารู้อยู่แล้วว่าเจ้าไม่น่าจะเป็นคนดี, ดีนะที่ข้าแจ้งจับเจ้าไปแล้ว!"
-10302_1_1,Is this gentleman going to stay in the hotel?,ท่านจอมยุทธจะพักที่โรงเตี้ยมหรือไม่? 
+10302_1_1,Is this gentleman going to stay in the hotel?,นายท่านต้องการพักที่โรงเตี๊ยมหรือไม่? 
 10302_10_1,"It will cost you 200 Wen, then I won't disturb your rest.",จ่ายเงินมา 200 อีแปะ แล้วข้าจะไม่รบกวนการพักผ่อนของท่าน
 10302_2_1,"Get away, we don't welcome guests like you!",ไสหัวไป ! ข้าไม่รับลูกค้าเช่นเจ้า !
 10302_3_1,"Hey, kid! No going upstairs without paying!",เฮ้ ไอ้หนู! จะขึ้นไปชั้นบนต้องจ่ายเงินก่อนนะ!
@@ -2185,11 +2185,11 @@ M20304-1_18_1,"The criminal {PlayerName} has repeatedly committed violent acts i
 M20304-1_19_1,Isn't this {PlayerName}? You've been reported!,นี่ไม่ใช่{PlayerName} หรอกหรือ เจ้าถูกฟ้องแล้ว!
 M20304-1_19_2,Can't you behave yourself!,ทำไมถึงอยู่ไม่สุขได้สักหน่อย!
 M20304-1_19_3,"Let's go, let's go!",ไป ไปเลย!
-M20302_1_1,Is this gentleman going to stay in the hotel?,ท่านจอมยุทธจะพักที่โรงเตี้ยมหรือไม่? 
+M20302_1_1,Is this gentleman going to stay in the hotel?,นายท่านต้องการพักที่โรงเตี๊ยมหรือไม่? 
 M20302_2_1,"Get away, we don't welcome guests like you!",ไสหัวไป! ข้าไม่รับลูกค้าเช่นเจ้า!
 M20302_3_1,"Hey, kid! No going upstairs without paying!",เฮ้ ไอ้หนู! จะขึ้นไปชั้นบนต้องจ่ายเงินก่อนนะ!
 M20302_4_1,"Something bad happened up there, I won't go up.",มีบางอย่างไม่ดีเกิดขึ้นบนนั้น ข้าไม่ควรขึ้นไป
-M20302_5_1,"It will cost you 200 Wen!\nYou can use any room on the second floor of our shop within six shichen.","ค่าพักแรม 200 อีแปะ!\nเจ้าสามารถใช้ห้องพักบนชั้นสองได้เป็นเวลา 6 ชั่วยาม"
+M20302_5_1,"It will cost you 200 Wen!\nYou can use any room on the second floor of our shop within six shichen.","ค่าพักแรม 200 อีแปะ!\nท่านสามารถใช้ห้องพักบนชั้นสองได้เป็นเวลา 6 ชั่วยาม"
 M20302_6_1,"Aren't you going to rest, sir? Watch the time!",ท่านยังไม่ไปพักผ่อนอีกหรือ? ระวังหมดเวลานะท่าน!
 M20302_7_1,"Young master, you seem too tired and overslept!",นายท่าน ดูเหมือนท่านจะเหนื่อยจนหลับเลยเวลาไปแล้ว!
 M20302_7_2,"If you wish to continue using the room in this inn, you can pay another 200 Wen now and use it for another six shichen.",หากเจ้าอยากใช้ห้องนี้ต่อ เจ้าสามารถจ่าย 200 อีแปะเพื่อใช้ได้อีก 6 ชั่วยาม
