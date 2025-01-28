@@ -149,31 +149,31 @@ M1600-5_2_3_1,"I believe they have learned their lesson and will not dare to do 
 M1600-5_2_3_2,"Good, good, this is a great act of kindness, {PlayerSurName}, you really have immeasurable merit and a lot of Buddha nature.",สาธุ สาธุ เจ้ามีจิตใจที่เปี่ยมด้วยเมตตาธรรม {PlayerSurName} การกระทำของเจ้าแสดงให้เห็นว่าเจ้าเป็นผู้มีธรรมะในจิตใจ
 M1600-5_2_3_3,"I think they shouldn't be let go easily. Those bandits are full of evil, how can they stop?",ข้าไม่เห็นควรที่จะปล่อยพวกมันไป พวกมันเป็นสัตว์ร้ายที่ไม่มีหัวใจ พวกมันจะไม่หยุดทำร้ายผู้คนจนกว่าจะถูกกำจัด
 M1600-5_2_3_4,"Amitabha, there is a virtue of life in heaven. If they can lay down their weapons, it would be a great thing for the world.",อมิตาพุทธ ทุกชีวิตล้วนมีค่า การที่พวกเขาสามารถละทิ้งความรุนแรงได้ ยุทธภพนี้จะได้กลับมามีสันติสุข
-M1600-5_2_3_5,What does the master think should be done with those resentful spirits under their control?
-M1600-5_2_4_1,I let them go after they paid the ransom.
-M1600-5_2_4_2,"Alas... Wealth is but an external possession, why do you, {PlayerSurName}, value it so much?"
-M1600-5_2_4_3,"Master, you may not know, in this world, money can get you anywhere, without it, you can hardly move. We who wander the world cannot be without such a thing."
-M1600-5_2_4_4,"Besides, they have committed countless evil deeds. I gave them a chance to use the ill-gotten wealth to buy their lives. What's wrong with that?"
-M1600-5_2_4_5,"Gold and wealth, you can't take it with you when you're born or when you die. It's just like dung, how can it be compared to a human life?"
-M1600-5_2_4_6,"So, according to the master, I should execute them on the spot?"
-M1600-5_2_4_7,"No, all lives are precious in the eyes of heaven. How can you take someone's life at will?"
-M1600-5_2_4_8,"This is not allowed, that is not allowed, then according to the master, what should I do?"
-M1600-5_3_1_1,"This... Amitabha, I am still a novice in the study of Buddhism, I cannot answer your question. After this incident, I will return to the temple to study hard. Thank you for your guidance."
-M1600-5_3_1_2,"Alas, I didn't expect to be lectured after dealing with the Mountain Bandit."
-M1600-5_3_1_3,"Some of these Shifa Temple monks are like this, they don't partake in worldly affairs, they meditate all day, but when they open their mouths, they teach people how to do things... "
-M1600-5_3_1_4,"From your tone, it seems you don't agree with the master's views?"
-M1600-5_3_1_5,"Of course, if the evil people in the world could easily repent, the world would have been peaceful long ago. But in this world... what's the use of talking about these things... "
-M1600-5_4_1_1,"I, being humble, taught them a lesson and persuaded them to leave."
-M1600-5_4_1_2,"Good, good, this is a great act of kindness. You truly have immeasurable merit and a hint of Buddha nature."
-M1600-5_4_1_3,"I think they were reckless and violent, letting them go like this is too easy for them!"
+M1600-5_2_3_5,What does the master think should be done with those resentful spirits under their control?,พระอาจารย์ ท่านคิดว่าควรจัดการกับวิญญาณอาฆาตที่อยู่ภายใต้การควบคุมของพวกมันอย่างไร?
+M1600-5_2_4_1,I let them go after they paid the ransom.,อาตมาจะปล่อยพวกเขาไป หลังจากที่พวกเขาได้สร้างบุญกุศลแล้ว
+M1600-5_2_4_2,"Alas... Wealth is but an external possession, why do you, {PlayerSurName}, value it so much?",อนิจจา... ทรัพย์สินเงินทองล้วนเป็นเพียงสมบัติภายนอกกาย ไยท่าน {PlayerSurName} จึงให้ความสำคัญกับมันนักเล่า?
+M1600-5_2_4_3,"Master, you may not know, in this world, money can get you anywhere, without it, you can hardly move. We who wander the world cannot be without such a thing.","พระอาจารย์ ท่านอาจไม่รู้, ในยุทธภพนี้ เงินทองพาท่านไปได้ทุกหนแห่ง หากปราศจากมัน ย่อมยากที่จะก้าวเดิน พวกเราผู้ท่องยุทธภพไม่อาจขาดสิ่งนี้ได้"
+M1600-5_2_4_4,"Besides, they have committed countless evil deeds. I gave them a chance to use the ill-gotten wealth to buy their lives. What's wrong with that?",อีกอย่าง พวกมันได้ก่อกรรมทำชั่วมานับไม่ถ้วน ข้าเพียงให้โอกาสพวกมันใช้ทรัพย์สินที่ได้มาอย่างอยุติธรรมซื้อชีวิตตนเอง มันผิดตรงไหนกัน?
+M1600-5_2_4_5,"Gold and wealth, you can't take it with you when you're born or when you die. It's just like dung, how can it be compared to a human life?",เงินทองสมบัติ เกิดมาก็เอาติดตัวมาไม่ได้ ตายไปก็เอาไปไม่ได้ มันก็ไม่ต่างจากมูลดิน จะเอามาเปรียบกับชีวิตคนได้อย่างไร?
+M1600-5_2_4_6,"So, according to the master, I should execute them on the spot?",ถ้าเช่นนั้น ตามความเห็นของพระอาจารย์ ข้าควรสังหารพวกมันทันทีที่พบเช่นนั้นหรือ?
+M1600-5_2_4_7,"No, all lives are precious in the eyes of heaven. How can you take someone's life at will?",ย่อมมิใช่เช่นนั้น ทุกชีวิตล้วนมีค่าในสายตาพุทธองค์ ไฉนท่านจึงคิดจะปลิดชีพผู้อื่นตามอำเภอใจเล่า?
+M1600-5_2_4_8,"This is not allowed, that is not allowed, then according to the master, what should I do?",นั่นก็ไม่ได้ นี่ก็ไม่ได้ เช่นนั้นแล้วพระอาจารย์เห็นควรว่า ข้าควรทำเช่นไรเล่า?
+M1600-5_3_1_1,"This... Amitabha, I am still a novice in the study of Buddhism, I cannot answer your question. After this incident, I will return to the temple to study hard. Thank you for your guidance.",เรื่องนั้น... อมิตาพุทธ อาตมายังเป็นเพียงผู้ริเริ่มศึกษาในวิถีแห่งพุทธะ มิอาจตอบคำถามของท่านได้ หลังจากเรื่องนี้สิ้นสุดลง อาตมาจะกลับไปยังวัดเพื่อศึกษาธรรมอย่างจริงจังอีกครั้ง ขอขอบคุณสำหรับคำแนะนำของท่าน
+M1600-5_3_1_2,"Alas, I didn't expect to be lectured after dealing with the Mountain Bandit.",เฮ้อ... ข้าไม่คาดคิดเลยว่า หลังจากจัดการกับโจรภูเขาแล้ว ยังต้องมาถูกเทศนาสั่งสอนอีก!
+M1600-5_3_1_3,"Some of these Shifa Temple monks are like this, they don't partake in worldly affairs, they meditate all day, but when they open their mouths, they teach people how to do things... ",หลวงจีนจากอารามซื่อฟาบางรูปก็เป็นเช่นนี้แหละ พวกเขาไม่ข้องเกี่ยวกับเรื่องทางโลก นั่งสมาธิทั้งวัน แต่พอเอ่ยปากกลับสอนผู้อื่นว่าจะต้องทำสิ่งใด...
+M1600-5_3_1_4,"From your tone, it seems you don't agree with the master's views?",จากน้ำเสียงของท่าน ดูเหมือนว่าท่านจะไม่เห็นชอบกับคำสอนของพระอาจารย์สินะ?
+M1600-5_3_1_5,"Of course, if the evil people in the world could easily repent, the world would have been peaceful long ago. But in this world... what's the use of talking about these things... ",ถูกต้องแล้ว หากคนชั่วในยุทธภพนี้สามารถกลับใจได้โดยง่าย ป่านนี้ยุทธภพคงสงบสุขไปนานแล้ว แต่ในยุทธภพนี้... พูดเรื่องพวกนี้ไปจะมีประโยชน์อันใดเล่า...
+M1600-5_4_1_1,"I, being humble, taught them a lesson and persuaded them to leave.",ข้าผู้ด้อยปัญญา ได้ตักเตือนสั่งสอนพวกเขา และชี้ทางสว่างให้พวกเขากลับคืนสู่ทางที่ถูกต้อง
+M1600-5_4_1_2,"Good, good, this is a great act of kindness. You truly have immeasurable merit and a hint of Buddha nature.",สาธุ สาธุ ท่านมีจิตใจที่เปี่ยมด้วยเมตตาธรรม ท่านมีบุญบารมีล้นฟ้า เปี่ยมด้วยคุณธรรม เป็นผู้มีธรรมะในจิตใจ
+M1600-5_4_1_3,"I think they were reckless and violent, letting them go like this is too easy for them!",ข้าคิดว่าโจรชั่วเหล่านี้ช่างเหี้ยมโหดและดุดัน การปล่อยพวกมันไปโดยง่ายดายเช่นนี้ เป็นการผ่อนโทษให้พวกมันเกินไป!
 M1600-5_4_1_4,"Amitabha, there is a virtue of life in heaven. If they can lay down their weapons, it would be a great thing for the world.",อมิตาพุทธ ทุกชีวิตล้วนมีค่า การที่พวกเขาสามารถละทิ้งความรุนแรงได้ ยุทธภพนี้จะได้กลับมามีสันติสุข
-M1600-5_4_1_5,What does the master think should be done with those resentful spirits under their control?
-M1600-5_4_1_6,"This... Amitabha, I am still a novice in the study of Buddhism, I cannot answer your question. After this incident, I will return to the temple to study hard. Thank you for your guidance."
-M1600-5_4_1_7,Shifa Temple Disciple leaves the scene.
-M1600-5_4_1_8,"This master of Shifa Temple doesn't have any real skills, all he talks and thinks about are empty words."
-M1600-5_4_1_9,"Some of these Shifa Temple monks are like this, they don't partake in worldly affairs, they meditate all day, but when they open their mouths, they teach people how to do things... "
-M1600-5_4_1_10,"From your tone, it seems you don't agree with the master's views?"
-M1600-5_4_1_11,"Of course, if the evil people in the world could easily repent, the world would have been peaceful long ago. But in this world... what's the use of talking about these things... "
+M1600-5_4_1_5,What does the master think should be done with those resentful spirits under their control?,พระอาจารย์ ท่านคิดว่าควรจัดการกับวิญญาณอาฆาตที่อยู่ภายใต้การควบคุมของพวกมันอย่างไร?
+M1600-5_4_1_6,"This... Amitabha, I am still a novice in the study of Buddhism, I cannot answer your question. After this incident, I will return to the temple to study hard. Thank you for your guidance.",เรื่องนั้น... อมิตาพุทธ อาตมายังเป็นเพียงผู้ริเริ่มศึกษาในวิถีแห่งพุทธะ มิอาจตอบคำถามของท่านได้ หลังจากเรื่องนี้สิ้นสุดลง อาตมาจะกลับไปยังวัดเพื่อศึกษาธรรมอย่างจริงจังอีกครั้ง ขอขอบคุณสำหรับคำแนะนำของท่าน
+M1600-5_4_1_7,Shifa Temple Disciple leaves the scene.,ศิษย์อารามซื่อฟา ค่อยๆเดินจากไป
+M1600-5_4_1_8,"This master of Shifa Temple doesn't have any real skills, all he talks and thinks about are empty words.",พระอาจารย์แห่งอารามซื่อฟาผู้นี้ ไร้ซึ่งวิทยายุทธอันแท้จริง ทั้งปากและใจล้วนแต่พ่นคำสวยหรูที่ว่างเปล่า
+M1600-5_4_1_9,"Some of these Shifa Temple monks are like this, they don't partake in worldly affairs, they meditate all day, but when they open their mouths, they teach people how to do things... ",หลวงจีนจากอารามซื่อฟาบางรูปก็เป็นเช่นนี้แหละ พวกเขาไม่ข้องเกี่ยวกับเรื่องทางโลก นั่งสมาธิทั้งวัน แต่พอเอ่ยปากกลับสอนผู้อื่นว่าจะต้องทำสิ่งใด...
+M1600-5_4_1_10,"From your tone, it seems you don't agree with the master's views?",จากน้ำเสียงของท่าน ดูเหมือนว่าท่านจะไม่เห็นชอบกับคำสอนของพระอาจารย์สินะ?
+M1600-5_4_1_11,"Of course, if the evil people in the world could easily repent, the world would have been peaceful long ago. But in this world... what's the use of talking about these things... ",ถูกต้องแล้ว หากคนชั่วในยุทธภพนี้สามารถกลับใจได้โดยง่าย ป่านนี้ยุทธภพคงสงบสุขไปนานแล้ว แต่ในยุทธภพนี้... พูดเรื่องพวกนี้ไปจะมีประโยชน์อันใดเล่า...
 M5007-2_1_1,"Are you the one who travels this waterway, boss?"
 M5007-2_1_2,"Yes, I have my own cargo ship, and I'm planning to recruit some Clerks to do business in Daliang City. Do you want to take a ride, Taoist?"
 M5007-2_1_3,This waterway is not ordinary... 
@@ -2549,8 +2549,8 @@ M2155-17_5_1,"Sooner or later, I will bring you to justice and avenge today's ha
 M2155-18_0_1,"I'm locked up here, not only being tortured, but also having to see your filthy face. Damn, it's really bad luck!"
 M2155-18_0_2,"Kong, the head of the household, you look very spirited. Indeed, Hardy, my disciples can't do anything to you."
 M2155-18_0_3,"I'm not afraid of anyone, let alone you bunch of bastards. Use whatever tricks you have, I'm still alive and kicking!"
-M2155-18_0_4,"(This Kong Yidao is indeed a tough nut to crack, but he's mediocre. The Blue Wind Camp doesn't have any worthwhile skills to learn, so there's no need to bother with him.)"
-M2155-18_1_1,"(This Kong Yidao doesn't have any martial arts worth learning, there's no need to waste time here.)"
+M2155-18_0_4,"(This Kong Yidao is indeed a tough nut to crack, but he's mediocre. The Blue Wind Camp doesn't have any worthwhile skills to learn, so there's no need to bother with him.)",(เห็นได้ชัดว่าขงอี้เตาผู้นี้แข็งแกร่ง แต่ความสามารถของเขานั้นก็ธรรมดา ค่ายวายุครามไม่มีอะไรที่คุ้มค่าแก่การเรียนรู้ ดังนั้นไม่ต้องสนใจเขาจะดีกว่า)
+M2155-18_1_1,"(This Kong Yidao doesn't have any martial arts worth learning, there's no need to waste time here.)",(ขงอี้เตาผู้นี้ไม่มีวิทยายุทธใดๆที่คุ้มค่าแก่การเรียนรู้ ไม่จำเป็นต้องมาเสียเวลาที่นี่)
 M2155-19_1_1,"I have nothing to say to a traitor like you, get lost."
 M2155-19_1_2,"Han Elite Escort, you're from a dart bureau, why do you have to get involved in this mess?"
 M2155-19_1_3,"Yan Yun Iron Army and I have a vendetta, shouldn't I seek revenge?"
