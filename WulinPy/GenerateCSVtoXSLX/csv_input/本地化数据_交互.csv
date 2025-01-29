@@ -61,7 +61,7 @@ PlayerCurse_Stamina,"Stamina is too low, it's best to rest|It turns out that wan
 PlayerCurse_Mood,"Ah, my life is so hard|Ah, how can I live this life|Why am I always the unlucky one?|How long will this life last|Why is everything I do so unsuccessful|This world is too tiring|I don't know how long I can hold on|Ah~",อ่าห์ ชีวิตข้าลำบากนัก|อ่าห์ ชีวิตนี้ข้าจะอยู่ได้อย่างไร|ทำไมข้าถึงโชคร้ายตลอด?|ชีวิตนี้จะอยู่ได้นานแค่ไหน|ทำไมทุกอย่างที่ข้าทำจึงไม่ประสบผลสำเร็จ|โลกนี้ช่างเหนื่อยเหลือเกิน|ข้าไม่รู้ว่าจะอดทนได้นานแค่ไหน|อ่าห์~
 NpcLeaveTeam_通用_LeaveTalk,"If there is anything that {NpcJobTalk:自我称呼} can help in the future, you can find {NpcJobTalk:自我称呼} in {0}. The road is long, we will meet again.",หากในวันหน้ามีสิ่งใดที่{NpcJobTalk:自我称呼}สามารถช่วยได้ สามารถมาหา{NpcJobTalk:自我称呼}ได้ที่ {0} หนทางยังอีกยาวไกล แล้วพบกันใหม่
 PetLeaveTeam_Window,Are you planning to let {0} Run away from the team?,เจ้าวางแผนที่จะปล่อยให้ {0} ออกจากทีมหรือไม่?
-PetLeaveTeam_通用_LeaveTalk,"It should go back to {0} and wait for me, I'll go find it when I miss it.",มันควรจะกลับไปที่ {0} แล้วรอข้าก่อน ข้าจะไปหามันเมื่อข้าคิดถึงมัน
+PetLeaveTeam_通用_LeaveTalk,"It should go back to {0} and wait for me, I'll go find it when I miss it.",มันควรจะกลับไปรอข้าที่ {0}  แล้วข้าค่อยไปหาเมื่อข้าคิดถึงมัน
 NpcInvite_通用_ReqAddPropLow,Your <size=200%><b>{0}</b></size> is too low!,<size=200%><b>{0}</b></size> ของคุณต่ำเกินไป!
 NpcInvite_通用_ReqAddPropHigh,Your <size=200%><b>{0}</b></size> is too high!,ของเจ้า<size=200%><b>{0}</b></size>สูงเกินไป!
 NpcSeat_通用_BreakSeat,This is too much!,นี่มันเกินไปแล้ว!

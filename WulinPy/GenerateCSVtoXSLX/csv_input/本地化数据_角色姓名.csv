@@ -466,9 +466,9 @@ CharaName_看热闹的闲汉,Busybody,ชายจุ้นจ้าน
 CharaName_商人·甲,Merchant·A,พ่อค้า เจี่ย
 CharaName_商人·乙,Merchant·B,พ่อค้า ข.
 CharaName_破戒的和尚,Oathsbreak Monk,หลวงจีนผู้หลงผิด
-CharaName_还俗的道士,Secular Taoist,ผู้แสวงหาวิถีเต๋า
+CharaName_还俗的道士,Secular Taoist,ผู้แสวงหาวิถีแห่งเต๋า
 CharaName_沉默的武人,Silent Warrior,นักรบไร้เสียง
-CharaName_嚣张的武人,Arrogant Warrior,นักรบเย่อหยิ่ง
+CharaName_嚣张的武人,Arrogant Warrior,นักสู้ผู้เย่อหยิ่ง
 CharaName_博学的书生,Learned Scholar,ปราชญ์ผู้รอบรู้
 CharaName_多年参赛者,Long-time Participant,ผู้เข้าแข่งขาประจำ
 CharaName_凑数的路人,Filler Bystander,คนแก้ขัดข้างทาง
@@ -828,7 +828,7 @@ CharaTitle_掌门,Sect Leader,เจ้าสำนัก
 CharaTitle_圣主,Sage Lord,ปราชญ์ผู้ยิ่งใหญ่
 CharaTitle_馆主,Sect Leader,เจ้าสำนัก
 CharaTitle_老大,Boss,หัวหน้า
-CharaTitle_住持,Abbot,เจ้าอาวาส
+CharaTitle_住持,Abbot,เจ้าหอ
 CharaTitle_寨主,Bandit Chief,หัวหน้าค่าย
 CharaTitle_阁主,Pavilion Master,เจ้าสำนัก
 CharaTitle_总镖头,Elite Escort,เจ้าสำนักคุ้มภัย

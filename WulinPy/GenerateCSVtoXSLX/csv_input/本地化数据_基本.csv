@@ -143,7 +143,7 @@ BuffConflict_Generic,"There is already a similar item effect, continuing will ov
 GameLog_MovePosInvalid,%c%Cannot move to this location,%c%ไม่สามารถไปที่จุดนี้ได้
 GameLog_InBattle_Exp,<#61C3C8>{0}</color> gained <#5CBD4C> {1} Jianghu Knowledge</color>,<#61C3C8>{0}</color> ได้รับ <#5CBD4C> {1} ประสบการณ์ยุทธ</color>
 GameLog_InBattle_KungfuExp,<#61C3C8>{0}</color> gained <#D7A347> {1} EXP</color>,<#61C3C8>{0}</color> ได้รับ <#D7A347> ค่าประสบการณ์ {1} </color>
-GameLog_InBattle_BattleExp,<#61C3C8>{0}</color> gained <#E16D79> {1} Combat</color>,<#61C3C8>{0}</color> ได้รับ <#E16D79> {1} พลังรบ</color>
+GameLog_InBattle_BattleExp,<#61C3C8>{0}</color> gained <#E16D79> {1} Combat</color>,<#61C3C8>{0}</color> ได้รับ <#E16D79>{1} สู้จริง</color>
 GameLog_TeamPack_NotEnoughCoin,%c%Not enough Coin,%c%มีเงินไม่พอ
 GameLog_TeamPack_NotEnoughFTributePoint,%c%Not enough Sect contribution,%c%ความดีความชอบสำนักไม่เพียงพอ
 GameLog_TeamPack_NotEnoughItem,%c%Not enough {0},%c%{0} ไม่พอ

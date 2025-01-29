@@ -55,8 +55,8 @@ R10136-14_option2_2,Choose <color=#097a76>{TeamerName:2}</color>,เลือก
 R10136-14_option2_3,Choose <color=#097a76>{TeamerName:3}</color>,เลือก <color=#097a76>{TeamerName:3}</color>
 R10136-14_option2_4,Choose <color=#097a76>{TeamerName:4}</color>,เลือก <color=#097a76>{TeamerName:4}</color>
 R10136-14_option2_5,Choose <color=#097a76>{TeamerName:5}</color>,เลือก <color=#097a76>{TeamerName:5}</color>
-R10136-15_option1_1,"Fight! <color=#c44b0e>(Specific battle, level 30 strength)</color>","สู้รบ!<color=#c44b0e>(เข้าสู่การต่อสู้, พละกำลัง level 30)</color>"
-R10136-15_option1_2,"Avoid battle, retreat quickly.",หลีกเลี่ยงการต่อสู้ ถอนกำลังโดยเร็ว
+R10136-15_option1_1,"Fight! <color=#c44b0e>(Specific battle, level 30 strength)</color>","เข้าต่อสู้! <color=#c44b0e>(เข้าสู่การต่อสู้, ความแข็งแกร่งระดับ 30)</color>"
+R10136-15_option1_2,"Avoid battle, retreat quickly.",หลีกเลี่ยงการต่อสู้ รีบถอนตัวออกไปทันที!
 R10136-16_option1_1,"Fight! <color=#c44b0e>(Specific battle, level 35 strength)</color>","สู้รบ!<color=#c44b0e>(เข้าสู่การต่อสู้, พละกำลัง level 35)</color>"
 R10136-16_option1_2,"Avoid battle, retreat quickly.",หลีกเลี่ยงการต่อสู้ ถอนกำลังโดยเร็ว
 R10136-17_option1_1,"Fight! <color=#c44b0e>(Specific battle, level 40 strength)</color>","สู้รบ!<color=#c44b0e>(เข้าสู่การต่อสู้, พละกำลัง level 40)</color>"
