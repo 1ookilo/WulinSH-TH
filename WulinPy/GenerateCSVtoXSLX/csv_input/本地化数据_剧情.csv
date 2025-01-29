@@ -2133,22 +2133,22 @@ M20316-2_11_2,"Brother {PlayerSurName}, you flatter me, I'm just a Shuo Shuren, 
 M20316-2_11_3,"I have something to do today, I can't stay long.\nIf Brother {PlayerSurName} is interested, we can have a chance to talk about other things in the martial world in the future.","วันนี้ข้ามีธุระบางอย่างต้องกระทำ ไม่สามารถอยู่ได้นาน\nหากน้อง{PlayerSurName} สนใจ วันหน้าถ้ามีโอกาส เราจะมาพูดคุยเรื่องราวในยุทธภพอื่นๆ อีก"
 M20316-2_11_4,"Deal, take care, brother.",ตกลงตามนี้ พี่ท่านดูแลตัวเองด้วย
 R10048-1_1_1,"People of the Central Plains, this is not a place for you, please leave!",ชาวจงหยวน ที่นี่ไม่ใช่สถานที่ที่เจ้าควรมา กลับไปซะ!
-R10048-1_2_1,"You have guts. I am Hattori Hyoe, show me your skills!",เจ้าช่างกล้า ข้าฮาโตริ เฮียวเอะ แสดงฝีมือของเจ้าให้ข้าดู!
+R10048-1_2_1,"You have guts. I am Hattori Hyoe, show me your skills!",เจ้าช่างกล้า ข้าฮัตโตริ เฮียวเอะ แสดงฝีมือของเจ้าให้ข้าดู!
 R10048-1_2_2,"{PlayerName}, please enlighten me.",{PlayerName} โปรดชี้แนะด้วย
 R10048-1_3_1,"Not bad, people of the Central Plains.\nAs a reward for you, this place is yours now!","ฝีมือไม่เลวเลย ชาวจงหยวน\nถือว่าเป็นรางวัลให้เจ้า สถานที่นี้เป็นของเจ้าแล้ว!"
 R10048-1_4_1,"The weak must learn to bow to the strong!\nYou, are not worthy to stay here!","ผู้อ่อนแอต้องรู้จักก้มหัวให้ผู้แข็งแกร่ง!\nเจ้าไม่คู่ควรที่จะอยู่ที่นี่!"
-R10048-1_5_1,"Arrogant fools who overestimate their abilities are destined to pay a bleeding price.\nRemember, the strong man standing in front of you is Hattori Hyoe from Great Ant City!","พวกโอหังที่ประเมินความสามารถของตนเองสูงเกินไปถูกลิขิตให้ต้องชดใช้ด้วยเลือด\nจงจำไว้ ชายผู้แข็งแกร่งที่ยืนอยู่ตรงหน้าเจ้าคือ ฮาโตริ เฮียวเอะ จากเมืองแมลงปอ!"
+R10048-1_5_1,"Arrogant fools who overestimate their abilities are destined to pay a bleeding price.\nRemember, the strong man standing in front of you is Hattori Hyoe from Great Ant City!","พวกโอหังที่ประเมินความสามารถของตนเองสูงเกินไปถูกลิขิตให้ต้องชดใช้ด้วยเลือด\nจงจำไว้ ชายผู้แข็งแกร่งที่ยืนอยู่ตรงหน้าเจ้าคือ ฮัตโตริ เฮียวเอะ จากเมืองแมลงปอ!"
 R10048-1_5_2,You talk too much!,พูดมากไปแล้ว!
 R10048-1_6_1,"Young man, your wrong actions will eventually sow the seeds of disaster!\nUntil we meet again!","เจ้าหนุ่ม ความผิดพลาดของเจ้าจะนำไปสู่หายนะในภายหลัง!\nแล้วเราคงได้พบกันอีก!"
 R10048-1_7_1,"Humble ants, no matter how many there are, they can't shake an elephant.\nRun away before I change my mind.","พวกมดปลวกถึงจะมีมากมายก็ไม่อาจทำให้ช้างหวั่นไหวได้\nเจ้าจงไปซะ ก่อนที่ข้าจะเปลี่ยนใจ "
-M20307-1_1_1,"I am Hattori Hyoe, show me your skills!",ข้าฮาโตริ เฮียวเอะ แสดงฝีมือของเจ้าให้ข้าดู!
+M20307-1_1_1,"I am Hattori Hyoe, show me your skills!",ข้าฮัตโตริ เฮียวเอะ แสดงฝีมือของเจ้าให้ข้าดู!
 M20307-1_1_2,"You don't know the rules, if you want to challenge me, you need to send a challenge letter three days in advance.",เจ้าไม่รู้กฎหรือไงกัน หากเจ้าต้องการประลองกับข้า เจ้าต้องส่งสารท้าประลองล่วงหน้าสามวันก่อน
 M20307-1_1_5,"Only after I agree, can you come to fight with me, otherwise it's impolite!",รอให้ข้าเห็นชอบก่อนแล้วค่อยมาประลองกับข้า หากไม่เช่นนั้นถือว่าเสียมารยาท!
 M20307-1_1_3,"Please go back, I won't fight with you today.",กลับไปเถิด วันนี้ข้าไม่อยากสู้กับเจ้า
 M20307-1_1_4,"People of the Central Plains, coward!",ชาวจงหยวน มีแต่พวกขี้ขลาด!
 M20307-1_2_1,"{yell} audacious rascal, take back your words!",{yell} เจ้าคนถ่อย กลับคำพูดของเจ้าซะ!
 M20307-1_2_2,{yell}<size=200%>I challenge you!</size>,{yell}<size=200%>ข้าขอท้าเจ้า!</size>
-M20307-1_2_3,"I am Hattori Hyoe, show me your skills!",ข้าฮาโตริ เฮียวเอะ แสดงฝีมือของเจ้าให้ข้าดู!
+M20307-1_2_3,"I am Hattori Hyoe, show me your skills!",ข้าฮัตโตริ เฮียวเอะ แสดงฝีมือของเจ้าให้ข้าดู!
 M20307-1_3_1,"You are not a coward, you are a strong man!",เจ้าไม่ใช่คนขี้ขลาด เจ้าเป็นคนเข้มแข็ง!
 M20307-1_3_2,"Thank you for your help today, young hero. That strange fellow from Ying Island is really extraordinary. \nHe injured several of my disciples with just a few moves, and I really can't handle him.","ขอบคุณท่านจอมยุทธที่ช่วยเหลือ ชายแปลกหน้าจากเกาะประหลาดคนนั้นไม่ธรรมดาจริงๆ\nเพียงไม่กี่กระบวนท่าเขาก็ทำให้ลูกศิษย์ของข้าบาดเจ็บหลายคน และลำพังเพียงข้าก็รับมือเจ้านั่นไม่ไหวแน่"
 M20307-1_4_1,Weak!,อ่อนแอจริงๆ!

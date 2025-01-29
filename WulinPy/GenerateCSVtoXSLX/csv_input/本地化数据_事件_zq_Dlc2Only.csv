@@ -57,14 +57,14 @@ R10136-14_option2_4,Choose <color=#097a76>{TeamerName:4}</color>,เลือก
 R10136-14_option2_5,Choose <color=#097a76>{TeamerName:5}</color>,เลือก <color=#097a76>{TeamerName:5}</color>
 R10136-15_option1_1,"Fight! <color=#c44b0e>(Specific battle, level 30 strength)</color>","เข้าต่อสู้! <color=#c44b0e>(เข้าสู่การต่อสู้, ความแข็งแกร่งระดับ 30)</color>"
 R10136-15_option1_2,"Avoid battle, retreat quickly.",หลีกเลี่ยงการต่อสู้ รีบถอนตัวออกไปทันที!
-R10136-16_option1_1,"Fight! <color=#c44b0e>(Specific battle, level 35 strength)</color>","สู้รบ!<color=#c44b0e>(เข้าสู่การต่อสู้, พละกำลัง level 35)</color>"
-R10136-16_option1_2,"Avoid battle, retreat quickly.",หลีกเลี่ยงการต่อสู้ ถอนกำลังโดยเร็ว
-R10136-17_option1_1,"Fight! <color=#c44b0e>(Specific battle, level 40 strength)</color>","สู้รบ!<color=#c44b0e>(เข้าสู่การต่อสู้, พละกำลัง level 40)</color>"
-R10136-17_option1_2,"Avoid battle, retreat quickly.",หลีกเลี่ยงการต่อสู้ ถอนกำลังโดยเร็ว
+R10136-16_option1_1,"Fight! <color=#c44b0e>(Specific battle, level 35 strength)</color>","เข้าต่อสู้! <color=#c44b0e>(เข้าสู่การต่อสู้, ความแข็งแกร่งระดับ 35)</color>"
+R10136-16_option1_2,"Avoid battle, retreat quickly.",หลีกเลี่ยงการต่อสู้ รีบถอนตัวออกไปทันที!
+R10136-17_option1_1,"Fight! <color=#c44b0e>(Specific battle, level 40 strength)</color>","เข้าต่อสู้! <color=#c44b0e>(เข้าสู่การต่อสู้, ความแข็งแกร่งระดับ 40)</color>"
+R10136-17_option1_2,"Avoid battle, retreat quickly.",หลีกเลี่ยงการต่อสู้ รีบถอนตัวออกไปทันที!
 R10136-18_name,Visit Sword Pavilion together,เดินทางไปยัง ศาลากระบี่หลางหยา ด้วยกัน
 R10136-18_overview1,Visit Jian Chi with Ji Fuling.,พาจี้ฝูหลิง ไปพบกับ มารกระบี่
 R10136-18_overview2,Prepare to let Ji Fuling challenge the Four Phases Sword Formation alone.,เตรียมพร้อมที่จะปล่อยให้ จี้ฝูหลิง เผชิญหน้ากับกระบวนท่ากระบี่สี่ทิศเพียงลำพัง
-R10136-18_option1_1,"Ready! <color=#097a76>(Specific battle, level 40 strength)</color>","พร้อม! <color=#097a76>(เข้าสู่การต่อสู้, พละกำลัง level 40)</color>"
+R10136-18_option1_1,"Ready! <color=#097a76>(Specific battle, level 40 strength)</color>","พร้อม! <color=#097a76>(เข้าสู่การต่อสู้, ความแข็งแกร่งระดับ 40)</color>"
 R10136-18_option1_2,Not ready yet.,ข้ายังไม่พร้อม
 R10136-19_name,Old friend of Melody,สหายเก่าของบทเพลง
 R10136-19_overview1,Visit old friend at Melody House with Ji Fuling,ไปเยี่ยมเยือนสหายเก่าที่ ตำหนักบทเพลง พร้อมกับจี้ฝูหลิง
