@@ -7,7 +7,7 @@ R10136-1_1_2,"Ji Hanqing, a government official, abused his position for persona
 R10136-1_1_3,"What's more, Ji Hanqing often criticizes the emperor's decisions, speaks disrespectfully, discusses government affairs recklessly, disrupts the order, and commits unforgivable crimes!",ยิ่งไปกว่านั้น จี้ฮั่นชิงยังกล้าวิพากษ์วิจารณ์การตัดสินพระทัยของฝ่าบาท กล่าววาจาลบหลู่ พูดจาโอหัง ดูหมิ่นราชสำนัก ก่อความวุ่นวายต่อบ้านเมือง เป็นความผิดที่ไม่อาจให้อภัยได้!
 R10136-1_1_4,"According to the law, he and his entire family are sentenced to death, to uphold the rule of law!",ตามกฎหมาย ให้ตัดสินลงโทษประหารชีวิตทั้งตระกูลจี้ เพื่อตอกย้ำให้เห็นว่ากฎหมายต้องได้รับการบังคับใช้อย่างเคร่งครัด!
 R10136-1_1_5,"Another high official is killed, well done!|He slandered the loyal, he deserved to be cut into pieces|One less corrupt official is a good thing|It's a pity for those ten plus lives|It's too bloody...|Few officials are good|Why is there a person from Yan country sitting on the stage?",ประหารขุนนางใหญ่ได้อีกแล้ว ดีมาก!|ใส่ร้ายผู้ซื่อสัตย์ สมควรโดนเฉือนเป็นพันครั้ง!|ขุนนางชั่ว ตายไปคนหนึ่งก็ลดเวรไปคนหนึ่ง!|น่าเสียดายที่ต้องมีคนทั้งตระกูลกว่าสิบชีวิตต้องตายไปด้วย...|นองเลือดเยอะเกินไป...|ขุนนางนี่ไม่มีดีสักกี่คนหรอก!|ทำไมถึงมีคนแคว้นเยี่ยนมานั่งบนแท่นด้วย?
-R10136-1_1_6,So they set up a temporary execution ground at the city gate to execute the whole family of the offending official...,ที่แท้ก็เป็นการสร้างลานประหารชั่วคราวหน้าประตูเมือง เพื่อประหารชีวิตครอบครัวของข้าราชการที่กระทำความผิด...
+R10136-1_1_6,So they set up a temporary execution ground at the city gate to execute the whole family of the offending official...,ที่แท้ก็เป็นการสร้างลานประหารชั่วคราวหน้าประตูเมือง เพื่อประหารชีวิตครอบครัวของขุนนางที่กระทำความผิด...
 R10136-1_1_7,"Why do I feel that the official sitting in the middle with a rat-like face doesn't seem like a good person.\nGiven the current situation, I plan to...","ทำไมข้ารู้สึกว่าเจ้าขุนนางที่นั่งอยู่ตรงกลาง ดูมีลักษณะเจ้าเล่ห์ ไม่เหมือนคนดีเลย?\nเมื่อเจอสถานการณ์เช่นนี้ ข้าควรจะ..."
 R10136-1_2_1,{shichen} has arrived...,ได้เวลาแล้ว...
 R10136-1_2_2,Hold on!,ช้าก่อน!
@@ -33,13 +33,13 @@ R10136-1_3_4,"Who is this person?|He's got guts, daring to speak up at this time
 R10136-1_3_5,The young man is quite handsome.,คุณชายท่านนี้หน้าตาก็ไม่เลวนะ
 R10136-1_3_6,"Disturbing the execution ground is a capital offense, don't waste your life at such a young age!",ขัดขวางการประหารถือเป็นโทษสถานหนัก เจ้ายังอายุน้อยนัก อย่าเอาชีวิตไปทิ้งเสียเปล่า!
 R10136-1_3_7,I can't stand by and watch as you take the lives of more than a dozen people based on your own words. I plan to intervene!,จะให้ข้านิ่งเฉย เห็นคนสิบกว่าชีวิตต้องตายเพราะคำพูดลอยๆ ของเจ้าได้อย่างไร! ข้าไม่อาจทนดูได้ ข้าคงต้องเข้าไปยุ่งให้ถึงที่สุด!
-R10136-1_3_8,"{yell}Guards, arrest this remnant of the Ji family and execute him today!",{yell} ทหาร! จับตัวพวกเศษตระกูลจี้มาให้หมด วันนี้ข้าจะจัดการพวกมันให้สิ้นซาก!
+R10136-1_3_8,"{yell}Guards, arrest this remnant of the Ji family and execute him today!",{yell} ทหาร! จับตัวพวกเศษซากตระกูลจี้มาให้หมด วันนี้ข้าจะจัดการพวกมันให้สิ้นซาก!
 R10136-1_3_9,Yes!,ขอรับ!
 R10136-1_4_1,Aren't you going to let them go? You think a few rotten shrimps can stop me?,พวกเจ้ายังไม่ปล่อยตัวนักโทษอีกหรือ? แค่พวกเศษสวะไม่กี่คน อย่าคิดจะมาขัดขวางข้าได้?
 R10136-1_4_2,"Special Envoy, you're brilliant! The strategy of inviting the enemy into the pot is indeed a stroke of genius!",ท่านทูตพิเศษ วางแผนได้ยอดเยี่ยมยิ่งนัก! แผนล่อเสือเข้ากรงนี้ ช่างแยบยลจริงๆ!
 R10136-1_4_3,What are you playing at?,พวกเจ้ากำลังเล่นตลกอะไรกัน?
 R10136-1_4_4,"Hehe, boy, this play is just to catch you, the big fish!","ฮี่ฮี่ เด็กน้อย, การแสดงนี้แท้จริงแล้วทำขึ้นตบตา เพื่อหลอกล่อปลาใหญ่เช่นเจ้ายังไงเล่า!"
-R10136-1_4_5,I've been tricked!,ข้าโดนหลงกลเข้าซะแล้ว!
+R10136-1_4_5,I've been tricked!,ข้าติดกับเสียแล้ว!
 R10136-1_4_6,"Fool, you've ruined my plan!",เจ้าคนโง่! ทำแผนข้าพังพินาศหมด!
 R10136-1_4_7,"{yell}Guards, kill this thief without mercy!",{yell} ทหาร! สังหารโจรชั่วผู้นี้เสีย อย่าให้มันรอดไปได้!
 R10136-1_5_1,"So it turns out that the Prisoner was just pretending, and I was worried for nothing.\nSince it's all a misunderstanding, I'll take my leave now, goodbye~","ที่แท้ นักโทษพวกนั้นก็เป็นตัวปลอมด้วย ทำเอาข้าเป็นห่วงไปเสียเปล่า!\nในเมื่อเป็นเรื่องเข้าใจผิด ข้าก็ไม่ขออยู่ต่อแล้ว ลาก่อน~"
@@ -764,52 +764,52 @@ R10136-18_3_5,"Niece, is your purpose of this trip to ask me to take action and 
 R10136-18_3_6,"There's no need to bother you, elder. I want to find out the real culprit and avenge my family on my own.",มิกล้ารบกวนอาวุโส ข้าต้องการใช้ความสามารถของตนเอง สืบหาความจริงและล้างแค้นให้ตระกูลจี้
 R10136-18_3_7,"Indeed, you have the spirit of the Ji family!",สมแล้วที่เป็นลูกหลานตระกูลจี้!
 R10136-18_3_8,"Although I am not convenient to interfere in court affairs, I will do my best to help you, considering my friendship with Ji brother.",แม้ข้าจะไม่สะดวกแทรกแซงกิจการของราชสำนัก แต่เห็นแก่ไมตรีที่มีต่อน้องจี้ ข้าจะช่วยเหลือตามกำลังที่ทำได้
-R10136-18_3_9,"Niece, if you can break through the Four Phases Sword Formation of my Sword Pavilion alone, I will give you a unique divine weapon tailored for you."
-R10136-18_4_1,"Thanks to your blessing, my father really survived this disaster."
-R10136-18_4_2,"At first, when I heard about the extermination of the Ji family, I was devastated. But due to my status, I couldn't get involved in court affairs and couldn't vindicate the Ji family, which I deeply regret."
-R10136-18_4_3,"Now that Ji brother is safe and sound, the good are blessed by heaven!"
-R10136-18_4_4,"Thank you for your concern for my father, elder."
-R10136-18_4_5,"If I don't prepare a gift for your visit, Ji brother will definitely laugh at me next time we meet."
-R10136-18_4_6,"How about this, if you can break through the Four Phases Sword Formation of my Sword Pavilion alone, I will give you a unique divine weapon tailored for you."
-R10136-18_5_1,"Are you ready to break through the sword formation alone, niece?"
-R10136-18_6_1,"Niece, this sword formation of mine is not so easy to break through. I'll keep this divine weapon for you first, and you can come to get it when you are strong enough."
-R10136-18_7_1,Ji brother should be comforted to have a daughter like you.
-R10136-18_7_2,"Honorable is innocent, but the crime lies in possessing the jade. Now that you have the skill to protect yourself, then..."
-R10136-18_7_3,"Niece, take the divine weapon!"
-R10136-18_7_4,"Thank you, senior."
-R10136-19_1_1,"The sister who taught me the Ice Heart Technique back then said she lived in the Melody House in the southwest. Since I'm here, I have to pay her a visit."
-R10136-19_2_1,"Melody House, sister... could it be her?"
-R10136-19_3_1,"Sister, you are really here!"
-R10136-19_3_2,I didn't expect you to actually find this place. I thought you didn't take what I said to heart.
-R10136-19_3_3,"How could it be? Thanks to the Ice Heart Technique you taught me, otherwise I wouldn't have made it till now."
-R10136-19_3_4,"Well, you look much better than when we first met, which is a great relief."
-R10136-19_3_5,"However, up to now, the effect of Ice Heart Technique has greatly diminished and can't effectively help you calm your mind. I have a method of internal strength here, it's useless for others to learn, but it's very beneficial for you."
-R10136-19_3_6,"Before I teach you this method, I need to see how your cultivation is now. If your cultivation is shallow, I'm afraid you won't be able to withstand the pressure of this method."
-R10136-19_4_1,"Well, it seems that the time is not ripe yet, your cultivation is not enough to control this method."
-R10136-19_5_1,Are you ready?
-R10136-19_6_1,"At such a young age, you have passed my test, which is quite rare."
-R10136-19_6_2,"I'll give you this manual, hope you study it well, it may save your life at a critical moment."
-R10136-19_6_3,"Thank you, sister."
-end045_1,"Qin Huizhi has now unified the court and the martial arts world, becoming an unprecedented Supreme Overlord."
-end045_2,"But he is cruel, even those who whisper about him are executed."
-end045_3,"Although people are full of complaints, they dare not speak out."
-end045_4,It is said that Qin Huizhi has a loyal shadow by his side.
-end045_5,And the methods of that shadow are even more ruthless and heartless than Qin Huizhi...
-end046_1,Qin Huizhi never expected that the shadow he trusted would betray him...
-end046_2,"Nor did he expect that when you called out, people responded in droves."
-end046_3,You stepped over Qin Huizhi's body and ascended to the throne amid cheers.
-end046_4,"The unprecedented Supreme Overlord, his legend, has just begun..."
-end047_1,"In the end, you didn't take off the iron mask."
-end047_2,"You walk in the darkness, but your heart is towards the light."
-end047_3,"You punish evil with thunderous methods, maintaining the justice of the world."
-end047_4,Your iron mask has become a symbol that makes evildoers tremble...
-end047_5,"And you yourself have become a legend, passed down from generation to generation..."
-end048_1,You once took a wrong step and became a weapon in the hands of others.
-end048_2,"You once put on a mask, abandoned yourself and became another person."
-end048_3,"You made a big mistake, but you also punished evil with kindness."
-end048_4,"Your efforts have finally been recognized by everyone, whether you wear a mask or not..."
-end048_5,"After enduring till the clouds part to reveal the sun, you have finally found yourself again."
-end048_6,The road ahead is still long...
+R10136-18_3_9,"Niece, if you can break through the Four Phases Sword Formation of my Sword Pavilion alone, I will give you a unique divine weapon tailored for you.",หลานสาว หากเจ้าสามารถบุกฝ่าค่ายกลกระบี่สี่ทิศของศาลากระบี่หลางหยาได้เพียงลำพัง ข้าจะมอบศาสตราวุธชั้นยอดที่สร้างขึ้นเพื่อเจ้าโดยเฉพาะ
+R10136-18_4_1,"Thanks to your blessing, my father really survived this disaster.",ด้วยวาสนาของผู้อาวุโส บิดาข้าครานี้ถึงรอดพ้นจากหายนะมาได้
+R10136-18_4_2,"At first, when I heard about the extermination of the Ji family, I was devastated. But due to my status, I couldn't get involved in court affairs and couldn't vindicate the Ji family, which I deeply regret.",เมื่อแรกข้าได้ยินข่าวการกวาดล้างตระกูลจี้ จิตใจข้าแทบมลาย แต่ติดที่สถานะของข้า ไม่อาจยุ่งเกี่ยวกับราชสำนักได้ จึงช่วยเหลืออะไรไม่ได้เลย นับเป็นเรื่องที่น่าเสียดายยิ่งนัก
+R10136-18_4_3,"Now that Ji brother is safe and sound, the good are blessed by heaven!",บัดนี้น้องจี้ปลอดภัยแล้ว คนดีฟ้าย่อมคุ้มครอง!
+R10136-18_4_4,"Thank you for your concern for my father, elder.",ขอบคุณผู้อาวุโสที่ยังห่วงใยบิดาข้า
+R10136-18_4_5,"If I don't prepare a gift for your visit, Ji brother will definitely laugh at me next time we meet.",หลานสาวมาหาข้า หากข้าไม่มีของรับขวัญเจ้า วันหน้าถ้าน้องจี้รู้เข้า เขาคงหัวเราะเยาะข้าแน่
+R10136-18_4_6,"How about this, if you can break through the Four Phases Sword Formation of my Sword Pavilion alone, I will give you a unique divine weapon tailored for you.",เอาเช่นนี้ หากเจ้าสามารถฝ่าค่ายกลกระบี่สี่ทิศของศาลากระบี่หลางหยาได้เพียงลำพัง ข้าจะมอบศาสตราวุธชั้นยอดที่สร้างขึ้นเพื่อเจ้าโดยเฉพาะ
+R10136-18_5_1,"Are you ready to break through the sword formation alone, niece?",หลานสาวพร้อมจะฝ่าค่ายกลกระบี่ด้วยตนเองหรือยัง?
+R10136-18_6_1,"Niece, this sword formation of mine is not so easy to break through. I'll keep this divine weapon for you first, and you can come to get it when you are strong enough.",หลานสาว ค่ายกระบี่นี้หาใช่เรื่องง่ายที่จะฝ่าไปได้ ของวิเศษชิ้นนั้นข้าจะเก็บไว้ให้เจ้า รอจนเจ้ามีฝีมือพอแล้วค่อยมารับไป
+R10136-18_7_1,Ji brother should be comforted to have a daughter like you.,น้องจี้มีบุตรีเช่นนี้ คงนับเป็นบุญวาสนาแล้ว!
+R10136-18_7_2,"Honorable is innocent, but the crime lies in possessing the jade. Now that you have the skill to protect yourself, then...",แม้ผู้บริสุทธิ์ไร้โทษ แต่หากมีของล้ำค่า ย่อมเป็นเหตุให้ถูกหมายหัว… บัดนี้เจ้ามีความสามารถปกป้องตนเองแล้ว เช่นนั้น…
+R10136-18_7_3,"Niece, take the divine weapon!",หลานสาว รับศาสตราวุธไปเถอะ!
+R10136-18_7_4,"Thank you, senior.",ขอบคุณผู้อาวุโสเป็นอย่างยิ่ง!
+R10136-19_1_1,"The sister who taught me the Ice Heart Technique back then said she lived in the Melody House in the southwest. Since I'm here, I have to pay her a visit.","พี่หญิงที่เคยถ่ายทอด ""วิชาใจเยือกแข็ง"" ให้ข้า อ้างว่าพำนักอยู่ที่ตำหนักบทเพลงทางตะวันตกเฉียงใต้ บัดนี้เมื่อมาถึงถิ่น นับว่ามิอาจไม่ไปเยี่ยมเยียนได้"
+R10136-19_2_1,"Melody House, sister... could it be her?",ตำหนักบทเพลง… พี่หญิง… หรือว่าจะเป็นนาง?
+R10136-19_3_1,"Sister, you are really here!",พี่หญิง ท่านอยู่ที่นี่จริงๆ ด้วย!
+R10136-19_3_2,I didn't expect you to actually find this place. I thought you didn't take what I said to heart.,ไม่นึกเลยว่าเจ้าจะตามหาที่นี่จนพบ ข้ายังคิดว่าเจ้าคงลืมคำพูดของข้าไปแล้วเสียอีก
+R10136-19_3_3,"How could it be? Thanks to the Ice Heart Technique you taught me, otherwise I wouldn't have made it till now.","เป็นไปไม่ได้! หากมิใช่เพราะพี่หญิงถ่ายทอด ""วิชาใจเยือกแข็ง"" ให้ ข้าคงไม่อาจฝ่าฟันมาจนถึงวันนี้ได้"
+R10136-19_3_4,"Well, you look much better than when we first met, which is a great relief.",อืม… เห็นสีหน้าของเจ้าดีกว่าตอนแรกพบมาก นับว่าเป็นโชคดีนัก
+R10136-19_3_5,"However, up to now, the effect of Ice Heart Technique has greatly diminished and can't effectively help you calm your mind. I have a method of internal strength here, it's useless for others to learn, but it's very beneficial for you.","ทว่ายามนี้ วิชา ""ใจเยือกแข็ง"" มิอาจช่วยเจ้าควบคุมจิตใจได้ดังเดิม ข้ามีเคล็ดวิชาฝึกจิตลับแขนงหนึ่ง ซึ่งหากเป็นผู้อื่นย่อมไร้ประโยชน์ แต่สำหรับเจ้า นับว่าเป็นคุณอนันต์"
+R10136-19_3_6,"Before I teach you this method, I need to see how your cultivation is now. If your cultivation is shallow, I'm afraid you won't be able to withstand the pressure of this method.",แต่ก่อนที่ข้าจะถ่ายทอดเคล็ดวิชานี้ให้ ข้าจำต้องทดสอบความสามารถของเจ้าเสียก่อน หากยังอ่อนด้อยเกินไป เกรงว่าเจ้าจะรับแรงกดดันของวิชานี้ไม่ไหว
+R10136-19_4_1,"Well, it seems that the time is not ripe yet, your cultivation is not enough to control this method.",อืม… ดูท่าว่ายังไม่ถึงเวลาที่เหมาะสม วิทยายุทธ์ของเจ้ายังมิอาจควบคุมเคล็ดวิชานี้ได้
+R10136-19_5_1,Are you ready?,เจ้าพร้อมแล้วหรือไม่?
+R10136-19_6_1,"At such a young age, you have passed my test, which is quite rare.",ด้วยวัยเพียงเท่านี้ แต่กลับสามารถผ่านบททดสอบของข้าได้ นับว่าเป็นเรื่องที่หาได้ยากยิ่งนัก
+R10136-19_6_2,"I'll give you this manual, hope you study it well, it may save your life at a critical moment.",ตำราลับเล่มนี้ ขอมอบให้เจ้า หวังว่าเจ้าจะตั้งใจศึกษามัน ในช่วงเวลาคับขัน อาจช่วยรักษาชีวิตของเจ้าได้
+R10136-19_6_3,"Thank you, sister.",ขอบคุณพี่หญิงเป็นอย่างยิ่ง!
+end045_1,"Qin Huizhi has now unified the court and the martial arts world, becoming an unprecedented Supreme Overlord.",ฉินฮุ่ยจือ บัดนี้รวบอำนาจทั้งราชสำนักและยุทธภพไว้ในกำมือ กลายเป็นเจ้ายุทธภพแห่งใต้หล้าผู้ไม่เคยมีมาก่อนในประวัติศาสตร์
+end045_2,"But he is cruel, even those who whisper about him are executed.",ทว่ามือของเขาชุ่มโชกไปด้วยเลือด แม้เพียงกระซิบวิจารณ์ก็ต้องรับโทษประหาร
+end045_3,"Although people are full of complaints, they dare not speak out.",ผู้คนล้วนเดือดร้อนและหวาดกลัว แต่ไม่มีใครกล้าเอ่ยปากต่อต้าน
+end045_4,It is said that Qin Huizhi has a loyal shadow by his side.,มีข่าวลือว่า ข้างกายฉินฮุ่ยจือ มีเงาผู้หนึ่งที่จงรักภักดีต่อเขาอย่างสุดหัวใจ
+end045_5,And the methods of that shadow are even more ruthless and heartless than Qin Huizhi...,แต่เงานั้นกลับโหดยิ่งกว่าเขา เลือดเย็นและไร้เมตตา ยิ่งกว่าปีศาจในคราบมนุษย์…
+end046_1,Qin Huizhi never expected that the shadow he trusted would betray him...,ฉินฮุ่ยจือไม่คาดคิดเลยว่า เงาที่เขาไว้วางใจที่สุดจะทรยศเขา…
+end046_2,"Nor did he expect that when you called out, people responded in droves.",ยิ่งไม่คาดคิดว่า เพียงเจ้ากู่ร้องเรียก ผู้คนทั่วหล้ากลับพร้อมใจกันลุกฮือ!
+end046_3,You stepped over Qin Huizhi's body and ascended to the throne amid cheers.,เจ้าก้าวข้ามร่างของฉินฮุ่ยจือ ท่ามกลางเสียงโห่ร้องของผู้คน เหยียบย่างสู่บัลลังก์สูงสุดของแผ่นดิน!
+end046_4,"The unprecedented Supreme Overlord, his legend, has just begun...",เจ้ายุทธภพแห่งใต้หล้าผู้ไม่เคยมีมาก่อน… ตำนานของเขา เพิ่งจะเริ่มต้นขึ้นเท่านั้น!
+end047_1,"In the end, you didn't take off the iron mask.",ในท้ายสุด เจ้าก็ยังคงไม่ถอดหน้ากากเหล็กออก
+end047_2,"You walk in the darkness, but your heart is towards the light.",เจ้าดำรงอยู่ในเงามืด แต่หัวใจกลับโหยหาแสงสว่าง
+end047_3,"You punish evil with thunderous methods, maintaining the justice of the world.",ใช้กำลังดุจสายฟ้าฟาด ปราบคนชั่ว เชิดชูคุณธรรม
+end047_4,Your iron mask has become a symbol that makes evildoers tremble...,หน้ากากเหล็กของเจ้า กลายเป็นสัญลักษณ์ที่ทำให้เหล่าคนชั่วหวาดกลัวจนขวัญผวา…
+end047_5,"And you yourself have become a legend, passed down from generation to generation...",และตัวเจ้าก็กลายเป็นตำนาน ที่ถูกกล่าวขานไปตลอดกาล…
+end048_1,You once took a wrong step and became a weapon in the hands of others.,เจ้าครั้งหนึ่งเคยก้าวพลาด กลายเป็นเพียงอาวุธในมือผู้อื่น
+end048_2,"You once put on a mask, abandoned yourself and became another person.",เจ้าครั้งหนึ่งเคยสวมหน้ากาก ละทิ้งตัวตนเพื่อแปรเปลี่ยนเป็นอีกคนหนึ่ง
+end048_3,"You made a big mistake, but you also punished evil with kindness.",ผู้ที่เคยสร้างหายนะ ก็คือเจ้า… ผู้ที่ล้างบาปด้วยการกวาดล้างคนชั่ว ก็คือเจ้า!
+end048_4,"Your efforts have finally been recognized by everyone, whether you wear a mask or not...",ความพยายามของเจ้า ทำให้ผู้คนในใต้หล้าต่างยอมรับตัวตนของเจ้า ไม่ว่าภายใต้หน้ากากหรือไม่…
+end048_5,"After enduring till the clouds part to reveal the sun, you have finally found yourself again.",ฟ้าหลังฝนย่อมสดใส ในที่สุด เจ้าก็พบตัวตนที่แท้จริงของตนเอง!
+end048_6,The road ahead is still long...,เส้นทางข้างหน้า… ยังอีกยาวไกล…
 B1000-tmr1_1_1,"This place is far from the Central Plains, no one should recognize me if I show my true face."
 B1000-tmr1_2_1,It's more comfortable this way.
 B1000-tmr1_3_1,"When I return to the Central Plains, I should put on the iron mask."
