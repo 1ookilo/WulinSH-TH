@@ -1497,10 +1497,10 @@ NpcFactionBuy_步绝尘_RefuseSameFactionOnly,The things of the Swallow Nest hav
 NpcFactionBuy_步绝尘_Before,What do you want to exchange?|These are all treasures left by our ancestors.,เจ้าต้องการแลกเปลี่ยนสิ่งใด?|สิ่งเหล่านี้ล้วนเป็นสมบัติล้ำค่าที่ผู้ก่อตั้งของเราทิ้งไว้
 NpcFactionBuy_步绝尘_NoBuy,Accumulate some more Sect contribution.|You need to work harder.,สะสมความดีความชอบสำนักเพิ่มเติม|เจ้าต้องทำงานหนักขึ้น
 NpcFactionBuy_步绝尘_HasBuy,"These are the secret treasures of the Swallow Nest, you must take good care of them.|Don't ruin the fame of our ancestors.",นี่คือสมบัติลับแห่งรังนกนางแอ่น เจ้าต้องรักษามันไว้ให้ดี|อย่าทำให้ชื่อเสียงของบรรพชนมัวหมอง
-NpcHello_慧元禅师_SelfIntroHigh,"Amitabha, the old monk greets you.","อามิตาพุทธ, อาตมาขอแสดงความเคารพต่อท่าน"
-NpcHello_慧元禅师_SelfIntroLow,"Amitabha, the old monk greets you.","อามิตาพุทธ, อาตมาขอแสดงความเคารพต่อท่าน"
-NpcHello_慧元禅师_Common,Amitabha.|The old monk greets you.|What business brings you here?,อามิตตาพุทธ|พระเฒ่าทักทาย|มีอะไรให้อาตมาช่วยหรือ?
-NpcHello_慧元禅师_Like,Amitabha.|The old monk greets you.|What business brings you here?,อามิตตาพุทธ|พระเฒ่าทักทาย|มีอะไรให้อาตมาช่วยหรือ?
+NpcHello_慧元禅师_SelfIntroHigh,"Amitabha, the old monk greets you.",อามิตาพุทธ อาตมาขอแสดงความเคารพต่อท่าน
+NpcHello_慧元禅师_SelfIntroLow,"Amitabha, the old monk greets you.",อามิตาพุทธ อาตมาขอแสดงความเคารพต่อท่าน
+NpcHello_慧元禅师_Common,Amitabha.|The old monk greets you.|What business brings you here?,อามิตตาพุทธ|เจริญพร|มีอะไรให้อาตมาช่วยหรือ?
+NpcHello_慧元禅师_Like,Amitabha.|The old monk greets you.|What business brings you here?,อามิตตาพุทธ|เจริญพร|มีอะไรให้อาตมาช่วยหรือ?
 NpcHello_慧元禅师_Dislike,"Amitabha.|I advise you to turn back, benefactor.|You have a heavy murderous aura, benefactor.|Benefactor, take care of yourself.",อามิตาพุทธ|อาตมาขอแนะนำประสกให้หันกลับไปเสียเถิด|ประสกมีกลิ่นอายฆ่าฟันรุนแรง|ประสกโปรดดูแลตัวเองด้วย
 NpcHello_慧元禅师_Hate,"Amitabha...|Benefactor, you are going against the natural order, I'm afraid a great disaster is imminent.|I advise you to lay down your butcher's knife, benefactor.|I advise you to return to the right path, benefactor.",อามิตาพุทธ...|ประสกเอ๋ย หากท่านฝืนธรรมชาติ ข้าเกรงว่าภัยพิบัติใหญ่หลวงจะบังเกิดขึ้น|อาตมาขอร้องท่านให้วางมีดลงเถิดประสก|อาตมาขอแนะนำให้ท่านกลับสู่ทำนองคลองธรรมเถิดประสก
 NpcFactionBuy_慧元禅师_RefuseSameFactionOnly,"Amitabha, the Dharma instruments of this temple are only for the use of those who practice in this temple.|Young hero, you are not a member of this temple, and have no fate with the old monk's things.",อามิตาพุทธ ภาชนะที่ใช้ในพิธีกรรมของวัดนี้มีไว้สำหรับผู้ปฏิบัติธรรมในวัดอารามแห่งนี้เท่านั้น|จอมยุทธน้อย ประสกไม่ใช่ศิษย์จากวัดนี้และไม่มีชะตาร่วมกับของของหลวงจีนเฒ่านี่

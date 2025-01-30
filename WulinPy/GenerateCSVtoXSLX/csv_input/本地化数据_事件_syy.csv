@@ -2389,14 +2389,14 @@ M1000-1-4_4_3,"Master Ding, please!",ท่านหัวหน้าติง 
 M1000-1-4_5_1,"Young hero, you are superior in skills. I admire you!",จอมยุทธน้อย ฝีมือท่านเหนือกว่าข้าหนึ่งขั้น ข้าเลื่อมใสในตัวเจ้า!
 M1000-1-4_5_2,"I will accompany you in this battle.\nConfucius Temple·Cai Yuanchang, please make your move, young hero.","ให้ข้าได้ร่วมประลองกับเจ้าในศึกครั้งนี้\nเจ้าสำนักขงจื้อ ไช่หยวนฉาง ท่านจอมยุทธ์น้อยโปรดลงมือ"
 M1000-1-4_5_3,"Master Cai, please!",อาจารย์ไช่ ขอความกรุณาด้วย!
-M1000-1-4_6_1,"Indeed, the student surpasses the master.",ดังคาด คนรุ่นหลังมีความสามารถมากกว่าคนรุ่นก่อน
-M1000-1-4_6_2,"Langya Sword Pavilion·Jian Chi, please make your move, young hero!",ศาลากระบี่หลางหยา·มารกระบี่ โปรดลงมือ จอมยุทธน้อย!
-M1000-1-4_6_3,"Senior, please enlighten me!",เชิญท่านผู้อาวุโสโปรดชี้แนะข้าแก่ข้า!
+M1000-1-4_6_1,"Indeed, the student surpasses the master.",เป็นดังคาด คนรุ่นหลังมีความสามารถมากกว่าคนรุ่นก่อน
+M1000-1-4_6_2,"Langya Sword Pavilion·Jian Chi, please make your move, young hero!",ศาลากระบี่หลางหยา·มารกระบี่ จอมยุทธน้อย เชิญลงมือ!
+M1000-1-4_6_3,"Senior, please enlighten me!",ผู้อาวุโส โปรดชี้แนะด้วย!
 M1000-1-4_7_1,"A hero in his youth, this old man can't keep up anymore.",จอมยุทธ์น้อย ชายชราคนนี้มิใช่คู่มือเจ้าอีกต่อไปแล้ว
-M1000-1-4_7_2,"Amitabha, let this old monk make the move in this round. \nShifa Temple·Hui Yuan, please make your move, benefactor.","อมิตาพุทธ! ขอให้พระเฒ่าท่านนี้เป็นผู้ลงมือในรอบนี้เถิด\nอารามซื่อฟา·ฮุ่ยหยวน ประสก โปรดลงมือ"
+M1000-1-4_7_2,"Amitabha, let this old monk make the move in this round. \nShifa Temple·Hui Yuan, please make your move, benefactor.","อมิตาพุทธ ให้หลวงจีนเฒ่าผู้นี้เป็นผู้ลงมือในรอบนี้เถิด\nอารามซื่อฟา·ฮุ่ยหยวน ประสก เชิญลงมือ"
 M1000-1-4_7_3,"Master Hui Yuan, please!",ไต้ซือฮุ่ยหยวน ขอความกรุณาด้วย!
 M1000-1-4_8_1,"Well, well.",ยอดเยี่ยม ยอดเยี่ยม
-M1000-1-4_8_2,"This is the final battle. If you can defeat the long sword in the hands of the old Taoist, you will truly be a Jianghu Master.",นี่คือการต่อสู้ครั้งสุดท้าย หากเจ้าสามารถเอาชนะกระบี่ยาวในมือของผู้อาวุโสนักพรตเต๋าได้ เจ้าจะเป็นผู้นำยุทธภพอย่างแท้จริง
+M1000-1-4_8_2,"This is the final battle. If you can defeat the long sword in the hands of the old Taoist, you will truly be a Jianghu Master.",นี่คือการประลองครั้งสุดท้าย หากเจ้าสามารถเอาชนะกระบี่ในมือของผู้อาวุโสนักพรตเต๋าได้ เจ้าจะเป็นผู้นำยุทธภพอย่างแท้จริง
 M1000-1-4_8_3,"Taoist Sect·Zhong Yangzi, please make your move, young hero!",สำนักเต๋า·ฉง หยางสื่อ เชิญท่านจอมยุทธน้อย โปรดลงมือ!
 M1000-1-4_8_4,"Head of the sect, please!",ท่านเจ้าสำนัก ขอความกรุณาด้วย!
 M1000-1-4_9_1,Boundless Heavenly Lord!,ท่านเจ้าสวรรค์ไร้ขอบเขต!
@@ -7430,8 +7430,8 @@ M20100-24_4_1,"There are also people talking about the conflicts between the dis
 M20100-24_5_1,The entanglements of these major sects are really unfathomable...,เรื่องราวความขัดแย้งและความแค้นของสำนักใหญ่เหล่านี้ ช่างซับซ้อนและลึกซึ้งยากหยั่งแท้จริง...
 M20100-24_6_1,No wonder I feel this person is familiar. The news of the discord between these sects was spread by him alone. It looks very strange!,ไม่แปลกใจเลย ข้ารู้สึกคุ้นหน้าคนๆ นี้ เขาเป็นคนเดียวกับคนที่กระจายข่าวลือเกี่ยวกับความขัดแย้งของสำนักต่างๆเมื่อกี้นี่นา ดูมีพิรุธน่าสงสัยจริงๆ!
 M20100-24_6_2,"While he's not far away, I'll follow him to see what's going on!",หมอนี่น่าจะยังไปได้ไม่ไกล ข้าน่าจะลองตามมันไปดูดีกว่า!
-M20100-24_7_1,"There are monks in Shifa Temple who do not abide by the rules and precepts, even eating meat and drinking alcohol. It is said that some have been seen visiting the Maiden House.",นี่ๆ มีข่าวลือว่ามีพระในอารามซื่อฟาไม่ปฏิบัติตามศีลด้วย กินเนื้อ เคล้าสุรา แถมยังมีคนเห็นพระรูปหนึ่งไปเที่ยวซ่องโสเภณีอีกต่างหาก!
-M20100-24_7_2,How can there be such unruly monks? Doesn't Shifa Temple care?,พระรูปนี้อาบัติขนาดนี้ อารามซื่อฟาไม่มาจัดการรึยังไงกัน?
+M20100-24_7_1,"There are monks in Shifa Temple who do not abide by the rules and precepts, even eating meat and drinking alcohol. It is said that some have been seen visiting the Maiden House.",นี่ๆ มีข่าวลือว่ามีหลวงจีนในอารามซื่อฟาไม่ปฏิบัติตามศีลด้วย ดื่มสุรากินเนื้อ แถมยังมีบางรูปไปเที่ยวหอคณิกาอีกต่างหาก!
+M20100-24_7_2,How can there be such unruly monks? Doesn't Shifa Temple care?,หลวงจีนเหล่านี้อาบัติขนาดนี้ อารามซื่อฟาไม่จัดการหรือยังไงกัน?
 M20100-24_7_3,"The so-called law does not blame the public. If discovered, they would claim to be secular disciples, not bound by the precepts.",ก็ตามคนเขาว่ากันไง ปลาเน่าตัวเดียวอย่าไปนับทั้งข้อง ถ้าหากถูกจับได้ก็แค่อ้างว่าเป็นศิษย์ฆราวาส ไม่ได้เป็นภิกษุสงฆ์แต่อย่างใด เป็นอันจบเรื่อง
 M20100-24_7_4,"A scholar from Confucius Temple once wrote a Coin chapter condemning these degenerates of the Buddhist sect, but was accused by those monks of being Pretentious and pseudo-Honorable.",เคยมีบัณฑิตจากวัดขงจื๊อเขียนบทความวิพากษ์วิจารณ์พระสงฆ์ที่ประพฤติผิดศีลธรรมอย่างรุนแรง แต่กลับถูกพระเหล่านั้นกล่าวหาว่าเป็นคนหน้าซื่อใจคด ปลิ้นปล้อนไปเรื่อย
 M20100-24_9_1,"Have you heard? A disciple of the Taoist Sect spent the night at a widow's house, and the widow's lover turned out to be a secular disciple of Shifa Temple...",แล้วเจ้าเคยได้ยินข่าวลือหรือนี้ไหม? ศิษย์สำนักเต๋าไปนอนค้างคืนบ้านหญิงม่าย แต่ชู้รักของหญิงม่ายนั้นดันเป็นศิษย์ฆราวาสจากอารามซื่อฟาซะงั้น...
@@ -9032,7 +9032,7 @@ M1000-1-4_25_1,"You are indeed powerful, worthy of being the Rising Star of toda
 M1000-1-4_25_2,"Langya Sword Pavilion·Jian Chi, please make your move!",ศาลากระบี่หลางหยา·มารกระบี่ โปรดลงมือ!
 M1000-1-4_25_3,Please enlighten me!,โปรดชี้แนะ!
 M1000-1-4_26_1,"A hero in his youth, this old man can't keep up anymore.",จอมยุทธ์น้อย ชายชราคนนี้มิใช่คู่มือเจ้าอีกต่อไปแล้ว
-M1000-1-4_26_2,"Amitabha, let this old monk make the move in this round. \nShifa Temple·Hui Yuan, please make your move, benefactor.","อมิตาพุทธ! ขอให้พระเฒ่าท่านนี้เป็นผู้ลงมือในรอบนี้เถิด\nอารามซื่อฟา·ฮุ่ยหยวน ประสก โปรดลงมือ"
+M1000-1-4_26_2,"Amitabha, let this old monk make the move in this round. \nShifa Temple·Hui Yuan, please make your move, benefactor.","อมิตาพุทธ! ให้หลวงจีนเฒ่าเป็นผู้ลงมือในรอบนี้เถิด\nอารามซื่อฟา·ฮุ่ยหยวน ประสก เชิญลงมือ"
 M1000-1-4_26_3,"Master Hui Yuan, please!",ไต้ซือฮุ่ยหยวน ขอความกรุณาด้วย!
 M1000-1-4_27_1,"Well, well.",ยอดเยี่ยม ยอดเยี่ยม
 M1000-1-4_27_2,"This is the final battle. If you can defeat the long sword in the hands of the old Taoist, you will truly be a Jianghu Master.",นี่คือการต่อสู้ครั้งสุดท้าย หากเจ้าสามารถเอาชนะกระบี่ยาวในมือของผู้อาวุโสนักพรตเต๋าได้ เจ้าจะเป็นผู้นำยุทธภพอย่างแท้จริง

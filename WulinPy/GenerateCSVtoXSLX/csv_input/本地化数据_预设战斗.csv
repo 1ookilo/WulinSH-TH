@@ -1241,10 +1241,10 @@ BattleFieldInfo_M20518-5群殴,"<#61C3C8>{PlayerName}</color> join the battle, u
 BattleFieldWin_M20518-5群殴,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_M20518-5群殴,<#61C3C8>All of our members</color> are defeated.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldInfo_M20512-2叶银瓶学艺,Only <#61C3C8>Ye Yinping</color> is allowed to fight.,<#61C3C8>เย่หยินผิง</color>เท่านั้น ที่ได้รับอนุญาตให้ต่อสู้
-BattleFieldWin_M20512-2叶银瓶学艺,Defeat the <#61C3C8>Dojokeeper of Fushan Hall</color>.,เอาชนะ<#61C3C8>ผู้ดูแลหอคุนฟาง</color>
+BattleFieldWin_M20512-2叶银瓶学艺,Defeat the <#61C3C8>Dojokeeper of Fushan Hall</color>.,เอาชนะ<#61C3C8>ผู้ดูแลหอ</color>
 BattleFieldFail_M20512-2叶银瓶学艺,<#61C3C8>Ye Yinping</color> was defeated.,<#61C3C8>เย่หยินผิง</color> พ่ายแพ้
 BattleFieldInfo_M20512-3杨幺儿学艺,Only <#61C3C8>Yang Yao Er</color> can participate in the battle.,มีเพียงแค่<#61C3C8>หยางเหยาเอ๋อ</color>ที่สามารถเข้าร่วมการต่อสู้ได้
-BattleFieldWin_M20512-3杨幺儿学艺,Defeat the <#61C3C8>Dojokeeper of Fushan Hall</color>.,เอาชนะ<#61C3C8>ผู้ดูแลหอคุนฟาง</color>
+BattleFieldWin_M20512-3杨幺儿学艺,Defeat the <#61C3C8>Dojokeeper of Fushan Hall</color>.,เอาชนะ<#61C3C8>ผู้ดูแลหอ</color>
 BattleFieldFail_M20512-3杨幺儿学艺,<#61C3C8>Yang Yao Er</color> was defeated.,<#61C3C8>หยางเหยาเอ๋อ</color> พ่ายแพ้
 BattleFieldInfo_M20500-2硬闯,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
 BattleFieldWin_M20500-2硬闯,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
