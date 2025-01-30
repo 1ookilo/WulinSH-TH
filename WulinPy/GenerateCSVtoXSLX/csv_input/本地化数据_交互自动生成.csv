@@ -2340,8 +2340,8 @@ NpcLeaveTeam_燕歌行_LeaveTalk,"Good disciple, I will go back and rest for a f
 NpcBath_鱼薇儿_Saw,"What are you going to do!|Don't come here!|Don't come over!|Stay away from Wei'er!|Sister, save me!","ท่านจะทำอะไร!|อย่ามาที่นี่!|อย่าเข้ามา!|อยู่ให้ห่างจากเว่ยเอ๋อ!|ศิษย์พี่หญิง, ช่วยข้าด้วย!"
 NpcInteractive_严如蕊_Like,What are you going to do to her?,เจ้าจะทำอะไรกับนาง?
 NpcInteractive_严如蕊_Dislike,What are you going to do to her?,เจ้าจะทำอะไรกับนาง?
-NpcHello_严如蕊_SelfIntroHigh,"If the young master is interested in a girl, just tell me.",หากนายน้อยสนใจสาวๆล่ะก็ บอกข้าได้เลยนะ
-NpcHello_严如蕊_SelfIntroLow,"If the young master is interested in a girl, just tell me.",หากนายน้อยสนใจสาวๆล่ะก็ บอกข้าได้เลยนะ
+NpcHello_严如蕊_SelfIntroHigh,"If the young master is interested in a girl, just tell me.",หากคุณชายสนใจสาวๆล่ะก็ บอกข้าได้เลยนะเจ้าคะ
+NpcHello_严如蕊_SelfIntroLow,"If the young master is interested in a girl, just tell me.",หากคุณชายสนใจสาวๆล่ะก็ บอกข้าได้เลยนะเจ้าคะ
 NpcHello_严如蕊_Common,"The young master is here again, please feel free.|Welcome the young master to come often.|Which girl has the young master set his eyes on?|Young master, please sit anywhere.",นายน้อยมาอีกแล้ว เชิญตามสบาย|เชิญนายน้อยมาบ่อยๆนะ|นายน้อยสนใจแม่นางคนไหนหรือ?|นายน้อย เชิญนั่งก่อน
 NpcHello_严如蕊_Like,"The young master comes often recently, which girl has he set his eyes on?|Welcome the young master to come often.|Is there anything I can help you with?|Treat this place like home, young master.",ช่วงนี้นายน้อยมาที่นี่บ่อยๆ เขาหลงรักสาวคนไหน? |คุณชายแวะมาบ่อยๆนะครับ |มีอะไรที่พี่สาวของข้าสามารถช่วยท่านได้บ้างไหม? |นายน้อย ปฏิบัติต่อสถานที่แห่งนี้เหมือนบ้านของท่าน
 NpcHello_严如蕊_Dislike,"The young master is here to have fun, don't talk to me.",นายน้อยมาที่นี่เพื่อเล่นสนุก ไม่ต้องคุยกับข้า
