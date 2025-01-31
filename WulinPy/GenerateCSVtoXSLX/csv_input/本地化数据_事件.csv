@@ -280,7 +280,7 @@ M1500-1_overview_1,Go to the withered tree in <color=#c44b0e>Wild Wolf Valley</c
 4002_options01_1,[Item] Agree to give Sandalwood prayer beads to Void,[Item] ตกลงที่จะมอบลูกประคำไม้จันทน์ให้กับความว่างเปล่า
 4002_options01_2,[Refuse] Refuse to give Sandalwood prayer beads,[ปฏิเสธ] ปฏิเสธที่จะให้ลูกประคำไม้จันทน์
 4005_name,Ye Yinping's obsession,ความหลงไหลของเย่หยินผิง
-4005_options01_1,Exchange with martial arts Manual,แลกเปลี่ยนกับคู่มือศิลปะการต่อสู้
+4005_options01_1,Exchange with martial arts Manual,แลกเปลี่ยนกับตำราวรยุทธ
 4005_options01_2,Invite Ye Yinping to join your party,ชักชวน เย่หยินผิง เข้าร่วมกลุ่มกับท่าน
 4005_options01_3,Give it to Ye Yinping without any conditions,มอบให้ เย่หยินผิง โดยไม่มีเงื่อนไขใด ๆ
 4005_options01_4,Not planning to transfer,ไม่คิดจะโอน
@@ -663,8 +663,8 @@ M20300-21option1_1,Is this bottle of wine to your taste?<color=#097a76>(Jiannan 
 M20300-21option1_2,"It's better to meet by chance than to invite, let me treat you today!<color=#097a76>(1000 Wen·one shichen)</color>","พบกันโดยบังเอิญดีกว่าถูกเชิญให้มาพบ, วันนี้ให้ข้าเลี้ยงเอง!<color=#097a76>(1,000 อีแปะ หนึ่งชั่วโมง)</color>"
 M20300-21option1_3,"It's hard for a clean official to settle domestic disputes, I can't interfere in your affairs.",เป็นเรื่องยากสำหรับข้าราชการที่เที่ยงธรรมที่จะจัดการกับข้อพิพาทภายในประเทศ แต่ข้าไม่สามารถควบคุมงานของท่านได้
 M20300-21option2_dialog,"Kid, you're so eager to please me, what do you want?",เจ้าหนู เจ้ากระตือรือร้นที่จะทำให้ข้าพอใจมาก เจ้าต้องการอะไร?
-M20300-21option2_1,Give some martial arts tips.,ให้คำแนะนำศิลปะการต่อสู้บางอย่าง
-M20300-21option2_2,Request for martial arts stories.,ขอเรื่องราวศิลปะการต่อสู้
+M20300-21option2_1,Give some martial arts tips.,ให้คำแนะนำวรยุทธบางอย่าง
+M20300-21option2_2,Request for martial arts stories.,ขอเรื่องราวเกี่ยวกับวรยุทธ
 M20300-21option2_3,Nothing else.,ไม่มีอะไรอีกแล้ว.
 M20300-31_name,Search for people in Lin'an,ค้นหาผู้คนในหลินอัน
 M20300-31_talk,Search for people,ค้นหาผู้คน

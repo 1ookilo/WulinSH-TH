@@ -1706,8 +1706,8 @@ R10045-3_option1_2,Come back later.,กลับมาวันหลัง
 R10045-3_option2_1,I will definitely help you!,ข้าจะช่วยเจ้าแน่นอน!
 R10045-3_option2_2,Better to stay out of it.,ไม่ยุ่งด้วยดีกว่า
 R10045-4_name,Deep Hatred,แค้นฝังลึก
-R10045-4_overview1,Kill Xiao Yuanba in the Yan Kingdom's camp to avenge Han Hongyu's father.,สังหาร เสี่ยวหยวนปา ในค่ายกองทัพแคว้นเยี่ยน เพื่อล้างแค้นให้บิดาของหานหงหยู
-R10045-4_overview2,Inform Han Hongyu of Xiao Yuanba's death.,แจ้งเรื่องการตายของ เสี่ยวหยวนปา แก่ ฮันหงหยู
+R10045-4_overview1,Kill Xiao Yuanba in the Yan Kingdom's camp to avenge Han Hongyu's father.,สังหาร เสี่ยวหยวนปา ในค่ายกองทัพแคว้นเยี่ยน เพื่อล้างแค้นให้บิดาของหานหงอวี้
+R10045-4_overview2,Inform Han Hongyu of Xiao Yuanba's death.,แจ้งเรื่องการตายของเสี่ยวหยวนปาแก่หานหงอวี้
 School-2070-5_option1_1,Accept the challenge <color=#097a76>(Solo fight)</color>,รับคำท้า <color=#097a76>(ต่อสู้คนเดียว)</color>
 School-2070-5_option1_2,Talk about it later.,ไว้คุยเรื่องนี้ทีหลัง
 School-2070-6_option1_1,Accept the challenge <color=#097a76>(Solo fight)</color>,รับคำท้า <color=#097a76>(ต่อสู้คนเดียว)</color>
@@ -1958,7 +1958,7 @@ R10045-2_overview6,Deliver the goods to the shopkeeper at Lin'an CityRelic House
 R10045-2_overview7,Deliver the goods to the morning offering at Chuxiang CityPawn shop.,ส่งสินค้าให้กับเจ้าของโรงรับจำนำในเมืองฉู่เซียง
 R10045-2_overview8,Deliver the goods to the shopkeeper at Daliang CityGolden Fortune Shop.,ส่งสินค้าให้กับเถ้าแก่ร้านโชคทองคำในเมืองต้าเหลียง
 R10045-2_overview9,Deliver the goods to the shopkeeper of Wine God Tower in Lin'an City.,ส่งสินค้าให้กับเจ้าของหอคอยเทพสุราในเมืองหลินอัน
-R10045-2_overview10,"The escort mission has been completed, you can get new goods from Han Hongyu.",ภารกิจคุ้มกันสินค้าสำเร็จแล้ว สามารถไปรับสินค้าใหม่ได้จาก หานหงหยู
+R10045-2_overview10,"The escort mission has been completed, you can get new goods from Han Hongyu.",ภารกิจคุ้มกันสินค้าสำเร็จแล้ว สามารถไปรับสินค้าใหม่ได้จาก หานหงอวี้
 M20302-5_overview4,Something has been done to the Info well.,บ่อน้ำนี้ถูกทำอะไรบางอย่างไว้
 Fame-8_overview2,Go to the Jian Yan Emperor's palace in Wuyue Region to clear Marshal Ye's name.,ไปยังวังหลวงฮ่องเต้เจี้ยนเหยียนเพื่อแก้ต่างให้แม่ทัพเย่
 Fame-8_overview3,"After being summoned by the Jian Yan Emperor, go to the palace to receive the reward.",หลังจากถูกฮ่องเต้เจี้ยนเหยียนเรียกไปเข้าเฝ้า ไปวังหลวงเพื่อรับพระราชทานรางวัล
@@ -1967,7 +1967,7 @@ R10028-4_option3_1,Go take a look.,ลองไปดู
 R10028-4_option3_2,Let's talk about it later.,ไว้คุยเรื่องนี้ทีหลัง
 R10028-7_name,Drown the sorrows,ดื่มเหล้าดับทุกข์
 R10028-7_overview1,"Go to the tavern in <color=#c44b0e>Chuxiang City</color>, <color=#c44b0e>Daliang City</color> or <color=#c44b0e>Lin'an City</color> with Wanyan Zhaoning for a hearty drink.","ไปยังโรงเหล้าใน <color=#c44b0e>เมืองฉู่เซียง</color>, <color=#c44b0e>เมืองต้าเหลียง</color> หรือ<color=#c44b0e>เมืองหลินอัน</color> กับหวันเหยียนเจ้าหนิง เพื่อดื่มย้อมใจ"
-M10070-4-1_option1_1,Help Han Hongyu.<color=#c44b0e>(Specific Battle)</color>,ช่วย หานหงหยู <color=#c44b0e>(เข้าสู่การต่อสู้)</color>
+M10070-4-1_option1_1,Help Han Hongyu.<color=#c44b0e>(Specific Battle)</color>,ช่วยหานหงอวี้ <color=#c44b0e>(เข้าสู่การต่อสู้)</color>
 M10070-4-1_option1_2,Help Xiao Yuanba.<color=#c44b0e>(Specific Battle)</color>,ช่วย เสี่ยวหยวนป้า <color=#c44b0e>(เข้าสู่การต่อสู้)</color>
 R10099-3-2_overview2,"Already resolved the trouble caused by Nine Factions Sect in Chuxiang City.\nGo to Lin'an City, Daliang City to resolve the trouble caused by Nine Factions Sect.","จัดการปัญหาที่นิกายเก้าฝ่ายก่อไว้ในเมืองฉู่เซียงเรียบร้อยแล้ว\nไปยังเมืองหลินอัน, เมืองต้าเหลียง เพื่อจัดการปัญหาที่นิกายเก้าฝ่ายก่อขึ้น"
 R10099-3-2_overview3,"Already resolved the trouble caused by Nine Factions Sect in Chuxiang City, Daliang City.\nGo to Lin'an City to resolve the trouble caused by Nine Factions Sect.","จัดการปัญหาที่นิกายเก้าฝ่ายก่อไว้ในเมืองฉู่เซียง, เมืองต้าเหลียงเรียบร้อยแล้ว\nไปยังเมืองหลินอัน เพื่อจัดการปัญหาที่นิกายเก้าฝ่ายก่อขึ้น"

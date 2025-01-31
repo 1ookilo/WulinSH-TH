@@ -1582,10 +1582,10 @@ School-2150-4_1_5_8,"Wanyan brother, I don't understand military affairs, but do
 School-2150-4_1_5_9,"Damn, this is a feint... ",บัดซบ! นี่มันแค่กลลวง...
 School-2150-4_1_5_11,"Report, a group of Ye Family Battalion Soldiers and martial artists suddenly sprang up in the stockade, and they took away that rare item!",ขอรายงาน! ทหารกองพันตระกูลเย่และเหล่ายอดยุทธ์พลันโผล่ขึ้นกลางค่าย พวกมันชิงเอาของล้ำค่าไปแล้ว ขอรับ!
 School-2150-4_1_5_12,"Damn, this is not good!\n{PlayerSurName} brother, let's go check it out!","บัดซบ! เช่นนี้มิได้การแล้ว!\nน้อง{PlayerSurName} ไปดูกันเถิด!"
-School-2150-4_1_6_1,"Are you {PlayerName} the brave man? The marshal is not in the camp, he sent me to wait for you here.",ท่านคือยอดวีรบุรุษ {PlayerName} หรือไม่? แม่ทัพไม่ได้อยู่ในค่าย เขาส่งข้ามารอท่านที่นี่!
+School-2150-4_1_6_1,"Are you {PlayerName} the brave man? The marshal is not in the camp, he sent me to wait for you here.",ท่านคือวีรบุรุษ {PlayerName} ใช่หรือไม่? แม่ทัพไม่ได้อยู่ในค่าย เขาส่งข้ามารอท่านที่นี่!
 School-2150-4_1_6_2,"Please follow me, brave man.",เชิญท่านวีรบุรุษตามข้ามา
 School-2150-4_1_6_3,Okay.,ได้!
-School-2150-4_1_6_4,"Please wait here, brave man. The marshal will be back later.",ยอดวีรบุรุษ โปรดรออยู่ที่นี่ก่อน แม่ทัพใหญ่จะกลับมาในภายหลัง
+School-2150-4_1_6_4,"Please wait here, brave man. The marshal will be back later.",ท่านวีรบุรุษ โปรดรออยู่ที่นี่ก่อน แม่ทัพใหญ่จะกลับมาในภายหลัง
 School-2150-4_1_6_5,Where did your marshal go with the troops?,แม่ทัพใหญ่ของพวกเจ้ายกทัพไปที่ใด?
 School-2150-4_1_6_6,"We found a small group of Ye Family Battalion in Zhongzhou, and the marshal led the troops to fight.",พวกเราพบกองพันตระกูลเย่กลุ่มเล็กๆในเขตจงโจว แม่ทัพใหญ่จึงนำทัพเข้าต่อสู้!
 School-2150-4_1_6_7,"We found the Ye Family Battalion in Zhongzhou, and at the same time, the three sects' Disciples were causing trouble... ",พวกเราพบกองพันตระกูลเย่ในเขตจงโจว และในขณะเดียวกัน บรรดาศิษย์จากสามสำนักก็ก่อความวุ่นวายอยู่...
@@ -1721,30 +1721,30 @@ School-2150-4_6_1_21,"The fact that I am the leader of the Nine Factions Sect is
 School-2150-4_6_1_22,"This is the perfect plan I have thought of for you.\nTo help you win over the people, I now pass on this supreme palm technique to you.","นี่คือแผนการที่สมบูรณ์แบบที่สุดที่ข้าคิดไว้เพื่อเจ้า!\nเพื่อช่วยให้เจ้าครองใจผู้คน บัดนี้ ข้าจะถ่ายทอดสุดยอดกระบวนท่าฝ่ามือให้เจ้า!"
 School-2150-4_6_1_23,"Thank you, sect leader... ",ขอบคุณท่านผู้นำ
 School-2150-4_6_2_1,"As for the sect's shop, I have already handed it over to Lin Shopkeeper, you can buy what you need from him.",ส่วนร้านค้าของสำนัก ข้าได้มอบหมายให้เถ้าแก่หลินดูแลแล้ว เจ้าอยากได้สิ่งใด ก็ไปซื้อจากเขาเถอะ!
-School-2150-4_6_3_1,"As for the sect's shop, I should have handed it over to Lin Shopkeeper, but where he went... you should know better than me."
-School-2150-4_6_4_1,"Right, during the time you were unconscious, the marshal of Yan Yun Iron Army, Wanyan Wuzhu, has been preparing to send troops to Chuxiang City."
-School-2150-4_6_4_2,"There is still some time before they besiege Chuxiang City, you should rest well first, when they besiege Chuxiang City, I will give you the next instruction."
-School-2150-4_6_4_3,Okay.
-School-2150-4_6_4_4,"So to avoid suspicion, I'll run away first, I'll come back when I need to contact you."
+School-2150-4_6_3_1,"As for the sect's shop, I should have handed it over to Lin Shopkeeper, but where he went... you should know better than me.",ส่วนร้านค้าของสำนัก ข้าควรส่งมอบให้เถ้าแก่หลินดูแล แต่เขาหายไปไหน... เรื่องนี้เจ้าย่อมรู้ดีกว่าข้า!
+School-2150-4_6_4_1,"Right, during the time you were unconscious, the marshal of Yan Yun Iron Army, Wanyan Wuzhu, has been preparing to send troops to Chuxiang City.",ถูกต้อง ในช่วงเวลาที่เจ้าหมดสติ แม่ทัพใหญ่แห่งกองทัพเหล็กเยี่ยนหยุน หวันเหยียนอู๋จู ได้เตรียมการที่จะส่งกองทัพไปยังเมืองฉู่เซียงแล้ว
+School-2150-4_6_4_2,"There is still some time before they besiege Chuxiang City, you should rest well first, when they besiege Chuxiang City, I will give you the next instruction.",ยังมีเวลาอีกสักระยะก่อนที่พวกมันจะล้อมเมืองฉู่เซียงได้ เจ้าจงพักผ่อนให้เต็มที่ก่อนเถอะ เมื่อกองทัพเริ่มล้อมเมืองฉู่เซียง ข้าจะมอบคำสั่งถัดไปแก่เจ้า!
+School-2150-4_6_4_3,Okay.,ขอรับ
+School-2150-4_6_4_4,"So to avoid suspicion, I'll run away first, I'll come back when I need to contact you.",เพื่อหลีกเลี่ยงความสงสัย ข้าจะหลบไปก่อน เมื่อถึงเวลาต้องติดต่อเจ้า ข้าจะกลับมาเอง!
 School-2150-4_6_4_5,……,……
-B1000-2150_1,"Little brother, since you want to help the Yan army, you and I will break off our relationship from now on!"
-B1000-2150_2,"I absolutely won't help the Yan army, since you want to be a traitor, I don't have a brother like you!"
-B1000-2150_3,"Since you want to help the Yan dogs, we will be enemies the next time we meet."
-B1000-2150_4,"{PlayerName}, since you want to help the Yan people, you are making an enemy of the Ye Family Battalion, from now on you are my enemy!"
-B1000-2150_5,"You're actually going to help those Yan dogs, have you forgotten what you said to me before?\nYou unfaithful villain, don't let me see you again!"
-B1000-2150_6,"I've killed so many Yan dogs, and now my best friend is going to help these Yan dogs! Our brotherhood is over, and we will be mortal enemies when we meet in the future!"
-B1000-2150_7,"You're helping the Yan people, you're no longer my friend!"
-B1000-2150_8,"My father's death is related to the Yan army. If you help the Yan army, you are against me!"
-B1000-2150_9,"The Yan army is eyeing Chuxiang City, how can this young master help you against my father? If you help the Yan army, this young master will not cover you anymore!"
-B1000-2150_10,"Although Monk Me has no ambition to save the world, he does not want to add to the world's troubles. Monk Me is leaving!"
-B1000-2150_11,"Taoist Me will not join forces with the Yan people. If you work for the Yan people, we will go our separate ways."
-B1000-2150_12,"Although I'm not a righteous martial artist, I have my bottom line. I won't betray my country! Goodbye!"
-B1000-2150_13,"The Yan people are attacking us, and you're helping them? Don't ever come to see me again!"
-B1000-2150_14,"The Yan people are attacking my land, killing my people, and capturing my emperor, and you are serving them? If our paths are different, we cannot make plans together. The next time we meet, it will be a battle!"
-School-2150-4-1_1_1,"Tsk, there's an ambush... "
-School-2150-4-1_1_2,"Yan dogs, do you still underestimate the Central Plains martial arts?"
-School-2150-4-1_1_3,You represent the Central Plains martial arts? I spit on you!
-School-2150-4-1_2_1,"You don't distinguish between right and wrong, and you help the tyrant. You will taste the bitter fruit!"
+B1000-2150_1,"Little brother, since you want to help the Yan army, you and I will break off our relationship from now on!",น้องชาย! ในเมื่อเจ้าคิดจะช่วยกองทัพเยี่ยน ตั้งแต่นี้ไป เจ้ากับข้า ขาดกัน!
+B1000-2150_2,"I absolutely won't help the Yan army, since you want to be a traitor, I don't have a brother like you!",ข้าไม่มีวันช่วยกองทัพเยี่ยนเด็ดขาด! ในเมื่อเจ้าคิดจะเป็นกบฏ ข้าก็ไม่ต้องการพี่น้องเช่นเจ้าอีกต่อไป!
+B1000-2150_3,"Since you want to help the Yan dogs, we will be enemies the next time we meet.",ในเมื่อเจ้าคิดจะช่วยพวกสุนัขเยี่ยน เช่นนั้นคราวหน้าเมื่อพบกัน เราคือศัตรูกัน!
+B1000-2150_4,"{PlayerName}, since you want to help the Yan people, you are making an enemy of the Ye Family Battalion, from now on you are my enemy!",{PlayerName} ในเมื่อเจ้าคิดช่วยพวกเยี่ยน เท่ากับว่าตั้งตนเป็นศัตรูกับกองพันตระกูลเย่! นับจากนี้ไป เจ้าคือศัตรูของข้า!
+B1000-2150_5,"You're actually going to help those Yan dogs, have you forgotten what you said to me before?\nYou unfaithful villain, don't let me see you again!","เจ้าคิดจะช่วยพวกสุนัขเยี่ยนจริงๆรึ? เจ้าลืมคำที่เคยพูดกับข้าไปแล้วหรือไร?\nเจ้าคนไร้สัตย์ทรยศ! อย่าให้ข้าได้พบเจ้าอีกเป็นอันขาด!"
+B1000-2150_6,"I've killed so many Yan dogs, and now my best friend is going to help these Yan dogs! Our brotherhood is over, and we will be mortal enemies when we meet in the future!",ข้าสังหารพวกสุนัขเยี่ยนมานับไม่ถ้วน แต่บัดนี้... สหายรักของข้ากลับจะไปช่วยพวกมัน! ความเป็นพี่น้องของเราถือว่าสิ้นสุดกันเพียงเท่านี้! ต่อไปหากพบกัน เราจะเป็นศัตรูกันจนกว่าจะตายไปข้างหนึ่ง!
+B1000-2150_7,"You're helping the Yan people, you're no longer my friend!",เจ้าช่วยพวกเยี่ยนแล้ว ข้าไม่ขอนับว่าเจ้าคือสหายข้าอีกต่อไป!
+B1000-2150_8,"My father's death is related to the Yan army. If you help the Yan army, you are against me!",การตายของพ่อข้าเกี่ยวข้องกับกองทัพเยี่ยน หากเจ้าช่วยพวกมัน เท่ากับว่าเจ้ากำลังยืนข้างศัตรูข้า!
+B1000-2150_9,"The Yan army is eyeing Chuxiang City, how can this young master help you against my father? If you help the Yan army, this young master will not cover you anymore!",กองทัพเยี่ยนกำลังเล็งเมืองฉู่เซียงอยู่ แล้วนายน้อยผู้นี้จะช่วยเจ้าไปต่อต้านบิดาของข้าได้อย่างไร? หากเจ้าช่วยพวกกองทัพเยี่ยน นายน้อยผู้นี้จะไม่คุ้มครองเจ้าอีกต่อไป!
+B1000-2150_10,"Although Monk Me has no ambition to save the world, he does not want to add to the world's troubles. Monk Me is leaving!",แม้หลวงจีนอย่างอาตมาจะไร้ความทะเยอทะยานที่จะช่วยยุทธภพ แต่อาตมาก็ไม่ปรารถนาเพิ่มภาระให้กับยุทธภพ อาตมาขอลาจาก!
+B1000-2150_11,"Taoist Me will not join forces with the Yan people. If you work for the Yan people, we will go our separate ways.",นักพรตอย่างข้า ไม่ร่วมมือกับพวกเยี่ยน หากท่านเลือกทำงานให้พวกเยี่ยน เราคงต้องแยกทางกันแล้ว!
+B1000-2150_12,"Although I'm not a righteous martial artist, I have my bottom line. I won't betray my country! Goodbye!",แม้ข้ามิใช่นักรบผู้ทรงธรรม แต่ข้าก็มีหลักการของตน! ข้าจะไม่ทรยศแผ่นดิน! ลาก่อน!
+B1000-2150_13,"The Yan people are attacking us, and you're helping them? Don't ever come to see me again!",กองทัพเยี่ยนกำลังโจมตีเรา และเจ้ากลับไปช่วยเหลือพวกมันอีก? อย่ามาพบหน้าข้าอีกเลย!
+B1000-2150_14,"The Yan people are attacking my land, killing my people, and capturing my emperor, and you are serving them? If our paths are different, we cannot make plans together. The next time we meet, it will be a battle!",ชาวเยี่ยนบุกโจมตีแผ่นดินของข้า สังหารผู้คนของข้า และจับองค์ฮ่องเต้ของข้าเป็นเชลย และเจ้ากลับไปรับใช้พวกมัน? หากเส้นทางของเราแตกต่าง เรามิอาจวางแผนร่วมกันไม่ได้ การพบกันครั้งหน้า จะเป็นสนามรบ!
+School-2150-4-1_1_1,"Tsk, there's an ambush... ",ชิ มีคนซุ่มโจมตี...
+School-2150-4-1_1_2,"Yan dogs, do you still underestimate the Central Plains martial arts?",พวกสุนัขเยี่ยน พวกเจ้ายังคงดูแคลนในวิทยายุทธของจงหยวนอยู่หรือ?
+School-2150-4-1_1_3,You represent the Central Plains martial arts? I spit on you!,เจ้าเป็นตัวแทนวรยุทธของจงหยวนหรือ? ข้าขอถ่มน้ำลายใส่!
+School-2150-4-1_2_1,"You don't distinguish between right and wrong, and you help the tyrant. You will taste the bitter fruit!",เจ้าแยกแยะชั่วดีไม่ได้  ยังไปช่วยทรราชอีก  เจ้าจะต้องลิ้มรสผลกรรมอันขมขื่น!
 School-2150-4-1_2_2,"Oh? You claim to be righteous, but you have to rely on ambushes to succeed. If you're so powerful, why don't you face me head-on?"
 School-2150-4-1_2_3,Hmph!
 School-2150-4-1_2_4,"Thank you, brave man. If it weren't for your help, I would have been ambushed by these bull-nosed men... "

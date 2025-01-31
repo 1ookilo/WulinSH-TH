@@ -748,7 +748,7 @@ BattleFieldFail_R10021-0将军战斗,<#61C3C8>All of our members</color> are def
 BattleFieldInfo_M20100-5脏街混混,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
 BattleFieldWin_M20100-5脏街混混,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_M20100-5脏街混混,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
-BattleFieldInfo_R10036-3萧元霸-韩红玉是队友,"<#61C3C8>{PlayerName}</color> and <#61C3C8>Han Hongyu</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color>และ<#61C3C8>หานหงหยู</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldInfo_R10036-3萧元霸-韩红玉是队友,"<#61C3C8>{PlayerName}</color> and <#61C3C8>Han Hongyu</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color>และ<#61C3C8>หานหงอวี้</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
 BattleFieldWin_R10036-3萧元霸-韩红玉是队友,Defeat <#61C3C8>Xiao Yuanba</color>.,เอาชนะ <#61C3C8>เสี่ยวหยวนป้า</color>
 BattleFieldFail_R10036-3萧元霸-韩红玉是队友,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
 BattleFieldInfo_R10036-3萧元霸-韩红玉不是队友,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
@@ -829,11 +829,11 @@ BattleFieldFail_M20200-16硬闯齐王府,<#61C3C8>All of our members</color> are
 BattleFieldInfo_M20300-11硬闯康王府,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
 BattleFieldWin_M20300-11硬闯康王府,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
 BattleFieldFail_M20300-11硬闯康王府,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
-BattleFieldInfo_M10070-4-1帮韩红玉,Only <#61C3C8>{PlayerName}</color> and <#61C3C8>Han Hongyu</color> are in the battle.,มีเพียง <#61C3C8>{PlayerName}</color> และ <#61C3C8>หานหงหยู</color> เท่านั้นที่อยู่ในการต่อสู้
+BattleFieldInfo_M10070-4-1帮韩红玉,Only <#61C3C8>{PlayerName}</color> and <#61C3C8>Han Hongyu</color> are in the battle.,มีเพียง <#61C3C8>{PlayerName}</color> และ <#61C3C8>หานหงอวี้</color> เท่านั้นที่อยู่ในการต่อสู้
 BattleFieldWin_M10070-4-1帮韩红玉,Defeat <#61C3C8>Xiao Yuanba</color>.,เอาชนะ <#61C3C8>เสี่ยวหยวนป้า</color>
 BattleFieldFail_M10070-4-1帮韩红玉,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color>พ่ายแพ้
 BattleFieldInfo_M10070-4-1帮萧元霸,Only <#61C3C8>{PlayerName}</color> and <#61C3C8>Xiao Yuanba</color> are in the battle.,แค่เพียง <#61C3C8>{PlayerName}</color> และ <#61C3C8>เสี่ยวหยวนป้า</color> เท่านั้นที่อยู่ในการต่อสู้
-BattleFieldWin_M10070-4-1帮萧元霸,Defeat <#61C3C8>Han Hongyu</color>.,เอาชนะ <#61C3C8>หานหงหยู</color>
+BattleFieldWin_M10070-4-1帮萧元霸,Defeat <#61C3C8>Han Hongyu</color>.,เอาชนะ <#61C3C8>หานหงอวี้</color>
 BattleFieldFail_M10070-4-1帮萧元霸,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color>พ่ายแพ้
 BattleFieldInfo_R10008-5凌鸿轩,Only <#61C3C8>{PlayerName}</color> participate in the battle.,เฉพาะ<#61C3C8>{PlayerName}</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
 BattleFieldWin_R10008-5凌鸿轩,Defeat <#61C3C8>Ling Hongxuan</color>.,เอาชนะ <#61C3C8>หลิงหงซวน</color>
