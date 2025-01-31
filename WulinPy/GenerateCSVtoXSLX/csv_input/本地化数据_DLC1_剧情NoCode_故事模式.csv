@@ -2468,7 +2468,7 @@ Story-part31_5_2,"I was careless, I should go back to the sect to heal..."
 Story-part31_6_1,"Sect leader, you are merciful, don't hit me anymore..."
 Story-part31_6_2,"Today, I will give you a name, let's call you the Three Dizzy Bears, haha!"
 Story-part31_6_3,"...Thank you, sect leader, for the name!"
-Story-part31_6_4,"Thank you, hero, for stepping in. I am Yan Rurui, nice to meet you~",ขอบคุณท่านจอมยุทธ์ ที่ยื่นมือช่วยเหลือ ข้าน้อยเหยียนรุรุย ยินดีที่ได้พบท่าน~
+Story-part31_6_4,"Thank you, hero, for stepping in. I am Yan Rurui, nice to meet you~",ขอบคุณท่านจอมยุทธ์ ที่ยื่นมือช่วยเหลือ ข้าน้อยเหยียนหรูรุ่ย ยินดีที่ได้พบท่าน~
 Story-part31_6_5,"I am {PlayerName}, Miss Yan, you're welcome, this is what we, as chivalrous people, should do."
 Story-part31_6_6,"So you are the sect leader of {PlayerSurName}! I have heard Duke Kang mention you many times, saying that you are a rare pillar of the country. In that case, I have a big favor to ask..."
 Story-part31_6_7,"There's no need for such a big ceremony, Miss Yan, please get up quickly."
@@ -2478,7 +2478,7 @@ Story-part31_7_1,"Why is there never an end to the various things in the sect, f
 Story-part32_1_1,"Sect leader, after Duke Kang heard that you wanted to help Miss Yan get rid of her lowly status, he took the initiative to send someone to deliver the household registration certificate of Miss Yan's good family.",ท่านเจ้าสำนัก เมื่อท่านอ๋องคังทรงทราบว่า ท่านต้องการจะช่วยแม่นางเหยียนให้พ้นจากสถานะอันต่ำต้อย ท่านก็ส่งคนมามอบเอกสารตระกูลของแม่นางเหยียน ที่ยืนยันว่าตระกูลของแม่นางเหยียนเป็นตระกูลที่ดี
 Story-part32_1_2,"Since Duke Kang is so considerate, we must immediately tell Miss Yan the good news."
 Story-part32_name,A free person
-Story-part32_log,"Duke Kang has delivered the good citizen registration coin book of Yan Rurui, you are ready to share the good news with her.",อ๋องคังได้ส่งเอกสารตระกูลที่ดีของแม่นางเหยียนรุรุยมาให้แล้ว เจ้าเตรียมที่จะบอกข่าวดีนี้ให้กับนาง
+Story-part32_log,"Duke Kang has delivered the good citizen registration coin book of Yan Rurui, you are ready to share the good news with her.",อ๋องคังได้ส่งเอกสารตระกูลที่ดีของแม่นางเหยียนหรูรุ่ยมาให้แล้ว เจ้าเตรียมที่จะบอกข่าวดีนี้ให้กับนาง
 Story-part32_2_1,"{PlayerSurName}Why is the sect leader in such a hurry to find me, did you bring any good news~"
 Story-part32_2_2,"Miss Yan, {PlayerSurName}I am honored to have successfully removed your lowly status."
 Story-part32_2_3,"Here is the good citizen registration coin book, from now on, you are completely free."
