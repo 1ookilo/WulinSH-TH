@@ -544,23 +544,23 @@ M2341-5_33_15,"You anonymously placed a bet of 10 Guan at the betting station. W
 M2341-5_33_16,"Next, just wait for the victory on stage. Hehe.",จากนั้นก็เพียงรอชัยชนะจากสังเวียนเท่านั้นเอง ฮี่ฮี่
 M2341-5_34_1,"(Let's not worry about this for now, we'll talk about it later.)",(อย่าเพิ่งกังวลเรื่องนี้ เดี๋ยวเราค่อยกลับมาคุยทีหลัง)
 M2341-5_35_1,"Hehe, I'm going to win big this time!",ฮี่ๆ คราวนี้จะได้รางวัลใหญ่แน่นอน!
-M2341-5_36_1,"How many times have I told you, don't talk to me about the backyard now, go find the supervisor!"
-M2341-5_36_2,"(The deputy steward of the Penglai Sect participating in his own gambling game, and getting so carried away...)"
-M2341-5_37_1,"(This person is the Deputy Steward of Penglai Sect. If I can get the Token from him, I can enter the backyard.)"
-M2341-5_37_2,"(But another problem is, this person is a living person. If he finds out that the Token is lost and makes a fuss, it will be troublesome...)"
-M2341-5_37_3,"(In addition to getting the Token, I also need to make him ""quiet""...)"
+M2341-5_36_1,"How many times have I told you, don't talk to me about the backyard now, go find the supervisor!",ข้าบอกเจ้าไปกี่ครั้งกี่หนแล้ว ว่ายามนี้อย่าได้เอ่ยเรื่องสวนด้านหลังให้ข้าได้ยินอีก ไปหาผู้ดูแลเสีย!
+M2341-5_36_2,"(The deputy steward of the Penglai Sect participating in his own gambling game, and getting so carried away...)",(รองผู้ดูแลสำนักเผิงไหล กลับเข้าร่วมเกมพนันของตนเอง กลับกลายเป็นว่าหัวเสียเช่นนี้...)
+M2341-5_37_1,"(This person is the Deputy Steward of Penglai Sect. If I can get the Token from him, I can enter the backyard.)",(คนผู้นี้คือรองผู้ดูแลสำนักเผิงไหล หากข้าได้ตราที่เขาถือครองมา ก็จะสามารถเข้าไปในสวนด้านหลังได้)
+M2341-5_37_2,"(But another problem is, this person is a living person. If he finds out that the Token is lost and makes a fuss, it will be troublesome...)",(แต่ปัญหาอีกอย่างคือ คนผู้นี้ยังมีชีวิตอยู่ หากเขาพบว่าตราหายไปแล้วร้องเอะอะโวยวาย เรื่องคงยุ่งยากแน่...)
+M2341-5_37_3,"(In addition to getting the Token, I also need to make him ""quiet""...)","(ข้าไม่เพียงแต่ต้องชิงตรามาเท่านั้น ข้ายังต้องทำให้เขา ""เงียบ"" ไปด้วย...)"
 M2341-5_37_4,(What should I do?),(ข้าควรทำเช่นไรดี?)
-M2341-6_1_1,"This person is about to fall to the ground, you support him, pretending that he is uncomfortable and needs help."
-M2341-6_1_2,"(Take advantage of no one noticing, numb his acupoints, he will be Unconscious for a while...)"
-M2341-6_1_3,"(Take advantage of no one noticing that he has been Immobilized by me, I need to take him to an inconspicuous corner and settle him down.)"
-M2341-6_1_4,(Where should I take him?)
-M2341-6_op_1_1,The mountain path outside the sect.
-M2341-6_op_1_2,The backyard.
-M2341-6_op_1_3,The firewood room.
-M2341-6_2_1,"(There are people guarding outside the sect gate, if the Guard sees it, it will inevitably arouse suspicion, it's not a good place.)"
-M2341-6_3_1,(Why would I want to take him to the backyard? Do I want to ride him and let him help me pass the gate?)
-M2341-6_3_2,"(The more abnormal thoughts are popping up in my mind, I need to focus...)"
-M2341-6_4_1,"(Looking around, the woodshed seems to be the best place to hide.)"
+M2341-6_1_1,"This person is about to fall to the ground, you support him, pretending that he is uncomfortable and needs help.",บุคคลผู้นี้กำลังจะทรุดลงกับพื้น เจ้ารีบเข้าไปประคองเขาไว้ แสร้งทำราวกับว่าเขากำลังรู้สึกอ่อนแรงและต้องการความช่วยเหลือ
+M2341-6_1_2,"(Take advantage of no one noticing, numb his acupoints, he will be Unconscious for a while...)",(ฉวยโอกาสยามไร้ผู้สังเกต กดจุดชีพจรของเขาให้ชาวูบ เขาจะสิ้นสติไปชั่วครู่...)
+M2341-6_1_3,"(Take advantage of no one noticing that he has been Immobilized by me, I need to take him to an inconspicuous corner and settle him down.)",(จงฉวยโอกาสในยามที่ไร้ผู้ใดสังเกตเห็นว่าเขาถูกข้าทำให้เคลื่อนไหวมิได้ ข้าต้องพาเขาไปยังมุมอับสายตาและจัดการให้เรียบร้อย)
+M2341-6_1_4,(Where should I take him?),(ควรพาเขาไปที่ใดดี?)
+M2341-6_op_1_1,The mountain path outside the sect.,เส้นทางบนเขาภายนอกสำนัก
+M2341-6_op_1_2,The backyard.,สวนด้านหลัง
+M2341-6_op_1_3,The firewood room.,โรงเก็บฟืน
+M2341-6_2_1,"(There are people guarding outside the sect gate, if the Guard sees it, it will inevitably arouse suspicion, it's not a good place.)",(ภายนอกประตูสำนักมียามคอยเฝ้าระวังอยู่ หากถูกทหารยามพบเห็น ย่อมชวนให้สงสัย มิใช่ที่ที่ดี)
+M2341-6_3_1,(Why would I want to take him to the backyard? Do I want to ride him and let him help me pass the gate?),(เหตุใดข้าจึงคิดจะพาเขาไปยังสวนด้านหลัง? หรือข้าต้องการจะอาศัยเขาเป็นเครื่องมือช่วยให้ข้าผ่านประตูไปได้?)
+M2341-6_3_2,"(The more abnormal thoughts are popping up in my mind, I need to focus...)",ความคิดอันแปลกประหลาดยิ่งผุดขึ้นในห้วงสมองของข้า ข้าจำต้องรวบรวมสมาธิ...
+M2341-6_4_1,"(Looking around, the woodshed seems to be the best place to hide.)",มองไปรอบด้าน โรงเก็บฟืนดูเหมือนจะเป็นสถานที่ที่เหมาะแก่การซ่อนที่สุด
 M2341-6_4_2,"You helped this person into the woodshed, and no one noticed you along the way."
 M2341-6_4_3,"You hid him well with miscellaneous items. Without prior knowledge of his presence, it would be impossible to find him. Even if someone discovers him, they would think he's just slacking off and sleeping. Even when he wakes up, he would think the same."
 M2341-6_4_4,He has the token of the deputy steward on him. Now I might be able to impersonate this position.
