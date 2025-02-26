@@ -366,7 +366,7 @@ M2341-5_op_2_4,Create a gambling game of battlefield strategy.<color=#097a76>(Fa
 M2341-5_op_2_5,Make up a Martial Arts related gambling game.,แต่งเรื่องเกมพนันที่เกี่ยวข้องกับวรยุทธ
 M2341-5_op_2_6,Talk about a game of Rock Paper Scissors.,เล่าเรื่องเกมพนันด้วยการเป่ายิ้งฉุบ
 M2341-5_4_1,"I once participated in an Inseparable game, where the loser had to cripple their own martial arts, disband their forces, give up their property, and leave the martial arts world. The winner gets it all.",ข้าเคยเข้าร่วมเกมพนันเสี่ยงตายครั้งหนึ่ง ซึ่งผู้แพ้จะต้องทำลายวรยุทธของตนเอง ยกเลิกกลุ่มอิทธิพล ละทิ้งกิจการ และถอนตัวออกจากยุทธภพ ส่วนผู้ชนะก็จะได้รับทุกสิ่งทุกอย่าง
-M2341-5_4_2,That's a big gamble! I like it! What happened next?,ช่างเป็นเกมพนันที่ใหญ่โตนัก! ข้าชอบ! แล้วหลังจากนั้นล่ะ?
+M2341-5_4_2,That's a big gamble! I like it! What happened next?,ช่างเป็นการเดิมพันที่ใหญ่โตนัก! ข้าชอบ! แล้วหลังจากนั้นล่ะ?
 M2341-5_4_3,"You recount the story of your participation in the Yi Zhihua Inseparable game. Thanks to your Persuade, your story is thrilling and captivating, leaving Wang Bushu utterly fascinated.",เจ้าได้เล่าเรื่องราวประสบการณ์ของตนเองในการเข้าร่วมเกมพนันเสี่ยงตายในอดีต ด้วยวาทศิลป์ของเจ้า เรื่องราวที่เจ้าเล่ามานั้นช่างโลดโผนและน่าติดตามยิ่งนัก ทำให้หวังปู้ซู ฟังอย่างเคลิบเคลิ้มจนลืมตัวไป
 M2341-5_4_4,"That's so thrilling, what happened in the end?",ช่างน่าตื่นเต้นนัก แล้วผลลัพธ์สุดท้ายเป็นเช่นไร?
 M2341-5_5_1,"Yes, what happened in the end?",ใช่แล้ว แล้วสุดท้ายเป็นเช่นไรน่ะหรือ?
@@ -385,15 +385,15 @@ M2341-5_9_6,"In the end, the Yan army is at the city gates. These ministers are 
 M2341-5_9_7,The two decisive trees were also cut down and became the fuel for that fire.,ต้นไม้ที่ใช้ตัดสินผลแพ้ชนะ ก็ถูกตัดโค่นลง กลายเป็นเชื้อเพลิงในกองไฟครั้งนั้น
 M2341-5_10_1,"In my military career, I have heard many Inseparable games on the battlefield. One of the wars led by Ye Marshal is even more thrilling...",ในชีวิตการเป็นทหารของข้า ข้าเคยได้ยินเรื่องราวการต่อสู้อันเป็นตายบนสนามรบมามากมาย หนึ่งในนั้นคือสงครามที่นำโดยท่านแม่ทัพใหญ่เย่ ซึ่งเป็นเรื่องราวที่น่าตื่นเต้นและหวาดเสียวอย่างยิ่ง...
 M2341-5_10_2,"In your story, Marshal Ye and the Yan Yun Iron Army encounter each other under a sky covered with dark clouds. Both sides are unaware of each other's details, and they probe each other's troop distribution, regular troops and surprise troops.",ในเรื่องที่เจ้าแต่งขึ้น ท่านแม่ทัพใหญ่เย่และกองทัพเหล็กเยี่ยนหยุนเผชิญหน้ากันภายใต้เมฆดำทะมึนที่ปกคลุมทั่วท้องฟ้า ทั้งสองฝ่ายต่างไม่รู้ไส้รู้พุงกันและกัน ต่างฝ่ายต่างหยั่งเชิงกำลังพลของอีกฝ่าย ทั้งทัพหลักและทัพเสริม
-M2341-5_10_3,"The commander of the Yan army makes a risky gamble, deciding to personally lead the army in a covert operation. In the end, they fall into Marshal Ye's trap and the entire army is wiped out...",แม่ทัพของกองทัพเยี่ยนได้ทำการ เดิมพันอันยิ่งใหญ่ที่เสี่ยงอันตราย โดยตัดสินใจนำทัพใหญ่เคลื่อนพลอย่างลับ ๆ ด้วยตนเอง สุดท้ายก็ตกลงไปในกับดักของท่านแม่ทัพใหญ่เย่ กองทัพทั้งหมดพ่ายแพ้จนหมดสิ้น...
-M2341-5_10_4,"According to you, Marshal Ye also won by gambling, he didn't have a surefire guarantee... This kind of gamble that puts the fate of a large army, even the fate of a country, on the gambling table, is really thrilling!",ตามที่เจ้ากล่าว แม่ทัพเย่ก็อาศัยการเสี่ยงทายในการเอาชนะ โดยไม่ได้มีความมั่นใจเต็มร้อย... การเอาชะตากรรมของกองทัพ หรือแม้แต่ชะตากรรมของประเทศมาเดิมพันเช่นนี้ นึกแล้วก็ขนลุกซู่เลย!
+M2341-5_10_3,"The commander of the Yan army makes a risky gamble, deciding to personally lead the army in a covert operation. In the end, they fall into Marshal Ye's trap and the entire army is wiped out...",ผู้บัญชาการของกองทัพเยี่ยนได้ทำการเสี่ยงเดิมพัน โดยตัดสินใจนำทัพใหญ่เคลื่อนพลอย่างลับ ๆ ด้วยตนเอง สุดท้ายพวกเขาก็ตกหลุมพรางของท่านแม่ทัพใหญ่เย่ และถูกกวาดล้างจนสิ้นซาก...
+M2341-5_10_4,"According to you, Marshal Ye also won by gambling, he didn't have a surefire guarantee... This kind of gamble that puts the fate of a large army, even the fate of a country, on the gambling table, is really thrilling!",ตามที่เจ้ากล่าว แม่ทัพเย่ก็อาศัยการเสี่ยงเดิมพันเพื่อชัยชนะโดยไม่ได้มีความมั่นใจเต็มร้อยเช่นกัน... การเอาชะตากรรมของกองทัพ หรือแม้แกระทั่งบ้านเมืองมาเดิมพันเช่นนี้ นึกแล้วก็ขนลุกซู่เลย!
 M2341-5_11_1,"Laozi said, the soldier is not detailed. Martial arts is the same, as long as you learn it, you will be tainted with the unknown, so many peerless masters have not had the opportunity to leave a successor, resulting in the loss of martial arts, leaving only the Manual that is not detailed...",ปรมาจารย์ขงจื๊อกล่าวไว้ว่า การใช้กำลังรบไม่ใช่เรื่องดี เช่นเดียวกับวิทยายุทธ์ ไม่ว่าวิทยายุทธ์จะเลิศล้ำเพียงใดไม่ช้าก็ต้องสูญสลายไปทางใดทางหนึ่ง มีปรมาจารย์มากมายที่ไม่สามารถหาผู้สืบทอดวิชาได้ ทำให้วิทยายุทธ์เหล่านั้นสูญหายไป เหลือไว้เพียงคัมภีร์ที่บันทึกไว้อย่างครุมเครือเท่านั้น
 M2341-5_11_2,"In your fabrication, a wicked master obtained the Manual of a senior expert.\nBut because the recorded language is the dialect of the expert, it is completely incomprehensible.\nThis wicked master then captured a junior from the same hometown as the expert and forced him to translate.","ตามเรื่องเล่าของเจ้า มียอดฝีมือฝ่ายอธรรมผู้หนึ่งได้รับคัมภีร์ลับจากปรมาจารย์ที่ล่วงลับ\nทว่าคำจารึกในคัมภีร์นั้นเป็นภาษาถิ่นอันเก่าแก่ ซึ่งยากแก่การตีความ\nเขาจึงจับกุมศิษย์ร่วมเมืองของปรมาจารย์ผู้นั้นมาบีบบังคับให้แปลคัมภีร์"
 M2341-5_11_3,"Although the master controlled the junior, the two were actually on an equal gambling table.\nThe junior only needs to bet on the Roll that the master really can't understand, and deliberately misinterpret it to ruin the other's martial arts.\nBut if the misinterpreted part hits the Roll that the other party really understands, it will face a disaster...","แม้ยอดฝีมือฝ่ายอธรรมจะกุมอำนาจเหนือศิษย์รุ่นเยาว์ แต่ทั้งสองเสมือนนั่งอยู่บนโต๊ะพนันอย่างเท่าเทียม\nสิ่งที่ศิษย์รุ่นเยาว์ต้องพนันคือตีความเฉพาะส่วนที่ยอดฝีมือไม่เข้าใจ โดยเขาออกอุบายตีความเนื้อหาผิด ๆ เพื่อทำลายวรยุทธ์ของอีกฝ่าย\nแต่หากส่วนที่แกล้งตีความผิดถูกอีกฝ่ายจับได้ ก็คงต้องเผชิญกับหายนะอย่างแท้จริง..."
 M2341-5_11_4,"In the end, this wicked master reversed the flow of the sky, reversed the meridians, exhaled when inhaling, inhaled when exhaling, and finally exploded and died...",สุดท้าย ยอดฝีมือผู้นี้ก็เกิดอาการกำลังภายในไหลย้อนกลับ เส้นลมปราณกลับทิศทาง ลมหายใจออกกลับดูดเข้า ลมหายใจเข้ากลับพ่นออก จึงทำให้ร่างระเบิดตายในที่สุด...
 M2341-5_11_5,"It's so dangerous, it's really thrilling. One wrong step is the abyss. However, the enemies who came to revenge in the middle and other twists and turns allowed the junior to see the master's martial arts route, which could be the right bet, and it was also considered that the weight was close to him...",อันตรายจริงๆ การเดิมพันพลาดเพียงก้าวเดียวก็อาจนำไปสู่จุดจบได้ แต่ระหว่างที่มีศัตรูกลับมาแก้แค้น และ การเผชิญกับอุปสรรคมากมาย ทำให้ศิษย์ผู้นี้ก็ได้ค้นพบเคล็ดลับวรยุทธ์ของปรมาจารย์ กลายเป็นเดิมพันถูกข้าง เรียกได้ว่าตาชั่งเอนเอียงมาทางฝั่งเขาเต็มระบบ...
-M2341-5_12_1,"(No, why can I only think of rock-paper-scissors when I rack my brains, can't I make up other gambling games?)",(ไม่นะ เหตุใดข้าจึงนึกการพนันรูปแบบอื่นนอกจากเป่ายิ้งฉุบไม่ออก ข้าไม่มีปัญญาสร้างเกมพนันอื่น ๆ ได้เลยรึไง?)
-M2341-5_12_2,(How can this Child's game impress this big Gambler?),(เกมหลอกเด็กแบบนี้ จะทำให้เซียนพนันพอใจได้ยังไง?)
+M2341-5_12_1,"(No, why can I only think of rock-paper-scissors when I rack my brains, can't I make up other gambling games?)",(ไม่นะ เหตุใดข้าจึงนึกการเดิมพันรูปแบบอื่นนอกจากเป่ายิ้งฉุบไม่ออก ข้าไม่มีปัญญาสร้างเการเดิมพันแบบอื่น ๆ ได้เลยรึไง?)
+M2341-5_12_2,(How can this Child's game impress this big Gambler?),(การละเล่นหลอกเด็กเช่นนี้ จะทำให้เซียนพนันพอใจได้อย่างไร?)
 M2341-5_12_3,"(No, let me add some details and struggle a bit...)",(ไม่สิ ข้าควรเพิ่มรายละเอียด และ ความท้าทายอีกสักหน่อย...)
 M2341-5_12_4,"I heard a strange story in the martial arts world, this is a gambling game that took place under the Ice Prison...",ข้าได้ยินเรื่องเล่าเรื่องหนึ่งเกี่ยวกับความพิศวงในโลกยุทธภพ นั่นคือการเดิมพันในคุกน้ำแข็งใต้ดิน...
 M2341-5_12_5,You made up a story about a peerless master capturing a large number of Vagabonds into the Ice Prison and forcing them to play rock-paper-scissors.,ท่านแต่งเรื่องเกี่ยวกับยอดฝีมือที่จับตัวเหล่าจอมยุทธ์เข้าไปขังในคุกน้ำแข็ง แล้วบีบบังคับให้พวกเขาเล่นเกมเป่ายิ้งฉุบ...
@@ -561,20 +561,20 @@ M2341-6_2_1,"(There are people guarding outside the sect gate, if the Guard sees
 M2341-6_3_1,(Why would I want to take him to the backyard? Do I want to ride him and let him help me pass the gate?),(เหตุใดข้าจึงคิดจะพาเขาไปยังสวนด้านหลัง? หรือข้าต้องการจะอาศัยเขาเป็นเครื่องมือช่วยให้ข้าผ่านประตูไปได้?)
 M2341-6_3_2,"(The more abnormal thoughts are popping up in my mind, I need to focus...)",ความคิดอันแปลกประหลาดยิ่งผุดขึ้นในห้วงสมองของข้า ข้าจำต้องรวบรวมสมาธิ...
 M2341-6_4_1,"(Looking around, the woodshed seems to be the best place to hide.)",มองไปรอบด้าน โรงเก็บฟืนดูเหมือนจะเป็นสถานที่ที่เหมาะแก่การซ่อนที่สุด
-M2341-6_4_2,"You helped this person into the woodshed, and no one noticed you along the way."
-M2341-6_4_3,"You hid him well with miscellaneous items. Without prior knowledge of his presence, it would be impossible to find him. Even if someone discovers him, they would think he's just slacking off and sleeping. Even when he wakes up, he would think the same."
-M2341-6_4_4,He has the token of the deputy steward on him. Now I might be able to impersonate this position.
-M2341-7_talking,Match-fixing
-M2341-7_1_1,Do you need anything?
-M2341-7_1_2,I came to you because...
-M2341-7_op_1_1,"Take the money, you can't win this match. <color=#097a76>(50 taels)</color>"
-M2341-7_op_1_2,"Listen to me, you can't win this match. <color=#097a76>(Persuade level 3 Advance)</color>"
-M2341-7_op_1_3,"For my sake, you can't win this match. <color=#097a76>(Favorability ≥80)</color>"
-M2341-7_op_1_4,Never mind.
-M2341-7_2_1,This...
-M2341-7_2_2,That's too much!
-M2341-7_2_3,"Brother, you're the boss. You want me to fall on the {number} round, I'll fall on the {number} round. You want me to fall on the {number} move, I'll fall on the {number} move!"
-M2341-7_2_4,"No... no such demands. You just need to go easy, make sure you can lose."
+M2341-6_4_2,"You helped this person into the woodshed, and no one noticed you along the way.",เจ้าประคองร่างคนผู้นั้นย่างเท้าเข้าสู่โรงเก็บฟืน โดยไม่มีผู้ใดล่วงรู้ถึงการกระทำของเจ้า
+M2341-6_4_3,"You hid him well with miscellaneous items. Without prior knowledge of his presence, it would be impossible to find him. Even if someone discovers him, they would think he's just slacking off and sleeping. Even when he wakes up, he would think the same.",เจ้าซุกซ่อนร่างเขาไว้ภายใต้กองสิ่งของรกรุงรัง หากมิรู้ที่ซ่อนมาก่อน ย่อมยากที่จะค้นพบ แม้ผู้ใดบังเอิญพบเห็น ก็คงคิดว่าเขาเพียงแค่แอบงีบหลับ แม้แต่ตัวเขาเองเมื่อตื่นขึ้นมา ก็คงคิดเช่นนั้น
+M2341-6_4_4,He has the token of the deputy steward on him. Now I might be able to impersonate this position.,เขามีตรารองผู้ดูแลติดตัวอยู่ บัดนี้ข้าอาจสวมรอยเป็นเขาเพื่อกระทำการบางอย่างได้
+M2341-7_talking,Match-fixing,การประลองตบตา
+M2341-7_1_1,Do you need anything?,เจ้ามีกิจอันใดหรือ?
+M2341-7_1_2,I came to you because...,ข้ามาหาท่านเพราะว่า...
+M2341-7_op_1_1,"Take the money, you can't win this match. <color=#097a76>(50 taels)</color>",รับเงินนี้ไปเสีย การประลองนี้ท่านไม่มีทางชนะ <color=#097a76>(50 ตำลึง)</color>
+M2341-7_op_1_2,"Listen to me, you can't win this match. <color=#097a76>(Persuade level 3 Advance)</color>",เชื่อข้าเถิด การประลองนี้ท่านไม่มีทางชนะ <color=#097a76>(ทักษะโน้มน้าวถึงระดับ 3 ขั้นสูง)</color>
+M2341-7_op_1_3,"For my sake, you can't win this match. <color=#097a76>(Favorability ≥80)</color>",เห็นแก่หน้าข้าเถิด การประลองนี้ท่านต้องเป็นผู้แพ้ <color=#097a76>(ความสนิท ≥80)</color>
+M2341-7_op_1_4,Never mind.,ช่างมันเถิด
+M2341-7_2_1,This...,นี่มัน...
+M2341-7_2_2,That's too much!,นี่มันมากเกินไปแล้วกระมัง!
+M2341-7_2_3,"Brother, you're the boss. You want me to fall on the {number} round, I'll fall on the {number} round. You want me to fall on the {number} move, I'll fall on the {number} move!","พี่ชายสั่งการมาเถิด ท่านต้องการให้ข้าพ่ายแพ้ในยกที่ {number} ข้าก็จะพ่ายแพ้ในยกที่ {number} ท่านต้องการให้ข้าพ่ายแพ้ในกระบวนท่าที่ {number} ข้าก็จะพ่ายแพ้ในกระบวนท่าที่ {number}!"""
+M2341-7_2_4,"No... no such demands. You just need to go easy, make sure you can lose.",ม... มิได้มีข้อเรียกร้องมากมาย เพียงท่านลดความจริงจังลงเล็กน้อย เพื่อให้มั่นใจว่าท่านจะปราชัยก็เพียงพอ
 M2341-7_2_5,"Sure thing! I'll go prepare and work on my acting skills, I promise to satisfy you!"
 M2341-7_3_1,"Listen to me, haven't you noticed that there are many abnormal things in Penglai Sect?"
 M2341-7_3_2,"Now that you mention it, it seems very hasty and sloppy everywhere..."
@@ -592,12 +592,12 @@ M2341-7_3_13,"I'll think about how to lose convincingly, see you later!"
 M2341-7_4_1,"Since it's the brother's meaning, I have no reason not to follow."
 M2341-7_4_2,"I'll think about how to lose convincingly, see you later!"
 M2341-7_4_3,"I haven't even said the reason yet, it's good that the vagabonds are so straightforward."
-M2341-8_talking,Match-fixing
+M2341-8_talking,Match-fixing,การประลองตบตา
 M2341-8_1_1,"Do you want me to test your parents and siblings, or martial arts, marriage, or fortune and misfortune?"
-M2341-8_1_2,I came to you because...
-M2341-8_op_1_1,"Take the money, you can't win this match. <color=#097a76>(50 taels)</color>"
-M2341-8_op_1_2,"Listen to me, you can't win this match. <color=#097a76>(Persuade level 3 Advance)</color>"
-M2341-8_op_1_3,"For my sake, you can't win this match. <color=#097a76>(Favorability ≥80)</color>"
+M2341-8_1_2,I came to you because...,ข้ามาหาท่านเพราะว่า...
+M2341-8_op_1_1,"Take the money, you can't win this match. <color=#097a76>(50 taels)</color>",รับเงินนี้ไปเสีย การประลองนี้ท่านไม่มีทางชนะ <color=#097a76>(50 ตำลึง)</color>
+M2341-8_op_1_2,"Listen to me, you can't win this match. <color=#097a76>(Persuade level 3 Advance)</color>",เชื่อข้าเถิด การประลองนี้ท่านไม่มีทางชนะ <color=#097a76>(ทักษะโน้มน้าวถึงระดับ 3 ขั้นสูง)</color>
+M2341-8_op_1_3,"For my sake, you can't win this match. <color=#097a76>(Favorability ≥80)</color>",เห็นแก่หน้าข้าเถิด การประลองนี้ท่านต้องเป็นผู้แพ้ <color=#097a76>(ความสนิท ≥80)</color>
 M2341-8_op_1_4,Never mind.
 M2341-8_2_1,Oh? This money...
 M2341-8_2_2,It's enough for me to live without worry for the rest of my life.
