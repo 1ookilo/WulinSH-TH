@@ -369,23 +369,23 @@ sto-CT-1_6_4,"We, the people of the martial arts world, have always kept a clear
 sto-CT-1_6_5,"Thank you for your advice, I will keep it in mind!","ขอบคุณสำหรับคำแนะนำ, ข้าจะจดจำคำแนะนำของท่านไว้"
 sto-CT-1_6_6,"How did it go, did you get the elixir?",เป็นยังไง ได้ยาถอนพิษหรือยัง?
 sto-CT-1_6_7,"Sir, here is the elixir, I have not failed you.",ท่าน นี่คือยาถอนพิษ ข้าไม่ทำให้ท่านผิดหวัง
-sto-CT-1_6_8,"Good, good! The Prefect really didn't misjudge you. I will take the elixir back now. If the prince is pleased, there might be a great reward for your sect!"
-sto-CT-1_7_1,"Reporting to the head of the sect, that Official Envoy who once visited our sect is here again."
-sto-CT-1_7_2,"{PlayerSurName} The head of the sect, you really have a poor memory. The six-month deadline has passed, have you gotten the elixir?"
-sto-CT-1_7_3,"The sect's affairs are busy, I haven't gone to ask for it yet."
-sto-CT-1_7_4,"Humph, now the Prefect is furious, {PlayerSurName} the head of the sect, your only solution is to hand over 2000 Coin, let me handle it for you, only then can you avoid disaster."
-sto-CT-1_7_5,"Indeed, I forgot about it. This money should be paid, should be paid, thank you for your trouble!"
-sto-CT-1_7_6,"Humph! {PlayerSurName} The head of the sect, be smarter in the future. If this happens again, not only you, but even my official hat may not be safe!"
+sto-CT-1_6_8,"Good, good! The Prefect really didn't misjudge you. I will take the elixir back now. If the prince is pleased, there might be a great reward for your sect!",ดี ดี! นายอำเภอตัดสินใจไม่ผิดจริงๆ ข้าจะเอายากลับไปก่อน ถ้าเจ้าชายกรุณาเจ้าละก็ จะมีรางวัลใหญ่ให้แก่สำนักของเจ้าอย่างแน่นอน!
+sto-CT-1_7_1,"Reporting to the head of the sect, that Official Envoy who once visited our sect is here again.",รายงานท่านเจ้าสำนัก หน่วยคุ้มกันที่เคยมาที่นี่ ตอนนี้กลับมาอีกแล้วครับ
+sto-CT-1_7_2,"{PlayerSurName} The head of the sect, you really have a poor memory. The six-month deadline has passed, have you gotten the elixir?",เจ้าสำนัก {PlayerSurName} เจ้าหลงลืมไปแล้วหรือ หกเดือนผ่านไปจนถึงเส้นตายแล้ว เจ้าได้ยามาแล้วหรือยัง
+sto-CT-1_7_3,"The sect's affairs are busy, I haven't gone to ask for it yet.",งานในสำนักมันยุ่งซะเหลือเกิน ข้ายังไม่มีเวลาไปถามเรื่องนี้เลย
+sto-CT-1_7_4,"Humph, now the Prefect is furious, {PlayerSurName} the head of the sect, your only solution is to hand over 2000 Coin, let me handle it for you, only then can you avoid disaster.",ฮึ! มันน่าโมโหซะจริง เจ้าสำนัก {PlayerSurName} ทางออกเดียวของเจ้าคือต้องจ่ายข้า 2000 อีแปะ จ่ายมาซะดีๆ เพื่อหลีกเลื่ยงหายนะครั้งนี้
+sto-CT-1_7_5,"Indeed, I forgot about it. This money should be paid, should be paid, thank you for your trouble!",แน่นอน ข้าลืมไปซะสนิท ข้าควรจะจ่าย... ควรจะจ่าย ขออภัยที่สร้างปัญหา
+sto-CT-1_7_6,"Humph! {PlayerSurName} The head of the sect, be smarter in the future. If this happens again, not only you, but even my official hat may not be safe!",ฮึ! เจ้าสำนัก {PlayerSurName} ควรจะใช้สมองให้ดีในภายภาคหน้า ถ้าเกิดเรื่องแบบนี้ขึ้นอีกละก็ ไม่เว้นแม้แต่เจ้า อำนาจของข้าก็อาจจะช่วยไม่ได้!
 sto-CT-1_7_7,I will definitely keep it in mind.,ข้าน้อยจะจดจำไว้ในใจอย่างแน่นอน
-sto-CT-2_1_1,"Go and inform your sect leader, Luo Tianxiong from the Crime Investigation Bureau is here to visit!"
-sto-CT-2_1_2,Luo Constable? What a rare guest.
-sto-CT-2_1_3,"Let's cut the small talk, I came here this time on someone's behalf, to ask {PlayerSurName} the head of the sect a question."
-sto-CT-2_1_4,"Oh, coming all this way, this question must be very important, Luo Constable, please ask."
-sto-CT-2_1_5,"Now the former emperor has been killed, the world is in chaos, but a country cannot be without a king for a day. I ask {PlayerSurName} the head of the sect, what does your ideal monarch look like?"
-sto-CT-2_1_6,"Luo Constable, asking me, a Vagabond, about such important national affairs, isn't it like asking a blind man about the road?"
-sto-CT-2_1_7,"No matter, just say what you think, speak from your heart."
-sto-CT-2_1_8,"According to {PlayerSurName}, the ideal monarch should be an outstanding person among the royal nobles, who is capable and cares for the loyal and good. Only such a person can establish a great cause of restoring order from chaos."
-sto-CT-2_1_9,Capable and caring for the loyal and good... Luo understands.
+sto-CT-2_1_1,"Go and inform your sect leader, Luo Tianxiong from the Crime Investigation Bureau is here to visit!",ไป แล้วบอกหัวหน้าของเจ้าด้วยว่า ลั่ว เทียนเซียงแห่งสำนักเทพมือปราบได้มาเยี่ยม
+sto-CT-2_1_2,Luo Constable? What a rare guest.,มือปราบลั่ว? ช่างเป็นแขกที่คาดไม่ถึงจริงๆ
+sto-CT-2_1_3,"Let's cut the small talk, I came here this time on someone's behalf, to ask {PlayerSurName} the head of the sect a question.",อย่าให้เสียเวลาเลย ข้ามาในครั้งนี้ในนามของใครบางคน ขอถามเจ้าสำนัก {PlayerSurName} สักข้อสองข้อ
+sto-CT-2_1_4,"Oh, coming all this way, this question must be very important, Luo Constable, please ask.",โอ๊ะ! ท่านมาถึงที่นี่ คำถามนี้ต้องสำคัญมากแน่เลย มือปราบลั่วเชิญถามได้เลย
+sto-CT-2_1_5,"Now the former emperor has been killed, the world is in chaos, but a country cannot be without a king for a day. I ask {PlayerSurName} the head of the sect, what does your ideal monarch look like?",ตอนนี้ฮ่องเต้องค์ก่อนได้ถูกปลงพระชนม์ ทั่วทุกหนแห่งกำลังโกลาหล แต่ประเทศมิอาจขาดฮ่องเต้ได้ ข้าขอถามเจ้าสำนัก {PlayerSurName} ฮ่องเต้ในอุดุมคติของท่านควรจะเป็นแบบไหน?
+sto-CT-2_1_6,"Luo Constable, asking me, a Vagabond, about such important national affairs, isn't it like asking a blind man about the road?",มือปราบลั่วถามข้า ซึ่งเป็นดั่งคนพเนจรเกี่ยวกับกิจการบ้านเมืองที่สำคัญ ไม่ใช่ว่าเหมือนถามคนตาบอดถึงเส้นทางหรอกหรือ?
+sto-CT-2_1_7,"No matter, just say what you think, speak from your heart.",ไม่เป็นไร แค่ตอบในสิ่งที่เจ้าคิด พูดออกมาจากใจได้เลย
+sto-CT-2_1_8,"According to {PlayerSurName}, the ideal monarch should be an outstanding person among the royal nobles, who is capable and cares for the loyal and good. Only such a person can establish a great cause of restoring order from chaos.",ตามความคิดข้าน้อย{PlayerSurName} ฮ่องเต้ในอุดุมคติควรจะโดดเด่นในหมู่ขุนนางทั้งปวง ผู้มีความสามารถและใส่ใจผู้ซื่อสัตย์และภักดี เป็นเพียงผู้เดียวที่สามารถจัดการความโกลาหลและฟื้นฟูบ้านเมืองได้
+sto-CT-2_1_9,Capable and caring for the loyal and good... Luo understands.,มีความสามารถและใส่ใจผู้ซื่อสัตย์และภักดี.... ข้าเข้าใจแล้ว
 sto-CT-2_2_1,"Yo, isn't this the famous Luo Constable? What, not meeting your performance targets, so you're randomly arresting people to make up the numbers?"
 sto-CT-2_2_2,"Hua Qingqing... {PlayerSurName} The head of the sect, isn't it a disgrace to your sect to take in such a lowly thief?"
 sto-CT-2_2_3,"Pretending to be a decent person, if {PlayerSurName} the head of the sect took in a fake Honorable like you, that would be a big loss of face!"
