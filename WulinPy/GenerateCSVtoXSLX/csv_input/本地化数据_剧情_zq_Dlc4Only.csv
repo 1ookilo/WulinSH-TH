@@ -163,11 +163,11 @@ Fame-35_40_4,"It's not a curse, it's ups and downs, that's what the audience lik
 Fame-35_41_1,"I see, but Jian Chi is dead, I don't know what will be given out at this year's sword duel convention."
 Fame-35_41_2,"Indeed, this year is different from the past, but that makes it even more curious. Let's hurry up and go!"
 Fame-35_42_1,"Following big brother really has meat to eat, I didn't expect that one day I would have the opportunity to participate in such a martial arts event!"
-Fame-35_42_2,"Brother, do you also know about this martial arts event?"
-Fame-35_42_3,"Of course, this sword duel convention is held every three years, and the inn is full of Vagabonds before and after each convention."
-Fame-35_42_4,"Although I don't know the details, I heard from those knights that the Eight Saints will personally guide their martial arts at the convention, and those who dominate the convention can get a weapon made by Jian Chi himself!"
-Fame-35_43_1,"To get personal guidance from the Eight Saints and a weapon made by Jian Chi himself, such opportunities are indeed rare, there must be a lot of people flocking to it."
-Fame-35_44_1,"Jian Chi is dead, there will probably not be this part in this year's sword duel convention, but in the past, there must have been a lot of people flocking to it."
+Fame-35_42_2,"Brother, do you also know about this martial arts event?",พี่ชาย ท่านรู้เรื่องเกี่ยวกับงานประลองยุทธ์นี้ไหม?
+Fame-35_42_3,"Of course, this sword duel convention is held every three years, and the inn is full of Vagabonds before and after each convention.",แน่นอนว่างานชุมนุมวิจารณ์กระบี่นี้จัดขึ้นทุกสามปี และโรงเตี๊ยมก็คราคร่ำไปด้วยเหล่าชาวยุทธ์ทั้งก่อนและหลังการจัดงาน
+Fame-35_42_4,"Although I don't know the details, I heard from those knights that the Eight Saints will personally guide their martial arts at the convention, and those who dominate the convention can get a weapon made by Jian Chi himself!",แม้ว่าข้าไม่รู้รายละเอียดมากนัก แต่ก็ได้ยินมาว่าแปดเซียนจะคอยชี้แนะวรยุทธ์ให้พวกเขาในงานชุมนุมด้วยตนเอง และผู้ที่เอาชนะงานชุมนุมได้ จะได้รับอาวุธที่มารกระบี่สร้างขึ้นมาเองกับมือ!
+Fame-35_43_1,"To get personal guidance from the Eight Saints and a weapon made by Jian Chi himself, such opportunities are indeed rare, there must be a lot of people flocking to it.",การได้รับคำชี้แนะส่วนตัวจากแปดเซียน และอาวุธที่มารกระบี่สร้างขึ้นมาเองนั้น โอกาสเช่นนี้ถือว่าหายากจริงๆ ต้องมีผู้คนมากมายแห่แหนกันไปที่นั่นเป็นแน่
+Fame-35_44_1,"Jian Chi is dead, there will probably not be this part in this year's sword duel convention, but in the past, there must have been a lot of people flocking to it.",มารกระบี่ตายไปแล้ว อาจจะไม่มีส่วนนี้ในงานชุมนุมวิจารณ์กระบี่ปีนี้ แต่ในอดีตคงมีผู้คนแห่แหนไปร่วมงานนี้กันอย่างมากมาย
 Fame-35_45_1,"Yes, there are always a lot of Vagabonds coming. I even heard that some Vagabonds, in order to get Jian Chi's weapon, do not hesitate to poison others...",ใช่แล้ว มีพวกชาวยุทธ์จำนวนไม่น้อยมาที่นี่ ข้ายังได้ยินมาด้วยว่าบางคนใช้วิธีวางยาพิษผู้อื่นเพียงเพื่อจะได้อาวุธของมารกระบี่...
 Fame-35_45_2,This... Don't the Eight Saints care?,นี่... แล้วแปดเซียนไม่จัดการอะไรเลยหรือ?
 Fame-35_45_3,"There are hundreds, if not dozens, of knights coming from all over the world, they are just mortals, how can they manage?",มีผู้คนนับร้อยมาจากทั่วยุทธภพ พวกเขามีกันอยู่แค่นั้น จะจัดการอะไรได้?
@@ -176,15 +176,15 @@ Fame-35_45_5,"Alright big brother, less idle talk, take me to join the fun quick
 Fame-35_46_1,There's another sentence on the back of the letter.,มีอีกประโยคหนึ่งอยู่ด้านหลังจดหมาย
 Fame-35_46_2,"""Wuyue Region, north of the Sword Pavilion, Sword Debate Platform.""","""เขตอู๋เยว่ ทิศเหนือของศาลากระบี่ ลานวิจารณ์กระบี่"""
 Fame-35_46_3,It seems this is the location of the sword duel convention.,เหมือนจะเป็นสถานที่จัดงานชุมนุมวิจารณ์กระบี่นะ
-Fame-35_47_1,It would be great if there was a chance to see those rare kung fu at this sword duel convention.
-Fame-35_48_1,"The ancestral butcher's knife technique, I wonder if it can catch the eyes of those seniors."
-Fame-35_49_1,"If I could get guidance from a master, my skills would definitely improve."
-Fame-35_50_1,"Yay, there's going to be a show~"
-Fame-35_51_1,"Being pointed at by the Han people is a bit annoying, but it's not bad to exchange skills!"
-Fame-35_52_1,"Just right, I also want to test my current level of skills."
-Fame-35_53_1,"Whether it's the martial arts world or martial arts, sister is not interested, but if you want to go, then sister will accompany you."
-Fame-35_54_1,"Ha ha ha, we The Divine Hawk Hero must show our skills at this conference and become famous!"
-Fame-35_55_1,"What swordsmanship conference, it sounds boring, {PlayerName}, why not accompany me for a few rounds?"
+Fame-35_47_1,It would be great if there was a chance to see those rare kung fu at this sword duel convention.,คงจะดีไม่น้อยหากมีโอกาสได้ชมวรยุทธ์อันหายากในงานชุมนุมวิจารณ์กระบี่ครั้งนี้
+Fame-35_48_1,"The ancestral butcher's knife technique, I wonder if it can catch the eyes of those seniors.",ข้าไม่รู้ว่าวิชาการใช้มีดที่สืบทอดมาจากบรรพบุรุษของข้าจะได้รับการชื่นชมจากผู้อาวุโสเหล่านั้นหรือไม่
+Fame-35_49_1,"If I could get guidance from a master, my skills would definitely improve.",หากข้าได้รับคำชี้แนะจากอาจารย์ วรยุทธ์ของข้าจะต้องดีขึ้นอย่างแน่นอน
+Fame-35_50_1,"Yay, there's going to be a show~",เยี่ยมเลย งานกำลังจะเริ่มแล้ว~
+Fame-35_51_1,"Being pointed at by the Han people is a bit annoying, but it's not bad to exchange skills!",การที่ถูกชาวฮั่นชี้หน้ามันน่าหงุดหงิดนิดหน่อย แต่การได้แลกเปลี่ยนวรยุทธ์กันก็ไม่ใช่เรื่องแย่!
+Fame-35_52_1,"Just right, I also want to test my current level of skills.",พอดีว่าข้าก็อยากจะทดสอบระดับฝีมือของข้าตอนนี้อยู่ด้วยเหมือนกัน
+Fame-35_53_1,"Whether it's the martial arts world or martial arts, sister is not interested, but if you want to go, then sister will accompany you.",ข้าไม่สนใจเรื่องยุทธภพหรือวรยุทธ์อะไรนั่นหรอก แต่ถ้าท่านอยากไป ข้าก็จะไปด้วย
+Fame-35_54_1,"Ha ha ha, we The Divine Hawk Hero must show our skills at this conference and become famous!",ฮ่า ฮ่า ฮ่า พวกเราวีรบุรุษอินทรีศักดิ์สิทธิ์ จะต้องแสดงฝีมือในงานชุมนุมนี้และสร้างชื่อเสียงให้โด่งดังให้ได้!
+Fame-35_55_1,"What swordsmanship conference, it sounds boring, {PlayerName}, why not accompany me for a few rounds?",งานชุมนุมวิจารณ์กระบี่อะไรกัน ฟังดูน่าเบื่อจริงๆ {PlayerName} ทำไม่ไม่มาประลองกับข้าสักสองสามรอบล่ะ?
 Fame-35_56_1,"Brother, please wait.",พี่ชาย รอประเดี๋ยว
 Fame-35_56_2,Hmm? Are you calling me?,หืม? เรียกข้าหรือ?
 Fame-35_56_3,"Yes, you look like a martial artist, are you going to the Swordsmanship Conference?",ใช่แล้ว ดูท่าทางท่านเหมือนกับผู้ฝึกวรยุทธ์ ท่านกำลังจะไปที่งานชุมนุมวิจารณ์กระบี่ใช่ไหม?
@@ -201,32 +201,32 @@ M5069-1_1_1,"Brother, is this the Sword Debate Platform?",พี่ชาย น
 M5069-1_1_2,"Well, this should be the Sword Debate Platform.",แน่นอน ลานวิจารณ์กระบี่คงจะเป็นที่นี่แหละ
 M5069-1_1_3,But it doesn't look like it.,แต่มันดูไม่ค่อยเหมือนเลยนะ
 M5069-1_2_1,What are you two dazed about? It's another shichen's walk to the Sword Debate Platform after this.,เจ้าสองคนสับสนอะไรหรือเปล่า? จากตรงนี้ต้องเดินไปอีกหนึ่งชั่วยาม จึงจะถึงลานวิจารณ์กระบี่นะ
-M5069-1_2_2,...Didn't you say you've never been to the Sword Debate Platform?
-M5069-1_2_3,"No, no, no, I just haven't been to the Sword Debate Platform during the Sword Debate Conference, we regularly come here to maintain the venue when there is no conference."
-M5069-1_3_1,"Of course this is not the Sword Debate Platform, this is the road to the Sword Debate Platform, it's another half shichen's walk to the Sword Debate Platform after this."
-M5069-1_4_1,"This is the mountain road to the Sword Debate Platform, it's another more than a shichen's climb after this."
+M5069-1_2_2,...Didn't you say you've never been to the Sword Debate Platform?,...อย่าบอกนะว่าเจ้าไม่เคยเข้าร่วมลานวิจารณ์กระบี่เลย?
+M5069-1_2_3,"No, no, no, I just haven't been to the Sword Debate Platform during the Sword Debate Conference, we regularly come here to maintain the venue when there is no conference.",ไม่ ไม่เลย ข้าไม่เคยมาที่ลานวิจารณ์กระบี่ระหว่างที่จัดงานชุมนุมวิจารณ์กระบี่เลย ข้าจะมาที่นี่เพื่อดูแลสถานที่เวลาที่ไม่มีการจัดงานเท่านั้น
+M5069-1_3_1,"Of course this is not the Sword Debate Platform, this is the road to the Sword Debate Platform, it's another half shichen's walk to the Sword Debate Platform after this.",แน่นอนว่าที่นี่ไม่ใช่ลานวิจารณ์กระบี่ ที่นี่คือเส้นทางไปยังลานวิจารณ์กระบี่ หลังจากนี้ยังต้องเดินไปต่ออีกครึ่งชั่วยามจึงจะถึงลานวิจารณ์กระบี่
+M5069-1_4_1,"This is the mountain road to the Sword Debate Platform, it's another more than a shichen's climb after this.",นี่คือเส้นทางบนเขาที่มุ่งสู่ลานวิจารณ์กระบี่ จากนี้ต้องขึ้นเขาไปอีกหนึ่งชั่วยามจึงจะถึง
 M5069-1_5_1,"I see, thank you for the information.",เช่นนี้นี่เอง ขอบคุณที่ช่วยบอกนะ
 M5069-1_6_1,"Huff... Huff... Brother, are we not at the Sword Debate Platform yet?",แฮ่ก... แฮ่ก... พี่ชาย นี่เรายังไม่ถึงลานวิจารณ์กระบี่อีกเหรอ?
-M5069-1_6_2,"Brother, there are two more shichen, hang in there."
-M5069-1_6_3,"Huff... I can't go on, brother, I'm exhausted..."
-M5069-1_6_4,"Brother, there's a Tea Stall ahead—"
-M5069-1_6_5,"Great, there's always a way out!"
-M5069-1_7_1,"It seems that this is indeed the road to the Sword Debate Platform, I was wrong to blame you."
-M5069-1_7_2,"No problem, I was also stunned when I first came in."
-M5069-1_7_3,"There's a Tea Stall ahead, let me treat you to a cup of tea as an apology."
-M5069-1_7_4,That's not necessary...
-M5069-1_7_5,"So you don't like tea, brother?"
-M5069-1_7_6,"Not really... It's just that the Swordsmanship Conference is about to start, I don't want to waste any shichen."
-M5069-1_7_7,"I see, it was my lack of consideration, let's hurry to the Sword Debate Platform."
-M5069-1_7_8,"Two heroes, there are still two shichen's journey to the Sword Debate Platform ahead, why not sit down and have a cup of tea and rest your feet at my place first?"
-M5069-1_7_9,"No, we're in a hurry."
-M5069-1_7_10,"If you two are in a hurry to go to the Sword Duel Conference, then you should not be in a hurry. I heard that a big figure has not arrived yet, and it can only start when his old man arrives. If you two go up now, I'm afraid you'll just be waiting."
-M5069-1_7_11,This is the only way up the mountain. Why don't you two rest a bit and wait for the big shot to arrive before heading up?
-M5069-1_7_12,This...
-M5069-1_7_13,Are you telling the truth?
-M5069-1_7_14,"Of course, I would never dare to deceive you heroes. If you two don't believe me, you can ask these four people. They just came down from the mountain."
-M5069-1_7_15,You just said that there's a big shot waiting up there? Who is it?
-M5069-1_7_16,How would I know about this? I'm just a tea seller.
+M5069-1_6_2,"Brother, there are two more shichen, hang in there.",พี่ชาย ยังต้องไปต่ออีกสองชั่วยาม ทนหน่อยนะ
+M5069-1_6_3,"Huff... I can't go on, brother, I'm exhausted...",แฮ่ก... ข้าไปต่อไม่ไหวแล้วพี่ชาย ข้าเหนื่อยแล้ว...
+M5069-1_6_4,"Brother, there's a Tea Stall ahead—",พี่ชาย ข้างหน้ามีร้านน้ำชาอยู่—
+M5069-1_6_5,"Great, there's always a way out!",เยี่ยมเลย เมื่อเจอปัญหาย่อมมีทางออกเสมอ!
+M5069-1_7_1,"It seems that this is indeed the road to the Sword Debate Platform, I was wrong to blame you.",เหมือนว่านี่จะเป็นทางไปลานวิจารณ์กระบี่จริงๆ ข้าตำหนิเจ้าผิดไปแล้ว
+M5069-1_7_2,"No problem, I was also stunned when I first came in.",มิเป็นไรหรอก ตอนข้ามาครั้งแรกก็อึ้งไปเลยเหมือนกัน
+M5069-1_7_3,"There's a Tea Stall ahead, let me treat you to a cup of tea as an apology.",ข้างหน้านั่นมีร้านน้ำชา ข้าขอเลี้ยงชาสักถ้วยหนึ่งเพื่อเป็นการขอโทษก็แล้วกันนะ
+M5069-1_7_4,That's not necessary...,นั่นไม่จำเป็นหรอก...
+M5069-1_7_5,"So you don't like tea, brother?",พี่ชายไม่ชอบดื่มชางั้นหรือ?
+M5069-1_7_6,"Not really... It's just that the Swordsmanship Conference is about to start, I don't want to waste any shichen.",ไม่หรอก... ก็แค่งานชุมนุมวิจารณ์กระบี่กำลังจะเริ่มขึ้นแล้วเท่านั้น ข้าไม่อยากเสียเวลาไปเปล่าๆ
+M5069-1_7_7,"I see, it was my lack of consideration, let's hurry to the Sword Debate Platform.",เช่นนี้เอง เป็นข้าที่คิดน้อยเกินไป รีบไปที่ลานวิจารณ์กระบี่กันเถอะ
+M5069-1_7_8,"Two heroes, there are still two shichen's journey to the Sword Debate Platform ahead, why not sit down and have a cup of tea and rest your feet at my place first?",จอมยุทธทั้งสอง ยังต้องเดินทางอีกสองชั่วยามเพื่อจะไปลานวิจารณ์กระบี่อยู่ข้างหน้า ทำไมไม่นั่งลงจิบชาสักถ้วยและพักขาที่นี่เสียหน่อยล่ะ?
+M5069-1_7_9,"No, we're in a hurry.",ไม่ได้หรอก พวกเรากำลังรีบ
+M5069-1_7_10,"If you two are in a hurry to go to the Sword Duel Conference, then you should not be in a hurry. I heard that a big figure has not arrived yet, and it can only start when his old man arrives. If you two go up now, I'm afraid you'll just be waiting.",หากท่านทั้งสองรีบร้อนที่จะไปร่วมงานชุมนุมวิจารณ์กระบี่ล่ะ พวกท่านก็ไม่จำเป็นรีบร้อนไป ข้าได้ยินมาว่าบุคคลสำคัญท่านหนึ่งยังมาไม่ถึง งานจะเริ่มได้ก็ต่อเมื่อคนผู้นั้นมาถึงเท่านั้น หากท่านทั้งสองไปตอนนี้ก็ต้องไปเสียเวลารออยู่ดี
+M5069-1_7_11,This is the only way up the mountain. Why don't you two rest a bit and wait for the big shot to arrive before heading up?,นี่เป็นเส้นทางเดียวที่จะขึ้นไปบนเขาได้ ทำไมท่านทั้งสองไม่พักสักหน่อย แล้วรอให้คนสำคัญท่านนั้นมาถึงก่อนค่อยขึ้นไปล่ะ?
+M5069-1_7_12,This...,นี่...
+M5069-1_7_13,Are you telling the truth?,ท่านพูดจริงรึ?
+M5069-1_7_14,"Of course, I would never dare to deceive you heroes. If you two don't believe me, you can ask these four people. They just came down from the mountain.",แน่นอน ข้าไม่กล้าหลอกท่านจอมยุทธ์หรอกน่า หากพวกท่านไม่เชื่อก็ลองถามท่านทั้งสี่คนนั้นก็ได้ พวกเขาเพิ่งลงมาจากเขานี่แหละ
+M5069-1_7_15,You just said that there's a big shot waiting up there? Who is it?,เมื่อกี้ท่านบอกว่าต้องรอบุคคลสำคัญมาถึงก่อน เขาเป็นใครหรือ?
+M5069-1_7_16,How would I know about this? I'm just a tea seller.,ข้าจะรู้ได้อย่างไร? ข้าเป็นเพียงคนขายน้ำชาเท่านั้น
 M5069-1_7_17,You just said we have to wait for him to start. Does that mean everyone else has already arrived?
 M5069-1_7_18,"I just heard from them that many people have already arrived, even the Eight Saints have arrived. I don't know who has such a big face that makes others wait."
 M5069-1_7_19,Hmm... who could have such a big face...
