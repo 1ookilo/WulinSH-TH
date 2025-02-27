@@ -575,78 +575,78 @@ M2341-7_2_1,This...,นี่มัน...
 M2341-7_2_2,That's too much!,นี่มันมากเกินไปแล้วกระมัง!
 M2341-7_2_3,"Brother, you're the boss. You want me to fall on the {number} round, I'll fall on the {number} round. You want me to fall on the {number} move, I'll fall on the {number} move!","พี่ชายสั่งการมาเถิด ท่านต้องการให้ข้าพ่ายแพ้ในยกที่ {number} ข้าก็จะพ่ายแพ้ในยกที่ {number} ท่านต้องการให้ข้าพ่ายแพ้ในกระบวนท่าที่ {number} ข้าก็จะพ่ายแพ้ในกระบวนท่าที่ {number}!"""
 M2341-7_2_4,"No... no such demands. You just need to go easy, make sure you can lose.",ม... มิได้มีข้อเรียกร้องมากมาย เพียงท่านลดความจริงจังลงเล็กน้อย เพื่อให้มั่นใจว่าท่านจะปราชัยก็เพียงพอ
-M2341-7_2_5,"Sure thing! I'll go prepare and work on my acting skills, I promise to satisfy you!"
-M2341-7_3_1,"Listen to me, haven't you noticed that there are many abnormal things in Penglai Sect?"
-M2341-7_3_2,"Now that you mention it, it seems very hasty and sloppy everywhere..."
-M2341-7_3_3,"That's right, the fame of Penglai Sect is well-known, but a golden basin washing hands ceremony is so unprofessional, so grassroots, the visiting vagabonds all have ulterior motives, don't you think there are many strange things about this martial arts competition itself?"
-M2341-7_3_4,"Ah... Ah! It's like being surrounded by wolves, it's so unsafe, and I'm alone. In that case..."
-M2341-7_3_5,"(I don't know what he's thinking, but it seems that my reasons hit his worries.)"
-M2341-7_3_6,"In that case, I advise you to save yourself and run away as soon as possible!"
-M2341-7_3_7,"Yes, thank you for the information, brother!"
-M2341-7_3_8,"Wait, you still have a martial arts competition to attend, if you run away directly, it will inevitably arouse suspicion. I suggest you still participate in the martial arts competition, but deliberately lose."
-M2341-7_3_9,"But you have to make it look real, lose because your skills are not as good, so when you run away from this island, it won't arouse suspicion."
-M2341-7_3_10,Makes sense!
-M2341-7_3_11,"On the other hand, you have to be careful of your opponent's killer moves, you have to know that the participants may be someone's people..."
-M2341-7_3_12,"Thanks for the reminder, I'll be careful. Thanks to your advice, otherwise I would have fallen here."
-M2341-7_3_13,"I'll think about how to lose convincingly, see you later!"
-M2341-7_4_1,"Since it's the brother's meaning, I have no reason not to follow."
-M2341-7_4_2,"I'll think about how to lose convincingly, see you later!"
-M2341-7_4_3,"I haven't even said the reason yet, it's good that the vagabonds are so straightforward."
+M2341-7_2_5,"Sure thing! I'll go prepare and work on my acting skills, I promise to satisfy you!",แน่นอน! ข้าจะไปเตรียมตัว และ ฝึกปรือการแสดง รับประกันว่าท่านจะต้องพึงพอใจแน่นอน!
+M2341-7_3_1,"Listen to me, haven't you noticed that there are many abnormal things in Penglai Sect?",ฟังข้านะ ท่านมิได้สังเกตเห็นความผิดปกติมากมายที่เกิดขึ้นทั่วสำนักเผิงไหลหรือ?
+M2341-7_3_2,"Now that you mention it, it seems very hasty and sloppy everywhere...",ฟังท่านกล่าวเช่นนี้แล้ว ก็ดูเหมือนว่าทุกสิ่งล้วนแล้วแต่เร่งรีบและหละหลวม...
+M2341-7_3_3,"That's right, the fame of Penglai Sect is well-known, but a golden basin washing hands ceremony is so unprofessional, so grassroots, the visiting vagabonds all have ulterior motives, don't you think there are many strange things about this martial arts competition itself?",ถูกต้องแล้ว! สำนักเผิงไหลมีชื่อเสียงเลื่องลือ แต่การจัดงานล้างมือกลับดูไม่ชำนาญและหละหลวมเช่นนี้ เหล่าจอมยุทธ์ที่มาเยือนล้วนมีใจคิดคด ท่านไม่คิดหรือว่าการประลองเองก็มีเรื่องแปลกประหลาดมากมาย?
+M2341-7_3_4,"Ah... Ah! It's like being surrounded by wolves, it's so unsafe, and I'm alone. In that case...",อาา...อ๋า! นี่มันราวกับฝูงหมาป่าล้อมรอบ เห็นทีจะไม่ปลอดภัย ข้าก็อยู่เพียงลำพัง หากเป็นเช่นนี้...
+M2341-7_3_5,"(I don't know what he's thinking, but it seems that my reasons hit his worries.)",(ข้าไม่รู้ว่าเขากำลังคิดอะไร แต่เหตุผลต่าง ๆ ที่ได้อธิบายไปเหมือนจะทำให้เขาฉุกคิดขึ้นมาได้)
+M2341-7_3_6,"In that case, I advise you to save yourself and run away as soon as possible!",เมื่อเป็นเช่นนี้ ข้าขอเตือนท่านให้รักษาตัวให้พ้นภัย และรีบจากไปโดยเร็ว!ที่สุดเท่าที่จะเป็นไปได้!
+M2341-7_3_7,"Yes, thank you for the information, brother!",จริงด้วย ขอบคุณสำหรับข้อมูลสหาย!
+M2341-7_3_8,"Wait, you still have a martial arts competition to attend, if you run away directly, it will inevitably arouse suspicion. I suggest you still participate in the martial arts competition, but deliberately lose.",ช้าก่อน! ตอนนี้ท่านยังมีนัดประลองยุทธ์อยู่ หากท่านจากไปโดยพลัน ย่อมไม่พ้นต้องให้ผู้อื่นสงสัย ข้าแนะนำว่าท่านควรเข้าร่วมการประลอง และแสร้งพ่ายแพ้ไปเสียดีกว่า
+M2341-7_3_9,"But you have to make it look real, lose because your skills are not as good, so when you run away from this island, it won't arouse suspicion.",แต่ต้องแสดงให้แนบเนียน ให้ดูเหมือนว่าท่านด้อยฝีมือจนพ่ายแพ้ เมื่อเป็นเช่นนี้ การที่ท่านจากเกาะนี้ไป ย่อมไม่เป็นที่สงสัย
+M2341-7_3_10,Makes sense!,สมเหตุสมผล!
+M2341-7_3_11,"On the other hand, you have to be careful of your opponent's killer moves, you have to know that the participants may be someone's people...",ในขณะเดียวกัน ท่านก็ต้องระวังท่าไม้ตายคู่ประลองให้ดี ท่านต้องระลึกไว้เสมอว่าคู่ประลองของท่านอาจเป็นคนของใครก็ได้
+M2341-7_3_12,"Thanks for the reminder, I'll be careful. Thanks to your advice, otherwise I would have fallen here.",ขอบคุณสำหรับคำชี้แนะ ข้าจะระวังตัว หากไม่ใช่คำแนะนำของท่าน ข้าอาจจะต้องตกตายที่นี่
+M2341-7_3_13,"I'll think about how to lose convincingly, see you later!",ข้าจะกลับไปคิดวิธีที่แพ้ให้เนียนที่สุด รักษาตัวด้วย!
+M2341-7_4_1,"Since it's the brother's meaning, I have no reason not to follow.",เนื่องจากเป็นคำชี้แนะจากสหาย ไม่มีเหตุอันใดที่จะไม่ทำตาม
+M2341-7_4_2,"I'll think about how to lose convincingly, see you later!",ข้าจะกลับไปคิดวิธีที่แพ้ให้เนียนที่สุด รักษาตัวด้วย!
+M2341-7_4_3,"I haven't even said the reason yet, it's good that the vagabonds are so straightforward.",ข้ายังมิได้เอ่ยเหตุผลสักคำ เหล่าชาวยุทธ์ล้วนแต่ใจกว้างเช่นนี้ก็นับว่าไม่เลว
 M2341-8_talking,Match-fixing,การประลองตบตา
-M2341-8_1_1,"Do you want me to test your parents and siblings, or martial arts, marriage, or fortune and misfortune?"
+M2341-8_1_1,"Do you want me to test your parents and siblings, or martial arts, marriage, or fortune and misfortune?",เจ้าปรารถนาจะให้ข้าหยั่งชะตาบิดามารดาและพี่น้อง หรือว่าวิทยายุทธ์ วาสนาคู่ครอง หรือว่าเคราะห์กรรมและโชคชะตาเล่า?
 M2341-8_1_2,I came to you because...,ข้ามาหาท่านเพราะว่า...
 M2341-8_op_1_1,"Take the money, you can't win this match. <color=#097a76>(50 taels)</color>",รับเงินนี้ไปเสีย การประลองนี้ท่านไม่มีทางชนะ <color=#097a76>(50 ตำลึง)</color>
 M2341-8_op_1_2,"Listen to me, you can't win this match. <color=#097a76>(Persuade level 3 Advance)</color>",เชื่อข้าเถิด การประลองนี้ท่านไม่มีทางชนะ <color=#097a76>(ทักษะโน้มน้าวถึงระดับ 3 ขั้นสูง)</color>
 M2341-8_op_1_3,"For my sake, you can't win this match. <color=#097a76>(Favorability ≥80)</color>",เห็นแก่หน้าข้าเถิด การประลองนี้ท่านต้องเป็นผู้แพ้ <color=#097a76>(ความสนิท ≥80)</color>
-M2341-8_op_1_4,Never mind.
-M2341-8_2_1,Oh? This money...
-M2341-8_2_2,It's enough for me to live without worry for the rest of my life.
-M2341-8_2_3,"I have experience in this kind of thing, true or false, I can handle it easily, I guarantee you will be satisfied!"
-M2341-8_2_4,"I'll think about how to make the results more credible, don't worry, I'm professional."
-M2341-8_2_5,The Taoist priest disappears
-M2341-8_2_6,"Professional what, isn't he a fortune teller? Is his profession making fakes or lying?"
-M2341-8_3_1,"Since you are a Taoist priest, haven't you noticed that there are many abnormal things in Penglai Sect?"
-M2341-8_3_2,"Now that you mention it, this large sect, the feng shui layout, everywhere is ominous and murderous..."
-M2341-8_3_3,(Is it real or fake?)
-M2341-8_3_4,"The area above this firewood room is covered with black air, there must be a blood disaster."
-M2341-8_3_5,"The selected location, the northwest side is all mountains, the evil spirit cannot escape, there is nowhere to vent, it is circling here, there will be blood splashing here soon!"
-M2341-8_3_6,(That's too scary!)
-M2341-8_3_7,"Thanks to the brother for reminding me, I will repay the life-saving grace in the future, I have to run away from here first!"
-M2341-8_3_8,"Wait, you still have a martial arts competition to attend, if you run away directly, it will inevitably arouse suspicion. I suggest you still participate in the martial arts competition, but deliberately lose."
-M2341-8_3_9,"But you have to make it look real, lose because your skills are not as good, so when you run away from this island, it won't arouse suspicion."
-M2341-8_3_10,Makes sense!
-M2341-8_3_11,"On the other hand, you have to be careful of your opponent's killer moves, you have to know that the participants may be someone's people..."
-M2341-8_3_12,"Thanks for the reminder, I'll be careful. Thanks to your advice, otherwise I would have fallen here."
-M2341-8_3_13,"I'll think about how to lose convincingly, see you later!"
-M2341-8_4_1,"Brother, if you speak, I will naturally follow."
-M2341-8_4_2,"I'll think about how to lose convincingly, see you later!"
-M2341-8_4_3,"I haven't even said the reason yet, it's good that the vagabonds are so straightforward."
-M2341-19_1_1,"No one sees me here, I can easily use Qinggong to get outside the sect courtyard."
-M2341-19_op_1_1,Use Qinggong to get over there.<color=#097a76>(Qinggong reaches 100)</color>
-M2341-19_op_1_2,Don't go over for now.
-M2341-19_2_1,You can use Qinggong to jump into the courtyard from here without being noticed by anyone.
-M2341-19_7_1,Oops... I tripped...
-M2341-19_7_2,"No one saw that, right?"
-M2341-9_2_1,"I just remembered, Emcee is dead, so the martial arts competition can't be held. What am I doing here..."
+M2341-8_op_1_4,Never mind.,ช่างมันเถิด
+M2341-8_2_1,Oh? This money...,โอ้? เงินทองเหล่านี้...
+M2341-8_2_2,It's enough for me to live without worry for the rest of my life.,เพียงพอให้ข้าใช้ชีวิตอย่างสุขสบายไปจนชั่วชีวิตเลยล่ะ
+M2341-8_2_3,"I have experience in this kind of thing, true or false, I can handle it easily, I guarantee you will be satisfied!",เรื่องราวเช่นนี้ ข้าชำนาญนัก สิ่งใดจริง สิ่งใดเท็จ ข้าจัดการได้โดยง่าย รับรองท่านต้องพึงพอใจ!
+M2341-8_2_4,"I'll think about how to make the results more credible, don't worry, I'm professional.",ข้าจะไปตรึกตรองว่าจะทำอย่างไรให้ผลลัพธ์น่าเชื่อถือยิ่งขึ้น ท่านจงวางใจ ข้าเป็นผู้เชี่ยวชาญ
+M2341-8_2_5,The Taoist priest disappears,นักพรตหายตัวไปไร้ร่องรอย
+M2341-8_2_6,"Professional what, isn't he a fortune teller? Is his profession making fakes or lying?",เชี่ยวชาญอะไรกัน เขาเป็นเพียงนักพยากรณ์มิใช่หรือ? หรือว่าความถนัดของเขาคือการสร้างเรื่องเท็จหรือกล่าวคำลวง?
+M2341-8_3_1,"Since you are a Taoist priest, haven't you noticed that there are many abnormal things in Penglai Sect?",ในเมื่อท่านเป็นนักพรต ท่านมิได้ล่วงรู้ถึงความผิดแปลกมากมายที่แฝงเร้นอยู่ทั่วสำนักเผิงไหลหรือไร?
+M2341-8_3_2,"Now that you mention it, this large sect, the feng shui layout, everywhere is ominous and murderous...",เมื่อท่านกล่าวเช่นนี้ ข้าก็พลันตระหนักว่าสำนักใหญ่โตแห่งนี้ การจัดวางฮวงจุ้ย ล้วนแต่เต็มไปด้วยพลังร้ายและกลิ่นอายสังหาร...
+M2341-8_3_3,(Is it real or fake?),(เรื่องนี้มันจริงหรือเท็จกันแน่?)
+M2341-8_3_4,"The area above this firewood room is covered with black air, there must be a blood disaster.",เหนือโรงเก็บฟืนนั้นมีไอสีดำปกคลุมหนาแน่น เห็นทีว่าจะมีภัยพิบัติถึงตาย
+M2341-8_3_5,"The selected location, the northwest side is all mountains, the evil spirit cannot escape, there is nowhere to vent, it is circling here, there will be blood splashing here soon!",สถานที่ที่เลือกนี้ ทิศตะวันตกเฉียงเหนือมีขุนเขาล้อมรอบ พลังร้ายไม่อาจเล็ดลอด ไม่มีที่ระบาย วนเวียนอยู่ ณ ที่นี้ ในไม่ช้าที่นี่จักมีโลหิตนองทั้งสี่ทิศ!
+M2341-8_3_6,(That's too scary!),(นี่มันน่ากลัวเกินไปแล้ว!)
+M2341-8_3_7,"Thanks to the brother for reminding me, I will repay the life-saving grace in the future, I have to run away from here first!",ขอบคุณท่านพี่ที่ชี้แนะ พระคุณที่ช่วยชีวิตนี้ ข้าจักตอบแทนในภายภาคหน้า ข้าขอตัวจากไปก่อน!
+M2341-8_3_8,"Wait, you still have a martial arts competition to attend, if you run away directly, it will inevitably arouse suspicion. I suggest you still participate in the martial arts competition, but deliberately lose.",ช้าก่อน ท่านยังคงต้องร่วมการประลองอยู่ หากท่านเผ่นไปแบบนี้ อาจดูน่าสงสัยเกินไป ข้าขอแนะนำให้ท่านกลับไปร่วมการประลอง แต่ให้แกล้งทำเป็นแพ้เสีย
+M2341-8_3_9,"But you have to make it look real, lose because your skills are not as good, so when you run away from this island, it won't arouse suspicion.",แต่ต้องแสดงให้แนบเนียน ให้ดูเหมือนว่าท่านด้อยฝีมือจนพ่ายแพ้ เมื่อเป็นเช่นนี้ การที่ท่านจากเกาะนี้ไป ย่อมไม่เป็นที่สงสัย
+M2341-8_3_10,Makes sense!,สมเหตุสมผล!
+M2341-8_3_11,"On the other hand, you have to be careful of your opponent's killer moves, you have to know that the participants may be someone's people...",ในขณะเดียวกัน ท่านก็ต้องระวังท่าไม้ตายคู่ประลองให้ดี ท่านต้องระลึกไว้เสมอว่าคู่ประลองของท่านอาจเป็นคนของใครก็ได้
+M2341-8_3_12,"Thanks for the reminder, I'll be careful. Thanks to your advice, otherwise I would have fallen here.",ขอบคุณสำหรับคำชี้แนะ ข้าจะระวังตัว หากไม่ใช่คำแนะนำของท่าน ข้าอาจจะต้องตกตายที่นี่
+M2341-8_3_13,"I'll think about how to lose convincingly, see you later!",ข้าจะกลับไปคิดวิธีที่แพ้ให้เนียนที่สุด รักษาตัวด้วย!
+M2341-8_4_1,"Brother, if you speak, I will naturally follow.",ท่านพี่เอ่ยปากมา ข้าจะทำตามทุกประการ
+M2341-8_4_2,"I'll think about how to lose convincingly, see you later!",ข้าจะกลับไปคิดวิธีที่แพ้ให้เนียนที่สุด รักษาตัวด้วย!
+M2341-8_4_3,"I haven't even said the reason yet, it's good that the vagabonds are so straightforward.",ข้ายังมิได้เอ่ยเหตุผลสักคำ เหล่าชาวยุทธ์ล้วนแต่ใจกว้างเช่นนี้ก็นับว่าไม่เลว
+M2341-19_1_1,"No one sees me here, I can easily use Qinggong to get outside the sect courtyard.",ณ ที่นี้ไร้ผู้คนพบเห็น ข้าสามารถใช้วิชาตัวเบาเหินร่างไปยังนอกเขตสำนักได้โดยง่าย
+M2341-19_op_1_1,Use Qinggong to get over there.<color=#097a76>(Qinggong reaches 100)</color>,ใช้วิชาตัวเบาข้ามไป <color=#097a76>(วิชาตัวเบา 100)</color>
+M2341-19_op_1_2,Don't go over for now.,ยังมิใช่เวลาอันควร
+M2341-19_2_1,You can use Qinggong to jump into the courtyard from here without being noticed by anyone.,จากที่นี่ใช้วิชาตัวเบาเหินร่างไปยังลานได้ ย่อมมิมีผู้ใดล่วงรู้
+M2341-19_7_1,Oops... I tripped...,อ๊ะ...สะดุดเข้าให้แล้ว...
+M2341-19_7_2,"No one saw that, right?",คงไม่มีใครเห็นกระมัง...
+M2341-9_2_1,"I just remembered, Emcee is dead, so the martial arts competition can't be held. What am I doing here...",ข้าเพิ่งนึกออกว่าโฆษกสิ้นชีพไปแล้ว การประลองนี้ย่อมไม่อาจจัดขึ้นได้ ข้ามาทำอะไรที่นี่เนี่ย...
 M2341-9_3_1,"...I have an announcement: We've been waiting for a while, but the swordsman Wang Zixing has not shown up and his whereabouts are unknown. We have to declare him forfeit! The betting for this competition is also cancelled, and all bets will be refunded!",…มีข่าวแจ้งแก่ทุกท่าน! เรารอคอยมาเนิ่นนาน แต่กระบี่มือฉมัง หวังจื้อสิง กลับไร้เงา ไม่รู้ไปอยู่ที่ใด เราจึงขอประกาศว่าเขาถอนตัวจากการแข่งขัน! ศึกประลองครั้งนี้ให้ถือเป็นโมฆะ พร้อมคืนเงินเดิมพันทั้งหมด!
-M2341-9_3_2,"(Sigh, I didn't expect that killing him would not result in a direct victory, but a forfeit...)"
-M2341-9_4_1,"You have retrieved your bet of 100 Guan.\nYou notice that Wang Bushu is patting his chest, seemingly regretful and scared.\nIt seems unlikely that you can provoke his gambling addiction again and make him bet the Token."
+M2341-9_3_2,"(Sigh, I didn't expect that killing him would not result in a direct victory, but a forfeit...)",(เฮ้อ...ไม่นึกเลยว่าการสังหารเขา มิใช่ชัยชนะโดยตรง แต่กลับกลายเป็นการสละสิทธิ์เสียอย่างงั้น...)
+M2341-9_4_1,"You have retrieved your bet of 100 Guan.\nYou notice that Wang Bushu is patting his chest, seemingly regretful and scared.\nIt seems unlikely that you can provoke his gambling addiction again and make him bet the Token.","ท่านได้รับเงินเดิมพันกลับคืนมาแล้ว 100 ตำลึง\nท่านได้สังเกตเห็นว่าหวังปู้ซูทุบหน้าอกของตนเอง ดูเหมือนว่าเขาจะรู้สึกเสียใจและหวาดกลัวอย่างมาก\nดูเหมือนว่าการที่จะกระตุ้นโทสะให้เขากลับมาวางเดิมพันด้วยตราผู้ดูแลนั้น คงเป็นไปได้ยากแล้ว"
 M2341-9_4_2,"Next up is Shen Chenxuan, who will face the fortune-telling Taoist, Golden Tip Accountant!",ต่อไป ยังคงเป็น ลู่เฉินซวน ครานี้เขาต้องเผชิญหน้ากับเซียนพยากรณ์ จินเตี้ยนซ่วน!
 M2341-9_5_1,"Next up is Shen Chenxuan, who will face the fortune-telling Taoist, Golden Tip Accountant!",ต่อไป ยังคงเป็น ลู่เฉินซวน ครานี้เขาต้องเผชิญหน้ากับเซียนพยากรณ์ จินเตี้ยนซ่วน!
 M2341-9_6_1,The competitors in this round are the hat-wearing swordsman Shen Chenxuan and the swordsman Wang Zixing who wields three swords!,ในการประลองรอบนี้ ถึงคราวเผชิญหน้าระหว่างจอมยุทธ์สวมหมวกฟาง ลู่เฉินซวน และมือกระบี่สามเล่ม หวังจื้อสิง!
-M2341-9_6_2,"It's indeed Brother Lu's turn, let me watch closely."
+M2341-9_6_2,"It's indeed Brother Lu's turn, let me watch closely.",เป็นรอบประลองของพี่ลู่ ข้าจะจับตาดูอย่างใกล้ชิด
 M2341-9_7_1,"What a spectacular fight! Wang Zixing's sword moves are ever-changing, but Shen Chenxuan has grasped the essence of his moves and broke them like a whirlwind!",การต่อสู้อันดุเดือดยิ่ง! กระบี่ของ หวังจื้อสิง แปรเปลี่ยนนับพัน แต่กลับถูก ลู่เฉินซวน มองทะลุปรุโปร่ง ทลายทุกกระบวนท่าให้สลายดั่งสายลมพัดกวาดเมฆา!
 M2341-9_7_2,Let's congratulate Shen Chenxuan on his victory. He only needs to fight one more round to qualify for the main hall!,ขอแสดงความยินดีกับ ลู่เฉินซวน ที่ได้รับชัยชนะ! หากเขาชนะอีกเพียงศึกเดียว ก็จะได้สิทธิ์เข้าสู่ห้องโถงใหญ่!
 M2341-9_8_1,"Unfortunately, Shen Chenxuan's opponent, Golden Tip Accountant, has not shown up and his whereabouts are unknown. We will arrange the next competition soon, please take a break for now!",น่าเสียดายนัก คู่ต่อสู้ของ ลู่เฉินซวน อย่าง จินเตี้ยนซ่วน กลับหายตัวไปไร้ร่องรอย! เราจะจัดศึกต่อไปในเร็วๆ นี้ ขอให้ทุกท่านพักรอก่อน!
-M2341-9_9_1,"Due to the forfeit, the betting is cancelled, and you have retrieved your bet of 100 Guan.\nYou notice that Wang Bushu is patting his chest, seemingly regretful and scared.\nIt seems unlikely that you can provoke his gambling addiction again and make him bet the Token."
+M2341-9_9_1,"Due to the forfeit, the betting is cancelled, and you have retrieved your bet of 100 Guan.\nYou notice that Wang Bushu is patting his chest, seemingly regretful and scared.\nIt seems unlikely that you can provoke his gambling addiction again and make him bet the Token.","เนื่องจากการประลองถูกยกเลิก ทำให้การเดิมพันเป็นโมฆะ ท่านจึงได้รับเงินเดิมพัน 100 ตำลึงของท่านคืน\nท่านได้สังเกตเห็นว่าหวังปู้ซูทุบหน้าอกของตนเอง ดูเหมือนว่าเขาจะรู้สึกเสียใจและหวาดกลัวอย่างมาก\nดูเหมือนว่าการที่จะกระตุ้นโทสะให้เขากลับมาวางเดิมพันด้วยตราผู้ดูแลนั้น คงเป็นไปได้ยากแล้ว"
 M2341-9_9_2,"Shen Chenxuan faced a skilled Vagabond, but he was no match for Shen Chenxuan. The victory was inevitable, and even the Emcee didn't bother to commentate.",ลู่เฉินซวน เผชิญหน้ากับจอมยุทธ์พเนจร ทว่าก็หาใช่คู่มือของเขาไม่! ชัยชนะนั้นแน่นอนเกินไป แม้แต่ผู้ดำเนินพิธีก็หมดสิ้นแรงจูงใจจะเอ่ยบรรยาย
 M2341-9_10_1,"Shen Chenxuan faced a skilled Vagabond, but he was no match for Shen Chenxuan. The victory was inevitable, and even the Emcee didn't bother to commentate.",ลู่เฉินซวน เผชิญหน้ากับจอมยุทธ์พเนจร ทว่าก็หาใช่คู่มือของเขาไม่! ชัยชนะนั้นแน่นอนเกินไป แม้แต่ผู้ดำเนินพิธีก็หมดสิ้นแรงจูงใจจะเอ่ยบรรยาย
 M2341-9_11_1,"The competitors for this round are the hat-wearing hero Shen Chenxuan and the fortune-telling Taoist priest, Golden Tip Accountant!",ในการประลองรอบนี้ ถึงคราวเผชิญหน้าระหว่างจอมยุทธ์สวมหมวกฟาง ลู่เฉินซวน กับนักพรตเต๋าเซียนพยากรณ์ จินเตี้ยนซ่วน!
-M2341-9_11_2,"It's indeed Brother Lu's turn, let me watch closely."
+M2341-9_11_2,"It's indeed Brother Lu's turn, let me watch closely.",เป็นรอบประลองของพี่ลู่ ข้าจะจับตาดูอย่างใกล้ชิด
 M2341-9_12_1,"Everyone in the field was stunned by Golden Tip Accountant's magical talisman spells, no one expected Shen Chenxuan to break Golden Tip Accountant's tricks with just a single blade!",ผู้คนทั้งลานประลองต่างตื่นตะลึงกับวิชาอาคมลี้ลับของ จินเตี้ยนซ่วน ทว่าใครจะคาดคิดว่า ลู่เฉินซวน จะใช้เพียงดาบเดียว ก็สามารถทำลายมายากลเหล่านั้นได้จนหมดสิ้น!
 M2341-9_13_1,Let's congratulate Shen Chenxuan on his victory. He only needs to fight one more round to qualify for the main hall!,ขอแสดงความยินดีกับ ลู่เฉินซวน ที่ได้รับชัยชนะ! หากเขาชนะอีกเพียงศึกเดียว ก็จะได้สิทธิ์เข้าสู่ห้องโถงใหญ่!
 M2341-9_13_2,"Shen Chenxuan faced a skilled Vagabond, but he was no match for Shen Chenxuan. The victory was inevitable, and even the Emcee didn't bother to commentate.",ลู่เฉินซวน เผชิญหน้ากับจอมยุทธ์พเนจร ทว่าก็หาใช่คู่มือของเขาไม่! ชัยชนะนั้นแน่นอนเกินไป แม้แต่ผู้ดำเนินพิธีก็หมดสิ้นแรงจูงใจจะเอ่ยบรรยาย
-M2341-9_14_1,"At this moment, another hero has qualified for the main hall!"
+M2341-9_14_1,"At this moment, another hero has qualified for the main hall!",ในขณะนั้นเอง จอมยุทธ์อีกผู้หนึ่งก็ได้รับสิทธิ์เข้าสู่ห้องโถงใหญ่!
 M2341-9_14_2,Who's next?|Hurry up with the next round!|I won 20 Guan!|Did anyone else get in?|Where do I sign up?
 M2341-9_15_1,"...I have an announcement: We've been waiting for a while, but the competition can't proceed due to lack of participants. The betting for this competition is also cancelled, and all bets will be refunded!"
 M2341-9_15_2,"(Sigh, I didn't expect that killing him would not result in a direct victory, but a forfeit...)"
