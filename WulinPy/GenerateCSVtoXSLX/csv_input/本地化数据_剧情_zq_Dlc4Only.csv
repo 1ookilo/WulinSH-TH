@@ -232,16 +232,16 @@ M5069-1_7_18,"I just heard from them that many people have already arrived, even
 M5069-1_7_19,Hmm... who could have such a big face...
 M5069-1_7_20,"{PlayerSurName}, I've asked them and it's consistent with what he said. Why don't you rest a bit, let me apologize."
 M5069-1_7_21,"Well, in that case, it would be rude not to accept."
-M5069-1_7_22,"Brother, look at that guy..."
-M5069-1_7_23,Hmm?
-M5069-1_7_24,That guy looks like {PlayerName}!
-M5069-1_7_25,It really is...
-M5069-1_7_26,...They're discussing you.
-M5069-1_7_27,Seems like it.
-M5069-1_7_28,The monk behind is also staring at you.
-M5069-1_7_29,Yes.
-M5069-1_7_30,Do you know them?
-M5069-1_7_31,No.
+M5069-1_7_22,"Brother, look at that guy...",พี่ชาย ดูชายผู้นั้นสิ...
+M5069-1_7_23,Hmm?,หืมม?
+M5069-1_7_24,That guy looks like {PlayerName}!,ชายผู้นั้นดูเหมือน{PlayerName}เลย!
+M5069-1_7_25,It really is...,เป็นเช่นนั้นจริงๆ...
+M5069-1_7_26,...They're discussing you.,...พวกเขาพูดถึงเจ้าแน่ะ
+M5069-1_7_27,Seems like it.,เหมือนจะเป็นเช่นนั้น
+M5069-1_7_28,The monk behind is also staring at you.,หลวงจีนที่อยู่ด้านหลังก็มองมาที่เจ้าเช่นกัน
+M5069-1_7_29,Yes.,อืม
+M5069-1_7_30,Do you know them?,รู้จักพวกเขาไหม?
+M5069-1_7_31,No.,ไม่เลย
 M5069-1_7_32,Are you famous?
 M5069-1_7_33,I guess... I'm okay.
 M5069-1_7_34,"Here's your tea, please enjoy."
@@ -326,17 +326,17 @@ M5069-1_25_1,"Thank you, {PlayerSurName} hero, for your help!"
 M5069-1_25_2,"{PlayerSurName} hero, you truly have the demeanor of a hero!"
 M5069-1_25_3,I will never forget this kindness!
 M5069-1_25_4,"If {PlayerSurName} hero has any orders in the future, I will not hesitate to die for you!"
-M5069-1_25_5,"It's a small effort, let's meet again on the Sword Debate Platform."
-M5069-1_25_6,Good!
-M5069-1_25_7,"{PlayerSurName} hero, I have already detoxified them all. Can I go now?"
-M5069-1_25_8,"Hmm, leave your name."
-M5069-1_25_9,My name... my name is Ding San.
-M5069-1_26_1,"Ding San... Sigh, he was a Fearless man when he was young, I didn't expect him to become like this when he got old."
-M5069-1_27_1,"Alright, Ding San, listen carefully. Today I let you go, and I vouch for you. If you commit a crime again in the future, it means I made a mistake today. Even if you hide at the ends of the earth, I will personally make up for today's mistake."
-M5069-1_27_2,Understood... I will definitely change my ways and never commit again.
-M5069-1_27_3,"Good, you can go."
-M5069-1_27_4,"Thank you, {PlayerSurName} hero!"
-M5069-1_27_5,...I didn't expect you to make this choice.
+M5069-1_25_5,"It's a small effort, let's meet again on the Sword Debate Platform.",แค่เรื่องเล็กน้อย ไว้ค่อยพบกันที่ลานวิจารณ์กระบี่
+M5069-1_25_6,Good!,ดี!
+M5069-1_25_7,"{PlayerSurName} hero, I have already detoxified them all. Can I go now?",จอมยุทธ{PlayerSurName} ข้ากำจัดพิษให้พวกเขาทั้งหมดแล้ว ข้าไปได้หรือยัง?
+M5069-1_25_8,"Hmm, leave your name.",อืมม เจ้ามีนามว่าอะไรรึ
+M5069-1_25_9,My name... my name is Ding San.,ข้าชื่อ... ข้าชื่อว่า ติงซาน
+M5069-1_26_1,"Ding San... Sigh, he was a Fearless man when he was young, I didn't expect him to become like this when he got old.",ติงซาน... เฮ้อ เมื่อตอนยังหนุ่มเขาเป็นคนเข้มแข็งมาก ไม่นึกเลยว่าพอแก่ตัวไปจะกลายเป็นคนเช่นนี้
+M5069-1_27_1,"Alright, Ding San, listen carefully. Today I let you go, and I vouch for you. If you commit a crime again in the future, it means I made a mistake today. Even if you hide at the ends of the earth, I will personally make up for today's mistake.",เอาล่ะติงซาน จงฟังให้ดี วันนี้ข้าจะปล่อยเจ้าไป และข้าขอเตือนเจ้าไว้เลยว่า หากในภายภาคหน้าเจ้ายังกระทำผิดอีก นั่นหมายความว่าเป็นความผิดของข้าที่วันนี้ยอมปล่อยเจ้าไป ต่อให้เจ้าหนีไปจนสุดหล้าฟ้าเขียว ข้าก็จะตามไปคิดบัญชีกับเจ้าด้วยตัวเอง
+M5069-1_27_2,Understood... I will definitely change my ways and never commit again.,เข้าใจแล้ว... ข้าจะปรับปรุงตัวเองและไม่ทำผิดซ้ำแน่นอน
+M5069-1_27_3,"Good, you can go.",ดี เจ้าไปได้
+M5069-1_27_4,"Thank you, {PlayerSurName} hero!",ขอบคุณจอมยุทธ์{PlayerSurName}!
+M5069-1_27_5,...I didn't expect you to make this choice.,...ข้าไม่นึกเลยว่าเจ้าจะตัดสินใจเช่นนี้
 M5069-1_27_6,"Otherwise? We still have to go to the sword duel conference, we can't delay too long.\nBesides, his crime is not punishable by death, if we really send him to the Government Office, they might also make this judgment."
 M5069-1_27_7,"No, I mean... Never mind, you're right, we still have to go to the sword duel conference."
 M5069-1_27_8,"From what they said, it's another one or two shichen's climb from here to the Sword Debate Platform."
