@@ -1149,7 +1149,7 @@ part-7-0-1,There is a village under your jurisdiction that has been hit by a pla
 part-7-0-2,This is no small matter... I will arrange for someone to handle it.,เรื่องนี้ไม่ใช่เรื่องเล็ก... ข้าจะจัดการให้คนไปดูแลเรื่องนี้เอง
 part-7_name,Plague Disaster,ภัยพิบัติโรคระบาด
 part-7_overview,"A plague has broken out in a village, please send someone to calm it down as soon as possible.",เกิดโรคระบาดขึ้นในหมู่บ้าน โปรดส่งคนไปควบคุมสถานการณ์โดยเร็วที่สุด
-part-7-1-1,"You arrived at the place where the plague is rampant. The villagers are sick and bedridden, and the village is desolate.",ท่านมาถึงสถานที่ที่โรคระบาดกำลังระบาดหนัก ชาวบ้านป่วยและล้มหมอนนอนเสื่อ หมู่บ้านก็รกร้าง
+part-7-1-1,"You arrived at the place where the plague is rampant. The villagers are sick and bedridden, and the village is desolate.",คุณมาถึงพื้นที่ที่โรคระบาดกำลังอาละวาด! ชาวบ้านล้มป่วยนอนซมกันอยู่บนเตียง และทั้งหมู่บ้านก็เงียบเหงาวังเวง ไร้วี่แววผู้คน
 part-7-1-2,"I heard that the plague here makes people too weak to get out of bed, why are there still people going out?",ข้าได้ยินมาว่าโรคระบาดที่นี่ทำให้ผู้คนอ่อนแรงจนลุกไม่ไหว แล้วทำไมยังมีคนออกมาเดินข้างนอกอยู่อีก... ช่างน่าสงสัย
 part-7-1-3,"You don't know, we have a ""living god"" with healing hands here. He started researching the plague as soon as he arrived and has already saved many people.",ท่านคงไม่ทราบ ที่นี่เรามีท่านปรมาจารย์หมอเทวดาผู้เปี่ยมด้วยเมตตา ท่านมีฝ่ามือทิพย์โอสถรักษาโรคภัยได้ ท่านปรมาจารย์ได้เริ่มศึกษาโรคระบาดร้ายแรงนี้ทันทีที่เดินทางมาถึง และได้ช่วยเหลือชาวบ้านที่นี่ไว้เป็นจำนวนมากแล้ว
 part-7-1-4,"There's a ""living immortal""? Take us to see him. I am a disciple of {MyFaction}, maybe I can help.","มี ""ท่านเซียนที่ยังมีชีวิตอยู่"" หรือ? กรุณานำทางพวกเราไปพบท่านที ข้าเป็นศิษย์สำนัก {MyFaction} , ไม่แน่ว่าข้าอาจจะสามารถช่วยเหลือท่านเซียนได้บ้าง"
@@ -1253,89 +1253,89 @@ part-9-2-1,"Haha, now you're chasing me, you'll reap what you sow!",ฮ่าๆ
 part-9-2-2,"The wind is too strong, let's go!",ลมแรงมาก ไปกันเถอะ
 part-9-2-3,Where do you think you're going?,เจ้าจะไปไหนน่ะ
 part-9-2-4,"Master, master, we were wrong, please spare us!",นายท่าน  นายท่าน พวกข้าผิดไปแล้ว ได้โปรดไว้ชีวิตพวกข้าด้วย!
-part-9-2-5,"I don't save evil people, but looking at your daily actions, you also have a bit of kindness. If you truly repent, start running south for three hundred miles from now on, don't stop for a moment!"
+part-9-2-5,"I don't save evil people, but looking at your daily actions, you also have a bit of kindness. If you truly repent, start running south for three hundred miles from now on, don't stop for a moment!",ข้าไม่เคยช่วยคนชั่ว แต่ดูจากการกระทำที่ผ่านมาของเจ้า เจ้าก็ยังมีความดีงามอยู่บ้าง หากเจ้าสำนึกผิดจริงๆ ก็จงวิ่งไปทางทิศใต้สามร้อยไมล์จากตรงนี้ อย่าได้หยุดพักแม้แต่ครู่เดียว!
 part-9-2-6,Three hundred miles? Do we really have to run?,100 ลี้ ? (50กิโลเมตร) พวกเราต้องวิ่งจริงๆหรอ ?
 part-9-2-7,This...,นี่มัน...
-part-9-2-8,"Run, run, if you don't run now... hehehe haha."
+part-9-2-8,"Run, run, if you don't run now... hehehe haha.",วิ่งสิ วิ่งไป ถ้าเจ้าไม่วิ่งตอนนี้... เฮ่เฮ่เฮ่ ฮ่าฮ่า
 part-9-2-9,"Lai Toudian, are you really going to let them go?",ไล่โถวเตียน นี่จะปล่อยพวกเขาไปจริงๆหรือ?
-part-9-2-10,"Are you a disciple of the Buddhist school? If so, we both do not kill. And their karma, hehe, is in the south, not here."
-part-9-2-11,"Forget it, let's run!"
-part-9-2-12,Three mountain bandits ran away in a puff of smoke.
-part-9-2-13,"Aren't you someone from our sect, why did you run over here?"
-part-9-2-14,"We caught up with you, we want you to..."
+part-9-2-10,"Are you a disciple of the Buddhist school? If so, we both do not kill. And their karma, hehe, is in the south, not here.",เจ้าเป็นศิษย์สำนักพุทธหรือ? ถ้าเช่นนั้น พวกเราทั้งคู่ต่างก็ไม่ฆ่าสิ่งมีชีวิต และกรรมของพวกมัน เฮ่เฮ่ อยู่ทางทิศใต้ ไม่ใช่ที่นี่
+part-9-2-11,"Forget it, let's run!",ขอละเว้นเรื่องนี้ไว้ก่อน เราควรรีบออกจากที่นี่!
+part-9-2-12,Three mountain bandits ran away in a puff of smoke.,โจรภูเขาทั้งสามหายวับไปในม่านควัน
+part-9-2-13,"Aren't you someone from our sect, why did you run over here?",เจ้าก็เป็นคนจากสำนักเดียวกับพวกเรามิใช่หรือ แล้วเหตุใดจึงวิ่งมาที่นี่?
+part-9-2-14,"We caught up with you, we want you to...",พวกเราตามเจ้าทัน พวกเราต้องการให้เจ้า...
 part-9-option1,Go back to {MyFaction}.,กลับไปที่  {MyFaction}.
-part-9-option2,You violated the precepts and were expelled from the sect.
-part-9-3-1,We are here to take you back to {MyFaction}.
-part-9-3-2,"Hmm... I've seen a lot of karma in the world, and the harvest is quite rich, it's time to go back to {MyFaction}."
-part-9-3-3,"You've been indulging in wine and meat, haven't you..."
+part-9-option2,You violated the precepts and were expelled from the sect.,เจ้าละเมิดกฎของสำนัก และถูกขับออกจากสำนักไปแล้ว
+part-9-3-1,We are here to take you back to {MyFaction}.,พวกเราจะพาเจ้ากลับไปที่ {MyFaction}
+part-9-3-2,"Hmm... I've seen a lot of karma in the world, and the harvest is quite rich, it's time to go back to {MyFaction}.",หืม... ข้าได้เห็นกรรมต่างๆ มากมายในยุทธภพ และได้เก็บเกี่ยวประสบการณ์มาไม่น้อย ถึงเวลาต้องกลับไปที่ {MyFaction} แล้ว
+part-9-3-3,"You've been indulging in wine and meat, haven't you...",เจ้าคงสำมะเลเทเมากับสุราและเนื้อสัตว์มาตลอดสินะ...
 part-9-3-4,"Lai Toudian, you violated the precepts, the disciplinary monk will decide your punishment.",ไล่โถวเตียน เจ้าไม่ประพฤติตนอยู่ในศีล จะต้องถูกลงโทษตามพระธรรมวินัย
 part-9-3-5,After returning to {MyFaction} with Lai Toudian,หลังจากกลับมาที่{MyFaction}กับไล่โถวเตียน
-part-9-3-6,"The mad monk is back? Good, good, let's see what punishment the disciplinary monks have for you."
+part-9-3-6,"The mad monk is back? Good, good, let's see what punishment the disciplinary monks have for you.",พระบ้ากลับมาแล้วหรือ? ดีๆ มาดูกันว่าพระผู้คุมกฎจะลงโทษเจ้าอย่างไร
 part-9-3-7,Lai Toudian... violated the precepts... no punishment.,ไล่โถวเตียน... ทำผิดศีล... ไม่ถูกลงโทษ
-part-9-3-8,"Ah? Leader, this person has repeatedly violated the precepts, if not punished, other disciples will follow suit, how to convince the public?"
-part-9-3-9,"Hehe, wine and meat pass through the intestines, but Buddha remains in the heart. If people learn from me, they will be like entering the demon way."
-part-9-3-10,Lai Toudian has reached a state where he is not moved by external things.
+part-9-3-8,"Ah? Leader, this person has repeatedly violated the precepts, if not punished, other disciples will follow suit, how to convince the public?",หืม? ท่านผู้นำ ผู้นี้ละเมิดกฎของสำนักซ้ำแล้วซ้ำเล่า หากไม่ลงโทษ ศิษย์คนอื่นก็จะทำตาม แล้วจะให้วางหน้าต่อสาธารณชนอย่างไร?
+part-9-3-9,"Hehe, wine and meat pass through the intestines, but Buddha remains in the heart. If people learn from me, they will be like entering the demon way.",เฮ้อ... สุราและเนื้อสัตว์ผ่านลำไส้ไป แต่พระพุทธองค์ยังคงอยู่ในใจเสมอ หากผู้คนเอาอย่างข้า พวกเขาก็จะเหมือนก้าวเข้าสู่เส้นทางปีศาจ
+part-9-3-10,Lai Toudian has reached a state where he is not moved by external things.,ไหล่โถวเตี้ยนได้บรรลุถึงขั้นที่ไม่หวั่นไหวต่อสิ่งภายนอกแล้ว
 part-9-3-11,"For us ordinary monks, if we break the precepts of alcohol and meat, our cultivation will be shaken and we will gradually forget the meaning of Buddhism. When we see the suffering in the world, we will doubt the Buddha's intention and find it hard to calm our minds.",พวกเราเป็นเพียงหลวงจีนธรรมดา หากทำลายศีลเรื่องสุราและเนื้อสัตว์ จิตใจจะเริ่มสั่นคลอน การบำเพ็ญเพียรจะเสื่อมถอยลง เมื่อเห็นความทุกข์ยากในโลกมนุษย์ อาจเกิดความสงสัยในหลักธรรมทางพุทธศาสนา ทำให้ยากที่จะควบคุมจิตใจที่ฟุ้งซ่านได้
-part-9-3-12,"But Lai Toudian has reached a state where external things do not move his heart, and he... is the reincarnation of the Dragon Slayer Arhat."
-part-9-3-13,"Wait, if you praise me, I like to hear it. But if you say I'm the reincarnation of some Arhat, I don't like to hear it."
+part-9-3-12,"But Lai Toudian has reached a state where external things do not move his heart, and he... is the reincarnation of the Dragon Slayer Arhat.",แต่ไหล่โถวเตี้ยนได้บรรลุถึงขั้นที่สิ่งภายนอกไม่อาจสั่นคลอนจิตใจของเขาได้ และเขา... คือการกลับชาติมาเกิดของพระอรหันต์ผู้สังหารมังกร
+part-9-3-13,"Wait, if you praise me, I like to hear it. But if you say I'm the reincarnation of some Arhat, I don't like to hear it.",เดี๋ยวก่อน ถ้าเจ้าชมข้า ข้าก็ชอบฟัง แต่ถ้าเจ้าจะบอกว่าข้าเป็นการกลับชาติมาเกิดของพระอรหันต์องค์ไหน ข้าไม่ชอบฟังหรอกนะ
 part-9-3-14,"The Buddhist door is wide open, can't it accommodate a mad monk? Lai Toudian is not bound by the precepts of wine and meat here.",ประตูพระธรรมนั้นเปิดกว้าง จะมีหลวงจีนเพี้ยนๆบ้างไม่ได้หรืออย่างไร? ไล่โถวเตียนไม่ถูกผูกพันด้วยข้อห้ามการดื่มสุราและกินเนื้อสัตว์
-part-9-3-15,"But your private exit from the mountain entrance, and affecting other monks' morning classes, indeed need to be punished, you are grounded and not allowed to go out."
-part-9-3-16,"Oh... this, when can I go out then?"
-part-9-3-17,When you can go out.
-part-9-3-18,"The old monk is playing tricks, and I'm not interested! If I can't go out, I'll find my own fun!"
+part-9-3-15,"But your private exit from the mountain entrance, and affecting other monks' morning classes, indeed need to be punished, you are grounded and not allowed to go out.",แต่การที่ท่านแอบออกจากทางเข้าเขาเองตามลำพัง และส่งผลกระทบต่อการเรียนยามเช้าของพระรูปอื่นๆ ก็สมควรได้รับการลงโทษจริงๆ ท่านจะต้องถูกกักบริเวณและห้ามออกไปไหน
+part-9-3-16,"Oh... this, when can I go out then?",อ๋อ... เรื่องนี้เหรอ แล้วข้าจะออกไปได้เมื่อไหร่ล่ะ?
+part-9-3-17,When you can go out.,เมื่อท่านสามารถออกไปได้
+part-9-3-18,"The old monk is playing tricks, and I'm not interested! If I can't go out, I'll find my own fun!",พระชราเล่นลูกไม้อีกแล้ว ข้าไม่สนใจหรอก! ถ้าออกไปไม่ได้ ข้าก็จะหาความสนุกของข้าเองนั่นแหละ!
 part-9-4-1,"Lai Toudian, you have repeatedly violated the precepts, I am here to expel you, from now on you are no longer a member of {MyFaction}!",ไล่โถวเตียน เจ้าทำผิดศีลผิดวินัยซ้ำแล้วซ้ำเล่า ข้ามาที่นี่เพื่อขับไล่เจ้าออกจาก{MyFaction}!
-part-9-4-2,"Hey, I thought you were here to help me take off my monk shoes."
-part-9-4-3,"As a monk, I still have a lot of karma to observe in the world, I'm leaving!"
+part-9-4-2,"Hey, I thought you were here to help me take off my monk shoes.",เฮ้ ข้านึกว่าเจ้ามาช่วยข้าถอดรองเท้าพระเสียอีก
+part-9-4-3,"As a monk, I still have a lot of karma to observe in the world, I'm leaving!",ในฐานะพระสงฆ์ ข้ายังมีกรรมที่ต้องไปดูอีกมากในโลกนี้ ข้าไปล่ะ!
 part-9-4-4,Lai Toudian left singing a song and shaking his broken Cattail fan.,ไล่โถวเตียนเดินจากไปพร้อมกับร้องเพลงและโบกพัดซ่อมซ่อในมือของเขา
-part-9-5-1,These Mountain Bandits are quite skilled...
-part-9-5-2,"Get lost and don't let me see you again, if you steal my food again next time, I will break your hands and feet!"
-part-9-5-3,"Huff, oh, my head hurts."
-part-9-5-4,Huh? Huh? You are...
-part-9-5-5,"No, no, you've got the wrong person."
-part-9-5-6,"I'm not mistaken, you're the monk who saved me!"
-part-9-5-7,"You're still a Mountain Bandit today, and you said you swore because I forced you, it doesn't sound good if this gets out, does it?"
-part-9-5-8,I... I... was forced by the world...
-part-9-5-9,"The world does bear some responsibility, but the main problem is you."
-part-9-5-10,I... ask the master for guidance.
-part-9-5-11,"You three, run three hundred miles to the south, don't stop for a moment, go quickly!"
-part-9-5-12,"Alright, master, we will go now."
-part-9-5-13,"What, big brother, do we really have to run?"
-part-9-5-14,"Three hundred miles, I'll run out of breath before I can get away."
-part-9-5-15,"Fool! The master is saving us, run now!"
-part-9-5-16,Three mountain bandits ran away in a puff of smoke.
-part-9-5-17,"What's going on with Lai Toudian, he's actually in cahoots with the Mountain Bandits."
-part-9-5-18,"Hmm... aren't you guys who and who, why did you run over here?"
-part-9-5-19,"We caught up with you, we want you to..."
-part-9-6-1,"Master, that mad monk has run far away, we don't know where he went."
-part-9-6-2,Okay... I see.
-part-10-0-1,What's all the noise outside?
-part-10-0-2,"An outsider Monk has come to challenge us, without your permission, none of the Disciples have responded."
-part-10-0-3,"Okay, I'll send someone to meet him."
-part-10_name,Martial Monk visits
-part-10_overview,"There is a foreign Monk who wants to challenge us, please send someone to meet him as soon as possible."
-part-10-1-1,Who is coming to challenge {MyFaction} this time?
-part-10-1-2,"It's me, my Dharma name is Shi Yu, I'm here to learn about {MyFaction}'s Martial Arts."
-part-10-1-3,"Your Dharma name is Shi, which temple are you from?"
-part-10-1-4,"My master is a wandering monk, he took me as his Disciple, shaved my head, and taught me martial arts."
-part-10-1-5,"It's not that wandering Monk from {MyFaction}, is it?"
-part-10-1-6,"Do you know what your master's Dharma name is, is he a Monk from my {MyFaction}?"
-part-10-1-7,My master's Dharma name... I forgot.
-part-10-1-8,Is that so? Where did your master go?
-part-10-1-9,"My master went into the bandit's den alone to eliminate the bandits, but because of his compassion, he let go of the bandit leader's young son and was killed by a sneak attack."
-part-10-1-10,"My master said that I am not very smart and will definitely forget the name of the sect in the future. He told me to challenge any sect I see. As long as their martial arts are the same, it should be our sect."
-part-10-1-11,It seems that the master knows his disciple better.
-part-10-1-12,Then I will compete with you!
+part-9-5-1,These Mountain Bandits are quite skilled...,พวกโจรภูเขาพวกนี้มีฝีมือใช้ได้เลยทีเดียว...
+part-9-5-2,"Get lost and don't let me see you again, if you steal my food again next time, I will break your hands and feet!",หายไปให้พ้น อย่าให้ข้าเห็นหน้าอีก ถ้าเจ้ายังกล้ามาขโมยอาหารของข้าอีกครั้ง ข้าจะหักแขนหักขาเจ้าให้ดู!
+part-9-5-3,"Huff, oh, my head hurts.",ฮึ่ย โอ๊ย ปวดหัวจัง
+part-9-5-4,Huh? Huh? You are...,หา? หา? เจ้าคือ...
+part-9-5-5,"No, no, you've got the wrong person.",ไม่ใช่ ไม่ใช่ เจ้าเข้าใจผิดแล้ว
+part-9-5-6,"I'm not mistaken, you're the monk who saved me!",ข้าไม่ได้เข้าใจผิดหรอก เจ้าคือพระที่เคยช่วยข้าไว้!
+part-9-5-7,"You're still a Mountain Bandit today, and you said you swore because I forced you, it doesn't sound good if this gets out, does it?",เจ้าก็ยังเป็นโจรภูเขาอยู่ทุกวันนี้ แล้วเจ้าบอกว่าที่ต้องสาบานก็เพราะข้าบังคับ ถ้าเรื่องนี้รั่วไหลออกไป มันคงไม่ค่อยดีแน่ใช่ไหมล่ะ?
+part-9-5-8,I... I... was forced by the world...,ข้า... ข้า... โลกมันบีบบังคับข้า...
+part-9-5-9,"The world does bear some responsibility, but the main problem is you.",โลกอาจจะมีส่วนผิดอยู่บ้าง แต่ปัญหาหลักมันอยู่ที่ตัวเจ้าเองนั่นแหละ
+part-9-5-10,I... ask the master for guidance.,ข้า... ขอคำชี้แนะจากท่านอาจารย์ด้วย
+part-9-5-11,"You three, run three hundred miles to the south, don't stop for a moment, go quickly!",พวกเจ้าทั้งสามคน วิ่งไปทางใต้เก้าร้อยลี้ ห้ามหยุดแม้แต่ครู่เดียว รีบไปเดี๋ยวนี้!
+part-9-5-12,"Alright, master, we will go now.",ครับท่านอาจารย์ พวกเราจะไปเดี๋ยวนี้
+part-9-5-13,"What, big brother, do we really have to run?",อะไรกัน พี่ชาย พวกเราต้องวิ่งจริงๆ เหรอ?
+part-9-5-14,"Three hundred miles, I'll run out of breath before I can get away.",เก้าร้อยลี้เชียวนะ ข้าคงหมดลมหายใจก่อนจะหนีรอดเสียอีก
+part-9-5-15,"Fool! The master is saving us, run now!",เจ้าโง่! ท่านอาจารย์กำลังช่วยพวกเราอยู่ รีบวิ่งไปเดี๋ยวนี้!
+part-9-5-16,Three mountain bandits ran away in a puff of smoke.,โจรภูเขาทั้งสามหายวับไปพร้อมกับม่านควัน
+part-9-5-17,"What's going on with Lai Toudian, he's actually in cahoots with the Mountain Bandits.",ไล่ โถวเตี้ยน มันเป็นอะไรไป ที่แท้มันก็สมรู้ร่วมคิดกับพวกโจรภูเขานั่นเอง
+part-9-5-18,"Hmm... aren't you guys who and who, why did you run over here?",อืม... พวกเจ้าเป็นใครกันแน่ ทำไมถึงได้วิ่งมาที่นี่?
+part-9-5-19,"We caught up with you, we want you to...",พวกเราตามพวกเจ้าทัน พวกเราต้องการให้เจ้า...
+part-9-6-1,"Master, that mad monk has run far away, we don't know where he went.",ท่านอาจารย์ ไอ้พระบ้านั่นวิ่งหนีไปไกลแล้ว พวกเราไม่รู้ว่ามันหนีไปทางไหน
+part-9-6-2,Okay... I see.,อา... เข้าใจแล้ว
+part-10-0-1,What's all the noise outside?,มีเสียงอะไรดังอยู่ข้างนอกน่ะ?
+part-10-0-2,"An outsider Monk has come to challenge us, without your permission, none of the Disciples have responded.",มีพระนักพรตจากที่อื่นมาท้าประลองกับพวกเรา แต่ไม่มีศิษย์คนไหนกล้าตอบรับโดยไม่ได้รับอนุญาตจากท่าน
+part-10-0-3,"Okay, I'll send someone to meet him.",ได้ ข้าจะส่งคนไปพบเขา
+part-10_name,Martial Monk visits,พระนักพรตผู้ฝึกวรยุทธ์มาเยือนแล้ว
+part-10_overview,"There is a foreign Monk who wants to challenge us, please send someone to meet him as soon as possible.",มีพระนักพรตจากต่างถิ่นต้องการมาท้าประลองกับพวกเรา ขอให้ส่งคนไปพบเขาโดยเร็วที่สุด
+part-10-1-1,Who is coming to challenge {MyFaction} this time?,ใครกันที่มาท้าประลอง {MyFaction} ในครั้งนี้?
+part-10-1-2,"It's me, my Dharma name is Shi Yu, I'm here to learn about {MyFaction}'s Martial Arts.",ข้าเอง นามธรรมของข้าคือ ซือหยู่ ข้ามาที่นี่เพื่อเรียนรู้วรยุทธ์ของ {MyFaction}
+part-10-1-3,"Your Dharma name is Shi, which temple are you from?",นามธรรมของท่านคือซือ ท่านมาจากวัดใดหรือ?
+part-10-1-4,"My master is a wandering monk, he took me as his Disciple, shaved my head, and taught me martial arts.",อาจารย์ของข้าเป็นพระธุดงค์ ท่านรับข้าเป็นศิษย์ โกนศีรษะให้ข้า และสอนวรยุทธ์ให้ข้า
+part-10-1-5,"It's not that wandering Monk from {MyFaction}, is it?",ไม่ใช่พระธุดงค์ท่านนั้นจาก {MyFaction} กระมัง?
+part-10-1-6,"Do you know what your master's Dharma name is, is he a Monk from my {MyFaction}?",ท่านรู้จักนามธรรมของอาจารย์ท่านหรือไม่ ท่านเป็นพระจาก {MyFaction} ของข้าใช่หรือไม่?
+part-10-1-7,My master's Dharma name... I forgot.,นามธรรมของอาจารย์ข้าน่ะหรือ... ข้าลืมเสียแล้ว
+part-10-1-8,Is that so? Where did your master go?,อย่างนั้นหรือ? แล้วอาจารย์ของท่านไปที่ใดเล่า?
+part-10-1-9,"My master went into the bandit's den alone to eliminate the bandits, but because of his compassion, he let go of the bandit leader's young son and was killed by a sneak attack.",อาจารย์ของข้าบุกเข้าไปในรังโจรเพียงลำพังเพื่อกำจัดพวกโจร แต่ด้วยความเมตตา ท่านปล่อยลูกชายตัวน้อยของหัวหน้าโจรไป และถูกลอบโจมตีจนสิ้นชีวิต
+part-10-1-10,"My master said that I am not very smart and will definitely forget the name of the sect in the future. He told me to challenge any sect I see. As long as their martial arts are the same, it should be our sect.",อาจารย์ข้าบอกว่าข้าไม่ค่อยฉลาดนัก และคงจะลืมชื่อสำนักในอนาคตแน่ๆ ท่านจึงบอกให้ข้าท้าประลองกับทุกสำนักที่พบเจอ ตราบใดที่วรยุทธ์ของพวกเขาเหมือนกับของพวกเรา นั่นก็คงจะเป็นสำนักของพวกเรานั่นเอง
+part-10-1-11,It seems that the master knows his disciple better.,ดูเหมือนว่าอาจารย์จะรู้จักศิษย์ของท่านดีจริงๆ
+part-10-1-12,Then I will compete with you!,ถ้าอย่างนั้น ข้าจะขอประลองกับท่าน!
 part-10-2-1,"This move, Arhat Fist, and this Bodhi Palm... Master, I've arrived...",กระบวนท่านี้คือหมัดอรหันต์ ส่วนท่านี้คือฝ่ามือพุทธะ... ท่านอาจารย์ ข้ามาถึงจุดนี้แล้ว...
-part-10-2-2,"I want to go into the temple to have a look, my master has mentioned a lot of things about {MyFaction}, the plum blossom piles in the Pond, the stone stele, the Forest Tower, the big bell, and the Monk's Living Quarter where my master used to live!"
-part-10-2-3,"Don't rush, let's go to the Hall of Great Strength first, check your master's name, this compassionate master's name should not be forgotten."
-part-10-2-4,"Then introduce you to everyone, and then announce your return to {MyFaction}. How about that?"
-part-10-2-5,Very good! Very good! Let's go in quickly!
-part-10-3-1,"Leader, the monk who challenged us outside the gate has run away, saying he will come back another day."
-part-10-3-2,"His hostility is too deep, I hope he can master the way of calmness."
-part-11-0-1,"Master! The guest monk reported that a Monk with wounds all over his body fell outside the gate, it's best to go and see what happened."
-part-11-0-2,"This is serious, I will send someone to check it out."
+part-10-2-2,"I want to go into the temple to have a look, my master has mentioned a lot of things about {MyFaction}, the plum blossom piles in the Pond, the stone stele, the Forest Tower, the big bell, and the Monk's Living Quarter where my master used to live!",ข้าอยากเข้าไปดูในวัดสักหน่อย อาจารย์ของข้าเคยเล่าเรื่องราวมากมายเกี่ยวกับ {MyFaction} ทั้งกองดอกเหมยที่ลอยอยู่ในสระ ศิลาจารึก หอป่า ระฆังใหญ่ และกุฏิที่อาจารย์ของข้าเคยอาศัยอยู่!
+part-10-2-3,"Don't rush, let's go to the Hall of Great Strength first, check your master's name, this compassionate master's name should not be forgotten.",อย่าเพิ่งรีบร้อน ไปที่ต้าเลี่ยเถียน (ศาลาพละกำลังอันยิ่งใหญ่) กันก่อน ตรวจสอบชื่อของอาจารย์ท่านดู นามของอาจารย์ผู้เปี่ยมด้วยเมตตาเช่นนี้ไม่ควรถูกลืมเลือน
+part-10-2-4,"Then introduce you to everyone, and then announce your return to {MyFaction}. How about that?",งั้นก็จะแนะนำตัวท่านให้ทุกคนรู้จัก แล้วประกาศการกลับมาของท่านสู่ {MyFaction} เป็นอย่างไรบ้าง?
+part-10-2-5,Very good! Very good! Let's go in quickly!,ดีมาก! ดีมาก! รีบเข้าไปกันเถอะ!
+part-10-3-1,"Leader, the monk who challenged us outside the gate has run away, saying he will come back another day.",ท่านประมุข พระรูปที่มาท้าประลองพวกเราอยู่นอกประตูวัดได้หนีไปแล้ว บอกว่าจะกลับมาใหม่วันหลัง
+part-10-3-2,"His hostility is too deep, I hope he can master the way of calmness.",ความอาฆาตของเขานั้นลึกล้ำเกินไป ข้าหวังว่าเขาจะเข้าใจวิถีแห่งความสงบได้ในสักวัน
+part-11-0-1,"Master! The guest monk reported that a Monk with wounds all over his body fell outside the gate, it's best to go and see what happened.",อาจารย์! พระรูปที่มาเยือนรายงานว่ามีพระรูปหนึ่งล้มอยู่นอกประตูวัด มีบาดแผลเต็มไปทั้งตัว ควรรีบไปดูว่าเกิดอะไรขึ้น!
+part-11-0-2,"This is serious, I will send someone to check it out.",นี่เป็นเรื่องร้ายแรง ข้าจะส่งคนไปตรวจสอบดู
 part-11_name,Blood Hand Yan Luo,หัตถ์โลหิตเยี่ยนลั่ว
-part-11_overview,"A Monk with wounds all over his body fell outside the gate, go and see what happened."
+part-11_overview,"A Monk with wounds all over his body fell outside the gate, go and see what happened.",พระที่มีบาดแผลเต็มตัวล้มอยู่นอกประตูวัด ไปดูกันว่าเกิดอะไรขึ้น
 part-11-1-1,The injured person is there! Go and check it out quickly!,มีคนบาดเจ็บอยู่ตรงนั้น! รีบไปดูเร็วเข้า!
 part-11-1-2,Uh...,อา...
 part-11-1-3,The injury seems to be serious.,อาการบาดเจ็บรุนแรงไม่น้อยเลย
@@ -1343,60 +1343,60 @@ part-11-1-4,Thank you... I... have...,ขอบคุณ... ข้า... มี.
 part-11-1-5,"Don't talk first, otherwise it would be bad if you lose your breath.",อย่าเพิ่งพูดเลย หากหายใจไม่ทันมันจะแย่กว่านี้
 part-11-1-6,No... there... someone is trying to kill me... be careful...,ไม่ได้... มีคน... กำลังตามล่าข้า... ระวังตัวด้วย...
 part-11-1-7,What?,อะไร?
-part-11-1-8,It seems to be here!
-part-11-1-9,Why are there three more onlookers? Get rid of them all for me!
-part-11-1-10,Evil doer! My Buddha will not let you do as you please!
-part-11-2-1,"Damn it, let's retreat!"
-part-11-2-2,"The masked men disappeared quickly, as if everything just now was an illusion."
-part-11-3-1,"Hehehe. You guys from {MyFaction} are too weak, aren't you?"
-part-11-3-2,"Wait, something is wrong!"
-part-11-3-3,The master has issued an order! Retreat quickly!
-part-11-3-4,The masked men disappeared quickly.
-part-11-4-1,"Don't chase for now, this person is seriously injured, let's take him back quickly!"
-part-11-4-2,You carefully carried the seriously injured Monk into the medical hall of the sect.
-part-11-4-3,Put him down gently! Let me see his injuries!
+part-11-1-8,It seems to be here!,ดูเหมือนจะอยู่แถวนี้!
+part-11-1-9,Why are there three more onlookers? Get rid of them all for me!,ทำไมถึงมีคนมามุงดูอีกตั้งสามคน? ไล่พวกเขาไปให้หมดเลย!
+part-11-1-10,Evil doer! My Buddha will not let you do as you please!,เจ้าผู้ชั่วร้าย! องค์พระพุทธเจ้าจะไม่ปล่อยให้เจ้าทำตามใจชอบเช่นนี้!
+part-11-2-1,"Damn it, let's retreat!",บัดซบ! ถอยก่อนดีกว่า!
+part-11-2-2,"The masked men disappeared quickly, as if everything just now was an illusion.",พวกคนสวมหน้ากากหายตัวไปอย่างรวดเร็ว ราวกับว่าทุกสิ่งที่เกิดขึ้นเมื่อครู่นี้เป็นเพียงภาพลวงตา
+part-11-3-1,"Hehehe. You guys from {MyFaction} are too weak, aren't you?",ฮิๆๆ พวกเจ้าจากสำนัก {MyFaction} อ่อนแอเกินไปแล้วสินะ?
+part-11-3-2,"Wait, something is wrong!","เดี๋ยวสิ, มีอะไรบางอย่างไม่ถูกต้อง!"
+part-11-3-3,The master has issued an order! Retreat quickly!,ท่านอาจารย์ออกคำสั่งแล้ว! รีบถอยเร็ว!
+part-11-3-4,The masked men disappeared quickly.,เหล่าคนสวมหน้ากากหายตัวไปอย่างรวดเร็ว
+part-11-4-1,"Don't chase for now, this person is seriously injured, let's take him back quickly!",อย่าเพิ่งตามไปเลย ตอนนี้คนผู้นี้บาดเจ็บสาหัส พวกเรารีบพาเขากลับไปก่อนดีกว่า!
+part-11-4-2,You carefully carried the seriously injured Monk into the medical hall of the sect.,ท่านค่อย ๆ พาร่างของพระภิกษุที่บาดเจ็บสาหัสเข้าไปในโรงหมอของสำนัก
+part-11-4-3,Put him down gently! Let me see his injuries!,วางเขาลงเบา ๆ! ให้ข้าดูอาการบาดเจ็บของเขาก่อน!
 part-11-4-4,There is this blood-red palm print on the chest... it's Blood Hand Yan Luo!,ตรงอกของเขามีรอยฝ่ามือสีแดงฉาน... นี่มันหัตถ์โลหิตเยี่ยนลั่ว!
 part-11-4-5,Are you talking about the famous Blood Hand Yan Luo in the rivers and lakes?,เจ้าเอ่ยถึงหัตถ์โลหิตเยี่ยนลั่วผู้โด่งดังในยุทธภพอย่างนั้นหรือ?
-part-11-4-6,"It's okay, this palm didn't hit the vital point. I can cure it, but how to recover afterwards depends on his Constitution."
-part-11-4-7,"A few days later, the severely injured Monk was finally able to get out of bed."
-part-11-4-8,Can you walk on the ground? How is the open wound healing?
-part-11-4-9,"Thank you {MyFaction} for saving my life, please accept my bow!"
-part-11-4-10,"Saving lives and healing the wounded is what we {MyFaction} should do, but we want to know, where are you from, Monk, how did you provoke the pursuit?"
-part-11-4-11,"I am not a Monk, just a martial artist who knows a little bit of martial arts in the rivers and lakes. Once I accidentally bumped into the secret of the Nine Factions Sect and was discovered by them."
-part-11-4-12,"I fled everywhere, even shaved my head and pretended to be a monk, but I couldn't escape. Fortunately, I ran to the door of Shifa Temple in the end, otherwise I would really be finished."
-part-11-4-13,"Master, I have an unreasonable request."
-part-11-4-14,"Please {MyFaction} take me in! I am willing to become a real monk, I want to become a monk!"
-part-11-4-15,Why did you become a monk?
-part-11-4-16,"I... I actually want to seek the protection of {MyFaction}, and at the same time, I want to learn {MyFaction}'s martial arts to protect myself."
+part-11-4-6,"It's okay, this palm didn't hit the vital point. I can cure it, but how to recover afterwards depends on his Constitution.",ไม่เป็นไร ฝ่ามือนั้นไม่ได้โดนจุดสำคัญ ข้ารักษาได้ แต่การฟื้นฟูหลังจากนี้ขึ้นอยู่กับพื้นฐานร่างกายของเขา
+part-11-4-7,"A few days later, the severely injured Monk was finally able to get out of bed.",หลายวันต่อมา พระภิกษุที่บาดเจ็บสาหัสก็สามารถลุกออกจากเตียงได้ในที่สุด
+part-11-4-8,Can you walk on the ground? How is the open wound healing?,เดินลงพื้นได้หรือไม่? แผลที่เปิดอยู่หายดีแล้วหรือยัง?
+part-11-4-9,"Thank you {MyFaction} for saving my life, please accept my bow!",ขอบคุณ {MyFaction} ที่ช่วยชีวิตข้าไว้ ขอกราบขอบพระคุณด้วย!
+part-11-4-10,"Saving lives and healing the wounded is what we {MyFaction} should do, but we want to know, where are you from, Monk, how did you provoke the pursuit?",การช่วยเหลือผู้คนและรักษาผู้บาดเจ็บเป็นสิ่งที่พวกเรา {MyFaction} ควรทำอยู่แล้ว แต่พวกเราอยากทราบว่า ท่านพระมาจากที่ใด เหตุใดจึงถูกไล่ล่าเช่นนั้น?
+part-11-4-11,"I am not a Monk, just a martial artist who knows a little bit of martial arts in the rivers and lakes. Once I accidentally bumped into the secret of the Nine Factions Sect and was discovered by them.",ข้าไม่ใช่พระภิกษุหรอก เป็นเพียงยอดฝีมือที่พอรู้วิชายุทธ์ในยุทธภพบ้างเล็กน้อย วันหนึ่งข้าไปบังเอิญพบความลับของนิกายเก้าฝ่ายเข้า และถูกพวกเขาจับได้
+part-11-4-12,"I fled everywhere, even shaved my head and pretended to be a monk, but I couldn't escape. Fortunately, I ran to the door of Shifa Temple in the end, otherwise I would really be finished.",ข้าหนีไปทั่วทุกที่ ถึงขั้นโกนหัวปลอมตัวเป็นพระ แต่ก็ยังหนีไม่พ้น โชคดีที่สุดท้ายได้วิ่งมาถึงหน้าประตูวัดซือฝ่า ไม่เช่นนั้นข้าคงจบชีวิตไปแล้วจริงๆ
+part-11-4-13,"Master, I have an unreasonable request.",ท่านอาจารย์ ข้ามีคำขอที่อาจไม่สมควร
+part-11-4-14,"Please {MyFaction} take me in! I am willing to become a real monk, I want to become a monk!",ได้โปรด {MyFaction} รับข้าไว้ด้วยเถิด! ข้าเต็มใจจะบวชเป็นพระจริงๆ ข้าอยากบวชเป็นพระ!
+part-11-4-15,Why did you become a monk?,ทำไมท่านถึงต้องการบวชเป็นพระ?
+part-11-4-16,"I... I actually want to seek the protection of {MyFaction}, and at the same time, I want to learn {MyFaction}'s martial arts to protect myself.",...ที่จริงแล้ว ข้าอยากได้รับการคุ้มครองจาก {MyFaction} และในขณะเดียวกัน ข้าก็อยากเรียนรู้วิทยายุทธ์ของ {MyFaction} เพื่อปกป้องตัวเอง
 part-11-4-17,"Your words are sincere, but I'm afraid that Bloodhand Yanluo will always be in your heart.",คำพูดของเจ้าแฝงด้วยความจริงใจอยู่บ้าง เพียงแต่หัตถ์โลหิตเยี่ยนลั่วอาจยังคงฝังแน่นอยู่ในใจเจ้า
-part-11-4-18,As for whether you can join {MyFaction}...
-part-11_option1,"From today, you are the Shi E of {MyFaction}."
-part-11_option2,I'm afraid our temple can't protect you.
-part-11-5-1,"It seems you don't need to be tonsured anymore. According to seniority, you are of the Shi generation, and your Dharma name is Shi E."
-part-11-5-2,"Yes, master."
-part-11-5-3,"The Kitchen is short of a cook, you can take up the role."
-part-11-5-4,"Master, where can I learn my martial arts?"
+part-11-4-18,As for whether you can join {MyFaction}...,สำหรับเรื่องที่ว่าท่านจะสามารถเข้าร่วม {MyFaction} ได้หรือไม่นั้น...
+part-11_option1,"From today, you are the Shi E of {MyFaction}.",นับจากวันนี้เป็นต้นไป ท่านคือ ซือเอ๋อร์ แห่ง {MyFaction}
+part-11_option2,I'm afraid our temple can't protect you.,ข้าเกรงว่าวัดของพวกเราคงไม่สามารถปกป้องท่านได้
+part-11-5-1,"It seems you don't need to be tonsured anymore. According to seniority, you are of the Shi generation, and your Dharma name is Shi E.","ดูเหมือนว่าท่านไม่จำเป็นต้องโกนศีรษะอีกแล้ว ตามลำดับอาวุโส ท่านอยู่ในรุ่น ""ซือ"" และพระนามของท่านคือ ""ซือเอ๋อร์"""
+part-11-5-2,"Yes, master.",ใช่ครับท่านอาจารย์
+part-11-5-3,"The Kitchen is short of a cook, you can take up the role.",ในครัวกำลังขาดพ่อครัว ท่านสามารถรับหน้าที่นี้ได้
+part-11-5-4,"Master, where can I learn my martial arts?",ท่านอาจารย์ ข้าน้อยจะสามารถเรียนวิทยายุทธ์ได้ที่ใด
 part-11-5-5,"You can learn our martial arts in the Training field. When the threat of Blood Hand Yan Luo is eliminated, you can enter the Arhat Hall to learn better martial arts.",เจ้าสามารถฝึกวิชาของสำนักได้ในลานฝึก รอจนภัยจากหัตถ์โลหิตเยี่ยนลั่วสงบลงเมื่อใด เจ้าจึงจะสามารถเข้าไปฝึกวิชาขั้นสูงที่หออรหันต์ได้
-part-11-5-6,"Thank you, master!"
-part-11-6-1,"I, I..."
-part-11-6-2,Please choose a day to leave.
-part-11-6-3,Ah... I...
-part-11-6-4,"After a few days, the rescued fake monk ran away."
-part-11-7-1,The Monk who fell outside the door is nowhere to be found.
+part-11-5-6,"Thank you, master!",ขอขอบคุณท่านอาจารย์
+part-11-6-1,"I, I...",ข้า... ข้า...
+part-11-6-2,Please choose a day to leave.,กรุณาเลือกวันเดินทาง
+part-11-6-3,Ah... I...,ข้า... อา...
+part-11-6-4,"After a few days, the rescued fake monk ran away.",หลังจากผ่านไปไม่กี่วัน พระปลอมที่เราช่วยเหลือไว้ก็หนีหายไป...
+part-11-7-1,The Monk who fell outside the door is nowhere to be found.,พระที่ล้มอยู่หน้าประตูหายไปแล้ว ไม่เห็นร่องรอยใดๆ เหลืออยู่เลย...
 part-11-7-2,Amitabha...,อามิตาพุทธ...
-part-12-0-1,Hmm... the time is ripe!
-part-12-0-2,"Recently, various factions have been fighting each other, it's a good time to sneak into Yunlin Temple and ask for the master's help!"
-part-12_name,Unseal
-part-12_overview,"The time is ripe, it's time to rescue your master..."
-part-12-1-1,"Yunlin Temple, is this place!"
-part-12-1-2,Senior Chu Kuangsheng is imprisoned in the Ice Prison below this place.
-part-12-1-3,"Once we rescue Senior Chu Kuangsheng, {MyFaction} will be invincible in the world!"
-part-12-1-4,"Have you finished talking to yourselves? If you want to rescue the Old Demon, you have to ask me."
-part-12-2-1,These bald monks are really troublesome! We will definitely come back!
-part-12-2-2,You're welcome to leave.
-part-12-3-1,These bald monks are really a nuisance! Let's move the stone tower!
-part-12-3-2,"The stone tower was pushed open, revealing the entrance to the Ice Prison that was suppressed by the tower. You quickly entered the Ice Prison."
-part-12-3-3,Block the entrance to the Ice Prison!
+part-12-0-1,Hmm... the time is ripe!,อืม... ถึงเวลาแล้วสินะ!
+part-12-0-2,"Recently, various factions have been fighting each other, it's a good time to sneak into Yunlin Temple and ask for the master's help!",ในช่วงนี้ที่สำนักต่างๆ กำลังขัดแย้งต่อสู้กันอยู่ มันเป็นโอกาสดีที่จะแอบเข้าไปในวัดหยุนหลินเพื่อขอความช่วยเหลือจากท่านอาจารย์!
+part-12_name,Unseal,ปลดผนึก
+part-12_overview,"The time is ripe, it's time to rescue your master...",ถึงเวลาแล้ว... ได้เวลาช่วยเหลืออาจารย์ของเจ้าแล้ว...
+part-12-1-1,"Yunlin Temple, is this place!",วัดหยุนหลิน ที่นี่แหละ!
+part-12-1-2,Senior Chu Kuangsheng is imprisoned in the Ice Prison below this place.,ท่านพี่ฉู่กวงเซิงถูกขังอยู่ในคุกน้ำแข็งใต้สถานที่แห่งนี้
+part-12-1-3,"Once we rescue Senior Chu Kuangsheng, {MyFaction} will be invincible in the world!",เมื่อเราช่วยท่านพี่ฉู่กวงเซิงได้แล้ว {MyFaction} จะกลายเป็นสำนักที่แข็งแกร่งที่สุดในยุทธภพ!
+part-12-1-4,"Have you finished talking to yourselves? If you want to rescue the Old Demon, you have to ask me.",คุยกันเองจบแล้วหรือ? ถ้าอยากช่วยปีศาจแก่นั่น ต้องผ่านข้าก่อน!
+part-12-2-1,These bald monks are really troublesome! We will definitely come back!,พวกพระหัวโล้นนี่ช่างน่ารำคาญจริงๆ! พวกเราจะต้องกลับมาอีกแน่นอน!
+part-12-2-2,You're welcome to leave.,เชิญไปตามสบาย
+part-12-3-1,These bald monks are really a nuisance! Let's move the stone tower!,พวกพระหัวโล้นนี่ช่างน่ารำคาญจริงๆ! ไปขยับหอหินกันเถอะ!
+part-12-3-2,"The stone tower was pushed open, revealing the entrance to the Ice Prison that was suppressed by the tower. You quickly entered the Ice Prison.",หอหินถูกผลักเปิดออก เผยให้เห็นทางเข้าคุกน้ำแข็งที่ถูกกดทับไว้ใต้หอ พวกเราก็รีบเข้าไปในคุกน้ำแข็งทันที
+part-12-3-3,Block the entrance to the Ice Prison!,ปิดทางเข้าคุกน้ำแข็งเดี๋ยวนี้!
 part-12-3-4,"Fortunately, we were prepared, otherwise we would be trapped here for five days!"
 part-12-3-5,"Ahchoo! It's too cold, I can't stand it without running my internal strength to keep warm!"
 part-12-3-6,"Why are there three kids here, the timing is wrong, it's not time to send people yet..."
