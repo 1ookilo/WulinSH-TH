@@ -612,18 +612,18 @@ School-1200_6_3,"Let me see what you are capable of, dare to come to Tiger Escor
 School-1200_6_4,…,...
 School-1200_6_5,……,……
 School-1200_6_6,………,………
-School-1200_7_1,"Could it be that you are the famous {PlayerName}, the great hero {PlayerSurName} in the martial arts world recently?",หรือเจ้าจะเป็น{PlayerName}ผู้เลื่องลือ ยอดวีรบุรุษ{PlayerSurName} ที่พึ่งเข้าสู่ยุทธภพไม่นานนี้?
+School-1200_7_1,"Could it be that you are the famous {PlayerName}, the great hero {PlayerSurName} in the martial arts world recently?",หรือเจ้าจะเป็น{PlayerName}ผู้เลื่องลือ มหาบุรุษ{PlayerSurName} ที่พึ่งเข้าสู่ยุทธภพไม่นานนี้?
 School-1200_7_2,It's me.,เป็นข้าเอง
 School-1200_7_3,"I'm sorry!\nI am the head of this Tiger Escort - Han Hongyu.","ขออภัย!\nข้าคือหัวหน้าสำนักคุ้มภัยพยัคฆา - หานหงอวี้"
-School-1200_7_4,Is the great hero {PlayerSurName} really going to join our Tiger Escort?,ท่านยอดวีรบุรุษ{PlayerSurName} จะเข้าร่วมสำนักคุ้มภัยพยัคฆาจริงๆ หรือ?
+School-1200_7_4,Is the great hero {PlayerSurName} really going to join our Tiger Escort?,ท่านมหาบุรุษ{PlayerSurName} จะเข้าร่วมสำนักคุ้มภัยพยัคฆาจริงๆ หรือ?
 School-1200_8_1,"Brother {PlayerSurName}, do you really want to join our Tiger Escort?",น้องชาย{PlayerSurName} เจ้าอยากเข้าร่วมสำนักคุ้มภัยพยัคฆาจริงๆ งั้นรึ?
 School-1200_option_2_1,<color=#0574a8>Confirm to join Tiger Escort.,<color=#0574a8>ยืนยันเข้าร่วมสำนักคุ้มภัยพยัคฆา
 School-1200_option_2_2,"Just kidding, don't take it seriously.",ล้อเล่นน่ะ อย่าคิดเป็นจริงเป็นจังสิ
 School-1200_9_1,"It turns out to be a joke, I almost believed it.",ที่แท้ก็พูดเล่นหรือเนี่ย ข้าเกือบจะเชื่อแล้วนะ
 School-1200_10_1,Welcome!,ยินดีต้อนรับ!
 School-1200_10_2,"Today is a big happy event for our Tiger Escort!\nThe famous {PlayerName} agreed to join Tiger Escort, he is now the fifth escort of our escort agency.","วันนี้เป็นงานเลี้ยงฉลองครั้งใหญ่สำหรับสำนักคุ้มภัยพยัคฆาของพวกเรา!\n{PlayerName} ผู้มีชื่อเสียงตกลงที่จะเข้าร่วมสำนักคุ้มภัยพยัคฆา, ตอนนี้เขาเป็นผู้คุ้มกันคนที่ห้าของสำนักคุ้มภัยพยัคฆาของเรา"
-School-1200_10_3,"It turns out to be the great hero {PlayerSurName}, nice to meet you",ที่แท้เป็นยอดวีรบุรุษ{PlayerSurName} นี่เอง ยินดีที่ได้รู้จัก
-School-1200_10_4,I have long admired the great hero {PlayerSurName},ข้าชื่นชมยอดวีรบุรุษ{PlayerSurName} มานานแล้ว
+School-1200_10_3,"It turns out to be the great hero {PlayerSurName}, nice to meet you",ที่แท้เป็นมหาบุรุษ{PlayerSurName} นี่เอง ยินดีที่ได้รู้จัก
+School-1200_10_4,I have long admired the great hero {PlayerSurName},ข้าชื่นชมมหาบุรุษ{PlayerSurName} มานานแล้ว
 School-1200_10_5,"Indeed, it's better to see once than hear a hundred times",ถูกต้อง ได้เห็นเพียงครั้งเดียวย่อมดีกว่าได้ยินนับร้อยครั้ง
 School-1200_10_6,It's really worth celebrating!,ช่างเหมาะแก่การฉลองนัก!
 School-1200_10_7,"I, {PlayerSurName}, have met all the escorts.",ข้า {PlayerSurName} ได้พบกับทุกคนแล้ว

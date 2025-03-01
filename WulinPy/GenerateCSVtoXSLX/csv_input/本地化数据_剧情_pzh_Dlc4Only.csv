@@ -188,9 +188,9 @@ M2341-20_1_2,"Wait, I suddenly noticed that the wall behind this house seems to 
 M2341-20_2_1,The door is open!,ประตูเปิดออกแล้ว!
 M2341-20_2_2,"To avoid attracting attention, I should close the door as soon as I enter.",เพื่อหลบเลี่ยงสายตาผู้คน ข้าจะปิดประตูทันทีที่เข้าไป
 M2341-20_2_3,"There is only a sword here, nothing else, the scene is quite eerie...",ภายในห้องมีเพียงกระบี่เล่มหนึ่งวางอยู่ นอกเหนือจากนั้นกลับว่างเปล่า เป็นบรรยากาศที่น่าขนลุกนัก...
-M2341-20_2_4,"There are words on this scabbard... ""Roar of the Dragon""? So this is the ""Roar of the Dragon"" sword that the great hero used to inscribe the stele and left in the Sword Tomb!","บนฝักกระบี่สลักตัวอักษร... ""เสียงมังกรคำราม"" นี่คือกระบี่ ""เสียงมังกรคำราม"" ที่วีรชนผู้ยิ่งใหญ่ใช้สลักศิลาจารึก และได้ทิ้งไว้ในสุสานกระบี่!"
+M2341-20_2_4,"There are words on this scabbard... ""Roar of the Dragon""? So this is the ""Roar of the Dragon"" sword that the great hero used to inscribe the stele and left in the Sword Tomb!","บนฝักกระบี่สลักตัวอักษร... ""เสียงมังกรคำราม"" นี่คือกระบี่ ""เสียงมังกรคำราม"" ที่มหาบุรุษใช้สลักศิลาจารึก และได้ทิ้งไว้ในสุสานกระบี่!"
 M2341-20_2_5,"It was actually hidden here by Blood Rakshasa... hidden in the center of the backyard, as if afraid that others wouldn't covet it...",กลับถูกรากษสโลหิตซุกซ่อนไว้ที่นี่... ซ่อนไว้ใจกลางสวนหลังสำนัก ราวกับเกรงว่าผู้อื่นจะไม่หมายปอง...
-M2341-20_2_6,"Anyway, this sword once belonged to the great hero is now mine!",ไม่ว่าอย่างไรก็ตาม กระบี่คู่กายของวีรชนผู้ยิ่งใหญ่ในอดีตเล่มนี้ เป็นของข้าแล้ว!
+M2341-20_2_6,"Anyway, this sword once belonged to the great hero is now mine!",ไม่ว่าอย่างไรก็ตาม กระบี่คู่กายของมหาบุรุษในอดีตเล่มนี้ เป็นของข้าแล้ว!
 M2341-20_2_7,"I'd better hurry up and run away from this room, it's really creepy here...",ข้ารีบออกจากห้องนี้ดีกว่า ที่นี่ช่างน่าขนลุกยิ่งนัก...
 M2341-21_0_1_0,Someone is coming!,มีผู้คนกำลังมา!
 M2341-21_0_1_1,"Don't leave yet, I just climbed down from there and my legs are a bit weak...",อย่าเพิ่งไป ข้าเพิ่งปีนลงมาจากที่นั่น ขาข้าสั่นไปหมดแล้ว...
@@ -1636,11 +1636,11 @@ M2342-5_2_1,"Uh, although Gongsun Hui has made up for all the mistakes, I didn't
 M2342-5_2_2,"In that case, I have to try again!"
 M2342-5_3_1,"Damn it, it's already the supplemented and annotated version of Gongsun Hui, it's already half simpler, can't I still understand it?"
 M2342-5_3_2,"If it really doesn't work, forget it... If I don't have the qualifications for Buddhism, I just won't learn it."
-M2342-5_4_1,"I had already defeated the three poisons of greed, anger, and ignorance in my heart. Looking at this unaltered true meaning, I realized the depth of the great hero's understanding of Buddhism."
+M2342-5_4_1,"I had already defeated the three poisons of greed, anger, and ignorance in my heart. Looking at this unaltered true meaning, I realized the depth of the great hero's understanding of Buddhism.",ข้าได้กำจัดจิตมารที่เกิดจากกิเลสทั้งสามไปแล้ว บัดนี้เมื่อได้เห็นสัจธรรมอันแท้จริงโดยมิมีสิ่งใดเจือปน ข้าจึงเข้าใจถึงความแตกฉานในพระธรรมของวีรชนผู้นี้
 M2342-5_4_2,"""The door of emptiness refuses to come out, throwing through the window is too foolish. When will you come out after drilling the old paper for a hundred years?"""
 M2342-5_4_3,"I have been learning martial arts all the way, and I never figured out how to defend. The great hero entered martial arts with Zen, and summarized a set of defensive skills that return to the original from Zen, which is enlightening!"
 M2342-5_5_1,"No, the true teachings of the great hero are here, how could I give up?"
-M2342-5_6_1,"I have defeated the three poisons of greed, anger, and ignorance in my heart. Looking at this unaltered true meaning, I realized the depth of the great hero's understanding of Buddhism."
+M2342-5_6_1,"I have defeated the three poisons of greed, anger, and ignorance in my heart. Looking at this unaltered true meaning, I realized the depth of the great hero's understanding of Buddhism.",ข้าได้ขจัดพิษร้ายแห่งกิเลสทั้งสามไปแล้ว บัดนี้เมื่อได้เห็นสัจธรรมอันแท้จริงโดยมิมีสิ่งใดเจือปน ข้าจึงเข้าใจถึงความแตกฉานในพระธรรมของวีรชนผู้นี้
 M2342-5_6_2,"""The door of emptiness refuses to come out, throwing through the window is too foolish. When will you come out after drilling the old paper for a hundred years?"""
 M2342-5_6_3,"The great hero uses Zen to enter martial arts, and summarizes a set of defensive skills that return to the basics from Zen, which is enlightening!"
 M2342-6_3_1,"Uh, although Gongsun Hui has made up for all the mistakes, I didn't successfully comprehend the martial tomb before, so naturally I can't understand the true meaning in it!"

@@ -12,7 +12,7 @@ Fame-35_9_2,"{PlayerName}, do you know how many times the Central Plains martial
 Fame-35_9_3,I'd like to know more.,ข้าขอรับฟังรายละเอียด
 Fame-35_9_4,"Well, you are still young, it's normal if you don't know.",อืม เจ้ายังเยาว์วัย ไม่รู้ก็ไม่แปลก
 Fame-35_9_5,"In the past decades, the Central Plains martial arts world has been hit hard three times. Each time, countless promising heroes died, and countless Martial Arts were lost forever.",ในช่วงหลายสิบปีที่ผ่านมานี้ ยุทธภพในแถบจงหยวน ได้รับความเสียหายอย่างหนักถึงสามครั้งด้วยกัน ในแต่ละครั้งล้วนมีจอมยุทธ์ผู้มีอนาคตสดใสมากมายต้องสังเวยชีวิต และวิทยายุทธอันล้ำค่ามากมายต้องสูญหายไป
-Fame-35_9_6,"The first time was when the Yan Yun Iron Army marched south. Although they were defeated by the great hero and General Yang, countless small sects and factions along their path were slaughtered by the Yan Yun Iron Army.",ครั้งแรก กกองทัพเหล็กเยี่ยนหยุนบุกโจมตีลงใต้ แม้จะถูกวีรชนผู้ยิ่งใหญ่และแม่ทัพหยางเอาชนะได้ แต่ระหว่างทางที่ลงใต้ สำนักน้อยใหญ่ นับไม่ถ้วนล้วนถูกกองทัพเหล็กเยี่ยนหยุนสังหารจนสิ้น
+Fame-35_9_6,"The first time was when the Yan Yun Iron Army marched south. Although they were defeated by the great hero and General Yang, countless small sects and factions along their path were slaughtered by the Yan Yun Iron Army.",ครั้งแรก กองทัพเหล็กเยี่ยนหยุนบุกโจมตีลงใต้ แม้จะถูกมหาบุรุษและแม่ทัพหยางเอาชนะได้ แต่ระหว่างทางที่ลงใต้ สำนักน้อยใหญ่ นับไม่ถ้วนล้วนถูกกองทัพเหล็กเยี่ยนหยุนสังหารจนสิ้น
 Fame-35_9_7,"The second time was when the Yan Army attacked Chuxiang City for the second time. At that time, General Yang had been wrongfully imprisoned, and the only ones assisting in the city's defense were the old Taoists now known as the Eight Saints, as well as countless wandering heroes.",ครั้งที่สอง เป็นการที่กองทัพเยี่ยนยกทัพมาตีเมืองฉู่เซียงเป็นครั้งที่สอง ในตอนนั้นแม่ทัพหยางถูกใส่ความจนต้องโทษจำคุก ผู้ที่ร่วมกันรักษาเมืองจึงมีเพียงนักพรตเฒ่า ที่ต่อมาได้รับการขนานนามว่าเป็นแปดเซียน รวมถึงเหล่าจอมยุทธ์พเนจรอีกนับไม่ถ้วน
 Fame-35_9_8,"Everyone knows that it was the Vagabonds who assisted the defenders in repelling the Yan Yun Iron Army, but how many people know how dangerous this battle was?",ผู้คนรู้ว่าศึกครั้งนี้เป็นเหล่าจอมยุทธ์ในยุทธภพที่ร่วมมือกับทหารรักษาการณ์ต้านทานกองทัพเหล็กเยี่ยนหยุน แต่ความยากลำบากและอันตรายของศึกครั้งนี้ มีสักกี่คนที่รู้?
 Fame-35_9_9,"Even though the old Taoists and others were already the leading figures among the younger generation of the martial arts world, they barely survived, not to mention the ordinary Vagabonds. How many of them died in this battle, tens or even hundreds?",แม้แต่นักพรตเฒ่าและคนอื่นๆ ที่เป็นผู้นำในหมู่จอมยุทธ์รุ่นเยาว์ยังแทบเอาชีวิตไม่รอด แล้วพวกจอมยุทธ์พเนจรธรรมดาทั่วไปเล่า จะเหลือรอดสักกี่คน? ในศึกครั้งนี้พวกเขาต้องสังเวยชีวิตไปเท่าไหร่กัน นับสิบหรือนับร้อย?
@@ -51,7 +51,7 @@ Fame-35_18_1,This Sword Duel Convention is a grand martial arts event that I and
 Fame-35_18_2,The former glory?,ความรุ่งโรจน์ในอดีตอย่างนั้นหรือ?
 Fame-35_18_3,"Hehe, you are still young, you probably don't know that the martial arts world has experienced three calamities.",เหอะๆ เจ้ายังเยาว์นัก คงไม่รู้ว่ายุทธภพเคยผ่านมหันตภัยมาถึงสามคราแล้ว
 Fame-35_18_4,"Please enlighten me, master.",ขอท่านอาจารย์โปรดชี้แนะข้าด้วย
-Fame-35_18_5,"The first calamity was when the Yan army first came south. Although the great hero and General Yang managed to repel them, all the schools that resisted the Yan people along the way were slaughtered.",มหันตภัยครั้งแรกเกิดขึ้นเมื่อกองทัพเยี่ยนบุกลงใต้ แม้วีรชนผู้ยิ่งใหญ่และแม่ทัพหยางจะสามารถต้านทานพวกมันไว้ได้ แต่เหล่าสำนักที่ลุกขึ้นต่อต้านชาวเยี่ยนระหว่างทางล้วนถูกสังหารจนสิ้น!
+Fame-35_18_5,"The first calamity was when the Yan army first came south. Although the great hero and General Yang managed to repel them, all the schools that resisted the Yan people along the way were slaughtered.",มหันตภัยครั้งแรกเกิดขึ้นเมื่อกองทัพเยี่ยนบุกลงใต้ แม้มหาบุรุษและแม่ทัพหยางจะสามารถต้านทานพวกมันไว้ได้ แต่เหล่าสำนักที่ลุกขึ้นต่อต้านชาวเยี่ยนระหว่างทางล้วนถูกสังหารจนสิ้น!
 Fame-35_18_6,"The second calamity was when the Yan army came south again. This time General Yang was in trouble, and I and a few friends gathered heroes from all over the world to protect Chuxiang City.",มหันตภัยครั้งที่สองบังเกิดขึ้นเมื่อกองทัพเยี่ยนยกทัพลงใต้เป็นครั้งที่สอง ครานี้แม่ทัพหยางตกอยู่ในสถานการณ์ลำบาก ข้ากับสหายไม่กี่คนจึงรวบรวมเหล่าจอมยุทธจากทั่วทุกสารทิศ เพื่อปกป้องเมืองฉู่เซียง!
 Fame-35_18_7,"I know about this, it was the time when you were called the Eight Saints, right?",เรื่องนี้ข้ารู้ดี... นั่นเป็นช่วงเวลาที่ท่านได้รับการขนานนามว่า แปดเซียน ใช่หรือไม่?
 Fame-35_18_8,"Amitabha, the so-called Eight Saints are all fake fame. How can a few people resist the powerful Yan army? If possible, I would rather give up this fake fame and let the hundreds of heroic spirits who died under Chuxiang City return.",อมิตาพุทธ คำว่า แปดเซียน นั้นเป็นเพียงชื่อเสียงจอมปลอม บุรุษเพียงไม่กี่คนจะต้านทานกองทัพเยี่ยนอันเกรียงไกรได้เยี่ยงไร? หากเป็นไปได้ อาตมายอมสละชื่อเสียงลวงนี้ แลกกับการให้เหล่าวิญญาณวีรชนหลายร้อยดวงที่สิ้นชีพใต้กำแพงเมืองฉู่เซียงได้หวนคืนมา!
@@ -85,7 +85,7 @@ Fame-35_24_3,"This Sword Duel Convention was originally organized by me, the Doj
 Fame-35_24_4,Help the martial arts world recover its vitality?,ช่วยฟื้นฟูให้ยุทธภพกลับมารุ่งเรืองอีกครั้ง?
 Fame-35_24_5,"{PlayerName}, you are still young, I'm afraid you don't know about the three disasters that have occurred in the martial arts world.",{PlayerName} เจ้ายังเยาว์นัก เกรงว่าคงมิรู้ถึงมหันตภัยทั้งสามที่เคยเกิดขึ้นในยุทธภพ
 Fame-35_24_6,I hope Dojokeeper can enlighten me.,หวังว่าท่านเจ้าสำนักจะช่วยชี้แนะให้ข้า
-Fame-35_24_7,"The first one was when the Yan army first attacked Chuxiang City from the south. Although they were repelled by the great hero and General Yang, many sects along the way were wiped out.",ครั้งแรกนี้ก็คือตอนที่กองทัพเยี่ยนลงใต้โจมตีเมืองฉู่เซียงเป็นครั้งแรก แม้ว่าภายใต้การนำของวีรชนผู้ยิ่งใหญ่และแม่ทัพหยางจะต้านทานจนพวกมันต้องถอยกลับไป แต่ตามเส้นทางนั้นสำนักน้อยใหญ่จำนวนมากก็ถูกฆ่าล้างจนหมดสิ้น
+Fame-35_24_7,"The first one was when the Yan army first attacked Chuxiang City from the south. Although they were repelled by the great hero and General Yang, many sects along the way were wiped out.",ครั้งแรกนี้ก็คือตอนที่กองทัพเยี่ยนลงใต้โจมตีเมืองฉู่เซียงเป็นครั้งแรก แม้ว่าภายใต้การนำของมหาบุรุษและแม่ทัพหยางจะต้านทานจนพวกมันต้องถอยกลับไป แต่ตามเส้นทางนั้นสำนักน้อยใหญ่จำนวนมากก็ถูกฆ่าล้างจนหมดสิ้น
 Fame-35_24_8,"The second time was when the Yan army invaded from the south again. Although the eight of us managed to repel them, countless vagabonds died in this battle.",ครั้งที่สองคือตอนกองทัพเยี่ยนบุกลงใต้อีกครั้ง แม้ว่าพวกเราทั้งแปดจะสามารถต้านทานพวกมันไว้ได้ แต่เหล่าชาวยุทธนับไม่ถ้วนต้องสิ้นชีพในศึกครั้งนี้
 Fame-35_24_9,The third time was...,ครั้งที่สามนั้น คือเมื่อ...
 Fame-35_25_1,Was it when Chu Kuangsheng caused chaos in the three religions?,เมื่อตอนที่ฉู่กวงเฉิงก่อความวุ่นวายในสามนิกาย?
@@ -1390,7 +1390,7 @@ PLD-3-1_30_5,"Good, I'm going too."
 PLD-3-1_30_6,But...
 PLD-3-1_30_7,"Such a blood feud, how can I not avenge it?"
 PLD-3-1_30_8,"...Alright, but promise me you won't act recklessly."
-PLD-3-1_30_9,Don't worry.
+PLD-3-1_30_9,Don't worry.,วางใจเถิด
 PLD-3-1_31_1,"If you're going, junior brother, I'm going too."
 PLD-3-1_31_2,"Senior brother, this is my own business, you don't have to..."
 PLD-3-1_31_3,"Since we are brothers, your business is my business! Besides, how can I rest assured if you go alone?"
@@ -2029,7 +2029,7 @@ M2330-6_4_2,Could they have been in cahoots from the start?
 M2330-6_5_1,"What are these three up to, sneaking around like that?"
 M2330-6_6_1,"Alright, Empty Eaves, time to get to work."
 M2330-6_6_2,"Don't worry about the gunpowder, use more. There's a water barrier beneath the cargo hold, it won't explode without enough."
-M2330-6_6_3,Don't worry.
+M2330-6_6_3,Don't worry.,วางใจเถิด
 M2330-6_6_4,"You two go to the deck first, you're not very mobile, find a lifeboat."
 M2330-6_6_5,"We're not far from Penglai now, I believe we'll arrive soon."
 M2330-6_6_6,"From their conversation, it seems like they want to blow up this ship..."

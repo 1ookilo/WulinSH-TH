@@ -1191,71 +1191,71 @@ part-7-3-8,Um... yes.,อืม... ก็เป็นเช่นนั้น
 part-7-3-9,People of {MyFaction} are willing to work for the sick and poor without asking for anything in return. Punishing the evil and giving the people a peaceful life is what we should do.,ผู้คนของ {MyFaction} ยินดีที่จะช่วยเหลือผู้เจ็บป่วยและผู้ยากไร้โดยไม่หวังสิ่งตอบแทน การลงโทษคนชั่วและมอบชีวิตที่สงบสุขให้แก่ผู้คนคือสิ่งที่พวกเราควรทำ
 part-7-3-10,"Besides, your sect has many pill recipes archived. Joining your sect is also my wish.",ยิ่งไปกว่านั้น สำนักของท่านยังมีตำรายาวิเศษมากมาย การได้เป็นศิษย์ในสำนักของท่านก็เป็นสิ่งที่ข้าใฝ่ฝันเช่นกัน
 part-7-4-1,"Master, the plague in the village has been eradicated. It is said that it was cured by a ""living immortal"" doctor.","ท่านอาจารย์ โรคระบาดในหมู่บ้านได้ถูกกำจัดหมดสิ้นแล้ว มีคนเล่าว่าเป็นฝีมือของหมอที่เป็น ""เซียนผู้เป็นอมตะ"""
-part-7-4-2,I forgot about this... But I'm relieved that someone is handling it.
-part-8-0-1,"Leader, there's someone claiming to be an old acquaintance of yours asking to see you, with a special identity..."
-part-8-0-2,"An old acquaintance? I wonder who it could be... I understand, I'll arrange it."
-part-8_name,An old acquaintance is visiting
-part-8_overview,"An old acquaintance is asking to see you, with a special identity... It's best for the leader to see him."
-part-8-1-1,"I was wondering who it was, turns out it's Zhan Xiongfei, the guard. What brings you here?"
-part-8-1-2,"If you want to buy treasures, bid for it. Case interrogation, before this. Chat over tea, after this."
-part-8-1-3,It seems Brother Shen still remembers the last incident.
-part-8-1-4,You seem to have brought up something I don't want to remember.
-part-8-1-5,"I came here this time indeed with a request, I came to {MyFaction} to ask for a position."
-part-8-1-6,Brother Zhan... Were you dismissed?
-part-8-1-7,"No, I'll be straightforward. I trust Brother Shen, so I'll state my purpose directly."
+part-7-4-2,I forgot about this... But I'm relieved that someone is handling it.,ข้าลืมเรื่องนี้ไปเสียสนิท... แต่ก็โล่งใจที่มีคนจัดการมันอยู่
+part-8-0-1,"Leader, there's someone claiming to be an old acquaintance of yours asking to see you, with a special identity...",ท่านผู้นำ มีบุคคลผู้หนึ่งแจ้งว่าเป็นผู้ที่เคยรู้จักกับท่านในอดีตมาขอเข้าเฝ้า อีกทั้งยังมีสถานะที่พิเศษ...
+part-8-0-2,"An old acquaintance? I wonder who it could be... I understand, I'll arrange it.",คนรู้จักเก่าหรือ? สงสัยจริงว่าจะเป็นผู้ใดกัน... ข้าเข้าใจแล้ว ข้าจะจัดการเรื่องนี้เอง
+part-8_name,An old acquaintance is visiting,คนรู้จักเก่ากำลังมาเยือน
+part-8_overview,"An old acquaintance is asking to see you, with a special identity... It's best for the leader to see him.",คนรู้จักเก่ากำลังขอเข้าพบท่าน และเขามีสถานะพิเศษ... สมควรที่ท่านผู้นำจะพบเขา
+part-8-1-1,"I was wondering who it was, turns out it's Zhan Xiongfei, the guard. What brings you here?",ข้าก็กำลังฉงนว่าเป็นผู้ใด แท้จริงก็คือจ้านเสียงเฟย ผู้พิทักษ์นั่นเอง มีกิจธุระใดจึงได้มาเยือน?
+part-8-1-2,"If you want to buy treasures, bid for it. Case interrogation, before this. Chat over tea, after this.",หากปรารถนาสมบัติล้ำค่า ต้องร่วมประลองราคา ผ่านด่านไต่สวนก่อน แล้วจึงร่วมวงน้ำชา
+part-8-1-3,It seems Brother Shen still remembers the last incident.,ดูเหมือนว่าพี่เซินยังจดจำเหตุการณ์ครั้งก่อนได้อยู่
+part-8-1-4,You seem to have brought up something I don't want to remember.,ดูเหมือนท่านจะพูดถึงเรื่องที่ข้าไม่อยากรำลึกถึงเสียแล้ว
+part-8-1-5,"I came here this time indeed with a request, I came to {MyFaction} to ask for a position.",การมาครานี้ข้ามีจุดประสงค์แท้จริง ข้าได้มายัง {MyFaction} เพื่อทูลขอตำแหน่ง
+part-8-1-6,Brother Zhan... Were you dismissed?,พี่จ้าน... ท่านถูกปลดออกจากตำแหน่งหรือ?
+part-8-1-7,"No, I'll be straightforward. I trust Brother Shen, so I'll state my purpose directly.",ไม่ใช่ ข้าจะพูดตรงๆ ข้าไว้ใจพี่เซิน ดังนั้นข้าจะบอกจุดประสงค์ที่แท้จริง
 part-8-1-8,"A major theft occurred in Daliang City, I was ordered to investigate, and everyone knows that all kinds of rare treasures often appear and circulate in {MyFaction}, so I want to stay here permanently to look for clues.",เกิดการโจรกรรมครั้งใหญ่ในเมืองต้าเหลียง ข้าได้รับคำสั่งให้สืบสวน และทุกคนรู้ดีว่าสมบัติหายากทุกชนิดมักปรากฏและหมุนเวียนอยู่ใน {MyFaction} ข้าจึงต้องการอยู่ที่นี่เพื่อหาเบาะแส
-part-8-1-9,"Brother Shen, give me a position, so that I can act conveniently."
-part-8-1-10,"Of course, I won't cause trouble for Brother Shen. I came here prepared to change my identity and be driven by Brother Shen."
-part-8-1-11,Until the clues are found?
-part-8-1-12,Until the clues are found.
+part-8-1-9,"Brother Shen, give me a position, so that I can act conveniently.",ท่านพี่เซิน โปรดมอบตำแหน่งให้แก่ข้า เพื่อข้าจะได้ดำเนินการในเรื่องต่างๆ ได้คล่องตัวขึ้น
+part-8-1-10,"Of course, I won't cause trouble for Brother Shen. I came here prepared to change my identity and be driven by Brother Shen.",แน่นอน ข้าจะไม่สร้างความลำบากให้พี่เซิน ข้าเตรียมพร้อมมาแล้วที่จะเปลี่ยนตัวตน และยอมให้พี่เซินเป็นผู้ชี้นำ
+part-8-1-11,Until the clues are found?,จนกว่าจะพบเบาะแสใช่หรือไม่?
+part-8-1-12,Until the clues are found.,จนกว่าจะพบเบาะแสใช่หรือไม่?
 part-8-1-13,"Why not go to Glittering Artifact Auction, or Dirty Street to have a look, aren't there auctions there too?", ทำไมไม่ไปดูที่งานประมูลสินค้าหอไข่มุก หรือว่าที่ตรอกเล้าหมูนั่นก็จัดงานประมูลเหมือนกันไม่ใช่เหรอ?
-part-8-1-14,"We naturally have colleagues going there to investigate. It's just that I have an old relationship with Brother Shen, and my reputation... is really inconvenient."
-part-8-1-15,Let me think for a moment...
-part-8_option1,"Good, Brother Zhan, welcome to {MyFaction}."
-part-8_option2,{MyFaction} is too small to accommodate a hero like Brother Zhan.
-part-8-2-1,"Brother Zhan's strength is outstanding, which is helpful to {MyFaction}. But there are two points to make clear."
-part-8-2-2,"Brother Shen, please speak, I will follow."
-part-8-2-3,"First, don't make the investigation public. Second, don't interfere with the auction, even if the suspect is confirmed, take action after the auction is over, far away from {MyFaction}."
-part-8-2-4,All these can be agreed upon.
-part-8-2-5,"Third, for the items I personally want to sell, I would like Brother Zhan to help raise the price secretly..."
-part-8-2-6,Well... it depends on the situation.
-part-8-3-1,"Forget it, forget it. But Brother Shen, I still have to make it clear."
-part-8-3-2,"I still need to continue investigating in {MyFaction}, but without the help of Brother Shen, I can't do anything conveniently."
-part-8-3-3,"Brother Shen, see you later."
-part-8-4-1,"Leader, your old acquaintance said he couldn't wait any longer and left first, he will come to visit again later."
+part-8-1-14,"We naturally have colleagues going there to investigate. It's just that I have an old relationship with Brother Shen, and my reputation... is really inconvenient.",แน่นอนว่าพวกเรามีผู้ร่วมสำนักคอยสืบหาอยู่แล้ว เพียงแต่ข้ามีสายสัมพันธ์กับท่านพี่เซินมาแต่ก่อน และนาม... ของข้านั้นมันไม่เอื้ออำนวยเสียจริง
+part-8-1-15,Let me think for a moment...,ขอข้าครุ่นคิดสักพัก...
+part-8_option1,"Good, Brother Zhan, welcome to {MyFaction}.",เป็นการดีแล้ว ท่านพี่จ้าน ขอต้อนรับท่านสู่ {MyFaction} ด้วยความยินดียิ่ง
+part-8_option2,{MyFaction} is too small to accommodate a hero like Brother Zhan.,{MyFaction} นั้นคับแคบเกินกว่าจะรองรับวีรบุรุษอย่างท่านจ้าน
+part-8-2-1,"Brother Zhan's strength is outstanding, which is helpful to {MyFaction}. But there are two points to make clear.",พี่จ้านมีพละกำลังที่โดดเด่น ซึ่งจะเป็นประโยชน์ต่อ {MyFaction} แต่มีสองประเด็นที่ต้องทำความเข้าใจให้ชัดเจน
+part-8-2-2,"Brother Shen, please speak, I will follow.",พี่เซิน โปรดว่ามา ข้าจะทำตาม
+part-8-2-3,"First, don't make the investigation public. Second, don't interfere with the auction, even if the suspect is confirmed, take action after the auction is over, far away from {MyFaction}.",ประการแรก อย่าให้การสืบสวนเป็นที่เปิดเผย ประการที่สอง อย่าแทรกแซงการประมูล แม้จะยืนยันตัวผู้ต้องสงสัยได้แล้วก็ตาม ให้รอจนการประมูลเสร็จสิ้น แล้วค่อยจัดการ ณ ที่ห่างไกลจาก {MyFaction}
+part-8-2-4,All these can be agreed upon.,ข้าน้อมรับทุกประการที่ท่านกล่าวมา
+part-8-2-5,"Third, for the items I personally want to sell, I would like Brother Zhan to help raise the price secretly...",สำแดงสีหน้าชวนให้เข้าใจ อนึ่ง... สำหรับสิ่งของที่ข้าจะนำออกประมูล ใคร่ขอความกรุณาท่านพี่จ้านช่วยยกระดับราคาอย่างไม่ให้ผู้ใดล่วงรู้...
+part-8-2-6,Well... it depends on the situation.,พยักหน้าเบาๆ อืมม... ต้องพิจารณาตามสถานการณ์ที่เกิดขึ้น ณ ขณะนั้น
+part-8-3-1,"Forget it, forget it. But Brother Shen, I still have to make it clear.",ช่างเถิด ช่างเถิด แต่พี่เซิน ข้ายังมีเรื่องที่ต้องพูดให้ชัดเจน
+part-8-3-2,"I still need to continue investigating in {MyFaction}, but without the help of Brother Shen, I can't do anything conveniently.",ข้ายังจำเป็นต้องสืบสวนต่อใน {MyFaction} แต่หากไร้การสนับสนุนจากพี่เซิน ข้าคงทำอะไรไม่สะดวก
+part-8-3-3,"Brother Shen, see you later.",ขอพบกันใหม่ในโอกาสหน้า ท่านพี่เซิน
+part-8-4-1,"Leader, your old acquaintance said he couldn't wait any longer and left first, he will come to visit again later.",ท่านหัวหน้า แขกของท่านแจ้งว่าต้องขอตัวไปก่อนเพราะรอนานแล้ว เขาบอกว่าจะกลับมาเยี่ยมใหม่ภายหลัง
 part-8-4-2,"The Soul Departure Syndrome is acting up again... sigh. I don't know who that old acquaintance is, I can only wait for him to visit again.",อาการวิญญาณหลุดร่างของข้ากำเริบอีกแล้ว... เฮ้อ ข้าเองก็จำไม่ได้ว่าใครเป็นสหายเก่าคนนั้น คงต้องรอให้เขามาเยี่ยมเยือนข้าอีกครั้งแล้วล่ะ
-part-9-0-1,"What's wrong, why is the discipline of today's morning class so bad?"
-part-9-0-2,You're here! You come and manage this mad monk who ran back!
-part-9-0-3,"What's the panic, where's your cultivation?"
-part-9-0-4,"This mad monk, hard to clean, ragged, emitting a foul smell. The novice monks who do morning classes have not reached the state of not being affected by the five senses, many people can't concentrate."
-part-9-0-5,"Moreover, he can't stand sitting meditation, doesn't like chanting, and starts sleeping on the spot less than half a moment into the morning class. What's worse, he even drinks and eats meat in public, disregarding the precepts."
-part-9-0-6,Where is this person now?
-part-9-0-7,"Uh... he was just here, he must have run out of the temple on his own!"
-part-9-0-8,It seems I need to send some people out to find him.
-part-9_name,Mad Monk Leaves the Temple
-part-9_overview,"The new monk is really outrageous, please send someone to check it out."
-part-9-1-1,"You left {MyFaction}, because this mad monk is too conspicuous, there are many witnesses along the way."
-part-9-1-2,"You mean the monk with ragged clothes and patches, and a stinky smell? He ran in that direction!"
-part-9-1-3,"That monk who drinks and eats meat, he just carried a crying girl this way!"
-part-9-1-4,"Are you talking about that high monk? He helped a girl who was captured by Mountain Bandit find her parents, he's such a good person!"
+part-9-0-1,"What's wrong, why is the discipline of today's morning class so bad?",วันนี้เกิดอะไรขึ้น ทำไมระเบียบวินัยในชั้นเรียนช่วงเช้าถึงแย่นัก
+part-9-0-2,You're here! You come and manage this mad monk who ran back!,เจ้ามาแล้ว! รีบมาจัดการพระบ้าที่วิ่งกลับมานี่ที!
+part-9-0-3,"What's the panic, where's your cultivation?",ทำไมถึงตื่นตูมนัก วิชากำลังภายในเจ้าอยู่ที่ใด?
+part-9-0-4,"This mad monk, hard to clean, ragged, emitting a foul smell. The novice monks who do morning classes have not reached the state of not being affected by the five senses, many people can't concentrate.",พระบ้าผู้นี้ ทั้งสกปรก เสื้อผ้าขาดวิ่น ส่งกลิ่นเหม็น พวกสามเณรที่เรียนยามเช้ายังไม่ถึงขั้นวางจิตพ้นผัสสะทั้งห้า หลายคนจึงไม่อาจตั้งสมาธิได้
+part-9-0-5,"Moreover, he can't stand sitting meditation, doesn't like chanting, and starts sleeping on the spot less than half a moment into the morning class. What's worse, he even drinks and eats meat in public, disregarding the precepts.",ยิ่งไปกว่านั้น เขาทนนั่งบำเพ็ญเพียรไม่ได้ ไม่แยแสการสวดมนต์ พอเข้าชั้นเรียนยามเช้าไม่ถึงครึ่งยามก็หลับใหลคาที่ ร้ายยิ่งกว่านั้น ยังกล้าดื่มสุราเสพเนื้อต่อหน้าธารกำนัล ไม่เกรงกลัวต่อพระธรรมวินัยแม้แต่น้อย
+part-9-0-6,Where is this person now?,บุคคลผู้นั้นอยู่แห่งหนใดในยามนี้
+part-9-0-7,"Uh... he was just here, he must have run out of the temple on his own!",อา... เมื่อครู่นี้ยังอยู่ ณ ที่นี้ ดูเหมือนจะหนีออกจากพระอารามไปเสียแล้ว!
+part-9-0-8,It seems I need to send some people out to find him.,ดูท่าข้าต้องส่งคนออกตามหาเขาเสียแล้ว
+part-9_name,Mad Monk Leaves the Temple,พระบ้าหนีออกจากวัด
+part-9_overview,"The new monk is really outrageous, please send someone to check it out.",พระใหม่ผู้นี้ช่างเหลิงเกริมนัก ได้โปรดส่งคนไปสืบดูด้วย
+part-9-1-1,"You left {MyFaction}, because this mad monk is too conspicuous, there are many witnesses along the way.",เจ้าละทิ้ง {MyFaction} ไป ก็เพราะพระบ้าผู้นี้เป็นที่จับตามองเกินไป ระหว่างทางมีผู้พบเห็นมากมายนัก
+part-9-1-2,"You mean the monk with ragged clothes and patches, and a stinky smell? He ran in that direction!",เจ้าหมายถึงพระรูปนั้นที่สวมจีวรขาดวิ่นปะชุน ทั้งยังมีกลิ่นเหม็นติดตัวใช่หรือไม่? เขาวิ่งไปทางนั้น!
+part-9-1-3,"That monk who drinks and eats meat, he just carried a crying girl this way!",พระที่ดื่มสุราและกินเนื้อสัตว์ผู้นั้น เพิ่งแบกสตรีที่ร่ำไห้ผ่านมาทางนี้!
+part-9-1-4,"Are you talking about that high monk? He helped a girl who was captured by Mountain Bandit find her parents, he's such a good person!",ท่านหมายถึงพระผู้สูงส่งรูปนั้นหรือ? ท่านช่วยเหลือเด็กสาวที่ถูกโจรภูเขาจับตัวไปให้กลับคืนสู่อ้อมอกบิดามารดา ช่างเป็นผู้มีจิตใจงดงามยิ่งนัก!
 part-9-1-5,That monk uncle gave us a lot of big white steamed buns to eat... several people have been eating until they vomit and still eating.,ท่านลุงหลวงจีนท่านนั้นให้หมั่นโถวลูกใหญ่เรามามากมาย... หลายคนกินจนอ้วกออกมาแล้วก็ยังคงกินต่อไป
-part-9-1-6,He woke up my mother! He's a living Buddha!
-part-9-1-7,It seems that this mad monk has been doing good deeds all the way.
-part-9-1-8,"We've been chasing him all the way, and he's been running so fast, yet still has time to do good deeds. Isn't his Qinggong a bit outrageous..."
-part-9-1-9,"Wait, look! There seems to be a strong man taking a shortcut ahead!"
-part-9-1-10,"You bald donkey, you actually stole our mountain stronghold's food!"
-part-9-1-11,"Stinky monk, that's what I worked hard to rob and steal from the mountain!"
-part-9-1-12,"You actually gave it all to those lowly people, that's too much!"
-part-9-1-13,"Monk, I see there are so many of you, you can't finish it all. You should leave some good karma by doing good deeds."
-part-9-1-14,Stop!
-part-9-1-15,I will not tolerate such evil deeds from you!
-part-9-2-1,"Haha, now you're chasing me, you'll reap what you sow!"
-part-9-2-2,"The wind is too strong, let's go!"
-part-9-2-3,Where do you think you're going?
-part-9-2-4,"Master, master, we were wrong, please spare us!"
+part-9-1-6,He woke up my mother! He's a living Buddha!,ท่านปลุกมารดาของข้าให้ฟื้นคืนสติ! ท่านคือพระโพธิสัตว์ผู้ยังมีชีวิตจริงๆ!
+part-9-1-7,It seems that this mad monk has been doing good deeds all the way.,ดูเหมือนว่าพระบ้าผู้นี้จะเดินทางช่วยเหลือผู้คนมาตลอดทางเลยทีเดียว
+part-9-1-8,"We've been chasing him all the way, and he's been running so fast, yet still has time to do good deeds. Isn't his Qinggong a bit outrageous...",พวกเราไล่ตามท่านมาตลอดทาง ท่านวิ่งเร็วปานสายลม แต่กลับยังมีเวลาช่วยเหลือผู้คน วรยุทธ์ชิงกงของท่านช่างน่าพิศวงเหลือกำลัง...
+part-9-1-9,"Wait, look! There seems to be a strong man taking a shortcut ahead!",เดี๋ยวก่อน ดูนั่น! ดูเหมือนจะมียอดยุทธ์ผู้หนึ่งกำลังลัดเลาะทางย่นอยู่เบื้องหน้า!
+part-9-1-10,"You bald donkey, you actually stole our mountain stronghold's food!",ไอ้หัวโล้นเจ้าลา เจ้ากล้าดีมาขโมยเสบียงจากป้อมเขาของพวกข้าหรือ!
+part-9-1-11,"Stinky monk, that's what I worked hard to rob and steal from the mountain!",ไอ้พระจัญไร นั่นมันเสบียงที่ข้าอุตส่าห์ปล้นสะดมมาจากทั่วทั้งเขาด้วยความยากลำบากนักหนา!
+part-9-1-12,"You actually gave it all to those lowly people, that's too much!",เจ้ากลับเอาไปแจกจ่ายให้ไอ้พวกต่ำช้าเหล่านั้นจนหมด ช่างเหลิงเกินไปแล้ว!
+part-9-1-13,"Monk, I see there are so many of you, you can't finish it all. You should leave some good karma by doing good deeds.",พระคุณเจ้า ข้าเห็นว่าพวกท่านมีมากเหลือเกิน คงกินไม่หมด ควรเก็บไว้ทำบุญสร้างกุศลบ้างกระมัง
+part-9-1-14,Stop!,หยุดนะ!
+part-9-1-15,I will not tolerate such evil deeds from you!,ข้าจะไม่ยอมปล่อยให้เจ้าทำการชั่วช้าเยี่ยงนี้ไปได้!
+part-9-2-1,"Haha, now you're chasing me, you'll reap what you sow!",ฮ่าๆ บัดนี้เจ้ากลับต้องไล่ล่าข้า สวรรค์ย่อมลงทัณฑ์ผู้ชั่วช้าเช่นเจ้าเอง!
+part-9-2-2,"The wind is too strong, let's go!",ลมแรงมาก ไปกันเถอะ
+part-9-2-3,Where do you think you're going?,เจ้าจะไปไหนน่ะ
+part-9-2-4,"Master, master, we were wrong, please spare us!",นายท่าน  นายท่าน พวกข้าผิดไปแล้ว ได้โปรดไว้ชีวิตพวกข้าด้วย!
 part-9-2-5,"I don't save evil people, but looking at your daily actions, you also have a bit of kindness. If you truly repent, start running south for three hundred miles from now on, don't stop for a moment!"
-part-9-2-6,Three hundred miles? Do we really have to run?
-part-9-2-7,This...
+part-9-2-6,Three hundred miles? Do we really have to run?,100 ลี้ ? (50กิโลเมตร) พวกเราต้องวิ่งจริงๆหรอ ?
+part-9-2-7,This...,นี่มัน...
 part-9-2-8,"Run, run, if you don't run now... hehehe haha."
 part-9-2-9,"Lai Toudian, are you really going to let them go?",ไล่โถวเตียน นี่จะปล่อยพวกเขาไปจริงๆหรือ?
 part-9-2-10,"Are you a disciple of the Buddhist school? If so, we both do not kill. And their karma, hehe, is in the south, not here."
@@ -1263,7 +1263,7 @@ part-9-2-11,"Forget it, let's run!"
 part-9-2-12,Three mountain bandits ran away in a puff of smoke.
 part-9-2-13,"Aren't you someone from our sect, why did you run over here?"
 part-9-2-14,"We caught up with you, we want you to..."
-part-9-option1,Go back to {MyFaction}.
+part-9-option1,Go back to {MyFaction}.,กลับไปที่  {MyFaction}.
 part-9-option2,You violated the precepts and were expelled from the sect.
 part-9-3-1,We are here to take you back to {MyFaction}.
 part-9-3-2,"Hmm... I've seen a lot of karma in the world, and the harvest is quite rich, it's time to go back to {MyFaction}."

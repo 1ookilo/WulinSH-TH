@@ -193,7 +193,7 @@ Role1-9-2overview2,"Participate in the <color=#097a76>Grand Championship</color>
 Role1-9-2overview3,Challenge and defeat the leaders of any five ordinary sects.,ท้าประลอง และชนะ ผู้นำของห้าสำนักธรรมดาคนใดก็ได้
 Role1-9-2overview4,Challenge and defeat the leaders of the four major sects of the Three Religions and Nine Streams.,ท้าประลอง และชนะ ผู้นำของ 4 สำนักหลักแห่ง สามนิกายเก้าลำธาร
 Role1-9-2overview5,Participate in the Peak Swordsmanship Conference.,เข้าร่วมงานชุมนุมวิจารณ์กระบี่
-Role1-9-3name,Great Hero,ยอดวีรบุรุษ
+Role1-9-3name,Great Hero,มหาบุรุษ
 Role1-9-3overview1,Reach 100 Relations in any town.,ความสัมพันธ์ถึง 100 กับเมืองใดก็ได้
 Role1-9-3overview2,"Reach 100 Relations in Daliang, Lin'an, and Chuxiang.",ความสัมพันธ์ถึง 100 กับเมือง ต้าเหลียง หลินอัน และฉู่เซียง
 Role1-9-3overview3,Clear the Japanese trouble in Lin'an City.,จัดการปัญหาจากญี่ปุ่นในเมืองหลินอัน
@@ -536,7 +536,7 @@ M1100-2_npcname2,Jianghu person B,ชาวยุทธ์ B
 M1600-1_npcname1,Audience,ผู้ชม
 M1600-1_npcname2,Zhao Kingdom soldier,ทหารแคว้นจ้าว
 M1600-1_npcname3,Bandit leader,หัวหน้ากองโจรภูเขา
-M1600-1option1_dialog,"(These guys look tough, how would those great heroes handle this situation?)",(เจ้าพวกนี้ดูเก่งแฮะ ถ้าเป็นยอดวีรบุรุษจะทำยังไงในสถานการณ์แบบนี้นะ)
+M1600-1option1_dialog,"(These guys look tough, how would those great heroes handle this situation?)",(เจ้าพวกนี้ดูเก่งแฮะ ถ้าเป็นมหาบุรุษจะทำยังไงในสถานการณ์แบบนี้นะ)
 M1600-1option1_1,(Act pitiful so they won't pick on me.),(ทำตัวน่าสงสาร พวกมันคงไม่อยากรังแกเราหรอก)
 M1600-1option1_2,(Show admiration. They won't harass me if I make them happy.),(ทำเป็นประทับใจ ถ้าพวกมันอารมณ์ดีคงไม่ทำให้เราลำบากหรอก)
 M1600-1option1_3,(Don't show any weakness. They will be scared off.),(ไม่แสดงความอ่อนแอ แสร้งเป็นเข้มแข็งเดี๋ยวพวกมันก็กลัวไปเอง)
