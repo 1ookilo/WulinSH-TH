@@ -534,7 +534,7 @@ sto-KW-3_9_1,"{PlayerSurName} Sect Leader, I was planning to attend the Sword Ca
 sto-KW-3_9_2,"Your Highness, there must be some misunderstanding...",ฝ่าบาท ข้าเชื่อว่าคงมีความเข้าใจผิดบางประการ...
 sto-KW-3-1_name,Annihilate Langya Sword Pavilion and obtain the divine sword!,จงทำลายศาลากระบี่หลางหยาแล้วยึดกระบี่เทวะมาให้ได้!
 sto-KW-3-1_log,Langya Sword Pavilion has been annihilated,ศาลากระบี่หลางหยาถูกทำลายจนสิ้นซาก
-sto-KW-3-1_1_1,"To witness the ultimate sword technique, you deliberately hold back\nGiving the old man with flying hair the chance to swing his strongest sword\nThe sword rises, Ten Thousand Swords, evil retreats\nThe sword falls, reaching the blue sky above and the yellow springs below\nThis sword is already dazzling enough\nBut it's a pity that it met such a formidable opponent\nThe Xuanyuan Divine Sword, bows down...","เพื่อได้เห็นถึงสุดยอดของวิชาเพลงกระบี่ เจ้ายั้งมือเสีย\nให้โอกาสแก่ชายชราผมยาวที่ปลิวไสว ได้ใช้เพลงกระบี่ที่แข็งแกร่งที่สุดในชีวิตของเขา\nยามกระบี่จรดฟ้า หมื่นกระบี่รวมเป็นหนึ่ง ปีศาจทั้งหลายต่างถอยหนี\nยามกระบี่จรดดิน ผ่าสวรรค์ แยกหวงเฉวียน\nกระบวนท่านี้งดงามยิ่งนัก\nเสียดายที่มันต้องพบกับคู่ต่อสู้ที่ทรงพลังเช่นเจ้า\nยามนี้ กระบี่เทพซวนหยวน จึงต้องก้มหัวลง..."
+sto-KW-3-1_1_1,"To witness the ultimate sword technique, you deliberately hold back\nGiving the old man with flying hair the chance to swing his strongest sword\nThe sword rises, Ten Thousand Swords, evil retreats\nThe sword falls, reaching the blue sky above and the yellow springs below\nThis sword is already dazzling enough\nBut it's a pity that it met such a formidable opponent\nThe Xuanyuan Divine Sword, bows down...","เพื่อได้เห็นถึงสุดยอดของวิชาเพลงกระบี่ เจ้ายั้งมือเสีย\nให้โอกาสแก่ชายชราผมยาวที่ปลิวไสว ได้ใช้เพลงกระบี่ที่แข็งแกร่งที่สุดในชีวิตของเขา\nปลายกระบี่จรดฟ้า หมื่นกระบี่รวมเป็นหนึ่ง ปีศาจทั้งหลายต่างถอยหนี\nปลายกระบี่จรดดิน ผ่าสวรรค์ แยกหวงเฉวียน\nกระบวนท่านี้งดงามยิ่งนัก\nเสียดายที่มันต้องพบกับคู่ต่อสู้ที่ทรงพลังเช่นเจ้า\nยามนี้ กระบี่เทพซวนหยวน จึงต้องก้มหัวลง..."
 sto-KW-3-1_1_2,"There are always people better than you... There are always higher skies...\nToday, I finally understand this truth, I hope it's not too late to regret.","เหนือคนยังมีคน เหนือฟ้ายังมีฟ้า...\nวันนี้ข้าจึงได้เข้าใจถึงสัจธรรมนี้เสียที หวังว่าจะยังไม่สายเกินไปที่จะสำนึก..."
 sto-KW-3-1_1_3,"The mighty Sword Pavilion, is nothing more than this!",กระบี่หลางหยาอันเกรียงไกร ก็มีเพียงเท่านี้เองหรือ!?
 sto-KW-3-1_1_4,"The divine sword Piercing the Heavens is in hand, let me think, should I give it to Duke Kang, or keep it for myself?",กระบี่เทพทะลวงสวรรค์อยู่ในมือข้า ควรจะมอบมันให้แก่ท่านอ๋องคังหรือจะเก็บไว้เองดี?
@@ -568,104 +568,104 @@ sto-KW-4_3_1,"Such an opportunity cannot be missed, {PlayerSurName} will certain
 sto-KW-4_3_2,Good spirit! This king will go ahead and wait for the head of {PlayerSurName} to show his power!,ยอดเยี่ยม! ข้าจะนำหน้าไปก่อน แล้วจะรอชมเจ้าสำนัก {PlayerSurName} สำแดงอานุภาพอันเกรียงไกร!
 sto-KW-4_name,Peak of Challenge Duel,ประลองยุทธ์ ณ ยอดเขาแห่งการชิงชัย
 sto-KW-4_log,Go to Peak of Challenge and duel with the three sect leaders invited by Duke Kang.,มุ่งสู่ยอดเขาแห่งการชิงชัย ประลองกับเจ้านิกายทั้งสามที่อ๋องคังเชื้อเชิญมา
-sto-KW-4_4_1,"You travel light and arrive at the Peak of Challenge in no time\nThe heads of the three sects, once representing the pinnacle of martial arts\nHave no objections to your arrival\nThey just watch coldly\nAt this rising star in the martial world..."
-sto-KW-4_4_2,"Very well, it seems everyone is here."
-sto-KW-4_4_3,The reason why this king invited you sect leaders is to let you make friends through martial arts and exchange ideas.
-sto-KW-4_4_4,"Now my Zhao country is plagued by internal and external troubles, and the local princes and old generals are self-reliant. The only hope is for you martial arts enthusiasts to decide on a leader to help this king restore order."
-sto-KW-4_5_1,"The royal family has commanded, and this old man should obey. But the former emperor fell into the enemy camp, and many princes claimed to be orthodox, and this Dojokeeper really can't judge."
-sto-KW-4_6_1,"Although Duke Kang is of noble status, if he does not have the orthodox status, I am afraid this old Taoist cannot obey."
+sto-KW-4_4_1,"You travel light and arrive at the Peak of Challenge in no time\nThe heads of the three sects, once representing the pinnacle of martial arts\nHave no objections to your arrival\nThey just watch coldly\nAt this rising star in the martial world...","ท่านเดินทางอย่างรวดเร็ว และมาถึงยอดเขาแห่งการชิงชัยในพริบตา\nหัวหน้าทั้งสามนิกาย ผู้ซึ่งเคยเป็นตัวแทนของยอดฝีมือแห่งวิชายุทธ์\nไม่มีข้อคัดค้านต่อการมาถึงของท่านแต่อย่างใด\nพวกเขาเพียงแต่มองอย่างเยือกเย็น\nราวกับกำลังมองดูดาวดวงใหม่ที่กำลังขึ้นสู่ห้วงฟ้าแห่งวงการยุทธภพ..."
+sto-KW-4_4_2,"Very well, it seems everyone is here.",ดีแล้ว ดูเหมือนทุกคนจะมาครบถ้วนแล้ว
+sto-KW-4_4_3,The reason why this king invited you sect leaders is to let you make friends through martial arts and exchange ideas.,เหตุผลที่กษัตริย์ทรงเชิญบรรดาหัวหน้าสำนักวิชาการต่อสู้มาในครั้งนี้ ก็เพื่อให้พวกท่านได้สร้างมิตรภาพผ่านศิลปะการต่อสู้และแลกเปลี่ยนความคิด
+sto-KW-4_4_4,"Now my Zhao country is plagued by internal and external troubles, and the local princes and old generals are self-reliant. The only hope is for you martial arts enthusiasts to decide on a leader to help this king restore order.",บัดนี้ แผ่นดินโจวของเราถูกความยุ่งยากทั้งภายในและภายนอกรุมเร้า เจ้าผู้ครองนครและบรรดาแม่ทัพผู้อาวุโสต่างก็ต่างคนต่างอยู่ หวังพึ่งแต่ตนเอง หวังเดียวที่เหลืออยู่ก็คือเหล่านักรบผู้หลงใหลในวิชายุทธ์ จงร่วมกันเลือกผู้นำที่จะช่วยกษัตริย์กู้คืนความสงบเรียบร้อยให้แก่แผ่นดิน
+sto-KW-4_5_1,"The royal family has commanded, and this old man should obey. But the former emperor fell into the enemy camp, and many princes claimed to be orthodox, and this Dojokeeper really can't judge.",หากเป็นรับสั่งจากราชสำนัก ข้าผู้เฒ่าย่อมต้องเชื่อฟัง แต่องค์จักรพรรดิองค์ก่อนได้ตกไปอยู่ในค่ายศัตรู และมีเจ้าชายหลายองค์ต่างอ้างว่าตนเป็นผู้สืบทอดที่ชอบธรรม ด้วยเหตุนี้ ข้าผู้ดูแลสำนักนี้จริงๆ แล้วไม่อาจตัดสินได้
+sto-KW-4_6_1,"Although Duke Kang is of noble status, if he does not have the orthodox status, I am afraid this old Taoist cannot obey.",แม้ท่านอ๋องคังจะทรงมีฐานันดรอันสูงส่ง แต่หากมิได้มีความชอบธรรมตามธรรมเนียมโบราณแล้ว กลัวว่าข้าผู้เฒ่าผู้นี้จะไม่อาจเชื่อฟังได้
 sto-KW-4_7_1,"Amitabha, your highness makes sense, but in the old monk's view, even if a leader is forcibly decided, it is still an illusion and cannot achieve what your highness wants.",อมิตาพุทธ สิ่งที่พระองค์ตรัสนั้นถูกต้อง แต่ในสายตาของอาตมา แม้จะบังคับให้ผู้นำขึ้นมาปกครอง ก็เปรียบเสมือนภาพมายา ซึ่งไม่อาจนำมาซึ่งผลลัพธ์ที่แท้จริงได้
-sto-KW-4_8_1,"Sect leaders, please calm down, what is this?"
-sto-KW-4_9_1,Imperial token!
-sto-KW-4_10_1,I didn't expect the Imperial token to be in your hands...
-sto-KW-4_11_1,"Since your highness holds the Imperial token, this old minister should obey!"
-sto-KW-4_12_1,"This Imperial token was left by the emperor before he left, and your highness holds this token, it is naturally as if the emperor is here!"
-sto-KW-4_12_2,"Since the sect leaders are hindered by their status, let {PlayerSurName} take the lead and set an example!"
-sto-KW-4_13_1,The old Taoist will first learn the high tricks of the {PlayerSurName} sect leader!
-sto-KW-4_14_1,"{PlayerSurName} donor's martial arts are not bad, please be merciful."
-sto-KW-4_15_1,"This Dojokeeper is itching for a fight, I request the Sect Leader to teach me!"
-sto-KW-4_16_1,"Since Duke Kang intends to hold the Peak of Challenge, then this old man will take the initiative to come and check it out."
-sto-KW-4_17_1,"{PlayerSurName} Sect leader is really a world-class martial artist, completely surpassing everyone present."
-sto-KW-4_17_2,"This is a gift prepared by this king in advance, hoping that {MyFaction} can unite the entire martial arts world under your leadership!"
-sto-KW-4_17_3,"Thank you for your kindness, your highness!"
-sto-KW-4_18_1,You really didn't disappoint this king! I'm afraid there are no more than a handful of people in the world who can compete with you.
-sto-KW-4_18_2,"This is a reward prepared by this king in advance, hoping that {MyFaction} can complete the great cause of dominating one side under your leadership!"
-sto-KW-4_18_3,"Thank you for your reward, your highness!"
-sto-KW-4_19_1,"{PlayerSurName} Sect leader has done his best, go back and rest well, this king will need you later."
-sto-KW-4_19_2,"Yes, sir!"
-sto-KW-4_20_1,"This opportunity is really rare, but {MyFaction} has been busy with the affairs of the sect recently and cannot get away. I hope your highness will forgive me."
-sto-KW-4_20_2,"It's a pity that this king's hard work is in vain, well, you go and deal with the sect's affairs."
-sto-KW-4_21_1,"Sect Leader, Duke Kang sent a message expressing his disappointment in your breach of promise..."
-sto-KW-4_21_2,"Ah, how could I forget about that, I'll apologize to Duke Kang next time."
-sto-KW-5_1_1,"The martial arts of the Central Plains have been in chaos for a long time, it's time for us from the East to show our skills!"
-sto-KW-5_1_2,"I, Yagyū Musashi, the successor of the Eastern martial arts family and the lord of the Great Ant City, am here!"
-sto-KW-5_1_3,"Master, something terrible has happened! The Great Ant City has suddenly become aggressive, occupying the surroundings of Lin'an, and it seems they are about to expand towards the Central Plains!"
-sto-KW-5_1_4,Has Lin'an fallen? What is the current situation of Duke Kang?
-sto-KW-5_1_5,Duke Kang had received the information in advance and has already evacuated to a safe place.
-sto-KW-5_1_6,"Hmph, these ambitious foreigners from Great Ant City are so contemptuous of the Central Plains Martial Arts, they are simply seeking their own death."
-sto-KW-5_1_7,Send out the order to closely monitor the movements of Great Ant City and report to me at the first moment.
-sto-KW-5_1_8,"Yes, sir!"
-sto-KW-5_log,Prepare for the invasion of Great Ant City
-sto-KW-6_1_1,"Master, there is a man dressed as a Japanese ronin standing outside the door with a murderous aura, specifically challenging you."
-sto-KW-6_1_2,"I heard that there is a madman from Great Ant City who keeps challenging various sects, trying to crush the morale of the Central Plains martial arts. Is this the guy?"
-sto-KW-6_1_3,"Since he dares to come to our sect, he should be prepared to shake the tree like a dragonfly!"
-sto-KW-6_name,Great Ant City Ronin
-sto-KW-6_log,Dispatch Disciple to duel with the challenging Great Ant City Ronin
-sto-KW-6_2_1,Where is the challenger?
-sto-KW-6_2_2,{MyFaction} Are you sending such a thing to die?
-sto-KW-6_2_3,"You are the one who came to the door, yet you dare to be so arrogant and ignorant, talking big."
-sto-KW-6_2_4,"Remember, I am Hattori Hyoe, the deputy city lord of Great Ant City, here to send you on your way."
-sto-KW-6_2_5,"Central Plains Martial Arts is nothing more than a juggling act to please the crowd, let us Japanese warriors break your proud backbone!"
+sto-KW-4_8_1,"Sect leaders, please calm down, what is this?",บรรดาหัวหน้าสำนัก โปรดสงบสติให้ดี นี่คืออะไรกัน
+sto-KW-4_9_1,Imperial token!,ตราจักรพรรดิ
+sto-KW-4_10_1,I didn't expect the Imperial token to be in your hands...,ข้ามิได้คาดคิดเลยว่า ตราจักรพรรดิจะอยู่ในมือของท่าน...
+sto-KW-4_11_1,"Since your highness holds the Imperial token, this old minister should obey!",เมื่อท่านทรงถือครองตราจักรพรรดิ ข้าขุนนางผู้เฒ่าขอน้อมรับพระบัญชา!
+sto-KW-4_12_1,"This Imperial token was left by the emperor before he left, and your highness holds this token, it is naturally as if the emperor is here!",ตราจักรพรรดินี้ทรงประทานไว้ก่อนเสด็จจากไป และท่านทรงถือครองตราพระราชลัญจกร ย่อมเสมือนหนึ่งว่าองค์จักรพรรดิทรงสถิตอยู่ณ ที่นี่!
+sto-KW-4_12_2,"Since the sect leaders are hindered by their status, let {PlayerSurName} take the lead and set an example!",เนื่องจากบรรดาหัวหน้าสำนักถูกพันธนาการด้วยตำแหน่งและเกียรติยศ ขอให้ {PlayerSurName}} ก้าวออกมานำและสาธิตให้เห็น!
+sto-KW-4_13_1,The old Taoist will first learn the high tricks of the {PlayerSurName} sect leader!,ข้าผู้เฒ่าแห่งลัทธิเต๋าจะได้สังเกตวิชาชั้นสูงของสำนัก {PlayerSurName} เป็นการแรก!
+sto-KW-4_14_1,"{PlayerSurName} donor's martial arts are not bad, please be merciful.",วิชายุทธของประสก {PlayerSurName} นับว่าไม่ธรรมดา ขอได้โปรดปรานเถิด!
+sto-KW-4_15_1,"This Dojokeeper is itching for a fight, I request the Sect Leader to teach me!",ข้าผู้เป็นครูฝึกกำลังปรารถนาจะประลองฝีมือ ขอร้องท่านหัวหน้าสำนักได้โปรดสั่งสอนข้า!
+sto-KW-4_16_1,"Since Duke Kang intends to hold the Peak of Challenge, then this old man will take the initiative to come and check it out.",เมื่อท่านอ๋องคังประสงค์จะจัดการแข่งขันบนยอดเขาแห่งการชิงชัย ข้าผู้เฒ่าจะขอริเริ่มก้าวออกมาสำรวจดู!
+sto-KW-4_17_1,"{PlayerSurName} Sect leader is really a world-class martial artist, completely surpassing everyone present.",หัวหน้าสำนัก {PlayerSurName} ช่างเป็นนักยุทธระดับโลกแท้ๆ โดดเด่นเหนือกว่าทุกคนที่อยู่ณ ที่นี่!
+sto-KW-4_17_2,"This is a gift prepared by this king in advance, hoping that {MyFaction} can unite the entire martial arts world under your leadership!",นี่คือของขวัญที่เราได้เตรียมการไว้ล่วงหน้า หวังเป็นอย่างยิ่งว่า {MyFaction} จะสามารถรวมแผ่นดินยุทธ์ไว้ใต้การนำของท่าน!
+sto-KW-4_17_3,"Thank you for your kindness, your highness!",ขอขอบพระทัยในพระกรุณาอย่างสูง ฝ่าบาท!
+sto-KW-4_18_1,You really didn't disappoint this king! I'm afraid there are no more than a handful of people in the world who can compete with you.,เจ้าไม่ทำให้เราผิดหวังเลยสักนิด! กลัวว่าในโลกนี้คงเหลือแค่อุ้งมือเดียวเท่านั้นที่จะสามารถแข่งขันกับเจ้าได้!
+sto-KW-4_18_2,"This is a reward prepared by this king in advance, hoping that {MyFaction} can complete the great cause of dominating one side under your leadership!",นี่คือรางวัลที่เราได้เตรียมการไว้ล่วงหน้า หวังเป็นอย่างยิ่งว่า {MyFaction} จะสามารถบรรลุภารกิจอันยิ่งใหญ่ของการครอบครองดินแดนหนึ่งฝั่งภายใต้การนำของท่าน!
+sto-KW-4_18_3,"Thank you for your reward, your highness!",ขอขอบพระทัยในรางวัลอันทรงเกียรตินี้ ฝ่าบาท!
+sto-KW-4_19_1,"{PlayerSurName} Sect leader has done his best, go back and rest well, this king will need you later.",หัวหน้าสำนัก {PlayerSurName} ได้พยายามอย่างสุดความสามารถแล้ว จงกลับไปพักผ่อนให้เรียบร้อย เราจะเรียกใช้เจ้าในภายหลัง!
+sto-KW-4_19_2,"Yes, sir!",ขอรับ!
+sto-KW-4_20_1,"This opportunity is really rare, but {MyFaction} has been busy with the affairs of the sect recently and cannot get away. I hope your highness will forgive me.",โอกาสนี้นับว่าหาได้ยากยิ่ง แต่ {MyFaction} กำลังยุ่งอยู่กับกิจการภายในสำนักเป็นอย่างมาก จึงไม่อาจละทิ้งหน้าที่ได้ หวังเป็นอย่างยิ่งว่าฝ่าบาทจะทรงโปรดผ่อนผันให้
+sto-KW-4_20_2,"It's a pity that this king's hard work is in vain, well, you go and deal with the sect's affairs.",เป็นที่น่าเสียดายที่ความพยายามของเราต้องสูญเปล่า งั้นก็จงไปจัดการกิจการของสำนักเถอะ
+sto-KW-4_21_1,"Sect Leader, Duke Kang sent a message expressing his disappointment in your breach of promise...",ท่านประมุข อ๋องคังส่งสารแสดงความไม่พอใจเนื่องจากท่านละเมิดคำสัญญา...
+sto-KW-4_21_2,"Ah, how could I forget about that, I'll apologize to Duke Kang next time.",อ๋อ เกือบลืมเสียแล้ว คราวหน้าข้าจะไปขอโทษอ๋องคัง
+sto-KW-5_1_1,"The martial arts of the Central Plains have been in chaos for a long time, it's time for us from the East to show our skills!",ยุทธภพแห่งจงหยวนอยู่ในความวุ่นวายมานานแล้ว ถึงเวลาที่เราชาวภาคตะวันออกจะได้แสดงฝีมือกันสักที!
+sto-KW-5_1_2,"I, Yagyū Musashi, the successor of the Eastern martial arts family and the lord of the Great Ant City, am here!",ข้า ยากิวิ มุซาชิ ทายาทแห่งวงศ์ยุทธศิลป์ตะวันออก และเจ้าผู้ครองเมืองผีฝู ขอเข้าเฝ้า!
+sto-KW-5_1_3,"Master, something terrible has happened! The Great Ant City has suddenly become aggressive, occupying the surroundings of Lin'an, and it seems they are about to expand towards the Central Plains!",ท่านอาจารย์! เกิดเรื่องร้ายแรงขึ้นแล้ว! พวกเมืองผีฝูกลับใช้กำลังอย่างกะทันหัน บุกยึดบริเวณโดยรอบหลินอัน และดูเหมือนว่าพวกเขากำลังจะขยายอาณาเขตมุ่งสู่แผ่นดินจงหยวน!
+sto-KW-5_1_4,Has Lin'an fallen? What is the current situation of Duke Kang?,หลินอันถูกยึดแล้วหรือยัง? ตอนนี้อ๋องคังอยู่ในสภาพเช่นไร?
+sto-KW-5_1_5,Duke Kang had received the information in advance and has already evacuated to a safe place.,อ๋องคังได้รับข่าวสารล่วงหน้าและอพยพไปยังที่ปลอดภัยแล้ว
+sto-KW-5_1_6,"Hmph, these ambitious foreigners from Great Ant City are so contemptuous of the Central Plains Martial Arts, they are simply seeking their own death.",หึ! พวกคนต่างถิ่นจากเมืองผีฝูที่มีความทะเยอทะยานนี้ดูถูกยุทธภพแผ่นดินจงหยวนเสียเหลือเกิน พวกเขากำลังแสวงหาความตายด้วยตัวเอง
+sto-KW-5_1_7,Send out the order to closely monitor the movements of Great Ant City and report to me at the first moment.,ส่งคำสั่งเฝ้าติดตามการเคลื่อนไหวของเมืองผีฝูอย่างใกล้ชิด และรายงานข้าทันทีที่มีความเคลื่อนไหวใดๆ
+sto-KW-5_1_8,"Yes, sir!",ขอรับ!
+sto-KW-5_log,Prepare for the invasion of Great Ant City,เตรียมพร้อมสำหรับการบุกโจมตีเมืองผีฝู!
+sto-KW-6_1_1,"Master, there is a man dressed as a Japanese ronin standing outside the door with a murderous aura, specifically challenging you.",ท่านอาจารย์ มีชายคนหนึ่งแต่งกายเป็นโรนินชาวญี่ปุ่นยืนอยู่ด้านนอกประตู แผ่อาฆาตมุ่งร้ายอย่างชัดเจน และกำลังท้าประลองท่านโดยเฉพาะ
+sto-KW-6_1_2,"I heard that there is a madman from Great Ant City who keeps challenging various sects, trying to crush the morale of the Central Plains martial arts. Is this the guy?",ข้าได้ยินมาว่ามีคนบ้าจากเมืองผีฝูที่คอยท้าทายสำนักต่างๆ โดยพยายามทำลายขวัญของยุทธภพจงหยวน เขาคนนี้คือคนนั้นหรือไม่?
+sto-KW-6_1_3,"Since he dares to come to our sect, he should be prepared to shake the tree like a dragonfly!",เมื่อเขากล้ามาที่สำนักของเรา เขาควรเตรียมตัวให้พร้อมที่จะถูกเขย่าเหมือนแมลงปอที่ตกอยู่บนใบไม้!
+sto-KW-6_name,Great Ant City Ronin,เมืองผีฝู โรนิน
+sto-KW-6_log,Dispatch Disciple to duel with the challenging Great Ant City Ronin,ส่งศิษย์ออกไปดวลกับโรนินจากเมืองผีฝูที่มาท้าประลอง
+sto-KW-6_2_1,Where is the challenger?,คนที่มาท้าทายข้าอยู่ที่ใด?
+sto-KW-6_2_2,{MyFaction} Are you sending such a thing to die?,{MyFaction} ส่งพวกกระจอกอย่างเจ้ามาเป็นตัวตายตัวแทนหรือ?
+sto-KW-6_2_3,"You are the one who came to the door, yet you dare to be so arrogant and ignorant, talking big.",เจ้ามันเป็นฝ่ายเสนอหน้ามาเอง ยังกล้าหยิ่งผยองปากกล้าเช่นนี้อีกหรือ
+sto-KW-6_2_4,"Remember, I am Hattori Hyoe, the deputy city lord of Great Ant City, here to send you on your way.",จำชื่อข้าไว้ให้ดี! ข้าคือ ฮัตโตริ เฮียวเอะ รองเจ้าเมืองผีฝู วันนี้มาเพื่อส่งเจ้าลงนรก
+sto-KW-6_2_5,"Central Plains Martial Arts is nothing more than a juggling act to please the crowd, let us Japanese warriors break your proud backbone!",วรยุทธแห่งจงหยวนนั้น ก็แค่การแสดงหลอกตา พวกเรานักสู้แห่งดินแดนอาทิตย์อุทัย จะบดขยี้ความหยิ่งทะนงของพวกเจ้าให้สิ้น!
 sto-KW-6_3_1,"Hmph, your Great Ant City Martial Arts is no different from children's play. Since you offend my sect, leave your life here.",เฮอะ วรยุทธ์เมืองผีฝูของเจ้าหาได้ต่างจากเด็กเล่นไม่ เมื่อเจ้ากล้าบุกสำนักข้าก็จงทิ้งชีวิตไว้ที่นี่ซะ
-sto-KW-6_3_2,Impossible... You must have used sorcery!
-sto-KW-6_3_3,"Anyone better than you is sorcery, you are really a frog at the bottom of the well. No more words, die."
-sto-KW-6_3_4,"I can't fall here, I will come back to teach you another day... Wind Escape!"
-sto-KW-6_3_5,"Cough cough cough... This kid threw a strange pellet that constantly releases smoke and took the opportunity to escape, it's really shameless."
-sto-KW-6_3_6,"But I gave him a good beating, which is a good name for the Central Plains Martial Arts."
-sto-KW-6_4_1,"This kid's knife technique is very strange, it's really tricky at first sight..."
-sto-KW-6_4_2,"Those Vagabonds who were defeated by me blew {MyFaction} to the sky, today it seems, it's simply ridiculous."
-sto-KW-6_4_3,"You embroidered pillow is not worthy to die under my knife, get out!"
-sto-KW-6_5_1,"Master, that Japanese ronin saw that our sect was always closed and not coming out, so he spread rumors everywhere that our sect was timid and afraid. If this word reaches Duke Kang's ears, I'm afraid it will make the Duke unhappy with us."
-sto-KW-6_5_2,"Things have come to this, there is no room for recovery, let's leave it at that."
-sto-KW-7_1_1,"{PlayerSurName} Master, Duke Kang has specially sent me to deliver a verbal message."
-sto-KW-7_1_2,"Great Ant City, as a foreign race, belittles the Central Plains Martial Arts and interferes with the internal affairs of China. He specially sent {MyFaction} to destroy it with all his strength, recover the lost land of Lin'an, and show the might of our country!"
-sto-KW-7_1_3,"The Duke has ordered, our sect will naturally comply!"
-sto-KW-7_log,Eliminate the forces of Great Ant City
-sto-KW-8_1_1,"Master, that Great Ant City has too many grievances, and before our sect could take action, it was already wiped out by other sects."
-sto-KW-8_1_2,"It's important to know oneself, otherwise it will end up like Great Ant City. Don't worry about it, just continue to develop our sect."
-sto-KW-8_2_1,"The glory and ambition of the Liusheng family were destroyed along with the Great Ant City\nFrom Yagyū Musashi and below\nAlmost all the culprits were caught in one fell swoop, locked up in the death cell of Lin'an City\nOnly the princess of Great Ant City is missing, suspected to be wandering in the rivers and lakes..."
-sto-KW-8_2_2,"Sixty years in a dream, a cycle of decay and prosperity in a cup of wine..."
-sto-KW-8_2_3,"It's important to know oneself, or else you'll end up like Great Ant City!"
-sto-KW-8_2_4,"The once arrogant Great Ant City fell at the hands of {MyFaction}, bringing our sect's ideal of Dominating the Martial World one step closer!"
-sto-KW-8_log,"Continue to develop the sect, expand the territory"
-sto-KW-9_1_1,"The Central Plains have always been divided, and now they are even more consumed by internal strife, leaving only a tenth of their national strength. Truly, heaven blesses the Great Yan Kingdom!"
-sto-KW-9_1_2,"Yan Yun Iron Army, heed my command, we march south today!"
-sto-KW-9_1_3,"Sect Leader, the Yan Yun Iron Army that has been entrenched in Yan Yun has taken advantage of Zhao's internal strife, revealing their fangs, mobilizing their army and quickly capturing Daliang City. Chu Xiang and Lin An are now unprotected, they're in grave danger."
-sto-KW-9_1_4,"The Yan Yun Iron Army has been operating in the Yan Yun camp for many years, and now they are heading south with full force, they must have made thorough preparations..."
-sto-KW-9_1_5,"Duke Kang has sent another oral decree, he believes that the situation in Zhao is extremely urgent, and orders our sect to do everything possible to firmly control Daliang, Lin An, and Chu Xiang, and defend them for at least <color=#a94e37>three months</color> to prevent any accidents."
-sto-KW-9_1_6,"Let's do as Duke Kang says. The Yan army is powerful and wherever they go, people will inevitably surrender. Besides our sect, he has no one else to rely on."
-sto-KW-9_log,"Help Duke Kang control Daliang, Lin An, and Chu Xiang, and defend them for three months"
-sto-KW-10_1_1,"Leader, the commander of the Yan Yun Iron Army, Wanyan Wuzhu, has sent a secret letter..."
-sto-KW-10_1_2,"Very well, it seems that our defense of the three main cities has seriously hindered the Yan army's invasion plan. Let me see what this guy has to say!"
-sto-KW-10_1_3,"You open the secret letter and read it carefully\nThe letter is half threat, half temptation\nBut there is a hint of negotiation hidden between the lines\nAfter reading the whole letter, you can't help but laugh out loud\nWanyan Wuzhu's intentions are clear..."
-sto-KW-10_1_4,Where is the messenger?
-sto-KW-10_1_5,The Yan soldier disguised as a Zhao person has been captured by our disciples.
-sto-KW-10_1_6,"Let him go, and tell him to pass on a message. If Wanyan Wuzhu is willing to come to our sect and apologize in person, I, being generous, will let him off the hook."
-sto-KW-10_1_7,"Yes, I'll go and do it right away."
-sto-KW-10_1_8,"Just as you expected\nWanyan Wuzhu is furious upon receiving your message\nHe orders all Yan troops to prioritize attacking {MyFaction}\nThe trap is half set\nThe world's safety seems to be in your hands..."
-sto-KW-10_log,"Advance into Yan Yun Region, completely eliminate Yan Yun Iron Army"
-sto-KW-10_2_1,"Damn it, the three main cities have fallen one after another, both our sect and Zhao have lost their last resistance skill..."
-sto-KW-10_2_2,"The ancient saying ""unable to turn the tide"" probably refers to this situation..."
-sto-KW-11_1_1,"This was Wanyan Wuzhu's best chance to destroy Zhao\nBut you, a rising star, thwarted it\nThe grand camp that stood in Yan Yun for decades\nHas returned to Zhao's embrace today..."
-sto-KW-11_1_2,"In my next life, I will never lose again..."
-sto-KW-11_1_3,So tired... Have all the leaders of the major sects left?
-sto-KW-11_1_4,"Reporting to the leader, they have all left."
-sto-KW-11_1_5,"These leaders take turns flattering, it's so annoying. ""Hero of the nation"", ""model of the martial arts world"", they're just afraid of our sect attacking them, that's why they keep talking non-stop..."
-sto-KW-11_1_6,"If the king himself came to flatter, would {PlayerSurName} Sect Leader still feel annoyed?"
-sto-KW-11_1_7,"Duke Kang, you're joking. How could they compare with you?"
-sto-KW-11_1_8,You've done a great job. Such a heroic act of turning the tide is probably unprecedented since the founding of this dynasty!
-sto-KW-11_1_9,"When the mission is completely accomplished, the king will definitely have a good drink with you!"
-sto-KW-11_1_10,Then it's a deal with your highness!
+sto-KW-6_3_2,Impossible... You must have used sorcery!,เป็นไปไม่ได้... เจ้าต้องใช้วิชามารแน่ๆ!
+sto-KW-6_3_3,"Anyone better than you is sorcery, you are really a frog at the bottom of the well. No more words, die.",หากเหนือกว่าพวกเจ้าแล้วเรียกว่าวิชามาร เช่นนั้นเจ้าก็แค่กบในกะลาเท่านั้น! ไม่มีอะไรต้องพูดแล้ว ตายซะเถอะ!
+sto-KW-6_3_4,"I can't fall here, I will come back to teach you another day... Wind Escape!",ข้าจะพ่ายแพ้ที่นี่ไม่ได้! ไว้วันหน้าข้าจะกลับมาเอาคืน... วายุเร้นกาย!
+sto-KW-6_3_5,"Cough cough cough... This kid threw a strange pellet that constantly releases smoke and took the opportunity to escape, it's really shameless.",แค่กๆๆ... เจ้าเด็กนั่นโยนลูกกลมประหลาดออกมา ปล่อยควันปกคลุมไปทั่ว แล้วฉวยโอกาสหนีไป ช่างไร้ยางอายยิ่งนัก!
+sto-KW-6_3_6,"But I gave him a good beating, which is a good name for the Central Plains Martial Arts.",แต่ก็นับว่าได้ซัดมันจนสะบักสะบอม ถือเป็นการล้างแค้นให้กับวรยุทธแห่งจงหยวนแล้ว!
+sto-KW-6_4_1,"This kid's knife technique is very strange, it's really tricky at first sight...",กระบวนท่าดาบของมันประหลาดยิ่งนัก ตอนแรกที่ปะทะกัน ข้ายอมรับว่าเอาชนะได้ไม่ง่ายเลย...
+sto-KW-6_4_2,"Those Vagabonds who were defeated by me blew {MyFaction} to the sky, today it seems, it's simply ridiculous.",พวกที่ข้าสยบมา ล้วนกล่าวยกย่อง {MyFaction} ว่าเป็นสำนักไร้เทียมทาน แต่วันนี้ข้ากลับเห็นเป็นเรื่องขบขัน!
+sto-KW-6_4_3,"You embroidered pillow is not worthy to die under my knife, get out!",คนอย่างเจ้าก็แค่หมอนรองเข็ม ไม่คู่ควรตายใต้คมดาบของข้า! ไสหัวไปซะ!
+sto-KW-6_5_1,"Master, that Japanese ronin saw that our sect was always closed and not coming out, so he spread rumors everywhere that our sect was timid and afraid. If this word reaches Duke Kang's ears, I'm afraid it will make the Duke unhappy with us.",ท่านเจ้าสำนัก เจ้าโรนินจากดินแดนอาทิตย์อุทัยเห็นว่าสำนักของเราไม่ยอมรับคำท้า จึงเที่ยวป่าวประกาศว่าพวกเราขี้ขลาด! หากข่าวนี้ลอยไปถึงหูอ๋องคัง เกรงว่าท่านอาจมองเราด้วยสายตาไม่พอใจ...
+sto-KW-6_5_2,"Things have come to this, there is no room for recovery, let's leave it at that.",ถึงขั้นนี้แล้ว คงไม่มีทางแก้ไขอะไรได้ ปล่อยให้เป็นไปเถอะ
+sto-KW-7_1_1,"{PlayerSurName} Master, Duke Kang has specially sent me to deliver a verbal message.",ท่านเจ้าสำนัก{PlayerSurName} อ๋องคังมีราชโองการให้ข้ามาแจ้งแก่ท่าน!
+sto-KW-7_1_2,"Great Ant City, as a foreign race, belittles the Central Plains Martial Arts and interferes with the internal affairs of China. He specially sent {MyFaction} to destroy it with all his strength, recover the lost land of Lin'an, and show the might of our country!",เมืองผีฝูเป็นดินแดนของต่างเผ่า ไม่เพียงดูแคลนวรยุทธแห่งจงหยวน ยังคิดแทรกแซงราชกิจของแผ่นดินฮั่น! ขอให้ {MyFaction} ระดมกำลัง กวาดล้างมันให้สิ้นซาก! ชิงดินแดนหลินอันกลับคืนเพื่อประกาศความเกรียงไกรของแผ่นดินเรา!
+sto-KW-7_1_3,"The Duke has ordered, our sect will naturally comply!",ในเมื่อท่านอ๋องทรงรับสั่ง สำนักของเราย่อมปฏิบัติตาม!
+sto-KW-7_log,Eliminate the forces of Great Ant City,กวาดล้างกองกำลังของเมืองผีฝู
+sto-KW-8_1_1,"Master, that Great Ant City has too many grievances, and before our sect could take action, it was already wiped out by other sects.",ท่านเจ้าสำนัก เมืองผีฝูสร้างเรื่องไว้มากมาย ยังไม่ทันที่พวกเราจะได้ลงมือ พวกมันก็ถูกสำนักอื่นกวาดล้างไปจนสิ้นแล้ว
+sto-KW-8_1_2,"It's important to know oneself, otherwise it will end up like Great Ant City. Don't worry about it, just continue to develop our sect.",มนุษย์พึงรู้จักประมาณตน หาไม่แล้วก็ต้องลงเอยดั่งเมืองผีฝูเช่นนี้! ปล่อยพวกมันไป แล้วมุ่งพัฒนาสำนักของเราดีกว่า
+sto-KW-8_2_1,"The glory and ambition of the Liusheng family were destroyed along with the Great Ant City\nFrom Yagyū Musashi and below\nAlmost all the culprits were caught in one fell swoop, locked up in the death cell of Lin'an City\nOnly the princess of Great Ant City is missing, suspected to be wandering in the rivers and lakes...","เกียรติและความทะเยอทะยานของตระกูลยางิว พังพินาศไปพร้อมกับเมืองผีฝู\nนับตั้งแต่ยางิว มุซาชิลงไป\nเหล่าคนชั่วทั้งปวงล้วนถูกกวาดล้าง และถูกคุมขังในคุกเดนตายแห่งเมืองหลินอัน\nเว้นเสียแต่เพียงองค์หญิงแห่งเมืองผีฝู ที่ยังไร้ร่องรอย บางทีอาจเร่ร่อนอยู่ในยุทธภพ..."
+sto-KW-8_2_2,"Sixty years in a dream, a cycle of decay and prosperity in a cup of wine...",หกสิบปีสูญสิ้นเพียงพริบตา ชีวิตหมุนเวียนดั่งสุราในจอกเดียว...
+sto-KW-8_2_3,"It's important to know oneself, or else you'll end up like Great Ant City!",มนุษย์พึงรู้จักประมาณตน หาไม่แล้วก็ต้องลงเอยดั่งเมืองผีฝู!
+sto-KW-8_2_4,"The once arrogant Great Ant City fell at the hands of {MyFaction}, bringing our sect's ideal of Dominating the Martial World one step closer!",เมืองผีฝูที่ยิ่งใหญ่เคยคิดว่าตนจะยืนยง ทว่าบัดนี้ต้องมลายหายไปใต้เงาของ{MyFaction} ความฝันการรวมยุทธภพให้เป็นหนึ่งของเรา ก้าวหน้าไปอีกขั้นแล้ว!
+sto-KW-8_log,"Continue to develop the sect, expand the territory",พัฒนาและขยายอาณาเขตของสำนัก
+sto-KW-9_1_1,"The Central Plains have always been divided, and now they are even more consumed by internal strife, leaving only a tenth of their national strength. Truly, heaven blesses the Great Yan Kingdom!",แผ่นดินจงหยวนแต่ไหนแต่ไรมา ต่างแตกแยกเป็นเสี่ยงๆ บัดนี้ยิ่งร้าวลึกจนแผ่นดินเสียหายไปกว่าครึ่ง! ฟ้าดินคงจะเมตตาแคว้นเยี่ยนที่ยิ่งใหญ่แล้วกระมัง!
+sto-KW-9_1_2,"Yan Yun Iron Army, heed my command, we march south today!",กองทัพเหล็กเยี่ยนหยุน ฟังคำสั่งข้า! ออกเดินทัพในทันที! วันนี้เราจะตีฝั่งใต้ให้ราบ!
+sto-KW-9_1_3,"Sect Leader, the Yan Yun Iron Army that has been entrenched in Yan Yun has taken advantage of Zhao's internal strife, revealing their fangs, mobilizing their army and quickly capturing Daliang City. Chu Xiang and Lin An are now unprotected, they're in grave danger.",ท่านเจ้าสำนัก กองทัพเหล็กเยี่ยนหยุนที่ตั้งมั่นอยู่ทางเหนือ ฉวยโอกาสที่แผ่นดินจ้าวกำลังอ่อนแอ พวกมันระดมกำลังบุกเข้าตีเมืองต้าเหลียงในพริบตา! ตอนนี้ฉู่เซียงและหลินอันไร้ซึ่งการป้องกัน ช่างอันตรายยิ่งนัก
+sto-KW-9_1_4,"The Yan Yun Iron Army has been operating in the Yan Yun camp for many years, and now they are heading south with full force, they must have made thorough preparations...",กองทัพเหล็กเยี่ยนหยุนซุ่มซ่อนกำลังมานาน บัดนี้ย่อมเตรียมทุกอย่างไว้พร้อมแล้ว...
+sto-KW-9_1_5,"Duke Kang has sent another oral decree, he believes that the situation in Zhao is extremely urgent, and orders our sect to do everything possible to firmly control Daliang, Lin An, and Chu Xiang, and defend them for at least <color=#a94e37>three months</color> to prevent any accidents.","อ๋องคังทรงมีราชโองการด่วน! ทรงเห็นว่าแผ่นดินจ้าวบัดนี้อยู่ในช่วงวิกฤติที่สุด พระองค์จึงมีรับสั่งให้สำนักของเรายึดครองต้าเหลียง, หลินอัน และฉู่เซียง ให้อยู่ภายใต้การควบคุมโดยเด็ดขาด และต้องป้องกันไว้ให้ได้ไม่น้อยกว่า <color=#a94e37>สามเดือน</color> เพื่อรอดูท่าทีของศัตรู!"
+sto-KW-9_1_6,"Let's do as Duke Kang says. The Yan army is powerful and wherever they go, people will inevitably surrender. Besides our sect, he has no one else to rely on.",ทำตามที่อ๋องคังสั่งเถอะ! กองทัพเยี่ยนกำลังรุกไล่อย่างหนัก บางเมืองอาจมีคนที่ยอมสวามิภักดิ์โดยง่าย แต่เหนืออื่นใด นอกจากสำนักของเราแล้ว อ๋องคังก็คงไม่มีใครให้พึ่งพาอีกแล้ว
+sto-KW-9_log,"Help Duke Kang control Daliang, Lin An, and Chu Xiang, and defend them for three months",ช่วยอ๋องคังควบคุมสามเมืองหลัก และป้องกันเป็นเวลาสามเดือน!
+sto-KW-10_1_1,"Leader, the commander of the Yan Yun Iron Army, Wanyan Wuzhu, has sent a secret letter...",ท่านเจ้าสำนัก แม่ทัพใหญ่แห่งกองทัพเหล็กเยี่ยนหยุน หวันเหยียนอู๋จู ส่งสารลับมาให้เรา...
+sto-KW-10_1_2,"Very well, it seems that our defense of the three main cities has seriously hindered the Yan army's invasion plan. Let me see what this guy has to say!",ดี! ดูท่าการที่พวกเรายึดครองสามเมืองนี้ไว้ กำลังขัดขวางแผนบุกของกองทัพเยี่ยนอย่างหนัก ข้าขอดูหน่อยเถอะ หวันเหยียนอู๋จูจะมีแผนอะไรมาต่อรองกับข้า!
+sto-KW-10_1_3,"You open the secret letter and read it carefully\nThe letter is half threat, half temptation\nBut there is a hint of negotiation hidden between the lines\nAfter reading the whole letter, you can't help but laugh out loud\nWanyan Wuzhu's intentions are clear...","เจ้าคลี่จดหมายออกอ่านอย่างละเอียด\nในสารมีทั้งคำข่มขู่และการล่อลวง\nแต่ในถ้อยคำบางประโยค กลับแฝงนัยของการเจรจาเอาไว้เล็กน้อย\nเมื่ออ่านจนจบ เจ้าถึงกับหัวเราะออกมาเบาๆ\nในที่สุดก็เข้าใจแล้วว่า หวันเหยียนอู๋จูคิดอะไรอยู่..."
+sto-KW-10_1_4,Where is the messenger?,คนส่งสารไปแล้วหรือยัง?
+sto-KW-10_1_5,The Yan soldier disguised as a Zhao person has been captured by our disciples.,ทหารแคว้นเยียนที่ปลอมเป็นคนแคว้นจ้าว เหล่าศิษย์ได้ควบคุมตัวไว้แล้ว
+sto-KW-10_1_6,"Let him go, and tell him to pass on a message. If Wanyan Wuzhu is willing to come to our sect and apologize in person, I, being generous, will let him off the hook.",ปล่อยเขาไปเถอะ ให้เขานำสารกลับไปแจ้งด้วยว่า หากว่านายของเขา หวันเหยียนอู๋จู ยอมเปลื้องเสื้อแบกแกะมาเข้าเฝ้า ข้าผู้ใจกว้างดั่งมหาสมุทร ย่อมจะละเว้นชีวิตเขา!
+sto-KW-10_1_7,"Yes, I'll go and do it right away.",ขอรับ ข้าจะรีบดำเนินการเดี๋ยวนี้
+sto-KW-10_1_8,"Just as you expected\nWanyan Wuzhu is furious upon receiving your message\nHe orders all Yan troops to prioritize attacking {MyFaction}\nThe trap is half set\nThe world's safety seems to be in your hands...","เป็นไปตามที่เจ้าคาดการณ์ไว้ทุกประการ\nหวันเหยียนอู๋จูได้รับสารของเจ้า เขาก็เดือดดาลเป็นฟืนเป็นไฟ\nเขาสั่งให้กองทัพเยียนโจมตี {MyFaction} อย่างเต็มกำลัง\nแผนล่อศัตรูเข้ากรงกับดัก สำเร็จไปครึ่งหนึ่งแล้ว\nชะตากรรมของแผ่นดิน ดูเหมือนจะขึ้นอยู่กับฝ่ามือของเจ้าเพียงผู้เดียว..."
+sto-KW-10_log,"Advance into Yan Yun Region, completely eliminate Yan Yun Iron Army",มุ่งหน้าสู่แดนเยี่ยนหยุน กวาดล้างกองทัพเหล็กเยี่ยนหยุนให้สิ้นซาก
+sto-KW-10_2_1,"Damn it, the three main cities have fallen one after another, both our sect and Zhao have lost their last resistance skill...",แย่แล้ว! ทั้งสามเมืองหลักล้วนตกเป็นของข้าศึกหมดแล้ว ไม่ว่าศิษย์สำนักเรา หรือกองทัพแคว้นจ้าว ต่างก็หมดสิ้นหนทางต่อต้าน...
+sto-KW-10_2_2,"The ancient saying ""unable to turn the tide"" probably refers to this situation...",คนโบราณกล่าวว่า 'ไร้เรี่ยวแรงพลิกฟ้าคืนแผ่นดิน' เกรงว่าคงเป็นสภาพเช่นนี้กระมัง...
+sto-KW-11_1_1,"This was Wanyan Wuzhu's best chance to destroy Zhao\nBut you, a rising star, thwarted it\nThe grand camp that stood in Yan Yun for decades\nHas returned to Zhao's embrace today...","นี่ควรเป็นโอกาสทองที่สุดของหวันเหยียนอู๋จูในการทำลายแคว้นจ้าวให้สิ้น\nทว่าการปรากฏตัวของเจ้ากลับทำให้ทุกอย่างพังทลาย\nค่ายทัพมหึมาแห่งเยี่ยนหยุน ที่ตั้งตระหง่านมากว่าหลายสิบปี\nวันนี้ กลับคืนสู่อ้อมอกของแคว้นจ้าวอีกครั้ง..."
+sto-KW-11_1_2,"In my next life, I will never lose again...",ในชาติหน้า... แม่ทัพผู้นี้จะไม่มีวันพ่ายแพ้อีก...
+sto-KW-11_1_3,So tired... Have all the leaders of the major sects left?,เหนื่อยเหลือเกิน... เหล่าเจ้าสำนักต่างๆ ไปหมดแล้วใช่หรือไม่?
+sto-KW-11_1_4,"Reporting to the leader, they have all left.",กราบเรียนท่านเจ้าสำนัก ทุกคนล้วนกลับไปหมดแล้ว
+sto-KW-11_1_5,"These leaders take turns flattering, it's so annoying. ""Hero of the nation"", ""model of the martial arts world"", they're just afraid of our sect attacking them, that's why they keep talking non-stop...",พวกเขาผลัดกันสรรเสริญเจ้าเสียจนน่ารำคาญนัก 'วีรบุรุษแห่งแผ่นดิน' หรือ 'แบบอย่างแห่งยุทธภพ' ก็เพียงเพราะกลัวว่าสำนักของเราจะโจมตีพวกเขา จึงต้องพร่ำชมมิรู้จบ...
+sto-KW-11_1_6,"If the king himself came to flatter, would {PlayerSurName} Sect Leader still feel annoyed?",หากเป็นฮ่องเต้ที่เอ่ยคำสรรเสริญบ้าง ท่านเจ้าสำนัก{PlayerSurName} คงจะยังรู้สึกรำคาญอีกหรือไม่?
+sto-KW-11_1_7,"Duke Kang, you're joking. How could they compare with you?",ท่านอ๋องคัง ทรงล้อเล่นแล้ว เหล่าเจ้าสำนักเหล่านั้น จะเอาอะไรมาเทียบกับพระองค์ได้?
+sto-KW-11_1_8,You've done a great job. Such a heroic act of turning the tide is probably unprecedented since the founding of this dynasty!,เจ้าทำได้ดีมาก! การพลิกสถานการณ์เช่นนี้ นับแต่สถาปนาแผ่นดินมายังไม่เคยมีมาก่อน!
+sto-KW-11_1_9,"When the mission is completely accomplished, the king will definitely have a good drink with you!",เมื่อถึงวันที่ภารกิจลุล่วง ข้ากับเจ้าต้องร่ำสุราให้สาแก่ใจสักครา!
+sto-KW-11_1_10,Then it's a deal with your highness!,ตามที่ท่านอ๋องรับสั่งเป็นอันตกลงตามนั้น!
 sto-KW-11_1_11,"Although you have eliminated all the internal and external troubles of Me country, there is still a hidden worry that often makes the king worry... It's the descendant of the former dynasty who holds the Dan book and iron ticket - King Chai!",ในปัจจุบัน แม้ว่าเจ้าจะกำจัดปัญหาทั้งภายในและภายนอกของประเทศไปเกือบหมดแล้ว แต่ยังมีความกังวลอีกอย่างนึง ซึ่งทำให้ข้าต้องเป็นห่วงอยู่เสมอ... นั่นก็คือผู้สืบทอดจากราชวงศ์ก่อนหน้านี้ที่ถือป้ายเหล็กอักษรชาด — อ๋องไฉ! 
 sto-KW-11_1_12,"{PlayerSurName} I'm a bit confused. Even if King Chai is extremely capable, how can he compare with you, your highness?"
 sto-KW-11_1_13,"King Chai is a Strategic Mastermind. {PlayerSurName} Sect Leader must not know that the well-informed and omnipresent Rumor Platform was established by King Chai himself. Besides, he is always Graceful Dance, and there are people from all major sects who are friends with him."
@@ -919,56 +919,56 @@ sto-CW-6_1_2,"I heard that there is a madman from Great Ant City who keeps chall
 sto-CW-6_1_3,"Since he dares to come to our sect, he should be prepared to shake the tree like a dragonfly!"
 sto-CW-6_name,Great Ant City Ronin
 sto-CW-6_log,Dispatch Disciple to duel with the challenging Great Ant City Ronin
-sto-CW-6_2_1,Where is the challenger?
-sto-CW-6_2_2,{MyFaction} Are you sending such a thing to die?
-sto-CW-6_2_3,"You are the one who came to the door, yet you dare to be so arrogant and ignorant, talking big."
-sto-CW-6_2_4,"Remember, I am Hattori Hyoe, the deputy city lord of Great Ant City, here to send you on your way."
-sto-CW-6_2_5,"Central Plains Martial Arts is nothing more than a juggling act to please the crowd, let us Japanese warriors break your proud backbone!"
+sto-CW-6_2_1,Where is the challenger?,คนที่มาท้าทายข้าอยู่ที่ใด?
+sto-CW-6_2_2,{MyFaction} Are you sending such a thing to die?,{MyFaction} ส่งพวกกระจอกอย่างเจ้ามาเป็นตัวตายตัวแทนหรือ?
+sto-CW-6_2_3,"You are the one who came to the door, yet you dare to be so arrogant and ignorant, talking big.",เจ้ามันเป็นฝ่ายเสนอหน้ามาเอง ยังกล้าหยิ่งผยองปากกล้าเช่นนี้อีกหรือ
+sto-CW-6_2_4,"Remember, I am Hattori Hyoe, the deputy city lord of Great Ant City, here to send you on your way.",จำชื่อข้าไว้ให้ดี! ข้าคือ ฮัตโตริ เฮียวเอะ รองเจ้าเมืองผีฝู วันนี้มาเพื่อส่งเจ้าลงนรก
+sto-CW-6_2_5,"Central Plains Martial Arts is nothing more than a juggling act to please the crowd, let us Japanese warriors break your proud backbone!",วรยุทธแห่งจงหยวนนั้น ก็แค่การแสดงหลอกตา พวกเรานักสู้แห่งดินแดนอาทิตย์อุทัย จะบดขยี้ความหยิ่งทะนงของพวกเจ้าให้สิ้น!
 sto-CW-6_3_1,"Hmph, your Great Ant City Martial Arts is no different from children's play. Since you offend my sect, leave your life here.",เฮอะ วรยุทธ์เมืองผีฝูของเจ้าหาได้ต่างจากเด็กเล่นไม่ เมื่อเจ้ากล้าบุกสำนักข้าก็จงทิ้งชีวิตไว้ที่นี่ซะ
-sto-CW-6_3_2,Impossible... You must have used sorcery!
-sto-CW-6_3_3,"Anyone better than you is sorcery, you are really a frog at the bottom of the well. No more words, die."
-sto-CW-6_3_4,"I can't fall here, I will come back to teach you another day... Wind Escape!"
-sto-CW-6_3_5,"Cough cough cough... This kid threw a strange pellet that constantly releases smoke and took the opportunity to escape, it's really shameless."
-sto-CW-6_3_6,"But I gave him a good beating, which is a good name for the Central Plains Martial Arts."
-sto-CW-6_4_1,"This kid's knife technique is very strange, it's really tricky at first sight..."
-sto-CW-6_4_2,"Those Vagabonds who were defeated by me blew {MyFaction} to the sky, today it seems, it's simply ridiculous."
-sto-CW-6_4_3,"You embroidered pillow is not worthy to die under my knife, get out!"
+sto-CW-6_3_2,Impossible... You must have used sorcery!,เป็นไปไม่ได้... เจ้าต้องใช้วิชามารแน่ๆ!
+sto-CW-6_3_3,"Anyone better than you is sorcery, you are really a frog at the bottom of the well. No more words, die.",หากเหนือกว่าพวกเจ้าแล้วเรียกว่าวิชามาร เช่นนั้นเจ้าก็แค่กบในกะลาเท่านั้น! ไม่มีอะไรต้องพูดแล้ว ตายซะเถอะ!
+sto-CW-6_3_4,"I can't fall here, I will come back to teach you another day... Wind Escape!",ข้าจะพ่ายแพ้ที่นี่ไม่ได้! ไว้วันหน้าข้าจะกลับมาเอาคืน... วายุเร้นกาย!
+sto-CW-6_3_5,"Cough cough cough... This kid threw a strange pellet that constantly releases smoke and took the opportunity to escape, it's really shameless.",แค่กๆๆ... เจ้าเด็กนั่นโยนลูกกลมประหลาดออกมา ปล่อยควันปกคลุมไปทั่ว แล้วฉวยโอกาสหนีไป ช่างไร้ยางอายยิ่งนัก!
+sto-CW-6_3_6,"But I gave him a good beating, which is a good name for the Central Plains Martial Arts.",แต่ก็นับว่าได้ซัดมันจนสะบักสะบอม ถือเป็นการล้างแค้นให้กับวรยุทธแห่งจงหยวนแล้ว!
+sto-CW-6_4_1,"This kid's knife technique is very strange, it's really tricky at first sight...",กระบวนท่าดาบของมันประหลาดยิ่งนัก ตอนแรกที่ปะทะกัน ข้ายอมรับว่าเอาชนะได้ไม่ง่ายเลย...
+sto-CW-6_4_2,"Those Vagabonds who were defeated by me blew {MyFaction} to the sky, today it seems, it's simply ridiculous.",พวกที่ข้าสยบมา ล้วนกล่าวยกย่อง {MyFaction} ว่าเป็นสำนักไร้เทียมทาน แต่วันนี้ข้ากลับเห็นเป็นเรื่องขบขัน!
+sto-CW-6_4_3,"You embroidered pillow is not worthy to die under my knife, get out!",คนอย่างเจ้าก็แค่หมอนรองเข็ม ไม่คู่ควรตายใต้คมดาบของข้า! ไสหัวไปซะ!
 sto-CW-6_5_1,"Head, that Japanese ronin saw that our sect has been closed all the time, so he spread rumors that our sect is timid. If this reaches King Chai's ears, I'm afraid it will make his Highness unhappy with us."
-sto-CW-6_5_2,"Things have come to this, there is no room for recovery, let's leave it at that."
+sto-CW-6_5_2,"Things have come to this, there is no room for recovery, let's leave it at that.",ถึงขั้นนี้แล้ว คงไม่มีทางแก้ไขอะไรได้ ปล่อยให้เป็นไปเถอะ
 sto-CW-7_1_1,"{PlayerSurName}, King Chai has specially sent me to deliver a message."
-sto-CW-7_1_2,"Great Ant City, as a foreign race, belittles the Central Plains Martial Arts and interferes with the internal affairs of China. He specially sent {MyFaction} to destroy it with all his strength, recover the lost land of Lin'an, and show the might of our country!"
-sto-CW-7_1_3,"The Duke has ordered, our sect will naturally comply!"
-sto-CW-7_log,Eliminate the forces of Great Ant City
-sto-CW-8_1_1,"Master, that Great Ant City has too many grievances, and before our sect could take action, it was already wiped out by other sects."
-sto-CW-8_1_2,"It's important to know oneself, otherwise it will end up like Great Ant City. Don't worry about it, just continue to develop our sect."
+sto-CW-7_1_2,"Great Ant City, as a foreign race, belittles the Central Plains Martial Arts and interferes with the internal affairs of China. He specially sent {MyFaction} to destroy it with all his strength, recover the lost land of Lin'an, and show the might of our country!",เมืองผีฝูเป็นดินแดนของต่างเผ่า ไม่เพียงดูแคลนวรยุทธแห่งจงหยวน ยังคิดแทรกแซงราชกิจของแผ่นดินฮั่น! ขอให้ {MyFaction} ระดมกำลัง กวาดล้างมันให้สิ้นซาก! ชิงดินแดนหลินอันกลับคืนเพื่อประกาศความเกรียงไกรของแผ่นดินเรา!
+sto-CW-7_1_3,"The Duke has ordered, our sect will naturally comply!",ในเมื่อท่านอ๋องทรงรับสั่ง สำนักของเราย่อมปฏิบัติตาม!
+sto-CW-7_log,Eliminate the forces of Great Ant City,กวาดล้างกองกำลังของเมืองผีฝู
+sto-CW-8_1_1,"Master, that Great Ant City has too many grievances, and before our sect could take action, it was already wiped out by other sects.",ท่านเจ้าสำนัก เมืองผีฝูสร้างเรื่องไว้มากมาย ยังไม่ทันที่พวกเราจะได้ลงมือ พวกมันก็ถูกสำนักอื่นกวาดล้างไปจนสิ้นแล้ว
+sto-CW-8_1_2,"It's important to know oneself, otherwise it will end up like Great Ant City. Don't worry about it, just continue to develop our sect.",มนุษย์พึงรู้จักประมาณตน หาไม่แล้วก็ต้องลงเอยดั่งเมืองผีฝูเช่นนี้! ปล่อยพวกมันไป แล้วมุ่งพัฒนาสำนักของเราดีกว่า
 sto-CW-8_2_1,"The glory and ambition of the Liusheng family were destroyed along with the Great Ant City\nFrom Yagyū Musashi and below\nAlmost all the culprits were caught in one fell swoop, locked up in the death cells of various main cities\nOnly the princess of Great Ant City is missing, suspected to be wandering in the rivers and lakes..."
-sto-CW-8_2_2,"Sixty years in a dream, a cycle of decay and prosperity in a cup of wine..."
-sto-CW-8_2_3,"It's important to know oneself, or else you'll end up like Great Ant City!"
-sto-CW-8_2_4,"The once arrogant Great Ant City fell at the hands of {MyFaction}, bringing our sect's ideal of Dominating the Martial World one step closer!"
-sto-CW-8_log,"Continue to develop the sect, expand the territory"
-sto-CW-9_1_1,"The Central Plains have always been divided, and now they are even more consumed by internal strife, leaving only a tenth of their national strength. Truly, heaven blesses the Great Yan Kingdom!"
-sto-CW-9_1_2,"Yan Yun Iron Army, heed my command, we march south today!"
+sto-CW-8_2_2,"Sixty years in a dream, a cycle of decay and prosperity in a cup of wine...",หกสิบปีสูญสิ้นเพียงพริบตา ชีวิตหมุนเวียนดั่งสุราในจอกเดียว...
+sto-CW-8_2_3,"It's important to know oneself, or else you'll end up like Great Ant City!",มนุษย์พึงรู้จักประมาณตน หาไม่แล้วก็ต้องลงเอยดั่งเมืองผีฝู!
+sto-CW-8_2_4,"The once arrogant Great Ant City fell at the hands of {MyFaction}, bringing our sect's ideal of Dominating the Martial World one step closer!",เมืองผีฝูที่ยิ่งใหญ่เคยคิดว่าตนจะยืนยง ทว่าบัดนี้ต้องมลายหายไปใต้เงาของ{MyFaction} ความฝันการรวมยุทธภพให้เป็นหนึ่งของเรา ก้าวหน้าไปอีกขั้นแล้ว!
+sto-CW-8_log,"Continue to develop the sect, expand the territory",พัฒนาและขยายอาณาเขตของสำนัก
+sto-CW-9_1_1,"The Central Plains have always been divided, and now they are even more consumed by internal strife, leaving only a tenth of their national strength. Truly, heaven blesses the Great Yan Kingdom!",แผ่นดินจงหยวนแต่ไหนแต่ไรมา ต่างแตกแยกเป็นเสี่ยงๆ บัดนี้ยิ่งร้าวลึกจนแผ่นดินเสียหายไปกว่าครึ่ง! ฟ้าดินคงจะเมตตาแคว้นเยี่ยนที่ยิ่งใหญ่แล้วกระมัง!
+sto-CW-9_1_2,"Yan Yun Iron Army, heed my command, we march south today!",กองทัพเหล็กเยี่ยนหยุน ฟังคำสั่งข้า! ออกเดินทัพในทันที! วันนี้เราจะตีฝั่งใต้ให้ราบ!
 sto-CW-9_1_3,"Master, the Yan Yun Iron Army that has been entrenched in the Yan Yun Region has taken advantage of the internal strife in Zhao country and has completely revealed its fangs, mobilizing a large army to instantly capture Daliang City. Chu Xiang and Lin An are now without a barrier, they are in great danger."
-sto-CW-9_1_4,"The Yan Yun Iron Army has been operating in the Yan Yun camp for many years, and now they are heading south with full force, they must have made thorough preparations..."
+sto-CW-9_1_4,"The Yan Yun Iron Army has been operating in the Yan Yun camp for many years, and now they are heading south with full force, they must have made thorough preparations...",กองทัพเหล็กเยี่ยนหยุนซุ่มซ่อนกำลังมานาน บัดนี้ย่อมเตรียมทุกอย่างไว้พร้อมแล้ว...
 sto-CW-9_1_5,"King Chai has another message, his Highness thinks that the situation in Zhao is extremely urgent, and orders our sect to try our best to firmly control Daliang, Lin'an, and Chuxiang, and defend for at least <color=#a94e37>three months</color> to prevent accidents."
 sto-CW-9_1_6,"Let's do as King Chai said, the Yan army is powerful, and there will inevitably be people who surrender wherever they go. Besides our sect, he has no one else to trust."
 sto-CW-9_log,"Help King Chai, control Daliang, Lin'an, and Chuxiang, and defend for three months"
-sto-CW-10_1_1,"Leader, the commander of the Yan Yun Iron Army, Wanyan Wuzhu, has sent a secret letter..."
-sto-CW-10_1_2,"Very well, it seems that our defense of the three main cities has seriously hindered the Yan army's invasion plan. Let me see what this guy has to say!"
-sto-CW-10_1_3,"You open the secret letter and read it carefully\nThe letter is half threat, half temptation\nBut there is a hint of negotiation hidden between the lines\nAfter reading the whole letter, you can't help but laugh out loud\nWanyan Wuzhu's intentions are clear..."
-sto-CW-10_1_4,Where is the messenger?
-sto-CW-10_1_5,The Yan soldier disguised as a Zhao person has been captured by our disciples.
-sto-CW-10_1_6,"Let him go, and tell him to pass on a message. If Wanyan Wuzhu is willing to come to our sect and apologize in person, I, being generous, will let him off the hook."
-sto-CW-10_1_7,"Yes, I'll go and do it right away."
+sto-CW-10_1_1,"Leader, the commander of the Yan Yun Iron Army, Wanyan Wuzhu, has sent a secret letter...",ท่านเจ้าสำนัก แม่ทัพใหญ่แห่งกองทัพเหล็กเยี่ยนหยุน หวันเหยียนอู๋จู ส่งสารลับมาให้เรา...
+sto-CW-10_1_2,"Very well, it seems that our defense of the three main cities has seriously hindered the Yan army's invasion plan. Let me see what this guy has to say!",ดี! ดูท่าการที่พวกเรายึดครองสามเมืองนี้ไว้ กำลังขัดขวางแผนบุกของกองทัพเยี่ยนอย่างหนัก ข้าขอดูหน่อยเถอะ หวันเหยียนอู๋จูจะมีแผนอะไรมาต่อรองกับข้า!
+sto-CW-10_1_3,"You open the secret letter and read it carefully\nThe letter is half threat, half temptation\nBut there is a hint of negotiation hidden between the lines\nAfter reading the whole letter, you can't help but laugh out loud\nWanyan Wuzhu's intentions are clear...","เจ้าคลี่จดหมายออกอ่านอย่างละเอียด\nในสารมีทั้งคำข่มขู่และการล่อลวง\nแต่ในถ้อยคำบางประโยค กลับแฝงนัยของการเจรจาเอาไว้เล็กน้อย\nเมื่ออ่านจนจบ เจ้าถึงกับหัวเราะออกมาเบาๆ\nในที่สุดก็เข้าใจแล้วว่า หวันเหยียนอู๋จูคิดอะไรอยู่..."
+sto-CW-10_1_4,Where is the messenger?,คนส่งสารไปแล้วหรือยัง?
+sto-CW-10_1_5,The Yan soldier disguised as a Zhao person has been captured by our disciples.,ทหารแคว้นเยียนที่ปลอมเป็นคนแคว้นจ้าว เหล่าศิษย์ได้ควบคุมตัวไว้แล้ว
+sto-CW-10_1_6,"Let him go, and tell him to pass on a message. If Wanyan Wuzhu is willing to come to our sect and apologize in person, I, being generous, will let him off the hook.",ปล่อยเขาไปเถอะ ให้เขานำสารกลับไปแจ้งด้วยว่า หากว่านายของเขา หวันเหยียนอู๋จู ยอมเปลื้องเสื้อแบกแกะมาเข้าเฝ้า ข้าผู้ใจกว้างดั่งมหาสมุทร ย่อมจะละเว้นชีวิตเขา!
+sto-CW-10_1_7,"Yes, I'll go and do it right away.",ขอรับ ข้าจะรีบดำเนินการเดี๋ยวนี้
 sto-CW-10_1_8,"Exactly as you imagined\nWanyan Wuzhu was furious when he received your oral message\nHe ordered all Yan troops to prioritize attacking your forces\nThe trap you set is already half successful\nThe safety of the world seems to be in your hands..."
-sto-CW-10_log,"Advance into Yan Yun Region, completely eliminate Yan Yun Iron Army"
-sto-CW-10_2_1,"Damn it, the three main cities have fallen one after another, both our sect and Zhao have lost their last resistance skill..."
-sto-CW-10_2_2,"The ancient saying ""unable to turn the tide"" probably refers to this situation..."
-sto-CW-11_1_1,"This was Wanyan Wuzhu's best chance to destroy Zhao\nBut you, a rising star, thwarted it\nThe grand camp that stood in Yan Yun for decades\nHas returned to Zhao's embrace today..."
-sto-CW-11_1_2,"In my next life, I will never lose again..."
-sto-CW-11_1_3,So tired... Have all the leaders of the major sects left?
-sto-CW-11_1_4,"Reporting to the leader, they have all left."
-sto-CW-11_1_5,"These leaders take turns flattering, it's so annoying. ""Hero of the nation"", ""model of the martial arts world"", they're just afraid of our sect attacking them, that's why they keep talking non-stop..."
+sto-CW-10_log,"Advance into Yan Yun Region, completely eliminate Yan Yun Iron Army",มุ่งหน้าสู่แดนเยี่ยนหยุน กวาดล้างกองทัพเหล็กเยี่ยนหยุนให้สิ้นซาก
+sto-CW-10_2_1,"Damn it, the three main cities have fallen one after another, both our sect and Zhao have lost their last resistance skill...",แย่แล้ว! ทั้งสามเมืองหลักล้วนตกเป็นของข้าศึกหมดแล้ว ไม่ว่าศิษย์สำนักเรา หรือกองทัพแคว้นจ้าว ต่างก็หมดสิ้นหนทางต่อต้าน...
+sto-CW-10_2_2,"The ancient saying ""unable to turn the tide"" probably refers to this situation...",คนโบราณกล่าวว่า 'ไร้เรี่ยวแรงพลิกฟ้าคืนแผ่นดิน' เกรงว่าคงเป็นสภาพเช่นนี้กระมัง...
+sto-CW-11_1_1,"This was Wanyan Wuzhu's best chance to destroy Zhao\nBut you, a rising star, thwarted it\nThe grand camp that stood in Yan Yun for decades\nHas returned to Zhao's embrace today...","นี่ควรเป็นโอกาสทองที่สุดของหวันเหยียนอู๋จูในการทำลายแคว้นจ้าวให้สิ้น\nทว่าการปรากฏตัวของเจ้ากลับทำให้ทุกอย่างพังทลาย\nค่ายทัพมหึมาแห่งเยี่ยนหยุน ที่ตั้งตระหง่านมากว่าหลายสิบปี\nวันนี้ กลับคืนสู่อ้อมอกของแคว้นจ้าวอีกครั้ง..."
+sto-CW-11_1_2,"In my next life, I will never lose again...",ในชาติหน้า... แม่ทัพผู้นี้จะไม่มีวันพ่ายแพ้อีก...
+sto-CW-11_1_3,So tired... Have all the leaders of the major sects left?,เหนื่อยเหลือเกิน... เหล่าเจ้าสำนักต่างๆ ไปหมดแล้วใช่หรือไม่?
+sto-CW-11_1_4,"Reporting to the leader, they have all left.",กราบเรียนท่านเจ้าสำนัก ทุกคนล้วนกลับไปหมดแล้ว
+sto-CW-11_1_5,"These leaders take turns flattering, it's so annoying. ""Hero of the nation"", ""model of the martial arts world"", they're just afraid of our sect attacking them, that's why they keep talking non-stop...",พวกเขาผลัดกันสรรเสริญเจ้าเสียจนน่ารำคาญนัก 'วีรบุรุษแห่งแผ่นดิน' หรือ 'แบบอย่างแห่งยุทธภพ' ก็เพียงเพราะกลัวว่าสำนักของเราจะโจมตีพวกเขา จึงต้องพร่ำชมมิรู้จบ...
 sto-CW-11_1_6,It seems that the head of {PlayerSurName} has a lot of happy troubles.
 sto-CW-11_1_7,King Chai! How come you're here?
 sto-CW-11_1_8,What? Can't this king come to congratulate my trusted general who has made a great contribution to destroying the Yan Empire and restoring Zhao?
@@ -1327,55 +1327,55 @@ sto-FCT-14_1_2,"I heard that there is a madman from Great Ant City who keeps cha
 sto-FCT-14_1_3,"Since he dares to come to our sect, he should be prepared to shake the tree like a dragonfly!"
 sto-FCT-14_name,Great Ant City Ronin
 sto-FCT-14_log,Dispatch Disciple to duel with the challenging Great Ant City Ronin
-sto-FCT-14_2_1,Where is the challenger?
-sto-FCT-14_2_2,{MyFaction} Are you sending such a thing to die?
-sto-FCT-14_2_3,"You are the one who came to the door, yet you dare to be so arrogant and ignorant, talking big."
-sto-FCT-14_2_4,"Remember, I am Hattori Hyoe, the deputy city lord of Great Ant City, here to send you on your way."
-sto-FCT-14_2_5,"Central Plains Martial Arts is nothing more than a juggling act to please the crowd, let us Japanese warriors break your proud backbone!"
+sto-FCT-14_2_1,Where is the challenger?,คนที่มาท้าทายข้าอยู่ที่ใด?
+sto-FCT-14_2_2,{MyFaction} Are you sending such a thing to die?,{MyFaction} ส่งพวกกระจอกอย่างเจ้ามาเป็นตัวตายตัวแทนหรือ?
+sto-FCT-14_2_3,"You are the one who came to the door, yet you dare to be so arrogant and ignorant, talking big.",เจ้ามันเป็นฝ่ายเสนอหน้ามาเอง ยังกล้าหยิ่งผยองปากกล้าเช่นนี้อีกหรือ
+sto-FCT-14_2_4,"Remember, I am Hattori Hyoe, the deputy city lord of Great Ant City, here to send you on your way.",จำชื่อข้าไว้ให้ดี! ข้าคือ ฮัตโตริ เฮียวเอะ รองเจ้าเมืองผีฝู วันนี้มาเพื่อส่งเจ้าลงนรก
+sto-FCT-14_2_5,"Central Plains Martial Arts is nothing more than a juggling act to please the crowd, let us Japanese warriors break your proud backbone!",วรยุทธแห่งจงหยวนนั้น ก็แค่การแสดงหลอกตา พวกเรานักสู้แห่งดินแดนอาทิตย์อุทัย จะบดขยี้ความหยิ่งทะนงของพวกเจ้าให้สิ้น!
 sto-FCT-14_3_1,"Hmph, your Great Ant City Martial Arts is no different from children's play. Since you offend my sect, leave your life here.",เฮอะ วรยุทธ์เมืองผีฝูของเจ้าหาได้ต่างจากเด็กเล่นไม่ เมื่อเจ้ากล้าบุกสำนักข้าก็จงทิ้งชีวิตไว้ที่นี่ซะ
-sto-FCT-14_3_2,Impossible... You must have used sorcery!
-sto-FCT-14_3_3,"Anyone better than you is sorcery, you are really a frog at the bottom of the well. No more words, die."
-sto-FCT-14_3_4,"I can't fall here, I will come back to teach you another day... Wind Escape!"
-sto-FCT-14_3_5,"Cough cough cough... This kid threw a strange pellet that constantly releases smoke and took the opportunity to escape, it's really shameless."
-sto-FCT-14_3_6,"But I gave him a good beating, which is a good name for the Central Plains Martial Arts."
-sto-FCT-14_4_1,"This kid's knife technique is very strange, it's really tricky at first sight..."
-sto-FCT-14_4_2,"Those Vagabonds who were defeated by me blew {MyFaction} to the sky, today it seems, it's simply ridiculous."
-sto-FCT-14_4_3,"You embroidered pillow is not worthy to die under my knife, get out!"
+sto-FCT-14_3_2,Impossible... You must have used sorcery!,เป็นไปไม่ได้... เจ้าต้องใช้วิชามารแน่ๆ!
+sto-FCT-14_3_3,"Anyone better than you is sorcery, you are really a frog at the bottom of the well. No more words, die.",หากเหนือกว่าพวกเจ้าแล้วเรียกว่าวิชามาร เช่นนั้นเจ้าก็แค่กบในกะลาเท่านั้น! ไม่มีอะไรต้องพูดแล้ว ตายซะเถอะ!
+sto-FCT-14_3_4,"I can't fall here, I will come back to teach you another day... Wind Escape!",ข้าจะพ่ายแพ้ที่นี่ไม่ได้! ไว้วันหน้าข้าจะกลับมาเอาคืน... วายุเร้นกาย!
+sto-FCT-14_3_5,"Cough cough cough... This kid threw a strange pellet that constantly releases smoke and took the opportunity to escape, it's really shameless.",แค่กๆๆ... เจ้าเด็กนั่นโยนลูกกลมประหลาดออกมา ปล่อยควันปกคลุมไปทั่ว แล้วฉวยโอกาสหนีไป ช่างไร้ยางอายยิ่งนัก!
+sto-FCT-14_3_6,"But I gave him a good beating, which is a good name for the Central Plains Martial Arts.",แต่ก็นับว่าได้ซัดมันจนสะบักสะบอม ถือเป็นการล้างแค้นให้กับวรยุทธแห่งจงหยวนแล้ว!
+sto-FCT-14_4_1,"This kid's knife technique is very strange, it's really tricky at first sight...",กระบวนท่าดาบของมันประหลาดยิ่งนัก ตอนแรกที่ปะทะกัน ข้ายอมรับว่าเอาชนะได้ไม่ง่ายเลย...
+sto-FCT-14_4_2,"Those Vagabonds who were defeated by me blew {MyFaction} to the sky, today it seems, it's simply ridiculous.",พวกที่ข้าสยบมา ล้วนกล่าวยกย่อง {MyFaction} ว่าเป็นสำนักไร้เทียมทาน แต่วันนี้ข้ากลับเห็นเป็นเรื่องขบขัน!
+sto-FCT-14_4_3,"You embroidered pillow is not worthy to die under my knife, get out!",คนอย่างเจ้าก็แค่หมอนรองเข็ม ไม่คู่ควรตายใต้คมดาบของข้า! ไสหัวไปซะ!
 sto-FCT-14_5_1,"Leader, that Japanese ronin has been spreading rumors about our sect being cowardly since we've been keeping to ourselves. Many martial arts practitioners have believed these rumors and are discussing our sect."
-sto-FCT-14_5_2,"Things have come to this, there is no room for recovery, let's leave it at that."
+sto-FCT-14_5_2,"Things have come to this, there is no room for recovery, let's leave it at that.",ถึงขั้นนี้แล้ว คงไม่มีทางแก้ไขอะไรได้ ปล่อยให้เป็นไปเถอะ
 sto-FCT-15_1_1,"Leader, the ambition of this Great Ant City is growing. They are not only trying to interfere with the internal affairs of our Zhao Kingdom, but also massacring fellow martial artists, intending to destroy the Central Plains martial arts."
 sto-FCT-15_1_2,Such ambitious wolves must be eliminated by our sect as a priority!
-sto-FCT-15_name,Eliminate the forces of Great Ant City
-sto-FCT-16_1_1,"Master, that Great Ant City has too many grievances, and before our sect could take action, it was already wiped out by other sects."
-sto-FCT-16_1_2,"It's important to know oneself, otherwise it will end up like Great Ant City. Don't worry about it, just continue to develop our sect."
+sto-FCT-15_name,Eliminate the forces of Great Ant City,กวาดล้างกองกำลังของเมืองผีฝู
+sto-FCT-16_1_1,"Master, that Great Ant City has too many grievances, and before our sect could take action, it was already wiped out by other sects.",ท่านเจ้าสำนัก เมืองผีฝูสร้างเรื่องไว้มากมาย ยังไม่ทันที่พวกเราจะได้ลงมือ พวกมันก็ถูกสำนักอื่นกวาดล้างไปจนสิ้นแล้ว
+sto-FCT-16_1_2,"It's important to know oneself, otherwise it will end up like Great Ant City. Don't worry about it, just continue to develop our sect.",มนุษย์พึงรู้จักประมาณตน หาไม่แล้วก็ต้องลงเอยดั่งเมืองผีฝูเช่นนี้! ปล่อยพวกมันไป แล้วมุ่งพัฒนาสำนักของเราดีกว่า
 sto-FCT-16_2_1,"The glory and ambition of the Liusheng family were destroyed along with the Great Ant City\nFrom Yagyū Musashi and below\nAlmost all the culprits were caught in one fell swoop, locked up in the death cells of various main cities\nOnly the princess of Great Ant City is missing, suspected to be wandering in the rivers and lakes..."
-sto-FCT-16_2_2,"Sixty years in a dream, a cycle of decay and prosperity in a cup of wine..."
-sto-FCT-16_2_3,"It's important to know oneself, or else you'll end up like Great Ant City!"
-sto-FCT-16_2_4,"The once arrogant Great Ant City fell at the hands of {MyFaction}, bringing our sect's ideal of Dominating the Martial World one step closer!"
-sto-FCT-16_name,"Continue to develop the sect, expand the territory"
-sto-FCT-17_1_1,"The Central Plains have always been divided, and now they are even more consumed by internal strife, leaving only a tenth of their national strength. Truly, heaven blesses the Great Yan Kingdom!"
-sto-FCT-17_1_2,"Yan Yun Iron Army, heed my command, we march south today!"
-sto-FCT-17_1_3,"Sect Leader, the Yan Yun Iron Army that has been entrenched in Yan Yun has taken advantage of Zhao's internal strife, revealing their fangs, mobilizing their army and quickly capturing Daliang City. Chu Xiang and Lin An are now unprotected, they're in grave danger."
+sto-FCT-16_2_2,"Sixty years in a dream, a cycle of decay and prosperity in a cup of wine...",หกสิบปีสูญสิ้นเพียงพริบตา ชีวิตหมุนเวียนดั่งสุราในจอกเดียว...
+sto-FCT-16_2_3,"It's important to know oneself, or else you'll end up like Great Ant City!",มนุษย์พึงรู้จักประมาณตน หาไม่แล้วก็ต้องลงเอยดั่งเมืองผีฝู!
+sto-FCT-16_2_4,"The once arrogant Great Ant City fell at the hands of {MyFaction}, bringing our sect's ideal of Dominating the Martial World one step closer!",เมืองผีฝูที่ยิ่งใหญ่เคยคิดว่าตนจะยืนยง ทว่าบัดนี้ต้องมลายหายไปใต้เงาของ{MyFaction} ความฝันการรวมยุทธภพให้เป็นหนึ่งของเรา ก้าวหน้าไปอีกขั้นแล้ว!
+sto-FCT-16_name,"Continue to develop the sect, expand the territory",พัฒนาและขยายอาณาเขตของสำนัก
+sto-FCT-17_1_1,"The Central Plains have always been divided, and now they are even more consumed by internal strife, leaving only a tenth of their national strength. Truly, heaven blesses the Great Yan Kingdom!",แผ่นดินจงหยวนแต่ไหนแต่ไรมา ต่างแตกแยกเป็นเสี่ยงๆ บัดนี้ยิ่งร้าวลึกจนแผ่นดินเสียหายไปกว่าครึ่ง! ฟ้าดินคงจะเมตตาแคว้นเยี่ยนที่ยิ่งใหญ่แล้วกระมัง!
+sto-FCT-17_1_2,"Yan Yun Iron Army, heed my command, we march south today!",กองทัพเหล็กเยี่ยนหยุน ฟังคำสั่งข้า! ออกเดินทัพในทันที! วันนี้เราจะตีฝั่งใต้ให้ราบ!
+sto-FCT-17_1_3,"Sect Leader, the Yan Yun Iron Army that has been entrenched in Yan Yun has taken advantage of Zhao's internal strife, revealing their fangs, mobilizing their army and quickly capturing Daliang City. Chu Xiang and Lin An are now unprotected, they're in grave danger.",ท่านเจ้าสำนัก กองทัพเหล็กเยี่ยนหยุนที่ตั้งมั่นอยู่ทางเหนือ ฉวยโอกาสที่แผ่นดินจ้าวกำลังอ่อนแอ พวกมันระดมกำลังบุกเข้าตีเมืองต้าเหลียงในพริบตา! ตอนนี้ฉู่เซียงและหลินอันไร้ซึ่งการป้องกัน ช่างอันตรายยิ่งนัก
 sto-FCT-17_1_4,"The Yan Yun Iron Army has been operating in the Yan Yun camp for many years, and now they are heading south with full force, they must be fully prepared."
 sto-FCT-17_1_5,We can't just watch the Yan army march south and countless compatriots become homeless!
 sto-FCT-17_1_6,"Our sect needs to find a way to firmly control the three places of Da Liang, Lin An, and Chu Xiang, and defend them for at least <color=#a94e37>three months</color> to prevent unexpected events."
 sto-FCT-17_name,"Control Da Liang, Lin An, Chu Xiang, and defend for three months"
-sto-FCT-18_1_1,"Leader, the commander of the Yan Yun Iron Army, Wanyan Wuzhu, has sent a secret letter..."
-sto-FCT-18_1_2,"Very well, it seems that our defense of the three main cities has seriously hindered the Yan army's invasion plan. Let me see what this guy has to say!"
-sto-FCT-18_1_3,"You open the secret letter and read it carefully\nThe letter is half threat, half temptation\nBut there is a hint of negotiation hidden between the lines\nAfter reading the whole letter, you can't help but laugh out loud\nWanyan Wuzhu's intentions are clear..."
-sto-FCT-18_1_4,Where is the messenger?
-sto-FCT-18_1_5,The Yan soldier disguised as a Zhao person has been captured by our disciples.
-sto-FCT-18_1_6,"Let him go, and tell him to pass on a message. If Wanyan Wuzhu is willing to come to our sect and apologize in person, I, being generous, will let him off the hook."
-sto-FCT-18_1_7,"Yes, I'll go and do it right away."
-sto-FCT-18_1_8,"Just as you expected\nWanyan Wuzhu is furious upon receiving your message\nHe orders all Yan troops to prioritize attacking {MyFaction}\nThe trap is half set\nThe world's safety seems to be in your hands..."
-sto-FCT-18_name,"Advance into Yan Yun Region, completely eliminate Yan Yun Iron Army"
-sto-FCT-18_2_1,"Damn it, the three main cities have fallen one after another, both our sect and Zhao have lost their last resistance skill..."
-sto-FCT-18_2_2,"The ancient saying ""unable to turn the tide"" probably refers to this situation..."
-sto-FCT-19_1_1,"This was Wanyan Wuzhu's best chance to destroy Zhao\nBut you, a rising star, thwarted it\nThe grand camp that stood in Yan Yun for decades\nHas returned to Zhao's embrace today..."
-sto-FCT-19_1_2,"In my next life, I will never lose again..."
-sto-FCT-19_1_3,So tired... Have all the leaders of the major sects left?
-sto-FCT-19_1_4,"Reporting to the leader, they have all left."
-sto-FCT-19_1_5,"These leaders take turns flattering, it's so annoying. ""Hero of the nation"", ""model of the martial arts world"", they're just afraid of our sect attacking them, that's why they keep talking non-stop..."
+sto-FCT-18_1_1,"Leader, the commander of the Yan Yun Iron Army, Wanyan Wuzhu, has sent a secret letter...",ท่านเจ้าสำนัก แม่ทัพใหญ่แห่งกองทัพเหล็กเยี่ยนหยุน หวันเหยียนอู๋จู ส่งสารลับมาให้เรา...
+sto-FCT-18_1_2,"Very well, it seems that our defense of the three main cities has seriously hindered the Yan army's invasion plan. Let me see what this guy has to say!",ดี! ดูท่าการที่พวกเรายึดครองสามเมืองนี้ไว้ กำลังขัดขวางแผนบุกของกองทัพเยี่ยนอย่างหนัก ข้าขอดูหน่อยเถอะ หวันเหยียนอู๋จูจะมีแผนอะไรมาต่อรองกับข้า!
+sto-FCT-18_1_3,"You open the secret letter and read it carefully\nThe letter is half threat, half temptation\nBut there is a hint of negotiation hidden between the lines\nAfter reading the whole letter, you can't help but laugh out loud\nWanyan Wuzhu's intentions are clear...","เจ้าคลี่จดหมายออกอ่านอย่างละเอียด\nในสารมีทั้งคำข่มขู่และการล่อลวง\nแต่ในถ้อยคำบางประโยค กลับแฝงนัยของการเจรจาเอาไว้เล็กน้อย\nเมื่ออ่านจนจบ เจ้าถึงกับหัวเราะออกมาเบาๆ\nในที่สุดก็เข้าใจแล้วว่า หวันเหยียนอู๋จูคิดอะไรอยู่..."
+sto-FCT-18_1_4,Where is the messenger?,คนส่งสารไปแล้วหรือยัง?
+sto-FCT-18_1_5,The Yan soldier disguised as a Zhao person has been captured by our disciples.,ทหารแคว้นเยียนที่ปลอมเป็นคนแคว้นจ้าว เหล่าศิษย์ได้ควบคุมตัวไว้แล้ว
+sto-FCT-18_1_6,"Let him go, and tell him to pass on a message. If Wanyan Wuzhu is willing to come to our sect and apologize in person, I, being generous, will let him off the hook.",ปล่อยเขาไปเถอะ ให้เขานำสารกลับไปแจ้งด้วยว่า หากว่านายของเขา หวันเหยียนอู๋จู ยอมเปลื้องเสื้อแบกแกะมาเข้าเฝ้า ข้าผู้ใจกว้างดั่งมหาสมุทร ย่อมจะละเว้นชีวิตเขา!
+sto-FCT-18_1_7,"Yes, I'll go and do it right away.",ขอรับ ข้าจะรีบดำเนินการเดี๋ยวนี้
+sto-FCT-18_1_8,"Just as you expected\nWanyan Wuzhu is furious upon receiving your message\nHe orders all Yan troops to prioritize attacking {MyFaction}\nThe trap is half set\nThe world's safety seems to be in your hands...","เป็นไปตามที่เจ้าคาดการณ์ไว้ทุกประการ\nหวันเหยียนอู๋จูได้รับสารของเจ้า เขาก็เดือดดาลเป็นฟืนเป็นไฟ\nเขาสั่งให้กองทัพเยียนโจมตี {MyFaction} อย่างเต็มกำลัง\nแผนล่อศัตรูเข้ากรงกับดัก สำเร็จไปครึ่งหนึ่งแล้ว\nชะตากรรมของแผ่นดิน ดูเหมือนจะขึ้นอยู่กับฝ่ามือของเจ้าเพียงผู้เดียว..."
+sto-FCT-18_name,"Advance into Yan Yun Region, completely eliminate Yan Yun Iron Army",มุ่งหน้าสู่แดนเยี่ยนหยุน กวาดล้างกองทัพเหล็กเยี่ยนหยุนให้สิ้นซาก
+sto-FCT-18_2_1,"Damn it, the three main cities have fallen one after another, both our sect and Zhao have lost their last resistance skill...",แย่แล้ว! ทั้งสามเมืองหลักล้วนตกเป็นของข้าศึกหมดแล้ว ไม่ว่าศิษย์สำนักเรา หรือกองทัพแคว้นจ้าว ต่างก็หมดสิ้นหนทางต่อต้าน...
+sto-FCT-18_2_2,"The ancient saying ""unable to turn the tide"" probably refers to this situation...",คนโบราณกล่าวว่า 'ไร้เรี่ยวแรงพลิกฟ้าคืนแผ่นดิน' เกรงว่าคงเป็นสภาพเช่นนี้กระมัง...
+sto-FCT-19_1_1,"This was Wanyan Wuzhu's best chance to destroy Zhao\nBut you, a rising star, thwarted it\nThe grand camp that stood in Yan Yun for decades\nHas returned to Zhao's embrace today...","นี่ควรเป็นโอกาสทองที่สุดของหวันเหยียนอู๋จูในการทำลายแคว้นจ้าวให้สิ้น\nทว่าการปรากฏตัวของเจ้ากลับทำให้ทุกอย่างพังทลาย\nค่ายทัพมหึมาแห่งเยี่ยนหยุน ที่ตั้งตระหง่านมากว่าหลายสิบปี\nวันนี้ กลับคืนสู่อ้อมอกของแคว้นจ้าวอีกครั้ง..."
+sto-FCT-19_1_2,"In my next life, I will never lose again...",ในชาติหน้า... แม่ทัพผู้นี้จะไม่มีวันพ่ายแพ้อีก...
+sto-FCT-19_1_3,So tired... Have all the leaders of the major sects left?,เหนื่อยเหลือเกิน... เหล่าเจ้าสำนักต่างๆ ไปหมดแล้วใช่หรือไม่?
+sto-FCT-19_1_4,"Reporting to the leader, they have all left.",กราบเรียนท่านเจ้าสำนัก ทุกคนล้วนกลับไปหมดแล้ว
+sto-FCT-19_1_5,"These leaders take turns flattering, it's so annoying. ""Hero of the nation"", ""model of the martial arts world"", they're just afraid of our sect attacking them, that's why they keep talking non-stop...",พวกเขาผลัดกันสรรเสริญเจ้าเสียจนน่ารำคาญนัก 'วีรบุรุษแห่งแผ่นดิน' หรือ 'แบบอย่างแห่งยุทธภพ' ก็เพียงเพราะกลัวว่าสำนักของเราจะโจมตีพวกเขา จึงต้องพร่ำชมมิรู้จบ...
 sto-FCT-19_1_6,"During this time, I, the leader, must take a good break!"
 sto-FCT-20_1_1,"The king is a descendant of the former imperial family, and was granted the title of King Chai by the former emperor, and made a vow to support the Zhao country!"
 sto-FCT-20_1_2,"I, the king, wanted to live peacefully and end my remaining life. But unexpectedly, that {PlayerName} colluded with foreign enemies for his own selfish desires. I have learned that the invasion of Great Ant City and the Yan army were all instigated by him.",ข้าตั้งใจที่จะใช้ชีวิตอย่างสงบสุขและผ่านพ้นชีวิตที่เหลืออยู่ แต่กลับไม่คาดคิดว่า {PlayerName} จะร่วมมือกับศัตรูเพื่อผลประโยชน์ส่วนตัว ข้าได้ทราบแล้วว่า การรุกรานของเมืองผีฝูและกองทัพเยี่ยนหยุนทั้งหมดล้วนเป็นการยุยงของเขา
@@ -3056,139 +3056,139 @@ Story-part52_2_9,"It's actually a Jiuli person, obviously a spy who sneaked into
 Story-part52_2_10,"No... Caidie is not a spy, she's just helping her brother catch poisonous insects...",ไม่จริง... ไฉ่ตี้ไม่ใช่สายลับ! ข้าแค่ช่วยพี่ชายตามจับพิษร้ายเท่านั้น...
 Story-part52_2_11,"You little girl are full of lies, if you are here to catch poisonous insects, how could you let them run all over the place?",เด็กหญิงตัวเล็กเช่นเจ้า กลับกล้าโกหกได้หน้าตาเฉย หากเจ้ามาจับสัตว์พิษ แล้วเหตุใดมันถึงได้แพร่กระจายไปทั่วเล่า?
 Story-part52_2_12,"That's because Caidie is weak and couldn't carry the basket, so the little guys inside ran out...",นั่นเพราะไฉ่ตี้ตัวเล็ก แบกกระบุงไม่ไหว พอพลาดพลั้ง สัตว์พวกนี้เลยหลุดออกมา...
-Story-part52_2_13,"Uncles and sisters, don't be angry, Caidie has been trying hard to catch them these days."
-Story-part52_2_14,Catch? Catch my ass! You're clearly cursing people!
-Story-part52_2_15,"Me say don't be charmed by this little girl, the Jiuli Tribe sees us Central Plains people as alien enemies, they can't wait to curse and kill more of us!"
-Story-part52_2_16,"Exactly, let's catch this Jiuli demon girl first."
-Story-part52_2_17,"You guys are so fierce, why do you keep wronging Caidie?"
-Story-part52_2_18,"(It looks like these guys are about to attack the little girl, should I stop them?)"
-Story-part52_op_1_1,"She has offended the public, it's not wise to help"
-Story-part52_op_1_2,I can't ignore such bullying of the weak
-Story-part52_3_1,"(Although she didn't mean to harm people, this incident did indeed start because of her.)"
-Story-part52_3_2,"Die, demon girl, ah... she, she cursed Me! Help!"
-Story-part52_3_3,"Caidie won't cry, Caidie won't cry!"
-Story-part52_3_4,"Brother was right, Central Plains people are not good people!"
-Story-part52_4_1,(I can't ignore such bullying of the weak.)
-Story-part52_4_2,"Stop! This Jiuli girl is innocent and naive, she definitely doesn't mean to harm people!"
-Story-part52_4_3,"Hey, don't think that just because you're from {MyFaction}, you can protect the demon girl."
-Story-part52_4_4,"Help! {MyFaction} is colluding with the spy from Jiuli Tribe, Wolf!"
-Story-part52_4_5,You're asking for death!
-Story-part52_5_1,A tiger bullied by a dog when it falls on the plain... I underestimated my enemy...
-Story-part52_5_2,"Die, demon girl, ah... she, she cursed Me! Help!"
-Story-part52_5_3,"Caidie won't cry, Caidie won't cry!"
-Story-part52_5_4,"Brother was right, Central Plains people are not good people!"
-Story-part52_6_1,Do you want to die or leave? I'll only ask once.
-Story-part52_6_2,"Hero, we'll leave immediately, far away..."
-Story-part52_6_3,"Little girl, don't be afraid. I'm {PlayerName} from {MyFaction}. If anyone bullies you in the future, just mention these two names."
+Story-part52_2_13,"Uncles and sisters, don't be angry, Caidie has been trying hard to catch them these days.",ท่านอา ท่านพี่ทั้งหลาย อย่าโกรธเลยนะ! ช่วงนี้ไฉ่ตี้พยายามจับพวกมันอย่างสุดความสามารถแล้ว
+Story-part52_2_14,Catch? Catch my ass! You're clearly cursing people!,จับงั้นรึ? จับบ้าอะไร! เห็นชัดๆ ว่าเจ้ากำลังใช้พิษเล่นงานผู้อื่นอยู่!
+Story-part52_2_15,"Me say don't be charmed by this little girl, the Jiuli Tribe sees us Central Plains people as alien enemies, they can't wait to curse and kill more of us!",ข้าบอกพวกท่านแล้ว อย่าหลงกลเด็กน้อยนี่! พวกชนเผ่าจิ่วลี่ล้วนมองพวกเราชาวจงหยวนเป็นศัตรู คงอยากจะปล่อยพิษฆ่าพวกเราให้มากที่สุดกระมัง!
+Story-part52_2_16,"Exactly, let's catch this Jiuli demon girl first.",ใช่แล้วๆ! รีบจับนางมารน้อยจิ่วลี่นี่ไว้ก่อน
+Story-part52_2_17,"You guys are so fierce, why do you keep wronging Caidie?",พวกท่านช่างโหดร้ายนัก! ไฉ่ตี้ทำอะไรผิดกันแน่? ทำไมถึงต้องกล่าวหาไฉ่ตี้ด้วย?
+Story-part52_2_18,"(It looks like these guys are about to attack the little girl, should I stop them?)",(เห็นได้ชัดว่าพวกนั้นกำลังจะลงมือกับเด็กสาว ข้าควรเข้าไปขัดขวางหรือไม่...?)
+Story-part52_op_1_1,"She has offended the public, it's not wise to help",นางก่อความโกรธแค้นไปทั่ว เข้าไปช่วยคงไม่ใช่ความคิดที่ดี...
+Story-part52_op_1_2,I can't ignore such bullying of the weak,ข้าไม่อาจเพิกเฉยเรื่องรังแกผู้อ่อนแอเช่นนี้ได้
+Story-part52_3_1,"(Although she didn't mean to harm people, this incident did indeed start because of her.)",(แม้นางจะไม่ได้คิดร้ายต่อผู้ใด แต่เรื่องทั้งหมดก็มาจากการกระทำของนางเอง...)
+Story-part52_3_2,"Die, demon girl, ah... she, she cursed Me! Help!",ตายซะเถอะ นางมารน้อย! อ๊ากกก... นาง! นางใช้พิษกับข้า! ช่วยด้วย!
+Story-part52_3_3,"Caidie won't cry, Caidie won't cry!",ไฉ่ตี้อย่าร้องนะ ไฉ่ตี้ต้องเข้มแข็ง!
+Story-part52_3_4,"Brother was right, Central Plains people are not good people!",พี่ชายพูดถูก ชาวจงหยวนไม่มีใครเป็นคนดีทั้งนั้น!
+Story-part52_4_1,(I can't ignore such bullying of the weak.),(เรื่องรังแกเด็กผู้อ่อนแอเช่นนี้ ข้าไม่มีทางปล่อยผ่านแน่!)
+Story-part52_4_2,"Stop! This Jiuli girl is innocent and naive, she definitely doesn't mean to harm people!",หยุดเดี๋ยวนี้! เด็กสาวจิ่วลี่ผู้นี้ใสซื่อไร้เดียงสา ไม่มีวันคิดร้ายต่อผู้ใดแน่!
+Story-part52_4_3,"Hey, don't think that just because you're from {MyFaction}, you can protect the demon girl.",หึ! คิดว่ามีคนของ {MyFaction} คอยหนุนหลังแล้วจะปกป้องนางมารน้อยนี่ได้งั้นรึ?
+Story-part52_4_4,"Help! {MyFaction} is colluding with the spy from Jiuli Tribe, Wolf!",ช่วยด้วย! {MyFaction} สมคบคิดกับพวกเผ่าจิ่วลี่แล้ว!
+Story-part52_4_5,You're asking for death!,เจ้าอยากตายนักรึ!
+Story-part52_5_1,A tiger bullied by a dog when it falls on the plain... I underestimated my enemy...,พยัคฆ์ตกถ้ำ ถูกหมารังแก... ข้าประมาทเกินไป...
+Story-part52_5_2,"Die, demon girl, ah... she, she cursed Me! Help!",ตายซะเถอะ นางมารน้อย! อ๊ากกก... นาง! นางใช้พิษกับข้า! ช่วยด้วย!
+Story-part52_5_3,"Caidie won't cry, Caidie won't cry!",ไฉ่ตี้อย่าร้องนะ ไฉ่ตี้ต้องเข้มแข็ง!
+Story-part52_5_4,"Brother was right, Central Plains people are not good people!",พี่ชายพูดถูก ชาวจงหยวนไม่มีใครเป็นคนดีทั้งนั้น!
+Story-part52_6_1,Do you want to die or leave? I'll only ask once.,เจ้าอยากตาย หรืออยากไสหัวไป? ข้าจะถามแค่ครั้งเดียว
+Story-part52_6_2,"Hero, we'll leave immediately, far away...",ท่านจอมยุทธ์! พวกข้าจะรีบไปเดี๋ยวนี้ รีบไปให้ไกลเลย...
+Story-part52_6_3,"Little girl, don't be afraid. I'm {PlayerName} from {MyFaction}. If anyone bullies you in the future, just mention these two names.",แม่นางน้อย ไม่ต้องกลัวไป ข้าคือ{PlayerName} แห่ง{MyFaction} ต่อไปหากมีใครรังแกเจ้า แค่เอ่ยชื่อของข้าสองคนก็พอ!
 Story-part52_6_4,{MyFaction}……{PlayerName}……,{MyFaction}……{PlayerName}……
-Story-part52_6_5,"Caidie will remember these two names, thank you!"
-Story-part52_6_6,"Caidie needs to hurry back. If I don't bring these little ones back in time, my brother will scold me again..."
-Story-part52_7_1,"Leader, the poisonous insects of Maiden House have suddenly disappeared. I don't know why they were rampant before."
-Story-part52_7_2,"The world is full of wonders, even I, as the leader, can't figure it out."
-Story-part53_1_1,"Leader, a young girl named Miao Caidie has come to visit."
-Story-part53_1_2,"{PlayerName}, my brother and Caidie's home are gone, sob sob..."
-Story-part53_1_3,"Caidie only knows that you {MyFaction} are good people, can you please take Caidie in..."
-Story-part53_1_4,"Caidie, I've heard about the Jiuli Tribe. From now on, consider this sect your home. There will be many brothers, sisters, uncles, and aunts willing to take care of you and protect you."
-Story-part53_1_5,"This is the Manual that my brother gave to Caidie at the last moment, you can keep it."
-Story-part54_1_1,"Leader, a young girl named Miao Caidie has come to visit."
-Story-part54_1_2,"{PlayerName}, my brother said that Caidie's Gu technique has been perfected, and she needs to run away from Jiuli to find more powerful bugs."
-Story-part54_1_3,"My brother also gave Caidie a martial arts Manual that she can't understand, telling her to learn it for self-defense."
-Story-part54_1_4,"Caidie is not familiar with the Central Plains, so I want to ask you to let Caidie stay here, is that okay..."
-Story-part54_1_5,"Of course, but Caidie is a bug catcher, do you think I look like a big bug haha?"
-Story-part54_1_6,"No, not at all!"
-Story-part54_1_7,"Eh, why not?"
-Story-part54_1_8,Because you're much cuter than a big bug haha!
-Story-part55_1_1,"Leader, recently a swordsmith came to our sect to buy Ore, seems like he wants to forge a divine weapon Sharp."
-Story-part55_1_2,"Only Langya Sword Pavilion is good at sword forging in the martial arts world, I don't know which disciple it is, send someone to check it out."
+Story-part52_6_5,"Caidie will remember these two names, thank you!",ไฉ่ตี้จำชื่อพี่ได้แล้ว ขอบคุณมากนะ!
+Story-part52_6_6,"Caidie needs to hurry back. If I don't bring these little ones back in time, my brother will scold me again...",ไฉ่ตี้ต้องรีบไปแล้ว หากไม่รีบจับพวกมันกลับไปให้ทันเวลา พี่ชายต้องดุข้าแน่ๆ...
+Story-part52_7_1,"Leader, the poisonous insects of Maiden House have suddenly disappeared. I don't know why they were rampant before.",ท่านเจ้าสำนัก! อยู่ดีๆ สัตว์พิษในหอหมู่บุปผาก็หายไปหมดสิ้น ไม่รู้เหมือนกันว่าเหตุใดถึงเกิดเรื่องเช่นนี้
+Story-part52_7_2,"The world is full of wonders, even I, as the leader, can't figure it out.",โลกนี้กว้างใหญ่ มีเรื่องพิสดารนัก แม้แต่ตัวข้าเองก็อธิบายไม่ได้
+Story-part53_1_1,"Leader, a young girl named Miao Caidie has come to visit.",ท่านเจ้าสำนัก มีเด็กสาวคนหนึ่งนามว่า เมี้ยวไฉ่ตี้ ขอเข้าพบท่าน
+Story-part53_1_2,"{PlayerName}, my brother and Caidie's home are gone, sob sob...",{PlayerName}... พี่ชาย... และบ้านของไฉ่ตี้... ไม่มีอีกแล้ว... ฮือฮือ...
+Story-part53_1_3,"Caidie only knows that you {MyFaction} are good people, can you please take Caidie in...",ไฉ่ตี้รู้เพียงแค่ว่าพวกท่านแห่ง{MyFaction} เป็นคนดี ได้โปรดรับไฉ่ตี้ไว้ด้วย...
+Story-part53_1_4,"Caidie, I've heard about the Jiuli Tribe. From now on, consider this sect your home. There will be many brothers, sisters, uncles, and aunts willing to take care of you and protect you.",ไฉ่ตี้ เรื่องของเผ่าจิ่วลี่ ข้าได้ยินมาหมดแล้ว... ต่อไปเจ้าจงถือว่าสำนักนี้เป็นบ้านของเจ้าเถอะ ที่นี่มีพี่ชายพี่สาว ลุงป้าน้าอาคอยดูแลปกป้องเจ้าเสมอ
+Story-part53_1_5,"This is the Manual that my brother gave to Caidie at the last moment, you can keep it.",นี่เป็นคัมภีร์ที่พี่ชายยัดใส่มือไฉ่ตี้ไว้ในวาระสุดท้าย ไฉ่ตี้ขอมอบให้พวกท่านเก็บไว้...
+Story-part54_1_1,"Leader, a young girl named Miao Caidie has come to visit.",ท่านเจ้าสำนัก มีเด็กสาวคนหนึ่งนามว่า เมี้ยวไฉ่ตี้ ขอเข้าพบท่าน
+Story-part54_1_2,"{PlayerName}, my brother said that Caidie's Gu technique has been perfected, and she needs to run away from Jiuli to find more powerful bugs.",{PlayerName}... พี่ชายบอกว่า ตอนนี้วิชากู่พิษของไฉ่ตี้ฝึกสำเร็จแล้ว และไฉ่ตี้จึงต้องออกจากเผ่าจิ่วลี่ เพื่อไปค้นหาแมลงพิษที่ร้ายกาจยิ่งกว่าเดิม!
+Story-part54_1_3,"My brother also gave Caidie a martial arts Manual that she can't understand, telling her to learn it for self-defense.",พี่ชายยังมอบคัมภีร์วรยุทธ์เล่มหนึ่งให้ไฉ่ตี้ด้วย แต่ไฉ่ตี้อ่านไม่เข้าใจเลย... เขาบอกว่าให้ข้าฝึกไว้ป้องกันตัว
+Story-part54_1_4,"Caidie is not familiar with the Central Plains, so I want to ask you to let Caidie stay here, is that okay...",ไฉ่ตี้ยังไม่คุ้นเคยกับดินแดนจงหยวนเลย เพราะงั้นไฉ่ตี้อยากขออาศัยอยู่ที่นี่ ได้ไหม...
+Story-part54_1_5,"Of course, but Caidie is a bug catcher, do you think I look like a big bug haha?",แน่นอนสิ! แต่ไฉ่ตี้เป็นคนจับแมลงนี่นา เจ้าดูข้าเหมือนแมลงตัวใหญ่ๆ หรือเปล่า? ฮ่าฮ่าฮ่า
+Story-part54_1_6,"No, not at all!",ไม่เหมือน! ไม่เหมือนเลยสักนิด!
+Story-part54_1_7,"Eh, why not?",อ้าว? ทำไมล่ะ?
+Story-part54_1_8,Because you're much cuter than a big bug haha!,ก็เพราะท่านน่ารักกว่าพวกแมลงตั้งเยอะ! ฮ่าฮ่าฮ่า!
+Story-part55_1_1,"Leader, recently a swordsmith came to our sect to buy Ore, seems like he wants to forge a divine weapon Sharp.",ท่านเจ้าสำนัก เมื่อไม่นานมานี้ มีช่างตีดาบคนหนึ่งมาขอซื้อแร่จากสำนักของเรา ดูเหมือนเขาต้องการหลอมสร้างอาวุธวิเศษ!
+Story-part55_1_2,"Only Langya Sword Pavilion is good at sword forging in the martial arts world, I don't know which disciple it is, send someone to check it out.",ในยุทธภพ มีเพียงศาลากระบี่หลางหยาเท่านั้น ที่เชี่ยวชาญด้านการตีดาบ ไม่ทราบว่าเป็นศิษย์ของสำนักใด ส่งคนไปสืบดูหน่อยเถอะ
 Story-part55_name,Refined Steel,ขึ้นรูปเหล็กกล้า
-Story-part55_log,"A swordsmith from the Sword Pavilion has come to your sect, seems like he wants to find materials to forge a divine weapon."
-Story-part55_2_1,"Young man, the divine weapon in this blueprint can't be forged with ordinary metal..."
-Story-part55_2_2,"I know, that's why I need to buy Ore from your sect. Once I return to my sect, I will definitely repay you generously."
+Story-part55_log,"A swordsmith from the Sword Pavilion has come to your sect, seems like he wants to find materials to forge a divine weapon.",ช่างตีดาบจากกระบี่หลางหยามายังสำนักของท่าน ดูเหมือนเขากำลังมองหาวัตถุดิบเพื่อสร้างศาสตราวิเศษสักเล่ม
+Story-part55_2_1,"Young man, the divine weapon in this blueprint can't be forged with ordinary metal...",คุณชาย อาวุธวิเศษในแบบแปลนนี้ โลหะธรรมดาไม่อาจหลอมสร้างขึ้นได้...
+Story-part55_2_2,"I know, that's why I need to buy Ore from your sect. Once I return to my sect, I will definitely repay you generously.",ข้ารู้! นั่นจึงเป็นเหตุผลที่ข้าต้องมาขอซื้อแร่จากสำนักของท่าน หลังจากข้ากลับไปยังสำนัก จะต้องตอบแทนท่านอย่างหนักอย่างแน่นอน!
 Story-part55_2_3,"I have a family smelting technique that can repeatedly melt and forge a large amount of pig iron, refining a bit of Refined Steel. Although the loss is huge, it's barely enough for forging materials.",ข้ามีเทคนิคการหลอมโลหะที่สืบทอดกันมาในตระกูล ซึ่งสามารถหลอมและตีเหล็กที่ผ่านการเผาแล้วจำนวนมากซ้ำๆ เพื่อนำมาขัดเกลาเป็นเหล็กกล้าชั้นเยี่ยมได้ แม้จะสูญเสียไปมาก แต่ก็มากพอใช้เป็นวัสดุในการหลอมได้
 Story-part55_2_4,Refined Steel... Are you a descendant of Ouyezi?,ตีขึ้นรูปเหล็กกล้า... หรือเจ้าคือทายาทผู้สืบทอดของโอวเหยียจื่อหรือ?
-Story-part55_2_5,"Exactly, I am Ouye Heng from Langya Sword Pavilion. To forge this sword, I probably need 3000 Ore, I hope your sect can lend a hand."
-Story-part55_2_6,"(This person is quite obsessed with sword forging, should I help?)"
-Story-part55_op_1_1,"Sorry, our sect can't help"
-Story-part55_op_1_2,"Feel free to use it, if it's not enough, just ask our sect for more (3000 Ore)"
-Story-part55_3_1,"Sorry, our own Ore is barely enough, we really can't help."
-Story-part55_3_2,"I see... I was presumptuous, please forgive me."
-Story-part55_4_1,"Feel free to use, if not enough, you can always ask for more from our sect."
-Story-part55_4_2,Thank you for your generous help! The sword should be ready in about half a month.
-Story-part55_4_3,"After getting the Ore, Ouye Heng borrowed a Blacksmith's forge and worked day and night. Half a month passed in a blink of an eye. Just as you were about to find Ouye Heng to celebrate, he found you first."
-Story-part55_4_4,"My learning is not refined, the difficulty of forging this sword far exceeds the initial expectation. There is no shortcut, only patience and meticulousness, hammering and refining, can make it a weapon."
-Story-part55_4_5,"No problem, you just focus on forging, our sect will not interfere too much."
+Story-part55_2_5,"Exactly, I am Ouye Heng from Langya Sword Pavilion. To forge this sword, I probably need 3000 Ore, I hope your sect can lend a hand.",ถูกต้อง ข้าน้อยโอวเย่เหิง แห่งศาลากระบี่หลางหยา! ในการตีกระบี่เล่มนี้ ต้องใช้แร่ถึงสามพันก้อน หวังว่าสำนักของท่านจะช่วยเหลือข้าสักหน่อย
+Story-part55_2_6,"(This person is quite obsessed with sword forging, should I help?)",(บุรุษผู้นี้ดูคลั่งไคล้ในศาสตร์แห่งการตีดาบอย่างมาก ข้าควรช่วยเขาหรือไม่?)
+Story-part55_op_1_1,"Sorry, our sect can't help",ขออภัย สำนักของเราคงช่วยเหลือไม่ได้
+Story-part55_op_1_2,"Feel free to use it, if it's not enough, just ask our sect for more (3000 Ore)",ใช้ไปตามสบาย หากไม่พอ ก็มาขอเพิ่มได้อีก (มอบ 3000 แร่)
+Story-part55_3_1,"Sorry, our own Ore is barely enough, we really can't help.",ขออภัย สำนักของเรามีแร่ไม่มากพอ จึงไม่อาจช่วยเหลือได้จริงๆ
+Story-part55_3_2,"I see... I was presumptuous, please forgive me.",เข้าใจแล้ว… เป็นข้าที่บุ่มบ่ามไปเอง ขออภัยที่รบกวน
+Story-part55_4_1,"Feel free to use, if not enough, you can always ask for more from our sect.",ใช้ไปตามสบาย หากไม่พอ ก็มาขอเพิ่มได้อีก
+Story-part55_4_2,Thank you for your generous help! The sword should be ready in about half a month.,ขอบคุณสำหรับความเมตตาของท่าน! คาดว่าอีกครึ่งเดือน กระบี่เล่มนี้ก็จะแล้วเสร็จ!
+Story-part55_4_3,"After getting the Ore, Ouye Heng borrowed a Blacksmith's forge and worked day and night. Half a month passed in a blink of an eye. Just as you were about to find Ouye Heng to celebrate, he found you first.",หลังโอวเย่เหิงได้รับแร่แล้ว จึงยืมโรงตีเหล็กแห่งหนึ่ง แล้วลงมือตีกระบี่ทั้งวันทั้งคืน เวลาผ่านไปครึ่งเดือนในพริบตา เจ้ากำลังจะไปหาโอวเย่เหิงเพื่อร่วมยินดี ทว่าเขากลับมาหาเจ้าก่อนเสียแล้ว
+Story-part55_4_4,"My learning is not refined, the difficulty of forging this sword far exceeds the initial expectation. There is no shortcut, only patience and meticulousness, hammering and refining, can make it a weapon.",ข้ามิอาจฝึกวิชาได้ถึงขั้นสูงสุด การตีกระบี่เล่มนี้ ยากเกินกว่าที่ข้าคาดคิดแต่แรก มิอาจใช้ทางลัดได้ ต้องอาศัยความอดทนและความละเอียดทุกจังหวะของค้อนและเตาเผา จึงจะสำเร็จ
+Story-part55_4_5,"No problem, you just focus on forging, our sect will not interfere too much.",ไม่เป็นไร ท่านจงตั้งใจหลอมกระบี่ต่อไปเถิด สำนักของเราจะไม่ก้าวก่ายงานของท่าน
 Story-part55_4_6,"When smelting hundred-refined steel, I wasted a lot of ore due to improper control of the heat. I know this request is too much, but please sell another 6000 ores on credit!",เมื่อตีขึ้นรูปเหล็กกล้าไปหลายร้อยครั้ง ข้าก็เสียแร่ไปมากเพราะควบคุมอุณหภูมิไม่ดี ข้ารู้ดีว่าคำขอนี้อาจจะมากเกินไป แต่ท่านโปรดช่วยขายแร่ให้ข้าเพิ่มอีก 6000 ชิ้น แบบติดไว้ก่อนได้ไหม
 Story-part55_op_2_1,"Sorry, our sect can't help",ขออภัย สำนักของเราไม่อาจช่วยได้
-Story-part55_op_2_2,"Our sect, like Young Hero Ouye, hopes for the success of this sword (6000 Ore)."
-Story-part55_5_1,"Sorry, our own Ore is barely enough, we really can't help."
-Story-part55_5_2,"I see... I was presumptuous, please forgive me."
-Story-part55_6_1,"Our sect, like Young Hero Ouye, hopes for the success of this sword. It's just some Ore after all, we will send a Disciple to deliver it on horseback."
-Story-part55_6_2,"Thank you for your trust, I will definitely forge this sword!"
-Story-part55_7_1,"Leader, the swordsmith was in a hurry. Seeing that no one from our sect was attending to him for a long time, he turned around and left."
-Story-part55_7_2,"If he's so impatient, he probably can't forge the sword. Let him go."
-Story-part56_1_1,"{PlayerSurName} Leader, I have successfully forged the ""Legendary Blade Zhan Lu"" today!"
-Story-part56_1_2,The Ore I borrowed from your sect will be returned as soon as I get back to the Sword Pavilion. I won't delay.
-Story-part56_1_3,"Young Hero Ouye, I'm afraid you won't be able to return to the Sword Pavilion..."
+Story-part55_op_2_2,"Our sect, like Young Hero Ouye, hopes for the success of this sword (6000 Ore).",สำนักของเราก็ปรารถนาให้กระบี่เล่มนี้เสร็จสมบูรณ์เช่นกัน (มอบ 6000 แร่)
+Story-part55_5_1,"Sorry, our own Ore is barely enough, we really can't help.",ขออภัย สำนักของเรามีแร่ไม่มากพอ จึงไม่อาจช่วยเหลือได้จริงๆ
+Story-part55_5_2,"I see... I was presumptuous, please forgive me.",เข้าใจแล้ว… เป็นข้าที่บุ่มบ่ามไปเอง ขออภัยที่รบกวน
+Story-part55_6_1,"Our sect, like Young Hero Ouye, hopes for the success of this sword. It's just some Ore after all, we will send a Disciple to deliver it on horseback.",สำนักของเราก็ปรารถนาให้กระบี่เล่มนี้สำเร็จเช่นกัน ไม่ใช่เรื่องใหญ่ แค่แร่เท่านั้น เดี๋ยวจะให้ศิษย์ไปนำมาให้
+Story-part55_6_2,"Thank you for your trust, I will definitely forge this sword!",ขอบคุณสำหรับความไว้วางใจของท่าน! ข้าจะหลอมกระบี่ให้สำเร็จให้จงได้!
+Story-part55_7_1,"Leader, the swordsmith was in a hurry. Seeing that no one from our sect was attending to him for a long time, he turned around and left.",ท่านเจ้าสำนัก ช่างตีดาบผู้นั้นร้อนใจนัก เมื่อเห็นว่าสำนักของเราล่าช้าในการต้อนรับ จึงหันหลังจากไปทันที
+Story-part55_7_2,"If he's so impatient, he probably can't forge the sword. Let him go.",คนใจร้อนเช่นนี้ คงไม่อาจตีดาบได้สำเร็จ ปล่อยเขาไปเถอะ
+Story-part56_1_1,"{PlayerSurName} Leader, I have successfully forged the ""Legendary Blade Zhan Lu"" today!","ท่านเจ้าสำนัก{PlayerSurName} ในที่สุดข้าก็ไม่ทำให้ท่านผิดหวัง! ""กระบี่จ้านหลู"" ได้ถือกำเนิดขึ้นมาแล้ว!"
+Story-part56_1_2,The Ore I borrowed from your sect will be returned as soon as I get back to the Sword Pavilion. I won't delay.,ส่วนแร่ที่ข้าขอจากสำนักของท่าน ข้าจะรีบนำกลับมาคืน หลังจากกลับไปที่ศาลากระบี่หลางหยาโดยเร็ว!
+Story-part56_1_3,"Young Hero Ouye, I'm afraid you won't be able to return to the Sword Pavilion...",ท่านโอวเย่! ข้าเห็นที่เกรงว่าตอนนี้ ท่านคงกลับไปที่ศาลากระบี่หลางหยาไม่ได้อีกแล้ว...
 Story-part56_1_4,"{PlayerSurName} Leader, what do you mean by that?",ท่านผู้นำ {PlayerSurName} ท่านต้องการจะสื่ออะไรกันแน่?
 Story-part56_1_5,"During the time you were secluded for forging, the Langya Sword Pavilion was unexpectedly involved in the martial arts disputes and has been destroyed by other sects...",ในช่วงเวลาที่เจ้าไม่อยู่ ศาลากระบี่หลางหยา ถูกทำลายลงอย่างย่อยยับโดยสำนักอื่นที่เข้ามาเกี่ยวข้องในสงครามยุทธภพ
-Story-part56_1_6,"No, that's impossible! My master's swordsmanship is divine, and my senior brother is brilliant. How could this happen?"
-Story-part56_1_7,"Young Hero Ouye, please restrain your grief. Whether what {PlayerSurName} said is true or not, you can find out by asking around."
-Story-part56_1_8,"As soon as you finished speaking, Ouye Heng rushed out of the door. A few shichen later, he appeared before you again, kneeling on both knees, his eyes red, seemingly filled with irreconcilable anger."
-Story-part56_1_9,"Ouye Heng requests to join your sect, to avenge the Sword Pavilion. This Legendary Blade Zhan Lu is my gift to the master, please accept me!"
-Story-part56_1_10,"Please get up, I agree to your request."
-Story-part57_1_1,"{PlayerSurName} Leader, I have successfully forged the ""Legendary Blade Zhan Lu"" today!"
-Story-part57_1_2,The Ore I borrowed from your sect will be returned as soon as I get back to the Sword Pavilion. I won't delay.
-Story-part57_1_3,"Your master, Senior Jian Chi, sent a letter asking you to stay in our sect for a while."
-Story-part57_1_4,"Impossible, let me see the letter from my master!"
-Story-part57_1_5,So my master didn't teach me swordsmanship because he was worried that the huge changes in my youth would lead to inner demons and fall into the evil path.
-Story-part57_1_6,"The Legendary Blade Zhan Lu is a sword of benevolence. Since I was able to forge it today, it means that my inner demons are gone. All of this is thanks to {MyFaction}, and I must repay this great kindness."
-Story-part57_1_7,"{PlayerSurName} Leader, I am willing to stay for a while and forge swords for your sect until I repay my gratitude."
-Story-part57_1_8,"This Legendary Blade Zhan Lu is a gift to your sect, consider it as the cost of borrowing the Ore."
-Story-part58_1_1,"Leader, it is said that there are often hot waves coming from the Flame Toad Cave, as if there is something extremely hot inside."
-Story-part58_1_2,It's probably either a strange beast or a treasure. Send a Disciple to check it out.
-Story-part58_name,Strange news about the Flame Toad.
-Story-part58_log,"Heat waves often hit you in the face in the Flame Toad Cave, suggesting that something special might be hidden inside."
-Story-part58_2_1,"Since our sect took over the surrounding area, this is my first time coming to the Flame Toad Cave."
-Story-part58_2_2,"We didn't go far into the cave before a heat wave hit us, now we've gone deep, it's like being roasted on a stove."
-Story-part58_2_3,"Don't rush, let's explore slowly. At least we need to find the source of the heat."
-Story-part58_2_4,"Eh? There's someone lying over there, let's go check it out."
-Story-part58_2_5,"Be careful, there's an animal attacking!"
-Story-part58_3_1,"These fire lizards are not only powerful, but also extremely hot. Our martial arts can't handle them, let's retreat to the cave entrance!"
-Story-part58_4_1,"No matter how powerful they are, they are just brainless beasts. It's a good idea to take them back to the sect and let Cook make fire lizard skewers."
-Story-part58_4_2,The person lying on the ground seems to have moved suddenly...
-Story-part58_4_3,"Brother, are you okay? You seem to have open wounds from fire lizard bites all over you..."
-Story-part58_4_4,I... I'm fine...
-Story-part58_4_5,How can you be fine in such high temperatures? Hiss... half of your face is already...
-Story-part58_4_6,"I am He Denuo, thank you both for saving me."
-Story-part58_4_7,"Because of the Flame Toad Technique I learned from this cave, not only is my appearance half-ruined, but I also suffer from the pain of fire poison every day."
+Story-part56_1_6,"No, that's impossible! My master's swordsmanship is divine, and my senior brother is brilliant. How could this happen?",ไม่! เป็นไปไม่ได้! อาจารย์ของข้าเชี่ยวชาญวิชากระบี่ถึงขั้นเหนือมนุษย์ ศิษย์พี่ของข้าก็อัจฉริยะล้ำเลิศ เหตุใดจะเกิดเรื่องเช่นนี้ขึ้นได้!?
+Story-part56_1_7,"Young Hero Ouye, please restrain your grief. Whether what {PlayerSurName} said is true or not, you can find out by asking around.",ท่านโอวเย่ ขอให้ท่านทำใจให้ได้ หากยังไม่แน่ใจในคำพูดของข้า{PlayerSurName} ท่านลองไปสืบดูเองเถิด
+Story-part56_1_8,"As soon as you finished speaking, Ouye Heng rushed out of the door. A few shichen later, he appeared before you again, kneeling on both knees, his eyes red, seemingly filled with irreconcilable anger.",เจ้าพูดยังไม่ทันขาดคำ โอวเย่เหิงก็วิ่งออกจากสำนักไปทันที ผ่านไปเพียงไม่กี่ชั่วยาม เขาก็กลับมาอีกครั้ง คุกเข่าลงต่อหน้าเจ้า ดวงตาแดงก่ำ เต็มไปด้วยเพลิงโทสะที่ไม่อาจมอดดับ
+Story-part56_1_9,"Ouye Heng requests to join your sect, to avenge the Sword Pavilion. This Legendary Blade Zhan Lu is my gift to the master, please accept me!",โอวเย่เหิง ขอเข้าร่วมสำนักของท่าน เพื่อแก้แค้นให้กับศาลากระบี่หลางหยา! กระบี่จ้านหลูเล่มนี้ ขอถวายให้เป็นของขวัญฝากตัว! ขอท่านเจ้าสำนักโปรดรับข้าไว้ด้วย!
+Story-part56_1_10,"Please get up, I agree to your request.",ลุกขึ้นเถอะ สำนักของข้ายินดีรับเจ้า
+Story-part57_1_1,"{PlayerSurName} Leader, I have successfully forged the ""Legendary Blade Zhan Lu"" today!","ท่านเจ้าสำนัก{PlayerSurName} ในที่สุดข้าก็ไม่ทำให้ท่านผิดหวัง! ""กระบี่จ้านหลู"" ได้ถือกำเนิดขึ้นมาแล้ว!"
+Story-part57_1_2,The Ore I borrowed from your sect will be returned as soon as I get back to the Sword Pavilion. I won't delay.,ส่วนแร่ที่ข้าขอจากสำนักของท่าน ข้าจะรีบนำกลับมาคืน หลังจากกลับไปที่ศาลากระบี่หลางหยาโดยเร็ว!
+Story-part57_1_3,"Your master, Senior Jian Chi, sent a letter asking you to stay in our sect for a while.",อาจารย์ของเจ้า ผู้อาวุโสมารกระบี่ ส่งจดหมายมา ต้องการให้เจ้าพำนักอยู่ที่สำนักของเราชั่วระยะหนึ่ง
+Story-part57_1_4,"Impossible, let me see the letter from my master!",เป็นไปไม่ได้! ขอข้าดูจดหมายของอาจารย์หน่อย!
+Story-part57_1_5,So my master didn't teach me swordsmanship because he was worried that the huge changes in my youth would lead to inner demons and fall into the evil path.,ที่แท้ อาจารย์ไม่เคยถ่ายทอดวิชากระบี่ให้ข้าเลย ก็เพราะหวั่นเกรงว่าเหตุการณ์เปลี่ยนแปลงในวัยเยาว์ของข้า อาจปลุกมารในใจและทำให้ข้าหลงเข้าสู่ทางมาร
+Story-part57_1_6,"The Legendary Blade Zhan Lu is a sword of benevolence. Since I was able to forge it today, it means that my inner demons are gone. All of this is thanks to {MyFaction}, and I must repay this great kindness.",กระบี่จ้านหลู เป็นกระบี่แห่งคุณธรรม... หากวันนี้ข้าหลอมมันขึ้นได้ นั่นย่อมหมายความว่ามารในใจของข้าได้ถูกขจัดสิ้นแล้ว และทั้งหมดนี้เป็นเพราะ{MyFaction} ได้ช่วยเหลือข้า ข้ามิอาจไม่ตอบแทนบุญคุณนี้ได้
+Story-part57_1_7,"{PlayerSurName} Leader, I am willing to stay for a while and forge swords for your sect until I repay my gratitude.",ท่านเจ้าสำนัก{PlayerSurName} ข้ายินดีอยู่ที่สำนักนี้ชั่วระยะหนึ่ง คอยตีเหล็กและหลอมดาบให้กับพวกท่าน จนกว่าข้าจะชดใช้บุญคุณได้หมด
+Story-part57_1_8,"This Legendary Blade Zhan Lu is a gift to your sect, consider it as the cost of borrowing the Ore.",กระบี่จ้านหลูเล่มนี้ ขอมอบให้เป็นของตอบแทนสำนักท่าน เพื่อเป็นค่าตอบแทนสำหรับแร่ที่ข้าขอไป
+Story-part58_1_1,"Leader, it is said that there are often hot waves coming from the Flame Toad Cave, as if there is something extremely hot inside.",ท่านเจ้าสำนัก ข้ารู้มาว่าในถ้ำคางคกอัคคี มักมีไอร้อนพวยพุ่งออกมา ดูเหมือนภายในจะมีบางสิ่งที่ร้อนแรงเป็นพิเศษ
+Story-part58_1_2,It's probably either a strange beast or a treasure. Send a Disciple to check it out.,หากมิใช่อสูรร้าย ก็คงเป็นสมบัติล้ำค่า ส่งศิษย์ไปสำรวจดูเถิด
+Story-part58_name,Strange news about the Flame Toad.,ตำนานคางคกอัคคี
+Story-part58_log,"Heat waves often hit you in the face in the Flame Toad Cave, suggesting that something special might be hidden inside.",ถ้ำคางคกอัคคีมักมีไอร้อนพวยพุ่งออกมา คาดว่าภายในอาจมีสิ่งล้ำค่าซ่อนอยู่
+Story-part58_2_1,"Since our sect took over the surrounding area, this is my first time coming to the Flame Toad Cave.",นับตั้งแต่สำนักของเราครอบครองพื้นที่โดยรอบ ข้าก็เพิ่งมีโอกาสมาเยือนถ้ำคางคกอัคคีแห่งนี้เป็นครั้งแรก
+Story-part58_2_2,"We didn't go far into the cave before a heat wave hit us, now we've gone deep, it's like being roasted on a stove.",พวกเราเพิ่งเข้าถ้ำได้ไม่นาน ก็รู้สึกได้ถึงไอร้อนที่โหมกระหน่ำ บัดนี้เดินลึกเข้ามายิ่งราวกับร่างกายถูกเผาอยู่บนเตาหลอม
+Story-part58_2_3,"Don't rush, let's explore slowly. At least we need to find the source of the heat.",อย่าได้ร้อนใจ ค่อยๆ สำรวจต่อไป อย่างน้อยก็ต้องค้นหาต้นตอของความร้อนให้ได้
+Story-part58_2_4,"Eh? There's someone lying over there, let's go check it out.",เอ๊ะ? ตรงนั้นมีคนล้มอยู่ รีบเข้าไปดูเร็ว!
+Story-part58_2_5,"Be careful, there's an animal attacking!",ระวัง! มีอสูรพุ่งเข้ามาโจมตี!
+Story-part58_3_1,"These fire lizards are not only powerful, but also extremely hot. Our martial arts can't handle them, let's retreat to the cave entrance!",พวกจิ้งจกไฟพวกนี้ไม่เพียงแต่มีพลังมหาศาล ร่างกายของมันยังแผ่ความร้อนสูงจนพลังยุทธ์ของเรารับมือได้ยากนัก ถอยไปที่ปากถ้ำก่อน!
+Story-part58_4_1,"No matter how powerful they are, they are just brainless beasts. It's a good idea to take them back to the sect and let Cook make fire lizard skewers.",ถึงพวกมันจะแข็งแกร่งเพียงใด ก็เป็นแค่สัตว์ป่าที่ไร้สติปัญญาเท่านั้น พอดีเลย นำกลับไปให้โรงครัวทำเป็นจิ้งจกย่างเสียเถอะ
+Story-part58_4_2,The person lying on the ground seems to have moved suddenly...,ว่าแต่... คนที่ล้มอยู่บนพื้นเหมือนจะขยับได้...
+Story-part58_4_3,"Brother, are you okay? You seem to have open wounds from fire lizard bites all over you...",พี่ชาย ท่านไม่เป็นอะไรแน่หรือ? ทั่วร่างของท่านมีแต่รอยกัดของจิ้งจกไฟ...
+Story-part58_4_4,I... I'm fine...,ข้า... ข้ามิเป็นไร...
+Story-part58_4_5,How can you be fine in such high temperatures? Hiss... half of your face is already...,อุณหภูมิสูงขนาดนี้ เป็นไปไม่ได้เลยที่จะไม่เป็นอะไร... อึ๊ก! ครึ่งใบหน้าของท่าน...
+Story-part58_4_6,"I am He Denuo, thank you both for saving me.",ข้าเหอเต๋อนัว ขอขอบคุณทั้งสองท่านที่ช่วยเหลือ
+Story-part58_4_7,"Because of the Flame Toad Technique I learned from this cave, not only is my appearance half-ruined, but I also suffer from the pain of fire poison every day.",ข้าได้พบค้นพบวิชา 'พลังคางคกอัคคี' ในถ้ำแห่งนี้ จึงฝึกฝนจนทำให้ใบหน้าข้าครึ่งหนึ่งถูกเผาจนเสียโฉม อีกทั้งยังต้องทนทุกข์จากพิษเพลิงอยู่ทุกวัน
 Story-part58_4_8,"In order to find a cure, I had to enter the Flame Toad Cave again. Unexpectedly, it aggravated the fire poison in my body, causing me to become unconscious due to the fire poison attacking my heart, and I was almost eaten by these beasts.",เพื่อหาวิธีรักษา ข้าจึงต้องกลับเข้าไปในถ้ำคางคกอัคคีอีกครั้ง แต่กลับทำให้พิษอัคคีในตัวข้ารุนแรงขึ้น จนสุดท้ายก็หมดสติไป เพราะพิษอัคคีเข้าสู่หัวใจ เกือบจะถูกสัตว์ร้ายพวกนั้นกินเสียแล้ว
-Story-part58_4_9,"You two saved my life, this Flame Toad Technique has strong side effects, but it's also a superior internal skill, consider it as a thank you."
-Story-part58_4_10,"I still need to find a cure for the fire poison, so I'll take my leave."
-Story-part58_4_11,"Wait, come to our {MyFaction}, the divine doctor Qu Wangyou is in our sect, she should be able to cure your fire poison."
-Story-part58_4_12,"Qu Wangyou of the Herbology Sect? If it's her, then there is hope! I am willing to join your sect!"
-Story-part58_5_1,"Sect leader, something happened in the Flame Toad Cave and the fire has suddenly intensified. It's impossible to enter directly now."
-Story-part58_5_2,"Ah, we missed the good opportunity to enter. We can only wait for the fire to subside before we go and explore again."
-Story-part59_1_1,"Sect leader, there is a snow leopard wandering near our sect. For the safety of the disciples, please capture or drive it away."
-Story-part59_1_2,"Snow leopards usually live in the snow mountains, why would it come to our sect... Could it be someone's pet?"
-Story-part59_name,Snow Leopard Snow Fur
-Story-part59_log,"There is a snow leopard wandering near your sect. For the safety of the disciples, please capture or drive it away."
-Story-part59_2_1,"Found the snow leopard! Strange, it seems smaller than I thought..."
-Story-part59_2_2,Meow~
-Story-part59_2_3,"Whether it's a snow leopard or not, let's catch it first."
-Story-part59_2_4,Meow...
-Story-part59_2_5,Spare the cat under the knife!
-Story-part59_2_6,"Be careful, someone suddenly drew a sword and attacked!"
-Story-part59_3_1,"This person's swordsmanship is sharp, it seems that he came just to find this snow leopard. I'd better retreat first..."
-Story-part59_4_1,"There's no mistake, this is my Snow Fur..."
-Story-part59_4_2,"Snow Fur, I finally see you, I was so worried..."
-Story-part59_4_3,Is this your lost snow leopard?
-Story-part59_4_4,"Snow leopard? This is clearly a cat, just a bit bigger."
-Story-part59_4_5,Meow meow meow~
-Story-part59_4_6,"Listen, it can meow, how cute."
-Story-part59_4_7,"By the way, my name is Lu Jian Nan, I just ran away from home not long ago. I wonder if your sect could shelter us for a few days. I promise Snow Fur won't cause any trouble."
-Story-part59_4_8,"Since you are the young master of the Beast Manor, our sect will naturally welcome you."
-Story-part59_5_1,"Sect leader, the snow leopard has suddenly disappeared, I don't know where it went."
-Story-part59_5_2,"Let it go wherever it wants, as long as it doesn't harm others."
+Story-part58_4_9,"You two saved my life, this Flame Toad Technique has strong side effects, but it's also a superior internal skill, consider it as a thank you.",พวกท่านมีบุญคุณช่วยชีวิตข้า แม้ว่าวิชาพลังคางคกอัคคีจะมีผลกระทบร้ายแรง แต่มันก็นับเป็นสุดยอดเคล็ดวิชา ขอให้รับไว้เป็นการตอบแทนเถิด
+Story-part58_4_10,"I still need to find a cure for the fire poison, so I'll take my leave.",ข้ายังต้องออกเดินทางเพื่อหาหนทางรักษาพิษเพลิง ขอลาแล้ว
+Story-part58_4_11,"Wait, come to our {MyFaction}, the divine doctor Qu Wangyou is in our sect, she should be able to cure your fire poison.",เดี๋ยวก่อน! มาร่วม{MyFaction}ของเราเถอะ! หมอเทวดา ฉู่หวังโหย่ว อยู่ในสำนักของเรา นางอาจรักษาพิษเพลิงของเจ้าได้
+Story-part58_4_12,"Qu Wangyou of the Herbology Sect? If it's her, then there is hope! I am willing to join your sect!",ฉู่หวังโหย่วแห่งสำนักพฤกษาหรือ? หากเป็นนาง ข้าก็ยังมีหวัง! ข้ายินดีเข้าร่วมสำนักของท่าน!
+Story-part58_5_1,"Sect leader, something happened in the Flame Toad Cave and the fire has suddenly intensified. It's impossible to enter directly now.",ท่านเจ้าสำนัก ภายในถ้ำคางคกอัคคีเกิดความเปลี่ยนแปลงไม่ทราบสาเหตุ อยู่ๆ ไอเพลิงกลับทวีความรุนแรงจนมิอาจเข้าไปได้อีกแล้ว
+Story-part58_5_2,"Ah, we missed the good opportunity to enter. We can only wait for the fire to subside before we go and explore again.",เฮ้อ... เราพลาดโอกาสเข้าไปสำรวจเสียแล้ว คงต้องรอให้ไฟสงบลงก่อนแล้วค่อยกลับไปดูอีกที
+Story-part59_1_1,"Sect leader, there is a snow leopard wandering near our sect. For the safety of the disciples, please capture or drive it away.",ท่านเจ้าสำนัก มีเสือดาวหิมะตัวหนึ่งปรากฏตัวใกล้สำนัก เพื่อความปลอดภัยของเหล่าศิษย์ ควรจับกุมหรือต้อนมันออกไป
+Story-part59_1_2,"Snow leopards usually live in the snow mountains, why would it come to our sect... Could it be someone's pet?",เสือดาวหิมะมักอาศัยอยู่บนภูเขาน้ำแข็ง เหตุใดมันถึงมาปรากฏที่นี่... หรือว่า มีคนเป็นผู้เลี้ยงมัน?
+Story-part59_name,Snow Leopard Snow Fur,ขนเสือดาวหิมะ
+Story-part59_log,"There is a snow leopard wandering near your sect. For the safety of the disciples, please capture or drive it away.",มีเสือดาวหิมะตัวหนึ่งปรากฏตัวใกล้สำนักของท่าน เพื่อความปลอดภัยของเหล่าศิษย์ ขอให้ท่านตัดสินใจว่าจะจับกุมหรือต้อนมันออกไป
+Story-part59_2_1,"Found the snow leopard! Strange, it seems smaller than I thought...",เจอเสือดาวหิมะแล้ว! แปลกจริง มันดูตัวเล็กกว่าที่ข้าคิดไว้...
+Story-part59_2_2,Meow~,เหมียว~
+Story-part59_2_3,"Whether it's a snow leopard or not, let's catch it first.",ไม่ว่าแท้จริงมันจะเป็นอะไรก็ตาม จับมันไว้ก่อนค่อยว่ากัน
+Story-part59_2_4,Meow...,เมี๊ยว...
+Story-part59_2_5,Spare the cat under the knife!,หยุดมือไว้ก่อน! อย่าฆ่ามัน!
+Story-part59_2_6,"Be careful, someone suddenly drew a sword and attacked!",ระวัง! มีคนชักกระบี่โจมตีมา!
+Story-part59_3_1,"This person's swordsmanship is sharp, it seems that he came just to find this snow leopard. I'd better retreat first...",กระบี่ของคนผู้นี้รวดเร็วรุนแรง ดูเหมือนจุดประสงค์ของเขาคือเสือดาวหิมะตัวนี้ ข้าควรล่าถอยไปก่อน...
+Story-part59_4_1,"There's no mistake, this is my Snow Fur...",ไม่มีทางผิดพลาด นี่แหละคือ เสี่ยหลง' ของข้า...
+Story-part59_4_2,"Snow Fur, I finally see you, I was so worried...",เสี่ยหลง ในที่สุดก็พบเจ้าเสียที ข้ากังวลแทบแย่...
+Story-part59_4_3,Is this your lost snow leopard?,นี่คือเสือดาวหิมะที่เจ้าทำหายหรือ?
+Story-part59_4_4,"Snow leopard? This is clearly a cat, just a bit bigger.",เสือดาวหิมะ? นี่มันก็แค่แมวตัวโตหน่อยเท่านั้นเอง
+Story-part59_4_5,Meow meow meow~,เหมียว~ เหมียว~ เหมียว~
+Story-part59_4_6,"Listen, it can meow, how cute.",ได้ยินหรือไม่? มันยังร้องเหมียวๆ อยู่เลย น่ารักเสียจริง
+Story-part59_4_7,"By the way, my name is Lu Jian Nan, I just ran away from home not long ago. I wonder if your sect could shelter us for a few days. I promise Snow Fur won't cause any trouble.",ว่าแต่... ข้าน้อย 'ลู่เจี้ยนหนาน' ไม่นานมานี้เพิ่งแอบหนีออกจากบ้านมา ไม่ทราบว่าสำนักของท่านพอจะให้ข้าพำนักอยู่สักสองสามวันได้หรือไม่? ข้ารับรองว่าเสี่ยหลง จะไม่ก่อปัญหาแน่นอน
+Story-part59_4_8,"Since you are the young master of the Beast Manor, our sect will naturally welcome you.",ในเมื่อท่านเป็นถึงคุณชายแห่ง หมู่ตึกหมื่นอสูร สำนักของเราย่อมต้องให้การต้อนรับเป็นอย่างดี
+Story-part59_5_1,"Sect leader, the snow leopard has suddenly disappeared, I don't know where it went.",ท่านเจ้าสำนัก อยู่ๆ เสือดาวหิมะตัวนั้นก็หายไป ข้าไม่รู้ว่ามันวิ่งไปที่ใด
+Story-part59_5_2,"Let it go wherever it wants, as long as it doesn't harm others.",มันจะไปไหนก็ช่างเถอะ ขอแค่มันอย่าทำร้ายใครก็พอ
 Story-part60_1_1,"Headmaster, Sect Leader Qu Wangyou has come to visit."
 Story-part60_1_2,"It seems that the news of our sect's abundant Herb has reached Sect Leader Qu's ears, please invite her in quickly!"
 Story-part60_1_3,Wangyou pays her respects to {PlayerSurName} Sect Leader.
