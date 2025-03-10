@@ -487,87 +487,87 @@ sto-KW-2-2_name,Main Quest,ภารกิจหลัก
 sto-KW-2-2_log,"Continue to expand the territory, waiting for the next instruction from Duke Kang",ขยายอาณาเขตต่อไป และรอคอยคำสั่งต่อไปจากอ๋องคัง
 sto-KW-3_1_1,"Master, Duke Kang sent a message saying that the Langya Sword Pavilion's sword casting ceremony is in 3 months, and he would like to invite you to accompany him.",เรียนท่านเจ้าสำนัก ท่านอ๋องคังได้ส่งสารมาแจ้งว่าอีก 3 เดือนข้างหน้า จะมีงานประลองกระบี่ที่ศาลากระบี่หลางหยา และท่านอ๋องมีความประสงค์จะเชิญท่านไปเข้าร่วมงานกับเขาด้วย.
 sto-KW-3_1_2,"Having me travel all the way to join such an event, it can't be as simple as just accompanying him...",ให้ข้าเดินทางไกลมาเข้าร่วมงานรื่นเริงเช่นนี้ ย่อมมิใช่เพียงแค่มาเป็นแขกชมพิธีอย่างแน่นอน...
-sto-KW-3_1_3,"Not only does he want our sect to be his free bodyguards, but he also wants to show the world that we have been recruited by him, what a clever plan."
-sto-KW-3_1_4,"What should we do, should we go to the ceremony as he wishes?"
-sto-KW-3_op_1_1,"We can't be controlled by others, whoever wants to go to the ceremony can go"
+sto-KW-3_1_3,"Not only does he want our sect to be his free bodyguards, but he also wants to show the world that we have been recruited by him, what a clever plan.",นอกจากจะใช้สำนักเราเป็นเกราะกำบังให้มันฟรี ๆ แล้ว ยังประกาศให้ทั่วหล้าเห็นว่าเราตกอยู่ภายใต้อาณัติมันอีกด้วย ช่างเป็นแผนที่เฉียบคมยิ่งนัก
+sto-KW-3_1_4,"What should we do, should we go to the ceremony as he wishes?",จะทำอย่างไรดี? เราควรไปร่วมงานตามที่มันต้องการหรือไม่?
+sto-KW-3_op_1_1,"We can't be controlled by others, whoever wants to go to the ceremony can go",เราจะยอมตกเป็นเบี้ยล่างให้มันฝ่ายเดียวไม่ได้ ใครอยากไปร่วมงานก็เชิญไปเถิด!
 sto-KW-3_op_1_2,"We can't offend Duke Kang at the moment, let's go to the ceremony",เวลานี้พวกเรามิอาจสร้างความขุ่นเคืองแก่อ๋องคังได้ ไปร่วมงานเถอะ
-sto-KW-3_2_1,"We can't be controlled by others, whoever wants to go to the ceremony can go!"
+sto-KW-3_2_1,"We can't be controlled by others, whoever wants to go to the ceremony can go!",เราจะยอมตกเป็นเบี้ยล่างให้มันฝ่ายเดียวไม่ได้ ใครอยากไปร่วมงานก็เชิญไปเถิด!
 sto-KW-3_2_2,"Help me write a letter, tell Duke Kang that I suddenly fell ill and need to rest, and can't accompany him to the ceremony.",ช่วยข้าเขียนจดหมายแจ้งแก่อ๋องคังทีว่าข้าล้มป่วยกระทันหันและต้องการเวลาพักฟื้น จึงมิอาจไปร่วมงานของเขาได้
 sto-KW-3_2_3,"Yes, I'll write it right away.",ได้ ข้าจะลงมือเขียนทันที
 sto-KW-3_2_4,"According to the disciple who delivered the letter\nDuke Kang was not only calm when he saw the letter\nHe also kindly entertained the disciple for three days\nBut you know very well, the real power players never show their true feelings...","เมื่อฟังจากศิษย์ที่นำจดหมายไปส่ง\nอ๋องคังไม่เพียงแต่มีสีหน้าสงบนิ่งเมื่อได้เห็นจดหมายฉบับนี้เท่านั้น\nเขายังเลี้ยงดูศิษย์ผู้นำจดหมายไปส่งอย่างดีเป็นเวลาถึงสามวัน\nแต่ท่านก็ทราบดีว่าผู้ทรงอำนาจที่แท้จริงนั้น ล้วนไม่เคยเปิดเผยความรู้สึกภายในของเขาให้เห็น..."
-sto-KW-3_3_1,"We can't offend Duke Kang at the moment, let's go to the ceremony."
-sto-KW-3_3_2,"Pack my bags for me, I'll head to Langya Sword Pavilion soon."
-sto-KW-3_3_3,"Yes, I'll pack right away."
+sto-KW-3_3_1,"We can't offend Duke Kang at the moment, let's go to the ceremony.",ตอนนี้ยังไม่อาจหาเรื่องกับท่านอ๋องคังได้ ไปร่วมงานตามคำเชิญของเขาเถิด
+sto-KW-3_3_2,"Pack my bags for me, I'll head to Langya Sword Pavilion soon.",เจ้าจงจัดเตรียมสัมภาระให้ข้า เดี๋ยวข้าจะรีบเดินทางไปยังศาลากระบี่หลางหยา
+sto-KW-3_3_3,"Yes, I'll pack right away.",ขอรับ ข้าจะไปจัดเตรียมสัมภาระบัดเดี๋ยวนี้
 sto-KW-3_name,Langya Sword Pavilion's sword casting ceremony,งานประลองกระบี่ที่ศาลากระบี่หลางหยา
-sto-KW-3_log,You accept Duke Kang's invitation and accompany him to the Langya Sword Pavilion ceremony.
-sto-KW-3_4_1,"At the foot of Mount Langya, you and Duke Kang join forces and march towards the Sword Pavilion.\nThe Vagabond present noticed you following closely behind Duke Kang.\nSome looked at you with disdain, some were surprised and lost, and some just smiled slightly."
+sto-KW-3_log,You accept Duke Kang's invitation and accompany him to the Langya Sword Pavilion ceremony.,ท่านตอบรับคำเชิญของอ๋องคัง และร่วมเดินทางไปยังศาลากระบี่หลางหยาเพื่อร่วมงาน
+sto-KW-3_4_1,"At the foot of Mount Langya, you and Duke Kang join forces and march towards the Sword Pavilion.\nThe Vagabond present noticed you following closely behind Duke Kang.\nSome looked at you with disdain, some were surprised and lost, and some just smiled slightly.","ใต้เชิงเขาหลางหยา ท่านและอ๋องคังรวมกำลังพล มุ่งสู่ศาลากระบี่หลางหยา\nเหล่าชาวยุทธที่อยู่ ณ ที่นั้น ต่างจับจ้องมองท่านที่ติดตามอ๋องคังอย่างไม่ลดละ\nบางคนมองด้วยสายตาเหยียดหยาม บางคนตกตะลึงอ้าปากค้าง และบางคนเพียงแค่ยิ้มมุมปาก"
 sto-KW-3_4_2,"At this rare sword casting convention\nThe disciples of the Sword Pavilion work in perfect harmony\nUnder the command of Ouye Heng, the final sharpening work is completed\nA sword named ""Piercing the Heavens"" appears before everyone\nInstantly capturing the attention of all present...","ในงานประลองกระบี่ที่หาชมได้ยากนี้\nบรรดาศิษย์ของสำนักต่างร่วมมือกันอย่างกลมเกลียว\nภายใต้การชี้นำของโอวเย่เหิง การลับคมสุดท้ายได้เสร็จสิ้น\nกระบี่วิเศษ “ทะลุฟ้า” ปรากฏต่อสายตาของทุกคน\nทันทีที่มันปรากฏขึ้น ก็ทำให้ทุกคนในงานหลงใหลในความงดงาม..."
-sto-KW-3_4_3,"Fellow seniors, fellow Daoists, this sword is named Piercing the Heavens, made by MeLangya Sword Pavilion from meteorite iron and South Sea shark stone. The blade is three feet and four inches long, weighs seven pounds and four ounces, and can cut hair and break jade."
-sto-KW-3_4_4,"As expected of the Sword Pavilion, famous for its sword casting, such a divine weapon is beyond the reach of ordinary sects."
-sto-KW-3_4_5,"{PlayerSurName} Sect Leader, I have taken a liking to this divine sword. The wooden heads of the Sword Pavilion will certainly not part with it. Could you speak for me?"
-sto-KW-3_4_6,"Since your Highness has taken a liking to it, then {PlayerSurName} I will certainly accompany you."
-sto-KW-3_4_7,"Good! You are indeed a master that I admire. After the matter is done, I will definitely reward you!"
+sto-KW-3_4_3,"Fellow seniors, fellow Daoists, this sword is named Piercing the Heavens, made by MeLangya Sword Pavilion from meteorite iron and South Sea shark stone. The blade is three feet and four inches long, weighs seven pounds and four ounces, and can cut hair and break jade.",เรียน ท่านผู้อาวุโสทุกท่าน ท่านจอมยุทธ์ทั้งหลาย กระบี่เล่มนี้มีนามว่า ทะลุฟ้า เป็นกระบี่ที่ศาลากระบี่หลางหยาของเราหลอมสร้างขึ้นจากเหล็กไหลจากฟากฟ้าและหินหยกเงือกจากทะเลใต้ ตัวกระบี่ยาวสามเชียะสี่ฉุ่น น้ำหนักสุทธิเจ็ดจินสี่ตำลึง คมกริบถึงขนาดเป่าขนก็ขาด ฟันทองคำก็แตก ฟันหยกก็ร้าว
+sto-KW-3_4_4,"As expected of the Sword Pavilion, famous for its sword casting, such a divine weapon is beyond the reach of ordinary sects.",สมกับเป็นศาลากระบี่ที่เลื่องชื่อในการหลอมกระบี่จริง ๆ ศาสตราเทพเช่นนี้ สำนักทั่วไปยากที่จะเอื้อมถึง
+sto-KW-3_4_5,"{PlayerSurName} Sect Leader, I have taken a liking to this divine sword. The wooden heads of the Sword Pavilion will certainly not part with it. Could you speak for me?",เจ้าสำนัก{PlayerSurName} ข้าถูกใจกระบี่เทวะเล่มนี้ยิ่งนัก แต่พวกดื้อรั้นแห่งศาลากระบี่คงไม่ยอมยกให้ง่าย ๆ ท่านพอจะช่วยเอ่ยปากให้ข้าสักคำสองคำได้หรือไม่?
+sto-KW-3_4_6,"Since your Highness has taken a liking to it, then {PlayerSurName} I will certainly accompany you.",ในเมื่อใต้เท้าถูกใจ ข้า{PlayerSurName} ย่อมยินดีที่จะเป็นธุระให้
+sto-KW-3_4_7,"Good! You are indeed a master that I admire. After the matter is done, I will definitely reward you!",ดี! สมกับเป็นยอดฝีมือที่ข้าหมายตาไว้ หากสำเร็จ จะมีรางวัลตอบแทนอย่างงาม!
 sto-KW-3_4_8,"The Old Man, my master, is the one who doesn't want this sword to come out. He went to great lengths to hold this sword casting conference. I, Dugu Jianyi, am here to thank everyone for their support!",ท่านอาจารย์ไม่ต้องการให้กระบี่นี้ปรากฏขึ้นอย่างเงียบๆ จึงต้องจัดงานประลองกระบี่ขึ้นมา ข้าตู๋กูเจี้ยนอี้หนึ่งในศิษย์ ขอมาขอบคุณทุกท่านที่ให้การสนับสนุน!
-sto-KW-3_4_9,"Since you are thanking us for our support, why don't the two young heroes represent the Sword Pavilion and give this Piercing the Heavens to me, the Sect Leader?"
-sto-KW-3_4_10,"{PlayerSurName} Sect Leader, you are joking. This divine sword is the treasure of MeLangya Sword Pavilion, how dare we give it away lightly?"
-sto-KW-3_4_11,"You make a good point, but..."
-sto-KW-3_4_12,What if {PlayerSurName} I insist on having it?
-sto-KW-3_4_13,Insist on having it? Let's see if you can take it first!
-sto-KW-3_5_1,"I didn't expect a sect leader to be so incompetent, making a fool of himself in public!"
-sto-KW-3_5_2,"Duke Kang, {PlayerSurName} I am inferior in skill and I am here to apologize..."
-sto-KW-3_5_3,"Victory or defeat is a common occurrence in the military. You don't need to blame yourself too much. Since that's the case, there's no need to stay here anymore, let's go."
-sto-KW-3_6_1,Such strong strength...
-sto-KW-3_6_2,"Without the master making a move, we can't take him down..."
-sto-KW-3_6_3,"What a pity, the mighty Langya Sword Pavilion, is this all the strength you have? If that's the case, I, {PlayerName}, will gladly accept this Piercing the Heavens!"
-sto-KW-3_6_4,Hold on!
-sto-KW-3_6_5,"Young friend, have you asked me before you want to snatch the sword from my Sword Pavilion?"
-sto-KW-3_6_6,"Considering your extraordinary martial arts at such a young age, I will give you three moves, make your move."
-sto-KW-3_6_7,"{PlayerSurName} Sect Leader, step back, I don't want you to get hurt!"
-sto-KW-3_6_8,"It's a pity that this divine sword can't belong to me, it's really fate..."
-sto-KW-3_6_9,I didn't expect Duke Kang to care about my safety... It seems he doesn't just want to use me.
-sto-KW-3_6_10,"But he underestimated me a bit, when I go back and mobilize my sect's Disciples, I might be able to destroy the Sword Pavilion and seize the divine sword, hmph..."
-sto-KW-3_7_1,"Sect Leader, Duke Kang sent a message expressing his disappointment in your breach of promise..."
-sto-KW-3_7_2,"Ah, how could I forget about that, I'll apologize to Duke Kang next time."
+sto-KW-3_4_9,"Since you are thanking us for our support, why don't the two young heroes represent the Sword Pavilion and give this Piercing the Heavens to me, the Sect Leader?",ในเมื่อขอบคุณที่ให้เกียรติมาร่วมงาน สู้ให้สองจอมยุทธ์หนุ่มเป็นตัวแทนศาลากระบี่ มอบกระบี่ทะลุฟ้าเล่มนี้ให้ข้าไม่ดีกว่าหรือไร?
+sto-KW-3_4_10,"{PlayerSurName} Sect Leader, you are joking. This divine sword is the treasure of MeLangya Sword Pavilion, how dare we give it away lightly?",ท่านเจ้าสำนัก{PlayerSurName} ล้อเล่นแล้ว กระบี่เทวะเช่นนี้ เป็นของล้ำค่าประจำศาลากระบี่หลางหยาของเรา จะกล้าให้ผู้อื่นไปง่าย ๆ ได้อย่างไรเล่า?
+sto-KW-3_4_11,"You make a good point, but...",ที่ท่านกล่าวมาก็ถูก แต่ว่า...
+sto-KW-3_4_12,What if {PlayerSurName} I insist on having it?,หากข้า{PlayerSurName} ตั้งใจจะเอากระบี่เล่มนี้ให้ได้ล่ะ?
+sto-KW-3_4_13,Insist on having it? Let's see if you can take it first!,อยากได้นักหรือ? ก่อนอื่นเจ้าต้องดูว่าจะมีปัญญาเอามันไปได้หรือไม่!
+sto-KW-3_5_1,"I didn't expect a sect leader to be so incompetent, making a fool of himself in public!",นึกไม่ถึงว่าเจ้าสำนักจะมีฝีมือแค่นี้ ช่างน่าอับอายขายหน้าต่อหน้าผู้คนเสียจริง!
+sto-KW-3_5_2,"Duke Kang, {PlayerSurName} I am inferior in skill and I am here to apologize...",ท่านอ๋องคัง ข้า{PlayerSurName} ฝีมือไม่ถึงขั้น จึงมาขออภัย...
+sto-KW-3_5_3,"Victory or defeat is a common occurrence in the military. You don't need to blame yourself too much. Since that's the case, there's no need to stay here anymore, let's go.",แพ้ชนะเป็นเรื่องธรรมดาของชาวยุทธ ท่านอย่าได้ตำหนิตัวเองจนเกินไป ในเมื่อเป็นเช่นนี้ ที่นี่ก็ไม่มีสิ่งใดให้เราอยู่ต่อแล้ว ไปกันเถิด
+sto-KW-3_6_1,Such strong strength...,ช่างเป็นพลังที่แข็งแกร่งยิ่งนัก...
+sto-KW-3_6_2,"Without the master making a move, we can't take him down...",หากท่านอาจารย์ไม่ลงมือ พวกเราคงไม่มีทางเอาชนะมันได้...
+sto-KW-3_6_3,"What a pity, the mighty Langya Sword Pavilion, is this all the strength you have? If that's the case, I, {PlayerName}, will gladly accept this Piercing the Heavens!",อะไรกัน ศาลากระบี่หลางหยาอันลือชื่อ มีฝีมือแค่นี้เองหรือ? ถ้าเช่นนั้น กระบี่ทะลุฟ้าเล่มนี้ ข้า{PlayerName} ขอรับไว้เอง!
+sto-KW-3_6_4,Hold on!,ช้าก่อน!
+sto-KW-3_6_5,"Young friend, have you asked me before you want to snatch the sword from my Sword Pavilion?",เจ้าหนุ่มน้อย คิดจะชิงกระบี่ในสำนักกระบี่ของข้า เคยถามข้าบ้างหรือไม่?
+sto-KW-3_6_6,"Considering your extraordinary martial arts at such a young age, I will give you three moves, make your move.",เห็นแก่ที่เจ้าหนุ่มน้อยมีฝีมือกล้าแข็งตั้งแต่อายุยังน้อย ข้าจะให้โอกาสเจ้าสามกระบวนท่า เชิญลงมือได้เลย
+sto-KW-3_6_7,"{PlayerSurName} Sect Leader, step back, I don't want you to get hurt!",เจ้าสำนัก{PlayerSurName} ถอยกลับมาเถิด ข้าไม่อยากให้ท่านได้รับบาดเจ็บ!
+sto-KW-3_6_8,"It's a pity that this divine sword can't belong to me, it's really fate...",น่าเสียดายที่กระบี่เทวะเล่มนี้มิอาจเป็นของข้า ช่างเป็นลิขิตฟ้า...
+sto-KW-3_6_9,I didn't expect Duke Kang to care about my safety... It seems he doesn't just want to use me.,นึกไม่ถึงว่าท่านอ๋องคังจะห่วงใยความปลอดภัยของข้าด้วย... ดูเหมือนว่าเขาจะไม่ได้คิดใช้ประโยชน์จากข้าเพียงอย่างเดียว
+sto-KW-3_6_10,"But he underestimated me a bit, when I go back and mobilize my sect's Disciples, I might be able to destroy the Sword Pavilion and seize the divine sword, hmph...",เพียงแต่เขาประเมินข้าต่ำไปหน่อย หากข้ากลับไประดมลูกศิษย์ในสำนัก บางทีอาจจะสามารถบุกทำลายศาลากระบี่และชิงกระบี่เทวะมาได้ ฮึ่ม...
+sto-KW-3_7_1,"Sect Leader, Duke Kang sent a message expressing his disappointment in your breach of promise...",ท่านเจ้าสำนัก ท่านอ๋องคังส่งคนมาแจ้งสาร แสดงความผิดหวังอย่างยิ่งต่อการที่ท่านไม่รักษาสัญญา...
+sto-KW-3_7_2,"Ah, how could I forget about that, I'll apologize to Duke Kang next time.",เฮ้อ ลืมเลือนเรื่องนี้ไปเสียสนิท คราวหน้าคงต้องไปขออภัยอ๋องคังให้ดีเสียแล้ว
 sto-KW-3_8_1,"{PlayerSurName} Sect Leader, I was about to go to the sword casting conference, but I was shocked to hear that the Sword Pavilion was suddenly destroyed for some reason, which really disappointed me.",ท่านเจ้าสำนัก {PlayerSurName} ขณะที่ข้ากำลังเตรียมตัวไปชมงานประลองกระบี่ แต่ได้ยินข่าวว่าศาลากระบี่ ถูกทำลายอย่างไม่ทราบสาเหตุ ทำให้ข้ารู้สึกผิดหวังอย่างยิ่ง
-sto-KW-3_8_2,"Even the powerful Sword Pavilion has been annihilated, the martial world is indeed dangerous..."
+sto-KW-3_8_2,"Even the powerful Sword Pavilion has been annihilated, the martial world is indeed dangerous...",ขนาดศาลากระบี่ที่ครองความเป็นใหญ่ยังถูกกวาดล้าง ยุทธภพนี้ช่างอันตรายยิ่งนัก...
 sto-KW-3_9_1,"{PlayerSurName} Sect Leader, I was planning to attend the Sword Casting Convention, but you took it upon yourself to annihilate the Sword Pavilion. Are you deliberately trying to embarrass me?",ท่านเจ้าสำนัก {PlayerSurName} ขณะที่ข้ากำลังเตรียมตัวไปชมงานประลองกระบี่ แต่ท่านกลับตัดสินใจทำลายศาลากระบี่ นี่เป็นการตั้งใจทำให้ข้าอับอายหรือไม่!
-sto-KW-3_9_2,"Your Highness, there must be some misunderstanding..."
-sto-KW-3-1_name,Annihilate Langya Sword Pavilion and obtain the divine sword!
-sto-KW-3-1_log,Langya Sword Pavilion has been annihilated
-sto-KW-3-1_1_1,"To witness the ultimate sword technique, you deliberately hold back\nGiving the old man with flying hair the chance to swing his strongest sword\nThe sword rises, Ten Thousand Swords, evil retreats\nThe sword falls, reaching the blue sky above and the yellow springs below\nThis sword is already dazzling enough\nBut it's a pity that it met such a formidable opponent\nThe Xuanyuan Divine Sword, bows down..."
-sto-KW-3-1_1_2,"There are always people better than you... There are always higher skies...\nToday, I finally understand this truth, I hope it's not too late to regret."
-sto-KW-3-1_1_3,"The mighty Sword Pavilion, is nothing more than this!"
-sto-KW-3-1_1_4,"The divine sword Piercing the Heavens is in hand, let me think, should I give it to Duke Kang, or keep it for myself?"
-sto-KW-3-1_op_1_1,"Give it to Duke Kang, for greater benefits"
-sto-KW-3-1_op_1_2,"Keep it for yourself, make the best use of everything"
-sto-KW-3-1_2_1,"Although this sword is good, sacrificing a pawn to save a chariot, giving it to Duke Kang will surely bring greater benefits."
-sto-KW-3-1_2_2,"What a peerless sword! {PlayerSurName} Sect Leader, you always bring me various surprises!"
-sto-KW-3-1_2_3,"Someone, bring my treasured Martial Arts Archive and the Thunderbolt Treasure A as a return gift for {PlayerSurName} Sect Leader."
-sto-KW-3-1_2_4,It's our duty to share your Highness's worries.
-sto-KW-3-1_3_1,"Since ancient times, famous swords are like beauties, how can they be given away casually!"
-sto-KW-3-1_3_2,"Piercing the Heavens, oh Piercing the Heavens, from now on, you are the sword of this Sect Leader!"
-sto-KW-3-1_4_1,Someone else got there first...
-sto-KW-4_1_1,"Sect Leader, Duke Kang is here to visit!"
-sto-KW-4_1_2,{PlayerSurName} pays his respects to your Highness.
-sto-KW-4_1_3,"I heard that you have been ruling well, and in a short period of time, you have developed {MyFaction} into such a prosperous state."
-sto-KW-4_1_4,"In the past, the martial arts world respected the three sects and refused to cooperate with me. Now these arrogant people have their homes broken and are fleeing in disarray, it's really satisfying!"
-sto-KW-4_1_5,I brought a lot of supplies this time for you to make further progress and become a truly top sect in the martial arts world.
-sto-KW-4_1_6,"Thank you, your Highness!"
-sto-KW-4_1_7,"Don't be polite, your success is my success, your loss is my loss, keep up the good work!"
-sto-KW-4_2_1,"Sect Leader, Duke Kang is here to visit!"
-sto-KW-4_2_2,{PlayerSurName} pays his respects to your Highness.
-sto-KW-4_2_3,"{PlayerSurName} Sect Leader is my confidant, don't be polite."
-sto-KW-4_2_4,"I heard that you have been ruling well, and in a short period of time, you have developed {MyFaction} to a level that can compete with the three sects."
-sto-KW-4_2_5,"I intend to support your sect to become the number one sect in the martial arts world, what do you think?"
-sto-KW-4_2_6,"If given such an opportunity, I would certainly be willing."
-sto-KW-4_2_7,"Good, I have invited the leaders of the three sects to meet at the Peak of Challenge, you go and defeat them one by one, you will surely shock the world."
-sto-KW-4_2_8,"This is a major matter, should I agree?"
-sto-KW-4_op_1_1,"Such an opportunity cannot be missed, I must make a name for myself at the Peak of Challenge!"
-sto-KW-4_op_1_2,"Duke Kang is using me to gain power, I can't always go along with him!"
-sto-KW-4_3_1,"Such an opportunity cannot be missed, {PlayerSurName} will certainly live up to your Highness's expectations and make a name for himself at the Peak of Challenge!"
-sto-KW-4_3_2,Good spirit! This king will go ahead and wait for the head of {PlayerSurName} to show his power!
-sto-KW-4_name,Peak of Challenge Duel
-sto-KW-4_log,Go to Peak of Challenge and duel with the three sect leaders invited by Duke Kang.
+sto-KW-3_9_2,"Your Highness, there must be some misunderstanding...",ฝ่าบาท ข้าเชื่อว่าคงมีความเข้าใจผิดบางประการ...
+sto-KW-3-1_name,Annihilate Langya Sword Pavilion and obtain the divine sword!,จงทำลายศาลากระบี่หลางหยาแล้วยึดกระบี่เทวะมาให้ได้!
+sto-KW-3-1_log,Langya Sword Pavilion has been annihilated,ศาลากระบี่หลางหยาถูกทำลายจนสิ้นซาก
+sto-KW-3-1_1_1,"To witness the ultimate sword technique, you deliberately hold back\nGiving the old man with flying hair the chance to swing his strongest sword\nThe sword rises, Ten Thousand Swords, evil retreats\nThe sword falls, reaching the blue sky above and the yellow springs below\nThis sword is already dazzling enough\nBut it's a pity that it met such a formidable opponent\nThe Xuanyuan Divine Sword, bows down...","เพื่อได้เห็นถึงสุดยอดของวิชาเพลงกระบี่ เจ้ายั้งมือเสีย\nให้โอกาสแก่ชายชราผมยาวที่ปลิวไสว ได้ใช้เพลงกระบี่ที่แข็งแกร่งที่สุดในชีวิตของเขา\nยามกระบี่จรดฟ้า หมื่นกระบี่รวมเป็นหนึ่ง ปีศาจทั้งหลายต่างถอยหนี\nยามกระบี่จรดดิน ผ่าสวรรค์ แยกหวงเฉวียน\nกระบวนท่านี้งดงามยิ่งนัก\nเสียดายที่มันต้องพบกับคู่ต่อสู้ที่ทรงพลังเช่นเจ้า\nยามนี้ กระบี่เทพซวนหยวน จึงต้องก้มหัวลง..."
+sto-KW-3-1_1_2,"There are always people better than you... There are always higher skies...\nToday, I finally understand this truth, I hope it's not too late to regret.","เหนือคนยังมีคน เหนือฟ้ายังมีฟ้า...\nวันนี้ข้าจึงได้เข้าใจถึงสัจธรรมนี้เสียที หวังว่าจะยังไม่สายเกินไปที่จะสำนึก..."
+sto-KW-3-1_1_3,"The mighty Sword Pavilion, is nothing more than this!",กระบี่หลางหยาอันเกรียงไกร ก็มีเพียงเท่านี้เองหรือ!?
+sto-KW-3-1_1_4,"The divine sword Piercing the Heavens is in hand, let me think, should I give it to Duke Kang, or keep it for myself?",กระบี่เทพทะลวงสวรรค์อยู่ในมือข้า ควรจะมอบมันให้แก่ท่านอ๋องคังหรือจะเก็บไว้เองดี?
+sto-KW-3-1_op_1_1,"Give it to Duke Kang, for greater benefits",มอบให้ท่านอ๋องคัง ย่อมเป็นประโยชน์มากกว่า
+sto-KW-3-1_op_1_2,"Keep it for yourself, make the best use of everything",เก็บไว้กับตนเองย่อมเป็นประโยชน์สูงสุด
+sto-KW-3-1_2_1,"Although this sword is good, sacrificing a pawn to save a chariot, giving it to Duke Kang will surely bring greater benefits.",แม้ว่ากระบี่เล่มนี้จะดีเพียงใด แต่การสละเบี้ยเพื่อรักษาเรือ ย่อมเป็นหนทางที่ฉลาดกว่า หากมอบให้แก่ท่านอ๋องคัง
+sto-KW-3-1_2_2,"What a peerless sword! {PlayerSurName} Sect Leader, you always bring me various surprises!",ช่างกระบี่ที่ไร้เทียมทานโดยแท้! เจ้าสำนัก {PlayerSurName} เจ้านี่ช่างทำให้ข้าประหลาดใจได้ทุกครั้งจริงๆ!
+sto-KW-3-1_2_3,"Someone, bring my treasured Martial Arts Archive and the Thunderbolt Treasure A as a return gift for {PlayerSurName} Sect Leader.",ผู้ใดอยู่บ้าง! จงนำตำราวิทยายุทธ์ล้ำค่าที่ข้าสะสมไว้ พร้อมกราะอัสนีพิฆาต มามอบเป็นของตอบแทนแก่เจ้าสำนัก {PlayerSurName} เดี๋ยวนี้!
+sto-KW-3-1_2_4,It's our duty to share your Highness's worries.,การแบ่งเบาภาระของฝ่าบาท ย่อมเป็นหน้าที่ของพวกเรา
+sto-KW-3-1_3_1,"Since ancient times, famous swords are like beauties, how can they be given away casually!",แต่โบราณกาล กระบี่เลื่องชื่อเปรียบดังสตรีล้ำค่า จะมอบให้ผู้ใดตามอำเภอใจได้เยี่ยงไรกัน!
+sto-KW-3-1_3_2,"Piercing the Heavens, oh Piercing the Heavens, from now on, you are the sword of this Sect Leader!",ทะลวงสวรรค์! โอ้ ทะลวงสวรรค์! นับจากนี้ไป เจ้าคือกระบี่คู่ใจของข้า เจ้าสำนักแห่งนี้!
+sto-KW-3-1_4_1,Someone else got there first...,คาดไม่ถึงว่าจะมีผู้ใดชิงลงมือก่อนข้า!
+sto-KW-4_1_1,"Sect Leader, Duke Kang is here to visit!",ท่านเจ้าสำนัก อ๋องคังเสด็จมาเยือนขอรับ!
+sto-KW-4_1_2,{PlayerSurName} pays his respects to your Highness.,{PlayerSurName} ขอถวายบังคมฝ่าบาท
+sto-KW-4_1_3,"I heard that you have been ruling well, and in a short period of time, you have developed {MyFaction} into such a prosperous state.",ข้าได้ยินมาว่าเจ้ามีวิสัยทัศน์อันยอดเยี่ยม เพียงเวลาไม่นาน ก็สามารถนำพา {MyFaction} ให้รุ่งเรืองถึงเพียงนี้
+sto-KW-4_1_4,"In the past, the martial arts world respected the three sects and refused to cooperate with me. Now these arrogant people have their homes broken and are fleeing in disarray, it's really satisfying!",ในอดีต ยอดยุทธ์ทั้งหลายต่างยกให้สามนิกายเป็นใหญ่ ไม่เห็นข้าอยู่ในสายตา แต่บัดนี้ พวกที่เคยหยิ่งผยองกลับต้องบ้านแตกสาแหรกขาด หนีตายอย่างน่าสมเพช คิดแล้วช่างสะใจยิ่งนัก!
+sto-KW-4_1_5,I brought a lot of supplies this time for you to make further progress and become a truly top sect in the martial arts world.,ครั้งนี้ ข้านำเสบียงและทรัพยากรมากมายมาให้เจ้า เพื่อช่วยให้สำนักก้าวหน้าไปอีกขั้น สร้างชื่อเสียงให้สมกับการเป็นสำนักอันดับหนึ่งในใต้หล้า!
+sto-KW-4_1_6,"Thank you, your Highness!",ขอบพระทัยฝ่าบาท!
+sto-KW-4_1_7,"Don't be polite, your success is my success, your loss is my loss, keep up the good work!",ไม่ต้องมากพิธี เจ้ากับข้าต่างรุ่งเรืองและล่มสลายไปด้วยกัน จงมุ่งหน้าสร้างความยิ่งใหญ่ต่อไปเถิด!
+sto-KW-4_2_1,"Sect Leader, Duke Kang is here to visit!",ท่านเจ้าสำนัก อ๋องคังเสด็จมาเยือนขอรับ!
+sto-KW-4_2_2,{PlayerSurName} pays his respects to your Highness.,{PlayerSurName} ขอถวายบังคมฝ่าบาท
+sto-KW-4_2_3,"{PlayerSurName} Sect Leader is my confidant, don't be polite.",เจ้าสำนัก {PlayerSurName} คือคนสนิทของข้า ไม่ต้องมากพิธี
+sto-KW-4_2_4,"I heard that you have been ruling well, and in a short period of time, you have developed {MyFaction} to a level that can compete with the three sects.",ข้าได้ยินมาว่าเจ้ามีวิสัยทัศน์อันยอดเยี่ยม เพียงเวลาไม่นาน ก็สามารถนำพา {MyFaction} เจริญรุ่งเรืองจนสามารถเทียบเคียงสามนิกายใหญ่ได้
+sto-KW-4_2_5,"I intend to support your sect to become the number one sect in the martial arts world, what do you think?",ข้ามีเจตนาสนับสนุนสำนักของเจ้าให้ก้าวขึ้นเป็นหนึ่งในใต้หล้า ไม่ทราบว่าเจ้าคิดเห็นเช่นไร?
+sto-KW-4_2_6,"If given such an opportunity, I would certainly be willing.",หากมีโอกาสเช่นนี้ ข้าย่อมยินดีรับไว้ด้วยความยินดี
+sto-KW-4_2_7,"Good, I have invited the leaders of the three sects to meet at the Peak of Challenge, you go and defeat them one by one, you will surely shock the world.",ดี! ข้าได้เชื้อเชิญเจ้าสำนักแห่งสามนิกายใหญ่มายังยอดเขาแห่งการชิงชัยแล้ว เจ้าไปเถอะ! เอาชนะพวกเขาให้สิ้น ประกาศศักดาให้สะท้านใต้หล้า!
+sto-KW-4_2_8,"This is a major matter, should I agree?",เรื่องนี้สำคัญยิ่งนัก... ควรตอบรับดีหรือไม่?
+sto-KW-4_op_1_1,"Such an opportunity cannot be missed, I must make a name for myself at the Peak of Challenge!",โอกาสเช่นนี้มิอาจปล่อยให้หลุดมือ ต้องฉวยไว้ให้มั่น ประกาศศักดาให้สะท้านใต้หล้า ณ ยอดเขาแห่งการชิงชัย!
+sto-KW-4_op_1_2,"Duke Kang is using me to gain power, I can't always go along with him!",ท่านอ๋องคังกำลังใช้ข้าเป็นหมากเพื่อสร้างอำนาจให้ตนเอง มิอาจตามใจเขาไปเสียทุกเรื่อง!
+sto-KW-4_3_1,"Such an opportunity cannot be missed, {PlayerSurName} will certainly live up to your Highness's expectations and make a name for himself at the Peak of Challenge!",โอกาสเช่นนี้มิอาจปล่อยให้หลุดมือ {PlayerSurName} จะไม่ทำให้ฝ่าบาทผิดหวัง และจะประกาศศักดาให้สะเทือนทั่วหล้า ณ ยอดเขาแห่งการชิงชัย!
+sto-KW-4_3_2,Good spirit! This king will go ahead and wait for the head of {PlayerSurName} to show his power!,ยอดเยี่ยม! ข้าจะนำหน้าไปก่อน แล้วจะรอชมเจ้าสำนัก {PlayerSurName} สำแดงอานุภาพอันเกรียงไกร!
+sto-KW-4_name,Peak of Challenge Duel,ประลองยุทธ์ ณ ยอดเขาแห่งการชิงชัย
+sto-KW-4_log,Go to Peak of Challenge and duel with the three sect leaders invited by Duke Kang.,มุ่งสู่ยอดเขาแห่งการชิงชัย ประลองกับเจ้านิกายทั้งสามที่อ๋องคังเชื้อเชิญมา
 sto-KW-4_4_1,"You travel light and arrive at the Peak of Challenge in no time\nThe heads of the three sects, once representing the pinnacle of martial arts\nHave no objections to your arrival\nThey just watch coldly\nAt this rising star in the martial world..."
 sto-KW-4_4_2,"Very well, it seems everyone is here."
 sto-KW-4_4_3,The reason why this king invited you sect leaders is to let you make friends through martial arts and exchange ideas.
@@ -1553,23 +1553,23 @@ Story-part4_5_1,"Sect Leader, the disciple stationed at the Abandoned Courtyard 
 Story-part4_5_2,"That pagoda must not be as simple as it seems, it's a pity that there's no chance to investigate it anymore..."
 Story-part5_1_1,"Reporting to the Sect Leader, ever since our sect took control of the Viburnum dew specialty of Qiongshan Forest, all the wine lovers in the sect are overjoyed, drinking good wine every day to relieve their worries.",เรียนท่านเจ้าสำนัก นับตั้งแต่สำนักเราควบคุมป่าชงซานซึ่งมี ‘สุราหยาดดอกฉยงฮวา’ เป็นสินค้าขึ้นชื่อ บรรดาศิษย์ที่ชอบสุราต่างก็เริงร่า สำราญใจด้วยการร่ำสุราเลิศทุกวัน
 Story-part5_1_2,"But in the past few days, the winery that cooperates with our sect has suddenly interrupted the supply of Viburnum dew, causing great dissatisfaction among the disciples.",แต่ในช่วงไม่กี่วันที่ผ่านมา โรงกลั่นที่ร่วมมือกับเรากลับหยุดส่งสุราหยาดดอกฉยงฮวาโดยไม่มีคำอธิบาย ทำให้เหล่าศิษย์ต่างไม่พอใจยิ่งนัก
-Story-part5_1_3,"Although merchants are profit-driven, there's no reason to deceive our sect. There must be something hidden behind this, let's send someone to find out."
-Story-part5_name,Shortage of Fine Wine
-Story-part5_log,"The Qiongshan Forest winery has suddenly interrupted the supply of fine wine to your sect, you decide to find out why."
+Story-part5_1_3,"Although merchants are profit-driven, there's no reason to deceive our sect. There must be something hidden behind this, let's send someone to find out.",แม้ว่าเหล่าพ่อค้าจะเห็นแก่ผลกำไร แต่ไม่มีเหตุผลที่พวกเขาจะมาหลอกลวงสำนักของเรา เรื่องนี้ต้องมีเงื่อนงำ ส่งคนไปสืบให้แน่ชัด!
+Story-part5_name,Shortage of Fine Wine,ขาดแคลนสุราเลิศรส
+Story-part5_log,"The Qiongshan Forest winery has suddenly interrupted the supply of fine wine to your sect, you decide to find out why.",โรงสุราป่าชงซานจู่ๆ ก็หยุดส่งสุรามายังสำนักของเจ้า เจ้าจึงติดสินใจตามหาว่าทำไม
 Story-part5_2_1,"Such a large winery, and you say there's no Viburnum dew? Is it because you, the cunning merchant, want to hoard and wait for the price to rise?",โรงกลั่นใหญ่โตเช่นนั้น จะบอกว่าสุราหยาดดอกฉยงฮวาหมดก็หมดได้หรือ? หรือว่าเจ้าเศรษฐีเจ้าเล่ห์คิดกักตุนสินค้าไว้เพื่อรอขายแพง?
-Story-part5_2_2,"It's a misunderstanding! A few days ago, a Ragged Taoist who reeked of alcohol came to the door and asked for five jars of wine from the cellar."
-Story-part5_2_3,"I explained repeatedly that although we have the wine, those five jars are reserved for your sect and cannot be sold. But the Taoist got angry when he heard this, pushed me aside, and rushed into the wine cellar..."
+Story-part5_2_2,"It's a misunderstanding! A few days ago, a Ragged Taoist who reeked of alcohol came to the door and asked for five jars of wine from the cellar.",มันเป็นการเข้าใจผิดขอรับ! เมื่อหลายวันก่อน มีนักพรตเต๋าขี้เมาผู้หนึ่งมาหาเรา พอเปิดปากก็เจาะจงขอสุราห้าไหที่เก็บไว้ในคลัง!
+Story-part5_2_3,"I explained repeatedly that although we have the wine, those five jars are reserved for your sect and cannot be sold. But the Taoist got angry when he heard this, pushed me aside, and rushed into the wine cellar...",ข้าน้อยอธิบายซ้ำแล้วซ้ำเล่าว่าสุรามีอยู่ก็จริง แต่ห้าไหนั้นเป็นของส่งให้พวกท่าน ไม่สามารถขายได้ แต่ใครจะรู้ว่าเมื่อได้ยินเช่นนั้น สีหน้าของเขากลับเปลี่ยนเป็นเกรี้ยวกราด แล้วผลักข้าน้อยล้มลง ก่อนพุ่งเข้าไปในคลังสุรา...
 Story-part5_2_4,"I was afraid he would smash the wine in anger, so I followed him in pain, only to see the Ragged Taoist drink all five jars of Viburnum dew like a whale, then fell unconscious on the ground for three days...",ข้าน้อยกลัวว่าจะมีเรื่องเสียหาย จึงแอบตามไปดู กลับพบว่ามีนักพรตเต๋าขี้มอมคนหนึ่ง ใช้ฝ่ามือตบฝาปิดไหสุราเปิด จากนั้นดื่มสุราหยาดดอกฉยงฮวา ถึงห้าไหรวดราวกับกลืนลงทะเล สุดท้ายล้มฟุบหมดสติอยู่กับพื้นถึงสามวันสามคืน…
-Story-part5_2_5,"So, the Taoist should still be passed out in the wine cellar."
-Story-part5_2_6,"Indeed! I tried several times to throw him out, but I didn't expect that this Taoist, although drunk, could easily beat up my clerk..."
-Story-part5_2_7,"This person has entered the Passive state through the wine, and is not someone ordinary people can stop. Let us handle it."
-Story-part5_2_8,"You come to the wine cellar and find that the five jars of fine wine have indeed been drunk dry. A Ragged Taoist on the ground is holding a wine jar, mumbling some dreamy words."
-Story-part5_2_9,"Laughing... in the wine, feasting... in the yellow..."
-Story-part5_2_10,"Life... complete, pure yang... qi rushing..."
-Story-part5_2_11,"God... wonderful use, Taoist law, burp... infinite Taoist law!"
-Story-part5_2_12,The Ragged Taoist seems to have realized something and suddenly attacks with his eyes closed!
+Story-part5_2_5,"So, the Taoist should still be passed out in the wine cellar.",เช่นนั้นแล้ว ตอนนี้นักพรตเต๋านั้นคงยังเมาหลับอยู่ในคลังสุราสินะ?
+Story-part5_2_6,"Indeed! I tried several times to throw him out, but I didn't expect that this Taoist, although drunk, could easily beat up my clerk...",ใช่แล้วขอรับ! ข้าน้อยพยายามจะโยนเขาออกไปหลายครั้ง แต่ไม่คาดคิดว่า แม้จะเมาหัวราน้ำ เขากลับซัดพวกคนงานของข้าน้อยกระเด็นไปคนละทาง...
+Story-part5_2_7,"This person has entered the Passive state through the wine, and is not someone ordinary people can stop. Let us handle it.",บุคคลผู้นี้คงใช้วรยุทธควบคู่ไปกับสุรา คนทั่วไปย่อมต้านรับไม่ไหว ปล่อยให้เป็นหน้าที่ของพวกเราเถอะ
+Story-part5_2_8,"You come to the wine cellar and find that the five jars of fine wine have indeed been drunk dry. A Ragged Taoist on the ground is holding a wine jar, mumbling some dreamy words.",เมื่อเข้าไปยังคลังสุรา ก็พบว่าสุราห้าไหถูกดื่มจนเกลี้ยงแล้ว บนพื้นมีนักพรตเต๋าขี้เมาผู้นั้นนอนกอดไหสุรา พึมพำถ้อยคำประหลาดคล้ายละเมอ
+Story-part5_2_9,"Laughing... in the wine, feasting... in the yellow...",หัวเราะ... สุรา... งานเลี้ยง... ฮวงจง...
+Story-part5_2_10,"Life... complete, pure yang... qi rushing...",สุดชีวิต... สำเร็จ... บริสุทธิ์หยาง... พลังล้นทะลัก...
+Story-part5_2_11,"God... wonderful use, Taoist law, burp... infinite Taoist law!",มหัศจรรย์... วิชา... กฎแห่งเต๋า ฮึก... วิชาไร้สิ้นสุด!
+Story-part5_2_12,The Ragged Taoist seems to have realized something and suddenly attacks with his eyes closed!,นักพรตเต๋าขี้เมาราวกับตระหนักถึงอะไรบางอย่าง จึงพุ่งเข้าจู่โจมข้าทันที ทั้งที่ยังหลับตาอยู่!
 Story-part5_3_1,"This Ragged Taoist is really powerful, even though he's so drunk he's almost unconscious, he's still able to restrain me with every move...",นักพรตเต๋าขี้เมานี่ฝีมือร้ายกาจจริงๆ แม้จะเมามายจนแทบไม่ได้สติ แต่ทุกกระบวนท่ากลับสกัดการโจมตีของข้าได้...
-Story-part5_3_2,"I can't handle him alone, let him continue to pass out here."
+Story-part5_3_2,"I can't handle him alone, let him continue to pass out here.",ข้าคนเดียวคงรับมือไม่ไหว ปล่อยให้เขาเมาต่อไปแล้วกัน
 Story-part5_4_1,What a good Taoist! What a good fist technique!,ช่างเป็นคนดีจริงๆ! เพลงหมัดของเขาก็ยอดเยี่ยมมาก!
 Story-part5_4_2,"Uh... Where did this good disciple come from, actually waking me up... Damn, I haven't paid for the wine yet, wouldn't I be a dishonest person!",อืม... คนดีคนนี้มาจากไหนกัน ถึงได้กล้าปลุกข้าจากการดื่มสุรา... แย่แล้ว ยังไม่ได้จ่ายค่าสุราเลย ข้าคงไม่กลายเป็นคนผิดสัญญาหรอกนะ!
 Story-part5_4_3,"You must be the Taoist Sect's La Tazhang, I've heard a lot about you, and finally I get to meet you today!",ท่านก็คือลาทาจางแห่งสำนักเต๋าใช่หรือไม่ ได้ยินชื่อเสียงท่านมานาน วันนี้มีโอกาสได้พบตัวจริงๆ เสียที!
@@ -2851,12 +2851,12 @@ Story-part42_5_5,"Sweet... so sweet! Master, you are really a god! I can taste a
 Story-part42_5_6,"Whether it's the thorough bitterness just now or the lingering sweetness now... What kind of miracle drug is this, it's simply a cure!"
 Story-part42_5_7,"The medicine just now was powerful, called Healing Ointment, a treasure that has been treasured by {PlayerSurName}, the head of my side for many years. Hey, Master is asking you, why don't you introduce it?"
 Story-part42_op_2_1,It's just a piece of ordinary Milk Snow Cake...
-Story-part42_op_2_2,"This Healing Ointment is more than powerful, it's simply a cure-all!"
-Story-part42_6_1,It's just a piece of ordinary Milk Snow Cake...
-Story-part42_6_2,"{PlayerSurName}, you really know how to joke. If it's just an ordinary cake, how could it cure my taste loss that has troubled me for ten years."
-Story-part42_7_1,"What the master said is true, this Healing Ointment is made from ninety-nine and eighty-one precious herbs, and it is specially used to treat various difficult and complicated diseases."
-Story-part42_7_2,"Ah, how can I use such a precious thing for free? Lady, quickly take out some Gold from the treasury to thank the two!"
-Story-part42_8_1,"Since the disease is cured, you and Lai Toudian walked out of this mansion one after the other."
+Story-part42_op_2_2,"This Healing Ointment is more than powerful, it's simply a cure-all!",ยาบำรุงร่างกายนี้มิได้เลิศล้ำธรรมดา แต่แทบจะรักษาได้สารพัดโรคภัย!
+Story-part42_6_1,It's just a piece of ordinary Milk Snow Cake...,นี่ก็เป็นแค่ขนมนมหิมะธรรมดาชิ้นหนึ่งเท่านั้นเอง...
+Story-part42_6_2,"{PlayerSurName}, you really know how to joke. If it's just an ordinary cake, how could it cure my taste loss that has troubled me for ten years.",ท่านเจ้าสำนัก{PlayerSurName}ช่างมีอารมณ์ขันยิ่งนัก หากเป็นเพียงขนมธรรมดา จะรักษาอาการลิ้นไม่รับรสที่รบกวนข้ามานานนับสิบปีได้อย่างไร
+Story-part42_7_1,"What the master said is true, this Healing Ointment is made from ninety-nine and eighty-one precious herbs, and it is specially used to treat various difficult and complicated diseases.",วาจาของท่านอาจารย์มิได้กล่าวเกินจริง ยาบำรุงร่างกายนี้ต้องใช้สมุนไพรล้ำค่าเก้าสิบเอ็ดชนิดปรุงขึ้นมา สามารถรักษาโรคร้ายนานาชนิดได้
+Story-part42_7_2,"Ah, how can I use such a precious thing for free? Lady, quickly take out some Gold from the treasury to thank the two!",อ่า สิ่งของล้ำค่าเช่นนี้ข้าจะรับไว้โดยไม่มีสิ่งใดตอบแทนได้อย่างไร? แม่นางรีบนำทองคำออกจากคลังหลวง มาตอบแทนทั้งสองท่านให้สมน้ำสมเนื้อ!
+Story-part42_8_1,"Since the disease is cured, you and Lai Toudian walked out of this mansion one after the other.",ในเมื่อยาสามารถรักษาโรคได้สำเร็จ เจ้ากับไล่โถวเตียนก็เดินออกจากจวนหลังนี้ไปทีละคน
 Story-part42_8_2,"Unexpectedly, the master has long recognized {PlayerSurName}, I wonder which temple the master is from, and what is his Dharma name?"
 Story-part42_8_3,"Hey, the monk is Lai Toudian from Shifa Temple, who specializes in madness and laughs at the world."
 Story-part42_9_1,"The monk has been wandering the rivers and lakes for many years, and has never met such an interesting person like you."
@@ -3028,34 +3028,34 @@ Story-part49_7_11,"Ah, I've heard the sisters in the village talk about you, I k
 Story-part49_7_12,"Then Wei'er will go back first, goodbye big brother!"
 Story-part49_8_1,"Master, the little girl in the God of Marriage's Shrine has suddenly disappeared. According to the pilgrims, she was taken away by a beautiful woman."
 Story-part49_8_2,"That must be her mother, let's not meddle in other people's affairs."
-Story-part50_1_1,"Master, Miss Yu Wei'er from the Melody House has come to visit."
-Story-part50_1_2,"{PlayerSurName} Master, there is no Melody House anymore..."
-Story-part50_1_3,"The sisters in the village took Wei'er and broke through the siege, telling me to go to {MyFaction}, saying that you are someone who can protect Wei'er and this Manual."
-Story-part50_1_4,"Afterwards, the nun sister went back to Melody House on her own and stayed there forever, no matter how much Wei tried to stop her..."
-Story-part50_1_5,"Ah... Wei, don't be too sad, Me and the brothers and sisters in the sect will always protect you."
-Story-part50_1_6,"Thank you, big brother..."
-Story-part51_1_1,"Master, Miss Yu Wei'er from the Melody House has come to visit."
-Story-part51_1_2,"Long time no see, big brother! After Wei returned to Melody House last time, she has been practicing martial arts as you suggested."
-Story-part51_1_3,"The nun sister said that with Wei's current martial arts skills, she can protect herself when she goes out to find her parents, so she agreed to let Wei go out and walk around."
-Story-part51_1_4,"Big brother, can you accompany Wei to find her parents?"
-Story-part51_1_5,"Of course, Wei, you are tired from the journey, take a good rest first."
-Story-part51_1_6,"By the way, the nun sister also said to give you this Manual as a thank you for taking care of Wei last time."
-Story-part52_1_1,"Leader, the Maiden House in Lin'an City has been infested with various poisonous insects recently, scaring away the customers."
-Story-part52_1_2,"Since Lin'an is under our sect's jurisdiction, we can't ignore this matter, let me go and check it out."
-Story-part52_name,Poisonous Insect Crisis
-Story-part52_log,"The Maiden House in Lin'an City has been infested with various poisonous insects recently, severely affecting business."
-Story-part52_2_1,How could a good Maiden House suddenly be infested with poisonous insects...
-Story-part52_2_2,"{MyFaction} hero, you came just in time!"
-Story-part52_2_3,"These days, our Maiden House really can't do business, every now and then there are Scorpions, Centipedes crawling in."
-Story-part52_2_4,"The most hateful thing is, these creatures are all poisonous. Although no customers have been stung yet, many regulars are already afraid to come!"
-Story-part52_2_5,"This is Lin'an, there definitely shouldn't be so many local poisonous insects, where did they come from?"
-Story-part52_2_6,Found the person who released the poisonous insects!
-Story-part52_2_7,"Hey, so it's you little beast who's trying to harm Me."
-Story-part52_2_8,"(It seems that someone outside has found the culprit of the poisonous insect infestation, let's go out and see what's going on.)"
-Story-part52_2_9,"It's actually a Jiuli person, obviously a spy who sneaked into the Central Plains!"
-Story-part52_2_10,"No... Caidie is not a spy, she's just helping her brother catch poisonous insects..."
-Story-part52_2_11,"You little girl are full of lies, if you are here to catch poisonous insects, how could you let them run all over the place?"
-Story-part52_2_12,"That's because Caidie is weak and couldn't carry the basket, so the little guys inside ran out..."
+Story-part50_1_1,"Master, Miss Yu Wei'er from the Melody House has come to visit.",ท่านเจ้าสำนัก! แม่นางหยูเว่ยเอ๋อสาวงามจากตำหนักบทเพลง ขอเข้าพบ!
+Story-part50_1_2,"{PlayerSurName} Master, there is no Melody House anymore...",ท่านเจ้าสำนัก{PlayerSurName} ตำหนักบทเพลง ไม่มีอีกต่อไปแล้ว...
+Story-part50_1_3,"The sisters in the village took Wei'er and broke through the siege, telling me to go to {MyFaction}, saying that you are someone who can protect Wei'er and this Manual.",ศิษย์พี่เจ้าตำหนักพาเว่ยเอ๋อฝ่าทัพออกมา นางบอกว่าให้ข้ามาหาท่านที่{MyFaction} และบอกว่าท่านเป็นคนเดียวที่สามารถปกป้องข้า และคัมภีร์เล่มนี้ได้
+Story-part50_1_4,"Afterwards, the nun sister went back to Melody House on her own and stayed there forever, no matter how much Wei tried to stop her...",หลังจากนั้น นางก็ย้อนกลับไปพร้อมเหล่าพี่น้อง เพื่อร่วมเป็นร่วมตายในตำหนักบทเพลง ไม่ว่าข้าจะรั้งอย่างไรก็ไร้ผล...
+Story-part50_1_5,"Ah... Wei, don't be too sad, Me and the brothers and sisters in the sect will always protect you.",ฮ้อ... เว่ยเอ๋อ เจ้าไม่ต้องเสียใจไป ข้ากับพี่น้องในสำนักจะปกป้องเจ้าเอง
+Story-part50_1_6,"Thank you, big brother...",ขอบคุณค่ะ พี่ใหญ่...
+Story-part51_1_1,"Master, Miss Yu Wei'er from the Melody House has come to visit.",ท่านเจ้าสำนัก! แม่นางหยูเว่ยเอ๋อสาวงามจากตำหนักบทเพลง ขอเข้าพบ!
+Story-part51_1_2,"Long time no see, big brother! After Wei returned to Melody House last time, she has been practicing martial arts as you suggested.",พี่ใหญ่! ไม่ได้พบกันเสียนาน! หลังจากเว่ยเอ๋อกลับไปที่ตำหนักบทเพลง ข้าได้ฝึกยุทธ์อย่างหนักตามคำแนะนำของท่านแล้ว
+Story-part51_1_3,"The nun sister said that with Wei's current martial arts skills, she can protect herself when she goes out to find her parents, so she agreed to let Wei go out and walk around.",ศิษย์พี่เจ้าตำหนักบอกข้าว่า ตอนนี้ข้ามีวิชาที่พอจะป้องกันตัวเองได้แล้ว นางจึงยอมให้ข้าออกเดินทางเพื่อตามหาบิดามารดา
+Story-part51_1_4,"Big brother, can you accompany Wei to find her parents?",พี่ใหญ่ ท่านช่วยเดินทางไปกับข้าเพื่อหาพ่อแม่ได้หรือไม่?
+Story-part51_1_5,"Of course, Wei, you are tired from the journey, take a good rest first.",แน่นอน เวยเอ๋อร์ เจ้าเพิ่งเดินทางมา พักผ่อนเสียก่อนเถอะ
+Story-part51_1_6,"By the way, the nun sister also said to give you this Manual as a thank you for taking care of Wei last time.",อ้อ! ศิษย์พี่เจ้าตำหนักยังฝากคัมภีร์เล่มนี้มาให้ท่านด้วย บอกว่าเป็นการตอบแทนที่ท่านดูแลเว่ยเอ๋อในครานั้น
+Story-part52_1_1,"Leader, the Maiden House in Lin'an City has been infested with various poisonous insects recently, scaring away the customers.",ท่านเจ้าสำนัก! หอหมู่บุปผาแห่งเมืองหลินอันเกิดเหตุประหลาด มีพิษร้ายคลานเข้าไปทุกวันจนลูกค้าไม่กล้าเข้าไปอีก
+Story-part52_1_2,"Since Lin'an is under our sect's jurisdiction, we can't ignore this matter, let me go and check it out.",ในเมื่อเมืองหลินอันอยู่ในพื้นที่ของสำนักเรา เราย่อมไม่อาจนิ่งเฉยได้ ข้าจะไปตรวจสอบเอง
+Story-part52_name,Poisonous Insect Crisis,วิกฤตแมลงพิษ
+Story-part52_log,"The Maiden House in Lin'an City has been infested with various poisonous insects recently, severely affecting business.",หอหมู่บุปผาในเมืองหลินอันเกิดพิษร้ายแพร่ระบาด ส่งผลกระทบต่อธุรกิจเป็นอย่างมาก
+Story-part52_2_1,How could a good Maiden House suddenly be infested with poisonous insects...,ที่หอหมู่บุปผานี้ไม่เคยมีปัญหามาก่อน เหตุใดจู่ๆ ถึงเกิดเรื่องเช่นนี้ขึ้นได้...
+Story-part52_2_2,"{MyFaction} hero, you came just in time!",{MyFaction} มาช่วยแล้ว! ดีจริงๆ!
+Story-part52_2_3,"These days, our Maiden House really can't do business, every now and then there are Scorpions, Centipedes crawling in.",หมู่นี้ที่นี่ไม่อาจทำมาค้าขายได้เลย วันเว้นวันต้องมีแมงป่อง ตะขาบ และสัตว์มีพิษอื่นๆ คลานเข้ามา!
+Story-part52_2_4,"The most hateful thing is, these creatures are all poisonous. Although no customers have been stung yet, many regulars are already afraid to come!",ที่น่ารังเกียจที่สุดก็คือ เจ้าพวกนี้ล้วนมีพิษ แม้จะยังไม่มีลูกค้าถูกกัด แต่ขาประจำของพวกเราก็เริ่มกลัวจนไม่กล้ามาอีกแล้ว!
+Story-part52_2_5,"This is Lin'an, there definitely shouldn't be so many local poisonous insects, where did they come from?",นี่คือเมืองหลินอัน เมืองนี้ไม่เคยมีพิษร้ายมากมายถึงเพียงนี้มาก่อน เรื่องนี้ต้องมีเงื่อนงำแน่!
+Story-part52_2_6,Found the person who released the poisonous insects!,พวกเขาพบคนที่แพร่พิษร้ายเข้ามาแล้ว!
+Story-part52_2_7,"Hey, so it's you little beast who's trying to harm Me.",หึ! ที่แท้ก็เป็นเจ้าหนูนี่ที่คิดจะเล่นงานข้า!
+Story-part52_2_8,"(It seems that someone outside has found the culprit of the poisonous insect infestation, let's go out and see what's going on.)",(ดูเหมือนข้างนอกจะมีคนพบตัวการที่ปล่อยพิษแล้ว รีบออกไปดูเถอะ!)
+Story-part52_2_9,"It's actually a Jiuli person, obviously a spy who sneaked into the Central Plains!",ที่แท้เป็นพวกชาวเผ่าจิ่วลี่นี่เอง แค่ดูก็รู้ว่าเป็นสายลับที่แอบแฝงเข้ามาในจงหยวน!
+Story-part52_2_10,"No... Caidie is not a spy, she's just helping her brother catch poisonous insects...",ไม่จริง... ไฉ่ตี้ไม่ใช่สายลับ! ข้าแค่ช่วยพี่ชายตามจับพิษร้ายเท่านั้น...
+Story-part52_2_11,"You little girl are full of lies, if you are here to catch poisonous insects, how could you let them run all over the place?",เด็กหญิงตัวเล็กเช่นเจ้า กลับกล้าโกหกได้หน้าตาเฉย หากเจ้ามาจับสัตว์พิษ แล้วเหตุใดมันถึงได้แพร่กระจายไปทั่วเล่า?
+Story-part52_2_12,"That's because Caidie is weak and couldn't carry the basket, so the little guys inside ran out...",นั่นเพราะไฉ่ตี้ตัวเล็ก แบกกระบุงไม่ไหว พอพลาดพลั้ง สัตว์พวกนี้เลยหลุดออกมา...
 Story-part52_2_13,"Uncles and sisters, don't be angry, Caidie has been trying hard to catch them these days."
 Story-part52_2_14,Catch? Catch my ass! You're clearly cursing people!
 Story-part52_2_15,"Me say don't be charmed by this little girl, the Jiuli Tribe sees us Central Plains people as alien enemies, they can't wait to curse and kill more of us!"
