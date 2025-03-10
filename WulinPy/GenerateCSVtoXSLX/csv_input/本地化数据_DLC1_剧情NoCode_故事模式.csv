@@ -387,114 +387,114 @@ sto-CT-2_1_7,"No matter, just say what you think, speak from your heart.",ไม
 sto-CT-2_1_8,"According to {PlayerSurName}, the ideal monarch should be an outstanding person among the royal nobles, who is capable and cares for the loyal and good. Only such a person can establish a great cause of restoring order from chaos.",ตามความคิดข้าน้อย{PlayerSurName} ฮ่องเต้ในอุดุมคติควรจะโดดเด่นในหมู่ขุนนางทั้งปวง ผู้มีความสามารถและใส่ใจผู้ซื่อสัตย์และภักดี เป็นเพียงผู้เดียวที่สามารถจัดการความโกลาหลและฟื้นฟูบ้านเมืองได้
 sto-CT-2_1_9,Capable and caring for the loyal and good... Luo understands.,มีความสามารถและใส่ใจผู้ซื่อสัตย์และภักดี.... ข้าเข้าใจแล้ว
 sto-CT-2_2_1,"Yo, isn't this the famous Luo Constable? What, not meeting your performance targets, so you're randomly arresting people to make up the numbers?",โอ้ นี่ไม่ใช่ท่านมือปราบหลัวที่มีชื่อเสียงหรอกหรือ? อะไรกัน? ทำผลงานไม่เป็นไปตามเป้าหรือ? ถึงได้จับคนไปทั่วแบบนี้
-sto-CT-2_2_2,"Hua Qingqing... {PlayerSurName} The head of the sect, isn't it a disgrace to your sect to take in such a lowly thief?"
-sto-CT-2_2_3,"Pretending to be a decent person, if {PlayerSurName} the head of the sect took in a fake Honorable like you, that would be a big loss of face!"
-sto-CT-2_2_4,"Little thief, how dare you talk nonsense here!"
-sto-CT-2_2_5,"Luo Tianxiong, I don't care what conflict Qingqing has with your Crime Investigation Bureau, but she is now a part of my {MyFaction}. If you want to discipline her, have you asked for my permission?"
-sto-CT-2_2_6,"Humph! Summer insects cannot talk about ice, Luo will take his leave!"
-sto-CT-2_2_7,"{PlayerGivenName}, you're really something, you almost moved me!"
-sto-CT-2_3_1,Bro... Chief Constable!
-sto-CT-2_3_2,"Qianxue? I heard you were still wandering around the martial world, but I didn't expect to find you in {MyFaction}! Perfect, you can come back with me."
-sto-CT-2_3_3,"I can't... Qianxue was in grave danger before, luckily the young hero {PlayerSurName} saved her..."
-sto-CT-2_3_4,"{MyFaction} needs me now, I can't run away!"
-sto-CT-2_3_5,"Alright, alright, have it your way."
-sto-CT-2_3_6,"{PlayerSurName} Sect Leader, thank you for taking care of Qianxue for so long. I was in a hurry and didn't bring anything with me, but I can give you this manual as a gift."
-sto-CT-2_3_7,"Thank you, Constable Luo. As long as I'm here, Qianxue will never be wronged!"
+sto-CT-2_2_2,"Hua Qingqing... {PlayerSurName} The head of the sect, isn't it a disgrace to your sect to take in such a lowly thief?",หัวชิงชิง... ท่านเจ้าสำนัก{PlayerSurName} รับคนพาลสันดานต่ำช้าเช่นนี้ไว้ในสำนัก ไม่เป็นการเสื่อมเสียชื่อเสียงสำนักของท่านหรอกหรือ?
+sto-CT-2_2_3,"Pretending to be a decent person, if {PlayerSurName} the head of the sect took in a fake Honorable like you, that would be a big loss of face!",แสร้งทำเป็นคนดีไปได้! หากท่านเจ้าสำนัก{PlayerSurName} รับคนหน้าไหว้หลังหลอกอย่างเจ้าเข้าสำนัก นั่นแหละถึงจะน่าอับอายยิ่งกว่า!
+sto-CT-2_2_4,"Little thief, how dare you talk nonsense here!",เจ้าโจรต่ำช้า กล้าดียังไงมาพูดจาไร้สาระที่นี่!
+sto-CT-2_2_5,"Luo Tianxiong, I don't care what conflict Qingqing has with your Crime Investigation Bureau, but she is now a part of my {MyFaction}. If you want to discipline her, have you asked for my permission?",ลั่วเทียนเซี่ยง ข้าไม่สนว่าชิงชิงกับสำนักเทพมือปราบของพวกเจ้ามีเรื่องบาดหมางอะไรกัน แต่ตอนนี้ชิงชิงเป็นคนของสำนัก{MyFaction}ของข้าแล้ว หากเจ้าจะสั่งสอนนาง เจ้าได้รับอนุญาตจากข้าผู้เป็นเจ้าสำนักแล้วหรือยัง!
+sto-CT-2_2_6,"Humph! Summer insects cannot talk about ice, Luo will take his leave!",ฮึ! สีซอให้ควายฟัง ลั่วผู้นี้ขอลา!
+sto-CT-2_2_7,"{PlayerGivenName}, you're really something, you almost moved me!",{PlayerGivenName} ท่านมีน้ำใจจริงๆ ข้าซึ้งใจแทบแย่แล้ว!
+sto-CT-2_3_1,Bro... Chief Constable!,พี่ชาย... หัวหน้ามือปราบ!
+sto-CT-2_3_2,"Qianxue? I heard you were still wandering around the martial world, but I didn't expect to find you in {MyFaction}! Perfect, you can come back with me.",เฉียนเสวี่ย? ข้านึกว่าเจ้ายังท่องยุทธภพอยู่เสียอีก ไม่นึกเลยว่าจะมาอยู่ที่สำนัก{MyFaction}! พอดีเลย เจ้ากลับไปกับข้าแล้วกัน
+sto-CT-2_3_3,"I can't... Qianxue was in grave danger before, luckily the young hero {PlayerSurName} saved her...",มิได้...เฉียนเสวี่ยเกือบจะถูกฆ่าตายแล้ว โชคดีที่จอมยุทธ์น้อย{PlayerSurName}ยอมเอาชีวิตเข้าแลกช่วยนางไว้...
+sto-CT-2_3_4,"{MyFaction} needs me now, I can't run away!",ตอนนี้สำนัก{MyFaction}ต้องการข้า ข้าไม่อาจจากไปได้!
+sto-CT-2_3_5,"Alright, alright, have it your way.",ช่างเถอะ ช่างเถอะ ตามใจเจ้าก็แล้วกัน
+sto-CT-2_3_6,"{PlayerSurName} Sect Leader, thank you for taking care of Qianxue for so long. I was in a hurry and didn't bring anything with me, but I can give you this manual as a gift.",ท่านเจ้าสำนัก{PlayerSurName} ขอบคุณท่านที่ดูแลเฉียนเสวี่ยมาเป็นเวลานานนัก ข้าลั่วเดินทางมาอย่างเร่งรีบ ไม่มีสิ่งใดติดตัว มีเพียงตำราลับเล่มนี้มอบให้เป็นของกำนัลเล็กน้อย
+sto-CT-2_3_7,"Thank you, Constable Luo. As long as I'm here, Qianxue will never be wronged!",ขอบคุณท่านมือปราบลั่ว หากข้าอยู่ที่นี่ เชียนเสวี่ยจะไม่มีทางได้รับความทุกข์แม้แต่น้อย!
 sto-CT-2_3_8,{PlayerGivenName}……,{PlayerGivenName}……
-sto-CT-2_4_1,"Go and inform your sect leader, Bu Juechen from Swallow Nest is here to visit!"
-sto-CT-2_4_2,Sect Leader Bu? What a rare guest.
-sto-CT-2_4_3,"Let's not beat around the bush, I came here for a matter of loyalty, to ask {PlayerSurName} Sect Leader for an answer."
-sto-CT-2_4_4,"Oh, you've come a long way for this answer, it must be very important. Feel free to ask, Sect Leader Bu."
-sto-CT-2_4_5,"Now the former emperor has been killed, the world is in chaos, but a country cannot be without a king for a day. I ask {PlayerSurName} the head of the sect, what does your ideal monarch look like?"
-sto-CT-2_4_6,"Strange, since when did Sect Leader Bu care about such political matters? Why are we, who are far from the martial world, discussing such profound matters?"
-sto-CT-2_4_7,"Let's just chat, nothing is a taboo."
-sto-CT-2_4_8,"In my opinion, {PlayerSurName}, the ideal ruler must be wise, well-known, and preferably have no relations with the Zhao royal family. Only in this way can we inject fresh blood into the world and create a new era!"
-sto-CT-2_4_9,"Well-known, fresh blood... I see."
-sto-CT-2_5_1,"Boss, how did you get here?"
-sto-CT-2_5_2,"Qingqing? Good boy! I thought you were caught by those bastards from the Crime Investigation Bureau. I was so worried that I was looking everywhere for you, but you were hiding here."
-sto-CT-2_5_3,"Stop messing around, come back with me."
-sto-CT-2_5_4,"Boss Bu, can we discuss something... I've already joined {MyFaction}..."
-sto-CT-2_5_5,"At that time, I was severely injured in a fight with those scoundrels from the Crime Investigation Bureau, and {PlayerGivenName} saved me..."
-sto-CT-2_5_6,"Although {PlayerGivenName} is powerful, they still need my cheering, so... I really can't run away!"
-sto-CT-2_5_7,"Sigh, if that's the case, I won't force you."
-sto-CT-2_5_8,"{PlayerSurName} Sect Leader, please take care of Qingqing from now on. I never carry valuables when I go out, so please accept this manual as a token of my gratitude."
-sto-CT-2_5_9,"Sect Leader Bu, rest assured, as long as I'm here, Qingqing will never be wronged!"
-sto-CT-2_5_10,"{PlayerGivenName}, you better keep your word!"
-sto-CT-2_6_1,"Humph, the leader of Swallow Nest, dares to swagger around our sect!"
-sto-CT-2_6_2,"I was wondering who it was, not to mention you Luo Qianxue, even your brother Luo Qianxiong, wouldn't dare to show off in front of me!"
-sto-CT-2_6_3,"Insulting my brother, I'll fight you!"
-sto-CT-2_6_4,"Qianxue, don't be impulsive, leave it to me."
-sto-CT-2_6_5,"Bu Juechen, I don't care what conflicts Qianxue has with your Swallow Nest, but she is now a part of my {MyFaction}. If you want to teach her a lesson, have you asked for my permission?"
-sto-CT-2_6_6,"I didn't expect {PlayerSurName} Sect Leader to be so protective, I'll take my leave!"
-sto-CT-2_6_7,{PlayerGivenName}... Thank you...
+sto-CT-2_4_1,"Go and inform your sect leader, Bu Juechen from Swallow Nest is here to visit!",ไปแจ้งเจ้าสำนักของพวกเจ้า ปู้เจวี่ยเฉินแห่งรังนกนางแอ่นมาขอพบ!
+sto-CT-2_4_2,Sect Leader Bu? What a rare guest.,ท่านเจ้าสำนักปู้? นับว่าเป็นแขกหายากจริง ๆ
+sto-CT-2_4_3,"Let's not beat around the bush, I came here for a matter of loyalty, to ask {PlayerSurName} Sect Leader for an answer.",คนตรงไปตรงมาไม่พูดจาอ้อมค้อม ข้าปู้เดินทางมาในครั้งนี้เพื่อทำตามคำขอร้องของคนผู้หนึ่ง และมาขอคำตอบจากท่านเจ้าสำนัก{PlayerSurName}
+sto-CT-2_4_4,"Oh, you've come a long way for this answer, it must be very important. Feel free to ask, Sect Leader Bu.",โอ้ มาไกลถึงเพียงนี้ เห็นทีคำตอบนี้คงสำคัญยิ่ง ท่านเจ้าสำนักปู้ถามมาได้เลย
+sto-CT-2_4_5,"Now the former emperor has been killed, the world is in chaos, but a country cannot be without a king for a day. I ask {PlayerSurName} the head of the sect, what does your ideal monarch look like?",ยามนี้ฮ่องเต้องค์ก่อนถูกปลงพระชนม์ บ้านเมืองระส่ำระสาย แต่แผ่นดินจะขาดองค์ฮ่องเต้มิได้แม้เพียงวันเดียว ข้าขอถามท่านเจ้าสำนัก{PlayerSurName}ว่า องค์ฮ่องเต้ในอุดมคติของท่านเป็นเช่นไร?
+sto-CT-2_4_6,"Strange, since when did Sect Leader Bu care about such political matters? Why are we, who are far from the martial world, discussing such profound matters?",แปลกจริง ท่านเจ้าสำนักปู้ไปสนใจเรื่องในราชสำนักตั้งแต่เมื่อไหร่กัน? ท่านกับข้าอยู่ในยุทธภพอันไกลโพ้น เหตุใดจึงมาพูดคุยเรื่องลึกซึ้งเช่นนี้?
+sto-CT-2_4_7,"Let's just chat, nothing is a taboo.",คิดเสียว่าพวกเราสองคนคุยเล่นกัน ไม่ต้องมีข้อห้ามใดๆหรอก
+sto-CT-2_4_8,"In my opinion, {PlayerSurName}, the ideal ruler must be wise, well-known, and preferably have no relations with the Zhao royal family. Only in this way can we inject fresh blood into the world and create a new era!",หากจะให้ข้า{PlayerSurName}คิด คนที่จะเป็นฮ่องเต้ผู้ทรงธรรมนั้นต้องรู้จักใช้คนให้เหมาะกับงาน มีชื่อเสียงเลื่องลือ และที่ดีที่สุดคือต้องไม่เกี่ยวข้องกับราชวงศ์จ้าวเลยแม้แต่น้อย มีเพียงเท่านี้เท่านั้น จึงจะนำเลือดใหม่มาหล่อเลี้ยงแผ่นดิน และสร้างฟ้าใหม่ได้!
+sto-CT-2_4_9,"Well-known, fresh blood... I see.",ชื่อเสียงเลื่องลือ สายเลือดใหม่... ข้าเข้าใจแล้ว
+sto-CT-2_5_1,"Boss, how did you get here?",ท่านพี่ปู้? ท่านมาได้อย่างไร!
+sto-CT-2_5_2,"Qingqing? Good boy! I thought you were caught by those bastards from the Crime Investigation Bureau. I was so worried that I was looking everywhere for you, but you were hiding here.",ชิงชิง? ไอ้หยา! ข้านึกว่าเจ้าโดนพวกสำนักเทพมือปราบสารเลวจับตัวไปเสียแล้ว ข้าเป็นห่วงแทบแย่ เที่ยวตามหาเจ้าไปทั่ว ที่แท้เจ้าก็มาหลบอยู่ที่นี่เอง
+sto-CT-2_5_3,"Stop messing around, come back with me.",อย่าดื้อเลย กลับไปกับข้าเถอะ
+sto-CT-2_5_4,"Boss Bu, can we discuss something... I've already joined {MyFaction}...",ท่านพี่ปู้ ขอปรึกษาอะไรหน่อยได้ไหม... ข้าเข้าร่วมสำนัก{MyFaction}แล้ว...
+sto-CT-2_5_5,"At that time, I was severely injured in a fight with those scoundrels from the Crime Investigation Bureau, and {PlayerGivenName} saved me...",ตอนนั้นข้ากับพวกเดนคนจากสำนักเทพมือปราบบาดเจ็บสาหัสกันทั้งคู่ เป็น{PlayerGivenName}ที่ช่วยชีวิตข้าไว้...
+sto-CT-2_5_6,"Although {PlayerGivenName} is powerful, they still need my cheering, so... I really can't run away!",{PlayerGivenName}แม้จะมีฤทธิ์เดชมากมาย แต่ก็ยังขาดเสียงเชียร์ของข้าไม่ได้ ดังนั้น...ข้าไปไม่ได้จริง ๆ!
+sto-CT-2_5_7,"Sigh, if that's the case, I won't force you.",เฮ้อ ในเมื่อเป็นเช่นนี้ ข้าก็ไม่ฝืนใจเจ้าแล้วกัน
+sto-CT-2_5_8,"{PlayerSurName} Sect Leader, please take care of Qingqing from now on. I never carry valuables when I go out, so please accept this manual as a token of my gratitude.",ท่านเจ้าสำนัก{PlayerSurName} ต่อจากนี้ ข้าฝากชิงชิงไว้กับท่านด้วย ข้าปู้เดินทางออกนอกบ้านไม่เคยพกทรัพย์สินติดตัว มีเพียงตำราลับเล่มนี้มอบให้เพื่อเป็นการตอบแทน
+sto-CT-2_5_9,"Sect Leader Bu, rest assured, as long as I'm here, Qingqing will never be wronged!",ท่านเจ้าสำนักปู้วางใจได้เลย ตราบใดที่มีข้าอยู่ ชิงชิงจะไม่มีทางได้รับความทุกข์แม้แต่น้อย!
+sto-CT-2_5_10,"{PlayerGivenName}, you better keep your word!",{PlayerGivenName} ท่านต้องรักษาคำพูดกับข้าให้ดีนะ!
+sto-CT-2_6_1,"Humph, the leader of Swallow Nest, dares to swagger around our sect!",ฮึ่ม! หัวหน้าโจรแห่งรังนกนางแอ่น กล้าดีอย่างไรมาเดินเพ่นพ่านในสำนักของข้า!
+sto-CT-2_6_2,"I was wondering who it was, not to mention you Luo Qianxue, even your brother Luo Qianxiong, wouldn't dare to show off in front of me!",นึกว่าใคร ที่แท้ก็เจ้า ลั่วเฉียนเสวี่ย อย่าว่าแต่เจ้าเลย แม้แต่พี่ชายเจ้า ลั่วเทียนเซี่ยง ก็ยังไม่กล้ามาวางอำนาจต่อหน้าข้า!
+sto-CT-2_6_3,"Insulting my brother, I'll fight you!",ดูหมิ่นพี่ชายของข้า ข้าจะฆ่าเจ้าซะ!
+sto-CT-2_6_4,"Qianxue, don't be impulsive, leave it to me.",เฉียนเสวี่ย อย่าใจร้อนเลย ปล่อยให้ข้าจัดการเองก็พอ
+sto-CT-2_6_5,"Bu Juechen, I don't care what conflicts Qianxue has with your Swallow Nest, but she is now a part of my {MyFaction}. If you want to teach her a lesson, have you asked for my permission?",ปู้เจวี๋ยเฉิน ข้าไม่สนว่าเฉียนเสวี่ยกับรังนกนางแอ่นของพวกเจ้ามีเรื่องบาดหมางอะไรกัน แต่ตอนนี้เฉียนเสวี่ยเป็นคนของสำนัก{MyFaction}ของข้าแล้ว หากเจ้าจะสั่งสอนนาง เจ้าได้รับอนุญาตจากข้าผู้เป็นเจ้าสำนักแล้วหรือยัง!
+sto-CT-2_6_6,"I didn't expect {PlayerSurName} Sect Leader to be so protective, I'll take my leave!",นึกไม่ถึงว่าเจ้าสำนัก{PlayerSurName}จะปกป้องคนของตนถึงเพียงนี้ ข้าขอลา!
+sto-CT-2_6_7,{PlayerGivenName}... Thank you...,{PlayerGivenName}...ขอบคุณนะ...
 sto-CT-2_name,Main Quest,ภารกิจหลัก
-sto-CT-2_log,Expand the power of the sect to 8 grid spaces.
-sto-KW-1_1_1,"Your Highness, this way please, we have arrived at {MyFaction}."
-sto-KW-1_1_2,A young man of extraordinary bearing
-sto-KW-1_1_3,"Hmm, although the layout is simple and the scale is limited, it has a remarkable atmosphere."
-sto-KW-1_1_4,"Sir, who is this young man by your side?"
-sto-KW-1_1_5,"How dare you, this is Duke Kang who guards Lin'an City! {PlayerSurName} Sect leader, kneel down and greet him quickly!"
-sto-KW-1_1_6,"No harm done, {PlayerSurName} Sect leader is a martial artist, he has his own pride, and I am not a person who cares about small details."
-sto-KW-1_1_7,"Greetings, Duke Kang. May I ask the purpose of your visit?"
-sto-KW-1_1_8,"I'm ashamed to say, there's no important matter. I've always heard about the exciting deeds of {PlayerSurName} Sect leader and {MyFaction} from my subordinates, and I was curious to find out more."
-sto-KW-1_1_9,"A small token of my appreciation, I hope you will accept it."
-sto-KW-1_1_10,"No reward without merit. Your Highness, if you give such a generous gift without asking for anything in return, I really can't accept it."
-sto-KW-1_2_1,"{PlayerSurName} Sect leader, you can rest assured and accept it. Since you have the heart to help me, I will certainly make good use of you in the future."
-sto-KW-1_2_2,"Duke Kang, is it really worth it for you to be so kind to such a martial arts sect..."
-sto-KW-1_2_3,"Hmph, I have plenty of useless people like you around me, but I lack heroes like {PlayerSurName} Sect leader. Should I make use of you instead of them?"
-sto-KW-1_2_4,"I have an important task for your sect: Jiujiang Fortress often robs our merchant ships in Lin'an, causing trouble. Although the whole fortress has been destroyed, the siblings Ding Fengbo and Ding Haitang are still at large."
-sto-KW-1_2_5,My subordinates have found traces of these siblings. They will be staying in your sect's territory for a while. The exact location needs further investigation.
-sto-KW-1_2_6,"In that case, let our sect handle it."
-sto-KW-1_2_7,Good! Straight to the point. I will take my leave now and look forward to hearing good news from your sect.
+sto-CT-2_log,Expand the power of the sect to 8 grid spaces.,ขยายอิทธิพลของสำนักไปให้ครอบคลุม 8 พื้นที่
+sto-KW-1_1_1,"Your Highness, this way please, we have arrived at {MyFaction}.",เชิญฝ่าบาทเสด็จทางนี้ พวกเรามาถึงสำนัก{MyFaction}แล้วพ่ะย่ะค่ะ
+sto-KW-1_1_2,A young man of extraordinary bearing,หนุ่มน้อยผู้มีสง่าราศีไม่ธรรมดา
+sto-KW-1_1_3,"Hmm, although the layout is simple and the scale is limited, it has a remarkable atmosphere.",ถึงแม้จะดูธรรมดาและไม่ใหญ่โตนัก แต่กลับมีบรรยากาศที่น่าเกรงขาม
+sto-KW-1_1_4,"Sir, who is this young man by your side?",นายท่าน หนุ่มน้อยที่อยู่ข้างท่านคือใครกัน
+sto-KW-1_1_5,"How dare you, this is Duke Kang who guards Lin'an City! {PlayerSurName} Sect leader, kneel down and greet him quickly!",บังอาจ! นี่คืออ๋องคัง ผู้ครองเมืองหลินอัน! เจ้าสำนัก{PlayerSurName} ยังไม่รีบก้มลงคำนับอีกหรือ!
+sto-KW-1_1_6,"No harm done, {PlayerSurName} Sect leader is a martial artist, he has his own pride, and I am not a person who cares about small details.",ไม่ถือสา ไม่ถือสา เจ้าสำนัก{PlayerSurName} เป็นผู้กล้าแห่งแผ่นดิน ย่อมมีศักดิ์ศรีของตน และตัวข้าเองก็มิได้ยึดติดในพิธีรีตอง
+sto-KW-1_1_7,"Greetings, Duke Kang. May I ask the purpose of your visit?",คารวะอ๋องคัง ไม่ทราบว่าที่ท่านเสด็จมาในครั้งนี้มีธุระอันใดหรือ?
+sto-KW-1_1_8,"I'm ashamed to say, there's no important matter. I've always heard about the exciting deeds of {PlayerSurName} Sect leader and {MyFaction} from my subordinates, and I was curious to find out more.",กล่าวไปก็รู้สึกละอายยิ่งนัก ที่จริงแล้วมิได้มีกิจธุระอันใดสำคัญ เพียงแต่ข้าได้ยินเรื่องราวอันน่าเลื่อมใสของท่านเจ้าสำนัก{PlayerSurName} และสำนัก{MyFaction} จากเหล่าขุนนางอยู่บ่อยครั้ง จึงเกิดความสนใจใคร่รู้ขึ้นมาในฉับพลัน
+sto-KW-1_1_9,"A small token of my appreciation, I hope you will accept it.",ของขวัญเล็กน้อย ไม่ได้มากมายอะไร หวังว่าท่านจะไม่ถือสาและรับไว้ด้วยความยินดี
+sto-KW-1_1_10,"No reward without merit. Your Highness, if you give such a generous gift without asking for anything in return, I really can't accept it.",มิได้สร้างความดีความชอบ มิบังอาจรับของกำนัลอันล้ำค่านี้ หากท่านมิได้มีเรื่องอันใดให้ข้าได้รับใช้ ข้าคงมิกล้ารับไว้
+sto-KW-1_2_1,"{PlayerSurName} Sect leader, you can rest assured and accept it. Since you have the heart to help me, I will certainly make good use of you in the future.",ท่านเจ้าสำนัก{PlayerSurName} จงรับไว้เถิด เผื่อว่าท่านจะมีน้ำใจช่วยเหลือข้า ข้าจะตอบแทนท่านอย่างงามในภายภาคหน้า
+sto-KW-1_2_2,"Duke Kang, is it really worth it for you to be so kind to such a martial arts sect...",ท่านอ๋องคัง สำนักจอมยุทธ์เช่นนี้ สมควรที่ท่านจะแสดงไมตรีถึงเพียงนี้หรือ...
+sto-KW-1_2_3,"Hmph, I have plenty of useless people like you around me, but I lack heroes like {PlayerSurName} Sect leader. Should I make use of you instead of them?",เฮอะ! รอบกายข้ามีแต่พวกไร้ประโยชน์เช่นเจ้า แต่กลับขาดแคลนยอดคนเช่นท่านเจ้าสำนัก{PlayerSurName} หากไม่ให้เกียรติเขา แล้วจะให้เกียรติผู้ใด?
+sto-KW-1_2_4,"I have an important task for your sect: Jiujiang Fortress often robs our merchant ships in Lin'an, causing trouble. Although the whole fortress has been destroyed, the siblings Ding Fengbo and Ding Haitang are still at large.",ข้ามีกิจสำคัญที่ต้องการให้สำนักท่านไปจัดการ: ค่ายน้ำจิ่วเจียงมักปล้นสะดมเรือสินค้าของหลินอัน สร้างความเสียหายไปทั่ว แม้ว่าตอนนี้ค่ายจะถูกทำลายแล้ว แต่สองพี่น้องติงเฟิงป๋อและติงไห่ถังยังคงหลบหนีไปได้
+sto-KW-1_2_5,My subordinates have found traces of these siblings. They will be staying in your sect's territory for a while. The exact location needs further investigation.,เหล่าข้ารับใช้ของข้าได้สืบทราบถึงร่องรอยของสองพี่น้องคู่นั้นแล้ว พวกมันบังเอิญจะมาหลบซ่อนอยู่ในเขตสำนักของท่านเป็นเวลาชั่วระยะหนึ่ง ส่วนที่ซ่อนตัวแน่ชัดนั้น จำเป็นต้องสืบสวนต่อไป
+sto-KW-1_2_6,"In that case, let our sect handle it.",เมื่อเป็นเช่นนี้ ข้าจะรับภารกิจนี้ไปจัดการเอง
+sto-KW-1_2_7,Good! Straight to the point. I will take my leave now and look forward to hearing good news from your sect.,ยอดเยี่ยม! ท่านช่างเป็นผู้ที่พูดจาได้ฉะฉานยิ่ง เช่นนั้นข้าขอตัวลาไปก่อน และจะรอคอยข่าวดีจากสำนักท่าน
 sto-KW-1_name,Main Quest,ภารกิจหลัก
 sto-CW-1_name,Main Quest,ภารกิจหลัก
 sto-FCT-1_name,Main Quest,ภารกิจหลัก
-sto-KW-1_log,Wait for further investigation from Duke Kang's subordinates.
-sto-KW-1_3_1,"Your Highness, the Jiujiang Fortress near Lin'an City has been very restless recently, and many merchant ships have been robbed, causing complaints among the merchants in Lin'an City. Why not... entrust {PlayerSurName} Sect leader to handle this matter?"
-sto-KW-1_3_2,"Good idea, it's appropriate to entrust this matter to {MyFaction}!"
-sto-KW-1_3_3,"{PlayerSurName} Sect leader, are you willing to lead your disciples to eliminate Jiujiang Fortress for me?"
-sto-KW-1_3_4,"As Duke Kang commands, I will obey."
-sto-KW-1_3_5,Good! Straight to the point. I will take my leave now and look forward to hearing good news from your sect.
+sto-KW-1_log,Wait for further investigation from Duke Kang's subordinates.,รอคอยการสืบสวนเพิ่มเติมจากเหล่าข้ารับใช้ของอ๋องคัง
+sto-KW-1_3_1,"Your Highness, the Jiujiang Fortress near Lin'an City has been very restless recently, and many merchant ships have been robbed, causing complaints among the merchants in Lin'an City. Why not... entrust {PlayerSurName} Sect leader to handle this matter?",ฝ่าบาท ค่ายน้ำจิ่วเจียงที่อยู่ใกล้เมืองหลินอันนั้นช่วงนี้ก่อความเดือดร้อน เรือสินค้าที่สัญจรไปมาถูกพวกมันปล้นไปแทบหมดสิ้น จนพ่อค้าในเมืองหลินอันต่างพากันโอดครวญ มิสู้... มอบหมายให้ท่านเจ้าสำนัก{PlayerSurName} ไปจัดการเรื่องนี้ดีหรือไม่พ่ะย่ะค่ะ?
+sto-KW-1_3_2,"Good idea, it's appropriate to entrust this matter to {MyFaction}!",เยี่ยม! มอบหมายเรื่องนี้ให้สำนัก{MyFaction}จัดการ ย่อมเหมาะสมที่สุด!
+sto-KW-1_3_3,"{PlayerSurName} Sect leader, are you willing to lead your disciples to eliminate Jiujiang Fortress for me?",ท่านเจ้าสำนัก{PlayerSurName} ท่านยินดีที่จะนำเหล่าศิษย์ ไปกำจัดค่ายน้ำจิ่วเจียงให้ข้าหรือไม่?
+sto-KW-1_3_4,"As Duke Kang commands, I will obey.",เมื่อท่านอ๋องคังมีบัญชา ข้าน้อยย่อมปฏิบัติตามโดยมิมีข้อแม้
+sto-KW-1_3_5,Good! Straight to the point. I will take my leave now and look forward to hearing good news from your sect.,ยอดเยี่ยม! ท่านช่างเป็นผู้ที่พูดจาได้ฉะฉานยิ่ง เช่นนั้นข้าขอตัวลาไปก่อน และจะรอคอยข่าวดีจากสำนักท่าน
 sto-KW-1_name1,Main Quest,ภารกิจหลัก
-sto-KW-1_log1,Eliminate Jiujiang Fortress.
-sto-KW-2-1_1_1,"Master, someone has thrown a secret letter into the sect, please take a look."
-sto-KW-2-1_1_2,It seems that Duke Kang's people have found the hiding place of Ding Fengbo and Ding Haitang. The letter says they will move out <color=#a94e37>in two months</color>. We need to act quickly.
-sto-KW-2-1_name,Pursue the Ding siblings
-sto-KW-2-1_log,You accept Duke Kang's order to capture the Ding siblings who have fled to your sect.
-sto-KW-2-1_2_1,"The Ding siblings are hiding in a winding mountain cave\nYou light torches and slowly advance\nFinally, at the end of the cave, you find your targets eating..."
-sto-KW-2-1_2_2,"Big brother, I'm full. You're still injured, eat more to recover faster."
-sto-KW-2-1_2_3,"You silly girl, it's just a minor injury, why make a fuss? Here, eat this fish I caught, don't leave a single bone."
-sto-KW-2-1_2_4,Who's there! Show yourself!
-sto-KW-2-1_2_5,I didn't expect the once powerful master of Jiujiang Fortress to be eating fish to survive in such a cramped Mountain cave!
-sto-KW-2-1_2_6,"Debts have their debtors, we have no quarrel with you, why are you so persistent?"
-sto-KW-2-1_2_7,"Sorry, we are just following orders, no offense."
-sto-KW-2-1_2_8,"Sister, hide behind me, let your big brother protect you!"
-sto-KW-2-1_3_1,I didn't expect Ding Fengbo to be so brave in such a desperate situation... Let's spare these poor siblings.
-sto-KW-2-1_3_2,"Although we can't report to Duke Kang, we have no choice but to retreat for now."
-sto-KW-2-1_4_1,"The Ding siblings have been captured by us, it's fate."
-sto-KW-2-1_4_2,Tie them up and hand them over to Duke Kang's men.
-sto-KW-2-1_4_3,"Duke Kang is very pleased with your capture of the Ding siblings\nHe sent a box of silver as a reward for completing the task"
-sto-KW-2-1_5_1,"Master, Duke Kang sent a message expressing his disappointment in your breach of trust..."
-sto-KW-2-1_5_2,"Ah, how could I forget about that, I'll apologize to Duke Kang next time."
-sto-KW-2-2_1_1,"Master, we're too late, Jiujiang Fortress has been destroyed by other sects..."
-sto-KW-2-2_1_2,"All that work for nothing... But this doesn't count as a failure, I believe Duke Kang will have other tasks for us."
-sto-KW-2-2_2_1,"The once formidable Shui Village that dominated the nine rivers\nIs now at your mercy\nAs the sun sets and the waves roll\nDing Fengbo remains silent, admitting his inferior skills\nBut their failure was already destined when they broke their oath to rob the rich to help the poor..."
-sto-KW-2-2_2_2,"Victors and losers, kill or spare me, Ding Fengbo, as you wish!"
-sto-KW-2-2_2_3,"Jiujiang Fortress has fallen, Duke Kang should be able to rest easy now."
-sto-KW-2-2_2_4,"His Highness is very pleased with your Swift as Lightning, he ordered me to bring a box of silver as a reward, if there are new instructions, I will convey them immediately."
-sto-KW-2-2_2_5,Thank you for your hard work!
+sto-KW-1_log1,Eliminate Jiujiang Fortress.,กำจัดค่ายน้ำจิ่วเจียง
+sto-KW-2-1_1_1,"Master, someone has thrown a secret letter into the sect, please take a look.",เรียนท่านเจ้าสำนัก มีผู้ส่งสารลับมายังสำนัก โปรดท่านตรวจสอบ
+sto-KW-2-1_1_2,It seems that Duke Kang's people have found the hiding place of Ding Fengbo and Ding Haitang. The letter says they will move out <color=#a94e37>in two months</color>. We need to act quickly.,ดูท่าคนของอ๋องคังจะพบที่ซ่อนของติงเฟิงป๋อกับติงไห่ถังแล้ว ในจดหมายเขียนว่า <color=#a94e37>อีกสองเดือน</color> พวกมันจะย้ายที่ซ่อน ข้าต้องรีบลงมือแล้ว
+sto-KW-2-1_name,Pursue the Ding siblings,ตามล่าสองพี่น้องสกุลติง
+sto-KW-2-1_log,You accept Duke Kang's order to capture the Ding siblings who have fled to your sect.,ท่านรับบัญอ๋องคัง สาบานว่าจะจับกุมสองพี่น้องสกุลติงที่หลบหนีมายังสำนักของท่านให้จงได้
+sto-KW-2-1_2_1,"The Ding siblings are hiding in a winding mountain cave\nYou light torches and slowly advance\nFinally, at the end of the cave, you find your targets eating...","สองพี่น้องสกุลติงซ่อนตัวอยู่ในถ้ำคดเคี้ยวแห่งหนึ่ง\nพวกท่านจุดคบไฟ ค่อยๆ เดินหน้าไปทีละก้าว\nในที่สุดก็พบเป้าหมายที่กำลังกินอาหารอยู่ที่ปลายถ้ำ..."
+sto-KW-2-1_2_2,"Big brother, I'm full. You're still injured, eat more to recover faster.",พี่ใหญ่ ข้าอิ่มแล้ว ท่านยังมีบาดแผล กินเข้าไปอีกหน่อยจะได้หายไวๆ
+sto-KW-2-1_2_3,"You silly girl, it's just a minor injury, why make a fuss? Here, eat this fish I caught, don't leave a single bone.",ยัยทึ่ม บาดแผลเล็กน้อยแค่นี้ เหตุใดต้องทำเรื่องใหญ่โต? มาๆ กินปลาที่พี่ใหญ่จับมาให้ กินให้เกลี้ยงอย่าให้เหลือแม้แต่ก้าง
+sto-KW-2-1_2_4,Who's there! Show yourself!,ผู้ใดกัน! เผยตัวออกมา!
+sto-KW-2-1_2_5,I didn't expect the once powerful master of Jiujiang Fortress to be eating fish to survive in such a cramped Mountain cave!,ไม่คาดคิดเลยว่า ครั้งหนึ่งเคยเป็นเจ้าแห่งน้ำจิ่วเจียงที่ยิ่งใหญ่เกรียงไกร วันนี้กลับต้องมากินปลาประทังชีวิตอยู่ในถ้ำแคบๆ เช่นนี้!
+sto-KW-2-1_2_6,"Debts have their debtors, we have no quarrel with you, why are you so persistent?",กรรมใดใครก่อ กรรมนั้นย่อมตามสนอง เมื่อพวกเรามิได้มีเรื่องบาดหมางกับพวกท่าน เหตุใดจึงต้องตามรังควานกันถึงเพียงนี้?
+sto-KW-2-1_2_7,"Sorry, we are just following orders, no offense.",ขออภัย พวกเราก็เพียงทำตามบัญชา ต้องขออภัยที่ล่วงเกิน
+sto-KW-2-1_2_8,"Sister, hide behind me, let your big brother protect you!",น้องหญิง เร็วเข้า มาหลบอยู่ข้างหลังพี่ พี่ใหญ่จะปกป้องเจ้าเอง!
+sto-KW-2-1_3_1,I didn't expect Ding Fengbo to be so brave in such a desperate situation... Let's spare these poor siblings.,ไม่นึกเลยว่าในสถานการณ์จนตรอกเช่นนี้ ติงเฟิงป๋อยังคงกล้าหาญหาใดเปรียบ... ปล่อยสองพี่น้องผู้น่าสงสารคู่นี้ไปตามยถากรรมเถิด
+sto-KW-2-1_3_2,"Although we can't report to Duke Kang, we have no choice but to retreat for now.",แม้จะมิอาจรายงานต่ออ๋องคังได้ แต่ก็จำต้องถอยทัพไปก่อน
+sto-KW-2-1_4_1,"The Ding siblings have been captured by us, it's fate.",สองพี่น้องสกุลติงถูกพวกเราจับกุมตัวแล้ว ช่างเป็นวาสนาและโชคชะตาโดยแท้
+sto-KW-2-1_4_2,Tie them up and hand them over to Duke Kang's men.,มัดพวกมันไว้ แล้วส่งให้คนของอ๋องคัง
+sto-KW-2-1_4_3,"Duke Kang is very pleased with your capture of the Ding siblings\nHe sent a box of silver as a reward for completing the task","อ๋องคังทรงพอพระทัยอย่างยิ่งต่อการที่พวกท่านจับกุมสองพี่น้องสกุลติงได้\nจึงส่งคนให้นำหีบเงินมาหนึ่งหีบ เพื่อเป็นสินน้ำใจตอบแทนในการทำภารกิจสำเร็จ"
+sto-KW-2-1_5_1,"Master, Duke Kang sent a message expressing his disappointment in your breach of trust...",เรียนท่านเจ้าสำนัก อ๋องคังส่งคนมาแจ้งสาร แสดงความผิดหวังอย่างยิ่งต่อการกระทำที่ท่านผิดคำมั่นสัญญา...
+sto-KW-2-1_5_2,"Ah, how could I forget about that, I'll apologize to Duke Kang next time.",เฮ้อ ลืมเลือนเรื่องนี้ไปเสียสนิท คราวหน้าคงต้องไปขออภัยอ๋องคังให้ดีเสียแล้ว
+sto-KW-2-2_1_1,"Master, we're too late, Jiujiang Fortress has been destroyed by other sects...",เรียนท่านเจ้าสำนัก พวกเรามาช้าไปก้าวหนึ่ง ค่ายน้ำจิ่วเจียงถูกสำนักอื่นทำลายไปเสียแล้ว...
+sto-KW-2-2_1_2,"All that work for nothing... But this doesn't count as a failure, I believe Duke Kang will have other tasks for us.",เสียแรงเปล่าไปครั้งหนึ่ง... แต่เรื่องนี้ก็ถือว่ามิได้ล้มเหลวเสียทีเดียว ข้าเชื่อว่าท่านอ๋องคังคงจะมีภารกิจอื่นมามอบหมายให้เราอีก
+sto-KW-2-2_2_1,"The once formidable Shui Village that dominated the nine rivers\nIs now at your mercy\nAs the sun sets and the waves roll\nDing Fengbo remains silent, admitting his inferior skills\nBut their failure was already destined when they broke their oath to rob the rich to help the poor...","ครั้งหนึ่งเคยเป็นค่ายน้ำจิ่วเจียงที่กล้าหาญเกรียงไกร\nวันนี้กลับถูกท่านเล่นงานอยู่ใต้อุ้งมือ\nสุริยาลับขอบฟ้า คลื่นลมโหมกระหน่ำ\nติงเฟิงป๋อเงียบงัน มิเอ่ยสิ่งใด เพียงแต่กล่าวว่าฝีมือด้อยกว่าผู้อื่น\nแต่ความพ่ายแพ้ของพวกเขาในวันนี้ ได้ถูกกำหนดไว้แล้วอย่างสมบูรณ์ตั้งแต่พวกเขาละเมิดคำสาบานที่จะปล้นคนรวยช่วยเหลือคนจน..."
+sto-KW-2-2_2_2,"Victors and losers, kill or spare me, Ding Fengbo, as you wish!",ผู้ชนะคือเจ้า ผู้แพ้คือทาส จะฆ่าจะแกงข้า ติงเฟิงป๋อ ก็สุดแต่ใจท่านเถิด!
+sto-KW-2-2_2_3,"Jiujiang Fortress has fallen, Duke Kang should be able to rest easy now.",ค่ายน้ำจิ่วเจียงถูกทำลายสิ้นแล้ว ครานี้อ๋องคังคงนอนตาหลับแล้วกระมัง
+sto-KW-2-2_2_4,"His Highness is very pleased with your Swift as Lightning, he ordered me to bring a box of silver as a reward, if there are new instructions, I will convey them immediately.",ฝ่าบาททรงพอพระทัยอย่างยิ่งต่อความรวดเร็วและเด็ดขาดของสำนักท่าน จึงมีบัญชาให้ข้านำหีบเงินมาหนึ่งหีบเป็นรางวัล หากมีบัญชาใหม่ ข้าน้อยจะรีบนำมาแจ้งให้ทราบโดยทันที
+sto-KW-2-2_2_5,Thank you for your hard work!,ต้องลำบากท่านขุนนางเสียแล้ว!
 sto-KW-2-2_name,Main Quest,ภารกิจหลัก
-sto-KW-2-2_log,"Continue to expand the territory, waiting for the next instruction from Duke Kang"
+sto-KW-2-2_log,"Continue to expand the territory, waiting for the next instruction from Duke Kang",ขยายอาณาเขตต่อไป และรอคอยคำสั่งต่อไปจากอ๋องคัง
 sto-KW-3_1_1,"Master, Duke Kang sent a message saying that the Langya Sword Pavilion's sword casting ceremony is in 3 months, and he would like to invite you to accompany him.",เรียนท่านเจ้าสำนัก ท่านอ๋องคังได้ส่งสารมาแจ้งว่าอีก 3 เดือนข้างหน้า จะมีงานประลองกระบี่ที่ศาลากระบี่หลางหยา และท่านอ๋องมีความประสงค์จะเชิญท่านไปเข้าร่วมงานกับเขาด้วย.
-sto-KW-3_1_2,"Having me travel all the way to join such an event, it can't be as simple as just accompanying him..."
+sto-KW-3_1_2,"Having me travel all the way to join such an event, it can't be as simple as just accompanying him...",ให้ข้าเดินทางไกลมาเข้าร่วมงานรื่นเริงเช่นนี้ ย่อมมิใช่เพียงแค่มาเป็นแขกชมพิธีอย่างแน่นอน...
 sto-KW-3_1_3,"Not only does he want our sect to be his free bodyguards, but he also wants to show the world that we have been recruited by him, what a clever plan."
 sto-KW-3_1_4,"What should we do, should we go to the ceremony as he wishes?"
 sto-KW-3_op_1_1,"We can't be controlled by others, whoever wants to go to the ceremony can go"
-sto-KW-3_op_1_2,"We can't offend Duke Kang at the moment, let's go to the ceremony"
+sto-KW-3_op_1_2,"We can't offend Duke Kang at the moment, let's go to the ceremony",เวลานี้พวกเรามิอาจสร้างความขุ่นเคืองแก่อ๋องคังได้ ไปร่วมงานเถอะ
 sto-KW-3_2_1,"We can't be controlled by others, whoever wants to go to the ceremony can go!"
-sto-KW-3_2_2,"Help me write a letter, tell Duke Kang that I suddenly fell ill and need to rest, and can't accompany him to the ceremony."
-sto-KW-3_2_3,"Yes, I'll write it right away."
-sto-KW-3_2_4,"According to the disciple who delivered the letter\nDuke Kang was not only calm when he saw the letter\nHe also kindly entertained the disciple for three days\nBut you know very well, the real power players never show their true feelings..."
+sto-KW-3_2_2,"Help me write a letter, tell Duke Kang that I suddenly fell ill and need to rest, and can't accompany him to the ceremony.",ช่วยข้าเขียนจดหมายแจ้งแก่อ๋องคังทีว่าข้าล้มป่วยกระทันหันและต้องการเวลาพักฟื้น จึงมิอาจไปร่วมงานของเขาได้
+sto-KW-3_2_3,"Yes, I'll write it right away.",ได้ ข้าจะลงมือเขียนทันที
+sto-KW-3_2_4,"According to the disciple who delivered the letter\nDuke Kang was not only calm when he saw the letter\nHe also kindly entertained the disciple for three days\nBut you know very well, the real power players never show their true feelings...","เมื่อฟังจากศิษย์ที่นำจดหมายไปส่ง\nอ๋องคังไม่เพียงแต่มีสีหน้าสงบนิ่งเมื่อได้เห็นจดหมายฉบับนี้เท่านั้น\nเขายังเลี้ยงดูศิษย์ผู้นำจดหมายไปส่งอย่างดีเป็นเวลาถึงสามวัน\nแต่ท่านก็ทราบดีว่าผู้ทรงอำนาจที่แท้จริงนั้น ล้วนไม่เคยเปิดเผยความรู้สึกภายในของเขาให้เห็น..."
 sto-KW-3_3_1,"We can't offend Duke Kang at the moment, let's go to the ceremony."
 sto-KW-3_3_2,"Pack my bags for me, I'll head to Langya Sword Pavilion soon."
 sto-KW-3_3_3,"Yes, I'll pack right away."

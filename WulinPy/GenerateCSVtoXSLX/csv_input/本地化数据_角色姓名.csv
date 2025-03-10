@@ -356,7 +356,7 @@ CharaName_长老,Elder,ผู้อาวุโส
 CharaName_儒生,Scholar,ปราชญ์
 CharaName_祭酒,Priests,นักบวช
 CharaName_老儒生,Old Scholar,ปราชญ์อาวุโส
-CharaName_童生,Child Scholar,บัณฑิตเด็ก
+CharaName_童生,Child Scholar,บัณฑิตรุ่นเยาว์
 CharaName_司业,Siyi,ซือเย่
 CharaName_精英,Elite,ยอดฝีมือ
 CharaName_练功精英,Training Elite,ผู้ฝึกฝนชั้นยอด
@@ -852,7 +852,7 @@ CharaTitle_招财当铺,Pawn shop,โรงจำนำ
 CharaTitle_珍品阁,Exquisite Pavilion,สำนักประณีต
 CharaTitle_霖安武馆,Lin'an Dojo,โรงฝึกหลินอัน
 CharaTitle_杂物肆,Grocery store,ร้านขายของชำ
-CharaTitle_画罗轩,Painting Shop,ร้านภาพวาด
+CharaTitle_画罗轩,Painting Shop,ร้านชุดเทพวิจิตรศิลป์
 CharaTitle_凝香馆,Aroma House,ร้านเครื่องหอม
 CharaTitle_太白楼,Wine God Tower,หอคอยเทพสุรา
 CharaTitle_云林寺,Yunlin Temple,วัดป่าเมฆา
@@ -1025,7 +1025,7 @@ CharaName_狼,Wolf,หมาป่า
 CharaName_富家公子,Rich Young Master,นายน้อยผู้ร่ำรวย
 CharaName_白衣公子,White clothed young master,นายน้อยชุดขาว
 CharaName_西域富商,Western Regions merchants,พ่อค้าแดนตะวันตก
-CharaName_新晋举人,Newly appointed jinshi,จอหงวนพึ่งบรรจุ
+CharaName_新晋举人,Newly appointed jinshi,พึ่งได้เป็น บัณฑิตจิ้นซื่อ ผู้โดดเด่น
 CharaName_咳嗽不止的中年人,Middle-aged person coughing,ชายวัยกลางคนที่ไอค่อกแค่ก
 CharaName_脚步虚浮的老人,A wobbling old man,ชายชราขาอ่อนแรง
 CharaName_邋遢的乞丐,Slovenly beggar,ขอทานสกปรก
