@@ -1352,7 +1352,7 @@ BuffInfo_昏睡脱力,"After entering combat, you will Slumber, Defense is reduc
 BuffInfo_琅琊铁匠,"When Craft Weapon and Mining Skill are below level 4, Skill effect increases by an additional level.",เมื่อทักษะ สร้างอาวุธ และขุดแร่ ต่ำกว่าเลเวล 4 ผลของทักษะนั้นจะเพิ่มขึ้น 1 เลเวล
 BuffInfo_琅琊铁匠_附属1,"This effect is obtained when Wang Dachui joins the team, when the protagonist's Craft Weapon and Mining Skill are below level 4, Skill effect increases by an additional level.","ได้รับผลสถานะนี้เมื่อ ""หวังต้าฉุย"" เข้าร่วมทีม, เมื่อตัวละครเอกใช้ทักษะ สร้างอาวุธ และ ขุดแร่ ที่ต่ำกว่าเลเวล 4 ผลของทักษะนั้นจะเพิ่มขึ้น 1 เลเวล"
 BuffInfo_雄鸡之威,"<#29F161>Critical increased by 15%</color>, <#29F161>final damage increased by 50%</color> against animal enemies.",<#29F161>คริติคอลเพิ่มขึ้น 15%</color> <#29F161>สร้างความเสียหายเพิ่มขึ้น 50%</color> กับศัตรูประเภทสัตว์
-BuffInfo_秀才身份,Status of a junior scholar obtained through the imperial examination.,สถานะบัณฑิตซิ่วไฉ ที่ได้จากการผ่านการสอบขุนนางขั้นต้น
+BuffInfo_秀才身份,Status of a junior scholar obtained through the imperial examination.,สถานะบัณฑิตซิ่วไฉ ที่ได้จากการผ่านการสอบ ระดับอำเภอ
 BuffInfo_举人身份,Status of an intermediate scholar obtained through the provincial examination.,สถานะของบัณฑิตจวี่เหริน ที่ได้จากการผ่านการสอบระดับมณฑล
 BuffInfo_乡试解元,Get an extra <#29F161>15% experience</color> when gaining Persuade EXP.,ได้รับ <#29F161>ค่าประสบการณ์เพิ่ม 15%</color> เมื่อได้รับค่าประสบการณ์ โน้มน้าว
 BuffInfo_会试会元,The <#29F161>experience required to learn martial arts is reduced by 15%</color>.,<#29F161>ค่าประสบการณ์ในการเรียนรู้วรยุทธลดลง 15%</color>
@@ -3640,7 +3640,7 @@ BuffName_暗器_卸甲2,Disable armor,ปลดชุดเกราะ
 BuffName_暗器_封招,Disable technique,ทำลายวรยุทธ
 BuffName_暗器_昏迷,Unconcious,หมดสติ
 BuffName_内功_驭人心经_光环_附属,Heart Control Technique,คัมภีร์ควบคุมหัวใจ
-BuffName_内功_九幽寒霜气_光环,Nine Nether Frost Qi,พลังปราณเก้าอิมเหมันต์
+BuffName_内功_九幽寒霜气_光环,Nine Nether Frost Qi,ลมปราณน้ำค้างแข็งเก้าขุมนรก
 BuffName_道法自然,Way of Nature,วิถีแห่งธรรมชาติ
 BuffName_气血充盈,Replenishing qi and blood,พลังชีวิตเต็มเปี่ยม
 BuffName_特邀嘉宾,Special Guest,แขกพิเศษ
