@@ -874,9 +874,9 @@ BuffInfo_伙伴特征七星阵眼_光环,"Action Speed is increased by 15%, fina
 BuffInfo_伙伴特征我见犹怜,"When attacked by male enemies, only half of the damage is received.",เมื่อถูกบุรุษโจมตี ได้รับความเสียหายเพียงครึ่งเดียว
 BuffInfo_伙伴特征天生神力,"5% chance of instant kill against non-Boss Characters below 10 levels of self, at the same time, base Critical is increased by 15%.",มีโอกาส 5% ที่จะสังหารศัตรูที่ไม่ใช่หัวหน้าทันที หากมีเลเวลต่ำกว่าเรา 10 เลเวลขึ้น ขณะเดียวกัน คริติคอลพื้นฐานเพิ่มขึ้น 15%
 BuffInfo_伙伴特征金枝玉叶,Automatically gain 1 money per day.,ได้รับเงิน 1 อีแปะ ทุกวันโดยอัตโนมัติ
-BuffInfo_伙伴特征叶家统帅,"After entering battle, Characters of Ye Family Battalion increase damage by 25%.",หลังจากเข้าสู่การต่อสู้ ตัวละครจากกองพันตระกูลเย่ สร้างความเสียหายเพิ่มขึ้น 25%
+BuffInfo_伙伴特征叶家统帅,"After entering battle, Characters of Ye Family Battalion increase damage by 25%.",หลังจากเข้าสู่การต่อสู้ ตัวละครจากกองทัพตระกูลเย่ สร้างความเสียหายเพิ่มขึ้น 25%
 BuffInfo_伙伴特征叶家统帅_光环,Damage of Attack is increased by 25%.,การโจมตีสร้างความเสียหายเพิ่มขึ้น 25%
-BuffInfo_伙伴特征近身侍卫,4 generals of Ye Family Battalion appear on the field after the first action.,4 ขุนพลแห่งกองพันตระกูลเย่จะปรากฏตัวหลังจบตาแรก
+BuffInfo_伙伴特征近身侍卫,4 generals of Ye Family Battalion appear on the field after the first action.,4 ขุนพลแห่งกองทัพตระกูลเย่จะปรากฏตัวหลังจบตาแรก
 BuffInfo_伙伴特征铁血近卫,4 generals of Yan Kingdom appear on the field after the first action.,4 ขุนพลแห่งแคว้นเยี่ยนจะปรากฏตัวหลังจบตาแรก
 BuffInfo_伙伴特征气场威压,Causes a 15% decrease in Action Speed to enemies within a 5-grid range.,ลดความเร็วท่าร่างลง 15% แก่ศัตรูที่อยู่ในระยะ 5 ช่อง
 BuffInfo_伙伴特征气场威压_光环,Action Speed decreases by 15%.,ความเร็วท่าร่างลดลง 15%

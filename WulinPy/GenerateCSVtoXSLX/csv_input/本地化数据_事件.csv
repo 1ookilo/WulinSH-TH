@@ -309,7 +309,7 @@ M1500-1_overview_1,Go to the withered tree in <color=#c44b0e>Wild Wolf Valley</c
 10100_1option2_2,Ease Relations with <color=#c44b0e>Shifa Temple</color> (Spend 2 strings of coins),กระชับความสัมพันธ์กับ <color=#c44b0e>อารามซื่อฟา</color> (ใช้ 2000 อีแปะ)
 10100_1option2_3,Improve relations with <color=#c44b0e>Confucius Temple</color> (Costs 2 coins),ปรับปรุงความสัมพันธ์กับ <color=#c44b0e>วัดขงจื้อ</color> (ราคา 2 ตำลึง)
 10100_1option2_4,Improve relations with <color=#c44b0e>Nine Factions Sect</color> (Costs 2 coins),ปรับปรุงความสัมพันธ์กับ <color=#c44b0e>นิกายเก้าฝ่าย</color> (ราคา 2 ตำลึง)
-10100_1option2_5,Improve relations with <color=#c44b0e>Ye Family Battalion</color> (Costs 2 coins),ปรับปรุงความสัมพันธ์กับ <color=#c44b0e>กองพันตระกูลเย่</color> (ราคา 2 ตำลึง)
+10100_1option2_5,Improve relations with <color=#c44b0e>Ye Family Battalion</color> (Costs 2 coins),ปรับปรุงความสัมพันธ์กับ <color=#c44b0e>กองทัพตระกูลเย่</color> (ราคา 2 ตำลึง)
 10100_1option2_6,Improve relations with <color=#c44b0e>Yelv Army</color> (Costs 2 coins),ปรับปรุงความสัมพันธ์กับ <color=#c44b0e>กองทัพเย่ลู่</color> (ราคา 2 ตำลึง)
 10100_1option2_7,Improve relations with <color=#c44b0e>Jiujiang Fortress</color> (Costs 2 coins),ปรับปรุงความสัมพันธ์กับ <color=#c44b0e>ค่ายน้ำจิ่วเจียง</color> (2 ตำลึง)
 10100_1option2_8,Improve relations with <color=#c44b0e>Linlang Academy</color> (Costs 2 coins),ปรับปรุงความสัมพันธ์กับ <color=#c44b0e>สถาบันหลินหลาง</color> (ราคา 2 ตำลึง)
@@ -610,7 +610,7 @@ Z010_overview1,Find the <color=#c44b0e>Gusu Ruins</color> and stop Yelv Wuzhu's 
 Z010-1_name,Mission Accomplished,ภารกิจเสร็จสมบูรณ์
 Z010-1_overview1,Return the Xuanyuan Sword to <color=#c44b0e>Sword Mountain Villa</color> and hand it to the Sword Saint,นำกระบี่ซวนหยวนกลับ<color=#c44b0e>หมู่ตึกกระบี่ซ่อน</color> และคืนให้กับเซียนกระบี่
 Z012_name,Battle is Imminent,ศึกใหญ่ใกล้เข้ามา
-Z012_overview1,Head to Ye Family Battalion,มุ่งหน้าไปยังกองพันตระกูลเย่
+Z012_overview1,Head to Ye Family Battalion,มุ่งหน้าไปยังกองทัพตระกูลเย่
 Z012_overview2,"Try to raise the Relations with the leaders of Shifa Temple, Taoist Sect, Jiujiang Fortress, Nine Factions Sect, Confucius Temple and other forces to 80",พยายามยกระดับความสัมพันธ์กับผู้นำอารามซื่อฟา สำนักเต๋า ค่ายน้ำจิ่วเจียง นิกายเก้าฝ่าย วัดขงจื้อ และกองกำลังอื่นๆ เป็น 80
 M1000-8option1,Learn the ultimate move. <color=#097a76>(50 Wen)</color>,เรียนท่าไม้ตาย <color=#097a76>(50 อีแปะ)</color>
 M1000-8option2,Not interested.,ไม่สนใจ.

@@ -123,17 +123,17 @@ failMoneyTip_铁浮屠,"With this money, you're worthless! Keep your life and ru
 failItemOtherTip_铁浮屠,"Our brothers just need such treasures, it's a bargain to exchange for your life!",พี่น้องของเราต้องการสมบัติเล็กน้อย เพื่อแลกเปลี่ยนกับชีวิตของเจ้า!
 failItemBagTip_铁浮屠,"Exchange your life with worldly possessions, you've made a big profit! Go and thank Longevity Heaven! Haha!",เอาของนอกกายมาแลกชีวิตเจ้า ก็ถือว่ากำไรมากแล้ว! ไปกราบขอบคุณสวรรค์ซะเถิด ฮ่าๆ!
 failBuffTip_铁浮屠,Offending Levitational Steel won't end well! Next time we won't let you off so easily!,การรุกรานเจดีย์เหล็กจะไม่จบลงด้วยดี! ครั้งต่อไปพวกเราจะไม่ปล่อยเจ้าไปง่ายๆ!
-startTip_叶家军,"Ye Family Battalion is your sworn enemy, and you dare to come here!",กองพันตระกูลเย่เป็นศัตรูคู่อาฆาตกับเจ้า แต่เจ้ายังกล้ามาเหยียบที่นี้งั้นรึ!
+startTip_叶家军,"Ye Family Battalion is your sworn enemy, and you dare to come here!",กองทัพตระกูลเย่เป็นศัตรูคู่อาฆาตกับเจ้า แต่เจ้ายังกล้ามาเหยียบที่นี้งั้นรึ!
 fightTip_叶家军,"We're professionals when it comes to fighting, with your mediocre skills, you're just asking for humiliation!",เรื่องวรยุทธพวกเรามิเป็นรองใคร ฝีมือกระจอกงอกง่อยเช่นเจ้า คงไม่พ้นหาเรื่องใส่ตัว!
 explainSuccessTip_叶家军,"We'll let you go this time! If there's a next time, we won't be lenient!",ครั้งนี้จะปล่อยเจ้าไปก่อน! หากมีครั้งหน้า เราไม่ละเว้นเจ้าแน่!
-explainFailTip_叶家军,The soldiers of Ye Family Battalion are no fools! Don't think you can fool them!,ทหารของกองพันตระกูลเย่ไม่ได้โง่! อย่าคิดว่าเจ้าจะหลอกได้!
+explainFailTip_叶家军,The soldiers of Ye Family Battalion are no fools! Don't think you can fool them!,ทหารของกองทัพตระกูลเย่ไม่ได้โง่! อย่าคิดว่าเจ้าจะหลอกได้!
 apologySuccessTip_叶家军,"If you had admitted your mistake earlier, would you have fallen to this point? You can go now!",หากเจ้ายอมรับความผิดพลาดก่อนหน้านี้ เจ้าจะตกมาถึงจุดนี้หรือไม่? เจ้าไปได้แล้ว!
-apologyItemQuitTip_ 叶家军,You'll soon find out how foolish it is to mess with Ye Family Battalion!,เจ้าจะได้รู้ว่าการมาหาเรื่องกองพันตระกูลเย่เป็นเรื่องโง่เขลาเพียงใด!
+apologyItemQuitTip_ 叶家军,You'll soon find out how foolish it is to mess with Ye Family Battalion!,เจ้าจะได้รู้ว่าการมาหาเรื่องกองทัพตระกูลเย่เป็นเรื่องโง่เขลาเพียงใด!
 runAwaySuccessTip_叶家军,"Hmph, forget it, don't chase the poor!",ฮืม ลืมมันซะ อย่าไล่ล่าคนจน!
-runAwayFailTip_叶家军,"With your weak physique, even ten years of training won't help you outrun Ye Family Battalion!",ด้วยร่างกายที่อ่อนแอของเจ้า การฝึกฝนแม้สิบปีก็ไม่ช่วยให้เจ้ารอดพ้นจากกองพันตระกูลเย่ได้!
+runAwayFailTip_叶家军,"With your weak physique, even ten years of training won't help you outrun Ye Family Battalion!",ด้วยร่างกายที่อ่อนแอของเจ้า การฝึกฝนแม้สิบปีก็ไม่ช่วยให้เจ้ารอดพ้นจากกองทัพตระกูลเย่ได้!
 failMoneyTip_叶家军,I was just worrying about not having money to buy military rations! Consider your contribution as a compensation! You can go now!,ข้ากำลังกังวลเรื่องเสียงกองทัพพอดี ถือว่านี่เป็นค่าชดเชยแล้วกัน เจ้าไปได้!
 failItemOtherTip_叶家军,Good weapons should be used by more capable people! They are of no value in your hands!,อาวุธที่ดีควรใช้โดยคนที่มีความสามารถมากกว่า! พวกมันไม่มีค่าอยู่ในมือของเจ้า!
-failItemBagTip_叶家军,"The things on you are somewhat useful, Ye Family Battalion only kills enemies, you can go!",ของในตัวเจ้ายังมีประโยชน์อยู่บ้าง กองพันตระกูลเย่ฆ่าเพียงศัตรูของชาติเท่านั้น เจ้าไปได้!
+failItemBagTip_叶家军,"The things on you are somewhat useful, Ye Family Battalion only kills enemies, you can go!",ของในตัวเจ้ายังมีประโยชน์อยู่บ้าง กองทัพตระกูลเย่ฆ่าเพียงศัตรูของชาติเท่านั้น เจ้าไปได้!
 failBuffTip_叶家军,"You've had enough bitterness, don't cause trouble here in the future!",เจ้าได้รับบทเรียนพอแล้ว อย่ามาสร้างปัญหาที่นี่อีก !
 startTip_道玄宗,"What a coincidence, today I will rid the martial arts world of you, the troublemaker!","โลกช่างกลมเสียจริง, วันนี้ข้าจะกำจัดสวะของยุทธภพเช่นเจ้าให้สิ้นซาก!"
 fightTip_道玄宗,Just what I wanted! Everyone in Taoist Sect wishes to punish you!, ดี! สำนักเต๋าทุกคนจะลงโทษเจ้า!

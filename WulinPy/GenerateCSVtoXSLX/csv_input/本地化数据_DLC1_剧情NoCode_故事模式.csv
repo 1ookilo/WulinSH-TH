@@ -14,7 +14,7 @@ sto-notice-13,Deal with the attack from Crime Investigation Bureau (Failure or e
 sto-notice-14,Dealing with the Imperial City Bureau's unreasonable taxation,ต่อกรกับการเรียกเก็บภาษีอย่างไม่ชอบธรรมของสำนักราชสำนัก
 sto-notice-15,Deal with the revenge of Tong Daofu (Failure or expiration of this event may result in game failure),ถงเต้าฝูกำลังวางแผนแก้แค้นเจ้า! (ความผิดพลาดใดๆ หรือความล่าช้า อาจหมายถึงหายนะในยุทธภพ!)
 sto-notice-16,Dealing with Duke Kang's manor's forced requisition of supplies,รับมือกับการบังคับยึดทรัพย์จากตำหนักอ๋องคัง
-sto-notice-17,Negotiate with Ye Family Battalion of Bao Sect (Failure or expiration of this event may result in game failure),เจรจากับกองพันตระกูลเย่ที่ล้อมสำนักอยู่ (หากการเจรจาล้มเหลวหรือล่าช้าจะทำให้เกมโอเวอร์)
+sto-notice-17,Negotiate with Ye Family Battalion of Bao Sect (Failure or expiration of this event may result in game failure),เจรจากับกองทัพตระกูลเย่ที่ล้อมสำนักอยู่ (หากการเจรจาล้มเหลวหรือล่าช้าจะทำให้เกมโอเวอร์)
 sto-notice-18,Meet with the heads of the three sects at Peak of Challenge.,พบกับเจ้าสำนักทั้งสามบนยอดเขาแห่งการชิงชัย
 sto-notice-19,Attend the amnesty conference hosted by Qin Huizhi.,เข้าร่วมการชุมนุมเรียกตัวที่จัดโดยฉินฮุ่ยจือ
 sto-notice-20,Deal with the ronin from Great Ant City who came to challenge.,รับมือกับโรนินจากเมืองผีฝูผู้มาท้าประลอง
@@ -571,7 +571,7 @@ sto-KW-4_log,Go to Peak of Challenge and duel with the three sect leaders invite
 sto-KW-4_4_1,"You travel light and arrive at the Peak of Challenge in no time\nThe heads of the three sects, once representing the pinnacle of martial arts\nHave no objections to your arrival\nThey just watch coldly\nAt this rising star in the martial world...","ท่านเดินทางอย่างรวดเร็ว และมาถึงยอดเขาแห่งการชิงชัยในพริบตา\nหัวหน้าทั้งสามนิกาย ผู้ซึ่งเคยเป็นตัวแทนของยอดฝีมือแห่งวิชายุทธ์\nไม่มีข้อคัดค้านต่อการมาถึงของท่านแต่อย่างใด\nพวกเขาเพียงแต่มองอย่างเยือกเย็น\nราวกับกำลังมองดูดาวดวงใหม่ที่กำลังขึ้นสู่ห้วงฟ้าแห่งวงการยุทธภพ..."
 sto-KW-4_4_2,"Very well, it seems everyone is here.",ดีแล้ว ดูเหมือนทุกคนจะมาครบถ้วนแล้ว
 sto-KW-4_4_3,The reason why this king invited you sect leaders is to let you make friends through martial arts and exchange ideas.,เหตุผลที่กษัตริย์ทรงเชิญบรรดาหัวหน้าสำนักวิชาการต่อสู้มาในครั้งนี้ ก็เพื่อให้พวกท่านได้สร้างมิตรภาพผ่านศิลปะการต่อสู้และแลกเปลี่ยนความคิด
-sto-KW-4_4_4,"Now my Zhao country is plagued by internal and external troubles, and the local princes and old generals are self-reliant. The only hope is for you martial arts enthusiasts to decide on a leader to help this king restore order.",บัดนี้ แผ่นดินโจวของเราถูกความยุ่งยากทั้งภายในและภายนอกรุมเร้า เจ้าผู้ครองนครและบรรดาแม่ทัพผู้อาวุโสต่างก็ต่างคนต่างอยู่ หวังพึ่งแต่ตนเอง หวังเดียวที่เหลืออยู่ก็คือเหล่านักรบผู้หลงใหลในวิชายุทธ์ จงร่วมกันเลือกผู้นำที่จะช่วยกษัตริย์กู้คืนความสงบเรียบร้อยให้แก่แผ่นดิน
+sto-KW-4_4_4,"Now my Zhao country is plagued by internal and external troubles, and the local princes and old generals are self-reliant. The only hope is for you martial arts enthusiasts to decide on a leader to help this king restore order.",บัดนี้ แคว้นจ้าวของเราถูกความยุ่งยากทั้งภายในและภายนอกรุมเร้า เจ้าผู้ครองนครและบรรดาแม่ทัพผู้อาวุโสต่างก็ต่างคนต่างอยู่ หวังพึ่งแต่ตนเอง หวังเดียวที่เหลืออยู่ก็คือเหล่านักรบผู้หลงใหลในวิชายุทธ์ จงร่วมกันเลือกผู้นำที่จะช่วยกษัตริย์กู้คืนความสงบเรียบร้อยให้แก่แผ่นดิน
 sto-KW-4_5_1,"The royal family has commanded, and this old man should obey. But the former emperor fell into the enemy camp, and many princes claimed to be orthodox, and this Dojokeeper really can't judge.",หากเป็นรับสั่งจากราชสำนัก ข้าผู้เฒ่าย่อมต้องเชื่อฟัง แต่องค์จักรพรรดิองค์ก่อนได้ตกไปอยู่ในค่ายศัตรู และมีเจ้าชายหลายองค์ต่างอ้างว่าตนเป็นผู้สืบทอดที่ชอบธรรม ด้วยเหตุนี้ ข้าผู้ดูแลสำนักนี้จริงๆ แล้วไม่อาจตัดสินได้
 sto-KW-4_6_1,"Although Duke Kang is of noble status, if he does not have the orthodox status, I am afraid this old Taoist cannot obey.",แม้ท่านอ๋องคังจะทรงมีฐานันดรอันสูงส่ง แต่หากมิได้มีความชอบธรรมตามธรรมเนียมโบราณแล้ว กลัวว่าข้าผู้เฒ่าผู้นี้จะไม่อาจเชื่อฟังได้
 sto-KW-4_7_1,"Amitabha, your highness makes sense, but in the old monk's view, even if a leader is forcibly decided, it is still an illusion and cannot achieve what your highness wants.",อมิตาพุทธ สิ่งที่พระองค์ตรัสนั้นถูกต้อง แต่ในสายตาของอาตมา แม้จะบังคับให้ผู้นำขึ้นมาปกครอง ก็เปรียบเสมือนภาพมายา ซึ่งไม่อาจนำมาซึ่งผลลัพธ์ที่แท้จริงได้
@@ -667,11 +667,11 @@ sto-KW-11_1_8,You've done a great job. Such a heroic act of turning the tide is 
 sto-KW-11_1_9,"When the mission is completely accomplished, the king will definitely have a good drink with you!",เมื่อถึงวันที่ภารกิจลุล่วง ข้ากับเจ้าต้องร่ำสุราให้สาแก่ใจสักครา!
 sto-KW-11_1_10,Then it's a deal with your highness!,ตามที่ท่านอ๋องรับสั่งเป็นอันตกลงตามนั้น!
 sto-KW-11_1_11,"Although you have eliminated all the internal and external troubles of Me country, there is still a hidden worry that often makes the king worry... It's the descendant of the former dynasty who holds the Dan book and iron ticket - King Chai!",ในปัจจุบัน แม้ว่าเจ้าจะกำจัดปัญหาทั้งภายในและภายนอกของประเทศไปเกือบหมดแล้ว แต่ยังมีความกังวลอีกอย่างนึง ซึ่งทำให้ข้าต้องเป็นห่วงอยู่เสมอ... นั่นก็คือผู้สืบทอดจากราชวงศ์ก่อนหน้านี้ที่ถือป้ายเหล็กอักษรชาด — อ๋องไฉ! 
-sto-KW-11_1_12,"{PlayerSurName} I'm a bit confused. Even if King Chai is extremely capable, how can he compare with you, your highness?"
-sto-KW-11_1_13,"King Chai is a Strategic Mastermind. {PlayerSurName} Sect Leader must not know that the well-informed and omnipresent Rumor Platform was established by King Chai himself. Besides, he is always Graceful Dance, and there are people from all major sects who are friends with him."
-sto-KW-11_1_14,"If this King Chai suddenly makes trouble, I'm afraid it will cause great harm. The current plan is to ask you to continue to eliminate other sects, completely Dominating the Martial World, forcing him to come out, and then eliminate him!"
-sto-KW-11_1_15,"Your highness's intention, {PlayerSurName} I naturally understand."
-sto-KW-11_log,"Continue to eliminate other sects, Dominating the Martial World"
+sto-KW-11_1_12,"{PlayerSurName} I'm a bit confused. Even if King Chai is extremely capable, how can he compare with you, your highness?",{PlayerSurName} ข้ายังคงข้องใจ แม้ว่าอ๋องไฉผู้นั้นจะมีฝีมือเก่งกาจปานใด ก็มิอาจที่จะเทียบเคียงกับใต้เท้าได้
+sto-KW-11_1_13,"King Chai is a Strategic Mastermind. {PlayerSurName} Sect Leader must not know that the well-informed and omnipresent Rumor Platform was established by King Chai himself. Besides, he is always Graceful Dance, and there are people from all major sects who are friends with him.",อ๋องไฉเป็นอัจฉริยะด้านกลยุทธ์อย่างแท้จริง {PlayerSurName} หัวหน้าสำนัก ท่านคงไม่รู้หรอกว่าข่าวลือที่ทรงข้อมูลและแผ่ครอบคลุมทุกหนแห่งนี้ ถูกก่อตั้งโดยอ๋องไฉเองมิใช่หรือ ยิ่งกว่านั้น ท่านยังทรงความงดงามดุจการเต้นรำ และมีผู้คนจากสำนักใหญ่ทั้งหลายที่เป็นมิตรกับท่าน
+sto-KW-11_1_14,"If this King Chai suddenly makes trouble, I'm afraid it will cause great harm. The current plan is to ask you to continue to eliminate other sects, completely Dominating the Martial World, forcing him to come out, and then eliminate him!",หากว่าอ๋องไฉผู้นั้นก่อเหตุขึ้นมาจริงๆ เกรงว่าคงเรื่องใหญ่หลวงมิใช่น้อย ในเวลานี้ข้าว่าควรกำจัดสำนักอื่นๆ เพื่อรวบรวมยุทธภพให้เป็นหนึ่งเดียวเสียก่อน ค่อยบีบเค้นให้เขาออกมา จะได้กำจัดเขาเสีย!
+sto-KW-11_1_15,"Your highness's intention, {PlayerSurName} I naturally understand.",พระประสงค์ของท่านผู้สูงศักดิ์ {PlayerSurName} ข้าย่อมเข้าใจเป็นธรรมดา
+sto-KW-11_log,"Continue to eliminate other sects, Dominating the Martial World",จงดำเนินการต่อไปในการกำจัดสำนักอื่นๆ และยึดครองยุทธภพ
 sto-KW-12_1_1,"The king is a descendant of the former imperial family, and was granted the title of King Chai by the former emperor, and made a vow to support the Zhao country!",ข้าผู้นี้คือทายาทแห่งอดีตราชวงศ์ ทั้งยังได้รับพระราชทานบรรดาศักดิ์อ๋องไฉจากฮ่องเต้พระองค์ก่อน นั่นมาพร้อมคำมั่นสัญญาที่ว่าค้ำจุนราชบัลลังก์แห่งแคว้นจ้าว!
 sto-KW-12_1_2,"The king originally wanted to live a peaceful life and end this remaining life. But unexpectedly, Duke Kang, in order to ascend to the throne, not only forged the Imperial token, but also deliberately provoked the Yan Yun Iron Army to invade, and raised the enemy to strengthen himself!",ข้าตั้งใจที่จะใช้ชีวิตอย่างสงบสุขและผ่านพ้นชีวิตที่เหลืออยู่ แต่กลับไม่คาดคิดว่าอ๋องคังจะต้องการขึ้นครองบัลลังก์ ไม่เพียงแต่ปลอมแปลงตราจักรพรรดิและราชโองการเท่านั้น แต่ยังตั้งใจยั่วยุให้กองทัพเหล็กเยี่ยนหยุนโจมตีและเพิ่มความเข้มแข็งให้กับศัตรู
 sto-KW-12_1_3,"This is unbearable! The king hereby issues this edict Coin to announce to the world that there are many loyal and brave men in the major rivers and lakes sects. I hope you can live up to your heartfelt intentions, prioritize cutting off Duke Kang's wings, and completely eliminate {MyFaction}!",เช่นนี้จะทนได้อย่างไร! ข้าจึงขอประกาศสารฉบับนี้ให้ทั่วหล้า สำนักยุทธภพทั้งหลายย่อมมีผู้กล้าหาญ จงอย่าให้ความจงรักภักดีของพวกท่านต้องมัวหมอง แลเร่งกำจัดปีกของอ๋องคังเสีย ทำลาย {MyFaction}ให้สิ้นซาก!
@@ -679,131 +679,131 @@ sto-KW-12_1_4,"Sect Leader, Duke Chai's Tower finally couldn't hold back, and is
 sto-KW-12_1_5,"King Chai is good at making friends with Vagabonds. Our sect's behavior of Dominating the Martial World just hit his Achilles' heel, and he can't bear it anymore.",อ๋องไฉเชี่ยวชาญในการผูกมิตรกับชาวยุทธภพ การที่สำนักของเราต้องการรวมยุทธภพให้เป็นหนึ่งเดียว คงไปแทงใจดำของเขาอย่างจัง แล้วเขาจะทนมันได้อย่างไรเล่า
 sto-KW-12_1_6,"As long as Duke Chai's Tower is broken, there will be no one in the world who can threaten Duke Kang and his ilk, and our sect will rise to become a famous Peak of Jianghu sect.",เพียงแค่เราปราบอ๋องไฉลงได้ ก็จะไม่มีผู้ใดสามารถคุกคามท่านอ๋องคังได้อีกต่อไป และสำนักของเราก็จะทะยานขึ้นเป็นสำนักอันดับหนึ่งแห่งยุทธภพอย่างสง่างาม
 sto-KW-12_log,Break Duke Chai's Tower,ปราบอ๋องไฉ
-sto-KW-13_1_1,"King Chai's Machinery has calculated everything, and has won all the world's hearts\nHe thought he had the mandate of heaven and the righteousness\nBut he didn't expect that there are people in this world who can go against the sky and break the meeting with force..."
-sto-KW-13_1_2,"{PlayerName}, you are the only person the king admires in his life..."
-sto-KW-13_1_3,So the king specially reminds you that Duke Kang is ungrateful and has little luck. Following him will definitely not end well!
-sto-KW-13_1_4,Why should the Sect Leader listen to the words of a dying man? Ridiculous!
-sto-KW-13_1_5,"Damn... Let you be arrogant for a while, the king will make you have no place to bury in the future!"
-sto-KW-13_1_6,"You didn't expect that there was a secret under King Chai's throne\nWith the combination of thick smoke, tunnels, and machinery\nKing Chai and his followers disappeared in an instant..."
-sto-KW-13_1_7,"King Chai just doesn't want to admit his fate, he's just a cornered beast fighting, he can't make any waves."
-sto-KW-13_1_8,"The current plan is to continue to eliminate all sects, Dominating the Martial World. Once Duke Kang ascends to the throne, the situation will be settled!"
-sto-KW-13_log,Annihilate the remaining martial arts sects and completely Dominate the Martial World.
-sto-KW-14_1_1,Years of hard conquest have finally come to an end today.
-sto-KW-14_1_2,"Now that the martial world is unified and there are no more private fights, it seems that my little dream when I crossed over has been realized."
-sto-KW-14_1_3,"Next, just wait for Duke Kang to ascend to the throne. He rules his world, I rule my martial world, working together, isn't it beautiful?"
-sto-KW-14_2_1,"{PlayerGivenName}, don't get too excited yet, a big disaster might be coming at any moment..."
-sto-KW-14_2_2,"Qingqing, why are you so nervous? Tell me, what's wrong?"
-sto-KW-14_2_3,"That King Chai is still at large, always a huge hidden danger. I was worried that he might harm you one day, so I secretly sent people to investigate."
-sto-KW-14_2_4,"My people just sent back a piece of intelligence, saying that although King Chai has no hope of competing for the throne, he harbors resentment against you and is recruiting soldiers and horses to buy the desperate, ready to assassinate you at any time!"
-sto-KW-14_2_5,"Hey, I knew it. It's just a desperate loser. Let him come, the head of the sect is always welcome to visit!"
-sto-KW-14_2_6,Are you acting like the head of the sect in front of me? Buck up!
-sto-KW-14_log,"You have discovered King Chai's ambush, strike first for the advantage. (Failure or expiration of this event may result in game over)"
-sto-KW-14_3_1,"{PlayerGivenName}, there's an urgent matter, you must listen carefully!"
-sto-KW-14_3_2,"What's wrong, Qianxue? You're so serious, it's making you look ugly."
-sto-KW-14_3_3,"You're so annoying, you don't know when to joke!"
-sto-KW-14_3_4,"I have always been worried about King Chai who threatens you. Just now a spy reported back that King Chai is recruiting soldiers and horses to buy the desperate, ready to assassinate you at any time!"
-sto-KW-14_3_5,"Hey, I knew it. It's just a desperate loser. Let him come, the head of the sect is always welcome to visit!"
-sto-KW-14_log1,"You have discovered King Chai's ambush, strike first for the advantage. (Failure or expiration of this event may result in game over)"
-sto-KW-15_1_1,"Leader, according to your instructions, the disciples have set up a No Escape trap inside and outside the sect. Now we have indeed found traces of King Chai and others' ambush."
-sto-KW-15_1_2,"King Chai, King Chai, you think you're the hunter and I'm the prey. Today, let me, the head of the sect, teach you what real revenge is!"
-sto-KW-15_name,King Chai's Revenge
-sto-KW-15_log,"King Chai's assassination of you is imminent, and you, a brave and talented person, are prepared to strike first!"
-sto-KW-15_2_1,{PlayerName}... I hate you to the bone!
-sto-KW-15_2_2,It's you... who made me fall from the sky to the eighteen layers of hell!
-sto-KW-15_2_3,It's you... who made me lose everything and be laughed at by the world!
-sto-KW-15_2_4,"Fortunately, heaven has eyes... and gave me a chance to take revenge on you!"
-sto-KW-15_2_5,"I swear, I will make you die without a burial place!"
-sto-KW-15_2_6,(Yawning) Who do you want to be left unburied?
-sto-KW-15_2_7,"{PlayerName} Just in time! Come to hell with me, hahaha!"
-sto-KW-15_3_1,"Leader, King Chai launched a very cruel attack when we were unprepared. The disciples in the sect were caught off guard and were assassinated..."
-sto-KW-15_3_2,"It's over, it's over, how could I forget such an important thing!"
-sto-KW-15_3_3,"At this point, you can't escape even if you had wings!"
-sto-KW-15_3_4,"{PlayerName}! Come to hell with me, hahaha!"
-sto-KW-15_4_1,"I didn't expect King Chai to prepare for so long, but he's still so weak, boring, boring!"
-sto-KW-15_4_2,"Leader, how come you're here, I've been looking for you..."
-sto-KW-15_4_3,His Majesty sent today...
-sto-KW-15_4_4,"No, it's His Highness, not His Majesty, a small word but a world of difference."
-sto-KW-15_4_5,"His Highness Duke Kang has successfully ascended to the throne today, changing the era to Jianyan..."
-sto-KW-15_4_6,"Mr. Tong Daofu from the Imperial City Department has also arrived at our sect, inviting you, the head of the sect and the first meritorious official, to enter the palace for the seal!"
-sto-KW-15_4_7,"It seems that Duke Kang's actions are much faster than imagined, let Mr. Tong wait a moment, let me bathe and change clothes, and then go to see His Majesty."
-sto-KW-15_5_1,"{PlayerGivenName}, can you not go?"
-sto-KW-15_5_2,"Qingqing... don't be childish, since His Majesty has summoned, how can I not go?"
-sto-KW-15_5_3,"You are His Majesty's dragon servant... but when the birds are gone, the good bow is hidden, I'm afraid that Duke Kang is worried that your merits are too high to reward, and chooses to assassinate you..."
-sto-KW-15_5_4,"Why don't we abandon everything and return to the rivers and lakes together! To live that free and enviable happy life, this lady will definitely follow you in everything!"
-sto-KW-15_5_5,"Qingqing's worries are not unreasonable, what should I choose..."
-sto-KW-15_6_1,"{PlayerGivenName}, can you not go?"
-sto-KW-15_6_2,"Qianxue... don't be so clingy, since His Majesty has summoned, how can I not go?"
-sto-KW-15_6_3,"You are His Majesty's dragon servant... but when the birds are gone, the good bow is hidden, I'm afraid that Duke Kang is worried that your merits are too high to reward, and chooses to assassinate you..."
-sto-KW-15_6_4,"Why don't we hide together in a beautiful, secluded place? Even if we have to live on low-grade tea and simple food, as long as I'm with you, I'm content..."
-sto-KW-15_6_5,"Qianxue's worries are not unreasonable, what should I choose..."
-sto-KW-15_op_1_1,"Duke Kang is trustworthy, he will not let me down!"
-sto-KW-15_op_1_2,Fame and fortune are not as good as a beauty!
-sto-KW-15_7_1,"As the ancients said, the country's scholars wait for it, and the country's scholars repay it. Duke Kang is trustworthy, he will not let me down!"
-sto-KW-15_7_2,"{PlayerSurName} Sect leader, the emperor summons!"
-sto-KW-15_8_1,"The wish to dominate the martial world has been fulfilled, fame and fortune have no attraction to me... Living in seclusion with a beauty is indeed a good choice."
-sto-KW-16_1_1,"You arrive at the palace under the guidance of Tong Daofu\nThe crowd is like a roaring sea, as dense as a forest\nYou slowly walk into the Golden Luandian\nAs you walk, you can't help but wonder\nHas the friend on the throne become a bit of a stranger..."
-sto-KW-16_1_2,"Minister Tong Daofu, according to the rules, brought {MyFaction}{PlayerSurName} sect leader to your presence."
-sto-KW-16_1_3,Kang... Emperor Jianyan...
-sto-KW-16_1_4,"My dear minister, please get up quickly, you are the first meritorious official who allowed me to sit on this throne! Between you and me, we should avoid these formalities."
-sto-KW-16_1_5,"Tong Daofu, read the imperial edict of rewarding my dear minister for me."
-sto-KW-16_1_6,"Yes, Your Imperial Majesty!"
-sto-KW-16_1_7,"{PlayerName} is known to me in the rivers and lakes, but he is loyal and brave, for the country and the people, he has saved me and the world from danger several times!"
-sto-KW-16_1_8,"Such astonishing merits should be rewarded with the highest position, but I know that {PlayerName} is dedicated to the martial arts and does not seek fame and fortune, so I specially ordered him to guard the rivers and lakes forever, and share this peaceful world with me!"
-sto-KW-16_1_9,"Thank you, Your Majesty!"
-sto-KW-16_1_10,"{PlayerSurName} My dear minister, I made a promise with you in the past, that when the mission is accomplished, we must have a good drink."
-sto-KW-16_1_11,"This is a fine wine from the Western Regions that even I can't bear to drink too much. Come, let's drink this cup first, I'll toast to you!"
-sto-KW-16_1_12,Then I will not be polite!
-sto-KW-16_2_1,Good wine... it's really good wine!
-sto-KW-16_2_2,"Why is His Majesty so stingy, not giving me a bigger cup for this great meritorious official!"
-sto-KW-16_2_3,"I'm just afraid that you'll get drunk and roll around in this Golden Throne Hall. It's not just about the dignity of the royal family, but also about your image as a top martial artist of the number one sect in the martial arts world, hahaha."
-sto-KW-16_2_4,"Nonsense, I, the sect leader, am famously known as the Drinking God! Bring me the wine!"
-sto-KW-16_3_1,"Although it's said that when the birds are gone, the bow is put away, and when one's merit is too high, it frightens the lord... But this cup of poisoned wine from your majesty really hurts {0}'s heart."
-sto-KW-16_3_2,"Do you think I want to kill you... It's just that the arrow is on the string, and I have to let it go."
-sto-KW-16_3_3,"{1}, you can go in peace. All the disciples of your sect will be treated as national scholars by me!"
-sto-KW-16_3_4,What a pity...
-sto-KW-16_3_5,Pity what?
-sto-KW-16_3_6,"It's a pity that you, Duke Kang, are too clever for your own good, and it cost you your life..."
-sto-KW-16_3_7,"How can a poison of this level harm me, a person at the peak of Jianghu?"
+sto-KW-13_1_1,"King Chai's Machinery has calculated everything, and has won all the world's hearts\nHe thought he had the mandate of heaven and the righteousness\nBut he didn't expect that there are people in this world who can go against the sky and break the meeting with force...","กลไกของอ๋องไฉคำนวณทุกอย่างไว้แล้ว และได้คว้าใจผู้คนทั่วทั้งใต้หล้า\nเขาคิดว่าตนได้รับพรจากสวรรค์และความชอบธรรม\nแต่เขาไม่เคยคาดคิดเลยว่า ในโลกนี้ยังมีผู้กล้าที่จะขัดขืนสวรรค์ และทำลายการประชุมด้วยพลังอันทรงอานุภาพ..."
+sto-KW-13_1_2,"{PlayerName}, you are the only person the king admires in his life...",{PlayerName} ท่านเป็นคนเดียวที่กษัตริย์ทรงเลื่อมใสตลอดชีวิต...
+sto-KW-13_1_3,So the king specially reminds you that Duke Kang is ungrateful and has little luck. Following him will definitely not end well!,ดังนั้นกษัตริย์จึงทรงเตือนท่านเป็นพิเศษว่า อ๋องคังเป็นคนอกตัญญู และโชคชะตาไม่เคยเข้าข้าง การติดตามเขาแน่นอนว่าจะไม่มีวันจบลงด้วยดี!
+sto-KW-13_1_4,Why should the Sect Leader listen to the words of a dying man? Ridiculous!,หัวหน้าสำนักจะฟังคำพูดของคนใกล้ตายทำไมเล่า? เช่นนี้มันช่างน่าหัวเราะเสียจริง!
+sto-KW-13_1_5,"Damn... Let you be arrogant for a while, the king will make you have no place to bury in the future!",ช่างเถอะ... จงเย่อหยิ่งไปเสียก่อน ในอนาคต กษัตริย์จะทำให้เจ้าไม่มีที่ฝังศพแม้แต่นิ้วเดียว!
+sto-KW-13_1_6,"You didn't expect that there was a secret under King Chai's throne\nWith the combination of thick smoke, tunnels, and machinery\nKing Chai and his followers disappeared in an instant...","ไม่มีใครคาดคิดมาก่อนว่า ใต้บัลลังก์ของกษัตริย์ไช่ซ่อนความลับอันน่าสะพรึงกลัว\nด้วยการผสมผสานของควันหนาทึบ อุโมงค์ลับ และเครื่องจักรกล\nอ๋องไฉและบรรดาบริวารก็ลับหายไปในชั่วพริบตา..."
+sto-KW-13_1_7,"King Chai just doesn't want to admit his fate, he's just a cornered beast fighting, he can't make any waves.",อ๋องไฉเพียงแต่ไม่ยอมรับชะตากรรมของตน เขาเป็นเพียงสัตว์ร้ายที่ถูกคับขัน กำลังดิ้นรนสุดชีวิต เขาไม่อาจก่อคลื่นปั่นป่วนได้อีกต่อไป!
+sto-KW-13_1_8,"The current plan is to continue to eliminate all sects, Dominating the Martial World. Once Duke Kang ascends to the throne, the situation will be settled!",แผนการในขณะนี้คือการกวาดล้างทุกสำนักให้สิ้น เพื่อครอบครองยุทธภพโดยสมบูรณ์ เมื่ออ๋องคังขึ้นครองบัลลังก์ ทุกอย่างก็จะลงตัว!
+sto-KW-13_log,Annihilate the remaining martial arts sects and completely Dominate the Martial World.,ทำลายล้างสำนักยุทธภพที่เหลืออยู่ให้สิ้นซาก และครอบครองยุทธภพอย่างเด็ดขาด!
+sto-KW-14_1_1,Years of hard conquest have finally come to an end today.,การพิชิตที่ยากเข็ญมาหลายปีในที่สุดก็สิ้นสุดลงในวันนี้!
+sto-KW-14_1_2,"Now that the martial world is unified and there are no more private fights, it seems that my little dream when I crossed over has been realized.",บัดนี้ยุทธภพได้รับการรวมเป็นหนึ่งเดียว การต่อสู้ส่วนตัวต่างๆ ก็หมดสิ้นไป ดูราวกับความฝันเล็กๆ ของข้าตอนข้ามมิติได้กลายเป็นความจริงแล้ว!
+sto-KW-14_1_3,"Next, just wait for Duke Kang to ascend to the throne. He rules his world, I rule my martial world, working together, isn't it beautiful?",ต่อจากนี้ เพียงรอคอยให้อ๋องคังขึ้นครองบัลลังก์ เขาปกครองอาณาจักรของเขา ข้าปกครองยุทธภพของข้า ร่วมมือกันปกครอง นี่มิใช่เรื่องงดงามหรอกหรือ?
+sto-KW-14_2_1,"{PlayerGivenName}, don't get too excited yet, a big disaster might be coming at any moment...",{PlayerGivenName} อย่าได้ยินดีเกินไปนัก ภัยพิบัติอันยิ่งใหญ่อาจจะมาถึงในอึดใจใดๆ ก็เป็นได้...
+sto-KW-14_2_2,"Qingqing, why are you so nervous? Tell me, what's wrong?",ชิงชิง เจ้าเป็นอะไรไป เหตุใดถึงดูกระวนกระวายเช่นนี้ บอกข้ามาเถอะ มีอะไรผิดปกติหรือ?
+sto-KW-14_2_3,"That King Chai is still at large, always a huge hidden danger. I was worried that he might harm you one day, so I secretly sent people to investigate.",อ๋องไฉยังคงลอยนวล เป็นภัยร้ายที่ซ่อนเร้นอยู่ตลอดเวลา ข้าเป็นห่วงว่าเขาอาจทำร้ายเจ้าในสักวัน จึงได้ส่งสายลับออกไปสืบหาความลับโดยไม่ให้ผู้ใดรู้
+sto-KW-14_2_4,"My people just sent back a piece of intelligence, saying that although King Chai has no hope of competing for the throne, he harbors resentment against you and is recruiting soldiers and horses to buy the desperate, ready to assassinate you at any time!",คนของข้าเพิ่งส่งข่าวกลับมาว่า แม้อ๋องไฉจะไม่มีหวังในการแข่งขันชิงบัลลังก์ แต่เขายังมีความเคียดแค้นต่อเจ้า และกำลังรวบรวมทหารม้าเพื่อซื้อหาคนที่สิ้นหวัง พร้อมที่จะลอบสังหารเจ้าได้ทุกเมื่อ!
+sto-KW-14_2_5,"Hey, I knew it. It's just a desperate loser. Let him come, the head of the sect is always welcome to visit!",ฮ่า! ข้ารู้ตั้งแต่แรก นั่นก็แค่ผู้แพ้สิ้นหวังคนหนึ่ง ให้เขามาเถอะ หัวหน้าสำนักยินดีต้อนรับเสมอ!
+sto-KW-14_2_6,Are you acting like the head of the sect in front of me? Buck up!,เจ้ากำลังแสดงท่าทีเป็นหัวหน้าสำนักต่อหน้าข้ารึ? มั่นใจหน่อยสิ!
+sto-KW-14_log,"You have discovered King Chai's ambush, strike first for the advantage. (Failure or expiration of this event may result in game over)",เจ้าได้คลี่คลายแผนซุ่มโจมตีของอ๋องไฉแล้ว จงจู่โจมก่อนได้เปรียบ! (หากล้มเหลวหรือหมดเวลาในภารกิจนี้ อาจนำไปสู่การพ่ายแพ้ทั้งหมด)
+sto-KW-14_3_1,"{PlayerGivenName}, there's an urgent matter, you must listen carefully!",{PlayerGivenName} ฟังให้ดี! มีเรื่องด่วนที่เจ้าต้องรู้!
+sto-KW-14_3_2,"What's wrong, Qianxue? You're so serious, it's making you look ugly.",เกิดอะไรขึ้นหรือ เชียนเซวี่ย? เจ้าดูจริงจังเสียเหลือเกิน จนดูน่าเกลียดไปเลย
+sto-KW-14_3_3,"You're so annoying, you don't know when to joke!",เจ้านี่น่ารำคาญจริง! ไม่รู้จักกาลเทศะในการพูดเล่นเลยสักนิด!
+sto-KW-14_3_4,"I have always been worried about King Chai who threatens you. Just now a spy reported back that King Chai is recruiting soldiers and horses to buy the desperate, ready to assassinate you at any time!",ข้าเป็นห่วงอ๋องไฉที่คุกคามเจ้ามาโดยตลอด เพิ่งได้รับรายงานจากสายลับว่าอ๋องไฉกำลังระดมพลและม้า เกณฑ์คนสิ้นไร้ไม้ตอก เตรียมลอบสังหารเจ้าทุกเมื่อ!
+sto-KW-14_3_5,"Hey, I knew it. It's just a desperate loser. Let him come, the head of the sect is always welcome to visit!",ฮ! ข้าคาดไว้แล้ว นี่ก็แค่คนสิ้นคิดสิ้นทาง จงให้มาเถอะ หัวหน้าสำนักย่อมยินดีต้อนรับเสมอ!
+sto-KW-14_log1,"You have discovered King Chai's ambush, strike first for the advantage. (Failure or expiration of this event may result in game over)","เจ้าได้ค้นพบการซุ่มโจมตีของอ๋องไฉแล้ว จงตีก่อนเพื่อสร้างความได้เปรียบ! (หากล้มเหลวหรือหมดเวลาในภารกิจนี้ อาจนำไปสู่การพ่ายแพ้ทั้งหมด)"""
+sto-KW-15_1_1,"Leader, according to your instructions, the disciples have set up a No Escape trap inside and outside the sect. Now we have indeed found traces of King Chai and others' ambush.",ท่านผูู้นำ ตามคำสั่งของท่าน เหล่าศิษย์ได้วางกับดัก 'ไร้ทางหนี' ทั้งภายในและภายนอกสำนักแล้ว บัดนี้เราพบร่องรอยการซุ่มโจมตีของกอ๋องไฉและพวกพ้องอย่างแน่ชัด!
+sto-KW-15_1_2,"King Chai, King Chai, you think you're the hunter and I'm the prey. Today, let me, the head of the sect, teach you what real revenge is!","อ๋องไฉ, อ๋องไฉ เจ้าคิดว่าเจ้าเป็นผู้ล่า และข้าเป็นเหยื่อกระนั้นหรือ? วันนี้ ให้ข้า หัวหน้าสำนัก สอนเจ้าให้รู้ซึ้งถึงความแค้นที่แท้จริง!"
+sto-KW-15_name,King Chai's Revenge,การแก้แค้นของอ๋องไฉ
+sto-KW-15_log,"King Chai's assassination of you is imminent, and you, a brave and talented person, are prepared to strike first!",การลอบสังหารของอ๋องไฉใกล้จะเกิดขึ้นแล้ว และเจ้า ผู้กล้าหาญและมีพรสวรรค์ ก็เตรียมพร้อมที่จะตีก่อนได้เปรียบ!
+sto-KW-15_2_1,{PlayerName}... I hate you to the bone!,{PlayerName} ... ข้าเกลียดเจ้าลึกถึงกระดูก!
+sto-KW-15_2_2,It's you... who made me fall from the sky to the eighteen layers of hell!,ก็เจ้า... ผู้ทำให้ข้าตกจากฟากฟ้าสู่นรกทั้งสิบแปดขุมนี่เอง!
+sto-KW-15_2_3,It's you... who made me lose everything and be laughed at by the world!,ก็เจ้า... ผู้ทำให้ข้าสูญสิ้นทุกสิ่ง และถูกโลกเยาะหยันปรักปรำ!
+sto-KW-15_2_4,"Fortunately, heaven has eyes... and gave me a chance to take revenge on you!",โชคดีที่สวรรค์ทรงมีตา... และประทานโอกาสให้ข้าแก้แค้นเจ้า!
+sto-KW-15_2_5,"I swear, I will make you die without a burial place!",ข้าขอสาบาน! จะทำให้เจ้าตายอย่างไร้ที่ฝังศพ!
+sto-KW-15_2_6,(Yawning) Who do you want to be left unburied?,(หาวนอน) ใครกันเล่าที่จะตายโดยไร้ที่ฝังศพ?
+sto-KW-15_2_7,"{PlayerName} Just in time! Come to hell with me, hahaha!","{PlayerName} มาพอดีเสียจริง! มาลงนรกกับข้าเลยสิ, ฮ่าๆๆ!"
+sto-KW-15_3_1,"Leader, King Chai launched a very cruel attack when we were unprepared. The disciples in the sect were caught off guard and were assassinated...",ท่านประมุข อ๋องไฉโจมตีอย่างทารุณในขณะที่เราไร้เดียงสา เหล่าศิษย์ในสำนักถูกจู่โจมโดยไม่ทันตั้งตัว และถูกสังหารราวกับแกะในคอก..
+sto-KW-15_3_2,"It's over, it's over, how could I forget such an important thing!",จบแล้ว จบแล้ว! เหตุใดข้าจึงลืมเรื่องสำคัญปานนี้เสียได้!
+sto-KW-15_3_3,"At this point, you can't escape even if you had wings!",บัดนี้ เจ้าจะมีปีกก็หนีไปไหนไม่พ้น!
+sto-KW-15_3_4,"{PlayerName}! Come to hell with me, hahaha!",{PlayerName}！ไปลงนรกกับข้าซะ ฮ่าฮ่าฮ่า!
+sto-KW-15_4_1,"I didn't expect King Chai to prepare for so long, but he's still so weak, boring, boring!",ข้าไม่คาดคิดว่าอ๋องไฉจะเตรียมการมานาน แต่เขายังคงอ่อนแอเช่นเดิม น่าเบื่อ น่าเบื่อเสียจริง!
+sto-KW-15_4_2,"Leader, how come you're here, I've been looking for you...",ท่านประมุข เหตุใดท่านจึงมาปรากฏตัวที่นี่ ข้าได้ตามหาท่านมานาน...
+sto-KW-15_4_3,His Majesty sent today...,องค์จักรพรรดิทรงส่งข้ามาในวันนี้...
+sto-KW-15_4_4,"No, it's His Highness, not His Majesty, a small word but a world of difference.",ไม่ใช่ พระองค์ทรงเป็นพระชนนี มิใช่จักรพรรดิ คำเล็กๆ นี้ แต่มีความแตกต่างราวฟ้ากับเหว!
+sto-KW-15_4_5,"His Highness Duke Kang has successfully ascended to the throne today, changing the era to Jianyan...",พระชนนีอ๋องคังทรงขึ้นครองราชย์สำเร็จในวันนี้ ทรงประกาศเปลี่ยนยุคสู่ 'เจี้ยนหยาน'...
+sto-KW-15_4_6,"Mr. Tong Daofu from the Imperial City Department has also arrived at our sect, inviting you, the head of the sect and the first meritorious official, to enter the palace for the seal!",ท่านเจ้าสำนัก! ท่านถงเต๋าฝู่ ผู้บัญชาการกรมวังหลวง ได้เดินทางมาถึงสำนักของเราแล้ว เชิญท่านเจ้าสำนักผู้เป็นวีรบุรุษอันดับหนึ่ง เข้าวังหลวงเพื่อรับการแต่งตั้ง!
+sto-KW-15_4_7,"It seems that Duke Kang's actions are much faster than imagined, let Mr. Tong wait a moment, let me bathe and change clothes, and then go to see His Majesty.",ดูท่าทางว่าท่านอ๋องคังจะเคลื่อนไหวเร็วกว่าที่ข้าคิดเสียอีก เจ้าจงบอกท่านถงว่าให้รอข้าสักครู่ ข้าขอไปชำระกายเปลี่ยนอาภรณ์ก่อน แล้วจึงจะไปเข้าเฝ้าฝ่าบาท
+sto-KW-15_5_1,"{PlayerGivenName}, can you not go?",{PlayerGivenName} ท่านไม่ไป ไม่ได้หรือ?
+sto-KW-15_5_2,"Qingqing... don't be childish, since His Majesty has summoned, how can I not go?",ชิงชิง... อย่าทำตัวเป็นเด็กๆ ไปหน่อยเลย ฝ่าบาททรงเรียกพบ ข้าจะมีเหตุผลใดให้ไม่ไปได้?
+sto-KW-15_5_3,"You are His Majesty's dragon servant... but when the birds are gone, the good bow is hidden, I'm afraid that Duke Kang is worried that your merits are too high to reward, and chooses to assassinate you...",ท่านเป็นขุนนางผู้ร่วมสร้างราชบัลลังก์... แต่ยามเมื่อนกหมดสิ้น ธนูก็ถูกเก็บซ่อน ข้าเกรงว่าอ๋องคังจะกังวลว่าท่านมีคุณงามความดีสูงส่งจนมิอาจให้รางวัลได้ จึงเลือกที่จะลอบสังหารท่านแทน...
+sto-KW-15_5_4,"Why don't we abandon everything and return to the rivers and lakes together! To live that free and enviable happy life, this lady will definitely follow you in everything!",ใยเราไม่ทิ้งทุกอย่างแล้วไปใช้ชีวิตอย่างอิสระเสรีในยุทธภพด้วยกันล่ะ! ไปใช้ชีวิตที่อิสระเสรีและน่าอิจฉาเหล่านั้นกันเถิด ข้าจะยอมทำตามท่านทุกอย่าง!
+sto-KW-15_5_5,"Qingqing's worries are not unreasonable, what should I choose...",ความกังวลของชิงชิงก็มีเหตุผลอยู่บ้าง ข้าควรจะตัดสินใจอย่างไรดี...
+sto-KW-15_6_1,"{PlayerGivenName}, can you not go?",{PlayerGivenName} ท่านไม่ไป ไม่ได้หรือ?
+sto-KW-15_6_2,"Qianxue... don't be so clingy, since His Majesty has summoned, how can I not go?",เฉียนเสวี่ย... อย่าทำตัวติดข้าจนเกินไป ฝ่าบาททรงเรียกพบ ข้าจะมีเหตุผลใด ที่จะไม่ไปได้?
+sto-KW-15_6_3,"You are His Majesty's dragon servant... but when the birds are gone, the good bow is hidden, I'm afraid that Duke Kang is worried that your merits are too high to reward, and chooses to assassinate you...",ท่านเป็นขุนนางผู้ร่วมสร้างราชบัลลังก์... แต่ยามเมื่อนกหมดสิ้น ธนูก็ถูกเก็บซ่อน ข้าเกรงว่าอ๋องคังจะกังวลว่าท่านมีคุณงามความดีสูงส่งจนมิอาจให้รางวัลได้ จึงเลือกที่จะลอบสังหารท่านแทน...
+sto-KW-15_6_4,"Why don't we hide together in a beautiful, secluded place? Even if we have to live on low-grade tea and simple food, as long as I'm with you, I'm content...",เราไปหาที่ที่งดงามและเงียบสงบ หลบซ่อนตัวกันเถิด แม้จะต้องกินอาหารธรรมดาๆ นอนกลางดินกินกลางทราย เพียงแค่ได้อยู่กับท่าน ข้าก็ยินดีแล้ว...
+sto-KW-15_6_5,"Qianxue's worries are not unreasonable, what should I choose...",ความกังวลของเฉียนเสวี่ยก็มีเหตุผลอยู่บ้าง ข้าควรจะตัดสินใจอย่างไรดี...
+sto-KW-15_op_1_1,"Duke Kang is trustworthy, he will not let me down!",ข้าเชื่อมั่นในอ๋องคัง ท่านจะไม่ทำให้ข้าผิดหวังอย่างแน่นอน!
+sto-KW-15_op_1_2,Fame and fortune are not as good as a beauty!,ชื่อเสียงเกียรติยศและทรัพย์สินเงินทอง มิอาจเทียบได้กับความงามของนาง!
+sto-KW-15_7_1,"As the ancients said, the country's scholars wait for it, and the country's scholars repay it. Duke Kang is trustworthy, he will not let me down!",โบราณกล่าวไว้ว่า เมื่อแผ่นดินต้องการผู้กล้า แผ่นดินย่อมตอบแทนผู้กล้า อ๋องคังทรงเชื่อมั่นในข้า ข้าจะไม่ทำให้ท่านผิดหวังอย่างแน่นอน!
+sto-KW-15_7_2,"{PlayerSurName} Sect leader, the emperor summons!",ท่านเจ้าสำนัก{PlayerSurName} ฮ่องเต้ทรงมีรับสั่งให้เข้าเฝ้า!
+sto-KW-15_8_1,"The wish to dominate the martial world has been fulfilled, fame and fortune have no attraction to me... Living in seclusion with a beauty is indeed a good choice.",ความปรารถนาที่จะรวมยุทธภพเป็นหนึ่งเดียวสำเร็จแล้ว ชื่อเสียงเกียรติยศมิได้ดึงดูดข้าอีกต่อไป การใช้ชีวิตอย่างสันโดษกับสตรีงามนั้นช่างเป็นทางเลือกที่น่าสนใจยิ่งนัก
+sto-KW-16_1_1,"You arrive at the palace under the guidance of Tong Daofu\nThe crowd is like a roaring sea, as dense as a forest\nYou slowly walk into the Golden Luandian\nAs you walk, you can't help but wonder\nHas the friend on the throne become a bit of a stranger...","ท่านได้รับเชิญจากถงเต๋าฝู่เข้าสู่พระราชวัง\nเสียงคำรามกึกก้องดั่งภูผา เสียงโห่ร้องดังป่าสน\nท่านก้าวเดินช้าๆ เข้าสู่ท้องพระโรงทองคำ\nขณะเดินไปก็อดไม่ได้ที่จะคิด\nสหายบนบัลลังก์นั้นจะแปลกตาไปบ้างหรือไม่หนอ..."
+sto-KW-16_1_2,"Minister Tong Daofu, according to the rules, brought {MyFaction}{PlayerSurName} sect leader to your presence.",ข้าขุนนางถงเต๋าฝู่ ได้นำเจ้าสำนัก{MyFaction} {PlayerSurName}มาเข้าเฝ้าตามพระบัญชาแล้วพะย่ะค่ะ
+sto-KW-16_1_3,Kang... Emperor Jianyan...,อ๋องคัง... ฮ่องเต้เจี้ยนเหยียน...
+sto-KW-16_1_4,"My dear minister, please get up quickly, you are the first meritorious official who allowed me to sit on this throne! Between you and me, we should avoid these formalities.",ใยต้องมากพิธีไป ท่านคือขุนนางคนโปรดของข้า ท่านคือผู้มีคุณูปการอันดับหนึ่งที่ทำให้ข้าได้นั่งบนบัลลังก์นี้! ระหว่างเราสองคน ไม่จำเป็นต้องมีพิธีรีตองใดๆ ทั้งสิ้น
+sto-KW-16_1_5,"Tong Daofu, read the imperial edict of rewarding my dear minister for me.",ถงเต๋าฝู่ จงอ่านพระราชโองการแต่งตั้งขุนนางคนโปรดของข้าให้ฟังซิ
+sto-KW-16_1_6,"Yes, Your Imperial Majesty!",รับพระบัญชา!
+sto-KW-16_1_7,"{PlayerName} is known to me in the rivers and lakes, but he is loyal and brave, for the country and the people, he has saved me and the world from danger several times!",{PlayerName} รู้จักกับข้าในยุทธภพ แต่กลับซื่อสัตย์กล้าหาญ ทำเพื่อชาติเพื่อประชาชน ช่วยเหลือข้าและแผ่นดินจากวิกฤตหลายครั้งหลายครา!
+sto-KW-16_1_8,"Such astonishing merits should be rewarded with the highest position, but I know that {PlayerName} is dedicated to the martial arts and does not seek fame and fortune, so I specially ordered him to guard the rivers and lakes forever, and share this peaceful world with me!",ความดีความชอบอันยิ่งใหญ่เช่นนี้ ควรจะให้ตำแหน่งสูงสุดในหมู่ขุนนาง แต่ข้ารู้ว่า{PlayerName}ห่วงใยยุทธภพ ไม่ใฝ่หาชื่อเสียง จึงแต่งตั้งให้ท่านปกครองยุทธภพตลอดไป ร่วมกับข้าเสวยสุขในแผ่นดินอันสงบสุขนี้!
+sto-KW-16_1_9,"Thank you, Your Majesty!",ขอบพระทัยฝ่าบาท!
+sto-KW-16_1_10,"{PlayerSurName} My dear minister, I made a promise with you in the past, that when the mission is accomplished, we must have a good drink.",ท่านขุนนาง{PlayerSurName} ข้าเคยสัญญากับท่านไว้ว่า เมื่อถึงวันที่งานสำเร็จ เราจะดื่มฉลองกันอย่างเต็มที่
+sto-KW-16_1_11,"This is a fine wine from the Western Regions that even I can't bear to drink too much. Come, let's drink this cup first, I'll toast to you!",จอกนี้เป็นสุราจากดินแดนตะวันตกที่แม้แต่ข้าเองก็ยังเสียดายที่จะดื่มมากนัก มาเถิด ดื่มจอกนี้ให้หมดก่อน ข้าขอคารวะท่านก่อน!
+sto-KW-16_1_12,Then I will not be polite!,เช่นนั้นข้าก็ขอรับไว้ด้วยความยินดี!
+sto-KW-16_2_1,Good wine... it's really good wine!,สุราเลิศรส... ช่างเป็นสุราเลิศรสจริงๆ!
+sto-KW-16_2_2,"Why is His Majesty so stingy, not giving me a bigger cup for this great meritorious official!",ฝ่าบาทช่างใจแคบนัก ไม่ประทานจอกใหญ่กว่านี้ให้ข้าผู้เป็นวีรบุรุษผู้ยิ่งใหญ่หรือ!
+sto-KW-16_2_3,"I'm just afraid that you'll get drunk and roll around in this Golden Throne Hall. It's not just about the dignity of the royal family, but also about your image as a top martial artist of the number one sect in the martial arts world, hahaha.",ก็เพราะกลัวเจ้าจะเมามายล้มกลิ้งไปมา แล้วกลิ้งไปทั่วท้องพระโรงทองคำนี้ยังไงเล่า ทำให้เสื่อมเสียพระเกียรติของราชวงศ์ก็ช่างเถิด ข้าห่วงว่ามันจะทำให้ภาพลักษณ์ของเจ้าในฐานะจอมยุทธ์ผู้ยิ่งใหญ่แห่งสำนักอันดับหนึ่งในยุทธภพต้องมัวหมองต่างหาก ฮ่าๆๆ
+sto-KW-16_2_4,"Nonsense, I, the sect leader, am famously known as the Drinking God! Bring me the wine!",เหลวไหล ข้าเจ้าสำนักผู้นี้ขึ้นชื่อลือชาว่าดื่มพันจอกก็ไม่เมา! เอาสุรามา!
+sto-KW-16_3_1,"Although it's said that when the birds are gone, the bow is put away, and when one's merit is too high, it frightens the lord... But this cup of poisoned wine from your majesty really hurts {0}'s heart.",แม้จะรู้ว่าเมื่อนกหมดสิ้น ธนูก็ถูกเก็บซ่อน เมื่อความดีความชอบสูงส่งก็อาจเป็นภัย... แต่สุราพิษจอกนี้ของฝ่าบาท ช่างทำร้ายจิตใจของ{0}ยิ่งนัก
+sto-KW-16_3_2,"Do you think I want to kill you... It's just that the arrow is on the string, and I have to let it go.",เจ้าคิดว่าข้าอยากให้เจ้าตายหรือ... เพียงแต่ลูกธนูขึ้นสายแล้ว จำเป็นต้องยิงออกไป
+sto-KW-16_3_3,"{1}, you can go in peace. All the disciples of your sect will be treated as national scholars by me!",เจ้าจงไปอย่างสงบเถิด ข้าจะดูแลศิษย์ทุกคนในสำนักของเจ้าอย่างดีที่สุด!
+sto-KW-16_3_4,What a pity...,น่าเสียดายนัก...
+sto-KW-16_3_5,Pity what?,น่าเสียดายอะไรหรือ?
+sto-KW-16_3_6,"It's a pity that you, Duke Kang, are too clever for your own good, and it cost you your life...",น่าเสียดายที่ท่านอ๋องคังคำนวณมากเกินไป จนพลาดท่าเสียเอง...
+sto-KW-16_3_7,"How can a poison of this level harm me, a person at the peak of Jianghu?",สุราพิษระดับนี้ จะทำร้ายข้าผู้เป็นอันดับหนึ่งในใต้หล้าได้อย่างไร?
 sto-KW-16_3_8,"Guards, protect the emperor!",องครักษ์ คุ้มกันฝ่าบาท!
-sto-KW-16_3_9,"You bunch of nobodies, get out of my way!"
-sto-KW-16_4_1,"Those who block me will die, I'll say it again!"
-sto-KW-16_4_2,"You rebellious traitor, don't be arrogant, I'll deal with you!"
-sto-KW-16_5_1,"Your Highness, now it's just you and me..."
-sto-KW-16_5_2,"Hmph, I've been hiding my true strength for so many years, and now I can finally stop hiding."
-sto-KW-16_5_3,"...Come on, let's fight until one of us is invincible!"
-sto-KW-16_6_1,"I've been fighting all the way, I didn't expect the end to be like this, it's really disheartening..."
-sto-KW-16_6_2,"Whether rich or poor, it's all just a name, and even a duke can be overthrown... Maybe, I should have seen through it all long ago."
-sto-KW-16_6_3,"I want to see the willow trees in Jiangnan, the sunset over the lonely city in the borderlands, the snow-capped peaks, and the misty islands..."
-sto-KW-16_6_4,"Anyway, I'm at the peak of Jianghu, the world is so big, where can't I go hahaha!"
-sto-CW-1_1_1,"{2}, how is your sect doing recently? I've brought you some supplies to show my goodwill~"
-sto-CW-1_1_2,"Sir, I can't accept this without doing anything in return. I appreciate your kindness, but please take these things back."
-sto-CW-1_1_3,"What are you talking about, {3}? The person behind me thinks highly of your sect. If I really take these things back, I will definitely be punished..."
-sto-CW-1_1_4,"Oh? It's a pity that I, the sect leader, never deal with those who hide in the dark. If you really want to make friends, why not show yourself?"
-sto-CW-1_1_5,"{4}, you are really straightforward, I'm impressed!"
-sto-CW-1_1_6,"There are only a few people in the world who are qualified to call themselves ""my king"", who are you?"
-sto-CW-1_1_7,"How dare you, this is the Duke of Chai, who was personally appointed by the late emperor and whose title is hereditary! {5}, kneel down and pay your respects!"
-sto-CW-1_1_8,"No need, I'm not the kind of arrogant and rigid prince. I like the heroic and extraordinary sect leader."
-sto-CW-1_1_9,"Your Highness, I suddenly thought of something that might just require {6}'s help."
-sto-CW-1_2_1,"Your Highness had previously intended to support the Tiger Escort to expand, but Han Hongyu kept sabotaging and plotting rebellion, ruining your plans time and again."
-sto-CW-1_2_2,"Although the Tiger Escort has been destroyed, Han Hongyu is still at large, continuing to tarnish your reputation. I heard that she is hiding in {7}'s territory, so why not..."
-sto-CW-1_2_3,"Hmm... You make a good point, {PlayerSurName} Sect Leader, could I trouble you to help me capture this person?"
-sto-CW-1_2_4,"As per Prince Chai's command, our sect will certainly comply."
-sto-CW-1_2_5,"Good! Then I will take my leave first. As soon as Han Hongyu's whereabouts are confirmed, I will inform your sect immediately."
-sto-CW-1_log,Wait for Prince Chai to send news about Han Hongyu
-sto-CW-1_3_1,"Previously, His Highness intended to support the expansion of Tiger Escort, but Han Hongyu repeatedly sabotaged and intentionally lost the escort, ruining His Highness's plans time and again."
-sto-CW-1_3_2,"Since Tiger Escort has committed such foolish acts, they must be punished. And it's inconvenient for you, Your Highness, to take action yourself..."
-sto-CW-1_3_3,"Hmm... You make a good point, {PlayerSurName} Sect Leader, could you help me subdue Tiger Escort, so that they cannot stir up trouble for several years?"
-sto-CW-1_3_4,Leave such a small matter to our sect.
-sto-CW-1_3_5,"Good! Then I will take my leave first, and wait for the good news from your sect."
-sto-CW-1_log1,Subdue Tiger Escort
-sto-CW-2-1_1_1,"Master, someone has thrown a secret letter into the sect, please take a look."
-sto-CW-2-1_1_2,"It seems that Prince Chai's men have found the hiding place of the remnants of Tiger Escort. According to the letter, they will leave in <color=#a94e37>two months</color>. We need to act quickly."
-sto-CW-2-1_name,Remnants of Tiger Escort
-sto-CW-2-1_log,You accept Prince Chai's command and vow to capture Han Hongyu and others who have fled to your sect.
-sto-CW-2-1_2_1,"The former Tiger Escort Elite Escort is hiding in a civilian house\nCooking and washing with his Escort Lieutenant\nNo different from an ordinary farm woman..."
-sto-CW-2-1_2_2,"Han Elite Escort helps us rough men with cooking and washing every day, it's really hard..."
-sto-CW-2-1_2_3,It's us who offended Prince Chai and implicated our brothers in suffering. How can we talk about hardship?
-sto-CW-2-1_2_4,"Wait... Enemies are coming, brothers, get ready for battle!"
+sto-KW-16_3_9,"You bunch of nobodies, get out of my way!",พวกเจ้ามันก็แค่คนไร้ค่าต่ำต้อย จงหลีกไปให้พ้นจากข้า!
+sto-KW-16_4_1,"Those who block me will die, I'll say it again!",ข้าจะพูดอีกครั้ง ผู้ใดขวางข้า ผู้นั้นต้องตาย!
+sto-KW-16_4_2,"You rebellious traitor, don't be arrogant, I'll deal with you!",กบฏชั่วช้า อย่าได้ลำพองตนนัก ข้าจะประมือกับเจ้าสักตั้ง!
+sto-KW-16_5_1,"Your Highness, now it's just you and me...",ใต้เท้า ตอนนี้เหลือเพียงท่านกับข้าแล้ว...
+sto-KW-16_5_2,"Hmph, I've been hiding my true strength for so many years, and now I can finally stop hiding.",ฮึ่ม! ข้าซ่อนพลังมานานหลายปี บัดนี้ถึงเวลาที่ข้าจะได้แสดงมันออกมาแล้ว!
+sto-KW-16_5_3,"...Come on, let's fight until one of us is invincible!",...มาเถิด ระหว่างเราสองคน ต้องมีผู้ใดผู้หนึ่งดับดิ้น!
+sto-KW-16_6_1,"I've been fighting all the way, I didn't expect the end to be like this, it's really disheartening...",ข้าต่อสู้มาตลอดทาง ไม่คิดเลยว่าสุดท้ายจะเป็นเช่นนี้ ช่างน่าหดหู่ใจยิ่งนัก...
+sto-KW-16_6_2,"Whether rich or poor, it's all just a name, and even a duke can be overthrown... Maybe, I should have seen through it all long ago.",ชื่อเสียงเกียรติยศล้วนเป็นสิ่งภายนอก ตำแหน่งขุนนางย่อมได้มาด้วยคมดาบ... บางที ข้าควรจะเข้าใจสิ่งเหล่านี้ตั้งนานแล้ว
+sto-KW-16_6_3,"I want to see the willow trees in Jiangnan, the sunset over the lonely city in the borderlands, the snow-capped peaks, and the misty islands...",ข้าปรารถนาจะชมต้นหลิวแห่งจางไถในเจียงหนาน อยากเห็นอาทิตย์อัสดงเหนือเมืองร้างในดินแดนเหนือ อยากพิชิตยอดเขาหิมะที่สูงเสียดฟ้า และอยากไปเยือนเกาะร้างที่ปกคลุมด้วยหมอกควัน...
+sto-KW-16_6_4,"Anyway, I'm at the peak of Jianghu, the world is so big, where can't I go hahaha!",ข้าคือหนึ่งในใต้หล้าอยู่แล้ว ใต้หล้ากว้างใหญ่ไพศาล จะมีที่ใดที่ข้าไปไม่ได้บ้าง ฮ่าๆๆ!
+sto-CW-1_1_1,"{2}, how is your sect doing recently? I've brought you some supplies to show my goodwill~",ท่านเจ้าสำนัก {2}  ช่วงนี้สำนักของท่านเจริญก้าวหน้าดีหรือไม่?  ข้ามีของกำนัลมามอบให้ท่าน เพื่อแสดงไมตรีจิต~
+sto-CW-1_1_2,"Sir, I can't accept this without doing anything in return. I appreciate your kindness, but please take these things back.",ขอบคุณสำหรับของฝาก แต่ของฟรีไม่มีในโลก น้ำใจของท่านข้าซาบซึ้งยิ่ง แต่สิ่งของเหล่านี้ โปรดรับกลับไปเถิด
+sto-CW-1_1_3,"What are you talking about, {3}? The person behind me thinks highly of your sect. If I really take these things back, I will definitely be punished...",ท่านเจ้าสำนัก {3} ไยท่านกล่าวเช่นนั้น! ข้าชื่นชมสำนักท่านยิ่งนัก หากข้านำของเหล่านี้กลับไป เกรงว่าจะถูกลงทัณฑ์...
+sto-CW-1_1_4,"Oh? It's a pity that I, the sect leader, never deal with those who hide in the dark. If you really want to make friends, why not show yourself?",โอ้? น่าเสียดายที่เจ้าสำนักเช่นข้า ไม่เคยคบค้ากับผู้ที่ซ่อนตัวอยู่ในเงามืด หากหวังจะผูกมิตรกันจริง เหตุใดจึงไม่ออกมาพบหน้ากันเล่า?
+sto-CW-1_1_5,"{4}, you are really straightforward, I'm impressed!",ท่านเจ้าสำนัก {4} ช่างเป็นคนตรงไปตรงมาสมคำร่ำลือยิ่งนัก ข้าขอชื่นชมจากใจจริง!
+sto-CW-1_1_6,"There are only a few people in the world who are qualified to call themselves ""my king"", who are you?",นี่เจ้า! ทั่วทั้งแผ่นดิน ผู้ที่มีสิทธิ์เรียกตนเองว่า 'นายของข้า' นั้น  นับได้ด้วยมือเดียว  เจ้าเป็นใครกันแน่?
+sto-CW-1_1_7,"How dare you, this is the Duke of Chai, who was personally appointed by the late emperor and whose title is hereditary! {5}, kneel down and pay your respects!",ช่างบังอาจ! นี่คือท่านอ๋องไฉ ผู้ที่ได้รับพระราชทานยศจากฮ่องเต้องค์ก่อน! เจ้าสำนัก {5} ยังไม่รีบคุกเข่าลงคำนับอีก!
+sto-CW-1_1_8,"No need, I'm not the kind of arrogant and rigid prince. I like the heroic and extraordinary sect leader.",ช่างเถอะน่า เราหาใช่คนโง่เขลาหัวแข็ง ที่วางท่าจองหองไม่  พอเห็นท่านเจ้าสำนักองอาจเช่นนี้ เราก็รู้สึกชื่นชมยิ่งนัก
+sto-CW-1_1_9,"Your Highness, I suddenly thought of something that might just require {6}'s help.",ใต้เท้า ข้าบังเกิดความคิดขึ้นมากระทันหัน เห็นทีจะเป็นเรื่องที่ข้า อาจต้องขอแรงท่านเจ้าสำนัก {6} ให้ยื่นมือเข้าช่วย
+sto-CW-1_2_1,"Your Highness had previously intended to support the Tiger Escort to expand, but Han Hongyu kept sabotaging and plotting rebellion, ruining your plans time and again.",ใต้เท้า ก่อนหน้านี้ท่านอ๋องมีพระประสงค์จะสนับสนุน สำนักคุ้มภัยพยัคฆ์ให้แผ่ขยายสาขา แต่หานหงอวี้ ผู้นั้น กลับก่อเรื่องวุ่นวาย วางแผนทรยศ หักหลัง ทำลายแผนการของท่านอ๋อง ซ้ำแล้วซ้ำเล่า
+sto-CW-1_2_2,"Although the Tiger Escort has been destroyed, Han Hongyu is still at large, continuing to tarnish your reputation. I heard that she is hiding in {7}'s territory, so why not...",ถึงแม้ว่าตอนนี้สำนักคุ้มภัยพยัคฆ์จะถูกทำลายไปแล้ว แต่ หานหงอวี้ ยังคงลอยนวลอยู่  มิหนำซ้ำยังเที่ยวป่าวประกาศใส่ร้ายชื่อเสียงของท่านอ๋องอีกด้วย ข้าน้อยได้ข่าวมาว่า ตอนนี้นางกบดานอยู่ในเขตแดนของ {7} เหตุใดเราไม่...
+sto-CW-1_2_3,"Hmm... You make a good point, {PlayerSurName} Sect Leader, could I trouble you to help me capture this person?",อืม... กล่าวได้ถูกต้อง ท่านเจ้าสำนัก {PlayerSurName} ข้าขอรบกวนท่านช่วยจับตัวคนผู้นี้ให้ข้าได้หรือไม่?
+sto-CW-1_2_4,"As per Prince Chai's command, our sect will certainly comply.",องค์ชายไฉมีบัญชา สำนักของข้าย่อมปฏิบัติตามโดยมิมีข้อแม้
+sto-CW-1_2_5,"Good! Then I will take my leave first. As soon as Han Hongyu's whereabouts are confirmed, I will inform your sect immediately.",ดี! เช่นนั้นข้าขอลาไปก่อน เมื่อทราบเบาะแสของหานหงอวี้ ข้าจะรีบแจ้งให้สำนักท่านทราบโดยเร็ว
+sto-CW-1_log,Wait for Prince Chai to send news about Han Hongyu,ข้อน้อยจะรอข่าวเกี่ยวกับหานหงอวี้ จากองค์ชายไฉ
+sto-CW-1_3_1,"Previously, His Highness intended to support the expansion of Tiger Escort, but Han Hongyu repeatedly sabotaged and intentionally lost the escort, ruining His Highness's plans time and again.",แต่เดิม ท่านอ๋องมีพระประสงค์จะสนับสนุน สำนักคุ้มภัยพยัคฆ์ให้แผ่ขยายสาขา แต่หานหงอวี้ ผู้นั้น กลับก่อเรื่องวุ่นวาย วางแผนทรยศ หักหลัง ทำลายแผนการของท่านอ๋อง ซ้ำแล้วซ้ำเล่า
+sto-CW-1_3_2,"Since Tiger Escort has committed such foolish acts, they must be punished. And it's inconvenient for you, Your Highness, to take action yourself...",ในเมื่อ สำนักคุ้มภัยพยัคฆ์ กระทำเรื่องโง่เขลาเช่นนี้ ก็ต้องได้รับการลงทัณฑ์ และท่านอ๋องก็ไม่สะดวกที่จะปรากฏตัวเอง..
+sto-CW-1_3_3,"Hmm... You make a good point, {PlayerSurName} Sect Leader, could you help me subdue Tiger Escort, so that they cannot stir up trouble for several years?",อืม... กล่าวได้ถูกต้อง ท่านเจ้าสำนัก {PlayerSurName} ท่านจะช่วยข้าทำให้ สำนักคุ้มภัยพยัคฆ์สงบลง เพื่อพวกเขาจะไม่สามารถก่อความวุ่นวายได้อีกในหลายปีได้หรือไม่?
+sto-CW-1_3_4,Leave such a small matter to our sect.,เรื่องเล็กน้อยเช่นนี้ ขอมอบให้สำนักเราจัดการเถิด
+sto-CW-1_3_5,"Good! Then I will take my leave first, and wait for the good news from your sect.",ดี! เช่นนั้นข้าขอตัวลาไปก่อน รอคอยข่าวดีจากสำนักท่าน
+sto-CW-1_log1,Subdue Tiger Escort,ปราบปรามสำนักคุ้มภัยพยัคฆ์
+sto-CW-2-1_1_1,"Master, someone has thrown a secret letter into the sect, please take a look.",ท่านเจ้าสำนัก มีผู้ส่งสารลับมาให้ท่าน ขอท่านโปรดเปิดดู
+sto-CW-2-1_1_2,"It seems that Prince Chai's men have found the hiding place of the remnants of Tiger Escort. According to the letter, they will leave in <color=#a94e37>two months</color>. We need to act quickly.",ดูเหมือนคนของ องค์ชายไฉจะพบที่ซ่อนของพวกที่เหลือรอดของ สำนักคุ้มภัยพยัคฆ์แล้ว ในจดหมายบอกว่าพวกเขาจะออกเดินทางใน <color=#a94e37>สองเดือน</color> เราต้องลงมือเร็วแล้ว
+sto-CW-2-1_name,Remnants of Tiger Escort,พวกที่เหลือรอดของสำนักคุ้มภัยพยัคฆ์
+sto-CW-2-1_log,You accept Prince Chai's command and vow to capture Han Hongyu and others who have fled to your sect.,ท่านได้รับบัญชาจากองค์ชายไฉ และตั้งใจอย่างแน่วแน่ว่าจะจับกุมหานหงอวี้และผู้ที่หลบหนีมายังสำนักของท่านให้ได้
+sto-CW-2-1_2_1,"The former Tiger Escort Elite Escort is hiding in a civilian house\nCooking and washing with his Escort Lieutenant\nNo different from an ordinary farm woman...","อดีตหัวหน้า สำนักคุ้มภัยพยัคฆ์ กำลังหลบซ่อน\nอยู่ในบ้านชาวบ้านหลังหนึ่ง\nซักผ้าทำอาหารกับลูกน้อง\nดูแล้วก็ไม่ต่างจากชาวนาธรรมดาเลย..."
+sto-CW-2-1_2_2,"Han Elite Escort helps us rough men with cooking and washing every day, it's really hard...",ท่านผู้นำหาน ช่วยคนหยาบกระด้างอย่างพวกเรา ซักผ้าทำอาหารทุกวัน ช่างน่าเห็นใจยิ่งนัก...
+sto-CW-2-1_2_3,It's us who offended Prince Chai and implicated our brothers in suffering. How can we talk about hardship?,ที่ข้าหานหงอวี้ทำให้ องค์ชายไฉขุ่นเคือง จนพี่น้องต้องมารับเคราะห์ไปด้วย จะพูดถึงความลำบากได้อย่างไร?
+sto-CW-2-1_2_4,"Wait... Enemies are coming, brothers, get ready for battle!",เดี๋ยวก่อน... มีศัตรูตามมา พี่น้องทั้งหลายเตรียมตัวสู้!
 sto-CW-2-1_2_5,"By the order of Chai Wangye, I must capture you and bring you to justice. I'm sorry!"
 sto-CW-2-1_2_6,"What a rotten potato and stinky bird egg! If you want to move Han Elite Escort, ask us brothers first!"
 sto-CW-2-1_2_7,"Although Tiger Escort is no more, the spirit passed down from generation to generation is still in the world. Brothers, as long as the escort is there, we are there!"
@@ -1143,12 +1143,12 @@ sto-FCT-4_5_1,"The officials I brought are not ordinary, they are all skilled pe
 sto-FCT-4_5_2,"If we are not as skilled, we can only honestly pay the tax..."
 sto-FCT-4_6_1,"{PlayerSurName} Sect leader, the three-month period is up, pay the tax honestly."
 sto-FCT-4_6_2,"It seems they will come once every three months, should we pay the tax..."
-sto-FCT-4_7_1,"These thieves are too powerful, I can't do anything, let's retreat and let Shangfeng find someone else..."
+sto-FCT-4_7_1,"These thieves are too powerful, I can't do anything, let's retreat and let Shangfeng find someone else...",พวกโจรเหล่านี้ ฝีมือร้ายกาจนัก ตัวข้ามิอาจรับมือ จำต้องถอยทัพกลับไปให้เบื้องบนหาผู้มีฝีมือสูงกว่ามาจัดการเสียแล้ว...
 sto-FCT-4_7_2,Don't let the door hit you on the way out!
 sto-FCT-4_7_3,"That Official said before leaving that he would let the higher-ups find someone else, I wonder who they will invite to deal with our sect, it's really curious."
-sto-FCT-5_1_1,"Go and inform your sect leader, Luo Tianxiong from the Crime Investigation Bureau is here to visit!"
-sto-FCT-5_1_2,Luo Constable? What a rare guest.
-sto-FCT-5_1_3,"I, Luo, have come here because someone reported that your sect is harboring evil and colluding with bandits, causing trouble in the area."
+sto-FCT-5_1_1,"Go and inform your sect leader, Luo Tianxiong from the Crime Investigation Bureau is here to visit!",จงรีบไปแจ้งเจ้าสำนักของพวกเจ้าว่า ลั่วเทียนเซียงแห่งสำนักเทพมือปราบมาเยือน!
+sto-FCT-5_1_2,Luo Constable? What a rare guest.,มือปราบลั่ว นับว่าเป็นแขกหายากจริง ๆ
+sto-FCT-5_1_3,"I, Luo, have come here because someone reported that your sect is harboring evil and colluding with bandits, causing trouble in the area.",ที่ข้าลั่วมาในครั้งนี้ สืบเนื่องจากมีผู้แจ้งว่าสำนักของท่านซุกซ่อนความชั่ว คบหากับโจรร้าย สร้างความเดือดร้อนแก่ชาวบ้าน
 sto-FCT-5_1_4,"As a constable of the court, I have always been impartial. I hope that {PlayerSurName} sect leader will cooperate and allow me to investigate thoroughly, to clear your sect's name."
 sto-FCT-5_1_5,"Innocence? Don't make me laugh, Constable Luo. Whether our sect is innocent or not, there is a fair conscience to prove it. Why bother with this investigation?"
 sto-FCT-5_1_6,"Hmph... I came with good intentions, but it seems I have only caused a misunderstanding with {PlayerSurName} sect leader."
@@ -2151,7 +2151,7 @@ Story-part23_1_11,Why are you telling me all this?
 Story-part23_1_12,"Because I don't want to make the same mistake again. If Saito gets what he wants, then Dongying and Zhao will become mortal enemies, fighting endlessly!"
 Story-part23_1_13,"{PlayerSurName}Sect Leader, you are the martial arts hero I admire the most, please help me atone for this sin..."
 Story-part23_1_14,"Although there are many things I don't understand, I will help you with this. I hope you can explain it to me later. Time is of the essence, let's go!"
-Story-part23_name,Imperial Seal
+Story-part23_name,Imperial Seal,ตราหยก พระราชลัญจกร
 Story-part23_log,You have learned that Hisahide Saito is trying to return to Dongying with the Imperial Seal.
 Story-part23_2_1,"These Zhao people are really stupid. I have the Imperial Seal in my hand, and they are still celebrating their victory."
 Story-part23_2_2,"As long as I can safely return to Dongying, I can use the Imperial Seal as a pledge to exchange for a large number of loyal and brave Dongying soldiers from the General. By then, with the joint attack of the Yan army, at least half of Zhao's land will be mine, haha!"
@@ -2376,7 +2376,7 @@ Story-part28_4_10,"In the Ye Family Battalion, although there is a hierarchy, we
 Story-part28_4_11,"I rashly attacked your sect before, but you saved me in spite of past grievances. Please accept this manual as an apology."
 Story-part28_5_1,"Master, I heard that Marshal Ye was in the Beiwei Army squad that asked for help. Because they didn't get support from our sect, not only were the soldiers heavily casualties, but Marshal Ye was also heavily injured..."
 Story-part28_5_2,"Fortunately, Marshal Ye is blessed, otherwise I would really be a sinner of the country..."
-Story-part29_1_1,"Master, after the Ye Family Battalion was destroyed, my father was disheartened and chose a secluded place to live in seclusion.",ท่านเจ้าสำนัก หลังกองพันตระกูลเย่ล่มสลาย ท่านพ่อของข้าก็หมดหวังและเก็บตัวหลบซ่อนยังที่เงียบสงบ
+Story-part29_1_1,"Master, after the Ye Family Battalion was destroyed, my father was disheartened and chose a secluded place to live in seclusion.",ท่านเจ้าสำนัก หลังกองทัพตระกูลเย่ล่มสลาย ท่านพ่อของข้าก็หมดหวังและเก็บตัวหลบซ่อนยังที่เงียบสงบ
 Story-part29_1_2,"Now that Great Ant City and Yan Yun Iron Army are watching closely, I want to ask you to accompany me to call my father out of retirement.",ตอนนี้เมืองผีฝูและกองทัพเหล็กเยี่ยนหยุน ต่างจ้องมองอย่างดุร้าย ข้าจึงอยากขอให้ท่านไปกับข้าเพื่อเรียกพ่อของข้าออกมาช่วยอีกครั้ง
 Story-part29_1_3,"If you can persuade Marshal Ye to come out of retirement, that would be a great thing!",ถ้าหากเจ้าเกลี้ยกล่อมท่านแม่ทัพเย่ให้กลับมาช่วยได้ นั่นคงเป็นเรื่องที่ดีมาก!
 Story-part29_name,Cold Cicada's Startled Dream,เสียงจิ้งหรีดปลุกฝัน
@@ -2897,7 +2897,7 @@ Story-part43_4_7,"Pfft... Let me, Wanyan Wuzhu, tell you, with your tolerance fo
 Story-part43_4_8,"So, I caused trouble... Ah, I didn't hurt you, did I?"
 Story-part43_4_9,"To hurt me, the sect leader, you need to practice for a few more years, haha."
 Story-part43_4_10,"So you are the {MyFaction}... Oh no! It's already this shichen, I need to hurry back and meet up with my father."
-Story-part43_4_11,I am Ye Yinping from the Ye Family Battalion. Thank you for your care today. I will repay you in the future!,ข้าคือเย่หยินผิงแห่งกองพันตระกูลเย่ ขอบคุณท่านที่ช่วยดูแลข้าในวันนี้ ข้าจะต้องตอบแทนท่านในอนาคตอย่างแน่นอน!
+Story-part43_4_11,I am Ye Yinping from the Ye Family Battalion. Thank you for your care today. I will repay you in the future!,ข้าคือเย่หยินผิงแห่งกองทัพตระกูลเย่ ขอบคุณท่านที่ช่วยดูแลข้าในวันนี้ ข้าจะต้องตอบแทนท่านในอนาคตอย่างแน่นอน!
 Story-part43_5_1,"Sect leader, the wine tasting event in Chuxiang City has ended. You can only participate next year."
 Story-part43_5_2,"Such a boring event, it's okay not to go. Just help me decline next time."
 Story-part44_1_1,"Sect leader, Miss Ye Yinping from the Ye Family Battalion is here to visit."
