@@ -823,7 +823,7 @@ sto-CW-2-2_2_3,"Now that Tiger Escort is destroyed, Prince Chai should be very p
 sto-CW-2-2_2_4,"His Highness highly praised your sect and specially ordered me to bring a treasure as a reward. If there are new instructions, I will convey them immediately.",องค์ชายทรงชมเชยสำนักของท่านเป็นอย่างยิ่ง จึงมีบัญชาให้ข้านำของล้ำค่ามามอบให้เป็นรางวัล หากมีบัญชาใหม่ใด ๆ ข้าน้อยจะรีบนำมาแจ้งให้ทราบโดยพลัน
 sto-CW-2-2_2_5,Thank you for your hard work!,ขอขอบคุณ ต้องลำบากท่านเสียแล้ว!
 sto-CW-2-2_log,"Continue to expand the territory, waiting for the next instruction from King Chai",ขยายอาณาเขตต่อไป และรอคอยบัญชาต่อไปของอ๋องไฉ
-sto-CW-3_1_1,"Sect Leader, Prince Chai sent a verbal message, saying that the annual competition of the Taoist Sect is in <color=#a94e37>three months</color>, and he intends to invite you to accompany him to the ceremony."
+sto-CW-3_1_1,"Sect Leader, Prince Chai sent a verbal message, saying that the annual competition of the Taoist Sect is in <color=#a94e37>three months</color>, and he intends to invite you to accompany him to the ceremony.",เรียนเจ้าสำนัก องค์ชายไฉทรงส่งสารมาว่า  อีก<color=#a94e37>สามเดือน</color>ข้างหน้า จะมีการประลองใหญ่ประจำปีของสำนักเต๋า องค์ชายทรงมีพระประสงค์จะเชิญท่านไปร่วมชมพิธีด้วยกัน
 sto-CW-3_1_2,"Strange, this King Chai is actually interested in the Taoist Sect's grand competition."
 sto-CW-3_1_3,"Well... King Chai has always liked to make friends with Vagabonds, so this trip must be to get to know the masters of the Taoist Sect."
 sto-CW-3_1_4,"As for calling Me to go, it must be to deal with various unexpected situations, really a Strategic Mastermind..."
@@ -3444,16 +3444,16 @@ Story-part69_5_1,"Huo Shilou's power has surged after becoming Obsessed, I can't
 Story-part69_6_1,"Master Huo, are you sober now?"
 Story-part69_6_2,Was it you who saved me...
 Story-part69_6_3,"I'm ashamed to say, I've been practicing here every night to understand a key point in my blade technique. I suddenly became Obsessed, luckily you woke me up in time..."
-Story-part69_6_4,"This place is my {MyFaction} territory, the leader of the Huo family came here to practice, naturally can't escape the eyes of our sect."
-Story-part69_6_5,"Although there were some disputes between you and me in the past, I owe a great favor to your sect."
-Story-part69_6_6,"The Cold Skin Gang is gone, and I have nowhere to go. If your sect needs me, I won't refuse."
+Story-part69_6_4,"This place is my {MyFaction} territory, the leader of the Huo family came here to practice, naturally can't escape the eyes of our sect.",ที่นี่เป็นเขตแดนของ{MyFaction} การที่ผู้นำตระกูลฮั่วมาฝึกปรือวรยุทธ์ถึงที่นี่ ย่อมมิอาจรอดพ้นสายตาของสำนักเราไปได้
+Story-part69_6_5,"Although there were some disputes between you and me in the past, I owe a great favor to your sect.",แม้ว่าเราสองเคยมีเรื่องบาดหมางกันมาก่อน แต่ไม่ว่าจะอย่างไร ข้าฮั่วก็ต้องขอบคุณในความเมตตาของพวกท่านอย่างยิ่ง
+Story-part69_6_6,"The Cold Skin Gang is gone, and I have nowhere to go. If your sect needs me, I won't refuse.",พรรคมังสาเหมันต์ล่มสลายแล้ว ข้าฮั่วก็ไร้ที่ไป หากสำนักของท่านมีสิ่งใดที่ข้าพอจะช่วยได้ ข้าฮั่วจะไม่ปฏิเสธอย่างแน่นอน
 Story-part69_6_7,This Heaven Cutting Blade Technique is my Nomination Certificate to your sect.,นี่คือเพลงดาบผ่าสวรรค์ถือเป็นใบรับรองความภักดีของข้าต่อสำนักของท่าน
-Story-part69_7_1,"Leader, the disciple has found out that the shadow at Waterfall Pond is none other than the former Cold Skin Gang Master, Huo Shilou. However, he was obsessed with his training and has died on the spot."
-Story-part69_7_2,"Who would have thought that Master Huo, a hero of his time, would meet his end in a small ditch, it's really poignant."
-Story-part46_1_1,"Master, a large group of Horse Bandits suddenly appeared near Jade Gate, often robbing and killing nearby merchant caravans. The Disciples have found the bandit's lair, please make a decision quickly."
-Story-part46_1_2,"The act of harming merchants cannot be tolerated, send disciples on horseback to eradicate them."
-Story-part46_name,Stop Killing by Carrying Coffin
-Story-part46_log,"Horse Bandits appeared near Jade Gate and are killing merchant caravans, you are preparing to send people to eradicate them."
+Story-part69_7_1,"Leader, the disciple has found out that the shadow at Waterfall Pond is none other than the former Cold Skin Gang Master, Huo Shilou. However, he was obsessed with his training and has died on the spot.",ท่านเจ้าสำนัก ศิษย์ได้ตรวจสอบจนกระจ่างแล้ว เงาดำที่ฝึกวิชาอยู่ ณ บึงน้ำตกนั้นคือฮั่วซื่อเหล่า อดีตประมุขพรรคมังสาเหมันต์ แต่เขาฝึกวิชาผิดพลาดจนเสียสติ และสิ้นใจตาย ณ ที่นั้นแล้ว
+Story-part69_7_2,"Who would have thought that Master Huo, a hero of his time, would meet his end in a small ditch, it's really poignant.",ไม่นึกเลยว่าท่านประมุขฮั่วผู้ยิ่งใหญ่ จะมาพลาดท่าเสียทีในลำธารเล็กๆ เช่นนี้ ช่างน่าเศร้าใจนัก
+Story-part46_1_1,"Master, a large group of Horse Bandits suddenly appeared near Jade Gate, often robbing and killing nearby merchant caravans. The Disciples have found the bandit's lair, please make a decision quickly.",ท่านเจ้าสำนัก บริเวณด่านประตูหยกปรากฏกองโจรอาชาจำนวนมาก พวกมันปล้นสะดมกองคาราวานสินค้าที่สัญจรไปมา ศิษย์ได้สืบทราบที่ซ่อนของพวกมันแล้ว ขอท่านโปรดตัดสินใจโดยเร็ว
+Story-part46_1_2,"The act of harming merchants cannot be tolerated, send disciples on horseback to eradicate them.",การกระทำที่เข่นฆ่าพ่อค้าแม่ค้าเช่นนี้ไม่อาจปล่อยไว้ได้ จงส่งศิษย์ไปปราบพวกมันให้สิ้นซากโดยเร็ว
+Story-part46_name,Stop Killing by Carrying Coffin,ไม่เห็นโรงศพคงไม่หลั่งน้ำตา
+Story-part46_log,"Horse Bandits appeared near Jade Gate and are killing merchant caravans, you are preparing to send people to eradicate them.",บริเวณด่านประตูหยกปรากฏกองโจรอาชาปล้นสะดมกองคาราวานสินค้า เจ้าเตรียมการส่งคนไปปราบปรามพวกมัน
 Story-part46_2_1,"You sneak into the Horse Bandit camp under the cover of night\nPreparing for a beheading operation to capture the king\nBut the unusual scene in front of the Righteous Hall makes you decide to hold your troops"
 Story-part46_2_2,"Where did you come from, bird Taoist priest, carrying such a big coffin, are you here to send me off?"
 Story-part46_2_3,"No, I came here to persuade you not to commit murder and infringe on merchants."
