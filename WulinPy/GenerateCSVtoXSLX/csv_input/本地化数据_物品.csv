@@ -535,9 +535,9 @@ ItemName_推背图,Push Back Picture,แปดทิศพยากรณ์
 ItemName_康王手谕,Duke Kang's Hand Decree,คำสั่งลายมือของอ๋องคัง
 ItemName_齐王手谕,Duke Qi's Hand Decree,คำสั่งลายมือของอ๋องฉี
 ItemName_奇怪气味的书信,Letter with a Strange Smell,จดหมายที่มีกลิ่นแปลกๆ
-ItemName_率意帖（摹本）,Outspoken Letter (fake),จดหมายตรงไปตรงมา (ปลอม)
+ItemName_率意帖（摹本）,Outspoken Letter (fake),ภาพอักษรเจตจำนงเสรี (ปลอม)
 ItemName_溪山行旅图（摹本）,Mountain Stream Travel Painting (fake),ภาพวาดจิตรกรรมท่ามกลางสายน้ำและขุนเขา (ปลอม)
-ItemName_呕血谱（摹本）,Blood Vomitting Kifu (fake),กิฟุอาเจียนเป็นเลือด (ปลอม)
+ItemName_呕血谱（摹本）,Blood Vomitting Kifu (fake),กลหมาก กระดานโลหิต (ปลอม)
 ItemName_广陵散（摹本）,Guangling Melody (fake),ลำนำแห่งกว่างหลิง (ปลอม)
 ItemName_燕国布防图,Yan Army military map,แผนที่ทางทหารกองทัพเยี่ยน
 ItemName_武经七书,Martial Sutra Seven Books,วรยุทธสูตรเจ็ดเล่ม
@@ -2522,7 +2522,7 @@ ItemInfo_推背图,"A strange book, it is said to predict events that will happe
 ItemInfo_康王手谕,"Duke Kang's hand decree, one of the credentials to pass through the West Border Patrol to the southwest region.","คำสั่งลายมือของอ๋องคัง, หนึ่งในหนังสือรับรองในการผ่านด่านชายแดนตะวันตก ไปยังภูมิภาคตะวันตกเฉียงใต้"
 ItemInfo_齐王手谕,"Duke Qi's hand decree, one of the credentials to pass through the West Border Patrol to the southwest region.","คำสั่งลายมือของอ๋องฉี, หนึ่งในหนังสือรับรองในการผ่านด่านชายแดนตะวันตก ไปยังภูมิภาคตะวันตกเฉียงใต้"
 ItemInfo_奇怪气味的书信,"A letter with a faint fragrance, this is a secret letter from Miao Muli to the master of Melody House, it's unknown what is written inside.",จดหมายที่มีกลิ่นหอมจางๆ นี่เป็นจดหมายลับจากเมี้ยวมู่หลี ถึงเจ้าตำหนักบทเพลง โดยไม่รู้ว่าข้างในเขียนอะไร
-ItemInfo_率意帖（摹本）,"This post is written in a bold and unrestrained style, with a unique and wild font.",บทกวีนี้เขียนด้วยตัวหนาและไม่ถูกจำกัดรูปแบบ พร้อมตัวอักษรที่เป็นเอกลักษณ์และไม่เหมือนใคร
+ItemInfo_率意帖（摹本）,"This post is written in a bold and unrestrained style, with a unique and wild font.",ภาพอักษรนี้เขียนด้วยตัวหนาและไม่ถูกจำกัดรูปแบบ พร้อมตัวอักษรที่เป็นเอกลักษณ์และไม่เหมือนใคร
 ItemInfo_溪山行旅图（摹本）,"The composition is grand and beautiful, with a strong brushwork, it is a rare masterpiece.",การจัดองค์ประกอบมีความยิ่งใหญ่และงดงาม พร้อมด้วยน้ำหนักพู่กันที่แข็งแกร่งหนักหน่วง นับเป็นผลงานชิ้นเอกที่หายาก
 ItemInfo_呕血谱（摹本）,A painting depicting Liu Zhongyu playing chess with the fairy of Li Mountain.,ภาพวาดจำลองการประลองหมากกระล้อมระหว่าง หลิวจงฝู กับ เทพธิดาแห่งหลีซาน
 ItemInfo_广陵散（摹本）,"It is said that Ji Kang was good at playing this tune, but he kept it secret. The real thing has long been lost.",ว่ากันว่าจีคังเล่นเพลงนี้เก่ง แต่เขาเก็บมันเป็นความลับ ของจริงหายสาบสูญไปนาน
