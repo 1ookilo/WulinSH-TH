@@ -1206,42 +1206,42 @@ sto-FCT-7_1_2,"Sounds like that old guy Tong Daofu, but when did I insult him, i
 sto-FCT-7_1_3,"Never mind, I'll go out and meet him myself.",ช่างเถิด ข้าจะออกไปพบมันด้วยตัวเอง
 sto-FCT-7_name,Tong Daofu's Revenge,การล้างแค้นของถงเต๋าฟู่
 sto-FCT-7_log,Tong Daofu insists that you insulted him for some reason and has come for revenge!,ถงเต๋าฟู่ ยืนกรานว่าท่านหยามเกียรติเขา ไม่ทราบด้วยเหตุอันใด และมาเพื่อแก้แค้น!
-sto-FCT-7_2_1,"Kid, I heard you beat up the people our family sent to collect taxes, and you even boasted about wanting to take my, Tong Daofu's, head?"
-sto-FCT-7_2_2,"I say, Lord Tong, since you hold a high position, you should be smart. But {PlayerSurName} I have some doubts..."
-sto-FCT-7_2_3,"Articulate, tell me what's suspicious?"
-sto-FCT-7_2_4,"What {PlayerSurName} I doubt is, if a pig says it wants to slap Lord Tong twice, would Lord Tong believe it?"
-sto-FCT-7_2_5,"Bold and reckless... dare to mock our family, wait to be implicated with your ten clans!"
-sto-FCT-7_2_6,"Guards, protect the leader!"
-sto-FCT-7_3_1,"Winning by numbers, hmph, I'll come back to teach you a lesson another day!"
-sto-FCT-7_3_2,Is this the strength of the Imperial City's commander? Much weaker than I imagined...
-sto-FCT-7_3_3,He deliberately held back.
-sto-FCT-7_3_4,"How is that possible, I saw him so angry just now, how could it be fake?"
-sto-FCT-7_3_5,"Using fake anger to cover up real probing, this old guy is quite cunning."
-sto-FCT-7_3_6,"Eh, why is there suddenly a Manual on the ground, could he be trying to do us a favor?"
-sto-FCT-7_4_1,"Leader, we've been ignoring that old Eunuch, now he sneaks into our sect and kills anyone he sees, only one in ten Disciples are left..."
-sto-FCT-7_4_2,"Our family thought you were some kind of divine being with three heads and six arms, turns out you're just a mortal. In that case, go die for our family!"
-sto-FCT-8_1_1,"Leader, the Steward of Duke Kang's manor has sent someone to our sect, saying they are collecting various supplies for Prepared Yan Nation."
-sto-FCT-8_1_2,"Why is Duke Kang, who keeps to his own affairs, also threatening our sect?"
-sto-FCT-8_1_3,"{PlayerSurName} Leader, you are mistaken. Duke Kang is the only true emperor of Zhao Nation, how could he threaten us?"
-sto-FCT-8_1_4,"His Highness only heard that your sect has been associating with bandits and has a poor reputation, so he specifically provided this opportunity to atone for your sins, showing the benevolence of a wise monarch."
-sto-FCT-8_1_5,"This kind of rhetoric is quite far-fetched, should I refuse it or not..."
-sto-FCT-8_op_1_1,Agree
-sto-FCT-8_op_1_2,Refuse
-sto-FCT-8_2_1,"We can't be enemies with all the court forces, let's agree."
-sto-FCT-8_2_2,"Very good, Duke Kang really didn't misjudge the head of {PlayerSurName}!"
-sto-FCT-8_3_1,"Duke Kang is playing a good game, does he really think he can fool the head of this sect like a three-year-old child?"
-sto-FCT-8_3_2,"To give or not to give, do you think you still have the final say?"
-sto-FCT-8_4_1,"Duke Kang has ordered, you will have to hand over these supplies sooner or later, just wait and see!"
-sto-FCT-8_4_2,"If you don't leave, stay with the head of this sect."
-sto-FCT-8_5_1,"Wouldn't it be better to do this earlier, why make both sides unhappy."
-sto-FCT-8_5_2,"I'm not as skilled as others, I will avenge this humiliation in the future..."
-sto-FCT-8_6_1,"{PlayerSurName} head, I'll give you another chance, hand over the supplies!"
-sto-FCT-8_6_2,"Here we go again, should I give out the supplies or not..."
-sto-FCT-8_7_1,"{MyFaction} is far more powerful than Duke Kang imagined, definitely not a soft persimmon that can be kneaded at will, just give up..."
-sto-FCT-8_7_2,"The next time we meet, it will be your death date, don't blame me for not warning you!"
-sto-FCT-9_1_1,"Head, it's not good, the prestigious Marshal Ye suddenly brought the Ye Family Battalion and surrounded our sect."
-sto-FCT-9_1_2,"Marshal Ye has always been loyal and brave to the country, why would he be an enemy of our sect, it must be the confusion of the treacherous!"
-sto-FCT-9_1_3,"Let me explain to him, maybe we can neutralize this misunderstanding."
+sto-FCT-7_2_1,"Kid, I heard you beat up the people our family sent to collect taxes, and you even boasted about wanting to take my, Tong Daofu's, head?",ไอ้หนู ได้ยินว่าเจ้าซ้อมลูกน้องข้าที่ไปเก็บภาษี แถมยังปากกล้าบอกว่าจะตัดหัวข้า ถงเต๋าฟู่รึ?
+sto-FCT-7_2_2,"I say, Lord Tong, since you hold a high position, you should be smart. But {PlayerSurName} I have some doubts...",ใต้เท้าถง ในเมื่อท่านอยู่ในตำแหน่งสูงเช่นนี้ ตามหลักแล้วสมองของท่านต้องดีเลิศ แต่ข้า{PlayerSurName}กลับมีข้อสงสัย...
+sto-FCT-7_2_3,"Articulate, tell me what's suspicious?",ปากคอเราะร้ายยิ่งนัก จงกล่าวมาว่ามีสิ่งใดน่าสงสัย?
+sto-FCT-7_2_4,"What {PlayerSurName} I doubt is, if a pig says it wants to slap Lord Tong twice, would Lord Tong believe it?",ข้า{PlayerSurName}สงสัยว่า หากหมูตัวหนึ่งกล่าวว่าจะตบหน้าท่านใต้เท้าถงสักสองฉาด ท่านใต้เท้าถงจะเชื่อโดยสนิทใจหรือไม่?
+sto-FCT-7_2_5,"Bold and reckless... dare to mock our family, wait to be implicated with your ten clans!",อวดดีนัก! กล้าที่จะล้อเลียนข้า รอรับโทษประหารเจ็ดชั่วโคตรได้เลย!
+sto-FCT-7_2_6,"Guards, protect the leader!",ทหาร จงปกป้องท่านเจ้าสำนัก!
+sto-FCT-7_3_1,"Winning by numbers, hmph, I'll come back to teach you a lesson another day!",ใช้คนหมู่มากรุมกินโต๊ะรึ หึ! วันหน้าข้าจะกลับมาเอาคืนเจ้า!
+sto-FCT-7_3_2,Is this the strength of the Imperial City's commander? Much weaker than I imagined...,นี่หรือคือฝีมือของผู้บัญชาการกรมวังหลวง? ด้อยกว่าที่ข้าคาดคิดไว้มากนัก...
+sto-FCT-7_3_3,He deliberately held back.,เขาตั้งใจออมมือไว้
+sto-FCT-7_3_4,"How is that possible, I saw him so angry just now, how could it be fake?",ไม่น่าเป็นไปได้ ข้าเห็นเมื่อครู่มันโกรธเป็นฟืนเป็นไฟขนาดนั้น จะเป็นเรื่องหลอกลวงไปได้อย่างไร?
+sto-FCT-7_3_5,"Using fake anger to cover up real probing, this old guy is quite cunning.",ใช้ความโกรธเสแสร้งเพื่อซ่อนการหยั่งเชิงที่แท้จริง ไอ้แก่นี่ช่างมีเล่ห์เหลี่ยมนัก...
+sto-FCT-7_3_6,"Eh, why is there suddenly a Manual on the ground, could he be trying to do us a favor?",เอ๊ะ! ทำไมบนพื้นมีตำราลับปรากฏขึ้นอย่างกะทันหัน หรือว่ามันอยากจะหยิบยื่นไมตรีให้สำนักเรากันนะ?
+sto-FCT-7_4_1,"Leader, we've been ignoring that old Eunuch, now he sneaks into our sect and kills anyone he sees, only one in ten Disciples are left...",ท่านเจ้าสำนัก! พวกเราละเลยเจ้าขันทีแก่นั่น มันเลยลอบเข้ามาในสำนัก ฆ่าคนไม่เลือกหน้า ลูกศิษย์ลูกหาเหลือรอดไม่ถึงหนึ่งในสิบแล้ว...
+sto-FCT-7_4_2,"Our family thought you were some kind of divine being with three heads and six arms, turns out you're just a mortal. In that case, go die for our family!",ข้าก็นึกว่าเจ้าเป็นเทพเจ้าสามเศียรหกกรลงมาจากฟ้า ที่แท้ก็เป็นเพียงปุถุชนคนธรรมดา ในเมื่อเป็นเช่นนี้ ก็จงตายซะเถอะ!
+sto-FCT-8_1_1,"Leader, the Steward of Duke Kang's manor has sent someone to our sect, saying they are collecting various supplies for Prepared Yan Nation.",ท่านเจ้าสำนัก! ผู้ดูแลจวนอ๋องคังส่งคนมาที่สำนักเรา กล่าวว่าเพื่อเตรียมรับมือแคว้นเยี่ยน จึงมาขอรับสิ่งของต่างๆ จากสำนักเรา
+sto-FCT-8_1_2,"Why is Duke Kang, who keeps to his own affairs, also threatening our sect?",ทำไมอ๋องคังที่ไม่เคยก้าวก่ายกันไยจึงมาข่มขู่สำนักเรา?
+sto-FCT-8_1_3,"{PlayerSurName} Leader, you are mistaken. Duke Kang is the only true emperor of Zhao Nation, how could he threaten us?",ท่านเจ้าสำนัก{PlayerSurName} คำกล่าวของเจ้าผิดไปแล้ว! อ๋องคังคือโอรสสวรรค์เพียงหนึ่งเดียวแห่งแคว้นจ้าว ไฉนจึงต้องบีบบังคับใคร?
+sto-FCT-8_1_4,"His Highness only heard that your sect has been associating with bandits and has a poor reputation, so he specifically provided this opportunity to atone for your sins, showing the benevolence of a wise monarch.",เพียงเพราะท่านอ๋องได้ยินว่าสำนักของเจ้า สมคบกับเหล่าคนชั่ว เสื่อมเสียเกียรติยศ ท่านอ๋องจึงเมตตามอบโอกาสให้ลบล้างความผิด
+sto-FCT-8_1_5,"This kind of rhetoric is quite far-fetched, should I refuse it or not...",คำกล่าวนี้ช่างฝืนใจนัก ข้าควรจะปฏิเสธไปดีหรือไม่...
+sto-FCT-8_op_1_1,Agree,ตกลง
+sto-FCT-8_op_1_2,Refuse,ปฏิเสธ
+sto-FCT-8_2_1,"We can't be enemies with all the court forces, let's agree.",เรามิอาจเป็นศัตรูกับราชสำนักทั้งหมด ยอมตกลงเถิด
+sto-FCT-8_2_2,"Very good, Duke Kang really didn't misjudge the head of {PlayerSurName}!",ดีมาก! ท่านอ๋องคังมิเคยมองผิดเลย เจ้าสำนัก{PlayerSurName} เจ้าเหมาะสมแล้ว!
+sto-FCT-8_3_1,"Duke Kang is playing a good game, does he really think he can fool the head of this sect like a three-year-old child?",อ๋องคังวางหมากได้ดีนัก คิดว่าข้าจะโง่งมดั่งเด็กสามขวบหรือ?
+sto-FCT-8_3_2,"To give or not to give, do you think you still have the final say?",จะให้หรือไม่ให้ คิดว่าเจ้าตัดสินใจเองได้หรือ?
+sto-FCT-8_4_1,"Duke Kang has ordered, you will have to hand over these supplies sooner or later, just wait and see!",อ๋องคังมีราชโองการ ไม่วันนี้ก็วันหน้า เจ้าต้องยอมส่งมอบทรัพย์สินแน่นอน! คอยดูเถิด!
+sto-FCT-8_4_2,"If you don't leave, stay with the head of this sect.",ยังไม่ไสหัวไปอีกหรือ? เช่นนั้นก็จงทิ้งชีวิตไว้ที่สำนักนี่เถิด
+sto-FCT-8_5_1,"Wouldn't it be better to do this earlier, why make both sides unhappy.",หากยอมทำเช่นนี้แต่แรกก็จบเรื่องไปแล้ว ไยต้องให้ทุกฝ่ายลำบาก?
+sto-FCT-8_5_2,"I'm not as skilled as others, I will avenge this humiliation in the future...",ข้าฝีมือด้อยกว่าเขา วันหน้าข้าจะต้องชำระแค้นให้จงได้...
+sto-FCT-8_6_1,"{PlayerSurName} head, I'll give you another chance, hand over the supplies!",เจ้าสำนัก{PlayerSurName} ข้าให้โอกาสเจ้าอีกครั้ง ส่งมอบเสบียงมาเถิด!
+sto-FCT-8_6_2,"Here we go again, should I give out the supplies or not...",มาอีกแล้ว ข้าควรตกลงจะมอบเสบียงให้ดีหรือไม่...
+sto-FCT-8_7_1,"{MyFaction} is far more powerful than Duke Kang imagined, definitely not a soft persimmon that can be kneaded at will, just give up...",{MyFaction} แข็งแกร่งกว่าที่อ๋องคังคาดคิด มิเคยเป็นเพียงผลไม้สุกงอมที่ใครจะบีบขยี้ได้ง่ายๆ ถอดใจเสียเถิด...
+sto-FCT-8_7_2,"The next time we meet, it will be your death date, don't blame me for not warning you!",ครั้งหน้าที่เราเจอกัน มันจะเป็นวันตายของพวกเจ้า อย่าหาว่าข้าไม่เตือน!
+sto-FCT-9_1_1,"Head, it's not good, the prestigious Marshal Ye suddenly brought the Ye Family Battalion and surrounded our sect.",ท่านเจ้าสำนัก เกิดเรื่องใหญ่แล้ว แม่ทัพเย่ผู้เกรียงไกรนำกองทัพตระกูลเย่มา และล้อมสำนักของเราไว้จนหมดแล้ว
+sto-FCT-9_1_2,"Marshal Ye has always been loyal and brave to the country, why would he be an enemy of our sect, it must be the confusion of the treacherous!",แม่ทัพเย่จงรักภักดีต่อแผ่นดิน ไฉนจึงมุ่งร้ายต่อสำนักเรา? หรือว่าจะถูกคนชั่วยุแหย่!
+sto-FCT-9_1_3,"Let me explain to him, maybe we can neutralize this misunderstanding.",ให้ข้าไปพูดคุยกับเขา อาจคลี่คลายความเข้าใจผิดได้
 sto-FCT-9_name,Siege of Ye Family Battalion
 sto-FCT-9_log,Marshal Ye suddenly brought the Ye Family Battalion and surrounded your sect!
 sto-FCT-9_2_1,"Marshal Ye, I don't know what misunderstanding would make you and me confront each other..."
