@@ -1379,20 +1379,20 @@ sto-FCT-19_1_5,"These leaders take turns flattering, it's so annoying. ""Hero of
 sto-FCT-19_1_6,"During this time, I, the leader, must take a good break!",ระหว่างเวลานี้… ข้าจะขอหยุดพักสักหน่อยเถอะ!
 sto-FCT-20_1_1,"The king is a descendant of the former imperial family, and was granted the title of King Chai by the former emperor, and made a vow to support the Zhao country!",อ๋องไฉ... สืบเชื้อสายราชวงศ์ก่อนหน้า ได้รับพระกรุณาธิคุณจากองค์ฮ่องเต้ ให้ดำรงตำแหน่งอ๋อง สาบานว่าจะค้ำจุนแผ่นดินจ้าวไว้ตลอดไป!
 sto-FCT-20_1_2,"I, the king, wanted to live peacefully and end my remaining life. But unexpectedly, that {PlayerName} colluded with foreign enemies for his own selfish desires. I have learned that the invasion of Great Ant City and the Yan army were all instigated by him.",ข้าตั้งใจที่จะใช้ชีวิตอย่างสงบสุขและผ่านพ้นชีวิตที่เหลืออยู่ แต่กลับไม่คาดคิดว่า {PlayerName} จะร่วมมือกับศัตรูเพื่อผลประโยชน์ส่วนตัว ข้าได้ทราบแล้วว่า การรุกรานของเมืองผีฝูและกองทัพเยี่ยนหยุนทั้งหมดล้วนเป็นการยุยงของเขา
-sto-FCT-20_1_3,"In order to overthrow the Zhao Kingdom, he first instigated the Great Ant City and the Yan army to invade, weakening the court's power. Then, when both sides were both defeated, he took advantage of the situation, intending to deceive the world and steal the title of emperor!"
-sto-FCT-20_1_4,"I, the king, hereby issue this coin to announce to the world, there are many loyal and brave men in the various martial arts sects, I hope you will stay true to your hearts, and completely eliminate that {MyFaction}, to prevent the great landscape of our Zhao Kingdom from falling into the hands of such villains!"
-sto-FCT-20_1_5,"Leader, Duke Chai's Tower is suddenly spreading coins everywhere, slandering our sect for colluding with foreign enemies and deceiving the world..."
-sto-FCT-20_1_6,Duke Chai? He's just a desperate clown.
-sto-FCT-20_1_7,"The innocent will clear themselves, even if they are enemies with the whole world, what does {PlayerSurName} have to fear?"
+sto-FCT-20_1_3,"In order to overthrow the Zhao Kingdom, he first instigated the Great Ant City and the Yan army to invade, weakening the court's power. Then, when both sides were both defeated, he took advantage of the situation, intending to deceive the world and steal the title of emperor!",บุคคลผู้นี้มีเจตนาล้มล้างราชบัลลังก์แห่งแคว้นจ้าวของเรา เริ่มแรกได้ยุแยงตะแคงรั่ว ให้เมืองผีฝูกับกองทัพแคว้นเยี่ยนเข้ารุกราน เหมือนใช้เสือกินหมาป่า เพื่อบั่นทอนกำลังของราชสำนัก จากนั้นเมื่อทั้งสองฝ่ายเพลี่ยงพล้ำ ก็ฉวยโอกาสเก็บเกี่ยวผลประโยชน์ หวังจะเชิดชูตัวเองขึ้นเป็นจักรพรรดิโดยหลอกลวงผู้คน!
+sto-FCT-20_1_4,"I, the king, hereby issue this coin to announce to the world, there are many loyal and brave men in the various martial arts sects, I hope you will stay true to your hearts, and completely eliminate that {MyFaction}, to prevent the great landscape of our Zhao Kingdom from falling into the hands of such villains!",ข้าขอออกประกาศฉบับนี้เพื่อแจ้งแก่ทั่วหล้า สำนักยุทธภพทั้งหลายย่อมมีผู้กล้าหาญจงรักภักดี ข้าหวังว่าพวกเจ้าจะไม่ทำให้ความภักดีของตนต้องมัวหมอง จงร่วมกันกำจัด{MyFaction}ให้สิ้นซาก เพื่อมิให้แผ่นดินอันงดงามของแคว้นจ้าวต้องตกอยู่ในมือคนพาลเช่นนี้!
+sto-FCT-20_1_5,"Leader, Duke Chai's Tower is suddenly spreading coins everywhere, slandering our sect for colluding with foreign enemies and deceiving the world...",ท่านเจ้าสำนัก ตำหนักอ๋องไฉ จู่ๆ ก็ส่งสารประกาศไปทั่ว กล่าวหาว่าสำนักเราสมคบกับศัตรูภายนอก หลอกลวงผู้คน...
+sto-FCT-20_1_6,Duke Chai? He's just a desperate clown.,อ๋องไฉน่ะหรือ? ช่างเป็นตัวตลกที่ร้อนรนจนออกอาการเสียจริง
+sto-FCT-20_1_7,"The innocent will clear themselves, even if they are enemies with the whole world, what does {PlayerSurName} have to fear?",คนบริสุทธิ์ย่อมบริสุทธิ์ แม้ต้องเป็นศัตรูกับคนทั้งหล้า ไยข้า{PlayerSurName} ต้องเกรงกลัว?
 sto-FCT-20_name,Break Duke Chai's Tower,ทำลายตำหนักอ๋องไฉ
 sto-FCT-21_1_1,"King Chai's Machinery has calculated everything, and has won all the world's hearts\nHe thought he had the mandate of heaven and the righteousness\nBut he didn't expect that there are people in this world who can go against the sky and break the meeting with force...","อ๋องไฉ คิดว่าตนคำนวณได้ทุกสิ่ง และครองใจผู้คนได้หมดสิ้น\nเขาสำคัญผิดว่าตนคือตัวแทนสวรรค์ ถือครองคุณธรรมเหนือผู้ใด\nแต่กลับคาดไม่ถึงว่า บนโลกนี้ยังมีผู้กล้าฝืนลิขิตสวรรค์ ใช้พลังทำลายทุกสิ่งให้สิ้นซาก..."
-sto-FCT-21_1_2,"{PlayerName}, you are the only person I admire in my life, and also the only person I fear..."
-sto-FCT-21_1_3,"Think about it, if {MyFaction} cooperates with me, why worry about not succeeding? When I ascend to the throne smoothly, you will be the number one meritorious official!"
-sto-FCT-21_1_4,"No need, I, the leader, don't want to plot with the tiger and ask for trouble."
-sto-FCT-21_1_5,"Enough said, Duke Chai, it's time to send you on your way!"
+sto-FCT-21_1_2,"{PlayerName}, you are the only person I admire in my life, and also the only person I fear...",{PlayerName} ท่านคือผู้เดียวที่ข้านับถือในชีวิต และเป็นผู้เดียวที่ข้าเกรงกลัว...
+sto-FCT-21_1_3,"Think about it, if {MyFaction} cooperates with me, why worry about not succeeding? When I ascend to the throne smoothly, you will be the number one meritorious official!",ท่านจงพิจารณาให้ดี หาก{MyFaction}ร่วมมือกับข้า ไยต้องกลัวว่ากิจใหญ่จะไม่สำเร็จ? เมื่อข้าขึ้นครองราชย์โดยราบรื่น ท่านก็จะเป็นขุนนางผู้มีความดีความชอบอันดับหนึ่งแห่งแผ่นดิน!
+sto-FCT-21_1_4,"No need, I, the leader, don't want to plot with the tiger and ask for trouble.",ข้าไม่ต้องการ ข้ามิอยากร่วมมือกับเสือเพื่อหวังผลประโยชน์ แล้วต้องมารับความทุกข์ในภายหลังหรอกนะ
+sto-FCT-21_1_5,"Enough said, Duke Chai, it's time to send you on your way!",พูดพล่ามจบหรือยัง อ๋องไฉ ได้เวลาส่งท่านไปสู่ปรโลกแล้ว!
 sto-FCT-21_1_6,"Damn... Let you be arrogant for a while, the king will make you have no place to bury in the future!",บัดซบ! ช่างโอหังนัก! แต่ช้าก่อนเถอะ! ข้าอ๋องไฉจักทำให้เจ้าตายอย่างไร้ที่ฝังศพ!
 sto-FCT-21_1_7,"You didn't expect that there was a secret under King Chai's throne\nWith the combination of thick smoke, tunnels, and machinery\nKing Chai and his followers disappeared in an instant...","เจ้าไม่คาดคิดใช่หรือไม่ ว่าบัลลังก์ของอ๋องไฉ ซ่อนกลไกเอาไว้\nด้วยการผสมผสานระหว่างกลุ่มควัน อุโมงค์ลับ และกลไก\nอ๋องไฉ และพรรคพวกได้หายตัวไปในพริบตา..."
-sto-FCT-21_1_8,"King Chai just doesn't want to admit his fate, he's just a cornered beast fighting, he can't make any waves."
+sto-FCT-21_1_8,"King Chai just doesn't want to admit his fate, he's just a cornered beast fighting, he can't make any waves.",อ๋องไฉเพียงแค่ไม่ยอมจำนนต่อชะตา ยังคงดิ้นรนเหมือนสัตว์จนตรอกเท่านั้นแหละ นับประสาอะไรกับจะพลิกฟ้าคว่ำแผ่นดินได้
 sto-FCT-21_1_9,"Cut off those martial arts sects that are helping the tiger, clean up this world first, and then have a good time with that stray dog, King Chai.",เราจัดการกับพวกสำนักที่คอยเป็นหมารับใช้มันก่อนเถอะ… กวาดล้างให้เรียบ แล้วค่อยเล่นสนุกกับอ๋องไฉ ที่ตอนนี้กลายเป็นหมาข้างถนนตัวหนึ่ง
 sto-FCT-21_name,"Eliminate the remaining martial arts sects, completely Dominating the Martial World.",กวาดล้างเหล่าสำนัก ที่ร่วมมือกับอ๋องไฉ และยึดครองยุทธภพให้เป็นหนึ่ง
 sto-FCT-22_1_1,Years of hard conquest have finally come to an end today.,การศึกที่ดำเนินมายาวนาน ในที่สุดก็ถึงวันสิ้นสุดลงแล้ว
@@ -1412,22 +1412,22 @@ sto-FCT-23_1_2,"King Chai, King Chai, you think you're the hunter and I'm the pr
 sto-FCT-23_name,King Chai's Revenge,การล้างแค้นของอ๋องไฉ
 sto-FCT-23_log,"King Chai's assassination of you is imminent, and you, a brave and talented person, are prepared to strike first!",การลอบสังหารของอ๋องไฉใกล้จะเกิดขึ้น แต่ด้วยฝีมือที่เหนือชั้นของเจ้า ย่อมชิงลงมือก่อน!
 sto-FCT-23_2_1,{PlayerName}... I hate you to the bone!,{PlayerName}… ข้าแค้นเจ้ายิ่งนัก!
-sto-FCT-23_2_2,It's you... who made me fall from the ninth heaven into the eighteenth hell!
+sto-FCT-23_2_2,It's you... who made me fall from the ninth heaven into the eighteenth hell!,เจ้า...เป็นผู้ที่ทำให้ข้าร่วงจากสรวงสวรรค์เก้าชั้นฟ้า ตกสู่ขุมนรกสิบแปดขุม!
 sto-FCT-23_2_3,It's you... who made me lose everything and be laughed at by the world!,เป็นเจ้า… ที่ทำให้ข้าสูญสิ้นทุกสิ่ง กลายเป็นตัวตลกของผู้คน!
-sto-FCT-23_2_4,"Fortunately, heaven has eyes and gave me a chance to take revenge on you!"
+sto-FCT-23_2_4,"Fortunately, heaven has eyes and gave me a chance to take revenge on you!",โชคดีที่ฟ้าดินยังมีตา ประทานโอกาสให้ข้าได้ชำระแค้นกับเจ้า!
 sto-FCT-23_2_5,"I swear, I will make you die without a burial place!",ข้าสาบานว่า ข้าจะทำให้เจ้าตายอย่างไร้ที่ฝังศพ!
 sto-FCT-23_2_6,(Yawning) Who do you want to be left unburied?,(หาว) หืม? เจ้าบอกว่าใครกันที่จะต้องตายอย่างไร้ที่ฝัง?
 sto-FCT-23_2_7,"{PlayerName} Just in time! Come to hell with me, hahaha!",{PlayerName} มาได้จังหวะพอดี! ลงนรกไปพร้อมกับข้าเถอะ ฮ่าฮ่าฮ่า!
-sto-FCT-23_3_1,Damn... I won't close my eyes in death!
-sto-FCT-23_3_2,"Duke Kang, you've been watching the battle from the sidelines for a long time, don't you dare to come out and talk?"
-sto-FCT-23_3_3,"Hmph, I didn't expect that even Duke Chai's desperate attack couldn't hurt you."
-sto-FCT-23_3_4,"What, the mighty Duke Kang, wants to play the mantis catching the cicada, with the oriole behind?"
-sto-FCT-23_3_5,"{PlayerName}, don't blame me for being despicable, your people have just fought a battle, I'm afraid they have no strength left, right?"
-sto-FCT-23_3_6,"They have no strength left, but I alone am enough to deal with you!"
-sto-FCT-23_3_7,Arrogant! Dying at my hands will be the best end for you!
-sto-FCT-23_4_1,"Want to be a chance taker, but don't weigh your own abilities."
-sto-FCT-23_4_2,"With my strength now, I'm afraid there's no match in the world, even if there are thousands of armies and horses, they are not my enemy."
-sto-FCT-23_4_3,"They say that the strong are lonely, and the invincible are solitary. So this is what it feels like, haha!"
+sto-FCT-23_3_1,Damn... I won't close my eyes in death!,แค้นนี้... ข้าคงตายไม่สงบ!
+sto-FCT-23_3_2,"Duke Kang, you've been watching the battle from the sidelines for a long time, don't you dare to come out and talk?",ท่านอ๋องคังซ่อนตัวดูอยู่นานแล้ว เหตุใดจึงไม่กล้าออกมาเผชิญหน้ากันเล่า?
+sto-FCT-23_3_3,"Hmph, I didn't expect that even Duke Chai's desperate attack couldn't hurt you.",เฮอะ คิดไม่ถึงว่าแม้แต่อ๋องไฉ่ที่ทุ่มสุดตัว ก็ยังไม่อาจโค่นเจ้าลงได้
+sto-FCT-23_3_4,"What, the mighty Duke Kang, wants to play the mantis catching the cicada, with the oriole behind?",หรือว่าท่านอ๋องคัง คิดจะฉวยโอกาสทอง ช่วงชิงผลประโยชน์จากผู้อื่นที่กำลังต่อสู้กันอย่างนั้นหรือ?
+sto-FCT-23_3_5,"{PlayerName}, don't blame me for being despicable, your people have just fought a battle, I'm afraid they have no strength left, right?",{PlayerName} โทษข้าเลยที่ไร้คุณธรรม คนของเจ้าผ่านศึกมาเมื่อครู่ คงไม่มีเรี่ยวแรงเหลือแล้วกระมัง?
+sto-FCT-23_3_6,"They have no strength left, but I alone am enough to deal with you!",แม้พวกเขาจะอ่อนแรง แต่ข้าเพียงลำพัง ก็เพียงพอที่จะกำจัดพวกเจ้าได้!
+sto-FCT-23_3_7,Arrogant! Dying at my hands will be the best end for you!,อวดดีนัก! ตายด้วยมือข้า เป็นจุดจบที่ดีที่สุดของพวกเจ้าแล้ว!
+sto-FCT-23_4_1,"Want to be a chance taker, but don't weigh your own abilities.",คิดจะฉวยโอกาสซ้ำเติมผู้อื่น ก็ไม่รู้จักประมาณตนเสียบ้าง
+sto-FCT-23_4_2,"With my strength now, I'm afraid there's no match in the world, even if there are thousands of armies and horses, they are not my enemy.",ด้วยวรยุทธ์ของข้าในยามนี้ เกรงว่าใต้หล้าคงไร้ผู้ต่อต้าน แม้ทัพนับพันนับหมื่น ก็มิอาจเทียบข้าคนเดียวได้
+sto-FCT-23_4_3,"They say that the strong are lonely, and the invincible are solitary. So this is what it feels like, haha!",เขาว่ากันว่ายอดฝีมือล้วนเดียวดาย เปล่าเปลี่ยวแสวงหาความพ่ายแพ้ ที่แท้ก็เป็นความรู้สึกเช่นนี้นี่เอง ฮ่าๆๆ!
 sto-FCT-23_5_1,"Leader, King Chai launched a very cruel attack when we were unprepared. The disciples in the sect were caught off guard and were assassinated...",ท่านเจ้าสำนัก! อ๋องไฉอาศัยช่วงที่เราเผลอ ลงมืออย่างอำมหิตที่สุด ศิษย์ภายในสำนักไม่ทันระวัง ถูกลอบสังหารไปมากมาย...
 sto-FCT-23_5_2,"It's over, it's over, how could I forget such an important thing!",แย่แล้ว! ข้าเผลอลืมเรื่องสำคัญถึงเพียงนี้ได้อย่างไรกัน!
 sto-FCT-23_5_3,"At this point, you can't escape even if you had wings!",มาถึงจุดนี้แล้ว ต่อให้เจ้ามีปีกก็หนีไปไหนไม่พ้น!
@@ -1438,35 +1438,35 @@ sto-end-3,"They say the heart of an emperor is as inscrutable as the bottom of t
 sto-end-4,"You have experienced the most dangerous fights,\nand also encountered the most heartbreaking betrayals.\nThe hot blood in your heart cools instantly, colder than ice and deeper than the sea.\nAfter seeing through the world, you disband your sect and travel around the world,\njust to seek a helpless transcendence that can prove your inner self...","ผ่านศึกที่อันตรายที่สุด\nพบเจอการทรยศที่เจ็บปวดที่สุด\nโลหิตร้อนแรงกลับเย็นเยียบยิ่งกว่าน้ำแข็ง ลึกซึ้งยิ่งกว่ามหาสมุทร\nเมื่อมองทะลุโลกหล้า เจ้าจึงสลายสำนัก ท่องไปทั่วแผ่นดิน\nเพียงเพื่อค้นหาการหลุดพ้นจากพันธนาการในจิตใจ…"
 sto-end-5,"All enemies are ruthlessly crushed by you,\nall sects are dominated by you.\nOne after another, the martial arts families bow down to you,\nbatch after batch of people in the martial arts world worship you.\nThe whole world seems to be congratulating the birth of the new {Jianghu Master}...","ศัตรูทั้งปวงถูกเจ้าทำลายย่อยยับ\nหมู่สำนักล้วนถูกเจ้าพิชิตด้วยพลังอันเหนือชั้น\nเหล่าตระกูลยุทธภพคุกเข่าถวายความภักดีต่อเจ้า\nบรรดาชาวยุทธพากันกราบไหว้ดั่งศาสดา\nทั้งใต้หล้าล้วนร่วมแสดงความยินดีต่อการถือกำเนิดของผู้นำยุทธภพคนใหม่…"
 sto-end-6,"Whether it's the preeminent local lord,\nor the covetous foreign strong army,\nall have been defeated by your unparalleled martial arts.\nYou stand on the {Peak of Challenge}, murmuring in the biting cold wind,\nthe peak of Jianghu, so this is what it feels like to be lonely at the top...","ไม่ว่าเจ้าจะเผชิญหน้ากับอ๋องแห่งชายแดนผู้ทรงอำนาจ\nหรือกองทัพต่างชนชาติอันแข็งแกร่ง\nล้วนพ่ายแพ้ให้กับวรยุทธ์อันล้ำลึกของเจ้า\nยืนอยู่ท่ามกลางสายลมอันเย็นเยียบ ณ ยอดเขาแห่งการชิงชัย\nเจ้าพึมพำกับตนเอง ‘อันดับหนึ่งในใต้หล้า แท้จริงแล้ว คือความโดดเดี่ยวของยอดฝีมือ…’"
-Story-part1_1_1,"Reporting to the head of {PlayerSurName}, a gloomy and solitary swordsman is standing outside our sect's gate, saying he will stand there until you come out to see him."
-Story-part1_1_2,Do we really need to meet? Is there a need for such moral kidnapping...
-Story-part1_1_3,"I might as well take the time to meet this swordsman, hoping that his strength can match his arrogance."
-Story-part1_name,The solitary swordsman
-Story-part1_log,"A gloomy and solitary swordsman is standing outside your sect's gate, seemingly eager to meet you."
-Story-part1_2_1,"Oh, it's you, {Gu Qing Yang}, the Azure Dragon Envoy of the {Divine Flame Sect}."
-Story-part1_2_2,"You're wrong, it's the former Azure Dragon Envoy, Gu."
-Story-part1_2_3,"With the constant strife in the world, I'm afraid even the head of the sect didn't expect that the {Divine Flame Sect} would fall so quickly, and the huge family business was given to others in a blink of an eye..."
-Story-part1_2_4,"Is that so? Could it be that Brother Gu came here to find someone to pour out his heart to? I'll order my disciples to prepare a table of wine and dishes, and listen to your story while drinking. It must be a unique experience."
+Story-part1_1_1,"Reporting to the head of {PlayerSurName}, a gloomy and solitary swordsman is standing outside our sect's gate, saying he will stand there until you come out to see him.",เรียนท่านเจ้าสำนัก{PlayerSurName} มีจอมกระบี่ผู้เย็นชาและโดดเดี่ยว ยืนตระหง่านอยู่หน้าประตูสำนัก บอกว่าจะรอจนกว่าท่านจะออกมาพบหน้า
+Story-part1_1_2,Do we really need to meet? Is there a need for such moral kidnapping...,จะพบหน้ากันก็บอกมาตรงๆ จำเป็นต้องมาใช้วิธีบีบบังคับทางศีลธรรมกันด้วยหรือ...
+Story-part1_1_3,"I might as well take the time to meet this swordsman, hoping that his strength can match his arrogance.",ไปพบจอมกระบี่ผู้นั้นเสียหน่อยก็ดี หวังว่าฝีมือของเขา จะสมกับความทะนงตนนะ
+Story-part1_name,The solitary swordsman,จอมกระบี่เดียวดาย
+Story-part1_log,"A gloomy and solitary swordsman is standing outside your sect's gate, seemingly eager to meet you.",มีจอมกระบี่ผู้เย็นชาและโดดเดี่ยว ยืนตระหง่านอยู่หน้าประตูสำนักของท่าน ดูเหมือนว่าเขาต้องการพบหน้าท่าน
+Story-part1_2_1,"Oh, it's you, {Gu Qing Yang}, the Azure Dragon Envoy of the {Divine Flame Sect}.",โฮ้ นึกว่าใคร ที่แท้ก็เป็น กู้ชิงหยาง ทูตมังกรฟ้าแห่งนิกายเพลิงศักดิ์สิทธิ์นี่เอง
+Story-part1_2_2,"You're wrong, it's the former Azure Dragon Envoy, Gu.",ผิดแล้ว ข้ากู้... อดีตทูตมังกรฟ้าต่างหาก
+Story-part1_2_3,"With the constant strife in the world, I'm afraid even the head of the sect didn't expect that the {Divine Flame Sect} would fall so quickly, and the huge family business was given to others in a blink of an eye...",ยามนี้ใต้หล้าเกิดศึกสงครามไม่หยุดหย่อน เกรงว่าท่านเจ้าสำนักเองก็คงคาดไม่ถึง ว่านิกายเพลิงศักดิ์สิทธิ์จะล่มสลายได้รวดเร็วจนน่าตกใจเช่นนี้ ทรัพย์สมบัติมหาศาล กลับกลายไปอยู่ในมือผู้อื่นในชั่วพริบตา...
+Story-part1_2_4,"Is that so? Could it be that Brother Gu came here to find someone to pour out his heart to? I'll order my disciples to prepare a table of wine and dishes, and listen to your story while drinking. It must be a unique experience.",เช่นนั้นหรือ หรือว่าพี่กู้มาเยือนครานี้ ต้องการหาผู้รับฟังที่สามารถระบายความอัดอั้นตันใจได้? ข้าจะให้ลูกศิษย์จัดเตรียมโต๊ะสุราอาหารสักชุดหนึ่ง ดื่มด่ำไปพร้อมกับฟังเรื่องราวของท่าน คงจะได้อรรถรสเป็นแน่
 Story-part1_2_5,……,……
-Story-part1_2_6,"{PlayerSurName} head, you are joking. I came here because I think your sect has strong soldiers and horses, extraordinary strength, and the potential to dominate the martial world, so I came to offer a wise suggestion."
-Story-part1_2_7,What suggestion? Let's hear it.
-Story-part1_2_8,This wise suggestion is to let Gu join your sect and form a strong alliance to seize the martial world!
-Story-part1_2_9,"Brother Gu... I always thought you were a decisive and ruthless hero, but today I find you are so... um... so humorous..."
-Story-part1_2_10,"As the saying goes, a good bird chooses a tree to nest in. {MyFaction} is already powerful. With my joining, it will surely be even stronger, dominating the world."
-Story-part1_2_11,"As long as {PlayerSurName} the head nods now, the long sword in my hand will be ready to unsheathe for you at any time."
-Story-part1_2_12,"(This Gu Qing Yang's swordsmanship is not bad, his joining is naturally a good thing, but this man is self-serving, I'm not sure if there is any plot behind...)"
-Story-part1_2_13,(Should I agree to his joining?)
-Story-part1_op_1_1,"With Brother Gu joining our sect, it's like adding wings to a tiger."
-Story-part1_op_1_2,"Brother Gu is known for his eagle-eyed and wolf-like vigilance, I'm afraid I can't trust him."
-Story-part1_3_1,"(Forget it, let him join. With me here, he won't be able to make any big waves.)"
-Story-part1_3_2,"With Brother Gu joining our sect, it's like adding wings to a tiger!"
-Story-part1_3_3,Gu Qing Yang pays his respects to the head!
-Story-part1_4_1,"Brother Gu is known for his eagle-eyed and wolf-like vigilance, I'm afraid I can't trust him."
-Story-part1_4_2,"Hmph, people in the martial arts world say that you {PlayerName} are respectful to the virtuous and talented, and have the demeanor of a great leader. I didn't expect it to be all hearsay."
-Story-part1_4_3,"You and I have different paths, I won't force you. Goodbye!"
-Story-part1_5_1,"Reporting to {PlayerSurName} the head, that gloomy and aloof swordsman waited for you for a long time and didn't come, so he suddenly glared and cut off the flagpole outside the door in anger."
-Story-part1_5_2,"The two gatekeeping disciples were unwilling to let our sect be humiliated, and rushed up to fight him. But they didn't expect his swordsmanship to be extremely sharp, and they were knocked down in a few moves..."
-Story-part1_5_3,"Fortunately, he didn't hurt them seriously, he just sneered and left."
+Story-part1_2_6,"{PlayerSurName} head, you are joking. I came here because I think your sect has strong soldiers and horses, extraordinary strength, and the potential to dominate the martial world, so I came to offer a wise suggestion.",เจ้าสำนัก{PlayerSurName}กล่าวเกินไปแล้ว ข้ากู้มาเยือนครานี้ เนื่องจากเห็นว่าสำนักของท่านมีกองกำลังแข็งแกร่ง พลังฝีมือไม่ธรรมดา มีศักยภาพที่จะรวมแผ่นดินเป็นหนึ่งเดียว จึงตั้งใจมามอบคำแนะนำอันชาญฉลาดให้เท่านั้น
+Story-part1_2_7,What suggestion? Let's hear it.,คำแนะนำอันใดหรือ ลองกล่าวมาให้ข้าฟังหน่อย
+Story-part1_2_8,This wise suggestion is to let Gu join your sect and form a strong alliance to seize the martial world!,คำแนะนำอันชาญฉลาดนี้ ก็คือให้ข้าเข้าร่วมกับสำนักของท่าน สร้างพันธมิตรที่แข็งแกร่ง เพื่อช่วงชิงความเป็นใหญ่ในยุทธภพ!
+Story-part1_2_9,"Brother Gu... I always thought you were a decisive and ruthless hero, but today I find you are so... um... so humorous...",พี่กู้... ข้าคิดมาตลอดว่าท่านเป็นวีรบุรุษผู้เด็ดเดี่ยวและเฉียบขาด ไม่นึกเลยว่าวันนี้ได้พบท่านแล้ว จะพบว่าท่านช่าง...เอ่อ...ช่างมีอารมณ์ขันเช่นนี้...
+Story-part1_2_10,"As the saying goes, a good bird chooses a tree to nest in. {MyFaction} is already powerful. With my joining, it will surely be even stronger, dominating the world.",โบราณกล่าวว่า นกดีเลือกต้นไม้ที่เหมาะสม สำนัก{MyFaction}ของท่านมีชื่อเสียงเกรียงไกรอยู่แล้ว หากข้ากู้ได้ร่วมด้วย จะยิ่งทรงพลังดุจพยัคฆ์ติดปีก สามารถพิชิตทั่วหล้าอย่างไม่ต้องสงสัย
+Story-part1_2_11,"As long as {PlayerSurName} the head nods now, the long sword in my hand will be ready to unsheathe for you at any time.",เพียงแค่เจ้าสำนัก{PlayerSurName}พยักหน้าในเวลานี้ กระบี่ในมือของข้า ก็พร้อมที่จะชักออกมาเพื่อท่านได้ทุกเมื่อ
+Story-part1_2_12,"(This Gu Qing Yang's swordsmanship is not bad, his joining is naturally a good thing, but this man is self-serving, I'm not sure if there is any plot behind...)",(กู้ชิงหยางผู้นี้มีฝีมือกระบี่ไม่ธรรมดา หากได้เขาเข้าร่วมก็คงเป็นเรื่องดี แต่คนผู้นี้เห็นแก่ตัวและเอาแต่ใจตนเอง ไม่แน่ว่าเบื้องหลังอาจมีแผนการชั่วร้ายซ่อนอยู่...)
+Story-part1_2_13,(Should I agree to his joining?),(จะตอบรับการเข้าร่วมของเขาดีไหมนะ?)
+Story-part1_op_1_1,"With Brother Gu joining our sect, it's like adding wings to a tiger.",สำนักของเราได้พี่กู้เข้าร่วม ช่างเป็นการเสริมเขี้ยวเล็บให้แข็งแกร่งดั่งพยัคฆ์ติดปีกเสียจริง
+Story-part1_op_1_2,"Brother Gu is known for his eagle-eyed and wolf-like vigilance, I'm afraid I can't trust him.",พี่กู้มีชื่อเสียงเรื่อง สายตาเฉียบคมดุจเหยี่ยว หันหลังดุจหมาป่า ข้าคงวางใจท่านมิได้
+Story-part1_3_1,"(Forget it, let him join. With me here, he won't be able to make any big waves.)",(เอาเถอะ รับเขาไว้ก็ดี มีข้าอยู่ทั้งคน เขาคงไม่กล้าทำอะไรนอกลู่นอกทาง)
+Story-part1_3_2,"With Brother Gu joining our sect, it's like adding wings to a tiger!",สำนักของเราได้พี่กู้เข้าร่วม ช่างเป็นการเสริมเขี้ยวเล็บให้แข็งแกร่งดั่งพยัคฆ์ติดปีกเสียจริง
+Story-part1_3_3,Gu Qing Yang pays his respects to the head!,กู้ชิงหยางคารวะท่านเจ้าสำนัก!
+Story-part1_4_1,"Brother Gu is known for his eagle-eyed and wolf-like vigilance, I'm afraid I can't trust him.",พี่กู้มีชื่อเสียงเรื่อง สายตาเฉียบคมดุจเหยี่ยว หันหลังดุจหมาป่า ข้าคงวางใจท่านมิได้
+Story-part1_4_2,"Hmph, people in the martial arts world say that you {PlayerName} are respectful to the virtuous and talented, and have the demeanor of a great leader. I didn't expect it to be all hearsay.",หึ ยุทธภพร่ำลือว่าเจ้า{PlayerName} ให้เกียรติผู้มีฝีมือ มีลักษณะของผู้นำที่ยิ่งใหญ่ ไม่คาดคิดเลยว่าทั้งหมดนั้นเป็นเพียงคำกล่าวอ้างที่ถูกปั้นแต่งขึ้น
+Story-part1_4_3,"You and I have different paths, I won't force you. Goodbye!",เราสองคนมีวิถีที่แตกต่างกัน ไม่อาจร่วมทางกันได้ ข้ากู้ก็ไม่คิดจะบังคับผู้ใด ขอลา!
+Story-part1_5_1,"Reporting to {PlayerSurName} the head, that gloomy and aloof swordsman waited for you for a long time and didn't come, so he suddenly glared and cut off the flagpole outside the door in anger.",เรียนท่านเจ้าสำนัก{PlayerSurName} จอมกระบี่ผู้เย็นชาและโดดเดี่ยวผู้นั้นรอท่านเนิ่นนานแต่ไร้วี่แวว จึงพลันแสดงสีหน้าถมึงทึง ชักกระบี่ฟาดฟันเสาธงหน้าประตูสำนักเพื่อระบายอารมณ์แล้ว
+Story-part1_5_2,"The two gatekeeping disciples were unwilling to let our sect be humiliated, and rushed up to fight him. But they didn't expect his swordsmanship to be extremely sharp, and they were knocked down in a few moves...",ศิษย์เฝ้าประตูทั้งสองทนไม่ได้ที่สำนักถูกหยามเกียรติ จึงเดือดดาลจนเส้นเลือดปูดโปน พุ่งเข้าประมือกับมัน แต่ไม่คาดคิดว่าคนผู้นั้นมีวิชากระบี่ที่ร้ายกาจยิ่ง เพียงสามสี่กระบวนท่าก็ถูกซัดกระเด็นลงพื้น...
+Story-part1_5_3,"Fortunately, he didn't hurt them seriously, he just sneered and left.",นับว่ายังดีที่มันมิได้ลงมืออย่างจริงจัง เพียงแค่เย้ยหยันแล้วเดินจากไป
 Story-part1_5_4,"The fox's tail can't be hidden. Even if such a narrow-minded person has high martial arts, there is no need for me to make friends with him."
 Story-part2_1_1,"Head, for some reason, a large group of fully armed Western Region vagabonds suddenly came to our door!"
 Story-part2_1_2,"The leader threatened that if we don't hand over Gu Qing Yang, they will make our sect suffer!"
@@ -3379,15 +3379,15 @@ Story-part67_2_2,"Sister Abbot, there won't be any patrolling disciples this shi
 Story-part67_2_3,"The leader of {PlayerName} is very kind to Wei'er, definitely not insincere as you said, Sister Abbot."
 Story-part67_2_4,"Hmph, you're young, don't be fooled by men. They're all warm and loving when they need you, but when they don't, they discard you like worn-out shoes."
 Story-part67_2_5,Who's spying over there!
-Story-part67_2_6,"Although I, the abbot, am injured, I'm not someone you can disrespect, come and fight!"
-Story-part67_3_1,I'm not as skilled... Is this the strength of the Melody House's abbot...
-Story-part67_3_2,"Sister Abbot, Wei'er can't let you hurt the leader of {PlayerName}!"
-Story-part67_3_3,"Hmph, I hope you won't regret it later, Wei'er, goodbye!"
-Story-part67_4_1,"Abbot Fu, you're injured, don't push yourself."
-Story-part67_4_2,"Hmph, if I could soak in the Immortal Spring for three more days, I wouldn't let you be so arrogant."
-Story-part67_4_3,"Abbot Fu, don't misunderstand, you can soak in the Immortal Spring as long as you want."
-Story-part67_4_4,"The Immortal Spring has miraculous healing effects, usually one soak is enough. Abbot Fu needs to soak for several days, it seems you've been heavily injured by someone."
-Story-part67_4_5,"Even if you're right, I still can't trust you men."
+Story-part67_2_6,"Although I, the abbot, am injured, I'm not someone you can disrespect, come and fight!",แม้ข้าจะบาดเจ็บ แต่ก็ใช่ว่าเจ้าคนต่ำช้าเช่นเจ้าจะมาหยามเกียรติได้ จงรับโทษทัณฑ์ไป!
+Story-part67_3_1,I'm not as skilled... Is this the strength of the Melody House's abbot...,ฝีมือสู้ไม่ได้เลย...นี่หรือคือพลังของเจ้าสำนักตำหนักบทเพลง...
+Story-part67_3_2,"Sister Abbot, Wei'er can't let you hurt the leader of {PlayerName}!",พี่สาว เว่ยเอ๋อไม่อาจยอมให้ท่านทำร้ายท่านเจ้าสำนัก{PlayerName}ได้!
+Story-part67_3_3,"Hmph, I hope you won't regret it later, Wei'er, goodbye!",หึ หวังว่าเว่ยเอ๋อจะไม่เสียใจภายหลังก็แล้วกัน ขอลา!
+Story-part67_4_1,"Abbot Fu, you're injured, don't push yourself.",ท่านเจ้าสำนักฟู่ ท่านบาดเจ็บอยู่ อย่าฝืนสังขารเลย
+Story-part67_4_2,"Hmph, if I could soak in the Immortal Spring for three more days, I wouldn't let you be so arrogant.",หึ หากได้แช่บ่อน้ำพุแห่งความเยาว์วัยอีกสักสามวัน คงไม่ปล่อยให้เจ้าเหิมเกริมเช่นนี้ได้
+Story-part67_4_3,"Abbot Fu, don't misunderstand, you can soak in the Immortal Spring as long as you want.",ท่านเจ้าสำนักฟู่โปรดอย่าเข้าใจผิด น้ำพุแห่งความเยาว์วัยนี้ท่านต้องการแช่นานเท่าใดก็เชิญตามสะดวก
+Story-part67_4_4,"The Immortal Spring has miraculous healing effects, usually one soak is enough. Abbot Fu needs to soak for several days, it seems you've been heavily injured by someone.",น้ำพุแห่งความเยาว์วัยนี้มีฤทธิ์ในการรักษาบาดแผลอย่างล้ำเลิศ บาดแผลทั่วไปเพียงครั้งเดียวก็หายสนิท ท่านเจ้าสำนักฟู่ต้องแช่ติดต่อกันหลายราตรี คงต้องถูกตามล่าจนบาดเจ็บปางตายอย่างแน่นอน
+Story-part67_4_5,"Even if you're right, I still can't trust you men.",ต่อให้เจ้าหนุ่มพูดถูก แล้วอย่างไร? ข้าก็ยังไม่วางใจพวกบุรุษอย่างพวกเจ้าอยู่ดี
 Story-part67_4_6,"Sister Abbot, you can trust Wei'er, right? Everyone here is very kind to Wei'er, they are all friends who can be trusted..."
 Story-part67_4_7,"You should stay in {MyFaction}, Wei'er will take care of you."
 Story-part67_4_8,"Humph, in that case, I, the leader of this sect, will use this time to teach you the inner strength of our sect, Wei'er, you must not let me down."
@@ -3401,7 +3401,7 @@ Story-part68_log,You got the map of the Divine Ox Treasury and found that the tr
 Story-part68_2_1,"According to the map, the entrance should be right here."
 Story-part68_2_2,"Damn, there are traces of others having been here... Could there be more than one map of the Divine Ox Treasury?"
 Story-part68_2_3,"We must hurry in, we can't let the Divine Ox Treasury fall into the hands of others."
-Story-part68_2_4,Hahahaha!
+Story-part68_2_4,Hahahaha!,ฮ่าฮ่าฮ่าฮ่า!
 Story-part68_2_5,"Although the Divine Flame Sect is no more, I, the leader, have found the long-desired Divine Ox Treasury!"
 Story-part68_2_6,"With these hundred-year-old treasures, I, the leader, can now do whatever I want, haha!"
 Story-part68_2_7,"Leader Fang, who gets the treasure is not up to you."
@@ -3409,7 +3409,7 @@ Story-part68_2_8,"You are from {MyFaction}... Humph, no matter who you are, you 
 Story-part68_3_1,"This Fang Xiaoian is indeed a local tyrant, better retreat for now..."
 Story-part68_4_1,"Leader Fang, your Holy Fire Divine Skill is nothing special."
 Story-part68_4_2,"This Divine Ox Treasury belongs to our sect, do you have any objections, Leader Fang?"
-Story-part68_4_3,Stop!
+Story-part68_4_3,Stop!,หยุด!
 Story-part68_4_4,"I've spent a lifetime looking for this Divine Ox Treasury, as long as you're willing to give up the treasure, I'm willing to agree to anything."
 Story-part68_4_5,Even joining our sect?
 Story-part68_4_6,"As long as you give up the treasure, I, the leader, am not only willing to join your sect, but also willing to teach you the unique Holy Fire Divine Skill. Think about it."
@@ -3426,7 +3426,7 @@ Story-part68_7_2,"If it's not meant to be, don't force it, it's just some worldl
 Story-part69_1_1,"Headmaster, there is a secret place called Waterfall Pond within our sect, although it can help disciples break through martial arts bottlenecks, there is also a risk of obsession."
 Story-part69_1_2,"In recent days, there has been a shadow practicing in the pool, but when our disciples approached for information, they found nothing."
 Story-part69_1_3,"There are such strange things, I, the leader, will send someone to check it out."
-Story-part69_name,Waterfall Pond
+Story-part69_name,Waterfall Pond,บึงน้ำตก
 Story-part69_log,"Recently, a Mysterious Man has intruded into a secret realm of your sect, and DiscipleInfo has found nothing.",เมื่อไม่นานนี้ มีบุรุษลึกลับบุกเข้าไปในสถานที่ลับของสำนัก เมื่อลูกศิษย์ไปตรวจสอบกลับไม่พบอะไรเลย
 Story-part69_2_1,"I've been to this Waterfall Pond several times, and I've never seen anything special."
 Story-part69_2_2,"Wait? I see a shadow meditating under the waterfall, it's... it's Huo Shilou!"
@@ -3435,7 +3435,7 @@ Story-part69_2_4,"Shifting stars to protect the rear, dense clouds raining to br
 Story-part69_2_5,"Body moving with strength like a strong bow, splitting the heavens and the earth... cough cough... splitting the heavens and the earth... slaughtering the world!"
 Story-part69_2_6,"(Damn, Huo Shilou is practicing here and has become Obsessed, should I help him?)"
 Story-part69_op_1_1,Quickly retreat
-Story-part69_op_1_2,Help
+Story-part69_op_1_2,Help,ช่วยเหลือ
 Story-part69_3_1,"Huo Shilou's martial arts are already superb, and after becoming Obsessed, no one can stop him, let him be..."
 Story-part69_4_1,"If I don't help, he will surely exhaust his spirit and die here."
 Story-part69_4_2,"You rabble of the Divine Flame Sect, come and give your lives to Huo!"
