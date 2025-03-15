@@ -2855,7 +2855,7 @@ NpcDuel_穆再兴_NoStamina,"I don't take advantage of others, come back when yo
 NpcDuel_残棋_Refuse,"As a disabled person, I'm afraid I might not meet your standards.",ข้าที่เป็นคนพิการนี้ เกรงว่าคงไม่คู่ควรกับมาตรฐานของเจ้าหรอก
 NpcDuel_残棋_Info,"Although I'm disabled, I'm still capable, be careful.\n(Victory can earn {2}Jianghu Knowledge, {3}FameExperience.)","แม้ว่าข้าจะพิการ แต่ข้าก็ยังมีความสามารถ ระวังตัวด้วย\n(ผู้ชนะจะได้รับ {2} ค่าประสบการณ์ยุทธ, {3} ค่าประสบการณ์ชื่อเสียง)"
 NpcDuel_残棋_NoStamina,"{PlayerName}, do you want to humiliate me by competing with me in this state?",{PlayerName} เจ้าสภาพเช่นนี้ยังคิดจะมาประลองกับข้า นี่เจ้าคิดจะเหยียดหยามข้าหรือ?
-NpcDuel_剑痴_Refuse,"I've already retired from the martial world, why ask?",ข้าพเจ้าเลิกยุ่งเกี่ยวกับเรื่องยุทธภพไปนานแล้ว ทำไมต้องถามเช่นนี้?
+NpcDuel_剑痴_Refuse,"I've already retired from the martial world, why ask?",ข้าเลิกยุ่งเกี่ยวกับเรื่องยุทธภพไปนานแล้ว ทำไมต้องถามเช่นนี้?
 NpcDuel_剑痴_Info,"Let me give you some pointers.\n(Victory can earn {2}Jianghu Knowledge, {3}FameExperience.)","ขอให้ข้าชี้แนะแก่เจ้าบ้าง\n(ผู้ชนะจะได้รับ {2} ค่าประสบการณ์ยุทธ, {3} ค่าประสบการณ์ชื่อเสียง)"
 NpcDuel_剑痴_NoStamina,"To do a good job, one must first sharpen one's tools. You're like a blunt sword now, let's talk after you've honed yourself.",ช่างฝีมือต้องลับเครื่องมือให้คมเสียก่อน เจ้าในตอนนี้ไม่ต่างอะไรจากดาบทื่อๆ รอฝึกฝนตนเองให้ดีแล้วค่อยมาคุยกันเถิด
 NpcDuel_欧冶恒_Refuse,"Sorry, I'd rather spend this time studying the art of forging.",ขออภัย ข้าสนใจที่จะศึกษาเกี่ยวกับศาสตร์แห่งหลอมโลหะมากกว่า
