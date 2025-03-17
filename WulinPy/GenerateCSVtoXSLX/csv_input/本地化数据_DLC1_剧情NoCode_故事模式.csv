@@ -1811,24 +1811,24 @@ Story-part11_12_3,"{PlayerSurName} Sect Leader is generous, this Celestial Star 
 Story-part11_13_1,"Leader, the Day Mo Sect that invited you suddenly disappeared without a trace.",ท่านเจ้าสำนัก ตลาดประมูลราตรีที่เคยเชิญท่านไปนั้น จู่ๆ ก็ร้างผู้คน หายไปอย่างไร้ร่องรอย
 Story-part11_13_2,"It's good that we didn't go, it was indeed a scam!",โชคดีที่ไม่ได้ไป ที่แท้ก็เป็นกลลวงจริงๆ ด้วย!
 Story-part12_1_1,"Leader, Young Master Cai from the Confucius Temple has sent a letter, please take a look.",ท่านเจ้าสำนัก คุณชายไช่จากวัดขงจื้อได้ส่งจดหมายมาขอรับ โปรดพิจารณาดู
-Story-part12_1_2,"So this young master wants to become the Confucius Temple's junior Dojokeeper, asking me to help him break the Four Sages Formation, saying there will be a big reward.",ที่แท้คุณชายผู้นี้ต้องการเป็นคุณชายรองแห่งวัดขงจื๊อ ขอให้ข้าไปช่วยเขาทำลายค่ายกลสี่ปราชญ์ โดยบอกว่าจะตอบแทนอย่างงาม
+Story-part12_1_2,"So this young master wants to become the Confucius Temple's junior Dojokeeper, asking me to help him break the Four Sages Formation, saying there will be a big reward.",ที่แท้คุณชายผู้นี้ต้องการขึ้นเป็นเจ้าสำนักน้อยแห่งวัดขงจื๊อ จึงเชิญข้าไปช่วยเขาทำลายค่ายกลสี่ปราชญ์ โดยบอกว่าจะตอบแทนอย่างงาม
 Story-part12_1_3,"Although the relations between the two sects are good, considering Cai Dojokeeper's likes and dislikes, the leader should think it over.",แม้ว่าความสัมพันธ์ของสองสำนักจะดี แต่เมื่อนึกถึงความชอบไม่ชอบของท่านเจ้าสำนักไช่ ข้าขอพิจารณาอย่างถี่ถ้วนก่อน
 Story-part12_name,Four Sages Formation,ค่ายกลสี่ปราชญ์
-Story-part12_log,"Cai Youzhi sent you a letter, asking you to help him break the Four Sages Formation in the temple."
-Story-part12_2_1,"{PlayerSurName} Brother, you are indeed trustworthy, I didn't expect you to come!"
-Story-part12_2_2,"Can Brother Cai tell me, what does this matter of becoming the junior Dojokeeper have to do with breaking this formation?"
-Story-part12_2_3,"Although I was designated as the next Dojokeeper of the Confucius Temple by my father since birth, both my experience and martial arts are hard to convince others. To gain recognition within the Confucius Temple, one must break through the Four Sages Formation in the temple."
-Story-part12_2_4,"As long as {PlayerSurName} Brother is willing to help break this formation, I will definitely reward you heavily!"
-Story-part12_2_5,"Understood, lead the way."
-Story-part12_2_6,"{PlayerSurName} Brother, we have entered the formation, this formation is guarded by four wise men of our sect, please be careful!"
-Story-part12_3_1,"This formation is not to be underestimated, I don't expect to succeed in one go."
-Story-part12_3_2,"Sigh... Even if I fail to break the formation and can't become the junior Dojokeeper, when can I finally go outside the Confucius Temple..."
-Story-part12_4_1,"Successfully broke through the formation, Me can finally go to see the places outside the Confucius Temple!"
-Story-part12_4_2,"Thanks to the help of {PlayerSurName} brother this time, this Manual is a token of my gratitude. If there is any need for Cai in the future, I will not refuse!"
+Story-part12_log,"Cai Youzhi sent you a letter, asking you to help him break the Four Sages Formation in the temple.",ไช่โหยวจื่อส่งจดหมายถึงท่าน เชิญท่านช่วยเขาทำลายค่ายกลสี่ปราชญ์ภายในวัด
+Story-part12_2_1,"{PlayerSurName} Brother, you are indeed trustworthy, I didn't expect you to come!",น้อง {PlayerSurName} ช่างรักษาสัจจะ ไม่ทำให้ข้าผิดหวังจริงๆ!
+Story-part12_2_2,"Can Brother Cai tell me, what does this matter of becoming the junior Dojokeeper have to do with breaking this formation?",พี่ไช่ช่วยบอกข้าหน่อยได้หรือไม่ ว่าการขึ้นเป็นเจ้าสำนักน้อยนั้น เกี่ยวข้องกับการทำลายค่ายกลนี้อย่างไร?
+Story-part12_2_3,"Although I was designated as the next Dojokeeper of the Confucius Temple by my father since birth, both my experience and martial arts are hard to convince others. To gain recognition within the Confucius Temple, one must break through the Four Sages Formation in the temple.",แม้ว่าข้าจะถูกบิดากำหนดให้เป็นเจ้าสำนักน้อยแห่งวัดขงจื๊อตั้งแต่เกิด แต่ไม่ว่าจะเป็นวุฒิหรือวรยุทธ์ ก็ยังไม่สามารถทำให้ผู้คนยอมรับได้ หากต้องการได้รับการยอมรับภายในวัดขงจื๊อ จำต้องผ่านค่ายกลสี่ปราชญ์ภายในวัดให้ได้
+Story-part12_2_4,"As long as {PlayerSurName} Brother is willing to help break this formation, I will definitely reward you heavily!",เพียงแค่น้อง {PlayerSurName} ให้ความช่วยเหลือในการทำลายค่ายกลนี้ ข้าจะตอบแทนอย่างงาม!
+Story-part12_2_5,"Understood, lead the way.",เข้าใจแล้ว นำทางไปเถิด
+Story-part12_2_6,"{PlayerSurName} Brother, we have entered the formation, this formation is guarded by four wise men of our sect, please be careful!",น้อง {PlayerSurName} พวกเราเข้าสู่ค่ายกลแล้ว ค่ายกลนี้มีสี่ปราชญ์ของสำนักเราคอยเฝ้าจุดสำคัญ โปรดระวังตัวด้วย!
+Story-part12_3_1,"This formation is not to be underestimated, I don't expect to succeed in one go.",ค่ายกลนี้ไม่ธรรมดา ข้าก็ไม่ได้หวังว่าจะสำเร็จในคราวเดียว
+Story-part12_3_2,"Sigh... Even if I fail to break the formation and can't become the junior Dojokeeper, when can I finally go outside the Confucius Temple...",เฮ้อ... ทำลายค่ายกลไม่สำเร็จไม่ได้เป็นเจ้าสำนักน้อยก็ไม่เป็นไร แต่เมื่อไหร่ข้าจะได้ออกไปดูโลกภายนอกวัดขงจื๊อเสียที...
+Story-part12_4_1,"Successfully broke through the formation, Me can finally go to see the places outside the Confucius Temple!",ทำลายค่ายกลสำเร็จ ในที่สุดข้าก็จะได้ออกไปดูโลกภายนอกวัดขงจื๊อแล้ว!
+Story-part12_4_2,"Thanks to the help of {PlayerSurName} brother this time, this Manual is a token of my gratitude. If there is any need for Cai in the future, I will not refuse!",คราวนี้ข้าได้รับการช่วยเหลือจากน้อง {PlayerSurName} เป็นอย่างมาก คัมภีร์ลับนี้ถือเป็นการตอบแทน หากมีสิ่งใดที่ข้าสามารถช่วยเหลือได้ในภายภาคหน้า ข้าจะไม่รีรอเลย!
 Story-part12_5_1,"Leader, Young Master Cai has sent another letter, saying that the person who can break the formation has been found, so you don't need to bother anymore.",ท่านเจ้าสำนัก คุณชายไช่ได้ส่งจดหมายมาอีกแล้ว บอกว่าพบผู้ที่สามารถทำลายค่ายกลได้แล้ว ไม่ต้องรบกวนท่านอีก
-Story-part12_5_2,"That's good, so the leader doesn't have to make another trip."
+Story-part12_5_2,"That's good, so the leader doesn't have to make another trip.",เช่นนี้ก็ดี จะได้ไม่ต้องให้ข้าเดินทางไป
 Story-part12_6_1,"Leader, the Confucius Temple has suddenly been destroyed, I'm afraid your plan to help Young Master Cai can't be realized...",ท่านเจ้าสำนัก วัดขงจื้อถูกทำลายอย่างกระทันหัน ความคิดที่จะช่วยคุณชายไช่อาจไม่สามารถเป็นจริงได้แล้ว…
-Story-part12_6_2,"It's fate, I hope he can take care of himself."
+Story-part12_6_2,"It's fate, I hope he can take care of himself.",นี่เป็นเรื่องของโชคชะตา หวังว่าเขาปลอดภัยดี
 Story-part13_1_1,"Leader, the former Confucius Temple's young Dojokeeper Cai Youzhi is now wandering around the world, and I heard that he just found a job as a teacher."
 Story-part13_1_2,"Alas, the once great Confucius Temple is now scattered, send someone to check on him."
 Story-part13_name,Honorable Unworthy
