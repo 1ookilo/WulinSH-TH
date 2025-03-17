@@ -1829,45 +1829,45 @@ Story-part12_5_1,"Leader, Young Master Cai has sent another letter, saying that 
 Story-part12_5_2,"That's good, so the leader doesn't have to make another trip.",เช่นนี้ก็ดี จะได้ไม่ต้องให้ข้าเดินทางไป
 Story-part12_6_1,"Leader, the Confucius Temple has suddenly been destroyed, I'm afraid your plan to help Young Master Cai can't be realized...",ท่านเจ้าสำนัก วัดขงจื้อถูกทำลายอย่างกระทันหัน ความคิดที่จะช่วยคุณชายไช่อาจไม่สามารถเป็นจริงได้แล้ว…
 Story-part12_6_2,"It's fate, I hope he can take care of himself.",นี่เป็นเรื่องของโชคชะตา หวังว่าเขาปลอดภัยดี
-Story-part13_1_1,"Leader, the former Confucius Temple's young Dojokeeper Cai Youzhi is now wandering around the world, and I heard that he just found a job as a teacher."
-Story-part13_1_2,"Alas, the once great Confucius Temple is now scattered, send someone to check on him."
-Story-part13_name,Honorable Unworthy
-Story-part13_log,Cai Youzhi seems to have found a job as a teacher after the destruction of the Confucius Temple.
-Story-part13_2_1,This should be the private school where Cai Youzhi is.
-Story-part13_2_2,"From the high-ranking young Dojokeeper of the Confucius Temple to a common teacher, I didn't expect Brother Cai to not be discouraged."
-Story-part13_2_3,"Enter the path of Honorable, to learn the conduct of Honorable."
-Story-part13_2_4,"Enter the path of Honorable, to learn the conduct of Honorable..."
-Story-part13_2_5,"He is indeed teaching these children with all his heart, not wasting the Honorable spirit of the Confucius Temple."
-Story-part13_2_6,"To be a scholar is to seek the path of Honorable, those who succeed and reach are in the state of unworthiness."
-Story-part13_2_7,"To be a scholar is to seek the path of Honorable, those who succeed and..."
-Story-part13_2_8,"Don't rush, this sentence is indeed difficult to read, follow Me slowly: those who succeed and reach are in..."
-Story-part13_2_9,"Teacher Cai, behind you... Ah! Teacher Cai is injured!"
-Story-part13_2_10,"Hmph... So it's the scum of the rivers and lakes who bears a grudge against Me Confucius Temple and is ready to take a chance, if you want to assassinate Cai, why do it in front of innocent children!"
+Story-part13_1_1,"Leader, the former Confucius Temple's young Dojokeeper Cai Youzhi is now wandering around the world, and I heard that he just found a job as a teacher.",ท่านเจ้าสำนัก... ข้าได้ข่าวมาว่า ชายหนุ่มที่ชื่อ ไช่โยวจือ อดีตคุณชายน้อยแห่งวัดขงจื๊อ ตอนนี้กำลังร่อนเร่พเนจรอยู่ในยุทธภพ ได้ข่าวว่าเพิ่งจะหาอาชีพเป็นอาจารย์สอนหนังสือได้ไม่นานมานี้เองขอรับ
+Story-part13_1_2,"Alas, the once great Confucius Temple is now scattered, send someone to check on him.",เฮ้อ... วัดขงจื๊อใหญ่โตปานนั้น บัดนี้กลับล่มสลายไม่เหลือชิ้นดี ส่งคนไปดูเขาหน่อยเถิด
+Story-part13_name,Honorable Unworthy,วิญญูชนไม่ใช่ภาชนะ
+Story-part13_log,Cai Youzhi seems to have found a job as a teacher after the destruction of the Confucius Temple.,หลังจากวัดขงจื๊อล่มสลาย ไช่โหยวจื่อดูเหมือนว่าจะไปเป็นครูสอนหนังสือแล้วขอรับ
+Story-part13_2_1,This should be the private school where Cai Youzhi is.,ที่นี่น่าจะเป็นโรงเรียนสอนหนังสือของไช่โหยวจื่อกระมัง
+Story-part13_2_2,"From the high-ranking young Dojokeeper of the Confucius Temple to a common teacher, I didn't expect Brother Cai to not be discouraged.",จากคุณชายน้อยผู้สูงศักดิ์แห่งวัดขงจื๊อ สู่ครูสอนหนังสือธรรมดาเดินดิน ข้าไม่คิดเลยว่าพี่ไช่จะไม่ยอมแพ้ต่อโชคชะตาเช่นนี้
+Story-part13_2_3,"Enter the path of Honorable, to learn the conduct of Honorable.",เข้าสู่หนทางแห่งยอดคน เพื่อเรียนรู้การกระทำของยอดคน
+Story-part13_2_4,"Enter the path of Honorable, to learn the conduct of Honorable...",เข้าสู่หนทางแห่งยอดคน เพื่อเรียนรู้การกระทำของยอดคน...
+Story-part13_2_5,"He is indeed teaching these children with all his heart, not wasting the Honorable spirit of the Confucius Temple.",เขาตั้งใจสั่งสอนเด็กๆเหล่านี้อย่างแท้จริง มิได้ละทิ้งวิถีแห่งยอดคนของวัดขงจื๊อเลย
+Story-part13_2_6,"To be a scholar is to seek the path of Honorable, those who succeed and reach are in the state of unworthiness.",ผู้ใฝ่ศึกษา คือผู้แสวงหาหนทางแห่งยอดคน ผู้บรรลุและเข้าถึง คือผู้ก้าวสู่ขอบเขตไร้ข้อจำกัด
+Story-part13_2_7,"To be a scholar is to seek the path of Honorable, those who succeed and...",ผู้ใฝ่ศึกษาคือผู้แสวงหาหนทางแห่งยอดคน ผู้บรรลุและเข้าถึงจึง...
+Story-part13_2_8,"Don't rush, this sentence is indeed difficult to read, follow Me slowly: those who succeed and reach are in...",อย่ารีบร้อนเลย ประโยคนี้อ่านยากจริงๆ ค่อยๆอ่านตามข้า: ผู้บรรลุและเข้าถึงจึงก้าวเข้าสู่...
+Story-part13_2_9,"Teacher Cai, behind you... Ah! Teacher Cai is injured!",อาจารย์ไช่ ด้านหลังท่าน... อ๊ะ! อาจารย์ไช่บาดเจ็บ!
+Story-part13_2_10,"Hmph... So it's the scum of the rivers and lakes who bears a grudge against Me Confucius Temple and is ready to take a chance, if you want to assassinate Cai, why do it in front of innocent children!",หึ... ที่แท้ก็เป็นเศษเดนยุทธภพที่มีแค้นกับวัดขงจื๊อของข้า คิดจะซ้ำเติมคนตกต่ำสินะ! ในเมื่อคิดจะลอบสังหารข้าไช่ผู้นี้ เหตุใดจึงต้องกระทำต่อหน้าเด็กน้อยผู้บริสุทธิ์เหล่านี้ด้วย!
 Story-part13_2_11,"Young Master Cai, let Me lend you a hand.",คุณชายไช่ ข้าจะมาช่วยเจ้า
-Story-part13_3_1,Teacher Cai... Teacher Cai... don't die!
+Story-part13_3_1,Teacher Cai... Teacher Cai... don't die!,อาจารย์ไช่... อาจารย์ไช่... ท่านอย่าตายนะ!
 Story-part13_3_2,"We were delayed too long by the Man in black, and it was too late to save Young Master Cai...",พวกเราเสียเวลากับชายชุดดำมากเกินไป ไม่มีเวลาแม้แต่จะช่วยคุณชายไช่แล้ว…
-Story-part13_4_1,Cai is grateful for your great help...
+Story-part13_4_1,Cai is grateful for your great help...,ข้าไช่ขอขอบคุณทุกท่านที่ให้ความช่วยเหลืออย่างสุดกำลัง...
 Story-part13_4_2,"Young Master Cai, don't be polite, this is what Me should do.",คุณชายไช่ไม่ต้องเกรงใจ นี่คือสิ่งที่พวกเราควรทำ
 Story-part13_4_3,"The Confucius Temple has been destroyed, if Young Master Cai has nowhere to go, why not come to our sect for a while.",วัดขงจื้อถูกทำลายแล้ว ถ้าคุณชายไช่ไม่มีที่ไป ก็ขอเชิญมาที่สำนักเราเถอะ
-Story-part13_4_4,"When the Confucius Temple was destroyed, Cai was secretly sent out by his father. Because he didn't understand the dangers of the world, he suffered a lot. Fortunately, when I was about to give up, I was found and taken in by the villagers here."
-Story-part13_4_5,"This village was suffering from a drought, but they were willing to lend a hand to Cai, a stranger."
-Story-part13_4_6,"Moved by their kindness, Cai decided to teach the children the classics of Confucianism as a way to repay their kindness."
-Story-part13_4_7,"If your sect is willing to accept Cai, I would be more than happy, but I would like to ask your sect to lend some food to the village to help them through the drought."
-Story-part13_op_1_1,Our sect has always put the people first (2000 food)
-Story-part13_op_1_2,"Our sect is short of food, I'm sorry we can't help"
-Story-part13_5_1,"Our sect has always put the people first, we will transport food from our sect to this place immediately, to ensure that the people here can survive this disaster."
-Story-part13_5_2,"Cai thanks you all, {MyFaction} really has the spirit of Honorable!"
+Story-part13_4_4,"When the Confucius Temple was destroyed, Cai was secretly sent out by his father. Because he didn't understand the dangers of the world, he suffered a lot. Fortunately, when I was about to give up, I was found and taken in by the villagers here.",ยามวัดขงจื๊อล่มสลาย ข้าไช่ถูกบิดาส่งตัวออกมาอย่างลับๆ ด้วยความไม่รู้ ถึงความโหดร้ายในยุทธภพ จึงต้องเผชิญกับความยากลำบากนานัปการ โชคดีที่ยามข้าใกล้หมดแรง ชาวบ้านแถบนี้ได้พบเข้าและให้ความช่วยเหลือ
+Story-part13_4_5,"This village was suffering from a drought, but they were willing to lend a hand to Cai, a stranger.",หมู่บ้านแห่งนี้กำลังประสบภัยแล้งอย่างหนัก แต่กลับยินดีที่จะยื่นมือเข้าช่วยเหลือข้าไช่ผู้เป็นคนแปลกหน้า
+Story-part13_4_6,"Moved by their kindness, Cai decided to teach the children the classics of Confucianism as a way to repay their kindness.",ด้วยความซาบซึ้งใจ ข้าไช่จึงคิดที่จะตอบแทนบุญคุณด้วยการสอนสั่งเด็กๆ ด้วยคัมภีร์ของนักปราชญ์
+Story-part13_4_7,"If your sect is willing to accept Cai, I would be more than happy, but I would like to ask your sect to lend some food to the village to help them through the drought.",หากสำนักของท่านยินดีรับข้าไช่ผู้นี้ ข้าก็ยินดีเป็นอย่างยิ่ง แต่ข้าขอรบกวนสำนักของท่านโปรดให้ความช่วยเหลือชาวบ้านด้วยการให้ยืมเสบียงอาหาร เพื่อให้พวกเขาผ่านพ้นภัยแล้งนี้ไปด้วยเถิด
+Story-part13_op_1_1,Our sect has always put the people first (2000 food),"สำนักของเรายึดมั่นในประชาชนเป็นหลักอยู่แล้ว (2,000 เสบียงอาหาร)"
+Story-part13_op_1_2,"Our sect is short of food, I'm sorry we can't help",เสบียงอาหารของสำนักเราก็ขาดแคลนเช่นกัน คงไม่อาจช่วยเหลือได้
+Story-part13_5_1,"Our sect has always put the people first, we will transport food from our sect to this place immediately, to ensure that the people here can survive this disaster.",สำนักของเรายึดมั่นในประชาชนเป็นหลักอยู่แล้ว เราจะรีบส่งเสบียงอาหารจากสำนักมายังที่นี่โดยเร็ว เพื่อให้ชาวบ้านในแถบนี้ผ่านพ้นภัยพิบัติครั้งนี้ไปให้ได้
+Story-part13_5_2,"Cai thanks you all, {MyFaction} really has the spirit of Honorable!",ข้าไช่ขอขอบคุณทุกท่าน {MyFaction} สมกับเป็นสำนักที่มีวิถียอดคนอย่างแท้จริง!
 Story-part13_6_1,"Our sect is barely able to help ourselves, I hope Young Master Cai can understand.",สำนักเราก็อยู่ในสภาพที่ย่ำแย่ จนตัวเองยังประคองไม่อยู่ หวังว่าคุณชายไช่จะเข้าใจ
-Story-part13_6_2,"As long as the disaster in the village is not resolved, Cai cannot leave this place, let's talk about joining your sect later."
+Story-part13_6_2,"As long as the disaster in the village is not resolved, Cai cannot leave this place, let's talk about joining your sect later.",ตราบใดที่ภัยพิบัติของหมู่บ้านยังไม่คลี่คลาย ข้าไช่ก็ไม่อาจจากที่นี่ไปได้ เรื่องเข้าร่วมสำนักของท่าน ขอให้พูดถึงในภายหลังเถิด
 Story-part13_7_1,"Young Master Cai was teaching in a private school to avoid the world, but he was still attacked by his enemies and his whereabouts are unknown.",คุณชายไช่ไปสอนในสำนักเล็กๆ หลีกหนีจากโลกภายนอก ไม่คาดคิดว่าจะยังถูกศัตรูจู่โจม และไม่รู้ว่าตอนนี้ไปอยู่ที่ไหน…
-Story-part13_7_2,"It's a pity that I've wasted too much time, otherwise I could definitely recruit this Coin-like gentleman into my sect..."
-Story-part14_1_1,"Sect Leader, Master Hua Yan from Shifa Temple is visiting our sect."
-Story-part14_1_2,"I have long heard that {PlayerSurName} is a talented person, and it is indeed extraordinary to see you today."
-Story-part14_1_3,I came here this time because I heard that a thief who stole the Scripture from our temple was spotted on your sect's territory. I would like to ask {PlayerSurName} to help me catch this thief.
-Story-part14_1_4,"Master, please rest for a while, I will send a Disciple to accompany you later."
+Story-part13_7_2,"It's a pity that I've wasted too much time, otherwise I could definitely recruit this Coin-like gentleman into my sect...",น่าเสียดายที่ข้ามาช้าไป หากข้ามาเร็วกว่านี้ คงได้เชิญคุณชายผู้มีบุคลิกสง่างามผู้นี้เข้าสำนักอย่างแน่นอน...
+Story-part14_1_1,"Sect Leader, Master Hua Yan from Shifa Temple is visiting our sect.",ท่านเจ้าสำนัก พระอาจารย์หัวเหยียนแห่งอารามซื่อฟา ได้มาเยือนสำนักของเราขอรับ
+Story-part14_1_2,"I have long heard that {PlayerSurName} is a talented person, and it is indeed extraordinary to see you today.",อาตมาได้ยินชื่อเสียงของ ท่าน{PlayerSurName}มานาน วันนี้ได้พบเจอ สมคำร่ำลือจริงๆ
+Story-part14_1_3,I came here this time because I heard that a thief who stole the Scripture from our temple was spotted on your sect's territory. I would like to ask {PlayerSurName} to help me catch this thief.,อาตมามาเยือนครานี้ ด้วยได้ยินข่าวว่า มีทรชนขโมยพระคัมภีร์วัดอาตมา มาเหยียบย่างในเขตแดนของท่าน รบกวนท่าน{PlayerSurName}โปรดเมตตาช่วยอาตมา จับกุมคนร้ายด้วยเถิด
+Story-part14_1_4,"Master, please rest for a while, I will send a Disciple to accompany you later.",ไต้ซือ โปรดพักผ่อนเสียก่อน อีกประเดี๋ยวข้า จะส่งศิษย์ร่วมเดินทางไปกับท่าน
 Story-part14_name,Vajra Exorcist,วัชระปราบมาร
-Story-part14_log,Master Hua Yan came to ask for your help in tracking down the thief who stole the Scripture.
-Story-part14_2_1,The mansion ahead should be the last place where the thief appeared.
+Story-part14_log,Master Hua Yan came to ask for your help in tracking down the thief who stole the Scripture.,หลวงจีนฮัวเหยียน มาเพื่อขอให้ท่าน ลงมือช่วยเหลือ ในการตามล่าผู้ที่บังอาจ ขโมยคัมภีร์ศักดิ์สิทธิ์ไป
+Story-part14_2_1,The mansion ahead should be the last place where the thief appeared.,จวนหลังโน้น ดูท่าจะเป็นร่องรอยสุดท้ายของเจ้าหัวขโมย
 Story-part14_2_2,"Amitabha, I really don't know how to repay your sect for your assistance.",อมิตาพุทธ อาตมาไม่รู้จะตอบแทนบุญคุณของสำนักท่านได้อย่างไร
 Story-part14_2_3,"Master Hua Yan, you're too polite. I heard that you spend all day studying Buddhism in the Scripture Tower and never leave the temple. Why did you come to our sect today?"
 Story-part14_2_4,The reason why I never left the temple before was to atone for an old mistake.

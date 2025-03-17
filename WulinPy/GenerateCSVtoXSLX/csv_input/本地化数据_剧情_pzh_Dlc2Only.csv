@@ -1597,7 +1597,7 @@ School-2150-4_2_2_1,"Damn Han people, actually taking advantage of the marshal's
 School-2150-4_2_2_2,"Help people to the end, I will lend you a hand!",ช่วยเหลือผู้คนให้ถึงที่สุด ข้าจะยื่นมือเข้าช่วยท่านเอง!
 School-2150-4_2_3,Change to a passionate music,เปลี่ยนเป็นเพลงที่เร้าใจและฮึกเหิม!
 School-2150-4_2_4_1,"Wanyan brother, are you okay?",พี่หวันเยี่ยน ท่านเป็นอย่างไรบ้าง?
-School-2150-4_2_4_2,"Got a little hurt, it's nothing... \n{PlayerSurName} brother, you must catch up, even if you kill that old guy, you can't let them rescue him!","แค่บาดเจ็บเล็กน้อย ไม่เป็นไร...\n น้อง {PlayerSurName} เจ้าต้องตามไปให้ทัน! หากต้องฆ่าชายชราผู้นั้นก็ต้องทำ อย่าให้พวกมันช่วยเขาไปได้!"
+School-2150-4_2_4_2,"Got a little hurt, it's nothing... \n{PlayerSurName} brother, you must catch up, even if you kill that old guy, you can't let them rescue him!","แค่บาดเจ็บเล็กน้อย ไม่เป็นไร...\nน้อง{PlayerSurName} เจ้าต้องตามไปให้ทัน! หากต้องฆ่าชายชราผู้นั้นก็ต้องทำ อย่าให้พวกมันช่วยเขาไปได้!"
 School-2150-4_2_4_3,"Don't worry, Wanyan brother!",ไม่ต้องห่วง พี่หวันเยี่ยน!
 School-2150-4_2_5_1,"{PlayerName} hero, you are capable, you can't let these people from Zhao country rescue that rare item!",จอมยุทธ์ {PlayerName} ท่านมีฝีมือ อย่าปล่อยให้พวกจากแคว้นจ้าวเอาของล้ำค่านั่นไปได้!
 School-2150-4_2_5_2,"Don't worry, they won't succeed!",อย่าห่วงไปเลย! พวกมันไม่มีวันทำสำเร็จหรอก!
@@ -1957,10 +1957,10 @@ School-2150-5_4_5_3,"Report to the sect leader, they haven't arrived yet, but th
 School-2150-5_4_5_4,"Good, let's stay here unmovable and catch them all in one net!",ดี งั้นพวกเราจะซุ่มรออยู่ที่นี่ กวาดล้างให้สิ้นซาก!
 School-2150-5_5_1_1,You few hide in the dark and wait for the appearance of those so-called righteous people.,พวกเจ้าหลายคนซุ่มอยู่ในเงามืด เฝ้ารอให้เหล่าผู้เรียกตนเองว่า ‘ฝ่ายธรรมะ’ ปรากฏตัว
 School-2150-5_5_1_2,One shichen later... ,หนึ่งชั่วยามต่อมา...
-School-2150-5_5_2_1,"Tsk, we agreed to come and help together, why am I the first one here?",เชอะ ว่ากันว่าจะมาช่วยกันไยถึงมีแต่ข้าที่มาถึงเป็นคนแรกเนี่ย?
+School-2150-5_5_2_1,"Tsk, we agreed to come and help together, why am I the first one here?",เฮอะ ว่ากันว่าจะมาช่วยกันไยถึงมีแต่ข้าที่มาถึงเป็นคนแรกเนี่ย?
 School-2150-5_5_3_1,"Old Bu, you scared me to death!",พี่ปู้! เจ้าทำข้าตกใจแทบตาย!
 School-2150-5_5_3_2,"Hahaha, sorry Old Kong, I didn't expect you to become so motherly in just a few days.",ฮ่าฮ่าฮ่า ขอโทษทีพี่ข่ง ไม่ได้พบกันไม่กี่วัน เจ้าเปลี่ยนเป็นแม่ยายขี้บ่นไปตั้งแต่เมื่อใดกัน?
-School-2150-5_5_3_3,"Tsk, I won't stoop to your level!",เชอะ! ข้าไม่ลดตัวไปเถียงกับเจ้าให้เสียเวลา!
+School-2150-5_5_3_3,"Tsk, I won't stoop to your level!",เฮอะ! ข้าไม่ลดตัวไปเถียงกับเจ้าให้เสียเวลา!
 School-2150-5_5_4_1,Isn't this the girl from Swallow Nest? Where's your boss?,นี่มิใช่แม่นางน้อยจากรังนกนางแอ่นหรือ? หัวหน้าพวกเจ้าล่ะ?
 School-2150-5_5_4_2,"Our boss met with misfortune, I brought the remaining disciples from the sect to support.",หัวหน้าเรา... เกิดเหตุไม่คาดฝัน ข้าพาพวกพ้องที่เหลือมาช่วยศึกนี้
 School-2150-5_5_4_3,"I didn't expect Old Bu... Girl, you're also a... you're also a man!",นึกไม่ถึงว่าพี่ปู้เขา... เฮ้อ เด็กน้อย เจ้าเองก็นับว่าเป็นยอดบุรุษเช่นกัน!
@@ -1980,7 +1980,7 @@ School-2150-5_5_10_1,Are the brothers from Blue Wind Camp and Swallow Nest up ah
 School-2150-5_5_11_1,Isn't this the rat that digs holes everywhere? How come you are out in the sun today?,โอ๊ะ นี่มันเจ้า ‘หนูขุดรู’ มิใช่หรือ? เหตุใดวันนี้ถึงได้ยอมออกมาอาบแดด?
 School-2150-5_5_11_2,"Hahaha, isn't it all thanks to Duke Qi who dug so many holes that we have no holes to dig?",ฮ่าๆๆ ก็เพราะเจ้าอ๋องฉีขุดรูไว้ทั่ว ข้าเลยไม่มีที่ให้ซ่อนอีกแล้วน่ะสิ!
 School-2150-5_5_12_1,You seem to be... the Fate Boss?,เดี๋ยวก่อน... เจ้าใช่ พี่ใหญ่หมิง หรือไม่?
-School-2150-5_5_12_2,"Tsk, what a name, it sounds terrible, I knew I shouldn't have chosen this nickname.",เชอะ เรียกข้าเช่นนี้ฟังแล้วน่าขนลุก ช่างเป็นชื่อเล่นที่ไม่น่าเลือกเลยจริงๆ!
+School-2150-5_5_12_2,"Tsk, what a name, it sounds terrible, I knew I shouldn't have chosen this nickname.",เฮอะ เรียกข้าเช่นนี้ฟังแล้วน่าขนลุก ช่างเป็นชื่อเล่นที่ไม่น่าเลือกเลยจริงๆ!
 School-2150-5_5_13_1,"Don't call me brother, we are not in the same business.",แต่ข้าเตือนไว้ก่อน อย่ามาทำเป็นพี่น้องร่วมสาบานกับข้า พวกเราไม่ได้ทำมาหากินในทางเดียวกัน!
 School-2150-5_5_13_2,"You guys steal from the living, we take from the dead, it's pretty much the same.",พวกเจ้าขโมยของจากคนเป็น ส่วนข้านั้นเอามาจากคนตาย ก็ไม่ได้แตกต่างกันเท่าใดนักหรอก!
 School-2150-5_5_14_1,Fate Boss... ,พี่ใหญ่หมิง...
