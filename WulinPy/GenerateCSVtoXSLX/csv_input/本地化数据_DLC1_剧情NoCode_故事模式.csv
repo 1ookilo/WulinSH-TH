@@ -1944,46 +1944,46 @@ Story-part16_6_4,"Beast Manor has the art of beast language, which allows us to 
 Story-part16_6_5,"After the manor was ruined, I took these two Wild Wolf friends to wander around the world, looking for a place to stay, and unexpectedly met this San Hua friend who gets lost every day.",หลังจากหมู่ตึกล่มสลาย ข้าจึงพาสหายหมาป่าทั้งสองท่องยุทธภพ เพื่อหาที่พักพิง ไม่คิดเลยว่าจะได้รู้จักกับเจ้าสามสีเพื่อนที่ชอบหลงทางเป็นประจำโดยบังเอิญ
 Story-part16_6_6,"Because I was worried that it was not familiar with the forest path, I specially sent two Wild Wolf friends to send it out, but I didn't expect to be misunderstood by the young hero and got beaten up, it seems that I didn't consider it thoroughly...",ข้าเกรงว่าท่านอาจไม่คุ้นเคยกับเส้นทางในป่า จึงได้ให้เพื่อนหมาป่าน้อย ออกไปนำทาง แต่มิคิดเลยว่า ท่านจอมยุทธ์น้อยจะเข้าใจผิดไป ถึงขั้นลงมือโจมตีมัน ดูเหมือนว่าข้าคิดไม่รอบคอบจริงๆ...
 Story-part16_6_7,"I see, since Miss Tang has nowhere to stay for the time being, why not join our sect?",ตราบใดที่แม่นางถังยังไม่มีที่ไป ก็ขอเชิญมาที่สำนักของเราชั่วคราวเถิด
-Story-part16_6_8,"Many disciples in our sect like animals, but they don't know the proper way to raise them, Miss Tang can just guide them."
-Story-part16_6_9,"Then I will bother you, this sword book is a compensation for the misunderstanding..."
-Story-part16_7_1,"Master, that San Hua ran back by itself, it's dirty and seems to have lost some weight."
+Story-part16_6_8,"Many disciples in our sect like animals, but they don't know the proper way to raise them, Miss Tang can just guide them.",เหล่าลูกศิษย์ในสำนักของเราก็ชื่นชอบสัตว์ แต่ยังไม่ทราบถึงวิธีดูแลที่เหมาะสม ขอ แม่นางถังได้ชี้แนะ พวกเขาบ้าง 
+Story-part16_6_9,"Then I will bother you, this sword book is a compensation for the misunderstanding...",ถ้าอย่างนั้น ข้าก็ขอรบกวนท่านแล้ว วิชาดาบเล่มนี้ขอให้เป็นสิ่งชดเชย สำหรับความเข้าใจผิดที่เกิดขึ้น... 
+Story-part16_7_1,"Master, that San Hua ran back by itself, it's dirty and seems to have lost some weight.",นายท่าน แมวสามสีตัวนั้นกลับมาเองแล้ว ตัวมอมแมมเชียว ดูเหมือนจะผอมลงไปบ้างเพราะความหิวโหย
 Story-part16_7_2,"It's lucky to be alive, keep a closer eye on it in the future.",โชคดีที่รอดชีวิตมาได้ ต่อไปนี้คงต้องระวังตัวให้มากขึ้น
-Story-part17_1_1,"Master, do you remember Kong Yidao, the leader of Blue Wind Camp?"
-Story-part17_1_2,"Of course I remember, this brute has repeatedly provoked our sect, and ended up humiliating himself, why do you suddenly mention him?"
-Story-part17_1_3,"I heard that after the destruction of Blue Wind Camp, Kong Yidao seemed to have repented and lived in a small village."
-Story-part17_1_4,"But recently, for some reason, he suddenly started recruiting old members and buying horses, and even fenced off the village."
-Story-part17_1_5,"There is such a thing, we can't let him harm the villagers again, I will go there myself!"
-Story-part17_name,Incorrigible
-Story-part17_log,"Kong Yidao, who has repented, suddenly started recruiting soldiers and buying horses in a small village, seemingly preparing to make a comeback."
-Story-part17_2_1,"Guys, these Giant Horse fences are important facilities for defending against enemies, you must work hard on them, no perfunctory!"
-Story-part17_2_2,"Okay, Boss Kong!"
-Story-part17_2_3,"Boss Kong, look ahead, that, that person is here again!"
-Story-part17_2_4,"Hey, long time no see~"
-Story-part17_2_5,{PlayerName}? What are you doing here!
-Story-part17_2_6,"Heaven has the virtue of good life, when I broke Blue Wind Camp, I did not relentlessly pursue and assassinate you."
-Story-part17_2_7,"Thinking that you are incorrigible and are rebuilding the stronghold here, this time I will definitely not let you go!"
-Story-part17_2_8,"Just do it, don't think I'm really afraid of you!"
-Story-part17_3_1,"Did Kong Yidao have any adventures, why is he suddenly so powerful..."
-Story-part17_3_2,"{PlayerName} you go, you spared me a horse, I am not an ungrateful person."
-Story-part17_4_1,"I thought you had made progress, but it turns out that you are still at the same level as before."
-Story-part17_4_2,"The ancients said: those who are incorrigible should be punished, do you have any last words to say?"
-Story-part17_4_3,"I have nothing to say, kill or slaughter, I will listen to your orders!"
-Story-part17_4_4,"Okay, then let me..."
-Story-part17_op_1_1,Act immediately to eliminate future troubles
-Story-part17_op_1_2,"Something is strange, don't act rashly"
-Story-part17_5_1,This time I won't let the tiger return to the mountain.
-Story-part17_5_2,"General Yang, I, Kong Yidao, am a good man again after eighteen years..."
-Story-part17_6_1,"Your reaction is strange, don't worry, I won't act rashly before I confirm the situation."
-Story-part17_6_2,Hmph... How annoying...
-Story-part17_6_3,"Brother Kong, the villagers have hidden the food as you instructed. Huh? Who are you, villain? Let go of Brother Kong!"
-Story-part17_6_4,Me? A villain? Are you sure you're not mistaken?
-Story-part17_6_5,"Mistaken? Our village has been repeatedly taxed by the government. If we don't pay, they kill the innocent and loot the people. If it weren't for Brother Kong moving into the village and fighting with the soldiers, they would have dug our village three feet deep!"
-Story-part17_6_6,"Those corrupt officials hate Brother Kong, who stands up for the righteous, to the bone. They vowed to gather soldiers and horses to wipe out our village."
-Story-part17_6_7,"Upon hearing the news, Brother Kong called his old friends to help build fences for the village and taught us how to hide food in preparation for the worst."
-Story-part17_6_8,"You say you're not a villain, so is Brother Kong a villain?"
-Story-part17_6_9,"In that case, it seems that our sect has misunderstood..."
-Story-part17_6_10,"Kong Yidao, when are those soldiers likely to return?"
-Story-part17_6_11,In about three months.
+Story-part17_1_1,"Master, do you remember Kong Yidao, the leader of Blue Wind Camp?",นายท่าน ท่านยังจำขงอี้เตา ผู้นำของค่ายวายุครามได้หรือไม่?
+Story-part17_1_2,"Of course I remember, this brute has repeatedly provoked our sect, and ended up humiliating himself, why do you suddenly mention him?",แน่นอนข้าจำได้ ชายหยาบคายผู้นี้ก่อเรื่องท้าทายสำนักของเราหลายครั้ง แต่สุดท้ายก็ได้รับความอัปยศใส่ตัว ทำไมเจ้าถึงเอ่ยถึงเขาขึ้นมา?
+Story-part17_1_3,"I heard that after the destruction of Blue Wind Camp, Kong Yidao seemed to have repented and lived in a small village.","ได้ยินมาว่า หลังจากค่ายวายุคราม ล่มสลายลง ขงอี้เตาดูเหมือนจะสำนึกผิดและเปลี่ยนใจแล้ว ตอนนี้เขาอาศัยอยู่ในหมู่บ้านเล็กๆ แห่งหนึ่ง"""
+Story-part17_1_4,"But recently, for some reason, he suddenly started recruiting old members and buying horses, and even fenced off the village.","แต่เมื่อไม่นานมานี้ ด้วยเหตุผลใดไม่ทราบได้ เขากลับเริ่มชักชวนสมาชิกเก่าแก่มารวมตัวกันใหม่ ซื้อม้า และกั้นรั้วล้อมรอบหมู่บ้าน"""
+Story-part17_1_5,"There is such a thing, we can't let him harm the villagers again, I will go there myself!",เรื่องเช่นนี้เกิดขึ้นได้อย่างไร เราไม่อาจปล่อยให้เขาก่อความเดือดร้อนแก่ชาวบ้านอีกต่อไป ข้าจะต้องเดินทางไปด้วยตนเองสักครั้ง
+Story-part17_name,Incorrigible,สอนแล้วสอนอีกก็ไม่รู้จักจำ!
+Story-part17_log,"Kong Yidao, who has repented, suddenly started recruiting soldiers and buying horses in a small village, seemingly preparing to make a comeback.",ในหมู่บ้านเล็กๆ แห่งนั้น ขงอี้เตา ผู้ที่เคยสำนึกผิดและเปลี่ยนใจ กลับเริ่มรวบรวมทหารและซื้อม้า ดูเหมือนว่าเขากำลังเตรียมการ ที่จะกลับมาอีกครั้ง
+Story-part17_2_1,"Guys, these Giant Horse fences are important facilities for defending against enemies, you must work hard on them, no perfunctory!",เหล่าสหายทั้งหลาย รั้วและสิ่งกีดขวางเหล่านี้เป็นสิ่งสำคัญสำหรับป้องกันศัตรูจากภายนอก พวกเจ้าต้องตั้งใจทำอย่างดี ห้ามทำแบบขอไปที!
+Story-part17_2_2,"Okay, Boss Kong!",ได้เลย พี่ใหญ่ขงอี้เตา!
+Story-part17_2_3,"Boss Kong, look ahead, that, that person is here again!",พี่ใหญ่ขงอี้เตา ท่านดูสิ นั่นไง คนๆ นั้นกลับมาอีกแล้ว!
+Story-part17_2_4,"Hey, long time no see~",ว่าไงพี่ชาย ไม่เจอกันนานเลยนะ~
+Story-part17_2_5,{PlayerName}? What are you doing here!,{PlayerName}? เจ้าจะทำอะไร?!
+Story-part17_2_6,"Heaven has the virtue of good life, when I broke Blue Wind Camp, I did not relentlessly pursue and assassinate you.",สวรรค์มีเมตตาต่อสรรพชีวิต เมื่อข้าทำลายค่ายวายุครามลง ข้าไม่ได้ไล่ล่าพวกท่านอย่างจนตรอก หรือลงมือสังหารอย่างโหดเหี้ยม
+Story-part17_2_7,"Thinking that you are incorrigible and are rebuilding the stronghold here, this time I will definitely not let you go!",เมื่อนึกถึงพวกเจ้าที่สอนแล้วสอนอีกก็ไม่รู้จักจำ กลับมาสร้างสิ่งเหล่านี้เพื่อตั้งค่ายโจรใหม่ ที่นี่อีกครั้ง คราวนี้ข้าจะไม่ละเว้นพวกเจ้าเป็นอันขาด!
+Story-part17_2_8,"Just do it, don't think I'm really afraid of you!",จะสู้ก็สู้ อย่าคิดว่าข้านั้นกลัวเจ้า!
+Story-part17_3_1,"Did Kong Yidao have any adventures, why is he suddenly so powerful...",ขงอี้เตา เจ้าไปทำอะไรมา ทำไมฝีมือถึงเก่งกาจขึ้นมามาก...
+Story-part17_3_2,"{PlayerName} you go, you spared me a horse, I am not an ungrateful person.","{PlayerName} เจ้าไปเถอะ , ข้าก็ไม่ใช่คนที่ไม่รู้จักบุญคุณ ในเมื่อครั้งก่อนเจ้าก็เคยปล่อยข้าไป "
+Story-part17_4_1,"I thought you had made progress, but it turns out that you are still at the same level as before.",ข้าคิดว่าเจ้าจะพัฒนาขึ้นบ้าง แต่ไม่คิดว่าเจ้าก็ยังเหมือนเดิม ไม่มีอะไรเปลี่ยนแปลง
+Story-part17_4_2,"The ancients said: those who are incorrigible should be punished, do you have any last words to say?",คำโบราณว่าไว้ว่า: คนที่รู้ว่าตัวเองว่าผิด แต่ผิดแล้วไม่รู้จักแก้ไข สมควรถูกลงโทษ เจ้ายังมีคำพูดสุดท้ายอะไรจะกล่าวอีกหรือไม่?
+Story-part17_4_3,"I have nothing to say, kill or slaughter, I will listen to your orders!",ข้าไม่มีอะไรจะพูดแล้ว จะฆ่าจะแกง ก็ตามแต่เจ้าจะตัดสินใจ!
+Story-part17_4_4,"Okay, then let me...",ดี เช่นนั้นข้าจะ...
+Story-part17_op_1_1,Act immediately to eliminate future troubles,ลงมือทันที เพื่อกำจัดภัยให้สิ้นซาก
+Story-part17_op_1_2,"Something is strange, don't act rashly",เรื่องนี้มีอะไรแอบแฝง รอก่อน...อย่าเพิ่งลงมือ
+Story-part17_5_1,This time I won't let the tiger return to the mountain.,คราวนี้ข้าจะไม่ปล่อยเสือ กลับเข้าป่าอีกแล้ว
+Story-part17_5_2,"General Yang, I, Kong Yidao, am a good man again after eighteen years...",ท่านแม่ทัพหยาง ข้าขงอี้เตา.... อีกสิบแปดปีให้หลัง ข้าจะกลับมาเกิดใหม่เป็นวีรบุรุษอีกครั้ง...
+Story-part17_6_1,"Your reaction is strange, don't worry, I won't act rashly before I confirm the situation.",ท่าทีของเจ้าน่าสงสัย วางใจเถอะ ข้ายังไม่ลงมือง่ายๆ จนกว่าจะเข้าใจสถานการณ์ให้ชัดเจน
+Story-part17_6_2,Hmph... How annoying...,ฮึ่ม..น่ารำคาญจริงๆ...
+Story-part17_6_3,"Brother Kong, the villagers have hidden the food as you instructed. Huh? Who are you, villain? Let go of Brother Kong!","พี่ใหญ่ขงอี้เตา ชาวบ้านทำตามคำสั่งของท่านแล้ว เก็บข้าวสารเสบียงอาหาร ไว้ทั้งหมดแล้ว เอ๊ะ? เจ้าเป็นใคร มาจากไหน รีบปล่อยพี่ใหญ่ขงอี้เตา เดี๋ยวนี้!"""
+Story-part17_6_4,Me? A villain? Are you sure you're not mistaken?,ท่านจอมยุทธ ท่านอาจจะเข้าใจอะไรผิดไปแล้วหรือเปล่า? ข้าเป็นเพียงชาวบ้านธรรมดา ไม่ได้เป็นคนชั่วร้ายอย่างที่ท่านคิด
+Story-part17_6_5,"Mistaken? Our village has been repeatedly taxed by the government. If we don't pay, they kill the innocent and loot the people. If it weren't for Brother Kong moving into the village and fighting with the soldiers, they would have dug our village three feet deep!",ท่านจอมยุทธ ท่านกำลังเข้าใจผิด หมู่บ้านของเราถูกทางการกดขี่เก็บภาษีมาหลายครั้ง ถ้าไม่ยอมจ่ายภาษี พวกเขาก็จะฆ่าคนบริสุทธิ์และปล้นสะดมชาวบ้านเพื่อสร้างผลงาน หากไม่ใช่เพราะพี่ใหญ่ขงอี้เตา ที่ย้ายเข้ามาในหมู่บ้านได้ช่วยต่อสู้กับพวกทหารชั่วหลายครั้ง พวกเขาคงจะขุดดินทั้งหมู่บ้านจนหมดสิ้นแล้ว!
+Story-part17_6_6,"Those corrupt officials hate Brother Kong, who stands up for the righteous, to the bone. They vowed to gather soldiers and horses to wipe out our village.",พวกขุนนางเหล่านั้นเกลียดชัง พี่ใหญ่ขงอี้เตาที่ยืนหยัดเพื่อความถูกต้องถึงกระดูกดำ พวกเขาประกาศว่าจะรวบรวมทหารเพื่อกวาดล้างหมู่บ้านของเราให้สิ้นซาก
+Story-part17_6_7,"Upon hearing the news, Brother Kong called his old friends to help build fences for the village and taught us how to hide food in preparation for the worst.",เมื่อพี่ใหญ่ขงอี้เตาทราบข่าว เขาก็เรียกหาเพื่อนเก่ามาช่วยกันสร้างรั้วรอบหมู่บ้าน และยังสอนพวกเราให้รู้วิธีซ่อนเสบียงอาหาร เพื่อเตรียมรับมือกับสถานการณ์ที่เลวร้ายที่สุด
+Story-part17_6_8,"You say you're not a villain, so is Brother Kong a villain?",ท่านพูดสิ....พี่ใหญ่ขงอี้เตา จะเป็นคนชั่วร้ายไปได้อย่างไร!
+Story-part17_6_9,"In that case, it seems that our sect has misunderstood...",เมื่อเป็นเช่นนี้ ก็ดูเหมือนว่า ทางนิกายเราจะเข้าใจผิดจริงๆ...
+Story-part17_6_10,"Kong Yidao, when are those soldiers likely to return?",ขงอี้เตา ทหารทางการ เหล่านั้นจะกลับมาเมื่อไร?
+Story-part17_6_11,In about three months.,ประมาณ 3 เดือน
 Story-part17_6_12,"Alright, you stay in the village and build fortifications. Our sect will come to assist when the time comes."
 Story-part17_6_13,"Wait, don't leave yet..."
 Story-part17_6_14,"You're really something. You're decisive when doing bad things, but why are you so hesitant when doing good things?"
@@ -2006,179 +2006,179 @@ Story-part18_4_4,"Since you can have such insight, why not join our sect, there 
 Story-part18_4_5,"I've insulted you many times before, and you're still willing to take me in... Alright, I'll join!"
 Story-part18_5_1,"Master, the small village where Kong Yidao is located has been completely leveled by the soldiers' attack."
 Story-part18_5_2,"Ah, how could I forget about this..."
-Story-part19_1_1,"Master, ever since we occupied the Jiuli Tribe, Miao Muli has been running around and harassing our sect's properties. Please make a decision quickly."
-Story-part19_1_2,"Miao Muli has always been committed to reviving the Jiuli Tribe. Now that their ancestral land is occupied by our sect, it's natural for him to be furious and cause trouble."
-Story-part19_1_3,"Miao Muli is well-respected in this area. After careful consideration, I believe we should follow the example of Prime Minister Zhuge in the past and focus on appeasement."
-Story-part19_name,Pacify Jiuli
-Story-part19_log,"Miao Muli often harasses your sect's industry, intending to reclaim the ancestral land, you are preparing to send someone to pacify."
-Story-part19_2_1,"You guys, guard this place for the chief of our tribe, remember not to let the Central Plains people mix in."
-Story-part19_2_2,"You guys, follow the chief of our tribe to raid {MyFaction}'s stronghold."
-Story-part19_2_3,"Miao Muli, don't waste your effort, no matter how many times you harass, you can't shake the influence of our sect."
-Story-part19_2_4,"The head of the sect knows that you are dedicated to reviving the Jiuli tribe, and you are not a Wolf who is ambitious for power and private gain, so we are sent to pacify you."
-Story-part19_2_5,Our sect will guarantee the living expenses of the Jiuli Tribesman and a separate autonomous region. The only condition is that you and your people must give up attacking and join our sect.
-Story-part19_2_6,"What a joke, don't you know the bloody nature of the Jiuli people who swear to death? Since you have come to your door, the chief of our tribe will accept it with a smile!"
-Story-part19_3_1,"As expected, they are a bunch of cowards who only know how to run away. The great cause of the chief of our tribe to reclaim the Jiuli base is just around the corner haha!"
-Story-part19_4_1,"Give up Miao Muli, if it comes to Inseparable fighting, you will never be the opponent of our sect."
-Story-part19_4_2,"Even so, what about it?"
-Story-part19_4_3,"The chief of our tribe has been guarding this place for generations. If you kill me, you will definitely lose the hearts of the Jiuli people."
-Story-part19_4_4,"Since the Miao chief is dedicated to reviving the Jiuli tribe, he must know a lot about the history of Jiuli's rise and fall, right?"
-Story-part19_4_5,"Of course, whether it's historical origins or local customs, the chief of our tribe knows everything!"
-Story-part19_4_6,"It is rumored that in ancient times, Jiuli had a chief who was known as the god of the army, who invented and forged various weapons. The Jiuli people used this weapon advantage to rise up and fight against the well-equipped Central Plains tribes in Zhuolu, and finally lost."
-Story-part19_4_7,"Huh, Chiyou, the chief of the tribe, is invincible, and in the end he just lost to your cunning Central Plains people."
-Story-part19_4_8,"At this time, Jiuli should be the strongest you can imagine, right? If our sect can help you Recovery this past glory?"
-Story-part19_4_9,"Now Jiuli has a unique weapon technique that has been passed down from mouth to mouth, but there is no Skillful Artisan and metal raw materials. As long as you are willing to join our sect, we can provide these, how about it?"
-Story-part19_4_10,"I didn't expect to bring up the story of Chiyou, the chief of the tribe... Well, I admit that what you just said is very attractive, but there is no proof, I want Ore and craftsmen now!"
-Story-part19_4_11,"Craftsmen are naturally no problem, but this ore..."
-Story-part19_4_12,"(Miao Muli was somewhat persuaded, should I give out the ore?)"
-Story-part19_op_1_1,"Hang on slowly, in case of repentance"
-Story-part19_op_1_2,"Trust the chief, give it now (-5000)"
-Story-part19_5_1,"Our sect's ore is not much, if you take it and repent, it will hurt."
-Story-part19_5_2,"You Central Plains people just like to treat others as fools, let's wait and see!"
-Story-part19_5_3,"Damn, Miao Muli suddenly ran into the woods, and there is probably no chance to negotiate again."
-Story-part19_6_1,"There is a mine of our sect nearby, which not only has a huge output, but also stores a large amount of ore. If you are willing to join our sect, we can transfer it to Jiuli Tribesman."
-Story-part19_6_2,"Okay, the chief of our tribe has made this deal, and I won't take your ore for nothing, just use this Manual to offset it."
-Story-part19_6_3,"However, if you find any unfavorable actions against Jiuli in the future, don't blame the Jiuli tribe for being Impulsive and reckless with you!"
-Story-part19_7_1,"Leader, I heard that there was an internal strife in the Jiuli tribe, and Miao Muli was betrayed and disappeared."
-Story-part19_7_2,"With Miao Muli missing, it's even harder for us to win over the Jiuli tribe..."
-Story-part20_1_1,"Leader, a new underground organization called ""Surprised Phoenix"" has recently appeared in Flame City. They not only bully the market, but also eliminate dissidents under various names, and have subtly become the underground ruler of Flame City."
-Story-part20_1_2,"The merchants and nobles of Flame City, as well as the underworld, are all very dissatisfied with the ""Surprised Phoenix"" organization, but they have all suffered losses in several confrontations."
-Story-part20_1_3,"Strange, if they want to control Flame City secretly, why would they offend various forces in Flame City?"
-Story-part20_1_4,"What's even stranger is that our Gatekeeping Disciple received a verbal message from the leader of ""Surprised Phoenix"", inviting you to meet at a certain tavern."
-Story-part20_1_5,"Hmph, thinking that a so-called Hongmen banquet can intimidate, it's really laughable."
-Story-part20_name,Hongmen Surprised Phoenix
-Story-part20_log,"An underground organization called Surprised Phoenix has suddenly risen in Flame City, inviting you to go alone."
-Story-part20_2_1,"This is the first time I, as the leader, have come to Flame City. The customs here are indeed very different from those in the Central Plains."
-Story-part20_2_2,"Turn this street, and you should be able to see the tavern where I agreed to meet with the leader of ""Surprised Phoenix""."
-Story-part20_2_3,"Leader, the other party may have set up an ambush in the tavern. We only have a few people. Should we reconsider?"
-Story-part20_2_4,"No problem, they not only underestimated my courage as the leader, but also underestimated my strength as the leader. Just go to the meeting."
-Story-part20_2_5,"{PlayerName}, today is your death day!"
-Story-part20_2_6,"These bastards actually started halfway, protect the leader!"
-Story-part20_3_1,"The timing of these assassins' sneak attacks is too good, and it will be more unfavorable to continue fighting. Retreat to the sect first!"
-Story-part20_4_1,"Report to the leader, these assassins have all been killed."
-Story-part20_4_2,"These assassins look fierce, but they are weak in fighting. They are just like feeding moves... Why is this?"
-Story-part20_4_3,"You cleaned up these Assassins in public\nMany people from Flame City who have been threatened and oppressed by Jing Luan have come forward\nNot only did they care about you, but they also regarded you as the savior of Flame City..."
-Story-part20_4_4,"(The tavern is just ahead, what should we do next?)"
-Story-part20_op_1_1,"Return to the sect, mobilize Disciples to hunt down the whole city"
-Story-part20_op_1_2,"Something is strange, continue to the tavern for the meeting"
-Story-part20_5_1,The appointment to see me is just a cover for assassination. There is no need to move forward. Retreat to the sect!
-Story-part20_6_1,"If these Assassins really want to assassinate me, they would definitely not fight so fake."
-Story-part20_6_2,"Something is strange, according to the original plan, we continue to go to the tavern for the meeting."
-Story-part20_6_3,"You walk into the tavern, but find it empty\nOnly a beautiful woman with outstanding demeanor is smiling..."
-Story-part20_6_4,"I didn't expect that after the Divine Flame Sect collapsed, the Suzaku envoy could establish such a powerful organization to oppose our sect in a short time. It's really a good method."
-Story-part20_6_5,"{PlayerSurName} Leader is joking, if I really want to be an enemy of your sect, why would I order those assassins to deliberately let water?"
-Story-part20_6_6,"Maybe it's because I'm afraid that if I really get rid of {PlayerSurName}, I won't be able to resist the subsequent retaliation from my sect."
-Story-part20_6_7,"No, no, I have no intention of harming you. The so-called assassination is just a play for others to watch."
-Story-part20_6_8,"After the Divine Flame Sect was destroyed, your sect occupied Flame City. But as the saying goes, a centipede dies but never falls, there are too many people here influenced by Fang Sect Master's residual power, and they have no good feelings for your sect."
-Story-part20_6_9,"But now it's different, you are the public enemy of Flame City, ""Jing Luan"". All kinds of forces in the city can't wait to ask your sect to take action and remove the ""Jing Luan"" thorn in their eyes."
-Story-part20_6_10,Is all this part of your plan?
-Story-part20_6_11,"Of course, the whole ""Jing Luan"" is a big gift for {PlayerSurName} Sect Master, it can be said that it was just a discarded piece of mine to join your sect from the beginning."
-Story-part20_6_12,"As long as you follow my plan, {MyFaction} will be able to completely control Flame City, and then radiate its influence to the entire Western Regions."
-Story-part20_6_13,"My exchange condition is not greedy, I just want an important position in your sect, how about this deal is still profitable~"
-Story-part20_6_14,"(Although Feng Xuanji calculated our sect, it is indeed beneficial and harmless to our sect. Should I agree or not?)"
-Story-part20_op_2_1,Refuse
-Story-part20_op_2_2,Agree
-Story-part20_7_1,"You are good at calculating, you are a rare talent, but I, as the sect leader, am not at ease to use such a person."
-Story-part20_7_2,"I, as the sect leader, cherish talents and give you a way to survive. You go."
-Story-part20_7_3,"If {PlayerSurName} Sect Master dare not use me, it is {MyFaction}'s own loss, goodbye!"
-Story-part20_8_1,"I didn't expect you to think so highly of our sect. I, as the sect leader, really like this big gift. I hope you can use this clever calculation on the enemies of our sect in the future."
-Story-part20_8_2,I thank the sect leader!
+Story-part19_1_1,"Master, ever since we occupied the Jiuli Tribe, Miao Muli has been running around and harassing our sect's properties. Please make a decision quickly.",ท่านเจ้าสำนัก นับแต่ที่เรายึดครองเผ่าจิ่วลี่ได้สำเร็จ พวกเมี้ยวมู่หลีก็เที่ยวระเหเร่ร่อนไปทั่ว ก่อกวนทรัพย์สินของสำนักเราอยู่มิขาด โปรดท่านเจ้าสำนักลงทัณฑ์พวกมันโดยเร็วเถิด!
+Story-part19_1_2,"Miao Muli has always been committed to reviving the Jiuli Tribe. Now that their ancestral land is occupied by our sect, it's natural for him to be furious and cause trouble.",พวกเมี้ยวมู่หลีนั้นถือเอาการฟื้นฟูเผ่าจิ่วลี่เป็นภารกิจมาโดยตลอด เมื่อแผ่นดินบรรพบุรุษถูกสำนักเรายึดครอง ย่อมโกรธแค้นเป็นธรรมดา และก่อเรื่องวุ่นวายอยู่มิหยุดหย่อน
+Story-part19_1_3,"Miao Muli is well-respected in this area. After careful consideration, I believe we should follow the example of Prime Minister Zhuge in the past and focus on appeasement.",เมี้ยวมู่หลีมีชื่อเสียงอยู่ในแถบนี้มานาน ข้าคิดใคร่ครวญดูแล้ว เห็นว่าควรใช้วิธีเช่นเดียวกับท่านอัครมหาเสนาบดีจูกัดเหลียงในกาลก่อน คือการเจรจาผูกมิตรเป็นหลัก
+Story-part19_name,Pacify Jiuli,เจรจาผูกมิตรกับเผ่าจิ่วลี่
+Story-part19_log,"Miao Muli often harasses your sect's industry, intending to reclaim the ancestral land, you are preparing to send someone to pacify.",เมี้ยวมู่หลีมันยังคงคอยก่อกวนทรัพย์สินของสำนักเรามิหยุดหย่อน หวังจะยึดแผ่นดินบรรพชนคืน ท่านจะส่งผู้ใดไปเจรจาเกลี้ยกล่อมมันให้สงบศึก?
+Story-part19_2_1,"You guys, guard this place for the chief of our tribe, remember not to let the Central Plains people mix in.",พวกเจ้าทั้งหลาย จงเฝ้าที่นี่ไว้ให้มั่น อย่าให้พวกคนจากจงหยวนย่างกรายเข้ามาได้แม้แต่ผู้เดียว
+Story-part19_2_2,"You guys, follow the chief of our tribe to raid {MyFaction}'s stronghold.",พวกเจ้าทั้งหลาย จงตามข้าไปจู่โจมฐานที่มั่นของ{MyFaction}!
+Story-part19_2_3,"Miao Muli, don't waste your effort, no matter how many times you harass, you can't shake the influence of our sect.",เมี้ยวมู่หลี อย่าเสียแรงเปล่าเลย ไม่ว่าพวกเจ้าจะก่อกวนสักกี่ครั้ง ก็ไม่อาจสั่นคลอนอิทธิพลของสำนักเราได้
+Story-part19_2_4,"The head of the sect knows that you are dedicated to reviving the Jiuli tribe, and you are not a Wolf who is ambitious for power and private gain, so we are sent to pacify you.",ท่านเจ้าสำนักทราบดีว่าท่านมุ่งมั่นที่จะฟื้นฟูเผ่าจิ่วลี่ และท่านมิใช่คนที่มีจิตใจใฝ่อำนาจและคิดร้าย ดังนั้นจึงส่งพวกเรามาเจรจาผูกไมตรีกับท่าน
+Story-part19_2_5,Our sect will guarantee the living expenses of the Jiuli Tribesman and a separate autonomous region. The only condition is that you and your people must give up attacking and join our sect.,สำนักเราจะรับประกันความเป็นอยู่ของชาวเผ่าจิ่วลี่ ทั้งเครื่องนุ่งห่ม อาหาร และที่อยู่อาศัย รวมถึงมอบเขตปกครองตนเองให้แก่พวกท่าน เงื่อนไขเดียวคือ ท่านและพวกพ้องของท่านต้องยุติการโจมตี และสวามิภักดิ์ต่อสำนักเรา
+Story-part19_2_6,"What a joke, don't you know the bloody nature of the Jiuli people who swear to death? Since you have come to your door, the chief of our tribe will accept it with a smile!",ช่างน่าขัน พวกเจ้าไม่รู้หรือว่าชาวจิ่วลี่มีจิตวิญญาณห้าวหาญที่ไม่ยอมจำนนต่อความตาย? ในเมื่อพวกเจ้าส่งตัวเองมาถึงที่แล้ว ข้าผู้เป็นหัวหน้าเผ่าก็ขอน้อมรับไว้ด้วยความยินดี!
+Story-part19_3_1,"As expected, they are a bunch of cowards who only know how to run away. The great cause of the chief of our tribe to reclaim the Jiuli base is just around the corner haha!",สมแล้วที่เป็นพวกขี้ขลาดตาขาว ดีแต่หนีไปวันๆ ความสำเร็จอันยิ่งใหญ่ในการทวงคืนแผ่นดินจิ่วลี่ของข้าผู้นำเผ่าคงอยู่ไม่ไกลแล้ว ฮ่าๆๆ!
+Story-part19_4_1,"Give up Miao Muli, if it comes to Inseparable fighting, you will never be the opponent of our sect.",หยุดดิ้นรนเสียเถิดเมี้ยวมู่หลี ในเรื่องการต่อสู้เอาชีวิต พวกเจ้าไม่มีวันเทียบสำนักเราได้
+Story-part19_4_2,"Even so, what about it?",ถึงกระนั้นแล้วอย่างไรเล่า?
+Story-part19_4_3,"The chief of our tribe has been guarding this place for generations. If you kill me, you will definitely lose the hearts of the Jiuli people.",ข้าผู้นำเผ่าปกป้องที่นี่มาทุกชั่วอายุคน หากพวกเจ้าสังหารข้า ย่อมสูญเสียศรัทธาจากชาวจิ่วลี่อย่างแน่นอน
+Story-part19_4_4,"Since the Miao chief is dedicated to reviving the Jiuli tribe, he must know a lot about the history of Jiuli's rise and fall, right?",หากท่านผู้นำเมี้ยวมู่หลีปรารถนาจะฟื้นฟูจิ่วลี่อย่างแท้จริง ย่อมต้องเชี่ยวชาญในประวัติศาสตร์การรุ่งเรืองและล่มสลายของเผ่าจิ่วลี่เป็นแน่ใช่หรือไม่?
+Story-part19_4_5,"Of course, whether it's historical origins or local customs, the chief of our tribe knows everything!",แน่นอนอยู่แล้ว ไม่ว่าจะเป็นต้นกำเนิดทางประวัติศาสตร์ หรือขนบธรรมเนียมประเพณี ข้าผู้นำเผ่าล้วนรู้แจ้งเห็นจริง!
+Story-part19_4_6,"It is rumored that in ancient times, Jiuli had a chief who was known as the god of the army, who invented and forged various weapons. The Jiuli people used this weapon advantage to rise up and fight against the well-equipped Central Plains tribes in Zhuolu, and finally lost.",ได้ยินว่าในยุคโบราณกาล เผ่าจิ่วลี่มีหัวหน้าเผ่าผู้หนึ่งได้ชื่อว่าเป็นเทพแห่งสงคราม ผู้ประดิษฐ์และสร้างอาวุธนานาชนิด ชาวจิ่วลี่ใช้ความได้เปรียบจากอาวุธนี้ในการผงาดขึ้นอย่างรวดเร็ว ต่อสู้กับเผ่าจากจงหยวนที่แข็งแกร่งและมีเสบียงมากมายที่จัวลู่ สุดท้ายก็พ่ายแพ้อย่างน่าเสียดาย
+Story-part19_4_7,"Huh, Chiyou, the chief of the tribe, is invincible, and in the end he just lost to your cunning Central Plains people.",ฮึ่ม ท่านผู้นำซือโยวหาญกล้าไร้เทียมทาน ที่พ่ายแพ้ก็เพราะพวกเจ้าชาวจงหยวนขี้โกงเท่านั้นแหละ
+Story-part19_4_8,"At this time, Jiuli should be the strongest you can imagine, right? If our sect can help you Recovery this past glory?",ยุคนั้นของจิ่วลี่ คงเป็นยุคที่รุ่งโรจน์ที่สุดเท่าที่ท่านจะนึกออกใช่ไหม? ถ้าหากสำนักเราสามารถช่วยให้ท่านนำความยิ่งใหญ่ในอดีตกลับคืนมาได้ล่ะ?
+Story-part19_4_9,"Now Jiuli has a unique weapon technique that has been passed down from mouth to mouth, but there is no Skillful Artisan and metal raw materials. As long as you are willing to join our sect, we can provide these, how about it?",จิ่วลี่ในยุคนี้มีเพียงเคล็ดวิชาอาวุธโบราณที่เล่าขานกันมา แต่ขาดแคลนช่างฝีมือและวัตถุดิบ หากท่านยอมร่วมมือกับสำนักเรา เราพร้อมจะสนับสนุนทุกสิ่ง ท่านสนใจหรือไม่?
+Story-part19_4_10,"I didn't expect to bring up the story of Chiyou, the chief of the tribe... Well, I admit that what you just said is very attractive, but there is no proof, I want Ore and craftsmen now!",ฮึ่ม ไม่คิดว่าเจ้าจะกล้าหยิบยกเรื่องราวของท่านผู้นำซือโยวมาพูด... ก็ดี ข้ายอมรับว่าข้อเสนอของเจ้ามันน่าล่อตาล่อใจ แต่คำพูดเปล่า ๆ มันเชื่อถือไม่ได้ บัดนี้ข้าต้องการแร่และช่างฝีมือมาพิสูจน์!
+Story-part19_4_11,"Craftsmen are naturally no problem, but this ore...",เรื่องช่างฝีมือเราจัดให้ได้ แต่เรื่องแร่นี่สิ...
+Story-part19_4_12,"(Miao Muli was somewhat persuaded, should I give out the ore?)",(เมี้ยวมู่หลีดูเหมือนจะคล้อยตามแล้ว จะให้แร่ไปดีหรือไม่นะ?)
+Story-part19_op_1_1,"Hang on slowly, in case of repentance",อย่าเพิ่งรีบร้อน ค่อยๆหยั่งเชิงไปก่อน ป้องกันการพลิกลิ้น
+Story-part19_op_1_2,"Trust the chief, give it now (-5000)",เชื่อมั่นในหัวหน้าเผ่า มอบให้ไปเลย (-5000)
+Story-part19_5_1,"Our sect's ore is not much, if you take it and repent, it will hurt.",แร่ของเราก็มีไม่มาก หากท่านได้ไปแล้วเปลี่ยนใจ คงต้องเจ็บใจแย่
+Story-part19_5_2,"You Central Plains people just like to treat others as fools, let's wait and see!",พวกเจ้าชาวฮั่นชอบดูถูกคนอื่นจริง ๆ คอยดูพวกเราให้ดี!
+Story-part19_5_3,"Damn, Miao Muli suddenly ran into the woods, and there is probably no chance to negotiate again.",ซวยแล้ว เมี้ยวมู่หลีหนีเข้าป่าไปเสียแล้ว สงสัยคงหมดโอกาสเจรจาแล้วล่ะ
+Story-part19_6_1,"There is a mine of our sect nearby, which not only has a huge output, but also stores a large amount of ore. If you are willing to join our sect, we can transfer it to Jiuli Tribesman.",ไม่ไกลจากที่นี่มีเหมืองแร่ของสำนักเราอยู่ เหมืองนี้มีผลผลิตมากมายมหาศาล และยังมีแร่สะสมอยู่อีกมาก หากท่านยอมร่วมมือกับสำนักเรา เราจะมอบเหมืองนี้ให้แก่ชาวจิ่วลี่
+Story-part19_6_2,"Okay, the chief of our tribe has made this deal, and I won't take your ore for nothing, just use this Manual to offset it.",ตกลง ข้ารับข้อเสนอของเจ้า และข้าจะไม่รับแร่ไปโดยไม่ให้อะไรตอบแทน ขอมอบคัมภีร์ลับเล่มนี้ให้เจ้าแทนค่าตอบแทน
+Story-part19_6_3,"However, if you find any unfavorable actions against Jiuli in the future, don't blame the Jiuli tribe for being Impulsive and reckless with you!",แต่หากภายหลังข้าพบว่าพวกเจ้ากระทำการใดที่เป็นภัยต่อชาวจิ่วลี่ อย่าเคืองที่เผ่าจิ่วลี่จะทำลายล้างพวกเจ้าให้สิ้นซากแล้วกัน!
+Story-part19_7_1,"Leader, I heard that there was an internal strife in the Jiuli tribe, and Miao Muli was betrayed and disappeared.",ท่านเจ้าสำนัก เกิดเรื่องใหญ่แล้ว ได้ข่าวว่าเผ่าจิ่วลี่แตกคอกัน เมี้ยวมู่หลีถูกคนในเผ่าหักหลัง และหายตัวไปอย่างไร้ร่องรอย
+Story-part19_7_2,"With Miao Muli missing, it's even harder for us to win over the Jiuli tribe...",เมี้ยวมู่หลีหายตัวไปแบบนี้ การเกลี้ยกล่อมเผ่าจิ่วลี่ของพวกเราคงยากขึ้นเป็นกอง...
+Story-part20_1_1,"Leader, a new underground organization called ""Surprised Phoenix"" has recently appeared in Flame City. They not only bully the market, but also eliminate dissidents under various names, and have subtly become the underground ruler of Flame City.","ท่านเจ้าสำนัก เกิดเรื่องใหญ่แล้ว ช่วงนี้ในเมืองอัคคีมีกลุ่มใต้ดินชื่อ ""หงส์เพลิงผลาญ"" โผล่ขึ้นมา พวกมันทั้งข่มเหงชาวบ้าน และกำจัดผู้ที่ขัดขวางพวกมัน จนแทบจะครองเมืองอัคคีอยู่แล้ว"
+Story-part20_1_2,"The merchants and nobles of Flame City, as well as the underworld, are all very dissatisfied with the ""Surprised Phoenix"" organization, but they have all suffered losses in several confrontations.","ทั้งพ่อค้า ขุนนาง และผู้มีอิทธิพลในเมืองอัคคี ต่างก็ขยะแขยงกลุ่ม""หงส์เพลิงผลาญ""เป็นอย่างยิ่ง แต่ทุกครั้งที่พวกเขาลุกขึ้นต่อต้าน ก็ต้องพบกับความพ่ายแพ้และสูญเสีย"
+Story-part20_1_3,"Strange, if they want to control Flame City secretly, why would they offend various forces in Flame City?",แปลกจริง ๆ ในเมื่อต้องการครองเมืองอัคคีอย่างลับ ๆ ทำไมถึงต้องหาเรื่องกับทุกกลุ่มอำนาจในเมืองอัคคีด้วย?
+Story-part20_1_4,"What's even stranger is that our Gatekeeping Disciple received a verbal message from the leader of ""Surprised Phoenix"", inviting you to meet at a certain tavern.","ที่น่าแปลกคือ ศิษย์เฝ้าประตูได้รับสารลับจากผู้นำของ ""หงส์เพลิงผลาญ"" และเชิญท่านไปพบที่โรงเตี๊ยมแห่งหนึ่งเป็นการส่วนตัว"
+Story-part20_1_5,"Hmph, thinking that a so-called Hongmen banquet can intimidate, it's really laughable.",หืม นึกว่าแค่จัดงานเลี้ยงตบตาจะขู่กันได้แล้ว ช่างน่าสมเพชสิ้นดี
+Story-part20_name,Hongmen Surprised Phoenix,งานเลี้ยงตบตาหงส์เพลิงผลาญ
+Story-part20_log,"An underground organization called Surprised Phoenix has suddenly risen in Flame City, inviting you to go alone.",องค์กรใต้ดินที่ชื่อว่าหงส์เพลิงผลาญผงาดขึ้นอย่างกะทันหันในเมืองอัคคี เชิญท่านไปพบตามลำพัง
+Story-part20_2_1,"This is the first time I, as the leader, have come to Flame City. The customs here are indeed very different from those in the Central Plains.",ข้าเพิ่งเคยมาเยือนเมืองอัคคีเป็นครั้งแรก วิถีชีวิตและผู้คนของที่นี่ช่างแปลกตาจากจงหยวนเสียจริง
+Story-part20_2_2,"Turn this street, and you should be able to see the tavern where I agreed to meet with the leader of ""Surprised Phoenix"".","เลี้ยวหัวมุมถนนนี้ไป คงจะถึงโรงเตี๊ยมที่นัดหมายกับผู้นำ ""หงส์เพลิงผลาญ"" แล้วกระมัง"
+Story-part20_2_3,"Leader, the other party may have set up an ambush in the tavern. We only have a few people. Should we reconsider?",ท่านเจ้าสำนัก ข้าเกรงว่าพวกมันจะซุ่มโจมตีอยู่ในโรงเตี๊ยม พวกเรามีคนน้อยนิด ควรจะคิดทบทวนให้ดีก่อนหรือไม่ขอรับ?
+Story-part20_2_4,"No problem, they not only underestimated my courage as the leader, but also underestimated my strength as the leader. Just go to the meeting.",ไม่ต้องห่วง พวกมันไม่เพียงแต่ดูถูกความกล้าหาญของข้า แต่ยังประเมินพลังของข้าต่ำเกินไป ไปตามนัดได้เลย
+Story-part20_2_5,"{PlayerName}, today is your death day!",{PlayerName} วันนี้คือวันตายของเจ้า!
+Story-part20_2_6,"These bastards actually started halfway, protect the leader!",พวกสารเลว กล้าดักโจมตีระหว่างทาง คุ้มครองท่านเจ้าสำนัก!
+Story-part20_3_1,"The timing of these assassins' sneak attacks is too good, and it will be more unfavorable to continue fighting. Retreat to the sect first!",พวกมันเลือกเวลาโจมตีได้เหมาะเจาะ หากสู้ต่อคงเสียท่า ถอยกลับสำนัก!
+Story-part20_4_1,"Report to the leader, these assassins have all been killed.",เรียนท่านเจ้าสำนัก พวกมือสังหารเหล่านั้นถูกพวกเรากำจัดจนหมดสิ้นแล้ว
+Story-part20_4_2,"These assassins look fierce, but they are weak in fighting. They are just like feeding moves... Why is this?",พวกมือสังหารพวกนี้ดูท่าทีฮึกเหิม แต่พอลงมือกลับอ่อนปวกเปียก ราวกับมาให้เราซ้อมมือ... นี่มันเรื่องอะไรกัน?
+Story-part20_4_3,"You cleaned up these Assassins in public\nMany people from Flame City who have been threatened and oppressed by Jing Luan have come forward\nNot only did they care about you, but they also regarded you as the savior of Flame City...","เมื่อท่านจัดการพวกมือสังหารต่อหน้าฝูงชน\nชาวเมืองอัคคีที่ทนทุกข์ทรมานจากการข่มเหงของหงส์เพลิงผลาญ ต่างพากันเข้ามาหาท่าน\nพวกเขาไม่เพียงแต่ถามไถ่สารทุกข์สุกดิบ แต่ยังยกย่องท่านราวกับเป็นวีรบุรุษผู้กอบกู้เมืองอัคคี..."
+Story-part20_4_4,"(The tavern is just ahead, what should we do next?)",(นั่นคือโรงเตี๊ยมที่นัดหมาย ข้าควรทำอย่างไรต่อไปดี?)
+Story-part20_op_1_1,"Return to the sect, mobilize Disciples to hunt down the whole city",กลับสำนัก ระดมศิษย์ปิดล้อมทั่วเมือง!
+Story-part20_op_1_2,"Something is strange, continue to the tavern for the meeting",มีเรื่องน่าสงสัย ไปพบที่โรงเตี๊ยมตามนัดหมาย
+Story-part20_5_1,The appointment to see me is just a cover for assassination. There is no need to move forward. Retreat to the sect!,การนัดพบข้าเป็นเพียงฉากบังหน้าของการลอบสังหาร ไม่จำเป็นต้องไปต่อ ถอยกลับสำนัก!
+Story-part20_6_1,"If these Assassins really want to assassinate me, they would definitely not fight so fake.",หากพวกมันต้องการลอบสังหารข้าจริง ๆ คงไม่แสดงละครตบตาเช่นนี้หรอก
+Story-part20_6_2,"Something is strange, according to the original plan, we continue to go to the tavern for the meeting.",มีเรื่องน่าสงสัย ตามแผนเดิม เราไปพบที่โรงเตี๊ยมตามนัดหมาย
+Story-part20_6_3,"You walk into the tavern, but find it empty\nOnly a beautiful woman with outstanding demeanor is smiling...","ท่านเดินเข้าไปในโรงเตี๊ยมแห่งนั้น กลับพบว่าภายในว่างเปล่า\nมีเพียงหญิงงามผู้หนึ่งที่มีสง่าราศีโดดเด่น ยิ้มแย้มอย่างมีเสน่ห์..."
+Story-part20_6_4,"I didn't expect that after the Divine Flame Sect collapsed, the Suzaku envoy could establish such a powerful organization to oppose our sect in a short time. It's really a good method.",ไม่คิดเลยว่าหลังจากนิกายเพลิงศักดิ์สิทธิ์ล่มสลาย ทูตหงส์แดงจะสามารถตั้งองค์กรที่แข็งแกร่งเช่นนี้ขึ้นมาภายในเวลาอันสั้นเพื่อต่อกรกับสำนักเรา ช่างเป็นฝีมือที่ยอดเยี่ยมจริงๆ
+Story-part20_6_5,"{PlayerSurName} Leader is joking, if I really want to be an enemy of your sect, why would I order those assassins to deliberately let water?",ท่านเจ้าสำนัก{PlayerSurName}ช่างพูดเกินจริง หากข้าคิดจะต่อกรกับสำนักท่านจริงๆ ไยข้าต้องสั่งให้พวกมันแสดงละครตบตาด้วยเล่า?
+Story-part20_6_6,"Maybe it's because I'm afraid that if I really get rid of {PlayerSurName}, I won't be able to resist the subsequent retaliation from my sect.",หรืออาจกลัวว่าหากสังหารท่านเจ้าสำนัก{PlayerSurName}ไปแล้ว จะรับมือกับการแก้แค้นของพวกเราไม่ไหวกระมัง
+Story-part20_6_7,"No, no, I have no intention of harming you. The so-called assassination is just a play for others to watch.",มิใช่เลย ข้ามิได้มีเจตนาทำร้ายท่านเลย การลอบสังหารที่เกิดขึ้นนั้นเป็นเพียงการแสดงละครให้ผู้อื่นได้ชมเท่านั้น
+Story-part20_6_8,"After the Divine Flame Sect was destroyed, your sect occupied Flame City. But as the saying goes, a centipede dies but never falls, there are too many people here influenced by Fang Sect Master's residual power, and they have no good feelings for your sect.",หลังจากนิกายเพลิงศักดิ์สิทธิ์ถูกทำลาย สำนักของท่านก็เข้าครอบครองเมืองอัคคี แต่คำโบราณกล่าวว่าตะขาบตายซากยังมีพิษ ผู้คนในเมืองนี้ยังคงจงรักภักดีต่อผู้นำนิกายฟาง และมิได้มีความรู้สึกดีต่อสำนักท่าน
+Story-part20_6_9,"But now it's different, you are the public enemy of Flame City, ""Jing Luan"". All kinds of forces in the city can't wait to ask your sect to take action and remove the ""Jing Luan"" thorn in their eyes.","แต่สถานการณ์เปลี่ยนไปแล้ว พวกท่านคือศัตรูของ ""หงส์เพลิงผลาญ"" ศัตรูร่วมของเมืองอัคคี ทุกฝ่ายในเมืองต่างหวังให้สำนักท่านช่วยกำจัดหนามยอกอก ""หงส์เพลิงผลาญ"" นี้ออกไป"
+Story-part20_6_10,Is all this part of your plan?,ทั้งหมดนี้ อยู่ในแผนของเจ้าหรือ?
+Story-part20_6_11,"Of course, the whole ""Jing Luan"" is a big gift for {PlayerSurName} Sect Master, it can be said that it was just a discarded piece of mine to join your sect from the beginning.","แน่นอน องค์กร ""หงส์เพลิงผลาญ"" ทั้งหมดนี้คือของกำนัลที่ข้ามอบให้ท่านเจ้าสำนัก{PlayerSurName} มันถูกสร้างขึ้นมาเพื่อเป็นเพียงเบี้ยตัวหนึ่งที่ข้าใช้เพื่อเข้าเป็นส่วนหนึ่งของสำนักท่าน"
+Story-part20_6_12,"As long as you follow my plan, {MyFaction} will be able to completely control Flame City, and then radiate its influence to the entire Western Regions.",หากทำตามแผนของข้า {MyFaction}จะสามารถยึดครองเมืองอัคคีได้อย่างเด็ดขาด และแผ่อำนาจไปทั่วดินแดนตะวันตก
+Story-part20_6_13,"My exchange condition is not greedy, I just want an important position in your sect, how about this deal is still profitable~",ข้อเสนอของข้ามิได้เรียกร้องอะไรมากมาย เพียงแค่ตำแหน่งสำคัญในสำนักของท่านเท่านั้น ข้อแลกเปลี่ยนนี้ยังน่าสนใจอยู่หรือไม่?
+Story-part20_6_14,"(Although Feng Xuanji calculated our sect, it is indeed beneficial and harmless to our sect. Should I agree or not?)",(แม้ว่าเฟิ่งเสวียนจีจะวางแผนหลอกล่อสำนักเรา แต่ก็ดูเหมือนว่าจะนำมาซึ่งผลประโยชน์ ควรจะตกลงหรือไม่?)
+Story-part20_op_2_1,Refuse,ขอปฏิเสธ
+Story-part20_op_2_2,Agree,ตกลง
+Story-part20_7_1,"You are good at calculating, you are a rare talent, but I, as the sect leader, am not at ease to use such a person.",เจ้าชำนาญการวางแผน เป็นบุคคลากรที่หาได้ยาก แต่ข้าไม่อาจไว้ใจคนเช่นเจ้าได้
+Story-part20_7_2,"I, as the sect leader, cherish talents and give you a way to survive. You go.",ข้าเห็นว่าเจ้ามีฝีมือ จึงไว้ชีวิตเจ้า เจ้าจงไปตามทางของเจ้าเถิด
+Story-part20_7_3,"If {PlayerSurName} Sect Master dare not use me, it is {MyFaction}'s own loss, goodbye!",ท่านเจ้าสำนัก{PlayerSurName}ช่างตาถั่ว ไม่กล้าใช้คนอย่างข้า นับเป็นความโง่เขลาของ{MyFaction} ข้าขอตัว!
+Story-part20_8_1,"I didn't expect you to think so highly of our sect. I, as the sect leader, really like this big gift. I hope you can use this clever calculation on the enemies of our sect in the future.",ไม่คาดคิดว่าเจ้าจะเห็นคุณค่าของสำนักเราถึงเพียงนี้ ของกำนัลชิ้นใหญ่นี้เจ้าสำนักอย่างข้าชอบใจยิ่งนัก หวังว่าเจ้าจะนำความเฉลียวฉลาดนี้ไปใช้กับศัตรูของสำนักเราในภายภาคหน้า
+Story-part20_8_2,I thank the sect leader!,ข้าขอขอบคุณท่านเจ้าสำนัก!
 Story-part20_8_3,This Solar Fist Manual was secretly taken by me when the Divine Flame Sect was destroyed. Now it is just right to give it to our sect.,ตำราวิชาหมัดสุรีย์ผลาญเล่มนี้ เป็นสิ่งที่ข้าลอบนำติดตัวออกมาเมื่อครั้งนิกายเพลิงศักดิ์สิทธิ์ล่มสลาย ตอนนี้ข้าขอมอบมันแก่สำนักของเรา เพื่อเป็นการแสดงความภักดีจากข้า!
-Story-part20_9_1,"Sect leader, the leader of ""Jing Luan"" suddenly disappeared, and the major forces in Flame City took this opportunity to eradicate this public enemy of Flame City."
-Story-part20_9_2,"You can't live by doing evil, it also saves our sect trouble."
-Story-part21_1_1,"Sect leader, our sect is now growing and developing, and it has the qualifications to dominate the world. But in my opinion, there is still a long-term worry."
-Story-part21_1_2,Oh? What is the long-term worry?
-Story-part21_1_3,"The long-term worry of our sect is the reserve of talents in the sect, which cannot keep up with the expansion speed of our sect."
-Story-part21_1_4,"I have an Intimate friend who is proud and powerful. He was originally the White Tiger Envoy of the Divine Flame Sect, but he had many conflicts with Fang Xiaoian and finally Run away from the sect and lived in seclusion in Bailing Mountain."
-Story-part21_1_5,"If the sect leader wants to recruit this person, you can send a Disciple to find him in Bailing Mountain, and don't send more. If he refuses, just show my token."
-Story-part21_1_6,"Since such a talent, I will personally contact him."
-Story-part21_name,White Tiger Breaks Army
-Story-part21_log,"Feng Xuanji recommends her friend to join your sect, you are ready to send someone to contact."
-Story-part21_2_1,"From the moment you climbed the snow mountain, I have been watching you."
-Story-part21_2_2,I am {MyFaction}...
-Story-part21_2_3,I'm not interested in who you are.
-Story-part21_2_4,You have such skills but live alone on the snow mountain. You must be very lonely. Why not make a friend.
-Story-part21_2_5,I don't need friends.
-Story-part21_2_6,"Get out, don't challenge my patience."
-Story-part21_2_7,What if I don't want to roll?
-Story-part21_2_8,Then let me try how good you are!
-Story-part21_3_1,"If you don't roll again, I will kill you."
-Story-part21_3_2,"It's too cold here, martial arts can't be used at all, I have to give up."
-Story-part21_4_1,You are not bad...
-Story-part21_4_2,"You are not bad either, do you consider joining our sect?"
-Story-part21_4_3,"Just with you, you are not qualified."
-Story-part21_4_4,"What if I say, it's Miss Feng Xuanji who wants you to join our sect?"
-Story-part21_4_5,What! You've seen her?
-Story-part21_4_6,"Not only have I seen her, but I also have this Golden Thread Phoenix Hairpin as a token. She needs you to help our sect."
-Story-part21_4_7,She... she finally agreed to accept my help...
-Story-part21_4_8,"Thank you for delivering the message, brother. My martial arts skills are decent enough to be presented on stage. Consider it a thank you gift for your sect taking care of Feng'er."
-Story-part21_5_1,The sect leader hasn't sent anyone to contact the former White Tiger Envoy for so long. I guess he doesn't think highly of this person.
-Story-part21_5_2,The quality of soldiers matters more than the quantity. There's no rush to recruit talents at the moment.
-Story-part22_1_1,I received information from a spy today. A group of unidentified people are planning to besiege Chang'an Inn. I hope the sect leader can send someone to lift the siege.
-Story-part22_1_2,"Chang'an Inn is no longer safe. If the sect leader could send someone to bring her back to the sect, I would be very grateful."
-Story-part22_1_3,"Leave this minor matter to me, the sect leader."
-Story-part22_name,Chang'an Inn
-Story-part22_log,"The Chang'an Inn, run by the Feng Xuanji sisters, is besieged by villains. She asks for your help."
-Story-part22_2_1,"Haitang Qiu, today Chang'an Inn has been surrounded by us, there will be no more reinforcements, you surrender."
-Story-part22_2_2,"My inn has been open for so long, what kind of storm has not experienced, just by these few people also want to scare me!"
-Story-part22_2_3,"Your Chang'an Inn has been open for too long, it's time to change hands. Now that the Divine Flame Sect is destroyed, Feng Xuanji is missing, let's see who can protect you this time!"
-Story-part22_2_4,I alone will protect it. Do you have a problem with that?
-Story-part22_2_5,"Chang'an Inn is already under the control of us {MyFaction}, even if you want to beat a dog, you should see who the owner is, let alone such an outstanding Innkeeper."
-Story-part22_2_6,You're full of big words. Don't think I'll be afraid of you just because you mention the name of {MyFaction}.
-Story-part22_3_1,"Go back to your milk, haha, Haitang Qiu and this Chang'an Inn are mine!"
-Story-part22_3_2,I couldn't save the Innkeeper. I don't know how to explain this to Miss Feng...
-Story-part22_4_1,"A bunch of fools who don't know their own limitations, dare to make trouble under the nose of the powerful."
-Story-part22_4_2,"Innkeeper, did they hurt you?"
-Story-part22_4_3,Their skills can't hurt a single hair on me.
-Story-part22_4_4,By the way... how did you know about the trouble in my inn?
-Story-part22_4_5,Feng Xuanji knew you were in trouble and repeatedly asked me to come and help. You should thank her.
-Story-part22_4_6,"Of course, but since the Divine Flame Sect was destroyed, I haven't heard from her. Where is she now?"
-Story-part22_4_7,Miss Feng has joined our sect. She asked me to tell you that Chang'an Inn is no longer safe and hopes you will join {MyFaction} as well.
-Story-part22_4_8,"This Chang'an Inn is my family business, how can I just abandon it... Never mind, after all, it was you and her who saved me..."
-Story-part22_4_9,"Wait for me to pack up my belongings, then you can take me to the sect to see her."
-Story-part22_5_1,"Sect leader, Chang'an Inn has been raided by someone, and even the Innkeeper Haitang Qiu has disappeared."
-Story-part22_5_2,"Damn, I forgot about Miss Feng's commission. I've let her down..."
-Story-part23_1_1,"Sect leader, there's someone you'd never expect who has come to our sect and wants to see you."
-Story-part23_1_2,"I, the sect leader, have seen all kinds of people. Who could possibly surprise me?"
-Story-part23_1_3,"{PlayerSurName} Sect leader, it's me..."
-Story-part23_1_4,"Tsukuyo Sakuraha? You, the remnant of Great Ant City, dare to come to our sect?"
-Story-part23_1_5,"You people from Great Ant City first occupied Lin'an for your own interests, causing countless people to be displaced."
-Story-part23_1_6,"Then you crazily expanded to get a piece of the Central Plains, causing heavy casualties among the martial arts community."
-Story-part23_1_7,"Believe it or not, if I spread the news of your presence here, there will be countless people rushing to bring you to justice.",เจ้าเชื่อหรือไม่? หากข้าเผยแพร่ข่าวการปรากฏตัวของท่านที่นี่ จะมีผู้คนมากมายหลั่งไหลมาเพื่อนำท่านไปลงโทษ
-Story-part23_1_8,"{PlayerSurName}Sect Leader, it's because of my trust in you... that I have to find you."
-Story-part23_1_9,"Actually, when the Great Ant City was destroyed, it wasn't just me who escaped, but also the real mastermind behind the invasion of Great Ant City, Hisahide Saito. My father didn't want to do such a devastating thing, but he was forced to do so by Saito, who threatened me."
-Story-part23_1_10,"The one who was captured was just Saito's Shadow Warrior. He himself has taken advantage of the laxity of the Central Plains martial arts world, and is preparing to retreat to Dongying with the Imperial Seal, attempting to make a comeback."
-Story-part23_1_11,Why are you telling me all this?
-Story-part23_1_12,"Because I don't want to make the same mistake again. If Saito gets what he wants, then Dongying and Zhao will become mortal enemies, fighting endlessly!"
-Story-part23_1_13,"{PlayerSurName}Sect Leader, you are the martial arts hero I admire the most, please help me atone for this sin..."
-Story-part23_1_14,"Although there are many things I don't understand, I will help you with this. I hope you can explain it to me later. Time is of the essence, let's go!"
+Story-part20_9_1,"Sect leader, the leader of ""Jing Luan"" suddenly disappeared, and the major forces in Flame City took this opportunity to eradicate this public enemy of Flame City.","ท่านเจ้าสำนัก ผู้นำของ""หงส์เพลิงผลาญ""หายตัวไปอย่างกะทันหัน กลุ่มอำนาจต่างๆในเมืองอัคคี จึงถือโอกาสนี้กำจัดศัตรูร่วมของเมืองอัคคีให้สิ้นซาก"
+Story-part20_9_2,"You can't live by doing evil, it also saves our sect trouble.",กรรมตามสนอง ช่วยให้สำนักเราไม่ต้องยุ่งยาก
+Story-part21_1_1,"Sect leader, our sect is now growing and developing, and it has the qualifications to dominate the world. But in my opinion, there is still a long-term worry.",ท่านเจ้าสำนัก สำนักของเราในตอนนี้แข็งแกร่งจนแทบจะครองความเป็นใหญ่ในยุทธภพได้แล้ว แต่ข้ายังเห็นว่ามีภัยซ่อนเร้นอยู่
+Story-part21_1_2,Oh? What is the long-term worry?,โอ้? ภัยอันใดกัน?
+Story-part21_1_3,"The long-term worry of our sect is the reserve of talents in the sect, which cannot keep up with the expansion speed of our sect.",ภัยที่น่ากังวลของสำนักเรา คือการขาดแคลนกำลังคนที่จะตามการเติบโตของสำนักเราไปได้ทัน
+Story-part21_1_4,"I have an Intimate friend who is proud and powerful. He was originally the White Tiger Envoy of the Divine Flame Sect, but he had many conflicts with Fang Xiaoian and finally Run away from the sect and lived in seclusion in Bailing Mountain.",ข้ามีสหายสนิทผู้หนึ่ง นิสัยหยิ่งผยองแต่มีฝีมือสูงส่ง เดิมทีเขาคือทูตพยัคฆ์ขาวแห่งนิกายเพลิงศักดิ์สิทธิ์ แต่มีความขัดแย้งกับฟางเซียวเทียนหลายอย่าง จนในที่สุดก็ออกจากนิกายไปซ่อนตัวอยู่ในเขาไป๋หลิง
+Story-part21_1_5,"If the sect leader wants to recruit this person, you can send a Disciple to find him in Bailing Mountain, and don't send more. If he refuses, just show my token.",หากท่านเจ้าสำนักปรารถนาจะเชิญเขามา ท่านสามารถส่งศิษย์เพียงคนเดียวไปหาเขาที่เขาไป๋หลิง หากเขาปฏิเสธ ก็จงแสดงสิ่งแทนตัวของข้าให้เขาได้ยล
+Story-part21_1_6,"Since such a talent, I will personally contact him.",ในเมื่อเป็นยอดคนเช่นนั้น ข้าจะไปเชิญเขามาด้วยตัวเอง
+Story-part21_name,White Tiger Breaks Army,พยัคฆ์ขาวผลาญทัพ
+Story-part21_log,"Feng Xuanji recommends her friend to join your sect, you are ready to send someone to contact.",เฟิ่งเสวียนจีแนะนำสหายคนหนึ่งให้เข้าร่วมสำนักของเรา ท่านเตรียมจะส่งคนไปติดต่อเขา
+Story-part21_2_1,"From the moment you climbed the snow mountain, I have been watching you.",ตั้งแต่เจ้าเริ่มเหยียบย่างขึ้นเขาหิมะ ข้าก็คอยเฝ้ามองเจ้าอยู่ตลอด
+Story-part21_2_2,I am {MyFaction}...,ข้าคือ{MyFaction}...
+Story-part21_2_3,I'm not interested in who you are.,ข้าไม่สนใจว่าเจ้าเป็นใคร
+Story-part21_2_4,You have such skills but live alone on the snow mountain. You must be very lonely. Why not make a friend.,ท่านมีฝีมือล้ำเลิศเช่นนี้ แต่กลับปลีกวิเวกอยู่บนเขาหิมะ คงจะเปล่าเปลี่ยวใจอยู่บ้าง มาเป็นสหายกันเถิด
+Story-part21_2_5,I don't need friends.,ข้าไม่ต้องการสหาย
+Story-part21_2_6,"Get out, don't challenge my patience.",ไสหัวไป อย่าท้าทายความอดทนของข้า
+Story-part21_2_7,What if I don't want to roll?,ถ้าข้าไม่ไป เจ้าจะทำอะไรข้าได้เล่า?
+Story-part21_2_8,Then let me try how good you are!,เช่นนั้นก็ให้ข้าได้พิสูจน์ฝีมือเจ้าสักหน่อย!
+Story-part21_3_1,"If you don't roll again, I will kill you.",ถ้าเจ้ายังไม่ไสหัวไป ข้าจะฆ่าเจ้า
+Story-part21_3_2,"It's too cold here, martial arts can't be used at all, I have to give up.",ที่นี่หนาวเหน็บเกินไป วรยุทธ์ไม่อาจสำแดงได้ จำต้องยอมแพ้
+Story-part21_4_1,You are not bad...,เจ้ามีฝีมือใช้ได้...
+Story-part21_4_2,"You are not bad either, do you consider joining our sect?",เจ้าก็มีฝีมือดี สนใจมาร่วมเป็นศิษย์สำนักเราไหม?
+Story-part21_4_3,"Just with you, you are not qualified.",ด้วยฝีมือแค่นี้ เจ้ายังไม่คู่ควร
+Story-part21_4_4,"What if I say, it's Miss Feng Xuanji who wants you to join our sect?",หากเป็นแม่นางเฟิ่งเสวียนจีที่ต้องการให้ท่านมาเป็นส่วนหนึ่งของสำนักเรา ท่านจะว่าอย่างไร?
+Story-part21_4_5,What! You've seen her?,อะไรนะ! เจ้าเคยพบนางหรือ?
+Story-part21_4_6,"Not only have I seen her, but I also have this Golden Thread Phoenix Hairpin as a token. She needs you to help our sect.",มิใช่แค่เคยพบ ยังมีปิ่นทองรูปหงส์นี้เป็นหลักฐาน นางต้องการให้ท่านช่วยเหลือสำนักเราอย่างเต็มกำลัง
+Story-part21_4_7,She... she finally agreed to accept my help...,นาง... ในที่สุดนางก็ยอมรับความหวังดีจากข้าแล้ว...
+Story-part21_4_8,"Thank you for delivering the message, brother. My martial arts skills are decent enough to be presented on stage. Consider it a thank you gift for your sect taking care of Feng'er.",ขอบคุณท่านที่มาแจ้งข่าว วรยุทธ์ของข้าผู้นี้พอจะขึ้นชื่อได้บ้าง ถือเป็นของกำนัลที่สำนักท่านดูแลเฟิ่งเอ๋อร์ก็แล้วกัน
+Story-part21_5_1,The sect leader hasn't sent anyone to contact the former White Tiger Envoy for so long. I guess he doesn't think highly of this person.,ท่านเจ้าสำนักมิได้ส่งคนไปเชิญอดีตทูตพยัคฆ์ขาวนานถึงเพียงนี้ ข้าคงคิดผิดไปเองว่าท่านจะสนใจเขา
+Story-part21_5_2,The quality of soldiers matters more than the quantity. There's no rush to recruit talents at the moment.,ทหารหาญมิใช่มีมากแต่ต้องมีฝีมือ การรับคนดีมีฝีมือเข้าสำนักยังไม่จำเป็นต้องรีบร้อน
+Story-part22_1_1,I received information from a spy today. A group of unidentified people are planning to besiege Chang'an Inn. I hope the sect leader can send someone to lift the siege.,วันนี้ข้าได้รับข่าวจากสายลับว่า มีกลุ่มคนลึกลับกลุ่มหนึ่งพยายามจะล้อมโรงเตี๊ยมฉางอัน ขอความกรุณาท่านเจ้าสำนักส่งคนไปช่วยคลี่คลายสถานการณ์ด้วย
+Story-part22_1_2,"Chang'an Inn is no longer safe. If the sect leader could send someone to bring her back to the sect, I would be very grateful.",โรงเตี๊ยมฉางอันมิใช่ที่ปลอดภัยอีกต่อไป หากท่านเจ้าสำนักโปรดส่งคนไปรับนางกลับมายังสำนัก ข้าจะขอบพระคุณท่านอย่างหาที่สุดมิได้
+Story-part22_1_3,"Leave this minor matter to me, the sect leader.",เรื่องแค่นี้ ให้ข้าผู้นำสำนักจัดการเอง
+Story-part22_name,Chang'an Inn,โรงเตี๊ยมฉางอัน
+Story-part22_log,"The Chang'an Inn, run by the Feng Xuanji sisters, is besieged by villains. She asks for your help.",โรงเตี๊ยมฉางอันของน้องสาวเฟิ่งเสวียนจีถูกกลุ่มคนร้ายปิดล้อม นางขอให้ท่านไปช่วยเหลือโดยด่วน
+Story-part22_2_1,"Haitang Qiu, today Chang'an Inn has been surrounded by us, there will be no more reinforcements, you surrender.",ไห่ถังฉิว วันนี้โรงเตี๊ยมฉางอันถูกพวกเราล้อมไว้หมดแล้ว ไม่มีใครมาช่วยเจ้าได้อีกแล้ว จงยอมจำนนเสียเถิด
+Story-part22_2_2,"My inn has been open for so long, what kind of storm has not experienced, just by these few people also want to scare me!",โรงเตี๊ยมของข้าเปิดมานานขนาดนี้ คิดว่าเคยผ่านอะไรมาบ้างเล่า แค่คนพวกนี้คิดจะทำให้ข้ากลัวหรือ!
+Story-part22_2_3,"Your Chang'an Inn has been open for too long, it's time to change hands. Now that the Divine Flame Sect is destroyed, Feng Xuanji is missing, let's see who can protect you this time!",โรงเตี๊ยมฉางอันของเจ้าเปิดมานานเกินไปแล้ว ถึงเวลาเปลี่ยนมือได้แล้ว ตอนนี้นิกายเพลิงศักดิ์สิทธิ์ก็ดับสูญ เฟิ่งเสวียนจีก็หายหัวไป ข้าจะดูว่าใครมันจะกล้ามาช่วยเจ้า!
+Story-part22_2_4,I alone will protect it. Do you have a problem with that?,ข้ามาช่วยนางเพียงลำพัง เจ้ามีปัญหาหรือไม่?
+Story-part22_2_5,"Chang'an Inn is already under the control of us {MyFaction}, even if you want to beat a dog, you should see who the owner is, let alone such an outstanding Innkeeper.",โรงเตี๊ยมฉางอันเป็นเขตปกครองของสำนัก{MyFaction}แล้ว การตีสุนัขยังต้องดูหน้าเจ้าของ นับประสาอะไรกับเถ้าแก่เนี้ยไห่ผู้สง่างามเช่นนี้
+Story-part22_2_6,You're full of big words. Don't think I'll be afraid of you just because you mention the name of {MyFaction}.,พูดจาโอ้อวด อย่าคิดว่าข้าจะเกรงกลัวเจ้าเพราะเอาชื่อสำนัก{MyFaction}มาข่มขู่
+Story-part22_3_1,"Go back to your milk, haha, Haitang Qiu and this Chang'an Inn are mine!",กลับไปดูดนมแม่ไป๊ ฮ่าๆๆ ข้าจะเอาทั้งโรงเตี๊ยมฉางอันและไห่ถังชิวมาเป็นของข้า!
+Story-part22_3_2,I couldn't save the Innkeeper. I don't know how to explain this to Miss Feng...,พลาดท่าช่วยเหลือเถ้าแก่เนี้ยไห่ไม่ได้ ไม่รู้จะบอกแม่นางเฟิ่งอย่างไรดี...
+Story-part22_4_1,"A bunch of fools who don't know their own limitations, dare to make trouble under the nose of the powerful.",พวกเศษสวะที่ไม่รู้จักเจียมตัว กล้าดีอย่างไรมาลองดีกับผู้มีอำนาจ!
+Story-part22_4_2,"Innkeeper, did they hurt you?",เถ้าแก่เนี้ย ท่านไม่เป็นอะไรใช่ไหม?
+Story-part22_4_3,Their skills can't hurt a single hair on me.,ฝีมือแค่นี้ ทำอะไรข้าไม่ได้แม้แต่ปลายเล็บหรอก
+Story-part22_4_4,By the way... how did you know about the trouble in my inn?,ว่าแต่... พวกท่านรู้เรื่องในโรงเตี๊ยมของข้าได้อย่างไรกัน?
+Story-part22_4_5,Feng Xuanji knew you were in trouble and repeatedly asked me to come and help. You should thank her.,เฟิ่งเสวียนจีรู้ว่าท่านมีภัย จึงวิงวอนให้ข้ามาช่วยเหลือ ท่านควรขอบคุณนางให้มากๆ
+Story-part22_4_6,"Of course, but since the Divine Flame Sect was destroyed, I haven't heard from her. Where is she now?",แน่นอนอยู่แล้ว แต่หลังจากนิกายเพลิงศักดิ์สิทธิ์ล่มสลาย ข้าก็ไม่ได้รับข่าวคราวนางอีกเลย ตอนนี้นางอยู่ที่ใดกัน?
+Story-part22_4_7,Miss Feng has joined our sect. She asked me to tell you that Chang'an Inn is no longer safe and hopes you will join {MyFaction} as well.,แม่นางเฟิ่งได้เข้ามาเป็นส่วนหนึ่งของสำนักเราแล้ว นางฝากข้ามาแจ้งว่าโรงเตี๊ยมฉางอันไม่ปลอดภัยอีกต่อไป นางหวังว่าท่านจะมาร่วมเป็นพวกเดียวกับสำนัก{MyFaction}ของเรา
+Story-part22_4_8,"This Chang'an Inn is my family business, how can I just abandon it... Never mind, after all, it was you and her who saved me...",โรงเตี๊ยมฉางอันเป็นสมบัติที่สืบทอดกันมา จะให้ข้าทิ้งไปง่ายๆ ได้อย่างไร... แต่ช่างมันเถอะ ในเมื่อนางกับพวกท่านช่วยชีวิตข้าไว้...
+Story-part22_4_9,"Wait for me to pack up my belongings, then you can take me to the sect to see her.",รอข้าเก็บของมีค่าสักครู่ ท่านพาข้าไปพบนางที่สำนักด้วยเถิด
+Story-part22_5_1,"Sect leader, Chang'an Inn has been raided by someone, and even the Innkeeper Haitang Qiu has disappeared.",ท่านเจ้าสำนัก โรงเตี๊ยมฉางอันถูกบุกรุกจนราบคาบ ทั้งเถ้าแก่เนี้ยไห่ถังชิวก็หายตัวไปอย่างไร้ร่องรอย
+Story-part22_5_2,"Damn, I forgot about Miss Feng's commission. I've let her down...",แย่แล้ว ลืมคำขอของเฟิ่งเสวียนจีไปเสียสนิท คราวนี้คงต้องขอโทษนางเสียแล้ว...
+Story-part23_1_1,"Sect leader, there's someone you'd never expect who has come to our sect and wants to see you.",ท่านเจ้าสำนัก มีผู้หนึ่งที่ท่านมิคาดคิดมาเยือนสำนัก ต้องการเข้าพบท่าน
+Story-part23_1_2,"I, the sect leader, have seen all kinds of people. Who could possibly surprise me?",ข้าพบเจอผู้คนมาทุกรูปแบบแล้ว จะมีผู้ใดที่ข้าคาดไม่ถึงได้อย่างไร?
+Story-part23_1_3,"{PlayerSurName} Sect leader, it's me...",ท่านเจ้าสำนัก{PlayerSurName} ข้าเอง...
+Story-part23_1_4,"Tsukuyo Sakuraha? You, the remnant of Great Ant City, dare to come to our sect?",ซึคุโยะ ซากุระฮะ? เจ้าในฐานะเศษเดนของเมืองผีฝูกล้าดียังไงมาเหยียบย่ำสำนักของข้า!
+Story-part23_1_5,"You people from Great Ant City first occupied Lin'an for your own interests, causing countless people to be displaced.",พวกเมืองผีฝูของเจ้า เริ่มต้นจากการบุกยึดหลินอันเพื่อผลประโยชน์ส่วนตน ทำให้ชาวเมืองต้องไร้ที่อยู่อาศัยเป็นจำนวนมาก
+Story-part23_1_6,"Then you crazily expanded to get a piece of the Central Plains, causing heavy casualties among the martial arts community.",ยังไม่พอ พวกเจ้ายังขยายอำนาจอย่างบ้าคลั่งเพื่อหวังครอบครองแผ่นดินจงหยวน เหล่าจอมยุทธ์ในยุทธภพต้องล้มตายไปเป็นจำนวนมาก
+Story-part23_1_7,"Believe it or not, if I spread the news of your presence here, there will be countless people rushing to bring you to justice.",เจ้าเชื่อหรือไม่? หากข้าเผยแพร่ข่าวการปรากฏตัวของเจ้าที่นี่ จะมีผู้คนมากมายหลั่งไหลมาเพื่อนำเจ้าไปลงโทษ
+Story-part23_1_8,"{PlayerSurName}Sect Leader, it's because of my trust in you... that I have to find you.",ท่านเจ้าสำนัก{PlayerSurName} ข้าเชื่อ... และเพราะข้าเชื่อ ข้าจึงมีเหตุผลที่ต้องมาพบท่าน
+Story-part23_1_9,"Actually, when the Great Ant City was destroyed, it wasn't just me who escaped, but also the real mastermind behind the invasion of Great Ant City, Hisahide Saito. My father didn't want to do such a devastating thing, but he was forced to do so by Saito, who threatened me.",ความจริงแล้ว ตอนเมืองผีฝูล่มสลาย มิใช่ข้าเพียงผู้เดียวที่หลบหนีออกมา ยังมีไซโต้ฮิซาฮิเดะ ผู้บงการตัวจริงเบื้องหลังการบุกรุกของเมืองผีฝูในครานี้ บิดาของข้าแต่เดิมมิได้ปรารถนาจะกระทำการอันก่อให้เกิดความเดือดร้อนแก่ผู้คน แต่ถูกไซโต้ใช้ข้าเป็นตัวประกัน จึงจำต้องกระทำตาม
+Story-part23_1_10,"The one who was captured was just Saito's Shadow Warrior. He himself has taken advantage of the laxity of the Central Plains martial arts world, and is preparing to retreat to Dongying with the Imperial Seal, attempting to make a comeback.",คนที่ถูกจับไปเป็นเพียงตัวปลอมของไซโต้ ตัวจริงของมันฉวยโอกาสที่ยุทธภพจงหยวนของพวกท่านเผลอ นำตราหยกประจำแผ่นดินหนีกลับไปยังแดนอาทิตย์อุทัย หมายจะกลับมาตั้งตัวอีกครั้ง
+Story-part23_1_11,Why are you telling me all this?,เหตุใดเจ้าจึงบอกข้าเรื่องเหล่านี้?
+Story-part23_1_12,"Because I don't want to make the same mistake again. If Saito gets what he wants, then Dongying and Zhao will become mortal enemies, fighting endlessly!",เพราะข้าไม่อยากทำผิดพลาดอีกแล้ว หากปล่อยให้ไซโต้สมปรารถนา แดนอาทิตย์อุทัยและแคว้นจ้าวจะต้องกลายเป็นศัตรูคู่อาฆาต ไม่มีวันจบสิ้น!
+Story-part23_1_13,"{PlayerSurName}Sect Leader, you are the martial arts hero I admire the most, please help me atone for this sin...",ท่านเจ้าสำนัก{PlayerSurName} ท่านคือจอมยุทธ์ที่ข้าเลื่อมใสที่สุด ได้โปรดช่วยข้าไถ่บาปนี้ด้วยเถิด...
+Story-part23_1_14,"Although there are many things I don't understand, I will help you with this. I hope you can explain it to me later. Time is of the essence, let's go!",แม้ข้าจะยังไม่เข้าใจหลายสิ่ง แต่ข้าจะช่วยเจ้า หวังว่าเมื่อถึงเวลา เจ้าจะอธิบายให้ข้ากระจ่างแจ้งได้ ความเร็วเป็นสิ่งสำคัญ รีบไปกันเถิด!
 Story-part23_name,Imperial Seal,ตราประทับแผ่นดิน
-Story-part23_log,You have learned that Hisahide Saito is trying to return to Dongying with the Imperial Seal.
-Story-part23_2_1,"These Zhao people are really stupid. I have the Imperial Seal in my hand, and they are still celebrating their victory."
-Story-part23_2_2,"As long as I can safely return to Dongying, I can use the Imperial Seal as a pledge to exchange for a large number of loyal and brave Dongying soldiers from the General. By then, with the joint attack of the Yan army, at least half of Zhao's land will be mine, haha!"
-Story-part23_2_3,"Saito, return the jade seal, or you will never be able to laugh after today!"
-Story-part23_2_4,"Hey, I was wondering who it was, turns out it's you, the fallen princess. What, Tsukuyo, you also have your eyes on this Imperial Seal?"
-Story-part23_2_5,"You, for your own selfish desires, forced my father while holding me hostage, and now you want to stir up trouble again. I, Tsukuyo Sakuraha, will do everything I can to stop you."
-Story-part23_2_6,Just you? My young lady? Hahaha!
-Story-part23_2_7,"And me, isn't that enough?"
-Story-part23_2_8,"{PlayerName}! How did you...\nDamn it, since I'm going to die anyway, let the number one person in the Central Plains martial arts world witness my ultimate battle technique - the Shadow Warrior Art!"
-Story-part23_3_1,"What number one person in the Central Plains martial arts world, it's all hearsay, die!"
-Story-part23_3_2,"{PlayerName}Sect Leader, you go quickly! Although I can't stop him, I have a way to die with him!"
-Story-part23_3_3,"Go quickly, if you don't go now, you won't have a chance!"
-Story-part23_3_4,"I underestimated Saito, go quickly, otherwise it would be a waste of Miss Tsukuyo's efforts..."
-Story-part23_4_1,Impossible...
-Story-part23_4_2,"In the face of absolute power, your little tricks are not worth mentioning!"
-Story-part23_4_3,"{PlayerName} Sect Leader, thank you for helping me to reduce a bit of my sins..."
-Story-part23_4_4,"Although it sounds like an excuse now, I've long wanted to run away from the Great Ant City, to get away from these things that I don't care about or like."
-Story-part23_4_5,"But I was too cowardly, too cowardly to say no to my father, to Saito, and even more cowardly to act, to fight against those ugly and cruel things."
-Story-part23_4_6,"If I had been more determined from the start, none of this would have happened... I'm a sinner who deserves to die."
-Story-part23_4_7,I think you've been very brave.
-Story-part23_4_8,What?
-Story-part23_4_9,"At least, you told me about Saito's escape, and you did your best to stop him."
-Story-part23_4_10,"If you were once a criminal who committed the crime of being an accomplice, now, you have become a brave person who can face your own mistakes."
-Story-part23_4_11,"You should have nowhere to go now, how about joining {MyFaction}? In that way, you will have more opportunities to atone for your sins, no, to help those who were hurt because of your Great Ant City."
-Story-part23_4_12,"{PlayerName} leader, I will remember every word you say now... then... please guide me more!"
-Story-part23_5_1,"{PlayerName} leader, it seems that you still don't believe in me..."
-Story-part23_5_2,"I will use my life to stop Saito, to make you believe all this!"
+Story-part23_log,You have learned that Hisahide Saito is trying to return to Dongying with the Imperial Seal.,ท่านได้รับข่าวว่าไซโต้ฮิซาฮิเดะกำลังจะนำตราหยกหนีกลับไปยังแดนอาทิตย์อุทัย
+Story-part23_2_1,"These Zhao people are really stupid. I have the Imperial Seal in my hand, and they are still celebrating their victory.",พวกชาวจ้าวช่างโง่เง่า ตราหยกประจำแผ่นดินอยู่ในกำมือข้าแล้ว พวกมันยังคงหลงระเริงฉลองชัยชนะกันอยู่เลย
+Story-part23_2_2,"As long as I can safely return to Dongying, I can use the Imperial Seal as a pledge to exchange for a large number of loyal and brave Dongying soldiers from the General. By then, with the joint attack of the Yan army, at least half of Zhao's land will be mine, haha!",ตราบใดที่ข้ากลับไปยังแดนอาทิตย์อุทัยได้อย่างปลอดภัย ข้าจะใช้ตราหยกเป็นเครื่องต่อรอง แลกกับทหารแดนอาทิตย์อุทัยผู้ภักดีและกล้าแกร่งจำนวนมาก ถึงเวลานั้นเมื่อร่วมมือกับกองทัพแคว้นเยี่ยนโจมตีสองทิศ อย่างน้อยครึ่งหนึ่งของแผ่นดินจ้าวก็จะเป็นของข้า ฮ่าๆๆ!
+Story-part23_2_3,"Saito, return the jade seal, or you will never be able to laugh after today!",ไซโต้ คืนตราหยกมาซะ มิเช่นนั้นวันนี้เจ้าจะไม่มีโอกาสได้หัวเราะอีกต่อไป!
+Story-part23_2_4,"Hey, I was wondering who it was, turns out it's you, the fallen princess. What, Tsukuyo, you also have your eyes on this Imperial Seal?",หืม ข้าก็นึกว่าใคร ที่แท้ก็เจ้าหญิงตกอับนี่เอง สึคุโยะ เจ้าก็หมายตาตราหยกประจำแผ่นดินนี่ด้วยรึ?
+Story-part23_2_5,"You, for your own selfish desires, forced my father while holding me hostage, and now you want to stir up trouble again. I, Tsukuyo Sakuraha, will do everything I can to stop you.",เจ้าเห็นแก่ตัว บังคับข้าและบีบบังคับบิดาของข้า ตอนนี้ยังคิดจะก่อเรื่องวุ่นวายอีก ข้าสึคุโยะ ซากุระฮะ จะทำทุกวิถีทางเพื่อหยุดเจ้า
+Story-part23_2_6,Just you? My young lady? Hahaha!,เจ้าเนี่ยนะ? แม่นางน้อยของข้า? ฮ่าฮ่าฮ่า!
+Story-part23_2_7,"And me, isn't that enough?",ข้าอีกคน มิพอที่จะจัดการเจ้าหรือ?
+Story-part23_2_8,"{PlayerName}! How did you...\nDamn it, since I'm going to die anyway, let the number one person in the Central Plains martial arts world witness my ultimate battle technique - the Shadow Warrior Art!","{PlayerName}! ไยเจ้าถึง... \nบัดซบ ยังไงข้าก็ต้องตายอยู่ดี ข้าจะให้จอมยุทธ์อันดับหนึ่งแห่งยุทธภพจงหยวนได้เห็นสุดยอดวิชาของข้า วิชาเงามายา!"
+Story-part23_3_1,"What number one person in the Central Plains martial arts world, it's all hearsay, die!",จอมยุทธ์อันดับหนึ่งแห่งยุทธภพจงหยวนอะไรกัน ที่แท้ก็เป็นแค่คำกล่าวอ้างที่ไม่มีมูลความจริง ตายซะ!
+Story-part23_3_2,"{PlayerName}Sect Leader, you go quickly! Although I can't stop him, I have a way to die with him!",ท่านเจ้าสำนัก{PlayerName} รีบไปเถิด! ข้าไม่อาจหยุดมันได้ แต่ข้ามีวิธีที่จะดับชีพมันไปพร้อมกัน!
+Story-part23_3_3,"Go quickly, if you don't go now, you won't have a chance!",รีบไปเร็วเข้า หากไม่ไปตอนนี้ จะไม่มีโอกาสอีกแล้ว!
+Story-part23_3_4,"I underestimated Saito, go quickly, otherwise it would be a waste of Miss Tsukuyo's efforts...",ข้าประเมินไซโต้ต่ำเกินไป รีบไปเถิด มิเช่นนั้นความตั้งใจของแม่นางสึคุโยะจะสูญเปล่า...
+Story-part23_4_1,Impossible...,เป็นไปไม่ได้...
+Story-part23_4_2,"In the face of absolute power, your little tricks are not worth mentioning!",ต่อหน้าพลังอำนาจที่แท้จริง กลอุบายกระจอกๆ ของเจ้าไม่มีความหมายอะไรเลย!
+Story-part23_4_3,"{PlayerName} Sect Leader, thank you for helping me to reduce a bit of my sins...",ท่านเจ้าสำนัก{PlayerName} ขอบคุณที่ช่วยข้าได้ล้างบาปไปบ้าง...
+Story-part23_4_4,"Although it sounds like an excuse now, I've long wanted to run away from the Great Ant City, to get away from these things that I don't care about or like.",ถึงแม้ตอนนี้ฟังดูเหมือนข้อแก้ตัว แต่ข้าก็อยากจะหนีจากเมืองผีฝูไปนานแล้ว อยากจะหนีไปจากสิ่งที่ไม่สนใจและไม่ชอบเหล่านี้
+Story-part23_4_5,"But I was too cowardly, too cowardly to say no to my father, to Saito, and even more cowardly to act, to fight against those ugly and cruel things.",เพียงแต่ข้ามันอ่อนแอเกินไป อ่อนแอจนไม่กล้าปฏิเสธบิดา ไม่กล้าปฏิเสธไซโต้ และไม่กล้าที่จะลงมือต่อต้านสิ่งเลวร้ายโหดเหี้ยมเหล่านั้นด้วยตนเอง
+Story-part23_4_6,"If I had been more determined from the start, none of this would have happened... I'm a sinner who deserves to die.",หากข้าเข้มแข็งกว่านี้ตั้งแต่แรก เรื่องแบบนี้คงไม่เกิดขึ้น... ข้ามันคนบาปที่สมควรตาย
+Story-part23_4_7,I think you've been very brave.,ข้าว่าเจ้ากล้าหาญเกินพอแล้ว
+Story-part23_4_8,What?,จริงหรือ?
+Story-part23_4_9,"At least, you told me about Saito's escape, and you did your best to stop him.",อย่างน้อยที่สุด เจ้าก็บอกข้าเรื่องที่ไซโต้หนีไป และเจ้าก็พยายามอย่างสุดความสามารถที่จะหยุดมัน
+Story-part23_4_10,"If you were once a criminal who committed the crime of being an accomplice, now, you have become a brave person who can face your own mistakes.",หากเจ้าในอดีตเป็นผู้สมรู้ร่วมคิดกระทำผิด ตอนนี้เจ้าได้กลายเป็นผู้กล้าหาญที่เผชิญหน้ากับความผิดพลาดของตนเองแล้ว
+Story-part23_4_11,"You should have nowhere to go now, how about joining {MyFaction}? In that way, you will have more opportunities to atone for your sins, no, to help those who were hurt because of your Great Ant City.",ตอนนี้เจ้าคงไม่มีที่ไปแล้วสินะ เข้าร่วมสำนัก{MyFaction}เป็นอย่างไร? เช่นนั้นเจ้าจะมีโอกาสมากขึ้นในการไถ่บาป ไม่สิ... ในการช่วยเหลือผู้คนที่ต้องเจ็บปวดเพราะเมืองผีฝูของพวกเจ้า
+Story-part23_4_12,"{PlayerName} leader, I will remember every word you say now... then... please guide me more!",ท่านเจ้าสำนัก{PlayerName} ข้าจะจดจำทุกถ้อยคำของท่านในวันนี้... ถ้าเช่นนั้น... ถ้าเช่นนั้นก็ขอความกรุณาจากท่านด้วย!
+Story-part23_5_1,"{PlayerName} leader, it seems that you still don't believe in me...",ท่านเจ้าสำนัก{PlayerName} ดูเหมือนว่าท่านจะยังไม่วางใจข้าเสียที...
+Story-part23_5_2,"I will use my life to stop Saito, to make you believe all this!",ข้าจะใช้ชีวิตของข้าหยุดไซโต้ และพิสูจน์ให้ท่านเห็นทุกอย่าง!
 Story-part24_1_1,"Leader, now that Yan Yun Iron Army has been defeated, Vagabond is hunting down the remnants of the Yan Army everywhere, and there is a sense of self-preservation."
 Story-part24_1_2,Remnants? What remnants?
 Story-part24_1_3,"After the Yan Yun Iron Army was destroyed, those enemy leaders who were not killed or injured were all imprisoned in the main city, where are the remnants?"
