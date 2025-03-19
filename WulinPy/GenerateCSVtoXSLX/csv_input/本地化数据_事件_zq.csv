@@ -1831,7 +1831,7 @@ Fame-4_name,Treasure Competition,งานชิงสมบัติ
 Fame-4_overview1,The Night Auction Market in Zhongzhou Region is about to hold a treasure competition.,ตลาดประมูลราตรีกำลังเตรียมจะจัดงานประมูลชิงสมบัติ
 Fame-4_overview2,The Night Auction Market in Zhongzhou Region is currently holding a treasure competition.,ตลาดประมูลราตรีกำลังจัดงานประมูลชิงสมบัติอยู่
 Fame-4_overview3,The Treasure Bidding Conference has ended.,งานชิงสมบัติจบลงแล้ว
-Fame-4-1_option1_1,Show your invitation!,แสดงบัตรเชิญ!
+Fame-4-1_option1_1,Show your invitation!,แสดงเทียบเชิญ!
 Fame-4-1_option1_2,Come back later.,กลับมาวันหลัง
 Fame-5_name,Dragon Prison Land,แดนขังมังกร
 Fame-5_overview1,Head to the Palace Camp in Zhongzhou Region to rescue Xuan He Emperor.,ไปยังค่ายทัพหลวงที่จงโจว เพื่อช่วยเหลือฮ่องเต้ซวนเหอ
@@ -2647,7 +2647,7 @@ R20814-2-1_option1_2,Don't meddle.,อย่าเข้าไปยุ่ง
 M20500-2_option1_1,Arrest!<color=#c44b0e>(Specific battle)</color>,จับกุม!<color=#c44b0e>เข้าสู่การต่อสู้</color>
 M20500-2_option1_2,Prepare again.,เตรียมตัวก่อน
 M20500-2_option2_1,State your name.,บอกชื่อของเจ้า
-M20500-2_option2_2,"Present the invitation.<color=#097a76>(Plot progression, some plots will be invalidated)</color>",นำคำมาเทียบเชิญ <color=#097a76>(การดำเนินเรื่อง บางพล็อตจะถูกยกเลิก)</color>
+M20500-2_option2_2,"Present the invitation.<color=#097a76>(Plot progression, some plots will be invalidated)</color>",ยื่นเทียบเชิญ <color=#097a76>(การดำเนินเรื่อง บางพล็อตจะถูกยกเลิก)</color>
 M20500-2_option2_3,Those experts no longer have a chance to give me the invitation.,เหล่าผู้เชี่ยวชาญเหล่านั้นไม่มีโอกาสที่จะนำคำเทียบเชิญให้ข้าอีกต่อไปแล้ว
 M20500-2_option2_4,Inquire about how to get the invitation.,สอบถามวิธีการรับคำเทียบเชิญ
 M20500-2_option2_5,Force your way in!<color=#c44b0e>(Specific battle)</color>,บุกเข้าไปด้วยกำลัง!<color=#c44b0e>(เข้าสู่การต่อสู้)</color>

@@ -1987,25 +1987,25 @@ Story-part17_6_11,In about three months.,ประมาณ 3 เดือน
 Story-part17_6_12,"Alright, you stay in the village and build fortifications. Our sect will come to assist when the time comes.",ดี! ท่านจงประจำการอยู่ที่หมู่บ้าน สร้างป้อมปราการให้แน่นหนาไว้ เมื่อถึงเวลา สำนักเราจะส่งกำลังไปสนับสนุน
 Story-part17_6_13,"Wait, don't leave yet...",ช้าก่อน อย่าเพิ่งไป...
 Story-part17_6_14,"You're really something. You're decisive when doing bad things, but why are you so hesitant when doing good things?",ท่านนี่ช่างเป็นคนประหลาด ทำเรื่องชั่วช้ากลับกล้าหาญยิ่ง แต่พอทำเรื่องดีงามกลับลังเลไม่สิ้นสุด
-Story-part17_6_15,"This book of Mang Cang Jue is my family's martial arts, if I die here in three months, please carry it on for me..."
-Story-part17_7_1,"Master, the small village where Kong Yidao is located has been attacked by soldiers. I'm afraid it's been completely leveled."
-Story-part17_7_2,"It's only natural for soldiers to suppress bandits, but it's a pity for those villagers who were killed..."
-Story-part18_1_1,"Master, Kong Yidao has sent someone to ask for help, saying that the soldiers have reached the village."
-Story-part18_1_2,These soldiers are utterly shameless. We'll send someone over right away.
-Story-part18_name,The Siege of the Small Village
-Story-part18_log,The government has sent soldiers to attack the village. Kong Yidao is struggling to hold on and asks for your help.
-Story-part18_2_1,Most of our brothers have been killed or injured. I don't know if {PlayerName} will come to the rescue as promised...
-Story-part18_2_2,"Brothers, these mountain bandits are about to fall. The food and treasure are right in front of us. Let's go in and kill them!"
-Story-part18_2_3,"Don't panic, Master Kong. {MyFaction}'s disciples are here!"
-Story-part18_3_1,"Brothers, you go first. I'll be right behind you..."
-Story-part18_3_2,The defense line has been broken. Kong Yidao has been killed. We need to retreat quickly...
-Story-part18_4_1,These bastards are even worse than us at the Blue Wind Camp!
-Story-part18_4_2,"Master Kong, why do you say that?"
-Story-part18_4_3,"Back when I was in charge of the Blue Wind Camp, I thought I was doing righteous deeds and avenging grudges. Turns out, it was all inhuman."
-Story-part18_4_4,"Since you can have such insight, why not join our sect, there are plenty of opportunities for you to atone for your sins."
-Story-part18_4_5,"I've insulted you many times before, and you're still willing to take me in... Alright, I'll join!"
-Story-part18_5_1,"Master, the small village where Kong Yidao is located has been completely leveled by the soldiers' attack."
-Story-part18_5_2,"Ah, how could I forget about this..."
+Story-part17_6_15,"This book of Mang Cang Jue is my family's martial arts, if I die here in three months, please carry it on for me...",เคล็ดวิชา มรรคาอสูร เล่มนี้ เป็นวิชาประจำตระกูลข้า หากข้าต้องสิ้นชีพที่นี่ในอีกสามเดือนข้างหน้า ขอท่านช่วยสืบทอดวิชานี้ต่อไปด้วยเถิด...
+Story-part17_7_1,"Master, the small village where Kong Yidao is located has been attacked by soldiers. I'm afraid it's been completely leveled.",ท่านเจ้าสำนัก หมู่บ้านที่ขงอี้เตาพำนักอยู่ถูกกองทัพหลวงบุกจู่โจม อาจจะถูกกวาดล้างจนไม่เหลือซากแล้ว
+Story-part17_7_2,"It's only natural for soldiers to suppress bandits, but it's a pity for those villagers who were killed...",กองทัพหลวงกำจัดโจรเป็นเรื่องที่ถูกต้องแล้ว แต่น่าเศร้าใจยิ่งนักกับชาวบ้านที่ถูกมันเข่นฆ่า...
+Story-part18_1_1,"Master, Kong Yidao has sent someone to ask for help, saying that the soldiers have reached the village.",ท่านเจ้าสำนัก ขงอี้เตาส่งคนมาขอความช่วยเหลือด่วนแจ้งว่ากองทัพหลวงบุกเข้าหมู่บ้านแล้วขอรับ
+Story-part18_1_2,These soldiers are utterly shameless. We'll send someone over right away.,พวกทหารหลวงช่างไร้ยางอายสิ้นดี ข้าจะส่งคนไปช่วยเหลือเดี๋ยวนี้
+Story-part18_name,The Siege of the Small Village,ภัยคุกคามของหมู่บ้านเล็กๆ
+Story-part18_log,The government has sent soldiers to attack the village. Kong Yidao is struggling to hold on and asks for your help.,ทางการส่งทหารหลวงบุกโจมตีหมู่บ้าน ขงอี้เตาต้านทานไม่ไหว ขอความช่วยเหลือจากท่าน
+Story-part18_2_1,Most of our brothers have been killed or injured. I don't know if {PlayerName} will come to the rescue as promised...,พี่น้องเราตายกันหมดแล้ว ไม่รู้ว่า{PlayerName}จะมาช่วยตามสัญญาหรือไม่...
+Story-part18_2_2,"Brothers, these mountain bandits are about to fall. The food and treasure are right in front of us. Let's go in and kill them!",พี่น้องทั้งหลาย พวกโจรภูเขากำลังจะต้านทานไม่ไหวแล้ว ทรัพย์สมบัติอยู่ตรงหน้าแล้ว บุกเข้าไปฆ่ามันให้หมด!
+Story-part18_2_3,"Don't panic, Master Kong. {MyFaction}'s disciples are here!",หัวหน้าขง อย่าได้ตระหนก ศิษย์สำนัก{MyFaction}มาถึงแล้ว!
+Story-part18_3_1,"Brothers, you go first. I'll be right behind you...",เหล่าพี่น้องผู้กล้าหาญ พวกท่านจากไปก่อนเสียแล้ว ข้าจะตามไปในไม่ช้า...
+Story-part18_3_2,The defense line has been broken. Kong Yidao has been killed. We need to retreat quickly...,แนวป้องกันแตกแล้ว ขงอี้เตาสิ้นชีพแล้ว พวกเราถอยทัพกันเถอะ...
+Story-part18_4_1,These bastards are even worse than us at the Blue Wind Camp!,พวกมันช่างเลวทรามยิ่งนัก ยิ่งกว่าพวกเราค่ายวายุครามเสียอีก!
+Story-part18_4_2,"Master Kong, why do you say that?",หัวหน้าขง เหตุใดจึงเอ่ยเช่นนั้นเล่า?
+Story-part18_4_3,"Back when I was in charge of the Blue Wind Camp, I thought I was doing righteous deeds and avenging grudges. Turns out, it was all inhuman.",เมื่อครั้งข้าครองบัลลังก์ค่ายวายุคราม ข้าคิดว่าสิ่งที่ข้าทำนั้นล้วนแต่เป็นการผดุงคุณธรรมและล้างแค้นอย่างสะใจ แต่ไม่นึกเลยว่ามันล้วนแต่เป็นการกระทำที่เลวทราม
+Story-part18_4_4,"Since you can have such insight, why not join our sect, there are plenty of opportunities for you to atone for your sins.",ในเมื่อท่านเกิดความสำนึกได้เช่นนี้ ไยมิเข้าร่วมสำนักเราเล่า ยังมีโอกาสให้ท่านไถ่บาปและสำนึกผิดอีกมาก
+Story-part18_4_5,"I've insulted you many times before, and you're still willing to take me in... Alright, I'll join!",เมื่อก่อนข้าเคยดูถูกพวกท่านหลายครา พวกท่านยังเมตตารับข้าไว้... ก็ได้ ข้ายินดีเข้าร่วมกับพวกท่าน!
+Story-part18_5_1,"Master, the small village where Kong Yidao is located has been completely leveled by the soldiers' attack.",ท่านเจ้าสำนัก หมู่บ้านที่ขงอี้เตาพำนักอยู่ ไม่อาจต้านทานกองทัพหลวงได้ ถูกกวาดล้างจนไม่เหลือซากแล้วขอรับ
+Story-part18_5_2,"Ah, how could I forget about this...",อ๊ะ ข้าลืมเรื่องนี้ไปได้อย่างไรกัน...
 Story-part19_1_1,"Master, ever since we occupied the Jiuli Tribe, Miao Muli has been running around and harassing our sect's properties. Please make a decision quickly.",ท่านเจ้าสำนัก นับแต่ที่เรายึดครองเผ่าจิ่วลี่ได้สำเร็จ พวกเมี้ยวมู่หลีก็เที่ยวระเหเร่ร่อนไปทั่ว ก่อกวนทรัพย์สินของสำนักเราอยู่มิขาด โปรดท่านเจ้าสำนักลงทัณฑ์พวกมันโดยเร็วเถิด!
 Story-part19_1_2,"Miao Muli has always been committed to reviving the Jiuli Tribe. Now that their ancestral land is occupied by our sect, it's natural for him to be furious and cause trouble.",พวกเมี้ยวมู่หลีนั้นถือเอาการฟื้นฟูเผ่าจิ่วลี่เป็นภารกิจมาโดยตลอด เมื่อแผ่นดินบรรพบุรุษถูกสำนักเรายึดครอง ย่อมโกรธแค้นเป็นธรรมดา และก่อเรื่องวุ่นวายอยู่มิหยุดหย่อน
 Story-part19_1_3,"Miao Muli is well-respected in this area. After careful consideration, I believe we should follow the example of Prime Minister Zhuge in the past and focus on appeasement.",เมี้ยวมู่หลีมีชื่อเสียงอยู่ในแถบนี้มานาน ข้าคิดใคร่ครวญดูแล้ว เห็นว่าควรใช้วิธีเช่นเดียวกับท่านอัครมหาเสนาบดีจูกัดเหลียงในกาลก่อน คือการเจรจาผูกมิตรเป็นหลัก
@@ -2179,102 +2179,102 @@ Story-part23_4_11,"You should have nowhere to go now, how about joining {MyFacti
 Story-part23_4_12,"{PlayerName} leader, I will remember every word you say now... then... please guide me more!",ท่านเจ้าสำนัก{PlayerName} ข้าจะจดจำทุกถ้อยคำของท่านในวันนี้... ถ้าเช่นนั้น... ถ้าเช่นนั้นก็ขอความกรุณาจากท่านด้วย!
 Story-part23_5_1,"{PlayerName} leader, it seems that you still don't believe in me...",ท่านเจ้าสำนัก{PlayerName} ดูเหมือนว่าท่านจะยังไม่วางใจข้าเสียที...
 Story-part23_5_2,"I will use my life to stop Saito, to make you believe all this!",ข้าจะใช้ชีวิตของข้าหยุดไซโต้ และพิสูจน์ให้ท่านเห็นทุกอย่าง!
-Story-part24_1_1,"Leader, now that Yan Yun Iron Army has been defeated, Vagabond is hunting down the remnants of the Yan Army everywhere, and there is a sense of self-preservation."
-Story-part24_1_2,Remnants? What remnants?
-Story-part24_1_3,"After the Yan Yun Iron Army was destroyed, those enemy leaders who were not killed or injured were all imprisoned in the main city, where are the remnants?"
-Story-part24_1_4,"I heard that they surrounded Baoguo Temple a few days ago, saying that a girl who is about to become a nun is the Lady of Yan Kingdom, and they must force the Abbot to hand her over for public execution."
-Story-part24_1_5,Lady of Yan Kingdom... Did the Abbot hand her over?
-Story-part24_1_6,"The Abbot only said that Buddha saves those who are destined, and since this girl has a heart of atonement, she should not use weapons again, and all the hatred towards the Yan Army should be concentrated on one person."
-Story-part24_1_7,"Those Vagabonds are relentless, thinking that the Abbot is harboring evil intentions and colluding with foreign races, clamoring to attack Baoguo Temple."
-Story-part24_1_8,"There is such a thing, should I go over and see what's going on?"
-Story-part24_name,The Siege of Baoguo
-Story-part24_log,"Lady of Yan Kingdom wants to become a nun in Baoguo Temple to atone for her sins, but she is besieged by Vagabonds."
+Story-part24_1_1,"Leader, now that Yan Yun Iron Army has been defeated, Vagabond is hunting down the remnants of the Yan Army everywhere, and there is a sense of self-preservation.",ท่านเจ้าสำนัก กองทัพเหล็กเยี่ยนหยุนพ่ายแพ้แล้ว เหล่าชาวยุทธ์กำลังออกตามล่ากลุ่มคนที่เหลือของกองทัพเยี่ยน ทำให้เกิดความหวาดกลัวไปทั่ว
+Story-part24_1_2,Remnants? What remnants?,กลุ่มคนที่เหลือ? กลุ่มคนที่เหลืออะไร?
+Story-part24_1_3,"After the Yan Yun Iron Army was destroyed, those enemy leaders who were not killed or injured were all imprisoned in the main city, where are the remnants?",หลังจากกองทัพเหล็กเยี่ยนหยุนล่มสลาย พวกแม่ทัพศัตรูตายบ้างบาดเจ็บบ้าง ที่เหลือก็ถูกคุมขังอยู่ในเมืองหลวง แล้วจะมีกลุ่มคนที่เหลือรอดได้อย่างไร?
+Story-part24_1_4,"I heard that they surrounded Baoguo Temple a few days ago, saying that a girl who is about to become a nun is the Lady of Yan Kingdom, and they must force the Abbot to hand her over for public execution.",ข้าได้ยินมาว่าเมื่อหลายวันก่อน พวกมันล้อมวัดเป่ากั๋ว กล่าวหาว่าสตรีที่กำลังจะปลงผมบวชเป็นองค์หญิงแห่งแคว้นเยี่ยน บังคับให้เจ้าอาวาสส่งตัวออกมาประหารต่อหน้าสาธารณชน
+Story-part24_1_5,Lady of Yan Kingdom... Did the Abbot hand her over?,องค์หญิงแห่งแคว้นเยี่ยนรึ... แล้วเจ้าอาวาสส่งตัวออกไปหรือไม่?
+Story-part24_1_6,"The Abbot only said that Buddha saves those who are destined, and since this girl has a heart of atonement, she should not use weapons again, and all the hatred towards the Yan Army should be concentrated on one person.",เจ้าอาวาสกล่าวเพียงว่า พระธรรมย่อมโปรดผู้มีกรรมสัมพันธ์ เมื่อสตรีผู้นี้มีจิตสำนึกผิด ก็มิควรใช้อาวุธสังหารอีกต่อไป ควรให้ความแค้นที่มีต่อกองทัพเยี่ยนมาลงที่นางแต่เพียงผู้เดียว
+Story-part24_1_7,"Those Vagabonds are relentless, thinking that the Abbot is harboring evil intentions and colluding with foreign races, clamoring to attack Baoguo Temple.",พวกชาวยุทธ์เหล่านั้นไม่ยอมรามือ คิดว่าเจ้าอาวาสซ่อนความชั่วร้ายไว้ สมคบกับชนเผ่าต่างแดน ส่งเสียงขู่ว่าจะบุกวัดเป่ากั๋ว
+Story-part24_1_8,"There is such a thing, should I go over and see what's going on?",มีเหตุการณ์เช่นนี้ด้วยหรือ ข้าควรไปดูให้เห็นกับตาหรือไม่?
+Story-part24_name,The Siege of Baoguo,ภัยคุกคามของวัดเป่ากั๋ว
+Story-part24_log,"Lady of Yan Kingdom wants to become a nun in Baoguo Temple to atone for her sins, but she is besieged by Vagabonds.",องค์หญิงแห่งแคว้นเยี่ยนประสงค์จะบวชที่วัดเป่ากั๋วเพื่อไถ่โทษ แต่กลับถูกชาวยุทธ์ล้อมโจมตี
 Story-part24_2_1,"Amitabha, Princess Wanyan just wants to repent for her past sins and chant sutras for those who have passed away because of her. Neither Buddha nor I can refuse anyone's heart of kindness.",อมิตาพุทธ องค์หญิงหวันเยี่ยนปรารถนาจะชำระล้างบาปกรรม และอุทิศส่วนกุศลให้แก่ผู้ที่ต้องล่วงลับเพราะนาง พระพุทธองค์และอาตมาไม่อาจปฏิเสธเจตนาอันดีของนางได้
-Story-part24_2_2,"Abbot, you are well-versed in the great righteousness of Buddhism, why do you want to protect such extremely evil people? I am willing to be a peacemaker, and I hope that the Abbot will give priority to the overall situation and hand over Wanyan Zhaoning to calm the public anger."
-Story-part24_2_3,"If the Abbot continues to protect this foreign enemy leader, don't blame the heroes present for thinking that Baoguo Temple is related to the Yan Army."
-Story-part24_2_4,"If you don't hand over the person, I will tear down this broken temple and let you bald donkeys go to see Buddha!"
-Story-part24_2_5,"Everyone must not be soft-hearted, if this Wanyan evil woman is not killed here, my Zhao country will not be able to eliminate the disaster and return to peace and tranquility!"
-Story-part24_2_6,Eliminate the disaster...
-Story-part24_2_7,"When I was willing to serve my uncle Wanyan Wuzhu, I also had the same initial intention for the peace of the world."
-Story-part24_2_8,My uncle told me that the Zhao Kingdom is corrupt and the people are living in misery. Only by achieving true unification of the two countries can we eliminate all the troubles of war and return peace to the world.
-Story-part24_2_9,And those bleedings and sacrifices are just the price that must be paid...
-Story-part24_2_10,"I believed in what my uncle said at that time, but now it seems that this path is not feasible, so I became a monk out of despair. But since you want to eradicate evil, let me be the sacrifice."
-Story-part24_2_11,"(Wanyan Zhaoning actively seeks death, should I stop it?)"
-Story-part24_op_1_1,"She is deeply sinful, it's better to die"
-Story-part24_op_1_2,"She has a great realization, the crime is not deadly"
-Story-part24_3_1,"She is deeply sinful, it's better to die, I will just watch quietly."
-Story-part24_3_2,"No need for you to act, I will take care of it myself."
-Story-part24_3_3,"Abbot, it's my fault that Baoguo Temple is involved. If there is a next life, I wish to be a stick of incense in front of the Buddha, burning day and night, praying for the people..."
-Story-part24_3_4,"Tsk, dying so easily, she got off too lightly."
+Story-part24_2_2,"Abbot, you are well-versed in the great righteousness of Buddhism, why do you want to protect such extremely evil people? I am willing to be a peacemaker, and I hope that the Abbot will give priority to the overall situation and hand over Wanyan Zhaoning to calm the public anger.",ท่านเจ้าอาวาสย่อมรู้แจ้งในธรรม เหตุใดจึงปกป้องคนชั่วร้ายเช่นนี้? ข้าขออาสาเป็นคนกลางไกล่เกลี่ย หวังว่าท่านเจ้าอาวาสจะเห็นแก่ภาพรวม ส่งมอบหวันเหยียนจ้าวหนิงเพื่อดับความโกรธแค้นของมหาชน
+Story-part24_2_3,"If the Abbot continues to protect this foreign enemy leader, don't blame the heroes present for thinking that Baoguo Temple is related to the Yan Army.",หากท่านเจ้าอาวาสยังคงปกป้องแม่ทัพศัตรูต่างแดนเช่นนี้ อย่าได้โทษเหล่าจอมยุทธ์ที่อยู่ในที่นี้เลยว่า วัดเป่ากั๋วมีความเกี่ยวข้องกับกองทัพเยี่ยน
+Story-part24_2_4,"If you don't hand over the person, I will tear down this broken temple and let you bald donkeys go to see Buddha!",หากไม่ส่งตัวนางออกมา ข้าจะเผาวัดนี้ให้วอดวาย แล้วส่งพวกเจ้าหัวโล้นไปพบพระพุทธองค์เอง!
+Story-part24_2_5,"Everyone must not be soft-hearted, if this Wanyan evil woman is not killed here, my Zhao country will not be able to eliminate the disaster and return to peace and tranquility!",ทุกท่านอย่าได้ลังเล หากไม่สังหารสตรีชั่วร้ายหวันเหยียนผู้นี้ ในวันนี้ แคว้นจ้าวของเราก็มิอาจขจัดภัยพิบัติ กลับคืนสู่ความสงบสุขได้!
+Story-part24_2_6,Eliminate the disaster...,ขจัดภัยพิบัติ...เช่นนั้นรึ...
+Story-part24_2_7,"When I was willing to serve my uncle Wanyan Wuzhu, I also had the same initial intention for the peace of the world.",ครั้งหนึ่งข้าเคยเต็มใจรับใช้ท่านอาหวันเหยียนอู๋จู ก็ด้วยปณิธานเช่นนี้ เพื่อความสงบสุขของใต้หล้า
+Story-part24_2_8,My uncle told me that the Zhao Kingdom is corrupt and the people are living in misery. Only by achieving true unification of the two countries can we eliminate all the troubles of war and return peace to the world.,ท่านอาบอกข้าว่า แคว้นจ้าวเน่าเฟะ ประชาชนทุกข์ยาก มีเพียงการรวมสองแคว้นให้เป็นหนึ่งเดียวเท่านั้น จึงจะขจัดสงครามและภัยพิบัติทั้งปวง คืนความสงบสุขให้แก่ใต้หล้าได้
+Story-part24_2_9,And those bleedings and sacrifices are just the price that must be paid...,ส่วนการเสียสละชีวิตเหล่านั้น เป็นเพียงค่าตอบแทนที่ต้องแลกมา...
+Story-part24_2_10,"I believed in what my uncle said at that time, but now it seems that this path is not feasible, so I became a monk out of despair. But since you want to eradicate evil, let me be the sacrifice.",เมื่อก่อนข้าเชื่อมั่นในสิ่งที่ท่านอากล่าวอย่างหมดใจ แต่บัดนี้ดูเหมือนว่าเส้นทางนี้คงเป็นไปไม่ได้ ข้าจึงหมดหวังออกบวชเพื่อชดใช้กรรม แต่ในเมื่อพวกท่านต้องการกำจัดคนชั่วให้สิ้นซาก ข้าขอเป็นผู้รับเคราะห์เอง
+Story-part24_2_11,"(Wanyan Zhaoning actively seeks death, should I stop it?)",(หวันเหยียนจ้าวหนิงยอมสละชีพ ข้าควรจะห้ามหรือไม่?)
+Story-part24_op_1_1,"She is deeply sinful, it's better to die",นางมีบาปหนา ควรตายเสีย
+Story-part24_op_1_2,"She has a great realization, the crime is not deadly",นางได้สำนึกผิดแล้ว โทษของนางมิถึงแก่ความตาย
+Story-part24_3_1,"She is deeply sinful, it's better to die, I will just watch quietly.",นางมีบาปหนา ควรตายเสีย ข้าขอเป็นเพียงผู้ชมอยู่ห่างๆ
+Story-part24_3_2,"No need for you to act, I will take care of it myself.",มิต้องให้ทุกท่านลงมือหรอก ข้าจะจบชีวิตตนเอง
+Story-part24_3_3,"Abbot, it's my fault that Baoguo Temple is involved. If there is a next life, I wish to be a stick of incense in front of the Buddha, burning day and night, praying for the people...",ท่านเจ้าอาวาส จ้าวหนิงเป็นต้นเหตุให้วัดเป่ากั๋วต้องเดือดร้อน หากมีชาติหน้า ขอเกิดเป็นธูปหอมหน้าพระพุทธองค์ เผาผลาญตนเองทั้งวันคืน เพื่ออธิษฐานให้ปวงประชา...
+Story-part24_3_4,"Tsk, dying so easily, she got off too lightly.",ชิ ช่างตายง่ายดายนัก ถูกนางเอาเปรียบเสียแล้ว
 Story-part24_3_5,Amitabha...,อมิตาพุทธ...
-Story-part24_3_6,"Wanyan Zhaoning has taken her own life, there's no need to stay any longer."
-Story-part24_4_1,"She has already seen the truth, her sins are not deadly, I have to stop it."
-Story-part24_4_2,"No need for you to act, I will take care of it myself."
-Story-part24_4_3,"Stop, Princess Wanyan is not guilty of death!"
+Story-part24_3_6,"Wanyan Zhaoning has taken her own life, there's no need to stay any longer.",หวันเหยียนจ้าวหนิงสิ้นชีพแล้ว อยู่ต่อไปก็ไม่มีประโยชน์อันใด
+Story-part24_4_1,"She has already seen the truth, her sins are not deadly, I have to stop it.",นางได้สำนึกผิดแล้ว โทษของนางมิถึงแก่ชีวิต ข้าจะเข้าไปขัดขวาง
+Story-part24_4_2,"No need for you to act, I will take care of it myself.",มิต้องให้ทุกท่านลงมือหรอก ข้าจะจบชีวิตตนเอง
+Story-part24_4_3,"Stop, Princess Wanyan is not guilty of death!",หยุดมือ องค์หญิงหวันเหยียนมิได้มีความผิดถึงตาย!
 Story-part24_4_4,……,……
 Story-part24_4_5,"Amitabha, if {PlayerSurName} is here, Princess Wanyan can be saved.",อมิตาพุทธ หาก {PlayerSurName} อยู่ตรงนี้ องค์หญิงหวันเยี่ยนย่อมปลอดภัย
-Story-part24_4_6,"Although Princess Wanyan has become a pawn for the tiger, she was also misled and used by Wanyan Wuzhu, unknowingly going astray."
-Story-part24_4_7,"This time the Yan army invaded, Wanyan Wuzhu was certainly the mastermind, but those corrupt officials in the Zhao Kingdom's court, and those who bring disaster to the country and the people, shouldn't they be more responsible than Princess Wanyan?"
-Story-part24_4_8,"{PlayerSurName}, as the head of the sect, you are highly respected and skilled in martial arts, but for such a major issue, please do not interfere."
-Story-part24_4_9,"Can't you see it? {MyFaction} has long been in cahoots with the Yan dogs, it's a shame he still has the face to come here and pretend."
-Story-part24_4_10,"Pretend? When I, the head of the sect, was fighting bloody battles with the Yan army, where were you? Don't try to provoke me, or else..."
-Story-part24_4_11,"Don't be afraid, even if his martial arts are high, if we unite and rush up, he won't be able to defeat all of us!"
-Story-part24_4_12,Oh? Then let's give it a try~
-Story-part24_5_1,"It seems I've overdone it... These people are all skilled in martial arts, I'd better escape back to the sect..."
-Story-part24_5_2,Although... thank you...
-Story-part24_6_1,"I have protected Princess Wanyan, does anyone else have any objections?"
-Story-part24_6_2,"Abbot, your temple is small and can't protect Princess Wanyan, how about I take her to {MyFaction}? If her repentance is not firm, I will teach her on behalf of the Buddha, how about that?"
-Story-part24_6_3,"Princess Wanyan, are you willing to go with {PlayerSurName}?"
-Story-part24_6_4,"Master, don't call me princess anymore, I have nothing to do with Yan country now, I am just an ordinary person. Since {PlayerSurName} is willing to save me, a lowly woman, why wouldn't I go..."
+Story-part24_4_6,"Although Princess Wanyan has become a pawn for the tiger, she was also misled and used by Wanyan Wuzhu, unknowingly going astray.",แม้ว่าองค์หญิงหวันเหยียนจะเคยร่วมมือกับคนชั่ว แต่ก็เป็นเพราะถูกหวันเหยียนอู๋จูหลอกใช้โดยไม่รู้ตัว จนหลงผิดไป
+Story-part24_4_7,"This time the Yan army invaded, Wanyan Wuzhu was certainly the mastermind, but those corrupt officials in the Zhao Kingdom's court, and those who bring disaster to the country and the people, shouldn't they be more responsible than Princess Wanyan?",การที่กองทัพเยี่ยนบุกรุกครั้งนี้ หวันเหยียนอู๋จูเป็นผู้บงการก็จริง แต่ขุนนางเน่าเฟะในราชสำนักแคว้นจ้าว และเหล่าจอมยุทธ์เสื่อมทรามที่ทำลายบ้านเมือง มิควรต้องรับผิดชอบมากกว่าองค์หญิงหวันเหยียนหรอกหรือ?
+Story-part24_4_8,"{PlayerSurName}, as the head of the sect, you are highly respected and skilled in martial arts, but for such a major issue, please do not interfere.",ท่านเจ้าสำนัก{PlayerSurName} ท่านมีคุณธรรมสูงส่งและวรยุทธ์ล้ำเลิศ แต่เรื่องราวที่เป็นเรื่องใหญ่เช่นนี้ ขอท่านโปรดอย่าเข้ามายุ่งเกี่ยวเลย
+Story-part24_4_9,"Can't you see it? {MyFaction} has long been in cahoots with the Yan dogs, it's a shame he still has the face to come here and pretend.",พวกท่านยังมองไม่ออกอีกรึ สำนัก{MyFaction}มันร่วมมือกับพวกเยี่ยนมานานแล้ว ยังกล้ามาทำเป็นผู้ดีมีคุณธรรมอีก
+Story-part24_4_10,"Pretend? When I, the head of the sect, was fighting bloody battles with the Yan army, where were you? Don't try to provoke me, or else...",แสร้งทำเป็นดี? ตอนที่ข้าต่อสู้กับกองทัพเยี่ยนอย่างห้าวหาญ พวกเจ้ากระจอกงอกง่อยพวกนี้ไปซุกหัวอยู่ที่ไหนกัน? อย่าพยายามยั่วโทสะข้า ไม่อย่างนั้น...
+Story-part24_4_11,"Don't be afraid, even if his martial arts are high, if we unite and rush up, he won't be able to defeat all of us!",ทุกท่านอย่าได้หวาดกลัว แม้ว่าฝีมือเขาจะล้ำเลิศเพียงใด หากพวกเราร่วมมือกันรุมเข้าใส่ เขาก็ไม่อาจจัดการพวกเราได้ทั้งหมดหรอก!
+Story-part24_4_12,Oh? Then let's give it a try~,โอ้? ถ้าเช่นนั้นก็เข้ามาลองดูสิ~
+Story-part24_5_1,"It seems I've overdone it... These people are all skilled in martial arts, I'd better escape back to the sect...",ดูเหมือนจะคุยโวมากเกินไปแล้ว... พวกนี้ฝีมือไม่เบา รีบถอยกลับสำนักดีกว่า...
+Story-part24_5_2,Although... thank you...,คือว่า... ขอบคุณท่านนะ...
+Story-part24_6_1,"I have protected Princess Wanyan, does anyone else have any objections?",องค์หญิงหวันเหยียนผู้นี้ข้าจะดูแลเอง ใครมีความเห็นขัดแย้งอีกหรือไม่?
+Story-part24_6_2,"Abbot, your temple is small and can't protect Princess Wanyan, how about I take her to {MyFaction}? If her repentance is not firm, I will teach her on behalf of the Buddha, how about that?",ท่านเจ้าอาวาส วัดของท่านเล็กนัก มิอาจคุ้มครององค์หญิงหวันเหยียนได้ ข้าขอพานางไปที่สำนัก{MyFaction} หากนางมิมีจิตสำนึกผิดที่แน่วแน่ ข้าจะลงทัณฑ์นางแทนพระพุทธองค์เอง เป็นอย่างไร?
+Story-part24_6_3,"Princess Wanyan, are you willing to go with {PlayerSurName}?",องค์หญิงหวันเหยียน ท่านยินดีที่จะติดตามท่านเจ้าสำนัก{PlayerSurName}ไปหรือไม่?
+Story-part24_6_4,"Master, don't call me princess anymore, I have nothing to do with Yan country now, I am just an ordinary person. Since {PlayerSurName} is willing to save me, a lowly woman, why wouldn't I go...",ท่านอาจารย์ อย่าเรียกข้าว่าองค์หญิงเลย ข้ามิได้มีส่วนเกี่ยวข้องกับแคว้นเยี่ยนอีกต่อไป บัดนี้เป็นเพียงชาวบ้านธรรมดาเท่านั้น ท่านเจ้าสำนัก{PlayerSurName}ยินดีช่วยชีวิตสตรีต่ำต้อยเช่นข้า มีเหตุใดที่ข้าจะไม่ยินดีไปเล่า...
 Story-part24_6_5,"Amitabha, in that case, I'll have to trouble you.",อมิตาพุทธ หากเป็นเช่นนั้น อาตมาคงต้องรบกวนท่านเสียแล้ว
-Story-part24_6_6,"{PlayerSurName}, thank you..."
-Story-part24_7_1,"Master, the Vagabonds have broken into Baoguo Temple and kidnapped Princess Wanyan."
-Story-part24_7_2,"This is the bitter fruit she has brewed by being a pawn for the tiger, she can't blame others."
-Story-part25_1_1,"Master, villagers have reported that a strange wooden house has suddenly appeared in Wuxian Mountain recently."
-Story-part25_1_2,"Just a wooden house, what's so strange about that?"
-Story-part25_1_3,"There's nothing special about the wooden house itself, but the animals dare not approach within two feet of the house, even screaming and fleeing desperately, as if there's something terrifying there..."
-Story-part25_1_4,"Such a strange thing, I, the head of the sect, will go and see for myself."
-Story-part25_name,Mysterious Wooden House
-Story-part25_log,"A strange little house has appeared in Wuxian Mountain recently, no animal dares to approach it."
-Story-part25_2_1,"Hero, that's the house ahead, you can't go any further!"
-Story-part25_2_2,"Old Man's twelve-year-old grandson came here chasing a group of butterflies yesterday. Out of curiosity, he took a few steps towards the hut and suddenly fainted."
-Story-part25_2_3,"Fortunately, a passerby saw him and immediately hooked him out with a grappling hook, but my poor grandson is still foaming at the mouth and talking nonsense, lying half-dead on the bed!"
-Story-part25_2_4,"The neighbors say that you {MyFaction} are all virtuous heroes, please save Old Man's grandson!"
-Story-part25_2_5,Does it sound like symptoms of some kind of poisoning?
-Story-part25_2_6,"Animals have the most sensitive sense of smell, so they dare not approach the hut, which has caused the naughty child to suffer."
-Story-part25_2_7,Who could be so cruel to deliberately poison a quarantine zone to prevent outsiders from entering the hut...
-Story-part25_2_8,Should I force my way in to find out?
-Story-part25_op_1_1,"Toxicology is tricky, it's better to retreat first"
-Story-part25_op_1_2,"To save the child, I have to take a risk"
-Story-part25_3_1,"Toxicology is tricky, it's troublesome if you get poisoned, it's better to retreat first and find someone who understands toxicology..."
-Story-part25_3_2,"After you return to your sect, you immediately send the disciple who is best at toxicology there\nBut found that not only was it deserted, but there was blood everywhere\nIt seems that a fierce fight took place after you left..."
-Story-part25_4_1,"There's no choice, life is at stake, I have to take a risk to save this child!"
-Story-part25_4_2,"You silently run your protection internal strength and slowly walk towards the wooden house\nAt first, you didn't feel any discomfort\nBut as you take more and more steps, a sweet taste gradually rises in your throat..."
-Story-part25_4_3,"If it's to save that so-called grandson, I suggest you turn back immediately."
-Story-part25_4_4,"You are highly skilled, and the current poison is only in your flesh. If you go out and expel it yourself, it won't hurt. But if you insist on approaching despite my advice, don't blame me for not warning you when you get deep poison!"
-Story-part25_4_5,"The person in the house and Old Man's statements conflict, should I continue to move forward?"
-Story-part25_4_6,"You have deep martial arts skills, the current poison only affects your skin and flesh. With your own cultivation, you can expel it with a little effort, and you will be safe."
-Story-part25_4_7,"But if you insist on approaching despite my advice, don't blame me for not warning you when you get deeply poisoned!"
-Story-part25_op_2_1,Go out and detoxify
-Story-part25_op_2_2,Continue to move forward
-Story-part25_5_1,"After a full meal, listen to the advice, go out and detoxify first, I can't control the situation here alone."
-Story-part25_5_2,"After you return to your sect, you immediately send the disciple who is best at toxicology there\nBut found that not only was it deserted, but there was blood everywhere\nIt seems that a fierce fight took place after you left..."
-Story-part25_6_1,"In order to save people, how can I care about my own life, I must continue to move forward!"
-Story-part25_6_2,"Cough cough cough... My consciousness is gradually blurring, there are two more steps..."
-Story-part25_6_3,"Forget it... Although you were deceived by a treacherous person, you are also a passionate and righteous person."
-Story-part25_6_4,"I have already removed the poison, you quickly take this medicine and take a deep breath."
-Story-part25_6_5,"Thank you, miss..."
-Story-part25_6_6,"Good grandson, have you almost expelled your poison? The hero of {MyFaction} tested the poison with his own body, breaking through Jiang Ziyan's poisonous miasma for us, now is the best time to grab that thing."
-Story-part25_6_7,Listen to the clan uncle's instructions!
-Story-part25_6_8,"Old man, you dare to deceive the head of my sect, I will make you pay!"
-Story-part25_7_1,"I still have some secret self-defense techniques, you are poisoned and staying here is also a hindrance, go quickly!"
-Story-part25_7_2,"Miss Jiang has led the enemy away, quickly retreat back to the sect..."
-Story-part25_8_1,"Old Man didn't know that {PlayerSurName} head was here, please spare my life!"
-Story-part25_8_2,So you are the head of {PlayerSurName}...
-Story-part25_8_3,"I carry a treasure and will be hunted wherever I go. The head of {PlayerSurName} seems to be a reliable and righteous person, I wonder if you can take me in?"
-Story-part25_8_4,"Of course, as long as Miss Jiang trusts {PlayerSurName}, no one will dare to trouble you in the future."
-Story-part25_9_1,"Leader, the cottage on Wuxian Mountain was suddenly empty last night, and the investigating Disciple didn't find anything special."
-Story-part25_9_2,"It's just a rumor, don't bother me with such things in the future."
+Story-part24_6_6,"{PlayerSurName}, thank you...",ท่านเจ้าสำนัก{PlayerSurName}... ขอบคุณนะ...
+Story-part24_7_1,"Master, the Vagabonds have broken into Baoguo Temple and kidnapped Princess Wanyan.",ท่านเจ้าสำนัก พวกชาวยุทธ์กลุ่มนั้นบุกเข้าไปในวัดเป่ากั๋ว แล้วชิงตัวองค์หญิงหวันเหยียนไปแล้วขอรับ
+Story-part24_7_2,"This is the bitter fruit she has brewed by being a pawn for the tiger, she can't blame others.",นี่คือผลกรรมที่นางช่วยเหลือคนชั่วก่อไว้ จะโทษใครอื่นก็มิได้
+Story-part25_1_1,"Master, villagers have reported that a strange wooden house has suddenly appeared in Wuxian Mountain recently.",ท่านเจ้าสำนักขอรับ มีชาวบ้านมารายงานว่า ช่วงนี้ในเภูเขาอู๋เซียนปรากฏกระท่อมไม้ประหลาดขึ้นมาโดยไม่มีใครทราบที่มา
+Story-part25_1_2,"Just a wooden house, what's so strange about that?",แค่กระท่อมไม้หลังเดียว จะมีอะไรให้ประหลาดกัน?
+Story-part25_1_3,"There's nothing special about the wooden house itself, but the animals dare not approach within two feet of the house, even screaming and fleeing desperately, as if there's something terrifying there...",ตัวกระท่อมไม้เองก็ไม่มีอะไร แต่สัตว์ทั้งหลายไม่กล้าเข้าใกล้กระท่อมในระยะสองจั้ง แม้แต่เสียงร้องยังโหยหวนพยายามหนีอย่างสุดชีวิต ราวกับว่าที่นั่นเต็มไปด้วยสิ่งน่าสะพรึงกลัว...
+Story-part25_1_4,"Such a strange thing, I, the head of the sect, will go and see for myself.",มีเรื่องประหลาดเช่นนี้ด้วยหรือ รอข้าไปดูด้วยตนเอง
+Story-part25_name,Mysterious Wooden House,กระท่อมไม้แปลกประหลาด
+Story-part25_log,"A strange little house has appeared in Wuxian Mountain recently, no animal dares to approach it.",ช่วงนี้ในเขาอู๋เซียนปรากฏกระท่อมไม้อันแปลกประหลาดขึ้นมา สัตว์ใดๆ ก็มิกล้าเฉียดใกล้
+Story-part25_2_1,"Hero, that's the house ahead, you can't go any further!",ท่านจอมยุทธ์ ข้างหน้าคือกระท่อมหลังนั้นแล้ว อย่าได้ก้าวต่อไปเลย
+Story-part25_2_2,"Old Man's twelve-year-old grandson came here chasing a group of butterflies yesterday. Out of curiosity, he took a few steps towards the hut and suddenly fainted.",เมื่อวานนี้หลานชายอายุสิบสองขวบของข้า ไล่ตามฝูงผีเสื้อมาถึงที่นี่ เพียงเพราะความอยากรู้อยากเห็นจึงเดินเข้าไปใกล้กระท่อมสองก้าว ผลปรากฏว่าก็ล้มลงหมดสติไป
+Story-part25_2_3,"Fortunately, a passerby saw him and immediately hooked him out with a grappling hook, but my poor grandson is still foaming at the mouth and talking nonsense, lying half-dead on the bed!",โชคดีที่คนเดินทางผ่านมาเห็นเข้า จึงรีบใช้ตะขอเกี่ยวตัวเขาออกมา แต่หลานชายผู้น่าสงสารของข้าก็ยังปากฟูมน้ำลายพล่ามเพ้อเจ้อ ตอนนี้ยังนอนซมอยู่บนเตียงปางตาย!
+Story-part25_2_4,"The neighbors say that you {MyFaction} are all virtuous heroes, please save Old Man's grandson!",เพื่อนบ้านบอกว่าพวกท่านสำนัก{MyFaction}ล้วนเป็นจอมยุทธ์ผู้มีคุณธรรมความกล้าหาญ ขอท่านโปรดช่วยหลานชายของข้าด้วยเถิด!
+Story-part25_2_5,Does it sound like symptoms of some kind of poisoning?,ฟังดูเหมือนเป็นอาการของพิษร้ายบางชนิด?
+Story-part25_2_6,"Animals have the most sensitive sense of smell, so they dare not approach the hut, which has caused the naughty child to suffer.",สัตว์นั้นมีประสาทดมกลิ่นไวที่สุด มันจึงไม่กล้าเข้าใกล้กระท่อม แต่กลับเป็นเด็กน้อยซุกซนที่ต้องเคราะห์ร้ายไป
+Story-part25_2_7,Who could be so cruel to deliberately poison a quarantine zone to prevent outsiders from entering the hut...,มันผู้ใดกันช่างโหดเหี้ยมถึงเพียงนี้ เพื่อป้องกันมิให้ผู้คนภายนอกบุกรุกกระท่อม กลับวางยาพิษสร้างเขตหวงห้ามโดยเจตนา...
+Story-part25_2_8,Should I force my way in to find out?,ข้าควรจะบุกเข้าไปดูให้รู้แจ้งเห็นจริงหรือไม่?
+Story-part25_op_1_1,"Toxicology is tricky, it's better to retreat first",วิชาพิษนั้นยากจะรับมือ ถอยทัพไปก่อนจะดีกว่า
+Story-part25_op_1_2,"To save the child, I have to take a risk",เพื่อช่วยชีวิตเด็กน้อย คงต้องบุกเข้าไปแล้ว
+Story-part25_3_1,"Toxicology is tricky, it's troublesome if you get poisoned, it's better to retreat first and find someone who understands toxicology...",วิชาพิษนั้นร้ายกาจนัก หากโดนเข้าคงเกิดเรื่องใหญ่ ถอยกลับไปหาผู้ชำนาญพิษก่อนดีกว่า...
+Story-part25_3_2,"After you return to your sect, you immediately send the disciple who is best at toxicology there\nBut found that not only was it deserted, but there was blood everywhere\nIt seems that a fierce fight took place after you left...","เมื่อท่านกลับถึงสำนัก ก็รีบส่งศิษย์ที่เชี่ยวชาญวิชาพิษที่สุดไปโดยพลัน\nแต่กลับพบว่าที่นั่นมิมีผู้ใดอยู่ ทั้งยังเต็มไปด้วยคราบโลหิต\nราวกับว่าหลังจากท่านจากไป ได้เกิดการต่อสู้ที่ดุเดือดขึ้น..."
+Story-part25_4_1,"There's no choice, life is at stake, I have to take a risk to save this child!",มิอาจหลีกเลี่ยงได้ ชีวิตคนสำคัญยิ่งนัก คงต้องบุกเข้าไปแล้วเพื่อช่วยชีวิตเด็กน้อยผู้นี้!
+Story-part25_4_2,"You silently run your protection internal strength and slowly walk towards the wooden house\nAt first, you didn't feel any discomfort\nBut as you take more and more steps, a sweet taste gradually rises in your throat...","ท่านรวบรวมพลังภายในคุ้มครองร่าง เดินไปยังกระท่อมไม้อย่างช้าๆ\nในตอนแรกท่านมิรู้สึกสิ่งผิดปกติใดๆ\nแต่เมื่อก้าวเท้ามากขึ้นเรื่อยๆ รสคาวหวานก็ค่อยๆ ปรากฏขึ้นในลำคอ..."
+Story-part25_4_3,"If it's to save that so-called grandson, I suggest you turn back immediately.",หากเพื่อช่วยชีวิตหลานชายคนนั้น ข้าแนะนำให้ท่านรีบถอยกลับไปเสีย
+Story-part25_4_4,"You are highly skilled, and the current poison is only in your flesh. If you go out and expel it yourself, it won't hurt. But if you insist on approaching despite my advice, don't blame me for not warning you when you get deep poison!",ท่านมีวรยุทธ์ล้ำเลิศ พิษตอนนี้เพียงซึมเข้าเนื้อหนัง หากออกไปขับไล่พิษก็คงไม่เป็นไร แต่หากท่านไม่ฟังคำเตือนดื้อดึงเข้าไปใกล้ รอจนพิษเข้าไขกระดูก อย่าหาว่าข้ามิได้เตือน!
+Story-part25_4_5,"The person in the house and Old Man's statements conflict, should I continue to move forward?",คำกล่าวของคนในกระท่อมขัดแย้งกับคำกล่าวของคนชรา ข้าควรจะก้าวต่อไปหรือไม่?
+Story-part25_4_6,"You have deep martial arts skills, the current poison only affects your skin and flesh. With your own cultivation, you can expel it with a little effort, and you will be safe.",ท่านมีวรยุทธ์ล้ำเลิศ พิษตอนนี้เพียงซึมเข้าเนื้อหนัง หากออกไปขับไล่พิษด้วยพลังภายในของท่านเอง ก็จะปลอดภัยไร้กังวล
+Story-part25_4_7,"But if you insist on approaching despite my advice, don't blame me for not warning you when you get deeply poisoned!",แต่หากท่านไม่ฟังคำเตือนดื้อดึงเข้าไปใกล้ รอจนพิษเข้ากระดูกไขข้อ อย่าหาว่าข้ามิได้เตือน!
+Story-part25_op_2_1,Go out and detoxify,ออกไปถอนพิษ
+Story-part25_op_2_2,Continue to move forward,เดินหน้าต่อไป
+Story-part25_5_1,"After a full meal, listen to the advice, go out and detoxify first, I can't control the situation here alone.",อิ่มท้องแล้วฟังคำเตือนเสียบ้าง ออกไปถอนพิษก่อนดีกว่า สถานการณ์ที่นี่มิใช่สิ่งที่ข้าผู้เดียวจะควบคุมได้
+Story-part25_5_2,"After you return to your sect, you immediately send the disciple who is best at toxicology there\nBut found that not only was it deserted, but there was blood everywhere\nIt seems that a fierce fight took place after you left...","เมื่อท่านกลับถึงสำนัก ก็รีบส่งศิษย์ที่เชี่ยวชาญวิชาพิษที่สุดไปโดยพลัน\nแต่กลับพบว่าที่นั่นมิมีผู้ใดอยู่ ทั้งยังเต็มไปด้วยคราบโลหิต\nราวกับว่าหลังจากท่านจากไป ได้เกิดการต่อสู้ที่ดุเดือดขึ้น..."
+Story-part25_6_1,"In order to save people, how can I care about my own life, I must continue to move forward!",เพื่อช่วยชีวิตคน จะมัวห่วงชีวิตตนเองได้อย่างไร ข้าต้องก้าวต่อไป!
+Story-part25_6_2,"Cough cough cough... My consciousness is gradually blurring, there are two more steps...",แค่กๆๆ... สติเริ่มเลือนลางแล้ว เหลืออีกเพียงสองก้าว...
+Story-part25_6_3,"Forget it... Although you were deceived by a treacherous person, you are also a passionate and righteous person.",ช่างเถิด... แม้ท่านจะถูกคนชั่วหลอกลวง แต่ก็เป็นผู้มีคุณธรรมและใจห้าวหาญ
+Story-part25_6_4,"I have already removed the poison, you quickly take this medicine and take a deep breath.",ข้าได้สลายม่านพิษออกไปแล้ว ท่านรีบกินยานี้แล้วสูดลมหายใจเข้าลึกๆ
+Story-part25_6_5,"Thank you, miss...",ขอบคุณแม่นาง...
+Story-part25_6_6,"Good grandson, have you almost expelled your poison? The hero of {MyFaction} tested the poison with his own body, breaking through Jiang Ziyan's poisonous miasma for us, now is the best time to grab that thing.",หลานรัก เจ้าขับพิษออกไปได้เกือบหมดแล้วใช่ไหม? จอมยุทธ์แห่งสำนัก{MyFaction}ยอมเสี่ยงชีวิตทดสอบพิษร้าย สลายม่านพิษเจี่ยงจื่อเยียนให้พวกเราแล้ว ตอนนี้เป็นโอกาสดีที่สุดที่จะชิงสิ่งนั้นมา!
+Story-part25_6_7,Listen to the clan uncle's instructions!,ขอน้อมรับคำสั่งท่านอา!
+Story-part25_6_8,"Old man, you dare to deceive the head of my sect, I will make you pay!",เจ้าแก่ กล้าหลอกลวงข้าถึงเพียงนี้ ข้าจะทำให้พวกเจ้าต้องชดใช้!
+Story-part25_7_1,"I still have some secret self-defense techniques, you are poisoned and staying here is also a hindrance, go quickly!",ข้ายังมีเคล็ดวิชาตั้งรับอีกหลายกระบวนท่า เจ้าโดนพิษอยู่ตรงนี้ก็เป็นภาระ รีบไปเสีย!
+Story-part25_7_2,"Miss Jiang has led the enemy away, quickly retreat back to the sect...",แม่นางเจี่ยงล่อพวกศัตรูไปแล้ว รีบฉวยโอกาสนี้ถอยกลับสำนักเถิด...
+Story-part25_8_1,"Old Man didn't know that {PlayerSurName} head was here, please spare my life!",ข้ามิรู้ว่าท่านเจ้าสำนัก{PlayerSurName}มาเยือน โปรดอภัยให้ข้าด้วย!
+Story-part25_8_2,So you are the head of {PlayerSurName}...,นี่ท่านคือ เจ้าสำนัก{PlayerSurName}...
+Story-part25_8_3,"I carry a treasure and will be hunted wherever I go. The head of {PlayerSurName} seems to be a reliable and righteous person, I wonder if you can take me in?",ข้ามีของวิเศษติดตัว ไม่ว่าไปแห่งหนใดก็มีคนตามล่า ท่านเจ้าสำนัก{PlayerSurName}ดูเหมือนจะเป็นผู้มีคุณธรรมน่าเชื่อถือ ไม่ทราบว่าจะรับข้าไว้ในความคุ้มครองได้หรือไม่?
+Story-part25_8_4,"Of course, as long as Miss Jiang trusts {PlayerSurName}, no one will dare to trouble you in the future.",ย่อมได้ ตราบใดที่แม่นางเจี่ยงไว้ใจข้า{PlayerSurName} ต่อจากนี้ไปจะไม่มีใครกล้าหาเรื่องท่านอีก
+Story-part25_9_1,"Leader, the cottage on Wuxian Mountain was suddenly empty last night, and the investigating Disciple didn't find anything special.",ท่านเจ้าสำนัก กระท่อมหลังนั้นบนเขาอู๋เซียนเมื่อคืนวานได้ร้างผู้คนไปแล้ว ศิษย์ที่ไปตรวจสอบก็มิพบสิ่งใดเป็นพิเศษ
+Story-part25_9_2,"It's just a rumor, don't bother me with such things in the future.",ก็แค่การเล่าลือกันไปเอง เรื่องเช่นนี้ต่อไปอย่าได้นำมาให้ข้าต้องวุ่นวายอีก
 Story-part26_1_1,"Leader, a strange old man suddenly came to our sect asking for medicine."
 Story-part26_1_2,"Huh? Even if the Herbology Sect is gone, it shouldn't be asking for medicine from our sect, could it be..."
 Story-part26_1_3,Could it be... who told others that I bought the Full recovery pill at a high price!
