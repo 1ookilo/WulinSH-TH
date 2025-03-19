@@ -2153,7 +2153,7 @@ Story-part23_1_13,"{PlayerSurName}Sect Leader, you are the martial arts hero I a
 Story-part23_1_14,"Although there are many things I don't understand, I will help you with this. I hope you can explain it to me later. Time is of the essence, let's go!",แม้ข้าจะยังไม่เข้าใจหลายสิ่ง แต่ข้าจะช่วยเจ้า หวังว่าเมื่อถึงเวลา เจ้าจะอธิบายให้ข้ากระจ่างแจ้งได้ ความเร็วเป็นสิ่งสำคัญ รีบไปกันเถิด!
 Story-part23_name,Imperial Seal,ตราประทับแผ่นดิน
 Story-part23_log,You have learned that Hisahide Saito is trying to return to Dongying with the Imperial Seal.,ท่านได้รับข่าวว่าไซโต้ฮิซาฮิเดะกำลังจะนำตราหยกหนีกลับไปยังแดนอาทิตย์อุทัย
-Story-part23_2_1,"These Zhao people are really stupid. I have the Imperial Seal in my hand, and they are still celebrating their victory.",พวกชาวจ้าวช่างโง่เง่า ตราหยกประจำแผ่นดินอยู่ในกำมือข้าแล้ว พวกมันยังคงหลงระเริงฉลองชัยชนะกันอยู่เลย
+Story-part23_2_1,"These Zhao people are really stupid. I have the Imperial Seal in my hand, and they are still celebrating their victory.",พวกแคว้นจ้าวช่างโง่เง่า ตราหยกประจำแผ่นดินอยู่ในกำมือข้าแล้ว พวกมันยังคงหลงระเริงฉลองชัยชนะกันอยู่เลย
 Story-part23_2_2,"As long as I can safely return to Dongying, I can use the Imperial Seal as a pledge to exchange for a large number of loyal and brave Dongying soldiers from the General. By then, with the joint attack of the Yan army, at least half of Zhao's land will be mine, haha!",ตราบใดที่ข้ากลับไปยังแดนอาทิตย์อุทัยได้อย่างปลอดภัย ข้าจะใช้ตราหยกเป็นเครื่องต่อรอง แลกกับทหารแดนอาทิตย์อุทัยผู้ภักดีและกล้าแกร่งจำนวนมาก ถึงเวลานั้นเมื่อร่วมมือกับกองทัพแคว้นเยี่ยนโจมตีสองทิศ อย่างน้อยครึ่งหนึ่งของแผ่นดินจ้าวก็จะเป็นของข้า ฮ่าๆๆ!
 Story-part23_2_3,"Saito, return the jade seal, or you will never be able to laugh after today!",ไซโต้ คืนตราหยกมาซะ มิเช่นนั้นวันนี้เจ้าจะไม่มีโอกาสได้หัวเราะอีกต่อไป!
 Story-part23_2_4,"Hey, I was wondering who it was, turns out it's you, the fallen princess. What, Tsukuyo, you also have your eyes on this Imperial Seal?",หืม ข้าก็นึกว่าใคร ที่แท้ก็เจ้าหญิงตกอับนี่เอง สึคุโยะ เจ้าก็หมายตาตราหยกประจำแผ่นดินนี่ด้วยรึ?
@@ -2275,83 +2275,83 @@ Story-part25_8_3,"I carry a treasure and will be hunted wherever I go. The head 
 Story-part25_8_4,"Of course, as long as Miss Jiang trusts {PlayerSurName}, no one will dare to trouble you in the future.",ย่อมได้ ตราบใดที่แม่นางเจี่ยงไว้ใจข้า{PlayerSurName} ต่อจากนี้ไปจะไม่มีใครกล้าหาเรื่องท่านอีก
 Story-part25_9_1,"Leader, the cottage on Wuxian Mountain was suddenly empty last night, and the investigating Disciple didn't find anything special.",ท่านเจ้าสำนัก กระท่อมหลังนั้นบนเขาอู๋เซียนเมื่อคืนวานได้ร้างผู้คนไปแล้ว ศิษย์ที่ไปตรวจสอบก็มิพบสิ่งใดเป็นพิเศษ
 Story-part25_9_2,"It's just a rumor, don't bother me with such things in the future.",ก็แค่การเล่าลือกันไปเอง เรื่องเช่นนี้ต่อไปอย่าได้นำมาให้ข้าต้องวุ่นวายอีก
-Story-part26_1_1,"Leader, a strange old man suddenly came to our sect asking for medicine."
-Story-part26_1_2,"Huh? Even if the Herbology Sect is gone, it shouldn't be asking for medicine from our sect, could it be..."
-Story-part26_1_3,Could it be... who told others that I bought the Full recovery pill at a high price!
-Story-part26_name,Old man asking for medicine
-Story-part26_log,"A strange old man came to ask for medicine, it seems he heard that you have a Full recovery pill."
-Story-part26_2_1,Life is just a grand dream~
-Story-part26_2_2,Only I can see through it~
-Story-part26_2_3,"Kid, I've been waiting for you~"
-Story-part26_2_4,"Old Man, you came to ask me for medicine, why are you reciting poems and playing the old card..."
-Story-part26_2_5,You don't even want to call me...
-Story-part26_2_6,{PlayerSurName} Leader!
-Story-part26_2_7,"Kid, you are just a small sect leader, just showing off in this small area."
-Story-part26_2_8,"But my skill, Yan Gexing, was second to none in the past!"
-Story-part26_2_9,"It's just because I was framed by a treacherous person, that's why I lost my cultivation and came to you for medicine."
-Story-part26_op_1_1,"It's just a pill, here you go."
-Story-part26_op_1_2,"Medicine, what medicine, do we have such a thing?"
-Story-part26_3_1,"It's just a pill, here you go."
-Story-part26_3_2,Is it this Full recovery pill?
-Story-part26_3_3,"Yes, yes, yes, I heard that this medicine can restore Meridian, can you give it to me?"
-Story-part26_3_4,"Who made me feel inexplicably kind to you, take it quickly, don't get hurt next time."
-Story-part26_3_5,"I won't say anything else, when I recover my skills, I will help you become a Jianghu Master!"
-Story-part26_3_6,"Yan Gexing took the pill with tears in his eyes and swallowed it in one gulp. Then he sat down on the spot, holding his breath and concentrating. After three shichen, he suddenly opened his eyes."
-Story-part26_3_7,"It's really a rare divine medicine, it made me..."
-Story-part26_3_8,"How is it, have you successfully recovered your skills?"
-Story-part26_3_9,It made me have a good sleep...
-Story-part26_3_10,"Well, I actually expected this situation, I was just desperate for a cure."
-Story-part26_3_11,"Kid, I see that you not only have amazing bones and extraordinary talent, but also a kind heart. I'll give you a good opportunity to take me in."
-Story-part26_3_12,"Jianghu is dangerous, every day countless small sects disappear, let me be the advisor of your sect, to guide you."
-Story-part26_4_1,"Medicine, what medicine, do we have such a thing?"
-Story-part26_4_2,"Don't play dumb, I've been staring at that Full recovery pill for a long time, but I couldn't afford it. I didn't expect you to get it."
-Story-part26_4_3,"I remind you, stop calling me kid, or I'll eat that Full recovery pill right now!"
-Story-part26_4_4,"Stop, don't swallow the medicine!!!"
-Story-part26_5_1,"You're so vigorous and lively, how can you say you've lost your cultivation!"
-Story-part26_5_2,"Anyway, after you scared me, I swallowed the medicine, and you have nothing to eat."
-Story-part26_5_3,"Well, it's not meant to be... I'll leave..."
-Story-part26_5_4,Yan Gexing sighed and turned to leave silently...
-Story-part26_6_1,"You're not planning to scam me, are you? I didn't initiate the fight."
-Story-part26_6_2,"Anyway, after you scared me, I swallowed the medicine, and you have nothing to eat."
-Story-part26_6_3,"Indeed, my cultivation is completely depleted, and now I can't even beat a minor sect leader."
-Story-part26_6_4,"Well, it's not meant to be... I'll leave..."
-Story-part26_6_5,Wait a minute?
-Story-part26_6_6,"Kid, what else do you want?"
-Story-part26_6_7,"Although your Meridian is broken, from those two moves just now, I can still see some skill. I, the sect leader, have a fate with you. Seeing your extraordinary bones and exceptional talent, would you consider joining my sect~"
-Story-part26_6_8,Huh?
-Story-part26_6_9,"My first reaction was quite outrageous, but upon further thought, it's not impossible..."
-Story-part26_6_10,"How about this, I can be an advisor to your sect, responsible for guiding the younger generation. But in exchange, you have to find a way to heal my injuries, okay?"
-Story-part26_6_11,Then welcome to join us~
-Story-part26_7_1,"I've been busy recently and forgot about the old man who came to our sect for medicine, how is he now?"
-Story-part26_7_2,"Reporting to the sect leader, the old man refused to leave and kept claiming that he was the founder of a major sect in the Peak of Jianghu, so he was carried away by the disciples."
-Story-part26_7_3,"Forget it, let's not worry about him, I still have a lot of things to do."
-Story-part27_1_1,"Kid, I heard..."
-Story-part27_1_2,"Yan elder, although you are an advisor to our sect, please address me as ""sect leader"" in your address, thank you."
-Story-part27_1_3,"Humph, I'll call you that."
-Story-part27_1_4,"Sect leader kid, I heard that our sect has recently expanded its influence to the territory of Melody House."
-Story-part27_1_5,"There is a forbidden place in Melody House called the Immortal Spring. My sect's heart method combined with the water of the Immortal Spring can completely eliminate the hidden dangers of old injuries, so..."
-Story-part27_1_6,"Oh, I see, after I finish my current work, let's go to the Immortal Spring together."
-Story-part27_name,Immortal Spring
-Story-part27_log,"Yan Gexing said that the Immortal Spring can eliminate his old injuries, and he asked you to accompany him there."
-Story-part27_2_1,This must be the legendary Eternal Spring...
-Story-part27_2_2,"Head of the sect, go and keep watch for me. I need to heal my injuries through meditation."
-Story-part27_2_3,"Alright, alright, your healing is important, Old Man..."
-Story-part27_2_4,The highest goodness is like water...
-Story-part27_2_5,"Water benefits all things without contention. It stays in places that people dislike. Therefore, it is similar to the Tao..."
-Story-part27_2_6,"Yan Gexing sat in the spring eye, slowly using his unique martial arts\nAfter a full six shichen, he finally shouted and jumped up from the water\nThe splashing water woke you up from your deep sleep..."
-Story-part27_2_7,Ah... What happened?
-Story-part27_2_8,"I didn't expect that in my lifetime, I would have the opportunity to return to the peak of Passive, haha!"
-Story-part27_2_9,What was that move just now? It looked pretty cool.
-Story-part27_2_10,"Young Sect Leader, come and fight with me, so you won't say I'm bragging!"
-Story-part27_2_11,"Well, I, the Sect Leader, will accompany you to practice."
-Story-part27_3_1,What kind of strange martial art is this? It actually defeated me in one move!
-Story-part27_3_2,"Hehe, now you know how powerful I am! Be humble and learn next time, maybe I will give you some pointers, hm~"
-Story-part27_4_1,"Although this battle has given me a lot of insights into Martial Arts, to be honest, compared with me, the Sect Leader, Yan's level is still a bit lacking~"
-Story-part27_4_2,"The fist fears the young, you know. When you get old, you won't say that, hmph!"
-Story-part27_5_1,"Head of the sect, are you always afraid that after I recover my strength, I will take your position as the head of the sect?"
-Story-part27_5_2,"Yan, are you joking? I, as the head of the sect, am not that narrow-minded. I'm just busy with affairs..."
-Story-part27_5_3,"Forget it, forget it. At my age, why should I fight for the Peak of Jianghu... sigh..."
-Story-part28_1_1,"Head of the sect, a messenger from the Ye Family Battalion has delivered an urgent letter. Please read it as soon as possible."
+Story-part26_1_1,"Leader, a strange old man suddenly came to our sect asking for medicine.",ท่านเจ้าสำนัก! มีชายชราประหลาดผู้หนึ่งมาเยือนหน้าประตูสำนัก กล่าวว่าต้องการขอโอสถจากสำนักเรา
+Story-part26_1_2,"Huh? Even if the Herbology Sect is gone, it shouldn't be asking for medicine from our sect, could it be...",หา? แม้ว่าสำนักพฤกษาจะล่มสลายไปแล้ว ก็ไม่น่าจะถึงกับต้องมาขอโอสถจากสำนักเรานี่นา หรือว่า...!
+Story-part26_1_3,Could it be... who told others that I bought the Full recovery pill at a high price!,หรือว่า... พวกเจ้าคนใดกันแน่ ที่แพร่งพรายเรื่องที่ข้าทุ่มเงินทองมหาศาลซื้อโอสถฟื้นคืนสวรรค์ออกไป!
+Story-part26_name,Old man asking for medicine,ชายชราผู้มาขอโอสถ
+Story-part26_log,"A strange old man came to ask for medicine, it seems he heard that you have a Full recovery pill.",มีชายชราประหลาดมาเยือนถึงประตูสำนัก เพื่อขอโอสถ ดูเหมือนว่าเขาจะได้ข่าวเรื่องโอสถฟื้นคืนสวรรค์ที่ท่านมี
+Story-part26_2_1,Life is just a grand dream~,ความฝันใครรู้ล่วงหน้า~
+Story-part26_2_2,Only I can see through it~,เเต่ข้านี้เเลรู้ได้~
+Story-part26_2_3,"Kid, I've been waiting for you~",เด็กน้อย ข้ากำลังรอเจ้าอยู่เลย~
+Story-part26_2_4,"Old Man, you came to ask me for medicine, why are you reciting poems and playing the old card...",ท่านผู้เฒ่า ท่านมิได้มาหาข้าเพื่อขอโอสถหรือ เหตุใดจึงเอาแต่ท่องบทกวีและวางท่าอาวุโสเช่นนี้...?
+Story-part26_2_5,You don't even want to call me...,เจ้าถึงกับไม่ยอมเรียกข้าสักคำเลยหรือ...
+Story-part26_2_6,{PlayerSurName} Leader!,เจ้าสำนัก{PlayerSurName}!
+Story-part26_2_7,"Kid, you are just a small sect leader, just showing off in this small area.",เจ้าหนู เจ้าก็เป็นแค่เจ้าสำนักเล็กๆ ที่ทำกร่างอยู่ในพื้นที่กระจ้อยร่อยนี้เท่านั้น!
+Story-part26_2_8,"But my skill, Yan Gexing, was second to none in the past!",แต่ฝีมือของข้า เยี่ยนเก้อซิง ในอดีตกาลนั้น อยู่ใต้คนเพียงผู้เดียว เหนือกว่าคนทั้งปฐพี!
+Story-part26_2_9,"It's just because I was framed by a treacherous person, that's why I lost my cultivation and came to you for medicine.",ก็เพราะถูกคนทรยศหักหลัง จึงทำให้พลังภายในเสียหายอย่างหนัก จำเป็นต้องมาขอโอสถจากเจ้า!
+Story-part26_op_1_1,"It's just a pill, here you go.",ก็แค่โอสถเม็ดหนึ่งเท่านั้น มอบให้ท่านไปก็แล้วกัน!
+Story-part26_op_1_2,"Medicine, what medicine, do we have such a thing?",โอสถ? โอสถอะไร? มีของเช่นนั้นอยู่จริงหรือ?
+Story-part26_3_1,"It's just a pill, here you go.",ก็แค่โอสถเม็ดหนึ่งเท่านั้น มอบให้ท่านไปก็แล้วกัน!
+Story-part26_3_2,Is it this Full recovery pill?,นี่คือโอสถฟื้นคืนสวรรค์ใช่ไหม?
+Story-part26_3_3,"Yes, yes, yes, I heard that this medicine can restore Meridian, can you give it to me?",ใช่ๆๆ ได้ยินมาว่าโอสถนี้สามารถฟื้นฟูเส้นลมปราณได้ เจ้าจะมอบให้ข้าได้หรือไม่?
+Story-part26_3_4,"Who made me feel inexplicably kind to you, take it quickly, don't get hurt next time.",ไม่รู้ทำไมข้ามองท่านแล้วรู้สึกคุ้นเคยอย่างน่าประหลาด รีบรับไปเถิด คราวหน้าอย่าได้บาดเจ็บอีก!
+Story-part26_3_5,"I won't say anything else, when I recover my skills, I will help you become a Jianghu Master!",ข้ามิกล่าวสิ่งใดอีกแล้ว รอข้าฟื้นฟูวรยุทธ์ จะส่งเสริมให้เจ้าขึ้นเป็นผู้นำยุทธภพ!
+Story-part26_3_6,"Yan Gexing took the pill with tears in his eyes and swallowed it in one gulp. Then he sat down on the spot, holding his breath and concentrating. After three shichen, he suddenly opened his eyes.",เยี่ยนเก้อซิงรับโอสถเม็ดนั้นมาด้วยน้ำตาเอ่อคลอ แล้วกลืนลงคอในคราเดียว จากนั้นเขาจึงนั่งลงทำสมาธิ สงบจิตใจ ควบคุมลมปราณ ผ่านไปสามชั่วยามเต็มๆ เขาก็พลันลืมตาขึ้น
+Story-part26_3_7,"It's really a rare divine medicine, it made me...",ช่างเป็นโอสถสวรรค์ที่หายากยิ่งในใต้หล้า ทำให้ข้า...
+Story-part26_3_8,"How is it, have you successfully recovered your skills?",เป็นอย่างไรบ้าง พลังของท่านกลับมาเป็นปกติแล้วหรือไม่?
+Story-part26_3_9,It made me have a good sleep...,ทำให้ข้าได้หลับอย่างเป็นสุขยิ่ง...
+Story-part26_3_10,"Well, I actually expected this situation, I was just desperate for a cure.",เฮ้อ ที่จริงข้าก็พอจะคาดเดาถึงสถานการณ์นี้ได้อยู่แล้ว เพียงแต่ด้วยความทุกข์ทรมาน จึงคิดลองเสี่ยงดูสักตั้งเท่านั้น
+Story-part26_3_11,"Kid, I see that you not only have amazing bones and extraordinary talent, but also a kind heart. I'll give you a good opportunity to take me in.",เจ้าหนุ่ม ข้าเห็นว่าเจ้ามิเพียงแต่มีกระดูกที่น่าทึ่ง พรสวรรค์ที่เลิศล้ำ ทั้งยังมีจิตใจที่เปี่ยมด้วยคุณธรรม ข้าจะมอบโอกาสให้เจ้าในการรับข้าไว้ดูแลก็แล้วกัน
+Story-part26_3_12,"Jianghu is dangerous, every day countless small sects disappear, let me be the advisor of your sect, to guide you.",ยุทธภพช่างโหดร้าย สำนักน้อยใหญ่ล้มหายตายจากทุกวัน ให้ข้าเป็นที่ปรึกษาของสำนักเจ้า ชี้แนะแนวทางให้เจ้าเถิด
+Story-part26_4_1,"Medicine, what medicine, do we have such a thing?",โอสถ? โอสถอะไร? มีของเช่นนั้นอยู่จริงหรือ?
+Story-part26_4_2,"Don't play dumb, I've been staring at that Full recovery pill for a long time, but I couldn't afford it. I didn't expect you to get it.",อย่ามาทำเป็นไม่รู้เรื่อง ข้าจ้องโอสถฟื้นคืนสวรรค์เม็ดนั้นมานานแล้ว แต่เพราะกระเป๋าแห้งจึงซื้อมันไม่ได้ ไม่คิดว่าเจ้าจะได้มันไป
+Story-part26_4_3,"I remind you, stop calling me kid, or I'll eat that Full recovery pill right now!",ข้าขอเตือนท่าน อย่าได้เรียกข้าว่าเจ้าหนุ่มน้อยอีก มิฉะนั้น ข้าจะกลืนโอสถฟื้นคืนสวรรค์เม็ดนั้นเสียบัดนี้!
+Story-part26_4_4,"Stop, don't swallow the medicine!!!",หยุดก่อน! ห้ามกลืนยาลงไปโดยเด็ดขาด!!!
+Story-part26_5_1,"You're so vigorous and lively, how can you say you've lost your cultivation!",คล่องแคล่วถึงเพียงนี้ จะเรียกว่าพลังภายในเสียหายได้อย่างไรกัน!
+Story-part26_5_2,"Anyway, after you scared me, I swallowed the medicine, and you have nothing to eat.",อย่างไรเสีย พอท่านทำให้ข้าตกใจเช่นนี้ โอสถก็ถูกข้ากลืนไปแล้ว ท่านก็หมดสิทธิ์เช่นกัน!
+Story-part26_5_3,"Well, it's not meant to be... I'll leave...",เฮ้อ ช่างเป็นวาสนาที่มิอาจฝืนลิขิต... ขอลา...
+Story-part26_5_4,Yan Gexing sighed and turned to leave silently...,เยี่ยนเก้อซิงถอนหายใจอย่างเศร้าสร้อย แล้วหันหลังเดินจากไปอย่างเงียบเชียบ...
+Story-part26_6_1,"You're not planning to scam me, are you? I didn't initiate the fight.",ท่านคงมิได้คิดจะตบตาข้ากระมัง หาใช่ข้าที่หาเรื่องกับท่านก่อนนะ
+Story-part26_6_2,"Anyway, after you scared me, I swallowed the medicine, and you have nothing to eat.",อย่างไรเสีย พอท่านทำให้ข้าตกใจเช่นนี้ โอสถก็ถูกข้ากลืนไปแล้ว ท่านก็หมดสิทธิ์เช่นกัน!
+Story-part26_6_3,"Indeed, my cultivation is completely depleted, and now I can't even beat a minor sect leader.",เป็นจริงดังคาด พลังลมปราณมิเหลือแม้แต่น้อย บัดนี้ถึงกับพ่ายแพ้แม้แต่เจ้าสำนักเล็กๆ เช่นนี้
+Story-part26_6_4,"Well, it's not meant to be... I'll leave...",เฮ้อ ช่างเป็นวาสนาที่มิอาจฝืนลิขิต... ขอลา...
+Story-part26_6_5,Wait a minute?,ช้าก่อน?
+Story-part26_6_6,"Kid, what else do you want?",เจ้าหนู ยังมีอะไรอีกหรือ?
+Story-part26_6_7,"Although your Meridian is broken, from those two moves just now, I can still see some skill. I, the sect leader, have a fate with you. Seeing your extraordinary bones and exceptional talent, would you consider joining my sect~",แม้ว่าเส้นลมปราณของท่านจะขาดสะบั้น แต่จากสองกระบวนท่าเมื่อครู่ ก็พอจะเห็นถึงระดับฝีมืออยู่บ้าง ข้าเห็นว่าเรามีวาสนาต่อกัน เห็นว่าท่านมีกระดูกที่น่าทึ่ง พรสวรรค์ที่เลิศล้ำ สนใจที่จะเข้าร่วมสำนักของเราหรือไม่?
+Story-part26_6_8,Huh?,หือ?
+Story-part26_6_9,"My first reaction was quite outrageous, but upon further thought, it's not impossible...",ทีแรกข้าก็รู้สึกว่ามันช่างไร้สาระยิ่งนัก แต่เมื่อคิดดูอีกที ก็มิใช่ว่าจะเป็นไปไม่ได้เสียทีเดียว...
+Story-part26_6_10,"How about this, I can be an advisor to your sect, responsible for guiding the younger generation. But in exchange, you have to find a way to heal my injuries, okay?",เอาอย่างนี้ก็แล้วกัน ข้าจะเป็นที่ปรึกษาของสำนักเจ้า คอยชี้แนะแนวทางให้ศิษย์รุ่นหลัง แต่เป็นการแลกเปลี่ยน เจ้าต้องหาวิธีรักษาอาการบาดเจ็บของข้าให้หายดี ตกลงไหม?
+Story-part26_6_11,Then welcome to join us~,เช่นนั้นก็ขอต้อนรับท่านผู้อาวุโสเข้าร่วมสำนักของเรา~
+Story-part26_7_1,"I've been busy recently and forgot about the old man who came to our sect for medicine, how is he now?",ช่วงนี้ข้าติดภารกิจมากมาย ลืมดูแลชายชราที่มาขอโอสถจากสำนักเราไป บัดนี้เขาเป็นอย่างไรบ้าง?
+Story-part26_7_2,"Reporting to the sect leader, the old man refused to leave and kept claiming that he was the founder of a major sect in the Peak of Jianghu, so he was carried away by the disciples.",เรียนท่านเจ้าสำนัก ชายชราผู้นั้นมิยอมจากไป ยังคงร้องตะโกนว่าตนเองเป็นผู้ก่อตั้งสำนักอันดับหนึ่งแห่งยุทธภพ สุดท้ายศิษย์ในสำนักจึงช่วยกันยกตัวเขาออกไป
+Story-part26_7_3,"Forget it, let's not worry about him, I still have a lot of things to do.",ช่างเขาเถิด ข้ายังมีภารกิจอีกมากมายที่ต้องทำ
+Story-part27_1_1,"Kid, I heard...",เจ้าหนุ่ม ข้าได้ยินมาว่า...
+Story-part27_1_2,"Yan elder, although you are an advisor to our sect, please address me as ""sect leader"" in your address, thank you.","ท่านผู้อาวุโสเยี่ยน แม้ว่าท่านจะเป็นที่ปรึกษาของสำนักเรา แต่ในการเรียกขาน โปรดเรียกข้าว่า""เจ้าสำนัก""ด้วย ขอบคุณ"
+Story-part27_1_3,"Humph, I'll call you that.",ฮึ่ม เรียกก็เรียก
+Story-part27_1_4,"Sect leader kid, I heard that our sect has recently expanded its influence to the territory of Melody House.",เจ้าสำนักหนุ่ม ข้าได้ยินมาว่า ช่วงนี้สำนักของเจ้าได้ขยายอิทธิพลไปยังเขตแดนของตำหนักบทเพลงแล้ว
+Story-part27_1_5,"There is a forbidden place in Melody House called the Immortal Spring. My sect's heart method combined with the water of the Immortal Spring can completely eliminate the hidden dangers of old injuries, so...",ในตำหนักบทเพลงนั้นมีเขตหวงห้ามแห่งหนึ่งชื่อว่าน้ำพุแห่งความเยาว์วัย วิชาลมปราณประจำสำนักของข้า เมื่อใช้ร่วมกับน้ำในน้ำพุแห่งความเยาว์วัย จะสามารถขจัดบาดแผลเก่าและภัยแฝงต่างๆ ได้อย่างหมดจด ดังนั้น...
+Story-part27_1_6,"Oh, I see, after I finish my current work, let's go to the Immortal Spring together.",อ่า เข้าใจแล้ว รอข้าจัดการเรื่องที่ค้างอยู่ให้เสร็จสิ้นก่อน แล้วเราค่อยไปแช่น้ำพุแห่งความเยาว์วัยด้วยกัน
+Story-part27_name,Immortal Spring,น้ำพุแห่งความเยาว์วัย
+Story-part27_log,"Yan Gexing said that the Immortal Spring can eliminate his old injuries, and he asked you to accompany him there.",เยี่ยนเก้อซิงกล่าวว่าน้ำพุแห่งความเยาว์วัยสามารถขจัดบาดแผลเก่าของเขาได้ จึงขอให้ท่านร่วมเดินทางไปกับเขา
+Story-part27_2_1,This must be the legendary Eternal Spring...,นี่ต้องเป็นน้ำพุแห่งความเยาว์วัยในตำนานเป็นแน่...
+Story-part27_2_2,"Head of the sect, go and keep watch for me. I need to heal my injuries through meditation.",เจ้าหนุ่ม เจ้าไปคอยดูลาดเลาให้ข้า ข้าจะเร่งลมปราณรักษาอาการบาดเจ็บก่อน
+Story-part27_2_3,"Alright, alright, your healing is important, Old Man...",เอาเถิด เอาเถิด รักษาอาการบาดเจ็บของท่านเป็นเรื่องสำคัญ...
+Story-part27_2_4,The highest goodness is like water...,ความดีอันสูงสุดนั้นคล้ายกับน้ำ...
+Story-part27_2_5,"Water benefits all things without contention. It stays in places that people dislike. Therefore, it is similar to the Tao...",น้ำให้คุณแก่สรรพสิ่งมิได้แย่งชิงสิ่งใด ตั้งตนอยู่ในที่ต่ำ ที่อันทุกคนรังเกียจเหยียดหยาม ดังนั้นจึงนับว่าได้เข้าไปใกล้กับเต๋า...
+Story-part27_2_6,"Yan Gexing sat in the spring eye, slowly using his unique martial arts\nAfter a full six shichen, he finally shouted and jumped up from the water\nThe splashing water woke you up from your deep sleep...","เยี่ยนเก้อซิงนั่งขัดสมาธิอยู่กลางบ่อน้ำ แล้วค่อยๆ เคลื่อนลมปราณประจำสำนักของเขา\nหลังจากผ่านไปหกชั่วยามเต็มๆ ในที่สุดเขาก็ตะโกนลั่นแล้วกระโดดขึ้นจากน้ำ\nละอองน้ำกระเซ็นสาดใส่ ปลุกท่านที่กำลังหลับใหลอยู่ข้างๆ อย่างแรง..."
+Story-part27_2_7,Ah... What happened?,อ๊ะ...เกิดอะไรขึ้น?
+Story-part27_2_8,"I didn't expect that in my lifetime, I would have the opportunity to return to the peak of Passive, haha!",คาดไม่ถึงเลยว่าในชีวิตนี้ ข้าจะมีโอกาสกลับคืนสู่จุดสูงสุดของวิถีแห่งจอมยุทธ์ได้อีกครั้ง ฮ่าๆ!
+Story-part27_2_9,What was that move just now? It looked pretty cool.,กระบวนท่าเมื่อครู่คือวิชาใดกัน ช่างดูสง่างามยิ่งนัก?
+Story-part27_2_10,"Young Sect Leader, come and fight with me, so you won't say I'm bragging!",เจ้าสำนักหนุ่ม มาประลองฝีมือกับข้าสักยก เพื่อมิให้เจ้ากล่าวหาว่าข้าโม้อีก!
+Story-part27_2_11,"Well, I, the Sect Leader, will accompany you to practice.",ดี ข้าจะประลองฝีมือกับท่านสักหน่อยก็แล้วกัน
+Story-part27_3_1,What kind of strange martial art is this? It actually defeated me in one move!,นี่มันวิชาอะไรกัน ถึงกับเอาชนะข้าผู้เป็นเจ้าสำนักได้ในกระบวนท่าเดียว!
+Story-part27_3_2,"Hehe, now you know how powerful I am! Be humble and learn next time, maybe I will give you some pointers, hm~",ฮี่ฮี่ รู้ฤทธิ์เดชของข้าแล้วสินะ! คราวหน้าจงอ่อนน้อมถ่อมตนให้มากกว่านี้ บางทีข้าอาจจะเมตตาชี้แนะเจ้าบ้างก็ได้ ฮึ่ม~
+Story-part27_4_1,"Although this battle has given me a lot of insights into Martial Arts, to be honest, compared with me, the Sect Leader, Yan's level is still a bit lacking~",แม้ว่าการประลองครั้งนี้จะทำให้ข้าได้เรียนรู้เคล็ดวิชามากมาย แต่พูดตามตรง ฝีมือของท่านผู้อาวุโสเยี่ยนก็ยังด้อยกว่าข้าอยู่ดี
+Story-part27_4_2,"The fist fears the young, you know. When you get old, you won't say that, hmph!",หมัดเกรงคนหนุ่มแน่น รู้จักไหม รอให้เจ้าแก่ตัวลง เจ้าก็จะไม่กล่าวเช่นนี้แล้ว ฮึ่ม!
+Story-part27_5_1,"Head of the sect, are you always afraid that after I recover my strength, I will take your position as the head of the sect?",เจ้าหนุ่ม เจ้าคงจะหวาดระแวงว่าข้าจะแย่งชิงตำแหน่งเจ้าสำนักของเจ้า หลังจากที่ข้าฟื้นฟูพลังลมปราณแล้วงั้นสิ?
+Story-part27_5_2,"Yan, are you joking? I, as the head of the sect, am not that narrow-minded. I'm just busy with affairs...",ท่านผู้อาวุโสเยี่ยน ท่านพูดเล่นอะไรกัน ข้ามิใช่คนใจแคบเช่นนั้น เพียงแต่ช่วงนี้ภารกิจล้นมือเท่านั้น...
+Story-part27_5_3,"Forget it, forget it. At my age, why should I fight for the Peak of Jianghu... sigh...",ช่างเถิด ช่างเถิด อายุข้าปูนนี้แล้ว จะไปแย่งชิงความเป็นหนึ่งในใต้หล้าไปทำไมกัน...เฮ้อ...
+Story-part28_1_1,"Head of the sect, a messenger from the Ye Family Battalion has delivered an urgent letter. Please read it as soon as possible.",ท่านเจ้าสำนัก ทหารสื่อสารจากกองทัพตระกูลเย่ได้ส่งสาส์นด่วนที่สุดมา โปรดท่านรีบอ่านโดยเร็ว
 Story-part28_1_2,"It turns out that a Beiwei Army squad encountered an accident while carrying out a mission near our sect. The details are unclear, and they hope our sect can help confirm the situation."
 Story-part28_1_3,We must act quickly and send someone to check it out.
 Story-part28_name,Siege of Beiwei
