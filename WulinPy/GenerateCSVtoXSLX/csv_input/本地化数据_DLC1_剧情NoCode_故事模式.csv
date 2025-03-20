@@ -299,24 +299,24 @@ sto-fj-4_3_2,"Sect Leader, something terrible has happened. The government and t
 sto-fj-4_3_3,"The soldiers and the martial arts experts hired by Merchant Ding have joined forces and surrounded our sect, vowing to capture you and find out Kong Yidao's whereabouts...",ทหารของทางการและจอมยุทธ์ที่พ่อค้าติงจ้างมา รวมกำลังกันล้อมสำนักเราไว้หมดแล้ว สาบานว่าจะจับตัวท่าน เพื่อซักถามที่อยู่ของขงอี้เตา…
 sto-main-7_1_1,"Congratulations to the leader of {PlayerSurName}, and congratulations to the leader of {PlayerSurName}!",ขอแสดงความยินดีกับท่านเจ้าสำนัก {PlayerSurName}! ขอแสดงความยินดีด้วย!
 sto-main-7_1_2,"The Blue Wind Camp has long been a thorn in the side of the government, and it's surprising that it was eradicated by your sect today.",พวกโจรค่ายวายุครามสร้างความเดือดร้อนให้ชาวบ้านมานานแล้ว ทางการก็พยายามจะจัดการพวกมันมานานเช่นกัน แต่สุดท้ายก็เป็นท่านที่สามารถกำจัดพวกมันได้
-sto-main-7_1_3,"In order to commend {MyFaction} for their great contribution, the Prefect has sent me to present this plaque. Please take a look——",เพื่อแสดงความยกย่องสำนัก{MyFaction} สำหรับความดีอันยิ่งใหญ่ ท่านผู้ว่าการได้มอบหมายให้ข้านำป้ายมาให้ ท่านโปรดดูสิ——
+sto-main-7_1_3,"In order to commend {MyFaction} for their great contribution, the Prefect has sent me to present this plaque. Please take a look——",เพื่อแสดงความยกย่องสำนัก{MyFaction} สำหรับความดีอันยิ่งใหญ่ ท่านเจ้าเมืองได้มอบหมายให้ข้านำป้ายมาให้ ท่านโปรดดูสิ——
 sto-main-7_1_4,Loyalty... Devotion... Service... to the country?,ซื่อ...สัตย์...รัก...ชาติ?
 sto-main-7_1_5,"I just eradicated the Blue Wind Camp, how did it escalate to this level?",ข้าแค่กำจัดค่ายวายุครามเท่านั้น ไฉนถึงกลายเป็นเรื่องยิ่งใหญ่ขนาดนี้?
 sto-main-7_1_6,"Leader {PlayerSurName}, you're wrong. People in the martial arts world often take pride in breaking the law with martial arts and often confront the government.",ท่านเจ้าสำนัก{PlayerSurName} คำพูดนี้ไม่ถูกต้องนะ ผู้คนในยุทธภพมักภูมิใจที่ได้ขัดขืนกฎ และมักต่อต้านทางการอยู่เป็นนิจ
 sto-main-7_1_7,"Although your sect started from humble beginnings, it has a heart of loyalty and bravery. The righteous act of eradicating the Blue Wind Camp is the best proof.",แต่สำนักของท่าน แม้จะเริ่มต้นจากฐานะธรรมดา แต่กลับมีความซื่อสัตย์และกล้าหาญ การกำจัดค่ายวายุคราม ก็คือหลักฐานที่ยืนยันได้อย่างชัดเจน
-sto-main-7_1_8,"In addition to presenting this commendation plaque, I am also here to convey the Prefect's goodwill. The Prefect is interested in recruiting your sect. As long as your sect is willing to work for the government, rapid promotion is just around the corner!",ข้ามาในครั้งนี้ ไม่เพียงแต่จะมอบป้ายประกาศเกียรติคุณเท่านั้น แต่ยังนำความปรารถนาดีจากท่านผู้ว่าการมาด้วย ท่านผู้ว่าต้องการให้สำนักของท่านร่วมงานกับทางการ หากตกลง อนาคตจะรุ่งโรจน์อย่างแน่นอน!
+sto-main-7_1_8,"In addition to presenting this commendation plaque, I am also here to convey the Prefect's goodwill. The Prefect is interested in recruiting your sect. As long as your sect is willing to work for the government, rapid promotion is just around the corner!",ข้ามาในครั้งนี้ ไม่เพียงแต่จะมอบป้ายประกาศเกียรติคุณเท่านั้น แต่ยังนำความปรารถนาดีจากท่านเจ้าเมืองมาด้วย ท่านเจ้าเมืองต้องการให้ สำนักของท่านร่วมงานกับทางการ หากตกลง อนาคตจะรุ่งโรจน์อย่างแน่นอน!
 sto-main-7_1_9,I didn't expect the government to try to win over our sect to work for them. Should we agree?,ไม่คาดคิดเลยว่า ทางการจะมาชวนสำนักของข้า ให้ทำงานให้พวกเขา ข้าควรจะตอบตกลงหรือไม่ดี?
 sto-main-7_op_1_1,"Agree, having multiple identities opens up more paths.",ตกลง จะดีกว่าถ้ามีทางเลือกเยอะขึ้น
 sto-main-7_op_1_2,"Disagree, a Vagabond should not join forces with the government.",ไม่ตกลง พวกเราชาวยุทธ์ จะไปร่วมมือกับทางการ เป็นข้าราชการได้อย่างไร
-sto-main-7_2_1,Having multiple identities opens up more paths. I hope you can speak well of our sect in front of the Prefect.,มีหลายเส้นทางให้เลือกย่อมดีกว่าอยู่แล้ว ข้าหวังว่าท่านจะกรุณาไปกล่าวชมสำนักของข้าต่อท่านผู้ว่าการด้วย
-sto-main-7_2_2,"Of course, although your sect is commendable for its loyalty and bravery, its power is not yet strong. I hope that Leader {PlayerSurName} can lead the disciples to expand the sect's influence to <color=#a94e37>five territories</color>. The Prefect will surely reward you!",แน่นอนสิ สำนักของท่านแม้จะซื่อสัตย์กล้าหาญ แต่ตอนนี้อำนาจยังไม่แข็งแกร่งนัก ท่านเจ้าสำนัก{PlayerSurName} ควรนำศิษย์ขยายอำนาจของสำนักไป <color=#a94e37>ห้าพื้นที่</color> และท่านผู้ว่าจะมอบรางวัลให้อย่างงาม!
+sto-main-7_2_1,Having multiple identities opens up more paths. I hope you can speak well of our sect in front of the Prefect.,มีหลายเส้นทางให้เลือกย่อมดีกว่าอยู่แล้ว ข้าหวังว่าท่านจะกรุณาไปกล่าวชมสำนักของข้าต่อท่านเจ้าเมืองด้วย
+sto-main-7_2_2,"Of course, although your sect is commendable for its loyalty and bravery, its power is not yet strong. I hope that Leader {PlayerSurName} can lead the disciples to expand the sect's influence to <color=#a94e37>five territories</color>. The Prefect will surely reward you!",แน่นอนสิ สำนักของท่านแม้จะซื่อสัตย์กล้าหาญ แต่ตอนนี้อำนาจยังไม่แข็งแกร่งนัก ท่านเจ้าสำนัก{PlayerSurName} ควรนำศิษย์ขยายอำนาจของสำนักไป <color=#a94e37>ห้าพื้นที่</color> และท่านเจ้าเมืองจะมอบรางวัลให้อย่างงาม!
 sto-main-7_2_3,Thank you for your guidance!,ขอบคุณท่านสำหรับคำชี้แนะ!
 sto-main-7_name,Main Quest,ภารกิจหลัก
 sto-main-7_log,Expand the sect's influence to five territories.,ขยายดินแดนสำนักไปห้าพื้นที่
 sto-main-7_3_1,We are all Vagabonds who refuse to conform to the king's rule. It might be difficult for us to join forces with the government.,พวกเราทั้งหลายล้วนเป็นชาวยุทธ์ จะไม่ยอมอยู่ใต้อำนาจการปกครองของทางการ การร่วมมือกับทางการคงเป็นเรื่องที่ฝืนเกินไป
-sto-main-7_3_2,"Leader {PlayerSurName}, do you know the disaster that your words just now could bring if they reach the Prefect's ears?",ท่านเจ้าสำนัก{PlayerSurName} ท่านรู้หรือไม่ว่าคำพูดเช่นนี้ หากไปถึงหูท่านผู้ว่า จะนำภัยพิบัติมาให้ท่านอย่างไร?
+sto-main-7_3_2,"Leader {PlayerSurName}, do you know the disaster that your words just now could bring if they reach the Prefect's ears?",ท่านเจ้าสำนัก{PlayerSurName} ท่านรู้หรือไม่ว่าคำพูดเช่นนี้ หากไปถึงหูท่านเจ้าเมือง จะนำภัยพิบัติมาให้ท่านอย่างไร?
 sto-main-7_3_3,"I don't care about any disaster. You corrupt officials who exploit the people, why are you so nagging?",ข้าไม่สนว่าจะเกิดเภทภัยอะไร พวกข้าชาวยุทธ์ จะไม่ยอมให้พวกขุนนางฉ้อฉลอย่างท่านมาสั่งการได้!
-sto-main-7_3_4,"You, you dare to scold me, wait until I report to the Prefect, you will all be crushed to dust!", เจ้า! กล้าด่าข้าเช่นนี้หรือ! ได้ ข้าจะกลับไปรายงานท่านผู้ว่า จนกว่าพวกเจ้าจะถูกบดขยี้เป็นผุยผง!
+sto-main-7_3_4,"You, you dare to scold me, wait until I report to the Prefect, you will all be crushed to dust!", เจ้า! กล้าด่าข้าเช่นนี้หรือ! ได้ ข้าจะกลับไปรายงานท่านเจ้าเมือง จนกว่าพวกเจ้าจะถูกบดขยี้เป็นผุยผง!
 sto-main-7_3_5,"My brothers here have bad tempers. If you stay any longer, I can't guarantee your safety!",พี่น้องของข้าพวกนี้ไม่ค่อยใจเย็นนัก หากท่านยังอยู่ต่อ ข้าคงรับประกันความปลอดภัยของท่านไม่ได้แล้ว!
 sto-main-7_3_6,Disrespecting the government is disrespecting the court. We'll see!,การดูหมิ่นทางการก็เท่ากับการดูหมิ่นราชสำนัก เราจะได้เห็นดีกัน!
 sto-main-7_name1,Main Quest,ภารกิจหลัก
@@ -2373,9 +2373,9 @@ Story-part28_4_7,"Thinking of the absurdity of attacking your sect based on fals
 Story-part28_4_8,"Marshal Ye, as the saying goes, the son of a rich lady can't sit in the hall. Why do you need to personally handle such a trivial matter as investigating information?",ท่านแม่ทัพเย่ มีสุภาษิตที่ว่า 'คนที่มีค่า ควรอยู่ให้ปลอดภัย' การสืบข่าวเล็กน้อยแบบนี้ ไฉนท่านต้องลงมือเอง?
 Story-part28_4_9,"That's not right. If I don't lead by example, then every soldier in the army will take pride in their high position and power, aspiring to be those who enjoy their position without doing anything.",คำพูดเช่นนี้ผิดแล้ว ถ้าข้าไม่ลงมือทำและเป็นแบบอย่าง ทหารในกองทัพก็จะหลงใหลในอำนาจและตำแหน่ง จนกลายเป็นคนที่มีหน้าที่แต่ไม่ยอมทำอะไร!
 Story-part28_4_10,"In the Ye Family Battalion, although there is a hierarchy, we are all brothers in arms and treat each other equally. Everyone takes guarding the homeland as their ideal, where is the distinction between high and low, noble and humble?",กองทัพเย่ของข้าแม้จะมีลำดับชั้น แต่ทุกคนล้วนเป็นพี่น้องร่วมรบที่เท่าเทียมกัน ทุกคนล้วนมีอุดมการณ์ที่จะปกป้องบ้านเมือง แล้วจะมีอะไรที่แบ่งแยกสูงต่ำเล่า?
-Story-part28_4_11,"I rashly attacked your sect before, but you saved me in spite of past grievances. Please accept this manual as an apology."
-Story-part28_5_1,"Master, I heard that Marshal Ye was in the Beiwei Army squad that asked for help. Because they didn't get support from our sect, not only were the soldiers heavily casualties, but Marshal Ye was also heavily injured..."
-Story-part28_5_2,"Fortunately, Marshal Ye is blessed, otherwise I would really be a sinner of the country..."
+Story-part28_4_11,"I rashly attacked your sect before, but you saved me in spite of past grievances. Please accept this manual as an apology.",ครั้งก่อนข้าทำการโจมตีสำนักท่านอย่างไม่คิดหน้าคิดหลัง แต่ท่านกลับไม่ถือโทษและช่วยข้าในยามลำบาก คัมภีร์เล่มนี้ขอมอบให้แก่ท่าน เพื่อแสดงความสำนึกผิด
+Story-part28_5_1,"Master, I heard that Marshal Ye was in the Beiwei Army squad that asked for help. Because they didn't get support from our sect, not only were the soldiers heavily casualties, but Marshal Ye was also heavily injured...",ท่านเจ้าสำนัก ได้ข่าวมาว่า ท่านแม่ทัพเย่อยู่ในกลุ่มทหารกองทัพเป่ยเว่ยที่ขอความช่วยเหลือ แต่เพราะไม่ได้รับการสนับสนุนจากสำนักเรา ทหารจึงบาดเจ็บล้มตายจำนวนมาก อีกทั้งท่านแม่ทัพเย่ก็บาดเจ็บสาหัส...
+Story-part28_5_2,"Fortunately, Marshal Ye is blessed, otherwise I would really be a sinner of the country...",โชคดีที่ท่านแม่ทัพเย่ มีเทพเจ้าคุ้มครอง มิเช่นนั้นข้าคงกลายเป็นคนบาปของแผ่นดินไปแล้ว..
 Story-part29_1_1,"Master, after the Ye Family Battalion was destroyed, my father was disheartened and chose a secluded place to live in seclusion.",ท่านเจ้าสำนัก หลังกองทัพตระกูลเย่ล่มสลาย ท่านพ่อของข้าก็หมดหวังและเก็บตัวหลบซ่อนยังที่เงียบสงบ
 Story-part29_1_2,"Now that Great Ant City and Yan Yun Iron Army are watching closely, I want to ask you to accompany me to call my father out of retirement.",ตอนนี้เมืองผีฝูและกองทัพเหล็กเยี่ยนหยุน ต่างจ้องมองอย่างดุร้าย ข้าจึงอยากขอให้ท่านไปกับข้าเพื่อเรียกพ่อของข้าออกมาช่วยอีกครั้ง
 Story-part29_1_3,"If you can persuade Marshal Ye to come out of retirement, that would be a great thing!",ถ้าหากเจ้าเกลี้ยกล่อมท่านแม่ทัพเย่ให้กลับมาช่วยได้ นั่นคงเป็นเรื่องที่ดีมาก!
@@ -2383,62 +2383,62 @@ Story-part29_name,Cold Cicada's Startled Dream,เสียงจิ้งหร
 Story-part29_log,"Ye Yinping found you and wants to ask Ye Pengju, who has retired, to come out of the mountain together.",เย่หยินผิงได้พบเจ้า และบอกว่าต้องการไปเชิญท่านเย่เผิงจูที่หลบซ่อนอยู่กลับมา
 Story-part29_2_1,This is where my father lives in seclusion. I've been here twice and I'm sure it's the right place.,ที่นี่คือสถานที่ที่พ่อข้าปลีกตัวมา ข้ามาสองครั้งแล้ว ข้ามั่นใจว่าไม่ผิดแน่
 Story-part29_2_2,Let's go knock on the door now. I don't believe I can't persuade my father!,ตอนนี้เราไปเคาะประตูเลย ข้าไม่เชื่อว่าข้าจะพูดไม่สำเร็จ!
-Story-part29_2_3,"It's not very good to barge in so late at night... Wait, Marshal Ye is coming out!"
-Story-part29_2_4,"Marshal Ye has become so thin in just a few months, he must be worrying about the country and the people day and night..."
-Story-part29_2_5,"Last night, the cold insects kept chirping, waking me from a thousand-mile dream, it's already the third watch..."
-Story-part29_2_6,"I got up and walked around the steps alone, the people are quiet, the moon outside the curtain is dim..."
-Story-part29_2_7,"Bai Shou is for fame and fortune, the old pines and bamboos in the old mountain hinder the rules..."
-Story-part29_2_8,"Want to express my feelings with Fu Yaoqin, but there are few confidants, who will listen when the strings break..."
-Story-part29_2_9,"This is a good poem! Although Marshal Ye has retired from the world, his thoughts and dreams are all about the bitterness of unfulfilled ambitions."
-Story-part29_2_10,"Dad, why are you making poems and verses in the middle of the night instead of sleeping!"
-Story-part29_2_11,"Bottle? And {PlayerSurName} Master? I couldn't sleep for a while, so I wrote this ""Little Zhongshan"", which made you laugh."
+Story-part29_2_3,"It's not very good to barge in so late at night... Wait, Marshal Ye is coming out!",ดึกดื่นป่านนี้บุกเข้าไปคงไม่เหมาะสมนัก... เดี๋ยวก่อน! ท่านแม่ทัพเย่ปรากฏตัวแล้ว!
+Story-part29_2_4,"Marshal Ye has become so thin in just a few months, he must be worrying about the country and the people day and night...",ไม่น่าเชื่อว่าเพียงไม่กี่เดือนที่ไม่ได้พบกัน ท่านแม่ทัพเย่กลับผอมลงมาก คงเพราะความห่วงใยบ้านเมืองทั้งกลางวันและกลางคืน...
+Story-part29_2_5,"Last night, the cold insects kept chirping, waking me from a thousand-mile dream, it's already the third watch...",เมื่อคืนนี้ จิ้งหรีดร้องไม่หยุด ฝันไกลพันลี้สะดุ้งตื่นมาในยามสาม...
+Story-part29_2_6,"I got up and walked around the steps alone, the people are quiet, the moon outside the curtain is dim...",ลุกขึ้นมาเดินรอบขั้นบันไดเพียงลำพัง เงียบสงัดนัก แสงจันทร์นวลจางอยู่นอกม่าน...
+Story-part29_2_7,"Bai Shou is for fame and fortune, the old pines and bamboos in the old mountain hinder the rules...",หัวขาวเพราะความปรารถนาสูงส่ง ภูเขาเก่าแก่ ป่าสนและไผ่เริ่มร่วงโรย กีดขวางเส้นทาง...
+Story-part29_2_8,"Want to express my feelings with Fu Yaoqin, but there are few confidants, who will listen when the strings break...",อยากถ่ายทอดความรู้สึกลงในพิณหยก แต่หาผู้รู้ใจได้ยากนัก สายพิณขาด ใครจะรับฟัง...
+Story-part29_2_9,"This is a good poem! Although Marshal Ye has retired from the world, his thoughts and dreams are all about the bitterness of unfulfilled ambitions.",นี่เป็นบทกวีที่ยอดเยี่ยม! แม้ท่านแม่ทัพเย่จะเก็บตัวซ่อนเร้น แต่ในความคิดและความฝัน ยังเต็มไปด้วยความขมขื่น ที่ไม่อาจบรรลุความฝันอันยิ่งใหญ่ได้
+Story-part29_2_10,"Dad, why are you making poems and verses in the middle of the night instead of sleeping!",ท่านพ่อ! ดึกดื่นแล้วท่านยังไม่ยอมเข้านอน มานั่งเขียนบทกวีทำไมกัน!
+Story-part29_2_11,"Bottle? And {PlayerSurName} Master? I couldn't sleep for a while, so I wrote this ""Little Zhongshan"", which made you laugh.","ผิงเอ๋อร์? เจ้าสำนัก{PlayerSurName} ก็มา? ข้าผู้นี้นอนไม่หลับจึงแต่งกวี ""เสี่ยวฉงซาน"" ขึ้นมา ทำให้ขายหน้าพวกเจ้าแล้ว"
 Story-part29_2_12,"Dad, stop making sour poems here! Although Ye Family Battalion is gone, there are other places for you to be the Guardian of the Homeland, join {MyFaction} with me!",ท่านพ่อ! อย่ามัวแต่นั่งเขียนกวีเศร้าๆ แบบนี้เลย! แม้กองทัพเย่จะไม่มีแล้ว แต่ยังมีที่หนทางให้ท่านปกป้องบ้านเมืองนะ มาร่วมกับข้าในสำนัก{MyFaction} เถอะ!
-Story-part29_2_13,"Alas, I have lost my will and have no intention of getting involved in powerless matters anymore."
-Story-part29_2_14,"Marshal Ye is wrong, the poem you just made tells of unfulfilled ambitions in the first part and the difficulty of finding a confidant in the second part, {PlayerSurName} I can't hear any sense of despair."
-Story-part29_2_15,"Although our sect is a martial arts sect, we always take the national affairs as our own responsibility, I dare to ask Marshal Ye to come out of the mountain to help!"
-Story-part29_2_16,"Exactly! Dad, stop numbing yourself and deceiving others! Besides, I have also joined {MyFaction}, can you bear to see me being bullied by others, huh!"
-Story-part29_2_17,"It is said that one is influenced by the company he keeps, Bottle, you have become much more mature after knowing {PlayerSurName} Master, which really makes me feel relieved."
-Story-part29_2_18,"For the sake of you two, I will come out of the mountain once again..."
-Story-part29_3_1,"Master, it's all your fault for not willing to go see my dad with me, now no matter what I say, he just refuses to come out of the mountain..."
-Story-part29_3_2,"Marshal Ye has spent his life on the battlefield, being able to retire and live in seclusion is also a good ending, we should not disturb him anymore."
-Story-part30_1_1,"Master, recently a group of people claiming to be the new Nine Factions Sect are recruiting soldiers and buying horses in Lin'an City, they never said no to anyone, whether they are commoners or mountain bandits."
+Story-part29_2_13,"Alas, I have lost my will and have no intention of getting involved in powerless matters anymore.",เฮ้อ... เย่ผู้นี้สิ้นหวังแล้ว ไม่คิดจะเข้าไปยุ่งเกี่ยวกับสิ่งที่เกินกำลังอีกต่อไปแล้ว
+Story-part29_2_14,"Marshal Ye is wrong, the poem you just made tells of unfulfilled ambitions in the first part and the difficulty of finding a confidant in the second part, {PlayerSurName} I can't hear any sense of despair.",คำพูดของท่านแม่ทัพนั้นผิดถนัด! บทกวีที่ท่านเพิ่งเขียนนั้น ครึ่งแรกพูดถึงความทะเยอทะยานที่ถูกกดไว้ ส่วนครึ่งหลังแสดงถึงความรู้สึกหาผู้รู้ใจยาก ข้า{PlayerSurName} ไม่เห็นว่าท่านจะหมดหวังแต่อย่างใด
+Story-part29_2_15,"Although our sect is a martial arts sect, we always take the national affairs as our own responsibility, I dare to ask Marshal Ye to come out of the mountain to help!",แม้สำนักของข้าจะเป็นสำนักในยุทธภพ แต่เราก็ถือว่าบ้านเมืองเป็นเรื่องสำคัญเหนือสิ่งอื่นใด ข้าขออภัยที่ต้องรบกวนท่านแม่ทัพเย่ แต่ขอท่านช่วยออกมาอีกสักครั้ง!
+Story-part29_2_16,"Exactly! Dad, stop numbing yourself and deceiving others! Besides, I have also joined {MyFaction}, can you bear to see me being bullied by others, huh!",ใช่ใช่! ท่านพ่อไม่ต้องหลอกตัวเองและหลอกคนอื่นแล้วนะ และอีกอย่าง ข้าก็ได้เข้าร่วมกับ {MyFaction} แล้ว ท่านจะปล่อยให้ข้า ถูกคนอื่นกลั่นแกล้งได้ยังไงกันละ!
+Story-part29_2_17,"It is said that one is influenced by the company he keeps, Bottle, you have become much more mature after knowing {PlayerSurName} Master, which really makes me feel relieved.",ใครๆ ก็ว่าคนใกล้ชิดกับสิ่งใด ก็จะเป็นเหมือนสิ่งนั้น ผิงเอ๋อร์ ตั้งแต่เจ้ารู้จักกับเจ้าสำนัก{PlayerSurName} เจ้าก็โตเป็นผู้ใหญ่มากขึ้น จนทำให้พ่อรู้สึกภูมิใจ
+Story-part29_2_18,"For the sake of you two, I will come out of the mountain once again...",ก็เอาเถอะ เห็นแก่เจ้าทั้งสองคน เย่ผู้นี้จะออกจากการเก็บตัวอีกสักครั้ง...
+Story-part29_3_1,"Master, it's all your fault for not willing to go see my dad with me, now no matter what I say, he just refuses to come out of the mountain...",ท่านเจ้าสำนัก นี่มันเป็นความผิดของท่านที่ไม่ยอมไปหาท่านพ่อกับข้าซะที ตอนนี้ไม่ว่าข้าจะพูดอย่างไร ท่านพ่อก็ไม่ยอมออกจากการเก็บตัวอีกแล้ว...
+Story-part29_3_2,"Marshal Ye has spent his life on the battlefield, being able to retire and live in seclusion is also a good ending, we should not disturb him anymore.",ท่านแม่ทัพเย่ผ่านการต่อสู้มาทั้งชีวิต การที่สามารถถอนตัวออกมาสู่ชีวิตสงบสุขได้ก็นับว่าเป็นจุดจบที่ดีแล้ว เราอย่าไปรบกวนท่านอีกเลย
+Story-part30_1_1,"Master, recently a group of people claiming to be the new Nine Factions Sect are recruiting soldiers and buying horses in Lin'an City, they never said no to anyone, whether they are commoners or mountain bandits.",นายท่าน มีกลุ่มคนของนิกายเก้าฝ่าย กำลังรับสมัครลูกศิษย์ในเมืองหลินอัน รับหมดทุกคนไม่ปฏิเสธใคร
 Story-part30_1_2,"Some disciples in the sect have found out that they are planning a big event within three months, please make a decision early!",มีศิษย์ในสำนักสืบทราบมาว่า พวกเขาจะวางแผนการใหญ่ภายในสามเดือนนี้ ขอท่านจงชิงลงมือก่อนและตัดสินใจโดยเร็ว!
-Story-part30_1_3,"It's better to break this from the inside, send a few disciples to go undercover."
-Story-part30_name,Nine Streams Rising Again
-Story-part30_log,"A group of people claiming to be the new Nine Factions Sect are recruiting soldiers and buying horses everywhere, suspected of planning a big event."
-Story-part30_2_1,"This should be the Great Hall of the new Nine Factions Sect, it's smoky and chaotic."
-Story-part30_2_2,"From the way they act, they are no different from the previous Nine Factions Sect. No matter how mixed they are, as long as they are willing to join, they never say no, what kind of cohesion can such a sect have."
-Story-part30_2_3,"Be careful, it seems that a high-level person is coming out."
-Story-part30_2_4,"Ladies and gentlemen, fellow villagers, I am the Master of the new Nine Factions Sect - Tie Mianren!"
-Story-part30_2_5,"Since you all wish to join my new Nine Factions Sect, I assume you are all pitiful people with nowhere else to go."
-Story-part30_2_6,"Among you, some have been oppressed by corrupt officials, leading to the loss of your families and homes..."
-Story-part30_2_7,"Among you, some have been framed by powerful enemies, losing your social status and becoming outlaws..."
-Story-part30_2_8,"Among you, some have worked tirelessly like beasts of burden, living a life worse than the dogs in your masters' homes..."
-Story-part30_2_9,"Today, MeTie Mianren is here to tell you that you have the skills to reclaim what you've lost, and to trample those who have humiliated you in the past."
-Story-part30_2_10,"No matter what your previous status was, from now on, you are all part of my new Nine Factions Sect."
-Story-part30_2_11,"I, the Sect Leader, will teach you advanced Martial Arts that you can quickly master. Once you have mastered them, we will rise up and take over Lin'an City from the inside!"
-Story-part30_2_12,Hahahaha!
-Story-part30_2_13,Is there anything funny about what I said?
-Story-part30_2_14,"I laugh at you for not learning your lesson. The old Nine Factions Sect was destroyed, and now there's a new one just like it. I laugh at your overconfidence, thinking you can overthrow the city we control with these rotten potatoes and bad eggs."
-Story-part30_2_15,"So it's the madman from {MyFaction}. Good, let me show you the power of my martial arts!"
-Story-part30_3_1,"Tie Mianren's martial arts are too strong, we can't resist even if we join forces. Retreat quickly!"
-Story-part30_4_1,How...how is this possible...
-Story-part30_4_2,Don't think about causing trouble with these petty tricks. I want to see what kind of face is hidden under your iron mask!
-Story-part30_4_3,Qin Huizhi! It's you?
-Story-part30_4_4,"How the tables have turned. I never thought I, Qin Huizhi, would be defeated by the likes of you..."
-Story-part30_4_5,"Forget it, forget it. I've always had high ambitions, but I've been defeated by you time and again. If you spare me, I'm willing to join your sect and be at your disposal."
-Story-part30_4_6,"This Qin Huizhi had harbored ill intentions when he was recruited into our sect. If we let him join the sect, I'm afraid there will be trouble!"
-Story-part30_4_7,What should we do with Qin Huizhi?
-Story-part30_op_1_1,"Kill him on the spot, leave no trouble for the future"
-Story-part30_op_1_2,"Trust in talent, have no doubts in employing people"
-Story-part30_5_1,"Such a wolf-hearted and ambitious person should be killed on the spot, leaving no trouble for the future!"
-Story-part30_5_2,I will never forgive you even in death...ah...
-Story-part30_5_3,Qin Huizhi is dead. A manual was found on his body. Take it back to the sect.
-Story-part30_6_1,"Although he is wolf-hearted and ambitious, our sect can control him. Trust in talent."
-Story-part30_6_2,"Qin Huizhi, you are now a member of {MyFaction}. If you betray the sect in the future, we will make you regret it!"
-Story-part30_6_3,"Don't worry, I won't let your sect down."
-Story-part30_7_1,"Master, the new Nine Factions Sect has gathered a large group of gang members and launched a sudden attack on Lin'an City. Fortunately, our disciples and righteous people from the rivers and lakes repelled them."
-Story-part30_7_2,"They are just a group of rabble, don't bother with them."
+Story-part30_1_3,"It's better to break this from the inside, send a few disciples to go undercover.",เรื่องแบบนี้ควรจัดการจากภายในจะดีกว่า ส่งลูกศิษย์ไปแฝงตัวสักสองสามคนเถอะ
+Story-part30_name,Nine Streams Rising Again,การกลับมาของ นิกายเก้าฝ่าย
+Story-part30_log,"A group of people claiming to be the new Nine Factions Sect are recruiting soldiers and buying horses everywhere, suspected of planning a big event.",มีกลุ่มคนของนิกายเก้าฝ่าย กำลังรับสมัครลูกศิษย์ ดูเหมือนกำลังวางแผนเรื่องใหญ่!
+Story-part30_2_1,"This should be the Great Hall of the new Nine Factions Sect, it's smoky and chaotic.",ที่นี่น่าจะเป็นห้องโถงรับสมัครศิษย์ของนิกายเก้าฝ่าย ดูวุ่นวายและสับสนไปหมด
+Story-part30_2_2,"From the way they act, they are no different from the previous Nine Factions Sect. No matter how mixed they are, as long as they are willing to join, they never say no, what kind of cohesion can such a sect have.",ดูจากวิธีการปฏิบัติแล้ว ไม่ต่างจากนิกายเก้าฝ่ายแบบเดิมเลย รับสมัครหมดทุกคนไม่เลือกหน้า แล้วแบบนี้จะเปลี่ยนแปลงไปในทางที่ดีขึ้นได้อย่างไร
+Story-part30_2_3,"Be careful, it seems that a high-level person is coming out.",ระวังหน่อย ดูเหมือนจะมีผู้มีอำนาจระดับสูง กำลังออกมา
+Story-part30_2_4,"Ladies and gentlemen, fellow villagers, I am the Master of the new Nine Factions Sect - Tie Mianren!",พี่น้องทั้งหลาย ข้าคือประมุขของนิกายเก้าฝ่าย บุรุษหน้ากากเหล็ก！
+Story-part30_2_5,"Since you all wish to join my new Nine Factions Sect, I assume you are all pitiful people with nowhere else to go.",เมื่อพวกเจ้าทั้งหลายปรารถนาจะเข้าร่วมนิกายเก้าฝ่ายของข้า ข้าคิดว่าพวกเจ้าคงเป็นผู้เคราะห์ร้ายที่ไม่มีที่ไป
+Story-part30_2_6,"Among you, some have been oppressed by corrupt officials, leading to the loss of your families and homes...",ในหมู่พวกเจ้า มีคนที่ถูกขุนนางทุจริตกดขี่ข่มเหง จนต้องพลัดพรากจากครอบครัวและที่อยู่...
+Story-part30_2_7,"Among you, some have been framed by powerful enemies, losing your social status and becoming outlaws...",บางคนในที่นี้ถูกผู้มีอิทธิพลกลั่นแกล้งจนหมดสิ้นเกียรติ ต้องระเห็จเข้าสู่เส้นทางสายโจร
+Story-part30_2_8,"Among you, some have worked tirelessly like beasts of burden, living a life worse than the dogs in your masters' homes...",ในหมุ่พวกเจ้ามีผู้ที่ตรากตรำจนกระดูกแทบผุ แต่ยังได้รับการปฏิบัติเยี่ยงทาส ไร้ค่ากว่าสุนัขรับใช้
+Story-part30_2_9,"Today, MeTie Mianren is here to tell you that you have the skills to reclaim what you've lost, and to trample those who have humiliated you in the past.",วันนี้ ข้า บุรุษหน้ากากเหล็กขอประกาศ พวกเจ้ามีความสามารถพอที่จะทวงทุกสิ่งที่เสียไปกลับคืนมา และเหยียบย่ำผู้ที่เคยดูถูกพวกเจ้าให้จมดินได้
+Story-part30_2_10,"No matter what your previous status was, from now on, you are all part of my new Nine Factions Sect.",ไม่ว่าพวกเจ้าจะเคยเป็นใครมาก่อน นับจากนี้ไป พวกเจ้าคือส่วนหนึ่งของนิกายเก้าฝ่ายของข้า
+Story-part30_2_11,"I, the Sect Leader, will teach you advanced Martial Arts that you can quickly master. Once you have mastered them, we will rise up and take over Lin'an City from the inside!",ข้าจะถ่ายทอดเคล็ดวิชาที่ฝึกได้รวดเร็วให้พวกเจ้า เมื่อพวกเจ้าฝึกจนคล่องแคล่ว เราจะลุกฮือขึ้น ก่อการยึดครองเมืองหลินอันจากภายใน!
+Story-part30_2_12,Hahahaha!,ฮ่า ฮ่า ฮ่ะฮ่าฮ่า เคี๊ยก เคี๊ยก!
+Story-part30_2_13,Is there anything funny about what I said?,สิ่งที่ข้าพูดนี้ มีอะไรน่าขบขันหรือ?
+Story-part30_2_14,"I laugh at you for not learning your lesson. The old Nine Factions Sect was destroyed, and now there's a new one just like it. I laugh at your overconfidence, thinking you can overthrow the city we control with these rotten potatoes and bad eggs.",ข้าหัวเราะเยาะเจ้าที่ไม่รู้จักเข็ดหลาบ นิกายเก้าฝ่าย เก่าล่มไปแล้ว ยังจะมีนิกายเก้าฝ่าย ใหม่ปลอมๆ มาอีก ข้าหัวเราะเยาะเจ้าที่ไม่เจียมตัว คิดจะโค่นล้มเมืองหลินอัน ด้วยการหลอกล่อพวกเศษสวะเหล่านี้
+Story-part30_2_15,"So it's the madman from {MyFaction}. Good, let me show you the power of my martial arts!",ที่แท้ก็พวกบ้าคลั่งจาก {MyFaction} พอดีเลย ข้าจะให้พวกเจ้าได้ประจักษ์ถึงพลังอันไร้เทียมทานของข้า!
+Story-part30_3_1,"Tie Mianren's martial arts are too strong, we can't resist even if we join forces. Retreat quickly!",วิทยายุทธ์ของบุรุษหน้ากากเหล็ก ผู้นั้นสูงส่งเกินไป พวกเราร่วมมือกันยังสู้ไม่ได้ รีบหนี!
+Story-part30_4_1,How...how is this possible...,นี่มัน...เป็นไปไม่ได้เด็ดขาด!
+Story-part30_4_2,Don't think about causing trouble with these petty tricks. I want to see what kind of face is hidden under your iron mask!,เลิกเล่นตลกด้วยกลอุบายกระจอกๆ ได้แล้ว ข้าอยากจะรู้จริงๆ ว่าภายใต้หน้ากากเหล็กนั้นซ่อนใบหน้าแบบไหนไว้กันแน่!
+Story-part30_4_3,Qin Huizhi! It's you?,ฉินฮุ่ยจือ ไม่นึกเลยว่าเป็นเจ้า!
+Story-part30_4_4,"How the tables have turned. I never thought I, Qin Huizhi, would be defeated by the likes of you...",ช่างเป็นเรื่องน่าขัน สามสิบปีแม่น้ำเปลี่ยนทิศ ไม่นึกเลยว่าฉินฮุ่ยจือ อย่างข้า จะต้องมาพ่ายแพ้ให้กับพวกเจ้าเช่นนี้...
+Story-part30_4_5,"Forget it, forget it. I've always had high ambitions, but I've been defeated by you time and again. If you spare me, I'm willing to join your sect and be at your disposal.",พอที พอที ข้าผู้ทะนงตน กลับต้องพ่ายแพ้พวกเจ้าซ้ำแล้วซ้ำเล่า หากพวกเจ้าเมตตาข้า ข้ายินดีสวามิภักดิ์ต่อนิกายของพวกเจ้า ให้พวกเจ้าบัญชาตามใจปรารถนา
+Story-part30_4_6,"This Qin Huizhi had harbored ill intentions when he was recruited into our sect. If we let him join the sect, I'm afraid there will be trouble!",ฉินฮุ่ยจือ ผู้นี้มีเจตนาร้ายตั้งแต่ตอนที่มาขอเข้าร่วมสำนักแล้ว หากรับมันเข้ามาเกรงว่าจะมีเภทภัย!
+Story-part30_4_7,What should we do with Qin Huizhi?,เราจะจัดการกับฉินฮุ่ยอย่างไรดี?
+Story-part30_op_1_1,"Kill him on the spot, leave no trouble for the future",สังหารมันตรงนี้เลย จะได้ไม่เป็นเสี้ยนหนามในภายหลัง
+Story-part30_op_1_2,"Trust in talent, have no doubts in employing people",ใช้คนให้เหมาะสมกับความสามารถ เมื่อใช้แล้วก็ไม่พึงต้องสงสัย
+Story-part30_5_1,"Such a wolf-hearted and ambitious person should be killed on the spot, leaving no trouble for the future!",คนที่มีจิตใจโหดเหี้ยมแบบนี้ ต้องจัดการมันตรงนี้เลย จะได้ตัดไฟแต่ต้นลม!
+Story-part30_5_2,I will never forgive you even in death...ah...,ข้าจะตามจองล้างจองผลาญพวกเจ้า แม้แต่ในปรโลก...อ๊าก...
+Story-part30_5_3,Qin Huizhi is dead. A manual was found on his body. Take it back to the sect.,ฉินฮุ่ยจือตายแล้ว เจอคัมภีร์วิชาลับจากร่างของมัน เอากลับไปที่นิกายกันเถอะ
+Story-part30_6_1,"Although he is wolf-hearted and ambitious, our sect can control him. Trust in talent.",คนแบบนี้ถึงจะมีจิตใจโหดเหี้ยม แต่นิกายเราก็รับมือได้ ใช้คนให้เหมาะสมกับความสามารถ
+Story-part30_6_2,"Qin Huizhi, you are now a member of {MyFaction}. If you betray the sect in the future, we will make you regret it!",ฉินฮุ่ย ตอนนี้เจ้าคือคนของ {MyFaction} แล้ว หากเจ้าทรยศสำนักในภายหลัง จะทำให้เจ้าแหลกเป็นผุยผง เสียใจไปจนวาระสุดท้าย!
+Story-part30_6_3,"Don't worry, I won't let your sect down.",วางใจได้ ข้าจะไม่ทำให้ท่านผิดหวังอย่างเด็ดขาด
+Story-part30_7_1,"Master, the new Nine Factions Sect has gathered a large group of gang members and launched a sudden attack on Lin'an City. Fortunately, our disciples and righteous people from the rivers and lakes repelled them.",ท่านเจ้าสำนัก นิกายเก้าฝ่าย ระดมพลจำนวนมาก บุกโจมตีเมืองหลินอันอย่างไม่ทันตั้งตัว โชคดีที่ศิษย์สำนักเราและชาวยุทธร่วมมือกันต้านทานไว้ได้
+Story-part30_7_2,"They are just a group of rabble, don't bother with them.",พวกมันเป็นแค่พวกไร้ประโยชน์ ไม่ต้องไปใส่ใจมันหรอก
 Story-part31_1_1,"The weather is so nice today, it's a good day for me to go out and relax~",วันนี้อากาศแจ่มใส เหมาะยิ่งนักที่ข้าจะออกไปผ่อนคลายจิตใจ~
 Story-part31_1_2,"After finishing the sect affairs, go out and enjoy the sunshine. Don't waste this beautiful spring day.",หลังสะสางภารกิจของสำนักเรียบร้อย จากนั้นก็ออกไปตากแดดสักหน่อย อย่าให้ฤดูใบไม้ผลินี้ต้องสูญเปล่า
 Story-part31_name,A day in life,ชีวิตล่องลอยในหนึ่งวัน
@@ -2476,118 +2476,118 @@ Story-part31_6_8,I beg the sect leader of {PlayerSurName} to persuade Duke Kang 
 Story-part31_6_9,"To persuade Duke Kang, we need to continue to improve our relations with him. Alright, I'll take care of this.",...หากจะโน้มน้าวอ๋องคัง ก็คงต้องกระชับความสัมพันธ์กับเขาให้แน่นแฟ้นขึ้นอีกสินะ เอาเถอะ เรื่องนี้ข้าจะจัดการเอง!
 Story-part31_7_1,"Why is there never an end to the various things in the sect, forget it, I'll rest when I have time later...",ทำไมงานในสำนักถึงไม่มีวันหมดกันนะ? ช่างเถอะ เอาไว้มีเวลาค่อยพักก็แล้วกัน...
 Story-part32_1_1,"Sect leader, after Duke Kang heard that you wanted to help Miss Yan get rid of her lowly status, he took the initiative to send someone to deliver the household registration certificate of Miss Yan's good family.",ท่านเจ้าสำนัก เมื่อท่านอ๋องคังทรงทราบว่า ท่านต้องการจะช่วยแม่นางเหยียนให้พ้นจากสถานะอันต่ำต้อย ท่านก็ส่งคนมามอบเอกสารตระกูลของแม่นางเหยียน ที่ยืนยันว่าตระกูลของแม่นางเหยียนเป็นตระกูลที่ดี
-Story-part32_1_2,"Since Duke Kang is so considerate, we must immediately tell Miss Yan the good news."
-Story-part32_name,A free person
+Story-part32_1_2,"Since Duke Kang is so considerate, we must immediately tell Miss Yan the good news.",ในเมื่อท่านอ๋องคังให้เกียรติข้าถึงเพียงนี้ ข้าคงต้องรีบนำข่าวดีนี้ไปบอกแม่นางเหยียนเสียแล้ว
+Story-part32_name,A free person,อิสรภาพ
 Story-part32_log,"Duke Kang has delivered the good citizen registration coin book of Yan Rurui, you are ready to share the good news with her.",อ๋องคังได้ส่งเอกสารตระกูลที่ดีของแม่นางเหยียนหรูรุ่ยมาให้แล้ว เจ้าเตรียมที่จะบอกข่าวดีนี้ให้กับนาง
-Story-part32_2_1,"{PlayerSurName}Why is the sect leader in such a hurry to find me, did you bring any good news~"
-Story-part32_2_2,"Miss Yan, {PlayerSurName}I am honored to have successfully removed your lowly status."
-Story-part32_2_3,"Here is the good citizen registration coin book, from now on, you are completely free."
-Story-part32_2_4,"Thank you, {PlayerSurName}sect leader..."
-Story-part32_2_5,"The matter is done, Miss Yan, enjoy your freedom, I will take my leave."
-Story-part32_2_6,Wait!
-Story-part32_2_7,{PlayerName}Young Master... Will you take me with you?
-Story-part32_2_8,"Miss Yan, you are free now, you can go wherever you want."
-Story-part32_2_9,"No... Over the years, I have passed by countless men, only you care about me, you are different from other stinky men!"
-Story-part32_2_10,"I don't care if you have other lovers, I just want to stay by your side, I don't want to stay in this dirty place anymore."
-Story-part32_2_11,"(Miss Yan seems to trust me very much, should I agree to take her away from the Maiden House?)"
-Story-part32_op_1_1,Refuse
-Story-part32_op_1_2,Agree
-Story-part32_3_1,"Our sect often involves in martial arts disputes, it's too dangerous for Miss Yan to be with me."
-Story-part32_3_2,"In that case, I will no longer bother you.\nI wish you to meet a good person, grow old together..."
-Story-part32_3_3,"This Phoenix jade ornament is my lucky charm, please accept it, {PlayerSurName}sect leader."
-Story-part32_3_4,"The road of martial arts is long, please take care, {PlayerSurName}..."
-Story-part32_4_1,"Then, on behalf of {MyFaction}, I welcome Miss Yan to join us!"
-Story-part32_4_2,"{PlayerGivenName}Young Master, please guide me~"
-Story-part32_5_1,"Damn, I forgot to give the registration coin book to Miss Yan, I hope it's not too late..."
-Story-part32_5_2,"Sect leader, Miss Yan has been waiting for you for a long time, she seems to have moved away and gone somewhere else."
-Story-part32_5_3,"Ah, this is my fault..."
-Story-part33_1_1,"Sect Leader, Duke Kang is here to visit!"
-Story-part33_1_2,{PlayerSurName} pays his respects to your Highness.
-Story-part33_1_3,"{PlayerSurName}Sect leader, no need to be so polite, I have no important matters today."
-Story-part33_1_4,"It's just that my sister, the princess, heard too much about the heroic deeds of your sect and insisted on coming to explore, I am just accompanying her."
-Story-part33_1_5,"What are you talking about, Wang? We agreed not to expose my little thoughts, hmph!"
-Story-part33_1_6,"{PlayerSurName}Sect leader, Princess Fuqing specifically asked for your company, please show her around your sect."
-Story-part33_name,Curious Princess
-Story-part33_log,"Princess Fuqing came to your sect, specifically asking for your company."
-Story-part33_2_1,"Perhaps because she was raised in the palace since she was a child,\nThis Princess Fuqing is innocent and lively,\nShe is full of curiosity about everything in the sect,\nAnd keeps dragging you around..."
-Story-part33_2_2,"Hey, why are there so many wooden men here, are they for playing house?"
-Story-part33_2_3,"Replying to the princess, this is our sect's training room. These wooden men are made according to the proportions of the spiritual master, specifically for disciples to practice."
-Story-part33_2_4,"Practice? So they must be very durable, can I try!"
-Story-part33_2_5,"(The princess is a rich lady, she can't be hurt at all, but if I don't agree with her, she will definitely be unhappy... Should I agree?)"
-Story-part33_op_1_1,"Absolutely not, these wooden men are too dangerous"
-Story-part33_op_1_2,"Of course, if the princess wants to try, she can."
-Story-part33_3_1,"Absolutely not, these wooden dummies are too dangerous and could easily harm the princess!"
-Story-part33_3_2,"{PlayerSurName} Sect leader, you're so boring, just like Wang, always managing this and that, hmph!"
-Story-part33_3_3,"{PlayerSurName} I'm just considering the safety of the princess, please forgive me."
-Story-part33_3_4,"Princess, please follow {PlayerSurName} me to the sect's kitchen."
-Story-part33_4_1,"Of course, as long as the princess is willing, you can try if you want."
-Story-part33_4_2,"Please be careful, Mr. Wooden Dummy, it might hurt a bit..."
-Story-part33_4_3,Hey... Ha!
-Story-part33_4_4,What! The special wooden dummy for training was shattered by her punch!
-Story-part33_4_5,"Princess, you truly have Herculean strength... I admire, admire..."
-Story-part33_4_6,"Fun, fun, can I hit another one?"
-Story-part33_4_7,"...Princess, please follow {PlayerSurName} me to the sect's kitchen, there are more fun things there."
-Story-part33_5_1,"Princess, this is the kitchen of our sect."
-Story-part33_5_2,"Wow, it's no wonder that the heroes of the martial arts world use such a big iron pot to cook!"
-Story-part33_5_3,"Because our sect has many disciples, the efficiency of cooking with ordinary iron pots is too low, so we use this big pot, which can cook meals for about ten people at a time."
-Story-part33_5_4,"This is really fun, can I try to stir-fry with this big pot?"
-Story-part33_op_2_1,"Princess, please be merciful, if the pot is broken, we won't have food to eat!"
-Story-part33_op_2_2,"As long as the princess finds it fun, there's naturally no problem."
-Story-part33_6_1,"Princess, please be merciful, if the pot is broken, we won't have food to eat!"
-Story-part33_6_2,"Ah, this is not allowed either..."
-Story-part33_6_3,"Sorry, this pot is indeed the most important thing in our sect, I hope the princess will forgive us."
-Story-part33_6_4,"Oh no, I think I heard my brother calling me, {PlayerSurName} Leader, let's go over quickly."
-Story-part33_6_5,"Princess, please follow me."
-Story-part33_7_1,"As long as the princess finds it fun, there's naturally no problem."
-Story-part33_7_2,"Hey, I, the princess, am going to cook! It's a good chance to test the cooking mantra taught to me by the cooks in the palace!"
-Story-part33_7_3,"Heat the pot first, then the oil, star anise and pepper in the oil!"
-Story-part33_7_4,"Fry the slices of green onion, ginger, and garlic first, then add the ingredients!"
-Story-part33_7_5,"Fry the meat first, then add the vegetables, toss the pot three times, and you won't have to worry about the flavor, worry..."
-Story-part33_7_6,"It's over, I accidentally broke the handle of the big iron pot, {PlayerSurName} Leader, you won't blame me, will you..."
-Story-part33_7_7,"...It's okay, it's just a pot, our disciples can go buy another one!"
-Story-part33_7_8,"Okay, then I'm relieved~"
-Story-part33_7_9,"Oh no, I think I heard my brother calling me, {PlayerSurName} Leader, let's go over quickly."
-Story-part33_7_10,"Princess, please follow me."
-Story-part33_8_1,"My dear sister, how do you feel about this {MyFaction} after touring around, does it feel like the martial arts sect you imagined?"
-Story-part33_9_1,"Brother, it's not only fun here, {PlayerSurName} Leader also takes good care of me. Unlike in the palace, it's so boring no matter how I stay... I think..."
-Story-part33_9_2,What are you thinking?
-Story-part33_9_3,"I want to stay in {MyFaction} for a while longer to experience the life of the martial arts world, please grant me this wish, brother!"
-Story-part33_9_4,Hahahaha! You're truly my dear sister!
-Story-part33_9_5,"{PlayerSurName} Leader, I plan to fulfill Fuqing's wish and entrust her to you for a while, are you willing?"
-Story-part33_9_6,Having the princess visit is naturally an honor for our sect.
-Story-part33_9_7,"{PlayerSurName} Sect Leader, remember to tell me your heroic stories~"
-Story-part33_10_1,"Brother Wang, it's not as fun as I imagined here, {PlayerSurName} Sect Leader is just like you, always managing this and that, it's so boring!"
-Story-part33_10_2,"{PlayerSurName} Sect Leader, as the head of a sect, naturally can't accompany you to mess around everywhere."
-Story-part33_10_3,"Now that you've experienced what it's like to be in a martial arts sect, let's go back to Lin'an together."
-Story-part33_10_4,"{PlayerSurName} Sect leader, I have been bothering you a lot recently. These things can be considered as some compensation from me."
-Story-part33_11_1,"{PlayerSurName} Sect Leader, I know you're busy with sect affairs, but surely you can spare some time to accompany the princess, right?"
-Story-part33_11_2,"Your Highness, I apologize, {PlayerSurName} I really didn't mean to neglect you and the princess..."
-Story-part34_1_1,"Sect Leader, although Jiujiang Fortress has been destroyed, the Ding siblings, who are a major threat to Duke Kang, have not been arrested."
-Story-part34_1_2,"Today, there is news from the city that Ding Haitang has somehow been separated from Ding Fengbo and has appeared alone in a tavern."
-Story-part34_1_3,"The city's constables have surrounded the tavern, but they dare not act. If our sect wants to get involved, please make a decision quickly."
+Story-part32_2_1,"{PlayerSurName}Why is the sect leader in such a hurry to find me, did you bring any good news~",ท่านเจ้าสำนัก{PlayerSurName} รีบร้อนมาหาข้าถึงเพียงนี้ หรือว่ามีข่าวดีอะไรติดไม้ติดมือมาฝากกันเล่าเจ้าคะ?
+Story-part32_2_2,"Miss Yan, {PlayerSurName}I am honored to have successfully removed your lowly status.",แม่นางเหยียน ท่าน{PlayerSurName}มิทำให้ท่านผิดหวัง ได้หาทางปลดเปลื้องสถานะทาสของท่านได้สำเร็จแล้ว
+Story-part32_2_3,"Here is the good citizen registration coin book, from now on, you are completely free.",นี่คือเอกสารทะเบียนราษฎร์ของคนดี จากนี้ไปท่านก็จะเป็นอิสระโดยสมบูรณ์แล้ว
+Story-part32_2_4,"Thank you, {PlayerSurName}sect leader...",ขอบคุณท่านเจ้าสำนัก{PlayerSurName}...
+Story-part32_2_5,"The matter is done, Miss Yan, enjoy your freedom, I will take my leave.",กิจธุระสำเร็จลุล่วงแล้ว แม่นางเหยียนจงเสพสุขกับอิสรภาพของท่านเถิด ข้าขอลา
+Story-part32_2_6,Wait!,ช้าก่อน!
+Story-part32_2_7,{PlayerName}Young Master... Will you take me with you?,คุณชาย{PlayerName}... ท่านพาข้าไปด้วยได้หรือไม่?
+Story-part32_2_8,"Miss Yan, you are free now, you can go wherever you want.",แม่นางเหยียนท่านเป็นอิสระแล้ว จะไปที่ใดก็ย่อมได้ตามใจปรารถนา
+Story-part32_2_9,"No... Over the years, I have passed by countless men, only you care about me, you are different from other stinky men!",มิได้... ตลอดหลายปีที่ผ่านมา ข้าได้ผ่านพบชายมากมายนับไม่ถ้วน มีเพียงท่านผู้เดียวที่ใส่ใจและห่วงใยข้า ท่านแตกต่างจากบุรุษน่ารังเกียจเหล่านั้น!
+Story-part32_2_10,"I don't care if you have other lovers, I just want to stay by your side, I don't want to stay in this dirty place anymore.",ข้าหาได้ใส่ใจไม่ว่าท่านจะมีสตรีคู่ใจอื่นใดหรือไม่ ข้าเพียงแต่ปรารถนาที่จะอยู่เคียงข้างท่าน มิปรารถนาที่จะอยู่ในสถานที่อันโสมมเช่นนี้อีกต่อไป
+Story-part32_2_11,"(Miss Yan seems to trust me very much, should I agree to take her away from the Maiden House?)",(แม่นางเหยียนดูเหมือนจะให้ความไว้วางใจข้ามากนัก ข้าควรจะตกลงใจพานางออกจากหอหมู่บุปผาแห่งนี้หรือไม่?)
+Story-part32_op_1_1,Refuse,ปฏิเสธ
+Story-part32_op_1_2,Agree,ตกลง
+Story-part32_3_1,"Our sect often involves in martial arts disputes, it's too dangerous for Miss Yan to be with me.",สำนักของข้าต้องพัวพันกับความขัดแย้งในยุทธภพและคมดาบอยู่เสมอ การที่แม่นางเหยียนอยู่เคียงข้างข้าจึงอันตรายเกินไป
+Story-part32_3_2,"In that case, I will no longer bother you.\nI wish you to meet a good person, grow old together...","ในเมื่อเป็นเช่นนั้น ข้าก็จักมิรบกวนคุณชายอีกต่อไป\nขอให้คุณชายได้พบเจอคู่ครองที่ดี ครองรักกันจนแก่เฒ่า..."
+Story-part32_3_3,"This Phoenix jade ornament is my lucky charm, please accept it, {PlayerSurName}sect leader.",หยกหงส์ชิ้นนี้เป็นเครื่องรางนำโชคติดตัวของข้า โปรดท่านเจ้าสำนัก{PlayerSurName}รับไว้ด้วยเถิด
+Story-part32_3_4,"The road of martial arts is long, please take care, {PlayerSurName}...",หนทางในยุทธภพนั้นยาวไกล ขอท่านเจ้าสำนัก{PlayerSurName}จงรักษาสุขภาพด้วย
+Story-part32_4_1,"Then, on behalf of {MyFaction}, I welcome Miss Yan to join us!",เช่นนั้นข้าเจ้าสำนักก็ขอเป็นตัวแทนสำนัก{MyFaction}กล่าวต้อนรับแม่นางเหยียนเข้าร่วมสำนัก!
+Story-part32_4_2,"{PlayerGivenName}Young Master, please guide me~",คุณชาย{PlayerGivenName} โปรดชี้แนะด้วยเจ้าค่ะ~
+Story-part32_5_1,"Damn, I forgot to give the registration coin book to Miss Yan, I hope it's not too late...",แย่แล้ว! ลืมมอบเอกสารทะเบียนราษฎร์ให้แม่นางเหยียนเสียสนิท หวังว่าคงยังไม่สายเกินไป...
+Story-part32_5_2,"Sect leader, Miss Yan has been waiting for you for a long time, she seems to have moved away and gone somewhere else.",ท่านเจ้าสำนัก แม่นางเหยียนรอท่านมานานแล้ว แต่ดูเหมือนว่านางจะย้ายออกจากที่นี่ไปยังที่อื่นแทนเสียแล้ว
+Story-part32_5_3,"Ah, this is my fault...",เฮ้อ เรื่องนี้เป็นความผิดของข้าเอง...
+Story-part33_1_1,"Sect Leader, Duke Kang is here to visit!",ท่านเจ้าสำนัก ท่านอ๋องคังเสด็จมาเยือน!
+Story-part33_1_2,{PlayerSurName} pays his respects to your Highness.,ข้า{PlayerSurName}ขอคารวะท่านอ๋อง
+Story-part33_1_3,"{PlayerSurName}Sect leader, no need to be so polite, I have no important matters today.",ท่านเจ้าสำนัก{PlayerSurName}ไม่ต้องมากพิธี วันนี้ข้ามาเยือนมิได้มีธุระอันใด
+Story-part33_1_4,"It's just that my sister, the princess, heard too much about the heroic deeds of your sect and insisted on coming to explore, I am just accompanying her.",เพียงแต่น้องสาวของข้า ได้ยินเรื่องราววีรกรรมอันกล้าหาญของสำนักท่านมามากมาย นางจึงร่ำร้องที่จะมาชมด้วยตาตนเอง ข้าเพียงแต่มาเป็นเพื่อนเท่านั้น
+Story-part33_1_5,"What are you talking about, Wang? We agreed not to expose my little thoughts, hmph!",ท่านพี่พูดจาอันใดกัน กล่าวกันไว้แล้วว่าจะมิเปิดเผยความในใจของข้านี่ ฮึ่ม!
+Story-part33_1_6,"{PlayerSurName}Sect leader, Princess Fuqing specifically asked for your company, please show her around your sect.",ท่านเจ้าสำนัก{PlayerSurName} องค์หญิงฟู่ชิงเจาะจงให้ท่านอยู่เป็นเพื่อน ท่านโปรดให้เกียรติพานางชมสำนักของท่านให้ทั่วเถิด
+Story-part33_name,Curious Princess,องค์หญิงผู้ใคร่รู้
+Story-part33_log,"Princess Fuqing came to your sect, specifically asking for your company.",องค์หญิงฟู่ชิงเสด็จมายังสำนักของท่าน และเจาะจงให้ท่านอยู่เป็นเพื่อน
+Story-part33_2_1,"Perhaps because she was raised in the palace since she was a child,\nThis Princess Fuqing is innocent and lively,\nShe is full of curiosity about everything in the sect,\nAnd keeps dragging you around...","บางทีอาจเป็นเพราะเติบโตมาในวังตั้งแต่เยาว์วัย\nองค์หญิงฟู่ชิงผู้นี้จึงมีนิสัยไร้เดียงสาและร่าเริง\nนางเต็มไปด้วยความอยากรู้อยากเห็นในทุกสิ่งทุกอย่างของสำนัก\nดึงท่านให้เดินไปมาไม่หยุดหย่อน..."
+Story-part33_2_2,"Hey, why are there so many wooden men here, are they for playing house?",นี่ ข้าถามหน่อย ที่นี่เหตุใดจึงมีหุ่นไม้มากมายเช่นนี้ หรือว่าใช้สำหรับเล่นสมมติบทบาทกัน?
+Story-part33_2_3,"Replying to the princess, this is our sect's training room. These wooden men are made according to the proportions of the spiritual master, specifically for disciples to practice.",เรียนท่านหญิง ที่นี่คือห้องฝึกยุทธของสำนักเรา หุ่นไม้เหล่านี้ล้วนสร้างขึ้นตามสัดส่วนของคนจริง ใช้สำหรับให้ศิษย์ได้ทดสอบท่าทางต่างๆ
+Story-part33_2_4,"Practice? So they must be very durable, can I try!",ฝึกซ้อม? เช่นนั้นพวกมันคงทนทานต่อการถูกตีมากสินะ ข้าลองทดสอบดูบ้างได้หรือไม่!
+Story-part33_2_5,"(The princess is a rich lady, she can't be hurt at all, but if I don't agree with her, she will definitely be unhappy... Should I agree?)",(องค์หญิงนั้นมีฐานันดรสูงศักดิ์ ปล่อยให้เกิดรอยขีดข่วนแม้แต่น้อยมิได้ แต่หากมิยอมตามใจนางก็คงขุ่นเคือง... ตกลงข้าควรจะอนุญาตหรือไม่?)
+Story-part33_op_1_1,"Absolutely not, these wooden men are too dangerous",มิได้เป็นอันขาด หุ่นไม้เหล่านี้อันตรายยิ่งนัก
+Story-part33_op_1_2,"Of course, if the princess wants to try, she can.",ได้สิ ท่านหญิงอยากลองก็ลองได้เลย
+Story-part33_3_1,"Absolutely not, these wooden dummies are too dangerous and could easily harm the princess!",มิได้เป็นอันขาด หุ่นไม้เหล่านี้อันตรายยิ่งนัก อาจทำร้ายท่านหญิงได้!
+Story-part33_3_2,"{PlayerSurName} Sect leader, you're so boring, just like Wang, always managing this and that, hmph!",ท่านเจ้าสำนัก{PlayerSurName}ช่างน่าเบื่อเสียนี่กระไร เหมือนกับท่านพี่ คอยแต่จะควบคุมนั่นควบคุมนี่อยู่ร่ำไป ฮึ่ม!
+Story-part33_3_3,"{PlayerSurName} I'm just considering the safety of the princess, please forgive me.",ข้า{PlayerSurName}ก็เพียงแต่คำนึงถึงความปลอดภัยของท่านหญิง โปรดอภัยให้ข้าด้วยเถิด
+Story-part33_3_4,"Princess, please follow {PlayerSurName} me to the sect's kitchen.",เชิญท่านหญิงตามข้า{PlayerSurName}ไปยังห้องครัวของสำนัก
+Story-part33_4_1,"Of course, as long as the princess is willing, you can try if you want.",ได้สิ หากท่านหญิงพอใจ ก็ย่อมลองได้ตามปรารถนา
+Story-part33_4_2,"Please be careful, Mr. Wooden Dummy, it might hurt a bit...",ท่านหุ่นไม้โปรดระวัง อาจจะเจ็บสักหน่อย...
+Story-part33_4_3,Hey... Ha!,ฮึ่ม... ฮ่า!
+Story-part33_4_4,What! The special wooden dummy for training was shattered by her punch!,อะไรเนี่ย! หุ่นไม้พิเศษสำหรับฝึกยุทธ กลับถูกนางชกแตกเป็นเสี่ยงด้วยหมัดเดียว!
+Story-part33_4_5,"Princess, you truly have Herculean strength... I admire, admire...",ท่านหญิงช่างมีพละกำลังจากสวรรค์โดยแท้... ข้าน้อยขอคารวะ ขอคารวะ...
+Story-part33_4_6,"Fun, fun, can I hit another one?",สนุก สนุกจัง ข้าขอต่อยอีกสักตัวได้ไหมคะ?
+Story-part33_4_7,"...Princess, please follow {PlayerSurName} me to the sect's kitchen, there are more fun things there.",......เชิญท่านหญิงตามข้า{PlayerSurName}ไปยังห้องครัวของสำนัก ที่นั่นยังมีสิ่งน่าสนุกอีกมากมาย
+Story-part33_5_1,"Princess, this is the kitchen of our sect.",ท่านหญิง นี่คือห้องครัวของสำนักเรา
+Story-part33_5_2,"Wow, it's no wonder that the heroes of the martial arts world use such a big iron pot to cook!",ว้าว! สมกับเป็นจอมยุทธ์แห่งยุทธภพผู้ผดุงคุณธรรม ใช้กระทะเหล็กใหญ่โตเช่นนี้ทำอาหาร!
+Story-part33_5_3,"Because our sect has many disciples, the efficiency of cooking with ordinary iron pots is too low, so we use this big pot, which can cook meals for about ten people at a time.",เนื่องด้วยศิษย์สำนักเรามีจำนวนมาก การใช้กระทะเหล็กธรรมดาผัดกับข้าว ประสิทธิภาพมันต่ำเกินไป จึงเปลี่ยนมาใช้กระทะใหญ่เช่นนี้ ทำอาหารได้ครั้งละประมาณสิบคน
+Story-part33_5_4,"This is really fun, can I try to stir-fry with this big pot?",ดูน่าสนุกจัง ข้าลองใช้กระทะใหญ่ใบนี้ผัดกับข้าวดูบ้างได้ไหมคะ?
+Story-part33_op_2_1,"Princess, please be merciful, if the pot is broken, we won't have food to eat!",ท่านหญิงโปรดเบามือ หากกระทะพัง พวกเราก็จะไม่มีอาหารรับประทาน!
+Story-part33_op_2_2,"As long as the princess finds it fun, there's naturally no problem.",สิ่งใดที่ท่านหญิงเห็นว่าสนุกสนาน ย่อมไม่มีปัญหาใดๆ ทั้งสิ้น
+Story-part33_6_1,"Princess, please be merciful, if the pot is broken, we won't have food to eat!",ท่านหญิงโปรดเบามือ หากกระทะพัง พวกเราก็จะไม่มีอาหารรับประทาน!
+Story-part33_6_2,"Ah, this is not allowed either...",อ้าว นี่ก็มิได้เช่นกันหรือ...
+Story-part33_6_3,"Sorry, this pot is indeed the most important thing in our sect, I hope the princess will forgive us.",ขออภัย กระทะใบนี้เป็นของสำคัญของสำนักเราจริงๆ โปรดท่านหญิงอภัยให้ด้วยเถิด
+Story-part33_6_4,"Oh no, I think I heard my brother calling me, {PlayerSurName} Leader, let's go over quickly.",แย่แล้ว! เหมือนได้ยินเสียงท่านพี่เรียกข้า ท่านเจ้าสำนัก{PlayerSurName}รีบไปกันเถิดค่ะ
+Story-part33_6_5,"Princess, please follow me.",เชิญท่านหญิงตามข้ามา
+Story-part33_7_1,"As long as the princess finds it fun, there's naturally no problem.",สิ่งใดที่ท่านหญิงเห็นว่าสนุกสนาน ย่อมไม่มีปัญหาใดๆ ทั้งสิ้น
+Story-part33_7_2,"Hey, I, the princess, am going to cook! It's a good chance to test the cooking mantra taught to me by the cooks in the palace!",นี่! ข้าจะลงมือเข้าครัวผัดกับข้าวแล้วค่ะ! ได้เวลาพิสูจน์เคล็ดลับการผัดกับข้าวที่พ่อครัววังหลวงสอนข้าแล้วค่ะ!
+Story-part33_7_3,"Heat the pot first, then the oil, star anise and pepper in the oil!",ตั้งกระทะให้ร้อน จากนั้นจึงใส่น้ำมันให้ร้อน ตามด้วยโป๊ยกั้กและพริกหอมลงเจียว!
+Story-part33_7_4,"Fry the slices of green onion, ginger, and garlic first, then add the ingredients!",เจียวกระเทียม ขิง และหอมแดงให้หอมกรุ่น จากนั้นจึงใส่เครื่องปรุงลงไป!
+Story-part33_7_5,"Fry the meat first, then add the vegetables, toss the pot three times, and you won't have to worry about the flavor, worry...",ผัดเนื้อก่อน แล้วจึงใส่ผัก ควงกระทะสามทีรสชาติเลิศเลอ ไม่ต้องกังวล...กังวล...
+Story-part33_7_6,"It's over, I accidentally broke the handle of the big iron pot, {PlayerSurName} Leader, you won't blame me, will you...",แย่แล้ว แย่แล้ว ข้าเผลอทำด้ามกระทะเหล็กใหญ่หักเสียแล้ว ท่านเจ้าสำนัก{PlayerSurName}คงมิถือโทษข้าใช่ไหมคะ...
+Story-part33_7_7,"...It's okay, it's just a pot, our disciples can go buy another one!",......มิต้องกังวล มิต้องกังวล กระทะเพียงใบเดียวเท่านั้น ศิษย์สำนักข้าจักไปหาซื้อมาใหม่เอง!
+Story-part33_7_8,"Okay, then I'm relieved~",เช่นนั้นข้าก็สบายใจแล้วค่ะ~
+Story-part33_7_9,"Oh no, I think I heard my brother calling me, {PlayerSurName} Leader, let's go over quickly.",แย่แล้ว! เหมือนได้ยินเสียงท่านพี่เรียกข้า ท่านเจ้าสำนัก{PlayerSurName}รีบไปกันเถิดค่ะ
+Story-part33_7_10,"Princess, please follow me.",เชิญท่านหญิงตามข้ามา
+Story-part33_8_1,"My dear sister, how do you feel about this {MyFaction} after touring around, does it feel like the martial arts sect you imagined?",น้องสาวผู้น่ารักของข้า เจ้าได้เที่ยวชมสำนัก{MyFaction}จนทั่วแล้วรู้สึกอย่างไรบ้างเล่า มีความรู้สึกเหมือนสำนักยุทธภพในจินตนาการของเจ้าหรือไม่?
+Story-part33_9_1,"Brother, it's not only fun here, {PlayerSurName} Leader also takes good care of me. Unlike in the palace, it's so boring no matter how I stay... I think...",ท่านพี่คะ ที่นี่มิเพียงสนุกสนาน ท่านเจ้าสำนัก{PlayerSurName}ยังดูแลข้าเป็นอย่างดี มิเหมือนในวังหลวง น่าเบื่อหน่ายยิ่งนัก... ข้าอยาก...
+Story-part33_9_2,What are you thinking?,เจ้าอยากทำอะไรล่ะ?
+Story-part33_9_3,"I want to stay in {MyFaction} for a while longer to experience the life of the martial arts world, please grant me this wish, brother!",ข้าอยากจะอยู่ต่อที่สำนัก{MyFaction} เพื่อสัมผัสชีวิตในยุทธภพอีกสักหน่อย ขอท่านพี่โปรดเห็นแก่ความปรารถนาของข้าด้วยเถิดค่ะ!
+Story-part33_9_4,Hahahaha! You're truly my dear sister!,ฮ่าฮ่าฮ่าฮ่าฮ่า! สมกับเป็นน้องสาวแท้ๆ ของข้า!
+Story-part33_9_5,"{PlayerSurName} Leader, I plan to fulfill Fuqing's wish and entrust her to you for a while, are you willing?",เจ้าสำนัก{PlayerSurName} ข้าเตรียมจะทำตามความปรารถนาของฟู่ชิง มอบนางให้อยู่ในความดูแลของท่านสักระยะหนึ่ง ท่านจะยินดีหรือไม่?
+Story-part33_9_6,Having the princess visit is naturally an honor for our sect.,มีท่านหญิงเสด็จมาถึงสำนักเรา ย่อมเป็นเกียรติอย่างยิ่งของสำนักเรา
+Story-part33_9_7,"{PlayerSurName} Sect Leader, remember to tell me your heroic stories~",ท่านเจ้าสำนัก{PlayerSurName} ท่านอย่าลืมเล่าเรื่องราววีรกรรมของท่านให้ข้าฟังด้วยนะเจ้าคะ~
+Story-part33_10_1,"Brother Wang, it's not as fun as I imagined here, {PlayerSurName} Sect Leader is just like you, always managing this and that, it's so boring!",ท่านพี่คะ ที่นี่มิสนุกสนานอย่างที่ข้าคิดเลยค่ะ ท่านเจ้าสำนัก{PlayerSurName}ก็เช่นเดียวกับท่าน คอยแต่จะควบคุมนั่นควบคุมนี่ น่าเบื่อยิ่งนัก!
+Story-part33_10_2,"{PlayerSurName} Sect Leader, as the head of a sect, naturally can't accompany you to mess around everywhere.",ท่านเจ้าสำนัก{PlayerSurName} เป็นถึงประมุขแห่งสำนัก จะให้มาเล่นสนุกไปทั่วกับเจ้าได้อย่างไร
+Story-part33_10_3,"Now that you've experienced what it's like to be in a martial arts sect, let's go back to Lin'an together.",ในเมื่อได้สัมผัสแล้วว่าสำนักยุทธภพเป็นเช่นไร บัดนี้จงตามข้ากลับหลินอันเถิด
+Story-part33_10_4,"{PlayerSurName} Sect leader, I have been bothering you a lot recently. These things can be considered as some compensation from me.",ท่านเจ้าสำนัก{PlayerSurName} ช่วงเวลานี้ข้ารบกวนท่านมามากนัก สิ่งเหล่านี้ถือเป็นของตอบแทนเล็กๆ น้อยๆ จากข้าก็แล้วกัน
+Story-part33_11_1,"{PlayerSurName} Sect Leader, I know you're busy with sect affairs, but surely you can spare some time to accompany the princess, right?",ท่านเจ้าสำนัก{PlayerSurName} ข้ารู้ว่ากิจการสำนักของท่านยุ่งเหยิง แต่ถึงกระนั้นคงมิถึงกับไม่มีเวลาแม้แต่น้อยมาอยู่เป็นเพื่อนท่านหญิงกระมัง?
+Story-part33_11_2,"Your Highness, I apologize, {PlayerSurName} I really didn't mean to neglect you and the princess...",ขอพระองค์ทรงอภัย ข้า{PlayerSurName}มิได้มีเจตนาที่จะละเลยพระองค์และท่านหญิงเลยจริงๆ...
+Story-part34_1_1,"Sect Leader, although Jiujiang Fortress has been destroyed, the Ding siblings, who are a major threat to Duke Kang, have not been arrested.",ท่านเจ้าสำนัก แม้ว่าค่ายน้ำจิ่วเจียงจะถูกทำลายลงแล้ว แต่พี่น้องสกุลติงผู้เป็นศัตรูตัวฉกาจของอ๋องคังก็ยังมิถูกจับกุมตัวมาดำเนินคดีได้
+Story-part34_1_2,"Today, there is news from the city that Ding Haitang has somehow been separated from Ding Fengbo and has appeared alone in a tavern.",วันนี้มีข่าวแจ้งจากในเมืองว่า ติงไห่ถังไม่ทราบสาเหตุใดถึงแยกจากติงเฟิงป๋อ ไปปรากฏตัวที่โรงสุราแห่งหนึ่งตามลำพัง
+Story-part34_1_3,"The city's constables have surrounded the tavern, but they dare not act. If our sect wants to get involved, please make a decision quickly.",เหล่ามือปราบในเมืองปิดล้อมโรงเตี๊ยมไว้หมดแล้ว แต่ยังไม่กล้าเคลื่อนไหว ถ้าสำนักเราจะเข้าร่วมด้วย ท่านต้องตัดสินใจทันที
 Story-part34_name,The Crisis of Haitang,วิกฤติของไห่ถัง
-Story-part34_log,Ding Haitang has appeared alone for some reason and is trapped by the city's constables.
-Story-part34_2_1,What's the situation inside the tavern now?
-Story-part34_2_2,"This woman is quite skilled, she took down five or six of our brothers who went in earlier, taking advantage of the terrain."
-Story-part34_2_3,"The Prefect is considerate of us, he ordered us to surround the tavern without attacking, hoping to starve her into submission."
-Story-part34_2_4,"But this woman is tough as nails, she hasn't eaten, drunk or slept for three days, and she's still fierce in combat."
-Story-part34_2_5,"We want to continue the siege, but we're worried that her brother Ding Fengbo will come to provide combat support. If it weren't for your sect's arrival, we really wouldn't know what to do."
-Story-part34_2_6,"I understand the situation, leave the rest to us."
-Story-part34_2_7,"Listen up, you dogs of the court who have come in!"
-Story-part34_2_8,"Although I haven't eaten or slept for three days, I'm still full of energy and ready to fight you."
-Story-part34_2_9,"I suggest you leave as soon as possible, otherwise, when my brother comes, you'll be seeking your own death!"
-Story-part34_2_10,"(I didn't expect Ding Haitang, a woman, to be so bold and domineering, what should I say?)"
-Story-part34_op_1_1,"You audacious pirate, surrender now!"
-Story-part34_op_1_2,"Miss Ding, you are bold and domineering, let me help you!"
-Story-part34_3_1,"You audacious pirate, still dare to brag here, surrender now!"
-Story-part34_3_2,"If you have the guts, come up the stairs and let me teach you a lesson!"
-Story-part34_4_1,"I underestimated the enemy, let's retreat from the tavern quickly..."
-Story-part34_5_1,"Hmph, so you've been running on fumes, just barely holding on with sheer willpower."
-Story-part34_5_2,"I'll hand you over to Duke Kang first, don't worry, Ding Fengbo will see you soon!"
-Story-part34_6_1,"Miss Ding, you are bold and domineering, let's break out of the tavern together, I'll cover you."
-Story-part34_6_2,"You're from {MyFaction}... traitor, you can't fool me with such tricks!"
-Story-part34_6_3,"Miss Ding, the past grudges between our two families were just for our respective masters. In today's situation, if you don't trust me, you will definitely be captured."
-Story-part34_6_4,"Fine, I'll trust you this time... Lead the way!"
+Story-part34_log,Ding Haitang has appeared alone for some reason and is trapped by the city's constables.,ติงไห่ถังปรากฏตัวคนเดียวโดยไม่ทราบสาเหตุ ถูกพวกมือปราบล้อมจับไว้หมดแล้ว
+Story-part34_2_1,What's the situation inside the tavern now?,ตอนนี้สถานการณ์ในโรงเตี๊ยมเป็นอย่างไรบ้าง?
+Story-part34_2_2,"This woman is quite skilled, she took down five or six of our brothers who went in earlier, taking advantage of the terrain.",แม่นางคนนี้มีวิทยายุทธ์ร้ายกาจ พวกเราเข้าไปห้าหกคน โดนเล่นงานล้มจนหมด เพราะได้เปรียบเรื่องสถานที่
+Story-part34_2_3,"The Prefect is considerate of us, he ordered us to surround the tavern without attacking, hoping to starve her into submission.",ท่านเจ้าเมืองเมตตาพวกเรา เลยให้พี่น้องเอาอาหารในร้านออกไปทั้งหมด แล้วล้อมไว้เฉยๆ หวังว่ามันจะหิวจนยอมจำนน
+Story-part34_2_4,"But this woman is tough as nails, she hasn't eaten, drunk or slept for three days, and she's still fierce in combat.",ไม่นึกเลยว่าแม่นางคนนี้จะทรหดอดทนราวกับภูผา สามวันไม่กินไม่ดื่มไม่นอน สู้กับคนยังดุดันเหมือนเดิม
+Story-part34_2_5,"We want to continue the siege, but we're worried that her brother Ding Fengbo will come to provide combat support. If it weren't for your sect's arrival, we really wouldn't know what to do.",พวกเราอยากจะปิดล้อมมันต่อไป แต่ก็กังวลว่า ติงเฟิงป๋อ จะมาช่วยเหลือ ถ้าไม่ได้สำนักท่านมาช่วยจริงๆ ก็ไม่รู้จะทำยังไงดี
+Story-part34_2_6,"I understand the situation, leave the rest to us.",ข้าเข้าใจสถานการณ์ทั้งหมดแล้ว ต่อจากนี้ให้พวกเราจัดการเอง
+Story-part34_2_7,"Listen up, you dogs of the court who have come in!",พวกสุนัขรับใช้ของราชสำนัก จงฟัง! ยายของเจ้าจะบอกอะไรให้!
+Story-part34_2_8,"Although I haven't eaten or slept for three days, I'm still full of energy and ready to fight you.",ยายของเจ้าถึงจะไม่กินไม่นอนมาสามวัน แต่ก็ยังแข็งแกร่งพร้อมรบ รอประมือกับพวกเจ้าอยู่
+Story-part34_2_9,"I suggest you leave as soon as possible, otherwise, when my brother comes, you'll be seeking your own death!",ข้าเตือนให้พวกแกรีบไปซะ ก่อนที่ ติงเฟิงปัวจะมาถึง ไม่งั้นพวกแกจะรนหาที่ตายเอง!
+Story-part34_2_10,"(I didn't expect Ding Haitang, a woman, to be so bold and domineering, what should I say?)",(คาดไม่ถึงเลยว่า ถึงแม้ ติงไห่ถังจะเป็นหญิง แต่กลับห้าวหาญขนาดนี้ ข้าควรจะพูดอย่างไรดี?)
+Story-part34_op_1_1,"You audacious pirate, surrender now!",พวกโจรปล้นเรือชั่วช้า จงวางอาวุธยอมจำนน ซะโดยดี!
+Story-part34_op_1_2,"Miss Ding, you are bold and domineering, let me help you!",แม่นางติง ช่างห้าวหาญยิ่งนัก ข้ามาช่วยท่านแล้ว!
+Story-part34_3_1,"You audacious pirate, still dare to brag here, surrender now!",พวกกบฏโจรปล้นเรือใจกล้า ยังกล้ามาแสดงฤทธิ์ที่นี่ จงวางอาวุธยอมจำนน ซะ!
+Story-part34_3_2,"If you have the guts, come up the stairs and let me teach you a lesson!",ถ้าเจ้าแน่จริง ขึ้นบันไดมาเลย ยายจะสั่งสอนให้รู้สำนึก!
+Story-part34_4_1,"I underestimated the enemy, let's retreat from the tavern quickly...",ข้าประมาทไป รีบถอยออกจากโรงเตี๊ยมกันเถอะ...
+Story-part34_5_1,"Hmph, so you've been running on fumes, just barely holding on with sheer willpower.",หึ ที่แท้เจ้าก็หมดเรี่ยวแรงแล้ว แค่ฝืนใจสู้เพราะความดื้อรั้นเท่านั้นเอง
+Story-part34_5_2,"I'll hand you over to Duke Kang first, don't worry, Ding Fengbo will see you soon!",ข้าจะส่งตัวเจ้าไปให้ท่านอ๋องคังก่อน ไม่ต้องกังวล ติงเฟิงป๋อจะมาหาเจ้าในอีกไม่นาน!
+Story-part34_6_1,"Miss Ding, you are bold and domineering, let's break out of the tavern together, I'll cover you.",แม่นางติงช่างกล้าหาญยิ่งนัก รีบตามข้าออกมาจากโรงเตี๊ยม ข้าจะคุ้มกันท่านเอง!
+Story-part34_6_2,"You're from {MyFaction}... traitor, you can't fool me with such tricks!",เจ้าเป็นคนของ {MyFaction} ...ไอ้คนทรยศ กลอุบายหลอกลวงแบบนี้จะหลอกข้าได้ยังไง!
+Story-part34_6_3,"Miss Ding, the past grudges between our two families were just for our respective masters. In today's situation, if you don't trust me, you will definitely be captured.",แม่นางติง เรื่องความบาดหมางในอดีตระหว่างเราสองคน มันเป็นแค่เรื่องที่ต่างคนต่างทำตามหน้าที่ของตนเองเท่านั้น สถานการณ์วันนี้ ถ้าท่านไม่เชื่อข้า ท่านจะถูกจับอย่างแน่นอน!
+Story-part34_6_4,"Fine, I'll trust you this time... Lead the way!",เอาเถอะ ข้าจะเสี่ยงชีวิตเชื่อใจเจ้าสักครั้ง นำทางไป!
 Story-part34_6_5,Am I seeing things... Why is the hero {MyFaction} rushing out with that female bandit? Could it be an imposter?
 Story-part34_6_6,"Stop! Brothers, stop them!"
 Story-part34_7_1,"Don't worry about me, just go!"
