@@ -2352,27 +2352,27 @@ Story-part27_5_1,"Head of the sect, are you always afraid that after I recover m
 Story-part27_5_2,"Yan, are you joking? I, as the head of the sect, am not that narrow-minded. I'm just busy with affairs...",ท่านผู้อาวุโสเยี่ยน ท่านพูดเล่นอะไรกัน ข้ามิใช่คนใจแคบเช่นนั้น เพียงแต่ช่วงนี้ภารกิจล้นมือเท่านั้น...
 Story-part27_5_3,"Forget it, forget it. At my age, why should I fight for the Peak of Jianghu... sigh...",ช่างเถิด ช่างเถิด อายุข้าปูนนี้แล้ว จะไปแย่งชิงความเป็นหนึ่งในใต้หล้าไปทำไมกัน...เฮ้อ...
 Story-part28_1_1,"Head of the sect, a messenger from the Ye Family Battalion has delivered an urgent letter. Please read it as soon as possible.",ท่านเจ้าสำนัก ทหารสื่อสารจากกองทัพตระกูลเย่ได้ส่งสาส์นด่วนที่สุดมา โปรดท่านรีบอ่านโดยเร็ว
-Story-part28_1_2,"It turns out that a Beiwei Army squad encountered an accident while carrying out a mission near our sect. The details are unclear, and they hope our sect can help confirm the situation."
-Story-part28_1_3,We must act quickly and send someone to check it out.
-Story-part28_name,Siege of Beiwei
-Story-part28_log,"A Beiwei Army squad has mysteriously disappeared near your sect, suspected to have been ambushed."
-Story-part28_2_1,The place where the Beiwei Army squad disappeared should be right ahead. Let's investigate carefully and not miss any clues.
-Story-part28_2_2,"Judging by the traces here, this Beiwei Army squad seems to have engaged in a battle and, being outnumbered, headed south."
-Story-part28_2_3,How dare these audacious villains attack the Ye Family Battalion within Zhao's territory? Let's catch up with them.
-Story-part28_2_4,"Great Ant City is handling affairs, unrelated people should retreat for now!"
-Story-part28_2_5,"There are a large number of Great Ant City Ninjas fighting with the Beiwei Army ahead, it seems they are the culprits!"
-Story-part28_2_6,"You few are no match for our large team, you're courting death!"
-Story-part28_3_1,"These Great Ant City scoundrels are numerous, we should retreat back to the sect and plan our next move."
-Story-part28_4_1,"No matter how many they are, they can't change the fact that they're trying to shake a tree with a dragonfly."
-Story-part28_4_2,"Let's check on the condition of the Beiwei Army brothers. If it weren't for their distraction, we might not have won so easily."
-Story-part28_4_3,"Thank you, if it weren't for {MyFaction}, I'm afraid I would have been ambushed by these villains here."
-Story-part28_4_4,Marshal Ye! What are you doing here?
-Story-part28_4_5,"I heard that there might be a large number of Great Ant City Ninjas infiltrating this area with ill intentions, so I brought a few Beiwei Army soldiers to investigate."
-Story-part28_4_6,"I didn't expect the news to leak out, and these Ninjas came out in full force, vowing to assassinate me here. I was outnumbered and forced to retreat while fighting, luckily I managed to hold out until your sect's experts came to the rescue."
-Story-part28_4_7,"Thinking of the absurdity of attacking your sect based on false accusations before, I, the general, am deeply grieved..."
-Story-part28_4_8,"Marshal Ye, as the saying goes, the son of a rich lady can't sit in the hall. Why do you need to personally handle such a trivial matter as investigating information?"
-Story-part28_4_9,"That's not right. If I don't lead by example, then every soldier in the army will take pride in their high position and power, aspiring to be those who enjoy their position without doing anything."
-Story-part28_4_10,"In the Ye Family Battalion, although there is a hierarchy, we are all brothers in arms and treat each other equally. Everyone takes guarding the homeland as their ideal, where is the distinction between high and low, noble and humble?"
+Story-part28_1_2,"It turns out that a Beiwei Army squad encountered an accident while carrying out a mission near our sect. The details are unclear, and they hope our sect can help confirm the situation.",กองทัพเป่ยเว่ย ที่มาปฏิบัติภารกิจใกล้สำนักของเราเกิดเหตุไม่คาดคิด ตอนนี้ยังไม่รู้ชัดเจนว่าเกิดอะไรขึ้น พวกเขาอยากให้สำนักเราช่วยไปตรวจสอบ
+Story-part28_1_3,We must act quickly and send someone to check it out.,เราต้องรีบดำเนินการ และส่งคนไปตรวจสอบให้เร็วที่สุด
+Story-part28_name,Siege of Beiwei,การปิดล้อมกองทัพเป่ยเว่ย
+Story-part28_log,"A Beiwei Army squad has mysteriously disappeared near your sect, suspected to have been ambushed.",กองทัพเป่ยเว่ยที่มาปฏิบัติภารกิจใกล้สำนักท่าน เกิดหายสาบสูญไปอย่างไม่คาดคิด คาดว่าจะถูกซุ่มโจมตี
+Story-part28_2_1,The place where the Beiwei Army squad disappeared should be right ahead. Let's investigate carefully and not miss any clues.,ตรงนั้น น่าจะเป็นจุดที่กองทัพเป่ยเว่ยหายตัวไป เราต้องตรวจสอบอย่างละเอียด อย่าให้ร่องรอยใดๆ เล็ดลอดไปได้
+Story-part28_2_2,"Judging by the traces here, this Beiwei Army squad seems to have engaged in a battle and, being outnumbered, headed south.",ดูจากร่องรอยแล้ว กองทัพเป่ยเว่ยน่าจะได้ปะทะกับศัตรู แต่เพราะเสียเปรียบเลยต้องถอยร่นไปทางใต้
+Story-part28_2_3,How dare these audacious villains attack the Ye Family Battalion within Zhao's territory? Let's catch up with them.,ผู้ใดกันที่กล้าบ้าบิ่นถึงขนาดเข้าโจมตีกองทัพเย่ ในแคว้นจ้าว? เราต้องรีบตามไปเดี๋ยวนี้!
+Story-part28_2_4,"Great Ant City is handling affairs, unrelated people should retreat for now!",นี่คือภารกิจของเมืองผีฝู ผู้ใดที่ไม่เกี่ยวข้องกรุณาออกไป!
+Story-part28_2_5,"There are a large number of Great Ant City Ninjas fighting with the Beiwei Army ahead, it seems they are the culprits!",ด้านหน้ามีนินจาจากเมืองผีฝู กำลังต่อสู้กับกองทัพเป่ยเว่ย ดูเหมือนพวกเขานี่แหละที่เป็นคนลงมือ!
+Story-part28_2_6,"You few are no match for our large team, you're courting death!",พวกเจ้า มีแค่ไม่กี่คน จะสู้กับกองทัพใหญ่ของเราได้ยังไง อยากตายรึไง!
+Story-part28_3_1,"These Great Ant City scoundrels are numerous, we should retreat back to the sect and plan our next move.",พวกโจรจากเมืองผีฝูมีจำนวนมาก กลับสำนักไปหารือกันใหม่เถอะ!
+Story-part28_4_1,"No matter how many they are, they can't change the fact that they're trying to shake a tree with a dragonfly.",แม้จะมีคนมากมาย ก็ไม่อาจเปลี่ยนความจริงที่พวกเขากำลังทำเรื่องไร้ประโยชน์ เหมือนพวกแมงเม่าพยายามเขย่าต้นไม้ใหญ่!
+Story-part28_4_2,"Let's check on the condition of the Beiwei Army brothers. If it weren't for their distraction, we might not have won so easily.",รีบไปตรวจสอบพี่น้องกองทัพเป่ยเว่ยกันเถอะ ถ้าไม่ใช่พวกเขายื่นมือมาช่วย เราคงไม่ชนะง่ายๆ แบบนี้!
+Story-part28_4_3,"Thank you, if it weren't for {MyFaction}, I'm afraid I would have been ambushed by these villains here.",ขอบคุณ ท่านจอมยุทธ์ หากปราศจากความช่วยเหลือของ {MyFaction} ข้าเกรงว่าว่า คงโดนพวกคนร้ายที่นี่ซุ่มโจมตี เรียบร้อยไปแล้ว
+Story-part28_4_4,Marshal Ye! What are you doing here?,ท่านแม่ทัพเย่ ท่านมาทำอะไรที่นี่?
+Story-part28_4_5,"I heard that there might be a large number of Great Ant City Ninjas infiltrating this area with ill intentions, so I brought a few Beiwei Army soldiers to investigate.",ข้าได้ยินมาว่ามีนินจาจากเมืองผีฝู แอบแทรกซึมที่นี่เป็นจำนวนมากเพื่อวางแผนร้าย เลยพาทหารใกล้ชิดในกองทัพเป่ยเว่ยมาตรวจสอบ!
+Story-part28_4_6,"I didn't expect the news to leak out, and these Ninjas came out in full force, vowing to assassinate me here. I was outnumbered and forced to retreat while fighting, luckily I managed to hold out until your sect's experts came to the rescue.",ไม่คิดว่าข่าวจะรั่วกลางทาง พวกนินจาเหล่านี้ยกกองทัพมาทั้งหมด เพื่อลอบสังหารข้าที่นี่ ข้าเองก็มีคนน้อย เลยต้องสู้และถอยไปเรื่อยๆ โชคดีที่สำนักของท่านมาช่วยไว้ทันเวลา!
+Story-part28_4_7,"Thinking of the absurdity of attacking your sect based on false accusations before, I, the general, am deeply grieved...",เมื่อนึกถึงครั้งที่ข้าเชื่อคำยุยง จนยกทัพมาโจมตีสำนักท่าน ข้ารู้สึกเจ็บปวดและเสียใจยิ่งนัก...
+Story-part28_4_8,"Marshal Ye, as the saying goes, the son of a rich lady can't sit in the hall. Why do you need to personally handle such a trivial matter as investigating information?",ท่านแม่ทัพเย่ มีสุภาษิตที่ว่า 'คนที่มีค่า ควรอยู่ให้ปลอดภัย' การสืบข่าวเล็กน้อยแบบนี้ ไฉนท่านต้องลงมือเอง?
+Story-part28_4_9,"That's not right. If I don't lead by example, then every soldier in the army will take pride in their high position and power, aspiring to be those who enjoy their position without doing anything.",คำพูดเช่นนี้ผิดแล้ว ถ้าข้าไม่ลงมือทำและเป็นแบบอย่าง ทหารในกองทัพก็จะหลงใหลในอำนาจและตำแหน่ง จนกลายเป็นคนที่มีหน้าที่แต่ไม่ยอมทำอะไร!
+Story-part28_4_10,"In the Ye Family Battalion, although there is a hierarchy, we are all brothers in arms and treat each other equally. Everyone takes guarding the homeland as their ideal, where is the distinction between high and low, noble and humble?",กองทัพเย่ของข้าแม้จะมีลำดับชั้น แต่ทุกคนล้วนเป็นพี่น้องร่วมรบที่เท่าเทียมกัน ทุกคนล้วนมีอุดมการณ์ที่จะปกป้องบ้านเมือง แล้วจะมีอะไรที่แบ่งแยกสูงต่ำเล่า?
 Story-part28_4_11,"I rashly attacked your sect before, but you saved me in spite of past grievances. Please accept this manual as an apology."
 Story-part28_5_1,"Master, I heard that Marshal Ye was in the Beiwei Army squad that asked for help. Because they didn't get support from our sect, not only were the soldiers heavily casualties, but Marshal Ye was also heavily injured..."
 Story-part28_5_2,"Fortunately, Marshal Ye is blessed, otherwise I would really be a sinner of the country..."

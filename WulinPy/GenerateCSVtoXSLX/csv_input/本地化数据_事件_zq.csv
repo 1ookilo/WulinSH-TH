@@ -2458,7 +2458,7 @@ DBZX-6-2_option1_2,Both of them saw a figure.,"ทั้งสองท่าน
 DBZX-6-2_option2_1,The wind blew the door open.,ลมพัดประตูเปิดออก
 DBZX-6-2_option2_2,Someone jumped on the roof.,มีคนกระโดดขึ้นไปบนหลังคา
 DBZX-6-2_option2_3,It was Duan Hongjin who was frightened and ran out of the room.,"แม่นางต้วน ท่านเห็นผู้ใดหรือเหตุการณ์ใด จึงตื่นตระหนกวิ่งออกมาเช่นนั้น?"""
-DBZX-6-2_option3_1,Of course there are relations.,แน่นอนว่ามีความสัมพันธ์กัน
+DBZX-6-2_option3_1,Of course there are relations.,แน่นอนว่าเกี่ยวข้องกัน
 DBZX-6-2_option3_2,No relations.,ไม่ข้องเกี่ยวกัน
 DBZX-6-2_option4_1,Yes.,ใช่
 DBZX-6-2_option4_2,No.,ไม่
@@ -2475,17 +2475,17 @@ DBZX-7_overview1,Go to the location of the Dragon Vein Treasury on the treasure 
 DBZX-7_overview2,Ask the clerk at the Xu Family Outpost tavern if there is anyone familiar with the mountain environment.,สอบถามเสี่ยวเอ้อที่โรงเตี๊ยมด่านหน้าตระกูลสวี ว่ามีใครคุ้นชินกับสภาพแวดล้อมบนภูเขาบ้างไหม
 DBZX-7_overview3,"Find Xu Laolu, who is familiar with the mountain roads, in Xu Family Outpost.",ตามหาสวีเหล่าลิ่ว ผู้ที่คุ้นเคยกับเส้นทางบนภูเขา ที่ด่านหน้าตระกูลสวี
 DBZX-7_overview4,Go to the snowy mountain in the north of Yan Yun Region.,ไปที่ภูเขาหิมะทางตอนเหนือของแคว้นเยี่ยน
-DBZX-7_option1_1,Give him 3 strings of coins.<color=#097a76>(3000Coin)</color>,มอบเหรียญตราสามพวงให้เขา<color=#097a76>(3000อีแปะ)</color>
+DBZX-7_option1_1,Give him 3 strings of coins.<color=#097a76>(3000Coin)</color>,มอบเหรียญสามพวงให้เขา<color=#097a76>(3000อีแปะ)</color>
 DBZX-7_option1_2,Give him five taels of Scrap silver.<color=#097a76>(Scrap silver5 taels)</color>,มอบเศษเงินห้าตำลึงให้เขา<color=#097a76>(เศษเงิน 5 ตำลึง)</color>
 DBZX-7_option1_3,"Then you think about it, I'll ask again later.","ให้เจ้ากลับไปคิด, แล้วข้าจะถามใหม่ในภายหลัง"
 DBZX-7_option2_1,Of course I'll help!<color=#097a76>(Specific battle)</color>,แน่นอน ข้าจะช่วย!<color=#097a76>(เข้าสู่การต่อสู้)</color>
 DBZX-7_option2_2,Stand by and watch.,รอดูเฉยๆ 
-DBZX-7_option3_1,Pay for the Soup medicine.<color=#097a76>(1000Coin)</color>,จ่ายค่าน้ำซุปยา<color=#097a76>(1000อีแปะ)</color>
+DBZX-7_option3_1,Pay for the Soup medicine.<color=#097a76>(1000Coin)</color>,จ่ายค่ายารักษา<color=#097a76>(1000อีแปะ)</color>
 DBZX-7_option3_2,No money!,ไม่มีเงิน!
-DBZX-7_option4_1,Pay for the Soup medicine.<color=#097a76>(300Coin)</color>,จ่ายค่าน้ำซุปยา<color=#097a76>(300อีแปะ)</color>
+DBZX-7_option4_1,Pay for the Soup medicine.<color=#097a76>(300Coin)</color>,จ่ายค่ายารักษา<color=#097a76>(300อีแปะ)</color>
 DBZX-7_option4_2,How about I help you heal your leg injury?<color=#097a76>(Medical50)</color>,ข้าจะช่วยรักษาอาการขาดเจ็บที่ขาเจ้าได้ยังไง?<color=#097a76>(ทักษะการรักษา50)</color>
 DBZX-7_option4_3,"You've seen my skills, you have to help even if you don't want to!",เจ้าเห็นฝีมือข้าแล้ว เจ้าต้องช่วยข้าแม้ว่าเจ้าจะไม่อยากก็ตาม!
-DBZX-7_option5_1,Pay for the Soup medicine.(3000Coin),จ่ายค่าน้ำซุปยา (3000อีแปะ)
+DBZX-7_option5_1,Pay for the Soup medicine.(3000Coin),จ่ายค่ายารักษา (3000อีแปะ)
 DBZX-7_option5_2,No money!,ไม่มีเงิน!
 DBZX-8_name,Dragon Vein Treasury,สมบัติเส้นเลือดมังกร
 DBZX-8_overview1,Found the Dragon Vein Treasury!,หาสมบัติเส้นเลือดมังกร!
