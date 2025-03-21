@@ -2563,7 +2563,7 @@ Story-part33_10_4,"{PlayerSurName} Sect leader, I have been bothering you a lot 
 Story-part33_11_1,"{PlayerSurName} Sect Leader, I know you're busy with sect affairs, but surely you can spare some time to accompany the princess, right?",ท่านเจ้าสำนัก{PlayerSurName} ข้ารู้ว่ากิจการสำนักของท่านยุ่งเหยิง แต่ถึงกระนั้นคงมิถึงกับไม่มีเวลาแม้แต่น้อยมาอยู่เป็นเพื่อนท่านหญิงกระมัง?
 Story-part33_11_2,"Your Highness, I apologize, {PlayerSurName} I really didn't mean to neglect you and the princess...",ขอพระองค์ทรงอภัย ข้า{PlayerSurName}มิได้มีเจตนาที่จะละเลยพระองค์และท่านหญิงเลยจริงๆ...
 Story-part34_1_1,"Sect Leader, although Jiujiang Fortress has been destroyed, the Ding siblings, who are a major threat to Duke Kang, have not been arrested.",ท่านเจ้าสำนัก แม้ว่าค่ายน้ำจิ่วเจียงจะถูกทำลายลงแล้ว แต่พี่น้องสกุลติงผู้เป็นศัตรูตัวฉกาจของอ๋องคังก็ยังมิถูกจับกุมตัวมาดำเนินคดีได้
-Story-part34_1_2,"Today, there is news from the city that Ding Haitang has somehow been separated from Ding Fengbo and has appeared alone in a tavern.",วันนี้มีข่าวแจ้งจากในเมืองว่า ติงไห่ถังไม่ทราบสาเหตุใดถึงแยกจากติงเฟิงป๋อ ไปปรากฏตัวที่โรงสุราแห่งหนึ่งตามลำพัง
+Story-part34_1_2,"Today, there is news from the city that Ding Haitang has somehow been separated from Ding Fengbo and has appeared alone in a tavern.",วันนี้มีข่าวแจ้งจากในเมืองว่า ติงไห่ถังไม่ทราบสาเหตุใดถึงแยกจากติงเฟิงป๋อ ไปปรากฏตัวที่โรงเตี๊ยมแห่งหนึ่งตามลำพัง
 Story-part34_1_3,"The city's constables have surrounded the tavern, but they dare not act. If our sect wants to get involved, please make a decision quickly.",เหล่ามือปราบในเมืองปิดล้อมโรงเตี๊ยมไว้หมดแล้ว แต่ยังไม่กล้าเคลื่อนไหว ถ้าสำนักเราจะเข้าร่วมด้วย ท่านต้องตัดสินใจทันที
 Story-part34_name,The Crisis of Haitang,วิกฤติของไห่ถัง
 Story-part34_log,Ding Haitang has appeared alone for some reason and is trapped by the city's constables.,ติงไห่ถังปรากฏตัวคนเดียวโดยไม่ทราบสาเหตุ ถูกพวกมือปราบล้อมจับไว้หมดแล้ว
@@ -2588,42 +2588,42 @@ Story-part34_6_1,"Miss Ding, you are bold and domineering, let's break out of th
 Story-part34_6_2,"You're from {MyFaction}... traitor, you can't fool me with such tricks!",เจ้าเป็นคนของ {MyFaction} ...ไอ้คนทรยศ กลอุบายหลอกลวงแบบนี้จะหลอกข้าได้ยังไง!
 Story-part34_6_3,"Miss Ding, the past grudges between our two families were just for our respective masters. In today's situation, if you don't trust me, you will definitely be captured.",แม่นางติง เรื่องความบาดหมางในอดีตระหว่างเราสองคน มันเป็นแค่เรื่องที่ต่างคนต่างทำตามหน้าที่ของตนเองเท่านั้น สถานการณ์วันนี้ ถ้าท่านไม่เชื่อข้า ท่านจะถูกจับอย่างแน่นอน!
 Story-part34_6_4,"Fine, I'll trust you this time... Lead the way!",เอาเถอะ ข้าจะเสี่ยงชีวิตเชื่อใจเจ้าสักครั้ง นำทางไป!
-Story-part34_6_5,Am I seeing things... Why is the hero {MyFaction} rushing out with that female bandit? Could it be an imposter?
-Story-part34_6_6,"Stop! Brothers, stop them!"
-Story-part34_7_1,"Don't worry about me, just go!"
-Story-part34_7_2,"To have met a friend like you who would risk their life for me before I die, I consider myself fortunate..."
-Story-part34_7_3,"We can't keep fighting, let's retreat..."
-Story-part34_8_1,That was a great fight!
-Story-part34_8_2,"Hurry up, these constables' martial arts skills are limited. If we alert the Crime Investigation Bureau or Duke Kang's people, we won't be able to escape."
-Story-part34_8_3,"Jiujiang Fortress has been destroyed, and I've lost my brother... Where else can I go..."
-Story-part34_8_4,You can come back to {MyFaction} with me.
-Story-part34_8_5,{MyFaction}? Would you dare to risk offending Duke Kang for me?
-Story-part34_8_6,"What Duke Kang fears is the power of Jiujiang Fortress, not two bandits like you. We don't have much time, let's go to my sect for now."
-Story-part34_8_7,"Fine, I'll trust you one more time!"
-Story-part34_8_8,I don't like owing people. This exclusive manual is a token of my gratitude for your help.
-Story-part34_9_1,"Master, Ding Haitang held on for a long time, but she couldn't resist any longer and was captured by the officials."
-Story-part34_9_2,Our sect has other important matters to attend to. Let's leave the capture of the Ding siblings to the officials and Duke Kang.
-Story-part35_1_1,"Miss Ding, what's the matter? Why are you in such a hurry?"
-Story-part35_1_2,"Master {PlayerSurName}, I heard my brother's unique bamboo whistle today. The sound was high three times and low once, long twice and short once, which is his signal for seeking a way to save me."
-Story-part35_1_3,"But what worries me is that I don't have a bamboo whistle to signal that I'm safe. If he misunderstands and thinks I've been kidnapped by you and breaks into the sect at night, what should we do?"
-Story-part35_1_4,"Don't worry, I'll have our elite disciples patrol day and night. As soon as he appears, we'll know immediately."
-Story-part35_name,Ding Fengbo's determination
-Story-part35_log,Ding Fengbo mistakenly believes that your sect has kidnapped Ding Haitang and is looking for an opportunity to sneak into the sect.
-Story-part35_2_1,I didn't expect such a heavy rain tonight...
-Story-part35_2_2,"Heavy rain not only makes the soil muddy and leaves footprints, but also makes the walls slippery, affecting the performance of Qinggong."
-Story-part35_2_3,"If I were Ding Fengbo, I would definitely not choose this kind of weather to sneak into our sect."
-Story-part35_2_4,"Master, something terrible has happened..."
-Story-part35_2_5,What's the rush? What happened?
-Story-part35_2_6,Several of our patrolling disciples were knocked out by someone. One of them has been revived after emergency treatment and said he saw a shadow heading towards Miss Ding Haitang's residence.
-Story-part35_2_7,"Although Ding Fengbo would never hurt Miss Haitang, he might attack other disciples who are watching her residence. You guys go and warn them!"
-Story-part35_2_8,"Yes, sir!"
-Story-part35_2_9,"This Ding Fengbo is really bold and talented. Even in such severe weather, he dares to sneak into our sect and hurt people..."
-Story-part35_2_10,"Hmph, not only am I bold and talented, but I also know how to catch you off guard. You rule-following fools, how could you possibly be a match for me."
-Story-part35_2_11,Creating chaos on purpose to distract the gatekeeping disciples outside the master's room... What a good plan.
-Story-part35_2_12,"But there's one thing I don't understand, master. Why did you create the illusion of going to Miss Haitang's residence, but instead sneak into my room?"
-Story-part35_2_13,"Hahaha! At that time, I knew very well that if I didn't get rid of you, even if I saved Haitang first, I would still be caught in an endless pursuit. It's better to capture the leader first, let you {{MyFaction}} be in chaos, and then escape!"
-Story-part35_2_14,"Miss Haitang was right, you are indeed meticulous despite your rough exterior. Unfortunately, you got one thing wrong. Our sect not only did not kidnap Miss Haitang, but also painstakingly rescued her from the government."
-Story-part35_2_15,"Don't try to fool me, talking is useless, let's fight!"
+Story-part34_6_5,Am I seeing things... Why is the hero {MyFaction} rushing out with that female bandit? Could it be an imposter?,นี่มันเรื่องอะไรกัน! จอมยุทธ์ {MyFaction} กลับพาโจรหญิงออกมาด้วยกันได้ยังไง? เป็นไปได้ไงเนี่ย?
+Story-part34_6_6,"Stop! Brothers, stop them!",หยุดเดี๋ยวนี้! พี่น้อง ล้อมพวกมันไว้!
+Story-part34_7_1,"Don't worry about me, just go!",ไม่ต้องห่วงข้า รีบไปเถอะ!
+Story-part34_7_2,"To have met a friend like you who would risk their life for me before I die, I consider myself fortunate...",ก่อนตายได้รู้จักสหายที่ยอมสละชีพเพื่อกันได้แบบเจ้า  ถือเป็นวาสนาของข้าแล้ว...
+Story-part34_7_3,"We can't keep fighting, let's retreat...",สู้ต่อไม่ไหวแล้ว ถอยก่อนเถอะ...
+Story-part34_8_1,That was a great fight!,ต่อสู้ได้ถึงใจจริงๆ!
+Story-part34_8_2,"Hurry up, these constables' martial arts skills are limited. If we alert the Crime Investigation Bureau or Duke Kang's people, we won't be able to escape.",รีบไปเถอะ มือปราบพวกนี้ฝีมือธรรมดา ถ้าพวกเราทำให้สำนักเทพมือปราบหรือคนของอ๋องคังรู้เข้า พวกเราจะหนีไม่ทันแล้ว
+Story-part34_8_3,"Jiujiang Fortress has been destroyed, and I've lost my brother... Where else can I go...",ค่ายน้ำจิ่วเจียงล่มสลายแล้ว ท่านลุงก็หายตัวไป... จะให้ข้าไปไหนได้อีก...
+Story-part34_8_4,You can come back to {MyFaction} with me.,เจ้ายังมีข้าอยู่ ไปกับข้ากลับ {MyFaction} ด้วยกันเถอะ
+Story-part34_8_5,{MyFaction}? Would you dare to risk offending Duke Kang for me?,{MyFaction}? เจ้ากล้าเสี่ยงขัดใจอ่องคัง เพื่อข้าหรือ?
+Story-part34_8_6,"What Duke Kang fears is the power of Jiujiang Fortress, not two bandits like you. We don't have much time, let's go to my sect for now.",อ๋องคังไม่ได้สนใจพวกเจ้าหรอก เขาแค่กังวลเรื่องค่ายน้ำจิ่วเจียง เวลามีน้อยแล้ว ไปหลบที่นิกายข้าก่อนดีกว่า
+Story-part34_8_7,"Fine, I'll trust you one more time!",ตกลง งั้นข้าจะเชื่อเจ้าอีกครั้ง!
+Story-part34_8_8,I don't like owing people. This exclusive manual is a token of my gratitude for your help.,ข้าไม่ชอบเป็นหนี้บุญคุณใคร คัมภีร์นี้ถือเป็นของตอบแทนที่ช่วยเหลือข้าเมื่อสักครู่
+Story-part34_9_1,"Master, Ding Haitang held on for a long time, but she couldn't resist any longer and was captured by the officials.",นายท่าน ติ้งไห่ถังต้านทานมานาน ในที่สุดก็ทนไม่ไหว ถูกทางการจับกุมแล้ว
+Story-part34_9_2,Our sect has other important matters to attend to. Let's leave the capture of the Ding siblings to the officials and Duke Kang.,ช่วงนี้นิกายเรามีเรื่องเร่งด่วน  เรื่องจับกุมตระกูลติง ให้ทางการกับอ๋องคังจัดการแทนเถอะ
+Story-part35_1_1,"Miss Ding, what's the matter? Why are you in such a hurry?",แม่นางติง มีเรื่องอะไรด่วนหรือ ถึงได้รีบขนาดนี้?
+Story-part35_1_2,"Master {PlayerSurName}, I heard my brother's unique bamboo whistle today. The sound was high three times and low once, long twice and short once, which is his signal for seeking a way to save me.",ท่านประมุข {PlayerSurName} วันนี้ข้าได้ยินเสียงขลุ่ยของท่านลุง เสียงเป็นรหัสลับที่เขากำลังหาทางช่วยข้า
+Story-part35_1_3,"But what worries me is that I don't have a bamboo whistle to signal that I'm safe. If he misunderstands and thinks I've been kidnapped by you and breaks into the sect at night, what should we do?",แต่ที่น่าเป็นห่วงคือ ข้าไม่มีขลุ่ยไม้ไผ่สำหรับส่งข่าว หากเขาเข้าใจผิดว่าพวกท่านจับตัวข้าไป และบุกเข้ามาในนิกายตอนกลางคืน จะทำอย่างไรดี
+Story-part35_1_4,"Don't worry, I'll have our elite disciples patrol day and night. As soon as he appears, we'll know immediately.",ไม่ต้องกังวลข้าจะส่งคนของนิกายออกลาดตระเวนทั้งวันทั้งคืน หากเขาปรากฏตัวขึ้น เราจะทราบข่าวได้อย่างรวดเร็ว
+Story-part35_name,Ding Fengbo's determination,การตัดสินใจที่แน่วแน่ของติงเฟิงป๋อ
+Story-part35_log,Ding Fengbo mistakenly believes that your sect has kidnapped Ding Haitang and is looking for an opportunity to sneak into the sect.,ติงเฟิงป๋อเข้าใจผิดคิดว่า นิกายของท่านจับตัวติงไห่ถังไป กำลังหาทางแอบเข้าสำนัก
+Story-part35_2_1,I didn't expect such a heavy rain tonight...,ไหนเลยจะคาดคิด คืนนี้กลับมีพายุฝนกระหน่ำ...
+Story-part35_2_2,"Heavy rain not only makes the soil muddy and leaves footprints, but also makes the walls slippery, affecting the performance of Qinggong.",ฝนตกหนัก มิเพียงทำให้ดินเลอะเทอะ เหยียบย่ำเป็นรอย ยังทำให้กำแพงลื่น ส่งผลต่อการใช้เคล็ดวิชาตัวเบา
+Story-part35_2_3,"If I were Ding Fengbo, I would definitely not choose this kind of weather to sneak into our sect.",หากข้าเป็นติงเฟิงป๋อ ข้าจะไม่เลือกสภาพอากาศเช่นนี้เพื่อแอบเข้านิกายแน่นอน
+Story-part35_2_4,"Master, something terrible has happened...",ท่านประมุข เกิดเรื่องใหญ่แล้ว...
+Story-part35_2_5,What's the rush? What happened?,ทำตัวลนลานเช่นนี้ เสียศักดิ์ศรีหมด บอกมา เกิดเรื่องอันใดขึ้น?
+Story-part35_2_6,Several of our patrolling disciples were knocked out by someone. One of them has been revived after emergency treatment and said he saw a shadow heading towards Miss Ding Haitang's residence.,ศิษย์ลาดตระเวนในนิกายหลายคนถูกลอบทำร้ายจนสลบ มีผู้หนึ่งได้รับการช่วยเหลือจนฟื้นคืนสติ กล่าวว่าเห็นเงาดำมุ่งไปยังที่พักของแม่นางติงไห่ถัง
+Story-part35_2_7,"Although Ding Fengbo would never hurt Miss Haitang, he might attack other disciples who are watching her residence. You guys go and warn them!",แม้ติงเฟิงป๋อจะไม่ทำร้ายแม่นางติงไห่ถัง แต่ก็อาจลงมือกับศิษย์ที่คอยคุ้มกันอยู่ก็เป็นได้ พวกเจ้าจงรีบไปแจ้งเตือนพวกเขา!
+Story-part35_2_8,"Yes, sir!",ศิษย์ รับคำสั่ง!
+Story-part35_2_9,"This Ding Fengbo is really bold and talented. Even in such severe weather, he dares to sneak into our sect and hurt people...",ติงเฟิงป๋อนี่ฝีมือยอดเยี่ยมกล้าบ้าบิ่นจริง สภาพอากาศเลวร้ายเช่นนี้ ยังกล้าแทรกซึมเข้านิกายลอบทำร้ายคน...
+Story-part35_2_10,"Hmph, not only am I bold and talented, but I also know how to catch you off guard. You rule-following fools, how could you possibly be a match for me.",ฮึ่ม ข้ามิเพียงฝีมือสูงกล้าหาญ ยังรู้กลอุบายพลิกแพลง พวกเจ้าพวกไร้ประโยชน์ที่ทำตามแบบแผน จะเป็นคู่ต่อสู้ข้าได้อย่างไร
+Story-part35_2_11,Creating chaos on purpose to distract the gatekeeping disciples outside the master's room... What a good plan.,จงใจสร้างความวุ่นวาย เพื่อเบี่ยงเบนความสนใจของศิษย์ที่เฝ้าหน้าห้อง..ช่างเป็นแผนการที่แยบยลจริง
+Story-part35_2_12,"But there's one thing I don't understand, master. Why did you create the illusion of going to Miss Haitang's residence, but instead sneak into my room?",แต่ข้ามีเรื่องสงสัย เหตุใดเจ้าจึงสร้างสถานการณ์ลวงว่าไปเรือนแม่นางติงไห่ถัง แต่กลับใช้แผนล่อเสือออกจากถ้ำแอบเข้าห้องข้า?
+Story-part35_2_13,"Hahaha! At that time, I knew very well that if I didn't get rid of you, even if I saved Haitang first, I would still be caught in an endless pursuit. It's better to capture the leader first, let you {{MyFaction}} be in chaos, and then escape!",ฮ่าๆๆๆๆ! เพราะรู้อยู่แก่ใจ หากไม่กำจัดเจ้า ต่อให้ช่วยติงไห่ถังไปก่อน ก็ต้องถูกตามล่าไม่จบสิ้น สู้จับตัวหัวหน้าก่อน ให้พวก {MyFaction} วุ่นวายแล้วค่อยหนีไป!
+Story-part35_2_14,"Miss Haitang was right, you are indeed meticulous despite your rough exterior. Unfortunately, you got one thing wrong. Our sect not only did not kidnap Miss Haitang, but also painstakingly rescued her from the government.",แม่นางติงไห่ถังพูดถูก เจ้าละเอียดรอบคอบจริง แต่เสียดายที่เจ้าเข้าใจผิดเรื่องหนึ่ง นิกายเรามิได้จับแม่นางติงไห่ถัง แต่กลับช่วยนางออกมาจากเงื้อมมือทางการด้วยความยากลำบาก
+Story-part35_2_15,"Don't try to fool me, talking is useless, let's fight!",อย่ามาหลอกข้าว่าเป็นคนโง่ พูดมากไปก็เปล่าประโยชน์ มาสู้กันเถอะ!
 Story-part35_3_1,"I didn't expect this Ding Fengbo to come with determination, every move is aimed at mutual destruction, and I am restrained, under this situation, I am obviously at a disadvantage..."
 Story-part35_3_2,"Sect leader? Someone, there's an assassination attempt on the sect leader!"
 Story-part35_3_3,"I didn't expect to fail at the last moment, huh, revenge is not too late for ten years, you wait for me!"
