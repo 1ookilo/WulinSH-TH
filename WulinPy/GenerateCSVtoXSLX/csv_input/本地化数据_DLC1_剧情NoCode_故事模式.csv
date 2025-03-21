@@ -2690,38 +2690,38 @@ Story-part37_log,"Prince Chai has suddenly arrived with a young swordsman, I won
 Story-part37_2_1,{PlayerSurName} I pay my respects to Prince Chai.,ข้าน้อย{PlayerSurName}ขอคารวะท่านอ๋องไฉ
 Story-part37_2_2,I came here this time to introduce a young swordsman to Headmaster {PlayerSurName}.,การมาของข้าในคราวนี้ เพื่อแนะนำมือกระบี่หนุ่มน้อยให้ท่านเจ้าสำนัก{PlayerSurName}ได้รู้จัก
 Story-part37_2_3,"I am Liao Yuelong, please give me your guidance!",ข้าคือเหลียวเย่วหลง ขอคารวะ!
-Story-part37_2_4,This brother Liao is a good man from the rivers and lakes who recently joined me. What do you think of his talent and roots?
-Story-part37_2_5,"Brother Liao has a restrained spirit and an elegant posture, he must be a good seedling for practicing swordsmanship."
-Story-part37_2_6,Headmaster {PlayerSurName} really has a good eye!
-Story-part37_2_7,"{MyFaction} has been working for me recently and has been very diligent. Naturally, I can't just sit back and enjoy the benefits, so I want to let this talented Brother Liao join your sect to help Headmaster {PlayerSurName}."
-Story-part37_2_8,"(Is Prince Chai's behavior to provide talent for our sect, or to plant a nail in our sect, should I agree?)"
-Story-part37_op_1_1,Refuse
-Story-part37_op_1_2,Agree
-Story-part37_3_1,"I appreciate your kindness, {PlayerSurName}, but our sect has too many rules, I'm afraid Brother Liao may not be able to adapt, please take back your order."
-Story-part37_3_2,Hmph...
-Story-part37_3_3,"Yuelong, you are so confident, but Headmaster {PlayerSurName} doesn't even look at you."
-Story-part37_3_4,"Forget it, I won't force anyone, I'll take my leave."
-Story-part37_4_1,"Since Your Highness is willing to let Brother Liao join our sect, {PlayerSurName} I dare not refuse."
-Story-part37_4_2,"Yuelong, did you hear that? Hurry up and pay your respects to the headmaster!"
-Story-part37_4_3,I dare to ask Headmaster {PlayerSurName} to promise me one thing first!
-Story-part37_4_4,"No problem, take your time."
-Story-part37_4_5,"When I was young, my family was suddenly robbed, and the real culprit has not been found... As long as Headmaster {PlayerSurName} promises to help find the real culprit in the future, I will be at your disposal without any complaints!"
-Story-part37_4_6,"Such a matter of loyalty and filial piety, I will definitely take it upon myself."
-Story-part37_4_7,Liao Yuelong pays respects to the headmaster!,เหลียวเย่วหลง ขอเข้าเฝ้าท่านจางเหมิน!
-Story-part37_4_8,"Good! Bring the wine, I want to celebrate for you."
-Story-part37_5_1,"Headmaster, Prince Chai has been waiting for you in the guest hall all the time, and finally left with a pale face."
-Story-part37_5_2,Ah... How could I forget about this? This will surely offend King Chai.
-Story-part38_1_1,"Headmaster, although Tiger Escort has been destroyed, the elite escort Han Hongyu, who was ordered by Prince Chai to be arrested, has not been brought to justice."
-Story-part38_1_2,"A disciple sent a message saying that Han Hongyu is now poor and down, and is actually doing a day's bodyguard work outside the casino in that small town."
-Story-part38_1_3,What is a day's bodyguard?
-Story-part38_1_4,"It is to put up a sign outside the casino saying ""One day's bodyguard, safe to home"", specifically serving those who win money in the casino and show off, sending them home safely."
-Story-part38_1_5,"Since she is willing to do this lowly job that ordinary escort lieutenants despise, there must be some unspeakable difficulties. Send someone to check it out."
-Story-part38_name,One Day Bodyguard
-Story-part38_log,Han Hongyu is wanted by Prince Chai and has no choice but to do the lowly job of a one-day bodyguard.
-Story-part38_2_1,One day bodyguard... safe to home...
-Story-part38_2_2,"This should be the place where Han Hongyu takes on the job of a one-day bodyguard, strange, why is there no one here?"
-Story-part38_2_3,"Is this gentleman here to win big money and ask Miss Hong for a ""safe return home""?"
-Story-part38_2_4,"(Miss Hong? Yes, since she's wanted by King Chai, she must have changed her name in her daily life)"
+Story-part37_2_4,This brother Liao is a good man from the rivers and lakes who recently joined me. What do you think of his talent and roots?,เจ้าหนุ่มเหลียวผู้นี้ เป็นจอมยุทธ์พเนจรที่เพิ่งมาสวามิภักดิ์ต่อข้า ไม่ทราบว่าในสายตาของท่าน มองว่าพรสวรรค์และพื้นฐานของเขาเป็นเช่นไรบ้าง?
+Story-part37_2_5,"Brother Liao has a restrained spirit and an elegant posture, he must be a good seedling for practicing swordsmanship.",พี่ชายเหลียวผู้นี้เก็บซ่อนพลังปราณไว้ภายใน รูปร่างว่องไวปราดเปรียว เห็นได้ชัดว่าเป็นผู้มีแววในการฝึกวิชากระบี่
+Story-part37_2_6,Headmaster {PlayerSurName} really has a good eye!,ท่านเจ้าสำนัก{PlayerSurName}ช่างมีสายตาเฉียบคมนัก!
+Story-part37_2_7,"{MyFaction} has been working for me recently and has been very diligent. Naturally, I can't just sit back and enjoy the benefits, so I want to let this talented Brother Liao join your sect to help Headmaster {PlayerSurName}.",ระยะหลังมานี้ คนของ{MyFaction}ปฏิบัติภารกิจให้ข้าอย่างขยันขันแข็ง ข้าจึงไม่อาจนิ่งดูดาย จึงอยากจะให้เจ้าหนุ่มเหลียวผู้นี้ ซึ่งมีพรสวรรค์โดดเด่น เข้าร่วมสำนักของท่าน เพื่อช่วยท่านเจ้าสำนัก{PlayerSurName}แบ่งเบาภาระ
+Story-part37_2_8,"(Is Prince Chai's behavior to provide talent for our sect, or to plant a nail in our sect, should I agree?)",(เจตนาของอ๋องไฉในครั้งนี้ ยากจะหยั่งถึง ว่าเป็นการหยิบยื่นยอดฝีมือให้เรา หรือเป็นการปักหนามยอกอกกันแน่? เราควรตัดสินใจเช่นไร?)
+Story-part37_op_1_1,Refuse,ปฏิเสธ
+Story-part37_op_1_2,Agree,ยอมรับ
+Story-part37_3_1,"I appreciate your kindness, {PlayerSurName}, but our sect has too many rules, I'm afraid Brother Liao may not be able to adapt, please take back your order.",น้ำใจของท่านอ๋อง {PlayerSurName}ผู้น้อยซาบซึ้งยิ่งนัก แต่กฎระเบียบของสำนักเรามีมากมาย เกรงว่าพี่ชายเหลียวจะปรับตัวไม่ได้ ขอท่านอ๋องโปรดทบทวนพระบัญชาด้วยเถิด
+Story-part37_3_2,Hmph...,ฮึ่ม...
+Story-part37_3_3,"Yuelong, you are so confident, but Headmaster {PlayerSurName} doesn't even look at you.",เหลียวเยว่หลง เจ้าช่างมั่นใจในฝีมือตัวเองยิ่ง แต่ท่านเจ้าสำนัก{PlayerSurName}กลับไม่เห็นค่าเจ้าเลยด้วยซ้ำ
+Story-part37_3_4,"Forget it, I won't force anyone, I'll take my leave.",ช่างเถิด ช่างเถิด ข้าก็ไม่อยากบังคับใจใคร ขอตัวลาแต่เพียงเท่านี้
+Story-part37_4_1,"Since Your Highness is willing to let Brother Liao join our sect, {PlayerSurName} I dare not refuse.",ในเมื่อท่านอ๋องทรงเมตตาให้พี่ชายเหลียวผู้มีพรสวรรค์เช่นนี้เข้าร่วมสำนักของเรา {PlayerSurName}ผู้น้อยย่อมมิกล้าปฏิเสธ
+Story-part37_4_2,"Yuelong, did you hear that? Hurry up and pay your respects to the headmaster!",เยว่หลง ได้ยินหรือไม่ รีบเข้าคารวะท่านเจ้าสำนักเร็วเข้า!
+Story-part37_4_3,I dare to ask Headmaster {PlayerSurName} to promise me one thing first!,ข้าผู้น้อยขอเสียมารยาท ท่านเจ้าสำนัก{PlayerSurName}โปรดรับปากข้าสักเรื่องก่อน!
+Story-part37_4_4,"No problem, take your time.",ไม่ต้องเกรงใจ จงกล่าวมาตามตรง
+Story-part37_4_5,"When I was young, my family was suddenly robbed, and the real culprit has not been found... As long as Headmaster {PlayerSurName} promises to help find the real culprit in the future, I will be at your disposal without any complaints!",เมื่อข้ายังเยาว์วัย ครอบครัวต้องประสบเคราะห์ร้ายอย่างกะทันหัน และผู้กระทำผิดยังคงลอยนวล... ตราบใดที่ท่านเจ้าสำนัก{PlayerSurName}รับปากว่าจะช่วยตามหาคนร้ายในภายภาคหน้า ข้าก็จะยอมรับใช้ท่านทุกประการ โดยไม่มีข้อแม้ใดๆ!
+Story-part37_4_6,"Such a matter of loyalty and filial piety, I will definitely take it upon myself.",เรื่องความกตัญญูเช่นนี้ ข้าย่อมไม่ปฏิเสธอย่างแน่นอน
+Story-part37_4_7,Liao Yuelong pays respects to the headmaster!,เหลียวเย่วหลง ขอคารวะท่านเจ้าสำนัก!
+Story-part37_4_8,"Good! Bring the wine, I want to celebrate for you.",ดี! เอาสุรามา ข้าจะจัดงานเลี้ยงฉลองให้พวกเจ้าอย่างเต็มที่
+Story-part37_5_1,"Headmaster, Prince Chai has been waiting for you in the guest hall all the time, and finally left with a pale face.",ท่านเจ้าสำนัก ท่านอ๋องไฉรอท่านอยู่ในห้องรับรองเป็นเวลานาน เมื่อไม่เห็นท่านมาสักที ก็มีสีหน้าขุ่นเคืองและนำคนผู้นั้นจากไปแล้ว
+Story-part37_5_2,Ah... How could I forget about this? This will surely offend King Chai.,เฮ้อ... ข้าลืมเรื่องนี้ไปได้อย่างไรกัน? เช่นนี้แล้วคงทำให้ท่านอ๋องไฉขุ่นเคืองเป็นแน่
+Story-part38_1_1,"Headmaster, although Tiger Escort has been destroyed, the elite escort Han Hongyu, who was ordered by Prince Chai to be arrested, has not been brought to justice.",ท่านเจ้าสำนัก แม้ว่าสำนักคุ้มภัยพยัคฆาจะล่มสลายไปแล้ว แต่หัวหน้าคุ้มภัยหานหงอวี้ที่ถูกท่านอ๋องไฉออกคำสั่งจับกุม ก็ยังไม่ถูกจับตัวได้เลย
+Story-part38_1_2,"A disciple sent a message saying that Han Hongyu is now poor and down, and is actually doing a day's bodyguard work outside the casino in that small town.",มีศิษย์ส่งข่าวมาว่า หานหงอวี้ตอนนี้ตกอับถึงขีดสุด ถึงกับไปรับจ้างเป็นผู้คุ้มกันรายวันอยู่หน้าบ่อนพนันในเมืองเล็กๆ แห่งนั้น
+Story-part38_1_3,What is a day's bodyguard?,อะไรคือ ผู้คุ้มกันรายวัน?
+Story-part38_1_4,"It is to put up a sign outside the casino saying ""One day's bodyguard, safe to home"", specifically serving those who win money in the casino and show off, sending them home safely.","ก็คือการตั้งป้ายผ้าเขียนว่า ""ผู้คุ้มกันรายวัน ปลอดภัยถึงบ้าน"" ไว้หน้าบ่อนพนัน คอยรับจ้างคุ้มครองพวกที่ชนะพนันแล้วทำตัวอวดร่ำอวดรวย ส่งพวกนั้นกลับบ้านอย่างปลอดภัย"
+Story-part38_1_5,"Since she is willing to do this lowly job that ordinary escort lieutenants despise, there must be some unspeakable difficulties. Send someone to check it out.",ในเมื่อนางยอมทำอาชีพต่ำต้อยที่ผู้คุ้มกันทั่วไปรังเกียจเช่นนี้ คงต้องมีเหตุผลที่พูดไม่ได้แน่ ส่งคนไปดูหน่อยเถิด
+Story-part38_name,One Day Bodyguard,ผู้คุ้มกันรายวัน
+Story-part38_log,Han Hongyu is wanted by Prince Chai and has no choice but to do the lowly job of a one-day bodyguard.,หานหงอวี้ถูกอ๋องไฉหมายหัว จึงจำใจต้องทำอาชีพต่ำต้อยอย่างผู้คุ้มกันรายวัน
+Story-part38_2_1,One day bodyguard... safe to home...,ผู้คุ้มกันรายวัน...ปลอดภัยถึงบ้าน...
+Story-part38_2_2,"This should be the place where Han Hongyu takes on the job of a one-day bodyguard, strange, why is there no one here?",ที่นี่คงจะเป็นที่ที่หานหงอวี้รับจ้างเป็นผู้คุ้มกันรายวันแล้วสินะ แปลกจริง เหตุใดจึงไร้ร่องรอยผู้คน?
+Story-part38_2_3,"Is this gentleman here to win big money and ask Miss Hong for a ""safe return home""?","ท่านจอมยุทธ์ผู้นี้คงชนะเงินก้อนโตสินะ ถึงได้มาตามหาแม่นางหง ให้""คุ้มภัยถึงบ้าน""?"
+Story-part38_2_4,"(Miss Hong? Yes, since she's wanted by King Chai, she must have changed her name in her daily life)",(แม่นางหง? จริงสิ ในเมื่อถูกอ๋องไฉหมายหัว คงต้องเปลี่ยนชื่อแซ่ปลอมไว้ใช้ในชีวิตประจำวัน)
 Story-part38_2_5,"Excuse me, young man, why isn't Miss Hong here? I'm in a hurry to go home, afraid of being robbed by villains."
 Story-part38_2_6,"You're a step too late. Miss Hong was just invited away. The Master who invited her looks strong, but he asked a weak woman to escort him. It's really strange."
 Story-part38_2_7,(Something is wrong. Could someone have recognized her identity and is planning to trap her and present her to King Chai? Should I follow and get involved...)
