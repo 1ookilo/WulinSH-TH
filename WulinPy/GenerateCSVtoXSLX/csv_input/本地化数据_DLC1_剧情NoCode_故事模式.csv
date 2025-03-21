@@ -2642,53 +2642,53 @@ Story-part35_4_11,"Thank you, {{PlayerSurName}} sect leader, for your generosity
 Story-part35_4_12,"This is the famous internal skill that I rely on to make a name for myself in the martial arts world. Since I have joined the sect, I dare not hide it, I hope the sect leader will accept it."
 Story-part35_5_1,"The sect leader has been waiting for Ding Fengbo for two months, but there has been no movement. Could it be because our sect's defense is tight and he can't find a chance to strike?"
 Story-part35_5_2,"Forget it, let's not worry about him, I still have a lot of things to do."
-Story-part36_1_1,"Sect leader, a man claiming to be the clerk of King Chai is visiting."
-Story-part36_1_2,"Could it be that King Chai has something else for our sect to do? Let him wait, the sect leader will see him later."
-Story-part36_name,The cat changes the prince
-Story-part36_log,"The clerk of King Chai suddenly visited, seemingly with important matters to entrust."
-Story-part36_2_1,The sect leader is busy with affairs and has lost the courtesy of greeting. I wonder what the clerk is here for?
-Story-part36_2_2,"King Chai had previously heard that Duke Qi, who was guarding Daliang, was colluding with foreigners and conspiring with the Yan people, so he sent me to search for evidence."
-Story-part36_2_3,"After many days of hard work, I finally succeeded in my mission and found ironclad evidence that could ruin Duke Qi's reputation. However, I was assassinated by the Black Clothes Society on my way back and narrowly escaped death."
-Story-part36_2_4,"I hope that {{PlayerSurName}} the sect leader can lend a helping hand, and King Chai will surely be grateful!"
-Story-part36_2_5,"Oh? How do you hope I, the sect leader, can assist you?"
-Story-part36_2_6,"I have a plan. Please, {PlayerSurName} leader, send someone to ride the horse carriage I brought and run away first. I will follow later with the ironclad evidence against Duke Qi."
-Story-part36_2_7,"The assassins from the Xuan Yi Society only recognize the style of the horse carriage. They will never expect that the ones waiting for them in the carriage are the experts from your sect. In this way, I can escape in the chaos."
-Story-part36_2_8,"What a clever plan! Since the evidence is crucial to King Chai, I, as the leader, will personally take the risk."
-Story-part36_2_9,"You disguise yourself as a clerk and ride the horse carriage from Duke Chai's Tower, pretending to run away.\nThe first ten miles are unusually calm, making you doubt the truth of the clerk's words.\nBut when you reach twenty miles, you suddenly hear a scream from the coachman."
-Story-part36_2_10,"Hand over the things you got in Daliang City, and I will spare your life. Otherwise, I will make sure you can't live or die!"
-Story-part36_2_11,What if the things are not with me?
-Story-part36_2_12,"Don't worry, if you die by the hand of the leader of the Xuan Yi Society, you won't feel a thing!"
-Story-part36_3_1,"Wait, you're not the clerk, you're the leader of {MyFaction}'s {PlayerSurName}!"
-Story-part36_3_2,You're indeed the leader of the Xuan Yi Society. I'm no match for you. Take advantage of her surprise and run away...
-Story-part36_4_1,"Wait, you're not the clerk, you're the leader of {MyFaction}'s {PlayerSurName}!"
-Story-part36_4_2,I didn't expect that Yi Zhihua from the prestigious Zhangyue Casino is actually an assassin from the Xuan Yi Society under Duke Qi.
-Story-part36_4_3,I have no grudges with you in the past or present. We are just serving our masters. You can go.
-Story-part36_4_4,Go? Where do you think I can go...
-Story-part36_4_5,"Duke Qi is outwardly gentle but inwardly harsh. If I don't complete the mission and retrieve the evidence, I will surely die when I return. I'd rather you kill me quickly. At least I can give Duke Qi an explanation..."
-Story-part36_4_6,It would be a pity if someone as talented as Sister Hua were to die. How about staying in our sect?
-Story-part36_4_7,Stay in your sect? You must be joking!
-Story-part36_4_8,"Although I can't betray King Chai and help you retrieve the evidence, I can certainly protect and shelter you. Think about it."
+Story-part36_1_1,"Sect leader, a man claiming to be the clerk of King Chai is visiting.",ท่านเจ้าสำนักขอรับ มีผู้หนึ่งอ้างตนว่าเป็นเสมียนของท่านอ๋องไฉ มาขอเข้าพบขอรับ
+Story-part36_1_2,"Could it be that King Chai has something else for our sect to do? Let him wait, the sect leader will see him later.",หรือว่าท่านอ๋องไฉ่จะมีเรื่องอันใดให้สำนักเรากระทำอีก? เจ้าจงบอกเขาให้รอสักครู่ ข้าจะไปพบเขาเอง
+Story-part36_name,The cat changes the prince,อุบายสับเปลี่ยนสายเลือดมังกร
+Story-part36_log,"The clerk of King Chai suddenly visited, seemingly with important matters to entrust.",เสมียนของท่านอ๋องไฉ่มาเยือนโดยกะทันหัน ดูท่าจะมีเรื่องสำคัญมาแจ้ง
+Story-part36_2_1,The sect leader is busy with affairs and has lost the courtesy of greeting. I wonder what the clerk is here for?,กระข้ามีกิจธุระรัดตัว มิได้ออกไปต้อนรับท่านแต่เนิ่นๆ ไม่ทราบว่าท่านเสมียนมาเยือนในครั้งนี้มีธุระอันใด?
+Story-part36_2_2,"King Chai had previously heard that Duke Qi, who was guarding Daliang, was colluding with foreigners and conspiring with the Yan people, so he sent me to search for evidence.",ท่านอ๋องไฉได้ล่วงรู้ว่าท่านอ๋องฉี ผู้ปกครองเมืองต้าเหลียง สุมหัวกับชาวเยี่ยน จึงบัญชาให้ข้ามาเสาะหาหลักฐาน
+Story-part36_2_3,"After many days of hard work, I finally succeeded in my mission and found ironclad evidence that could ruin Duke Qi's reputation. However, I was assassinated by the Black Clothes Society on my way back and narrowly escaped death.",ข้าตรากตรำมาหลายราตรี ในที่สุดก็มิทำให้ท่านอ๋องผิดหวัง ได้หลักฐานอันจะทำให้อ๋องฉีเสื่อมเสียชื่อเสียง แต่ทว่าระหว่างเดินทางกลับ ถูกกลุ่มนักฆ่าของกลุ่มเสื้อคลุมดำลอบสังหาร เกือบเอาชีวิตไม่รอด
+Story-part36_2_4,"I hope that {{PlayerSurName}} the sect leader can lend a helping hand, and King Chai will surely be grateful!",ข้าหวังว่าท่านเจ้าสำนัก{PlayerSurName} จะช่วยให้ความช่วยเหลือสักครั้ง ท่านอ๋องไฉจะต้องขอบคุณเป็นแน่!
+Story-part36_2_5,"Oh? How do you hope I, the sect leader, can assist you?",โอ้? ท่านต้องการให้ข้าช่วยอย่างไรหรือ?
+Story-part36_2_6,"I have a plan. Please, {PlayerSurName} leader, send someone to ride the horse carriage I brought and run away first. I will follow later with the ironclad evidence against Duke Qi.",ข้ามีแผนการ ขอท่านเจ้าสำนัก{PlayerSurName} โปรดส่งคนขึ้นรถม้าที่ข้าใช้เดินทางมาออกไปก่อน ส่วนข้าจะนำหลักฐานสำคัญของท่านอ๋องฉีตามไปภายหลัง
+Story-part36_2_7,"The assassins from the Xuan Yi Society only recognize the style of the horse carriage. They will never expect that the ones waiting for them in the carriage are the experts from your sect. In this way, I can escape in the chaos.",พวกนักฆ่าของกลุ่มเสื้อคลุมดำ จดจำเพียงรูปลักษณ์รถม้า เมื่อมาสังหารย่อมไม่คิดว่าในรถที่พวกมันพบจะเป็นยอดฝีมือของสำนักท่าน ในระหว่างที่พวกมันปะทะกัน ข้าก็จะสามารถหลบหนีไปได้
+Story-part36_2_8,"What a clever plan! Since the evidence is crucial to King Chai, I, as the leader, will personally take the risk.",ช่างเป็นอุบายสับเปลี่ยนสายเลือดมังกรที่แยบยลยิ่งนัก ในเมื่อหลักฐานนั้นสำคัญต่อท่านอ๋องไฉเพียงนี้ ข้าจะไปเอง
+Story-part36_2_9,"You disguise yourself as a clerk and ride the horse carriage from Duke Chai's Tower, pretending to run away.\nThe first ten miles are unusually calm, making you doubt the truth of the clerk's words.\nBut when you reach twenty miles, you suddenly hear a scream from the coachman.","ท่านแปลงโฉมเป็นเสมียน นั่งรถม้าของตำหนักท่านอ๋องไฉ่แสร้งทำทีจากไป\nสิบหลี่แรกสงบเงียบจนน่าประหลาดใจ ทำให้ท่านอดเคลือบแคลงสงสัยในคำกล่าวของเสมียนผู้นั้นมิได้\nแต่เมื่อเดินทางถึงยี่สิบหลี่ ท่านพลันได้ยินเสียงร้องโหยหวนของสารถี"
+Story-part36_2_10,"Hand over the things you got in Daliang City, and I will spare your life. Otherwise, I will make sure you can't live or die!",ส่งมอบสิ่งที่เจ้าได้มาจากเมืองต้าเหลียงมาซะ หากยอมทำตาม เราจะไว้ชีวิตเจ้า แต่หากขัดขืน เจ้าจะต้องเจ็บปวดจนปรารถนาความตายยิ่งกว่าชีวิต!
+Story-part36_2_11,What if the things are not with me?,หากสิ่งของนั้นมิได้อยู่กับข้าเล่า?
+Story-part36_2_12,"Don't worry, if you die by the hand of the leader of the Xuan Yi Society, you won't feel a thing!",วางใจเถิด หากเจ้าต้องตายด้วยมือของหัวหน้ากลุ่มเสื้อคลุมดำ รับรองได้ว่าเจ้าจะจากไปโดยปราศจากความเจ็บปวดใดๆ!
+Story-part36_3_1,"Wait, you're not the clerk, you're the leader of {MyFaction}'s {PlayerSurName}!",เดี๋ยวก่อนนะ? ท่านมิใช่เสมียนผู้นั้นนี่ ท่านคือ... เจ้าสำนัก{PlayerSurName} แห่งสำนัก{MyFaction}!
+Story-part36_3_2,You're indeed the leader of the Xuan Yi Society. I'm no match for you. Take advantage of her surprise and run away...,สมกับที่เป็นหัวหน้ากลุ่มเสื้อคลุมดำ ฝีมือข้าต่ำต้อยกว่านัก ในเมื่อนางเผลอ รีบถอยหนีดีกว่า...
+Story-part36_4_1,"Wait, you're not the clerk, you're the leader of {MyFaction}'s {PlayerSurName}!",เดี๋ยวก่อนนะ? ท่านมิใช่เสมียนผู้นั้นนี่ ท่านคือ... เจ้าสำนัก{PlayerSurName} แห่งสำนัก{MyFaction}!
+Story-part36_4_2,I didn't expect that Yi Zhihua from the prestigious Zhangyue Casino is actually an assassin from the Xuan Yi Society under Duke Qi.,คาดไม่ถึงว่าสาวงามจากบ่อนจางเยว่ จะเป็นมือสังหารแห่งกลุ่มเสื้อคลุมดำของอ๋องฉี
+Story-part36_4_3,I have no grudges with you in the past or present. We are just serving our masters. You can go.,ข้ามิได้มีเรื่องบาดหมางกับพวกเจ้าแต่เก่าก่อน และมิได้มีเรื่องขัดแย้งกันในคราวนี้ เราเพียงแต่ต่างทำหน้าที่ของตนเท่านั้น เจ้าจงไปเสียเถิด
+Story-part36_4_4,Go? Where do you think I can go...,ไป? ท่านคิดว่าข้าจะไปไหนได้อีก...
+Story-part36_4_5,"Duke Qi is outwardly gentle but inwardly harsh. If I don't complete the mission and retrieve the evidence, I will surely die when I return. I'd rather you kill me quickly. At least I can give Duke Qi an explanation...",ท่านอ๋องฉีภายนอกดูอ่อนโยน แต่ภายในกลับโหดเหี้ยม หากข้ามิสามารถทำภารกิจนำหลักฐานเหล่านั้นกลับไปได้ กลับไปก็มีแต่ตายอย่างแน่นอน สู้ท่านโปรดสังหารให้ข้าตายอย่างรวดเร็วจะดีกว่า หากข้าสิ้นชีพ อย่างน้อยก็ยังเป็นการตอบแทนท่านอ๋องฉีได้...
+Story-part36_4_6,It would be a pity if someone as talented as Sister Hua were to die. How about staying in our sect?,ยอดฝีมือเช่นแม่นางฮวา หากปล่อยให้ลาโลกไปอย่างไร้ค่า ช่างน่าเสียดายยิ่งนัก ในเมื่อเป็นเช่นนี้ สนใจจะอยู่กับสำนักเราหรือไม่?
+Story-part36_4_7,Stay in your sect? You must be joking!,ให้อยู่กับสำนักพวกท่าน? อย่าได้ล้อเล่นเหลวไหล!
+Story-part36_4_8,"Although I can't betray King Chai and help you retrieve the evidence, I can certainly protect and shelter you. Think about it.",ถึงแม้ข้าจะมิอาจทรยศท่านอ๋องไฉ ช่วยท่านนำหลักฐานกลับมาได้ แต่การคุ้มครองและปกป้องท่านนั้น ย่อมเป็นเรื่องที่ข้าสามารถทำได้ ท่านจงคิดให้รอบคอบเถิด
 Story-part36_4_9,……,……
-Story-part36_4_10,What you said is indeed a way out...
-Story-part36_4_11,"But I, Sister Hua, always trust fate, not people. Let's do this, I'll roll two dice. Two to six is small, seven to twelve is big. If you can guess right, I'll agree to stay in your sect. Otherwise, I'm afraid I can't comply."
-Story-part36_4_12,"Come on, take a guess and see what my fate is."
-Story-part36_4_13,"(Just now, I was fully focused on auditory sight. It should be the one and five sides of the dice that landed. Is it big or small? Let me think...)"
-Story-part36_op_1_1,Small
-Story-part36_op_1_2,Big
-Story-part36_5_1,"I'm tired of calculating, I guess it's small!"
-Story-part36_5_2,Six and two make eight... It seems that I am destined not to stay in your sect. Goodbye...
-Story-part36_6_1,"(The sum of the opposite sides of the dice is seven. Since I heard that the one and five sides landed, the numbers rolled must be six and two, which add up to eight. It's big!)"
-Story-part36_6_2,I guess it's big!
-Story-part36_6_3,"Six and two make eight... If this is the will of heaven, then I ask {PlayerSurName} leader to take good care of me."
-Story-part36_6_4,This Killer's Secret Manual is useless to me. I'll give it to your sect as a gift.
-Story-part36_7_1,"Leader, the clerk from King Chai has been waiting for you for a long time. He had no choice but to ride the horse carriage and leave. He was assassinated by the Xuan Yi Society not far from our sect."
-Story-part36_7_2,Ah... How could I forget about this? This will surely offend King Chai.
-Story-part37_1_1,"Headmaster, Prince Chai has suddenly arrived with a young swordsman!"
-Story-part37_1_2,"This is really not a good time... You go and entertain them first, and I will come as soon as I finish my work."
-Story-part37_name,Young Swordsman
-Story-part37_log,"Prince Chai has suddenly arrived with a young swordsman, I wonder what his intentions are."
-Story-part37_2_1,{PlayerSurName} I pay my respects to Prince Chai.
-Story-part37_2_2,I came here this time to introduce a young swordsman to Headmaster {PlayerSurName}.
+Story-part36_4_10,What you said is indeed a way out...,สิ่งที่ท่านกล่าวมานั้น นับว่าเป็นทางรอดทางหนึ่ง...
+Story-part36_4_11,"But I, Sister Hua, always trust fate, not people. Let's do this, I'll roll two dice. Two to six is small, seven to twelve is big. If you can guess right, I'll agree to stay in your sect. Otherwise, I'm afraid I can't comply.",แต่ข้าแม่นางฮวาเชื่อในโชคชะตามากกว่าเชื่อในผู้คน เอาอย่างนี้ก็แล้วกัน ข้าจะทอยลูกเต๋าสองลูกที่พกติดตัวไว้ หากแต้มรวมสองถึงหกเป็นแต้มต่ำ หากแต้มรวมเจ็ดถึงสิบสองเป็นแต้มสูง หากท่านทายถูก ข้าจะยอมอยู่ที่สำนักของท่าน แต่หากทายผิด คงต้องขออภัยที่มิอาจทำตามได้
+Story-part36_4_12,"Come on, take a guess and see what my fate is.",มา มาลองทายกันดู ว่าชะตาชีวิตของข้าจะเป็นเช่นไร?
+Story-part36_4_13,"(Just now, I was fully focused on auditory sight. It should be the one and five sides of the dice that landed. Is it big or small? Let me think...)",(เมื่อครู่ข้าตั้งใจฟังเสียงและตำแหน่งอย่างแน่วแน่ น่าจะเป็นลูกเต๋าแต้มหนึ่งและห้าที่ตกลงพื้น ตกลงว่าจะเป็นแต้มสูงหรือแต้มต่ำกันแน่ ข้าขอคิดให้ดีก่อน...)
+Story-part36_op_1_1,Small,แต้มต่ำ
+Story-part36_op_1_2,Big,แต้มสูง
+Story-part36_5_1,"I'm tired of calculating, I guess it's small!",คิดแล้วคิดอีกจนปวดกบาลไปหมด ข้าทายว่าแต้มต่ำ!
+Story-part36_5_2,Six and two make eight... It seems that I am destined not to stay in your sect. Goodbye...,หกบวกสองเป็นแปด... ดูท่าว่าข้าคงไม่มีวาสนาที่จะอยู่กับสำนักของท่านเสียแล้ว ขอลา...
+Story-part36_6_1,"(The sum of the opposite sides of the dice is seven. Since I heard that the one and five sides landed, the numbers rolled must be six and two, which add up to eight. It's big!)",(ผลรวมของหน้าลูกเต๋าที่อยู่ตรงข้ามกันคือเจ็ด เมื่อข้าได้ยินเสียงลูกเต๋าแต้มหนึ่งและห้าตกลงพื้น แน่นอนว่าต้องเป็นหกกับสอง รวมกันเป็นแปด ซึ่งเป็นแต้มสูง!)
+Story-part36_6_2,I guess it's big!,ข้าขอทายว่าแต้มสูง!
+Story-part36_6_3,"Six and two make eight... If this is the will of heaven, then I ask {PlayerSurName} leader to take good care of me.",หกบวกสองเป็นแปด... ในเมื่อเป็นลิขิตฟ้าเช่นนี้ ก็ขอรบกวนท่านเจ้าสำนัก{PlayerSurName} โปรดดูแลข้าด้วย
+Story-part36_6_4,This Killer's Secret Manual is useless to me. I'll give it to your sect as a gift.,คัมภีร์ลับเคล็ดวิชาลอบสังหารจิ๋นเล่มนี้ ข้าเก็บไว้ก็ไร้ประโยชน์อันใด ขอมอบให้สำนักของท่านเป็นของกำนัลแรกพบก็แล้วกัน
+Story-part36_7_1,"Leader, the clerk from King Chai has been waiting for you for a long time. He had no choice but to ride the horse carriage and leave. He was assassinated by the Xuan Yi Society not far from our sect.",ท่านเจ้าสำนักขอรับ เสมียนของอ๋องไฉ่รอท่านจนนานเกินรอ จึงจำใจขึ้นรถม้าจากไป แต่แล้วกลับถูกกลุ่มนักฆ่าเสื้อคลุมดำดักสังหารใกล้กับสำนักของเรา
+Story-part36_7_2,Ah... How could I forget about this? This will surely offend King Chai.,เฮ้อ... ข้าลืมเรื่องนี้ไปได้อย่างไรกัน? เช่นนี้แล้วคงทำให้ท่านอ๋องไฉขุ่นเคืองเป็นแน่
+Story-part37_1_1,"Headmaster, Prince Chai has suddenly arrived with a young swordsman!",ท่านเจ้าสำนักขอรับ ท่านอ๋องไฉนำมือกระบี่หนุ่มมาเยือนโดยมิได้บอกกล่าวขอรับ!
+Story-part37_1_2,"This is really not a good time... You go and entertain them first, and I will come as soon as I finish my work.",มาผิดเวลาเสียจริง... เจ้าจงไปต้อนรับเขาพลางๆก่อน เดี๋ยวข้าสะสางงานในมือเสร็จแล้วจะตามไป
+Story-part37_name,Young Swordsman,มือกระบี่หนุ่ม
+Story-part37_log,"Prince Chai has suddenly arrived with a young swordsman, I wonder what his intentions are.",ท่านอ๋องไฉนำมือกระบี่หนุ่มมาเยือนโดยมิได้แจ้งกล่าว มิรู้ว่ามีเจตนาอันใดซ่อนเร้น
+Story-part37_2_1,{PlayerSurName} I pay my respects to Prince Chai.,ข้าน้อย{PlayerSurName}ขอคารวะท่านอ๋องไฉ
+Story-part37_2_2,I came here this time to introduce a young swordsman to Headmaster {PlayerSurName}.,การมาของข้าในคราวนี้ เพื่อแนะนำมือกระบี่หนุ่มน้อยให้ท่านเจ้าสำนัก{PlayerSurName}ได้รู้จัก
 Story-part37_2_3,"I am Liao Yuelong, please give me your guidance!",ข้าคือเหลียวเย่วหลง ขอคารวะ!
 Story-part37_2_4,This brother Liao is a good man from the rivers and lakes who recently joined me. What do you think of his talent and roots?
 Story-part37_2_5,"Brother Liao has a restrained spirit and an elegant posture, he must be a good seedling for practicing swordsmanship."
