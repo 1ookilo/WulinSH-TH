@@ -192,12 +192,12 @@
 10018_9_2,……,……
 1002_1_1,"Finally, I've saved up <color=#c44b0e>1000 wen</color>! I never thought I had a talent for making money. I should hurry to the inn and redeem my belongings from the landlady.",ในที่สุดก็เก็บเงินได้ <color=#c44b0e>1000 อีแปะ</color>! ไม่เคยคิดเลยแฮะว่าเราจะมีพรสวรรค์ในการหาเงินแบบนี้ รีบไปโรงเตี๊ยมแล้วขอของคืนจากเถ้าแก่เนี้ยดีกว่า
 1002_10_1,Have you saved up 1000 wen yet? Don't even think about freeloading here until you've paid off your debt!,เจ้าเก็บเงินได้ครบ 1000 อีแปะรึยังน่ะ จนกว่าจะจ่ายหนี้มาอย่าคิดจะมาเตร็ดเตร่ที่นี่เชียว!
-1002_10_2,"Hehe, landlady, you should count it carefully.",ฮิฮิ นายหญิง ท่านควรนับดีๆนะ
+1002_10_2,"Hehe, landlady, you should count it carefully.",ฮิฮิ เถ้าแก่เนี้ย ท่านควรนับดีๆนะ
 1002_10_3,(Throws out a money bag containing 1000 wen),(โยนกระเป๋าที่ใส่เงิน 1000 อีแปะ)
 1002_10_4,You're quite something. I didn't expect you to save up 1000 wen in such a short time. Im impressed!,ไม่เลวนี่ ไม่นึกว่าเจ้าจะหาเงิน 1000 อีแปะได้เร็วเช่นนี้ ทำให้ข้าประหลาดใจนัก!
 1002_10_5,"Hmph, back then, you didn't pay me any attention. You won't be able to keep up with me in the future. Now, return my belongings. I'm in a hurry to get to Lin'an region.",ฮึ่ม ก่อนหน้าท่านเคยเมินข้า แต่ตอนนี้คงทำไม่ได้แล้วล่ะสิ รีบคืนของข้ามาเสีย ข้ายังต้องเดินทางไปหลินอันต่อ
 1002_10_6,"Alright, alright, I'll return it back to you right away.",เอาล่ะ เอาล่ะ ข้าจะไปเอากลับมาให้เจ้า
-1002_11_1,{yell}Landlady!,{yell}นายหญิง!
+1002_11_1,{yell}Landlady!,{yell}เถ้าแก่เนี้ย!
 1002_11_10,(What should I do? This creepy man is bullying the landlady.),(ข้าควรทำยังไงดี? หมูโสโครกคนนี้กำลังรังแกเถ้าแก่เนี้ย)
 1002_11_2,"What a disaster, what is this guy up to?",หายนะชัดๆ ชายคนนี้ต้องการอะไร?
 1002_11_3,"Landlady, a few days ago, my brothers and I had food poisoning from your inn, and at that time, we agreed on compensation with ten jars of fine wine. However, we discovered that it was watered down, which spoiled the mood for our group. What do you think should be done about this situation?","เถ้าแก่เนี้ย, ไม่กี่วันก่อน ข้าและพี่น้องอาหารเป็นพิษเพราะโรงเตี๊ยมของเจ้า เราตกลงกันว่าต้องการค่าชดใช้เป็นสุราชั้นเยี่ยมสักสิบไห แต่เมื่อกี้เราชิมแล้วเหมือนผสมน้ำเปล่าไว้ ทำให้เราเสียอารมณ์ยิ่งนัก ท่านคิดว่าพวกเราควรจะทำยังไงดี?"
@@ -207,7 +207,7 @@
 1002_11_7,"Give me ten taels of silver, and we'll call it even. I promise I won't bother you about this again.",มอบเศษเงินให้ข้ามาสิบชิ้น แล้วข้าจะถือว่าหายกัน ข้าสัญญาจะไม่มารบกวนด้วยเรื่องนี้อีก
 1002_11_8,"Ten taels of silver, that's 10,000 wen! My small inn doesn't have that much spare money.",เศษเงินสิบชิ้น นั่น 10000 อีแปะเชียว! โรงเตี๊ยมเล็กๆของข้าไม่มีเงินมากขนาดนั้นหรอก
 1002_11_9,"(This sleazy guy's scamming tactics are truly crude. How come the landlady, who is usually so fierce and domineering, acting like a little lamb today?)",(กลยุทธ์การหลอกลวงของผู้ชายจอมสกปรกคนนี้หยาบคายมาก ทำไมวันนี้เถ้าแก่เนี้ยซึ่งมักจะดุร้ายและกดขี่ ถึงทำตัวเหมือนลูกแกะเยี่ยงนี้?)
-1002_12_1,"Landlady, it seems you're not willing to give the money voluntarily. I guess I'll have to put in some effort and find it myself.",นายหญิง ดูเหมือนท่านจะไม่อยากมอบเงินให้ดีๆสินะ ท่าทางข้าคงต้องออกแรงหามันด้วยตัวเองแล้วล่ะ
+1002_12_1,"Landlady, it seems you're not willing to give the money voluntarily. I guess I'll have to put in some effort and find it myself.",เถ้าแก่เนี้ย ดูเหมือนท่านจะไม่อยากมอบเงินให้ดีๆสินะ ท่าทางข้าคงต้องออกแรงหามันด้วยตัวเองแล้วล่ะ
 1002_12_10,What a bad luck!,โชคไม่ดีจริงๆ!
 1002_12_11,"Luckily, I paid off my debt in advance. If this guy had robbed me before then, it would have been a real pain.",โชคดีที่ข้าใช้หนี้ไปก่อนหน้าแล้ว ไม่งั้นหากหมอนี่ปล้นข้าก่อนล่ะก็ คงจะแย่ยิ่งนัก
 1002_12_12,"I have some even more distressing news for you. The copper ring you pawned to me was also in that box. It has been taken away as well. Even if I wanted to return it to you now, I'm powerless to do so.",ข้ามีเรื่องที่ต้องบอกเจ้า แหวนทองแดงที่เจ้าจํานํากับข้ามันอยู่ในกล่องนั้นด้วย มันถูกเอาไป ถึงข้าอยากจะคืนให้เจ้าตอนนี้ ข้าก็ทำอะไรไม่ได้
@@ -265,23 +265,23 @@
 1002_7_14,"Forget it, in a while he will be back to the Blue Wind Camp, consider those things as a payment for peace.",ลืมไปเถอะ อีกสักพักเขาจะกลับไปที่ค่ายวายุคราม  ละมองสิ่งเหล่านี้เป็นราคาของสันติภาพ
 1002_7_15,"Our debts are cleared, but I really can't return that copper ring to you.",หนี้ของเราหมดไปแล้ว แต่ข้าไม่สามารถคืนแหวนทองแดงนั้นให้เจ้าได้จริงๆ
 1002_7_16,"My stuff, I'll get it back myself!",ของของข้า ข้าจะนำมันกลับมาเอง
-1002_7_2,"Landlady, it seems you're not willing to give the money voluntarily. I guess I'll have to put in some effort and find it myself.",นายหญิง ดูเหมือนท่านจะไม่อยากมอบเงินให้ดีๆสินะ ท่าทางข้าคงต้องออกแรงหามันด้วยตัวเองแล้วล่ะ
+1002_7_2,"Landlady, it seems you're not willing to give the money voluntarily. I guess I'll have to put in some effort and find it myself.",เถ้าแก่เนี้ย ดูเหมือนท่านจะไม่อยากมอบเงินให้ดีๆสินะ ท่าทางข้าคงต้องออกแรงหามันด้วยตัวเองแล้วล่ะ
 1002_7_3,I knew I'd find it!,ว่าแล้วข้าต้องหาเจอ!
 1002_7_4,This <color=#c44b0e>exquisite jewelry box</color> is mine now!,<color=#c44b0e>กล่องเครื่องประดับอันประณีต</color> นี้เป็นของข้าแล้ว!
 1002_7_5,You can't take that!,เอาไปไม่ได้นะ!
 1002_7_6,Get out of my way! Be careful not to provoke me.,ไสหัวไป! ระวังอย่าทำให้ข้าโมโหล่ะ
 1002_7_7,"There are indeed a lot of good things in this jewelry box. With these things to pay off the debt, it's about enough. In the future, you'd better have a good eye for value and not upset me.",กล่องเครื่องประดับนี้มีของดี อยู่ไม่น้อย เอาของพวกนี่มาใช้หนี้ก็คงจะพอ ต่อไปเจ้าต้องหัดประเมินให้มันดีๆกว่านี้ อย่าให้ข้ามาหงุดหงิดอีก
 1002_7_8,"It's over, all over... All my savings for so many years are gone. What am I going to do?",จบแล้ว จบแล้ว... เงินเก็บที่ข้าสะสมมาหลายปีหมดไปแล้ว ข้าจะทำเยี่ยงไรดี?
-1002_7_9,"Boss lady, money and possessions are external things, don't take it too seriously.",นายหญิง ขอรับ เงินทองทรัพย์สินเป็นเพียงของนอกกาย โปรดอย่าเศร้าเสียใจจนเกินไป
+1002_7_9,"Boss lady, money and possessions are external things, don't take it too seriously.",เถ้าแก่เนี้ย เงินทองทรัพย์สินเป็นเพียงของนอกกาย โปรดอย่าเศร้าเสียใจจนเกินไป
 1002_8_1,"Good job! From today on, you've made an enemy of our Blue Wind Camp, let's see how long you can stay safe here!",ทำดีมาก! ตั้งแต่วันนี้เป็นต้นไป เจ้าได้เป็นศัตรูให้กับค่ายวายุครามของเราแล้ว มาดูกันว่าเจ้าจะมีชีวิตอยู่ได้อีกนานแค่ไหน!
 1002_8_2,"Disaster, disaster! You've caused a huge trouble.",หายนะ หายนะ! เจ้าได้ก่อปัญหาใหญ่ขึ้นมาแล้ว
 1002_8_3,(Takes out a stack of silver notes and an item),(หยิบเหรียญเงินและสิ่งของออกมา)
 1002_8_4,"You've offended the people of Blue Wind Camp, they won't let it go. This matter started because of me, I can't just sit back and do nothing. I'll give you all my savings and the things you pawned to me, you better run away as far as you can.",เจ้าทำให้ผู้คนในค่ายวายุครามขุ่นเคือง พวกมันจะไม่ปล่อยเรื่องนี้ผ่านไปแน่ เรื่องทั้งหมดเริ่มต้นก็เพราะข้า ข้าไม่สามารถนั่งอยู่เฉยได้ เอางี้ข้าจะมอบเงินทั้งหมดและสิ่งที่เจ้าจำนองไว้กับข้าให้เจ้า แล้วเจ้าก็หนีไปจากนี้ให้ไกลที่สุดเท่าที่จะทำได้
 1002_8_5,"They're just local ruffians, nothing to be afraid of, look at this guy, I beat him up with a few punches and kicks.",พวกมันก็แค่อันธพาลทั่วไป ไม่มีอะไรต้องกลัวหรอก ดูหมอนั่นสิ ลงมือนิดหน่อยก็จัดการได้แล้ว
 1002_8_6,"This Blue Wind Camp is made up of more than ten desperadoes, if I had known he was from the Blue Wind Camp, I should have stopped you from fighting. You better leave quickly, or you won't be able to leave later.",ค่ายวายุครามนี้เต็มไปด้วยพวกอันธพาลหลายสิบคน ถ้าข้ารู้มาก่อนว่าเขามาจากค่ายวายุคราม ข้าควรจะห้ามเจ้าจากการต่อสู้นี้ ทางที่ดีเจ้าควรรีบจากไปโดยเร็ว ไม่เช่นนั้นเจ้าจะไม่มีทางได้ออกไปอีก
-1002_8_7,"Boss lady, you're in such a hurry to get me to leave, could it be that you're too lazy to cook and want to save the food you promised me earlier?",นายหญิงท่านรีบร้อนที่จะพาข้าออกไป เป็นไปได้ไหมว่าท่านขี้เกียจทำอาหารและต้องการช่วยฝ่ายที่ท่านสัญญาไว้ก่อนหน้านี้
+1002_8_7,"Boss lady, you're in such a hurry to get me to leave, could it be that you're too lazy to cook and want to save the food you promised me earlier?",เถ้าแก่เนี้ยรีบร้อนที่จะพาข้าออกไป เป็นไปได้ไหมว่าท่านขี้เกียจทำอาหารและต้องการช่วยฝ่ายที่ท่านสัญญาไว้ก่อนหน้านี้
 1002_8_8,"At this point, you're still making fun of me! Fine, let you taste my cooking one more time, you probably won't have the chance in the future.",ณ จุดนี้เจ้ายังล้อเลียนข้าอยู่! เอาล่ะ ข้าจะให้เจ้าได้ชิมอาหารของข้าอีกครั้ง เพราะเจ้าอาจจะไม่มีโอกาสได้ลิ้มลองอีกแล้ว
-1002_9_1,"Landlady, it seems you're not willing to give the money voluntarily. I guess I'll have to put in some effort and find it myself.",นายหญิง ดูเหมือนท่านจะไม่อยากมอบเงินให้ดีๆสินะ ท่าทางข้าคงต้องออกแรงหามันด้วยตัวเองแล้วล่ะ
+1002_9_1,"Landlady, it seems you're not willing to give the money voluntarily. I guess I'll have to put in some effort and find it myself.",เถ้าแก่เนี้ย ดูเหมือนท่านจะไม่อยากมอบเงินให้ดีๆสินะ ท่าทางข้าคงต้องออกแรงหามันด้วยตัวเองแล้วล่ะ
 1002_9_10,You talk too much!,พูดมากไปแล้ว!
 1002_9_11,"Take it, take it all~",เอาไปเลย เอาไปให้หมด~
 1002_9_12,"Hmph, forcing me to get rough",ฮึ่ม ! เจ้าทำให้ข้าต้องหยาบคาย
@@ -299,7 +299,7 @@
 1002_9_9,Why should I!,ทำไมต้องเป็นข้า!
 1003-A_0_1,Finally caught up with this guy within <color=#c44b0e>1 shichen</color>.,ในที่สุดก็ตามหมอนี่ทันใน <color=#c44b0e>1 ชั่วยาม</color>
 1003-A_0_2,"He doesn't seem to be planning to go into the Blue Wind Camp for now, I'll just follow him and see what he's up to.",ดูเหมือนเขายังไม่คิดจะไปยังค่ายวายุคราม ตามไปดูดีกว่าว่ามันตั้งใจจะทำอะไร
-1003-A_1_1,Hey! Hand over the jewelry box you took from the boss lady!,เฮ้! มอบกล่องเครื่องประดับจากนายหญิงของเจ้ามาซะ!
+1003-A_1_1,Hey! Hand over the jewelry box you took from the boss lady!,เฮ้! มอบกล่องเครื่องประดับจากเถ้าแก่เนี้ยของเจ้ามาซะ!
 1003-A_1_2,"Wow, the brat actually followed us here. On the territory of Blue Wind Camp, you dare to be so arrogant, you really don't know the gravity of situation.",เจ้าช่างกล้าเสียจริงที่กล้าตามเข้ามาในอาณาเขตของค่ายวายุคราม เจ้ากล้าที่จะหยิ่งผยองขนาดนี้ คงไม่รู้สูงต่ำฟ้าดินเป็นแน่!
 1003-A_1_3,(Whistled),(ผิวปาก)
 1003-A_1_4,Woof~ Woof woof,โฮ่ง~ โฮ่ง โฮ่ง
@@ -312,7 +312,7 @@
 1003-A_3_5,All kinds of idle talk also sing~,คำพูดไร้สาระทั้งหมดก็มาพร้อมกับการร้องเพลงด้วย~
 1003-A_3_6,"What is this guy hiding? He's nervously talking to himself, I'm too curious, I should go over and see what's going on.",หมอนี่ซ่อนอะไรไว้กันนะ ถึงพูดคนเดียวด้วยท่าทีกังวลแบบนี้ อยากรู้ชะมัด ไปดูดีกว่าว่าเกิดอะไรขึ้น
 1003-A_4_1,"I didn't expect this guy to have a private stash, he thought no one would know, but he ended up benefiting me.",ไม่นึกเลยว่าหมอนี่จะมีที่เก็บของลับซ่อนไว้ด้วย คงไม่คิดว่าจะมีคนรู้ล่ะสิ แต่สุดท้ายก็กลายเป็นประโยชน์ต่อข้า
-1003-A_4_2,"The boss lady's jewelry box is also here, this saves a lot of trouble.",กล่องเครื่องประดับของเจ้านายหญิงก็อยู่ที่นี่เช่นกัน ซึ่งช่วยลดปัญหาได้มาก
+1003-A_4_2,"The boss lady's jewelry box is also here, this saves a lot of trouble.",กล่องเครื่องประดับของเถ้าแก่เนี้ยก็อยู่ที่นี่เช่นกัน ซึ่งช่วยลดปัญหาได้มาก
 1003-A_A_1,"(He stopped under that tree, I don't know what he's going to do, what should I do now?)",(หยุดตรงต้นไม้นั่นเหรอ มันตั้งใจจะทำอะไรน่ะ ทำยังไงดี)
 1003-B_0_1,"It seems that I can't catch up with the guy who took the jewelry box. He probably went into <color=#c44b0e>Blue Wind Camp</color>, going in directly would be seeking death.",ดูเหมือนจะตามคนที่ขโมยกล่องอัญมณีไม่ทันแล้ว มันน่าจะอยู่ข้างใน <color=#c44b0e>ค่ายวายุคราม</color> เข้าไปตรงๆก็เหมือนฆ่าตัวตายเปล่าๆ
 1003-B_0_2,"I wonder if there's a way to sneak into Blue Wind Camp, carefully look for that person's whereabouts, and take advantage of him being alone to get it back.",จะมีทางลอบเข้าไปในค่ายวายุครามมั้ยนะ ค่อยๆหาที่อยู่ของเจ้านั่น แล้วก็ใช้โอกาสที่มันอยู่คนเดียวเอาคืนมา
@@ -707,7 +707,7 @@
 2010_2_1,"What a money-grubber, you missed the chance to taste the deliciousness. If you want to eat this delicacy in the future, it won't be easy to get.",ท่านนี่หน้าเงินเสียจริง เสียโอกาสลิ้มลองรสชาติอันโอชะจานนี้ไปเปล่าๆ คงยากที่จะได้กินอาหารแบบจานนี้อีกในอนาคต
 2010_3_1,"You have a good taste! This Wild boar meat is both fragrant and tough, and it's hard to swallow with the usual cooking method. Thanks to a young master who passed by here a few years ago, he taught me how to cook Pork, I improved it, replaced the ordinary Pork with Wild boar meat, and the taste is indeed unique.","ถือว่าเจ้านี่ตาแหลมนัก! เนื้อหมูป่ามันทั้งเหม็นและเหนียว หากใช้วิธีทำทั่วไปก็คงกินยากจริง ๆ \nดีนะที่เมื่อหลายปีก่อนมีคุณชายท่านหนึ่งผ่านมาที่นี่ สอนวิธีปรุงเนื้อหมู ข้าลองปรับสูตรดู ใช้เนื้อหมูป่าแทนเนื้อหมูทั่วไป รสชาติเลยเป็นเอกลักษณ์อร่อยแบบนี้"
 2010_4_1,"Humph, opportunities are fleeting, don't regret it!",ฮึ่ม ท่านพลาดโอกาสดีๆไปซะแล้ว อย่าเสียใจทีหลังล่ะ!
-2011_1_1,"The strange big tree mentioned by the village women, it must be this one? I don't know where the Lingzhi is now, I have to look carefully.",ต้นไม้ใหญ่ประหลาดที่แม่หญิงในหมู่บ้านพูดถึง คงจะหมายถึงต้นนี้สินะ ไม่รู้ว่าเห็ดหลินจืออยู่ที่ไหนตอนนี้ ข้าต้องหาให้เจอซะแล้ว
+2011_1_1,"The strange big tree mentioned by the village women, it must be this one? I don't know where the Lingzhi is now, I have to look carefully.",ต้นไม้ใหญ่ประหลาดที่คนในหมู่บ้านพูดถึง คงจะหมายถึงต้นนี้สินะ ไม่รู้ว่าเห็ดหลินจืออยู่ที่ไหนตอนนี้ ข้าต้องหาให้เจอซะแล้ว
 2011_1_2,Lulu hum hum hum!!!!!!,ฮึบ ฮึบ ฮึบ ฮึบ 
 2011_1_3,Hum hum hum!!!!!!,ฮึบ ฮึบ ฮึบ ฮ่า!!!!
 2011_2_1,"I seemed to see something under the tree root just now, I'll go over and take a closer look.",ดูเหมือนว่าข้าจะเห็นอะไรบางอย่างที่ใต้รากต้นไม้นั้น ข้าจะเข้าไปดูใกล้ๆ.
@@ -1195,7 +1195,7 @@ M1101-10_3_11,"Although fists and feet have no eyes, and there's a chance of los
 M1101-10_3_12,"Today you helped me solve a big problem again.\nWhat if you Run away from this small village in the future, what should I do if I encounter trouble?","วันนี้ท่านช่วยข้าแก้ปัญหาใหญ่อีกครั้งแล้ว\nหากเมื่อใดท่านไปจากหมู่บ้านเล็กๆนี้ หากข้าพบปัญหาแล้วควรทำเช่นไรดี"
 M1101-10_3_13,"Boss lady, with your combination of softness and toughness, what can't you handle?\nBut in the future, if you encounter any trouble, I will definitely come to help you without hesitation.","นายหญิง ด้วยการประสานอ่อนแข็งของท่าน จะมีสิ่งใดที่ท่านรับมือไม่ได้\nแต่หากในอนาคตท่านพบเจอปัญหา ข้าจะมาช่วยท่านโดยไม่ลังเลอย่างแน่นอน"
 M1101-10_3_14,"I always feel like there's something in your words, but I'm already very comforted.\nBy the way, you've always been curious about what treasure is in my box.\nHere is the Key, you can unlock it and see for yourself.","ข้ารู้สึกว่าคำพูดของท่านมีนัยแฝงอยู่นะ แต่อย่างไรก็ตาม เพียงแค่นี้ข้าก็รู้สึกปลื้มใจมากแล้ว \nอ้อ เจ้าคงสงสัยมาตลอดว่าในหีบของข้ามีสมบัติอะไรอยู่ นี่คือกุญแจ เจ้าลองไขดูเองก็แล้วกัน\n"
-M1101-10_3_2,"Spare me, good sir!\nI-I just heard that the lady boss here is a good cook, so I came to see for myself!\nI-I really have no other intentions!","ไว้ชีวิตข้าเถอะนายท่าน!\nข-ข้าา เพิ่งได้ยินมาว่านายหญิงที่นี่ทำอาหารเก่งก็เลยมาดูเอง!\nข ขะ-ข้า ไม่มีเจตนาอื่นจริงๆ!"
+M1101-10_3_2,"Spare me, good sir!\nI-I just heard that the lady boss here is a good cook, so I came to see for myself!\nI-I really have no other intentions!","ไว้ชีวิตข้าเถอะนายท่าน!\nข-ข้าา เพิ่งได้ยินมาว่าเถ้าแก่เนี้ยที่นี่ทำอาหารอร่อยก็เลยมาดูเอง!\nข ขะ-ข้า ไม่มีเจตนาอื่นจริงๆ!"
 M1101-10_3_3,"It was an accident that we offended you, we know our mistake, we'll leave right away!",พวกเราไม่ได้ตั้งใจจะล่วงเกินท่านเลย เราผิดไปแล้ว จะรีบจากไปเดี๋ยวนี้!
 M1101-10_3_4,"Wait a moment, all visitors are guests, especially those who come for the reputation.\nIf I don't let the guest taste my cooking,\nIf word gets out that I don't know how to treat guests, how can I continue my business?","รอสักครู่ ผู้มาเยือนทุกคนล้วนเป็นแขกของเรา โดยเฉพาะผู้ที่มาเพราะได้ยินชื่อเสียงของข้า\nหากข้าไม่ให้แขกได้ชิมฝีมือทำอาหาร\nแล้วคนกล่าวออกไปว่าข้าไม่รู้จักดูแลแขก เช่นนั้นกิจการของข้าคงไม่อาจทำต่อแล้ว"
 M1101-10_3_5,"This carefully prepared Mapo tofu is specially prepared for you.\nLet's give you a discount, 300 Wen per serving, one serving for each of you,\nI'll round down a bit for you, let's call it 1000 Wen.","เต้าหู้มะโป้ จานนี้พิเศษกว่าที่อื่นแน่นอน\nข้าขอเสนอราคาพิเศษให้ท่านเพียง 300 อีแปะต่อจาน แต่ถ้าท่านต้องการหลายจาน\nข้าขอคิดรวมเป็น 1,000 อีแปะก็พอ"
@@ -1205,7 +1205,7 @@ M1101-10_3_8,"We'll buy this Tofu!\nHere's your money, we'll definitely take the
 M1101-10_3_9,Get out of here quickly,ออกไปจากที่นี่โดยเร็ว
 M1101-10_4_1,"Hmph, dare to lay a hand on our young master, you must be tired of living!",ฮึ่ม! กล้าดียังไงมาแตะต้องนายน้อยของเรา คงจะเบื่อชีวิตแล้วสินะ
 M1101-10_4_2,You guys be careful not to kill him and cause trouble for me.,พวกเจ้าระวังอย่าให้เขาตายล่ะ เดี๋ยวจะเป็นปัญหากับข้า
-M1101-10_4_3,Yes!,ครับ!
+M1101-10_4_3,Yes!,ขอรับ!
 M1101-10_4_4,"Kid, you better pray for yourself",เจ้าหนู เจ้าภาวนาให้ตัวเองเถอะ!
 M1101-10_4_5,"Young master, just watch",นายน้อย ท่านดูสิ
 M1101-10_5_1,This young man is really sensible today,วันนี้นายน้อยนี่มีเหตุมีผลจริงๆนะ
@@ -1272,9 +1272,9 @@ M1200-3_8_4,Shall we address each other as brothers?,พวกเราเรี
 M1200-3_8_5,Straightforward! Big brother!,ตรงไปตรงมา! พี่ใหญ่!
 M1200-3_9_1,You dare to show off your trifling skills?,กล้าดียังไงมาโอ้อวดฝีมืออ่อนด้อย
 M1200-3_9_2,Guards!,ทหาร!
-M1200-3_9_3,<size=200%><b>Yes!</b></size>,<size=200%><b>ครับ!</b></size>
+M1200-3_9_3,<size=200%><b>Yes!</b></size>,<size=200%><b>ขอรับ!!</b></size>
 M1200-3_9_4,Throw this lad out of the camp!,โยนมันไปนอกค่าย!
-M1200-3_9_5,<size=200%><b>Yes!</b></size>,<size=200%><b>ครับ!</b></size>
+M1200-3_9_5,<size=200%><b>Yes!</b></size>,<size=200%><b>ขอรับ!!</b></size>
 M1200-4_1_1,"Third brother, you've been in the Blue Wind Camp for a while now.",พี่สาม ท่านก็อยู่ในค่ายวายุครามมาได้สักพักแล้ว
 M1200-4_1_10,I suspect there might be something wrong with the second leader.,ข้าสงสัยว่าหัวหน้ารองมีอะไรแปลกๆ
 M1200-4_1_11,"Third brother, sneak into the small path on the east side of the camp tonight.\nI want to know what the second leader is up to.","พี่สาม คืนนี้ท่านลองลอบไปตามทางเล็กๆทิศตะวันออกของค่ายดูสิ\nข้าอยากรู้ว่าหัวหน้ารองกำลังคิดจะทำอะไรอยู่"
@@ -1327,9 +1327,9 @@ M1200-4_3_8,"Unfortunately, I was discovered before I could hear the whole thing
 M1200-4_3_9,What happened next?,ต่อไปจะเกิดอะไรขึ้น
 M1200-4_4_1,Big brother!,พี่ใหญ่!
 M1200-4_4_10,Guards!,ทหาร!
-M1200-4_4_11,<size=200%><b>Yes!</b></size>,<size=200%><b>ครับ!</b></size>
+M1200-4_4_11,<size=200%><b>Yes!</b></size>,<size=200%><b>ขอรับ!!</b></size>
 M1200-4_4_12,Throw this lad out of the camp!,โยนมันไปนอกค่าย!
-M1200-4_4_13,<size=200%><b>Yes!</b></size>,<size=200%><b>ครับ!</b></size>
+M1200-4_4_13,<size=200%><b>Yes!</b></size>,<size=200%><b>ขอรับ!!</b></size>
 M1200-4_4_2,"This kid, colluding with the enemy in private!",เจ้าหนูนี่ กล้าคบคิดกับศัตรูลับหลัง!
 M1200-4_4_3,Are you serious?,เจ้าพูดจริงรึ?
 M1200-4_4_4,... (Unable to defend due to severe injuries),...(บาดเจ็บสาหัสจนไม่สามารถต่อสู้ได้)
@@ -2102,7 +2102,7 @@ M20316-1_5_2,"It's a pity that I can't find a jade cup or bowl to drink from nea
 M20316-2_1_1,I didn't expect to meet {PlayerSurName} here.,ข้าไม่นึกเลยว่าจะได้พบท่าน{PlayerSurName}ที่นี่
 M20316-2_1_2,"In ancient times, there was the elegant event of ""ome boiling wine to discuss heroes"",\nI wonder if {PlayerSurName} is interested in discussing the major sects in the current martial arts world with me?","สมัยก่อน มีเรื่องราวเกี่ยวกับการ ""ดื่มสุราพลางพูดคุยกันเรื่องจอมยุทธ์""\nท่าน{PlayerSurName} สนใจจะมาพูดคุยเกี่ยวกับสำนักต่างๆ ในยุทธภพปัจจุบันกับข้าบ้างไหม?"
 M20316-2_2_1,"Currently, the most prominent sects in the martial arts world can be summarised as —— <color=#c44b0e>Three Doctrines and Nine Factions</color>. \nThese encompass the <color=#c44b0e>Shifa Temple</color>, the <color=#c44b0e>Taoist Sect</color>, the <color=#c44b0e>Confucius Temple</color>, and the <color=#c44b0e>Nine Factions Sect</color>.","ในยุทธภพปัจจุบัน สำนักที่ได้รับการยอมรับว่าเป็นสำนักชั้นนำ นั้นมีอยู่ไม่กี่แห่งนั้นก็คือ <color=#c44b0e>สามสำนักและเก้าฝ่าย</color>\nประกอบไปด้วย <color=#c44b0e>อารามซื่อฟา</color>, <color=#c44b0e>สำนักเต๋า</color>, <color=#c44b0e>วัดขงจื้อ</color> และ <color=#c44b0e>นิกายเก้าฝ่าย</color>"
-M20316-2_2_2,"As its name suggests, the Nine Factions Sect is a mixed bag, with people often claiming to be disciples and causing trouble. The leader of the Nine Factions Sect is mysterious and unknown to outsiders.",นิกายเก้าฝ่ายก็เป็นอย่างชื่อเรียก คนในนิกายก็มีดีก็ชั่วปะปนกันไป มีคนแอบอ้างว่าเป็นสาวกของนิกายนี้แล้วไปก่อความวุ่นวาย ส่วนประมุขของนิกายก็ลึกลับมาก ไม่มีใครรู้ว่าเขาเป็นใครกันแน่
+M20316-2_2_2,"As its name suggests, the Nine Factions Sect is a mixed bag, with people often claiming to be disciples and causing trouble. The leader of the Nine Factions Sect is mysterious and unknown to outsiders.",นิกายเก้าฝ่ายก็เป็นอย่างชื่อเรียก คนในนิกายก็มีดีก็ชั่วปะปนกันไป มีคนแอบอ้างว่าเป็นสาวกของนิกายนี้แล้วไปก่อความวุ่นวาย ส่วนประมุขนิกายก็ลึกลับมาก ไม่มีใครรู้ว่าเขาเป็นใครกันแน่
 M20316-2_2_3,"Shifa Temple has a thousand-year heritage, advocating desirelessness and meditation, which is of no benefit to the people.\nHowever, the current abbot, <color=#c44b0e>Master Hui Yuan</color>, is compassionate and has done many good deeds.","อารามซื่อฟามีมรดกสืบทอดมายาวนานนับพันปี, ซึ่งส่งเสริมความไร้ซึ่งกิเลสและการบำเพ็ญเพียร ซึ่งไม่เป็นประโยชน์ต่อผู้คน\nอย่างไรก็ตาม เจ้าอาวาสคนปัจจุบัน <color=#c44b0e>ไต้ซือฮุ่ยหยวน</color> มีความเห็นอกเห็นใจและได้สร้างคุณงามความดีมากมาย."
 M20316-2_2_4,"The Taoist Sect, originating from Taoism's concept of emptiness, tranquility, and inaction.\nThe leader, <color=#c44b0e>Zhong Yangzi</color>, sympathizes with the people's suffering and has repeatedly resisted the invasion of Yan Kingdom, which is admirable.","สำนักเต๋า มีต้นกำเนิดมาจากแนวคิดของลัทธิเต๋าเกี่ยวกับความว่างเปล่า ความเงียบสงบ และความนิ่งเฉย\nเจ้าสำนัก <color=#c44b0e>ฉงหยางสื่อ</color> ใส่ใจกับความทุกข์ ความทรมานของผู้คน และได้ต่อต้านการรุกรานจากแคว้นเยี่ยนซ้ำแล้วซ้ำเล่า ถือเป็นเรื่องน่าชื่นชม."
 M20316-2_2_5,"The Confucius Temple, appears modest and gentlemanly, full of benevolence and morality, but in reality, ha.\nTheir leader, <color=#c44b0e>Cai Yuanchang</color>, is the biggest traitor in the world!","ส่วนวัดขงจื๊อ ดูสมถะและเป็นวิญญูชนที่เปี่ยมไปด้วยความเมตตากรุณาและถือจริยธรรม แต่ในความเป็นจริงนั้น...เฮอะ\nเจ้าสำนักของพวกมัน <color=#c44b0e>ไช่หยวนฉาง</color> กลับเป็นวิญญูชนจอมปลอมสิ้นดี!"
@@ -2203,7 +2203,7 @@ S1000-2_1_1,"Day after day, things are getting worse. What is there to look forw
 B1000-12_1_1,"Uh...uh...my whole body is incredibly itchy, and my inner energy seems to be out of control.",อ้า...อ้า... ร่างกายชาและคันไปหมด ลมปราณเหมือนควบคุมไม่ได้ พุ่งพล่านไปทั่ว
 B1000-12_1_2,"The toxicity of this <color=#c44b0e>Obedience Pill</color> is unexpectedly torturous.\nEven taking the antidote only temporarily restrains the toxicity. I need to find a way to eradicate it.","พิษของ<color=#c44b0e>โอสถพิษตามสั่งสะกดวิญญาณ</color>นี้ช่างร้ายกาจเกินคาด\nแม้จะกินยาถอนพิษแล้ว ก็แค่ระงับพิษไว้ชั่วคราวเท่านั้น ต้องหาวิธีถอนพิษให้หมดจึงจะดี"
 S1000-21_1_1,"I've been playing this game called ""Hero's Adventure"" for 15 days now. How should I rate it?","เกมนี้ที่ชื่อว่า ""Hero's Adventure"" ข้าเล่นมาถึงวันที่ 15 แล้ว ข้าควรจะให้คะแนนมันยังไงดีนะ?"
-S1000-51_1_1,"{PlayerGivenName}, I've had a great time playing with you these past few days,\nIt's the day I promised to meet with the Sect Leader, I have to go back to <color=#c44b0e>Gu Immortal Sect</color>. You must come and play with me.","พี่ชาย{PlayerGivenName} ในช่วงไม่กี่วันที่ผ่านมา ข้าสนุกมากที่ได้อยู่กับท่าน\nถึงเวลาที่ต้องกลับไป <color=#c44b0e>นิกายเซียนกู่</color> ตามสัญญาที่ให้ไว้กับพี่ประมุขแล้ว ท่านต้องมาหาข้า และเล่นกับข้าอีกนะ"
+S1000-51_1_1,"{PlayerGivenName}, I've had a great time playing with you these past few days,\nIt's the day I promised to meet with the Sect Leader, I have to go back to <color=#c44b0e>Gu Immortal Sect</color>. You must come and play with me.","พี่ชาย{PlayerGivenName} ในช่วงไม่กี่วันที่ผ่านมา ข้าสนุกมากที่ได้อยู่กับท่าน\nถึงเวลาที่ต้องกลับไป <color=#c44b0e>นิกายเซียนกู่</color> ตามสัญญาที่ให้ไว้กับพี่หัวหน้าเผ่าแล้ว ท่านต้องมาหาข้า และเล่นกับข้าอีกนะ"
 S1000-51_2_1,"After spending so much time with this Xiao Ya, I've unknowingly improved my understanding of toxins.",หลังใช้เวลาไปมากกับเสี่ยวหยา ข้าก็เริ่มเข้าใจเกี่ยวกับพิษมากขึ้นโดยไม่รู้ตัว
 S1000-52_1_1,"Sigh, I missed the birthday banquet... I messed up my first time in the martial world, I can only brace myself and go back to report.",เฮ้อ...พลาดงานเลี้ยงวันเกิดซะได้ การเดินทางในยุทธภพครั้งแรกก็ทำเรื่องยุ่งจนได้ ข้าคงต้องกลับไปรายงานอย่างอายๆ
 S1000-52_1_2,"Thank you, {PlayerSurName} young hero, for your help these past few days. Yinping is deeply grateful.\nAll good things must come to an end. Yinping will say goodbye for now, see you again in the martial world.","ขอบคุณเจ้ามาก จอมยุทธน้อย{PlayerSurName} ที่ช่วยข้าในช่วงสองสามวันที่ผ่านมา ข้าซาบซึ้งใจมาก\nไม่มีงานเลี้ยงใดที่ไม่เลิกรา ถึงเวลาที่ข้าต้องจากไปแล้ว สักวันคงได้พบกันอีกในยุทธภพ"
@@ -2331,7 +2331,7 @@ M20321-2_2_2,"It's okay, I'll just stand behind Miss Ye and temporarily act as h
 M20321-2_20_1,"Butterfly girl, the matter here has been resolved, where are you planning to go now? \nAre you going back to the Gu Immortal Sect alone?","น้องไฉ่ตี้ ที่นี่ได้รับการแก้ไขเรียบร้อยแล้ว เจ้าตั้งใจจะไปที่ไหนต่อ?\nเจ้าจะกลับไป 'นิกายเซียนกู่' คนเดียวหรือ?"
 M20321-2_20_10,"It's called Thin Bamboo Stick, it's highly toxic and aggressive.",มันเรียกว่าเจ้า 'ไผ่ผอม' พิษของมันร้ายกาจมากและยังเกรี้ยวกราดอีกด้วย
 M20321-2_20_11,"{PlayerGivenName} Brother, come here, touch them, \nthis way they will remember your scent and consider you as a friend.","พี่ชาย{PlayerGivenName} มานี่สิ ลองสัมผัสพวกมันหน่อย\nพวกมันจะจำกลิ่นของท่านได้ แล้วก็จะคิดว่าท่านเป็นมิตร"
-M20321-2_20_2,"The sect leader brother told me to return to the Gu Immortal Sect after the <color=#c44b0e>30th day</color>, \notherwise it would disrupt his plan.","พี่ประมุขบอกข้าให้กลับไปที่ 'นิกายเซียนกู่' หลัง<color=#c44b0e>วันที่ 30</color>\nไม่อย่างนั้นมันจะทำลายแผนการของเขานะ"
+M20321-2_20_2,"The sect leader brother told me to return to the Gu Immortal Sect after the <color=#c44b0e>30th day</color>, \notherwise it would disrupt his plan.","พี่ชายบอกข้าให้กลับไปที่ 'นิกายเซียนกู่' หลัง<color=#c44b0e>วันที่ 30</color>\nไม่อย่างนั้นมันจะทำลายแผนการของเขานะ"
 M20321-2_20_3,"So I don't know where to go now. \nHowever, since I'm out, I want to encounter some interesting things~","ตอนนี้ข้าเองก็ไม่รู้จะไปที่ไหนเหมือนกัน\nแต่ในเมื่อได้ออกมาข้างนอกทั้งที ข้าก็อยากเจออะไรสนุกๆ บ้าง~"
 M20321-2_20_4,"Anyway, I don't have a destination for now, I'm planning to travel around. \nWhy don't we travel together, we might encounter many interesting things.","ตอนนี้ ข้าเองก็ยังไม่มีจุดหมายอะไรแน่นอน ข้ากำลังวางแผนจะเดินทางไปเรื่อยๆ\nทำไมเราไม่เดินทางด้วยกันล่ะ? บางทีเราอาจจะได้เจอเรื่องสนุกๆ มากมายก็ได้นะ"
 M20321-2_20_5,"{PlayerGivenName} Brother, you're so nice!",พี่ชาย{PlayerGivenName} ท่านช่างใจดีจริงๆ!

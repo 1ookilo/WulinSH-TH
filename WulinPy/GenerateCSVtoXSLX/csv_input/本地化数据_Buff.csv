@@ -873,7 +873,7 @@ BuffInfo_伙伴特征七星阵眼,"After entering the battle, your character's a
 BuffInfo_伙伴特征七星阵眼_光环,"Action Speed is increased by 15%, final damage of Attack is increased by 15%, Defense is increased by 15%.",ความเร็วท่าร่างเพิ่มขึ้น 15% สร้างความเสียหายเพิ่มขึ้น 15% พลังป้องกันเพิ่มขึ้น 15%
 BuffInfo_伙伴特征我见犹怜,"When attacked by male enemies, only half of the damage is received.",เมื่อถูกบุรุษโจมตี ได้รับความเสียหายเพียงครึ่งเดียว
 BuffInfo_伙伴特征天生神力,"5% chance of instant kill against non-Boss Characters below 10 levels of self, at the same time, base Critical is increased by 15%.",มีโอกาส 5% ที่จะสังหารศัตรูที่ไม่ใช่หัวหน้าทันที หากมีเลเวลต่ำกว่าเรา 10 เลเวลขึ้น ขณะเดียวกัน คริติคอลพื้นฐานเพิ่มขึ้น 15%
-BuffInfo_伙伴特征金枝玉叶,Automatically gain 1 money per day.,ได้รับเงิน 1 อีแปะ ทุกวันโดยอัตโนมัติ
+BuffInfo_伙伴特征金枝玉叶,Automatically gain 1 money per day.,ได้รับเงิน 1 ตำลึง ทุกวันโดยอัตโนมัติ
 BuffInfo_伙伴特征叶家统帅,"After entering battle, Characters of Ye Family Battalion increase damage by 25%.",หลังจากเข้าสู่การต่อสู้ ตัวละครจากกองทัพตระกูลเย่ สร้างความเสียหายเพิ่มขึ้น 25%
 BuffInfo_伙伴特征叶家统帅_光环,Damage of Attack is increased by 25%.,การโจมตีสร้างความเสียหายเพิ่มขึ้น 25%
 BuffInfo_伙伴特征近身侍卫,4 generals of Ye Family Battalion appear on the field after the first action.,4 ขุนพลแห่งกองทัพตระกูลเย่จะปรากฏตัวหลังจบตาแรก
@@ -960,7 +960,7 @@ BuffInfo_伙伴特征血战不退,"Invincible to Finishing Strike, only 1 drop o
 BuffInfo_伙伴特征品萧弄笛,"When using flute martial arts to attack, the final Damage increases by 10%.",เมื่อใช้วิชาขลุ่ยโจมตี สร้างความเสียหายเพิ่มขึ้น 10%
 BuffInfo_伙伴特征风情万种,"Within a 2-tile range of yourself, the Action Speed of male enemy characters is reduced by 10%.",ในระยะ 2 ช่องจากตนเอง ศัตรูที่เป็นบุรุษจะมีความเร็วท่าร่างลดลง 10%
 BuffInfo_伙伴特征风情万种_光环附属1,Action Speed is reduced by 10%.,ความเร็วท่าร่างลดลง 10%
-BuffInfo_伙伴特征生财有道,"After joining the protagonist's team, you can earn 1 Coin per day if you are not bonded with the protagonist, and 5 Coins per day if you are bonded with the protagonist.","หลังจากเข้าร่วมทีมตัวเอก, หากไม่ได้ผูกสัมพันธ์กับตัวเอกจะได้รับเงิน 1 อีแปะต่อวัน, หากผูกสัมพันธ์กับตัวเอกจะได้รับ 5 อีแปะต่อวัน"
+BuffInfo_伙伴特征生财有道,"After joining the protagonist's team, you can earn 1 Coin per day if you are not bonded with the protagonist, and 5 Coins per day if you are bonded with the protagonist.","หลังจากเข้าร่วมทีมตัวเอก, หากไม่ได้ผูกสัมพันธ์กับตัวเอกจะได้รับเงิน 1 ตำลึงต่อวัน, หากผูกสัมพันธ์กับตัวเอกจะได้รับ 5 ตำลึงต่อวัน"
 BuffInfo_伙伴特征燕国郡主,"When attacking, for each level your Fame is higher than the opponent's, the final Damage increases by 5%.",เมื่อโจมตี ทุกเลเวลชื่อเสียงที่มากกว่าศัตรู จะทำให้สร้างความเสียหายเพิ่มขึ้น 5%
 BuffInfo_伙伴特征杀伐果决,"<#29F161>Critical hit chance increases by 10%</color>, when triggering a critical hit, <#29F161>critical hit increases damage by 15%</color>.",<#29F161>โอกาสคริติคอลเพิ่มขึ้น 10%</color> เมื่อโจมตีคริติคอล <#29F161>สร้างความเสียหายคริติคอลเพิ่มขึ้น 15%</color>
 BuffInfo_伙伴特征杀敌立威,"During battle, for each enemy killed, you gain an additional 15 points of Spirit.",ระหว่างการต่อสู้ เมื่อสังหารศัตรูจะได้รับพลังใจเพิ่ม 15 แต้ม

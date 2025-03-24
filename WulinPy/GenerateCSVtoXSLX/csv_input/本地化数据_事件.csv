@@ -262,7 +262,7 @@ M1400-3_options1_2,"I can't just watch people die, I have to help.<color=#c44b0e
 3021_name,Ask the butcher where to get meat to sell,ถามคนขายเนื้อว่าจะไปขายเนื้อที่ไหน
 3022_name,Ask Void about his origin,ถามความว่างเปล่าเกี่ยวกับต้นกำเนิดของเขา
 3023_name,"Ask the woman about making money, she refuses to tell",ถามนางเรื่องหาเงิน นางไม่ยอมปริปาก
-3024_name,The woman tells you there are Lingzhi under the big tree in Lost Forest,แม่หญิงได้บอกคุณว่ามีเห็ดหลินจืออยู่ใต้ต้นไม้ใหญ่ในป่าสาปสูญ
+3024_name,The woman tells you there are Lingzhi under the big tree in Lost Forest,หญิงนางหนึ่งบอกว่ามีเห็ดหลินจืออยู่ใต้ต้นไม้ใหญ่ในป่าสาปสูญ
 3025_name,"Scolded for being idle, despising knights",ถูกดุว่าเกียจคร้านและดูหมิ่นอัศวิน
 3026_name,Complain about the Iron Ban,ร้องทุกข์ต่อกฎเหล็กที่ไม่เป็นธรรม
 3027_name,Scold the protagonist for giving Xiao Bao a Wooden sword,ดุตัวเอกที่มอบกระบี่ไม้ให้กับเสี่ยวเป่า
@@ -628,7 +628,7 @@ M1101-8_name,Collect Ingredients,รวบรวมวัตถุดิบ
 M1101-8_talk,Ingredient,วัตถุดิบ
 M1101-8_overview1,Talk to the landlady.,คุยกับเจ้าของบ้าน.
 M1101-8_overview2,Get 5 Lettuce and 5 Wild boar meat.,รับผักกาดหอม 5 ชิ้นและเนื้อหมูป่า 5 ชิ้น
-M1101-8_overview3,"Ingredients collected, go talk to the boss lady.",รวบรวมส่วนผสมไปคุยกับเจ้านายหญิง
+M1101-8_overview3,"Ingredients collected, go talk to the boss lady.",รวบรวมส่วนผสมไปคุยกับเถ้าแก่เนี้ย
 M1101-8option_1_1,Leave it to me!,ปล่อยเป็นหน้าที่ของข้า!
 M1101-8option_1_2,"Sorry, handle your own affairs.",ขออภัย จัดการเรื่องของตัวเองเถอะ
 M1101-10_name,Feminism,ชื่นชมสตรี
