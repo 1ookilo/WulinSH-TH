@@ -1311,15 +1311,15 @@ part-9-6-2,Okay... I see.,อา... เข้าใจแล้ว
 part-10-0-1,What's all the noise outside?,มีเสียงอะไรดังอยู่ข้างนอกน่ะ?
 part-10-0-2,"An outsider Monk has come to challenge us, without your permission, none of the Disciples have responded.",มีพระนักพรตจากที่อื่นมาท้าประลองกับพวกเรา แต่ไม่มีศิษย์คนไหนกล้าตอบรับโดยไม่ได้รับอนุญาตจากท่าน
 part-10-0-3,"Okay, I'll send someone to meet him.",ได้ ข้าจะส่งคนไปพบเขา
-part-10_name,Martial Monk visits,พระนักพรตผู้ฝึกวรยุทธ์มาเยือนแล้ว
+part-10_name,Martial Monk visits,พระสงฆ์นักรบมาเยือน
 part-10_overview,"There is a foreign Monk who wants to challenge us, please send someone to meet him as soon as possible.",มีพระนักพรตจากต่างถิ่นต้องการมาท้าประลองกับพวกเรา ขอให้ส่งคนไปพบเขาโดยเร็วที่สุด
 part-10-1-1,Who is coming to challenge {MyFaction} this time?,ใครกันที่มาท้าประลอง {MyFaction} ในครั้งนี้?
 part-10-1-2,"It's me, my Dharma name is Shi Yu, I'm here to learn about {MyFaction}'s Martial Arts.",ข้าเอง นามธรรมของข้าคือ ซือหยู่ ข้ามาที่นี่เพื่อเรียนรู้วรยุทธ์ของ {MyFaction}
 part-10-1-3,"Your Dharma name is Shi, which temple are you from?",นามธรรมของท่านคือซือ ท่านมาจากวัดใดหรือ?
 part-10-1-4,"My master is a wandering monk, he took me as his Disciple, shaved my head, and taught me martial arts.",อาจารย์ของข้าเป็นพระธุดงค์ ท่านรับข้าเป็นศิษย์ โกนศีรษะให้ข้า และสอนวรยุทธ์ให้ข้า
-part-10-1-5,"It's not that wandering Monk from {MyFaction}, is it?",ไม่ใช่พระธุดงค์ท่านนั้นจาก {MyFaction} กระมัง?
-part-10-1-6,"Do you know what your master's Dharma name is, is he a Monk from my {MyFaction}?",ท่านรู้จักนามธรรมของอาจารย์ท่านหรือไม่ ท่านเป็นพระจาก {MyFaction} ของข้าใช่หรือไม่?
-part-10-1-7,My master's Dharma name... I forgot.,นามธรรมของอาจารย์ข้าน่ะหรือ... ข้าลืมเสียแล้ว
+part-10-1-5,"It's not that wandering Monk from {MyFaction}, is it?",หรือว่าจะเป็นหลวงจีนที่มาจากสำนัก{MyFaction}นั้นกัน?
+part-10-1-6,"Do you know what your master's Dharma name is, is he a Monk from my {MyFaction}?",ไม่ทราบว่าฉายาธรรมของอาจารย์ท่านคือ และท่านเป็นหลวงจีนจากสำนัก{MyFaction}ของข้าหรือไม่?
+part-10-1-7,My master's Dharma name... I forgot.,ฉายาธรรมของอาจารย์... ข้าลืมไปแล้ว
 part-10-1-8,Is that so? Where did your master go?,อย่างนั้นหรือ? แล้วอาจารย์ของท่านไปที่ใดเล่า?
 part-10-1-9,"My master went into the bandit's den alone to eliminate the bandits, but because of his compassion, he let go of the bandit leader's young son and was killed by a sneak attack.",อาจารย์ของข้าบุกเข้าไปในรังโจรเพียงลำพังเพื่อกำจัดพวกโจร แต่ด้วยความเมตตา ท่านปล่อยลูกชายตัวน้อยของหัวหน้าโจรไป และถูกลอบโจมตีจนสิ้นชีวิต
 part-10-1-10,"My master said that I am not very smart and will definitely forget the name of the sect in the future. He told me to challenge any sect I see. As long as their martial arts are the same, it should be our sect.",อาจารย์ข้าบอกว่าข้าไม่ค่อยฉลาดนัก และคงจะลืมชื่อสำนักในอนาคตแน่ๆ ท่านจึงบอกให้ข้าท้าประลองกับทุกสำนักที่พบเจอ ตราบใดที่วรยุทธ์ของพวกเขาเหมือนกับของพวกเรา นั่นก็คงจะเป็นสำนักของพวกเรานั่นเอง

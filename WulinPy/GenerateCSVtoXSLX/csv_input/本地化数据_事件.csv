@@ -744,12 +744,12 @@ M20319-1_overview1,"Crack the Maiden House puzzle: <color=#c44b0e>Monk with a pa
 M20319-1_overview2,Ask the host how to meet the courtesan.,ถามผู้ดูแลว่าจะพบกับนางโลมได้อย่างไร
 M20319-1option1_1,"Here is ten guan, please give me a riddle, host. <color=#097a76>(10000 wen)</color>",นี่คือเงิน 10 ตำลึง ท่านผู้ดูแล โปรดถามปริศนามาเถิด <color=#097a76>(10000 อีแปะ)</color>
 M20319-1option1_2,"I admire the lady's talent, can you give me a discount? <color=#097a76>(Persuade level Expert, 5000 wen)</color>","ข้าชื่นชมความสามารถของแม่นาง โปรดลดราคาให้ข้าหน่อยเถิด? <color=#097a76>(โน้มน้าวถึงระดับเชี่ยวชาญ 5,000 อีแปะ)</color>"
-M20319-1option1_3,"Considering our relations, can you give me a discount? <color=#097a76>(Relations level 60, 5000 wen)</color>","จากความสัมพันธ์ของเรา ท่านช่วยให้ส่วนลดข้าได้ไหม?  <color=#097a76>(ความสัมพันธ์ถึง 60, 5000 อีแปะ)</color>"
+M20319-1option1_3,"Considering our relations, can you give me a discount? <color=#097a76>(Relations level 60, 5000 wen)</color>","จากความสัมพันธ์ของเรา ท่านช่วยให้ส่วนลดข้าได้ไหม? <color=#097a76>(ความสัมพันธ์ถึง 60, 5000 อีแปะ)</color>"
 M20319-1option1_4,I'm just here to watch,ข้ามาเพื่อดูความครื้นเครงเท่านั้น
 M20319-1_1_2_overview,"Young man, are you here to solve the riddle? Please pay a deposit of 10 guan first.",จอมยุทธ์น้อย ท่านมาที่นี่เพื่อแก้ไขปริศนาใช่หรือไม่? กรุณาจ่ายเงินมัดจำ 10 ตำลึง ก่อน
 M20328-1_name,Maiden House upstairs,ชั้นบนหอหมู่บุปผา
 M20300-51_option1_dialog,"(This guy's acting is really bad, he obviously wants to scam me, how should I respond?)",(การแสดงของผู้ชายคนนี้แย่มากจริง ๆ เห็นได้ชัดว่าเขาพยายามหลอกลวงข้า ข้าจะตอบกลับอย่างไร?)
-M20300-51_option1_1,"I'm really sorry, here's 200 wen as an apology. <color=#097a76>(200 wen)</color>",ข้าขอโทษจริงๆ นี่คือเงิน 200 อีแปะ เพื่อเป็นการขอโทษ.  <color=#097a76>(200 อีแปะ)</color>
+M20300-51_option1_1,"I'm really sorry, here's 200 wen as an apology. <color=#097a76>(200 wen)</color>",ขออภัยจริงๆ เงิน 200 อีแปะนี้เพื่อเป็นการแสดงความเสียใจ <color=#097a76>(200 อีแปะ)</color>
 M20300-51_option1_2,"I don't have money, but if you want a fight, I can accompany you. <color=#097a76>(Main character fights alone)</color>",ข้าไม่มีเงิน แต่ถ้าเจ้าอยากจะต่อยตี ก็จัดมา <color=#097a76>(ตัวละครหลักต่อสู้คนเดียว)</color>
 M20300-51_option1_3,Trying to scam a group of us is really unwise. <color=#097a76>(Start a fight directly)</color>,มันไม่ฉลาดเลยที่จะหลอกลวงพวกของเรา <color=#097a76>(เข้าสู่การต่อสู้ทันที)</color>
 M20300-52_option1_dialog,"(Listening to this Taoist priest speaking so seriously, but his appearance really makes me uneasy, how should I respond?)",ฟังนักบวชลักธิเต่าท่านนี้พูดอย่างจริงจังมาก แต่รูปลักษณ์ของเขา ทำให้ข้ารู้สึกไม่สบายใจจริงๆ ข้าควรจะทำยังไง?
