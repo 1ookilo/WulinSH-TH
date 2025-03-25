@@ -727,7 +727,7 @@ M20209-1_option1_2,Understood.,เข้าใจแล้ว
 M20209-1_option2_1,Participate in the auction.<color=#097a76>(At least 1 shichen)</color>,เข้าร่วมงานประมูล <color=#097a76>(อย่างน้อย 1 ชั่วยาม)</color>
 M20209-1_option2_2,Let me think about it.,ข้าขอไตร่ตรองสักครู่
 M20209-1_overview1,The Glittering Artifact Auction auction in Daliang City is open today.,วันนี้มีงานประมูลสินค้าล้ำค่า ณ หอไข่มุกเมืองต้าเหลียง
-M20209-1_overview2,The Glittering Artifact Auction auction in Daliang City is not open today.,วันนี้ยังไม่มีงานประมูลสินค้าล้ำค่า ณ หอไข่มุกเมืองต้าเหลียง
+M20209-1_overview2,The Glittering Artifact Auction auction in Daliang City is not open today.,วันนี้ยังไม่มีงานประมูล สินค้าล้ำค่า ณ หอไข่มุกเมืองต้าเหลียง
 M20209-1_overview3,"Due to the Treasure Competition, the auction is closed today.",เนื่องด้วยมีงานชิงสมบัติ จึงไม่มีการประมูลวันนี้
 M1000-1_name,A hundred days deadline,เส้นตายหนึ่งร้อยวัน
 M1000-1_overview1,"<color=#c44b0e>A major event will occur in 100 days</color>, you need to improve your strength before then to change the course of events.",<color=#c44b0e>เหตุการณ์สำคัญจะเกิดขึ้นใน 100 วัน</color> ท่านต้องเพิ่มความแข็งแกร่งก่อนหน้าที่จะเกิดเรื่องดังกล่าว
@@ -1639,8 +1639,8 @@ R10099-3-1_name,Top Priority,ความสำคัญสูงสุด
 R10099-3-1_overview1,"Raise Fame to <color=#c44b0e>Famous (level 5)</color>.\nYou can increase Fame through martial arts competitions, bounties, extermination or subduing Jianghu forces.","เพิ่มชื่อเสียงถึง <color=#c44b0e>มีชื่อเสียง(ระดับ 5)</color>\nสามารถเพิ่มชื่อเสียงได้ผ่านงานประลอง ทำภารกิจ กวาดล้าง หรือสยบ กองกำลังต่างๆในยุทธจักร"
 R10099-3-2_name,Trouble from the Nine Factions Sect,ปัญหาจากนิกายเก้าฝ่าย
 R10099-3-2_overview1,"Go to Chuxiang City, Lin'an City, Daliang City to solve the problems caused by the Nine Factions Sect.","ไปที่เมืองฉู่เซียง, เมืองหลินอัน, เมืองต้าเหลียง เพื่อแก้ปัญหาที่เกิดขึ้นจากนิกายเก้าฝ่าย"
-R10099-4_overview3,Go to Nameless village.,ไปยังหมู่บ้านนิรนาม
-R10099-4_overview4,"After preparations, meet with the master in Nameless village.",หลังจากเตรียมตัว ไปพบกับอาจารย์ที่หมู่บ้านนิรนาม
+R10099-4_overview3,Go to Nameless village.,ไปยังหมู่บ้านไร้นาม
+R10099-4_overview4,"After preparations, meet with the master in Nameless village.",หลังจากเตรียมตัว ไปพบกับอาจารย์ที่หมู่บ้านไร้นาม
 R10099-4_option1_1,Ready to set off!,พร้อมเดินทาง!
 R10099-4_option1_2,Not ready yet.,ข้ายังไม่พร้อม
 R10099-11_name,Chu Kuangsheng takes a disciple,ฉู่กวงเฉิงรับศิษย์
