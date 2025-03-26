@@ -215,7 +215,7 @@ DBZX-2_8_1_16,"Master Xuan Chen, the Frost Moon Blade is sharp, I hope it didn't
 DBZX-2_8_1_17,(Who is this Master Xuan Chen...?),(ใครคืออาจารย์เซวียนเฉิน...?)
 DBZX-2_8_2_1,"Wow, I didn't expect to see Master Xuan Chen here. It's really worth the trip.",สุดยอดไปเลย ไม่คิดว่าจะได้เจอท่านอาจารย์เซวียนเฉินที่นี่ คุ้มค่ากับการเดินทางมาจริงๆ
 DBZX-2_8_2_2,"Brother, who is Master Xuan Chen?",พี่ชาย ใครคืออาจารย์เซวียนเฉิน?
-DBZX-2_8_2_3,"Master Xuan Chen was a hero during the Eight Saints period, and his martial arts skills were second only to the Eight Saints.",อาจารย์เซวียนเฉินเป็นวีรบุรุษในยุคแปดเซียน วิทยายุทธของเขาเป็นรองเพียงแค่พวกแปดเซียนเท่านั้น
+DBZX-2_8_2_3,"Master Xuan Chen was a hero during the Eight Saints period, and his martial arts skills were second only to the Eight Saints.",อาจารย์เซวียนเฉินเป็นผู้กล้า ในยุคแปดวีรบุรุษ วิทยายุทธของเขาเป็นรองเพียงแค่พวกแปดวีรบุรุษเท่านั้น
 DBZX-2_8_2_4,The legends of his chivalrous deeds in the martial arts world are so numerous that a child could talk about them for days and nights.,ตำนานเกี่ยวกับวีรกรรมอันชาญฉลาดของเขาในยุทธภพ มีมากมายจนเด็กคนหนึ่งสามารถเล่าได้ข้ามวัน ข้ามคืน เลยทีเดียว
 DBZX-2_8_2_5,How did such a hero become a monk?,วีรบุรุษเช่นนี้มาบวชเป็นพระภิกษุได้อย่างไร?
 DBZX-2_8_2_6,"There are various records in the martial arts world. The most widely known is that he lost a bet and became a monk, no longer involved in the affairs of the martial arts world. I didn't expect to meet him here today!",ในยุทธภพมีเรื่องเล่าเกี่ยวกับเขามากมาย เรื่องที่เล่ากันทั่วไปมากที่สุดคือ ท่านแพ้พนัน ทำให้ต้องไปบวชเป็นพระ ห้ามยุ่งเกี่ยวกับยุทธภพอีกเลย และไม่นึกว่าจะได้มาเจอเขาที่นี่วันนี้!
@@ -2397,7 +2397,7 @@ R10046-3_29_14,"You go back and continue to guard, think carefully about the mis
 R10046-3_29_15,"Yes, Master...",ขอรับ ท่านอาจารย์...
 R10046-3_29_16,As for you... {PlayerName},ส่วนเจ้า...{PlayerName}
 R10046-3_29_17,"(They're not going to punish me too, are they...)",(พวกเขาจะไม่ลงโทษข้าด้วยใช่ไหมเนี่ย...)
-R10046-3_29_18,"Your martial arts are good, and you understand the rules. My eldest disciple has good talent, but he is not yet mature. He has little experience in the world and does not understand the dangers of the world.",วรยุทธของเจ้าเยี่ยมมาก และเจ้ายังมีเหตุผล ศิษย์เอกของข้าแม้จะมีพรสวรรค์ดี แต่ยังไม่รู้จักยุกทภพนี้เท่าใดนัก เขาออกท่องยุทธจักรน้อย ไม่เข้าใจกลอุบายในยุทธภพดีนัก
+R10046-3_29_18,"Your martial arts are good, and you understand the rules. My eldest disciple has good talent, but he is not yet mature. He has little experience in the world and does not understand the dangers of the world.",วรยุทธของเจ้าเยี่ยมมาก และยังรู้เรื่องราวต่างๆ ศิษย์เอกของข้าแม้จะมีพรสวรรค์สูง แต่ยังอ่อนประสบการณ์ เขาออกท่องยุทธจักรน้อย ไม่เข้าใจกลอุบายในยุทธภพดีนัก
 R10046-3_29_19,I'll have to trouble you to take him out more in the future.,ข้าคงต้องรบกวนเจ้าให้พาเขาออกไปท่องยุทธภพบ่อยๆด้วยแล้ว
 R10046-3_29_20,Yes!,ขอรับ!
 R10046-3_29_21,"Young friend, are you interested in discussing martial arts with me? What weapon are you good at?",สหายตัวน้อย เจ้าสนใจมาแลกเปลี่ยนความรู้วิทยายุทธกับข้าไหมเล่า? เจ้าถนัดใช่อาวุธแบบใดกัน?
@@ -3516,7 +3516,7 @@ R10025-6_1_0_4,"Kid, I want to meditate here alone, to think about what's missin
 R10025-6_1_0_5,You want to meditate here alone?,ท่านจะนั่งสมาธิอยู่ที่นี่คนเดียวเหรอ?
 R10025-6_1_0_6,"Yes, I want to leave your team for a while and meditate in this temple.",ใช่ ข้าจะออกกลุ่มของเจ้าชั่วคราวแล้วนั่งสมาธิอยู่ในวัดแห่งนี้
 R10025-6_1_0_7,Should I let Lai Toudian leave the team and meditate here?,ข้าควรจะให้ไล่โถวเตียนออกจากกลุ่มและนั่งสมาธิที่นี่หรือไม่?
-R10025-6_option1_1,You stay here and meditate. <color=#097a76>(Lai Toudian leaves the team)</color>,เจ้าอยู่ทำสมาธิไปแล้วกัน <color=#097a76>(ไล่โถวเตียนออกจากทีม)</color>
+R10025-6_option1_1,You stay here and meditate. <color=#097a76>(Lai Toudian leaves the team)</color>,เจ้าอยู่ทำสมาธิไปแล้วกัน <color=#097a76>(ไล่โถวเตียน ออกจากทีม)</color>
 R10025-6_option1_2,Let's meditate at another time.,ค่อยมานั่งสมาธิวันหลังแล้วกัน
 R10025-6_1_1_1,It seems you still need me for something?,ยังอยากให้ข้าช่วยทำอะไรงั้นหรือ?
 R10025-6_1_1_2,Then I'll help you get things done before I meditate.,งั้นข้าช่วยเจ้าก่อนจะไปทำสมาธิก็ได้
