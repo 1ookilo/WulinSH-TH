@@ -15,11 +15,11 @@ M5012-1_option1_4,Send <color=#0574a8>{TeamerName:4}</color> to fight.,ส่ง
 M5012-1_option1_5,Send <color=#0574a8>{TeamerName:5}</color> to fight.,ส่ง <color=#0574a8>{TeamerName:5}</color> ไปประมือ
 M5012-1_option1_6,Do not fight.,ไม่รับคำท้า
 PLD-1_name,Three Sects are under attack,สามสำนักใหญ่ถูกโจมตี
-PLD-1_overview1,"Go to Confucius Temple, Shifa Temple and Taoist Sect for information.","เดินทางไปยัง วัดขงจื๊อ, อารามซื่อฟา และ สำนักเต๋า เพื่อตรวจสอบสถานการณ์"
-PLD-1_overview2,"Go to Confucius Temple, Shifa Temple for information.","เดินทางไปยัง วัดขงจื๊อ, อารามซื่อฟา เพื่อตรวจสอบสถานการณ์"
-PLD-1_overview3,"Go to Confucius Temple, Taoist Sect for information.","เดินทางไปยัง วัดขงจื๊อ, สำนักเต๋า เพื่อตรวจสอบสถานการณ์"
+PLD-1_overview1,"Go to Confucius Temple, Shifa Temple and Taoist Sect for information.",เดินทางไปยัง วัดขงจื๊อ อารามซื่อฟา และ สำนักเต๋า เพื่อตรวจสอบสถานการณ์
+PLD-1_overview2,"Go to Confucius Temple, Shifa Temple for information.",เดินทางไปยัง วัดขงจื๊อ อารามซื่อฟา เพื่อตรวจสอบสถานการณ์
+PLD-1_overview3,"Go to Confucius Temple, Taoist Sect for information.",เดินทางไปยัง วัดขงจื๊อ สำนักเต๋า เพื่อตรวจสอบสถานการณ์
 PLD-1_overview4,Go to Confucius Temple for information.,เดินทางไปยัง วัดขงจื๊อ เพื่อตรวจสอบสถานการณ์
-PLD-1_overview5,"Go to Taoist Sect, Shifa Temple for information.","เดินทางไปยัง สำนักเต๋า, อารามซื่อฟา เพื่อตรวจสอบสถานการณ์"
+PLD-1_overview5,"Go to Taoist Sect, Shifa Temple for information.",เดินทางไปยัง สำนักเต๋า อารามซื่อฟา เพื่อตรวจสอบสถานการณ์
 PLD-1_overview6,Go to Taoist Sect for information.,เดินทางไปยัง สำนักเต๋า เพื่อตรวจสอบสถานการณ์
 PLD-1_overview7,Go to Shifa Temple for information.,เดินทางไปยัง อารามซื่อฟา เพื่อตรวจสอบสถานการณ์
 PLD-1_overview8,"Information on all three sects has been gathered, go to Fu Yaozi's Linlang Temple for information.",หลังจากตรวจสอบสถานการณ์ของทั้งสามสำนักแล้ว มุ่งหน้าไปยังวัดหลินหลางของฝูเหยาจื่อเพื่อดูสถานการณ์

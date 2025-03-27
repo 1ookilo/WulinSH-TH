@@ -628,7 +628,7 @@ School-1200_10_5,"Indeed, it's better to see once than hear a hundred times",ถ
 School-1200_10_6,It's really worth celebrating!,ช่างเหมาะแก่การฉลองนัก!
 School-1200_10_7,"I, {PlayerSurName}, have met all the escorts.",ข้า {PlayerSurName} ได้พบกับทุกคนแล้ว
 School-1200_10_8,"Brother {PlayerSurName}, since you have joined the escort agency, I need to show my sincerity.",น้องชาย{PlayerSurName} ในเมื่อท่านเข้าร่วมกับสำนักคุ้มภัยเรา ข้าก็คงต้องแสดงความจริงใจแก่ท่าน
-School-1200_10_9,"This is our escort agency's specially made <color=#c44b0e>Tiger Escort flag</color>!\nWith this escort flag, you can avoid a lot of harassment from unscrupulous night owls when you travel in the martial arts world.","นี่คือ <color=#c44b0e>ธงสำนักคุ้มภัยพยัคฆา</color> ที่จัดทำขึ้นพิเศษเพื่อสำนักคุ้มภัยพยัคฆาของเรา!\nด้วยธงคุ้มภัยนี้ เจ้าสามารถหลีกเลี่ยงการคุกคามจากเหล่าคนไร้ยางอายจำนวนมากได้ เมื่อเดินทางในยุทธภพ"
+School-1200_10_9,"This is our escort agency's specially made <color=#c44b0e>Tiger Escort flag</color>!\nWith this escort flag, you can avoid a lot of harassment from unscrupulous night owls when you travel in the martial arts world.","นี่คือ<color=#c44b0e>ธงสำนักคุ้มภัยพยัคฆา</color>ที่จัดทำขึ้นพิเศษเพื่อสำนักคุ้มภัยพยัคฆาของเรา!\nด้วยธงคุ้มภัยนี้ เจ้าสามารถหลีกเลี่ยงการคุกคามจากเหล่าคนไร้ยางอายจำนวนมากได้ เมื่อเดินทางในยุทธภพ"
 School-1200_10_10,"Thank you for the flag, Elite Escort.",ขอบคุณสำหรับธง ท่านหัวหน้าสำนักคุ้มภัย
 School-1200_10_11,I hope everyone will work together sincerely to continuously enhance the reputation of Tiger Escort in the martial arts world!,ข้าหวังว่าทุกคนจะทำงานร่วมมือกันอย่างจริงจังและจริงใจเพื่อเพิ่มชื่อเสียงของสำนักคุ้มภัยพยัคฆาในยุทธภพอย่างต่อเนื่อง!
 School-1200_10_12,Yes!,ขอรับ!
@@ -944,7 +944,7 @@ School-2140-3_18_1,"You guys can't handle Swallow Nest with this few people, the
 School-2140-4_1_1,"The wall behind this painting is a bit strange, it seems to be a stone door, I don't know what is hidden inside.",กำแพงด้านหลังภาพวาดนี้ดูแปลกๆนะ เหมือนจะเป็นประตูหิน ไม่รู้ว่าซ่อนอะไรไว้
 School-2140-4_2_1,"Now my machinery skills have been <color=#0574a8>mastered</color>, it can come in handy.",ในเมื่อตอนนี้ข้าเชี่ยวชาญวิชา <color=#0574a8>ค่ายกล</color> แล้ว เจ้านี่ก็ง่ายเพียงลัดนิ้วมือ
 School-2140-4_2_2,"The wall slowly rises, revealing a deep passage.",กำแพงเลื่อนขึ้นอย่างช้าๆ เผยให้เห็นทางเดินลึกเข้าไป
-School-2140-4_3_1,This <color=#0574a8>Swallow Nest secret chamber key</color> on me can come in handy.,นี่คือ <color=#0574a8>กุญแจห้องลับรังนกนางแอ่น</color> มันจะมีประโยชน์กับข้ามาก
+School-2140-4_3_1,This <color=#0574a8>Swallow Nest secret chamber key</color> on me can come in handy.,นี่คือ<color=#0574a8>กุญแจห้องลับรังนกนางแอ่น</color>มันจะมีประโยชน์กับข้ามาก
 School-2140-4_3_2,"The wall slowly rises, revealing a deep passage.",กำแพงเลื่อนขึ้นอย่างช้าๆ เผยให้เห็นทางเดินลึกเข้าไป
 School-2140-4_4_1,"I can't see anything now, maybe I need a key or practice my machinery skills, and come back to study it later.",ตอนนี้ข้ายังไม่สามารถพบอะไรได้. บางทีข้าอาจต้องใช้กุญแจหรือฝึกฝนทักษะด้านเครื่องจักร แล้วค่อยกลับมาศึกษาในภายหลัง
 Test-1010_talk,Spar,ประลอง
@@ -1895,7 +1895,7 @@ School-2010-B2_6_1,"If you can make my monkey listen to you, I'll believe you ha
 School-2010-B2_6_2,Squeak-squeak-squeak,เจี๊ยก-เจี๊ยก-เจี๊ยก
 School-2010-B2_6_3,"Wow! I've never seen a monkey so happy, did you really make it understand human language?!\nThis ability is really amazing, you must teach me quickly.","โอ้โห! ข้าไม่เคยเห็นเจ้าลิงมีความสุขขนาดนี้ เจ้าทำให้มันเข้าใจภาษามนุษย์ได้จริงๆ หรือ!\nความสามารถนี้น่าทึ่งมาก ท่านต้องสอนมันให้ข้าเร็วๆเลย"
 School-2010-B2_6_4,"It seems very powerful, I need to practice more.\nIf I can reach your level, this monkey can help me do more things.","ดูเหมือนมีพลังมาก ข้าต้องฝึกฝนให้มากกว่านี้\nถ้าข้าไปถึงระดับของเจ้าได้ ลิงตัวนี้สามารถช่วยข้าทำสิ่งต่างๆ ได้มากขึ้น"
-School-2010-B2_6_5,"Here is the <color=#c44b0e>Monkey wine</color> I promised you, please accept it.","นี่คือ <color=#c44b0e>สุราวานร</color> ตามสัญญา, โปรดรับมันไป"
+School-2010-B2_6_5,"Here is the <color=#c44b0e>Monkey wine</color> I promised you, please accept it.",นี่คือ<color=#c44b0e>สุราวานร</color>ตามสัญญา โปรดรับมันไป
 School-2010-B2_7_1,"You think I'm easy to bully?\nLet you know how powerful my monkey is!","เจ้าคิดว่าข้าจะยอมถูกรังแกง่ายๆ เหรอ?\nให้มันรู้ซะบ้างว่าลิงของข้าร้ายกาจขนาดไหน!"
 School-2010-B2_8_1,"You are powerful, here is the Monkey wine, don't bother me again.","เจ้าแข็งแกร่ง, นี่คือสุราวานร อย่ามารังควานข้าอีก"
 School-2010-B2_9_1,"Want to snatch my things, it's simply wishful thinking! Get out of here now!","อยากจะแย่งของของข้า, มันเป็นแค่ความคิดฟุ้งซ่าน! ออกไปจากที่นี่เดี๋ยวนี้!"
@@ -7316,7 +7316,7 @@ School-2160-6-1_talking,Three Sects,สามนิกาย
 School-2160-6-1_name_log_1,"Surrender Shifa Temple, Taoist Sect, Confucius Temple.","ทำให้ อารามซื่อฟา, สำนักเต๋า, วัดขงจื้อ ยอมแพ้"
 School-2160-6-1_name_log_2,"Destroy Shifa Temple, Taoist Sect, Confucius Temple.","ทำลาย อารามซื่อฟา, สำนักเต๋า, วัดขงจื้อ"
 School-2160-6-1_1_1,"{PlayerName}, now you help me do one last thing!",{PlayerName} ถึงเวลาที่เจ้าจะช่วยข้าเป็นครั้งสุดท้ายแล้ว!
-School-2160-6-1_1_2,"You're not going to let me provoke the three religions, are you?",ท่านไม่ได้คิดจะให้ข้าไปหาเรื่องสามนิกายใหญ่นั่นใช่ไหมนั่น?
+School-2160-6-1_1_2,"You're not going to let me provoke the three religions, are you?",ท่านไม่ได้คิดจะให้ข้าไปหาเรื่องสามสำนักใหญ่นั่นใช่ไหมนั่น?
 School-2160-6-1_1_3,"You can exterminate the Jiuli tribe, are you afraid of a few old guys in the Three Sects?",เจ้ากวาดล้างพวกเผ่าจิ่วลี่ได้ จะมากลัวพวกตาแก่ในสามสำนักนั่นไปทำไมกัน?
 School-2160-6-1_1_4,"Which head of the Three Sects is not a top-notch master, they are not comparable to that waste Miao Muli, aren't you sending me to death?",เจ้าสำนักทั้งสามต่างก็เป็นสุดยอดปรมาจารย์ทั้งนั้นจะเอาไปเทียบขยะแบบเมี้ยวมู่หลีได้ยังไง เจ้าจะส่งข้าไปตายรึยังไง
 School-2160-6-1_1_5,"Take the Melody House's internal power method and learn it, those old guys are nothing.",เอาตำราวรยุทธของตำหนักบทเพลงเล่มนี้ไป หากเจ้าสำเร็จมัน พวกตาเฒ่านั่นก็ไม่มีค่าอันใด
@@ -7337,7 +7337,7 @@ School-2160-6-1_4_2,"Perhaps these sect leaders didn't accept it in their hearts
 School-2160-6-1_4_3,"Now that Chu Kuangsheng has broken free from the prison, those who betrayed him, wait for him to come and settle the score with you!",ตอนนี้ฉู่กวงเฉิงแหกคุกออกมาแล้ว ใครที่ทรยศเขา ก็เตรียมรอให้เขามาบัญชีกับเจ้า!
 School-2160-6-1_5_1,"Zhong Yangzi, Hui Yuan, Cai Yuanchang...","ฉงหยางสื่อ, ฮุ่ยหยวน, ไช่หยวนฉาง..."
 School-2160-6-1_5_2,I will use the destruction of your three sects to commemorate the person you once admired the most...,ข้าจะใช้การล่มสลายของสามสำนักใหญ่ของพวกเจ้า มาเซ่นไหว้แด่ผู้ที่พวกเจ้าเคยเทิดทูนที่สุด...
-School-2160-6-1_5_3,"To commemorate Chu Kuangsheng, who once dominated the martial arts world and stood above the three sects!",บูชาผู้ที่เคยรุ่งโรจน์ โดดเด่นเหนือสามนิกายใหญ่ และครองตำแหน่งสูงสุดในยุทธภพ ฉู่กวงเฉิง!
+School-2160-6-1_5_3,"To commemorate Chu Kuangsheng, who once dominated the martial arts world and stood above the three sects!",บูชาผู้ที่เคยรุ่งโรจน์ โดดเด่นเหนือสามสำนักใหญ่ และครองตำแหน่งสูงสุดในยุทธภพ ฉู่กวงเฉิง!
 M20100-23_1_1,"Little Taoist from the Taoist Sect, please step aside for a word.",นักพรตน้อยจากสำนักเต๋าเชิญมาพูดคุยด้วยหน่อยเถิด
 M20100-23_1_2,What can I do for you two?,มีอะไรให้ข้าช่วยเหลือเจ้าสองคนได้บ้าง?
 M20100-23_1_3,"You Taoist Sect don't take our two factions seriously, not only often publicly defaming us, but also often seriously injuring our disciples under the name of sparring, today we must seek justice from you.",พวกเจ้าลัทธิเต๋านั่นไม่เคยสนใจใยดีพวกเราทั้งสองสำนักเลย ไม่เพียงแต่จะดูถูกพวกเราต่อหน้าคนอื่นบ่อยครั้ง ยังชอบอ้างว่าจะมาแลกเปลี่ยนวรยุทธ์แต่กลับทำร้ายศิษย์ของพวกเราจนบาดเจ็บสาหัส วันนี้เราจะมาเอาเรื่องเจ้าให้มันจบๆไป
@@ -7391,7 +7391,7 @@ M20100-23_15_2,"Seeing their anger, this doesn't seem to be a lie. I'll go to a 
 M20100-23_16_1,"Stinky Taoist priest, what's so great about your Taoist Sect? You dare to look down on Confucius Temple!",นักพรตเต๋าเหม็น สำนักเต๋าของเจ้ามีดีอะไรกัน? เจ้าถึงกล้ามาดูถูกวัดขงจื้อ!
 M20100-23_16_2,"You are restless and irritable, aren't you losing face for Confucius Temple?",ประสกใจร้อนและหงุดหงิด หรือประสกกลัวเสียหน้าแก่วัดขงจื้อ?
 M20100-23_16_3,"The bald monks of Shifa Temple should stop pretending to be good people here, you have caused us a lot of trouble!",พวกหลวงจีนหัวล้านแห่งอารามซื่อฟา ควรหยุดแสร้งทำเป็นเป็นคนดีที่นี่ได้แล้ว เจ้าสร้างปัญหาให้เรามากมาย!
-M20100-23_op_2_dialog,"It turns out that disciples from three sects had a dispute. It seems that they have grudges against each other, and it's hard to tell who's right and who's wrong...",ที่แท้เป็นศิษย์จากสามนิกายใหญ่ทะเลาะกันเอง ดูเหมือนพวกเขาจะมีความแค้นกัน และยากที่จะบอกได้ว่าใครถูกใครผิด...
+M20100-23_op_2_dialog,"It turns out that disciples from three sects had a dispute. It seems that they have grudges against each other, and it's hard to tell who's right and who's wrong...",ที่แท้เป็นศิษย์จากสามสำนักใหญ่ทะเลาะกันเอง ดูเหมือนพวกเขาจะมีความแค้นกัน และยากที่จะบอกได้ว่าใครถูกใครผิด...
 M20100-23_op_2_1,Step forward to mediate among the three! <color=#c44b0e>(Specific battle)</color>,ก้าวออกไปไกล่เกลี่ยระหว่างสามฝ่าย! <color=#c44b0e>(เข้าสู่การต่อสู้)</color>
 M20100-23_op_2_2,Just watch the changes.,รอดูว่าจะเกิดอะไรขึ้น
 M20100-23_17_1,{yell} Please stop!,{yell} ช้าก่อน! 
@@ -7426,7 +7426,7 @@ M20100-24_2_1,Have you heard? The people of Confucius Temple colluded with bandi
 M20100-24_2_2,"These two sects have always been at odds, won't this lead to a big fight?",สองสำนักนี้ก็บาดหมางกันอยู่แล้ว เรื่องนี้มิพาทำให้ฆ่าฟันกันเลยรึยังไง?
 M20100-24_2_3,"Isn't it? Taoist Sect couldn't stand against the joint forces of the other side and finally fled in disgrace, completely losing face for Taoist Sect.",ใช่ไหมล่ะ! สำนักเต๋าสู้พวกมันไม่ได้ สุดท้ายก็ต้องหนีหัวซุกหัวซุน เสียชื่อเสียงของสำนักเต๋าหมดรูปเลย
 M20100-24_3_1,It seems that there are people talking about the grudges of these martial arts sects. I'll go elsewhere to find out more.,ดูเหมือนจะมีคนพูดถึงเรื่องราวความขัดแย้งระหว่างสำนักต่างๆ ในยุทธภพจริงๆ คงต้องลองไปหาข้อมูลเพิ่มเติมจากที่อื่นดูอีกสักหน่อย
-M20100-24_4_1,"There are also people talking about the conflicts between the disciples of the three religions here, but why does the speaker seem familiar?",ที่นี่ก็มีคนพูดถึงความขัดแย้งระหว่างศิษย์ทั้งสามนิกายใหญ่เหมือนกัน แต่ทำไมรู้สึกว่าคนที่พูดเหมือนจะคุ้นๆนะ
+M20100-24_4_1,"There are also people talking about the conflicts between the disciples of the three religions here, but why does the speaker seem familiar?",ที่นี่ก็มีคนพูดถึงความขัดแย้งระหว่างศิษย์ทั้งสามสำนักใหญ่เหมือนกัน แต่ทำไมรู้สึกว่าคนที่พูดเหมือนจะคุ้นๆนะ
 M20100-24_5_1,The entanglements of these major sects are really unfathomable...,เรื่องราวความขัดแย้งและความแค้นของสำนักใหญ่เหล่านี้ ช่างซับซ้อนและลึกซึ้งยากหยั่งแท้จริง...
 M20100-24_6_1,No wonder I feel this person is familiar. The news of the discord between these sects was spread by him alone. It looks very strange!,ไม่แปลกใจเลย ข้ารู้สึกคุ้นหน้าคนๆ นี้ เขาเป็นคนเดียวกับคนที่กระจายข่าวลือเกี่ยวกับความขัดแย้งของสำนักต่างๆเมื่อกี้นี่นา ดูมีพิรุธน่าสงสัยจริงๆ!
 M20100-24_6_2,"While he's not far away, I'll follow him to see what's going on!",หมอนี่น่าจะยังไปได้ไม่ไกล ข้าน่าจะลองตามมันไปดูดีกว่า!
@@ -7447,14 +7447,14 @@ M20100-24_12_2,"You did a great job, I don't believe that with so many explosive
 M20100-24_12_3,"These news are half true and half false, do you think they will believe it?",ข่าวพวกนี้จริงครึ่งเท็จครึ่งๆ ท่านคิดว่าพวกมันจะเชื่อกันหรือขอรับ?
 M20100-24_12_4,"These righteous sects value their reputation the most. When they hear someone speaking ill of them, they will definitely defend themselves in every possible way, without calmly distinguishing the truth.",นิกายธรรมะพวกนี้เป็นห่วงหน้าตาตัวเองมาก ถ้าได้ยินใครพูดจาดูถูก พวกเขาจะต้องพยายามปกป้องตัวเองอย่างสุดความสามารถ ไม่มีทางใจเย็นลงเพื่อมาแยกแยะจริงเท็จได้
 M20100-24_12_5,"Moreover, the bystanders only care about the excitement, who cares about the truth? They will be more willing to add fuel to the fire.",ยิ่งไปกว่านั้น ชาวบ้านที่มามุง พวกนั้นมันสนใจแค่ว่าเรื่องราวจะใหญ่โตแค่ไหน ใครเล่าจะสนใจความจริง พวกมันจะยิ่งสนุกกับการใส่ถ่านให้ ไฟมันลามหนักกว่าเดิมเสียด้วยซ้ำ
-M20100-24_12_6,"Wait until the three sects start infighting, hehe...",เดี๋ยวไม่นานไอ้พวกสามนิกายใหญ่พวกนี้ก็แตกคอกัน ฮี่ฮี่ฮี่...
+M20100-24_12_6,"Wait until the three sects start infighting, hehe...",เดี๋ยวไม่นานไอ้พวกสามสำนักใหญ่พวกนี้ก็แตกคอกัน ฮี่ฮี่ฮี่...
 M20100-24_12_7,"Kid, you've eavesdropped long enough. You're really not afraid of death!",ไอ้หนู เจ้าแอบฟังมานานพอแล้ว สงสัยไม่กลัวตายสินะ!
 M20100-24_12_8,"Damn, I've been discovered!",เวรละ ข้าโดนเจอซะแล้ว!
 M20100-24_13_1,Isn't this the Taoist who gave me the Cold medicinal pill!,เจ้ามันนักพรตเต๋าที่ให้ยาสลายความชื้นกับข้านี่!
-M20100-24_14_1,"So it was you who stirred up trouble, aiming to cause internal strife among the three sects, and then conveniently reap the benefits!",เป็นเจ้านี่เองที่มาก่อปัญหา หวังให้สามนิกายใหญ่แตกคอกันแล้วเข้ามาฉวยผลประโยชน์!
+M20100-24_14_1,"So it was you who stirred up trouble, aiming to cause internal strife among the three sects, and then conveniently reap the benefits!",เป็นเจ้านี่เองที่มาก่อปัญหา หวังให้สามสำนักใหญ่แตกคอกันแล้วเข้ามาฉวยผลประโยชน์!
 M20100-24_14_2,"Since you know so much, I can't let you go!",ในเมื่อเจ้ารู้มากแบบนี้ ข้าก็คงต้องปิดปากเจ้าซะแล้ว!
 M20100-24_15_1,"Kid, I am Sun Daoren from the Nine Factions Sect, remember that! Those who offend the Nine Factions Sect never live long, you better watch out.",ไอ้หนู ข้า ซุนเต้าเหริน จากนิกายเก้าฝ่ายจะจำความแค้นนี้ไว้ มันผู้ใดบังอาจดูหมิ่นนิกายเก้าฝ่าย มันผู้นั้นไม่เคยอยู่นาน ระวังตัวให้ดีแล้วกัน
-M20100-24_15_2,Your exposure of the Nine Factions Sect's plot to incite the three sects has earned you high praise from the leaders of the three sects.,แผนการของนิกายเก้าฝ่ายที่จะยุยงสามนิกายใหญ่ถูกเจ้าเปิดเผย เหล่าผู้นำของสามนิกายใหญ่ต่างยกย่องเจ้าเป็นอย่างมาก
+M20100-24_15_2,Your exposure of the Nine Factions Sect's plot to incite the three sects has earned you high praise from the leaders of the three sects.,แผนการของนิกายเก้าฝ่ายที่จะยุยง สามสำนักใหญ่ถูกเจ้าเปิดเผย เหล่าผู้นำของสามสำนักใหญ่ต่างยกย่องเจ้าเป็นอย่างมาก
 M20201-4_name,The Disaster of Daliang,ภัยพิบัติแห่งต้าเหลียง
 M20201-4_talking,Clue,เบาะแส
 M20201-4_log_1,Find the patrol Constable in Daliang City to understand the situation.,ข้าควรจะไปลองถามเจ้าหน้าที่ ที่ประจำอยู่หน้าศาลาว่าการ เผื่อเข้าใจสถานการณ์มากขึ้น
@@ -8130,7 +8130,7 @@ Fame-20_1_3,"Hmph, with your fame today, you naturally wouldn't remember a nobod
 Fame-20_1_4,You seem to be the guy who planned to make a name for himself by challenging others.,ข้าคือคนที่มีแผนว่าจะท้าประลองกับผู้อื่นเพื่อสร้างชื่อให้โด่งดังไงเล่า
 Fame-20_1_5,"Hmph, I came today specifically to wash away the shame of that day!",ฮึ่ยยย วันนี้ข้าจะมาขอล้างอายในอดีต!
 Fame-20_1_6,"Since you've been watching me in secret, you must know that I'm not the same as before. You were defeated by me that day, what's different about you today?",ในเมื่อเจ้าก็แอบดูข้ามานาน งั้นเจ้าก็ต้องรู้อ่ะสิว่าข้าไม่ใช่คนเดิมแล้ว เจ้าแพ้ข้าในวันนั้นแล้ววันนี้จะไปต่างอะไรกัน?
-Fame-20_1_7,"I had a series of fortunate encounters in the <color=#c44b0e>Western Regions</color>, and was lucky enough to use the divine object <color=#c44b0e>Blood Jewel</color> to greatly increase my power, something you, a frog in a well, could never experience.",ข้าออกท่องไปยัง<color=#c44b0e>แดนตะวันตก</color>หลายครา และโชคดีได้พบของศักดิ์สิทธิ์ <color=#c44b0e>อัญมณีเลือด</color> ด้วยสิ่งนี้มันทำให้ข้าแข็งแกร่งขึ้นอย่างมหาศาล! พลังที่กบในกะลาอย่างเจ้าคงไม่มีวันได้สัมผัส
+Fame-20_1_7,"I had a series of fortunate encounters in the <color=#c44b0e>Western Regions</color>, and was lucky enough to use the divine object <color=#c44b0e>Blood Jewel</color> to greatly increase my power, something you, a frog in a well, could never experience.",ข้าออกท่องไปยัง<color=#c44b0e>แดนตะวันตก</color>หลายครา และโชคดีได้พบของศักดิ์สิทธิ์<color=#c44b0e>อัญมณีเลือด</color> ด้วยสิ่งนี้มันทำให้ข้าแข็งแกร่งขึ้นอย่างมหาศาล! พลังที่กบในกะลาอย่างเจ้าคงไม่มีวันได้สัมผัส
 Fame-20_1_8,Western Regions... Blood Jewel...,แดนตะวันตก... อัญมณีเลือด...
 Fame-20_1_9,Can you tell me how you got the Blood Jewel and how you went to the Western Regions?,เจ้าบอกได้ไหมว่าเจ้าไปเอาอัญมณีเลือดที่ว่ามาจากไหน แล้วเจ้าไปยังแดนตะวันตกได้ยังไง?
 Fame-20_1_10,"If you want to know this information, you have to defeat me first!",ถ้าอยากรู้ก็เอาชนะข้าให้ได้ก่อนแล้วกัน!
@@ -8139,7 +8139,7 @@ Fame-20_2_2,"Enough talk, I was just careless just now, let's have another match
 Fame-20_2_3,"You're no longer worthy to be my opponent, but you should really go to the Western Regions to broaden your horizons, so you don't remain ignorant of the world outside your well.",เจ้าไม่คู่ควรจะเป็นคู่ต่อสู้ของข้าอีกต่อไป เจ้าควรไปเปิดหูเปิดตาที่ แดนตะวันตก ก่อนแล้วกัน เจ้าจะได้ไม่เป็นไอ้กบในกะลาที่อยู่แต่ในกะลาแบบนี้
 Fame-20_2_4,"The Western Regions are to the west of the Zhongzhou Region, and you need to pass through the <color=#c44b0e>Jade Gate</color> to get there.",แดนตะวันตกอยู่ทางตะวันตกของเขตจงโจว หากเจ้าอยากไปต้องข้าม <color=#c44b0e>ด่านประตูหยก</color> ถึงจะไปได้
 Fame-20_2_5,"As for the Blood Jewel, don't get your hopes up, it's a special product of the Cold Skin Gang in the Western Regions, extremely rare and only available to the destined.",ส่วนอัญมณีเลือดนั้น ก็อย่าหวังสูงไปแล้วกัน มันเป็นของวิเศษจากพรรคมังสาเหมันต์ในแดนตะวันตก ค่อนข้าหายากและผู้ที่ชะตากำหนดไว้เท่านั้นถึงจะได้รับมัน
-Fame-20_3_1,"You don't seem to have made any progress, your proud journey to the Western Regions doesn't seem to have truly transformed you.",ดูเหมือนเจ้าก็ไม่ได้เก่งขึ้นสักเท่าไหร่นะ การเดินทางไปแดนตะวันตกอันน่าภูมิใจของเจ้าก็ไม่ได้ทำให้เจ้าเก่งขึ้นสิกกะติ๊ดเลยนี่
+Fame-20_3_1,"You don't seem to have made any progress, your proud journey to the Western Regions doesn't seem to have truly transformed you.",ดูเหมือนเจ้าก็ไม่ได้เก่งขึ้นสักเท่าไหร่นะ การเดินทางไปแดนตะวันตกอันน่าภูมิใจของเจ้าก็ไม่ได้ทำให้เจ้าเก่งขึ้นสักกะติ๊ดเลยนี่
 Fame-20_3_2,"Hmph, what do you know! If it weren't for my self-restraint, you would have been a ghost under my blade by now.",ฮึ่ม เจ้าจะไปรู้อะไร! ถ้าข้าไม่ออมมือให้เจ้าแล้วละก็ ตอนนี้เจ้าคงได้กลายเป็นวิญญาณใต้คมดาบข้าไปแล้ว!
 Fame-20_3_3,"Did you only learn to brag in the Western Regions? If you have the ability, show all your skills, don't hide your incompetence, I'll make you admit defeat.",เจ้าไปร่ำเรียนวรยุทธการใช้ปากมาจากแดนตะวันตกมาหรือยังไง? ถ้ามีฝีมือก็อวดผีมือมา ไม่ใช่มาอวดแต่ปากของเจ้า ถ้ายังไม่พอก็เข้ามาอีกที ข้าจะทำให้เจ้ายอมรับความพ่ายแพ้อย่างแท้จริง
 Fame-20_3_4,"Since you're seeking your own death, I'll let you see the true power of the Blood Jewel!",ในเมื่อเจ้ารนหาที่ตาย ข้าจะแสดงพลังที่แท้จริงของอัญมณีเลือดให้ดู!
