@@ -376,7 +376,7 @@
 1005_1_11,"Everyone's here today, could it be that they're here to welcome us?",วันนี้ทุกคนมาที่นี่ หรือว่าจะมาต้อนรับพวกเรา
 1005_1_12,Visitors are up to no good.,แขกผู้มาเยือนคงมิได้ประสงค์ดีแน่.
 1005_1_13,May I ask who you are?,ไม่ทราบว่าท่านเป็นใคร?
-1005_1_14,I am Tong Daofu from the Imperial City.,ข้าถงเต๋าฟู่จากเมืองหลวง.
+1005_1_14,I am Tong Daofu from the Imperial City.,ข้าถงเต๋าฟู่ จากจากกรมวังหลวง!
 1005_1_2,Let's fight them!,ลุยมันเลย!
 1005_1_3,Blue Wind Camp is insignificant and there's nothing to be afraid of.,ค่ายวายุครามนั้นไม่สำคัญ ไม่มีอะไรต้องกลัวหรอก
 1005_1_4,Swear to defend the Nameless village.,สาบานจะปกป้องหมู่บ้านไร้นาม
@@ -467,7 +467,7 @@
 1006_1_1,"What a grand occasion, could it be to welcome me?",ช่างเป็นการต้อนรับที่ยิ่งใหญ่อะไรขนาดนี้ หรือว่าพวกเจ้ากำลังต้อนรับข้าอยู่งั้นหรือ?
 1006_1_2,"Something happened outside, let's go and see.",ข้างนอกมีเรื่องอะไร ออกไปดูกันเถอะ
 1006_1_3,May I ask who you are?,ไม่ทราบว่าท่านเป็นใคร?
-1006_1_4,I am Tong Daofu from the Imperial City.,ข้าถงเต๋าฟู่จากเมืองหลวง.
+1006_1_4,I am Tong Daofu from the Imperial City.,ข้าถงเต๋าฟู่ จากจากกรมวังหลวง!
 1006_1_name,"A man with a sharp, thin voice.",ชายเสียงเล็กแหลม
 1006_2_1,Who doesn't know that the Imperial City Department only obeys the current emperor. Mr. Tong is second only to one person and above all others. It must be a big move to condescend to this remote small mountain village.,ใครไม่รู้บ้างว่ากรมวังหลวงฟังคำสั่งเพียงฮ่องเต้องค์ปัจจุบันเท่านั้น อาจกล่าวได้ใต้เท้าถง เป็นรองคนคนเดียวแต่อยู่เหนือคนนับหมื่น เขาจะต้องทำอะไรที่ยิ่งใหญ่แน่ๆ ถ้าเขายอมมาที่หมู่บ้านบนภูเขาอันห่างไกลแห่งนี้
 1006_2_2,"I didn't expect to find such a knowledgeable little girl here, which surprised me a bit.",ไม่คิดว่าจะได้พบเด็กหญิงมากความรู้เช่นท่านที่นี่ ทำให้ข้าตกใจอยู่เล็กน้อย
@@ -2446,7 +2446,7 @@ M20321-2_4_26,"Young Master Cai, are you here to represent Confucius Temple to c
 M20321-2_4_27,"What's the difference?\nEither way, whatever I say or do, you will attribute it to Confucius Temple.","มันมีอะไรแตกต่างกันอย่างนั้นหรือ?\nไม่ว่าข้าจะทำอะไร ทุกคนก็ย่อมจะคิดว่าเป็นการกระทำในนามของวัดขงจื้ออยู่ดี!"
 M20321-2_4_28,"But the famous <color=#c44b0e>Taoist Sect</color> only sent an unknown disciple to celebrate the birthday.\nIs this the intention of the Taoist Sect, or your own idea?","แต่ที่น่าสนใจก็คือ <color=#c44b0e>สำนักเต๋า</color> อันยิ่งใหญ่ กลับส่งเพียงศิษย์ที่ไร้ชื่อเสียงมาอวยพรวันเกิด\nท่านคิดว่านี่เป็นความตั้งใจของสำนัก หรือเป็นความคิดของตัวท่านเอง?"
 M20321-2_4_29,"This... It was my uncle who was invited to come, but... but he was delayed.\nIn order not to be rude, I temporarily took his place. It's really...","เอ่อ...เดิมทีเป็นอาจารย์อาของข้าที่ได้รับเชิญมา แต่...แต่เพราะมีเหตุขัดข้องบางประการ\nข้าจึงมาแทน เพื่อไม่ให้เสียมารยาท ข้าจึงนั่งอยู่ที่นี่แทนท่านอาจารย์อา เรื่องนี้มีเหตุผลอันสมควร…"
-M20321-2_4_3,"""The Chai family under my rule is loyal and has made great contributions, which pleases me greatly.\nI hereby grant the Chai family the hereditary title of king, so as not to fail the friendship between monarch and minister.""","ราชโองการ ""ตระกูลไฉภักดีต่อแผ่นดิน สร้างคุณความดีให้แผ่นดินหลายต่อหลายครั้ง ฝ่าบาททรงรู้สึกยินดียิ่ง\nจึงมีพระราชทานให้ตระกูลไฉได้รับบรรดาศักดิ์เป็นเจ้าผู้ครองนครสืบสกุลไปชั่วกาลนาน เพื่อเป็นการตอบแทนความภักดีระหว่างองค์ฮ่องเต้และข้าราชการ!"""
+M20321-2_4_3,"""The Chai family under my rule is loyal and has made great contributions, which pleases me greatly.\nI hereby grant the Chai family the hereditary title of king, so as not to fail the friendship between monarch and minister.""","ราชโองการ ""ตระกูลไฉภักดีต่อแผ่นดิน สร้างคุณความดีให้แผ่นดินหลายต่อหลายครั้ง ฝ่าบาททรงรู้สึกยินดียิ่ง\nจึงมีพระราชทานให้ตระกูลไฉได้รับบรรดาศักดิ์ เป็นเจ้าผู้ครองนครสืบสกุลไปชั่วกาลนาน เพื่อเป็นการตอบแทนความภักดีระหว่างองค์ฮ่องเต้และขุนนาง!"""
 M20321-2_4_30,"In that case, you have no say here,\nlet's wait for your uncle to arrive and hear his high opinion.","ในเมื่อเป็นเช่นนี้ ที่นี่ก็ไม่ใช่ที่ให้เจ้ามาออกความเห็น\nรอจนกว่าอาจารย์อาเจ้ามาถึงแล้วค่อยว่ากัน!"
 M20321-2_4_31,"The heart of evil grows, the heart of Tao fades",จิตมารยิ่งเพิ่มพูน จิตเต๋ายิ่งเลือนหาย…
 M20321-2_4_32,Sigh...,เฮ้อ...

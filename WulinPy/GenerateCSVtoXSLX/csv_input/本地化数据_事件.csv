@@ -109,7 +109,7 @@ M2072-2_overview,Go to the Sword Test Platform to see what the people from Great
 1004_options01_02,[Silence] Better not to draw attention,[เงียบไว้] ไม่เป็นจุดสนใจจะดีกว่า
 1004-A_name,Prepare for the battle,เตรียมตัวต่อสู้
 1004-A_overview,"The people from Blue Wind Camp threatened to trouble Nameless village in a day, need to improve strength as soon as possible",คนจากค่ายวายุครามขู่ว่า จะสร้างปัญหาให้กับหมู่บ้านไร้นาม จำเป็นต้องพัฒนาฝีมือโดยเร็วที่สุด
-1005_name,"Tong Daofu came to the village, he destroyed the village",ถงเต๋าฟู่ มาที่หมู่บ้าน เขาถล่มหมู่บ้านไปแล้ว
+1005_name,"Tong Daofu came to the village, he destroyed the village",ถงเต๋าฟู่ มาที่หมู่บ้าน เขาทำลายหมู่บ้านไปแล้ว
 1005_overview,
 1006_name,"Tong Daofu came to the village, he didn't destroy the village",ถงเต๋าฟู่ มาที่หมู่บ้าน เขาไม่ได้ทำอะไรกับหมู่บ้านเลย
 1006_overview,
@@ -661,7 +661,7 @@ M20300-21_npcname2,Young Taoist,นักพรตน้อย
 M20300-21option1_dialog,"Look at this stubborn kid, he's even more troublesome than his master.\nYoung man, we're destined to meet, can you help me out?","ดูเจ้าเด็กหัวรั้นคนนี้สิ น่ารำคาญกว่าอาจารย์ของมันซะอีก\nเจ้าหนุ่ม ไหนๆ ชะตานำพาให้ได้พบกันแล้ว เจ้าช่วยข้าหน่อยได้ไหม?"
 M20300-21option1_1,Is this bottle of wine to your taste?<color=#097a76>(Jiannan wine1 pot)</color>,เจ้าชอบสุราไหนี้ไหม?<color=#097a76>(สุราเจียนหนาน1 ไห)</color>
 M20300-21option1_2,"It's better to meet by chance than to invite, let me treat you today!<color=#097a76>(1000 Wen·one shichen)</color>","พบกันโดยบังเอิญดีกว่าถูกเชิญให้มาพบ, วันนี้ให้ข้าเลี้ยงเอง!<color=#097a76>(1,000 อีแปะ หนึ่งชั่วโมง)</color>"
-M20300-21option1_3,"It's hard for a clean official to settle domestic disputes, I can't interfere in your affairs.",เป็นเรื่องยากสำหรับข้าราชการที่เที่ยงธรรมที่จะจัดการกับข้อพิพาทภายในประเทศ แต่ข้าไม่สามารถควบคุมงานของท่านได้
+M20300-21option1_3,"It's hard for a clean official to settle domestic disputes, I can't interfere in your affairs.",แม้แต่ยอดคนผู้เที่ยงธรรม ยังยากจะตัดสินเรื่องในเรือนของพวกเจ้า ข้ามิกล้าเข้าไปตัดสินให้ผิดใจกัน
 M20300-21option2_dialog,"Kid, you're so eager to please me, what do you want?",เจ้าหนู เจ้ากระตือรือร้นที่จะทำให้ข้าพอใจมาก เจ้าต้องการอะไร?
 M20300-21option2_1,Give some martial arts tips.,ให้คำแนะนำวรยุทธบางอย่าง
 M20300-21option2_2,Request for martial arts stories.,ขอเรื่องราวเกี่ยวกับวรยุทธ
