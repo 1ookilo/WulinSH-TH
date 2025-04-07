@@ -752,7 +752,7 @@ R10136-17_6_1,"Total Annihilation, leave no troubles behind!",ถอนราก
 R10136-17_6_2,Ah———!!!,อ๊ากกกก—!!!
 R10136-17_6_3,"Without him going back to report, it will be much quieter on the road in the future.",ไม่มีมันกลับไปรายงานข่าว ต่อจากนี้คงเดินทางได้อย่างสบายใจขึ้นอีกมาก!
 R10136-17_6_4,Are you injured? Let's find a place to rest before we continue on our journey.,เจ้าบาดเจ็บหรือ? หาที่พักสักหน่อยก่อนเดินทางต่อเถอะ!
-R10136-17_6_5,"I just used the killer move Blissful Ascent and didn't control my strength well, there was some backlash, but it's not a big deal, don't worry.",เมื่อครู่ข้าใช้วิชา ‘สุขาวดีเหินหาว’ ออกไปเต็มกำลัง พลาดควบคุมพลังจนเกิดแรงสะท้อนกลับ แต่นับว่าเล็กน้อย ไม่ต้องห่วง!
+R10136-17_6_5,"I just used the killer move Blissful Ascent and didn't control my strength well, there was some backlash, but it's not a big deal, don't worry.","เมื่อครู่ข้าใช้วิชา ""สุขาวดีเหินหาว"" ออกไปเต็มกำลัง พลาดควบคุมพลังจนเกิดแรงสะท้อนกลับ แต่นับว่าเล็กน้อย ไม่ต้องห่วง!"
 R10136-18_1_1,"My father and the master of Langya Sword Pavilion, Jian Chi, were close friends. When I come to the territory of Wu Yue, it's my duty to pay him a visit.",บิดาข้าเคยเป็นสหายต่างวัยกับท่านเจ้าสำนักศาลากระบี่หลางหยา ผู้อาวุโสมารกระบี่ ในเมื่อข้าล่วงมาถึงเขตอู๋เยว่ ข้าย่อมต้องปฏิบัติตามธรรมเนียมของผู้น้อย เข้าไปคารวะตามมารยาท
 R10136-18_2_1,"Ji Fuling, the daughter of Ji Hanqing from Zhongzhou, pays her respects to Elder Jian Chi.",จี้ฝูหลิง บุตรีของจี๋ฮั่นชิงแห่งจงโจว คารวะผู้อาวุโสมารกระบี่
 R10136-18_2_2,"Oh, the girl from the Ji family has grown up so much. Ji brother is really blessed.",อ่า บุตรีตระกูลจี้โตขึ้นถึงเพียงนี้แล้วหรือนี่? น้องจี้ช่างโชคดีเสียจริง!
@@ -897,7 +897,7 @@ R10020-3_7_5,"The rich merchant from Persia killed the Troupe Leader and then fl
 R10020-3_7_6,"From what that guy said, the Troupe Leader should have died of illness?",จากที่เจ้าหมอนั่นพูดมา หัวหน้าคณะก็น่าจะป่วยตายมิใช่หรือ?
 R10020-3_7_7,"He did die of illness, but that guy threatened the Troupe Leader by buying up all the medicine in the medical hall, leaving the Troupe Leader without treatment...",ก็ใช่ แต่เจ้าคนสารเลวผู้นั้น กว้านซื้อยาในโรงหมอไปจนหมด เพื่อบีบบังคับหัวหน้าคณะ จนเขาหมดทางรักษา...
 R10020-3_7_8,Buying up all the medicine... this guy is really ruthless.,ซื้อยาไปหมดเกลี้ยง... ไอ้ชั่วนี่มันอำมหิตจริงๆ!
-R10020-3_7_9,"The Troupe Leader believed that the troupe was the result of everyone's hard work, not his alone, so he chose to die unyielding...",หัวหน้าคณะเห็นว่า คณะงิ้วเป็นหัวใจของพวกเราทุกคน มิใช่ของส่วนตัว เขาจึงยอมตายแต่ยอมก้มหัวให้...
+R10020-3_7_9,"The Troupe Leader believed that the troupe was the result of everyone's hard work, not his alone, so he chose to die unyielding...",หัวหน้าคณะเห็นว่า คณะงิ้วเป็นหัวใจของพวกเราทุกคน มิใช่ของส่วนตัว เขาจึงยอมตายแต่ไม่ยอมก้มหัวให้...
 R10020-3_7_10,But after the Troupe Leader died... after he died...,แต่หลังจากหัวหน้าคณะตายแล้ว... หลังจากเขาตายนั้น...
 R10020-3_7_11,Feng Xizi? What's wrong with you?,เฟิงซีสือ? เจ้าเป็นอะไรไป?
 R10020-3_7_12,"\n|(Opera Monologue) My lord? Where is this place? Am I dreaming?",(ร้องงิ้ว) นายท่าน? สถานที่แห่งนี้คือที่ใด? หรือว่าข้ากำลังฝันไปหรือ?
@@ -1058,7 +1058,7 @@ TMR-1_12_6,"At this time, we need someone with high prestige, who can rally the 
 TMR-1_12_7,"You're right, but where can we find such a person...",ท่านพูดถูก แต่จะไปหาคนเช่นนั้นจากที่ใดกัน...
 TMR-1_12_8,"Of course there is, and one is right in front of me!",แน่นอนว่ามี! และตอนนี้เขาก็อยู่ตรงหน้าข้านี่เอง!
 TMR-1_12_9,You mean...,ท่านหมายความว่า…
-TMR-1_12_10,"Of course I'm talking about Tie Mianren!\nNow, Tie Mianren's deeds of commanding the righteous martial arts factions to guard Chuxiang City are known to all, this task can only be entrusted to you!","บุรุษหน้ากากเหล็กแน่นอนว่าข้าหมายถึง ‘บุรุษหน้ากากเหล็ก’!\nตอนนี้เรื่องราวของบุรุษหน้ากากเหล็กที่นำชาวยุทธ์ปกป้องเมืองฉู่เซียง แพร่สะพัดไปทั่วแผ่นดิน ไม่มีใครไม่รู้จักเจ้า!"
+TMR-1_12_10,"Of course I'm talking about Tie Mianren!\nNow, Tie Mianren's deeds of commanding the righteous martial arts factions to guard Chuxiang City are known to all, this task can only be entrusted to you!","บุรุษหน้ากากเหล็กแน่นอนว่าข้าหมายถึง ""บุรุษหน้ากากเหล็ก""!\nตอนนี้เรื่องราวของบุรุษหน้ากากเหล็กที่นำชาวยุทธ์ปกป้องเมืองฉู่เซียง แพร่สะพัดไปทั่วแผ่นดิน ไม่มีใครไม่รู้จักเจ้า!"
 TMR-1_12_11,"I see, you want me to put on this Tie Mianren's clothes again to rescue Marshal Ye, is this my path?",ข้าเข้าใจแล้ว ท่านหมายให้ข้าสวมหน้ากากเหล็กอีกครั้ง ออกช่วยเหลือแม่ทัพเย่ นี่ก็คือหนทางสว่างของข้าใช่หรือไม่?
 TMR-1_13_1,"After Duke Kang ascended to the throne, he immediately arrested all the remaining troops of the Ye Family Battalion and imprisoned them in the Supreme Court, accusing them of ""gathering without permission and intending to rebel"".","หลังจากอ๋องคังขึ้นครองราชย์ไม่นาน ก็ออกคำสั่ง จับกุมเหล่าทหารที่เหลือของกองทัพตระกูลเย่ทั้งหมด และคุมขังในศาลต้าหลี่ ข้อหาคือ ""รวมกำลังพลโดยมิได้รับอนุญาต มีเจตนาก่อกบฏ"""
 TMR-1_13_2,"How is that possible, the remnants of the Ye Family Battalion were there to guard Chuxiang City, how could they be planning a rebellion!",เป็นไปไม่ได้! เหล่าทหารที่เหลือของกองทัพตระกูลเย่ ล้วนมีจุดมุ่งหมายในการปกป้องเมืองฉู่เซียง จะมีกบฏได้อย่างไร!
@@ -1068,7 +1068,7 @@ TMR-1_13_5,"At this time, we need someone with high prestige, who can rally the 
 TMR-1_13_6,"You're right, but where can we find such a person...",ท่านพูดถูก แต่จะไปหาคนเช่นนั้นจากที่ใดกัน...
 TMR-1_13_7,"Of course there is, and one is right in front of me!",แน่นอนว่ามี! และตอนนี้เขาก็อยู่ตรงหน้าข้านี่เอง!
 TMR-1_13_8,You mean...,ท่านหมายความว่า…
-TMR-1_13_9,"Of course I'm talking about Tie Mianren!\nNow, Tie Mianren's deeds of commanding the righteous martial arts factions to guard Chuxiang City are known to all, this task can only be entrusted to you!","บุรุษหน้ากากเหล็กแน่นอนว่าข้าหมายถึง ‘บุรุษหน้ากากเหล็ก’!\nตอนนี้เรื่องราวของบุรุษหน้ากากเหล็กที่นำชาวยุทธ์ปกป้องเมืองฉู่เซียง แพร่สะพัดไปทั่วแผ่นดิน ไม่มีใครไม่รู้จักเจ้า!"
+TMR-1_13_9,"Of course I'm talking about Tie Mianren!\nNow, Tie Mianren's deeds of commanding the righteous martial arts factions to guard Chuxiang City are known to all, this task can only be entrusted to you!","บุรุษหน้ากากเหล็กแน่นอนว่าข้าหมายถึง ""บุรุษหน้ากากเหล็ก""!\nตอนนี้เรื่องราวของบุรุษหน้ากากเหล็กที่นำชาวยุทธ์ปกป้องเมืองฉู่เซียง แพร่สะพัดไปทั่วแผ่นดิน ไม่มีใครไม่รู้จักเจ้า!"
 TMR-1_13_10,"I see, you want me to put on this Tie Mianren's clothes again to rescue Marshal Ye's troops, is this my path?",ข้าเข้าใจแล้ว ท่านคงต้องการให้ข้าใส่ชุดหน้ากากเหล็กอีกครั้ง เพื่อช่วยเหลือทหารของกองทัพตระกูลเย่ใช่หรือไม่?
 TMR-1_14_1,This is just the first step on your path! Our ultimate goal is to reorganize the Nine Factions Sect and get the Nine Factions Sect back on track!,นี่เป็นเพียงก้าวแรกของหนทางสว่างเท่านั้น! จุดประสงค์สุดท้ายของเราคือการฟื้นฟูนิกายเก้าฝ่าย ให้กลับสู่เส้นทางที่ถูกต้อง!
 TMR-1_14_2,Nine Factions Sect? Do you have relations with the Nine Factions Sect?,นิกายเก้าฝ่าย? ท่านกับนิกายเก้าฝ่ายยังมีความเกี่ยวข้องอยู่หรือ?

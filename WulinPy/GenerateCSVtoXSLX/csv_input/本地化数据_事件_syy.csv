@@ -4397,7 +4397,7 @@ Spe-2020-1_op_4_4,"Heart Sutra, progress {TagNum:多心经进度}%. <color=#097a
 Spe-2020-1_op_4_5,Do something else.,ทำอย่างอื่นกันดีกว่า
 Spe-2020-1_op_4_6,Free activity.,กิจกรรมอิสระ
 Spe-2020-1_11_1,"Finally finished reading the Buddhist Medical Scripture, it was indeed very enlightening!",ในที่สุดก็ท่องคัมภีร์ฉันทศาสตร์จบแล้ว มันช่างกระจ่างแจ้งจริงๆ!
-Spe-2020-1_12_1,"Finally finished reading the Diamond Sutra, it was indeed very enlightening!",ในที่สุดก็ท่องคัมภัร์วัชรปรัชญาปารมิตาสูตรจบแล้ว มันช่างกระจ่างแจ้งจริงๆ!
+Spe-2020-1_12_1,"Finally finished reading the Diamond Sutra, it was indeed very enlightening!",ในที่สุดก็ท่องคัมภีร์วัชรปรัชญาปารมิตาสูตรจบแล้ว มันช่างกระจ่างแจ้งจริงๆ!
 Spe-2020-1_13_1,"Finally finished reading the Lotus Sutra, it was indeed very enlightening!",ในที่สุดก็ท่องคัมภีร์สัทธรรมปุณฑริกสูตรจบแล้ว มันมีช่วยให้รู้แจ้งมากจริงๆ!
 Spe-2020-1_14_1,"Finally finished reading the Heart Sutra, it was indeed very enlightening!",ในที่สุดก็ท่องคัมภีร์ปรัชญาปารมิตาหฤทัยสูตรจบแล้ว มันมีช่วยให้รู้แจ้งมากจริงๆ!
 Spe-2020-1_op_5_1,"Temple rules, progress {TagNum:释门戒律进度}%. <color=#097a76>(2 shichen, 25 Stamina)</color>","กฎของวัด, ความคืบหน้า {TagNum:释门戒律进度}%.<color=#097a76>(ใช้ 2 ชั่วยาม, 25 แรงกาย)</color>"
@@ -8310,11 +8310,11 @@ M2227-0_1_10,What if I refuse to pay?,แล้วถ้าข้าไม่ย
 M2227-0_1_11,"It's up to you, the innkeeper said if you don't pay, he'll dismantle the doors and windows at night, let you blow a night of wind and sand; when he cooks for you, he'll add extra ingredients, it won't kill you, but it definitely won't let you have a good time.",แล้วแต่เจ้า เถ้าแก่เนี้ยบอกว่าถ้าเจ้าไม่จ่าย ตกค่ำจะรื้อประตูหน้าต่างออก ปล่อยให้เจ้าโดนลมกับทรายทั้งคืน ตอนทำอาหารให้ก็จะเติมเครื่องพิเศษไปสักนิด ไม่ถึงตายหร้อก แต่รับรองว่าไม่สบายแน่
 M2227-0_1_12,Your innkeeper is really mercantile.,เถ้าแก่เนี้ยของพวกเจ้าช่างเป็นนักธุรกิจที่เก่งกาจจริงๆ
 M2227-0_2_1,"Here you go, twenty-one coins, not one coin less! I'll go to the innkeeper for an explanation later.",เอ้า ยี่สิบตำลึงกับอีกหนึ่งอีแปะ ไม่ขาดแม้แต่อีแปะเดียว! เดี๋ยวข้าจะไปเอาเรื่องกับเถ้าแก่เนี้ยเอง
-M2227-0_2_2,"Thank you for your patronage, you can call me Old Hunchback in the future.",ขอบคุณสำหรับความกรุณา ต่อไปท่านเรียกข้าว่า ‘ตาแก่หลังค่อม’ ก็พอ
+M2227-0_2_2,"Thank you for your patronage, you can call me Old Hunchback in the future.","ขอบคุณสำหรับความกรุณา ต่อไปท่านเรียกข้าว่า ""ตาแก่หลังค่อม"" ก็พอ"
 M2227-0_3_1,I can't even make up twenty coins.,ข้าก็หาเงินมาไม่ถึงยี่สิบตำลึง
 M2227-0_3_2,"The innkeeper expected this, and ordered you to hand over all your money and he won't bother you. The innkeeper is really a big-hearted Bodhisattva.",เถ้าแก่เนี๊ยเดาไว้แล้วว่าจะเป็นเช่นนี้ จึงสั่งให้เจ้ายอมมอบเงินทั้งหมดมา แล้วจะไม่รบกวนเจ้าอีก เถ้าแก่เนี๊ยช่างเป็นผู้มีเมตตาสูงจริงๆ
 M2227-0_3_3,"This is all I have, not a penny more.",นี่คือทั้งหมดของข้า ไม่มีเหลือแล้วแม้แต่แดงเดียว
-M2227-0_3_4,"Thank you for your patronage, you can call me Old Hunchback in the future.",ขอบคุณสำหรับความกรุณา ต่อไปท่านเรียกข้าว่า ‘ตาแก่หลังค่อม’ ก็พอ
+M2227-0_3_4,"Thank you for your patronage, you can call me Old Hunchback in the future.","ขอบคุณสำหรับความกรุณา ต่อไปท่านเรียกข้าว่า ""ตาแก่หลังค่อม"" ก็พอ"
 Kill-2230_1_1,"I've seen countless people, and you're the first one to dare to talk big in front of me. Do you have the guts to repeat what you just said?",ข้าพบเจอคนมากมาย เจ้าคือคนแรกที่กล้าพูดอวดดีต่อหน้าข้า เจ้ามีความกล้าหาญดีนี่ ไหนเจ้าจะพูดคำพูดเมื่อครู่ซ้ำอีกครั้งได้หรือไม่?
 Kill-2230_op_1_1,Destroy the Divine Flame Sect ! <color=#c44b0e>(Start the war directly)</color>,กำจัดนิกายเพลิงศักดิ์สิทธิ์! <color=#c44b0e> (เปิดศึกทันที) </color>
 Kill-2230_op_1_2,"Nonsense, don't take it seriously.",แค่พูดเล่นเท่านั้น อย่าได้จริงจังไป
