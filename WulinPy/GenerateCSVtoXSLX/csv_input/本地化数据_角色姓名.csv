@@ -998,10 +998,10 @@ CharaTitle_新九流门,New Nine Factions Sect,นิกายเก้าฝ่
 CharaTitle_龙翔镖局,Dragon Soaring Escort Agency,สำนักคุ้มภัยมังกรทะยาน
 CharaTitle_玄武镖局,Black Tortoise Escort Agency,สำนักคุ้มภัยเต่าดำ
 CharaTitle_鹰扬镖局,Eagle Soaring Escort Agency,สำนักคุ้มภัยหงส์แดง
-CharaTitle_书院,Calligraphy School,สำนักศึกษา
+CharaTitle_书院,Calligraphy School,บัณฑิตสถาน
 CharaTitle_画院,Painting School,หอจิตรกรรม
-CharaTitle_棋院,Go School,โรงเรียนหมากล้อม
-CharaTitle_琴院,Qin School,โรงเรียนฉิน
+CharaTitle_棋院,Go School,หอหมากล้อม
+CharaTitle_琴院,Qin School,ตำหนักฉิน
 CharaName_小寡妇,Little Widow,แม่ม่ายตัวน้อย
 CharaName_霸气孤傲的中年人,Proud middle-aged man,ชายวัยกลางคนผู้ภาคภูมิ
 CharaName_戴着面具的捕头,Masked constable,มือปราบสวมหน้ากาก
@@ -1018,21 +1018,21 @@ CharaName_追风,Wind Chaser,ล่าวายุ
 CharaName_寅将军,Tiger General,แม่ทัพพยัคฆ์
 CharaName_熊力士,Bear Warrior,นักรบหมี
 CharaName_狼护法,Wolf Guardian,ผู้พิทักษ์หมาป่า
-CharaName_猿先锋,Ape Herald,บิดาแห่งลิง
+CharaName_猿先锋,Ape Herald,พญาวานร
 CharaName_玄霜元帅,Black Frost Marshal,แม่ทัพเหมันต์ทมิฬ
 CharaName_老虎,Tiger,เสือ
 CharaName_狼,Wolf,หมาป่า
 CharaName_富家公子,Rich Young Master,นายน้อยผู้ร่ำรวย
 CharaName_白衣公子,White clothed young master,นายน้อยชุดขาว
 CharaName_西域富商,Western Regions merchants,พ่อค้าแดนตะวันตก
-CharaName_新晋举人,Newly appointed jinshi,พึ่งได้เป็นบัณฑิตจิ้นซื่อ
+CharaName_新晋举人,Newly appointed jinshi,บัณฑิตจิ้นซื่อหน้าใหม่
 CharaName_咳嗽不止的中年人,Middle-aged person coughing,ชายวัยกลางคนที่ไอค่อกแค่ก
 CharaName_脚步虚浮的老人,A wobbling old man,ชายชราขาอ่อนแรง
 CharaName_邋遢的乞丐,Slovenly beggar,ขอทานสกปรก
 CharaName_跛脚的妇人,A lame woman,สตรีขาไม่ดี
 CharaName_面色惨白的女子,Pale-faced woman,สตรีหน้าซีด
 CharaName_受伤的樵夫,Injured Woodcutter,คนตัดฟืนผู้บาดเจ็บ
-CharaName_穿着棉袄的壮汉,Strong man in a coat of cotton,ชายแข็งแรงชุดฝ้าย
+CharaName_穿着棉袄的壮汉,Strong man in a coat of cotton,ยักษ์ใหญ่ในชุดฝ้าย
 CharaName_盗猎者,Poacher,พวกลักลอบล่าสัตว์
 CharaName_雪山居民,Snow mountain resident,ผู้อาศัยในหุบเขาหิมะ
 CharaName_满脸横肉的胖子,Fat Men,ชายอ้วนหน้ากลม
@@ -1043,7 +1043,7 @@ CharaName_尖嘴猴腮的逃兵,A monkey-faced deserter,ทหารหนีท
 CharaName_阴险毒辣的老头,A sinister and vicious old man,ชายชราเจ้าเล่ห์ผู้ร้ายกาจ
 CharaName_面目可憎的乞丐,A repulsive beggar,ขอทานน่ารังเกียจ
 CharaName_面色阴沉的土夫子,A gloomy-faced peasant,ชาวนาหน้าหม่น
-CharaName_不怀好意的道人,A malicious Taoist,นักพรเต๋าเจ้าเล่ห์
+CharaName_不怀好意的道人,A malicious Taoist,นักพรตเต๋าเจ้าเล่ห์
 CharaName_贪色无厌的燕兵,A lustful Yan soldier,ทหารเยี่ยนหื่นกาม
 CharaName_静安,Jing'an,จิ้งอัน
 CharaName_书狂,Shu Kuang,ซูกวง
@@ -1079,7 +1079,7 @@ CharaName_凌梦蝶,Ling Mengdie,หลิงเมิ่งเตี๋ย
 CharaName_邪戏子,Xie Xizi,เซี่ยซีสือ
 CharaName_完颜昭宁,Wanyan Zhaoning,หวันเหยียนจ้าวหนิง
 CharaName_庖春秋,Pao Chunqiu,เปาชุนชิว
-CharaName_叶云,Ye Yun,เย่หยุน
+CharaName_叶云,Ye Yun,เย่หวิน
 CharaName_完颜亮,Wanyan Liang,หวันเหยียนเหลียง
 CharaName_萧元霸,Xiao Yuanba,เสี่ยวหยวนป้า
 CharaName_诸葛神机,Zhuge Shenji,จูเก๋อเสินจี
@@ -1190,7 +1190,7 @@ CharaName_苍老的声音,Old Voice,เสียงชรา
 CharaName_柳月樱,Liu Yueying,หลิวเยว่อิง
 CharaName_白衣服的青年,Young man in white,ชายหนุ่มชุดขาว
 CharaName_燕云铁军·百夫长,Yan Yun Iron Army·Centurion,กองทัพเหล็กเยี่ยนหยุน·นายกอง
-CharaName_伪装成燕军士兵的人,People disguised as Yan soldiers,ผู้คนปลอมตัวเป็นทหารเยี่ยน
+CharaName_伪装成燕军士兵的人,People disguised as Yan soldiers,ผู้แฝงกายเป็นทหารเยี่ยน
 CharaName_粉衣少女,Girl in pink,สตรีชุดชมพู
 CharaName_走丢的小孩,Lost child,เด็กหลงทาง
 CharaName_焦急的少妇,Worried woman,หญิงสาวขี้กังวล
@@ -1226,19 +1226,19 @@ CharaName_莫远,Mo Yuan,โม่หยวน
 CharaName_陆沉轩,Shen Chenxuan,ลู่เฉินซวน
 CharaName_韩子都,Han Zidu,หานจื่อตู
 CharaName_春杏,Chun Xing,ชุนซิ่ง
-CharaName_岸芷,An Zhi,อั๋น จื่อ 
+CharaName_岸芷,An Zhi,อั๋นจื่อ 
 CharaName_傅断云,Fu Duanyun,ฟู่ต้วนหยุน
 CharaName_王虎,Wang Hu,หวังหู่
 CharaName_田武,Tian Wu,เถียนอู่
 CharaName_魏如松,Wei Rusong,เหว่ยหรูซง
-CharaName_船底虱,Chuan Dishi,ชวน ตี้ซือ
+CharaName_船底虱,Chuan Dishi,ชวนตี้ซือ
 CharaName_韩安仁,Han Anren,หานอันเหริน
 CharaName_踏风,Ta Feng,ต้าเฟิง
 CharaName_丹宸,Dan Chen,ต้านเฉิน
 CharaName_班主,Troupe Leader,หัวหน้าคณะ
 CharaName_戏班成员,Troupe Member,สมาชิกคณะ
 CharaName_工人,Laborer,แรงงาน
-CharaName_舞女,Dancing Girl,สาวนักเต้น
+CharaName_舞女,Dancing Girl,นางรำ
 CharaName_杨明,Yang Ming,หยางหมิง
 CharaName_富户,Rich Merchant,คหบดี
 CharaName_看庙奶奶,Temple Watcher Granny,ป้าเฒ่าผู้เฝ้าอาราม
