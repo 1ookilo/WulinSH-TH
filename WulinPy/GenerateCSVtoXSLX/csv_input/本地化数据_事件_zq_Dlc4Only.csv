@@ -1,0 +1,98 @@
+﻿﻿Talking_Carp,Carp,ปลาคาร์ป
+Fame-35_name,Sword Duel Convention,งานชุมนุมวิจารณ์กระบี่
+Fame-35_overview,Go to the Wuyue Region's Sword Discussion Platform to participate in the Sword Discussion Conference.,มุ่งสู่ลานวิจารณ์กระบี่ในเขตอู๋เยว่ เพื่อร่วมงานชุมนุมวิจารณ์กระบี่
+Fame-35_option1_1,Participate! <color=#c44b0e>(Unable to run away for a while)</color>,เข้าร่วม! <color=#c44b0e>(จะไม่สามารถออกมาได้ระยะหนึ่ง)</color>
+Fame-35_option1_2,"Participate! <color=#c44b0e>(Unable to run away for a while, specific partners leave the team)</color>","เข้าร่วม! <color=#c44b0e>(จะไม่สามารถออกมาได้ระยะหนึ่ง, สหายบางคนจะแยกตัวออกจากกลุ่ม)</color>"
+Fame-35_option1_3,Not participating for now.,ยังไม่เข้าร่วมในยามนี้
+Fame-35_NPCname,Young Man's Voice,เสียงของชายหนุ่ม
+M5069-1_option1_1,"Let him go, let him run away.",ปล่อยไป ปล่อยให้มันหนีไป!
+M5069-1_option1_2,Let him leave his wealth behind as a lesson.,ปล่อยให้มันไป แต่ต้องทิ้งทรัพย์สมบัติไว้เป็นค่าตักเตือน!
+M5069-1_option1_3,"Can't just let him go, need to teach him a lesson! <color=#c44b0e>(Protagonist solo fight)</color>","ปล่อยไปง่าย ๆ ไม่ได้ ต้องสั่งสอนให้รู้สำนึก!"" <color=#c44b0e>(ตัวเอกต่อสู้คนเดียว)</color>"
+M5012-1_option1_1,Send <color=#0574a8>{TeamerName:1}</color> to fight.,ส่ง <color=#0574a8>{TeamerName:1}</color> ไปประมือ
+M5012-1_option1_2,Send <color=#0574a8>{TeamerName:2}</color> to fight.,ส่ง <color=#0574a8>{TeamerName:2}</color> ไปประมือ
+M5012-1_option1_3,Send <color=#0574a8>{TeamerName:3}</color> to fight.,ส่ง <color=#0574a8>{TeamerName:3}</color> ไปประมือ
+M5012-1_option1_4,Send <color=#0574a8>{TeamerName:4}</color> to fight.,ส่ง <color=#0574a8>{TeamerName:4}</color> ไปประมือ
+M5012-1_option1_5,Send <color=#0574a8>{TeamerName:5}</color> to fight.,ส่ง <color=#0574a8>{TeamerName:5}</color> ไปประมือ
+M5012-1_option1_6,Do not fight.,ไม่รับคำท้า
+PLD-1_name,Three Sects are under attack,สามสำนักใหญ่ถูกโจมตี
+PLD-1_overview1,"Go to Confucius Temple, Shifa Temple and Taoist Sect for information.",เดินทางไปยัง วัดขงจื๊อ อารามซื่อฟา และ สำนักเต๋า เพื่อตรวจสอบสถานการณ์
+PLD-1_overview2,"Go to Confucius Temple, Shifa Temple for information.",เดินทางไปยัง วัดขงจื๊อ อารามซื่อฟา เพื่อตรวจสอบสถานการณ์
+PLD-1_overview3,"Go to Confucius Temple, Taoist Sect for information.",เดินทางไปยัง วัดขงจื๊อ สำนักเต๋า เพื่อตรวจสอบสถานการณ์
+PLD-1_overview4,Go to Confucius Temple for information.,เดินทางไปยัง วัดขงจื๊อ เพื่อตรวจสอบสถานการณ์
+PLD-1_overview5,"Go to Taoist Sect, Shifa Temple for information.",เดินทางไปยัง สำนักเต๋า อารามซื่อฟา เพื่อตรวจสอบสถานการณ์
+PLD-1_overview6,Go to Taoist Sect for information.,เดินทางไปยัง สำนักเต๋า เพื่อตรวจสอบสถานการณ์
+PLD-1_overview7,Go to Shifa Temple for information.,เดินทางไปยัง อารามซื่อฟา เพื่อตรวจสอบสถานการณ์
+PLD-1_overview8,"Information on all three sects has been gathered, go to Fu Yaozi's Linlang Temple for information.",หลังจากตรวจสอบสถานการณ์ของทั้งสามสำนักแล้ว มุ่งหน้าไปยังวัดหลินหลางของฝูเหยาจื่อเพื่อดูสถานการณ์
+PLD-1-1_name,Shifa Temple is under attack,อารามซื่อฟาถูกโจมตี
+PLD-1-1_overview1,"The Shifa Temple Scripture Tower was robbed, and Zhan Xiongfei is investigating inside. Go and meet him.",หอคัมภีร์อารามซื่อฟาถูกปล้น และ จ้านสงเฟยกำลังตรวจสอบอยู่ข้างใน เข้าไปพบเขา
+PLD-1-1_overview2,Go to Shifa Temple·Hall of Great Strength to find Hui Yuan for information.,เดินทางไปยัง อารามซื่อฟา·หอแห่งความยิ่งใหญ่ เพื่อพบกับฮุ่ยหยวนและสอบถามสถานการณ์
+PLD-1-2_option1_1,Leave now.,ออกจากที่นี่
+PLD-1-2_option1_2,"Help the old man clean the statue.<color=#097a76>(1 shichen, Stamina 20)</color>","ช่วยผู้อาวุโสทำความสะอาดรูปปั้น <color=#097a76>ใช้เวลา 1 ชั่วยาม, 20 แรงกาย</color>"
+PLD-1-3_name,Taoist Sect is under attack,สำนักเต๋าถูกโจมตี
+PLD-1-3_overview1,Visit Zhong Yangzi.,เข้าพบ ฉงหยางสื่อ
+PLD-2_NPCname,Fu Yaozi's voice,เสียงของฝูเหยาจื่อ
+PLD-3_name,Ask for directions to Penglai,สอบถามเส้นทางไปยังเกาะเผิงไหล
+PLD-3_overview1,Go to Langya Sword Pavilion to ask Jian Chi about how to get to Penglai Island.,เดินทางไปยังศาลากระบี่หลางหยา เพื่อสอบถามมารกระบี่เกี่ยวกับวิธีไปยังเกาะเผิงไหล
+PLD-3_overview2,Go to Lin'an City Pier to ask about how to get to Penglai.,เดินทางไปยังท่าเรือหลินอัน เพื่อสอบถามวิธีไปยังเกาะเผิงไหล
+PLD-3_overview3,Go to Exquisite Pavilion to inquire about Boss Qian's news.,เดินทางไปยังศาลาประณีต เพื่อสอบถามข่าวของเจ้าสัวเฉียน
+PLD-3_overview4,Boss Qian might be at Wine God Tower.,เจ้าสัวเฉียนอาจจะอยู่ที่หอคอยเทพสุรา
+PLD-3_overview5,"The clue is broken, Boss Qian must be in Lin'an City, search every corner of Lin'an City.",เบาะแสขาดหายไปแล้ว เจ้าสัวเฉียนต้องอยู่ในเมืองหลินอันแน่ ค้นหาทุกซอกทุกมุมของเมืองหลินอัน
+PLD-3_overview6,"Try to gather 100 Guan to get a chance to board the ship, or...","พยายามรวบรวมเงินให้ครบ 100 ตำลึง เพื่อแลกโอกาสในการขึ้นเรือ, หรือ..."
+PLD-3_overview7,Go to the vicinity of Lin'an City Pier when you are ready to set off.,เมื่อท่านพร้อมออกเดินทางแล้ว ให้ไปยังบริเวณท่าเรือเมืองหลินอัน
+PLD-3_overview8,"Go to Lin'an City Wine God Tower, find Qian Yankai who can go to Penglai Island.",ไปยังหอคอยเทพสุราในเมืองหลินอัน ค้นหาเฉียนเหยียนไค ผู้ที่สามารถเดินเรือไปยังเกาะเผิงไหลได้
+PLD-3_NPCname,Jian Chi's voice,เสียงของมารกระบี่
+R400008-2_option1_1,"Two guan is not much for me, here you go.<color=#097a76>(2000 Coin)</color>","สองตำลึงสำหรับข้าแล้วไม่มากนัก, รับไปสิ<color=#097a76>(2000 อีแปะ)</color>"
+R400008-2_option1_2,"I'll be coming often, can you give me a discount?<color=#097a76>(1000 Coin, Persuade reaches 4th level Expert)</color>","ข้าจะมาที่นี่บ่อยๆ คิดราคาข้าถูกๆหน่อยเถิด <color=#097a76>(1000 อีแปะ, ทักษะโน้มน้าวถึงระดับ 4)</color>"
+R400008-2_option1_3,Why don't you find out who I am?<color=#097a76>(Benevolence＜-20)</color>,เจ้าไม่ลองไปสืบดูหน่อยหรือว่าข้าเป็นใคร <color=#097a76>(ศีลธรรม＜-20)</color>
+R400008-2_option1_4,Talk about it later.,ไว้ค่อยคุยกันทีหลัง
+R400008-3_option1_1,Pay 100 guan to board the ship.<color=#097a76>(100 guan)</color>,จ่ายเงิน 100 ตำลึงเพื่อขึ้นเรือ <color=#097a76>(100 ตำลึง)</color>
+R400008-3_option1_2,Use force to threaten!<color=#097a76>(Benevolence≤-50)</color>,ใช้กำลังขู่เข็ญ!<color=#097a76>(ศีลธรรม≤-50)</color>
+R400008-3_option1_3,Try to persuade him to lower the price.<color=#097a76>(Persuade reaches 4th level Expert)</color>,พยายามเจรจาต่อรองให้ลดราคาลง <color=#097a76>(ทักษะโน้มน้าวถึงระดับ 4)</color>
+R400008-3_option1_4,Let Shen Wuqi handle it.<color=#097a76>(Shen Wuqi is in the team)</color>,ให้ เสิ่นอู๋ฉี ออกหน้าแทน <color=#097a76>(เสิ่นอู๋ฉีอยู่ในทีม)</color>
+R400008-3_option1_5,Let Yan Rurui handle it.<color=#097a76>(Yan Rurui is in the team)</color>,ให้ เหยียนหรูรุ่ย ออกหน้าแทน <color=#097a76>(เหยียนหรูรุ่ยอยู่ในทีม)</color>
+R400008-3_option1_6,Declare your identity as the Royal son-in-law.,ประกาศตัวตนว่าเป็นราชบุตรเขย
+R400008-3_option1_7,Think of another way.,คิดหาหนทางอื่น
+R400008-3-1_option1_1,Give him a Golden carp.<color=#097a76>(Golden carp 1)</color>,ให้ปลาคาร์ปทองคำแก่เขา <color=#097a76>(ปลาคาร์ปทองคำ 1ตัว)</color>
+R400008-3-1_option1_2,"Poison the Golden carp before giving it to him.<color=#097a76>(Golden carp 1, Toxicology≥50)</color>","ใส่ยาพิษลงในปลาคาร์ปทองคำแล้วค่อยให้เขา <color=#097a76>(ปลาคาร์ปทองคำ 1ตัว, ศาสตร์พิษ≥50)</color>"
+R400008-3-1_option1_3,Wait a bit longer.,รออีกสักหน่อย
+R400008-3-1_option1_4,Give him five Golden carp. <color=#097a76>(Golden carp 5)</color>,ให้ปลาคาร์ปทองคำแก่เขา 5 ตัว <color=#097a76>(ปลาคาร์ปทองคำ 5 ตัว)</color>
+R400008-3-1_option1_5,Give him ten Golden carp. <color=#097a76>(Golden carp 10)</color>,ให้ปลาคาร์ปทองคำแก่เขา 10 ตัว <color=#097a76>(ปลาคาร์ปทองคำ 10 ตัว)</color>
+PLD-4_option1_1,Set off! <color=#c44b0e>(Unable to return to Central Plains for a while)</color>,ออกเดินทาง! <color=#c44b0e>(ไม่สามารถกลับมายังจงหยวนได้ในชั่วระยะเวลาหนึ่ง)</color>
+PLD-4_option1_2,"Set off! <color=#c44b0e>(Some Sect Leaders leave the team, unable to return to Central Plains for a while)</color>","ออกเดินทาง! <color=#c44b0e>(ประมุขสำนักบางคนออกจากทีม, ไม่สามารถกลับมายังจงหยวนได้ในชั่วระยะเวลาหนึ่ง)</color>"
+PLD-4_option1_3,Wait a bit longer.,รออีกสักหน่อย
+PLD-4_NPCname1,A familiar voice,เสียงที่คุ้นเคย
+PLD-4_NPCname2,A young voice,เสียงอ่อนเยาว์
+PLD-5_name,On the Merchant ship,บนเรือสำเภา
+PLD-5_overview1,"Take a stroll on the ship or kill time, the time left to reach Penglai Island is:","เดินเล่นบนเรือหรือหาอะไรทำฆ่าเวลา, ระยะเวลาที่เหลือก่อนจะถึงเกาะเผิงไหล คือ:"
+M2321-1_option1_1,Knock on the door.,เคาะประตู
+M2321-1_option1_2,Run away.,จากไป
+M2324-1_option1_1,Fight.<color=#097a76>(Solo fight by the protagonist)</color>,รับมือ <color=#097a76>(ตัวเอกประลองเดี่ยวเท่านั้น)</color>
+M2324-1_option1_2,Prepare again.,เตรียมพร้อมอีกครั้ง
+M2324-1_NPCname,Voice of the Master of Taihua Sect,เสียงของเจ้าสำนักไท่ฮัว
+M2321-2_option1_1,Knock on the door.,เคาะประตู
+M2321-2_option1_2,Run away.,จากไป
+M2321-2_option2_1,Peep!,แอบดู!
+M2321-2_option2_2,"Peeping is against Propriety, better not.","การแอบดูเป็นการเสียมารยาท, ไม่ควรทำ"
+M2321-2_option3_1,"Barge in!<color=#c44b0e>(Specific battle, only the protagonist fights)</color>","บุกรุกเข้าไป!<color=#c44b0e>(เข้าสู่การต่อสู้, ตัวเอกสู้คนเดียว)</color>"
+M2321-2_option3_2,Trust Zhong Yangzi to solve it.,ข้าเชื่อมั่นว่าท่านฉงหยางสื่อสามารถจัดการได้
+M2320-1_option1_1,"Alright!<color=#097a76>(2 Ke, 10 Stamina, solo fight by the protagonist)</color>","ย่อมได้!<color=#097a76>(2 เค่อ, 10 แรงกาย, ตัวเอกสู้คนเดียว)</color>"
+M2320-1_option1_2,Let's talk about it later.,ไว้ค่อยว่ากันภายหลัง
+M2326-2_option1_1,Enter the room.,เข้าไปในห้อง
+M2326-2_option1_2,Stay away for now.,ขอปลีกตัวสักพัก
+M2326-3_NPCname1,A young man's voice,เสียงชายเยาว์วัย
+M2326-3_option1_1,Knock on the door.,เคาะประตู
+M2326-3_option1_2,Don't disturb the rest of the people inside.,อย่ารบกวนการพักผ่อนของคนข้างใน
+M2330-6_option1_1,"Enter the warehouse<color=#c44b0e>(Specific battle, arrive at Penglai)</color>","เข้าไปในห้องเก็บสินค้า<color=#c44b0e>(เข้าสู่การต่อสู้, เดินทางมาถึงเกาะเผิงไหล)</color>"
+M2330-6_option1_2,Talk about it later.,ค่อยว่ากันภายหลัง
+M2322-3_option1_1,Agree with Master Wu Jing.,เห็นพ้องกับท่านไต้ซืออู่จิ้ง
+M2322-3_option1_2,This matter needs to be investigated thoroughly.<color=#c44b0e>(Solo fight by the protagonist)</color>,เรื่องนี้ต้องได้รับการตรวจสอบอย่างละเอียด <color=#c44b0e>(ตัวละครเอกฉายเดี่ยว)</color>
+I51801-2_option1_1,"Restore!<color=#097a76>(3 days, 100 Stamina, solo fight by the protagonist)</color>","กู้คืนสภาพเดิม!<color=#097a76>(3 วัน, 100 แรงกาย, ตัวละครเอกฉายเดี่ยว)</color>"
+I51801-2_option1_2,Hold off for now.,พักเรื่องนี้ไว้ก่อน
+M2342-1_option1_1,Prepare to enter.<color=#c44b0e>(Multiple battles)</color>,เตรียมพร้อมที่จะเข้าไป! <color=#c44b0e>(การต่อสู้หลายครั้ง)</color>
+M2342-1_option1_2,I'll prepare again.,ข้าจะเตรียมพร้อมอีกครั้ง
+M2342-1_option2_1,The one on the left!,ทางซ้าย!
+M2342-1_option2_2,The one on the right!,ทางขวา!
+M2342-1_option2_3,"If you seek death, suit yourself!",หากเจ้าประสงค์จะดับชีพ ก็สุดแท้แต่ใจ!
+M2342-1_NPCname1,A male voice that captivates all beings,เสียงชายที่สะท้านไปทั่วทุกสารทิศ
+M2342-1_NPCname2,Voice of Wang Bushu,เสียงของหวังปู้ซู
+M2342-1_NPCname3,A weird hoarse voice,เสียงแหบแห้งที่แปลกประหลาด
