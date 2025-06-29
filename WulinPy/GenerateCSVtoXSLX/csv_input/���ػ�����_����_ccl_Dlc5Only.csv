@@ -1381,18 +1381,18 @@ DLC5Search2-1-4_1,"Did you bring enough money this time? This information is che
 DLC5Search2-1-5_1,"Sir, this price is already very cheap, I'm just trying to make a living...",ท่านจอมยุทธ์ ราคานี้ก็ถูกมากแล้ว ข้าน้อยก็แค่หากินไปวันๆ...
 DLC5Search2-1-5_2,"This news is so cheap, it must not be difficult to inquire, I should be able to find out in other places.",ข้อมูลถูกขนาดนี้ คงสืบได้ไม่ยาก ข้าไปที่อื่นก็น่าจะสืบได้เหมือนกัน
 DLC5Search2-1-5_3,"Don't, I make a living by selling information, how about this, I'll give you a 50% discount, only 1 Guan, how about it?","อย่าเพิ่งสิขอรับ ข้าน้อยก็หากินด้วยการขายข้อมูลนี่แหละ \nเอาแบบนี้ดีกว่าไหม ข้าน้อยจะลดให้ท่านจอมยุทธ์ครึ่งหนึ่ง เหลือแค่หนึ่งตำลึงเอง เป็นไงขอรับ?"
-DLC5Search2-1-6_1,Did you bring enough money this time? Only 1 Guan.
-DLC5Search2-1-7_1,You are generous~
-DLC5Search2-1-7_2,"Alright, stop flattering, tell me where his property is."
+DLC5Search2-1-6_1,Did you bring enough money this time? Only 1 Guan.,ท่านจอมยุทธ์  คราวนี้พกเงินมาพอแล้วหรือยัง? แค่หนึ่งตำลึงเอง
+DLC5Search2-1-7_1,You are generous~,ฮึ่ยย่า...!! ท่านช่างใจกว้างจริงๆ~
+DLC5Search2-1-7_2,"Alright, stop flattering, tell me where his property is.",พอได้แล้ว ไม่ต้องพูดแล้ว รีบบอกข้ามาว่าบ้านของเขา  อยู่ที่ไหน?
 DLC5Search2-1-7_3,"This Zhu Imperial Ombudsman does have a private house in the city, which he uses for secret meetings with his concubines. The place is easy to find, it's next to our shop.",ท่านผู้ตรวจการจู มีบ้านส่วนตัวในเมืองจริงๆ ใช้เป็นที่แอบเจออนุภรรยา! หาง่ายมาก อยู่ข้างร้านเรานี่เอง!
-DLC5Search2-1-7_4,"No way, Zhu Imperial Ombudsman's house is actually the first one at the city gate. You still want to charge for this information..."
-DLC5Search2-1-7_5,"If I didn't tell you, wouldn't you have to go through each house one by one? It's worth it to spend some money to save some trouble."
-DLC5Search2-1-7_6,"But I just heard a noise coming from next door, I don't know what happened."
+DLC5Search2-1-7_4,"No way, Zhu Imperial Ombudsman's house is actually the first one at the city gate. You still want to charge for this information...","อ้าว! ที่แท้บ้านผู้ตรวจการจู คือบ้านหลังแรกตรงประตูเมืองนี่เอง\nเรื่องแค่นี้... เจ้ายังจะมีหน้าเรียกเงินจากข้าอีกหรือ!!"
+DLC5Search2-1-7_5,"If I didn't tell you, wouldn't you have to go through each house one by one? It's worth it to spend some money to save some trouble.","ถ้าข้าน้อยไม่บอก ท่านจอมยุทธ์ก็ต้องไปหาทีละบ้านไม่ใช่หรือ? \nเสียเงินนิดหน่อยแต่ประหยัดเวลา ก็ยังคุ้มค่าอยู่ดี!!"
+DLC5Search2-1-7_6,"But I just heard a noise coming from next door, I don't know what happened.",แต่เมื่อครู่ข้าได้ยินเสียงบางอย่าง ดังมาจากข้างบ้าน ก็ไม่รู้เหมือนกันว่าเกิดอะไรขึ้น
 DLC5Search2-1-7_7,"Thank you for the information, I will go and check it out.",ขอบคุณที่บอกนะ ข้าจะเข้าไปดูหน่อย
 DLC5Search2-1-7_8,"Take care, come back often~",ท่านจอมยุทธ์... เดินช้าๆ หน่อย! แล้วมาอีกบ่อยๆ น้า...!
-DLC5Search2-2-1_1,"Sir, I would like to ask you something."
-DLC5Search2-2-1_2,Hmm? What is it?
-DLC5Search2-2-1_3,"Do you know if there is a man named ""Zhu Wen"" in the city? I want to find out where he lives."
+DLC5Search2-2-1_1,"Sir, I would like to ask you something.",ใต้เท้า... ข้าอยากจะถามเรื่องหนึ่งจากท่าน!
+DLC5Search2-2-1_2,Hmm? What is it?,อืมม?...เรื่องอันใด?
+DLC5Search2-2-1_3,"Do you know if there is a man named ""Zhu Wen"" in the city? I want to find out where he lives.","ท่านพอจะทราบหรือไม่ว่าในเมืองมีคนชื่อ ""จูเหวิน"" หรือไม่? \nข้าน้อยอยากจะสอบถามว่าเขาอาศัยอยู่ที่ใด?"
 DLC5Search2-2-1_4,"There are so many people in this city, how can the government have time to remember each one?"
 DLC5Search2-2-1_5,"Even if I remember, I can't just reveal someone's household information to you."
 DLC5Search2-2-1_6,"(Indeed, it's a bit suspicious to casually inquire about someone's household registration. I'd better make up a lie here.)"
