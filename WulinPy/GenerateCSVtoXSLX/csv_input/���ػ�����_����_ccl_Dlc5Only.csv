@@ -1704,25 +1704,25 @@ EJ-005-26_17,"I said it's no loss if a dog official like you dies, good riddance
 EJ-005-26_18,"{PlayerSurName} Young hero, how do we wrap this up now...",จอมยุทธน้อย{PlayerSurName} ยามนี้... จะหาทางคลี่คลายได้อย่างไรเล่า...?
 EJ-005-26_19,"Don't ask me, I don't know either...",อย่าได้ถามข้าเลย... ข้าเองก็ไม่อาจล่วงรู้ได้เช่นกัน...
 EJ-005-27_1,"Sun, the Precinct Captain, even the master is not a saint, how could he know what you would go through after being recruited?","นายกองซุน... ท่านอาจารย์ก็ไม่ใช่เทพเซียน ท่านจะทราบได้อย่างไรว่า \nหลังจากพวกเจ้ายอมจำนนแล้วจะเจอสิ่งใด?"
-EJ-005-27_2,"You blame the master so harshly, blaming everything on him, isn't that a bit too much?"
-EJ-005-27_3,"You're just a child, what do you know about the affairs of the court?"
+EJ-005-27_2,"You blame the master so harshly, blaming everything on him, isn't that a bit too much?",เจ้ากล่าวโทษท่านอาจารย์ถึงเพียงนี้ ผลักความผิดทุกอย่างให้แก่ท่าน...ไม่เกินไปหน่อยรึ?
+EJ-005-27_3,"You're just a child, what do you know about the affairs of the court?",ไอ้เด็กเมื่อวานซืน! เจ้ามีสิทธิ์อันใดมาเอ่ยปาก? เรื่องในราชสำนัก เจ้าจะไปรู้อะไร?
 EJ-005-27_4,"Nowadays, even if you enter the court as white, you can be dyed black. If you don't join them in their corruption, you'll be wiped out sooner or later!","ราชสำนักในยามนี้.... ต่อให้คนดีเข้าไป ก็จักกลายเป็นคนชั่ว \nหากมิยอม ไหลตามกระแสของพวกมัน ช้าเร็วก็ต้องถูกกำจัดจนสิ้นซาก!"
 EJ-005-27_5,Change the world and restore the breeze? Dream on!,"คิดจะเปลี่ยนโลก คืนสู่สายลมแห่งความบริสุทธิ์? \nฮ่า ฮ่า... โคตรตลก เป็นแค่ความเพ้อฝันของพวกโง่งม!"
 EJ-005-27_6,"We risked our lives to survive, to gain a foothold in the court, and what did we get in return? The disdain of our superiors, the criticism of our subordinates, and the accusations of you Vagabonds!","พวกเราทุ่มเทชีวิตเพื่อความอยู่รอด หวังยืนหยัดในราชสำนัก... \nแต่ได้สิ่งใดกลับมา? สายตาดูถูกจากเบื้องบน เสียงก่นด่าจากลูกน้อง \nและคำกล่าวหา จากลมปากของพวกเจ้า เหล่าจอมยุทธ!!"
-EJ-005-27_7,"I may not know much, but I think, if you don't want to do it, who can force you?"
-EJ-005-27_8,"If you're dissatisfied with the court and feel you can't change it, why stay in the court?"
-EJ-005-27_9,"You can't possibly be reluctant to give up the official seal, can you?"
+EJ-005-27_7,"I may not know much, but I think, if you don't want to do it, who can force you?",ข้าอาจรู้ไม่มากก็จริง แต่ข้าคิดว่าหากเจ้าไม่ต้องการทำ...แล้วใครเล่าจะบังคับเจ้าได้?
+EJ-005-27_8,"If you're dissatisfied with the court and feel you can't change it, why stay in the court?","หากเจ้าไม่พึงใจต่อราชสำนักนี้ และรู้สึกว่าไม่อาจเปลี่ยนแปลงอันใดได้แล้ว... \nแล้วเหตุใด เจ้ายังคงฝืนทนอยู่ในราชสำนักนี้เล่า?"
+EJ-005-27_9,"You can't possibly be reluctant to give up the official seal, can you?",เจ้าเองก็คง ตัดใจจากตำแหน่งขุนนางนั้นไม่ได้ ล่ะสิ?
 EJ-005-27_10,Me——!,ข้า...!
 EJ-005-27_11,It's no use talking to you!,กล่าวกับเจ้า... ก็ไร้ความหมาย!
-EJ-005-27_12,"What's the matter, did I hit a nerve, are you angry?"
-EJ-005-27_13,"You little brat, I'll kill you——!"
-EJ-005-27_14,"Come on, I'm not afraid of you!"
-EJ-005-28_1,Amitabha.
-EJ-005-28_2,"Master Sun, although this matter is related to my past, it is indeed my fault and has nothing to do with others."
-EJ-005-28_3,"If you have any resentment, just vent it on me. I won't complain or resist."
-EJ-005-28_4,Master Hua Yan?!
-EJ-005-28_5,You...
-EJ-005-28_6,"But this matter started because of me and should end with me. The murderer has not been found yet. I just hope that Master Sun can spare me a few breaths. After the murderer is found, it's not too late for me to atone with my life."
+EJ-005-27_12,"What's the matter, did I hit a nerve, are you angry?",เป็นอันใดไป... ถูกข้ากล่าวแทงใจดำเข้า จึงได้เดือดดาลถึงเพียงนี้เลยรึ?
+EJ-005-27_13,"You little brat, I'll kill you——!",ไอ้เด็กปากไม่สิ้นกลิ่นน้ำนม! ข้าจะฆ่าเจ้า!!
+EJ-005-27_14,"Come on, I'm not afraid of you!",เข้ามาสิ! ขุนนางกระจอกแบบนี้ ข้าไม่กลัวเจ้าหรอก...
+EJ-005-28_1,Amitabha.,อมิตาพุทธ
+EJ-005-28_2,"Master Sun, although this matter is related to my past, it is indeed my fault and has nothing to do with others.","ประสกซุน... แม้เรื่องนี้จะเป็นปมในอดีตของอาตมา \nแต่ก็เป็นความผิดที่อาตมาก่อขึ้นเอง ไม่ได้เกี่ยวกับผู้ใดเลย!"
+EJ-005-28_3,"If you have any resentment, just vent it on me. I won't complain or resist.","หากเจ้ามีความคับแค้นใจ... จงพุ่งเป้ามาที่อาตมาเถิด \nอาตมาจะมิปริปากบ่น และไม่ขัดขืนแม้แต่น้อย!"
+EJ-005-28_4,Master Hua Yan?!,ท่านอาจารย์ฮัวเหยียน...!
+EJ-005-28_5,You...,เจ้า...
+EJ-005-28_6,"But this matter started because of me and should end with me. The murderer has not been found yet. I just hope that Master Sun can spare me a few breaths. After the murderer is found, it's not too late for me to atone with my life.","เรื่องราวนี้เริ่มจากอาตมา ก็ควรจบสิ้นที่อาตมา แต่ว่าตอนนี้คนร้ายยังไม่ปรากฏ \nอาตมาขอให้ประสกซุน ไว้ชีวิตอาตมาอีกสักครู่ หากว่าตามหาคนร้ายพบ\nแล้วค่อยให้อาตมาชดใช้กรรมด้วยชีวิต ก็ยังไม่สายเกินไป"
 EJ-005-29_1,"Master, this..."
 EJ-005-30_1,"Big brother, this..."
 EJ-005-31_1,"This is the punishment I deserve, don't stop me."
