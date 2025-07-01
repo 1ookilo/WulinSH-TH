@@ -1527,7 +1527,7 @@ EJ-005-11_2,"Sister Hong, you mean...?",พี่หญิงหง ท่าน
 EJ-005-11_3,Is there a possibility that the fact that this person left no evidence is evidence in itself?,เป็นไปได้หรือไม่ว่า การที่ผู้นี้ไม่ทิ้งร่องรอยหลักฐานใดๆ ไว้เลยนั้น เพราะตัวมันเองนั่นแหละคือหลักฐาน?
 EJ-005-11_4,"Oh? This is interesting, please let me hear more.",โอ้? นับว่าน่าสนใจยิ่งนัก! โปรดให้ข้าได้ฟังโดยละเอียดเถิด!
 EJ-005-11_5,"I think, among these cases, aside from the latest Zhu Wen case, the most suspicious one is the one at Baoguo Temple.",ข้าว่านะ ในบรรดาคดีทั้งหลายเหล่านี้ เว้นคดีจูเหวินที่เพิ่งเกิดขึ้น คดีที่น่าสงสัยที่สุดก็คือคดีที่วัดเป่ากั๋วนั่นแหละ
-EJ-005-11_6,"In my opinion, there are many monks at Baoguo Temple with good internal skills. The victim was tied to the big bell and hit in the chest with a bell hammer, causing his chest to cave in. The noise must have been loud, yet no monk noticed.",ตามที่ข้าเห็น หลวงจีนในวัดเป่ากั๋วจำนวนไม่น้อยล้วนมีวรยุทธ์ภายในมิใช่ย่อย ในวันนั้น ผู้ตายถูกมัดไว้กับระฆังใหญ่แล้วถูกตีด้วยท่อนไม้ระฆังเข้าที่อกจนหน้าอกยุบลงไป ย่อมต้องมีเสียงดังสนั่นไม่เบาเลย แต่เรื่องนี้กลับ ไม่มีหลวงจีนรูปใดสังเกตเห็นเลย
+EJ-005-11_6,"In my opinion, there are many monks at Baoguo Temple with good internal skills. The victim was tied to the big bell and hit in the chest with a bell hammer, causing his chest to cave in. The noise must have been loud, yet no monk noticed.","ตามที่ข้าเห็น หลวงจีนในวัดเป่ากั๋วจำนวนไม่น้อยล้วนมีวรยุทธ์ภายในมิใช่ย่อย \nในวันนั้น ผู้ตายถูกมัดไว้กับระฆังใหญ่แล้วถูกตีด้วยท่อนไม้ระฆัง เข้าที่อกจนหน้าอกยุบลงไป \nย่อมต้องมีเสียงดังสนั่นไม่เบาเลย แต่เรื่องนี้กลับ ไม่มีหลวงจีนรูปใดสังเกตเห็นเลย"
 EJ-005-11_7,That does sound strange.,พูดเช่นนี้แล้วก็ประหลาดจริงๆ!
 EJ-005-11_8,"Could it be like the case at the pier, where the crime scene was not inside the temple?",จะเป็นไปได้หรือไม่ว่า เหมือนกับคดีที่ท่าเรือ ที่จุดเกิดเหตุ มิได้อยู่ในวัด?
 EJ-005-11_9,"Compared to being tied to a big bell and hit with a bell hammer, it sounds more likely that he was killed elsewhere and then brought over.",เมื่อเทียบกับการถูกมัดกับระฆังแล้วถูกทุบตีด้วยท่อนไม้ระฆัง ฟังดูแล้วความเป็นไปได้ที่จะถูกสังหารที่อื่นแล้วค่อยนำศพไปไว้ตรงนั้น ย่อมมีมากกว่า!
@@ -1723,107 +1723,107 @@ EJ-005-28_3,"If you have any resentment, just vent it on me. I won't complain or
 EJ-005-28_4,Master Hua Yan?!,ท่านอาจารย์ฮัวเหยียน...!
 EJ-005-28_5,You...,เจ้า...
 EJ-005-28_6,"But this matter started because of me and should end with me. The murderer has not been found yet. I just hope that Master Sun can spare me a few breaths. After the murderer is found, it's not too late for me to atone with my life.","เรื่องราวนี้เริ่มจากอาตมา ก็ควรจบสิ้นที่อาตมา แต่ว่าตอนนี้คนร้ายยังไม่ปรากฏ \nอาตมาขอให้ประสกซุน ไว้ชีวิตอาตมาอีกสักครู่ หากว่าตามหาคนร้ายพบ\nแล้วค่อยให้อาตมาชดใช้กรรมด้วยชีวิต ก็ยังไม่สายเกินไป"
-EJ-005-29_1,"Master, this..."
-EJ-005-30_1,"Big brother, this..."
-EJ-005-31_1,"This is the punishment I deserve, don't stop me."
-EJ-005-31_2,"Master Sun, please."
-EJ-005-31_3,"Big brother, no, Master Hua Yan."
-EJ-005-31_4,"It seems that the big brother of the past is dead, and now there is only Master Hua Yan in the world."
-EJ-005-31_5,"Let's get back to the point, {PlayerName}, where were we?"
-EJ-005-31_6,"About the murderer, I still have some questions for Sun, the Precinct Captain."
-EJ-005-31_7,Just ask.
-EJ-005-32_1,"Sun, the Precinct Captain, did Zhu Wen have any enemies?"
-EJ-005-32_2,"Of course, quite a few."
-EJ-005-32_3,"Among these enemies, who would go to great lengths to track him from Xiangfan to here, and make him let his guard down?"
-EJ-005-32_4,...Probably none.
-EJ-005-32_5,"Besides you, does he have any friends who could make him let his guard down?"
-EJ-005-32_6,...Yes.
+EJ-005-29_1,"Master, this...","ท่านอาจารย์, นี่.."
+EJ-005-30_1,"Big brother, this...","พี่ชาย, นี่..."
+EJ-005-31_1,"This is the punishment I deserve, don't stop me.",นี่คือโทษที่อาตมาสมควรได้รับ พวกเจ้าอย่าได้ขัดขวางเลย
+EJ-005-31_2,"Master Sun, please.","ท่านซุน, เชิญ..."
+EJ-005-31_3,"Big brother, no, Master Hua Yan.","พี่ใหญ่... ไม่, อาจารย์ฮัวเหยียน!"
+EJ-005-31_4,"It seems that the big brother of the past is dead, and now there is only Master Hua Yan in the world.",ตัวตนของ 'พี่ใหญ่' ในวันวานได้ดับสิ้นไปแล้ว บัดนี้เหลือเพียงหลวงจีนฮัวเหยียนเท่านั้น
+EJ-005-31_5,"Let's get back to the point, {PlayerName}, where were we?","กลับเข้าเรื่องกันเถอะ, {PlayerName} เมื่อครู่เราพูดถึงไหนกันแล้วนะ?"
+EJ-005-31_6,"About the murderer, I still have some questions for Sun, the Precinct Captain.",เกี่ยวกับคนร้าย ข้ายังมีบางเรื่องที่ต้องถาม นายกองซุน
+EJ-005-31_7,Just ask.,เจ้าถามมาได้เลย...
+EJ-005-32_1,"Sun, the Precinct Captain, did Zhu Wen have any enemies?","นายกองซุน, จูเหวินมีศัตรูหรือไม่?"
+EJ-005-32_2,"Of course, quite a few.",ก็มีอยู่ไม่น้อยเลยทีเดียว
+EJ-005-32_3,"Among these enemies, who would go to great lengths to track him from Xiangfan to here, and make him let his guard down?","ในหมู่ศัตรูเหล่านั้น ใครกันแน่ที่ตามรอยมาจากเซียงฝาน, แถมยังทำให้เขาวางใจ?"
+EJ-005-32_4,...Probably none.,…เกรงว่าคงไม่มี
+EJ-005-32_5,"Besides you, does he have any friends who could make him let his guard down?",ถ้าเช่นนั้น นอกจากเจ้าแล้ว เขายังมีสหายคนใดอีกบ้าง ที่ทำให้เขาลดการระวังลงได้?
+EJ-005-32_6,...Yes.,...คงพอจะมีอยู่บ้าง
 EJ-005-32_7,But... they're mostly people from the Breeze Sect.,ทว่า... ส่วนใหญ่ล้วนเป็นคนของสำนักสายลมพิสุทธิ์ทั้งสิ้น!
 EJ-005-32_8,Could it be that the perpetrator is someone from the Breeze Sect?,หรือว่าคนที่ลงมือจะเป็นคนของสำนักสายลมพิสุทธิ์ กันแน่?
-EJ-005-32_9,You just said you passed by the suspect?
-EJ-005-32_10,"Yes, we suspect that the perpetrator disguised himself as a Peddler and ran away from Daliang City."
-EJ-005-32_11,Peddler...
+EJ-005-32_9,You just said you passed by the suspect?,เมื่อครู่  ท่านเพิ่งจะบอกว่าเดินสวนกับผู้ต้องสงสัยไม่ใช่หรือ?
+EJ-005-32_10,"Yes, we suspect that the perpetrator disguised himself as a Peddler and ran away from Daliang City.","ใช่แล้ว, เราสงสัยว่าคนร้ายปลอมตัวเป็นพ่อค้าหาบเร่ ออกจากเมืองต้าเหลียงไป"
+EJ-005-32_11,Peddler...,พ่อค้าหาบเร่..
 EJ-005-33_1,"In the Breeze Sect, the one who is skilled in using sticks and adept at disguise is only that one, right?",ในสำนักสายลมพิสุทธิ์ ผู้ที่เชี่ยวชาญการใช้กระบอง และเก่งกาจในการปลอมแปลงตัว มีเพียงผู้นั้นมิใช่หรือ
-EJ-005-34_1,Amitabha... It's actually him...
-EJ-005-35_1,"What riddle are you playing here, who is it?"
-EJ-005-36_1,"...The Hundred-Faced Judge, Zhang Li."
-EJ-005-36_2,Who is this person?
+EJ-005-34_1,Amitabha... It's actually him...,อมิตาพุทธ...คาดไม่ถึงเลยว่าจะเป็นเขา...
+EJ-005-35_1,"What riddle are you playing here, who is it?",ท่านพูดจากำกวมทำไมรึ?   ตกลงเป็นใครกันแน่?
+EJ-005-36_1,"...The Hundred-Faced Judge, Zhang Li.",ตุลาการร้อยหน้า จางลี่ !!
+EJ-005-36_2,Who is this person?,ใครกันอีก เนี่ย?
 EJ-005-36_3,"He is one of the people in charge of rewards and punishments in the Breeze Sect, he never shows favoritism, and is good at disguise, so he is called the Hundred-Faced Judge by the martial arts world.","เขาคือ ผู้ที่มีหน้าที่ตัดสินโทษในสำนักสายลมพิสุทธิ์ ไม่เคยลำเอียง และยังเชี่ยวชาญการปลอมแปลงโฉมอีกด้วย ด้วยเหตุนี้จึงถูกชาวยุทธภพขนานนามว่า ""ตุลาการร้อยหน้า"""
 EJ-005-36_4,"When he was still in the Breeze Sect, he strictly adhered to the rules of the gang, and even tattooed ""Eliminate evil and restore the breeze"" on his chest.","ยามเมื่อยังอยู่ในสำนักสายลมพิสุทธิ์ เขาผู้นี้ปฏิบัติตามกฎของสำนักอย่างเคร่งครัด ถึงขั้นสักคำว่า ""กำจัดคนชั่วคืนความบริสุทธิ์"" ไว้ที่หน้าอก เลยทีเดียว"
-EJ-005-36_5,"Anyone in the gang who violates the rules, regardless of their relationship with him, he treats them equally, punishes them with a stick if they should be punished, and takes their lives if they should pay with their lives, so the brothers in the gang are very afraid of him."
-EJ-005-36_6,But...
-EJ-005-36_7,But?
-EJ-005-36_8,"...Nothing, if it's him this time, it's not surprising."
-EJ-005-36_9,"So, the truth of this Continuous case is actually..."
+EJ-005-36_5,"Anyone in the gang who violates the rules, regardless of their relationship with him, he treats them equally, punishes them with a stick if they should be punished, and takes their lives if they should pay with their lives, so the brothers in the gang are very afraid of him.","ในสำนักนี้ ใครแหกกฎ ไม่ว่าใครหน้าไหน เขาก็จัดให้อย่างเท่าเทียม! ตรงไปตรงมา!\nสมควรโบยก็โบย สมควรตายก็ตาย! พี่น้องในสำนักเลยกลัวกันหมด"
+EJ-005-36_6,But...,แต่ว่า...
+EJ-005-36_7,But?,แต่อะไร รึ...?
+EJ-005-36_8,"...Nothing, if it's him this time, it's not surprising.","…ไม่มีอะไร, ถ้าหากคราวนี้เป็นเขา, เช่นนั้นก็ไม่แปลกแล้ว"
+EJ-005-36_9,"So, the truth of this Continuous case is actually...",ฉะนั้น ความจริงเบื้องหลังคดีฆาตกรรมต่อเนื่องนี้ แท้จริงแล้วคือ...
 EJ-005-36_10,"Hahaha, there is no hero at all, no extremely evil murderer, just the Hundred-Faced Judge of the Breeze Sect cleaning up the house.",ฮ่าๆๆ ที่แท้ก็ไม่มีจอมยุทธ์ผู้ยิ่งใหญ่ หรือฆาตกรชั่วร้ายที่ไหนหรอก ก็แค่ตุลาการร้อยหน้าแห่งสำนักสายลมพิสุทธิ์ กำลังกวาดล้างภายในสำนักเท่านั้นเอง!
-EJ-005-36_11,"Ah, why did Me come to investigate this case..."
-EJ-005-36_12,You can't say that.
+EJ-005-36_11,"Ah, why did Me come to investigate this case...",เฮ้อ...สุดท้ายแล้ว ข้ามาสืบคดีนี้เพื่อสิ่งใดกัน...?
+EJ-005-36_12,You can't say that.,จะพูดอย่างนั้น  มันก็ไม่ถูกต้องนัก
 EJ-005-36_13,"The original intention of the Breeze Sect was good, and this person regards the gang rules as a guideline, and those who were killed were all deserving.",สำนักสายลมพิสุทธิ์แต่เดิม ตั้งขึ้นด้วยเจตนาอันดีงาม ประกอบกับบุคคลผู้นี้ยึดถือกฎของสำนัก ผู้ที่ถูกสังหารล้วนเป็นผู้ที่สมควรตายแล้ว
-EJ-005-36_14,"Regardless of the motive, Me thinks Zhang Li is a hero."
-EJ-005-36_15,"Hero? Hehe, you Vagabonds really can't tell. What's the difference between his actions and seeking private revenge?"
-EJ-005-36_16,"Leaving aside the Relations between Me and Brother Zhu, even if they are guilty, they should be handed over to the criminal department for disposal. Where is your Vagabond's place to speak?"
-EJ-005-36_17,"Their exploitation of the people is a fact. If the criminal department was useful, they should have been punished long ago."
-EJ-005-36_18,"Little girl, you better go home and drink milk, things in this world are not as easy as you say."
-EJ-005-36_19,You--!
-EJ-005-36_20,"In my opinion, such a murderer should be executed on the spot to prevent him from causing trouble again!"
-EJ-005-37_1,"Amitabha, the old monk would like to have a good chat with him, it would be great if he could persuade him to put down the butcher knife."
-EJ-005-37_2,...You better save your energy.
-EJ-005-38_1,"Brother, what do you think?"
-EJ-005-38_2,"...Me don't know, maybe I'll know when I find him."
-EJ-005-38_3,...That's true.
-EJ-005-38_4,"But no matter what, we have to find that guy first, Sun, the Precinct Captain, do you have any ideas?"
-EJ-005-38_5,"...As I just said, he is good at disguise, he could be an old man on the side of the road, or a beautiful woman with Elegant steps. Even we don't know his true appearance."
-EJ-005-38_6,So it's extremely difficult to find his whereabouts.
+EJ-005-36_14,"Regardless of the motive, Me thinks Zhang Li is a hero.",ดูที่การกระทำไม่ใช่เจตนา  ข้าว่าจางลี่ นี่แหละคือจอมยุทธ์...ที่แท้จริง!
+EJ-005-36_15,"Hero? Hehe, you Vagabonds really can't tell. What's the difference between his actions and seeking private revenge?","จอมยุทธ์ที่แท้จริงรึ? หึหึ, พวกเจ้าชาวยุทธนี่ช่างไม่รู้จักแยกแยะ\nการกระทำของเขานั้นต่างอะไร กับการแก้แค้นส่วนตัวกัน?"
+EJ-005-36_16,"Leaving aside the Relations between Me and Brother Zhu, even if they are guilty, they should be handed over to the criminal department for disposal. Where is your Vagabond's place to speak?","ตัดเรื่องความสัมพันธ์ระหว่าง ข้ากับพี่จูและพรรคพวกไปก่อน\nแม้พวกเขาจะมีความผิด ก็ต้องส่งให้ศาลตัดสินลงโทษ\nชาวยุทธอย่างพวกเจ้า มีสิทธิ์อะไรมากล่าวโทษ?"
+EJ-005-36_17,"Their exploitation of the people is a fact. If the criminal department was useful, they should have been punished long ago.","พวกมันกดขี่ชาวบ้าน เป็นเรื่องที่ชัดเจนยิ่งกว่าสิ่งใด! \nหากทางการมีความยุติธรรม พวกมันคงถูกตัดสินโทษไปนานแล้ว!"
+EJ-005-36_18,"Little girl, you better go home and drink milk, things in this world are not as easy as you say.","แม่หนูน้อย, เจ้ายังอ่อนหัดนัก! กลับไปนอนกินนมที่บ้านเสีย! \nเรื่องราวในใต้หล้า นี้มันไม่ง่ายอย่างที่เจ้าคิดหรอกนะ..."
+EJ-005-36_19,You--!,เจ้า...!
+EJ-005-36_20,"In my opinion, such a murderer should be executed on the spot to prevent him from causing trouble again!","ในความเห็นของข้า ไอ้ผู้ร้ายโหดเหี้ยมเช่นนี้ \nควรถูกประหารตรงนั้นทันที จะได้ไม่ต้องมาทำชั่วซ้ำสอง!"
+EJ-005-37_1,"Amitabha, the old monk would like to have a good chat with him, it would be great if he could persuade him to put down the butcher knife.","อมิตาพุทธ อาตมาเองก็อยากพูดคุยกับเขาให้ดี หากสามารถเกลี้ยกล่อมให้เขา\nล้างมือจากคมดาบได้ ก็จะเป็นบุญยิ่งแล้ว"
+EJ-005-37_2,...You better save your energy.,...อย่าเสียแรงเปล่าเลย
+EJ-005-38_1,"Brother, what do you think?","พี่ชาย, ท่านมีความคิดเห็นว่าอย่างไร?"
+EJ-005-38_2,"...Me don't know, maybe I'll know when I find him.","...ข้าก็ไม่รู้เหมือนกัน, บางทีเมื่อพบเขาแล้วก็จะรู้เอง"
+EJ-005-38_3,...That's true.,...นั่นก็จริง
+EJ-005-38_4,"But no matter what, we have to find that guy first, Sun, the Precinct Captain, do you have any ideas?",ยังไงก็ตาม ก็ต้องตามตัวเขาให้เจอเสียก่อน!  นายกองซุนท่านมีวิธีอะไรบ้าง?
+EJ-005-38_5,"...As I just said, he is good at disguise, he could be an old man on the side of the road, or a beautiful woman with Elegant steps. Even we don't know his true appearance.","ข้าเพิ่งบอกไปเองว่า เขาเชี่ยวชาญการปลอมแปลงโฉม \nอาจเป็นชายแก่ริมทาง หรือเป็นสตรีงามก็เป็นได้!  \nแม้แต่พวกเราเองก็ยังไม่รู้ หน้าตาที่แท้จริงของเขาเป็นยังไง?"
+EJ-005-38_6,So it's extremely difficult to find his whereabouts.,ดังนั้น การจะสืบหาเบาะแสของผู้นี้ จึงยากเย็นยิ่งนัก !!
 EJ-005-38_7,"...But, we are all from the Breeze Sect, Me will find a way.",...แต่ว่า ในเมื่อล้วนเป็นคนของสำนักสายลมพิสุทธิ์ ข้าจะหาวิธีจัดการเอง
-EJ-005-38_8,"You guys rest in the city for a while, Me will rent a few rooms in the inn for you, and I will contact you when I find clues."
-EJ-005-38_9,How can we accept this?
-EJ-005-38_10,"It's a small matter, don't mind."
-EJ-005-38_11,Then we won't be polite.
-EJ-005-38_12,"Well, Me will arrange manpower first, and I will leave first."
-EJ-005-38_13,"I didn't expect this Sun, the Precinct Captiain to be quite nice. Ling'er thought he wouldn't help."
-EJ-005-38_14,...Me didn't expect it either.
-EJ-005-38_15,"Anyway, it's a relief."
-EJ-005-38_16,"Brother, I've been in jail for a long time, I'll go to the city for a breath of fresh air, and meet up with you later."
-EJ-005-38_17,Okay.
-EJ-005-38_18,"Sister Hong, we finally came to Daliang City once, and we haven't had a good tour yet, shall we go around the city?"
-EJ-005-38_19,"Well... okay, where does Ling'er want to go?"
-EJ-005-38_20,"I heard that the market in Daliang City is very lively, let's go and have a look~"
-EJ-005-38_21,"Alright, then let's go to the market."
-EJ-005-38_22,"{PlayerSurName} Young hero, then Ling'er and I will go around the market. If there is any news, you can notify us, and we will come at any time."
-EJ-005-38_23,Okay.
-EJ-005-39_1,"Amitabha, I need to think about today's events, I will go back to the Guest Room first."
-EJ-005-39_2,"Master, have a good rest."
-EJ-005-1-1_1,"{PlayerName}, you're here."
-EJ-005-1-1_2,How could I not come when invited by Luo Constable?
-EJ-005-1-1_3,"I wonder how Luo Constable's investigation is going, is there anything I can help with?"
-EJ-005-1-1_4,"Alas, this case is indeed a bit tricky."
-EJ-005-1-1_5,"If Luo Constable finds it tricky, it seems this case is indeed complex."
-EJ-005-1-1_6,"No, actually it's... never mind, let me first introduce you to the case that happened here."
-EJ-005-1-1_7,The victim here is a major landowner in Daliang City. This person has a good reputation in the city and his rent to his tenants is not high.
-EJ-005-1-1_8,"This person has been a devout Buddhist throughout his life, coming to the temple to burn incense and make offerings on the first and fifteenth of each month."
-EJ-005-1-1_9,"On the fifteenth of last month, he came to the temple to burn incense as usual, but did not return home the next day. Early on the sixteenth, a Monk found his body when he came to ring the bell."
-EJ-005-1-1_10,"The victim was tied at the position where the bell and the hammer hit each other. According to the Monk who found the body, the victim's chest was sunken and his seven orifices were bleeding, and his death was gruesome."
-EJ-005-1-1_11,"Sunken chest, could it be that this person was hit by the bell hammer..."
-EJ-005-1-1_12,"According to the coroner's examination, the size of the depression in the victim's chest matches the bell hammer, it should be as you think."
-EJ-005-1-1_13,This... is hard to imagine...
-EJ-005-1-1_14,"The victim's death was so horrifying, what about the master who found the body..."
-EJ-005-1-1_15,He was so shocked that he is still recovering.
-EJ-005-1-1_16,"When the other monks at Baoguo Temple heard his scream, they came to investigate and then reported the case to the Government Office."
+EJ-005-38_8,"You guys rest in the city for a while, Me will rent a few rooms in the inn for you, and I will contact you when I find clues.","ช่วงนี้พวกเจ้าจงพักผ่อนในเมืองไปก่อนเถิด ข้าจะจัดหาห้องพักในโรงเตี๊ยม\nให้พวกเจ้าหลายห้อง เมื่อได้เบาะแสแล้วจึงจะไปแจ้งข่าวแก่พวกเจ้า"
+EJ-005-38_9,How can we accept this?,เกรงใจจริง ๆ...แบบนี้จะดีหรือ?
+EJ-005-38_10,"It's a small matter, don't mind.",เรื่องเล็กน้อย...ไม่ต้องเกรงใจ
+EJ-005-38_11,Then we won't be polite.,งั้นพวกเรา  ไม่เกรงใจล่ะนะ
+EJ-005-38_12,"Well, Me will arrange manpower first, and I will leave first.","อืม, ข้าขอตัวไปจัดการเรื่องกำลังคนก่อน, ขอลาแล้ว!"
+EJ-005-38_13,"I didn't expect this Sun, the Precinct Captiain to be quite nice. Ling'er thought he wouldn't help.",ไม่นึกเลยว่า นายกองซุนจะมีน้ำใจถึงเพียงนี้!  หลิงเออร์ ยังคิดว่าจะไม่ยอมช่วยเหลือเสียอีก
+EJ-005-38_14,...Me didn't expect it either.,...ไม่นึกเลยว่าจะเป็นเช่นนี้
+EJ-005-38_15,"Anyway, it's a relief.","อย่างไรก็ตาม, ในที่สุด...ก็โล่งใจ ซะที"
+EJ-005-38_16,"Brother, I've been in jail for a long time, I'll go to the city for a breath of fresh air, and meet up with you later.","พี่ชาย ข้าติดอยู่ในคุกเสียนาน ขอออกไปเดินเล่นในเมืองเสียหน่อย\nอีกเดี๋ยวจะกลับมาสมทบกับพวกท่าน"
+EJ-005-38_17,Okay.,ได้สิ..
+EJ-005-38_18,"Sister Hong, we finally came to Daliang City once, and we haven't had a good tour yet, shall we go around the city?","พี่หญิงหง, พวกเราอุตส่าห์มาถึงเมืองต้าเหลียงทั้งที\nยังไม่ได้เที่ยวชมให้ทั่วเลย  ไปเดินเล่นในเมืองกันหน่อยดีไหม?"
+EJ-005-38_19,"Well... okay, where does Ling'er want to go?","อืม... ได้สิ, หลิงเออร์อยากไปเดินเล่นที่ไหนล่ะ?"
+EJ-005-38_20,"I heard that the market in Daliang City is very lively, let's go and have a look~",ได้ยินว่าตลาดเมืองต้าเหลียง คึกคักมาก พวกเราไปเดินเที่ยวที่นั่นกันเถอะ~
+EJ-005-38_21,"Alright, then let's go to the market.","อืม, ดีเลย เช่นนั้นพวกเราก็ไปเดินเล่นที่ตลาดกันเถอะ"
+EJ-005-38_22,"{PlayerSurName} Young hero, then Ling'er and I will go around the market. If there is any news, you can notify us, and we will come at any time.","จอมยุทธน้อย{PlayerSurName}  ข้ากับหลิงเออร์จะไปตลาดก่อนนะ \nหากมีข่าวสารสำคัญอันใด โปรดส่งสัญญาณมา พวกเราจะรีบรุดมาทันที"
+EJ-005-38_23,Okay.,ได้เลย..
+EJ-005-39_1,"Amitabha, I need to think about today's events, I will go back to the Guest Room first.","อมิตาพุทธ, เรื่องในวันนี้ อาตมาต้องขอใคร่ครวญให้ดี จึงขอตัวกลับห้องพักก่อน"
+EJ-005-39_2,"Master, have a good rest.","ท่านอาจารย์, เชิญ ท่านอาจารย์ จงพักผ่อนให้เพียงพอเถิด"
+EJ-005-1-1_1,"{PlayerName}, you're here.","{PlayerName}, ในที่สุดเจ้าก็มา!"
+EJ-005-1-1_2,How could I not come when invited by Luo Constable?,หัวหน้ามือปราบลั่ว มีคำเชิญ ข้าจะขัดคำสั่งได้อย่างไร?
+EJ-005-1-1_3,"I wonder how Luo Constable's investigation is going, is there anything I can help with?","หัวหน้ามือปราบลั่ว, ความคืบหน้าของคดีเป็นเช่นไรแล้ว? มีอะไรให้ข้าช่วยได้บ้าง?"
+EJ-005-1-1_4,"Alas, this case is indeed a bit tricky.","เฮ้อ, คดีนี้มันซับซ้อนยุ่งยากจริง ๆ"
+EJ-005-1-1_5,"If Luo Constable finds it tricky, it seems this case is indeed complex.","หากแม้แต่หัวหน้าลั่ว ยังรู้สึกหนักใจ, คดีนี้คงมิใช่เรื่องธรรมดาเสียแล้ว!"
+EJ-005-1-1_6,"No, actually it's... never mind, let me first introduce you to the case that happened here.","เฮ้อ...เอาเถอะ , ข้าจะเล่าเรื่องราวของคดีที่เกิดขึ้นในสถานที่นี้  ให้เจ้าฟังก่อนดีกว่า"
+EJ-005-1-1_7,The victim here is a major landowner in Daliang City. This person has a good reputation in the city and his rent to his tenants is not high.,"ผู้ตายตรงนี้เป็น เจ้าของที่ดินผู้มั่งคั่ง ของเมืองต้าเหลียง\nเป็นคนใจบุญสุนทานมาก ค่าเช่าที่นาก็ไม่ได้แพงเกินควรเลย"
+EJ-005-1-1_8,"This person has been a devout Buddhist throughout his life, coming to the temple to burn incense and make offerings on the first and fifteenth of each month.",เขาผู้นี้เลื่อมใสในพระพุทธศาสนา ทุกวันพระก็มาจุดธูปสักการะพระพุทธองค์
+EJ-005-1-1_9,"On the fifteenth of last month, he came to the temple to burn incense as usual, but did not return home the next day. Early on the sixteenth, a Monk found his body when he came to ring the bell.","วันที่สิบห้าเดือนก่อน เขายังมาวัดจุดธูป ตามปกติ แต่ทว่าคืนนั้นก็ไม่ได้กลับบ้าน\nเช้าวันต่อมา หลวงจีนในวัดก็มาเจอศพเขา ที่นี่เอง"
+EJ-005-1-1_10,"The victim was tied at the position where the bell and the hammer hit each other. According to the Monk who found the body, the victim's chest was sunken and his seven orifices were bleeding, and his death was gruesome.","ผู้ตายถูกมัดติดอยู่กับระฆังใหญ่ของวัดเป่ากั๋ว คาดว่าน่าจะถูกตีด้วยไม้ตีระฆังจนตาย\nหลวงจีนแจ้ง ว่าหน้าอกยุบ เลือดไหลออกจากทวารทั้งเจ็ด ตายอย่างอนาถโดยแท้"
+EJ-005-1-1_11,"Sunken chest, could it be that this person was hit by the bell hammer...",หน้าอกยุบลงขนาดนี้ หรือว่าผู้นี้จะถูกท่อนไม้ตีระฆัง... สังหาร?
+EJ-005-1-1_12,"According to the coroner's examination, the size of the depression in the victim's chest matches the bell hammer, it should be as you think.","อืม... หมอหชันสูตรศพแล้ว, รอยยุบที่หน้าอกตรงกับไม้ตีระฆัง \nน่าจะเป็นอย่างที่เจ้าคิดนั่นแหละ"
+EJ-005-1-1_13,This... is hard to imagine...,นี่... เป็นเรื่องเหลือเชื่อจริงๆ...
+EJ-005-1-1_14,"The victim's death was so horrifying, what about the master who found the body...","อนิจจา... สภาพศพของผู้นี้ มันช่างน่าสยดสยองถึงเพียงนี้ \nแล้วหลวงจีนที่พบเห็น... ท่านจะเป็นเช่นไรบ้าง?"
+EJ-005-1-1_15,He was so shocked that he is still recovering.,เขาตกใจจนขวัญเสีย  จนบัดนี้ก็ยังไม่ฟื้นคืนสู่สภาพเดิม
+EJ-005-1-1_16,"When the other monks at Baoguo Temple heard his scream, they came to investigate and then reported the case to the Government Office.","ยามนั้น, หลวงจีนอื่นในวัดเป่ากั๋ว ได้ยินเสียงหวีดร้องของเขา \nจึงพากันมาตรวจดู แล้วจึงไปแจ้งความยังศาลาว่าการ"
 EJ-005-1-1_17,"The Constable of Daliang City came to search and found a black Token next to the body, so this case was combined with other cases for investigation.",มือปราบเมืองต้าเหลียงมาค้นที่นี้ แล้วก็ ตราเหล็กดำตกอยู่ข้างศพ ด้วยเหตุนี้ คดีนี้จึงถูกนำไป รวมสอบสวนกับคดีอื่นๆ
-EJ-005-1-1_18,"This incident has happened for more than a month, the body has been buried, and the scene has long been restored to its original state, there is really no clue to be found here."
-EJ-005-1-1_19,It sounds like there is very little information left to investigate here.
-EJ-005-1-1_20,"Indeed. We also went to the victim's home, according to the victim's wives and Butler, the victim was friendly and should not have any enemies."
-EJ-005-1-1_21,"The Monks in the temple testified that the victim ran away after burning incense early, and they didn't know where he went afterwards."
-EJ-005-1-1_22,"Did you find any informants in the city, uncle?"
-EJ-005-1-1_23,Uncle?
-EJ-005-1-1_24,"Ahem, this is a major difficulty in this case. There are many Pilgrims in Baoguo Temple, and the victim was not a showy person, so those Pilgrims didn't have much impression of him."
-EJ-005-1-1_25,"Also because there are many Pilgrims, the Monks didn't notice any suspicious people..."
-EJ-005-1-1_26,"We also wanted to investigate the places the victim might have gone to in the city, but we were blocked by the Imperial City Department, so..."
-EJ-005-1-1_27,So this is Luo Constable's difficulty.
-EJ-005-1-1_28,"The official guards, instead of working together to solve the case, are competing for credit, it's really shocking."
-EJ-005-1-1_29,"Those people in the court have always been like this, they are unpredictable."
-EJ-005-1-1_30,Has Lady Shangguan also dealt with court officials?
-EJ-005-1-1_31,"Indeed, I have had some contact, some things still make me gasp when I think about them."
+EJ-005-1-1_18,"This incident has happened for more than a month, the body has been buried, and the scene has long been restored to its original state, there is really no clue to be found here.","เรื่องนี้เกิดขึ้นมานานกว่าหนึ่งเดือนแล้ว, ศพก็ถูกฝังไปแล้ว\nสถานที่เกิดเหตุก็ไม่เหลือเค้าเดิม ที่นี่คงจะหาเบาะแส อะไรไม่ได้แล้วจริงๆ"
+EJ-005-1-1_19,It sounds like there is very little information left to investigate here.,เท่าที่ได้ฟังมา...ข้อมูลที่พอจะสืบหาได้ที่นี่คงเหลือน้อยเต็มทีแล้ว
+EJ-005-1-1_20,"Indeed. We also went to the victim's home, according to the victim's wives and Butler, the victim was friendly and should not have any enemies.","ถูกต้อง เราได้ไปบ้านของผู้ตายแล้ว จากคำกล่าวของภรรยาเอก ภรรยารอง ภรรยาน้อย\nและผู้ดูแลเรือน ผู้ตายมีนิสัยใจคอเป็นมิตรเสมอมา จึงไม่น่าจะมีคู่แค้นใด"
+EJ-005-1-1_21,"The Monks in the temple testified that the victim ran away after burning incense early, and they didn't know where he went afterwards.","หลวงจีน ในวัดให้การว่าผู้ตายจุดธูปแต่เช้าแล้วก็จากไป \nหลังจากนั้นพวกเขาเอง ก็ไม่ทราบว่าผู้ตายไปที่ใดต่อ..."
+EJ-005-1-1_22,"Did you find any informants in the city, uncle?","เช่นนั้น, ท่านลุง ในเมืองนี้พวกท่านเจอพยานสำคัญบ้างรึยัง?"
+EJ-005-1-1_23,Uncle?,ท่านลุง?
+EJ-005-1-1_24,"Ahem, this is a major difficulty in this case. There are many Pilgrims in Baoguo Temple, and the victim was not a showy person, so those Pilgrims didn't have much impression of him.","เฮ้อ... นี่แหละคือปัญหายิ่งใหญ่ของคดี... วัดเป่ากั๋วมีคนมากมาย\nผู้ตายก็ไม่ใช่คนเด่นดัง สาธุชนที่มาวัดเลยไม่มีใครจำเขาได้เลย"
+EJ-005-1-1_25,"Also because there are many Pilgrims, the Monks didn't notice any suspicious people...",ด้วยความที่ผู้คนในวัดคับคั่ง เหล่าหลวงจีน จึงมิได้สังเกตเห็นผู้ใดน่าสงสัยแม้แต่น้อย...
+EJ-005-1-1_26,"We also wanted to investigate the places the victim might have gone to in the city, but we were blocked by the Imperial City Department, so...","พวกเราเองก็อยากจะสืบหาสถานที่ ที่ผู้ตายอาจไปในเมือง \nแต่กลับถูกกรมวังหลวง ขัดขวางไปเสียทุกที่ ดังนั้น..."
+EJ-005-1-1_27,So this is Luo Constable's difficulty.,ที่แท้ นี่คือความยากลำบาก ของหัวหน้ามือปราบลั่วนี่เอง
+EJ-005-1-1_28,"The official guards, instead of working together to solve the case, are competing for credit, it's really shocking.","พวกกรมวังหลวง ที่อวดดี แทนที่จะรวมกันเพื่อคลี่คลายคดี\nกลับมัวแต่ แย่งชิงความดีความชอบกับผู้อื่น น่าสมเพชนัก!!"
+EJ-005-1-1_29,"Those people in the court have always been like this, they are unpredictable.",คนในราชสำนัก พวกนั้นเป็นเช่นนี้เสมอมา ทำให้คนยากจะเข้าใจ
+EJ-005-1-1_30,Has Lady Shangguan also dealt with court officials?,แม่นางซ่างกวน เองก็เคยข้องเกี่ยวกับพวกขุนนาง ในราชสำนักด้วยหรือ?
+EJ-005-1-1_31,"Indeed, I have had some contact, some things still make me gasp when I think about them.","ใช่แล้ว, เคยมีเรื่องยุ่งๆ เกี่ยวข้องกันอยู่บ้าง บางอย่างนึกย้อนไป ตอนนี้ก็ยังตื่นตระหนก"
 EJ-005-1-1_32,"Ling'er feels the same way, especially when facing those factory guards, always feeling they are like snakes, cold and hard to approach."
 EJ-005-1-2_1,"Eunuch Tong, what kind of mood are you in, according to everyone?"
 EJ-005-1-2_2,"Heh, summer insects cannot speak of ice. There's nothing to discuss with these martial artists about the affairs of the court."
@@ -1832,13 +1832,13 @@ EJ-005-1-2_4,It's not your place to meddle in my affairs.
 EJ-005-1-2_5,"Yes, yes, it's our fault for being nosy."
 EJ-005-1-3_1,"The Imperial City Department has always been like this, nauseating."
 EJ-005-1-4_1,Those people from the Imperial City Department are too bullying!
-EJ-005-1-4_2,"Qianxue, don't talk nonsense."
-EJ-005-1-5_1,"Lu Constable, can anyone tell me the name of the landowner who died here?"
-EJ-005-1-5_2,"...It's no harm in telling you. The deceased was named Li Ying, originally a governor in the Zhongzhou Region. He later resigned and became a landowner."
-EJ-005-1-5_3,Li Ying...
-EJ-005-1-5_4,What is the leader thinking about?
-EJ-005-1-5_5,"...Nothing, let's continue the investigation."
-EJ-005-1-6_1,"So, Constable Luo, do you need our help with anything?"
+EJ-005-1-4_2,"Qianxue, don't talk nonsense.","ลั่วเฉียนเสวี่ย, หยุดกล่าววาจาอันเหลวไหลเสีย!"
+EJ-005-1-5_1,"Lu Constable, can anyone tell me the name of the landowner who died here?","หัวหน้ามือปราบลั่ว, เจ้าของที่ดินที่ตายอยู่ที่นี่ มีชื่อแซ่อะไร? พอจะบอกข้าได้หรือไม่?"
+EJ-005-1-5_2,"...It's no harm in telling you. The deceased was named Li Ying, originally a governor in the Zhongzhou Region. He later resigned and became a landowner.","บอกเจ้าก็ไม่เป็นไร, ผู้ตายมีนามว่า หลี่อิง เคยเป็นแม่ทัพใหญ่เขตจงโจวมาก่อน\nก่อนจะลาออกจากราชการมาใช้ชีวิตเป็น เจ้าของที่ดิน"
+EJ-005-1-5_3,Li Ying...,หลี่อิง...
+EJ-005-1-5_4,What is the leader thinking about?,ท่านหัวหน้า กำลังคิดอะไรอยู่หรือ?
+EJ-005-1-5_5,"...Nothing, let's continue the investigation.","ไม่มีอะไร, สืบสวนต่อไปก่อนเถอะ..."
+EJ-005-1-6_1,"So, Constable Luo, do you need our help with anything?",ดังนั้น หัวหน้ามือปราบลั่ว ต้องการให้พวกเราช่วยอะไรหรือ?
 EJ-005-1-6_2,"Because of the existence of the Imperial City Department, our investigation can't go deep. {PlayerName}, compared to this Constable, you are more free. If you find any clues, I hope you can inform this Constable."
 EJ-005-1-6_3,Understood.
 EJ-005-1-6_4,"This case is too complicated, I hope it can be resolved as soon as possible."
@@ -1846,8 +1846,8 @@ EJ-005-1-7_1,"Song Yushu, you said this is the place where the HP case happened?
 EJ-005-1-7_2,"Exactly, please come with me to the big bell."
 EJ-005-1-7_3,The protagonist walks to the big bell
 EJ-005-1-7_4,"This case happened on the sixteenth of last month, and when I came here, the place hadn't been cleaned up yet."
-EJ-005-1-7_5,"According to my inquiries, the deceased was named Li Ying, a landowner in the Zhongzhou Region, who came here to burn incense and worship Buddha on the first and fifteenth of each month."
-EJ-005-1-8_1,Li Ying...
+EJ-005-1-7_5,"According to my inquiries, the deceased was named Li Ying, a landowner in the Zhongzhou Region, who came here to burn incense and worship Buddha on the first and fifteenth of each month.","ตามที่สืบทราบ ผู้ตายมีนามว่า หลี่อิง เป็นเจ้าของที่ดินในเขตจงโจว \nทุกวันพระ เขาจะมายังที่แห่งนี้ เพื่อจุดธูปสักการะพระพุทธองค์"
+EJ-005-1-8_1,Li Ying...,หลี่อิง...
 EJ-005-1-8_2,What's wrong with Da Dangjia?
 EJ-005-1-8_3,"...Nothing, you continue."
 EJ-005-1-8_4,"Alright, then I'll continue."
@@ -1855,10 +1855,10 @@ EJ-005-1-9_1,"Early in the morning on the sixteenth of last month, a monk came h
 EJ-005-1-9_2,"The victim was tied at the position where the bell and the hammer hit each other. According to the Monk who found the body, the victim's chest was sunken and his seven orifices were bleeding, and his death was gruesome."
 EJ-005-1-9_3,"Sunken chest, could it be that this person was hit by the bell hammer..."
 EJ-005-1-9_4,"Although I don't know the results of the coroner's examination, I think this possibility is not small."
-EJ-005-1-9_5,This... is hard to imagine...
-EJ-005-1-9_6,"The victim's death was so horrifying, what about the master who found the body..."
+EJ-005-1-9_5,This... is hard to imagine...,นี่... เป็นเรื่องเหลือเชื่อจริงๆ...
+EJ-005-1-9_6,"The victim's death was so horrifying, what about the master who found the body...","อนิจจา... สภาพศพของผู้นี้ มันช่างน่าสยดสยองถึงเพียงนี้ \nแล้วหลวงจีนที่พบเห็น... ท่านจะเป็นเช่นไรบ้าง?"
 EJ-005-1-9_7,Then I won't Cicada.
-EJ-005-1-9_8,"I only heard that when the Bailiff came, they found a black token next to the body. Therefore, Li Ying was considered part of this continuous case."
+EJ-005-1-9_8,"I only heard that when the Bailiff came, they found a black token next to the body. Therefore, Li Ying was considered part of this continuous case.","เท่าที่ทราบ เมื่อเจ้าหน้าที่มาถึง พบตราเหล็กดำอยู่ข้างศพ \nด้วยเหตุนี้ หลี่อิง จึงถูกนับเป็นหนึ่งในคดีฆาตกรรมต่อเนื่องนี้"
 EJ-005-1-9_9,"Now that this incident has been over a month, and the place has been restored to its original state, I suppose there won't be any clues to be found here, right?"
 EJ-005-1-9_10,Maybe the monks in the temple know something?
 EJ-005-1-9_11,"No, no, I've asked all the monks in the temple, they know nothing and haven't seen any suspicious people."
@@ -1944,7 +1944,7 @@ EJ-005-1-22_6,"Yes, otherwise why do you think Blue Wind Camp is called Blue Win
 EJ-005-1-22_7,"But master, you guessed wrong."
 EJ-005-1-22_8,What do you mean?
 EJ-005-1-22_9,"I don't know if the murderer is from Breeze Sect, but those who died were all scum of Breeze Sect.",คนที่ฆ่าน่ะเป็นคนของสำนักสายลมพิสุทธิ์หรือไม่ ข้ามิอาจทราบได้ แต่พวกที่ตายน่ะ ล้วนเป็นพวกเศษสวะของสำนักสายลมพิสุทธิ์ทั้งสิ้น!
-EJ-005-1-22_10,"Huang Shen, Zhu Wen, and Li Ying who died here..."
+EJ-005-1-22_10,"Huang Shen, Zhu Wen, and Li Ying who died here...","หวงเสิ่น, จูเหวิน, และหลี่อิงผู้เสียชีวิตที่นี่..."
 EJ-005-1-22_11,"Master, you should remember these names, right?"
 EJ-005-1-22_12,"Boss, are you sure about what you said?",หัวหน้าใหญ่... ท่านแน่ใจแล้วหรือว่า สิ่งที่ท่านกล่าวมานั้นถูกต้อง?
 EJ-005-1-22_13,"Of course, when have I ever lied to you?"
@@ -2532,7 +2532,7 @@ EJ-007-19_1,"Hehehe, it seems you know your time is up."
 EJ-007-20_1,"Zhang Li, you've ignored the law and committed numerous murders, today we will arrest you!"
 EJ-007-20_2,The law? What is the law?
 EJ-007-20_3,Where was the law when the Jade Palace slaughtered my family?
-EJ-007-20_4,"When Li Ying was torturing innocent people for fun, where was the law?"
+EJ-007-20_4,"When Li Ying was torturing innocent people for fun, where was the law?","ยามที่ หลี่อิง เข่นฆ่าประชาชนผู้บริสุทธิ์ อย่างสุขใจ, กฎหมายบ้านเมืองไปอยู่ไหนซะล่ะ?"
 EJ-007-20_5,"When Huang Shen was occupying the people's daughters, where was the law?"
 EJ-007-20_6,"When Zhu Wen was corrupt and sheltered criminals, causing innocent people to be exiled for eight hundred miles, where was the law?"
 EJ-007-20_7,……
