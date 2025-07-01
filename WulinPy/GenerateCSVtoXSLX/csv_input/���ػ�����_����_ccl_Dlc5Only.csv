@@ -1698,7 +1698,7 @@ EJ-005-26_11,"But what I don't understand even more is, if you're not happy in t
 EJ-005-26_12,Me——!,ข้า...!
 EJ-005-26_13,It's no use talking to you!,กล่าวกับเจ้า... ก็ไร้ความหมาย!
 EJ-005-26_14,"Sun, the Precinct Captain——",นายกองซุน...
-EJ-005-26_15,Let him go! It's no loss if such a dog official dies!,ปล่อยวางเสีย! ช่างมันเถิด! ขุนนางสวะเช่นนี้ ตายไปก็ไม่น่าเสียดาย!
+EJ-005-26_15,Let him go! It's no loss if such a dog official dies!,ปล่อยเขาไป! ช่างมัน! ขุนนางสวะเช่นนี้ ตายไปก็ไม่น่าเสียดาย!
 EJ-005-26_16,"What did you say, Mr. Kong?",ไอ้คน แซ่ขง... เจ้าพูดอะไรออกมา?
 EJ-005-26_17,"I said it's no loss if a dog official like you dies, good riddance, you should have died sooner!","ข้าหมายความว่า ไอ้ขุนนางชั่วช้าอย่างเจ้า ตายไปก็สมควรนัก \nตายได้ก็ดีแล้ว ตายช้าเสียไปด้วยซ้ำ!"
 EJ-005-26_18,"{PlayerSurName} Young hero, how do we wrap this up now...",จอมยุทธน้อย{PlayerSurName} ยามนี้... จะหาทางคลี่คลายได้อย่างไรเล่า...?
@@ -1983,56 +1983,56 @@ EJ-005-1-1-2_1,"Constable Luo, I already know who the murderer is.",ท่าน
 EJ-005-1-1-2_2,"Really?! As expected of you, who is the murderer?",จริงหรือ?! สมแล้วที่เป็นเจ้า! คนร้ายผู้นั้นเป็นใครกันแน่?
 EJ-005-1-1-2_3,"He is a former member of the Breeze Sect, the Hundred-Faced Judge Zhang Li.",เขาผู้นั้นก็คืออดีตคนของค่ายสายลมพิสุทธิ์ ตุลาการร้อยหน้า จางลี่ นั่นเอง
 EJ-005-1-1-2_4,Are you sure?,เจ้าแน่ใจได้หรือ?
-EJ-005-1-1-2_5,"It's highly likely, but I don't know where he is now."
-EJ-005-1-1-2_6,"No matter, as long as we have a clue, I can continue the investigation."
-EJ-005-1-1-2_7,"Thank you for providing the clue, here's something to show my gratitude."
-EJ-005-1-1-2_8,"You're too kind, Chief."
-EJ-005-1-1-2_9,It's only right.
-EJ-005-1-1-2_10,"The investigation is important, we won't stay here for long, goodbye."
-EJ-005-1-1-3_1,"Now that the Chief is here, this case should be solved...|If it weren't for the meddling of the Imperial City Bureau, this case would have been solved long ago!|If this case is solved, can I become a Constable too?|The sight of the deceased still gives me the creeps..."
-EJ-005-1-1-4_1,"{PlayerGivenName}, what are you doing—"
-EJ-005-1-1-4_2,"They, the Crime Investigation Bureau, talk about justice and morality, but they can't solve a case, and they'll probably oppose us later, why keep them?"
-EJ-005-1-1-4_3,……
-EJ-005-2-1_1,"What do you mean, you guys who are neither male nor female?"
-EJ-005-2-1_2,"We're on official duty, please cooperate, owner of the Liu Building."
-EJ-005-2-1_3,What does your investigation have to do with this Tower of Prosperity?
-EJ-005-2-1_4,"You're blocking the entrance, how are we supposed to do business?"
-EJ-005-2-1_5,"This is the Deputy Commander's order, we're just following orders."
-EJ-005-2-1_6,Then call your Deputy Commander here.
-EJ-005-2-1_7,"Hmph, you're just a merchant, how are you qualified to see the Deputy Commander?"
-EJ-005-2-1_8,...You're really used to being dogs.
-EJ-005-2-1_9,"Even if your Commander comes in person, he should be polite to me, it's not your place to bark."
-EJ-005-2-1_10,What did you say?!
-EJ-005-2-1_11,What's all the noise about?
-EJ-005-2-1_12,"Greetings, Commander."
-EJ-005-2-1_13,Stand up and talk.
-EJ-005-2-1_14,"Thank you, sir!"
-EJ-005-2-1_15,Two spies stand up
-EJ-005-2-1_16,"Sir, this man insisted on seeing you, we were dealing with it."
-EJ-005-2-1_17,Oh?
-EJ-005-2-1_18,"Deputy Commander walks up to Liu Fuming, the spies in front make way"
-EJ-005-2-1_19,What does the owner of the Liu Building need from us?
-EJ-005-2-1_20,"Your two dogs are blocking the entrance, barking at everyone who comes, how are we supposed to do business?"
-EJ-005-2-1_21,"Watch your mouth, Liu!"
-EJ-005-2-1_22,Who told you to speak?
-EJ-005-2-1_23,...Yes.
-EJ-005-2-1_24,Is what the owner of the Liu Building saying true?
-EJ-005-2-1_25,"Sir, we were following your orders..."
-EJ-005-2-1_26,When did I say they couldn't do business?
-EJ-005-2-1_27,This...
-EJ-005-2-1_28,"Sir, you said the Tower of Prosperity might be related to the murder case, so you told us to keep an eye on it..."
-EJ-005-2-1_29,"You do have a good memory, but when did I ever say they couldn't do business?"
-EJ-005-2-1_30,I know my mistake...
-EJ-005-2-1_31,"Mr. Liu, look, it was all their doing, the servants are ignorant, please be generous, Mr. Liu."
-EJ-005-2-1_32,"You two, haven't you apologized to Mr. Liu yet?"
-EJ-005-2-1_33,"I know my mistake, please forgive me, Mr. Liu."
-EJ-005-2-1_34,Hmph.
-EJ-005-2-1_35,"Thank you, Mr. Liu, I will have them leave now, please feel free to do business, Mr. Liu."
-EJ-005-2-1_36,Still not leaving?
-EJ-005-2-1_37,"Mr. Liu, the case is not yet clear, I still need to bother you for a few days..."
-EJ-005-2-1_38,"Please feel free, as long as it doesn't interfere with my business."
-EJ-005-2-1_39,"Tsk, what's with the attitude."
-EJ-005-2-1_40,If it weren't for the money in your pocket...
+EJ-005-1-1-2_5,"It's highly likely, but I don't know where he is now.",ไม่ผิดไปจากนี้แน่ แต่ทว่า ตอนนี้เขาอยู่ที่ใด ข้าก็ไม่ทราบเช่นกัน
+EJ-005-1-1-2_6,"No matter, as long as we have a clue, I can continue the investigation.",ไม่เป็นไร! เมื่อมีเบาะแสแล้ว หัวหน้ามือปราบผู้นี้ก็ย่อมสืบสวนต่อไปได้!
+EJ-005-1-1-2_7,"Thank you for providing the clue, here's something to show my gratitude.",ขอบคุณที่ท่านได้มอบเบาะแสให้ สิ่งเหล่านี้ เป็นน้ำใจเล็กน้อยเพื่อแสดงความขอบคุณ!
+EJ-005-1-1-2_8,"You're too kind, Chief.",ท่านหัวหน้ามือปราบช่างเกรงใจนัก
+EJ-005-1-1-2_9,It's only right.,สมควรแล้ว!
+EJ-005-1-1-2_10,"The investigation is important, we won't stay here for long, goodbye.",การสืบคดีสำคัญกว่า พวกเรามิอาจอยู่นานนัก ขอตัวลา!
+EJ-005-1-1-3_1,"Now that the Chief is here, this case should be solved...|If it weren't for the meddling of the Imperial City Bureau, this case would have been solved long ago!|If this case is solved, can I become a Constable too?|The sight of the deceased still gives me the creeps...",หัวหน้ามือปราบมาเองถึงที่แล้ว คดีนี้น่าจะไขได้กระมัง...|หากไร้ซึ่งคนของกรมวังหลวงคอยก่อกวน คดีนี้คงไขไปนานแล้ว!|หากไขคดีนี้ได้ ข้าคงจะได้เป็นมือปราบบ้างแล้วสิ!|สภาพศพของผู้ตายนั้น เพียงหวนนึกถึงก็ยังขนลุกซู่...
+EJ-005-1-1-4_1,"{PlayerGivenName}, what are you doing—",พี่ชาย{PlayerGivenName} นี่ท่านกำลัง—
+EJ-005-1-1-4_2,"They, the Crime Investigation Bureau, talk about justice and morality, but they can't solve a case, and they'll probably oppose us later, why keep them?",พวกสำนักเทพมือปราบนั่น เต็มไปด้วยคำพูดโอ้อวดเรื่องคุณธรรมความชอบธรรม แต่สืบคดีง่ายๆ ยังไม่อาจสืบได้ หลังจากนี้ เกรงว่าก็คงจะคอยเป็นปรปักษ์กับพวกเรา จะเก็บพวกเขาไว้ทำไมกัน?!
+EJ-005-1-1-4_3,……,……
+EJ-005-2-1_1,"What do you mean, you guys who are neither male nor female?",พวกเจ้า ตัวผู้ก็ไม่ใช่ ตัวเมียก็ไม่เชิง นี่มันหมายความว่าอันใดกัน?!
+EJ-005-2-1_2,"We're on official duty, please cooperate, owner of the Liu Building.",เรากำลังปฏิบัติราชการ ขอท่านเจ้าหอหลิวโปรดให้ความร่วมมือด้วย
+EJ-005-2-1_3,What does your investigation have to do with this Tower of Prosperity?,พวกเจ้าก็สืบคดีของพวกเจ้าไป แล้วมันเกี่ยวอันใดกับหอเจิดจรัสนี้ด้วยเล่า?!
+EJ-005-2-1_4,"You're blocking the entrance, how are we supposed to do business?",พวกเจ้ามาปิดกั้นประตูใหญ่เช่นนี้ แล้วพวกเราจะค้าขายได้อย่างไร?
+EJ-005-2-1_5,"This is the Deputy Commander's order, we're just following orders.",นี่เป็น คำสั่งของรองผู้บัญชาการ พวกเราก็เพียงทำตามคำสั่งเท่านั้น
+EJ-005-2-1_6,Then call your Deputy Commander here.,เช่นนั้นก็ เรียกตัวรองผู้บัญชาการของพวกเจ้ามาเสียสิ!
+EJ-005-2-1_7,"Hmph, you're just a merchant, how are you qualified to see the Deputy Commander?",ฮึ่ม! เจ้าเป็นเพียงพ่อค้าคนหนึ่ง มีสิทธิ์อันใดที่จะได้พบท่านรองผู้บัญชาการเล่า?!
+EJ-005-2-1_8,...You're really used to being dogs.,...พวกเจ้านี่ เป็นสุนัขจนชินชาไปแล้วจริงๆ!
+EJ-005-2-1_9,"Even if your Commander comes in person, he should be polite to me, it's not your place to bark.",ต่อให้ผู้บัญชาการของพวกเจ้ามาเอง เจอข้าก็ยังต้องสุภาพนอบน้อม แล้วมีที่ไหนให้เจ้าพวกหมาเห่าหอนอย่างเจ้ามาพล่ามเช่นนี้?!
+EJ-005-2-1_10,What did you say?!,เจ้าว่าอันใดนะ?!
+EJ-005-2-1_11,What's all the noise about?,เกิดเรื่องอันใดกัน เหตุใดจึงส่งเสียงอึกทึกครึกโครมเช่นนี้?
+EJ-005-2-1_12,"Greetings, Commander.",คารวะท่านผู้บัญชาการ!
+EJ-005-2-1_13,Stand up and talk.,ลุกขึ้นแล้วค่อยกล่าว
+EJ-005-2-1_14,"Thank you, sir!",ขอบคุณท่านผู้บัญชาการ!
+EJ-005-2-1_15,Two spies stand up,สายลับทั้งสอง ลุกขึ้นยืน
+EJ-005-2-1_16,"Sir, this man insisted on seeing you, we were dealing with it.",ท่านผู้บัญชาการ ผู้นี้ส่งเสียงเอะอะโวยวายว่าต้องการพบท่าน พวกข้ากำลังจัดการอยู่ขอรับ
+EJ-005-2-1_17,Oh?,โฮ่?
+EJ-005-2-1_18,"Deputy Commander walks up to Liu Fuming, the spies in front make way",รองผู้บัญชาการเดินมาหยุดเบื้องหน้า หลิวฝูหมิง สายลับที่ขวางทางอยู่ก็หลีกทางให้
+EJ-005-2-1_19,What does the owner of the Liu Building need from us?,เจ้าหอหลิวมีเรื่องอันใดจะพบข้าอย่างนั้นรึ?
+EJ-005-2-1_20,"Your two dogs are blocking the entrance, barking at everyone who comes, how are we supposed to do business?",สุนัขสองตัวของท่าน มาปิดกั้นประตูใหญ่ไว้ เห็นคนมา ก็เห่าหอนไปทั่ว แล้วผู้คนจะค้าขายได้อย่างไร?!
+EJ-005-2-1_21,"Watch your mouth, Liu!",เจ้าแซ่หลิ่ว! ปากของเจ้าควรจะสำรวมหน่อยนะ!
+EJ-005-2-1_22,Who told you to speak?,ผู้ใดอนุญาตให้เจ้าพูด?
+EJ-005-2-1_23,...Yes.,...ขอรับ
+EJ-005-2-1_24,Is what the owner of the Liu Building saying true?,ที่ท่านเจ้าหอหลิวกล่าวมานั้น เป็นความจริงกระนั้นรึ?
+EJ-005-2-1_25,"Sir, we were following your orders...",ท่านผู้บัญชาการ พวกข้า.. ทำตามคำสั่งของท่าน...
+EJ-005-2-1_26,When did I say they couldn't do business?,ข้าเคยกล่าวเมื่อใดกันว่าไม่ให้พวกเขาค้าขาย?
+EJ-005-2-1_27,This...,เรื่องนั้น...
+EJ-005-2-1_28,"Sir, you said the Tower of Prosperity might be related to the murder case, so you told us to keep an eye on it...",ท่านผู้บัญชาการ ท่านกล่าวว่าหอเจิดจรัสนี้อาจเกี่ยวข้องกับคดีฆาตกรรม จึงให้พวกเราเฝ้าจับตาดูให้ดี...
+EJ-005-2-1_29,"You do have a good memory, but when did I ever say they couldn't do business?",ความจำเจ้ายังดีนี่ แต่ข้าเคยกล่าวเมื่อใดกันว่าไม่ให้พวกเขาค้าขาย?
+EJ-005-2-1_30,I know my mistake...,ข้าน้อยสำนึกผิดแล้วขอรับ...
+EJ-005-2-1_31,"Mr. Liu, look, it was all their doing, the servants are ignorant, please be generous, Mr. Liu.",ท่านเจ้าหอหลิว ท่านดูสิ ครานี้ล้วนเป็นความมุทะลุดุดันของคนทั้งสองโดยพลการ บ่าวไพร่ไม่รู้จักกาละเทศะ ท่านเจ้าหอหลิว โปรดอภัยให้ด้วยใจอันกว้างขวางเถิด
+EJ-005-2-1_32,"You two, haven't you apologized to Mr. Liu yet?",เจ้าสองคน ยังไม่รีบขอโทษท่านเจ้าหอหลิวอีกรึ?
+EJ-005-2-1_33,"I know my mistake, please forgive me, Mr. Liu.",ข้าสำนึกผิดแล้ว ขอท่านเจ้าหอหลิวโปรดให้อภัยด้วย!
+EJ-005-2-1_34,Hmph.,ฮึ่ม
+EJ-005-2-1_35,"Thank you, Mr. Liu, I will have them leave now, please feel free to do business, Mr. Liu.",ขอบคุณท่านเจ้าหอหลิว ข้าจะให้พวกเขาถอยออกไปเดี๋ยวนี้ ขอท่านเจ้าหอหลิวโปรดค้าขายอย่างสบายใจเถิด
+EJ-005-2-1_36,Still not leaving?,ยังไม่รีบถอยไปอีกรึ?
+EJ-005-2-1_37,"Mr. Liu, the case is not yet clear, I still need to bother you for a few days...",ท่านเจ้าหอหลิว คดีนี้ยังไม่กระจ่างแจ้ง ข้าคงต้องรบกวนอีกสักสองสามวัน...
+EJ-005-2-1_38,"Please feel free, as long as it doesn't interfere with my business.",เชิญตามสบายเถิด ขอเพียงอย่าได้ทำให้การค้าของข้าต้องติดขัดก็พอ
+EJ-005-2-1_39,"Tsk, what's with the attitude.",หึ้ย! วางท่าใหญ่โตอะไรกัน!
+EJ-005-2-1_40,If it weren't for the money in your pocket...,หากมิใช่เพราะเจ้ามีเงินติดตัวอยู่บ้าง...
 EJ-005-2-1_41,"Who would have thought that the Imperial City Department would be so respectful to the people of the Tower of Prosperity, this is really rare.","ไม่คิดเลยว่ากรมวังหลวง ผู้ทรงเกียรติ จะแสดงความเคารพต่อ\nคนของหอเจิดจรัสถึงเพียงนี้ ช่างน่าแปลกใจยิ่งนัก"
 EJ-005-2-2_1,"Sir, you don't know, although he is harsh in his words, he gives a lot of money every year.",ท่าน... ไม่ทราบหรอกหรือ เขาน่ะแม้ปากจะร้าย แต่เงินที่ส่งมาให้ทุกปีไม่น้อยเลยนะ
 EJ-005-2-2_2,"Besides, he is not ordinary, it's better to avoid trouble.",อีกทั้ง ฝีมือของเขาก็ไม่ธรรมดา การมีเรื่องเพิ่มขึ้น ย่อมไม่สู้ไร้เรื่องราว!
@@ -2040,42 +2040,42 @@ EJ-005-2-3_1,Could you two gentlemen please make way? I still have business to d
 EJ-005-2-3_2,"We are on official duty, please cooperate, Steward.",พวกข้ากำลังปฏิบัติหน้าที่ราชการ โปรดให้ความร่วมมือด้วย
 EJ-005-2-3_3,"Cooperate, cooperate, I will definitely cooperate, but this business must...",ร่วมมือ ร่วมมือ ข้าน้อยยินดีให้ความร่วมมือแน่นอน เพียงแต่การค้าขายนี้...
 EJ-005-2-3_4,"Otherwise, when the building owner comes back, I won't be able to account for it...",ไม่งั้น เดี๋ยวท่านเจ้าของหอกลับมา ข้าคงรายงานบัญชีนี้ไม่ได้แน่ๆ...
-EJ-005-2-3_5,"This is the Deputy Commander's order, we're just following orders."
-EJ-005-2-3_6,"I see you two gentlemen have been on guard for a long time, you must be tired, why not follow me inside for a rest, let the girls watch here."
-EJ-005-2-3_7,"This... no, the Deputy Commander has orders, we can't leave our posts."
-EJ-005-2-3_8,Tsk...
-EJ-005-2-3_9,What's all the noise about?
-EJ-005-2-3_10,The two gatekeepers look at the kneeling Deputy Commander
-EJ-005-2-3_11,"Greetings, Commander."
-EJ-005-2-3_12,Stand up and talk.
-EJ-005-2-3_13,"Thank you, sir!"
-EJ-005-2-3_14,"Sir, this man insisted on seeing you, we were dealing with it."
-EJ-005-2-3_15,Oh?
-EJ-005-2-3_16,"The Deputy Commander walks up to the Steward, the spies in front make way"
-EJ-005-2-3_17,"I remember you are the Steward of the Tower of Prosperity, what can I do for you?"
-EJ-005-2-3_18,"Sir, you actually remember me, I am flattered."
-EJ-005-2-3_19,"But your subordinates are not as good as you, they are blocking here, I can't do my business."
-EJ-005-2-3_20,"When the building owner comes back, how can I explain..."
-EJ-005-2-3_21,Is that so?
-EJ-005-2-3_22,"Sir, we were following your orders..."
-EJ-005-2-3_23,When did I say they couldn't do business?
-EJ-005-2-3_24,This...
-EJ-005-2-3_25,"Sir, you said the Tower of Prosperity might be related to the murder case, so you told us to keep an eye on it..."
-EJ-005-2-3_26,"You do have a good memory, but when did I ever say they couldn't do business?"
-EJ-005-2-3_27,I know my mistake...
-EJ-005-2-3_28,"Steward, look, it's all their doing, I'll stand up for you, I'll definitely punish them when I get back."
-EJ-005-2-3_29,"Thank you, sir."
-EJ-005-2-3_30,"Steward, look, the case is not yet clear, I still need to bother you for a few days..."
-EJ-005-2-3_31,"Sir, please don't be a stranger, please feel free."
-EJ-005-2-3_32,"With Mr. Liu gone, it seems this Steward is quite capable."
-EJ-005-2-4_1,"Those eunuchs are always like this, I'm afraid there's something to gain in the Tower of Prosperity."
-EJ-005-2-4_2,"Sister Hong, the way that eunuch looked just now..."
-EJ-005-2-4_3,"Hmm, completely different from the factory guards."
-EJ-005-2-4_4,"Anyway, knowing that the Imperial City Department is in the Tower of Prosperity is enough."
-EJ-005-2-4_5,"{PlayerSurName} young hero, are you sure you can pry open the Deputy Commander's mouth?"
-EJ-005-2-4_6,"I'm not sure, but I have to try."
-EJ-005-2-4_7,"And the alley next to the Tower of Prosperity, that's where the murder happened, although I don't know how many clues are left, but I have to go and see."
-EJ-005-2-4_8,"Let's not delay, {PlayerGivenName} brother, let's go~"
+EJ-005-2-3_5,"This is the Deputy Commander's order, we're just following orders.",นี่เป็น คำสั่งของรองผู้บัญชาการ พวกเราก็เพียงทำตามคำสั่งเท่านั้น
+EJ-005-2-3_6,"I see you two gentlemen have been on guard for a long time, you must be tired, why not follow me inside for a rest, let the girls watch here.","ข้าเห็นใต้เท้าทั้งสองยืนหยัดมานาน คงอ่อนล้าเต็มทีแล้ว! \nใยไม่ตามข้าน้อย เข้าหอไปพักผ่อนเล่า? ที่นี่ให้เหล่าสาวงามดูแลก็พอแล้ว!"
+EJ-005-2-3_7,"This... no, the Deputy Commander has orders, we can't leave our posts.",นี่...มิได้! รองผู้บัญชาการมีคำสั่งไว้แต่แรกแล้ว! พวกเราจะทิ้งหน้าที่ไปไม่ได้
+EJ-005-2-3_8,Tsk...,เชอะ!
+EJ-005-2-3_9,What's all the noise about?,เกิดเรื่องอันใดกัน เหตุใดจึงส่งเสียงอึกทึกครึกโครมเช่นนี้?
+EJ-005-2-3_10,The two gatekeepers look at the kneeling Deputy Commander,เจ้าหน้าที่ทั้งสองคน ที่ยืนเฝ้าประตู  มองไปที่รองผู้บัญชาการแล้วคุกเข่าลง
+EJ-005-2-3_11,"Greetings, Commander.",คารวะท่านผู้บัญชาการ!
+EJ-005-2-3_12,Stand up and talk.,ลุกขึ้น !!
+EJ-005-2-3_13,"Thank you, sir!",ขอบคุณ ใต้เท้า !!
+EJ-005-2-3_14,"Sir, this man insisted on seeing you, we were dealing with it.",ท่านผู้บัญชาการ ผู้นี้ส่งเสียงเอะอะโวยวายว่าต้องการพบท่าน พวกข้ากำลังจัดการอยู่ขอรับ
+EJ-005-2-3_15,Oh?,โฮ๋?
+EJ-005-2-3_16,"The Deputy Commander walks up to the Steward, the spies in front make way",รองผู้บัญชาการเดินมาหยุดเบื้องหน้า ผู้ดูแล สายลับที่ขวางทางอยู่ก็หลีกทางให้
+EJ-005-2-3_17,"I remember you are the Steward of the Tower of Prosperity, what can I do for you?",ข้าจำได้ว่าเจ้าเป็นผู้ดูแลหอเจิดจรัส มีธุระอันใดกับข้า?
+EJ-005-2-3_18,"Sir, you actually remember me, I am flattered.",ใต้เท้า ยังคงข้าน้อยได้ ข้ารู้สึกเป็นเกียรติอย่างยิ่ง
+EJ-005-2-3_19,"But your subordinates are not as good as you, they are blocking here, I can't do my business.","ใต้เท้า คนของท่านช่างไร้น้ำใจนัก! การที่พวกเขาขวางทางเช่นนี้\nทำให้การค้าขายพลอยเสียหายไปหมดแล้ว!"
+EJ-005-2-3_20,"When the building owner comes back, how can I explain...",รอจน ท่านเจ้าของหอกลับมา ข้าน้อยจะไปชี้แจงเรื่องนี้อย่างไรดีเล่า...
+EJ-005-2-3_21,Is that so?,เป็นเช่นนั้นเองรึ?
+EJ-005-2-3_22,"Sir, we were following your orders...",ท่านผู้บัญชาการ พวกข้า.. ทำตามคำสั่งของท่าน... 
+EJ-005-2-3_23,When did I say they couldn't do business?,ข้าเคยกล่าวเมื่อใดกันว่า ไม่ให้พวกเขาค้าขาย?
+EJ-005-2-3_24,This...,นี่...มัน...
+EJ-005-2-3_25,"Sir, you said the Tower of Prosperity might be related to the murder case, so you told us to keep an eye on it...","ท่านผู้บัญชาการ ท่านกล่าวว่าหอเจิดจรัสนี้อาจเกี่ยวข้องกับคดีฆาตกรรม \nจึงให้พวกเราเฝ้าจับตาดูให้ดี..."
+EJ-005-2-3_26,"You do have a good memory, but when did I ever say they couldn't do business?",ความจำเจ้ายังดีนี่ แต่ข้าเคยกล่าวเมื่อใดกันว่าไม่ให้พวกเขาค้าขาย?
+EJ-005-2-3_27,I know my mistake...,ข้าน้อยสำนึกผิดแล้วขอรับ... 
+EJ-005-2-3_28,"Steward, look, it's all their doing, I'll stand up for you, I'll definitely punish them when I get back.","ผู้ดูแล,พวกมันสองคนล้วนกระทำการโดยพลการ ไม่ต้องกังวลไป \nข้าจะทวงความยุติธรรมให้เจ้าเอง! เมื่อข้ากลับไปจะลงโทษพวกมันให้สาสม!"
+EJ-005-2-3_29,"Thank you, sir.",ขอบคุณท่านมากนะเจ้าคะ
+EJ-005-2-3_30,"Steward, look, the case is not yet clear, I still need to bother you for a few days...",ผู้ดูแล คดีนี้ยังไม่กระจ่างแจ้ง ข้าคงต้องรบกวนอีกสักสองสามวัน...
+EJ-005-2-3_31,"Sir, please don't be a stranger, please feel free.",ใต้เท้า อย่าได้เกรงใจ เชิญท่านตามสบาย!
+EJ-005-2-3_32,"With Mr. Liu gone, it seems this Steward is quite capable.",เมื่อท่านเจ้าหอหลิ่วไม่อยู่ ผู้ดูแลผู้นี้มีความสามารถอยู่ไม่น้อยเลยทีเดียว...
+EJ-005-2-4_1,"Those eunuchs are always like this, I'm afraid there's something to gain in the Tower of Prosperity.","ไอ้พวกขันทีไร้ยางอาย พวกนั้นเป็นเช่นนี้ มาแต่ไหนแต่ไรแล้ว\nเกรงว่าคงหวังผลประโยชน์จากหอเจิดจรัส เป็นแน่."
+EJ-005-2-4_2,"Sister Hong, the way that eunuch looked just now...",พี่หญิงหง เจ้าขันทีคนเมื่อครู่นั้น... ดูท่าทางของมันแล้วช่างน่ารังเกียจนัก!
+EJ-005-2-4_3,"Hmm, completely different from the factory guards.","อืมม, แตกต่างจากคนของ กรมวังหลวงโดยสิ้นเชิง"
+EJ-005-2-4_4,"Anyway, knowing that the Imperial City Department is in the Tower of Prosperity is enough.",สรุปแล้ว แค่รู้ว่าคนของกรมวังหลวงอยู่ในหอเจิดจรัส ก็พอ...
+EJ-005-2-4_5,"{PlayerSurName} young hero, are you sure you can pry open the Deputy Commander's mouth?","ท่านจอมยุทธน้อย{PlayerSurName},  คิดหรือว่าจะเค้นเอาความจริง\nจากรองผู้บัญชาการคนนั้น ได้โดยง่าย?"
+EJ-005-2-4_6,"I'm not sure, but I have to try.",ถึงแม้ ไม่แน่ใจนัก แต่ก็ต้องลองดูสักตั้ง!
+EJ-005-2-4_7,"And the alley next to the Tower of Prosperity, that's where the murder happened, although I don't know how many clues are left, but I have to go and see.","ยังมีทางเล็กๆ ข้างนอกหอเจิดจรัส ซึ่งเป็นจุดเกิดเหตุฆาตกรรม \nแม้ไม่รู้ว่า หลงเหลือหลักฐานมากเพียงใด แต่ก็จำใจต้องไปดู"
+EJ-005-2-4_8,"Let's not delay, {PlayerGivenName} brother, let's go~","เรื่องนี้ไม่ควรชักช้า, พี่{PlayerGivenName} เรารีบไปกันเถอะ! "
 EJ-005-2-5_1,"{PlayerSurName} young hero, what are you..."
 EJ-005-2-5_2,"These people are disgusting to look at, and they can't get any answers from their mouths, there's no use keeping them."
 EJ-005-2-5_3,……
@@ -3150,46 +3150,46 @@ EJ-007-136_10,Don't even think about leaving!
 EJ-007-136_11,"Damn, he escaped so fast!"
 EJ-007-136_12,"Sister Hong, are you okay?!"
 EJ-007-136_13,"Ling'er, I'm fine..."
-EJ-007-136_14,"That old man's internal strength is indeed profound, but I was able to defend in time."
-EJ-007-136_15,"Who is that person, there are such experts in the world..."
-EJ-007-137_1,...Shura Master.
-EJ-007-137_2,Who is that?
-EJ-007-137_3,...One of Chai Wang's subordinates.
-EJ-007-137_4,Could Song Yushu be a subordinate of Chai Wang?
-EJ-007-137_5,It's possible.
-EJ-007-137_6,"No wonder... thinking back, it was him who kept pushing us to investigate Zhang Li..."
-EJ-007-137_7,I can't believe he's been deceiving us all along!
-EJ-007-138_1,"If Zhang Li joins Chai Wang, it would be a disaster for the common people..."
-EJ-007-138_2,"Master, what do you mean?"
-EJ-007-138_3,"Given Zhang Li's actions, if he can be protected by Chai Wang, there will be countless imitators afterwards, Amitabha..."
-EJ-007-138_4,But Zhang Li only killed extremely evil people...
-EJ-007-138_5,Does it matter?
-EJ-007-139_1,"Alas, it's probably a disaster for the common people..."
-EJ-007-139_2,What do you mean?
-EJ-007-139_3,"Given his actions, if he can be protected by Chai Wang, how many imitators do you think there will be afterwards?"
-EJ-007-139_4,But Zhang Li only killed extremely evil people...
-EJ-007-139_5,Does it matter?
-EJ-007-140_1,"That guy is a follower of Chai Wang, a man of unknown origin, we don't know anything about him."
-EJ-007-140_2,Could Song Yushu be a subordinate of Chai Wang?
-EJ-007-140_3,I can't believe he's been deceiving us all along!
-EJ-007-140_4,Isn't it obvious? Or are you kids too young.
-EJ-007-140_5,"No wonder... thinking back, it was him who kept pushing us to investigate Zhang Li..."
-EJ-007-141_1,"If Zhang Li joins Chai Wang, it would be a disaster for the common people..."
-EJ-007-141_2,"Master, what do you mean?"
-EJ-007-141_3,"Given Zhang Li's actions, if he can be protected by Chai Wang, there will be countless imitators afterwards, Amitabha..."
-EJ-007-141_4,But Zhang Li only killed extremely evil people...
-EJ-007-141_5,Does it matter?
-EJ-007-142_1,"Alas, it's probably a disaster for the common people..."
-EJ-007-142_2,What do you mean?
-EJ-007-142_3,"Given his actions, if he can be protected by Chai Wang, how many imitators do you think there will be afterwards?"
-EJ-007-142_4,But Zhang Li only killed extremely evil people...
-EJ-007-142_5,Does it matter?
-EJ-007-143_1,"He killed an official of the court and still managed to escape the law, the world can only see this."
-EJ-007-144_1,"...What's worse, if the world knew that he only killed extremely evil people, and now he killed an innocent official, what would people think?"
-EJ-007-145_1,"Moreover, if the world knew that he only killed extremely evil people, and now he killed an innocent official, what would people think?"
-EJ-007-146_1,"{PlayerName}, you also thought so before you ""defected"", right?"
-EJ-007-146_2,"...Yes, indeed."
-EJ-007-146_3,"...Indeed, we didn't consider it thoroughly, we didn't expect that there were people from Chai Wang watching Zhang Li..."
+EJ-007-136_14,"That old man's internal strength is indeed profound, but I was able to defend in time.",พลังภายในของเฒ่าผู้นั้น สูงส่งนัก แต่ข้าก็ยังพอมีเวลาตั้งรับอยู่
+EJ-007-136_15,"Who is that person, there are such experts in the world...",ผู้นั้นเป็นใครกัน ในใต้หล้านี้ ยังจะมียอดฝีมือเช่นนี้อีกหรือ...
+EJ-007-137_1,...Shura Master.,...ปรมาจารย์อสุรา
+EJ-007-137_2,Who is that?,ใครล่ะนั่น?
+EJ-007-137_3,...One of Chai Wang's subordinates.,...คนของอ๋องไฉ
+EJ-007-137_4,Could Song Yushu be a subordinate of Chai Wang?,หรือว่าซ่งอวี้ซูเป็นคนของอ๋องไฉด้วย?!
+EJ-007-137_5,It's possible.,ก็เป็นไปได้!
+EJ-007-137_6,"No wonder... thinking back, it was him who kept pushing us to investigate Zhang Li...",มิน่าเล่า... หวนคิดดูแล้ว มีแต่เขานั่นแหละที่คอยผลักดันให้พวกเราสืบหาจางลี่ต่อไป...
+EJ-007-137_7,I can't believe he's been deceiving us all along!,ไม่คาดคิดเลยว่า เขาจะหลอกลวงพวกเรามาตลอด!
+EJ-007-138_1,"If Zhang Li joins Chai Wang, it would be a disaster for the common people...",หากจางลี่ไปสวามิภักดิ์ต่ออ๋องไฉ เกรงว่าจะเป็นภัยต่อปวงชนแล้ว...
+EJ-007-138_2,"Master, what do you mean?",ท่านอาจารย์หมายความว่าอย่างไร?
+EJ-007-138_3,"Given Zhang Li's actions, if he can be protected by Chai Wang, there will be countless imitators afterwards, Amitabha...",ด้วยพฤติกรรมของโยมจางในครั้งนี้ หากยังได้รับการคุ้มครองจากอ๋องไฉแล้วไซร้ เกรงว่าหลังจากนี้ผู้ที่จะเลียนแบบคงมีอยู่มิใช่น้อยเป็นแน่ อมิตาพุทธ...
+EJ-007-138_4,But Zhang Li only killed extremely evil people...,แต่ว่า จางลี่ เขาสังหารแต่คนชั่วช้าสามานย์ มิใช่หรือ...
+EJ-007-138_5,Does it matter?,สำคัญรึ?
+EJ-007-139_1,"Alas, it's probably a disaster for the common people...",อนิจจา เกรงว่านี่จะเป็นภัยต่อปวงชนเสียแล้ว...
+EJ-007-139_2,What do you mean?,หมายความว่าอย่างไร?
+EJ-007-139_3,"Given his actions, if he can be protected by Chai Wang, how many imitators do you think there will be afterwards?",ด้วยพฤติกรรมของเขาในครั้งนี้ หากยังได้รับการคุ้มครองจากอ๋องไฉแล้วไซร้ พวกท่านคิดว่าหลังจากนี้จะมีผู้เลียนแบบสักเท่าใดกัน?
+EJ-007-139_4,But Zhang Li only killed extremely evil people...,แต่ว่า จางลี่ เขาสังหารแต่คนชั่วช้าสามานย์ มิใช่หรือ...
+EJ-007-139_5,Does it matter?,สำคัญรึ?
+EJ-007-140_1,"That guy is a follower of Chai Wang, a man of unknown origin, we don't know anything about him.",โยมผู้นั้นเป็นคนของอ๋องไฉ เป็นผู้ที่เร้นกายอยู่ในเงามืด แม้แต่ตัวอาตมาเองยังไม่รู้ตื้นลึกหนาบางของเขาเลย
+EJ-007-140_2,Could Song Yushu be a subordinate of Chai Wang?,หรือว่าซ่งอวี้ซูเป็นคนของอ๋องไฉด้วย?!
+EJ-007-140_3,I can't believe he's been deceiving us all along!,ไม่คาดคิดเลยว่า เขาจะหลอกลวงพวกเรามาตลอด!
+EJ-007-140_4,Isn't it obvious? Or are you kids too young.,นี่มิใช่ว่าชัดแจ้งอยู่แล้วรึ? หรือเป็นเพราะพวกเจ้าเด็กน้อยทั้งหลายยังอ่อนประสบการณ์นักกันแน่
+EJ-007-140_5,"No wonder... thinking back, it was him who kept pushing us to investigate Zhang Li...",มิน่าเล่า... หวนคิดดูแล้ว มีแต่เขานั่นแหละที่คอยผลักดันให้พวกเราสืบหาจางลี่ต่อไป...
+EJ-007-141_1,"If Zhang Li joins Chai Wang, it would be a disaster for the common people...",หากจางลี่ไปสวามิภักดิ์ต่ออ๋องไฉ เกรงว่าจะเป็นภัยต่อปวงชนแล้ว...
+EJ-007-141_2,"Master, what do you mean?",ท่านอาจารย์หมายความว่าอย่างไร?
+EJ-007-141_3,"Given Zhang Li's actions, if he can be protected by Chai Wang, there will be countless imitators afterwards, Amitabha...",ด้วยพฤติกรรมของโยมจางในครั้งนี้ หากยังได้รับการคุ้มครองจากอ๋องไฉแล้วไซร้ เกรงว่าหลังจากนี้ผู้ที่จะเลียนแบบคงมีอยู่มิใช่น้อยเป็นแน่ อมิตาพุทธ...
+EJ-007-141_4,But Zhang Li only killed extremely evil people...,แต่ว่า จางลี่ เขาสังหารแต่คนชั่วช้าสามานย์ มิใช่หรือ...
+EJ-007-141_5,Does it matter?,สำคัญรึ?
+EJ-007-142_1,"Alas, it's probably a disaster for the common people...",อนิจจา เกรงว่านี่จะเป็นภัยต่อปวงชนเสียแล้ว...
+EJ-007-142_2,What do you mean?,หมายความว่าอย่างไร?
+EJ-007-142_3,"Given his actions, if he can be protected by Chai Wang, how many imitators do you think there will be afterwards?",ด้วยพฤติกรรมของเขาในครั้งนี้ หากยังได้รับการคุ้มครองจากอ๋องไฉแล้วไซร้ พวกท่านคิดว่าหลังจากนี้จะมีผู้เลียนแบบสักเท่าใดกัน?
+EJ-007-142_4,But Zhang Li only killed extremely evil people...,แต่ว่า จางลี่ เขาสังหารแต่คนชั่วช้าสามานย์ มิใช่หรือ...
+EJ-007-142_5,Does it matter?,สำคัญรึ?
+EJ-007-143_1,"He killed an official of the court and still managed to escape the law, the world can only see this.",เขาสังหารขุนนางราชสำนัก แล้วยังลอยนวลได้ ใต้หล้าย่อมเห็นเพียงแต่สิ่งนี้!
+EJ-007-144_1,"...What's worse, if the world knew that he only killed extremely evil people, and now he killed an innocent official, what would people think?",...ที่เลวร้ายยิ่งกว่านั้น หากชาวยุทธได้ล่วงรู้ว่า เขาสังหารแต่คนชั่วช้าสามานย์มาตลอด แต่ครานี้เขากลับสังหารขุนนางผู้ซื่อสัตย์ ทั้งใต้หล้าจะคิดเห็นเป็นอย่างไรกัน?
+EJ-007-145_1,"Moreover, if the world knew that he only killed extremely evil people, and now he killed an innocent official, what would people think?",อีกทั้ง หากชาวยุทธได้ล่วงรู้ว่าเขาสังหารแต่คนชั่วช้าสามานย์มาตลอด แต่ครานี้เขากลับสังหารขุนนางผู้ซื่อสัตย์ เช่นนั้น ทั้งใต้หล้าจะคิดเห็นเป็นอย่างไรกัน?
+EJ-007-146_1,"{PlayerName}, you also thought so before you ""defected"", right?","{PlayerName} เจ้าเองก็คิดเช่นนั้นจึงได้ ""แปรพักตร์"" ในยามคับขันเช่นนี้ ใช่หรือไม่?"
+EJ-007-146_2,"...Yes, indeed.",...ถูกต้อง อย่างที่เจ้าว่า
+EJ-007-146_3,"...Indeed, we didn't consider it thoroughly, we didn't expect that there were people from Chai Wang watching Zhang Li...",...เป็นความบกพร่องของพวกเราเองที่มิได้ไตร่ตรองให้ถี่ถ้วน มิคาดคิดเลยว่า จะมีคนของอ๋องไฉคอยจับจ้องจางลี่อยู่ด้วย...
 EJ-007-146_4,"So, you Vagabonds really are..."
 EJ-007-146_5,"Sir, shall we take these guys back?"
 EJ-007-146_6,"No need, otherwise that Chai guy will use this to his advantage."
