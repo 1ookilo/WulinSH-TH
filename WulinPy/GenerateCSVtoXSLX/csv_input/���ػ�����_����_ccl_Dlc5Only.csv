@@ -1834,7 +1834,7 @@ EJ-005-1-3_1,"The Imperial City Department has always been like this, nauseating
 EJ-005-1-4_1,Those people from the Imperial City Department are too bullying!,ไอ้พวกกรมวังหลวง  นี่มันรังแกคนเกินไปแล้ว!
 EJ-005-1-4_2,"Qianxue, don't talk nonsense.","ลั่วเฉียนเสวี่ย, หยุดกล่าววาจาอันเหลวไหลเสีย!"
 EJ-005-1-5_1,"Lu Constable, can anyone tell me the name of the landowner who died here?","หัวหน้ามือปราบลั่ว, เจ้าของที่ดินที่ตายอยู่ที่นี่ มีชื่อแซ่อะไร? พอจะบอกข้าได้หรือไม่?"
-EJ-005-1-5_2,"...It's no harm in telling you. The deceased was named Li Ying, originally a governor in the Zhongzhou Region. He later resigned and became a landowner.","บอกเจ้าก็ไม่เป็นไร, ผู้ตายมีนามว่า หลี่อิง เคยเป็นแม่ทัพใหญ่เขตจงโจวมาก่อน\nก่อนจะลาออกจากราชการมาใช้ชีวิตเป็น เจ้าของที่ดิน"
+EJ-005-1-5_2,"...It's no harm in telling you. The deceased was named Li Ying, originally a governor in the Zhongzhou Region. He later resigned and became a landowner.","บอกเจ้าก็ไม่เป็นไร, ผู้ตายมีนามว่า หลี่อิง เคยเป็นแม่ทัพเขตจงโจวมาก่อน\nก่อนจะลาออกจากราชการมาใช้ชีวิตเป็น เจ้าของที่ดิน"
 EJ-005-1-5_3,Li Ying...,หลี่อิง...
 EJ-005-1-5_4,What is the leader thinking about?,ท่านหัวหน้า กำลังคิดอะไรอยู่หรือ?
 EJ-005-1-5_5,"...Nothing, let's continue the investigation.","ไม่มีอะไร, สืบสวนต่อไปก่อนเถอะ..."
@@ -2076,85 +2076,85 @@ EJ-005-2-4_5,"{PlayerSurName} young hero, are you sure you can pry open the Depu
 EJ-005-2-4_6,"I'm not sure, but I have to try.",ถึงแม้ ไม่แน่ใจนัก แต่ก็ต้องลองดูสักตั้ง!
 EJ-005-2-4_7,"And the alley next to the Tower of Prosperity, that's where the murder happened, although I don't know how many clues are left, but I have to go and see.","ยังมีทางเล็กๆ ข้างนอกหอเจิดจรัส ซึ่งเป็นจุดเกิดเหตุฆาตกรรม \nแม้ไม่รู้ว่า หลงเหลือหลักฐานมากเพียงใด แต่ก็จำใจต้องไปดู"
 EJ-005-2-4_8,"Let's not delay, {PlayerGivenName} brother, let's go~","เรื่องนี้ไม่ควรชักช้า, พี่{PlayerGivenName} เรารีบไปกันเถอะ! "
-EJ-005-2-5_1,"{PlayerSurName} young hero, what are you..."
-EJ-005-2-5_2,"These people are disgusting to look at, and they can't get any answers from their mouths, there's no use keeping them."
-EJ-005-2-5_3,……
-EJ-005-2-6_1,"There are no more clues here, let's get out of here."
-EJ-005-2-7_1,"Alright, don't stay here, go check out the path next to the building."
-EJ-005-2-8_1,Where is your Deputy Commander? Why are you the only one here?
-EJ-005-2-8_2,"The Commander is busy with numerous affairs, he can't possibly guard here personally. Who are you and what do you need from the Commander?"
-EJ-005-2-8_3,"I am {PlayerName}, I want to inquire about the murder case that happened on the path next to the building."
-EJ-005-2-9_1,"I didn't know you were coming, my apologies. I will go get the Deputy Commander to meet you."
-EJ-005-2-9_2,"No need, you can tell me, how is your investigation going?"
-EJ-005-2-9_3,"Sir, the investigation is basically over, but we have no further clues."
-EJ-005-2-9_4,Stand up and talk.
-EJ-005-2-9_5,"Thank you, sir!"
+EJ-005-2-5_1,"{PlayerSurName} young hero, what are you...","จอมยุทธน้อย{PlayerSurName}, นี่ท่าน.."
+EJ-005-2-5_2,"These people are disgusting to look at, and they can't get any answers from their mouths, there's no use keeping them.",คนพวกนี้มันน่ารังเกียจยิ่งนัก! เค้นถามอะไรก็ไม่ได้ความ เก็บไว้ก็ไม่มีประโยชน์
+EJ-005-2-5_3,……,……
+EJ-005-2-6_1,"There are no more clues here, let's get out of here.",ที่นี่ไม่มีเบาะแสแล้ว ออกไปจากที่นี่เถอะ...
+EJ-005-2-7_1,"Alright, don't stay here, go check out the path next to the building.","เอาเถอะ! อย่าได้เสียเวลาอยู่ตรงนี้อีกเลย !\nรีบไปดูทางเดินแคบๆ ข้างนอกหอเจิดจรัสกันเถอะ..."
+EJ-005-2-8_1,Where is your Deputy Commander? Why are you the only one here?,รองผู้บัญชาการของพวกเจ้าอยู่ไหน?  เหตุใดจึงมีเพียงเจ้าอยู่ที่นี่?
+EJ-005-2-8_2,"The Commander is busy with numerous affairs, he can't possibly guard here personally. Who are you and what do you need from the Commander?","ใต้เท้ามีภารกิจรัดตัว ไม่มีทางที่จะมานั่งเฝ้าอยู่ที่นี่ได้!\nเจ้าเป็นใคร แล้วมีธุระอะไรกับใต้เท้า?"
+EJ-005-2-8_3,"I am {PlayerName}, I want to inquire about the murder case that happened on the path next to the building.","ข้า{PlayerName}, ต้องการสอบถามเรื่องคดี ทางเดินแคบๆ ข้างนอกหอเจิดจรัส"
+EJ-005-2-9_1,"I didn't know you were coming, my apologies. I will go get the Deputy Commander to meet you.","ไม่ทราบว่าใต้เท้ามาถึงที่นี่ ข้าน้อยสมควรตาย \nข้าจะไปตามรองผู้บัญชาการ มาพบท่านเดี๋ยวนี้..."
+EJ-005-2-9_2,"No need, you can tell me, how is your investigation going?",ไม่จำเป็น...เจ้าบอกข้าก็ไม่ต่างกัน! พวกเจ้าสืบสวนไปถึงไหนแล้ว?
+EJ-005-2-9_3,"Sir, the investigation is basically over, but we have no further clues.",กราบเรียนใต้เท้า การสอบสวนโดยรวมได้สิ้นสุดลงแล้ว ตอนนี้ไม่มีเบาะแสเพิ่มเติม
+EJ-005-2-9_4,Stand up and talk.,ลุกขึ้น !!
+EJ-005-2-9_5,"Thank you, sir!",ขอบคุณ ใต้เท้า !
 EJ-005-2-9_6,
-EJ-005-2-9_7,Tell me the details of the case.
-EJ-005-2-9_8,Yes.
-EJ-005-2-9_9,"The crime happened on the first night of last month, the victim was the general manager of the Daliang City's cavalry."
-EJ-005-2-9_10,"According to our investigation, the victim was... entertaining himself in the Tower of Prosperity that night. He didn't run away until around Zi Shi."
-EJ-005-2-9_11,"There was no moonlight that night, the manager disappeared quickly after running away. The next day, around Wu Shi, a bailiff patrolling the street found the manager's body at the end of the path next to the building."
-EJ-005-2-9_12,"The manner of death... I can't describe it, but there was a black token next to the manager's body."
-EJ-005-2-9_13,"We questioned everyone present at the time, but got nothing. There was no moonlight that night, and no one saw any suspicious people coming and going."
-EJ-005-2-9_14,So you're saying that your investigation has made no progress so far?
-EJ-005-2-9_15,I'm ashamed.
-EJ-005-2-9_16,"It sounds like a tough case, I don't blame you."
-EJ-005-2-10_1,"I haven't been to the crime scene yet, I'll go check it out myself."
-EJ-005-2-10_2,May you succeed in your investigation!
-EJ-005-2-11_1,"With you on the case, I'm sure it will be solved soon!"
-EJ-005-2-12_1,"I just went to the crime scene, there really are no clues left, you guys have worked hard."
-EJ-005-2-12_2,"I'll go check out other places in the city, you guys stay here and follow the Deputy Commander's orders."
-EJ-005-2-12_3,Yes!
-EJ-005-2-13_1,"Go away, I don't care who you are, this case is not something any Tom, Dick or Harry can inquire about."
-EJ-005-2-13_2,"If you cause trouble again, be careful I'll arrest you!"
-EJ-005-2-13_3,"This guy is so arrogant, it's infuriating!"
-EJ-005-2-13_4,"It seems like this young lady hasn't dealt with the Imperial City officials before? They're always like this, if you're not as high-ranking as them, you'll only get snubbed, it's pointless."
-EJ-005-2-14_1,"...Anyway, let's not inquire about the clues here, let's go check out the path directly."
-EJ-005-2-15_1,"Go away, can't you see I'm busy? Don't come and make trouble!"
-EJ-005-2-15_2,(But I can see you're clearly not doing anything...)
-EJ-005-2-16_1,"The path next to it has been cleaned up long ago, the case from the beginning of last month, I'm afraid they can't find any clues."
-EJ-005-2-16_2,Let's go somewhere else.
-EJ-005-2-17_1,Is this the crime scene?
-EJ-005-2-17_2,"Yes, right here, the victim's body was found under that pink tree."
-EJ-005-2-17_3,"Brother Song, what was the situation with this case?"
-EJ-005-2-17_4,"This was the first case last month, it happened on the first day of last month, I came to Daliang City because of this case."
-EJ-005-2-17_5,"When I arrived in Daliang City, everything here had already been restored to its original state, I had to ask around to find out what happened."
-EJ-005-2-17_6,"The body was discovered on the second day of last month, around Wu Shi, when the bailiff came here for inspection, the condition of the body... was very strange."
-EJ-005-2-17_7,Oh? How strange?
-EJ-005-2-17_8,"Did you see that tree hole over there, little sister?"
-EJ-005-2-17_9,"I see it, what's next?"
-EJ-005-2-17_10,"Little girl, can you stuff your head into this tree hole?"
-EJ-005-2-17_11,"Hmm, although this tree hole has traces of being chopped and hacked, Bell probably can't do it..."
-EJ-005-2-17_12,"Mr. Song, could it be...?!"
+EJ-005-2-9_7,Tell me the details of the case.,เกี่ยวกับคดีนั้น เจ้าจงเล่ารายละเอียดให้ข้าฟัง
+EJ-005-2-9_8,Yes.,ขอรับ...
+EJ-005-2-9_9,"The crime happened on the first night of last month, the victim was the general manager of the Daliang City's cavalry.",คดีเกิดเมื่อคืนแรกของเดือนที่แล้ว ผู้ที่ถูกสังหารคือแม่ทัพเมืองต้าเหลียง
+EJ-005-2-9_10,"According to our investigation, the victim was... entertaining himself in the Tower of Prosperity that night. He didn't run away until around Zi Shi.",จากการสอบสวน ผู้ตายใช้เวลาสำราญในหอหอเจิดจรัส และออกไปประมาณยามจื่อ
+EJ-005-2-9_11,"There was no moonlight that night, the manager disappeared quickly after running away. The next day, around Wu Shi, a bailiff patrolling the street found the manager's body at the end of the path next to the building.","คืนนั้นไร้แสงจันทร์ ผู้ตายหายตัวไปอย่างไร้ร่องรอย หลังออกจากหอเจิดจรัส\nวันถัดไปยามใกล้เที่ยง เจ้าหน้าที่พบศพที่ทางเดินแคบๆ ข้างนอกหอเจิดจรัส"
+EJ-005-2-9_12,"The manner of death... I can't describe it, but there was a black token next to the manager's body.",สภาพศพนั้นยากจะบรรยาย แต่ข้างศพของผู้ตาย มีตราเหล็กดำ วางอยู่
+EJ-005-2-9_13,"We questioned everyone present at the time, but got nothing. There was no moonlight that night, and no one saw any suspicious people coming and going.","หลังจากที่เรามาถึง ได้สอบสวนทุกคนที่อยู่ในเหตุการณ์ \nแต่ไม่ได้อะไรเลย คืนนั้นไร้แสงจันทร์ และไม่มีใครพบเห็นผู้ต้องสงสัยเลย"
+EJ-005-2-9_14,So you're saying that your investigation has made no progress so far?,หมายความว่า การสอบสวนของพวกเจ้า ไม่มีความคืบหน้าเลยใช่หรือไม่?
+EJ-005-2-9_15,I'm ashamed.,ข้าน้อยละอายใจนัก...
+EJ-005-2-9_16,"It sounds like a tough case, I don't blame you.",ฟังดูแล้ว คดีนี้ซับซ้อนยิ่งนัก ไม่โทษพวกเจ้าหรอก
+EJ-005-2-10_1,"I haven't been to the crime scene yet, I'll go check it out myself.",ข้ายังไม่ได้ไปยังที่เกิดเหตุ  จะต้องไปเห็นด้วยตาตนเองเสียหน่อย
+EJ-005-2-10_2,May you succeed in your investigation!,ขอให้ใต้เท้า สืบสวนได้สำเร็จ!
+EJ-005-2-11_1,"With you on the case, I'm sure it will be solved soon!",เมื่อมีใต้เท้าออกโรง คดีนี้คงจบลงทันที!
+EJ-005-2-12_1,"I just went to the crime scene, there really are no clues left, you guys have worked hard.",ข้าเองก็ได้ไปที่เกิดเหตุมาแล้ว ไม่มีเบาะแสเลยแม้แต่น้อย พวกเจ้าลำบากกันมากจริงๆ
+EJ-005-2-12_2,"I'll go check out other places in the city, you guys stay here and follow the Deputy Commander's orders.","ข้าจะไปตรวจสอบที่อื่นในเมืองต่อ พวกเจ้าจงรักษาการณ์ที่นี่ให้ดี \nและปฏิบัติตามคำสั่งของรองผู้บัญชาการ"
+EJ-005-2-12_3,Yes!,ขอรับ !
+EJ-005-2-13_1,"Go away, I don't care who you are, this case is not something any Tom, Dick or Harry can inquire about.",ไสหัวไป! ข้าไม่สนว่าเจ้าเป็นใคร คดีสำคัญเช่นนี้ ใครก็มาสืบได้ง่ายๆ หรือ?
+EJ-005-2-13_2,"If you cause trouble again, be careful I'll arrest you!",หากยังเข้ามาวุ่นวายอีก อย่าหาว่าข้าไม่เตือน ข้าจะจับกุมเจ้าเข้าคุกให้จงได้!
+EJ-005-2-13_3,"This guy is so arrogant, it's infuriating!",เจ้าหมอนี่ ช่างจองหองโอหังยิ่งนัก น่ารังเกียจเป็นที่สุด!
+EJ-005-2-13_4,"It seems like this young lady hasn't dealt with the Imperial City officials before? They're always like this, if you're not as high-ranking as them, you'll only get snubbed, it's pointless.","จอมยุทธหญิงคงยังไม่เคยเจอ คนจากกรมวังหลวงมาก่อนสินะ? \nพวกเขาล้วนเป็นเช่นนี้ หากเจ้าไม่มีตำแหน่งสูงส่ง มีแต่จะเสียหน้ากลับไป"
+EJ-005-2-14_1,"...Anyway, let's not inquire about the clues here, let's go check out the path directly.","เอาเถอะ! อย่ามัวเสียเวลาสอบถามเบาะแสจากมันเลย \nพวกเราตรงไปที่ทางเดินแคบๆ นั่นกันเถอะ!"
+EJ-005-2-15_1,"Go away, can't you see I'm busy? Don't come and make trouble!",ไปไหนก็ไป! ไม่เห็นรึว่าข้ากำลังยุ่งอยู่? อย่าได้มาก่อความวุ่นวาย
+EJ-005-2-15_2,(But I can see you're clearly not doing anything...),(แต่ข้าเห็นว่า  เจ้าว่างงานจะตายไป...)
+EJ-005-2-16_1,"The path next to it has been cleaned up long ago, the case from the beginning of last month, I'm afraid they can't find any clues.","ทางเดินแคบๆ นั้น ถูกเก็บกวาดไปหมดแล้ว \nคดีเมื่อต้นเดือนก่อน คงไม่มีเบาะแส ให้พวกเขาหาเจอหรอก"
+EJ-005-2-16_2,Let's go somewhere else.,เราไปเสาะหาเบาะแส ที่อื่นดีกว่า
+EJ-005-2-17_1,Is this the crime scene?,นี่คือ...สถานที่เกิดเหตุหรือ?
+EJ-005-2-17_2,"Yes, right here, the victim's body was found under that pink tree.",ใช่แล้ว! ที่นี่เอง!  ศพของผู้ตายอยู่ใต้ต้นไม้สีชมพูต้นนั้น
+EJ-005-2-17_3,"Brother Song, what was the situation with this case?","พี่ซ่ง, คดีนี้ มันเกิดอะไรขึ้นกันแน่?"
+EJ-005-2-17_4,"This was the first case last month, it happened on the first day of last month, I came to Daliang City because of this case.","นี่คือคดีแรกของเดือนที่แล้ว มันเกิดขึ้นในคืนแรกของเดือนก่อน \nและการที่ข้ามายังเมืองต้าเหลียง ก็เพราะคดีนี้"
+EJ-005-2-17_5,"When I arrived in Daliang City, everything here had already been restored to its original state, I had to ask around to find out what happened.","เมื่อข้ามาถึงเมืองต้าเหลียง ที่นี่ก็กลับสู่สภาพเดิมเรียบร้อยแล้ว\nข้าต้องสอบถามจากหลายฝ่าย กว่าจะรู้สถานการณ์ในตอนนั้น"
+EJ-005-2-17_6,"The body was discovered on the second day of last month, around Wu Shi, when the bailiff came here for inspection, the condition of the body... was very strange.","ศพนั้นถูกพบโดยเจ้าหน้าที่ เมื่อวันที่สอง ยามใกล้เที่ยงของเดือนที่ผ่านมา  \nเมื่อพวกเขามาพบ สภาพศพนั้น...เป็นที่ประหลาดและน่าหวาดกลัวยิ่งนัก"
+EJ-005-2-17_7,Oh? How strange?,โอ้? แล้วมันประหลาดอย่างไรเล่า?
+EJ-005-2-17_8,"Did you see that tree hole over there, little sister?",แม่นางน้อย เห็นโพรงไม้นั้นหรือไม่?
+EJ-005-2-17_9,"I see it, what's next?",เห็นแล้ว จากนั้นเล่า?
+EJ-005-2-17_10,"Little girl, can you stuff your head into this tree hole?",แม่นางน้อย ท่านเอาหัวยัดเข้าไป ในโพรงไม้นั้นได้ไหม?
+EJ-005-2-17_11,"Hmm, although this tree hole has traces of being chopped and hacked, Bell probably can't do it...",อืม แม้โพรงต้นไม้ นี้มีร่องรอยถูกตัดฟัน แต่หลิงเออร์คงทำไม่ได้...
+EJ-005-2-17_12,"Mr. Song, could it be...?!",ท่านซ่ง...หรือว่า...?
 EJ-005-2-17_13,"Yes, the entire head of the corpse was stuffed into the tree hole, and a black Token was scattered next to the body.",ใช่แล้ว ตอนนั้นทั้งศีรษะของศพถูกยัดเข้าไปในโพรงต้นไม้ ส่วนข้างศพก็มีตราเหล็กดำ ตกอยู่
-EJ-005-2-17_14,How...how did they stuff it into such a small tree hole...
-EJ-005-2-17_15,"I heard, just heard, that the skull of the corpse was almost shattered, and that's how it could be stuffed in."
-EJ-005-2-17_16,"How terrifying, so cruel..."
-EJ-005-2-17_17,"Like the other cases, no one saw any suspicious people in this case, and because there was no moonlight and a heavy fog that night, we don't even know where the victim had been."
-EJ-005-2-17_18,No wonder the Imperial City Bureau has made no progress after such a long investigation...
-EJ-005-2-18_1,Why don't we go ask the people from the Imperial City Bureau to see if they have any discoveries?
-EJ-005-2-18_2,"The Imperial City Bureau... It's not easy to deal with them, I don't have much hope."
-EJ-005-2-18_3,"Forget it, let's just give it a try."
-EJ-005-2-19_1,It seems that these are the only clues we can find for this case.
-EJ-005-2-19_2,"Staying here won't help, let's run away."
-EJ-005-2-20_1,"Heh, if it weren't for the Tower of Prosperity bringing in a lot of money every year, why would we give them face?"
-EJ-005-2-20_2,You guys have this kind of relations...
-EJ-005-2-1-1_1,"Sigh, I don't know when this case will be closed.|If I can solve this case, maybe I can get a promotion.|I wonder if anyone can provide some clues.|I also want to go to the Tower of Prosperity for a feast..."
+EJ-005-2-17_14,How...how did they stuff it into such a small tree hole...,บ้าจริง...โพรงต้นไม้เล็กเพียงนี้  มันยัดเข้าไปได้อย่างไรกัน...
+EJ-005-2-17_15,"I heard, just heard, that the skull of the corpse was almost shattered, and that's how it could be stuffed in.",ได้ยินมาว่า...กระโหลกศีรษะของศพถูกทุบจนแหลกละเอียด จึงยัดเข้าไปได้
+EJ-005-2-17_16,"How terrifying, so cruel...",ช่างน่าสะพรึงกลัวยิ่งนัก..โหดเหี้ยม อำมหิตถึงเพียงนี้เชียวหรือ..
+EJ-005-2-17_17,"Like the other cases, no one saw any suspicious people in this case, and because there was no moonlight and a heavy fog that night, we don't even know where the victim had been.","เช่นเดียวกับคดีอื่น ๆ คดีนี้ก็ไม่มีใครพบเห็นผู้ต้องสงสัย\nในคืนนั้นไร้แสงจันทร์และมีหมอกลงจัด จนไม่รู้ว่าผู้ตายได้ไปที่ใดมาบ้าง"
+EJ-005-2-17_18,No wonder the Imperial City Bureau has made no progress after such a long investigation...,มิน่าเล่า กรมวังหลวงถึงได้ตรวจสอบมานาน  แต่ก็ยังไร้ความคืบหน้า...
+EJ-005-2-18_1,Why don't we go ask the people from the Imperial City Bureau to see if they have any discoveries?,เราไปถามคนของกรมวังหลวงดีไหม บางทีพวกเขาอาจค้นพบเบาะแสอะไรบ้าง ?
+EJ-005-2-18_2,"The Imperial City Bureau... It's not easy to deal with them, I don't have much hope.",คนของกรมวังหลวง...สอบถามกับพวกเขาไม่ใช่เรื่องง่าย อย่าไปคาดหวังสิ่งใดนัก
+EJ-005-2-18_3,"Forget it, let's just give it a try.",เอาเถอะ!  ลองดูแล้วกัน
+EJ-005-2-19_1,It seems that these are the only clues we can find for this case.,ดูท่าคดีนี้จะมีเบาะแส เพียงแค่เท่านี้แหละ!
+EJ-005-2-19_2,"Staying here won't help, let's run away.",อยู่ตรงนี้ไป ก็ไร้ประโยชน์ ไปกันดีกว่า!
+EJ-005-2-20_1,"Heh, if it weren't for the Tower of Prosperity bringing in a lot of money every year, why would we give them face?",หึ! หากมิใช่หอเจิดจรัส มอบเงินทองมาให้เราทุกปี ใครจะไปสนพวกมันกัน?
+EJ-005-2-20_2,You guys have this kind of relations...,พวกเจ้ามีความเกี่ยวข้องกัน ถึงขั้นนี้เชียวหรือ...
+EJ-005-2-1-1_1,"Sigh, I don't know when this case will be closed.|If I can solve this case, maybe I can get a promotion.|I wonder if anyone can provide some clues.|I also want to go to the Tower of Prosperity for a feast...","เฮ้อ, ไม่รู้ว่าคดีนี้จะสิ้นสุดเมื่อไหร่..|ถ้าข้าไขคดีนี้ได้ บางทีก็คงได้เลื่อนตำแหน่งสินะ|ไม่รู้ว่าจะมีใครให้เบาะแสได้บ้างไหม?|ข้าก็อยากไปเที่ยวดื่มหอเจิดจรัสบ้างจังเลย.."
 EJ-005-2-1-1_2,(Should I tell the Imperial City Bureau about the Hundred-faced Judge?),(จะบอกเรื่องตุลาการร้อยหน้า กับกรมวังหลวง ดีหรือไม่?)
-EJ-005-2-1-2_1,I already know who the murderer is.
-EJ-005-2-1-2_2,Really?! Tell me who the murderer is!
-EJ-005-2-1-2_3,Just tell you for nothing? You have to show some appreciation.
-EJ-005-2-1-2_4,"This... I'm not as rich as you, I don't have anything valuable on me..."
-EJ-005-2-1-2_5,Then the credit for this case will fly away~
-EJ-005-2-1-2_6,"How about... this dress? I spent a lot of money on it, and I've never had the heart to wear it..."
-EJ-005-2-1-2_7,"And this little money, it's what I've saved from frugality, you see..."
+EJ-005-2-1-2_1,I already know who the murderer is.,ข้ารู้แล้วว่า...คนร้ายคือใคร?
+EJ-005-2-1-2_2,Really?! Tell me who the murderer is!,จริงรึ?...รีบบอกมาเร็วว่าใครคือคนร้าย !!
+EJ-005-2-1-2_3,Just tell you for nothing? You have to show some appreciation.,จะให้บอกง่ายๆ ได้อย่างไร? ต้องมีอะไรมาแลกเปลี่ยนบ้างนะ...
+EJ-005-2-1-2_4,"This... I'm not as rich as you, I don't have anything valuable on me...",คือว่า...ข้าก็ไม่มีทรัพย์สินเงินทองมากมายอันใด แล้วก็ไม่มีสิ่งใดที่มีค่าติดตัวมาเลย
+EJ-005-2-1-2_5,Then the credit for this case will fly away~,เฮ้อ...โอกาสที่จะได้รับความดีความชอบ ต้องหายไปเสียแล้ว~
+EJ-005-2-1-2_6,"How about... this dress? I spent a lot of money on it, and I've never had the heart to wear it...","มิเช่นนั้น... ท่านลองดู เสื้อเกราะชุดนี้เป็นอย่างไร? \nข้าลงทุนไปไม่น้อยเลยนะ ยังไม่เคยสวมใส่เลยด้วยซ้ำ..."
+EJ-005-2-1-2_7,"And this little money, it's what I've saved from frugality, you see...",นี่คือ..เงินเล็กน้อย ที่เหลือจากการเก็บหอมรอมริบของข้า ท่านลองดูเถิด...
 EJ-005-2-1-2_8,"It's a bit shabby, but never mind, I'll tell you."
 EJ-005-2-1-2_9,"The murderer is the former Breeze Sect's Hundred-faced Judge, Zhang Li.",คนร้ายก็คือ ตุลาการร้อยหน้า แห่งค่ายสายลมพิสุทธิ์ จางลี่ นั่นเอง
 EJ-005-2-1-2_10,"You... you're not lying to me, are you?"
 EJ-005-2-1-2_11,What good does lying to you do me?
 EJ-005-2-1-2_12,"Okay, I'll go look for him, I hope you're not lying to me!"
-EJ-005-2-1-3_1,I already know who the murderer is.
+EJ-005-2-1-3_1,I already know who the murderer is.,ข้ารู้แล้วว่า...คนร้ายคือใคร?
 EJ-005-2-1-3_2,"Are you serious, sir?"
 EJ-005-2-1-3_3,Why would I lie to you?
 EJ-005-2-1-3_4,"I see that you are diligent, and I want to give you a chance to perform, whether you can grasp it..."
@@ -2194,32 +2194,32 @@ EJ-005-4-1_11,"Yes, it should be like this."
 EJ-005-4-1_12,"{PlayerSurName} Young hero, have you seen any suspicious people?"
 EJ-005-4-1_13,Should... not.
 EJ-005-4-1_14,How long had this person been dead when you arrived?
-EJ-005-4-1_15,"At that time, Sun, the Precinct Captain, arrived quickly. I just took a quick look at the body and didn't have time to investigate in detail."
-EJ-005-4-1_16,"Since {PlayerSurName} young hero didn't find any clues, and this place has been cleaned up, I'm afraid..."
-EJ-005-4-1_17,"Yes, I'm afraid there won't be any clues to find."
-EJ-005-4-1_18,"It's no good to stay here for a long time, let's run away from here first."
-EJ-006-1_1,"...Now we can only wait for the news from Sun, the Precinct Captain."
-EJ-006-1_2,"There may be a fierce battle later, take this opportunity to prepare more and then return to the guest room."
-EJ-006-1_3,"Miss Shangguan and the others should be at the market, Song Yushu seems to have something to do..."
-EJ-006-1_4,Should we go to the city to find them...
-EJ-006-2_1,"Master Hua Yan, I'm back..."
-EJ-006-2_2,Where is Master Hua Yan?
-EJ-006-2_3,"This knife, and the picture below..."
-EJ-006-2_4,Knife disappears Picture disappears later
+EJ-005-4-1_15,"At that time, Sun, the Precinct Captain, arrived quickly. I just took a quick look at the body and didn't have time to investigate in detail.","ตอนนั้นนายกองซุน มาถึงอย่างรวดเร็ว ข้าเพียงแค่ดูสภาพศพคร่าวๆ \nไม่มีเวลาตรวจสอบโดยละเอียด"
+EJ-005-4-1_16,"Since {PlayerSurName} young hero didn't find any clues, and this place has been cleaned up, I'm afraid...","ในเมื่อ จอมยุทธน้อย{PlayerSurName} ยังไม่พบเบาะแสใดๆ \nยิ่งไปกว่านั้นที่นี่ ยังถูกเก็บกวาดไปแล้ว เกรงว่า..."
+EJ-005-4-1_17,"Yes, I'm afraid there won't be any clues to find.",อืม...เกรงว่าคงไม่พบเจอเบาะแส อันใดได้อีกแล้ว
+EJ-005-4-1_18,"It's no good to stay here for a long time, let's run away from here first.",อยู่ที่นี่นานไปก็ไม่มีประโยชน์ ไปจากที่นี่กันเถอะ
+EJ-006-1_1,"...Now we can only wait for the news from Sun, the Precinct Captain.",ตอนนี้ทำได้แค่นั่งรอข่าวจาก นายกองซุน
+EJ-006-1_2,"There may be a fierce battle later, take this opportunity to prepare more and then return to the guest room.",หลังจากนี้อาจมีศึกหนัก รอเตรียมตัวอีกหน่อย แล้วค่อยกลับห้องพักเถอะ
+EJ-006-1_3,"Miss Shangguan and the others should be at the market, Song Yushu seems to have something to do...",แม่นางซ่างกวนและหลิงเออร์ น่าจะอยู่ที่ตลาด ส่วนซ่งอวี้ซู ดูเหมือนจะมีธุระบางอย่างต้องทำ...
+EJ-006-1_4,Should we go to the city to find them...,จะไปหาพวกเขา ในเมืองด้วยเลยดีไหมนะ?
+EJ-006-2_1,"Master Hua Yan, I'm back...",ท่านอาจารย์ฮัวเหยียน  ข้ากลับมาแล้ว...
+EJ-006-2_2,Where is Master Hua Yan?,ท่านอาจารย์ฮัวเหยียน  หายไปไหน?
+EJ-006-2_3,"This knife, and the picture below...",มีดเล่มนี้...และภาพที่อยู่ด้านล่างนั้น...
+EJ-006-2_4,Knife disappears Picture disappears later,มีดเล่มนั้นหายไปแล้ว!  ส่วนภาพนี้ก็จะเลือนหายไปอีก...
 EJ-006-2_5,"""Me and Hua Yan are waiting for you at White Mou Marsh"", and the approximate location...",ข้ากับหลวงจีนฮัวเหยียน จะรอทุกท่านที่บึงขาวมรณะ พร้อมบอกตำแหน่งคร่าวๆ...
 EJ-006-2_6,"Could it be that Master Hua Yan has been taken to this ""White Mou Marsh""? Could it be that Zhang Li has already--","หรือว่าหลวงจีนฮัวเหยียน ถูกพาตัวมาที่ ""บึงขาวมรณะ"" แห่งนี้? อย่าบอกนะว่าจางลี่ได้..."
-EJ-006-2_7,"No, I have to call the others back!"
-EJ-006-2_8,"The protagonist runs to the lower right, runs to the arrow position and looks to the lower left. At the same time, Shangguan Hong and Sima Ling walk in side by side."
-EJ-006-2_9,"{PlayerGivenName} Brother, you're back. I've bought a lot of good stuff this time~"
-EJ-006-2_10,"{PlayerSurName} Young hero, you look... What happened?"
-EJ-006-2_11,Yes...
-EJ-006-2_12,"Oh, it seems I'm the last one to return?"
-EJ-006-2_13,"You're just in time, take a look at this letter!"
-EJ-006-2_14,"{PlayerGivenName} Brother, this is..."
-EJ-006-2_15,"When I returned, Master Hua Yan was no longer in the room, only this letter was left, stabbed into the table with a knife."
+EJ-006-2_7,"No, I have to call the others back!",ไม่ได้การแล้ว ต้องเรียกคนอื่นกลับมา!
+EJ-006-2_8,"The protagonist runs to the lower right, runs to the arrow position and looks to the lower left. At the same time, Shangguan Hong and Sima Ling walk in side by side.","ตัวเอกวิ่งไปทางขวาล่าง พอไปถึงตำแหน่งลูกศรก็มองไปทางซ้ายล่าง\nขณะเดียวกันซ่างกวนหงกับซือหม่าหลิง ก็เดินเคียงคู่กันเข้ามา"
+EJ-006-2_9,"{PlayerGivenName} Brother, you're back. I've bought a lot of good stuff this time~","พี่{PlayerGivenName} ,กลับมาแล้วหรือ หลิงเออร์คราวนี้ซื้อของดีมาเยอะเลยนะ~"
+EJ-006-2_10,"{PlayerSurName} Young hero, you look... What happened?","จอมยุทธน้อย{PlayerSurName} , สีหน้าของท่าน...เกิดอะไรขึ้นหรือ?"
+EJ-006-2_11,Yes...,ใช่..!
+EJ-006-2_12,"Oh, it seems I'm the last one to return?",โอ้...ดูแล้ว  ข้าคงเป็นคนสุดท้ายที่กลับมา?
+EJ-006-2_13,"You're just in time, take a look at this letter!",พวกท่านมาได้ถูกเวลาพอดี  รีบมาดูจดหมายฉบับนี้เร็ว!
+EJ-006-2_14,"{PlayerGivenName} Brother, this is...","พี่{PlayerGivenName} ,สิ่งนี้คือ..."
+EJ-006-2_15,"When I returned, Master Hua Yan was no longer in the room, only this letter was left, stabbed into the table with a knife.","เมื่อข้ากลับมา ท่านอาจารย์ฮัวเหยียนก็ไม่อยู่ในห้องแล้ว \nมีเพียงจดหมายที่เสียบด้วยมีด ปักอยู่บนโต๊ะเท่านั้น"
 EJ-006-2_16,White Mou Marsh...,บึงขาวมรณะ...
 EJ-006-2_17,"Yes, White Mou Marsh, how could I forget this place?!","ใช่แล้ว, บึงขาวมรณะ ข้าลืมที่นี่ได้ยังไงกันนะ?!"
-EJ-006-2_18,You know this place?
+EJ-006-2_18,You know this place?,เจ้ารู้จักสถานที่แห่งนี้หรือ?
 EJ-006-2_19,"Yes, it's a marsh in the northwest of Zhongzhou Region, sparsely populated, an excellent place to hide."
 EJ-006-2_20,More importantly... it's just upstream of the river in Daliang City!
 EJ-006-2_21,Could it be that Zhang Li is hiding there? Did Zhang Li come here? Did he take Master Hua Yan away?
@@ -2244,8 +2244,8 @@ EJ-006-6_1,"Thank you, brother, I'll take the map."
 EJ-006-6_2,"Let's not delay, let's get ready and go to White Mou Marsh.",อย่ารอช้าเลย พวกเราเตรียมตัวให้พร้อมโดยเร็ว แล้วไปที่บึงขาวมรณะกันเถอะ
 EJ-006-7_1,"I wonder when Sun, the Precinct Captain will contact us, let's rest for now."
 EJ-006-7_2,What's the deal with this knife?
-EJ-006-7_3,"This knife, and the picture below..."
-EJ-006-7_4,Knife disappears Picture disappears later
+EJ-006-7_3,"This knife, and the picture below...",มีดเล่มนี้...และภาพที่อยู่ด้านล่างนั้น...
+EJ-006-7_4,Knife disappears Picture disappears later,มีดเล่มนั้นหายไปแล้ว!  ส่วนภาพนี้ก็จะเลือนหายไปอีก...
 EJ-006-7_5,"""Waiting for you at White Mou Marsh"", and the approximate direction...","ข้าจะรอทุกท่านอยู่ที่บึงขาวมรณะ, และบอกทิศทางคร่าวๆ ให้ทราบ..."
 EJ-006-7_6,The signature is Zhang Li...
 EJ-006-7_7,"Well, we didn't go looking for you, but you came to us."
@@ -2254,7 +2254,7 @@ EJ-006-7_9,"Brother, you called us in such a hurry, what happened?"
 EJ-006-7_10,"Well, I found this in the guest room."
 EJ-006-7_11,White Mou Marsh...,บึงขาวมรณะ...
 EJ-006-7_12,"Yes, White Mou Marsh, how could I forget this place?!","ใช่แล้ว, บึงขาวมรณะ ข้าลืมที่นี่ได้ยังไงกันนะ?!"
-EJ-006-7_13,You know this place?
+EJ-006-7_13,You know this place?,เจ้ารู้จักสถานที่แห่งนี้หรือ?
 EJ-006-7_14,"Yes, it's a marsh in the northwest of Zhongzhou Region, sparsely populated, an excellent place to hide."
 EJ-006-7_15,More importantly... it's just upstream of the river in Daliang City!
 EJ-006-7_16,So... Zhang Li might be hiding there?
