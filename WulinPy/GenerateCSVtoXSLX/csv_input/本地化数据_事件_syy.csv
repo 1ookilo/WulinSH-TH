@@ -8009,7 +8009,7 @@ R10068-0_5_14,"You won't tell me who you are, yet you expect me to travel thousa
 R10068-0_5_15,"I am the White Tiger Envoy of the Divine Flame Sect , Yan Luochong.",ข้าคือทูตพยัคฆ์ขาวแห่งนิกายเพลิงศักดิ์สิทธิ์ เยี่ยนหลัวจง
 R10068-0_6_1,(Taking out Feng Xuanji's Golden Thread Phoenix Hairpin) Do you recognize this item?,(หยิบปิ่นด้ายทองหงส์เพลิงของเฟิงเสวียนจีออกมา) ท่านจำของสิ่งนี้ได้หรือไม่?
 R10068-0_6_2,How did you get this item?,เจ้าเอาของสิ่งนี้มาได้อย่างไร?
-R10068-0_6_3,The owner of this item asked me to tell the White Tiger Envoy that she needs his help.,เจ้าของปิ่นปักผมนี้ขอให้ข้าแจ้งข่าวกับทูตพยัคฆ์ขาวแห่งนิกายเพลิงศักดิ์สิทธิ์ว่านางกำลังต้องการความช่วยเหลือ
+R10068-0_6_3,The owner of this item asked me to tell the White Tiger Envoy that she needs his help.,เจ้าของปิ่นปักผมนี้ขอให้ข้าแจ้งข่าวกับ ทูตพยัคฆ์ขาวแห่งนิกายเพลิงศักดิ์สิทธิ์ ว่านางกำลังต้องการความช่วยเหลือ
 R10068-0_6_4,"She, she finally agreed to accept my help...","นาง, ในที่สุดนางก็ยอมรับความช่วยเหลือจากข้าแล้ว..."
 R10068-0_6_5,"Thank you, {PlayerSurName} brother, for delivering the message. My swordsmanship is decent enough to be shown in public, so I'll give it to you as a token of gratitude.",ขอบใจเจ้ามาก น้อง{PlayerSurName} ที่ต้องลำบากมาส่งข่าวนี้ วิชาดาบของข้านั้นมีดีพอที่จะแสดงให้ยุทธภพได้เห็น ข้าขอมอบมันให้เจ้า ถือเป็นการตอบแทนจากข้า
 R10068-0_6_6,"Feng'er must have encountered great trouble, let's set off to help her as soon as possible.",เฟิงเอ๋อร์คงกำลังเผชิญกับปัญหาใหญ่ เรารีบออกเดินทางโดยเร็ว ไปช่วยเฟิงเอ๋อร์กันเถอะ
@@ -8954,7 +8954,7 @@ XYLP-7_1_9,{PlayerSurName} brother is willing to risk his life for the people of
 XYLP-7_2_1,"I don't know where Fang Xiaoian is in retreat. After the Divine Flame Sect is almost wiped out, I will force him out and see who can save him!",ข้าไม่รู้ว่า ฟางเสี่ยวเทียน อยู่ที่ไหนในตอนล่าถอย รอให้เราจัดการนิกายเพลิงศักดิ์สิทธิ์ ให้สิ้นซากก่อน แล้วค่อยไปบีบให้เขาออกมา ดูสิว่าใครจะช่วยเขาได้!
 XYLP-7_3_1,"The Divine Flame Sect has been destroyed, and the boss can rest easy.", นิกายเพลิงศักดิ์สิทธิ์ถูกกำจัดเรียบร้อย ท่านหัวหน้าไม่ต้องกังวลอะไรอีกต่อไป
 XYLP-7_4_1,"I have successfully completed my mission, and the Divine Flame Sect has been completely eradicated by me.",ข้าไม่ทำให้ท่านผิดหวัง ข้าได้กำจัดนิกายเพลิงศักดิ์สิทธิ์ให้สิ้นซากแล้ว!
-XYLP-7_4_2,{PlayerSurName} brother has worked hard and benefited the Western Regions. He has a favor with the people of Flame City. Please accept Huo's bow!,ขอคารวะ พี่น้อง{PlayerSurName} ผู้ทรงเสียสละ ทุ่มเทเพื่อผืนดินแดนตะวันตก นำความเจริญรุ่งเรืองมาสู่ราษฎรเมืองอัคคี ขอให้ข้าก้มคารวะเจ้าด้วยความเคารพ!
+XYLP-7_4_2,{PlayerSurName} brother has worked hard and benefited the Western Regions. He has a favor with the people of Flame City. Please accept Huo's bow!,ขอคารวะ น้อง{PlayerSurName} ผู้เสียสละ ทุ่มเทเพื่อผืนดินแดนตะวันตก นำความเจริญรุ่งเรืองมาสู่ราษฎรเมืองอัคคี ขอให้ข้าก้มคารวะเจ้าด้วยความเคารพ!
 XYLP-7_4_3,"Boss, please get up quickly. I can't bear it.",ท่านหัวหน้าใหญ่ โปรดลุกขึ้นเถอะ ข้าไม่บังอาจรับได้หรอก
 XYLP-7_4_4,The elimination of the Divine Flame Sect has at least brought several years of peace to the Western Regions. It is worth Huo's bow.,การกำจัดนิกายเพลิงศักดิ์สิทธิ์ครั้งนี้ แลกมาด้วยความสงบสุขในดินแดนตะวันตกหลายปี ข้าขอคารวะท่านจากใจจริง
 XYLP-7_4_5,"Don't forget that I am a guest of the Cold Skin Gang. This is just my duty. Besides, it's not worth mentioning.",อย่าลืมสิว่าข้าคือแขกกิตติมศักดิ์ของพรรคมังสาเหมันต์ การช่วยเหลือท่านครั้งนี้เป็นหน้าที่ของข้าอยู่แล้ว แค่ขยับนิ้วมือเล็กน้อยในการช่วยเหลือ ไม่ได้ยิ่งใหญ่อะไรเลย
