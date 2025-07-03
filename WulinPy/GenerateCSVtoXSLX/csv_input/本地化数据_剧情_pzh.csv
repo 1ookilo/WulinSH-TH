@@ -4391,7 +4391,7 @@ DNJH-2_0_1_3,Being Invited by the owner of the Liu Building is the greatest hono
 DNJH-2_0_1_4,"Clerk, who is this?",ท่านกุนซือ ไม่ทราบว่าท่านผู้นี้คือใคร?
 DNJH-2_0_1_5,"This is {PlayerSurName}Constable who was absent that day. He was supposed to be on duty today, but I managed to get him off.",ท่านนี้ก็คือ หัวหน้ามือปราบ {PlayerSurName} วันนั้นเขาไม่ได้อยู่ด้วย และวันนี้เขาก็ควรจะออกไปทำหน้าที่เช่นกัน แต่ข้าชวนเขามาร่วมงานด้วย
 DNJH-2_0_1_6,"(Although I have a lot of questions for Liu Fuming, I should attend the banquet first.)",(ถึงแม้มีเรื่องมากมายที่อยากถาม หลิวฝูหมิง แต่ก็คงต้องเข้าร่วมงานเลี้ยงก่อนแล้วค่อยว่ากัน)
-DNJH-2_0_1_7,"Nice to meet you, owner of the Liu Building.",ยินดีที่ได้พบท่าน ท่านเจ้าของหอหลิว
+DNJH-2_0_1_7,"Nice to meet you, owner of the Liu Building.",ยินดีที่ได้พบท่าน ท่านเจ้าหอหลิว
 DNJH-2_0_1_8,"{PlayerSurName}Constable? You seem familiar... \nNever mind, welcome both of you. Let me show you to your seats, please follow me.","มือปราบ {PlayerSurName} ? ท่านช่างดูคุ้นหน้าเสียจริง...\nไม่เป็นไร ยินดีต้อนรับท่านทั้งสอง ข้าจะพาท่านทั้งสองไปที่นั่งของพวกท่าน โปรดตามข้ามา"
 DNJH-2_0_1_9,Thank you.,ขอบคุณ
 DNJH-2_0_1_10,"Please have a seat here. I have some matters to attend to before the banquet begins, so I'll leave you for now.",โปรดนั่งที่นี้ ข้ามีเรื่องที่ต้องจัดการก่อนงานเลี้ยงจะเริ่ม ขอตัวก่อน
@@ -4471,7 +4471,7 @@ DNJH-2_2_1_10,"Is... is this about me? It seems he already knows that I'm preten
 DNJH-2_2_1_11,"Owner of the Willow Building, what do you mean by this?",ท่านเจ้าหอคอยหลิว ท่านหมายความว่าอย่างไรกันแน่?
 DNJH-2_2_1_12,"It seems everyone has noticed that this ""Fake Crown Set"" describes all the dirty deeds you've done at this banquet.","ดูเหมือนว่าทุกท่านจะสังเกตเห็นแล้ว ว่าบทกวีใน ""ราชมงกุฎจอมปลอม"" นี้เขียนเกี่ยวกับเรื่องราวอันสกปรกที่พวกท่านทำในงานเลี้ยงค่ำคืนนี้"
 DNJH-2_2_1_13,"You are all people of status, I presume you wouldn't want the contents of this ""Fake Crown Set"" to be known to the public, right?","ทุกท่านต่างเป็นบุคคลที่มีชื่อเสียงและมีอำนาจ, คงไม่อยากให้เนื้อหาในบทกวี ""ราชมงกุฎจอมปลอม"" นี้ถูกเปิดเผยออกไปต่อสาธารณชนใช่หรือไม่?"
-DNJH-2_2_1_14,"Liu Fuming, what are you trying to do?",หลิว ฝูหมิง เจ้าต้องการจะทำอะไรกันแน่?
+DNJH-2_2_1_14,"Liu Fuming, what are you trying to do?",หลิวฝูหมิง เจ้าต้องการจะทำอะไรกันแน่?
 DNJH-2_2_1_15,"I just hope that you can do me a favor. As long as you can fulfill the content on the last page of the ""Fake Crown Set"" in your hands, I, Liu, will ensure that page will not be known to the public.","ข้าหวังเพียงแค่พวกท่านทั้งหลายจะช่วยข้าได้ เพียงพวกท่านทำตามเนื้อหาหน้าสุดท้ายในบทกวี ""ราชมุงกฎจอมปลอม"" ที่อยู่ในมือของท่าน ข้าขอรับรองว่าหน้าหนึ่งในนั้นจะไม่ถูกเปิดเผยให้กับสาธารณชน"
 DNJH-2_2_1_16,(The last page...),(หน้าสุดท้าย...)
 DNJH-2_2_1_17,"""Pretending to be a Bailiff is a capital crime, but since the Constable is bedridden, you can take his place. If there are any fights in Daliang City in the future, please, Constable, do not interfere.""","""การปลอมตัวเป็นเจ้าหน้าที่มือปราบ ถือเป็นความผิดร้ายแรงถึงขั้นประหารชีวิต แต่ด้วยความที่หัวหน้ามือปราบป่วยอยู่ เจ้าจึงได้โอกาสในการทำหน้าที่แทน หลังจากนี้หากมีเรื่องราวการต่อสู้หรือเกิดเรื่องวุ่นวายในเมืองต้าเหลียง ขอให้ท่านหัวหน้ามือปราบอย่าได้เข้ามายุ่งเกี่ยว"""
