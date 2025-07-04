@@ -646,7 +646,7 @@
 会试8_题目3,"""What is the next line of 'Do not worry about scarcity, but about inequality;'?""","บทต่อไปของ ""อย่ากังวลเรื่องความขาดแคลน แต่จงกังวลเรื่องความไม่เท่าเทียม;"" คืออะไร? (ตอบข้อ 1)"
 会试9_题目1,"""What is the next line of 'The world is bustling, all for profit;'?""","บทต่อไปของ ""โลกนี้คึกคักไปด้วยผลประโยชน์;"" คืออะไร? (ตอบข้อ 1)"
 会试9_题目2,"""What is the next line of 'The wise man worries a thousand times, there must be one mistake;'?""","บทต่อไปของ ""นักปราชญ์คิดอย่างรอบคอบพันครั้ง ย่อมมีหนึ่งความผิดพลาด;"" คืออะไร? (ตอบข้อ 3)"
-会试9_题目3,"""What is the next line of 'The limit of a strong crossbow, the arrow cannot penetrate the Lu's simple cloth;'?""","ประโยคต่อไปของ ""แม้หน้าไม้อันทรงพลังถึงที่สุด ลูกธนูก็มิอาจเจาะทะลุผ้าไหมหลู่"" คืออะไร?"
+会试9_题目3,"""What is the next line of 'The limit of a strong crossbow, the arrow cannot penetrate the Lu's simple cloth;'?""","ประโยคต่อไปของ ""แม้หน้าไม้อันทรงพลังถึงที่สุด ลูกธนูก็มิอาจเจาะทะลุผ้าไหมหลู่"" คืออะไร? (ตอบข้อ 2)"
 会试10_题目1,"""What is the next line of 'Heaven's timing is not as good as the geographical advantage;'?""","ประโยคถัดไปของ ""ฟ้าลิขิตมิสู้ทำเลทอง"" คืออะไร? (ตอบข้อ 1)"
 会试10_题目2,"""What is the next line of 'A man must degrade himself before others will degrade him;'?""","บทต่อไปของ ""บุรุษต้องดูหมิ่นตนเองเสียก่อน แล้วผู้อื่นจึงจะดูหมิ่นเขาได้;"" คืออะไร? (ตอบข้อ 2)"
 会试10_题目3,"""Learn widely, ask carefully, ___, ___, ___.""","ศึกษาหาความรู้ให้กว้างไกล ไตร่ถามด้วยความรอบคอบ, ___, ___, ___. (ตอบข้อ 3)"
@@ -755,7 +755,7 @@
 会试9_题目2_答案3,"Foolish people worry a thousand times, and will surely succeed once.",คนโง่คิดพันครั้ง ย่อมมีหนึ่งครั้งที่สำเร็จ
 会试9_题目2_答案4,"\n|Among a thousand worries of the patient, there must be one gain.",ในพันความกังวลของผู้ทุกข์ยาก ย่อมมีหนึ่งสิ่งที่ได้ประโยชน์
 会试9_题目3_答案1,"First blood, then decline, and finally exhaustion.",ครั้งแรกเต็มเปี่ยมด้วยพลัง ครั้งที่สองเริ่มถดถอย และครั้งที่สามย่อมหมดแรง
-会试9_题目3_答案2,"At the end of the storm, one cannot even float a feather.",แม้ลมแรงที่สุดเมื่ออ่อนกำลัง ก็มิอาจพัดขนนกให้ลอยได้
+会试9_题目3_答案2,"At the end of the storm, one cannot even float a feather.",แม้ลมแรงที่สุดเมื่ออ่อนกำลัง ก็มิอาจพัดขนนกให้ลอยได้<<<
 会试9_题目3_答案3,"It's not that the beginning is not strong, but the end is weak.",มิใช่ว่าต้นไม่แข็งแกร่ง แต่เพราะปลายอ่อนล้า
 会试9_题目3_答案4,"If it's not convenient to fight, it's better to make peace.",หากการต่อสู้ไม่เอื้ออำนวย สู้สร้างสันติจะดีกว่า
 会试10_题目1_答案1,Harmony among people is better than geographical advantage.,ทำเลปองมิสู้สามัคคี
