@@ -675,7 +675,7 @@ M20300-31_overview4,Talk with Chang Chunzi.,พูดคุยกับฉาง
 M20300-31option1_dialog,"Where can I find Monkey wine in Lin'an City...\nCan you help me figure it out?","ข้าจะหาสุราวานรนี้ได้ที่ไหนในเมืองหลินอัน...\nเจ้าช่วยข้าคิดได้ไหม?"
 M20300-31option1_1,I'll help you find your uncle.,ข้าจะช่วยเจ้าตามหาลุงเจ้า
 M20300-31option1_2,I'm really helpless.,ข้าทำอะไรไม่ถูกจริงๆ
-M20300-31option2_dialog,"{PlayerSurName} young hero, can you help me find my uncle now?",จอมยุทธ์น้อย{PlayerSurName} ท่านช่วยข้าตามหาท่านลุงตอนนี้เลยได้หรือไม่?
+M20300-31option2_dialog,"{PlayerSurName} young hero, can you help me find my uncle now?",จอมยุทธ์น้อย{PlayerSurName} ท่านช่วยข้าตามหาท่านลุง ตอนนี้เลยได้หรือไม่?
 M20300-31option2_1,I'll help you find your uncle.,ข้าจะช่วยเจ้าตามหาลุงเจ้า
 M20300-31option2_2,I still have no clue.,ข้าไม่รู้เลย.
 M20300-31option3_dialog,What do you want to do?,เจ้าอยากทำอะไรล่ะ?
