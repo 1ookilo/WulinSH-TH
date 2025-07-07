@@ -100,13 +100,13 @@ failItemOtherTip_琳琅书院,"If you dare to offend again, you'll lose more tha
 failItemBagTip_琳琅书院,"Scholars only talk about reason, they don't shed blood. Remember this lesson and don't offend again!",บันฑิตคุยด้วยเหตุผล มิจำเป็นต้องนองเลือด จำบทเรียนนี้เอาไว้แล้วอย่ามาวุ่นวายอีก!
 failBuffTip_琳琅书院,"How annoying! Don't show up in front of us again, or we'll beat you every time we see you!",น่ารำคาญชะมัด! อย่ามาปรากฏตัวต่อหน้าเราอีก ไม่งั้นเราจะทุบตีเจ้าทุกครั้งที่เจอเจ้า!
 startTip_释法寺,"The abbot has ordered, {player name} has committed grave sins, we must capture him alive!",ท่านเจ้าอาวาสมีบัญชา {player name} ก่อกรรมทำเข็ญหนักหนา จำต้องจับเป็นผู้นี้!
-fightTip_释法寺,"In that case, I'll give you three moves! So you can't say the monk is bullying you!","ถ้าอย่างนี้, อาตมาจะต่อให้ประสกสามกระบวนท่า! ประสกจะได้พูดไม่ได้ว่าภิกษุกำลังรังแกประสก!!"
+fightTip_释法寺,"In that case, I'll give you three moves! So you can't say the monk is bullying you!","เอาแบบนี้, อาตมาจะต่อให้ประสกสามกระบวนท่า! จะได้พูดไม่ได้ว่าหลวงจีน กำลังรังแกประสก!!"
 explainSuccessTip_释法寺,"In front of Buddha, we don't lie. I believe what you say.",ประสกคงไม่โกหกหน้าพระพุทธองค์ อาตมาจะเชื่อสิ่งที่ประสกพูด
 explainFailTip_释法寺,"In front of Buddha, how dare you speak wildly?", ต่อหน้าพุทธองค์ กล้าพูดจาหยาบคายได้อย่างไร?
 apologySuccessTip_释法寺,"Amitabha, this incense money, consider it as buying a lesson.","อมิตาพุทธ, ค่าธูปนี้อาตมาจะถือว่าเป็นการซื้อบทเรียน"
 apologyItemQuitTip_ 释法寺,Please respect the pure land of Buddhism!,ประสก กรุณาเคารพดินแดนบริสุทธิ์แห่งพระพุทธศาสนาด้วยด้วย!
 runAwaySuccessTip_释法寺,"You can hide on the first day of the lunar month, but not on the fifteenth!",หนีได้ก็แค่ชั่วคราว แต่ประสกหนีไปตลอดมิได้หรอก
-runAwayFailTip_释法寺,"The monk can run away, but the temple can't. Don't struggle in vain!",หนีจากภิกษุอาจไม่ยาก แต่อารามจะตามประสกไปตลอด ประสกอย่าดื้อดึงต่อต้านเลย
+runAwayFailTip_释法寺,"The monk can run away, but the temple can't. Don't struggle in vain!",หนีจากการเป็นหลวงจีนอาจไม่ยาก แต่อารามจะตามประสกไปตลอด ประสกอย่าดื้อดึงต่อต้านเลย
 failMoneyTip_释法寺,Knowing your mistakes and correcting them is the greatest virtue., คนดีชอบแก้ไข รู้ผิดแล้วคิดแก้นับว่าเป็นคุณธรรมที่สำคัญที่สุด
 failItemOtherTip_释法寺,"I hope Buddha will feel your repentance, Amitabha.", สัพเพสัตตา สัมมา สัมพุทธัสสะ อมิตาพุทธ
 failItemBagTip_释法寺,"The sea of suffering is boundless, turn back is the shore. I hope you remember this lesson and repent as soon as possible.",สังสารวัฏเป็นทุกข์ ไม่มีที่สิ้นสุด หันหลังกลับมาสู่ทางสว่างยังไม่สาย หวังว่าประสกจะจดจำบทเรียนนี้แล้วกลับตัวกลับใจนะ

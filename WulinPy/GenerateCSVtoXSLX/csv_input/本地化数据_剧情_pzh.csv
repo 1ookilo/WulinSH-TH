@@ -217,7 +217,7 @@ DBZX-2_8_2_1,"Wow, I didn't expect to see Master Xuan Chen here. It's really wor
 DBZX-2_8_2_2,"Brother, who is Master Xuan Chen?",พี่ชาย ใครคืออาจารย์เซวียนเฉิน?
 DBZX-2_8_2_3,"Master Xuan Chen was a hero during the Eight Saints period, and his martial arts skills were second only to the Eight Saints.",อาจารย์เซวียนเฉินเป็นผู้กล้า ในยุคแปดเซียน วิทยายุทธของเขาเป็นรองเพียงแค่พวกแปดเซียนเท่านั้น
 DBZX-2_8_2_4,The legends of his chivalrous deeds in the martial arts world are so numerous that a child could talk about them for days and nights.,ตำนานเกี่ยวกับวีรกรรมอันชาญฉลาดของเขาในยุทธภพ มีมากมายจนเด็กคนหนึ่งสามารถเล่าได้ข้ามวัน ข้ามคืน เลยทีเดียว
-DBZX-2_8_2_5,How did such a hero become a monk?,วีรบุรุษเช่นนี้มาบวชเป็นพระภิกษุได้อย่างไร?
+DBZX-2_8_2_5,How did such a hero become a monk?,วีรบุรุษเช่นนี้มาบวช เป็นหลวงจีนได้อย่างไร?
 DBZX-2_8_2_6,"There are various records in the martial arts world. The most widely known is that he lost a bet and became a monk, no longer involved in the affairs of the martial arts world. I didn't expect to meet him here today!",ในยุทธภพมีเรื่องเล่าเกี่ยวกับเขามากมาย เรื่องที่เล่ากันทั่วไปมากที่สุดคือ ท่านแพ้พนัน ทำให้ต้องไปบวชเป็นพระ ห้ามยุ่งเกี่ยวกับยุทธภพอีกเลย และไม่นึกว่าจะได้มาเจอเขาที่นี่วันนี้!
 DBZX-2_8_3_1,"Amitabha, the two benefactors did not hurt me. I have decided to mediate between the two benefactors. If you still want to fight, just aim at me.",อามิตาพุทธ แม้ว่าทั้งประสกทั้งสองไม่ได้ทำร้ายอาตมา อาตมาตัดสินใจเข้ามายุติความขัดแย้งระหว่างประสกทั้งสองเอง หากประสกทั้งสองยังต้องการต่อสู้กันอีก ก็ขอให้มุ่งเป้ามาที่อาตมาเพียงผู้เดียวแทน
 DBZX-2_8_3_2,This...,นี่... 
@@ -391,7 +391,7 @@ R10112-2_2_1_11,"Alright, {PlayerSurName} benefactor, don't just stand there, co
 R10112-2_2_1_12,"In the biting cold wind, Sun Yogin and you found a place downwind of a wall to drink.\nContrary to your expectation, the wine he handed out was still warm.","ท่ามกลางลมที่หนาวเหน็บ ท่าน และ ซุนหงอคง พบสถานที่สำหรับดื่มสุรา\nแต่ผิดคาด สุราที่พกมาด้วยกลับยังอุ่นอยู่"
 R10112-2_2_1_13,Woo-hoo-- exhilarating! I feel like I've swallowed a mouthful of Samadhi True Fire!,อู้หู--- สุดยอด! ข้ารู้สึกเหมือนได้กลืนไฟบรรลัยกัลป์เข้าไปเต็มปากเลย!
 R10112-2_2_2_1,"Old Sun knows you're a monk, so I've prepared some hot tea for you, please.",หงอคงผู้นี้ทราบว่าท่านเป็นหลวงจีน ดังนั้นข้าจึงเตรียมชาร้อนมาให้ เชิญดื่มได้เลย
-R10112-2_2_2_2,"You're thoughtful, Brother Traveler. But knowing that I'm a monk, why do you still call me a benefactor?",ขอบคุณพี่หงอคงที่เป็นห่วง แต่ในเมื่อรู้ว่าอาตมาเป็นพระสงฆ์แล้ว ทำไมถึงยังเรียกอาตมาว่าประสกอีกเล่า?
+R10112-2_2_2_2,"You're thoughtful, Brother Traveler. But knowing that I'm a monk, why do you still call me a benefactor?",ขอบคุณพี่หงอคงที่เป็นห่วง แต่ในเมื่อรู้ว่าอาตมาเป็นหลวงจีนแล้ว ทำไมถึงยังเรียกอาตมาว่า ประสกอีกเล่า?
 R10112-2_2_2_3,"Heh, Old Sun isn't a monk, but because I'm not a monk, anyone can be a benefactor.",เฮ้ หงอคงผู้นี้มิใช่หลวงจีน แต่เพราะว่าข้าไม่ใช่หลวงจีน ใครๆก็เป็นประสกได้ทั้งนั้น
 R10112-2_2_2_4,"...Brother Traveler, your words seem to have a Zen-like quality.",...สหายหงอคง คำพูดของท่านช่างลึกซึ้งยิ่งนัก
 R10112-2_2_2_5,"Hehe. If my unintentional words can enlighten you, it would be a merit. Hehe.",เฮะ ๆ หากคำพูดใดของข้าทำให้ประสกเห็นแจ้งได้ คงจะเป็นบุญยิ่งนัก เฮะ ๆ
