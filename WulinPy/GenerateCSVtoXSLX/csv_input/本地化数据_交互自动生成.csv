@@ -1453,10 +1453,10 @@ NpcSteal_福箐郡主_KaiGan,"Since you did this, don't blame me.|There are some
 NpcDriveAway_福箐郡主_XCKaiGan,"Did I block your way, young master?",ข้าขวางทางท่านหรือ?|ท่านต้องการทำสิ่งใดหรือ?
 NpcDriveAway_福箐郡主_KaiGan,"You're asking for trouble!|Such ungratefulness, don't blame {NpcJobTalk:自我称呼} for being ruthless.|Not everyone can be offended.|{NpcJobTalk:第二人称} shouldn't be so presumptuous!|{NpcJobTalk:第二人称} will pay for this!",เจ้าวอนเองนะ!|หยาบคายนัก อย่าหาว่า{NpcJobTalk:自我称呼}โหดเหี้ยมแล้วกัน|ไม่สามารถล่วงเกินใครหน้าไหนก็ได้หรอกนะ!|{NpcJobTalk:第二人称}ไม่ควรกล้าบ้าบิ่นเช่นนี้!|{NpcJobTalk:第二人称}จะต้องชดใช้ในสิ่งที่ทำลงไป! 
 NpcTeach_福箐郡主_Refuse,"I have something to do, I can't contact the young master.|Young master, I'm afraid we are not familiar enough.","{NpcJobTalk:第二人称}และ{NpcJobTalk:自我称呼}ยังไม่รู้จักกันดี อย่าบังคับข้าเลย|{NpcJobTalk:自我称呼}ยังมีอย่างอื่นต้องทำ ไว้คุยวันหลังนะ|ถ้าอยากเรียนรู้จาก{NpcJobTalk:自我称呼}, ก่อนอื่นก็สนิทกับ{NpcJobTalk:自我称呼}ก่อน|{NpcJobTalk:第二人称}และ{NpcJobTalk:自我称呼}ยังไม่รู้จักกันดี นี่มันเสียมารยาทนะ"
-NpcHello_重阳子_SelfIntroHigh,"Boundless Heavenly Lord, please feel free to do as you wish.",ท่านอู๋เหลียงเทียนจุน ท่านโปรดทำตามใจเถิด.
-NpcHello_重阳子_SelfIntroLow,"Boundless Heavenly Lord, please feel free to do as you wish.",ท่านอู๋เหลียงเทียนจุน ท่านโปรดทำตามใจเถิด.
-NpcHello_重阳子_Common,"Boundless Heavenly Lord.|What can I do for you, young friend?",ท่านอู๋เหลียงเทียนจุน|สหายน้อย มีอะไรให้ข้าช่วยเหลือ?
-NpcHello_重阳子_Like,"Boundless Heavenly Lord.|What can I do for you, young friend?",ท่านอู๋เหลียงเทียนจุน|สหายน้อย มีอะไรให้ข้าช่วยเหลือ?
+NpcHello_重阳子_SelfIntroHigh,"Boundless Heavenly Lord, please feel free to do as you wish.",ท่านจ้าวสวรรค์ไร้ขอบเขต ท่านโปรดทำตามใจเถิด.
+NpcHello_重阳子_SelfIntroLow,"Boundless Heavenly Lord, please feel free to do as you wish.",ท่านจ้าวสวรรค์ไร้ขอบเขต ท่านโปรดทำตามใจเถิด.
+NpcHello_重阳子_Common,"Boundless Heavenly Lord.|What can I do for you, young friend?",ท่านจ้าวสวรรค์ไร้ขอบเขต|สหายน้อย มีอะไรให้ข้าช่วยเหลือ?
+NpcHello_重阳子_Like,"Boundless Heavenly Lord.|What can I do for you, young friend?",ท่านจ้าวสวรรค์ไร้ขอบเขต|สหายน้อย มีอะไรให้ข้าช่วยเหลือ?
 NpcHello_重阳子_Dislike,"This is a place of quiet cultivation, please respect yourself, young hero.",ที่นี่คือสถานที่สำหรับการฝึกสมาธิ ท่านจอมยุทธน้อย ท่านโปรดสำรวมตนด้วย
 NpcHello_重阳子_Hate,"Please leave, young hero.|The Taoist Sect does not welcome you, young hero.",ท่านจอมยุทธน้อย โปรดออกไปเถิด|ท่านจอมยุทธน้อย สำนักเต๋าไม่ต้อนรับท่าน
 NpcFactionBuy_重阳子_RefuseSameFactionOnly,"You are not a disciple of our sect, you cannot exchange things from this old Taoist.",ท่านมิใช่ศิษย์ของสำนักเรา ข้าไม่สามารถแลกเปลี่ยนสิ่งใดกับท่านได้
@@ -1708,7 +1708,7 @@ NpcJobTalk_第二人称脏话_文官,Traitor,ผู้ทรยศ
 NpcJobTalk_第二人称脏话_将军,Hooligan,อันธพาล
 NpcJobTalk_第二人称脏话_宦官,Little beast,อสูรน้อย
 NpcJobTalk_第二人称脏话_乡村中年人,Hooligan,อันธพาล
-NpcJobTalk_口号_重阳子,"Boundless Heavenly Lord,",ท่านอู๋เหลียงเทียนจุน
+NpcJobTalk_口号_重阳子,"Boundless Heavenly Lord,",ท่านจ้าวสวรรค์ไร้ขอบเขต
 NpcJobTalk_口号_华严禅师,"Amitabha,",อามิตาพุทธ
 NpcJobTalk_脏话_长春子,Hey!,นี่!
 NpcJobTalk_脏话_苗木黎,Bastard!,สารเลว!
@@ -4076,8 +4076,8 @@ NpcHello_铁面人女性—暴躁_Dislike,"What can {NpcJobTalk:第二人称} do
 NpcHello_铁面人女性—暴躁_Hate,"{NpcJobTalk:自我称呼} doesn't have time to entertain you.|Don't let {NpcJobTalk:自我称呼} see you again!|{NpcJobTalk:脏话}, stop pacing around in front of {NpcJobTalk:自我称呼}, it's annoying.|How dare you show up in front of {NpcJobTalk:自我称呼}!",{NpcJobTalk:自我称呼}ไม่มีเวลาว่างมาสนใจเจ้า|อย่าให้{NpcJobTalk:自我称呼}เจอหน้าเจ้าอีก!|{NpcJobTalk:脏话} อย่ามาเดินวนเวียนตรงหน้า{NpcJobTalk:自我称呼} มันน่ารำคาญ|เจ้ายังกล้ามาปรากฏตัวต่อหน้า{NpcJobTalk:自我称呼}อีกหรือ!
 NpcHello_铁面人重阳子_SelfIntroHigh,"Blessings of the Infinite Heaven, please feel free.",ท่านเจ้าสวรรค์ไร้ขอบเขต เชิญท่านตามสบายเถิด
 NpcHello_铁面人重阳子_SelfIntroLow,"Blessings of the Infinite Heaven, please feel free.",ท่านเจ้าสวรรค์ไร้ขอบเขต เชิญท่านตามสบายเถิด
-NpcHello_铁面人重阳子_Common,Boundless Heavenly Lord.|What brings Tie Mianren here?,ท่านอู๋เหลียงเทียนจุน|ท่านบุรุษหน้ากากเหล็กมาที่นี่มีธุระอันใด?
-NpcHello_铁面人重阳子_Like,Boundless Heavenly Lord.|What brings Tie Mianren here?,ท่านอู๋เหลียงเทียนจุน|ท่านบุรุษหน้ากากเหล็กมาที่นี่มีธุระอันใด?
+NpcHello_铁面人重阳子_Common,Boundless Heavenly Lord.|What brings Tie Mianren here?,ท่านจ้าวสวรรค์ไร้ขอบเขต|ท่านบุรุษหน้ากากเหล็กมาที่นี่มีธุระอันใด?
+NpcHello_铁面人重阳子_Like,Boundless Heavenly Lord.|What brings Tie Mianren here?,ท่านจ้าวสวรรค์ไร้ขอบเขต|ท่านบุรุษหน้ากากเหล็กมาที่นี่มีธุระอันใด?
 NpcHello_铁面人重阳子_Dislike,"This is a place of quiet cultivation, please behave yourself.",ที่นี่คือสถานที่สำหรับการฝึกสมาธิ ท่านโปรดสำรวมตนด้วย
 NpcHello_铁面人重阳子_Hate,Please go back.|Taoist Sect doesn't welcome you.,โปรดกลับไปเถอะ|สำนักเต๋าไม่ยินดีต้อนรับท่าน
 NpcFactionBuy_铁面人重阳子_RefuseSameFactionOnly,"You're not a disciple of my sect, you can't exchange things from me.",ท่านไม่ใช่ศิษย์ของสำนักเรา ท่านจึงไม่สามารถแลกเปลี่ยนของกับข้าได้
@@ -4449,16 +4449,16 @@ NpcSteal_流民营通用_KaiGan,Don't think I'm easy to mess with!|You asked for
 NpcDriveAway_流民营通用_XCKaiGan,"Alright, alright, you win.|I won't stoop to your level.",อย่าบังคับให้{NpcJobTalk:自我称呼}ต้องลงมือกับ{NpcJobTalk:第二人称}.|{NpcJobTalk:自我称呼}จะไม่ลดตัวลงไปต่ำเท่า{NpcJobTalk:第二人称}หรอก|ทำตัวโง่เง่าจริงๆ|อย่าได้ลองดีเกินไป|อย่าคิดว่า{NpcJobTalk:自我称呼}จะกลัวเจ้านะ!|ช่างหยาบคายนัก!
 NpcDriveAway_流民营通用_KaiGan,Don't think I'm easy to mess with!|Uncivilized!,เจ้าวอนเองนะ!|หยาบคายนัก อย่าหาว่า{NpcJobTalk:自我称呼}โหดเหี้ยมแล้วกัน|ไม่สามารถล่วงเกินใครหน้าไหนก็ได้หรอกนะ!|{NpcJobTalk:第二人称}ไม่ควรกล้าบ้าบิ่นเช่นนี้!|{NpcJobTalk:第二人称}จะต้องชดใช้ในสิ่งที่ทำลงไป! 
 NpcDriveAway_流民营通用_GoAwake,"Bullying the weak and fearing the strong is nothing.|This is too much.|If you can't provoke, you can avoid.|Sigh, better not cause trouble.",ข้าไม่อยากเสียเวลาโต้เถียงกับเจ้า|รังแกคนอ่อนแอเช่นเจ้า จะมีค่ากระไร?|ทำเกินไปแล้ว|ช่างอวดดีสิ้นดี|ถ้าไม่อยากมีเรื่อง ก็หลีกไปซะ|รังแกคนดี ไม่ใช่ความสามารถอะไร|ข้ายอมรับ เจ้าหาเรื่องไม่เป็นรองใครจริงๆ...|{NpcJobTalk:自我称呼}ถอยไม่ได้หรือ?|ยุทธภพช่างโหดร้าย จะไปบ่นใครได้!|ช่างมีคนสารพัดรูปแบบ|{NpcJobTalk:第二人称}จะไม่โต้เถียงกับ{NpcJobTalk:自我称呼}|ข้าไม่อยากถือสาเจ้าเลย|มีอะไรก็พูดกันดีๆ ไม่ได้หรือไร?|ทำไมต้องหยาบคายเช่นนี้?|{NpcJobTalk:第二人称}ช่างหยาบคายนัก
-NpcHello_道玄宗同门通用_SelfIntroHigh,"Boundless Heavenly Lord.|Greetings, junior brother.|What brings you here, junior brother?|You must be the new junior brother, master often mentions you.",ท่านอู๋เหลียงเทียนจุน!|พบกันอีกแล้วนะศิษย์น้อง|ศิษย์น้องมีธุระอะไรหรือ?|เจ้าคงเป็นศิษย์น้องที่เพิ่งมาใหม่ ข้าได้ยินท่านอาจารย์พูดถึงบ่อยๆ
-NpcHello_道玄宗同门通用_SelfIntroLow,"Boundless Heavenly Lord.|Greetings, junior brother.|What brings you here, junior brother?|You must be the new junior brother, master often mentions you.",ท่านอู๋เหลียงเทียนจุน!|พบกันอีกแล้วนะศิษย์น้อง|ศิษย์น้องมีธุระอะไรหรือ?|เจ้าคงเป็นศิษย์น้องที่เพิ่งมาใหม่ ข้าได้ยินท่านอาจารย์พูดถึงบ่อยๆ
-NpcHello_道玄宗同门通用_Common,"Boundless Heavenly Lord.|What brings you here, junior brother?",ท่านอู๋เหลียงเทียนจุน|ศิษย์น้องมีธุระอะไรหรือ?
-NpcHello_道玄宗同门通用_Like,"Boundless Heavenly Lord.|What brings you here, junior brother?",ท่านอู๋เหลียงเทียนจุน|ศิษย์น้องมีธุระอะไรหรือ?
+NpcHello_道玄宗同门通用_SelfIntroHigh,"Boundless Heavenly Lord.|Greetings, junior brother.|What brings you here, junior brother?|You must be the new junior brother, master often mentions you.",ท่านจ้าวสวรรค์ไร้ขอบเขต!|พบกันอีกแล้วนะศิษย์น้อง|ศิษย์น้องมีธุระอะไรหรือ?|เจ้าคงเป็นศิษย์น้องที่เพิ่งมาใหม่ ข้าได้ยินท่านอาจารย์พูดถึงบ่อยๆ
+NpcHello_道玄宗同门通用_SelfIntroLow,"Boundless Heavenly Lord.|Greetings, junior brother.|What brings you here, junior brother?|You must be the new junior brother, master often mentions you.",ท่านจ้าวสวรรค์ไร้ขอบเขต!|พบกันอีกแล้วนะศิษย์น้อง|ศิษย์น้องมีธุระอะไรหรือ?|เจ้าคงเป็นศิษย์น้องที่เพิ่งมาใหม่ ข้าได้ยินท่านอาจารย์พูดถึงบ่อยๆ
+NpcHello_道玄宗同门通用_Common,"Boundless Heavenly Lord.|What brings you here, junior brother?",ท่านจ้าวสวรรค์ไร้ขอบเขต|ศิษย์น้องมีธุระอะไรหรือ?
+NpcHello_道玄宗同门通用_Like,"Boundless Heavenly Lord.|What brings you here, junior brother?",ท่านจ้าวสวรรค์ไร้ขอบเขต|ศิษย์น้องมีธุระอะไรหรือ?
 NpcHello_道玄宗同门通用_Dislike,"No visit without a reason, what's the matter this time?|Junior brother, are you up to no good again?|Junior brother, I advise you to behave yourself.",เจ้าไม่เคยมาโดยไม่มีเหตุผล คราวนี้มีเรื่องอันใดหรือ?|ศิษย์น้อง เจ้าคิดจะทำอะไรไม่ดีอีกหรือ?|ศิษย์น้อง ศิษย์พี่ขอเตือนให้เจ้าทำตัวให้ดีเถอะ
 NpcHello_道玄宗同门通用_Hate,"I have nothing to say to you.|Please go back.|If not for our brotherhood, I would have acted for the heavens against you.|Sigh, take care of yourself.",ข้าไม่มีอะไรจะพูดกับเจ้า|เชิญกลับไปเถอะ|ถ้าไม่เห็นแก่ความเป็นศิษย์ร่วมสำนัก ข้าคงจัดการเจ้าไปแล้ว|เฮ้อ เจ้าดูแลตัวเองเถอะ
-NpcHello_道玄宗通用_SelfIntroHigh,"Boundless Heavenly Lord.|I greet you, benefactor.|What brings you here, benefactor?",ท่านอู๋เหลียงเทียนจุน|ข้าขอคารวะ|ท่านมีธุระอะไรหรือ?
-NpcHello_道玄宗通用_SelfIntroLow,"Boundless Heavenly Lord.|I greet you, benefactor.|What brings you here, benefactor?",ท่านอู๋เหลียงเทียนจุน|ข้าขอคารวะ|ท่านมีธุระอะไรหรือ?
-NpcHello_道玄宗通用_Common,"Boundless Heavenly Lord.|What can I do for you, benefactor?",ท่านอู๋เหลียงเทียนจุน|ท่านมีธุระอะไรหรือ?
-NpcHello_道玄宗通用_Like,"Boundless Heavenly Lord.|What can I do for you, benefactor?",ท่านอู๋เหลียงเทียนจุน|ท่านมีธุระอะไรหรือ?
+NpcHello_道玄宗通用_SelfIntroHigh,"Boundless Heavenly Lord.|I greet you, benefactor.|What brings you here, benefactor?",ท่านจ้าวสวรรค์ไร้ขอบเขต|ข้าขอคารวะ|ท่านมีธุระอะไรหรือ?
+NpcHello_道玄宗通用_SelfIntroLow,"Boundless Heavenly Lord.|I greet you, benefactor.|What brings you here, benefactor?",ท่านจ้าวสวรรค์ไร้ขอบเขต|ข้าขอคารวะ|ท่านมีธุระอะไรหรือ?
+NpcHello_道玄宗通用_Common,"Boundless Heavenly Lord.|What can I do for you, benefactor?",ท่านจ้าวสวรรค์ไร้ขอบเขต|ท่านมีธุระอะไรหรือ?
+NpcHello_道玄宗通用_Like,"Boundless Heavenly Lord.|What can I do for you, benefactor?",ท่านจ้าวสวรรค์ไร้ขอบเขต|ท่านมีธุระอะไรหรือ?
 NpcHello_道玄宗通用_Dislike,"No visit without a reason, what's the matter this time?",เยี่ยมเยียนกันย่อมมีเหตุผล มีเรื่องอะไร?
 NpcHello_道玄宗通用_Hate,I have nothing to say to you.|Please go back.,ข้าไม่มีอะไรจะพูด|เชิญกลับไป
 NpcSight_道玄宗通用_FameLowBattle,"You vile thief, prepare to die!|Today, I will rid the martial world of you, vile thief!|Vile thief, you dare return!|Today, you'll witness the might of the Taoist Sect!",เจ้าคนชั่ว ตายซะเถอะ!|วันนี้ข้าจะกำจัดเจ้าคนชั่วเพื่อยุทธภพ!|เจ้าคนชั่ว เจ้ายังกล้ากลับมาที่นี่อีกหรือ!|วันนี้ข้าจะให้เจ้ารู้ถึงพลังของสำนักเต๋า!
