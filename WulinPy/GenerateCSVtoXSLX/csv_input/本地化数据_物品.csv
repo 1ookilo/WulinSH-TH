@@ -603,7 +603,7 @@ ItemName_稀有镰刀,Top-quality Sickle,เคียวชั้นยอด
 ItemName_稀有捕虫网,Top-quality Worm-catching Net,ตาข่ายจับแมลงชั้นยอด
 ItemName_无名小村地图,Map - Nameless village,แผนที่ - หมู่บ้านไร้นาม
 ItemName_青风寨地图,Map - Blue Wind Camp,แผนที่ - ค่ายวายุคราม
-ItemName_迷踪林地图,Map - Lost Forest,แผนที่ - ป่าสาปสูญ
+ItemName_迷踪林地图,Map - Lost Forest,แผนที่ - ป่าสาบสูญ
 ItemName_野狼谷地图,Map - Wild Wolf Valley,แผนที่ - หุบเขาหมาป่า
 ItemName_断魂林地图,Forest of Broken Souls Map,แผนที่ - ป่าวิญญาณสลาย
 ItemName_琼花谷地图,Map - Viburnum Valley,แผนที่ - หุบเขาโบตั๋น
@@ -2590,7 +2590,7 @@ ItemInfo_稀有镰刀,"Gathering Tool, made of rare materials.","เครื่
 ItemInfo_稀有捕虫网,"Bug-catching Tool for digging holes, made of rare materials.","อุปกรณ์ขุดหลุมและจับแมลง, ทำจากวัสดุชั้นยอดหายาก"
 ItemInfo_无名小村地图,"Featuring the landscape of <#d09a09>Nameless village</color>, click Info.","แสดงแผนที่ของ <#d09a09>หมู่บ้านไร้นาม</color>, คลิกเพื่อดูข้อมูล"
 ItemInfo_青风寨地图,"Featuring the landscape of <#d09a09>Blue Wind Camp</color>, click Info.","แสดงแผนที่ของ <#d09a09>ค่ายวายุคราม</color>, คลิกเพื่อดูข้อมูล"
-ItemInfo_迷踪林地图,"Featuring the landscape of <#d09a09>Lost Forest</color>, click Info.","แสดงแผนที่ของ <#d09a09>ป่าสาปสูญ</color>, คลิกเพื่อดูข้อมูล"
+ItemInfo_迷踪林地图,"Featuring the landscape of <#d09a09>Lost Forest</color>, click Info.","แสดงแผนที่ของ <#d09a09>ป่าสาบสูญ</color>, คลิกเพื่อดูข้อมูล"
 ItemInfo_野狼谷地图,"Featuring the landscape of <#d09a09>Wild Wolf Valley</color>, click Info.","แสดงแผนที่ของ <#d09a09>หุบเขาหมาป่า</color>, คลิกเพื่อดูข้อมูล"
 ItemInfo_断魂林地图,"Featuring the landscape of <#d09a10>Forest of Broken Souls</color>, click Info.","แสดงแผนที่ของ <#d09a10>ป่าวิญญาณสลาย</color>, คลิกเพื่อดูข้อมูล"
 ItemInfo_琼花谷地图,"Featuring the landscape of <#d09a10>Epiphyllum Valley</color>, click Info.","แสดงแผนที่ของ <#d09a10>หุบเขาโบตั๋น</color>, คลิกเพื่อดูข้อมูล"
