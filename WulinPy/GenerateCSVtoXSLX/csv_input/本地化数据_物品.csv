@@ -2149,7 +2149,7 @@ ItemInfo_青罡剑,"Made by condensing energy, the temperament is flowing, elega
 ItemInfo_倚天剑,"The sword is wide and the guard is flamboyant, with a hint of imperial aura.","ตัวดาบกว้างใหญ่, ด้ามดาบเด่นชัด, แฝงไว้ด้วยอำนาจดั่งจักรพรรดิ"
 ItemInfo_青冥剑,"The waistband is silver-plated, clean and bright. It is said to be an ancient weapon.", ด้ามจับหุ้มด้วยเงิน สะอาด เรียบง่าย และเปล่งประกาย เชื่อกันว่าเป็นอาวุธโบราณ
 ItemInfo_承影剑,"Named for the phrase ""Jiao divides the shadow, the goose falls and forgets to return"".","ได้ชื่อนี้ตามวลี ""มังกรแยกตัวออกมาเป็นเงา ห่านป่าตกลงมาและหลงลืมทางกลับ"""
-ItemInfo_百炼剑,"The ultimate craftsmanship created through repeated tempering, everyone in the martial arts world wants to get it.",สุดยอดฝีมือการหลอมอาวุธที่เกิดจากการฝึกฝนซ้ำแล้วซ้ำเล่า ทุกคนในโลกยุทธภพต่างก็อยากครอบครองมัน
+ItemInfo_百炼剑,"The ultimate craftsmanship created through repeated tempering, everyone in the martial arts world wants to get it.",สุดยอดฝีมือการหลอมอาวุธ ที่เกิดจากการฝึกฝนซ้ำแล้วซ้ำเล่า ทุกคนในโลกยุทธภพต่างก็อยากครอบครองมัน
 ItemInfo_龙渊剑,"Cast by the two great swordsmiths, Ou Yezi and Ganjiang, it is a symbol of honesty and integrity.","หล่อโดยช่างตีดาบผู้ยิ่งใหญ่สองคน, คือ โอวเหยียจื่อ และ กานเจียง มันเป็นสัญลักษณ์ของความซื่อสัตย์และความจริงใจ"
 ItemInfo_干将,"An ancient sword passed down from ancient times, made from the iron essence of five mountains and the golden hero of the six realms. After thousands of years, it is still exceptionally sharp.",กระบี่เลื่องชื่อสืบทอดมาแต่โบราณกาล สร้างจากแร่เหล็กชั้นดีจากห้าภูเขา และทองคำบริสุทธิ์จากหกทิศ แม้ผ่านกาลเวลามานับพันปี แต่ยังคงคมกริบอย่างยิ่ง
 ItemInfo_含光,"Gold and iron are nourished, thus forming a sword. The cold light is chilling, and the Power is infinite.",เมื่อทองคำและเหล็กกล้าหลอมรวมกัน จึงกลายเป็นกระบี่ แผ่แสงประกายเย็นยะเยือก มีพลังอำนาจมหาศาล
@@ -4275,7 +4275,7 @@ ItemInfo_手札残页其二,"An unknown hand note fragment, the handwriting is u
 ItemInfo_手札残页其三,"An unknown hand note fragment, the handwriting is unclear, maybe if you gather all of them, you can find out the truth.","ชิ้นส่วนหมายเหตุลายมือที่ไม่รู้จัก, ลายมือไม่ชัดเจน บางทีถ้ารวบรวมได้ทั้งหมดเจ้าอาจจะพบความจริง"
 ItemInfo_观星图,A painting depicting the stars of the whole sky.,ภาพวาดดวงดาวทั่วทั้งท้องฟ้า
 ItemInfo_楚襄城贵重货物,Goods from the owner of the Chuxiang City Pink Attire Pavilion.,สินค้าจากเจ้าของโรงผ้าแขนเสื้อแดงเมืองฉู่เซียง
-ItemInfo_大梁城贵重货物,Goods from the owner of the Daliang City Cloud Flower Shop.,สินค้าจากเถ้าแก่ร้านดอกไม้เมฆาเมืองต้าเหลียง
+ItemInfo_大梁城贵重货物,Goods from the owner of the Daliang City Cloud Flower Shop.,สินค้าจากเถ้าแก่โรงน้ำชาเมืองต้าเหลียง
 ItemInfo_霖安城贵重货物,Goods from the owner of the Lin'an City Relic House.,สินค้าจากเจ้าของหอสมบัติเมืองหลินอัน
 ItemInfo_珍贵经书,"A precious scripture treasured by the Shifa Temple, stolen by Wanyan Liang years ago.",คัมภีร์ล้ำค่าของอารามซื่อฟา ถูกขโมยไปโดยหวันเหยียนเหลียงเมื่อไม่กี่ปีก่อน
 ItemInfo_竞宝大会请柬,"An invitation to the Treasure Auction, you need it to participate in the auction.",เทียบเชิญเข้าร่วมงานชิงสมบัติ ซึ่งเจ้าต้องใช้มันเพื่อเข้าร่วมงานชิงสมบัติที่ตลาดประมูลราตรี
