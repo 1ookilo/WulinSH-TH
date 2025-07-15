@@ -235,7 +235,7 @@ I'll go to Epiphyllum Valley to look for him. If I can't find him, I'll come bac
 C20500-1_103,I didn't expect there to be such a beauty in the world!,คาดไม่ถึงว่าในโลกนี้จักมีหญิงงามเช่นนี้อยู่ด้วย!
 C20500-1_104,"I am {PlayerName}, I have something to disturb the beauty.",ข้าน้อย{PlayerName} มีเรื่องขอรบกวนแม่นาง
 C20500-1_105,"There is no self, no person, no sentient being, no life, red powder skull, white bone flesh, Amitabha.",ปราศจากอัตตาตัวตน ปราศจากผู้คน ปราศจากสรรพสัตว์ ปราศจากกาลเวลา กายเนื้อหนังมังสาเปรียบดังโครงกระดูกคลุมด้วยหนัง อมิตาพุทธ
-C20500-1_106,"I am a monk, my secular name is {PlayerName}, sorry to disturb you, lady.",อาตมาเป็นหลวงจีน มีนามว่า{PlayerName} ขออภัยที่รบกวนสีกา
+C20500-1_106,"I am a monk, my secular name is {PlayerName}, sorry to disturb you, lady.",อาตมาเป็นหลวงจีน มีนามว่า{PlayerName} ขออภัยที่รบกวนประสก
 C20500-1_107,Do you think I'm beautiful?,ท่านคิดว่าข้างามหรือไม่?
 C20500-1_108,"Women dress for those who please them, I am Man Tuoluo, nice to meet you, Mr. {PlayerSurName}.",สตรีแต่งองค์เพื่อบุรุษที่ตนพึงใจ ข้าม่านถัวหลัว ขอคารวะท่านชาย{PlayerSurName}
 C20500-1_109,"You are a monk with lust, it seems you are a flower monk.
@@ -248,11 +248,11 @@ C20500-1_113,Young master...,คุณชายเจ้าคะ...
 C20500-1_114,I couldn't help myself for a moment...,ในชั่วขณะนี้ ข้ามิอาจหักห้ามใจได้…
 C20500-1_115,"On such a beautiful day, little monk, why don't you...",บรรยากาศช่างงดงามเช่นนี้ ท่านหลวงจีนน้อย ทำไมท่านไม่ลอง…
 C20500-1_116,(Player teleports back one step),(ผู้เล่นวาร์ปถอยหลังหนึ่งช่อง)
-C20500-1_117,"Female donor, please respect yourself.",สีกา โปรดสำรวมด้วย
+C20500-1_117,"Female donor, please respect yourself.",ประสก โปรดสำรวมด้วย
 C20500-1_118,(Man Tuoluo steps closer to the player),(ม่านถัวหลัวก้าวเข้าใกล้ผู้เล่นหนึ่งก้าว)
 C20500-1_119,"What are you hiding from, I won't eat you",เจ้าหลบทำไมกัน ข้าไม่ได้จะกินเจ้าเสียหน่อย
 C20500-1_120,(Player teleports back another step),(ผู้เล่นวาร์ปถอยหลังอีกหนึ่งก้าว)
-C20500-1_121,"I am a monk, female donor, don't push too hard!",อาตมาเป็นผู้ปฏิบัติธรรม สีกาอย่าได้บีบคั้นกันมากเกินไป!
+C20500-1_121,"I am a monk, female donor, don't push too hard!",อาตมาคือหลวงจีนผู้ปฏิบัติตามหลักศาสนา ประสก โปรดอย่ากดดันกันจนเกินไปเลย!
 C20500-1_122,"Alright, alright, I won't tease you anymore.",เอาล่ะ เอาล่ะ ข้าไม่แหย่ท่านแล้ว
 C20500-1_123,"Tell me your purpose, I suppose you're not just here to see me.",บอกความตั้งใจของท่านมาเถิด คงมิใช่เพียงเพื่อมาพบหน้าข้าเพียงอย่างเดียวกระมัง?
 C20500-1_124,I was entrusted by someone to come to Epiphyllum Valley to inquire about someone's whereabouts.,ข้าได้รับคำฝากฝังให้มาที่หุบเขาโบตั๋นเพื่อสืบหาเบาะแสของคนผู้หนึ่ง
