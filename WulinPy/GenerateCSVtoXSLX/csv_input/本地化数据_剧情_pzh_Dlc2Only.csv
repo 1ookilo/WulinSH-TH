@@ -29,7 +29,7 @@ M5003-4_2_3_6,"No, no, my ambition is not here, I just want to record the deeds 
 M5003-4_2_4_1,"This guy seems to be quite capable, he said he is from the ""Confucius Temple"", Innkeeper, do you know about it?",คนผู้นี้ดูเก่งกล้าทีเดียว เขาบอกว่ามาจากวัดขงจื๊อ เถ้าแก่ ท่านรู้จักที่นั่นหรือเปล่า?
 M5003-4_2_4_2,"I'm not a martial artist, I don't know much about the various martial arts sects, but it seems that this Confucius Temple is quite powerful.",ข้าเป็นเพียงคนธรรมดา ไม่มีความรู้เรื่องยุทธภพมากนัก แต่ดูเหมือนว่าวัดขงจื๊อจะมีพลังอำนาจที่น่าสะพรึงกลัวมากทีเดียว
 M5003-4_2_4_3,I see.,อย่างนี้นี่เอง...
-M5003-4_3_1_1,"Amitabha, I am a disciple of the Shifa Temple, passing by here, I hope the Innkeeper can grant me a bowl of Low-grade tea.",อมิตาพุทธ อาตมาเป็นศิษย์ของวัดซือฟา เดินทางผ่านมาแถวนี้ ขอเถ้าแก่เมตตาให้ชาหยาบสักถ้วยเพื่อดับกระหาย
+M5003-4_3_1_1,"Amitabha, I am a disciple of the Shifa Temple, passing by here, I hope the Innkeeper can grant me a bowl of Low-grade tea.",อมิตาพุทธ อาตมาเป็นศิษย์ของอารามซื่อฟา เดินทางผ่านมาแถวนี้ ขอเถ้าแก่เมตตาให้ชาหยาบสักถ้วยเพื่อดับกระหาย
 M5003-4_3_2_1,(This monk is from that time...),(หลวงจีนรูปนี้จากเมื่อตอนนั้น...)
 M5003-4_4_1_1,"Oh, I didn't expect to meet a fellow Daoist from the Shifa Temple here.",โอ้ ข้าไม่นึกว่าจะได้พบกับสหายธรรมจากอารามซื่อฟาที่นี่
 M5003-4_4_1_2,"Amitabha, may I ask who this benefactor is?",อมิตาพุทธ ขอถามได้ไหมว่าประสกผู้นี้คือใคร?
@@ -41,14 +41,14 @@ M5003-4_4_2_1,"First it was the Confucius Temple, now there's someone from the S
 M5003-4_4_2_2,"Master, what is this Shifa Temple... ",อาจารย์ อารามซื่อฟาเป็นสถานที่เช่นไรกัน?
 M5003-4_4_2_3,"It is one of the three religions, representing ""Buddhism"", and is also a representative of the righteous sects in the martial arts world today.",เป็นหนึ่งในสามสำนักใหญ่ เป็นผู้สืบทอดมรดกของพุทธศาสนา และเป็นหนึ่งในสำนักธรรมะที่ทรงอิทธิพลที่สุดในยุทธภพปัจจุบัน
 M5003-4_4_2_4,How many representatives are there in the righteous sects of the martial arts world today... ,ในยุคสมัยนี้ มีผู้สืบทอดวิชาจากสำนักธรรมะกระจายอยู่ทั่วหล้ามากเพียงใดกัน...
-M5003-4_4_2_5,"That is, the three families led by the three teachings, and the remaining one is the Taoist Sect... ",จากสามสำนักใหญ่ ที่เป็นผู้นำแห่งยุทธภพ บัดนี้เหลือเพียงสำนักเดียวที่ยังคงอยู่.. คือสำนักเต๋า...
+M5003-4_4_2_5,"That is, the three families led by the three teachings, and the remaining one is the Taoist Sect... ",กล่าวคือ สามสำนักใหญ่ที่นำโดยนิกายทั้งสาม ยังเหลืออีกหนึ่งสำนัก นั่นคือ สำนักเต๋า……
 M5003-4_4_3_1,"This person is indeed from the Shifa Temple, no wonder he speaks profound truths one after another... ",หลวงจีนผู้นี้เป็นศิษย์ของอารามซื่อฟาแท้ๆ ไม่น่าแปลกใจที่คำพูดของเขาเปี่ยมไปด้วยปัญญา
 M5003-4_4_3_2,"Brother, you don't seem to like the Shifa Temple?",ศิษย์พี่ เหตุใดท่านจึงดูไม่สบอารมณ์กับอารามซื่อฟาเช่นนี้
 M5003-4_4_3_3,"Well... they don't produce anything, but they keep talking about morality. It might be good at other times, but in this world, what's the use of just talking about morality?",ก็... พวกเขาไม่ได้สร้างสรรค์สิ่งใด แต่กลับพร่ำสอนเรื่องธรรมะอยู่ตลอดเวลา อาจจะดีในยุคสงบสุข แต่ในยุทธภพนี้ การพูดถึงคุณธรรมอย่างเดียวจะมีประโยชน์อะไร
-M5003-4_4_3_4,It seems... indeed it is.,ดูเหมือนจะเป็นเช่นนั้น... และมันก็เป็นเช่นนั้นจริง ๆ
-M5003-4_4_4_1,"It turns out to be a master from the Shifa Temple, I have to ask him later if he can help me bless the Protected Talisman... ",ปรากฏว่าเป็นผู้ทรงธรรมจากอารามซื่อฟา ข้าคงต้องขอความกรุณาจากท่านช่วยปลุกเสกเครื่องรางของข้าในภายหลัง...
+M5003-4_4_3_4,It seems... indeed it is.,ดูเหมือน…… จะเป็นเช่นนั้นจริงๆ
+M5003-4_4_4_1,"It turns out to be a master from the Shifa Temple, I have to ask him later if he can help me bless the Protected Talisman... ",ไม่คิดเลยว่าจะเป็นผู้ทรงธรรมจากอารามซื่อฟา ประเดี๋ยวต้องลองถามท่านดูเสียหน่อย ว่าพอจะช่วยทำพิธีเบิกเนตรยันต์คุ้มกายให้ข้าได้หรือไม่……
 M5003-4_4_4_2,What is this Shifa Temple?,อารามซื่อฟา นี่คืออะไรกันแน่?
-M5003-4_4_4_3,"Looking at your RollVagabond outfit, how come you don't even know about the Shifa Temple? That's the largest temple today, it is said that there are countless martial arts stored in it, and there is even a saying that all the martial arts in the world today come from the Shifa Temple!",มองเครื่องแต่งกายของเจ้าก็ดูเป็นชาวยุทธ์ เหตุใดเจ้าถึงไม่รู้จักอารามซื่อฟาล่ะ? นั่นคือวัดที่ใหญ่ที่สุดในปัจจุบัน มีการกล่าวกันว่าที่นั่นซ่อนเร้นวิชาชั้นสูงที่หาใดเปรียบไม่ได้ และยังมีเสียงลือเล่าขานว่า วิทยายุทธ์ทั้งปวงในยุคนี้ล้วนมีรากฐานมาจากอารามแห่งนั้น
+M5003-4_4_4_3,"Looking at your RollVagabond outfit, how come you don't even know about the Shifa Temple? That's the largest temple today, it is said that there are countless martial arts stored in it, and there is even a saying that all the martial arts in the world today come from the Shifa Temple!",มองเครื่องแต่งกายของเจ้าก็ดูเป็นชาวยุทธ์ เหตุใดเจ้าถึงไม่รู้จักอารามซื่อฟาล่ะ? นั่นคือวัดที่ใหญ่ที่สุดในปัจจุบันเลยนะ มีการกล่าวกันว่าที่นั่นซ่อนเร้นวิชาชั้นสูงนับไม่ถ้วน และยังมีเสียงลือเล่าขานว่า วิทยายุทธ์ทั้งปวงในยุคนี้ล้วนมีรากฐานมาจากอารามแห่งนั้น
 M5003-4_4_4_4,What?! Is it really that powerful?,อะไรนะ!? มันทรงพลังขนาดนั้นเชียวเหรอ?
 M5003-4_4_4_5,"That's what people say in the martial arts world, I don't know the specifics, I'm not a martial artist.",นั่นเป็นคำกล่าวที่เหล่าจอมยุทธ์มักเอ่ยถึงกัน แต่รายละเอียดปลีกย่อยนั้นข้ามิอาจทราบได้ ข้ามิใช่ผู้เชี่ยวชาญในวรยุทธ์
 M5003-4_5_1_1,Are the two of you from the Shifa Temple and the Confucius Temple?,ท่านทั้งสองเป็นศิษย์อารามซื่อฟาและวัดขงจื๊องั้นรึ?
@@ -74,8 +74,8 @@ M5003-4_6_1_5,"Gentlemen, the tea is here.",ท่านทั้งหลาย
 M5003-4_6_1_6,Thank you.,ท่านมีน้ำใจนัก ข้าขอคารวะ
 M5003-4_6_1_7,"Let me pour it for you.\n(Take this opportunity to listen to their conversation.)","ข้าจะเทให้ท่านเอง...\n(ใช้โอกาสนี้สอดแนมการสนทนาของพวกเขา)"
 M5003-4_6_1_8,"Amitabha, I didn't expect to be able to meet two friends over tea in such a remote place, it's a great fate.",อมิตาพุทธ อาตมาไม่คิดว่าจะได้พบสหายสองท่าน ดื่มชาในสถานที่ห่างไกลเช่นนี้ ช่างเป็นวาสนาอันยิ่งใหญ่
-M5003-4_6_1_9,I didn't expect to meet friends from the Shifa Temple and Confucius Temple on this trip under the order of my master.,ข้ามิได้คาดหวังว่าจะได้พบมิตรสหายจากอารามซื่อฟาและวัดขงจื๊อในระหว่างการเดินทางครั้งนี้ตามบัญชาอาจารย์ข้า
-M5003-4_6_1_10,Oh? So the Taoist priest is also under the order of the master? This is a coincidence... ,อ้อ? ท่านนักพรตเต๋า ก็ได้รับบัญชาอาจารย์เช่นกันหรือ? นี่เป็นเรื่องบังเอิญที่หาได้ยาก...
+M5003-4_6_1_9,I didn't expect to meet friends from the Shifa Temple and Confucius Temple on this trip under the order of my master.,ข้ามิได้คาดหวังว่าการลงเขาตามคำสั่งของอาจารย์ในครั้งนี้ จะได้พบมิตรสหายจากอารามซื่อฟาและวัดขงจื๊อ
+M5003-4_6_1_10,Oh? So the Taoist priest is also under the order of the master? This is a coincidence... ,อ้อ? ท่านนักพรตเต๋า ก็ได้รับบัญชาจากอาจารย์เช่นกันหรือ? นี่เป็นเรื่องบังเอิญที่หาได้ยาก...
 M5003-4_6_1_11,"The sect leader heard that there is a group of murderous and arsonist Mountain Bandits here, known as <color=#c44b0e>Bandit Chief Stronghold</color>. He ordered me to go down the mountain to eliminate them for the people, and also as a part of my training... ",ท่านเจ้าสำนักทราบข่าวว่ามีกลุ่มโจรภูเขาชั่วร้าย ฆ่าคนเผาบ้าน เรียกกันว่า <color=#c44b0e>ค่ายหัวหน้าโจร</color> จึงมีบัญชาให้ข้าลงจากยอดเขาเพื่อปราบปรามพวกมัน เพื่อความสงบสุขของราษฎร และเป็นการฝึกฝนตนด้วย...
 M5003-4_6_1_12,What a coincidence! I didn't expect the Taoist priest's purpose to be the same as mine.,ช่างเป็นเรื่องบังเอิญที่หาได้ยาก! ข้าไม่คิดว่าจุดหมายของท่านนักพรตเต๋าจะตรงกับข้า
 M5003-4_6_1_13,"Is there such a coincidence? Then what is the purpose of your trip, master... ",มีเรื่องบังเอิญเช่นนี้ด้วยหรือ? หากเช่นนั้น จุดหมายในการเดินทางของท่านอาจารย์คืออะไรกัน...
