@@ -1,0 +1,153 @@
+﻿﻿BattleFieldInfo_R10136-1士兵,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10136-1士兵,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10136-1士兵,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10136-1差役,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10136-1差役,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10136-1差役,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10136-3捕头,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_R10136-3捕头,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10136-3捕头,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10136-4黑衣人,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_R10136-4黑衣人,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10136-4黑衣人,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10136-5士兵,"Only <#61C3C8>{PlayerName}, Ji Fuling</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, จี้ฝูหลิง </color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldWin_R10136-5士兵,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10136-5士兵,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10136-5鬼面人,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_R10136-5鬼面人,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10136-5鬼面人,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10136-8齐王,Only <#61C3C8>Ji Fuling</color> can participate in the battle.,เฉพาะ <#61C3C8>จี้ฝูหลิง</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_R10136-8齐王,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10136-8齐王,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10136-8完颜亮,"Only <#61C3C8>{PlayerName}, Ji Fuling</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, จี้ฝูหลิง </color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldWin_R10136-8完颜亮,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10136-8完颜亮,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10136-8千夫长,"Only <#61C3C8>{PlayerName}, Ji Fuling</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, จี้ฝูหลิง </color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldWin_R10136-8千夫长,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10136-8千夫长,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10136-9第一战,"<#61C3C8>{PlayerName}, Ji Fuling</color> can participate in the battle, up to 6 people can be deployed.","<#61C3C8>{PlayerName}, จี้ฝูหลิง</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร"
+BattleFieldWin_R10136-9第一战,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10136-9第一战,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10136-9第二战,"<#61C3C8>{PlayerName}, Ji Fuling</color> can participate in the battle, up to 6 people can be deployed.","<#61C3C8>{PlayerName}, จี้ฝูหลิง</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร"
+BattleFieldWin_R10136-9第二战,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10136-9第二战,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10136-9第三战,"Only <#61C3C8>{PlayerName}, Ji Fuling</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, จี้ฝูหลิง </color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldWin_R10136-9第三战,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10136-9第三战,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10136-9第四战完颜亮,"Only <#61C3C8>{PlayerName}, Ji Fuling</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, จี้ฝูหลิง </color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldWin_R10136-9第四战完颜亮,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10136-9第四战完颜亮,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10136-9第五战完颜亮,"<#61C3C8>{PlayerName}, Ji Fuling</color> can participate in the battle, up to 6 people can be deployed.","<#61C3C8>{PlayerName}, จี้ฝูหลิง</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร"
+BattleFieldWin_R10136-9第五战完颜亮,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10136-9第五战完颜亮,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10136-9第五战完颜亮没队友,"Only <#61C3C8>{PlayerName}, Ji Fuling</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, จี้ฝูหลิง </color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldWin_R10136-9第五战完颜亮没队友,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10136-9第五战完颜亮没队友,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10136-9第四战千夫长,"Only <#61C3C8>{PlayerName}, Ji Fuling</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, จี้ฝูหลิง </color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldWin_R10136-9第四战千夫长,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10136-9第四战千夫长,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10136-9第五战千夫长,"<#61C3C8>{PlayerName}, Ji Fuling</color> can participate in the battle, up to 6 people can be deployed.","<#61C3C8>{PlayerName}, จี้ฝูหลิง</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร"
+BattleFieldWin_R10136-9第五战千夫长,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10136-9第五战千夫长,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10136-9第五战千夫长没队友,"Only <#61C3C8>{PlayerName}, Ji Fuling</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, จี้ฝูหลิง </color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldWin_R10136-9第五战千夫长没队友,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10136-9第五战千夫长没队友,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10136-11杀季汉卿,"Only <#61C3C8>{PlayerName}, Ji Fuling</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, จี้ฝูหลิง </color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldWin_R10136-11杀季汉卿,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10136-11杀季汉卿,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10136-15黑衣人,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10136-15黑衣人,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10136-15黑衣人,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10136-16黑衣人,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10136-16黑衣人,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10136-16黑衣人,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10136-17黑衣人1,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10136-17黑衣人1,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10136-17黑衣人1,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10136-17黑衣人2,"<#61C3C8>{PlayerName}</color> join the battle, up to 6 people can be deployed.",<#61C3C8>{PlayerName}</color> เข้าร่วมการต่อสู้ เลือกลงได้สูงสุด 6 ตัวละคร
+BattleFieldWin_R10136-17黑衣人2,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10136-17黑衣人2,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10136-18剑阵,Only <#61C3C8>Ji Fuling</color> can participate in the battle.,เฉพาะ <#61C3C8>จี้ฝูหลิง</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_R10136-18剑阵,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10136-18剑阵,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10136-19妙音坊,Only <#61C3C8>Ji Fuling</color> can participate in the battle.,เฉพาะ <#61C3C8>จี้ฝูหลิง</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_R10136-19妙音坊,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10136-19妙音坊,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10020-3富商,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_R10020-3富商,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10020-3富商,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_Def-2040铁面人,Only <#61C3C8>{PlayerName}</color> can join the battle.,เฉพาะ<#61C3C8>{PlayerName}</color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้
+BattleFieldWin_Def-2040铁面人,Defeat <#61C3C8>all enemies</color>.,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_Def-2040铁面人,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldInfo_R10136-14花四娘,"Only <#61C3C8>{PlayerName}, Hua Siniang</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, ฮวาซื่อเหนียง</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldInfo_R10136-14洛千雪,"Only <#61C3C8>{PlayerName}, Luo Qianxue</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, ลั่วเฉียนเสวี่ย</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldInfo_R10136-14华青青,"Only <#61C3C8>{PlayerName}, Hua Qingqing</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, หัวชิงชิง</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldInfo_R10136-14叶银瓶,"Only <#61C3C8>{PlayerName}, Ye Yinping</color> are allowed to fight.","เฉพาะ <#61C3C8>{PlayerName}, เย่หยินผิง</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldInfo_R10136-14绛紫烟,"Only <#61C3C8>{PlayerName}, Jiang Ziyan</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, เจียงจื่อเยียน</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldInfo_R10136-14福箐郡主,"Only <#61C3C8>{PlayerName}, Princess Fuqing</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, องค์หญิงฟู่ชิง</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldInfo_R10136-14曼陀罗,"Only <#61C3C8>{PlayerName}, Man Tuoluo</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, ม่านถัวหลัว</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldInfo_R10136-14曲忘忧,"Only <#61C3C8>{PlayerName}, Qu Wangyou</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, ฉู่หวังโหย่ว</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldInfo_R10136-14韩红玉,"Only <#61C3C8>{PlayerName}, Han Hongyu</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, หานหงอวี้</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldInfo_R10136-14顾倾城,"Only <#61C3C8>{PlayerName}, Gu Qingcheng</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, กู้ชิงเฉิง</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldInfo_R10136-14哑琴,"Only <#61C3C8>{PlayerName}, Ya Qin</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, หยาฉิน</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldInfo_R10136-14苗彩蝶,"Only <#61C3C8>{PlayerName}, Miao Caidie</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, เมี้ยวไฉ่ตี้</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldInfo_R10136-14凌梦蝶,"Only <#61C3C8>{PlayerName}, Ling Mengdie</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, หลิงเมิ่งเตี๋ย</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldInfo_R10136-14严如蕊,"Only <#61C3C8>{PlayerName}, Yan Rurui</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, เหยียนหรูรุ่ย</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldInfo_R10136-14一枝花,"Only <#61C3C8>{PlayerName}, Yi Zhihua</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, อี้จื่อฮวา</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldInfo_R10136-14鱼薇儿,"Only <#61C3C8>{PlayerName}, Yu Wei'er</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, หยูเว่ยเอ๋อ</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldInfo_R10136-14完颜昭宁,"Only <#61C3C8>{PlayerName}, Wanyan Zhaoning</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, หวันเหยียนจ้าวหนิง</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldInfo_R10136-14付瑶琴,"Only <#61C3C8>{PlayerName}, Fu Yaoqin</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, ฟู่เหยาฉิน</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldInfo_R10136-14唐婉儿,"Only <#61C3C8>{PlayerName}, Tang Wan Er</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, ถังหว่านเอ๋อร์</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldInfo_R10136-14凤璇玑,"Only <#61C3C8>{PlayerName}, Feng Xuanji</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, เฟิงเสวียนจี</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldInfo_R10136-14海棠秋,"Only <#61C3C8>{PlayerName}, Haitang Qiu</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, ไห่ถังฉิว</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldInfo_R10136-14定海棠,"Only <#61C3C8>{PlayerName}, Ding Haitang</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, ติงไห่ถัง</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldInfo_R10136-14月咏樱羽,"Only <#61C3C8>{PlayerName}, Tsukuyo Sakuraha</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, ซึคุโยะ ซากุระฮะ</color> เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldInfo_R10136-14纪茯苓,"Only <#61C3C8>{PlayerName}, Ji Fuling</color> can participate in the battle.","เฉพาะ <#61C3C8>{PlayerName}, จี้ฝูหลิง </color>เท่านั้น ที่เข้าร่วมการต่อสู้ได้"
+BattleFieldWin_R10136-14花四娘,Defeat <#61C3C8>Ban Ping Shenxiancu</color>.,เอาชนะ <#61C3C8>ป้านผิงเสิ่นเซียนซู</color>
+BattleFieldWin_R10136-14洛千雪,Defeat <#61C3C8>Ban Ping Shenxiancu</color>.,เอาชนะ <#61C3C8>ป้านผิงเสิ่นเซียนซู</color>
+BattleFieldWin_R10136-14华青青,Defeat <#61C3C8>Ban Ping Shenxiancu</color>.,เอาชนะ <#61C3C8>ป้านผิงเสิ่นเซียนซู</color>
+BattleFieldWin_R10136-14叶银瓶,Defeat <#61C3C8>Ban Ping Shenxiancu</color>.,เอาชนะ <#61C3C8>ป้านผิงเสิ่นเซียนซู</color>
+BattleFieldWin_R10136-14绛紫烟,Defeat <#61C3C8>Ban Ping Shenxiancu</color>.,เอาชนะ <#61C3C8>ป้านผิงเสิ่นเซียนซู</color>
+BattleFieldWin_R10136-14福箐郡主,Defeat <#61C3C8>Ban Ping Shenxiancu</color>.,เอาชนะ <#61C3C8>ป้านผิงเสิ่นเซียนซู</color>
+BattleFieldWin_R10136-14曼陀罗,Defeat <#61C3C8>Ban Ping Shenxiancu</color>.,เอาชนะ <#61C3C8>ป้านผิงเสิ่นเซียนซู</color>
+BattleFieldWin_R10136-14曲忘忧,Defeat <#61C3C8>Ban Ping Shenxiancu</color>.,เอาชนะ <#61C3C8>ป้านผิงเสิ่นเซียนซู</color>
+BattleFieldWin_R10136-14韩红玉,Defeat <#61C3C8>Ban Ping Shenxiancu</color>.,เอาชนะ <#61C3C8>ป้านผิงเสิ่นเซียนซู</color>
+BattleFieldWin_R10136-14顾倾城,Defeat <#61C3C8>Ban Ping Shenxiancu</color>.,เอาชนะ <#61C3C8>ป้านผิงเสิ่นเซียนซู</color>
+BattleFieldWin_R10136-14哑琴,Defeat <#61C3C8>Ban Ping Shenxiancu</color>.,เอาชนะ <#61C3C8>ป้านผิงเสิ่นเซียนซู</color>
+BattleFieldWin_R10136-14苗彩蝶,Defeat <#61C3C8>Ban Ping Shenxiancu</color>.,เอาชนะ <#61C3C8>ป้านผิงเสิ่นเซียนซู</color>
+BattleFieldWin_R10136-14凌梦蝶,Defeat <#61C3C8>Ban Ping Shenxiancu</color>.,เอาชนะ <#61C3C8>ป้านผิงเสิ่นเซียนซู</color>
+BattleFieldWin_R10136-14严如蕊,Defeat <#61C3C8>Ban Ping Shenxiancu</color>.,เอาชนะ <#61C3C8>ป้านผิงเสิ่นเซียนซู</color>
+BattleFieldWin_R10136-14一枝花,Defeat <#61C3C8>Ban Ping Shenxiancu</color>.,เอาชนะ <#61C3C8>ป้านผิงเสิ่นเซียนซู</color>
+BattleFieldWin_R10136-14鱼薇儿,Defeat <#61C3C8>Ban Ping Shenxiancu</color>.,เอาชนะ <#61C3C8>ป้านผิงเสิ่นเซียนซู</color>
+BattleFieldWin_R10136-14完颜昭宁,Defeat <#61C3C8>Ban Ping Shenxiancu</color>.,เอาชนะ <#61C3C8>ป้านผิงเสิ่นเซียนซู</color>
+BattleFieldWin_R10136-14付瑶琴,Defeat <#61C3C8>Ban Ping Shenxiancu</color>.,เอาชนะ <#61C3C8>ป้านผิงเสิ่นเซียนซู</color>
+BattleFieldWin_R10136-14唐婉儿,Defeat <#61C3C8>Ban Ping Shenxiancu</color>.,เอาชนะ <#61C3C8>ป้านผิงเสิ่นเซียนซู</color>
+BattleFieldWin_R10136-14凤璇玑,Defeat <#61C3C8>Ban Ping Shenxiancu</color>.,เอาชนะ <#61C3C8>ป้านผิงเสิ่นเซียนซู</color>
+BattleFieldWin_R10136-14海棠秋,Defeat <#61C3C8>Ban Ping Shenxiancu</color>.,เอาชนะ <#61C3C8>ป้านผิงเสิ่นเซียนซู</color>
+BattleFieldWin_R10136-14定海棠,Defeat <#61C3C8>Ban Ping Shenxiancu</color>.,เอาชนะ <#61C3C8>ป้านผิงเสิ่นเซียนซู</color>
+BattleFieldWin_R10136-14月咏樱羽,Defeat <#61C3C8>Ban Ping Shenxiancu</color>.,เอาชนะ <#61C3C8>ป้านผิงเสิ่นเซียนซู</color>
+BattleFieldWin_R10136-14纪茯苓,Defeat <#61C3C8>Ban Ping Shenxiancu</color>.,เอาชนะ <#61C3C8>ป้านผิงเสิ่นเซียนซู</color>
+BattleFieldFail_R10136-14花四娘,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldFail_R10136-14洛千雪,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldFail_R10136-14华青青,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldFail_R10136-14叶银瓶,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldFail_R10136-14绛紫烟,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldFail_R10136-14福箐郡主,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldFail_R10136-14曼陀罗,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldFail_R10136-14曲忘忧,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldFail_R10136-14韩红玉,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldFail_R10136-14顾倾城,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldFail_R10136-14哑琴,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldFail_R10136-14苗彩蝶,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldFail_R10136-14凌梦蝶,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldFail_R10136-14严如蕊,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldFail_R10136-14一枝花,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldFail_R10136-14鱼薇儿,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldFail_R10136-14完颜昭宁,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldFail_R10136-14付瑶琴,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldFail_R10136-14唐婉儿,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldFail_R10136-14凤璇玑,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldFail_R10136-14海棠秋,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldFail_R10136-14定海棠,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldFail_R10136-14月咏樱羽,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้
+BattleFieldFail_R10136-14纪茯苓,<#61C3C8>All of our members</color> are defeated.,<#61C3C8>สมาชิกของเราทั้งหมด</color> พ่ายแพ้

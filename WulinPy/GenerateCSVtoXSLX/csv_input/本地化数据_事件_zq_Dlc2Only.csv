@@ -1,0 +1,99 @@
+﻿﻿R10136-1_option_1_1,"Save these prisoners.<color=#c44b0e>(Specific battle, level 20 strength)</color>","ช่วยชีวิตนักโทษเหล่านี้! <color=#c44b0e>(เข้าสู่การต่อสู้, ความแข็งแกร่งระดับ 20)</color>"
+R10136-1_option_1_2,Don't meddle in other's business.,อย่าก้าวก่ายเรื่องของผู้อื่น!
+R10136-2_name,Gather information,สืบหาข่าวสาร
+R10136-2_overview1,Go to the inn in Daliang City and listen to the reactions of passersby.,ไปยังโรงเตี๊ยมในเมืองต้าเหลียง และฟังปฏิกิริยาของผู้คนที่สัญจรไปมา
+R10136-3_name,The female ghost Suo Ming,วิญญาณสตรีทวงชีวิต
+R10136-3_overview1,Zi Shi goes to the vicinity of the Daliang City Government Office to investigate.,เดินทางไปยังบริเวณศาลาว่าการเมืองต้าเหลียงเพื่อสืบสวน ในยามจื่อ(Zi)
+R10136-3_overview2,Run away from Daliang City and look for the figure of the woman in white.,ออกจากเมืองต้าเหลียง และติดตามหาร่างของหญิงในชุดขาว
+R10136-3_option_1_1,"Go to the Government Office.<color=#c44b0e>(Specific battle, level 25 strength)</color>","ไปยังศาลาว่าการ <color=#c44b0e>(เข้าสู่การต่อสู้, ความแข็งแกร่งระดับ 25)</color>"
+R10136-3_option_1_2,Come back later.,กลับมาภายหลัง
+R10136-4_name,The Ji family has a daughter,บุตรสาวตระกูลจี้
+R10136-4_overview1,The woman in white has gone to the outskirts of Da Liang City.,แม่นางชุดขาวได้มุ่งหน้าไปยังพื้นที่รกร้างนอกเมืองต้าเหลียงแล้ว
+R10136-4_overview2,Invite Ji Fuling to join the team.,เชิญจี้ฝูหลิงเข้าร่วมทีม
+R10136-4_option_1_1,"Stay and protect Ji Fuling.<color=#c44b0e>(Specific battle, level 30 strength)</color>","อยู่ปกป้องจี้ฝูหลิง <color=#c44b0e>(เข้าสู่การต่อสู้, ความแข็งแกร่งระดับ 30)</color>"
+R10136-4_option_1_2,"Run away for now, and come back later.",จากไปก่อน แล้วค่อยกลับมาใหม่
+R10136-4_option_2_1,Use MP to heal Ji Fuling's injuries.<color=#097a76>(Reduce Max MP)</color>,ใช้พลังภายในรักษาบาดแผลให้จี้ฝูหลิง <color=#097a76>(ลด MP สูงสุดลง)</color>
+R10136-4_option_2_2,Stand by and watch.,ยืนดูเฉยๆ
+R10136-4_option_2_3,Consuming MP to heal Ji Fuling's injuries.,ใช้พลังภายในรักษาบาดแผลให้จี้ฝูหลิง
+R10136-5_name,Ji family's secret chamber,ห้องลับตระกูลจี้
+R10136-5_overview1,Go to Ji Residence.,ไปยัง คฤหาสน์ตระกูลจี้
+R10136-5_overview2,Find the secret chamber in Ji Residence.,ค้นหาห้องลับในคฤหาสน์ตระกูลจี้
+R10136-5_overview3,Search for secret documents in the secret chamber.,ค้นหาบันทึกลับในห้องลับ
+R10136-5_overview4,Come back to Ji Residence to find Miss Ji after a few days.,หลังจากผ่านไปสองสามวัน กลับไปยังคฤหาสน์ตระกูลจี้ เพื่อตามหาแม่นางจี้
+R10136-5_overview5,It's time to go to Ji Residence to check on Miss Ji.,ถึงเวลาต้องไปที่คฤหาสน์ตระกูลจี้ เพื่อดูอาการของแม่นางจี้หน่อย
+R10136-5_overview6,Go to the main hall of Ji Residence to find Ji Fuling.,ไปยังโถงหลักของคฤหาสน์ตระกูลจี้ เพื่อตามหา จี้ฝูหลิง
+R10136-5_option_1_1,Agree to let Ji Fuling go up first.,ยินยอมให้ จี้ฝูหลิง ขึ้นไปด้านบนก่อน
+R10136-5_option_1_2,I'll go up first!,ข้าจะขึ้นไปก่อน!
+R10136-5_npcname,A gloomy voice,เสียงที่มืดหม่น
+R10136-5-1_name,Zhao Xue,ล้างมลทิน
+R10136-5-1_overview1,Come back to Ji Residence to find Miss Ji after a few days.,หลังจากผ่านไปสองสามวัน กลับไปยังคฤหาสน์ตระกูลจี้ เพื่อตามหาแม่นางจี้
+R10136-5-1_overview2,It's time to go to Ji Residence to check on Miss Ji.,ถึงเวลาต้องไปที่คฤหาสน์ตระกูลจี้ เพื่อดูอาการของแม่นางจี้หน่อย
+R10136-7_name,Glass Bead,ลูกปัดแก้ว
+R10136-7_overview1,Help Ji Fuling find six glass beads.,ช่วยเหลือ จี้ฝูหลิง ค้นหาลูกปัดแก้วทั้งหก
+R10136-7_overview2,Go to the study in Ji Residence and check if there is anything unusual about the lamp.,ไปยังห้องทำงานในคฤหาสน์ตระกูลจี้ และตรวจสอบดูว่ามีสิ่งผิดปกติใดๆ เกิดขึ้นกับโคมไฟหรือไม่
+R10136-8_name,Debts must be paid,บาปมีผู้ก่อ หนี้มีเจ้าหนี้
+R10136-8_overview1,Find Duke Qi to seek justice for the Ji family.,ตามหา อ๋องฉี เพื่อขอความยุติธรรมให้กับตระกูลจี้
+R10136-8_overview2,Travel with Ji Fuling and level her up to at least level 50 before she can challenge Duke Qi alone.,เดินทางร่วมกับจี้ฝูหลิง และฝึกฝนนางให้มีความแข็งแกร่งอย่างน้อยถึงระดับ 50 ก่อนที่นางจะเผชิญหน้ากับอ๋องฉีเพียงลำพัง
+R10136-8_overview3,Come back to visit Duke Qi after six shichen.,กลับไปหา อ๋องฉี หลังจากผ่านไปหกชั่วยาม
+R10136-8_overview4,Go to visit Duke Qi.,เดินทางไปพบอ๋องฉี
+R10136-8_option_1_1,"Get ready!<color=#097a76>(Only Ji Fuling fights, level 50 strength)</color>","พร้อมแล้ว! <color=#097a76>(เพียง จี้ฝูหลิง เท่านั้นที่เข้าสู่การต่อสู้, ความแข็งแกร่งระดับ 50)</color>"
+R10136-8_option_1_2,Not ready yet.,ข้ายังไม่พร้อม
+R10136-8_option_2_1,"Visit Duke Qi.<color=#c44b0e>(Specific battle, level 60 strength)</color>","ไปพบอ๋องฉี <color=#c44b0e>(เข้าสู่การต่อสู้, ความแข็งแกร่งระดับ 60)</color>"
+R10136-8_option_2_2,Come back later.,กลับมาภายหลัง
+R10136-8_emptyname, , 
+R10136-8_npcname,A sinister male voice,เสียงของชายลึกลับ
+R10136-10_name,Dowry,สินสอด
+R10136-10_overview1,Go to Lin'an City and ask the innkeeper of the Painting Shop for the custom-made item.,เดินทางไปยังเมืองหลินอัน และสอบถามเจ้าของร้านชุดเทพวิจิตรศิลป์ ถึงของที่สั่งทำพิเศษ
+R10136-10_overview2,Find 2 pieces of Snow Silkworm Thread for the innkeeper of the Painting Shop.,หาด้ายหนอนไหมหิมะ 2 ชิ้น ให้กับเจ้าของร้านชุดเทพวิจิตรศิลป์
+R10136-10_option1_1,"Greetings, Mr. Ji!",คารวะท่านเสนาบดีจี้!
+R10136-10_option1_2,"Greetings, father-in-law!",คารวะ ท่านพ่อตา!
+R10136-10_option1_3,"Daddy, I've missed you so much.",ท่านพ่อ ข้าคิดถึงท่านเหลือเกิน
+R10136-14_option1_1,<color=#0574a8>Insist on going.</color>,<color=#0574a8>ยืนกรานที่จะไป</color>
+R10136-14_option1_2,Back away from this place.,ถอยห่างจากที่นี่!
+R10136-14_option2_1,Choose <color=#097a76>{TeamerName:1}</color>,เลือก <color=#097a76>{TeamerName:1}</color>
+R10136-14_option2_2,Choose <color=#097a76>{TeamerName:2}</color>,เลือก <color=#097a76>{TeamerName:2}</color>
+R10136-14_option2_3,Choose <color=#097a76>{TeamerName:3}</color>,เลือก <color=#097a76>{TeamerName:3}</color>
+R10136-14_option2_4,Choose <color=#097a76>{TeamerName:4}</color>,เลือก <color=#097a76>{TeamerName:4}</color>
+R10136-14_option2_5,Choose <color=#097a76>{TeamerName:5}</color>,เลือก <color=#097a76>{TeamerName:5}</color>
+R10136-15_option1_1,"Fight! <color=#c44b0e>(Specific battle, level 30 strength)</color>","เข้าต่อสู้! <color=#c44b0e>(เข้าสู่การต่อสู้, ความแข็งแกร่งระดับ 30)</color>"
+R10136-15_option1_2,"Avoid battle, retreat quickly.",หลีกเลี่ยงการต่อสู้ รีบถอนตัวออกไปทันที!
+R10136-16_option1_1,"Fight! <color=#c44b0e>(Specific battle, level 35 strength)</color>","เข้าต่อสู้! <color=#c44b0e>(เข้าสู่การต่อสู้, ความแข็งแกร่งระดับ 35)</color>"
+R10136-16_option1_2,"Avoid battle, retreat quickly.",หลีกเลี่ยงการต่อสู้ รีบถอนตัวออกไปทันที!
+R10136-17_option1_1,"Fight! <color=#c44b0e>(Specific battle, level 40 strength)</color>","เข้าต่อสู้! <color=#c44b0e>(เข้าสู่การต่อสู้, ความแข็งแกร่งระดับ 40)</color>"
+R10136-17_option1_2,"Avoid battle, retreat quickly.",หลีกเลี่ยงการต่อสู้ รีบถอนตัวออกไปทันที!
+R10136-18_name,Visit Sword Pavilion together,เดินทางไปยัง ศาลากระบี่หลางหยา ด้วยกัน
+R10136-18_overview1,Visit Jian Chi with Ji Fuling.,พาจี้ฝูหลิง ไปพบกับ มารกระบี่
+R10136-18_overview2,Prepare to let Ji Fuling challenge the Four Phases Sword Formation alone.,เตรียมพร้อมที่จะปล่อยให้ จี้ฝูหลิง เผชิญหน้ากับกระบวนท่ากระบี่สี่ทิศเพียงลำพัง
+R10136-18_option1_1,"Ready! <color=#097a76>(Specific battle, level 40 strength)</color>","พร้อม! <color=#097a76>(เข้าสู่การต่อสู้, ความแข็งแกร่งระดับ 40)</color>"
+R10136-18_option1_2,Not ready yet.,ข้ายังไม่พร้อม
+R10136-19_name,Old friend of Melody,สหายเก่าของบทเพลง
+R10136-19_overview1,Visit old friend at Melody House with Ji Fuling,ไปเยี่ยมเยือนสหายเก่าที่ ตำหนักบทเพลง พร้อมกับจี้ฝูหลิง
+R10136-19_overview2,Prepare to let Ji Fuling accept Fu Yaoqin's test alone.,เตรียมพร้อมที่จะให้จี้ฝูหลิงรับการทดสอบของฟู่เหยาฉินเพียงลำพัง
+R10136-19_option1_1,"Accept Fu Yaoqin's test! <color=#097a76>(Specific battle, level 50 strength)</color>","ยอมรับการทดสอบของ ฟู่เหยาฉิน!<color=#097a76>(เข้าสู่การต่อสู้, พละกำลัง level 50)</color>"
+R10136-19_option1_2,Not ready yet.,ข้ายังไม่พร้อม
+R10020-3_name,Hegemon-King has passed away,อ๋องทรราชได้สิ้นพระชนม์แล้ว
+R10020-3_overview1,"Go to South-East Region from Meiguan Road, Feng Xizi's hometown.","ไปแดนตะวันออกเฉียงใต้จากด่านเหมยซาน, บ้านเกิดของเฟิงซีสือ"
+R10020-3_overview2,Feng Xizi's home is the first house on the left after entering Phoenix Woods Harbor.,บ้านของเฟิงซีสือตั้งอยู่หลังแรกทางซ้ายมือหลังจากเข้าสู่ท่าเรือป่าหงส์
+R10020-3_overview3,"Find Feng Xizi, he should have left the city towards the northwest of Phoenix Woods Harbor.",ค้นหา เฟิงซีสือ นางน่าจะออกจากเมืองไปทางทิศตะวันตกเฉียงเหนือของท่าเรือป่าหงส์
+R10020-3_overview4,"Return to Phoenix Woods Harbor, ask Rich Merchant for information.",กลับไปยัง ท่าเรือป่าหงส์ สอบถามข้อมูลจากพ่อค้าผู้มั่งคั่ง
+R10020-3_option1_1,Agree to go southeast with Feng Xizi.,ยินยอมเดินทางสู่ทิศตะวันออกเฉียงใต้พร้อมกับเฟิงซีสือ
+R10020-3_option1_2,There are other things.,ยังมีเรื่องอื่นอีก
+TMR-1_NPCName,A familiar voice,เสียงที่คุ้นเคย
+TMR-2_name,Supreme Court storm,บุกศาลต้าหลี่
+TMR-2_overview1,Go to Supreme Court!,ไปยังศาลต้าหลี่!
+TMR-2_overview2,Go to the Supreme Court hall!,ไปยังโถงของศาลต้าหลี่!
+TMR-2_NPCName,A hearty voice,เสียงที่ไพเราะ
+TMR-3_name,Reorganize the Nine Streams,จัดโครงสร้างและระเบียบใหม่ให้นิกายเก้าฝ่าย
+TMR-3_overview1,"Return to Nine Factions Sect·Senluo Hall, clean up the sect.",กลับไปยัง นิกายเก้าฝ่าย·หอเสิ่นลั่ว เพื่อปฏิรูปสำนัก
+TMR-4_name,Clouds part and the sun shines,เปิดฟ้าประทานแสง
+TMR-4_overview1,Find a way to become Jianghu Master.,ค้นหาหนทางที่จะกลายเป็นผู้นำยุทธภพ
+TMR-4_overview2,"Go to Ritual Platform, summon all sect leaders to explain the situation.",ไปยังปะรำพิธี และเชิญประมุขทุกสำนักมาร่วมปรึกษาหารือ
+TMR-4_option1_1,"Gather! (Achieve the <color=#c44b0e>sunrise</color> ending, game over)",รวมพล! (บรรลุฉากจบ <color=#c44b0e>เปิดฟ้าประทานแสง</color> เกมจะสิ้นสุดลง)
+TMR-4_option1_2,Consider again,ไตร่ตรองให้รอบคอบอีกครั้ง
+TMR-5_name,Iron-faced Hero,วีรบุรุษหน้ากากเหล็ก
+TMR-5_overview1,Find a way to become Peak of Jianghu.,หาหนทางที่จะกลายเป็นหนึ่งในใต้หล้า
+TMR-5_overview2,Pay attention to the news of Peak Debate.,จับตาดูข่าวสารเกี่ยวกับงานประชันหนึ่งในใต้หล้า
+TMR-5_overview3,Go to Peak of Challenge.,ไปที่ ยอดเขาแห่งการชิงชัย
+TMR-5_option1_1,Continue to travel in the martial arts world!,ท่องยุทธภพต่อไป!
+TMR-5_option1_2,End of the martial arts career.,จบการท่องยุทธภพของเจ้าไว้เพียงเท่านี้
+Talking_QingAn,Pay respects,แสดงความเคารพ

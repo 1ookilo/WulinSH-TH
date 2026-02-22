@@ -1,0 +1,1075 @@
+﻿﻿SlgTechName_科技0,Technology 0,วิทยาการ 0
+SlgTechName_科技1,Technology 1,วิทยาการ 1
+SlgTechName_科技2,Technology 2,วิทยาการ 2
+SlgTechName_科技3,Technology 3,วิทยาการ 3
+SlgTechName_科技4,Technology 4,วิทยาการ 4
+SlgTechName_科技5,Technology 5,วิทยาการ 5
+SlgTechName_科技6,Technology 6,วิทยาการ 6
+SlgTechName_科技7,Technology 7,วิทยาการ 7
+SlgTechName_科技8,Technology 8,วิทยาการ 8
+SlgTechName_科技9,Technology 9,วิทยาการ 9
+SlgTechName_科技10,Technology 10,วิทยาการ 10
+SlgTechName_科技11,Technology 11,วิทยาการ 11
+SlgTechInfo_科技0,This is Technology 0,นี่คือวิทยาการ 0
+SlgTechInfo_科技1,This is Technology 1,นี่คือวิทยาการ 1
+SlgTechInfo_科技2,This is Technology 2,นี่คือวิทยาการ 2
+SlgTechInfo_科技3,This is Technology 3,นี่คือวิทยาการ 3
+SlgTechInfo_科技4,This is Technology 4,นี่คือวิทยาการ 4
+SlgTechInfo_科技5,This is Technology 5,นี่คือวิทยาการ 5
+SlgTechInfo_科技6,This is Technology 6,นี่คือวิทยาการ 6
+SlgTechInfo_科技7,This is Technology 7,นี่คือวิทยาการ 7
+SlgTechInfo_科技8,This is Technology 8,นี่คือวิทยาการ 8
+SlgTechInfo_科技9,This is Technology 9,นี่คือวิทยาการ 9
+SlgTechInfo_科技10,This is Technology 10,นี่คือวิทยาการ 10
+SlgTechInfo_科技11,This is Technology 11,นี่คือวิทยาการ 11
+科技本地化,
+SlgTechName_通用_行为增益_疗伤1,Healing Effect Enhanced 1,ผลการรักษาเพิ่มขึ้น 1
+SlgTechName_通用_行为增益_疗伤2,Healing Effect Enhanced 2,ผลการรักษาเพิ่มขึ้น 2
+SlgTechName_通用_行为增益_疗伤3,Healing Effect Enhanced 3,ผลการรักษาเพิ่มขึ้น 3
+SlgTechName_通用_行为增益_惠民1,Benefit People Effect Enhanced 1,ผลประโยชน์ช่วยเหลือผู้คนเพิ่ม 1
+SlgTechName_通用_行为增益_惠民2,Benefit People Effect Enhanced 2,ผลประโยชน์ช่วยเหลือผู้คนเพิ่ม 2
+SlgTechName_通用_行为增益_惠民3,Benefit People Effect Enhanced 3,ผลประโยชน์ช่วยเหลือผู้คนเพิ่ม 3
+SlgTechName_通用_行为增益_修炼1,Learning Effect Enhanced 1,ผลของการฝึกเพิ่มขึ้น 1
+SlgTechName_通用_行为增益_修炼2,Learning Effect Enhanced 2,ผลของการฝึกเพิ่มขึ้น 2
+SlgTechName_通用_行为增益_修炼3,Learning Effect Enhanced 3,ผลของการฝึกเพิ่มขึ้น 3
+SlgTechName_通用_行为减耗_进攻1,Attack Cost Reduced 1,ลดค่าที่ใช้ในการโจมตีลง 1
+SlgTechName_通用_行为减耗_进攻2,Attack Cost Reduced 2,ลดค่าที่ใช้ในการโจมตีลง 2
+SlgTechName_通用_行为减耗_进攻3,Attack Cost Reduced 3,ลดค่าที่ใช้ในการโจมตีลง 3
+SlgTechName_通用_行为减耗_疗伤1,Healing Cost Reduced 1,ลดค่าที่ใช้ในการรักษาลง 1
+SlgTechName_通用_行为减耗_疗伤2,Healing Cost Reduced 2,ลดค่าที่ใช้ในการรักษาลง 2
+SlgTechName_通用_行为减耗_疗伤3,Healing Cost Reduced 3,ลดค่าที่ใช้ในการรักษาลง 3
+SlgTechName_通用_行为减耗_惠民1,Benefit People Cost Reduced 1,ลดค่าที่ใช้ในการช่วยเหลือผู้คนลง 1
+SlgTechName_通用_行为减耗_惠民2,Benefit People Cost Reduced 2,ลดค่าที่ใช้ในการช่วยเหลือผู้คนลง 2
+SlgTechName_通用_行为减耗_惠民3,Benefit People Cost Reduced 3,ลดค่าที่ใช้ในการช่วยเหลือผู้คนลง 3
+SlgTechName_通用_行为减耗_补给1,Supply Cost Reduced 1,ใช้เสบียงลดลง 1
+SlgTechName_通用_行为减耗_补给2,Supply Cost Reduced 2,ใช้เสบียงลดลง 2
+SlgTechName_通用_行为减耗_补给3,Supply Cost Reduced 3,ใช้เสบียงลดลง 3
+SlgTechName_通用_行为减耗_修炼1,Learning Cost Reduced 1,ลดค่าที่ใช้ในการเรียนรู้ลง 1
+SlgTechName_通用_行为减耗_修炼2,Learning Cost Reduced 2,ลดค่าที่ใช้ในการเรียนรู้ลง 2
+SlgTechName_通用_行为减耗_修炼3,Learning Cost Reduced 3,ลดค่าที่ใช้ในการเรียนรู้ลง 3
+SlgTechName_通用_行为减耗_研究1,Meditation Cost Reduction 1,ลดค่าที่ใช้ในการทำสมาธิลง 1
+SlgTechName_通用_行为减耗_研究2,Meditation Cost Reduction 2,ลดค่าที่ใช้ในการทำสมาธิลง 2
+SlgTechName_通用_行为减耗_研究3,Meditation Cost Reduction 3,ลดค่าที่ใช้ในการทำสมาธิลง 3
+SlgTechName_通用_弟子上限_5,Increase Disciple Limit 1,เพิ่มจำนวนศิษย์สูงสุด 1
+SlgTechName_通用_弟子上限_6,Increase Disciple Limit 2,เพิ่มจำนวนศิษย์สูงสุด 2
+SlgTechName_通用_弟子上限_7,Increase Disciple Limit 3,เพิ่มจำนวนศิษย์สูงสุด 3
+SlgTechName_通用_弟子上限_8,Increase Disciple Limit 4,เพิ่มจำนวนศิษย์สูงสุด 4
+SlgTechName_通用_弟子上限_9,Increase Disciple Limit 5,เพิ่มจำนวนศิษย์สูงสุด 5
+SlgTechName_通用_弟子上限_10,Increase Disciple Limit 6,เพิ่มจำนวนศิษย์สูงสุด 6
+SlgTechName_通用_商人_资源1,Unlock Resource Merchant,ปลดล็อคพ่อค้าทรัพยากร
+SlgTechName_通用_商人_资源2,Resource Goods Expansion 1,ขยายช่องทรัพยากร 1
+SlgTechName_通用_商人_资源3,Resource Goods Expansion 2,ขยายช่องทรัพยากร 2
+SlgTechName_通用_商人_装备1,Unlock Equipment Merchant,ปลดล็อคพ่อค้าอุปกรณ์
+SlgTechName_通用_商人_装备2,Equipment Goods Expansion 1,ขยายช่องอุปกรณ์ 1
+SlgTechName_通用_商人_装备3,Equipment Goods Expansion 2,ขยายช่องอุปกรณ์ 2
+SlgTechName_通用_商人_武功1,Unlock Martial Arts Merchant,ปลดล็อคพ่อค้าวรยุทธ์
+SlgTechName_通用_商人_武功2,Martial Arts Goods Expansion 1,ขยายช่องวรยุทธ 1
+SlgTechName_通用_商人_武功3,Martial Arts Goods Expansion 2,ขยายช่องวรยุทธ 2
+SlgTechName_通用_商人_神秘商人,Unlock Nameless Merchant,ปลดล็อคพ่อค้านิรนาม
+SlgTechName_通用_招募科技1,Recruit Quality Increase 1,เพิ่มคุณภาพการรับสมัคร 1
+SlgTechName_通用_招募科技2,Recruit Quality Increase 2,เพิ่มคุณภาพการรับสมัคร 2
+SlgTechName_通用_招募科技3,Recruit Quality Increase 3,เพิ่มคุณภาพการรับสมัคร 3
+SlgTechName_通用_招募自动刷新数1,Automatic Recruitment 1,เพิ่มจำนวนรับสมัครอัตโนมัติ 1
+SlgTechName_通用_招募自动刷新数2,Auto Recruit 2,เพิ่มจำนวนรับสมัครอัตโนมัติ 2
+SlgTechName_通用_招募自动刷新数3,Auto Recruit 3,เพิ่มจำนวนรับสมัครอัตโนมัติ 3
+SlgTechName_通用_资源产出增益1,Increase Production 1,เพิ่มผลผลิต 1
+SlgTechName_通用_资源产出增益2,Increase Production 2,เพิ่มผลผลิต 2
+SlgTechName_通用_资源产出增益3,Increase Production 3,เพิ่มผลผลิต 3
+SlgTechName_通用_守军科技1,Unlock Garrison Disciple,ปลดล็อคศิษย์ประจำการ
+SlgTechName_通用_守军科技2,Enhance Garrison Disciple 1,เสริมพลังศิษย์ประจำการ 1
+SlgTechName_通用_守军科技3,Enhance Garrison Disciple 2,เสริมพลังศิษย์ประจำการ 2
+SlgTechName_通用_守军手动控制,Manual Control,ควบคุมด้วยตนเอง
+SlgTechName_通用_守军自动恢复1,Guard Recovery 1,ฟื้นฟูผู้พิทักษ์ 1
+SlgTechName_通用_守军自动恢复2,Guard Recovery 2,ฟื้นฟูผู้พิทักษ์ 2
+SlgTechName_通用_守军自动恢复3,Guard Recovery 3,ฟื้นฟูผู้พิทักษ์ 3
+SlgTechName_通用_资源低保1,Basic Resource 1,ทรัพยากรพื้นฐาน +1
+SlgTechName_通用_资源低保2,Basic Resource 2,ทรัพยากรพื้นฐาน +2
+SlgTechName_通用_资源低保3,Basic Resource 3,ทรัพยากรพื้นฐาน +3
+SlgTechInfo_通用_行为增益_疗伤1,Healing Effect Increase 20%., เพิ่มประสิทธิภาพการรักษา 20%
+SlgTechInfo_通用_行为增益_疗伤2,Healing Effect Increase 20%., เพิ่มประสิทธิภาพการรักษา 20%
+SlgTechInfo_通用_行为增益_疗伤3,Healing Effect Increase 30%., เพิ่มประสิทธิภาพการรักษา 30%
+SlgTechInfo_通用_行为增益_惠民1,Stability increases by 20 points after benefiting the people.,ความมั่นคงเพิ่มขึ้น 20 แต้ม หลังจากช่วยเหลือผู้คน
+SlgTechInfo_通用_行为增益_惠民2,Stability increases by 20 points after benefiting the people.,ความมั่นคงเพิ่มขึ้น 20 แต้ม หลังจากช่วยเหลือผู้คน
+SlgTechInfo_通用_行为增益_惠民3,Stability increases by 30 points after benefiting the people.,ความมั่นคงเพิ่มขึ้น 30 แต้ม หลังจากช่วยเหลือผู้คน
+SlgTechInfo_通用_行为增益_修炼1,Learn Effect Increase 20%.,เพิ่มประสิทธิภาพการฝึกฝน 20%
+SlgTechInfo_通用_行为增益_修炼2,Learn Effect Increase 20%.,เพิ่มประสิทธิภาพการฝึกฝน 20%
+SlgTechInfo_通用_行为增益_修炼3,Learn Effect Increase 30%.,เพิ่มประสิทธิภาพการฝึกฝน 30%
+SlgTechInfo_通用_行为减耗_进攻1,Attack Cost Reduction 15%.,ลดค่าที่ใช้ในการโจมตีลง 15%
+SlgTechInfo_通用_行为减耗_进攻2,Attack Cost Reduction 15%.,ลดค่าที่ใช้ในการโจมตีลง 15%
+SlgTechInfo_通用_行为减耗_进攻3,Attack Cost Reduction 20%.,ลดค่าที่ใช้ในการโจมตีลง 20%
+SlgTechInfo_通用_行为减耗_疗伤1,Healing Cost Reduction 15%.,ลดค่าที่ใช้ในการรักษาลง 15%
+SlgTechInfo_通用_行为减耗_疗伤2,Healing Cost Reduction 15%.,ลดค่าที่ใช้ในการรักษาลง 15%
+SlgTechInfo_通用_行为减耗_疗伤3,Healing Cost Reduction 20%.,ลดค่าที่ใช้ในการรักษาลง 20%
+SlgTechInfo_通用_行为减耗_惠民1,Benefit People Cost Reduction 15%.,ลดค่าที่ใช้ในการช่วยเหลือผู้คนลง 15%
+SlgTechInfo_通用_行为减耗_惠民2,Benefit People Cost Reduction 15%.,ลดค่าที่ใช้ในการช่วยเหลือผู้คนลง 15%
+SlgTechInfo_通用_行为减耗_惠民3,Benefit People Cost Reduction 20%.,ลดค่าที่ใช้ในการช่วยเหลือผู้คนลง 20%
+SlgTechInfo_通用_行为减耗_补给1,Supply Cost Reduction 15%.,ลดค่าที่ใช้ในการส่งเสบียงลง 15%
+SlgTechInfo_通用_行为减耗_补给2,Supply Cost Reduction 15%.,ลดค่าที่ใช้ในการส่งเสบียงลง 15%
+SlgTechInfo_通用_行为减耗_补给3,Supply cost reduced by 20%.,ลดค่าที่ใช้ในการส่งเสบียงลง 20%
+SlgTechInfo_通用_行为减耗_修炼1,Learn cost reduced by 15%.,ลดค่าที่ใช้ในการเรียนรู้ลง 15%
+SlgTechInfo_通用_行为减耗_修炼2,Learn cost reduced by 15%.,ลดค่าที่ใช้ในการเรียนรู้ลง 15%
+SlgTechInfo_通用_行为减耗_修炼3,Learn cost reduced by 20%.,ลดค่าที่ใช้ในการเรียนรู้ลง 20%
+SlgTechInfo_通用_行为减耗_研究1,Meditation cost reduced by 15%.,ลดค่าที่ใช้ในการทำสมาธิลง 15%
+SlgTechInfo_通用_行为减耗_研究2,Meditation cost reduced by 15%.,ลดค่าที่ใช้ในการทำสมาธิลง 15%
+SlgTechInfo_通用_行为减耗_研究3,Meditation cost reduced by 20%.,ลดค่าที่ใช้ในการทำสมาธิลง 20%
+SlgTechInfo_通用_弟子上限_5,Sect Disciple limit increased to 5.,เพิ่มจำนวนศิษย์ในสำนักสูงสุดเป็น 5
+SlgTechInfo_通用_弟子上限_6,Sect Disciple limit increased to 6.,เพิ่มจำนวนศิษย์ในสำนักสูงสุดเป็น 6
+SlgTechInfo_通用_弟子上限_7,Sect Disciple limit increased to 7.,เพิ่มจำนวนศิษย์ในสำนักสูงสุดเป็น 7
+SlgTechInfo_通用_弟子上限_8,Sect Disciple limit increased to 8.,เพิ่มจำนวนศิษย์ในสำนักสูงสุดเป็น 8
+SlgTechInfo_通用_弟子上限_9,Sect Disciple limit increased to 9.,เพิ่มจำนวนศิษย์ในสำนักสูงสุดเป็น 9
+SlgTechInfo_通用_弟子上限_10,Sect Disciple limit increased to 10.,เพิ่มจำนวนศิษย์ในสำนักสูงสุดเป็น 10
+SlgTechInfo_通用_商人_资源1,Unlock Resource Merchant (Visit next month).,ปลดล็อก พ่อค้าทรัพยากร (จะมาเยือนในเดือนหน้า)
+SlgTechInfo_通用_商人_资源2,Resource Merchant will sell more goods.,พ่อค้าทรัพยากรจะขายสินค้ามากขึ้น
+SlgTechInfo_通用_商人_资源3,Resource Merchant will sell more goods.,พ่อค้าทรัพยากรจะขายสินค้ามากขึ้น
+SlgTechInfo_通用_商人_装备1,Unlock Equipment Merchant (Visit next month).,ปลดล็อก พ่อค้าอุปกรณ์ (จะมาเยือนในเดือนหน้า)
+SlgTechInfo_通用_商人_装备2,Equipment Merchant will sell better goods.,พ่อค้าอุปกรณ์จะขายสินค้าคุณภาพดีขึ้น
+SlgTechInfo_通用_商人_装备3,Equipment Merchant will sell better goods.,พ่อค้าอุปกรณ์จะขายสินค้าคุณภาพดีขึ้น
+SlgTechInfo_通用_商人_武功1,Unlock Martial Arts Merchant (Visit next month).,ปลดล็อก พ่อค้าวรยุทธ์ (จะมาเยือนในเดือนหน้า)
+SlgTechInfo_通用_商人_武功2,Martial Arts Merchant will sell more goods.,พ่อค้าวรยุทธ์จะขายสินค้ามากขึ้น
+SlgTechInfo_通用_商人_武功3,Martial Arts Merchant will sell more goods.,พ่อค้าวรยุทธ์จะขายสินค้ามากขึ้น
+SlgTechInfo_通用_商人_神秘商人,Unlock Nameless Merchant (Visit next month).,ปลดล็อก พ่อค้านิรนาม (จะมาเยือนในเดือนหน้า)
+SlgTechInfo_通用_招募科技1,Improve the quality of Disciples during recruitment.,เพิ่มคุณภาพของศิษย์ในระหว่างการรับสมัคร
+SlgTechInfo_通用_招募科技2,Improve the quality of Disciples during recruitment.,เพิ่มคุณภาพของศิษย์ในระหว่างการรับสมัคร
+SlgTechInfo_通用_招募科技3,Improve the quality of Disciples during recruitment.,เพิ่มคุณภาพของศิษย์ในระหว่างการรับสมัคร
+SlgTechInfo_通用_招募自动刷新数1,Automatically refresh 1 Disciple per turn.,รีเฟรชศิษย์ใหม่อัตโนมัติ 1 คนต่อรอบ
+SlgTechInfo_通用_招募自动刷新数2,Automatically refresh 1 Disciple per turn.,รีเฟรชศิษย์ใหม่อัตโนมัติ 1 คนต่อรอบ
+SlgTechInfo_通用_招募自动刷新数3,Automatically refresh 1 Disciple per turn.,รีเฟรชศิษย์ใหม่อัตโนมัติ 1 คนต่อรอบ
+SlgTechInfo_通用_资源产出增益1,Territory resource income increased by 20%.,รายได้ทรัพยากรในอาณาเขตเพิ่มขึ้น 20%
+SlgTechInfo_通用_资源产出增益2,Territory resource income increased by 20%.,รายได้ทรัพยากรในอาณาเขตเพิ่มขึ้น 20%
+SlgTechInfo_通用_资源产出增益3,Territory resource income increased by 30%.,รายได้ทรัพยากรในอาณาเขตเพิ่มขึ้น 30%
+SlgTechInfo_通用_守军科技1,Unlock the Garrison Disciple function.,ปลดล็อคฟังก์ชัน ศิษย์ประจำการ
+SlgTechInfo_通用_守军科技2,Enhance Garrison Disciple.,เสริมพลังศิษย์ประจำการ
+SlgTechInfo_通用_守军科技3,Enhance Garrison Disciple.,เสริมพลังศิษย์ประจำการ
+SlgTechInfo_通用_守军手动控制,Unlock manual control of Garrison Disciple.,ปลดล็อคควบคุมด้วยตนเองของศิษย์ประจำการ
+SlgTechInfo_通用_守军自动恢复1,"Garrison Disciple, automatically recover 5% of HP and MP each round.",ศิษย์ประจำการ จะฟื้นฟู HP และ MP 5% อัตโนมัติต่อรอบ
+SlgTechInfo_通用_守军自动恢复2,"Garrison Disciple, automatically recover 5% of HP and MP each round.",ศิษย์ประจำการ จะฟื้นฟู HP และ MP 5% อัตโนมัติต่อรอบ
+SlgTechInfo_通用_守军自动恢复3,"Garrison Disciple, automatically recover 10% of HP and MP each round.",ศิษย์ประจำการ จะฟื้นฟู HP และ MP 10% อัตโนมัติต่อรอบ
+SlgTechInfo_通用_资源低保1,"Automatically gain 20 minerals, herbs, wood, food per turn.","จะได้รับ 20 แร่, สมุนไพร, ไม้, และอาหารอัตโนมัติในแต่ละรอบ"
+SlgTechInfo_通用_资源低保2,"Automatically gain 50 minerals, herbs, wood, food per turn.","จะได้รับ 50 แร่, สมุนไพร, ไม้, และอาหารอัตโนมัติในแต่ละรอบ"
+SlgTechInfo_通用_资源低保3,"Automatically gain 100 minerals, herbs, wood, food per turn.","จะได้รับ 100 แร่, สมุนไพร, ไม้, และอาหารอัตโนมัติในแต่ละรอบ"
+SlgTechName_通用_快速战斗,Quick Battle,ต่อสู้แบบด่วน
+SlgTechName_释法寺_解锁dlc连环掌,Martial Art: Continuous Palm,วรยุทธ์: ฝ่ามือต่อเนื่อง
+SlgTechName_释法寺_解锁dlc罗汉拳法,Martial Art: Arhat Fist,วรยุทธ์: หมัดอรหันต์
+SlgTechName_释法寺_解锁dlc普渡杖法,Martial Art: Enlighten Staff,วรยุทธ์: ไม้เท้ารู้แจ้ง
+SlgTechName_释法寺_解锁dlc韦陀杖法,Martial Art: Veda Staff,วรยุทธ์: พลองพระเวท
+SlgTechName_释法寺_解锁dlc般若掌,Martial Art: Prajna Palm,วรยุทธ์: ฝ่ามือปัญญา
+SlgTechName_释法寺_解锁dlc大力金刚掌,Martial Art: Powerful Diamond Palm,วรยุทธ์: ฝ่ามือวชิระ
+SlgTechName_释法寺_解锁dlc金刚降魔杵,Martial Art: Evil Destroyer Diamond Staff,วรยุทธ์: พลองวชิระสยบมาร
+SlgTechName_释法寺_解锁dlc紧那罗王棍,Martial Art: Kinnara Staff,วรยุทธ์: พลองราชากินนร
+SlgTechName_释法寺_解锁dlc如来神掌,Martial Art: Vairocana Godly Palm,วรยุทธ์: ฝ่ามือยูไล
+SlgTechName_释法寺_解锁dlc达摩杖法,Martial Art: Dharma Staff,วรยุทธ์: ไม้เท้าโพธิธรรม
+SlgTechName_释法寺_解锁dlc金钟罩,Martial Art: Golden Bell Technique,วรยุทธ์: ระฆังทองคุ้มกาย
+SlgTechName_释法寺_解锁dlc横练金身,Martial Art: Forging Golden Body,วรยุทธ์: กายาวัชระทองคำ
+SlgTechName_释法寺_解锁dlc大日如来经,Martial Art: Vairocana Solar Sutra,วรยุทธ์: ไวโรจนะมหาสูตร
+SlgTechName_儒圣馆_解锁dlc一指禅,Martial Art: Zen Finger,วรยุทธ์: ฌานหนึ่งดรรชนี
+SlgTechName_儒圣馆_解锁dlc龙蛇笔法,Martial Art: Dragon Snake Pen,วรยุทธ์: พู่กันงูมังกรร่ายรำ
+SlgTechName_儒圣馆_解锁dlc流云飞扇,Martial Art: Drifting Cloud Fan,วรยุทธ์: พัดเมฆาล่องลอย
+SlgTechName_儒圣馆_解锁dlc泛沧浪,Martial Art: Floating Blue,วรยุทธ์: เกลียวคลื่น
+SlgTechName_儒圣馆_解锁dlc通天手,Martial Art: Omnipotent Hand,วรยุทธ์: หัตถ์ทงเทียน
+SlgTechName_儒圣馆_解锁dlc曹全碑,Martial Art: Cao Quan Steele,วรยุทธ์: จารึกเฉาฉวน
+SlgTechName_儒圣馆_解锁dlc逍遥游,Martial Art: Carefree Life,วรยุทธ์: อิสระจร
+SlgTechName_儒圣馆_解锁dlc高山流水,Martial Art: Mountain and River,วรยุทธ์: เขาสูงธารน้ำไหล
+SlgTechName_儒圣馆_解锁dlc灭天掌,Martial Art: Sky Destroyer Palm,วรยุทธ์: ฝ่ามือทลายสวรรค์
+SlgTechName_儒圣馆_解锁dlc江山多娇,Martial Art: Country Full of Beauties,วรยุทธ์: แผ่นดินที่งดงาม
+SlgTechName_儒圣馆_解锁dlc扇舞春秋,Martial Art: Spring and Autumn Fan,วรยุทธ์: ระบำพัดสารทวสันต์
+SlgTechName_儒圣馆_解锁dlc广陵散,Martial Art: Guangling Melody,วรยุทธ์: ลำนำแห่งกว่างหลิง
+SlgTechName_儒圣馆_解锁dlc儒雅风流,Martial Art: Elegant Romanticist,วรยุทธ์: หรูหราสง่างาม
+SlgTechName_儒圣馆_解锁dlc盛世春秋,Martial Art: Glorious Era,วรยุทธ์: ยุคทองอันเจิดจรัส
+SlgTechName_儒圣馆_解锁dlc儒十三经,Martial Art: Confucius Thirteen Sutras,วรยุทธ์: ขงจื้อสิบสามคัมภีร์
+SlgTechName_道玄宗_解锁dlc太乙剑法,Martial Art: Taiyi Sword,วรยุทธ์: เพลงกระบี่ไทยี่
+SlgTechName_道玄宗_解锁dlc须弥剑法,Martial Art: Sumeru Sword,วรยุทธ์: เพลงกระบี่เขาพระสุเมรุ
+SlgTechName_道玄宗_解锁dlc七巧如意手,Martial Art: Dexterous Hand,วรยุทธ์: หัตถ์เจ็ดปรารถนา
+SlgTechName_道玄宗_解锁dlc逍遥拳法,Martial Art: Carefree Fist,วรยุทธ์: หมัดสราญรมย์
+SlgTechName_道玄宗_解锁dlc太极剑法,Martial Art: Taichi Sword,วรยุทธ์: กระบี่ไทเก๊ก
+SlgTechName_道玄宗_解锁dlc岁寒三友,Martial Art: Three Friends of Winter,วรยุทธ์: สามสหายเหมันต์
+SlgTechName_道玄宗_解锁dlc醉仙拳,Martial Art: Wine God Fist,วรยุทธ์: หมัดเซียนเมามาย
+SlgTechName_道玄宗_解锁dlc太极拳,Martial Art: Taichi Fist,วรยุทธ์: หมัดไทเก๊ก
+SlgTechName_道玄宗_解锁dlc无极剑法,Martial Art: Infinity Sword,วรยุทธ์: เพลงกระบี่ไร้ขอบเขต
+SlgTechName_道玄宗_解锁dlc贯云指,Martial Art: Cloud Piercing Finger,วรยุทธ์: ดรรชนีทะลวงเมฆา
+SlgTechName_道玄宗_解锁dlc凌波诀,Martial Art: Wave Rider Technique,วรยุทธ์: วิชาทะยานคลื่น
+SlgTechName_道玄宗_解锁dlc太极玄,Martial Art: Nether Taichi,วรยุทธ์: พลังเทพไท้เก๊ก
+SlgTechName_道玄宗_解锁dlc无极混元功,Martial Art: Infinity Origin Move,วรยุทธ์: พลังรวมศูนย์ไร้สิ้นสุด
+SlgTechName_九流门_解锁dlc黑虎拳,Martial Art: Black Tiger Fist,วรยุทธ์: หมัดพยัคฆ์ทมิฬ
+SlgTechName_九流门_解锁dlc雷云掌,Martial Art: Thundercloud Palm,วรยุทธ์: ฝ่ามือเมฆาอัสนี
+SlgTechName_九流门_解锁dlc伤情别离掌,Martial Art: Breakup Palm,วรยุทธ์: ฝ่ามือกำสรด
+SlgTechName_九流门_解锁dlc断魂爪,Martial Art: Soul Destroyer Claw,วรยุทธ์: กรงเล็บสะบั้นวิญญาณ
+SlgTechName_九流门_解锁dlc撼天指法,Martial Art: Heaven Shaking Finger,วรยุทธ์: ดรรชนีสะเทือนฟ้า
+SlgTechName_九流门_解锁dlc玄煞劲,Martial Art: Nether Killing Force,วรยุทธ์: ปราณปรโลกสังหาร
+SlgTechName_九流门_解锁dlc玄阴诀,Martial Art: Nether Yin Manual,วรยุทธ์: เคล็ดหยินเร้นลับ
+SlgTechName_九流门_解锁dlc天魔噬魂术,Martial Art: Archdemon's Soul Eating Skill,วรยุทธ์: มารฟ้ากลืนวิญญาณ
+SlgTechName_妙音坊_解锁dlc阳春白雪,Martial Art: Spring White Snow,วรยุทธ์: หิมะในฤดูใบไม้ผลิ
+SlgTechName_妙音坊_解锁dlc阳关三叠,Martial Art: Triassis Yangguan,วรยุทธ์: ด่านหยางกวนสามท่อน
+SlgTechName_妙音坊_解锁dlc音波功,Martial Art: Soundwave Attack,วรยุทธ์: พลังคลื่นเสียง
+SlgTechName_妙音坊_解锁dlc汉宫秋月,Martial Art: Autumn Palace Moon,วรยุทธ์: พระราชวังฮั่นในคืนพระจันทร์สารท
+SlgTechName_妙音坊_解锁dlc蝶舞天涯,Martial Art: Dancing Butterfly Over Skyline,วรยุทธ์: ระบำผีเสื้อเหนือเส้นขอบฟ้า
+SlgTechName_妙音坊_解锁dlc鹧鸪天,Martial Art: Partridge Day,วรยุทธ์: หยางกุ้ยเฟยร่ำเมรัย
+SlgTechName_妙音坊_解锁dlc十面埋伏,Martial Art: Full Directional Ambush,วรยุทธ์: ซุ่มจู่โจมทั้งสิบทิศ
+SlgTechName_妙音坊_解锁dlc傲江湖,Martial Art: Proud Wanderer,วรยุทธ์: เย้ยยุทธจักร
+SlgTechName_妙音坊_解锁dlc碧涧流泉,Martial Art: Flowing Mountain Stream,วรยุทธ์: ลำธารภูเขาน้ำตก
+SlgTechName_妙音坊_解锁dlc凌波诀,Martial Art: Wave Rider Technique,วรยุทธ์: วิชาทะยานคลื่น
+SlgTechName_妙音坊_解锁dlc洛神步,Martial Art: God Step,วรยุทธ์: ท่าเท้าเทพธิดา
+SlgTechName_妙音坊_解锁dlc霓裳羽衣经,Martial Art: Dancing Garment Sutra,วรยุทธ์: คัมภีร์อาภรณ์ร่ายรำ
+SlgTechName_九黎部落_解锁dlc腐尸枪法,Martial Art: Rotting Spear,วรยุทธ์: เพลงหอกสลายซาก
+SlgTechName_九黎部落_解锁dlc暗香凌波,Martial Art: Hidden Fragrance Wave,วรยุทธ์: คลื่นซ่อนหอม
+SlgTechName_九黎部落_解锁dlc黄泉引路枪,Martial Arts: Death Bringer Spear,วรยุทธ์: หอกเบิกทางยมโลก
+SlgTechName_九黎部落_解锁dlc梅花三弄,Martial Arts: Plum Flower Three Lanes,วรยุทธ์: ตำนานรักดอกเหมย
+SlgTechName_九黎部落_解锁dlc九黎巫叉,Martial Arts: Jiuli Trident,วรยุทธ์: หอกตรีศูลจิ่วลี่
+SlgTechName_九黎部落_解锁dlc万蛊谣,Martial Arts: Ancient Song,วรยุทธ์: ลือเรื่องหมื่นพิษ
+SlgTechName_九黎部落_解锁dlc腐毒功,Martial Arts: Poison Technique,วรยุทธ์: วิชาพิษกัดกร่อน
+SlgTechName_九黎部落_解锁dlc罗刹毒经,Martial Arts: Raksha Poison Sutra,วรยุทธ์: รากษกพิษยสูตร
+SlgTechName_九黎部落_解锁dlc巫蛊毒功,Martial Arts: Ancient Sage Poison Technique,วรยุทธ์: มนตร์พิษโบราณ
+SlgTechName_九江水寨_解锁dlc开山刀法,Martial Arts: Mountain Clear Blade,วรยุทธ์: ดาบสะบั้นภูผา
+SlgTechName_九江水寨_解锁dlc疾风刺,Martial Arts: Wind Stab,วรยุทธ์: แทงวายุกระโชก
+SlgTechName_九江水寨_解锁dlc狂风扇诀,Martial Arts: Tornado Fan,วรยุทธ์: พัดวายุคลั่ง
+SlgTechName_九江水寨_解锁dlc怒流刀法,Martial Arts: Furious Blade,วรยุทธ์: ดาบพายุคลั่ง
+SlgTechName_九江水寨_解锁dlc银蛇流光,Martial Arts: Silver Snake Mirage,วรยุทธ์: เงาคลื่นอสรพิษเกล็ดเงิน
+SlgTechName_九江水寨_解锁dlc风卷残云式,Martial Arts: Storming Cloud Fan,วรยุทธ์: พายุพัดเมฆากระหน่ำ
+SlgTechName_九江水寨_解锁dlc吞鲸刀法,Martial Arts: Devouring Blade,วรยุทธ์: ดาบกลืนกิน
+SlgTechName_九江水寨_解锁dlc天外流星,Martial Arts: Shooting Star,วรยุทธ์: ดาวตกนอกฟ้า
+SlgTechName_九江水寨_解锁dlc蝶恋花,Martial Arts: Flirting Butterfly,วรยุทธ์: ผีเสื้อเหย้าบุปผา
+SlgTechName_九江水寨_解锁dlc凌波诀,Martial Art: Wave Rider Technique,วรยุทธ์: วิชาทะยานคลื่น
+SlgTechName_九江水寨_解锁dlc海纳百川,Martial Arts: Great Ocean Manual,วรยุทธ์: พลังรวมสมุทร
+SlgTechName_九江水寨_解锁dlc惊涛骇浪诀,Martial Arts: Tsunami Manual,วรยุทธ์: คลื่นพายุกระหน่ำ
+SlgTechName_本草门_解锁dlc浣纱剑法,Martial Arts: Huansha Sword,วรยุทธ์: กระบี่ล่าสังหาร
+SlgTechName_本草门_解锁dlc莲花妙剑,Martial Arts: Lotus Flower Sword,วรยุทธ์: เพลงกระบี่ดอกบัว
+SlgTechName_本草门_解锁dlc素女剑法,Martial Arts: Pure Maiden Sword,วรยุทธ์: กระบี่ดรุณีใจสงบ
+SlgTechName_本草门_解锁dlc凌尘剑法,Martial Arts: Mortal Sword,วรยุทธ์: เพลงกระบี่ธุลีดิน
+SlgTechName_本草门_解锁dlc金匮要略,Martial Arts: Golden Manual,วรยุทธ์: ตำรายาห้องทอง
+SlgTechName_本草门_解锁dlc四圣心源,Martial Arts: Four Saints Origin,วรยุทธ์: สี่หัวใจศักดิ์สิทธิ์
+SlgTechName_万兽山庄_解锁dlc蟠龙棍法,Martial Arts: Dragon Staff,วรยุทธ์: พลองมังกร
+SlgTechName_万兽山庄_解锁dlc太乙剑法,Martial Art: Taiyi Sword,วรยุทธ์: เพลงกระบี่ไทยี่
+SlgTechName_万兽山庄_解锁dlc云林棍法,Martial Arts: Cloud Forest Staff,วรยุทธ์: พลองป่าเมฆา
+SlgTechName_万兽山庄_解锁dlc太虚十八剑,Martial Arts: Taixu Eighteen Swords,วรยุทธ์: ไท่ซวีสิบแปดกระบี่
+SlgTechName_万兽山庄_解锁dlc天罡飞龙杖,Martial Arts: Polaris Wyvern Staff,วรยุทธ์: ไม้เท้ามังกรสวรรค์
+SlgTechName_万兽山庄_解锁dlc浮华掠影剑,Martial Arts: Illusion Sword,วรยุทธ์: เพลงกระบี่มายาลวง
+SlgTechName_万兽山庄_解锁dlc御兽术,Martial Arts: Beast Taming Skill,วรยุทธ์: วิชาฝึกสัตว์
+SlgTechName_万兽山庄_解锁dlc兽吼功,Martial Arts: Beast Howling Move,วรยุทธ์: ราชสีห์คำราม
+SlgTechName_万兽山庄_解锁dlc兽王诀,Martial Arts: Beast King Technique,วรยุทธ์: วิชาราชาสัตว์ร้าย
+SlgTechName_燕子窝_解锁dlc破空梭,Martial Arts: Wind Breaker,วรยุทธ์: ผ่าวายุ
+SlgTechName_燕子窝_解锁dlc疾风刺,Martial Arts: Wind Stab,วรยุทธ์: แทงวายุกระโชก
+SlgTechName_燕子窝_解锁dlc风雷刺法,Martial Arts: Thunderstorm Strike,วรยุทธ์: แทงวายุพิฆาตอัสนี
+SlgTechName_燕子窝_解锁dlc云龙三现,Martial Arts: Cloud Dragon Three Strikes,วรยุทธ์: สามมังกรเมฆาจู่โจม
+SlgTechName_燕子窝_解锁dlc刺秦要诀,Martial Arts: Killer's Secret,วรยุทธ์: คัมภีร์ลับสังหารฉิน
+SlgTechName_燕子窝_解锁dlc捕风诀,Martial Arts: Wind Walker Manual,วรยุทธ์: เคล็ดวิชาเหยียบวายุ
+SlgTechName_燕子窝_解锁dlc凌云步,Martial Arts: Cloud Walker Step,วรยุทธ์: ทะยานบันไดเมฆา
+SlgTechName_燕子窝_解锁dlc天女散花,Martial Arts: Celestial Lady Scattering Flowers,วรยุทธ์: เทพธิดาโปรยบุปผา
+SlgTechName_神捕门_解锁dlc须弥剑法,Martial Art: Sumeru Sword,วรยุทธ์: เพลงกระบี่เขาพระสุเมรุ
+SlgTechName_神捕门_解锁dlc风沙刀法,Martial Arts: Sandstorm Blade,วรยุทธ์: ดาบพายุทราย
+SlgTechName_神捕门_解锁dlc贪狼剑法,Martial Arts: Flirting Star Sword,วรยุทธ：กระบี่หยอกดารา
+SlgTechName_神捕门_解锁dlc盘空刀法,Martial Arts: Empty Blade,วรยุทธ์: ดาบเวียนนภา
+SlgTechName_神捕门_解锁dlc磐龙剑法,Martial Arts: Dragon Sword,วรยุทธ์: เพลงกระบี่มังกร
+SlgTechName_神捕门_解锁dlc天魔刀法,Martial Arts: Archdemon Blade,วรยุทธ์: ดาบมารสวรรค์
+SlgTechName_神捕门_解锁dlc莽牛劲,Martial Arts: Ox Power,วรยุทธ์: พลังวัวคลั่ง
+SlgTechName_神捕门_解锁dlc纯阳功,Martial Arts: Pure Yang Skill,วรยุทธ์: พลังหยางบริสุทธิ์
+SlgTechName_神捕门_解锁dlc祈禳大法,Martial Arts: Prayer Manual,วรยุทธ์: คัมภีร์ภาวนา
+SlgTechName_虎威镖局_解锁dlc破甲刀法,Martial Arts: Armor Breaker Blade,วรยุทธ์: ดาบผ่าเกราะ
+SlgTechName_虎威镖局_解锁dlc雁行刀法,Martial Arts: Wild Goose Blade,วรยุทธ์: ดาบห่านป่า
+SlgTechName_虎威镖局_解锁dlc霹雳刀法,Martial Arts: Thunder Blade,วรยุทธ์: ดาบอัสนี
+SlgTechName_虎威镖局_解锁dlc一刀斩,Martial Arts: One Blade,วรยุทธ์: พิฆาตในดาบเดียว
+SlgTechName_虎威镖局_解锁dlc破甲劲,Martial Arts: Armor Breaker Move,วรยุทธ์: วิชาทลายเกราะ
+SlgTechName_虎威镖局_解锁dlc五禽戏,Martial Arts: Five Animal Forms,วรยุทธ์: กายบริหารห้าสัตว์
+SlgTechName_夜摩坊_解锁dlc游龙剑法,Martial Arts: Dragon Roaming Sword,วรยุทธ์: กระบี่มังกรร่ายรำ
+SlgTechName_夜摩坊_解锁dlc九宫剑法,Martial Arts: Nine Diagrams Sword,วรยุทธ์: กระบี่เก้าลักษณ์
+SlgTechName_夜摩坊_解锁dlc星月剑法,Martial Arts: Moon Star Sword,วรยุทธ์: กระบี่จันทร์ดารา
+SlgTechName_夜摩坊_解锁dlc忘忧剑法,Martial Arts: Forgotten Sword,วรยุทธ์: เพลงกระบี่ลืมทุกข์
+SlgTechName_夜摩坊_解锁dlc调息法,Martial Arts: Breathing Technique,วรยุทธ์: เคล็ดปรับลมหายใจ
+SlgTechName_夜摩坊_解锁dlc天星诀,Martial Arts: Celestial Star Manual,วรยุทธ์: เคล็ดวิชาดาวสวรรค์
+SlgTechName_琅琊剑阁_解锁dlc回风剑法,Martial Arts: Wind Reversal Sword,วรยุทธ์: กระบี่ลมหวน
+SlgTechName_琅琊剑阁_解锁dlc九宫剑法,Martial Arts: Nine Diagrams Sword,วรยุทธ์: กระบี่เก้าลักษณ์
+SlgTechName_琅琊剑阁_解锁dlc苍穹剑法,Martial Arts: Heaven Sword,วรยุทธ์: เพลงกระบี่ฟ้ากว้าง
+SlgTechName_琅琊剑阁_解锁dlc求败九式,Martial Arts: Dugu Nine Swords,วรยุทธ์: เก้ากระบี่เดียวดาย
+SlgTechName_琅琊剑阁_解锁dlc破天剑法,Martial Arts: Sky Breaker Sword,วรยุทธ์: เพลงกระบี่ทลายฟ้า
+SlgTechName_琅琊剑阁_解锁dlc剑法典籍,Martial Arts: Sword Mastery,วรยุทธ์: วิชากระบี่พื้นฐาน
+SlgTechName_琅琊剑阁_解锁dlc藏剑秘卷,Martial Arts: Hidden Sword Secret Manual,วรยุทธ์: คัมภีร์ลับกระบี่ซ่อน
+SlgTechName_琅琊剑阁_解锁dlc九霄真经,Martial Arts: Heaven Sutra,วรยุทธ์: คัมภีร์เก้าชั้นฟ้า
+SlgTechName_摸金门_解锁dlc蟠龙棍法,Martial Arts: Dragon Staff,วรยุทธ์: พลองมังกร
+SlgTechName_摸金门_解锁dlc大力棍法,Martial Arts: Brutal Staff,วรยุทธ์: กระบองพิฆาต
+SlgTechName_摸金门_解锁dlc疯魔棍法,Martial Arts: Insanity Staff,วรยุทธ์: พลองมารคลั่ง
+SlgTechName_摸金门_解锁dlc混元棍法,Martial Arts: Origin Staff,วรยุทธ์: พลองรวมศูนย์
+SlgTechName_摸金门_解锁dlc破甲劲,Martial Arts: Armor Breaker Move,วรยุทธ์: วิชาทลายเกราะ
+SlgTechName_摸金门_解锁dlc寻龙术,Martial Arts: Dragon Seeker Manual,วรยุทธ์: ล่าหลุมฝังมังกร
+SlgTechName_青风寨_解锁dlc修罗刀法,Martial Arts: Shura Blade,วรยุทธ์: เพลงดาบอสุรา
+SlgTechName_青风寨_解锁dlc开山刀法,Martial Arts: Mountain Clear Blade,วรยุทธ์: ดาบสะบั้นภูผา
+SlgTechName_青风寨_解锁dlc七旋斩,Martial Arts: Seven Spins Blade,วรยุทธ์: 7 ดาบหมุนเวียน
+SlgTechName_青风寨_解锁dlc碧磷刀法,Martial Arts: Jade Blade,วรยุทธ์: ดาบพิษมรกต
+SlgTechName_青风寨_解锁dlc莽牛劲,Martial Arts: Ox Power,วรยุทธ์: พลังวัวคลั่ง
+SlgTechName_青风寨_解锁dlc莽苍诀,Martial Arts: Reckless Sky Technique,วรยุทธ์: เคล็ดฟ้าประมาท
+SlgTechName_叶家军_解锁dlc破阵大枪,Martial Arts: Formation Breaker Spear,วรยุทธ์: หอกทลายทัพ
+SlgTechName_叶家军_解锁dlc六合枪法,Martial Arts: Six Forms Spear,วรยุทธ์: หอกหกประสาน
+SlgTechName_叶家军_解锁dlc叶家枪法,Martial Arts: Ye Family Spear,วรยุทธ์: เพลงหอกสกุลเย่
+SlgTechName_叶家军_解锁dlc七杀枪法,Martial Arts: Power Star Spear,วรยุทธ์: หอกเจ็ดพิฆาต
+SlgTechName_叶家军_解锁dlc沥泉枪法,Martial Arts: Slipstream Spear,วรยุทธ์: หอกธาราหยด
+SlgTechName_叶家军_解锁dlc破甲劲,Martial Arts: Armor Breaker Move,วรยุทธ์: วิชาทลายเกราะ
+SlgTechName_叶家军_解锁dlc武穆秘典,Martial Arts: Yue Fei Secret Manual,วรยุทธ์: ตำราลับงักฮุย
+SlgTechName_叶家军_解锁dlc满江红,Martial Arts: Prismatic River,วรยุทธ์: แม่น้ำสีชาด
+SlgTechName_冷皮帮_解锁dlc修罗刀法,Martial Arts: Shura Blade,วรยุทธ์: เพลงดาบอสุรา
+SlgTechName_冷皮帮_解锁dlc迷魂毒掌,Martial Arts: Enchanted Poison Palm,วรยุทธ์: ฝ่ามือพิษลวงวิญญาณ
+SlgTechName_冷皮帮_解锁dlc破军刀法,Martial Arts: Ruinous Star Blade,วรยุทธ์: ดาบทลายทัพ
+SlgTechName_冷皮帮_解锁dlc碧落黄泉,Martial Arts: Death Road,วรยุทธ์: เส้นทางมรณะ
+SlgTechName_冷皮帮_解锁dlc斩天刀法,Martial Arts: Heaven Cutting Blade Technique,วรยุทธ์: เพลงดาบผ่าสวรรค์
+SlgTechName_冷皮帮_解锁dlc紫薇惊龙掌,Martial Arts: Dragon King Palm,วรยุทธ์: ฝ่ามือราชันมังกร
+SlgTechName_冷皮帮_解锁dlc调息法,Martial Arts: Breathing Technique,วรยุทธ์: เคล็ดปรับลมหายใจ
+SlgTechName_冷皮帮_解锁dlc五毒秘法,Martial Arts: Five Poisons Secret Move,วรยุทธ์: วิชาลับเบญจพิษ
+SlgTechName_冷皮帮_解锁dlc火蟾诀,Martial Arts: Flame Toad Technique,วรยุทธ์: พลังคางคกอัคคี
+SlgTechName_圣火宗_解锁dlc回风剑法,Martial Arts: Wind Reversal Sword,วรยุทธ์: กระบี่ลมหวน
+SlgTechName_圣火宗_解锁dlc连环掌,Martial Art: Continuous Palm,วรยุทธ์: ฝ่ามือต่อเนื่อง
+SlgTechName_圣火宗_解锁dlc广寒剑法,Martial Arts: Moon Palace Sword,วรยุทธ์: เพลงกระบี่วังจันทรา
+SlgTechName_圣火宗_解锁dlc破空拳,Martial Arts: Breakthrough Fist,วรยุทธ์: หมัดทลายนภา
+SlgTechName_圣火宗_解锁dlc无锋剑法,Martial Arts: Windless Sword,วรยุทธ์: เพลงกระบี่ไร้คม
+SlgTechName_圣火宗_解锁dlc烈阳拳,Martial Arts: Solar Fist,วรยุทธ์: หมัดสุรีย์ผลาญ
+SlgTechName_圣火宗_解锁dlc混元劲,Martial Arts: Origin Technique,วรยุทธ์: พลังต้นกำเนิด
+SlgTechName_圣火宗_解锁dlc圣火燎原,Martial Arts: Holy Flame Spreading,วรยุทธ์: ประกายเพลิงศักดิ์สิทธิ์
+SlgTechName_圣火宗_解锁dlc圣火神功,Martial Arts: Holy Fire Divine Skill,วรยุทธ์: พลังเพลิงศักดิ์สิทธิ์
+SlgTechName_儒圣馆_特征1,Trait: Instant death,คุณลักษณะ: สังหารทันที
+SlgTechName_儒圣馆_特征2,Trait: Critical Damage,คุณลักษณะ: ความเสียหายคริติคอล
+SlgTechName_儒圣馆_特征3,Trait: Ruthless Hand,คุณลักษณะ: หัตถ์ไร้ปรานี
+SlgTechName_儒圣馆_特征4,Trait: Cloud Breaking Power,คุณลักษณะ: พลังทลายเมฆา
+SlgTechName_儒圣馆_特征5,Trait: Weapon Blessing,คุณลักษณะ: เสริมพลังอาวุธ
+SlgTechName_儒圣馆_特征6,Trait: Damage Boost,คุณลักษณะ: ความเสียหายเพิ่มขึ้น
+SlgTechName_儒圣馆_特征7,Trait: Stalwart,คุณลักษณะ: กำยำ
+SlgTechName_道玄宗_特征1,Trait: Enemy Chasing,คุณลักษณะ: ไล่ล่าศัตรู
+SlgTechName_道玄宗_特征2,Trait: Survival in Adversity,คุณลักษณะ: รอดเฉียดตาย
+SlgTechName_道玄宗_特征3,Trait: Light as a Feather,คุณลักษณะ: เบาดุจขนนก
+SlgTechName_道玄宗_特征4,Trait: Fast Response,คุณลักษณะ: ปฏิกิริยาว่องไว
+SlgTechName_道玄宗_特征5,Trait: Brave Charge,คุณลักษณะ: ทะลวงห้าวหาญ
+SlgTechName_道玄宗_特征6,Trait: Light Body,คุณลักษณะ: ตัวเบา
+SlgTechName_道玄宗_特征7,Trait: Shadow Following,คุณลักษณะ: เงาตามติด
+SlgTechName_释法寺_特征1,Trait: Damage Reflect,คุณลักษณะ: สะท้อนความเสียหาย
+SlgTechName_释法寺_特征2,Trait: Wall of Steel,คุณลักษณะ: กำแพงเหล็กกล้า
+SlgTechName_释法寺_特征3,Trait: Clear Mind and Few Desires,คุณลักษณะ: ไร้ปรารถนา
+SlgTechName_释法寺_特征4,Trait: Strong Body and Muscles,คุณลักษณะ: ร่างแกร่ง
+SlgTechName_释法寺_特征5,Trait: Armor Blessing,คุณลักษณะ: เสริมเกราะ
+SlgTechName_释法寺_特征6,Trait: Iron Body,คุณลักษณะ: กายาเหล็กไหล
+SlgTechName_释法寺_特征7,Trait: Hardened,คุณลักษณะ: ทนทาน
+SlgTechName_九流门_特征1,Trait: Back from the Brink,คุณลักษณะ: รอดจากหายนะ
+SlgTechName_九流门_特征2,Trait: Continuous Assault,คุณลักษณะ: จู่โจมต่อเนื่อง
+SlgTechName_九流门_特征3,Trait: Tactical Strategist,คุณลักษณะ: วางกลยุทธ์
+SlgTechName_九流门_特征4,Trait: Enemy Damage Recovery,คุณลักษณะ: ฟื้นฟูจากศัตรู
+SlgTechName_九流门_特征5,Trait: MP Conservation,คุณลักษณะ: ควบคุมลมปราณ
+SlgTechName_九流门_特征6,Trait: HP Boost,คุณลักษณะ: HP เพิ่มขึ้น
+SlgTechName_九流门_特征7,Trait: Critical Boost,คุณลักษณะ: คริติคอลเพิ่มขึ้น
+SlgTechName_妙音坊_特征1,Trait: Insightful,คุณลักษณะ: มองทะลุปรุโปร่ง
+SlgTechName_妙音坊_特征2,Trait: Rapid Response,คุณลักษณะ: ร่างดุจมารร้าย
+SlgTechName_妙音坊_特征3,Trait: Aura Disruption,คุณลักษณะ: ค่าปราณสับสน
+SlgTechName_妙音坊_特征4,Trait: Evasion Enhancement,คุณลักษณะ: เพิ่มประสิทธิภาพการหลบหลีก
+SlgTechName_妙音坊_特征5,Trait: Divine Flame Protection,คุณลักษณะ: เพลิงศักดิ์สิทธิ์คุ้มกาย
+SlgTechName_妙音坊_特征6,Trait: Critical Boost,คุณลักษณะ: คริติคอลเพิ่มขึ้น
+SlgTechName_妙音坊_特征7,Trait: Shadow Following,คุณลักษณะ: เงาตามติด
+SlgTechName_九黎部落_特征1,Trait: Martial Arts Disruption,คุณลักษณะ: ขัดวรยุทธ์
+SlgTechName_九黎部落_特征2,Trait: Follower's Path,คุณลักษณะ: ใช้ประโยชน์จากสถานการณ์
+SlgTechName_九黎部落_特征3,Trait: Weapon Blessing,คุณลักษณะ: เสริมพลังอาวุธ
+SlgTechName_九黎部落_特征4,Trait: Flute Critical,คุณลักษณะ: เสียงขลุ่ยทรงพลัง
+SlgTechName_九黎部落_特征5,Trait: Staff and Spear Protection,คุณลักษณะ: ตั้งรับหอกพลอง
+SlgTechName_九黎部落_特征6,Trait: Evasion Boost,คุณลักษณะ: เพิ่มหลบหลีก
+SlgTechName_九黎部落_特征7,Trait: Damage Boost,คุณลักษณะ: ความเสียหายเพิ่มขึ้น
+SlgTechName_九江水寨_特征1,Trait: Mark Increase Roll,คุณลักษณะ: เสริมพลังตราประทับ
+SlgTechName_九江水寨_特征2,Trait: Mark Counter,คุณลักษณะ: โต้ตอบรอยประทับ
+SlgTechName_九江水寨_特征3,Trait: Chain Reaction,คุณลักษณะ: เกี่ยวพัน
+SlgTechName_九江水寨_特征4,Trait: Weapon Blessing,คุณลักษณะ: เสริมพลังอาวุธ
+SlgTechName_九江水寨_特征5,Trait: Damage Enhancement,คุณลักษณะ: เสริมความเสียหาย
+SlgTechName_九江水寨_特征6,Trait: Critical Boost,คุณลักษณะ: คริติคอลเพิ่มขึ้น
+SlgTechName_九江水寨_特征7,Trait: Damage Boost,คุณลักษณะ: ความเสียหายเพิ่มขึ้น
+SlgTechName_本草门_特征1,Trait: Immunity Barrier,คุณลักษณะ: เกราะต้านทาน
+SlgTechName_本草门_特征2,Trait: Back from the Brink,คุณลักษณะ: รอดจากหายนะ
+SlgTechName_本草门_特征3,Trait: HP Enhancement,คุณลักษณะ: เพิ่ม HP
+SlgTechName_本草门_特征4,Trait: Self-healing when Hit,คุณลักษณะ: ฟื้นฟูเมื่อถูกโจมตี
+SlgTechName_本草门_特征5,Trait: Emergency Self-rescue,คุณลักษณะ: ช่วยตนฉุกเฉิน
+SlgTechName_本草门_特征6,Trait: Iron Body,คุณลักษณะ: กายาเหล็กไหล
+SlgTechName_本草门_特征7,Trait: Hardened,คุณลักษณะ: ทนทาน
+SlgTechName_万兽山庄_特征1,Trait: Beast Taming Ability,คุณลักษณะ: พลังควบคุมสัตว์
+SlgTechName_万兽山庄_特征2,Trait: Beast Taming Technique,คุณลักษณะ: วิชาฝึกสัตว์
+SlgTechName_万兽山庄_特征3,Trait: Animal Hunter,คุณลักษณะ: พรานสัตว์
+SlgTechName_万兽山庄_特征4,Trait: HP Enhancement,คุณลักษณะ: เพิ่ม HP
+SlgTechName_万兽山庄_特征5,Trait: Armor Blessing,คุณลักษณะ: เสริมเกราะ
+SlgTechName_万兽山庄_特征6,Trait: Evasion Boost,คุณลักษณะ: เพิ่มหลบหลีก
+SlgTechName_万兽山庄_特征7,Trait: Shadow Following,คุณลักษณะ: เงาตามติด
+SlgTechName_燕子窝_特征1,Trait: Immune to Back Attack,คุณลักษณะ: ต้านทานโจมตีด้านหลัง
+SlgTechName_燕子窝_特征2,Trait: Immune to Side Attack,คุณลักษณะ: ต้านทานโจมตีด้านข้าง
+SlgTechName_燕子窝_特征3,Trait: Shadow-like,คุณลักษณะ: ร่างดุจเงาไหว
+SlgTechName_燕子窝_特征4,Trait: Back Attack Breaker,คุณลักษณะ: โจมตีทลายด้านหลัง
+SlgTechName_燕子窝_特征5,Trait: Side Attack Breaker,คุณลักษณะ: โจมตีทลายด้านข้าง
+SlgTechName_燕子窝_特征6,Trait: Quick Reflex,คุณลักษณะ: โต้ตอบว่องไว
+SlgTechName_燕子窝_特征7,Trait: Stalwart,คุณลักษณะ: กำยำ
+SlgTechName_神捕门_特征1,Trait: Instant death,คุณลักษณะ: สังหารทันที
+SlgTechName_神捕门_特征2,Trait: Critical Damage,คุณลักษณะ: ความเสียหายคริติคอล
+SlgTechName_神捕门_特征3,Trait: Divine Flame Protection,คุณลักษณะ: เพลิงศักดิ์สิทธิ์คุ้มกาย
+SlgTechName_神捕门_特征4,Trait: Cloud Breaking Power,คุณลักษณะ: พลังทลายเมฆา
+SlgTechName_神捕门_特征5,Trait: Weapon Blessing,คุณลักษณะ: เสริมพลังอาวุธ
+SlgTechName_神捕门_特征6,Trait: Damage Boost,คุณลักษณะ: ความเสียหายเพิ่มขึ้น
+SlgTechName_神捕门_特征7,Trait: Critical Boost,คุณลักษณะ: คริติคอลเพิ่มขึ้น
+SlgTechName_虎威镖局_特征1,Trait: Enemy Chasing,คุณลักษณะ: ไล่ล่าศัตรู
+SlgTechName_虎威镖局_特征2,Trait: Critical Damage,คุณลักษณะ: ความเสียหายคริติคอล
+SlgTechName_虎威镖局_特征3,Trait: Armor Blessing,คุณลักษณะ: เสริมเกราะ
+SlgTechName_虎威镖局_特征4,Trait: Parry Enhancement,คุณลักษณะ: เสริมการปัดป้อง
+SlgTechName_虎威镖局_特征5,Trait: Critical Enhancement,คุณลักษณะ: เสริมคริติคอล
+SlgTechName_虎威镖局_特征6,Trait: Damage Boost,คุณลักษณะ: ความเสียหายเพิ่มขึ้น
+SlgTechName_虎威镖局_特征7,Trait: Stalwart,คุณลักษณะ: กำยำ
+SlgTechName_夜摩坊_特征1,Trait: Immune to Control,คุณลักษณะ: ต้านทานการควบคุม
+SlgTechName_夜摩坊_特征2,Trait: Wall of Steel,คุณลักษณะ: กำแพงเหล็กกล้า
+SlgTechName_夜摩坊_特征3,Trait: MP Enhancement,คุณลักษณะ: เสริม MP
+SlgTechName_夜摩坊_特征4,Trait: Cloud Breaking Power,คุณลักษณะ: พลังทลายเมฆา
+SlgTechName_夜摩坊_特征5,Trait: Damage Enhancement,คุณลักษณะ: เสริมความเสียหาย
+SlgTechName_夜摩坊_特征6,Trait: Stalwart,คุณลักษณะ: กำยำ
+SlgTechName_夜摩坊_特征7,Trait: Light Body,คุณลักษณะ: ตัวเบา
+SlgTechName_琅琊剑阁_特征1,Trait: Critical Critical,คุณลักษณะ: ถึงฆาตโจมตี
+SlgTechName_琅琊剑阁_特征2,Trait: Sword Defense Increases Damage,คุณลักษณะ: กระบี่ป้องกันเพิ่มความเสียหาย
+SlgTechName_琅琊剑阁_特征3,Trait: Sword Intent,คุณลักษณะ: แก่นแท้แห่งกระบี่
+SlgTechName_琅琊剑阁_特征4,Trait: Damage Enhancement,คุณลักษณะ: เสริมความเสียหาย
+SlgTechName_琅琊剑阁_特征5,Trait: Precision,คุณลักษณะ: แม่นยำ
+SlgTechName_琅琊剑阁_特征6,Trait: Critical Boost,คุณลักษณะ: คริติคอลเพิ่มขึ้น
+SlgTechName_琅琊剑阁_特征7,Trait: Sword Boost,คุณลักษณะ: เสริมพลังกระบี่
+SlgTechName_摸金门_特征1,Trait: Lost in Dream,คุณลักษณะ: ตกอยู่ในภวังค์
+SlgTechName_摸金门_特征2,Trait: Hidden Blade,คุณลักษณะ: หลอมทองซ่อนคม
+SlgTechName_摸金门_特征3,Trait: Fast Response,คุณลักษณะ: ปฏิกิริยาว่องไว
+SlgTechName_摸金门_特征4,Trait: Strong Body and Muscles,คุณลักษณะ: ร่างแกร่ง
+SlgTechName_摸金门_特征5,Trait: Armor Blessing,คุณลักษณะ: เสริมเกราะ
+SlgTechName_摸金门_特征6,Trait: Iron Body,คุณลักษณะ: กายาเหล็กไหล
+SlgTechName_摸金门_特征7,Trait: Hardened,คุณลักษณะ: ทนทาน
+SlgTechName_青风寨_特征1,Trait: Critical Damage,คุณลักษณะ: ความเสียหายคริติคอล
+SlgTechName_青风寨_特征2,Trait: Critical Critical,คุณลักษณะ: ถึงฆาตโจมตี
+SlgTechName_青风寨_特征3,Trait: Brave Charge,คุณลักษณะ: ทะลวงห้าวหาญ
+SlgTechName_青风寨_特征4,Trait: Damage Enhancement,คุณลักษณะ: เสริมความเสียหาย
+SlgTechName_青风寨_特征5,Trait: Critical Enhancement,คุณลักษณะ: เสริมคริติคอล
+SlgTechName_青风寨_特征6,Trait: Attack Boost,คุณลักษณะ: เพิ่มพลังโจมตี
+SlgTechName_青风寨_特征7,Trait: Stalwart,คุณลักษณะ: กำยำ
+SlgTechName_叶家军_特征1,Trait: Coordinated Defense,คุณลักษณะ: ร่วมใจพิทักษ์
+SlgTechName_叶家军_特征2,Trait: Enemy Chasing,คุณลักษณะ: ไล่ล่าศัตรู
+SlgTechName_叶家军_特征3,Trait: Weapon Blessing,คุณลักษณะ: เสริมพลังอาวุธ
+SlgTechName_叶家军_特征4,Trait: Armor Blessing,คุณลักษณะ: เสริมเกราะ
+SlgTechName_叶家军_特征5,Trait: Damage Enhancement,คุณลักษณะ: เสริมความเสียหาย
+SlgTechName_叶家军_特征6,Trait: Parry Boost,คุณลักษณะ: เสริมการปัดป้อง
+SlgTechName_叶家军_特征7,Trait: Critical Boost,คุณลักษณะ: คริติคอลเพิ่มขึ้น
+SlgTechName_冷皮帮_特征1,Trait: Preeminent,คุณลักษณะ: โด่งดัง
+SlgTechName_冷皮帮_特征2,Trait: Windwalker,คุณลักษณะ: ล่องเวหา
+SlgTechName_冷皮帮_特征3,Trait: Damage Enhancement,คุณลักษณะ: เสริมความเสียหาย
+SlgTechName_冷皮帮_特征4,Trait: Combo Enhancement,คุณลักษณะ: เสริมโจมตีต่อเนื่อง
+SlgTechName_冷皮帮_特征5,Trait: Critical Enhancement,คุณลักษณะ: เสริมคริติคอล
+SlgTechName_冷皮帮_特征6,Trait: Attack Boost,คุณลักษณะ: เพิ่มพลังโจมตี
+SlgTechName_冷皮帮_特征7,Trait: Stalwart,คุณลักษณะ: กำยำ
+SlgTechName_圣火宗_特征1,Trait: Spirit of Steel,คุณลักษณะ: จิตวิญญาณเหล็กกล้า
+SlgTechName_圣火宗_特征2,Trait: Heart of Defender,คุณลักษณะ: จิตใจมุ่งมั่น
+SlgTechName_圣火宗_特征3,Trait: Divine Flame Protection,คุณลักษณะ: เพลิงศักดิ์สิทธิ์คุ้มกาย
+SlgTechName_圣火宗_特征4,Trait: Armor Blessing,คุณลักษณะ: เสริมเกราะ
+SlgTechName_圣火宗_特征5,Trait: Strong Body and Muscles,คุณลักษณะ: ร่างแกร่ง
+SlgTechName_圣火宗_特征6,Trait: Light Body,คุณลักษณะ: ตัวเบา
+SlgTechName_圣火宗_特征7,Trait: Hardened,คุณลักษณะ: ทนทาน
+SlgTechName_通用_武功实战经验提升1,Martial Arts EXP Increase 1,ค่าประสบการณ์ยุทธ์เพิ่มขึ้น 1
+SlgTechName_通用_武功实战经验提升2,Martial Arts EXP Increase 2,ค่าประสบการณ์ยุทธ์เพิ่มขึ้น 2
+SlgTechName_通用_武功实战经验提升3,Martial Arts EXP Increase 3,ค่าประสบการณ์ยุทธ์เพิ่มขึ้น 3
+SlgTechInfo_通用_快速战斗,Unlock Quick Battle feature.,ปลดล็อก ต่อสู้แบบด่วน
+SlgTechInfo_释法寺_解锁dlc连环掌,Allow Sect Disciple to comprehend martial arts:,อนุญาตให้ศิษย์สำนักเรียนรู้วรยุทธ์:
+SlgTechInfo_释法寺_解锁dlc罗汉拳法,Unlock martial arts for Sect: Arhat Fist.,ปลดล็อกวรยุทธ์สำหรับสำนัก: หมัดอรหันต์
+SlgTechInfo_释法寺_解锁dlc普渡杖法,Unlock martial arts for Sect: Enlighten Staff.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ไม้เท้ารู้แจ้ง
+SlgTechInfo_释法寺_解锁dlc韦陀杖法,Unlock martial arts for Sect: Veda Staff.,ปลดล็อกวรยุทธ์สำหรับสำนัก: พลองพระเวท
+SlgTechInfo_释法寺_解锁dlc般若掌,Unlock martial arts for Sect: Prajna Palm.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ฝ่ามือปัญญา
+SlgTechInfo_释法寺_解锁dlc大力金刚掌,Unlock martial arts for Sect: Powerful Diamond Palm.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ฝ่ามือวชิระ
+SlgTechInfo_释法寺_解锁dlc金刚降魔杵,Unlock martial arts for Sect: Evil Destroyer Diamond Staff.,ปลดล็อกวรยุทธ์สำหรับสำนัก: พลองวชิระสยบมาร
+SlgTechInfo_释法寺_解锁dlc紧那罗王棍,Unlock martial arts for Sect: Kinnara Staff.,ปลดล็อกวรยุทธ์สำหรับสำนัก: พลองราชากินนร
+SlgTechInfo_释法寺_解锁dlc如来神掌,Unlock martial arts for Sect: Vairocana Godly Palm.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ฝ่ามือยูไล
+SlgTechInfo_释法寺_解锁dlc达摩杖法,Unlock martial arts for Sect: Dharma Staff.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ไม้เท้าโพธิธรรม
+SlgTechInfo_释法寺_解锁dlc金钟罩,Unlock martial arts for Sect: Golden Bell Technique.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ระฆังทองคุ้มกาย
+SlgTechInfo_释法寺_解锁dlc横练金身,Unlock martial arts for Sect: Forging Golden Body.,ปลดล็อกวรยุทธ์สำหรับสำนัก: กายาวัชระทองคำ
+SlgTechInfo_释法寺_解锁dlc大日如来经,Unlock martial arts for Sect: Vairocana Solar Sutra.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ไวโรจนะมหาสูตร
+SlgTechInfo_儒圣馆_解锁dlc一指禅,Unlock martial arts for Sect: Zen Finger.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ฌานหนึ่งดรรชนี
+SlgTechInfo_儒圣馆_解锁dlc龙蛇笔法,Unlock martial arts for Sect: Dragon Snake Pen.,ปลดล็อกวรยุทธ์สำหรับสำนัก: พู่กันงูมังกรร่ายรำ
+SlgTechInfo_儒圣馆_解锁dlc流云飞扇,Unlock martial arts for Sect: Drifting Cloud Fan.,ปลดล็อกวรยุทธ์สำหรับสำนัก: พัดเมฆาล่องลอย
+SlgTechInfo_儒圣馆_解锁dlc泛沧浪,Unlock martial arts for Sect: Floating Blue.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เกลียวคลื่น
+SlgTechInfo_儒圣馆_解锁dlc通天手,Unlock martial arts for Sect: Omnipotent Hand.,ปลดล็อกวรยุทธ์สำหรับสำนัก: หัตถ์ทงเทียน
+SlgTechInfo_儒圣馆_解锁dlc曹全碑,Unlock martial arts for Sect: Cao Quan Steele.,ปลดล็อกวรยุทธ์สำหรับสำนัก: จารึกเฉาฉวน
+SlgTechInfo_儒圣馆_解锁dlc逍遥游,Unlock martial arts for Sect: Carefree Life.,ปลดล็อกวรยุทธ์สำหรับสำนัก: อิสระจร
+SlgTechInfo_儒圣馆_解锁dlc高山流水,Unlock martial arts for Sect: Mountain and River.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เขาสูงธารน้ำไหล
+SlgTechInfo_儒圣馆_解锁dlc灭天掌,Unlock martial arts for Sect: Sky Destroyer Palm.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ฝ่ามือทลายสวรรค์
+SlgTechInfo_儒圣馆_解锁dlc江山多娇,Unlock martial arts for Sect: Country Full of Beauties.,ปลดล็อกวรยุทธ์สำหรับสำนัก: แผ่นดินที่งดงาม
+SlgTechInfo_儒圣馆_解锁dlc扇舞春秋,Unlock martial arts for Sect: Spring and Autumn Fan.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ระบำพัดสารทวสันต์
+SlgTechInfo_儒圣馆_解锁dlc广陵散,Unlock martial arts for Sect: Guangling Melody.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ลำนำแห่งกว่างหลิง
+SlgTechInfo_儒圣馆_解锁dlc儒雅风流,Unlock martial arts for Sect: Elegant Romanticist.,ปลดล็อกวรยุทธ์สำหรับสำนัก: หรูหราสง่างาม
+SlgTechInfo_儒圣馆_解锁dlc盛世春秋,Unlock martial arts for Sect: Glorious Era.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ยุคทองอันเจิดจรัส
+SlgTechInfo_儒圣馆_解锁dlc儒十三经,Unlock martial arts for Sect: Confucius Thirteen Sutras.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ขงจื้อสิบสามคัมภีร์
+SlgTechInfo_道玄宗_解锁dlc太乙剑法,Unlock martial arts for Sect: Taiyi Sword.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เพลงกระบี่ไทยี่
+SlgTechInfo_道玄宗_解锁dlc须弥剑法,Unlock martial arts for Sect: Sumeru Sword.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เพลงกระบี่เขาพระสุเมรุ
+SlgTechInfo_道玄宗_解锁dlc七巧如意手,Unlock martial arts for Sect: Dexterous Hand.,ปลดล็อกวรยุทธ์สำหรับสำนัก: หัตถ์เจ็ดปรารถนา
+SlgTechInfo_道玄宗_解锁dlc逍遥拳法,Unlock martial arts for Sect: Carefree Fist.,ปลดล็อกวรยุทธ์สำหรับสำนัก: หมัดสราญรมย์
+SlgTechInfo_道玄宗_解锁dlc太极剑法,Unlock martial arts for the sect: Taichi Sword.,ปลดล็อกวรยุทธ์สำหรับสำนัก: กระบี่ไทเก๊ก
+SlgTechInfo_道玄宗_解锁dlc岁寒三友,Unlock martial arts for the sect: Three Friends of Winter.,ปลดล็อกวรยุทธ์สำหรับสำนัก: สามสหายเหมันต์
+SlgTechInfo_道玄宗_解锁dlc醉仙拳,Unlock martial arts for the sect: Wine God Fist.,ปลดล็อกวรยุทธ์สำหรับสำนัก: หมัดเซียนเมามาย
+SlgTechInfo_道玄宗_解锁dlc太极拳,Unlock martial arts for the sect: Taichi Fist.,ปลดล็อกวรยุทธ์สำหรับสำนัก: หมัดไทเก๊ก
+SlgTechInfo_道玄宗_解锁dlc无极剑法,Unlock martial arts for the sect: Infinity Sword.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เพลงกระบี่ไร้ขอบเขต
+SlgTechInfo_道玄宗_解锁dlc贯云指,Unlock martial arts for the sect: Cloud Piercing Finger.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ดรรชนีทะลวงเมฆา
+SlgTechInfo_道玄宗_解锁dlc凌波诀,Unlock martial arts for the sect: Wave Rider Technique.,ปลดล็อกวรยุทธ์สำหรับสำนัก: วิชาทะยานคลื่น
+SlgTechInfo_道玄宗_解锁dlc太极玄,Unlock martial arts for the sect: Nether Taichi.,ปลดล็อกวรยุทธ์สำหรับสำนัก: พลังเทพไท้เก๊ก
+SlgTechInfo_道玄宗_解锁dlc无极混元功,Unlock martial arts for the sect: Infinity Origin Move.,ปลดล็อกวรยุทธ์สำหรับสำนัก: พลังรวมศูนย์ไร้สิ้นสุด
+SlgTechInfo_九流门_解锁dlc黑虎拳,Unlock martial arts for the sect: Black Tiger Fist.,ปลดล็อกวรยุทธ์สำหรับสำนัก: หมัดพยัคฆ์ทมิฬ
+SlgTechInfo_九流门_解锁dlc雷云掌,Unlock martial arts for the sect: Thundercloud Palm.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ฝ่ามือเมฆาอัสนี
+SlgTechInfo_九流门_解锁dlc伤情别离掌,Unlock martial arts for the sect: Breakup Palm.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ฝ่ามือกำสรด
+SlgTechInfo_九流门_解锁dlc断魂爪,Unlock martial arts for the sect: Soul Destroyer Claw.,ปลดล็อกวรยุทธ์สำหรับสำนัก: กรงเล็บสะบั้นวิญญาณ
+SlgTechInfo_九流门_解锁dlc撼天指法,Unlock martial arts for the sect: Heaven Shaking Finger.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ดรรชนีสะเทือนฟ้า
+SlgTechInfo_九流门_解锁dlc玄煞劲,Unlock martial arts for the sect: Nether Killing Force.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ปราณปรโลกสังหาร
+SlgTechInfo_九流门_解锁dlc玄阴诀,Unlock martial arts for the sect: Nether Yin Manual.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เคล็ดหยินเร้นลับ
+SlgTechInfo_九流门_解锁dlc天魔噬魂术,Unlock martial arts for the sect: Archdemon's Soul Eating Skill.,ปลดล็อกวรยุทธ์สำหรับสำนัก: มารฟ้ากลืนวิญญาณ
+SlgTechInfo_妙音坊_解锁dlc阳春白雪,Unlock martial arts for the sect: Spring White Snow.,ปลดล็อกวรยุทธ์สำหรับสำนัก: หิมะในฤดูใบไม้ผลิ
+SlgTechInfo_妙音坊_解锁dlc阳关三叠,Unlock martial arts for the sect: Triassis Yangguan.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ด่านหยางกวนสามท่อน
+SlgTechInfo_妙音坊_解锁dlc音波功,Unlock martial arts for the sect: Soundwave Attack.,ปลดล็อกวรยุทธ์สำหรับสำนัก: พลังคลื่นเสียง
+SlgTechInfo_妙音坊_解锁dlc汉宫秋月,Unlock martial arts for the sect: Autumn Palace Moon.,ปลดล็อกวรยุทธ์สำหรับสำนัก: พระราชวังฮั่นในคืนพระจันทร์สารท
+SlgTechInfo_妙音坊_解锁dlc蝶舞天涯,Unlock martial arts for the sect: Dancing Butterfly Over Skyline.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ระบำผีเสื้อเหนือเส้นขอบฟ้า
+SlgTechInfo_妙音坊_解锁dlc鹧鸪天,Unlock martial arts for the sect: Partridge Day.,ปลดล็อกวรยุทธ์สำหรับสำนัก: หยางกุ้ยเฟยร่ำเมรัย
+SlgTechInfo_妙音坊_解锁dlc十面埋伏,Unlock martial arts for the sect: Full Directional Ambush.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ซุ่มจู่โจมทั้งสิบทิศ
+SlgTechInfo_妙音坊_解锁dlc傲江湖,Unlock martial arts for the sect: Proud Wanderer.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เย้ยยุทธจักร
+SlgTechInfo_妙音坊_解锁dlc碧涧流泉,Unlock martial arts for the sect: Flowing Mountain Stream.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ลำธารภูเขาน้ำตก
+SlgTechInfo_妙音坊_解锁dlc凌波诀,Unlock martial arts for the sect: Wave Rider Technique.,ปลดล็อกวรยุทธ์สำหรับสำนัก: วิชาทะยานคลื่น
+SlgTechInfo_妙音坊_解锁dlc洛神步,Unlock martial arts for the sect: God Step.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ท่าเท้าเทพธิดา
+SlgTechInfo_妙音坊_解锁dlc霓裳羽衣经,Unlock martial arts for the sect: Dancing Garment Sutra.,ปลดล็อกวรยุทธ์สำหรับสำนัก: คัมภีร์อาภรณ์ร่ายรำ
+SlgTechInfo_九黎部落_解锁dlc腐尸枪法,Unlock martial arts for the sect: Rotting Spear.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เพลงหอกสลายซาก
+SlgTechInfo_九黎部落_解锁dlc暗香凌波,Unlock martial arts for the sect: Hidden Fragrance Wave.,ปลดล็อกวรยุทธ์สำหรับสำนัก: คลื่นซ่อนหอม
+SlgTechInfo_九黎部落_解锁dlc黄泉引路枪,Unlock martial arts for the sect: Death Bringer Spear.,ปลดล็อกวรยุทธ์สำหรับสำนัก: หอกเบิกทางยมโลก
+SlgTechInfo_九黎部落_解锁dlc梅花三弄,Unlock martial arts for the sect: Plum Flower Three Lanes.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ตำนานรักดอกเหมย
+SlgTechInfo_九黎部落_解锁dlc九黎巫叉,Unlock martial arts for the sect: Jiuli Trident.,ปลดล็อกวรยุทธ์สำหรับสำนัก: หอกตรีศูลจิ่วลี่
+SlgTechInfo_九黎部落_解锁dlc万蛊谣,Unlock martial arts for the sect: Ancient Song.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ลือเรื่องหมื่นพิษ
+SlgTechInfo_九黎部落_解锁dlc腐毒功,Unlock martial arts for the sect: Poison Technique.,ปลดล็อกวรยุทธ์สำหรับสำนัก: วิชาพิษกัดกร่อน
+SlgTechInfo_九黎部落_解锁dlc罗刹毒经,Unlock martial arts for the sect: Raksha Poison Sutra.,ปลดล็อกวรยุทธ์สำหรับสำนัก: รากษกพิษยสูตร
+SlgTechInfo_九黎部落_解锁dlc巫蛊毒功,Unlock martial arts for the sect: Ancient Sage Poison Technique.,ปลดล็อกวรยุทธ์สำหรับสำนัก: มนตร์พิษโบราณ
+SlgTechInfo_九江水寨_解锁dlc开山刀法,Unlock martial arts for the sect: Mountain Clear Blade.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ดาบสะบั้นภูผา
+SlgTechInfo_九江水寨_解锁dlc疾风刺,Unlock martial arts for the sect: Wind Stab.,ปลดล็อกวรยุทธ์สำหรับสำนัก: แทงวายุกระโชก
+SlgTechInfo_九江水寨_解锁dlc狂风扇诀,Unlock martial arts for the sect: Tornado Fan.,ปลดล็อกวรยุทธ์สำหรับสำนัก: พัดวายุคลั่ง
+SlgTechInfo_九江水寨_解锁dlc怒流刀法,Unlock martial arts for the sect: Furious Blade.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ดาบพายุคลั่ง
+SlgTechInfo_九江水寨_解锁dlc银蛇流光,Unlock martial arts for the sect: Silver Snake Mirage.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เงาคลื่นอสรพิษเกล็ดเงิน
+SlgTechInfo_九江水寨_解锁dlc风卷残云式,Unlock martial arts for the sect: Storming Cloud Fan.,ปลดล็อกวรยุทธ์สำหรับสำนัก: พายุพัดเมฆากระหน่ำ
+SlgTechInfo_九江水寨_解锁dlc吞鲸刀法,Unlock martial arts for the sect: Devouring Blade.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ดาบกลืนกิน
+SlgTechInfo_九江水寨_解锁dlc天外流星,Unlock martial arts for the sect: Shooting Star.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ดาวตกนอกฟ้า
+SlgTechInfo_九江水寨_解锁dlc蝶恋花,Unlock martial arts for the sect: Flirting Butterfly.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ผีเสื้อเหย้าบุปผา
+SlgTechInfo_九江水寨_解锁dlc凌波诀,Unlock martial arts for the sect: Wave Rider Technique.,ปลดล็อกวรยุทธ์สำหรับสำนัก: วิชาทะยานคลื่น
+SlgTechInfo_九江水寨_解锁dlc海纳百川,Unlock martial arts for the sect: Great Ocean Manual.,ปลดล็อกวรยุทธ์สำหรับสำนัก: พลังรวมสมุทร
+SlgTechInfo_九江水寨_解锁dlc惊涛骇浪诀,Unlock martial arts for the sect: Tsunami Manual.,ปลดล็อกวรยุทธ์สำหรับสำนัก: คลื่นพายุกระหน่ำ
+SlgTechInfo_本草门_解锁dlc浣纱剑法,Unlock martial arts for the sect: Huansha Sword.,ปลดล็อกวรยุทธ์สำหรับสำนัก: กระบี่ล่าสังหาร
+SlgTechInfo_本草门_解锁dlc莲花妙剑,Unlock martial arts for the sect: Lotus Flower Sword.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เพลงกระบี่ดอกบัว
+SlgTechInfo_本草门_解锁dlc素女剑法,Unlock martial arts for the sect: Pure Maiden Sword.,ปลดล็อกวรยุทธ์สำหรับสำนัก: กระบี่ดรุณีใจสงบ
+SlgTechInfo_本草门_解锁dlc凌尘剑法,Unlock martial arts for the sect: Mortal Sword.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เพลงกระบี่ธุลีดิน
+SlgTechInfo_本草门_解锁dlc金匮要略,Unlock martial arts for the sect: Golden Manual.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ตำรายาห้องทอง
+SlgTechInfo_本草门_解锁dlc四圣心源,Unlock martial arts for the sect: Four Saints Origin.,ปลดล็อกวรยุทธ์สำหรับสำนัก: สี่หัวใจศักดิ์สิทธิ์
+SlgTechInfo_万兽山庄_解锁dlc蟠龙棍法,Unlock martial arts for the sect: Dragon Staff.,ปลดล็อกวรยุทธ์สำหรับสำนัก: พลองมังกร
+SlgTechInfo_万兽山庄_解锁dlc太乙剑法,Unlock martial arts for Sect: Taiyi Sword.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เพลงกระบี่ไทยี่
+SlgTechInfo_万兽山庄_解锁dlc云林棍法,Unlock martial arts for the sect: Cloud Forest Staff.,ปลดล็อกวรยุทธ์สำหรับสำนัก: พลองป่าเมฆา
+SlgTechInfo_万兽山庄_解锁dlc太虚十八剑,Unlock martial arts for the sect: Taixu Eighteen Swords.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ไท่ซวีสิบแปดกระบี่
+SlgTechInfo_万兽山庄_解锁dlc天罡飞龙杖,Unlock martial arts for the sect: Polaris Wyvern Staff.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ไม้เท้ามังกรสวรรค์
+SlgTechInfo_万兽山庄_解锁dlc浮华掠影剑,Unlock martial arts for the sect: Illusion Sword.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เพลงกระบี่มายาลวง
+SlgTechInfo_万兽山庄_解锁dlc御兽术,Unlock martial arts for the sect: Beast Taming Skill.,ปลดล็อกวรยุทธ์สำหรับสำนัก: วิชาฝึกสัตว์
+SlgTechInfo_万兽山庄_解锁dlc兽吼功,Unlock martial arts for the sect: Beast Howling Move.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ราชสีห์คำราม
+SlgTechInfo_万兽山庄_解锁dlc兽王诀,Unlock martial arts for the sect: Beast King Technique.,ปลดล็อกวรยุทธ์สำหรับสำนัก: วิชาราชาสัตว์ร้าย
+SlgTechInfo_燕子窝_解锁dlc破空梭,Unlock martial arts for the sect: Wind Breaker.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ผ่าวายุ
+SlgTechInfo_燕子窝_解锁dlc疾风刺,Unlock martial arts for the sect: Wind Stab.,ปลดล็อกวรยุทธ์สำหรับสำนัก: แทงวายุกระโชก
+SlgTechInfo_燕子窝_解锁dlc风雷刺法,Unlock martial arts for the sect: Thunderstorm Strike.,ปลดล็อกวรยุทธ์สำหรับสำนัก: แทงวายุพิฆาตอัสนี
+SlgTechInfo_燕子窝_解锁dlc云龙三现,Unlock martial arts for the sect: Cloud Dragon Three Strikes.,ปลดล็อกวรยุทธ์สำหรับสำนัก: สามมังกรเมฆาจู่โจม
+SlgTechInfo_燕子窝_解锁dlc刺秦要诀,Unlock martial arts for the sect: Killer's Secret.,ปลดล็อกวรยุทธ์สำหรับสำนัก: คัมภีร์ลับสังหารฉิน
+SlgTechInfo_燕子窝_解锁dlc捕风诀,Unlock martial arts for the sect: Wind Walker Manual.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เคล็ดวิชาเหยียบวายุ
+SlgTechInfo_燕子窝_解锁dlc凌云步,Unlock martial arts for the sect: Cloud Walker Step.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ทะยานบันไดเมฆา
+SlgTechInfo_燕子窝_解锁dlc天女散花,Unlock martial arts for the sect: Celestial Lady Scattering Flowers.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เทพธิดาโปรยบุปผา
+SlgTechInfo_神捕门_解锁dlc须弥剑法,Unlock martial arts for Sect: Sumeru Sword.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เพลงกระบี่เขาพระสุเมรุ
+SlgTechInfo_神捕门_解锁dlc风沙刀法,Unlock martial arts for the sect: Sandstorm Blade.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ดาบพายุทราย
+SlgTechInfo_神捕门_解锁dlc贪狼剑法,Unlock martial arts for the sect: Flirting Star Sword.,ปลดล็อกวรยุทธ์สำหรับสำนัก: กระบี่หยอกดารา
+SlgTechInfo_神捕门_解锁dlc盘空刀法,Unlock martial arts for the sect: Empty Blade.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ดาบเวียนนภา
+SlgTechInfo_神捕门_解锁dlc磐龙剑法,Unlock martial arts for the sect: Dragon Sword.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เพลงกระบี่มังกร
+SlgTechInfo_神捕门_解锁dlc天魔刀法,Unlock martial arts for the sect: Archdemon Blade.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ดาบมารสวรรค์
+SlgTechInfo_神捕门_解锁dlc莽牛劲,Unlock martial arts for the sect: Ox Power.,ปลดล็อกวรยุทธ์สำหรับสำนัก: พลังวัวคลั่ง
+SlgTechInfo_神捕门_解锁dlc纯阳功,Unlock martial arts for the sect: Pure Yang Skill.,ปลดล็อกวรยุทธ์สำหรับสำนัก: พลังหยางบริสุทธิ์
+SlgTechInfo_神捕门_解锁dlc祈禳大法,Unlock martial arts for the sect: Prayer Manual.,ปลดล็อกวรยุทธ์สำหรับสำนัก: คัมภีร์ภาวนา
+SlgTechInfo_虎威镖局_解锁dlc破甲刀法,Unlock martial arts for the sect: Armor Breaker Blade.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ดาบผ่าเกราะ
+SlgTechInfo_虎威镖局_解锁dlc雁行刀法,Unlock martial arts for the sect: Wild Goose Blade.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ดาบห่านป่า
+SlgTechInfo_虎威镖局_解锁dlc霹雳刀法,Unlock martial arts for the sect: Thunder Blade.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ดาบอัสนี
+SlgTechInfo_虎威镖局_解锁dlc一刀斩,Unlock martial arts for the sect: One Blade.,ปลดล็อกวรยุทธ์สำหรับสำนัก: พิฆาตในดาบเดียว
+SlgTechInfo_虎威镖局_解锁dlc破甲劲,Unlock martial arts for the sect: Armor Breaker Move.,ปลดล็อกวรยุทธ์สำหรับสำนัก: วิชาทลายเกราะ
+SlgTechInfo_虎威镖局_解锁dlc五禽戏,Unlock martial arts for the sect: Five Animal Forms.,ปลดล็อกวรยุทธ์สำหรับสำนัก: กายบริหารห้าสัตว์
+SlgTechInfo_夜摩坊_解锁dlc游龙剑法,Unlock martial arts for the sect: Dragon Roaming Sword.,ปลดล็อกวรยุทธ์สำหรับสำนัก: กระบี่มังกรร่ายรำ
+SlgTechInfo_夜摩坊_解锁dlc九宫剑法,Unlock martial arts for the sect: Nine Diagrams Sword.,ปลดล็อกวรยุทธ์สำหรับสำนัก: กระบี่เก้าลักษณ์
+SlgTechInfo_夜摩坊_解锁dlc星月剑法,Unlock martial arts for the sect: Moon Star Sword.,ปลดล็อกวรยุทธ์สำหรับสำนัก: กระบี่จันทร์ดารา
+SlgTechInfo_夜摩坊_解锁dlc忘忧剑法,Unlock martial arts for the sect: Forgotten Sword.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เพลงกระบี่ลืมทุกข์
+SlgTechInfo_夜摩坊_解锁dlc调息法,Unlock martial arts for the sect: Breathing Technique.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เคล็ดปรับลมหายใจ
+SlgTechInfo_夜摩坊_解锁dlc天星诀,Unlock martial arts for the sect: Celestial Star Manual.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เคล็ดวิชาดาวสวรรค์
+SlgTechInfo_琅琊剑阁_解锁dlc回风剑法,Unlock martial arts for the sect: Wind Reversal Sword.,ปลดล็อกวรยุทธ์สำหรับสำนัก: กระบี่ลมหวน
+SlgTechInfo_琅琊剑阁_解锁dlc九宫剑法,Unlock martial arts for the sect: Nine Diagrams Sword.,ปลดล็อกวรยุทธ์สำหรับสำนัก: กระบี่เก้าลักษณ์
+SlgTechInfo_琅琊剑阁_解锁dlc苍穹剑法,Unlock martial arts for the sect: Heaven Sword.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เพลงกระบี่ฟ้ากว้าง
+SlgTechInfo_琅琊剑阁_解锁dlc求败九式,Unlock martial arts for the sect: Dugu Nine Swords.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เก้ากระบี่เดียวดาย
+SlgTechInfo_琅琊剑阁_解锁dlc破天剑法,Unlock martial arts for the sect: Sky Breaker Sword.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เพลงกระบี่ทลายฟ้า
+SlgTechInfo_琅琊剑阁_解锁dlc剑法典籍,Unlock martial arts for the sect: Sword Mastery.,ปลดล็อกวรยุทธ์สำหรับสำนัก: วิชากระบี่พื้นฐาน
+SlgTechInfo_琅琊剑阁_解锁dlc藏剑秘卷,Unlock martial arts for the sect: Hidden Sword Secret Manual.,ปลดล็อกวรยุทธ์สำหรับสำนัก: คัมภีร์ลับกระบี่ซ่อน
+SlgTechInfo_琅琊剑阁_解锁dlc九霄真经,Unlock martial arts for the sect: Heaven Sutra.,ปลดล็อกวรยุทธ์สำหรับสำนัก: คัมภีร์เก้าชั้นฟ้า
+SlgTechInfo_摸金门_解锁dlc蟠龙棍法,Unlock martial arts for the sect: Dragon Staff.,ปลดล็อกวรยุทธ์สำหรับสำนัก: พลองมังกร
+SlgTechInfo_摸金门_解锁dlc大力棍法,Unlock martial arts for the sect: Brutal Staff.,ปลดล็อกวรยุทธ์สำหรับสำนัก: กระบองพิฆาต
+SlgTechInfo_摸金门_解锁dlc疯魔棍法,Unlock martial arts for the sect: Insanity Staff.,ปลดล็อกวรยุทธ์สำหรับสำนัก: พลองมารคลั่ง
+SlgTechInfo_摸金门_解锁dlc混元棍法,Unlock martial arts for the sect: Origin Staff.,ปลดล็อกวรยุทธ์สำหรับสำนัก: พลองรวมศูนย์
+SlgTechInfo_摸金门_解锁dlc破甲劲,Unlock martial arts for the sect: Armor Breaker Move.,ปลดล็อกวรยุทธ์สำหรับสำนัก: วิชาทลายเกราะ
+SlgTechInfo_摸金门_解锁dlc寻龙术,Unlock martial arts for the sect: Dragon Seeker Manual.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ล่าหลุมฝังมังกร
+SlgTechInfo_青风寨_解锁dlc修罗刀法,Unlock martial arts for the sect: Shura Blade.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เพลงดาบอสุรา
+SlgTechInfo_青风寨_解锁dlc开山刀法,Unlock martial arts for the sect: Mountain Clear Blade.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ดาบสะบั้นภูผา
+SlgTechInfo_青风寨_解锁dlc七旋斩,Unlock martial arts for the sect: Seven Spins Blade.,ปลดล็อกวรยุทธ์สำหรับสำนัก: 7 ดาบหมุนเวียน
+SlgTechInfo_青风寨_解锁dlc碧磷刀法,Unlock martial arts for the sect: Jade Blade.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ดาบพิษมรกต
+SlgTechInfo_青风寨_解锁dlc莽牛劲,Unlock martial arts for the sect: Ox Power.,ปลดล็อกวรยุทธ์สำหรับสำนัก: พลังวัวคลั่ง
+SlgTechInfo_青风寨_解锁dlc莽苍诀,Unlock martial arts for the sect: Reckless Sky Technique.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เคล็ดฟ้าประมาท
+SlgTechInfo_叶家军_解锁dlc破阵大枪,Unlock martial arts for the sect: Formation Breaker Spear.,ปลดล็อกวรยุทธ์สำหรับสำนัก: หอกทลายทัพ
+SlgTechInfo_叶家军_解锁dlc六合枪法,Unlock martial arts for the sect: Six Forms Spear.,ปลดล็อกวรยุทธ์สำหรับสำนัก: หอกหกประสาน
+SlgTechInfo_叶家军_解锁dlc叶家枪法,Unlock martial arts for the sect: Ye Family Spear.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เพลงหอกสกุลเย่
+SlgTechInfo_叶家军_解锁dlc七杀枪法,Unlock martial arts for the sect: Power Star Spear.,ปลดล็อกวรยุทธ์สำหรับสำนัก: หอกเจ็ดพิฆาต
+SlgTechInfo_叶家军_解锁dlc沥泉枪法,Unlock martial arts for the sect: Slipstream Spear.,ปลดล็อกวรยุทธ์สำหรับสำนัก: หอกธาราหยด
+SlgTechInfo_叶家军_解锁dlc破甲劲,Unlock martial arts for the sect: Armor Breaker Move.,ปลดล็อกวรยุทธ์สำหรับสำนัก: วิชาทลายเกราะ
+SlgTechInfo_叶家军_解锁dlc武穆秘典,Unlock martial arts for the sect: Yue Fei Secret Manual.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ตำราลับงักฮุย
+SlgTechInfo_叶家军_解锁dlc满江红,Unlock martial arts for the sect: Prismatic River.,ปลดล็อกวรยุทธ์สำหรับสำนัก: แม่น้ำสีชาด
+SlgTechInfo_冷皮帮_解锁dlc修罗刀法,Unlock martial arts for the sect: Shura Blade.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เพลงดาบอสุรา
+SlgTechInfo_冷皮帮_解锁dlc迷魂毒掌,Unlock martial arts for the sect: Enchanted Poison Palm.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ฝ่ามือพิษลวงวิญญาณ
+SlgTechInfo_冷皮帮_解锁dlc破军刀法,Unlock martial arts for the sect: Ruinous Star Blade.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ดาบทลายทัพ
+SlgTechInfo_冷皮帮_解锁dlc碧落黄泉,Unlock martial arts for the sect: Death Road.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เส้นทางมรณะ
+SlgTechInfo_冷皮帮_解锁dlc斩天刀法,Unlock martial arts for the sect: Heaven Cutting Blade Technique.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เพลงดาบผ่าสวรรค์
+SlgTechInfo_冷皮帮_解锁dlc紫薇惊龙掌,Unlock martial arts for the sect: Dragon King Palm.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ฝ่ามือราชันมังกร
+SlgTechInfo_冷皮帮_解锁dlc调息法,Unlock martial arts for the sect: Breathing Technique.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เคล็ดปรับลมหายใจ
+SlgTechInfo_冷皮帮_解锁dlc五毒秘法,Unlock martial arts for the sect: Five Poisons Secret Move.,ปลดล็อกวรยุทธ์สำหรับสำนัก: วิชาลับเบญจพิษ
+SlgTechInfo_冷皮帮_解锁dlc火蟾诀,Unlock martial arts for the sect: Flame Toad Technique.,ปลดล็อกวรยุทธ์สำหรับสำนัก: พลังคางคกอัคคี
+SlgTechInfo_圣火宗_解锁dlc回风剑法,Unlock martial arts for the sect: Wind Reversal Sword.,ปลดล็อกวรยุทธ์สำหรับสำนัก: กระบี่ลมหวน
+SlgTechInfo_圣火宗_解锁dlc连环掌,Unlock martial arts for the sect: Continuous Palm.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ฝ่ามือต่อเนื่อง
+SlgTechInfo_圣火宗_解锁dlc广寒剑法,Unlock martial arts for the sect: Moon Palace Sword.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เพลงกระบี่วังจันทรา
+SlgTechInfo_圣火宗_解锁dlc破空拳,Unlock martial arts for the sect: Breakthrough Fist.,ปลดล็อกวรยุทธ์สำหรับสำนัก: หมัดทลายนภา
+SlgTechInfo_圣火宗_解锁dlc无锋剑法,Unlock martial arts for the sect: Windless Sword.,ปลดล็อกวรยุทธ์สำหรับสำนัก: เพลงกระบี่ไร้คม
+SlgTechInfo_圣火宗_解锁dlc烈阳拳,Unlock martial arts for the sect: Solar Fist.,ปลดล็อกวรยุทธ์สำหรับสำนัก: หมัดสุรีย์ผลาญ
+SlgTechInfo_圣火宗_解锁dlc混元劲,Unlock martial arts for the sect: Origin Technique.,ปลดล็อกวรยุทธ์สำหรับสำนัก: พลังต้นกำเนิด
+SlgTechInfo_圣火宗_解锁dlc圣火燎原,Unlock martial arts for the sect: Holy Flame Spreading.,ปลดล็อกวรยุทธ์สำหรับสำนัก: ประกายเพลิงศักดิ์สิทธิ์
+SlgTechInfo_圣火宗_解锁dlc圣火神功,Unlock martial arts for the sect: Holy Fire Divine Skill.,ปลดล็อกวรยุทธ์สำหรับสำนัก: พลังเพลิงศักดิ์สิทธิ์
+SlgTechInfo_儒圣馆_特征1,Unlock traits for the sect: 2 Instant death.,ปลดล็อกทักษะพิเศษของสำนัก: สังหารทันที 2
+SlgTechInfo_儒圣馆_特征2,Unlock traits for the sect: 2 Critical damage.,ปลดล็อกทักษะพิเศษของสำนัก: ความเสียหายคริติคอล 2
+SlgTechInfo_儒圣馆_特征3,Unlock traits for the sect: 3 Ruthless Hands.,ปลดล็อกทักษะพิเศษของสำนัก: หัตถ์ไร้ปรานี 3
+SlgTechInfo_儒圣馆_特征4,Unlock traits for the sect: 3 Cloud Breaking Power.,ปลดล็อกทักษะพิเศษของสำนัก: พลังทลายเมฆา 3
+SlgTechInfo_儒圣馆_特征5,Unlock traits for the sect: 3 Weapon Blessing.,ปลดล็อกทักษะพิเศษของสำนัก: เสริมพลังอาวุธ 3
+SlgTechInfo_儒圣馆_特征6,Unlock traits for the sect: 4 Damage Boost.,ปลดล็อกทักษะพิเศษของสำนัก: ความเสียหายเพิ่มขึ้น 4
+SlgTechInfo_儒圣馆_特征7,Unlock traits for the sect: 4 Stalwart.,ปลดล็อกทักษะพิเศษของสำนัก: กำยำ 4
+SlgTechInfo_道玄宗_特征1,Unlock feature for the sect: Chasing Enemy 2.,ปลดล็อกทักษะพิเศษของสำนัก: ไล่ล่าศัตรู 2
+SlgTechInfo_道玄宗_特征2,Unlock feature for the sect: Survival in Adversity 2.,ปลดล็อกทักษะพิเศษของสำนัก: รอดเฉียดตาย 2
+SlgTechInfo_道玄宗_特征3,Unlock feature for the sect: Light as a Feather 3.,ปลดล็อกทักษะพิเศษของสำนัก: เบาดุจขนนก 3
+SlgTechInfo_道玄宗_特征4,Unlock feature for the sect: Fast Response 3.,ปลดล็อกทักษะพิเศษของสำนัก: ตอบสนองว่องไว 3
+SlgTechInfo_道玄宗_特征5,Unlock feature for the sect: Brave Charge 3.,ปลดล็อกทักษะพิเศษของสำนัก: ทะลวงห้าวหาญ 3
+SlgTechInfo_道玄宗_特征6,Unlock feature for the sect: Light Body 4.,ปลดล็อกทักษะพิเศษของสำนัก: ตัวเบา 4
+SlgTechInfo_道玄宗_特征7,Unlock feature for the sect: Shadow Following 4.,ปลดล็อกทักษะพิเศษของสำนัก: เงาตามติด 4
+SlgTechInfo_释法寺_特征1,Unlock feature for the sect: Damage Reflect 2.,ปลดล็อกทักษะพิเศษของสำนัก: สะท้อนความเสียหาย 2
+SlgTechInfo_释法寺_特征2,Unlock feature for the sect: Wall of Steel 2.,ปลดล็อกทักษะพิเศษของสำนัก: กำแพงเหล็กกล้า 2
+SlgTechInfo_释法寺_特征3,Unlock feature for the sect: Clear Mind and Few Desires 3.,ปลดล็อกทักษะพิเศษของสำนัก: ไร้ปรารถนา 3
+SlgTechInfo_释法寺_特征4,Unlock feature for the sect: Strong and Healthy Body 3.,ปลดล็อกทักษะพิเศษของสำนัก: ร่างแกร่ง 3
+SlgTechInfo_释法寺_特征5,Unlock feature for the sect: Armor Blessing 3.,ปลดล็อกทักษะพิเศษของสำนัก: เสริมเกราะ 3
+SlgTechInfo_释法寺_特征6,Unlock feature for the sect: Copper Body and Iron Bones 4.,ปลดล็อกทักษะพิเศษของสำนัก: กายาเหล็กไหล 4
+SlgTechInfo_释法寺_特征7,Unlock feature for the sect: Hardened 4.,ปลดล็อกทักษะพิเศษของสำนัก: ทนทาน 4
+SlgTechInfo_九流门_特征1,Unlock feature for the sect: Survival from Desperation 2.,ปลดล็อกทักษะพิเศษของสำนัก: รอดจากหายนะ 2
+SlgTechInfo_九流门_特征2,Unlock feature for the sect: Continuous Assault 2.,ปลดล็อกทักษะพิเศษของสำนัก: จู่โจมต่อเนื่อง 2
+SlgTechInfo_九流门_特征3,Unlock feature for the sect: Tactical Strategist 3.,ปลดล็อกทักษะพิเศษของสำนัก: วางกลยุทธ์ 3
+SlgTechInfo_九流门_特征4,Unlock feature for the sect: Enemy Damage Recovery 3.,ปลดล็อกทักษะพิเศษของสำนัก: ฟื้นฟูจากศัตรู 3
+SlgTechInfo_九流门_特征5,Unlock feature for the sect: MP Conservation 3.,ปลดล็อกทักษะพิเศษของสำนัก: ควบคุมลมปราณ 3
+SlgTechInfo_九流门_特征6,Unlock feature for the sect: HP Increase 4.,ปลดล็อกทักษะพิเศษของสำนัก: HP เพิ่มขึ้น 4
+SlgTechInfo_九流门_特征7,Unlock feature for the sect: Critical Increase 4.,ปลดล็อกทักษะพิเศษของสำนัก: คริติคอลเพิ่มขึ้น 4
+SlgTechInfo_妙音坊_特征1,Unlock feature for the sect: Insightful 2.,ปลดล็อกทักษะพิเศษของสำนัก: มองทะลุปรุโปร่ง 2
+SlgTechInfo_妙音坊_特征2,Unlock feature for the sect: Rapid Response 2.,ปลดล็อกทักษะพิเศษของสำนัก: ร่างดุจมารร้าย 2
+SlgTechInfo_妙音坊_特征3,Unlock feature for the sect: Aura Disturbance 3.,ปลดล็อกทักษะพิเศษของสำนัก: ค่าปราณสับสน 3
+SlgTechInfo_妙音坊_特征4,Unlock feature for the sect: Evasion Enhancement 3.,ปลดล็อกทักษะพิเศษของสำนัก: เสริมหลบหลีก 3
+SlgTechInfo_妙音坊_特征5,Unlock feature for the sect: Divine Flame Protection 3.,ปลดล็อกทักษะพิเศษของสำนัก: เพลิงศักดิ์สิทธิ์คุ้มกาย 3
+SlgTechInfo_妙音坊_特征6,Unlock feature for the sect: Critical Increase 4.,ปลดล็อกทักษะพิเศษของสำนัก: คริติคอลเพิ่มขึ้น 4
+SlgTechInfo_妙音坊_特征7,Unlock feature for the sect: Shadow Following 4.,ปลดล็อกทักษะพิเศษของสำนัก: เงาตามติด 4
+SlgTechInfo_九黎部落_特征1,Unlock feature for the sect: Martial Arts Disturbance 2.,ปลดล็อกทักษะพิเศษของสำนัก: ขัดวรยุทธ์ 2
+SlgTechInfo_九黎部落_特征2,Unlock feature for the sect: Follower's Path 2.,ปลดล็อกทักษะพิเศษของสำนัก: ใช้ประโยชน์จากสถานการณ์ 2
+SlgTechInfo_九黎部落_特征3,Unlock traits for the sect: 3 Weapon Blessing.,ปลดล็อกทักษะพิเศษของสำนัก: เสริมพลังอาวุธ 3
+SlgTechInfo_九黎部落_特征4,Unlock feature for the sect: Flute Sound Critical 3.,ปลดล็อกทักษะพิเศษของสำนัก: เสียงขลุ่ยทรงพลัง 3
+SlgTechInfo_九黎部落_特征5,Unlock feature for the sect: Spear and Stick Protection 3.,ปลดล็อกทักษะพิเศษของสำนัก: ตั้งรับหอกพลอง 3
+SlgTechInfo_九黎部落_特征6,Unlock feature for the sect: Evasion Increase 4.,ปลดล็อกทักษะพิเศษของสำนัก: เพิ่มหลบหลีก 4
+SlgTechInfo_九黎部落_特征7,Unlock traits for the sect: 4 Damage Boost.,ปลดล็อกทักษะพิเศษของสำนัก: ความเสียหายเพิ่มขึ้น 4
+SlgTechInfo_九江水寨_特征1,Unlock feature for the sect: Mark Increase Roll 2.,ปลดล็อกทักษะพิเศษของสำนัก: เสริมพลังรอยประทับ 2
+SlgTechInfo_九江水寨_特征2,Unlock feature for the sect: Mark Counter 2.,ปลดล็อกทักษะพิเศษของสำนัก: โต้ตอบรอยประทับ 2
+SlgTechInfo_九江水寨_特征3,Unlock feature for the sect: Interlocking 3.,ปลดล็อกทักษะพิเศษของสำนัก: เกี่ยวพัน 3
+SlgTechInfo_九江水寨_特征4,Unlock traits for the sect: 3 Weapon Blessing.,ปลดล็อกทักษะพิเศษของสำนัก: เสริมพลังอาวุธ 3
+SlgTechInfo_九江水寨_特征5,Unlock feature for the sect: Damage Enhancement 3.,ปลดล็อกทักษะพิเศษของสำนัก: เสริมความเสียหาย 3
+SlgTechInfo_九江水寨_特征6,Unlock feature for the sect: Critical Increase 4.,ปลดล็อกทักษะพิเศษของสำนัก: คริติคอลเพิ่มขึ้น 4
+SlgTechInfo_九江水寨_特征7,Unlock traits for the sect: 4 Damage Boost.,ปลดล็อกทักษะพิเศษของสำนัก: ความเสียหายเพิ่มขึ้น 4
+SlgTechInfo_本草门_特征1,Unlock feature for the sect: Immune Barrier 2.,ปลดล็อกทักษะพิเศษของสำนัก: เกราะต้านทาน 2
+SlgTechInfo_本草门_特征2,Unlock feature for the sect: Survival from Desperation 2.,ปลดล็อกทักษะพิเศษของสำนัก: รอดจากหายนะ 2
+SlgTechInfo_本草门_特征3,Unlock feature for the sect: HP Enhancement 3.,ปลดล็อกทักษะพิเศษของสำนัก: เพิ่ม HP 3
+SlgTechInfo_本草门_特征4,Unlock feature for the sect: Self-healing when Hit 3.,ปลดล็อกทักษะพิเศษของสำนัก: ฟื้นฟูเมื่อถูกโจมตี 3
+SlgTechInfo_本草门_特征5,Unlock feature for the sect: Emergency Self-rescue 3.,ปลดล็อกทักษะพิเศษของสำนัก: ช่วยตนฉุกเฉิน 3
+SlgTechInfo_本草门_特征6,Unlock feature for the sect: Copper Body and Iron Bones 4.,ปลดล็อกทักษะพิเศษของสำนัก: กายาเหล็กไหล 4
+SlgTechInfo_本草门_特征7,Unlock feature for the sect: Hardened 4.,ปลดล็อกทักษะพิเศษของสำนัก: ทนทาน 4
+SlgTechInfo_万兽山庄_特征1,Unlock feature for the sect: Beast Taming Ability 2.,ปลดล็อกทักษะพิเศษของสำนัก: พลังควบคุมสัตว์ 2
+SlgTechInfo_万兽山庄_特征2,Unlock feature for the sect: Beast Taming Technique 2.,ปลดล็อกทักษะพิเศษของสำนัก: วิชาฝึกสัตว์ 2
+SlgTechInfo_万兽山庄_特征3,Unlock feature for the sect: Animal Hunter 3.,ปลดล็อกทักษะพิเศษของสำนัก: พรานสัตว์ 3
+SlgTechInfo_万兽山庄_特征4,Unlock feature for the sect: HP Enhancement 3.,ปลดล็อกทักษะพิเศษของสำนัก: เพิ่ม HP 3
+SlgTechInfo_万兽山庄_特征5,Unlock feature for the sect: Armor Blessing 3.,ปลดล็อกทักษะพิเศษของสำนัก: เสริมเกราะ 3
+SlgTechInfo_万兽山庄_特征6,Unlock feature for the sect: Evasion Increase 4.,ปลดล็อกทักษะพิเศษของสำนัก: เพิ่มหลบหลีก 4
+SlgTechInfo_万兽山庄_特征7,Unlock feature for the sect: Shadow Following 4.,ปลดล็อกทักษะพิเศษของสำนัก: เงาตามติด 4
+SlgTechInfo_燕子窝_特征1,Unlock feature for the sect: Immune to Back Attack 2.,ปลดล็อกทักษะพิเศษของสำนัก: ต้านทานโจมตีด้านหลัง 2
+SlgTechInfo_燕子窝_特征2,Unlock feature for the sect: Immune to Side Attack 2.,ปลดล็อกทักษะพิเศษของสำนัก: ต้านทานโจมตีด้านข้าง 2
+SlgTechInfo_燕子窝_特征3,Unlock feature for the sect: Body like a Shadow 3.,ปลดล็อกทักษะพิเศษของสำนัก: ร่างดุจเงาไหว 3
+SlgTechInfo_燕子窝_特征4,Unlock feature for the sect: Back Attack Break 3.,ปลดล็อกทักษะพิเศษของสำนัก: โจมตีทลายด้านหลัง 3
+SlgTechInfo_燕子窝_特征5,Unlock feature for the sect: Side Attack Break 3.,ปลดล็อกทักษะพิเศษของสำนัก: โจมตีทลายด้านข้าง 3
+SlgTechInfo_燕子窝_特征6,Unlock feature for the sect: Quick Reflex 4.,ปลดล็อกทักษะพิเศษของสำนัก: โต้ตอบว่องไว 4
+SlgTechInfo_燕子窝_特征7,Unlock traits for the sect: 4 Stalwart.,ปลดล็อกทักษะพิเศษของสำนัก: กำยำ 4
+SlgTechInfo_神捕门_特征1,Unlock traits for the sect: 2 Instant death.,ปลดล็อกทักษะพิเศษของสำนัก: สังหารทันที 2
+SlgTechInfo_神捕门_特征2,Unlock traits for the sect: 2 Critical damage.,ปลดล็อกทักษะพิเศษของสำนัก: ความเสียหายคริติคอล 2
+SlgTechInfo_神捕门_特征3,Unlock feature for the sect: Divine Flame Protection 3.,ปลดล็อกทักษะพิเศษของสำนัก: เพลิงศักดิ์สิทธิ์คุ้มกาย 3
+SlgTechInfo_神捕门_特征4,Unlock traits for the sect: 3 Cloud Breaking Power.,ปลดล็อกทักษะพิเศษของสำนัก: พลังทลายเมฆา 3
+SlgTechInfo_神捕门_特征5,Unlock traits for the sect: 3 Weapon Blessing.,ปลดล็อกทักษะพิเศษของสำนัก: เสริมพลังอาวุธ 3
+SlgTechInfo_神捕门_特征6,Unlock traits for the sect: 4 Damage Boost.,ปลดล็อกทักษะพิเศษของสำนัก: ความเสียหายเพิ่มขึ้น 4
+SlgTechInfo_神捕门_特征7,Unlock feature for the sect: Critical Increase 4.,ปลดล็อกทักษะพิเศษของสำนัก: คริติคอลเพิ่มขึ้น 4
+SlgTechInfo_虎威镖局_特征1,Unlock feature for the sect: Chasing Enemy 2.,ปลดล็อกทักษะพิเศษของสำนัก: ไล่ล่าศัตรู 2
+SlgTechInfo_虎威镖局_特征2,Unlock traits for the sect: 2 Critical damage.,ปลดล็อกทักษะพิเศษของสำนัก: ความเสียหายคริติคอล 2
+SlgTechInfo_虎威镖局_特征3,Unlock feature for the sect: Armor Blessing 3.,ปลดล็อกทักษะพิเศษของสำนัก: เสริมเกราะ 3
+SlgTechInfo_虎威镖局_特征4,Unlock feature for the sect: Parry Enhancement 3.,ปลดล็อกทักษะพิเศษของสำนัก: เสริมปัดป้อง 3
+SlgTechInfo_虎威镖局_特征5,Unlock feature for the sect: Critical Enhancement 3.,ปลดล็อกทักษะพิเศษของสำนัก: เสริมคริติคอล 3
+SlgTechInfo_虎威镖局_特征6,Unlock traits for the sect: 4 Damage Boost.,ปลดล็อกทักษะพิเศษของสำนัก: ความเสียหายเพิ่มขึ้น 4
+SlgTechInfo_虎威镖局_特征7,Unlock traits for the sect: 4 Stalwart.,ปลดล็อกทักษะพิเศษของสำนัก: กำยำ 4
+SlgTechInfo_夜摩坊_特征1,Unlock feature for the sect: Immune to Control 2.,ปลดล็อกทักษะพิเศษของสำนัก: ต้านทานการควบคุม 2
+SlgTechInfo_夜摩坊_特征2,Unlock feature for the sect: Wall of Steel 2.,ปลดล็อกทักษะพิเศษของสำนัก: กำแพงเหล็กกล้า 2
+SlgTechInfo_夜摩坊_特征3,Unlock feature for the sect: MP Enhancement 3.,ปลดล็อกทักษะพิเศษของสำนัก: เสริม MP 3
+SlgTechInfo_夜摩坊_特征4,Unlock traits for the sect: 3 Cloud Breaking Power.,ปลดล็อกทักษะพิเศษของสำนัก: พลังทลายเมฆา 3
+SlgTechInfo_夜摩坊_特征5,Unlock feature for the sect: Damage Enhancement 3.,ปลดล็อกทักษะพิเศษของสำนัก: เสริมความเสียหาย 3
+SlgTechInfo_夜摩坊_特征6,Unlock traits for the sect: 4 Stalwart.,ปลดล็อกทักษะพิเศษของสำนัก: กำยำ 4
+SlgTechInfo_夜摩坊_特征7,Unlock feature for the sect: Light Body 4.,ปลดล็อกทักษะพิเศษของสำนัก: ตัวเบา 4
+SlgTechInfo_琅琊剑阁_特征1,Unlock feature for the sect: Critical Critical 2.,ปลดล็อกทักษะพิเศษของสำนัก: ถึงฆาตโจมตี
+SlgTechInfo_琅琊剑阁_特征2,Unlock feature for the sect: Sword Defense Increases Damage 2.,ปลดล็อกทักษะพิเศษของสำนัก: กระบี่ป้องกันเพิ่มความเสียหาย 2
+SlgTechInfo_琅琊剑阁_特征3,Unlock feature for the sect: Sword Intent 3.,ปลดล็อกทักษะพิเศษของสำนัก: เจตกระบี่ 3
+SlgTechInfo_琅琊剑阁_特征4,Unlock feature for the sect: Damage Enhancement 3.,ปลดล็อกทักษะพิเศษของสำนัก: เสริมความเสียหาย 3
+SlgTechInfo_琅琊剑阁_特征5,Unlock feature for the sect: Precision 3.,ปลดล็อกทักษะพิเศษของสำนัก: แม่นยำ 3
+SlgTechInfo_琅琊剑阁_特征6,Unlock feature for the sect: Critical Increase 4.,ปลดล็อกทักษะพิเศษของสำนัก: คริติคอลเพิ่มขึ้น 4
+SlgTechInfo_琅琊剑阁_特征7,Unlock feature for the sect: Sword Increase 4.,ปลดล็อกทักษะพิเศษของสำนัก: เพิ่มพลังกระบี่ 4
+SlgTechInfo_摸金门_特征1,Unlock feature for the sect: Lost in Dream 2.,ปลดล็อกทักษะพิเศษของสำนัก: ตกอยู่ในภวังค์ 2
+SlgTechInfo_摸金门_特征2,Unlock feature for the sect: 2 Melting Gold Hidden Blades.,ปลดล็อกทักษะพิเศษของสำนัก: หลอมทองซ่อนคม 2
+SlgTechInfo_摸金门_特征3,Unlock feature for the sect: Fast Response 3.,ปลดล็อกทักษะพิเศษของสำนัก: ตอบสนองว่องไว 3
+SlgTechInfo_摸金门_特征4,Unlock feature for the sect: Strong and Healthy Body 3.,ปลดล็อกทักษะพิเศษของสำนัก: ร่างแกร่ง 3
+SlgTechInfo_摸金门_特征5,Unlock feature for the sect: Armor Blessing 3.,ปลดล็อกทักษะพิเศษของสำนัก: เสริมเกราะ 3
+SlgTechInfo_摸金门_特征6,Unlock feature for the sect: Copper Body and Iron Bones 4.,ปลดล็อกทักษะพิเศษของสำนัก: กายาเหล็กไหล 4
+SlgTechInfo_摸金门_特征7,Unlock feature for the sect: Hardened 4.,ปลดล็อกทักษะพิเศษของสำนัก: ทนทาน 4
+SlgTechInfo_青风寨_特征1,Unlock traits for the sect: 2 Critical damage.,ปลดล็อกทักษะพิเศษของสำนัก: ความเสียหายคริติคอล 2
+SlgTechInfo_青风寨_特征2,Unlock feature for the sect: Critical Critical 2.,ปลดล็อกทักษะพิเศษของสำนัก: ถึงฆาตโจมตี
+SlgTechInfo_青风寨_特征3,Unlock feature for the sect: Brave Charge 3.,ปลดล็อกทักษะพิเศษของสำนัก: ทะลวงห้าวหาญ 3
+SlgTechInfo_青风寨_特征4,Unlock feature for the sect: Damage Enhancement 3.,ปลดล็อกทักษะพิเศษของสำนัก: เสริมความเสียหาย 3
+SlgTechInfo_青风寨_特征5,Unlock feature for the sect: Critical Enhancement 3.,ปลดล็อกทักษะพิเศษของสำนัก: เสริมคริติคอล 3
+SlgTechInfo_青风寨_特征6,Unlock feature for the sect: 4 Attack Enhancements.,ปลดล็อกทักษะพิเศษของสำนัก: เพิ่มพลังโจมตี 4
+SlgTechInfo_青风寨_特征7,Unlock traits for the sect: 4 Stalwart.,ปลดล็อกทักษะพิเศษของสำนัก: กำยำ 4
+SlgTechInfo_叶家军_特征1,Unlock feature for the sect: 2 Coordinated Defenses.,ปลดล็อกทักษะพิเศษของสำนัก: ร่วมใจพิทักษ์ 2
+SlgTechInfo_叶家军_特征2,Unlock feature for the sect: Chasing Enemy 2.,ปลดล็อกทักษะพิเศษของสำนัก: ไล่ล่าศัตรู 2
+SlgTechInfo_叶家军_特征3,Unlock traits for the sect: 3 Weapon Blessing.,ปลดล็อกทักษะพิเศษของสำนัก: เสริมพลังอาวุธ 3
+SlgTechInfo_叶家军_特征4,Unlock feature for the sect: Armor Blessing 3.,ปลดล็อกทักษะพิเศษของสำนัก: เสริมเกราะ 3
+SlgTechInfo_叶家军_特征5,Unlock feature for the sect: Damage Enhancement 3.,ปลดล็อกทักษะพิเศษของสำนัก: เสริมความเสียหาย 3
+SlgTechInfo_叶家军_特征6,Unlock feature for the sect: 4 Parry Enhancements.,ปลดล็อกทักษะพิเศษของสำนัก: ปัดป้องเพิ่มขึ้น 4
+SlgTechInfo_叶家军_特征7,Unlock feature for the sect: Critical Increase 4.,ปลดล็อกทักษะพิเศษของสำนัก: คริติคอลเพิ่มขึ้น 4
+SlgTechInfo_冷皮帮_特征1,Unlock feature for the sect: 2 Preeminents.,ปลดล็อกทักษะพิเศษของสำนัก: โด่งดัง 2
+SlgTechInfo_冷皮帮_特征2,Unlock feature for the sect: 2 Windwalkers.,ปลดล็อกทักษะพิเศษของสำนัก: ล่องเวหา 2
+SlgTechInfo_冷皮帮_特征3,Unlock feature for the sect: Damage Enhancement 3.,ปลดล็อกทักษะพิเศษของสำนัก: เสริมความเสียหาย 3
+SlgTechInfo_冷皮帮_特征4,Unlock feature for the sect: 3 Combo Enhancements.,ปลดล็อกทักษะพิเศษของสำนัก: เสริมโจมตีต่อเนื่อง 3
+SlgTechInfo_冷皮帮_特征5,Unlock feature for the sect: Critical Enhancement 3.,ปลดล็อกทักษะพิเศษของสำนัก: เสริมคริติคอล 3
+SlgTechInfo_冷皮帮_特征6,Unlock feature for the sect: 4 Attack Enhancements.,ปลดล็อกทักษะพิเศษของสำนัก: เพิ่มพลังโจมตี 4
+SlgTechInfo_冷皮帮_特征7,Unlock traits for the sect: 4 Stalwart.,ปลดล็อกทักษะพิเศษของสำนัก: กำยำ 4
+SlgTechInfo_圣火宗_特征1,Unlock feature for the sect: 2 Spirits of Steel.,ปลดล็อกทักษะพิเศษของสำนัก: จิตวิญญาณเหล็กกล้า 2
+SlgTechInfo_圣火宗_特征2,Unlock feature for the sect: 2 Hearts of Defender.,ปลดล็อกทักษะพิเศษของสำนัก: จิตใจมุ่งมั่น 2
+SlgTechInfo_圣火宗_特征3,Unlock feature for the sect: Divine Flame Protection 3.,ปลดล็อกทักษะพิเศษของสำนัก: เพลิงศักดิ์สิทธิ์คุ้มกาย 3
+SlgTechInfo_圣火宗_特征4,Unlock feature for the sect: Armor Blessing 3.,ปลดล็อกทักษะพิเศษของสำนัก: เสริมเกราะ 3
+SlgTechInfo_圣火宗_特征5,Unlock feature for the sect: Strong and Healthy Body 3.,ปลดล็อกทักษะพิเศษของสำนัก: ร่างแกร่ง 3
+SlgTechInfo_圣火宗_特征6,Unlock feature for the sect: Light Body 4.,ปลดล็อกทักษะพิเศษของสำนัก: ตัวเบา 4
+SlgTechInfo_圣火宗_特征7,Unlock feature for the sect: Hardened 4.,ปลดล็อกทักษะพิเศษของสำนัก: ทนทาน 4
+SlgTechInfo_通用_武功实战经验提升1,"Increase the martial arts experience gained by disciples in battle.\nInternal skills increase the EXP of learned internal skills by 1 point each action.\nExternal skills increase the EXP of released external skills by 2 points each release.","เพิ่มค่าประสบการณ์ยุทธ์ที่ลูกศิษย์ในสำนักได้รับระหว่างการต่อสู้\nวิชากำลังภายใน ค่าประสบการณ์ยุทธ์เพิ่มขึ้น 1 หน่วย ต่อทุกการกระทำ\nวิชาภายนอก ค่าประสบการณ์ยุทธ์เพิ่มขึ้น 2 หน่วย ต่อทุกครั้งที่ใช้"
+SlgTechInfo_通用_武功实战经验提升2,"Increase the martial arts experience gained by disciples in battle.\nInternal skills increase the EXP of learned internal skills by 1 point each action.\nExternal skills increase the EXP of released external skills by 2 points each release.","เพิ่มค่าประสบการณ์ยุทธ์ที่ลูกศิษย์ในสำนักได้รับระหว่างการต่อสู้\nวิชากำลังภายใน ค่าประสบการณ์ยุทธ์เพิ่มขึ้น 1 หน่วย ต่อทุกการกระทำ\nวิชาภายนอก ค่าประสบการณ์ยุทธ์เพิ่มขึ้น 2 หน่วย ต่อทุกครั้งที่ใช้"
+SlgTechInfo_通用_武功实战经验提升3,"Increase the martial arts experience gained by disciples in combat.\nEach action of internal strength increases 2 points of learned internal strength EXP.\nEach release of external strength increases 3 points of released external strength EXP.","เพิ่มค่าประสบการณ์ยุทธ์ที่ลูกศิษย์ในสำนักได้รับระหว่างการต่อสู้\nวิชากำลังภายใน ค่าประสบการณ์ยุทธ์เพิ่มขึ้น 2 หน่วย ต่อทุกการกระทำ\nวิชาภายนอก ค่าประสบการณ์ยุทธ์เพิ่มขึ้น 3 หน่วย ต่อทุกครั้งที่ใช้"
+DLC1FactionName_0,Confucius Temple,วัดขงจื้อ
+DLC1FactionName_1,Taoist Sect,สำนักเต๋า
+DLC1FactionName_2,Shifa Temple,อารามซื่อฟา
+DLC1FactionName_3,Nine Factions Sect,นิกายเก้าฝ่าย
+DLC1FactionName_4,Melody House,ตำหนักบทเพลง
+DLC1FactionName_5,Jiuli Tribe,เผ่าจิ่วลี่
+DLC1FactionName_6,Jiujiang Fortress,ค่ายน้ำจิ่วเจียง
+DLC1FactionName_7,Herbology Sect,สำนักพฤกษา
+DLC1FactionName_8,Beast Manor,หมู่ตึกหมื่นอสูร
+DLC1FactionName_9,Swallow Nest,รังนกนางแอ่น
+DLC1FactionName_10,Crime Investigation Bureau,สำนักเทพมือปราบ
+DLC1FactionName_11,Tiger Escort,สำนักคุ้มภัยพยัคฆา
+DLC1FactionName_12,Night Auction Market,ตลาดประมูลราตรี
+DLC1FactionName_13,Langya Sword Pavilion,ศาลากระบี่หลางหยา
+DLC1FactionName_14,Tomb Raider Sect,สำนักปล้นสุสาน
+DLC1FactionName_15,Blue Wind Camp,ค่ายวายุคราม
+DLC1FactionName_16,Ye Family Battalion,กองทัพตระกูลเย่
+DLC1FactionName_17,Cold Skin Gang,พรรคมังสาเหมันต์
+DLC1FactionName_18,Divine Flame Sect ,นิกายเพลิงศักดิ์สิทธิ์
+DLC1FactionName_101,My Sect,สำนักของข้า
+DLC1FactionName_102,Blue Wind Camp,ค่ายวายุคราม
+DLC1FactionName_21,Free Faction 3,ฝ่ายอิสระ 3
+DLC1CapitalOverrideName_0,Confucius Temple,วัดขงจื้อ
+DLC1CapitalOverrideName_1,Taoist Sect,สำนักเต๋า
+DLC1CapitalOverrideName_2,Shifa Temple,อารามซื่อฟา
+DLC1CapitalOverrideName_3,Nine Factions Sect,นิกายเก้าฝ่าย
+DLC1CapitalOverrideName_4,Melody House,ตำหนักบทเพลง
+DLC1CapitalOverrideName_5,Jiuli Tribe,เผ่าจิ่วลี่
+DLC1CapitalOverrideName_6,Jiujiang Fortress,ค่ายน้ำจิ่วเจียง
+DLC1CapitalOverrideName_7,Herbology Sect,สำนักพฤกษา
+DLC1CapitalOverrideName_8,Beast Manor,หมู่ตึกหมื่นอสูร
+DLC1CapitalOverrideName_9,Swallow Nest,รังนกนางแอ่น
+DLC1CapitalOverrideName_10,Crime Investigation Bureau,สำนักเทพมือปราบ
+DLC1CapitalOverrideName_11,Tiger Escort,สำนักคุ้มภัยพยัคฆา
+DLC1CapitalOverrideName_12,Night Auction Market,ตลาดประมูลราตรี
+DLC1CapitalOverrideName_13,Langya Sword Pavilion,ศาลากระบี่หลางหยา
+DLC1CapitalOverrideName_14,Tomb Raider Sect,สำนักปล้นสุสาน
+DLC1CapitalOverrideName_15,Blue Wind Camp,ค่ายวายุคราม
+DLC1CapitalOverrideName_16,Ye Family Battalion,กองทัพตระกูลเย่
+DLC1CapitalOverrideName_17,Cold Skin Gang,พรรคมังสาเหมันต์
+DLC1CapitalOverrideName_18,Divine Flame Sect ,นิกายเพลิงศักดิ์สิทธิ์
+DLC1PvcName_1,Longevity Tomb,สุสานอมตะ
+DLC1PvcName_2,Guanbei,ด่านเหนือ
+DLC1PvcName_3,Mass Burial Ground,สุสานไร้ระเบียบ
+DLC1PvcName_4,West Forest,ป่าตะวันตก
+DLC1PvcName_5,East Forest,ป่าตะวันออก
+DLC1PvcName_6,Ritual Platform,ปะรำพิธี
+DLC1PvcName_7,Bian Dong,ชายแดนตะวันออก
+DLC1PvcName_8,Rengu,หุบเขาแห่งเมตตา
+DLC1PvcName_9,East Mountain Valley,หุบเขาตะวันออก
+DLC1PvcName_10,Rengu South,หุบเขาแห่งเมตตาทางใต้
+DLC1PvcName_11,Diamond Valley,หุบเขาวชิระ
+DLC1PvcName_12,Stream Forest,ป่าลำธาร
+DLC1PvcName_13,Daliang East,ต้าเหลียงตะวันออก
+DLC1PvcName_14,Daliang,ต้าเหลียง
+DLC1PvcName_15,Abandoned Courtyard,ลานรกร้าง
+DLC1PvcName_16,Mang Mountain Pass,ทางภูเขาหมาง
+DLC1PvcName_17,Mang Mountain Foot,เชิงเขาภูเขาหมาง
+DLC1PvcName_18,Diamond Valley South,หุบเขาวชิระทางใต้
+DLC1PvcName_19,Jade Gate North,ด่านประตูหยกทางเหนือ
+DLC1PvcName_20,Jade Gate,ด่านประตูหยก
+DLC1PvcName_21,Zhongzhou Region Port,ท่าเรือจงโจว
+DLC1PvcName_22,Swallow Forest,ป่ารังนกนางแอ่น
+DLC1PvcName_23,Horse King Mountain,ภูเขาราชาม้า
+DLC1PvcName_24,Buddha Temple,อารามพุทธะ
+DLC1PvcName_25,Lin'an,หลินอัน
+DLC1PvcName_26,Lin'an South,หลินอันทางใต้
+DLC1PvcName_27,Deep Black Forest,ส่วนลึกของป่ามืด
+DLC1PvcName_28,Black Forest,ป่ามืด
+DLC1PvcName_29,Horse King Cave,ถ้ำราชาม้า
+DLC1PvcName_30,Jiangbei,แม่น้ำเหนือ
+DLC1PvcName_31,Peak of Challenge,ยอดเขาแห่งการชิงชัย
+DLC1PvcName_32,Langya Mountain,ภูเขาหลางหยา
+DLC1PvcName_33,Jiujiang,จิ่วเจียง
+DLC1PvcName_34,Pingshan,ภูเขาผิงซาน
+DLC1PvcName_35,Langya Mine,เหมืองแร่หลางหยา
+DLC1PvcName_36,Pingshan Valley,หุบเขาผิงซาน
+DLC1PvcName_37,Qiongshan Forest,ป่าชงซาน
+DLC1PvcName_38,Mang Mountain Forest,ป่าภูเขาหมาง
+DLC1PvcName_39,Mang Mountain Pit,สุสานภูเขาหมาง
+DLC1PvcName_40,Jiujiang West,จิ่วเจียงตะวันตก
+DLC1PvcName_41,Qiongshan,ภูเขาฉงซาน
+DLC1PvcName_42,Herb Forest,ป่าสมุนไพร
+DLC1PvcName_43,Blue Wind Camp,ค่ายวายุคราม
+DLC1PvcName_44,Mang Mountain South,ภูเขาหมางทางใต้
+DLC1PvcName_45,Snowflower Valley,หุบเขาโบตั๋น
+DLC1PvcName_46,Nameless village,หมู่บ้านไร้นาม
+DLC1PvcName_47,Forest of Broken Souls,ป่าวิญญาณสลาย
+DLC1PvcName_48,Small Ridge,เนินเล็ก
+DLC1PvcName_49,Borderland,พื้นที่ชายแดน
+DLC1PvcName_50,Old Camp,ค่ายเก่า
+DLC1PvcName_51,Refugee Camp,ค่ายผู้ลี้ภัย
+DLC1PvcName_52,Wild Wolf Valley,หุบเขาหมาป่า
+DLC1PvcName_53,Xiangfan Region Port,ท่าเรือเซียงฝาน
+DLC1PvcName_54,Chuxiang,ฉู่เซียง
+DLC1PvcName_55,God Cow Mountain,ภูเขาเทพวัว
+DLC1PvcName_56,Outside Jade Gate,นอกด่านประตูหยก
+DLC1PvcName_57,Jade Gate South,ด่านประตูหยกทางใต้
+DLC1PvcName_58,Mang Mountain North,ภูเขาหมางทางเหนือ
+DLC1PvcName_59,Nameless Land,พื้นที่ไร้นาม
+DLC1PvcName_60,Xiangfan Forest South,ป่าเซียงฝานทางใต้
+DLC1PvcName_61,Xiangfan Forest,ป่าเซียงฝาน
+DLC1PvcName_62,God of Marriage's Shrine,ศาลเทพเจ้าด้ายแดง
+DLC1PvcName_63,Wuxian Mountain East,ภูเขาอู๋เซียนตะวันออก
+DLC1PvcName_64,Wuxian Mountain,ภูเขาอู๋เซียน
+DLC1PvcName_65,Deserted Courtyard,ลานบ้านร้าง
+DLC1PvcName_66,Wuxian Mountain Pass,ทางผ่านภูเขาอู๋เซียน
+DLC1PvcName_67,Wuxian Forest,ป่าอู๋เซียน
+DLC1PvcName_68,Bailing Mountain,ภูเขาไป๋หลิง
+DLC1PvcName_69,Sea of Flowers,ทะเลบุปผา
+DLC1PvcName_70,Fountain of Youth.,น้ำพุแห่งความเยาว์วัย
+DLC1PvcName_71,Wuxian Mountain North,ภูเขาอู๋เซียนทางเหนือ
+DLC1PvcName_72,Flame City,เมืองอัคคี
+DLC1PvcName_73,Flame Toad Cave,ถ้ำคางคกอัคคี
+DLC1PvcName_74,Desert West,ทะเลทรายตะวันตก
+DLC1PvcName_75,Chang'an Inn,โรงเตี๊ยมฉางอัน
+DLC1PvcName_76,Desert South,ทะเลทรายทางใต้
+DLC1PvcName_77,Holy Fire Mountain,ภูเขาเพลิงศักดิ์สิทธิ์
+DLC1PvcName_78,Jiuli,จิ่วลี่
+DLC1PvcName_79,Herb Forest South,ป่าสมุนไพรทางใต้
+DLC1PvcName_80,Herb Forest,ป่าสมุนไพร
+DLC1FactionInfo_0,"A Confucian academy with a long history. Under the leadership of the new dean, Cai Yuanchang, it embraces the new and recruits widely. With the assistance of the Four Arts and four virtuous people, the students are elegant and talented.",สถาบันขงจื๊อที่มีประวัติศาสตร์อันยาวนาน ภายใต้การนําของเจ้าสำนักคนใหม่ ไช่หยวนฉาง ได้ปฏิรูปแนวคิดดั้งเดิมผสมผสานสิ่งใหม่ๆ พร้อมทั้งเปิดรับลูกศิษย์อย่างกว้างขวาง นอกจากนี้ ยังมีปราชญ์ทั้งสี่ ผู้เชี่ยวชาญด้านดนตรี หมากล้อม บทกลอน และภาพวาด คอยช่วยเหลือ ทำให้ลูกศิษย์ของสำนัก ล้วนเป็นผู้มีความรู้และความสง่างาม
+DLC1FactionInfo_1,"A Taoist sect that has been established for hundreds of years, emphasizing self-cultivation and dual cultivation of Qi and sword. Under the leadership of Zhong Yangzi, the disciples aim to save the world and prioritize benevolence and righteousness. They are a model of the current martial arts righteous sect.",สำนักเต๋าก่อตั้งมาหลายร้อยปี โดยยึดหลักฝึกฝนตนเอง พร้อมกับการฝึกลมปราณและกระบี่ควบคู่กัน ภายใต้การนำของ ฉงหยางสื่อ เหล่าศิษย์ต่างยึดถือการช่วยเหลือผู้คนเป็นหลัก โดยยึดหลักศีลธรรมและคุณธรรมเป็นสำคัญ ทำให้สำนักนี้เป็นแบบอย่างที่ดี ของสำนักฝ่ายธรรมะในยุทธภพปัจจุบัน
+DLC1FactionInfo_2,"It has always been a major sect of Buddhism in the world. In times of war, they not only help the souls who died in the war, but also provide shelter for refugees. There are countless monk soldiers who resist the Yan Kingdom under the instruction of the abbot, defending against foreign enemies.",เป็นสำนักพุทธที่สำคัญมาแต่โบราณ ในช่วงศึกสงคราม ได้ทำพิธีอุทิศส่วนกุศลให้ดวงวิญญาณที่เสียชีวิตในสงคราม พร้อมเปิดประตูวัด ให้ที่พักพิงแก่ผู้ลี้ภัย ภายใต้คำสั่งของเจ้าอาวาส มีหลวงจีนนับไม่ถ้วนได้เข้าร่วมกองทัพ ต่อต้านแคว้นเยี่ยน เพื่อป้องกันศัตรูจากต่างแดน
+DLC1FactionInfo_3,"A rising organization founded by Mysterious Man. Due to its recruitment policy that does not discriminate based on background or age, it has grown rapidly and is now considered the largest force in the Central Plains. However, it is a mixed bag, and it is difficult to distinguish between good and evil.",องค์กรใหม่ที่จัดตั้งขึ้นโดยบุรุษลึกลับ เนื่องจากการรับสมัครสาวกโดยไม่คํานึงถึงภูมิหลังหรืออายุ พวกเขาจึงเติบโตอย่างรวดเร็ว เป็นกองกําลังที่ใหญ่ที่สุดในจงหยวน ทว่าในองค์กรมีทั้งคนดีและไม่ดีปะปนกัน จึงยากที่จะแยกแยะระหว่างความดีและความชั่ว
+DLC1FactionInfo_4,"Located in the southwest region, the mountain Clear water is beautiful, and the scenery is natural. All the disciples are young girls, each with a beautiful voice and good at dancing, like fairies. They are hostile to all men in the world, and no one knows the specific reason.",สถานที่แห่งนี้ตั้งอยู่แดนตะวันตกเฉียงใต้ มีทิวทัศน์ธรรมชาติอันงดงาม ศิษย์ทุกคนล้วนเป็นสาวงามวัยเยาว์ ที่มีความสามารถทางดนตรี และการร่ายรำที่งดงาม ราวกับเทพธิดา พวกนางมีท่าทีเป็นศัตรูกับบุรุษทุกคนบนโลก โดยไม่มีผู้ใดรู้ถึงเหตุผลที่แท้จริง
+DLC1FactionInfo_5,"A foreign tribe in the southwest region, they believe in ancient fierce gods and are good at using witchcraft, and are regarded as heretics by the martial arts of the Central Plains. They have harassed the Central Plains many times in the early years, so they were isolated from the Central Plains by the Zhao State. Now, under the leadership of Miao Muli, they are growing stronger and gradually becoming a force not to be underestimated in the southwest region.","ชนเผ่าต่างด้าวในแดนตะวันตกเฉียงใต้ พวกเขาเชื่อในเทพเจ้าโบราณที่ชั่วร้าย เชี่ยวชาญการใช้เวทมนต์คาถา พวกเขาถูกผู้คนในจงหยวนมองเป็นพวกนอกรีต ในอดีตเคยรุกรานจงหยวนหลายครั้ง ทำให้แคว้นจ้าวได้ตัดขาดพวกเขาจากจงหยวน ภายใต้การนําของ ""เมี้ยวมู่หลี"" ในปัจจุบัน พวกเขากําลังเติบโตอย่างแข็งแกร่ง และค่อยๆ กลายเป็นกองกําลังในแดนตะวันตกเฉียงใต้ที่ไม่อาจประมาทได้"
+DLC1FactionInfo_6,"Established a water village at the confluence of the nine rivers, in recent years it has gathered a large number of martial arts people, and it seems to have the momentum to divide half of the southern part of the Yangtze River.",ค่ายที่ตั้งมั่นขึ้น ตรงบริเวณที่แม่น้ำจิ่วเจียงไหลมาบรรจบกัน ในช่วงไม่กี่ปีที่ผ่านมา ได้รวบรวมผู้คนจากยุทธภพจำนวนมาก จนดูเหมือนว่า พวกเขาต้องการจะแบ่งแยกอำนาจในเขตเจียงหนาน
+DLC1FactionInfo_7,"All the disciples are doctors who are indifferent to the world and help the world. They take the treatment of diseases and saving people as their own responsibility, and it is also the place where countless doctors aspire. It is now in ruins, with only a piece of old land left.",ศิษย์ในสำนักล้วนเป็นหมอที่ไม่ยุ่งเกี่ยวกับเรื่องทางโลก มุ่งมั่นในการรักษาและช่วยเหลือผู้คน เป็นสถานที่ที่หมอจำนวนนับไม่ถ้วนใฝ่ฝันถึง แต่ปัจจุบันทรุดโทรมลงไปมาก เหลือเพียงดินแดนเดิมที่เคยรุ่งเรือง
+DLC1FactionInfo_8,"A large manor located in the southwest, known for its beast taming skills. The manor owner, Tang Tai Jun, moved his family here decades ago to keep his promise of guarding the southwest. Since then, they have dominated the southwest, preventing the Jiuli Tribe from invading the Central Plains.","หมู่ตึกขนาดใหญ่ ตั้งอยู่ในภูมิภาคตะวันตกเฉียงใต้ เชี่ยวชาญเรื่องการฝึกสัตว์ เจ้าหมู่ตึก ""ถังไท่จุน"" ย้ายครอบครัวมาอยู่ที่นี่ เพื่อทำตามสัญญา ปกป้องคุ้มครองแดนตะวันตกเฉียงใต้ ป้องกันชนเผ่าต่างๆ ไม่ให้รุกรานแผ่นดินจงหยวนได้อีก"
+DLC1FactionInfo_9,"Created by the legendary thief ""Yanzi Li"" who is at the top of Qinggong, his stealing technique and Qinggong are unparalleled in the world. Often in the blink of an eye, he has already pickpocketed, and there is no trace of him coming and going.","เป็นกลุ่มที่ก่อตั้งโดยจอมโจรในตำนาน ""หลี่เยี่ยนสือ"" ผู้มีวิชาตัวเบาเป็นเลิศ ทักษะการขโมยและวิชาตัวเบาของเขาไม่มีใครทัดเทียมได้ สามารถขโมยของจากคนอื่นได้อย่างแนบเนียน โดยที่เจ้าของไม่ทันได้รู้ตัว และจากไปอย่างไร้ร่องรอย"
+DLC1FactionInfo_10,"Established in the early years of this dynasty, it is an organization that exists only to punish criminals, and vows to bring all the evil people in the world to justice. All the catchers in today's large and small cities come from the Crime Investigation Bureau.",องค์กรนี้ก่อตั้งขึ้นในช่วงเริ่มต้นของราชวงศ์ปัจจุบัน เป็นองค์กรที่ตั้งขึ้นเพื่อลงโทษอาชญากร และสาบานว่าจะนำผู้กระทำผิดทั้งหมด มาเข้าสู่กระบวนการยุติธรรม มือปราบทั้งหมดในเมืองน้อยใหญ่ในปัจจุบัน ล้วนมาจากสำนักเทพมือปราบ
+DLC1FactionInfo_11,"Once the largest escort agency in the world, but a few years ago it encountered a change, the former head of the escort disappeared, and now it is taken over by the daughter of the head of the escort, Han Hongyu, but the situation of the escort agency is far from the past.","เคยเป็นสำนักคุ้มภัยที่ใหญ่ที่สุดในยุทธภพ แต่เมื่อหลายปีก่อนเกิดเหตุการณ์บางอย่าง ทำให้อดีตหัวหน้าสำนักคุ้มภัยหายตัวไป ปัจจุบัน ""หานหงอวี้"" บุตรสาวของหัวหน้าสำนักคุ้มภัยได้รับช่วงต่อ แต่สถานการณ์ของสำนักคุ้มภัยตอนนี้ ยังห่างไกลจากอดีตมากนัก"
+DLC1FactionInfo_12,"A market outside Daliang City that only opens at night, it is very lively every night. There is an auction every night, and it has the posture of competing with the Glittering Artifact Auction.",ตลาดที่ตั้งอยู่นอกเมืองต้าเหลียง จะเปิดเฉพาะตอนกลางคืน ยามกลางคืนที่นี่จะคึกคักมาก ทุกคืนยังมีการจัดประมูลสินค้า แสดงให้เห็นถึงความคึกคักไม่น้อยไปกว่าหอไข่มุกเลยทีเดียว
+DLC1FactionInfo_13,"The place where Jian Chi retired and sealed his sword, inheriting the thousand-year-old sword-making technology of ancient and modern times, many of the divine weapons in the current martial arts world come from here.","สถานที่ที่ ""มารกระบี่"" วางมือและเก็บรักษากระบี่ของเขา ได้สืบทอดเทคนิคการตีดาบที่มีอายุนับพันปี ทั้งสมัยโบราณและสมัยใหม่ ปัจจุบันอาวุธศักดิ์สิทธิ์ส่วนใหญ่ในยุทธภพล้วนมาจากที่นี่"
+DLC1FactionInfo_14,"Mysterious organization, living by stealing cultural relics in ancient tombs, all the disciples are proficient in the technique of dividing gold and determining acupoints, and no one knows where their power is.",องค์กรลึกลับ ที่ดำเนินชีวิตด้วยการขโมยโบราณวัตถุจากสุสานโบราณ สาวกทุกคนล้วนเชี่ยวชาญศาสตร์แบ่งทอง และการหาตำแหน่งสุสาน โดยไม่มีผู้ใดล่วงรู้ที่มาที่ไปของพวกเขา
+DLC1FactionInfo_15,"A bandit nest led by Kong Yidao. Although they are a group of mountain bandits, they have put up the banner of ""doing justice on behalf of the heaven"". They never rob the common people, nor bully the weak. They only rob the ""unjust wealth"", and are a thorn in the side of the government.","กลุ่มโจรที่นำโดย ""ขงอี้เตา"" แม้ว่าพวกเขาจะเป็นโจรภูเขาแต่กลับชูธง ""ผดุงธรรมแทนฟ้า"" ไม่ปล้นชาวบ้าน ไม่ข่มเหงผู้อ่อนแอ พวกเขาปล้นแต่ ""ทรัพย์ที่ได้มาโดยมิชอบ"" เท่านั้น ทำให้ทางการมองพวกเขาเป็นหนามยอก ที่ต้องจัดการสักวัน"
+DLC1FactionInfo_16,"The Zhao Kingdom's army commanded by Ye Pengju. The army is strict in discipline and undefeated. It has defeated the Yan Kingdom's army many times, preserving half of the Zhao Kingdom's territory, and is therefore deeply loved by the people. It is also the last hope for many people to welcome back the Zhao Emperor.","กองทัพของแคว้นจ้าว ที่บังคับบัญชาโดย ""เย่เผิงจู"" วินัยทางทหารนั้นเข้มงวดไม่แพ้ใคร เขาได้เอาชนะกองทัพของแคว้นเยี่ยนมาหลายครั้ง รักษาแผ่นดินครึ่งหนึ่งของแคว้นจ้าวไว้ได้ ด้วยเหตุนี้จึงเป็นที่รักของผู้คน และยังเป็นความหวังสุดท้ายของหลายๆ คน ในการนำองค์ฮ่องเต้จ้าวกลับมา"
+DLC1FactionInfo_17,"Located in the Flame City in the desert, it is the actual ruler of Flame City. Under the management of Master Huo Shilou, it resists the self-proclaimed Western Regions hegemon, the Divine Flame Sect .","ณ เมืองอัคคี กลางทะเลทราย พวกเขาคือผู้กุมอำนาจที่แท้จริง ภายใต้การนำของประมุขพรรค ""ฮั่วซื่อเหล่า"" พวกเขามุ่งมั่นต่อสู้ เพื่อต่อต้านนิกายเพลิงศักดิ์สิทธิ์ ซึ่งอ้างตัวว่าเป็นเป็นจ้าวแห่งดินแดนตะวันตก"
+DLC1FactionInfo_18,"A rising power in the northwest region, under the command of the current leader Fang Xiaoian, sweeps the Western Regions, invincible.","เป็นกลุ่มอำนาจเกิดขึ้นใหม่อย่างรวดเร็ว ในแดนตะวันตกเฉียงเหนือ ภายใต้การนำ ""ฟางเสี่ยวเทียน"" ได้ทำการกวาดล้างทั่วแดนตะวันตก โดยไม่มีใครสามารถต้านทานได้"
+DLCTraderName_铜钱商人,CoinMerchant,พ่อค้าเหรียญ
+DLCTraderName_粮食商人,FoodMerchant,พ่อค้าอาหาร
+DLCTraderName_木材商人,WoodMerchant,พ่อค้าไม้
+DLCTraderName_矿物商人,MineralMerchant,พ่อค้าแร่
+DLCTraderName_药材商人,HerbMerchant,พ่อค้าสมุนไพร
+DLCTraderName_装备商人,EquipmentMerchant,พ่อค้าอุปกรณ์
+DLCTraderName_神秘商人,NamelessMerchant,พ่อค้านิรนาม
+DLCTraderName_武功商人,Mysterious Man,บุรุษลึกลับ
+DLCTraderName_消耗品商人,PillMerchant,พ่อค้าโอสถ
+FondTag_特殊,Special,พิเศษ
+SlgTechName_故事模式_商人_武功1,Unlock Martial Arts Merchant,ปลดล็อกพ่อค้าวรยุทธ์
+SlgTechName_故事模式_商人_武功2,Unlock Martial Arts Merchant,ปลดล็อกพ่อค้าวรยุทธ์
+SlgTechInfo_故事模式_商人_武功1,"The martial arts Merchant will visit, you can Buy entry-level Manual through the martial arts Merchant.",พ่อค้าวรยุทธ์จะมาเยือนที่นี่ สามารถซื้อตำราวรยุทธขั้นพื้นฐานจากพ่อค้าวรยุทธ์ได้
+SlgTechInfo_故事模式_商人_武功2,"A martial arts merchant will visit, you can buy martial arts manuals from him.",พ่อค้าวรยุทธ์จะมาเยือนที่นี่ สามารถซื้อตำราวรยุทธขั้นกลางจากพ่อค้าวรยุทธ์ได้
+SlgTechInfo_通用_全员比例回血内1,All Disciples automatically recover 3% HP and MP at the start of each month.,ลูกศิษย์ทั้งหมดจะเริ่มฟื้นฟู HP และ MP 3% โดยอัตโนมัติ ในช่วงต้นเดือน
+SlgTechInfo_通用_全员比例回血内2,All Disciples automatically recover 3% HP and MP at the start of each month.,ลูกศิษย์ทั้งหมดจะเริ่มฟื้นฟู HP และ MP 3% โดยอัตโนมัติ ในช่วงต้นเดือน
+SlgTechInfo_通用_全员比例回血内3,All Disciples automatically recover 4% HP and MP at the start of each month.,ลูกศิษย์ทั้งหมดจะเริ่มฟื้นฟู HP และ MP 4% โดยอัตโนมัติ ในช่วงต้นเดือน
+SlgTechInfo_通用_回合开始武功CD1,"At the beginning of each battle, the initial cooldown of all Disciple martial arts is reduced by 1 round.",เมื่อเริ่มต้นการต่อสู้แต่ละครั้ง จะลดเวลาคูลดาวน์วรยุทธ์ของศิษย์ทั้งหมดลง 1 รอบ
+SlgTechInfo_通用_回合开始武功CD2,"At the beginning of each battle, the initial cooldown of all Disciple martial arts is reduced by 1 round.",เมื่อเริ่มต้นการต่อสู้แต่ละครั้ง จะลดเวลาคูลดาวน์วรยุทธ์ของศิษย์ทั้งหมดลง 1 รอบ
+SlgTechName_通用_回合开始武功CD1,Martial arts cooldown reduction 1,คูลดาวน์วรยุทธลดลง 1
+SlgTechName_通用_回合开始武功CD2,Martial arts cooldown reduction 2,คูลดาวน์วรยุทธลดลง 2
+SlgTechName_通用_全员比例回血内1,Auto Recovery1,ฟื้นฟูอัตโนมัติ1
+SlgTechName_通用_全员比例回血内2,Auto Recovery2,ฟื้นฟูอัตโนมัติ2
+SlgTechName_通用_全员比例回血内3,Auto Recovery3,ฟื้นฟูอัตโนมัติ3
+DLC1FactionName_200,Confucius Temple,วัดขงจื้อ
+DLC1FactionName_201,Taoist Sect,สำนักเต๋า
+DLC1FactionName_202,Shifa Temple,อารามซื่อฟา
+DLC1FactionName_203,Nine Factions Sect,นิกายเก้าฝ่าย
+DLC1FactionName_204,Melody House,ตำหนักบทเพลง
+DLC1FactionName_205,Jiuli Tribe,เผ่าจิ่วลี่
+DLC1FactionName_206,Jiujiang Fortress,ค่ายน้ำจิ่วเจียง
+DLC1FactionName_207,Herbology Sect,สำนักพฤกษา
+DLC1FactionName_208,Beast Manor,หมู่ตึกหมื่นอสูร
+DLC1FactionName_209,Swallow Nest,รังนกนางแอ่น
+DLC1FactionName_210,Crime Investigation Bureau,สำนักเทพมือปราบ
+DLC1FactionName_211,Tiger Escort,สำนักคุ้มภัยพยัคฆา
+DLC1FactionName_212,Night Auction Market,ตลาดประมูลราตรี
+DLC1FactionName_213,Langya Sword Pavilion,ศาลากระบี่หลางหยา
+DLC1FactionName_214,Tomb Raider Sect,สำนักปล้นสุสาน
+DLC1FactionName_215,Blue Wind Camp,ค่ายวายุคราม
+DLC1FactionName_216,Ye Family Battalion,กองทัพตระกูลเย่
+DLC1FactionName_217,Cold Skin Gang,พรรคมังสาเหมันต์
+DLC1FactionName_218,Divine Flame Sect ,นิกายเพลิงศักดิ์สิทธิ์
+DLC1FactionName_219,Yan Yun Iron Army,กองทัพเหล็กเยี่ยนหยุน
+DLC1FactionName_220,Great Ant City,เมืองผีฝู
+DLC1FactionName_221,Chaiwang Pavilion,ตำหนักอ๋องไฉ
+DLC1FactionName_222,Nameless force,กองกำลังนิรนาม
+DLC1PvcName_81,White Mountain,ภูเขาขาว
+DLC1PvcName_82,White Mountain Pass,ทางผ่านภูเขาขาว
+DLC1PvcName_83,White Forest,ป่าขาว
+DLC1PvcName_84,Xu Family Outpost,ด่านหน้าตระกูลสวี
+DLC1PvcName_85,Extreme North Land,ดินแดนเหนือสุด
+DLC1PvcName_86,Nameless Camp,ค่ายไร้นาม
+DLC1PvcName_87,Mei Pass Post,สถานีม้าเร็วด่านเหมย
+DLC1PvcName_88,Creek Wood Port,ท่าเรือธารไม้
+DLC1PvcName_89,Phoenix Woods Harbor,ท่าเรือป่าหงส์
+DLC1PvcName_90,Thousands of Bamboo Creek,หุบเขาหมื่นไผ่
+DLC1FactionInfo_200,"A Confucian academy with a long history. Under the leadership of the new dean, Cai Yuanchang, it embraces the new and recruits widely. With the assistance of the Four Arts and four virtuous people, the students are elegant and talented.",สถาบันขงจื๊อที่มีประวัติศาสตร์อันยาวนาน ภายใต้การนําของเจ้าสำนักคนใหม่ ไช่หยวนฉาง ได้ปฏิรูปแนวคิดดั้งเดิมผสมผสานสิ่งใหม่ๆ พร้อมทั้งเปิดรับลูกศิษย์อย่างกว้างขวาง นอกจากนี้ ยังมีปราชญ์ทั้งสี่ ผู้เชี่ยวชาญด้านดนตรี หมากล้อม บทกลอน และภาพวาด คอยช่วยเหลือ ทำให้ลูกศิษย์ของสำนัก ล้วนเป็นผู้มีความรู้และความสง่างาม
+DLC1FactionInfo_201,"A Taoist sect that has been established for hundreds of years, emphasizing self-cultivation and dual cultivation of Qi and sword. Under the leadership of Zhong Yangzi, the disciples aim to save the world and prioritize benevolence and righteousness. They are a model of the current martial arts righteous sect.",สำนักเต๋าก่อตั้งมาหลายร้อยปี โดยยึดหลักฝึกฝนตนเอง พร้อมกับการฝึกลมปราณและกระบี่ควบคู่กัน ภายใต้การนำของ ฉงหยางสื่อ เหล่าศิษย์ต่างยึดถือการช่วยเหลือผู้คนเป็นหลัก โดยยึดหลักศีลธรรมและคุณธรรมเป็นสำคัญ ทำให้สำนักนี้เป็นแบบอย่างที่ดี ของสำนักฝ่ายธรรมะในยุทธภพปัจจุบัน
+DLC1FactionInfo_202,"It has always been a major sect of Buddhism in the world. In times of war, they not only help the souls who died in the war, but also provide shelter for refugees. There are countless monk soldiers who resist the Yan Kingdom under the instruction of the abbot, defending against foreign enemies.",เป็นสำนักพุทธที่สำคัญมาแต่โบราณ ในช่วงศึกสงคราม ได้ทำพิธีอุทิศส่วนกุศลให้ดวงวิญญาณที่เสียชีวิตในสงคราม พร้อมเปิดประตูวัด ให้ที่พักพิงแก่ผู้ลี้ภัย ภายใต้คำสั่งของเจ้าอาวาส มีหลวงจีนนับไม่ถ้วนได้เข้าร่วมกองทัพ ต่อต้านแคว้นเยี่ยน เพื่อป้องกันศัตรูจากต่างแดน
+DLC1FactionInfo_203,"A rising organization founded by Mysterious Man. Due to its recruitment policy that does not discriminate based on background or age, it has grown rapidly and is now considered the largest force in the Central Plains. However, it is a mixed bag, and it is difficult to distinguish between good and evil.",องค์กรใหม่ที่จัดตั้งขึ้นโดยบุรุษลึกลับ เนื่องจากการรับสมัครสาวกโดยไม่คํานึงถึงภูมิหลังหรืออายุ พวกเขาจึงเติบโตอย่างรวดเร็ว เป็นกองกําลังที่ใหญ่ที่สุดในจงหยวน ทว่าในองค์กรมีทั้งคนดีและไม่ดีปะปนกัน จึงยากที่จะแยกแยะระหว่างความดีและความชั่ว
+DLC1FactionInfo_204,"Located in the southwest region, the mountain Clear water is beautiful, and the scenery is natural. All the disciples are young girls, each with a beautiful voice and good at dancing, like fairies. They are hostile to all men in the world, and no one knows the specific reason.",สถานที่แห่งนี้ตั้งอยู่แดนตะวันตกเฉียงใต้ มีทิวทัศน์ธรรมชาติอันงดงาม ศิษย์ทุกคนล้วนเป็นสาวงามวัยเยาว์ ที่มีความสามารถทางดนตรี และการร่ายรำที่งดงาม ราวกับเทพธิดา พวกนางมีท่าทีเป็นศัตรูกับบุรุษทุกคนบนโลก โดยไม่มีผู้ใดรู้ถึงเหตุผลที่แท้จริง
+DLC1FactionInfo_205,"A foreign tribe in the southwest region, they believe in ancient fierce gods and are good at using witchcraft, and are regarded as heretics by the martial arts of the Central Plains. They have harassed the Central Plains many times in the early years, so they were isolated from the Central Plains by the Zhao State. Now, under the leadership of Miao Muli, they are growing stronger and gradually becoming a force not to be underestimated in the southwest region.","ชนเผ่าต่างด้าวในแดนตะวันตกเฉียงใต้ พวกเขาเชื่อในเทพเจ้าโบราณที่ชั่วร้าย เชี่ยวชาญการใช้เวทมนต์คาถา พวกเขาถูกผู้คนในจงหยวนมองเป็นพวกนอกรีต ในอดีตเคยรุกรานจงหยวนหลายครั้ง ทำให้แคว้นจ้าวได้ตัดขาดพวกเขาจากจงหยวน ภายใต้การนําของ ""เมี้ยวมู่หลี"" ในปัจจุบัน พวกเขากําลังเติบโตอย่างแข็งแกร่ง และค่อยๆ กลายเป็นกองกําลังในแดนตะวันตกเฉียงใต้ที่ไม่อาจประมาทได้"
+DLC1FactionInfo_206,"Established a water village at the confluence of the nine rivers, in recent years it has gathered a large number of martial arts people, and it seems to have the momentum to divide half of the southern part of the Yangtze River.",ค่ายที่ตั้งมั่นขึ้น ตรงบริเวณที่แม่น้ำจิ่วเจียงไหลมาบรรจบกัน ในช่วงไม่กี่ปีที่ผ่านมา ได้รวบรวมผู้คนจากยุทธภพจำนวนมาก จนดูเหมือนว่า พวกเขาต้องการจะแบ่งแยกอำนาจในเขตเจียงหนาน
+DLC1FactionInfo_207,"All the disciples are doctors who are indifferent to the world and help the world. They take the treatment of diseases and saving people as their own responsibility, and it is also the place where countless doctors aspire. It is now in ruins, with only a piece of old land left.",ศิษย์ในสำนักล้วนเป็นหมอที่ไม่ยุ่งเกี่ยวกับเรื่องทางโลก มุ่งมั่นในการรักษาและช่วยเหลือผู้คน เป็นสถานที่ที่หมอจำนวนนับไม่ถ้วนใฝ่ฝันถึง แต่ปัจจุบันทรุดโทรมลงไปมาก เหลือเพียงดินแดนเดิมที่เคยรุ่งเรือง
+DLC1FactionInfo_208,"A large manor located in the southwest, known for its beast taming skills. The manor owner, Tang Tai Jun, moved his family here decades ago to keep his promise of guarding the southwest. Since then, they have dominated the southwest, preventing the Jiuli Tribe from invading the Central Plains.","หมู่ตึกขนาดใหญ่ ตั้งอยู่ในภูมิภาคตะวันตกเฉียงใต้ เชี่ยวชาญเรื่องการฝึกสัตว์ เจ้าหมู่ตึก ""ถังไท่จุน"" ย้ายครอบครัวมาอยู่ที่นี่ เพื่อทำตามสัญญา ปกป้องคุ้มครองแดนตะวันตกเฉียงใต้ ป้องกันชนเผ่าต่างๆ ไม่ให้รุกรานแผ่นดินจงหยวนได้อีก"
+DLC1FactionInfo_209,"Created by the legendary thief ""Yanzi Li"" who is at the top of Qinggong, his stealing technique and Qinggong are unparalleled in the world. Often in the blink of an eye, he has already pickpocketed, and there is no trace of him coming and going.","เป็นกลุ่มที่ก่อตั้งโดยจอมโจรในตำนาน ""หลี่เยี่ยนสือ"" ผู้มีวิชาตัวเบาเป็นเลิศ ทักษะการขโมยและวิชาตัวเบาของเขาไม่มีใครทัดเทียมได้ สามารถขโมยของจากคนอื่นได้อย่างแนบเนียน โดยที่เจ้าของไม่ทันได้รู้ตัว และจากไปอย่างไร้ร่องรอย"
+DLC1FactionInfo_210,"Established in the early years of this dynasty, it is an organization that exists only to punish criminals, and vows to bring all the evil people in the world to justice. All the catchers in today's large and small cities come from the Crime Investigation Bureau.",องค์กรนี้ก่อตั้งขึ้นในช่วงเริ่มต้นของราชวงศ์ปัจจุบัน เป็นองค์กรที่ตั้งขึ้นเพื่อลงโทษอาชญากร และสาบานว่าจะนำผู้กระทำผิดทั้งหมด มาเข้าสู่กระบวนการยุติธรรม มือปราบทั้งหมดในเมืองน้อยใหญ่ในปัจจุบัน ล้วนมาจากสำนักเทพมือปราบ
+DLC1FactionInfo_211,"Once the largest escort agency in the world, but a few years ago it encountered a change, the former head of the escort disappeared, and now it is taken over by the daughter of the head of the escort, Han Hongyu, but the situation of the escort agency is far from the past.","เคยเป็นสำนักคุ้มภัยที่ใหญ่ที่สุดในยุทธภพ แต่เมื่อหลายปีก่อนเกิดเหตุการณ์บางอย่าง ทำให้อดีตหัวหน้าสำนักคุ้มภัยหายตัวไป ปัจจุบัน ""หานหงอวี้"" บุตรสาวของหัวหน้าสำนักคุ้มภัยได้รับช่วงต่อ แต่สถานการณ์ของสำนักคุ้มภัยตอนนี้ ยังห่างไกลจากอดีตมากนัก"
+DLC1FactionInfo_212,"A market outside Daliang City that only opens at night, it is very lively every night. There is an auction every night, and it has the posture of competing with the Glittering Artifact Auction.",ตลาดที่ตั้งอยู่นอกเมืองต้าเหลียง จะเปิดเฉพาะตอนกลางคืน ยามกลางคืนที่นี่จะคึกคักมาก ทุกคืนยังมีการจัดประมูลสินค้า แสดงให้เห็นถึงความคึกคักไม่น้อยไปกว่าหอไข่มุกเลยทีเดียว
+DLC1FactionInfo_213,"The place where Jian Chi retired and sealed his sword, inheriting the thousand-year-old sword-making technology of ancient and modern times, many of the divine weapons in the current martial arts world come from here.","สถานที่ที่ ""มารกระบี่"" วางมือและเก็บรักษากระบี่ของเขา ได้สืบทอดเทคนิคการตีดาบที่มีอายุนับพันปี ทั้งสมัยโบราณและสมัยใหม่ ปัจจุบันอาวุธศักดิ์สิทธิ์ส่วนใหญ่ในยุทธภพล้วนมาจากที่นี่"
+DLC1FactionInfo_214,"Mysterious organization, living by stealing cultural relics in ancient tombs, all the disciples are proficient in the technique of dividing gold and determining acupoints, and no one knows where their power is.",องค์กรลึกลับ ที่ดำเนินชีวิตด้วยการขโมยโบราณวัตถุจากสุสานโบราณ สาวกทุกคนล้วนเชี่ยวชาญศาสตร์แบ่งทอง และการหาตำแหน่งสุสาน โดยไม่มีผู้ใดล่วงรู้ที่มาที่ไปของพวกเขา
+DLC1FactionInfo_215,"A bandit nest led by Kong Yidao. Although they are a group of mountain bandits, they have put up the banner of ""doing justice on behalf of the heaven"". They never rob the common people, nor bully the weak. They only rob the ""unjust wealth"", and are a thorn in the side of the government.","กลุ่มโจรที่นำโดย ""ขงอี้เตา"" แม้ว่าพวกเขาจะเป็นโจรภูเขาแต่กลับชูธง ""ผดุงธรรมแทนฟ้า"" ไม่ปล้นชาวบ้าน ไม่ข่มเหงผู้อ่อนแอ พวกเขาปล้นแต่ ""ทรัพย์ที่ได้มาโดยมิชอบ"" เท่านั้น ทำให้ทางการมองพวกเขาเป็นหนามยอก ที่ต้องจัดการสักวัน"
+DLC1FactionInfo_216,"The Zhao Kingdom's army commanded by Ye Pengju. The army is strict in discipline and undefeated. It has defeated the Yan Kingdom's army many times, preserving half of the Zhao Kingdom's territory, and is therefore deeply loved by the people. It is also the last hope for many people to welcome back the Zhao Emperor.","กองทัพของแคว้นจ้าว ที่บังคับบัญชาโดย ""เย่เผิงจู"" วินัยทางทหารนั้นเข้มงวดไม่แพ้ใคร เขาได้เอาชนะกองทัพของแคว้นเยี่ยนมาหลายครั้ง รักษาแผ่นดินครึ่งหนึ่งของแคว้นจ้าวไว้ได้ ด้วยเหตุนี้จึงเป็นที่รักของผู้คน และยังเป็นความหวังสุดท้ายของหลายๆ คน ในการนำองค์ฮ่องเต้จ้าวกลับมา"
+DLC1FactionInfo_217,"Located in the Flame City in the desert, it is the actual ruler of Flame City. Under the management of Master Huo Shilou, it resists the self-proclaimed Western Regions hegemon, the Divine Flame Sect .","ณ เมืองอัคคี กลางทะเลทราย พวกเขาคือผู้กุมอำนาจที่แท้จริง ภายใต้การนำของประมุขพรรค ""ฮั่วซื่อเหล่า"" พวกเขามุ่งมั่นต่อสู้ เพื่อต่อต้านนิกายเพลิงศักดิ์สิทธิ์ ซึ่งอ้างตัวว่าเป็นเป็นจ้าวแห่งดินแดนตะวันตก"
+DLC1FactionInfo_218,"A rising power in the northwest region, under the command of the current leader Fang Xiaoian, sweeps the Western Regions, invincible.","เป็นกลุ่มอำนาจเกิดขึ้นใหม่อย่างรวดเร็ว ในแดนตะวันตกเฉียงเหนือ ภายใต้การนำ ""ฟางเสี่ยวเทียน"" ได้ทำการกวาดล้างทั่วแดนตะวันตก โดยไม่มีใครสามารถต้านทานได้"
+DLC1FactionInfo_219,"The elite army of the Yan Kingdom, with strong soldiers and horses, is eyeing the Central Plains under the command of Wanyan Wuzhu.","กองทัพชั้นยอดของแคว้นเยี่ยน ภายใต้การบังคับบัญชาของ ""หวันเหยียนอู๋จู"" พร้อมด้วยทหารและม้าที่แข็งแกร่ง กำลังจับตาดูจงหยวนอย่างใกล้ชิด"
+DLC1FactionInfo_220,"The force led by Yagyū Musashi, with great ambition!",กองกำลังที่นำโดยยางิว มุซาชิ มีความทะเยอทะยานอย่างมาก!
+DLC1FactionInfo_221,"The residence of the former dynasty royal family Chai Wangye, although it is not a martial arts sect, it has a good relationship with various martial arts sects and has a considerable reputation in the martial arts world.",ตำหนักราชวงศ์สกุลไฉแห่งราชวงศ์ก่อน ที่ประทับของอ๋องไฉ แม้มิใช่สำนักยุทธ แต่กลับมีความสัมพันธ์อันดีกับสำนักต่างๆ ทำให้ได้รับการยอมรับไม่น้อยในยุทธภพ
+DLCTraderName_故事模式武功商人,Mysterious Man,บุรุษลึกลับ
+TraitName_DLC先天_伤害提升,Damage Increase,เพิ่มพลังโจมตี
+TraitName_DLC先天_龙精虎猛,Stalwart,กำยำ
+TraitName_DLC先天_身轻如燕,Light body,ตัวเบา
+TraitName_DLC先天_如影随形,Shadow Follows Shape,เงาตามติด
+TraitName_DLC先天_铜身铁骨,Iron Body,กายาเหล็กไหล
+TraitName_DLC先天_身强体健,Hardened,ทนทาน
+TraitName_DLC先天_生命提升,HP Increase,HP เพิ่มขึ้น
+TraitName_DLC先天_暴击提升,Critical Increase,คริติคอลเพิ่มขึ้น
+TraitName_DLC先天_闪避提升,Evasion Increase,หลบหลีกเพิ่มขึ้น
+TraitName_DLC先天_手脚灵活,Quick reflex,โต้ตอบว่องไว
+TraitName_DLC先天_御剑提升,Sword Increase,เพิ่มพลังกระบี่
+TraitName_DLC先天_攻击提升,Attack Increase,พลังโจมตีเพิ่มขึ้น
+TraitName_DLC先天_格挡提升,Parry Increase,ปัดป้องเพิ่มขึ้น
+TraitName_DLC先天_攻击增强,Attack Enhancement,เสริมการโจมตี
+TraitName_DLC先天_防御增强,Defense Enhancement,เสริมการป้องกัน
+TraitName_DLC先天_生命增强1,HP Enhancement,เพิ่ม HP
+TraitName_DLC先天_健步如飞,Quick step,ฝีเท้าว่องไว
+TraitName_DLC先天_辣手无情,Ruthless Hand,หัตถ์ไร้ปรานี
+TraitName_DLC先天_破云之力,Cloud-breaking Power,พลังทลายเมฆา
+TraitName_DLC先天_武器加持,Weapon Blessing,เสริมพลังอาวุธ
+TraitName_DLC先天_身轻如羽,Light as a Feather,เบาดุจขนนก
+TraitName_DLC先天_伺机而动,Fast response,ตอบสนองว่องไว
+TraitName_DLC先天_奋勇向前,Brave Charge,ทะลวงห้าวหาญ
+TraitName_DLC先天_清心寡欲,Clear Mind and Few Desires,ไร้ปรารถนา
+TraitName_DLC先天_强体健肌,Strong Body and Muscles,ร่างแกร่ง
+TraitName_DLC先天_防具加持,Armor Blessing,เสริมเกราะ
+TraitName_DLC先天_运筹帷幄,Tactical Strategist,วางกลยุทธ์
+TraitName_DLC先天_伤敌恢复,Enemy Recovery,ฟื้นฟูจากศัตรู
+TraitName_DLC先天_内力节流,MP Conservation,ควบคุมลมปราณ
+TraitName_DLC先天_气场扰乱,Aura Disruption,ค่าปราณสับสน
+TraitName_DLC先天_闪避增强,Evasion Enhancement,เสริมหลบหลีก
+TraitName_DLC先天_圣火护体,Divine Flame Protection,เพลิงศักดิ์สิทธิ์คุ้มกาย
+TraitName_DLC先天_箫音暴击,Flute Critical,เสียงขลุ่ยทรงพลัง
+TraitName_DLC先天_枪棍守护,Polearm Defense,ตั้งรับหอกพลอง
+TraitName_DLC先天_环环相扣,Interlocking,เกี่ยวพัน
+TraitName_DLC先天_伤害强化,Damage Enhancement,เสริมความเสียหาย
+TraitName_DLC先天_生命增强,HP Enhancement,เพิ่ม HP
+TraitName_DLC先天_受击自愈,Self-healing when Hit,ฟื้นฟูเมื่อถูกโจมตี
+TraitName_DLC先天_危急自救,Emergency Self-rescue,ช่วยตนฉุกเฉิน
+TraitName_DLC先天_动物猎手,Animal Hunter,พรานสัตว์
+TraitName_DLC先天_身似掠影,Shadow-like Body,ร่างดุจเงาไหว
+TraitName_DLC先天_背击破招,Back Attack Break,โจมตีทลายด้านหลัง
+TraitName_DLC先天_侧击破招,Side Attack Break,โจมตีทลายด้านข้าง
+TraitName_DLC先天_格挡增强,Parry Enhancement,เสริมปัดป้อง
+TraitName_DLC先天_暴击增强,Critical Enhancement,เสริมคริติคอล
+TraitName_DLC先天_内力增强,MP Enhancement,เสริม MP
+TraitName_DLC先天_伤害增强,Damage Enhancement,เสริมความเสียหาย
+TraitName_DLC先天_剑意凛然,Sword Intent,แก่นแท้แห่งกระบี่
+TraitName_DLC先天_疏而不漏,Precision,แม่นยำ
+TraitName_DLC先天_连击增强,Combo Enhancement,เสริมโจมตีต่อเนื่อง
+TraitName_DLC先天_攻势如虹,Offense like a Rainbow,รุนแรงดั่งสายรุ้ง
+TraitName_DLC先天_钢筋铁骨,Steel Bones,กระดูกเหล็กกล้า
+TraitName_DLC先天_生龙活虎,Vigorous,แข็งแรง
+TraitName_DLC先天_速战速决,Blitz attack,จู่โจมสายฟ้าแลบ
+TraitName_DLC先天_一击必杀,Instant death,สังหารทันที
+TraitName_DLC先天_致命伤害,Critical Damage,ความเสียหายคริติคอล
+TraitName_DLC先天_斩敌追击,Enemy Chasing,ไล่ล่าศัตรู
+TraitName_DLC先天_逆境求生,Survival in Adversity,รอดเฉียดตาย
+TraitName_DLC先天_反弹伤害,Damage Reflect,สะท้อนความเสียหาย
+TraitName_DLC先天_铜墙铁壁,Wall of steel,กำแพงเหล็กกล้า
+TraitName_DLC先天_绝处逢生,Survival in Despair,รอดจากหายนะ
+TraitName_DLC先天_乘胜追击,Continuous assault,จู่โจมต่อเนื่อง
+TraitName_DLC先天_独具慧眼,Insightful Eye,มองทะลุปรุโปร่ง
+TraitName_DLC先天_身如鬼魅,Rapid response,ร่างดุจมารร้าย
+TraitName_DLC先天_武功扰乱,Martial Arts Disruption,ขัดวรยุทธ์
+TraitName_DLC先天_借势而行,Follower's Path,ใช้ประโยชน์จากสถานการณ์
+TraitName_DLC先天_印记增幅,Mark Increase Roll,เสริมพลังรอยประทับ
+TraitName_DLC先天_印记反制,Mark Counter,โต้ตอบรอยประทับ
+TraitName_DLC先天_免疫屏障,Immune Barrier,เกราะต้านทาน
+TraitName_DLC先天_御兽之能,Beast Taming Ability,พลังควบคุมสัตว์
+TraitName_DLC先天_御兽之术,Beast Taming Technique,วิชาฝึกสัตว์
+TraitName_DLC先天_免疫背击,Immune to Back attack,ต้านทานโจมตีด้านหลัง
+TraitName_DLC先天_免疫侧击,Immune to Side attack,ต้านทานโจมตีด้านข้าง
+TraitName_DLC先天_免疫控制,Immune to Control,ต้านทานการควบคุม
+TraitName_DLC先天_致命暴击,Critical Critical,ถึงฆาตโจมตี
+TraitName_DLC先天_御剑增伤,Sword Increases Damage,เพิ่มความเสียหายกระบี่
+TraitName_DLC先天_神失梦迷,Lost in Dreams,ตกอยู่ในภวังค์
+TraitName_DLC先天_融金藏锋,Melting Gold and Hiding Blade,หลอมทองซ่อนคม
+TraitName_DLC先天_协同守护,Cooperative Defense,ร่วมใจพิทักษ์
+TraitName_DLC先天_威震一方,Preeminent,โด่งดัง
+TraitName_DLC先天_追风掣电,Windwalker,ล่องเวหา
+TraitName_DLC先天_百炼成钢,Spirit of Steel,จิตวิญญาณเหล็กกล้า
+TraitName_DLC先天_坚守之心,Defender's Heart,จิตใจมุ่งมั่น
+Tech-Player_0,Basic,พื้นฐาน
+Tech-Player_4,General,ทั่วไป
+Tech-Player_1,General-Speed,ทั่วไป-ความเร็ว
+Tech-Player_2,General-Attack,ทั่วไป-โจมตี
+Tech-Player_3,General-Defense,ทั่วไป-ป้องกัน
