@@ -1,0 +1,55 @@
+name: ParaToGit
+
+on:
+  schedule:
+    - cron: '0 17,23,5,11 * * *'
+  workflow_dispatch:
+
+jobs:
+  paracmd:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+    - name: Run build script
+      id: check_error
+      run: |
+        # ดาวน์โหลดไฟล์จาก API โดยใช้ curl หรือ wget
+        curl -O -J -L --header "Authorization: ${{ secrets.PARATRANZ_ROOT }}" https://paratranz.cn/api/projects/8405/artifacts/download
+    - name: Extrack
+      run: |
+        # ทำการสร้างโฟลเดอร์ใหม่และแยกไฟล์
+        rm -rf WulinPy/GenerateCSVtoXSLX/csv_input
+        mkdir -p WulinPy/GenerateCSVtoXSLX/csv_input
+        unzip -q -o download -d WulinPy/GenerateCSVtoXSLX
+        mv WulinPy/GenerateCSVtoXSLX/utf8/* WulinPy/GenerateCSVtoXSLX/csv_input
+        rm -rf WulinPy/GenerateCSVtoXSLX/utf8
+        rm -f download
+    - name: List Extracted Files
+      run: |
+        # แสดงรายการไฟล์ที่ถูกแยก
+        ls WulinPy/GenerateCSVtoXSLX/csv_input        
+    - name: Set up Git user
+      run: |
+        # ตั้งค่าผู้ใช้ Git
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'         
+    - name: Push changes
+      run: |
+        # เพิ่มไฟล์และทำการ commit และ push
+        # if [ -n "$(git status --porcelain)" ]; then
+        #   git add WulinPy/GenerateCSVtoXSLX/csv_input/*
+        #   commitMessage=$(date +'%m-%d')' Update Translated'
+        #   git commit -m "$commitMessage"
+        #   git push https://github-actions[bot]:${{ secrets.GH_TOKEN }}@github.com/1ookilo/WulinSH-TH
+        # else
+        #   echo "No changes in files. Skipping commit and push."
+        # fi
+        if [ -n "$(git status --porcelain)" ]; then
+          git add WulinPy/GenerateCSVtoXSLX/csv_input/*
+          commitMessage=$(date +'%m-%d')' Update Translated'
+          git commit -m "$commitMessage"
+          git push https://github-actions[bot]:${{ secrets.GH_TOKEN }}@github.com/1ookilo/WulinSH-TH
+        else
+          echo "No changes in files. Skipping commit and push."
+        fi

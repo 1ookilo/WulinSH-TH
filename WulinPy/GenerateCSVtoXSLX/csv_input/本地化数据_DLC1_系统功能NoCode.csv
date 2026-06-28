@@ -1,0 +1,424 @@
+﻿﻿DLC1Colon,：,：
+DLC1CurrentTime,"Year {0}, Month {1}","ปี {0}, เดือน {1}"
+DLC1PassTime,{0}M passed,ผ่านไปแล้ว {0} เดือน
+DLC1ExpectedIncome,Estimated Coins: {0},ประมาณการรายรับ: {0}
+DLC1ProvinceBelong,Affiliation:,สังกัด:
+DLC1ProvinceStability,Stable:,ความมั่นคง:
+DLC1SLGCoin,Coins:,เงิน:
+DLC1SLGSpecial,Resources:,ทรัพยากร:
+DLC1PerMonth,/month,/เดือน
+DLC1ActionAttackTitle,Strike Out,โจมตี
+DLC1ActionAttackContent,"Form a team to launch an attack on a plot of land or to block an enemy's attacking team.\nWhen <color=#a94e37>Defense</color> is needed against enemy attacks, form a team, select the attacked plot as the starting point, and then click on the enemy's <color=#a94e37>attacking team</color> to defend.","สร้างกลุ่มลูกศิษย์เพื่อเริ่มการโจมตีพื้นที่ หรือป้องกันการโจมตีของกลุ่มศัตรู\nการ <color=#a94e37>ป้องกัน</color> การโจมตีของศัตรู, เมื่อสร้างกลุ่มแล้ว ให้เลือกพื้นที่ที่ถูกโจมตีเป็นจุดเริ่มต้น จากนั้นคลิกที่ <color=#a94e37>กลุ่มศัตรู</color> ที่กำลังโจมตีเพื่อทำการป้องกัน"
+DLC1ActionCureTitle,Heal,รักษา
+DLC1ActionCureContent,Allow injured or MP-depleted Disciple to recover HP and MP.,ทำให้ลูกศิษย์ที่ได้รับบาดเจ็บหรือมีพลังภายในขาดหาย ฟื้นฟู HP และ MP
+DLC1ActionCheckTitle,Info,ข้อมูล
+DLC1ActionCheckContent,Info about the Disciple under your sect.,ดูรายละเอียดของลูกศิษย์ในสำนัก
+DLC1ActionAppeaseTitle,Benefit,ช่วยเหลือผู้คน
+DLC1ActionAppeaseContent,"Let the Disciple under your sect recover the <color=#a94e37>stability</color> of the target location.\nThe higher the Level of the city, the less likely the stability will decrease.\nThe decrease in stability is directly related to the number of hostile forces of the sect. The more enemies you have, the faster the stability of the plot decreases.","ทำให้ศิษย์ในสำนักฟื้นฟู <color=#a94e37>ความมั่นคง</color> ในพื้นที่เป้าหมาย\nยิ่งเมืองมีระดับสูง ความมั่นคงจะยิ่งลดช้าลง\nความมั่นคงลดลง สัมพันธ์กับจำนวนกองกำลัง ที่เป็นศัตรูกับสำนัก ยิ่งมีศัตรูมาก ความมั่นคงก็ลดลงเร็วมาก"
+DLC1ActionJourneyTitle,Event,เหตุการณ์
+DLC1ActionJourneyContent,The place to undertake special events.,จุดรับเหตุการณ์พิเศษที่เกิดขึ้น
+DLC1ActionComprehendTitle,Grasp,เรียนรู้
+DLC1ActionComprehendContent,Grasp or forget martial arts.,สามารถให้ศิษย์เรียนรู้วรยุทธ์ หรือ ลืมวรยุทธ์ได้
+DLC1ActionPractiseTitle,Learn,ฝึกฝน
+DLC1ActionPractiseContent,Improve the martial arts Experience of the Disciple.,เพิ่มค่าประสบการณ์ยุทธ์ให้กับลูกศิษย์
+DLC1ActionExperienceTitle,Experience,ประสบการณ์
+DLC1ActionExperienceContent,Experience Content,เนื้อหาประสบการณ์ในการฝึกฝน
+DLC1ActionResearchTitle,Meditation,ทำสมาธิ
+DLC1ActionResearchContent,"Let the Disciple meditate to generate <color=#a94e37>meditation points</color>. Only 1 Disciple can do this per month.\nThe higher the Intelligence, the more meditation points produced.","ให้ลูกศิษย์นั่งสมาธิ เพื่อสร้าง <color=#a94e37>แต้มสมาธิ</color> สามารถส่งลูกศิษย์ไปนั่งสมาธิได้เพียง 1 คนต่อเดือนเท่านั้น\nยิ่งมีสติปัญญาสูงแต้มสมาธิก็ยิ่งมากขึ้น"
+DLC1ActionRewardTitle,Reward,รางวัล
+DLC1ActionRewardContent,Reward Content,เนื้อหารางวัล
+DLC1ActionRecruitTitle,recruit,รับสมัคร
+DLC1ActionRecruitContent,Here you can recruit talents.,ที่นี่สามารถรับสมัครผู้มีความสามารถได้
+DLC1ActionManageTitle,Manage,บริหารสำนัก
+DLC1ActionManageContent,"Allows the sect's Disciple to <color=#a94e37>promote</color> to inner sect Disciple, can <color=#a94e37>expel</color> unsatisfactory Disciples (not available in story mode), can <color=#a94e37>rename</color> sect's Disciples.","สามารถให้ศิษย์ในสำนัก <color=#a94e37>เลื่อนตำแหน่ง</color> เป็นศิษย์ภายใน, สามารถ <color=#a94e37>ขับไล่</color> ศิษย์ที่ไม่พอใจออกไป (ไม่สามารถใช้ได้ในโหมดเรื่องราว), สามารถ <color=#a94e37>เปลี่ยนชื่อ</color> ให้ศิษย์ในสำนักได้"
+DLC1ActionFeatureTitle,Traits,คุณลักษณะ
+DLC1ActionFeatureContent,Adjust the <color=#a94e37>sect talent</color> for the target Disciple.,ปรับเปลี่ยน <color=#a94e37>ทักษะพิเศษของสำนัก</color> สำหรับลูกศิษย์ที่เลือก
+DLC1ActionSupportTitle,Supply,เสบียง
+DLC1ActionSupportContent,Let the Disciple recover the HP and MP of the <color=#a94e37>stationed Disciple</color> at the target location.,ทำให้ลูกศิษย์ในสำนักฟื้นฟู HP และ MP ของ <color=#a94e37>ลูกศิษย์ที่ประจำการ</color> ในสถานที่เป้าหมาย
+DLC1ActionDevelopTitle,Planning,วางแผน
+DLC1ActionDevelopContent,Unlock new features or gains for the sect.,ปลดล็อกทักษะพิเศษใหม่หรือการเพิ่มพลังสำหรับสำนัก
+DLC1ActionForeignAffairsTitle,Diplomacy,การทูต
+DLC1ActionForeignAffairsContent,Interact with other sects.,ติดต่อกับสำนักอื่น
+DLC1ActionTradeTitle,Trade,แลกเปลี่ยน
+DLC1ActionTradeContent,"Buy goods from the Merchant.\nPay attention to the Merchant's stay time.","แลกเปลี่ยนหรือซื้อสินค้าจากพ่อค้า\nโปรดสังเกตเวลาคงอยู่ของพ่อค้า"
+DLC1ActionItemTitle,Item,สิ่งของ
+DLC1ActionItemContent,"Modify the Disciple's Outfit, use consumables for the Disciple, use consumables for the sect.","ปรับเปลี่ยนอุปกรณ์สวมใส่ของศิษย์, ใช้ของบริโภคสำหรับศิษย์, ใช้ของบริโภคสำหรับสำนัก"
+DLC1UICancel,Cancel,ยกเลิก
+DLC1UIPageManageUpgrade,Promotion,เลื่อนขั้น
+DLC1UIPageManageFire,Leave the door,ออกจากสำนัก
+DLC1UIPageManageCheck,Info Details,ดูรายละเอียด
+DLC1UIPageManageSalaryNext,Cost after promotion/month,ค่าใช้จ่ายหลังเลื่อนขั้น/เดือน
+DLC1UIPageManageSalaryCurrent,Current cost/month,ค่าใช้จ่ายปัจจุบัน/เดือน
+DLC1UIPageManageRank,Position,ตำแหน่ง
+DLC1UIPageManageLv,Level,ระดับ
+DLC1UIPageManageName,Name,ชื่อ
+DLC1UIPageManageTitle,Disciple Management,จัดการลูกศิษย์
+DLC1CurrencySLGCoinTitle,Coin,เงิน
+DLC1CurrencySLGCoinContent,"Obtain through <color=#a94e37>land, diplomacy, trade</color> and other methods.","ได้รับผ่าน <color=#a94e37>พื้นที่, การทูต, แลกเปลี่ยน</color> และวิธีอื่นๆ"
+DLC1CurrencySLGTributeTitle,Meditation points,แต้มสมาธิ
+DLC1CurrencySLGTributeContent,"Generated by sending Disciples to <color=#a94e37>meditate</color>, consumed in the <color=#a94e37>planning</color> panel.","ได้รับโดยการส่งลูกศิษย์ไปทำ <color=#a94e37>สมาธิ</color> เพื่อสร้างแต้มสมาธิ, และใช้ใน <color=#a94e37>หน้าจัดการวางแผน</color>"
+DLC1CurrencySLGFoodTitle,Food,อาหาร
+DLC1CurrencySLGFoodContent,"Obtain through <color=#a94e37>land, diplomacy, trade</color> and other methods.","ได้รับผ่าน <color=#a94e37>พื้นที่, การทูต, แลกเปลี่ยน</color> และวิธีอื่นๆ"
+DLC1CurrencySLGMineTitle,Mineral resources,ทรัพยากรแร่
+DLC1CurrencySLGMineContent,"Obtain through <color=#a94e37>land, diplomacy, trade</color> and other methods.","ได้รับผ่าน <color=#a94e37>พื้นที่, การทูต, แลกเปลี่ยน</color> และวิธีอื่นๆ"
+DLC1CurrencySLGDrugTitle,Herb,สมุนไพร
+DLC1CurrencySLGDrugContent,"Obtain through <color=#a94e37>land, diplomacy, trade</color> and other methods.","ได้รับผ่าน <color=#a94e37>พื้นที่, การทูต, แลกเปลี่ยน</color> และวิธีอื่นๆ"
+DLC1CurrencySLGWoodTitle,Wood,ไม้
+DLC1CurrencySLGWoodContent,"Obtain through <color=#a94e37>land, diplomacy, trade</color> and other methods.","ได้รับผ่าน <color=#a94e37>พื้นที่, การทูต, แลกเปลี่ยน</color> และวิธีอื่นๆ"
+DLCQuickBattleConfirm,Start a quick battle?,เริ่มการต่อสู้แบบด่วน?
+DLC1NoOwnerGround,No Man's Land,ดินแดนไม่มีเจ้าของ
+DLC1TaskPrize,Reward:,รางวัล:
+DLC1AttackCost,Attack cost:,ค่าโจมตี:
+DLC1AppeaseCost,Benefit People Cost:,ค่าช่วยเหลือผู้คน:
+DLC1SupportCost,Supply Cost:,ค่าทรัพยากร:
+DLC1AttackTip,Choose the starting point of the attack,เลือกจุดเริ่มต้นของการโจมตี
+DLC1AttackTip1,Please select the Characters to attack together (up to 6),กรุณาเลือกตัวละครที่จะออกโจมตีร่วมกัน (สูงสุด 6 คน)
+DLC1AttackDoAction,Strike Out,โจมตี
+DLC1CureTip,Please select the Character to Heal,โปรดเลือกตัวละครที่จะรักษา
+DLC1AppeaseDoAction,Benefit People,ช่วยเหลือผู้คน
+DLC1AppeaseTip,Please select the Character to Benefit People,โปรดเลือกตัวละครที่ช่วยเหลือผู้คน
+DLC1AppeaseTipTarget,Please select the location for the benefit of the people,กรุณาเลือกสถานที่ที่จะช่วยเหลือผู้คน
+DLC1ComprehendTip,Please select the character to comprehend the martial arts,กรุณาเลือกตัวละครที่จะเข้าใจวรยุทธ์
+DLC1FactionKungfu,Sect martial arts,วรยุทธ์สำนัก
+DLC1SupportDoAction,Resupply,จัดส่งเสบียง
+DLC1SupportTip,Please select the character to resupply,กรุณาเลือกตัวละครที่จะทำการจัดส่งเสบียง
+DLC1SupportTipTarget,Please select the location for resupply,กรุณาเลือกสถานที่จะจัดส่งเสบียง
+DLC1ResearchTip,Please select the Character for meditation,กรุณาเลือกตัวละครที่จะทำสมาธิ
+DLC1ResearchGetReward,Will get: {0} meditation points,จะได้รับ: {0} แต้มสมาธิ
+DLC1ResearchTip1,"The higher the Character's Intelligence, the more meditation points obtained",หากตัวละครมีสติปัญญาสูง จะได้รับจำนวนแต้มสมาธิมากขึ้น
+DLC1CostNeed,Required:,ต้องการ:
+DLC1ResearchDoAction,Meditation,ทำสมาธิ
+DLC1Comprehension,Intelligence{0},สติปัญญา{0}
+DLC1PractiseTip,Please select the character to learn martial arts,กรุณาเลือกตัวละครที่จะฝึกฝนวรยุทธ์
+DLC1PractiseUnlearned,Not learned,ยังไม่ได้ฝึกฝน
+DLC1PractiseDoAction,Learn,ฝึกฝน
+DLC1PractiseGet,EXP+{0},ค่าประสบการณ์+{0}
+DLC1Position1,Sect Leader,เจ้าสำนัก
+DLC1Position2,Inner Sect Disciple,ศิษย์ในสำนัก
+DLC1Position3,Outer Sect Disciple,ศิษย์นอกสำนัก
+DLC1ManageTitle,Disciple Management,จัดการลูกศิษย์
+DLC1FeatureTip,Please select the character to modify the traits,กรุณาเลือกตัวละครที่จะปรับเปลี่ยนคุณลักษณะ
+DLC1FeaturePre,Innate traits,คุณลักษณะเริ่มต้น
+DLC1FeatureFactionSelect,Select sect traits,เลือกทักษะพิเศษของสำนัก
+DLC1FeatureCanUsePoint,Available points,แต้มที่สามารถใช้ได้
+DLC1FeatureSave,Save,บันทึก
+DLC1RecruitDoAction,Recruit,รับสมัคร
+DLC1RecruitSalary,Recruitment cost,ค่ารับสมัคร
+DLC1RecruitStayTime,Run away after {0} months,จะจากไปในอีก {0} เดือน
+DLC1RecruitMore,More Disciples,ลูกศิษย์เพิ่มเติม
+DLC1RecruitCost,Consumable,ใช้ 
+DLC1RecruitCost1,The number of Disciples visiting next month will increase by one,เดือนหน้าจะมีศิษย์ใหม่มาเยือนเพิ่มอีก 1 คน
+DLC1QuickBattleTitle,Auto Battle,ต่อสู้อัตโนมัติ
+DLC1QuickBattleRemain,Remaining number: {0},จำนวนที่เหลืออยู่: {0}
+DLC1CureDoAction,Start healing,เริ่มการรักษา
+DLC1RecruitBeGoodAt,Specializes in,ถนัด
+DLC1RecruitPrescription,Duration,ระยะเวลา
+DLC1FeatureChangedTip,"Modified the characteristics of {0}, do you want to save?",ได้ปรับเปลี่ยนคุณลักษณะของ {0} แล้ว ต้องการบันทึกหรือไม่?
+DLC1ManageUpgradeTip,Do you want to promote {0} to an inner disciple?,ต้องการเลื่อนตำแหน่ง {0} เป็นลูกศิษย์ภายในหรือไม่?
+DLC1ManageFireTip,Do you want {0} to leave the sect?,ต้องการให้ {0} ออกจากสำนักหรือไม่?
+DLC1AskMakeAllie,"{0} wants to form an alliance with you, do you accept?",{0} ต้องการร่วมมือเป็นพันธมิตรกับท่าน ต้องการยอมรับหรือไม่?
+DLC1AskPeace,"{0} wants to make peace with you, do you accept?",{0} ต้องการเจรจาสันติภาพกับท่าน ต้องการยอมรับหรือไม่?”
+DLC1LogBlank,{0},{0}
+DLC1LogGeneric,%l%{0},%l%{0}
+DLC1LogLevel,%lc%{0}Level has been raised to {1}.,%lc%{0} เลื่อนระดับขึ้นเป็น {1}
+DLC1LogKungfuLevel,%lc%The {1} of {0} has been raised to {2}.,%lc% {0} ของ {1} เพิ่มขึ้นเป็น {2}
+DLC1LogItem,%lc% obtained {0}.,%lc% ได้รับ {0}
+DLC1LogItemLose,%l%Lost {0}.,%l% สูญเสีย {0}
+DLC1LogCurrency,%lc% obtained {0}{1}.,%lc% ได้รับ {0}{1}
+DLC1LogCurrencyLose,%l%Lost {0}{1}.,%l% สูญเสีย {0}{1}
+DLC1LogBuff,%lc% obtained feature {0}.,%lc% ได้รับทักษะพิเศษ {0}
+DLC1LogKungfu,%lc% obtained {0}.,%lc% ได้รับ {0}
+DLC1LogRelation,"%lc% Relations with {0} have increased by {1}, currently at {2}.","%lc% กับ {0} ความสัมพันธ์เพิ่มขึ้น {1}, ขณะนี้อยู่ที่ {2}"
+DLC1LogTrade,"%lc% traded with {0}, obtained {1}{2}.",%lc% ค้าขายกับ {0} ได้รับ {1}{2}
+DLC1LogTraderVisted,%lc% {0} has arrived.,%lc% {0} ถึงแล้ว
+DLC1LogTradeLeave,%l%{0} has run away.,%l% {0} ได้ออกไปแล้ว
+DLC1LogMaxMember,"%ls%The current number of Disciples has exceeded the sect limit, all Disciples' Mood decreases by <color=#a94e37>{0}</color> points.",%ls% จำนวนศิษย์ปัจจุบันเกินขีดจำกัดของสำนักแล้ว ลูกศิษย์ทั้งหมดค่าอารมณ์ลดลง <color=#a94e37>{0}</color> แต้ม
+DLC1LogBeAttacked,"%ls% {0} is about to attack my {1}, be on guard.",%ls% {0} กำลังจะโจมตีฝ่ายเรา {1} โปรดระวัง
+DLC1LogAllieExit,%ls% {0} is no longer an ally of this sect.,%ls% {0} ไม่ใช่พันธมิตรของสำนักเราอีกต่อไป
+DLC1LogFactionEliminate,
+DLC1LogTitleMaxMember,Disciples exceed limit,ลูกศิษย์เกินขีดจำกัด
+DLC1LogTitleBeAttacked,Being attacked,ถูกโจมตี
+DLC1LogTitleAllieExit,Alliance ended,สิ้นสุดการเป็นพันธมิตร
+DLC1LogTitleFactionEliminate,Sect destroyed,สำนักถูกทำลาย
+DLC1ArenaFighting,In battle,กำลังต่อสู้
+DLC1JourneyTimeLess,Duration: {0} months,ระยะเวลา: {0} เดือน
+DLC1JourneyMemberNum0,Limit: {0} people,จำกัด: {0} คน
+DLC1JourneyMemberNum1,Limit: {0}-{1} people,จำกัด: {0}-{1} คน
+UIPageJourney_Content_UITipFeature_btnGo_Text(TMP),Depart,ออกเดินทาง
+UIPageJourneySelectMax,%lc%Exceeding the number limit,%lc% เกินจำนวนที่กำหนด
+UIPageJourneySelectMin,Insufficient number of people,จำนวนไม่เพียงพอ
+DLC1AiAttack,%l%{0} is preparing to attack {1}'s {2}.,%l% {0} เตรียมโจมตี {1} ที่ {2}
+DLC1AiFactionStatusNoneSuccess,%l%{0} and {1} have successfully negotiated peace.,%l% {0} กับ {1} เจรจาสำเร็จ
+DLC1AiFactionStatusNoneFail,%l%{0} and {1} failed to negotiate peace.,%l% {0} กับ {1} เจรจาล้มเหลว
+DLC1AiFactionDeadTitle,Sect destroyed,สำนักถูกทำลาย
+DLC1AiFactionDeadContent,%ls% {0} has disappeared from the martial arts world.,%ls% {0} ได้หายสาบสูญไปจากยุทธภพแล้ว
+DLC1ChronicleInfo_MemberAdd,Disciple {0} has joined the sect.,ศิษย์ {0} เข้าร่วมสำนัก
+DLC1ChronicleInfo_MemberPromoted,Disciple {0} has been promoted to an inner disciple.,ศิษย์ {0} ได้เลื่อนตำแหน่งเป็นศิษย์ภายใน
+DLC1ChronicleInfo_MemberLeaved,Disciple {0} has been expelled from the sect.,ศิษย์ {0} ถูกขับไล่ออกจากสำนัก
+DLC1ChronicleInfo_ProvinceAdd,{0} has been occupied.,ยึดครอง {0}
+DLC1ChronicleInfo_ProvinceLost,{0} has been lost.,สูญเสีย {0}
+DLC1ChronicleInfo_FactionEnemy,We have entered a hostile state with {0}.,เข้าเป็นศัตรูกับ {0}
+DLC1ChronicleInfo_FactionDefeated,{0} has been annihilated., {0} ถูกกวาดล้างแล้ว
+DLC1ChronicleInfo_FactionTrading,We have established a trade relationship with {0}.,ตกลงค้าขายกับ {0}
+DLC1ChronicleInfo_FactionTradingEnd,We have terminated our trade relationship with {0}.,ยกเลิกความสัมพันธ์ทางการค้า กับ {0}
+DLC1ChronicleInfo_FactionAllie,We have become allies with {0}.,กลายเป็นพันธมิตรกับ {0}
+DLC1ChronicleInfo_FactionAllieEnd,We have terminated our alliance with {0}.,ยกเลิกความสัมพันธ์พันธมิตรกับ {0}
+DLC1ChronicleInfo_GameWin,"Dominating the Martial World, game victory!",ยึดครองยุทธภพสำเร็จ ชนะเกม!
+DLC1ChronicleInfo_GameLose,"Our sect has been annihilated, game over!",สำนักถูกทำลายแล้ว เกมล้มเหลว!
+DLC1ForeignAgreeTradeCommon,"We, {0}, agree to trade with {1}!",เรา {0} ตกลงที่จะค้าขายกับ {1}!
+DLC1ForeignBeFriendCost,Do you want to spend {0} money to reconcile with {1}?,ต้องการใช้เงิน {0} เพื่อเจรจากับ {1} ไหม?
+DLC1ForeignAgreeReconciledCommon,"We, {0}, agree to a temporary ceasefire with {1}!",เรา {0} ตกลงที่จะสงบศึกชั่วคราวกับ {1}!
+DLC1ForeignRefuseReconciledCommon,"We, {0}, refuse to reconcile with {1}. To the death!",เรา {0} ปฏิเสธที่จะเจรจากับ {1} สู้ตายไปเลย!
+DLC1ForeignAgreeAlignedCommon,"We, {0}, agree to form an alliance with {1}!",เรา {0} ตกลงที่จะเป็นพันธมิตรกับ {1}!
+DLC1ForeignRefuseAlignedCommon,"We, {0}, refuse to form an alliance with {1}. Sorry!",ขออภัย เรา {0} ปฏิเสธที่จะเป็นพันธมิตรกับ {1}！
+DLC1ForeignRelationAddForMe,Our relationship with this sect: {0}<color=green>+{1}</color>,ความสัมพันธ์กับสำนักนี้: {0} <color=green>+{1}</color>
+DLC1ForeignAgreePresentCommon,Thank you for {0}'s gift!,ขอบคุณสำหรับของขวัญจาก {0}!
+DLC1TraderStayTime,Stay for {0} months,อยู่ที่นี่ {0} เดือน
+DLC1TraderCommingTime,Visit after {0} months,จะมาเยือนอีก {0} เดือน
+DLC1Difficult0,Easy,ง่าย
+DLC1Difficult1,Normal,ปกติ
+DLC1Difficult2,Hard,ยาก
+DLC1Difficult3,Nightmare,ฝันร้าย
+DLC1SelectFactionStartGame,Start Game,เริ่มต้นเกม
+DLC1SelectFaction,Select Faction,เลือกฝ่าย
+DLC1SelectFactionStartGameTip,Eliminate {0} at any difficulty to unlock this force.,กวาดล้าง {0} ในระดับความยากใดๆ จะปลดล็อกกองกำลังนี้
+DLC1SelectedFaction,Selected Faction,ฝ่ายที่เลือก
+DLC1SelectFactionOriginCharacters,Initial Faction Character,ตัวละครเริ่มต้นของสำนัก
+DLC1SelectFactionKungfus,Faction Martial Arts,วรยุทธ์ของสำนัก
+DLC1SelectFactionFeatures,Faction Traits,คุณลักษณะของสำนัก
+DLC1SelectOriginResources,Initial Resources,ทรัพยากรเริ่มต้น
+DLC1ForeignBtnBeFriend,Make friends,ผูกมิตร
+DLC1ForeignBtnTrade,Trade,การค้า
+DLC1ForeignBtnReconciled,Reconciliation,เจรจา
+DLC1ForeignBtnAlliance,Alliance,พันธมิตร
+DLC1ForeignFactionCharacters,Faction Character,ตัวละครของสำนัก
+DLC1ForeignTradeEstimated,Trade Estimate,ประเมินการค้า
+DLC1ForeignTrading,Trading,กำลังทำการค้า
+DLC1ForeignAlliancing,Forming Alliance,อยู่ระหว่างการเป็นพันธมิตร
+DLC1ForeignTradedGetResource,Expected monthly gain after trade:,คาดว่าแต่ละเดือนหลังทำการค้าจะได้รับ: 
+DLC1ForeignSelectItems,Select Item,เลือกสิ่งของ
+DLC1ForeignPresent,Gift,ของขวัญ
+DLC1ForeignRelationForMe,Relationship with our sect: {0},ความสัมพันธ์ในสำนัก: {0}
+DLC1PvcTipNoBody,There is no Disciple stationed here.,ที่นี่ไม่มีลูกศิษย์ประจำการอยู่
+DLC1TraderTitle1,Name,ชื่อ
+DLC1TraderTitle2,Price,ราคา
+DLC1TraderTitle3,Stock,มีสินค้า
+DLC1TraderBtnBuy,Buy,ซื้อ
+DLC1ComprehendKungfuUnlockTip,{0} Level Unlock,ปลดล็อกระดับ {0}
+DLC1ComprehendForgetTip,Do you want to forget {0}? All levels will be lost after forgetting.,"คุณแน่ใจว่าต้องการลืม {0} หรือไม่, หากลืมแล้วจะสูญเสียระดับทั้งหมด"
+DLC1ItemPageTip,Please select a character for item information,กรุณาเลือกตัวละครเพื่อตรวจสอบสิ่งของ
+DLC1ChangeFactionNameTip,Change selected faction name,แก้ไขชื่อฝ่ายที่เลือกแล้ว
+DLC1JSMovePoint,Move cursor,เคลื่อนเม้าส์
+DLC1JSSelectTarget,Select target,เลือกเป้าหมาย
+DLC1JSIncomeNext,Income estimate,คาดการณ์รายได้
+DLC1JSSelectAction,Select action,เลือกการกระทำ
+DLC1JSDoAction,Execute,ดำเนินการ
+DLC1JSInformation,Message,ข้อความ
+DLC1JSSetting,Settings,ตั้งค่า
+DLC1JSTipShow,Key Prompt,เคล็ดลับปุ่ม
+DLC1JSClickAction,Perform action,ดำเนินการ
+DLC1JSMapStage,Select location,เลือกสถานที่
+DLC1Compet0,The <color=#a94e37>{0}</color> round of competition is about to begin.,การแข่งขันรอบที่ <color=#a94e37>{0}</color> กำลังจะเริ่มขึ้น
+DLC1Compet1,<color=#a94e37>{0}</color>'s <color=#a94e37>{1}</color> is fighting against <color=#a94e37>{2}</color>'s <color=#a94e37>{3}</color>.,<color=#a94e37>{0}</color> ของ <color=#a94e37>{1}</color> จะต่อสู้กับ <color=#a94e37>{2}</color> ของ <color=#a94e37>{3}</color>
+DLC1Compet2,"Due to the number of participants, congratulations to <color=#a94e37>{0}</color>'s <color=#a94e37>{1}</color> for advancing directly to the next round of competition.",ด้วยจำนวนคนที่มีอยู่ ขอแสดงความยินดีกับ <color=#a94e37>{0}</color> ของ <color=#a94e37>{1}</color> ที่ได้เข้าสู่รอบถัดไปโดยตรง
+DLC1Compet3,The <color=#a94e37>{0}</color> round of competition officially begins.,การแข่งขันรอบที่ <color=#a94e37>{0}</color> ของการแข่งขันอย่างเป็นทางการ กำลังเริ่มต้นขึ้น
+DLC1Compet4,"After an exciting competition, the champion of this martial arts tournament is <color=#a94e37>{0}</color>'s <color=#a94e37>{1}</color>, rewarded with <color=#a94e37>100 martial arts certificates</color>.",หลังจากการแข่งขันที่น่าตื่นเต้น ผู้ชนะของงานชุมนุมยุทธภพครั้งนี้คือ <color=#a94e37>{0}</color> ของ <color=#a94e37>{1}</color> รางวัล <color=#a94e37>100 เหรียญยุทธภพ</color>
+DLC1Compet5,"The runner-up is <color=#a94e37>{0}</color>'s <color=#a94e37>{1}</color>, rewarded with <color=#a94e37>60 martial arts certificates</color>.",รองชนะเลิศคือ <color=#a94e37>{0}</color> ของ <color=#a94e37>{1}</color> รางวัล <color=#a94e37>60 เหรียญยุทธภพ</color>
+DLC1Compet6,"The third place is <color=#a94e37>{0}</color>'s <color=#a94e37>{1}</color>, rewarded with <color=#a94e37>30 martial arts certificates</color>.",อันดับสามคือ <color=#a94e37>{0}</color> ของ <color=#a94e37>{1}</color> รางวัล <color=#a94e37>30 เหรียญยุทธภพ</color>
+DLC1Compet7,"The martial arts tournament is over, thank you all for your support.",งานชุมนุมยุทธภพครั้งนี้สิ้นสุดลง ขอบคุณทุกท่านที่ให้การสนับสนุน
+AiProgressText,{0} is taking action,{0} กำลังลงมือ
+DLC1JSProvinceInfoCheck,Info,ข้อมูล
+DLC1JSProvinceInfoClose,Close interface,ปิดหน้าต่าง
+DLC1TipNextIncomeTitle,Income estimate,คาดการณ์รายได้
+DLC1TipDiff1Title,Easy,ง่าย
+DLC1TipDiff1Content,"A relatively easy gameplay difficulty, AI's damage is reduced by <color=#0cf045>50%</color>, AI's resource acquisition is reduced by <color=#0cf045>50%</color>.","ความยากในการเล่น ""ง่าย"", ความเสียหายของ AI ลดลง <color=#0cf045>50%</color>, การได้รับทรัพยากรของ AI ลดลง <color=#0cf045>50%</color>"
+DLC1TipDiff2Title,Normal,ปกติ
+DLC1TipDiff2Content,"Recommended gameplay difficulty, AI will cause normal damage and normal resource acquisition.","ความยากในการเล่นที่แนะนำ, AI จะสร้างความเสียหายตามปกติและได้รับทรัพยากรตามปกติ"
+DLC1TipDiff3Title,Hard,ยาก
+DLC1TipDiff3Content,"A gameplay difficulty relative to Hard, AI's Increases Damage by <color=#d70ced>50%</color>, AI's resource acquisition increases by <color=#d70ced>50%</color>.","ยากความยากในการเล่นที่ ""ยาก"", ความเสียหายของ AI เพิ่มขึ้น <color=#d70ced>50%</color>, การได้รับทรัพยากรของ AI เพิ่มขึ้น <color=#d70ced>50%</color>"
+DLC1TipDiff4Title,Nightmare,ฝันร้าย
+DLC1TipDiff4Content,"A very Hard gameplay difficulty, AI's Increases Damage by <color=#c02b10>100%</color>, AI's resource acquisition increases by <color=#c02b10>100%</color>.","ความยากในการเล่น ""ฝันร้าย"", ความเสียหายของ AI เพิ่มขึ้น <color=#c02b10>100%</color>, การได้รับทรัพยากรของ AI เพิ่มขึ้น <color=#c02b10>100%</color>"
+DLC1TipIdlerTitle,Inactive Character,ตัวละครที่ยังไม่ได้ลงมือ
+DLC1TipIdlerContent,There are {0} Disciples who have not acted in the current round.,ในรอบปัจจุบันมีลูกศิษย์ {0} คนที่ยังไม่ได้ลงมือ
+DLC1TipOverTitle,Disciples Overstaffed,จำนวนลูกศิษย์เกิน
+DLC1TipOverContent,"Current Disciples exceed the sect's capacity limit, other Disciples will lose a lot of Mood each round.\nThrough the ""management"" function, force the excess Disciples to ""leave the sect"" (in story mode, it is ""rest"").","ลูกศิษย์ในปัจจุบันเกินขีดจำกัดที่สำนักรองรับได้, ศิษย์คนอื่นๆ ค่าอารมณ์จะลดลงอย่างมากในแต่ละรอบ\nผ่านฟังก์ชัน “บริหารสำนัก” จะบังคับให้ลูกศิษย์ส่วนเกิน “ออกจากสำนัก” (ในโหมดเรื่องจะเป็น “พักผ่อน”)"
+DLC1JSScrollMap,Scroll Map,เลื่อนแผนที่
+DLC1JSScrollCheck,Scroll Info,เลื่อนข้อมูล
+DLC1JSTradeItemInfo,Product Information,ข้อมูลสินค้า
+DLC1JSTraderChange,Switch Merchant,เปลี่ยนพ่อค้า
+DLC1RealIncomeTip,Actual {0}-Disciple consumption {1},รายรับจริง {0} - ลูกศิษย์ใช้ {1}
+DLC1LogPractiseSuccess,%lc%{0}'s {1} gained {2} points of Experience,%lc% {0} ของ {1} ได้รับ {2} แต้มประสบการณ์
+DLC1RecruitLimitTip,%lc%Recruitment limit for this month has been reached,%lc% การรับสมัครในเดือนนี้ถึงขีดจำกัดแล้ว
+DLC1AttackTip2,Please select a target to attack,กรุณาเลือกเป้าหมายที่จะโจมตี
+DLC1AutoSaveClose,Disable auto-save,ยกเลิกบันทึกอัตโนมัติ
+DLC1AutoSaveRound,Every {0} rounds,ทุก {0} รอบ
+DLC1JSShowMoreInfoEnd,Show more,แสดงเพิ่มเติม
+DLC1CharacterInfoRoundCost,Monthly consumption,ใช้จ่ายรายเดือน
+DLC1CharacterInfoMood,Mood,อารมณ์
+DLC1CharPropInfo_心情,"When a Character's Mood is too low, they will be unable to act. You can recover Mood by letting the Character not perform any actions or use items within a round.",เมื่อตัวละครมีอารมณ์ต่ำเกินไป จะไม่สามารถลงมือได้ สามารถฟื้นฟูอารมณ์ได้โดยให้ตัวละครไม่ทำกิจกรรมใดๆ ในรอบนั้นหรือใช้ไอเท็ม
+DLC1CharPropInfo_每日消耗,The amount of money a Character needs to consume each month.,เงินที่ตัวละครต้องใช้จ่ายในแต่ละเดือน
+DLC1CharPropInfo_体质,"The higher this value, the more <color=#a94e37>HP</color> will be increased each time you level up.",ยิ่งค่านี้สูงเท่าไร <color=#a94e37>HP</color> ที่เพิ่มขึ้นทุกครั้งที่เลื่อนระดับก็จะยิ่งสูงขึ้นเท่านั้น
+DLC1CharPropInfo_臂力,"The higher this value, the more <color=#a94e37>Attack power</color> will be increased each time you level up.",ยิ่งค่านี้สูงเท่าไร <color=#a94e37>พลังโจมตี</color> ที่เพิ่มขึ้นทุกครั้งที่เลื่อนระดับก็จะยิ่งสูงขึ้นเท่านั้น
+DLC1CharPropInfo_悟性,"The higher this value, the more <color=#a94e37>MP</color> will be increased each time you level up.",ยิ่งค่านี้สูงเท่าไร <color=#a94e37>MP</color> ที่เพิ่มขึ้นทุกครั้งที่เลื่อนระดับก็จะยิ่งสูงขึ้นเท่านั้น
+DLC1CharPropInfo_敏捷,"The higher this value, the more <color=#a94e37>Action Speed</color> will be increased each time you level up.",ยิ่งค่านี้สูงเท่าไร <color=#a94e37>ความเร็วท่าร่าง</color> ที่เพิ่มขึ้นทุกครั้งที่เลื่อนระดับก็จะยิ่งสูงขึ้นเท่านั้น
+DLC1CharPropInfo_福缘,"The higher this value, the more <color=#a94e37>Critical</color> will be increased each time you level up.",ยิ่งค่านี้สูงเท่าไร <color=#a94e37>คริติคอล</color> ที่เพิ่มขึ้นทุกครั้งที่เลื่อนระดับก็จะยิ่งสูงขึ้นเท่านั้น
+DLC1CharPropInfo_生命,"In battle, having 0 HP means defeat.",ในการต่อสู้ เมื่อค่า HP เหลือ 0 จะหมายความว่า พ่ายแพ้
+DLC1CharPropInfo_内力,The resource used to release martial arts in battle.,ทรัพยากรในการใช้วรยุทธ์ในการต่อสู้
+DLC1CharPropInfo_攻击,"The higher this value, the more damage you will cause.",ยิ่งค่านี้สูงเท่าไร จะยิ่งสร้างความเสียหายสูงขึ้นเท่านั้น
+DLC1CharPropInfo_防御,"The higher this value, the less damage you will take when hit.",ยิ่งค่านี้สูงเท่าไร จะทำให้เมื่อถูกโจมตีความเสียหายที่เกิดขึ้นจะน้อยลงเท่านั้น
+DLC1CharPropInfo_拳掌,The condition for learning Fist-type martial arts.,เงื่อนไขการเรียนรู้วรยุทธ์ประเภทหมัดและฝ่ามือ
+DLC1CharPropInfo_耍刀,The condition for learning Blade-type martial arts.,เงื่อนไขการเรียนรู้วรยุทธ์ประเภทดาบ
+DLC1CharPropInfo_御剑,The condition for learning Sword-type martial arts.,เงื่อนไขการเรียนรู้วรยุทธ์ประเภทกระบี่
+DLC1CharPropInfo_短兵,The condition for learning Short-type martial arts.,เงื่อนไขการเรียนรู้วรยุทธ์ประเภทอาวุธสั้น
+DLC1CharPropInfo_长兵,The condition for learning Long-type martial arts.,เงื่อนไขการเรียนรู้วรยุทธ์ประเภทอาวุธยาว
+DLC1CharPropInfo_命中,The probability of hitting an enemy (will be offset by the enemy's Evasion rate).,โอกาสที่จะโดนโจมตีศัตรู (จะถูกลดทอนด้วยอัตราหลบหลีกของศัตรู)
+DLC1CharPropInfo_乐器,The condition for learning Musical-type martial arts.,เงื่อนไขในการเรียนรู้วรยุทธ์ดนตรี
+DLC1CharPropInfo_暴击,"The probability of a Critical hit when hitting, if a Critical hit occurs, the damage will be doubled.",โอกาสที่เกิดการโจมตีคริติคอลเมื่อโจมตีโดน หากเกิดขึ้น ความเสียหายจะเพิ่มเป็นสองเท่า
+DLC1CharPropInfo_闪避,"The probability of Evasion when hit, if Evasion is successful, the enemy's current attack will be invalid.",โอกาสที่จะหลบหลีกเมื่อถูกโจมตี หากหลบได้สำเร็จ การโจมตีของศัตรูในครั้งนั้นจะไม่มีผล
+DLC1CharPropInfo_格挡,"The probability of Parry when hit, if Parry is successful, the enemy's current attack will only cause 50% damage.",โอกาสที่จะปัดป้องเมื่อถูกโจมตี หากปัดป้องสำเร็จ การโจมตีของศัตรูในครั้งนั้นจะทำให้เกิดความเสียหายเพียง 50%
+DLC1CharPropInfo_集气速度,"The higher this value, the shorter the interval between each action.",ยิ่งค่านี้สูงเท่าไร จะทำให้ระยะเวลาระหว่างการโจมตีแต่ละครั้งสั้นลงเท่านั้น
+DLC1AttackCharacterLimit,%lc% has reached the maximum number of people,%lc% ถึงขีดจำกัดจำนวนคนแล้ว
+DLC1TaskShowOrHide,Task tracking,ติดตามภารกิจ
+DLC1ActionsTip1,%lc% This door has launched an attack on {0}'s {1}.,%lc% สำนักนี้ได้ทำการโจมตี {0} ที่ {1}
+DLC1ActionsTip2,%lc% The stability of {0} will increase by {1} points next month.,%lc% ความมั่นคงของ {0} จะเพิ่มขึ้น {1} แต้มในเดือนหน้า
+DLC1ActionsTip3,%lc% {0} has comprehended {1}.,%lc% {0} ได้เข้าใจ {1}
+DLC1ActionsTip4,%lc%{0}'s stationed Disciple has been resupplied.,%lc% ศิษย์ประจำการที่ {0} ได้รับการจัดส่งเสบียง
+DLC1ActionsTip5,%lc% {0}'s {1} gained {2} points of Experience.,%lc% {0} ของ {1} ได้รับ {2} แต้มประสบการณ์
+DLC1ActionsTip6,%lc% gained {0} points of Meditation.,%lc% ได้รับ {0} แต้มสมาธิ
+DLC1ActionsTip7,%lc% {0} has been expelled from the sect,%lc% {0} ถูกขับไล่ออกจากสำนัก
+DLC1ActionsTip8,%lc% {0} has been promoted to inner Disciple,%lc% {0} ได้เลื่อนตำแหน่งเป็นศิษย์ภายใน
+DLC1ActionsTip9,%lc% {0} has joined the Sect,%lc% {0} เข้าร่วมสำนัก
+DLC1ActionsTip10,%lc% has unlocked {0},%lc% ได้ปลดล็อก {0} แล้ว
+DLC1ActionsTip11,%lc% has established trade relations with {0},%lc% ได้ทำการค้ากับ {0} สำเร็จแล้ว
+DLC1ActionsTip12,%lc%Equipped with the same feature,%lc% ได้สวมใส่ทักษะพิเศษที่เหมือนกันแล้ว
+DLC1ActionsTip13,%lc%Insufficient remaining points,%lc% แต้มที่เหลือไม่เพียงพอ
+DLC1ActionsTip14,%lc% {0} has forgotten {1}.,%lc% {0} ลืม {1} ไปแล้ว
+DLC1ActionsTip15,%lc% Character has reached max level,%lc% ตัวละครถึงระดับสูงสุดแล้ว
+DLC1JoySelectCancel,"Select, cancel","เลือก, ยกเลิก"
+DLC1JoyGo,Depart,ออกเดินทาง
+DLC1JoyStoryToggle,Select event,เลือกเหตุการณ์
+DLC1JoyInfoScroll,Scroll information,เลื่อนข้อมูล
+DLC1JoyExit,Return,กลับ
+DLC1ActionsTip16,"%lc% Relations with {0} have increased by {1}, currently at {2}.","%lc% กับ {0} ความสัมพันธ์เพิ่มขึ้น {1}, ขณะนี้อยู่ที่ {2}"
+DLC1NameInput,Enter,กรอกข้อมูล
+DLC1GameLog_InBattle_KungfuExpLevelUp,%lc%<#61C3C8>{0}</color>'s {1} has been upgraded to <#ff822f>{2}</color>,%lc%<#61C3C8>{0}</color> ของ {1} เพิ่มขึ้น至<#ff822f>{2}</color>
+DLC1GameLog_InBattle_KungfuExpLevelUpNew,%lc%<#ff5555>{0}</color> successfully comprehended {1},%lc%<#ff5555>{0}</color> เข้าใจ {1} สำเร็จ
+DLC1JSLocateFaction,Return to the sect,กลับสำนัก
+DLC1TipLocateTitle,Focus on the sect,มุ่งเน้นไปที่สำนัก
+DLC1TipLocateContent,"Click to focus the view on your own sect's headquarters.\nShortcut key【space】","คลิกเพื่อปรับมุมมองไปที่สำนักหลักของตนเอง\nปุ่มลัด【space】"
+DLC1TipSettingTitle,Settings,ตั้งค่า
+DLC1TipSettingContent,"Click to open the settings menu.\nShortcut key【ESC】","คลิกเพื่อเปิดเมนูการตั้งค่า\nปุ่มลัด【ESC】"
+CharPropName_DLC1心情,DiscipleMood,อารมณ์ของลูกศิษย์
+DLC1RecruitMemberTip,Number of Disciples: {1}/{0},จำนวนลูกศิษย์: {1}/{0}
+SaveInfo_SlgSave,Manual Save,บันทึกเอง
+SaveInfo_SlgAutoSave,Auto Save,บันทึกอัตโนมัติ
+DLC1职位_掌门,Sect Leader,เจ้าสำนัก
+DLC1职位_内门弟子,Inner Disciple,ศิษย์ใน
+DLC1职位_外门弟子,Outer Disciple,ศิษย์นอก
+DLC1职位简写_掌门,SL,SL
+DLC1职位简写_内门弟子,In,เข้า
+DLC1职位简写_外门弟子,Out,ออก
+DLC1SlgMainCheckCharacter,InfoCharacter,ข้อมูลตัวละคร
+DLC1Naming_Denied,"%c%The input contains sensitive words, please re-enter",%c% เนื้อหาที่กรอกมีคำต้องห้าม กรุณากรอกใหม่
+DLC1ResourceNotEnough,%c%Insufficient resources,%c% ทรัพยากรไม่เพียงพอ
+DLC1StartNewGameFail,%c%Force not unlocked,%c% อำนาจยังไม่ถูกปลดล็อก
+DLC1EndText1,Sect,สำนัก
+DLC1EndText2,Duration,ระยะเวลา
+DLC1EndText3,Acquire resources,ได้รับทรัพยากร
+DLC1EndText4,Disciple,ลูกศิษย์
+DLC1EndText5,Journey,ประวัติ
+DLC1EndText6,Return to main interface,กลับสู่หน้าหลัก
+DLC1TechUnlockTip,<#E2BE59>Click the icon to unlock</color>,<#E2BE59>คลิกที่ไอคอนเพื่อปลดล็อก</color>
+DLC1CharPropInfo_等级,"CharacterLevel:\nBased on the five dimensions of the Character, the higher the Level, the higher the Character's combat attributes.\nThe higher the Level, the more martial arts can be learned (up to 4).\nThe higher the Level, the more feature points can be used.","ระดับตัวละคร:\nระดับของตัวละครจะเพิ่มขึ้นตามค่าพลังทั้ง 5 ของตัวละครนั้น ยิ่งระดับสูงขึ้น ตัวละครก็จะยิ่งเก่งขึ้นในการต่อสู้\nยิ่งระดับสูงขึ้น ก็จะเรียนรู้วรยุทธ์ใหม่ๆ ได้มากขึ้น (สูงสุด 4 วิชา)\nยิ่งระดับสูงขึ้น ก็จะสามารถใช้แต้มพัฒนาตัวละครได้มากขึ้น"
+DLC1CharPropInfo_职位,"Position:\nPalm, inner, and outer, respectively, mean that the position is the head of the sect, the inner Disciple, and the outer Disciple.\nThe maximum Level of the head of the sect is 10.\nThe maximum Level of the inner Disciple is 10, but the higher the salary to be paid each month.\nThe maximum Level of the outer Disciple is 6.","ตำแหน่ง:\nเจ้าสำนัก ศิษย์ภายในสำนัก และศิษย์ภายนอกสำนัก\nเจ้าสำนักมีระดับสูงสุดที่ 10\nศิษย์ภายในสำนักมีระดับสูงสุดที่ 10 แต่ต้องจ่ายเงินเดือนสูงขึ้นทุกเดือน\nศิษย์ภายนอกสำนักมีระดับสูงสุดที่ 6"
+DLC1PageForeign_交好,"Make friends:\nYou can execute once per month for each force.\nYou can give Coins, items, and improve the Relations between the other sect and my sect.","ผูกมิตร:\nทุกเดือนสามารถทำการกระทำเพื่อปรับปรุงความสัมพันธ์กับสำนักอื่นได้ 1 ครั้ง\nสามารถมอบเงิน, สิ่งของ ให้กับสำนักอื่นเพื่อเพิ่มความสัมพันธ์"
+DLC1PageForeign_贸易,"Trade:\nWhen Relations with other sects are good, you can apply to trade with them.\nAfter reaching a trade, my sect will receive the equivalent income of the other's base camp every month.\nYou can Info the estimated resources of the trade through the interface below.","แลกเปลี่ยน:\nเมื่อความสัมพันธ์กับสำนักอื่นดีขึ้น สามารถทำการค้าขายกับสำนักนั้นได้\nการทำการค้าจะทำให้ได้รับทรัพยากรจากสำนักที่ทำการค้าด้วยทุกเดือน\nสามารถตรวจสอบปริมาณทรัพยากรที่จะได้รับจากการค้าได้จากหน้าจอด้านล่าง"
+DLC1PageForeign_和解,"Reconciliation:\nWhen Relations are very poor, you can pay Coins to reconcile with the other party, and the worse the Relations, the more Coins you need to consume.\nReconciliation may not be successful, the other sect will decide whether to reconcile with you based on the power gap between each other.\nAfter successful reconciliation, the Relations of both parties will return to 0.","การไกล่เกลี่ย:\nเมื่อมีความสัมพันธ์กับสำนักอื่นแย่มาก สามารถใช้เงินเพื่อไกล่เกลี่ย ยิ่งความสัมพันธ์แย่มากเท่าไหร่ ก็ต้องใช้เหรียญทองมากขึ้นเท่านั้น\nการไกล่เกลี่ยอาจจะสำเร็จหรือล้มเหลว ขึ้นอยู่กับความแตกต่างของพลังอำนาจระหว่างทั้งสองสำนัก\nหากไกล่เกลี่ยสำเร็จ ความสัมพันธ์จะกลับมาเป็นศูนย์"
+DLC1PageForeign_结盟,"Alliance:\nWhen Relations reach a certain value, you can apply to form an alliance with the other sect.\nAfter a successful alliance, when I am attacked, the ally has a chance to attack the enemy of my sect.\nAfter a successful alliance, the income from trade will also be higher.","พันธมิตร:\nเมื่อความสัมพันธ์กับสำนักอื่นดีถึงระดับหนึ่ง สามารถขอสร้างพันธมิตรได้\nเมื่อสร้างพันธมิตรสำเร็จ หากสำนักของเราถูกโจมตี พันธมิตรอาจจะมาช่วยโจมตีศัตรูของเรา\nเมื่อสร้างพันธมิตรสำเร็จ รายได้จากการค้าจะเพิ่มขึ้น"
+DLC1MenuTutorial,Tutorial level,บทช่วยสอน
+DLC1TutorialFactionRenameTip,Give your sect a resounding name,ตั้งชื่อสำนักของท่านให้เลิศเลอน่าจดจำ สะท้านยุทธภพ
+DLC1TutorialOpen,"Do you want to open the tutorial level?\n<#ff5555>If you are playing this mode for the first time, it is strongly recommended that you go through the tutorial level.</color>","ท่านต้องการเล่น ""บทช่วยสอน"" หรือไม่?\n<#ff5555>หากเล่นโหมดนี้เป็นครั้งแรก ขอแนะนำให้ผ่าน ""บทช่วยสอน"" ก่อน</color>"
+DLC1ActionAppeaseLock,"%c%All regions are very stable, no need for benevolence",%c% ทุกพื้นที่ที่มีความมั่นคงดี ไม่จำเป็นต้องใช้การช่วยเหลือผู้คน
+DLC1ActionSupportLock,%c%No stationed Disciples need resupply,%c% ไม่มีศิษย์ประจำการที่ต้องการรับการจัดส่งเสบียง
+DLC1ActionCureLock,%c%No Disciples need healing,%c% ไม่มีศิษย์ที่ต้องการการรักษา
+DLC1ActionJourneyLock,%c%No events can be executed,%c% ไม่มีเหตุการณ์ใดที่สามารถดำเนินการได้
+DLC1ActionTraderLock,"%c%No Merchant has visited, please Unlock more Merchants in the plan.",%c% ไม่มีพ่อค้ามาเยือน กรุณาปลดล็อกพ่อค้าเพิ่มเติมในแผนการ
+DLC1CapitalBeAttackedNoDefend,"Your current sect's headquarters is under Attack, are you sure you don't want to send anyone to defend?",ตอนนี้สำนักหลักของท่านถูกโจมตี ท่านแน่ใจว่าไม่ส่งคนไปป้องกันหรือ?
+DLC1CompCharacterLock_moodDown,Mood is too low to act!,ค่าอารมณ์ต่ำเกินไปที่จะลงมือ!
+DLC1CompCharacterLock_actioned,You have already taken action this month!,ในเดือนนี้ได้ดำเนินการแล้ว!
+DLC1CompCharacterLock_cureNoNeed,No need for healing!,ไม่ต้องการการรักษา!
+DLC1CompCharacterLock_researched,You have already meditated this month!,ท่านได้ทำสมาธิไปแล้วในเดือนนี้!
+DLC1PageManage_升职,"Promote outer Disciples to inner Disciples to increase the Level limit of Disciples.\nNote: The sect leader and inner Disciples cannot be promoted.","ให้ศิษย์นอกเลื่อนขั้นเป็นศิษย์ใน เพื่อเพิ่มขีดจำกัดระดับของลูกศิษย์\nหมายเหตุ: เจ้าสำนักและศิษย์ในไม่สามารถเลื่อนขั้นได้"
+DLC1PageManage_退门,"Force a Disciple to leave the sect, the Disciple who leaves the sect cannot be recruited again.\nNote: The sect leader and Disciples who have already taken action this round cannot be forced to leave.","บังคับให้ลูกศิษย์ออกจากสำนัก ศิษย์ที่ออกจากสำนัก จะไม่สามารถถูกรับสมัครกลับมาอีกได้\nหมายเหตุ: เจ้าสำนักและศิษย์ที่ได้ดำเนินการในรอบนี้ จะไม่สามารถทำการออกจากสำนักได้"
+DLC1ActionCreateKungfuTitle,Comprehension,รวมวิชา
+DLC1ActionCreateKungfuContent,"By consuming contemplation points, Characters with Learn aptitude can comprehend martial arts and understand new powerful martial arts.\nThe higher the Intelligence of the Character, the higher the probability of comprehending ""dual effect"" martial arts.","ใช้แต้มเรียนรู้ เพื่อให้ตัวละครที่มีคุณสมบัติได้รวมวิชาวรยุทธ์ใหม่ๆ ที่แข็งแกร่งขึ้น\nยิ่งตัวละครมีค่าสติปัญญามากเท่าไร ความน่าจะเป็นที่ตัวละครจะสามารถรวมวิชาได้ ""สองผลลัพธ์"" ก็จะยิ่งสูงขึ้นเท่านั้น"
+UIPageJourneyNeedNpc,%lc%The protagonist needs to be in the team,%lc% ต้องมีตัวละครหลักในทีม
+DLC1AiAttackHq,%l%{0} is preparing to attack {1}'s headquarters.,%l% {0} เตรียมโจมตีสำนักหลักของ {1}
+DLC1Difficult-0,Easy,ง่าย
+DLC1Difficult-1,Normal,ปกติ
+DLC1Difficult-2,Hard,ยาก
+DLC1Difficult-3,Nightmare,ฝันร้าย
+DLC1TipFactionCreateDiff1Title,Easy,ง่าย
+DLC1TipFactionCreateDiff2Title,Normal,ปกติ
+DLC1TipFactionCreateDiff3Title,Hard,ยาก
+DLC1TipFactionCreateDiff4Title,Nightmare,ฝันร้าย
+DLC1TipFactionCreateDiff1Content,"Initially receive 800 sect points, a relatively easy gameplay difficulty, AI's damage is reduced by <color=#0cf045>50%</color>, AI's resource acquisition is reduced by <color=#0cf045>50%</color>.","เริ่มต้นด้วยแต้มสำนัก 800 แต้ม ระดับความยากในการเล่น ""ง่าย"", AI ทำความเสียหายลดลง <color=#0cf045>50%</color> และการเก็บทรัพยากรของ AI ลดลง <color=#0cf045>50%</color>"
+DLC1TipFactionCreateDiff2Content,"Initially receive 500 sect points, a recommended gameplay difficulty, AI will cause Normal damage and Normal resource acquisition.",เริ่มต้นด้วยแต้มสำนัก 500 แต้ม แนะนำให้เล่นระดับความยากนี้ AI จะทำความเสียหายและเก็บทรัพยากรในระดับทั่วไป
+DLC1TipFactionCreateDiff3Content,"Initially receive 400 sect points, a relatively Hard gameplay difficulty, AI's Increases Damage by <color=#d70ced>50%</color>, AI's resource acquisition increases by <color=#d70ced>50%</color>.","เริ่มต้นด้วยแต้มสำนัก 400 แต้ม ระดับความยาก ""ยาก"", AI ทำความเสียหายเพิ่มขึ้น <color=#d70ced>50%</color> และการเก็บทรัพยากรของ AI เพิ่มขึ้น <color=#d70ced>50%</color>"
+DLC1TipFactionCreateDiff4Content,"Initially receive 300 sect points, a very Hard gameplay difficulty, AI's Increases Damage by <color=#c02b10>100%</color>, AI's resource acquisition increases by <color=#c02b10>100%</color>.","เริ่มต้นด้วยแต้มสำนัก 300 แต้ม ระดับความยาก ""ฝันร้าย"", AI ทำความเสียหายเพิ่มขึ้น <color=#c02b10>100%</color> และการเก็บทรัพยากรของ AI เพิ่มขึ้น <color=#c02b10>100%</color>"
+DLC1ActionsTip1Hq,%lc%Our sect has launched an attack on {0}'s headquarters.,%lc% สำนักเราได้ทำการโจมตีสำนักหลักของ {0}
+DLC1ActionsTip18,%lc% already has the same innate feature,%lc% มีทักษะพิเศษเริ่มต้นแบบเดียวกันแล้ว
+DLC1PageForeign_交好lock,This sect will no longer engage in any diplomatic actions with you.,สำนักนี้จะไม่ทำการทูตกับท่านอีกต่อไป
+DLC1PageForeign_贸易lock,This sect will no longer engage in any diplomatic actions with you.,สำนักนี้จะไม่ทำการทูตกับท่านอีกต่อไป
+DLC1PageForeign_和解lock,This sect will no longer engage in any diplomatic actions with you.,สำนักนี้จะไม่ทำการทูตกับท่านอีกต่อไป
+DLC1PageForeign_结盟lock,This sect will no longer engage in any diplomatic actions with you.,สำนักนี้จะไม่ทำการทูตกับท่านอีกต่อไป
+DLC1PvcStage2Info,"This land needs to be stabilized through <color=#c44b0e>Benefiting the People</color>.\nThe effect of Benefiting the People will take effect at the beginning of next month, and the icon background will turn <color=#32CD32>green</color>.","พื้นที่นี้ต้องการการเพิ่มความมั่นคงผ่าน <color=#c44b0e>ช่วยเหลือผู้คน</color>\nผลจากการช่วยเหลือผู้คนจะมีผลในช่วงเริ่มต้นของเดือนหน้า โดยสีพื้นหลังของไอคอนจะเปลี่ยนเป็น <color=#32CD32>สีเขียว</color>"
+DLC1PvcStage1Info,"This land needs to <color=#c44b0e>Supply</color> to Recovery the HP and MP of the stationed Disciples.\nThe effect of Supply will take effect at the beginning of next month, and the icon background will turn <color=#32CD32>green</color>.","พื้นที่นี้ต้องการการสนับสนุนผ่าน <color=#c44b0e>เสบียง</color> เพื่อฟื้นฟู HP และ MP ของศิษย์ที่ประจำการอยู่\nผลของการเติมเสบียงจะมีผลในช่วงเริ่มต้นของเดือนหน้า โดยสีพื้นหลังของไอคอนจะเปลี่ยนเป็น <color=#32CD32>สีเขียว</color>"
+DLC1DefendBonus,"%lc% Defense successful, resources captured:",%lc% ป้องกันสำเร็จ ได้รับทรัพยากร:
+DLC1SettingAutoSaveTime,Auto Save Interval,บันทึกอัตโนมัติ
+DLC1CustomKungfuNamePlaceholder,New martial arts,วรยุทธ์ใหม่
+DLC1CreateKungfuTips,Please select the Character for Comprehension of Martial Arts,กรุณาเลือกตัวละครที่จะรวมวรยุทธ์
+DLC1CreateKungfuTips1,Comprehension,รวมวิชา
+DLC1CreateKungfuTips2,Select basic martial arts,เลือกวรยุทธ์พื้นฐาน
+DLC1CreateKungfuTips3,Start comprehension,เริ่มต้นรวมวรยุทธ์
+DLC1CreateKungfuTips4,Obtain new martial arts,ได้รับวรยุทธ์ใหม่
+DLC1CreateKungfuTips5,Name the martial arts,ตั้งชื่อให้กับวรยุทธ์
+DLC1CreateKungfuTips6,Comprehend,เรียนรู้
+DLC1CreateKungfuTips7,Abandon,ละทิ้ง
+DLC1MenuScenarioMode,Story mode,โหมดเนื้อเรื่อง
+DLC1CreateBtnTips1,Already acted,ได้ทำการแล้ว
+DLC1CreateBtnTips2,%lc%Conditions not met,%lc% ไม่เป็นไปตามเงื่อนไข
+DLC1CreateBtnTips3,Please name the martial arts,กรุณาตั้งชื่อวรยุทธ์
+UISlgPlayerCreateTip1,Create Character,สร้างตัวละคร
+UISlgPlayerCreateTip2,Point consumption: {0} points,ใช้แต้ม: {0} แต้ม
+UISlgPlayerCreateTip3,Mastery of martial arts,เชี่ยวชาญวรยุทธ์
+UISlgPlayerCreateTip4,Start Game,เริ่มต้นเกม
+UISlgPlayerCreateTip5,Unallocated points: {0} points,แต้มที่ไม่ได้จัดสรร: {0} แต้ม
+UISlgPlayerCreateTip6,%c%Insufficient remaining points,%c% แต้มที่เหลือไม่เพียงพอ
+UISlgFactionCreate1,Initial martial arts: {0} points,วรยุทธ์เริ่มต้น: {0} แต้ม
+UISlgFactionCreate2,Initial Disciples: {0} points,ศิษย์เริ่มต้น: {0} แต้ม
+UISlgFactionCreate3,Initial resources: {0} points,ทรัพยากรเริ่มต้น: {0} แต้ม
+UISlgFactionCreate4,Development direction: {0} points,ทิศทางการพัฒนา: {0} แต้ม
+UISlgFactionCreate5,Create sect,สร้างสำนัก
+UISlgFactionCreate6,Select development direction,เลือกทิศทางการพัฒนา
+UISlgFactionCreate7,Preview,ดูตัวอย่าง
+DLC1ActionNewRecruitTitle,Post Station,สถานีพัก
+DLC1ActionNewRecruitContent,"In the post station, you can choose some characters to join your sect, or let your sect's disciples enter the post station. By eliminating some sects or triggering some companion events, you can enrich the disciples in the post station.",ในสถานีพักสามารถเลือกตัวละครบางตัวเข้าสำนักได้ หรือให้ศิษย์ของสำนักเข้าสู่สถานีพักได้ การกวาดล้างบางสำนัก หรือทำให้เกิดเหตุการณ์กับพันธมิตร สามารถเพิ่มจำนวนศิษย์ในสถานีพักได้
+DLC1UIPageManageRelax,Rest,พักผ่อน
+DLCPageManage_休息,"Move the disciples in the sect into the post station's storage, and they can be activated at any time. Note: Disciples who have acted this month cannot rest.",ย้ายศิษย์ภายในสำนักไปยังคลังของสถานีพัก และสามารถเรียกใช้งานได้ตลอดเวลา หมายเหตุ: ศิษย์ที่ดำเนินการในเดือนนี้แล้วจะไม่สามารถพักผ่อนได้
+DLC1ManageRelaxTip,Do you want to move {0} into the post station?,ต้องการย้าย {0} ไปยังสถานีพักหรือไม่?
+DLC1MenuStartGame,Contest Mode,โหมดชิงอำนาจ
+UIPageComprehendForgetFactionKungfuTip,"Do you want to delete {0}?\nPlease note that this operation is irreversible!","ต้องการลบ {0} หรือไม่?\nหมายเหตุ: การดำเนินการนี้ไม่สามารถย้อนกลับได้!"
+SlgNpcToStoreTitle,Character joined,ตัวละครเข้าร่วม
+SlgNpcToStore,%ls%{0} has now entered the post station. You can operate Joining Sect in the post station.,%ls% {0} ได้เข้าสู่สถานีพักแล้ว สามารถดำเนินการในสถานีพักเพื่อเข้าร่วมสำนักได้
+DLC1NewRecruitUIDownTips,"In the post station, you can choose some characters to join your sect, or let your sect's disciples enter the post station. By eliminating some sects or triggering some companion events, you can enrich the disciples in the post station.",ในสถานีพักสามารถเลือกตัวละครบางตัวเข้าสำนักได้ หรือให้ศิษย์ของสำนักเข้าสู่สถานีพักได้ การกวาดล้างบางสำนัก หรือทำให้เกิดเหตุการณ์กับพันธมิตร สามารถเพิ่มจำนวนศิษย์ในสถานีพักได้
+Dlc1SettingTitle_RunInBackground,Game run in background,เกมจะดำเนินการในพื้นหลัง
+Dlc1SettingTitle_AutoBattleWhenStart,Automatically start combat after battle starts,เมื่อเริ่มการต่อสู้ จะเปิดการต่อสู้อัตโนมัติโดยค่าเริ่มต้น
+Dlc1SettingTitle_EpOnlyVisible,MP continuously displayed at the start of the battle,เมื่อเริ่มการต่อสู้ MP จะแสดงอย่างต่อเนื่อง
+Dlc1SettingTitle_HpBarResident,HP continuously displayed after battle starts,เมื่อเริ่มการต่อสู้ HP จะแสดงอย่างต่อเนื่อง
+Dlc1SettingTitle_JoyStickVibration,Controller Vibration,การสั่นของจอยเกม
+Dlc1SettingTitle_ClickBattle,Skip the story quickly,ข้ามเนื้อเรื่องอย่างรวดเร็ว
+DLC1UIPageCreateKungfuDownTips,"The higher the intelligence of the character, the higher the probability of comprehending a ""double effect"" martial arts.","ยิ่งตัวละครมีค่าสติปัญญามากเท่าไร ความน่าจะเป็นที่ตัวละครจะสามารถรวมวิชาได้ ""สองผลลัพธ์"" ก็จะยิ่งสูงขึ้นเท่านั้น"
+UIPageComprehendReadKungfuGrayTips,%lc%This martial arts has been comprehended,%lc%เรียนรู้วรยุทธ์นี้แล้ว
+UIPageComprehendUnlockKungfuGrayTips,%lc%Not met the comprehension conditions,%lc% ยังไม่ถึงเงื่อนไขในการเรียนรู้
+Dlc1SettingTitle_ShowDlc3Painting,"Activate the ""Canvas of Heroes"" portrait pack","เปิดใช้งานภาพตัวละครใหม่จากชุดเสริม ""โฉมใหม่วาดฝัน"""
