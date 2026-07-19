@@ -1,0 +1,1127 @@
+key,original,translation,context
+common_tip_title,Hint,,提示
+fcm_age_title,Age warning,,适龄提示
+fcm_age_content,"""Hero's Adventure"" Age warning
+1. This game is an open-world martial arts game with a pixelated ancient theme, suitable for users aged 12 and above. It is recommended that minors use the game under the supervision of a guardian.
+2. The game has main and side storylines, which are advanced through dialogue, interaction, and combat. By simulating a real martial arts world, each user can realize their martial arts dream, enjoy enmity, and wander the world with a sword, making the game world more open and exploratory.
+3. The game has a real-name authentication system. Users who are authenticated as minors will be subject to the following game restrictions:
+Minors cannot use the game from 22:00 to 8:00 the next day, and cannot use it for more than 3 hours on statutory holidays, and cannot use it for more than 1.5 hours at other times.
+4. The game unfolds the plot based on a fictional world, adopts distinctive art design, unique pixel graphics, and high-quality game music. While experiencing the game, you should comply with relevant laws and regulations.",,"《大侠立志传》适龄提示
+1、本游戏是一款像素古风题材的开放武侠游戏，适用于年满12周岁及以上的用户，建议未成年人在监护人的监护下使用游戏产品。
+2、本游戏设置了主线、支线剧情，通过对话、交互及战斗推动剧情，通过模拟真实的江湖生态让每一位用户实现自己心中的武侠梦，在游戏中可以快意恩仇，持剑天涯，让游戏世界更加具有开放性和探索性。
+3、本游戏中有用户实名认证系统，认证为未成年的用户将受到以下游戏限制：
+未成年人用户每日22时至次日8时不得使用游戏，法定节假日每天不得使用超过3小时，其他时间每天不得使用超过1.5小时。
+4、游戏基于架空世界展开剧情，采用风格鲜明的美术设计、风格特异的像素画面以及优质的游戏配乐，在体验游戏的同时应遵循相关法律法规。"
+billboard_steam_title,<b><size=48> December 1st Update Announcement </size></b>,,<b><size=48>12月1日版更新公告</size></b>
+billboard_steam_content,"<size=24><space=2em>Hello, everyone! We have just released a new version, introducing a fresh protagonist illustration and the ""Goddess Temple Event."" Additionally, we've addressed several issues impacting your gameplay experience. 
+
+<size=24><space=2em>Should you encounter any issues during your gameplay, feel free to reach out to us in our [official Discord](https://discord.gg/bcX8pry8ZV)  for support and provide your insights. Be assured, we're committed to swiftly addressing your concerns. A heartfelt thank you for your patience.
+
+<space=2em>V1.0.1201b54 Version Log:
+
+<space=2em>New Feature:
+<space=2em>1. The protagonist now has a new illustration, which can be selected in the character creation menu.
+<space=2em>2. Several sects have added new daily sect events, added new ways to acquire sect contributions.
+<space=2em>3. Added the ""Goddess Temple Event,"" can be triggered in the abandoned garden in the southwest region.
+
+<space=2em>Adjustments:
+<space=2em>1. Four times speed is now available in battles, and you can toggle it during combat.
+<space=2em>2. Increased rewards for the ""Nine Factions Sect"" event to include Heaven Spirits Card.
+<space=2em>3. Subjugating or exterminating Jiujiang Water Camp now grants Heaven Spirits Card.
+<space=2em>4. Learning skills from Ling Hongxuan, Jiang Nanguai, and the Down-and-out wanderer in the Nameless Area now grants machinery ability experience.
+<space=2em>5. The merchant in Swallow's Nest will sell keys for opening treasure chests.
+<space=2em>6. Upon reaching Reputation Level 3, the clothing store owner in the city will gift the schematic for crafting Jianghu outfit.
+<space=2em>7. Adjusted the recruitment conditions for Yu Weier and Gu Qingcheng: If Fu Yaoqin is in the party, you can also invite Yu Weier and Gu Qingcheng to join.
+<space=2em>8. Adjusted the conditions for Yu Weier to acquire her bonding skill: Players will have to complete the ""Rescue Yu Weier"" event in the Jiuli Tribe for the event to trigger.
+<space=2em>9. Enhanced the daily sect contribution rewards for Langya Sword Pavilion.
+<space=2em>10. Adjusted the feature ""Financial Prosperity""; its money bonus is now ineffective in the dice mini-game.
+<space=2em>11. Adjusted the strength of the West Pass guards.
+<space=2em>12. Certain items required for events can no longer be auctioned.
+<space=2em>13. Adjusted the initial status of Cai Yuanchang and added the character states of Zhuge Divine Mechanism and Ding Hai Tang.
+<space=2em>14. During the final battle, sect leaders with a relationship level of 80 won't become hostile to the protagonist.
+<space=2em>15. Adjusted the reward for the ""Business in Jiujiang Water Camp"" event to martial arts enlightenment; the original reward ""Asura Blade"" can now be obtained in Waterfall Pond after defeating the Fu Bu Guard in Cloud Sea Cliff.
+<space=2em>16. Accelerated the progress bar animation during martial arts enlightenment.
+<space=2em>17. Optimized the time compass display in the English version.
+
+<space=2em>Fixes:
+<space=2em>1.Fixed an issue where after killing Yan Wuzhu in the Yan Army route, the narration inaccurately states the successful defense of Chuxiang City.
+<space=2em>2.Fixed the problem with the description display of the tips for the books ""Reverse the Universe"" and ""Unifying the Nine Factions""
+<space=2em>3.Fixed an issue where players can not steal the prison key from the Centurion outside the Yan Army camp.
+<space=2em>4.Fixed the problem where pets could continue to be fed even when there was insufficient food.
+<space=2em>5.Fixed the issue where Yan Gexing would disappear under specific circumstances.
+<space=2em>6.Fixed the display issue of the homestead after the death of the Poison Dragon.
+<space=2em>7.Fixed the problem where in extreme situations, teammates unable to join the battle caused a freeze.
+<space=2em>8.Fixed the issue where battle scenes on the world map did not disappear.
+<space=2em>9.Fixed the problem in controller mode where the preset battle character selection interface did not close after a world map battle.
+<space=2em>10.Fixed the issue after joining the Yan Gexing faction you can go to the Confucius Temple before triggering the event at the General's Mansion.
+
+———————————————————————————————————————————————————
+
+<space=2em>V1.0.1124b53 Version Log
+
+<space=2em>New Feature:
+<space=2em>1. Added new achievements related to forming connections.
+
+<space=2em>Adjustments:
+<space=2em>1. Adjusted the bonding event at the God of Marriage's Shrine: At the beginning, you will initiate a battle with the target character. Victory leads you to an immediate bond, and defeat leads to the second phase.
+<space=2em>2. Adjusted ""Bestowed Title and Rank"" to a non-true ending event, modifying the achievement description.
+<space=2em>3. Resting at the stone table in the Homestead's Back Mountain now restores vitality.
+<space=2em>4. Copper Man event optimization: After selecting to help Lai Toudian, you won't be stopped upon entering Arhat Hall.
+<space=2em>5. Adjusted Yan Rurui's status event: It can now be completed even when Duke Kang ascends the throne or dies (will only affect saves that have not triggered this event and new playthroughs).
+<space=2em>6. Modified the character progression of  ""The dev"" character, allowing automatic learning of martial arts after a certain time in Hard and Asura difficulties.
+
+<space=2em>Fixes:
+<space=2em>1. Fixed the issue where switching equipment was possible even when the companion relationship was not close enough.
+<space=2em>2. Fixed the problem where learning the Ruler Heart Sutra did not affect internal defense stats.
+<space=2em>3. Fixed the issue where the ""Suspicious Person"" quest did not trigger a mission tracker after level 35.
+<space=2em>4. Fixed Cai Yuanchang and Fu Yaoqin's injury animations.
+<space=2em>5. Resolved the problem where characters could get stuck in inaccessible areas in certain scenes in the Homestead.
+<space=2em>6. Fixed the error in character creation when selecting both attributes of ""Full of Stamina"" and ""Jianghu Conqueror.""
+
+———————————————————————————————————————————————————
+
+<space=2em>V1.0.1122b52 Version Log
+
+<space=2em>Fixes and Improvements:
+<space=2em>1. Fixed the additional effect error of the Peerless Blade Martial Art.
+<space=2em>2. Resolved the issue where certain Yan GeXing guidance quests continued to trigger after leaving the Yan GeXing sect.
+<space=2em>3. Fixed the disappearance issue of Ming Bufan under specific circumstances.
+<space=2em>4. Addressed the problem where, during the Duke Kang Messenger mission, entering the mission location without going through an exterior map, the game would get stuck.
+<space=2em>5. Fixed the bug where triggering the ""Northern Expedition"" event incorrectly caused Ye Yun to disappear.
+<space=2em>6. Resolved the specific situation where the extermination plot could not be triggered when going to the Nine Factions Sect.
+<space=2em>7. Fixed the problem where companions might simultaneously exist in both the homestead and in the world.
+<space=2em>8. Added an option for the ""Loyalty to the Country"" ending, allowing players to freely choose whether to join the Ye Family Battalion and change their appearance.
+<space=2em>9. Removed the requirement for the Palace Camp to remain closed for Wang Yanliang to initiate the Yan Army event.
+<space=2em>10. After Duke Kang appoints the protagonist as an official, canceled the hostile status of Tong Daofu; optimized the positioning of the imperial eunuch in the imperial decree.
+<space=2em>11. Optimized the tracking for the Nine Factions Sect Disaster mission.
+<space=2em>12. Optimizations to some of the English text.
+
+———————————————————————————————————————————————————
+
+<space=2em>V1.0.1120b51 Version Log
+​​
+<space=2em>Adjustment:
+<space=2em>1. Required quantity for achievements ""Big Toleration"", ""Never Said No"", and ""Drinking God"" adjusted to 20.
+​​
+<space=2em>Fixes:
+<space=2em>1. Fixed the crafting materials error for Tai Xu Robe and Immortal Robe.
+<space=2em>2. Fixed the positioning error of the Tiger Guard character in old save files.
+<space=2em>3. Fixed the problem where, under specific circumstances, the well investigation event in Lin'an City wouldn't trigger.
+<space=2em>4. Fixed the issue of Daoxuan Sect's morning class being dismissed under certain conditions.
+<space=2em>5. Fixed the incorrect travel time issue from Wuyue Ferry to Jiujiang Fotress in certain situations.
+<space=2em>6. Fixed the problem where players couldn't gather clues about Chu Kuangsheng in certain circumstances in the Ice Prison.
+<space=2em>7. Fixed the error of the Northern Expedition mission incorrectly triggers after players joined the Ye Family Battalion through certain endings.
+<space=2em>8. Fixed the issue where the spirit beast Sichen couldn't be fed normally.
+<space=2em>9. Fixed the issue where custom-difficulty saves could not be loaded.
+<space=2em>10. Fixed the issue where the Dragon Sword seal conditions were met but the seals weren’t triggered.
+<space=2em>11. Fixed the incorrect progress bonus description in the homestead.
+<space=2em>12. Optimized the conditions for triggering Yi Zhihua's backstab event, making it possible to trigger it after completing the Enlightment Tower event or joining the Ye Family Battalion.
+<space=2em>13. Optimized the achievement list sorting.
+<space=2em>14. Optimized the Fengyun event in the Dali Temple: added a branching plot for players not in the Ye Family Battalion.
+<space=2em>15. After Tong Daofu joins the party, the departure location will be forcefully updated to the Palace Hall position.
+<space=2em>16. After the Treasure Competition ends, if Shen Wuqi is not in the party, will no longer participate in disputes between players and the Nine Factions Sect.
+<space=2em>17. Optimized the Han Hongyu event: added a way for players to learn about the whereabouts of the leader of Tiger Escort.
+
+———————————————————————————————————————————————————
+
+<space=2em>Content Fixed in the November 18th Patch
+
+<space=2em>New Feature:
+<space=2em>1. After establishing the homestead, there is a chance to obtain additional materials required for upgrading the homestead by gathering any trees or ores. The higher the grade of the gathering point, the higher the extra drop.
+<space=2em>2. After unlocking the mountain behind the homestead, placing companions on the mountain can assist the protagonist in obtaining homestead materials. The higher the companion's arm strength and the longer the actual placement time, the more materials can be obtained.
+<space=2em>3. When the Yan Gexing storyline reaches the stage of returning to the Nameless Village, you can choose to leave the Yan Gexing sect. The process is the same as leaving other sects.
+
+<space=2em>Adjustments:
+<space=2em>1. Significantly reduce the enemy strength on Casual and Normal difficulty.
+<space=2em>2. Modify the conditions for upgrading the homestead, removing the requirement for a specific NPC to be in the party during homestead upgrades.
+<space=2em>3. Killing the prison guards in the three main city prisons will no longer decrease their faction relationship, making it easier to complete certain sect daily events.
+<space=2em>4. Reduce the final event enemy NPC strength for the Crime Investigation Bureau.
+<space=2em>5. Lower the number of required attempts for the Western Region Jewelry event and increase event rewards.
+<space=2em>6. Change the mining event in Langya Sword Pavilion's daily events from Wang Dachui to Ouyeheng.
+<space=2em>7. Add a few plot hints to the Crime Investigation Bureau event, guiding the protagonist to rest to trigger further events.
+<space=2em>8. Adjust Yan Rurui's negative status to a positive one.
+<space=2em>9. Modify Yan Rurui's affinity status effect, renamed to ""Harmony in Marriage.""
+<space=2em>10. Modify Yi Zhihua's status effect ""Joyful Mood.""
+<space=2em>11. Change the English version's time wheel in the upper right corner to pinyin display to match the in-game dialogues (temporary adjustment, we are working on a better time display for the EN version).
+
+<space=2em>Fixes:
+<space=2em>1. Fixed the issue of Wang Dachui disappearing in old saves.
+<space=2em>2. Fixed the black screen issue when continuing the game after manually deleting all saves.
+<space=2em>3. Fixed the inability to skip the gambling den participation.
+<space=2em>4. Fixed the issue where entering the Matchmaker's Shrine after forming an affinity with Yi Zhihua would trigger a decrease in favorability events.
+<space=2em>5. Fixed the text error in the daily tasks of the Nest of Swallow.
+<space=2em>6. Optimized the hints and rewards for Han Hongyu's escort event.
+<space=2em>7. Optimized events related to Wan Yanshaoning.
+<space=2em>8. Optimized the trigger prompt for the Confucius Temple's Sage Monument.
+<space=2em>9. Optimized the English version's character attribute interface: Abbreviated attributes now display full names in detailed tips.",,"<size=24><space=2em>各位玩家大家好，我们刚刚更新了一个版本，新增【主角新立绘】【神女庙事件】，并修复了一些影响大家游玩的问题。大家在游戏中遇到任何问题还请稍安勿躁，都可以加入任意玩家群向我们反馈，收到后都会抓紧修复的，感谢大家的担待。
+官方玩家群29群：229513091       官方玩家群22群：343709025
+官方玩家群23群：213116717
+
+<space=2em><#d09a09>V1.0.1201b54版本日志</color>
+<space=2em>【新增】
+<space=2em>1、主角增加新立绘，可在创建角色界面切换选择
+<space=2em>2、部分门派新增日常任务，增加门派贡献获取途径
+<space=2em>3、新增神女庙事件，可在西南地区荒废庭院触发
+
+<space=2em>【调整与优化】
+<space=2em>1、战斗开放四倍速，可在战斗内切换开启
+<space=2em>2、剿灭九流门事件奖励增加天罡牌
+<space=2em>3、降伏或剿灭九江水寨可获得天罡牌
+<space=2em>4、向凌鸿轩、江南怪以及无名地区的落魄江湖人学艺可获得机关能力经验
+<space=2em>5、燕子窝商人将会出售用于开宝箱的钥匙
+<space=2em>6、名声达到3级，城内服装店掌柜会赠送侠客装制作图纸
+<space=2em>7、调整鱼薇儿和顾倾城的入队条件：付瑶琴在队伍内时，鱼薇儿和顾倾城也可邀请入队
+<space=2em>8、调整鱼薇儿领悟情缘技条件：完成九黎部落营救鱼薇儿事件做为前置条件
+<space=2em>9、提升琅琊剑阁日常门派贡献奖励
+<space=2em>10、调整特征“财运亨通”，其钱财加成效果在骰子小游戏中无效
+<space=2em>11、调整镇西关守将强度
+<space=2em>12、部分事件所需的物品将无法拍卖
+<space=2em>13、调整蔡元常初始角色状态，新增诸葛神机、定海棠角色状态
+<space=2em>14、最终大决战时，关系达到80的掌门角色不会与主角变为敌对
+<space=2em>15、“九江水寨生意”事件奖励调整为武道感悟，原奖励“修罗刀”可在云海崖击败服部兵卫后，在飞瀑潭获得
+<space=2em>16、武道领悟时进度条动画提速
+
+<space=2em>【修复】
+<space=2em>1、修复了燕军路线击杀完颜乌珠会出守护楚襄城成功的旁白的问题
+<space=2em>2、修复了“倒转乾坤”“九流归一”书籍tips有效期显示错误的问题
+<space=2em>3、修复了燕军大营监牢外千夫长不能暗取获得牢房钥匙的问题
+<space=2em>4、修复了宠物喂养食物不足时可以继续喂养的问题
+<space=2em>5、修复了燕歌行在特定情况下消失的问题
+<space=2em>6、修复了毒龙死亡后在家园异常显示的问题
+<space=2em>7、修复了极端情况下队友不能上阵导致卡死的问题
+<space=2em>8、修复了大地图战斗场景不消失的问题
+<space=2em>9、修复了手柄模式大地图战斗后预设战斗选人界面不关闭的问题
+<space=2em>10、修复了燕歌行门派可以先去儒圣馆后再去将军府触发剧情的问题
+
+———————————————————————————————————————————————————
+
+<space=2em><#d09a09>11月24日补丁已修复内容</color>
+
+<space=2em>V1.0.1124b53版本日志
+<space=2em>【新增】
+<space=2em>1、增加结缘相关的新成就
+
+<space=2em>【调整与优化】
+<space=2em>1、调整月老祠的结缘事件：先触发和结缘目标相关的角色战斗，战斗胜利则直接结缘成功，战斗失败才进入第二阶段
+<space=2em>2、“封官赐爵”调整为非真结局，成就描述修改 
+<space=2em>3、家园后山石桌处休息可恢复体力
+<space=2em>4、铜人事件优化：答应帮助癞头癫破阵，进入罗汉堂后不会被阻拦
+<space=2em>5、严如蕊脱籍事件调整：康王登基或者死亡此事件也可以完成（需读取未触发该事件的存档）
+<space=2em>6、调整成长性半瓶神仙醋角色强度，困难与修罗难度下一定时间可自动学习武功
+
+<space=2em>【修复】
+<space=2em>1、修复了队伍伙伴关系不足时切换装备仍可以卸下的问题
+<space=2em>2、修复了习得驭人心经后没有解锁内功防御效果的问题
+<space=2em>3、修复了“可疑之人”在35级以后直接触发时，没有任务追踪的问题
+<space=2em>4、修复了蔡元常、付瑶琴重伤、跪地动作错误的问题
+<space=2em>5、修复了家园部分场景中角色会卡进不可移动的区域问题
+<space=2em>6、修复了创建角色同时选择气血充盈和武林霸主属性加成错误的问题
+
+———————————————————————————————————————————————————
+
+<size=24><space=2em>V1.0更新除了【家园玩法】、【九江水寨】、【名声事件】等新内容外，对大量已有事件进行了调整，部分老存档可能会与调整后的新事件存在逻辑冲突，加之200余项独立事件、新结缘NPC、彩蛋剧情等内容的引入，我们还是比较推荐大家启<#d09a09>用新档进行V1.0体验</color>。详细的Patch Note我们会放在文末供大家查阅。
+
+<space=2em><#d09a09>【EA纪念饰品领取】</color>
+<space=2em>领取标准：所有在11月16日11：00转正前购买/兑换了游戏的玩家
+<space=2em>领取方式：符合领取标准的玩家，在创角时可在初始道具中自动获得EA阶段纪念饰品——特别勋章（甲级），佩戴后可在战斗中召唤成长型伙伴半瓶神仙醋协助参战。
+
+<space=2em><#d09a09>V1.0.1115b48版本日志</color>
+<space=2em>【新增】
+<space=2em>1、新增家园玩法及相关场景：名声达到4级（后起之秀），可前往大梁城珠光宝气楼完成相关事件开启
+<space=2em>2、新增可加入门派”九江水寨“及相关事件
+<space=2em>3、新增特定江湖事件，名声达到一定等级可自动触发
+<space=2em>4、新增NPC比武功能：与NPC关系达到40后解锁，首次比武获胜可获得名声和江湖历练
+<space=2em>5、新增江湖历练分配功能
+<space=3em>通过完成江湖事件、城镇悬赏、比武获得的历练值
+<space=2em>6、新增战斗反击
+<space=2em>7、新增4名可结缘NPC：“曼陀罗”、“完颜昭宁 ”、“一枝花” 、“韩红玉”
+<space=2em>8、新增部分高级武功附加效果
+<space=2em>9、新增先天资质，五维达到25点后增加新的buff效果
+<space=3em>气旺血足 体质>=25激活 基础防御力提升10%
+<space=3em>颖悟绝伦 悟性>=25激活 所有能力升级效率提升50%
+<space=3em>福至心灵 福缘>=25激活 连击率+15%、反击率+15%
+<space=3em>翩若惊鸿 敏捷>=25激活 闪避成功，集气值+150
+<space=3em>千钧之力 臂力>=25激活 基础攻击力提升10%
+<space=2em>10、新增绝招：潜龙勿用、飞龙在天、千里冰封、大居合斩、血魔斩、落英缤纷
+<space=2em>11、新增一批新饰品
+<space=2em>12、新增合成物品，可通过合成方式获得高品喜好物
+<space=2em>13、新增宠物图鉴
+<space=2em>14、新增8个成就及2个真结局
+<space=2em>15、新增装备获取途径：大地图特殊战斗胜利后有概率掉落装备（特殊标识触发）
+<space=2em>16、自由模式下开启战斗击杀NPC，有概率获得其身上高品质装备
+<space=2em>17、新兽环产出，十二兽环已经全部产出
+<space=2em>18、新增Xbox系列手柄适配
+<space=2em>19、新增Steam Deck适配
+
+<space=2em>【调整】
+<space=2em>1、调整部分武功附加效果
+<space=2em>2、调整部分先天资质BUFF效果
+<space=3em>血气方刚：修改 当前生命最大值提升10% 
+<space=3em>好事成双：修改 击杀敌人50%概率触发额外掉落
+<space=3em>以力破巧：修改 暴击伤害增加15%
+<space=2em>3、调整低品级武器和护甲附加效果，拥有了动态属性和不同特技
+<space=2em>4、调整部分饰品附加效果
+<space=2em>5、调整暗器附加效果
+<space=2em>6、登录界面调整，优化功能按钮布局，现在可以在主界面切换语言了
+<space=2em>7、调整宠物骑乘功能
+<space=3em>主角乘坐宠物地图移动时，主角不会消耗体力
+<space=2em>8、调整伙伴装备脱卸要求：需满足好感关系达到40及以上
+<space=2em>9、实战能力显示位置调整至五维左上角，以图标形式显示，战斗时根据双发实战能力差每10点提升1%伤害加成
+<space=2em>10、部分物品调整打造合成相关材料
+<space=2em>11、调整采集点分布及其产出
+<space=2em>12、“阴”武道基础属性改为反击，调整个别武道特效效果
+<space=3em>措手不及（一骑绝尘） ：自身敏捷比敌方敏捷最高的角色每高1点，本次攻击连击临时增加2.5%。
+<space=3em>坚若磐石：每1点体质受到的最终伤害减少1.5%
+<space=3em>孔武有力：每1点臂力攻击时最终伤害增加1.5%
+<space=3em>排山倒海：每次攻击后，伤害范围边缘敌人会受到攻击自身的25%的溅射伤害。
+<space=3em>出其不意（鬼影无踪）：被攻击时成功反击，攻击方集气速度-20%，直到下次行动后恢复。
+<space=3em>临机应变：被攻击时触发反击，自身额外获得10点战意、集气增加150点
+<space=3em>恶来再世：每被攻击1次反击临时增加5%，触发反击或战斗结束后效果清除
+<space=2em>13、调整五维影响的攻防血、暴击、闪避、格挡、反击等计算方式
+<space=2em>14、部分buff效果修改
+<space=3em>彬彬有礼：与非敌对方的人物首次见面，额外增加关系值。名声等级小于对方，关系+2;名声比目标每高1级，关系在2的基础额外+2。即自己名声2级，目标1级，初始见面关系+4
+<space=3em>皇室驸马：名声未达6级按照6级计算，给异性送礼效果减少90%；与低于自身名声等级的NPC初识见面20点；每天获得2贯铜钱。
+<space=3em>武林盟主：初始名声10级，初始六大派关系为60
+<space=2em>15、重要角色的五维资质加点策略调整
+<space=2em>16、困难难度下所有首领角色五维额外增加1点，修罗难度下所有经验角色五维额外增加1点，首领角色额外增加2点
+<space=2em>17、战意上限由200点调整为250点
+<space=2em>18、事件相关重要调整
+<space=3em>付瑶琴与主角不老泉练功事件次数10次改为5次
+<space=3em>海蛟帮事件得知玉玺消息，同时获得玉玺合成配方
+<space=3em>成为皇室驸马时，自动和郡主触发结缘奖励，不必再到月老祠触发。
+<space=3em>取消解救宣和皇帝后触发封官赐爵的剧情;康王登基后，论功行赏触发赐爵定国公剧情
+<space=3em>邀请沈无欺条件：参加夜魔坊拍卖20次改为5次
+<space=3em>修改顶峰论道触发条件，名声8级，获得天阶魁首，单挑胜利三教任一掌门可获得资格
+<space=3em>原志向事件由主线类型改为支线类型
+<space=3em>取消门派布告栏，门派角色发布门派每日任务，其他门派人员完成可提升门派关系，本门完成可额外获得门派贡献
+<space=3em>部分事件补充女性角色表情立绘
+<space=3em>江湖事件增加江湖历练奖励
+<space=3em>修改祛湿丸事件触发条件；修改毒伢婆下毒事件触发条件
+<space=2em>19、兽环调整：调整兽环拍卖售价、改为不可易物
+<space=2em>20、行到一定程度，可在燕歌行处用本门贡献兑换高级道具
+<space=2em>21、采集点不同等级使用不同素材展示
+
+<space=2em>【修复】
+<space=2em>1、修复了霓裳羽衣经秘籍缺少与其相关的对白描述的问题
+<space=2em>2、修复了神捕门弟子，再加入叶家军后被踢出叶家军后形象错误的问题
+<space=2em>3、修复了大师兄敲钟十次后大师兄死亡无法交付任务的问题
+<space=2em>4、修复了宠物较少饱食度的描述
+<space=2em>5、修复了武器打造随机属性偏低的问题
+<space=2em>6、修复了付瑶琴寻路过慢且不会再不老泉停留的问题
+<space=2em>7、修复了聚财坊可以反复刷铜钱的问题
+
+<space=2em>若大家在游玩过程中遇到了任何问题，都可以加入官方玩家群，联系带【问题反馈】的管理员向我们反馈，我们会提供1对1的咨询服务。
+
+<space=2em>官方玩家群29群：229513091
+<space=2em>官方玩家23群：213116717（已开放）
+<space=2em>官方玩家22群：343709025（已开放）
+<space=2em>官方玩家20群：295390373（已开放）
+<space=2em>官方玩家24群：102223136（已开放）
+<space=2em>官方玩家10群 ：367248548 （已开放）
+<space=2em>官方玩家21群：550219413 （已开放）
+<space=2em>官方玩家17群 ：801310302 （已开放）
+<space=2em>官方玩家15群 ：141480592 （已开放）
+<space=2em>官方玩家14群： 728897240 （已开放）
+<space=2em>官方玩家12群 ：863498517（已开放）
+<space=2em>官方玩家11群： 801256045（已开放）
+<space=2em>官方玩家7群 ：679566481 （已开放）
+<space=2em>官方玩家6群： 926229186 （已开放）
+<space=2em>官方玩家群30群：205690472（已满）
+<space=2em>官方玩家群31群：232731094（已满）
+<space=2em>官方玩家群28群：115925318（已满）
+<space=2em>官方玩家27群：619959310 （已满）
+<space=2em>官方玩家25群：724208742（已满）
+<space=2em>官方玩家26群：722736145（已满）
+<space=2em>官方玩家22群：343709025（已满）
+<space=2em>官方玩家20群：295390373（已满）
+<space=2em>官方玩家19群：611246285（已满）
+<space=2em>官方玩家18群：165072814（已满）
+<space=2em>官方玩家16群 ：753444235 （已满）
+<space=2em>官方玩家13群 ：801291993（已满）
+<space=2em>官方玩家9群 ：801146478（已满）
+<space=2em>官方玩家8群 ：683263874（已满）
+<space=2em>官方玩家5群：926111719 （已满）
+<space=2em>官方玩家4群：826179621 （已满）
+<space=2em>官方玩家3群：753982506 （已满）
+<space=2em>官方玩家2群：1169723804 （已满）
+<space=2em>官方玩家1群：597962931 （已满）"
+StopQuit_Save,"%c%Synchronizing save data, please wait a moment",,%c%正在同步存档，请稍等一下
+Achievement_Kill_Info,Defeat {count} enemies,,击杀{count}敌人
+Achievement_Test_Info,Test test {count},,测试测试{count}
+CoinUnit_Guan,Guan,,贯
+CoinUnit_Wen,Coin,,文
+Hit_Miss,Evasion,,闪避
+Hit_Resist,No damage,,免伤
+Hit_DamageRtn,Reflect,,反弹
+Hit_DamageNear,Share,,分摊
+Hit_DamageSplash,Splash,,溅射
+Hit_DamageIsFlank,Side attack,,侧击
+Hit_DamageIsBackStab,Back attack,,背击
+Hit_DamageGuard,Parry,,承伤
+Hit_DamageTransfer,Transfer,,转移
+KungfuAvalible_EpLow,Not enough MP,,内力不足
+MiningGiveUp,Run away,,离开
+KungfuAvalibleLog_EpLow,"%c%Not enough MP, can't use {0}",,%c%内力不足，无法施展{0}
+KungfuAvalible_SpUsed,Used,,已使用
+KungfuAvalibleLog_SpUsed,%c%Can't use {0} again in this battle,,%c%本场战斗无法再次施展{0}
+KungfuAvalible_NoWeapon,Incorrect weapon,,武器不符
+KungfuAvalibleLog_NoWeapon,"%c%Incorrect weapon equipped, can't use {0}",,%c%所持武器不符，无法施展{0}
+KungfuAvalibleLog_AccuUniqueLow,%c%Activate after accumulating {0} Spirit,,%c%累计获得{0}战意后激活
+KungfuAvalible_IsCooling,On cooldown,,冷却中
+KungfuAvalibleLog_IsCooling,%c%Normal use after {0} actions,,%c%{0}次行动后正常施展
+AssistAvalibleLog_AccuUniqueLow,%c%Need to obtain {0} Spirit first to assist,,%c%需要先获得{0}战意才能援助
+KungfuAvalibleLog_DisposableUsed,%c%Already used in this battle,,%c%本场战斗已施展
+KungfuAvalible_DisposableUsed,Already used,,已施展
+KungfuAvalibleLog_NoBondTarget,%c%{0} did not assist,,%c%{0}没有进行援助
+KungfuAvalible_NoBondTarget,Can't use,,无法施展
+KungfuAvalibleLog_NotInBondArea,"%c%Too far from {0}, can't use",,%c%距{0}过远，无法施展
+KungfuAvalible_NotInBondArea,Can't use,,无法施展
+NormalAttack_NotAvalible,%c%Exceeded normal attack range,,%c%已超出普攻范围
+NormalAttack_NoKungfu,%c%Unable to attack,,%c%无法进行攻击
+KungfuCastForbiden_NoPath,"%c%Path is blocked, can't use",,%c%路径被阻挡，无法施展
+KungfuCastForbiden_NoActor,%c%No target to use,,%c%没有施展目标
+KungfuCastForbiden_NoEmptyGround,%c%Can't use in this area,,%c%该区域无法施展
+KungfuCastForbiden_IsBlock,%c%Can't use in this area,,%c%该区域无法施展
+KungfuCastForbiden_CantCharge,"%c%No place to move, can't use",,%c%没有可位移的地方，无法施展
+InBattle_InternalAtk,Boost</color>,,加力</color>
+InBattle_InternalDef,<#7C7CFF>Protection</color>,,<#7C7CFF>护体</color>
+InBattle_SecondWind,One-hit invincible,,一击不死
+BattleDamageStyle_Normal,<size=+12>{0},,<size=+12>{0}
+BattleDamageStyle_DamageSplash,<size=+12>{0},,<size=+12>{0}
+BattleDamageStyle_DamageRtn,<size=+12>{0},,<size=+12>{0}
+BattleDamageStyle_DamageNear,<size=+12>{0},,<size=+12>{0}
+BattleDamageStyle_Action,<#5FF2FF>Charge up<size=+12>{0}</color>,,<#5FF2FF>集气<size=+12>{0}</color>
+BattleDamageStyle_Bleed,<#F55452>{0}</color>,,<#F55452>{0}</color>
+BattleDamageStyle_Heal,<#94FF4D>HP<size=+12>{0}</color>,,<#94FF4D>生命<size=+12>{0}</color>
+BattleDamageStyle_Ep,<#FFFFFF>MP<size=+12>{0}</color>,,<#FFFFFF>内力<size=+12>{0}</color>
+BattleDamageStyle_Crit,<size=+12><#FF793E>Critical<size=+24>{0}</color>,,<size=+12><#FF793E>暴击<size=+24>{0}</color>
+BattleDamageStyle_Parry,Parry{0},,格挡{0}
+BattleDamageStyle_DamageGuard,<size=+12>{0},,<size=+12>{0}
+BattleDamageStyle_DamageTransfer,<size=+12>{0},,<size=+12>{0}
+BattleDamageStyle_UnknownDamage,<#F55452>HP{0}</color>,,<#F55452>生命{0}</color>
+InstantBattle_RetreatConfirm,"<#61C3C8>{0}</color> has left the combat area, do you want to exit the battle?",,<#61C3C8>{0}</color>已脱离战斗区域，是否退出战斗？
+InstantBattle_RetreatFriend,<#61C3C8>{0}</color> successfully left the battle,,<#61C3C8>{0}</color>脱离战斗成功
+InstantBattle_RetreatEnemy,<#FF0000>{0}</color> successfully left the battle,,<#FF0000>{0}</color>脱离战斗成功
+InstantBattle_TimeCost,This battle took a total of <#F55452>{0}</color>,,本场战斗共计耗时 <#F55452>{0}</color>
+BattleUseItemCount_Med,Used <#00ff00>{0}/{1}</color> in this battle,,本场已用 <#00ff00>{0}/{1}</color>
+BattleUseItemCount_Wine,Drank {0}/{1} in this battle,,本场战斗已饮用 {0}/{1}
+BattlePropModified_Hp,,,<#F55452>生命{0}</color>
+BattlePropModified_Ep,MP{0},,内力{0}
+BattlePropModified_NegPoison,<#F55452>Poisoned{0}</color>,,<#F55452>中毒{0}</color>
+BattlePropModified_NegInjure,<#F55452>Internal Injury{0}</color>,,<#F55452>内伤{0}</color>
+BattlePropModified_NegSeal,<#F55452>Sealed{0}</color>,,<#F55452>封穴{0}</color>
+BattlePropModified_NegBleed,<#F55452>Bleeding{0}</color>,,<#F55452>流血{0}</color>
+BattlePropModified_NegBlind,<#F55452>Blind {0}</color>,,<#F55452>目盲{0}</color>
+AutoBattle_NoEnemy,"%c%No enemies nearby, can't auto-battle",,%c%附近没有敌人，不能自动战斗
+PlayerCreate_NameIllegal,"%c%The name contains sensitive words, please re-enter",,%c%少侠姓名中含有敏感词汇，请重新输入
+PlayerCreate_TraitCount,Available achievement points: <#ffffff>{0}</color>,,可用成就点数：<#ffffff>{0}</color>
+PlayerCreate_AbilityCount,Please select {1} initial skills ({0}/{1}),,请选择{1}个初始能力（{0}/{1}）
+PlayerCreate_MainPropPoint,Available points: {0},,可用点数：{0}
+PlayerCreate_Item,Please select {1} sets of initial items ({0}/{1}),,请选择{1}组初始道具（{0}/{1}）
+PlayerCreate_AbilityTip,{0}：{1},,{0}：{1}
+PlayerCreate_EmptyTraitAvalible,"There are still points left for selection, 
+do you want to give up?",,"剩余点数仍有选择的特征，
+是否决定放弃？"
+PlayerCreate_ItemtAvalible,"There are still items not selected, 
+do you want to give up the selection?",,"还有道具未选择，
+是否放弃选择？"
+PlayerCreate_PropPointAvalible,"There are still unallocated attributes available, 
+do you want to give up the allocation?",,"有未分配的资质可用，
+是否放弃分配？"
+PlayerCreate_AbilityAvalible,"There are still skills not selected, 
+do you want to give up the selection?",,"有未选择的能力，
+是否放弃选择？"
+PlayerCreate_DiscardCharacterSheet,"Are you sure you want to return to the difficulty selection screen? 
+The content of this screen will be reset!",,"确定要返回难度选择界面吗？
+此界面内容将会重置！"
+PlayerCreate_MaxTrait,%c%The limit of selectable features has been reached,,%c%可选特征已达上限
+PlayerCreate_MaxItem,%c%Can't carry more items,,%c%无法携带更多物品
+PlayerCreate_LockItem,%c%This item has not been unlocked,,%c%该物品还未解锁
+PlayerCreate_MaxAbility,%c%The limit of selectable skills has been reached,,%c%可选能力已达上限
+PlayerCreate_LockAbility,%c%This skill has not been unlocked,,%c%该能力还未解锁
+PlayerCreate_LockTraitMax,%c%Can only lock-on {0} features,,%c%只能锁定{0}个特征
+PlayerCreate_NoTraitPoints,%c%Not enough achievement points,,%c%成就点不足
+PlayerCreate_TraitInfo0,"Fist, the origin of all arts. Sacrifice attack range and distance for extremely high damage.
+<color=yellow>Main sources: Shifa Temple, Taoist Sect, Town Martial Arts Hall</color>",,"拳，百艺之源。以牺牲杀伤范围和攻击距离为代价，换取极高的伤害。
+<color=yellow>主要来源：释法寺、道玄宗、城镇武馆</color>"
+PlayerCreate_TraitInfo1,"Sword, the king of all weapons, the ancestor of short weapons. It's flexible and elegant, light and fast, widely spread, and popular among martial artists.
+<color=yellow>Main sources: Langya Sword Pavilion, Taoist Sect, Crime Investigation Bureau, Town Martial Arts Hall</color>",,"剑，乃百兵之君、短兵之祖。其灵动飘逸，轻便迅捷，流传甚广，深得武林人士喜好。
+<color=yellow>主要来源：琅琊剑阁、道玄宗、神捕门、城镇武馆</color>"
+PlayerCreate_TraitInfo2,"The sword, the leader of all weapons. It has been used in the army since ancient times, brave and fierce, strong and powerful, it is the strongest in short-range combat.
+<color=yellow>Main sources: Jiujiang Fotress, Yan Yun Iron Army, Blue Wind Camp, Town Martial Arts Hall</color>",,"刀，乃百兵之帅。自古便为军阵所用，勇猛彪悍，雄健有力，是短兵相接最强利器。
+<color=yellow>主要来源：九江水寨、燕云铁军、青风寨、城镇武馆</color>"
+PlayerCreate_TraitInfo3,"Dagger. An inch short, an inch dangerous. Small and flexible, with concealed moves, as mighty as the thunder, defeating the enemy in one strike.
+<color=yellow>Main Source: Nest of Swallow</color>",,"匕首。一寸短，一寸险。短小灵活，招式隐蔽，动如雷霆，一击制敌。
+<color=yellow>主要来源：燕子窝</color>"
+PlayerCreate_TraitInfo4,"Fan. Incorporating the elegance of its own blade in Short weapon skill, with varied and elegant moves, loved by most literati.
+<color=yellow>Main Source: Confucius Temple, Imperial School</color>",,"扇。在短兵技巧中融合自身扇刃的灵动潇洒，招式变化多端不失风雅，受大多文人喜爱。
+<color=yellow>主要来源：儒圣馆、太学馆</color>"
+PlayerCreate_TraitInfo5,"Pen. Using the pen as a weapon, wielding it like a knife, splashing ink like arrows, painting a landscape with every move.
+<color=yellow>Main Source: Confucius Temple, Imperial School</color>",,"笔。以笔为戈，挥毫如刀，泼墨似箭，举手投足之间绘出一片江山图卷。
+<color=yellow>主要来源：儒圣馆、太学馆</color>"
+PlayerCreate_TraitInfo6,"Staff, the ancestor of all weapons. Combining solidity and flexibility, balancing offense and defense, versatile.
+<color=yellow>Main Source: Shifa Temple, Town Martial Arts School</color>",,"棍，乃百兵之祖。取其坚实和柔韧于一体，攻防两端兼顾，灵活多变。
+<color=yellow>主要来源：释法寺、城镇武馆</color>"
+PlayerCreate_TraitInfo7,"Spear, the king of all weapons. Combining hardness and softness, moving like a swimming dragon, leading to thousands of changes.
+<color=yellow>Main Source: Ye Family Battalion, Town Martial Arts School</color>",,"枪，乃百兵之王。刚柔并济，动若游龙，引出千般变化。
+<color=yellow>主要来源：叶家军、城镇武馆</color>"
+PlayerCreate_TraitInfo8,"The flute. Using breath to drive the sound, capturing people's souls, its sound is distant, and you can control the enemy with sound from ten steps away.
+<color=yellow>Main sources: Melody House, Maiden House, Tower of Prosperity</color>",,"箫。以气催声，取人心魄，其声悠远，十步之外便可先声制敌。
+<color=yellow>主要来源：妙音坊、群芳馆、繁华似锦楼</color>"
+PlayerCreate_TraitInfo9,"The lute, the king of all music. The combination of its sound and MP can break people's minds from several meters away.
+<color=yellow>Main sources: Melody House, Maiden House, Tower of Prosperity</color>",,"琵琶，乃百乐之王。音色与内力结合，数米之外便可摧人心智。
+<color=yellow>主要来源：妙音坊、群芳馆、繁华似锦楼</color>"
+PlayerCreate_TraitInfo10,"The zither. By adding MP to your fingers and causing attacks through the vibration of the strings, the sound is varied and difficult to block, controlling the enemy invisibly.
+<color=yellow>Main sources: Melody House, Maiden House, Tower of Prosperity</color>",,"琴。将手指加以内力，通过琴弦的波动而造成的攻击，音色多变，难以阻隔，制敌于无形。
+<color=yellow>主要来源：妙音坊、群芳馆、繁华似锦楼</color>"
+PlayerCreate_TraitZone0,Fist (Lv 10 Effect),,拳法范围（10级效果）
+PlayerCreate_TraitZone1,Sword (Lv 10 Effect),,剑法范围（10级效果）
+PlayerCreate_TraitZone2,Blade (Lv 10 Effect),,刀法范围（10级效果）
+PlayerCreate_TraitZone3,Short Weapon (Lv 10 Effect),,短兵范围（10级效果）
+PlayerCreate_TraitZone4,Fan (Lv 10 Effect),,扇法范围（10级效果）
+PlayerCreate_TraitZone5,Pen (Lv 10 Effect),,笔法范围（10级效果）
+PlayerCreate_TraitZone6,Staff (Lv 10 Effect),,棍法范围（10级效果）
+PlayerCreate_TraitZone7,Spear (Lv 10 Effect),,枪法范围（10级效果）
+PlayerCreate_TraitZone8,Flute (Lv 10 Effect),,箫法范围（10级效果）
+PlayerCreate_TraitZone9,Lute (Lv 10 Effect),,琵琶范围（10级效果）
+PlayerCreate_TraitZone10,Guqin (Lv 10 Effect),,琴法范围（10级效果）
+PlayerCreate_TraitRarityWindow,"The current list contains <#d09a09>Legendary features</color>, do you want to give up and randomize again?",,当前列表含有<#d09a09>甲级特征</color>，是否放弃重新随机？
+PlayerCreate_TraitRarityWindowCheckInfo,Don't remind again for this character creation,,本次创建角色不再提示
+PlayerCreate_PropPointViaAchv,The current achievement adds an extra point of {0},,当前成就附加的额外点数为{0}
+PlayerCreate_TraitPointViaAchv,The current number of additional features to choose is {0},,当前可额外选择的特征数量为{0}
+InputWindow_InputIllegal,"%c%The content you entered contains sensitive words, please re-enter",,%c%少侠输入的内容有敏感词汇，请重新输入
+GameLog_Equip,%c%Equip successful,,%c%穿戴成功
+GameLog_UnEquip,%c%Unequip successful,,%c%卸下成功
+GameLog_WeaponNotMatching,%c%Some external skills cannot be used,,%c%部分外功无法使用
+GameLog_GetEquipPenalty,%c%Equipment effect weakened,,%c%装备效果减弱
+GameLog_EquipBook,%c%Choose {0} to learn,,%c%选择{0}进行修炼
+GameLog_UnEquipBook_LvPeaked,"%c%Already at full weight, no need to learn",,%c%已升至满重，无需修炼
+GameLog_UnEquipBook_NumPeaked,%c%The limit of learnable martial arts has been reached,,%c%可学武功已达上限
+GameLog_UnEquipBook_dissatisfaction,%c%Do not meet the conditions to learn,,%c%不满足修炼条件
+GameLog_UnUseItem,%c%Cannot use item,,%c%无法使用物品
+GameLog_UseItem,%c%Item used successfully,,%c%使用物品成功
+GameLog_UnUseItem_dead,"%c%Near-death status, temporarily unable to use",,"%c%濒死状态,暂时无法使用"
+GameLog_NoNeedUseItem,%c%No need to use item,,%c%无需使用物品
+UIConfirm_EquipDebuffBook,Do you want to teach {0} to learn {1}?,,给{0}修炼{1}吗?
+UIConfirm_EquipOwnedDebuffBook,Do you want to transfer {3}'s {1} to {0} to learn?,,将{3}的{1}转给{0}修炼吗？
+UIConfirm_UnEquipBook,Do you want to cancel {0} learning {1}?,,取消{0}修炼{1}吗？
+UIConfirm_EquipBook,Do you want to teach {0} to learn {1}?,,给{0}修炼{1}吗?
+UIConfirm_EquipOwnedBook,Do you want to transfer {2}'s {1} to {0} to learn?,,将{2}的{1}转给{0}修炼吗？
+UIConfirm_UnEquip,Do you want to unequip {0}'s {1}?,,给{0}的{1}卸下吗?
+UIConfirm_Equip,Do you want to equip {0} with {1}?,,给{0}穿戴{1}吗?
+GameLog_UnDanYao,%c%Pill usage has reached its limit,,%c%丹药使用已达上限
+UIConfirm_WeaponNotMatching,"<size=24><#FF5809>(Weapon type mismatch, some Martial Arts will be ineffective after equipping)",,"
+<size=24><#FF5809>(武器类型不符,装备后部分武学失效)"
+UIConfirm_GetEquipPenalty,"<size=24><#FF5809>(Insufficient equip conditions, Accuracy or Action Speed will decrease after equipping)",,"
+<size=24><#FF5809>(穿戴条件不足,装备后命中或集气速度衰减)"
+UIConfirm_UseItem,Do you want to use {1} on {0}?,,给{0}使用{1}吗?
+BuffConflict_Generic,"There is already a similar item effect, continuing will overwrite it, do you confirm?",,已有同类物品效果，继续将会覆盖，是否确认?
+GameLog_MovePosInvalid,%c%Cannot move to this location,,%c%不能移动到此处
+GameLog_InBattle_Exp,<#61C3C8>{0}</color> gained <#5CBD4C> {1} Jianghu Knowledge</color>,,<#61C3C8>{0}</color>获得<#5CBD4C> {1} 江湖历练</color>
+GameLog_InBattle_KungfuExp,<#61C3C8>{0}</color> gained <#D7A347> {1} EXP</color>,,<#61C3C8>{0}</color>获得<#D7A347> {1} 实战经验</color>
+GameLog_InBattle_BattleExp,<#61C3C8>{0}</color> gained <#E16D79> {1} Combat</color>,,<#61C3C8>{0}</color>获得<#E16D79> {1} 实战能力</color>
+GameLog_TeamPack_NotEnoughCoin,%c%Not enough Coin,,%c%没有足够的铜钱
+GameLog_TeamPack_NotEnoughFTributePoint,%c%Not enough Sect contribution,,%c%没有足够的门派贡献
+GameLog_TeamPack_NotEnoughItem,%c%Not enough {0},,%c%没有足够的{0}
+GameLog_TeamPack_AddCoin,{1} gained <#FFED56>{0} Coin</color>,,{1}获得 <#FFED56>{0} 铜钱</color>
+GameLog_TeamPack_RemoveCoin,{1} lost <#FFED56>{0} Coin</color>,,{1}失去 <#FFED56>{0} 铜钱</color>
+GameLog_TeamPack_AddFTributePoint,{1} gained <#FFED56>{0} Sect contribution</color>,,{1}获得 <#FFED56>{0} 门派贡献</color>
+GameLog_TeamPack_RemoveFTributePoint,{1} lost <#FFED56>{0} Sect contribution</color>,,{1}失去 <#FFED56>{0} 门派贡献</color>
+GameLog_TeamPack_AddItem,{1} gained {0},,{1}获得 {0}
+GameLog_TeamPack_RemoveItem,{1} lost {0},,{1}失去 {0}
+GameLog_TeamPack_AddItemFief,{1} obtained {0} (stored in the homeland),,{1}获得 {0}（已存入家园）
+GameLog_FiefResToFief,Home Behind the Mountain produced {0} (stored in home),,家园后山产出{0}（已存入家园）
+GameLog_InBattle_LevelUp,%s%<#61C3C8>{0}</color> has leveled up to <#ff822f>{1}</color>,,%s%<#61C3C8>{0}</color>提升至<#ff822f>{1}</color>级
+GameLog_InBattle_KungfuExpUp,<#61C3C8>{0}</color>'s {1} gained <#D7A347> {2} EXP</color>,,<#61C3C8>{0}</color>的{1}获得<#D7A347> {2} 实战经验</color>
+GameLog_InBattle_KungfuExpLevelUp,<#61C3C8>{0}</color>'s {1} has leveled up to <#ff822f>{2}</color>,,<#61C3C8>{0}</color>的{1}提升至<#ff822f>{2}</color>
+GameLog_InBattle_KungfuExpLevelUpNew,%s%<#ff5555>{0}</color> successfully comprehended {1},,%s%<#ff5555>{0}</color>领悟{1}成功
+GameLog_KungfuRemove,{0} has forgotten {1},,{0}已经遗忘掉了{1}
+GameLog_InBattle_InternalKungfuChanged,{0} set the skill body to {1},,{0}设置功体为{1}
+GameLog_InBattle_InternalKungfuCanceled,{0} cancelled the skill body {1},,{0}取消功体{1}
+GameLog_InBattle_AdditionAction,{0} gained an extra action,,{0}获得了额外行动
+GameLog_TeamExp,Gained <#5CBD4C> {0} Jianghu Knowledge</color>,,获得<#5CBD4C> {0} 江湖历练</color>
+GameLog_TeamKungfuExp,Gained <#D7A347> {0} EXP</color>,,获得<#D7A347> {0} 实战经验</color>
+GameLog_BattleUseItemCap_Med,%c%<#61C3C8>{0}</color>Medicine usage has reached its limit,,%c%<#61C3C8>{0}</color>药品使用已达上限
+GameLog_BattleUseItemCap_Wine,%c%<#61C3C8>{0}</color>Beverage usage has reached its limit,,%c%<#61C3C8>{0}</color>饮品使用已达上限
+GameLog_UseItem_Med,%c%<#61C3C8>{0}</color> took {1},,%c%<#61C3C8>{0}</color>服用了{1}
+GameLog_UseItem_Wine,%c%<#61C3C8>{0}</color> drank {1},,%c%<#61C3C8>{0}</color>饮用了{1}
+GameLog_TeamAddCharacter,%s%<#ff5555>{0}</color> joined the team,,%s%<#ff5555>{0}</color>加入队伍
+GameLog_TeamRemoveCharacter,<#ff5555>{0}</color> leave the team,,<#ff5555>{0}</color>离开队伍
+GameLog_TeamAddPet,%s%<#9544ba>{0}</color> has recognized you as its master,,%s%<#9544ba>{0}</color>已经认你为主人
+GameLog_DefaultSimple,{0},,{0}
+CharacterPropModify_MoralUp,<#D7A347>{1}</color><#5EB94F>increased</color> by {2} points,,<#D7A347>{1}</color><#5EB94F>增加</color>{2}点
+CharacterPropModify_MoralDown,<#D7A347>{1}</color><#CE3C3B>decreased</color> by {2} points,,<#D7A347>{1}</color><#CE3C3B>减少</color>{2}点
+CharRelation_Up,Relations with <#DFC342>{0}</color> increased by <#FFA311>{1}</color> points,,与<#DFC342>{0}</color>关系提升<#FFA311>{1}</color>点
+CharRelation_Down,Relations with <#DFC342>{0}</color> decreased by <#FFA311>{1}</color> points,,与<#DFC342>{0}</color>关系降低<#FFA311>{1}</color>点
+CharRelation_Change,Relations with <#DFC342>{0}</color> reached <#FD6565>{1}</color>,,与<#DFC342>{0}</color>关系达到<#FD6565>{1}</color>
+CharRelationFromDamageSameFaction_Up,"Damaged <#DFC342>{0}</color> fellow sect member, relations increased by <#FFA311>{1}</color> points",,伤害<#DFC342>{0}</color>同门，与其关系提升<#FFA311>{1}</color>点
+CharRelationFromDamageSameFaction_Down,"Damaged <#DFC342>{0}</color> fellow sect member, relations decreased by <#FFA311>{1}</color> points",,伤害<#DFC342>{0}</color>同门，与其关系降低<#FFA311>{1}</color>点
+CharRelationFromLevelup_Up,"<#DFC342>{0}</color> gained a lot of insight from fighting alongside you, <#DFC342>{0}</color> relations increased by <#FFA311>{1}</color>|<#DFC342>{0}</color> considers you an inseparable partner, <#DFC342>{0}</color> relations increased by <#FFA311>{1}</color>|<#DFC342>{0}</color> trusts you more after this battle, <#DFC342>{0}</color> relations increased by <#FFA311>{1}</color>|<#DFC342>{0}</color> greatly enjoyed fighting alongside you, <#DFC342>{0}</color> relations increased by <#FFA311>{1}</color>|<#DFC342>{0}</color> appreciates your efforts in this battle, <#DFC342>{0}</color> relations increased by <#FFA311>{1}</color>|<#DFC342>{0}</color>'s strength has further improved, <#DFC342>{0}</color> relations increased by <#FFA311>{1}</color>",,<#DFC342>{0}</color>与你并肩作战感悟良多，<#DFC342>{0}</color>关系增加<#FFA311>{1}</color>|<#DFC342>{0}</color>认为你是值得托付生死的伙伴，<#DFC342>{0}</color>关系增加<#FFA311>{1}</color>|<#DFC342>{0}</color>通过这场战斗对你更加信任，<#DFC342>{0}</color>关系增加<#FFA311>{1}</color>|<#DFC342>{0}</color>十分享受与你并肩战斗的感觉，<#DFC342>{0}</color>关系增加<#FFA311>{1}</color>|<#DFC342>{0}</color>感谢这场战斗中你的付出，<#DFC342>{0}</color>关系增加<#FFA311>{1}</color>|<#DFC342>{0}</color>的实力获得进一步的提升，<#DFC342>{0}</color>关系增加<#FFA311>{1}</color>
+CharRelationFromLevelup_Down,"<#DFC342>{0}</color> despises your performance in the battle, <#DFC342>{0}</color> relations decreased by <#FFA311>{1}</color>|You failed to protect <#DFC342>{0}</color>'s safety, <#DFC342>{0}</color> relations decreased by <#FFA311>{1}</color>|<#DFC342>{0}</color> does not recognize your strength in combat, <#DFC342>{0}</color>Relations decrease by <#FFA311>{1}</color>|<#DFC342>{0}</color> disapproves of your actions, <#DFC342>{0}</color>Relations decrease by <#FFA311>{1}</color>|<#DFC342>{0}</color> thinks you are not worthy of trust, <#DFC342>{0}</color>Relations decrease by <#FFA311>{1}</color>|<#DFC342>{0}</color> is now disappointed in you, <#DFC342>{0}</color>Relations decrease by <#FFA311>{1}</color>",,<#DFC342>{0}</color>不齿你在战斗中的表现，<#DFC342>{0}</color>关系降低<#FFA311>{1}</color>|你没有保护<#DFC342>{0}</color>的安全，<#DFC342>{0}</color>关系降低<#FFA311>{1}</color>|<#DFC342>{0}</color>不认可你在战斗中线路的实力，<#DFC342>{0}</color>关系降低<#FFA311>{1}</color>|<#DFC342>{0}</color>不认可你的所作所为，<#DFC342>{0}</color>关系降低<#FFA311>{1}</color>|<#DFC342>{0}</color>认为你并不值得托付性命，<#DFC342>{0}</color>关系降低<#FFA311>{1}</color>|<#DFC342>{0}</color>现在对你很失望，<#DFC342>{0}</color>关系降低<#FFA311>{1}</color>
+CharRelationFromPlayerAction_Up,"<#DFC342>{0}</color> highly approves of your actions, Relations increase by <#FFA311>{1}</color> points",,<#DFC342>{0}</color>非常认可你的行为，关系提升<#FFA311>{1}</color>点
+CharRelationFromPlayerAction_Down,"<#DFC342>{0}</color> is disgusted by your actions, Relations decrease by <#FFA311>{1}</color> points",,<#DFC342>{0}</color>对你的行为感到反感，关系降低<#FFA311>{1}</color>点
+FactionFame_Up,Relations with <#61C3C8>{0}</color> increase by <#FFA311>{1}</color> points,,与<#61C3C8>{0}</color>关系提升<#FFA311>{1}</color>点
+FactionFame_Down,Relations with <#61C3C8>{0}</color> decrease by <#FFA311>{1}</color> points,,与<#61C3C8>{0}</color>关系降低<#FFA311>{1}</color>点
+FactionFame_Change,Relations with <#61C3C8>{0}</color> reach <#FD6565>{1}</color>,,与<#61C3C8>{0}</color>关系达到<#FD6565>{1}</color>
+Factiontrading_FameCheckFailed,Relations with <#DFC342>{0}</color> reach {1} can Buy,,与<#DFC342>{0}</color>关系达到{1}可购买
+Factiontrading_RelationCheckFailed,Relations with <#DFC342>{0}</color> reach {1} can Buy,,与<#DFC342>{0}</color>关系达到{1}可购买
+SaveInfo_AutoSave,Autosave slot {0},,自动存档 {0}
+SaveInfo_Save,Save slot {0},,手动存档 {0}
+SaveInfo_QuickSave,Quick save,,快速存档
+SaveInfo_AutoSaveFinished,%c%Auto save completed,,%c%自动存档完成
+SaveInfo_QuickSaveFinished,%c%Quick save successful,,%c%快速存档成功
+SaveInfo_QuickLoadFinished,%c%Quick load successful,,%c%快速读档成功
+SaveInfo_QuickSaveFailed,%c%Cannot quick save now,,%c%当前不能快速存档
+SaveInfo_QuickLoadFailed,%c%Cannot quick load now,,%c%当前不能快速读档
+SaveInfo_Map,{0},,{0}
+SaveInfo_DateFormat,yyyy/MM/dd HH:mm,,yyyy-MM-dd HH:mm
+SaveInfo_PlayTimeFormat,Game duration: {0} days {1} hours {2} minutes,,游戏时长：{0}天{1}小时{2}分
+SaveInfo_InGameTime,Game duration: {0} days {1} shichen,,游戏时长：{0}天{1}时辰
+SaveInfo_ConfirmValid,"Are you sure you want to overwrite ""{0}""?
+The overwritten save will be deleted.",,"确定要覆盖“{0}”吗？
+被覆盖的存档将会删除。"
+SaveInfo_ConfirmInvalid,Are you sure you want to create a new save?,,确定要新建存档吗？
+SaveInfo_LoadConfirm,"Do you want to load this save?
+Unsaved progress will be lost.",,"是否加载此存档？
+未保存的进度将会丢失。"
+SaveInfo_LoadFailed,%s%Save file is corrupted,,%s%存档文件损坏
+SaveInfo_IsSaving,"%c%The system is writing another save, please wait",,%c%系统正在写入另一份存档，请稍等
+SaveInfo_DeleteConfirm,"Choose to delete ""<#ffff00>{0}</color>""?
+<size=24><#ff0000>(Note: The save cannot be recovered after deletion)</color></size>",,"选择将“<#ffff00>{0}</color>”进行删除？
+<size=24><#ff0000>（注意：删除后存档无法恢复）</color></size>"
+SaveError_TryingRecFormBackup,"Detected abnormality in Coin save, attempt to recover from backup?",,检查到存档文件异常，是否尝试从备份恢复？
+Kungfu_PropNeed,Requirement,,修炼要求
+Equip,Equipment,,装备
+Equip_Weapon,Weapon,,武器
+Equip_Weapon_None,Bare hands,,空手
+Equip_Weapon_Glove,Glove,,拳套
+Equip_Weapon_Sword,Sword,,剑
+Equip_Weapon_Blade,Blade,,刀
+Equip_Weapon_Lance,Spear,,枪
+Equip_Weapon_Staff,Staff,,棍
+Equip_Weapon_Fan,Fan,,扇
+Equip_Weapon_Dagger,Dagger,,匕首
+Equip_Weapon_Brush,Brush,,毛笔
+Equip_Weapon_Guqin,Zither,,琴
+Equip_Weapon_Flute,Flute,,箫
+Equip_Weapon_Pipa,Lute,,琵琶
+Equip_Armor,Inner armor,,内甲
+Equip_Amulet,Accessory,,配饰
+KungfuBook,Martial arts manual,,武功秘籍
+KungfuBook_Outer,External skill Manual,,外功秘籍
+KungfuBook_Outer_Fist,Fist skill Manual,,拳掌系武功秘籍
+KungfuBook_Outer_Sword,Sword skill Manual,,剑系武功秘籍
+KungfuBook_Outer_Blade,Knife skill Manual,,刀系武功秘籍
+KungfuBook_Outer_Lance,Spear skill Manual,,枪系武功秘籍
+KungfuBook_Outer_Staff,Stick skill Manual,,棍系武功秘籍
+KungfuBook_Outer_Fan,Fan skill Manual,,扇系武功秘籍
+KungfuBook_Outer_Dagger,Dagger skill Manual,,匕首系武功秘籍
+KungfuBook_Outer_Brush,Brush skill Manual,,毛笔系武功秘籍
+KungfuBook_Outer_Guqin,Zither skill Manual,,古琴系武功秘籍
+KungfuBook_Outer_Flute,Flute skill Manual,,笛子系武功秘籍
+KungfuBook_Outer_Pipa,Lute skill Manual,,琵琶系武功秘籍
+KungfuBook_Inner,Internal skill Manual,,内功秘籍
+Consumeable,Consumables,,消耗品
+Consumeable_Edible,Consumables,,消耗品
+Consumeable_Edible_Meal,Food,,食物
+Consumeable_Edible_Fruit,Fruit,,水果
+Consumeable_Edible_Wine,Beverage,,饮品
+Consumeable_Edible_Elixir,Pill,,丹药
+Consumeable_Edible_Medicine,Medicine,,药品
+Consumeable_Material,Material,,材料
+Consumeable_Material_Vege,Ingredient,,食材
+Consumeable_Material_Meat,Meat,,肉食
+Consumeable_Material_Seafood,Aquatic,,水产
+Consumeable_Material_Water,Quenching Material,,淬火材料
+Consumeable_Material_Herb,Herb,,药材
+Consumeable_Material_Ore,Ore,,矿石
+Consumeable_Material_Wood,Wood,,木材
+Consumeable_Material_Hide,Leather weaving,,皮革纺织
+Consumeable_Material_Misc,Other Material,,其他材料
+Consumeable_Special,Appraise Chest,,鉴定宝箱
+Consumable_Chest,Appraise Chest,,鉴定宝箱
+Consumeable_Recipe,Recipe,,配方
+Consumeable_ChestItem,Item chest,,宝箱物品
+Misc,Other,,其他
+Misc_Treasure,Treasure,,珍品
+Misc_Treasure_Tea,Tea leaf,,茶叶
+Misc_Treasure_Copybook,Calligraphy,,字帖
+Misc_Treasure_Painting,Painting,,绘画
+Misc_Treasure_Antique,Decoration,,装饰
+Misc_Treasure_Toy,Toy,,玩具
+Misc_Treasure_Makeup,Cosmetic,,化妆品
+Misc_Treasure_Valuable,Appliance,,器具
+Misc_HidWep,Throwing,,暗器
+Misc_Quest,Important Item,,重要物品
+Misc_Prop,Other,,其他
+Misc_Map,Map,,地图
+Misc_Poison,Poison,,毒药
+Consumeable_Edible_MageFood,Medicine,,药品
+Consumeable_Edible_MuggleFood,Consumable,,消耗
+Consumeable_Material_Other,Other,,其他
+Misc_Map_Normal,Map,,地图
+Misc_Map_Treasure,Treasure map,,藏宝图
+All,All,,全部
+RoamingUI_StoryTimeLimit,Time limit: {0},,时限：{0}
+InternalTypeShort_Yin,<#A7B6FF>Yin</color>,,<#A7B6FF>阴</color>
+InternalTypeShort_Yang,<#FDF46C>Yang</color>,,<#FDF46C>阳</color>
+InternalTypeShort_ALL,No limit,,不限
+InternalTypeShort_Mixed,<#6dffd4>Neutral</color>,,<#6dffd4>调</color>
+Practice_book_Of_Name,<#57ECDF>{0} Reading,,<#57ECDF>{0} 修炼中
+Practice_Equip_Of_Name,<#57ECDF>{0} Equipped,,<#57ECDF>{0} 穿戴中
+StoryNote_Complated,Completed,,已完成
+StoryNote_Close,Closed,,已关闭
+StoryNote_TimeOut,Overdue,,逾期
+StoryNote_Fail,Failed,,已失败
+StoryNote_AddCheckFail,%c%Event tracking is full,,%c%事件追踪已满
+Time_Day,days,,天
+Time_Hour,shichen,,时辰
+Time_Quarter,Ke,,刻
+Mining_Lucky,What a luck!,,真是好运！
+Mining_Spe,What a pleasant surprise!,,竟然有意外惊喜！
+GameLog_NoCoundJuezhao,%c%No selectable ultimate move,,%c%没有可选择的绝招
+GameLog_NoCoundBook,%c%No Manual available,,%c%没有可选择的秘籍
+GameLog_NoCoundkongfu,%c%No internal skills available,,%c%没有可选择的内功
+GameLog_RoleLeaveTeam,Select {0} Run away team?,,选中{0}离开队伍吗？
+GameLog_JMweidatong,%c%Need to comprehend the previous Passive,,%c%需领悟前一项武道
+GameLog_JMDotspend,"%c%Not enough acupoints, unable to break through",,%c%冲穴点不足，无法打通穴位
+caijiceshi1,Digging and digging,,刨啊刨啊刨
+caijiceshi2,Praying and praying,,拜啊拜啊拜
+caijiceshi3,Sweeping and sweeping,,扫啊扫啊扫
+caiji_kuangshi,Mining…,,正在挖矿......
+caiji_mucai,Chopping…,,正在砍材......
+caiji_shui,Catching…,,正在打捞......
+caiji_yaocai,Gathering…,,正在采药......
+caiji_shuichan,Fishing…,,正在垂钓......
+caiji_shuijiao,Resting…,,正在休息......
+caiji_murenzhuang,Training…,,正在训练......
+caiji_meihuazhuang,Training…,,正在训练......
+caiji_fuqin,Playing music…,,正在抚琴......
+caiji_guibai,Kowtowing…,,正在跪拜......
+caiji_zhenjiu,Acupunturing…,,正在针灸......
+caiji_qidao,Praying…,,正在祈祷......
+caiji_dazuo,Meditating…,,正在打坐......
+caiji_shudong,Searching…,,正在掏树洞......
+caiji_watu,Digging…,,正在挖掘......
+caiji_jingshui,"You need to consume <#FDF46C>{0}</color> to get <#00c6f3>Well water</color>
+Do you want to continue?",,"需要消耗<#FDF46C>{0}</color>获取<#00c6f3>井水</color>
+是否继续？"
+caiji_yiguanzhenjiu,It requires consuming <#FDF46C>{0}</color> and <#FDF46C>15Stamina</color> to gain 1 point of Medical. Do you wish to continue?,,需要消耗<#FDF46C>{0}</color>、消耗<#FDF46C>15体力</color>，获得1点医术，是否继续？
+caiji_fuqin1,"You need to consume <#FDF46C>{0}</color> to increase Mood by 25 points
+Do you want to continue?",,"需要消耗<#FDF46C>{0}</color>提升25点心情
+是否继续？"
+mining_cost_time_tip0,"Need to consume <#FDF46C>{0}</color>,
+continue?",,"需要消耗<#FDF46C>{0}</color>，
+是否继续？"
+mining_cost_time_tip1,"Need to consume <#FDF46C>{0} ke</color>,
+continue?",,"需要消耗<#FDF46C>{0}刻钟</color>，
+是否继续？"
+mining_cost_skill_tip,Need {1} Skill to reach level {0},,需要{1}能力达到{0}级
+not_enough,Need {0}!,,需要{0}！
+GameLog_NotGoods,%c%Lack of necessary Material,,%c%缺少必要的材料
+stamina,Stamina,,体力
+Quality0,Normal,,丁级
+Quality1,Rare,,丙级
+Quality2,Epic,,乙级
+Quality3,Legendary,,甲级
+GameLog_Duration,Duration,,持续时间
+KongfuAchieveAdd,Reach above {0} layers,,达到{0}重以上
+NpcFriendly_Higher,Relations with {0} greater than {1},,与关系{0}大于{1}
+NpcFriendly_Lower,Relations with {0} less than {1},,与关系{0}低于{1}
+Something_Higher,{0} reaches {1},,{0}达到{1}
+Something_Lower,{0} reaches {1},,{0}达到{1}
+WorldString_武功,Martial Arts,,武功
+WorldString_势力关系,Power Relations,,势力关系
+WorldString_人物关系,Character Relations,,人物关系
+WorldString_属性,Attributes,,属性
+Relation_Dead,<#8e8e8e>Deceased</color>,,<#8e8e8e>已故</color>
+RoleLevel_已达历练上限,Max Level,,已达经验上限
+RelationFormatUnknownShort,<#e8d360>Stranger</color>,,<#e8d360>陌生</color>
+RelationFormatUnknown,<#e8d360>Stranger（0）</color>,,<#e8d360>陌生（0）</color>
+RelationFormatShort,<#{1}>{0}</color>,,<#{1}>{0}</color>
+RelationFormat,<#{2}>{0}（{1}）</color>,,<#{2}>{0}（{1}）</color>
+GameLog_ExpInsufficient,"%c%Insufficient Jianghu Knowledge, unable to improve Skill",,"%c%江湖历练不足,无法提升能力"
+GameLog_NewlyObtained,Received rumor: <#68cf24>{0}</color>,,获得传闻:<#68cf24>{0}</color>
+NewlyObtained,Newly acquired,,新获得
+Chest_NotEnoughSomeThing,"%c%Insufficient {0} Skill, unable to {1}!",,%c%{0}能力不足，无法{1}！
+Chest_NotEnough,"%c%Insufficient Skill, unable to Appraise!",,%c%能力不足，无法鉴定！
+Chest_Confirm,Confirm selection of {0}?,,确定选择{0}?
+Map_Confirm,Watch {0}?,,是否观看{0}?
+Start,Start,,开始
+Pause,Pause,,暂停
+Difficulty_Ultra,Very high,,极高
+Difficulty_High,高,,高
+Difficulty_Normal,Medium,,中
+Difficulty_Easy,Low,,低
+Difficulty_VeryEasy,Very low,,极低
+BattleActorTip_BottomMsg,Long press on character Info for full details,,左键长按人物查看完整详情
+Recipe_Confirm,Confirm learning {0}?,,确定要学习{0}?
+Recipe_Learnt,%s%Mastered the method of combining {0},,%s%已掌握{0}合成方法
+Recipe_DntLearnt,"%c%Already mastered this combination method, cannot use",,%c%已掌握此合成方法，无法使用
+Recipe_LackOfAbilit,Need {0} Skill level {1},,需要{0}能力{1}级
+Recipe_LackOfGoods,"Insufficient Material, unable to forge!",,材料不足，无法打造！
+Recipe_LackOfGoodsHC,"Insufficient Material, unable to synthesize!",,材料不足，无法合成！
+Recipe_LackOfGoodsCook,"Insufficient Material, unable to craft!",,材料不足，无法制作！
+Recipe_LackOfGoodsDY,"Insufficient Material, unable to craft!",,材料不足，无法制作！
+Recipe_LackOfGoodsZY,"Insufficient Material, unable to craft!",,材料不足，无法制作！
+Recipe_NoSelect,Please select blueprint,,请选择图纸
+Recipe_NoSelectElixi,Please select prescription,,请选择药方
+Recipe_NoSelectTailor,Please select blueprint,,请选择图纸
+Recipe_NoSelectSundries,Please select blueprint,,请选择图纸
+Recipe_NoSelectCook,Please select recipe,,请选择食谱
+Recipe_EffectTips,"The higher the forging Level, the more obvious the special effect",,打造等级越高特技效果越明显
+Recipe_ArmorEffectTips,"The higher the tailoring Level, the more obvious the special effect",,制衣等级越高特技效果越明显
+BugReport_MailTitle,"Feedback on ""{0} (Level {1}, {2})""",,“{0}（等级{1}，{2}）”的问题反馈
+BugReport_TimeOffset,"%c%You are submitting issues too quickly, please try again in 30 seconds",,%c%您提交的问题过快，请在30秒后再提交
+BugReport_SendSuccess,"%c%Issue submitted, thank you for your participation",,%c%问题已提交，感谢您的参与
+BugReport_SendFaild,"%c%Submission failed, reason {0}",,%c%提交失败，原因{0}
+RogueAbilityNotLearnt,%c%{0} not learned,,%c%{0}未习得
+SelectItemConfirm,Confirm selection of {0}?,,确定要选择{0}吗?
+Forge_NoRecipe,You have not mastered any forging blueprints.,,你还没有掌握任何打造图纸.
+Forge_NoRecipeHC,You have not mastered any synthesis blueprints.,,你还没有掌握任何合成图纸.
+Forge_NoRecipeCook,You have not mastered any cooking recipes.,,你还没有掌握任何烹饪食谱.
+Forge_NoRecipeDY,You have not mastered any Pill formulas.,,你还没有掌握任何丹药配方.
+Forge_NoRecipeZY,You have not mastered any inner armor blueprints.,,你还没有掌握任何打造内甲图纸.
+Forge_NoRecipeWithType,No blueprints to display,,没有任何图纸可以显示
+Forge_NoRecipeWithTypeHC,No synthesis blueprints to display,,没有任何合成图纸可以显示
+Forge_NoRecipeWithTypeCook,No cooking recipes to display,,没有任何烹饪食谱可以显示
+Forge_NoRecipeWithTypeDY,No Pill formulas to display,,没有任何丹药配方可以显示
+Forge_NoRecipeWithTypeZY,No inner armor blueprints to display,,没有任何内甲图纸可以显示
+Collect_shuijiao,Rest for {0},,休息{0}
+Collect_shuijiao1,Rest for {0} to recover 5 points of Stamina,,休息{0} 恢复5点体力
+Collect_shuijiao2,Rest for {0}} to recover 10 points of Stamina,,休息{0}} 恢复10点体力
+Collect_shuijiao3,Rest for {0}} to recover 25 points of Stamina,,休息{0}} 恢复25点体力
+Collect_murenzhuang1,"Train {0}, consume 5 Stamina, gain EXP",,训练{0}，消耗5体力，获得实战经验
+Collect_murenzhuang2,"Train {0}, consume 10 Stamina, gain EXP",,训练{0}，消耗10体力，获得实战经验
+Collect_murenzhuang3,"Train {0}, consume 15 Stamina, gain EXP",,训练{0}，消耗15体力，获得实战经验
+Collect_meihuazhuang1,"Train {0}, consume 10 Stamina, gain 1 point of Qinggong",,训练{0}，消耗10体力，获得1点轻功
+Collect_meihuazhuang2,"Train {0}, consume 20 Stamina, gain 2 points of Qinggong",,训练{0}，消耗20体力，获得2点轻功
+Collect_meihuazhuang3,"Train {0}, consume 30 Stamina, gain 3 points of Qinggong",,训练{0}，消耗30体力，获得3点轻功
+Collect_zhenjiu,Practice {0},,练习{0}
+Collect_zhenjiu1,"Practice {0}, consume 15 Stamina",,练习{0}，消耗15体力
+Collect_guibai1,Choose to consume <#68cf24>Normal incense</color> to pray,,选择消耗<#68cf24>丁品檀香</color>祈祷
+Collect_guibai2,Choose to consume <#00c6f3>Rare incense</color> to pray,,选择消耗<#00c6f3>丙品檀香</color>祈祷
+Collect_guibai3,Choose to consume <#c851ff>Epic incense</color> to pray,,选择消耗<#c851ff>乙品檀香</color>祈祷
+Collect_guibai4,Choose to consume <#d09a09>Legendary incense</color> to pray,,选择消耗<#d09a09>甲品檀香</color>祈祷
+Collect_qidao1,Choose to consume <#68cf24>Normal incense</color> to pray,,选择消耗<#68cf24>丁品檀香</color>祈祷
+Collect_qidao2,Choose to consume <#00c6f3>Rare incense</color> to pray,,选择消耗<#00c6f3>丙品檀香</color>祈祷
+Collect_qidao3,Choose to consume <#c851ff>Epic incense</color> to pray,,选择消耗<#c851ff>乙品檀香</color>祈祷
+Collect_qidao4,Choose to consume <#d09a09>Legendary incense</color> to pray,,选择消耗<#d09a09>甲品檀香</color>祈祷
+Collect_dazuo1,Meditate for {0},,打坐{0}
+Collect_dazuo2,Meditate for {0},,打坐{0}
+Collect_dazuo3,Meditate for {0},,打坐{0}
+Collect_shuijiaojuqing,How long should I rest?,,我要休息多久呢？
+Collect_murenzhuangjuqing,How long should I train on the wooden dummy that can increase EXP?,,可以提升实战经验的木人桩，要训练多久呢？
+Collect_meihuazhuangjuqing,How long should I train on the wooden stake in the pond to improve Qinggong?,,池塘上的木桩可以训练轻功，这次要训练多久呢？
+Collect_zhenjiujuqing,Should I practice acupuncture to improve Medical?,,可以练习针灸提升医术，我要不要练习呢？ 
+Collect_qidaojuqing,Which incense should I choose for prayer?,,我选择用那种香进行祈祷呢？
+Collect_dazuojuqing,How long should I meditate?,,我要打坐多久呢？
+NoSelectPoison,,,无
+SetUpMainInternalSkill,Set {0} as the main internal force?,,将{0}设置为主内功吗
+UnSetMainInternalSkill,Cancel {0} as the main internal force?,,将{0}取消主内功吗
+InternalSkillLv,The {0}th level,,第{0}重
+learning,Learning,,学习中
+SetUpAceSkill,Set {0} as the combat skill?,,将{0}设置为出战绝招吗
+DiffUnlock,%s%Unlock difficulty: {0},,%s%解锁难度：{0}
+DiffForSaveSlot,Difficulty: {0},,难度：{0}
+DiffFreeScore,(Coefficient: {0}),,（系数：{0}）
+DiffName_0,<#497442>Easy</color>,,<#497442>休闲</color>
+DiffName_1,<#34657A>Normal</color>,,<#34657A>正常</color>
+DiffName_2,<#6B3F77>Hard</color>,,<#6B3F77>困难</color>
+DiffName_3,<#7D3A34>Nightmare</color>,,<#7D3A34>修罗</color>
+DiffName_100,<#ffff44>Free</color>,,<#ffff44>自由</color>
+DiffInfo_0,It's recommended for new players to start at this difficulty level.,,"<mspace=1em><rotate=""90"">
+<nobr>首次游戏，推荐以此难度开始。</nobr>"
+DiffInfo_1,Suitable for players familiar with turn-based game who prefer not to engage in full auto-battle mode.,,"<mspace=1em><rotate=""90"">
+<nobr>适合熟悉战棋游戏，不愿意全程自动战斗的玩家。</nobr>"
+DiffInfo_2,Suitable for players adept at analyzing various combinations and seeking a challenging experience.,,"<mspace=1em><rotate=""90"">
+<nobr>适合擅长研究各种搭配，挑战难度的玩家。</nobr>"
+DiffInfo_3,"To dominate or be dominated, it all lies within a single thought!",,"<mspace=1em><rotate=""90"">
+<nobr>虐还是被虐，全在一念之间！</nobr>"
+DiffInfo_100,"<nobr>Difficulty settings are customizable. The higher the difficulty, the larger the calculated coefficient!",,"<mspace=1em><rotate=""90"">
+<nobr>选择设置可以自定义难度，难度越高计算的系数越高！</nobr>"
+DiffInfo_Lock,Achieve any <#d09a09>true·ending</color> to unlock,,"<mspace=1em><rotate=""90"">
+<nobr>达成任意<#d09a09>真·结局</color>解锁</nobr>"
+DiffTip_Title,<#E6C899>Enemy bonus: {0}</color>,,<#E6C899>敌人加成：{0}</color>
+DiffTip_Content,<#E6C899>•Experience multiplier for killing enemies: <#d09a09>{3}</color></color>,,<#E6C899>•击杀敌人获得经验倍数：<#d09a09>{3}</color></color>
+DiffWarning_0,,,
+DiffWarning_1,,,
+DiffWarning_2,<voffset=-0.5em><#E6C899>•Some character levels and martial arts will dynamically grow with game time</color>,,<voffset=-0.5em><#E6C899>•部分角色等级和武功会随游戏时间动态成长</color>
+DiffWarning_3,"<voffset=-0.5em><#E6C899>•Some character levels and martial arts will dynamically grow with game time</color>
+<voffset=-0.5em><#E6C899>•In combat, the character with the higher level will gain resistance to Poisoned, Bleeding, Internal Injury, Sealed, Blinded effects, the greater the difference, the stronger the effect</color>
+
+<voffset=-0.5em><#FE2929>　Difficulty significantly increased, please choose carefully</color>",,"<voffset=-0.5em><#E6C899>•部分角色等级和武功会随游戏时间动态成长</color>
+<voffset=-0.5em><#E6C899>•战斗双方等级高的角色将获得中毒、流血、内伤、封穴、致盲抵抗效果，相差越多效果越强</color>
+
+<voffset=-0.5em><#FE2929>　难度大幅提升，请谨慎选择</color>"
+CustomDiff_HighestScore,Highest coefficient: <#ffffff>{0}</color>,,最高系数：<#ffffff>{0}</color>
+CustomDiff_CurScore,Current coefficient: <#ffffff>{0}</color>,,当前系数：<#ffffff>{0}</color>
+CustomNpcGrowDiff_Tire1,Normal,,正常
+CustomNpcGrowDiff_Tire2,Medium,,中
+CustomNpcGrowDiff_Tire3,高,,高
+CustomDiff_ModifyConfirm,Do you want to keep the changes?,,是否要保留更改？
+WorldMapShow,%s%The path to <#34657A>{0}</color> is now open,,%s%前往<#34657A>{0}</color>的道路已开通
+WorldMapCityShow,%s%Learn about <#34657A>{0}</color>'s news on <#34657A>{1}</color>,,%s%获知<#34657A>{0}</color>关于<#34657A>{1}</color>的消息
+AutoSetMainInternalKungfu,%s%{0} has been set as the main internal skill,,%s%{0}已设置为主内功   
+And,And,,且
+Or,Or,,或
+Operation_Equip,EQ,,穿戴
+Operation_LearnBook,LRN,,修炼
+Operation_Use,Use,,使用
+Operation_Unknown,UNK,,未知
+UIReport_NoMap,No map,,无地图
+UIReport_TipSplitLine,----------The following is system generated information----------,,----------以下是系统生成信息----------
+UIReport_DeviceName,Device name,,设备名称
+UITitle_MainProp,Main stats,,主要属性
+Forge_AddMainMat,Add main Material,,添加主材料
+Forge_AddSubMat,Add auxiliary Material,,添加辅材料
+Forge_AddQuenchMat,Add quenching Material,,添加淬火材料
+UI_KungfuState_None,Not Learned,,未学习
+UIKungfuRight_SelectUnique,Select Super Move,,选择绝招
+UIKungfuRight_SelectInternalKungfu,Select Internal technique,,选择内功
+UIKungfuRight_SelectBook,Select Manual,,选择秘籍
+零,Zero,,零
+一,One,,一
+二,Two,,二
+三,Three,,三
+四,Four,,四
+五,Five,,五
+六,Six,,六
+七,Seven,,七
+八,Eight,,八
+九,Nine,,九
+十,Ten,,十
+白,White,,白
+千,Thousand,,千
+万,Ten thousand,,万
+亿,Billion,,亿
+万亿,Trillion,,万亿
+NpcMumble_通用_Percepting,What?|Am I seeing things?|Hmm?|This...|……|What's going on?|Let's go check it out...,,什么？|我眼花了吗？|嗯？|这……|……|怎么回事儿？|去看看吧……
+NpcMumble_非人类通用_Percepting,……,,……
+JingMaiTitle_动,Swift as the Wind,,其疾如风
+JingMaiDesc_动,"Fast growth, suitable for quick attack strategy",,速度见长，适合抢步快攻的打法
+JingMaiTitle_静,Steadfast like the Mountain,,不动如山
+JingMaiDesc_静,"Tends to defense, adopts Readied strategy",,倾向防守，采用以静制动的策略
+JingMaiTitle_刚,Rapacious as the Fire,,侵略如火
+JingMaiDesc_刚,"Highlights damage, goes all out to attack and heavily damage the enemy",,突出伤害，尽全力猛攻，重创敌人 
+JingMaiTitle_柔,Dense as the Forest,,其徐如林
+JingMaiDesc_柔,"Calm on the surface, but deadly within, making the enemy suffer",,表面平静内藏杀机，使敌人自找苦吃
+JingMaiTitle_虚,Mysterious as the Night,,难知如阴
+JingMaiDesc_虚,Has unique strategies to deal with negative situations in battle,,对战斗中负面状况有独到应对之策
+JingMaiTitle_实,Mighty as the Thunder,,动如雷霆
+JingMaiDesc_实,Achieves maximum damage through instant burst,,通过瞬间爆发，换取最大程度的极致伤害
+Teach_Confirm,Already decided,,心意已决
+Teach_Cancel,Need to think a little,,再三斟酌
+RestoreRelation_LackItem,Insufficient {0},,{0}不足
+RestoreRelation_ConfirmTip,Do you want to consume {0}{1} to reconcile with {2}?,,是否消耗{0}{1}与{2}达成和解？
+RestoreRelation_FreePerson,Wandering martial artist,,江湖散人
+ShortcutItemsFull,"The shortcut bar is full, click on the item in the shortcut bar to delete",,快捷栏已满，点击快捷栏物品进行删除
+ShortcutItemsNoAlternative,No selectable items,,没有可选择的物品
+ShortcutItemsSaved,Save successful,,保存成功
+Text_Add,Increase,,增加
+Text_Sub,Decrease,,减少
+Value_Point,{0} pts.,,{0}点
+HPEP_ValueChanged_Log,{0}{1}{2}{3} points,,{0}{1}{2}{3}点
+HPEP_PerChanged_Log,{0}{1}{2}{3}%,,{0}{1}{2}{3}%
+Team_HPEP_ValueChanged_Log,The whole team {0}{1}{2} points,,全队{0}{1}{2}点
+Team_HPEP_PerChanged_Log,The whole team {0}{1}{2}%,,全队{0}{1}{2}%
+ShortStangerName,This person,,此人
+Authenticate_AbilityTip,Can appraise up to {0},,最高可鉴定{0}
+Authenticate_AbilityTipItem,Level {0} {1},,{0}级{1}
+Authenticate_SelectMax,Maximum ({0}),,最大（{0}）
+Authenticate_LackCoin,Not enough gold!,,持有金不足！
+UseChest_RationTip,Select the quantity to use,,选择使用数量
+BulkUseOverflowTips,(Continued use of <#FE2929>{0}</color> will overflow),,（继续使用<#FE2929>{0}</color>将会溢出）
+ChestsResultTip,Obtain item,,获得物品
+AuthenticateTag_字画,Calligraphy and painting,,字画
+AuthenticateTag_书籍,Book,,书籍
+AuthenticateTag_古董,Antique,,古董
+AuthenticateTag_饰品,Jewelry,,饰品
+AuthenticateTag_丹药,Medicine,,药品
+RemoveKungfu_ReConfirm,"Choose to let {0} forget {1}?<voffset=-0.5em>
+<color=""red""><size=70%>Note: The attributes provided by this martial arts will also be cleared!</size></color>",,"选择让{0}遗忘掉{1}？<voffset=-0.5em>
+<color=""red""><size=70%>注意：该武功所提供的的属性将会一并清除！</size></color>"
+RemoveKungfu_LackItem,Insufficient {0},,{0}不足
+BuyRationTitle,Select Buy quantity,,选择购买数量
+SellRationTitle,Select Sell quantity,,选择出售数量
+BattleLog_Start,{0}'s team enters battle,,{0}的队伍进入战斗
+BattleLog_Win,{0}'s team wins the battle,,{0}的队伍战斗胜利
+BattleLog_Fail,{0}'s team loses the battle,,{0}的队伍战斗失败
+BattleLog_Retreat,{0}'s team successfully retreats,,{0}的队伍成功撤退
+BattleLog_NormalAttack,{0} performs a Normal Attack,,{0}进行了普通攻击
+BattleLog_UseOuterKungfu,{0} releases external skill {1},,{0}释放了外功{1}
+BattleLog_UseUniqueSkill,{0} releases ultimate skill {1},,{0}释放了绝招{1}
+BattleLog_SpecialAction,{0} performs <color=#ffff00>{1}</color>,,{0}进行<color=#ffff00>{1}</color>
+BattleLog_SetInnerKungfu,{0}'s main internal skill is set to {1},,{0}主内功设置为{1}
+BattleLog_UnSetInnerKungfu,{0} cancels {1}'s main internal skill,,{0}取消{1}的主内功
+BattleLog_UseHitWep,{0} uses Throwing {1},,{0}使用暗器{1}
+BattleLog_UseItem,{0} uses Item {1},,{0}使用物品{1}
+BattleLog_Defeat,{1} is defeated,,{1}被击败了
+BattleLog_BeDamage,{0} takes <color=#F55452>{1} points of damage</color>,,{0}受到<color=#F55452>{1}点伤害</color>
+BattleLog_BeDamageSpecial,{0} takes <color=#F55452>{1} points of {2} damage</color>,,{0}受到<color=#F55452>{1}点{2}伤害</color>
+BattleLog_Debuff,{0} takes <color=#F55452>{1} points of {2}</color>,,{0}受到<color=#F55452>{1}点{2}</color>
+BattleLog_PropChange,{0}'s {1} increases by {2} points,,{0}的{1}{2}{3}点
+BattleLog_UseBondKungfu,{0} releases bond martial arts {1},,{0}释放了情缘武功{1}
+BattleLog_ActiveKungfuBuff,{0} triggers Additional effects {1},,{0}触发附加效果{1}
+集气,Gathering Qi,,集气
+Min,Minimum,,最小
+Max,Max,,最大
+SicBo_BetStartOr5s,"Place your bets now!|No more bets!|If you're just watching, run away, don't crowd around here|Betting on big or small pays 1:2; betting on numbers pays 1:3|Don't miss the chance to get rich, the more you bet, the more you win|Have you all placed your bets? The dice are about to roll!|Hurry up and place your bets, time waits for no one!|Any more bets? Any more bets?|Bet more, win more; bet less, win less!|Let's wait and see, will it be overnight riches or bankruptcy!|Opportunities are fleeting, don't miss your chance to get rich!|Three parts fate, seven parts struggle, how can you get rich without a fight!",,要下注的赶紧！|买定离手！|看热闹的赶紧离开，别在这凑热闹|押大小赔率1：2；押数字赔率1：3|发财机会不要错过，押得多赢得爽|都押好了没，要开盅了！|还没押注的赶紧，时间不等人！|还有要下注的吗，还有要下注的吗？|押多赢多，押少赢少！|让我们拭目以待，到底是一夜暴富还是倾家荡产！|机不可失失不再来，别错过发财机会！|三分天注定七分靠打拼，不拼一下怎么发财！
+SicBo_Settle_Big_Fail,"{0}, {1}, {2}——{3} points, big!",,{0}，{1}，{2}——{3}点，大！
+SicBo_Settle_Small_Fail,"{0}, {1}, {2}——{3} points, small!",,{0}，{1}，{2}——{3}点，小！
+SicBo_Settle_Big_Win,"{0}, {1}, {2}——{3} points, big! Congratulations, you won {4} this round.",,{0}，{1}，{2}——{3}点，大！恭喜客官本局共赚{4}。
+SicBo_Settle_Small_Win,"{0}, {1}, {2}——{3} points, small! Congratulations, you won {4} this round.",,{0}，{1}，{2}——{3}点，小！恭喜客官本局共赚{4}。
+SicBo_NpcJoin,"Try your luck at this table|This table is not bad|Add me, add me!|Can anyone tell me how long this round has been going on?|You guys follow my bets later.|Hurry up and place your bets, don't dawdle|I'm new here, please be patient|Who's got the hot hand at this table?|Let me see what the situation is now|Count me in!|This table looks like it's full of pros|Watch me dominate!",,来这桌碰碰运气|这桌玩得还不赖啊|加我一个，加我一个！|谁能告诉我这局开多久了？|你们一会跟着我下注。|赶紧下注啊，别墨迹了|初来乍到，请多包涵|这桌哪位手气旺？|让我看看现在是什么局势|算上我一个！|这桌看起来都是高手啊|看我给你们大杀四方！
+SicBo_NpcReJoin,"Again, again!|I don't believe I can't turn the tables this time|I just had bad luck last round|I just made a vow at the temple|I have to play another round today, or I won't be able to sleep|Eating and sleeping are not as important as playing this|I'm counting on this round to make a fortune!|I don't believe in bad luck today|I brought my wife's money this time, I'm sure to make a big profit|I'm going to have a good time today, no one is allowed to leave!|This table looks like it's full of pros|Let's keep going!",,再来，再来！|这次我就不信不能翻盘了|上局只是运气不好|我可是刚在庙里许过愿的|今天还得再来一把，要不然睡不着|吃饭睡觉哪有玩这个重要啊|发家致富就指望这局了！|我今天非就不信邪了|这次带来了老婆本，肯定能大赚一笔|今天得玩个痛快，谁也不许下场！|这桌看起来都是高手啊|咱们接着来！
+SicBo_Bet_Exit,"I'm out of money, I need to figure out how to get some more|Sigh, I've lost all my wife's money|I'm too tired, I'll go home and sleep and come back|I didn't check the almanac when I went out today, I'm so unlucky!|I'm done, I'm done|I can't stay up with you guys, I'm leaving first|I almost missed something important, I have to go|I'm out of money, I can't continue|I'm leaving, you guys continue|I'll go home and get some money, and then come back for a big fight!|No matter how much I have, it's not enough to lose, I'd better go|Quit while you're ahead, that's enough",,手里没钱了，得想法弄点再来|唉，这下老婆本赔光了|太困了，回去睡一觉再来|今天出门没看黄历，运气真背！|不玩了，不玩了|我可熬不过你们，先告辞了|差点把正经事耽误了，赶紧撤了|钱不够了，没法再继续了|不奉陪了，你们继续吧|回家取钱，再来大战三百合！|有多少也不够输的，还是走吧|见好就收，差不多就行了
+SicBo_Bet_Bet,"Follow my bets, guaranteed to make a big profit!|Just one last round, win or lose depends on this round!|Bet a little first, Throw Rock|What are you guys waiting for, place your bets!|Should I bet big or small?|I'm going all in, I'm betting everything!|This round is a sure win if you bet big|This round is a sure win if you bet small|If you don't have money, get out of the way, don't waste time|Hey, what are you dazing at, hurry up and place your bets|Your money is as good as mine|Let me show you my courage!",,都跟着我押，保准大赚！|就玩最后一局，输赢就这看这局了！|先少押点，投石问路|你们倒是下注啊，还愣着干啥？|押大还是押小呢？|豁出去了，我要全都押上！|这局押大肯定稳赢|这局押小肯定稳赢|没钱的赶紧下场，别浪费时间|喂，发什么呆呢，赶紧下注啊|你们的钱马上就是我的啦|让你们见识下本大爷的魄力！
+SicBo_Settle_Fail,"<sprite=""ganga"">What's going on, I lost again|<sprite=""ganga"">Just a little bit more, what a pity|<sprite=""yiwen"">Is anyone cheating?|<sprite=""ku"">Such bad luck!|<sprite=""ganga"">Almost won this round|<sprite=""fennu"">Lost again? Are you messing with me?|<sprite=""lingluan"">Just lose, it doesn't matter if you lose all your money|<sprite=""fennu"">This is infuriating!|<sprite=""lingluan"">Can't lose anymore, not much money left in hand|<sprite=""chijing"">You guys are cheating, why do I always lose!|<sprite=""ku"">Oh God, let me win a round, please|<sprite=""fennu"">Damn it, God is screwing me over again!",,"<sprite=""ganga"">怎么搞的，又输了|<sprite=""ganga"">就差一点，太可惜了|<sprite=""yiwen"">不会有人作弊吧？|<sprite=""ku"">真倒霉！|<sprite=""ganga"">这局差点就赚了|<sprite=""fennu"">又输？故意整我吗？|<sprite=""lingluan"">输吧，输吧，钱输光了也就无所谓了|<sprite=""fennu"">真叫人火大！|<sprite=""lingluan"">不能再输了，手里没剩多少钱了|<sprite=""chijing"">你们作弊，怎么总是老子输！|<sprite=""ku"">老天爷，让我赢一局吧，求您老人家了|<sprite=""fennu"">贼老天，又在坑我！"
+SicBo_Settle_Win,"<sprite=""kaixin"">I won, I won!|<sprite=""kaiqiao"">Excellent, my luck is turning around today|<sprite=""kaixin"">Awesome, so awesome!|<sprite=""kaixin"">Beautiful! Never won so satisfyingly before|<sprite=""ku"">Finally won some money|Win one more round and then quit while you're ahead|<sprite=""haose"">All the money is mine, mine!|Only won this much? Boring|<sprite=""kaiqiao"">Oh, good start today, lucky|<sprite=""chijing"">Win, win, I won!|I will definitely be the winner of the next round!|I knew I should have bet more just now",,"<sprite=""kaixin"">赢了赢了！|<sprite=""kaiqiao"">妙极妙极，今天果然时来运转|<sprite=""kaixin"">爽，太爽了！|<sprite=""kaixin"">漂亮！从没赢得这么爽过|<sprite=""ku"">终于赢钱了|再赢一局，见好就收吧|<sprite=""haose"">钱都是我的，我的！|才赢这么点？没意思|<sprite=""kaiqiao"">呦，今天开张了，运气不错|<sprite=""chijing"">赢，赢，赢了！|下局赢家一定还是我！|早知道刚才应该再多押些"
+SicBo_Option_ReJoin,Take out {0} as chips to continue!,,取出{0}做为筹码继续参加！
+SicBo_Option_Leave,Talk about it later.,,稍后再说。
+SicBo_ReJoinAsk,"Sir, you seem to be running out of chips, do you want to continue?",,客官手里筹码应该不够了，是否还要继续呢？
+SicBo_LeaveConfirm,Do you want to quit the current game?,,是否退出当前赌局
+SicBo_LackTempCoin,"You have no chips left, you can't bet!",,已经没有筹码了，无法下注！
+SicBo_NoneBetType,"You need to select a betting area first, bet on big/small or numbers.",,需要先选择下注区域，押大小或数字。
+Button_BondAssisted,Already used,,已施展
+Tip_AllLoversUsed,%c%There are no available martial arts skills that need Assist,,%c%没有可施展的情缘武功需要援助
+MoralFondnessDescItem,"When {0} {1}, there is a chance to improve each other's Relations.",,{0}{1}时，有机会增进彼此关系。
+CabFromTo,<#9B8C6D>Always:</color>,,<#9B8C6D>始终：</color>
+CabCostTime,<#9B8C6D>Time consumed:</color>,,<#9B8C6D>耗时：</color>
+CabCostCoin,<#9B8C6D>Cost:</color>,,<#9B8C6D>花费：</color>
+CabTargetNoPoint,<#838281>(No post station at the destination)</color>,,<#838281>（目的地没有驿站）</color>
+CabDriveTitle,Go to: {0},,前往：{0}
+Meditation_Heal,<#94FF4D>HP {0}</color>,,<#94FF4D>生命 {0}</color>
+Meditation_Ep,<#FFFFFF>MP {0}</color>,,<#FFFFFF>内力 {0}</color>
+Meditation_Exp,<#D7A347>Practical {0}</color>,,<#D7A347>实战 {0}</color>
+MeditationStop_Stanima,"%c%Already extremely fatigued, unable to continue meditation",,%c%已精疲力竭，无法继续打坐
+MeditationCantStart_Stanima,"%c%Insufficient Stamina, unable to meditate",,%c%体力不足，无法进行打坐
+MeditationCantStart_Sitting,"%c%Already sitting, unable to meditate",,%c%落座中，无法进行打坐
+Meditation_TotalTime,This meditation session took a total of {0},,本次打坐共计耗时{0}
+ForgeWeaponLockTitle,<color=#ff0000>(Crafting {0} level Unlock)</color>,,<color=#ff0000>（打造{0}级解锁）</color>
+ForgeArmorLockTitle,<color=#ff0000>(Crafting {0} level Unlock)</color>,,<color=#ff0000>（打造{0}级解锁）</color>
+Time,Time,,时间
+ResetAcupointReconfirm,"Choosing to retrain will clear all Passive effects and return all comprehension points, are you sure?",,选择重修将清除所有武道效果并返还全部领悟点，是否确定?
+ZzPointTip,"Each time a Character levels up by <#68cf24>{0} levels</color>, they gain 1 aptitude point. Aptitude points can be used to increase five-dimensional attributes. Consuming <#c851ff>Forgotten pill</color> can reset the five-dimensional aptitude gained from leveling up.",,角色每提升<#68cf24>{0}级</color>获得1点资质，资质可用于增加五维属性，消耗<#c851ff>忘忧丹</color>可以重置升级获得的五维资质。
+ZzPointNoEdited,No points have been added yet,,还没有任何加点操作
+ZzPointResetLackItem,"Without Forgotten pill, reset is not possible.",,没有忘忧丹无法重置
+ZzPointResetReconfirm,Consume one {0} to reset {1} <color=#33ff00>{2} points</color> upgrade aptitude?,,消耗一个{0}重置{1}<color=#33ff00>{2}点</color>升级资质？
+ForgeLevelTitle,Crafting Level: <color=#62FF52>{0}</color> level,,打造等级：<color=#62FF52>{0}</color>级
+ForgeMaxLevelSuffix,(<color=#57F8C9>Max Level</color>),,（<color=#57F8C9>满级</color>）
+ForgeBatchResultTitle,Synthesis Result,,合成结果
+TailorLevelTitle,Tailoring Level: <color=#62FF52>{0}</color> level,,制衣等级：<color=#62FF52>{0}</color>级
+CookLevelTitle,Cooking Level: <color=#62FF52>{0}</color> level,,烹饪等级：<color=#62FF52>{0}</color>级
+AlchemistLevelTitle,Alchemy Level: <color=#62FF52>{0}</color> level,,炼药等级：<color=#62FF52>{0}</color>级
+SundriesLevelTitle,Synthesis Level: <color=#62FF52>{0}</color> level,,合成等级：<color=#62FF52>{0}</color>级
+InBattleUniqueSwitch_Failed,"%c%The ultimate move has been set for battle, no need to set again",,%c%绝招已设置出战，无需重复设置
+InBattleUniqueSwitch_Ok,{0} sets {1} as the ultimate move for battle,,{0}将{1}设置为出战绝招
+NoUsedZzPoint,%c%No upgrade aptitude available for reset,,%c%没有可重置获得的升级资质
+BuyAll_LackCoin,%c%Not enough Coin,,%c%没有足够的铜钱
+SellAll_LackCoin,%c%The other party does not have enough Coin,,%c%对方没有足够的铜钱
+Toggle_DisableBulkTrade,"Close batch Buy, Sell, Appraise prompt",,关闭批量购买、出售、鉴定提示
+PackTab_KungfuBook_Inner,Internal Strength,,内功
+PackTab_KungfuBook_Outer_Fist,Fist,,拳掌
+PackTab_KungfuBook_Outer_Sword,Sword Series,,剑系
+PackTab_KungfuBook_Outer_Blade,Knife Series,,刀系
+PackTab_KungfuBook_Outer_Long,Long,,长兵
+PackTab_KungfuBook_Outer_Short,Short,,短兵
+PackTab_KungfuBook_Outer_Music,Musical,,音律
+MainPropTip_Exp_UnMax,Innate {0} Experience: {1}/{2},,先天{0}经验：{1}/{2}
+MainPropTip_Exp_Max,Innate {0} Experience: Reached the limit,,先天{0}经验：已达上限
+MainPropTip_Origin,Innate {0}: {1},,先天{0}：{1}
+MainPropTip_Buff,Status Effect: {0},,状态效果：{0}
+MainPropTip_Equip,Equipment Effect: {0},,装备效果：{0}
+MainPropTip_Kungfu,Martial Arts Effect: {0},,武功效果：{0}
+MainPropTip_Other,Other Sources: {0},,其他途径：{0}
+SteamSortHot,Recently Popular,,最近热门
+SteamSortDownload,Most Subscribed,,最多订阅
+SteamSortCreateTime,Newly Created,,最新创建
+SteamSortUpdateTime,Recently Updated,,最近更新
+SteamAll,All,,全部
+SteamModNum,Total {0} mods,,共{0}个模组
+SteamAuthor,Author:,,作者：
+SteamTags,Tags:,,标签：
+SteamModSize,Mod Size:,,模组大小：
+SteamUpdateDate,Update Date:,,更新日期：
+SteamDescription,Description:,,描述：
+SteamDate,{0} Year {1} Month {2} Day,,{0}年{1}月{2}日
+SteamPublishing,Uploading,,上传中
+SteamPublish,Upload,,上传
+SteamModPath,Mod Directory:,,模组目录：
+SteamPublishUpdate,Upload Update,,上传更新
+ModWarning_UseMod,"Warning! You have enabled mods, the game may not run correctly, this save will <#F55452>disable achievements, skill inheritance, free difficulty coefficient and other systems</color>! Do you wish to continue?",,警告！您已启用了模组，无法保证游戏可以正确运行，该存档将<#F55452>禁用成就、能力继承、自由难度系数等系统</color>！是否继续？
+ModWarning_DifferentMod,"<size=36>Warning! You have modified the mod configuration of this save, the game may not run correctly, continue?</size>",,<size=36>警告！您修改了该存档的模组配置，游戏可能无法正确运行，是否继续？</size>
+ModWarning_DifferentMod_Removed,"<#ff0000>
+Deleted mods:</color>
+{0}",,"<#ff0000>
+删除的模组：</color>
+{0}"
+ModWarning_DifferentMod_New,"<#ff0000>
+New mods:</color>
+{0}",,"<#ff0000>
+新增的模组：</color>
+{0}"
+ModWarning_DifferentMod_Cur,"<#ff0000>
+Currently enabled mods:</color>
+{0}",,"<#ff0000>
+当前启用的模组：</color>
+{0}"
+mod_firstopen_title,User Agreement,,用户协议
+mod_firstopen_content,"Welcome to use the ""Hero's Adventure - Road to Passion"" Mod (MOD) Editor.
+This editor and the accompanying materials included in the editor will be freely available for community use. You can use this editor to create non-commercial game-related mods (MOD). Before creating content with this editor, you need to understand and ensure that the content created complies with the agreement of this agreement:
+1. Works created based on this editor do not contain any content that is prohibited or inappropriate in the ""User Agreement"". Those who violate or violate laws and regulations will be held responsible by the creators of the works for the works and their consequences. We will actively assist in establishing a connection with the author, promoting rectification, and deleting any text, pictures, etc. that do not comply with national laws, regulations, and policies.
+2. ""Hero's Adventure - Road to Passion"" respects the freedom of creation of each author, and does not have any pre-requirements for the world view, background setting, and content setting of works created based on this editor. At the same time, each work will not reflect any opinions and viewpoints of ""Hero's Adventure - Road to Passion"" itself. The creators of each work guarantee the content or the correctness of the content.
+3. If you have a copyright or intellectual property statement for some works created by this editor, and believe that there is a suspicion of infringement, you can contact us through the email [halfamateurstudio@gmail.com], and we will provide communication assistance.",,"欢迎使用《大侠立志传：碧血丹心》模组（MOD）编辑器。
+本编辑器及编辑器包含的附属素材将免费开放于社区使用，您可以使用本编辑器创作非商用的游戏相关模组（MOD）。使用本编辑器创作内容之前，需要您首先了解并确保创作内容遵守此协议的约定：
+1.基于此编辑器创作的作品不包含任何《用户协议》中禁止、或不适宜的内容。因此违反或触犯法律法规的，由作品创作者对作品及后果承担相应责任。我们会积极协助与作者建联，推进整改、删除任何不符合国家法律、法规、和政策的任何文字、图片等内容。
+2.《大侠立志传：碧血丹心》尊重每一位作者的自由创作权利，不对基于此编辑器创作的作品有任何世界观、背景设置、内容设置的前置要求，同时各作品亦不会反映任何《大侠立志传：碧血丹心》自身意见及观点立场。各作品由创作者本身对其内容或内容之正确性保证。
+3.如果您对某些经由本编辑器创作的作品有版权或知识产权申明，并认为存在侵犯质疑，可以通过【halfamateurstudio@gmail.com】邮箱与我们联系，我们会提供沟通协助。"
+ModTag_剧情,Plot,,剧情
+ModTag_角色,Character,,角色
+ModTag_外观,Appearance,,外观
+ModTag_音频,Audio,,音频
+ModTag_技能,Skills,,技能
+ModTag_道具,Items,,道具
+ModTag_其它,Other,,其它
+ModTag_非中文,Non-Chinese,,非中文
+OneTouch_Buy_FromHighToLow,"Automatically bulk buy in descending order of grade
+(Game settings can adjust the order of buying)",,"按照品级由高到低自动批量购买
+（游戏内设置可调整购买顺序）"
+OneTouch_Buy_FromLowToHigh,"Automatically bulk buy in ascending order of grade
+(Game settings can adjust the order of buying)",,"按照品级由低到高自动批量购买
+（游戏内设置可调整购买顺序）"
+OneTouch_Sell_FromLowToHigh,"Automatically bulk sell in ascending order of grade
+(Game settings can adjust the order of selling)",,"按照品级由低到高自动批量出售
+（游戏内设置可调整出售顺序）"
+OneTouch_Sell_FromHighToLow,"Automatically sell in bulk from high to low grade
+(Game settings can adjust the sell order)",,"按照品级由高到低自动批量出售
+（游戏内设置可调整出售顺序）"
+OneTouch_Buy_SellOut,%c%Sold out,,%c%已卖光
+OneTouch_Sell_SellOut,%c%Out of stock,,%c%已售罄
+FiefDefaultName,{0}'s homeland,,{0}的家园
+Fief_Num_Level,(lv{0}),,（{0}级）
+FiefBuilding_None,Not Unlocked,,未解锁
+FiefLevelConditionTip0,Requires,,升级条件
+FiefLevelConditionTip1,Requires,,解锁条件
+FiefUnlockLevel,"{0} level
+Unlock",,"{0}级
+解锁"
+FiefUnlockLevel1,{0} Level Unlock,,{0}级解锁
+FiefPropertyTip,"Each point of {0} from the settled companion increases the progress by {1} points
+(Each companion can provide up to 20 points of progress)",,"安置的伙伴每点{0}增加{1}点进度
+（每个伙伴最多提供20点进度）"
+FiefPropertyTip0,Each placed pet increases {0} points of progress,,每安置一名宠物增加{0}点进度
+FiefPropertyTip1,Each bonded Character increases by {0} points,,每个已结缘角色增加{0}点进度
+FiefPropertyTip2,Each level of Fame of the placed companions increases {0} points of progress,,安置的伙伴每级名声增加{0}点进度
+FiefPropertyLine,[{0}pts]{1},,[{0}点]{1}
+FiefTipFullTeam,%c%No empty slots!,,%c%无空位！
+FiefTipFullPet,%c%Already carrying a pet!,,%c%已携带宠物！
+FiefTipNpcCantEnter,%c%This character cannot enter the home,,%c%该角色无法进入家园
+FiefTipPetCantEnter,%c%This pet cannot enter the home,,%c%该宠物无法进入家园
+FiefSaveFileUpgrade,"The save file version is too low, do you want to open the 'Homestead Sharing Function'?",,该存档版本较低，是否要开启‘家园共享功能’？
+FiefEditTitleTip,Rename your homestead,,重新命名你的家园
+FiefPrizeBuffTarget_全队,Full team,,全队
+FiefPrizeBuffTarget_宠物,Pets.,,宠物
+FiefPrizeBuffTotal,{0}{1} total increase of {2},,{0}{1}累计提升{2}
+FiefPrizeBuffTotalPercent,{0}{1} total increase of {2}%,,{0}{1}累计提升{2}%
+,,,
