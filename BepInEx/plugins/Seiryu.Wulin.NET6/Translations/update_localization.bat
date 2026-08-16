@@ -1,0 +1,1 @@
+curl -L "https://raw.githubusercontent.com/1ookilo/WulinSH-TH/master/BepInEx/plugins/Seiryu.Wulin.NET6/Translations/LocData.json" > ./LocData.json

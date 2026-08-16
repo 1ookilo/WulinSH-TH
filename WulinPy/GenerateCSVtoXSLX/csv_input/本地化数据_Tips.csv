@@ -1,0 +1,97 @@
+﻿﻿TipsString_sencelimit,Scene limit,ข้อจำกัด
+TipsString_uselimit,Use limit,จำกัดการใช้
+TipsString_Notlimit,No limit,ไม่จำกัด
+TipsString_battleUse,Combat usage,ใช้ในการต่อสู้
+TipsString_UnbattleUse,Non-combat usage,ใช้นอกการต่อสู้
+TipsString_Type,Type,ประเภท
+TipsString_SZJG,Cooldown,คูลดาวน์
+TipsString_CD,{0} actions,{0} ตา
+TipsString_BondCD,Only one use per battle,ใช้ได้เพียงครั้งเดียวต่อการต่อสู้
+TipsString_XTSX,Core stat,คุณสมบัติ
+TipsString_KungfuMoveData,External skill moves,วิชาภายนอก
+TipsString_KungfuMoveDataProb,(Trigger probability: {0}%),(โอกาสแสดงผล: {0} %)
+GameLog_CantSaveWhenNpcPercepting,Cannot save when noticed by NPC,ไม่สามารถบันทึกได้เมื่อ NPC พบตัว
+Loading_Tip,"Some collected resources will recover over time.|The lower the quality of the gathering tool used, the easier it is to damage.|The higher the quality of the gathered item, the more skill experience gained.|The higher the gathering skill level, the less likely the tool is to damage.|The higher the gathering skill level, the more likely to produce high-quality items.|If seen by hostile individuals, they may attack you.|Don't cause trouble in town, or you will be arrested by the officers.|Some scenes will reveal hidden passages when destroyed.|Don't provoke Neutral characters, they will join your opponents to beat you.|The more achievements activated, the more attribute points can be allocated when creating a new character.|The more achievements activated, the more initial traits can be selected when creating a new character.|Sect skills are generally only taught to sect disciples, outsiders have no chance!|Completing daily tasks assigned by the sect can improve sect relations.|Greeting the sect leader daily can improve relations with them.|Sect contribution can be used to exchange for exclusive items at the sect leader's place.|Choosing to leave the sect will clear all gained sect contributions.|Killing key characters of the sect may lead to the destruction of the sect.|Completing daily tasks for your sect can improve Sect Relations.|The greater the fame, the easier it is to improve relations with others when gifting.|Winning a duel against a famous Jianghu person for the first time will earn you Fame.|Challenging the leader of other sects requires a certain level of personal Fame.|At the auction, it's actually the closest time to the treasures...|Don't pick up items with owners lightly, it will damage the Relations with the owner.|When any character reaches extreme positive or negative, the protagonist can gain a special status.|If your relations with others reach 40, they may assist you in a fight if they are nearby.|Performing actions such as Ambush, Poison, Steal, etc., will reduce Benevolence.|Picking up items with owners is a behavior that damages Propriety.|Completing tasks on the bulletin board on time can increase Trustworthy.|Abandoning teammates and retreating actively in battle is a behavior that damages Righteous!|To be an upright person, please stay away from all kinds of lowly behaviors.|People's vision generally weakens at night, but animals are just the opposite.|When any of the five-dimensional attributes reach 10 and 25, the Character can gain special status.|Passive represents different combat styles, comprehension points can improve understanding.|Offering the other party's favorite Item during Trade will have additional added value.|Attacking at close range behind the target will cause greater damage.|Attacking at close range on the side of the target will cause more damage.|Frequent use of martial arts can also improve martial arts Level.|After being hit 5 times, attacking the target can trigger a Rage strike!|The more Power you consume, the stronger the Spirit cost of using a special move.|Powerful martial arts cannot be used continuously and need time for Recovery.|Learning external skills can increase Attack power, and internal skills can increase HP and MP.|Setting internal skills as the main skill can maximize its effectiveness in battle.|Forcing to Equip inappropriate equipment will greatly reduce the effect.|Eating food can increase Constitution, up to a maximum of 10.|Mining, Woodcutting, Gathering, Fishing can increase the entire team's Strength, up to a maximum of 10.|Burning incense can increase the entire team's Intelligence, up to a maximum of 10.|Traveling around can increase the entire team's Dexterity, up to a maximum of 10.|Using ItemAppraise can increase the entire team's Luck, up to a maximum of 10.|The twelve Animal rings are key items to enter the mysterious scene, don't miss them.|After purchasing the Bao expansion ""Canvas of Heroes"", you can choose to enable or disable it through game settings.|As a chivalrous person, supporting legitimate games is also a virtue!","ทรัพยากรที่รวบรวมได้ บางส่วนจะกลับมาเมื่อเวลาผ่านไป|ยิ่งคุณภาพของเครื่องมือต่ำ โอกาสพังจะยิ่งสูง|ยิ่งคุณภาพของสิ่งของที่รวบรวมได้อยู่ในระดับสูง ค่าประสบการณ์ทักษะที่ได้รับก็จะยิ่งมากขึ้น|ยิ่งระดับทักษะสูง เครื่องมือก็จะมีโอกาสเสียหายน้อยลง|ยิ่งระดับทักษะการเก็บเกี่ยวสูง โอกาสที่จะได้ของคุณภาพสูงก็จะยิ่งมากขึ้น|หากเห็นโดยบุคคลที่ไม่เป็นมิตร พวกเขาอาจโจมตีเจ้าได้|อย่าสร้างปัญหาในเมือง ไม่งั้นอาจถูกเจ้าหน้าที่จับกุมได้|การทำลายของในบางฉากอาจมีทางลับซ่อนอยู่|ระวังอย่ายั่วยุตัวละครที่เป็นกลาง พวกเขาจะเข้าร่วมกับคู่ต่อสู้มาเอาชนะเจ้า|ยิ่งเปิดใช้งานความสำเร็จมาก ยิ่งมีแต้มสถานะให้ใช้มากยิ่งขึ้นเมื่อสร้างตัวละครใหม่|ยิ่งเปิดใช้งานความสำเร็จมาก จะยิ่งเลือกลักษณะเริ่มต้นได้มากขึ้นเมื่อสร้างตัวละครใหม่|โดยทั่วไปวรยุทธในสำนักจะสอนเฉพาะลูกศิษย์สำนักเท่านั้น คนนอกไม่สามารถเรียนได้!|การทำภารกิจประจำวันที่ได้รับมอบหมายจากสำนักสามารถเพิ่มความสัมพันธ์สำนักได้|การทักทายเจ้าสำนักทุกวันสามารถเพิ่มค่าความสัมพันธ์กับพวกเขาได้|ความดีความชอบสำนักสามารถใช้เพื่อแลกเปลี่ยนเป็นสิ่งของพิเศษได้ที่เจ้าสำนัก|การออกจากสำนักจะล้างแต้มความดีความชอบสำนักที่ได้รับมาทั้งหมด|การสังหารตัวละครสำคัญของสำนักอาจนำสำนักไปสู่การล่มสลาย|สามารถใช้แต้มความดีความชอบสำนักเพื่อซื้อสินค้าพิเศษจากเจ้าสำนักได้|ยิ่งมีชื่อเสียงมาก การมอบของขวัญจะเพิ่มค่าความสัมพันธ์กับผู้อื่นง่ายขึ้น|การชนะการประลองกับบุคคลในยุทธภพเป็นครั้งแรกจะทำให้ได้รับค่าชื่อเสียง|ต้องมีค่าชื่อเสียงระดับหนึ่งในการท้าประลองเจ้าสำนักอื่น|การประมูลคือช่วงเวลาที่จะได้เข้าใกล้สมบัติมากที่สุด...|อย่าไปหยิบสิ่งของผู้อื่นตามใจชอบ จะทำให้ความสัมพันธ์กับเจ้าของลดลง|เมื่อตัวละครมีค่าความดีถึงจุดสูงสุดหรือต่ำสุด ตัวเอกจะได้รับสถานะพิเศษ|เมื่อความสัมพันธ์กับผู้อื่นถึง 40 พวกเขาอาจช่วยเจ้าในการต่อสู้หากพวกเขาอยู่ใกล้ๆ |การกระทำเช่น การซุ่มโจมตี ใช้พิษ ขโมย ฯลฯ จะลดค่าศีลธรรมลง|การหยิบสิ่งของผู้อื่นจะเกิดผลลบกับค่ามารยาท|การทำภารกิจบนกระดานให้สำเร็จตรงเวลาสามารถเพิ่มค่าความน่าเชื่อถือได้|การละทิ้งเพื่อนร่วมทีมหนีการต่อสู้เป็นพฤติกรรมที่สร้างความเสียหายต่อค่าคุณธรรม!|การจะเป็นคนซื่อตรง ต้องอยู่ห่างจากพฤติกรรมต่ำช้าทุกชนิด|การมองเห็นของคนจะแย่ลงเวลากลางคืน แต่กลับสัตว์จะตรงกันข้าม|เมื่อค่าคุณสมบัติทั้งห้าประเภทอันใดอันหนึ่งถึง 10 ตัวละครจะได้รับสถานะพิเศษ |วิถียุทธ์จะกำหนดรูปแบบการต่อสู้ที่แตกต่างกัน ค่าการเรียนรู้จะเพิ่มความเข้าใจ|การเลือกของที่อีกฝ่ายชอบระหว่างการแลกเปลี่ยนจะมีมูลค่าเพิ่มขึ้น|การโจมตีในระยะประชิดจากด้านหลังเป้าหมายจะสร้างความเสียหายได้มากขึ้น|การโจมตีในระยะประชิดจากด้านข้างของเป้าหมายจะสร้างความเสียหายมากขึ้น|การใช้วิทยายุทธบ่อยๆ จะเพิ่มระดับของวิชานั้นๆ|หลังจากถูกโจมตีครบ 5 ครั้ง การโจมตีครั้งถัดไปใส่เป้าหมายจะเป็นการโจมตีด้วยความโกรธ!|ยิ่งเจ้าใช้พลังงานมากเท่าไร ค่าใช้จ่ายของพลังใจในการใช้ท่าไม้ตายก็จะยิ่งแข็งแกร่งขึ้นเท่านั้น|วรยุทธที่ทรงพลังไม่อาจใช้อย่างต่อเนื่อง และต้องใช้เวลาในการฟื้นฟู|การเรียนรู้วิชาวรยุทธ์ จะเพิ่มพลังโจมตีได้ และวิชากำลังภายในจะเพิ่ม HP และ MP ได้|การเลือกวิชากำลังภายในหลักจะเพิ่มประสิทธิภาพในการต่อสู้ได้มากขึ้น|การฝืนสวมใส่อุปกรณ์ที่ไม่เหมาะสมจะส่งผลเสีย|ตัวละครเอกสามารถเพิ่มค่าพลังกายได้ด้วยการกินอาหาร, สูงสุดที่ 10|การขุดแร่,การตัดไม้,การเก็บเกี่ยว,การตกปลาสามารถเพิ่มความค่าพละกำลังของตัวเอกได้สูงสุดที่ 10|ตัวเอกสามารถเพิ่มค่าสติปัญญาได้โดยการจุดธูป สูงสุดที่ 10|ตัวเอกสามารถเพิ่มค่าความคล่องแคล่วได้โดยการเดินทาง สูงสุดที่ 10|โชคสามารถเพิ่มขึ้นได้ผ่านการประเมินสิ่งของ สูงสุดที่ 10|หลังจากซื้อส่วนเสริม ""โฉมใหม่วาดฝัน"" สำหรับเกมแล้ว สามารถเลือกเปิดใช้งานหรือปิดใช้งานได้ผ่านการตั้งค่าเกม|แหวนนักษัตรทั้ง 12 วงเป็นไอเทมสำคัญในการเข้าสู่ฉากลึกลับ อย่าพลาด|ในฐานะจอมยุทธ การสนับสนุนเกมลิขสิทธิ์แท้ก็ถือเป็นคุณธรรมเช่นกัน!"
+RoamingUiTip_Stamina,"<#FEFAF0>The higher the Stamina value, the better the temporary effect, and vice versa.</color>\n<#FEFAF0>Actions such as Mining, Lumbering, Fishing., require the consumption of Stamina.</color>\n<#FEFAF0>Stamina will decay over time.</color>\n<#FEFAF0>Cannot interact with other characters in the state of Extreme fatigue.</color>\n<#FEFAF0>Stamina can be recovered through sleep and eating Main.</color>","<#FEFAF0>ยิ่งค่าแรงกายสูงเท่าใด จะได้รับผลชั่วคราวดีขึ้นเท่านั้น เช่นเดียวกันกับเมื่อค่าต่ำ</color>\n<#FEFAF0>การกระทำต่างๆ เช่น การขุดแร่ การตัดไม้ ตกปลา ฯลฯ ต้องใช้แรงกาย</color>\n<#FEFAF0>แรงกายจะลดลงเมื่อเวลาผ่านไป</color>\n<#FEFAF0>ไม่สามารถโต้ตอบกับตัวละครอื่นในสภาวะเหนื่อยล้ามากได้</color>\n<#FEFAF0>แรงกายสามารถฟื้นตัวได้ผ่านการนอนหลับและการรับประทานอาหาร</color>"
+RoamingUiTip_Mood,"<#FEFAF0>The higher the Mood value, the better the temporary effects obtained, and vice versa.</color>\n<#FEFAF0>If Mood exceeds 60, it will slowly return to normal on its own.</color>\n<#FEFAF0>When Stamina is low, Mood decreases over time.</color>\n<#FEFAF0>Both defeat in battle and retreat will reduce Mood.</color>\n<#FEFAF0>Eating desserts and berries can recover Mood.</color>\n<#FEFAF0>Choosing to rest in a comfortable bed can recover Mood, such as staying in an inn.</color>","<#FEFAF0>ยิ่งค่าอารมณ์สูงเท่าใด จะได้รับผลชั่วคราวดีขึ้นเท่านั้น เช่นเดียวกันกับเมื่อค่าต่ำ</color>\n<#FEFAF0>ถ้าค่าอารมณ์เกิน 60 มันจะค่อยๆกลับมาเป็นปกติเอง</color>\n<#FEFAF0>เมื่อแรงกายต่ำ ค่าอารมณ์จะลดลงเมื่อเวลาผ่านไป</color>\n<#FEFAF0>ทั้งความพ่ายแพ้ในการต่อสู้และการหนีจะทำให้อารมณ์ลดลง</color>\n<#FEFAF0>การกินของหวานและผลไม้ช่วยฟื้นฟูค่าอารมณ์ได้</color>\n<#FEFAF0>การเลือกนอนบนเตียงที่นุ่มสบายสามารถฟื้นฟูค่าอารมณ์ได้ เช่น การเข้าพักในโรงเตี๊ยม</color>"
+RoamingUiTip_Rep,"<#FEFAF0>The higher your Fame, the more effective your Gifts to others. Conversely, the lower your Fame, the weaker the effect of your Gifts.</color>\n<#FEFAF0>Joining some factions requires a certain amount of Fame as a prerequisite.</color>\n<#FEFAF0>Activating important events in the martial arts world requires Fame to reach a certain stage.</color>\n<#FEFAF0>Completing town tasks may reward Fame Experience.</color>\n<#FEFAF0>Winning various Arena competitions rewards Fame Experience.</color>\n<#FEFAF0>Eliminating factions can earn a large amount of Fame Experience.</color>","<#FEFAF0>ยิ่งชื่อเสียงของท่านสูง ของขวัญที่มอบให้ผู้อื่นก็จะยิ่งมีประสิทธิภาพมากขึ้นเท่านั้น ในทางกลับกัน ยิ่งชื่อเสียงต่ำของขวัญของคุณก็จะประสิทธิภาพลดลง</color>\n<#FEFAF0>การเข้าร่วมสำนักบางสำนักจำเป็นต้องมีระดับชื่อเสียงเป็นเงื่อนไขเบื้องต้น</color>\n<#FEFAF0>เหตุการณ์สำคัญในยุทธภพจะแสดงผลเมื่อมีชื่อเสียงถึงในระดับหนึ่ง</color>\n<#FEFAF0>การทำภารกิจให้สำเร็จบนกระดานข่าวในเมืองและสำนักอาจให้รางวัลเป็นค่าประสบการณ์ชื่อเสียง</color>\n<#FEFAF0>การชนะการแข่งขันในสนามประลองต่างๆ จะมอบรางวัลเป็นค่าประสบการณ์ชื่อเสียง</color>\n<#FEFAF0>การทำลายสำนักจะได้รับค่าประสบการณ์ชื่อเสียงจำนวนมาก</color>"
+RoamingUiTip_Coin,"<#FEFAF0>Important currency for trading with other characters.</color>\n<#FEFAF0>Can earn Coins by selling items.</color>\n<#FEFAF0>Completing town tasks may reward Coins.</color>\n<#FEFAF0>Obtaining rare Items and participating in auctions may make you rich overnight!</color>","<#FEFAF0>เงินเป็นสิ่งสำคัญในการซื้อขายกับตัวละครอื่น</color>\n<#FEFAF0>สามารถหาเงินได้จากการขายสิ่งของ</color>\n<#FEFAF0>การทำภารกิจบนกระดานข่าวในเมืองอาจได้เงินเป็นรางวัลด้วย</color>\n<#FEFAF0>การหาของหายากและนำมันเข้าร่วมการประมูลอาจทำให้รวยได้ในชั่วข้ามคืน!</color>"
+RoamingUiTip_FTributePoint,"<#FEFAF0>You can exchange items in the faction store</color>\n<#FEFAF0>Obtained by completing bounty tasks</color>","<#FEFAF0>ท่านสามารถแลกเปลี่ยนสิ่งของได้ที่ร้านค้าสำนัก</color>\n<#FEFAF0>ได้รับจากการทำภารกิจสำเร็จ</color>"
+RoamingUiTipHead_Stamina,<#FFE7B0>Stamina</color>,<#FFE7B0>แรงกาย</color>
+RoamingUiTipHead_Mood,<#FFE7B0>Mood</color>,<#FFE7B0>อารมณ์</color>
+RoamingUiTipHead_Rep,<#FFE7B0>Fame (Level {0})</color>,<#FFE7B0>ชื่อเสียง(ระดับ{0})</color>
+RoamingUiTipHead_Coin,<#FFE7B0>Coin</color>,<#FFE7B0>เงิน</color>
+RoamingUiTipHead_FTributePoint,Sect contribution,ความดีความชอบสำนัก
+RoamingUiTipValue_Stamina,<#FFD779>{0}/{1}</color>,<#FFD779>{0}/{1}</color>
+RoamingUiTipValue_Mood,<#59F3DF>{0}/{1}</color>,<#59F3DF>{0}/{1}</color>
+RoamingUiTipValue_Rep,<#E277FF>{0}/{1}</color>,<#E277FF>{0}/{1}</color>
+RoamingUiTipValue_Coin,<#FFE7B0>{0} Coin</color>,<#FFE7B0>{0} อีแปะ</color>
+RoamingUiTipValue_FTributePoint,<#FFE7B0>{0}</color>,<#FFE7B0>{0}</color>
+KungfuTip_CostEp,MP cost {0},ใช้ค่า MP {0}
+TipTitle_CostEp,MP cost,ใช้ค่า MP
+TipTiTle_CostAccu,Spirit cost,ใช้ค่าพลังใจ
+Tip_NeedWeapon,Weapon,อาวุธ
+Unlimited,No limit,ไม่จำกัด
+TipTitle_InternalKungfuProp,Internal stats,สถานะกำลังภายใน
+TipTitle_MainInternalKungfuEffect,Main Internal effect,ความสามารถของวิชากำลังภายในหลัก
+TipTitle_SubInternalKungfuEffect,Sub Internal effect,ประสิทธิภาพกำลังภายในรอง
+TipTitle_OuternalProp,External stats,สถานะกำลังภายนอก
+TipTitle_OuternalDamage,Power,พลังโจมตี
+TipTitle_InternalKungfuEffect,Effect,ประสิทธิภาพ
+TipTitle_OuternalKungfuEffect,External Skill Effect (Effective when using martial arts),ประสิทธิภาพกำลังภายนอก (เปิดใช้งานเมื่อใช้ทักษะนี้)
+TipHead_ItemType,Type,ประเภท
+TipTitle_EquipReq,Requirement,เงื่อนไข
+TipTitle_MainProp,Main stats,สถานะหลัก
+TipTitle_AddtionProp,Sub stats,สถานะรอง
+TipTitle_JingMai,Meridian,เส้นลมปราณ
+TipTitle_InterForceType,Internal type,ประเภทกำลังภายใน 
+TipTitle_BookEffect,Manual effect,ประสิทธิภาพเคล็ดวิชา
+TipTitle_MaxPropAddition,Max Level stats,สถานะระดับสูงสุด
+TipTitle_BookInternalKungfu,Read to learn,อ่านเพื่อเรียนรู้
+TipTitle_BookOuternalKungfu,Read to learn,อ่านเพื่อเรียนรู้
+TipTitle_AddtionEffect,Additional effects,ประสิทธิภาพเพิ่มเติม
+Suffix_Level,Level,ระดับ
+TipTitle_AppraisementReq,Appraisal requirement,เงื่อนไขในการประเมิน
+TipTitle_UseEffect,Effect,ประสิทธิภาพ
+TipTitle_BuffDuration,Effect duration,ระยะเวลาแสดงผล
+TipTitle_HidWepDamage,Power,พลัง
+TipTitle_PropAddition,Current stats,ค่าสถานะปัจจุบัน
+SkillTip_Damage,Damage <color=#ffffff>{0}</color>,ความเสียหาย<color=#ffffff>{0}</color>
+SkillTip_CostEp,MP cost <color=#ffffff>{0}</color>,ใช้กำลังภายใน<color=#ffffff>{0}</color>
+Tip_WeaponUnfit,"Holding incorrect weapon, can't use.",ถืออาวุธผิดประเภท ใช้งานไม่ได้
+TipTitle_UniqueProp,Super Move stats,สถานะวิชาไม้ตาย
+TipTitle_UniqueEffect,Super Move effect,ประสิทธิภาพวิชาไม้ตาย
+TipTitle_UniqueDamage,Power,พลัง
+GrayPillTips,Can take up to five attribute-enhancing Pills.,สามารถกินยาเพิ่มสถานะได้สูงสุดห้าเม็ด
+BH_PrizeItemTip,Rewards depend on the task completion status,รางวัลขึ้นอยู่กับสถานะความสำเร็จของภารกิจ
+TipTitle_BondProp,Love Skill stats,สถานะวรยุทธ์สัมพันธ์
+TipHead_BondDamage,Power,พลัง
+TipHead_BondRange,Range,ระยะ
+TipValue_BindRange,The distance from the protagonist does not exceed 4 squares,ในระยะ 4 ช่องจากตัวละครหลัก
+TipHead_BondEffect,Love Skill effect,ประสิทธิภาพวรยุทธ์สัมพันธ์
+CabTip1,You are already here!,ท่านอยู่ที่นี่แล้ว!
+CabTip2,Not enough Coin!,เงินไม่พอ!
+CabProgressStart,Travel started,การเดินทางเริ่มต้นขึ้น
+CabProgressEnd,Travel ended,การเดินทางสิ้นสุดลง
+CabProgressEndByCancel,Travel interrupted,การเดินทางหยุดชะงัก
+CabPetStuff,Insufficient pet Full {0}! Can't ride!,สัตว์เลี้ยงได้กินอาหารไม่พอ{0}! ขี่ไม่ได้!
+CabDisable,"The departure function is temporarily unavailable, please continue to advance the story!",ฟังก์ชั่นรถม้าไม่สามารถใช้งานได้ในขณะนี้ โปรดดำเนินเรื่องต่อ!
+CabIconNotExist,The departure function is temporarily unavailable!,ฟังก์ชั่นรถม้าไม่สามารถใช้งานได้ในขณะนี้!
+UIBondsPlace,<size=150%>Press space to place Wedding Stone,<size=150%>กด Space เพื่อวางศิลาวิวาห์
+UIBondsStop,<size=150%>Press space to stop,<size=150%>กด Space เพื่อหยุด
+UIBondsExit,<size=150%>Press any key to exit,<size=150%>กดปุ๋มใด ๆ เพื่อออก
+LivingExp_CanNotUpgrade,"%c%Insufficient Jianghu Knowledge, unable to level up",%c%ประสบการณ์ยุทธ ไม่เพียงพอ ไม่สามารถเพิ่มระดับได้
+LivingExp_ConfirmTip,Consume <#D7A347>{0} Jianghu Knowledge</color> to level up? Current <#D7A347>Jianghu Knowledge: {1}</color>,ใช้ <#D7A347>ประสบการณ์ยุทธ {0} แต้ม</color> เพื่อเพิ่มระดับหรือไม่? ปัจจุบันมี <#D7A347>ประสบการณ์ยุทธ: {1} แต้ม</color>
+LivingExp_ShowNum,Jianghu Knowledge: {0},ประสบการณ์ยุทธ: {0}
+LivingExp_ShowNumTip,"Jianghu Knowledge can be obtained by completing Jianghu events, town bounties, and martial arts competitions, and is stored in the Experience pool, with a maximum storage limit of {0};\nJianghu Knowledge functions the same as EXP and can be used to increase Character Level and martial arts Level;\nJianghu Knowledge needs to be manually allocated to the Character or other martial arts for leveling up.","ค่าประสบการณ์ยุทธ จะได้รับเมื่อผ่านเหตุการณ์ในยุทธจักร, ล่าค่าหัว และการประลองยุทธ ซึ่งจะจัดเก็บไว้ในกลุ่มประสบการณ์ โดยเก็บได้สูงสุดสูงสุด {0} แต้ม\nค่าประสบการณ์ยุทธ ทำหน้าที่เหมือนกับค่าประสบการณ์ และสามารถใช้เพื่อเพิ่มระดับตัวละคร และระดับวรยุทธ\nค่าประสบการณ์ยุทธ จะต้องได้รับการจัดสรรให้กับตัวละคร หรือวรยุทธอื่น ๆ ด้วยตนเองเพื่อการเลื่อนระดับ"
+tModLoader.DescriptionMax,%c%The description of the mod exceeds the limit,%c%คำอธิบายของ mod เกินขีดจำกัด
+FiefTipUnlock,%s%{0} has been unlocked,%s%{0} ได้รับการปลดล็อคแล้ว
+FiefTipLevelUp,%s%{0} Level has been increased,%s%{0} เพิ่มระดับแล้ว
+Tip_WeaponGloveUnfit,"The current Weapon does not match the external skills. You can continue to fight, but the Weapon effect will be invalid.",อาวุธปัจจุบันไม่ตรงกับวิชาภายนอก สามารถต่อสู้ได้ แต่ผลเอฟเฟกต์อาวุธจะไม่แสดงผล
+Tip_PetUnEquip,Do you want to remove the equipment on {0}?,ต้องการถอดอุปกรณ์นี้ออกจาก {0} หรือไม่?
+Tip_RecipeTranslateRatio,"You have mastered this synthesis method, continue to use it will automatically convert to <#FFED56>{0}Coin</color>, do you want to continue?",ท่านเชี่ยวชาญการสังเคราะห์นี้แล้ว ดำเนินการต่อไปจะทำการแปลงเป็นเงิน <#FFED56>{0} อีแปะ</color> ต้องการดำเนินการต่อหรือไม่?
+FiefDeveTime,Consume {0} {1} Stamina,ใช้ {0} {1} แรงกาย
+FiefDeveNoStamina,"%c%Insufficient Stamina, cannot comprehend",%c%ค่าแรงกายไม่พอ ไม่สามารถรวมวรยุทธ์ได้
+FiefDeveRarity,%c%Please add the same quality type of Martial Arts,%c%โปรดเพิ่มวรยุทธที่มีคุณภาพระดับเดียวกัน
+FiefDeveKungfuType,%c%Please add the same quality type of Martial Arts,%c%โปรดเพิ่มวรยุทธที่มีคุณภาพระดับเดียวกัน
+SwornItemFull,%c%Please cancel other selected Items first,%c%กรุณายกเลิกการเลือกสิ่งของอื่นก่อน
