@@ -1,0 +1,743 @@
+﻿﻿M2040DLC5-1_1_1,"Earlier, the Constable of Luo took Zhang Li back to the Crime Investigation Bureau and said he would handle it impartially. I wonder what happened, maybe I should ask...",ก่อนนี้มือปราบลั่ว ได้นำตัวจางลี่ กลับไปที่สำนักเทพมือปราบ พร้อมกล่าวว่าจะจัดการอย่างเป็นธรรม แต่ไม่รู้ว่าเรื่องราวเป็นอย่างไรบ้างแล้ว สู้ไปสอบถามดูจะดีกว่า...
+M2040DLC5-1_1_2,"{PlayerSurName} Young hero, what a coincidence to meet you here.",จอมยุทธน้อย {PlayerSurName} ช่างบังเอิญนัก ที่ได้มาพบท่านที่นี่
+M2040DLC5-1_1_3,"I'm sorry, you are...",ขออภัย ท่านคือ...
+M2040DLC5-1_2_1,"{PlayerSurName}Young hero, you really have a short memory. It was you who saved my life in White Mou Marsh a few days ago.",จอมยุทธน้อย {PlayerSurName} นี่ช่างหลงลืมเสียจริง ท่านช่วยชีวิตข้าเอาไว้เมื่อหลายวันก่อน ที่บึงขาวมรณะไง
+M2040DLC5-1_2_2,You saved me in White Mou Marsh? Could it be that you are the disciple of the Crime Investigation Bureau brought by Luo Constable?,ที่บึงขาวมรณะ ข้าช่วยเจ้าไว้รึ? หรือว่าเจ้าเป็นศิษย์สำนักเทพมือปราบที่มือปราบลั่วพาไป?
+M2040DLC5-1_2_3,"No, no, no, I am...",เปล่าๆๆ ข้าคือ...
+M2040DLC5-1_2_4,"Constable Zhang, time is pressing, we...",มือปราบจาง เวลามีจำกัด พวกเรา...
+M2040DLC5-1_2_5,"Ah... I see, I'll go right away on my horse.",อ่า... เข้าใจแล้ว ข้าจะรีบไปเดี๋ยวนี้
+M2040DLC5-1_2_6,Constable Zhang...,มือปราบ จาง...
+M2040DLC5-1_2_7,Could it be that you are Zhang Li?!,หรือว่าเจ้าคือ... จาง... จาง... จางลี่!?
+M2040DLC5-1_3_1,"{PlayerSurName}Young hero, you really have a short memory. A few days ago in White Mou Marsh, you all were fighting over my head.",จอมยุทธน้อย {PlayerSurName} ท่านช่างหลงลืมเสียจริง ก่อนหน้านี้ที่บึงขาวมรณะ พวกท่านยังช่วงชิงหัวของข้า กันอย่างดุเดือดมิใช่รึ!
+M2040DLC5-1_3_2,Are you Zhang Li?!,เจ้า... เจ้า... เจ้าคือ จางลี่ รึ?!
+M2040DLC5-1_4_1,"Hahaha, yes, it's me.",ฮ่าๆๆๆ ถูกต้องแล้ว ข้าเอง!
+M2040DLC5-1_4_2,"What's going on here, what exactly happened...",นี่มันเรื่องอะไรกัน เกิดอะไรขึ้นกันแน่...
+M2040DLC5-1_4_3,"After the melee in White Mou Marsh that day, I was taken back to the Crime Investigation Bureau by Luo Constable.",หลังจบศึกวุ่นวายที่บึงขาวมรณะ ข้าก็ถูกมือปราบลั่วพาตัวกลับไปที่สำนักเทพมือปราบ
+M2040DLC5-1_4_4,"I thought I was going to die, but Luo Constable not only found a good doctor to heal my wounds, but also patiently explained my mistakes to me...",เดิมทีข้าคิดว่าคงไม่รอดชีวิตแล้ว แต่มือปราบลั่วไม่เพียงแต่หาหมอฝีมือดี มารักษาบาดแผลให้ข้าเท่านั้น เขายังอดทนอธิบายความผิดพลาดของข้า ให้ฟังอย่างละเอียดอีกด้วย...
+M2040DLC5-1_4_5,"In these few days in jail, I deeply regretted my recklessness. I didn't expect that my actions could be used by others with ulterior motives...",ตลอดหลายวันที่ติดอยู่ในคุก ข้าก็สำนึกได้ถึงความหุนหันพลันแล่นของตัวเอง ไม่คาดคิดเลยว่าการกระทำของข้านั้น จะถูกผู้ไม่หวังดีใช้เป็นหมากได้ถึงเพียงนี้...
+M2040DLC5-1_4_6,"Luo Constable also thoroughly investigated those brothers from the Breeze Sect. Fortunately, none of them were clean, otherwise I might not have been able to keep my head.",มือปราบลั่วยังได้สอบสวน บรรดาพี่น้องแห่งค่ายสายลมพิสุทธิ์ อย่างละเอียดถี่ถ้วน โชคดีที่แต่ละคนล้วนทำเรื่องสกปรก มิฉะนั้นหัวของข้าคงรักษาไว้ไม่ได้เสียแล้ว
+M2040DLC5-1_4_7,"But my previous actions were indeed unforgivable. I should have been sentenced to exile on Shamen Island, but Luo Constable gave me a chance to make amends for my crimes. He exceptionally recruited me into the Crime Investigation Bureau to catch criminals and make up for my past misdeeds.",แต่สิ่งที่ข้าทำไปก่อนหน้านี้ ก็เป็นความผิดที่มิอาจให้อภัยได้จริงๆ เดิมที ข้าควรถูกตัดสินให้เนรเทศไปยังเกาะซาเหมิน ทว่ามือปราบลั่วกลับมอบโอกาสให้ข้าได้ไถ่โทษ ด้วยการรับข้าเข้าสู่สำนักเทพมือปราบ เพื่อจับกุมอาชญากรทั่วหล้า ชดเชยความชั่วร้ายที่เคยกระทำไป
+M2040DLC5-1_4_8,So... this is what you see now.,ฉะนั้น... บัดนี้จึงเป็นอย่างที่ท่านเห็นอยู่นี่แหละ
+M2040DLC5-1_4_9,Hero Zhang...,จอมยุทธ จาง
+M2040DLC5-1_4_10,"Don't call me that anymore. What I did before was just to satisfy my own desires, not for the people. I can't bear the title of ""hero"".","อย่าเรียกข้าเช่นนั้นเลย สิ่งที่ข้าทำไปก่อนหน้านี้ ล้วนแต่เพื่อสนองความปรารถนาส่วนตน หาได้เพื่อชาวบ้านตาดำๆ ไม่ มิอาจแบกรับคำว่า ""จอมยุทธ์"" ได้เลย"
+M2040DLC5-1_4_11,"From now on, I will strive to live up to the title of ""Constable Zhang"", and not let down the painstaking efforts of Constable Luo. This is all I can do.","นับจากนี้ไป ข้าจะพยายามอย่างเต็มที่ให้สมกับที่ได้ชื่อว่า ""มือปราบจาง"" และจะไม่ทำให้ความหวังดีของ หัวหน้ามือปราบลั่วต้องเสียเปล่า สิ่งที่ข้าทำได้ก็มีเพียงเท่านี้"
+M2040DLC5-1_5_1,"Brother Zhang, it seems you have found your own path.",ท่านพี่จาง ท่านก็ถือว่าได้ค้นพบเส้นทางของตนเองแล้ว
+M2040DLC5-1_5_2,"Well, Little Kong, if you commit any crime and it falls into my hands, don't blame me for not showing favoritism.",อืม... เจ้าหนูขง ถ้าเจ้าไปก่อเรื่องอะไร จนมาตกอยู่ในกำมือข้าล่ะก็ อย่าหาว่าพี่ชายอย่างข้า ไม่เห็นแก่หน้ากันเลยนะ
+M2040DLC5-1_5_3,"Tsk, you're still not good at joking.",เหอะ เจ้าก็ยังคงไม่รู้จักพูดล้อเล่นเหมือนเดิมนั่นแหละ
+M2040DLC5-1_6_1,"Amitabha, I am deeply gratified to see you, Master Zhang, reborn from the fire.",อมิตาพุทธ ประสกจาง เปรียบดังหงส์เพลิงที่ถือกำเนิดใหม่ อาตมารู้สึกยินดีเป็นอย่างยิ่ง
+M2040DLC5-1_6_2,"Master, why have you come down the mountain again? Do you have unfinished business in the mundane world?",ท่านอาจารย์! ไฉนท่านลงจากเขาอีกแล้ว? หรือท่านยังมีเรื่องทางโลกที่คั่งค้างอยู่?
+M2040DLC5-1_6_3,"Master Zhang, you jest. You have helped me, and I naturally need to repay the favor.",ประสกจางพูดหยอกเย้าแล้ว ประสกจางได้ช่วยเหลืออาตมา อาตมาย่อมต้องตอบแทนบุญคุณเป็นธรรมดา
+M2040DLC5-1_6_4,"...I don't understand what you're trying to do, but it doesn't matter, it has nothing to do with me.",...ข้าก็ไม่เข้าใจว่าท่านคิดจะทำอะไร แต่ช่างเถิด คงไม่เกี่ยวกับข้า
+M2040DLC5-1_7_1,I didn't expect my brother to do this. It's the first time I've seen this in my impression of him.,คาดไม่ถึงเลยว่า ท่านจะกระทำการเยี่ยงนี้ ไม่เคยเจอแบบนี้มาก่อนเลย
+M2040DLC5-1_7_2,What was Constable Luo like before?,หัวหน้ามือปราบ ลั่วเทียนซง เมื่อก่อนเป็นคนอย่างไร
+M2040DLC5-1_7_3,"Before... he was even more stern and impartial, dealing with everyone according to the law.",เมื่อก่อน... เขายิ่งเที่ยงธรรมและตรงไปตรงมา ไม่เห็นแก่หน้าใคร ไม่ว่าจะเป็นใครก็ตาม จะตัดสินไปตามกฎหมาย
+M2040DLC5-1_8_1,"Well, keep up the good work.","อืม, ทำงานของเจ้าให้ดีเถิด"
+M2040DLC5-1_8_2,"Yes, Constable Qiu.","ใช่แล้ว, มือปราบฉิว"
+M2040DLC5-1_9_1,"Naturally, one can become a Buddha by laying down the butcher's knife, but I have to ask you, is this face now your own?",ทะเลทุกข์ไร้ขอบเขต กลับใจพานพบฝั่ง วางดาบที่ใช้ฆ่าคน ย่อมบรรลุธรรมได้ในพลัน 
+M2040DLC5-1_9_2,……,……
+M2040DLC5-1_10_1,Constable Zhang...,มือปราบ จาง
+M2040DLC5-1_10_2,"Yes, I understand.",ข้าเข้าใจแล้ว
+M2040DLC5-1_10_3,"Young Hero {PlayerSurName}, I have official duties to attend to and cannot stay long. This stick technique is something I practiced before, but I no longer need it. I give it to you.",จอมยุทธ์น้อย {PlayerSurName} ข้ามีเรื่องด่วนต้องไปจัดการ ไม่อาจหยุดอยู่ตรงนี้ได้นานนัก คัมภีร์วิชาไม้เท้าเล่มนี้ คือสิ่งที่ข้าเคยฝึกฝนมาก่อน ตอนนี้ไม่ได้ใช้แล้ว ขอมอบให้ท่านจอมยุทธ์น้อยก็แล้วกัน
+M2040DLC5-1_10_4,"{PlayerSurName}Young hero, I'll take my leave.","จอมยุทธน้อย{PlayerSurName} , ข้าขอตัวก่อน"
+M2040DLC5-1_10_5,Take care.,รักษาตัวด้วย
+M2040DLC5-1_10_6,"...To be reborn and start life anew, perhaps this is the best outcome for him.",...การได้กลับตัวกลับใจเป็นคนใหม่ ก็อาจกล่าวได้ว่า นี่คือบทสรุปที่ดีที่สุด สำหรับเขาแล้ว
+R10023-3_name,Hard to Break from the Mundane World,ยากนักจะตัดขาดจากทางโลก
+R10023-3_log_1,Master Hua Yan is now meditating in the Forest Tower.,อาจารย์ฮัวเหยียน กำลังนั่งบำเพ็ญสมาธิ ที่วิหารป่า
+R10023-3_log_2,"Master Hua Yan is now in the Forest Tower, meditating with the ""little disciple"".","อาจารย์ฮัวเหยียน กำลังพา ""ศิษย์น้องเล็ก"" นั่งบำเพ็ญสมาธิ ที่วิหารป่า"
+R10023-3_1_1,Where is Master Hua Yan? Isn't he supposed to guard the Scripture Tower?,แล้วท่านอาจารย์ฮัวเหยียนล่ะ? ท่านไม่ได้เฝ้าหอพระคัมภีร์อยู่หรือ?
+R10023-3_2_1,Uncle Master Hua Yan has been meditating in the Forest Tower since he returned a few days ago.,ท่านอาจารย์ฮัวเหยียน หลังจากที่ท่านกลับมาเมื่อหลายวันก่อน ก็เอาแต่นั่งบำเพ็ญสมาธิ อยู่ในวิหารป่า ตลอดทั้งวัน
+R10023-3_2_2,Meditating in the Forest Tower...,นั่งบำเพ็ญสมาธิอยู่ในวิหารป่า
+R10023-3_2_3,"Thank you, Master. I will go to the Forest Tower to find him.",ขอบคุณท่านมาก ข้าจะไปหาท่านอาจารย์ ที่วิหารป่า
+R10023-3_3_1,"Uncle Master Hua Yan has been in the Forest Tower with the little disciple, meditating since he returned a few days ago.","ท่านอาจารย์ฮัวเหยียน หลังจากที่ท่านกลับมาเมื่อหลายวันก่อน ก็พา ""ศิษย์น้องเล็ก"" นั่งบำเพ็ญสมาธิ ที่วิหารป่า"
+R10023-3_3_2,Little disciple?,ศิษย์น้องเล็ก ?
+R10023-3_3_3,"Thank you, Master. I will go to the Forest Tower to find him.",ขอบคุณท่านมาก ข้าจะไปหาท่านอาจารย์ ที่วิหารป่า
+R10023-3_4_1,He's really here...,เป็นไปตามคาด...อยู่ที่นี่จริงๆ ด้วย...
+R10023-3_4_2,Master Hua Yan.,ท่านอาจารย์ฮัวเหยียน
+R10023-3_4_3,……,……
+R10023-3_4_4,"There was a man who was once a butcher, with a happy family and two children.
+But then his home was invaded by thieves, and all his family members met with misfortune except for him.","มีชายผู้หนึ่งเป็นคนขายเนื้อ เขามีครอบครัวที่สมบูรณ์พร้อม มีทั้งลูกชายและลูกสาว\nแต่ภายหลัง บ้านของเขาถูกโจรปล้น นอกจากเขาแล้ว คนในครอบครัวทั้งหมด ไม่ว่าจะเป็นคนแก่หรือเด็ก ต่างก็ถูกสังหารทั้งหมด"
+R10023-3_4_5,"He was filled with grief and anger, took up his butcher's knife and stormed into the thieves' lair, killing all the thieves and even offering the head of the murderer to his family.",เขาโกรธแค้นถึงขีดสุด คว้ามีดบุกเข้าไปในค่ายโจร สังหารพวกมันทั้งหมด ก่อนจะนำหัวของเหล่าโจรมาเซ่นไหว้ครอบครัวของเขา
+R10023-3_4_6,"Afterwards, the man had no more ties and wanted to enter the monastic life, but the former abbot felt that his killing karma was too heavy and repeatedly refused him.",หลังเหตุการณ์นั้น เขาก็ไร้ซึ่งพันธะใด ปรารถนาจะละทางโลกเข้าสู่ร่มกาสาวพัสตร์ แต่ทว่าอดีตเจ้าอาวาสเห็นว่า เขาสร้างบาปกรรมแห่งการฆ่า ไว้มากเกินไป จึงปฏิเสธเขาครั้งแล้วครั้งเล่า
+R10023-3_4_7,"He knelt outside the mountain entrance for seven days, finally fainting from exhaustion.",เขาคุกเข่าอยู่หน้าประตูวัดถึงเจ็ดวันเจ็ดคืน สุดท้าย ก็หมดแรงทรุดตัวลง หมดสติอยู่ตรงนั้นเอง
+R10023-3_4_8,"The monks in the temple, moved by his plight, carried him into the monks' room to rest. The former abbot did not drive him out of the temple, but also did not allow him to become a monk.",หลวงจีนในวัดสงสารเขา จึงช่วยกันหามร่างเขาไปยังที่พักเพื่อพักฟื้น แม้เจ้าอาวาสองค์ก่อน จะไม่ขับไล่เขาออกจากวัด แต่ก็ไม่อนุญาตให้เขาบวชอยู่ดี
+R10023-3_4_9,"Later, the man shaved his head and followed the monks in the temple to practice Buddhism, with exceptional diligence. Within a few years, no one could surpass his understanding of Buddhism.",ภายหลัง บุรุษผู้นั้นปลงผมด้วยตัวเอง และติดตามหลวงจีนในวัดเพื่อบำเพ็ญเพียรอย่างหนักหน่วง ไม่กี่ปีให้หลัง ความเข้าใจในพระธรรมของเขา ก็ลึกล้ำจนมิอาจมีผู้ใดเทียบเทียม
+R10023-3_4_10,"But even so, he was not a disciple of Shifa Temple.",ถึงกระนั้น เขาก็ยังคงมิใช่ศิษย์ของอารามซื่อฟา
+R10023-3_4_11,"Later, the Yan Kingdom invaded, and the Yan Yun Iron Army sent a small team of hundreds of people to besiege Shifa Temple. At that time, there were not many Martial Monks in the temple, and the Abbot was not in the temple. Shifa Temple was facing a catastrophe.",ต่อมา กองทัพเหล็กเยี่ยนหยุน แห่งแคว้นเยี่ยน ได้ส่งทัพหน้าหลายร้อย บุกโอบล้อมอารามซื่อฟา ในยามนั้น หลวงจีนนักสู้เหลือน้อย อีกทั้งเจ้าอาวาสก็ไม่อยู่ วัดซื่อฝ่าจึงจวนเจียนจะล่มสลาย
+R10023-3_4_12,"At this time, he stood up, led the monks in the temple to defend the mountain entrance, and repelled the Yan army's siege several times.",ยามนั้น เขาก้าวออกมายืนหยัด เป็นผู้นำเหล่าหลวงจีนในวัด ยืนหยัดปกป้องประตูวัดอย่างไม่คิดชีวิต ตีโต้การโอบล้อมของทัพเยี่ยน ครั้งแล้วครั้งเล่าจนแตกพ่ายไป
+R10023-3_4_13,"In the end, the Yan army gave up on attacking Shifa Temple, but this man was also seriously injured and his life was hanging by a thread...",ในที่สุด ทัพเยี่ยนก็จำต้องถอนกำลัง จากการโจมตีอารามซื่อฟาโดยตรง ทว่าบุรุษผู้นั้นกลับบาดเจ็บสาหัส ถึงขั้นลมหายใจรวยรินแทบจะดับสิ้น...
+R10023-3_4_14,"Before his death, his only wish was to be ordained as a monk. The previous Abbot finally agreed to his wish, but he didn't survive long enough to be officially ordained...",ก่อนสิ้นลม ความปรารถนาเพียงหนึ่งเดียวของเขา คือการได้ปลงผมบวชเป็นพระ สุดท้าย อดีตเจ้าอาวาสก็ยอมทำตามความปรารถนานั้น แต่เขาก็ไม่อาจมีชีวิตอยู่ จนถึงพิธีปลงผมอย่างเป็นทางการ...
+R10023-3_4_15,"Now, he rests in this tower in front of me, without a Dharma name, and without leaving a name.",บัดนี้ เขาได้นอนสงบนิ่งอยู่ในเจดีย์เบื้องหน้าอาตมา โดยไร้ซึ่งฉายาทางธรรม และมิได้ทิ้งชื่อเสียงเรียงนามใดไว้เลย
+R10023-3_4_16,"I thought that like him, by entering the monastic life, I could devote myself to Buddhism and ignore worldly affairs.",อาตมาเคยคิดว่า อาตมาเองก็เหมือนกับเขา เมื่อละทางโลกเข้าสู่ร่มกาสาวพัสตร์แล้ว ก็จะสามารถมุ่งมั่นบำเพ็ญเพียรธรรม โดยไม่ห่วงใยเรื่องราวทางโลกอีกต่อไป
+R10023-3_4_17,"But I was wrong. These days, the matter of Master Zhang has been lingering in my mind.",แต่ในที่สุดอาตมาก็คิดผิดไปแล้ว ตลอดหลายวันที่ผ่านมา เรื่องราวของประสกจาง ยังคงวนเวียนอยู่ในห้วงสำนึก ของอาตมามิเสื่อมคลาย
+R10023-3_4_18,"Where is he now, alive or dead...",บัดนี้เขาอยู่ที่ใด ไม่รู้ว่าจะเป็นหรือตาย...
+R10023-3_4_19,"The things he did before, were they really because of me...",สิ่งที่เขาทำไปก่อนหน้านี้ เป็นเพราะอาตมาจริงหรือ...
+R10023-3_4_20,Was it right or wrong for me to enter the monastic life and ignore the Breeze Sect...,การที่อาตมาละทางโลกเข้าสู่ร่มกาสาวพัสตร์ และละทิ้งค่ายสายลมพิสุทธิ์ ไปนั้น ถูกหรือผิดกันแน่...
+R10023-3_4_21,"Master, I'm afraid I can't answer your questions.","ท่านอาจารย์, คำถามท่านนี้ ข้ามิอาจให้คำตอบได้"
+R10023-3_4_22,"But for me, I have also faced difficult decisions many times.",สำหรับข้าแล้ว ข้าเองก็เคยเผชิญกับการตัดสินใจ ที่ยากลำบากมาหลายครั้งเช่นกัน
+R10023-3_4_23,"Most of the time, I would choose the option that benefits me the most. But there are always a few times when I can't predict the consequences of my choices.",ส่วนใหญ่ข้าจะเลือกทางที่ให้ประโยชน์แก่ข้าที่สุด แต่ก็มีบางครั้ง ที่ข้ามิอาจคาดเดาผลลัพธ์ของมันได้
+R10023-3_4_24,"But we have to make choices, we have to make choices.",แต่ในที่สุดเราก็ต้องเลือก และเราก็จำเป็นต้องเลือก
+R10023-3_4_25,"Since it's a choice I made, whether it's right or wrong, good or bad, I have to face the consequences and take responsibility.",ในเมื่อเป็นทางเลือกที่ข้าได้ตัดสินใจไปแล้ว ไม่ว่าจะถูกหรือผิด จะดีหรือร้าย ผลลัพธ์นี้ข้าจักต้องเผชิญหน้า และแบกรับมันไว้เอง
+R10023-3_4_26,"I think, instead of pondering here, it's better to go out and see what the choices I made have brought to me and others.",ข้าเห็นว่า แทนที่จะมานั่งครุ่นคิดอยู่ตรงนี้  สู้ก้าวออกไปสัมผัสด้วยตนเอง ว่าการเลือกของเรานั้น ผลลัพธ์มันเป็นเช่นไร จะไม่ดีกว่าหรือ
+R10023-3_4_27,"...Amitabha, good, good.","...อามิตาพุทธ, ยอดเยี่ยม ,ยอดเยี่ยม..."
+R10023-3_4_28,"Although I am much older than you, I didn't expect that you understand the world much better than I do.",อาตมาแม้จะมีอายุมากกว่าท่านหลายปี แต่ก็คาดไม่ถึงเลยว่า ในการเข้าใจสัจธรรมนั้น อาตมาด้อยกว่าท่านมากนัก
+R10023-3_4_29,"It seems that I should do as you say, go outside the temple, and take a look.",ดูเหมือนว่า อาตมาก็ควรจะออกไปเดินดูโลกภายนอก อย่างที่ท่านกล่าวไว้จริงๆ
+R10023-3_4_30,"If you don't mind my old age and weakness, come to the Scripture Tower and invite me to travel the Jianghu together.",หากท่านไม่รังเกียจความชรา และความอ่อนแอของอาตมา เช่นนั้น ก็เชิญไปที่หน้าหอคัมภีร์ เพื่อชวนอาตมาออกท่องยุทธภพด้วยกันเถิด
+R10023-3_5_1,He's really here...,คาดไม่ผิด ที่แท้อยู่ที่นี่เอง
+R10023-3_5_2,Master Hua Yan.,ท่านอาจารย์ฮัวเหยียน
+R10023-3_6_1,"Amitabha, Shi Ming, you're here.","อมิตาพุทธ, ซือหมิง! เจ้ามาแล้ว"
+R10023-3_6_2,"Shi Zhi, come and meet your senior brother Shi Ming.",ซือจือ มาคารวะซือหมิง ศิษย์พี่ของเจ้าเสีย
+R10023-3_6_3,"Amitabha, nice to meet you, senior brother Shi Ming.",อมิตาพุทธ คารวะศิษย์พี่ ซือหมิง
+R10023-3_6_4,"No need for formalities, no need for formalities~","ไม่จำเป็นต้องมากพิธี, ไม่จำเป็นต้องมากพิธี~"
+R10023-3_6_5,"Master, is this your disciple?",ท่านอาจารย์ นี่คือศิษย์ที่ท่านรับไว้กระนั้นหรือ?
+R10023-3_6_6,"I can't and don't want to take disciples, he was accepted by the Abbot at my request.",อาตมาไม่สามารถและไม่ต้องการรับศิษย์ อาตมาขอให้ท่านเจ้าอาวาสรับเขาไว้เอง
+R10023-3_6_7,"To have the master request the Abbot to accept him, it seems that this junior brother is not ordinary.",สามารถทำให้เจ้าอาวาสรับศิษย์ไว้ได้ ดูท่าศิษย์น้องผู้นี้ย่อมมิใช่คนธรรมดา
+R10023-3_6_8,"By the way, how is Zhang Li? Is he okay?",ว่าแต่ จางลี่ล่ะ? เขาสบายดีไหม?
+R10023-3_6_9,...He's dead.,... เขาตายแล้ว
+R10023-3_6_10,Dead?!,ตายแล้ว ?!
+R10023-3_6_11,"There is no Zhang Li in the world anymore, only Shi Zhi.",ใต้หล้าไม่มี จางลี่ อีกแล้ว มีแต่ซื่อจื๋อเท่านั้น
+R10023-3_6_12,"Wait, so you are...","เดี๋ยวก่อน, ที่แท้เจ้าก็คือ..."
+R10023-3_7_1,Thank you for saving my life at White Mou Marsh a few days ago.,เมื่อหลายวันก่อนที่บึงขาวมรณะ ข้าต้องขอขอบคุณที่ช่วยชีวิตข้าไว้
+R10023-3_15_1,"You really have a short memory. A few days ago at White Mou Marsh, you were fighting over my head.",ท่านช่างหลงลืมเสียจริง ก่อนหน้านี้ที่บึงขาวมรณะ พวกท่านยังช่วงชิงหัวของข้ากันอย่างดุเดือดมิใช่รึ!
+R10023-3_8_1,"Amitabha, {PlayerSurName}, you're here.","อมิตาพุทธ,{PlayerSurName}, ท่านมาแล้ว"
+R10023-3_8_2,"Shi Zhi, come and meet {PlayerSurName}.",ซื่อจื๋อ มาคารวะ จอมยุทธ์{PlayerSurName} เสีย
+R10023-3_8_3,"Amitabha, nice to meet you, {PlayerSurName}.","อมิตาพุทธ, เจริญพร ท่าน{PlayerSurName}"
+R10023-3_8_4,"Nice to meet you, Master Shi Zhi.",ขอคารวะ ท่านอาจารย์ซื่อจื๋อ
+R10023-3_8_5,"Master, is this your disciple?",ท่านอาจารย์ นี่คือศิษย์ที่ท่านรับไว้กระนั้นหรือ?
+R10023-3_8_6,"I can't and don't want to take disciples, he was accepted by the Abbot at my request.",อาตมาไม่สามารถและไม่ต้องการรับศิษย์ อาตมาขอให้ท่านเจ้าอาวาสรับเขาไว้เอง
+R10023-3_8_7,"To have the master request the Abbot to accept him, it seems that Master Shi Zhi is not ordinary.",สามารถทำให้เจ้าอาวาสรับศิษย์ไว้ได้ ดูท่า ท่านซื่อจื๋อ ผู้นี้ย่อมมิใช่คนธรรมดา
+R10023-3_8_8,"By the way, how is Zhang Li? Is he okay?",ว่าแต่ จางลี่ล่ะ? เขาสบายดีไหม?
+R10023-3_8_9,...He's dead.,... เขาตายแล้ว
+R10023-3_8_10,Dead?!,ตายแล้ว ?!
+R10023-3_8_11,"There is no Zhang Li in the world anymore, only Shi Zhi.",ใต้หล้าไม่มี จางลี่ อีกแล้ว มีแต่ซื่อจื๋อเท่านั้น
+R10023-3_8_12,"Wait, so you are...","เดี๋ยวก่อน, ที่แท้เจ้าก็คือ..."
+R10023-3_9_1,"Thank you for saving my life at White Mou Marsh a few days ago, {PlayerSurName}.",เมื่อหลายวันก่อนที่บึงขาวมรณะ ข้าต้องขอขอบคุณที่ช่วยชีวิตข้าไว้ {PlayerSurName}
+R10023-3_10_1,"{PlayerSurName}, you really have a short memory. A few days ago at White Mou Marsh, you were fighting over my head.",{PlayerSurName} ท่านช่างหลงลืมเสียจริง ก่อนหน้านี้ที่บึงขาวมรณะ พวกท่านยังช่วงชิงหัวของข้า กันอย่างดุเดือดมิใช่รึ!
+R10023-3_11_1,"Wait, don't call me that yet, I need some time to get used to it...","เดี๋ยวก่อน,คำเรียกขานเช่นนั้น..., ข้ายังไม่คุ้นชิน"
+R10023-3_11_2,"(I never thought he would become a monk at Shifa Temple, and his face is completely different, I can't recognize him at all...)",(นึกไม่ถึงเลยว่า เขาจะมาบวชอยู่ที่อารามซื่อฟาแห่งนี้ แถมใบหน้าก็ยังเปลี่ยนไปจากเดิมโดยสิ้นเชิง จนจำไม่ได้เลยสักนิด...)
+R10023-3_11_3,"After the chaos at White Mou Marsh that day, I was taken back to Shifa Temple by Master Hua Yan to recover.",หลังจบศึกวุ่นวายที่บึงขาวมรณะ ข้าก็ถูก หลวงจีนฮัวเหยียน พาตัวกลับไปที่อารามซื่อฟา
+R10023-3_11_4,"During my recovery, the master was always by my side, preaching Buddhism to me, urging me to be good.",ในช่วงที่อาตมาบาดเจ็บสาหัส ท่านอาจารย์อยู่ดูแลมิเคยห่าง คอยให้แสงธรรมนำทาง ดึงขึ้นสู่มรรคาแห่งธรรม
+R10023-3_11_5,"After calming down, I deeply regretted my recklessness, I didn't expect that my actions could be used by others with ulterior motives...","เมื่อสงบใจลงได้, อาตมารู้สึกเสียใจในความไม่ยั้งคิดของตน คาดไม่ถึงว่า การกระทำนี้จะตกเป็นเครื่องมือของคนร้ายได้..."
+R10023-3_11_6,"When my injuries improved, I wanted to become a disciple of the master, and from then on, I would live a quiet life under the ancient Buddha.",เมื่ออาการบาดเจ็บของอาตมาดีขึ้น ก็ตั้งใจจะขอเป็นศิษย์ของท่านอาจารย์ หลังจากนั้น ก็จะใช้ชีวิตอย่างสงบภายใต้ร่มพระธรรม
+R10023-3_11_7,"However, the master had already vowed not to accept disciples, so he went to the abbot, and the abbot then shaved my head.","แต่ว่า ท่านอาจารย์ไม่รับศิษย์แล้ว ท่านจึงไปขอให้ท่านเจ้าอาวาสช่วย, ด้วยเหตุนั้น เจ้าอาวาสจึงได้ปลงผมให้อาตมา"
+R10023-3_11_8,So... this is what you see now.,ดังนั้น...เรื่องราว จึงเป็นอย่างที่ท่านเห็นนี่แหละ
+R10023-3_11_9,Hero Zhang...,จอมยุทธ จาง
+R10023-3_11_10,"The person who only satisfied his own desires, regardless of the lives of the people, is already dead.",คนชั่วที่ก่อกรรมทำเข็ญตามอำเภอใจ ไม่แยแสชีวิตของผู้อื่น ได้ตายไปแล้ว
+R10023-3_11_11,"As I just said, from now on, I will live a quiet life under the ancient Buddha.",ดังที่อาตมาได้กล่าวไว้ นับต่อจากนี้ไป อาตมาจะใช้ชีวิตอย่างสงบภายใต้ร่มพระธรรม
+R10023-3_12_1,"Brother Zhang, no, Shi Zhi, you have found your own way.",พี่จาง... ไม่ใช่สิ ศิษย์พี่ซื่อจือ ในที่สุดท่านก็ได้พบหนทางของตัวเองแล้วจริงๆ
+R10023-3_12_2,"Master Kong, if you ever see through the world, I am willing to recommend you to the abbot.",ประสกขง หากวันใดที่ท่านเบื่อหน่าย ตัดสินใจละทางโลก อาตมาก็พร้อมจะแนะนำท่าน ให้ท่านเจ้าอาวาส
+R10023-3_12_3,"Tsk, you're still not good at joking.",เหอะ! เจ้ามันจริงจังจนเกินไป ไม่รู้จักรับมุกเอาเสียเลย
+R10023-3_13_1,"Naturally, one can become a Buddha by laying down the butcher's knife, but I have to ask you, is this face now your own?",ทะเลทุกข์ไร้ขอบเขต กลับใจพานพบฝั่ง วางดาบที่ใช้ฆ่าคน ย่อมบรรลุธรรมได้ในพลัน 
+R10023-3_13_2,……,……
+R10023-3_14_1,"Now that I have entered the monastery, I no longer care about worldly matters, and I no longer need this stick method, I give it to you.",ตอนนี้อาตมาได้เข้าสู่พระธรรมแล้ว จะไม่ยุ่งเกี่ยวกับเรื่องราวในโลกอีก คัมภีร์วิชาไม้เท้าเล่มนี้ ตอนนี้ไม่ได้ใช้แล้ว ขอมอบให้ท่านจอมยุทธ์ก็แล้วกัน
+R10023-3_14_2,"Master Hua Yan, I am going to study the Scripture.",ท่านอาจารย์ฮัวเหยียน ศิษย์ขอตัวไปศึกษาพระคัมภีร์แล้ว
+R10023-3_14_3,Good indeed.,อมิตาพุทธ...
+R10023-3_14_4,I'll take my leave.,ข้าขอตัวก่อน
+R10023-3_14_5,"...To be reborn and start life anew, perhaps this is the best outcome for him.",...การได้กลับตัวกลับใจเป็นคนใหม่ ก็อาจกล่าวได้ว่า นี่คือบทสรุปที่ดีที่สุด สำหรับเขาแล้ว
+R10023-3_14_6,"Amitabha, I also think this is the best outcome.","อมิตาพุทธ, อาตมาก็รู้สึกว่า นี่คือบทสรุปที่ดีที่สุดแล้ว"
+R10023-3_14_8,I never thought that my decision back then would lead to these consequences.,อาตมาไม่เคยคิดเลยว่า การตัดสินใจในตอนนั้น จะนำมาซึ่งผลลัพธ์ในวันนี้
+R10023-3_14_9,"For many years, I have been reluctant to think about these things, until now, I have to face them.",หลายปีที่ผ่านมา อาตมาไม่อยากจะรื้อฟื้นเรื่องราวเหล่านี้ขึ้นมาเลย จนกระทั่งบัดนี้ อาตมามิอาจหลีกเลี่ยง การเผชิญหน้ากับมันได้อีก
+R10023-3_14_10,"Fortunately, I still have a chance to remedy.",นับเป็นโชคดีนัก ที่อาตมายังพอมีหนทางแก้ไขได้
+R10023-3_14_11,"I have also decided, I want to go out and see the world.",อาตมาตัดสินใจแล้วว่า อาตมาจะออกไปแตะขอบฟ้า สัมผัสโลกกว้าง
+R10023-3_14_12,"If you don't mind my old age and weakness, come to the Scripture Tower and invite me to travel the Jianghu together.",หากท่านไม่รังเกียจความชรา และความอ่อนแอของอาตมา เช่นนั้น ก็เชิญไปที่หน้าหอคัมภีร์ เพื่อชวนอาตมาออกท่องยุทธภพด้วยกันเถิด
+R10023-4_1_1,"Amitabha, I once vowed to guard the Scripture Tower for life, I cannot leave without permission.",อมิตาพุทธ，อาตมาเคยตั้งสัตย์ปฏิญาณไว้ว่า จะเฝ้าดูแลหอคัมภีร์ไปตลอดชีวิต ไม่อาจละทิ้งไปเองได้
+R10023-4_2_1,"Amitabha, I advise you to turn back when you are lost, put down the butcher's knife.",อมิตาพุทธ，อาตมาขอเตือนเจ้าให้กลับตัวกลับใจ วางอาวุธลงเสีย
+R10023-4_3_1,There is probably no place for me by your side.,ดูเหมือนว่า ข้างกายท่านคงไม่มีที่ว่างให้อาตมาแล้ว
+R10023-4_4_1,Amitabha.,อมิตาพุทธ
+R10070-2_1_1,Owner of the Liu Building.,ท่านเจ้าหอหลิว
+R10070-2_1_2,"{PlayerName}, why are you here?",{PlayerName}，ทำไมเจ้ามาอยู่นี่?
+R10070-2_1_3,How could I not come when the owner of the Liu Building invited me?,ท่านเจ้าหอหลิว เชิญมาแล้ว ข้าจะมิไปได้อย่างไรกัน?
+R10070-2_1_4,"Tsk, I regret inviting you that day.",เฮ้อ...ข้าไม่น่าชวนเจ้ามาเลยจริงๆ
+R10070-2_1_5,"(This guy is still not forgiving, it seems that if I don't provoke him, he won't tell the truth.)",(เจ้าหมอนี่ก็ยังปากเสียไม่เลิก ดูท่าถ้าไม่ยั่วโมโหมันหน่อย มันคงไม่ยอมพูดความจริง)
+R10070-2_1_6,"What the owner of the Liu Building regrets, I'm afraid it's not just this one thing, right?",ท่านเจ้าหอหลิว คงไม่ได้เสียใจแค่เรื่องนี้เรื่องเดียวใช่ไหม?
+R10070-2_1_7,What are you talking about?,เจ้ากำลังพูดถึงเรื่องอะไร?
+R10070-2_1_8,Then let me give you a hint.,ถ้าอย่างนั้น ข้าจะขอชี้แนะท่านเจ้าหอหลิว สักเล็กน้อย
+R10070-2_1_9,Chai...,ชิ! ...
+R10070-2_1_10,...Enough.,...พอแล้ว
+R10070-2_1_11,"I don't need to report to that guy now, if I want, I can kill you at any time.",ต่อไปนี้ข้าไม่จำเป็นต้องรายงาน ไอ้สารเลวนั่นอีกแล้ว หากข้าอยากจะทำ ข้าก็สามารถสังหารเจ้าได้ทุกเมื่อ
+R10070-2_1_12,"If you wanted to, you wouldn't have let me escape from White Mou Marsh.","ถ้าเจ้าต้องการรั้งให้ข้า อยู่ที่บึงขาวมรณะนี่จริงๆ, ก็คงไม่ปล่อยให้ข้าหนีไปได้หรอก"
+R10070-2_1_13,It's not too late for me to make up for it now.,ถึงแม้เหตุการณ์จะผ่านไปแล้ว แต่ถ้าจะรีบแก้ไขสิ่งผิดพลาด ตอนนี้ก็ยังทันเวลา!
+R10070-2_1_14,How long can Chai Wang keep you after you killed his man?,เจ้าฆ่าคนของอ๋องไฉไปแล้ว อ๋องไฉจะปล่อยให้เจ้าลอยนวล ไปได้อีกนานเท่าใดเล่า?
+R10070-2_1_15,There were no dogs of Chai Wang watching at that time.,ในตอนนั้น ก็ ไม่มีเหล่าสมุนของอ๋องไฉ เห็นเหตุการณ์
+R10070-2_1_16,"So, you still want to be Chai Wang's dog?",ถ้าเช่นนั้น... เจ้ายังคงอยากเป็น สุนัขของอ๋องไฉ เหมือนเดิมอย่างนั้นรึ?
+R10070-2_1_17,……,……
+R10070-2_1_18,"No, if you ask me, even a regular dog is not as loyal as you~",ไม่ถูกต้อง! ถ้าจะให้ข้าพูด หมาธรรมดาทั่วไป ยังไม่ซื่อสัตย์เท่าเจ้าเลย
+R10070-2_1_19,"I don't know what kind of soup this Chai guy gave you, that makes you so loyal.",ไม่รู้ว่าเจ้าแซ่ไฉ นั้นใช้ ยาเสน่ห์แบบใดกัน ถึงได้ทำให้เจ้าซื่อสัตย์ภักดีได้ถึงเพียงนี้
+R10070-2_1_20,"It can't be, because of his old man's beauty, right~",อย่าบอกนะว่า... เป็นเพราะหลงเสน่ห์ของไอ้แก่อ๋องไฉ คนนั้น!
+R10070-2_1_21,……,……
+R10070-2_1_22,"(Liu Fuming's face is ashen, oh no, did I go too far...)",(สีหน้าหลิวฝูหมิงเขียวคล้ำ... แย่แล้ว! สงสัยข้าจะพูดจาเกินเลยไปแล้ว...)
+R10070-2_1_23,...Pfft.,...พรูด
+R10070-2_1_24,"(Laugh, he laughed?! I didn't hear wrong, did I...)",(มันยิ้ม? หัวเราะ? ข้าไม่ได้หูฝาดไปใช่ไหมเนี่ย...)
+R10070-2_1_25,"Haha, hahaha——!",ฮ่าๆๆๆ! เคี๊ยกๆๆๆ!——!
+R10070-2_1_26,"(What's going on, did he get so angry that his brain got fried...)",(นี่มันเรื่องอะไรกัน? อย่าบอกนะ เจ้าหมอนี่โกรธจัด จนสติแตกธาตุไฟเข้าแทรกไปแล้ว..)
+R10070-2_1_27,"You little rascal, you really dare to say anything.",เจ้าหมอนี่... ช่างปากเก่ง เสียจริง
+R10070-2_1_28,"I work for Chai Wang for no particular reason, just because the guy saved my life.",ข้าทำงานให้อ๋องไฉไม่ได้มีเหตุผลอันใด เพียงแต่อ๋องไฉเคยช่วยชีวิตข้าไว้ เท่านั้นเอง
+R10070-2_1_29,Saving your life is not a special reason...,ช่วยชีวิตเจ้าไว้แล้วยังบอกว่า ไม่มีเหตุผลพิเศษอย่างนั้นรึ...
+R10070-2_1_30,...I never asked him for help.,...ข้า ก็ไม่เคยไปพึ่งพา เขาเลยแม้แต่ครั้งเดียว
+R10070-2_1_31,"If you didn't ask him for help, why do you always follow his orders?",หากเจ้าไม่เคยพึ่งพาเขา เหตุใดจึง ยอมเป็นเบี้ยล่างให้เขาสั่งการในทุกสิ่ง?
+R10070-2_1_32,"...That's all in the past. Are you going to dwell on the past, or do you want to hear what I have to say?",เรื่องนั้นมันจบไปนานแล้ว! เจ้าจะ ขุดคุ้ยเรื่องเก่าๆ อยู่อีกทำเพื่อ? แล้วเจ้ายังอยากจะฟัง ในสิ่งที่ข้าพูดอีกรึเปล่า?
+R10070-2_1_33,"I'd like to hear what you have to say, but you won't speak up...",ข้าก็อยากฟังว่าเจ้าจะพูดอะไรอีก แต่เจ้าก็ไม่ยอมพูดออกมาตรงๆ ซะที...
+R10070-2_1_34,……,……
+R10070-2_1_35,"I was once known as the ""White Robed Prime Minister"". Even the emperor didn't matter to me.","แต่ก่อน ข้าเคยถูกเรียกขานว่า ""อาลักษณ์ชุดขาว"" ขนาดฮ่องเต้ยังไม่เคยอยู่ในสายตา"
+R10070-2_1_36,"But look at me now, even a dog by Chai Wang's side can order me around.",ดูสิ... ตอนนี้แม้แต่สุนัขรับใช้ของอ๋องไฉ ก็ยังมาเห่าหอนตะคอกใส่ข้าได้
+R10070-2_2_1,"Don't talk about others, you're also a dog of Chai Wang.",ยังมีหน้า มาว่าคนอื่นอีก ตัวเจ้าเองก็เป็นแค่หมาตัวหนึ่ง ของอ๋องไฉเหมือนกัน
+R10070-2_3_1,"If you choose to be someone's dog, you can't blame others.",ก็เจ้าเสนอตัวเข้าไปเป็นสุนัขรับใช้ให้ผู้อื่นเอง จะไปโทษใครเขาได้
+R10070-2_4_1,"I'm new to the martial arts world, I've never seen the White Robed Prime Minister who fills in the royal decree. All I see is Liu Fuming, who works for Chai Wang and acts like his dog.","ข้าเพิ่งเข้าสู่ยุทธภพไม่นาน ไม่เคยเห็น ""อาลักษณ์ชุดขาวผู้รับร่างราชโองการ"" เลย เห็นแต่ สุนัขรับใช้ของอ๋องไฉ เท่านั้น"
+R10070-2_4_2,"Indeed, I threw my own face into the mud.",ถูกแล้ว! ข้ามันไร้ค่าเอง ข้าเองนี่แหละเป็นผู้ที่ โยนหน้าตาของข้า ทื้งลงให้ป่นปี้ จมโคลนตมด้วยน้ำมือของข้าเอง 
+R10070-2_4_3,"But now, I've decided to cut ties with Chai Wang and have nothing to do with him.",บัดนี้ ข้ากับคนแซ่ไฉได้ตัดขาดกันแล้วแล้ว นับต่อจากนี้ไปทางใครทางมัน!
+R10070-2_4_4,"You said you've never seen the White Robed Prime Minister, so from today on, let me show you what I'm capable of.",เมื่อครู่ เจ้าบอกว่าไม่เคยเห็น อาลักษณ์ชุดขาว เช่นข้าอย่างงั้นรึ? ดูท่าแล้ว คงต้องให้เจ้าได้เห็นกับตาเสียบ้างว่า อาลักษณ์ชุดขาวเมื่อครั้งกระโน้น มีความสามารถแค่ไหน
+R10070-2_4_5,(I guess this means I can invite him to join my team. This Liu Building owner is really not straightforward...),(เฮอะ! ก็แค่จะบอกให้ข้าชวนเขาเข้าร่วมด้วย ยังจะอ้อมค้อมอยู่ได้! เจ้าหอหลิวนี่น่ารำคาญจริง!)
+R10070-2_4_6,"Got it, I'll invite Liu Building owner when I need him~",ข้าเข้าใจแล้ว หากถึงคราวจำเป็น ข้าก็จะมาเชิญท่านเจ้าหอหลิว แน่นอน~
+R10070-2_5_1,...What are you doing here?,เจ้ามาทำอะไรที่นี่?
+R10070-2_5_2,"(Wow, he's really drunk. How much did Liu Fuming drink...)",(อื้อหือ กลิ่นสุราคละคลุ้ง! หลิวฝูหมิงนี่มันดื่มไปเท่าใดกันแน่...)
+R10070-2_5_3,I came to see how Liu Building owner is doing on a whim.,นึกครึ้มอกครึ้มใจขึ้นมา ว่างๆ เลยแวะมาดูว่าท่านเจ้าหอหลิวเป็นไงบ้างน่ะ
+R10070-2_5_4,"...If you want to mock me, just say it. No need to beat around the bush.",...อยากเยาะเย้ยข้าก็พูดมาตรงๆ ไม่ต้องอ้อมค้อม
+R10070-2_5_5,What am I mocking you for...,ข้าไปเยาะเย้ยเจ้าเรื่องใดกันเล่า!...
+R10070-2_5_6,"Stop pretending. If it weren't for you ruining my plans, I wouldn't be in this situation.",เลิกเสแสร้งได้แล้ว! หากไม่ใช่เพราะเจ้ามาทำลายเรื่องดีๆ ของข้า ข้าจะตกอยู่ในสภาพนี้ได้อย่างไร?
+R10070-2_5_7,"I didn't go looking for you, but you came to me. Perfect, I'll use you to drink today...",คิดไม่ถึงว่าเจ้าจะเสนอหน้ามาถึงที่! ดี! ดียิ่งนัก!  วันนี้แหละจะใช้เจ้าเป็นกับแกล้มดื่มสุรา ให้หายแค้น!
+R10070-2_5_8,Ew...,แหวะ..อ๊อก..
+R10070-2_5_9,I'm going to throw up...,ข้าดื่มต่อไม่ไหวแล้ว...
+R10070-2_6_1,You deserve this miserable state.,สภาพอนาถเช่นนี้ เจ้ามันสมควรได้รับมันแล้ว!
+R10070-2_7_1,"Liu Fuming, you've seen better days.",หลิวฝูหมิง เจ้าก็มีวันนี้เหมือนกันสินะ
+R10070-2_8_1,What's with that look! I don't need your pity!,แววตาเช่นนั้นหมายความว่าอะไร! ข้าไม่ต้องการความสงสารจากเจ้า!
+R10070-2_8_2,"I, Liu Fuming, used to fill in the royal decree, and was known as the ""White Robed Prime Minister""!","ข้า หลิวฝูหมิง อย่างน้อยก็เคยเป็น ผู้รับร่างราชโองการ ที่ถูกขนานนามว่า ""อาลักษณ์ชุดขาว"" !"
+R10070-2_8_3,"I, I...",ข้า... ข้า...
+R10070-2_8_4,……,……
+R10070-2_8_5,"May I ask the White Robed Prime Minister, how's the wine in Duke Chai's Tower?",ถ้าเช่นนั้น ข้าขอถาม อาลักษณ์ชุดขาว ท่านนี้หน่อยเถิด... สุราในตำหนักอ๋องไฉ รสชาติเป็นอย่างไรบ้าง?
+R10070-2_8_6,……,……
+R10070-2_8_7,"I'm new to the martial arts world, I've never seen the White Robed Prime Minister who fills in the royal decree. All I see is Liu Fuming, who works for Chai Wang and acts like his dog.","ข้าเพิ่งเข้าสู่ยุทธภพไม่นาน ไม่เคยเห็น ""อาลักษณ์ชุดขาวผู้รับร่างราชโองการ"" เลย เห็นแต่ สุนัขรับใช้ของอ๋องไฉ เท่านั้น"
+R10070-2_8_8,"I don't know what your so-called White Robed Prime Minister represents. All I know is that the current Liu Fuming can't even talk back when he's insulted by Song Yushu, who works for Chai Wang.",ข้าไม่รู้หรอกว่าเจ้าจะเคยเป็น อาลักษณ์ชุดขาว ข้ารู้เพียงแค่ หลิวฝูหมิงในตอนนี้ ที่แม้แต่ ซ่งอวี้ซู ที่เป็นแค่เด็กรับใช้อ๋องไฉ ด่าทอ ก็ยังไม่กล้าปริปากโต้ตอบ เลยด้วยซ้ำ
+R10070-2_8_9,"I don't know what kind of leverage Chai Wang has on you, but if you can tolerate such treatment, I can only say you brought it on yourself.",ข้าไม่รู้ว่าอ๋องไฉกุมจุดอ่อนอันใดของเจ้าไว้ แต่หากถูกกระทำถึงขนาดนี้ แล้วยังอดทนได้ ข้าก็ได้แต่บอกว่า สมน้ำหน้า
+R10070-2_8_10,"If filling in the royal decree and being the White Robed Prime Minister are so important to you, why did you step on them and throw them into the mud?",หาก อาลักษณ์ชุดขาวผู้รับร่างราชโองการ มีความหมายต่อเจ้าถึงเพียงนั้น... ไฉนเจ้าจึงเป็นผู้ที่ย่ำยี ทิ้งศักดิ์ศรีของเจ้า สู่โคลนตมด้วยน้ำมือของเจ้าเอง?
+R10070-2_8_11,……,……
+R10070-2_8_12,"I'm not afraid of you, what's the use of glaring at me?",ข้าไม่ได้กลัวเจ้าสักหน่อย เจ้าจะจ้องข้าไปก็ไร้ประโยชน์?
+R10070-2_8_13,"You can't even muster the courage to argue with me, can you?",เจ้าคงจะไม่มีแม้แต่ความกล้า ที่จะโต้ตอบข้าสักสองสามคำ แล้วกระมัง?
+R10070-2_8_14,You really dare to say anything.,"ให้ตายเถอะ, เจ้านี่มันปากดีจริงนะ..."
+R10070-2_8_15,"...But you're right. I can't blame anyone else for my current situation, only myself.",...แต่ท่านพูดถูกแล้ว ที่ต้องมาตกอยู่ในสภาพเช่นนี้ ก็โทษใครไม่ได้นอกจากตัวเอง
+R10070-2_8_16,I threw my own face into the mud.,ข้าเองนี่แหละเป็นผู้ที่ โยนหน้าตาของข้า ทื้งลงให้ป่นปี้ จมโคลนตมด้วยน้ำมือของข้าเอง
+R10070-2_8_17,But it's up to me to pick it up.,ในเมื่อเป็นเช่นนี้ ข้าก็ควรเป็นผู้ที่กอบกู้สิ่งเหล่านั้น กลับคืนมาด้วยสองมือของข้าเอง
+R10070-2_8_18,What about Chai Wang...,แล้วทางอ๋องไฉเล่า...
+R10070-2_8_19,To hell with Chai Wang.,ช่างหัวอ๋องไฉนั่นเถอะ!
+R10070-2_8_20,"Me, even the emperor doesn't matter to the White Robed Prime Minister, what makes you think you matter?",ข้าผู้เป็นอาลักษณ์ชุดขาว ขนาดฮ่องเต้ยังไม่เคยอยู่ในสายตา แล้วไอ้คนแซ่ไฉ มันจะนับเป็นอะไรได้?
+R10070-2_8_21,...Have you thought it through?,..เจ้าคิดถี่ถ้วนดีรึยัง?
+R10070-2_8_22,"Hmm, just a bit annoyed that you woke me up with your scolding.","อืม, แค่ถูกเจ้าด่าจนคิดได้ ก็รู้สึกไม่ค่อยสบอารมณ์เท่าไหร่"
+R10070-2_8_23,"You said you've never seen the White Robed Prime Minister, right?",เมื่อครู่เจ้าบอกว่าไม่เคยเห็น อาลักษณ์ชุดขาวใช่ไหม?
+R10070-2_8_24,"It seems, I need to show you what the White Robed Prime Minister was capable of back then.",ดูท่าแล้ว คงต้องให้เจ้าได้เห็นกับตาเสียบ้างว่า อาลักษณ์ชุดขาวเมื่อครั้งกระโน้น มีความสามารถแค่ไหน 
+R10070-2_8_25,(I guess this means I can invite him to join my team. This Liu Building owner is really not straightforward...),(เฮอะ! ก็แค่จะบอกให้ข้าชวนเขาเข้าร่วมด้วย ยังจะอ้อมค้อมอยู่ได้! เจ้าหอหลิวนี่น่ารำคาญจริง!)
+R10070-2_8_26,"Got it, I'll invite Liu Building owner when I need him~",ข้าเข้าใจแล้ว หากถึงคราวจำเป็น ข้าก็จะมาเชิญท่านเจ้าหอหลิว แน่นอน~
+R10070-3_1_1,"As the master of the Tower of Prosperity, how can I roam the martial world with you?",ข้าเป็นถึงเจ้าของหอเจิดจรัส เลิศหรู จะให้ร่วมท่องยุทธภพกับเจ้าได้อย่างไร?
+R10070-3_2_1,"White Robed Prime Minister, how can you fall into the mud again?",อาลักษณ์ชุดขาว เช่นข้า จะยอมให้ตนเอง ตกต่ำสู่โคลนตม อีกได้อย่างไรกัน?
+R10070-3_3_1,"If you sincerely want to invite Me, at least make a spot for Me, right?",หากเจ้ามีความจริงใจที่จะเชื้อเชิญข้า อย่างน้อยก็ควรเตรียมที่ว่างให้ข้าสักที่?
+R10070-3_4_1,Let's go.,ไปกันเถอะ!
+R10070-4_name,Duke Chai's Tower Treasure Hunt,ปฏิบัติการตามหาของ ตำหนักอ๋องไฉ
+R10070-4_log_1,"Liu Fuming needs to find something in a jar at Duke Chai's Tower, take him with you.",หลิวฝูหมิง ต้องไปตามหาของในโถใบหนึ่ง ที่ตำหนักอ๋องไฉ พาเขาไปด้วยกันเถอะ
+R10070-4_log_2,The thing Liu Fuming is looking for should be in the study of Duke Chai's Tower.,สิ่งที่หลิวฝูหมิงต้องการหานั้น น่าจะอยู่ในห้องหนังสือในตำหนักอ๋องไฉ
+R10070-4_1_1,"{PlayerName}, I already know about the Phoenix Woods Harbor incident.","{PlayerName} ,เรื่องที่ท่าเรือป่าหงส์ ข้ารู้แล้ว"
+R10070-4_2_1,I didn't expect you to be able to catch that old fox with the surname Chai.,ไม่นึกเลยว่าเจ้าจะมีฝีมือถึงขั้น จับหางสุนัขจิ้งจอกเฒ่าแซ่ไฉได้!
+R10070-4_2_2,"Haha, I didn't expect to catch him either.",ฮ่าฮ่า! ข้าก็ไม่นึกไม่ฝันเลยว่าจะจับได้จริง!
+R10070-4_2_3,"Although the one with the surname Ji also contributed, but... well done.",ถึงแม้ผู้แซ่จี้ คนนั้นจะมี คุณงามความชอบที่ไม่อาจปฏิเสธได้ แต่ว่า... เจ้า ทำได้ดีมาก
+R10070-4_3_1,"Your confrontation with the one surnamed Chai was indeed exciting, but unfortunately, it seems he is still superior.",การเผชิญหน้าของเจ้ากับ ไอ้คนแซ่ไฉนั้น เร้าใจยิ่งนัก แต่ก็น่าเสียดาย... ดูเหมือนว่า เขายังเหนือกว่าเจ้าอยู่ก้าวหนึ่ง
+R10070-4_3_2,"Next time I see that guy, I will definitely avenge this arrow!",ครั้งหน้าหากได้เจอหน้าไอ้หมอนั่นอีก ข้าจะต้อง ชำระแค้นนี้ ให้จงได้!
+R10070-4_3_3,"That old fox is very cunning, I'm afraid it won't be that easy.",เจ้าจิ้งจอกเฒ่านั่นมัน เจ้าเล่ห์นัก เกรงว่าคงไม่ง่ายดายนักหรอก
+R10070-4_3_4,"Liu Fuming, you're not just trying to be sarcastic, are you?","หลิวฝูหมิง เจ้าคงมิได้จงใจพูดจาถากถางข้า ใช่ไหม?"""
+R10070-4_3_5,"Of course not, I just suddenly remembered something.",จะเป็นไปได้อย่างไร ข้าก็แค่ บังเอิญนึกถึงเรื่องหนึ่งมาเท่านั้น
+R10070-4_3_6,What's the matter?,เรื่องอันใด?
+R10070-4_4_1,"Well, some people, they call others Chai Wang's dog, but when they open their mouth, they bark just the same.","เหอะ! บางคนก็ปากดี ว่าผู้อื่นเป็นสุนัขรับใช้อ๋องไฉ แต่พอตัวเอง ก็ดันเห่าหอนแสดงความโง่ ไม่ต่างกันเลย!"""
+R10070-4_4_2,"I didn't think much at the time, I just thought...",ตอนนั้นข้าก็มิได้คิดมากอะไร เพียงแต่คิดว่า...
+R10070-4_4_3,"Forget it, I'm not interested in your thought process, I just suddenly remembered something.",ช่างเถอะ ข้ามิได้อยากรู้เรื่องราวในใจของเจ้าหรอก ข้าเพียงแค่นึกถึงเรื่องหนึ่ง ขึ้นมาเท่านั้นเอง
+R10070-4_4_4,What's the matter?,เรื่องอันใด?
+R10070-4_5_1,"Hehe, you really are a reckless guy, you scared that old fox Chai Wang into hiding.",ฮ่าฮ่า! เคี๊ยกๆ ! เจ้ามันช่างเป็นตัวก่อกวนเสียจริง ทำให้เจ้าจิ้งจอกเฒ่าแซ่ไฉ หวาดกลัวจนไม่กล้าโผล่หัวเลยหรือนี่!
+R10070-4_5_2,"I, I just...","ข้า, ข้าก็แค่..."
+R10070-4_5_3,"You just did what I wanted to do but didn't dare to, there's nothing to say.",เจ้าเพียงแค่ลงมือทำ ในสิ่งที่ข้าไม่กล้าทำมาโดยตลอด..ไม่จำเป็นต้องเอ่ยสิ่งใดอีก
+R10070-4_6_1,"Blade Destruction Army Commander Han Anren died unexpectedly, Chai Wang's case was shelved.",แม่ทัพหานอันเหริน แห่งกองทัพดาบพิฆาต จบชีวิตลงอย่างอนาถ คดีความของอ๋องไฉ จึงถูกระงับไป
+R10070-4_6_2,You're really something.,เจ้า ช่างยอดเยี่ยมยิ่งนัก
+R10070-4_6_3,"I've been annoyed with him for a long time, what, you want to say something?",ไอ้หมอนั่น ข้าไม่สบอารมณ์มานานแล้ว เจ้าจะ พูดอะไรก็รีบว่ามา!
+R10070-4_6_4,"Nothing, what you want to do is your freedom, I just suddenly remembered something.",ไม่มีอะไรหรอก เจ้าจะทำอะไรก็ตามใจเจ้านั่นแหละ ข้าก็แค่บังเอิญนึกถึงเรื่องหนึ่งมาเท่านั้น
+R10070-4_6_5,What's the matter?,เรื่องอันใด?
+R10070-4_7_1,"{PlayerName}, have you been to all the rooms in Duke Chai's Tower?",{PlayerName}，ห้องเหล่านั้นในตำหนักอ๋องไฉ... เจ้าเคยไปมาหมดแล้วหรือ?
+R10070-4_7_2,What's wrong?,มีอะไรรึ?
+R10070-4_7_3,"There's something in that room that should be mine, I want to get it back.",ในห้องนั้นมีของสิ่งหนึ่งที่เป็นของข้า ข้าอยากจะเอามันคืนมา
+R10070-4_7_4,"The place should be empty by now, why don't you just go and get whatever you want?",ที่นั่นตอนนี้ควรจะ ไร้ผู้คน แล้วนี่ เจ้าอยากได้อะไรก็ไปเอาเองเลยไม่ดีกว่ารึ?
+R10070-4_7_5,"Because I can't do it, that's why I'm asking for your help.",เพราะทำไม่ได้นั่นแหละ ถึงได้ร้องขอให้เจ้าช่วย
+R10070-4_7_6,Can't do it?,ทำไม่ได้รึ? กากแท้
+R10070-4_7_7,"You don't need to worry about that, will you help or not?",เจ้าไม่ต้องสนใจเรื่องอื่นแล้ว เจ้าจะช่วยหรือไม่ช่วย?
+R10070-4_7_8,"I didn't say I wouldn't help, but I don't know what your thing looks like, how can I help you find it?",ข้ายังไม่ได้บอกเลยว่าจะไม่ช่วย แล้วของของเจ้าเป็นเช่นไร เจ้าก็ไม่บอก จะให้ข้าช่วยตามหาได้อย่างไรกัน?
+R10070-4_7_9,"...That thing must be soaked in liquid, it should be in one of Chai Wang's jars.",...ของสิ่งนั้นต้องแช่น้ำไว้ คาดว่าอยู่ในโถใบหนึ่ง ของอ๋องไฉเป็นแน่
+R10070-4_7_10,A jar...,โถใบหนึ่ง...
+R10070-4_7_11,"Got it, I'll go look for it.",อ้อ...รู้แล้ว ข้าจะไปตามหาให้ ก็แล้วกัน
+R10070-4_8_1,"...Yes, the thing I'm looking for is in this room.",..ถูกแล้ว! สิ่งที่ข้าตามหานั้น อยู่ในห้องนี้เอง
+R10070-4_8_2,Are you sure?,เจ้าแน่ใจเหรอ ?
+R10070-4_8_3,"Yes, I can feel it, it's here, no mistake.",เออสิว่ะ... ข้า รับรู้ได้ด้วยใจ ว่าอยู่ที่นี่ไม่ผิดแน่
+R10070-4_8_4,Feel?,รับรู้ได้ด้วยใจ ?
+R10070-4_9_1,"...Yes, this is it.",...เจอแล้ว! นี่แหละคือของที่ข้าต้องการ! ของรักของข้า!
+R10070-4_9_2,"{PlayerName}, help Me take it down, but be careful not to break the jar.",{PlayerName}，ช่วยหยิบมันลงมาให้ข้าหน่อย แต่ระวังอย่าให้โถ มันแตกเข้าล่ะ
+R10070-4_9_3,"You found the thing, can't you take it yourself?",ของก็หาเจอแล้ว เจ้าหยิบเองไม่ได้รึ?
+R10070-4_9_4,"...I told you, if I could do it, I wouldn't bother you.",...ข้าบอกไปแล้ว หากข้าทำได้ ก็คงไม่รบกวนเจ้าหรอก
+R10070-4_9_5,This is suspicious.,น่าสงสัย...
+R10070-4_9_6,The smell coming from this jar... is it blood?,กลิ่นที่ออกมาจาก โถใบนี้... นี่มันคือกลิ่นคาวเลือด ?
+R10070-4_9_7,"...Yes, it's blood, and it's human blood.",..อืม... ใช่แล้ว กลิ่นเลือด และยังเป็นเลือดของคนอีกด้วย
+R10070-4_9_8,Human blood? Does Chai Wang have such a hobby...,เลือดคน! อ๋องไฉผู้นี้ ถึงกับมีความชอบพิสดาร เช่นนี้ด้วยรึ...
+R10070-4_10_1,"Wait a minute, young man, there's more than just human blood here...",เดี๋ยวก่อน ... ที่นี่ ไม่ได้มีแค่เลือดคน เท่านั้น..
+R10070-4_10_2,Could there be something else?,อะไรอีก... ยังมีสิ่งอื่นอีกอย่างนั้นรึ?
+R10070-4_10_3,"Yes, this feeling, it should be the Inseparable Gu worm. But it's strange, how could this be possible...",อืม... ความรู้สึกนี้ น่าจะเป็นหนอนกู่สยบวิญญาณ มันแปลกยิ่งนัก...มันเป็นไปได้อย่างไร
+R10070-4_10_4,"As expected of the Jiuli Tribe's saintess, you can even sense this.",สมแล้วที่เป็น ธิดาเทพแห่งเผ่าจิ่วลี่ แม้แต่สิ่งนี้ก็ยังสัมผัสได้!
+R10070-4_10_5,"That's right, the worm in this jar is the Inseparable Gu worm.",มิผิดแน่! สิ่งนี้เองที่อยู่ในโถใบนี้ คือ หนอนกู่สยบวิญญาณ!
+R10070-4_11_1,"No, there's something else in this jar...",ไม่ถูกต้อง! โถใบนี้มัน...
+R10070-4_11_2,Could there be a Gu worm?,หรือว่า...มันมีหนอนกู่ อยู่ข้างใน?
+R10070-4_11_3,"Yes, there is indeed a Gu worm here, and it's the Inseparable Gu worm.",ถูกต้อง ที่นี่มีหนอนกู่อยู่จริง และยังเป็น หนอนกู่สยบวิญญาณ เสียด้วย!
+R10070-4_11_4,Inseparable Gu... but how could this be possible...,หนอนกู่สยบวิญญาณ!...เป็นไปไม่ได้!..
+R10070-4_12_1,"...No matter what you're thinking, this is not his hobby.",...ไม่ว่าเจ้าจะคิดสิ่งใด แต่สิ่งนี้มิใช่สิ่งที่ ตาแก่นั่นจะชื่นชอบแม้แต่น้อย
+R10070-4_12_2,"The thing in this jar is a Gu worm, the Inseparable Gu worm.",ของในโถใบนี้คือหนอนกู่... หนอนกู่สยบวิญญาณ!
+R10070-4_13_1,The Inseparable Gu worm...,หนอนกู่สยบวิญญาณ...
+R10070-4_14_1,Is it the same kind of thing as my Symbiotic blood worm?,หรือว่ามันคือ กู่ประเภทเดียวกันกับ กู่โลหิตแฝงร่างที่ฝังอยู่ในตัวข้า?
+R10070-4_14_2,"Symbiotic blood worm... ha, I didn't expect we have some things in common.",กู่โลหิตแฝงร่าง...ฮ่าๆ ไม่อยากจะเชื่อเลยว่า เราจะมีอะไรที่เหมือนกัน!
+R10070-4_15_1,"Young man, these two types of Gu are somewhat similar, but not exactly the same.",ท่าน..กู่ทั้งสองนี้มีลักษณะคล้ายกัน แต่ว่ามันก็ไม่เหมือนกันซะทีเดียว
+R10070-4_15_2,"This Inseparable Gu is a pair of love Gu, one male and one female, planted in a man and a woman respectively. After planting, the two Gu worms can sense each other, no matter how far apart they are, if one dies, the other will devour the host's heart.",หนอนกู่สยบวิญญาณ แท้จริงคือกู่ผูกชะตาแห่งความรัก ถูกฝังแยกในชายหญิง เมื่อฝังไว้แล้ว กู่ทั้งสองจะสามารถรับรู้ถึงกันได้ หากฝ่ายใดฝ่ายหนึ่งตาย กู่อีกฝ่ายหนึ่งก็จะกัดกินเส้นชีพจรหัวใจของอีกคน ทันที
+R10070-4_15_3,Can't you Jiuli Tribe come up with a more normal love Gu...,กู่รักที่ชนเผ่าจิ่วลี่ ของพวกเจ้าคิดค้นมันขึ้นมานี่ มันไม่มีแบบปกติธรรมดา กว่านี้เลยหรือไง...
+R10070-4_16_1,"This is a kind of love Gu from Jiuli, if either party dies, the other will follow. It's what they call ""Together forever"".","นี่คือกู่รักของเผ่าจิ่วลี่ ไม่ว่าฝ่ายใดฝ่ายหนึ่งตาย อีกฝ่ายก็จะตายตามไปด้วย ดุจดังชะตากรรม ""เคียงคู่ร่วมเป็นร่วมตาย ผูกพันชั่วนิรันดร์""!"
+R10070-4_16_2,"As expected, there's not a single normal love Gu from Jiuli Tribe...",เฮ้อ..ตามคาด! กู่รักของเผ่าจิ่วลี่ ไม่มีแม้แต่ชนิดเดียวที่ปกติ...
+R10070-4_17_1,"It sounds powerful, what's its specific use?",ฟังดูน่าทึ่ง... แต่ว่า มันมีประโยชน์อันใด?
+R10070-4_18_1,"Young man, this Inseparable Gu is a pair of love Gu, one male and one female, planted in a man and a woman respectively. After planting, the two Gu worms can sense each other, no matter how far apart they are, if one dies, the other will devour the host's heart.",ท่าน..หนอนกู่สยบวิญญาณ แท้จริงคือกู่ผูกชะตาแห่งความรัก ถูกฝังแยกในชายหญิง เมื่อฝังไว้แล้ว กู่ทั้งสองจะสามารถรับรู้ถึงกันได้ หากฝ่ายใดฝ่ายหนึ่งตาย กู่อีกฝ่ายหนึ่งก็จะกัดกินเส้นชีพจรหัวใจของอีกคน ทันที
+R10070-4_18_2,Such a powerful Gu?!,หนอนกู่...ร้ายกาจถึงเพียงนี้เชียวรึ?!
+R10070-4_19_1,"This is a kind of love Gu from Jiuli, if either party dies, the other will follow. It's what they call ""Together forever"".","นี่คือกู่รักของเผ่าจิ่วลี่ ไม่ว่าฝ่ายใดฝ่ายหนึ่งตาย อีกฝ่ายก็จะตายตามไปด้วย ดุจดังชะตากรรม ""เคียงคู่ร่วมเป็นร่วมตาย ผูกพันชั่วนิรันดร์"""
+R10070-4_19_2,This... Jiuli Tribe actually has such a love Gu...,นี่...เผ่าจิ่วลี่ ยังมีกู่คู่รักผูกชะตา เช่นนี้อยู่อีกหรือนี่!
+R10070-4_20_1,"Wait, you just said this is your thing, then...",ช้าก่อน! เจ้าเพิ่งจะบอกว่า นี่เป็นของเจ้า เช่นนั้น...?
+R10070-4_20_2,"...To be precise, this is my deceased wife's thing.",...กล่าวให้แน่ชัด สิ่งนี้เป็นของภรรยาผู้ล่วงลับของข้า
+R10070-4_20_3,"Deceased wife... but you're still alive, didn't your deceased wife plant this Gu? Or did your deceased wife do it with someone else...",นางจากโลกไปแล้ว...แต่เจ้ายังคงมีชีวิตอยู่ ใยกู่คู่รักนั่นจึงมิได้คร่าชีวิตเจ้าไปพร้อมกัน? หรือว่านาง...ไปผูกพันกับผู้อื่น?
+R10070-4_20_4,
+R10070-4_20_5,"Just kidding, don't take it so seriously...",ล้อเล่นน่ะ อย่าคิดเป็นจริงเป็นจังสิ
+R10070-4_20_6,"I should have been dead, but that Chai guy had someone save my life.",เดิมทีข้าควรจะตายไปแล้ว แต่ไอ้แก่แซ่ไฉผู้นั้น ได้หาคนมาช่วยชีวิตข้าไว้
+R10070-4_21_1,"This is one of the most intense Gu from Jiuli, is there anyone in the Central Plains who can solve it?",นี่คือหนอนกู่ที่ร้ายกาจที่สุดของเผ่าจิ่วลี่เชียวนะ หรือว่าในจงหยวน ยังมีคนที่สามารถแก้ไข ถอนมันได้?
+R10070-4_21_2,"...As you said, the person who saved my life is not from the Central Plains, and you know this person.",...ดังที่เจ้ากล่าว ผู้ที่ช่วยชีวิตข้าไว้มิใช่คนจงหยวน และคนผู้นั้น เจ้าก็รู้จักด้วย
+R10070-4_21_3,Could it be...,มันอาจจะเป็น..
+R10070-4_22_1,"From what you said, this Gu should be Together forever... who exactly was able to save your life?",ฟังจากคำเจ้า...กู่นั้นย่อมเป็นกู่ผูกชะตา...เช่นนั้นแล้ว ผู้ใดกันเล่าที่สามารถรักษาชีวิตเจ้าไว้ได้?
+R10070-4_23_1,"The Clan Leader of the Jiuli Tribe, Miao Muli.","หัวหน้าเผ่าจิ่วลี่, เมี้ยวมู่หลี"
+R10070-4_24_1,Indeed...,ดังที่คาดไว้..
+R10070-4_25_1,Does Chai Wang still have contact with the Jiuli Tribe...,อ๋องไฉและเผ่าจิ่วลี่ มีการติดต่อกันอยู่หรือไม่..?
+R10070-4_25_2,"That guy somehow controlled the Inseparable Gu worm, extracted the Gu worm from my deceased wife's body, and put it in this specially made jar. As long as I touch this jar, the Gu worm in my body will go out of control.",ไอ้หมอนั่นไม่รู้ใช้วิธีใดถึงได้ ควบคุมหนอนกู่สยบวิญญาณนี้ได้ แถมยัง ดึงหนอนกู่ในร่างภรรยาผู้ล่วงลับของข้าออกมา แล้วนำมาใส่ไว้ในโถนี้ ถ้าหากข้าแตะต้องไโถใบนี้ หนอนกู่ในตัวข้าก็จะคลุ้มคลั่ง
+R10070-4_25_3,"Since then, fresh human blood needs to be put into this jar every year to nourish and deceive the Gu worm here.",นับจากนั้น โถใบนี้จะต้องใส่เลือดของคนลงไปทุกปี เพื่อบำรุงและหลอกหนอนกู่ ที่อยู่ในนี้
+R10070-4_25_4,"{PlayerName}, you asked me before, what kind of handle does Chai Wang have on me, this is the handle he has on me.",{PlayerName}，หากเจ้ายังจำได้ ที่เคยถามถึงจุดอ่อนของข้า ที่อ๋องไฉกุมอยู่...ก็คือเรื่องนี้แหละ!
+R10070-4_25_5,"But now he's gone, why did he leave this jar behind?",น่าแปลก! ยามนี้เขาจากไป ตำหนักว่างเปล่า เหตุใดจึงต้องทิ้งโถใบนี้ไว้เล่า?
+R10070-4_25_6,"Thanks to someone, he didn't get a chance to take it away.",ก็เพราะไอ้หน้าไหนไม่รู้...ทำให้เขาหมดสิทธิ์นำสิ่งนั้นติดตัวไปได้!
+R10070-4_25_7,"Anyway, now that I have this back, I am truly free.",ไม่ว่าจะอย่างไรก็ตาม เมื่อได้สิ่งนี้กลับคืนมา บัดนี้จึงนับได้ว่า เป็นอิสระอย่างแท้จริง
+R10070-4_25_8,"So, what are you going to do next?",หลังจากนี้แล้ว เจ้าตั้งใจจะทำอะไรต่อไป?
+R10070-4_25_9,My clan uncle has been looking for a way to remove the Gu worm from my body in the Southwest region.,อาของข้าน่ะ เขาได้ทุ่มเท คอยหาทางเอากู่ ออกจากร่างข้าตลอดเลย ที่แดนตะวันตกเฉียงใต้นี่แหละ
+R10070-4_25_10,Clan uncle...,ท่านอา...
+R10070-4_25_11,Could it be Liu Bencao?,หรือว่าเป็น หลิวเปิ่นเฉ่า?
+R10070-4_25_12,Yes.,ใช่แล้ว!
+R10070-4_25_13,"He told me a few days ago that he found a way, but the chances of success are only seventy percent.",เมื่อไม่กี่วันก่อน เขากล่าวกับข้าว่า ได้พบวิธีหนึ่งแล้ว แต่ว่าโอกาสที่จะสำเร็จก็มีเพียงเจ็ดส่วนเท่านั้น
+R10070-4_26_1,"(Damn, Liu Bencao was previously visited by me...)",(แย่แล้ว! หลิวเปิ่นเฉ่าผู้นั้น ข้าเคย....)
+R10070-4_26_2,What does that expression mean?,ท่าทีเช่นนั้นของเจ้า...หมายความว่าอย่างไร?
+R10070-4_26_3,"To be honest, I visited him a few days ago, but he's already...",หากไม่ปิดบัง เมื่อไม่กี่วันก่อนข้าได้เยี่ยมเยือนเขา แต่เขากลับ...ไม่อยู่แล้ว
+R10070-4_26_4,It's possible that he was found by the enemies of the Jiuli Tribe...,อาจเป็นไปได้ว่า ถูกคนของเผ่าจิ่วลี่บุกไปจับตัวเขาไป!
+R10070-4_26_5,...Sigh.,…เฮ้อ
+R10070-4_26_6,"If that's the case, it's my fate.",หากเป็นเช่นนั้น นี่ก็ถือเป็นชะตาชีวิตของข้า
+R10070-4_26_7,What are you doing?,เจ้าคิดจะทำอะไร?
+R10070-4_26_8,"If I can't regain my freedom, what's the point of living...",เมื่อหนทางสู่อิสรภาพมันมืดมิด...ข้าจะยังมีชีวิตอยู่อีกเพื่อสิ่งใดเล่า...
+R10070-4_26_9,"Ah Feng, I can finally see you again...",อาฮวาง… ในที่สุด ข้าก็จะได้พบเจ้าอีกครั้งแล้ว…
+R10070-4_26_10,This... how can this be...,มันเป็นไปได้ยังไงกัน... เหลือจะเชื่อ...
+R10070-4_27_1,Then you...,เช่นนั้น...แล้วเจ้าเล่า..?
+R10070-4_27_2,"If this thing exists, I will be controlled by others sooner or later, so, why not give it a try.",หากของสิ่งนี้ยังอยู่ ข้าก็ต้องโดนคนอื่นบงการอยู่ดี...ไฉนจะไม่ลองเสี่ยงดูเล่า!
+R10070-4_27_3,"{PlayerName}, keep this thing safe, let's go to the Southwest Plant House.",{PlayerName} ，เจ้าจงเก็บรักษาสิ่งนี้ไว้ให้ดี...แล้วเราไปที่ตำหนักพฤกษา แดนตะวันตกเฉียงใต้
+R10070-5_name,Difficult to Remove Blood Gu,พิษเลือดกู่ยากจะถอน
+R10070-5_log_1,Go to the Southwest region and ask Liu Bencao how to remove the Gu worm from Liu Fuming's body.,จงมุ่งหน้าไปยัง แดนตะวันตกเฉียงใต้ ตามหาหลิวเปิ่นเฉา เพื่อถามวิธีถอนพิษหนอนกู่ ในร่างของหลิวฝูหมิง
+R10070-5_log_2,"If you're determined, go to the Plant House in the Southwest region and ask Liu Bencao to remove the Gu worm from Liu Fuming.",หากเจ้าตัดสินใจแน่วแน่แล้ว ก็เดินทางไปยัง ตำหนักพฤกษา ในแดนตะวันตกเฉียงใต้ ให้หลิวเปิ่นเฉาถอนพิษหนอนกู่ให้หลิวฝูหมิง
+R10070-5_1_1,"Mr. Liu, don't blame me, Cruel Heart, Liu Fuming is such a useful person, it would be a waste if I didn't try to control him.",ท่านหลิว ท่านอย่าได้กล่าวโทษข้าว่าจิดใจอำมหิตเลย คนอย่างหลิวฝูหมิงนั้น ใช้งานได้ดีนัก หากข้าไม่คิดหาวิธีควบคุมเขาไว้ข้างกาย ก็ช่างเป็นเรื่องที่น่าเสียดายโดยแท้
+R10070-5_1_2,"Now that you're dead, he can only obey me...",บัดนี้เจ้าตายแล้ว เขาก็เหลือทางเลือกแค่เชื่อฟังคำสั่งของข้าเท่านั้น…
+R10070-5_1_3,I heard that.,ข้าได้ยินหมดแล้ว
+R10070-5_1_4,"{PlayerName}, what do you mean?",{PlayerName} เจ้าหมายความว่าอย่างไร!?
+R10070-5_1_5,"You're such a useful dog, of course I want to keep you by my side.",เจ้ามีประโยชน์ถึงเพียงนี้ แน่นอนว่าข้าต้องเก็บเจ้าไว้ข้างกายข้า
+R10070-5_1_6,You...,เจ้า…
+R10070-5_1_7,"Now your life is in my hands, what can you do?",ตอนนี้ชีวิตเจ้าก็อยู่ในมือข้าแล้ว เจ้าจะทำอะไรได้?
+R10070-5_1_8,"I will never be controlled by others again, today it's either you die or I live!",ข้าจะไม่ยอมตกอยู่ใต้บัญชาผู้อื่นอีกต่อไป วันนี้ถ้าเจ้าไม่ตายข้าก็ตาย!
+R10070-5_2_1,"You're no match for me, why struggle?",เจ้าไม่ใช่คู่มือของข้า แล้วจะดิ้นรนไปทำไม?
+R10070-5_2_2,You should just listen to me...,เจ้าควรจะเชื่อฟังข้าเสียเถอะ…
+R10070-5_2_3,Wishful thinking!,เพ้อเจ้อสิ้นดี!
+R10070-5_2_4,"Save your energy, I won't fall for the same trick twice.",อย่าสิ้นเปลืองเรี่ยวแรงไปเลย กลลวงเช่นนี้ ข้าจะไม่ยอมหลงกลเจ้าอีกเป็นครั้งที่สอง
+R10070-5_2_5,Tsk...,เฮ้อ…
+R10070-5_2_6,"It seems, this is my fate...",ดูท่า นี่ก็คงเป็นชะตาของข้า…
+R10070-5_2_7,"If I can't regain my freedom, what's the point of living...",ไร้ซึ่งความหวังที่จะเป็นอิสระ เช่นนั้นข้าจะมีชีวิตอยู่ต่อไปเพื่อสิ่งใด…
+R10070-5_2_8,"Ah Feng, I can finally see you again...",อาฮวาง… ในที่สุด ข้าก็จะได้พบเจ้าอีกครั้งแล้ว…
+R10070-5_2_9,How... how did this guy become so tough...,นี่... เหตุใดเจ้าหมอนี่มันถึงดุดันได้ถึงเพียงนี้...
+R10070-5_2_10,"Sigh, if I had known this, I might as well have spared his life...",เฮ้อ หากรู้เช่นนี้ ข้าน่าจะไว้ชีวิตเขาไว้ตั้งแต่แรก…
+R10070-5_3_1,"Fuming, young hero {PlayerSurName}...",ฝูหมิง จอมยุทธน้อย{PlayerSurName}...
+R10070-5_3_2,"Mr. Liu, I heard you found a way to remove the Inseparable Gu from his body?",ท่านหลิว ข้าได้ยินมาว่า ท่านพบวิธีถอนหนอนกู่สยบวิญญาณ ที่อยู่ในตัวเขาแล้วหรือ?
+R10070-5_3_3,"Yes, but the success rate is less than thirty percent, if it fails, even the reincarnation of a medical immortal can't save him...",อืม… แต่ความสำเร็จมีไม่ถึงสามส่วน หากล้มเหลว ต่อให้เซียนหมอเทวะกลับชาติมาเกิด ก็ไม่อาจช่วยชีวิตเขาไว้ได้…
+R10070-5_3_4,"Wait, less than thirty percent? Liu Fuming, didn't you say...",เดี๋ยวก่อนนะ…ไม่ถึงสามส่วน? หลิวฝูหมิง เจ้ามิใช่ว่า...
+R10070-5_3_5,"If I didn't say that, would you agree?",หากข้าไม่กล่าวไปเช่นนั้น เจ้าเองจะยอมตกลงหรือ?
+R10070-5_3_6,I can still stop you from taking this risk now.,ตอนนี้ข้ายังคงสามารถหยุดเจ้า จากการเสี่ยงชีวิตครั้งนี้ได้
+R10070-5_3_7,What if I have to take the risk?,แล้วหากข้าต้องเสี่ยงเล่า?
+R10070-5_3_8,"Don't forget, I still have the jar from Duke Chai's Tower!",เจ้าอย่าได้ลืม! ข้ายังถือโถของตำหนักอ๋องไฉอยู่นะ!
+R10070-5_3_9,"You can keep it, removing the Gu doesn't require that thing.",เจ้าเก็บมันไว้เถอะ การกำจัดหนอนกู่ไม่จำเป็นต้องพึ่งของสิ่งนั้น
+R10070-5_3_10,"Wait, then why did we have to go to Phoenix Woods Harbor...",เดี๋ยวสิ ถ้างั้นพวกเราจะลำบากไปถึงท่าเรือป่าหงส์ ทำไม…
+R10070-5_3_11,Just to avoid the day when I suddenly die inexplicably.,ก็แค่เพื่อกันไม่ให้วันใดวันหนึ่งข้าตายไป โดยไร้คำอธิบายเท่านั้น
+R10070-5_3_12,"...So, I can't stop you?",…เช่นนั้นข้าก็ไม่มีทางห้ามเจ้าแล้วสินะ?
+R10070-5_3_13,"Yes, I've made up my mind.",อืม ข้าตัดสินใจแล้ว
+R10070-5_3_14,"...Alright, since it's your decision.",…ก็ได้ หากนั่นคือการตัดสินใจของเจ้า
+R10070-5_3_15,"Mr. Liu, how do you remove the Gu from his body?",ท่านหลิว แล้วเราจะถอนกู่ในตัวเขาได้อย่างไร?
+R10070-5_3_16,"This Gu poison is not like the common toxins in the Central Plains. Normally, the one who rings the bell should be the one to untie it, but the person who used this Gu...",พิษกู่นี้แตกต่างจากพิษทั่วไปในดินแดนจงหยวน หากจะว่าตามหลักแล้ว ผู้ที่ผูกระฆังย่อมต้องเป็นผู้ถอดระฆังเอง… เพียงแต่ว่าคนใช้พิษกู่ผู้นั้น…
+R10070-5_3_17,is no longer here.,ไม่ได้อยู่บนโลกนี้อีกแล้ว
+R10070-5_3_18,"So we can only find a way to solve it. After my many years of exploration in the Southwest, I can think of three methods.",ดังนั้นเราทำได้เพียงหาวิธีแก้เอง จากการค้นคว้าในแดนตะวันตกเฉียงใต้ ในตลอดหลายปีที่ผ่านมา ข้าก็คิดออกอยู่สามวิธี
+R10070-5_3_19,"The first method is to maintain the status quo, regularly replenish this jar with fresh human blood, or find another host to plant this female Gu...",วิธีแรก คงสภาพไว้เช่นนี้ แล้วเติมเลือดมนุษย์ที่ยังมีชีวิตลงในไหนี้เป็นระยะ หรือไม่ก็หาผู้เป็นร่างสืบทอด แล้วปลูกฝังกู่ตัวเมียลงไป…
+R10070-5_3_20,I cannot accept this method.,ข้าไม่อาจยอมรับวิธีเช่นนั้นได้
+R10070-5_3_21,...I thought so.,…ข้าก็คิดเช่นนั้น
+R10070-5_3_22,The second method is to use a silver needle or advanced MP to probe into his body and kill the Gu worm.,วิธีที่สอง คือใช้เข็มเงิน หรือพลังภายในที่ล้ำลึก (MP) ส่งเข้าไปในร่างของเขาเพื่อสังหารหนอนกู่ตัวนั้น
+R10070-5_3_23,"But this method is too dangerous. In the records of the Herbology Sect, only one person has succeeded.",แต่วิธีนี้อันตรายยิ่งนัก ในบันทึกของสำนักพฤกษา ก็มีเพียงผู้เดียวที่เคยสำเร็จได้…
+R10070-5_4_1,"Wow, someone actually succeeded, that person must be amazing.",ดี ยังมีคนที่เคยทำสำเร็จด้วย คนผู้นั้นช่างเก่งกาจยิ่งนัก
+R10070-5_4_2,"This method sounds quite reliable, is it really that remarkable?",วิธีนี้ฟังดูน่าเชื่อถือไม่น้อย มันจะดูน่าเชื่อถือปานนั้นเชียวรึ?
+R10070-5_4_3,"Of course, young man, you don't know. After the Gu worm enters the host's body, it will merge with the host's Meridian. Not to mention that the parasitic location is hard to determine, just killing the Gu worm may destroy the host's Meridian.",แน่นอนสิ เจ้าหนุ่ม เจ้าอาจยังไม่รู้ เมื่อกู่ฝังเข้าไปในร่างของเจ้าของ มันจะหลอมรวมเข้ากับเส้นลมปราณ ของเจ้าของร่างโดยสมบูรณ์ อย่าว่าแต่จะหาตำแหน่งมันเลย แค่จะสังหารมัน ก็เสี่ยงทำลายเส้นลมปราณเสียเอง
+R10070-5_4_4,"If there is a slight mistake, it could lead to paralysis or dementia, or even death.",หากพลาดพลั้งไปเพียงเล็กน้อย เบาหน่อยก็อาจจะพิการหรือหลงๆ ลืมๆ หนักเข้าก็ถึงแก่ชีวิต
+R10070-5_4_5,This... sounds completely unfeasible. The senior from the Herbology Sect who could do it is really amazing...,นี่... ฟังดูแล้วไม่น่าเป็นไปได้เลย ท่านผู้อาวุโสแห่งสำนักพฤกษาผู้นั้น ช่างเก่งกาจยิ่งนัก…
+R10070-5_4_6,"Yes, but that person's Constitution is different from ordinary people. I'm afraid even if I study for decades more, I won't be able to match him.",ใช่แล้ว เพียงแต่ร่างกายของคนผู้นั้นแตกต่างจากคนทั่วไป เกรงว่าต่อให้ข้าฝึกไปอีกหลายสิบปี ก็คงไม่อาจเทียบเคียงเขาได้
+R10070-5_5_1,"Senior brother, the person you're talking about, could it be...",ศิษย์พี่ คนที่ท่านกล่าวถึง หรือว่าจะเป็น…
+R10070-5_5_2,"Yes, besides her, who else could do it...",ใช่แล้ว หากไม่ใช่นาง แล้วจะเป็นใครเล่า…
+R10070-5_5_3,...Indeed.,…ก็จริง
+R10070-5_5_4,"Wait, do you guys know that senior?",เดี๋ยวก่อน… พวกท่านรู้จักผู้อาวุโสคนนั้นด้วยหรือ?
+R10070-5_5_5,"She's not some old senior, she's my senior sister.",นางหาใช่ผู้อาวุโสทั่วไปไม่ แต่เป็นศิษย์พี่ของข้าเอง
+R10070-5_5_6,"Her Constitution is special, she can see things that ordinary people can't. We can't see the Gu worm in the human body, but in her eyes, it's as conspicuous as a drop of ink on white paper.",นางมีร่างกายพิเศษ สามารถมองเห็นสิ่งที่มนุษย์ธรรมดามองไม่เห็น แม้เราจะมองไม่เห็นตัวกู่ในร่างคน  แต่ในสายตานาง มันเด่นชัดราวหยดหมึกบนกระดาษขาว
+R10070-5_5_7,"I see, so if we find her, can we...",อย่างนี้เอง ถ้าเช่นนั้น เพียงตามหานางให้พบ ก็สามารถ…
+R10070-5_5_8,"No, my senior sister has been missing for a long time, no one knows where she is now.",หาไม่… ศิษย์พี่ของข้าได้หายสาบสูญไปนานแล้ว ไม่มีผู้ใดล่วงรู้ว่าตอนนี้นางอยู่ที่ใด
+R10070-5_5_9,"Sigh, it seems this way is also not feasible...",เฮ้อ ดูท่าวิธีนี้ก็ไร้หนทางเสียแล้ว…
+R10070-5_6_1,"Since someone has succeeded, doesn't that mean this way should work?",หากมีผู้ใดเคยทำสำเร็จ ก็หมายความว่าวิธีนี้ย่อมมีความเป็นไปได้มิใช่หรือ?
+R10070-5_6_2,"Not necessarily, this person's Constitution is special, she can see things that ordinary people can't.",หาใช่เช่นนั้นไม่ คนผู้นั้นมีร่างกายที่พิเศษ สามารถมองเห็นสิ่งที่คนทั่วไปมิอาจเห็นได้
+R10070-5_6_3,"To give an analogy, in our eyes, a person who has been poisoned by Gu is no different from an ordinary person. But in her eyes, the Gu worm in the human body is as conspicuous as the moon in the night sky.",ยกตัวอย่างให้เห็นภาพ ในสายตาของพวกเรา ผู้ที่ถูกพิษกู่หาได้แตกต่างจากคนทั่วไปไม่ แต่ในสายตาของนาง สามารถมองเห็นตัวกู่ในร่างคน ชัดเจนราวกับดวงจันทร์บนฟากฟ้ายามราตรี
+R10070-5_6_4,"Plus her superb silver needle technique, she can hit the Gu worm with one shot. This skill can't be imitated by others.",อีกทั้งนางยังเชี่ยวชาญในวิชาเข็มเงิน จึงสามารถปักเข็มสังหารกู่ได้ในทีเดียว วิชาเช่นนี้ มิใช่ผู้ใดจะเลียนแบบได้ง่ายๆ
+R10070-5_6_5,"I see, so it seems this way is also not feasible...",เป็นเช่นนี้นี่เอง เช่นนั้นดูเหมือนว่า วิธีนี้ก็คงใช้การไม่ได้สินะ...
+R10070-5_7_1,"If the first two methods don't work, what's the third one?",สองวิธีแรกใช้การไม่ได้ แล้ววิธีที่สามล่ะ?
+R10070-5_7_2,The third method is also very dangerous.,วิธีที่สาม… ก็อันตรายเช่นกัน
+R10070-5_7_3,"Through my research in the Southwest region, I found that this Inseparable Gu will act when one of the hosts dies, but the principles of action under different circumstances are also different.",จากที่ข้าได้ศึกษาในแดนตะวันตกเฉียงใต้มา ข้าพบว่าหนอนกู่สยบวิญญาณ จะเกิดปฏิกิริยาเมื่อ ตัวใดตัวหนึ่งในสองร่างตาย แต่หลักการกำเริบ จะแตกต่างกันไปตามสถานการณ์
+R10070-5_7_4,"When the first host dies, the Gu worm in his body will starve to death quickly because it has lost its nourishment.",หากเจ้าของร่างคนแรกตาย หนอนกู่ในร่างเขาจะขาดสารหล่อเลี้ยง และอดตายอย่างรวดเร็ว
+R10070-5_7_5,"At this time, the Gu worm in the other host's body will have an Impression response, and it will go berserk and destroy the host's Meridian. At this point, even a god can't save him.",ส่วนหนอนกู่ในร่างของอีกคน จะเกิดการตอบสนองรุนแรง ทำลายเส้นลมปราณของเจ้าของร่าง จนยากจะรอดชีวิต เมื่อถึงตอนนั้น แม้แต่เทพเซียนก็ไม่อาจช่วยได้
+R10070-5_7_6,But this gives us a method.,แต่กระนั้น ก็ยังมีอีกวิธีหนึ่ง
+R10070-5_7_7,What method?,วิธีใดหรือ?
+R10070-5_7_8,"The male worm is in {浮名}'s body, and the host of the female worm is no longer in the world.",ในร่างของฝูหมิงคือหนอนกู่ตัวผู้ ส่วนเจ้าของร่างของหนอนกู่ตัวเมีย นั้นได้ล่วงลับไปนานแล้ว
+R10070-5_7_9,……,……
+R10070-5_7_10,"A few days ago, I found a strange fish in a river in the Southwest. It carries a poison that can quickly stop a person's heartbeat, but the consciousness can be retained.",ไม่นานมานี้ ข้าพบปลาประหลาด ในลำน้ำทางตะวันตกเฉียงใต้ มันมีพิษที่สามารถ ทำให้หัวใจหยุดเต้นชั่วขณะได้โดยที่สติยังคงอยู่
+R10070-5_7_11,"If treated in a short period of time, there will be no danger.",หากได้รับการช่วยเหลือทันเวลา ย่อมไม่เป็นอันตรายถึงชีวิต
+R10070-5_7_12,"Mr. Liu is trying to ""deceive"" the Gu worm in Liu Fuming's body with this method!","ท่านหลิวหมายจะ ""ลวง"" ตัวหนอนกู่ในร่างของหลิวฝูหมิงด้วยวิธีนี้หรือ!"
+R10070-5_7_13,Exactly.,ถูกต้องแล้ว
+R10070-5_7_14,"As long as Fuming's heartbeat stops and his blood stops flowing, the Gu worm in his body will starve to death due to lack of nourishment. At this time, if Me administers the antidote to revive him, he will be safe.",ตราบใดที่หัวใจของฝูหมิงหยุดเต้น เลือดไม่ไหลเวียน ตัวหนอนกู่ในร่างของเขา จะขาดสารหล่อเลี้ยงและอดตาย จากนั้นข้าจะให้ยาถอนพิษ ฟื้นชีพเขากลับมา เขาก็จะปลอดภัยไร้กังวล
+R10070-5_7_15,How long will it take for this Gu worm to starve to death?,แล้วต้องใช้เวลานานแค่ไหน กว่าหนอนกู่จะอดตาย?
+R10070-5_7_16,"{PlayerName}, the answer is in your hands.",{PlayerName} คำตอบนั้นอยู่ในมือของเจ้าเอง
+R10070-5_7_17,"I see, these two worms are responsive to each other. By observing the female worm in this jar, we can know whether the male worm in Liu Fuming's body is dead or alive.",อย่างนี้นี่เอง หนอนกู่ทั้งสองมีสายสัมพันธ์ต่อกัน เพียงจับตาดูหนอนตัวเมียในไห ก็จะรู้ได้ว่าหนอนตัวผู้ในร่างของหลิวฝูหมิงนั้น ยังอยู่หรือว่าตาย
+R10070-5_7_18,It seems you're not that stupid.,ดูเหมือนว่าเจ้าก็ไม่ใช่คนโง่นัก
+R10070-5_7_19,"It sounds feasible, so why is the success rate only 30%?",ฟังดูแล้วก็เป็นแผนที่ใช้ได้อยู่ แล้วเหตุใด ถึงมีโอกาสสำเร็จแค่สามส่วนเท่านั้น?
+R10070-5_7_20,"Me has conducted experiments on animals and can control the dosage of the toxin, but less than 30% can be successfully revived.",ข้าเคยทดลองกับสัตว์มาก่อน และตอนนี้สามารถควบคุมปริมาณพิษได้แล้ว แต่ที่สามารถฟื้นคืนชีพได้สำเร็จนั้น มีเพียงสามในสิบเท่านั้น
+R10070-5_7_21,So that's the 30%...,ที่แท้… ที่ว่ามีความสำเร็จเพียงสามส่วน ก็หมายถึงเช่นนี้เอง…
+R10070-5_7_22,"That's enough, Me is willing to give it a try.",เพียงเท่านี้ก็มากพอแล้ว ข้ายินดีจะลอง!
+R10070-5_7_23,"Wait, this jar is in Me's hands, I have the final say.",เดี๋ยวก่อน ไหกู่ใบนี้อยู่ในมือข้า ข้าต่างหากที่เป็นคนตัดสินใจ
+R10070-5_7_24,"This is my business, what does it have to do with you.",แต่นี่เป็นเรื่องของข้า แล้วเกี่ยวอันใดกับเจ้า
+R10070-5_7_25,"Liu Fuming, I don't care if you're indifferent or determined to die, since you're traveling with me, I have the final say!",หลิวฝูหมิง ไม่ว่าชีวิตเจ้าจะไร้เยื่อใยเพียงใด หรือเจ้าจะมุ่งสู่ความตายเพียงใด แต่ในเมื่อเจ้าร่วมเดินทางกับข้าแล้ว ก็ต้องฟังคำข้าเท่านั้น!
+R10070-5_7_26,"Tsk, meddling in other people's business.",เฮอะ… ไม่ใช่เรื่องของตัวเอง กลับชอบยุ่งยิ่งนัก
+R10070-5_7_27,"Mr. Liu, when Me has made up my mind, I'll bring him to visit you again.",ท่านหลิว ขอข้าคิดทบทวนอีกสักหน่อย แล้วข้าจะพาเขากลับมาพบท่านอีกครั้ง
+R10070-5_7_28,The protagonist takes two steps outside,ตัวละครเอกเดินออกไปสองก้าว
+R10070-5_7_29,Fuming...,ฝูหมิง…
+R10070-5_7_30,...Let's follow his wishes.,…ปล่อยเขาไปเถอะ
+R10070-5_7_31,"(Treating Liu Fuming's Gu worm is extremely risky, let's make up our minds later.)",(การรักษาพิษหนอนกู่ ของหลิวฝูหมิงนั้นเสี่ยงอันตรายยิ่ง หากตัดสินใจแน่วแน่แล้ว ค่อยกลับมาอีกครั้ง)
+R10070-5_op_dialog,Have you made up your minds?,พวกเจ้าแน่ใจแล้วหรือ?
+R10070-5_op_1_1,"We've made up our minds! <color=#c44b0e>(Specific battle, protect companion)</color>","พวกเราแน่ใจแล้ว! <color=#c44b0e>(เข้าสู่การต่อสู้เฉพาะ, ปกป้องสหายร่วมทาง)</color>"
+R10070-5_op_1_2,Consider it further.,คิดดูอีกที
+R10070-5_8_1,"Fuming, {PlayerSurName} young hero, have you made up your minds?",ฝูหมิง จอมยุทธ{PlayerSurName} พวกเจ้าตัดสินใจกันแน่แล้วหรือ?
+R10070-5_8_2,"Yes, please proceed, Mr. Liu.",อืม โปรดรบกวนด้วย ท่านหลิว
+R10070-5_8_3,"Fuming, drink all this Poison.",ฝูหมิง ดื่มยาพิษในชามนี้ให้หมด
+R10070-5_8_4,Yes.,ได้
+R10070-5_8_5,"Liu Fuming, promise me, you can't die here.",หลิวฝูหมิง สัญญากับข้า ว่าเจ้าจะไม่ตายที่นี่
+R10070-5_8_6,"Heh, I can't guarantee that.",เหอะ เรื่องนี้ ข้าคงรับปากไม่ได้หรอก
+R10070-5_8_7,"{PlayerName}, little uncle, see you later.",อาน้อย{PlayerName}… ไว้พบกันใหม่
+R10070-5_8_8,Drinks the Poison in one gulp,หลิวฝูหมิงยกชามขึ้น ดื่มยาพิษจนหมดในคำเดียว
+R10070-5_8_9,"...From now on, it's all up to him.",…จากนี้ไป ก็ขึ้นอยู่กับตัวเขาเองแล้ว
+R10070-5_8_10,……,……
+R10070-5_8_11,The Gu worm here doesn't seem to have reacted yet.,เจ้าหนอนกู่นี่ยังไม่มีปฏิกิริยาเลยนะ
+R10070-5_8_12,It shouldn't be that fast.,มันคงยังไม่เร็วถึงเพียงนั้นหรอก
+R10070-5_8_13,But... I hope it can be faster...,แต่... ข้าก็หวังว่ามันจะเร็วขึ้นหน่อย...
+R10070-5_8_14,Yes.,อืม
+R10070-5_8_15,"Time passes by every moment, and there is still no movement in the pottery jar.
+In a blink of an eye, half a day has passed...","เวลาค่อย ๆ ผ่านไป แต่ภายในไหก็ยังไม่มีความเคลื่อนไหวใดๆ\nพริบตาเดียว เวลาก็ล่วงเลยไปครึ่งวัน…"
+R10070-5_8_16,"...Half a day has passed, and there is still no reaction.",…ครึ่งวันแล้ว แต่ยังไม่มีวี่แววใดๆ เลย
+R10070-5_8_17,...Does this method not work?,...หรือว่า วิธีนี้จะไม่ได้ผลกันแน่?
+R10070-5_8_18,"Let's wait and see, if there is still no reaction in a few moments, I'll give him the antidote...",รออีกหน่อย หากอีกไม่นานยังไม่มีปฏิกิริยาใดๆ ข้าจะให้เขากินยาถอนพิษทันที...
+R10070-5_8_19,"Wait, someone is coming.",เดี๋ยวก่อน มีคนกำลังมา
+R10070-5_9_1,"As expected of {PlayerName}, your ears are really sharp.",ไม่เสียแรงที่เป็น{PlayerName} ยังหูไวเหมือนเดิมจริงๆ
+R10070-5_9_2,"Qin Yanluo, you really are a persistent ghost!",ฉินเหยียนหลัว! ไอ้สารเลวนี่อีกแล้วรึ!
+R10070-5_9_3,"It's always you who messes up my plans, who is the persistent ghost?",เจ้าต่างหาก! ที่คอยมาขัดขวางข้าไม่เลิกรา ใครกันแน่ที่ตื๊อไม่เลิก?
+R10070-5_9_4,"Today you are all here, it's a good opportunity to catch you all and relieve my hatred!",วันนี้พวกเจ้ามากันพร้อมหน้า เช่นนั้นก็เป็นโอกาสดี ที่ข้าจะได้ชำระแค้นพวกเจ้าให้สิ้นซาก!
+R10070-5_9_5,In your dreams!,ฝันไปเถอะ!
+R10070-5_10_1,"You, your ears are indeed sharp.",เจ้าหมอนี่ หูช่างไวเสียจริงๆ
+R10070-5_10_2,"Listen, we're here to settle accounts with the one surnamed Liu, everyone else is irrelevant. If you want to live, get out of here.",ฟังให้ดี พวกข้ามาเพื่อสะสางบัญชีกับเจ้าแซ่หลิว เท่านั้น คนอื่นไม่เกี่ยว หากอยากรอด ก็ไสหัวไปเสีย
+R10070-5_10_3,"Heh, what a big talk.",หึ คำพูดช่างโอหังนัก!
+R10070-5_10_4,I'd like to see if you're capable of that!,ข้าอยากรู้เหมือนกัน ว่าเจ้ามีปัญญาทำตามที่พูดหรือไม่!
+R10070-5_10_5,"If you don't drink the toast, you have to drink the penalty!",ถ้าเจ้าไม่อยากได้น้ำใจดีๆ งั้นเจ้าก็เตรียมรับน้ำโหของข้าไปแทนแล้วกัน!
+R10070-5_11_1,"{PlayerSurName} young hero, Fuming is unable to move now, and I'm not good at martial arts, so I'm counting on you.",จอมยุทธ{PlayerSurName} ตอนนี้ฝูหมิงไม่อาจเคลื่อนไหวได้ ข้าก็เองก็ไม่เก่งวรยุทธ ทุกอย่างต้องฝากความหวังไว้กับเจ้าแล้ว
+R10070-5_11_2,"Don't worry, I will definitely protect you!",วางใจเถอะ! ข้าจะปกป้องพวกท่านให้ถึงที่สุด!
+R10070-5_12_1,"We've got what we wanted, let's go!",พวกเราได้สิ่งที่ต้องการแล้ว ไปกันเถอะ!
+R10070-5_12_2,Damn it!!!,บ้าเอ๊ย!!!
+R10070-5_12_3,"Alas, it's my incompetence that I couldn't protect you...",เฮ้อ เป็นเพราะข้าฝีมืออ่อนด้อย ไม่อาจปกป้องเจ้าไว้ได้…
+R10070-5_12_4,Alas... such is the fate of fame...,เฮ้อ… นี่คงเป็นชะตาของฝูหมิงแล้ว…
+R10070-5_12_5,……,……
+R10070-5_13_1,Mr. Liu--!,ท่านหลิว——!
+R10070-5_13_2,"Damn it, I'll make you all pay for his death!",บ้าเอ้ย ข้าจะให้พวกเจ้าทุกคนต้องตายตามเขาไป!
+R10070-5_13_3,"...With this, Liu Fuming is bound to die. Our mission is accomplished, retreat!",…เช่นนี้แล้ว หลิวฝูหมิงต้องตายแน่ เป้าหมายของเราสำเร็จแล้ว พวกเราถอย!
+R10070-5_13_4,Damn it!!!,บ้าเอ๊ย!!!
+R10070-5_13_5,"The death of Liu Bencao completely shattered the hope of Liu Fuming's recovery.
+Liu Fuming's breath gradually stopped, but his eyes were still staring in the direction of Qin Yanluo's escape, full of resentment.
+The insects in the pottery jar had long since stopped wriggling.","การตายของหลิวเปิ่นเฉ่า ทำให้ความหวังในการรักษา หลิวฝูหมิงดับสิ้นลงโดยสมบูรณ์\nลมหายใจของหลิวฝูหมิงค่อยๆ แผ่วลง ทว่าในดวงตาเขายังจับจ้องไปยังทิศทาง ที่ฉินเหยียนหลัวหลบหนี ดวงตาเบิกกว้างแทบแตกกระจายด้วยความแค้น\nส่วนตัวหนอนกู่ในไหดินก็นิ่งเงียบ ไร้การเคลื่อนไหวใดๆ"
+R10070-5_14_1,It seems you're not as capable as you think.,ดูท่าเจ้าก็มิได้มีฝีมืออันใด
+R10070-5_14_2,……,……
+R10070-5_14_3,"Speak, who sent you? Was it Chai Wang?",พูดมา—ใครส่งพวกเจ้ามา! เป็นอ๋องไฉใช่หรือไม่!?
+R10070-5_14_4,It was your grandfather!,เป็นปู่ของเจ้าเองน่ะสิ!
+R10070-5_14_5,"{PlayerSurName} young hero, the pottery jar--!",จอมยุทธ{PlayerSurName} โถดินนั่น——!
+R10070-5_14_6,You--!,เจ้า——!
+R10070-5_14_7,"We've got what we wanted, let's go!",พวกเราได้สิ่งที่ต้องการแล้ว ไปกันเถอะ!
+R10070-5_14_8,"Damn it, don't even think about escaping!!!",ชั่วช้า! อย่าได้คิดหนีไปได้ง่ายๆ!!!
+R10070-5_14_9,"Wait, {PlayerSurName} young hero, Fuming is not dead!",เดี๋ยวก่อน จอมยุทธ{PlayerSurName}  ฝูหมิงยังไม่ตาย!
+R10070-5_14_10,"Great, Fuming is still alive...",ดี ฝูหมิงยังมีชีวิตอยู่…
+R10070-5_14_11,"I'll detoxify him right away, {PlayerSurName} young hero, this is a critical moment, I need you to keep watch here.",ข้าจะรีบให้ยาถอนพิษเขาเดี๋ยวนี้ จอมยุทธ์{PlayerSurName} ยามนี้เป็นช่วงเวลาสำคัญยิ่ง ข้ารบกวนเจ้าช่วยเฝ้าระวังที่นี่ด้วย
+R10070-5_14_12,Okay.,เข้าใจแล้ว
+R10070-5_14_13,Liu Bencao quickly prepared the antidote and fed it to Liu Fuming.,หลิวเปิ่นเฉาหยิบยาถอนพิษออกมาอย่างรวดเร็ว ป้อนให้หลิวฝูหมิงกิน
+R10070-5_14_14,"...After that, it's all up to fate.",…จากนี้ไป ก็ขึ้นอยู่กับสวรรค์แล้ว
+R10070-5_14_15,The success rate is less than 30%...,ความสำเร็จมีไม่ถึงสามส่วน…
+R10070-5_14_16,Fuming...,ฝูหมิง…
+R10070-5_14_17,"Time ticked away, and Liu Fuming's body remained motionless.
+You subconsciously clenched your fists, not even noticing that your palms were already soaked with sweat.","เวลาไหลผ่านไปทีละน้อย แต่ร่างของหลิวฝูหมิงยังคงไร้ซึ่งการตอบสนอง\nเจ้ากำหมัดแน่นโดยไม่รู้ตัว เหงื่อเปียกเต็มฝ่ามือ โดยที่เจ้ามิได้รู้สึกถึงมันเลยแม้แต่น้อย"
+R10070-5_14_18,One shichen later...,หนึ่งชั่วยามต่อมา...
+R10070-5_14_19,Fuming!,ฝูหมิง!
+R10070-5_14_20,Uh...,อา...
+R10070-5_14_21,"I can't muster any strength, can you help me up?",ข้าไม่เหลือเรี่ยวแรงอันใดเลย เจ้าช่วยพยุงข้าขึ้นหน่อย?
+R10070-5_14_22,"Fuming, do you feel any discomfort?",ฝูหมิง เจ้ารู้สึกไม่สบายตรงไหนหรือไม่?
+R10070-5_14_23,"Don't worry, I don't feel anything unusual.",ไม่ต้องห่วง ข้าไม่มีอาการแปลกประหลาดใดๆ
+R10070-5_14_24,"That's good. This was truly a close call. It's a blessing that you survived, Fuming.",เช่นนั้นก็ดีแล้ว ครั้งนี้อันตรายถึงเพียงนี้ เจ้ารอดชีวิตมาได้ นับว่าสวรรค์ยังเมตตา
+R10070-5_14_25,"Speaking of which, {PlayerName}, thank you.",พูดถึงเรื่องนี้… {PlayerName} ขอบคุณเจ้ามาก
+R10070-5_14_26,"You're my friend now, and friends should always be ready to help each other in times of trouble.",บัดนี้เจ้าเป็นสหายของข้าแล้ว และเมื่อสหายมีภัย จะให้ข้าเพิกเฉยได้อย่างไร
+R10070-5_14_27,This snake...,งูตัวนี้…
+R10070-5_14_28,"Your snake is really impressive, it took so many throwing blades and didn't get a scratch!",งูของเจ้าตัวนี้ของเจ้ามันแปลกจริงๆ ถูกมีดบินเล่นงานหลายครั้ง กลับไม่มีแม้แต่รอยขีดข่วน!
+R10070-5_14_29,This snake... it wasn't controlled by me.,งูตัวนี้... ข้าไม่ได้ควบคุมมัน
+R10070-5_14_30,Not you? But it clearly...,ไม่ใช่เจ้าหรือ? แต่เมื่อครู่นั้นข้าเห็นกับตาว่า...
+R10070-5_14_31,"I was immobilized at the time, I couldn't even call up my MP, how could I control the snake?",ตอนนั้นข้าขยับตัวไม่ได้เลยด้วยซ้ำ แม้แต่จะรวบรวมพลังภายในยังทำไม่ได้ ข้าจะไปควบคุมงูได้อย่างไร?
+R10070-5_14_32,Then this snake...,เช่นนั้น… งูตัวนี้มันคือ…
+R10070-5_15_1,"It's a snake-controlling Gu, and it's even more sophisticated than the Gu technique of the owner of the Liu Building.",มันคือกู่ควบคุมอสรพิษ และดูเหมือนจะสูงส่งยิ่งกว่า วิชากู่ของท่านเจ้าหอหลิวเสียอีก
+R10070-5_15_2,More sophisticated?,สูงส่งยิ่งกว่า?
+R10070-5_15_3,"Look at the golden threads in this snake's eyes, it has gone through at least three molting ceremonies.",ดูจากดวงตาของมันที่มีเส้นสีทองพาดผ่าน อย่างน้อยก็น่าจะผ่าน พิธีลอกคราบ มาถึงสามครั้งแล้ว
+R10070-5_15_4,Molting ceremony?,พิธีลอกคราบรึ?
+R10070-5_15_5,"Yes, the snake driven by the saintess of the Jiuli Tribe undergoes a molting ceremony every ten years. After each ceremony, its scales become three points harder, and its poison becomes seventy percent more potent.",ใช่แล้ว งูที่ธิดาเทพแห่งเผ่าจิ่วลี่ใช้งานนั้น จะทำพิธีลอกคราบทุกๆ สิบปี หลังลอกคราบ แต่ละครั้ง เกล็ดของมันจะแข็งแกร่งขึ้นสามส่วน และพิษก็รุนแรงขึ้นถึงเจ็ดส่วน
+R10070-5_15_6,"Cai Die should have had a snake too, but the snake-controlling Gu has been lost, so Cai Die could only go find some poisonous insects.",เดิมทีไฉ่ตี้ ก็น่าจะมีงูเช่นนี้เหมือนกัน แต่กู่ควบคุมอสรพิษ ได้หายสาบสูญไปแล้ว ดั้งนั้นไฉ่ตี้จึงได้แต่ไปหาแมลงมีพิษอื่นๆ มาแทน
+R10070-5_15_7,Could this snake be the saintess of the Jiuli Tribe's?,อย่าบอกนะว่า งูนี่เป็นของธิดาเทพแห่งเผ่าจิ่วลี่?
+R10070-5_16_1,"Then this snake-controlling Gu, if it's not you, who could it be?",ถ้ากู่ควบคุมอสรพิษ ไม่ใช่ของเจ้า งูตัวนี้จะเป็นของใครได้อีก?
+R10070-5_16_2,……,……
+R10070-5_17_1,"This snake, I recognize it.",งูตัวนี้… ข้ารู้จักมัน
+R10070-5_17_2,Could it be...,หรือว่า…
+R10070-5_17_3,It's Ah Huang's snake.,งูของ อาฮวาง
+R10070-5_17_4,"""Ah Huang""? Who is that?","""อาฮวาง""? นางคือใครกัน?"
+R10070-5_17_5,That is...,นางคือ…
+R10070-5_17_6,"...She was my deceased wife, she taught me the snake-controlling Gu.",…นางคือภรรยาผู้ล่วงลับของข้า วิชากู่ควบคุมอสรพิษ ข้าได้มาจากนาง
+R10070-5_17_7,"After more than ten years, you can still protect me...",เป็นเวลากว่าสิบปีแล้ว เจ้าก็ยังคงปกป้องข้าอยู่…
+R10070-5_17_8,Neigh~,ฟ่อ~
+R10070-5_17_9,How could this be...,เป็นไปได้อย่างไรกัน…
+R10070-5_17_10,"The Gu technique of Jiuli itself has many mysteries, this kind of thing might not be impossible.",วิชากู่แห่งเผ่าจิ่วลี่นั้นแฝงไว้ด้วยความลี้ลับยิ่ง เรื่องเช่นนี้ ก็มิใช่ว่าจะเป็นไปไม่ได้
+R10070-5_17_11,"So, does Ah Huang hate me...",เช่นนั้น อาฮวางยังคงโกรธเคืองข้าหรือไม่…
+R10070-5_17_12,(Gently shakes her head),(งูส่ายศีรษะของนางเบาๆ)
+R10070-5_17_13,Is this a coincidence or has this snake become sentient...,นี่... นี่คือความบังเอิญ หรือว่างูตัวนี้เข้าใจความรู้สึกคนกันแน่...
+R10070-5_17_14,Fu Ming! This snake poison--!,ฝูหมิง! พิษงูตัวนี้——!
+R10070-5_18_1,"No, the owner of the Liu Building will be fine.",ไม่ต้องห่วง ท่านเจ้าหอหลิวปลอดภัยดี
+R10070-5_18_2,"Cai Die, are you telling the truth?",ไฉ่ตี้ เจ้าพูดจริงหรอ?
+R10070-5_18_3,"Yes, this snake... just put a Gu on the owner of the Liu Building.",อืม งูตัวนี้… เมื่อครู่มันได้ปล่อย กู่ เข้าใส่ท่านเจ้าหอหลิว
+R10070-5_18_4,"Although Caidie has never seen it, she should be able to control its snake charm.",แม้ไฉ่ตี้ไม่เคยเห็นมาก่อน แต่ดูแล้วน่าจะเป็น กู่ควบคุมอสรพิษ ประเภทที่งูใช้ควบคุมมันเองได้
+R10070-5_18_5,Can this snake actually do this?,งูตัวนี้ถึงกับทำเช่นนี้ได้ด้วยหรือ!?
+R10070-5_19_1,Liu Building owner is quite lucky.,ท่านเจ้าหอหลิว ช่างโชคดียิ่ง
+R10070-5_19_2,Why are you saying this now?,ทำไมตอนนี้เจ้าจะพูดแบบนั้น?
+R10070-5_19_3,"You may not feel it, but I know, this snake has given Liu Building owner a stronger snake charm.",บางทีพวกท่านอาจจะไม่รู้สึก แต่ข้ารู้แน่ๆ งูตัวนี้ได้ลงกู่ควบคุมที่แข็งแกร่งกว่าเดิม ลงไปในตัวท่านเจ้าหอหลิว
+R10070-5_19_4,A stronger snake charm? Could it be...,กู่ควบคุมที่แข็งแกร่งกว่า? หรือว่าจะเป็น…
+R10070-5_19_5,"Yes, if I'm not mistaken, it's the charm that can control itself.","อืม…หากข้าคาดไม่ผิด นั่นคือ ""กู่ที่ใช้ควบคุมตัวมันเอง"" อย่างสมบูรณ์"
+R10070-5_19_6,Can this snake actually do this?,งูตัวนี้ถึงกับทำเช่นนี้ได้ด้วยหรือ!?
+R10070-5_20_1,...It's not a problem.,…ไม่เป็นไร
+R10070-5_20_2,"You've been watching over me for her... After all these years, she still doesn't trust me.",เจ้าจับตาดูข้าแทนนางหรือ… หลังจากผ่านมาหลายปี แต่นางก็ยังไม่วางใจในตัวข้าเลยแม้แต่น้อย
+R10070-5_20_3,"But, that's just her temperament.",เฮอะ แต่นั่นแหละคือนิสัยของนาง
+R10070-5_20_4,"I understand, I will take good care of you for her.",ข้าเข้าใจแล้ว ข้าจะดูแลเจ้า แทนนางเอง
+R10070-5_20_5,Neigh~,ฟ่อ~
+R10070-5_20_6,"Fuming, what's going on...",ฝูหมิง มันเกิดอะไรขึ้นกันแน่…
+R10070-5_20_7,"It's okay, she wants it to protect me for her, and she wants me to take care of it for her.",ไม่เป็นไร นางฝากมันให้มาคอยปกป้องข้า และนางยังมอบอีกหน้าที่หนึ่ง คือให้ข้าดูแลมันแทนนาง
+R10070-5_20_8,"{PlayerName}, let's go.",{PlayerName} ไปกันเถอะ
+R10070-5_20_9,Where to?,ไปไหนล่ะ?
+R10070-5_20_10,"White Mou Marsh, there are some things I need to say to her.",บึงขาวมรณะ ข้ามีบางคำที่อยากบอกกับนาง
+R10070-6_name,Never Forget,ข้าไม่เคยลืมแม้สักวันเดียว
+R10070-6_log_1,Go to the tomb at the end of White Mou Marsh with Liu Fuming.,มุ่งหน้าสู่สุสาน ที่ปลายสุดบึงขาวมรณะ กับหลิวฝูหมิง
+R10070-6_1_1,"{PlayerName}, what are you doing here?",{PlayerName}，เจ้ามาทำอะไรที่นี่?
+R10070-6_1_2,"This... I don't know, but I always feel that you would want to come here...",สิ่งนี้...ข้าก็ไม่รู้หรอกนะ แต่กลับรู้สึกว่าเจ้าคงอยากจะมาที่แห่งนี้เป็นแน่...
+R10070-6_1_3,...I don't want to.,...ข้าไม่ต้องการ
+R10070-6_1_4,"Let's go, don't force me to fall out with you.",ไปซะ! อย่าบังคับให้ข้าต้องตัดขาดกับเจ้า
+R10070-6_2_1,……,……
+R10070-6_2_2,"(Such a terrifying look, I better stay away from here...)",(สายตานั้นช่างดุร้าย...ข้าควรอยู่ห่างจากที่นี่จะดีกว่า)
+R10070-6_3_1,……,……
+R10070-6_3_2,"{PlayerName}, let me stay with Ah Huang for a while.",{PlayerName}，ขอเวลาให้ข้าได้อยู่กับอาฮวาง สักครู่หนึ่ง
+R10070-6_3_3,Okay.,ได้สิ
+R10070-6_3_4,Let them be alone for a while.,ปล่อยให้พวกเขาอยู่กันตามลำพังเถอะ
+R10070-6_3_5,"You watch Liu Fuming from a distance in front of the tomb.
+Facing the cold tombstone, he is no longer the taciturn and harsh man he used to be.
+Sometimes laughing, sometimes choking, as if he has endless words to say.","เจ้าเฝ้ามองหลิวฝูหมิงซึ่งอยู่เบื้องหน้าสุสาน\nจากที่เคยพูดน้อยและปากร้าย เขากลับเปลี่ยนไป เมื่ออยู่ต่อหน้าหลุมศพอันเย็นเฉียบ\nบางคราหัวเราะ บางคราสะอื้นไห้ ราวกับมีถ้อยคำมากมายสุดจะเอ่ย"
+R10070-6_3_6,"Finally, he falls silent, standing quietly in front of the tomb for a long time.",สุดท้ายเขาก็เงียบงันลง ยืนนิ่งอยู่หน้าป้ายหลุมศพ ราวกับจะเฝ้าร่ำไห้ในใจชั่วนิรันดร์
+R10070-6_3_7,Have you said everything you wanted to say?,คำพูดของเจ้า...หมดสิ้นแล้วใช่หรือไม่?
+R10070-6_3_8,Let's go.,ไปกันเถอะ
+R10070-6_op_1_dialog,"(I'm a bit curious about Liu Fuming's deceased wife. Maybe he will talk about it now, should I ask?)",(ข้าค่อนข้างสนใจเรื่องภรรยาผู้ล่วงลับ ของหลิวฝูหมิง ถ้าถามตอนนี้บางทีเขาอาจจะยอมบอก..จะลองถามดูดีไหมนะ?)
+R10070-6_op_1_1,Ask.,ลองถามดูสิ
+R10070-6_op_1_2,Don't ask.,ไม่ต้องถามแล้ว
+R10070-6_4_1,(I better not ask about someone's sad past.),(เรื่องราวอันเจ็บปวดของผู้อื่น...ข้าไม่ควรเอ่ยถามอีกต่อไปแล้ว)
+R10070-6_4_2,Let's go.,ไปกันเถอะ
+R10070-6_5_1,Can you tell me about her... if it's not too much trouble?,เรื่องราวของนาง... สะดวกใจจะเล่าให้ฟังหรือไม่?
+R10070-6_5_2,...Why are you interested in this kind of thing?,...เหตุใดเจ้า จึงชอบสอดรู้สอดเห็นเรื่องของผู้อื่น เช่นนี้นัก?
+R10070-6_5_3,"If it's inconvenient for you to talk about it, then forget it.",ไม่สะดวกใจก็แล้วไป...
+R10070-6_5_4,...It's not a big deal.,...เฮ้อ......ก็มิได้มีอะไรมาก
+R10070-6_5_5,"She was the saintess of the Jiuli Tribe, the sister of Miao Muli.",นางคือธิดาเทพแห่งเผ่าจิ่วลี่ และเป็นพี่สาวของเมี้ยวมู่หลี
+R10070-6_5_6,"I was down on my luck that year, wandering the world, and I happened to meet her in the southwest. I fell in love at first sight and we pledged to be together forever.",ตอนนั้นข้ายังไม่ค่อยมีอะไร เลยออกเดินทางท่องยุทธภพ ได้บังเอิญพบนางที่แดนตะวันตกเฉียงใต้ เพียงชั่วแวบแรก หัวใจข้าก็ยอมสยบให้แก่นาง สองเราจึงได้ผูกพันรักใคร่ สาบานรักกันชั่วนิรันดร์
+R10070-6_5_7,"But whether it was because of her duties as a saintess, or the rules of the Jiuli Tribe, she couldn't run away with me to the southwest.",แต่ทว่า! ด้วยพันธะแห่งธิดาเทพ และโซ่ตรวนข้อบังคับของเผ่าจิ่วลี่ นางก็ไม่สามารถไปจากแดนตะวันตกเฉียงใต้ กับข้าได้
+R10070-6_5_8,So we secretly returned to the Central Plains.,ด้วยเหตุนี้ พวกเราจึงได้พากันหลบหนีมายังจงหยวน
+R10070-6_5_9,"At that time, because of the situation in Chuxiang City, the people of the Jiuli Tribe couldn't establish themselves in the Central Plains.",ในยามนั้น ด้วยเหตุแห่งสงครามที่เมืองฉู่เซียง  ทำให้คนของเผ่าจิ่วลี่ไม่สามารถ ตั้งหลักปักฐานในจงหยวนได้เลย
+R10070-6_5_10,"So we decided to find a beautiful place to live in seclusion. But soon, we were found.",ดังนั้น พวกเราทั้งสองคนจึงเสาะหาสถานที่ ปลีกวิเวกสู่ดินแดนเล้นลับ ทว่าความสงบก็คงอยู่ได้ไม่นาน... ศัตรูก็ยังตามมาหาจนถึงที่
+R10070-6_5_11,"They were powerful and numerous, and we were gradually losing.",พวกเขามีฝีมือวรยุทธ์สูงส่ง ทั้งยังมีจำนวนคนที่มากกว่า สุดท้ายเราก็มิอาจต้านทานได้!
+R10070-6_5_12,"In the end, I could only watch as a sword pierced her chest.",ในห้วงสุดท้าย ข้าก็ได้แต่เบิกตากว้าง มองดูคมดาบ ที่พุ่งทะลุอกของนางไป
+R10070-6_5_13,"The only places in the Central Plains that resembled her hometown were here, so I buried her here.",ทั่วทั้งจงหยวน มีเพียงที่นี่ที่คล้ายบ้านเกิดของนางที่สุด ข้าจึงได้ฝังร่างนางไว้ ณ ที่แห่งนี้
+R10070-6_6_1,"So that's how it was, my sister ran away from the tribe like this.",อืม...ที่แท้พี่สาวนาง ก็จากชนเผ่าไปเช่นนี้เอง... น่าเศร้าแท้
+R10070-6_6_2,You are her...,เจ้าเป็นอะไรกับนาง...?
+R10070-6_6_3,"If it weren't for me, you wouldn't have become a saintess, and those things of yours...",หากมิใช่เพราะข้า เจ้าก็คงมิได้ขึ้นเป็นธิดาเทพ เรื่องราวเหล่านั้นของเจ้าก็คงจะ...
+R10070-6_6_4,"It's okay, if it weren't for this, Caidie wouldn't have had the chance to come out with the young master, so Caidie won't blame you.",ไม่เป็นไรเจ้าค่ะ หากมิใช่เพราะเรื่องราวนั้น，ไฉ่ตี้ก็คงไม่มีโอกาสได้พบกับท่านพี่ ดังนั้นไฉ่ตี้ จึงไม่โทษท่าน
+R10070-6_6_5,But... can Caidie light a stick of incense for my sister?,เพียงแต่...ไฉ่ตี้ปรารถนาจะจุดธูป เพื่อรำลึกถึงนาง...ท่านจะอนุญาตหรือไม่?
+R10070-6_6_6,...As you wish.,...ตามใจเจ้าเถอะ!
+R10070-6_7_1,……,……
+R10070-6_7_2,"If you have nothing else to say, let's go.",ถ้าไม่มีอะไรจะพูดแล้ว ก็จงไปเสียเถิด
+R10070-6_7_3,"Hmm, let's go.",ฮึม ไปกันเถอะ
+R10142-1_1_1,"(The lady knight Shangguan and little sister Ling'er said they would visit the master to improve their swordsmanship. Speaking of sword masters, none other than Jian Chi of the Langya Sword Pavilion comes to mind. I wonder if I'll run into them here...)","(แม่นางซ่างกวนและน้องหลิงเอ๋อร์ บอกว่าจะไปเยี่ยมเยียนยอดฝีมือ\nเพื่อฝึกฝนเพลงกระบี่ให้ก้าวหน้าเมื่อพูดถึงยอดฝีมือ ไม่มีใครเกินกว่ามารกระบี่ \nแห่งศาลากระบี่หลางหยาแล้ว จะเป็นไปได้ไหมที่จะได้พบพวกนางที่นี่นะ...)"
+R10142-1_2_1,"Ah, they're indeed here.",อ้า! อยู่ที่นี่จริงๆ ด้วย
+R10142-1_3_1,"Ah, {PlayerGivenName} brother~",ท่านพี่ {PlayerGivenName} เจ้าคะ~
+R10142-1_3_2,"{PlayerSurName} young hero, we meet again.",จอมยุทธน้อย {PlayerSurName} เราพบกันอีกครั้งแล้ว
+R10142-1_3_3,I didn't expect to run into you here.,ไม่นึกเลย ว่าจะมาเจอพวกท่านที่นี่
+R10142-1_3_4,"Well... Under the heavens, there's no better swordsman than Elder Jian Chi, so we thought we'd come to visit him, but it seems he's not in the pavilion...",อืม... ยอดกระบี่ใต้หล้า ไม่มีผู้ใดเทียมเท่า ท่านอาวุโสมารกระบี่แล้ว พวกข้าจึงมาคารวะถึงที่ แต่ทว่าช่างน่าเสียดาย ท่านกลับไม่อยู่! 
+R10142-1_3_5,"And there's no one to be seen in or out of the Langya Sword Pavilion, it's as if it's been abandoned.",มิหนำซ้ำ ทั้งในและนอกศาลากระบี่หลางหยา กลับไร้เงาผู้คน ราวกับเป็นสถานที่ร้างไร้ผู้ดูแล!
+R10142-1_3_6,"Yes, what's going on...",นั่นสิ นี่มันเกิดอะไรขึ้นกันแน่...
+R10142-1_3_7,"(Right, Jian Chi has already... I can't let them know about this.)",(นั่นสิ! มารกระบี่ได้... เรื่องนี้จะให้พวกนางรู้ไม่ได้เด็ดขาด!)
+R10142-1_3_8,"Haha, maybe they heard about some rare ore somewhere and everyone in the pavilion went mining.",ฮ่าฮ่า!  อาจจะมีผู้มาแจ้งข่าวว่า มีแร่วิเศษที่ใดสักแห่ง เลยพากันออกไปเสาะหาจนหมดทั้งสำนัก ก็ได้?
+R10142-1_3_9,But that wouldn't explain why everyone in the pavilion is...,ถึงกระนั้น... ก็ไม่ควรที่จะ ไปกันหมดทั้งสำนัก!
+R10142-1_3_10,"Jian Chi, Jian Chi, he's so ""obsessed"", it's not impossible for him to do something like this.",หึๆ... อย่าลืมสิว่า 'มารกระบี่' ก็คือผู้คลั่งกระบี่ การที่คนทั้งสำนักจะหายไป เพราะเรื่องบางอย่าง ก็มิใช่เรื่องแปลกอันใด!
+R10142-1_3_11,"Anyway, they probably won't be back for a while, I suggest you don't wait any longer.",สรุปแล้ว พวกเขาคงยังไม่กลับมาในเร็วๆ นี้ ข้าแนะนำว่าอย่ารอต่อไปเลยดีกว่า
+R10142-1_3_12,……,……
+R10142-1_3_13,"Indeed, we can't stay here too long...",นั่นสิ! พวกเราก็อยู่ที่นี่นานเกินไปไม่ได้...
+R10142-1_3_14,"Lady Shangguan, little sister Ling'er, is this the Langya Sword Pavilion you wanted to visit? Why is it so deserted?","แม่นางซ่างกวน, น้องหลิงเอ๋อร์, ที่นี่คือศาลากระบี่หลางหยา ที่พวกเจ้ามาเยี่ยมเยียนเหรอ? ไฉนถึงได้เงียบเหงาถึงเพียงนี้?"
+R10142-1_3_15,"Brother Yuwen, you're here~",พี่อวี้เหวินมาแล้ว~
+R10142-1_3_16,"We originally wanted to visit Elder Jian Chi, but it seems he's not here.",พวกเราตั้งใจจะมาคารวะท่านอาวุโสมารกระบี่ ที่นี่ แต่ดูเหมือนท่านจะไม่อยู่พอดี
+R10142-1_3_17,I see... And who is this?,เป็นเช่นนี้นี่เอง... ท่านผู้นี้คือ...?
+R10142-1_3_18,"I am {PlayerName}, also here to visit Elder Jian Chi, and happened to run into the two lady knights.",ข้าน้อย {PlayerName} ก็มาคารวะท่านอาวุโสมารกระบี่เช่นกัน และบังเอิญได้พบกับ แม่นางทั้งสองพอดี
+R10142-1_3_19,"I am Yuwen Yi, nice to meet you, {PlayerSurName} brother. Lady Shangguan has mentioned you a lot in her letters, it's a pleasure to finally meet you, you certainly live up to the hype.","ข้าน้อยอู๋เหวินอี้ ,ขอคารวะพี่ชาย {PlayerSurName} ในจดหมายของแม่นางซ่างกวน ไม่มีคราใดเลยที่มิได้กล่าว ถึงเรื่องราวของท่าน ในที่สุดก็มีวาสนาได้พบเจอ...ก็รู้สึกราวกับว่า เหมือนเป็นสหายที่เคยรู้จักกันมานาน! "
+R10142-1_4_1,"So you're Yuwen Yi, I've heard about you from them.",โอ้!..ที่แท้ท่านก็คือ อวี้เหวินอี้ ข้าน้อยก็เคยได้ยินชื่อเสียงร่ำลือของท่านมานาน!
+R10142-1_5_1,"(This sword dance of Lady Shangguan... Each movement is a delicate sword technique, is this what they call ""swordsmanship""?)","(เพลงกระบี่ของแม่นางซ่างกวนนี้.....ทุกกระบวนท่า ล้วนเป็นวิชากระบี่อันล้ำเลิศ นี่หรือที่เรียกว่า ""วิถีแห่งกระบี่"" ?)"
+R10142-1_5_2,"Ah, {PlayerGivenName} brother~",ท่านพี่ {PlayerGivenName} เจ้าคะ~
+R10142-1_5_3,"Let's continue the greetings later, let's get to the point.",เรื่องทักทายไว้ทีหลัง พวกเจ้าจงกล่าวถึงธุระสำคัญเสียก่อน!
+R10142-1_5_4,Oh~,โอ้~
+R10142-1_5_5,It's a fortunate thing in the world that there's a successor to the Fairy of Riding Waves.,เซียนกระบี่คลื่นสวรรค์ มีผู้สืบทอดวิชาแล้ว... นับเป็นเรื่องที่น่ายินดี!
+R10142-1_5_6,"Elder, you know about the ancestral master?",ท่านอาวุโส... รู้จักปรมาจารย์หญิงของข้าด้วยหรือ?
+R10142-1_5_7,Who among the swordsmen hasn't heard of her fame?,ผู้ฝึกกระบี่มีสักกี่คนกัน ที่จะไม่เคยได้ยินชื่อเสียงอันยิ่งใหญ่ของนาง?
+R10142-1_5_8,"I too was once young and vigorous, traveling the world with my sword, challenging all the swordsmen in the world.",อืม... ยามนั้น ข้ายังหนุ่มทรนง ถือกระบี่ท่องไปทั่วหล้า ท้าประลองยอดฝีมือทั่วแผ่นดิน
+R10142-1_5_9,"At that time, I also wanted to see the swordsmanship of the Fairy of Riding Waves, but I searched all over the world and never had the chance to meet her successor, which is one of my biggest regrets in life.",ยามนั้น ข้าผู้เฒ่าก็เคยปรารถนา จะได้เห็นวิชาของเซียนกระบี่คลื่นสวรรค์ แต่ค้นหาไปทั่วแผ่นดิน กลับมิได้พานพบเลย นี่เป็นเรื่องที่ติดค้างในใจข้ามาตลอด!
+R10142-1_5_10,"I thought the lineage of the Fairy of Riding Waves had been broken, and I was very sad. Now seeing her successor fully inheriting her teachings, it's a great joy.",แต่เดิม... ข้าก็คิดไปเองว่าวิชาของเซียนกระบี่คลื่นสวรรค์ ได้สูญหายไปแล้ว ได้แต่คร่ำครวญเสียดาย แต่ทว่า เมื่อได้เห็นฝีมือผู้สืบทอดของนาง ก็นับเป็นเรื่องน่ายินดีอย่างยิ่งแล้ว! 
+R10142-1_5_11,"Elder, you're too kind, I'm still far from it. I hope you can give us some guidance on our swordsmanship.",ท่านผู้อาวุโสชมเกินไปแล้ว! ฝีมือข้าน้อยยังห่างไกลนัก ขอท่านโปรดชี้แนะแนวทางวิถีกระบี่ แก่พวกข้าน้อยด้วยเถิด!
+R10142-1_5_12,"The swordsmanship of the Fairy of Riding Waves is unparalleled in the world, and I also want to learn from it.",วิชากระบี่ของเซียนกระบี่คลื่นสวรรค์ นับเป็นหนึ่งในใต้หล้า ข้าผู้เฒ่าก็อยากจะขอประลองฝีมือดูสักครา
+R10142-1_5_13,"How can I spar with you, elder?",ท่านผู้อาวุโส ช่างยกย่องเกินไป! ข้าน้อยมิอาจเอื้อมที่จะท้าทายท่านได้เลย!
+R10142-1_5_14,"No problem, it's also to make up for my lifelong regret. But this is not a place for fighting, please follow me, my young friends.",อย่าได้กังวล นี่เป็นการเติมเต็มใฝ่ฝันที่ติดค้างในใจตลอดมา! เพียงแต่ที่นี่มิใช่สถานที่ประลอง ขอเชิญเหล่าสหายรุ่นเยาว์ ตามข้าไปอีกที่เถิด!
+R10142-1_5_15,"Elder, this place...","ท่านผู้อาวุโส, ณ ที่แห่งนี้..."
+R10142-1_5_16,"When I was young and vigorous, if I won a challenge, I would keep the opponent's weapon as a memento.",อืม...ยามนั้นข้ายังหนุ่มทรนง หากท้าประลองผู้ใดแล้วเอาชนะ ก็จะยึดอาวุธของคู่ต่อสู้เอาไว้เพื่อเป็นที่ระลึก
+R10142-1_5_17,"Among them are world-class divine weapons, as well as ordinary ones.",ในบรรดาอาวุธเหล่านั้น... มีทั้งศาสตราเทวะที่ยอดเยี่ยมที่สุดในใต้หล้า และก็มีทั้งอาวุธธรรมดาที่เหมือนกับเศษเหล็ก
+R10142-1_5_18,These are those ordinary ones that are not pleasing to the eye.,พวกนี้หรือ... ก็เป็นเพียงเศษเหล็กไร้ค่าที่มิควรคู่แก่สายตา!
+R10142-1_5_19,
+R10142-1_5_20,"The regrets of my youth now have a chance to be made up for, and this should be the most appropriate place.",ความผิดหวังในวัยเยาว์ของข้า ตอนนี้มีโอกาสที่จะชดเชย ไม่มีที่ใดเหมาะสมไปกว่านี้แล้ว!
+R10142-1_5_21,"Since the two of you are from the same school, come together and let me see your swords.",ในเมื่อสหายรุ่นเยาว์ทั้งคู่ เป็นศิษย์ร่วมสำนัก ก็มาพร้อมกันเลยเถิด ให้ข้าได้ขอประลองเพลงกระบี่ของพวกเจ้าดูสักครา
+R10142-1_6_1,As expected of Senior Jian Chi...,สมแล้วที่เป็นท่านผู้อาวุโส มารกระบี่...
+R10142-1_6_2,"I didn't expect that even though the senior was holding back, we two were still not his match...",ไม่คาดคิดเลยว่า แม้ว่าท่านผู้อาวุโสออมมือให้ พวกข้าน้อยทั้งคู่ก็ ไม่ใช่คู่มืออยู่ดี...
+R10142-1_6_3,"At your age, it's already impressive to have such skills.",ด้วยวัยเพียงเท่านี้...แต่กลับมีฝีมือถึงเพียงนี้ ก็นับว่ายอดเยี่ยมแล้ว
+R10142-1_7_1,"Indeed, the waves behind drive on those before.",คลื่นลูกใหม่ย่อมแรงกว่าคลื่นลูกเก่าจริงๆ
+R10142-1_7_2,"No, it's the senior who was holding back... If the senior didn't hold back just now, we two would have lost long ago.",ไม่จริงเลย! เป็นเพราะท่านอาวุโสออมมือให้... หากท่านอาวุโสมิได้ยั้งมือเมื่อครู่ พวกข้าน้อยทั้งคู่ คงพ่ายแพ้ไปนานแล้ว
+R10142-1_8_1,"{PlayerName}, you come over too.","{PlayerName}, เจ้าก็เข้ามาด้วย"
+R10142-1_8_2,"Senior, what advice do you have?","ท่านอาวุโส, มีสิ่งใดจะชี้แนะข้าน้อยหรือ?"
+R10142-1_8_3,What do you think of their kung fu after watching them?,เจ้าได้เฝ้ามองวิชาของพวกนางอยู่ รู้สึกอย่างไรบ้าง?
+R10142-1_8_4,"With the senior here, I shouldn't say much. But since the senior asked me to speak, I'll just say a few words.",ต่อหน้าผู้อาวุโส ข้าน้อยไหนเลยจะกล้ากล่าวสิ่งใด แต่เคารพมิสู้เชื่อฟัง... ข้าน้อยก็ขอพูดสักสองสามคำ
+R10142-1_8_5,"Miss Shangguan and Sister Ling's moves are very proficient, and their cooperation can be described as a Flawless Plan, but when I watched, I always felt something was strange...",กระบวนท่าของแม่นางซ่างกวน และแม่นางหลิงเอ๋อร์นั้น ช่างเชี่ยวชาญยิ่ง การประสานงานก็ไร้ที่ติ แต่เมื่อข้าได้เฝ้ามอง กลับรู้สึกว่ามีบางอย่างที่ผิดแปลกไป..
+R10142-1_8_6,What's strange?,มันแปลกตรงไหน?
+R10142-1_8_7,"I can't quite say it, but it always feels very subtle. Although their moves, cooperation, and footwork are all exquisite, it just feels like something is wrong...",ข้าก็อธิบายไม่ถูก...แต่รู้สึกถึงความละเอียดอ่อน ทั้งที่ กระบวนท่า การประสานงาน และการเคลื่อนไหว ของพวกนางล้วนยอดเยี่ยม แต่ทว่าก็ยังคงรู้สึกว่ามีบางสิ่งไม่ถูกต้องอยู่ดี...
+R10142-1_8_8,"At your age, it's already very good to see this.",ด้วยวัยเพียงเท่านี้...การที่เจ้าสามารถมองเห็นได้ถึงขนาดนี้ ก็นับว่ายอดเยี่ยมแล้ว
+R10142-1_9_1,"In my opinion, your problem is not in your skills, but in your hearts.",ในความเห็นของข้าผู้เฒ่า ปัญหาของพวกเจ้ามิได้อยู่ที่วรยุทธ์ แต่ทว่าอยู่ที่ใจ
+R10142-1_9_2,In the heart...,หมายถึงจิตใจ...เช่นนั้นรึ?
+R10142-1_9_3,"About these swords, I've only told half of the story.",เรื่องของกระบี่เหล่านี้...ข้าผู้เฒ่าเพิ่งจะกล่าวไปเพียงครึ่งเดียวเท่านั้น
+R10142-1_9_4,"Back in the day, I challenged everywhere and was known as Undefeated, but I eventually lost.",ในครานั้น ข้าผู้เฒ่าออกท้าประลองทั่วหล้า...เรียกได้ว่าไร้ผู้ต่อต้าน! ทว่าท้ายที่สุด ข้าผู้เฒ่าก็ยังคงปราชัย
+R10142-1_10_1,What? How is that possible?,อะไรนะ? เป็นไปได้อย่างไร?
+R10142-1_11_1,"Someone actually defeated you, Master?!",ไม่น่าเชื่อเลยว่าจะมีผู้ใด สามารถเอาชนะท่านอาจารย์ได้?
+R10142-1_12_1,"The one who could defeat the senior must be a highly skilled senior, I wonder who it is?",ผู้ที่สามารถเอาชนะท่านผู้อาวุโสได้...ย่อมมิใช่คนธรรมดาเป็นแน่? ไม่ทราบว่าคือผู้ใด?
+R10142-1_12_2,"No, he doesn't know martial arts, not even half a move.",เปล่าเลย...เขามิได้ร่ำเรียนวรยุทธ์เลยแม้แต่น้อย
+R10142-1_12_3,"That day, I returned from a sword fight. Although I won, my sword had seventeen notches and was almost broken.",ในวันนั้น...ข้าผู้เฒ่ากลับจากการประลองกระบี่ แม้คว้าชัยมาได้ ทว่าคมกระบี่กลับแตกร้าวถึงสิบเจ็ดรอย แทบจะหักสะบั้น
+R10142-1_12_4,"Suddenly it rained heavily on the road, so I took shelter in a nearby village. I heard the sound of a blacksmith's forge in the village and knocked on the door to repair my sword.",วันนั้นฝนตกหนักมาก ข้าผู้เฒ่าจึงแวะหลบฝนในหมู่บ้านใกล้เคียง ได้ยินเสียงโรงตีเหล็กกำลังตีดาบ จึงเคาะประตูขอเข้าซ่อมแซมกระบี่
+R10142-1_12_5,"The old blacksmith looked at the sword and thought for a long time, then suddenly said, ""You lost.""","ช่างตีเหล็กเฒ่าผู้นั้น มองดูกระบี่ครุ่นคิดอยู่ครู่ใหญ่ พลันเอ่ยขึ้นว่า ""เจ้าแพ้แล้ว"""
+R10142-1_12_6,"I was young and vigorous at the time and didn't accept it, so I wanted to argue with him, but he just hammered the sword and didn't even look at me.",ในครานั้น ข้าผู้เฒ่ายังเยาว์วัย หยิ่งทะนงนักจึงมิยอมรับ หมายจะโต้เถียงกับเขา แต่ทว่า เขากลับมัวทุ่มเทในการตีดาบ ไม่แม้แต่จะเงยหน้ามองข้า แม้แต่สักครั้งเดียว
+R10142-1_12_7,"At that time, I thought he was a hidden swordsman and secretly thought about how to make a move to win. But he actually repaired the sword for a whole shichen without even messing up his breathing, and I felt there was no way to start.",ในครานั้น ข้าผู้เฒ่าเพียงคิดว่าเขาเป็นจอมกระบี่เร้นกาย แอบคิดว่าจะออกกระบวนท่าใด จึงจะเอาชนะเขาได้ แต่ทว่าเขากลับซ่อมกระบี่อยู่เต็มหนึ่งชั่วยาม โดยที่ลมหายใจมิได้ขาดห้วงแม้แต่น้อย ข้าก็รู้สึกว่ามิอาจโจมตีเขาได้เลย
+R10142-1_12_8,"Then, I knew I had lost. Not in martial arts, but in my heart, in the way of the sword.",ในตอนนั้น ข้าผู้เฒ่าก็รู้แล้วว่า ข้าพ่ายแพ้ มิได้พ่ายแพ้ในเชิงวรยุทธ์ ทว่าพ่ายแพ้ที่จิตใจ พ่ายแพ้ที่วิถีกระบี่
+R10142-1_12_9,"After that day, I took him as my teacher and began to study the way of sword making. The deeper I studied, the more shallow and ignorant I felt, and the more endless the way of the sword seemed...",นับแต่วันนั้น ข้าผู้เฒ่าก็คารวะเขาเป็นอาจารย์ เริ่มศึกษาเส้นทางแห่งการหลอมกระบี่ ยิ่งข้าศึกษาลึกซึ้งเพียงใด ก็ยิ่งรู้สึกว่าตนเองตื้นเขินและไร้ความรู้เพียงนั้น ยิ่งรู้สึกว่า วิถีกระบี่นั้นไร้ขอบเขต..
+R10142-1_12_10,"So, after decades, I finally made the sharpest sword in the world, which is not a divine weapon Sharp, but myself.",ผ่านไป หลายสิบปี ข้าผู้เฒ่าจึงได้บรรลุถึงสัจธรรมแห่งกระบี่...ซึ่งมิใช่คมกระบี่อันใด หากแต่คือการหลอมรวมจิตวิญญาณ ให้เป็นหนึ่งเดียวกับคมกระบี่ 
+R10142-1_12_11,"You two are now very similar to me back then. There is nothing to criticize about your skills, but you lost in your hearts.",พวกเจ้าทั้งสองในตอนนี้ ช่างเหมือนกับข้าผู้เฒ่า ในอดีต! วรยุทธ์เลิศล้ำ แต่ทว่ากลับพ่ายแพ้ที่จิตใจ
+R10142-1_12_12,"Shangguan Hong, there is too much confusion in your heart, too many concerns, too many people, things, and objects you care about.","ซ่างกวนหง, ในใจของเจ้า มีความสับสนมากเกินไป เจ้ายึดติดกับความผูกพัน มีผู้คน สิ่งของ เรื่องราวที่เจ้าใส่ใจมากเกินไป"
+R10142-1_12_13,"And Sima Ling, you are just the opposite of her, you are too naive and carefree, even the knife in your hand doesn't care.","และ ซือหม่าหลิง, เจ้ากับนางนั้นตรงกันข้าม เจ้าไร้เดียงสาเกินไป ไร้ความกังวลมากเกินไป แม้กระทั่งดาบในมือเจ้าก็ยังไม่ใส่ใจ"
+R10142-1_12_14,"Although you two complement each other, you also hinder each other. Therefore, whether it is a combination of swords or a single fight, there will be opportunities for others to take advantage of.",พวกเจ้าทั้งสองแม้จะเติมเต็มซึ่งกันและกัน แต่ก็ถ่วงรั้งซึ่งกันและกัน ด้วยเหตุนี้ ไม่ว่าจะเป็นการร่วมมือกันด้วยดาบและกระบี่ หรือการต่อสู้เพียงลำพัง ก็ล้วนแต่เปิดช่องว่างให้ศัตรูฉวยโอกาสโจมตีได้
+R10142-1_12_15,"Humans have feelings, but swords do not. When deciding to draw your sword, there is no need for distractions in your heart, only the sword is enough.",คนนั้นมีความรู้สึก แต่กระบี่กลับไร้ความรู้สึก เมื่อตัดสินใจจะชักกระบี่ จิตใจต้องไม่มีความคิดฟุ้งซ่าน ไม่ลังเล มีเพียงแค่กระบี่ก็พอแล้ว
+R10142-1_12_16,"(The way of Martial Arts, not only lies in the external, but more in the internal, in the heart...)",(วิถีแห่งวรยุทธ์นั้น...มิได้อยู่ที่ท่วงท่าภายนอก แต่สำคัญยิ่งกว่านั้น...คืออยู่ที่ภายใน อยู่ที่จิตใจ...)
+R10142-1_12_17,"(It seems that I understand something, but I don't seem to understand very clearly...)",(ข้าคล้ายจะเข้าใจ...แต่ก็ยังไม่เข้าใจ)
+R10142-1_12_18,What the senior said is indeed the key point...,สิ่งที่ท่านผู้อาวุโสกล่าวมานั้น ช่างถูกต้องและตรงประเด็นยิ่งนัก....
+R10142-1_12_19,"The ""Baidi Sword Spirit"" left by the Ancestor Granny, its purpose is also to refine the heart. I didn't understand it at first, but after listening to the senior's words, it's like seeing the sun through the clouds...",《คัมภีร์จิตกระบี่จักรพรรดิขาว》ที่ท่านปรมาจารย์หญิงทิ้งไว้นั้น มีแก่นแท้อยู่ที่การฝึกฝนจิตใจ แต่เดิมมิเข้าใจเลย ทว่าเมื่อได้ฟังคำกล่าวของผู้อาวุโส ก็ประจักษ์แจ้งราวเมฆหมอกสลายหายไป..
+R10142-1_12_20,"So the ultimate mental method realized by the Ancestor Granny is also about cultivating the heart, cultivating the Passive...",แท้จริงแล้ว...เคล็ดวิชาสูงสุด ที่ท่านปรมาจารย์หญิงได้ตระหนักรู้ แก่นแท้ของมันก็คือการฝึกฝนจิตใจ จากการฝึกฝนวิถียุทธ์
+R10142-1_12_21,"As expected of the Grand Master, we see the same. It's a great regret in my life that I can't get her guidance.",สมแล้วที่เป็นปรมาจารย์แห่งยุค ความคิดเห็นช่างตรงกัน การที่มิอาจได้รับการชี้แนะจากนาง ช่างเป็นความเสียดายครั้งใหญ่ในชีวิต
+R10142-1_12_22,"The Ancestor Granny has already ascended to immortality, this is something that can't be helped. Fortunately, her legacy is still here. This ""Baidi Sword Spirit"" is the work of her Old Man's heart and blood, and it is also given to {PlayerSurName} young hero, hoping to be of some help.",ท่านปรมาจารย์หญิงได้จากโลกนี้ไปนานแล้ว แต่โชคดีที่การสืบทอดของนางยังคงอยู่ 《คัมภีร์จิตกระบี่จักรพรรดิขาว》เล่มนี้เป็นผลงานที่ท่านสร้างสรรค์ขึ้น ขอมอบให้แก่ จอมยุทธ์น้อย {PlayerSurName}  หวังว่าจะช่วยท่านได้บ้าง
+R10142-1_12_23,"Thank you, Lady Shangguan.",ขอบคุณมาก แม่นางซ่างกวน
+R10142-1_12_24,"Hehe, with this divine skill to help, {PlayerName} seems to be going to the next level.","ฮ่าฮ่า เมื่อมีเทพวิชานี้ช่วยเหลือ, {PlayerName} ดูท่าจะก้าวหน้าไปอีกขั้นแล้ว"
+R10142-1_12_25,"Pavilion Master, there is a young hero outside the door, claiming to be Yuwen Yi from Wudang, asking to see the Pavilion Master.",ท่านเจ้าสำนัก นอกประตูมีท่านจอมยุทธน้อย อ้างว่าตนคือ อู๋เหวินอี้ จากสำนักบู๊ตึ๊ง ขอเข้าพบท่านเจ้าสำนัก
+R10142-1_13_1,"(Yuwen Yi, isn't he the friend of Lady Shangguan and Ling'er?)",(อู๋เหวินอี้...ใช่สหายของ แม่นางซ่างกวนและหลิงเออร์ผู้นั้นหรือ?)
+R10142-1_14_1,"Wudang... Okay, please invite him to the Three Feet Hall, I will be there soon.",สำนักบู๊ตึ๊ง...ดี!เชิญเขาไปที่ศาลาสามฉื่อ เพื่อสนทนา ข้าจะตามไปในภายหลัง
+R10142-1_14_2,"There are some affairs in the pavilion that need to be handled by the old man, so I won't accompany you much. The three young heroes, please feel free to do so.",ในสำนักข้ายังมีธุระที่ต้องสะสาง ข้ามิอาจอยู่ต่อได้แล้ว จอมยุทธ์น้อยทั้งสาม ..เชิญตามสบาย
+R10142-1_14_3,Sister Hong...,พี่หญิงหง...
+R10142-1_14_4,"Well, the timing is just right.",หืม...เวลานี้ช่างพอเหมาะพอดี
+R10142-1_14_5,"{PlayerSurName} young hero, I have a friend who I'd like to introduce you to.",จอมยุทธน้อย {PlayerSurName}，ข้ามีสหายคนหนึ่งอยากแนะนำให้ท่านรู้จัก
+R10142-1_14_6,Could it be...,มันอาจจะเป็น...
+R10142-1_14_7,"Sure, please follow me.",อืม...โปรดตามข้ามา
+R10142-1_14_8,"Brother Yuwen, have you finished talking with Elder Jian Chi?",พี่อู๋เหวิน...ท่านคุยกับผู้อาวุโสมารกระบี่เสร็จแล้วหรือ?
+R10142-1_14_9,"Indeed, Elder Jian Chi is truly remarkable. Even a brief conversation with him is incredibly enlightening.",อืม...สมแล้วที่เป็นผู้อาวุโสมารกระบี่ เพียงแค่สนทนากันไม่กี่ประโยค ก็ได้รับประโยชน์อย่างมหาศาลแล้ว
+R10142-1_14_10,"So, this is the person you were talking about...",ว่าแต่ท่านผู้นี้...ก็คือคนที่พวกเจ้ากล่าวถึงกระนั้นรึ?
+R10142-1_14_11,"Yes, this is {PlayerName}, the young hero {PlayerSurName}.","ใช่แล้ว...ท่านผู้นี้คือ {PlayerName} ,ท่านจอมยุทธน้อย {PlayerSurName}"
+R10142-1_14_12,"I am Yuwen Yi, nice to meet you, Brother {PlayerSurName}.
+Miss Shangguan has mentioned you quite a lot in her letters. It's a pleasure to finally meet you in person. You certainly live up to the great first impression.","ข้าน้อยอู๋เหวินอี้ ,ขอคารวะพี่ชาย {PlayerSurName}\nในจดหมายของแม่นางซ่างกวน ไม่มีคราใดเลยที่มิได้กล่าว ถึงเรื่องราวของท่าน ในที่สุดก็มีวาสนาได้พบเจอ...ก็รู้สึกราวกับว่าเหมือนเป็นสหายที่เคยรู้จักกันมานาน!"
+R10142-1_19_1,"There's no need for formalities, Brother Yuwen. Friends of Miss Shangguan are friends of mine. Unfortunately, we don't have any fine wine or food here. Why don't we move to the Wine God Tower in Lin'an City for a proper chat?",พี่อู๋เหวิน...มิต้องมากพิธี สหายของแม่นางซ่างกวนก็คือสหายของข้า น่าเสียดายที่ ณ ที่นี้มิมีสุราอาหารเลิศรส เช่นนั้น พวกเราไปที่ร้านหอคอยเทพสุราเมืองหลินอัน เพื่อสนทนากันให้เต็มที่เถิด
+R10142-1_19_2,"{PlayerSurName} brother's kindness is appreciated by Yuwen Yi, but unfortunately we have important matters to attend to and cannot delay. If we meet again in the future, we will definitely have a good drink with {PlayerSurName} brother for several days and nights!",น้ำใจของพี่ชาย {PlayerSurName} ..อู๋เหวินอี้ซาบซึ้งใจยิ่งนัก! แต่เสียดายที่พวกเรามีธุระสำคัญเร่งด่วนอยู่ ไม่อาจรอช้าได้ หากได้พบกันอีกครา...จักร่ำสุรากับพี่ชาย {PlayerSurName} สักหลายวันเป็นแน่!
+R10142-1_19_3,You guys...?,พวกเจ้า...?
+R10142-1_19_4,"Well, a few days ago, young master Yuwen sent a letter saying that there was an urgent matter that needed me and Ling'er's help. We have already delayed a few days visiting senior Jian Chi, I'm afraid...",อืม...เมื่อไม่กี่วันก่อน คุณชายอู๋เหวินได้ส่งสารมา บอกว่ามีธุระสำคัญเร่งด่วน ต้องการให้ข้าและหลิงเออร์ช่วยเหลือ พวกข้ามาคารวะผู้อาวุโสมารกระบี่ ก็เสียเวลาไปหลายวันแล้ว ข้าเกรงว่า...
+R10142-1_19_5,"I see. Since you have important matters to attend to, I won't keep you. I just hope that we will have the opportunity to meet again in the future.",เมื่อท่านมีธุระสำคัญรออยู่ ข้ามิอาจเหนี่ยวรั้ง ขอเพียงมีโอกาส เราคงได้ร่ำสุราสนทนากันใหม่ในภายภาคหน้า
+R10142-1_19_6,"Being in the same martial arts world, there will definitely be opportunities.",ในเมื่อต่างก็ท่องยุทธภพ ย่อมมีโอกาส มาพบพานกันอีกครา!
+R10142-1_15_1,"{PlayerSurName} young hero, thank you for your care these days, please accept this sword.",จอมยุทธน้อย {PlayerSurName}，ตลอดหลายวันที่ผ่านมา ท่านได้ดูแลข้าเป็นอย่างดี ข้าขอตอบแทนน้ำใจด้วยกระบี่เล่มนี้ โปรดจงรับไว้เถิด
+R10142-1_16_1,"Ah, Sister Hong is so cunning, she actually took a step ahead of Ling'er!",โอ้! พี่หญิงหงช่างร้ายกาจนัก ไยจึงชิงลงมือก่อน หลิงเอ๋อร์เช่นนี้เล่า!
+R10142-1_16_2,"{PlayerGivenName} Brother, this is a hat that Ling'er sewed for you with the Cloth she bought in Daliang City. {PlayerGivenName} Brother will look good when he wears it, try it quickly~","พี่{PlayerGivenName} เจ้าคะ! ,นี่หมวกที่หลิงเอ๋อร์ตั้งใจใช้ผ้าจากต้าเหลียง เย็บด้วยตัวเองเลยนะเจ้าคะ ,พี่{PlayerGivenName} ใส่แล้วต้องดูสง่างามแน่ๆ ลองใส่ดูเลยเจ้าค่ะ!"
+R10142-1_16_3,"Thank you, Sister Ling'er~",อืม...ขอบคุณมากนะน้องหลิงเอ๋อร์~
+R10142-1_17_1,"Thank you, Lady Shangguan.",ขอบคุณมาก แม่นางซ่างกวน
+R10142-1_18_1,"{PlayerSurName} Young hero, see you again.","จอมยุทธน้อย {PlayerSurName}, แล้วพบกันใหม่"
+R10142-1_18_2,"{PlayerGivenName} Brother, goodbye~","พี่ {PlayerGivenName} ,ไปแล้วนะ! อย่าเพิ่งคิดถึงกันจนนอนไม่หลับล่ะ!"
+R10142-1_18_3,"Well, see you again.","อืม, แล้วพบกันใหม่..."
+R10142-1_18_4,"Gatherings and partings always have their time, and there will be a reunion in the future.
+Where we meet again, we must drink a hundred cups of wine.","ไม่มีงานเลี้ยงใด ไม่มีวันเลิกลา   วันนี้อาจจาก พรุ่งนี้อาจพานพบ\nเมื่อใดที่เส้นทาง นำพาให้บรรจบ   สุรานับร้อยจอก ก็คงมิอาจพอ!"
+BattleFieldInfo_R10070-5vs黑衣人,<#61C3C8>All</color> join the battle,<#61C3C8>ทั้งหมด</color> เข้าร่วมการต่อสู้
+BattleFieldWin_R10070-5vs黑衣人,Defeat <#61C3C8>all enemies</color>,เอาชนะ <#61C3C8>ศัตรูทั้งหมด</color>
+BattleFieldFail_R10070-5vs黑衣人,"<#61C3C8>All of us, Liu Fuming, Liu Bencao</color> were defeated",<#61C3C8>พวกเราทั้งหมด หลิวฝูหมิง หลิวเปิ่นเฉา</color> พ่ายแพ้
+BattleFieldInfo_R10142-1援助vs剑痴,"<#61C3C8>Shangguan Hong, Sima Ling</color> join the battle","<#61C3C8> ซ่างกวนหง,ซือหม่าหลิง </color> เข้าร่วมการต่อสู้"
+BattleFieldWin_R10142-1援助vs剑痴,Defeat <#61C3C8>Jian Chi</color>,เอาชนะ<#61C3C8> มารกระบี่ </color>
+BattleFieldFail_R10142-1援助vs剑痴,"<#61C3C8>Shangguan Hong, Sima Ling</color> were defeated","<#61C3C8> ซ่างกวนหง,ซือหม่าหลิง </color> พ่ายแพ้"
+R10142-1_20_1,"Ah, {PlayerGivenName} brother~",ท่านพี่ {PlayerGivenName} เจ้าคะ~
+R10142-1_20_2,"{PlayerSurName} young hero, we meet again.","จอมยุทธน้อย {PlayerSurName}, เราได้พบกันอีกแล้ว"
+R10142-1_20_3,I didn't expect to run into you here.,ไม่นึกเลย ว่าจะมาเจอพวกท่านที่นี่
+R10142-1_20_4,"Well... Under the heavens, there's no better swordsman than Elder Jian Chi, so we thought we'd come to visit him, but it seems he's not in the pavilion...",อืม... ยอดกระบี่ใต้หล้า ไม่มีผู้ใดเทียมเท่า ท่านอาวุโสมารกระบี่แล้ว พวกข้าจึงมาคารวะถึงที่ แต่ทว่าช่างน่าเสียดาย ท่านกลับไม่อยู่!
+R10142-1_20_5,"Hehe, the disciple of the Riding Waves fairy came to visit, I failed to welcome you from afar, it's my rudeness.",โอ้! ศิษย์ของเซียนกระบี่คลื่นสวรรค์ มาเยือน ข้ามิได้ออกมาต้อนรับ ช่างเสียมารยาทนัก!
+R10142-1_20_6,So the senior is...,โอ้! ที่แท้ท่านอาวุโสก็คือ...
+R10142-1_20_7,"Yes, I am Jian Chi.",อืม... ข้าผู้เฒ่านี้แหละคือ มารกระบี่
+R10142-1_20_8,"Elder, you know about the ancestral master?",ท่านอาวุโส... รู้จักปรมาจารย์หญิงของข้าด้วยหรือ?
+R10142-1_20_9,Who among the swordsmen hasn't heard of her fame?,ผู้ฝึกกระบี่มีสักกี่คนกัน ที่จะไม่เคยได้ยินชื่อเสียงอันยิ่งใหญ่ของนาง?
+R10142-1_20_10,"I too was once young and vigorous, traveling the world with my sword, challenging all the swordsmen in the world.",อืม... ยามนั้น ข้ายังหนุ่มทรนง ถือกระบี่ท่องไปทั่วหล้า ท้าประลองยอดฝีมือทั่วแผ่นดิน
+R10142-1_20_11,"At that time, I also wanted to see the swordsmanship of the Fairy of Riding Waves, but I searched all over the world and never had the chance to meet her successor, which is one of my biggest regrets in life.",ยามนั้น ข้าผู้เฒ่าก็เคยปรารถนา จะได้เห็นวิชาของเซียนกระบี่คลื่นสวรรค์ แต่ค้นหาไปทั่วแผ่นดิน กลับมิได้พานพบเลย นี่เป็นเรื่องที่ติดค้างในใจข้ามาตลอด!
+R10142-1_20_12,"I thought the lineage of the Fairy of Riding Waves had been broken, and I was very sad. Now seeing her successor fully inheriting her teachings, it's a great joy.",แต่เดิม... ข้าก็คิดไปเองว่าวิชาของเซียนกระบี่คลื่นสวรรค์ ได้สูญหายไปแล้ว ได้แต่คร่ำครวญเสียดาย แต่ทว่า เมื่อได้เห็นฝีมือผู้สืบทอดของนาง ก็นับเป็นเรื่องน่ายินดีอย่างยิ่งแล้ว! 
+R10142-1_20_13,"Elder, you're too kind, I'm still far from it. I hope you can give us some guidance on our swordsmanship.",ท่านผู้อาวุโสชมเกินไปแล้ว! ฝีมือข้าน้อยยังห่างไกลนัก ขอท่านโปรดชี้แนะแนวทางวิถีกระบี่ แก่พวกข้าน้อยด้วยเถิด!
+R10142-1_20_14,"The swordsmanship of the Fairy of Riding Waves is unparalleled in the world, and I also want to learn from it.",วิชากระบี่ของเซียนกระบี่คลื่นสวรรค์ นับเป็นหนึ่งในใต้หล้า ข้าผู้เฒ่าก็อยากจะขอประลองฝีมือดูสักครา
+R10142-1_20_15,"How can I spar with you, elder?",ท่านผู้อาวุโส ช่างยกย่องเกินไป! ข้าน้อยมิอาจเอื้อมที่จะท้าทายท่านได้เลย!
+R10142-1_20_16,"No problem, it's also to make up for my lifelong regret. But this is not a place for fighting, please follow me, my young friends.",อย่าได้กังวล นี่เป็นการเติมเต็มใฝ่ฝันที่ติดค้างในใจตลอดมา! เพียงแต่ที่นี่มิใช่สถานที่ประลอง ขอเชิญเหล่าสหายรุ่นเยาว์ ตามข้าไปอีกที่เถิด!

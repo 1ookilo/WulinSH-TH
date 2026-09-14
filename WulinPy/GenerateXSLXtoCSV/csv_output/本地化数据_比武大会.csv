@@ -1,0 +1,13 @@
+key,original,translation,context
+CompetitionRoundTitle,Round {0},,第{0}场
+猫狗大战,Martial Arts Tournament,,比武大会
+CompetitionFinalRoundTitle,Final Battle,,最终战
+AudienceCheer_Normal,Cut him!|Good hit!|Beautiful!|Impressive!|Hit him fast!|Start fighting!|Put some strength into it!|Didn't you eat?|Come on!|Keep going!!|Hit him hard!|Attack his lower body!|Hit his chin!|Left hook!|Right hook!|Don't go easy!,,砍他！|打得好！|漂亮！|厉害！|快打他！|打起来！|用力啊！|没吃饭吗！|加油！|加油啊！！|狠狠地打！|攻他下盘！|打他下巴！|左勾拳！|右勾拳！|别放水啊！
+AudienceCheer_UniqueSkill,This move is powerful!|Good move!|Exciting!|Amazing!!|Oh!|It looks painful.|Awesome!|Keep hitting!|Don't stop!|Take his life while he's sick!|The victory will be decided on the Horse!|He can't even stand!|You're going to win!|Give him another move!|Don't be soft-hearted!,,这招厉害！|好招！|精彩！|厉害啊！！|喔！|看着就疼。|牛啊！|继续打！|别停！|趁他病要他命！|马上见胜负了！|他都站不住了！|赢定了！|再来一招！|别心软！
+AudienceCheer_HpLessThan30Percent,Keep hitting!|Don't stop!|Take his life while he's sick!|The victory will be decided on the Horse!|He can't even stand!|You're going to win!|Give him another move!|Don't be soft-hearted!|Cut him!|Good hit!|Beautiful!|Impressive!|Hit him fast!|Start fighting!|Put some strength into it!|Didn't you eat?|Come on!|Keep going!!|Hit him hard!|Attack his lower body!|Hit his chin!|Left hook!|Right hook!|Don't go easy!,,继续打！|别停！|趁他病要他命！|马上见胜负了！|他都站不住了！|赢定了！|再来一招！|别心软！|砍他！|打得好！|漂亮！|厉害！|快打他！|打起来！|用力啊！|没吃饭吗！|加油！|加油啊！！|狠狠地打！|攻他下盘！|打他下巴！|左勾拳！|右勾拳！|别放水啊！
+AudienceCheer_FinalHit,He won!|Well fought!|So exciting!|Let's have another round!|This money is well spent!|I could do it too!|Impressive!|This move is powerful!|Good move!|Exciting!|Amazing!!|Oh!|It looks painful.|Awesome!,,他赢了！|打的好啊！|真精彩！|再来一场！|这钱花的值！|我上我也行！|厉害！|这招厉害！|好招！|精彩！|厉害啊！！|喔！|看着就疼。|牛啊！
+啊6,Ah 7,,啊7
+啊7,Ah 8,,啊8
+啊8,Ah 9,,啊9
+啊9,Ah 10,,啊10
+,,,

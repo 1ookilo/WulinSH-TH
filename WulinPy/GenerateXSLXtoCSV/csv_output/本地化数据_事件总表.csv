@@ -1,0 +1,73 @@
+key,original,translation,context
+StoryGroup_死亡结局,Death ending.,,死亡结局
+StoryGroup_主线,Main storyline.,,主线
+StoryGroup_燕歌行的故事,Matters of the Sect,,师门之事
+StoryGroup_伙伴的故事,Companion's story.,,伙伴的故事
+StoryGroup_楚襄城的故事,Story of Chuxiang City.,,楚襄城的故事
+StoryGroup_十字坡的故事,Story of Cross Hill.,,十字坡的故事
+StoryGroup_无名小村的故事,Story of Nameless village.,,无名小村的故事
+StoryGroup_迷踪林的故事,Story of Lost Forest.,,迷踪林的故事
+StoryGroup_霖安城的故事,Story of Lin'an City.,,霖安城的故事
+StoryGroup_燕云铁军的故事,Story of Yan Yun Iron Army.,,燕云铁军的故事
+StoryGroup_宠物,Pets.,,宠物
+StoryGroup_破庙的故事,Story of Ruined shrine.,,破庙的故事
+StoryGroup_青风寨的故事,Story of Blue Wind Camp.,,青风寨的故事
+StoryGroup_藏宝图,Treasure map,,藏宝图
+StoryGroup_大梁城的故事,Story of Daliang City.,,大梁城的故事
+StoryGroup_状态事件,Status events.,,状态事件
+StoryGroup_大地图事件,World map events.,,大地图事件
+StoryGroup_琳琅馆的故事,Story of Linlang Temple.,,琳琅馆的故事
+StoryGroup_无名山洞的故事,Story of Nameless cave.,,无名山洞的故事
+StoryGroup_节日庆典,Holiday celebrations.,,节日庆典
+StoryGroup_野狼谷的故事,Story of Wild Wolf Valley.,,野狼谷的故事
+StoryGroup_论道峰的故事,Story of Peak of Challenge.,,论道峰的故事
+StoryGroup_夜摩坊的故事,Story of Night Auction Market.,,夜摩坊的故事
+StoryGroup_将军府的差事,The story of the General's mansion,,将军府的故事
+StoryGroup_行辕大营的故事,Story of Palace Camp.,,行辕大营的故事
+StoryGroup_楚襄城悬赏,Bounty of Chuxiang City.,,楚襄城悬赏
+StoryGroup_大梁城悬赏,Bounty of Daliang City.,,大梁城悬赏
+StoryGroup_霖安城悬赏,Bounty of Lin'an City.,,霖安城悬赏
+StoryGroup_飞瀑峰的故事,Story of Feipu Peak.,,飞瀑峰的故事
+StoryGroup_大王寨的故事,Story of Bandit Chief Stronghold.,,大王寨的故事
+StoryGroup_月老祠的故事,Story of God of Marriage's Shrine.,,月老祠的故事
+StoryGroup_释法寺的故事,Story of Shifa Temple.,,释法寺的故事
+StoryGroup_浮屠寺的故事,Story of Buddha Temple.,,浮屠寺的故事
+StoryGroup_叶家军的故事,Story of Ye Family Battalion.,,叶家军的故事
+StoryGroup_新增无记录任务,New task without record.,,新增无记录任务
+StoryGroup_客栈事件,Inn events.,,客栈事件
+StoryGroup_悬赏-缉拿要犯类型任务,Bounty - Wanted criminal type task.,,悬赏-缉拿要犯类型任务
+StoryGroup_青风寨事件,Blue Wind Camp events.,,青风寨事件
+StoryGroup_燕子窝事件,The story of Nest of Swallow.,,燕子窝的故事
+StoryGroup_神捕门事件,The story of Crime Investigation Bureau.,,神捕门的故事
+StoryGroup_琅琊剑阁事件,The story of Langya Sword Pavilion.,,琅琊剑阁的故事
+StoryGroup_灭门自动退门事件,Automatic exit event of extermination.,,灭门自动退门事件
+StoryGroup_摸金门事件,The story of Tomb Raider Sect.,,摸金门的故事
+StoryGroup_九江水寨事件,The story of Jiujiang Fotress.,,九江水寨的故事
+StoryGroup_释法寺事件,Shifa Temple events.,,释法寺的故事
+StoryGroup_儒圣馆的故事,The story of Confucius Temple.,,儒圣馆的故事
+StoryGroup_道玄宗的故事,The story of Taoist Sect.,,道玄宗的故事
+StoryGroup_江湖事件,Jianghu events.,,江湖事件
+StoryGroup_霖安城事件,Lin'an City events.,,霖安城事件
+StoryGroup_琳琅馆事件,Linlang Temple events.,,琳琅馆事件
+StoryGroup_楚襄城事件,Chuxiang City events.,,楚襄城事件
+StoryGroup_临时事件,Temporary events.,,临时事件
+StoryGroup_善后补漏事件,Follow-up events.,,善后补漏事件
+StoryGroup_5门派切磋新事件,New events of 5 sects' competition.,,5门派切磋新事件
+StoryGroup_青风寨悬赏,Bounty of Blue Wind Camp.,,青风寨悬赏
+StoryGroup_琅琊剑阁悬赏,Bounty of Langya Sword Pavilion.,,琅琊剑阁悬赏
+StoryGroup_燕子窝悬赏,Bounty of Nest of Swallow.,,燕子窝悬赏
+StoryGroup_神捕门悬赏,Bounty of Crime Investigation Bureau.,,神捕门悬赏
+StoryGroup_道玄宗悬赏,Bounty of Taoist Sect.,,道玄宗悬赏
+StoryGroup_全局状态检测事件,Global status check event.,,全局状态检测事件
+StoryGroup_大梁城事件,Daliang City events.,,大梁城事件
+StoryGroup_伙伴事件,Companion events.,,伙伴事件
+StoryGroup_骰子事件1,Dice event 1.,,骰子事件1
+StoryGroup_骰子事件2,Dice event 2.,,骰子事件2
+StoryGroup_成就事件,Achievement events.,,成就事件
+StoryGroup_马车通知事件,Horse carriage notification event.,,马车通知事件
+StoryGroup_老魔头系列事件,The Old Demon series event.,,老魔头系列事件
+StoryGroup_康王登基syy,Duke Kang's coronation.,,康王登基
+StoryGroup_妙音坊的故事,The story of Melody House.,,妙音坊的故事
+StoryGroup_九黎部落的故事,The story of the Jiuli Tribe.,,九黎部落的故事
+StoryGroup_小虾米立志,Little shrimp's ambition,,小虾米立志
+,,,

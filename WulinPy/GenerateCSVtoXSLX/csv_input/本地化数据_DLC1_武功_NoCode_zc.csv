@@ -1,0 +1,592 @@
+﻿﻿KunfuName_dlc野狼普攻,Attack,โจมตี
+KunfuName_dlc蛇普攻,Attack,โจมตี
+KunfuName_dlc熊普攻,Attack,โจมตี
+KunfuName_dlc野猪普攻,Attack,โจมตี
+KunfuName_dlc猫普攻,Attack,โจมตี
+KunfuName_dlc家禽普攻,Attack,โจมตี
+KunfuName_dlc野狼王普攻,Attack,โจมตี
+KunfuName_dlc野猪王普攻,Attack,โจมตี
+KunfuName_dlc毒蝎普攻,Attack,โจมตี
+KunfuName_dlc狗普攻,Attack,โจมตี
+KunfuName_dlc牛普攻,Attack,โจมตี
+KunfuName_dlc猴普攻,Attack,โจมตี
+KunfuName_dlc马普攻,Attack,โจมตี
+KunfuName_dlc老虎普攻,Attack,โจมตี
+KunfuName_dlc白猿普攻,Attack,โจมตี
+KunfuName_dlc熊猫普攻,Attack,โจมตี
+KunfuName_dlc机关人普攻,Attack,โจมตี
+KunfuName_dlc市井拳法,Scoundrel Fist,มวยข้างถนน
+KunfuName_dlc罗汉拳法,Arhat Fist,หมัดอรหันต์
+KunfuName_dlc一指禅,Zen Finger,ฌานหนึ่งดรรชนี
+KunfuName_dlc逍遥拳法,Carefree Fist,หมัดสราญรมย์
+KunfuName_dlc奔雷掌法,Quick Palm,ฝ่ามืออัสนี
+KunfuName_dlc朱砂掌法,Cinnabar Palm,ฝ่ามือสีชาด
+KunfuName_dlc连环掌,Continuous Palm,ฝ่ามือต่อเนื่อง
+KunfuName_dlc黑虎拳,Black Tiger Fist,หมัดพยัคฆ์ทมิฬ
+KunfuName_dlc雷云掌,Thundercloud Palm,ฝ่ามือเมฆาอัสนี
+KunfuName_dlc封穴手,Meridian Sealing Hand,หัตถ์ผนึกชีพจร
+KunfuName_dlc广袖流云,Drifting Cloud,เคลื่อนเมฆา
+KunfuName_dlc飞花指,Flying Flower Finger,ดรรชนีเด็ดบุปผา
+KunfuName_dlc玲珑掌,Sparkling Palm,ฝ่ามือโฉมสะคราญ
+KunfuName_dlc菩提掌,Bodhi Palm,ฝ่ามือพุทธะ
+KunfuName_dlc花拳绣腿,Amateurish Strike,หมัดบุปผา
+KunfuName_dlc五行拳,Five Elements Fist,มวยห้าธาตุ
+KunfuName_dlc七巧如意手,Dexterous Hand,หัตถ์เจ็ดปรารถนา
+KunfuName_dlc迷魂毒掌,Enchanted Poison Palm,ฝ่ามือพิษลวงวิญญาณ
+KunfuName_dlc闪电五连击,Five Thunderbolts,เบญจอสุนีบาต
+KunfuName_dlc秋风掌法,Autumn Wind Palm Technique,ฝ่ามือสารทวายุ
+KunfuName_dlc空空拳法,Empty Fist,หมัดสูญจำรัส
+KunfuName_dlc寒魄冰心掌,Frozen Heart Palm,ฝ่ามือใจน้ำแข็ง
+KunfuName_dlc清心玉女掌,Mind Clearing Maiden Palm,ฝ่ามือดรุณีหยกใจสงบ
+KunfuName_dlc大力金刚掌,Powerful Diamond Palm,ฝ่ามือวชิระ
+KunfuName_dlc凌空点穴手,Far Sealing Hand,ดรรชนีสกัดจุดกลางอากาศ
+KunfuName_dlc灵蛇缠丝掌,Snake Bound Palm,ฝ่ามืออสรพิษพัวพัน
+KunfuName_dlc伤情别离掌,Breakup Palm,ฝ่ามือกำสรด
+KunfuName_dlc降龙伏虎拳,Dragon Slaying Fist,หมัดปราบพยัคฆ์มังกร
+KunfuName_dlc玄阴化骨手,Bone Melting Nether Hand,ฝ่ามือละลายกระดูก
+KunfuName_dlc太极拳,Taichi Fist,หมัดไทเก๊ก
+KunfuName_dlc五毒掌,Five Poisons Palm,ฝ่ามือเบญจพิษ
+KunfuName_dlc破空拳,Breakthrough Fist,หมัดทลายนภา
+KunfuName_dlc醉仙拳,Wine God Fist,หมัดเซียนเมามาย
+KunfuName_dlc断魂爪,Soul Destroyer Claw,กรงเล็บสะบั้นวิญญาณ
+KunfuName_dlc般若掌,Prajna Palm,ฝ่ามือปัญญา
+KunfuName_dlc幻灭指,Disintegrating Finger,ดรรชนีสลายสิ้น
+KunfuName_dlc碧落黄泉,Death Road,เส้นทางมรณะ
+KunfuName_dlc破庙拳法,Abandoned Temple Fist,หมัดสิ้นรำลึกสถาน
+KunfuName_dlc断情掌,Cruel Palm,ฝ่ามือตัดสัมพันธ์
+KunfuName_dlc通天手,Omnipotent Hand,หัตถ์ทงเทียน
+KunfuName_dlc碎玉掌,Jewel Breaker Palm,ฝ่ามือทลายหยก
+KunfuName_dlc四相掌,Four Generals Palm,ฝ่ามือสี่สัณฐาน
+KunfuName_dlc野球拳,Rock Paper Scissor,หมัดลูกกลมเถื่อน
+KunfuName_dlc开山掌,Mountain Clear Palm,ฝ่ามือทลายภูผา
+KunfuName_dlc玄天指,Ether Finger,ดรรชนีอากาศธาตุ
+KunfuName_dlc降霜拳法,Frostfall Fist Technique,หมัดเหมันต์
+KunfuName_dlc悲欢指法,Bitter Joy Finger Technique,ดรรชนีระคนทุกข์
+KunfuName_dlc撼天指法,Heaven Shaking Finger,ดรรชนีสะเทือนฟ้า
+KunfuName_dlc如来大悲掌,Vairocana Kindness Palm,ฝ่ามือยูไลเปี่ยมการุณย์
+KunfuName_dlc如来神掌,Vairocana Godly Palm,ฝ่ามือยูไล
+KunfuName_dlc八极奔雷掌,Baji Quick Palm,ฝ่ามืออัสนีแปดทิศ
+KunfuName_dlc灭天掌,Sky Destroyer Palm,ฝ่ามือทลายสวรรค์
+KunfuName_dlc紫薇惊龙掌,Dragon King Palm,ฝ่ามือราชันมังกร
+KunfuName_dlc烈阳拳,Solar Fist,หมัดสุรีย์ผลาญ
+KunfuName_dlc翻云遮天手,Heaven Engulfed Hand,ฝ่ามือพลิกเมฆาสยบฟ้า
+KunfuName_dlc贯云指,Cloud Piercing Finger,ดรรชนีทะลวงเมฆา
+KunfuName_dlc万民掌,People's Palm,ฝ่ามือมวลชน
+KunfuName_dlc地趟刀法,Earth Blade,ดาบพสุธา
+KunfuName_dlc伏虎刀法,Tiger Taming Blade,ดาบปราบพยัคฆ์
+KunfuName_dlc三才刀法,Trinity Blade,ดาบสามภพ
+KunfuName_dlc疾风斩,Wind Blade,ดาบวายุ
+KunfuName_dlc开山刀法,Mountain Clear Blade,ดาบสะบั้นภูผา
+KunfuName_dlc荡寇刀法,Bandit Killer Blade,ดาบสังหารโจร
+KunfuName_dlc疾风八斩法,Octagonal Wind Blade,8 ดาบตัดวายุ
+KunfuName_dlc火云刀法,Flaming Cloud Blade,เพลงดาบเมฆาอัคคี
+KunfuName_dlc九苗刀法,Jiumiao Technique,ดาบแมวเก้าแผล
+KunfuName_dlc九江刀法,Nine Rivers Blade,ดาบเก้าธารา
+KunfuName_dlc柳生刀法,Willow Blade,เพลงดาบตระกูลยางิว
+KunfuName_dlc西域刀法,Xiyu Blade,ดาบแดนตะวันตก
+KunfuName_dlc风沙刀法,Sandstorm Blade,ดาบพายุทราย
+KunfuName_dlc大蛮刀法,Brutal Blade,ดาบคนเถื่อน
+KunfuName_dlc合月镰三式,Moon Phase Three Forms,สามดาบเคียวรวมจันทร์
+KunfuName_dlc修罗刀法,Shura Blade,เพลงดาบอสุรา
+KunfuName_dlc破甲刀法,Armor Breaker Blade,ดาบผ่าเกราะ
+KunfuName_dlc剔骨刀法,Bone Cleaver Blade,ดาบเลาะกระดูก
+KunfuName_dlc柴刀刀法,Lumbering Blade,ดาบตัดไม้
+KunfuName_dlc雁行刀法,Wild Goose Blade,ดาบห่านป่า
+KunfuName_dlc霹雳刀法,Thunder Blade,ดาบอัสนี
+KunfuName_dlc破军刀法,Ruinous Star Blade,ดาบทลายทัพ
+KunfuName_dlc独狼刀法,Cruel Wolf Blade,ดาบหมาป่าเดียวดาย
+KunfuName_dlc碧磷刀法,Jade Blade,ดาบพิษมรกต
+KunfuName_dlc怒流刀法,Furious Blade,ดาบพายุคลั่ง
+KunfuName_dlc七旋斩,Seven Spins Blade,7 ดาบหมุนเวียน
+KunfuName_dlc纵横刀诀,Roaming Blade,ดาบสะบั้น
+KunfuName_dlc烈火刀法,Flaming Blade,ดาบเปลวอัคคี
+KunfuName_dlc盘空刀法,Empty Blade,ดาบเวียนนภา
+KunfuName_dlc庖丁解牛法,Ox Killer Blade,ดาบติงแล่วัว
+KunfuName_dlc叱咤刀法,Wind Cloud Blade,เพลงดาบวายุเมฆา
+KunfuName_dlc无双刀法,Peerless Blade,ดาบไร้ผู้เปรียบ
+KunfuName_dlc斩天刀法,Heaven Cutting Blade Technique,เพลงดาบผ่าสวรรค์
+KunfuName_dlc蛮荒霸道斩,Savage Primal Blade,ดาบพิฆาตอำมหิต
+KunfuName_dlc一刀斩,One Blade,พิฆาตในดาบเดียว
+KunfuName_dlc天魔刀法,Archdemon Blade,ดาบมารสวรรค์
+KunfuName_dlc吞鲸刀法,Devouring Blade,ดาบกลืนกิน
+KunfuName_dlc鬼轮斩,Demonic Circle Blade,ดาบกงล้อมารวิบัติ
+KunfuName_dlc回风剑法,Wind Reversal Sword,กระบี่ลมหวน
+KunfuName_dlc九宫剑法,Nine Diagrams Sword,กระบี่เก้าลักษณ์
+KunfuName_dlc七星剑法,Seven Stars Sword,เพลงกระบี่เจ็ดดารา
+KunfuName_dlc浣纱剑法,Huansha Sword,กระบี่ล่าสังหาร
+KunfuName_dlc莲花妙剑,Lotus Flower Sword,เพลงกระบี่ดอกบัว
+KunfuName_dlc倾城剑法,Alluring Sword,กระบี่โฉมสะคราญ
+KunfuName_dlc太乙剑法,Taiyi Sword,เพลงกระบี่ไทยี่
+KunfuName_dlc须弥剑法,Sumeru Sword,เพลงกระบี่เขาพระสุเมรุ
+KunfuName_dlc游龙剑法,Dragon Roaming Sword,กระบี่มังกรร่ายรำ
+KunfuName_dlc青萍剑法,Blue Weed Sword,เพลงกระบี่หยกเขียว
+KunfuName_dlc柔云剑法,Gentle Cloud Sword,กระบี่เมฆาละมุน
+KunfuName_dlc玉女剑法,Maiden Sword,เพลงกระบี่ดรุณีหยก
+KunfuName_dlc贪狼剑法,Flirting Star Sword,กระบี่หยอกดารา
+KunfuName_dlc苍穹剑法,Heaven Sword,เพลงกระบี่ฟ้ากว้าง
+KunfuName_dlc广寒剑法,Moon Palace Sword,เพลงกระบี่วังจันทรา
+KunfuName_dlc太虚十八剑,Taixu Eighteen Swords,ไท่ซวีสิบแปดกระบี่
+KunfuName_dlc赤焰剑法,Burning Flame Sword,เพลงกระบี่เปลวอัคคี
+KunfuName_dlc太极剑法,Taichi Sword,กระบี่ไทเก๊ก
+KunfuName_dlc无情剑法,Emotionless Sword,เพลงกระบี่ไร้ปราณี
+KunfuName_dlc落霞剑法,Sunset Sword,เพลงกระบี่อัสดง
+KunfuName_dlc凌尘剑法,Mortal Sword,เพลงกระบี่ธุลีดิน
+KunfuName_dlc岁寒三友,Three Friends of Winter,สามสหายเหมันต์
+KunfuName_dlc炎霜剑法,Burning Mist Sword,เพลงกระบี่เพลิงน้ำแข็ง
+KunfuName_dlc忘忧剑法,Forgotten Sword,เพลงกระบี่ลืมทุกข์
+KunfuName_dlc星月剑法,Moon Star Sword,กระบี่จันทร์ดารา
+KunfuName_dlc素女剑法,Pure Maiden Sword,กระบี่ดรุณีใจสงบ
+KunfuName_dlc贪生剑法,Survival Sword,กระบี่หวงชีวิต
+KunfuName_dlc无锋剑法,Windless Sword,เพลงกระบี่ไร้คม
+KunfuName_dlc求败九式,Dugu Nine Swords,เก้ากระบี่เดียวดาย
+KunfuName_dlc破天剑法,Sky Breaker Sword,เพลงกระบี่ทลายฟ้า
+KunfuName_dlc磐龙剑法,Dragon Sword,เพลงกระบี่มังกร
+KunfuName_dlc无极剑法,Infinity Sword,เพลงกระบี่ไร้ขอบเขต
+KunfuName_dlc无名剑法,Nameless Sword,เพลงกระบี่ไร้นาม
+KunfuName_dlc浮华掠影剑,Illusion Sword,เพลงกระบี่มายาลวง
+KunfuName_dlc恶煞枪法,Evil Spear,เพลงหอกปีศาจ
+KunfuName_dlc腐尸枪法,Rotting Spear,เพลงหอกสลายซาก
+KunfuName_dlc雷霆枪法,Thunder Spear,เพลงหอกอัสนี
+KunfuName_dlc捕兽叉法,Beast Taming Trident,หอกคุมอสูร
+KunfuName_dlc破阵大枪,Formation Breaker Spear,หอกทลายทัพ
+KunfuName_dlc六合枪法,Six Forms Spear,หอกหกประสาน
+KunfuName_dlc梅花枪法,Flower Spear,เพลงหอกดอกเหมย
+KunfuName_dlc中平枪法,Middle Stance Spear,เพลงหอกผ่ากลาง
+KunfuName_dlc霸王枪法,Emperor Spear,หอกจักรพรรดิ
+KunfuName_dlc黄泉引路枪,Death Bringer Spear,หอกเบิกทางยมโลก
+KunfuName_dlc七杀枪法,Power Star Spear,หอกเจ็ดพิฆาต
+KunfuName_dlc叶家枪法,Ye Family Spear,เพลงหอกสกุลเย่
+KunfuName_dlc飞龙枪法,Wyvern Spear,เพลงหอกมังกรบิน
+KunfuName_dlc虎啸穿云枪,Tiger Howl Spear,หอกพยัคฆ์คำรามทะลวงเมฆา
+KunfuName_dlc梨花枪法,Pear Blossom Spear,เพลงหอกหลีฮวา
+KunfuName_dlc百鸟朝凰枪,Phoenix Ascension Spear,หอกร้อยวิหคเพลิงสวรรค์
+KunfuName_dlc七探蛇盘枪,Scouting Snake Spear,เจ็ดหอกแสวงอสรพิษ
+KunfuName_dlc沥泉枪法,Slipstream Spear,หอกธาราหยด
+KunfuName_dlc九黎巫叉,Jiuli Trident,หอกตรีศูลจิ่วลี่
+KunfuName_dlc叫花棒法,Beggar Staff,ไม้เท้าขอทาน
+KunfuName_dlc六合棍法,Six Forms Staff,พลองหกประสาน
+KunfuName_dlc韦陀杖法,Veda Staff,พลองพระเวท
+KunfuName_dlc蟠龙棍法,Dragon Staff,พลองมังกร
+KunfuName_dlc大力棍法,Brutal Staff,กระบองพิฆาต
+KunfuName_dlc普渡杖法,Enlighten Staff,ไม้เท้ารู้แจ้ง
+KunfuName_dlc狼牙棒,Battle Mace,วิชากระบองรบ
+KunfuName_dlc杀威棒法,Prestige Destroyer Staff,พลังพลองสังหารสิ้น
+KunfuName_dlc扫地棍法,Trash Sweeping Staff,พลองกวาดลาน
+KunfuName_dlc翻江浆法,River Whirling,พลองตลบลำน้ำ
+KunfuName_dlc混元棍法,Origin Staff,พลองรวมศูนย์
+KunfuName_dlc金刚降魔杵,Evil Destroyer Diamond Staff,พลองวชิระสยบมาร
+KunfuName_dlc游龙锏法,Roaming Dragon Staff,พลองมังกรร่ายรำ
+KunfuName_dlc云林棍法,Cloud Forest Staff,พลองป่าเมฆา
+KunfuName_dlc玄煞棍法,Nether Killing Staff,พลองสะบั้นลี้ลับ
+KunfuName_dlc鸿蒙锏法,Nothingness Staff,พลังไม้เท้าเวิ้งว้าง
+KunfuName_dlc疯魔棍法,Insanity Staff,พลองมารคลั่ง
+KunfuName_dlc紧那罗王棍,Kinnara Staff,พลองราชากินนร
+KunfuName_dlc风云天龙棍,Sky Dragon Wind Staff,พลองวายุมังกรนภา
+KunfuName_dlc天罡棍法,Polaris Staff,พลองสวรรค์
+KunfuName_dlc天罡飞龙杖,Polaris Wyvern Staff,ไม้เท้ามังกรสวรรค์
+KunfuName_dlc达摩杖法,Dharma Staff,ไม้เท้าโพธิธรรม
+KunfuName_dlc撼地锤,Tremor Hammer,ค้อนสะเทือนปฐพี
+KunfuName_dlc弓箭散射,Area Shot,พื้นที่จู่โจม
+KunfuName_dlc精准射击,Precision Shot,การยิงอันแม่นยำ
+KunfuName_dlc擂山锤法,Thunder Mountain Hammer,ค้อนทลายภูผา
+KunfuName_dlc金刚锤法,Diamond Hammer,ค้อนวัชระ
+KunfuName_dlc流云飞扇,Drifting Cloud Fan,พัดเมฆาล่องลอย
+KunfuName_dlc袖里回风,Returning Wind,วายุหวนกลับ
+KunfuName_dlc飞燕回翔,Swallow Reversal,นางแอ่นหวนกลับ
+KunfuName_dlc大鹏展翅,Wing Spreading,ปักษาสยายปีก
+KunfuName_dlc逍遥扇舞,Carefree Rain,พิรุณไร้โศก
+KunfuName_dlc狂风扇诀,Tornado Fan,พัดวายุคลั่ง
+KunfuName_dlc游龙戏凤,Dragon Phoenix Fan,พัดมังกรเย้าพญาหงส์
+KunfuName_dlc风卷残云式,Storming Cloud Fan,พายุพัดเมฆากระหน่ำ
+KunfuName_dlc逍遥游,Carefree Life,อิสระจร
+KunfuName_dlc君子好逑,Gentleman's Courtship,สุภาพบุรุษขอรัก
+KunfuName_dlc如意扇法,Wish Granted Fan,พัดสารพัดนึก
+KunfuName_dlc扇舞春秋,Spring and Autumn Fan,ระบำพัดสารทวสันต์
+KunfuName_dlc蝶恋花,Flirting Butterfly,ผีเสื้อเหย้าบุปผา
+KunfuName_dlc锥心刺,Heart Piercer,มีดบินทะลวงใจ
+KunfuName_dlc灵蛇刺,Spirit Snake,แทงวิญญาณอสรพิษ
+KunfuName_dlc追风短打,Wind Chaser,ล่าวายุ
+KunfuName_dlc破空梭,Wind Breaker,ผ่าวายุ
+KunfuName_dlc疾风刺,Wind Stab,แทงวายุกระโชก
+KunfuName_dlc云龙三现,Cloud Dragon Three Strikes,สามมังกรเมฆาจู่โจม
+KunfuName_dlc银蛇流光,Silver Snake Mirage,เงาคลื่นอสรพิษเกล็ดเงิน
+KunfuName_dlc风雷刺法,Thunderstorm Strike,แทงวายุพิฆาตอัสนี
+KunfuName_dlc海蛟夺命刺,Sea Serpent Head Hunter Stab,แทงพิฆาตมังกรทะเล
+KunfuName_dlc刺秦要诀,Killer's Secret,คัมภีร์ลับสังหารฉิน
+KunfuName_dlc天外流星,Shooting Star,ดาวตกนอกฟ้า
+KunfuName_dlc分光流星刺,Luminary Meteor Strike,พายุดาวตกกระจายแสง
+KunfuName_dlc泼墨笔法,Octagonal Inking Pen,สะบัดพู่กันแปดทิศ
+KunfuName_dlc画里乾坤,World Inside Painting,จักรวาลในภาพวาด
+KunfuName_dlc龙蛇笔法,Dragon Snake Pen,พู่กันงูมังกรร่ายรำ
+KunfuName_dlc春秋笔谱,Spring and Autumn Pen,พู่กันวสันต์สารท
+KunfuName_dlc阎王贴,Death Invitation,เทียบเชิญมรณะ
+KunfuName_dlc挥翰成风,Frozen Storm,พายุพู่กันเหมันต์
+KunfuName_dlc寒食帖,Cold Food Observance,เทศกาลทานอาหารเย็น
+KunfuName_dlc寒江独钓,Fishing Alone in Cold River,ตวัดมัจฉาเดียวดายกลางนทีเหมันต์
+KunfuName_dlc曹全碑,Cao Quan Steele,จารึกเฉาฉวน
+KunfuName_dlc幽谷图,Quiet Valley Drawing,วาดภาพหุบเขาสงบ
+KunfuName_dlc丧乱贴,Funeral Post,บทกวีอาลัยงานศพ
+KunfuName_dlc兰亭序,Orchid Pavillion Preface,ลำนำศาลากล้วยไม้
+KunfuName_dlc江山多娇,Country Full of Beauties,แผ่นดินที่งดงาม
+KunfuName_dlc阳关三叠,Triassis Yangguan,ด่านหยางกวนสามท่อน
+KunfuName_dlc泛沧浪,Floating Blue,เกลียวคลื่น
+KunfuName_dlc出水芙蓉,Out of Water Hibiscus,บัวพ้นน้ำ
+KunfuName_dlc西江月,Moon over West River,จันทราเหนือธาราตะวันตก
+KunfuName_dlc惊鸿一梦,A Dream of Graceful Beauty,ความฝันอันงดงาม
+KunfuName_dlc高山流水,Mountain and River,เขาสูงธารน้ำไหล
+KunfuName_dlc蝶舞天涯,Dancing Butterfly Over Skyline,ระบำผีเสื้อเหนือเส้นขอบฟ้า
+KunfuName_dlc潇湘水云,River Water and Cloud,เมฆหมอกแห่งลำน้ำเซียวเซียง
+KunfuName_dlc广陵散,Guangling Melody,ลำนำแห่งกว่างหลิง
+KunfuName_dlc傲江湖,Proud Wanderer,เย้ยยุทธจักร
+KunfuName_dlc碧涧流泉,Flowing Mountain Stream,ลำธารภูเขาน้ำตก
+KunfuName_dlc音波功,Soundwave Attack,พลังคลื่นเสียง
+KunfuName_dlc暗香凌波,Hidden Fragrance Wave,คลื่นซ่อนหอม
+KunfuName_dlc催心五调,Heart Stimulation Five Tunes,ห้าทำนองปลุกใจ
+KunfuName_dlc鹧鸪天,Partridge Day,หยางกุ้ยเฟยร่ำเมรัย
+KunfuName_dlc梅花三弄,Plum Flower Three Lanes,ตำนานรักดอกเหมย
+KunfuName_dlc万蛊谣,Ancient Song,ลือเรื่องหมื่นพิษ
+KunfuName_dlc阳春白雪,Spring White Snow,หิมะในฤดูใบไม้ผลิ
+KunfuName_dlc塞外秋风,Wind Outside Great Wall,ลมสารทฤดูเหนือกำแพงหมื่นลี้
+KunfuName_dlc霸王卸甲,Armor Breaker Emperor,ฌ้อปาอ๋องถอดเกราะ
+KunfuName_dlc汉宫秋月,Autumn Palace Moon,พระราชวังฮั่นในคืนพระจันทร์สารท
+KunfuName_dlc渡红尘,Mortal Life,บทเพลงข้ามโลกีย์
+KunfuName_dlc笑红尘,Laughing at the World,ยิ้มเยาะโลก
+KunfuName_dlc十面埋伏,Full Directional Ambush,ซุ่มจู่โจมทั้งสิบทิศ
+KunfuName_dlc玄煞劲,Nether Killing Force,ปราณปรโลกสังหาร
+KunfuName_dlc乱环诀,Mystic Circle Manual,พลังห้วงกลียุค
+KunfuName_dlc金钟罩,Golden Bell Technique,ระฆังทองคุ้มกาย
+KunfuName_dlc摄心术,Mind Taker Skill,วิชาอ่านจิตตรึงใจ
+KunfuName_dlc龙虎功,Dragon Tiger Manual,วิชาพยัคฆ์มังกร
+KunfuName_dlc莽牛劲,Ox Power,พลังวัวคลั่ง
+KunfuName_dlc飞刀术,Flying Blade Skill,วิชามีดบิน
+KunfuName_dlc腐毒功,Poison Technique,วิชาพิษกัดกร่อน
+KunfuName_dlc汗青集,Historical Record,บันทึกพงศาวดาร
+KunfuName_dlc御兽术,Beast Taming Skill,วิชาฝึกสัตว์
+KunfuName_dlc金匮要略,Golden Manual,ตำรายาห้องทอง
+KunfuName_dlc调息法,Breathing Technique,เคล็ดปรับลมหายใจ
+KunfuName_dlc冰魄功,Ice Spirit Move,พลังวิญญาณเหมันต์
+KunfuName_dlc拳掌要诀,Fist Mastery,วิชาหมัดมวยพื้นฐาน
+KunfuName_dlc剑法典籍,Sword Mastery,วิชากระบี่พื้นฐาน
+KunfuName_dlc刀术秘卷,Blade Mastery,วิชาดาบพื้นฐาน
+KunfuName_dlc长兵纪要,Long Weapon Mastery,วิชาอาวุธยาวพื้นฐาน
+KunfuName_dlc短兵汇编,Short Weapon Mastery,วิชาอาวุธสั้นพื้นฐาน
+KunfuName_dlc乐谱精粹,Musical Mastery,วิชาดนตรีพื้นฐาน
+KunfuName_dlc儒雅风流,Elegant Romanticist,หรูหราสง่างาม
+KunfuName_dlc吐故纳新术,Embrace The Future,หมุนเวียนลมปราณ
+KunfuName_dlc混元劲,Origin Technique,พลังต้นกำเนิด
+KunfuName_dlc胎息功,Fetal Breathing Guide,ลมปราณครรภ์ทารก
+KunfuName_dlc五禽戏,Five Animal Forms,กายบริหารห้าสัตว์
+KunfuName_dlc破甲劲,Armor Breaker Move,วิชาทลายเกราะ
+KunfuName_dlc凌波诀,Wave Rider Technique,วิชาทะยานคลื่น
+KunfuName_dlc回春术,Revitalization Technique,วิชาฟื้นฟู
+KunfuName_dlc捕风诀,Wind Walker Manual,เคล็ดวิชาเหยียบวายุ
+KunfuName_dlc叶家心法,Ye Family Technique,เคล็ดวิชาสกุลเย่
+KunfuName_dlc雾隐术,Hidden Mist Skill,วิชาพรางเงาใต้หมอก
+KunfuName_dlc多情诀,Passionate Manual,เคล็ดลับอันเร่าร้อน
+KunfuName_dlc铁浮屠,Levitational Steel,เจดีย์เหล็ก
+KunfuName_dlc淬毒术,Toxication Skill,เคลือบพิษ
+KunfuName_dlc永字八法,Calligraphy Eight Techniques,แปดวิถีเขียนอักษร
+KunfuName_dlc叹息法,Sigh Method,เคล็ดปรับลมปราณ
+KunfuName_dlc逆经转脉,Meridian Reversal,ลมปราณย้อนกลับ
+KunfuName_dlc太极玄,Nether Taichi,พลังไท้เก๊ก
+KunfuName_dlc横练金身,Forging Golden Body,กายาวัชระทองคำ
+KunfuName_dlc飞刀秘传,Flying Blade Secret Manual,ตำราลับมีดบินกรีดฟ้า
+KunfuName_dlc五毒秘法,Five Poisons Secret Move,วิชาลับเบญจพิษ
+KunfuName_dlc散功大法,Resetting Technique,วิชาสลายพลัง
+KunfuName_dlc洛神步,God Step,ท่าเท้าเทพธิดา
+KunfuName_dlc云隐术,Hidden Cloud Skill,วิชาซ่อนเมฆา
+KunfuName_dlc无心流,Heartless Style,เคล็ดไร้ใจ
+KunfuName_dlc藏剑秘卷,Hidden Sword Secret Manual,คัมภีร์ลับกระบี่ซ่อน
+KunfuName_dlc武穆秘典,Yue Fei Secret Manual,ตำราลับงักฮุย
+KunfuName_dlc兽王诀,Beast King Technique,วิชาราชาสัตว์ร้าย
+KunfuName_dlc四圣心源,Four Saints Origin,สี่หัวใจศักดิ์สิทธิ์
+KunfuName_dlc海纳百川,Great Ocean Manual,พลังรวมสมุทร
+KunfuName_dlc盛世春秋,Glorious Era,ยุคทองอันเจิดจรัส
+KunfuName_dlc寒阴真气,Cold Yin Energy,ปราณเหมันต์
+KunfuName_dlc纯阳功,Pure Yang Skill,พลังหยางบริสุทธิ์
+KunfuName_dlc玄阴诀,Nether Yin Manual,เคล็ดหยินเร้นลับ
+KunfuName_dlc凌云步,Cloud Walker Step,ทะยานบันไดเมฆา
+KunfuName_dlc睡梦心经,Dreaming Sutra,นิมิตรสูตร
+KunfuName_dlc兽吼功,Beast Howling Move,ราชสีห์คำราม
+KunfuName_dlc天星诀,Celestial Star Manual,เคล็ดวิชาดาวสวรรค์
+KunfuName_dlc玄元心经,Nether Origin Sutra,คัมภีร์มารต้นกำเนิด
+KunfuName_dlc罗刹毒经,Raksha Poison Sutra,รากษกพิษยสูตร
+KunfuName_dlc益寿延年功,Longevity Technique,เคล็ดลับอายุวัฒนะ
+KunfuName_dlc圣火燎原,Holy Flame Spreading,ประกายเพลิงศักดิ์สิทธิ์
+KunfuName_dlc梦蝶心经,Dream Butterfly Sutra,ผีเสื้อนิมิตรสูตร
+KunfuName_dlc莽苍诀,Reckless Sky Technique,เคล็ดฟ้าประมาท
+KunfuName_dlc无心无为功,Serene Move,เคล็ดไร้ใจไร้กระทำ
+KunfuName_dlc寻龙术,Dragon Seeker Manual,ล่าหลุมฝังมังกร
+KunfuName_dlc九流心源,Nine Origins,พลังเก้ากำเนิด
+KunfuName_dlc剑心通明诀,Omniscient Sword Manual,คัมภีร์หัวใจกระบี่
+KunfuName_dlc妙音诀,Melody House Technique,คัมภีร์เสียงมหัศจรรย์
+KunfuName_dlc怒潮心法,Raging Waves Manual,พลังคลื่นคลั่ง
+KunfuName_dlc醉仙诀,Drunken Technique,วิชาเซียนหมัดเมา
+KunfuName_dlc驭人心经,Ruler Heart Sutra,คัมภีร์ควบคุมหัวใจ
+KunfuName_dlc火蟾诀,Flame Toad Technique,พลังคางคกอัคคี
+KunfuName_dlc九州诀,Nine Provinces Manual,คัมภีร์นพเก้า
+KunfuName_dlc紫薇龙气,Dragon King Aura,ลมปราณราชันมังกร
+KunfuName_dlc轩辕宝鉴,Xuan Yuan Records,บันทึกซวนหยวน
+KunfuName_dlc天魔噬魂术,Archdemon's Soul Eating Skill,มารฟ้ากลืนวิญญาณ
+KunfuName_dlc阴阳挪移功,Yin Yang Reversal Move,มหาเวทย์ดูดดาว
+KunfuName_dlc无极混元功,Infinity Origin Move,พลังรวมศูนย์ไร้สิ้นสุด
+KunfuName_dlc摩诃无量,Endless Maha,มหาพลังไร้ประมาณ
+KunfuName_dlc梵天圣功,Holy Brahma Technique,คัมภีร์พระเวทศักดิ์สิทธิ์
+KunfuName_dlc天女散花,Celestial Lady Scattering Flowers,เทพธิดาโปรยบุปผา
+KunfuName_dlc巫蛊毒功,Ancient Sage Poison Technique,มนตร์พิษโบราณ
+KunfuName_dlc霓裳羽衣经,Dancing Garment Sutra,คัมภีร์อาภรณ์ร่ายรำ
+KunfuName_dlc一刀流,One Blade Style,ปราณดาบเดียว
+KunfuName_dlc无锋剑意,Windless Sword Qi,เจตกระบี่ไร้ขอบเขต
+KunfuName_dlc通天伏魔功,Omnipotent Demon Sealing Move,พลังทงเทียนกำราบมาร
+KunfuName_dlc兽血祭,Beast Blood Ritual,บูชายัญเลือดสัตว์
+KunfuName_dlc祈禳大法,Prayer Manual,คัมภีร์ภาวนา
+KunfuName_dlc儒十三经,Confucius Thirteen Sutras,ขงจื้อสิบสามคัมภีร์
+KunfuName_dlc九霄真经,Heaven Sutra,คัมภีร์เก้าชั้นฟ้า
+KunfuName_dlc惊涛骇浪诀,Tsunami Manual,คลื่นพายุกระหน่ำ
+KunfuName_dlc大日如来经,Vairocana Solar Sutra,ไวโรจนะมหาสูตร
+KunfuName_dlc满江红,Prismatic River,แม่น้ำสีชาด
+KunfuName_dlc圣火神功,Holy Fire Divine Skill,พลังเพลิงศักดิ์สิทธิ์
+KunfuName_dlc无极洞心法,Infinity Manual,ดาวเคลื่อนดาราคล้อย
+KunfuName_dlc黄帝阴符经,Emperor Yin Yang Sutra,คัมภีร์ลับจักรพรรดิหวง
+KunfuName_dlc烈阳焚天诀,Burning Sun Technique,เพลิงสุริยันผลาญสวรรค์
+KunfuName_dlc九幽寒霜气,Absolute Zero Qi,พลังปราณเก้าอิมเหมันต์
+KunfuName_dlc吠陀宝经,Vedas Scripture,คัมภีร์พระเวท
+KunfuName_dlc霸刀诀,Tyrant Blade Technique,วิชาดาบทรราช
+KungfuCastBuff_dlc通天手buff1,Effect One,หมื่นอัสนีบาต
+KungfuCastBuff_dlc曹全碑buff1,Effect One,โยกภูผาพันชั่ง
+KungfuCastBuff_dlc逍遥游buff1,Effect One,เล่าจื๊อท่องเวหา
+KungfuCastBuff_dlc高山流水buff1,Effect One,เสียงธรรมชาติ
+KungfuCastBuff_dlc灭天掌buff1,Effect One,เท็จทำลายจริง
+KungfuCastBuff_dlc灭天掌buff2,Effect Two,ทำลายขวัญศัตรู
+KungfuCastBuff_dlc江山多娇buff1,Effect One,ภาพลักษณ์นับพัน
+KungfuCastBuff_dlc江山多娇buff2,Effect Two,ทิวทัศน์กว้างใหญ่
+KungfuCastBuff_dlc扇舞春秋buff1,Effect One,วาจาแปลงกฎหมาย
+KungfuCastBuff_dlc扇舞春秋buff2,Effect Two,ทั่วหล้ารู้จักท่าน
+KungfuCastBuff_dlc广陵散buff1,Effect One,หอกพลองล้ำเส้น
+KungfuCastBuff_dlc广陵散buff2,Effect Two,หยุดเมฆาล่องลอย
+KungfuCastBuff_dlc太极剑法buff1,Effect One,มังกรเขียวขึ้นน้ำ
+KungfuCastBuff_dlc岁寒三友buff1,Effect One,กระบี่เขียวสามเซี๊ยะ
+BuffName_dlc岁寒三友buff1_附属1,Three Feet Green Blade,กระบี่เขียวสามเซี๊ยะ
+KungfuCastBuff_dlc醉仙拳buff1,Effect One,เมามายถือสุรา
+KungfuCastBuff_dlc太极拳buff1,Effect One,ไทเก๊กลึกล้ำ
+BuffName_dlc太极拳buff1_附属1,Nether Taichi Wonder,พลังเทพไท้เก๊กขั้นสุดยอด
+KungfuCastBuff_dlc无极剑法buff1,Effect One,ตามกฎธรรมชาติ
+BuffName_dlc无极剑法buff1_附属1,Sword Enters the Realm,กระบี่ทะลวงมิติ
+KungfuCastBuff_dlc无极剑法buff2,Effect Two,บรรลุเซียนกระบี่
+KungfuCastBuff_dlc贯云指buff1,Effect One,ดินแดนทั้งเก้า
+BuffName_dlc贯云指buff1_附属1,Qi Rushes to the Bull,พลังล้นฟ้า
+KungfuCastBuff_dlc贯云指buff2,Effect Two,พลังล้นฟ้า
+KungfuCastBuff_dlc般若掌buff1,Effect One,ยากถึงหลุดพ้น
+KungfuCastBuff_dlc大力金刚掌buff1,Effect One,ทำลายใจ
+KungfuCastBuff_dlc金刚降魔杵buff1,Effect One,วชิระสยบมาร
+KungfuCastBuff_dlc紧那罗王棍buff1,Effect One,พิทักษ์พระวิหาร
+KungfuCastBuff_dlc如来神掌buff1,Effect One,พระธรรมไร้ขอบเขต
+KungfuCastBuff_dlc如来神掌buff2,Effect Two,วัชระสยบมาร
+KungfuCastBuff_dlc达摩杖法buff1,Effect One,ต้นกำเนิดยุทธ์
+KungfuCastBuff_dlc达摩杖法buff2,Effect Two,เครื่องรางสักการะ
+KungfuCastBuff_dlc伤情别离掌buff1,Effect One,โศกเศร้าหนักหน่วง
+KungfuCastBuff_dlc断魂爪buff1,Effect One,มือโลหิตตัดวิญญาณ
+KungfuCastBuff_dlc撼天指法buff1,Effect One,ปิดฟ้าบังตะวัน
+KungfuCastBuff_dlc撼天指法buff2,Effect Two,สั่นคลอนศัตรู
+KungfuCastBuff_dlc汉宫秋月buff1,Effect One,จันทร์ฤดูสารท
+KungfuCastBuff_dlc蝶舞天涯buff1,Effect One,ดังโศกาดังบ้าบ่น
+KungfuCastBuff_dlc鹧鸪天buff1,Effect One,ลมวสันต์ไม่เปื้อน
+KungfuCastBuff_dlc十面埋伏buff1,Effect One,ล้อมรอบด้วยศัตรู
+KungfuCastBuff_dlc十面埋伏buff2,Effect Two,หวาดกลัวอย่างมาก
+KungfuCastBuff_dlc傲江湖buff1,Effect One,เพลงสวรรค์ก้อง
+KungfuCastBuff_dlc傲江湖buff2,Effect Two,สามวันไม่หยุดยั้ง
+KungfuCastBuff_dlc碧涧流泉buff1,Effect One,น้ำพุหลั่งไหล
+KungfuCastBuff_dlc碧涧流泉buff2,Effect Two,กระแสน้ำเขียวขจี
+KungfuCastBuff_dlc黄泉引路枪buff1,Effect One,เจ้ากรรมทวงชีวิต
+KungfuCastBuff_dlc梅花三弄buff1,Effect One,เสียงสู่เมฆาสูง
+KungfuCastBuff_dlc九黎巫叉buff1,Effect One,ศาสตร์หมอผี
+KungfuCastBuff_dlc九黎巫叉buff2,Effect Two,กลับชาติมาเกิด
+KungfuCastBuff_dlc万蛊谣buff1,Effect One,ฉีกอวัยวะภายใน
+KungfuCastBuff_dlc万蛊谣buff2,Effect Two,เจาะใจทะลุกระดูก
+KungfuCastBuff_dlc怒流刀法buff1,Effect One,ใบดาบแดงฉาน
+KungfuCastBuff_dlc银蛇流光buff1,Effect One,กรงเล็บมังกรเงิน
+KungfuCastBuff_dlc风卷残云式buff1,Effect One,ทรายปลิวหินกระเด็น
+KungfuCastBuff_dlc吞鲸刀法buff1,Effect One,คลื่นสูงเสียดฟ้า
+KungfuCastBuff_dlc吞鲸刀法buff2,Effect Two,คลื่นใหญ่นับพัน
+KungfuCastBuff_dlc天外流星buff1,Effect One,เลือดบูชาฟ้า
+KungfuCastBuff_dlc天外流星buff2,Effect Two,ฟ้าลิขิตชีวิต
+KungfuCastBuff_dlc蝶恋花buff1,Effect One,หลงลืมทางกลับ
+KungfuCastBuff_dlc蝶恋花buff2,Effect Two,ชื่อเสียงยิ่งใหญ่
+KungfuCastBuff_dlc素女剑法buff1,Effect One,เทพธิดาเมตตา
+KungfuCastBuff_dlc凌尘剑法buff1,Effect One,บัญชากระบี่บิน
+KungfuCastBuff_dlc云林棍法buff1,Effect One,ต่อให้สามส่วน
+BuffName_dlc云林棍法buff1_附属1_光环1,Give Way Three Points,ต่อให้สามส่วน
+KungfuCastBuff_dlc太虚十八剑buff1,Effect One,จริงไร้จริง
+KungfuCastBuff_dlc天罡飞龙杖buff1,Effect One,สรรพสิ่งเป็นเลิศ
+KungfuCastBuff_dlc天罡飞龙杖buff2,Effect Two,ตามวิถีแห่งฟ้า
+BuffName_dlc天罡飞龙杖buff2_附属1_光环1,The Sky Has Its Way,ตามวิถีแห่งฟ้า
+KungfuCastBuff_dlc浮华掠影剑buff1,Effect One,กระบี่ดุจลมพัด
+KungfuCastBuff_dlc浮华掠影剑buff2,Effect Two,ร่างดุจเงาไหว
+KungfuCastBuff_dlc风雷刺法buff1,Effect One,รวดเร็วดุจสายฟ้า
+KungfuCastBuff_dlc云龙三现buff1,Effect One,มังกรทะยานน้ำ
+KungfuCastBuff_dlc刺秦要诀buff1,Effect One,ดาวหางชนจันทร์
+KungfuCastBuff_dlc刺秦要诀buff2,Effect Two,ทั้งหล้าเศร้าโศก
+KungfuCastBuff_dlc贪狼剑法buff1,Effect One,จิตกระบี่ดารา
+KungfuCastBuff_dlc盘空刀法buff1,Effect One,แข็งแกร่งดุดัน
+KungfuCastBuff_dlc磐龙剑法buff1,Effect One,มังกรซ่อนกบดาน
+KungfuCastBuff_dlc磐龙剑法buff2,Effect Two,ทะยานสู่มหรรณพ
+KungfuCastBuff_dlc天魔刀法buff1,Effect One,เทพมารไร้เมตตา
+KungfuCastBuff_dlc天魔刀法buff2,Effect Two,ละทิ้งคุณธรรม
+KungfuCastBuff_dlc霹雳刀法buff1,Effect One,ฟ้าร้องกึกก้อง
+BuffName_dlc霹雳刀法buff1_附属1,Thunderbolt in a Clear Sky,ฟ้าผ่ากลางแจ้ง
+KungfuCastBuff_dlc一刀斩buff1,Effect One,ดาบแรก
+BuffName_dlc一刀斩buff1_附属1,The First Katana,ดาบแรก
+KungfuCastBuff_dlc一刀斩buff2,Effect Two,ท่าฟันเสื้อคลุมใหญ่
+BuffName_dlc一刀斩buff2_附属1,Exaggerated Slash,ท่าฟันเสื้อคลุมใหญ่
+KungfuCastBuff_dlc星月剑法buff1,Effect One,เก้าแคว้นเชิญจันทร์
+KungfuCastBuff_dlc忘忧剑法buff1,Effect One,เงาเดียวรับสุข
+KungfuCastBuff_dlc苍穹剑法buff1,Effect One,กวาดกระบี่ทั่วฟ้า
+KungfuCastBuff_dlc求败九式buff1,Effect One,ใช้มือดุจแขน
+KungfuCastBuff_dlc破天剑法buff1,Effect One,กระบี่แรกฟันเมฆา
+KungfuCastBuff_dlc破天剑法buff2,Effect Two,กระบี่สองทำลายปราณ
+KungfuCastBuff_dlc疯魔棍法buff1,Effect One,จมความบ้าคลั่ง
+KungfuCastBuff_dlc混元棍法buff1,Effect One,พลังจักรวาล
+KungfuCastBuff_dlc七旋斩buff1,Effect One,หมุนร่ายไล่ชีวิต
+BuffName_dlc七旋斩buff1_附属1,
+KungfuCastBuff_dlc碧磷刀法buff1,Effect One,คมดาบร้อยพิษ
+KungfuCastBuff_dlc叶家枪法buff1,Effect One,กองทัพเหล็กยิ่งใหญ่
+KungfuCastBuff_dlc七杀枪法buff1,Effect One,เจ็ดพิฆาตทัพ
+KungfuCastBuff_dlc沥泉枪法buff1,Effect One,ซื่อสัตย์ภักดี
+KungfuCastBuff_dlc沥泉枪法buff2,Effect Two,มิกล้าประชิด
+KungfuCastBuff_dlc破军刀法buff1,Effect One,ทลายดาวโชค
+KungfuCastBuff_dlc碧落黄泉buff1,Effect One,ลมปราณยมโลก
+KungfuCastBuff_dlc斩天刀法buff1,Effect One,นรกไร้สิ้นสุด
+KungfuCastBuff_dlc斩天刀法buff2,Effect Two,ขุดรากถอนโคน
+KungfuCastBuff_dlc紫薇惊龙掌buff1,Effect One,ดาวราชัน
+KungfuCastBuff_dlc紫薇惊龙掌buff2,Effect Two,มังกรเคลื่อนเมฆา
+KungfuCastBuff_dlc广寒剑法buff1,Effect One,แปรเปลี่ยนดวงจันทร์
+KungfuCastBuff_dlc破空拳buff1,Effect One,หมัดมือผ่าอากาศ
+KungfuCastBuff_dlc无锋剑法buff1,Effect One,ใช้พลังทำลายกลยุทธ์
+KungfuCastBuff_dlc无锋剑法buff2,Effect Two,พลังแขนพันชั่ง
+KungfuCastBuff_dlc烈阳拳buff1,Effect One,ส่องแสงดุจตะวัน
+KungfuCastBuff_dlc烈阳拳buff2,Effect Two,ประดุจไฟผลาญ
+KungfuCastBuff_dlc万民掌buff1,Effect One,ตั้งใจสร้างฟ้าดิน
+KungfuCastBuff_dlc无名剑法buff1,Effect One,ชะตาฟ้าลิขิต
+KungfuCastBuff_dlc蛮荒霸道斩buff1,Effect One,ป่าเถื่อนไร้ประมาณ
+KungfuCastBuff_dlc百鸟朝凰枪buff1,Effect One,วิหคเพลิงร่ายรำกลางนภา
+KungfuCastBuff_dlc分光流星刺buff1,Effect One,งดงามชั่วขณะ
+KungfuCastBuff_dlc笑红尘buff1,Effect One,เย้ยฟ้าดิน
+KungfuCastBuffInfo_dlc通天手buff1,"When attacking, your own <#29F161>Critical increases by 10%</color>, and applies a layer of ""Crown"" effect to the enemy【<#F3DE99>Crown: up to three layers, reduces 500 HP when reaching three layers</color>】","เมื่อโจมตี ตนเอง<#29F161>คริติคอลเพิ่มขึ้น 10%</color> และมอบสถานะ ""รัดเกล้า"" แก่ศัตรู【<#F3DE99>รัดเกล้า: สูงสุด 3 ชั้น, เมื่อสะสมถึง 3 ชั้น จะลด HP ลง 500 หน่วย</color>】"""
+KungfuCastBuffInfo_dlc曹全碑buff1,"When attacking, your own <#29F161>Attack increases damage by 10%</color>, and inflicts ""Enchantment"" effect on the enemy, lasting for three actions.","เมื่อโจมตี <#29F161>สร้างความเสียหายเพิ่มขึ้น 10%</color> และสร้างสถานะ ""ต้องมนตร์"" แก่ศัตรู คงอยู่ 3 รอบ"
+KungfuCastBuffInfo_dlc逍遥游buff1,"When attacking, your own <#29F161>Attack increases by 50 points</color>, and applies a layer of ""Scar"" effect to the enemy【<#F3DE99>Scar: up to three layers, reduces Defense by 75 points when reaching three layers, lasts for 3 actions</color>】","เมื่อโจมตี ตนเอง<#29F161>พลังโจมตีเพิ่มขึ้น 50 หน่วย</color> และมอบสถานะ ""รอยแผล"" แก่ศัตรู【<#F3DE99>รอยแผล: สูงสุด 3 ชั้น, เมื่อสะสมถึง 3 ชั้น จะลดพลังป้องกันลง 75 หน่วย</color>】"""
+KungfuCastBuffInfo_dlc高山流水buff1,"When attacking, your own <#29F161>Accuracy increases by 20%</color>, and applies a layer of ""Blindness"" effect to the enemy【<#F3DE99>Blindness: up to three layers, reduces Accuracy by 20% when reaching three layers, lasts for 3 actions</color>】","เมื่อโจมตี ตนเอง<#29F161>ความแม่นยำเพิ่มขึ้น 20%</color> และมอบสถานะ ""ตาบอด"" แก่ศัตรู【<#F3DE99>ตาบอด: สูงสุด 3 ชั้น, เมื่อสะสมถึง 3 ชั้น จะลดความแม่นยำลง 20 % คงอยู่ 3 รอบ</color>】"""
+KungfuCastBuffInfo_dlc灭天掌buff1,"Learn the <#d09a09>Confucius Thirteen Sutras</color> internal skill, during combat <#29F161>Attack increases damage by 30%</color>.",เมื่อเรียนรู้กำลังภายใน <#d09a09>ขงจื้อสิบสามคัมภีร์</color> ระหว่างต่อสู้ <#29F161>การโจมตีสร้างความเสียหายเพิ่มขึ้น 30%</color>
+KungfuCastBuffInfo_dlc灭天掌buff2,"When attacking, your own <#29F161>Critical increases by 10%</color>, and applies three layers of ""Crown"" effect to the enemy【<#F3DE99>Crown: up to three layers, reduces 500 HP when reaching three layers</color>】","เมื่อโจมตี ตนเอง<#29F161>คริติคอลเพิ่มขึ้น 10%</color> และมอบสถานะ ""รัดเกล้า"" 3 ชั้น แก่ศัตรู【<#F3DE99>รัดเกล้า: สูงสุด 3 ชั้น, เมื่อสะสมถึง 3 ชั้น จะลด HP ลง 500 หน่วย</color>】"""
+KungfuCastBuffInfo_dlc江山多娇buff1,"When attacking, your own <#29F161>Attack increases damage by 10%</color>, if the enemy has ""Enchantment"" effect, this attack <#29F161>increases damage by 30%</color>.","เมื่อโจมตี <#29F161>สร้างความเสียหายเพิ่มขึ้น 10%</color>, หากศัตรูมีสถานะ ""ต้องมนตร์"" อยู่ การโจมตีนี้<#29F161>สร้างความเสียหายเพิ่มขึ้น 30%</color>"
+KungfuCastBuffInfo_dlc江山多娇buff2,"Learn the <#d09a09>Confucius Thirteen Sutras</color> internal skill, when attacking <#29F161>Critical increases by 20%</color>.","เมื่อเรียนรู้กำลังภายใน <#d09a09>ขงจื้อสิบสามคัมภีร์</color>, เมื่อโจมตี <#29F161>คริติคอลเพิ่มขึ้น 20%</color>"
+KungfuCastBuffInfo_dlc扇舞春秋buff1,"When attacking, if the enemy has ""Scar"" effect, each additional layer increases your own <#29F161>Attack by 50 points</color>.","เมื่อโจมตี หากศัตรูได้รับสถานะ ""รอยแผล"" อยู่ จำนวนสถานะแต่ละชั้น ตนเองจะเพิ่ม<#29F161>พลังโจมตีขึ้น 50 หน่วย</color>"
+KungfuCastBuffInfo_dlc扇舞春秋buff2,"When attacking, your own <#29F161>Attack increases damage by 20%</color>.",เมื่อโจมตี <#29F161>การโจมตีสร้างความเสียหายเพิ่มขึ้น 20%</color> 
+KungfuCastBuffInfo_dlc广陵散buff1,"During Attack, your <#29F161>Accuracy increases by 10%</color>. If the enemy has the ""Blind"" effect, each additional layer increases your <#29F161>Critical by 10%</color>.","ระหว่างโจมตี ตนเอง<#29F161>ความแม่นยำเพิ่มขึ้น 10%</color> หากศัตรูได้รับสถานะ ""ตาบอด"" อยู่ จำนวนสถานะแต่ละชั้น ตนเองจะเพิ่ม<#29F161>คริติคอล 10%</color>"
+KungfuCastBuffInfo_dlc广陵散buff2,"For each additional target during Attack, <#29F161>Attack Increases Damage by 10%</color>.",ขณะโจมตี เมื่อมีเป้าหมายโจมตีเพิ่มขึ้นทุกๆ 1 คน <#29F161>ความเสียหายจากการโจมตีจะเพิ่มขึ้น 10%</color>
+KungfuCastBuffInfo_dlc太极剑法buff1,"During Attack, your <#29F161>Attack Increases Damage by 10% and Energy increases by 100 points</color>.",ระหว่างโจมตี ตนเอง<#29F161>ความเสียหายเพิ่มขึ้น 10% และ ค่าปราณเคลื่อนที่เพิ่มขึ้น 100 หน่วย</color>。
+KungfuCastBuffInfo_dlc岁寒三友buff1,"During Attack, your <#29F161>Attack Increases Damage by 10%</color>; your <#29F161>Action Speed increases by 10%</color>, lasting for one action.",ระหว่างโจมตี ตนเอง<#29F161>ความเสียหายเพิ่มขึ้น 10% </color>และ <#29F161>ความเร็วท่าร่างเพิ่มขึ้น 10%</color> คงอยู่ 1 รอบ
+BuffInfo_dlc岁寒三友buff1_附属1,<#29F161>Action Speed increases by 10%</color>,<#29F161>ความเร็วท่าร่างเพิ่มขึ้น 10%</color>
+KungfuCastBuffInfo_dlc醉仙拳buff1,"During Attack, your <#29F161>Critical increases by 10% and Energy increases by 100 points</color>.",ระหว่างโจมตี ตนเอง <#29F161>โอกาสคริติคอลเพิ่มขึ้น 10% และ ค่าปราณเคลื่อนที่เพิ่มขึ้น 100 หน่วย</color>
+KungfuCastBuffInfo_dlc太极拳buff1,"During Attack, your <#29F161>Critical increases by 10%</color>; your <#29F161>Action Speed increases by 10%</color>, lasting for one action.",ระหว่างโจมตี ตนเอง <#29F161>โอกาสคริติคอลเพิ่มขึ้น 10%</color> และ <#29F161>ความเร็วท่าร่างเพิ่มขึ้น 10%</color> คงอยู่ 1 รอบ
+BuffInfo_dlc太极拳buff1_附属1,<#29F161>Action Speed increases by 10%</color>,<#29F161>ความเร็วท่าร่างเพิ่มขึ้น 10%</color>
+KungfuCastBuffInfo_dlc无极剑法buff1,"During Attack, your <#29F161>Attack Increases Damage by 20%</color>; your <#29F161>Action Speed increases by 20%</color>, lasting for two actions.",ระหว่างโจมตี ตนเอง <#29F161>ความเสียหายจากการโจมตีเพิ่มขึ้น 20%</color> และ <#29F161>ความเร็วท่าร่างเพิ่มขึ้น 20%</color> คงอยู่ 2 รอบ
+BuffInfo_dlc无极剑法buff1_附属1,<#29F161>Action Speed increases by 20%</color>,<#29F161>ความเร็วท่าร่างเพิ่มขึ้น 20%</color>
+KungfuCastBuffInfo_dlc无极剑法buff2,"During Attack, if you kill any enemy, your <#29F161>Energy increases by 100 points</color>.",ระหว่างโจมตี หากสังหารศัตรูได้ ตนเอง<#29F161>ค่าปราณเคลื่อนที่เพิ่มขึ้น 100 หน่วย</color>。
+KungfuCastBuffInfo_dlc贯云指buff1,"During Attack, your <#29F161>Critical increases by 20%</color>; your <#29F161>Action Speed increases by 20%</color>, lasting for two actions.",ระหว่างโจมตี ตนเอง<#29F161>โอกาสคริติคอลเพิ่มขึ้น 20%</color> และ <#29F161>ความเร็วท่าร่างเพิ่มขึ้น 20%</color> คงอยู่ 2 รอบ
+BuffInfo_dlc贯云指buff1_附属1,<#29F161>Action Speed increases by 20%</color>,<#29F161>ความเร็วท่าร่างเพิ่มขึ้น 20%</color>
+KungfuCastBuffInfo_dlc贯云指buff2,"During Attack, if you trigger Critical, your <#29F161>Energy increases by 100 points</color>.",ระหว่างโจมตี หากเกิดคริติคอล ตนเอง <#29F161>ค่าปราณเคลื่อนที่เพิ่มขึ้น 100 หน่วย</color>。
+KungfuCastBuffInfo_dlc般若掌buff1,"During Attack, your <#29F161>Attack Increases Damage by 10%</color>, causing the enemy to suffer a ""Defense Reduction"" effect【<#F3DE99>Defense Reduction: Defense decreases by 15%, lasting for two actions</color>】","ระหว่างโจมตี ตนเอง การโจมตี<#29F161>การโจมตีเพิ่มความเสียหายขึ้น 10%</color> และ สร้างสถานะ ""ลดป้องกัน"" แก่ศัตรู 【<#F3DE99>ลดป้องกัน: ลดพลังป้องกันลง 15% คงอยู่ 2 รอบ</color>】 "
+KungfuCastBuffInfo_dlc大力金刚掌buff1,"During Attack, your <#29F161>Attack Increases Damage by 10%</color>, causing the enemy to suffer an ""Attack Reduction"" effect【<#F3DE99>Attack Reduction: Attack decreases by 15%, lasting for two actions</color>】","ระหว่างโจมตี ตนเอง การโจมตี<#29F161>การโจมตีเพิ่มความเสียหายขึ้น 10%</color> และสร้างผล ""ลดโจมตี"" ให้กับศัตรู 【<#F3DE99>ลดโจมตี: ลดพลังโจมตีลง 15% คงอยู่ 2 รอบ</color>】"
+KungfuCastBuffInfo_dlc金刚降魔杵buff1,"During Attack, your <#29F161>Attack Increases Damage by 10%</color>, causing the enemy to suffer a ""Speed Reduction"" effect【<#F3DE99>Speed Reduction: Action Speed decreases by 10%, lasting for two actions</color>】","ระหว่างโจมตี ตนเอง การโจมตี<#29F161>การโจมตีเพิ่มความเสียหายขึ้น 10%</color> และสร้างผล ""ลดความเร็ว"" ให้กับศัตรู 【<#F3DE99>ลดความเร็ว: ความเร็วท่าร่างลดลง 10% คงอยู่ 2 รอบ</color>】"
+KungfuCastBuffInfo_dlc紧那罗王棍buff1,"During Attack, your <#29F161>Attack Increases Damage by 10%</color>, causing the enemy to suffer a ""Shield Break"" effect【<#F3DE99>Shield Break: Parry decreases by 10%, lasting for two actions</color>】","ระหว่างโจมตี ตนเอง การโจมตี<#29F161>การโจมตีเพิ่มความเสียหายขึ้น 10%</color> และสร้างผล ""ทลายเกราะ"" ให้กับศัตรู 【<#F3DE99>ทลายเกราะ: อัตราปัดป้องลดลง 10% คงอยู่ 2 รอบ</color>】"
+KungfuCastBuffInfo_dlc如来神掌buff1,"Upon learning the <#d09a09>Vairocana Solar Sutra</color> internal skill, your Attack <#29F161>Increases Damage by 30%</color> during Attack.",เมื่อเรียนรู้กำลังภายใน <#d09a09>ไวโรจนะมหาสูตร</color> ระหว่างโจมตี <#29F161>การโจมตีสร้างความเสียหายเพิ่มขึ้น 30%</color>
+KungfuCastBuffInfo_dlc如来神掌buff2,"When attacking, if your current MP is higher than the enemy's, your <#29F161>Critical increases by 20%</color>, and the enemy's <#FE2929>Counter decreases by 100%</color>.","เมื่อโจมตี หาก MP ปัจจุบันของตัวละครสูงกว่า MP ของศัตรู, ตนเอง<#29F161>คริติคอลเพิ่มขึ้น 20%</color> และ ศัตรู <#FE2929>อัตราสวนกลับลดลง 100%</color>"
+KungfuCastBuffInfo_dlc达摩杖法buff1,"For every additional 100 MP when attacking, <#29F161>Attack Increases Damage by 5%</color>, up to a maximum of 50%.",ทุกๆ 100 แต้มของ MP ที่มีอยู่ เมื่อโจมตี จะเพิ่ม <#29F161>ความเสียหายจากการโจมตี 5%</color> สูงสุดไม่เกิน 50%
+KungfuCastBuffInfo_dlc达摩杖法buff2,"When attacking, <#29F161>Critical increases by 10%</color>. If the enemy has ""Slow"" or ""Shield Break"" effects, <#29F161>Critical increases by 100%</color>.","เมื่อโจมตี <#29F161>เพิ่มอัตราคริติคอล 10%</color>, หากศัตรูติดสถานะ ""ลดความเร็ว"" หรือ ""ทลายเกราะ"" อยู่ <#29F161>อัตราคริติคอลเพิ่มขึ้น 100%</color>"
+KungfuCastBuffInfo_dlc伤情别离掌buff1,"When attacking, your <#29F161>Attack Increases Damage by 10%</color>. If your current HP is below 50%, <#29F161>Recover 50 HP</color>.","เมื่อโจมตี <#29F161>เพิ่มความเสียหายจากการโจมตี 10%</color>, หาก HP ต่ำกว่า 50% จะ<#29F161>ฟื้นฟู HP 50 หน่วย</color>"
+KungfuCastBuffInfo_dlc断魂爪buff1,"When attacking, your <#29F161>Critical increases by 10%</color>. If your current HP is below 50%, <#29F161>Recover 50 HP</color>.","เมื่อโจมตี <#29F161>เพิ่มอัตราคริติคอล 10%</color>, หาก HP ต่ำกว่า 50% จะ<#29F161>ฟื้นฟู HP 50 หน่วย</color>"
+KungfuCastBuffInfo_dlc撼天指法buff1,"When attacking, absorb 5% of the enemy's current HP and convert it into your own HP.",เมื่อโจมตี จะดูดซับ HP ปัจจุบันของศัตรู 5% มาฟื้นฟู HP ของตนเอง
+KungfuCastBuffInfo_dlc撼天指法buff2,"When attacking, randomly inflict ""Weakness"" or ""Slow"" effects on the enemy, lasting for two actions【<#F3DE99>Weakness: Attack power decreases by 10%; Slow: Action Speed decreases by 10%</color>】","เมื่อโจมตี สุ่มสร้างสถานะ ""อ่อนแอ"" หรือ ""ลดความเร็ว"" แก่ศัตรู【<#F3DE99>อ่อนแอ: ลดพลังโจมตีลง 10%, ลดความเร็ว: ความเร็วท่าร่างลดลง 10%</color>】สถานะคงอยู่ 2 รอบ"
+KungfuCastBuffInfo_dlc汉宫秋月buff1,"When attacking, randomly <#FE2929>reduce the enemy's energy by 50~80 points</color>, and inflict a layer of ""Lock-on"" effect on the enemy【<#F3DE99>Lock-on: Up to three layers, unable to act when reaching three layers, lasts for one action</color>】","เมื่อโจมตี สุ่ม<#FE2929>ลดค่าปราณเคลื่อนที่ศัตรูลง 50~80 หน่วย</color> และมอบสถานะ ""หมายหัว"" แก่ศัตรู【<#F3DE99>หมายหัว: สูงสุด 3 ชั้น, เมื่อสะสมถึง 3 ชั้น จะไม่สามารถลงมือใดๆ ได้ คงอยู่ 1 รอบ</color>】"""
+KungfuCastBuffInfo_dlc蝶舞天涯buff1,"When attacking a single enemy, you can <#FE2929>reduce their energy by 150 points</color>. If attacking multiple enemies, all enemies share the reduced energy.",เมื่อโจมตีเป้าหมายเดี่ยว <#FE2929>ลดค่าปราณเคลื่อนที่ของศัตรูลง 150 หน่วย</color> หากโจมตีหลายเป้าหมาย ศัตรูจะแบ่งกันลดค่าปราณเคลื่อนที่ลง
+KungfuCastBuffInfo_dlc鹧鸪天buff1,"The more enemies there are when attacking, the more energy is reduced. For each additional enemy attacked, the enemy being attacked <#FE2929>loses an additional 20 points of energy</color>.","ยิ่งโจมตีศัตรูหลายคน จะยิ่งลดค่าปราณเคลื่อนที่ของศัตรูลงมากขึ้น, <#FE2929>จะลดค่าปราณเคลื่อนที่ลง 20 หน่วย</color> ต่อการโจมตีศัตรูที่เพิ่มมา 1 คน"
+KungfuCastBuffInfo_dlc十面埋伏buff1,"When attacking, randomly <#FE2929>reduce the enemy's energy by 80~120 points</color>. If the enemy has a ""Lock-on"" effect, randomly <#FE2929>reduce the energy by 120~180 points</color>.","เมื่อโจมตี สุ่ม<#FE2929>ลดค่าปราณเคลื่อนที่ศัตรูลง 80~120 หน่วย</color> หากศัตรูติดสถานะ ""หมายหัว"" อยู่ จะสุ่ม<#FE2929>ลดค่าปราณเคลื่อนที่ศัตรูลง 120~180 หน่วย</color>"
+KungfuCastBuffInfo_dlc十面埋伏buff2,"When attacking, your <#29F161>Attack Increases Damage by 30%</color>.",เมื่อโจมตี <#29F161>เพิ่มความเสียหายจากการโจมตี 30%</color>
+KungfuCastBuffInfo_dlc傲江湖buff1,"When attacking, randomly <#FE2929>reduce the enemy's energy by 80~120 points</color>. If a Critical is triggered, <#FE2929>reduce the enemy's energy by 150 points</color>.",เมื่อโจมตี สุ่ม<#FE2929>ลดค่าปราณเคลื่อนที่ศัตรูลง 80~120 หน่วย</color> หากโจมตีเกิดคริติคอล จะ<#FE2929>ลดค่าปราณเคลื่อนที่ศัตรูลง 150 หน่วย</color>
+KungfuCastBuffInfo_dlc傲江湖buff2,"For each enemy hit when attacking, you <#29F161>increase your energy by 20 points</color>.",เมื่อโจมตี สำหรับศัตรูแต่ละตัวที่โดนโจมตี ตนเองจะได้รับ <#29F161>ค่าปราณเคลื่อนที่เพิ่มขึ้น 20 หน่วย</color>
+KungfuCastBuffInfo_dlc碧涧流泉buff1,"When attacking, randomly <#FE2929>reduce the enemy's energy by 80~120 points</color>. If the enemy triggers a Parry, randomly <#FE2929>reduce the energy by 120~180 points</color>.",เมื่อโจมตี สุ่ม<#FE2929>ลดค่าปราณเคลื่อนที่ของศัตรูลง 80~120 หน่วย</color> หากศัตรูเกิดปัดป้อง จะสุ่ม<#FE2929>ลดค่าปราณเคลื่อนที่ศัตรูลง 120~180 หน่วย</color>
+KungfuCastBuffInfo_dlc碧涧流泉buff2,"Trigger Critical during Attack, self <#29F161>increases 100 points of Qi</color>.",ระหว่างโจมตี หากเกิดคริติคอล ตนเอง <#29F161>ค่าปราณเคลื่อนที่เพิ่มขึ้น 100 หน่วย</color>。
+KungfuCastBuffInfo_dlc黄泉引路枪buff1,"Cause an ""Erosion"" effect on the enemy during Attack, lasts for 1 battle【<#F3DE99>Erosion: Up to three layers, lose (effect layers*10%) of current HP after each action</color>】","เมื่อโจมตี จะทำให้ศัตรูได้รับสถานะ 'กัดกร่อน' 1 ชั้น ซึ่งมีผลจนจบการต่อสู้【<#F3DE99>กัดกร่อน: สูงสุด 3 ชั้น, หลังลงมือ จะสูญเสีย HP ปัจจุบัน (จำนวนชั้นของสถานะ*10%)</color>】"
+KungfuCastBuffInfo_dlc梅花三弄buff1,"Cause a ""Paralysis"" effect on the enemy during Attack, lasts for 1 battle【<#F3DE99>Paralysis: Up to three layers, Movement Range decreases by (effect layers*1) squares during battle</color>】",เมื่อโจมตี จะทำให้ศัตรูได้รับสถานะ 'อัมพาต' 1 ชั้น ซึ่งมีผลจนจบการต่อสู้【<#F3DE99>อัมพาต: สูงสุด 3 ชั้น ในระหว่างการต่อสู้ ระยะการเคลื่อนไหวจะลดลง (จำนวนชั้นของสถานะ*1) ช่อง</color>】
+KungfuCastBuffInfo_dlc九黎巫叉buff1,"Cause a ""Self-restrained"" effect on the enemy during Attack【<#F3DE99>Self-restrained: Attack, Defense, Action Speed decrease by 10%, lasts for two actions</color>】","ระหว่างโจมตี สร้างสถานะ ""กดขี่"" แก่ศัตรู【<#F3DE99>กดขี่: พลังโจมตี, พลังป้องกัน, ความเร็วท่าร่างลดลง 10%, คงอยู่ 2 รอบ</color>】"
+KungfuCastBuffInfo_dlc九黎巫叉buff2,"If the enemy has the ""Erosion"" effect during Attack, self <#29F161>Attack Increases Damage by 30%</color>.","หากศัตรูได้รับสถานะ ""กัดกร่อน"" อยู่ การโจมตีนี้<#29F161>ความเสียหายเพิ่มขึ้น 30%</color>"
+KungfuCastBuffInfo_dlc万蛊谣buff1,"Cause a ""Poisonous Insect"" effect on the enemy during Attack【<#F3DE99>Poisonous Insect: Randomly trigger blood loss, internal energy reduction, Weapon failure, Armor failure negative status after each action, lasts for two actions</color>】","เมื่อโจมตี สร้างสถานะ ""พิษกู่"" แก่ศัตรู【<#F3DE99>พิษกู่: ทุกครั้งที่มีการกระทำ จะสุ่มเกิดสถานะลบต่อไปนี้ เสียเลือด, ลดพลังภายใน, อาวุธไร้ผล, เกราะไร้ผล คงอยู่ 2 รอบการกระทำ</color>】"
+KungfuCastBuffInfo_dlc万蛊谣buff2,"If the enemy has the ""Paralysis"" effect during Attack, this Attack <#29F161>Critical increases by 100%</color>.",เมื่อโจมตี หากศัตรูมีสถานะ 'อัมพาต' การโจมตีนี้ จะเพิ่ม<#29F161>อัตราคริติคอลขึ้น 100%</color>
+KungfuCastBuffInfo_dlc怒流刀法buff1,"During Attack, <#29F161>Attack Increases Damage by 10%</color>, and inflicts an ""Sword Technique Mark"" effect on the enemy, lasts for one battle, up to three layers.","เมื่อโจมตี <#29F161>ความเสียหายเพิ่มขึ้น 10%</color> และสร้างสถานะ ""รอยประทับดาบ"" แก่ศัตรู มีผลจนจบการต่อสู้ สูงสุด 3 ชั้น"
+KungfuCastBuffInfo_dlc银蛇流光buff1,"During Attack, <#29F161>Attack Increases Damage by 10%</color>, and inflicts a ""Dagger Mark"" effect on the enemy, lasts for one battle, up to three layers.","เมื่อโจมตี <#29F161>ความเสียหายเพิ่มขึ้น 10%</color> และสร้างสถานะ ""รอยประทับมีดสั้น"" แก่ศัตรู มีผลจนจบการต่อสู้ สูงสุด 3 ชั้น"
+KungfuCastBuffInfo_dlc风卷残云式buff1,"During Attack, <#29F161>Attack Increases Damage by 10%</color>, and inflicts a ""Fan Technique Mark"" effect on the enemy, lasts for one battle, up to three layers.","เมื่อโจมตี <#29F161>ความเสียหายเพิ่มขึ้น 10%</color> และสร้างสถานะ ""รอยประทับพัด"" แก่ศัตรู มีผลจนจบการต่อสู้ สูงสุด 3 ชั้น"
+KungfuCastBuffInfo_dlc吞鲸刀法buff1,"If the enemy's HP is above 50% during Attack, then <#29F161>Attack Increases Damage by 30%</color>.","ระหว่างโจมตี หากศัตรูมี HP มากกว่า 50%, จะ<#29F161>สร้างความเสียหายเพิ่มขึ้น 30%</color>"
+KungfuCastBuffInfo_dlc吞鲸刀法buff2,"If the enemy has the ""Sword Technique Mark"" effect during Attack, this Attack inflicts additional true damage on the enemy (effect layers*100).","เมื่อโจมตี หากศัตรูได้รับสถานะ ""รอยประทับดาบ"" อยู่ การโจมตีนี้ ทำให้ศัตรูได้รับความเสียหายจริงเพิ่มขึ้น (จำนวนชั้นของรอยประทับ x 100)"
+KungfuCastBuffInfo_dlc天外流星buff1,"When Back attacking the enemy, <#29F161>Attack Increases Damage by 30%</color>.",เมื่อโจมตีศัตรูจากด้านหลัง การโจมตี<#29F161>จะเพิ่มความเสียหายขึ้น 30%</color>
+KungfuCastBuffInfo_dlc天外流星buff2,"If the enemy has the ""Dagger Mark"" effect and HP is below 50% during Attack, there is a (effect layers*10%) chance to trigger Instant death.","ระหว่างโจมตี หากศัตรูได้รับสถานะ ""รอยประทับมีดสั้น"" อยู่ และ HP ต่ำกว่า 50%, จะมีโอกาส (จำนวนชั้นของตราประทับ x 10%) ทำให้ศัตรูถูกสังหารทันที"
+KungfuCastBuffInfo_dlc蝶恋花buff1,"During Attack, <#29F161>Critical increases by 10%</color>, and knocks the enemy back two squares.",ระหว่างโจมตี <#29F161>อัตราคริติคอลเพิ่มขึ้น 10%</color> และผลักศัตรูถอยหลังไป 2 ช่อง
+KungfuCastBuffInfo_dlc蝶恋花buff2,"If the enemy has the ""Fan Technique Mark"" effect during Attack, this Attack Increases Damage (effect layers*15%).","ระหว่างโจมตี หากศัตรูได้รับสถานะ ""รอยประทับพัด"" อยู่, การโจมตีนี้ จะเพิ่มความเสียหายขึ้น (จำนวนชั้นของตราประทับ x 15%)"
+KungfuCastBuffInfo_dlc素女剑法buff1,"After Attack, self <#29F161>Recovers 20% of lost HP</color>.",หลังโจมตี ตนเอง<#29F161>จะฟื้นฟู HP ที่เสียไป 20%</color>
+KungfuCastBuffInfo_dlc凌尘剑法buff1,"During Attack, <#29F161>Attack Increases Damage by 20%</color>, self <#29F161>Recovers 100 HP</color>.",ขณะโจมตี <#29F161>สร้างความเสียหายจากการโจมตีจะเพิ่มขึ้น 20%</color> และ <#29F161>ฟื้นฟู HP 100 หน่วย</color> ให้กับตัวเอง
+KungfuCastBuffInfo_dlc云林棍法buff1,"After Attack, own animals get <#29F161>Action Speed increases by 50%</color> effect, lasts for one action.",หลังโจมตี สัตว์ฝ่ายเราจะได้รับผล <#29F161>ความเร็วท่าร่างเพิ่มขึ้น 50% </color> มีผลถึงการกระทำครั้งถัดไป
+BuffInfo_dlc云林棍法buff1_附属1_光环1,<#29F161>Action Speed increased by 50%</color>,<#29F161>ความเร็วท่าร่างเพิ่มขึ้น 50%</color>
+KungfuCastBuffInfo_dlc太虚十八剑buff1,"When attacking an enemy with ""Tear"" or ""Shock"" effect, <#29F161>Attack increases damage by 20%</color>.","เมื่อโจมตี ศัตรูที่มีสถานะ ""ฉีกขาด"" หรือ ""สั่นสะเทือน"" อยู่ การโจมตี<#29F161>สร้างความเสียหายเพิ่มขึ้น 20%</color>"
+KungfuCastBuffInfo_dlc天罡飞龙杖buff1,"When attacking, <#29F161>Damage increases by 30%</color>.",เมื่อโจมตี <#29F161>สร้างความเสียหายเพิ่มขึ้น 30% </color>
+KungfuCastBuffInfo_dlc天罡飞龙杖buff2,"After attacking, your summoned creature gets <#29F161>Combo increased by 100%</color> effect, lasts for 1 action.",หลังโจมตี สิ่งที่ถูกตัวละครเรียกออกมาจะได้รับผล <#29F161>อัตราโจมตีต่อเนื่องเพิ่มขึ้น 100% </color> มีผลถึงการกระทำครั้งถัดไป
+BuffInfo_dlc天罡飞龙杖buff2_附属1_光环1,<#29F161>Combo increased by 100%</color>,<#29F161>อัตราโจมตีต่อเนื่องเพิ่มขึ้น 100%</color>
+KungfuCastBuffInfo_dlc浮华掠影剑buff1,"When attacking an enemy with ""Tear"" or ""Shock"" effect, <#29F161>Attack increases damage by 30%</color>.","เมื่อโจมตี ศัตรูที่มีสถานะ ""ฉีกขาด"" หรือ ""สั่นสะเทือน"" <#29F161>การโจมตีจะเพิ่มความเสียหายขึ้น 30%</color>"
+KungfuCastBuffInfo_dlc浮华掠影剑buff2,"When attacking animal-type enemies, <#29F161>Damage increases by 50%</color>.",เมื่อโจมตี ศัตรูที่เป็นสัตว์ <#29F161>สร้างความเสียหายเพิ่มขึ้น 50%</color> 
+KungfuCastBuffInfo_dlc风雷刺法buff1,"When attacking, Pierce enemy's <#29F161>20% Defense effect</color>.",เมื่อโจมตี จะโจมตีทะลุ <#29F161>พลังป้องกัน 20%</color> ของศัตรู
+KungfuCastBuffInfo_dlc云龙三现buff1,"When attacking, additionally reduce enemy's <#FE2929>5% of maximum HP</color>.",เมื่อโจมตี จะ<#FE2929>ลด HP 5% ของ HP สูงสุด</color> ของศัตรู
+KungfuCastBuffInfo_dlc刺秦要诀buff1,"When back attacking an enemy, <#29F161>Critical increased by 100%</color>.",เมื่อโจมตีศัตรูจากด้านหลัง <#29F161>อัตราคริติคอลเพิ่มขึ้น 100%</color>
+KungfuCastBuffInfo_dlc刺秦要诀buff2,"When side attacking an enemy, <#29F161>Critical increased by 50%</color>.",เมื่อโจมตีศัตรูจากด้านข้าง <#29F161>อัตราคริติคอลเพิ่มขึ้น 50%</color>
+KungfuCastBuffInfo_dlc贪狼剑法buff1,"When attacking, you gain ""Focus"" effect【<#F3DE99>Focus: Attack increases by 100 points, lasts for two actions</color>】","เมื่อโจมตี ตนเองจะได้รับสถานะ ""จดจ่อ"" 【<#F3DE99>จดจ่อ: พลังโจมตีเพิ่มขึ้น 100 หน่วย คงอยู่ 2 รอบ</color>】"
+KungfuCastBuffInfo_dlc盘空刀法buff1,"When attacking, Pierce enemy's <#29F161>20% Defense effect</color>.",เมื่อโจมตี จะโจมตีทะลุ <#29F161>พลังป้องกัน 20%</color> ของศัตรู
+KungfuCastBuffInfo_dlc磐龙剑法buff1,"When attacking, increase damage by <#29F161>30%~100% based on enemy's remaining HP</color>, the lower the enemy's HP, the higher the damage, increase by 100% when HP is below 30%.",เมื่อโจมตี จะเพิ่มความเสียหายขึ้น【<#29F161>30%~100% ของ HP ที่เหลืออยู่ของศัตรู</color>】ยิ่ง HP ของศัตรูเหลือน้อย ความเสียหายยิ่งเพิ่มมากขึ้น หาก HP ของศัตรูต่ำกว่า 30% จะเพิ่มความเสียหายขึ้น 100%
+KungfuCastBuffInfo_dlc磐龙剑法buff2,"When attacking, your <#29F161>Attack increases by 100 points</color>.",เมื่อโจมตี ตนเอง <#29F161>พลังโจมตีเพิ่มขึ้น 100 หน่วย</color>
+KungfuCastBuffInfo_dlc天魔刀法buff1,"Learn <#d09a09>Prayer Manual</color> internal skill, when attacking, Pierce enemy's <#29F161>50% Defense effect</color>.",เรียนรู้วิชากำลังภายใน <#d09a09>คัมภีร์ภาวนา</color> ทำให้การโจมตีสามารถทะลุ <#29F161>พลังป้องกัน 50%</color> ของศัตรูได้
+KungfuCastBuffInfo_dlc天魔刀法buff2,"Without learning <#d09a09>Prayer Manual</color> internal skill, when attacking, Pierce enemy's <#29F161>25% Defense effect</color>.",หากไม่ได้เรียนรู้วิชากำลังภายใน <#d09a09>คัมภีร์ภาวนา</color> เมื่อโจมตีจะทะลุ <#29F161>พลังป้องกัน 25%</color> ของศัตรูได้
+KungfuCastBuffInfo_dlc霹雳刀法buff1,"When attacking, your <#29F161>Attack increases damage by 10%</color>, after attacking, your <#29F161>Parry increases by 10%</color>, lasts for one action.","เมื่อโจมตี ตนเอง<#29F161>ความเสียหายเพิ่มขึ้น 10% </color>, หลังโจมตี ตนเอง<#29F161>อัตราปัดป้องเพิ่มขึ้น 10%</color> คงอยู่ 1 รอบ"
+BuffInfo_dlc霹雳刀法buff1_附属1,<#29F161>Parry increases by 10%</color>,<#29F161>ปัดป้องเพิ่มขึ้น 10%</color>
+KungfuCastBuffInfo_dlc一刀斩buff1,"When attacking, your <#29F161>Attack increases damage by 10%</color>, after attacking, your <#29F161>Critical increases by 10%</color>, lasts for one action.","เมื่อโจมตี ตนเอง<#29F161>ความเสียหายเพิ่มขึ้น 10% </color>, หลังโจมตี ตนเอง<#29F161>อัตราคริติคอลเพิ่มขึ้น 10%</color> คงอยู่ 1 รอบ"
+BuffInfo_dlc一刀斩buff1_附属1,<#29F161>Critical increases by 10%</color>,<#29F161>อัตราคริติคอลเพิ่มขึ้น 10%</color>
+KungfuCastBuffInfo_dlc一刀斩buff2,"When attacking, trigger Critical on enemy, enemy's <#FE2929>Critical decreases by 10%</color>, lasts for one action.",เมื่อโจมตี หากเกิดคริติคอลแก่ศัตรู ศัตรูจะได้รับผล<#FE2929>อัตราคริติคอลลดลง 10%</color> คงอยู่ 1 รอบ
+BuffInfo_dlc一刀斩buff2_附属1,<#FE2929>Critical decreases by 10%</color>,<#FE2929>อัตราคริติคอลลดลง 10%</color>
+KungfuCastBuffInfo_dlc星月剑法buff1,"During an Attack, there is a 50% chance to trigger the ""Vulnerable"" effect on the enemy【<#F3DE99>Vulnerable: Guaranteed to be Critical when Attacked, lasts for one action</color>】","ระหว่างโจมตี มีโอกาส 50% ที่จะสร้างสถานะ ""เปราะบาง"" แก่ศัตรู【<#F3DE99>เปราะบาง: เมื่อถูกโจมตีจะติดคริติคอลแน่นอน</color>】คงอยู่ 1 รอบ"
+KungfuCastBuffInfo_dlc忘忧剑法buff1,"During an Attack, there is a 50% chance to trigger the ""Cut tendon"" effect on the enemy【<#F3DE99>Cut tendon: Movement Range decreases by 5 squares, lasts for one action</color>】","ระหว่างโจมตี มีโอกาส 50% ที่จะสร้างสถานะ ""ตัดเส้นเอ็น"" แก่ศัตรู【<#F3DE99>ตัดเส้นเอ็น: ระยะเคลื่อนที่ลดลง 5 ช่อง</color>】คงอยู่ 1 รอบ"
+KungfuCastBuffInfo_dlc苍穹剑法buff1,"During an Attack, for each additional person Attacked, <#29F161>Critical increases by 5%, up to a maximum of 30%</color>.",ระหว่างโจมตี สำหรับศัตรูแต่ละตัวที่ถูกโจมตี <#29F161>อัตราคริติคอลเพิ่มขึ้น 5% สูงสุด 30%</color>
+KungfuCastBuffInfo_dlc求败九式buff1,"During an Attack, if the enemy's Weapon is a sword, <#29F161>Critical increases by 20%</color>.",ระหว่างโจมตี หากศัตรูถืออาวุธประเภทกระบี่<#29F161>อัตราคริติคอลเพิ่มขึ้น 20%</color>
+KungfuCastBuffInfo_dlc破天剑法buff1,"During an Attack, <#29F161>Critical increases by 15%</color>, if the enemy's Weapon is a sword, <#29F161>Critical increases by 100%</color>.","ระหว่างโจมตี <#29F161>อัตราคริติคอลเพิ่มขึ้น 15%</color>, หากศัตรูถืออาวุธประเภทกระบี่ <#29F161>อัตราคริติคอลเพิ่มขึ้น 100%</color>"
+KungfuCastBuffInfo_dlc破天剑法buff2,"After an Attack, a Critical hit <#29F161>will definitely Combo</color>.",หลังโจมตี ติดคริติคอล <#29F161>จะโจมตีต่อเนื่องแน่นอน</color>
+KungfuCastBuffInfo_dlc疯魔棍法buff1,"During an Attack, there is a 50% chance to trigger the ""Slumber"" effect on the enemy【<#F3DE99>Slumber: Unable to act, guaranteed to be Critical when Attacked, and immediately wakes up, lasts for two actions</color>】","เมื่อโจมตี มีโอกาส 50% ที่จะทำให้ศัตรูเกิดผล 'หลับใหล'【<#F3DE99>หลับใหล: ไม่สามารถเคลื่อนไหว, เมื่อถูกโจมตีจะเกิดการโจมตีคริติคอลแน่นอน และจะตื่นทันที, คงอยู่สองรอบ</color>】"
+KungfuCastBuffInfo_dlc混元棍法buff1,"During an Attack, there is a 50% chance to trigger the ""Unconscious"" effect on the enemy【<#F3DE99>Unconscious: Unable to act, guaranteed to be Critical when Attacked, lasts for one action</color>】","ระหว่างโจมตี มีโอกาส 50% ที่จะสร้างสถานะ ""หมดสติ"" แก่ศัตรู【<#F3DE99>หมดสติ: ขยับไม่ได้ เมื่อถูกโจมตีจะติดคริติคอลแน่นอน</color>】คงอยู่ 1 รอบ"
+KungfuCastBuffInfo_dlc七旋斩buff1,"During an Attack, your own <#29F161>Attack increases Damage by 10%</color>, your own <#29F161>Action Speed increases by 10%</color>, lasts for one action.",ระหว่างโจมตี ตนเอง<#29F161>สร้างความเสียหายเพิ่มขึ้น 10%</color> และ <#29F161>ความเร็วท่าร่างเพิ่มขึ้น 10%</color> คงอยู่ 1 รอบ
+BuffInfo_dlc七旋斩buff1_附属1,<#29F161>Action Speed increases by 10%</color>,<#29F161>ความเร็วท่าร่างเพิ่มขึ้น 10%</color>
+KungfuCastBuffInfo_dlc碧磷刀法buff1,"During an Attack, your own <#29F161>Attack increases Damage by 10%</color>, after the Attack, you gain <#29F161>100 points of Qi</color>.",ระหว่างโจมตี ตนเอง<#29F161>สร้างความเสียหายเพิ่มขึ้น 10%</color> หลังโจมตี ตนเองได้รับ<#29F161>ค่าปราณเคลื่อนที่เพิ่มขึ้น 100 หน่วย</color>
+KungfuCastBuffInfo_dlc叶家枪法buff1,"During an Attack, there is a 50% chance to trigger the ""Disable technique"" effect on the enemy【<#F3DE99>Disable technique: Unable to use martial arts, lasts for one action</color>】","ระหว่างโจมตี มีโอกาส 50% ที่จะทำให้ศัตรูติดสถานะ ""ทำลายวรยุทธ"" [<#F3DE99>ทำลายวรยุทธ: ไม่สามารถใช้วิทยายุทธและท่าไม้ตายได้</color>] คงอยู่ 1 รอบ"
+KungfuCastBuffInfo_dlc七杀枪法buff1,"During an Attack, there is a 50% chance to trigger the ""Out of control"" effect on the enemy【<#F3DE99>Out of control: Not under control, guaranteed to be Critical when Attacked, lasts for one action</color>】","ระหว่างโจมตี มีโอกาส 50% ที่จะทำให้ศัตรูติดสถานะ ""เสียการควบคุม"" [<#F3DE99>เสียการควบคุม: ไม่สามารถควบคุมตัวเองได้ เมื่อถูกโจมตีจะติดคริติคอลเสมอ</color>] คงอยู่ 1 รอบ"
+KungfuCastBuffInfo_dlc沥泉枪法buff1,"During an Attack, there is a 50% chance to trigger the ""Charm"" effect on the enemy【<#F3DE99>Charm: Loses mind, helps the enemy Attack their own people, lasts for two actions</color>】","ระหว่างโจมตี มีโอกาส 50% ที่จะทำให้ศัตรูติดสถานะ ""ลุ่มหลง"" [<#F3DE99>ลุ่มหลง: ขาดสติ ช่วยเหลือศัตรูโจมตีพวกเดียวกัน</color>] คงอยู่ 2 รอบ"
+KungfuCastBuffInfo_dlc沥泉枪法buff2,"During an Attack, if the enemy has the ""Disable technique"" or ""Out of control"" effect, <#29F161>Attack increases Damage by 30%</color>.","ระหว่างโจมตี หากศัตรูติดสถานะ ""ทำลายวรยุทธ"" หรือ ""เสียการควบคุม"" อยู่ <#29F161>การโจมตีสร้างความเสียหายเพิ่มขึ้น 30%</color>"
+KungfuCastBuffInfo_dlc破军刀法buff1,"During an Attack, it causes the ""Defense reduction"" effect on the enemy【<#F3DE99>Defense reduction: Defense decreases by 15%, lasts for two actions</color>】","ระหว่างโจมตี สร้างสถานะ ""ลดป้องกัน"" แก่ศัตรู 【<#F3DE99>ลดป้องกัน: ลดพลังป้องกันลง 15% คงอยู่ 2 รอบ</color>】 "
+KungfuCastBuffInfo_dlc碧落黄泉buff1,"During an Attack, <#29F161>Attack increases Damage by 10%, Pierce enemy's 10% Defense</color>.",ระหว่างโจมตี <#29F161>การโจมตีสร้างความเสียหายเพิ่มขึ้น 10% เพิกเฉยต่อพลังป้องกันของศัตรู 10%</color>
+KungfuCastBuffInfo_dlc斩天刀法buff1,"During an Attack, if the enemy has the ""Defense reduction"" effect, <#29F161>Critical increases by 100%</color>.","ระหว่างโจมตี หากศัตรูได้รับสถานะ ""ลดป้องกัน"" อยู่, ตนเองจะได้รับ <#29F161>อัตราคริติคอลขึ้น 100%</color>"
+KungfuCastBuffInfo_dlc斩天刀法buff2,"During an Attack, if the enemy triggers Parry, this Attack <#29F161>will definitely Combo</color>.",ระหว่างโจมตี หากศัตรูเกิดปัดป้อง การโจมตีนี้ <#29F161>จะโจมตีต่อเนื่องแน่นอน</color>
+KungfuCastBuffInfo_dlc紫薇惊龙掌buff1,"During an attack, there is a 50% chance to pierce the enemy's Armor attribute and effects during this attack.",ระหว่างโจมตี มีโอกาส 50% ที่การโจมตีนี้จะเจาะทะลุคุณสมบัติและประสิทธิภาพชุดเกราะของศัตรู
+KungfuCastBuffInfo_dlc紫薇惊龙掌buff2,"During an attack, <#29F161>increase damage by 30%, pierce 20% of the enemy's defense</color>.",ระหว่างโจมตี <#29F161>การโจมตีสร้างความเสียหายเพิ่มขึ้น 30% เพิกเฉยต่อพลังป้องกันของศัตรู 20%</color>
+KungfuCastBuffInfo_dlc广寒剑法buff1,"If your Sword is higher than the enemy's during an attack, you will gain a layer of ""Resilience"" effect after the attack【<#F3DE99>Resilience: up to three layers, each layer increases Defense by 20 points, lasts for one battle</color>】",เมื่อโจมตี หากค่ากระบี่ของตนสูงกว่าศัตรู หลังโจมตี จะได้รับสถานะ 'ความมุ่งมั่น' 1 ชั้น【<#F3DE99>ความมุ่งมั่น: สูงสุด 3 ชั้น แต่ละชั้นจะเพิ่มพลังป้องกัน 20 หน่วย และมีผลจนจบการต่อสู้</color>】
+KungfuCastBuffInfo_dlc破空拳buff1,"If your Fist is higher than the enemy's during an attack, you will gain a layer of ""Resilience"" effect after the attack【<#F3DE99>Resilience: up to three layers, each layer increases Defense by 20 points, lasts for one battle</color>】",เมื่อโจมตี หากค่าหมัดของตนสูงกว่าศัตรู หลังโจมตี จะได้รับสถานะ 'ความมุ่งมั่น' 1 ชั้น【<#F3DE99>ความมุ่งมั่น: สูงสุด 3 ชั้น แต่ละชั้นจะเพิ่มพลังป้องกัน 20 หน่วย และมีผลจนจบการต่อสู้</color>】
+KungfuCastBuffInfo_dlc无锋剑法buff1,"If you have the ""Resilience"" effect, during an attack, <#29F161>increase damage by 30%</color>.",ระหว่างโจมตี หากตัวเองได้รับสถานะ 'ความมุ่งมั่น' อยู่ <#29F161>ความเสียหายเพิ่มขึ้น 30%</color>
+KungfuCastBuffInfo_dlc无锋剑法buff2,"During an attack, <#29F161>increase damage by 20%, pierce 10% of the enemy's defense</color>.",ระหว่างโจมตี <#29F161>การโจมตีสร้างความเสียหายเพิ่มขึ้น 20% เพิกเฉยต่อพลังป้องกันของศัตรู 10%</color>
+KungfuCastBuffInfo_dlc烈阳拳buff1,"If you have the ""Resilience"" effect, during an attack, <#29F161>increase damage by 30%</color>.",ระหว่างโจมตี หากมีสถานะ 'ความมุ่งมั่น' อยู่ การโจมตีจะ<#29F161>เพิ่มความเสียหายขึ้น 30%</color>
+KungfuCastBuffInfo_dlc烈阳拳buff2,"Learn the <#d09a09>Holy Fire Divine Skill</color> internal skill, this attack pierces the enemy's Armor and effects.",เรียนรู้วิชากำลังภายใน <#d09a09>พลังเพลิงศักดิ์สิทธิ์</color> การโจมตีสามารถเจาะทะลุคุณสมบัติและประสิทธิภาพชุดเกราะของศัตรูได้
+KungfuCastBuffInfo_dlc万民掌buff1,"During an attack, your <#29F161>attack temporarily increases by 200 points</color>.",ระหว่างโจมตี <#29F161>พลังโจมตีเพิ่มขึ้นชั่วคราว 200 หน่วย</color>
+KungfuCastBuffInfo_dlc无名剑法buff1,Pierce the enemy's Defense during an attack.,ระหว่างโจมตี เพิกเฉยต่อพลังป้องกันของศัตรู
+KungfuCastBuffInfo_dlc蛮荒霸道斩buff1,"During an attack, inflict <#29F161>500 points of true damage</color> on the enemy.",เมื่อโจมตี ทำให้ศัตรูได้รับ<#29F161>ความเสียหายจริง 500 แต้ม</color>
+KungfuCastBuffInfo_dlc百鸟朝凰枪buff1,50% of the damage dealt to the enemy during an attack is converted into your own HP.,ระหว่างโจมตี ความเสียหายที่สร้างแก่ศัตรู 50% จะถูกแปลงมาเป็น HP ของตัวเอง
+KungfuCastBuffInfo_dlc分光流星刺buff1,"When back attacking the enemy, <#29F161>increase attack by 500 points, critical by 100%</color>.",เมื่อโจมตีศัตรูจากด้านหลัง <#29F161>พลังโจมตีเพิ่มขึ้น 500 แต้ม คริติคอลเพิ่มขึ้น 100%</color>.
+KungfuCastBuffInfo_dlc笑红尘buff1,"During an attack, reduce the enemy's <#29F161>energy gathering value by 800 points</color>.",ระหว่างโจมตี <#29F161>ลดค่าปราณเคลื่อนที่ของศัตรูลง 800 แต้ม</color>
