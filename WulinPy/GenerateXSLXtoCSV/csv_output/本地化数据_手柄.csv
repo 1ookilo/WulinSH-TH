@@ -1,0 +1,207 @@
+key,original,translation,context
+ControlTip_Or,Or,,或
+ControlTip_Setup,Settings,,设置
+ControlTip_Back,Return,,返回
+ControlTip_Next,Next Step,,下一步
+ControlTip_Close,Close,,关闭
+ControlTip_Confirm,Confirm,,确定
+ControlTip_Confirm1,Confirm,,确认
+ControlTip_EnableOrDisable,Enable/Disable,,启用/禁用
+ControlTip_Stop,Stop,,停止
+ControlTip_Cancel,Cancel,,取消
+ControlTip_ModSubDel,Subscribe/Unsubscribe,,订阅/取消
+ControlTip_ModDel,Unsubscribe,,取消订阅
+ControlTip_Refresh,Refresh,,刷新
+ControlTip_LongDesc,Info Details,,查看详情
+ControlTip_PageUp,Previous Page,,上一页
+ControlTip_PageDown,Next Page,,下一页
+ControlTip_MoveVertical,Move Up/Down,,上移/下移
+ControlTip_ModGood,Like,,赞
+ControlTip_ModBad,Dislike,,踩
+ControlTip_RestoreDefault,Default Recovery,,恢复默认
+ControlTip_Select,Select,,选择
+ControlTip_Apply,Save,,保存
+ControlTip_ConfirmOrCancel,Confirm/Cancel,,确认/取消
+ControlTip_SwitchGroup,Switch Category,,切换类目
+ControlTip_BondsPlace,Place Wedding Stone,,放置三生石
+ControlTip_ViewHelp,Info Help,,查看帮助
+ControlTip_Done,Hand in,,交付
+ControlTip_ReceiveTask,Accept,,接取
+ControlTip_ForgoTask,Abandon,,放弃
+ControlTip_BountySwitch,Switch Area,,切换区域
+ControlTip_BountyMoveItem,Move Item,,移动物品
+ControlTip_ToolSwitch,Select Tool,,选择工具
+ControlTip_StartOrPause,Start/Pause,,开始/暂停
+ControlTip_Auto,Auto,,自动
+ControlTip_NeverAsk,Don't Show Again,,不再提示
+ControlTip_MainSubPageSwitch,Expand/Collapse,,展开/收起
+ControlTip_Scroll,Scroll Display,,滚动显示
+ControlTip_StoryCheck,Track,,追踪
+ControlTip_ApplyTrade,Deal,,成交
+ControlTip_ZoneSwitch,Switch Area,,切换区域
+ControlTip_MoveItem,Move Item,,移动物品
+ControlTip_FastMoveItem,Quick Move Item,,快速移动物品
+ControlTip_SwitchRole,Switch Character,,切换角色
+ControlTip_ResetPoint,Reset Potential,,重置资质
+ControlTip_EditPoint,Allocate Potential,,分配资质
+ControlTip_ChangeView,Switch Display,,切换显示
+ControlTip_Filter,Filter,,过滤
+ControlTip_QuikeSet,Quick settings,,快捷设置
+ControlTip_Forget,Forget,,遗忘
+ControlTip_Comprehend,Comprehend,,领悟
+ControlTip_ScrollView,Scroll Display,,滚动显示
+ControlTip_SwitchRoot,Switch Branch,,切换分支
+ControlTip_Rebuild,Relearn,,重修
+ControlTip_RoamingMode,Free Mode,,自由模式
+ControlTip_RoamingModeBtn1,Stealth Mode,,潜行模式
+ControlTip_RoamingModeBtn2,Call Pet,,呼叫宠物
+ControlTip_RoamingModeBtn3,"Move
+Show Log (Press Down)
+Light Push Turn",,"移动
+显示日志（按下）
+轻推转身"
+ControlTip_RoamingModeBtn4,Switch Selected Item,,切换选中物品
+ControlTip_RoamingModeBtn5,Switch Selected Item,,切换选中物品
+ControlTip_RoamingModeBtn6,Journal,,记事
+ControlTip_RoamingModeBtn7,Open Home,,开启家园
+ControlTip_RoamingModeBtn8,Settings,,设置
+ControlTip_RoamingModeBtn9,Battle Mode,,战斗模式
+ControlTip_RoamingModeBtn10,Map,,地图
+ControlTip_RoamingModeBtn11,Meditate (Long Press),,打坐（长按）
+ControlTip_RoamingModeBtn12,Cancel,,取消
+ControlTip_RoamingModeBtn13,Interact/Pick Up,,交互/拾取
+ControlTip_RoamingModeBtn14,"Quick Save (X + D-pad Down)
+Quick Load (X + D-pad Up)",,"快速存档（X+十字键下）
+快速读档（X+十字键上）"
+ControlTip_RoamingModeBtn15,Open/Close Key Prompt (Press Down),,开启/关闭按键提示（按下）
+ControlTip_RoamingModeBtn16,Character Menu,,角色菜单
+ControlTip_BattleMode,Battle Mode,,战斗模式
+ControlTip_BattleModeBtn1,Retreat,,撤退
+ControlTip_BattleModeBtn2,Auto Mode,,自动模式
+ControlTip_BattleModeBtn3,Control Cursor,,控制光标
+ControlTip_BattleModeBtn4,Ultimate Move,,绝招
+ControlTip_BattleModeBtn5,Item,,物品
+ControlTip_BattleModeBtn6,Power Body,,功体
+ControlTip_BattleModeBtn7,Throwing,,暗器
+ControlTip_BattleModeBtn8,Settings,,设置
+ControlTip_BattleModeBtn9,Rest,,休息
+ControlTip_BattleModeBtn10,Switch Battle Speed,,切换战斗速度
+ControlTip_BattleModeBtn11,Show Battle Area (Long Press),,显示战斗区域（长按）
+ControlTip_BattleModeBtn12,Return/Re-move,,返回/重新移动
+ControlTip_BattleModeBtn13,Confirm/Normal Attack/Info (Long Press),,确认/普攻/查看（长按）
+ControlTip_BattleModeBtn14,-,,-
+ControlTip_BattleModeBtn15,Open/Close Key Prompt (Press Down),,开启/关闭按键提示（按下）
+ControlTip_BattleModeBtn16,-,,-
+ControlTip_Buy,Buy,,购买
+ControlTip_BuyType,Buy All Single,,单个全买
+ControlTip_BuyAll,One-click Buy,,一键购买
+ControlTip_Sell,Sell,,出售
+ControlTip_SellType,Sell All Single,,单个全卖
+ControlTip_SellAll,One-click Sell,,一键出售
+ControlTip_CloseMult,Close Batch,,关闭批量
+ControlTip_changeAccount,Adjust Quantity,,调整数量
+ControlTip_Max,Max,,最大
+ControlTip_Min,Minimum,,最小
+ControlTip_Wager0,{0} Money,,{0}钱
+ControlTip_Wager1,{0} Money,,{0}钱
+ControlTip_Wager2,{0} Money,,{0}钱
+ControlTip_Esc,Run away,,离开
+ControlTip_Skip,Skip,,跳过
+ControlTip_Cheat,Bet Thousands,,出千
+ControlTip_BattleAuto,Auto,,自动
+ControlTip_BattleSpeedUp,Double Speed,,二倍速
+ControlTip_BattleMove,Move/Normal Attack,,移动/普攻
+ControlTip_BattleCheckActor,Info Target,,查看目标
+ControlTip_BattleField,Battle Range,,战斗范围
+ControlTip_BattleAction,Execute Action,,执行动作
+ControlTip_BattleEscape,Retreat,,撤退
+ControlTip_BattleRest,Rest,,休息
+ControlTip_BattleTips,Key Prompt,,按键提示
+ControlTip_SelectOrCancel,Select/Cancel,,选择/取消
+ControlTip_OnePointBuild,One-click Setting,,一键设置
+ControlTip_SaveSetting,Save Setting,,保存设置
+ControlTip_ReMove,Re-move,,重新移动
+ControlTip_Stealth,Stealth,,潜行
+ControlTip_Battle,Battle,,战斗
+ControlTip_Map,Open Map,,打开地图
+ControlTip_Pet,Call Pet,,呼叫宠物
+ControlTip_Meditation,Meditate,,打坐
+ControlTip_Settings,Settings,,设置
+ControlTip_Characters,Character,,角色
+ControlTip_Log,Log,,日志
+ControlTip_ControlTip,Key Prompt,,按键提示
+ControlTip_Journal,Journal,,记事
+ControlTip_ExitStealth,Exit Stealth,,退出潜行
+ControlTip_ApplyAction,Execute Interaction,,执行交互
+ControlTip_PoisonSetup,Poison Setting,,毒药设置
+ControlTip_MoveConfirm,Move,,移动
+ControlTip_SwitchToggle,Switch Tab,,切换页签
+ControlTip_ScrollLog,Scroll Log,,滚动日志
+ControlTip_GiftingNpc,Gift,,赠送
+ControlTip_ItemTip,Item Description,,物品说明
+ControlTip_MapScale,Zoom,,缩放
+ControlTip_MapGo,Set Off,,启程
+ControlTip_MapBack,Return to Start,,返回起点
+ControlTip_SwitchTipShow,Close/Open Key Prompt,,关闭/开启按键提示
+ControlTip_Enter,Go,,前往
+ControlTip_InputPetName,Pet Naming,,宠物命名
+ControlTip_InputSaveName,Save Naming,,存档命名
+ControlTip_DeleteSave,Delete Save,,删除存档
+ControlTip_Select,Select,,选择
+ControlTip_BattleStart,Start Battle,,开战
+ControlTip_BattleReadyShowActor,Show avatar,,显示头像
+ControlTip_BattleReadyHiddenActor,Hide avatar,,隐藏头像
+ControlTip_BattleReadyDragActor,Drag Character,,拖拽角色
+ControlTip_BattleReadySelectOrCancel,Join Battle/Cancel,,参战/取消
+ControlTip_BattleBegin,Enter the battle,,进入战斗
+ControlTip_PetsFeed,Feed,,喂食
+ControlTip_PetsHeal,Heal,,治疗
+ControlTip_WeaponProduce,Craft,,打造
+ControlTip_WeaponType,Type,,类型
+ControlTip_WeaponCanProduce,Can Craft,,可打造
+ControlTip_WeaponInformation,Info Special Skill,,查看特技
+ControlTip_WeaponFactor,Info Data,,查看资料
+ControlTip_TailorProduce,Tailoring,,裁制
+ControlTip_TailorCanProduce,Can be tailored,,可裁制
+ControlTip_AlchemistProduce,Refining,,炼制
+ControlTip_AlchemistCanProduce,Can be refined,,可炼制
+ControlTip_SundriesProduce,Making,,制作
+ControlTip_SundriesCanProduce,Can be made,,可制作
+ControlTip_CookProduce,Cooking,,烹饪
+ControlTip_CookCanProduce,Can be cooked,,可烹饪
+ControlTip_Authenticate,Appraise,,鉴定
+ControlTip_PoisionSelect,Select Focus Poison,,选中焦点毒药
+ControlTip_PoisionAutoSelect,Automatically select when exhausted,,耗尽后自动选择
+ControlTip_PoisionSetting,Open Poison Setting,,打开毒药设置
+ControlTip_AuctionGoodsConfirm,Item Auction,,物品参拍
+ControlTip_AuctionExit,Exit,,退出
+ControlTip_AuctionType,Type,,类型
+ControlTip_AuctionEnter,Join Auction,,参加拍卖
+ControlTip_AuctionGoodsCancel,Retrieve Auction,,取回参拍
+ControlTip_AuctionGoodsCheck,Info Auction Item,,查看拍品
+ControlTip_AuctionPreview,Auction Preview,,拍卖预览
+ControlTip_SwitchFiefShared,Switch Home Progress Sharing,,切换家园进度共享
+ControlTip_TeleportToFief,Go to Home,,前往家园
+ControlTip_Rename,Rename,,重命名
+ControlTip_FiefCheckCost,Info Upgrade,,查看升级
+ControlTip_FiefSetting,Edit Teammate,,编辑队友
+ControlTip_FiefEnter,Go,,前往
+ControlTip_FiefUnlock,Unlock,,解锁
+ControlTip_FiefLvUp,Upgrade,,升级
+ControlTip_FiefMainClose,Close,,关闭
+ControlTip_FiefMainLeave,Run away home base,,离开家园
+ControlTip_FeifJoyTipSwitch,Open/Close Key Prompt,,开启/关闭按键提示
+ControlTip_FeifMoveNpc,Move Partner,,移动伙伴
+ControlTip_FeifKungfuIn,Engrave Martial Arts,,刻印武功
+ControlTip_FeifKungfuOut,Expand Martial Arts,,拓印武功
+ControlTip_FeifKungfuLeftTip,Preview Expand Martial Arts,,预览拓印武功
+ControlTip_FeifKungfuRightTip,Preview Engrave Martial Arts,,预览刻印武功
+ControlTip_FeifEquipIn,Place Item,,放置物品
+ControlTip_FeifEquipOut,Take Item,,拿取物品
+ControlTip_FeifEquipLeftTip,Preview Display Item,,预览展示物品
+ControlTip_FeifEquipRightTip,Preview Backpack Item,,预览背包物品
+ControlTip_LivingExpUpgrade,Promote Level,,提升等级
+ControlTip_FiefTitleEdit,Homeland Naming,,家园命名
+ControlTip_MakeOffer,Make an Offer,,出价模式
+ControlTip_SwitchProtrait,Switch Avatar,,切换形象
+,,,
