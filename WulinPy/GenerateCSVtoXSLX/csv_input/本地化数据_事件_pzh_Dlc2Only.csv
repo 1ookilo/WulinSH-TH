@@ -1,0 +1,103 @@
+﻿﻿M2170-2_name,People of Hatred for Heaven,ผู้ชิงชังสวรรค์
+M2170-2_overview1,"E Qigai, the Guardian of Nine Factions Sect, said he would wait at Bandit Chief Stronghold for a day. If you want to join Nine Factions Sect, go find him.",ผู้คุ้มกฎนิกายเก้าฝ่าย เอ้อร์ฉีไก้ กล่าวว่า เขาจะรออยู่ที่ค่ายหัวหน้าโจรหนึ่งวัน หากเจ้าอยากเข้านิกายเก้าฝ่ายให้ไปพบเขา
+R10003-6_talk,Little Seven,เสี่ยวฉี
+School-2150-2_name,Nine Factions Sect Examination,การสอบเข้านิกายเก้าฝ่าย
+School-2150-2_talk,Examination,การทดสอบ
+School-2150-2_overview1,Go to the Training field of Nine Factions Sect to find E Qigai.,เดินทางไปยังลานฝึกของนิกายเก้าฝ่ายตามหา เอ้อร์ฉีไก้
+School-2150-2_overview2,"Defeat the Training Disciple of Nine Factions Sect ten times, then ask E Qigai about the examination.",เอาชนะศิษย์ฝึกวิชานิกายเก้าฝ่าย ด้วยกำลังสิบส่วน แล้วค่อยไปขอคำแนะนำจาก เอ้อร์ฉีไก้
+School-2150-2_overview3,Report to Tie Mianren that Horse King Cave has been wiped out.,รายงานต่อบุรุษหน้ากากเหล็กว่า ถ้ำราชาม้าถูกทำลายแล้ว
+School-2150-2_overview4,"Go to exterminate Horse King Cave!\nHorse King Cave is in the northern mountains of Wuyue Region, you can go there to find it.","ไปกวาดล้างถ้ำราชาม้า!\nถ้ำราชาม้าตั้งอยู่ในเขาตอนเหนือของเขตอู๋เยว่ เจ้าจงไปค้นหาที่นั่น"
+Day-2150-1_talk,Spar,ประลองฝีมือ
+M1100-10_0_overview1,Go to Lost Forest to find Bandit Chief Stronghold Mountain Bandit.,เดินทางไปป่าสาบสูญ เพื่อตามหากองโจรค่ายหัวหน้าโจร
+M1100-10_0_overview2,Go to exterminate Bandit Chief Stronghold!,ไปกวาดล้างค่ายหัวหน้าโจร!
+M1100-10_0_name1,Young Man's Voice,เสียงของชายหนุ่ม
+M1100-10_0_name2,Old Man's Voice,เสียงของเฒ่าชรา
+M1100-10_0_name3,Child's Voice,เสียงของเด็กน้อย
+M1100-10_0_name4,Arrogant Voice,เสียงที่เย่อหยิ่ง
+Day-2150-2_name,Poisonous Insects and Herbs,แมลงและสมุนไพรพิษ
+Day-2150-2_talk,Task,ภารกิจ
+Day-2150-2_overview0,Du Yapo needs help with the task of collecting Toxics.,ตู๋หยาผอ ต้องการให้ช่วยงานเก็บรวบรวมวัตถุดิบพิษ
+Day-2150-2_overview1,Help Du Yapo collect 10 Millipedes.,ช่วยตู๋หยาผอรวบรวมกิ้งกือ 10 ตัว
+Day-2150-2_overview2,Help Du Yapo collect 10 Safflowers.,ช่วยตู๋หยาผอรวบรวมดอกคำฝอย 10 ช่อ
+Day-2150-2_overview3,Help Du Yapo collect 5 Scorpions.,ช่วยตู๋หยาผอรวบรวมแมงป่อง 5 ตัว
+Day-2150-2_overview4,Help Du Yapo collect 5 Black grass.,ช่วยตู๋หยาผอรวบรวมเฉาอู 5 หัว
+Day-2150-2_overview5,Help Du Yapo collect 3 Tian lou.,ช่วยตู๋หยาผอรวบรวมแมลงกระชอน 3 ตัว
+Day-2150-2_overview6,Help Du Yapo collect 3 portions of Man Tuoluo.,ช่วยตู๋หยาผอรวบรวมดอกลำโพงม่วง 3 ดอก
+Day-2150-2_overview7,Help Du Yapo collect 1 Blue waist.,ช่วยตู๋หยาผอรวบรวมแมลงก้นกระดก 1 ตัว
+Day-2150-2_overview8,Help Du Yapo collect 1 portion of Arisaema.,ช่วยตู๋หยาผอรวบรวมโหราน้ำเต้า 1 หัว
+Day-2150-2_overview9,You have already helped Du Yapo collect Toxic today.,วันนี้เจ้าได้ช่วยตู๋หยาผอรวบรวมวัตถุดิบมีพิษเรียบร้อยแล้ว
+Day-2150-2_overview10,You can help Du Yapo collect Toxic today.,วันนี้สามารถช่วยตู๋หยาผอรวบรวมวัตถุดิบมีพิษได้
+Skill-2150-1_name,The Art of Poison Control,ศาสตร์การควบคุมพิษ
+Skill-2150-1_talk,Skill,ทักษะ
+Skill-2150-1_overview1,"After concocting an Anesthetic drug, request the method of Poison from Du Yapo.",หลังจากปรุง 'ยาสลบ' ได้แล้ว ไปขอตำรับยาพิษเพิ่มจากตู๋หยาผอได้
+Skill-2150-1_overview2,"After concocting a Tendon breaking pill, request a more potent Poison formula from Du Yapo.",หลังจากปรุง 'พิษสลายเส้นเอ็น' ได้แล้ว ไปขอตำรับยาพิษที่รุนแรงกว่านี้จากตู๋หยาผอได้
+Skill-2150-1_overview3,Give the Anesthetic drug <color=#c44b0e>Poison</color> to Machinery Man.,นำ 'ยาสลบ' ไป <color=#c44b0e>วางยาพิษ</color> หุ่นกลไล
+Skill-2150-1_overview4,"After concocting a Tendon breaking pill, request a more potent Poison formula from Du Yapo.",หลังจากปรุง 'พิษสลายเส้นเอ็น' ได้แล้ว ไปขอตำรับยาพิษที่รุนแรงกว่านี้จากตู๋หยาผอได้
+Skill-2150-1_overview5,"After concocting a Tendon breaking pill, request a more potent Poison formula from Du Yapo.",หลังจากปรุง 'พิษสลายเส้นเอ็น' ได้แล้ว ไปขอตำรับยาพิษที่รุนแรงกว่านี้จากตู๋หยาผอได้
+Skill-2150-1_overview6,"After concocting an Intestine destroying pill, request a more potent Poison formula from Du Yapo.",หลังจากปรุง 'พิษไส้ขาด' ได้แล้ว ไปขอตำรับยาพิษที่รุนแรงกว่านี้จากตู๋หยาผอได้
+Day-2150-3_talk,Spar,ประลองฝีมือ
+School-2150-3_NPCname1,Old voice,เสียงชรา
+School-2150-3_name,Rumors Stirring the Three Sects,เสียงเล่าลือที่กระตุ้นทั้งสามสำนัก
+School-2150-3_overview1,Go to Chuxiang City and spread rumors about the three sects.,ไปยังเมืองฉู่เซียงและแพร่ข่าวลือเกี่ยวกับทั้งสามสำนัก
+School-2150-3_overview2,Prepare to meet with Sun Daoren and head to Chuxiang City. He is waiting for you at the entrance of the Nine Factions Sect.,เตรียมตัวพบกับ ซุนเต้าเหริน และมุ่งหน้าไปยังเมืองฉู่เซียง เขากำลังรอเจ้าอยู่ที่ประตูนิกายเก้าฝ่าย
+School-2150-3_overview3,"Once prepared, head to Dirty Street.",เมื่อเตรียมการเสร็จสิ้น จงมุ่งหน้าสู่ตรอกเล้าหมู
+School-2150-3_overview4,"Go to the Market, Sorrowless Tavern, Prosperous Inn during the day to see the effects of the rumors.","ไปยังตลาด, หอสุราลืมทุกข์, และโรงเตี๊ยมรุ่งโรจน์ในยามกลางวัน เพื่อดูผลของข่าวลือ"
+School-2150-3_overview5,Go to the statue of the great hero to gather information.,ไปที่รูปปั้นของจอมยุทธ์ผู้ยิ่งใหญ่เพื่อรวบรวมข้อมูล
+R10030-3_name,Lin'an Gu Poison,พิษกู่หลินอัน
+R10030-3_talk,Lin'an,หลินอัน
+R10030-3_overview1,"Sprinkle powder at the four locations designated by Du Yapo.\n<color=#c44b0e>Small Pier next to the Blacksmith's forge</color>, <color=#c44b0e>River channels on both sides of Yunlin Temple</color>, and <color=#c44b0e>River channel next to Maiden House</color>.\n(Optional) Du Yapo seems to have something on his mind, should you inquire about it in the city?","โปรยยาผงไว้ที่ตำแหน่งทั้งสี่ ที่ตู๋หยาผอกำหนดไว้ \n<color=#c44b0e>ท่าเรือเล็กข้างโรงตีเหล็ก</color>, <color=#c44b0e>คลองทั้งสองข้างวัดป่าเมฆา</color>, และ <color=#c44b0e>คลองข้างหอหมู่บุปผา</color>\n(ไม่บังคับ) ตู๋หยาผอ เหมือนมีเรื่องในใจ คุณควรสอบถามเรื่องนี้ในเมืองหรือไม่?"
+R10030-3_overview2,"Between the hours of Hai and Chou, find Du Yapo next to the well in Lin'an City Market.",ในช่วงยามห้าย(Hai)ถึงยามโฉ่ว(Chou) ตามหา ตู๋หยาผอ ที่ข้างบ่อน้ำในตลาดเมืองหลินอัน
+R10030-3_overview3,"Sprinkle powder at the four locations designated by Du Yapo.\n<color=#c44b0e>Small Pier next to the Blacksmith's forge</color>, <color=#c44b0e>River channels on both sides of Yunlin Temple</color>, and <color=#c44b0e>River channel next to Maiden House</color>.","โปรยยาผงไว้ที่ตำแหน่งทั้งสี่ ที่ตู๋หยาผอกำหนดไว้ \n<color=#c44b0e>ท่าเรือเล็กข้างโรงตีเหล็ก</color>, <color=#c44b0e>คลองทั้งสองข้างวัดป่าเมฆา</color>, และ <color=#c44b0e>คลองข้างหอหมู่บุปผา</color>"
+R10030-3_overview4,"Between the hours of Hai and Chou, find Du Yapo next to the well in Lin'an City Market.",ในช่วงยามห้าย(Hai)ถึงยามโฉ่ว(Chou) ตามหา ตู๋หยาผอ ที่ข้างบ่อน้ำในตลาดเมืองหลินอัน
+R10030-3_overview5,"Between the hours of Hai and Chou, find Du Yapo next to the well in Lin'an City Market.\n(Optional) Du Yapo seems to have something on his mind, should you inquire about it in the city?","ในช่วงยามห้าย(Hai)ถึงยามโฉ่ว(Chou) ตามหา ตู๋หยาผอ ที่ข้างบ่อน้ำในตลาดเมืองหลินอัน\n(ไม่บังคับ) ตู๋หยาผอ ดูเหมือนมีเรื่องในใจ เจ้าควรสอบถามเรื่องนี้ในเมืองหรือไม่?"
+R10030-3_0_talk,Inquire,สอบถาม
+R10029-2_name,Rich but not benevolent,มั่งคั่งแต่ไร้เมตตาธรรม
+R10029-2_talk,Daliang,ต้าเหลียง
+R10029-2_overview1,Prepare to go to Daliang City with E Qigai.,เตรียมตัวไปเมืองต้าเหลียงพร้อมกับเอ้อร์ฉีไก้
+R10029-2_overview2,Go to the Government Office to find the Prefect for some business.,ไปยังศาลาว่าการเมือง พบปะขุนนางใหญ่ เพื่อทำธุระบางอย่าง
+R10029-2_overview3,Go to the Tower of Prosperity.,ไปยังหอเจิดจรัส
+R10029-2_overview4,Return to the house next to the Tower of Prosperity.,จงกลับไปยังเรือนข้างหอเจิดจรัส
+R10029-2_NPCname1,The Voice of Righteousness,เสียงแห่งความชอบธรรม
+School-2150-4_name,The Faceless One,ผู้ไร้โฉม
+School-2150-4_overview0,Upgrade your level to 45 to face the upcoming challenges.,เพิ่มระดับของคุณเป็น level 45 เพื่อเผชิญกับความท้าทายที่กำลังจะมาถึง
+School-2150-4_overview1,Return to the Senluo Hall of the Nine Factions Sect.,กลับไปยังหอเซิ่นหลั่วของนิกายเก้าฝ่าย
+School-2150-4_overview2,"Go to Zhongzhou Region, help Yan Yun Iron Army banish the troublesome disciples of the three religions. There are still {TagNum:九流门除三教} places left.",จงไปยังเขตจงโจว ช่วยกองทัพเหล็กเยี่ยนหยุนขับไล่ศิษย์ก่อกวนของทั้งสามสำนักใหญ่ ยังเหลืออีก {TagNum:九流门除三教} แห่ง
+School-2150-4_overview3,Go to the Palace Camp to report.,ไปยังค่ายทัพหลวงเพื่อรายงาน
+School-2150-4_overview4,Go to the Senluo Hall.,ไปยังหอเซิ่นหลั่วของนิกายเก้าฝ่าย
+School-2150-4_NPCname1,Everyone,ทุกท่าน
+R40685-2_name,The Tragedy of the Herbology Sect,โศกนาฏกรรมของสำนักพฤกษา
+R40685-2_talk,Herbology,พฤกษศาสตร์
+R40685-2_NPCname1,A woman's voice,เสียงสตรี
+School-2150-5_name,Secretly Transporting Supplies,ลักลอบขนส่งเสบียงอย่างลับๆ
+School-2150-5_overview1,"The Yan army has moved south, and it will be <color=#c44b0e>four</color> days before they reach Xiangfan Region.",กองทัพเยี่ยนได้เคลื่อนพลลงใต้ และจะใช้เวลา <color=#c44b0e>4</color> วันกว่าจะถึงเขตเซียงฝาน
+School-2150-5_overview2,"The Yan army has moved south, and it will be <color=#c44b0e>three</color> days before they reach Xiangfan Region.",กองทัพเยี่ยนได้เคลื่อนพลลงใต้ และจะใช้เวลา <color=#c44b0e>3</color> วันกว่าจะถึงเขตเซียงฝาน
+School-2150-5_overview3,"The Yan army has moved south, and it will be <color=#c44b0e>two</color> days before they reach Xiangfan Region.",กองทัพเยี่ยนได้เคลื่อนพลลงใต้ และจะใช้เวลา <color=#c44b0e>2</color> วันกว่าจะถึงเขตเซียงฝาน
+School-2150-5_overview4,"The Yan army has moved south, and it will be <color=#c44b0e>one</color> day before they reach Xiangfan Region.",กองทัพเยี่ยนได้เคลื่อนพลลงใต้ และจะใช้เวลา <color=#c44b0e>1</color> วันกว่าจะถึงเขตเซียงฝาน
+School-2150-5_overview5,The Yan Army is already close to the Xiangfan Region.,กองทัพเยี่ยนใกล้จะถึงเขตเซียงฝานแล้ว
+School-2150-5_overview6,Return to Nine Factions Sect·Senluo Hall as soon as possible.,จงรีบกลับไปยัง นิกายเก้าฝ่าย·หอเสิ่นลั่ว โดยเร็วที่สุด
+School-2150-5_overview7,"Go to Chuxiang City to intercept the martial arts people who come to Combat Support. (Chuxiang City is besieged by the Yan army, you can go to Xiangfan Region from the Ferry)",จงรีบไปยังเมืองฉู่เซียง เพื่อขัดขวางเหล่ายอดฝีมือที่มาร่วมรบ (เมืองฉู่เซียงถูกล้อมโดยกองทัพเยี่ยน ท่านสามารถไปยังเขตเซียงฝานได้จากท่าเรือ)
+School-2150-5_NPCname1,Faint voice,เสียงแผ่วเบา
+JLM-2_name,Futu,พุทธะ
+JLM-2_overview1,Return to Nine Factions Sect·Senluo Hall.,กลับไปยัง นิกายเก้าฝ่าย·หอเสิ่นลั่ว
+JLM-2_NPCname1,A voice full of confidence,เสียงที่เปี่ยมไปด้วยความมั่นใจ
+JLM-2_NPCname2,Old Man's voice,เสียงของเฒ่าชรา
+JLM-2_overview2,Go to Buddha Temple.,ไปยังอารามพุทธะ
+JLM-2_overview3,Prepare for battle at Buddha Temple!,เตรียมพร้อมสำหรับศึกที่อารามพุทธะ
+JLM-2_overview4,"After finishing the task at Buddha Temple, return to Nine Factions Sect·Senluo Hall to report to Qin Huizhi.",หลังจากเสร็จสิ้นภารกิจที่อารามพุทธะ จงกลับไปที่ หอเสิ่นลั่ว·นิกายเก้าฝ่าย เพื่อรายงานให้ฉินฮุ่ยจือทราบ
+JLM-2_overview5,"If you messed up at Buddha Temple, return to Nine Factions Sect·Senluo Hall to apologize to Qin Huizhi.",หากคุณทำผิดพลาดที่อารามพุทธะ จงกลับไปที่ หอเสิ่นลั่ว·นิกายเก้าฝ่าย เพื่อขออภัยจากฉินฮุ่ยจือ
+JLM-3_name,Rescue from Ice Prison,ช่วยเหลือจากคุกน้ำแข็ง
+JLM-3_overview1,"Go to Lin'an CityYunlin Temple, enter the Ice Prison to rescue the master who is imprisoned there.",ไปที่ วัดป่าเมฆา ในเมืองหลินอัน เข้าคุกน้ำแข็งเพื่อช่วยเหลืออาจารย์ที่ถูกคุมขังอยู่ที่นั่น
+JLM-3_overview2,Rescue the master from the Ice Prison under Yunlin Temple.,ช่วยเหลืออาจารย์จากคุกน้ำแข็งใต้วัดป่าเมฆา
+JLM-3_overview3,Run away from Ice Prison.,หลบหนีออกจากคุกน้ำแข็ง
+JLM-4_name,Dark clouds over the city,เมฆดำปกคลุมเมือง
+JLM-4_overview1,Go to the city gate of Lin'an City to assist in defending the city.,ไปที่ประตูเมืองของเมืองหลินอันเพื่อช่วยป้องกันเมือง
+JLM-5_name,Coronation ceremony,พิธีราชาภิเษก
+JLM-5_overview,Go to Wuyue RegionDuke Kang's palace.,ไปยังวังหลวงของอ๋องคังในเขตอู๋เยว่
+JLM-6_name,Assassinate the king,ลอบสังหารฮ่องเต้
+JLM-6_overview1,Go to the palace in Zhongzhou to assassinate Longxing Emperor!,ไปยังราชวังหลวงในเขตจงโจวเพื่อลอบสังหารฮ่องเต้หลงซิง!
+JLM-6_overview2,Return to Nine Factions Sect·Senluo Hall.,กลับไปยัง นิกายเก้าฝ่าย·หอเสิ่นลั่ว
+JLM-6_overview3,"Subdue the six major factions: <color=#c44b0e>Taoist Sect, Shifa Temple, Confucius Temple, Jiujiang Fortress, Langya Sword Pavilion, Crime Investigation Bureau</color>!","ปราบปรามหกสำนักใหญ่:<color=#c44b0e>สำนักเต๋า, อารามซื่อฟา, วัดขงจื๊อ,ค่ายน้ำจิ่วเจียง, ศาลากระบี่หลางหยา, สำนักเทพมือปราบ</color>!"
+JLM-6_overview4,Return to Nine Factions Sect·Senluo Hall.,กลับไปยัง นิกายเก้าฝ่าย·หอเสิ่นลั่ว
+JLM-6_overview5,Go to Jian Yan Emperor's palace.,ไปยังราชวังหลวงของฮ่องเต้เจี้ยนเหยียน
+JLM-7_name,Supreme Overlord,เจ้ายุทธภพแห่งใต้หล้า
+JLM-7_overview1,Go to the Ritual Platform in Zhongzhou Region.,มุ่งหน้าไปยังปะรำพิธี ในเขตจงโจว
