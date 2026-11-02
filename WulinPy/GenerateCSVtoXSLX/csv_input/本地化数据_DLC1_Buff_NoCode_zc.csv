@@ -1,0 +1,428 @@
+﻿﻿BuffName_DLC一击必杀,Instant death,ดาบเดียวปลิดชีพ
+BuffName_DLC反弹伤害,Damage Reflect,สะท้อนความเสียหาย
+BuffName_DLC乘胜追击,Continuous assault,จู่โจมต่อเนื่อง
+BuffName_DLC独具慧眼,Insightful Eye,มองทะลุปรุโปร่ง
+BuffName_DLC身如鬼魅,Rapid response,ร่างดุจมารร้าย
+BuffName_DLC借势而行,Follower's Path,ใช้ประโยชน์จากสถานการณ์
+BuffName_DLC印记增幅,Mark Increase Roll,เสริมพลังรอยประทับ
+BuffName_DLC印记反制,Mark Counter,โต้ตอบรอยประทับ
+BuffName_DLC免疫屏障,Immune Barrier,เกราะต้านทาน
+BuffName_DLC绝处逢生,Survival in Despair,รอดจากหายนะ
+BuffName_DLC御兽之能,Beast Taming Ability,พลังควบคุมสัตว์
+BuffName_DLC御兽之术,Beast Taming Technique,วิชาฝึกสัตว์
+BuffName_DLC免疫背击,Immune to Back attack,ต้านทานโจมตีด้านหลัง
+BuffName_DLC免疫侧击,Immune to Side attack,ต้านทานโจมตีด้านข้าง
+BuffName_DLC免疫控制,Immune to Control,ต้านทานการควบคุม
+BuffName_DLC铜墙铁壁,Wall of steel,กำแพงเหล็กกล้า
+BuffName_DLC御剑增伤,Sword Increases Damage,เพิ่มความเสียหายกระบี่
+BuffName_DLC神失梦迷,Lost in Dreams,ตกอยู่ในภวังค์
+BuffName_DLC融金藏锋,Melting Gold and Hiding Blade,หลอมทองซ่อนคม
+BuffName_DLC致命伤害,Critical Damage,ความเสียหายคริติคอล
+BuffName_DLC斩敌追击,Enemy Chasing,ไล่ล่าศัตรู
+BuffName_DLC追风掣电,Windwalker,ล่องเวหา
+BuffName_DLC坚守之心,Defender's Heart,จิตใจมุ่งมั่น
+BuffName_DLC逆境求生,Survival in Adversity,รอดเฉียดตาย
+BuffName_DLC致命暴击,Critical Critical,ถึงฆาตโจมตี
+BuffName_DLC百炼成钢,Spirit of Steel,จิตวิญญาณเหล็กกล้า
+BuffName_DLC协同守护,Cooperative Defense,ร่วมใจพิทักษ์
+BuffName_DLC协同守护_光环,Cooperative Defense,ร่วมใจพิทักษ์
+BuffName_DLC威震一方,Preeminent,โด่งดัง
+BuffName_DLC威震一方_光环,Preeminent,โด่งดัง
+BuffName_DLC武功扰乱,Martial Arts Disruption,ขัดวรยุทธ์
+BuffName_DLC武功扰乱_光环,Martial Arts Disruption,ขัดวรยุทธ์
+BuffName_DLC辣手无情,Ruthless Hand,หัตถ์ไร้ปรานี
+BuffName_DLC身轻如羽,Light as a Feather,เบาดุจขนนก
+BuffName_DLC清心寡欲,Clear Mind and Few Desires,ไร้ปรารถนา
+BuffName_DLC运筹帷幄,Tactical Strategist,วางกลยุทธ์
+BuffName_DLC伤敌恢复,Enemy Recovery,ฟื้นฟูจากศัตรู
+BuffName_DLC内力节流,MP Conservation,ควบคุมลมปราณ
+BuffName_DLC气场扰乱,Aura Disruption,ค่าปราณสับสน
+BuffName_DLC气场扰乱_光环,Aura Disruption,ค่าปราณสับสน
+BuffName_DLC箫音暴击,Flute Critical,เสียงขลุ่ยทรงพลัง
+BuffName_DLC枪棍守护,Polearm Defense,ตั้งรับหอกพลอง
+BuffName_DLC环环相扣,Interlocking,เกี่ยวพัน
+BuffName_DLC伤害强化,Damage Enhancement,เสริมความเสียหาย
+BuffName_DLC受击自愈,Self-healing when Hit,ฟื้นฟูเมื่อถูกโจมตี
+BuffName_DLC危急自救,Emergency Self-rescue,ช่วยตนฉุกเฉิน
+BuffName_DLC动物猎手,Animal Hunter,พรานสัตว์
+BuffName_DLC生命增强,HP Enhancement,เพิ่ม HP
+BuffName_DLC身似掠影,Shadow-like Body,ร่างดุจเงาไหว
+BuffName_DLC背击破招,Back Attack Break,โจมตีทลายด้านหลัง
+BuffName_DLC侧击破招,Side Attack Break,โจมตีทลายด้านข้าง
+BuffName_DLC内力增强,MP Enhancement,เสริม MP
+BuffName_DLC破云之力,Cloud-breaking Power,พลังทลายเมฆา
+BuffName_DLC剑意凛然,Sword Intent,แก่นแท้แห่งกระบี่
+BuffName_DLC疏而不漏,Precision,แม่นยำ
+BuffName_DLC伺机而动,Fast response,ตอบสนองว่องไว
+BuffName_DLC奋勇向前,Brave Charge,ทะลวงห้าวหาญ
+BuffName_DLC武器加持,Weapon Blessing,เสริมพลังอาวุธ
+BuffName_DLC防具加持,Armor Blessing,เสริมเกราะ
+BuffName_DLC伤害增强,Damage Enhancement,เสริมความเสียหาย
+BuffName_DLC圣火护体,Divine Flame Protection,เพลิงศักดิ์สิทธิ์คุ้มกาย
+BuffName_DLC强体健肌,Strong Body and Muscles,ร่างแกร่ง
+BuffName_DLC连击增强,Combo Enhancement,เสริมโจมตีต่อเนื่อง
+BuffName_DLC暴击增强,Critical Enhancement,เสริมคริติคอล
+BuffName_DLC闪避增强,Evasion Enhancement,เสริมหลบหลีก
+BuffName_DLC格挡增强,Parry Enhancement,เสริมปัดป้อง
+BuffName_DLC生命提升,HP Increase,HP เพิ่มขึ้น
+BuffName_DLC闪避提升,Evasion Increase,เพิ่มหลบหลีก
+BuffName_DLC如影随形,Shadow Follows Shape,เงาตามติด
+BuffName_DLC手脚灵活,Quick reflex,โต้ตอบว่องไว
+BuffName_DLC伤害提升,Damage Increase,เพิ่มพลังโจมตี
+BuffName_DLC御剑提升,Sword Increase,เพิ่มพลังกระบี่
+BuffName_DLC铜身铁骨,Iron Body,กายาเหล็กไหล
+BuffName_DLC格挡提升,Parry Increase,ปัดป้องเพิ่มขึ้น
+BuffName_DLC暴击提升,Critical Increase,คริติคอลเพิ่มขึ้น
+BuffName_DLC攻击提升,Attack Increase,พลังโจมตีเพิ่มขึ้น
+BuffName_DLC龙精虎猛,Stalwart,กำยำ
+BuffName_DLC身轻如燕,Light body,ตัวเบา
+BuffName_DLC身强体健,Hardened,ทนทาน
+BuffName_DLC踏雪无痕,Traceless step,ย่างก้าวไร้ร่องรอย
+BuffName_DLC踏雪无痕_光环,Traceless step,ย่างก้าวไร้ร่องรอย
+BuffName_DLC气场威压,Suppressing aura,รังสีกดดัน
+BuffName_DLC气场威压_光环,Suppressing aura,รังสีกดดัน
+BuffName_DLC毒域侵蚀,Poison Field Erosion,พิษกัดกร่อน
+BuffName_DLC毒域侵蚀_光环,Poison Source,แหล่งพิษ
+BuffName_DLC虎狼之势,Tiger Wolf Momentum,ถาโถมดั่งสัตว์ร้าย
+BuffName_DLC虎狼之势_光环_附属1,Tiger Wolf Momentum,ถาโถมดั่งสัตว์ร้าย
+BuffName_DLC背刃之痛,Back Blade Pain,ทำร้ายตนเอง
+BuffName_DLC背刃之痛_光环,Backstab,ลอบโจมตี
+BuffName_DLC武器印记,Weapon Mark,ตราประทับศาสตราวุธ
+BuffName_DLC武器印记_光环,Mark,ประทับ
+BuffName_DLC狂战之怒,Berserker's Rage,โทสะนักรบคลั่ง
+BuffName_DLC狂战之怒_光环,Berserker's Rage,โทสะนักรบคลั่ง
+BuffName_DLC坚韧之甲,Toughness A,ความแข็งแกร่งระดับ A
+BuffName_DLC坚韧之甲_光环,Toughness A,ความแข็งแกร่งระดับ A
+BuffName_DLC攻防兼备,Offensive and Defensive All-around,การโจมตีและป้องกันรอบด้าน
+BuffName_DLC攻防兼备_光环,Offensive and Defensive All-around,เน้นทั้งการโจมตีและป้องกันอย่างสมดุล
+BuffName_DLC战意高扬,Spirit High,มีขวัญกำลังใจ
+BuffName_DLC战意高扬_光环,Spirit High,มีขวัญกำลังใจ
+BuffName_DLC敌意涣散,Enemy Dispersal,สร้างความแตกแยกกับศัตรู
+BuffName_DLC敌意涣散_光环,Enemy Dispersal,สร้างความแตกแยกกับศัตรู
+BuffName_DLC不世之材,Unworldly Talent,พรสวรรค์ไร้ผู้ต้าน
+BuffName_DLC势不可挡,Unstoppable,มิอาจหยุดยั้ง
+BuffName_DLC守势如山,Defense like a Mountain,ตั้งป้อมดุจขุนเขา
+BuffName_DLC生机勃勃,Full of vigor,มีชีวิตชีวา
+BuffName_DLC动如脱兔,Like a rabbit,รวดเร็วดั่งกระต่าย
+BuffName_DLC攻势如虹,Offense like a Rainbow,รุนแรงดั่งสายรุ้ง
+BuffName_DLC钢筋铁骨,Steel Bones,กระดูกเหล็กกล้า
+BuffName_DLC生龙活虎,Vigorous,แข็งแรง
+BuffName_DLC速战速决,Blitz attack,จู่โจมสายฟ้าแลบ
+BuffName_DLC攻击增强,Attack Enhancement,เสริมการโจมตี
+BuffName_DLC防御增强,Defense Enhancement,เสริมการป้องกัน
+BuffName_DLC生命增强1,HP Enhancement,เพิ่ม HP
+BuffName_DLC健步如飞,Quick step,ฝีเท้าว่องไว
+BuffName_DLC撕裂,Tear,ฉีกขาด
+BuffName_DLC震荡,Shock,สั่นสะเทือน
+BuffName_dlc武功_刀法印记1,Sword Technique Mark (I),รอยประทับดาบ I
+BuffName_dlc武功_刀法印记2,Sword Technique Mark (II),รอยประทับดาบ II
+BuffName_dlc武功_刀法印记3,Sword Technique Mark (III),รอยประทับดาบ III
+BuffName_dlc武功_匕首印记1,Dagger Mark (I),รอยประทับมีดสั้น I
+BuffName_dlc武功_匕首印记2,Dagger Mark (II),รอยประทับมีดสั้น II
+BuffName_dlc武功_匕首印记3,Dagger Mark (III),รอยประทับมีดสั้น III
+BuffName_dlc武功_扇法印记1,Fan Technique Mark (I),รอยประทับพัด I
+BuffName_dlc武功_扇法印记2,Fan Technique Mark (II),รอยประทับพัด II
+BuffName_dlc武功_扇法印记3,Fan Technique Mark (III),รอยประทับพัด III
+BuffName_dlc武功_撕裂1,Tear (I),ฉีกขาด (1)
+BuffName_dlc武功_撕裂2,Tear (II),ฉีกขาด (2)
+BuffName_dlc武功_撕裂3,Tear (III),ฉีกขาด (3)
+BuffName_dlc武功_震荡1,Shock (I),สั่นสะเทือน (1)
+BuffName_dlc武功_震荡2,Shock (II),สั่นสะเทือน (2)
+BuffName_dlc武功_震荡3,Shock (III),สั่นสะเทือน (3)
+BuffName_dlc武功_破甲1,Break A (I),ทลายเกราะ (1)
+BuffName_dlc武功_破甲2,Break A (II),ทลายเกราะ (2)
+BuffName_dlc武功_破甲3,Break A (III),ทลายเกราะ (3)
+BuffName_dlc武功_坚毅1,Perseverance (I),ความมุ่งมั่น (1)
+BuffName_dlc武功_坚毅2,Perseverance (II),ความมุ่งมั่น (2)
+BuffName_dlc武功_坚毅3,Perseverance (III),ความมุ่งมั่น (3)
+BuffName_dlc武功_麻痹1,Paralysis (I),อัมพาต (1)
+BuffName_dlc武功_麻痹2,Paralysis (II),อัมพาต (2)
+BuffName_dlc武功_麻痹3,Paralysis (III),อัมพาต (3)
+BuffName_dlc武功_侵蚀1,Erosion (I),กัดกร่อน (1)
+BuffName_dlc武功_侵蚀2,Erosion (II),กัดกร่อน (2)
+BuffName_dlc武功_侵蚀3,Erosion (III),กัดกร่อน (3)
+BuffName_dlc武功_冠冕1,Crown (I),รัดเกล้า (1)
+BuffName_dlc武功_冠冕2,Crown (II),รัดเกล้า (2)
+BuffName_dlc武功_冠冕3,Crown (III),รัดเกล้า (3)
+BuffName_dlc武功_附魔1,Enchantment,ต้องมนตร์
+BuffName_dlc武功_伤痕1,Scar (I),รอยแผล (1)
+BuffName_dlc武功_伤痕2,Scar (II),รอยแผล (2)
+BuffName_dlc武功_伤痕3,Scar (III),รอยแผล (3)
+BuffName_dlc武功_眼盲1,Blindness (I),ตาบอด (1)
+BuffName_dlc武功_眼盲2,Blindness (II),ตาบอด (2)
+BuffName_dlc武功_眼盲3,Blindness (III),ตาบอด (3)
+BuffName_dlc武功_锁定1,Lock-on (I),หมายหัว (1)
+BuffName_dlc武功_锁定2,Lock-on (II),หมายหัว (2)
+BuffName_dlc武功_锁定3,Lock-on (III),หมายหัว (3)
+BuffName_dlc武功_减防1,Defense Reduction,ลดป้องกัน
+BuffName_dlc武功_减攻1,Attack Reduction,ลดโจมตี
+BuffName_dlc武功_减速1,Speed Reduction,ลดความเร็ว
+BuffName_dlc武功_破盾1,Shield Break,ทลายเกราะ
+BuffName_dlc武功_虚弱1,Weakness,อ่อนแอ
+BuffName_dlc武功_压制1,Self-restrained,กดขี่
+BuffName_dlc武功_毒蛊1,Poisonous Insect,พิษกู่
+BuffName_dlc武功_毒蛊1_减血,Blood Loss,เสียเลือด
+BuffName_dlc武功_毒蛊1_减内,Inner Reduction,ลดภายใน
+BuffName_dlc武功_毒蛊1_缴械,Disarm,ปลดอาวุธ
+BuffName_dlc武功_毒蛊1_卸甲,Disable armor,ปลดชุดเกราะ
+BuffName_dlc武功_集中1,Concentration,จดจ่อ
+BuffName_dlc武功_破绽1,Vulnerable,เปราะบาง
+BuffName_dlc武功_断筋1,Cut tendon,ตัดเส้นเอ็น
+BuffName_dlc武功_昏睡1,Slumber,หลับใหล
+BuffName_dlc武功_昏迷1,Unconcious,หมดสติ
+BuffName_dlc武功_封招1,Disable technique,ทำลายวรยุทธ
+BuffName_dlc武功_失控1,Out of control,เสียการควบคุม
+BuffName_dlc武功_迷惑1,Charm,ลุ่มหลง
+BuffName_dlc内功_盛世春秋_附属1,Glorious Era,ยุคทองอันเจิดจรัส
+BuffName_dlc内功_玄煞劲_光环,Nether Killing Force,ปราณปรโลกสังหาร
+BuffName_dlc内功_罗刹毒经_光环,Severe Poison,พิษร้ายแรง
+BuffName_dlc内功_巫蛊毒功_附属1,Voodoo,คุณไสย
+BuffName_dlc内功_满江红_光环,Prismatic River,แม่น้ำสีชาด
+BuffInfo_DLC撕裂,"After attacking, the enemy is affected by ""Tear"", which lasts for one battle【<#F3DE99>Tear: Up to three layers, each attack reduces the maximum HP by (effect layers*2%) HP</color> 】","หลังโจมตี จะทำให้ศัตรูได้รับสถานะ 'ฉีกขาด' ซึ่งจะมีผลตลอดการต่อสู้【<#F3DE99>ฉีกขาด: สูงสุด 3 ชั้น ทุกครั้งที่ถูกโจมตี จะลด Max HP โดย (จำนวนชั้นของสถานะ * 2%) HP</color>】"""
+BuffInfo_DLC震荡,"After attacking, the enemy is affected by ""Shock"", which lasts for one battle【<#F3DE99>Shock: Up to three layers, self-attack decreases by (effect layers*5%)</color> 】","หลังจากโจมตี ศัตรูจะได้รับ ""สั่นสะเทือน"" ตลอดการต่อสู้หนึ่งครั้ง 【<#F3DE99> สั่นสะเทือน: สูงสุด 3 ชั้น, ลดพลังโจมตีเท่ากับ (จำนวนชั้นของสถานะ*5%)</color> 】"
+BuffInfo_dlc武功_刀法印记1,"When hit by the external skill ""Devouring Blade"", an additional <#FE2929>100 points of true damage</color> is received.","เมื่อถูกโจมตีด้วยวิชา ""ดาบกลืนกิน"" <#FE2929>จะได้รับความเสียหายจริงเพิ่มขึ้นอีก 100 หน่วย</color>"
+BuffInfo_dlc武功_刀法印记2,"When hit by the external skill ""Devouring Blade"", an additional <#FE2929>200 points of true damage</color> is received.","เมื่อถูกโจมตีด้วยวิชา ""ดาบกลืนกิน"" <#FE2929>จะได้รับความเสียหายจริงเพิ่มขึ้นอีก 200 หน่วย</color>"
+BuffInfo_dlc武功_刀法印记3,"When hit by the external skill ""Devouring Blade"", an additional <#FE2929>300 points of true damage</color> is received.","เมื่อถูกโจมตีด้วยวิชา ""ดาบกลืนกิน"" <#FE2929>จะได้รับความเสียหายจริงเพิ่มขึ้นอีก 300 หน่วย</color>"
+BuffInfo_dlc武功_匕首印记1,"When attacked by the external skill ""Shooting Star"", if your HP is below 50%, there is a <#FE2929>10% chance of instant death</color>.","เมื่อถูกโจมตีโดยวิชา ""ดาวตกนอกฟ้า"" หากมี HP น้อยกว่า 50% จะมีโอกาส <#FE2929>10% สังหารทันที</color>"
+BuffInfo_dlc武功_匕首印记2,"When attacked by the external skill ""Shooting Star"", if your HP is below 50%, there is a <#FE2929>20% chance of instant death</color>.","เมื่อถูกโจมตีโดยวิชา ""ดาวตกนอกฟ้า"" หากมี HP น้อยกว่า 50% จะมีโอกาส <#FE2929>20% สังหารทันที</color>"
+BuffInfo_dlc武功_匕首印记3,"When attacked by the external skill ""Shooting Star"", if your HP is below 50%, there is a <#FE2929>30% chance of instant death</color>.","เมื่อถูกโจมตีโดยวิชา ""ดาวตกนอกฟ้า"" หากมี HP น้อยกว่า 50% จะมีโอกาส <#FE2929>30% สังหารทันที</color>"
+BuffInfo_dlc武功_扇法印记1,"When attacked by the external skill ""Flirting Butterfly"", the <#FE2929>damage received is increased by an additional 15%</color>.","เมื่อถูกโจมตีด้วยวิชา ""ผีเสื้อเหย้าบุปผา"" จะ<#FE2929>ได้รับความเสียหายเพิ่มขึ้นอีก 15%</color>"
+BuffInfo_dlc武功_扇法印记2,"When attacked by the external skill ""Flirting Butterfly"", the <#FE2929>damage received is increased by an additional 30%</color>.","เมื่อถูกโจมตีด้วยวิชา ""ผีเสื้อเหย้าบุปผา"" จะ<#FE2929>ได้รับความเสียหายเพิ่มขึ้นอีก 30%</color>"
+BuffInfo_dlc武功_扇法印记3,"When attacked by the external skill ""Flirting Butterfly"", the <#FE2929>damage received is increased by an additional 45%</color>.","เมื่อถูกโจมตีด้วยวิชา ""ผีเสื้อเหย้าบุปผา"" จะ<#FE2929>ได้รับความเสียหายเพิ่มขึ้นอีก 45%</color>"
+BuffInfo_dlc武功_撕裂1,"After each attack, <#FE2929>reduce HP by 2% of the maximum HP</color>.","หลังจากโจมตี, <#FE2929>ลดพลังชีวิตลง 2% จากพลังชีวิตสูงสุด</color>."
+BuffInfo_dlc武功_撕裂2,"After each attack, <#FE2929>reduce HP by 4% of the maximum HP</color>.","หลังจากโจมตี, <#FE2929>ลดพลังชีวิตลง 4% จากพลังชีวิตสูงสุด</color>."
+BuffInfo_dlc武功_撕裂3,"After each attack, <#FE2929>reduce HP by 6% of the maximum HP</color>.","หลังจากโจมตี, <#FE2929>ลดพลังชีวิตลง 6% จากพลังชีวิตสูงสุด</color>."
+BuffInfo_dlc武功_震荡1,"During combat, <#FE2929>Attack decreases by 5%</color>.","ระหว่างต่อสู้, <#FE2929>พลังโจมตีลดลง 5%</color>."
+BuffInfo_dlc武功_震荡2,"During combat, <#FE2929>Attack decreases by 10%</color>.","ระหว่างต่อสู้, <#FE2929>พลังโจมตีลดลง 10%</color>."
+BuffInfo_dlc武功_震荡3,"During combat, <#FE2929>Attack decreases by 15%</color>.","ระหว่างต่อสู้, <#FE2929>พลังโจมตีลดลง 15%</color>."
+BuffInfo_dlc武功_破甲1,"During combat, <#FE2929>Defense decreases by 20 points</color>.","ระหว่างการต่อสู้, <#FE2929>การป้องกันลดลง 20 หน่วย</color>."
+BuffInfo_dlc武功_破甲2,"During combat, <#FE2929>Defense decreases by 40 points</color>.","ระหว่างการต่อสู้,<#FE2929> พลังป้องกันลดลง 40 หน่วย</color>."
+BuffInfo_dlc武功_破甲3,"During combat, <#FE2929>Defense decreases by 60 points</color>.","ระหว่างการต่อสู้, <#FE2929>การป้องกันลดลง 60 หน่วย</color>."
+BuffInfo_dlc武功_坚毅1,"During combat, <#29F161>Defense increases by 20 points</color>.","ระหว่างการต่อสู้, <#29F161>พลังป้องกันเพิ่มขึ้น 20 หน่วย</color>."
+BuffInfo_dlc武功_坚毅2,"During combat, <#29F161>Defense increases by 40 points</color>.","ระหว่างการต่อสู้, <#29F161>พลังป้องกันเพิ่มขึ้น 40 หน่วย</color>."
+BuffInfo_dlc武功_坚毅3,"During combat, <#29F161>Defense increases by 60 points</color>.","ระหว่างการต่อสู้, <#29F161>พลังป้องกันเพิ่มขึ้น 60 หน่วย</color>."
+BuffInfo_dlc武功_麻痹1,"During combat, <#FE2929>Movement Range decreases by 1 square</color>.","ระหว่างการต่อสู้,<#FE2929>ระยะการเคลื่อนที่ลดลง 1 ช่อง</color>."
+BuffInfo_dlc武功_麻痹2,"During combat, <#FE2929>Movement Range decreases by 2 squares</color>.","ระหว่างการต่อสู้, <#FE2929>ระยะการเคลื่อนที่ลดลง 2 ช่อง</color>."
+BuffInfo_dlc武功_麻痹3,"During combat, <#FE2929>Movement Range decreases by 3 squares</color>.","ระหว่างการต่อสู้, <#FE2929>ระยะการเคลื่อนที่ลดลง 3 ช่อง</color>."
+BuffInfo_dlc武功_侵蚀1,"After each action, <#FE2929>reduce current HP by 10%</color>.","หลังจากการกระทำแต่ละครั้ง, <#FE2929>ลดพลังชีวิตปัจจุบันลง 10%</color>."
+BuffInfo_dlc武功_侵蚀2,"After each action, <#FE2929>reduce current HP by 20%</color>.",ทุกครั้งที่ออกกระบวนท่า <#FE2929>พลังชีวิตปัจจุบันจะลดลง 20%</color>.
+BuffInfo_dlc武功_侵蚀3,"After each action, <#FE2929>reduce current HP by 30%</color>.",ทุกครั้งที่ออกกระบวนท่า <#FE2929>พลังชีวิตปัจจุบันจะลดลง 30%</color>
+BuffInfo_dlc武功_冠冕1,"After the effect reaches three layers, <#FE2929>reduce HP by 500 points</color>.",เมื่อพลังนี้บรรลุถึงขั้นที่สาม <#FE2929>พลังชีวิตจะลดลง 500 จุด</color>
+BuffInfo_dlc武功_冠冕2,"After the effect reaches three layers, <#FE2929>reduce HP by 500 points</color>.",เมื่อพลังนี้บรรลุถึงขั้นที่สาม <#FE2929>พลังชีวิตจะลดลง 500 จุด</color>
+BuffInfo_dlc武功_冠冕3,
+BuffInfo_dlc武功_附魔1,"When attacked by the external skill ""Country Full of Beauties"", the <#FE2929>damage received is increased by an additional 30%</color>.","เมื่อถูกโจมตีด้วยวิชา ""แผ่นดินที่งดงาม"" จะ<#FE2929>ได้รับความเสียหายเพิ่มขึ้น 30%</color>"
+BuffInfo_dlc武功_伤痕1,"After the effect reaches three layers, <#FE2929>reduce Defense by 75 points</color>.",เมื่อพลังนี้บรรลุถึงขั้นที่สาม <#FE2929>พลังป้องกันของตนเองจะลดลง 75 จุด</color>.
+BuffInfo_dlc武功_伤痕2,"After the effect reaches three layers, <#FE2929>reduce Defense by 75 points</color>.",เมื่อพลังนี้บรรลุถึงขั้นที่สาม <#FE2929>พลังป้องกันของตนเองจะลดลง 75 จุด</color>.
+BuffInfo_dlc武功_伤痕3,<#FE2929>Defense reduced by 75 points</color>,<#FE2929>พลังป้องกันลดลง 75 หน่วย</color>
+BuffInfo_dlc武功_眼盲1,"Upon reaching three layers, self's <#FE2929>Accuracy decreases by 20%</color>.",เมื่อพลังนี้บรรลุถึงขั้นที่สาม <#FE2929>ความแม่นยำของตนเองจะลดลง 20%</color>.
+BuffInfo_dlc武功_眼盲2,"Upon reaching three layers, self's <#FE2929>Accuracy decreases by 20%</color>.",เมื่อพลังนี้บรรลุถึงขั้นที่สาม <#FE2929>ความแม่นยำของตนเองจะลดลง 20%</color>.
+BuffInfo_dlc武功_眼盲3,<#FE2929>Accuracy decreases by 20%</color>,<#FE2929>ความแม่นยำลดลง 20%</color>
+BuffInfo_dlc武功_锁定1,"Upon reaching three layers, self <#FE2929>cannot act</color>.",เมื่อพลังนี้บรรลุถึงขั้นที่สาม <#FE2929>ตนเองจะไม่สามารถเคลื่อนไหวได้</color>.
+BuffInfo_dlc武功_锁定2,"Upon reaching three layers, self <#FE2929>cannot act</color>.",เมื่อพลังนี้บรรลุถึงขั้นที่สาม <#FE2929>ตนเองจะไม่สามารถเคลื่อนไหวได้</color>.
+BuffInfo_dlc武功_锁定3,Self <#FE2929>cannot act</color>.,ตนเอง <#FE2929>ไม่สามารถเคลื่อนไหวได้</color>
+BuffInfo_dlc武功_减防1,<#FE2929>Defense decreases by 15%</color>,<#FE2929>พลังป้องกันลดลง 15%</color>
+BuffInfo_dlc武功_减攻1,<#FE2929>Attack decreases by 15%</color>,<#FE2929>พลังโจมตีลดลง 15%</color>
+BuffInfo_dlc武功_减速1,<#FE2929>Action Speed decreases by 10%</color>,<#FE2929>ความเร็วท่าร่างลดลง 10%</color>
+BuffInfo_dlc武功_破盾1,<#FE2929>Parry decreases by 10%</color>,<#FE2929>การปัดป้องลดลง 10%</color>
+BuffInfo_dlc武功_虚弱1,<#FE2929>Attack decreases by 10%</color>,<#FE2929>พลังโจมตีลดลง 10%</color>
+BuffInfo_dlc武功_压制1,"<#FE2929>Attack, Defense, Action Speed decrease by 10%</color>","<#FE2929>พลังโจมตี,พลังป้องกัน,ความเร็วท่าร่างลดลง 10%</color>"
+BuffInfo_dlc武功_毒蛊1,"After each action, randomly trigger negative states of blood loss, internal loss, Weapon failure, Armor failure",ทุกครั้งที่ดำเนินการ จะสุ่มเกิดสถานะลบ เช่น เสียเลือด เสียลมปราณ อาวุธไม่ทำงาน และเกราะไม่ทำงาน
+BuffInfo_dlc武功_毒蛊1_减血,
+BuffInfo_dlc武功_毒蛊1_减内,
+BuffInfo_dlc武功_毒蛊1_缴械,<#FE2929>Weapon attributes and effects are invalid</color>.,<#FE2929>คุณสมบัติของอาวุธและเอฟเฟกต์ไม่ถูกต้อง</color>
+BuffInfo_dlc武功_毒蛊1_卸甲,"Worn Armor falls off, <#FE2929>unable to exert effects</color>.",ชุดเกราะที่สวมใส่หลุดออกและ <#FE2929>ใช้งานไม่ได้</color>
+BuffInfo_dlc武功_集中1,<#29F161>Attack increases by 100 points</color>,<#29F161>พลังโจมตีเพิ่มขึ้น 100 แต้ม</color>
+BuffInfo_dlc武功_破绽1,"When attacked, <#FE2929>will definitely be Critical</color>",เมื่อถูกโจมตี <#FE2929>จะต้องติดคริติคอล</color>
+BuffInfo_dlc武功_断筋1,"During battle, <#FE2929>Movement Range decreases by 5 squares</color>",ระหว่างการต่อสู้ <#FE2929>ระยะการเคลื่อนที่ลดลง 5 บล็อก</color>
+BuffInfo_dlc武功_昏睡1,"<#FE2929>Cannot act, will definitely be Critical when attacked</color>, and wake up immediately",<#FE2929>ไม่สามารถเคลื่อนที่ได้ จะโดนคริติคอลเมื่อถูกโจมตี</color> และตื่นขึ้นมาทันที
+BuffInfo_dlc武功_昏迷1,"<#FE2929>Cannot act, will definitely be Critical when attacked</color>",<#FE2929>ไม่สามารถเคลื่อนที่ได้ จะเกิดการโจมตีคริติคอลเมื่อถูกโจมตี</color>
+BuffInfo_dlc武功_封招1,<#FE2929>Cannot use martial arts</color>,<#FE2929>ไม่สามารถใช้วรยุทธได้</color>
+BuffInfo_dlc武功_失控1,"<#FE2929>Cannot control self, will definitely be Critical when attacked</color>",<#FE2929>คุณอยู่ภายใต้การควบคุม และจะถูกโจมตีคริติคอลเมื่อถูกโจมตี</color>
+BuffInfo_dlc武功_迷惑1,"Lose mind, <#FE2929>help opponent to attack own people</color>",เสียสติ <#FE2929>ช่วยอีกฝ่ายโจมตีคนของคุณเอง</color>
+BuffInfo_DLC一击必杀,"When attacking targets below self's Level by 2, there is a <#29F161>20% chance of Instant death</color>.",เมื่อโจมตีเป้าหมายที่เลเวลต่ำกว่าตัวเอง 2 ระดับ จะมีโอกาส <#29F161>มีโอกาส 20% ที่จะสังหารเป้าหมายด้วยการโจมตีเพียงครั้งเดียว</color>
+BuffInfo_DLC反弹伤害,"Each time when attacked, will <#29F161>Reflect 20% of the damage to the opponent</color>.",เมื่อถูกโจมตี <#29F161>สะท้อนความเสียหาย 20% กลับไปยังศัตรู</color>
+BuffInfo_DLC乘胜追击,"After using external skills, there is a 50% chance to <#29F161>act again</color>.",หลังจากใช้วิชาภายนอก จะมีโอกาส 50% ที่จะ <#29F161>ลงมือได้อีกตา</color>
+BuffInfo_DLC独具慧眼,"During battle, <#29F161>Attack increases Damage by 100%</color> against male enemies.",ระหว่างต่อสู้ <#29F161>การโจมตีสร้างความเสียหายเพิ่มขึ้น 100%</color> ต่อบุรุษ
+BuffInfo_DLC身如鬼魅,Action Speed+10,ความเร็วท่าร่าง +10
+BuffInfo_DLC借势而行,"When attacked and there are enemies nearby, self <#29F161>only takes 70% of the actual damage, 30% is shared by nearby enemies</color>.",เมื่อถูกโจมตีและมีศัตรูใกล้เคียง ตนจะ <#29F161>ได้รับความเสียหาย 70% และแบ่งความเสียหาย 30% ไปยังศัตรูใกล้เคียง</color>
+BuffInfo_DLC印记增幅,"During battle, when self's HP is above 50%, and the enemy has any knife, Dagger, fan law mark effects, <#29F161>Attack increases Damage by 50%</color>.","ในระหว่างการต่อสู้ หาก HP ของตนเองสูงกว่า 50%, เมื่อโจมตีศัตรูมีรอยประทับดาบ มีดสั้น พัด อยู่ <#29F161>การโจมตีสร้างความเสียหายเพิ่มขึ้น 50%</color>"
+BuffInfo_DLC印记反制,"During battle, when self's HP is below 50%, when attacked and the attacker has any knife, Dagger, fan law mark effects, the enemy's <#FE2929>Attack decreases by 30%</color>.","ในระหว่างการต่อสู้ เมื่อ HP ของตนเองต่ำกว่า 50%, เมื่อถูกโจมตีโดยศัตรูที่มีรอยประทับดาบ มีดสั้น พัด <#FE2929>พลังโจมตีของศัตรูจะลดลง 30%</color>"
+BuffInfo_DLC免疫屏障,"When attacked by external skills, there is a <#29F161>50% chance to be immune to the negative status of the attacker</color>.",เมื่อถูกโจมตีด้วยวิชาภายนอก มีโอกาส <#29F161>มีโอกาส 50% ที่จะต้านทานสถานะด้านลบของผู้โจมตี</color>
+BuffInfo_DLC绝处逢生,"When hit by Finishing Strike, become Invincible, recover <#29F161>20% of HP and MP</color>, effective once per battle.",เมื่อถูกโจมตีถึงตาย จะไม่ตาย <#29F161>ฟื้นฟู HP และ MP 20%</color> มีผล 1 ครั้งต่อการต่อสู้
+BuffInfo_DLC御兽之能,"During the battle, for each animal on your side of the battlefield, when attacked, your own <#29F161>Parry increases by 5%, up to a maximum of 50%</color>.",ในระหว่างการต่อสู้ สัตว์แต่ละตัวที่อยู่ในสนามรบที่เป็นฝ่ายของคุณ <#29F161> การปัดป้องคุณจะเพิ่มขึ้น 5% เมื่อถูกโจมตี เพิ่มขึ้นสูงสุด 50%</color>
+BuffInfo_DLC御兽之术,"During the battle, for each animal on your side of the battlefield, when attacking, your own <#29F161>Attack increases by 5%, up to a maximum of 50%</color>.",ในระหว่างการต่อสู้ สัตว์แต่ละตัวที่อยู่ในสนามรบที่เป็นฝ่ายของคุณ <#29F161> ดาเมจของคุณจะเพิ่มขึ้น 5% เมื่อโจมตี เพิ่มขึ้นสูงสุด 50%</color>
+BuffInfo_DLC免疫背击,Additional damage for Pierce Back attack.,ไม่สนใจความเสียหายเพิ่มเติมจากการโจมตีจากด้านหลัง
+BuffInfo_DLC免疫侧击,Additional damage for Pierce Side attack.,ไม่สนใจความเสียหายเพิ่มเติมจากการโจมตีจากด้านข้าง
+BuffInfo_DLC免疫控制,"Immune to negative control statuses such as ""Vulnerable"", ""Cut tendon"", ""Unconscious"" etc. caused by external skills.","ต้านทานต่อสถานะควบคุมเชิงลบ เช่น ""เปราะบาง"", ""ตัดเส้นเอ็น"", ""หมดสติ"" อื่นๆ ที่มาพร้อมกับวิชาภายนอก"
+BuffInfo_DLC铜墙铁壁,Receive No damage for the first time being attacked in each battle (Unable to receive damage brought by No damage negative status).,ในการต่อสู้ เมื่อถูกโจมตีเป็นครั้งแรก จะไม่ได้รับความเสียหาย (ไม่สามารถหลีกเลี่ยงความเสียหายที่เกิดจากสถานะผิดปกติได้)
+BuffInfo_DLC御剑增伤,"When attacking, for every additional 5 points in Sword, <#29F161>Attack increases damage by 10%</color>.",เมื่อโจมตี ทุกๆค่ากระบี่ 5 แต้ม จะทำให้ <#29F161>การโจมตีสร้างความเสียหายเพิ่มขึ้น 10%</color>
+BuffInfo_DLC神失梦迷,"When casting the external skill ""Insanity Staff"", 100% trigger the ""Slumber"" effect on the enemy.","เมื่อใช้วิชาภายนอก 'พลองมารคลั่ง' จะมีโอกาส 100% ที่จะทำให้ศัตรูได้รับสถานะ ""หลับใหล"""
+BuffInfo_DLC融金藏锋,"When casting the external skill ""Origin Staff"", 100% trigger the ""Unconscious"" effect on the enemy.","เมื่อใช้วิชาภายนอก 'พลองรวมศูนย์' จะมีโอกาส 100% ที่จะทำให้ศัตรูได้รับสถานะ ""หมดสติ"""
+BuffInfo_DLC致命伤害,"When attacking, there is a 50% chance that <#29F161>Attack increases damage by 100%</color>.","เมื่อโจมตี, มีโอกาส 50% ที่<#29F161>การโจมตีสร้างความเสียหายเพิ่มขึ้น 100%</color>"
+BuffInfo_DLC斩敌追击,"After killing an enemy, you can <#29F161>take another action</color>.",หลังจากสังหารศัตรู จะสามารถ<#29F161>ดำเนินการได้อีกครั้ง</color>
+BuffInfo_DLC追风掣电,"After each attack, you can <#29F161>move again</color>, but can only choose to rest or retreat after moving.",หลังจากการโจมตีแต่ละครั้ง คุณสามารถ <#29F161>เคลื่อนที่ได้อีกครั้ง</color> หลังจากเคลื่อนที่ คุณสามารถเลือกได้ว่าจะพักหรือถอยเท่านั้น
+BuffInfo_DLC坚守之心,"You have the ""Resolute"" status, when attacked by the enemy, the enemy's own <#FE2929>Attack decreases by 30%</color>.",หากตนเองได้รับผล 'ความมุ่งมั่น' อยู่ เมื่อถูกศัตรูโจมตี <#FE2929>พลังโจมตีของศัตรูจะลดลง 30%</color>
+BuffInfo_DLC逆境求生,"The lower your HP when entering battle, the more additional Action Speed you get, <#29F161>for every 10% decrease in HP, Action Speed increases by 2 points</color>.",เมื่อเข้าสู่การต่อสู้ ยิ่งค่าพลังชีวิตของตนเองต่ำลง ความเร็วท่าร่างยิ่งเพิ่มขึ้น <#29F161>ทุกๆ พลังชีวิตที่น้อยลง 10% จะเพิ่มความเร็วท่าร่างขึ้น 2 แต้ม</color>
+BuffInfo_DLC致命暴击,"The lower your HP when entering battle, the more additional Critical you get, <#29F161>for every 10% decrease in HP, Critical increases by 5%</color>.",เมื่อเข้าสู่การต่อสู้ ยิ่งค่าพลังชีวิตของตนเองต่ำลง อัตราโจมตีคริติคอลยิ่งเพิ่มขึ้น <#29F161>ทุกๆ พลังชีวิตที่น้อยลง 10% จะเพิ่มอัตราโจมตีคริติคอลขึ้น 5%</color>
+BuffInfo_DLC百炼成钢,"The lower your HP when entering battle, the more additional Parry you get, <#29F161>for every 10% decrease in HP, Parry increases by 5%</color>.",เมื่อเข้าสู่การต่อสู้ ยิ่งค่าพลังชีวิตของตนเองต่ำลง อัตราปัดป้องยิ่งเพิ่มขึ้น <#29F161>ทุกๆ พลังชีวิตที่น้อยลง 10% จะเพิ่มอัตราปัดป้องขึ้น 5%</color>
+BuffInfo_DLC协同守护,"After entering the battle, allies within 3 squares of you have their <#29F161>Evasion increased by 15%</color>, the same effect only takes effect once.",หลังจากเข้าการต่อสู้ พันธมิตรที่อยู่ภายในรัศมี 3 ช่อง ของตัวเอง จะได้รับ<#29F161>อัตราหลบหลีกเพิ่มขึ้น 15%</color> เอฟเฟกต์เดียวกันจะมีผลเพียงแค่อันเดียวเท่านั้น
+BuffInfo_DLC协同守护_光环,<#29F161>Evasion increases by 15%</color>,<#29F161>หลบหลีกเพิ่มขึ้น 15%</color>
+BuffInfo_DLC威震一方,"After entering the battle, enemies within 3 squares of you have their <#FE2929>Defense reduced by 20%</color>, the same effect only takes effect once.",เมื่อเข้าสู่การต่อสู้ ภายใน 3 ช่องรอบตัว<#FE2929>พลังป้องกันของศัตรูจะลดลง 20%</color> สถานะเดียวกันนี้จะมีผลเพียงหนึ่ง
+BuffInfo_DLC威震一方_光环,<#FE2929>Defense decreases by 20%</color>,<#FE2929>พลังป้องกันลดลง 20%</color>
+BuffInfo_DLC武功扰乱,"After entering the battle, the cooldown of all enemy team's external skills is increased by 1, the same effect only takes effect once.",เมื่อเข้าสู่การต่อสู้ คูลดาวน์วิชาภายนอก ของทีมศัตรูเพิ่มขึ้น 1 สถานะเดียวกันจะมีผลเพียงหนึ่งเท่านั้น
+BuffInfo_DLC武功扰乱_光环,External skill cooldown +1,คูลดาวน์วิชาภายนอก +1
+BuffInfo_DLC辣手无情,"When fighting against female enemies, <#29F161>Attack increases damage by 50%</color>.",เมื่อต่อสู้กับศัตรูเพศหญิง<#29F161>จะสร้างความเสียหายเพิ่มขึ้น 50%</color>
+BuffInfo_DLC身轻如羽,"After entering the battle, for every 1 point of Dexterity, <#29F161>increase 1 point of Action Speed</color>.",หลังจากเข้าสู่การต่อสู้ ทุกความคล่องแคล่ว 1 แต้ม จะ<#29F161>เพิ่มความเร็วท่าร่าง 1 แต้ม</color>.
+BuffInfo_DLC清心寡欲,"When attacked by female enemies during battle, <#29F161>Parry increases by 50%</color>.",เมื่อถูกโจมตีโดยศัตรูหญิงระหว่างการต่อสู้ <#29F161>บล็อกเพิ่มขึ้น 50%</color>
+BuffInfo_DLC运筹帷幄,"Upon entering combat, the cooldown of all external skills is reduced by 1.",เมื่อเข้าสู่การต่อสู้ คูลดาวน์ของวิชาภายนอกทั้งหมดลดลง 1 
+BuffInfo_DLC伤敌恢复,"Attack an enemy every Accuracy, <#29F161>recover 20 HP for yourself</color>.",แต่ละครั้งที่มีศัตรูถูกโจมตีระหว่างการโจมตี <#29F161>ฟื้นฟูพลังชีวิต 20 แต้ม</color>
+BuffInfo_DLC内力节流,"When using martial arts, <#29F161>MP Cost is reduced by 50%</color>.",เมื่อใช้วรยุทธ <#29F161>การใช้พลังภายในจะลดลง 50%</color>
+BuffInfo_DLC气场扰乱,"After entering the battle, all enemies' <#FE2929>Initial Action Point is reduced by 50 each time they act</color>.",หลังจากเข้าสู่การต่อสู้ ทุกครั้งที่ศัตรูทั้งหมดดำเนินการ <#FE2929>การรวบรวมปราณเคลื่อนที่เริ่มต้นจะลดลง 50 แต้ม</color>
+BuffInfo_DLC气场扰乱_光环,"After each action, <#FE2929>Initial Action Point is reduced by 50</color>.",หลังจากเสร็จการกระทำ <#FE2929>การรวบรวมค่าปราณเคลื่อนที่เริ่มต้นจะลดลง 50 จุด</color>
+BuffInfo_DLC箫音暴击,"When attacking with a flute as your weapon, <#29F161>critical rate increases by 15%</color>.",เมื่อโจมตี โดยอาวุธที่ถือเป็นขลุ่ย <#29F161>อัตราโจมตีคริติคอลเพิ่มขึ้น 15%</color>
+BuffInfo_DLC枪棍守护,"When attacked by an enemy with a spear or stick as their weapon, <#29F161>parry rate increases by 15%</color>.",เมื่อถูกโจมตี ถ้าอาวุธของศัตรูคือหอกหรือไม้เท้า <#29F161>โอกาสปัดป้องเพิ่มขึ้น 15%</color>
+BuffInfo_DLC环环相扣,"When attacking with external skills, for each additional enemy within attack range, the hit enemy receives an extra <#29F161>50 points of damage</color>.",เมื่อโจมตีด้วยวิชาภายนอก ทุกๆระยะ ในการโจมตีศัตรูที่เพิ่มขึ้น ศัตรูจะได้รับ <#29F161>ความเสียหายเพิ่มเติมอีก 50 หน่วย</color>
+BuffInfo_DLC伤害强化,"After entering the battle, every 1 point of Strength increases <#29F161>Attack damage by 2%</color> when attacking.",เมื่อเข้าสู่การต่อสู้ ทุกๆ 1 แต้มของค่าพละกำลัง เมื่อโจมตี <#29F161>จะเพิ่มความเสียหายจากการโจมตีขึ้น 2%.</color>
+BuffInfo_DLC受击自愈,"Every time you trigger Evasion or Parry when attacked, <#29F161>recover 100 HP</color>.",แต่ละครั้งที่คุณถูกโจมตี หลบหลีกหรือปัดป้อง <#29F161>ฟื้นฟูพลังชีวิต 100 แต้ม</color>
+BuffInfo_DLC危急自救,"When HP is below 50% during battle, <#29F161>recover 50 HP after each action</color>.",หากพลังชีวิตต่ำกว่า 50% ในระหว่างการต่อสู้ <#29F161>หลังลงมือจะฟื้นฟูพลังชีวิต 50 หน่วย</color>
+BuffInfo_DLC动物猎手,"When fighting against animal enemies, <#29F161>Attack increases damage by 50%</color>.",<#29F161>การโจมตีสร้างความเสียหายเพิ่มขึ้น 50%</color> ต่อศัตรูที่เป็นสัตว์
+BuffInfo_DLC生命增强,Maximum HP increases by 400 points.,พลังชีวิตสูงสุดเพิ่มขึ้น 400 หน่วย
+BuffInfo_DLC身似掠影,"The lower your HP is when entering battle, the more additional Action Speed you get, <#29F161>for every 10% decrease in HP, Action Speed increases by 1 point</color>.",เมื่อเข้าสู่การต่อสู้ ยิ่งค่าพลังชีวิตของตนเองต่ำลง ความเร็วท่าร่างยิ่งเพิ่มขึ้น <#29F161>ทุกๆ พลังชีวิตที่น้อยลง 10% จะเพิ่มความเร็วท่าร่างขึ้น 1 แต้ม</color>
+BuffInfo_DLC背击破招,"When attacking the enemy from the back, the enemy's <#FE2929>Evasion and Parry are reduced by 10% for this attack</color>.",เมื่อโจมตีศัตรูจากด้านหลัง <#FE2929>การหลบหลีกและการปัดป้องของศัตรูจะลดลง 10%</color>
+BuffInfo_DLC侧击破招,"When attacking the enemy from the side, the enemy's <#FE2929>Evasion and Parry are reduced by 10% for this attack</color>.",เมื่อขนาบข้างศัตรู <#FE2929>การหลบหลีกและการปัดป้องของศัตรูจะลดลง 10%</color>
+BuffInfo_DLC内力增强,MP increases by 300 points.,MP เพิ่มขึ้น 300 หน่วย
+BuffInfo_DLC破云之力,"After entering the battle, every 1 point of Strength additionally <#29F161>increases Attack by 20 points</color>.",หลังจากเข้าสู่การต่อสู้ ค่าพละกำลังต่อหน่วยจะ <#29F161>เพิ่มพลังโจมตี 20 แต้ม</color>
+BuffInfo_DLC剑意凛然,"When entering battle with a sword-type weapon, depending on the weapon's grade, <#29F161>Attack increases by 3%, 6%, 9%, 12% respectively</color>.","เมื่อเข้าสู่การต่อสู้ โดยถืออาวุธประเภทกระบี่ <#29F161>พลังโจมตีจะเพิ่มขึ้น 3%, 6%, 9% และ 12% ตามลำดับของระดับคุณภาพของอาวุธ</color>"
+BuffInfo_DLC疏而不漏,"Each time you attack, the enemy's <#FE2929>Parry is reduced by 10%</color>.",<#FE2929>โอกาสปัดป้องของศัตรูจะลดลง 10%</color> ทุกครั้งที่โจมตี
+BuffInfo_DLC伺机而动,"After being attacked, <#29F161>increase your own Qi value by 100 points</color>.",เมื่อถูกโจมตี <#29F161>เพิ่มค่าปราณเคลื่อนที่ 100 แต้ม</color>
+BuffInfo_DLC奋勇向前,"After entering the battle, <#29F161>Initial Action Point increases by 200 points</color>.",หลังเข้าสู่การต่อสู้ <#29F161>ความเร็วท่าร่างเริ่มต้นเพิ่มขึ้น 200</color>
+BuffInfo_DLC武器加持,The <#29F161>main attribute effect of the equipped weapon is increased by 30%</color>.,<#29F161>คุณสมบัติหลักของอาวุธที่สวมใส่เพิ่มขึ้น 30%</color>
+BuffInfo_DLC防具加持,The <#29F161>main attribute effect of the equipped armor is increased by 30%</color>.,การสวมชุดเกราะ<#29F161>คุณสมบัติหลักของชุดเกราะเพิ่มขึ้น 30%</color>
+BuffInfo_DLC伤害增强,"During battle, <#29F161>Attack increases damage by 30%</color>.","ระหว่างต่อสู้,<#29F161>การโจมตีสร้างความเสียหายเพิ่มขึ้น 30%</color>"
+BuffInfo_DLC圣火护体,"When attacked by nearby enemies, the enemy's <#FE2929>Attack is reduced by 15%</color>.",เมื่อถูกโจมตีโดยศัตรูที่อยู่ใกล้เคียง <#FE2929>พลังโจมตีของศัตรูจะลดลง 15%</color>
+BuffInfo_DLC强体健肌,Every 1 point of Constitution additionally <#29F161>increases HP by 25 points</color>.,ทุกๆ 1 แต้มของค่าพลังกาย <#29F161>เพิ่มค่า HP ขึ้น 25 หน่วย</color>
+BuffInfo_DLC连击增强,Combo+10%,อัตราโจมตีต่อเนื่อง+10%
+BuffInfo_DLC暴击增强,Critical+10%,คริติคอล+10%
+BuffInfo_DLC闪避增强,Evasion+10%,หลบหลีก+10%
+BuffInfo_DLC格挡增强,Parry+10%,ปัดป้อง+10%
+BuffInfo_DLC生命提升,Maximum HP increased by 200 points.,พลังชีวิตสูงสุดเพิ่มขึ้น 200 หน่วย
+BuffInfo_DLC闪避提升,Evasion+5%,หลบหลีก+5%
+BuffInfo_DLC如影随形,Dexterity+1,คล่องแคล่ว+1
+BuffInfo_DLC手脚灵活,Action Speed+2,ความเร็วท่าร่าง+2
+BuffInfo_DLC伤害提升,"During combat, <#29F161>Attack increases damage by 10%</color>.",ระหว่างการต่อสู้ <#29F161>การโจมตีสร้างความเสียหายเพิ่มขึ้น 10%</color>
+BuffInfo_DLC御剑提升,Sword+5,กระบี่+5
+BuffInfo_DLC铜身铁骨,<#29F161>Defense increased by 30 points</color>,<#29F161>พลังป้องกันเพิ่มขึ้น 30 หน่วย</color>
+BuffInfo_DLC格挡提升,Parry+5%,ปัดป้อง+5%
+BuffInfo_DLC暴击提升,Critical+5%,คริติคอล +5%
+BuffInfo_DLC攻击提升,<#29F161>Attack increased by 50 points</color>,<#29F161>พลังโจมตีเพิ่มขึ้น 50 แต้ม</color>
+BuffInfo_DLC龙精虎猛,Strength+1,พละกำลัง+1
+BuffInfo_DLC身轻如燕,"Enter combat, Movement Range increased by 1 grid.",เมื่อเข้าสู่การต่อสู้ ระยะการเคลื่อนที่จะเพิ่มขึ้น 1 ช่อง
+BuffInfo_DLC身强体健,Constitution+1,พลังกาย+1
+BuffInfo_DLC踏雪无痕,"After entering combat, the whole team's <#29F161>Action Speed increases by 15%</color>.",หลังจากเข้าสู่การต่อสู้ ทั้งทีมของคุณ <#29F161>ความเร็วท่าร่างเพิ่มขึ้น 15%</color>
+BuffInfo_DLC踏雪无痕_光环,<#29F161>Action Speed increases by 15%</color>,<#29F161>ความเร็วท่าร่างเพิ่มขึ้น 15%</color>
+BuffInfo_DLC气场威压,"After entering combat, the enemy team's <#FE2929>Action Speed decreases by 15%</color>.",หลังจากเข้าสู่การต่อสู้ <#FE2929>ความเร็วท่าร่างลดลง 15%</color>
+BuffInfo_DLC气场威压_光环,<#FE2929>Action Speed decreases by 15%</color>,<#FE2929>ความเร็วท่าร่างลดลง 15%</color>
+BuffInfo_DLC毒域侵蚀,"After entering combat, the enemy team gains the ""Poison Source"" effect [<#F3DE99>Poison Source: Lose 50 HP after each action</color>]","หลังจากเข้าสู่การต่อสู้ ทีมศัตรูทั้งหมดจะได้รับเอฟเฟกต์ ""พิษ"" [<#F3DE99>พิษ: ลดพลังชีวิต 50 แต้มหลังแต่ละการกระทำ</color>]"
+BuffInfo_DLC毒域侵蚀_光环,Lose <#FE2929>50 HP after each action</color>.,หลังจากแต่ละการกระทำ <#FE2929>ลดพลังชีวิต 50 แต้ม</color>
+BuffInfo_DLC虎狼之势,"After entering combat, our team's animals' <#29F161>Attack increases by 30%, Critical increases by 10%</color>.",หลังจากเข้าสู่การต่อสู้ การโจมตีของสัตว์ของคุณ <#29F161>พลังโจมตีเพิ่มขึ้น 30% และการโจมตีคริติคอลจะเพิ่มขึ้น 10%</color>
+BuffInfo_DLC虎狼之势_光环_附属1,"<#29F161>Attack increases by 30%, Critical increases by 10%</color>",<#29F161>พลังโจมตีเพิ่มขึ้น 30% การโจมตีคริติคอลเพิ่มขึ้น 10%</color>
+BuffInfo_DLC背刃之痛,"After entering combat, the enemy team gains the ""Backstab"" effect [<#F3DE99>Backstab: When receiving a Back attack, own Defense decreases by 30%</color>]","หลังจากเข้าสู่การต่อสู้ ทีมศัตรูทั้งหมดจะได้รับคุณลักษณะ""แทงข้างหลัง"" [<#F3DE99>แทงข้างหลัง: เมื่อได้รับการแทงข้างหลัง พลังป้องกันของคุณจะลดลง 30%</color>]"
+BuffInfo_DLC背刃之痛_光环,"When receiving a Back attack, own <#FE2929>Defense decreases by 30%</color>.",เมื่อถูกโจมตีจากด้านหลัง <#FE2929>พลังป้องกันของคุณจะลดลง 30%</color>
+BuffInfo_DLC武器印记,"After entering combat, our team gains the ""Mark"" effect [<#F3DE99>Mark: When attacked by a knife, dagger, or fan weapon, there is a 50% chance to apply a corresponding weapon mark to the attacker</color>]","เมื่อเข้าสู่การต่อสู้, กลุ่มของตนจะได้รับผล 'รอยประทับ'【<#F3DE99>รอยประทับ: เมื่อถูกโจมตีด้วยอาวุธประเภทดาบ มีดสั้น พัด จะมีโอกาส 50% ที่จะทำให้ผู้โจมตีได้รับรอยประทับจากอาวุธที่ตรงกัน</color>】."
+BuffInfo_DLC武器印记_光环,"When attacked by a knife, dagger, or fan weapon, there is a 50% chance to apply a corresponding weapon mark to the attacker.",เมื่อถูกโจมตีด้วยดาบ มีดสั้น พัด จะมีโอกาส 50% ที่จะทำให้ผู้โจมตีได้รับรอยประทับจากอาวุธที่ตรงกัน.
+BuffInfo_DLC狂战之怒,"After entering combat, our team's <#29F161>Critical increases by 15%</color>.",หลังจากเข้าสู่การต่อสู้ <#29F161>การโจมตีคริติคอลของทั้งทีมจะเพิ่มขึ้น 15%</color>
+BuffInfo_DLC狂战之怒_光环,<#29F161>Critical increases by 15%</color>,<#29F161>การโจมตีคริติคอลเพิ่มขึ้น 15%</color>
+BuffInfo_DLC坚韧之甲,"After entering combat, our team's <#29F161>Defense increases by 5%, Parry increases by 10%</color>.",หลังจากเข้าสู่การต่อสู้ <#29F161>พลังป้องกันของทีมจะเพิ่มขึ้น 5% และโอกาสปัดป้องจะเพิ่มขึ้น 10%</color>
+BuffInfo_DLC坚韧之甲_光环,"<#29F161>Defense increases by 5%, Parry increases by 10%</color>",<#29F161>พลังป้องกันเพิ่มขึ้น 5% โอกาสปัดป้องเพิ่มขึ้น 10%</color>
+BuffInfo_DLC攻防兼备,"After entering combat, our team's <#29F161>Attack increases by 10%, Defense increases by 5%</color>.",หลังจากเข้าสู่การต่อสู้<#29F161>พลังโจมตีของทั้งทีมจะเพิ่มขึ้น 10% และพลังป้องกันเพิ่มขึ้น 5%</color>
+BuffInfo_DLC攻防兼备_光环,"<#29F161>Attack increases by 10%, Defense increases by 5%</color>",<#29F161>พลังโจมตีเพิ่มขึ้น 10% พลังป้องกันเพิ่มขึ้น 5%</color>
+BuffInfo_DLC战意高扬,"After entering combat, our team's <#29F161>Attack increases by 20%</color>.",หลังจากเข้าสู่การต่อสู้ <#29F161>พลังโจมตีของทั้งทีมเพิ่มขึ้น 20%</color>
+BuffInfo_DLC战意高扬_光环,<#29F161>Attack increases by 20%</color>,<#29F161>พลังโจมตีเพิ่มขึ้น 20%</color>
+BuffInfo_DLC敌意涣散,"After entering combat, the enemy team's <#FE2929>Defense decreases by 20%</color>.",หลังจากเข้าสู่การต่อสู้ <#FE2929>พลังป้องกันของทีมศัตรูจะลดลง 20%</color>
+BuffInfo_DLC敌意涣散_光环,<#FE2929>Defense decreases by 20%</color>,<#FE2929>พลังป้องกันลดลง 20%</color>
+BuffInfo_DLC不世之材,Character's all five-dimensional aptitude +5,คุณสมบัติหลักทั้งห้าของตัวละคร +5
+BuffInfo_DLC势不可挡,Attack+100,พลังโจมตี+100
+BuffInfo_DLC守势如山,Defense+100,พลังป้องกัน+100
+BuffInfo_DLC生机勃勃,HP+500,พลังชีวิต+500
+BuffInfo_DLC动如脱兔,Action Speed+7,ท่าร่าง+7
+BuffInfo_DLC攻势如虹,Attack+70,พลังโจมตี+70
+BuffInfo_DLC钢筋铁骨,Defense+70,พลังป้องกัน+70
+BuffInfo_DLC生龙活虎,HP+350,พลังชีวิต+350
+BuffInfo_DLC速战速决,Action Speed+4,ท่าร่าง+4
+BuffInfo_DLC攻击增强,Attack+40,พลังโจมตี+40
+BuffInfo_DLC防御增强,Defense+40,พลังป้องกัน+40
+BuffInfo_DLC生命增强1,HP+200,พลังชีวิต+200
+BuffInfo_DLC健步如飞,Action Speed+2,ความเร็วท่าร่าง+2
+BuffInfo_dlc内功_儒雅风流,50% chance to increase <#29F161>Critical by 10%</color> when attacking.,มีโอกาส 50 %<#29F161>คริติคอลเพิ่มขึ้น 10%</color>เมื่อโจมตี
+BuffInfo_dlc内功_盛世春秋,"After entering battle, <#29F161>Critical increases by 10%</color>; after triggering Critical, enemy's <#FE2929>Attack decreases by 10%</color>, lasting for one action.",หลังจากเข้าสู่การต่อสู้ <#29F161>การโจมตีคริติคอลเพิ่มขึ้น 10%</color>; หลังจากทำให้เกิดการโจมตีคริติคอล พลังโจมตีของศัตรู <#FE2929>ลดลง 10%</color> คงอยู่ต่อหนึ่งการกระทำ
+BuffInfo_dlc内功_盛世春秋_附属1,<#FE2929>Attack decreases by 10%</color>,<#FE2929>พลังโจมตีลดลง 10%</color>
+BuffInfo_dlc内功_儒十三经,50% chance to Counter when attacked.,เมื่อถูกโจมตี มีโอกาสสวนกลับ 50%
+BuffInfo_dlc内功_凌波诀,"After entering battle, <#29F161>Evasion increases by 5%</color>.",หลังจากเข้าสู่การต่อสู้ <#29F161>โอกาสหลบหลีกเพิ่มขึ้น 5%</color>
+BuffInfo_dlc内功_太极玄,"After each action, <#29F161>energy starts accumulating from 50</color>; when attacked, your <#29F161>energy increases by 50 points</color>.",หลังลงมือแต่ละครั้ง <#29F161>ค่าปราณเคลื่อนที่จะเริ่มต้นที่ 50 หน่วย</color> และเมื่อถูกโจมตี <#29F161>ค่าปราณเคลื่อนที่จะเพิ่มขึ้นอีก 50 หน่วย</color>
+BuffInfo_dlc内功_无极混元功,"After entering battle, <#29F161>Action Speed increases by 20%</color>; when attacking, if Critical is triggered, <#29F161>Combo is guaranteed</color>.",หลังเข้าสู่การต่อสู้ <#29F161>ความเร็วท่าร่างเพิ่มขึ้น 20%</color> เมื่อโจมตี หากเกิดคริติคอล <#29F161>จะโจมตีต่อเนื่องแน่นอน</color>
+BuffInfo_dlc内功_金钟罩,"After entering battle, <#29F161>Parry increases by 5%, Defense increases by 20 points</color>.",หลังเข้าสู่การต่อสู้ <#29F161>ปัดป้องเพิ่มขึ้น 5% พลังป้องกันเพิ่มขึ้น 20 หน่วย</color>
+BuffInfo_dlc内功_横练金身,"After entering battle, <#29F161>Parry increases by 5%</color>; each time you are attacked, 5% of the damage is Reflected back to the attacker.",หลังเข้าสู่การต่อสู้ <#29F161>ปัดป้องเพิ่มขึ้น 5%</color> แต่ละครั้งที่ถูกโจมตี จะสะท้อนความเสียหายกลับไปหาผู้โจมตี 5%
+BuffInfo_dlc内功_大日如来经,"After entering battle, <#29F161>Parry increases by 15%</color>; each time you are attacked, 10% of the damage is Reflected back to the attacker.",หลังเข้าสู่การต่อสู้ <#29F161>ปัดป้องเพิ่มขึ้น 5%</color> แต่ละครั้งที่ถูกโจมตี จะสะท้อนความเสียหายกลับไปหาผู้โจมตี 10%
+BuffInfo_dlc内功_玄煞劲,"Within a 2-tile range of yourself, enemy's <#FE2929>energy decreases by 50 points</color> after each action.",ภายในระยะ 2 ช่องจากรอบตนเอง หลังลงมือ จะ<#FE2929>ลดค่าปราณเคลื่อนที่ของศัตรูลง 50 แต้ม</color>
+BuffInfo_dlc内功_玄煞劲_光环,"After each action, <#FE2929>energy decreases by 50 points</color>.",หลังลงมือ <#FE2929>ลดค่าปราณเคลื่อนที่ลง 50 แต้ม</color>
+BuffInfo_dlc内功_玄阴诀,"After entering battle, <#29F161>Critical increases by 10%</color>; when attacking, if the enemy has ""Weakness"" or ""Slow"" effect, this time <#29F161>Critical increases by 50%, Damage increases by 20%</color>.","หลังเข้าสู่การต่อสู้ <#29F161>คริติคอลเพิ่มขึ้น 10%</color> เมื่อโจมตี หากศัตรูได้รับสถานะ ""อ่อนแอ"" หรือ ""เชื่องช้า"" อยู่ <#29F161>คริติคอลเพิ่มขึ้น 50% ความเสียหายเพิ่มขึ้น 20%</color>"
+BuffInfo_dlc内功_天魔噬魂术,"30% of the damage caused by each attack is converted into your own HP, up to a Recovery of 500 points.",30% ของความเสียหายที่เกิดจากการโจมตีแต่ละครั้ง จะถูกเปลี่ยนเป็นพลังชีวิต HP ของตนเอง สูงสุดไม่เกิน 500
+BuffInfo_dlc内功_洛神步,"After entering battle, <#29F161>Movement Range increases by 2 tiles</color>; after each action, <#29F161>energy starts accumulating from 50</color>.",หลังเข้าสู่การต่อสู้ <#29F161>ระยะการเคลื่อนจะเพิ่มขึ้น 2 ช่อง</color> หลังลงมือแต่ละครั้ง <#29F161>ค่าปราณเคลื่อนที่จะเริ่มต้นที่ 50 </color>
+BuffInfo_dlc内功_霓裳羽衣经,"When attacked, <#FE2929>reduce the attacker's energy by 50~100 points</color>; if Evasion is triggered, randomly <#FE2929>reduce energy by 100~150 points</color>.",เมื่อถูกโจมตี <#FE2929>ลดค่าปราณเคลื่อนที่ของศัตรูลง 50~100 หน่วย</color> หากเกิดหลบหลีก จะ<#FE2929>สุ่มลดค่าปราณเคลื่อนที่ 100~150 หน่วย</color>
+BuffInfo_dlc内功_腐毒功,20% chance to <#FE2929>reduce the attacker's HP by 100 points</color> when attacked.,เมื่อถูกโจมตี มีโอกาส 20% จะ<#FE2929>ลดพลังชีวิต HP ของผู้โจมตีลง 100 หน่วย</color>
+BuffInfo_dlc内功_罗刹毒经,"After entering battle, enemies within a 3-tile range of yourself gain the ""Severe Poison"" effect【<#F3DE99>Severe Poison: Attack decreases by 10%, HP decreases by 100 points after attacking</color>】.","เมื่อเข้าสู่การต่อสู้ ศัตรูภายในระยะ 3 ช่องรอบตัวเอง จะได้รับสถานะ ""พิษร้ายแรง"" 【<#F3DE99>พิษร้ายแรง: พลังโจมตีลดลง 10%,  เมื่อโจมตีจะลด HP ลง 100 หน่วย</color>】"
+BuffInfo_dlc内功_罗刹毒经_光环,"When attacking, <#FE2929>Attack decreases by 10%</color>, and <#FE2929>HP decreases by 100 points</color> after the attack.",เมื่อโจมตี <#FE2929>พลังโจมตีจะลดลง 10%</color> และหลังการโจมตี <#FE2929>พลังชีวิตจะลดลง 100 แต้ม</color>
+BuffInfo_dlc内功_巫蛊毒功,"When attacked, if Evasion or Parry is triggered, the attacker will be inflicted with the ""Voodoo"" effect, lasting for 1 battle [<#F3DE99>Voodoo: Each attack reduces Attack by 10%, the effect can be stacked during the battle</color>]","เมื่อถูกโจมตี หากเกิดหลบหลีกหรือปัดป้อง จะสร้างสถานะ ""คุณไสย"" แก่ผู้โจมตี คงอยู่จนจบการต่อสู้ [<#F3DE99>คุณไสย: ทุกครั้งที่โจมตี พลังโจมตีลดลง 10% สถานะสามารถซ้อนทับได้ระหว่างการต่อสู้</color>】"
+BuffInfo_dlc内功_巫蛊毒功_附属1,Each attack reduces <#FE2929>Attack by 10%</color>.,โจมตีแต่ละครั้ง <#FE2929>ลดพลังโจมตีลง 10%</color>
+BuffInfo_dlc内功_海纳百川,"Each attack gains an additional <#29F161>10% Attack damage</color>, up to a maximum of 50%.",การโจมตีแต่ละครั้ง จะได้รับ<#29F161>ความเสียหายโจมตีเพิ่ม 10%</color> สูงสุดถึง 50%
+BuffInfo_dlc内功_惊涛骇浪诀,"After entering battle, <#29F161>Critical increases by 20%</color>, and there is a <#29F161>20% chance to trigger Counter</color> when attacked.",หลังเข้าสู่การต่อสู้ <#29F161>คริติคอลเพิ่มขึ้น 20% </color> และเมื่อถูกโจมตี มีโอกาส<#29F161> 20% ที่จะเกิดโจมตีสวนกลับ</color>
+BuffInfo_dlc内功_金匮要略,"When HP is below 50%, <#29F161>Recover 50 HP</color> after each action.","เมื่อพลังชีวิตน้อยกว่า 50%,<#29F161>ฟื้นฟูพลังชีวิต 50 หน่วย</color>หลังจบตา"
+BuffInfo_dlc内功_四圣心源,Recover 10% of lost HP after each action.,หลังลงมือแต่ละรอบ จะฟื้นฟู HP ที่เสียไป 10%
+BuffInfo_dlc内功_御兽术,"Summon a Wolf to assist in battle after each action or when attacked, with a maximum of one summon per battle.",เมื่อลงมือหรือถูกโจมตี จะเรียกหมาป่ามาช่วยในการต่อสู้ สูงสุด 1 ตัวต่อการต่อสู้แต่ละครั้ง
+BuffInfo_dlc内功_兽吼功,"Summon a Bear to assist in battle after each action or when attacked, with a maximum of two summons per battle.",เมื่อลงมือหรือถูกโจมตี จะเรียก หมี มาช่วยในการต่อสู้ สูงสุด 2 ตัวต่อการต่อสู้แต่ละครั้ง
+BuffInfo_dlc内功_兽王诀,"When attacking, if the enemy has the ""Tear"" effect, each layer increases <#29F161>Attack damage by 20%</color>. If the enemy has the ""Shock"" effect, each layer increases <#29F161>Critical by 20%</color>. After the attack, the enemy's ""Tear"" and ""Shock"" effects are cleared.",เมื่อโจมตี ศัตรูที่มีสถานะ 'ฉีกขาด' จะเพิ่ม<#29F161>ความเสียหายโจมตี 20%</color> ต่อแต่ละชั้น และศัตรูที่มีสถานะ 'สั่นสะเทือน' จะเพิ่ม<#29F161>อัตราการโจมตีคริติคอล 20%</color> ต่อแต่ละชั้น หลังจากการโจมตี สถานะ 'ฉีกขาด' และ 'สั่นสะเทือน' ของศัตรูจะถูกลบออก
+BuffInfo_dlc内功_捕风诀,"After entering battle, <#29F161>Action Speed increases by 10%</color>.",หลังจากเข้าสู่การต่อสู้ <#29F161>ความเร็วท่าร่างเพิ่มขึ้น 10%</color>
+BuffInfo_dlc内功_凌云步,"Upon entering combat, <#29F161>Movement Range increases by 3 squares</color>.",หลังจากเข้าสู่การต่อสู้ <#29F161>ระยะการเคลื่อนจะเพิ่มขึ้น 3 ช่อง</color>
+BuffInfo_dlc内功_天女散花,"When entering battle with a Dagger-type Weapon, <#29F161>Attack Damage increases by 50%, Combo increases by 50%</color>.","เมื่อเข้าสู่การต่อสู้ โดยใช้อาวุธประเภทมีด, <#29F161>ความเสียหายเพิ่มขึ้น 50% อัตราโจมตีต่อเนื่องเพิ่มขึ้น 50%</color>."
+BuffInfo_dlc内功_莽牛劲,"After entering battle, <#29F161>Attack increases by 5%, Critical increases by 5%</color>.",เมื่อเข้าสู่การต่อสู้ <#29F161>พลังโจมตีเพิ่มขึ้น 5% คริติคอลเพิ่มขึ้น 5%</color>.
+BuffInfo_dlc内功_纯阳功,"During battle, each attack increases <#29F161>Attack by 5%</color>, lasting until the end of the battle.",ในระหว่างการต่อสู้ ทุกครั้งที่โจมตีจะเพิ่ม <#29F161>พลังโจมตีขึ้น 5%</color> และจะคงอยู่จนกว่าการต่อสู้จะสิ้นสุดลง
+BuffInfo_dlc内功_祈禳大法,"After entering battle, <#29F161>Attack increases by 200 points</color>, becomes invincible to Finishing Strike, recovers 50% HP and MP, effective once per battle.",หลังจากเข้าสู่การต่อสู้ <#29F161>พลังโจมตีเพิ่มขึ้น 200 หน่วย</color> ไม่สามารถถูกโจมตีด้วยท่าไม้ตายได้ ฟื้นฟู HP และ MP 50% มีผลเพียงครั้งเดียวต่อการต่อสู้
+BuffInfo_dlc内功_破甲劲,"Each attack inflicts one layer of ""Armor Break"" effect on the enemy [<#F3DE99>Armor Break: Each layer reduces the enemy's Defense by 20 points, lasts for one battle, up to 3 layers</color>]","การโจมตีแต่ละครั้ง จะสร้างสถานะ ""ทลายเกราะ"" แก่ศัตรู [<#F3DE99>ทลายเกราะ: แต่ละชั้น จะลดพลังป้องกันของศัตรูลง 20 หน่วย คงอยู่ตลอดการต่อสู้ สูงสุด 3 ชั้น</color>]"
+BuffInfo_dlc内功_五禽戏,"After entering battle, <#29F161>Attack increases by 5%, Critical increases by 10%</color>.",หลังจากเข้าสู่การต่อสู้ <#29F161>พลังโจมตีเพิ่มขึ้น 5% และอัตราคริติคอลเพิ่มขึ้น 10%</color>
+BuffInfo_dlc内功_调息法,"After each action, recover <#29F161>10% of maximum MP</color>, up to 50 points.",หลังจากการกระทำแต่ละครั้ง ฟื้นฟู <#29F161>10% ของ MP สูงสุด</color> สูงสุด 50 หน่วย
+BuffInfo_dlc内功_天星诀,"When attacking, if current MP is higher than the enemy's current MP, <#29F161>Attack Damage increases by 30%</color>.",เมื่อโจมตี หาก MP ปัจจุบันสูงกว่า MP ของศัตรู <#29F161>การโจมตีสร้างความเสียหายเพิ่มขึ้น 30%</color>
+BuffInfo_dlc内功_剑法典籍,"When attacked by a Sword-type Weapon, <#29F161>Defense increases by 5%</color>.",เมื่อถูกโจมตีด้วยอาวุธประเภทดาบ <#29F161>พลังป้องกันจะเพิ่มขึ้น 5%</color>
+BuffInfo_dlc内功_藏剑秘卷,"When hit by a Sword WeaponAttack, <#29F161>Defense increases by 10%, Parry increases by 10%</color>.",เมื่อถูกโจมตีด้วยอาวุธประเภทดาบ <#29F161>พลังป้องกันจะเพิ่มขึ้น 10% และอัตราการปัดป้องจะเพิ่มขึ้น 10%</color>
+BuffInfo_dlc内功_九霄真经,"When attacked, the enemy's <#FE2929>Critical decreases by 100%</color>, when attacking, your own <#29F161>Attack increases damage by 20%, Critical increases by 20%</color>.","เมื่อถูกโจมตี <#FE2929>คริติคอลของศัตรูลดลง 100%</color> เมื่อโจมตี, <#29F161>การโจมตีสร้างความเสียหายเพิ่มขึ้น 20% และ อัตราคริติคอลเพิ่มขึ้น 20%</color>"
+BuffInfo_dlc内功_寻龙术,"When attacking, if the enemy has ""Unconscious"" or ""Slumber"" effect, then <#29F161>consume 5% of the enemy's maximum MP to replenish your own</color>.","เมื่อโจมตี หากศัตรูมีสถานะ ""หมดสติ"" หรือ ""หลับใหล"" อยู่ การโจมตีจะ <#29F161>ดูดซับ MP 5% ของ Max MP ศัตรู เพื่อฟื้นฟู MP ของตนเอง</color>"
+BuffInfo_dlc内功_莽苍诀,"After each action, <#29F161>recover 15% of lost HP</color>.",หลังลงมือแต่ละรอบ <#29F161>ฟื้นฟู 15% ของ HP ที่เสียไป</color>
+BuffInfo_dlc内功_武穆秘典,"Upon entering battle, <#29F161>Action Speed increases by 10%, Attack increases damage by 20%</color>.","เมื่อเข้าสู่การต่อสู้ <#29F161>ความเร็วในการกระทำเพิ่มขึ้น 10%, และ การโจมตีสร้างความเสียหายเพิ่มขึ้น 20%</color>"
+BuffInfo_dlc内功_满江红,"Upon entering battle, all team Characters gain the ""Encouraged"" effect【<#F3DE99>Encouraged: Attack increases by 10%, Critical increases by 5%, Evasion increases by 5%</color>】",เมื่อเข้าสู่การต่อสู้ ตัวละครทุกตัวในทีมจะได้รับผล “กำลังใจ”【<#F3DE99>กำลังใจ: พลังโจมตีเพิ่มขึ้น 10% อัตราคริติคอลเพิ่มขึ้น 5% อัตราหลบหลีกเพิ่มขึ้น 5%</color>】
+BuffInfo_dlc内功_满江红_光环,"<#29F161>Attack increases by 10%, Critical increases by 5%, Evasion increases by 5%</color>",<#29F161>พลังโจมตีเพิ่มขึ้น 10% อัตราคริติคอลเพิ่มขึ้น 5% อัตราหลบหลีกเพิ่มขึ้น 5%</color>
+BuffInfo_dlc内功_五毒秘法,"When attacked, trigger Parry or Evasion, the attacker gains ""Attack Reduction"" effect【<#F3DE99>Attack Reduction: Attack decreases by 15%, lasts for two actions</color>】","เมื่อถูกโจมตี เกิดปัดป้องหรือหลบหลีก ผู้โจมตีจะได้รับผล ""ลดพลังโจมตี""【<#F3DE99>ลดพลังโจมตี: พลังโจมตีลดลง 15% คงอยู่ 2 รอบ</color>】"
+BuffInfo_dlc内功_火蟾诀,"Upon entering battle, <#29F161>Attack increases by 15%, Critical increases by 10%</color>.",เมื่อเข้าสู่การต่อสู้ <#29F161>พลังโจมตีเพิ่มขึ้น 15% และอัตราคริติคอลเพิ่มขึ้น 10%</color>
+BuffInfo_dlc内功_混元劲,"Upon entering battle, <#29F161>Defense increases by 20 points</color>, when casting martial arts, <#29F161>MP Cost decreases by 20%</color>.",เมื่อเข้าสู่การต่อสู้ <#29F161>การป้องกันจะเพิ่มขึ้น 20 หน่วย</color> และเมื่อใช้วรยุทธ์ <#29F161>ค่า MP จะลดลง 20%</color>
+BuffInfo_dlc内功_圣火燎原,"Upon entering battle, <#29F161>Attack increases by 5%, Parry increases by 10%</color>.",เมื่อเข้าสู่การต่อสู้ <#29F161>พลังโจมตีเพิ่มขึ้น 5% ปัดป้องจะเพิ่มขึ้น 10%</color>
+BuffInfo_dlc内功_圣火神功,"Upon entering battle, <#29F161>Attack increases by 10%</color>, when attacked, the attacker receives <#29F161>300 points of true damage</color>.",เมื่อเข้าสู่การต่อสู้ <#29F161>พลังโจมตีเพิ่มขึ้น 10%</color> เมื่อถูกโจมตี ผู้โจมตีจะได้รับ <#29F161>ความเสียหายจริง 300 หน่วย</color>
+BuffName_DLC先天_无所畏惧,Fearless,ไม่เกรงกลัว
+BuffName_DLC先天_无所畏惧_光环,Action Recovery,ดำเนินการต่อ
+BuffName_DLC先天_忍术迷惑,Ninjutsu Deception,กลลวงนินจา
+BuffName_DLC先天_忍术迷惑_光环,Evasion Increase,หลบหลีกเพิ่มขึ้น
+BuffName_DLC先天_泥牛入海,Into the Abyss,วัวดินจมทะเล
+BuffName_DLC先天_泥牛入海_光环,Into the Abyss,วัวดินจมทะเล
+BuffName_DLC先天_大军压境,Army's Press,กองทัพรายล้อม
+BuffName_DLC先天_忍术鹰击,Ninja Eagle Strike,นินจาอินทรีจู่โจม
+BuffName_DLC先天_算尽天下,Master Tactician,คำนวณสรรพสิ่ง
+BuffInfo_DLC先天_无所畏惧,"After each action, the whole team recovers <#29F161>10% of max HP</color>.",แต่ละครั้งที่ลงมือทั้งทีมจะฟื้นฟู <#29F161>10% ของพลังชีวิตสูงสุด</color>
+BuffInfo_DLC先天_无所畏惧_光环,"After each action, recover <#29F161>10% of max HP</color>.",หลังลงมือ <#29F161>ฟื้นฟู HP ของพลังชีวิตสูงสุด 10%</color>
+BuffInfo_DLC先天_忍术迷惑,"Upon entering battle, the whole team's <#29F161>Evasion increases by 50%</color>.",เมื่อเข้าสู่การต่อสู้ ทั้งทีมของคุณ <#29F161>หลบหลีกเพิ่มขึ้น 50%</color>
+BuffInfo_DLC先天_忍术迷惑_光环,<#29F161>Evasion increases by 50%</color>.,<#29F161>หลบหลีกเพิ่มขึ้น 50%</color>
+BuffInfo_DLC先天_泥牛入海,"Upon entering battle, the enemy team's <#FE2929>Action Speed decreases by 40%</color>",หลังจากเข้าสู่การต่อสู้ ทีมศัตรู<#FE2929>ความเร็วการรวบรวมท่าร่างจะลดลง 40%</color>
+BuffInfo_DLC先天_泥牛入海_光环,<#FE2929>Action Speed decreases by 40%</color>,<#FE2929>ความเร็วท่าร่างลดลง 40%</color>
+BuffInfo_DLC先天_大军压境,"For each additional character on your side, Attack increases by 10%.",หลังจากเข้าสู่การต่อสู้ สำหรับตัวละครที่เป็นมิตรเพิ่มเติมแต่ละตัว พลังโจมตีจะเพิ่มขึ้น 10%
+BuffInfo_DLC先天_忍术鹰击,"After each attack, additionally reduce the enemy's MP by 30% of the damage dealt.",หลังการโจมตีแต่ละครั้ง จะลด MP ของศัตรูลง 30% จากความเสียหาย
+BuffInfo_DLC先天_算尽天下,"After each attack received, additionally increase Attack by 100, Defense by 50, and Action Speed by 5. These effects are cleared after the battle.",แต่ละครั้งที่ถูกโจมตี จะเพิ่มพลังโจมตี 100 แต้ม พลังป้องกัน 50 แต้ม และความเร็วท่าร่าง 5 แต้ม สถานะจะถูกลบออกหลังจบการต่อสู้
+BuffInfo_dlc内功_摩诃无量,Summon ten Swallow Sergeants to assist in battle each time you act or are attacked. This can only be summoned once per battle.,หลังจากลงมือแต่ละครั้งหรือเมื่อถูกโจมตี ทหารกองทัพเยี่ยน จำนวน 10 นายจะถูกเรียกมาช่วยในการต่อสู้ พวกเขาจะถูกเรียกเพียงครั้งเดียวต่อการต่อสู้
+BuffInfo_dlc内功_一刀流,"If the weapon held during an attack is a knife, <#29F161>Damage increases by 150%</color>.",ถ้าหากอาวุธที่ใช้ในการโจมตีคือมีดสั้น <#29F161>ความเสียหายเพิ่มขึ้น 150%</color>
+BuffInfo_dlc内功_九州诀,"After each action, <#29F161>recover 20% of lost HP and MP</color>.",หลังจากลงมือ <#29F161>ฟื้นฟู 20% ของพลังชีวิตและพลังงานภายในที่สูญเสียไป</color>
+BuffInfo_dlc内功_紫薇龙气,"When attacked, <#29F161>damage taken is reduced by 70%</color>.",เมื่อโดนโจมตี <#29F161>พลังป้องกันเพิ่มขึ้น 70%</color>.

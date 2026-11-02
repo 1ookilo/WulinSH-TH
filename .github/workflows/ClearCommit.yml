@@ -1,0 +1,25 @@
+name: ClearCommit
+
+on:
+    schedule:
+       - cron: '0 23 * * 0'
+    workflow_dispatch:
+  
+jobs:
+    cmdclear:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v3      
+        - name: Set up Git user
+          run: |
+            git config --global user.name 'github-actions[bot]'
+            git config --global user.email 'github-actions[bot]@users.noreply.github.com'   
+        - name: Run CMD
+          run: |
+            git checkout --orphan new_main
+            git add .
+            git commit -m "clear commit"    
+            git branch -D main
+            git branch -m main
+            git push -f origin main
