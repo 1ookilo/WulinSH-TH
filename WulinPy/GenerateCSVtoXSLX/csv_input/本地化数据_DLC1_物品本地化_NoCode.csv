@@ -1,0 +1,775 @@
+﻿﻿Consumeable_SlgPersonal,Consumables,ของใช้
+Consumeable_SlgFaction,Sect resources,สมบัติของสำนัก
+CharPropName_SLG_R_SLGCoin,"After use, <color=#F7A337>coin</color>","หลังจากใช้, <color=#F7A337>อีแปะ</color>"
+CharPropName_SLG_R_SLGTribute,"After use, <color=#F7A338>meditation points</color>","หลังจากใช้, <color=#F7A338>ค่าสมาธิ</color>"
+CharPropName_SLG_R_SLGFood,"After use, <color=#F7A339>food</color>","หลังจากใช้, <color=#F7A339>อาหาร</color>"
+CharPropName_SLG_R_SLGMine,"After use, <color=#F7A340>minerals</color>","หลังจากใช้, <color=#F7A340>แร่</color>"
+CharPropName_SLG_R_SLGDrug,"After use, <color=#F7A341>herbs</color>","หลังจากใช้, <color=#F7A341>สมุนไพร</color>"
+CharPropName_SLG_R_SLGWood,"After use, <color=#F7A342>wood</color>","หลังจากใช้, <color=#F7A342>ไม้</color>"
+ItemName_dlc粗布裹手,Simple cloth gloves,ผ้าพันมือธรรมดา
+ItemName_dlc木剑,Wooden sword,ดาบไม้
+ItemName_dlc大砍刀,Big blade,มีดพร้า
+ItemName_dlc震山拳套,Mountain Basher glove,ถุงมือทลายภูผา
+ItemName_dlc铁虎爪,Iron tiger claw,กรงเล็บเสือเหล็ก
+ItemName_dlc奔雷铁手,Quick gauntlet,ถุงมือเหล็กอัสนีบาต
+ItemName_dlc昆仑,Kunlun,ถุงมือคุนหลุน
+ItemName_dlc降龙,Dragon Slayer,ถุงมือพิฆาตมังกร
+ItemName_dlc乾坤,Heaven and Earth,ถุงมือสวรรค์ปฐพี
+ItemName_dlc红缨枪,Red spear,หอกพู่แดง
+ItemName_dlc竹竿,Bamboo stick,ท่อนไม้ไผ่
+ItemName_dlc折扇,Folding fan,พัดด้ามจิ้ว
+ItemName_dlc青罡剑,Blue Steel sword,กระบี่ชิงกัง
+ItemName_dlc倚天剑,Heaven sword,เพลงกระบี่ฟ้ากว้าง
+ItemName_dlc青冥剑,Dawn sword,กระบี่ฟ้าบันดาล
+ItemName_dlc干将,Ganjiang,กระบี่ก้านเจี้ยง
+ItemName_dlc含光,Hidden Light,กระบี่แห่งแสง
+ItemName_dlc鱼肠,Fish Stomach,กระบี่มัจฉา
+ItemName_dlc匕首,Dagger,มีดสั้น
+ItemName_dlc狼毫笔,Wolf hair pen,พู่กันขนหมาป่า
+ItemName_dlc梧桐琴,Parasol Tree,กู่ฉินไม้อู๋ถง
+ItemName_dlc碎宇刀,Rain Breaker,ดาบผ่าจักรวาล
+ItemName_dlc绣春刀,Officer blade,ดาบเจ้าหน้าที่
+ItemName_dlc修罗刀,Shura blade,ดาบอสุรา
+ItemName_dlc大夏龙雀,Summer Sparrow,ดาบมังกรวิหคชาด
+ItemName_dlc犬神刀,Canine God,ดาบเขี้ยวเทพสุนัข
+ItemName_dlc龙牙刀,Dragon Tooth,ดาบเขี้ยวมังกร
+ItemName_dlc木箫,Wooden flute,ขลุ่ยไม้
+ItemName_dlc花梨琵琶,Pear lute,ผีผาไม้ชิงชัน
+ItemName_dlc窄袖衣,Female clothes,เสื้อสตรี
+ItemName_dlc梨花枪,Pear Blossom,หอกหลีฮวา
+ItemName_dlc霸王枪,Emperor Spear,หอกจักรพรรดิ
+ItemName_dlc亮银枪,Luminous Spear,หอกจรัสแสง
+ItemName_dlc句芒,Jumang,หอกเทพเจ้าจูมัง
+ItemName_dlc方天画戟,Heaven Halberd,ง้าวกรีดนภา
+ItemName_dlc龙胆,Dragon Courage,หอกมังกรหาญ
+ItemName_dlc绢麻衣,Linen clothes,เสื้อผ้าลินิน
+ItemName_dlc护心铠,Protection armor,เกราะป้องกัน
+ItemName_dlc彩绣香囊,Embroidered sachet,ซองปักปราณีต
+ItemName_dlc盘龙棍,Dragon staff,พลองมังกร
+ItemName_dlc齐天棍,Heaven staff,พลองสวรรค์
+ItemName_dlc金箍铁棒,Gold-Banded Iron Staff,ไม้เท้าเหล็กห่วงทองคำ
+ItemName_dlc烛阴,Zhuyin,คบเพลิงมังกรจูหลง
+ItemName_dlc定海神针,Dinghai Shenzhen,เสาค้ำทะเลตงไห่
+ItemName_dlc镇岳,Mountain Suppressor,กระบองสยบภูผา
+ItemName_dlc粗糙的护身符,Simple Safe-keeping Charm,เครื่องรางเรียบง่าย
+ItemName_dlc香包,Sachet,ถุงเครื่องหอม
+ItemName_dlc花环,Wreath,พวงมาลา
+ItemName_dlc西江月,Moon over West River,จันทราเหนือธาราตะวันตก
+ItemName_dlc满江红,Prismatic River,พัดแม่น้าสีชาด
+ItemName_dlc破阵子,Formation Breaker,พัดฝ่าขบวนรบ
+ItemName_dlc祝融,Zhurong,พัดเทพจู้หรง
+ItemName_dlc夸父,Kuafu,พัดเซียนควาฟู่
+ItemName_dlc青丘,Qingqiu,พัดชิงชิว
+ItemName_dlc艾草束,Wormwood bundle,พวงบอระเพ็ด
+ItemName_dlc铁手,Iron fist,ถุงมือเหล็ก
+ItemName_dlc缠丝拳套,Silk glove,ถุงมือผ้าไหม
+ItemName_dlc飞来梭,Flying dagger,มีดบิน
+ItemName_dlc流云锥,Drifting Cloud,กริชเกลียวเมฆาไหล
+ItemName_dlc织女梭,Weaver Girl,กระสวยสาวทอผ้า
+ItemName_dlc嘲风,Wind Jester,เฉาเฟิง
+ItemName_dlc精卫,Jingwei,จิงเว่ย
+ItemName_dlc睚眦,Vengeful,หยาจื้อ
+ItemName_dlc白虹剑,Rainbow sword,กระบี่รุ้งขาว
+ItemName_dlc紫电剑,Lightning sword,กระบี่อัสนีม่วง
+ItemName_dlc砍山刀,Mountain blade,ดาบภูเขา
+ItemName_dlc鸡距,Cockspur,พู่กันเดือยไก่
+ItemName_dlc龙须,Dragon Whisker,พู่กันหนวดมังกร
+ItemName_dlc麟角,Unicorn Horn,พู่กันเขากิเลน
+ItemName_dlc太虚,Taixu,พู่กันไท่ซวี
+ItemName_dlc玄黄,Mysterious Yellow,พู่กันเหลืองลึกลับ
+ItemName_dlc洪荒,Primal Land,พู่กันบรรพกาล
+ItemName_dlc九环刀,Nine rings blade,ดาบเก้าห่วง
+ItemName_dlc蛇矛枪,Snake spear,หอกงู
+ItemName_dlc混铁枪,Iron spear,หอกเหล็ก
+ItemName_dlc春雷,Spring Thunder,กู่ฉินสายฟ้าลั่นในวสันตฤดู
+ItemName_dlc焦尾,Scorched Tail,กู่ฉินหางไหม้
+ItemName_dlc绿绮,Green Beauty,กู่ฉินลายไม้เขียว
+ItemName_dlc绕梁,Lingering,กู่ฉินสะท้านภพ
+ItemName_dlc号钟,Bell Sound,กู่ฉินระฆังกังวาน
+ItemName_dlc囚牛,Qiuniu,กู่ฉินมังกรฉิวหนิว
+ItemName_dlc镔铁杖,Steel staff,พลองเหล็ก
+ItemName_dlc齐眉棍,Eyebrow staff,พลองเสมอคิ้ว
+ItemName_dlc雕翎扇,Eagle feather fan,พัดขนนกอินทรี
+ItemName_dlc枉凝眉,Vain Eyebrows,ขลุ่ยคิ้วขมวด
+ItemName_dlc关山月,Mountain Moon,ขลุ่ยภูผาจันทรา
+ItemName_dlc冷沧浪,Blue Waves,ขลุ่ยคลื่นคราม
+ItemName_dlc有凤来仪,Phoenix's Grace,ขลุ่ยห้วงวิหคเพลิง
+ItemName_dlc碧海潮声,Sound of the Tide,ขลุ่ยคลื่นมรกต
+ItemName_dlc笑傲江湖,Proud Wanderer,ขลุ่ยเย้ยยุทธจักร
+ItemName_dlc留香扇,Liuxiang fan,พัดธูป
+ItemName_dlc狼牙匕,Wolf fang dagger,มีดเขี้ยวหมาป่า
+ItemName_dlc三棱锥,Tri-dagger,ไตรกริช
+ItemName_dlc双凤琵琶,Twin Phoenix lute,ผีผาหงส์คู่
+ItemName_dlc绕殿雷,Circling Thunder,ผีผาก้องอัสนี
+ItemName_dlc烧槽,Burning Hole,ผีผาหลุมไหม้
+ItemName_dlc玄象,Mysterious Elephant,ผีผาทางช้างเผือก
+ItemName_dlc青山,Blue Mountain,ผีผาภูผามรกต
+ItemName_dlc狮子丸,Lion Ball,ผีผาลูกแก้วราชสีห์
+ItemName_dlc圆锋,Round Edge,พู่กันขอบกลม
+ItemName_dlc昌化,Changhua,พู่กันจังฮวา
+ItemName_dlc七弦,Seven Strings,กู่ฉิน 7 สาย
+ItemName_dlc独幽,Loneliness,กู่ฉินเดียวดาย
+ItemName_dlc紫竹箫,Violet bamboo flute,ขลุ่ยไม้ไผ่ม่วง
+ItemName_dlc玉屏箫,Jade flute,ขลุ่ยหยก
+ItemName_dlc牛角琵琶,Ox horn lute,ผีผาเขาวัว
+ItemName_dlc流云衫,Drifting Cloud robe,เสื้อคลุมเคลื่อนเมฆา
+ItemName_dlc金刚甲,Diamond armor,เกราะวัชระ
+ItemName_dlc明光铠,Glorious armor,เกราะเจิดจรัส
+ItemName_dlc朱雀服,Phoenix outfit,ชุดวิหคเพลิง
+ItemName_dlc麒麟甲,Unicorn armor,เกราะกิเลน
+ItemName_dlc玄武铠,Turtle armor,เกราะเต่าดำ
+ItemName_dlc紫罗裙,Purple dress,ชุดแพรม่วง
+ItemName_dlc天蚕宝衣,Silk armor,เกราะอ่อนขนเม่น
+ItemName_dlc霹雳宝铠,Thunder armor,เกราะอัสนีบาต
+ItemName_dlc锦襕袈裟,Brocade Kasaya,จีวรผ้าปักไหมทอง
+ItemName_dlc广袖流仙裙,Wide Sleeve Flowing Fairy Skirt,ชุดเทพธิดาพริ้ว
+ItemName_dlc象牙琵琶,Elephant tooth lute,ผีผางาช้าง
+ItemName_dlc精铁内甲,Steel armor,เกราะเหล็ก
+ItemName_dlc锁子铠,Chain armor,เกราะโซ่
+ItemName_dlc僧袍,Monk robe,จีวร
+ItemName_dlc道袍,Taoist robe,เสื้อคลุมลัทธิเต๋า
+ItemName_dlc佛手玉坠,Buddha earrings,จี้หยกพระหัตถ์
+ItemName_dlc投名状,Nomination Certificate,ใบรับรองความภักดี
+ItemName_dlc工字佩,"""GONG"" inscripted jade ornament",จี้รูปตัว 工
+ItemName_dlc三彩乐俑,Three colors statue,รูปปั้นตุ๊กตาสามสี
+ItemName_dlc三足金蟾,Three-legged golden toad,คางคกทองสามขา
+ItemName_dlc双鱼玉佩,Yin Yang jade ornament,จี้หยกหยินหยาง
+ItemName_dlc玉莲花,Lotus gem,จี้หยกบัวหลวง
+ItemName_dlc滴水观音,Water Avalokitesvara,จี้หยดน้ำเจ้าแม่กวนอิม
+ItemName_dlc玉辟邪,Exorcist gem,หยกปัดเป่าสิ่งชั่วร้าย
+ItemName_dlc金雕长羽,Golden eagle feather,ขนอินทรีทอง
+ItemName_dlc玉如意,Wish gem,หยกปรารถนา
+ItemName_dlc寒玉玦,Cold gem,ข้อมือหยกเย็น
+ItemName_dlc金蚕蛊,Golden silkworm,กู่พิษหนอนไหมทอง
+ItemName_dlc凤鸟玉佩,Phoenix jade ornament,จี้หยกหงสา
+ItemName_dlc天穹之印,Seal of the Sky,ตราประทับแห่งสวรรค์
+ItemName_dlc金疮药(小),Healing powder,ยาผงสมานแผล
+ItemName_dlc金疮药(中),Healing medicine,ยาสมานแผล
+ItemName_dlc金疮药(大),Stardew pill,โอสถน้ำค้างหยก
+ItemName_dlc续命丸(小),Regenerate Powder,ยาผงฟื้นฟู
+ItemName_dlc续命丸(中),Life preservation pill,โอสถบำรุงชีวิต
+ItemName_dlc续命丸(大),Revival pill,โอสถฟื้นชีพ
+ItemName_dlc培元膏(小),Qi Supplementing Pill,เม็ดยาฟื้นฟูปราณ
+ItemName_dlc培元膏(中),Healing ointment,ยาปรับลมปราณ
+ItemName_dlc培元膏(大),Recovery pill,โอสถฟื้นฟูปราณ
+ItemName_dlc聚元丹(小),Energy powder,ยาผงฟื้นฟูปราณ
+ItemName_dlc聚元丹(中),Breath Recovery Powder,ยาผงฟื้นลมหายใจ
+ItemName_dlc聚元丹(大),Cultivation Powder,ยาบำเพ็ญเซียน
+ItemName_dlc小还丹(小),Small pill,โอสถคืนพลังเล็ก
+ItemName_dlc小还丹(中),Big pill,โอสถคืนพลังใหญ่
+ItemName_dlc小还丹(大),Nine-times refined pill,โอสถเม็ดทองคำเก้าครา
+ItemName_dlc大还丹(小),Fragrance preservation pill,โอสถหอมรักษาสวรรค์
+ItemName_dlc大还丹(中),Heavenly King Heart Supplementing Pill,โอสถบำรุงหัวใจจักรพรรดิ์สวรรค์
+ItemName_dlc大还丹(大),Full recovery pill,โอสถฟื้นคืนสวรรค์
+ItemName_dlc蜜饯果子,Candied fruit,ผลไม้เชื่อม
+ItemName_dlc雕花橙子,Carved orange,ส้มแกะสลัก
+ItemName_dlc雪花糕,Milk snow cake,ขนมนมหิมะ
+ItemName_dlc铜钱包裹(小),RareCoin supply,เสบียงเหรียญหายาก
+ItemName_dlc铜钱包裹(中),EpicCoin supply,เสบียงเหรียญมหากาพย์
+ItemName_dlc铜钱包裹(大),LegendaryCoin supply,เสบียงเหรียญตำนาน
+ItemName_dlc发展包裹(小),Rare meditation point supply,เสบียงแต้มสมาธิหายาก
+ItemName_dlc发展包裹(中),Epic meditation point supply,เสบียงแต้มสมาธิมหากาพย์
+ItemName_dlc发展包裹(大),Legendary meditation point supply,เสบียงแต้มสมาธิตำนาน
+ItemName_dlc粮食包裹(小),Rare food supply,เสบียงอาหารหายาก
+ItemName_dlc粮食包裹(中),Epic food supply,เสบียงอาหารมหากาพย์
+ItemName_dlc粮食包裹(大),Legendary food supply,เสบียงอาหารตำนาน
+ItemName_dlc矿物包裹(小),Rare mineral supply,เสบียงแร่หายาก
+ItemName_dlc矿物包裹(中),Epic mineral supply,เสบียงแร่มหากาพย์
+ItemName_dlc矿物包裹(大),Legendary mineral supply,เสบียงแร่ตำนาน
+ItemName_dlc药材包裹(小),RareHerb supply,เสบียงสมุนไพรหายาก
+ItemName_dlc药材包裹(中),EpicHerb supply,เสบียงสมุนไพรมหากาพย์
+ItemName_dlc药材包裹(大),LegendaryHerb supply,เสบียงสมุนไพรตำนาน
+ItemName_dlc木材包裹(小),RareWood supply,เสบียงไม้หายาก
+ItemName_dlc木材包裹(中),EpicWood supply,เสบียงไม้มหากาพย์
+ItemName_dlc木材包裹(大),LegendaryWood supply,เสบียงไม้ตำนาน
+ItemName_dlc武道源流(小),Combat technique,ประสบการณ์การต่อสู้
+ItemName_dlc武道源流(中),Combat arts,ศาสตร์แห่งการต่อสู้
+ItemName_dlc武道源流(大),Way of combat,วิถีแห่งการต่อสู้
+ItemName_dlc铜钱,Coin,อีแปะ
+ItemName_dlc贡献点,Contribution Points,แต้มผลงาน
+ItemName_dlc食物,Food,อาหาร
+ItemName_dlc铁矿,Minerals,แร่
+ItemName_dlc药品,Herb,สมุนไพร
+ItemName_dlc木材,Wood,ไม้
+ItemName_dlc破空梭,Wind Breaker,ผ่าวายุ
+ItemName_dlc疾风刺,Wind Stab,แทงวายุกระโชก
+ItemName_dlc龙蛇笔法,Dragon Snake Pen,พู่กันงูมังกรร่ายรำ
+ItemName_dlc狂风扇诀,Tornado Fan,พัดวายุคลั่ง
+ItemName_dlc流云飞扇,Drifting Cloud Fan,พัดเมฆาล่องลอย
+ItemName_dlc阳春白雪,Spring White Snow,หิมะในฤดูใบไม้ผลิ
+ItemName_dlc碧涧流泉,Flowing Mountain Stream,ลำธารภูเขาน้ำตก
+ItemName_dlc暗香凌波,Hidden Fragrance Wave,คลื่นซ่อนหอม
+ItemName_dlc泛沧浪,Floating Blue,เกลียวคลื่น
+ItemName_dlc阳关三叠,Triassis Yangguan,ด่านหยางกวนสามท่อน
+ItemName_dlc音波功,Soundwave Attack,พลังคลื่นเสียง
+ItemName_dlc一指禅,Zen Finger,ฌานหนึ่งดรรชนี
+ItemName_dlc罗汉拳法,Arhat Fist,หมัดอรหันต์
+ItemName_dlc雷云掌,Thundercloud Palm,ฝ่ามือเมฆาอัสนี
+ItemName_dlc七巧如意手,Dexterous Hand,หัตถ์เจ็ดปรารถนา
+ItemName_dlc逍遥拳法,Carefree Fist,หมัดสราญรมย์
+ItemName_dlc黑虎拳,Black Tiger Fist,หมัดพยัคฆ์ทมิฬ
+ItemName_dlc迷魂毒掌,Enchanted Poison Palm,ฝ่ามือพิษลวงวิญญาณ
+ItemName_dlc连环掌,Continuous Palm,ฝ่ามือต่อเนื่อง
+ItemName_dlc开山刀法,Mountain Clear Blade,ดาบสะบั้นภูผา
+ItemName_dlc破甲刀法,Armor Breaker Blade,ดาบผ่าเกราะ
+ItemName_dlc雁行刀法,Wild Goose Blade,ดาบห่านป่า
+ItemName_dlc风沙刀法,Sandstorm Blade,ดาบพายุทราย
+ItemName_dlc修罗刀法,Shura Blade,เพลงดาบอสุรา
+ItemName_dlc太乙剑法,Taiyi Sword,เพลงกระบี่ไทยี่
+ItemName_dlc浣纱剑法,Huansha Sword,กระบี่ล่าสังหาร
+ItemName_dlc须弥剑法,Sumeru Sword,เพลงกระบี่เขาพระสุเมรุ
+ItemName_dlc九宫剑法,Nine Diagrams Sword,กระบี่เก้าลักษณ์
+ItemName_dlc回风剑法,Wind Reversal Sword,กระบี่ลมหวน
+ItemName_dlc莲花妙剑,Lotus Flower Sword,เพลงกระบี่ดอกบัว
+ItemName_dlc游龙剑法,Dragon Roaming Sword,กระบี่มังกรร่ายรำ
+ItemName_dlc大力棍法,Brutal Staff,กระบองพิฆาต
+ItemName_dlc破阵大枪,Formation Breaker Spear,หอกทลายทัพ
+ItemName_dlc腐尸枪法,Rotting Spear,เพลงหอกสลายซาก
+ItemName_dlc普渡杖法,Enlighten Staff,ไม้เท้ารู้แจ้ง
+ItemName_dlc蟠龙棍法,Dragon Staff,พลองมังกร
+ItemName_dlc韦陀杖法,Veda Staff,พลองพระเวท
+ItemName_dlc六合枪法,Six Forms Spear,หอกหกประสาน
+ItemName_dlc儒雅风流,Elegant Romanticist,หรูหราสง่างาม
+ItemName_dlc凌波诀,Wave Rider Technique,วิชาทะยานคลื่น
+ItemName_dlc金钟罩,Golden Bell Technique,ระฆังทองคุ้มกาย
+ItemName_dlc腐毒功,Poison Technique,วิชาพิษกัดกร่อน
+ItemName_dlc金匮要略,Golden Manual,ตำรายาห้องทอง
+ItemName_dlc玄煞劲,Nether Killing Force,ปราณปรโลกสังหาร
+ItemName_dlc捕风诀,Wind Walker Manual,เคล็ดวิชาเหยียบวายุ
+ItemName_dlc莽牛劲,Ox Power,พลังวัวคลั่ง
+ItemName_dlc破甲劲,Armor Breaker Move,วิชาทลายเกราะ
+ItemName_dlc剑法典籍,Sword Mastery,วิชากระบี่พื้นฐาน
+ItemName_dlc混元劲,Origin Technique,พลังต้นกำเนิด
+ItemName_dlc御兽术,Beast Taming Skill,วิชาฝึกสัตว์
+ItemName_dlc调息法,Breathing Technique,เคล็ดปรับลมหายใจ
+ItemName_dlc云龙三现,Cloud Dragon Three Strikes,สามมังกรเมฆาจู่โจม
+ItemName_dlc银蛇流光,Silver Snake Mirage,เงาคลื่นอสรพิษเกล็ดเงิน
+ItemName_dlc风雷刺法,Thunderstorm Strike,แทงวายุพิฆาตอัสนี
+ItemName_dlc曹全碑,Cao Quan Steele,จารึกเฉาฉวน
+ItemName_dlc逍遥游,Carefree Life,อิสระจร
+ItemName_dlc风卷残云式,Storming Cloud Fan,พายุพัดเมฆากระหน่ำ
+ItemName_dlc汉宫秋月,Autumn Palace Moon,พระราชวังฮั่นในคืนพระจันทร์สารท
+ItemName_dlc鹧鸪天,Partridge Day,หยางกุ้ยเฟยร่ำเมรัย
+ItemName_dlc蝶舞天涯,Dancing Butterfly Over Skyline,ระบำผีเสื้อเหนือเส้นขอบฟ้า
+ItemName_dlc梅花三弄,Plum Flower Three Lanes,ตำนานรักดอกเหมย
+ItemName_dlc高山流水,Mountain and River,เขาสูงธารน้ำไหล
+ItemName_dlc般若掌,Prajna Palm,ฝ่ามือปัญญา
+ItemName_dlc断魂爪,Soul Destroyer Claw,กรงเล็บสะบั้นวิญญาณ
+ItemName_dlc破空拳,Breakthrough Fist,หมัดทลายนภา
+ItemName_dlc通天手,Omnipotent Hand,หัตถ์ทงเทียน
+ItemName_dlc大力金刚掌,Powerful Diamond Palm,ฝ่ามือวชิระ
+ItemName_dlc伤情别离掌,Breakup Palm,ฝ่ามือกำสรด
+ItemName_dlc醉仙拳,Wine God Fist,หมัดเซียนเมามาย
+ItemName_dlc太极拳,Taichi Fist,หมัดไทเก๊ก
+ItemName_dlc碧落黄泉,Death Road,เส้นทางมรณะ
+ItemName_dlc怒流刀法,Furious Blade,ดาบพายุคลั่ง
+ItemName_dlc霹雳刀法,Thunder Blade,ดาบอัสนี
+ItemName_dlc破军刀法,Ruinous Star Blade,ดาบทลายทัพ
+ItemName_dlc盘空刀法,Empty Blade,ดาบเวียนนภา
+ItemName_dlc七旋斩,Seven Spins Blade,7 ดาบหมุนเวียน
+ItemName_dlc碧磷刀法,Jade Blade,ดาบพิษมรกต
+ItemName_dlc太极剑法,Taichi Sword,กระบี่ไทเก๊ก
+ItemName_dlc素女剑法,Pure Maiden Sword,กระบี่ดรุณีใจสงบ
+ItemName_dlc贪狼剑法,Flirting Star Sword,กระบี่หยอกดารา
+ItemName_dlc求败九式,Dugu Nine Swords,เก้ากระบี่เดียวดาย
+ItemName_dlc岁寒三友,Three Friends of Winter,สามสหายเหมันต์
+ItemName_dlc凌尘剑法,Mortal Sword,เพลงกระบี่ธุลีดิน
+ItemName_dlc苍穹剑法,Heaven Sword,เพลงกระบี่ฟ้ากว้าง
+ItemName_dlc无锋剑法,Windless Sword,เพลงกระบี่ไร้คม
+ItemName_dlc广寒剑法,Moon Palace Sword,เพลงกระบี่วังจันทรา
+ItemName_dlc太虚十八剑,Taixu Eighteen Swords,ไท่ซวีสิบแปดกระบี่
+ItemName_dlc星月剑法,Moon Star Sword,กระบี่จันทร์ดารา
+ItemName_dlc忘忧剑法,Forgotten Sword,เพลงกระบี่ลืมทุกข์
+ItemName_dlc黄泉引路枪,Death Bringer Spear,หอกเบิกทางยมโลก
+ItemName_dlc云林棍法,Cloud Forest Staff,พลองป่าเมฆา
+ItemName_dlc混元棍法,Origin Staff,พลองรวมศูนย์
+ItemName_dlc叶家枪法,Ye Family Spear,เพลงหอกสกุลเย่
+ItemName_dlc七杀枪法,Power Star Spear,หอกเจ็ดพิฆาต
+ItemName_dlc疯魔棍法,Insanity Staff,พลองมารคลั่ง
+ItemName_dlc金刚降魔杵,Evil Destroyer Diamond Staff,พลองวชิระสยบมาร
+ItemName_dlc紧那罗王棍,Kinnara Staff,พลองราชากินนร
+ItemName_dlc盛世春秋,Glorious Era,ยุคทองอันเจิดจรัส
+ItemName_dlc太极玄,Nether Taichi,พลังไท้เก๊ก
+ItemName_dlc横练金身,Forging Golden Body,กายาวัชระทองคำ
+ItemName_dlc洛神步,God Step,ท่าเท้าเทพธิดา
+ItemName_dlc五毒秘法,Five Poisons Secret Move,วิชาลับเบญจพิษ
+ItemName_dlc纯阳功,Pure Yang Skill,พลังหยางบริสุทธิ์
+ItemName_dlc四圣心源,Four Saints Origin,สี่หัวใจศักดิ์สิทธิ์
+ItemName_dlc凌云步,Cloud Walker Step,ทะยานบันไดเมฆา
+ItemName_dlc玄阴诀,Nether Yin Manual,เคล็ดหยินเร้นลับ
+ItemName_dlc藏剑秘卷,Hidden Sword Secret Manual,คัมภีร์ลับกระบี่ซ่อน
+ItemName_dlc寻龙术,Dragon Seeker Manual,ล่าหลุมฝังมังกร
+ItemName_dlc武穆秘典,Yue Fei Secret Manual,ตำราลับงักฮุย
+ItemName_dlc莽苍诀,Reckless Sky Technique,เคล็ดฟ้าประมาท
+ItemName_dlc圣火燎原,Holy Flame Spreading,ประกายเพลิงศักดิ์สิทธิ์
+ItemName_dlc罗刹毒经,Raksha Poison Sutra,รากษกพิษยสูตร
+ItemName_dlc火蟾诀,Flame Toad Technique,พลังคางคกอัคคี
+ItemName_dlc兽吼功,Beast Howling Move,ราชสีห์คำราม
+ItemName_dlc海纳百川,Great Ocean Manual,พลังรวมสมุทร
+ItemName_dlc五禽戏,Five Animal Forms,กายบริหารห้าสัตว์
+ItemName_dlc天星诀,Celestial Star Manual,เคล็ดวิชาดาวสวรรค์
+ItemName_dlc刺秦要诀,Killer's Secret,คัมภีร์ลับสังหารฉิน
+ItemName_dlc江山多娇,Country Full of Beauties,แผ่นดินที่งดงาม
+ItemName_dlc扇舞春秋,Spring and Autumn Fan,ระบำพัดสารทวสันต์
+ItemName_dlc天外流星,Meteor from Outer Space,วิชาดาวตกนอกฟ้า
+ItemName_dlc蝶恋花,Flirting Butterfly,ผีเสื้อเหย้าบุปผา
+ItemName_dlc十面埋伏,Full Directional Ambush,ซุ่มจู่โจมทั้งสิบทิศ
+ItemName_dlc广陵散,Guangling Melody,ลำนำแห่งกว่างหลิง
+ItemName_dlc傲江湖,Proud Wanderer,เย้ยยุทธจักร
+ItemName_dlc万蛊谣,Ancient Song,ลือเรื่องหมื่นพิษ
+ItemName_dlc灭天掌,Sky Destroyer Palm,ฝ่ามือทลายสวรรค์
+ItemName_dlc如来神掌,Vairocana Godly Palm,ฝ่ามือยูไล
+ItemName_dlc撼天指法,Heaven Shaking Finger,ดรรชนีสะเทือนฟ้า
+ItemName_dlc烈阳拳,Solar Fist,หมัดสุรีย์ผลาญ
+ItemName_dlc贯云指,Cloud Piercing Finger,ดรรชนีทะลวงเมฆา
+ItemName_dlc紫薇惊龙掌,Dragon King Palm,ฝ่ามือราชันมังกร
+ItemName_dlc吞鲸刀法,Devouring Blade,ดาบกลืนกิน
+ItemName_dlc斩天刀法,Heaven Cutting Blade Technique,เพลงดาบผ่าสวรรค์
+ItemName_dlc天魔刀法,Archdemon Blade,ดาบมารสวรรค์
+ItemName_dlc一刀斩,One Blade,พิฆาตในดาบเดียว
+ItemName_dlc无极剑法,Infinity Sword,เพลงกระบี่ไร้ขอบเขต
+ItemName_dlc磐龙剑法,Dragon Sword,เพลงกระบี่มังกร
+ItemName_dlc破天剑法,Sky Breaker Sword,เพลงกระบี่ทลายฟ้า
+ItemName_dlc浮华掠影剑,Illusion Sword,เพลงกระบี่มายาลวง
+ItemName_dlc九黎巫叉,Jiuli Trident,หอกตรีศูลจิ่วลี่
+ItemName_dlc天罡飞龙杖,Polaris Wyvern Staff,ไม้เท้ามังกรสวรรค์
+ItemName_dlc沥泉枪法,Slipstream Spear,วิชาหอกธาราหยด
+ItemName_dlc达摩杖法,Dharma Staff,ไม้เท้าโพธิธรรม
+ItemName_dlc儒十三经,Confucius Thirteen Sutras,ขงจื้อสิบสามคัมภีร์
+ItemName_dlc无极混元功,Infinity Origin Move,พลังรวมศูนย์ไร้สิ้นสุด
+ItemName_dlc大日如来经,Vairocana Solar Sutra,ไวโรจนะมหาสูตร
+ItemName_dlc天魔噬魂术,Archdemon's Soul Eating Skill,มารฟ้ากลืนวิญญาณ
+ItemName_dlc霓裳羽衣经,Dancing Garment Sutra,คัมภีร์อาภรณ์ร่ายรำ
+ItemName_dlc巫蛊毒功,Ancient Sage Poison Technique,มนตร์พิษโบราณ
+ItemName_dlc惊涛骇浪诀,Tsunami Manual,คลื่นพายุกระหน่ำ
+ItemName_dlc兽王诀,Beast King Technique,วิชาราชาสัตว์ร้าย
+ItemName_dlc天女散花,Celestial Lady Scattering Flowers,เทพธิดาโปรยบุปผา
+ItemName_dlc九霄真经,Heaven Sutra,คัมภีร์เก้าชั้นฟ้า
+ItemName_dlc满江红扇,Prismatic River Fan,พัดแม่น้าสีชาด
+ItemName_dlc圣火神功,Holy Fire Divine Skill,พลังเพลิงศักดิ์สิทธิ์
+ItemName_dlc祈禳大法,Prayer Manual,คัมภีร์ภาวนา
+ItemName_dlc万民掌,People's Palm,ฝ่ามือมวลชน
+ItemName_dlc无名剑法,Nameless Sword,เพลงกระบี่ไร้นาม
+ItemName_dlc蛮荒霸道斩,Savage Primal Blade,ดาบพิฆาตอำมหิต
+ItemName_dlc百鸟朝凰枪,Phoenix Ascension Spear,หอกร้อยวิหคเพลิงสวรรค์
+ItemName_dlc分光流星刺,Luminary Meteor Strike,พายุดาวตกกระจายแสง
+ItemName_dlc笑红尘,Laughing at the World,ยิ้มเยาะโลก
+ItemName_dlc玛瑙,Agate,โมรา
+ItemName_dlc猫眼石,Opal,โอปอล
+ItemName_dlc孔雀石,Malachite,แร่นกยูง
+ItemName_dlc天珠,Dzi bead,ลูกปัดหินซี
+ItemName_dlc武林凭证,Martial World Certificate,เหรียญยุทธภพ
+ItemName_dlc真·虚日鼠兽环,True Animal Ring - The Mouse,แหวนนักษัตรแท้ - ชวด
+ItemName_dlc真·牛金牛兽环,True Animal Ring - The Ox,แหวนนักษัตรแท้ - ฉลู
+ItemName_dlc真·尾火虎兽环,True Animal Ring - The Tiger,แหวนนักษัตรแท้ - ขาล
+ItemName_dlc真·房日兔兽环,True Animal Ring - The Rabbit,แหวนนักษัตรแท้ - เถาะ
+ItemName_dlc真·亢金龙兽环,True Animal Ring - The Dragon,แหวนนักษัตรแท้ - มะโรง
+ItemName_dlc真·翼火蛇兽环,True Animal Ring - The Snake,แหวนนักษัตรแท้ - มะเส็ง
+ItemName_dlc真·星日马兽环,True Animal Ring - The Horse,แหวนนักษัตรแท้ - มะเมีย
+ItemName_dlc真·鬼金羊兽环,True Animal Ring - The Goat,แหวนนักษัตรแท้ - มะแม
+ItemName_dlc真·觜火猴兽环,True Animal Ring - The Monkey,แหวนนักษัตรแท้ - วอก
+ItemName_dlc真·昴日鸡兽环,True Animal Ring - The Rooster,แหวนนักษัตรแท้ - ระกา
+ItemName_dlc真·娄金狗兽环,True Animal Ring - The Dog,แหวนนักษัตรแท้ - จอ
+ItemName_dlc真·室火猪兽环,True Animal Ring - The Pig,แหวนนักษัตรแท้ - กุน
+ItemInfo_dlc粗布裹手,"Just a cloth strip wrapped around the hand, even street thugs do this when they fight.",แค่ผ้าพันรอบมือ แม้แต่อันธพาลข้างถนนก็ยังทำแบบนี้เวลาทะเลาะกัน
+ItemInfo_dlc木剑,A rough short sword made from a branch.,กระบี่สั้นหยาบๆ ที่ทำจากกิ่งไม้
+ItemInfo_dlc大砍刀,"A common Big blade, ordinary households use it to chop wood for Lumbering.",มีดพร้าธรรมดาๆ เล่มหนึ่ง ที่คนทั่วไปใช้สำหรับตัดไม้ทำฟืน
+ItemInfo_dlc震山拳套,"Can exert tremendous power, the effect is even better for those with deep MP.",สามารถปลดปล่อยพลังมหาศาล หากผู้ใช้มีพลังภายในล้ำลึก ผลลัพธ์จะยิ่งทรงพลังขึ้น
+ItemInfo_dlc铁虎爪,"Hand claws made of cold iron, sharp tips, like a tiger's bite.",กรงเล็บมือทำจากเหล็กเย็น กรงเล็บแหลมคมดุจเขี้ยวเสือ
+ItemInfo_dlc奔雷铁手,"Taking the power of heavenly thunder, it strikes like a wind and thunder, determining heaven and earth with one hit.",ด้วยพลังแห่งสายฟ้าจากสวรรค์ มันพุ่งโจมตีรวดเร็วดุจพายุพัดฟ้าฟาด กำหนดชะตาฟ้าดิน ได้ด้วยการโจมตีเพียงครั้งเดียว 
+ItemInfo_dlc昆仑,"The towering Kunlun, defining the four directions.",คุนหลุนที่ตั้งสูงตระหง่าน กำหนดทิศทางทั้งสี่
+ItemInfo_dlc降龙,"Dragon Slayer subdues the tiger, as easy as flipping a hand.",พิฆาตมังกรปราบพยัคฆ์ได้ง่ายเหมือนกับการพลิกมือ
+ItemInfo_dlc乾坤,"Silver, Purple Jade, Red Agate, Heaven and Earth overturn to reveal the underworld.",เงิน หยกม่วง โมราแดง เมื่อรวมกันแล้วสามารถเห็นสิ่งลึกลับใต้พิภพ
+ItemInfo_dlc红缨枪,A brand new sharp Red spear.,หอกที่ประดับด้วยขนนกสีแดง เล่มใหม่เอี่ยมและคม
+ItemInfo_dlc竹竿,"A hollow Bamboo stick made of bamboo, thin and long.",ไม้ไผ่กลวง ทำจากไม้ไผ่ บางและยาว
+ItemInfo_dlc折扇,"A plain paper Folding fan, with silver powder on it, the fan surface emits silver light, shining brightly.",พัดพับจากกระดาษเรียบธรรมดา มีผงเงินอยู่บนพัด ผืนพัดระยิบระยับเป็นสีเงิน เปล่งประกายสวยงาม
+ItemInfo_dlc青罡剑,"Made by condensing energy, the temperament is flowing, elegant yet firm.",สร้างขึ้นจากการรวบรวมพลัง มีพลังที่หมุนเวียน แฝงความสง่างามแต่มั่นคง
+ItemInfo_dlc倚天剑,"The sword is wide and the guard is flamboyant, with a hint of imperial aura.","ตัวดาบกว้างใหญ่, ด้ามดาบเด่นชัด, แฝงไว้ด้วยอำนาจดั่งจักรพรรดิ"
+ItemInfo_dlc青冥剑,"The waistband is silver-plated, clean and bright. It is said to be an ancient weapon.", ด้ามจับหุ้มด้วยเงิน สะอาด เรียบง่าย และเปล่งประกาย เชื่อกันว่าเป็นอาวุธโบราณ
+ItemInfo_dlc干将,"An ancient sword passed down from ancient times, made from the iron essence of five mountains and the golden hero of the six realms. After thousands of years, it is still exceptionally sharp.",กระบี่เลื่องชื่อสืบทอดมาแต่โบราณกาล สร้างจากแร่เหล็กชั้นดีจากห้าภูเขา และทองคำบริสุทธิ์จากหกทิศ แม้ผ่านกาลเวลามานับพันปี แต่ยังคงคมกริบอย่างยิ่ง
+ItemInfo_dlc含光,"Gold and iron are nourished, thus forming a sword. The cold light is chilling, and the Power is infinite.",เมื่อทองคำและเหล็กกล้าหลอมรวมกัน จึงกลายเป็นกระบี่ แผ่แสงประกายเย็นยะเยือก มีพลังอำนาจมหาศาล
+ItemInfo_dlc鱼肠,"A very small sword, which can be hidden in a fish, the sword edge is sharp, extremely tough, shining brightly.",กระบี่เล่มเล็กจิ๋ว สามารถซ่อนในตัวปลาได้ กระบี่คม ทนทานอย่างยิ่ง ส่องประกายระยิบระยับ
+ItemInfo_dlc匕首,"A slender double-edged Short sword, easy to carry, can be hidden in sleeves or boots.",มีดสั้นสองคม เรียวบาง พกพาสะดวก สามารถซ่อนไว้ในแขนเสื้อหรือรองเท้าก็ได้
+ItemInfo_dlc狼毫笔,"A very common brush, the brush is strong and suitable for both writing and painting.","เป็นพู่กันที่พบเห็นได้ทั่วไป, มีพลังในการเขียนที่หนักแน่น, เหมาะสำหรับการเขียนและวาดภาพ"
+ItemInfo_dlc梧桐琴,A wutong wood zither symbolizing noble character.,กู่ฉินไม้อู๋ถงเป็นสัญลักษณ์ของความสูงส่ง
+ItemInfo_dlc碎宇刀,"Rumored to be a sharp blade that can cut through space, its edge is extremely sharp, and it can pass through with a blow.",กล่าวกันว่าคมดาบสามารถตัดผ่านมิติได้ มีความคมอย่างยิ่ง เพียงพาดผ่านก็สามารถผ่าเส้นผมขาดได้
+ItemInfo_dlc绣春刀,"The knife body is slightly smaller than the general waist knife, but it has a curvature, which is convenient for chopping.",ตัวดาบมีขนาดเล็กกว่าดาบคาดเอวทั่วไปเล็กน้อย แต่มีส่วนโค้ง ทำให้เหมาะแก่การสับ
+ItemInfo_dlc修罗刀,"It was cast with the fresh blood of a hundred people, and countless resentful souls are attached to it, and the evil spirit is extremely heavy."," ดาบเล่มนี้ถูกหลอมจากเลือดของผู้คนนับร้อย, มีวิญญาณอาฆาตจำนวนมากสิงอยู่, เต็มไปด้วยพลังอำมหิตอย่างยิ่ง"
+ItemInfo_dlc大夏龙雀,"It is said to be a giant blade cast by ancient gods, with dragon and snake patterns, exquisitely made, and extremely sharp.",กล่าวกันว่าเป็นดาบยักษ์ที่เทพเจ้าโบราณสร้างขึ้น มีลวดลายเป็นมังกรและงู สร้างอย่างประณีต และมีความคมอย่างมาก
+ItemInfo_dlc犬神刀,"A curved blade from the Great Ant City, capable of catching enemies off guard.",ดาบของเมืองผีฝู คมดาบโค้งงอ สามารถโจมตีศัตรูโดยไม่ทันตั้งตัว
+ItemInfo_dlc龙牙刀,"The treasured blade passed down from generation to generation by the lord of the Great Ant City, it is also a symbol of the lord's status.",ดาบอันล้ำค่าที่สืบทอดจากรุ่นสู่รุ่นของเจ้าเมืองผีฝู มันยังเป็นสัญลักษณ์ของสถานะเจ้าเมืองอีกด้วย
+ItemInfo_dlc木箫,A folk instrument made of purple bamboo.,เครื่องดนตรีพื้นบ้านที่ทำจากไม้ไผ่สีม่วง
+ItemInfo_dlc花梨琵琶,A lute made of rosewood.,ผีผาสี่สาย คอตรง ทำจากไม้ชิงชัน
+ItemInfo_dlc窄袖衣,"Clothes commonly worn by ordinary people, thin and lightweight.",เสื้อผ้าที่คนทั่วไปสวมใส่ บางเบา สบายตัว
+ItemInfo_dlc梨花枪,"The spear used by General Yang during his lifetime, engraved with eight fearless small characters ""Drive out the barbarians and restore the mountains and rivers"".","หอกที่ท่านแม่ทัพหยางใช้ก่อนเสียชีวิต ด้านบนสลักตัวอักษรแปดตัว ที่แสดงถึงปณิธานอันแรงกล้า ""ขับไล่คนเถื่อน ฟื้นฟูแผ่นดิน"" "
+ItemInfo_dlc霸王枪,"Made of pure steel, weighing ninety-nine and eighty-one catties, it is said to be the weapon used by the King of Western Chu, not everyone can wield it.",สร้างขึ้นด้วยเหล็กบริสุทธิ์ หนักเก้าสิบเก้า และแปดสิบเอ็ดชั่ง ตำนานกล่าวว่าเป็นอาวุธของฮ่องเต้รัฐฉู่ ไม่ใช่สิ่งที่คนธรรมดาจะใช้ได้
+ItemInfo_dlc亮银枪,A shiny long spear that has been well maintained.,หอกยาวที่ถูกขัดจนเป็นประกาย แสดงให้เห็นว่ามีคนดูแลรักษามันอย่างพิถีพิถันมาโดยตลอด
+ItemInfo_dlc句芒,"At the beginning of spring, the spear's aura is a hundred miles long, hence it is named after the god of spring in mythology.",เมื่อเริ่มฤดูใบไม้ผลิ พลังของหอกแผ่กระจายออกไปไกลถึงร้อยลี้ จึงตั้งชื่อตามเทพเจ้าแห่งฤดูใบไม้ผลิในตำนาน
+ItemInfo_dlc方天画戟,"It is said to be a weapon used by the ancient war god, shaped like a square sky painting halberd, it can stab and chop, flexible and changeable.",กล่าวกันว่า เป็นอาวุธของเทพสงครามยุคโบราณ ทรงสี่เหลี่ยมเหมือนขวานและหอก สามารถแทงหรือฟันได้ พลิกแพลงได้หลากหลาย
+ItemInfo_dlc龙胆,"A long spear that was once used by a brave general, still sharp after hundreds of years.",ตามตำนานเคยเป็นหอกยาวที่ใช้โดยแม่ทัพผู้กล้าหาญ ผ่านไปหลายร้อยปียังคงคมและแข็งแกร่งไม่เสื่อมสลาย
+ItemInfo_dlc绢麻衣,"Clothes made of silk and hemp, slightly more comfortable than Cloth.",เสื้อผ้าที่ทำจากผ้าไหมและป่าน สะดวกสบายกว่าผ้าหยาบๆ เล็กน้อย
+ItemInfo_dlc护心铠,"Armor made of iron plates, providing some protection.",เกราะที่ทำจากแผ่นเหล็ก มีความสามารถในการป้องกันได้ในระดับหนึ่ง
+ItemInfo_dlc彩绣香囊,A beautiful sachet made of colored silk threads.,ถุงหอมที่ทำจากไหมหลากสี สวยงามประณีต
+ItemInfo_dlc盘龙棍,"The stick body has dragon scale carvings, the dragon head and dragon tail at both ends are of different lengths, with great power.",ตัวด้ามไม้แกะสลักเป็นเกล็ดมังกร ปลายทั้งสองข้างเป็นหัวและหางมังกร ยาวไม่เท่ากัน มีพลังมหาศาล
+ItemInfo_dlc齐天棍,"The whole body is golden, with red patterns engraved on it. No one can match its maximum power.",ตัวไม้พลองเป็นสีทองทั้งแท่ง มีลวดลายสีแดงแกะสลักไว้ พลังสูงสุดไร้ผู้ต้าน
+ItemInfo_dlc金箍铁棒,"An iron rod decorated with gold hoops at both ends, with the words ""Ruyi Jingu Bang, weighing 13,500 jin"" crookedly engraved on it. However, it's not that heavy, and it's not recommended to try to stick it in your ear.","กระบองโลหะที่ตกแต่งด้วยห่วงทองคำที่ปลายทั้งสองข้าง สลักคำว่า ""กระบองสารพัดนึก ยู่อี่ หนัก 13,500 ชั่ง"" ไว้อย่างคดเคี้ยว อย่างไรก็ตามมันไม่ได้หนักขนาดนั้น และไม่แนะนำให้ลองยัดเข้าไปในหูด้วยเช่นกัน"
+ItemInfo_dlc烛阴,"The weapon is engraved with a coiling dragon, and it changes unpredictably when swung.",อาวุธที่สลักไปด้วยลวดลายมังกรขนด เมื่อแกว่งจะเกิดการเปลี่ยนแปลงนับพัน
+ItemInfo_dlc定海神针,"An extremely heavy club, solid in texture, seems to be cast from uncommon materials. But it's neither thirteen thousand five hundred catties heavy, nor can it be shrunk and put into the ear.",กระบองที่หนักมาก ทำจากวัสดุที่แข็งแกร่ง ดูเหมือนจะไม่ใช่วัสดุทั่วไปที่พบได้ง่าย แต่ก็ไม่ได้หนักถึงหมื่นสามพันห้าร้อยชั่ง และไม่สามารถย่อให้เล็กจนใส่เข้าไปในหูได้
+ItemInfo_dlc镇岳,"The weapon held by Tang Tai Jun, also a symbol of his identity. It's very heavy, and it's hard to imagine how Tang Tai Jun used it.",อาวุธที่ถือครองโดยถังไท่จุน ถือเป็นสัญลักษณ์แทนตัวตนของนางเช่นกัน มันหนักมาก แค่แกว่งก็ใช้แรงมหาศาล ยากจะจินตนาการว่า ถังไท่จุนใช้มันได้อย่างไร
+ItemInfo_dlc粗糙的护身符,"Hand-sewn, rough cotton amulet.",เครื่องรางผ้าฝ้ายเนื้อหยาบเย็บมือ
+ItemInfo_dlc香包,"Hand-sewn, rough red cloth sachet.",ถุงหอมผ้าสีแดงที่เย็บด้วยมืออย่างหยาบ
+ItemInfo_dlc花环,"Wreath woven from wild flowers, most pleasing to little girls.",มงกุฎที่ถักจากดอกไม้ป่าเล็กๆ มักเป็นที่ชื่นชอบของเด็กสาว
+ItemInfo_dlc西江月,"Black metal for the edge, hardwood for the bone, machinery is ingenious.",โลหะสีดำสำหรับขอบ ไม้เนื้อแข็งสำหรับกระดูกโครง สร้างโดยวางกลไกอย่างชาญฉลาด
+ItemInfo_dlc满江红扇,"Made from blood-stained red silk and woven with golden needles, the fan bone is wrapped in silver thread.",ทำจากผ้าไหมสีแดงเปื้อนเลือด เย็บไว้ด้วยเข็มทอง โครงกระดูกพัดพันด้วยด้ายสีเงิน
+ItemInfo_dlc破阵子,"A fan made from Lengjin paper and Steel, it has a certain amount of Attack power.",พัดที่ทำจากกระดาษดิ้นทองและเหล็กกล้า แฝงพลังโจมตีบางอย่างไว้
+ItemInfo_dlc祝融,"The fan bone needs to be forged in a big fire for forty-nine days to be cast. When fanning, there is a burst of heat, hence the name Zhurong.",กระดูกพัดจะต้องถูกหลอมด้วยไฟกองใหญ่ เป็นเวลาสี่สิบเก้าวันจึงจะหล่อได้ เมื่อพัดจะปล่อยลมร้อนออกมา จึงได้ชื่อว่าจู้หรง
+ItemInfo_dlc夸父,"A Folding fan named after the ancient sun-chasing god, a light wave can stir up a wind that obscures the sky.",พัดที่ตั้งชื่อตามเทพเจ้าผู้ไล่ตามดวงอาทิตย์ในสมัยโบราณ เพียงแค่โบกเบาๆ ก็สามารถก่อให้เกิดลมพายุที่บดบังท้องฟ้าได้
+ItemInfo_dlc青丘,"An otherworldly Folding fan, when fanned, purple smoke drifts, making people lose their minds and souls.",พัดพับที่ดูเหมือนจะมาจากต่างแดน เมื่อโบกพัดจะมีควันสีม่วงลอยออกมา ทำให้ผู้คนตกอยู่ในภวังค์และสูญเสียจิตใจ
+ItemInfo_dlc艾草束,"Plants with a strong fragrance, effective in warding off evil.",พืชที่มีกลิ่นหอมรุนแรง มีฤทธิ์ในการปัดเป่าสิ่งชั่วร้าย
+ItemInfo_dlc铁手,"Made of pure iron, black and extremely hard.",ทำจากเหล็กบริสุทธิ์ ทั้งตัวสีดำสนิท และแข็งอย่างยิ่ง
+ItemInfo_dlc缠丝拳套,"Made of silk, has a certain protective performance.",ทำจากผ้าไหมหลายชั้น มีคุณสมบัติในการป้องกันได้ในระดับหนึ่ง
+ItemInfo_dlc飞来梭,"This weapon moves quickly in a moment, its speed can be described as shadow following shape.",อาวุธนี้ออกท่ารวดเร็วในพริบตา ความเร็วเปรียบดั่งเงาตามตัว
+ItemInfo_dlc流云锥,"A dagger made of solid cold iron, has a certain weight, the user needs to have a lot of wrist strength.",กริชที่ทำจากเหล็กเย็นตัน มีน้ำหนักพอสมควร ผู้ใช้ต้องมีกำลังข้อมือที่แข็งแรง
+ItemInfo_dlc织女梭,"A Machinery shuttle made of Cold iron, the Machinery is exquisite, easy to use.",กระสวยเครื่องทอทำจากเหล็กเย็น มีความประณีต ใช้งานง่าย
+ItemInfo_dlc嘲风,"Named after the third son of the dragon, made of black iron, extremely small in size, the user needs to seek victory in danger.",ตั้งชื่อตามบุตรชายคนที่สามของมังกร ทำจากเหล็กนิล ขนาดเล็กมาก ผู้ใช้จำเป็นต้องแสวงหาชัยชนะท่ามกลางอันตราย
+ItemInfo_dlc精卫,"A magical Dagger hidden in the snow mountain, with a Millipede gold handle and a jade blade, it feels icy to the touch, and can freeze water on contact.",กริชวิเศษที่ซ่อนอยู่ในภูเขาหิมะ ด้ามจับทำจากทองคำพันตัว ใบมีดทำจากหยกเขียว เมื่อสัมผัสจะรู้สึกเย็นจนถึงกระดูก และสามารถทำให้น้ำกลายเป็นน้ำแข็งได้
+ItemInfo_dlc睚眦,"Named after the second son of the dragon, made of Meteorite, it hides a fierce aura.",ตั้งชื่อตามบุตรคนรองของราชามังกร หลอมจากหินดาวตก มันแอบซ่อนเร้นความโหดเหี้ยมเอาไว้
+ItemInfo_dlc白虹剑,"The sword hilt is carved from black jade, the blade is double-edged, thin as cicada wings, sharp as autumn water.",ด้ามกระบี่แกะสลักจากหยกดำ คมกระบี่มีสองคม บางราวกับปีกจั๊กจั่น คมดุจน้ำในฤดูใบไม้ร่วง
+ItemInfo_dlc紫电剑,"This sword has a purple glow like electricity, dazzling brilliance, precious fog rising, and cold air invading people.",กระบี่เปล่งแสงสีม่วงราวกับสายฟ้า ประกายเจิดจ้า มีไอระเหยลอยฟุ้ง และแผ่ความเย็นยะเยือกสู่ผู้คน
+ItemInfo_dlc砍山刀,"A big knife favored by rural bandits, it is heavy to cast but has a lot of Power when swung.",เป็นดาบใหญ่ที่โจรป่าชอบใช้ มีน้ำหนักมากเกินที่จะร่ายรำ แต่เมื่อเหวี่ยงแล้วจะมีพลังอย่างมาก
+ItemInfo_dlc鸡距,"A short-tipped brush made of Cockspur, used to steal the Animal ring door.",พู่กันขนสั้นทำจากเดือยไก่ตัวผู้ เหมือนจะใช้ขโมยประตูวงแหวนนักษัตรได้
+ItemInfo_dlc龙须,"The Dragon Whisker brush is soft and good at painting, like a dragon flying through the clouds.",พู่กันหนวดมังกร มีความนุ่มนวล เหมาะกับการวาดภาพ เหมือนมังกรบินผ่านเมฆาบนท้องฟ้า
+ItemInfo_dlc麟角,"The Unicorn Horn brush is strong and good at bold calligraphy, like a unicorn stepping on ruins.",พู่กันเขากิเลน มีความแข็งแรง เหมาะกับการเขียนตัวหนังสือที่หนักแน่น เหมือนกิเลนกำลังเหยียบย่ำซากปรักหักพัง
+ItemInfo_dlc太虚,"The characters written with it are like flowing clouds and water. When combined with special ink, they disappear in light and reappear in fire.",ตัวอักษรที่เขียนออกมาเหมือนเมฆลอยและน้ำไหล เมื่อใช้กับหมึกพิเศษ เมื่อเจอแสงจะหายไป แต่เมื่อเจอไฟจะปรากฏขึ้นอีกครั้ง
+ItemInfo_dlc玄黄,"Mysterious Yellow, the essence of heaven and earth. All products drawn are of the highest quality.",“เหลืองและดำ” คือสัญลักษณ์ของฟ้าและดิน ภาพที่วาดด้วยสีทั้งสองนี้ล้วนเป็นงานชั้นยอด
+ItemInfo_dlc洪荒,"Whether it's writing or painting, it always has the Origin momentum. The calligraphy is like iron and silver, and the painting is lifelike.",ไม่ว่าจะเขียนตัวอักษรหรือวาดภาพ เมื่อเริ่มต้นก็จะมีลักษณะคล้ายกับความสับสนวุ่นวาย แต่เมื่อเขียนไปแล้ว ตัวหนังสือก็จะคมชัดเหมือนเหล็กและเงิน ส่วนภาพวาดก็จะสื่อถึงจิตวิญญาณของสิ่งที่วาด
+ItemInfo_dlc九环刀,"There are nine iron rings on the back of the knife, which will make a sound during battle, disturbing people's minds.",ที่สันดาบมีวงแหวนเหล็กเก้าวง เมื่อต่อสู้จะสร้างเสียงดัง รบกวนจิตใจศัตรู
+ItemInfo_dlc蛇矛枪,"The spearhead is like a coiled snake, the spear tip is sharp, and the penetration power is extremely strong.",หัวหอกเหมือนงูขดตัวพันกันเป็นเกลียว ปลายหอกแหลมคม ทะลุทะลวงได้ดี
+ItemInfo_dlc混铁枪,"The upper end of the spear shaft has a bull horn hook, which can cause double critical damage to the target.",ที่ปลายหอกมีรูปทรงตะขอคล้ายเขากระทิง สามารถสร้างความเสียหายรุนแรงเป็นสองเท่าให้กับเป้าหมาย
+ItemInfo_dlc春雷,"A famous ancient zither from the previous dynasty, a masterpiece crafted by the zither maker Lei Gong, originally collected by Emperor Zhao, but its whereabouts are unknown after Emperor Zhao was captured.",กู่ฉินโบราณที่มีชื่อเสียงจากราชวงศ์ก่อน เป็นผลงานชิ้นเอกที่สร้างสรรค์โดยช่างทำกู่ฉิน ลุ่ยกง ซึ่งเดิมเก็บรวบรวมโดยจักรพรรดิจ้าว แต่ไม่ทราบที่อยู่ของมันหลังจากที่จักรพรรดิจ้าวถูกจับ
+ItemInfo_dlc焦尾,"It is said to be created by Cai Yong, the father of the talented woman Cai Wenji, made from a piece of burnt phoenix tree wood, hence the name ""Scorched Tail"". Extremely precious, with a high value.","กล่าวกันว่าสร้างขึ้นโดยไช่ยง บิดาของไช่เหยี่ยนหญิงสาวผู้มีพรสวรรค์ ทำจากไม้หงส์ที่ถูกเผาจนได้ชื่อว่า ""หางไหม้"" ล้ำค่าอย่างยิ่ง"
+ItemInfo_dlc绿绮,"It is said to be the beloved zither of Sima Xiangru from the Han Dynasty, the whole body is black, faintly showing a dark green color, like green vines wrapped around an ancient tree, hence the name.",กล่าวกันว่าเป็นกู่ฉินคู่ใจของซือหม่าเซียงหรู แห่งราชวงศ์ฮั่น ตัวพิณเป็นสีดำ แฝงด้วยสีเขียวมรกตเล็กน้อย เหมือนกับเถาวัลย์สีเขียวพันรอบต้นไม้โบราณ จึงเป็นที่มาของชื่อ
+ItemInfo_dlc绕梁,"Its sound is lingering, revolving around the beams, endless, hence the name.",เสียงของกู่ฉินก้องกังวาน พาดผ่านไปทั่วคานบ้าน สะท้อนไปมาอย่างไม่สิ้นสุด จึงเป็นที่มาของชื่อนี้
+ItemInfo_dlc号钟,"An ancient famous zither, the sound of the zither is so loud, like the sound of a bell ringing, the sound of a horn blowing, it is deafening.",กู่ฉินชื่อดังในยุคโบราณ เสียงกู่ฉินทรงพลังดุจเสียงระฆัง เสียงแตรเป่า ทำให้ผู้ฟังหูอื้อ
+ItemInfo_dlc囚牛,"A seven-stringed zither named after the eldest son of the dragon, it is said that because of its beautiful tone, it attracted the dragon's son to possess it.",กู่ฉินเจ็ดสายที่ตั้งชื่อตามบุตรชายคนโตของมังกร เล่าขานกันว่า ด้วยเสียงอันไพเราะกังวาน จึงดึงดูดบุตรชายมังกรให้ยอมสิงสถิตย์อยู่ภายใน
+ItemInfo_dlc镔铁杖,"A solid iron stick, sinking in two buckets of water.",ท่อนเหล็กตัน หนักเท่ากับถังน้ำสองถัง
+ItemInfo_dlc齐眉棍,"Made according to body weight, equal to the eyebrows, the stick body has a certain toughness.",สร้างขึ้นให้มีน้ำหนักในการแกว่ง เมื่อยกขึ้นมีความสูงเท่ากับคิ้ว ตัวพลองมีความทนทานระดับนึง
+ItemInfo_dlc雕翎扇,"A fan made of green Bird feathers, the color is like jade, and the touch is soft.",พัดขนนกที่ทำจากขนนกสีเขียว มีสีคล้ายหยก ให้สัมผัสที่นุ่มนวล
+ItemInfo_dlc枉凝眉,"The flute body is made of black metal, with a gold tassel tied at the end as decoration.",ตัวขลุ่ยทำจากโลหะสีดำ โดยมีพู่สีทองผูกที่ปลายเป็นของตกแต่ง
+ItemInfo_dlc关山月,"The flute body is made of cold iron, with a white jade orchid tied at the end as decoration.",ตัวขลุ่ยทำจากเหล็กเย็น โดยมีดอกกล้วยไม้หยกสีขาวผูกไว้ที่ปลายเป็นของตกแต่ง
+ItemInfo_dlc冷沧浪,"The flute body is made of steel, with a Hetian bead tied at the end as decoration.",ตัวขลุ่ยทำจากเหล็กกล้า โดยมีลูกปัดเหอเถียนผูกไว้ที่ปลายเป็นของตกแต่ง
+ItemInfo_dlc有凤来仪,"The flute body is made of thousand-year-old black iron, the whole body is orange and shiny, with a millipede gold tied at the end as decoration.",ตัวของขลุ่ยทำจากเหล็กนิลพันปี ทั้งตัวมีสีส้มเหลืองเป็นประกาย และที่ปลายขลุ่ยประดับด้วยทองคำพันตัว
+ItemInfo_dlc碧海潮声,"The flute body is made of refined gold, with a pink tassel tied at the end as decoration.",ตัวขลุ่ยทำจากทองคำบริสุทธิ์ โดยมีพู่สีชมพูผูกที่ปลายเป็นของตกแต่ง
+ItemInfo_dlc笑傲江湖,"The flute body is made of meteorite, with a top-grade jade bead tied at the end as decoration.",ตัวขลุ่ยทำจากหินดาวตก ที่ปลายประดับด้วยลูกปัดหยกชั้นดีผูกเอาไว้
+ItemInfo_dlc留香扇,"A high-quality satin fan, with a fragrant scent.",พัดทำจากผ้าแพรคุณภาพสูง มีกลิ่นหอมอ่อนๆ
+ItemInfo_dlc狼牙匕,"A sharp Dagger, like a Wolf fang, can be used for self-defense.",มีดสั้นที่แหลมคม เหมือนเขี้ยวหมาป่า สามารถใช้ป้องกันตัวได้
+ItemInfo_dlc三棱锥,"A short cone with three edges, a stab will cause continuous bleeding.",กริชสั้นมีที่มีคมแหลมสามง่าม เมื่อแทงจะทำให้เลือดไหลไม่หยุด
+ItemInfo_dlc双凤琵琶,"The body is painted with a symmetrical double phoenix pattern, with five silk strings on top, exquisitely crafted.",ตัวผีผาวาดลวดลายหงส์คู่ไว้อย่างสมมาตร สายทั้งห้าทำจากเส้นไหม ประดิษฐ์ขึ้นอย่างประณีต
+ItemInfo_dlc绕殿雷,"The tone is like a high-pitched shout, the sound is like thunder, hence the name.",ให้เสียงโทนสูง เสียงดังก้องเหมือนเสียงร้องเรียกบนเขาสูง ดังกึกก้องเหมือนฟ้าร้อง จึงได้ชื่อนี้มา
+ItemInfo_dlc烧槽,"The whole body is white and purple gradient, the end is inlaid with various jewels, very precious.",ทั้งตัวเป็นสีขาวไล่โทนไปม่วง ตกแต่งปลายด้วยอัญมณีหลากหลาย ล้ำค่าอย่างยิ่ง
+ItemInfo_dlc玄象,"The image formed by the sun, moon, stars, and constellations in the sky is called ""Mysterious Elephant"".",รูปแบบดวงอาทิตย์ ดวงจันทร์ และดวงดาวที่เรียงรายบนท้องฟ้า เรียกว่า “ทางช้างเผือก”
+ItemInfo_dlc青山,Made of green jade with sheep intestine as strings. There are hollowed-out gold ornaments as decorations.,ตัวเครื่องทำจากหยกสีเขียว สายทำจากไส้แกะ ตกแต่งด้วยการแกะสลักลวดลายทองคำ
+ItemInfo_dlc狮子丸,The ancient and precious Lute that has disappeared in the rivers and lakes. It is said to be lost in the vast sea.,ผีผาโบราณอันล้ำค่าที่สูญหายไปจากยุทธภพ ว่ากันว่าสูญหายไปในทะเลอันกว้างใหญ่
+ItemInfo_dlc圆锋,"An ancient willow pen holder, with a green glass pendant hanging on it, looks very elegant.",ด้ามพู่กันทำจากไม้หลิวโบราณ มีจี้แก้วสีเขียวห้อยอยู่ ดูหรูหรามาก
+ItemInfo_dlc昌化,"The brush tip is round, the white jade pen holder, with a blue Gem pendant hanging on it.",ปลายพู่กันมีลักษณะกลมมน ด้ามพู่กันทำจากหยกขาว มีจี้อัญมณีสีน้ำเงินห้อยอยู่
+ItemInfo_dlc七弦,A Seven Strings ancient zither that is seven feet and two inches long.,กู่ฉินโบราณเจ็ดสาย ยาว 7 ฟุต 2 นิ้ว
+ItemInfo_dlc独幽,"A musical instrument imitating the shape of an ancient piano from the previous dynasty, reaching the level of being indistinguishable from the real thing, even the cursive ""Loneliness"" carved in the middle of the back shoulder is reproduced.","กู่ฉินที่สร้างเลียนแบบกู่ฉินโบราณจากราชวงศ์ก่อน เลียนได้เหมือนของจริงจนแยกไม่ออก แม้แต่ตัวอักษร ""เดียวดาย"" ที่สลักด้วยลายพู่กันตรงด้านหลังก็ถูกทำขึ้นใหม่"
+ItemInfo_dlc紫竹箫,"There are seven holes in the front and one in the back, often played together with the silk stringed guqin, also known as ""elegant flute"".","มีรูระบายเสียงอยู่ด้านหน้าเจ็ดด้านหลังหนึ่ง มักใช้บรรเลงร่วมกับกู่ฉินสายไหม จึงเรียกว่า ""ขลุ่ยหรูหรา"""
+ItemInfo_dlc玉屏箫,"It is popular in Yunnan and Guizhou, and is a treasure among flutes.",แพร่หลายในพื้นที่ยูนนานและกุ้ยโจว และในหมู่ขลุ่ยถือเป็นสมบัติล้ำค่า
+ItemInfo_dlc牛角琵琶,"A lute made with a small amount of buffalo horn, better in both value and sound quality.",ผีผาที่ทำจากเขาควายเพียงเล็กน้อย ทำให้มีมูลค่าและเสียงดียิ่งขึ้น
+ItemInfo_dlc流云衫,"Clothes made of semi-transparent gauze, comfortable and elegant, light as nothing.",เสื้อผ้าที่ทำจากผ้าตาข่ายกึ่งโปร่งใส สวมใส่สบายและพลิ้วไหว น้ำหนักเบาราวกับไม่ใส่อะไรเลย
+ItemInfo_dlc金刚甲,"Long-forged steel armor, hence indestructible.",เกราะเหล็กกล้าสงครามที่ผ่านการตีมาอย่างยาวนาน จึงมีความแข็งแกร่งไม่เสื่อมสลาย
+ItemInfo_dlc明光铠,The armor is polished and looks very shiny.,เกราะที่มีแผ่นเกราะขัดเงา ดูเงางามและเรียบเนียน
+ItemInfo_dlc朱雀服,"The legendary treasure clothes that can only be made with the feathers of a divine bird, although it looks thin, it is exceptionally warm when worn, and can move freely in ice and snow.",เป็นเสื้อผ้าในตามตำนาน ที่ทำจากขนของนกศักดิ์สิทธิ์ แม้จะดูบางเบา แต่เมื่อสวมใส่แล้วกลับอบอุ่นอย่างไม่น่าเชื่อ สามารถเคลื่อนไหวได้อย่างอิสระ แม้ในสภาพอากาศหนาวจัดหิมะปกคลุม
+ItemInfo_dlc麒麟甲,"Armor made of steel, with neatly arranged and staggered armor pieces all around.",เกราะที่ทำจากเหล็กกล้า ที่ตีขึ้นมาอย่างประณีต แผ่นเกราะจัดเรียงอย่างเป็นระเบียบ สลับซับซ้อน ครอบคลุมทั่วทุกส่วน
+ItemInfo_dlc玄武铠,"Armor made of black metal, like a vajra bone when worn, impervious to swords and spears.",เกราะที่ทำจากเหล็กดำ เมื่อสวมใส่แล้วเหมือนกับมีกระดูกทองคำ แข็งแกร่งและทนทาน กันดาบและกระบี่ได้ดี
+ItemInfo_dlc紫罗裙,"Made of fine silk, light as nothing.",ทำจากไหมและผ้าบางชั้นดี สัมผัสเบาบางราวกับไม่มีอะไร
+ItemInfo_dlc天蚕宝衣,"Clothes made of golden silkworm silk as material, although they look light and soft, they are impervious to swords and spears, and have excellent protection.",เสื้อผ้าทำจากไหมทองคำที่ทอเป็นลาย แม้จะดูเบาบางและนุ่มนวล แต่กลับกันกระบี่และดาบได้อย่างไม่มีปัญหา มีความสามารถในการป้องกันเป็นเลิศ
+ItemInfo_dlc霹雳宝铠,"Heavy armor, every step taken after wearing it will make a sound like thunder.",เกราะอันหนักหน่วง เมื่อสวมใส่แล้วทุกฝีก้าวจะสร้างเสียงดังคล้ายฟ้าร้อง
+ItemInfo_dlc锦襕袈裟,"A cassock that can only be worn by accomplished monks, even within the Buddhist community, only a few are qualified to wear it.",จีวรที่สามารถสวมใส่ได้ เฉพาะพระอาจารย์ที่บรรลุธรรมสูงส่งเท่านั้น แม้ในวงการพระพุทธศาสนาเอง ผู้ที่มีคุณสมบัติในการสวมใส่ก็มีเพียงไม่กี่คนเท่านั้น
+ItemInfo_dlc广袖流仙裙,"Made according to the style of a princess's dress in the palace, even ordinary women will look like a fairy when wearing it, attracting countless admirers.",ทำขึ้นตามแบบชุดองค์หญิงในราชวัง เมื่อสวมใส่แล้ว แม้แต่สตรีธรรมดาก็งดงามดั่งเทพธิดา ดึงดูดผู้คนมากมายให้ติดตาม
+ItemInfo_dlc象牙琵琶,"A lute made of ivory and yellow rosewood, quite expensive.",ผีผาทำจากงาช้างและไม้พะยูงสีเหลือง มีราคาค่อนข้างแพง
+ItemInfo_dlc精铁内甲,"Armor made of refined iron, providing effective protection.",เกราะที่ทำจากเหล็กบริสุทธ์ ให้การปกป้องที่มีประสิทธิภาพ
+ItemInfo_dlc锁子铠,"Armor forged from refined iron, with rings connecting each piece, thick as a city wall.",เกราะของมันถูกเชื่อมโยงกันด้วยวงแหวนห้าวง แต่ละชิ้นเชื่อมต่อกัน หนาเท่ากับกำแพงเมือง
+ItemInfo_dlc僧袍,"The clothes worn by monks, simple and unadorned.",เสื้อผ้าที่หลวงจีนสวมใส่ เรียบง่าย ไม่มีลวดลาย
+ItemInfo_dlc道袍,"The clothes worn by Taoists, with a faint smell of incense.",เสื้อผ้าที่นักพรตสวมใส่ มีกลิ่นหอมอ่อนๆ ของธูป
+ItemInfo_dlc佛手玉坠,Jade pendant in the shape of a Buddha's hand.,จี้หยกรูปหัตถ์ของพระพุทธเจ้า
+ItemInfo_dlc投名状,A token used among green forest heroes to show loyalty.,ของสำคัญที่ใช้แสดงถึงความจงรักภักดีระหว่างจอมยุทธ์แห่งพงไพร
+ItemInfo_dlc工字佩,"A jade pendant in the shape of the Chinese character ""工"".","จี้หยกที่ทำเป็นตัวอักษรจีนรูปตัว ""工"""
+ItemInfo_dlc三彩乐俑,"A relic from the previous dynasty, depicting people singing and dancing.",วัตถุโบราณจากราชวงศ์ก่อน แสดงภาพผู้คนร้องรำทำเพลงในยุคนั้น
+ItemInfo_dlc三足金蟾,"A small statue of a three-legged golden toad, which is said to spit out money and attract wealth.",รูปปั้นคางคกทองคำสามขาขนาดเล็ก ตำนานเล่าว่า คางคกสามขาสามารถพ่นเงินออกมาได้ มีความสามารถในการดูดทรัพย์
+ItemInfo_dlc双鱼玉佩,"A yin yang jade ornament carved from white jade, symbolizing double good luck.",จี้หยกหยินหยาง แกะสลักจากหยกขาว เป็นสัญลักษณ์ของความโชคดีที่คู่กัน
+ItemInfo_dlc玉莲花,"A lotus jade pendant carved from top-grade white jade, looks lifelike.",จี้หยกบัวแกะสลักจากหยกขาวชั้นดีดูสมจริง
+ItemInfo_dlc滴水观音,"A pendant carved from top-grade green jade, the whole body is green and shiny.",จี้ที่แกะสลักจากหยกสีเขียวชั้นดี ทั้งชิ้นมีสีเขียวอมฟ้าใสและเปล่งประกาย
+ItemInfo_dlc玉辟邪,"It is said to be able to ward off evil spirits, and the elderly believe in it.",ว่ากันว่าสามารถปัดเป่าวิญญาณชั่วร้ายได้ และผู้สูงอายุก็เชื่อในสิ่งนี้
+ItemInfo_dlc金雕长羽,"Feathers fallen from birds of prey, hard to the touch, wearing it in some places is a symbol and proof of courage.",ขนนกที่ร่วงจากนกล่าเหยื่อ สัมผัสค่อนข้างแข็ง ในบางพื้นที่การสวมใส่มันถือเป็นสัญลักษณ์ และเครื่องพิสูจน์ความกล้าหาญ
+ItemInfo_dlc玉如意,"A ruyi made of jade, symbolizing smooth sailing, but in reality, everyone uses it to scratch itches.",หยกรู่อี้ที่ทำจากหยกเขียว เป็นสัญลักษณ์ของความสมหวังและความสุขใจ แต่ในความเป็นจริง ผู้คนมักใช้มันสำหรับเกาแก้คัน
+ItemInfo_dlc寒玉玦,"A jade bracelet made of cold jade, often worn as an accessory by the rich. It's unknown from whom Hua Qingqing stole it.",สร้อยข้อมือหยกที่ทำจากหยกเย็น คนมีฐานะมักสวมใส่เป็นเครื่องประดับ ไม่มีใครรู้ว่าหัวชิงชิงขโมยมันมาจากใคร
+ItemInfo_dlc金蚕蛊,"Legend has it that various poisonous insects are sealed in a jar, and after they kill each other, the last one remaining will be like a golden silkworm, extremely poisonous.",ตำนานเล่าว่า ถ้าจับแมลงพิษหลายชนิดใส่ไว้ในภาชนะปิดผนึก แล้วปล่อยให้มันกัดกันเอง ตัวสุดท้ายที่รอดอยู่ จะมีรูปร่างเหมือนตัวหนอนไหมทอง และมีพิษร้ายแรงอย่างยิ่ง
+ItemInfo_dlc凤鸟玉佩,A jade pendant carved in the shape of a phoenix bird.,จี้หยกแกะสลักเป็นรูปวิหคเพลิง
+ItemInfo_dlc天穹之印,"An incomplete seal, you can vaguely make out the character ""Sky"".","ตราประทับที่ไม่สมบูรณ์, สามารถประทับตัวอักษร ""ท้องฟ้า"" ได้คลุมเครือ"
+ItemInfo_dlc金疮药(小),<#d09a09>Usage: Take</color>,<#d09a09>การใช้งาน: กิน</color>
+ItemInfo_dlc金疮药(中),<#d09a09>Usage: Take</color>,<#d09a09>การใช้งาน: กิน</color>
+ItemInfo_dlc金疮药(大),<#d09a09>Usage: Take</color>,<#d09a09>การใช้งาน: กิน</color>
+ItemInfo_dlc续命丸(小),<#d09a09>Usage: Take</color>,<#d09a09>การใช้งาน: กิน</color>
+ItemInfo_dlc续命丸(中),<#d09a09>Usage: Take</color>,<#d09a09>การใช้งาน: กิน</color>
+ItemInfo_dlc续命丸(大),<#d09a09>Usage: Take</color>,<#d09a09>การใช้งาน: กิน</color>
+ItemInfo_dlc培元膏(小),<#d09a09>Usage: Take</color>,<#d09a09>การใช้งาน: กิน</color>
+ItemInfo_dlc培元膏(中),<#d09a09>Usage: Take</color>,<#d09a09>การใช้งาน: กิน</color>
+ItemInfo_dlc培元膏(大),<#d09a09>Usage: Take</color>,<#d09a09>การใช้งาน: กิน</color>
+ItemInfo_dlc聚元丹(小),<#d09a09>Usage: Take</color>,<#d09a09>การใช้งาน: กิน</color>
+ItemInfo_dlc聚元丹(中),<#d09a09>Usage: Take</color>,<#d09a09>การใช้งาน: กิน</color>
+ItemInfo_dlc聚元丹(大),<#d09a09>Usage: Take</color>,<#d09a09>การใช้งาน: กิน</color>
+ItemInfo_dlc小还丹(小),<#d09a09>Usage: Take</color>,<#d09a09>การใช้งาน: กิน</color>
+ItemInfo_dlc小还丹(中),<#d09a09>Usage: Take</color>,<#d09a09>การใช้งาน: กิน</color>
+ItemInfo_dlc小还丹(大),<#d09a09>Usage: Take</color>,<#d09a09>การใช้งาน: กิน</color>
+ItemInfo_dlc大还丹(小),<#d09a09>Usage: Take</color>,<#d09a09>การใช้งาน: กิน</color>
+ItemInfo_dlc大还丹(中),<#d09a09>Usage: Take</color>,<#d09a09>การใช้งาน: กิน</color>
+ItemInfo_dlc大还丹(大),<#d09a09>Usage: Take</color>,<#d09a09>การใช้งาน: กิน</color>
+ItemInfo_dlc蜜饯果子,<#d09a09>Usage: Take</color>,<#d09a09>วิธีใช้ : รับประทาน</color>
+ItemInfo_dlc雕花橙子,<#d09a09>Usage: Take</color>,<#d09a09>วิธีใช้ : รับประทาน</color>
+ItemInfo_dlc雪花糕,<#d09a09>Usage: Take</color>,<#d09a09>วิธีใช้ : รับประทาน</color>
+ItemInfo_dlc铜钱包裹(小),Can be used to obtain Coins.,ใช้แล้วจะได้รับเหรียญทองแดง
+ItemInfo_dlc铜钱包裹(中),Can be used to obtain Coins.,ใช้แล้วจะได้รับเหรียญทองแดง
+ItemInfo_dlc铜钱包裹(大),Can be used to obtain Coins.,ใช้แล้วจะได้รับเหรียญทองแดง
+ItemInfo_dlc发展包裹(小),Can be used to obtain Meditation Points.,ใช้แล้วจะได้รับค่าสมาธิ
+ItemInfo_dlc发展包裹(中),Can be used to obtain Meditation Points.,ใช้แล้วจะได้รับค่าสมาธิ
+ItemInfo_dlc发展包裹(大),Can be used to obtain Meditation Points.,ใช้แล้วจะได้รับค่าสมาธิ
+ItemInfo_dlc粮食包裹(小),Can be used to obtain Food.,ใช้แล้วจะได้รับเสบียง
+ItemInfo_dlc粮食包裹(中),Can be used to obtain Food.,ใช้แล้วจะได้รับเสบียง
+ItemInfo_dlc粮食包裹(大),Can be used to obtain Food.,ใช้แล้วจะได้รับเสบียง
+ItemInfo_dlc矿物包裹(小),Can be used to obtain Minerals.,ใช้แล้วสามารถได้รับแร่
+ItemInfo_dlc矿物包裹(中),Can be used to obtain Minerals.,ใช้แล้วสามารถได้รับแร่
+ItemInfo_dlc矿物包裹(大),Can be used to obtain Minerals.,ใช้แล้วสามารถได้รับแร่
+ItemInfo_dlc药材包裹(小),Can be used to obtain Herbs.,ใช้แล้วสามารถได้รับสมุนไพร
+ItemInfo_dlc药材包裹(中),Can be used to obtain Herbs.,ใช้แล้วสามารถได้รับสมุนไพร
+ItemInfo_dlc药材包裹(大),Can be used to obtain Herbs.,ใช้แล้วสามารถได้รับสมุนไพร
+ItemInfo_dlc木材包裹(小),Can be used to obtain Wood.,ใช้แล้วสามารถได้รับไม้
+ItemInfo_dlc木材包裹(中),Can be used to obtain Wood.,ใช้แล้วสามารถได้รับไม้
+ItemInfo_dlc木材包裹(大),Can be used to obtain Wood.,ใช้แล้วสามารถได้รับไม้
+ItemInfo_dlc武道源流(小),"Can be used to level up Disciples, note that outer sect Disciples can only level up to 6.",สามารถพัฒนาระดับลูกศิษย์ได้ โปรดทราบว่า สำหรับศิษย์นอกสำนัก สามารถพัฒนาได้สูงสุดเพียงระดับ 6 เท่านั้น
+ItemInfo_dlc武道源流(中),"Can be used to level up Disciples, note that outer sect Disciples can only level up to 6.",สามารถพัฒนาระดับลูกศิษย์ได้ โปรดทราบว่า สำหรับศิษย์นอกสำนัก สามารถพัฒนาได้สูงสุดเพียงระดับ 6 เท่านั้น
+ItemInfo_dlc武道源流(大),"Can be used to level up Disciples, note that outer sect Disciples can only level up to 6.",สามารถพัฒนาระดับลูกศิษย์ได้ โปรดทราบว่า สำหรับศิษย์นอกสำนัก สามารถพัฒนาได้สูงสุดเพียงระดับ 6 เท่านั้น
+ItemInfo_dlc铜钱,Main resource for power development.,ทรัพยากรหลักในการพัฒนาพลังงาน
+ItemInfo_dlc贡献点,Main resource for power development.,ทรัพยากรหลักในการพัฒนากองกำลัง
+ItemInfo_dlc食物,Main resource for power development.,ทรัพยากรหลักในการพัฒนาพลังงาน
+ItemInfo_dlc铁矿,Main resource for power development.,ทรัพยากรหลักในการพัฒนาพลังงาน
+ItemInfo_dlc药品,Main resource for power development.,ทรัพยากรหลักในการพัฒนาพลังงาน
+ItemInfo_dlc木材,Main resource for power development.,ทรัพยากรหลักในการพัฒนาพลังงาน
+ItemInfo_dlc破空梭,Catch them off guard and hit the key points directly.,โจมตีโดยที่ไม่ทันระวังตั้งตัวและโจมตีจุดสำคัญโดยตรง.
+ItemInfo_dlc疾风刺,"The shot is extremely fast, making it difficult for people to guard against.",การจู่โจมนั้นรวดเร็วมาก ทำให้ผู้คนยากที่จะป้องกันได้
+ItemInfo_dlc龙蛇笔法,"This is a Martial Arts Manual that records the Dragon Snake Pen. The moves are like a dragon piercing the clouds, catching the enemy off guard.",นี่ตำราวิทยายุทธที่บันทึกวิชาพู่กันงูมังกรร่ายรำ กระบวนท่าเหมือนกับมังกรเหินทะลุเมฆาคว้าจับศัตรูโดยไม่ระวังตัว
+ItemInfo_dlc狂风扇诀,"This is a fan technique Manual that records the Tornado Fan. The sudden wind has the power to pull a thousand pounds, and no one can match it.",ตำราวิทยายุทธพัดที่บันทึกวิชาพัดวายุคลั่ง รวบรวมวิธีการใช้พัดให้เกิดลมพายุ แรงจนสามารถยกสิ่งของหนักพันชั่ง ไม่มีใครเทียบได้
+ItemInfo_dlc流云飞扇,This is a Martial Arts Manual that records the basic fan technique - Drifting Cloud Fan.,นี่คือตำราวิทยายุทธที่บันทึกวิชาพัดขั้นพื้นฐาน - พัดเมฆาล่องลอย
+ItemInfo_dlc阳春白雪,"The lute score of ""Spring White Snow"", passed down from ancient times, extremely elegant.","บทเพลงผีผา ""หิมะในฤดูใบไม้ผลิ"" สืบทอดกันมาตั้งแต่สมัยโบราณ ความสูงส่งเป็นเลิศ"
+ItemInfo_dlc碧涧流泉,"The flute score of ""Flowing Mountain Stream"", the style is playful and smooth, hard to find in the market.","บทเพลงขลุ่ย ""ลำธารภูเขาน้ำตก"" มีท่วงทำนองไหลลื่นและนุ่มนวลซึ่งหาได้ยากในท้องตลาด"
+ItemInfo_dlc暗香凌波,"The fragrance is floating, the four directions are the cage.",กลิ่นหอมอ่อนๆ ลอยฟุ้งไปทั่ว ทั่วสี่ทิศถูกกักขังไว้
+ItemInfo_dlc泛沧浪,"The score of ""Fan Canglang"", the music is elegant and makes people put down their guard, then attack with the sound of the piano.",บทเพลง “เพลงแห่งเกลียวคลื่น” ดนตรีไพเราะทำให้คนไม่ระวังตัวแล้วโจมตีด้วยเสียงกู่ฉิน
+ItemInfo_dlc阳关三叠,"The score of ""Triassis Yangguan"", originally a farewell song, now means the separation of yin and yang.","บทเพลง ""ด่านหยางกวนสามท่อน"" เดิมเป็นเพลงอำลา บัดนี้หมายถึงการแยกหยินและหยางออกจากกัน"
+ItemInfo_dlc音波功,"More like a martial art than music, using MP to attack the enemy with sound waves, can achieve a deafening effect.",เหมือนตำรายุทธ์มากกว่าวิชาดนตรี ใช้พลังภายในเพื่อสร้างคลื่นเสียง ที่มีพลังสูงมากจนโจมตีศัตรูได้ เสียงนั้นสามารถสร้างสถานะที่ทำให้หูหนวกได้
+ItemInfo_dlc一指禅,A Manual lost by a martial artist was fortuitously obtained by Fang Xiao Bai.,ตำราวิทยายุทธที่หายสาบสูญ ถูกบันทึกโดยจอมยุทธ์ลึกลับ ฟางเสี่ยวไป๋ได้รับมันมาโดยบังเอิญ
+ItemInfo_dlc罗汉拳法,"A manual recording the basic boxing method of the Shifa Temple - Arhat Fist, more like basic skill training than a martial arts routine.",บันทึกตำราวิชาหมัดมวยพื้นฐานของอารามซื่อฟา - หมัดอรหันต์ เหมือนจะเป็นตำราฝึกทักษะพื้นฐานมากกว่าตำราวรยุทธ
+ItemInfo_dlc雷云掌,"A fierce boxing technique, which is like a thunderbolt in a clear sky when used.",เป็นวิชาฝ่ามือที่ดุร้าย เมื่อใช้ออกจะดุดันและทรงพลัง ดุจดังสายฟ้าฟาดกลางวันแสกๆ หรือเสียงฟ้าร้องที่ดังกึกก้อง
+ItemInfo_dlc七巧如意手,"A sophisticated boxing technique, with a total of seven moves, each of which is exquisitely unique.",วรยุทธ์หมัดมวยที่ซับซ้อน มีทั้งหมด 7 กระบวนท่า แต่ละท่ามีเอกลักษณ์เฉพาะตัวอย่างประณีต
+ItemInfo_dlc逍遥拳法,"Once the unique martial arts of a certain martial arts sect, it is now a fragmentary copy, but still reveals its exquisite agility.",ครั้งหนึ่งเคยเป็นวิชาเฉพาะของบางสำนักในยุทธภพ ปัจจุบันเหลือเพียงแค่ฉบับที่ขาดหายไป ออกหมัดอิสระไร้ห่วงไร้พะวง งดงามประณีตและพลิ้วไหว
+ItemInfo_dlc黑虎拳,"A popular boxing technique among the common people, mostly about how to use Brute force Attack on the opponent's heart.",วิชาหมัดที่แพร่หลายในหมู่ชาวบ้าน โดยทั่วไปแล้วจะเขียนถึงวิธีการใช้กำลังมหาศาล โจมตีไปที่ทรวงอกของคู่ต่อสู้
+ItemInfo_dlc迷魂毒掌,"A Manual that records a cunning and insidious martial arts routine, the user needs to have a high understanding of Toxicology.",ตำราที่บันทึกกระบวนท่าของวิชาภายนอก ที่ร้ายกาจและอำมหิต ผู้ใช้ต้องมีความเข้าใจในศาสตร์พิษในระดับสูงถึงจะฝึกวิชานี้ได้
+ItemInfo_dlc连环掌,"It records a complete and coherent set of palm techniques, it's unknown if one has to start over if interrupted.",บันทึกกระบวนท่าวิชาฝ่ามือที่สมบูรณ์และต่อเนื่อง ไม่รู้ว่าถ้าถูกขัดจังหวะจะต้องเริ่มใหม่ทั้งหมดหรือไม่
+ItemInfo_dlc开山刀法,"A very fierce knife technique, but even if you learn it, you can't really split the mountain.",วิชาการใช้ดาบที่มีพลังมาก แต่ถึงจะเรียนรู้แล้ว ก็ไม่สามารถที่จะไปผ่าภูเขาให้แยกออกได้จริงๆ
+ItemInfo_dlc破甲刀法,"A manual that records the Armor Breaker Blade technique, suitable for dealing with enemies who are good at defense.",คัมภีร์เคล็ดวิชาดาบผ่าเกราะ เหมาะสำหรับการจัดการกับศัตรูที่เก่งด้านการป้องกัน
+ItemInfo_dlc雁行刀法,A manual that records the basic knife technique of the rivers and lakes - Wild Goose Blade.,ตำราวรยุทธที่บันทึกวิชาดาบขั้นพื้นฐานของยุทธภพ - ดาบห่านป่า
+ItemInfo_dlc风沙刀法,"A knife technique originated from the desert, each move reminds people of the wind and sand of the desert.",วรยุทธดาบที่มีต้นกำเนิดมาจากทะเลทราย แต่ละกระบวนท่าทำให้ผู้คนนึกถึงสายลม และทรายในทะเลทราย
+ItemInfo_dlc修罗刀法,"The knife technique is open and close, every move is fatal, only attack and not defend.",วิชาดาบฟาดฟันวงกว้าง โจมตีรวดเร็วรุนแรง ทุกกระบวนท่าหมายเอาชีวิต มีเพียงแต่รุก ไม่มีรับ
+ItemInfo_dlc太乙剑法,"The sword technique of Taoism, square and upright, step by step.",วิชากระบี่ของลัทธิเต๋า เน้นเรียบง่าย แปรเปลี่ยนตามแบบแผน
+ItemInfo_dlc浣纱剑法,A sword technique Manual that records Huansha Sword.,คัมภีร์กระบี่ที่บันทึกวิชากระบี่ล่าสังหาร
+ItemInfo_dlc须弥剑法,A Martial Arts Manual that records the basic sword technique of Jianghu - Sumeru Sword.,ตำราวรยุทธ์ที่บันทึกวิชากระบี่พื้นฐานของยุทธภพ - เพลงกระบี่เขาพระสุเมรุ
+ItemInfo_dlc九宫剑法,"The swordsmanship Manual of the Nine Diagrams Sword, a sword technique realized by a predecessor observing the stars at night.",ตำราวิชากระบี่ที่บันทึกเพลงกระบี่เก้าลักษณ์ เป็นวิชากระบี่ที่ปรมาจารย์ท่านหนึ่งคิดค้นขึ้น หลังจากสังเกตดวงดาวบนท้องฟ้ายามค่ำคืน
+ItemInfo_dlc回风剑法,"A Manual that records the Wind Reversal Sword, with this move, you won't be afraid of the heat in summer!",คัมภีร์กระบี่ที่บันทึกวิชากระบี่ลมหวน ด้วยกระบวนท่านี้ เจ้าจะไม่กลัวความร้อนในฤดูร้อนอีกต่อไป!
+ItemInfo_dlc莲花妙剑,"A sword technique Manual that records Lotus Flower Sword, it is said that the person who recorded this Manual was a poet.",เคล็ดวิชาเพลงกระบี่ดอกบัว ว่ากันว่าผู้ที่บันทึกตำรานี้เป็นนักกวี
+ItemInfo_dlc游龙剑法,A Martial Arts Manual that records the basic sword technique of Jianghu - Dragon Roaming Sword.,ตำราวรยุทธที่บันทึกวิชากระบี่พื้นฐานของยุทธภพ - กระบี่มังกรร่ายรำ
+ItemInfo_dlc大力棍法,A Martial Arts Manual detailing the basic staff technique of the martial world - Brutal Staff.,ตำราวิชากระบองขั้นพื้นฐานของยุทธภพ - กระบองพิฆาต
+ItemInfo_dlc破阵大枪,"A spear technique suitable for battlefield use, widely circulated in military camps.",วิทยายุทธหอกที่เหมาะสำหรับใช้ในสนามรบ แพร่หลายในค่ายทหาร
+ItemInfo_dlc腐尸枪法,"A Martial Arts Manual detailing the Rotting Spear technique, a sinister spear technique used in conjunction with various poisons. All heroes in the world avoid it like the plague.",คัมภีร์วิทยายุทธที่บันทึกวิชาเพลงหอกสลายซาก ซึ่งเป็นวิชาหอกที่ใช้ร่วมกับยาพิษต่างๆ มีความอำมหิตและเล่ห์เหลี่ยม จอมยุทธ์ทั่วหล้าต่างพากันหลีกเลี่ยงเหมือนกับงูพิษและแมงป่อง
+ItemInfo_dlc普渡杖法,"A Buddhist staff technique, used to save all beings, it injures people but does not kill.",วิชาไม้เท้าของชาวพุทธ เน้นช่วยเหลือสรรพสัตว์ ทำร้ายศัตรูได้ แต่ไม่สังหาร
+ItemInfo_dlc蟠龙棍法,A Martial Arts Manual detailing the basic staff technique of the martial world - Dragon Staff.,ตำราวิชาพลองขั้นพื้นฐานของยุทธภพ - พลองมังกร
+ItemInfo_dlc韦陀杖法,A Martial Arts Manual detailing the basic staff technique of the Shifa Temple - Veda Staff.,ตำราวรยุทธที่บันทึกวิชาไม้เท้าขั้นพื้นฐานของอารามซื่อฟา - พลองพระเวท
+ItemInfo_dlc六合枪法,A Martial Arts Manual detailing the basic spear technique of the martial world - Six Forms Spear.,ตำราวิชาหอกขั้นพื้นฐานของยุทธภพ - หอกหกประสาน
+ItemInfo_dlc儒雅风流,"Every move you make exudes an elegant and honorable demeanor, causing others to lose their spirit at first sight.",ทุกกระบวนท่าล้วนแสดงถึงกิริยา มารยาทที่สง่างามและมีเกียรติ ทำให้ผู้พบเห็น ต้องสูญเสียจิตวิญญาณในการต่อสู้ตั้งแต่แรกเห็น
+ItemInfo_dlc凌波诀,"Ride the waves, move like a shadow, always one step ahead.",โต้คลื่น เคลื่อนตัวดั่งเงา นำหน้าหนึ่งก้าวเสมอ
+ItemInfo_dlc金钟罩,"Buddhist heart method, excels in Defense, invulnerable to swords and blades once mastered.",วิชาฝึกจิตใจตามหลักพุทธศาสนา มีจุดเด่นในการป้องกันตัว เมื่อฝึกฝนจนสำเร็จแล้ว ร่างกายจะสามารถต้านทานกระบี่และดาบได้
+ItemInfo_dlc腐毒功,"Poisonous internal power, once mastered, the body is surrounded by poisonous gas.",วิชาพลังภายในที่ชั่วร้าย เมื่อฝึกจนสำเร็จ จะมีไอพิษล้อมรอบร่างกาย
+ItemInfo_dlc金匮要略,"Not only can it be used to detoxify various poisons, but it also has the effects of strengthening the body, beautifying and nourishing the face.",ไม่เพียงแต่ใช้แก้พิษได้ทุกชนิดเท่านั้น แต่ยังมีผลทำให้ร่างกายแข็งแรง งดงาม และบำรุงใบหน้าอีกด้วย
+ItemInfo_dlc玄煞劲,"Protect with the power of Xuan Sha, making the enemy fear and unable to move.",ปกป้องด้วยพลังของ Xuan Sha ทำให้ศัตรูหวาดกลัวและไม่สามารถเคลื่อนไหวได้
+ItemInfo_dlc捕风诀,"Focus training method for agility, always one step ahead.",การมุ่งเน้นที่การฝึกทักษะทางจิตที่คล่องแคล่ว จะทำให้คุณนำหน้าไปหนึ่งก้าวเสมอ
+ItemInfo_dlc莽牛劲,"Powerful Charge like a wild bull, attacking the enemy's vital points.",เหมือนวัวป่าพุ่ง เข้าโจมตีจุดอ่อนของศัตรู
+ItemInfo_dlc破甲劲,"This Qi focuses on attacking the enemy's weak points, breaking their Preparedness.",พลังลมปราณนี้มุ่งเน้นไปที่จุดอ่อนของศัตรู และทำลายการป้องกันของศัตรู
+ItemInfo_dlc剑法典籍,This records information about various types of famous swords in the current martial arts world.,บันทึกข้อมูลเกี่ยวกับกระบี่วิเศษ และกระบี่ที่มีชื่อทุกชนิด ในยุทธภพปัจจุบัน
+ItemInfo_dlc混元劲,"Transforming peaceful and natural internal breath into a strong and upright external force, reducing the consumption of internal power.",เปลี่ยนลมหายใจภายในที่สงบและเป็นธรรมชาติ ให้เป็นพลังภายนอกที่แข็งแกร่งและเที่ยงตรง ลดการใช้พลังภายใน
+ItemInfo_dlc御兽术,"Records the basic beast taming skills of Beast Manor, which can effectively enhance the combat skills of pets.",บันทึกทักษะพื้นฐานของการควบคุมสัตว์ในหมู่ตึกหมื่นอสูร ซึ่งสามารถเพิ่มศักยภาพในการต่อสู้ของสัตว์เลี้ยงได้อย่างมีประสิทธิภาพ
+ItemInfo_dlc调息法,"It can keep you young forever, maintaining your youthful appearance.",มันสามารถทำให้คุณดูอ่อนเยาว์ตลอดไป โดยคงความอ่อนเยาว์เอาไว้
+ItemInfo_dlc云龙三现,"Holding a dagger, stab the enemy three times at a very fast speed, hitting the key points everywhere.",ใช้มีดสั้น แทงจู่โจมศัตรูสามครั้งด้วยความเร็วที่ยากจะหยั่งถึง ทุกจุดล้วนเจาะจงที่จุดสำคัญของศัตรู
+ItemInfo_dlc银蛇流光,"Like a silver snake dancing, beautiful and critical.",เหมือนดังอสรพิษเกล็ดเงินที่กำลังร่ายรำ งดงามและอันตราย
+ItemInfo_dlc风雷刺法,"The moves are fierce and poisonous, like the punishment of thunder.",กระบวนท่าโหดร้ายและรุนแรงเหมือนกับการลงทัณฑ์ด้วยอัสนี
+ItemInfo_dlc曹全碑,"The martial arts of writing realized from ""Cao Quan Steele"".","วรยุทธพู่กันที่คิดค้นขึ้นโดยใช้หลักการเขียนตัวอักษรจาก ""จารึกเฉาฉวน"""
+ItemInfo_dlc逍遥游,"Raise a glass to watch the beauty laugh, a carefree life in the flower bush.",ยกจอกขึ้นดื่ม ชื่นชมสาวงามขบขัน ชีวิตไร้กังวล ล่องลอยท่ามกลางบุปผา
+ItemInfo_dlc风卷残云式,"The impatient attack, the life-threatening lock heart. It has the effect of wind sweeping the clouds.",เร่งรัดจู่โจมหัวใจ อันตรายถึงชีวิต  ทำให้ศัตรูรู้สึกเหมือนถูกพายุพัดเมฆออกไป
+ItemInfo_dlc汉宫秋月,"The lute score of ""Autumn Palace Moon"", the tone is hazy, drunk and fallen.","บทเพลงผีผา ""พระราชวังฮั่นในคืนพระจันทร์สารท"" มีเสียงดนตรีที่ไพเราะลึกลับน่าค้นหา ทำให้ผู้ฟังรู้สึกเหมือนเมาเคลิ้มหลงใหล"
+ItemInfo_dlc鹧鸪天,"Starting from the plum and ending with the plum, the song ends with the death of the person, only the flower knows.",เริ่มจากดอกเหมยและลงท้ายด้วยดอกเหมย บทเพลงจบด้วยความตายของคนผู้หนึ่ง มีเพียงบุบผาเท่านั้นที่รู้
+ItemInfo_dlc蝶舞天涯,It seems that there are millions of colorful butterflies fluttering in the song.,ดูเหมือนมีผีเสื้อหลากสีนับล้านตัวพลิ้วไหวอยู่ในบทเพลง
+ItemInfo_dlc梅花三弄,"Can disturb the mind, become mad, lose self.",สามารถทำให้จิตใจสับสนวุ่นวาย กลายเป็นคนบ้าคลั่ง สูญเสียตัวตน
+ItemInfo_dlc高山流水,"The lost divine song in the martial arts world, said to have close relations with Bo Ya and Zi Qi.",บทเพลงศักดิ์สิทธิ์ที่สูญหายไปในยุทธภพ ว่ากันว่ามีความสัมพันธ์ใกล้ชิดกับ โบยาและ จือฉี
+ItemInfo_dlc般若掌,"One of the unique skills of Buddhist palm techniques, when practicing, you need to have a peaceful mind to exert its miraculous power against the enemy, Exorcist's determination.",หนึ่งในวิชาฝ่ามือชั้นสูงของพุทธศาสนา เมื่อฝึกฝนต้องมีจิตใจสงบเยือกเย็น จึงจะสามารถใช้พลังได้อย่างเต็มที่ ปราบศัตรูและปราบมารได้
+ItemInfo_dlc断魂爪,"An extremely fierce claw technique, making it hard to defend against.",วิชากรงเล็บที่มีความรุนแรงและทรงพลัง จนทำให้ศัตรูยากที่จะป้องกันตัวได้
+ItemInfo_dlc破空拳,"It has the momentum to break the sky with one punch, and the name is also very domineering.",หมัดที่มีพลังและแรงขนาดที่สามารถทำลายท้องฟ้าได้ พลังอันมหาศาลที่ชัดเจนจากชื่อของมัน
+ItemInfo_dlc通天手,"It is said to be a long-lost martial art, once mastered, one can break the sky with one palm and part the clouds to see the sun.",กล่าวกันว่าเป็นวิชายุทธที่หายสาบสูญไปนาน เมื่อเชี่ยวชาญแล้ว ด้วยฝ่ามือเดียวก็สามารถทำลายท้องฟ้า แยกเมฆออกชมตะวันได้
+ItemInfo_dlc大力金刚掌,"A Buddhist palm technique, its power is so great that it can break a person's muscles and bones with one palm.",วิทยายุทธฝ่ามือของชาวพุทธที่ทรงพลัง สามารถทำลายกระดูกและกล้ามเนื้อของผู้คนด้วยเพียงฝ่ามือเดียว
+ItemInfo_dlc伤情别离掌,It is said to be a boxing technique realized by a highly skilled predecessor when he was disheartened.,ว่ากันว่าเป็นเคล็ดวิชาหมัดมวย ที่ผู้มีฝีมือสูงส่งคิดค้นขึ้น ขณะที่เขาเคว้งคว้างและสิ้นหวัง
+ItemInfo_dlc醉仙拳,"A boxing technique that has higher power after getting Drunk, the whole Manual exudes a strong smell of alcohol.",วรยุทธ์มวยชนิดหนึ่งที่เมื่อเมาแล้วจะยิ่งมีพลังมากขึ้น โดยทั้งตำรานั้นเต็มไปด้วยกลิ่นสุรารุนแรง
+ItemInfo_dlc太极拳,"A Taoist boxing technique, integrating the Tao of Yin and Yang and Tai Chi, a slow but fast boxing technique.",วรยุทธ์หมัดมวยแบบเต๋า ผสมผสานเต๋าหยินหยางและไทเก๊ก ซึ่งเป็นเทคนิคการชกมวยที่ช้าแต่เร็ว
+ItemInfo_dlc碧落黄泉,"This finger technique is like No Escape, good at attacking from all angles, leaving the opponent with no counterattack.",วิทยายุทธการใช้นิ้วเสมือนใช้แหฟ้าตาข่ายดิน โจมตีจากทุกทิศทาง ทำให้ผู้คนไม่มีทางป้องกัน หรือโต้กลับ
+ItemInfo_dlc怒流刀法,"This knife technique is ruthless, the moves are linked together, leaving the enemy with no breath.",วิชาดาบที่เย็นชาไร้ปรานี กระบวนท่าโจมตีต่อเนื่องกันอย่างแนบเนียน ทำให้ศัตรูไร้โอกาสแม้แต่จะหายใจ
+ItemInfo_dlc霹雳刀法,"A fast and decisive knife technique, without any hesitation.",กระบวนท่าดาบที่รวดเร็วและเฉียบขาด ปราศจากความลังเลหรือยืดเยื้อ
+ItemInfo_dlc破军刀法,A manual that records the Ruinous Star Blade technique.,ตำราที่บันทึกเคล็ดวิชาดาบทลายทัพ
+ItemInfo_dlc盘空刀法,"This knife technique is good at attacking the upper body, if you are not careful, you will die on the spot.",วิชาดาบที่เชี่ยวชาญในการโจมตีร่างกายส่วนบน หากเผลอเพียงนิดเดียว จะต้องจบชีวิตทันที
+ItemInfo_dlc七旋斩,"A sophisticated knife technique, this move is like having seven knives spinning at the same time.",วรยุทธ์ดาบอันซับซ้อน กระบวนท่าเหมือนกับการหมุนดาบเจ็ดเล่มพร้อมกัน
+ItemInfo_dlc碧磷刀法,"Practicing this knife technique allows the blade to be poisoned, touching it can make people lose all senses in an instant.",การฝึกวิชาดาบจะต้องให้ใบดาบเคลือบพิษ สัมผัสเมื่อใดจะทำให้ผู้ถูกฟันสูญเสียประสาทสัมผัสทั้งห้าในทันที
+ItemInfo_dlc太极剑法,"The highest sword technique Manual of Taoism, gathering the energy of yin and yang, exhausting the wonders of the world.",สุดยอดวิทยายุทธแห่งศาสตร์กระบี่ของลัทธิเต๋า รวบรวมพลังหยินและหยาง ใช้ความมหัศจรรย์ของการแปรเปลี่ยนฟ้าดินจนถึงที่สุด
+ItemInfo_dlc素女剑法,"It is said to be created by a female swordsman, suitable for female knights to learn.",กล่าวกันว่าถูกคิดค้นขึ้นโดยบรรพจารย์มือกระบี่หญิง เหมาะสำหรับให้จอมยุทธ์หญิงฝึกฝน
+ItemInfo_dlc贪狼剑法,As fierce as its name.,รุนแรงดุจดั่งชื่อของมันเอง
+ItemInfo_dlc求败九式,"A sword technique said to be used by an undefeated swordsman, the name is really domineering...",ว่ากันว่าเป็นกระบวนท่ากระบี่ที่ถูกใช้โดยมือกระบี่ผู้ไร้พ่าย ชื่อกระบวนท่านี้ช่างเปี่ยมด้วยความสง่างามและทรงพลังเสียจริง...
+ItemInfo_dlc岁寒三友,"It emphasizes courtesy before soldiers, attacking the opponent's vital points when they are unprepared, and there is no defeat within three moves.",เน้นมารยาทก่อนใช้กำลัง ใช้โอกาสที่ศัตรูไม่ทันระวังโจมตีจุดตาย ไร้พ่ายในสามกระบวนท่า
+ItemInfo_dlc凌尘剑法,"An extremely sharp sword technique, one sword breaks the dust.",วิชากระบี่ที่มีความคมกริบ กระบี่เดียวสามารถสลายฝุ่นได้
+ItemInfo_dlc苍穹剑法,"When the sword technique is fully accomplished, it can pierce the sky with one sword.",เมื่อวิทยายุทธกระบี่นี้ถึงขั้นสูงสุด ก็สามารถทะลวงผ่านท้องฟ้าได้ด้วยกระบี่เดียว
+ItemInfo_dlc无锋剑法,"A sword technique manual that requires the use of a blunt sword, but what's the difference between a blunt sword and an iron rod?",คัมภีร์กระบี่ที่ต้องใช้กระบี่ทื่อ แต่กระบี่ทื่อกับท่อนเหล็กนั้นแตกต่างกันอย่างไร?
+ItemInfo_dlc广寒剑法,"A sword technique Manual that records Moon Palace Sword, this sword technique carries cold air, which can block the blood vessels and cause blood to flow backwards.",คัมภีร์กระบี่ที่บันทึกเพลงกระบี่วังจันทรา เทคนิคกระบี่นี้นำพาอากาศเย็น ซึ่งสามารถปิดกั้นหลอดเลือดและทำให้เลือดไหลย้อนกลับได้
+ItemInfo_dlc太虚十八剑,"It is said to be a sword technique realized by a sage, with eighteen moves, each move has an understanding of everything in the world.",เล่าขานกันมาว่าเป็นกระบวนท่ากระบี่ที่บรรลุโดยนักปราชญ์ยุคหนึ่ง มีทั้งหมดสิบแปดกระบวนท่า แต่ละท่ามีความเข้าใจเกี่ยวกับสิ่งต่างๆ ในโลกนี้
+ItemInfo_dlc星月剑法,"An extremely fast sword technique, like a myriad of stars when used.",วิชากระบี่ที่รวดเร็วอย่างยิ่ง เมื่อใช้ออก ราวกับดวงดาวนับไม่ถ้วนบนท้องฟ้า
+ItemInfo_dlc忘忧剑法,"Its meaning is straightforward, forget worries, meaning to cut off troubles, hope not to cut off happy things.",ความหมายของมันตรงไปตรงมา คือการลืมเรื่องที่ทำให้ทุกข์ใจ หมายความว่าต้องการตัดเรื่องที่ทำให้กังวลใจออกไป แต่ก็หวังว่าจะไม่ตัดเรื่องที่ทำให้มีความสุขออกไปด้วย
+ItemInfo_dlc黄泉引路枪,"This spear technique needs to be used in conjunction with toxins, truly insidious to the extreme.",วิชาหอกนี้ต้องใช้คู่กับพิษ เป็นการโจมตีที่ค่อนข้างต่ำช้า เน้นย้ำถึงความร้ายกาจของผู้ใช้อย่างแท้จริง
+ItemInfo_dlc云林棍法,The staff technique Manual stored in the Cloud Forest Temple must have its special features.,ตำราวิชาพลองที่เก็บรักษาไว้ที่วัดป่าเมฆา ย่อมต้องมีเอกลักษณ์ที่โดดเด่นเป็นพิเศษ
+ItemInfo_dlc混元棍法,This is a set of staff techniques that gather the energy of the mixed yuan on the staff for both offense and defense.,ตำราวิทยายุทธพลองที่รวมพลังแห่งเอกภาพไว้ที่ไม้พลอง นับเป็นวิชาพลองที่มีทั้งการโจมตีและป้องกันอย่างครบถ้วน
+ItemInfo_dlc叶家枪法,"A Martial Arts Manual detailing the unique spear technique of the Ye family, which can only show its power on the battlefield, capable of resisting thousands of troops and horses.",บันทึกตำราวิทยายุทธ ที่บันทึกวิชาหอกอันเป็นเอกลักษณ์ของตระกูลเย่ ที่สามารถแสดงอานุภาพจริงๆ ได้ในสนามรบ สามารถต้านทานกองทหารและม้านับพันได้
+ItemInfo_dlc七杀枪法,A Martial Arts Manual detailing the Power Star Spear technique. This spear technique indeed only has seven moves.,ตำราวิทยายุทธหอกที่บันทึก วิชาหอกเจ็ดพิฆาต วิชาหอกนี้มีเพียงเจ็ดกระบวนท่าเท่านั้น
+ItemInfo_dlc疯魔棍法,"The crazier the learner's state of mind, the stronger the power of the staff technique. However, it should not drive you crazy when you practice it.",ยิ่งจิตใจผู้ฝึกฝนบ้าคลั่งเท่าไหร่ พลังของกระบองก็ยิ่งแข็งแกร่งขึ้นเท่านั้น แต่การฝึกฝนน่าจะไม่ทำให้บ้าไปเลยใช่ไหม?
+ItemInfo_dlc金刚降魔杵,"This is a high-level Buddhist staff technique Manual, which is the technique used by the Western Heaven Protector.",ตำราวิทยายุทธพลองพุทธขึ้นสูง ซึ่งเป็นวิชาที่ใช้โดยผู้พิทักษ์สวรรค์ตะวันตก
+ItemInfo_dlc紧那罗王棍,This is a Martial Arts Manual that records the high-level Buddhist staff technique - Kinnara Staff. It has a unique style and is said to be used by Buddhist gods.,บันทึกตำราวรยุทธ์ไม้เท้าศักดิ์สิทธิ์ของพุทธศาสนา - พลองราชากินนร มีลักษณะเฉพาะตัว ว่ากันว่าถูกใช้โดยเทพเจ้าในศาสนาพุทธ
+ItemInfo_dlc盛世春秋,"The painstaking work of the sages, for the creation of a prosperous age, forge ahead.",ผลงานที่บรรพชนทุ่มเททั้งแรงกายและใจเพื่อสร้างยุคทอง โดยไม่หวั่นไหวหรือท้อถอย
+ItemInfo_dlc太极玄,"As the saying goes, the Origin opens to reveal Yin and Yang, Yin and Yang evolve to form Tai Chi. This move emphasizes both hardness and softness, suitable for both movement and stillness. It can be used to delay time with any martial arts.",ตามคำกล่าวที่ว่า เมื่อฟ้ากำเนิดปรากฏหยินและหยาง หยินและหยางแปรเปลี่ยนเป็นไทเก๊ก การเคลื่อนไหวที่ผสมผสานความแข็งและความอ่อนนุ่ม ทั้งการเคลื่อนไหวและการสงบนิ่ง ด้วยวิธีนี้สามารถต่อสู้กับวิชาใดๆ ก็ได้ และใช้เพื่อยืดเวลา
+ItemInfo_dlc横练金身,"The legendary Diamond Shield, Iron Cloth Shirt. Once mastered, it grants immunity to all poisons and leaves the body unharmed.",เสื้อฮู้ดวัชระและเสื้อเชิ้ตผ้าเหล็กในตำนาน หลังจากเชี่ยวชาญแล้ว มันจะคงกระพันต่อพิษทุกชนิด และร่างกายจะไม่ได้รับความเสียหาย
+ItemInfo_dlc洛神步,"Like a light cloud covering the moon, like a flowing wind returning snow. This footwork is as Elegant as a dragonfly skimming the water, making it difficult for others to catch up.",ดุจดังเมฆาเบาบางบดบังดวงจันทร์ ล่องลอยดุจลมที่พัดผ่านหิมะ การก้าวย่างนี้เบาเหมือนแมลงปอแตะน้ำ ทำให้ผู้คนยากที่จะตามทัน
+ItemInfo_dlc五毒秘法,"Records the secret method of refining Gu with five poisons, its effect is extremely poisonous and ruthless.",บันทึกขั้นตอนวิธีลับในการกลั่นพิษพิษทั้งห้า และผลกระทบของมันช่างเลวร้ายและน่ากลัวอย่างยิ่ง
+ItemInfo_dlc纯阳功,"Internal training of the Five Elements Treasure, external training of muscles, bones and skin, and the Meridian in the middle, the Pure Yang Immortal Pine.",ฝึกฝนพลังภายในทั้ง 5 ธาตุ ฝึกฝนกล้ามเนื้อ กระดูก ผิวหนังภายนอกให้แข็งแกร่ง เชื่อมเส้นเอ็นและเส้นลมปราณอย่างสมบูรณ์ ร่างกายบริสุทธิ์ด้วยพลังหยางอมตะ เหมือนกับต้นสนที่เขียวชอุ่มตลอดกาล
+ItemInfo_dlc四圣心源,"Advanced Medical, effective methods for all kinds of difficult and complicated diseases.",วิชาการแพทย์ที่ลึกซึ้ง สามารถรักษาโรคและอาการเจ็บป่วยทุกชนิด ได้อย่างมีประสิทธิภาพ
+ItemInfo_dlc凌云步,"Comprehend the Lingyun characteristic, making your steps more elusive when facing the enemy.",หลังจากเข้าใจแก่นแท้ของคุณสมบัติหลิงหยุนแล้ว ย่างก้าวของเจ้าก็กลายเป็นสิ่งที่ลึกลับและคาดเดาไม่ได้มากขึ้นเมื่อเผชิญหน้ากับศัตรู
+ItemInfo_dlc玄阴诀,"The most Yin and evil method, can transform your own MP into a Weapon and inject it into the enemy's body, killing invisibly.",เคล็ดวิชาหยินลึกลับและชั่วร้าย สามารถเปลี่ยนพลังภายในให้เป็นอาวุธ ปล่อยเข้าไปในร่างของศัตรู สังหารผู้คนอย่างไร้ล่องลอย
+ItemInfo_dlc藏剑秘卷,"The trick to using a sword. When mastered to the extreme, even a sheathed sword can injure people with its sword energy.",เคล็ดลับการใช้กระบี่ เมื่อเชี่ยวชาญถึงขีดสุด แม้แต่กระบี่ในฝักก็สามารถทำร้ายผู้คนด้วยพลังกระบี่ของมันได้
+ItemInfo_dlc寻龙术,"A peculiar book, it records how to find the tombs of ancient people based on the layout of the terrain and Feng Shui.",หนังสือแปลกประหลาด ที่บันทึกวิธีการค้นหาสุสานโบราณ โดยอิงตามหลักภูมิศาสตร์และการจัดวางฮวงจุ้ย
+ItemInfo_dlc武穆秘典,"A military strategy book written by Ye Pengju, containing profound mental secrets.",หนังสือกลยุทธ์ทางทหารที่เขียนโดย เย่เผิงจู ซึ่งบรรจุเคล็ดวิชาและความลับที่ลึกซึ้ง
+ItemInfo_dlc莽苍诀,"The Big Dipper hangs in the wild, the Bright River floats in the clear sky.",ดาวเหนือลอยลงปกคลุมทุ่งหญ้ากว้าง แม่น้ำใสส่องแสงระยิบระยับลอยขึ้นกลางฟ้ากระจ่าง
+ItemInfo_dlc圣火燎原,A spark can start a prairie fire.,ประกายไฟเพียงจุดเดียว ก็สามารถทำให้เกิดไฟลุกไหม้ในทุ่งหญ้าได้
+ItemInfo_dlc罗刹毒经,"Detailed records of the effects and production methods of various Toxics, the enemy struggles in the pain of being Poisoned.",ขั้นตอนผลกระทบและวิธีการเตรียมพิษต่างๆได้รับการบันทึกอย่างละเอียด ศัตรูต้องดิ้นรนกับความเจ็บปวดจากพิษ
+ItemInfo_dlc火蟾诀,The internal power mantra imprinted in the Flame Toad Cave.,เคล็ดวิชาความแข็งแกร่งภายในที่จารึกอยู่ในถ้ำคางคกอัคคี
+ItemInfo_dlc兽吼功,A method of releasing MP during a roar to shock and injure the heart meridians of surrounding enemies.,วิชาที่ปล่อยพลังลมปราณออกมาขณะคำราม ทำให้เส้นลมปราณหัวใจของศัตรู ที่อยู่รอบๆ เสียหาย
+ItemInfo_dlc海纳百川,"A collection of breathing adjustment methods from a hundred families, after Advance, you can absorb all kinds of Qi for your own use.",วิชาที่เกิดจากการรวบรวมเคล็ดกำลังภายใน จากหลายสำนัก เมื่อฝึกสำเร็จ สามารถดูดซับพลังจากทุกทิศทาง เพื่อใช้เป็นพลังของตัวเอง
+ItemInfo_dlc五禽戏,"A technique created by imitating the postures of tigers, deer, bears, monkeys, and birds, which has the effect of strengthening the body.",เทคนิคที่สร้างขึ้นโดยการเลียนแบบอิริยาบถของเสือ กวาง หมี ลิง และนก ซึ่งมีผลทำให้ร่างกายแข็งแรง
+ItemInfo_dlc天星诀,"Channeling MP into Throwing, aided by inch energy to throw out, even sand and stones can penetrate iron armor.",การส่ง MP ไปสู่อาวุธลับ โดยเสริมพลังภายในระดับหนึ่งในการขว้างออกไป แม้แต่ทรายและหินก็สามารถเจาะทะลุเกราะเหล็กได้
+ItemInfo_dlc刺秦要诀,"The legendary Dagger Manual, it is said that it is the skill learned by Jing Ke.",คัมภีร์มีดกริชในตำนาน กล่าวกันว่าเป็นวิชาที่จิงเคอร่ำเรียน เพื่อใช้ลอบสังหารอ๋องฉิน หรือจิ๋นซีฮ่องเต้
+ItemInfo_dlc江山多娇,Every stroke and ink is full of love for this beautiful landscape.,ทุกฝีแปรงและจุดหมึก ล้วนแต่เป็นการแสดงออกถึงความรักที่มีต่อภาพสวยงามของแผ่นดินนี้
+ItemInfo_dlc扇舞春秋,"It perfectly combines dance and martial arts, and every move has the changes of spring, summer, autumn and winter.",เป็นการผสมผสานการร่ายรำและวิทยายุทธได้อย่างลงตัว และทุกการเคลื่อนไหวล้วนมีการเปลี่ยนแปลงของ ฤดูใบไม้ผลิ ฤดูร้อน ฤดูใบไม้ร่วง และฤดูหนาว
+ItemInfo_dlc天外流星,Sophisticated Martial Arts that the ancients understood from the situation of a meteor falling.,วิชายุทธอันลึกล้ำที่บรรพชนเข้าใจจากการสังเกตปรากฏการณ์ดาวตก
+ItemInfo_dlc蝶恋花,"Alone on the high building, looking at the end of the world.",อยู่เดียวดายบนตึกสูง เฝ้ามองทางไกลสุดขอบฟ้า
+ItemInfo_dlc十面埋伏,"The tune is full of the sound of war, killing intent everywhere.",ทำนองเพลงเต็มไปด้วยเสียงของอาวุธ และสงคราม ทุกที่ล้วนเต็มไปด้วยเจตนาฆ่าฟัน
+ItemInfo_dlc广陵散,"It is said that Ji Kang was good at playing this tune, but he kept it secret. The real thing has long been lost.",ว่ากันว่าจีคังเล่นเพลงนี้เก่ง แต่เขาเก็บมันเป็นความลับ ของจริงหายสาบสูญไปนาน
+ItemInfo_dlc傲江湖,"Laugh at the sea, waves rise and fall, who can look down upon all heroes, only heaven knows.",หัวเราะเยาะทะเลกว้าง คลื่นลอยขึ้นลอยลง ใครจะสามารถยืนหยัดเหนือผู้อื่นได้เพียงฟ้าดินเท่านั้นที่รู้
+ItemInfo_dlc万蛊谣,"A special music that can stimulate the outbreak of poisonous insects. During the performance, thousands of insects surge, corroding the heart and bones.",บทเพลงวิเศษ สามารถกระตุ้นให้พิษของแมลงพิษทำงานได้ ในระหว่างการเป่าเพลง แมลงพิษนับพันจะเคลื่อนไหว กัดกินหัวใจและกระดูก
+ItemInfo_dlc灭天掌,"An extremely domineering palm technique, it is said that the sun, moon, stars, and constellations all avoid it, but it's a bit exaggerated.",เป็นวิชาการใช้ฝ่ามือที่ร้ายกาจอย่างยิ่ง ว่ากันว่าดวงอาทิตย์ ดวงจันทร์ ดวงดาว และกลุ่มดาวต่างๆ ต่างก็หลีกเลี่ยงมัน แต่ก็กล่าวเกินจริงไปเล็กน้อย
+ItemInfo_dlc如来神掌,"I guess you've heard of a palm technique that fell from the sky, right?",ข้าเดาว่าเจ้าคงเคยได้ยินวิชาฝ่ามือที่ตกลงมาจากฟากฟ้าใช่ไหม?
+ItemInfo_dlc撼天指法,"An extremely domineering finger technique, its Power is said to be able to shake the heavens and the earth.",วิชาดรรชนีที่ทรงพลังอย่างมาก กล่าวกันว่าพลังของมันสามารถเขย่าฟ้าและดินได้
+ItemInfo_dlc烈阳拳,"A strange boxing technique with only one move, a heat wave hits your face when you use it.",วิทยายุทธหมัดสุดแปลกที่มีเพียงกระบวนท่าเดียว เมื่อใช้ จะมีคลื่นความร้อนพุ่งเข้าใส่หน้า
+ItemInfo_dlc贯云指,"Gather years of cultivated MP at the fingertips, one strike can penetrate the sky.",วบรวมลมปราณที่ฝึกฝนมาหลายปีไว้ที่ปลายนิ้ว การโจมตีเพียงครั้งเดียวก็สามารถทะลุทะลวงท้องฟ้าได้
+ItemInfo_dlc紫薇惊龙掌,"A palm technique that gathers Dragon King Aura, with a faint dragon roar.",วิชาฝ่ามือที่ใช้ลมปราณราชันมังกรที่รวมรวมมา ออกกระบวนท่าฝ่ามือที่มีเสียงคล้ายเสียงคำรามของมังกร
+ItemInfo_dlc吞鲸刀法,It is said to be a sword technique that can split even a whale in two.,กล่าวกันว่าเป็นวิทยายุทธดาบที่สามารถฟันปลาวาฬยักษ์ออกเป็นสองส่วนได้
+ItemInfo_dlc斩天刀法,"The unique knife technique of the Cold Skin GangMaster, with an unparalleled and domineering style, almost possessing the power to split the sky.",วิชาดาบเฉพาะตัวของหัวหน้าพรรคมังสาเหมันต์ ด้วยกระบวนท่าดาบที่ทรงพลังไม่มีใครเทียบได้ เกือบจะมีพลังในการตัดท้องฟ้าได้เลยทีเดียว
+ItemInfo_dlc天魔刀法,A Martial Arts Manual detailing the legendary sword technique - Archdemon Blade. It is said that anyone who masters this technique and falls into the demonic path will be invincible.,"ตำราวรยุทธเกี่ยวกับวรยุทธดาบในตำนาน - ดาบมารสวรรค์, ว่ากันว่าใครก็ตามที่ฝึกวิชานี้สำเร็จจนเชี่ยวชาญ และเข้าสู่วิถีมารจะอยู่ยงคงกระพัน."
+ItemInfo_dlc一刀斩,"Concentrating all strength into a single strike, the outcome is decided in one move.",รวมพลังทั้งหมดไว้ในการโจมตีเพียงครั้งเดียว ผลลัพธ์จะถูกตัดสินในกระบวนท่าเดียว
+ItemInfo_dlc无极剑法,"The ultimate understanding of swordsmanship, reaching the realm of understanding the laws of the world.",สุดยอดแห่งการเข้าใจวิชากระบี่นั้น คือบรรลุถึงระดับที่เข้าใจถึงกฎเกณฑ์ของโลกอย่างลึกซึ้ง
+ItemInfo_dlc磐龙剑法,An ancient and profound sword manual.,เคล็ดวิชากระบี่โบราณ ที่มีความลึกลับซับซ้อน ยากแก่การเข้าใจ
+ItemInfo_dlc破天剑法,"A martial arts manual that records the legendary sword technique - Sky Breaker Sword, it is said that after mastering this technique, the sword qi can split the sky.",ตำราวรยุทธที่บันทึกเคล็ดวิชากระบี่ในตำนาน - เพลงกระบี่ทลายฟ้า ว่ากันว่าหลังจากเชี่ยวชาญเทคนิคนี้แล้ว ปราณกระบี่สามารถแยกท้องฟ้าได้
+ItemInfo_dlc浮华掠影剑,A sword technique that combines the strengths of all families and integrates hundreds of families.,วิชากระบี่ที่รวมความสามารถจากหลายสำนักหลายตระกูล มาผสมผสานเป็นหนึ่งเดียว
+ItemInfo_dlc九黎巫叉,"It is said to be a spear technique used by the ferocious god of the Jiuli in ancient times, mysterious and critical.",กล่าวกันว่า เป็นวิชาหอกที่เทพเจ้าผู้ดุร้ายแห่งเผ่าจิ่วลี่ใช้ในสมัยโบราณ มีกระบวนท่าลึกลับและร้ายกาจอย่างมาก
+ItemInfo_dlc天罡飞龙杖,This move is like a stampede of thousands of beasts.,กระบวนท่านี้เหมือนกับการเหยียบย่ำของหมื่นสัตว์ร้าย
+ItemInfo_dlc沥泉枪法,It is said to be obtained by Ye Pengju by chance in his youth. This spear technique is easy to learn and every move is critical.,ว่ากันว่าเย่เผิงจูได้มาโดยบังเอิญในวัยเยาว์ วิทยายุทธหอกนี้ง่ายต่อการเรียนรู้ สามารถปรับเปลี่ยนการใช้ท่าทางได้ตามสถานการณ์ และแต่ละกระบวนท่าล้วนอันตราย
+ItemInfo_dlc达摩杖法,The secret of Martial Arts from the country of ten thousand Buddhas.,เคล็ดวิชาวิทยายุทธ์ลับจากแดนพุทธะหมื่นองค์
+ItemInfo_dlc儒十三经,"It summarizes the various speeches, thoughts and deeds of Confucian sages and their disciples, and is one of the most important Books in the eyes of Confucian students.",โดยสรุปสุนทรพจน์ ความคิด และการกระทำต่างๆ ของปราชญ์ขงจื๊อและลูกศิษย์ของพวกเขา และเป็นหนึ่งในหนังสือที่สำคัญที่สุดในสายตาของนักเรียนขงจื๊อ
+ItemInfo_dlc无极混元功,"One begets two, two begets three, three begets all things. All things in heaven and earth are one, and you can see all things through a glimpse.",หนึ่งให้กำเนิดสอง สองให้กำเนิดสาม สามให้กำเนิดสรรพสิ่ง สรรพสิ่งในจักรวาลเป็นหนึ่งเดียวกัน เพียงแวบเดียวก็สามารถเห็นสรรพสิ่งได้
+ItemInfo_dlc大日如来经,"Named after the five Buddhas, it can remove all evil spirits and delusions, and is invulnerable to all poisons.",ประทานชื่อในนามของ พระพุทธเจ้าทั้งห้า สามารถขจัดทุกความชั่วร้าย และความคิดที่หลงผิด สามารถต้านทานต่อพิษได้ทั้งปวง
+ItemInfo_dlc天魔噬魂术,An extremely domineering evil skill that can turn the enemy's flesh and blood into one's own use.,วิทยายุทธครอบงำที่ชั่วร้ายอย่างยิ่งซึ่งสามารถเปลี่ยนเลือดและเนื้อของศัตรูให้เป็นประโยชน์แก่ตนเองได้
+ItemInfo_dlc霓裳羽衣经,"A footwork sutra created based on ancient dance, which can step on lotus at every step and change shape and shadow.",พระสูตรรอยเท้าที่สร้างขึ้นตามการเต้นรำแบบโบราณซึ่งสามารถเหยียบดอกบัวได้ทุกย่างก้าวและเปลี่ยนรูปทรงและเงา
+ItemInfo_dlc巫蛊毒功,"The witchcraft of Miaojiang, those who are bewitched will lose their minds and become like walking corpses obeying the bewitcher.",วิชาไสยศาสตร์ของชาวม้งแห่งเมี่ยวเจียง ผู้ที่โดนคุณไสยจะถูกควบคุมจิตใจ กลายเป็นเหมือนหุ่นเชิด ที่ทำตามคำสั่งของผู้ใช้
+ItemInfo_dlc惊涛骇浪诀,Records how to Attack the enemy as fiercely as a wave.,บันทึกวิธีโจมตีศัตรูอันดุเดือด ดุจคลื่นทะเลโหมกระหน่ำ
+ItemInfo_dlc兽王诀,"It records the most profound beast taming skills of Beast Manor, which can maximize the potential of pets.",บันทึกทักษะการควบคุมสัตว์ร้ายที่ลึกซึ้งที่สุดในหมู่ตึกหมื่นอสูร ซึ่งสามารถเพิ่มศักยภาพของสัตว์เลี้ยงได้ถึงขีดสุด
+ItemInfo_dlc天女散花,"Transform MP into gas, use petals as needles, and carry out a wide range of range Attacks, belonging to the ""No Escape"" technique in Throwing.","เปลี่ยน MP เป็นลมปราณ ใช้กลีบดอกไม้เป็นเข็ม และทำการโจมตีระยะไกลวงกว้างได้หลากหลาย ซึ่งเป็นของเทคนิค ""แหฟ้าตาข่ายดิน"" ของอาวุธลับ"
+ItemInfo_dlc九霄真经,"An extremely profound heart method Manual, divided into nine orifices and nine chapters, once mastered, all potential can be brought to the limit, reaching the realm of heaven and man.",เคล็ดคัมภีร์กำลังภายในอันยิ่งใหญ่ที่มีความลึกซึ้งอย่างยิ่ง แบ่งเป็น 9 ช่องและ 9 บท เมื่อฝึกจนชำนาญแล้ว จะสามารถปลดปล่อยศักยภาพทั้งหมดไปสู่จุดสุดยอด บรรลุถึงขั้นสูงสุดของมนุษย์
+ItemInfo_dlc满江红,"Ye Pengju's final words written on the wall of the Supreme Court Prison, full of grandeur, loyalty, and heartfelt feelings.",คำพูดสุดท้ายของเย่เผิงจูที่เขียนบนผนังเรือนจำศาลต้าหลี่นั้นช่างดูสง่างาม เต็มไปด้วยความภักดีและความขุ่นเคือง ที่เขาได้เปิดเผยความรู้สึกในใจออกมา
+ItemInfo_dlc圣火神功,"The secret skill of the Divine Flame Sect, it is said that only those who have learned the Holy Fire Divine Skill are qualified to succeed as the next Divine Flame Sect master.",วิทยายุทธลับของนิกายเพลิงศักดิ์สิทธิ์ ว่ากันว่าเฉพาะผู้ที่สำเร็จวิชาพลังเพลิงศักดิ์สิทธิ์เท่านั้น จึงจะมีคุณสมบัติที่เป็นประมุขคนต่อไปของนิกายเพลิงศักดิ์สิทธิ์
+ItemInfo_dlc祈禳大法,"As long as there is a breath, you can Revitalization. It is a method of prolonging life that everyone in the rivers and lakes wants to get.",ตราบใดที่ยังมีลมหายใจอยู่ ก็ยังมีความหวังที่จะฟื้นคืนชีพได้เสมอ เป็นวิธีการยืดอายุที่ผู้คนทั่วหล้า ล้วนต้องการได้มาครอบครอง.
+ItemInfo_dlc万民掌,"With a wave of the palm, the crowd surges! United as one, unstoppable!",เพียงแค่ขยับฝ่ามือ ทะเลคนก็คลุ้มคลั่ง! เมื่อประชาชนรวมใจเป็นหนึ่ง ไม่มีสิ่งใดหยุดยั้งได้!
+ItemInfo_dlc无名剑法,"A sword technique whose name has been lost, a truly powerful sword technique does not need the name of the move to set it off.",ตำราวิชากระบี่ที่ชื่อเลื่อนหายไปแล้ว เป็นวิชากระบี่ที่ทรงพลังอย่างแท้จริง ไม่จำเป็นต้องอธิบายชื่อหรือกระบวนท่าใดๆ
+ItemInfo_dlc蛮荒霸道斩,"A sword technique that is expansive and domineering, possessing the power to cleave the Primal Land.",วิทยายุทธดาบที่มีกระบวนท่าที่ใหญ่และกว้าง เต็มไปด้วยอำนาจที่น่ากลัว มีแรงพอที่จะเปิดโลกแยกดินแดนปฐมภูมิได้
+ItemInfo_dlc百鸟朝凰枪,"It is said to be a profound spear technique created by the master of spears, Tong Yuan. Once you learn this spear technique, you can be called the ""King of Spears"".","ว่ากันว่าเป็นวิทยายุทธหอกอันล้ำลึกที่คิดค้นขึ้นโดยปรมาจารย์หอก ตงหยวน เมื่อเจ้าเรียนรู้วรยุทธหอกนี้แล้ว เจ้าสามารถถูกเรียกว่า ""ราชาแห่งหอก"""
+ItemInfo_dlc分光流星刺,A record of the top assassination Martial Arts created by several generations of Assassin leaders.,บันทึกวิทยายุทธในการลอบสังหารระดับแนวหน้าที่สร้างขึ้นโดยผู้นำนักฆ่าหลายรุ่น
+ItemInfo_dlc笑红尘,"Although this life is not over, the heart is not disturbed, laugh at the world, love and hate are all erased.",แม้ชีวิตนี้ยังไม่สิ้น แต่ใจกลับไม่วุ่นวายใดๆ ยิ้มให้กับโลกีย์ ความรักและความเกลียดชังถูกลบล้างหมดสิ้น
+ItemInfo_dlc玛瑙,"A type of jade with patterns resembling a horse's brain, hence the name.\n<#d09a09>Usage: Gift</color>","ชาวเมืองฉานเชื่อว่าลวดลายของหินหยกสีนี้คล้ายกับสมองของม้า จึงเป็นที่มาของชื่อ\n<#d09a09>การใช้สำหรับ: ของขวัญ</color>"
+ItemInfo_dlc猫眼石,"The light on the stone is as bright and flexible as a cat's eye, hence the name.\n<#d09a09>Usage: Gift</color>","หินที่มีแสงเหมือนตาแมวที่คล่องแคล่วและสดใส จึงได้รับชื่อนี้\n<#d09a09>ใช้สำหรับ: ของขวัญ</color>"
+ItemInfo_dlc孔雀石,"An ancient and precious jade material, its color is identical to peacock feathers.\n<#d09a09>Usage: Gift</color>","วัสดุหยกโบราณอันล้ำค่า สีเดียวกับขนนกยูง\n<#d09a09>ใช้สำหรับ: ให้เป็นของขวัญ</color>"
+ItemInfo_dlc天珠,"A very precious jade, produced in plateau areas.\n<#d09a09>Usage: Gift</color>","ผลิตจากพื้นที่ภูเขาสูง ไม้ที่มีค่าอย่างยิ่ง\n<#d09a09>ใช้สำหรับเป็นของขวัญ</color>"
+ItemInfo_dlc武林凭证,"It is rumored that this item can be obtained in the Martial Arts Conference, and it seems that some people in the rivers and lakes are exchanging it for profound Martial Arts.",ลือกันว่าสามารถได้รับสิ่งนี้จากงานชุมนุมยุทธภพ และดูเหมือนว่าจะมีผู้คนในยุทธภพบางคน ใช้วิชาวรยุทธ์ขั้นสูงแลกเปลี่ยนสิ่งนี้มา
+ItemInfo_dlc真·虚日鼠兽环,One of the genuine twelve animal rings.,หนึ่งในสิบสอง แหวนนักษัตร ที่แท้จริง
+ItemInfo_dlc真·牛金牛兽环,One of the genuine twelve animal rings.,หนึ่งในสิบสอง แหวนนักษัตร ที่แท้จริง
+ItemInfo_dlc真·尾火虎兽环,One of the genuine twelve animal rings.,หนึ่งในสิบสอง แหวนนักษัตร ที่แท้จริง
+ItemInfo_dlc真·房日兔兽环,One of the genuine twelve animal rings.,หนึ่งในสิบสอง แหวนนักษัตร ที่แท้จริง
+ItemInfo_dlc真·亢金龙兽环,One of the genuine twelve animal rings.,หนึ่งในสิบสอง แหวนนักษัตร ที่แท้จริง
+ItemInfo_dlc真·翼火蛇兽环,One of the genuine twelve animal rings.,หนึ่งในสิบสอง แหวนนักษัตร ที่แท้จริง
+ItemInfo_dlc真·星日马兽环,One of the genuine twelve animal rings.,หนึ่งในสิบสอง แหวนนักษัตร ที่แท้จริง
+ItemInfo_dlc真·鬼金羊兽环,One of the genuine twelve animal rings.,หนึ่งในสิบสอง แหวนนักษัตร ที่แท้จริง
+ItemInfo_dlc真·觜火猴兽环,One of the genuine twelve animal rings.,หนึ่งในสิบสอง แหวนนักษัตร ที่แท้จริง
+ItemInfo_dlc真·昴日鸡兽环,One of the genuine twelve animal rings.,หนึ่งในสิบสอง แหวนนักษัตร ที่แท้จริง
+ItemInfo_dlc真·娄金狗兽环,One of the genuine twelve animal rings.,หนึ่งในสิบสอง แหวนนักษัตร ที่แท้จริง
+ItemInfo_dlc真·室火猪兽环,One of the genuine twelve animal rings.,หนึ่งในสิบสอง แหวนนักษัตร ที่แท้จริง
+FondTag_资源,Resources,ทรัพยากร
+ItemName_dlc神机战匣,Secret Battle Box,กล่องสงครามเทวะ
+ItemName_dlc吹雪,Fubuki,พายุหิมะ
+ItemName_dlc斋心,Shinsai,หยกใจบริสุทธิ์
+ItemName_dlc吹雪碎片1,Fubuki Part·One,พายุหิมะ ส่วนที่ 1
+ItemName_dlc吹雪碎片2,Fubuki Part·Two,พายุหิมะ ส่วนที่ 2
+ItemName_dlc吹雪碎片3,Fubuki Part·Three,พายุหิมะ ส่วนที่ 3
+ItemName_dlc斋心碎片1,Shinsai Part·One,หยกใจบริสุทธิ์ ส่วนที่ 1
+ItemName_dlc斋心碎片2,Shinsai Part·Two,หยกใจบริสุทธิ์ ส่วนที่ 2
+ItemName_dlc斋心碎片3,Shinsai Part·Three,หยกใจบริสุทธิ์ ส่วนที่ 3
+ItemName_dlc神机战匣碎片1,Secret Battle Box Part·One,กล่องสงครามเทวะ ส่วนที่ 1
+ItemName_dlc神机战匣碎片2,Secret Battle Box Part·Two,กล่องสงครามเทวะ ส่วนที่ 2
+ItemName_dlc神机战匣碎片3,Secret Battle Box Part·Three,กล่องสงครามเทวะ ส่วนที่ 3
+ItemInfo_dlc神机战匣,"A masterpiece of craftsmanship, containing machinery, can be freely assembled into a hundred weapons to fight the enemy.",ประดิษฐ์อย่างชาญฉลาด มีการซ่อนกลไกภายใน สามารถประกอบเป็นอาวุธของหลายสำนัก เพื่อต่อสู้ได้ตามต้องการ
+ItemInfo_dlc吹雪,"Impervious to swords and spears, blood does not stick, ordinary methods cannot harm it.",ไม่มีกระบี่หรือหอกใดสามารถทำอันตรายได้ แม้แต่เลือดก็ไม่สามารถเปื้อนได้ วิธีธรรมดาไม่สามารถสร้างรอยให้มันได้แม้แต่นิดเดียว
+ItemInfo_dlc斋心,"Thousand-year-old jade, with extraordinary effects, wearing it can double the effect of martial arts practice.",หยกเขียวพันปี มีประสิทธิภาพพิเศษ เมื่อนำมาใส่แล้ว จะเพิ่มผลการฝึกฝนวรยุทธ์มากขึ้นเป็นเท่าตัว
+ItemInfo_dlc吹雪碎片1,"One of the fragments that make up ""Fubuki"". It is said that collecting three fragments can form ""Fubuki"".",เป็นหนึ่งในชิ้นส่วนที่ประกอบขึ้นเป็น “พายุหิมะ” มีข่าวลือว่าหากรวบรวมชิ้นส่วนทั้งสามชิ้นจะสามารถสร้าง “พายุหิมะ” ได้
+ItemInfo_dlc吹雪碎片2,"One of the fragments that make up ""Fubuki"". It is said that collecting three fragments can form ""Fubuki"".",เป็นหนึ่งในชิ้นส่วนที่ประกอบขึ้นเป็น “พายุหิมะ” มีข่าวลือว่าหากรวบรวมชิ้นส่วนทั้งสามชิ้นจะสามารถสร้าง “พายุหิมะ” ได้
+ItemInfo_dlc吹雪碎片3,"One of the fragments that make up ""Fubuki"". It is said that collecting three fragments can form ""Fubuki"".",เป็นหนึ่งในชิ้นส่วนที่ประกอบขึ้นเป็น “พายุหิมะ” มีข่าวลือว่าหากรวบรวมชิ้นส่วนทั้งสามชิ้นจะสามารถสร้าง “พายุหิมะ” ได้
+ItemInfo_dlc斋心碎片1,"One of the fragments that make up ""Shinsai"". It is said that collecting three fragments can form ""Shinsai"".",เป็นหนึ่งในชิ้นส่วนที่ประกอบขึ้นเป็น “หยกใจบริสุทธิ์” มีข่าวลือว่าหากรวบรวมชิ้นส่วนทั้งสามชิ้นจะสามารถสร้าง “หยกใจบริสุทธิ์” ได้
+ItemInfo_dlc斋心碎片2,"One of the fragments that make up ""Shinsai"". It is said that collecting three fragments can form ""Shinsai"".",เป็นหนึ่งในชิ้นส่วนที่ประกอบขึ้นเป็น “หยกใจบริสุทธิ์” มีข่าวลือว่าหากรวบรวมชิ้นส่วนทั้งสามชิ้นจะสามารถสร้าง “หยกใจบริสุทธิ์” ได้
+ItemInfo_dlc斋心碎片3,"One of the fragments that make up ""Shinsai"". It is said that collecting three fragments can form ""Shinsai"".",เป็นหนึ่งในชิ้นส่วนที่ประกอบขึ้นเป็น “หยกใจบริสุทธิ์” มีข่าวลือว่าหากรวบรวมชิ้นส่วนทั้งสามชิ้นจะสามารถสร้าง “หยกใจบริสุทธิ์” ได้
+ItemInfo_dlc神机战匣碎片1,"One of the fragments that make up ""Secret Battle Box"". It is said that collecting three fragments can form ""Secret Battle Box"".",เป็นหนึ่งในชิ้นส่วนที่ประกอบขึ้นเป็น “กล่องสงครามเทวะ” มีข่าวลือว่าหากรวบรวมชิ้นส่วนทั้งสามชิ้น จะสามารถสร้าง “กล่องสงครามเทวะ” ได้
+ItemInfo_dlc神机战匣碎片2,"One of the fragments that make up ""Secret Battle Box"". It is said that collecting three fragments can form ""Secret Battle Box"".",เป็นหนึ่งในชิ้นส่วนที่ประกอบขึ้นเป็น “กล่องสงครามเทวะ” มีข่าวลือว่าหากรวบรวมชิ้นส่วนทั้งสามชิ้น จะสามารถสร้าง “กล่องสงครามเทวะ” ได้
+ItemInfo_dlc神机战匣碎片3,"One of the fragments that make up ""Secret Battle Box"". It is said that collecting three fragments can form ""Secret Battle Box"".",เป็นหนึ่งในชิ้นส่วนที่ประกอบขึ้นเป็น “กล่องสงครามเทวะ” มีข่าวลือว่าหากรวบรวมชิ้นส่วนทั้งสามชิ้น จะสามารถสร้าง “กล่องสงครามเทวะ” ได้
+ItemName_dlc浩然令,Hao Ran Order,ป้ายคำสั่งฮ่าวหราน
+ItemInfo_dlc浩然令,A certificate from the nameless hero to commend the Defender for his righteousness and contribution to the martial arts world.,ป้ายคำสั่งรับรองจากยอดยุทธ์ไร้นาม เพื่อชื่นชมผู้พิทักษ์ในการรักษาคุณธรรม และสร้างผลงานในยุทธภพ
+ItemName_dlc凌霄,Piercing the Heavens,ล่องนภา
+ItemName_dlc湛卢,Legendary Blade Zhan Lu,กระบี่จ้านหลู
+ItemInfo_dlc凌霄,"The sect weapon of Langya Sword Pavilion, its Power is extraordinary.",อาวุธประจำสำนักของศาลากระบี่หลางหยา มีพลังที่ไม่ธรรมดา
+ItemInfo_dlc湛卢,"The sword forged by Ouye Heng, its Power is beyond ordinary!",กระบี่ที่สร้างโดยโอวเย่เหิง มีพลังอันเกรียงไกรเหนือคำบรรยาย!
+ItemName_dlc赝品神机战匣,An exceptionally heavy Secret Battle Box,กล่องสงครามเทวะที่หนักเป็นพิเศษ
+ItemInfo_dlc赝品神机战匣,"Although it's a counterfeit, its Power is not to be underestimated.",แม้ว่าจะเป็นของปลอม แต่พลังของมันก็ไม่อาจมองข้ามได้
+ItemName_dlc赝品吹雪,Rusty Fubuki,พายุหิมะขึ้นสนิม
+ItemInfo_dlc赝品吹雪,"Although it's a counterfeit, its Power is not to be underestimated.",แม้ว่าจะเป็นของปลอม แต่พลังของมันก็ไม่อาจมองข้ามได้
+ItemName_dlc赝品斋心,Discolored Shinsai,หยกใจบริสุทธิ์ที่เปลี่ยนสี
+ItemInfo_dlc赝品斋心,"Although it's a counterfeit, its Power is not to be underestimated.",แม้ว่าจะเป็นของปลอม แต่พลังของมันก็ไม่อาจมองข้ามได้
